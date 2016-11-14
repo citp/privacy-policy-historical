@@ -1,41 +1,13 @@
-> *The following text is extracted and transformed from the canbet.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404073653id_/http%3A//www.matchedbetting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canbet.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114103839id_/http%3A//matchedbetting.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MatchedBetting.com
+# Privacy Policy | MatchedBetting.com
 
-## Privacy Policy:
+This privacy policy explains how we collect and use the information that you provide us with while using this website.
 
-Matched Betting (" **Matched Betting** ") operates www.matchedbetting.com and may operate other websites. It is Matched Betting's policy to respect your privacy regarding any information we may collect while operating our websites.
+Your use of MatchedBetting.com constitutes your acceptance of all the conditions contained in this Privacy Policy and your consent to any action we take with respect to your information that is in compliance with this Privacy Policy. If you do not agree to this Privacy Policy, please do not use this website.
 
-### Website Visitors
+This policy applies to all information collected from or submitted by users of this website, including both non-identifying information and personally identifying information. Non-identifying information such as IP addresses, referring websites, search terms and other statistics regarding users' visits to this website, may be collected and stored using cookies, server logs and other automatic operations. We may use any or all information collected to analyze traffic to and from this website and to enhance our services.
 
-Like most website operators, Matched Betting collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Matched Betting's purpose in collecting non-personally identifying information is to better understand how Matched Betting's visitors use its website. From time to time, Matched Betting may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+Personally identifying information is voluntarily disclosed by users of this website via e-mails, forms and other submissions; we do not collect personally identifying information without the user’s knowledge and permission. We hold as confidential any personal information which may be submitted by users of this site. We may use such information for the specific purposes for which it was provided including to enable e-mail notifications to be sent regarding special alerts or to otherwise make contact.
 
-Matched Betting also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on www.matchedbetting.com blogs/sites. Matched Betting only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
-
-### Gathering of Personally-Identifying Information
-
-Certain visitors to Matched Betting's websites choose to interact with Matched Betting in ways that require Matched Betting to gather personally-identifying information. The amount and type of information that Matched Betting gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [www.matchedbetting.com](http://www.matchedbetting.com/) to provide a username and email address. Those who engage in transactions with Matched Betting are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Matched Betting collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Matched Betting. Matched Betting does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
-
-### Aggregated Statistics
-
-Matched Betting may collect statistics about the behavior of visitors to its websites. Matched Betting may display this information publicly or provide it to others. However, Matched Betting does not disclose personally-identifying information other than as described below.
-
-### Protection of Certain Personally-Identifying Information
-
-Matched Betting discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Matched Betting's behalf or to provide services available at Matched Betting's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Matched Betting's websites, you consent to the transfer of such information to them. Matched Betting will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Matched Betting discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Matched Betting believes in good faith that disclosure is reasonably necessary to protect the property or rights of Matched Betting, third parties or the public at large. If you are a registered user of an Matched Betting website and have supplied your email address, Matched Betting may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Matched Betting and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Matched Betting takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
-
-### Cookies
-
-A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Matched Betting uses cookies to help Matched Betting identify and track visitors, their usage of Matched Betting website, and their website access preferences. Matched Betting visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Matched Betting's websites, with the drawback that certain features of Matched Betting's websites may not function properly without the aid of cookies.
-
-### Business Transfers
-
-If Matched Betting, or substantially all of its assets, were acquired, or in the unlikely event that Matched Betting goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Matched Betting may continue to use your personal information as set forth in this policy.
-
-### Ads
-
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Matched Betting and does not cover the use of cookies by any advertisers.
-
-### Privacy Policy Changes
-
-Although most changes are likely to be minor, Matched Betting may change its Privacy Policy from time to time, and in Matched Betting's sole discretion. Matched Betting encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a www.matchedbetting.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+We are committed to protect your privacy and we do not pass, share or sell any kind of personal information to anyone outside of our organization. This website contains content, services and other materials that link to internet sites operated by third parties. We have no control over those other sites and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites.
