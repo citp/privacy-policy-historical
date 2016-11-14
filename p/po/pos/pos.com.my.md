@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pos.com.my privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428190620id_/http%3A//www.pos.com.my/media/1141/pdpa-notice-eng-as-at-7-jan-2015-v2.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pos.com.my privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114205743id_/http%3A//pos.com.my/media/1141/pdpa-notice-eng-as-at-7-jan-2015-v2.pdf) for the most accurate reproduction.*
 
 # 
 
