@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainpop.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604030930id_/https%3A//www.brainpop.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainpop.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114175943id_/https%3A//www.brainpop.com/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - BrainPOP
 
@@ -115,14 +115,30 @@ BrainPOP Educators is a section of this website that is directed to teachers, pa
 Using BrainPOP® Outside the US   
 If you are using this website or app outside the United States, you consent to having your information and data transferred to the United States. If you are from any jurisdiction with laws or regulations governing the use of the Internet, including collection, use and disclosure of personal data, different from those of the United States, you may only use this website or app in a manner lawful in your jurisdiction. If your use of this website or app may be unlawful in your jurisdiction, please do not use this website or app. If your use of My BrainPOP may be unlawful in your jurisdiction, please do not use My BrainPOP. 
 
+Using BrainPOP from the EU
+
+  
+BrainPOP LLC participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. BrainPOP is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. <https://www.privacyshield.gov/list>
+
+BrainPOP is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. BrainPOP complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, BrainPOP is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, BrainPOP may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the Privacy Shield website [https://www.privacyshield.gov](https://www.privacyshield.gov/), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+  
+Upon request BrainPOP will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by contacting us at [accessrequests@brainpop.com](mailto:%20accessrequests@brainpop.com). We will respond to your request within a reasonable timeframe. 
+
 Changes to Our Privacy Policy   
-We constantly strive to provide the best services. Changes to this policy may be required to keep apace with changing technology and threats, and as new or changed services are released. We expect most such changes to be minor, but there may be cases where changes may be more significant. In such cases we will first provide prominent notice to users who are affected. 
+We constantly strive to provide the best services. Changes to this policy may be required to keep pace with changing technology and threats, and as new or changed services are released. We expect most such changes to be minor, but there may be cases where changes may be more significant. In such cases we will first provide prominent notice to users who are affected. 
 
 Posting the modified Privacy Policy on this website or app and providing notice as stated above will give effect to the revised terms. Your continued use of this website or app indicates your acceptance of any revised terms. If you do not agree to the revised policy, please refrain from using this website or app and/or leave this website or app. 
 
 Contact information   
-If you have any questions or concerns about this Privacy Policy, please contact us at [privacy@brainpop.com](mailto:privacy@brainpop.com). 
+If you have any questions or concerns about this Privacy Policy, please contact us at [privacy@brainpop.com](mailto:privacy@brainpop.com) or at BrainPOP, 71 W 23rd Street, 17th Floor, New York, NY 10010. 
 
 If you wish to report a security breach, please contact us at [security@brainpop.com](mailto:security@brainpop.com). 
 
-This policy was last updated on January 9th, 2015.
+This policy was last updated on January 9th, 2015, and Using BrainPOP from the EU was added and in effect as of September 30th, 2016.
