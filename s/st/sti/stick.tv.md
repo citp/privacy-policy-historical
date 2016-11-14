@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stick.tv privacy policy that was archived on 2016-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160127115311id_/http%3A//stick.tv/modal/terms_privacy%3Ftab%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stick.tv privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114084020id_/http%3A//www.stick.tv/modal/terms_privacy%3Ftab%3Dprivacy) for the most accurate reproduction.*
 
 # None
 
