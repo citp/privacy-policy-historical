@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the cubcadet.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514103313id_/http%3A//www.cubcadet.com/equipment/DisplayContentView%3FlangId%3D-1%26storeId%3D10051%26catalogId%3D14101%26pageName%3Dgeneral/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cubcadet.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114103735id_/http%3A//www.cubcadet.com/equipment/CubCadetFullPageArticleDisplayView%3FlangId%3D-1%26storeId%3D10051%26catalogId%3D14101%26pageView%3DCubcadet_General/Privacy_Policy.html) for the most accurate reproduction.*
 
-# 
+# Cub Cadet | Lawn Mowers, Garden Tractors, Snow Blowers & More
 
 **Effective Date: September 8, 2015**
 
 **Our Commitment to Privacy**
 
-Cub Cadet LLC, including each of its subsidiaries and/or affiliates, having a principal place of business located at 5903 Grafton Road, Valley City, Ohio 44280 ('Cub Cadet') is committed to protecting the privacy and security of personal information. As part of normal business activities, we may collect and store personal information regarding customers, employees and associates, suppliers, and distributors. Personal information may be collected, transferred, and stored on servers located in any country in which we do business.
+Cub Cadet LLC, including each of its subsidiaries and/or affiliates, having a principal place of business located at 5903 Grafton Road, Valley City, Ohio 44280 (“Cub Cadet”) is committed to protecting the privacy and security of personal information. As part of normal business activities, we may collect and store personal information regarding customers, employees and associates, suppliers, and distributors. Personal information may be collected, transferred, and stored on servers located in any country in which we do business.
 
 The following persons or entities may have access to the information that you provide to Cub Cadet: Cub Cadet, our employees and associates; Cub Cadet authorized sales and service centers; and service providers who assist us with archival, auditing, accounting, legal, business consulting, and website or technology services. Cub Cadet will not need your consent for the transmission of your personal information to the foregoing persons or entities. Please bear in mind that Cub Cadet and our service providers will take reasonable care to protect data and limit access only to associates who have a legitimate business reason to view the data. All parties who have access to your information are required to keep the information confidential and may not use it for any purpose other than to provide you services within the normal business activities of Cub Cadet and its authorized sales and service centers.
 
-This policy (the 'Policy') applies to all personal information that is provided to Cub Cadet in any form or medium, and may be amended from time to time. If our information practices change at some time in the future, we will post the policy changes here as notification and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back to our website periodically.
+This policy (the “Policy”) applies to all personal information that is provided to Cub Cadet in any form or medium, and may be amended from time to time. If our information practices change at some time in the future, we will post the policy changes here as notification and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back to our website periodically.
 
 **Our Commitment to Children's Privacy**
 
@@ -74,9 +74,9 @@ You may update, remove, or correct your personal information on record with us b
 
 Should you wish to exercise your right of access, rectification, suppression and/or objection of personal information processing, or if you have any doubts or inquiries in connection with such, you may contact our Information Privacy Department at the address and/or email provided in our contact details.
 
-Any application for the exercise of the aforementioned rights must necessarily indicate and include: i) your name and domicile, ii) copy of your official ID (passport, voter's ID, driver's license), iii) a clear and precise description of the personal information you wish to access, rectify, suppress or object and any other component which facilitates the obtainment of your data, as well as iv) any other requirement set forth in terms of the applicable law.
+Any application for the exercise of the aforementioned rights must necessarily indicate and include: i) your name and domicile, ii) copy of your official ID (passport, voter’s ID, driver’s license), iii) a clear and precise description of the personal information you wish to access, rectify, suppress or object and any other component which facilitates the obtainment of your data, as well as iv) any other requirement set forth in terms of the applicable law.
 
-Cub Cadet shall respond to any complete application within 20 calendar days or the maximum term permitted by the applicable law. Cub Cadet's reply shall indicate if the application for access, rectification, cancellation or objection is appropriate and, in such case, Cub Cadet shall effect its decision within the following 15 calendar days or the maximum term permitted by the applicable law to the date in which the answer was delivered to the owner of the personal information or to his or her representative. The terms may be extended pursuant to the applicable provisions. If you are exercising your right of access, Cub Cadet may provide you with electronic copies of your personal information. 
+Cub Cadet shall respond to any complete application within 20 calendar days or the maximum term permitted by the applicable law. Cub Cadet’s reply shall indicate if the application for access, rectification, cancellation or objection is appropriate and, in such case, Cub Cadet shall effect its decision within the following 15 calendar days or the maximum term permitted by the applicable law to the date in which the answer was delivered to the owner of the personal information or to his or her representative. The terms may be extended pursuant to the applicable provisions. If you are exercising your right of access, Cub Cadet may provide you with electronic copies of your personal information. 
 
 **_LIMIT USE OR DISCLOSURE_**
 
@@ -108,7 +108,7 @@ Cubcadet.com utilizes cookies for several purposes, including the storage of inf
 
 A cookie is a small piece of information that a Web server stores temporarily using your Web browser and then later retrieves. A cookie is not a way for a Web server to access and find out private information about you. However, once you choose to furnish a website with personal information, for example, by registering at one of our websites, this information may be linked to the data stored in the cookie.
 
-The use of cookies is relatively standard and you will likely find them used on most other Web sites. Most browsers are initially set up to accept cookies. If you prefer, you can customize the settings on your browser either to notify you when you receive a cookie or to refuse to accept cookies. Disabling cookies for this website will not impact your ability to use its features or view its content, but you may not be able to take advantage of the website's personalization features.
+The use of cookies is relatively standard and you will likely find them used on most other Web sites. Most browsers are initially set up to accept cookies. If you prefer, you can customize the settings on your browser either to notify you when you receive a cookie or to refuse to accept cookies. Disabling cookies for this website will not impact your ability to use its features or view its content, but you may not be able to take advantage of the website’s personalization features.
 
 **_ONLINE BEHAVIORAL ADVERTISING_**
 
@@ -121,7 +121,7 @@ If you opt-out of an NAI third-party advertising network, you will no longer rec
 
 **_NOTICE TO PERSONS ACCESSING THIS WEBSITE OUTSIDE OF THE UNITED STATES_**
 
-If you reside outside the United States, any information you provide to us through this website may be transferred out of your country and into the United States to Cub Cadet and/or any other company that belongs to Cub Cadet's economic group.  We do not need additional consent for this transfer. If you do not want your personal information to leave your country, please do not submit that information through this website. By providing personal information, you explicitly consent to the transfer of your information to the United States. You also consent to the application of U.S. law, as well as local law, to our processing your personal information.
+If you reside outside the United States, any information you provide to us through this website may be transferred out of your country and into the United States to Cub Cadet and/or any other company that belongs to Cub Cadet’s economic group.  We do not need additional consent for this transfer. If you do not want your personal information to leave your country, please do not submit that information through this website. By providing personal information, you explicitly consent to the transfer of your information to the United States. You also consent to the application of U.S. law, as well as local law, to our processing your personal information.
 
 **_LIMITATIONS_**
 
