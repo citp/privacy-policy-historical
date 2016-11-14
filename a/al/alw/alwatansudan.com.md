@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alwatansudan.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413183513id_/http%3A//www.alwatansudan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alwatansudan.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114094551id_/http%3A//www.alwatansudan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Alwatan Sudan
 
