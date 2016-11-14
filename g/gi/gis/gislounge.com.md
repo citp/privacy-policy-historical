@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gislounge.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402170914id_/https%3A//www.gislounge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gislounge.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114124250id_/https%3A//www.gislounge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ~ GIS Lounge
 
@@ -41,4 +41,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-While you are checking this out, you are requested to also check out our  _[Copyright](https://www.gislounge.com/copyright/)_ ,  _[Terms of Service](https://www.gislounge.com/terms-of-service/)_  and  _[Disclaimer](https://www.gislounge.com/disclaimer/)_.
+While you are checking this out, you are requested to also check out our  _[Copyright](http://www.gislounge.com/copyright/)_ ,  _[Terms of Service](http://www.gislounge.com/terms-of-service/)_  and  _[Disclaimer](http://www.gislounge.com/disclaimer/)_.
