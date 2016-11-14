@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codegrape.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613002951id_/http%3A//www.codegrape.com/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codegrape.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114112612id_/https%3A//www.codegrape.com/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CodeGrape
 
@@ -115,7 +115,7 @@ If you request us not to use personal information in a particular manner or at a
 
 ### International transfer of information
 
-Because our server and information processing equipment is located in the United States of America, the information collected from you will be stored there. By voluntarily providing information to us when using the Site, you are consenting to the collection and use of your personal information by us, including the transfer to another jurisdiction other than Australia.
+Because our server and information processing equipment is located in Netherlands, the information collected from you will be stored there. By voluntarily providing information to us when using the Site, you are consenting to the collection and use of your personal information by us.
 
 ### Further information
 
