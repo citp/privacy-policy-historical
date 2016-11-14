@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fidelity.com privacy policy that was archived on 2016-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160311225937id_/https%3A//www.fidelity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fidelity.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114143818id_/http%3A//www.fidelity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fidelity Investments
 
@@ -55,7 +55,7 @@ Fidelity does not share personal information about our customers with unaffiliat
 
   * Unaffiliated service providers (for example, printing and mailing companies, securities clearinghouses, marketing service providers, and other entities who may provide services at Fidelity's direction)
   * Government agencies, other regulatory bodies and law enforcement officials (for example, for tax purposes or for reporting suspicious transactions)
-  * Other organizations, with your consent or as directed by your representative (for example, if you use Fidelity as a financial reference in applying for credit with another institution), or as permitted or required by law (for example, for fraud prevention)
+  * Other organizations, with your consent or as directed by your representative (for example, if you use Fidelity as a financial reference in applying for credit with another institution), or as permitted or required by law (for example, for fraud prevention or to respond to a subpoena)
 
 
 
@@ -144,9 +144,9 @@ Fidelity offers several options for accessing and, if necessary, correcting your
   * Fidelity Investments Life Insurance Company
   * Empire Fidelity Investments Life Insurance Company
   * Fidelity Insurance Agency, Inc.
+  * FIAM LLC
   * National Financial Services LLC
   * Strategic Advisers, Inc.
-  * Pyramis Global Advisors, LLC
   * Other companies owned by Fidelity Investments using the Fidelity name to provide financial or payroll services to customers
 
  
@@ -172,5 +172,5 @@ Please read the Fidelity Funds Privacy Policy in conjunction with the Privacy Po
 The Fidelity Funds Privacy Policy is provided on behalf of the Fidelity Investments family of mutual funds.
 
   
-Effective June 2015     
+Effective June 2016     
 ©1998-2016 FMR LLC. All Rights Reserved.
