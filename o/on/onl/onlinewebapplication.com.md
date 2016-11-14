@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinewebapplication.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529021037id_/http%3A//onlinewebapplication.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinewebapplication.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114103916id_/http%3A//onlinewebapplication.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Tech News
 
@@ -18,7 +18,7 @@ Like many other [Web](http://onlinewebapplication.com/6-tools-monitoring-webmail
 
 
 
-These third-party ad servers or ad networks use [technology](http://onlinewebapplication.com/how-to-start-a-career-in-it/) to the advertisements and links that appear on [onlinewebapplication.com](http://onlinewebapplication.com/) send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the [advertising](http://onlinewebapplication.com/clicksor-adsense-alternative/) content that you see.
+These third-party ad servers or ad networks use [technology](http://onlinewebapplication.com/enhance-your-business-security-with-technology/) to the advertisements and links that appear on [onlinewebapplication.com](http://onlinewebapplication.com/) send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the [advertising](http://onlinewebapplication.com/clicksor-adsense-alternative/) content that you see.
 
 [onlinewebapplication.com](http://onlinewebapplication.com/) has no access to or control over these cookies that are used by third-party advertisers.
 
