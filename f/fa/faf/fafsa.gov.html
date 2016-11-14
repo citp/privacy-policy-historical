@@ -1,34 +1,37 @@
-<!--The following is the downloaded HTML source of the fafsa.gov privacy policy that was archived on 2015-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906080437id_/https%3A//fafsa.gov/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fafsa.gov privacy policy that was archived on 2016-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161115002844id_/https%3A//fafsa.gov/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy - FAFSA on the Web - Federal Student Aid</title>
-<link href="css/staticNav.css" type="text/css" rel="stylesheet">
-<link href="css/staticLayout.css" type="text/css" rel="stylesheet">
+ 		<link type="text/css" rel="stylesheet" href="css/staticNav.css">
+        <link type="text/css" rel="stylesheet" href="css/staticLayout.css">
+        <link type="text/css" rel="stylesheet" media="print" href="css/print.css">
 
-<!--[if lte IE 7]>
-	<style type="text/css">
-		@import url(css/static-ie-fix.css);
-	</style>
-<![endif]-->
+        <!--[if lte IE 7]>
+        <style type="text/css">
+            @import url(css/static-ie-fix.css);l
+        </style>
+        <![endif]-->
 
-<script type="text/javascript" src="/js/fsa.js"></script>
-<script type="text/javascript" src="/js/amessages.js"></script>
-<script type="text/javascript" src="/js/agen.js"></script>
-<script type="text/javascript" src="/js/help.js"></script>
-<script type="text/javascript" src="/js/index/agenindex.js"></script>
-<script type="text/javascript" src="/js/webdemo.js"></script>
-<script type="text/javascript" src="/js/jQuery/jquery-1.8.3.min.js"></script>
-<script type="text/javascript" src="/js/jQuery/jquery.namespace.js"></script>
-<script type="text/javascript" src="/js/externalLinks.js"></script>
-<script type="text/javascript" src="/js/analytics/jquery.analytics.js"></script>
-<script type="text/javascript" src="/js/analytics/jquery.webtrends.js"></script>
-<script type="text/javascript" src="/js/index/pageAnchorFocus.js"></script>
-<script type="text/javascript" src="/js/jQuery/jquery.help.js"></script>
-<script type="text/javascript" src="/js/help.js"></script>
+        <script language="javascript" type="text/javascript" src="/js/jQuery/jquery-1.8.3.min.js"></script>
+        <script language="javascript" type="text/javascript" src="/js/index/dependency.loader.js"></script>
+        <script language="javascript" type="text/javascript" src="/js/fsa.js"></script>
+        <script language="javascript" type="text/javascript" src="/js/index/staticHeaderNav.js"></script>
+        <script language="javascript" type="text/javascript" src="/js/webdemo.js"></script>
+        <script language="javascript" type="text/javascript" src="/js/jQuery/jquery.namespace.js"></script>
+        <script language="javascript" type="text/javascript" src="/js/debug/debug.js"></script>
+		<script language="javascript" type="text/javascript" src="/js/externalLinks.js"></script><script type="text/javascript" async="" src="/js/amessages.js"></script>
+        <script language="javascript" type="text/javascript" src="/js/analytics/jquery.analytics.js"></script>
+        <script language="javascript" type="text/javascript" src="/js/analytics/jquery.webtrends.js"></script>
+        <script language="javascript" type="text/javascript" src="/js/jQuery/jquery.help.js"></script>
+		<script language="javascript" type="text/javascript" src="/js/help.js"></script>
+		<script language="javascript" type="text/javascript" src="/js/helpSearch.js"></script>
+		<script language="javascript" type="text/javascript" src="/js/accessibility.js"></script>
+		<script language="javascript" type="text/javascript" src="/js/browserInterface.js"></script><script type="text/javascript" async="" src="/js/alertMessages.js"></script>
+ <script language="javascript" type="text/javascript" src="/js/index/pageAnchorFocus.js"></script>
 
-<script type="text/javascript">
+<script language="javascript" type="text/javascript">
 //
 	function MM_swapImgRestore() { //v3.0
 		var i, x, a = document.MM_sr;
@@ -121,7 +124,7 @@
 </script>
 </head>
 
-<body onload="FixSearchBox()">
+<body onload="staticHeaderNav.fixSearchBox()">
 
 	<div id="container">
 		<div id="header">
@@ -136,9 +139,6 @@
 
 
 		<form action="" name="FAFSA" method="post">
-				<input type="hidden" name="numresults" value="10">
-	<input type="hidden" name="requiredfields" value="searchType:STUDENT">
-
 			<script type="text/javascript">
 //<![CDATA[
 
@@ -148,14 +148,16 @@
 		// Handle the ENTER key in the Search box
     	jQuery("#navQuery").keypress(function(event) {
 			if (event.keyCode == 13) {
-				JavaScript:Search('nav'); 
+				var searchVal = jQuery("#navQuery").val();
+				helpSearch.fafsaSearch(searchVal, "true", '', 'nav'); 
 				return false;
 			}
     	});
     	
     	// Handle clicking the Search button
     	jQuery("#navSearchRef").click(function() {
-    		JavaScript:Search('nav');
+    		var searchVal = jQuery("#navQuery").val();
+    		helpSearch.fafsaSearch(searchVal, "true", '', 'nav');
     		return false;
     	});
     	
@@ -166,7 +168,7 @@
        	jQuery("#navQuery").help.addHelpSearchInputBehaviors();
        	
        	//takes focus off of topnav icons after being clicked in IE8
-    	navLinkBlur();
+    	staticHeaderNav.navLinkBlur();
 
 	}); // end jQuery(document).ready
 	//]]>
@@ -185,17 +187,17 @@
                         </a>
                     </li>
                     <li>
-                        <a href="Javascript:externalLinks.openExtURL(externalLinks.aboutUs_EN);" title="About Us">
+                        <a href="Javascript:externalLinks.openAboutUs();" title="About Us">
                             <span><img src="images/icon_about_us.gif" alt="About Us"></span><strong>About Us</strong>
                         </a>
                     </li>
                     <li>
-                        <a href="http://StudentAid.gov/fsaid" target="_blank" title="FSA ID">
+                        <a href="Javascript:externalLinks.openFsaId();" title="FSA ID">
                         	<span><img src="images/icon_FSA_ID.gif" alt="FSA ID"></span><strong>FSA ID</strong>
                         </a>
                     </li>
                     <li>
-                        <a href="Javascript:externalLinks.openExtURL(externalLinks.studentAid_EN);" title="StudentAid.gov">
+                        <a href="Javascript:externalLinks.openStudentAid();" title="StudentAid.gov">
                         	<span><img src="images/icon_student_aid.gif" alt="StudentAid.gov"></span><strong>StudentAid.gov </strong>
                         </a>
                     </li>
@@ -264,7 +266,7 @@
 								<a href="privacynotice.htm" target="_blank" tabindex="0">Privacy Notice</a>
 							</p>
 							<p>
-								<a href="Javascript:externalLinks.openExtURL(externalLinks.privacy);" tabindex="0">Privacy Impact Assessment</a>
+								<a href="Javascript:externalLinks.openPrivacyNotice();" tabindex="0">Privacy Impact Assessment</a>
 							</p>
 						</blockquote>
 						<div id="pageAnchorContent">
@@ -430,7 +432,7 @@
 								this link to review the System of Records notices</a>, which list
 							the authorized disclosures and the safeguards for the Office of
 							Federal Student Aid Program systems under the
-							<a href="Javascript:externalLinks.openExtURL(externalLinks.privacyAct);">Privacy Act
+							<a href="Javascript:externalLinks.openPrivacyAct();">Privacy Act
 								of 1974, as amended</a>.
 						</p>
 						<p>
@@ -440,7 +442,7 @@
 							electronic form). State agencies and schools also collect other
 							information relating to financial aid payments, admission,
 							enrollment, etc. The privacy of these records is protected by the
-							<a href="Javascript:externalLinks.openExtURL(externalLinks.FERPA);">
+							<a href="Javascript:externalLinks.openFerpa();">
 								Family Educational Rights and Privacy Act</a>.
 						</p>
 						<p align="right">
@@ -460,25 +462,25 @@
 				</div>
 			</div>
 			<div class="smallGreyText" id="datestamp">
-				Site Last Updated: Wednesday, July 1, 2015
+				Site Last Updated: Sunday, September 25, 2016
 
-				<span id="dateStampLinks">Download <a href="Javascript:externalLinks.openExtURL(externalLinks.adobe);">Adobe Reader</a></span>
+				<span id="dateStampLinks">Download <a href="Javascript:externalLinks.openAdobe();">Adobe Reader</a></span>
 			</div>
 
 			<div id="footer">
 				<ul class="foot_left">
-					<li><a href="Javascript:externalLinks.openExtURL(externalLinks.FOIA);">FOIA</a>|</li>
+					<li><a href="Javascript:externalLinks.openFoia();">FOIA</a>|</li>
 					<li><a href="privacy.htm" target="_blank">Privacy</a>|</li>
 					<li><a href="security.htm" target="_blank">Security</a>|</li>
 					<li><a href="security.htm" target="_blank">Notices</a></li>
 				</ul>
 
 				<ul class="foot_right">
-					<li><a href="Javascript:externalLinks.openExtURL(externalLinks.whiteHouse_EN);">WhiteHouse.gov</a>|
+					<li><a href="Javascript:externalLinks.openWhiteHouse();">WhiteHouse.gov</a>|
 					</li>
-					<li><a href="Javascript:externalLinks.openExtURL(externalLinks.usaGov_EN);">USA.gov</a>|
+					<li><a href="Javascript:externalLinks.openUsaGov();">USA.gov</a>|
 					</li>
-					<li><a href="Javascript:externalLinks.openExtURL(externalLinks.edGov_EN);">ED.gov</a></li>
+					<li><a href="Javascript:externalLinks.openEdGov();">ED.gov</a></li>
 				</ul>
 			</div>
 	</form></div>
