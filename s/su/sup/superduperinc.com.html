@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the superduperinc.com privacy policy that was archived on 2016-03-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160323234742id_/https%3A//www.superduperinc.com/about/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the superduperinc.com privacy policy that was archived on 2016-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161114112728id_/https%3A//www.superduperinc.com/about/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta http-equiv="content-language" content="en"><title>
 	Super Duper Inc. Privacy Policy
@@ -134,6 +134,8 @@
                         window.location = rootUrl + webserviceRoot + "/cartCheckout_sdm.aspx?step=2";
                     } else if (window.location.pathname.indexOf("redeemcode.aspx") >= 0) {
                         window.location = rootUrl + webserviceRoot + "/dl_redeemcode_sdm.aspx" + window.location.search;
+                    } else if (window.location.search.indexOf("nomobile") >= 0) {   //special crap that will force a mobile device to still use the main site
+                        // do nothing and stay on the main stie even though it is a mobile device
                     } else if (window.location.search.indexOf("mobile") >= 0) {   //special crap
                         var passedCriteria = window.location.search.split("=");
                         var qrystring = "";
@@ -274,7 +276,7 @@
 
     <div id="welcomeBox"></div>
     
-    <div id="welcomeDate">Wednesday, March 23, 2016</div>
+    <div id="welcomeDate">Monday, November 14, 2016</div>
         
     <div id="welcomeMess">
         <a href="https://www.superduperinc.com/myAccount/login.aspx?lid=9C989CC6" id="LoginLink" onclick="_gaq.push(['_trackEvent', 'Header Nav Link', 'click', 'Login']);"><img src="/images/widerLayout/buttons/signIn.png" alt="Sign In" width="60" height="19"></a>
@@ -513,6 +515,7 @@
                 <li><a href="/CEU/freeCEU.aspx" onclick="_gaq.push(['_trackEvent', 'Header Nav Link', 'click', 'FREE Stuff: CEUs']);">CEUs</a></li>
                 <li><a href="/Handouts/Handout.aspx" onclick="_gaq.push(['_trackEvent', 'Header Nav Link', 'click', 'FREE Stuff: Handouts']);">Handouts</a></li>
                 <li><a href="/analyzer/Default.aspx" onclick="_gaq.push(['_trackEvent', 'Header Nav Link', 'click', 'FREE Stuff: Response Analyzers']);">Response Analyzers</a></li>
+                <li><a href="/facebook/Calendar.aspx" onclick="_gaq.push(['_trackEvent', 'Header Nav Link', 'click', 'FREE Stuff: Speech Calendars']);">Speech Calendars</a></li>
                 <li><a href="/caseHistory/default.aspx" onclick="_gaq.push(['_trackEvent', 'Header Nav Link', 'click', 'FREE Stuff: SLP Case History Form']);">SLP Case History Form</a></li>
             </ul>
         </li>
@@ -521,9 +524,11 @@
                 
                 
                 
+                <li><a href="/products/specials3.aspx" onclick="_gaq.push(['_trackEvent', 'Header Nav Link', 'click', 'SAVE: Overstock']);">Artic Photo Cards</a></li>
                 
                 <li><a href="/products/sharonspick.aspx" onclick="_gaq.push(['_trackEvent', 'Header Nav Link', 'click', 'Sharons Deal of the Week']);">Sharon Webber's Deal</a></li>
-                <li><a href="/products/clearance.aspx" onclick="_gaq.push(['_trackEvent', 'Header Nav Link', 'click', 'Summer Clearance']);">Clearance</a></li>
+                <li><a href="/products/combo.aspx" onclick="_gaq.push(['_trackEvent', 'Header Nav Link', 'click', 'Super Duper Combo']);">Super Duper Combos</a></li>
+                
                 
                 
             </ul>
@@ -587,8 +592,8 @@
         <li id="pinterest">
             <a href="http://pinterest.com/superduperpub/" target="_blank" onclick="_gaq.push(['_trackEvent', 'Header Nav Link', 'Social', 'Pinterest']);"><img src="/images/widerLayout/header/pinterest.png" alt="" width="20" height="20"></a>
         </li>
-        <li id="rss">
-            <a href="/rss/WhatsNew.aspx" onclick="_gaq.push(['_trackEvent', 'Header Nav Link', 'Social', 'RSS Feed']);"><img src="/images/widerLayout/header/rss.png" alt="RSS Feed" width="20" height="19"></a>
+        <li id="instagram">
+            <a href="https://www.instagram.com/superduperpub" onclick="_gaq.push(['_trackEvent', 'Header Nav Link', 'Social', 'Instagram']);"><img src="/images/widerLayout/header/instagramSmall.png" alt="Instagram" width="20" height="19"></a>
         </li>
     </ul>
 </div>
@@ -651,7 +656,7 @@
     </div>
     
     
-    <div id="webSpecial" style="padding:3px 0 0 0; background-color:#7fd2fd;"><a href="/products/sdpro/webspecial.aspx" onclick="_gaq.push(['_trackEvent', 'Left Nav Link', 'click', 'stPattysSale']);"><img src="/images/widerLayout/leftNav/stPattys.png" alt="St Pattys Day Sale"></a></div>
+    
    
     <table cellspacing="0" cellpadding="0" class="leftnav_content" border="0">
     <thead>
@@ -688,9 +693,7 @@
         <tr>
             <td><a href="/landing/ot.aspx" onclick="_gaq.push(['_trackEvent', 'Left Nav Link', 'click', 'Occupational Therapy Help']);">Occupational Therapy</a></td>
         </tr>
-        <tr>
-            
-        </tr>
+        
 
         <tr>
             <td><a href="/landing/parents.aspx" onclick="_gaq.push(['_trackEvent', 'Left Nav Link', 'click', 'Parent Help']);">Parents</a></td>
@@ -707,12 +710,9 @@
     </tbody></table>  
 
     
-    <div style="padding:3px 0 0 0; background-color:#7fd2fd;"><a href="/products/clearance.aspx" onclick="_gaq.push(['_trackEvent', 'Left Nav Link', 'click', '75% Off Clearance']);" "=""><img src="/images/widerLayout/leftNav/Clearance85.png" alt="75% Off Clearance"></a></div>
+    
 
 
-    
-    
-    
     
     
 
@@ -748,12 +748,12 @@
                         <div id="mainContent" class="mainContent">
                             <form method="post" action="./privacy.aspx" id="MainContentForm">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzI3MzEzMjQ0D2QWAmYPZBYEAgEPZBYCAgQPFgIeB2NvbnRlbnQFWFJldmlldyBTdXBlciBEdXBlcidzIFByaXZhY3kgUG9saWN5LiBXZSBhcmUgZGVlcGx5IGNvbW1pdHRlZCB0byBwcm90ZWN0aW5nIHlvdXIgcHJpdmFjeSFkAgMPZBYGAgEPZBYIAgEPFgQeBGhyZWYFP2h0dHBzOi8vd3d3LnN1cGVyZHVwZXJpbmMuY29tL215QWNjb3VudC9sb2dpbi5hc3B4P2xpZD05Qzk4OUNDNh4HVmlzaWJsZWdkAgIPDxYCHgRUZXh0ZWRkAgQPFgIfAmdkAgUPZBYOAgEPFgIfAmhkAgIPFgIfAmhkAgMPFgIfAmhkAgQPFgIeC18hSXRlbUNvdW50AicWTmYPZBYCZg8VBAIxNQNBQUMDQUFDA0FBQ2QCAQ9kFgJmDxUEAjEyB0FwcmF4aWEHQXByYXhpYQdBcHJheGlhZAICD2QWAmYPFQQCMTMMQXJ0aWN1bGF0aW9uDEFydGljdWxhdGlvbgxBcnRpY3VsYXRpb25kAgMPZBYCZg8VBAIxNBVBdWRpdG9yeSUyMFByb2Nlc3NpbmcVQXVkaXRvcnklMjBQcm9jZXNzaW5nE0F1ZGl0b3J5IFByb2Nlc3NpbmdkAgQPZBYCZg8VBAIxNgZBdXRpc20GQXV0aXNtBkF1dGlzbWQCBQ9kFgJmDxUEAjE3EEJhc2ljJTIwQ29uY2VwdHMQQmFzaWMlMjBDb25jZXB0cw5CYXNpYyBDb25jZXB0c2QCBg9kFgJmDxUEAjE5D0JpbGluZ3VhbCUyMEVTTA9CaWxpbmd1YWwlMjBFU0wNQmlsaW5ndWFsL0VTTGQCBw9kFgJmDxUEBDI5NzQTQ3JpdGljYWwlMjBUaGlua2luZxNDcml0aWNhbCUyMFRoaW5raW5nEUNyaXRpY2FsIFRoaW5raW5nZAIID2QWAmYPFQQCMjITRGVzY3JpYmluZyUyMFNraWxscxNEZXNjcmliaW5nJTIwU2tpbGxzEURlc2NyaWJpbmcgU2tpbGxzZAIJD2QWAmYPFQQCMjMORWFybHklMjBTa2lsbHMORWFybHklMjBTa2lsbHMMRWFybHkgU2tpbGxzZAIKD2QWAmYPFQQCNzIURmluZSUyMEdyb3NzJTIwTW90b3IURmluZSUyMEdyb3NzJTIwTW90b3IQRmluZS9Hcm9zcyBNb3RvcmQCCw9kFgJmDxUEAjI0B0ZsdWVuY3kHRmx1ZW5jeQdGbHVlbmN5ZAIMD2QWAmYPFQQCMjULRnVuJTIwRGVja3MLRnVuJTIwRGVja3MJRnVuIERlY2tzZAIND2QWAmYPFQQCMjYFR2FtZXMFR2FtZXMFR2FtZXNkAg4PZBYCZg8VBAIyNxZHcmFtbWFyJTIwYW5kJTIwU3ludGF4FkdyYW1tYXIlMjBhbmQlMjBTeW50YXgSR3JhbW1hciBhbmQgU3ludGF4ZAIPD2QWAmYPFQQCMjgfSGVhcmluZyUyMGFuZCUyMFNpZ24lMjBMYW5ndWFnZR9IZWFyaW5nJTIwYW5kJTIwU2lnbiUyMExhbmd1YWdlGUhlYXJpbmcgYW5kIFNpZ24gTGFuZ3VhZ2VkAhAPZBYCZg8VBAIyOQhMYW5ndWFnZQhMYW5ndWFnZQhMYW5ndWFnZWQCEQ9kFgJmDxUEBDM4MTUNTGluZ3Vpc3lzdGVtcw1MaW5ndWlzeXN0ZW1zDUxpbmd1aXN5c3RlbXNkAhIPZBYCZg8VBAIzMh9NYXRoJTIwJTIwTW9uZXklMjAlMjBhbmQlMjBNb3JlH01hdGglMjAlMjBNb25leSUyMCUyMGFuZCUyME1vcmUVTWF0aCwgTW9uZXksIGFuZCBNb3JlZAITD2QWAmYPFQQEMzI2OA1Nb2JpbGUlMjBBUFBzDU1vYmlsZSUyMEFQUHMLTW9iaWxlIEFQUHNkAhQPZBYCZg8VBAIzMwxNb3RpdmF0aW9uYWwMTW90aXZhdGlvbmFsDE1vdGl2YXRpb25hbGQCFQ9kFgJmDxUEAjY1Fk9jY3VwYXRpb25hbCUyMFRoZXJhcHkWT2NjdXBhdGlvbmFsJTIwVGhlcmFweRRPY2N1cGF0aW9uYWwgVGhlcmFweWQCFg9kFgJmDxUEAjM1DE9yYWwlMjBNb3RvcgxPcmFsJTIwTW90b3IKT3JhbC1Nb3RvcmQCFw9kFgJmDxUEAjM2GFBob25pY3MlMjBhbmQlMjBTcGVsbGluZxhQaG9uaWNzJTIwYW5kJTIwU3BlbGxpbmcUUGhvbmljcyBhbmQgU3BlbGxpbmdkAhgPZBYCZg8VBAIzNxhQaG9ub2xvZ2ljYWwlMjBBd2FyZW5lc3MYUGhvbm9sb2dpY2FsJTIwQXdhcmVuZXNzFlBob25vbG9naWNhbCBBd2FyZW5lc3NkAhkPZBYCZg8VBAIzOAlQaG9ub2xvZ3kJUGhvbm9sb2d5CVBob25vbG9neWQCGg9kFgJmDxUEAjQwFFF1ZXN0aW9uaW5nJTIwU2tpbGxzFFF1ZXN0aW9uaW5nJTIwU2tpbGxzElF1ZXN0aW9uaW5nIFNraWxsc2QCGw9kFgJmDxUEAjQxB1JlYWRpbmcHUmVhZGluZwdSZWFkaW5nZAIcD2QWAmYPFQQCNzkcUmVzcG9uc2UlMjB0byUyMEludGVydmVudGlvbhxSZXNwb25zZSUyMHRvJTIwSW50ZXJ2ZW50aW9uGFJlc3BvbnNlIHRvIEludGVydmVudGlvbmQCHQ9kFgJmDxUEAjY2FVNlbnNvcnklMjBJbnRlZ3JhdGlvbhVTZW5zb3J5JTIwSW50ZWdyYXRpb24TU2Vuc29yeSBJbnRlZ3JhdGlvbmQCHg9kFgJmDxUEAjQ1ClNlcXVlbmNpbmcKU2VxdWVuY2luZwpTZXF1ZW5jaW5nZAIfD2QWAmYPFQQCNDcPU0xQJTIwUmVzb3VyY2VzD1NMUCUyMFJlc291cmNlcw1TTFAgUmVzb3VyY2VzZAIgD2QWAmYPFQQCNDgPU29jaWFsJTIwU2tpbGxzD1NvY2lhbCUyMFNraWxscw1Tb2NpYWwgU2tpbGxzZAIhD2QWAmYPFQQCNTYIU29mdHdhcmUIU29mdHdhcmUIU29mdHdhcmVkAiIPZBYCZg8VBAIyNBdTdHV0dGVyaW5nJTIwRHlzZmx1ZW5jeRdTdHV0dGVyaW5nJTIwRHlzZmx1ZW5jeRVTdHV0dGVyaW5nL0R5c2ZsdWVuY3lkAiMPZBYCZg8VBAI1MBpTdXBwbGllcyUyMGFuZCUyMEVxdWlwbWVudBpTdXBwbGllcyUyMGFuZCUyMEVxdWlwbWVudBZTdXBwbGllcyBhbmQgRXF1aXBtZW50ZAIkD2QWAmYPFQQCNTEFVGVzdHMFVGVzdHMFVGVzdHNkAiUPZBYCZg8VBAI1MgpWb2NhYnVsYXJ5ClZvY2FidWxhcnkKVm9jYWJ1bGFyeWQCJg9kFgJmDxUEAjUzBVZvaWNlBVZvaWNlBVZvaWNlZAIGDxYCHwJoZAIHDxYCHwJoZAIKD2QWAgIBDxYCHwJoZAIDD2QWAgIFDxYCHwJoZAIHD2QWBAIDDxYCHwEFMmh0dHBzOi8vd3d3LnN1cGVyZHVwZXJpbmMuY29tL215QWNjb3VudC9sb2dpbi5hc3B4ZAIEDxYCHwJoZGSPA5iK9ehZ4tNVce52alfnOjtLzTjRstfFHdQ3QPn0nQ==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzI3MzEzMjQ0D2QWAmYPZBYEAgEPZBYCAgQPFgIeB2NvbnRlbnQFWFJldmlldyBTdXBlciBEdXBlcidzIFByaXZhY3kgUG9saWN5LiBXZSBhcmUgZGVlcGx5IGNvbW1pdHRlZCB0byBwcm90ZWN0aW5nIHlvdXIgcHJpdmFjeSFkAgMPZBYGAgEPZBYIAgEPFgQeBGhyZWYFP2h0dHBzOi8vd3d3LnN1cGVyZHVwZXJpbmMuY29tL215QWNjb3VudC9sb2dpbi5hc3B4P2xpZD05Qzk4OUNDNh4HVmlzaWJsZWdkAgIPDxYCHgRUZXh0ZWRkAgQPFgIfAmdkAgUPZBYOAgEPFgIfAmhkAgIPFgIfAmhkAgMPFgIfAmhkAgQPFgIeC18hSXRlbUNvdW50AicWTmYPZBYCZg8VBAIxNQNBQUMDQUFDA0FBQ2QCAQ9kFgJmDxUEAjEyB0FwcmF4aWEHQXByYXhpYQdBcHJheGlhZAICD2QWAmYPFQQCMTMMQXJ0aWN1bGF0aW9uDEFydGljdWxhdGlvbgxBcnRpY3VsYXRpb25kAgMPZBYCZg8VBAIxNBVBdWRpdG9yeSUyMFByb2Nlc3NpbmcVQXVkaXRvcnklMjBQcm9jZXNzaW5nE0F1ZGl0b3J5IFByb2Nlc3NpbmdkAgQPZBYCZg8VBAIxNgZBdXRpc20GQXV0aXNtBkF1dGlzbWQCBQ9kFgJmDxUEAjE3EEJhc2ljJTIwQ29uY2VwdHMQQmFzaWMlMjBDb25jZXB0cw5CYXNpYyBDb25jZXB0c2QCBg9kFgJmDxUEAjE5D0JpbGluZ3VhbCUyMEVTTA9CaWxpbmd1YWwlMjBFU0wNQmlsaW5ndWFsL0VTTGQCBw9kFgJmDxUEBDI5NzQTQ3JpdGljYWwlMjBUaGlua2luZxNDcml0aWNhbCUyMFRoaW5raW5nEUNyaXRpY2FsIFRoaW5raW5nZAIID2QWAmYPFQQCMjITRGVzY3JpYmluZyUyMFNraWxscxNEZXNjcmliaW5nJTIwU2tpbGxzEURlc2NyaWJpbmcgU2tpbGxzZAIJD2QWAmYPFQQCMjMORWFybHklMjBTa2lsbHMORWFybHklMjBTa2lsbHMMRWFybHkgU2tpbGxzZAIKD2QWAmYPFQQCNzIURmluZSUyMEdyb3NzJTIwTW90b3IURmluZSUyMEdyb3NzJTIwTW90b3IQRmluZS9Hcm9zcyBNb3RvcmQCCw9kFgJmDxUEAjI0B0ZsdWVuY3kHRmx1ZW5jeQdGbHVlbmN5ZAIMD2QWAmYPFQQCMjULRnVuJTIwRGVja3MLRnVuJTIwRGVja3MJRnVuIERlY2tzZAIND2QWAmYPFQQCMjYFR2FtZXMFR2FtZXMFR2FtZXNkAg4PZBYCZg8VBAIyNxZHcmFtbWFyJTIwYW5kJTIwU3ludGF4FkdyYW1tYXIlMjBhbmQlMjBTeW50YXgSR3JhbW1hciBhbmQgU3ludGF4ZAIPD2QWAmYPFQQCMjgfSGVhcmluZyUyMGFuZCUyMFNpZ24lMjBMYW5ndWFnZR9IZWFyaW5nJTIwYW5kJTIwU2lnbiUyMExhbmd1YWdlGUhlYXJpbmcgYW5kIFNpZ24gTGFuZ3VhZ2VkAhAPZBYCZg8VBAIyOQhMYW5ndWFnZQhMYW5ndWFnZQhMYW5ndWFnZWQCEQ9kFgJmDxUEBDM4MTUNTGluZ3Vpc3lzdGVtcw1MaW5ndWlzeXN0ZW1zDUxpbmd1aXN5c3RlbXNkAhIPZBYCZg8VBAIzMh9NYXRoJTIwJTIwTW9uZXklMjAlMjBhbmQlMjBNb3JlH01hdGglMjAlMjBNb25leSUyMCUyMGFuZCUyME1vcmUVTWF0aCwgTW9uZXksIGFuZCBNb3JlZAITD2QWAmYPFQQEMzI2OA1Nb2JpbGUlMjBBUFBzDU1vYmlsZSUyMEFQUHMLTW9iaWxlIEFQUHNkAhQPZBYCZg8VBAIzMwxNb3RpdmF0aW9uYWwMTW90aXZhdGlvbmFsDE1vdGl2YXRpb25hbGQCFQ9kFgJmDxUEAjY1Fk9jY3VwYXRpb25hbCUyMFRoZXJhcHkWT2NjdXBhdGlvbmFsJTIwVGhlcmFweRRPY2N1cGF0aW9uYWwgVGhlcmFweWQCFg9kFgJmDxUEAjM1DE9yYWwlMjBNb3RvcgxPcmFsJTIwTW90b3IKT3JhbC1Nb3RvcmQCFw9kFgJmDxUEAjM2GFBob25pY3MlMjBhbmQlMjBTcGVsbGluZxhQaG9uaWNzJTIwYW5kJTIwU3BlbGxpbmcUUGhvbmljcyBhbmQgU3BlbGxpbmdkAhgPZBYCZg8VBAIzNxhQaG9ub2xvZ2ljYWwlMjBBd2FyZW5lc3MYUGhvbm9sb2dpY2FsJTIwQXdhcmVuZXNzFlBob25vbG9naWNhbCBBd2FyZW5lc3NkAhkPZBYCZg8VBAIzOAlQaG9ub2xvZ3kJUGhvbm9sb2d5CVBob25vbG9neWQCGg9kFgJmDxUEAjQwFFF1ZXN0aW9uaW5nJTIwU2tpbGxzFFF1ZXN0aW9uaW5nJTIwU2tpbGxzElF1ZXN0aW9uaW5nIFNraWxsc2QCGw9kFgJmDxUEAjQxB1JlYWRpbmcHUmVhZGluZwdSZWFkaW5nZAIcD2QWAmYPFQQCNzkcUmVzcG9uc2UlMjB0byUyMEludGVydmVudGlvbhxSZXNwb25zZSUyMHRvJTIwSW50ZXJ2ZW50aW9uGFJlc3BvbnNlIHRvIEludGVydmVudGlvbmQCHQ9kFgJmDxUEAjY2FVNlbnNvcnklMjBJbnRlZ3JhdGlvbhVTZW5zb3J5JTIwSW50ZWdyYXRpb24TU2Vuc29yeSBJbnRlZ3JhdGlvbmQCHg9kFgJmDxUEAjQ1ClNlcXVlbmNpbmcKU2VxdWVuY2luZwpTZXF1ZW5jaW5nZAIfD2QWAmYPFQQCNDcPU0xQJTIwUmVzb3VyY2VzD1NMUCUyMFJlc291cmNlcw1TTFAgUmVzb3VyY2VzZAIgD2QWAmYPFQQCNDgPU29jaWFsJTIwU2tpbGxzD1NvY2lhbCUyMFNraWxscw1Tb2NpYWwgU2tpbGxzZAIhD2QWAmYPFQQCNTYIU29mdHdhcmUIU29mdHdhcmUIU29mdHdhcmVkAiIPZBYCZg8VBAIyNBdTdHV0dGVyaW5nJTIwRHlzZmx1ZW5jeRdTdHV0dGVyaW5nJTIwRHlzZmx1ZW5jeRVTdHV0dGVyaW5nL0R5c2ZsdWVuY3lkAiMPZBYCZg8VBAI1MBpTdXBwbGllcyUyMGFuZCUyMEVxdWlwbWVudBpTdXBwbGllcyUyMGFuZCUyMEVxdWlwbWVudBZTdXBwbGllcyBhbmQgRXF1aXBtZW50ZAIkD2QWAmYPFQQCNTEFVGVzdHMFVGVzdHMFVGVzdHNkAiUPZBYCZg8VBAI1MgpWb2NhYnVsYXJ5ClZvY2FidWxhcnkKVm9jYWJ1bGFyeWQCJg9kFgJmDxUEAjUzBVZvaWNlBVZvaWNlBVZvaWNlZAIHDxYCHwJoZAIIDxYCHwJoZAILD2QWAgIBDxYCHwJoZAIDD2QWAgIDDxYCHwJoZAIHD2QWBAIDDxYCHwEFMmh0dHBzOi8vd3d3LnN1cGVyZHVwZXJpbmMuY29tL215QWNjb3VudC9sb2dpbi5hc3B4ZAIEDxYCHwJoZGR/X9ZKNLNPYpH1917FX+ogjwpwX7FOb5xq6cipjKt+JA==">
 </div>
 
 <div class="aspNetHidden">
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLHivGPCwKz6ryWA8xIIPLU4FpKB6wtWCf3sDmq6jkMk7cBL1j9/NSv6/l5">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKOh8qvAwKz6ryWA/lL2NPWHL8NKNnxbircsaaUwu7GkqCVrUkDZOJhLMrx">
 </div>
                                 
     <div class="minContentPadding" style="text-align:center;"><img src="/images/pageHeading/privacyPolicy.jpg" alt="Privacy Policy" width="632" height="118"></div>
