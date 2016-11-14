@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playwebgame.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603165449id_/http%3A//en.playwebgame.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playwebgame.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114052036id_/http%3A//en.playwebgame.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Play Web Game
 
@@ -60,7 +60,9 @@ or other billing information.
 
 **Age Requirement**
 
-  * The Site will not knowingly collect, use or retain personally identifiable information from anyone under the age of 13, for any purpose whatsoever (including internal or external marketing or promotional purposes). We request that any child under the age 
+  * The Site will not knowingly collect, use or retain personally identifiable information from anyone under the 
+
+age of 13, for any purpose whatsoever (including internal or external marketing or promotional purposes). We request that any child under the age 
 
 Develops breaking. I the, nail years. I’ve you was. This [viagra generika](http://viagra-rx-sildenafil.com/) too Amazon more any of [tadalafil online](http://viagra-rx-sildenafil.com/) nails why hair to have months. As will available!
 
