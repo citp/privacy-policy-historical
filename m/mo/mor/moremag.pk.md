@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moremag.pk privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214151431id_/http%3A//www.moremag.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moremag.pk privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114072453id_/http%3A//www.moremag.pk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy • More Magazine
 
 **Privacy Policy for www.moremag.pk**
 
@@ -17,7 +17,7 @@ www.moremag.pk does use cookies to store information about visitors preferences,
 **DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on www.moremag.pk.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.moremag.pk and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html ](http://www.google.com/privacy_ads.html%20)
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html 
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense
