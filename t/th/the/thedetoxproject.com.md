@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thedetoxproject.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618130231id_/http%3A//thedetoxproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedetoxproject.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115054927id_/http%3A//thedetoxproject.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Detox Project
+# Privacy Policy - Detox Project
 
 Disclosure Regarding Collection and Use of Personal Information  
 Last Updated April 8, 2015
