@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talbots.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001083410id_/http%3A//www.talbots.com/online/customerservice/customer_service_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talbots.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115153746id_/https%3A//www.talbots.com/online/customerservice/customer_service_privacy_policy.jsp) for the most accurate reproduction.*
 
 # Talbots Customer Service- Privacy Policy
 
@@ -108,7 +108,7 @@ Talbots may combine personal information provided by you with non-personal infor
 
 
 Cookies  
-Like many online retailers, Talbots uses 'cookies', small data files stored on your computer's web browser, or other passive means of data collection. Cookies are used to personalize your visit, remember your preferences, help place your order or to enhance your shopping experience and online browsing. We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, click here. You can adjust your web browser to accept or reject cookies.   
+Like many online retailers, Talbots uses 'cookies', small data files stored on your computer's web browser, or other passive means of data collection. Cookies are used to personalize your visit, remember your preferences, help place your order or to enhance your shopping experience and online browsing. We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, [click here](https://www.networkadvertising.org/choices/). You can adjust your web browser to accept or reject cookies.   
 
 
 Pixel tags  
