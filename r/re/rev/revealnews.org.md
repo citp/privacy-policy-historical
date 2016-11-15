@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revealnews.org privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413232939id_/https%3A//www.revealnews.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revealnews.org privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115201131id_/https%3A//www.revealnews.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reveal
 
