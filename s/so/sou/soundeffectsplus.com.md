@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundeffectsplus.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516174340id_/http%3A//www.soundeffectsplus.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundeffectsplus.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115092213id_/http%3A//www.soundeffectsplus.com/content/privacy) for the most accurate reproduction.*
 
 # SoundEffects+ | Privacy Policy
 
