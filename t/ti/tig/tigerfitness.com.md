@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigerfitness.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521114930id_/https%3A//www.tigerfitness.com/PrivacyPolicy-s/1690.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerfitness.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115214132id_/https%3A//www.tigerfitness.com/PrivacyPolicy-s/1690.htm) for the most accurate reproduction.*
 
 # Tiger Fitness Privacy Policy
 
