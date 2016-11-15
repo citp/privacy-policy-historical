@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thesecret.tv privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422170009id_/http%3A//www.thesecret.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesecret.tv privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115182018id_/http%3A//www.thesecret.tv/privacy-policy) for the most accurate reproduction.*
 
-# The Official Website of The Secret Privacy Policy - The Official Website of The Secret
+# Privacy Policy | The Secret - Official Website
 
 **The Secret Customer Privacy Policy**
 
