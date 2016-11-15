@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the aesop.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029013229id_/http%3A//www.aesop.com/usa/help/faq/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aesop.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115221801id_/http%3A//www.aesop.com/usa/help/faq/privacy) for the most accurate reproduction.*
 
 # Help
-
-**Privacy Policy**
 
 Emeis Holdings Pty Ltd and its related entities from time to time including Emeis Cosmetics Pty Ltd, Aesop Retail Pty Ltd, Aesop UK Limited, Aesop France SARL, Aesop Germany GmbH, Aesop Switzerland AG, Aesop Italy SRL, Aesop Norway AS, Aesop Japan KK, Aesop Singapore Pte. Ltd, Aesop Hong Kong Limited, Aesop Macau Limited, Aesop Korea Yuhan Hoesa, Taiwan Aesop Cosmetics Company, Aesop Malaysia Sdn.Bhd, Aesop USA, Inc, Aesop Brasil Comercio de Cosmeticos LTDA and Aesop Canada, Inc. (referred to as **Aesop** or the **Aesop Group** ) is committed to protecting the privacy of your personal information.
 
