@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flocabulary.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908140903id_/https%3A//www.flocabulary.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flocabulary.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115071615id_/https%3A//www.flocabulary.com/privacy-policy) for the most accurate reproduction.*
 
 # Security & Privacy Policy - Flocabulary
 
@@ -10,8 +10,8 @@ We take your privacy and the privacy of your students very seriously. Please rea
 
 **We Empower Schools to Make Data Decisions**
 
-  * Schools can use Flocabulary without sharing any personal information from students. Or they can choose to set up student accounts and use Flocabulary to track their students' progress.
-  * The school’s account manager can delete or correct personal information from students at any time.
+  * Schools and districts can use Flocabulary without sharing any personal information from students. Or they can choose to set up student accounts and use Flocabulary to track their students' progress.
+  * The school or district’s account manager can delete or correct personal information from students at any time.
 
 
 
@@ -24,44 +24,44 @@ We take your privacy and the privacy of your students very seriously. Please rea
 
 
 
-**This Privacy Policy explains the details of how we safeguard and use the information you give us. By using this site, you agree to our Privacy Policy.**
+This Privacy Policy explains the details of how we safeguard and use the information you give us. By using this site, you agree to our Privacy Policy.
 
 ##### 2\. Children's Use of Flocabulary
 
-Only schools and districts that have purchased school-wide subscriptions, provided consent on behalf of students and opted to allow for student account creation can create student accounts. For all other types of subscriptions and trials, Flocabulary does not knowingly collect personal information from children under the age of 13.
+Only schools and districts that have obtained licenses, provided consent on behalf of students and opted to allow for student account creation can create student accounts. For all other types of subscriptions and trials, Flocabulary does not knowingly collect personal information from children under the age of 13.
 
 If you are a child under the age of 13, you must get permission from a parent or legal guardian to use this website. If you wish to sign up for a free trial or subscribe to Flocabulary, a parent or legal guardian must submit the form on your behalf. 
 
-If we learn we have inadvertently collected personal information from a child under 13 without the appropriate parent or school consent, we will take the necessary steps to delete it.
+If we learn we have inadvertently collected personal information from a child under 13 without the appropriate consent, we will take the necessary steps to delete it.
 
 ##### 3\. What Information Do We Collect and How Do We Use It?
 
 **a. From teachers and administrators**  
-If you are a teacher or administrator signing up for an account on our website, we collect your first and last name, email address, role at your school, grade interests and subject interests. We'll ask you to enter the zipcode of your school to select your school, and we remember the school you select so that we can properly give you access if your school has purchased. Additionally, we ask you to set a password to keep your account secure. 
+If you are a teacher or administrator signing up for an account on our website, we collect your first and last name, email address, role at your school, grade interests and subject interests. We'll ask you to enter the zipcode of your school to select your school, and we remember the school you select so that we can properly give you access if your school has purchased. Additionally, we ask you to set a password to keep your account secure. In districts that have enabled login through a third party account (such as a Google account), you will connect using that account, we will use your email address registered with that third party as your username and you will not set a separate password. 
 
-Your email address will be your username. We'll use your email address, as well as your school, role, grade and subject interests, to customize the updates you get about Flocabulary via email. You can always opt out of emails from us by clicking "unsubscribe." If you are requesting a quote or schoolwide trial, we will also ask for your phone number and job title so that a member of the Flocabulary team can get in touch with you to set up your trial or help you with a purchase.
+Your email address will be your username. We'll use your email address, as well as your school, role, grade and subject interests, to customize the updates you get about Flocabulary via email. You can always opt out of emails from us by clicking "unsubscribe." If you are requesting a quote or schoolwide or district trial, we will also ask for your phone number and job title so that a member of the Flocabulary team can get in touch with you to set up your trial or help you with a purchase.
 
 If you are purchasing a paid account, we will collect all information necessary to process the order, including credit card information, billing information or shipping information (as applicable).
 
-Teachers and administrators with schoolwide accounts can invite other staff members at the school to create a Flocabulary account. To do this, they can enter an email address of the people they wish to invite. We only use these email addresses to send invitations, and will not send any other emails to these addresses.
+Teachers and administrators with schoolwide or district accounts can invite other staff members at the school or district to create a Flocabulary account. To do this, they can enter an email address of the people they wish to invite or use other import mechanisms supported by Flocabulary. We only use these email addresses to send invitations, and will not send any other emails to these addresses.
 
 **b. From students**  
-Unless a school has purchased a schoolwide license, provided consent on behalf of students and chosen to allow for student account creation, we collect no personally identifiable information from students (other than parent or teacher selected usernames for certain legacy accounts). In cases where a school or district purchases Flocabulary and opts to enable student accounts, the first step is for teachers to create classes. Students can only sign up for Flocabulary if their teacher creates a class and instructs them to create an account with a class code. Students cannot sign up and create a Flocabulary account unaffiliated with a class or a schoolwide license. 
+Unless a school or district has obtained a license, provided consent on behalf of students and chosen to allow for student account creation, we collect no personally identifiable information from students (other than parent or teacher selected usernames for certain legacy accounts). In cases where a school or district purchases Flocabulary, the first step is for teachers or administrators to create classes. Students can only sign up for Flocabulary after the school or district imports student roster information into Flocabulary or their teacher enters class information and instructs students to create an account with a provided code. Students cannot sign up and create a Flocabulary account unaffiliated with a class or a schoolwide or district license. 
 
-When students create a student account on Flocabulary, they'll enter a class code which will associate them with their school and teacher. They cannot create their account without a valid class code. We'll then collect the student's first and last name, and the student will set a username and password. We collect the first and last name so that teachers can identify students on their class roster in the My Classes section of Flocabulary.com and administrators can identify students in the school management section. We collect the username so students can easily log in, as well as have unique identification for the website. Because the first and last name are for teachers' class management, they can instruct students to enter an initial or nickname instead of a first or last name, or another form of identification, if they'd prefer. The student’s username and first and last name will not be shared with any Flocabulary users other than their teacher(s) and the account manager(s) at their school or district.
+Students, teachers or administrators may create student accounts. When students create a student account on Flocabulary, they'll enter a code which will associate them with their school and teacher. They cannot create their account without a valid class code. To the extent not already imported by teachers or administrators, we'll then collect the student's first and last name, and the student will set a username and password. In districts that have enabled login through a third party account (such as a Google account), the student will connect using that account, we will use the student’s email address registered with that third party as the username and the student will not have a separate password. We collect the first and last name so that teachers can identify students on their class roster in the My Classes section of Flocabulary.com and administrators can identify students in the school management section. We collect the username so students can easily log in, as well as have unique identification for the website. Because the first and last name are for teachers' class management, they can instruct students to enter an initial or nickname instead of a first or last name, or another form of identification, if they'd prefer. The student’s username and first and last name will not be shared with any Flocabulary users other than their teacher(s) and the account manager(s) at their school or district.
 
-When students create student accounts, teachers will be able to assign multiple choice quizzes to students in their classes. Students' quiz results will be stored so that the student who took the quiz and the teacher who assigned the quiz can review the results. Students will be able to review the results of their quizzes at any time. A teacher will only be able to see the results of student quizzes from their classes. School subscription managers may also be able to review results individually or in aggregate across a schoolwide subscription.
+When students have accounts, teachers will be able to assign multiple choice quizzes and other assignments to students in their classes. Students' quiz results and student work product will be stored so that the student who took the quiz or completed the assignment and the teacher can review the results.  For certain types of assignments, teachers can enable multiple students to collaborate and students to share their work with the class. Students will be able to review the results of their quizzes at any time. Teachers will only be able to see the results of student quizzes from students in their classes. School or district administrators may review results individually or in aggregate across their designated scope of authority (e.g., a school or district).  Flocabulary provides students with the ability to download an archive of their work product.
 
-Certain legacy Flocabulary schoolwide accounts and individual accounts may also include shared student usernames. These usernames are linked to information we collect about students’ usage of the Flocabulary site, such as units visited and videos viewed.
+Certain legacy Flocabulary accounts may also include shared student usernames. These usernames are linked to information we collect about students’ usage of the Flocabulary site, such as units visited and videos viewed.
 
 Flocabulary will promptly correct or delete student information at the request of an authorized representative of the student’s school or district.
 
 **c. Information we collect automatically**  
-In addition to the information you share with us through forms on Flocabulary.com, when you visit our website, we may automatically collect and analyze information regarding your use of our services and activity on our website. Information collected may include, but is not limited to, the IP address associated with your computer, “clickstream data,” which includes information about your clicks on our website and which may also include information about your computer, web browser and operating system and information about the website you visited before coming to our site, website traffic volume, frequency of visits, and type and time of transactions.
+In addition to the information you share with us through forms on Flocabulary.com, when you visit our website, we may automatically collect and analyze information regarding your use of our services and activity on our website. Information collected may include, but is not limited to, the IP address associated with your computer, "clickstream data," which includes information about your clicks on our website and which may also include information about your computer, web browser and operating system and information about the website you visited before coming to our site, website traffic volume, frequency of visits, and type and time of transactions.
 
-We use this information to help us to diagnose technical problems, administer the site and improve the quality and types of services that we deliver. We may also collect, track and analyze information in aggregate form that does not personally identify users.
+**We use this information to help us to diagnose technical problems, administer the site and improve the quality and types of services that we deliver. We may also collect, track and analyze information in aggregate form that does not personally identify users.**
 
-###### We use the following tools to collect and track this information, including:
+We use the following tools to collect and track this information, including:
 
 **Cookies**  
 To provide you with a continuous experience on our site, we may automatically collect your information using cookies. A cookie is a data file sent to your browser from a web server and stored on your computer's hard drive that allows us to recognize your browser when you return to our website, to remember your preferences and to provide you with content that may be of interest to you based on your progress within our site. We do not collect personal information through cookies, and do not connect the information collected through cookies to personal information. 
@@ -78,7 +78,7 @@ We place a tiny image, also known as a pixel tag, in the emails we send, and thi
 
 By using our website you agree to our use of these tracking technologies. 
 
-We do not track our users across third party websites, nor do we use targeted advertising. As a result, we do not currently honor “do not track” signals transmitted by users' web browsers. To learn more, visit: [www.allaboutdnt.org](http://www.allaboutdnt.org/)
+We do not track our users across third party websites, nor do we use targeted advertising. As a result, we do not currently honor "do not track" signals transmitted by users' web browsers. To learn more, visit: [www.allaboutdnt.org](http://www.allaboutdnt.org/)
 
 ##### 4\. How We Share Your Information
 
@@ -86,17 +86,18 @@ We will not sell or rent any of your or your students' information to any third 
 
 We will not share your information in any ways not outlined in this Privacy Policy. Except as noted below, we do not share any personal information with third parties for advertising, marketing or other purposes.
 
-**We share information that we collect in the following circumstances:**
+We share information that we collect in the following circumstances:
 
   * as instructed by a school or district in relation to information about their users, for example to let managers know which teachers are using Flocabulary
-  * teachers who are the managers of a class and can see the students in that class 
-  * administrators who are the managers of a school account can see information about the users in their school 
-  * our service providers (including hosting and analytics providers) have access to the data they need to help us to operate the website— they must comply with confidentiality and data security provisions consistent with this Privacy Policy as necessary protect our rights or property or that of others, protect the safety of our users, investigate fraud or respond to a government, judicial or other legal request, or to comply with the law
+  * with teachers who are the managers of a class so they can see the students in that class 
+  * with administrators who are the managers of a school or district account so they can see information about the users in their school or district
+  * with our service providers (including hosting and analytics providers) so they have access to the data they need to help us to operate the website— they must comply with confidentiality and data security provisions consistent with this Privacy Policy as necessary to protect our rights or property or that of others, protect the safety of our users, investigate fraud or respond to a government, judicial or other legal request, or to comply with the law
+  * when any user logs into Flocabulary with a third party account (such as a Google account), that third party will learn that that user has visited Flocabulary, and that information will be subject to that third party’s privacy policy and practices
   * other circumstances that you expressly consent to 
 
 
 
-If a portion or all of Flocabulary's assets are acquired by or merged with a third party, your information may be one of the assets acquired by the third party. You'll still be protected under this Privacy Policy, and your information will only be available to the third party per the terms of this Privacy Policy. If there are changes to the Policy, you will have the opportunity to consent to them prior to additional information being collected or to cease using the Flocabulary site and Content. We will let you know if there is an acquisition by posting on our home page or emailing you or our contact at your school. If, at this point, you do not want your personal information shared with a new company, you can request its deletion. If Flocabulary goes out of business or files for bankruptcy, we will not sell your personal information to any third parties who do not agree to continue to meet the protections spelled out in this privacy policy.
+If a portion or all of Flocabulary's assets are acquired by or merged with a third party, your information may be one of the assets acquired by the third party. You'll still be protected under this Privacy Policy, and your information will only be available to the third party per the terms of this Privacy Policy. If there are changes to the Policy, you will have the opportunity to consent to them prior to additional information being collected or to cease using the Flocabulary site and Content. We will let you know if there is an acquisition by posting on our home page or emailing you or our contact at your school or district. If, at this point, you do not want your personal information shared with a new company, you can request its deletion. If Flocabulary goes out of business or files for bankruptcy, we will not sell your personal information to any third parties who do not agree to continue to meet the protections spelled out in this privacy policy.
 
 ##### 5\. How Flocabulary Protects and Secures Your Information
 
@@ -115,12 +116,12 @@ You have the right to access and edit your information. If you have an individua
 
 You have the right to opt out of emails from us by clicking unsubscribe. You may still receive transactional emails from us related to purchases, account expiration, or other necessary communication.
 
-If you are the manager of a school or district account, you can add, edit or delete teacher and student users of your account. You may edit student usernames and passwords.
+If you are the manager of a school or district account, you can add, edit or delete teacher and student users of your account. You may edit student usernames and passwords if your students provided them. If your students used a Google account to sign in, you need to contact Google or your School / District IT Administrator to change name, email address or password.
 
 If you are a parent, guardian or student, the law allows you access to certain information that may have been provided to Flocabulary by your school or district. If you would like to obtain such access, please contact your school or district.
 
 **b. You have the right to delete your information**  
-If you are a teacher or administrator, you can contact us to delete your account. Teachers and administrators can delete student accounts or contact us and we can delete them for you. After a schoolwide account termination and subsequent removal of student data, we may retain securely stored backups in accordance with applicable law, our agreement with the school and our data retention policy, after which point it will be deleted. 
+If you are a teacher or administrator, you can contact us to delete your account. Teachers and administrators can delete student accounts or contact us and we can delete them for you. After a school or district account termination and subsequent removal of student data, we may retain securely stored backups in accordance with applicable law, our agreement with the school or district and our data retention policy, after which point it will be deleted. 
 
 **c. How we retain and delete your data**  
 We will retain personal information collected in connection with free or subscription accounts only for as long as is necessary to provide the services to the account holder, or otherwise per the terms or a contract with a school or district. 
@@ -147,9 +148,9 @@ This website is owned and operated by Flocabulary, located at 20 Jay Street, Sui
 
 ##### 10\. Contact Us
 
-If you have any questions about this Privacy Policy, get in touch with us, and we'll be happy to discuss it with you. 
+If you have any questions about this Privacy Policy, please get in touch with us, and we'll be happy to discuss it with you. 
 
-You can reach us by email at [support@flocabulary.com](mailto:support@flocabulary.com)
+You can reach us by email at [support@flocabulary.com](mailto:support@flocabulary.com) 
 
 If you'd like to reach us by mail, write us at:
 
@@ -158,4 +159,4 @@ Flocabulary
 Suite 520  
 Brooklyn, NY 11201
 
-This Privacy Policy was last modifed July 7, 2015. Effective date: July 7, 2015.
+This Privacy Policy was last modified  August 23, 2016. Effective date: August 23, 2016.
