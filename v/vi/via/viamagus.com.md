@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viamagus.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515222044id_/http%3A//viamagus.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viamagus.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115041715id_/http%3A//viamagus.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Viamagus
 
@@ -71,4 +71,4 @@ Amendments to this policy will be posted to this URL and will be effective when 
 
 **Questions and Suggestions**
 
-If you have questions, suggestions, or require to contact us as per these Terms of Service, or wish to make a complaint, please contact us at: support@viamagus.com 
+If you have questions, suggestions, or require to contact us as per these Terms of Service, or wish to make a complaint, please contact us at: support@viamagus.com
