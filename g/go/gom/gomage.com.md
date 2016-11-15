@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomage.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430144705id_/https%3A//www.gomage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomage.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115212021id_/https%3A//www.gomage.com/privacy-policy) for the most accurate reproduction.*
 
 # GoMage - Privacy Policy
 
