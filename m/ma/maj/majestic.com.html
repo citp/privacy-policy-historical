@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the majestic.com privacy policy that was archived on 2016-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160502011603id_/https%3A//majestic.com/support/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the majestic.com privacy policy that was archived on 2016-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161116004250id_/https%3A//majestic.com/support/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
@@ -16,15 +16,23 @@
 	<meta name="theme-color" content="#2d526d">
 	
 	<link rel="stylesheet" type="text/css" href="/static/css/bootstrap/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="/static/css/jquery/jquery-ui-1.10.3.custom.min.css">
-	<link rel="stylesheet" type="text/css" href="/static/css/jquery/jquery-ui-dialogs.min.css">
+	<link rel="stylesheet" type="text/css" href="/static/css/jquery/jquery-ui-1.10.3.custom.min.css?20160614">
+	<link rel="stylesheet" type="text/css" href="/static/css/jquery/jquery-ui-dialogs.min.css?20160614">
 	<link rel="stylesheet" type="text/css" href="/static/css/yahoo/reset-min.css">
 	<link rel="stylesheet" type="text/css" href="/static/css/yahoo/base-min.css">
 	
-	<link rel="stylesheet" type="text/css" href="/static/production/css/c4db20.majestic.seo.min.cache.css">
+	<link rel="stylesheet" type="text/css" href="/static/production/css/6914d2.majestic.seo.min.cache.css">
 	
 	<!--[if lt IE 9]>	
 		<link rel="stylesheet" type="text/css" href="/static/css/ie/ie.css">
+		<style>
+		.ie8-hide {
+			display: none !important;
+		}
+		.ie8-show {
+			display: block !important;
+		}
+		</style>
 	<![endif]-->
 	
 	
@@ -55,6 +63,8 @@
 		
 	
 		
+			<link rel="alternate" hreflang="ja" href="https://ja.majestic.com/support/privacy-policy">
+		
 	
 		
 			<link rel="alternate" hreflang="nl" href="https://nl.majestic.com/support/privacy-policy">
@@ -77,35 +87,38 @@
 		
 	
 
-	<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script type="text/javascript" defer="" async="" src="https://analytics.majestic.com/piwik.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/static/scripts/jquery/jquery-1.10.2.min.js"></script>
+    
+	<script type="text/javascript" defer="" async="" src="https://analytics.majestic.com/piwik.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/static/scripts/jquery/jquery-1.12.4.min.js"></script>
 	<script type="text/javascript" src="/static/scripts/jquery/jquery-ui.min-20140205.js"></script>
 	<script type="text/javascript" src="/static/scripts/bootstrap/bootstrap.min.js"></script>
-	<script type="text/javascript" src="/static/scripts/highcharts/highcharts-3.0.4.js"></script>
 	
 	<!--[if lte IE 8]>
 	    <script src="/static/scripts/d3/r2d3.min.js" charset="utf-8"></script>
-	    <script src="/static/scripts/d3/d3-function-ie8.js"></script>
+	    <script src="/static/scripts/d3/d3-function-ie8.js?20160525"></script>
 	<![endif]-->
 
     <!--[if gte IE 9]>
         <script src="/static/scripts/d3/d3.v3.min.js"></script>
-        <script src="/static/scripts/d3/d3-function.js"></script>
+        <script src="/static/scripts/d3/d3-function.js?20160525"></script>
     <![endif]-->
 
     <!--[if !IE]-->
 		<script src="/static/scripts/d3/d3.v3.min.js"></script>
-        <script src="/static/scripts/d3/d3-function.js"></script>
+        <script src="/static/scripts/d3/d3-function.js?20160525"></script>
 	<!--[endif]-->
 
-	<script type="text/javascript" src="/static/production/js/67cd5e.majestic.seo.min.cache.js"></script>
+	<script type="text/javascript" src="/static/production/js/477dc6.majestic.seo.min.cache.js"></script>
 	
 	<!--[if IE]>
 		<script type="text/javascript" src="/static/scripts/excanvas/excanvas.min.js"></script>
 	<![endif]-->
 	
 	<script type="text/javascript">
-		var default_link_action = "";
-		var is_link_action_tab =  false ;
+        window.config = {
+            defaultLinkAction: "",
+		    isLinkActionTab:  false 
+        };
+
 		var awardsNotificationText = {};
 		var backlinksDownloadText = {};
 			
@@ -116,7 +129,7 @@
 			
 			$.fn.userNotifications({
 				
-				uxGroup: 'a',
+				uxGroup: 'b',
 				currentPath: '/support/privacy-policy',
 				currentPathEncoded: '/support/privacy-policy'
 			});
@@ -143,15 +156,7 @@
 			
 			bindDefaultLinkActions( false );
 			
-			var bucketText = {
-				addHoverText:"Add to your bucket",					// The text that appears when a user hovers over the add button
-				addedHoverText:"Added to your bucket", 				// The text that appears when a user hovers over the added button
-				addedNotificationText:"Added to bucket", 			// The text that appears in the notification when a user adds a item
-				alreadyAddedNotificationText:"Item already in bucket", 	// The text that appears in the notification when a user adds a item already present in the bucket
-				removedNotificationText:"Removed from bucket", 		// The text that appears in the notification when a user removes a item
-				bucketFullNotificationText:"Bucket is full", 		// The text that appears in the notification when a user add a item to a full bucket
-				ajaxErrorNotificationText:"Error adding to bucket"	// The text that appears in the notification when an error occurs
-			};
+            var bucketText = $('#bucketTextTranslations').data();
 
 			$('.addToBucketButton').majBucketButton(bucketText);
 			
@@ -169,11 +174,11 @@ function openDownloadAllBacklinksDialog(query, index)
 
 	$.post(
 		'/data-output/download-all-backlinks',
-		{'query': query, 'index_data_source': index},
+		{'query': query, 'index_data_source': index, 'no_wrapper': 1},
 		function(response)
 		{
 			hideAllPopovers();
-			
+
 			$('<div id="dialog-container" title="Download All Backlinks"></div>')
 				.html(response)
 				.dialog({
@@ -187,7 +192,7 @@ function openDownloadAllBacklinksDialog(query, index)
 						hideAllPopovers();
 					}
 				});
-			
+
 			bindDefaultEvents();
 		}
 	);
@@ -204,7 +209,7 @@ function showDownloadReadyState(downloadPath)
 		{
 			location.href = downloadPath;
 		});
-	
+
 	$('.download-all-backlinks.active .beforeReady').hide();
 	$('.download-all-backlinks.active .statusContent').html('<b>Your download is ready,</b> please use the "Download Ready" button. We have also added your file to your <a href="/reports/downloads">downloads</a> folder, should you need it later.');
 }
@@ -212,7 +217,7 @@ function showDownloadReadyState(downloadPath)
 function openDownloadAllBacklinksDialogNoSubscription()
 {
 	hideAllPopovers();
-	
+
 	$.post(
 		'/data-output/download-all-backlinks/no-subscription',
 		function(response)
@@ -241,12 +246,12 @@ function updateAllowanceCharts(verified)
 		$('.download-all-backlinks.active #allowance_before').hide();
 		$('.download-all-backlinks.active #allowance_after').show();
 		$('.download-all-backlinks.active .allowance_before_label').hide();
-		
+
 		var percentLeft = 0;
-		
+
 		if(totalInitialAnalysisUnits != 0)
 			percentLeft = ((analysisUnitsRemaining - analysisUnitsCost) / totalInitialAnalysisUnits) * 100;
-		
+
 		if(percentLeft == 0)
 		{
 			$('.download-all-backlinks.active .allowance_after_label').html('No allowance<br>remaining');
@@ -259,18 +264,18 @@ function updateAllowanceCharts(verified)
 		{
 			$('.download-all-backlinks.active .allowance_after_label').html('almost <b>100%</b><br>remaining');
 		}
-		else 
+		else
 		{
 			$('.download-all-backlinks.active .allowance_after_label').html('<b>' + percentLeft.toFixed(0) + '%</b><br />remaining');
 		}
 	}
-	
+
 	$('.download-all-backlinks.active .statusContent').html('<b>You can safely close this message box.</b>');
 }
-	</script>
 
-	
-	
+	</script>
+    
+
 	
 
 	
@@ -281,7 +286,7 @@ function updateAllowanceCharts(verified)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-66791310-1', 'auto');
-  ga('set', 'dimension1', 'a');
+  ga('set', 'dimension1', 'b');
   ga('send', 'pageview');
 
 </script>
@@ -289,7 +294,20 @@ function updateAllowanceCharts(verified)
 	
 </head>
 
-<body class="en" style="">
+<!--[if lte IE 8 ]>
+<body class="en us-g ie8">
+<![endif]-->
+
+<!--[if IE 9 ]>
+<body class="en us-g">
+<![endif]-->
+
+<!--[if !IE]> -->
+<body class="en us-g">
+<!-- <![endif]-->
+
+    <div id="bucketTextTranslations" class="hide" data-add-hover-text="Add to your bucket" data-added-hover-text="Added to your bucket" data-added-notification-text="Added to bucket" data-already-added-notification-text="Item already in bucket" data-removed-notification-text="Removed from bucket" data-bucket-full-notification-text="Bucket is full" data-ajax-error-notification-text="Error adding to bucket"></div>
+
 	
 
 	
@@ -302,23 +320,31 @@ function updateAllowanceCharts(verified)
 	</div>
 	<div id="container" style="z-index:1">
 	
-		<div id="header"><!-- BEGIN site/header -->
+		<div id="header">
+
+<!-- BEGIN site/header -->
 <!-- put this here so we dont have to make a new css file each time a new lang is added -->
 <style>
-#header ul.horzMenu li#lang.dd-link:hover ul.dd-content {
-    left: -63px;
-}
+
 
 </style>
 <!--[if lte IE 8]>
 <style type="text/css">
 	 #header ul.horzMenu li.dd-link:hover ul.dd-content{top:16px;z-index:999;}
-	 #header ul.horzMenu li.dd-link ul.dd-content li.dd-sub.left-drop:hover ul.my-details{ left: -136px;}
 </style>
 <![endif]-->
+
+<!--[if IE]>
+<style type="text/css">
+	#header ul.horzMenu li.dd-link.account-dd ul.dd-content li.content{
+		min-width: 506px; /* not so great IE fix*/
+</style>
+<![endif]-->
+
+
 <script type="text/javascript">
 	var showingLogout = false;
-	
+
 	$(document).ready(function() {
 	
 
@@ -360,7 +386,10 @@ function updateAllowanceCharts(verified)
 			});
 		}
 		// mobile main menu
-		$("<div class='mob-sub-menu'><span class='mobile-nav sub-sections' aria-haspopup='true' style='display:none;'>SECTIONS</a></span></div>").insertBefore("ul.dd_menu");
+		$("<div class='mob-sub-menu'><span class='mobile-nav sub-sections' aria-haspopup='true' style='display:none;'>SECTIONS</a></span></div>").insertBefore("ul.dd_menu:not(.sub-horz-menu)");
+		
+		$("<div class='mob-sub-menu mob-sub-horz-menu'><span class='mobile-nav sub-sections' aria-haspopup='true' style='display:none;'>SUBSECTIONS</a></span></div>").insertBefore("ul.sub-horz-menu");
+		
 		$("#mobile-nav").click(function() {   
 			$("#mob-account-menu ul.horzMenu").hide();	
 			var text = $(this).text();		
@@ -379,9 +408,17 @@ function updateAllowanceCharts(verified)
 		});
 		// mobile sub section menu
 		$(".mobile-nav.sub-sections").click(function() {   	
-			$(this).parent().siblings("ul.dd_menu").slideToggle();	
-			var text = $(this).text();		
-			$(this).text(text == "SECTIONS" ? "CLOSE" : "SECTIONS").toggleClass('close');		
+			$(this).parent().next("ul.dd_menu").slideToggle();	
+			var text = $(this).text();
+			
+			var buttonDefaultText = "SECTIONS";
+				
+			if($(this).parent().hasClass("mob-sub-horz-menu"))
+			{
+				var buttonDefaultText = "SUBSECTIONS";
+			}
+			
+			$(this).text(text == buttonDefaultText ? "CLOSE" : buttonDefaultText).toggleClass('close');		
 		});
 		
 		// handling hover menus for switch between mobile & desktop
@@ -406,6 +443,11 @@ function updateAllowanceCharts(verified)
 		{
 			makeMobMenuTogglable();
 		}
+		
+		$(".account-dd .dd-content").css("left", -($(".account-dd .dd-content").outerWidth() - $(".account-dd .head").outerWidth()));
+		$("#lang .dd-content").css("left", -($("#lang .dd-content").outerWidth() - $("#lang .head").outerWidth()));
+
+		$('.logout_header_link').click(trigger_logout);
 	});	
 	
 	// changing hover dropdown menus to clickable slidey ones for mobile
@@ -444,7 +486,7 @@ function updateAllowanceCharts(verified)
 				sessionStorage.setItem("mj12_search_history", JSON.stringify(searchHistory));
 			}
 		}
-		var tag = $("#logout_header_link");
+		var tag = $(".logout_header_link");
 		tag.text("Logging out...");
 		tag.css("background-image", "url('/static/images/icons/loading.gif')").css("background-repeat", "no-repeat").css("background-position", "100% 60%");
 		setTimeout(function(){
@@ -460,6 +502,7 @@ function updateAllowanceCharts(verified)
 		return str.replace(/[&<>]/g, replaceTag);
 	}
 </script>
+
 
 <div id="nav-top">
 <div id="majestic_logo">
@@ -504,17 +547,14 @@ function updateAllowanceCharts(verified)
 		
 		
 		<li class="settings"><a href="/account/settings/general">Settings</a></li>
-		<li class="logout"><a id="logout_header_link" onclick="return trigger_logout()" href="javascript:void(0)">Logout</a></li>
+		<li class="logout"><a class="logout_header_link" href="javascript:void(0)">Logout</a></li>
 	</ul>
 </div>
 <div id="menu_list" class="mob-dd-menu">
 	<ul class="horzMenu">
 	
-        
-			<li><a href="https://blog.majestic.com/">Blog</a></li>
-        
 		
-		<li class="dd-link separator">					
+		<li class="dd-link">					
 			<a class="head" aria-haspopup="true" href="JavaScript:;">Tools<img class="toggle_arrow" height="16" width="16" src="/static/images/backgrounds/1px.png"></a>							  
 			<ul class="dd-content">
 				<li><a href="/support/tools">Overview</a></li>
@@ -544,23 +584,24 @@ function updateAllowanceCharts(verified)
 				<li><a href="/webmaster-tools">Webmaster Tools</a></li>
 				<li class="desk"><a href="/majestic-widgets/plugins">Majestic Plugins</a></li>
 				
-				
-					<li class="dd-sub" aria-haspopup="true">
-						<a class="dd-sub-head" href="JavaScript:;" style="cursor: default;">Workflows&nbsp;<span class="right-arrow"></span></a>	
-						<ul style="border-bottom-left-radius: 0;">
-							<li><a href="/support/tools/for-seoprofessionals">SEO Professionals</a></li>
-							<li><a href="/support/tools/for-entrepreneurs">Entrepreneurs</a></li>
-							<li><a href="/support/tools/for-developers">Developers</a></li>
-							<li><a href="/support/tools/for-analysts">Media Analysts</a></li>
-						</ul>
-					</li>
-								
+				<li class="dd-sub" aria-haspopup="true">
+						<a class="dd-sub-head" href="JavaScript:;" style="cursor: default;">Workflows&nbsp;<span class="right-arrow"></span></a>
+					<ul style="border-bottom-left-radius: 0;">
+						<li><a href="/support/tools/for-seoprofessionals">SEO Professionals</a></li>
+						<li><a href="/support/tools/for-entrepreneurs">Entrepreneurs</a></li>
+						<li><a href="/support/tools/for-developers">Developers</a></li>
+						<li><a href="/support/tools/for-analysts">Media Analysts</a></li>
+					</ul>
+				</li>
 			</ul>
 		</li>
 
 		<li class="dd-link separator">					
 			<a class="head" aria-haspopup="true" href="JavaScript:;">Support<img class="toggle_arrow" height="16" width="16" src="/static/images/backgrounds/1px.png"></a>
 			<ul class="dd-content">
+				
+					<li><a href="https://blog.majestic.com/">Blog</a></li>
+							
 				<li><a href="/support">Overview</a></li>
 				<li><a href="/support/faq">FAQs</a></li>
 				<li><a href="/support/glossary">Glossary</a></li>
@@ -693,9 +734,9 @@ function updateAllowanceCharts(verified)
 		</li>
 	</ul>
 </div>
+<div class="clearb"></div>
 </div>
-<!-- END site/header -->
-</div>
+<!-- END site/header --></div>
 
 		<div id="content_container_holder">
 			
@@ -716,7 +757,7 @@ function updateAllowanceCharts(verified)
 	
 
 
-<!--[if lt IE 8]>
+<!--[if lte IE 8]>
 
 <div class="browser-warning">
 	<a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode"><img src="/static/images/banners/upgrade-ie.jpg" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." /></a>
@@ -906,77 +947,131 @@ function updateAllowanceCharts(verified)
 		</div>
 	</div>
 	
-	<div id="footer_container">
-		<div id="pad"></div>
-		<div id="footer">
-			<div class="find-us footer-column">
-	<h5>Social</h5>
-	<ul>
-		<li class="twitter">
-			<a href="https://twitter.com/Majestic" title="Twitter" target="_blank">
-			Twitter</a>
-		</li>
-		<li class="facebook"><a href="http://www.facebook.com/MajesticSite" title="Facebook" target="_blank">Facebook</a></li>
-		<li class="youtube"><a href="http://www.youtube.com/user/Majesticseovideo" title="Youtube" target="_blank">YouTube</a></li>
-		<li class="google"><a href="https://plus.google.com/+majesticseo" title="Google+" rel="publisher" target="_blank">Google</a></li>
-		<li class="pinterest"><a href="http://pinterest.com/majestic_12/" title="Pinterest" rel="publisher" target="_blank">Pinterest</a></li>
-		<li class="forums"><a href="/support/forums" title="Forums"></a></li>
-	</ul>
+	<div class="footer-container">
+	<div class="footer-sub-panel">
+		<div class="footer-sub-panel-content">	
+			<div class="mob-single-panel mob-margin index-panel">
+				
+
+
+<div class="index-stats flexbox mob-flex-column">
+	<div class="column-1-2 margin-right vert-margin-10 mob-single-panel mob-no-margin" style="margin-right: 3%; width: 48%;">
+        <h3>Fresh Index</h3>
+		<div class="vert-pad-10">
+			<span>Unique URLs crawled</span>
+			<span class="floatr">242,248,474,970</span>
+		</div>
+		<div>
+			<span>Unique URLs found</span>
+			<span class="floatr">661,821,562,902</span>
+		</div>
+		<div class="vert-pad-10">
+			<span>Date range</span>
+			<span class="floatr">13 Aug 2016 to 15 Nov 2016</span>
+		</div>
+		<div>
+			<span><a href="/support/faq#IndexBuilt">Last updated</a></span>
+			<span class="floatr">
+				
+						44 minutes ago
+					
+			</span>
+		</div>
+    </div>
+    <div class="column-1-2 margin-left vert-margin-10 mob-single-panel" style="width: 48%;">
+        <h3>Historic Index</h3>
+		<div class="vert-pad-10">
+			<span>Unique URLs crawled</span>
+			<span class="floatr">872,026,950,005</span>
+		</div>
+		<div>
+			<span>Unique URLs found</span>
+			<span class="floatr"> 4,576,034,190,323</span>
+		</div>
+		<div class="vert-pad-10">
+			<span>Date range</span>
+			<span class="floatr">25 Feb 2011 to 26 Sep 2016</span>
+		</div>
+		<div>
+			<span><a href="/support/faq#IndexBuilt">Last updated</a></span>
+			<span class="floatr"> 25 Oct 2016</span>
+		</div>
+    </div>
 </div>
-	
-<div class="company footer-column">
-	<h5>Company</h5>
-	<ul>
-		<li><a href="/plans-pricing">Plans &amp; Pricing</a></li>
-		<li><a href="/support/about">About</a></li>
-		<li><a href="/support/terms">Terms and Conditions</a></li>
-		<li><a href="/support/privacy-policy">Privacy Policy</a></li>
-		<li><a href="/support/contact-us">Contact Us</a></li>
-	</ul>
-</div>	
-
-<div class="empty footer-column">
-	<h5>Tools</h5>
-	<ul>
-		<li><a href="/reports/site-explorer?q=example.com">Site Explorer</a></li>
-		<li><a href="/reports/comparator?q1=example.com">Compare Domains</a></li>
-		<li><a href="/reports/bulk-backlink-checker">Bulk Backlinks</a></li>
-		<li><a href="/reports/search-explorer?q=google">Search Explorer</a></li>
-		<li><a href="http://developer-support.majestic.com/" target="_blank">Developer API</a> <img src="/static/images/icons/external-link.png" title="External Link "></li>
-	</ul>	
-</div>	
-
-<div class="empty footer-column">
-	<h5>Majestic is for</h5>
-	<ul>
-		<li><a href="/support/tools/for-seoprofessionals">SEO Professionals</a></li>
-		<li><a href="/support/tools/for-analysts">Media Analysts</a></li>
-		<li><a href="/support/tools/for-entrepreneurs">Entrepreneurs</a></li>
-		<li><a href="/support/tools/for-developers">Developers</a></li>
-		<li><a href="http://majesticanalytics.com" target="_blank">Enterprise</a> <img src="/static/images/icons/external-link.png" title="External Link"></li>
-	</ul>		
-</div>	
-
-<div class="awards footer-column">
-	<a href="https://blog.majestic.com/company/queensawardwinner/" target="_blank"><img src="/static/images/header-footer/the-queens-award-for-enterprise-innovation-2016-trans.png" title="The Queen's Award For Enterprise: Innovation, 2016"></a>
-</div>	
-
-<div class="up">
-	<a href="javascript:scrollToTop()">top ^</a>
-</div>
-
-
-
+			</div>
 		</div>
 	</div>
+	<div class="footer">
+		<div class="find-us footer-column">
+			<h5>Social</h5>
+			<ul>
+				<li class="twitter">
+					<a href="https://twitter.com/Majestic" title="Twitter" target="_blank">
+					Twitter</a>
+				</li>
+				<li class="facebook"><a href="http://www.facebook.com/MajesticSite" title="Facebook" target="_blank">Facebook</a></li>
+				<li class="youtube"><a href="http://www.youtube.com/user/Majesticseovideo" title="Youtube" target="_blank">YouTube</a></li>
+				<li class="google"><a href="https://plus.google.com/+majesticseo" title="Google+" rel="publisher" target="_blank">Google</a></li>
+				<li class="pinterest"><a href="http://pinterest.com/majestic_12/" title="Pinterest" rel="publisher" target="_blank">Pinterest</a></li>
+				<li class="forums"><a href="/support/forums" title="Forums"></a></li>
+		<li class="forums"><a href="http://blog.majestic.com" title="Blog" target="_blank">Blog</a>  <img src="/static/images/icons/external-link.png" title="External Link"></li>
+			</ul>
+		</div>
+			
+		<div class="company footer-column">
+			<h5>Company</h5>
+			<ul>
+				<li><a href="/plans-pricing">Plans &amp; Pricing</a></li>
+				<li><a href="/support/about">About</a></li>
+				<li><a href="/support/terms">Terms and Conditions</a></li>
+				<li><a href="/support/privacy-policy">Privacy Policy</a></li>
+				<li><a href="/support/contact-us">Contact Us</a></li>
+		<li><a href="https://blog.majestic.com/careers-at-majestic/" target="_blank">Careers</a>  <img src="/static/images/icons/external-link.png" title="External Link"></li>
+			</ul>
+		</div>	
+
+		<div class="empty footer-column">
+			<h5>Tools</h5>
+			<ul>
+				<li><a href="/reports/site-explorer?q=example.com">Site Explorer</a></li>
+				<li><a href="/reports/comparator?q1=example.com">Compare Domains</a></li>
+				<li><a href="/reports/bulk-backlink-checker">Bulk Backlinks</a></li>
+				<li><a href="/reports/search-explorer?q=google">Search Explorer</a></li>
+				<li><a href="http://developer-support.majestic.com/" target="_blank">Developer API</a> <img src="/static/images/icons/external-link.png" title="External Link "></li>
+			</ul>	
+		</div>	
+
+		<div class="empty footer-column">
+			<h5>Majestic is for</h5>
+			<ul>
+				<li><a href="/support/tools/for-seoprofessionals">SEO Professionals</a></li>
+				<li><a href="/support/tools/for-analysts">Media Analysts</a></li>
+				<li><a href="/support/tools/for-entrepreneurs">Entrepreneurs</a></li>
+				<li><a href="/support/tools/for-developers">Developers</a></li>
+				<li><a href="http://majesticanalytics.com" target="_blank">Enterprise</a> <img src="/static/images/icons/external-link.png" title="External Link"></li>
+			</ul>		
+		</div>	
+
+		<div class="awards footer-column">
+			<a href="https://blog.majestic.com/company/queensawardwinner/" target="_blank"><img src="/static/images/header-footer/the-queens-award-for-enterprise-innovation-2016-trans.png" title="The Queen's Award For Enterprise: Innovation, 2016"></a>
+		</div>	
+
+		<div class="up">
+			<a href="javascript:scrollToTop()">top ^</a>
+		</div>
+	</div>
+</div>
+
+
+
 
 	
-		<!-- Piwik --><!-- CHeese Burger -->
+		<!-- Piwik -->
 <script type="text/javascript">
   var _paq = _paq || [];
   
 
-	_paq.push(['setDocumentTitle',document.domain + "/" + document.title + "/version=a/usr=G"]);	
+	_paq.push(['setDocumentTitle',document.domain + "/" + document.title + "/version=b/usr=G"]);	
   
 
 	_paq.push(['setCustomVariable',  1,"Subdomain", "en", "page"]); 
@@ -995,19 +1090,6 @@ function updateAllowanceCharts(verified)
 		var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
 		g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
 	})();
-
-	piAId = '64022';
-	piCId = '1998';
-
-	(function() {
-	function async_load(){
-	var s = document.createElement('script'); s.type = 'text/javascript';
-	s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
-	var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
-	}
-	if(window.attachEvent) { window.attachEvent('onload', async_load); }
-	else { window.addEventListener('load', async_load, false); }
-	})();
 	
 </script>
 <noscript><p><img src="//analytics.majestic.com/piwik.php?idsite=2" style="border:0;" alt="" /></p></noscript>
@@ -1015,8 +1097,6 @@ function updateAllowanceCharts(verified)
 
 	
 
-	
-	
 	
 	
 	<div id="feedbackForm">
