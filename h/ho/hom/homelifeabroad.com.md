@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homelifeabroad.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314090411id_/http%3A//www.homelifeabroad.com/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homelifeabroad.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115174821id_/http%3A//www.homelifeabroad.com/disclosure-privacy-policy) for the most accurate reproduction.*
 
-# Disclosure & Privacy Policy | Home Life Abroad
+# Disclosure & Privacy Policy | Home Life Abroad | Home Life Abroad
 
 This policy is valid from 24 October 2015
 
