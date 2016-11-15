@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uneca.org privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620140543id_/http%3A//www.uneca.org/pages/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uneca.org privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115013513id_/http%3A//www.uneca.org/pages/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | United Nations Economic Commission for Africa
 
