@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ait-pro.com privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922200305id_/http%3A//www.ait-pro.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ait-pro.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115062819id_/http%3A//www.ait-pro.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AITpro Website Design | AITpro Website Security
 
