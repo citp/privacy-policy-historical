@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketstock.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601004600id_/https%3A//www.rocketstock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketstock.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115012749id_/https%3A//www.rocketstock.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RocketStock.com
 
@@ -10,7 +10,7 @@ The credit card information provided when you purchase a product from us is proc
 
 **We do not gather personal or individual information from visitors.** However, we do gather general information. For example, we like to know which of our pages are visited most often, what kind of music is most popular, from which countries we get most visitors, what browser is most popular, etc. This information is anonymous and collected as the aggregation of all visitors together. This sort of information helps us to understand our customers’ needs and serve them better.
 
-When you become a member or purchase a product from us, you fill in a form with your address, phone number and e-mail in order to complete the transaction. We keep this information securely on file in case we need to communicate with you, and to expedite future transactions. **But we do not share this information with anyone else.**
+When you become a member or purchase a product from us, you fill in a form with your address, phone number and e-mail in order to complete the transaction. We keep this information securely on file in case we need to communicate with you, and to expedite future transactions. We may occasionally share some information with third party platforms to perform services only on our behalf. **We never share, rent, sell personal information to anyone else.**
 
 We will sometimes provide links to external websites. RocketStock is not responsible for the validity of these links, but we will correct any error as soon as they are brought to our attention. Furthermore, we cannot assume any responsibility for the privacy policy of external websites.
 
