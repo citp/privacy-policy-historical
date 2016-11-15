@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the worldwidecapital.net privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404043143id_/http%3A//worldwidecapital.net/help/help_a23.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwidecapital.net privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115111847id_/http%3A//worldwidecapital.net/help/help_a23.asp) for the most accurate reproduction.*
 
 # CallingCards.com - Home of Online Calling Cards and Phone Cards
 
-  
-CALLINGCARDS.COM, PRIVACY POLICY  
+## CALLINGCARDS.COM, PRIVACY POLICY
+
 Your privacy is vital to our long-term relationship with you, and protecting your privacy is just one part of our mission to provide you with highly personalized and valuable service. In addition, in an effort to comply with the Children's Online Privacy Protection Act (COPPA), we will not knowingly collect personally identifying information from children under the age of 13.
 
 This statement describes our privacy policy with respect to:
@@ -15,7 +15,8 @@ This statement describes our privacy policy with respect to:
   * Customer Proprietary Network Information (CPNI) 
   * Amendments to Our Privacy Policy 
 
-  
+
+
 What Information is Collected; How Information is Collected; and by Whom is Information Collected
 
 Required Personally Identifiable Information  
@@ -52,7 +53,7 @@ In addition, we may share aggregated general information about our site with our
 Third Party Sites  
 We may publish links to other sites from our web site. Please note that CallingCards.com does not control the content, practices or policies of any other site, including what information those sites collect about you. Accordingly, we do not endorse or hold ourselves responsible for the privacy policies or information gathering practices of any site that you may link to from our site. In addition, you may choose to respond to advertisements that are posted on our web site or made available via our service or to direct marketing offers from third party sponsors or advertisers. We do not control the content, practices or policies of our sponsors or advertisers and, accordingly, do not endorse or hold ourselves responsible for the privacy policies or information gathering practices of any sponsor or advertiser who may collect information about you. 
 
-How You Can Access, Limit or Change the Information Collected About You 
+How You Can Access, Limit or Change the Information Collected About You
 
 Security
 
