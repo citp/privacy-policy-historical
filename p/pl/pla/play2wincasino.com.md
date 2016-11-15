@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the play2wincasino.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504183539id_/http%3A//www.play2wincasino.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play2wincasino.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115115948id_/http%3A//www.play2wincasino.com/privacy_policy) for the most accurate reproduction.*
 
 # At play2win your privacy will always be our top priority- rest assure!
 
