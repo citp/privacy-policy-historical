@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comeon.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315145336id_/https%3A//www.comeon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comeon.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115041059id_/https%3A//www.comeon.com/privacy-policy) for the most accurate reproduction.*
 
 # ComeOn! Privacy Policy
 
@@ -73,8 +73,7 @@ We may also disclose your personal information:
 
 
 
-**Cookies**  
-We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information. 
+**Cookies** We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information. 
 
 **Third Party Cookies**  
 The use of cookies by our partners, affiliates, service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, service providers use session ID cookies to make it easier for you to navigate our site. 
