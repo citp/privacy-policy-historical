@@ -1,63 +1,87 @@
-> *The following text is extracted and transformed from the knect365.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608121916id_/http%3A//www.informa.com/generic-content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knect365.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115020207id_/https%3A//knect365.com/privacy-policy) for the most accurate reproduction.*
 
-# Informa.com - Privacy Policy
+# Privacy Policy
 
-  * [Terms & Conditions](https://web.archive.org/generic-content/terms-conditions/)
-  * [Privacy Policy](https://web.archive.org/generic-content/privacy-policy/)
-  * [Accessibility](https://web.archive.org/generic-content/accessibility/)
+Informa Group (which comprises Informa plc and any and all of its subsidiaries) ("we" or "us") are committed to protecting and respecting your privacy. This privacy policy has been created in order to demonstrate our firm commitment to your privacy.
+
+This policy (together with our terms of use) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
+
+  1. ## Information we may collect from you
+
+    1. We may collect and process the following data about you: 
+      1. Information that you provide by filling in forms on our site. This includes information provided at the time of registering to use our site, subscribing to our services, requesting, applying for or entering further services (including, but not limited to, a competition or promotion), making an enquiry or reporting a problem. This may include, but is not limited to, information such as your name, address, phone and email address. 
+      2. In order to improve our communications with you as well as improve our products and services, we may ask you to provide us with additional information about you such as your professional interests and your experiences with us as well as more detailed contact preferences. When you provide us with any personal information you consent to us collecting and using that information according to your preferences. 
+      3. If you contact us, we may keep a record of that correspondence.
+      4. We may ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+      5. Details of transactions you carry out through our site and of the fulfilment of your orders.
+      6. Details of your visits to our site and the resources that you access and/or download.
+  2. ## IP addresses
+
+We may collect information about your computer, including where available your IP address, operating system and browser type for system administration. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+
+  3. ## Cookies
+
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them please see our [cookie policy](https://web.archive.org/cookie-policy).
+
+  4. ## Where we store your personal data
+
+    1. The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. 
+    2. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+    3. All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted.
+    4. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. 
+    5. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. 
+  5. ## Uses made of the information
+
+    1. We use information held about you in the following ways: 
+      1. To ensure that content from our site is presented in the most effective manner for you and for your computer.
+      2. To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes. 
+      3. To share with other companies within our group (as defined in clause 6.1 below) and reputable third organisations for marketing purposes provided we have your consent to do so. 
+      4. To notify you about changes or updates to our service.
+      5. To carry out our obligations arising from any contracts entered into between you and us.
+      6. To allow you to participate in interactive features of our service, when you choose to do so.
+      7. If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you or which you have shown an interest in. 
+      8. If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. 
+    2. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data. 
+  6. ## Disclosure of your information
+
+    1. We may disclose your personal information to any of our subsidiaries, our parent company and any of our parent company's other subsidiaries ("our group"). 
+    2. We may disclose your personal information to third parties: 
+      1. In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
+      2. If we or substantially all of our assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. 
+      3. If said third party provide services for us, limited to the following purposes: 
+        1. Understanding the use of our site and making improvements
+        2. Administering a mailing list for customers that have registered for such list
+        3. Responding to requests from or providing any necessary notices to you
+        4. Protecting the security or integrity of our site
+        5. Otherwise administering or managing our site software.
+      4. If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property or safety of us, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
+  7. ## Your rights
+
+    1. You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us using the contact information below. 
+    2. Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Their inclusion cannot be taken to imply any endorsement or validation by us of the content of said website. 
+  8. ## Access to information
+
+The Data Protection Act 1998 (the "Act") gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+
+  9. ## Changes to our privacy policy
+
+Any changes we may make to our privacy policy in the future will be posted on this page.
+
+  10. ## Contact
+
+    1. Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to: 
+
+The Database Manager  
+Informa UK Limited  
+Maple House  
+149 Tottenham Court Road  
+London W1T 7AD  
+United Kingdom
+
+T: +44 (0)20 7017 7077  
+F: +44 (0)20 7017 7828  
+email: [integrity@informa.com](mailto:integrity@informa.com)
+
+    2. We endeavour to process all requests as promptly as practical, however please note that you may continue to receive existing communications for a transitional period whilst we update your preferences. 
 
 
-
-**Informa PLC Privacy Policy Statement**
-
-This online privacy policy is designed to tell you about how we collect and use information so that you ("User" or "you") can make an informed choice about using the website identified by the URL [www.informa.com](https://web.archive.org/ "Informa.com") and/or any website which is automatically redirected to that website (together, the "Website") operated by Informa Group plc ("our", "we" or "us") on behalf of Informa PLC (registered in the UK).
-
-**What Information Do We Collect?**
-
-When you undertake to register yourself to receive an e-mail alert on this Website we ask for your full name, job title and e-mail address, and from time to time the e-mail addresses and additional contact details of those who communicate with us via e-mail and request information ("Personal Data").
-
-**Use of Personal Data**
-
-Any Personal Data that you give us will be treated with the utmost care and security. It will not be used in ways to which you have not consented.
-
-The Personal Data we collect is used to provide you with the service that you have requested or to respond to an enquiry that you have made. We use certain third party service providers to assist us in providing these services to you, for example, email alerting, web casting and hosting.
-
-The Personal Data we acquire via the email alert service will not be used for marketing purposes except where you have indicated that we may do so on the registration page.
-
-We will not sell, rent or loan any Personal Data or identifiable information collected on this Website, except that we may pass or sell your Personal Data outside our corporate group to third parties in the event that we sell the whole or part of our business.
-
-The information collected from this Website could be stored for as long as is required for the uses stated above.
-
-**Users' Right to Opt-out**
-
-If you do not want to continue to receive the alerter e-mail communications from us please let us know by sending an e-mail to [corporateoptout@informa.com](mailto:corporateoptout@informa.com "Corporate Opt-out").
-
-**Period of Grace**
-
-Should you request that we amend or suppress records containing your Personal Data we will endeavour to do so as promptly as practical; however you may receive communications for a transitional period whilst we process your records.
-
-**Use of Cookies and Log files**
-
-A cookie is a small text file written to an individual's hard drive that contains the user ID. The cookies do not contain any personal information about Users and in themselves only record those areas of the Website that have been visited by the computer in question, and for how long.
-
-The use of cookies is now widespread by websites in order to track traffic flows. From time to time we may use cookies to enable us to offer certain time-saving features to our Users. These may be used to administer the Website, track Users' movements and actions, and gather broad demographic information for aggregate use. The information gathered would then be used to improve the Website and the User experience.
-
-You can find out more about the use of cookies and how you can remove them by going to the Interactive Advertising Bureau website [http://allaboutcookies.org](http://allaboutcookies.org/ "All About Cookies") or [http://www.cookiecentral.com](http://www.cookiecentral.com/ "Cookie Central"). You should note that if a User sets up his browser to reject the cookie, he or she may still use the Website although functionality will be impaired.
-
-**Hyperlinks**
-
-This Website contains links to other websites, including without limitation those websites of companies within the Informa PLC which form part of the Academic & Scientific, Professional and Commercial Divisions. Their inclusion cannot be taken to imply any endorsement or validation by us of the content of the said websites. Informa PLC is not responsible for the privacy practices, nor do we accept any liability in connection with the content of such websites including those of our group companies which have their own privacy policies tailored for the particular business practices and sectors in which they operate.
-
-**Changes/Updates to Privacy Policy**
-
-In order to keep up with changing legislation and best practice, we may revise this Privacy Policy at any time without notice so please check back periodically so that you are aware of any changes. This Privacy Policy should be read in conjunction with and is subject to our Terms ([Click here to view the Terms & Conditions](https://web.archive.org/generic-content/terms-conditions/ "Terms & conditions")).
-
-**Contact Us**
-
-If you have any questions about this privacy pledge or feel that your privacy has been compromised, please contact us at [corporateoptout@informa.com](mailto:corporateoptout@informa.com "Corporate Opt-out") or alternatively:
-
-Global Web Specialist  
-Informa Group PLC,  
-5 Howick Place   
-London SW1P 1WG,  
-UK
