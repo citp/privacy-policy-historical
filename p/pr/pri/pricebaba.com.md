@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricebaba.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608102607id_/http%3A//pricebaba.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricebaba.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115184306id_/http%3A//pricebaba.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Pricebaba.com
 
@@ -15,3 +15,26 @@ Just because we have your contact details does not mean we will or ever intend t
 In the future, if we feel there's something we need to inform you regarding privacy, we will update this page and hope you will take note of it.
 
 We love a clean Internet, an environment that inspires trust. We hate spam and we have no intentions to unethically sell your contact information stored with us.
+
+### Pricebaba Clear Android App
+
+The PriceBaba Clear app checks your used mobile phone's condition in few minutes!   
+There are some permissions we ask upon installation. We ask these permissions to perform tests on your phone that help us evaluate your phone better. At any given point in the app, we do not collect or store any private, sensitive information belonging to you like your contacts, photos or use things like your microphone for any purposes other performing the aforementioned tests. 
+
+We do collect information you provide to us such as name, email, mobile phone number, and information we collect as you access and use our service, including device information, location and network carrier. This information enables us to evaluate your device and provide our services better. 
+
+We may disclose to third party services certain personally identifiable information listed below: 
+
+  * • information you provide us such as name, email, mobile phone number 
+  * • information we collect as you access and use our service, including device information, location and network carrier 
+
+
+
+This information is shared with third party service providers so that we can: 
+
+  * • personalize the app for you
+  * • perform behavioral analytics
+
+
+
+For any questions regarding your privacy, you can write to us [here](http://pricebaba.com/contact-us). 
