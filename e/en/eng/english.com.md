@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the english.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325121852id_/http%3A//www.english.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the english.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115075126id_/https%3A//www.english.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Pearson English
 
-This Privacy Policy governs the manner in which Pearson collects, uses, maintains and discloses information collected from users (each a "User" or "you") of the [www.pearson.com](http://www.pearson.com/) website ("Site"). This Privacy Policy applies to the Site and all the services offered by Pearson on this Site.
+This Privacy Policy governs the manner in which Pearson collects, uses, maintains and discloses information collected from users (each a "User" or "you") of the [www.pearson.com](https://www.pearson.com/) website ("Site"). This Privacy Policy applies to the Site and all the services offered by Pearson on this Site.
 
 ## Personal identification information
 
@@ -14,7 +14,7 @@ We may collect non-personal identification information about Users whenever they
 
 ## Web browser cookies
 
-Our Site may use "cookies" to enhance Users' experience. A User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. Users may choose to set their web browser to refuse cookies, or to alert them when cookies are being sent, but this may result in some parts of the Site not functioning properly. For more information please see our [Cookie Policy](http://www.pearson.com/cookie-policy.html).
+Our Site may use "cookies" to enhance Users' experience. A User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. Users may choose to set their web browser to refuse cookies, or to alert them when cookies are being sent, but this may result in some parts of the Site not functioning properly. For more information please see our [Cookie Policy](http://www.pearson.com/cookie-policy.html).
 
 ## How we use collected information
 
@@ -22,6 +22,16 @@ Pearson may collect and use Users' personal information for the following purpos
 
   * **To improve Users' experience** \- We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site and so that we may improve our Site.
   * **To send periodic emails** \- If the User decides to opt-in to our email alerts, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+
+
+Comments shared publicly on [our blog](https://s3-us-west-2.amazonaws.com/prodengblogs/) are subject to moderation. Once comments have been approved and published we reserve the right to reference them in publications on the blog. Comments and/or links will be deleted if they contain:
+
+  * Unfair/unsubstantiated partisan political views
+  * Commercial endorsements
+  * Discriminatory, racist, offensive, obscene, inflammatory, unlawful, or otherwise objectionable statements, language, or content
+  * Personally identifiable information. This refers to information that can be used to distinguish or trace an individual’s identity, either alone or when combined with other personal or identifying information that is linked or linkable to a specific individual
+  * Particulars of individual grants and applications
 
 
 
