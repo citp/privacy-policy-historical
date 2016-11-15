@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cssigniter.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505191024id_/http%3A//www.cssigniter.com/ignite/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cssigniter.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115220707id_/https%3A//www.cssigniter.com/ignite/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – CSSIgniter
+# Privacy Policy – CSSIgniter - Premium WordPress Themes
 
 Protecting your privacy and the information you provide us is a top priority for CSSIgniter LLC (“CSSIgniter”). By visiting our Website, you are accepting the practices described in this Privacy Policy. Any information submitted to CSSIgniter, is collected, managed and retained by CSSIgniter. Please be aware that your access to our Services may be subject to certain third party terms and conditions and privacy policies, including but not limited to third party payment processors. You agree that CSSIgniter is not liable for any such third party terms and conditions and their use of your personal information (information related to you that can identify you). We do not transfer, sell or rent your personal information to third parties in any way other than what is stated in this Privacy Policy. Unless stated otherwise, this Privacy Policy only deals with the use and communication of information collected by CSSIgniter.
 
-Those Privacy Policy provisions are part of our T[erms & Conditions](http://www.cssigniter.com/ignite/terms-conditions/)
+Those Privacy Policy provisions are part of our T[erms & Conditions](https://www.cssigniter.com/ignite/terms-conditions/)
 
 #### 1\. What information is collected
 
@@ -28,11 +28,11 @@ We partner with third-party advertising networks to either display advertising o
 
 a) We may use your personal information for the following purposes:  
 • Use of your e-mail associated with your Account in order to send you one newsletter per month in conjunction with your use of our Services. If you do not wish to receive newsletters you may unsubscribe by clicking the unsubscription link in the newsletter e-mail.  
-• Use of your e-mail to send you system e-mails that you cannot opt out from and you will have to receive if you want to use our Website. If you want to stop receiving the system e-mails, you will have to opt-out by accessing your your Account at [Members’ section.](http://www.cssigniter.com/members/)  
+• Use of your e-mail to send you system e-mails that you cannot opt out from and you will have to receive if you want to use our Website. If you want to stop receiving the system e-mails, you will have to opt-out by accessing your your Account at [Members’ section.](https://www.cssigniter.com/members/)  
 b) CSSIgniter uses website navigation data to operate and improve the Website. CSSIgniter may also use website navigation data alone or in combination with your personal information to provide aggregated information about CSSIgniter.  
 c) We store all the information that is tracked through standard Google Analytics but we do not save this information on our databases.
 
-All the information, described in this paragraph 2, shall be used in accordance with applicable laws and regulations. We do not use your personal information in any other context other than the one described in our [Terms & Conditions](http://www.cssigniter.com/ignite/terms-conditions/) and Privacy Policy.
+All the information, described in this paragraph 2, shall be used in accordance with applicable laws and regulations. We do not use your personal information in any other context other than the one described in our [Terms & Conditions](https://www.cssigniter.com/ignite/terms-conditions/) and Privacy Policy.
 
 #### 3\. How your information is protected
 
@@ -41,12 +41,12 @@ b) CSSIgniter reserves its right though to share your personal information to a 
 c) We do not make any personal information available to third parties for their marketing purposes.  
 d) If however, we share your personal information and data with third parties, we will notify you. Please note that no transmission over the internet can be fully guaranteed in its confidentiality and non-disclosure, and as such, you transmit at your own risk.  
 e) CSSIgniter uses robust security measures to protect personal information from unauthorized access, maintain personal information accuracy, and help ensure the appropriate use of personal information. When the Services are accessed using the internet, Secure Socket Layer (SSL) technology protects your data using both server authentication and data encryption. These technologies help ensure that your information is safe, secure, and only available to you to whom the information belongs and those to whom you have granted access. CSSIgniter also implements other advanced technology measures to prevent interference or access from outside intruders.  
-f) We do not tolerate Spam. To report CSSIgniter-related spam please contact us at info [] cssigniter.com. You may not use our communication tools to send spam or otherwise send content that would violate our [Terms & Conditions](http://www.cssigniter.com/ignite/terms-conditions/). We may check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content of the Website, but we will not permanently store messages sent through these tools.  
+f) We do not tolerate Spam. To report CSSIgniter-related spam please contact us at info [] cssigniter.com. You may not use our communication tools to send spam or otherwise send content that would violate our [Terms & Conditions](https://www.cssigniter.com/ignite/terms-conditions/). We may check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content of the Website, but we will not permanently store messages sent through these tools.  
 g) CSSIgniter does its utmost to secure its information storage in order to protect confidentiality of your personal information against loss and interception by third parties. However, it is important to know that there is no zero-risk against loss or interception by others of your personal information. You are responsible for maintaining the security and confidentiality of your Account’s username and password.
 
 #### 4\. How the information is stored
 
-We save your personal information in our database in order to improve our Website’s and user experience and in accordance with our [Terms & Conditions](http://www.cssigniter.com/ignite/terms-conditions/). If you wish that your personal information be permanently deleted from our database when you stop using our Services, please notify us at info@cssigniter.com.
+We save your personal information in our database in order to improve our Website’s and user experience and in accordance with our [Terms & Conditions](https://www.cssigniter.com/ignite/terms-conditions/). If you wish that your personal information be permanently deleted from our database when you stop using our Services, please notify us at info@cssigniter.com.
 
 #### 5\. Third Party Payment Processor
 
@@ -64,7 +64,7 @@ We cooperate with law enforcement authorities, as well as with other third parti
 
 #### 8\. Consent
 
-By using our Website, you consent to the collection and use of your personal information and data as described in this Privacy Policy and our [Terms & Conditions](http://www.cssigniter.com/ignite/terms-conditions/).
+By using our Website, you consent to the collection and use of your personal information and data as described in this Privacy Policy and our [Terms & Conditions](https://www.cssigniter.com/ignite/terms-conditions/).
 
 #### 9\. Changes
 
