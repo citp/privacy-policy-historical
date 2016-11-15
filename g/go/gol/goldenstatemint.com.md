@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goldenstatemint.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410035405id_/https%3A//www.goldenstatemint.com/golden-state-mint-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenstatemint.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115082446id_/https%3A//www.goldenstatemint.com/golden-state-mint-privacy-policy.html) for the most accurate reproduction.*
 
-# Golden State Mint Privacy Policy - Golden State Mint LLC
+# Our Privacy Policy at Golden State Mint LLC
 
 [Home](https://web.archive.org/) | Golden State Mint Privacy Policy
 
