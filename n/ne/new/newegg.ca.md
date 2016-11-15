@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the newegg.ca privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524201801id_/http%3A//kb.newegg.ca/Policies/Article/1182) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newegg.ca privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115141321id_/https%3A//kb.newegg.ca/Article/Index/12/2%3Fid%3D1182) for the most accurate reproduction.*
 
-# Newegg.ca - [Privacy Policy]
+# Privacy Policy
 
-﻿
-
-## __Privacy Policy
+#tools# 
 
 ### Information Collection and Use
 
@@ -112,3 +110,5 @@ Newegg Canada Inc.
 9997 Rose Hills Road   
 Whittier, CA 90601  
 United States
+
+#helpful# 
