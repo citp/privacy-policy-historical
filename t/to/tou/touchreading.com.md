@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the touchreading.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323040708id_/http%3A//www.touchreading.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touchreading.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115071725id_/http%3A//www.touchreading.com/privacy-policy) for the most accurate reproduction.*
 
 # Touch Local | Privacy Policy
 
