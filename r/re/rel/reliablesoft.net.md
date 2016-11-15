@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reliablesoft.net privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409052607id_/https%3A//www.reliablesoft.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliablesoft.net privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115063938id_/https%3A//www.reliablesoft.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
