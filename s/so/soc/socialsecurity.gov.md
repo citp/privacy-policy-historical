@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialsecurity.gov privacy policy that was archived on 2015-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151004105553id_/http%3A//www.socialsecurity.gov/agency/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialsecurity.gov privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115150125id_/https%3A//www.ssa.gov/agency/privacy.html) for the most accurate reproduction.*
 
 # Social Security's Internet Privacy Policy
 
@@ -58,7 +58,7 @@ We use the information we collect using these technologies only for SSA program 
 
 **6.   The privacy safeguards applied to the information **
 
-We will comply with all applicable statutes and policies in regards to protecting the privacy and security of information we collect using a web measurement or customization technology.  A listing of Privacy Impact Assessments for our electronic systems and collections, including those utilizing web measurement and customization technologies, are located at <http://www.socialsecurity.gov/foia/html/pia.htm>
+We will comply with all applicable statutes and policies in regards to protecting the privacy and security of information we collect using a web measurement or customization technology.  A listing of Privacy Impact Assessments for our electronic systems and collections, including those utilizing web measurement and customization technologies, are located at <https://www.ssa.gov/foia/html/pia.htm>
 
 **7.   The data retention policy for the information **
 
@@ -70,7 +70,7 @@ In order to optimize your experience and provide statistically accurate data abo
 
 **9.   How to opt-out of the web measurement and/or customization technology**
 
-You can remove or block the use of web measurement and customization technologies by changing the setting of your browser to block cookies as described at <http://www.usa.gov/optout_instructions.shtml>.  
+You can remove or block the use of web measurement and customization technologies by changing the setting of your browser to block cookies as described at <http://www.usa.gov/optout_instructions.shtml>.   
 
 
 **10.   Statement that opting-out still permits users to access comparable information or services **
