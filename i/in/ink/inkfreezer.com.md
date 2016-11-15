@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inkfreezer.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620175817id_/http%3A//www.inkfreezer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkfreezer.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115153724id_/http%3A//www.inkfreezer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - inkFreezer
 
