@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myjobmatcher.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325173732id_/https%3A//www.myjobmatcher.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjobmatcher.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115180901id_/https%3A//www.myjobmatcher.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and cookies policy : MyJobMatcher.com
+# Privacy and cookies policy
 
-This is the privacy and cookies policy for www.myjobmatcher.com and any mobile applications we make available from time to time (Site). The Site is operated by My Job Matcher Limited (we, us and our). For the purposes of the Data Protection Act 1998, we are the data controller.
+This is the privacy and cookies policy for [www.myjobmatcher.com](https://www.myjobmatcher.com/) and any mobile applications we make available from time to time (Site). The Site is operated by My Job Matcher, Inc. (we, us and our). Our registered office is at 310 Alder Road, Dover, Kent, Delaware 19904.
 
 We are committed to protecting your privacy on-line. We appreciate that you do not want the personal information you provide to us distributed indiscriminately and here we explain how we collect information, what we do with it and what controls you have.
 
@@ -16,7 +16,7 @@ In addition to this policy, our [Terms of Use Service](https://web.archive.org/t
 
 We may collect and process the following information about you:
 
-information (such as your name, email address, postal address and telephone number, CV or resumé) that you provide by completing forms on the Site, including if you register as a user of the Site, subscribe to any service, upload or submit any material via the Site, request any information, or enter into any competition or promotion we may sponsor; in connection with an account sign-in facility, your log-in and password details; details of jobs you have been matched with, job you have viewed or any of your job preferences; communications you send to us, for example to report a problem or to submit queries, concerns or comments regarding the Site or its content; information from surveys that we may, from time to time, run on the Site for research purposes, if you choose to respond to, or participate in, them; employment details if you send us a CV, resumé or other details of your employment history in connection with an advertised job vacancy or a general enquiry regarding employment opportunities with us.
+Information (such as your name, email address, postal address and telephone number, resume) that you provide by completing forms on the Site, including if you register as a user of the Site, subscribe to any service, upload or submit any material via the Site, request any information, or enter into any competition or promotion we may sponsor; in connection with an account sign-in facility, your log-in and password details; details of jobs you have been matched with, job you have viewed or any of your job preferences; communications you send to us, for example to report a problem or to submit queries, concerns or comments regarding the Site or its content; information from surveys that we may, from time to time, run on the Site for research purposes, if you choose to respond to, or participate in, them; employment details if you send us a resume or other details of your employment history in connection with an advertised job vacancy or a general enquiry regarding employment opportunities with us.
 
 You are under no obligation to provide any such information. However, if you should choose to withhold requested information, we may not be able to provide you with certain services.
 
@@ -114,14 +114,8 @@ We will retain information you have submitted to us as required for our records 
 
 ## Storage of your information
 
-Information that you submit via the Site is sent to and stored on secure servers located in the EEA or USA. This is necessary in order to process the information. Information submitted by you may be transferred by us to our other offices and/or to the third parties mentioned in the circumstances described above (see information sharing), which may be situated outside the European Economic Area (EEA) and may be processed by staff operating outside the EEA. The countries concerned may not have similar data protection laws to the EEA. Where we transfer your information we will take all reasonable steps to ensure that your privacy rights continue to be protected. By submitting information via the Site, you agree to this storing, processing and/or transfer.
-
-## Your rights
-
-You have a legal right under the Data Protection Act 1998 to a copy of all the personal information about you held by us. On request, we will provide you with a copy of this information subject to a fee not exceeding £10. You also have a right to correct any errors in that information. As mentioned above, you have a right to prevent the use of your personal information for direct marketing purposes.
+Information that you submit via the Site is sent to and stored on secure servers located in the EEA or USA. This is necessary in order to process the information. Information submitted by you may be transferred by us to our other offices and/or to the third parties mentioned in the circumstances described above (see information sharing). Where we transfer your information we will take all reasonable steps to ensure that your privacy rights continue to be protected. By submitting information via the Site, you agree to this storing, processing and/or transfer.
 
 ## Contacting us
 
-Please submit any questions, concerns or comments you have about this privacy policy or any requests concerning your personal data by email to [support@myjobmatcher.com](mailto:support@myjobmatcher.com) or write to us at:
-
-My Job Matcher Ltd, Suite C, Falcon Drive, Old Stratford Business Park, Old Stratford, MK19 6FG
+Please submit any questions, concerns or comments you have about this privacy policy or any requests concerning your personal data by email to customer.success @ myjobmatcher.com (remove spaces when sending email) or write to us via our website contact form.
