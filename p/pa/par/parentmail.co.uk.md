@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parentmail.co.uk privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609061827id_/http%3A//www.parentmail.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentmail.co.uk privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115032430id_/https%3A//www.parentmail.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ParentMail
+# Data Protection & Privacy Policy - ParentMail
 
 ## We take your privacy and data protection very seriously, and we want to make sure that you know what data we collect and how we use it.
 
