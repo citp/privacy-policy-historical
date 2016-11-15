@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amwayglobal.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417105042id_/https%3A//www.amwayglobal.com/en_us/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amwayglobal.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115153250id_/https%3A//www.amwayglobal.com/en_us/privacy-notice.html) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -36,20 +36,6 @@ We maintain contractual agreements with all of our Merchant and Services Partner
 
 We take special care to protect the privacy needs of children and encourage parents to be an active participant in their child’s online activities. Our Site does not target and is not intended for children under the age of 16, and we will not knowingly collect Personally Identifiable Information from them. If we discover personal data from a child through our Site, we will eliminate that data.  You must be at least 18 years old as a customer or qualify as an ABO to be on our Site.
 
-### Amway Websites - Alticor Inc. and the U.S., E.U. and Switzerland's Safe Harbor for Privacy
-
-The United States (U.S.) Department of Commerce, European Commission, and Swiss Data Protection Commissioner have developed a "Safe Harbor" framework of data protection principles. This Safe Harbor is designed to provide U.S. organizations with a means to satisfy the European Union (E.U.) and Switzerland’s legal requirement that adequate data protections be afforded to personally identifiable information transferred from the E.U. or Switzerland to the United States.
-
-This privacy policy is consistent with the Safe Harbor principles, and our Site has specifically certified that its transfers of manual and electronic data from the E.U. or Switzerland to the United States adhere to the Safe Harbor principles.
-
-Our site receives private information about customers, employees, and business partners from sources outside of the United States including countries within the E.U. and Switzerland. We have self-certified, with third party independent verification that our privacy practices are consistent with the U.S., E.U. and Switzerland’s Safe Harbor principles: notice, choice, onward transfer, access and accuracy, security, and oversight/enforcement. More information about the US Department of Commerce Safe Harbor Program can be found at http://www.export.gov/safeharbor/.
-
-The Site is a part of Group Alticor Inc., which includes the following affiliated companies and brand websites: Amway.com; Amwayglobal.com, Amway.com.do; Amway.ca; Nutrilite.com; Artistry.com; eSpring.com; MyRibbonGift.com; Achievemagazine.com; Amwaymediabank.com; News.amway.com; Globalnews.amway.com; Showsell.amway.com; Amway.net; Blogs.amway.com; Alticor.com; Alticor.com/ace; and, Accessbusinessgroup.com.
-
-Privacy complaints by Alticor’s customers, employees and/or business partners in the European Union and Switzerland: In compliance with the U.S.-E.U. and U.S.-Swiss Safe Harbor Principles, Group Alticor Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union and Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Alticor’s Privacy Office at [Privacy@Alticor.com](mailto:Privacy@alticor.com?Subject=Safe%20Harbor%20Privacy). 
-
-Group Alticor Inc. and all affiliated companies and branded websites listed above have further committed to refer unresolved privacy complaints under the U.S.-E.U. and U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Group Alticor Inc., please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint. 
-
 ### Changes To This Policy
 
 Any updates or changes to the terms of this Privacy Policy will be posted here on our Site and the date of the newest version posted below. Please check back frequently, especially before you submit any Personally Identifiable Information at our Site, to see if this Privacy Policy has changed. If any changes materially affect the use of Personally Identifiable Information previously provided to us, we will obtain your consent prior to the retroactive application of any material changes. By using our Site, you acknowledge acceptance of this Privacy Policy in effect at the time of use.  
@@ -60,5 +46,5 @@ Any updates or changes to the terms of this Privacy Policy will be posted here o
 If you have any concerns about our use of your information or about this Privacy Policy, please send an e-mail feedback.amwayglobal@amway.com We will make every reasonable effort to address your concerns and remedy any problems you bring to our attention.
 
   
-Updated and effective November 3, 2015.  
-©2015 Alticor Inc., all rights reserve
+Updated and effective September 29, 2016.  
+©2016 Alticor Inc., all rights reserve
