@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 35awards.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512071030id_/http%3A//35awards.com/page/private_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 35awards.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115045102id_/http%3A//35awards.com/page/private_privacy) for the most accurate reproduction.*
 
 # 国际摄影大赛2016年 - 100年度最佳照片
 
