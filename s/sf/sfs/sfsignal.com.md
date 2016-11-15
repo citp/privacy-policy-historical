@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sfsignal.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608003037id_/http%3A//www.sfsignal.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfsignal.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115141847id_/http%3A//www.sfsignal.com/about-us/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - SF Signal
+# Privacy Policy | SF Signal
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at sfmgmt (at) sfsignal.com.
 
