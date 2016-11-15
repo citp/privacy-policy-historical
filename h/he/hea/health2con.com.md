@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the health2con.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616034318id_/http%3A//www.health2con.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health2con.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115231812id_/http%3A//www.health2con.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Health 2.0
 
