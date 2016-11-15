@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genesis-mining.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513101906id_/https%3A//www.genesis-mining.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genesis-mining.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115150321id_/https%3A//www.genesis-mining.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Genesis Mining
 
@@ -76,8 +76,8 @@ You will, at any time have the right to access your Personal Information used by
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-Genesis Mining Ltd. 3rd Floor, Par La Ville Place  
-14 Par-la-Ville Road  
-Hamilton HM 08  
-Bermuda  
+Genesis Mining Ltd.  
+Chinachem Century Tower, 31/F,  
+178 Gloucester Road, Wanchai  
+Hong Kong  
 Email: [contact@genesis-mining.com](mailto:contact@genesis-mining.com)
