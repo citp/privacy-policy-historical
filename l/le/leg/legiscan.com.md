@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legiscan.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406023658id_/https%3A//legiscan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legiscan.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115151634id_/https%3A//legiscan.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LegiScan
 
