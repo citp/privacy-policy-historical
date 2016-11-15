@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meijer.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616111827id_/http%3A//www.meijer.com/Privacy___Security.cms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meijer.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115041317id_/https%3A//www.meijer.com/Privacy___Security.cms) for the most accurate reproduction.*
 
 # Privacy & Security | Meijer.com
 
