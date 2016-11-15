@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breakfastdailynews.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416110408id_/http%3A//breakfastdailynews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakfastdailynews.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115201950id_/http%3A//breakfastdailynews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Breakfast Daily News
 
