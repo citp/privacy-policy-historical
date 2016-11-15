@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssa.gov privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407071728id_/https%3A//www.ssa.gov/agency/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssa.gov privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115150125id_/https%3A//www.ssa.gov/agency/privacy.html) for the most accurate reproduction.*
 
 # Social Security's Internet Privacy Policy
 
@@ -70,7 +70,7 @@ In order to optimize your experience and provide statistically accurate data abo
 
 **9.   How to opt-out of the web measurement and/or customization technology**
 
-You can remove or block the use of web measurement and customization technologies by changing the setting of your browser to block cookies as described at <http://www.usa.gov/optout_instructions.shtml>.  
+You can remove or block the use of web measurement and customization technologies by changing the setting of your browser to block cookies as described at <http://www.usa.gov/optout_instructions.shtml>.   
 
 
 **10.   Statement that opting-out still permits users to access comparable information or services **
