@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trainingvideoswebinars.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327142656id_/http%3A//trainingvideoswebinars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainingvideoswebinars.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115130120id_/http%3A//trainingvideoswebinars.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
