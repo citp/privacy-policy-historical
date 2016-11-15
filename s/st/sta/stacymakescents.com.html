@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the stacymakescents.com privacy policy that was archived on 2016-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160621040456id_/http%3A//www.stacymakescents.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stacymakescents.com privacy policy that was archived on 2016-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161115144546id_/http%3A//www.humoroushomemaking.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><head>
 <meta charset="UTF-8">
 <title>Privacy Policy - Humorous Homemaking</title><meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- This site is optimized with the Yoast SEO plugin v3.3.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v3.8 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://www.humoroushomemaking.com/privacy-policy">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -17,11 +17,13 @@
 <meta property="fb:admins" content="1419070989">
 <!-- / Yoast SEO plugin. -->
 
+<link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="Humorous Homemaking » Feed" href="http://www.humoroushomemaking.com/feed">
 <link rel="alternate" type="application/rss+xml" title="Humorous Homemaking » Comments Feed" href="http://www.humoroushomemaking.com/comments/feed">
 <link rel="alternate" type="application/rss+xml" title="Humorous Homemaking » Privacy Policy Comments Feed" href="http://www.humoroushomemaking.com/privacy-policy/feed">
-		<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" type="text/javascript" src="http://ads.adthrive.com/sites/54f78c042f2f24f124881a7c/ads.min.js"></script><script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/www.humoroushomemaking.com\/wp-includes\/js\/wp-emoji.js?ver=30ac2e137e163f78a045a1a9734c8e4b","twemoji":"http:\/\/www.humoroushomemaking.com\/wp-includes\/js\/twemoji.js?ver=30ac2e137e163f78a045a1a9734c8e4b"}};
+		<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" type="text/javascript" src="http://ads.adthrive.com/sites/54f78c042f2f24f124881a7c/ads.min.js"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/www.humoroushomemaking.com\/wp-includes\/js\/wp-emoji.js?ver=d7f5409f837502d75e7c6f52ca8e443f","twemoji":"http:\/\/www.humoroushomemaking.com\/wp-includes\/js\/twemoji.js?ver=d7f5409f837502d75e7c6f52ca8e443f"}};
 			( function( window, document, settings ) {
 	var src, ready, ii, tests;
 
@@ -38,7 +40,7 @@
 		var canvas = document.createElement( 'canvas' ),
 			context = canvas.getContext && canvas.getContext( '2d' ),
 			stringFromCharCode = String.fromCharCode,
-			tonedata, tone, tone2;
+			flag, flag2, tonedata, tone, tone2;
 
 		if ( ! context || ! context.fillText ) {
 			return false;
@@ -64,7 +66,29 @@
 				 * to a larger image (4-5KB data URL).
 				 */
 				context.fillText( stringFromCharCode( 55356, 56806, 55356, 56826 ), 0, 0 );
-				return canvas.toDataURL().length > 3000;
+				if ( canvas.toDataURL().length < 3000 ) {
+					return false;
+				}
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				/*
+				 * Test for rainbow flag compatibility. As the rainbow flag was added out of sequence with
+				 * the usual Unicode release cycle, some browsers support it, and some don't, even if their
+				 * Unicode support is up to date.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (white flag emoji + rainbow emoji).
+				 */
+				context.fillText( stringFromCharCode( 55356, 57331, 65039, 8205, 55356, 57096 ), 0, 0 );
+				flag = canvas.toDataURL();
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				context.fillText( stringFromCharCode( 55356, 57331, 55356, 57096 ), 0, 0 );
+				flag2 = canvas.toDataURL();
+
+				return flag !== flag2;
 			case 'diversity':
 				/*
 				 * This tests if the browser supports the Emoji Diversity specification, by rendering an
@@ -97,6 +121,13 @@
 				 */
 				context.fillText( stringFromCharCode( 55356, 57135 ), 0, 0 );
 				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+			case 'unicode9':
+				/*
+				 * Do Unicode 9 emoji render?
+				 * ¯\_(ツ)_/¯
+				 */
+				context.fillText( stringFromCharCode( 55358, 56631 ), 0, 0 );
+				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
 		}
 
 		return false;
@@ -110,7 +141,7 @@
 		document.getElementsByTagName( 'head' )[0].appendChild( script );
 	}
 
-	tests = Array( 'simple', 'flag', 'unicode8', 'diversity' );
+	tests = Array( 'simple', 'flag', 'unicode8', 'diversity', 'unicode9' );
 
 	settings.supports = {
 		everything: true,
@@ -162,7 +193,7 @@
 	}
 
 } )( window, document, window._wpemojiSettings );
-		</script><script src="http://www.humoroushomemaking.com/wp-includes/js/twemoji.js?ver=30ac2e137e163f78a045a1a9734c8e4b" type="text/javascript"></script><script src="http://www.humoroushomemaking.com/wp-includes/js/wp-emoji.js?ver=30ac2e137e163f78a045a1a9734c8e4b" type="text/javascript"></script>
+		</script><script src="http://www.humoroushomemaking.com/wp-includes/js/twemoji.js?ver=d7f5409f837502d75e7c6f52ca8e443f" type="text/javascript"></script><script src="http://www.humoroushomemaking.com/wp-includes/js/wp-emoji.js?ver=d7f5409f837502d75e7c6f52ca8e443f" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -179,28 +210,32 @@ img.emoji {
 </style>
 <link rel="stylesheet" id="your-debt-free-family-css" href="http://www.humoroushomemaking.com/wp-content/themes/humorous-homemaking/style.css?ver=1.0" type="text/css" media="all">
 <link rel="stylesheet" id="frizzly-styles-css" href="http://www.humoroushomemaking.com/wp-content/plugins/frizzly//assets/css/styles.css?ver=0.34" type="text/css" media="all">
-<link rel="stylesheet" id="dashicons-css" href="http://www.humoroushomemaking.com/wp-includes/css/dashicons.css?ver=30ac2e137e163f78a045a1a9734c8e4b" type="text/css" media="all">
-<link rel="stylesheet" id="wordpress-popular-posts-css" href="http://www.humoroushomemaking.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=3.3.3" type="text/css" media="all">
-<link rel="stylesheet" id="ulp-css" href="http://www.humoroushomemaking.com/wp-content/plugins/layered-popups/css/style.min.css?ver=5.8" type="text/css" media="all">
-<link rel="stylesheet" id="ulp-link-buttons-css" href="http://www.humoroushomemaking.com/wp-content/plugins/layered-popups/css/link-buttons.min.css?ver=5.8" type="text/css" media="all">
-<link rel="stylesheet" id="perfect-scrollbar-css" href="http://www.humoroushomemaking.com/wp-content/plugins/layered-popups/css/perfect-scrollbar-0.4.6.min.css?ver=5.8" type="text/css" media="all">
-<link rel="stylesheet" id="animate.css-css" href="http://www.humoroushomemaking.com/wp-content/plugins/layered-popups/css/animate.min.css?ver=5.8" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-layout-css" href="//www.humoroushomemaking.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.6.8" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-smallscreen-css" href="//www.humoroushomemaking.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.6.8" type="text/css" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="woocommerce-general-css" href="//www.humoroushomemaking.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.6.8" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="http://www.humoroushomemaking.com/wp-includes/css/dashicons.css?ver=d7f5409f837502d75e7c6f52ca8e443f" type="text/css" media="all">
+<link rel="stylesheet" id="wordpress-popular-posts-css" href="http://www.humoroushomemaking.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=3.3.4" type="text/css" media="all">
+<link rel="stylesheet" id="ulp-css" href="http://www.humoroushomemaking.com/wp-content/plugins/layered-popups/css/style.min.css?ver=5.93" type="text/css" media="all">
+<link rel="stylesheet" id="ulp-link-buttons-css" href="http://www.humoroushomemaking.com/wp-content/plugins/layered-popups/css/link-buttons.min.css?ver=5.93" type="text/css" media="all">
+<link rel="stylesheet" id="animate.css-css" href="http://www.humoroushomemaking.com/wp-content/plugins/layered-popups/css/animate.min.css?ver=5.93" type="text/css" media="all">
 <script type="text/javascript" src="http://www.humoroushomemaking.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="http://www.humoroushomemaking.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.1"></script>
-<script type="text/javascript" src="http://www.humoroushomemaking.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=4.0.6"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var FrizzlySettings = {"modules":{"main":{"moduleHoverActive":1,"moduleShortcodeActive":1,"moduleLightboxActive":"0","activeModules":["main","buttonSettings","hover","shortcode","advanced"]},"buttonSettings":{"generalUseFullImages":1,"pinterestImageDescription":["altAttribute","postTitle","titleAttribute","mediaLibraryDescription","mediaLibraryCaption"],"twitterHandle":"@humorhomemaking","generalDownloadImageDescription":"0"},"hover":{"imageSelector":".frizzly-hover-container img","minImageHeight":"126","minImageWidth":"281","hoverPanelPosition":"top-left","buttonSet":"default","theme":"default48","orientation":"horizontal","showOnHome":1,"showOnSingle":1,"showOnPage":1,"showOnBlog":1,"showOnLightbox":1},"lightbox":{"descriptionSource":["titleAttribute","altAttribute"]},"shortcode":{"beforeContentShortcodeId":"47412","afterContentShortcodeId":"47412","beforeContent":"0","afterContent":"0"},"advanced":null},"buttonSets":[],"themes":[]};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://www.humoroushomemaking.com/wp-content/plugins/frizzly//assets/js/frizzly.min.js?ver=0.34"></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://www.humoroushomemaking.com/wp-content/themes/genesis/lib/js/html5shiv.js?ver=3.7.3'></script>
+<![endif]-->
 <script type="text/javascript" src="http://www.humoroushomemaking.com/wp-content/themes/humorous-homemaking/js/responsive-menu.js?ver=1.0.0"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var ajax_script = {"ajaxurl":"http:\/\/www.humoroushomemaking.com\/wp-admin\/admin-ajax.php","aal_plugin_url":"http:\/\/www.humoroushomemaking.com\/wp-content\/plugins\/wp-auto-affiliate-links\/"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.humoroushomemaking.com/wp-content/plugins/wp-auto-affiliate-links/js/js.js?ver=30ac2e137e163f78a045a1a9734c8e4b"></script>
+<script type="text/javascript" src="http://www.humoroushomemaking.com/wp-content/plugins/wp-auto-affiliate-links/js/js.js?ver=d7f5409f837502d75e7c6f52ca8e443f"></script>
 <link rel="https://api.w.org/" href="http://www.humoroushomemaking.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.humoroushomemaking.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.humoroushomemaking.com/wp-includes/wlwmanifest.xml"> 
@@ -252,10 +287,10 @@ window.adthrive.cmd = window.adthrive.cmd || [];
 	for (var i = 0; i < evts.length; i++) {
 		addEvent(evts[i], logHuman);
 	}
-})('//www.humoroushomemaking.com/?wordfence_logHuman=1&hid=51C9831EB0D925E3A280EF743A8F009B');
+})('//www.humoroushomemaking.com/?wordfence_logHuman=1&hid=B46A0ED1FA5EB0AB1FF8E70F06D41C92');
 </script><link type="text/css" rel="stylesheet" href="http://www.humoroushomemaking.com/wp-content/plugins/wordpress-print-this-section/css/printthis.css">
 <!-- Print This Plugin Was Here! -->
-<link rel="Shortcut Icon" href="http://www.humoroushomemaking.com/wp-content/themes/humorous-homemaking/images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://www.humoroushomemaking.com/wp-content/themes/humorous-homemaking/images/favicon.ico">
 <!--Google Analytics start-->
 <script type="text/javascript">
   var _gaq = _gaq || [];
@@ -269,9 +304,34 @@ window.adthrive.cmd = window.adthrive.cmd || [];
 </script>
 <!-- end google analytics -->
 
-<!-- Pinterest Analytics start --><meta name="p:domain_verify" content="5178c7960c7ec42634e7c4426f58b1ef"><!-- Pinterest Analytics end --><!--[if lt IE 9]><script src="http://www.humoroushomemaking.com/wp-content/themes/genesis/lib/js/html5shiv.js"></script><![endif]-->
-				<!-- WordPress Popular Posts v3.3.3 -->
-				<script type="text/javascript">//<![CDATA[
+<!-- Pinterest Analytics start --><meta name="p:domain_verify" content="5178c7960c7ec42634e7c4426f58b1ef"><!-- Pinterest Analytics end -->
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '316870445366703', {
+em: 'insert_email_variable,'
+});
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=316870445366703&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code --><script>
+  adthrive.cmd.push(function() {
+    jQuery(function() {
+      if (jQuery('body').hasClass('woocommerce')) {
+        adthrive.disableAds();
+      }
+    });
+  });
+</script>				<!-- WordPress Popular Posts v3.3.4 -->
+				<script type="text/javascript">
 
 					var sampling_active = 0;
 					var sampling_rate   = 100;
@@ -286,17 +346,17 @@ window.adthrive.cmd = window.adthrive.cmd || [];
 
 					if ( do_request ) {
 
-						// Create XMLHttpRequest object and set variables
+						/* Create XMLHttpRequest object and set variables */
 						var xhr = ( window.XMLHttpRequest )
 						  ? new XMLHttpRequest()
 						  : new ActiveXObject( "Microsoft.XMLHTTP" ),
 						url = 'http://www.humoroushomemaking.com/wp-admin/admin-ajax.php',
-						params = 'action=update_views_ajax&token=0add05e2ce&wpp_id=34297';
-						// Set request method and target URL
+						params = 'action=update_views_ajax&token=57230dd342&wpp_id=34297';
+						/* Set request method and target URL */
 						xhr.open( "POST", url, true );
-						// Set request header
+						/* Set request header */
 						xhr.setRequestHeader( "Content-type", "application/x-www-form-urlencoded" );
-						// Hook into onreadystatechange
+						/* Hook into onreadystatechange */
 						xhr.onreadystatechange = function() {
 							if ( 4 === xhr.readyState && 200 === xhr.status ) {
 								if ( window.console && window.console.log ) {
@@ -304,13 +364,13 @@ window.adthrive.cmd = window.adthrive.cmd || [];
 								}
 							}
 						};
-						// Send request
+						/* Send request */
 						xhr.send( params );
 
 					}
 
-				//]]></script>
-				<!-- End WordPress Popular Posts v3.3.3 -->
+				</script>
+				<!-- End WordPress Popular Posts v3.3.4 -->
 				<style type="text/css">.broken_link, a.broken_link {
 	text-decoration: line-through;
 }</style><style>#ulp-5YFrRcT4tnAxruz9 .ulp-submit,#ulp-5YFrRcT4tnAxruz9 .ulp-submit:visited{border-radius: 2px !important; background: #31a2ac;border:1px solid #31a2ac;}#ulp-5YFrRcT4tnAxruz9 .ulp-submit:hover,#ulp-5YFrRcT4tnAxruz9 .ulp-submit:active{border-radius: 2px !important; background: #2b8e97;border:1px solid #2b8e97;background: #27878e;}#ulp-5YFrRcT4tnAxruz9, #ulp-5YFrRcT4tnAxruz9 .ulp-content{width:700px;height:400px;}#ulp-5YFrRcT4tnAxruz9 .ulp-input,#ulp-5YFrRcT4tnAxruz9 .ulp-input:hover,#ulp-5YFrRcT4tnAxruz9 .ulp-input:active,#ulp-5YFrRcT4tnAxruz9 .ulp-input:focus,#ulp-5YFrRcT4tnAxruz9 .ulp-checkbox{border-width: 1px !important; border-radius: 2px !important; border-color:#ffffff;background-color:#ffffff !important;background-color:rgba(255,255,255,1) !important;}#ulp-5YFrRcT4tnAxruz9-overlay{background:rgba(119,119,119,0.8);}#ulp-layer-245{width:660px;height:400px;}#ulp-layer-245{background-color:#ffffff;background-color:rgba(255,255,255,1);background-image:url(http://www.humoroushomemaking.com/wp-content/plugins/layered-popups/images/default/graybg03.png);background-repeat:repeat;background-size:auto;border-radius:0px;z-index:1000003;text-align:left;padding:0px 0px;box-shadow: rgba(32,32,32,1) 0 4px 20px; border-radius: 3px;;}#ulp-layer-246{width:660px;height:400px;}#ulp-layer-246{border-radius:0px;z-index:1000004;text-align:left;padding:0px 0px;box-shadow: rgba(32,32,32,0.1) 0 0 90px inset; border-radius: 3px;;}#ulp-layer-251{width:700px;}#ulp-layer-251,#ulp-layer-251 * {text-align:left;font-weight:400;color:#000000;font-size:14px;}#ulp-layer-251 .ulp-checkbox label:after{background:#000000}#ulp-layer-251{border-radius:0px;z-index:1000005;text-align:left;padding:0px 0px;;}#ulp-layer-247{width:660px;}#ulp-layer-247,#ulp-layer-247 * {text-align:right;font-family:'arial',arial;font-weight:800;color:#af1c1c;font-size:24px;}#ulp-layer-247 .ulp-checkbox label:after{background:#af1c1c}#ulp-layer-247{border-radius:0px;z-index:1000006;text-align:right;padding:0px 0px;letter-spacing: -1px; font-style: italic;;}#ulp-layer-248{width:360px;height:212px;}#ulp-layer-248,#ulp-layer-248 * {text-align:justify;font-family:'arial',arial;font-weight:400;color:#2f2f28;font-size:18px;}#ulp-layer-248 .ulp-checkbox label:after{background:#2f2f28}#ulp-layer-248{border-radius:0px;z-index:1000007;text-align:justify;padding:0px 0px;line-height: 1.2; font-style: italic;;}#ulp-layer-250{width:285px;height:230px;}#ulp-layer-250,#ulp-layer-250 * {text-align:center;text-shadow: #000000 1px 1px 1px;font-family:'arial',arial;font-weight:700;color:#ffffff;font-size:25px;}#ulp-layer-250 .ulp-checkbox label:after{background:#ffffff}#ulp-layer-250{border-radius:0px;z-index:1000008;text-align:center;padding:0px 0px;;}#ulp-layer-254{width:600px;}#ulp-layer-254,#ulp-layer-254 * {text-align:center;font-family:'arial',arial;font-weight:400;color:#333333;font-size:13px;}#ulp-layer-254 .ulp-checkbox label:after{background:#333333}#ulp-layer-254{border-radius:0px;z-index:1000009;text-align:center;padding:0px 0px;;}#ulp-layer-255{width:40px;height:20px;}#ulp-layer-255,#ulp-layer-255 * {text-align:right;text-shadow: #000000 1px 1px 1px;font-family:'arial',arial;font-weight:400;color:#ffffff;font-size:24px;}#ulp-layer-255 .ulp-checkbox label:after{background:#ffffff}#ulp-layer-255{border-radius:0px;z-index:1000010;text-align:right;padding:0px 0px;;}#ulp-layer-252{width:370px;height:34px;}#ulp-layer-252,#ulp-layer-252 * {text-align:left;text-shadow: #ffffff 1px 1px 1px;font-family:'arial',arial;font-weight:400;color:#000000;font-size:14px;}#ulp-layer-252 .ulp-checkbox label:after{background:#000000}#ulp-layer-252{border-radius:0px;z-index:1000011;text-align:left;padding:0px 0px;;}#ulp-layer-253{width:200px;height:38px;}#ulp-layer-253,#ulp-layer-253 * {text-align:center;text-shadow: #000000 1px 1px 1px;font-family:'arial',arial;font-weight:700;color:#ffffff;font-size:15px;}#ulp-layer-253 .ulp-checkbox label:after{background:#ffffff}#ulp-layer-253{border-radius:0px;z-index:1000012;text-align:center;padding:0px 0px;;}#ulp-dbb2jEpcU4r2t2ne .ulp-submit,#ulp-dbb2jEpcU4r2t2ne .ulp-submit:visited{border-radius: 2px !important; background: #31a2ac;border:1px solid #31a2ac;}#ulp-dbb2jEpcU4r2t2ne .ulp-submit:hover,#ulp-dbb2jEpcU4r2t2ne .ulp-submit:active{border-radius: 2px !important; background: #2b8e97;border:1px solid #2b8e97;color: #27878e;}#ulp-dbb2jEpcU4r2t2ne, #ulp-dbb2jEpcU4r2t2ne .ulp-content{width:700px;height:400px;}#ulp-dbb2jEpcU4r2t2ne .ulp-input,#ulp-dbb2jEpcU4r2t2ne .ulp-input:hover,#ulp-dbb2jEpcU4r2t2ne .ulp-input:active,#ulp-dbb2jEpcU4r2t2ne .ulp-input:focus,#ulp-dbb2jEpcU4r2t2ne .ulp-checkbox{border-width: 1px !important; border-radius: 2px !important; border-color:#ffffff;background-color:#ffffff !important;background-color:rgba(255,255,255,1) !important;}#ulp-dbb2jEpcU4r2t2ne-overlay{background:rgba(119,119,119,0.8);}#ulp-layer-371{width:660px;height:400px;}#ulp-layer-371{background-color:#ffffff;background-color:rgba(255,255,255,1);background-image:url(http://www.humoroushomemaking.com/wp-content/plugins/layered-popups/images/default/graybg03.png);background-repeat:repeat;background-size:auto;border-radius:0px;z-index:1000003;text-align:left;padding:0px 0px;box-shadow: rgba(32,32,32,1) 0 4px 20px; border-radius: 3px;;}#ulp-layer-372{width:660px;height:400px;}#ulp-layer-372{border-radius:0px;z-index:1000004;text-align:left;padding:0px 0px;box-shadow: rgba(32,32,32,0.1) 0 0 90px inset; border-radius: 3px;;}#ulp-layer-373{width:355px;height:51px;}#ulp-layer-373,#ulp-layer-373 * {text-align:center;font-family:'arial',arial;font-weight:800;color:#af1c1c;font-size:28px;}#ulp-layer-373 .ulp-checkbox label:after{background:#af1c1c}#ulp-layer-373{border-radius:0px;z-index:1000005;text-align:center;padding:0px 0px;letter-spacing: -1px; font-style: italic;;}#ulp-layer-374{width:360px;height:212px;}#ulp-layer-374,#ulp-layer-374 * {text-align:justify;font-family:'arial',arial;font-weight:400;color:#2f2f28;font-size:18px;}#ulp-layer-374 .ulp-checkbox label:after{background:#2f2f28}#ulp-layer-374{border-radius:0px;z-index:1000006;text-align:justify;padding:0px 0px;line-height: 1.2; font-style: italic;;}#ulp-layer-375{width:285px;height:230px;}#ulp-layer-375,#ulp-layer-375 * {text-align:center;text-shadow: #000000 1px 1px 1px;font-family:'arial',arial;font-weight:700;color:#ffffff;font-size:25px;}#ulp-layer-375 .ulp-checkbox label:after{background:#ffffff}#ulp-layer-375{border-radius:0px;z-index:1000007;text-align:center;padding:0px 0px;;}#ulp-layer-380{width:40px;height:20px;}#ulp-layer-380,#ulp-layer-380 * {text-align:right;text-shadow: #000000 1px 1px 1px;font-family:'arial',arial;font-weight:400;color:#ffffff;font-size:24px;}#ulp-layer-380 .ulp-checkbox label:after{background:#ffffff}#ulp-layer-380{border-radius:0px;z-index:1000008;text-align:right;padding:0px 0px;;}#ulp-layer-381{width:90px;height:12px;}#ulp-layer-381,#ulp-layer-381 * {text-align:left;font-family:'arial',arial;font-weight:400;color:#000000;font-size:14px;}#ulp-layer-381 .ulp-checkbox label:after{background:#000000}#ulp-layer-381{border-radius:0px;z-index:1000009;text-align:left;padding:0px 0px;;}#ulp-layer-382{width:365px;height:52px;}#ulp-layer-382,#ulp-layer-382 * {text-align:justify;font-family:'arial',arial;font-weight:400;color:#2f2f28;font-size:18px;}#ulp-layer-382 .ulp-checkbox label:after{background:#2f2f28}#ulp-layer-382{border-radius:0px;z-index:1000010;text-align:justify;padding:0px 0px;line-height: 1.2; font-style: italic;;}</style>
@@ -333,6 +393,9 @@ window.adthrive.cmd = window.adthrive.cmd || [];
 			var ulp_onidle_period = "5";
 			var ulp_onidle_popup = "";
 			var ulp_onidle_delay = "30";
+			var ulp_onabd_mode = "none";
+			var ulp_onabd_period = "5";
+			var ulp_onabd_popup = "";
 		</script></head>
 <body class="page page-id-34297 page-template-default header-full-width content-sidebar" itemscope="" itemtype="http://schema.org/WebPage"><div class="site-container"><div id="before-header-mobile"><div class="wrap"><aside class="widget-area"></aside></div></div><div class="utility-bar"><div class="wrap"></div></div><header class="site-header" itemscope="" itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"><p class="site-title" itemprop="headline"><a href="http://www.humoroushomemaking.com/">Humorous Homemaking</a></p><p class="site-description" itemprop="description">Because managing a home shouldn't be dull.</p></div></div></header><nav class="nav-primary" itemscope="" itemtype="http://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-main-nav" class="menu genesis-nav-menu menu-primary"><li id="menu-item-49659" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49659"><a href="http://www.humoroushomemaking.com/" itemprop="url"><span itemprop="name">Home</span></a></li>
 <li id="menu-item-49661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49661"><a href="http://www.humoroushomemaking.com/about" itemprop="url"><span itemprop="name">About</span></a></li>
@@ -340,7 +403,15 @@ window.adthrive.cmd = window.adthrive.cmd || [];
 <li id="menu-item-49664" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49664"><a href="http://www.humoroushomemaking.com/services" itemprop="url"><span itemprop="name">Services</span></a></li>
 <li id="menu-item-49663" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49663"><a href="http://www.humoroushomemaking.com/resources" itemprop="url"><span itemprop="name">Resources</span></a></li>
 <li id="menu-item-49662" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49662"><a href="http://www.humoroushomemaking.com/contact" itemprop="url"><span itemprop="name">Contact</span></a></li>
-<li id="menu-item-49660" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49660"><a href="http://www.humoroushomemaking.com/books" itemprop="url"><span itemprop="name">Books</span></a></li>
+<li id="menu-item-52735" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-52735"><a href="http://www.humoroushomemaking.com/shop" itemprop="url"><span itemprop="name">Shop</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-52761" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52761"><a href="http://www.humoroushomemaking.com/shop" itemprop="url"><span itemprop="name">Shop Now</span></a></li>
+	<li id="menu-item-52734" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52734"><a href="http://www.humoroushomemaking.com/cart" itemprop="url"><span itemprop="name">Cart</span></a></li>
+	<li id="menu-item-52737" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52737"><a href="http://www.humoroushomemaking.com/checkout" itemprop="url"><span itemprop="name">Checkout</span></a></li>
+	<li id="menu-item-52760" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52760"><a href="http://www.humoroushomemaking.com/return-policy" itemprop="url"><span itemprop="name">Return Policy</span></a></li>
+	<li id="menu-item-52736" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52736"><a href="http://www.humoroushomemaking.com/my-account" itemprop="url"><span itemprop="name">My Account</span></a></li>
+</ul>
+</li>
 <li class="right search"><form class="search-form" itemprop="potentialAction" itemscope="" itemtype="http://schema.org/SearchAction" method="get" action="http://www.humoroushomemaking.com/" role="search"><meta itemprop="target" content="http://www.humoroushomemaking.com/?s={s}"><input itemprop="query-input" type="search" name="s" placeholder="Search this website …"><input type="submit" value="Search"></form></li></ul></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content"><article class="post-34297 page type-page status-publish entry" itemscope="" itemtype="http://schema.org/CreativeWork"><header class="entry-header"></header><div class="entry-content" itemprop="text"><input type="hidden" value="" data-frizzlypostcontainer="" data-frizzlyposturl="http://www.humoroushomemaking.com/privacy-policy" data-frizzlyposttitle="Privacy Policy" data-frizzlyhovercontainer=""><h3>Summary</h3>
 <p>You’re here because you chose to be here. &nbsp;I didn’t pay you to show up and I’m not sharing your detailed personal information with BIG BROTHER…or anyone else for that matter. &nbsp;While you’re here you can expect to be relatively safe, unless you read something I wrote that offends you. &nbsp;If that happens…oh well. &nbsp;It is MY blog and everyone in the world isn’t going to agree with me. &nbsp;However, because the government requires me to disclose lots of silly things because some not-so-nice people tried to do some devious things with your information, I have to tell you about how your privacy matters to me and how it is affected by you visiting Humorous Homemaking. &nbsp;So…since no one ever posts any of their personal information on Facebook, Instagram, Twitter, Tumblr, SMS, Vine, MySpace, LinkedIn, YouTube or any of those other places we like to hang out, here’s to keeping your privacy…well…private. &nbsp;And heck, I even made it sound nice and formal.</p>
 <h3>Privacy</h3>
@@ -365,27 +436,27 @@ window.adthrive.cmd = window.adthrive.cmd || [];
 			<div class="textwidget"><div align="center"><a href="http://www.plantoeat.com/ref/vqdiculfr3" target="_blank"><img src="http://s3.amazonaws.com/pte/a/simple-meal-planning-300250.gif"></a></div></div>
 		</div></section>
 
-<!-- WordPress Popular Posts Plugin v3.3.3 [W] [all] [views] [regular] -->
+<!-- WordPress Popular Posts Plugin v3.3.4 [W] [all] [views] [regular] -->
 <section id="wpp-2" class="widget popular-posts"><div class="widget-wrap">
 <h4 class="widget-title widgettitle">Most Popular Content</h4>
 
 <ul class="wpp-list">
 <li><a href="http://www.humoroushomemaking.com/100-days-of-no-processed-meals-crock-pot-style" title="100 Days of NO Processed Meals – Crock Pot Style" class="wpp-post-title" target="_self">100 Days of NO Processed Meals – Crock Pot Style</a> </li>
 <li><a href="http://www.humoroushomemaking.com/homemade-ant-bait" title="Best Homemade Natural Ant Killer" class="wpp-post-title" target="_self">Best Homemade Natural Ant Killer</a> </li>
+<li><a href="http://www.humoroushomemaking.com/fix-and-forget-friday-crock-pot-chicken-fajitas" title="Crock Pot Chicken Fajitas" class="wpp-post-title" target="_self">Crock Pot Chicken Fajitas</a> </li>
 <li><a href="http://www.humoroushomemaking.com/crock-pot-pork-chops-and-potatoes-from-get-crocking" title="Crock Pot Pork Chops and Potatoes from Get Crocking" class="wpp-post-title" target="_self">Crock Pot Pork Chops and Potatoes from Get Crocking</a> </li>
 <li><a href="http://www.humoroushomemaking.com/yeast-bread-4-kitchen-aid-mixer-bread" title="Kitchen Aid Mixer Bread" class="wpp-post-title" target="_self">Kitchen Aid Mixer Bread</a> </li>
-<li><a href="http://www.humoroushomemaking.com/fix-and-forget-friday-crock-pot-chicken-fajitas" title="Crock Pot Chicken Fajitas" class="wpp-post-title" target="_self">Crock Pot Chicken Fajitas</a> </li>
 <li><a href="http://www.humoroushomemaking.com/100-days-of-meal-plans-whole-foods-style-for-free" title="100 Days of Meal Plans – Whole Foods Style (for FREE)" class="wpp-post-title" target="_self">100 Days of Meal Plans – Whole Foods Style (for FREE)</a> </li>
-<li><a href="http://www.humoroushomemaking.com/crock-pot-freezer-cooking-tutorial-6-meals-1-hour" title="Crock Pot Freezer Cooking Tutorial: 6 Meals in 1 Hour" class="wpp-post-title" target="_self">Crock Pot Freezer Cooking Tutorial: 6 Meals in 1 Hour</a> </li>
 <li><a href="http://www.humoroushomemaking.com/mamas-crock-pot-cube-steak" title="MaMa’s Crock Pot Cube Steak" class="wpp-post-title" target="_self">MaMa’s Crock Pot Cube Steak</a> </li>
+<li><a href="http://www.humoroushomemaking.com/crock-pot-freezer-cooking-tutorial-6-meals-1-hour" title="Crock Pot Freezer Cooking Tutorial: 6 Meals in 1 Hour" class="wpp-post-title" target="_self">Crock Pot Freezer Cooking Tutorial: 6 Meals in 1 Hour</a> </li>
 <li><a href="http://www.humoroushomemaking.com/converting-crock-pot-recipes-to-the-stove-top-and-oven" title="Converting Crock Pot Recipes to the Stove-Top and Oven" class="wpp-post-title" target="_self">Converting Crock Pot Recipes to the Stove-Top and Oven</a> </li>
 <li><a href="http://www.humoroushomemaking.com/crock-pot-barbecue-beef-brisket" title="Crock Pot Barbecue Beef Brisket" class="wpp-post-title" target="_self">Crock Pot Barbecue Beef Brisket</a> </li>
 
 </ul>
 </div></section>
 
-<!-- End WordPress Popular Posts Plugin v3.3.3 -->
-</aside></div></div><div id="before-footer"><div class="wrap"><aside class="widget-area"><section id="text-7" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget">It's only too late to sign up if you're dead...and you're obviously not dead.
+<!-- End WordPress Popular Posts Plugin v3.3.4 -->
+</aside></div></div><div id="before-footer"><div class="wrap"><aside class="widget-area"><section id="text-7" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget">It's only too late to get our emails if you're dead...and you're obviously not dead.
 <div align="center">
 <form action="https://madmimi.com/signups/subscribe/181666" method="post" id="mad_mimi_signup_form" target="_blank"> 
 <input id="signup_email" name="signup[email]" type="text" placeholder="you@example.com" data-invalid-message="This field is invalid" class="required"> 
@@ -475,14 +546,19 @@ window.adthrive.cmd = window.adthrive.cmd || [];
 </script></div>
 		</div></section>
 </aside></div></div><div class="footer-widgets"><div class="wrap"><div class="footer-widgets-1 widget-area"><section id="text-8" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Let’s Get Social</h4>
-			<div class="textwidget"><div align="center"><a href="http://www.facebook.com/humoroushomemaking" target="_blank"><img src="http://www.humoroushomemaking.com/wp-content/themes/humorous-homemaking/images/fb.png"></a>&nbsp;&nbsp;<a href="http://www.instagram.com/humoroushomemaking" target="_blank"><img src="http://www.humoroushomemaking.com/wp-content/themes/humorous-homemaking/images/instagram.png"></a>&nbsp;&nbsp;<a href="http://www.periscope.tv/humorhomemaking" target="_blank"><img src="http://www.humoroushomemaking.com/wp-content/themes/humorous-homemaking/images/periscope.png"></a></div></div>
+			<div class="textwidget"><div align="center"><a href="http://www.facebook.com/humoroushomemaking" target="_blank"><img src="http://www.humoroushomemaking.com/wp-content/themes/humorous-homemaking/images/fb.png"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/humoroushomemaking/" target="_blank"><img src="http://www.humoroushomemaking.com/wp-content/themes/humorous-homemaking/images/instagram.png"></a>&nbsp;&nbsp;<a href="http://www.periscope.tv/humorhomemaking" target="_blank"><img src="http://www.humoroushomemaking.com/wp-content/themes/humorous-homemaking/images/periscope.png"></a></div></div>
 		</div></section>
 </div><div class="footer-widgets-2 widget-area"><section id="archives-4" class="widget widget_archive"><div class="widget-wrap"><h4 class="widget-title widgettitle">Archives by Date</h4>
 		<label class="screen-reader-text" for="archives-dropdown-4">Archives by Date</label>
 		<select id="archives-dropdown-4" name="archive-dropdown" onchange="document.location.href=this.options[this.selectedIndex].value;">
 			
 			<option value="">Select Month</option>
-				<option value="http://www.humoroushomemaking.com/2016/06"> June 2016 </option>
+				<option value="http://www.humoroushomemaking.com/2016/11"> November 2016 </option>
+	<option value="http://www.humoroushomemaking.com/2016/10"> October 2016 </option>
+	<option value="http://www.humoroushomemaking.com/2016/09"> September 2016 </option>
+	<option value="http://www.humoroushomemaking.com/2016/08"> August 2016 </option>
+	<option value="http://www.humoroushomemaking.com/2016/07"> July 2016 </option>
+	<option value="http://www.humoroushomemaking.com/2016/06"> June 2016 </option>
 	<option value="http://www.humoroushomemaking.com/2016/05"> May 2016 </option>
 	<option value="http://www.humoroushomemaking.com/2016/04"> April 2016 </option>
 	<option value="http://www.humoroushomemaking.com/2016/03"> March 2016 </option>
@@ -557,12 +633,32 @@ window.adthrive.cmd = window.adthrive.cmd || [];
 			<div class="textwidget"><div style="background: #31a2ac; color: #fff;"><p align="center">
 <img style="margin-top: -20px;" src="http://www.humoroushomemaking.com/wp-content/themes/humorous-homemaking/images/footer-about-headshot-round.png"><br>I'm here to remind you that managing a home shouldn't be dull. <a href="http://www.humoroushomemaking.com/about"><span style="color: #fff;"><strong>{Read More...}</strong></span></a></p></div></div>
 		</div></section>
-</div></div></div><footer class="site-footer" itemscope="" itemtype="http://schema.org/WPFooter"><div class="wrap"><div class="creds"><p>Copyright © 2016 · Humorous Homemaking · Built on the <a href="http://www.shareasale.com/r.cfm?b=241369&amp;u=529527&amp;m=28169&amp;urllink=&amp;afftrack=%22" title="Genesis Framework">Genesis Framework</a><br><a href="/disclosure-policy">Disclosure Policy</a> · <a href="/privacy-policy">Privacy Policy</a></p></div><p></p></div></footer></div><script type="text/javascript" src="//s.skimresources.com/js/45790X1168080.skimlinks.js"></script><link rel="stylesheet" id="aal_style-css" href="http://www.humoroushomemaking.com/wp-content/plugins/wp-auto-affiliate-links/css/style.css?ver=30ac2e137e163f78a045a1a9734c8e4b" type="text/css" media="all">
-<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201625"></script>
-<script type="text/javascript" src="http://www.humoroushomemaking.com/wp-includes/js/comment-reply.js?ver=30ac2e137e163f78a045a1a9734c8e4b"></script>
-<script type="text/javascript" src="http://www.humoroushomemaking.com/wp-content/plugins/layered-popups/js/script.min.js?ver=5.8"></script>
-<script type="text/javascript" src="http://www.humoroushomemaking.com/wp-content/plugins/layered-popups/js/perfect-scrollbar-0.4.6.with-mousewheel.min.js?ver=5.8"></script>
-<script type="text/javascript" src="http://www.humoroushomemaking.com/wp-includes/js/wp-embed.js?ver=30ac2e137e163f78a045a1a9734c8e4b"></script>
+</div></div></div><footer class="site-footer" itemscope="" itemtype="http://schema.org/WPFooter"><div class="wrap"><div class="creds"><p>Copyright © 2016 · Humorous Homemaking LLC · Built on the <a href="http://www.shareasale.com/r.cfm?b=241369&amp;u=529527&amp;m=28169&amp;urllink=&amp;afftrack=%22" title="Genesis Framework">Genesis Framework</a><br><a href="/disclosure-policy">Disclosure Policy</a> · <a href="/privacy-policy">Privacy Policy</a></p></div><p></p></div></footer></div><link rel="stylesheet" id="aal_style-css" href="http://www.humoroushomemaking.com/wp-content/plugins/wp-auto-affiliate-links/css/style.css?ver=d7f5409f837502d75e7c6f52ca8e443f" type="text/css" media="all">
+<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201646"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy-policy?wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"http:\/\/www.humoroushomemaking.com\/cart","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.humoroushomemaking.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.js?ver=2.6.8"></script>
+<script type="text/javascript" src="//www.humoroushomemaking.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.js?ver=2.70"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy-policy?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.humoroushomemaking.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.js?ver=2.6.8"></script>
+<script type="text/javascript" src="//www.humoroushomemaking.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.js?ver=1.4.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy-policy?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.humoroushomemaking.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.js?ver=2.6.8"></script>
+<script type="text/javascript" src="http://www.humoroushomemaking.com/wp-includes/js/comment-reply.js?ver=d7f5409f837502d75e7c6f52ca8e443f"></script>
+<script type="text/javascript" src="http://www.humoroushomemaking.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.0.4"></script>
+<script type="text/javascript" src="http://www.humoroushomemaking.com/wp-content/plugins/layered-popups/js/script.min.js?ver=5.93"></script>
+<script type="text/javascript" src="http://www.humoroushomemaking.com/wp-includes/js/wp-embed.js?ver=d7f5409f837502d75e7c6f52ca8e443f"></script>
 
 				<div class="ulp-overlay" id="ulp-5YFrRcT4tnAxruz9-overlay"></div>
 				<div class="ulp-window ulp-window-middle-center" id="ulp-5YFrRcT4tnAxruz9" data-title="Sitewide: Laundry Monster Lead Magnet" data-width="700" data-height="400" data-position="middle-center" data-close="on" data-enter="on">
@@ -608,5 +704,4 @@ Thanks again and ENJOY!</div>
 				jQuery(document).ready(function(){ulp_prepare_ids(); ulp_inline_open(false); ulp_init(); ulp_ready();});
 			}
 		</script>
-
 </body></html>
