@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biola.edu privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622185603id_/http%3A//www.biola.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biola.edu privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115230318id_/https%3A//www.biola.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Biola University
 
