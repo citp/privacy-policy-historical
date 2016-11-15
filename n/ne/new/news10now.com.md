@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news10now.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629154720id_/http%3A//www.twcnews.com/nys/central-ny/about-us/2015/01/21/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news10now.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115063526id_/http%3A//www.twcnews.com/nys/central-ny/about-us/2015/01/21/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
