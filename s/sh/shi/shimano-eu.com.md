@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shimano-eu.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526212855id_/http%3A//shimano-eu.com/content/Corporate/english/index/portal-site/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shimano-eu.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115090619id_/http%3A//www.shimano-eu.com/content/Corporate/english/index/portal-site/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy and Cookies
 
@@ -117,7 +117,7 @@ Please refer to contact information of Shimano and the respective Group Companie
 
 This Privacy Policy was last updated on 19 June 2012. “Policy for protection of personal information” and “Handling of customer information”, which was posted on the Japanese website of Shimano, was abolished as of 19 June 2012.
 
-* The Sites include but are not limited to and may be updated without notice http://www.shimano.com http://www.shimano.com.au, http://www.shimano-china.com, http://cycle.shimano-eu.com, http://www.shimano-benelux.com, http://www.shimano-nordic.com, http://www.shimano-france.com, http://cycle.shimano.co.jp, http://bike.shimano.com, http://www.coasting.com, http://pro-bikegear.com, http://www.shimano-eyewear.com, http://www.shimano-cyclingwear.com, http://techdocs.shimano.com, http://www.shimanofish.com.au, http://fish.shimano-eu.com, http://shimanofireblood.com, http://shimanocarpexpert.com, http://fishing.shimano.co.jp, http://lafish.shimano.com, http://boat.shimano.com, and   
+* The Sites include but are not limited to and may be updated without notice http://www.shimano.com http://www.shimano.com.au, http://www.shimano-china.com, http://cycle.shimano-eu.com, http://www.shimano-benelux.com, http://www.shimano-nordic.com, http://www.shimano-france.com, http://cycle.shimano.co.jp, http://bike.shimano.com, http://www.coasting.com, http://pro-bikegear.com, http://www.shimano-eyewear.com, http://www.shimano-cyclingwear.com, http://techdocs.shimano.com, http://www.shimanofish.com.au, http://fish.shimano-eu.com, http://shimanofireblood.com, http://shimanocarpexpert.com, http://fishing.shimano.co.jp, http://boat.shimano.com, and   
 http://aifie.net
 
 ***
