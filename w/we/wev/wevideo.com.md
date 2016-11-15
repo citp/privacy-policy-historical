@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the wevideo.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513192510id_/https%3A//www.wevideo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wevideo.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115054935id_/https%3A//www.wevideo.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | WeVideo
+# WeVideo | Privacy Policy
 
-_Last Modified: March 5, 2014_
+For WeVideo for Education Privacy Policy, please [click here](https://web.archive.org/edu-privacy)
+
+_Last Modified: August 9, 2016_
 
 Your privacy is very important to us.  This Privacy Policy explains how WeVideo, Inc., (“ _ **we**_ ” or “ _ **WeVideo**_ ”) use protect, and disclose the information we collect when you use the WeVideo services (the “ ** _Services_** ”) through our website [www.wevideo.com](http://www.wevideo.com/) (“ _ **Site**_ ”), applications on Devices (“ _ **Apps**_ ”), through APIs, and through third parties.  A “ ** _Device_** ” is any computer used to access the Services, including without limitation a desktop, laptop, smartphone, tablet, or other consumer electronic device.
 
