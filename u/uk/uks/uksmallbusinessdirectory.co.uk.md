@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the uksmallbusinessdirectory.co.uk privacy policy that was archived on 2015-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151030125616id_/http%3A//www.uksmallbusinessdirectory.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uksmallbusinessdirectory.co.uk privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115205501id_/https%3A//www.uksmallbusinessdirectory.co.uk/privacy) for the most accurate reproduction.*
 
-# UK Small Business Directory - privacy policy
+# UK Small Business Directory Privacy Policy
 
-## Privacy policy
+  
+
+
+## UK Small Business Directory Privacy Policy
 
 This website contains 3rd party Advertising provided by Google Inc.
 
@@ -207,12 +210,12 @@ We may occasionaly pass on your company and personal information to third partie
 
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 
 
-Access Appraisals Ltd.  
-The White Cottage  
-Stourton  
-Shipston-on-Stour  
-Warwickshire  
-CV365HG
+6 Granby Road   
+Honington   
+Shipston-on-Stour   
+Warwickshire   
+CV36 5AB   
+
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
@@ -225,14 +228,50 @@ The UK Small Business Directory is a division of Access Appraisals Ltd. a compan
 
 Our registered address is;
 
-Kenton House  
-Oxford Street  
-Moreton-in-Marsh  
-Gloucestershire  
-GL56 0LA
+6 Granby Road   
+Honington   
+Shipston-on-Stour   
+Warwickshire   
+CV36 5AB   
+
 
 and our business address is;
 
-[Contact](http://www.uksmallbusinessdirectory.co.uk/contact.asp) : [Premier](http://www.uksmallbusinessdirectory.co.uk/premier.htm) : [How To](http://www.uksmallbusinessdirectory.co.uk/how-to/) : [IT Services](http://www.uksmallbusinessdirectory.co.uk/it.htm) : [Business Services](http://www.uksmallbusinessdirectory.co.uk/business-services.htm) : [Business Insurance](http://www.uksmallbusinessdirectory.co.uk/insurance/) : [Search Engine Optimisation](http://www.uksmallbusinessdirectory.co.uk/search-engine-optimisation.htm) : [Online Marketing](http://www.uksmallbusinessdirectory.co.uk/online-marketing.htm) : [Website Design](http://www.uksmallbusinessdirectory.co.uk/website-design.htm) : [Free Online Advertising](http://www.uksmallbusinessdirectory.co.uk/advertising.html) : [Business Mobiles](http://www.uksmallbusinessdirectory.co.uk/Uksbdphones/business-mobile-phones.html) : [Full Listings](http://www.uksmallbusinessdirectory.co.uk/full_list.asp) : [Help](http://www.uksmallbusinessdirectory.co.uk/help.html)
+If you believe that any information we are holding on you is incorrect or incomplete, please contact us as soon as possible, and we will endevour to correct any information found to be incorrect. 
 
-© 2015 UKSBD - UK Small Business Directory - The Online Business Directory and Business Listings Website 
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you*. 
+
+Any editing or updating of information related to directory listings is free of charge within the first 7 days of date of approval. 
+
+Any editing or updating of information related to directory listings is free of charge after the first 7 days of date of approval at our discretion. 
+
+Approving the display of your telephone number is free of charge when using the form on the following page: [Approve Display of Phone Number](http://www.uksmallbusinessdirectory.co.uk/login-phone.asp). 
+
+Any editing or updating of information related to directory listings after 7 days of date of approval carries an admin charge of £30.00 
+
+Directory listing deletions are free of charge at all times. 
+
+*To process a subject access request under the Data Protection Act, we will require: 
+
+1\. A cheque for £10 made out to Access Appraisals Ltd. 
+
+2\. Proof of the your identity. 
+
+This must be 1 of; 
+
+Passport  
+Photo driving license  
+National identity card  
+Birth certificate 
+
+and also 1 of; 
+
+Utility bill showing current home address  
+Bank statement  
+Building society statement/book 
+
+Please do not send original documents. 
+
+We may also need to contact you for clarification of the information you are requesting, and to agree how to send your personal data to you. 
+
+After we have received your request, the fee and proof or your identity, the process to provide you with information can take up to 40 days. 
