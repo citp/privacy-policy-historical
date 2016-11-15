@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zentut.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313123552id_/http%3A//www.zentut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zentut.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115162344id_/http%3A//www.zentut.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
