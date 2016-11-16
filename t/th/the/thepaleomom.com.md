@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thepaleomom.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328223627id_/http%3A//www.thepaleomom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepaleomom.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116012654id_/http%3A//www.thepaleomom.com/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy Policy
+# Privacy Policy - The Paleo Mom
 
 ### ThePaleoMom.com  
 ThePaleoMomConsulting.com
