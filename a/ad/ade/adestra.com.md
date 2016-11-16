@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adestra.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417031414id_/http%3A//www.adestra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adestra.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116193136id_/http%3A//www.adestra.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Adestra
 
