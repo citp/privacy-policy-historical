@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the drinkhint.com privacy policy that was archived on 2016-04-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160411164114id_/https%3A//www.drinkhint.com/privacy-policy-terms-of-use) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the drinkhint.com privacy policy that was archived on 2016-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161116021659id_/https%3A//www.drinkhint.com/privacy-policy-terms-of-use) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:ng="http://angularjs.org" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://ogp.me/ns#"><head>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -12,16 +12,19 @@
 		<meta name="fragment" content="!">
 		<link rel="shortcut icon" type="image/png" href="https://d20b8ckvu6gb0w.cloudfront.net/drinkhint/images/favicon.png">
 
-<link rel="stylesheet" type="text/css" href="//d3t9cosyzvu4nc.cloudfront.net/prod/bundle/18.11.1/css/drinkhint/v3/default.css">
+		
+<link rel="stylesheet" type="text/css" href="//d3t9cosyzvu4nc.cloudfront.net/prod/bundle/20.3/css/drinkhint/v3/default.css">
 	<link rel="stylesheet" type="text/css" href="https://d20b8ckvu6gb0w.cloudfront.net/drinkhint/styles/static.base.less">
 	<link rel="stylesheet" type="text/css" href="https://d20b8ckvu6gb0w.cloudfront.net/drinkhint/styles/global.overrides.css">
 
-<script type="text/javascript" async="" src="https://cdn.siftscience.com/s.js"></script><script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/s2d6475ue6/analytics.min.js"></script><script async="" src="https://hashtagartcdn.s3.amazonaws.com/scripts/prod/v3/amp_api_v3.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TNRWBQ"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="https://cdn.siftscience.com/s.js"></script><script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/s2d6475ue6/analytics.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TNRWBQ"></script><script type="text/javascript">
 !function(){"use strict";var e=[],t=document.createElement("script"),n=document.head||document.getElementsByTagName("head")[0],o="async"in t,c=!!t.readyState,a="ontouchstart"in window||navigator.msMaxTouchPoints,i=function(){for(;e[0]&&("function"==typeof e[0]||e[0].async||"loaded"==e[0].readyState||"complete"==e[0].readyState);){var t=e.shift();"function"==typeof t?t():(t.onreadystatechange=null,n.insertBefore(t,n.firstChild))}},r=function(t,r){var d=function(){if(o){var a=document.createElement("script");a.async=r,a.src=t,a.addEventListener("load",s.bind(void 0,a)),n.appendChild(a),e.push(a)}else if(c){var a=document.createElement("script");a.async=r,e.push(a),a.onreadystatechange=i,a.src=t}else document.write('<script src="'+t+'" defer><'+'/script>')};a&&document.documentMode&&document.documentMode>9?setTimeout(d,0):d()},s=function(t){for(var n=0,o=e.length;o>n;++n)t===e[n]&&e.splice(n,1)},d=function(t,n){e.length||t();var a=0,i=function(){--a,s(this),0===a&&t()};if(o)for(var r=0,d=e.length;d>r;++r){var u=e[r];u.async||(++a,u.addEventListener("load",i))}else c&&e.push(t)},u=function(e,t){"function"==typeof e&&d(e),"string"==typeof e&&r(e,t)},f=function(e,t){"function"==typeof e&&u(e),"string"==typeof e&&(e=e.split(","));for(var n=0;n<e.length;++n)u(e[n],!!t)};window.Loader=f}();
 </script>
 <script type="text/javascript">
-var Symphony = (function() {
+window.Symphony = (function() {
     var syAsyncInit = [];
+    var externalNgModulesToAdd = [];
+    var lazyLoadReady = false;
 
     function run(fn) {
         try {
@@ -47,40 +50,53 @@ var Symphony = (function() {
         });
     }
 
+    function setLazyLoadReady() {
+        lazyLoadReady = true;
+        var toAddModulesNumber = externalNgModulesToAdd.length;
+        if (toAddModulesNumber) {
+            for (var i = 0; i < toAddModulesNumber; ++i) {
+                externalNgModulesToAdd[i] && externalNgModulesToAdd[i]();
+            }
+            window.triggerLazyLoad();
+        }
+    }
+
+    function isLazyLoadReady() { return lazyLoadReady; }
+
+    function addNgModule(cb) {
+        if (lazyLoadReady) {
+            cb();
+            window.triggerLazyLoad();
+        } else {
+            externalNgModulesToAdd.push(cb);
+        }
+    }
+
     return {
         bundlesReady: bundlesReady,
         flushBundlesReady: flushBundlesReady,
         apiReady: apiReady,
-    }
+        addNgModule: addNgModule,
+        setLazyLoadReady: setLazyLoadReady,
+        isLazyLoadReady: isLazyLoadReady
+    };
 })();
 </script><!--[if lt IE 9]>
 <script type='text/javascript'>
-Loader("//d3t9cosyzvu4nc.cloudfront.net/prod/bundle/18.11.1/js/html5shiv.js", !true);
+Loader("//d3t9cosyzvu4nc.cloudfront.net/prod/bundle/20.3/js/html5shiv.js", !true);
 </script><![endif]-->
 
 
 
 
-				<style type="text/css">
-.ng-cloak,[ng-cloak],[ng\:cloak],.ng-hide {
-display: none!important
-}
-</style>
-<link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet" type="text/css">
+				<link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet" type="text/css">
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript" charset="utf-8"></script>
-<script src="//d20b8ckvu6gb0w.cloudfront.net/symphony-cs-apps/lib/syU/syU.js"></script>
-<script src="//cdn.optimizely.com/js/1804261045.js"></script>
-
-<link rel="stylesheet" type="text/css" href="https://d20b8ckvu6gb0w.cloudfront.net/drinkhint/styles/2.18/global.overrides.css.gz">
-<link id="css-overrides" rel="stylesheet" type="text/css" href="//d20b8ckvu6gb0w.cloudfront.net/drinkhint/styles/dist/master.drinkhint.min.css.gz?v=2016040484632" );="">
-
-<script type="text/javascript">
-Symphony.bundlesReady(function() {
-Loader("//d20b8ckvu6gb0w.cloudfront.net/drinkhint/styles/dist/master.drinkhint.min.js.gz?v=2016040484632");
-});
-</script>
 
 <meta name="google-site-verification" content="G3BM-kIGuOjqLdsKKys9I0gyNaE8CQmXYHSfS11UESQ">
+<meta name="google-site-verification" content="xyaz6u-aNdJq72cZq8QtX16HnGPO_Y9GxnC6yexw96Y">
+<meta property="fb:app_id" content="1409898365939343">
+<meta name="msvalidate.01" content="E860DDBAD9CD4E4F56EE3D75EED66FE2">
+
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -88,34 +104,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-TNRWBQ');</script>
 <!-- End Google Tag Manager -->
-<!-- Google Analytics Tracking Code-->
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-2388646-9', 'auto');
-ga('send', 'pageview');
-</script>
-<!-- End Google Analytics Tracking Code-->
-<meta name="google-site-verification" content="xyaz6u-aNdJq72cZq8QtX16HnGPO_Y9GxnC6yexw96Y">
-<meta name="msvalidate.01" content="E860DDBAD9CD4E4F56EE3D75EED66FE2">
-<script type="text/javascript" src="//use.typekit.net/jhw0suk.js"></script>
-<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-<script type="text/javascript" src="//use.typekit.net/jhw0suk.js"></script>
+
+<!--BRAND ENTRY: DO NOT EDIT-->
 <script type="text/javascript">
-window.ampAsyncInit = function()
-{
-AMP.init(
-{ client_id: 'Hint54e1aedacff42511', dynamic_load: 'HintWebsite_53ed0a54d9b36' }
-);
-};
-(function()
-{ var e = document.createElement('script'); e.async = true; e.src = document.location.protocol + '//hashtagartcdn.s3.amazonaws.com/scripts/prod/v3/amp_api_v3.min.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(e, s); }
-());
-</script>
-<script type="text/javascript" src="https://d20b8ckvu6gb0w.cloudfront.net/drinkhint/styles/1.34/drinkhint.redesign-redo.js.gz"></script>
-<script src="//sneakpeeq-sites.s3.amazonaws.com/drinkhint/scripts/kissmetrics.js"></script>
+Symphony.bundleVersion = "1.0.182";
+!function(){function e(e){var t="; "+document.cookie,n=t.split("; "+e+"=");if(2==n.length)return n.pop().split(";").shift()}function t(e,t,n){var r=new Date;r.setDate(r.getDate()+n);var t=escape(t)+(null==n?"":"; expires="+r.toUTCString());document.cookie=e+"="+t}function n(e,t){t||(t=location.href),e=e.replace(/[\[]/,"\\[").replace(/[\]]/,"\\]");var n="[\\?&]"+e+"=([^&#]*)",r=new RegExp(n),s=r.exec(t);return null==s?null:s[1]}var r="https://symphony-micromanage.herokuapp.com",s=e("pageVersion"),i=e("microManage"),a=n("pageVersion"),c=a||s||"master",o="master"!==c,p="//d20b8ckvu6gb0w.cloudfront.net/drinkhint/styles/dist/master.drinkhint.min.css.gz?v="+Symphony.bundleVersion,l="//d20b8ckvu6gb0w.cloudfront.net/drinkhint/styles/dist/master.drinkhint.min.js.gz?v="+Symphony.bundleVersion;o&&(l=l.replace("master",c).replace("dist","build").replace("d20b8ckvu6gb0w.cloudfront.net/","s3.amazonaws.com/sneakpeeq-sites/"),p=p.replace("master",c).replace("dist","build").replace("d20b8ckvu6gb0w.cloudfront.net/","s3.amazonaws.com/sneakpeeq-sites/")),a&&t("pageVersion",a,7),(o||i)&&document.write('<script type="text/javascript" src="'+r+'/partner/dist/main.js"></'+"script>"),document.write('<link rel="stylesheet" type="text/css" href="'+p+'">'),document.write('<script type="text/javascript" src="'+l+'"></'+"script>")}();
+</script><link rel="stylesheet" type="text/css" href="//d20b8ckvu6gb0w.cloudfront.net/drinkhint/styles/dist/master.drinkhint.min.css.gz?v=1.0.182"><script type="text/javascript" src="//d20b8ckvu6gb0w.cloudfront.net/drinkhint/styles/dist/master.drinkhint.min.js.gz?v=1.0.182"></script>
+<!--BRAND ENTRY: DO NOT EDIT-->
+
+<script src="https://cdn.optimizely.com/js/6654701179.js"></script>
+
+<!-- Start of drinkhint Zendesk Widget script -->
+<!-- <script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(e){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("https://assets.zendesk.com/embeddable_framework/main.js","drinkhint.zendesk.com");
+/*]]>*/</script> -->
+<!-- End of drinkhint Zendesk Widget script -->
 
 			<script type="text/javascript">
 				var analytics = analytics||[];analytics.load=function(e){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src=("https:"===document.location.protocol?"https://":"http://")+"d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/"+e+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n);var r=function(e){return function(){analytics.push([e].concat(Array.prototype.slice.call(arguments,0)))}},i=["identify","track","trackLink","trackForm","trackClick","trackSubmit","pageview","ab","alias","ready"];for(var s=0;s<i.length;s++)analytics[i[s]]=r(i[s])};
@@ -123,6 +125,10 @@ AMP.init(
 			</script>
 		
 		<script type="text/javascript">
+			window.SITE_DATA = {
+				currencyCode: 'USD'
+			};
+
 			var currentUser = {
 				'email':'',
 				'name':' ',
@@ -168,7 +174,7 @@ AMP.init(
 				</script>
 
 
-	<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="//stats.g.doubleclick.net/dc.js"></script><script src="//d3t9cosyzvu4nc.cloudfront.net/prod/bundle/18.11.1/js/sites.js"></script></head>
+	<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//www.klaviyo.com/media/js/public/klaviyo_subscribe.js"></script><script src="//d3t9cosyzvu4nc.cloudfront.net/prod/bundle/20.3/js/sites.js"></script></head>
 
 	<body ng-controller="AppCtrl">
 
@@ -193,9 +199,8 @@ AMP.init(
 						</div>
 					</div>
 						<div class="text-center login-external">
-							<a ng-click="loginFB()" href="" class="btn btn-fb btn-large btn-block"><img src="/static/images/sites/facebook-f.png">log in with <strong>facebook</strong></a>
+							<a ng-click="loginFB()" href="" class="btn btn-fb btn-large btn-block"><span class="fb-icon"></span>log in with <strong>facebook</strong></a>
 						</div>
-	
 						<div class="or-split">
 							<div class="horizontal-line"></div>
 							<div class="or">
@@ -204,7 +209,7 @@ AMP.init(
 						</div>
 					<div>
 						<form method="POST" autocomplete="on" autofill-form="" name="signin">
-							<input type="email" class="input-block-level" name="email" ng-model="loginInput.email" required="" placeholder="example@mail.com" autocomplete="email" autofill="" autofocus="">
+							<input type="text" class="input-block-level" name="email" ng-model="loginInput.email" required="" placeholder="example@mail.com" autocomplete="email" autofill="" autofocus="">
 							<sp-password password="loginInput.password" hide-password="hidePassword"></sp-password>
 							<button sp-wait-btn="" submit-form="loginEmail" class="btn btn-large btn-block">Secure Sign In ►</button>
 						</form>
@@ -220,7 +225,7 @@ AMP.init(
 				<div class="modal-body-content">
 					<div class="alert alert-error" ng-bind="formError" ng-show="formError"></div>
 						<div class="text-center login-external">
-							<a ng-click="registerFB()" href="" class="btn btn-fb btn-large btn-block"><img src="/static/images/sites/facebook-f.png">Signup with <strong>Facebook</strong></a>
+							<a ng-click="registerFB()" href="" class="btn btn-fb btn-large btn-block"><span class="fb-icon"></span>Signup with <strong>Facebook</strong></a>
 						</div>
 						<div class="or-split">
 							<div class="horizontal-line"></div>
@@ -255,7 +260,7 @@ AMP.init(
 					<div class="alert alert-error forgotpass-error" ng-show="formError">
 						[[formError]]
 						<div class="text-center login-external" ng-show="forgotPassFBError">
-							<a ng-click="loginFB()" href="" class="btn btn-fb btn-large btn-block"><img src="/static/images/sites/facebook-f.png">log in with <strong>Facebook</strong></a>
+							<a ng-click="loginFB()" href="" class="btn btn-fb btn-large btn-block"><span class="fb-icon"></span>log in with <strong>Facebook</strong></a>
 						</div>
 					</div>
 					<form name="forgot" autocomplete="on" autofill-form="">
@@ -316,15 +321,20 @@ AMP.init(
 	</div>
 
 	<div class="invisible hidden-phone">
-		<div class="verify-banner cartHide" ng-show="currentUser.id &amp;&amp; !currentUser.verified &amp;&amp; !resendVerificationClicked" verify-account="" ng-cloak="">
-			<p>Verify account to track orders. <a ng-click="verifyAccount()" class="visible-phone">Resend email</a><a ng-click="verifyAccount()" class="hidden-phone">Resend verification email</a></p>
-		</div>					<div class="promo-banner cartHide">
+		<div class="login-as-banner" login-as-header="" ng-show="isAdmin()" ng-cloak="">
+			<div class="login-as-container">
+				<p>You are logged in as <strong ng-bind="getEmail()"></strong></p>
+				<a href="#logoutModal" ng-click="logout()" data-toggle="modal">Log out</a>
+			</div>
+		</div>				<div class="verify-banner cartHide" ng-show="currentUser.id &amp;&amp; !currentUser.verified &amp;&amp; !resendVerificationClicked" verify-account="" ng-cloak="">
+					<p>Verify account to track orders. <a ng-click="verifyAccount()" class="visible-phone">Resend email</a><a ng-click="verifyAccount()" class="hidden-phone">Resend verification email</a></p>
+				</div>							<div class="promo-banner cartHide">
 
 
 			<div data-id="714">
-				Celebrate International Health Day with hint® water! Receive a FREE pair of hint® tongs on all orders $30+. Ends 4/10/16 or while supplies last!
+				<span><a href="/flavors-of-fall-bundle">Flavors Of Fall Bundle 10% off and FREE Shipping ends 11/30/16. some exclusions apply.</a></span>
 			</div>
-							</div>
+									</div>
 	</div>
 	<article class="header-section" unique-page-style="">
 		<div class="hidden-phone header-primary">
@@ -347,7 +357,7 @@ AMP.init(
 					</li>
 					
 					<li class="dropdown account hidden-phone ng-cloak" ng-show="currentUser.id" sp-dropdown-tablet="" ng-click="toggleDropdownMenu()" aria-haspopup="true">
-						<img src="/static/images/sites/page.wholesale.star.png" ng-show="currentUser.wholesaleCustomer || currentUser.wholesaleApplicationInProcess"><span class="account-wholesale" ng-show="currentUser.wholesaleCustomer || currentUser.wholesaleApplicationInProcess"> Wholesaler / </span>
+						<span class="account-wholesale" ng-show="currentUser.wholesaleCustomer || currentUser.wholesaleApplicationInProcess"> Wholesaler / </span>
 						<span class="account-wholesale" ng-show="currentUser.wholesaleCustomer"> [[currentUser.purchasingChannel.name | lowercase]] / </span>
 						<span class="account-wholesale" ng-show="currentUser.wholesaleApplicationInProcess"> wholesale (pending) / </span>
 						<span class="account-name" ng-cloak="" ng-bind="currentUser.firstName || currentUser.email"></span> <span class="arrow">▼</span>
@@ -382,26 +392,36 @@ AMP.init(
 					<div>
 						<header class="navbar navbar-static-top affix-top" id="stickyHeader" data-spy="affix" sp-cart-class="cartHide">
 							<div class="hidden-phone top-hanging">
-		<div class="verify-banner cartHide" ng-show="currentUser.id &amp;&amp; !currentUser.verified &amp;&amp; !resendVerificationClicked" verify-account="" ng-cloak="">
-			<p>Verify account to track orders. <a ng-click="verifyAccount()" class="visible-phone">Resend email</a><a ng-click="verifyAccount()" class="hidden-phone">Resend verification email</a></p>
-		</div>					<div class="promo-banner cartHide">
+		<div class="login-as-banner" login-as-header="" ng-show="isAdmin()" ng-cloak="">
+			<div class="login-as-container">
+				<p>You are logged in as <strong ng-bind="getEmail()"></strong></p>
+				<a href="#logoutModal" ng-click="logout()" data-toggle="modal">Log out</a>
+			</div>
+		</div>				<div class="verify-banner cartHide" ng-show="currentUser.id &amp;&amp; !currentUser.verified &amp;&amp; !resendVerificationClicked" verify-account="" ng-cloak="">
+					<p>Verify account to track orders. <a ng-click="verifyAccount()" class="visible-phone">Resend email</a><a ng-click="verifyAccount()" class="hidden-phone">Resend verification email</a></p>
+				</div>							<div class="promo-banner cartHide">
 
 
 			<div data-id="714">
-				Celebrate International Health Day with hint® water! Receive a FREE pair of hint® tongs on all orders $30+. Ends 4/10/16 or while supplies last!
+				<span><a href="/flavors-of-fall-bundle">Flavors Of Fall Bundle 10% off and FREE Shipping ends 11/30/16. some exclusions apply.</a></span>
 			</div>
-							</div>
+									</div>
 							</div>
 							<div class="invisible">
-		<div class="verify-banner cartHide" ng-show="currentUser.id &amp;&amp; !currentUser.verified &amp;&amp; !resendVerificationClicked" verify-account="" ng-cloak="">
-			<p>Verify account to track orders. <a ng-click="verifyAccount()" class="visible-phone">Resend email</a><a ng-click="verifyAccount()" class="hidden-phone">Resend verification email</a></p>
-		</div>					<div class="promo-banner cartHide">
+		<div class="login-as-banner" login-as-header="" ng-show="isAdmin()" ng-cloak="">
+			<div class="login-as-container">
+				<p>You are logged in as <strong ng-bind="getEmail()"></strong></p>
+				<a href="#logoutModal" ng-click="logout()" data-toggle="modal">Log out</a>
+			</div>
+		</div>				<div class="verify-banner cartHide" ng-show="currentUser.id &amp;&amp; !currentUser.verified &amp;&amp; !resendVerificationClicked" verify-account="" ng-cloak="">
+					<p>Verify account to track orders. <a ng-click="verifyAccount()" class="visible-phone">Resend email</a><a ng-click="verifyAccount()" class="hidden-phone">Resend verification email</a></p>
+				</div>							<div class="promo-banner cartHide">
 
 
 			<div data-id="714">
-				Celebrate International Health Day with hint® water! Receive a FREE pair of hint® tongs on all orders $30+. Ends 4/10/16 or while supplies last!
+				<span><a href="/flavors-of-fall-bundle">Flavors Of Fall Bundle 10% off and FREE Shipping ends 11/30/16. some exclusions apply.</a></span>
 			</div>
-							</div>
+									</div>
 							</div>
 							<sp-search-expander>
 								<div class="container header-mobile">
@@ -427,26 +447,26 @@ AMP.init(
 										</a>
 									</div>
 									<div class="navbar-mobile sub-hanging visible-phone">
-		<div class="verify-banner cartHide" ng-show="currentUser.id &amp;&amp; !currentUser.verified &amp;&amp; !resendVerificationClicked" verify-account="" ng-cloak="">
-			<p>Verify account to track orders. <a ng-click="verifyAccount()" class="visible-phone">Resend email</a><a ng-click="verifyAccount()" class="hidden-phone">Resend verification email</a></p>
-		</div>					<div class="promo-banner cartHide">
+				<div class="verify-banner cartHide" ng-show="currentUser.id &amp;&amp; !currentUser.verified &amp;&amp; !resendVerificationClicked" verify-account="" ng-cloak="">
+					<p>Verify account to track orders. <a ng-click="verifyAccount()" class="visible-phone">Resend email</a><a ng-click="verifyAccount()" class="hidden-phone">Resend verification email</a></p>
+				</div>							<div class="promo-banner cartHide">
 
 
 			<div data-id="714">
-				Celebrate International Health Day with hint® water! Receive a FREE pair of hint® tongs on all orders $30+. Ends 4/10/16 or while supplies last!
+				<span><a href="/flavors-of-fall-bundle">Flavors Of Fall Bundle 10% off and FREE Shipping ends 11/30/16. some exclusions apply.</a></span>
 			</div>
-							</div>
+									</div>
 									</div>
 									<div class="invisible visible-phone">
-		<div class="verify-banner cartHide" ng-show="currentUser.id &amp;&amp; !currentUser.verified &amp;&amp; !resendVerificationClicked" verify-account="" ng-cloak="">
-			<p>Verify account to track orders. <a ng-click="verifyAccount()" class="visible-phone">Resend email</a><a ng-click="verifyAccount()" class="hidden-phone">Resend verification email</a></p>
-		</div>					<div class="promo-banner cartHide">
+				<div class="verify-banner cartHide" ng-show="currentUser.id &amp;&amp; !currentUser.verified &amp;&amp; !resendVerificationClicked" verify-account="" ng-cloak="">
+					<p>Verify account to track orders. <a ng-click="verifyAccount()" class="visible-phone">Resend email</a><a ng-click="verifyAccount()" class="hidden-phone">Resend verification email</a></p>
+				</div>							<div class="promo-banner cartHide">
 
 
 			<div data-id="714">
-				Celebrate International Health Day with hint® water! Receive a FREE pair of hint® tongs on all orders $30+. Ends 4/10/16 or while supplies last!
+				<span><a href="/flavors-of-fall-bundle">Flavors Of Fall Bundle 10% off and FREE Shipping ends 11/30/16. some exclusions apply.</a></span>
 			</div>
-							</div>
+									</div>
 									</div>
 					
 										<a href="/" class="header-brand-name visible-phone logo">
@@ -466,15 +486,18 @@ AMP.init(
 			<li class="hidden-phone togglemenu-across">
 				<a href="/buy-now" aria-haspopup="true">shop now</a>
 			</li>
+			<li class="hidden-phone togglemenu-across">
+				<a href="/subscribe-to-hint-water" aria-haspopup="true">Subscribe to Hint®</a>
+			</li>
 
 					<li class="navigation-item nav-node-external-url panel-heading">
 						<a href="https://drinkhint.zendesk.com/hc/en-us/categories/200137764-FAQ">FAQ</a>
 					</li>					<li class="navigation-item nav-node-external-url panel-heading">
-						<a href="https://www.drinkhint.com/health/">Explore</a>
+						<a href="https://blog.drinkhint.com/">Blog</a>
 					</li>					<li class="navigation-item nav-node-external-url panel-heading">
-						<a href="https://www.drinkhint.com/health/our-story/">Our Story</a>
-					</li>					<li class="navigation-item nav-node-static-page panel-heading">
-						<a href="/hintreviews">Reviews</a>
+						<a href="http://blog.drinkhint.com/best-bottled-water-fruit-infused-delivery-our-story-hint/">Our Story</a>
+					</li>					<li class="navigation-item nav-node-external-url panel-heading">
+						<a href="#">refer a friend, get $5</a>
 					</li>
 				<div class="visible-phone ng-cloak acct-menu" sp-user-show="">
 					<div class="panel-heading">
@@ -533,6 +556,20 @@ AMP.init(
 						</div>
 					</div>
 				</div>
+				<div class="panel-heading">
+					<h4 class="panel-title">
+
+							<a href="/subscribe-to-hint-water">Subscribe to Hint®</a>
+					</h4>
+				</div>
+				<div id="store-4218" class="panel-collapse collapse out">
+					<div class="panel-body">
+						<div class="panel-group nesting-level-two" id="nested-menu-container-two">
+							<div class="panel panel-default">
+							</div>
+						</div>
+					</div>
+				</div>
 		</div>
 	</div></div>
 
@@ -542,7 +579,7 @@ AMP.init(
 					</li>
 					
 					<li class="dropdown account hidden-phone ng-cloak" ng-show="currentUser.id" sp-dropdown-tablet="" ng-click="toggleDropdownMenu()" aria-haspopup="true">
-						<img src="/static/images/sites/page.wholesale.star.png" ng-show="currentUser.wholesaleCustomer || currentUser.wholesaleApplicationInProcess"><span class="account-wholesale" ng-show="currentUser.wholesaleCustomer || currentUser.wholesaleApplicationInProcess"> Wholesaler / </span>
+						<span class="account-wholesale" ng-show="currentUser.wholesaleCustomer || currentUser.wholesaleApplicationInProcess"> Wholesaler / </span>
 						<span class="account-wholesale" ng-show="currentUser.wholesaleCustomer"> [[currentUser.purchasingChannel.name | lowercase]] / </span>
 						<span class="account-wholesale" ng-show="currentUser.wholesaleApplicationInProcess"> wholesale (pending) / </span>
 						<span class="account-name" ng-cloak="" ng-bind="currentUser.firstName || currentUser.email"></span> <span class="arrow">▼</span>
@@ -654,7 +691,9 @@ The kinds of fraud-related information that we collect, retain, and share, in ad
 					</li>					<li class="navigation-item nav-node-static-page panel-heading">
 						<a href="/hintreviews">reviews</a>
 					</li>					<li class="navigation-item nav-node-external-url panel-heading">
-						<a href="https://www.drinkhint.com/health/">explore</a>
+						<a href="https://www.drinkhint.com/health/">blog</a>
+					</li>					<li class="navigation-item nav-node-external-url panel-heading">
+						<a href="http://www.drinkhint.com/contact">contact us</a>
 					</li>						</ul>
 						<p class="copy">Copyright © Hint Inc 2016</p>
 					</div>
@@ -705,15 +744,13 @@ The kinds of fraud-related information that we collect, retain, and share, in ad
 									<h5 class="footer-title">Customer Care</h5>
 									<ul class="unstyled navigation-sublist">
 					<li class="navigation-item nav-node-external-url panel-heading">
-						<a href="https://www.drinkhint.com/subscribe-to-hint-water">subscriptions</a>
-					</li>					<li class="navigation-item nav-node-external-url panel-heading">
 						<a href="https://www.drinkhint.com/gift-cards">gift cards</a>
 					</li>					<li class="navigation-item nav-node-static-page panel-heading">
 						<a href="/hintreviews">reviews</a>
 					</li>					<li class="navigation-item nav-node-orders panel-heading">
 						<a href="/orders">track orders</a>
 					</li>					<li class="navigation-item nav-node-external-url panel-heading">
-						<a href="https://drinkhint.zendesk.com/hc/en-us/requests/new">contact us</a>
+						<a href="http://help.drinkhint.com/hc/en-us/requests/new">contact us</a>
 					</li>					<li class="navigation-item nav-node-wholesale panel-heading">
 						<a href="/wholesale">wholesale</a>
 					</li>					<li class="navigation-item nav-node-static-page panel-heading">
@@ -728,15 +765,26 @@ The kinds of fraud-related information that we collect, retain, and share, in ad
 									<h5 class="footer-title">Info</h5>
 									<ul class="unstyled navigation-sublist">
 					<li class="navigation-item nav-node-external-url panel-heading">
-						<a href="https://www.drinkhint.com/health/our-story/">about us</a>
+						<a href="http://blog.drinkhint.com/best-bottled-water-fruit-infused-delivery-our-story-hint/">about us</a>
 					</li>					<li class="navigation-item nav-node-external-url panel-heading">
-						<a href="https://www.drinkhint.com/health/buzz/">hint buzz</a>
+						<a href="https://blog.drinkhint.com/press">hint buzz</a>
 					</li>					<li class="navigation-item nav-node-external-url panel-heading">
 						<a href="https://drinkhint.zendesk.com/hc/en-us/categories/200137764-FAQ">faq</a>
 					</li>					<li class="navigation-item nav-node-external-url panel-heading">
-						<a href="https://www.drinkhint.com/health/event-request/">event request</a>
+						<a href="https://blog.drinkhint.com/event-request-hint-water">event request</a>
 					</li>					<li class="navigation-item nav-node-external-url panel-heading">
-						<a href="https://www.drinkhint.com/health/work-at-hint/">work at hint</a>
+						<a href="http://blog.drinkhint.com/jobs-career-employment-work-sales-beverage-hint-water">work at hint</a>
+					</li>									</ul>
+								</li>
+								<li class="span6">
+									<h5 class="footer-title">HINT PRODUCTS</h5>
+									<ul class="unstyled navigation-sublist">
+					<li class="navigation-item nav-node-external-url panel-heading">
+						<a href="/hint-water">hint water®</a>
+					</li>					<li class="navigation-item nav-node-external-url panel-heading">
+						<a href="/hint-fizz">hint fizz®</a>
+					</li>					<li class="navigation-item nav-node-external-url panel-heading">
+						<a href="/hint-kick">hint kick™</a>
 					</li>									</ul>
 								</li>
 						</div>
@@ -767,7 +815,7 @@ The kinds of fraud-related information that we collect, retain, and share, in ad
 				</div>
 			</div>
 				<div class="text-center login-external">
-					<a ng-click="loginFB()" href="" class="btn btn-fb btn-large btn-block"><img src="/static/images/sites/facebook-f.png">log in with <strong>Facebook</strong></a>
+					<a ng-click="loginFB()" href="" class="btn btn-fb btn-large btn-block"><span class="fb-icon"></span>log in with <strong>Facebook</strong></a>
 				</div>
 
 				<div class="horizontal-line">
@@ -789,7 +837,7 @@ The kinds of fraud-related information that we collect, retain, and share, in ad
 		<div class="text-center" ng-if="isRegState() &amp;&amp; !currentUser">
 			<div class="alert alert-error" ng-bind="formError" ng-show="formError"></div>
 				<div class="text-center login-external">
-					<a ng-click="registerFB()" href="" class="btn btn-fb btn-large btn-block"><img src="/static/images/sites/facebook-f.png">Signup with <strong>Facebook</strong></a>
+					<a ng-click="registerFB()" href="" class="btn btn-fb btn-large btn-block"><span class="fb-icon"></span>Signup with <strong>Facebook</strong></a>
 				</div>
 				<div class="horizontal-line">
 					<h4> OR </h4>
@@ -831,7 +879,7 @@ The kinds of fraud-related information that we collect, retain, and share, in ad
 			<div class="alert alert-error forgotpass-error" ng-show="formError">
 				[[formError]]
 				<div class="text-center login-external" ng-show="forgotPassFBError">
-					<a ng-click="loginFB()" href="" class="btn btn-fb btn-large btn-block"><img src="/static/images/sites/facebook-f.png">log in with <strong>Facebook</strong></a>
+					<a ng-click="loginFB()" href="" class="btn btn-fb btn-large btn-block"><span class="fb-icon"></span>log in with <strong>Facebook</strong></a>
 				</div>
 			</div>
 			<form name="forgot" autocomplete="on" autofill-form="">
@@ -934,30 +982,78 @@ The kinds of fraud-related information that we collect, retain, and share, in ad
 	var ref = param("fb_ref"),
 		source = param("fb_source");
 
+			window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
 
-			window._gaq = window._gaq || [];
+			ga('create', 'UA-2388646-9', 'auto');
+			ga('require', 'displayfeatures');
+			ga('require', 'ec');
+			ga('send', 'pageview');
+			if (source) {
+				ga('set', 'nonInteraction', true);
+				ga('send', 'event', 'FBTrack', source, ref);
+			}
 
-			_gaq.push(['_setAccount', 'UA-2388646-9']);
-			_gaq.push(['_trackPageview']);
-
-			source && _gaq.push(['_trackEvent', "FBTrack", source, ref]);
-</script>
-
+		</script>
 
 <script type="text/javascript">
-Loader("//stats.g.doubleclick.net/dc.js", !false);
+Loader("//www.google-analytics.com/analytics.js", !false);
+</script>	
+
+
+			<div>
+				<!-- <script src="//d20b8ckvu6gb0w.cloudfront.net/symphony-cs-apps/lib/syU/syU.js" async></script> -->
+
+<div id="email-green-block">
+<div class="email-green-box">
+<h2>subscribe to “<span class="yellow">hint hacks</span>” newsletter</h2>
+<h3>receive the latest news,deals and healthy tips</h3>
+<form id="email_signup" class="klaviyo_condensed_styling klaviyo_condensed_float klaviyo_condensed_embed_jwm5qZ" action="//manage.kmail-lists.com/subscriptions/subscribe" data-ajax-submit="//manage.kmail-lists.com/ajax/subscriptions/subscribe" method="GET" target="_blank" novalidate="novalidate">
+  <input type="hidden" name="g" value="jwm5qZ">
+  <div class="klaviyo_field_group">
+    <label for="k_id_email">Newsletter Sign Up</label>
+    <input type="email" value="" name="email" id="k_id_email" placeholder="enter email address">
+  </div>
+  <div class="klaviyo_messages">
+    <div class="success_message" style="display:none;"></div>
+    <div class="error_message" style="display:none;"></div>
+    </div>
+  <div class="klaviyo_form_actions">
+    <button type="submit" class="klaviyo_submit_button">SIGN UP</button>
+  </div>
+</form>
+</div>
+<img class="press-banner" src="//d2wqfpkilprt19.cloudfront.net/images/sites/drinkhint/1423693758117_newsbanner.jpg">
+
+</div>
+
+<script type="text/javascript">
+Loader(['//www.klaviyo.com/media/js/public/klaviyo_subscribe.js', function() {
+ KlaviyoSubscribe.attachToForms('#email_signup', {
+    hide_form_on_success: true
+  });
+}]);
 </script>
 
+<style type="text/css">
+.email-green-box {text-align:center; margin:0 auto; background-color:#1e356b;padding:20px 0 25px 0;}
+.klaviyo_styling.klaviyo_condensed_embed_jwm5qZ, .klaviyo_condensed_styling.klaviyo_condensed_embed_jwm5qZ { font-family: "Helvetica Neue", Arial; }.klaviyo_styling.klaviyo_condensed_embed_jwm5qZ label, .klaviyo_condensed_styling.klaviyo_condensed_embed_jwm5qZ label { color:#222; }.klaviyo_styling.klaviyo_condensed_embed_jwm5qZ input[type=text], .klaviyo_styling.klaviyo_condensed_embed_jwm5qZ input[type=email], .klaviyo_condensed_styling.klaviyo_condensed_embed_jwm5qZ input[type=text], .klaviyo_condensed_styling.klaviyo_condensed_embed_jwm5qZ input[type=email] { border-radius: 0px; text-align:center; }.klaviyo_styling.klaviyo_condensed_embed_jwm5qZ .klaviyo_submit_button, .klaviyo_condensed_styling.klaviyo_condensed_embed_jwm5qZ .klaviyo_submit_button { background-color: #dc5c2f; border-radius: 0px; }.klaviyo_styling.klaviyo_condensed_embed_jwm5qZ .klaviyo_submit_button:hover, .klaviyo_condensed_styling.klaviyo_condensed_embed_jwm5qZ .klaviyo_submit_button:hover { background-color:#dc5c2f; } .klaviyo_condensed_float .klaviyo_field_group { margin-right: 0px; }  h2 { color:white; } .email-green-box h3 {color:white;font-weight:normal;font-size: 15px; line-height: 17px; margin-bottom: 20px;} .yellow {color: #ffe07f;} .success_message { color:white; }
+.press-banner {width:100%;}
+</style>
 
-
-				<script type="text/javascript" src="//sneakpeeq-sites.s3.amazonaws.com/symphony-cs-apps/postmates/postmates.js"></script>
-
+<!-- begin optimizely GA integration -->
+<script type="text/javascript">
+      window.optimizely = window.optimizely || [];
+      window.optimizely.push("activateUniversalAnalytics");
+</script>
+			</div>
+		
+<script type="text/javascript">
+Loader("//d3t9cosyzvu4nc.cloudfront.net/prod/bundle/20.3/js/sites.js", !true);
+</script>
 			<script type="text/javascript">
-			window.symphonyHeaderBundleEnabled = false;
+			Loader(function() { window.bootstrapAngular(); });
 			</script>
-<script type="text/javascript">
-Loader("//d3t9cosyzvu4nc.cloudfront.net/prod/bundle/18.11.1/js/sites.js", !true);
-</script>
+
 	
 
 </body></html>
