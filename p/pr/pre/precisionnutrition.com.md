@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the precisionnutrition.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404203307id_/http%3A//www.precisionnutrition.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the precisionnutrition.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116034311id_/http%3A//www.precisionnutrition.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Precision Nutrition
 
-Precision Nutrition Inc. (“ **Precision** ” or “ **we** ”, “ **us** ”, “ **our** ”) recognizes the importance of privacy and the sensitivity of personal information. Precision is subject to Canada’s federal Personal Information Protection and Electronic Documents Act and all substantially similar provincial legislation (collectively, the “ **Privacy Laws** ”). This Privacy Policy outlines how we safeguard and manage the personal information that you, our client, submit to us.
+Precision Nutrition Inc. (“ **Precision** ” or “ **we** ”, “ **us** ”, “ **our** ”) recognizes the importance of privacy and the sensitivity of personal information. Precision is subject to Canada's federal Personal Information Protection and Electronic Documents Act and all substantially similar provincial legislation (collectively, the “ **Privacy Laws** ”). This Privacy Policy outlines how we safeguard and manage the personal information that you, our client, submit to us.
 
 **_PLEASE READ THIS PRIVACY POLICY CAREFULLY._**
 
@@ -24,7 +24,7 @@ We collect personal information from you to:
   * Create a unique profile on our website in order to provide relevant and targeted offers to you;
   * Send you a textbook if you have signed up for our Precision Nutrition Certification Level 1 Program (“ **PN Certification Program L1** ”), and provide you with other learning materials if you have signed up for either the PN Certification Program L1 or our Precision Nutrition Certification Level 2 Program (together, the “ **PN Certification Programs** ”), that are required for you to complete so you can be certified;
   * Send you the Precision Nutrition Guides and/or our book Gourmet Nutrition if you have purchased them (“PN Guides”);
-  * Include you in our annual cash prize giveaway if you have signed up for our men or women’s Precision Nutrition Coaching Program (“PN Coaching Program”) and are eligible to enter this promotion; 
+  * Include you in our annual cash prize giveaway if you have signed up for our men or women's Precision Nutrition Coaching Program (“PN Coaching Program”) and are eligible to enter this promotion; 
   * Better understand your preferences and tailor offers and services to you based on those preferences; 
   * Conduct research and contribute publications to medical and scientific journals aimed at furthering the field of exercise and nutrition science (this data is aggregate or rendered anonymous); and
   * Better understand our website usage and trends, to improve our service performance, and build knowledge around user attitudes and motivations around health and fitness.
@@ -35,13 +35,13 @@ We collect personal information from you to:
 
 We will collect information that you provide to us in connection with your use of our services when you:
 
-  1. register and create an account for our men or women’s PN Coaching Programs;
+  1. register and create an account for our men or women's PN Coaching Programs or the ProCoach Service;
   2. register and create an account for any of our PN Certification Programs;
-  3. make changes to your user profile information (for the PN Coaching Programs and our PN Certification Programs);
+  3. make changes to your user profile information (for the PN Coaching Programs, ProCoach Service, and our PN Certification Programs);
   4. purchase any of our PN Guides;
   5. complete offers or surveys through the use of our services;
   6. enter our annual cash prize giveaway (if you are eligible as a member of our PN Coaching Program); and 
-  7. send email messages, queries, or other information to us, including posting our website’s Member’s Only Forums.
+  7. send email messages, queries, or other information to us, including posting our website's Member's Only Forums.
 
 
 
@@ -49,9 +49,11 @@ Wherever possible, we collect personal information directly from you. Where appl
 
 ## Types of personal information collected
 
-If you sign up for our PN Coaching Program or PN Nutrition Certification Program, you will be required to provide your name, email address, mobile phone number, and payment card information (including your credit card number, expiry date, and CVC/CVV) in order to register.
+If you sign up for our PN Coaching Program or PN Nutrition Certification Program, or sign up as one of our ProCoach Clients, you will be required to provide your name, email address, mobile phone number, and payment card information (including your credit card number, expiry date, and CVC/CVV) in order to register.
 
-If you have registered for the PN Coaching Program, you will need to provide additional information such as alternate contact information, your full home address, date of birth, gender, ethnicity, physical measurements or attributes, and other more detailed information about your lifestyle (including but not limited to: employment, preferences, habits, personal routine) in order create a program account. Specifically, on creating your account, Precision will collected limited medical information about your health in well-being and require a medical release of the same in order to better assess and develop a structured coaching program to help you meet your fitness and health goals.
+Note: If you access our Services through one of our ProCoach Clients, Precision is not responsible for and disclaims all warranties and liabilities with respect to your payment arrangements with the ProCoach Client.
+
+If you have registered for the PN Coaching Program, or access the ProCoach Service via our Website, you will need to provide additional information such as alternate contact information, your full home address, date of birth, gender, ethnicity, physical measurements or attributes, and other more detailed information about your lifestyle (including but not limited to: employment, preferences, habits, personal routine) in order create a program account. Specifically, on creating your account, Precision will collected limited medical information about your health in well-being and require a medical release of the same in order to better assess and develop a structured coaching program to help you meet your fitness and health goals.
 
 In addition, as a tool to help you assess your progress, Precision will ask you to upload photographs of yourself periodically (around once a month) that you can request be anonymized. The photo upload feature is optional and you can choose to stop uploading photos at any time. Should you choose to upload photos, these progress photos will only be viewed by Precision coaching staff and will not be otherwise used or disclosed unless you provide your express permission for Precision to do so.
 
@@ -77,7 +79,7 @@ Under certain circumstances, Precision will disclose your personal information:
 In addition to the disclosures listed above, we transfer information to our service providers for processing and/or storage. We require that our service providers use reasonable safeguards to protection personal information under their control from loss, theft and unauthorized modification and disclosure. Our service providers are only permitted to use your personal information in order to provide services to us; for example, the following types of information are provided to our service providers for processing and/or storage:
 
   * Information automatically collected through the website: The information automatically collected about you that is provided to our service providers may include, but is not limited to: device ID, device type, browser type and version, geo-location information, computer and connection information, statistics on page views, traffic to and from our website, ad data, IP address and standard web log information.
-  * Cookies and Web Beacons: Information about your use of our services, as evidenced through cookies, locally stored objects, and web beacons may be disclosed to our service providers. Cookies are small bits of information that are transferred to and stored in separate files within your computer or phone’s browser. A cookie may remain on your computer or phone after the session finishes (until the cookie expires or is deleted by you).
+  * Cookies and Web Beacons: Information about your use of our services, as evidenced through cookies, locally stored objects, and web beacons may be disclosed to our service providers. Cookies are small bits of information that are transferred to and stored in separate files within your computer or phone's browser. A cookie may remain on your computer or phone after the session finishes (until the cookie expires or is deleted by you).
 
 
 
@@ -98,7 +100,7 @@ We may transfer any information we have about you in connection with a merger or
 
 Occasionally we do use service providers located outside of Canada to process and/or store personal information for us. Please note that personal information in the custody of these service providers may be subject to access by the law enforcement authorities of those jurisdictions in which the service providers are located.
 
-Our Privacy Officer, whose contact information is provided below, can provide further information about our policies and practices regarding service providers located outside of Canada and further information about how these service providers, collect, use, disclose or store personal information on Precision’s behalf.
+Our Privacy Officer, whose contact information is provided below, can provide further information about our policies and practices regarding service providers located outside of Canada and further information about how these service providers, collect, use, disclose or store personal information on Precision's behalf.
 
 ## Effect of Consent and Withdrawal of Consent
 
@@ -140,8 +142,8 @@ Your rights to access your personal information are not absolute.
 We may deny access when:
 
   * denial of access is required or authorized by law;
-  * when granting you access would have an unreasonable impact on other people’s privacy, unless the requested information is severable from the personal information of other people; and
-  * to protect Precision’s confidential commercial information.
+  * when granting you access would have an unreasonable impact on other people's privacy, unless the requested information is severable from the personal information of other people; and
+  * to protect Precision's confidential commercial information.
 
 
 
@@ -177,6 +179,6 @@ If you apply to Precision for a job, we need to consider your personal informati
 
 Our website contain links to other sites, which are not governed by our Privacy Policy.
 
-On our website, like most other commercial websites, we may monitor traffic patterns, site usage and related site information in order to optimise our web service. We may provide aggregated information to third parties, but these statistics do not include any identifiable personal information.
+On our website, like most other commercial websites, we may monitor traffic patterns, site usage and related site information in order to optimize our web service. We may provide aggregated information to third parties, but these statistics do not include any identifiable personal information.
 
-Last Updated: November 19, 2015
+Last Updated: June 21, 2016
