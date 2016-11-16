@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anxiety-attacks-no-more.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501224604id_/http%3A//www.anxiety-attacks-no-more.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anxiety-attacks-no-more.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116220243id_/http%3A//www.anxiety-attacks-no-more.com/privacy-policy) for the most accurate reproduction.*
 
 # Anxiety Attacks No More Privacy Policy | Anxiety Attacks No More
 
