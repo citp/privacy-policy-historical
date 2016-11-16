@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intego.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624111729id_/https%3A//www.intego.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intego.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116182653id_/https%3A//www.intego.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Intego Privacy Policy
 
@@ -30,9 +30,9 @@ We may contact you by e-mail to inform you about updates, special offers, or oth
 
 When you purchase Intego software from our online store, all information is sent by SSL (Secure Socket Layer), ensuring that your personal information is encrypted, and cannot be intercepted between your computer and our web server.
 
-Mac Premium Bundle X8
+Mac Premium Bundle X9
 
-[Buy Now](https://web.archive.org/mac-protection-bundle-x8)  
+[Buy Now](https://web.archive.org/mac-protection-bundle)  
 Free Trial
 
 ### Start Your Free Intego Trial Now
@@ -42,6 +42,8 @@ Free Trial
 Enter your email address below to start your free trial.
 
 Please check your email to verify your email address and download your free trial
+
+To keep receiving emails from us, please add us to your address book
 
 Protect your Mac, your files and your family with the most comprehensive security suite available.
 
