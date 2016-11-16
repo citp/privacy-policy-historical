@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencenewsforstudents.org privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329091024id_/https%3A//www.societyforscience.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencenewsforstudents.org privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116171058id_/https%3A//www.societyforscience.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Society for Science
 
