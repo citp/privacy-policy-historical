@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3mp4.ninja privacy policy that was archived on 2015-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150821095859id_/http%3A//www.mp3mp4.ninja/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3mp4.ninja privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116182221id_/http%3A//www.mp3mp4.ninja/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mp3Mp4 Ninja
 
