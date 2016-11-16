@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brewyourbest.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601040326id_/http%3A//www.brewyourbest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brewyourbest.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116170516id_/http%3A//www.brewyourbest.com/privacy-policy) for the most accurate reproduction.*
 
 # BrewYourBest – Privacy Policy
 
