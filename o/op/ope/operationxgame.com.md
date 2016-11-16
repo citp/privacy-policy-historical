@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the operationxgame.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514101806id_/http%3A//us1.operationxgame.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the operationxgame.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116132446id_/http%3A//us1.operationxgame.com/policy) for the most accurate reproduction.*
 
 # Operation X - Privacy Policy
 
