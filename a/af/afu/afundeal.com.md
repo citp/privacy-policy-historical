@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afundeal.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318110014id_/http%3A//www.afundeal.com/security_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afundeal.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116144627id_/https%3A//www.afundeal.com/security_privacy) for the most accurate reproduction.*
 
 # Security & Privacy
 
