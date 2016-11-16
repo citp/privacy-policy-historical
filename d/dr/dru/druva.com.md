@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the druva.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331225742id_/http%3A//www.druva.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the druva.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116012352id_/http%3A//www.druva.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Druva, Inc.
 
