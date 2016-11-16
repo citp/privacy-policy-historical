@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knolix.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609000338id_/http%3A//www.knolix.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knolix.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116134554id_/http%3A//www.knolix.com/privacy.php) for the most accurate reproduction.*
 
 # Knolix - Privacy
 
