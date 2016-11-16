@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fool.com.au privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324040003id_/http%3A//www.fool.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fool.com.au privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116113824id_/http%3A//www.fool.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Motley Fool Australia
 
@@ -8,8 +8,9 @@ The Motley Fool Australia Pty Ltd ACN 146 988 052, (“The Motley Fool”, “we
 
 **The Information We Collect**
 
-  * **Subscribing:** When you register with The Motley Fool, subscribe to our products and services, or sign up to receive a special report, we ask for your email address. If subscribing to one of our paid subscription services by credit card, in addition to your email address, you will be asked to provide your name, credit card information and address. If you use PayPal to subscribe to one of our services, we will ask for your name and email address. All other information will be collected by PayPal. If you choose to receive text alerts from us, you will first need to provide us with your mobile number. We usually also capture your Internet Protocol address (“IP address”) at the time you subscribe.
-  * **Information We Automatically Track:** While on Fool.com.au, we automatically log certain information about how you’re using our site. This information may include the URL that you just came from, your IP address and the pages you visit while on our site. The Motley Fool may place a pixel on pages on our site or those of other companies that are presenting advertisements. This enables us to record in our server logs that a specific user id has visited a particular page. This data allows us to analyse and determine our audience’s behavioural characteristics, which helps us to optimise our site, advertisement placement, and marketing focus. Only anonymous, non-personally identifiable information is collected in this way, and it cannot, by itself or in combination, be tracked to a specific individual.
+  * **Subscribing:** When you register with The Motley Fool, subscribe to our products and services, or sign up to receive a special report, we ask for your email address. If subscribing to one of our paid subscription services by credit card, in addition to your email address, you will be asked to provide your name, credit card information and address. If you use PayPal to subscribe to one of our services, we will ask for your name and email address. All other information will be collected by PayPal. If you choose to receive text alerts from us, you will first need to provide us with your mobile number. When you register your interest in Lakehouse Capital we ask for your first name, last name, email, phone number, investor type, and potential investment size. We usually also capture your Internet Protocol address (“IP address”) at the time you subscribe.
+  * **Information We Automatically Track:** While on Fool.com.au and affiliated websites, we automatically log certain information about how you’re using our site. This information may include the URL that you just came from, your IP address and the pages you visit while on our site. The Motley Fool may place a pixel on pages on our site or those of other companies that are presenting advertisements. This enables us to record in our server logs that a specific user id has visited a particular page. This data allows us to analyse and determine our audience’s behavioural characteristics, which helps us to optimise our site, advertisement placement, and marketing focus. Only anonymous, non-personally identifiable information is collected in this way, and it cannot, by itself or in combination, be tracked to a specific individual.
+  * **Surveys:** On occasions we conduct surveys and we collect the answers provided.
 
 
 
@@ -51,14 +52,14 @@ We may use IP addresses for various purposes, including:
 
 If your browser is set up to accept them, we also use a feature known as a cookie. Cookies contain bits of information that Web sites transfer to your computer’s hard drive for record-keeping purposes. Cookies can make the Web more useful by storing information about your preferences on a particular site such as ours.
 
-At The Motley Fool cookies are used in the following ways:
+At The Motley Fool and our affiliated websites cookies are primarily used in the following ways:
 
   * To automatically access your previously stored account information, so that we don’t ask for your information multiple times.
   * To estimate our audience size and usage patterns.
 
 
 
-Most browsers are set up to accept cookies, but you can configure your browser to refuse cookies or to notify you when you’ve received one. If you reject cookies, though, we will continue to ask for an email address to access our articles.
+In addition, if you provide us with your email address anywhere on the site (including on our order pages), we will place a cookie on your device that temporarily stores your email address. We may use this information to subsequently contact you. Most browsers are set up to accept cookies, but you can configure your browser to refuse cookies or to notify you when you’ve received one. If you reject cookies, though, we will continue to ask for an email address to access our articles.
 
 **Information Sharing and Disclosure**
 
@@ -100,13 +101,13 @@ If you are not satisfied with our handling of your complaint, you may complain t
 
 **Other Parties Collecting Information**
 
-If you follow or click on links to any third party websites from fool.com.au, including when paying your for subscription through PayPal, you should be aware that these other sites have their own privacy and data processing practices. The Motley Fool has no responsibility or liability for these independent policies. For more information regarding a site and its privacy policies, check that site.
+If you follow or click on links to any third party websites from fool.com.au and affiliated websites, including when paying your for subscription through PayPal, you should be aware that these other sites have their own privacy and data processing practices. The Motley Fool has no responsibility or liability for these independent policies. For more information regarding a site and its privacy policies, check that site.
 
 **Changes to this Privacy Policy**
 
 The Fool may amend this Privacy Policy from time to time. If we make any substantive changes to this policy, we’ll announce it on our site. Your continued use of our website, services or provision of further personal information to us once you have been notified of the revised Privacy Policy constitutes your deemed acceptance of the revised Privacy Policy.
 
-_Effective: March 24, 2015_
+_Effective: 31  August 2016_
 
 Dear Fool:
 
