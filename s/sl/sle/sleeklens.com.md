@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleeklens.com privacy policy that was archived on 2016-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160220084722id_/https%3A//sleeklens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleeklens.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116065925id_/https%3A//sleeklens.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sleeklens - Handmade professional Lightroom presets
 
@@ -22,6 +22,12 @@ The information that we collect may be used in one or several of the following w
  **Our Privacy Guarantee**
 
 Any information that you submit to us, whether private or public, will not be exchanged, sold, transferred or in any way passed on to any third party, company or entity for any reason, without your express consent, other than for the sole reason of ensuring the successful delivery of your presets.
+
+ **Amazon Affiliate Disclosure**
+
+Sleeklens has affiliate links on some posts and pages. These links gives us the chance to earn a cut if one clicks on these links and purchase through the site. This will in no way cost you extra.
+
+Sleeklens is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for website owners to earn advertising fees by advertising and linking to amazon.com, endless.com, smallparts.com, myhabit.com, and any other website that may be affiliated with Amazon Service LLC Associates Program.
 
  **How we protect your information**
 
