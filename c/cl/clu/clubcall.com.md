@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubcall.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320202326id_/https%3A//www.clubcall.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubcall.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116115534id_/https%3A//www.clubcall.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ClubCall
 
