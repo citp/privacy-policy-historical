@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mwsu.edu privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630221914id_/http%3A//www.mwsu.edu/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mwsu.edu privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116045145id_/https%3A//www.mwsu.edu/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Midwestern State University
 
