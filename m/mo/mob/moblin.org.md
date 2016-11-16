@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moblin.org privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411194734id_/https%3A//www.tizen.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moblin.org privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116133420id_/https%3A//www.tizen.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tizen
 
