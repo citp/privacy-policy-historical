@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the readbyqxmd.com privacy policy that was archived on 2016-03-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160310042200id_/https%3A//www.readbyqxmd.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the readbyqxmd.com privacy policy that was archived on 2016-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161116181910id_/https%3A//www.readbyqxmd.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
 		<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script src="//cdn.optimizely.com/js/1771730353.js"></script>
@@ -29,7 +29,7 @@
 		<meta name="twitter:app:url:googleplay" content="https://www.readbyqxmd.com/">
 		
 		
-		<link rel="stylesheet" href="/web/web.css?v=3" type="text/css" media="screen">
+		<link rel="stylesheet" href="/web/web.css?v=9" type="text/css" media="screen">
 		<link rel="stylesheet" href="/web/bootstrap-noconflict.min.css" type="text/css" media="screen">
 		
 		<link rel="stylesheet" href="/web/smart-app-banner.css" type="text/css" media="screen">
@@ -45,6 +45,7 @@
 		
 		
         <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+		<script src="//www.google.com/recaptcha/api.js" async="" defer=""></script>
 		
 		<script src="/web/smart-app-banner.js"></script>
 		
@@ -57,7 +58,7 @@
 			  }; 
 		</script>
 		
-		<script type="text/javascript" src="/web/web.js?v=7"></script>
+		<script type="text/javascript" src="/web/web.js?v=12"></script>
 		
 	</head>
 	<body id="body">
@@ -69,7 +70,7 @@
         FB.init({
           appId      : '449889535064666',
           xfbml      : true,
-          version    : 'v2.3'
+          version    : 'v2.6'
         });
       };
 
@@ -159,6 +160,7 @@
 			<a href="https://www.readbyqxmd.com/register?redirect=%2Fprivacy" class="small_cta_button" id="nav_register_cta">Sign Up</a>
 		
 						<a class="topnav_element nav_favorites_0" href="https://www.readbyqxmd.com/favorites"></a>
+						
 						<div class="clear-l clear-r"></div>
 					</div>
 				</div>
@@ -345,10 +347,10 @@
 				<div class="float-r p10to"><a class="small" href="#" onclick="close_app_prompt();">close</a></div>
 				<div class="clear-r"></div>
 				<div class="tm">
-					<h1 class="tm">
+					<h2 class="tm fz40">
 						<img src="/web/read_icon.png" style="width: 48px;" alt="Read by QxMD icon"> 
 						<span style="color: #000000;">Read</span>
-					</h1>
+					</h2>
 				</div>
 				<div class="tm p10bo txt_aaa" style="line-height: 1.5;">
 					For a better experience,
@@ -369,7 +371,7 @@
 			</div>
 		</div>
 		<script src="//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.10.2/typeahead.bundle.min.js"></script>
-
+		
 		<script type="text/javascript">
 						
 			$('#user_status_popup_link').mouseenter(function(){
@@ -394,5 +396,53 @@
 				
 		</script>
 		<input id="current_pathname" value="" type="hidden">
+		
+		<div class="info_popup" id="search_tips_popup">
+		
+			<div class="p10to p10ro float-r">
+				<a href="#" onclick="$('#search_tips_popup').hide(); return false;" style="text-decoration: none; font-size: 19px;">×</a>
+			</div>
+			
+			<div class="p10to align-center">
+				<h3>Search Tips</h3>
+			</div>
+			
+			<p class="p20ro p20lo align-center"><strong>Use Boolean operators: AND/OR </strong></p>
+			
+			<p class="align-center">
+				diabetic AND foot
+				<br>
+				diabetes OR diabetic
+			</p>
+			
+			<p class="p20ro p20lo align-center"><strong>Exclude a word using the 'minus' sign</strong></p>
+			
+			<p class="align-center">
+				Virchow -triad
+			</p>
+
+			<p class="p20ro p20lo align-center"><strong>Use Parentheses</strong></p>
+			
+			<p class="align-center">
+				water AND (cup OR glass)
+			</p>
+			
+			<p class="p20ro p20lo align-center"><strong>Add an asterisk (*) at end of a word to include word stems</strong></p>
+			
+			<p class="align-center">
+				Neuro* will search for Neurology, Neuroscientist, Neurological, and so on
+			</p>
+			
+			<p class="p20ro p20lo align-center"><strong>Use quotes to search for an exact phrase</strong></p>
+			
+			<p class="align-center">
+				"primary prevention of cancer" <br>
+				(heart or cardiac or cardio*) AND arrest -"American Heart Association"
+			</p>
+			
+			<p></p>
+			
+		</div>
+		
 	</div>
 </div></body></html>
