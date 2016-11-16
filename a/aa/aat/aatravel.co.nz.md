@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aatravel.co.nz privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510104051id_/http%3A//www.aatravel.co.nz/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aatravel.co.nz privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116170951id_/http%3A//www.aatravel.co.nz/main/privacy.php) for the most accurate reproduction.*
 
 # AA Privacy Policy - AA Travel New Zealand
 
