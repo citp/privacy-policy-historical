@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adzonfire.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401161605id_/http%3A//adzonfire.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adzonfire.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116210319id_/http%3A//adzonfire.com/privacy.php) for the most accurate reproduction.*
 
 # Adz On Fire
 
