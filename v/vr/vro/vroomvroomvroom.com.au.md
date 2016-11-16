@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vroomvroomvroom.com.au privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525212942id_/https%3A//www.vroomvroomvroom.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vroomvroomvroom.com.au privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116214626id_/https%3A//www.vroomvroomvroom.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Cheap Car Hire Australia > Avis,Budget,Europcar,Hertz,Thrifty.
 
