@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the oculus.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615152219id_/https%3A//www1.oculus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oculus.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116172219id_/https%3A//www.oculus.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Oculus Privacy Policy
-
-__ English (US)
+# Oculus
 
 _Effective Date: February 12, 2016_
 
@@ -30,7 +28,7 @@ Depending on which Services you use, we collect different kinds of information f
 
   * _**Information Automatically Collected About You When You Use Our Services**_. We also collect information automatically when you use our Services. Depending on how you access and use our Services, we may collect information such as: 
 
-    * Information about your interactions with our Services, like information about the games, content, apps or other experiences you interact with, and information collected in or through cookies, local storage, pixels, and similar technologies (additional information about these technologies is available at <https://www.oculus.com/en-us/cookies-pixels-and-other-technologies/>); 
+    * Information about your interactions with our Services, like information about the games, content, apps or other experiences you interact with, and information collected in or through cookies, local storage, pixels, and similar technologies (additional information about these technologies is available at <https://www.oculus.com/legal/cookies-pixels-and-other-technologies/>); 
 
     * Information about how you access our Services, including information about the type of device you're using (such as a headset, PC, or mobile device), your browser or operating system, your Internet Protocol ("IP") address, and certain device identifiers that may be unique to your device; 
 
@@ -42,7 +40,7 @@ Depending on which Services you use, we collect different kinds of information f
 
 Third parties may also collect information about you through the Services, as described below. 
 
-  * _**Related companies**_. We may receive information about you from other companies that are within the family of related companies that are legally part of the same group of companies that Oculus is part of, or that become part of that group, such as Facebook, and may combine that information with other information we collect about you. View a complete list of related companies at <https://www.oculus.com/en-us/related-companies/>. 
+  * _**Related companies**_. We may receive information about you from other companies that are within the family of related companies that are legally part of the same group of companies that Oculus is part of, or that become part of that group, such as Facebook, and may combine that information with other information we collect about you. View a complete list of related companies at <https://www.oculus.com/legal/related-companies/>. 
 
   * _**Information from other sources**_. We may also receive additional information about you from third parties, including partners that provide us information that is publicly or commercially available, and may combine that information with the other information we collect about you. 
 
@@ -104,7 +102,7 @@ Information you post to public areas of our Services, such as a forum, blog, or 
 
 Please note that any information shared with these (or other) third parties will be subject to those third parties' own privacy policies. 
 
-  * _**Sharing Within Related Companies**_. We may share information within the family of related companies that are legally part of the same group of companies that Oculus is part of, or that become part of that group, such as Facebook. For a list of our related companies, please see <https://www.oculus.com/en-us/related-companies/>. 
+  * _**Sharing Within Related Companies**_. We may share information within the family of related companies that are legally part of the same group of companies that Oculus is part of, or that become part of that group, such as Facebook. For a list of our related companies, please see <https://www.oculus.com/legal/related-companies/>. 
 
   * _**Service providers**_. We may share the information we collect with vendors, service providers, researchers and other partners, who work at our direction to support the Services (such as hosting our Services, fulfilling orders, facilitating payments, analyzing the way people use our Services, processing credit card payments, providing customer service, or sending electronic communications for us). 
 
@@ -142,5 +140,3 @@ If we make changes to this Privacy Policy, we will provide notice of such change
 #### 9\. Contacting Us; Data Access and Deletion 
 
 If you have any questions about this Privacy Policy, or if you would like to deactivate or delete your account or access data associated with it, please contact us at privacy@oculus.com. Content deleted from the Services may remain in backup copies and logs for a period of time. 
-
-_Loading…_
