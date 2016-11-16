@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statravel.com.au privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329175233id_/http%3A//www.statravel.com.au/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statravel.com.au privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116132442id_/http%3A//www.statravel.com.au/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy policy of STA Travel Australia and New Zealand | STA Travel | Privacy policy
 
@@ -32,7 +32,7 @@ We may also transfer your personal information to persons outside of Australia i
 
 ## Email subscription opt in and opt out
 
-If you would like to receive news about the latest deals; events and competitions we welcome you to sign-up to our emails. Use this [sign up form ](https://web.archive.org/web/20160329175233id_/http%3A//www.statravel.com.au/,DanaInfo=getscmsprod.bluee.net+/newsletter.htm)and note that the only mandatory information required is your name, email address and postcode. 
+If you would like to receive news about the latest deals; events and competitions we welcome you to sign-up to our emails. Use this [sign up form ](https://web.archive.org/web/20161116132442id_/http%3A//www.statravel.com.au/,DanaInfo=getscmsprod.bluee.net+/5649.htm)and note that the only mandatory information required is your name, email address and postcode. 
 
 If you subscribe to both our Deals email and Newsletter letter, the frequency of our emails is once a week on average. Very occasionally you will receive more than one per week when there is a late-breaking deal. 
 
