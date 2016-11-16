@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madimmarketing.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629045554id_/http%3A//theimmer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madimmarketing.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116054558id_/http%3A//theimmer.com/privacy-policy) for the most accurate reproduction.*
 
 # The IMmer : The IMmer
 
