@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyerzone.co.uk privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630001346id_/http%3A//www.flyerzone.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyerzone.co.uk privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116114511id_/http%3A//www.flyerzone.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy. Printing of flyers, leaflets, business cards and more | Flyerzone
 
