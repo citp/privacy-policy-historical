@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ipsy.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604183346id_/https%3A//www.ipsy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipsy.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116031313id_/https%3A//www.ipsy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy (Legal) | ipsy
 
-At ipsy, you make our world beautiful. We love nothing more than to see our ipster community of members thrive. We know you're unique, and we know you trust us with your personal information when you visit or join our community. This Privacy Policy spells out our commitment to protect that trust. It explains our privacy practices for [ipsy.com](http://www.ipsy.com/) (the "Site") and services provided by Personalized Beauty Discovery, Inc. ("ipsy," "we," or "us").
+At ipsy, you make our world beautiful. We love nothing more than to see our ipster community of members thrive. We know you're unique, and we know you trust us with your personal information when you visit or join our community. This Privacy Policy spells out our commitment to protect that trust. It explains our privacy practices for [ipsy.com](http://www.ipsy.com/),the ipsy shopper app, and our ipsy beauty app (collectively, the "Site") and services provided by Personalized Beauty Discovery, Inc. ("ipsy," "we," or "us").
 
 We believe in full disclosure when it comes to our privacy practices. This Privacy Policy explains what information we collect from you, how we collect it, how we use it and how we protect it. We want you to feel safe in our community, so we use industry-standard safeguards and procedures. We also let you control how much personal information you share and how certain information is used.
 
-By visiting this Site, you accept this Privacy Policy's terms. You're not authorized to use this Site unless you agree with this Privacy Policy.
+By visiting our Site, you accept this Privacy Policy's terms. You're not authorized to use this Site unless you agree with this Privacy Policy.
 
-This Privacy Policy applies only to this Site. We're not responsible for the practices employed by any third-party sites including ones to which we link or that link to us. Those sites will have rules and practices of their own.
+This Privacy Policy applies only to our Site. We're not responsible for the practices employed by any third-party sites including ones to which we link or that link to us. Those sites will have rules and practices of their own.
 
 If you have any questions or concerns about this Privacy Policy or our privacy practices, please email us at [privacy@ipsy.com](mailto:privacy@ipsy.com).
 
@@ -37,9 +37,9 @@ At the end of the beauty quiz, in order to join ipsy you must choose a username 
 
 If you provide us your email address but choose not to become a member, then we will retain your email address for a period to invite you back to the Site.
 
-    2. **When You Order from Us.** If you subscribe to our Glam Bag or order any ipsy Offer products from us, you must provide your: name, shipping address, billing address, and credit card information.
+    2. **When You Order from Us.** If you subscribe to our Glam Bag or order any ipsy Offer products from us, you must provide your: name, shipping address, billing address, and credit card information. If you order products through our ipsy shopper app, you are not providing your name, shipping address, billing address or credit card information to ipsy; you are providing it to the store you accessed from the ipsy shopper app. Please review the privacy policy for that store before providing your information.
 
-We use this information, along with your email, for billing purposes, to fulfill your orders, and to communicate with you about your orders.
+When you order from us, we use the foregoing information, along with your email, for billing purposes, to fulfill your orders, and to communicate with you about your orders.
 
 We collect your credit card information through our Site. The credit card information is encrypted, and transmitted for storage to a high security vault according to strict industry standards. Once the data reaches the vault it is "tokenized". No credit card information is retained in ipsy's own systems. Instead we retain a token associated with your account that has no intrinsic value. Your credit card information is not exposed anywhere in our own systems. Please do not send your credit card information to our team directly, for example by emailing this information to an ipsyCare representative. Please use our secure, online system to enter your credit card information.
 
@@ -47,7 +47,7 @@ We collect your credit card information through our Site. The credit card inform
 
     4. **When You Post Public Content.** We use this content to bring our community of fabulous ipsters to life.
 
-_**Public information you post on the Site.**_ Information you post publicly on our Site is intended for public consumption. Please be aware that your username and profile image will be publicly displayed. The date you joined ipsy and some information from your Beauty Profile (such as skin tone, hair color and eye color) will be publicly displayed under your user name, as well as reviews, photos, looks, videos and comments you choose to post. In addition, postings you make on our Site may appear when Internet users execute searches on the subject of your posting.
+_**Public information you post on the Site.**_ Information you post publicly on our Site is intended for public consumption. Please be aware that your username and profile image will be publicly displayed. The date you joined ipsy and some information from your Beauty Profile (such as skin tone, hair color and eye color) will be publicly displayed under your user name, as well as reviews, photos, looks, videos and comments you choose to post. In addition, postings you make on our Site may appear when Internet users execute searches on the subject of your posting. If you do not want this information to be displayed, you may terminate your account at any time. Please note that if you are a minor, living in California, and you have posted information publicly that you cannot remove yourself, you have the right to request it be hidden from public view. If you wish to have this information removed, please email us at privacy@ipsy.com and request removal. We may request additional information from you in order to complete your request. 
 
 Site visitors may be able to identify you or associate you with your ipsy account if you include personal information in your account profile or in any content you post. We cannot control who reads your postings or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information.
 
@@ -55,13 +55,13 @@ You can reduce the risk of being personally identified by choosing a username an
 
 Public information you post on other sites. We also may collect information you post publicly on third-party sites, but only if you choose to follow instructions we provide. For example, we may collect pictures you post publicly on Instagram and re-post them on our Site, but only if you choose to use the hash tag "#ipsy" inside your Instagram post. You can always have us remove the information from our Site by emailing us using this link: [help.ipsy.com/customer/portal/emails/new](http://help.ipsy.com/customer/portal/emails/new).
 
-    5. **When You Share Information about Your Contacts.** You may choose to share personal information about friends, relatives or colleagues with ipsy, such as the person's name, shipping address and email address.
+    5. **When You Share Information about Your Contacts.** You may choose to share personal information about friends, relatives or colleagues with ipsy, such as the person's name, shipping address and email address. Please do not do so without their express permission.
 
 You may choose to manually invite your friends to ipsy by using the "Invite with Email" button on the Site or by uploading data about your contacts to the Site. You also may grant ipsy permission to access your contacts list and pull the email addresses of your contacts to invite them to the Site.
 
 If you use the Site to send others an email invitation to become an ipsy member or subscriber, we may store the personal information of each recipient in order to process those requests or facilitate future activities. All information that you enter or upload about your contacts is covered by the Agreement including our Privacy Policy. We use this information about your friends to enable ipsy to send invitations and reminders to your friends and to ship products to your friends, if applicable. By providing personal information of others to ipsy, you represent that you have authority to do so.
 
-    6. **When You Connect to Us with a Third-Party Service.** You can connect to your ipsy account using external third-party services. The Site collects personal information about you from your social media accounts, but only if you opt-in and permit us to do so. When you connect to us through a third-party service like Facebook, Twitter, Google Plus, and Instagram, we receive information from that third party identifying your account. We collect and store this information and use it to help you connect to our Site and to share your public content. Connecting your ipsy account to a third-party service is completely optional, and you will have the opportunity to grant permission when you attempt to connect. You can revoke permission by logging into the third party service and disconnecting the ipsy application from there. We may retain the information we collected previously from you.
+    6. **When You Connect to Us with a Third-Party Service.** You can connect to your ipsy account using external third-party services. The Site collects personal information about you from your social media accounts, but only if you opt-in and permit us to do so. When you connect to us through a third-party service like Facebook, Twitter, Google Plus, and Instagram, we receive information from that third party identifying your account. We collect and store this information and use it to help you connect to our Site and to share your public content. Connecting your ipsy account to a third-party service is completely optional, and you will have the opportunity to grant permission when you attempt to connect. You can revoke permission by logging into the third party service and disconnecting the ipsy application from there, and through the native applications on your smart phone. We may retain the information we collected previously from you.
 
   2. **Information We Automatically Collect or Receive.**
 
@@ -71,13 +71,15 @@ If you use the Site to send others an email invitation to become an ipsy member 
 
 **Introduction**
 
-We use a variety of technologies to help us understand how you use [ipsy.com](http://www.ipsy.com/) (the "Site") and our services (collectively, "ipsy"). This guide explains the tracking technologies ipsy uses and is part of our commitment to a high standard of transparency in our privacy practices.
+We use a variety of technologies to help us understand how you use [ipsy.com](http://www.ipsy.com/) our ipsy apps, and our services (collectively, "ipsy"). This guide explains the tracking technologies ipsy uses and is part of our commitment to a high standard of transparency in our privacy practices.
 
 **Types of tracking technologies**
 
       * **Cookies.** This is a small data file sent from a server to your web browser that is stored in your browser and sent back to the server each time the browser makes a request to the server. Cookies can improve a site user's experience by, for example, allowing the site to keep a user logged in while browsing, saving a user's site preferences, and allowing a user to add items to a shopping cart and preserve cart contents between site visits, even when the user is not logged in.
 
       * **Clear gifs, web beacons, tracking pixels.** These are tiny graphics with a unique identifier. They function similarly to cookies and are used to track the online movements of web users. Unlike cookies which are stored on a user's computer hard drive, clear gifs are embedded on web pages and are single pixel wide. ipsy does not tie information gathered by clear gifs to your personally identifiable information.
+
+      * If you have turned on location services in your mobile device, we may collect information about your geolocation. If you do not want us to collect this information, you may turn off location services on your smart phone. Turning off location services will not affect your ability to access the app, but you may not be able to access certain geolocation based promotions that ipsy may offer from time to time.
 
 **Tracking Technology Lifespans**
 
@@ -127,13 +129,13 @@ _Created: February 9, 2015_
 
     3. **Information from other sources.** We may receive information about our users from third party social platforms, such as Facebook. When you access or use our site or mobile application through such a site, you allow us to access or collect information made available by the third party site in accordance with its privacy policy. This information may be available from your profile or account with the third party site or from cookies placed on your device by the third party site. Depending on your privacy settings this information may include: Facebook interests, gender, friends and location.
 
-    4. **Information collected automatically.** We automatically collect information from your browser or device when you visit the Site. This information includes your IP address, device ID, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us, and the referring site address.This information also includes your operating system or application, your location, and your activities voluntarily have submitted to us (for example, your email address).
+    4. **Information collected automatically.** We automatically collect information from your browser or device when you visit the Site. This information includes your IP address, device ID, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us, and the referring site address.This information also includes your operating system or application, your location, and your activities voluntarily have submitted to us (for example, your email address). If you are accessing our third party Affiliate’s stores through the ipsy shopper app, this information is automatically collected, too.
 
   3. **Other Information We Receive About You.**
 
 As you might expect, we usually collect or receive information through our Site. But we also may collect information offline, and it's important to us that we preserve the privacy of your personal information both online and off. For example, if you call us to place an order, we ask for the shipping address needed to place that order. There are other ways we could learn of personal information offline, but this Privacy Policy doesn't try to predict all those methods. We just want you to know that we try to treat offline information collection, uses, and disclosures consistently with our online privacy practices.
 
-If you're not an ipsy member but we contacted you, then we may have received your contact information from one of your friends. An ipsy member may give us your name and email address so ipsy can send a personalized invitation to you to join ipsy. We also may send you personalized email ‘reminders' about ipsy from your friends. Similarly, an ipsy member may provide your personal information to us so we can ship a gift or other merchandise to you. We ask your contacts to share your personal information only with your permission.
+If you're not an ipsy member but we contacted you, then we may have received your contact information from one of your friends. An ipsy member may give us your name and email address so ipsy can send a personalized invitation to you to join ipsy. We also may send you personalized email ‘reminders' about ipsy from your friends. Similarly, an ipsy member may provide your personal information to us so we can ship a gift or other merchandise to you. We ask your contacts to share your personal information only with your permission, and you may unsubscribe from any commercial email you receive by following the direction contained at the bottom of the communication.
 
 Information we collect from you may be either personal or aggregate. Personal information is identifiable to you, like your name, email address, shipping and billing addresses, credit card information, and phone number. Aggregate information is summary data of the behaviors and interests of groups or categories, so it won't identify you.
 
@@ -141,7 +143,7 @@ Information we collect from you may be either personal or aggregate. Personal in
 
     2. **Personal Information.** We do not sell, rent, trade, license, or otherwise disclose your personal information to third parties, except in these limited circumstances:
 
-      1. **Disclosures to ipsy Agents, Consultants and Related Third Parties.** Like most Internet retailers, we use third parties to help ensure our business runs smoothly. We disclose your information to these third-party companies so they can perform their specific functions for us. For example, we may provide your name, shipping address, email and phone number to third-party shippers like the U.S. Postal Service and the United Parcel Service to deliver our products to you. We also may provide your credit card information to third-party credit card processors and issuers to help us process your orders from us. ipsy’s third party vendors may recognize a tracking code used by your browser or application to enable you to receive customized content, or to enable you to use other technologies such as tags and scripts. The tracking code may reflect de-identified demographic or other data linked to data you. When we employ other companies to perform functions of this nature, we only disclose the information that they need to perform their requested function. We do not authorize them to retain, share, store, or use personal information provided by us for any other purpose.
+      1. **Disclosures to ipsy Agents, Consultants and Related Third Parties.** Like most Internet retailers, we use third parties to help ensure our business runs smoothly. We disclose your information to these third-party companies so they can perform their specific functions for us. For example, we may provide your name, shipping address, email and phone number to third-party shippers like the U.S. Postal Service and the United Parcel Service to deliver our products to you. We also may provide your credit card information to third-party credit card processors and issuers to help us process your orders from us. ipsy’s third party vendors may recognize a tracking code used by your browser or application to enable you to receive customized content, or to enable you to use other technologies such as tags and scripts. The tracking code may reflect de-identified demographic or other data linked to data you. When we employ other companies to perform functions of this nature, we only disclose the information that they need to perform their requested function. We do not authorize them to retain, share, store, or use personal information provided by us for any other purpose. If you are using our ipsy shopper app, we may also disclose to our affiliates who operate the stores information about the frequency with which you visited the store or accessed a product, which may in turn result in you receiving an email or push notification about that product or service.
 
       2. **Disclosures Required by Law or Otherwise.** We may disclose your personal information if we believe, in good faith, that it's necessary to: (1) comply with a legal obligation such as in response to a court order or subpoena; (2) protect the safety of fellow ipsters or the public; (3) protect against legal liability; or (4) protect and defend ipsy's rights or property.
 
@@ -155,7 +157,7 @@ Information we collect from you may be either personal or aggregate. Personal in
 
   1. **Log Into Your Account.** You can change the personal information you provide to us and remove any content you post publicly on our Site, including reviews, looks and videos, by logging into your ipsy account and making the appropriate changes.
 
-  2. **Contact Us.** You can request that we take down any of your personal content on the Site by emailing us at [privacy@ipsy.com](mailto:privacy@ipsy.com). We will remove your public posts from view, but we may retain personal information about you solely for the purposes authorized under this Privacy Policy. For example, we may retain information to prevent, investigate, or identify possible wrongdoing in connection with the Site or to comply with legal obligations.
+  2. **Contact Us.** If you are unable to remove content you have posted publicly, you can request that we take down public posts on the Site by emailing us at [privacy@ipsy.com](mailto:privacy@ipsy.com). We will remove your public posts from view, but we may retain personal information about you solely for the purposes authorized under this Privacy Policy. For example, we may retain information to prevent, investigate, or identify possible wrongdoing in connection with the Site or to comply with legal obligations. If you do not want your profile information displayed, you may terminate your account.
 
   3. **Opt-Out.** You can always "opt-out" of having your personal information used for certain purposes. At your request, we will stop sending you certain emails or even deactivate your account to prevent any future purchases through it. You can submit these requests at any time by emailing us at [privacy@ipsy.com](mailto:privacy@ipsy.com).
 
@@ -172,7 +174,7 @@ At ipsy, we take data security seriously. We use technical, physical and adminis
 
 But please remember, while we use industry-standard precautions to safeguard your personal information, we can't guarantee absolute security. We wish we could, but 100% security just doesn't exist anywhere online or off.
 
-We respect children's privacy. This Site is not intended for persons under the age of 13 (see ipsy's Terms of Use). If you're under 18 years old, please do not submit any personal information to us without the consent and supervision of a responsible parent or legal guardian.
+We respect children's privacy. This Site is not intended for persons under the age of 13 (see ipsy's Terms of Use). If you're under 18 years old, you must have your parent/guardian’s permission to have an account and we ask that younot submit any personal information to us or post on our Site without the consent and supervision of a responsible parent or legal guardian.
 
 ipsy will retain your information as long as we deem necessary. If you no longer want ipsy to use your information to provide you Services, you may close your account. If you close your account then your profile and the content you posted to the Site will no longer appear on the Site.
 
@@ -181,4 +183,4 @@ You may inform us of any changes or requests in regards to your personal data, a
 We will post any changes and updates to this Privacy Policy on this Site so you can always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy periodically so you'll know if it has been changed or updated.
 
 _Created: January 1, 2012  
-Last Updated: September 21, 2015_
+Last Updated: October 21, 2016_
