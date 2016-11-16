@@ -1,94 +1,77 @@
-> *The following text is extracted and transformed from the alterian.com privacy policy that was archived on 2014-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140727140532id_/http%3A//www.sdl.com/aboutus/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alterian.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116175516id_/http%3A//www.alterian.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SDL
+# Privacy Policy - ALTERIAN
 
-  * In using our websites, SDL will ensure your privacy is protected. We will not sell your personal information and will only use it for internal purposes.
-  * We place various cookies on your browser enabling us to understand how you are using our websites and to learn how we can provide you with better experiences and offers that align with your needs. Some of the cookies are for third parties that help us advertise and measure the impact of our advertising. Cookies are important to the proper functioning of a site and rejecting them will negatively affect your web experience. Should you nonetheless decide to reject cookies please refer to our Cookie Policy page.
+**Last updated November 02, 2016**
 
+Alterian Software Holdings LLC, (“we”, “our”, “us”) operating as Alterian, are committed to protecting and respecting your privacy. This Privacy Policy, sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
 
+If you have any requests concerning your personal information or any queries with regard to these practices please contact our data manager via email at [privacy@alterian.com](mailto:privacy@alterian.com). Please note that all data thus captured will be used and held in accordance with the requirements of the Data Protection Act 1998.
 
-This privacy policy explains how SDL plc uses and protects the data provided to or collected through the SDL websites. The objective is to provide our visitors with a quality online experience whilst safeguarding your privacy. 
+**INFORMATION WE MAY COLLECT FROM YOU**
 
-By registering onto our website and providing certain information about yourself, SDL can use this information to provide a better experience to you. In using our websites, SDL will ensure your privacy is protected.
+We may collect and process the following personal data about you:
 
-* * *
-
-You are in control of the personal information you provide to SDL and you can: 
-
-  * Ask for a copy of your personal information 
-  * Ask for personal information to be corrected or updated
-  * Ask to remove your personal information from our records 
-
-
-
-The aim of our Privacy Policy is to explain the following: 
-
-  1. The type of information SDL collects from you and what this information is used for 
-  2. How this information is protected
+  * Information that you provide directly via our website, for example a request for information;
+  * Information that you provide when you enter a competition or promotion sponsored by us or third parties, and when you report any problem with our website;
+  * If you contact us, we may keep a record of that correspondence, including any phone number or email address you use;
+  * Information that you provide when completing surveys that we use for research purposes;
+  * Details of your usage of our website including, but not limited to, traffic data, location data, logs, error and crash reporting, and other communication data and the resources that you access;
+  * Information from any social network or other online accounts that you choose to share with us.
 
 
 
-When you access SDL websites, some information is automatically collected as specified below. No other information is collected through the SDL websites unless you deliberately decide to send it to us (e.g., by submitting a completed contact form), which is also specified below. 
+**USE OF PERSONAL INFORMATION**
 
-“Automatically Collected Information” means the following categories and specific information: 
+We process personal information for the purposes of:
 
-  * “Client Information”: the Internet domain, registered company (if applicable), GeoIP information, and IP address of the computer you are using. 
-  * “Essential Technical Information”: identification of the page or service you are requesting, type of browser and operating system you are using; and the date and time of access. 
-  * “Nonessential Technical Information”: the Internet address of the web site from which you linked directly to our web site, and the "Cookie Information" described below. Please read our Cookie policy for more information. 
-
-
-
-“Optional Information” includes the following information: 
-
-  * When responding to online forms or other questions or comment in a blog: any information entered into these forms, questions or blog comment fields. 
-  * When you register an account on the SDL websites: your name, e-mail address, and any additional information you provide as part of your registration. 
+  * providing you with our services;
+  * monitoring, analysing and improving those services;
+  * prevention of money-laundering, fraud & illegal activities, and the prosecution of offenders;
+  * direct-marketing of our products and services, advising you of news and industry updates, events, promotions and competitions, reports and other information and carrying out market research campaigns;
+  * providing you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
 
 
 
-This is all classified as personal information under applicable privacy and data protection laws. 
+**MARKETING**
 
-When you purchase a product or service, SDL will collect credit card information for invoicing purposes. This information is processed on behalf of SDL by a third party payment services provider. That provider and SDL use security techniques, including encryption and secure servers to protect you against unauthorised access. 
+We will not share identifiable personal data with third parties for the purposes of direct marketing without your explicit consent.
 
- **SDL Trados Studio Experience**
+We may use and disclose information in aggregate (so that no individuals are identified) for marketing and strategic development purposes.
 
-In the event that SDL customers or users join the online SDL Trados Experience Program which is an information system to help SDL improve upon the quality and performance of the SDL Trados Software, SDL will not collect the following information from you: 
+**USE OF COOKIES**
 
-  * Any content you process, neither in the source nor target languages with which you work 
-  * Any content from your translation memories or terminology databases 
-  * Your name, address or any other personally identifiable information
+In order to improve the website, we may use small files commonly known as “cookies”. A cookie is a small amount of data which often includes a unique identifier that is sent to your computer or mobile phone (referred to in this policy as a ‘device’) from the website and is stored on your device’s hard drive. Our use of cookies also allows certain users to be presented with a personalized version of the site.
+
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system information and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
+
+For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. We use cookies to identify you when you visit this website, keep track of your browsing patterns. They help us to improve our website and deliver a better and more personalised service.
+
+If you don’t want us to use cookies when you use the website, you can adjust your internet browser settings not to accept cookies. Your web browser’s help function should tell you how to do this.
+
+Alternatively, you can find information about how to do this for all the commonly used internet browsers on the website: [www.aboutcookies.org](https://web.archive.org/web/20161116175516id_/http://www.alterian.com/privacy-policy/www.aboutcookies.org), it also explains how you can delete cookies which are already stored on your device. Please note however that turning off cookies will restrict your use of our website.
+
+By continuing to use this website you are agreeing to the use of cookies as detailed above.
+
+**WHERE WE STORE YOUR PERSONAL DATA**
+
+The data we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or one of our suppliers. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+**DISCLOSURE OF YOUR INFORMATION**  
+We will only disclose data when obliged to disclose personal data by law, or the disclosure is ‘necessary’ for purposes of national security, taxation and criminal investigation, or we have your consent, and to the following:
+
+  * Other companies within our Group of companies;
+  * Business partners;
+  * Suppliers we engage to process data on our behalf;
+  * Successors in title to our business;
+  * If you give explicit permission to do so.
 
 
 
-SDL uses the information to provide, maintain, protect and improve the services it provides. We use this information to provide you with content tailored to your specific needs. 
+**ACCESS TO INFORMATION**
 
-When you contact SDL, we may keep a record of your communication to help resolve any issues that you may have. We may use your email address that you provide to inform you about our services but we will only do this if you consent to receiving updated information about our services.
+You have a right to access the personal data held about you or to obtain a copy of it. We may ask you to verify your identity and for more information about your request. To obtain a copy of the personal information we hold about you, please email [privacy@alterian.com](mailto:privacy@alterian.com). Alternatively you can write to us at Alterian, 1550 Wewatta Street, 2nd floor, Denver, CO 80202, USA.
 
-SDL also uses information collected from cookies and other technologies such as Google Analytics to improve your user experience and the general quality of our services. The collected information is used to learn about the usage patterns of visitors to our websites by collecting information about which individual webpages were visited, how long users visited the website, which websites referred the most visitors, general geographic location of visitors and other similar anonymous statistics. This data is used to deliver customized content and advertising within SDL websites to visitors whose behavior indicates that they are interested in a particular subject area. 
+**AMENDMENTS**
 
-In order to distinguish one visit from another, Google Analytics may create several tracking cookies on a visitor’s computer which will expire after two years have passed since the initial visit.
-
-SDL strives to protect your personal information to the highest level, for example by encrypting sensitive data using SSL. 
-
-SDL reviews the information it collects, stores and processes and implements physical security measures to guard against unauthorized access to systems.
-
-SDL restricts your personal information provided to its employees, contractors and agents who have a need to know that information in order to process it for SDL. Each employee, contractors or agent contractually obligated by SDL to keep the information received strictly confidential and will face severe penalties if they breach this obligation. 
-
-SDL ensures that its Privacy Policy is in compliance with all applicable privacy laws and regulations. 
-
-SDL complies with the US - EU Safe Harbor Framework and the US - Swiss Safe Harbor Framework as set by the U.S Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland and SDL has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program and to view SDL’s certification, please visit <http://www.export.gov/safeharbor>
-
-Please note that our Privacy Policy may change from time to time. This will not change your rights under this Privacy Policy without your express consent. 
-
-If you have any questions, comments or concerns about the Privacy Policy, please contact us as follows 
-
-FAO: Rebecca Thompson-Addo (Legal Team)   
-SDL plc   
-Globe House   
-Clivemont Road   
-Maidenhead   
-SL6 7DY   
-TEL: + 44 (0) 1628 760610   
-Fax: +44 (0) 1628 760611   
-Or by email at: tpsales@sdl.com 
-
-Last updated: April 2014
+Please note that this Privacy Policy is subject to change from time to time. It was last updated on the date shown at the top of this webpage.
