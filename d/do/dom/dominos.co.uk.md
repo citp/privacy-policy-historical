@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dominos.co.uk privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403215815id_/https%3A//www.dominos.co.uk/legal/content/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominos.co.uk privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116043902id_/https%3A//www.dominos.co.uk/legal/content/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Domino's Pizza
 
