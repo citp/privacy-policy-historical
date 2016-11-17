@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the augusta.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325190910id_/http%3A//www.augusta.com/masters/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the augusta.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117193418id_/http%3A//www.augusta.com/masters/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Masters
 
