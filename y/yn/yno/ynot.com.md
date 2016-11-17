@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the ynot.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609200909id_/http%3A//www.ynot.com/ynot-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ynot.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117023048id_/http%3A//www.ynot.com/ynot-com-privacy-policy) for the most accurate reproduction.*
 
-# YNOT » YNOT.com Privacy Policy
+# YNOT Privacy Policy | YNOT
 
-**YNOT.com Privacy Policy**  
-_Last Modified: November 17, 2010_
+**YNOT Privacy Policy**  
+_Last Modified: October 7, 2016_
 
-  
 This Privacy Policy applies to all of the products, services and websites (collectively, our “Services”) offered by YNOT Group, LLC or its subsidiaries or affiliated companies (collectively, “YNOT”). By using our Services and/or registering with YNOT, you acknowledge and accept the provisions in this Privacy Policy and grant YNOT permission to collect, store, and use the items of personal information described herein, so long as YNOT adheres to the standards set forth more clearly below.
 
 We reserve the right to amend this Privacy Policy at any time and provide such amendments to you by posting a revised version on our website. If the revised version includes a substantial change, we will provide you with thirty (30) days’ notice prior to the effectiveness thereof by posting notice of the change in a prominent place on the YNOT website, such as presenting to you a click-through page immediately following your account login. Otherwise, in the case of insubstantial changes, the revised version will be effective at the time we post it. In any event, we will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most changes will be minor. Each version of this Privacy Policy will be identified at the top of the page by its Last Modified date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
@@ -40,7 +39,7 @@ Use of Personal Information
 
 YNOT processes personal information only for the purposes described in this Privacy Policy. In addition to the reasons set forth above, such purposes also include:
 
-Providing our Services (which includes displaying customized advertising and other content); Auditing, research, and analysis (to maintain, protect, and improve our Services); Technical diagnostics (to ensure our network is functioning as expected); Protecting the rights or property of YNOT or our users, or third parties; Creating new Services; and Marketing and sales of advertising.
+Providing our Services (which includes displaying customized advertising and other content); Auditing, research, and analysis (to maintain, protect, and improve our Services); Technical diagnostics (to ensure our network is functioning as expected); Protecting the rights or property of YNOT or our users, or third parties; Creating new Services; to send you email announcements (which may include newsletters, special offers or transnational details); and Marketing and sales of advertising.
 
 YNOT processes personal information on our servers, which are located in the United States of America and in other countries. As a result, there exists the possibility that we may process your personal information on a server that is not located in your home country. In some cases, we may process personal information at the request of third parties and according to their instructions, such as our advertising partners. We will treat all personal information processed at the request of a third party exactly as if we had collected the processed personal information ourselves.
 
