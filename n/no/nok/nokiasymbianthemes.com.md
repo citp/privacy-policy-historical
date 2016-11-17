@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nokiasymbianthemes.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323174918id_/http%3A//www.nokiasymbianthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokiasymbianthemes.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117212145id_/http%3A//www.nokiasymbianthemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Nokia Symbian Themes Blog | Nokia Symbian Themes
 
@@ -218,7 +218,7 @@ Like many other Web sites, Nokia Symbian Themes makes use of log files. The info
 > 
 > Thanks again! Bye!
 > 
-> (Know what we mean? We hope you do 
+> (Know what we mean? We hope you do 🙂
 > 
 > Linking To Your Site and Others
 > 
