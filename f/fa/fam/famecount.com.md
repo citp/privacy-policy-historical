@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the famecount.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507020547id_/http%3A//www.starcount.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famecount.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117203432id_/http%3A//www.starcount.com/privacy-policy) for the most accurate reproduction.*
 
-# Starcount - Valuing The Significance Of Every Customer
+# Starcount - Bringing customers into the boardroom
 
 ## Privacy Policy
 
-Starcount manages a website and a range of mobile apps that enable fans to keep up with their favourite celebrities and brands on social media.
+Starcount. manages a website and a range of mobile apps that enable fans to keep up with their favourite celebrities and brands on social media.
 
 By connecting to our services we help you view your favourite stars’ most interesting social updates and news, from multiple sources, all in one place. We also keep track of your activities on social media to let you know how devoted a fan you are of your favourite stars. And our services also track the stars and brands themselves – ranking them and creating charts based on their social popularity and trends. We also operate business to business analytics services for brands, marketing agencies and others that use all the data we collect
 
-This Privacy Policy explains how Starcount collects, uses, discloses and processes your personal data. By visiting the Starcount website or applications, authenticating with us or registering with us, or otherwise being provided an opportunity to view this Privacy Policy, you accept and consent to the terms of this Privacy Policy.
+This Privacy Policy explains how Starcount. collects, uses, discloses and processes your personal data. By visiting the Starcount. website or applications, authenticating with us or registering with us, or otherwise being provided an opportunity to view this Privacy Policy, you accept and consent to the terms of this Privacy Policy.
 
-The data controller in respect of your personal data collected in accordance with this Privacy Policy is Starcount Ltd (company number: 08004810) whose principal place of business is at Henry Wood House, 2 Riding House Street, London W1W 7FA
+The data controller in respect of your personal data collected in accordance with this Privacy Policy is Starcount. Ltd (company number: 08004810) whose principal place of business is at Henry Wood House, 2 Riding House Street, London W1W 7FA
 
 ### Collection of personal data
 
@@ -100,7 +100,7 @@ Inform you of other products, which we think may be of interest to you (in the c
 
 You may always opt out of such communications by following the instructions on those messages or (where the contact is through a Social Network) through revoking your connection with our applications.
 
-WE WILL NEVER USE, NOR SHARE YOUR INFORMATION FOR THE PURPOSES OF BULK UNSOLICITED MAIL SENT BY PARTIES UNCONNECTED TO Starcount OR ITS PARTNERS.
+WE WILL NEVER USE, NOR SHARE YOUR INFORMATION FOR THE PURPOSES OF BULK UNSOLICITED MAIL SENT BY PARTIES UNCONNECTED TO Starcount. OR ITS PARTNERS.
 
 ### Other personal data
 
