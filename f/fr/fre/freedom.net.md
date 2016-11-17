@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedom.net privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522120226id_/http%3A//www.radialpoint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedom.net privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117105145id_/http%3A//www.radialpoint.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Radialpoint
 
@@ -72,7 +72,7 @@ If an agent takes remote control over your device, he or she may have access to 
 
 As part of our premium technical support services, we may also provide you with our mobile application. In order for it to function properly, the following permissions will be requested from your OS: internet connection, receive notification that the boot is completed, read the state of your mobile device, access network information, manage the list of accounts (e.g. Google, Facebook, etc.), access those accounts, use tokenised account credentials, access Bluetooth and fine location (whether through wi-fi, GPS or other means), access wi-fi information, as well as read low-level logs on the device. The above list refers to permissions requested by our app from the OS. However, only the following information will be collected and processed by us: access points (APN), default browser, hardware data (memory, CPU, internal storage size and external storage size), operating system version, settings (full disk encryption, USB debugging, etc.), installed software (including installation data, last time run and version number), average running process, Bluetooth status, wi-fi status, as well as start-up applications.
 
-## Security Services
+### Security Services
 
 As part of our security services, if made available to you, we may, from time to time, send to your device(s) a file containing an updated list of viruses or other malicious software and codes.
 
