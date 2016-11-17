@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kob.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619001100id_/http%3A//www.kob.com/article/stories/s409183.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kob.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117185916id_/http%3A//www.kob.com/pages/inside-kob/privacy-policy.shtml) for the most accurate reproduction.*
 
-# KOB-TV Privacy Policy | KOB.com
+# Privacy Policy | KOB.com
+
+###  Privacy Policy
 
 This is the Privacy Policy for the Hubbard Broadcasting ("Station") website. Your privacy is important to us, and we provide this Privacy Policy regarding our online collection, use and disclosure practices to help you to make informed decisions regarding use of this website, and exercising choices regarding our collection, use and disclosure of the personal information about you from this website.
 
@@ -10,7 +12,7 @@ This Privacy Policy is incorporated by reference into and is subject to the term
 
 At the Station website, you may review content, enter our various sweepstakes and contests, link to our Facebook, Twitter or Instagram pages by liking or following us, along with a variety of other functions. In providing these offerings on our website, we may collect: your age, gender, email address, zip code, and any other information you submit to us (example: your name), such as by emailing us, filling out a user profile, or entering a sweepstakes or contest. We also collect certain non-personally identifiable information when you visit our website, such as such as the type of browser you are using (e.g., Chrome, Safari, etc.), the type of operating system you are using (e.g., Windows or Mac OS), the domain name from which you receive internet access, and aggregate information regarding what pages you access or visit.
 
-**Collection Of Information By** **Third Party** **Sites, Sale Partners and Sponsors**
+**Collection Of Information By  ** **Third Party** **  Sites, Sale Partners and Sponsors**
 
 Some of our website contains links to other sites whose information practices may be different than ours. We encourage you to consult the other sites’ privacy policies, as we have no control over information that is submitted to, or collected by, these third parties. To try to bring you advertising that is of interest to you, we have relationships with reputable third parties that we allow to present or serve advertisements on our site. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. Our Privacy Policy does not cover any use of information that a third party ad server may collect from you. We sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the website activity. We have no control over such third parties’ use of this information. The site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
 
@@ -48,7 +50,7 @@ We encourage you to check back to this Privacy Policy periodically and review th
 
 **Notice Regarding Nielson Market Research and Measurements**
 
-Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, such as Nielsen TV Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, see the Nielsen Digital Measurement Privacy Policy at <http://www.nielsen.com/digitalprivacy>. To opt-out or opt back into Nielson Measurement, [click here](http://www.nielsen.com/digitalprivacy).
+Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, such as Nielsen TV Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, see the Nielsen Digital Measurement Privacy Policy at <http://www.nielsen.com/digitalprivacy>. To opt-out or opt back into Nielson Measurement, [click here](http://www.nielsen.com/digitalprivacy).
 
 **How to Contact Us**
 
