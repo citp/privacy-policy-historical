@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the circleci.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505102227id_/http%3A//www.circleci.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circleci.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117204651id_/http%3A//circleci.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CircleCI
 
@@ -101,7 +101,7 @@ Although most changes are likely to be minor, CircleCI may change its Privacy Po
 If you have questions or concerns about this Privacy Policy, please contact us at:
 
 Circle Internet Services, Inc.  
-555 Market Street, 15th Floor  
+201 Spear Street, Ste 1200  
 San Francisco, CA, 94105  
 Phone: +1-800-585-7075  
 Fax: +1-415-358-4017  
