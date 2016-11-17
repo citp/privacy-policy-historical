@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 9minecraft.net privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605182429id_/http%3A//www.9minecraft.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9minecraft.net privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117142553id_/http%3A//www.9minecraft.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 9Minecraft | World of Minecraft
+# Privacy Policy - 9Minecraft.Net
 
 **Do we use cookies?**
 
