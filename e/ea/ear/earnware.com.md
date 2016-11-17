@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the earnware.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619002859id_/http%3A//www.earnware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earnware.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117170023id_/http%3A//www.earnware.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Earnware
+# Privacy Policy – Earnware
 
 Applicable to and including all websites related to, owned by or registered to this Publisher:
 
@@ -12,15 +12,15 @@ By accessing this Site, you are consenting to the information collection and use
 
 IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, THE ACCEPTABLE USE POLICY OR THE TERMS OF USE PROVIDED ON THIS SITE, PLEASE DO NOT PROVIDE ANY INFORMATION TO THIS PUBLISHER OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON ANY OF THE WEBSITES REFERRED TO IN THIS PRIVACY POLICY.
 
-**Changes to Privacy Policy:**
+ **Changes to Privacy Policy:**
 
 This Privacy Policy changes from time to time and changes are effective upon posting. It is your sole responsibility to periodically review this policy for updates and you are solely responsible to be aware of any changes to this and all posted policies on this website. This Publisher does not provide notices of any changes in any manner other than by posting the changes at this website.
 
-**Information Collection, Use, and Dissemination Practices:**
+ **Information Collection, Use, and Dissemination Practices:**
 
 This policy applies to Publisher’s collection, use, storage and disclosure of information by Publisher (a) on its websites, including all its divisions, subsidiaries and related companies (collectively, the “Websites”), (b) on various third-party websites, and (c) to Publisher’s other information collection, including the purchase of customer lists from third parties, or the use of customer lists from third-parties. The Publisher is not responsible for the information collection or privacy practices of third party-websites or applications.
 
-**1\. Collection of Information.**
+ **1\. Collection of Information.**
 
 1.1. User Direct Information:
 
@@ -60,7 +60,7 @@ Publisher will never knowingly collect any personal information about children u
 
 Publisher may, in certain instances, collect credit card numbers and related information when an individual places an order from Publisher. When the credit card information is submitted to Publisher, such information is encrypted and is protected with SSL encryption software. Publisher will use the credit card information for purposes of processing and completing the purchase transaction, and the credit card information will be disclosed to third-parties only as necessary to complete the purchase transaction.
 
-**2\. Use of Individual Information**
+ **2\. Use of Individual Information**
 
 The following section describes how Publisher uses personal information. The uses described in these sections may change at any time. Publisher may also broaden its use of your personal information. Publisher may also use your personal information to provide commercial promotional offers to individuals or entities through, among other things, email advertising, telephone marketing, direct mail marketing, banner advertising, SMS mobile and text messaging.
 
@@ -80,7 +80,7 @@ Publisher uses your information to make and improve profiles of you and to track
 
 Publisher stores your information in a database on Publisher’s servers. Our servers have security measures (such as a firewall) in place to protect against the loss, misuse, and alteration of the information under Publisher’s control. Notwithstanding such measures, Publisher cannot guarantee that its security measures will prevent Publisher computers from being illegally accessed, and your information from being stolen or altered, and Publisher expressly disclaims responsibility or liability in the event of any damage resulting from such illegal activity by others.
 
-**3\. Use of Personal Information.**
+ **3\. Use of Personal Information.**
 
 3.1. Sale or Transfer to Third-Parties:
 
@@ -106,7 +106,7 @@ Publisher will transfer your personal information to third-parties when necessar
 
 Publisher may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons.
 
-**4\. Privacy Practices of Third-Parties**
+ **4\. Privacy Practices of Third-Parties**
 
 4.1. Advertiser cookies and web beacons:
 
@@ -116,11 +116,11 @@ Advertising agencies, advertising networks, and other companies who place advert
 
 The Websites and email messages sometimes contain hypertext links to the websites of third-parties. Publisher is not responsible for the privacy practices or the content of such other websites. Linked Websites may contain links to websites maintained by third-parties. Such links are provided for your convenience and reference only. Publisher does not operate or control in any respect any information, software, products or services available on such third party websites. The inclusion of a link to a website or to an article or blog on a website does not imply any endorsement of the services or the site, its contents, or its sponsoring organization.
 
-**5\. SMS, Wireless and Other Mobile Offerings:**
+ **5\. SMS, Wireless and Other Mobile Offerings:**
 
 Some of the services that we provide may result in sending an SMS, wireless or other mobile offering to your cell phone. These should be obvious in the context of the offering at the time you sign up. By signing up, you are agreeing to receive these mobile offerings. You understand that your wireless carrier’s standard rates apply to these messages. To unsubscribe or discontinue SMS messages, send “STOP”, “END”, “QUIT” to the SMS text message you have received. This process impacts only the future delivery of the particular SMS message offering, so you must send that message for each offering. This will not affect offerings sent on behalf of third-parties.
 
-**6\. User Consumer Rights**
+ **6\. User Consumer Rights**
 
 For more information about protecting your privacy, you may wish to visit: [http://www.ftc.gov](http://www.ftc.gov/)  
 **SERVICE SUBSCRIPTION & EXPRESS CONSENT TO RECEIVE PHONE CALLS OR MESSAGES.**
