@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ellad2.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323163518id_/https%3A//ellad2.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellad2.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117164047id_/https%3A//ellad2.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Beading Tutorials and Patterns by Ellad2
 
@@ -12,11 +12,11 @@ If you choose to give me personal information that I may need to correspond with
 
 Information collected by Ellad2.com is used internally by authorized Ellad2.com employees for three main purposes. First, we collect information to determine how to improve our site by seeing which areas, features and products are most popular. Second, we collect information in order to personalize the site for my customers. For example, in the future, I may recommend products or features you may like based on what you have liked in the past. Lastly, we keep track of the domains from which people visit us. We analyze this data for trends and statistics, and then we discard it. **I do not sell, rent, share, loan, or transfer any personal information regarding my customers or subscribers to any third parties.**
 
-**Cookies**  
+ **Cookies**  
 There are various technologies, including one called “cookies”, which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. Some Ellad2.com pages ( for example Paypal) use cookies or other technologies so that we can better serve you when you return to our site. For example, we use these cookies for your shopping carttrack your clicks as you go through the Ellad2 site, to keep track of items you put into your shopping cart, to tell us whether you have visited Ellad2.com previously, and to help us determine whether you came to Ellad2.com from a particular Internet link or banner advertisement. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
 
-**Security**  
+ **Security**  
 The Ellad2.com website is hosted on a secure server. All information is stored on secure servers behind a firewall designed to deny unauthorized access.
 
-**Changes to this document**  
+ **Changes to this document**  
 Changes to this document may be made time to time without warning. Ellad2 may or may not notify you of changes in this policy. Any changes made will be posted here.
