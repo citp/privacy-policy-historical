@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happythreads.ie privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505162122id_/http%3A//www.happythreads.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happythreads.ie privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117062601id_/http%3A//www.happythreads.ie/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Happythreads
 
