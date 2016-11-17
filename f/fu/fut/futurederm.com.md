@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futurederm.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413050907id_/https%3A//www.futurederm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurederm.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117221824id_/https%3A//www.futurederm.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FutureDerm
 
@@ -12,13 +12,13 @@ Email marketing (if applicable): With your permission, we may send you emails ab
 
 ### SECTION 2 – CONSENT
 
- ** _How do you get my consent?_**
+**_How do you get my consent?_**
 
 When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
 
 If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
- ** _How do I withdraw my consent?_**
+**_How do I withdraw my consent?_**
 
 If after you opt-in, you change your mind, you may withdrawing your consent for us to contact you, for the continued collection, use or disclosure of your information, at any time, by [contacting us](https://www.futurederm.com/contact-us/) or mailing:
 
