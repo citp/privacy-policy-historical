@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birthdaymessages.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604135313id_/http%3A//www.birthdaymessages.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdaymessages.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117171125id_/http%3A//www.birthdaymessages.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
