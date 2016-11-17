@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the gamedev.net privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314205818id_/http%3A//www.gamedev.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamedev.net privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117232320id_/https%3A//www.gamedev.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - GameDev.net
 
   
 
+
+## Privacy Policy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
 
