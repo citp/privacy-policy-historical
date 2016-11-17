@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lamudi.com.ph privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615231622id_/http%3A//www.lamudi.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lamudi.com.ph privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117053845id_/http%3A//www.lamudi.com.ph/privacy-policy) for the most accurate reproduction.*
 
 # Lamudi.com.ph - Privacy policy
 
@@ -72,7 +72,7 @@ We have in place appropriate technical and security measures to prevent unauthor
 
 ## Your rights
 
-If you are concerned about your data you have the right to request access to the personal data which we may hold or process about you. You have the right to require us to correct any inaccuracies in your data free of charge. At any stage you also have the right to ask us to stop using your personal data for direct marketing purposes. Lamudi.com.ph, 3rd Floor Salustiana D. Ty Tower, 104 Paseo de Roxas corner Perea St. Makati City 1229. 
+If you are concerned about your data you have the right to request access to the personal data which we may hold or process about you. You have the right to require us to correct any inaccuracies in your data free of charge. At any stage you also have the right to ask us to stop using your personal data for direct marketing purposes. Lamudi.com.ph, 9th Floor, Rufino Tower Building, 6784 Ayala Ave. cor. V.A. Rufino St., Makati City, 1229 Philippines 
 
 ## General
 
