@@ -1,150 +1,165 @@
-> *The following text is extracted and transformed from the firstgreatwestern.co.uk privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411222105id_/https%3A//www.gwr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstgreatwestern.co.uk privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117164319id_/https%3A//www.gwr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Great Western Railway
 
-Great Western Railway is committed to the privacy of all visitors to the Great Western Railway website – [www.gwr.com](http://www.gwr.com/) – and the protection of any personal information you give us. We believe it’s important for you to know how we treat information about you that we receive from this website ('site') and how we carry out data processing practices, through the use of the internet and any other electronic communications networks. Please read the following privacy policy to understand how we use and protect the information you give us or how we may use and protect it in the future.
+[ Great Western Railway](https://web.archive.org/) ( **"GWR", "we" or "us"** ) is committed to protecting and respecting your privacy.
 
-By registering for any services on this site or by providing any information to us, you consent to the collection, use and transfer of your information under the terms of this policy.
+We set out here the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we treat it. By visiting [www.GWR.com](https://web.archive.org/) (" **our site** ") you are accepting and consenting to the practices described in this policy.
 
-##  Information we collect from you
+Any information provided to or gathered from our site in the course of providing services to you is controlled by First Greater Western Limited trading as Great Western Railway. We are registered as a data controller in the United Kingdom with the Information Commissioner’s Office under registration number Z9382315. 
 
-In general, you can visit this site without telling us who you are or giving us any information about yourself. Our web server collects the IP address. Our website uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files allow DoubleClick to recognise a unique cookie on your web browser, which in turn, let us know which adverts to show you. The cookie was placed by us, or by another advertiser who works with DoubleClick.
+* We may collect and process the following information about you. Where we ask you to provide us with any additional information, it will only be mandatory where we need it in order to provide you with the services you have requested – other information will be optional.
 
-With both cookies and Spotlight technology, the information we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address.
+a)    **Information you give to us** : You may give us information about you by filling in forms on our site or by corresponding with us by phone, email or otherwise.  This includes information you provide when you register to use our site,  buy train tickets, enter a competition, promotion or survey and when you report a problem with our site.  The information you give us may include your name, address, landline or mobile telephone numbers, fax number, email address and company name, date of birth, photo card ID information, travel preference information, credit or debit card information, booking reference details, contact information relating to how you’d like to be contacted by us and/or selected third parties and departure point and destination details when buying tickets.
 
-There are parts of this site where personal information may need to be collected from you for a specific purpose, like sending you information you’ve asked for – or to allow you to buy train tickets. 
+b)     **Information we collect about you.** On each of your visits to our site we may automatically collect the following information:
 
-The information collected from you may include but is not limited to your:
+(i)     technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and version, operating system and platform; 
 
-  * name, address, landline or mobile telephone numbers, fax number, email address and company name 
-  * date of birth
-  * credit or debit card information
-  * booking reference details
-  * contact information relating to how you’d like to be contacted by us and/or selected third parties
-  * departure point and destination details when buying tickets
+(ii)    information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time), products you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, click and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number;
 
+(iii)   advertising information via pixels, or transparent GIF files. These GIF files are provided by our ad management partner, DoubleClick. These files allow DoubleClick to recognise a unique cookie on your web browser, which in turn, let us know which adverts to show you. The cookie was placed by us, or by another advertiser who works with DoubleClick. This information is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address.
 
+c)   **Information we receive from other sources.** We may receive information about you if you use any of the other websites we operate or the other services we provide. We are also working closely with third parties, (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
 
-We may:
+d)   **Google Analytics.** Our Site uses Google Analytics, a web analytics service provided by Google, Inc (" **Google** "). Google Analytics uses cookies (text files placed on your computer) to help the website operators analyse how users use our Site. The information generated by the cookie about your use of the Site (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of our Site, compiling reports on website activity for internet operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. By using our Site, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-  * offer contests and other promotional activities that may require online registration – if you wish to take part you’ll be asked to provide certain personal information
-  * offer you the chance to receive email updates and announcements about our services and special offers
-  * collect information about you from emails, letters, telephone calls, customer satisfaction forms and other forms of contact
-  * collect information automatically about your visit to our Site
+* Our policy is not to require you to share sensitive personal data with us, but we may ask you to do so from time to time on a voluntary basis. If you choose to do so, this means you have given (and we accept) your explicit consent for us to use that information for the reasons described in this policy, or as explained at the time you provide the information. Sensitive personal data is data relating to race or ethnic origin, political opinion, religious or other similar beliefs, trade union membership, physical or mental health, sexual life, the commission or alleged commission of an offence or proceedings relating to any offence or alleged offence. 
 
+###  Cookies
 
-
-We encourage visitors to the site to contact us with questions and comments. Email addresses and other information may also be collected to allow us to reply. 
-
-You will find it is not compulsory to provide us with any additional information we request which is not necessary or reasonable in order to provide you with the services you have requested. 
-
-Furthermore, please note our policy is not to ask for sensitive personal data – that is, data relating to: 
-
-  * race or ethnic origin
-  * political opinion
-  * religious or other similar beliefs
-  * trade union membership
-  * physical or mental health
-  * sexual orientation
-  * criminal records 
-
-
-
-We recommend you do not provide information such as this to us. If you choose to do so for any reason, this means you have given (and we accept) your explicit consent for us to use that information for the reasons described in this policy, or as explained at the time you provide the information.
-
-##  Use of information collected
-
-IP address information is not used to personally identify you and instead is aggregated to measure the number of visits, average time spent on the site and pages viewed. We use this information to measure the use of our site and to improve its content. 
-
-When other personal information, such as your name and email address, is collected from you with your consent (for example, through the use of on-line forms or via email) we try to let you know at the time of collection how this will be used. We may also use the personal information you provide or which we collect via this site for the purposes of:
-
-  * providing goods or services 
-  * billing you and contacting you about your orders
-  * responding to your inquiries or to process your requests in relation to your information
-  * providing and personalising our services generally
-  * administering records of our subscription services
-  * carrying out market research campaigns
-  * maintaining information as a reference tool or general resource
-  * making the site easier for you to use and providing you with access to all parts of the site 
-
-
-
-Except with your permission or as provided herein, we will not sell, trade or rent personal information about you to unaffiliated third parties.
-
-We may also use and disclose information in aggregate (so that no individuals are identified) for marketing and strategic development purposes or use and analyse the information we collect so that we can administer, support, improve and develop our business. 
-
-In particular, we may use your information to contact you for your views on our services and to let you know about important changes or developments to the site or our services. Further we might also use your information to contact you by post, telephone, fax, SMS or by email (where you have consented to us doing so) to let you know about other products and services that:
-
-  * we offer and feel may be of interest
-  * are offered by other companies within Great Western Railway Limited
-  * are offered jointly with or on behalf of other organisations
-
-
-
-If you change your mind about being contacted in the future, please let us know. 
-
-By using the site you consent to us using your personal information for the purposes described above.
-
-## Use of cookies
-
-Our website uses cookies. Below are the cookies we use and why
-
-**DoubleClickID** : This is an anonymous, unique identifier used to track how successful our advertising is. The cookie allows the devices IP address to be sent to a website, but it doesn’t store the IP address or any other personal data. This is a third party cookie.
-
-**WT_FPC** :  The purpose of this cookie is to identify the visitor and the session to allow us to track usage of our websites so we can improve them. Data contained in the cookie includes a visitor ID which is anonymous, the time of start and end of the visit. This is a first party cookie. 
-
-**SC_ANALYTICS_GLOBAL_COOKIE** : This cookie is used to identify how visitors use our site. We use the information to compile reports and to help improve the site. The data is collected in an anonymous form. 
-
-##### How to control and delete cookies
-
-If you wish to restrict or block the cookies which are set by Great Western Railway, or indeed any other website, you can do this through your browser settings. The “Help” function within your browser should tell you how.
-
-Alternatively, you may wish to visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies.
-
-Please be aware that restricting cookies may impact on the functionality of the Great Western Railway website.
-
-##  Disclosures
-
-The information you provide to us will be held on our server in the United Kingdom and may be accessed by or given to our staff and to third parties including our group companies and business partners (such as our web agency, database management company and, government bodies and law enforcement agencies, successors in title to our business and suppliers we engage to process data on our behalf, who act for us for the purposes set out in this policy or for other purposes approved by you. Those parties process information, fulfil and deliver orders, process credit card payments and provide support and other services on our behalf. We may also:
-
-  * disclose personal information you have provided through our site to persons or companies that we retain to carry out promotions and other activities for which you have registered or in which you have otherwise asked to participate
-  * pass aggregate information on the usage of our site (e.g. we might disclose the median ages of visitors to our site, or the numbers of visitors to our site that come from different geographic areas) to third parties but this will not include information that can be used to identify you personally
-  * allow carefully selected third parties, including other companies in our group, to contact you occasionally about products and services which may be of interest to you (where you have consented to us doing so). They may contact you by post, telephone or fax, as well as by email. If you change your mind about being contacted by these companies in the future, please let us or them know
-
-
-
-Finally, if our business enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners.  
+* Our site uses cookies. Cookies are text files containing small amounts of information which are downloaded to your personal computer, mobile or other device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user's device. Cookies in themselves do not identify you, just the computer or device you are using. Cookies do lots of different jobs, like making it easier for you to log on to and use our site during future visits, letting you navigate between pages efficiently, remembering your preferences, and generally improving the user experience. They also allow us to monitor traffic on our site and can also help to ensure that adverts you see online are more relevant to you and your interests. 
   
-Countries outside the European Economic Area do not always have strong data protection laws. However, we will always take steps to ensure that your information is used by third parties in accordance with this policy.
 
-Unless required to do so by law, we will not otherwise share, sell or distribute any of the information you provide to us without your consent.
+* Cookies themselves only record which areas of our site have been visited by your computer or device and for how long. Allowing us to create a cookie does not give us access to the rest of your computer.
+  
 
-##  Users aged 16 and under
+* Below are the cookies we use and why: 
 
-If you are aged 16 or under, please get your parent or guardian's permission before you provide any personal information to us. Users without this consent are not allowed to provide us with personal information.
+a)   **DoubleClickID** : This is an anonymous, unique identifier used to track how successful our advertising is. The cookie allows the devices IP address to be sent to a website, but it doesn’t store the IP address or any other personal data. This is a third party cookie.
 
-##  Other websites
+b)   **WT_FPC** :  The purpose of this cookie is to identify the visitor and the session to allow us to track usage of our site so we can improve them. Data contained in the cookie includes a visitor ID which is anonymous, the time of start and end of the visit. This is a first party cookie. 
 
-Our site may contain links to other webs that are outside our control and are not covered by this Privacy Policy. If you access other websites using the links provided, the operators of these websites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
+c)    **SC_ANALYTICS_GLOBAL_COOKIE** : This cookie is used to identify how visitors use our site. We use the information to compile reports and to help improve the site. The data is collected in an anonymous form. 
 
-## Data retention, security of information collected, internet based transfers and disclaimer
+* With most Internet browsers, you can erase or block cookies or ask to receive a warning before a cookie is stored. The “Help” function within your browser should tell you how. Alternatively, you may wish to visit [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies.
+  
 
-We will retain your information for a reasonable period or as long as the law requires. In accordance with the UK's Data Protection Act 1998, we employ strict physical, electronic and administrative security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage both on-line and off-line.
+* Please be aware that restricting cookies may have a negative impact on the functionality of our site. 
 
-Given that the Internet is a global environment, using the Internet to collect and process personal information necessarily involves the transmission of data on an international basis. Therefore by browsing this site and communicating electronically with us, you acknowledge and agree to our processing of personal information in this way.
+### Uses made of the information
 
-Whereas Great Western Railway employs reasonable measures to protect against viruses and other harmful components, the nature of the internet is such that it is impossible to ensure that your access to the site will be uninterrupted or error-free, or that this s its servers or emails which may be sent by us are free of viruses or other harmful components.
+* We use the information held about you in the following ways: 
 
-The contents of this site are designed to comply with the general obligations of the European Directives on Data Protection and E-Privacy. We cannot be responsible for non-compliance with any local advertising or other laws in relation to this site or its contents. 
+a)   **Information you give to us.** We will try to let you know at the time of collection how this information will be used. We will use this information to:
 
-##  Accessing and updating
+(i)     Carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us including billing you and contacting you about your orders.
 
-Under the Data Protection Act 1998, you are entitled to see the personal information we hold about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to correct or update the personal information that you have provided to us of if you choose to opt out of any communications that you may have initially agreed to receive, please contact us by email on [gwrfeedback@gwr.com](mailto:gwrfeedback@gwr.com) using the contact details provided at the [Contact us](https://web.archive.org/customer-service/contact) page. We are entitled by law to charge a small administrative fee to meet our costs in providing you with details of the information we hold about you and we may require proof of your identity before we supply the information to you.
+(ii)    Respond to your inquiries or to process your requests in relation to your information.
 
-##  Contacting us
+(iii)   Let you know about important changes or developments to the site or our services.
 
-If you have any comments, queries or requests relating to our use of your personal information or any questions about this privacy policy - you can get in touch using the details provided on our [Contact Us](https://web.archive.org/customer-service/contact) page.
+(iv)   Provide and personalise our services generally.
 
-##  Changes to this Policy
+(v)    Administer records of our subscription services.
 
-Great Western Railway reserves the right to revise or supplement this Privacy Policy from time to time. You should bookmark and periodically review this page to ensure that you are familiar with the most current version of this Privacy Policy and so you are aware of what information we collect, how we use it and under what circumstances we disclose it.
+(vi)   Carry out market research campaigns.
+
+(vii)   Provide you with information about other goods and services we offer that are similar to those that you have already purchased or  enquired about.
+
+(viii)  Provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you.
+
+(ix)   Contact you by post, telephone, fax, SMS or by email (where you have consented to us doing so) to let you know about other products and services that we offer and feel may be of interest, are offered by other companies within the FirstGroup plc group of companies or are offered jointly with or on behalf of other organisations. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data.
+
+(x)    Ensure that content from our site is presented in the most effective manner for you and for your computer, making the site easier for you to use and providing you with access to all parts of the site.
+
+b)    **Information we collect about you.** We will use this information to:
+
+(i)     Administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes.
+
+(ii)    Improve our site to ensure that content is presented in the most effective manner for you and for your computer.
+
+(iii)   Allow you to participate in interactive features of our service, when you choose to do so.
+
+(iv)   Keep our site safe and secure.
+
+(v)    Measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you.
+
+(vi)   Make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.
+
+c)    **Information we receive from other sources.** We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).
+
+### Disclosure of your information
+
+* We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+  
+
+* Except with your permission or as provided herein, we will not sell, trade or rent personal information about you to unaffiliated third parties. Unless required to do so by law, we will not otherwise share, sell or distribute any of the information you provide to us without your consent.
+  
+
+* The information you provide to us will be held on our server in the United Kingdom and may be accessed by or given to our staff.
+  
+
+* We may share your information with selected third parties including: 
+
+a)  Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.
+
+b)  Analytics and search engine providers that assist us in the improvement and optimisation of our site.
+
+c)  Other rail industry bodies including the Office of Rail and Road, other Rail Operators, Network Rail, Transport Focus and LondonTravelWatch, in order to comply with our regulatory obligations and to help resolve complaints or other issues.
+
+d)   Agents ~~that~~ we engage to perform functions on our behalf including fulfilling order deliveries, sending customer communications, analysing data, providing marketing assistance, processing payments and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
+
+* We may disclose your personal information to third parties:
+
+a)  In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+
+b)  If GWR or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+
+c)   If GWR enters into a joint venture with another business entity.
+
+d)  Where we operate a rail franchise we do so under arrangements with the Secretary of State for Transport and the franchise operations may pass to a successor operator. We may disclose your data to the relevant franchising authority or any successor operator and any successor operator may process your data in the same manner as we would be permitted.
+
+e)  We may allow carefully selected third parties, including other companies in our group, to contact you occasionally about products and services which may be of interest to you (where you have consented to us doing so). They may contact you by post, telephone or fax, as well as by email. If you change your mind about being contacted by these companies in the future, please let us or them know.
+
+f)   Where we retain third parties to carry out promotions and other activities for which you have registered or in which you have otherwise asked to participate.
+
+g)  If we are under a duty to disclose or share your personal data in order to comply with any legal or regulatory obligation, or in order to enforce or apply our [terms and conditions](https://www.gwr.com/terms-and-conditions) and other agreements or to protect the rights, property, or safety or GWR, our customers, our staff or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+* The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (" **EEA** "). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your information, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your information is treated securely and in accordance with this policy.
+  
+
+* We may also pass aggregate information on the usage of our site (e.g. we might disclose the median ages of visitors to our site, or the numbers of visitors to our site that come from different geographic areas) to third parties but this will not include information that can be used to identify you personally.
+  
+
+* All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. You should not share this information with anyone.
+  
+
+* Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your information, we cannot guarantee the security of your information transmitted to our site; any transmission is at your own risk. 
+
+### Your rights
+
+* If you are aged 16 or under, please get your parent or guardian's permission before you provide any personal information to us. Users without this consent are not allowed to provide us with personal information.
+  
+
+* Our site may contain links to other websites that are outside our control and are not covered by this Privacy policy. If you access other websites using the links provided, the operators of these websites may collect information from you which will be used by them in accordance with their Privacy policy, which may differ from ours.
+  
+
+* We will retain your information for a reasonable period or as long as the law or regulation requires. In accordance with the UK's Data Protection Act 1998, we employ strict physical, electronic and administrative security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage both on-line and off-line.
+  
+
+* The contents of this site are designed to comply with the general obligations of the European Directives on Data Protection and ePrivacy. We cannot be responsible for non-compliance with any local advertising or other laws in relation to this site or its contents. 
+  
+
+* You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us by email on [GWRfeedback@GWR.com](mailto:GWRfeedback@GWR.com).
+  
+
+* Under the Data Protection Act 1998 you are entitled to see the personal information we hold about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. 
+
+### Changes to our Privacy policy
+
+* Any changes we make to this Privacy policy in the future will be posted on this page. You should bookmark and periodically review this page to ensure that you are familiar with the most current version of this Privacy policy.
+
+### Contacting us
+
+* If you have any comments, queries or requests relating to our use of your personal information or any questions about this Privacy policy you can get in touch using the details provided on our [Contact Us page](https://web.archive.org/help-and-support/contact).
