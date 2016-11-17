@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the faithandfacts.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053632id_/http%3A//www.faithandfacts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faithandfacts.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117042122id_/http%3A//www.faithandfacts.com/privacy-policy) for the most accurate reproduction.*
 
 # Faith and Facts » Faith and Facts
 
 ## [Privacy Policy](http://www.faithandfacts.com/privacy-policy/)
 
-**My Blog** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
+Welcome to Faith and Facts. Hope you enjoy your stay.
+
+ **My Blog** takes your privacy seriously. This [privacy policy](http://www.faithandfacts.com/privacy-policy-2/) describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
 ## Routine Information Collection
 
