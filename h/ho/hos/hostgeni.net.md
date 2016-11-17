@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostgeni.net privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506131230id_/http%3A//www.hostgeni.net/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostgeni.net privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117215133id_/http%3A//www.hostgeni.net/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
