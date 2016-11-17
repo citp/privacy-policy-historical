@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projecttimes.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406043231id_/http%3A//www.projecttimes.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projecttimes.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117150228id_/https%3A//www.projecttimes.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Project Management | privacy-policy
 
@@ -50,7 +50,7 @@ This Privacy Policy applies only to the Site operated by the Company, and not to
 The Company may invite users to participate in surveys or contests.  User’s participation in these surveys or contests is completely voluntary.  The information collected from surveys and contests may be used to identify aggregate demographic characteristics of users to improve our services, for marketing purposes, for industry reporting purposes, and/or to notify the winners and award prizes.  Subject to the user’s preferences, such information also may be shared with third-party sponsors of such surveys or contests.
 
 **Effective Date**  
-This Privacy Policy is effective as of March, 2007 and will remain in effect unless changed.  The Company may modify this Privacy Policy at any time, and such modifications shall be effective immediately upon posting of the modified Privacy Policy [on](http://www.projecttimes.com/logout.php) the Site.
+This Privacy Policy is effective as of March, 2007 and will remain in effect unless changed.  The Company may modify this Privacy Policy at any time, and such modifications shall be effective immediately upon posting of the modified Privacy Policy [on](https://www.projecttimes.com/logout.php) the Site.
 
 **Questions**  
 You can get answers to your questions about our privacy policy, review your personal information, and correct inaccuracies by contacting Company through the ProjectTimes website or by writing to:
