@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehome.com.au privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601101527id_/http%3A//thehome.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehome.com.au privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117215920id_/http%3A//thehome.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Home
 
@@ -64,13 +64,15 @@ Please take a few minutes to review this Privacy Policy. By using the TheHome.co
 
       (i) as otherwise described in this Privacy Policy. 
 
-2.3 TheHome.com.au may Use and/or Disclose your Personal Information for any Secondary Purposes not included in this Privacy Policy if:
+2.3 In addition to the Secondary Purposes outlined above we use Google Analytics (a web analytics services provided by Google) and data such as age, gender and browsing activity to better understand the behaviour of our customers and provide targeted advertising to suit customers interests and preferences. Accordingly, when you visit our website, we, and/or a third party, may place cookies on your browser to determine information including (but not limited to) your computers location, browsing activity and time spent on each web page. We and/or Google may use this information to optimise and place advertisements. By using this website and agreeing to this policy, you grant us permission to place and store cookies on your browser. Cookies can be managed by accessing the individual settings in your browser.
+
+2.4 TheHome.com.au may Use and/or Disclose your Personal Information for any Secondary Purposes not included in this Privacy Policy if:
 
       (a) the Secondary Purpose is related to a Primary Purpose; and 
 
       (b) you would have a Reasonable Expectation that we would Use the information for that Secondary Purpose. 
 
-2.4 From time to time we may Disclose your Personal Information to organisations outside of TheHome.com.au in order to deliver the services you require. Your Personal Information is Disclosed to these organisations only in relation to us providing our services to you. These organisations carry out, amongst other services, our:
+2.5 From time to time we may Disclose your Personal Information to organisations outside of TheHome.com.au in order to deliver the services you require. Your Personal Information is Disclosed to these organisations only in relation to us providing our services to you. These organisations carry out, amongst other services, our:
 
       (a) billing and debt- recovery functions; 
 
@@ -88,7 +90,7 @@ We will take reasonable practicable steps to ensure that these organisations are
 
 If you purchase a product, we will disclose your name, address and other information necessary to complete the order to the merchant on whose behalf the deal is advertised (the Merchant). We will use reasonable endeavours to make sure that the Personal Information that we disclose to the Merchant on your behalf is the minimum necessary to complete the order. 
 
-2.5 The Website uses social plugins (hereinafter "Plugins") of the social network Facebook, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (hereinafter "Facebook"). The plugins are marked by a Facebook logo or the words "Social Plug-in by Facebook" or "Facebook Social Plugin". Find an overview of the Facebook plugins and their appearance on http://developers.facebook.com/plugins. If you request a page of our website which contains a plugin, your browser will build up a direct connection to the servers of Facebook. Facebook directly transmits the content of the plugin to your browser and from there it is incorporated in the website. By integrating the plugin, Facebook receives the information that your browser has accessed the page of our website, even if you do not have a Facebook account or if you are not logged into Facebook at the time. This information (including your IP address) will be sent directly from your browser to a Facebook server in the U.S. and stored there. If you are logged into Facebook, Facebook can assign your visit to our website directly to your Facebook account. If you interact with the plugins, for example, by pressing the "Like" button or by leaving a comment, the corresponding information is also transmitted directly to a Facebook server and is stored there. The information is also posted on Facebook and can be seen by your Facebook friends. Facebook may use this information for purposes of advertising, market research and personalised design of Facebook pages. For this purpose, Facebook creates profiles regarding usage, interests and relationships, e.g. to evaluate your use of our website with regard to the advertisements displayed to you on Facebook, to inform other Facebook users about your activities on our website and to provide further related services with the use of Facebook. If you do not want Facebook to allocate the collected data via our website to your Facebook account, you must log out of Facebook before you visit our website. To find out more about the purpose and extent to which Facebook collects, processes and uses these data, your rights and the settings available to protect your privacy, please read the Facebook privacy policy. 
+2.6 The Website uses social plugins (hereinafter "Plugins") of the social network Facebook, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (hereinafter "Facebook"). The plugins are marked by a Facebook logo or the words "Social Plug-in by Facebook" or "Facebook Social Plugin". Find an overview of the Facebook plugins and their appearance on http://developers.facebook.com/plugins. If you request a page of our website which contains a plugin, your browser will build up a direct connection to the servers of Facebook. Facebook directly transmits the content of the plugin to your browser and from there it is incorporated in the website. By integrating the plugin, Facebook receives the information that your browser has accessed the page of our website, even if you do not have a Facebook account or if you are not logged into Facebook at the time. This information (including your IP address) will be sent directly from your browser to a Facebook server in the U.S. and stored there. If you are logged into Facebook, Facebook can assign your visit to our website directly to your Facebook account. If you interact with the plugins, for example, by pressing the "Like" button or by leaving a comment, the corresponding information is also transmitted directly to a Facebook server and is stored there. The information is also posted on Facebook and can be seen by your Facebook friends. Facebook may use this information for purposes of advertising, market research and personalised design of Facebook pages. For this purpose, Facebook creates profiles regarding usage, interests and relationships, e.g. to evaluate your use of our website with regard to the advertisements displayed to you on Facebook, to inform other Facebook users about your activities on our website and to provide further related services with the use of Facebook. If you do not want Facebook to allocate the collected data via our website to your Facebook account, you must log out of Facebook before you visit our website. To find out more about the purpose and extent to which Facebook collects, processes and uses these data, your rights and the settings available to protect your privacy, please read the Facebook privacy policy. 
 
 ### 3\. Direct Marketing
 
@@ -166,7 +168,7 @@ we will take reasonable steps to correct our records containing your Personal In
 
       (b) have been refused access to your Personal Information by us for any reason described in this Policy and you wish to challenge that refusal;
 
-you may do so by contacting TheHome.com.au’s Chief Operating Officer as per the details in in Point 12.
+you may do so by contacting TheHome.com.au’s Privacy Officer as per the details in in Point 12.
 
 6.5 TheHome.com.au will not normally charge a fee for processing an access request unless the request is complex or is resource intensive. TheHome.com.au does, however, reserve the right to charge an administration fee if an individual requests access to their Personal Information more than once in a three month period.
 
@@ -174,7 +176,7 @@ you may do so by contacting TheHome.com.au’s Chief Operating Officer as per th
 
 ### 7\. OPENNESS
 
-7.1 TheHome.com.au's Chief Operating Officer will be the first point of contact for inquiries about privacy issues. If you wish to make an inquiry or complaint regarding privacy you should do so by contacting this office as per the details in Point 12. 
+7.1 TheHome.com.au's Privacy Officer will be the first point of contact for inquiries about privacy issues. If you wish to make an inquiry or complaint regarding privacy you should do so by contacting this office as per the details in Point 12. 
 
 7.2 You will find that TheHome.com.au Website contains a prominently displayed privacy statement and will include a copy of this Privacy Policy.
 
@@ -198,7 +200,7 @@ you may do so by contacting TheHome.com.au’s Chief Operating Officer as per th
 
 ### 10\. CHANGES TO THE PRIVACY POLICY
 
-TheHome.com.au may, in its sole discretion, update this Privacy Policy at any time and from time to time. Any changes will be effective when posted on the Website. Your continued use of the Website will indicate your acceptance of any changes to the Privacy Policy. All Personal Information, Collected both before and after any changes take effect, will be subject to the terms of the revised policy (for which you will be taken to have provided consent) unless you indicate otherwise by contacting TheHome.com.au’s Chief Operating Officer as per the details in in Point 12. We urge you to refer back to this page regularly and especially prior to providing us with any Personal Information. 
+TheHome.com.au may, in its sole discretion, update this Privacy Policy at any time and from time to time. Any changes will be effective when posted on the Website. Your continued use of the Website will indicate your acceptance of any changes to the Privacy Policy. All Personal Information, Collected both before and after any changes take effect, will be subject to the terms of the revised policy (for which you will be taken to have provided consent) unless you indicate otherwise by contacting TheHome.com.au’s Privacy Officer as per the details in in Point 12. We urge you to refer back to this page regularly and especially prior to providing us with any Personal Information. 
 
 ### 11\. GLOSSARY
 
@@ -232,13 +234,13 @@ TheHome.com.au may, in its sole discretion, update this Privacy Policy at any ti
 
 ### 12\. CONTACTING TheHome.com.au
 
-If you have any questions about this privacy policy, any privacy related dealings with us or a possible breach of your privacy or would like further information about our information management practices, you can contact the Chief Operating Officer of TheHome.com.au, care of the following details:
+If you have any questions about this privacy policy, any privacy related dealings with us or a possible breach of your privacy or would like further information about our information management practices, you can contact the Privacy Officer of TheHome.com.au, care of the following details:
 
-Chief Operating Officer  
+Privacy Officer  
 TheHome.com.au  
-Level 1  
-259 Coventry Street  
-South Melbourne, VIC 3205  
+Level 12  
+201 Kent St  
+Sydney 2000 NSW  
 Email: [support@thehome.com.au](mailto:support@thehome.com.au)
 
-This policy was last updated on 12 March 2014. 
+This policy was last updated on 14 July 2016. 
