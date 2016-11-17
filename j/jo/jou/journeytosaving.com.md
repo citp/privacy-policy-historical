@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journeytosaving.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516222355id_/http%3A//journeytosaving.com/about-journey-to-saving/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journeytosaving.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117203353id_/http%3A//journeytosaving.com/about-journey-to-saving/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Journey to Saving
 
