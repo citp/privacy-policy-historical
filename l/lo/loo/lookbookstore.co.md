@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the lookbookstore.co privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331180604id_/http%3A//www.lookbookstore.co/pages/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookbookstore.co privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117182952id_/http%3A//www.lookbookstore.co/pages/privacy-security) for the most accurate reproduction.*
 
-# Privacy & Security | We Take Online Security Seriously | Lookbook Store
+# We Take Online Security Seriously | Lookbook Store
 
 At Lookbook Store, we take your online security very seriously. We are committed to protecting your privacy and personal information. We've compiled this statement to explain how we collect, use, and secure your information. Please read on for more information.
 
 **What information do we collect?**  
 We do not collect any personal information about you on our Website unless you choose to provide it to us voluntarily. If you decide to place an order with us, there is certain personal information that we will require from you in order to process your order. We define “personal information” as information that is unique to you and might include your name, delivery address, credit/debit card number and expiration date, billing address, e-mail address, telephone number, your age, occupation, and style interests.  
+  
 We may also collect the following data about you to help us improve our service to you:
 
   * Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, subscribing to any service which we provide, posting material, or requesting further services. We may also ask you for information when you enter a competition or promotion, and when you report a problem with our Website. If you contact us, we may keep a record of that correspondence.
@@ -48,9 +49,8 @@ We may use "cookies" to collect or log certain information. A cookie is a small 
 **How We Protect Your Information?**  
 Lookbook Store utilizes some of the most advanced technology available today for Internet security purposes. Your information is protected with both server authentication and data encryption, ensuring that your data is safe, secure, and available only to Lookbook Store.
 
-**Opt out / Corrections**
-
-Upon your request, we will
+**Opt out / Corrections  
+** Upon your request, we will
 
   * correct or update your personal information
   * stop sending emails to your email address
