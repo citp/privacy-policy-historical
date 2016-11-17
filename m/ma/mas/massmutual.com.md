@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massmutual.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408114223id_/https%3A//www.massmutual.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massmutual.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117210220id_/https%3A//www.massmutual.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MassMutual
 
@@ -10,7 +10,8 @@ MassMutual Financial Group is a marketing name for Massachusetts Mutual Life Ins
 \-- Massachusetts Mutual Life Insurance Company   
 \-- C.M. Life Insurance Company   
 \-- MML Investors Services   
-\-- MML Bay State Life Insurance Company 
+\-- MML Bay State Life Insurance Company;  
+\-- MSI Financial Services, Inc.
 
 At MassMutual (“we”, “us”, or “our”) we are committed to maintaining your confidence and trust as it relates to the privacy of your information. Please read below and learn how we collect, protect, share and use your information as part of our technology platforms, including, without limitation, our websites, interactive features, applications, and social network pages (“Platforms”).
 
