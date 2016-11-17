@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipclip.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530042328id_/http%3A//clipclip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipclip.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117012235id_/http%3A//clipclip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ClipClip
 
