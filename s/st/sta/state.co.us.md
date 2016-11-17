@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.co.us privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406172735id_/https%3A//colorado.gov/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.co.us privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118000245id_/https%3A//www.colorado.gov/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Colorado.gov
 
