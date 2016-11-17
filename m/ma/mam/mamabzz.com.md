@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mamabzz.com privacy policy that was archived on 2016-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160308022409id_/http%3A//adventuresofmel.com/privacy-policy-and-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamabzz.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117221944id_/http%3A//adventuresofmel.com/privacy-policy-and-disclosure) for the most accurate reproduction.*
 
 # Privacy Policy and Disclosure - Adventures of Mel
 
@@ -27,7 +27,7 @@ To get your own policy, go to [http://www.disclosurepolicy.org](http://disclosur
 
 The information shared on this blog is not intended to diagnose, treat, cure, or prevent any disease, and has not been evaluated by the FDA.
 
-If you’re under the care of a physician or taking prescription medicine or other supplements, please always check with your doctor/caregiver before using essential oils. I want your experience to be safe and enjoyable. I am not a doctor and will never recommend treatment or claim that oils can cure a disease.
+Please always check with your doctor/caregiver before using essential oils. I want your experience to be safe and enjoyable. I am not a doctor and will never recommend treatment or claim that oils can cure a disease. The information on this site is not intended or implied to be a substitute for professional medical advice, diagnosis, or treatment. Please confirm any information obtained from or through this web site with other sources, and review all information regarding any medical condition or treatment with your physician. Never disregard professional medical advice or delay seeking medical treatment because of something you have read on this website. This information is not intended to diagnose, treat, or cure any disease.
 
 Take special care in researching your own needs and the needs of your family when considering the use of oils. Special precautions should be taken for those pregnant and nursing, as well as children. Trust your gut, do your own research, and never use an oil in a way which makes you feel uncomfortable.
 
