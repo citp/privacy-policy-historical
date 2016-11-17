@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umpquabank.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316195924id_/https%3A//www.umpquabank.com/ask-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umpquabank.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117021233id_/https%3A//www.umpquabank.com/ask-us/privacy-policy) for the most accurate reproduction.*
 
 # Umpqua Bank -- your privacy policy
 
@@ -8,16 +8,6 @@ Your personal information is your personal information. That means you have the 
 
 Click on the links below to learn more about our Privacy Policies.
 
-##  not sure it's legit? 
+[What does Umpqua Bank do with your Personal Information?](https://web.archive.org/uploadedFiles/Corporate/Content/Security/Privacy%20Policy.pdf "Privacy Policy 2")
 
-Double check the authenticity of an email you've received from us. Call 1-866-4UMPQUA. 
-
-## Log in to online banking
-
-(Both Umpqua and former   
-Sterling/Argent customers:   
-Find your account below) 
-
-Select Account
-
-Company ID Login ID
+[What does Umpqua Bank do with information about online website visitors?](https://web.archive.org/uploadedFiles/Corporate/Content/Security/Online%20Privacy%20Policy%20v.10.14.1.pdf "What does Umpqua Bank do with information about online website visitors?")
