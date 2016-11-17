@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the techmarketingbuffalo.com privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209113501id_/http%3A//techmarketingbuffalo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techmarketingbuffalo.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117061859id_/http%3A//techmarketingbuffalo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TMB
+# Privacy Policy | TMB
 
-This Privacy Policy governs the manner in which Tech Makai, LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://techmarketingbuffalo.com](http://techmarketingbuffalo.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Tech Makai, LLC.
+This Privacy Policy governs the manner in which Tech Marketing Buffalo collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://techmarketingbuffalo.com](http://techmarketingbuffalo.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Tech Marketing Buffalo.
 
  **Personal identification information**
 
@@ -18,7 +18,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
  **How we use collected information**
 
-Tech Makai, LLC may collect and use Users personal information for the following purposes:
+Tech Marketing Buffalo may collect and use Users personal information for the following purposes:
 
   *  _– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
@@ -49,7 +49,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
  **Changes to this privacy policy**
 
-Tech Makai, LLC has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Tech Marketing Buffalo has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
  **Your acceptance of these terms**
 
@@ -57,9 +57,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
  **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Tech Makai, LLC](http://techmarketingbuffalo.com/)  
-[http://techmarketingbuffalo.com](http://techmarketingbuffalo.com/)  
-Tech Makai, LLC 3262 Westheimer Rd, Ste 236 Houston, TX 77098
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
 
 This document was last updated on February 26, 2014
