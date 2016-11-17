@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the moovly.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315012505id_/https%3A//www.moovly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moovly.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117022614id_/https%3A//www.moovly.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Moovly
+# Privacy Policy | Moovly
 
-**PRIVACY POLICY**
+## PRIVACY POLICY
 
 Moovly and its subsidiaries and affiliates (“Moovly” or “we”) respect your preferences concerning the treatment of personal information that we may collect from your use of the Platform. This Privacy Policy informs you about how we collect and use your personal information, and how you can control its use. This Privacy Policy describes the broadest potential use of personal information throughout the Platform that is consistent with the terms of this policy. However, we may make far less use of your personal information.
 
 ### Collection of Your Personal Information
 
-On the Platform, we ask you to provide personal information, such as your e-mail address, name, home or work address, or telephone number. We may also collect demographic information, such as your postal or ZIP code, age, gender, preferences, interests and favorites. If you choose to make a purchase or sign up for a paid subscription service, we will ask for additional information, such as your credit card number and billing address, which is used to create a billing account. 
+On the Platform, we ask you to provide personal information, such as your e-mail address, name, home or work address, or telephone number. We may also collect demographic information, such as your postal or ZIP code, age, gender, preferences, interests and favorites. If you choose to make a purchase or sign up for a paid subscription service, we will ask for additional information, such as your credit card number and billing address, which is used to create a billing account.
 
 In order to access some Services, you will be asked to sign in with an e-mail address and password, which we refer to as your login credentials. As part of creating your credentials, you may also be requested to provide questions and secret answers, which we use to help verify your identity and assist in resetting your password, as well as an alternate e-mail address. Some Services may require added security, and in these cases, you may be asked to create an additional security key.
 
-We may collect information about your interaction with the Platform. For example, we may use website analytics tools on our site to retrieve information from your browser, including the site you came from, the search engine(s) and the keywords you used to find our site, the pages you view within our site, your browser add-ons, and your browser’s width and height. We may also use technologies, such as cookies and web beacons (described below), to collect information about the pages you view, the links you click and other actions you take on the Platform. Additionally, we collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring web site addresses. 
+We may collect information about your interaction with the Platform. For example, we may use website analytics tools on our site to retrieve information from your browser, including the site you came from, the search engine(s) and the keywords you used to find our site, the pages you view within our site, your browser add-ons, and your browser’s width and height. We may also use technologies, such as cookies and web beacons (described below), to collect information about the pages you view, the links you click and other actions you take on the Platform. Additionally, we collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring web site addresses.
 
-When you receive newsletters or promotional e-mail from Moovly, we may use web beacons (described below), customized links or similar technologies to determine whether the e-mail has been opened and which links you click in order to provide you more focused e-mail communications or other information. 
+When you receive newsletters or promotional e-mail from Moovly, we may use web beacons (described below), customized links or similar technologies to determine whether the e-mail has been opened and which links you click in order to provide you more focused e-mail communications or other information.
 
 In order to offer you a more consistent and personalized experience in your interactions with Moovly, information collected through one Moovly service may be combined with information obtained through other Moovly services. We may also supplement the information we collect with information obtained from other companies. For example, we may use services from other companies that enable us to derive a general geographic area based on your IP address in order to customize certain services to your geographic area.
 
@@ -24,13 +24,13 @@ Moovly collects and uses your personal information to operate and improve its si
 
 ### Sharing of Your Personal Information
 
-Except as described in this Privacy Policy or in our communications to you, we will not disclose your personal information outside of Moovly and its controlled subsidiaries and affiliates without your consent. Some Moovly sites allow you to choose to share your personal information with select Moovly partners so that they can contact you about their products, services or offers. 
+Except as described in this Privacy Policy or in our communications to you, we will not disclose your personal information outside of Moovly and its controlled subsidiaries and affiliates without your consent. Some Moovly sites allow you to choose to share your personal information with select Moovly partners so that they can contact you about their products, services or offers.
 
-Other Moovly sites do not share your contact information with third parties for marketing purposes, but instead may give you a choice as to whether you wish to receive communications from Moovly on behalf of external business partners about a partner’s particular offering (without transferring your personal information to the third party). 
+Other Moovly sites do not share your contact information with third parties for marketing purposes, but instead may give you a choice as to whether you wish to receive communications from Moovly on behalf of external business partners about a partner’s particular offering (without transferring your personal information to the third party).
 
-Some Moovly sites and services may be co-branded and offered in conjunction with another company. If you register for or use such sites or services, both Moovly and the other company may receive information collected in conjunction with the co-branded sites and services. 
+Some Moovly sites and services may be co-branded and offered in conjunction with another company. If you register for or use such sites or services, both Moovly and the other company may receive information collected in conjunction with the co-branded sites and services.
 
-We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, hosting websites, processing transactions, or performing statistical analysis of our services. Those service providers will be permitted to obtain only the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose. However, for credit card processing, our fraud detection vendors may use aggregate data to help improve their service. This helps them more accurately detect fraudulent uses of credit cards. 
+We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing customer support, hosting websites, processing transactions, or performing statistical analysis of our services. Those service providers will be permitted to obtain only the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose. However, for credit card processing, our fraud detection vendors may use aggregate data to help improve their service. This helps them more accurately detect fraudulent uses of credit cards.
 
 We may access or disclose information about you, including the content of your communications, in order to: (i) comply with the law or respond to lawful requests or legal process; (ii) protect the rights or property of Moovly or our customers, including the enforcement of our agreements or policies governing your use of the services; or (iii) act on a good faith belief that such access or disclosure is necessary to protect the personal safety of Moovly employees, customers or the public.
 
@@ -56,9 +56,9 @@ Moovly web sites use “cookies” to enable you to sign in to our Services and 
 
 ### The use by Moovly of Google Analytics cookies
 
-We collect standard internet log information and details of visitor behaviour patterns by using Google Analytics cookies. We do this to find out things such as the number of visitors to the various parts of the site. This information does not identify visitors or collect any personal details. We do not make any attempt to find out the identities of those visiting our websites. We will not associate any data gathered from this site with any personal information from any source. We will make it clear when we collect personal information and will explain what we intend to use it for.
+We collect standard internet log information and details of visitor behaviour patterns by using [Google Analytics](https://www.google.com/analytics/web/) cookies. We do this to find out things such as the number of visitors to the various parts of the site. This information does not identify visitors or collect any personal details. We do not make any attempt to find out the identities of those visiting our websites. We will not associate any data gathered from this site with any personal information from any source. We will make it clear when we collect personal information and will explain what we intend to use it for.
 
-To provide website visitors with more choice on how their data is collected by Google Analytics, Google have developed the Google Analytics Opt-out Browser Add-on. The add-on communicates with the Google Analytics JavaScript (ga.js) to indicate that information about the website visit should not be sent to Google Analytics. The Google Analytics Opt-out Browser Add-on does not prevent information from being sent to the website itself or to other web analytics services. 
+To provide website visitors with more choice on how their data is collected by Google Analytics, Google have developed the Google Analytics Opt-out Browser Add-on. The add-on communicates with the Google Analytics JavaScript (ga.js) to indicate that information about the website visit should not be sent to Google Analytics. The Google Analytics Opt-out Browser Add-on does not prevent information from being sent to the website itself or to other web analytics services.
 
 ### Control of cookies
 
@@ -80,13 +80,10 @@ We will occasionally update this privacy statement to reflect changes in our ser
 
 ### Enforcement of This Privacy Statement
 
-If you have questions regarding this statement, you may contact us at: 
+If you have questions regarding this statement, you may contact us at:
 
 Moovly NV  
-Lambroekstraat 5A  
-B-1831 Diegem  
+Koning Albertlaan 114  
+B-9000 Ghent  
 Belgium   
-Email: [info@Moovly.com](mailto:info@instruxion.com)
-
-  
-
+Email: info @ Moovly.com
