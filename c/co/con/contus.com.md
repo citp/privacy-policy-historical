@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contus.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623130142id_/http%3A//www.contus.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contus.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117054521id_/http%3A//www.contus.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Contus Privacy Policies
 
