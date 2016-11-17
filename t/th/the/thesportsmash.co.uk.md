@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thesportsmash.co.uk privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429095705id_/http%3A//thesportsmash.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesportsmash.co.uk privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117073055id_/http%3A//www.thesportsmash.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | The Sports Mash
-
-## Privacy policy
+# TheSportsMash Privacy policy - TheSportsMash
 
 This privacy policy sets out how The Sports Mash uses and protects any information that you give The Sports Mash when you use this website.
 
