@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspirato.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315143430id_/https%3A//www.inspirato.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspirato.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118003608id_/https%3A//www.inspirato.com/privacy-policy) for the most accurate reproduction.*
 
 # Inspirato Privacy Policy | Inspirato
 
@@ -67,7 +67,7 @@ We may share information about you with third parties in certain circumstances i
 
 \- Advertisers.  If you decide to communicate with a company that advertises with us, for example by clicking a link that we provide for that advertiser, we may share personal information with the advertiser, including personal information that might permit the advertiser to contact you. 
 
-\- Behavioral Advertisers.  We may participate in behavioral-based advertising.  This means that a third party may use technology, such as a cookie on your browser or a web beacon, to identify you on our website so that they can provide advertising about products and services tailored to your interest.  That advertising may appear either on our website, or on other websites.  If you would like to opt-out of behavioral advertising based on your use of this website, you can do so by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/) and the [Digital Advertising Alliance](http://www.daa.sg/).
+\- Behavioral Advertisers.  We may participate in behavioral-based advertising.  This means that a third party may use technology, such as a cookie on your browser or a web beacon, to identify you on our website so that they can provide advertising about products and services tailored to your interest.  That advertising may appear either on our website, or on other websites.  If you would like to opt-out of behavioral advertising based on your use of this website, you can do so by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/) and the [Digital Advertising Alliance](http://www.aboutads.info/choices/).
 
 ### How We Secure Personal Information
 
