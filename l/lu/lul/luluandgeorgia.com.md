@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luluandgeorgia.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331175510id_/https%3A//www.luluandgeorgia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luluandgeorgia.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117122657id_/https%3A//www.luluandgeorgia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
