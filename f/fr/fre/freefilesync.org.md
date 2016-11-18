@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the freefilesync.org privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612142950id_/http%3A//www.freefilesync.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freefilesync.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119001040id_/http%3A//www.freefilesync.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - FreeFileSync
 
-  
-[ ](https://twitter.com/intent/tweet?text=Download%20FreeFileSync%2C%20the%20free%20backup%20software%20to%20synchronize%20files%20and%20folders%3A&url=http%3A%2F%2Fwww.freefilesync.org%2F) [ ](https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.freefilesync.org%2F) [ ](https://plus.google.com/share?url=http%3A%2F%2Fwww.freefilesync.org%2F) [ ](https://web.archive.org/web/20160612142950id_/http%3A//www.freefilesync.org/news-feed.php)   
-[](https://www.paypal.com/xclick/business=zenju@gmx.de&lc=US&currency_code=EUR&no_shipping=1&cpp_cart_border_color=15a129&charset=utf-8&item_name=Donation+for+FreeFileSync&cn=Add+comment "Donate via PayPal")
+[ ](https://twitter.com/intent/tweet?text=Download%20FreeFileSync%2C%20the%20free%20backup%20software%20to%20synchronize%20files%20and%20folders%3A&url=http%3A%2F%2Fwww.freefilesync.org%2F) [ ](https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.freefilesync.org%2F) [ ](https://plus.google.com/share?url=http%3A%2F%2Fwww.freefilesync.org%2F) [ ](https://web.archive.org/news-feed.php)
 
 ## Privacy Policy
 
