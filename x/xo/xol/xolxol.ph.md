@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xolxol.ph privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607163254id_/http%3A//www.xolxol.ph/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xolxol.ph privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119001214id_/http%3A//www.xolxol.ph/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | XOLXOL
 
