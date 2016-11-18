@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdesignshock.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618164321id_/http%3A//www.bypeople.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdesignshock.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231825id_/http%3A//www.bypeople.com/privacy.php) for the most accurate reproduction.*
 
 # ByPeople - Privacy Policy
 
@@ -59,7 +59,7 @@ This online privacy policy applies only to information collected through our web
 
 ### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ByPeople](http://www.byepeople.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ByPeople.](http://www.bypeople.com/)
 
 ### Changes to our Privacy Policy
 
