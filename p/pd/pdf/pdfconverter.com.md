@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pdfconverter.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608021305id_/http%3A//www.pdfconverter.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfconverter.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234259id_/http%3A//www.pdfconverter.com/about/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - PDFConverter.com
+# Privacy Policy
 
 BC LTD. ("Our Company") is committed to make your visit to pdfconverter.com an experience that is as interesting and enjoyable as possible. Our Privacy Policy below is geared towards understanding that you are a guest at our site and should be treated as such:
 
