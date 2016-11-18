@@ -1,69 +1,80 @@
-> *The following text is extracted and transformed from the pho.to privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603171504id_/http%3A//pho.to/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pho.to privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118161647id_/http%3A//pho.to/policy) for the most accurate reproduction.*
 
 # Pho.to - Privacy policy
 
-Privacy policy – Pho.to
+This Privacy Policy describes how VicMan LLC ( **"VicMan"** , **"We"** , **"Us"** , or **"Our"** ) protects your privacy when you use VicMan services ( **"Services"** ) which includes the Web site located at [pho.to](http://pho.to/) (the **"Site"** ) and all VicMan mobile phone applications ( **"Mobile"** ).
 
-This statement describes our privacy policy. Pho.to reserves the right to revise this policy at any time without notification to you, so please re-read it often in connection with your use of the Pho.to website.
+PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE SERVICE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ALL TERMS AND CONDITIONS INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THE TERMS AND CONDITIONS SET FORTH BELOW, YOU MAY NOT USE THE VICMAN SERVICES. 
 
-Your personal information at Pho.to
+This Privacy Policy together with our [Terms of Service](http://pho.to/terms/) applies to information (including personal information) collected during your use of VicMan services. For the purpose of this Privacy Policy, "personal information" means information that identifies you personally, either alone or in combination with other information available to us. Personal information does not include technical, device, or usage information that cannot be used to identify you personally, nor does it include "aggregate" information, which is data we collect about the use of the Services or about a group or category of Services or users, from which individual identities or other personal information have been removed. This Privacy Policy in no way restricts or limits our collection and use of aggregate and non-personal information, and we may share such data about our users with third parties for various purposes.
 
-We will never share your e-mail address or other identifiable information with any third party without your explicit consent. The following legal document will dictate how we will handle this information.
+What Information We Collect
 
-This privacy policy together with our [Terms of Service](http://pho.to/terms/) sets out how VicMan, ("VicMan" or "we") will use any personal data we collect from you, or you provide to us during your use of our online services ("Pho.to" or the "website").
+We respect the privacy of every individual who uses our Services. We collect certain personal information that you voluntarily provide to us. For example, we collect your name, email address, user name, social network information and other information you provide us when you register, set up an account, contact us by e-mail or use our services. We may also obtain information from other companies and combine that with information we collect on the Services; for example, when you link your account with Facebook, we might have access to your name and profile picture. 
 
-We respect the privacy of every individual who visits the website. Our policy on the collection and use of personal information is outlined below.  
-We will only disclose your information without your authorization in the following situations: 
+When you visit the Site, we automatically collect some information. Such information includes the type of browser you use, your browser’s language, access time or the website from which you linked to us. We also collect information about your computer's operating system and information about your usage and activity on the Site. This information is only used to assist us in providing an effective service. We may, from time to time, supply the owners and operators of third party websites and mobile applications which have a link to our site or application with information about the number of users of our Site or Mobile. You cannot be identified from any of this information.
 
-  * To the authorities when necessary to comply with the law (i.e. answering subpoenas).
-  * To enforce or to apply our Terms of Service and other agreements. 
-  * We are in negotiations with a third party for the sale or purchase of any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * To protect the rights, property, or safety of Pho.to, our users or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+With your permission (on download or in the app), we may access and store the Content (your user name and photos) you provided while using our Mobile applications and Site. We may also edit stored photos, apply effects to them and use them to perform marketing activities. Yet we will show your photos or your edited photos solely to you (for example by sending you promotional e-mails you opted-in).
 
-
-
-You are giving your consent to disclose your personal info (photos, albums, etc.) in the following situations:
-
-  * You upload a web album or a 3D album to Pho.to site either using our software or Photo! Presentation Widget service ([http://pho.to/widget3d](http://pho.to/album3d/)), or using other options at Pho.to website.
-  * You share images with the "Share it!" button situated to the right of any of the Pho.to services. 
-  * You share your photo at Pho.to site using any of the Pho.to services and share a link to this photo elsewhere on the internet. 
-
-
-
-We do not disclose your photos, which you have uploaded for editing and manipulation to any of the Pho.to services and which you see in the [file selection panel](http://pho.to/press/file-selection/) at the top of a service page. These photos are stored at Pho.to temporarily and are visible only to you from the same IP address and from the same browser. These photos will be deleted from our server in 12 hours.
-
-Non-Personal Details
-
-We may automatically collect non-personal information about you, such as the type of browsers you use or the website from which you linked to us. This information is only used to assist us in providing an effective service on the website. We may, from time to time, supply the owners and operators of third party websites which have a link to our site with information about the number of users linking to the website from their website. You cannot be identified from any of this information.
+We may also collect information about others if you use our Services to upload, share and/or distribute Content that contains information about them, including their name, image and online contact information. 
 
 Cookies
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report information to our branded partners.
+We automatically collect certain information through the use of "cookies". Cookies are small data files that are stored on your hard drive by a Web site. We use cookies to collect information about your device, including where available your IP address, operating system and browser type, for system administration and to report information to our branded partners.
 
-We may store some information on your computer when you visit the website. This information facilitates your use of the website, and ensures that you do not need to re-enter your details on each visit. The information stored in a cookie provides features that recognize your account as logged on and other site features. We do not have any control over cookies which our advertisers or branded partners may use on the website.
+We may store some information on your computer when you visit the website. This information facilitates your use of the website, personalizes your experience and helps us to remember your preferences. The information stored in a cookie provides features that recognize your account as logged on and other Site features. We do not have any control over cookies which our advertisers or branded partners may use on the website.
 
 Security
 
-The technology that we use and the policies that we have implemented are intended to safeguard your privacy from unauthorized access and improper use. We will continue to update these measures as new technology becomes available.
+The technology that we use and the policies that we have implemented are intended to safeguard your privacy from unauthorized access and improper use. We will continue to update these measures as new technology becomes available. However, we cannot guarantee that unauthorized third parties will not be able to defeat our security measures. If you use a password on our Services, you are responsible for keeping it confidential. Do not share it with any other person. If you believe your password has been misused or your account compromised, please advise us immediately. 
 
-Newsletter
+How We Use Your Personal Information
 
-You can opt-in to receive our newsletter. This information will not be sent to you if you ask us not to include your name on our mailing lists. In many places where personal information is collected, we have a box that you can check indicating that you would like to "opt out" if you don't wish to receive further information of the sort indicated. If you have previously consented to have Pho.to send you its newsletter and no longer wish to be contacted, please follow the link at the bottom of each newsletter to unsubscribe. 
+We use personal information collected through the Services: 
 
-Username and Password Recommendations
+  1. to communicate with you or third parties;
+  2. to process your requests and transactions;
+  3. to improve the Services;
+  4. to customize the services and/or products we provide to you;
+  5. to assist with our product and service development;
+  6. to perform marketing activities;
+  7. to provide relevant advertising; and
+  8. for other purposes related to our business.
 
-We advise you to choose a password that is not easily guessed by others and a username that does not identify you personally (i.e. don't use your real name as your username). Please make sure that your password is 6 or more characters and is composed of both letters and numbers. In addition, it is recommended that you use a separate password for every website to which you are a member. This is a form of damage control, in case the security of one website is compromised, your other accounts are still protected. Should you forget your Pho.to password, it will be emailed to you at your request.
 
-Updating or Deleting Your Information
 
-You can delete any photos, albums or optional information in your account settings. Any required information (with the exception of your username), will be completely hidden from the public, or an option to hide it from the public will be made available. 
+With Whom We Share Your Personal Information 
+
+Personal information (and non-personal information) collected through the Services may be shared with companies and organizations that perform services on our behalf (for example, companies that provide data management or other support services to us such as data storage and Web hosting services). We may share your personal information (and non-personal information) with third parties to serve you relevant advertising and market our products, but we won't sell your personal information. 
+
+Also, we may disclose the personal information we collect through the Services when we, in good faith, believe disclosure is appropriate to: 
+
+  1. comply with applicable law (e.g., in response to a valid court order or subpoena);
+  2. prevent or investigate a possible crime, such as fraud or identity theft;
+  3. enforce or to apply our Terms of Service and other agreements;
+  4. to protect the rights, property or safety of us, our users or others; or
+  5. to protect your vital interests.
+
+
+
+We do not disclose your images, which you have uploaded for editing and manipulation to any of the Services unless you provide explicit consent to show your images at our Site, Mobile and other Services, or at third party services.
+
+Your personal information and other data collected by us may be transferred to another company that has acquired our stock or assets, for example, as a result of a sale, merger, reorganization, dissolution or liquidation. If such a transfer occurs, the acquiring company's use of your personal information will still be subject to this Privacy Policy. 
+
+Modifying Your Information - Opt-Out / Opt-In 
+
+We respect your right to make choices about the ways we collect, use and disclose your personal information. You may update or modify your information or change your privacy preferences at any time via our Services. You may opt out of receiving promotional communications from us, including, but not limited to, promotional emails, by clicking a special unsubscribe link in the e-mail or other Content from us. Transactional service communications (such as messages about your registration) are not subject to the foregoing opt-out procedures. Requests to disable your account or reset your password should be sent to [support@pho.to](mailto:support@pho.to) for faster processing. 
 
 Links, Hosted Sites & Advertisers
 
-We do not have any control over the privacy practices of any external websites linked from the main www.pho.to domain (or any of the websites that are hosted on our server and aren't affiliated with Pho.to). Therefore you should review their privacy policies separately from ours and know that we in no way have any control over their practices. 
+We do not have any control over the privacy practices of any external websites linked from the Site or Mobile (or any of the websites that are hosted on our server and aren't affiliated with us). Therefore you should review their privacy policies separately from ours and know that we in no way have any control over their practices. 
 
 Third party advertisers may collect certain information that is available to them through your interaction with their advertisements. VicMan has no control or knowledge as to their practices and it is suggested that you read their privacy policy separately before clicking on any advertisements. 
 
-Questions?
+CHANGES TO THIS PRIVACY POLICY
 
-If you have any questions regarding this Privacy Statement, the practices of Pho.to, or your dealings on our web site, please [contact us](mailto:customercare@vicman.net).
+We may change this Privacy Policy from time to time. If we make any changes to this Privacy Policy that we think materially alter your rights, then we will post the latest policy to this site. We encourage you to review this Privacy Policy whenever you visit the Services to understand how your personal information is used. 
+
+QUESTIONS
+
+If you have any questions about this Privacy Policy, please contact us via [support@pho.to](mailto:support@pho.to).
