@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coldwatercreek.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423215112id_/http%3A//www.coldwatercreek.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coldwatercreek.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118224946id_/http%3A//www.coldwatercreek.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Coldwater Creek
 
-## Effective Date 11/3/2014
+## Effective Date 7/2/2016
 
   
 
@@ -34,7 +34,7 @@ This policy does not apply to the practices of CWC Direct LLC’s subsidiaries o
 
 **We collect information passively.** We use tracking tools like browser and flash cookies. We may also use data tags, or web beacons to collect information from you. We collect information about users over time when you use this website. We may have third parties collect personal information this way. Learn more about these tools and how you can control them, [here](http://www.coldwatercreek.com/about-tracking/about-tracking.html).
 
-**We get information about you from third parties.** For example, our business partners may share information about you with us. Social media platforms may also give us information.
+**We get information about you from third parties.** For example, our business partners may share information about you with us. We may receive information about you if you have a Coldwater Creek rewards credit card. Social media platforms may also give us information.
 
 **We combine information.** For example, we may combine information that we have collected offline with information we collect online. Or we may combine information we get from a third party with information we already have.
 
@@ -43,7 +43,7 @@ This policy does not apply to the practices of CWC Direct LLC’s subsidiaries o
 
 ## We use information as disclosed and described here.
 
-**We use your information to respond to your requests or questions.** For example, we might contact you about your questions. Or we may use your information to notify you if you are a promotion winner.
+**We use your information to respond to your requests or questions.** For example, we might contact you about your questions. Or we may use your information to notify you if you are a promotion winner. We may also use your information to process rewards information if you have a Coldwater Creek credit card.
 
 **We use your information to improve our products and services.** We may use your information to make our website and products better. We might use your information to customize your experience with us.
 
@@ -103,4 +103,4 @@ If you have any questions about this Policy or want to correct or update your in
 
 From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
 
-© 2014 Coldwater Creek Direct. All rights reserved.
+© 2016 Coldwater Creek Direct. All rights reserved.
