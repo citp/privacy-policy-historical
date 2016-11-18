@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the superdry.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613010917id_/http%3A//www.superdry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superdry.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118173835id_/http%3A//www.superdry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Superdry
+
+Dedicated website helpline: +44 (0)333 3212222
 
 ### privacy policy
 
