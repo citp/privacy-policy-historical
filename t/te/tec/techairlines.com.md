@@ -1,45 +1,17 @@
-> *The following text is extracted and transformed from the techairlines.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912041939id_/http%3A//www.techairlines.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techairlines.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118222544id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - TechAirlines
+# Legal
 
-This privacy policy states how Tech Airlines collects and uses your information and is current as of August 16, 2009.
+* * *
 
-### What information do we collect?
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-We do not collect any personal information without your knowledge. We receive your email address and name only with your explicit consent, such as contacting us. In order to prevent spam, your email address is required to post any comments. Your IP is automatically logged when you leave a comment.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-Some products and sites we link to may require registration which may require information like your Name and Email Address. In this case, please refer to the site’s own privacy policy.
 
-We do not knowingly collect personal information from individuals under the age of 13. If it is found that we have data from a child under the age of 13, we will remove the information, whether its public or private, immediately. Children under the age of 13 are not permitted to register on our forums.
 
-### IP Addresses
-
-Your computer uses an IP (Internet Protocol) Address each time you connect to the internet. An IP address is a number and logical address identifying devices in a computer network that connects to the internet. Your IP is automatically collected when you leave a comment and post in the forum.
-
-### What are “cookies”?
-
-Your Internet browser has a feature called cookies, which stores small amounts of data on your hard drive about your visit to websites. You are free to turn it off in your browser options however some sites may not function properly. You do not need to have cookies turned on to visit our site. Cookies cannot retrieve any other data from your hard drive and pass on malware.
-
-### How do we use cookies?
-
-Like most websites, our site uses cookies. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent here, referring sites, and other traffic data. On our site, cookies help us find out how our visitors use our site and what areas are most popular so we can work on improving. However, no personally identifiable information is ever sent to us or intentionally stored in your browser in the form of cookies.
-
-Cookies will also prevent manipulation of poll results.
-
-Cookies are not required to be enabled to visit our site, although some parts of the site might not work properly. Most browsers have them on by default however if you choose to disable them, this can be done in your browser options, usually under ‘Privacy’ or ‘Security’.
-
-### How do we use the information you provide to us?
-
-Any information you provide to us will only be used to contact you and will not be shared with any third party unless required by law. If you provide it to subscribe to our feeds via Feedburner Email Subscriptions, you are agreeing to [Google Privacy Policy](http://www.google.com/intl/en/privacy.html), as the information will be stored and processed through Google. You will receive an email when there’s a new post and no more than 1 email a day. We have access to this data and you can request us to remove you from the list anytime. As always, we will not share this data with anyone.
-
-### Do we sell, share, lend, or otherwise give out your information?
-
-We will never share, lend, sell, or otherwise give out your information, including email addresses, to any third party unless it is required by law. We will never use your information for any marketing purposes.
-
-### Links to Third Party Websites
-
-Our site contains links to third party websites. When you use these links to other websites, please note that we have no control over other websites and therefore, our Privacy Policy no longer applies. Please refer to the Privacy Policy of the applicable website. This privacy statement only applies to sites on the techairlines.com domain and all subdomains.
-
-### Changes Made to this Policy
-
-This privacy policy may be modified from time to time. It is not likely to be a major change, however you should check this page from time to time to ensure that you are satisfied with the changes. The date this statement was last modified will always be stated at the beginning.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
