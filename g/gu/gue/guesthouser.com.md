@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guesthouser.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318205321id_/https%3A//www.guesthouser.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guesthouser.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118150754id_/https%3A//www.guesthouser.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - GuestHouser
 
