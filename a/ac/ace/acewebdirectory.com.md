@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acewebdirectory.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421073036id_/http%3A//www.acewebdirectory.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acewebdirectory.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234843id_/http%3A//www.acewebdirectory.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Ace Web Directory
 
@@ -45,7 +45,7 @@ The privacy of our users is our responsibility. Every care is taken to ensure th
 
 Third Party Intermediaries
 
-We use Paypal for billing the users for all the services provided. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
+We use 2Checkout for billing the users for all the services provided. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
 
 **Security**
 
@@ -63,4 +63,4 @@ Additional Information
 
 Ace Web Directory reserves the right to make changes to the privacy policy at any point of time. It is thus, it is requested that you do make frequent checks to be ensure that you are up to date with the changes executed. 
 
-Any questions or clarifications whatsoever related to the privacy policy may please be forwarded through our [contact page](https://web.archive.org/web/20160421073036id_/http%3A//www.acewebdirectory.com/contact-us.html).
+Any questions or clarifications whatsoever related to the privacy policy may please be forwarded through our [contact page](https://web.archive.org/web/20161118234843id_/http%3A//www.acewebdirectory.com/contact-us.html).
