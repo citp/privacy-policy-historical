@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stepchange.org privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516205420id_/http%3A//www.stepchange.org/Legal/Privacyandcookiespolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stepchange.org privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118060056id_/http%3A//www.stepchange.org/Legal/Privacyandcookiespolicy.aspx) for the most accurate reproduction.*
 
 # Privacy & cookies policy | Legal |StepChange (CCCS) debt advice charity
 
@@ -45,39 +45,41 @@ __utmz
 __utmc  
 __utmb  
 __utmx  
-__utmxx | These cookies are used to collect information about how our visitors use our website. This information includes the number of visitors to the website, which website they came from and which pages they looked at on our website. The cookies collect information anonymously. | The main website, mobile website Debt Remedy, jobs website and Wellbeing.  
+__utmxx | These cookies are used to collect information about how our visitors use our website. This information includes the number of visitors to the website, which website they came from and which pages they looked at on our website. The cookies collect information anonymously. | The main website, Debt Remedy, jobs website and Wellbeing  
 Webtrends | ACOOKIE  
-WT_FPC | These cookies are used to collect information about how our visitors use our website. This information includes the number of visitors to the website, which website they came from and which pages they looked at on our website. The cookies collect information anonymously. | The main website, mobile website, Debt Remedy, jobs website, Online DMP and Wellbeing.  
+WT_FPC | These cookies are used to collect information about how our visitors use our website. This information includes the number of visitors to the website, which website they came from and which pages they looked at on our website. The cookies collect information anonymously. | The main website, Debt Remedy, jobs website, Online DMP and Wellbeing  
 YouTube | VISITOR_INFO1_LIVE  
 PREF  
-use_hitbox | These cookies are used in the video functionality of a YouTube embedded video. | The main website.  
+use_hitbox | These cookies are used in the video functionality of a YouTube embedded video. | The main website  
 ASP.NET | .ASPXANONYMOUS  
 ASP.NET_SessionId  
 ASPXAUTH  
-RequestVerificationToken_Lw | These cookies help the functionality of the website. These are deleted when you close your browser. | The main website, Debt Remedy, Online DMP, jobs website and Wellbeing.  
-DotNetNuke | language | This cookie helps the functionality of the website. This is deleted when you close your browser. | The main website.  
-Live Chat | JSESSIONID | This cookie helps the functionality of the Live Chat tool if the user needs help with debt advice or with completing Debt Remedy. This is deleted when you close your browser. | The main website and Debt Remedy.  
-PDF Generator | ysm_bbk159O43…. | This cookie helps automatically generate a PDF information booklet at the end of Debt Remedy. This is deleted when you close your browser. | Debt Remedy.  
+RequestVerificationToken_Lw | These cookies help the functionality of the website. These are deleted when you close your browser. | The main website, Debt Remedy, Online DMP, jobs website and Wellbeing  
+DotNetNuke | language | This cookie helps the functionality of the website. This is deleted when you close your browser. | The main website  
+Live Chat | JSESSIONID | This cookie helps the functionality of the Live Chat tool if the user needs help with debt advice or with completing Debt Remedy. This is deleted when you close your browser. | The main website and Debt Remedy  
+PDF Generator | ysm_bbk159O43…. | This cookie helps automatically generate a PDF information booklet at the end of Debt Remedy. This is deleted when you close your browser. | Debt Remedy  
 QuestionPro | Survey  
-siteRef | This cookie is set when you use the survey at the end of Debt Remedy, to aid its functionality. It does not collect any identifiable information. | The main website.  
+siteRef | This cookie is set when you use the survey at the end of Debt Remedy, to aid its functionality. It does not collect any identifiable information. | The main website  
 Yahoo/Bing | B  
-BX | This cookie is set if you visit Debt Remedy from a pay-per-click advert in the Yahoo.co.uk search results. It does not collect any identifiable information. | Debt Remedy.  
-Google | test_cookie | This cookie is set if you visit Debt Remedy from a pay-per-click advert in the Google.co.uk search results. It does not collect any identifiable information. | Debt Remedy.  
+BX | This cookie is set if you visit Debt Remedy from a pay-per-click advert in the Yahoo.co.uk search results. It does not collect any identifiable information. | Debt Remedy  
+Google | test_cookie | This cookie is set if you visit Debt Remedy from a pay-per-click advert in the Google.co.uk search results. It does not collect any identifiable information. | Debt Remedy  
 DoubleClick | id  
-test_cookie | We use Google Analytics and DoubleClick cookies and remarketing services to log when someone views a specific page or takes a specific action on our websites. This allows us to provide targeted information in the future, in the form of an advertisement on Google’s search results page. Of course, any data collected is used in accordance with our own privacy policy and Google’s privacy policy.* | The main website, mobile website, Debt Remedy, Online DMP, jobs website and Wellbeing.  
+test_cookie | We use Google Analytics and DoubleClick cookies and remarketing services to log when someone views a specific page or takes a specific action on our websites. This allows us to provide targeted information in the future, in the form of an advertisement on Google’s search results page. Of course, any data collected is used in accordance with our own privacy policy and Google’s privacy policy.* | The main website, Debt Remedy, Online DMP, jobs website and Wellbeing  
 Jobs website | ccp_name4697  
 ccp_user4697  
 lastaccesstime4697  
 sessionid4697  
 wedeputy_reg_email_5699  
-wedeputy_reg_username_5699< | These cookies are used to track details of applicants using our jobs website. | Jobs website.  
-Atlas | ATN | This cookie logs when you view a specific page or takes a specific action on our websites. This allows us to provide targeted information in the future, in the form of an advertisements. | The main website, mobile website, Debt Remedy, Online DMP, jobs website and Wellbeing.  
-Mobile website | DAPROPS | This cookie is used to track the activity during the visit for analytical purposes to improve the service. | Mobile website.  
+wedeputy_reg_username_5699< | These cookies are used to track details of applicants using our jobs website. | Jobs website  
+Atlas | ATN | This cookie logs when you view a specific page or takes a specific action on our websites. This allows us to provide targeted information in the future, in the form of an advertisement. | The main website, Debt Remedy, Online DMP, jobs website and Wellbeing  
+Device Atlas | DAPROPS | This cookie is used to track the activity during the visit for analytical purposes to improve the service. | The main website  
 Cookie policy | StepChange_AcceptCookiePolicy  
-cookillian_opt_in  | These cookies lets us know your cookie preferences when you're on our site. | The main website, mobile website.  
-Anti-forgery | __RequestVerificationToken_Lw__ | This cookie is associated with a particular anti-forgery method to prevent cross site request forgery in user forms. | Online DMP.  
+cookillian_opt_in  | These cookies lets us know your cookie preferences when you're on our site. | The main website  
+Anti-forgery | __RequestVerificationToken_Lw__ | This cookie is associated with a particular anti-forgery method to prevent cross site request forgery in user forms. | Online DMP  
+Mobile detection | dnn_IsMobile | This cookie helps us know whether you're on a mobile device | The main website  
+Site preference | StepChangeSitePref | This cookie tracks whether you prefer the desktop or mobile version of our site | The main website  
   
-*If you do not wish to receive this type of service from us you can opt out of Google's use of cookies by visiting Google's [ Ad Preferences page](http://www.google.com/settings/ads/onweb/) or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+*If you do not wish to receive this type of service from us you can opt-out of Google's use of cookies by visiting Google's [ Ad Preferences page](http://www.google.com/settings/ads/onweb/) or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 The companies who collect information on our websites may combine this with other information they’ve independently collected from other websites and/or other online or mobile products and services relating to your activities across their network of websites.  Many of these companies collect and use information under their own privacy policies.
 
