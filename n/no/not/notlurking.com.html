@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the notlurking.com privacy policy that was archived on 2016-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160601114657id_/http%3A//linkis.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the notlurking.com privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119000712id_/https%3A//linkis.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <link rel="apple-touch-icon" href="/images/favicon/apple-touch-icon_57x57.png" sizes="57x57">
@@ -18,34 +18,29 @@
 <link rel="icon" href="/favicon.ico">
 
 <!--[if lt IE 9]>
-<script type="text/javascript" src="js/lib/xCharts/es5-shim.min.js"></script>
-<script type="text/javascript" src="js/lib/xCharts/es5-sham.min.js"></script>
+<script type="text/javascript" src="/js/lib/xCharts/es5-shim.min.js"></script>
+<script type="text/javascript" src="/js/lib/xCharts/es5-sham.min.js"></script>
 <![endif]-->
 
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-<title>Privacy - Linkis.com</title>
-<meta name="title" content="Privacy - Linkis.com">
+<title>Privacy policy - Linkis.com</title>
+<meta name="title" content="Privacy policy - Linkis.com">
 <meta name="keywords" content="Privacy, Linkis.com">
-<meta name="description" content="Privacy - Linkis.com"><link href="/favicon.ico" rel="icon" type="image/png">
-<link href="/css/settings.css?1067" media="all" rel="stylesheet" type="text/css">
+<meta name="description" content="Privacy policy for service users - Linkis.com"><link href="/favicon.ico" rel="icon" type="image/png">
+<link href="/css/settings.css?v=59bf" media="all" rel="stylesheet" type="text/css">
 <script type="text/javascript" async="" src="//widget.uservoice.com/KUBNH3g4sCUtmVUMMrmmA.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script>
     var LNG = {};
     LNG['index.button.Save']    = 'Save';
-    LNG['index.button.Saving']  = 'Saving...';
     LNG['index.button.Saved']   = 'Saved';
-    LNG['index.read_about']     = 'Read about the project';
-    LNG['index.hide_info']      = 'Hide this info';
     LNG['settings.socials.addAccount'] = "Add";
     LNG['settings.socials.deleteAccount'] = "Delete account";
-    LNG['settings.socials.urlPlaceholder'] = "Paste an URL or account username";
+    LNG['settings.socials.urlPlaceholder'] = "URL or account username";
     LNG['settings.socials.emptyUrl'] = "URL can not be empty";
-    LNG['settings.blacklist.add'] = "Add";
     LNG['settings.successMsg'] = "Saved";
     LNG['messages.error'] = "Error:";
-    LNG['messages.success'] = "Success:";
     LNG['messages.emptyValue'] = "Value can not be empty";
     LNG['messages.maxLength30'] = "Max length is 30 symbols";
     LNG['messages.maxLength255'] = "Max length is 255 symbols";
@@ -59,6 +54,8 @@
     LNG['settings.notice.autopost_off'] = "Daily tweet is <b>off</b>";
     LNG['settings.notice.show_aw_popup_on'] = "Visitors tracking is <b>on</b>";
     LNG['settings.notice.show_aw_popup_off'] = "Visitors tracking is <b>off</b>";
+    LNG['settings.notice.vitweet_on'] = "Text to image converter is <b>on</b>";
+    LNG['settings.notice.vitweet_off'] = "Text to image converter is <b>off</b>";
     LNG['settings.account.email.empty'] = "Email can not be empty.";
 
     var customAuthRedirect = null;
@@ -100,6 +97,14 @@ function restoreUserAvatar(img, uid)
     img.src = '/index/restore-avatar/uid/' + uid;
 
 }
+/**
+ *
+ * @param action
+ * @param label
+ * @param category
+ * @param params
+ *     - {int} [theme] - force set theme
+ */
 function lnEvent(action, label, category, params)
 {
     
@@ -112,10 +117,14 @@ function lnEvent(action, label, category, params)
 
     var path = ['', 'index', 'ln-event'].join('/');
     var e = function(str){ return str ? encodeURIComponent(str) : ''; };
-    var theme = window.LinkData ? LinkData.curTheme : 0;
-    var linkId = LnProf.page == 'index/show' && window.LinkData ? LinkData.id : 0;
-    var profId = LnProf.profId ? LnProf.profId : 0;
+
+    if(typeof(params) != 'undefined' && typeof(params.theme) != 'undefined'){
+        var theme = params.theme;
+    }else{
+        var theme = window.LinkData ? LinkData.curTheme : 0;
+    }
     var version = window.LinkData ? LinkData.themeVersion : '';
+    var is_author = window.LinkData ? LinkData.is_author : 0;
 
     params = params || {};
 
@@ -124,10 +133,9 @@ function lnEvent(action, label, category, params)
         '&a=' + e(action) +
         '&l=' + e(label) +
         '&t=' + e(theme) +
-        '&li=' + e(linkId) +
-        '&id=' + e(profId) +
         '&h='  + hash +
         '&v='  + e(version) +
+        '&isa='  + e(is_author) +
         '&p='  + e(JSON.stringify(params)) +
         '&r=' + Math.random();
 }
@@ -182,7 +190,7 @@ window.NL_APP_DATA = {
     show_welcome_popup: 0,
 
         
-    show_silent_popup_old_usr: 0,
+    show_comeback_popup: 0,
     stat_id: null,
     nopopups: 0,
     addThisSrc: 'http://s7.addthis.com/js/300/addthis_widget.js#async=1&pubid=',
@@ -194,161 +202,23 @@ window.NL_APP_DATA = {
 	sessCookieName: 'LNSESS',
     popupsHtml: {},
     fbAppId: 318962828183539};
-var LnProf = {
-    profId: 0,
-    enabled: 1,
-    startedAt: 0,
-    startDuration: 0,
-    theme: 0,
-    err: [],
-    path: ['', 'index', 'save-ln-prof?'], // prevent simple url parsing
-    iframeLoad: false,
-    page: 'index/privacy',
-    recordId: 0,
-    reqQueue: [], // we use queue to send ajax requests one by one
-    reqProcessing: false,
 
-    request: function(src, startProfRequest)
-    {
-        if (LnProf.reqProcessing) {
-            // other request is active now -> just add our task to the queue and exit
-            this.reqQueue.push(src);
-            return;
-        }
+window.onerror = function(msg, url, line, col, error_obj)
+{
+    hihit(3282);
 
-        LnProf.reqProcessing = true;
+    var path  = ['', 'index', 'js-error'].join('/');
+    var page  = 'index/privacy';
 
-        var xmlhttp = new XMLHttpRequest();
-
-        xmlhttp.open('GET', src + '&id=' + LnProf.profId, true);
-
-        xmlhttp.onreadystatechange = function() {
-
-            if (!startProfRequest) {
-                LnProf.reqProcessing = false;
-            }
-
-            if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
-
-                var response = JSON.parse(xmlhttp.responseText);
-
-                if (startProfRequest && response.profId) {
-                    // get `profId` from first response
-                    LnProf.profId        = response.profId;
-                    LnProf.startDuration = (new Date()).getTime() - LnProf.startedAt;
-
-                    // reset flag only if `start` request is ok
-                    LnProf.reqProcessing = false;
-                }
-            }
-
-            if (LnProf.reqQueue.length && !LnProf.reqProcessing) {
-                // there are other tasks in queue -> process next
-                LnProf.request(LnProf.reqQueue.shift());
-            }
-        };
-
-        xmlhttp.send(null);
-    },
-
-    // receive profId in this function
-    start: function()
-    {
-        LnProf.startedAt = (new Date()).getTime() ;
-
-        if (!LnProf.enabled)
-            return;
-
-        var src = LnProf.path.join('/') + 'type=start&page=' +
-            LnProf.page + '&time=' + LnProf.startedAt +
-            '&uri=' + encodeURIComponent(location.pathname + location.search + location.hash) + '&theme=' +
-            LnProf.theme + '&ref=' + NL_APP_DATA.referrer_link;
-
-        LnProf.request(src, true);
-    },
-    prodLoad: function(minifyVersion)
-    {
-        if (!LnProf.profId || !LnProf.enabled)
-            return;
-
-        var browser  = $.browser.platform + ' ' + $.browser.name + ' ' + $.browser.versionNumber;
-        var time     = (new Date()).getTime() - LnProf.startedAt;
-        var recordId = LnProf.recordId ? LnProf.recordId : 0;
-
-        var src = LnProf.path.join('/') + 'type=prod&browser=' + encodeURIComponent(browser) +
-            '&time=' + time + '&ver=' + (minifyVersion || '') + '&dur=' + LnProf.startDuration + '&recid=' + recordId;
-
-        LnProf.request(src);
-    },
-    stopApp: function()
-    {
-        hihit(3292);
-
-        if (!LnProf.profId || !LnProf.enabled)
-            return;
-
-        LnProf.request(LnProf.path.join('/') + 'type=stop-app&rnd=' + LnProf._rnd());
-    },
-    iframe: function()
-    {
-        var time = (new Date()).getTime() - LnProf.startedAt;
-        this.iframeLoad = time;
-
-        if (!LnProf.profId || !LnProf.enabled)
-            return;
-
-        LnProf.request(LnProf.path.join('/') + 'type=iframe&time=' + time + '&rnd=' + LnProf._rnd());
-    },
-    adblock: function()
-    {
-        if (!LnProf.profId || !LnProf.enabled)
-            return;
-
-        LnProf.request(LnProf.path.join('/') + 'type=adblock&adblock=1' + '&rnd=' + LnProf._rnd());
-    },
-    blocked: function(block)
-    {
-        if (!LnProf.profId || !LnProf.enabled)
-            return;
-
-        LnProf.request(LnProf.path.join('/') + 'type=blocked&block=' + block + '&rnd=' + LnProf._rnd());
-    },
-    popup: function(popup)
-    {
-        if (!LnProf.profId || !LnProf.enabled)
-            return;
-
-        var name;
-        if (typeof popup == 'string') {
-            name = popup;
-        } else if (popup && typeof popup == 'object') {
-            try {
-                name = popup.name || (popup.popupClass ? popup.popupClass.prototype.name : null);
-            } catch (e) {}
-        }
-
-        LnProf.request(LnProf.path.join('/') + 'type=popup&name=' + encodeURIComponent(name || 'noname') + '&rnd=' + LnProf._rnd());
-    },
-    onError: function(msg, file, line, col)
-    {
-        hihit(3282);
-        LnProf.err.push(msg+' in file '+file+' on line '+line+':'+col);
-        if (!LnProf.profId || !LnProf.enabled)
-            return;
-
-        var error = JSON.stringify(arguments);
-
-        LnProf.request(LnProf.path.join('/') + 'type=error&error=' + encodeURIComponent(error) + '&rnd=' + LnProf._rnd());
-    },
-    getErrors: function()
-    {
-        return LnProf.err.join("\n");
-    },
-    _rnd: function() { return Math.round(100000 * Math.random()); }
-};
-
-LnProf.start();
-window.onerror = LnProf.onError;
+    (new Image()).src = path +
+        '?m=' + encodeURIComponent(msg) +
+        '&u=' + encodeURIComponent(url) +
+        '&l=' + encodeURIComponent(line) +
+        '&c=' + encodeURIComponent(col) +
+        '&o=' + encodeURIComponent(error_obj) +
+        '&p=' + encodeURIComponent(page) +
+        '&r=' + Math.random();
+}
 
 </script>
     <script type="text/javascript">
@@ -385,9 +255,9 @@ window.onerror = LnProf.onError;
 <body data-controller="index" data-action="privacy" data-fb-app-id="318962828183539" class="settings">
 
 
-<div class="common common_hasNotice">
+<div class="common">
 
-    
+
 <div class="header js-header">
     <a href="/" class="header-logo"></a>
 
@@ -411,21 +281,17 @@ window.onerror = LnProf.onError;
 <li><a href="/bookmarklet" class="js-top-link-bookmarklet">Bookmarklet</a></li>
 <li><a href="http://blog.linkis.com" class="js-top-link-blog">Blog</a></li>
         </ul>
-                <ul class="mobileMenu-nav mobileMenu-nav_help">
-            <li><a href="/about" class="js-header-submenu" data-type="about">About Linkis</a></li>
-            <li><a href="/faq" class="js-header-submenu" data-type="faq">Help Center</a></li>
-        </ul>
-
+                
     </div>
 </div>
 
 
 
-        <a href="#" class="button button_blue icon-twitter header-signup js-btn-signin-tw js-top-link-login">Sign up <span class="signup-desktoponly">with Twitter</span></a>
+        <a href="#" class="button button_blue icon-twitter header-signup js-btn-signin-tw js-top-link-login js-main-page-login" data-type="header" data-src="secondary page">Sign in <span class="signup-desktoponly">via Twitter</span></a>
     </div>
 </div>
 
-    <div class="static-holder">
+<div class="static-holder">
 	<h3>Privacy Policy</h3>
 
 <p>Linkis provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of this Website.</p>
@@ -470,7 +336,7 @@ window.onerror = LnProf.onError;
 
 </div>
 
-<div class="footer">
+<div class="footer" id="footer">
     <div class="footer-wrapper">
         <div class="footer-nav">
             <a href="/about" class="nav-item js-footer-about">About</a>
@@ -493,13 +359,7 @@ window.onerror = LnProf.onError;
 </div>
 
 
-
-
-    <script type="text/javascript">
-    window.steal = { loaded:["prod/production.css"] };
-    </script>
-
-    <script src="/js/steal/steal.production.js?prod/production.js&amp;901"></script>
+    <script src="/js/steal/steal.production.js?prod/userpages/production.js&amp;v=59bf"></script>
 
 
     <!-- UserVoice JavaScript SDK (only needed once on a page) -->
