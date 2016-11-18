@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvguide.co.uk privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313231448id_/http%3A//www.tvguide.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvguide.co.uk privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232753id_/http%3A//www.tvguide.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - TV Guide UK TV Listings
 
@@ -42,4 +42,4 @@ When you visit our website, we may store some information on your computer. This
 
 Advertisements on our site are provided by another organisation. Our advertising partner will serve ads that it believes are most likely to be of interest to you, based on information about your visit to this and other websites (this information is anonymous in that it does not include your name, street address, e-mail address or telephone number). In order to do this, our advertising partner may need to place a cookie (a small text file) on your computer. For more information about this type of online behavioral advertising, about cookies, and about how to turn this features off, please visit <http://www.youronlinechoices.com/uk/>
 
-If you have any further question regarding our policy please contact us using our [feedback page](https://web.archive.org/comments.asp) | 
+If you have any further question regarding our policy please contact us using our [feedback page](https://web.archive.org/comments.asp)
