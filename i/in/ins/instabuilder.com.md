@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instabuilder.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623050650id_/http%3A//instabuilder.com/v2.0/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instabuilder.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235106id_/http%3A//instabuilder.com/v2.0/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | InstaBuilder 2.0
 
