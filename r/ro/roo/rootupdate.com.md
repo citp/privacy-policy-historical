@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rootupdate.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609101716id_/http%3A//www.rootupdate.com/p/privacy-policy_13.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rootupdate.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119005859id_/http%3A//www.rootupdate.com/p/privacy-policy_13.html) for the most accurate reproduction.*
 
 # Root Update : Privacy Policy
 
@@ -16,8 +16,8 @@ Root Update does use cookies to store information about visitors preferences, re
 
 DoubleClick DART Cookie
 
-.:: Google, as a third party vendor, uses cookies to serve ads on techtreat.in.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to techtreat.in and other sites on the Internet.  
+.:: Google, as a third party vendor, uses cookies to serve ads on rootupdate  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to rootupdate and other sites on the Internet.  
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html  
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense  
