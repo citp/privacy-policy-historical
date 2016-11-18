@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifelabs.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228125448id_/http%3A//www.lifelabs.com/corporate/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifelabs.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118224420id_/http%3A//www.lifelabs.com/corporate/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Corporate | LifeLabs
 
@@ -29,11 +29,10 @@ For further information regarding our Privacy Program, please contact our Priva
 
 ### LifeLabs Privacy and Security Officer
 
-Patrick Kenny   
-Privacy & Security Officer  
+Urooj Kirmani  
 100 International Blvd.Toronto, Ontario, M9W 6J6  
-Phone: 416-675-4530 x. 2873  
-Email: [ privacy@lifelabs.com](mailto:privacy@lifelabs.com)
+Phone: 1-877-675-4530 x.3858  
+Email: [privacy@lifelabs.com](mailto:privacy@lifelabs.com)
 
 ### Access & Privacy Forms - Ontario  
 
