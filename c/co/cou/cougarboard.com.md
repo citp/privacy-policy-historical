@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cougarboard.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601101932id_/http%3A//www.cougarboard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cougarboard.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000115id_/http%3A//www.cougarboard.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CougarBoard
 
@@ -26,7 +26,9 @@ Information you provide in surveys will remain confidential. Survey data will on
 
 This site allows you to post messages in various formats, either to the public, to groups, or to individuals. All messages are owned by whoever posted them. By posting to CougarBoard.com, you agree to allow your message to be published on the Internet by CougarBoard.com.
 
-Posts to the message board may be edited or deleted by the user until the post is put into the "archive", according to the board archive policy at the time. After that, posts may not be edited or deleted from our archive. Boardmails, chat, and other message formats supported by this site do not allow editing or deletion, but have a limited audience. Please be aware of that when posting personal information. 
+Posts to the message board may be edited or deleted by the user until the post is put into the "archive", according to the board archive policy at the time. After that, posts may not be edited or deleted from our archive. Moderators may still have access to edited or deleted posts.
+
+Boardmails, chat, and other message formats supported by this site do not allow editing or deletion, but have a limited audience. Please be aware of that when posting personal information. 
 
 ### Emails
 
