@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innerbody.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405130957id_/http%3A//www.innerbody.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innerbody.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235754id_/http%3A//www.innerbody.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | InnerBody
 
@@ -17,7 +17,7 @@
   11. Business Transitions
   12. Changes in this Privacy Policy
   13. Definitions
-  14. [Contact us](https://www.innerbody.com/htm/aboutsite.html#contact)
+  14. [Contact us](http://www.innerbody.com/htm/aboutsite.html#contact)
 
 
   1. **Information We Collect**
@@ -110,7 +110,7 @@ This privacy statement applies only to information collected by the Website.
 
 
 
-We have made an effort to protect the personal information of all users of the Website, and to the extent applicable, we attempt to comply with local data protection and consumer rights laws. If you are unsure whether this Privacy Policy is in conflict with the applicable local rules where you are located, you should not submit your personal information to the Website. **IN ADDITION, IF YOU ARE LOCATED WITHIN THE EUROPEAN UNION, YOU SHOULD NOTE THAT YOUR INFORMATION WILL BE TRANSFERRED TO THE UNITED STATES, THE LAWS OF WHICH MAY BE DEEMED BY THE EUROPEAN UNION TO HAVE INADEQUATE DATA PROTECTION** (see, for example, European Union Directive 95/46/EC of 24 October 1995, a copy of which can be found [here](http://europa.eu.int/eur-lex/lex/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:EN:HTML)). If you are located in a country outside of the United States of America, and you submit personal information to the Website, we will consider such submission to be your consent to the general use of such information as provided in this Privacy Policy and to the transfer of that information to and/or storage of that information in the United States of America.
+We have made an effort to protect the personal information of all users of the Website, and to the extent applicable, we attempt to comply with local data protection and consumer rights laws. If you are unsure whether this Privacy Policy is in conflict with the applicable local rules where you are located, you should not submit your personal information to the Website. **IN ADDITION, IF YOU ARE LOCATED WITHIN THE EUROPEAN UNION, YOU SHOULD NOTE THAT YOUR INFORMATION WILL BE TRANSFERRED TO THE UNITED STATES, THE LAWS OF WHICH MAY BE DEEMED BY THE EUROPEAN UNION TO HAVE INADEQUATE DATA PROTECTION** (see, for example, European Union Directive 95/46/EC of 24 October 1995, a copy of which can be found [here](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:31995L0046)). If you are located in a country outside of the United States of America, and you submit personal information to the Website, we will consider such submission to be your consent to the general use of such information as provided in this Privacy Policy and to the transfer of that information to and/or storage of that information in the United States of America.
 
   11. **Business Transitions**
 
