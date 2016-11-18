@@ -1,152 +1,111 @@
-> *The following text is extracted and transformed from the minuteclinic.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623041554id_/http%3A//www.cvs.com/minuteclinic/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minuteclinic.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234257id_/http%3A//www.cvs.com/minuteclinic/info/privacy-policy) for the most accurate reproduction.*
 
 # Minute Clinic privacy policy
 
-Effective date: November 30, 2012.
+Effective Date: November 8, 2016 
 
-At CVS Caremark we are committed to ensuring your privacy and this guides every decision we make about how, where and when to collect your personally identifiable information. Our goal is to provide you with clear, easy-to-read information about our privacy policy and information practices in one place. This Privacy Policy and the other explanatory information we provide on this site apply throughout our businesses and across our websites, mobile apps and social media presences ("Our Sites"). We welcome your questions and feedback about our Privacy Policy or our privacy commitments, and invite you to call us toll-free at 1-866-389-2727.
+This Privacy Policy describes the practices of Minute Clinic, L.L.C. ("MinuteClinic", "we" or "us") in connection with information collected through CVS.com/minuteclinic (the "Website"). By using the Website, you agree to the terms of this Privacy Policy. If you have any questions or concerns about this Privacy Policy, or about the way your information is collected and used, please call us toll-free at 1 866 389 2727 
 
-We recognize the trust you place in us to safeguard your privacy. Our privacy commitments are and will remain a fundamental component of our business, and will apply to everyone who has a relationship with CVS Caremark including patients, customers and visitors to Our Sites.
+To the extent that information collected through the Website is patient information provided to obtain treatment, this information is governed by the Minute Clinic Notice of Privacy Practices and not this Privacy Policy. If you have questions about which policy applies to information you have provided, please do not hesitate to call us toll-free at 1-866-389-2727 or email us at [privacyofficer@cvshealth.com](mailto:privacyofficer@cvshealth.com). 
 
-As part of our privacy commitment to you, we want to share with you the basic components of our Privacy Policy:
+We may change this Privacy Policy. The "Effective Date" legend at the top of this page indicates when this Privacy Policy was last revised. Any changes will become effective when we post the revised Privacy Policy on the Website. Your use of the Website following these changes means that you accept the revised Privacy Policy. 
 
-  * Transparency. We will make our privacy commitments easy to find and easy to read.
-  * Notice. We will notify you of changes to our Privacy Policy before they take effect.
-  * Choice. You have choices about what information you provide to CVS Caremark and how CVS Caremark will use your information for marketing purposes.
-  * Security. We will use state of the art security safeguards to protect your privacy and the data entrusted to us.
-  * Control. We will not sell your personal information to anyone, for any purpose. And when we share information with our subsidiaries or trusted service providers, they too must comply with our privacy commitments.
-  * Accessibility. We will listen to your feedback and answer your questions about our Privacy Policy, commitments and practices.
+Who May Use the Website 
 
+The Website is not directed to users under the age of 13. We do not knowingly collect personal information online from any person we know to be under the age of 13 and instruct users under 13 not to send us any information to or through the Website.
 
+The Website is designed for users from, and is controlled and operated by us from, the United States. By using the Website, you consent to the transfer of your information to the United States, which may have different data protection rules than those of your country.
 
-### The CVS Caremark Privacy Policy
+The Personal Information We Collect 
 
-  
-The Scope of this Privacy Policy  
-CVS Caremark Sites and Mobile Apps, including those for CVS/pharmacy®, Caremark and MinuteClinic®, are owned and operated by CVS Pharmacy, Inc.
+We want you to understand how personal information you provide to us is collected and used. We collect and store your personal information when you provide it to us or to our service providers, such as in the following situations: 
 
-This Privacy Policy describes the choices you can make about the way your information is collected and used. Our Privacy Policy applies to the information collected on Our Sites and to any other information that CVS Caremark collects about you.
+Appointments: We or our service providers collect personal information from you when you schedule an appointment using the Website. 
 
-For information about the privacy of your personal health information, please review the [Notice of Privacy Practices](https://web.archive.org/minuteclinic/info/hipaa).
+Contact Information: Minute Clinic collects personal information from users of the Website who are interested in receiving information about our products or services, such as e-mail alerts, newsletters, and other notifications. 
 
-Your consent to use Our Sites  
-By using Our Sites you signify your consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. If you do not agree with the practices described in this Privacy Policy please do not use Our Sites.
+Surveys: From time to time, Minute Clinic requests information from you via surveys on the Website. Participation in these surveys is voluntary, and the information collected is used in accordance with this Privacy Policy. You may contact us regarding any survey as set forth under "Contact Information", below. 
 
-The information we collect about customers and users  
-CVS Caremark may collect different types of personal or other information when you visit Our Sites, when you place orders with us and in other circumstances described in this Privacy Policy. Some examples of the information we collect include:
+If you submit any personal information relating to other people in connection with the Website, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy. 
 
-  * Contact Information, which we use for contacting you regarding your orders or for services which may be of interest to you;
-  * Billing Information necessary for your financial relationship with us, including payment method data you store with us for the completion of orders;
-  * Protected Health Information necessary for filling prescription orders from CVS Caremark. This information is also protected under our Notice of Privacy Practices.
-  * Technical Information relating to your use of Our Sites or mobile apps.
+We may combine the information collected from you through the Website with information we receive from and about you from other online and offline sources, such as in our stores, and use the combined information in accordance with this Privacy Policy. Our goal is to offer you content, advertisements, products, and services that are most likely to appeal to you. 
 
+Use and Disclosure of Personal Information 
 
+We use your personal information to respond to your requests, such as to schedule your appointment, contact you with information about your appointment, send you email alerts, send you newsletters, and to provide you with related customer service. We may also use your information to send marketing communications and administrative information to you. 
 
-How we collect information about customers and users  
-CVS Caremark collects information in four primary ways:
+We may use personal information to personalize your experience on the Website, including by presenting products and offers tailored to you, and for our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing our Website and new products and services, determining the effectiveness of our promotional campaigns, and operating and expanding our business activities. 
 
-  * When you provide us with information when you purchase or interact with us about products or services offered by CVS Caremark;
-  * When you register as a user of a CVS Caremark Site;
-  * When we collect technical information automatically when you visit Our Sites; and
-  * When we obtain information about you from your employer or health care plan in connection with your prescription orders.
+In the event that Minute Clinic or some or all of our business, assets or stock are sold or transferred (including in connection with any bankruptcy or similar proceedings) or used as security, or to the extent we engage in business negotiations with third parties, personal information may be transferred to or shared with third parties as part of any such transaction or negotiation. 
 
+To the extent permitted by applicable law, we may provide personal information to our affiliated businesses or to our business partners, who may use it to send you marketing and other communications. 
 
+We may disclose personal information to our service providers, who provide services such as website hosting, data analysis, payment processing, order fulfilment, information technology and related infrastructure provision, customer service, email delivery, auditing, and other services. 
 
-How we use information about customers and users  
-CVS Caremark may use the information we collect in a variety of ways to enhance our customers' experiences including to:
+If we are requested by law enforcement officials or judicial authorities to provide personal information, we may do so. In matters involving claims of personal or public safety or in litigation where the information is pertinent (including to allow us to pursue available remedies or limit the damages that we may sustain), we may use or disclose personal information, including without court process. We may also use or disclose personal information to enforce our terms and conditions, to protect our operations or those of any of our affiliates, or to protect our rights, privacy, safety or property and/or that of our affiliates, you, or others. 
 
-  * Process your orders for products or services;
-  * Improve customer services;
-  * Respond to your questions;
-  * Deliver you customized content, advertising and savings that may be of interest to you;
-  * Communicate with you regarding updates, offers and promotions;
-  * Monitor and ensure Site integrity and security;
-  * Investigate, prevent or take action relating to illegal activities, violations of our Terms of Service or Privacy Policy; and
-  * Aggregate non-identifiable information for business analysis.
+We may use and disclose personal information to investigate security breaches or otherwise cooperate with authorities pursuant to a legal matter. 
 
+We may use and disclose information that does not personally identify you (including the information described under "Cookies and Other Technologies", below) for any purpose, except to the extent limited by applicable law. If we are required to treat such information as personal information under applicable law, then we may use it for all the purposes for which we use and disclose personal information. 
 
+We may combine information that does not personally identify you with personal information. If we do, we will treat the combined information as personal information as long as it is combined. 
 
-Online activity tracking and advertising
+Links 
 
-  * We collect information about your activity on Our Sites using technologies such as cookies including third-party cookies, web beacons and server log files.
-  * We and our third party business partners use this automatically generated information, as well as other information that we or they have, to provide you with an optimal website experience. This includes measuring the effectiveness of our ads and tailoring offers and advertisements to you for products or services you may find helpful on Our Sites and third-party sites.
-  * If you would prefer not to participate in interest-based advertising, you can always opt-out of this activity by visiting the [Network Advertising Initiative (NAI) website](http://www.networkadvertising.org/choices/).
-  * Remember that even if you opt out through the NAI website you can still receive tailored offers through your CVS/pharmacy ExtraCare® savings and rewards program, which can be accessed through CVS.com®.
+The Website may contain links to, or otherwise make available, third-party websites, services, or other resources not operated by us or on our behalf ("Third Party Services"). These links are provided as a convenience only and do not constitute an affiliation with, endorsement or sponsorship of the Third Party Services. In particular, you acknowledge that the Minute Clinic bill payment and Telehealth services are provided by third parties, and not by Minute Clinic. Any information you provide to such third parties is not subject to the terms of this Privacy Policy, and we are not responsible for the privacy or security of the information you provide to them or their handling of your information. We recommend that you review the privacy policy of any third party to whom you provide personal information online. 
 
+Security 
 
+We seek to use reasonable physical, technical, and administrative safeguards to protect personal informaion within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure, please immediately contact us in accordance with the "Contact Information" section below. 
 
-How we share personal information  
-CVS Caremark will only share your personal information in manners described within this Privacy Policy.
+Cookies and Other Technologies 
 
-  * _With CVS Caremark companies:_ CVS Caremark and its subsidiaries may share your personally identifiable information with one another to ensure that your experiences as a customer or user of CVS Caremark Sites are as seamless and enjoyable as possible.
-  * _With third-party companies:_ In limited circumstances, CVS Caremark may share your personally identifiable information with third-party companies to provide you with technologies, services or content that may be of interest to you or to assist us in fulfilling your orders. In all instances in which CVS Caremark shares your personally identifiable information, we require that the recipient agree to protect it in a manner consistent with this privacy policy.
-  * _In other circumstances:_ CVS Caremark may share your information in other limited circumstances, including:
-  * Responding to requests from law enforcement officials or judicial authorities or to otherwise cooperate with authorities pursuant to a legal matter.
-  * Responding to matters of personal or public safety.
-  * In litigation where the data is pertinent.
-  * To investigate security incidents.
-  * In the event of the sale or transfer of CVS Caremark or of some of our assets, or in the context of similar business negotiations.
-  * We do not sell your personal information to anyone for marketing purposes.  
+Like many other websites and online services, we collect information about Website traffic and usage patterns through the use of cookies, Web server logs, and other, similar technologies. We use this information for various purposes, such as to ensure that the Website functions properly, to facilitate navigation, to personalize your experience, to understand use of the Website, to diagnose problems, to measure the success of our marketing campaigns, and to otherwise administer the Website. 
 
+Cookies are small computer files we transfer to your computer's hard drive. These small text files help us personalize content on our pages and provide programs like e-coupons. Your browser software can be set to reject or accept cookies. Instructions for resetting the browser are available in the Help section of most browsers. 
 
+Our use of cookies also allows us to collect and retain certain information about a website user, such as the type of Web browser used by our customer. Reviewing our Web server logs and our customers' use of our site helps us to, among other purposes, statistically monitor how many people are using our site and for what purpose. 
 
+Your IP address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider. An IP address may be identified and logged automatically in our server log files whenever a user accesses the Website, along with the time of the visit and the page(s) that were visited. Collecting IP addresses is standard practice and is done automatically by many websites, applications and other services. We use IP addresses for purposes such as calculating usage levels of the Website, helping diagnose server problems, and administering the Website. 
 
-Anonymous and aggregate information
+We may use Adobe Flash Local Stored Objects ("LSOs") and other technologies to, among other things, collect and store information about your use of the Website. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the Website Storage Settings Panel. You can also control Flash LSOs by going to the Global Storage Settings Panel and following the instructions (which may include instructions that explain, for example, how to delete existing Flash LSOs (referred to "information" on the Macromedia site), how to prevent Flash LSOs from being placed on your computer without your being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications. 
 
-  * We also collect technical, non-personal information about site users.
-  * CVS Caremark may also remove personally identifiable information to create anonymous data.
-  * This data cannot be used to identify any individual.
-  * CVS Caremark uses and shares this data for historical, statistical or business planning purposes.
+Tracking/Third-Party Advertisers 
 
+We may use third-party advertising companies to display advertisements regarding goods and services that may be of interest to you when you access and use the Website, based on information relating to your access to and use of the Website and other online services. To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags). If you would like more information about this practice and to learn about your choices in connection with it, please visit <http://www.networkadvertising.org/managing/opt_out.asp> and <http://www.aboutads.info/>. 
 
+We do not respond to browser do-not-track signals. 
 
-Our online Privacy Policy for children
+We may use analytics providers that use cookies, pixel tags and other, similar technologies to collect information about your use of the Website and your use of other websites or online services. 
 
-  * CVS Caremark sites are not intended or designed to attract users under the age of 13.
-  * We do not collect personally identifiable information from any person we know to be under the age of 13.
-  * We instruct users under the age of 13 not to send any information to CVS Caremark through Our Sites.
+Fraudulent Sites, Spam & Phishing 
 
+Please be aware that there may be fraudulent websites that illegally use MinuteClinic logos, and other aspects of the MinuteClinic brand. MINUTECLINIC is in no way associated with any fraudulent websites. These sites may circulate their presence on the internet via spam email, or through fraudulent phishing practices. 
 
+These sites have not been authorized by MINUTECLINIC to use our name and we work aggressively to identify their source and have them shut down. If you are in receipt of this type of spam email, to help protect your privacy you should avoid replying to it or forwarding it to other people. 
 
-Our data protection and security policy
+In addition to our official websites, MINUTECLINIC works with a number of third parties that host websites and micro-sites that provide information and services to our customers. If you are concerned that a website or an email may be fraudulent, please contact us by phone at 1-866-389-or email us at [privacyofficer@cvshealth.com](mailto:privacyofficer@cvshealth.com). 
 
-  * We maintain industry standard data security measures, including SSL encryption, to protect sensitive data such as when it is stored by CVS Caremark and when you send it to us.
-  * We ask all third parties acting on our behalf to protect your information in accordance with this Privacy Policy and to implement comparable data protection and security policies.
-  * We maintain personal information for registered Site users in accordance with our Records Retention Policy and Procedure and you have the right to change your membership information or status at any time. 
+Your Choices and Access 
 
+You can take yourself off our email list for promotional offers at any time by following the instructions contained in such emails. If you opt out of receiving promotional emails from us, we may still send you important administrative messages, from which you cannot opt out. 
 
+You can request the removal or modification of the personal information you have provided to us by sending an email to [privacyofficer@cvshealth.com](mailto:privacyofficer@cvshealth.com). For your protection, we may only implement requests with respect to the personal information associated with the particular email address that you use to send us your request, and we may need to verify your identity and obtain information on the context in which you provided your personal information before implementing your request. We will try to accommodate your request as soon as reasonably practicable. 
 
-CVS Caremark customer privacy choice and control
+Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting such change or deletion. There may also be residual information that will remain within our databases and other records, which will not be removed. 
 
-  * You have the ability to review, modify or request the removal of personal information we collect about you. Certain information may be retained, however, to satisfy legal obligations.
-  * You may choose to limit the types and frequency of communications you receive from CVS Caremark.
-  * You may choose to end your relationship with CVS Caremark at any point.
+Your California Privacy Rights 
 
+If you are our customer and a California resident, you may request that we provide you with certain information about the entities with which we have shared our customers' personal information for direct marketing purposes during the preceding calendar year. To do so, please write to us at [privacyofficer@cvshealth.com](mailto:privacyofficer@cvshealth.com). 
 
+Contact Information 
 
-Our privacy commitments to employment applicants
+If you have any questions or concerns about this statement, or about the way your information is collected and used, please call us toll-free at 1-866-389-2727 or email us at [privacyofficer@cvshealth.com](mailto:privacyofficer@cvshealth.com). 
 
-  * We collect information, including personal contact information, education and work history as well as Social Security numbers in order to process and consider your application.
-  * Your application information will not be sold to unaffiliated third parties for marketing purposes.
-  * The information on your application may be shared with background services and our affiliates and used for certain regulatory, compliance and legal purposes.
+If you have any questions about the content of this Privacy Policy, please contact the CVS Health Corporation Privacy Office at the following address: 
 
-
-
-Changes to this Privacy Policy
-
-  * Any changes in our Privacy Policy will be prominently posted so that you are aware of any changes in the data we collect and how we use it.
-  * If you register and provide us with a valid email address we will notify you by email of any significant changes to this Privacy Policy. You will be given the opportunity to opt in to any significant new uses of personal information if that information was collected prior to the change in this policy. If you do not opt in to any significant new uses of your personal information, that information will continue to be governed by the policy in effect at the time your information was collected.
-  * If you do not register we will not have your email address and cannot provide you with any notifications of Privacy Policy changes. 
-
-
-
-Your personal health information
-
-In some circumstances, CVS Caremark's use of your information will also be subject to the requirements of the Health Insurance Portability and Accountability Act (frequently referred to as "HIPAA"). For example, when you are submitting personal health information for prescription refills, we are subject to the requirements of HIPAA.  
-In these circumstances, the terms of CVS Caremark's [Notice of Privacy Practices](https://web.archive.org/minuteclinic/info/hipaa) will apply.
-
-If you have questions about which policy applies to information you have provided us, please do not hesitate to contact us at Privacy Office MinuteClinic, One CVS Drive, Woonsocket, RI 02895 or call us toll-free at 1-866-389-2727.
-
-Your California Privacy Rights
-
-Under California Civil Code Section 1798.83, California customers are entitled to request information relating to whether a business has disclosed personal information to any third parties for the third parties' direct marketing purposes. As explained elsewhere in this Privacy Policy, CVS Caremark will not sell or transfer your personal information with third-party companies for their direct marketing purposes without your consent. California customers who wish to request further information about our compliance with this statute or who have questions more generally about our Privacy Policy and our privacy commitments to our customers and Site users should not hesitate to contact us at Privacy Office MinuteClinic, One CVS Drive, Woonsocket, RI 02895 or call us toll-free at 1-866-389-2727.
+CVS Health Corporation  
+1 CVS Drive  
+Woonsocket, R.I. 02895  
+1-866-389-2727  
+[privacyofficer@cvshealth.com](mailto:privacyofficer@cvshealth.com)
