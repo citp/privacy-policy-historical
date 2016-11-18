@@ -1,87 +1,99 @@
-> *The following text is extracted and transformed from the uclan.ac.uk privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120014153id_/http%3A//www.uclan.ac.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uclan.ac.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119005924id_/http%3A//www.uclan.ac.uk/corporate_information/privacy.php) for the most accurate reproduction.*
 
-# Privacy Statement - Privacy - University of Central Lancashire
+# Privacy | University of Central Lancashire
 
-This privacy policy sets out how UCLan uses and protects any information that you give UCLan when you use this website. 
+This policy explains how we collect, use and disclose information that you provide through your use of the University of Central Lancashire (UCLan) website. We may collect information directly through the completion of online forms and surveys or anonymously via cookies and system log files. We utilise this data to respond to your enquiries, monitor use of our systems, and to improve your experience of our website. 
 
-UCLan is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+If you have any questions or concerns about our privacy policy then please contact [webco-ordinator@uclan.ac.uk](mailto:webco-ordinator@uclan.ac.uk).
 
-UCLan may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 12 April 2012.
+This privacy policy is reviewed on a regular basis. This policy was last updated 13 April 2016.
 
-## What we collect
+## Personal Data
 
-We may collect the following information:
+UCLan will not store or capture personal information (e.g., your name or email address) through your use of this website unless you specifically provide it to us, for example by completing a form. When you complete any forms on this website, you consent for us to use this information for the purpose of your enquiry. We will use the data you provide for internal record keeping and to facilitate your request. Where indicated, we may use your personal details to send you promotional information about the University unless you indicate otherwise.
 
-  * name and job title 
-  * contact information including email address 
-  * demographic information such as postcode, preferences and interests 
-  * other information relevant to customer surveys and/or offers
+All personal data collected and used by UCLan is handled in compliance with the Data Protection Act 1998 (DPA) and UCLan's Data Protection Policy, available on the [data protection](https://www.uclan.ac.uk/data_protection_act/access_your_information.php) pages of this website.
 
+You can request a copy of any personal information which the University holds about you. For further details please visit the [data protection](https://www.uclan.ac.uk/data_protection_act/access_your_information.php) page.
 
+## Cookies
 
-## What we do with the information we gather
+In addition to the collection, retention and use of directly provided personal information, the University utilises '[cookies](http://www.allaboutcookies.org/)' to store and retrieve anonymous data during each visit to the website.
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+It is important for you to understand what cookies are, what we use cookies for, and how to disable them if you do not wish for them to be used whilst visiting this site.
 
-  * Internal record keeping. 
-  * We may use the information to improve our products and services. 
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+A cookie is a small text file that is placed on your computer or device by websites that you visit. Cookies are widely used in order to enhance websites, providing a more tailored and personal experience whilst permitting websites to review and analyse anonymous information about visitors (e.g., time spent on particular pages). Some of these cookies are presented by us, some of the cookies are presented by third-parties such as Google, YouTube, Facebook and Twitter. A cookie does not identify the individual viewing a web page and does not give us access to your computer.
 
+Further information about cookies can be found at [www.allaboutcookies.org](http://www.allaboutcookies.org/). If you have any queries or concerns about our use of cookies on this website, please contact [webco-ordinator@uclan.ac.uk](mailto:webco-ordinator@uclan.ac.uk). All changes to our cookie policy will appear on this page.
 
+### Types of cookies
 
-## Security
+Cookies may be set either by uclan.ac.uk (“first party cookies”) or by third party websites (“third party cookies”). Cookies may be used or required for a number of reasons: 
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+#### Essential cookies
 
-## How we use cookies
+Essential cookies are required to provide access to secure sections of the website (e.g., when you log in to staff or student areas). If you do not permit access to and use of such cookies then you may not be able to log in correctly. 
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+#### Functionality cookies
 
-This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google").  Google Analytics uses "cookies" to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States . Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.  Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.  You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.  By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. To opt out of Google Analytics, please visit the following site <http://tools.google.com/dlpage/gaoptout>
+Functionality cookies are used to enhance your experience of using our website. For example, cookies may remember a course page that you have visited or subject area that you appear interested in and tailor presented information accordingly.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+#### Analytic cookies
 
-### Cookies provided by 3rd parties
+Third-party analytic cookies are used to collect anonymous information about how visitors use our website. We analyse such data to help improve the content of the site and to aid us in investigating issues such as missing pages.
 
- Cookie
+#### Tracking cookies
 
-| 
+The University of Central Lancashire makes use of third-party tracking cookies to measure the performance and effectiveness of online marketing campaigns for the courses we provide.
 
-Host 
+The following table identifies the cookies we use on our site and explains the purpose of each cookie.
 
-| 
+Please note, we review the following information and our use of particular cookies on a regular basis. The tables below represent a review of cookies as of March 2016. If you find a cookie set whilst browsing our website that is not mentioned here then please contact us ([webco-ordinator@uclan.ac.uk](mailto:webco-ordinator@uclan.ac.uk)) and we will investigate and update this page accordingly.
 
-Purpose   
-  
+## First Party Cookies
+
+Cookie | Name | Purpose  
 ---|---|---  
+www.uclan.ac.uk | cookie_accept, cookie_decline | Acknowledgement of cookie banner and link to cookie/privacy policy  
+www.uclan.ac.uk | course_cookie | Stores details of the last course page visited  
+UCLan (Netscalar) | NSC_ESNS | Balances visitor load on UCLan servers  
+careerhub.uclan.ac.uk | ASP.NET_SessionId, _RequestVerificationToken | Session cookie for login verification  
+intranet.uclan.ac.uk | NSC_WT* | Session cookie for login verification  
+roombooking.uclan.ac.uk | ASP.NET_SessionId, KeepPortalHidden | Session cookies for online Room Booking System  
+shibidp.uclan.ac.uk (Shibboleth) | JSESSIONID, _idp_authn_lc_key | Login and verification for Shibboleth  
+vls.uclan.ac.uk | NSC_WT-* | Session cookie for login verification (UCLan Video Library Server)  
+www2.uclan.ac.uk | PHPSESSID | Session cookie for Virtual Placement Circuit (NHS)  
   
-_utma  
-_utmb  
-_utmc  
-_utmz 
+## Third Party Cookies
 
-| 
+In common with most organisations and websites, the University uses Google Analytics to enable us to analyse how our website is being used. This means that information about use of our website may be transmitted to Google (Alphabet, Inc.) - this information does not enable you to be identified and is not considered privacy intrusive. If you would like to prevent Google Analytics tracking your online visits across the Internet then please visit Google’s [opt out](http://tools.google.com/dlpage/gaoptout) page for further information.
 
- Google
+You can also change the settings in your browser to [manage or refuse cookies](http://www.allaboutcookies.org/manage-cookies/). However, in doing so, you may be unable to access certain features of our website.
 
-| 
-
- Evaluation of this website, compiling reports on website activity  
+Cookie | Name | Purpose  
+---|---|---  
+Google | _utma, _utmb, _utmc, _utmt, _utmt_b, _utmz, _ga, _gat, CONSENT, NID, | Google Analytics tracking and privacy consent cookies. Google analytics is used on all pages of the website (including subdomains).  
+atoz.ebsco.com | ASP.NET_SessionId, AtoZAuthCookie, BIGipServerpool_AtoZ_http, Ebsco.Translations | Login and verification for EBSCO  
+shibboleth.ebscohost.com | BIGipServershib-wildcard_port | Login and verification for Shibboleth  
+syndication.twitter.com | lang, metrics_token | Set by a Twitter widget present on some pages on the site allowing visitors to view and respond to latest tweets.  
+YouTube | PREF, VISITOR_INFO1_LIVE, YSC | Preferences and visitor information set by YouTube videos present on some pages on the site.  
   
-## Links to other websites
+## Logs
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+All UCLan web server activity is recorded. We use our server log files to analyse usage of the University website and associated systems for resourcing and planning purposes. This information may be archived in an anonymous form for historical records.
 
-## Controlling your personal information
+## Search Engine
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+The University of Central Lancashire makes use of two search engines: the widely-used general Google Site Search and a course-specific search engine. We collect and retain search data in order to analyse visitor requests. We use this information to prioritise popular and important content to ensure relevant search results are provided.
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us or emailing [contact us](mailto:contactus@uclan.ac.uk?subject=CRM%20opt-out).
+## Surveys
 
+From time to time we will facilitate the presentation of surveys on the website. Privacy information and use of cookies will be detailed by each survey and will supersede or supplement policy presented here.
 
+## Limit of this policy - links to other websites
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+This privacy policy applies only to websites administered by the University of Central Lancashire which reside on the main UCLan domain (www.uclan.ac.uk) or associated UCLan subdomains (*.uclan.ac.uk). While this website provides links to other relevant websites, the University cannot be held responsible for the content provided by third-party websites or providers and is not responsible for the privacy policies and protection of your data collected by these websites.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to UCLan, Preston, Lancashire, PR1 2HE.
+## Contact
+
+If you have any queries about our privacy or cookie policy then please contact [webco-ordinator@uclan.ac.uk](mailto:webco-ordinator@uclan.ac.uk).
