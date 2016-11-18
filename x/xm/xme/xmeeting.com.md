@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xmeeting.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230094540id_/http%3A//www.xmeeting.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmeeting.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231625id_/http%3A//www.xmeeting.com/site/privacy) for the most accurate reproduction.*
 
 # XMeeting.com - Register now free for online dating and casual dates
 
