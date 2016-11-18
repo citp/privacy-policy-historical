@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alignable.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414142004id_/https%3A//www.alignable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alignable.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118041930id_/https%3A//www.alignable.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Alignable
 
@@ -146,6 +146,6 @@ Alignable Corporation
 
 Attn: Legal Department, Privacy Policy Issues
 
-1000 Winter Street
+205 Portland Street
 
-Waltham, MA 02451
+Boston, MA 02114
