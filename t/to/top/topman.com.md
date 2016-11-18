@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topman.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604151149id_/http%3A//www.topman.com/en/tmuk/category/terms-and-conditions-140316/home%3Fcat2%3D278567%23fragment-9%26intcmpid%3Dfooter_text_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topman.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118224737id_/http%3A//www.topman.com/en/tmuk/category/terms-and-conditions-140316/home%3Fcat2%3D278567%23fragment-9%26intcmpid%3Dfooter_text_privacy) for the most accurate reproduction.*
 
 # Terms and Conditions - TOPMAN
 
@@ -6,11 +6,11 @@ Welcome to the Topman terms and conditions, which apply to all items ordered fro
 
 We may change these terms and conditions from time to time without notice to you. Changes will apply to any subsequent orders received. Once your order has been confirmed, we will not be able to make any changes to the terms that apply to that order.
 
-Before placing an order, if you have any queries relating to these terms and conditions, please contact our **Customer Services team**.
+Before placing an order, if you have any queries relating to these terms and conditions, please contact ** [customer.care@topman.com](mailto:customer.care@topman.com)**.
 
   * UK Delivery
-  * DELIVERY OUTSIDE THE UK
   * Delivery Promotion
+  * DELIVERY OUTSIDE THE UK
   * TITLE RETENTION
 
 
@@ -25,6 +25,8 @@ Alternatively, you can collect your items from one of our stores in the UK (excl
 
 If you have any questions concerning delivery of your order, please contact our [Customer Services Team](http://help.topman.com/system/templates/selfservice/topman/#!portal/1005/topic/1543/Contact). 
 
+We may run delivery promotions from time to time. Please see Promotions section of these terms and conditions to check whether we are running any at this time. 
+
 We offer two delivery options for international customers outside the United Kingdom: (1) Standard Delivery and (2) Tracked and Faster Delivery. Charges apply to both options. For further information, including the costs and estimated delivery times, please see **Do you provide international delivery?,**  in the Delivery section of our [FAQs](http://help.topman.com/system/templates/selfservice/topman/#!portal/1005).
 
   
@@ -32,8 +34,6 @@ Please note that we do not deliver to the Channel Islands and BFPO addresses.
 
   
 If you have any questions concerning delivery of your order, please contact our  **[Customer Services Team](http://help.topman.com/system/templates/selfservice/topman/#!portal/1005/topic/1543/Contact).**
-
-We may run delivery promotions from time to time. Please see Promotions section of these terms and conditions to check whether we are running any at this time. 
 
 Any items ordered remain our property until we recieve full payment.
 
@@ -72,7 +72,7 @@ Student Beans members and Unidays members receive 10% off purchases with a valid
 
 **STUDENT DISCOUNT INSTORE**
 
-Students receive 10% off purchases with any valid student card. We do not accept Student Beans in store.To redeem the discount please show a valid student card at the checkout. Discount is not available on giftcards or store card payments. We reserve the right to terminate this discount without notice. We reserve the right to not accept ID that we deem invalid or fraudulent.
+Students receive 10% off purchases with any valid student card. To redeem the discount please show a valid student card at the checkout. Discount is not available on giftcards or store card payments. We reserve the right to terminate this discount without notice. We reserve the right to not accept ID that we deem invalid or fraudulent.
 
   * UK + EIRE RETURNS
   * INTERNATIONAL RETURNS
@@ -100,6 +100,8 @@ You also have the right to cancel your contract with us and return your items by
 
 Your statutory rights are not affected by our returns policy.
 
+Buy Now Pay Later Orders - Orders purchased using Buy Now Pay Later (Klarna) can only be returned to the website.
+
 We guarantee to refund any item purchased on our website that you are not completely happy with when you return it to us in a saleable condition by post within 14 days of receipt. International purchases can only be returned by post, and our stores outside of the UK and the Republic of Ireland currently do not offer refunds or exchanges on any items purchased online.
 
 You are required to return unwanted orders at your own cost. See Returns by Post (all Countries) for details.
@@ -111,7 +113,7 @@ In the interests of hygiene we do not offer refunds on underwear or swimwear if 
 
 Please also note that items must be returned with all of the barcode tags intact and with the despatch note you received enclosed.
 
-If you are a customer in the European Union you have the right to cancel your contract with us and return your items by post within 14 calendar days from the day after the date you received your order. Please see **[RIGHT TO CANCEL (EU CUSTOMERS)](https://web.archive.org/web/20160604151149id_/http%3A//www.topman.com/en/tmuk/category/terms-and-conditions-140316/We%20guarantee%20to%20refund%20any%20item%20purchased%20on%20our%20website%20that%20you%20are%20not%20completely%20happy%20with%20when%20you%20return%20it%20to%20us%20in%20a%20saleable%20condition%20by%20post%20within%2014%20days%20of%20receipt.%20International%20purchases%20can%20only%20be%20returned%20by%20post.%20You%20are%20required%20to%20return%20unwanted%20orders%20at%20your%20own%20cost.%20Our%20stores%20outside%20of%20the%20UK%20and%20Republic%20of%20Ireland%20currently%20do%20not%20offer%20refunds%20or%20exchanges%20on%20any%20items%20purchased%20online.%20We%20are%20sorry%20for%20any%20inconvenience%20this%20may%20cause%20you.%20Refunds%20will%20be%20credited%20to%20your%20original%20method%20of%20payment.%20In%20the%20interests%20of%20hygiene%20we%20do%20not%20offer%20refunds%20on%20underwear%20or%20swimwear%20if%20the%20hygiene%20seal%20has%20been%20removed,%20or%20pierced%20jewellery%20or%20cosmetic%20products%20if%20they%20have%20been%20used%20or%20the%20hygiene%20seal%20is%20broken,%20unless%20they%20are%20of%20unsatisfactory%20quality%20or%20unfit%20for%20purpose.%20Please%20also%20note%20that%20items%20must%20be%20returned%20with%20all%20of%20the%20barcode%20tags%20intact%20and%20with%20the%20despatch%20note%20you%20received%20enclosed.%20If%20you%20are%20a%20customer%20in%20the%20European%20Union%20you%20have%20the%20right%20to%20cancel%20your%20contract%20with%20us%20and%20return%20your%20items%20by%20post%20within%2014%20calendar%20days%20from%20the%20day%20after%20the%20date%20you%20received%20your%20order.%20Please%20see%20RIGHT%20TO%20CANCEL%20\(EU%20CUSTOMERS\)%20for%20details.) **for details.
+If you are a customer in the European Union you have the right to cancel your contract with us and return your items by post within 14 calendar days from the day after the date you received your order. Please see **[RIGHT TO CANCEL (EU CUSTOMERS)](https://web.archive.org/web/20161118224737id_/http%3A//www.topman.com/en/tmuk/category/terms-and-conditions-140316/We%20guarantee%20to%20refund%20any%20item%20purchased%20on%20our%20website%20that%20you%20are%20not%20completely%20happy%20with%20when%20you%20return%20it%20to%20us%20in%20a%20saleable%20condition%20by%20post%20within%2014%20days%20of%20receipt.%20International%20purchases%20can%20only%20be%20returned%20by%20post.%20You%20are%20required%20to%20return%20unwanted%20orders%20at%20your%20own%20cost.%20Our%20stores%20outside%20of%20the%20UK%20and%20Republic%20of%20Ireland%20currently%20do%20not%20offer%20refunds%20or%20exchanges%20on%20any%20items%20purchased%20online.%20We%20are%20sorry%20for%20any%20inconvenience%20this%20may%20cause%20you.%20Refunds%20will%20be%20credited%20to%20your%20original%20method%20of%20payment.%20In%20the%20interests%20of%20hygiene%20we%20do%20not%20offer%20refunds%20on%20underwear%20or%20swimwear%20if%20the%20hygiene%20seal%20has%20been%20removed,%20or%20pierced%20jewellery%20or%20cosmetic%20products%20if%20they%20have%20been%20used%20or%20the%20hygiene%20seal%20is%20broken,%20unless%20they%20are%20of%20unsatisfactory%20quality%20or%20unfit%20for%20purpose.%20Please%20also%20note%20that%20items%20must%20be%20returned%20with%20all%20of%20the%20barcode%20tags%20intact%20and%20with%20the%20despatch%20note%20you%20received%20enclosed.%20If%20you%20are%20a%20customer%20in%20the%20European%20Union%20you%20have%20the%20right%20to%20cancel%20your%20contract%20with%20us%20and%20return%20your%20items%20by%20post%20within%2014%20calendar%20days%20from%20the%20day%20after%20the%20date%20you%20received%20your%20order.%20Please%20see%20RIGHT%20TO%20CANCEL%20\(EU%20CUSTOMERS\)%20for%20details.) **for details.
 
 For your convenience, customers in the UK and Republic of Ireland can go to their nearest store to return an item, excluding those in department stores. Please ensure that you take your despatch note with you as your proof of purchase. You will also require the card that was used to purchase the order online. If you are not the cardholder for the order, they will need to be present at the time of return to store to accept the refund back onto their credit/debit card.
 
@@ -121,9 +123,9 @@ International customers - Please note: unfortunately we currently do not offer r
 
 You can return an item by post within 14 days of receipt. Customers in the UK will receive a freepost returns label with their order. International customers and customers from EIRE will not receive a freepost returns label and are required to return unwanted orders at their own cost.
 
-Please see **How do I return an item by post?** in the [Returns section](http://help.topman.com/system/templates/selfservice/topman/#!portal/1005/topic/1537/Returns-Online) of our FAQs for information on how to make a return by post.
+Please see **How do I return an item by post?** in the [Returns section](http://help.topman.com/system/templates/selfservice/topman/#!portal/1005/topic/1537/Returns-Online) of our [FAQs](http://help.topman.com/system/templates/selfservice/topman/#!portal/403700000001052) for information on how to make a return by post.
 
-Please allow 28 days from the day the parcel is posted for your refund to be processed. The refund will be processed once your goods are received into our warehouse. We will email you to let you know once your parcel has been received and your refund has been processed.
+Please allow 28 days from the day the parcel is posted for your refund to be processed, this will depend on your bank or card issuer's processing time. The refund will be processed once your goods are received into our warehouse. We will email you to let you know once your parcel has been received and your refund has been processed.
 
   
 Please note that it may take 2-3 working days for the refund to show in your account. Each item returned is refunded separately, and will show on your statement as a refund / credit from Topman. If a debit/credit card that was used to purchase the items expires before we process your refund please contact our **[Customer Services Team](http://help.topman.com/system/templates/selfservice/topman/#!portal/1005/topic/1543/Contact) **with your order number, postcode and new card details.
@@ -143,19 +145,16 @@ International customers can only return these items by post.
 
 For further information on how to return items by post please see **How do I return an item by post?** in the Returns section of our [FAQs](http://help.topman.com/system/templates/selfservice/topman/#!portal/1005/topic/1537/Returns-Online).
 
-In addition to our returns policy, if you are a customer in the European Union you have the right to cancel your contract with us within 14 calendar days from the day after the date you received your order. This right does not apply to the following items: (1) items that have been sealed for hygiene reasons (e.g underwear, swimwear or pierced jewellery) if the seal has been broken; (2) CDs and DVDs if the seal has been broken; and (3) items that have been made to the customer’s specification or that are personalised. You will be responsible for the cost of returning a cancelled order to us.
+In addition to our returns policy, if you are a customer in the European Union you have the right to cancel your contract with us within 14 calendar days from the day after the date you received your order.  This right does not apply to the following items: (1) items that have been sealed for hygiene reasons (e.g make-up, underwear, swimwear or pierced jewellery) if the seal has been broken; (2) CDs and DVDs if the seal has been broken; and (3) items that have been made to the customer’s specification or that are personalised.  You will be responsible for the cost of returning a cancelled order to us.
 
 To exercise your right to cancel follow the steps below:
 
-1. Log into your account at Topman.com, download the cancellation form provided in the “my account” section and include it with the items when you return them. You can also complete and submit a web version of the **Cancellation Form**. Alternatively, write to us by email [customer.service@topman.com](mailto:customerservice@topman.com) or include a letter with the items when you return them.  Please state that you wish to cancel your contract and include your full name, address and order number. 
+  1. Print off the cancellation form provided in the “Information About your Right to Cancel” document in your order confirmation email and include it with the items when you return them.You can also access a copy of the **Cancellation Form[here](https://web.archive.org/en/tmuk/category/cancellation-form-5777934/home?TS=1470041913177).  **Alternatively, write to us by email ( **customer.service@topman.com** ) or include a letter with the items when you return them.  Please state that you wish to cancel your contract and include your full name, address and order number. 
+  2. Return the items to us by post at your own cost and no later than 14 calendar days after the day that you sent us the Cancellation Form or other written notice of your cancellation. Please **download a returns label[here](http://www.topman.com/returns/return_label.pdf) **and once completed, affix it to the parcel and take it to your local posting office.   
 
-2. Return the items to us by post at your own cost and no later than 14 calendar days after the day that you sent us the Cancellation Form or other written notice of your cancellation. Please download an [International returns label](http://help.topman.com/system/templates/selfservice/topman/#!portal/1005/topic/1537/Returns) and once completed, affix it to the parcel and take it to your local posting office.   
 
-  
-We will refund to you the price paid for the items and (unless you did not pay for delivery) the delivery charges that you paid up to a maximum amount of the cost of our Standard Delivery option. You will be refunded to your original method of payment within 14 calendar days of our receipt of the cancelled items or, if earlier, within 14 days from the day we receive proof of return from you. If we do not receive the cancelled items back, we may arrange to collect them from you at your cost.
 
-Please note: if you do not wish to cancel your entire contract and just want to return some of the items in your order you can return them in accordance with out standard return policy. Please see either **UK Returns Policy** or **International Returns Policy** (depending on where you are) for details.  
-                                                                                                                                                                                                                                                                                                                                                 
+We will refund to you the price paid for the items and (unless you did not pay for delivery) the delivery charges that you paid up to a maximum amount of the cost of our Standard Delivery option.  You will be refunded to your original method of payment within 14 calendar days of our receipt of the cancelled items or, if earlier, within 14 days from the day we receive proof of return from you. Orders paid for using split payment (part gift card, part other payment method) will always be refunded to the gift card(s) first.  Any remaining balance will be paid back to the other payment method originally used. If we do not receive the cancelled items back, we may arrange to collect them from you at your cost. 
 
 .
 
@@ -200,7 +199,7 @@ We continually update our website. From time to time our stores may run special 
 References in this Privacy Policy Statement to "we", "us" and "Topman" are to Top Shop/Top Man Limited (Trading as Topman). At Topman we are committed to maintaining your privacy. Our privacy policy statement is given below. If we make changes to this policy, we will notify you by updating this statement on our Website.
 
 **WHAT INFORMATION DO WE COLLECT?**  
-We ask for your name, telephone number, home address, email address and age for competitions, sweepstakes, or newsletter sign ups. When a purchase is made on our site, in addition to the above, we also ask for delivery address, and payment method details. We may obtain information about your usage of our Website to help us develop and improve it further through online surveys and other requests.
+We ask for your name, telephone number, home address, email address and age for competitions, sweepstakes, or newsletter sign ups. When a purchase is made on our site, in addition to the above, we also ask for delivery address, and payment method details. We may obtain information about your usage of our Website to help us develop and improve it further through online surveys and other requests. Our website may also use a website recording service which may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. We will not use the tool to collect any personally identifiable information or credit card numbers. Data collected by this service is used to improve our website usability.
 
 **WHAT THE DATA WILL BE USED FOR?**  
 Your data will enable us, and our processors, to fulfil your order, to notify you about important functionality changes and for statistical or survey purposes to improve this website and our services to you. We may also send you from time to time (by email or post) information about products and services and details of promotions and special offers from Topman. If you do not wish to be contacted for these purposes, we offer a range of ways in which you can inform us about your marketing preferences:
@@ -226,6 +225,12 @@ Our Website is not intended for use by children under the age of 13, and we will
 
 **SALE OF ASSETS**  
 In the unlikely event that Topman or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
+
+**KLARNA**
+
+We work with Klarna AB to offer our customers more convenient methods of payment. Klarna AB (“Klarna”) is a provider of financial services. Klarna's principal place of business is at Sveavägen 46, 111 34 Stockholm, Sweden. Klarna is registered with the Swedish companies register under the registration number 556737-0431 and licensed by and under the supervision of the Swedish Financial Supervisory Authority ([www.fi.se](http://www.fi.se/)), Box 7821, 10397 Stockholm, Sweden, and the Swedish Data Protection Authority (<http://www.datainspektionen.se/in-english/>), Box 8114, 10420 Stockholm, Sweden.
+
+We need to provide Klarna with certain information about you and the order to enable Klarna to assess whether you qualify for their credit products. We need to transfer to Klarna account details such as your name, address, email address, phone number, and payment history, as well as your order details, such as payment method, shipping details, what was ordered, and similar. This will not be done if you do not select Klarna as your payment method. The further use of this data will be governed by Klarna’s Privacy Policy <http://cdn.klarna.com/1.0/shared/content/legal/terms/Klarna/en_gb/privacy>
 
 This website uses cookies to collect information. 
 
@@ -287,10 +292,6 @@ The Exchange Lab uses cookies to provide you with personalised adverts when you 
 <http://theexchangelab.com/privacy-policy/>  
 Please note though, that if you delete your cookies too, we'll no longer know that you've opted out, so the banners from The Exchange Lab will reappear when you visit other selected websites.  
   
-Criteo |  Criteo uses cookies to provide you with personalised adverts when you visit other selected websites. We would like to continue to display content that's relevant to you; however, you can choose to opt out of this type of advertising permanently by visiting  
-<http://www.criteo.com/us/privacy-policy>  
-Please note though, that if you delete your cookies too, we'll no longer know that you've opted out, so the banners from Struq will reappear when you visit other selected websites.  
-   
 ecustomeropinions.com | In order to provide you with a better service, occasionally we'll ask if you'd like to complete a survey. This cookie's sole purpose is to remember if we've asked you to do so recently, and it contains no personal information.  
   
 Affiliate Window, Linkshare, Zanox
@@ -413,9 +414,9 @@ These exclusions of liability shall not apply to any damages arising from death 
 
 Times quoted in these terms and conditions are Greenwich Mean Time or British Summer Time (as applicable).
 
-Please note that Topman facilitates the sale of certain products on topman.com as agent for its concession brands. By making an order on this site you enter into a contract with the relevant concession brand itself rather than with Topman.
+Please note that Topman facilitates the sale of certain products on topman.com as agent for its concession brands. Please click [here](https://web.archive.org/en/tmuk/category/list-of-concession-brands-6052188/home?TS=1478186567191&cat2=3429173 "List of concession brands") for a list of concession brands. By making an order on this site you enter into a contract with the relevant concession brand itself rather than with Topman.
 
-These terms and conditions shall be governed by and construed in accordance with English Law and it is agreed that the English courts shall have exclusive jurisdiction in the event of a dispute. If any terms shall be unlawful, void or for any reason unenforceable then that provision shall be deemed severed and shall not affect the validity and enforceability of the remaining provisions.
+These terms and conditions shall be governed by and construed in accordance with English Law and it is agreed that the English courts shall have exclusive jurisdiction in the event of a dispute. If any terms shall be unlawful, void or for any reason unenforceable then that provision shall be deemed severed and shall not affect the validity and enforceability of the remaining provisions. For EU customers only: If you enter into this contract as a consumer this clause does not affect your legal rights as a consumer in your jurisdiction.
 
 Copyright © TOPMAN
 
@@ -437,16 +438,15 @@ London W1T 3NL
 
 VAT No: GB169 0943 36
 
-[customer.service@topman.com](mailto:customerservice@topman.com)
+[customer.care@topman.com](mailto:customer.care@topman.com)
 
 Customer Service Telephone Number: [0344 984 0265](tel:%200344%20984%200265) 
 
   * FREE DELIVERY OVER £50
-  * STUDENT DISCOUNT
   * VIP FREE DELIVERY
-  * 10% OFF - NEWTEN
-  * Win A Trip To Las Vegas
-  * WIN TICKETS TO SZIGET FESTIVAL
+  * TOPMAN LEAVE A REVIEW TO WIN £100
+  * Topman £500 PERSONAL SHOPPING SPREE
+  * MURDOCK GROOMING PRIZE DRAW
 
 
 
@@ -466,26 +466,6 @@ FREE DELIVERY OVER £50
 
 
 Promoter: Topshop/Topman Limited t/a Topman registered no. 1016191.
-
-Registered office: Colegrave House, 70 Berners Street, London, W1T 3NL.
-
-STUDENT DISCOUNT
-
-  1. To redeem the Discount online, enter your student card number at the online checkout.
-  2. To redeem the Discount in-store, show your valid student card at the checkout in-store and complete the data capture card.
-  3. By entering your details in order to take advantage of the Discount you agree that your personal details may be used to keep you informed about our promotions, products and news.
-  4. Topman complies with the standard procedures laid down in the UK Data Protection Act to ensure that the personal information you give us in kept secure and processed fairly and lawfully. For further details, please see our Privacy Policy at www.topman.com or ask in-store.
-  5. The Discount may not be exchanged for cash and is non-transferable.
-  6. Returned items will be refunded at the discounted price paid.
-  7. This does not affect your statutory rights.
-  8. The Discount may not be used to purchase gift cards or to settle store card accounts.
-  9. Topman reserves the right to refuse any student ID that it deems to be invalid or fraudulent.
-  10. Topman reserves the right to (i) cancel this offer at any time; (ii) refuse to allow any individual to participate in this offer; and (iii) amend these terms and conditions.
-  11. These terms and conditions shall be governed by and construed in accordance with English law and the English courts shall have exclusive jurisdiction in the event of a dispute.
-
-
-
-Promoter: Top Shop/Top Man Limited trading as Topman (registered no. 2317752).
 
 Registered office: Colegrave House, 70 Berners Street, London, W1T 3NL.
 
@@ -512,106 +492,228 @@ Promoter: Top Shop / Top Man Limited trading as Topman. Company No. 02317752
 
 Registered office: Colegrave House, 70 Berners Street, London W1T 3NL.
 
-10% OFF TERMS AND CONDITIONS - NEWTEN
+**TOPMAN LEAVE A REVIEW TO WIN £100**
 
-  1. This code entitles you to receive 10% off at Topman.com in one transaction online.
-  2. Valid from 19th May – 16th June 2016.
-  3.  The code can only be used by the recipient and is not transferable.
-  4. Code is limited to one redemption per customer.
-  5. Voucher cannot be used in conjunction with any other offer or promotion online and cannot be exchanged for cash.
-  6. Voucher cannot be used for the purchase of gift cards, gift vouchers or for paying store card accounts. Normal refund policy applies.
-  7. Topman reserves the right to withdraw this offer at any time.
-  8. By redeeming this voucher online, you agree that your details including but not limited to your email address may be used to keep you informed about Topman promotions, products and news.
+**UK  COMPETITION TERMS AND CONDITIONS**  
+ 
 
+  1. By entering the competition (the  **“Competition”** ) you agree to these terms and conditions. 
+  2. This Competition is open to residents of the UK aged 16 or over, except for employees of the Arcadia Group, their families, agencies or anyone else associated with this Competition. If you are under the age of 18, you must obtain consent from your parent/guardian to enter theCompetition. By entering into the Competition you confirm that you have this consent. 
+  3. To enter you must write a review of a Topman product that you have recently purchased using the ‘write a review’ link contained on the individual webpage for that product on the Topman website, or by following the ‘write a review’ prompt provided to you in an email sent to you by Topman following an online purchase.
+  4. This Competition will run from 00:00 (GMT) on 1 December 2015 until 23:59 (GMT) on 31st December 2016 (the  **“Promotional Period”** ).    
+  5. There is one prize (the  **“Prize”** ) to be won each calendar month during the Promotional Period.   A month begins at 00:00 (GMT) on the first day of each month and ends at 23:59 (GMT) on the final day of each month during the Promotional Period (each a  **“Calendar Month”** ).  
+  6. The Prize shall consist of a £100 Topman gift card that may be spent in-store or online.  Gift card terms and conditions apply. 
+  7. There shall be one winner each Calendar Month (the  **“Winners”,  **and each one a **  “Winner”**) from all reviews received within that Calendar Month.  The winning entry will be that entry which in the sole opinion of Topman is the best when judged against the following criteria:
 
+it is constructive and informative and will help other customers to understand the product;  
+it explains how the product can be worn and what it can be worn with;  
+it is engaging and interesting to read, and is clearly based upon personal experience of using the product.
 
-Promoter: Top Shop / Top Man Limited trading as Topman. Company No. 02317752. 
-
-Registered office: Colegrave House, 70 Berners Street, London, W1T 3NL.
-
-WIN A TRIP TO VEGAS - UK PRIZE DRAW TERMS AND CONDITIONS
-
-  1. By entering the free prize draw (the “ **Prize Draw** ”) you agree to these terms and conditions.
-
-
-  2. The Prize Draw is open to residents of the UK aged 18 or over, except for employees of the Arcadia Group, their families, agencies or anyone else associated with this Prize Draw.
-  3. To enter you must complete your details on the online entry form available to complete at: 
-    1. [www.Topman.com/](http://www.topman.com/); or
-    2. You can access the Prize Draw entry form hosted on Ginger Nut Media’s (“ **GNM** ”) website as follows: 
-      1. If you receive an email sent by GNM featuring the Topman Prize Draw, click the link in the email directing you to the Prize Draw entry page on GNM’s website; or
-      2. If you see the online banner advert displayed on various third party websites featuring the Topman Prize Draw click the banner advert which will take you to the Prize Draw entry page on GNM’s website.
-  4. The Prize Draw opens at 07:00 (BST) on 19 May 2016 and closes on 23:59 (BST) on Sunday 31st July 2016 (the **“Closing Date”** ).Entries must not be sent in through agents or third parties. One entry per person. Entries which are late, incomplete, illegible or defaced will not be accepted.
-  5. There shall be one winner (a “ **Winner** ”). The Winner of the Prize Draw will be the first entry drawn at random within three weeks of the Closing Date. Winner will be notified by email or telephone no later than four weeks after the Closing Date. Prize will be confirmed within 30 days of Closing Date.  Topman’s decision will be final and no correspondence will be entered into.
-  6. There is one prize (the “ **Prize** ”) to be won. The Prize shall consist of the following: 
-    1. Return economy flights from any London, UK airport to Las Vegas Mccarran airport for the Winner and their guest. Flights will include: 
-      1. Access to the airport lounge (if applicable) at the Winner’s chosen London airport.
-      2. One item of hand luggage per person (max 5kg) and one item of hold luggage per person (max 23kg).    
-    2. Return private airport transfers from Las Vegas airport to Las Vegas hotel (return transfers to London airport not included).
-    3. 4 nights accommodation at a 4 star hotel (chosen in Topman’s sole discretion) in Las Vegas, USA, based on two people sharing a double or twin room. Winner will need a credit/ debit card in order to check-in at the hotel for a security deposit.
-    4. A Topman shopping spree for the Winner up to the value of £500 to be redeemed at a Personal Shopping Appointment at a Topman store offering this service. Topman will contact Winner in advance to arrange the Personal Shopping Appointment. Winner is responsible for any amount spent over £500. No cash alternative for any amount not redeemed.
-  7. Prize is being arranged and booked by IMS Agency.
-  8. Prize must be taken by 31st May 2017, and cannot be taken on the following dates: 
-    1. Between 25th June and 10th July 2016
-    2. Between 20th November 2016 and 7th January 2017
-    3. Between 25th March and 15th April 2017
-  9. All elements of the Prize must be taken at the same time.
-  10. Winner will be required to sign and complete a “winner information and prize acceptance form” (“Acceptance Form”), and the Winner and their travel companion must submit copies of their passports in order to enable IMS Agency to arrange the Prize.
-  11. Winner’s requested departure date must have a minimum of 90 days advance notice of travel after completion of their Acceptance Form, unless stated otherwise.
-  12. Winner will be required to submit three preferred departure dates, each date must be at least one calendar month apart.
-  13. Once booked the Prize cannot be amended or altered
-  14. Travel insurance (insurance provider at IMS’ sole discretion) will be supplied to the Winner and their guest before departure, subject to no pre-existing medical conditions. Travel insurance is subject to restrictions and the terms and conditions of the insurance provider. It is the responsibility of the Winner and their travel companion to meet any additional costs relating to obtaining insurance cover for any pre-existing medical condition and for any additional costs as may be specified where the Winner and / or their travel companion are aged 65 or over.
-  15. Spending money and meals are not included in the Prize. Winner shall be responsible for all other costs. All taxes (including without limitation national and local taxes) in connection with the Prize and the reporting consequence thereof, are the sole responsibility of the Winner.
-  16. The Winner and their travel companion may be required to provide appropriate government issued photo identification (such as a valid passport) at time of travel, and are solely responsible for determining and obtaining all necessary travel documents and complying with all other travel requirements.  Where travel is included in the Prize no changes will be made to travel itinerary or other travel details once any portion of travel arrangements have been made, except at Topman’s sole discretion.  Topman is not responsible for changes in schedule or for any expenses incurred as a consequence of flight cancellation/delay.
-  17. The Winner must bring a credit card for settlement of incidentals not included in the Prize and the Winner shall be responsible for all expenses not specified in the Prize description above.
-  18. If the Prize is not claimed within 14 days of the Winner being notified, Topman reserves the right to award the Prize to an alternative winner.
-  19. The Prize is non-transferable, non-refundable and non-negotiable. There is no cash alternative.  Topman reserves the right to substitute the Prize (or any part thereof) for one of its choosing which has a value the same or greater than the original Prize in the event of circumstances outside of its control. Prize is provided by IMS Agency. Promoter is not responsible for the Prize.
-  20. Only one entry per person. Any person found to be sending multiple entries will be ineligible. Topmandoes not accept responsibility for network, computer, hardware or software failures of any kind, which may restrict or delay the sending or receipt of your entry.
-  21. By entering this Prize Draw, you agree that your details, including but not limited to your email address, may be used to keep you informed about Topman promotions, products and news. The Winner also agrees that their details will be shared with IMS Agency in order to provide the Prize. Topman complies with the standard procedures laid down in the UK Data Protection Act to ensure that the personal information you give us is kept secure and processed fairly and lawfully. Topman will not share your information with third parties for marketing purposes unless you have given us permission to do so. For further details please see our online Privacy Policy at [www.Topman.com](http://www.topman.com/).
-  22. By entering the Prize Draw the Winner agrees to participate in such promotional activity and material as Topman may require.
-  23. The Winner’sfirst name, surname and county will be available for 28 days after the Closing Date and can be requested by sending a stamped addressed envelope to ‘Topman - Win a trip to Vegas’ at the address below.
-  24. Topman reserves the right to (i) cancel this Prize Draw, (ii) cancel or refuse any individual’s entry and (iii) amend these terms and conditions (and will use reasonable endeavors to notify changes to entrants and potential entrants).  These terms and conditions shall be governed by English law and the English courts shall have exclusive jurisdiction in the event of a dispute.
+  8. The Winner will be picked and notified by phone or email by no later than ten days following the end of each Calendar Month.   Topman’s decisions shall be final and binding in all respects on all entrants.  No correspondence will be entered into. 
+  9. If the Prize is not claimed within seven days of the Winner being notified, Topman reserves the right to award the Prize to an alternative winner. 
+  10. The Prize is non-transferable, non-refundable and non-negotiable.  There is no cash alternative.  Topman reserves the right to substitute the Prize (or any part thereof) for one of its choosing which has a value the same or greater than the original Prize in the event of circumstances outside of its control. Entries must not be sent in through agents or third parties. 
+  11. Entries from one calendar month will not be rolled over into the next calendar month.  Topman does not accept responsibility for network, computer, hardware or software failures of any kind, which may restrict or delay the sending or receipt of your entry. 
+  12. All reviews submitted on the Topman website are subject to the ‘Customer Ratings and Reviews – Terms and Conditions’:<http://reviews.topman.com/content/6024-en_gb/termsandconditions.htm>. For the avoidance of doubt, you will retain the rights of ownership in your review ( **“Entry”** ).  However, in consideration of Topman providing the Competition, you will grant Topman a worldwide, irrevocable, royalty-free licence to use your Entry in any of Topman’s publications, websites, promotional activities and any other materials, for 50 years from the closing date of the Competition.  To the maximum extent permitted by law, you hereby agree to waive all, and agree not to assert any, of your moral rights (or similar rights) wherever in the world arising which relate to your Entry. All material submitted becomes the sole property of Topman and will not be returned. 
+  13. All Entries must be your own work and must not have been published elsewhere or have won a prize in any other similar competition. It is your responsibility to ensure that any Entry does not infringe the intellectual property rights or other rights of any third party or any laws.  You warrant that the Entry is your own work and that you own the intellectual property rights in it. 
+  14. By entering this Competition, you agree that your details, including but not limited to your email address, may be used to keep you informed about Topman promotions, products and news. Topman complies with the standard procedures laid down in the UK Data Protection Act to ensure that the personal information you give us is kept secure and processed fairly and lawfully.  Topman will not share your information with third parties for marketing purposes unless you have given us permission to do so. For further details please see our online Privacy Policy Statement available at [www.Topman.com](http://www.topman.com/). 
+  15. By entering the Competition, the Winners agree to participate in such promotional activity and material as Topman may require. 
+  16. The Winner’s first name, surname and county will be available for 28 days following the end of each Calendar Month and can be requested by sending a stamped addressed envelope to ‘ **Topman – Leave a Review to Win’  **at the address below. 
+  17. Topman reserves the right to (i) cancel this Competition, (ii) cancel or refuse any individual’s entry and (iii) amend these terms and conditions (and will use reasonable endeavors to notify changes to entrants and potential entrants).  These terms and conditions shall be governed by English law and the English courts shall have exclusive jurisdiction in the event of a dispute. 
 
 
 
 Promoter: Top Shop / Top Man Limited trading as Topman. Company No. 02317752. 
 
+Colegrave House, 70 Berners Street, London, W1T 3NL.
+
+UK PRIZE DRAW TERMS AND CONDITIONS
+
+  1. By entering the free prize draw (the “TOPMAN £500 personal shopping spree”) you agree to these terms and conditions.
+
+
+  2. The Prize Draw is open to residents of the UK aged 16 or over, except for employees of the Arcadia Group, their families, agencies or anyone else associated with this Prize Draw. If you are under the age of 18, you must obtain consent from your parent/guardian to enter the Prize Draw. By entering into the Prize Draw you confirm that you have this consent.
+
+
+  3. To enter you must complete in full a Topman entry form online at [http://TOPMAN.gingernuthosting.co.uk/TOPMAN-dev/](http://topman.gingernuthosting.co.uk/topman-dev/). ThePrize Draw opens at 04:00pm(GMT) on Monday 10/10/16 and closes at 11:59pm (GMT) on Wednesday 30/11/16 (the “Closing Date”). Entries must not be sent in through agents or third parties. Late, incomplete, illegible or defaced entries will not be accepted.
+
+
+  4. There shall be 1 winner. The winner of the Prize Draw will be the first entry drawn at random within 1 week of the Closing Date. The Winner will be notified by email by no later than Friday 09/12/16. Topman’s decision will be final and no correspondence will be entered into.
+
+
+  5. There is oneprize (the “Prize”) to be won. The Prize shall consist of 1x Topman shopping spree to the value of £500. If the Topman £500 personal shopping spree appointment is not possible for the winner, the £500 gift card will be sent to directly to them. Gift card terms and conditions apply.
+
+
+  6. If the Prize is not claimed within 48 hours of the Winner being notified, Topmanreserves the right to award the Prize to an alternative winner.
+
+
+  7. The Prize is non-transferable, non-refundable and non-negotiable. There is no cash alternative.  Topman reserves the right to substitute the Prize (or any part thereof) for one of its choosing which has a value the same or greater than the original Prize in the event of circumstances outside of its control.
+
+
+  8. Only one entry per person. Any person found to be sending multiple entries will be ineligible. Topmandoes not accept responsibility for network, computer, hardware or software failures of any kind, which may restrict or delay the sending or receipt of your entry.
+
+
+  9. By entering this Prize Draw, you agree that your details, including but not limited to your email address, may be used to keep you informed about Topman promotions, products and news.Topman complies with the standard procedures laid down in the UK Data Protection Act to ensure that the personal information you give us is kept secure and processed fairly and lawfully. Topman will not share your information with third parties for marketing purposes unless you have given us permission to do so. For further details please see our online Privacy Policy atwww.Topman.com.
+
+
+  1. By entering the Prize Draw the Winner agrees to participate in such promotional activity and material as Topmanmay require.
+
+
+  1. The Winner’sfirst name, surname and county will be available for 28 daysafter the Closing Date and can be requested by sending a stamped addressed envelope to Topman £500 personal shopping spreeat the address below. 
+
+
+  2. Topmanreserves the right to (i) cancel this Prize Draw, (ii) cancel or refuse any individual’s entry and (iii) amend these terms and conditions (and will use reasonable endeavors to notify changes to entrants and potential entrants).  These terms and conditions shall be governed by English law and the English courts shall have exclusive jurisdiction in the event of a dispute.
+
+
+  3. Promoter:
+
+
+
+Topman. Company No. 02317752. 
+
 Registered office: Colegrave House, 70 Berners Street, London, W1T 3NL.
 
-**WIN TICKETS TO SZIGET FESTIVAL**
+UK PRIZE DRAW TERMS AND CONDITIONS
 
-**UK COMPETITION TERMS AND CONDITIONS**
+  1. By entering the free prize draw (the **“Prize Draw”** ) you agree to these terms and conditions.
 
-1.    By entering the competition (the **“Competition”** ) you agree to these terms and conditions.
 
-2.    This Competition is open to residents of the UK aged 18 or over except for employees of the Arcadia Group, their families, agencies or anyone else associated with this Competition.
+  2. The Prize Draw is open to residents of the UK aged 16 or over, except for employees of the Arcadia Group, their families, agencies or anyone else associated with this Prize Draw. If you are under the age of 18, you must obtain consent from your parent/guardian to enter the Prize Draw. By entering into the Prize Draw you confirm that you have this consent.
 
-3.    To enter you must answer the multiple choice question “Where is Sziget festival?” and enter your details on the entry form at http://blog.topman.com. The Competition opens at 10:00(BST) on Thursday 27th May 2016 and closes at 10:00(BST) on Thursday 9th June 2016 (the “ **Closing Date** ”). Entries must not be sent in through agents or third parties. Late, incomplete, illegible or defaced entries will not be accepted.
 
-4.    The winning entry will be the first correct entry drawn at random from all valid entries received by the Closing Date. The Winner will be notified by email by no later than Tuesday 14th June 2016. Topman’s decision shall be final and binding in all respects on all entrants.  No correspondence will be entered into. There shall be one winner (the “ **Winner”** ).
+  3. To enter you must complete in full a Topman entry form online at [www.topman.com/blog/win-free-haircuts-with-murdock](http://www.topman.com/blog/win-free-haircuts-with-murdock). ThePrize Draw opens at 09:00 (GMT) on 4November 2016 and closes at 23:59 (GMT) on 1 December 2016(the **“Closing Date”** ). Entries must not be sent in through agents or third parties. Late, incomplete, illegible or defaced entries will not be accepted.
 
-5.    There is one prize (the “ **Prize** ”) to be won.The Prize shall consist of two standard tickets for the Winner and a guest to Sziget festival, Budapest on 10th – 17th August 2016 (“ **Prize Dates** ”). Sziget festival info is available at: <http://szigetfestival.com/info/festival_info> The Winner must be available on the Prize Dates to redeem the Prize. The Prize cannot be transferred. If the Winner is not available on the Prize Dates an alternative Winner will be chosen.
 
-·         trAVEL, ACCOMODATION, FOOD AND ANY OTHER EXPENSES WILL NOT BE COVERED BY THE BRAND.
+  4. There shall be 11 winners in total (each one a “ **Winner** ”). There is one mainprize (the “ **Main** **Prize** ”) and 10 runner up prizes (each one a “ **Runner Up Prize** ”) to be won.  The Winner of the Main Prize will be the first entry drawn at random within 7 daysof the Closing Date (the “ **First Winner** ”). The Winners of the Runner Up Prizes will be the next 10 entries drawn at random within 7 daysof the Closing Date. The Winners will be notified by email by no later than 8 December 2016. Topman’s decision will be final and no correspondence will be entered into.
 
-(a)   The Winner and their travel companion may be required to provide appropriate government issued photo identification (such as a valid passport) at time of travel, and are solely responsible for determining and obtaining all necessary travel documents and complying with all other travel requirements. Topman is not responsible for changes in schedule or for any expenses incurred as a consequence of flight cancellation/delay.
 
-(b)   The Winner shall be responsible for all expenses not specified in the Prize description above.
+  5. The Main Prize shall consist of 12 Luxury Full Barbershop Service Gift Certificates for use at Murdock London. Gift certificates are redeemable at any Murdock London shop (“ **Murdock** ”) and are valid for 12 months. The First Winner must bring the voucher with them when attending the service at Murdock. Full details of the service can be found here at [www.murdocklondon.com/gifts/gift-certificates/murdock-luxury-full-service.html](http://www.murdocklondon.com/gifts/gift-certificates/murdock-luxury-full-service.html).
 
-6.    If the Prize is not claimed within 7 days of the Winner being notified, Topman reserves the right to award the Prize to an alternative winner.
 
-7.    The Prize is non-transferable, non-refundable and non-negotiable. There is no cash alternative. Topman reserves the right to substitute the Prize (or any part thereof) for one of its choosing which has a value the same or greater than the original Prize in the event of circumstances outside of its control.
+  6. The Runner Up Prizes will be allocated at random to each of the remaining 10 Winners. The Runner Up Prizes will be shipped out by no later than 9 December 2016. Each Runner Up Prize will consist of one of the following items:
 
-8.    Only one entry per person. Any person found to be sending multiple entries will be ineligible. Brand does not accept responsibility for network, computer, hardware or software failures of any kind, which may restrict or delay the sending or receipt of your entry.
 
-9.    By entering this Competition, you agree that your details, including but not limited to your email address, may be used to keep you informed about Topman promotions, products and news. Topman complies with the standard procedures laid down in the UK Data Protection Act to ensure that the personal information you give us is kept secure and processed fairly and lawfully. Topman will not share your information with third parties for marketing purposes unless you have given us permission to do so. For further details please see our online Privacy Policy Statement available at www.topman.com.
+  1. **The Handsome Beard Set (RRP £120)**
 
-10.  By entering the Competition, the Winner agrees to participate in such promotional activity and material as Topman may require.
 
-11.  The Winner’s first name, surname and county will be available for 28 days after the Closing Date and can be requested by sending a stamped addressed envelope to TOPMAN EDITORIAL at the address below.
 
-12.  Topman reserves the right to (i) cancel this Competition, (ii) cancel or refuse any individual’s entry and (iii) amend these terms and conditions (and will use reasonable endeavors to notify changes to entrants and potential entrants).  These terms and conditions shall be governed by English law and the English courts shall have exclusive jurisdiction in the event of a dispute.
+\- Beard Shampoo
 
-13.  Promoter: Top Shop / Top Man Limited trading as Topman. Company No. 02317752. 
+\- Beard Conditioner
+
+\- Beard Oil
+
+\- Beard Moisturiser
+
+\- Marvellous Moustache Wax
+
+\- Scissors
+
+\- Kent Moustache Comb
+
+\- Horn Beard Brush
+
+\- Flannel
+
+  1. **The Stay Sharp Straight Razor Box   (RRP £80)**
+
+
+
+\- Pre Shave Oil 15ml
+
+\- Shaving Cream 15ml
+
+\- Post Shave Balm 15ml
+
+\- Wood Elliot Straight Razor
+
+  1. **Marvellous Beard & Moustache BoX (RRP£70)**
+
+
+
+\- Beard Moisturiser
+
+\- Wood Beard Brush
+
+\- Flannel
+
+\- Kent Moustache Comb
+
+\- Scissors
+
+\- Marvellous Moustache Wax
+
+  1. **The Magnificent Hair Set (RRP £60)**
+
+
+
+\- Quince & Oakmoss Shampoo
+
+\- Quince & Oakmoss Conditioner
+
+\- Kent Pocket Folding Comb
+
+\- Sea Salt Styling Spray
+
+**-** Hair Play
+
+  1. **The Gentleman's Skincare Set (RRP£35)**
+
+
+
+\- Repairing Lip Salve
+
+\- Exfoliating Facial Scrub 30ml
+
+\- Avalon Shower Gel 55ml
+
+\- Hydrating Facial Moisturiser 55ml
+
+\- Cleansing Facial Wash 55ml
+
+  1. **The Gentleman's Shave Set (RRP £35)**
+
+
+
+\- Shave Cream 50ml
+
+\- Pre Shave Oil 15ml
+
+\- Post Shave Balm 15ml
+
+  1. **The Gentleman's Beard Set (RRP £20)**
+
+
+
+\- Beard Shampoo 55ml
+
+\- Beard Conditioner 55ml
+
+\- Beard Moisturiser 55ml
+
+  7. If the Main Prize and / or any Runner up Prize is not claimed within 14 days of the Winner being notified, Topmanreserves the right to award the Main Prize and / or any Runner Up Prize to an alternative winner.
+
+
+  8. The Main Prize and / or the Runner Up Prizes are non-transferable, non-refundable and non-negotiable. There is no cash alternative.  Topmanreserves the right to substitute the Main Prize and / or the Runner Up Prizes (or any part thereof) for one of its choosing which has a value the same or greater than the original Main Prize and / or the Runner Up Prize in the event of circumstances outside of its control.
+
+
+  9. Only one entry per person. Any person found to be sending multiple entries will be ineligible. Topmandoes not accept responsibility for network, computer, hardware or software failures of any kind, which may restrict or delay the sending or receipt of your entry.
+
+
+  1. By entering this Prize Draw, you agree that your details, including but not limited to your email address, may be used to keep you informed about Topman promotions, products and news.Topman complies with the standard procedures laid down in the UK Data Protection Act to ensure that the personal information you give us is kept secure and processed fairly and lawfully. Topman will not share your information with third parties for marketing purposes unless you have given us permission to do so. For further details please see our online Privacy Policy atwww.topman.com.
+
+
+  1. By entering the Prize Draw the Winners agree to participate in such promotional activity and material as Topmanmay require.
+
+
+  2. The Winnersfirst name, surname and county will be available for 28 daysafter the Closing Date and can be requested by sending a stamped addressed envelope to TOPMAN MURDOCK GROOMING PRIZE DRAWat the address below. 
+
+
+  3. Topmanreserves the right to (i) cancel this Prize Draw, (ii) cancel or refuse any individual’s entry and (iii) amend these terms and conditions (and will use reasonable endeavors to notify changes to entrants and potential entrants).  These terms and conditions shall be governed by English law and the English courts shall have exclusive jurisdiction in the event of a dispute.
+
+
+  4. Promoter: Top Shop / Top Man Limited trading as Topman. Company No. 02317752. 
+
+
 
 Registered office: Colegrave House, 70 Berners Street, London, W1T 3NL.
 
@@ -653,3 +755,58 @@ and the Prize will be posted to the Winner within 28 days of notification from t
 15\. These terms and conditions shall be governed by English law and the English Courts shall have exclusive jurisdiction to hear any disputes.
 
 16\. Promoter: Arcadia Group Limited. Registered company no. 237511. Registered office: Colegrave House, 70 Berners Street, London W1T 3NL.
+
+UK Waste Electrical and Electronic Equipment (WEEE) Regulations (SI 2006 No. 3289)
+
+So that you can get your old electrical products recycled, Arcadia have contributed toward the development of recycling collection points (known as ‘Designated Collection Facilities) throughout the UK through our membership of the Distributor Take Back Scheme (DTS).
+
+UK households dispose of over 1.2 million tonnes of electrical and electronic waste every year. This is the equivalent of 150,000 double decker buses and would be enough to fill the new Wembley Stadium 6 times over. Much of the UK's electronic waste ends up in landfill sites, where toxins put communities at risk.
+
+To remind you to recycle, all new electrical products are marked with a crossed out wheeled bin symbol.
+
+Not all council sites are suitable to collect all types of waste electrical goods. To find out your nearest participating site and for advice on all aspects of recycling at home, please visit [www.recycle-more.co.uk](http://www.recycle-more.co.uk/)
+
+Please remember to have your postcode to hand.
+
+Topman recognizes the importance of providing a website that is accessible to all user groups, including the disabled, the visually impaired and those with motor deficiencies and cognitive disabilities.
+
+We strive to ensure that our website conforms to the Web Content Accessibility Guidelines (W3C WCAG 2.0, Level AA).
+
+To access our W3C WCAG 2.0 accessible web site, please navigate to:
+
+<https://m.topman.com/accessibility_switch>
+
+It is optimized to be navigable with a keyboard and screen reader.
+
+Although the website works with all commonly utilized screen readers, navigating the site works best with the following screen readers:
+
+ \- VoiceOver for Mac
+
+ \- Jaws for Windows
+
+Access Keys
+
+You can access the site without the need for a mouse using the following access keys:
+
+  * C = Jump to main content
+  * N = Jump to primary navigation
+  * S = Skip navigation
+  * 1 = Homepage
+  * 2 = Search
+
+
+
+To navigate with access keys follow these steps:
+
+  * Windows: Hold down the ‘Alt’ key and the access key, followed by the ‘Enter’ key.
+  * Mac: Hold down the ‘Ctrl’ key and the access key.
+
+
+
+The pages on this website comply with the recommended UK Government access keys standard.
+
+Although the website works with all commonly used web browsers, the recommended web browser that delivers the optimal experience interacting with screen readers is Chrome.
+
+If you have any difficulties with using this site and need help navigating the site, locating a particular item for sale, or  completing a purchase, please call our Customer Services team on **0344 984 0265** **and select option 1**.  Calls are Toll Free. 
+
+We are committed to making the customer experience consistent for everyone. Should you experience any difficulties, please [contact us](http://help.topman.com/system/templates/selfservice/topman/#!portal/403700000001052) so that we can assist you with any problems you have encountered.
