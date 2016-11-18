@@ -1,10 +1,8 @@
-<!--The following is the downloaded HTML source of the billoreilly.com privacy policy that was archived on 2016-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160514131113id_/http%3A//www.billoreilly.com/pg/jsp/help/general/privacypolicy.jsp%3Ffooter%3Dtrue) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the billoreilly.com privacy policy that was archived on 2016-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161118225400id_/http%3A//www.billoreilly.com/pg/jsp/help/general/privacypolicy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://ogp.me/ns#"><head>
-<link href="//fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-<link href="//fonts.googleapis.com/css?family=Oswald:400,700" rel="stylesheet" type="text/css">
-<link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Montserrat:400,700|Oswald:400,700|Lato:400,700" rel="stylesheet" type="text/css">
 <link rel="P3Pv1" href="/w3c/p3p.xml">
 <title>BillOReilly.com: Privacy Policy</title>
 <meta http-equiv="Pragma" content="no-cache">
@@ -47,14 +45,16 @@
 
 <link rel="alternate" type="application/rss+xml" href="/blog?rss=true&amp;size=50&amp;useBlurbs=true&amp;categoryID=2" title="Bill O'Reilly RSS feed">
 
-
 <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/pg/jsp/common/utils/js/jquery/jquery-1.7.1.js"></script>
 <script type="text/javascript">
 jQuery.noConflict();
 </script>
 
+
 <link rel="stylesheet" type="text/css" href="/pg/jsp/common/utils/js/jquery/bxslider/bx_styles/bx_styles.css">
+
 <script type="text/javascript" src="/pg/jsp/common/utils/js/jquery/bxslider/jquery.bxSlider.min.js"></script>
+
 <script type="text/javascript" src="/pg/jsp/common/utils/js/jquery/bbq/jquery.ba-bbq.min.js"></script>
 <script type="text/javascript" src="/pg/jsp/common/utils/js/jquery/ui/jquery-ui-1.8.18.custom.min.js"></script>
 <link rel="stylesheet" type="text/css" href="/pg/jsp/common/utils/js/jquery/tooltip/tooltipster.css">
@@ -65,7 +65,6 @@ jQuery.noConflict();
 <script type="text/javascript" src="/pg/jsp/common/utils/js/jquery/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
 <link rel="stylesheet" href="/pg/jsp/common/utils/js/jquery/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen">
 <script type="text/javascript" src="/pg/jsp/common/utils/js/jquery/fancybox/nox_fancybox_utils.js"></script>
-
 
 
 
@@ -82,12 +81,13 @@ jQuery.noConflict();
 <script type="text/javascript" src="/pg/jsp/common/utils/flowplayer/flowplayer.thumbnails.noxcustom.js"></script>
 <script type="text/javascript">
 flowplayer.conf = {
-	swf: '/pg/jsp/common/utils/flowplayer/flowplayer.swf',
-	swfHls: '/pg/jsp/common/utils/flowplayer/flowplayerhls.swf',
-	key: '$138339825760814'
+    swf: '/pg/jsp/common/utils/flowplayer/flowplayer.swf',
+    swfHls: '/pg/jsp/common/utils/flowplayer/flowplayerhls.swf',
+    key: '$138339825760814'
 };
 </script>
 <!-- END FLOWPLAYER 6 -->
+
 <script src="/pg/jsp/common/utils/js/ajaxpage.js" type="text/javascript"></script>
 <script src="/pg/jsp/common/utils/js/nox.js" type="text/javascript"></script>
 <script type="text/javascript" src="/pg/jsp/common/utils/js/ufo.js"></script>
@@ -105,47 +105,33 @@ flowplayer.conf = {
    var onloads = new Array();
    function bodyOnLoad() {
    
-	  for ( var i = 0 ; i < onloads.length ; i++ )
-		 onloads[i]();
-   }	  
+      for ( var i = 0 ; i < onloads.length ; i++ )
+         onloads[i]();
+   }      
 
-	function playerNoScroll(play,w,h,name) {   
-		var play ;        
-		var name ;
-			  if ( h < ( screen.availHeight - 50 ) ) {
-					   h = h; }
-			  else {
-					   h = ( screen.availHeight - 50 ); }
-		viewer = "width="+w+",height="+h+",toolbar=no,scrollbars=no,resizable=no,status=no,location=no,directories=no";
-		popWin = window.open(play, name, viewer);
-	}
+    function playerNoScroll(play,w,h,name) {   
+        var play ;        
+        var name ;
+              if ( h < ( screen.availHeight - 50 ) ) {
+                       h = h; }
+              else {
+                       h = ( screen.availHeight - 50 ); }
+        viewer = "width="+w+",height="+h+",toolbar=no,scrollbars=no,resizable=no,status=no,location=no,directories=no";
+        popWin = window.open(play, name, viewer);
+    }
 
-function calibrateMenuPositioning() {
-    jQuery('[data-menu-container=equalSpaceContainer]').each(function(index, element) {
-        var menuContainer = jQuery(element);
-        var relevantArbiters = menuContainer.find('[data-menu-hook=arbiter]');
-        //var relevantArbiterContainers = menuContainer.find('[data-menu-hook=arbiterContainer]');
-        var maxWidth = menuContainer.outerWidth();
-        var currentTotalWidth = menuContainer.children().outerWidth();
-        var remainingWidth = maxWidth - currentTotalWidth;
-        var totalItems = relevantArbiters.length - 1; // minus 1 is to account for no left padding on first and no right padding on last
-        var spaceAvailbleForEachItem = (remainingWidth / totalItems) | 0;
-        relevantArbiters.each(function(index, element){
-        	if(index == 0 || (index+1) == relevantArbiters.length){
-            	jQuery(element).css("width", parseInt(jQuery(element).outerWidth()) + ((spaceAvailbleForEachItem/2) | 0) + "px").css("padding-left", "0px").css("padding-right", "0px");
-        	} else {
-            	jQuery(element).css("width",  parseInt(jQuery(element).outerWidth()) + spaceAvailbleForEachItem + "px").css("padding-left", "0px").css("padding-right", "0px");
-        	}
-        });
-        // relevantArbiterContainers.css("padding-left", "0px").css("padding-right", "0px");
-        var remainderWidth = maxWidth - menuContainer.children().outerWidth();
-        for(var i=0;i<remainderWidth;i++){
-            jQuery(relevantArbiters[i]).css("width", parseInt(jQuery(relevantArbiters[i]).outerWidth() + 1) + "px");
-        }
-    });
+function loadVideoModal(pid, width, height){
+    var playerWidth = 480;
+    var playerHeight = 270;
+    if(width) {
+        playerWidth = width;
+    }
+    if(height) {
+        playerHeight = height;
+    }
+    noxFancy.modalAjaxLoad('/pg/jsp/media/video_player.jsp?previewID=' + pid + '&width=' + playerWidth + '&height=' + playerHeight + '&modal=true', {padding:0, width:'auto', height:'auto'});
 }
 </script>
-
 
 
 
@@ -164,14 +150,114 @@ function calibrateMenuPositioning() {
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
   
-  
  </script>
 
-</head>
-<body oncontextmenu="hideddrivetip();" onload="javascript:bodyOnLoad()" bottommargin="0" leftmargin="0" rightmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="background-color:#F8F8F8;">
+
+<script>
+jQuery(document).ready(function(){
+	jQuery(document).on('click.gaTrackDataEvent', '[data-analytics-event]', function(event) {
+		var $this = jQuery(this),
+		$gaEventData = $this.data('analyticsEvent'),
+		url = $this.attr('href'),
+		openInNewTab = typeof $gaEventData.openInNewTab != 'undefined' && $gaEventData.openInNewTab ? true : false;
+		if(url.length > 0 && !openInNewTab) {
+			event.preventDefault();
+		}
+		if(typeof $gaEventData.category != 'undefined' && $gaEventData.category.length > 0 && typeof $gaEventData.action != 'undefined' && $gaEventData.action.length > 0) {
+			if (typeof ga !== 'undefined') {
+				var $sendEvent = {
+					'hitType': 'event',
+					'eventCategory': $gaEventData.category,
+					'eventAction': $gaEventData.action,
+					'eventLabel': $gaEventData.label,
+					'eventValue': $gaEventData.value,
+					'nonInteraction': $gaEventData.nonInteraction
+				}
+	            ga('send', $sendEvent);
+	        } else if (typeof _gaq !== 'undefined') {
+	        	var pushArray = ['_trackEvent'];
+	        	pushArray.push($gaEventData.category);
+	        	pushArray.push($gaEventData.action);
+    			if($gaEventData.label) {
+    				pushArray.push($gaEventData.label);
+    				if($gaEventData.value) {
+    					pushArray.push($gaEventData.value);
+    					if($gaEventData.noninteraction) {
+    						pushArray.push($gaEventData.nonInteraction);
+    					}
+    				}
+    			}
+	            _gaq.push(pushArray);
+	        }
+    	}
+		if($this.attr('href') && !openInNewTab) {
+			setTimeout(function() {
+				window.location.href = url;
+			}, 100);
+		}
+	});
+});
+</script>
+<script type="text/javascript">
+jQuery(document).ready(function() {
+    var topBlurbs = jQuery('.top-blurb').find('.blurb-slide'),
+    totalBlurbs = topBlurbs.length;
+    if(totalBlurbs > 1) {
+        setInterval(function(){
+            topBlurbs.each(function(index, element) {
+                var ele = jQuery(element);
+                if(ele.is(':visible')) {
+                    ele.hide({
+                        duration: 250,
+                        direction: 'right',
+                        complete: function() {
+                            var nextBlurb = index == (totalBlurbs-1) ? topBlurbs[0] : topBlurbs[index+1];
+                            jQuery(nextBlurb).show({duration:250, direction: 'left'});
+                        }
+                    });
+                }
+            });
+        }, 7000);
+    }
+    jQuery('[data-flash-player-obj]').each(function(index, element){
+        var $ele = jQuery(element),
+        flashParams = $ele.data('flashPlayerObj'),
+        playerWidth = typeof flashParams.playerWidth != 'undefined' && flashParams.playerWidth.length > 0 ? flashParams.playerWidth : 290;
+        jQuery.extend(true, flashParams, {'playlist': false,'charttype': 'chart'});
+        jQuery.ajax({
+            url: '/flashplayer',
+            data: flashParams,
+            complete: function(jqXHR) {
+                var mp3XML = jQuery.parseXML(jqXHR.responseText),
+                $mp3XML = jQuery(mp3XML),
+                highBandwidth = $mp3XML.find('highBandwidthURL'),
+                lowBandwidth = $mp3XML.find('lowBandwidthURL'),
+                fileURL = highBandwidth.text().length > 0 ? highBandwidth.text() : lowBandwidth.text();
+                if(fileURL.length > 0) {
+                    jQuery.ajax({
+                        url: '/pg/jsp/media/audio_player.jsp',
+                        data: {
+                            audioURL: fileURL,
+                            autoPlay: false,
+                            width: playerWidth
+                        },
+                        complete: function(jqXHR) {
+                            $ele.html(jqXHR.responseText);
+                        }
+                    });
+                }
+            }
+        });
+    });
+});
+</script></head>
+
+
+<body oncontextmenu="hideddrivetip();" onload="javascript:bodyOnLoad()" bottommargin="0" leftmargin="0" rightmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="background-color:#fff;">
 <div id="modalBG" class="modalSiteBGOff" onclick="closePopdownContainer();"></div>
+
 <div id="siteWrapper" class="">
-<div align="center"> 
+    <div align="center"> 
 <div style="position:relative; z-index:9100;" class="modalPopdownWrapperWide" align="left" id="topProdImageViewWrapper"> 
     <div style=" position:absolute; z-index:9100; display:none;" class="modalPopdownFrame" id="topProdImageViewContainer"> 
         <div class="modalPopdownFrameBG"> 
@@ -198,187 +284,137 @@ function calibrateMenuPositioning() {
     </div> 
 </div> 
 </div> 
-<div id="showimage" style="position:absolute;   left: 41px; top: 61px; z-index: 1500;"></div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="topAncillaryContainer" align="center">
-    <div style="width: 1000px; margin: auto;">
-	<table cellpadding="0" cellspacing="0" border="0" width="100%">
-    	<tbody><tr>
-       	
-          	<td colspan="2" align="left" class="ancillaryMessage">No Spin Zone</td>
-            <td align="right">
-                <table cellpadding="0" cellspacing="0" border="0">
-                    <tbody><tr>
-                        <td align="right" valign="middle"><a class="ancillarySignupLink" href="/membership">SIGN UP</a></td>  
-                        <td align="left" valign="middle"><a href="https://www.billoreilly.com/site/member/login">LOG IN</a></td>
-                    </tr>
-                </tbody></table>
-            </td>
+    <div id="showimage" style="position:absolute;   left: 41px; top: 61px; z-index: 1500;"></div>
+    <div class="site-top-wrapper">
+        <div class="site-top header-wrapper">
+            <div class="top-left">
+                <div class="logo-wrapper">
+                    <div class="site-logo"><a href="/">Bill O’Reilly</a></div>
+                    <div class="top-blurb">
+                        
+                        
+                          <span class="blurb-slide">
+                            
+                            
+                            The Factor Online, All The Time
+                            
+                          </span>
+                          
+                        
+                        
+                        <span class="blurb-slide"><a href="/factor-words-of-the-day">Word of the Day: Miscreant</a></span>
+                            
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="ancillary-menu">
+                
+                <a href="/membership">Sign Up</a>
+                <a href="/site/member/login">Log In</a>
+                <a href="/membership#freeGifts">PM Benefits</a>
+                
+                
+                <a href="/store" class="button">Shop</a>
+                
+            </div>
+        </div>
         
-        </tr>
-    </tbody></table>
-    </div>
+        <div class="site-top-menu content-container">
+            
+
+
+
+
+
+
+<div class="flex space-between">
+    
+    <div class="menu-item"><a href="/">Home</a></div>
+    
+    <div class="menu-item"><a href="/store">Shop</a></div>
+    
+    <div class="menu-item"><a href="/show?action=latestTVShow">The Factor</a></div>
+    
+    <div class="menu-item"><a href="/books">Books</a></div>
+    
+    <div class="menu-item"><a href="/poll-center">Polls</a></div>
+    
+    <div class="menu-item"><a href="/pg/jsp/general/fun.jsp">Quizzes</a></div>
+    
+    <div class="menu-item"><a href="/pg/jsp/general/blogs.jsp">Columns</a></div>
+    
+    <div class="menu-item"><a href="/video">Video</a></div>
+    
+    <div class="menu-item"><a href="/f/Audio-Center">Audio</a></div>
+    
+    <div class="menu-item"><a href="/pg/jsp/general/allaboutbill.jsp">Bill</a></div>
+    
+    <div class="menu-item"><a href="/tour">Tour</a></div>
+    
+    <div class="menu-item"><a href="/pg/jsp/help/help.jsp">Help/Contact Us</a></div>
+    
 </div>
-<div class="floatContainer" style="width:1000px;margin:auto;height:68px;" align="center">
-    <div align="left" style="margin:10px 0px; float: left;"><a href="/"><img src="/images/home/design/2015_logo.png" border="0" style="display:block;"></a></div>
-	<div class="visitorNavContainer" align="left">
-        <table cellpadding="0" cellspacing="0" border="0">
-            <tbody><tr>
-                <td style="border-right: 1px solid #b5b5b5;"><a href="/" style="padding-left: 69px; background-image:url('/images/home/design/2015_home_icon_regular.png')">HOME</a></td>
-                
-                <td style="border-right: 1px solid #b5b5b5;"><a href="/membership" style="padding-left: 48px; background-image:url('/images/home/design/2015_pm_key_icon.png')">PREMIUM MEMBERS</a></td>
-                
-                <td><a href="/store" style="padding-left: 58px; background-image:url('/images/home/design/2015_store_icon.png');">STORE</a></td>
-            </tr>
-        </tbody></table>
+
+        </div>
     </div>
+    
+    <div class="site-sub-top">
+        <div class="top-sub-menu">
+            
 
-    <div align="right" style="float: right; width: 205px; margin: 15px 0px;">
-<!-- Google Search Results Code -->
 
-<script type="text/javascript">
+
+
+
+
+<script src="/pg/jsp/common/utils/js/ddmenu.js?v=2" language="javascript"></script>
+
+<div class="flex space-between content-container">
+    
+    <div class="menu-item"><span class="nonMemberHeader">SIGN UP FOR:</span></div>
+    
+    
+    
+    <div class="menu-item"><a href="/podcasthelp">The Factor Podcast</a></div>
+    
+    <div class="menu-item"><a href="/blog?categoryID=7">No Spin News</a></div>
+    
+    <div class="menu-item"><a href="/blog?categoryID=11">Bill's Daily Briefing</a></div>
+    
+    <div class="menu-item"><a href="/messageboards">Message Boards</a></div>
+    
+    <div class="menu-item"><a href="/membermessage">Member Mail</a></div>
+    
+    <div class="menu-item"><a href="/pg/jsp/help/contactbill.jsp">Contact Bill</a></div>
+    
+    
+    <div class="menu-item"><script type="text/javascript">
 function doSearch() {
 	searchst = document.getElementById('searchstring').value;
 	if(searchst.length>0){
 		window.location = '/search-results?q=' + searchst;
 	}
 }
-
+jQuery('#searchstring').on('keyup', function(event) {
+	if(event.keyCode == 13) {
+		doSearch();
+		return false;
+	}
+});
 </script>
-<form name="searchform" onsubmit="doSearch(); return false;" action="/search/searchresultsframe.jsp" method="get" style="margin:0px;">
-	<div style="border:1px solid #c7c7c7;background-color:white;padding:3px;">
-    	<table cellspacing="0" cellpadding="0" border="0" width="100%">
-        	<tbody><tr>
-            	<td valign="middle">
-            		
-            		<input style="border:0px;outline:none;padding:0px;margin:0px;font-family:Helvetica, Arial,sans-serif;display:block;line-height:14px;height:14px;color:#666;word-spacing:-0.1px;font-size:14px;" type="text" size="25" id="searchstring" name="searchstring" onkeypress="javascript:checkWhich(event);" value="">
-            	</td>
-                
-            </tr>
-        </tbody></table>
-	</div>
-	<div align="right"><a href="//Search" class="simpleSearchLink" onclick="doSearch();return false;">SEARCH</a></div>
-</form>
-	
-</div>
-               
-</div>
-
-<div align="center">
-
-	<div style="background-color: #526ab9;">
-		<div align="center" style="width: 1000px;">
-		
-            
-
+<form name="searchform" onsubmit="doSearch(); return false;" action="/search/searchresultsframe.jsp" method="get" style="margin:0px;padding:0px;">
+	<input type="text" placeholder="SEARCH" class="top-search-input" id="searchstring"><input type="button" class="top-search-button" value=" " onclick="doSearch();return false;">
+</form></div>
     
-
-
-
-
-
-
-
-<div align="left" data-menu-container="equalSpaceContainer">
-    <div class="inBlock" style="vertical-align: middle;">
-          
-          <div data-menu-hook="arbiter" align="left" class="mainMenuItems" style="display: table-cell; padding-right: 0px; width: 88px; padding-left: 0px;"><a href="/show?action=latestTVShow"><span class="main">The Factor</span></a></div>
-          
-          <div data-menu-hook="arbiter" align="center" class="mainMenuItems" style="display: table-cell; padding-left: 0px; padding-right: 0px; width: 77px;"><a href="/poll-center"><span class="main">Polls</span></a></div>
-          
-          <div data-menu-hook="arbiter" align="center" class="mainMenuItems" style="display: table-cell; padding-left: 0px; padding-right: 0px; width: 96px;"><a href="/pg/jsp/general/fun.jsp"><span class="main">Quizzes</span></a></div>
-          
-          <div data-menu-hook="arbiter" align="center" class="mainMenuItems" style="display: table-cell; padding-left: 0px; padding-right: 0px; width: 97px;"><a href="/pg/jsp/general/blogs.jsp"><span class="main">Opinion</span></a></div>
-          
-          <div data-menu-hook="arbiter" align="center" class="mainMenuItems" style="display: table-cell; padding-left: 0px; padding-right: 0px; width: 83px;"><a href="/video"><span class="main">Video</span></a></div>
-          
-          <div data-menu-hook="arbiter" align="center" class="mainMenuItems" style="display: table-cell; padding-left: 0px; padding-right: 0px; width: 84px;"><a href="/f/Audio-Center"><span class="main">Audio</span></a></div>
-          
-          <div data-menu-hook="arbiter" align="center" class="mainMenuItems" style="display: table-cell; padding-left: 0px; padding-right: 0px; width: 85px;"><a href="/pg/jsp/billsbooks/billsbooks.jsp"><span class="main">Books</span></a></div>
-          
-          <div data-menu-hook="arbiter" align="center" class="mainMenuItems" style="display: table-cell; padding-left: 0px; padding-right: 0px; width: 74px;"><a href="http://www.oreillymillertour.com" target="_blank"><span class="main">Tour</span></a></div>
-          
-          <div data-menu-hook="arbiter" align="center" class="mainMenuItems" style="display: table-cell; padding-left: 0px; padding-right: 0px; width: 84px;"><a href="/pg/jsp/general/allaboutbill.jsp"><span class="main">About Bill</span></a></div>
-          
-          <div data-menu-hook="arbiter" align="center" class="mainMenuItems" style="display: table-cell; padding-left: 0px; padding-right: 0px; width: 94px;"><a href="/help"><span class="main">Contact Us</span></a></div>
-          
-          <div data-menu-hook="arbiter" align="right" class="mainMenuItems" style="display: table-cell; padding-left: 0px; width: 98px; padding-right: 0px;"><a href="/newsletter"><span class="main">Newsletters</span></a></div>
-          
-    </div>
-</div>
-
-
-
-		</div>
-	</div>
-
-<div style="width:1000px;margin:auto; ">
-<table cellspacing="0" cellpadding="0" border="0" bordercolor="red" width="100%">
-
-<tbody><tr>
-  <td valign="middle" width="100%" colspan="2">
-  	
-            
-
     
-
-
-
-
-
-
-<div align="left" data-menu-container="equalSpaceContainer">
-    <div class="inBlock" style="vertical-align: middle;">
-            
-            <div data-menu-hook="arbiter" align="left" class="mainMenuItems" style="display: table-cell; padding-right: 0px; width: 163px; padding-left: 0px;"><span class="nonMemberHeader">SIGN UP TO ACCESS:</span></div>
-            
-            <div data-menu-hook="arbiter" align="center" style="display: table-cell; padding-left: 0px; padding-right: 0px; width: 161px;" class="mainMenuItems subMenu"><a href="/membership"><span class="subMenu">The Factor Podcast</span></a></div>
-            
-            <div data-menu-hook="arbiter" align="center" style="display: table-cell; padding-left: 0px; padding-right: 0px; width: 135px;" class="mainMenuItems subMenu"><a href="/membership"><span class="subMenu">No Spin News</span></a></div>
-            
-            <div data-menu-hook="arbiter" align="center" style="display: table-cell; padding-left: 0px; padding-right: 0px; width: 167px;" class="mainMenuItems subMenu"><a href="/membership"><span class="subMenu">Bill's Daily Briefing</span></a></div>
-            
-            <div data-menu-hook="arbiter" align="center" style="display: table-cell; padding-left: 0px; padding-right: 0px; width: 146px;" class="mainMenuItems subMenu"><a href="/membership"><span class="subMenu">Message Boards</span></a></div>
-            
-            <div data-menu-hook="arbiter" align="center" style="display: table-cell; padding-left: 0px; padding-right: 0px; width: 132px;" class="mainMenuItems subMenu"><a href="/membership"><span class="subMenu">Member Mail</span></a></div>
-            
-            <div data-menu-hook="arbiter" align="right" style="display: table-cell; padding-left: 0px; width: 96px; padding-right: 0px;" class="mainMenuItems subMenu"><a href="/membership"><span class="subMenu">Contact Bill</span></a></div>
-            
-    </div>
 </div>
-
-
-
-  </td>
-</tr>
-<script type="text/javascript">calibrateMenuPositioning();</script>
-
-
-<tr>
-	<td valign="top" align="center">
-		<table cellspacing="0" cellpadding="0" border="0" width="100%">
-		<tbody><tr>
-        	
-			<td valign="top" width="100%" style=" border:1px solid #c3c3c3;border-bottom:none;border-top:none;background-color:white;border-top:1px solid #3481d0;">
-            	
-                <div style="padding:9px;">
-				<table cellspacing="0" cellpadding="0" border="0" bordercolor="red" width="100%">
-				<tbody><tr>
-					<td valign="top" align="left">
-						<!-- Start the Middle -->
-
+        </div>
+    </div>
+    
+    
+    <div class="content-container">
+      <div class="site-content-container  content-pad">
 <!--CONTENT STARTS HERE-->
 <div style="float:left;" class="sideBarPage">
     <table border="0" cellpadding="0" cellspacing="0">
@@ -412,11 +448,11 @@ function doSearch() {
                 <br class="smBR">
                 <b>Disputes.</b> BillOReilly.com Privacy Policy disputes are handled by its customer service team with the highest concern for your privacy. <br>
                 <br class="smBR">
-                <b>BillOReilly.com Links.</b> BillOReilly.com may contain links to websites not owned or controlled by BillOReilly.com. BillOReilly.com is not responsible for the privacy policies or practices of any such sites. For other Terms of Service applicable to this site, please review the Terms of Service Agreement by <a href="/pg/jsp/help/general/termsconditions.jsp;jsessionid=ACA60FF7CBDA4F47D1F815C1E04EC47E" class="defaultLinks">clicking here</a>. <br>
+                <b>BillOReilly.com Links.</b> BillOReilly.com may contain links to websites not owned or controlled by BillOReilly.com. BillOReilly.com is not responsible for the privacy policies or practices of any such sites. For other Terms of Service applicable to this site, please review the Terms of Service Agreement by <a href="/pg/jsp/help/general/termsconditions.jsp" class="defaultLinks">clicking here</a>. <br>
                 <br class="smBR">
                 <b>A Special Note about Children.</b> Children are not eligible to use our services and BillOReilly.com asks that minors (under the age of 18) do not submit any personal information to BillOReilly.com. If you are a minor, you can use this service only in conjunction with your parents or guardians. <br>
                 <br class="smBR">
-                This site is owned and operated by BillOReilly.com, c/o National Fulfillment Services, 105 S Commerce Drive, Aston, PA 19014. For further information about Bill O'Reilly, BillOReilly.com or the BillOReilly.com website, please visit the "Contact Us" section of the Site, or click <a href="/contactus;jsessionid=ACA60FF7CBDA4F47D1F815C1E04EC47E" class="defaultLinks">here</a>. You may have this same information sent to you by e-mail by sending a letter to <a class="defaultLinks" href="mailto:legal@BillOReilly.com">legal@BillOReilly.com</a> with your e-mail address and a request for this information. </td>
+                This site is owned and operated by BillOReilly.com, c/o National Fulfillment Services, 105 S Commerce Drive, Aston, PA 19014. For further information about Bill O'Reilly, BillOReilly.com or the BillOReilly.com website, please visit the "Contact Us" section of the Site, or click <a href="/contactus" class="defaultLinks">here</a>. You may have this same information sent to you by e-mail by sending a letter to <a class="defaultLinks" href="mailto:legal@BillOReilly.com">legal@BillOReilly.com</a> with your e-mail address and a request for this information. </td>
         </tr>
         <tr>
             <td><br class="smBR">
@@ -437,30 +473,10 @@ function doSearch() {
 
 
 <div style="margin-left:29px;">
-<div style="width:300px;margin-right:-9px;">
+<div style="width:300px;margin-right:-9px;margin-bottom:15px;">
+    
     
     <div style="margin-top:0px;">
-
-
-
-
-
-
-
-
-
-
-
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Sidebar 300x250 -->
-<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-0374165366768735" data-ad-slot="1422905047"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script></div>
-        
-    
-    
-    <div style="margin-top:15px;">
 
 
 
@@ -526,9 +542,9 @@ onloads.push(factorContentPlaceholder);
             <div align="center" class="tonightFactorPiping"><img src="/images/home/tonight/top_piping.png" border="0"></div>
             <div align="center" id="oreillyFactorHeader3" class="oreillyFactorDayOfWeek  " onclick="javascript:loadOreillyFactorContent('3', this);" style="width:78px;">WEDNESDAY</div>
             <div align="center" class="tonightFactorPiping"><img src="/images/home/tonight/top_piping.png" border="0"></div>
-            <div align="center" id="oreillyFactorHeader4" class="oreillyFactorDayOfWeek  " onclick="javascript:loadOreillyFactorContent('4', this);" style="width:64px;">THURSDAY</div>
+            <div align="center" id="oreillyFactorHeader4" class="oreillyFactorDayOfWeek selected" onclick="javascript:loadOreillyFactorContent('4', this);" style="width:64px;">THURSDAY</div>
             <div align="center" class="tonightFactorPiping"><img src="/images/home/tonight/top_piping.png" border="0"></div>
-            <div align="center" id="oreillyFactorHeader5" class="oreillyFactorDayOfWeek selected" onclick="javascript:loadOreillyFactorContent('5', this);" style="width:43px;">FRIDAY</div>
+            <div align="center" id="oreillyFactorHeader5" class="oreillyFactorDayOfWeek inactive " style="width:43px;">FRIDAY</div>
             <div style="clear:both;"></div>
         </td>
     </tr>
@@ -557,7 +573,7 @@ showDefaultDays.monday = true;
                 	<td align="left" colspan="2">
                     	<table cellpadding="0" cellspacing="0" border="0">
                             <tbody><tr>
-                                <td align="left" class="bold">MAY 09, 2016</td>
+                                <td align="left" class="bold">NOVEMBER 14, 2016</td>
                                 
                                 <td align="left" class="pmText">&nbsp;|&nbsp;PM Rating: A</td>
                                 
@@ -577,59 +593,11 @@ showDefaultDays.monday = true;
                 <table cellspacing="0" cellpadding="0" border="0" width="100%">
                     <tbody><tr>
                         
-                        <td valign="middle" align="center" style="background-color:#000000; cursor:pointer; position: relative;" width="105" onclick="window.location='http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4175#2'">
-                            <a href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4175#2">
+                        <td valign="middle" align="center" style="background-color:#000000; cursor:pointer; position: relative;" width="105" onclick="window.location='http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4314#3'">
+                            <a href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4314#3">
                                 
                                 <div>
-                                    <img src="/imagesproc/aHR0cDovL2E1Ny5mb3huZXdzLmNvbS9tZWRpYTIuZm94bmV3cy5jb20vQnJpZ2h0Q292ZS82OTQ5NDAwOTQwMDEvMjAxNi8wNS8wOS82NDAvMzYwLzY5NDk0MDA5NDAwMV80ODg2MDY2OTIwMDAxX2RjODU1MTZlLTNkNTQtNDYyZC1iZmMzLTNlYjJhMzNkZTgwNi5qcGc=_H_SW105_MH60.jpg" border="0" style="display:block;">
-                                </div>
-                                
-                                <div class="play"></div>
-                                
-                            </a>
-                        </td>
-                        
-                    	<td style="padding-left: 5px;" valign="top" width="100%">
-                        	<div class="homeSubHeaderSmall">Top Story</div>
-                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4175#2">Krauthammer Reacts to Obama's Commencement Speech</a></div>
-                            
-                        </td>
-                    </tr>
-                </tbody></table>
-            </div>
-        </td>
-    </tr>
-          
-    <tr>
-        <td valign="top" style="padding:0px 0px 20px 0px;" width="100%">
-            <div style="position:relative;" class="videoThumb">
-                <table cellspacing="0" cellpadding="0" border="0" width="100%">
-                    <tbody><tr>
-                        
-                    	<td style="padding-left: 0px;" valign="top" width="100%" colspan="2">
-                        	<div class="homeSubHeaderSmall">Impact Segment</div>
-                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4175#3">Trump vs. GOP Establishment</a></div>
-                            
-                            <div>Donald Trump has theorized that he can defeat Hillary Clinton even without widespread support...</div>
-                            
-                        </td>
-                    </tr>
-                </tbody></table>
-            </div>
-        </td>
-    </tr>
-          
-    <tr>
-        <td valign="top" style="padding:0px 0px 20px 0px;" width="100%">
-            <div style="position:relative;" class="videoThumb">
-                <table cellspacing="0" cellpadding="0" border="0" width="100%">
-                    <tbody><tr>
-                        
-                        <td valign="middle" align="center" style="background-color:#000000; cursor:pointer; position: relative;" width="105" onclick="window.location='http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4175#4'">
-                            <a href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4175#4">
-                                
-                                <div>
-                                    <img src="/imagesproc/aHR0cDovL2E1Ny5mb3huZXdzLmNvbS9tZWRpYTIuZm94bmV3cy5jb20vQnJpZ2h0Q292ZS82OTQ5NDAwOTQwMDEvMjAxNi8wNS8wOS82NDAvMzYwLzY5NDk0MDA5NDAwMV80ODg2MDgxMzEzMDAxXzZiMGFkZTIxLTE5ZGEtNDY3OS05OGU3LWJmZDU2NmQxODZmMC5qcGc=_H_SW105_MH60.jpg" border="0" style="display:block;">
+                                    <img src="/imagesproc/aHR0cDovL2E1Ny5mb3huZXdzLmNvbS9tZWRpYTIuZm94bmV3cy5jb20vQnJpZ2h0Q292ZS82OTQ5NDAwOTQwMDEvMjAxNi8xMS8xNC82NDAvMzYwLzY5NDk0MDA5NDAwMV81MjEwMzg1MTk3MDAxX1JlcG9ydHMtb2YtcG9zdC1lbGVjdGlvbi1yaWdodC13aW5nLXZpb2xlbmNlLmpwZw==_H_SW105_MH60.jpg" border="0" style="display:block;">
                                 </div>
                                 
                                 <div class="play"></div>
@@ -639,7 +607,7 @@ showDefaultDays.monday = true;
                         
                     	<td style="padding-left: 5px;" valign="top" width="100%">
                         	<div class="homeSubHeaderSmall">Unresolved Problems</div>
-                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4175#4">Feds in the Bathroom</a></div>
+                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4314#3">Bigotry on the Right?</a></div>
                             
                         </td>
                     </tr>
@@ -655,10 +623,68 @@ showDefaultDays.monday = true;
                     <tbody><tr>
                         
                     	<td style="padding-left: 0px;" valign="top" width="100%" colspan="2">
-                        	<div class="homeSubHeaderSmall">Personal Story</div>
-                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4175#5">White House vs. the Media</a></div>
+                        	<div class="homeSubHeaderSmall">Factor Followup</div>
+                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4314#4">Trump and Sanctuary Cities</a></div>
                             
-                            <div>Obama national security adviser Ben Rhodes told the New York Times that he lied about the Iran...</div>
+                            <div>Donald Trump has vowed to cut off federal funding to cities that provide safe harbor to illegal...</div>
+                            
+                        </td>
+                    </tr>
+                </tbody></table>
+            </div>
+        </td>
+    </tr>
+          
+    <tr>
+        <td valign="top" style="padding:0px 0px 20px 0px;" width="100%">
+            <div style="position:relative;" class="videoThumb">
+                <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                    <tbody><tr>
+                        
+                        <td valign="middle" align="center" style="background-color:#000000; cursor:pointer; position: relative;" width="105" onclick="window.location='http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4314#5'">
+                            <a href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4314#5">
+                                
+                                <div>
+                                    <img src="/imagesproc/aHR0cDovL2E1Ny5mb3huZXdzLmNvbS9tZWRpYTIuZm94bmV3cy5jb20vQnJpZ2h0Q292ZS82OTQ5NDAwOTQwMDEvMjAxNi8xMS8xNC82NDAvMzYwLzY5NDk0MDA5NDAwMV81MjEwNDA5NTQ3MDAxX1ByZXNpZGVudC0tcHJlc2lkZW50LWVsZWN0LXMtcmVsYXRpb25zaGlwLWV2b2x2aW5nLmpwZw==_H_SW105_MH60.jpg" border="0" style="display:block;">
+                                </div>
+                                
+                                <div class="play"></div>
+                                
+                            </a>
+                        </td>
+                        
+                    	<td style="padding-left: 5px;" valign="top" width="100%">
+                        	<div class="homeSubHeaderSmall">Personal Story</div>
+                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4314#5">Presidential Press Conference</a></div>
+                            
+                        </td>
+                    </tr>
+                </tbody></table>
+            </div>
+        </td>
+    </tr>
+          
+    <tr>
+        <td valign="top" style="padding:0px 0px 20px 0px;" width="100%">
+            <div style="position:relative;" class="videoThumb">
+                <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                    <tbody><tr>
+                        
+                        <td valign="middle" align="center" style="background-color:#000000; cursor:pointer; position: relative;" width="105" onclick="window.location='http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4314#6'">
+                            <a href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4314#6">
+                                
+                                <div>
+                                    <img src="/imagesproc/aHR0cDovL2E1Ny5mb3huZXdzLmNvbS9tZWRpYTIuZm94bmV3cy5jb20vQnJpZ2h0Q292ZS82OTQ5NDAwOTQwMDEvMjAxNi8xMS8xNC82NDAvMzYwLzY5NDk0MDA5NDAwMV81MjEwNDEzODgwMDAxX1dhdHRlcnMtLVdvcmxkLVZvdGUtc2hhbWluZy1lZGl0aW9uLS5qcGc=_H_SW105_MH60.jpg" border="0" style="display:block;">
+                                </div>
+                                
+                                <div class="play"></div>
+                                
+                            </a>
+                        </td>
+                        
+                    	<td style="padding-left: 5px;" valign="top" width="100%">
+                        	<div class="homeSubHeaderSmall">Watters' World</div>
+                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4314#6">Watters' World: Folks Sit out the Vote</a></div>
                             
                         </td>
                     </tr>
@@ -669,7 +695,7 @@ showDefaultDays.monday = true;
           
 </tbody></table>
 </div>
-<input class="factorTvShowID" value="4175" type="hidden">
+<input class="factorTvShowID" value="4314" type="hidden">
 </div>
             <div id="oreillyFactorContent2" style="display:none;">
 
@@ -694,7 +720,7 @@ showDefaultDays.tuesday = true;
                 	<td align="left" colspan="2">
                     	<table cellpadding="0" cellspacing="0" border="0">
                             <tbody><tr>
-                                <td align="left" class="bold">MAY 10, 2016</td>
+                                <td align="left" class="bold">NOVEMBER 15, 2016</td>
                                 
                                 <td align="left" class="pmText">&nbsp;|&nbsp;PM Rating: A+</td>
                                 
@@ -714,11 +740,30 @@ showDefaultDays.tuesday = true;
                 <table cellspacing="0" cellpadding="0" border="0" width="100%">
                     <tbody><tr>
                         
-                        <td valign="middle" align="center" style="background-color:#000000; cursor:pointer; position: relative;" width="105" onclick="window.location='http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4176#1'">
-                            <a href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4176#1">
+                    	<td style="padding-left: 0px;" valign="top" width="100%" colspan="2">
+                        	<div class="homeSubHeaderSmall">Is It Legal?</div>
+                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4315#2">Battle Over Sanctuary Cities</a></div>
+                            
+                            <div>Continuing on the subject of sanctuary cities, <b>The Factor</b> asked Kimberly Guilfoyle and Lis Wiehl...</div>
+                            
+                        </td>
+                    </tr>
+                </tbody></table>
+            </div>
+        </td>
+    </tr>
+          
+    <tr>
+        <td valign="top" style="padding:0px 0px 20px 0px;" width="100%">
+            <div style="position:relative;" class="videoThumb">
+                <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                    <tbody><tr>
+                        
+                        <td valign="middle" align="center" style="background-color:#000000; cursor:pointer; position: relative;" width="105" onclick="window.location='http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4315#3'">
+                            <a href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4315#3">
                                 
                                 <div>
-                                    <img src="/imagesproc/aHR0cDovL2E1Ny5mb3huZXdzLmNvbS9tZWRpYTIuZm94bmV3cy5jb20vQnJpZ2h0Q292ZS82OTQ5NDAwOTQwMDEvMjAxNi8wNS8xMC82NDAvMzYwLzY5NDk0MDA5NDAwMV80ODg3Nzg4NzQ1MDAxXzMzMjIzMGRhLTVkNjAtNDQ0Yy05MmYyLTA4NGYyOTMwMmEwMS5qcGc=_H_SW105_MH60.jpg" border="0" style="display:block;">
+                                    <img src="/imagesproc/aHR0cDovL2E1Ny5mb3huZXdzLmNvbS9tZWRpYTIuZm94bmV3cy5jb20vQnJpZ2h0Q292ZS82OTQ5NDAwOTQwMDEvMjAxNi8xMS8xNi82NDAvMzYwLzY5NDk0MDA5NDAwMV81MjExOTIwNDExMDAxXzUyMTE5MDEyMjkwMDEtdnMuanBn_H_SW105_MH60.jpg" border="0" style="display:block;">
                                 </div>
                                 
                                 <div class="play"></div>
@@ -727,8 +772,8 @@ showDefaultDays.tuesday = true;
                         </td>
                         
                     	<td style="padding-left: 5px;" valign="top" width="100%">
-                        	<div class="homeSubHeaderSmall">Talking Points Memo</div>
-                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4176#1">How Partisans are Covering the Trump-Clinton Race</a></div>
+                        	<div class="homeSubHeaderSmall">Unresolved Problems</div>
+                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4315#3">Anti-Trump College Campus Chaos</a></div>
                             
                         </td>
                     </tr>
@@ -744,68 +789,10 @@ showDefaultDays.tuesday = true;
                     <tbody><tr>
                         
                     	<td style="padding-left: 0px;" valign="top" width="100%" colspan="2">
-                        	<div class="homeSubHeaderSmall">Top Story</div>
-                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4176#2">The Latest in West Virginia and Nebraska</a></div>
+                        	<div class="homeSubHeaderSmall">What the Heck Just Happened?</div>
+                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4315#5">Uninformed Protestors?</a></div>
                             
-                            <div>The Factor then brought Bret Baier in to take a look at the West Virginia and Nebraska primary...</div>
-                            
-                        </td>
-                    </tr>
-                </tbody></table>
-            </div>
-        </td>
-    </tr>
-          
-    <tr>
-        <td valign="top" style="padding:0px 0px 20px 0px;" width="100%">
-            <div style="position:relative;" class="videoThumb">
-                <table cellspacing="0" cellpadding="0" border="0" width="100%">
-                    <tbody><tr>
-                        
-                        <td valign="middle" align="center" style="background-color:#000000; cursor:pointer; position: relative;" width="105" onclick="window.location='http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4176#3'">
-                            <a href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4176#3">
-                                
-                                <div>
-                                    <img src="/imagesproc/aHR0cDovL2E1Ny5mb3huZXdzLmNvbS9tZWRpYTIuZm94bmV3cy5jb20vQnJpZ2h0Q292ZS82OTQ5NDAwOTQwMDEvMjAxNi8wNS8xMC82NDAvMzYwLzY5NDk0MDA5NDAwMV80ODg3ODEzNzUyMDAxXzIxZTgxYWE3LTYzNmEtNGMyYi1iZGUwLWZhMWI3ZDhjODI4ZC5qcGc=_H_SW105_MH60.jpg" border="0" style="display:block;">
-                                </div>
-                                
-                                <div class="play"></div>
-                                
-                            </a>
-                        </td>
-                        
-                    	<td style="padding-left: 5px;" valign="top" width="100%">
-                        	<div class="homeSubHeaderSmall">Personal Story</div>
-                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4176#3">Trump in the No Spin Zone</a></div>
-                            
-                        </td>
-                    </tr>
-                </tbody></table>
-            </div>
-        </td>
-    </tr>
-          
-    <tr>
-        <td valign="top" style="padding:0px 0px 20px 0px;" width="100%">
-            <div style="position:relative;" class="videoThumb">
-                <table cellspacing="0" cellpadding="0" border="0" width="100%">
-                    <tbody><tr>
-                        
-                        <td valign="middle" align="center" style="background-color:#000000; cursor:pointer; position: relative;" width="105" onclick="window.location='http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4176#5'">
-                            <a href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4176#5">
-                                
-                                <div>
-                                    <img src="/imagesproc/aHR0cDovL2E1Ny5mb3huZXdzLmNvbS9tZWRpYTIuZm94bmV3cy5jb20vQnJpZ2h0Q292ZS82OTQ5NDAwOTQwMDEvMjAxNi8wNS8xMC82NDAvMzYwLzY5NDk0MDA5NDAwMV80ODg3ODM1NjQwMDAxX2JkMGEyNDlhLTVjZmItNDc1OS04YWY4LTllZGQ0NDYzYjgyNy5qcGc=_H_SW105_MH60.jpg" border="0" style="display:block;">
-                                </div>
-                                
-                                <div class="play"></div>
-                                
-                            </a>
-                        </td>
-                        
-                    	<td style="padding-left: 5px;" valign="top" width="100%">
-                        	<div class="homeSubHeaderSmall">Impact Segment</div>
-                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4176#5">ISIS Hit List</a></div>
+                            <div>A Portland TV station did some digging and discovered that half of the anti-Trump protesters...</div>
                             
                         </td>
                     </tr>
@@ -816,7 +803,7 @@ showDefaultDays.tuesday = true;
           
 </tbody></table>
 </div>
-<input class="factorTvShowID" value="4176" type="hidden">
+<input class="factorTvShowID" value="4315" type="hidden">
 </div>
             <div id="oreillyFactorContent3" style="display:none;">
 
@@ -841,9 +828,9 @@ showDefaultDays.wednesday = true;
                 	<td align="left" colspan="2">
                     	<table cellpadding="0" cellspacing="0" border="0">
                             <tbody><tr>
-                                <td align="left" class="bold">MAY 11, 2016</td>
+                                <td align="left" class="bold">NOVEMBER 16, 2016</td>
                                 
-                                <td align="left" class="pmText">&nbsp;|&nbsp;PM Rating: A+</td>
+                                <td align="left" class="pmText">&nbsp;|&nbsp;PM Rating: A</td>
                                 
                             </tr>
                         </tbody></table>
@@ -861,11 +848,11 @@ showDefaultDays.wednesday = true;
                 <table cellspacing="0" cellpadding="0" border="0" width="100%">
                     <tbody><tr>
                         
-                        <td valign="middle" align="center" style="background-color:#000000; cursor:pointer; position: relative;" width="105" onclick="window.location='http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4177#1'">
-                            <a href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4177#1">
+                        <td valign="middle" align="center" style="background-color:#000000; cursor:pointer; position: relative;" width="105" onclick="window.location='http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4316#2'">
+                            <a href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4316#2">
                                 
                                 <div>
-                                    <img src="/imagesproc/aHR0cDovL2E1Ny5mb3huZXdzLmNvbS9tZWRpYTIuZm94bmV3cy5jb20vQnJpZ2h0Q292ZS82OTQ5NDAwOTQwMDEvMjAxNi8wNS8xMS82NDAvMzYwLzY5NDk0MDA5NDAwMV80ODg5NDE2Mjk1MDAxXzBiYmQ0MWQ4LWRlZWItNDY1Ny05MjJjLTQ3NTgyOGIxMTBjOC5qcGc=_H_SW105_MH60.jpg" border="0" style="display:block;">
+                                    <img src="/imagesproc/aHR0cDovL2E1Ny5mb3huZXdzLmNvbS9tZWRpYTIuZm94bmV3cy5jb20vQnJpZ2h0Q292ZS82OTQ5NDAwOTQwMDEvMjAxNi8xMS8xNi82NDAvMzYwLzY5NDk0MDA5NDAwMV81MjEzNDY0OTUxMDAxX0JpbGwtZGUtQmxhc2lvLXNwZWFrcy13aXRoLVRydW1wLWluLWNsb3NlZC1kb29yLW1lZXRpbmcuanBn_H_SW105_MH60.jpg" border="0" style="display:block;">
                                 </div>
                                 
                                 <div class="play"></div>
@@ -874,75 +861,46 @@ showDefaultDays.wednesday = true;
                         </td>
                         
                     	<td style="padding-left: 5px;" valign="top" width="100%">
-                        	<div class="homeSubHeaderSmall">Talking Points Memo &amp; Top Story</div>
-                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4177#1">Trouble for Hillary Clinton</a></div>
-                            
-                        </td>
-                    </tr>
-                </tbody></table>
-            </div>
-        </td>
-    </tr>
-          
-    <tr>
-        <td valign="top" style="padding:0px 0px 20px 0px;" width="100%">
-            <div style="position:relative;" class="videoThumb">
-                <table cellspacing="0" cellpadding="0" border="0" width="100%">
-                    <tbody><tr>
-                        
-                        <td valign="middle" align="center" style="background-color:#000000; cursor:pointer; position: relative;" width="105" onclick="window.location='http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4177#2'">
-                            <a href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4177#2">
-                                
-                                <div>
-                                    <img src="/imagesproc/aHR0cDovL2E1Ny5mb3huZXdzLmNvbS9tZWRpYTIuZm94bmV3cy5jb20vQnJpZ2h0Q292ZS82OTQ5NDAwOTQwMDEvMjAxNi8wNS8xMS82NDAvMzYwLzY5NDk0MDA5NDAwMV80ODg5NDIzMjg2MDAxXzEyNDYzNjcxLTVlNDQtNDU5Yi1hYTQ0LTYwZmJmZWY5YzhhNC5qcGc=_H_SW105_MH60.jpg" border="0" style="display:block;">
-                                </div>
-                                
-                                <div class="play"></div>
-                                
-                            </a>
-                        </td>
-                        
-                    	<td style="padding-left: 5px;" valign="top" width="100%">
-                        	<div class="homeSubHeaderSmall">Factor Followup</div>
-                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4177#2">Hillary's Email Troubles</a></div>
-                            
-                        </td>
-                    </tr>
-                </tbody></table>
-            </div>
-        </td>
-    </tr>
-          
-    <tr>
-        <td valign="top" style="padding:0px 0px 20px 0px;" width="100%">
-            <div style="position:relative;" class="videoThumb">
-                <table cellspacing="0" cellpadding="0" border="0" width="100%">
-                    <tbody><tr>
-                        
-                    	<td style="padding-left: 0px;" valign="top" width="100%" colspan="2">
-                        	<div class="homeSubHeaderSmall">Campaign 2016</div>
-                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4177#3">Trump's Tax Returns</a></div>
-                            
-                            <div><br>Donald Trump says he won't release his tax returns.  The Factor asked Fox Business anchor Lou...</div>
-                            
-                        </td>
-                    </tr>
-                </tbody></table>
-            </div>
-        </td>
-    </tr>
-          
-    <tr>
-        <td valign="top" style="padding:0px 0px 20px 0px;" width="100%">
-            <div style="position:relative;" class="videoThumb">
-                <table cellspacing="0" cellpadding="0" border="0" width="100%">
-                    <tbody><tr>
-                        
-                    	<td style="padding-left: 0px;" valign="top" width="100%" colspan="2">
                         	<div class="homeSubHeaderSmall">Impact Segment</div>
-                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4177#4">Trouble at Our Schools</a></div>
+                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4316#2">Battle Over Sanctuary Cities</a></div>
                             
-                            <div><br>On Monday there was a massive brawl at a Los Angeles high school, leading The Factor to ask...</div>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </div>
+        </td>
+    </tr>
+          
+    <tr>
+        <td valign="top" style="padding:0px 0px 20px 0px;" width="100%">
+            <div style="position:relative;" class="videoThumb">
+                <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                    <tbody><tr>
+                        
+                    	<td style="padding-left: 0px;" valign="top" width="100%" colspan="2">
+                        	<div class="homeSubHeaderSmall">Personal Story</div>
+                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4316#3">Campus Backlash Against Trump</a></div>
+                            
+                            <div>With some college campuses roiled by anti-Trump and pro-immigrant protests.  <b>The Factor</b> spoke...</div>
+                            
+                        </td>
+                    </tr>
+                </tbody></table>
+            </div>
+        </td>
+    </tr>
+          
+    <tr>
+        <td valign="top" style="padding:0px 0px 20px 0px;" width="100%">
+            <div style="position:relative;" class="videoThumb">
+                <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                    <tbody><tr>
+                        
+                    	<td style="padding-left: 0px;" valign="top" width="100%" colspan="2">
+                        	<div class="homeSubHeaderSmall">Watters' World</div>
+                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4316#6">Watters' World: The Sanders' Fan Edition</a></div>
+                            
+                            <div>Bernie Sanders, who has a new book out, has refused numerous invitations to enter the No Spin...</div>
                             
                         </td>
                     </tr>
@@ -953,9 +911,9 @@ showDefaultDays.wednesday = true;
           
 </tbody></table>
 </div>
-<input class="factorTvShowID" value="4177" type="hidden">
+<input class="factorTvShowID" value="4316" type="hidden">
 </div>
-            <div id="oreillyFactorContent4" style="display:none;">
+            <div id="oreillyFactorContent4" style="display: block;">
 
 
 
@@ -978,9 +936,9 @@ showDefaultDays.thursday = true;
                 	<td align="left" colspan="2">
                     	<table cellpadding="0" cellspacing="0" border="0">
                             <tbody><tr>
-                                <td align="left" class="bold">MAY 12, 2016</td>
+                                <td align="left" class="bold">NOVEMBER 17, 2016</td>
                                 
-                                <td align="left" class="pmText">&nbsp;|&nbsp;PM Rating: A+</td>
+                                <td align="left" class="pmText">&nbsp;|&nbsp;PM Rating: A</td>
                                 
                             </tr>
                         </tbody></table>
@@ -998,11 +956,11 @@ showDefaultDays.thursday = true;
                 <table cellspacing="0" cellpadding="0" border="0" width="100%">
                     <tbody><tr>
                         
-                        <td valign="middle" align="center" style="background-color:#000000; cursor:pointer; position: relative;" width="105" onclick="window.location='http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4178#1'">
-                            <a href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4178#1">
+                        <td valign="middle" align="center" style="background-color:#000000; cursor:pointer; position: relative;" width="105" onclick="window.location='http://www.BillOReilly.com/show?action=latestTVShow#1'">
+                            <a href="http://www.BillOReilly.com/show?action=latestTVShow#1">
                                 
                                 <div>
-                                    <img src="/imagesproc/aHR0cDovL2E1Ny5mb3huZXdzLmNvbS9tZWRpYTIuZm94bmV3cy5jb20vQnJpZ2h0Q292ZS82OTQ5NDAwOTQwMDEvMjAxNi8wNS8xMi82NDAvMzYwLzY5NDk0MDA5NDAwMV80ODkxMjY5MzgyMDAxXzA5OWYzN2FmLTBhYmMtNDg5YS1iMDBkLWUzZDYzZDU4Yjk1ZS5qcGc=_H_SW105_MH60.jpg" border="0" style="display:block;">
+                                    <img src="/imagesproc/aHR0cDovL2E1Ny5mb3huZXdzLmNvbS9tZWRpYTIuZm94bmV3cy5jb20vQnJpZ2h0Q292ZS82OTQ5NDAwOTQwMDEvMjAxNi8xMS8xNy82NDAvMzYwLzY5NDk0MDA5NDAwMV81MjE1MjY0NTM0MDAxX0tlbGx5YW5uZS1Db253YXktd2VpZ2hzLWluLW9uLVRydW1wLXRyYW5zaXRpb24uanBn_H_SW105_MH60.jpg" border="0" style="display:block;">
                                 </div>
                                 
                                 <div class="play"></div>
@@ -1011,8 +969,8 @@ showDefaultDays.thursday = true;
                         </td>
                         
                     	<td style="padding-left: 5px;" valign="top" width="100%">
-                        	<div class="homeSubHeaderSmall">Talking Points Memo &amp; Top Story</div>
-                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4178#1">Donald Trump Meets with Republican Leaders Today</a></div>
+                        	<div class="homeSubHeaderSmall">Top Story</div>
+                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=latestTVShow#1">Kellyanne Conway on the Trump Transition</a></div>
                             
                         </td>
                     </tr>
@@ -1027,11 +985,11 @@ showDefaultDays.thursday = true;
                 <table cellspacing="0" cellpadding="0" border="0" width="100%">
                     <tbody><tr>
                         
-                        <td valign="middle" align="center" style="background-color:#000000; cursor:pointer; position: relative;" width="105" onclick="window.location='http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4178#2'">
-                            <a href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4178#2">
+                        <td valign="middle" align="center" style="background-color:#000000; cursor:pointer; position: relative;" width="105" onclick="window.location='http://www.BillOReilly.com/show?action=latestTVShow#2'">
+                            <a href="http://www.BillOReilly.com/show?action=latestTVShow#2">
                                 
                                 <div>
-                                    <img src="/imagesproc/aHR0cDovL2E1Ny5mb3huZXdzLmNvbS9tZWRpYTIuZm94bmV3cy5jb20vQnJpZ2h0Q292ZS82OTQ5NDAwOTQwMDEvMjAxNi8wNS8xMi82NDAvMzYwLzY5NDk0MDA5NDAwMV80ODkxMjg4NTM5MDAxXzE5YWIxOTRlLTFhMmMtNGEwZS05ZTdkLTI1OWNmZWVhNzY2My5qcGc=_H_SW105_MH60.jpg" border="0" style="display:block;">
+                                    <img src="/imagesproc/aHR0cDovL2E1Ny5mb3huZXdzLmNvbS9tZWRpYTIuZm94bmV3cy5jb20vQnJpZ2h0Q292ZS82OTQ5NDAwOTQwMDEvMjAxNi8xMS8xNy82NDAvMzYwLzY5NDk0MDA5NDAwMV81MjE1Mjg2NzE2MDAxX0lzLU1leGljby1wcmVwYXJpbmctdG8tYmF0dGxlLXdpdGgtdGhlLVRydW1wLWFkbWluaXN0cmF0aW9uLmpwZw==_H_SW105_MH60.jpg" border="0" style="display:block;">
                                 </div>
                                 
                                 <div class="play"></div>
@@ -1041,7 +999,7 @@ showDefaultDays.thursday = true;
                         
                     	<td style="padding-left: 5px;" valign="top" width="100%">
                         	<div class="homeSubHeaderSmall">Impact Segment</div>
-                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4178#2">Friction Between Donald Trump &amp; the GOP</a></div>
+                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=latestTVShow#2">Mexico and Trade</a></div>
                             
                         </td>
                     </tr>
@@ -1056,128 +1014,11 @@ showDefaultDays.thursday = true;
                 <table cellspacing="0" cellpadding="0" border="0" width="100%">
                     <tbody><tr>
                         
-                    	<td style="padding-left: 0px;" valign="top" width="100%" colspan="2">
-                        	<div class="homeSubHeaderSmall">Factor Followup</div>
-                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4178#3">Are Cops In Fear of Retaliation?</a></div>
-                            
-                            <div><br>Patrick Lynch, president of New York City's largest police union, joined The Factor to say police...</div>
-                            
-                        </td>
-                    </tr>
-                </tbody></table>
-            </div>
-        </td>
-    </tr>
-          
-    <tr>
-        <td valign="top" style="padding:0px 0px 20px 0px;" width="100%">
-            <div style="position:relative;" class="videoThumb">
-                <table cellspacing="0" cellpadding="0" border="0" width="100%">
-                    <tbody><tr>
-                        
-                    	<td style="padding-left: 0px;" valign="top" width="100%" colspan="2">
-                        	<div class="homeSubHeaderSmall">Truth Serum</div>
-                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=viewTVShow&amp;showID=4178#4">Illegal Immigration &amp; Tax Dollars</a></div>
-                            
-                            <div><br>Eric Shawn joined The Factor to discuss a new report from the Center for Immigration Studies...</div>
-                            
-                        </td>
-                    </tr>
-                </tbody></table>
-            </div>
-        </td>
-    </tr>
-          
-</tbody></table>
-</div>
-<input class="factorTvShowID" value="4178" type="hidden">
-</div>
-            <div id="oreillyFactorContent5" style="display: block;">
-
-
-
-
-
-
-
-
-
-<script type="text/javascript">
-showDefaultDays.friday = true;
-</script>
-
-<div style="padding:15px;">
-<table cellspacing="0" cellpadding="5" border="0" width="100%">
-    <tbody><tr>
-        <td valign="top" style="padding:0px 0px 20px 0px;" width="100%">
-            <table cellspacing="0" cellpadding="0" border="0" width="100%">
-            	<tbody><tr>
-                	<td align="left" colspan="2">
-                    	<table cellpadding="0" cellspacing="0" border="0">
-                            <tbody><tr>
-                                <td align="left" class="bold">MAY 13, 2016</td>
-                                
-                                <td align="left" class="pmText">&nbsp;|&nbsp;PM Rating: A+</td>
-                                
-                            </tr>
-                        </tbody></table>
-                    </td>
-                </tr>
-            </tbody></table>
-        </td>
-    </tr>
-    
-    
-    
-    <tr>
-        <td valign="top" style="padding:0px 0px 20px 0px;" width="100%">
-            <div style="position:relative;" class="videoThumb">
-                <table cellspacing="0" cellpadding="0" border="0" width="100%">
-                    <tbody><tr>
-                        
-                    	<td style="padding-left: 0px;" valign="top" width="100%" colspan="2">
-                        	<div class="homeSubHeaderSmall">Top Story</div>
-                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=latestTVShow#1">Trouble for the Clintons?</a></div>
-                            
-                            <div><b>The Factor</b> began Friday's show with new accusations against the Clinton Global Initiative. ...</div>
-                            
-                        </td>
-                    </tr>
-                </tbody></table>
-            </div>
-        </td>
-    </tr>
-          
-    <tr>
-        <td valign="top" style="padding:0px 0px 20px 0px;" width="100%">
-            <div style="position:relative;" class="videoThumb">
-                <table cellspacing="0" cellpadding="0" border="0" width="100%">
-                    <tbody><tr>
-                        
-                    	<td style="padding-left: 0px;" valign="top" width="100%" colspan="2">
-                        	<div class="homeSubHeaderSmall">Campaign 2016</div>
-                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=latestTVShow#3">The Media and Trump in 2016</a></div>
-                            
-                            <div>'The Five' co-host Dana Perino reacted to a report claiming that the Washington Post has assigned...</div>
-                            
-                        </td>
-                    </tr>
-                </tbody></table>
-            </div>
-        </td>
-    </tr>
-          
-    <tr>
-        <td valign="top" style="padding:0px 0px 20px 0px;" width="100%">
-            <div style="position:relative;" class="videoThumb">
-                <table cellspacing="0" cellpadding="0" border="0" width="100%">
-                    <tbody><tr>
-                        
-                        <td valign="middle" align="center" style="background-color:#000000; cursor:pointer; position: relative;" width="105" onclick="window.location='http://www.BillOReilly.com/show?action=latestTVShow#5'">
-                            <a href="http://www.BillOReilly.com/show?action=latestTVShow#5">
+                        <td valign="middle" align="center" style="background-color:#000000; cursor:pointer; position: relative;" width="105" onclick="window.location='http://www.BillOReilly.com/show?action=latestTVShow#3'">
+                            <a href="http://www.BillOReilly.com/show?action=latestTVShow#3">
                                 
                                 <div>
-                                    <img src="/imagesproc/aHR0cDovL2E1Ny5mb3huZXdzLmNvbS9tZWRpYTIuZm94bmV3cy5jb20vQnJpZ2h0Q292ZS82OTQ5NDAwOTQwMDEvMjAxNi8wNS8xMy82NDAvMzYwLzY5NDk0MDA5NDAwMV80ODkzMDQyNzM1MDAxXzZlNjE3NzExLTZhNGMtNDMxZC1hNTMzLWY0ZTk2NjZjZTFkYi5qcGc=_H_SW105_MH60.jpg" border="0" style="display:block;">
+                                    <img src="/imagesproc/aHR0cDovL2E1Ny5mb3huZXdzLmNvbS9tZWRpYTIuZm94bmV3cy5jb20vQnJpZ2h0Q292ZS82OTQ5NDAwOTQwMDEvMjAxNi8xMS8xNy82NDAvMzYwLzY5NDk0MDA5NDAwMV81MjE1Mjk0MzE0MDAxX011c2xpbS1yZWdpc3RyeS1jb25zaWRlcmF0aW9uLWlnbml0aW5nLWNvbnRyb3ZlcnN5LS5qcGc=_H_SW105_MH60.jpg" border="0" style="display:block;">
                                 </div>
                                 
                                 <div class="play"></div>
@@ -1186,8 +1027,8 @@ showDefaultDays.friday = true;
                         </td>
                         
                     	<td style="padding-left: 5px;" valign="top" width="100%">
-                        	<div class="homeSubHeaderSmall">Personal Story</div>
-                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=latestTVShow#5">Gingrich as Trump's VP Choice?</a></div>
+                        	<div class="homeSubHeaderSmall">Unresolved Problems</div>
+                          	<div><a class="homeLinksBoldAlt" href="http://www.BillOReilly.com/show?action=latestTVShow#3">Possible Muslim Registry?</a></div>
                             
                         </td>
                     </tr>
@@ -1198,28 +1039,37 @@ showDefaultDays.friday = true;
           
 </tbody></table>
 </div>
-<input class="factorTvShowID" value="4179" type="hidden">
+<input class="factorTvShowID" value="4317" type="hidden">
+</div>
+            <div id="oreillyFactorContent5" style="display:none;">
+
+
+
+
+
+
+
+
 </div>
 		</td>
     </tr>
 </tbody></table></div>
         
     
-    <div style="margin-top:15px;">
-
-
-
-
-
-
-
-
-<div style="margin-top:15px;padding:15px 0 0 0" class="sideBarHeader"><a href="http://www.billoreilly.com/site/rd?satype=1&amp;said=622&amp;pos=71&amp;url=http%3A%2F%2Fwww.billoreilly.com%2Fc%2FThe-Bill-OReilly-Store-Clearance%2F3%2F202.html"><img src="/images/ads/clearance.png" alt="Shop Clearance!" class="displayBlock" border="0"></a></div>
-</div>
-        
     
     <div style="margin-top:15px;">
 
+
+
+
+
+
+
+</div>
+        
+    
+    
+    <div style="margin-top:15px;">
 
 
 
@@ -1381,6 +1231,28 @@ document.getElementById(target).value = document.getElementById(from).value;
     
     
     
+    
+    <div style="margin-top:15px;">
+
+
+
+
+
+
+
+
+
+
+
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Sidebar 300x250 -->
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-0374165366768735" data-ad-slot="1422905047"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+        
+    
+    
 </div>
 </div>
 
@@ -1388,7 +1260,6 @@ document.getElementById(target).value = document.getElementById(from).value;
 </div>
 <div style="clear:both;"></div>
 <!--CONTENT ENDS HERE-->
-
 <div id="dhtmltooltip"></div>		
 
 
@@ -1402,43 +1273,13 @@ document.getElementById(target).value = document.getElementById(from).value;
 
 
 
-
-								
-								</td>
-								
-							
-							
-								
-							
-
-							</tr>
-
-							
-						</tbody></table>
-                        </div>
-					</td>
-				</tr>
-			</tbody></table>
-            
-            <div>
-
-
-
-
-
-
-<table id="bottomNav" border="0" cellpadding="0" cellspacing="0" width="1000" style="border-top:2px solid #c3c3c3;">
-    <tbody><tr>
-    	<td valign="top" align="center" style="padding:15px;">
-        	<table cellpadding="0" border="0" cellspacing="0" width="100%">
-				<tbody><tr>
-                  <td style="padding-bottom:25px; padding-right: 25px;">
-                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
-                     <tbody><tr>
-                      <td valign="top" align="left" width="25%">
-                      <div class="footerMenuAltHeader"><a href="/show?action=latestTVShow">The O'Reilly Factor</a></div>
-                      <div style="padding-bottom:12px;">
-                         
+			
+		</div>
+	</div>
+	<div class="site-bottom-wrapper">
+		
+        <div class="bottom-nav-container content-container">
+        	
 
 
 
@@ -1447,24 +1288,79 @@ document.getElementById(target).value = document.getElementById(from).value;
 
 
 
-	<div style=""><a href="/show?action=latestTVShow" class="footerMenuAltlink">The Latest O'Reilly Factor</a></div>
+  <table cellpadding="0" cellspacing="0" border="0" width="100%">
+   <tbody><tr>
+    <td valign="top" align="left" width="25%">
+    <div class="footerMenuAltHeader"><a href="/store">Store</a></div>
+    <div style="padding-bottom:45px;">
+       
+
+
+
+
+
+
+
+
+	<div style=""><a href="/featured-shops" class="footerMenuAltlink">Featured Shops</a></div>
 	
-	<div style=""><a href="/podcasthelp" class="footerMenuAltlink">The O'Reilly Factor Podcast</a></div>
+	<div style=""><a href="/pg/jsp/store/promotions.jsp" class="footerMenuAltlink">Current Promotions</a></div>
 	
-	<div style=""><a href="/blog?categoryID=12" class="footerMenuAltlink">Talking Points Memo Transcripts</a></div>
+	<div style=""><a href="/books" class="footerMenuAltlink">Books</a></div>
 	
-	<div style=""><a href="/factor-words-of-the-day" class="footerMenuAltlink">Word of the Day</a></div>
+	<div style=""><a href="/membership" class="footerMenuAltlink">Premium Membership</a></div>
 	
-	<div style=""><a href="/show?action=tvShowArchive" class="footerMenuAltlink">The O'Reilly Factor Archive</a></div>
+	<div style=""><a href="/c/Historical-Parchments/1/228.html" class="footerMenuAltlink">Historical Parchments</a></div>
+	
+	<div style=""><a href="/c/The-Bill-OReilly-Store-All-Mugs/1/217.html" class="footerMenuAltlink">Mugs</a></div>
+	
+	<div style=""><a href="/c/The-Bill-OReilly-Store-Pens/3/209.html" class="footerMenuAltlink">Pens</a></div>
+	
+	<div style=""><a href="/c/The-Bill-OReilly-Store-Clearance/3/202.html" class="footerMenuAltlink">Clearance</a></div>
 	
 
-                        
-                      </div>
-                      </td>
-                      <td valign="top" align="left" width="25%">
-                      <div class="footerMenuAltHeader"><a href="/membership">Premium Members</a></div>
-                      <div style="padding-bottom:12px;">
-                         
+      
+    </div>
+    
+    </td>
+    <td valign="top" align="left" width="25%">
+    <div class="footerMenuAltHeader"><a href="/books">Books</a></div>
+      <div>
+       
+
+
+
+
+
+
+
+
+	<div class="footerMenuAltSubHeader"><a href="/c/Bills-History-Books/1/156.html">Bill's History Books</a></div>
+	
+	<div style="padding-left: 10px;"><a href="/c/The-Killing-Series/1/174.html" class="footerMenuAltlink">The Killing Series</a></div>
+	
+	<div style="padding-left: 10px;"><a href="/c/L&amp;L-Companion-Volumes/1/168.html" class="footerMenuAltlink">L &amp; L Companion Volumes</a></div>
+	
+	<div style="padding-left: 10px;"><a href="/c/The-Last-Days-Series/1/175.html" class="footerMenuAltlink">The Last Days Series</a></div>
+	
+	<div style=""><a href="/c/Signed-Books/1/146.html" class="footerMenuAltlink">Signed Books</a></div>
+	
+	<div style=""><a href="/c/Bills-Reading-List/1/421.html" class="footerMenuAltlink">Bill's Reading List</a></div>
+	
+	<div style=""><a href="/c/Kids-Books/3/104.html" class="footerMenuAltlink">For the Urchins</a></div>
+	
+	<div style=""><a href="/books" class="footerMenuAltlink">All Books</a></div>
+	
+	<div style=""><a href="/c/Fox-News_authors/1/161.html" class="footerMenuAltlink">Books by Author</a></div>
+	
+
+      
+    </div>
+    </td>
+    <td valign="top" align="left" width="25%">
+    <div class="footerMenuAltHeader"><a href="/membership">Premium Members</a></div>
+    <div style="padding-bottom:45px;">
+       
 
 
 
@@ -1477,46 +1373,18 @@ document.getElementById(target).value = document.getElementById(from).value;
 	
 	<div style=""><a href="/membership" class="footerMenuAltlink">Learn More about Membership</a></div>
 	
-	<div style=""><a href="/pg/jsp/charts/premiummembershipproducts.jsp" class="footerMenuAltlink">Free Gifts with Membership</a></div>
-	
 	<div style=""><a href="/pg/jsp/billsfavorites/billscharities.jsp" class="footerMenuAltlink">Supported Charities</a></div>
 	
-
-                        
-                      </div>
-                      </td>
-                      <td valign="top" align="left" width="25%">
-                      <div class="footerMenuAltHeader"><a href="/store">Store</a></div>
-                      <div style="padding-bottom:12px;">
-                         
-
-
-
-
-
-
-
-
-	<div style=""><a href="/featured-shops" class="footerMenuAltlink">Featured Shops</a></div>
-	
-	<div style=""><a href="/pg/jsp/store/promotions.jsp" class="footerMenuAltlink">Current Sales &amp; Promotions</a></div>
-	
-	<div style=""><a href="/membership" class="footerMenuAltlink">Premium Membership</a></div>
-	
-	<div style=""><a href="/pg/jsp/billsbooks/billsbooks.jsp" class="footerMenuAltlink">Books</a></div>
-	
-	<div style=""><a href="/featured-shops" class="footerMenuAltlink">Factor Gear</a></div>
-	
-	<div style=""><a href="/c/The-Bill-OReilly-Store-Clearance/3/202.html" class="footerMenuAltlink">Clearance</a></div>
+	<div style=""><a href="/pg/jsp/charts/premiummembershipproducts.jsp" class="footerMenuAltlink">Free Gifts with Membership</a></div>
 	
 
-                        
-                      </div>
-                      </td>
-                      <td valign="top" align="left" width="25%">
-                      <div class="footerMenuAltHeader"><a href="/pg/jsp/general/allaboutbill.jsp">About Bill</a></div>
-                      <div style="padding-bottom:12px;">
-                         
+      
+    </div>
+    </td>
+    <td valign="top" align="left" width="25%">
+    <div class="footerMenuAltHeader"><a href="/pg/jsp/general/allaboutbill.jsp">Bill</a></div>
+    <div style="padding-bottom:45px;">
+       
 
 
 
@@ -1527,28 +1395,59 @@ document.getElementById(target).value = document.getElementById(from).value;
 
 	<div style=""><a href="/pg/jsp/general/welcomeletter.jsp" class="footerMenuAltlink">Welcome Letter</a></div>
 	
-	<div style=""><a href="/g/Bill's-Bio/515.html" class="footerMenuAltlink">Bill's Biography</a></div>
+	<div style=""><a href="/g/Bill-O%27Reilly%27s-Bio/515.html" class="footerMenuAltlink">Biography</a></div>
 	
 	<div style=""><a href="/pg/jsp/billsfavorites/billscharities.jsp" class="footerMenuAltlink">Supported Charities</a></div>
 	
 	<div style=""><a href="/photos" class="footerMenuAltlink">Photo Album</a></div>
 	
-	<div style=""><a href="/video?chartID=310" class="footerMenuAltlink">Public Appearances</a></div>
+	<div style=""><a href="/pg/jsp/general/appearances.jsp" class="footerMenuAltlink">Tour Schedule</a></div>
 	
-	<div class="footerMenuAltSubHeader"><a href="/pg/jsp/general/appearances.jsp">Upcoming Appearances</a></div>
+	<div style=""><a href="/pg/jsp/general/appearances.jsp#appearances" class="footerMenuAltlink">Appearance Schedule</a></div>
 	
-	<div style="padding-left: 10px;"><a href="http://www.oreillymillertour.com/" class="footerMenuAltlink">Don't Be a Pinhead Tour</a></div>
+	<div style=""><a href="/pg/jsp/general/appearances.jsp#pastAppearances" class="footerMenuAltlink">Past Appearances</a></div>
+	
+	<div style=""><a href="/pg/jsp/help/contactbill.jsp" class="footerMenuAltlink">Email Bill</a></div>
 	
 
-                        
-                      </div>
-                      </td>
-                    </tr>
-                    <tr>
-                      <td valign="top" align="left" width="25%">
-                      <div class="footerMenuAltHeader"><a href="/video">Video</a></div>
-                      <div style="padding-bottom:12px;">
-                         
+      
+    </div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="left" width="25%">
+    <div class="footerMenuAltHeader"><a href="/show?action=latestTVShow">The O'Reilly Factor</a></div>
+    <div style="padding-bottom:45px;">
+       
+
+
+
+
+
+
+
+
+	<div style=""><a href="/show?action=latestTVShow" class="footerMenuAltlink">The Latest O'Reilly Factor</a></div>
+	
+	<div style=""><a href="/blog?categoryID=12" class="footerMenuAltlink">Talking Points Memo</a></div>
+	
+	<div style=""><a href="/factor-words-of-the-day" class="footerMenuAltlink">Word of the Day</a></div>
+	
+	<div style=""><a href="/video" class="footerMenuAltlink">Video</a></div>
+	
+	<div style=""><a href="/podcasthelp" class="footerMenuAltlink highlight">The Factor Podcast</a></div>
+	
+	<div style=""><a href="/show?action=tvShowArchive" class="footerMenuAltlink highlight">The O'Reilly Factor Archive</a></div>
+	
+
+      
+    </div>
+    
+    </td>
+    <td valign="top" align="left" width="25%">
+    <div class="footerMenuAltHeader"><a href="/video">Video</a></div>
+    <div>
+       
 
 
 
@@ -1561,24 +1460,25 @@ document.getElementById(target).value = document.getElementById(from).value;
 	
 	<div style=""><a href="/video?chartID=762" class="footerMenuAltlink">Legends &amp; Lies</a></div>
 	
-	<div style=""><a href="/video?chartID=554" class="footerMenuAltlink">Video of the Day</a></div>
+	<div style=""><a href="/video?preSelect=oFactor" class="footerMenuAltlink">The O'Reilly Factor</a></div>
 	
-	<div style=""><a href="/video?chartID=766" class="footerMenuAltlink">Patriot Report</a></div>
+	<div style=""><a href="/video?chartID=554" class="footerMenuAltlink">Video of the Day</a></div>
 	
 	<div style=""><a href="/video?chartID=310" class="footerMenuAltlink">Public Appearances</a></div>
 	
 	<div style=""><a href="/video?chartID=323" class="footerMenuAltlink">Exclusive Clips</a></div>
 	
-	<div style=""><a href="/video?preSelect=premiumMember" class="footerMenuAltlink">Premium Member Video</a></div>
+	<div style=""><a href="/video?preSelect=premiumMember" class="footerMenuAltlink highlight">Premium Member Video</a></div>
 	
 
-                        
-                      </div>
-                      </td>
-                      <td valign="top" align="left" width="25%">
-                      <div class="footerMenuAltHeader"><a href="/f/Audio-Center">Audio</a></div>
-                      <div style="padding-bottom:12px;">
-                         
+      
+    </div>
+    
+    </td>
+     <td valign="top" align="left" width="25%">
+     <div class="footerMenuAltHeader"><a href="/f/Audio-Center">Audio</a></div>
+    <div>
+       
 
 
 
@@ -1587,56 +1487,27 @@ document.getElementById(target).value = document.getElementById(from).value;
 
 
 
-	<div style=""><a href="/f/Audio-Center?chartID=326" class="footerMenuAltlink">The O'Reilly Factor</a></div>
+	<div style=""><a href="/f/Audio-Center?chartID=326" class="footerMenuAltlink highlight">The O'Reilly Factor</a></div>
 	
-	<div style=""><a href="/f/Audio-Center?chartID=314" class="footerMenuAltlink">No Spin News</a></div>
+	<div style=""><a href="/f/Audio-Center?chartID=314" class="footerMenuAltlink highlight">No Spin News</a></div>
 	
-	<div style=""><a href="/f/Audio-Center?chartID=325" class="footerMenuAltlink">Audio Book Samples</a></div>
+	<div style=""><a href="/f/Audio-Center?chartID=305" class="footerMenuAltlink highlight">The Radio Factor Archive</a></div>
 	
-	<div style=""><a href="/f/Audio-Center?chartID=305" class="footerMenuAltlink">The Radio Factor Archive</a></div>
+	<div style=""><a href="/f/Audio-Center?chartID=302" class="footerMenuAltlink highlight">Premium Member Events</a></div>
 	
-	<div style=""><a href="/f/Audio-Center?chartID=302" class="footerMenuAltlink">Premium Member Events</a></div>
+	<div style=""><a href="/podcasthelp" class="footerMenuAltlink highlight">Premium Member Podcasts</a></div>
 	
-	<div style=""><a href="/podcasthelp" class="footerMenuAltlink">Premium Member Podcasts</a></div>
-	
-
-                        
-                      </div>
-                      </td>
-                       <td valign="top" align="left" width="25%">
-                      <div class="footerMenuAltHeader"><a href="/pg/jsp/general/booksandprint.jsp">Books</a></div>
-                        <div style="padding-bottom:12px;">
-                         
-
-
-
-
-
-
-
-
-	<div class="footerMenuAltSubHeader">Bill's History Books</div>
-	
-	<div style="padding-left: 10px;"><a href="/the-killing-series" class="footerMenuAltlink">The Killing Series</a></div>
-	
-	<div style="padding-left: 10px;"><a href="/f/books-legends" class="footerMenuAltlink">L &amp; L Companion Volumes</a></div>
-	
-	<div style=""><a href="/c/Signed-Books/1/146.html" class="footerMenuAltlink">Signed Books</a></div>
-	
-	<div style=""><a href="/f/books-reading-list" class="footerMenuAltlink">Bill's Reading List</a></div>
-	
-	<div style=""><a href="/c/Kids-Books/3/104.html" class="footerMenuAltlink">For the Urchins</a></div>
-	
-	<div style=""><a href="/pg/jsp/billsbooks/billsbooks.jsp" class="footerMenuAltlink">All Books</a></div>
+	<div style=""><a href="/podcasthelp" class="footerMenuAltlink">Audio Book Samples</a></div>
 	
 
-                        
-                      </div>
-                      </td>                       
-                      <td valign="top" align="left" width="25%">
-                      <div class="footerMenuAltHeader"><a href="/pg/jsp/help/help.jsp">Help/Contact Us</a></div>
-                      <div style="padding-bottom:12px;">
-                         
+      
+    </div>
+    
+    </td>                       
+    <td valign="top" align="left" width="25%">
+    <div class="footerMenuAltHeader"><a href="/pg/jsp/help/help.jsp">Help/Contact Us</a></div>
+    <div>
+       
 
 
 
@@ -1645,114 +1516,88 @@ document.getElementById(target).value = document.getElementById(from).value;
 
 
 
+	<div style=""><a href="/site-map" class="footerMenuAltlink">Site Map</a></div>
+	
 	<div style=""><a href="/help" class="footerMenuAltlink">Help Library</a></div>
-	
-	<div style=""><a href="/pg/jsp/help/contactbill.jsp" class="footerMenuAltlink">Email Bill O'Reilly</a></div>
 	
 	<div style=""><a href="/pg/jsp/help/contactus.jsp" class="footerMenuAltlink">Email Customer Service</a></div>
 	
-	<div style=""><a href="javascript:// Live Chat with a Representative" class="footerMenuAltlink" data-footer-hook="live-chat-link" onclick="playerNoScroll('/pg/jsp/help/lpsurvey.jsp', '480', '400', 'LiveChat')" style="display: none;">Live Chat with Customer Service</a></div>
-	
-	<div style=""><a href="/site-map" class="footerMenuAltlink">Site Map</a></div>
-	
 
-                      </div>
-                      </td>
-                  </tr>   
-                   </tbody></table>
-                   </td>
-                   <td align="left" valign="top" width="185">
-                     <div class="footerMenuAltHeader" style="font-size:16px; padding-bottom:15px; padding-left:30px;">Follow The Factor</div>                     
-                      
-
-
-
-
-
+    </div>
+    <div class="chat-live-section">
+      <div><a class="live-chat-button" href="javascript:playerNoScroll('/pg/jsp/help/lpsurvey.jsp', '480', '400', 'LiveChat');" data-lp-button="bottomNav">Chat Live Now</a></div>
+      <div class="schedule">
+        <div class="eastern-times">Mon-Fri 10am - 10pm ET</div>
+        <div class="pacific-times">7am - 7pm PT</div>
+      </div>
+    </div>
+    </td>
+</tr>   
+ </tbody></table>    
+        </div>
+        <div class="social-bottom-container content-container">
+			<div class="social-divide"> </div> 
+	        
 
 
- <div style="border-left:1px solid #ccc; padding:10px 0px 10px 30px;"> 
+
+
+
+
+
+<div class="flex space-between social-icons"> 
  
 
-<div style="margin-bottom:20px;">
+<div class="floatContainer" style="width:25%;">
   
-   <a href="https://www.facebook.com/billoreillyfnc" target="_blank" class="footerMenuAltlink" style="line-height:15px;"><img src="/images/icons/FB_icon.png" alt="Facebook" style="float:left;" border="0"></a>
+   <a href="https://www.facebook.com/billoreillyfnc" target="_blank" class="footerMenuAltlink" style="line-height:15px;"><img src="/images/icons/icon_fb.png" alt="Facebook" style="float:left;height:36px;" border="0"></a>
   
-  <div style="padding-left:50px;"><a href="https://www.facebook.com/billoreillyfnc" target="_blank" class="footerMenuAltlink" style="line-height:15px;">Bill O'Reilly's<br>Official Facebook</a></div> 
-  <div style="clear:both;"></div>
+  <div style="padding-left:15px;line-height:36px;vertical-align:middle;float:left;"><a href="https://www.facebook.com/billoreillyfnc" target="_blank" class="footerMenuAltlink" style="white-space:nowrap;">Like Bill on Facebook</a></div>
 </div>
   
 
-<div style="margin-bottom:20px;">
+<div class="floatContainer" style="width:25%;">
   
-   <a href="http://twitter.com/oreillyfactor" target="_blank" class="footerMenuAltlink" style="line-height:15px;"><img src="/images/icons/twitter_icon.png" alt="Twitter" style="float:left;" border="0"></a>
+   <a href="http://twitter.com/oreillyfactor" target="_blank" class="footerMenuAltlink" style="line-height:15px;"><img src="/images/icons/icon_twitter.png" alt="Twitter" style="float:left;height:36px;" border="0"></a>
   
-  <div style="padding-left:50px;"><a href="http://twitter.com/oreillyfactor" target="_blank" class="footerMenuAltlink" style="line-height:15px;">Follow @oreillyfactor<br>on Twitter</a></div> 
-  <div style="clear:both;"></div>
+  <div style="padding-left:15px;line-height:36px;vertical-align:middle;float:left;"><a href="http://twitter.com/oreillyfactor" target="_blank" class="footerMenuAltlink" style="white-space:nowrap;">Follow Bill on Twitter</a></div>
 </div>
   
 
-<div style="margin-bottom:20px;">
+<div class="floatContainer" style="width:25%;">
   
-   <a href="/newsletter" class="footerMenuAltlink" style="line-height:15px;"><img src="/images/icons/newsletter_icon.png" alt="Newsletter" style="float:left;" border="0"></a>
+   <a href="/podcasthelp" class="footerMenuAltlink" style="line-height:15px;"><img src="/images/icons/icon_podcasts.png" alt="Podcasts" style="float:left;height:36px;" border="0"></a>
   
-  <div style="padding-left:50px;"><a href="/newsletter" class="footerMenuAltlink" style="line-height:15px;">BillOReilly.com<br>Newsletter</a></div> 
-  <div style="clear:both;"></div>
+  <div style="padding-left:15px;line-height:36px;vertical-align:middle;float:left;"><a href="/podcasthelp" class="footerMenuAltlink" style="white-space:nowrap;">Subscribe to Our Podcasts</a></div>
 </div>
   
 
-<div>
+<div class="floatContainer" style="width:25%;">
   
-   <a href="/podcasthelp" class="footerMenuAltlink" style="line-height:15px;"><img src="/images/icons/podcast_icon.png" alt="Podcasts" style="float:left;" border="0"></a>
+   <a href="/newsletter" class="footerMenuAltlink" style="line-height:15px;"><img src="/images/icons/icon_newsletter.png" alt="Newsletter" style="float:left;height:36px;" border="0"></a>
   
-  <div style="padding-left:50px;"><a href="/podcasthelp" class="footerMenuAltlink" style="line-height:15px;">BillOReilly.com<br>Podcasts</a></div> 
-  <div style="clear:both;"></div>
+  <div style="padding-left:15px;line-height:36px;vertical-align:middle;float:left;"><a href="/newsletter" class="footerMenuAltlink" style="white-space:nowrap;">Sign Up for Our Emails</a></div>
 </div>
   
   </div>
-                     
-                   </td>
-                </tr>
-            </tbody></table>     
-        </td>
-    </tr>
-</tbody></table></div>
-            
-		</td>
-	</tr>
-    
-</tbody></table>
-</div>
-</div>
 
-<div id="footerBar" align="center" style="background-color:#333;">
-	<div style="width:1000px;margin:auto;">
-		<table cellpadding="0" cellspacing="0" border="0" width="100%">
-        	<tbody><tr>
-                <td valign="top" align="center" style="padding:20px 25px 15px;">
-                    <table cellpadding="0" cellspacing="0" border="0" width="100%">
-                        <tbody><tr>
-                            <td valign="top" align="left" width="40%" class="footerHeader"><a href="/"><img src="/images/general/BOR_logo.png" border="0"></a></td>
-                            <td valign="top" align="right" width="60%" id="bold" class="expandedBottomMenuLinksAlt">
-                            <a class="expandedBottomMenuLinksAlt bold" href="/pg/jsp/help/general/termsconditions.jsp">Terms &amp; Conditions</a>
-                            &nbsp;&nbsp;|&nbsp;&nbsp;
-                            <a class="expandedBottomMenuLinksAlt bold" href="/pg/jsp/help/general/privacypolicy.jsp">Privacy Policy</a>
-                            &nbsp;&nbsp;|&nbsp;&nbsp;
-                            <a class="expandedBottomMenuLinksAlt bold" href="/pg/jsp/general/credits.jsp">Acknowledgements</a>
-                            &nbsp;&nbsp;|&nbsp;&nbsp;
-                            <a class="expandedBottomMenuLinksAlt bold" href="mailto:ads@billoreilly.com">Advertising</a>
-                            &nbsp;&nbsp;|&nbsp;&nbsp;
-                            <a class="expandedBottomMenuLinksAlt bold" href="http://m.bor.com/">Mobile Site</a><br>
-                            <span class="expandedBottomMenuLinksAlt">Copyright © 2002-2016 BillOReilly.com. All rights reserved.</span>
-                            </td>
-                        </tr>
-                    </tbody></table>        
-                </td>
-            </tr>
-        </tbody></table>
-    </div>
+			<div class="social-divide"> </div> 
+        </div>
+        
+        
+		
+        <div class="copyright-container content-container floatContainer">
+        	<span class="copy-item">© 2016 BillOReilly.com</span>
+        	<a class="copy-item" href="/pg/jsp/help/general/privacypolicy.jsp">Privacy</a>
+			<a class="copy-item" href="/pg/jsp/help/general/termsconditions.jsp">Terms</a>
+			<a class="copy-item" href="/pg/jsp/general/credits.jsp">Acknowledgements</a>
+            <a class="copy-item" href="mailto:ads@billoreilly.com">Advertising</a>
+            <a class="copy-item" href="http://m.bor.com/">Mobile Site</a>
+        </div>
+        
+        
+	</div>
 </div>
-
 <script language="JavaScript">
 var lpNumber=71973030;
 //var lpServerName = "server.iad.liveperson.net";
@@ -1770,20 +1615,32 @@ function repStateNotifyFunction(state) {
 		jQuery("#chatButton").attr('src', '/images/buttons/chatsmall_onlineNew.gif');
 		jQuery("#chatOff").hide();
 		jQuery("#chatOn").show();
-		jQuery("#chatLink").innerHTML = "Live Chat with a Representative";
+		jQuery('#chatOfflineTimes').hide();
+		jQuery(".chatButtonLink").html("Live Chat with a Representative");	
+		jQuery("#chatLink").html("Live Chat with a Representative");
 		jQuery('[data-footer-hook=live-chat-link]').each(function(){
 			jQuery(this).show();
 		});
-	}else if (state==LPREPSTATEOFFLINE){
+		jQuery('.live-chat-button').addClass('active');
+		jQuery('.live-chat-button').html('Chat Live Now');
+	} else if (state==LPREPSTATEOFFLINE){
 		jQuery("#chatButton").attr('src', '/images/buttons/chatsmall_offlineNew.gif');
-		jQuery("#chatLink").innerHTML = "Leave a Message";
-	}else {
+		jQuery("#chatLink").html("Leave a Message");
+		jQuery(".chatButtonLink").html("Leave a Message");
+		jQuery('#chatOfflineTimes').show();
+		jQuery('.live-chat-button').removeClass('active');
+		jQuery('.live-chat-button').html('Live Chat Offline');
+	} else {
 		jQuery("#chatButton").attr('src', '/images/buttons/chatsmall_occupiedNew.gif');
-		jQuery("#chatLink").innerHTML = "Leave a Message";
+		jQuery("#chatLink").html("Leave a Message");
+		jQuery(".chatButtonLink").html("Leave a Message");
+		jQuery('#chatOfflineTimes').show();
+		jQuery('.live-chat-button').removeClass('active');
+		jQuery('.live-chat-button').html('Live Chat Unavailable');
 	}
 }
 </script>
-<script language="JavaScript" src="/pg/jsp/common/utils/js/liveperson.js"></script>
+<script language="JavaScript" src="/pg/jsp/common/utils/js/liveperson.js"></script><img src="https://server.iad.liveperson.net/hc/71973030/?cmd=repstate&amp;site=71973030&amp;useSize=true&amp;d=1580460208551" style="visibility: hidden; display: none;">
  
   
 
@@ -1911,7 +1768,7 @@ document.onmousemove=positiontip
  
 
 
-</div><img src="https://server.iad.liveperson.net/hc/71973030/?cmd=repstate&amp;site=71973030&amp;useSize=true&amp;d=1580460208162" style="visibility: hidden; display: none;">
+
 
 
 
