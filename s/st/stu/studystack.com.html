@@ -1,19 +1,20 @@
-<!--The following is the downloaded HTML source of the studystack.com privacy policy that was archived on 2016-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160406111701id_/http%3A//www.studystack.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the studystack.com privacy policy that was archived on 2016-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161118231319id_/http%3A//www.studystack.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html itemscope="" itemtype="http://schema.org/" lang="en"><head>
  <!-- commonHead.jsp -->
+   <meta name="p:domain_verify" content="2d8691d9c4eca28a93aa9a3287a19cc8">
    <meta content="IE=9" http-equiv="X-UA-Compatible">
    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-   <link rel="SHORTCUT ICON" href="/images/favicon.png">
+   <link rel="SHORTCUT ICON" href="http://sstk.biz/images/favicon.png">
 
 
-      <link rel="StyleSheet" href="/stylecss.jsp?v=19false" type="text/css">
+      <link rel="StyleSheet" href="/stylecss.jsp?v=21false" type="text/css">
 
    <meta name="Author" content="John Weidner">
-   <link rel="apple-touch-icon" sizes="40x40" href="/images/books40x40.png">
-   <link rel="apple-touch-icon" sizes="155x155" href="/images/Study_stack155px.png">
-   <link rel="apple-touch-startup-image" href="/images/studystack320x480.png">
+   <link rel="apple-touch-icon" sizes="40x40" href="http://sstk.biz/images/books40x40.png">
+   <link rel="apple-touch-icon" sizes="155x155" href="http://sstk.biz/images/Study_stack155px.png">
+   <link rel="apple-touch-startup-image" href="http://sstk.biz/images/studystack320x480.png">
    <meta itemprop="name" content="StudyStack flashcards">
    <meta itemprop="description" content="The seriously fun way to study!!!">
    <link href="//fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
@@ -23,11 +24,31 @@
        <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//tags-cdn.deployads.com/a/studystack.com.js" async=""></script>
    
 
-   <script async="" id="ce-widget-js" src="https://widget.campusexplorer.com/js/widget.js"></script>
+
+
+
+
+      <style>
+        body {
+           background-color: inherit;
+        }
+        div#container {
+           background-color: inherit;
+        }
+      </style>
+      <link rel="stylesheet" type="text/css" href="/newHomeStyles.css?v=14">
+      <link href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic" rel="stylesheet" type="text/css">
+
 
 
    <title>Study Stack - Privacy</title>
 <style type="text/css">
+  div#mainContent h2 {
+      padding: 20px 0 10px 0;
+  }
+  div#mainContent {
+    padding: 30px;
+  }
   div#mainContent table tr td{
      text-align: left;
   }
@@ -38,10 +59,6 @@
      
 
      
-
-
-
-
 
 
 
@@ -71,7 +88,7 @@
 
       FB.init({
         appId      : '52462214664',
-        channelUrl : 'https://www.studystack.com/fbChannel.html', // Channel File
+        channelUrl : 'http://www.studystack.com/fbChannel.html', // Channel File
         status     : true, // check login status
         cookie     : true, // enable cookies to allow the server to access the session
         xfbml      : true, // parse XFBML
@@ -82,12 +99,6 @@
          top.location = '/fbConnector.jsp';
       });
 
-
-    FB.getLoginStatus(function(response) {
-        if (response.status === 'connected') {
-            top.location = '/fbConnector.jsp?originalDestination=' + top.location ;
-        }
-    }  );
 
 
    if ( typeof facebookInitPage == 'function' ) {
@@ -112,11 +123,7 @@
    var UTILS_JS = "" ;
    var studyStackId = 0 ;
 
-
-
-
    
-
 
 
    var userBadges = '';
@@ -127,7 +134,7 @@
 
 
 
-<script src="/utils.js?v=13" type="text/javascript"></script>
+<script src="/utils.js?v=14" type="text/javascript"></script>
 
 
 
@@ -141,81 +148,1067 @@
 
 
       
+      
+      
+      
 
-         <!-- linkUnitTop.jsp  -->
+          <!-- topHeader.jsp -->
+<style>
+   div#topContainer {
+      padding: 0;
+      height: auto;
+      background-color: #1f1f1f ;
+   }
+div#top {
+    width: inherit ; 
+}
+#appLinkArea {
+    text-align: center ;
+    display: none;
+}
+@media screen and (max-width: 500px) {
+  #appLinkArea {
+     display: block;
+  }
+}
+</style>
 
-<div id="homePageLogoX" onclick="window.location.href='/';" class="link">
-        <img src="/images/sslogo-noreflection.png" alt="StudyStack" width="265" height="114">
-</div>
+ <script>
+
+  function statusChangeCallback(response) {
+    if (response.status === 'connected') {
+      onFacebookLogin( response );
+    } else if (response.status === 'not_authorized') {
+      console.log('User is logged into Facebook, but not your app.');
+    } else {
+      console.log( "User is not logged into Facebook." );
+    }
+  }
+
+
+  window.fbAsyncInit = function() {
+     FB.init({
+       appId      : '52462214664',
+       cookie     : true,   // enable cookies to allow the server to access the session
+       xfbml      : false,  // do NOT parse social plugins on this page
+       version    : 'v2.5'  // use graph api version 2.5
+     });
+
+     FB.getLoginStatus(function(response) {
+       
+         statusChangeCallback(response);
+       
+     });
+  };
+
+
+  function onFacebookLogin() {
+    top.location = '/fbConnector.jsp';
+  }
+
+  // Load the SDK asynchronously
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+ </script>
+
+
+
+
+
+
+	<header>
+                        <div id="appLinkArea">
+
+
+                                 <div id="app-button-wrapper-appLinkArea">
+                                      <a href="https://play.google.com/store/apps/details?id=com.studystack.phonegap&amp;hl=en&amp;utm_source=global_co&amp;utm_medium=prtnr&amp;utm_content=Mar2515&amp;utm_campaign=PartBadge&amp;pcampaignid=MKT-AC-global-none-all-co-pr-py-PartBadges-Oct1515-1">
+                                         <img class="app-button2" alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png">
+                                      </a>
+                                      <a href="https://itunes.apple.com/us/app/studystack-flashcards-study/id1147027509?mt=8">
+                                         <img class="app-button2" alt="Download on the App Store" src="images/iosAppStore.png">
+                                      </a>
+                                </div>
+
+
+                        </div>
+
+
+			<div id="header-upper">
+				<div class="container">
+					<a href="/"><img id="topLogo" src="/images/studystacklogo.svg" alt="Study Stack"></a>
+                                        
+
+
+
+
+
+
+                                            <!-- loginBox.jsp -->
+<style scoped="">
+   #busyIndicator{
+position:absolute;
+top: 2.5em;
+width:100%;
+height:5px;
+opacity: 0.2;
+display: none;
+z-index: 999999;
+}
+
+.followingBallsG{
+background-color:#000000;
+position:absolute;
+top:0;
+left:0;
+width:5px;
+height:5px;
+-webkit-border-radius:3px;
+-webkit-animation-name:bounce_followingBallsG;
+-webkit-animation-duration:3.3s;
+-webkit-animation-iteration-count:infinite;
+-webkit-animation-direction:linear;
+border-radius:3px;
+animation-name:bounce_followingBallsG;
+animation-duration:1.3s;
+animation-iteration-count:infinite;
+animation-direction:linear;
+}
+
+#followingBallsG_1{
+-moz-animation-delay:0s;
+}
+
+#followingBallsG_1{
+-webkit-animation-delay:0s;
+}
+
+#followingBallsG_1{
+-ms-animation-delay:0s;
+}
+
+#followingBallsG_1{
+-o-animation-delay:0s;
+}
+
+#followingBallsG_1{
+animation-delay:0s;
+}
+
+#followingBallsG_2{
+-webkit-animation-delay:0.13s;
+animation-delay:0.13s;
+}
+
+#followingBallsG_3{
+-webkit-animation-delay:0.26s;
+animation-delay:0.26s;
+}
+
+#followingBallsG_4{
+-webkit-animation-delay:0.39s;
+animation-delay:0.39s;
+}
+
+
+@-webkit-keyframes bounce_followingBallsG{
+0%{
+left:0px;
+}
+
+50%{
+left:100%;
+}
+
+100%{
+left:0px;
+}
+
+}
+
+
+
+@keyframes bounce_followingBallsG{
+0%{
+left:0px;
+}
+
+50%{
+left:100%;
+}
+
+100%{
+left:0px;
+}
+
+}
+
+
+
+
+
+/*  spinner from http://tobiasahlin.com/spinkit/  */
+#loadingResultsDiv {
+   text-align: center ;
+}
+.spinner {
+  margin: 1em auto;
+  width: 16em;
+  height: 3em;
+  text-align: center;
+  font-size: 10px;
+}
+
+.spinner > div {
+  background-color: white;
+  height: 100%;
+  width: 0.7em;
+  display: inline-block;
+  
+  -webkit-animation: stretchdelay 1.2s infinite ease-in-out;
+  animation: stretchdelay 1.2s infinite ease-in-out;
+  margin: 0 0.35em;
+}
+
+.spinner .rect2 {
+  -webkit-animation-delay: -1.1s;
+  animation-delay: -1.1s;
+}
+
+.spinner .rect3 {
+  -webkit-animation-delay: -1.0s;
+  animation-delay: -1.0s;
+}
+
+.spinner .rect4 {
+  -webkit-animation-delay: -0.9s;
+  animation-delay: -0.9s;
+}
+
+.spinner .rect5 {
+  -webkit-animation-delay: -0.8s;
+  animation-delay: -0.8s;
+}
+
+@-webkit-keyframes stretchdelay {
+  0%, 40%, 100% { -webkit-transform: scaleY(0.4) }  
+  20% { -webkit-transform: scaleY(1.0) }
+}
+
+@keyframes stretchdelay {
+  0%, 40%, 100% { 
+    transform: scaleY(0.4);
+    -webkit-transform: scaleY(0.4);
+  }  20% { 
+    transform: scaleY(1.0);
+    -webkit-transform: scaleY(1.0);
+  }
+}
+
+
+
+
     
-        <!-- connectBox.jsp   edmodoStudent = false  edmodoUser = false edmodoTeacher = false  -->   
+    .modalPopup {
+        display: none;
+        position: fixed;
+        z-index: 9999;
+        background-color: white;
+        width: 315px;
+        right: 0px;
+        left: 0px;
+        top: 0px;
+        bottom: 0px;
+        height: 300px;
+        margin: auto;
+        padding: 20px;
+        border-radius: 3px;
+        font-size: 11pt;
+        max-height: 100%;
+        overflow-y: scroll;
+        text-align: center ;
+    }
+    .modalPopup hr {
+	border: 1px solid rgba(0,0,0,.1);
+    }
+    #aboveAlreadyUser {
+	margin-top: 17px;
+	margin-bottom: 14px;
+    }
+    #alreadyClient a {
+      padding: 9px 20px;
+    }
+    .standard-button {
+        background-color: #8cc63f; 
+        border-radius: 3px;
+	transition: all ease 0.25sec;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+        border: none;
+        height: 33px;
+        font-size: 1em;
+        padding: 0;
+        color: white;
+        font-weight: bold;
+        padding: 0 10px;
+    }
+    #progressPopup {
+        background-color: lightgray;
+        height: 163px;
+    }
+    #errorPopup {
+        height: 163px;
+    }
+    #errorMessage {
+        height: 80px;
+        text-align: left ;
+        color: #111111;
+    }
+    #loginPopup {
+        height: 380px;
+    }
+    .facebookButton {
+        text-align: center ;
+        line-height: 65px;
+
+        border-color: #3B5998;
+    	border-bottom-color: #263a63;
+    	background-color: #3B5998;
+        color: white;
+    }
+
+    #resetPassword {
+        padding: 0;
+        height: 286px;
+        text-align: left ;
+    }
+    #resetPassword hr {
+       margin: 18px 5px;
+       border: 1px solid rgba(0,0,0,.07);
+    }
+    #resetPassword input[type='text']{
+        width: 100% ;
+        margin-top: 20px;
+        padding: 6px;
+        box-sizing: border-box;
+        font-size: 1em;
+    } 
+  
+    #resetPassword input[type='submit']{
+         padding: 0 19px;
+         font-weight: normal;
+    }
+    #resetPasswordHeading {
+        background-color: #e5e5e5;
+        padding: 10px 20px;
+        font-size: 13pt;
+        color: black;
+        border-top-right-radius: 3px;
+        border-top-left-radius: 3px;
+    }
+
+    #resetPasswordBoxPadding {
+        padding: 20px;
+        color: #727272;
+        line-height: 1.5em;
+    }
+
+    .modalButton{
+       height: 34px;
+       padding: 5px 16px;
+       margin: 0;
+       text-transform: inherit ;
+    }
+    
+    #modalBackground {
+        display: none;
+        position: fixed;
+        z-index: 9998;
+        top: 0; 
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: black;
+        opacity: 0.7;
+    }
+    #loginPopup button {
+       width: 100%;
+       margin-bottom: 5px;
+    }
+    #loginWithEmail {
+       width: 100%;
+       margin-bottom: 24px;
+    }
+    #loginPopup input[type=password] {
+       width: 100%;
+       height: 2.5em;
+       margin: 0.2em 0;
+       font-size: 1.2em;
+       padding: 0.3em;
+       box-sizing: border-box;
+    }
+    #loginPopup input[type=email] {
+       width: 100%;
+       height: 2.5em;
+       margin: 0.2em 0;
+       font-size: 1.2em;
+       padding: 0.3em;
+       box-sizing: border-box;
+    }
+    #loginPopup input[type=text] {
+       width: 100%;
+       height: 2.5em;
+       margin: 0.2em 0;
+       font-size: 1.2em;
+       padding: 0.3em;
+       box-sizing: border-box;
+    }
+    #signupPopup input[type='text'] {
+        background-color: rgb(250, 255, 189);
+    }
+    #signupUserName {
+       padding-right: 28px;
+    }
+    #signupPopup input[type='email'] {
+        background-color: rgb(250, 255, 189);
+    }
+    #signupPopup input[type='password'] {
+        background-color: rgb(250, 255, 189);
+    }
+
+    #facebookSignupArea {
+       padding-bottom: 10px ;
+    }
+
+
+    #signupPopup {
+        height: 494px;
+        overflow: hidden;
+    }
+    #emailSignupArea p {
+       text-align: left;
+       font-size: 9.5pt;
+       line-height: 1.4em;
+       margin-top: 1em;
+    }
+    p#agreementMsg  {
+       margin-top: 0;
+    }
+
+    #emailInputArea {
+        height: 72px;
+        overflow: hidden;
+    }
+
+    #signUpWithEmail {
+       margin-top: 11px;
+       width: 100%;
+    }
+    #alreadyClient {
+        width: 100%;
+        text-align: left ;
+    }
+
+    #signupPopup input[type='password']{
+        width: 100% ;
+        margin-top: 2px;
+        padding: 4px;
+        box-sizing: border-box;
+        height: 42px;
+        font-size: 1.2em;
+    } 
+    #signupPopup input[type='text']{
+        width: 100% ;
+        margin-top: 2px;
+        padding: 4px;
+        box-sizing: border-box;
+        height: 42px;
+        font-size: 1.2em;
+    } 
+
+    #signupPopup input[type='email']{
+        width: 100% ;
+        margin-top: 11px;
+        padding: 4px;
+        box-sizing: border-box;
+        height: 42px;
+        font-size: 1.2em;
+    } 
+
+    #ageWrapper {
+        margin-top: 10px;
+        position: relative ;
+        height: 80px;
+	background-color: rgba(250, 235, 215, 0.51);
+    }
+    #signupPopup input[type='radio']{
+        height: 30px;
+        width: 30px;
+    }
+
+    #ageLabel {
+       position: absolute;
+       left: 8px;
+       top: 0px;
+       line-height: 80px;
+    }
+
+    #twelveOrYoungerLabel {
+        position: absolute;
+        top: 16px;
+        left: 97px;
+    }
+    #twelveOrYoungerWrapper {
+        position: absolute;
+        top: 5px;
+        left: 56px;
+    }
+    #thirteenOrOlderLabel {
+        position: absolute;
+        bottom: 15px;
+        left: 97px;
+    }
+    #thirteenOrOlder {
+        position: absolute;
+        bottom: 5px;
+        left: 56px;
+    }
+    #whyLink {
+       position: absolute;
+       left: 250px;
+       top: 0px;
+       line-height: 80px;
+    }
+
+
+    #forgotWrapper {
+        padding: 0 0.2em;
+        text-align: left ;
+        position: relative;
+        height: 48px;
+    }
+    #forgotPassword {
+	float: right;
+	padding: 10px 0;
+        position: absolute;
+        right: 0;
+    }
+    #forgotWrapper label {
+	font-weight: 400;
+	padding: 10px 0;
+        position: absolute;
+        left: 27px;
+    }
+    #rememberMe {
+       width: auto;
+       position: absolute;
+       top: 6px;
+       height: 17px;
+       width: 17px;
+    }
+
+    #noAccount {
+       text-align: left ;
+	margin-top: 1.8em;
+    }
+    .orDivider {
+       font-size:16px;
+       margin-bottom: 23px;
+       text-align: center ;
+       margin-top: 20px;
+    }
+    #signupPopup .orDivider {
+       margin-top: 0px;
+    }
+    .orText {
+         display: inline-block;
+         padding: 8px;
+         background-color: white;
+         position: relative;
+         top: -4px;
+    }
+    .orDivider hr {
+       margin: -20px auto 10px auto;
+       width: 90%;
+    }
+    #loginForm {
+       padding: 0;
+       overflow-y: visible ;
+    }
+    #loginPopup a {
+       color: #8CC63F;
+       padding: 10px;
+    }
+    #signupPopup a {
+       color: #8CC63F;
+    }
+</style>
+       <div id="modalBackground" onclick="hideModalBox()"></div>
+
+       <div id="progressPopup" class="modalPopup">
+             <div id="progressMessage">Busy.   Please wait.</div>
+
+             <div class="spinner">
+		<div class="rect1"></div>
+		<div class="rect2"></div>
+		<div class="rect3"></div>
+		<div class="rect4"></div>
+		<div class="rect5"></div>
+             </div>
+
+             <button class="standard-button" onclick="hideModalBox()">Cancel</button>
+       </div>
+
+       <div id="errorPopup" class="modalPopup">
+             <div id="errorMessage"></div>
+             <button class="standard-button" id="dismissErrorButton">Ok</button>
+       </div>
+
+       <div id="loginPopup" class="modalPopup">
+           <div class="facebookButton" onclick="FB.login( statusChangeCallback )">Log in using Facebook</div>
+           <div class="orDivider">
+                 <div class="orText">or</div>
+                <hr>
+           </div>
+           <form id="loginForm" action="/" onsubmit="return doLoginWithEmail(this);" autocomplete="on">
+               <label style="display:none" for="email">Username or email</label>
+               <label style="display:none" for="password">Password</label>
+
+               <input type="email" id="email" name="email" placeholder="Username or email" autocomplete="on">
+               <input type="password" id="password" name="password" placeholder="Password" autocomplete="on">
+
+               <div id="forgotWrapper">
+                   <input type="checkbox" id="rememberMe"><label for="rememberMe">&nbsp;Remember me&nbsp;</label>
+                   <a href="#" onclick="showResetPassword(event);return false;" id="forgotPassword">Forgot Password?</a>
+               </div>
+               <input type="submit" id="loginWithEmail" class="standard-button" value="Log In">
+           </form>
+           <hr>
+           <div id="noAccount">
+               Don't have an account?
+               <a href="#" onclick="showSignupBox(event);return false;">&nbsp;Sign up&nbsp;</a>
+           </div>
+      </div>
+
+
+
+      <div id="signupPopup" class="modalPopup">
+          <div id="facebookSignupArea">
+               <div class="facebookButton" onclick="FB.login( statusChangeCallback )">Sign up using Facebook</div>
+          </div>
+           <div class="orDivider">
+                 <div class="orText">or</div>
+                <hr>
+           </div>
+
+          <div id="emailSignupArea">
+             <label style="display:none" for="signupUserName">Username</label>
+             <label style="display:none" for="signupEmail">Email address</label>
+             <div style="position:relative">
+                 <input type="text" id="signupUserName" name="signupUserName" placeholder="Username" autocomplete="off" onkeyup="checkUniqueUserName( this.value)">
+                 <img id="userNameStatus" src="/images/greenCheckMark.svg" style="position: absolute; z-index: 10; top: 13px; right: 5px; height: 24px; width: 24px;opacity:0;transition: opacity 0.25s ease-in-out;">
+                 <span id="userNameTaken" style="color: red; position: absolute; z-index: 3; right: 4px; top: 30px; font-size: 11px;opacity:0;transition: opacity 0.25s ease-in-out;">taken</span>
+             </div>
+             <div style="position:relative">
+                 <input type="password" id="signupPassword" placeholder="Password" autocomplete="off">
+                 <img id="signupEye" src="/images/blackeye.png" onmouseover="showPassword(true)" onmouseout="showPassword(false)" style="width:20px;height:17px;position:absolute;top:50%;right:0.3em;transform:translate(0%,-50%)" alt="show password">
+             </div>
+
+
+
+            <div id="ageWrapper">
+                      <label id="ageLabel">Age:</label>
+                      <div id="twelveOrYoungerWrapper"><input id="twelveOrYounger" type="radio" name="age" value="12-" onclick="handleAgeChange(0)"></div>
+                       <label id="twelveOrYoungerLabel" for="twelveOrYounger">12 or younger</label><br> 
+                       <input id="thirteenOrOlder" type="radio" name="age" value="13+" checked="checked" onclick="handleAgeChange(1)">
+                       <label id="thirteenOrOlderLabel" for="thirteenOrOlder">13 or older</label>
+                       <a id="whyLink" target="_blank" href="https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule" rel="nofollow" title="The Federal Trade Commission Children's Online Privacy Protection Act (COPPA) prohibits websites from collecting personal information from children under 13 years old.  So if you are under 13, we won't collect your email address.">why</a>
+             </div>
+
+
+           <div id="emailInputArea">
+	     <p id="noEmailMsg" style="display: none;">
+                 Make sure to remember your password. If you forget it there is no way for StudyStack
+                 to send you a reset link.   You would need to create a new account. 
+             </p>
+
+
+             <input type="email" id="signupEmail" name="signupEmail" placeholder="Email Address" style="display: block;">
+           </div>
+
+             <p id="agreementMsg">
+                By signing up, I agree to StudyStack's
+                <a href="Terms" target="_blank">Terms of Service</a> and
+                <a href="Privacy" target="_blank">Privacy Policy</a>.
+             </p>
+             <button id="signUpWithEmail" class="standard-button">Sign up</button>
+          </div>
+
+          <hr id="aboveAlreadyUser">
+          <p id="alreadyClient">
+             Already a StudyStack user? <a href="#" onclick="showLoginBox(event);return false;">Log In</a> 
+          </p>
+      </div>
+
+
+
+
+      <div id="resetPassword" class="modalPopup">
+          <div id="resetPasswordHeading">Reset Password</div>
+          <div id="resetPasswordBoxPadding">
+              Enter the email address associated with your account, and we'll email you a link to reset your password.
+              <input type="text" id="resetEmail" placeholder="Email Address">
+              <hr>
+              <input type="submit" id="sendResetLink" class="standard-button" value="Send Reset Link">
+          </div>
+      </div>
+
 <script type="text/javascript">
-   function fbLogout() {
-       FB.logout( function( response ) {
-           window.location.href = '/Logoff.jsp';
-       } );
+
+
+
+
+
+
+
+
+
+
+
+  var NO_ERROR = 0;
+  var BAD_LOGIN = -1;
+  var SERVER_ERROR = -2;
+  var NO_USERS = -3;
+  var INVALID_EMAIL = -4;
+  var MISSING_EMAIL = -5;
+  var USERNAME_TAKEN = -6;
+
+   function showPassword( show ) {
+      var pwField = document.getElementById( 'signupPassword' );
+      if ( pwField ) {
+           pwField.type = show ? 'text' : 'password' ;
+      }
+   }
+   function showLoginBox( event ) {
+       return showModalBox( event, 'loginPopup' );
+   }
+   function showSignupBox( event ) {
+       return showModalBox( event, 'signupPopup' );
+   }
+   function showResetPassword( event ) {
+       return showModalBox( event, 'resetPassword' );
+   }
+   function showProgress( message ) {
+        document.getElementById( 'progressMessage' ).innerHTML = message ;
+        showModalBox( null, 'progressPopup' ) ;
+   }
+   function showError( message, completeFunc ) {
+       document.getElementById( 'errorMessage' ).innerHTML = message ;
+       if ( !completeFunc ) {
+           completeFunc = hideModalBox;
+       }
+       document.getElementById( 'dismissErrorButton' ).onclick = completeFunc ;
+       showModalBox( null, 'errorPopup' );
+   }
+   var activeModal = null; 
+   var modalBackground = document.getElementById( 'modalBackground' );
+
+
+   function showModalBox( event, divId ) {
+        if ( activeModal != null ) {
+             activeModal.style.display = 'none';
+        }
+ 
+        activeModal = document.getElementById( divId );
+        modalBackground.style.display = 'block';
+        document.body.style.overflowY = 'hidden';
+        activeModal.style.display = 'block' ;
+        if (event) {
+            killEvent( event );
+        }
+        $(document).keyup( hideModalOnEscape ) ;
+        return false ;
+   };
+
+   function hideModalOnEscape(e) {
+        if (e.keyCode == 27) { // escape key
+            hideModalBox();
+        }
    }
 
-   function validateLogonForm(id) {
-       var userName = document.getElementById( id ).value ;
-       if ( userName.indexOf( '/' )>=0 || userName.indexOf( '&' )>=0 ) {
-           alert( 'invalid character in username' );
-           return false ;
-       }
-       return true ;
+   function hideModalBox() {
+        activeModal.style.display = 'none';
+        modalBackground .style.display = 'none';
+        document.body.style.overflowY = 'auto';
+        activeModal = null ;
+        $(document).unbind("keyup", hideModalOnEscape);
    }
+
+
+   document.getElementById( 'signUpWithEmail' ).onclick = function() {
+
+      var userName = document.getElementById( 'signupUserName' ).value ;
+      var password = document.getElementById( 'signupPassword' ).value ;
+      var emailAddr = document.getElementById( 'signupEmail' ).value ;
+      var child = document.getElementById( 'twelveOrYounger' ).checked; 
+
+      if ( !child && emailAddr.length == 0 ) {
+           showError( "Please enter an email address.", showSignupBox );
+           return ;
+      }
+
+      showProgress( 'Signing up.   Please wait!' );
+
+      createAccount( userName, password, emailAddr, child, function(error) {
+          if ( error == NO_ERROR ) {
+               hideModalBox();
+               top.location = '/MyStudyStack.jsp' ;
+          }
+          else if ( error == BAD_LOGIN ) {
+              showError( "Login failed", showSignupBox );
+          }
+          else if ( error == USERNAME_TAKEN ) {
+              showError( "Username is already taken", showSignupBox );
+          }
+          else if ( error == INVALID_EMAIL ) {
+              showError( "Invalid email address", showSignupBox );
+          }
+          else {
+               showError( "Error communicating with server.  Please try again.", showSignupBox );
+          }
+        } ); 
+      };
+
+
+   document.getElementById( 'loginWithEmail' ).onclick = doLoginWithEmail ;
+
+   function doLoginWithEmail() {
+      showProgress( 'Logging in.   Please wait!' );
+      var emailAddr = document.getElementById( 'email' ).value ;
+      var password = document.getElementById( 'password' ).value ;
+      ajaxLoginUser( emailAddr, password, 
+		function(data) {
+                   hideModalBox();
+                   top.location = "/MyStudyStack.jsp";
+                }, 
+                function(data) {
+                   if ( emailAddr.indexOf( "@" ) > 0 ) {
+                       showError( "Invalid email address  or password", showLoginBox );
+                   }
+                   else {
+                       showError( "Invalid username or password", showLoginBox );
+                   }
+                } );
+      return false ;
+   };
+
+
+
+
+
+   document.getElementById( 'sendResetLink' ).onclick = function() {
+      showProgress( 'Requesting temporary password.   Please wait!' );
+      var emailAddr = document.getElementById( 'resetEmail' ).value ;
+      ajaxForgotPassword( emailAddr,
+		function(data) {
+                   showError( 'Please check your email for instructions on accessing your account.' );
+                }, 
+                function(data) {
+                   showError( 'Error:' + data, showLoginBox );
+                } );
+      };
+
+
+function handleAgeChange( val ) {
+   document.getElementById( 'signupEmail' ).style.display = (val==0) ? 'none' : 'block';
+   document.getElementById( 'noEmailMsg' ).style.display = (val==1) ? 'none' : 'block';
+}
+
+
+
+
+function ajaxLoginUser( userName, password, successFunc, errorFunc ) {
+  var urlString = '/ajaxSignIn.jsp';
+  $.ajax( { url: urlString,
+            type: "POST",
+            data: {
+                i : userName,
+                p : password
+            },
+            cache: false,
+            success: function( data, status, xhr ) {
+                 data = data.trim();
+	         var parts = data.split( ' ' );
+	         if ( parts.length >=2 ) {
+	             var id = parts[0].trim();
+	             var token = parts[1].trim();
+	             successFunc( id, token );
+	         }
+	         else {
+	             console.log( 'parts.length=' + parts.length );
+	             errorFunc();
+	         }
+
+            },
+          } );
+}
+
+
+function ajaxForgotPassword( userNameOrEmail, successFunc, errorFunc ) {
+  var urlString = '/ajaxForgotPassword.jsp';
+  $.ajax( { url: urlString,
+            type: "POST",
+            data: {
+                info : userNameOrEmail
+            },
+            cache: false,
+            success: function( data, status, xhr ) {
+                 data = data.trim();
+                 if ( data.indexOf( "EMAILSENT" ) >= 0 ) {
+	             successFunc();
+	         }
+	         else {
+	             errorFunc( data );
+	         }
+
+            },
+          } );
+}
+
+
+
+function createAccount( userName, password, emailAddress, child, callback ) {
+     var urlString = '/ajaxCreateAccount2.jsp';
+     $.ajax( { url: urlString,
+               type: "POST",
+               dataType: "text",
+               data: { i: userName,
+                       p: password,
+                       e: emailAddress,
+                       c: (child ? "1" : "0") },
+               cache : false,
+               success: function( data, textStatus, jqXHR ) {
+                              console.log( 'success:' + data );
+	                      data = data.trim();
+	                      var parts = data.split( ' ' );
+                              console.log( 'length=' + parts.length );
+	                      if ( parts.length >=2 ) {
+	                          var id = parts[0].trim();
+	                          var token = parts[1].trim();
+	                          callback( NO_ERROR, id, token );
+	                      }
+	                      else {
+	                          callback( BAD_LOGIN );
+	                      }
+               },
+               error: function(jqXHR, textStatus, errorThrown){
+      			if ( jqXHR.status == 409 ) {
+	                    callback( USERNAME_TAKEN );
+	            	}
+	           	else if ( jqXHR.status == 404 ) {
+	           	     callback( INVALID_EMAIL ); 
+	           	}
+	                else {
+	                     callback( SERVER_ERROR );
+	                }
+	      }
+           } 
+      );
+}
+
+   var userNameStatus = document.getElementById( 'userNameStatus' );
+   var userNameTaken = document.getElementById( 'userNameTaken' );
+
+   var checkNameTimer = null ;
+
+   function checkUniqueUserName( username ) {
+       showUserNameStatus( STATUS_BUSY );
+       if ( checkNameTimer ) {
+          clearTimeout( checkNameTimer );
+       }
+       checkNameTimer = setTimeout( checkUniqueUserNameNow, 150, username );
+   }
+   function checkUniqueUserNameNow( username ) {
+       var table = 'users' ;
+       var column = 'userName' ;
+       if ( username == '' ) {
+           showUserNameStatus( STATUS_UNKNOWN );
+           return ;
+       }
+       var xmlhttp = newAjaxRequest();
+       xmlhttp.onreadystatechange = function() {
+           if (xmlhttp.readyState==4) {
+              try {
+                  var count = xmlhttp.responseText ;
+                  showUserNameStatus( count <= 0  ? STATUS_AVAILABLE : STATUS_TAKEN );
+              }
+              catch (err ) {
+                  showUserNameStatus( STATUS_UNKNOWN );
+              }
+           }
+       }
+       var url = "countRecords.jsp" +
+                  "?table=" + table +
+                  "&column=" + column + "&value=" + escape(username);
+       xmlhttp.open('GET', url, true);
+       xmlhttp.send( 'text=text' );
+    }
+
+    var STATUS_BUSY = -1;
+    var STATUS_UNKNOWN = 0;
+    var STATUS_AVAILABLE = 1;
+    var STATUS_TAKEN = 2;
+    var shownStatus = STATUS_UNKNOWN ;
+    function showUserNameStatus( status ) {
+       if ( status == shownStatus ) {
+           return ;
+       }
+       shownStatus = status;
+       userNameTaken.style.opacity = 0;
+       userNameStatus.style.opacity = 0;
+
+       if ( status == STATUS_TAKEN ) {
+            userNameTaken.style.opacity = 1;
+       }
+       else if ( status == STATUS_AVAILABLE ) {
+            userNameStatus.style.opacity = 1;
+            userNameStatus.src = '/images/greenCheckMark.svg' ;
+       }
+       else if ( status == STATUS_BUSY ) {
+            userNameStatus.style.opacity = 1;
+            userNameStatus.src = '/images/spinner.gif' ;
+       }
+    }
+
+
+handleAgeChange( 1 );
 
 </script>
 
+<!-- end of loginBox.jsp -->
 
 
-           <div id="logonBox" class="roundedCorners noprint">
-              <div id="faceBookConnectArea">
-                <div id="fbLoginButton" class="fb-login-button">Login with Facebook</div>
-
-                  <span id="withFB2">or...</span>
-
-              </div>
-              <form id="logonForm" name="logonForm" autocomplete="off" onsubmit="return validateLogonForm('id')" method="post" action="https://www.studystack.com/nogol.jsp">
-               <div>
-                 <label for="id" style="display:none">Username</label>
-                 <input type="text" name="id" id="id" value="" maxlength="100" placeholder="Username">
-                 <label for="word" style="display:none">Password</label>
-                 <input type="password" name="word" id="word" value="" size="20" maxlength="15" placeholder="Password">
-                 <input id="submitLogon" class="smallbutton" onclick="document.cookie='cookietest=1';deleteCookiesStartingWith('fb');return true;" type="submit" value="Login">
-                 <a href="/ForgotPassword.jsp" id="retrievePasswordLink">Reset Password</a>
-                 <a href="https://www.studystack.com/signUp.jsp" id="signUpLink">Free Sign Up</a>
-                </div>
-              </form>
-           </div>
+					    <nav id="header-logandsign">
+						<a href="#" onclick="showLoginBox();return false;" class="header-footer-a">Log&nbsp;In</a>
+						<a href="#" onclick="showSignupBox();return false;" class="header-footer-a" id="header-signup">Sign&nbsp;Up</a>
+    					    </nav>
 
 
 
+                                      
 
 
 
+				</div><!--END OF container-->
+			</div><!--END OF header-upper--> 
+	</header>
+<!-- end of topHeader.jsp -->
 
 
-
-
-
-    
-
-
-<div style="position:absolute; top:63px; left: 319px;" class="noprint">
-      <form id="srFormTop" method="get" action="/SearchResults.jsp" enctype="multipart/form-data" accept-charset="UTF-8">
-             <label for="q" style="display:none">Query</label>
-             <input id="q" name="q" type="text" size="45" value="" style="padding:4px;width:312px">
-             <button type="submit" style="padding:4px" class="smallbutton">Search</button>
-      </form><br>
-</div>
-
-
-        <h1 id="tagLine"><b>Free</b> flashcards for <b>serious fun</b> studying. Create your own or use sets shared by other students and teachers. </h1>
-
-        <br>
-        <div class="clearFloat"> </div>
-
+      
 
    </div><!-- end top -->
 </div><!-- end topContainer -->
@@ -270,8 +1263,10 @@ StudyStack occasionally provides a support feature that allows users to interact
 While you use the StudyStack web site, StudyStack may collect information such as what pages with-in the StudyStack web site you visited.   This information will only be used by StudyStack to improve the web site.<br><br>
 
 <b>Data that you enter for your flashcards will be displayed publicly.  Do not include personal information in your flashcards that you want to remain private!</b>
-
-
+<br><br>
+<p>
+We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use both personally identifiable information (e.g., your name, phone number, physical or electronic address) and non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at www.aboutads.info or Networking Advertising Initiative at www.networkadvertising.org/choices.
+</p>
 <h2>Advertisements</h2>
 
 To allow StudyStack to remain a free website, StudyStack displays advertisements on its pages.  Alternatively, you may <a href="/upgrade">upgrade to our PRO plan that does not display ads</a>.
@@ -312,56 +1307,55 @@ Phone: 405 806 0070<br>
 
         <div class="clearFloat"> </div>
     </div><!-- end main -->
-    <div id="copyrightDiv">
-            <br>
-            
 
-
-
-  <hr>
-  <br>
-
-  <div id="twitterButton2" title="Follow us on Twitter" onclick="window.location.href='//www.twitter.com/studystack' "></div>
-  <div id="facebookButton" title="Be a StudyStack fan on Facebook" onclick="window.location.href='//www.facebook.com/studystackhome' "></div>
-  <div id="eappsButton" title="Hosted by eApps" onclick="window.location.href='//www.studystack.com/eapps' "></div>
-  <a id="badSites" href="DoNotTrust.jsp">bad sites</a>
-
-
-
-Copyright ©2001-2016&nbsp; StudyStack LLC &nbsp;
-All rights reserved.<br>
-
-<div class="noprint">
-<a href="/Flashcards">Flashcards</a>&nbsp;-&nbsp;
-<a href="/About.jsp">About</a>&nbsp;-&nbsp;
-<a href="/FAQ" title="Frequently Asked Questions">FAQ</a>&nbsp;-&nbsp;
-<a href="/Terms.jsp">Terms of Service</a>&nbsp;-&nbsp;
-<a href="/privacy.jsp">Privacy Statement</a>&nbsp;-&nbsp;
- <a href="/SendSuggestion.jsp?studyStackId=0&amp;reference=https://www.studystack.com/privacy.jsp">Contact</a>&nbsp;-&nbsp;
-
-
-
-    <a href="#" onclick="createCookie('MOBILE','Y',1000);window.location.href='/FullSize.jsp?mobile=Y&amp;url=' + window.location.href">Mobile&nbsp;Site</a>
-    <br>
-
-</div>
-
-            <br>
-            <br>
-            <br>
-            <br>
-    </div>
 </div><!-- end container -->
-<div>&nbsp;</div>
 
 
-   <div id="bottomButtonWrapper">
+     
+	<footer>
+
+		<div class="container">
+			<a href="/"><img src="/images/studystacklogo.svg" alt="Study Stack"></a>
+
+			<h6>Copyright © 2001-2016 StudyStack LLC. All rights reserved.</h6>
+
+			<div class="line-seperator"></div>
+
+			<nav>
+				<ul>
+					<li><a href="/#top" class="header-footer-a">Home</a></li>
+					<li><a href="/Flashcards" class="header-footer-a">Flashcards</a></li>
+					<li><a href="/About" class="header-footer-a">About</a></li>
+					<li><a href="/FAQ" class="header-footer-a">FAQ</a></li>
+					<li><a href="/Terms" class="header-footer-a">Terms of Service</a></li>
+					<li><a href="/Privacy" class="header-footer-a">Privacy Statement</a></li>
+					<li><a href="/Contact" class="header-footer-a">Contact</a></li>
+				</ul>
+			</nav>
+		</div><!--END OF container-->
+
+
+
+    <div id="bottomButtonWrapper">
        <a title="browse or search millions of existing flashcards" href="/" id="browseOrSearchButton"></a>
 
-           <a title="create flashcards plus a dozen other activities" href="editdata--1" id="createFlashcardsButton"></a>
+           <a title="create flashcards plus a dozen other activities" href="#" onclick="javascript:showSignupBox( event);return false;" id="createFlashcardsButton"></a>
 
    </div>
 
+<div style="margin:40px">
+   <a href="http://www.studystack.com/Home.jsp?oldui">Click to access the old looking site</a>
+</div>
+
+	</footer>
+
+	<script src="/utils.js"></script>
+<!--
+	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+	<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+	<script src="responsive-nav.js"></script>
+
+-->
 
 
  <!--  googleAnalytics.jsp  -->
@@ -373,8 +1367,8 @@ All rights reserved.<br>
 
   ga('create', 'UA-463111-1', 'auto');
   ga('send', 'pageview', {
-    page: '/privacy.jsp',
-    title: '/privacy.jsp'
+    page: '/ThePrivacy.jsp',
+    title: '/ThePrivacy.jsp'
   });
 </script>
 
@@ -401,8 +1395,9 @@ All rights reserved.<br>
 </script>
 
 
-     <!-- mobile=false     requestCount=1 adTypes: Sortable  -->
+     <!-- mobile=false     requestCount=2 adTypes: Sortable  -->
 
+<script>window.jQuery || document.write("<script src='jquery-2.1.3.min.js?v=2'>\x3C/script>")</script><script src="jquery-2.1.3.min.js?v=2"></script>
 
 
 
