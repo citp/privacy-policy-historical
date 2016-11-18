@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitsdailydouble.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614103114id_/http%3A//hitsdailydouble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitsdailydouble.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119003245id_/http%3A//hitsdailydouble.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HITS Daily Double
 
@@ -10,7 +10,7 @@ As of 03-30-2014
 
 HITS Daily Double has created this Privacy Policy in order to demonstrate our firm commitment to protecting personal information. The following discloses our information gathering and dissemination practices relating to a website located at http://hitsdailydouble.com (the “Site” or the “Website”) and any mobile applications and other services that we may make available from time to time (collectively, the “Services”). The information you provide on this Site will not be shared other than as outlined in this Privacy Policy. By using the Services, you consent to the collection and use by us of any personal and other information you provide whilst using the Services in accordance with our Privacy Policy (this “Privacy Policy”). If you do not agree to the Privacy Policy, please do not use the Services.
 
-Please carefully read our Privacy Policy and [Terms and Conditions](https://web.archive.org/web/20160614103114id_/http%3A//hitsdailydouble.com/privacy?page=tc).
+Please carefully read our Privacy Policy and [Terms and Conditions](https://web.archive.org/web/20161119003245id_/http%3A//hitsdailydouble.com/privacy?page=tc).
 
 This Website presents information and content that is owned, licensed, or provided by HITS Daily Double its subsidiaries and affiliates ("Administrator"). The Site may also include services provided by third parties and distributed through the Site by virtue of a license, grant or some other form of agreement between the third party and Administrator. When used in this Privacy Policy, "we", “us” and "our" mean Administrator.
 
@@ -170,7 +170,7 @@ We will obtain assurances from its affiliates that they will safeguard personal 
 
 **Security & Enforcement**
 
-We will take reasonable precautions to protect personal information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction, and it will conduct compliance audits of its relevant privacy practices to verify adherence to this Privacy Policy. We cannot guarantee, in every circumstance, the security of the personal information you provide through the Services. All incoming encrypted information is routed through our firewall, which serves as a gatekeeper for our system. Only data containing the correct authorization is permitted past the firewall. Attempts to pass the firewall are constantly monitored for suspicious activity.  Administrator will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Privacy Policy. For complaints that cannot be resolved between Administrator and the complainant, Administrator agrees to participate in the dispute resolution procedures of the American Arbitration Association to resolve disputes pursuant to the Safe Harbor Principles.
+We will take reasonable precautions to protect personal information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction, and it will conduct compliance audits of its relevant privacy practices to verify adherence to this Privacy Policy. We cannot guarantee, in every circumstance, the security of the personal information you provide through the Services. All incoming encrypted information is routed through our firewall, which serves as a gatekeeper for our system. Only data containing the correct authorization is permitted past the firewall. Attempts to pass the firewall are constantly monitored for suspicious activity.  Administrator will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Privacy Policy.
 
 **Effective Date**
 
