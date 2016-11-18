@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metalhammer.co.uk privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611111343id_/http%3A//teamrock.com/privacy-policy%3Fns_source%3Dglobal%26ns_mchannel%3Ddesktop%26ns_campaign%3Dfooter-tracking%26ns_linkname%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metalhammer.co.uk privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231359id_/http%3A//teamrock.com/privacy-policy%3Fns_source%3Dglobal%26ns_mchannel%3Ddesktop%26ns_campaign%3Dfooter-tracking%26ns_linkname%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - TeamRock
 
