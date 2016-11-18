@@ -1,6 +1,36 @@
-> *The following text is extracted and transformed from the mp3fusion.net privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526120515id_/http%3A//www.mp3fusion.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3fusion.net privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118230428id_/http%3A//mp3fusion.net/page/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Mp3Fusion.net
+# Free MP3 Downloads and Songs | Mp3Fusion.net - Privacy
+
+  * [pop](http://www.mp3fusion.net/pop)
+  * [hip-hop-rap](http://www.mp3fusion.net/hip-hop-rap)
+  * [rock](http://www.mp3fusion.net/rock)
+  * [dance](http://www.mp3fusion.net/dance)
+  * [indian](http://www.mp3fusion.net/indian)
+  * [blues](http://www.mp3fusion.net/blues)
+  * [country](http://www.mp3fusion.net/country)
+  * [latino](http://www.mp3fusion.net/latino)
+  * [electronic](http://www.mp3fusion.net/electronic)
+  * [k-pop](http://www.mp3fusion.net/k-pop)
+  * [j-pop](http://www.mp3fusion.net/j-pop)
+  * [jazz](http://www.mp3fusion.net/jazz)
+  * [classical](http://www.mp3fusion.net/classical)
+  * [opera](http://www.mp3fusion.net/opera)
+  * [enka](http://www.mp3fusion.net/enka)
+  * [newage](http://www.mp3fusion.net/newage)
+  * [karaoke](http://www.mp3fusion.net/karaoke)
+  * [kayokyoku](http://www.mp3fusion.net/kayokyoku)
+  * [instrumental](http://www.mp3fusion.net/instrumental)
+  * [holiday](http://www.mp3fusion.net/holiday)
+  * [r-b-soul](http://www.mp3fusion.net/r-b-soul)
+  * [reggae](http://www.mp3fusion.net/reggae)
+  * [brazilian](http://www.mp3fusion.net/brazilian)
+  * [chinese](http://www.mp3fusion.net/chinese)
+  * [french](http://www.mp3fusion.net/french)
+  * [Еще ]()
+  * []()
+
+
 
 ### LEGAL NOTICE
 
