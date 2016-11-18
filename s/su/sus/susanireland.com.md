@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the susanireland.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606000942id_/http%3A//susanireland.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the susanireland.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232050id_/http%3A//susanireland.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Free Resume Samples, Cover Letter Samples and Tips
 
