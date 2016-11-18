@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studystack.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406111701id_/http%3A//www.studystack.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studystack.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231319id_/http%3A//www.studystack.com/Privacy) for the most accurate reproduction.*
 
 # Study Stack - Privacy
 
@@ -23,6 +23,8 @@ StudyStack occasionally provides a support feature that allows users to interact
 While you use the StudyStack web site, StudyStack may collect information such as what pages with-in the StudyStack web site you visited. This information will only be used by StudyStack to improve the web site.
 
 **Data that you enter for your flashcards will be displayed publicly. Do not include personal information in your flashcards that you want to remain private!**
+
+We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use both personally identifiable information (e.g., your name, phone number, physical or electronic address) and non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at www.aboutads.info or Networking Advertising Initiative at www.networkadvertising.org/choices. 
 
 ## Advertisements
 
