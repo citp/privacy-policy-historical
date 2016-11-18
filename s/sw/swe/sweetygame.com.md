@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sweetygame.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515073359id_/http%3A//www.sweetygame.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetygame.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118230646id_/http%3A//www.sweetygame.com/privacy_policy.html) for the most accurate reproduction.*
 
-# SweetyGame | Fashionable Princess Games and Dress Up Games
+# SweetyGame
 
 Privacy PolicyPersonal Information
 
@@ -45,3 +45,5 @@ Outgoing and Incoming Links
 Advertisements
 
         sweetygame.com does not accept any responsibility about the advertisements which are published at the website.
+
+Copyright Notice All the ecxlusive games on www.sweetygame.com are all original works from Sweetygame Studio. Sweetygame.com has all copyrights for those games. Anyone must not crack, alter, transform, or build upon these works. If we found that you steal our works/games, we will warn you to remove it from your website. And we will use legal ways if necessary.
