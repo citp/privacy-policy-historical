@@ -1,61 +1,61 @@
-> *The following text is extracted and transformed from the zipker.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616044926id_/http%3A//www.zipker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipker.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232807id_/http%3A//www.zipker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy
+**Privacy Policy**
 
-We value the trust you place in Zipker.com. That's why we insist upon the highest standards for secure transactions and customer information privacy. Zipker.com website is owned and operated by Zipker Online Services Private Limited. In this Privacy Policy, Zipker Online Services Private Limited is referred to as "we," "us," or "our" and the end users are referred to as "you", "your" or "user".
+Zipker.com value the worth of customers’ trust that they have in us while shopping on zipker.com. This is something that insists us keeping the highest standards in order to secure transactions as well as information privacy of customers. Zipker.com is undoubtedly a credible website that is owned and controlled by Zipker Online Services Private Limited. We have designed a Privacy Policy in that Zipker Online Services Private Limited is referred to as "we," "us," or "our" while users are referred to as "you", "your" or "user".
 
 **Privacy Policy Changes**
 
-We may change this Privacy Policy at any time by posting the revised Privacy Policy in the "Privacy Policy" section of the website. The revised Privacy Policy is effective immediately when posted on the website. It is the responsibility of each user to review the website and the Privacy Policy periodically to know about any revisions to this Policy. Your continued use of the website will be considered as your acknowledgment and acceptance of the terms of the revised Privacy Policy.
+Zipker.com has full right to change this Privacy Policy anytime just by posting the revised one in the "Privacy Policy" section of this site. The revised Privacy Policy will be applicable with immediate effect soon after being posted on the website. You are suggested to go through the website periodically that will let you have updated information about the Privacy Policy. Your regular use of our website will definitely be considered as your reference as well as acceptance of the revised terms of our Privacy Policy.
 
 **Collection of Personally Identifiable Information**
 
-We collect personal information when you register with us, when you participate in reviews and other features. We would collect name, email address and phone number when you register or place an order with us. When you search something on our site, keywords will be collected in a protected location for improving our search results. Apart from this, when you visit our site, our systems collect details about your computer’s personal information like your IP address. Please note that your IP address does not identify you personally.
+When you register with us at zipker.com and go through reviews as well as other features, we collect your personal information. Our executives gather your info such as name, email address and contact number while you register or place an order on our site. When you look for something on zipker.com, keywords will automatically be gathered at some secured location in order to improve our search results. Other than this, when you go through zipker.com, our systems collect info all about the personal info about your computer such as IP address. Kindly keep in mind that your IP address does not identify you personally.
 
-No use or Services available on this Website are directed towards children. Zipker does not knowingly collect Personal Information from children or sell of its products to children.
+All of the products and services that have been made available on zipker.com are not designed for children in any manner. Neither we collect any personal details from children nor sell anything to children.
 
-**Use of Information and Sharing**
+**Usage of Information and Sharing**
 
-Legal Requirements: We reserve the right to disclose your personal information as necessary to: (1) comply with the law or comply with legal process served on Zipker Online Services Private Limited; (2) protect and defend the rights or property of Zipker Online Services Private Limited; (3) to ensure compliance with our Terms & Conditions. Zipker Online Services Private Limited co-operates with law enforcement and other third parties to enforce laws, intellectual property, and other rights, and we reserve the right to report any information related to suspicion of illegal activity to law enforcement for prosecution.
+Our Legal Necessities -Zipker.com reserve sole right to reveal your personal info if required: (1) Abide by the legal rules and regulations or legal process processed on Zipker Online Services Private Limited; (2) defend the property or rights of zipker.com; (3) in order to ensure abidance to our Terms & Conditions. Zipker Online Services Private Limited collaborates with law enforcement as well as other third parties to implement laws, intellectual property and other rights. Moreover, Zipker Online Services Private Limited reserve the rights to take legal action by reporting any suspicious or illegal activity to the law enforcement for prosecution.
 
-Communication: We may send you details about new products, services and updates. If you do not wish to receive these communications you can opt out by sending an email to [customercare@zipker.com.](mailto:customercare@zipker.com)
+Communication: Our executives are free to send you information of upcoming or latest services, products and updates. In case, you don’t want to receive any such information, you can very well opt to deny for receiving it just by sending a mail at [customercare@zipker.com.](mailto:customercare@zipker.com)
 
-Payments: For credit/debit card purchasers, your name, card number and billing information will be passed on to the relevant financial institution.
+Payments: If you are a credit or debit card holder, your name and card number along with billing details will be sent to the concerned and applicable financial institution.
 
-We do not allow any unauthorized persons or organization to use any information that we may collect from you through this Website.
+No unauthorized person or any organization is allowed to use any kind of information which is collected from you through zipker.com.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible. We will promptly correct any information found to be incorrect.
+If you think that any of your information that we are collecting from you is wrong or incomplete, feel free to send us an email at the earliest. Our executives will quickly correct the mentioned incorrect information.
 
-Our website may contain links which may lead you to other Websites. Please note that once you leave our Website you will be subjected to the Privacy Policy of the other website and this Privacy Policy will no longer apply.
+Zipker.com may also contain few links that may direct you to other websites. Kindly note that soon after leaving our website, Privacy Policy of zipker.com will no longer be applicable and it will be subjected to the Privacy Policy of the website that you will be using later.
 
 **Third Parties**
 
-We will not disclose your personal information to third parties. Zipker.com may use the information for its own purposes, aggregate information that does not identify you personally, or share aggregate information about our users with advertisers, business partners, sponsors, and other third parties.
+We never disclose any kind of personal information of our customers to the third parties. Zipker.com reserve right to use any information for its own purposes, aggregate info which does not identify you personally in any manner. Moreover, we don’t share your collected information with the business partners, advertisers, sponsors, etc.
 
 **Business Transfers**
 
-Information about Zipker.com users, including personal information, may be disclosed as part of any merger, acquisition, debt financing, sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personal information could be transferred to third parties as one of the business assets of Zipker Online Services Private Limited.
+We have right to disclose any personal information about the users of zipker.com as part of any merger, debt financing, acquisition, sale of company assets and in any event of an insolvency, bankruptcy or receivership in which personal information could be transferred to any third party as one of our business assets.
 
-**Miscellaneous Privacy Issues**
+**Multifaceted Privacy Issues**
 
-Minors under the age of eighteen may not use the website. We do not collect information from anyone known to be under the age of eighteen and no part of the website is designed to attract underage customers. We sell children's products for purchase by adults. If you are under eighteen you may use Zipker.com only with the involvement of a parent or guardian.
+Children that are less than eighteen years old are not allowed to use our website and if found to use, it will be considered a legal offence. We ensure you not to collect any kind of information from children under the age of eighteen years. Other than this, no part of zipker.com has been designed to draw the attention of underage customers. Though we sell children's products also, but that are to be purchased by adults only. Children under eighteen years are allowed to use our website under observation or guidance of parents or guardian.
 
 **Cookies**
 
-Cookies are small pieces of information saved by your browser onto your computer. Cookies are used to record various aspects of your visit and assist Zipker to provide you with uninterrupted service. Zipker does not use cookies to save Personal Information for outside uses.
+Cookies are known as small pieces of information that are saved by your own browser on your system. These are used in order to record several aspects of your visit as well as helping zipker.com for providing you uninterrupted service. We don’t use cookies to save your personal information for any outside use.
 
-For each user, our web server automatically recognizes the following: Host origin of the request, Referrer, Session data, Page viewed, your browser type and Operating system information.
+Web server of Zipker automatically recognizes the following for every user: Browser type and Operating system information, Host origin of the request, Page viewed, Session data, Referrer, etc.
 
-We use cookies to ensure Zipker.com runs on your computer and you can access content on our site. Cookies do not store any passwords or credit card information.
+Zipker Online Services Private Limited use cookies to assure zipker.com runs on your computer and you are free to access content available on our website. Cookies never store your credit card information or passwords.
 
 **Advertising**
 
-We use remarketing with Google to advertise online. Third party vendors including Google, show you ads on the internet. Zipker and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to our website.
+For advertising online, we use remarketing with Google. Third party vendors including Google, show you ads available on the internet. Zipker as well as third-party vendors, including Google use first-party cookies (Google Analytics cookie) as well as third-party cookies (Double Click cookie) together to provide information, optimizing, and serving ads that are based on somebody's previous visits to zipker.com.
 
 **Choice/Opt-Out**
 
-Zipker.com provides all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account.
+We provide you opportunity to choose receiving non-essential (promotional, marketing-related) communications from zipker.com on behalf of our business partners and from Zipker Online Services Private Limited in general after setting up an account.
 
-If you have any questions about this Privacy Policy, please feel free to write to us at [customercare@zipker.com.](mailto:customercare@zipker.com)
+For any kind of queries regarding this Privacy Policy, just get in touch with us at[customercare@zipker.com.](mailto:customercare@zipker.com)
