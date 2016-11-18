@@ -1,20 +1,24 @@
-> *The following text is extracted and transformed from the ojas-gujnic.in privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507221859id_/http%3A//www.ojas-gujnic.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ojas-gujnic.in privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233529id_/http%3A//www.ojas-gujnic.in/p/privacy-policy.html) for the most accurate reproduction.*
 
 # www.ojas.guj.nic.in - Gujarat Government Jobs - Employment News: Privacy Policy
+
+[ ](https://www.blogger.com/rearrange?blogID=2294366811699976320&widgetType=Text&widgetId=Text5&action=editWidget&sectionId=main "Edit")
+
+[ ](https://www.blogger.com/rearrange?blogID=2294366811699976320&widgetType=Text&widgetId=Text4&action=editWidget&sectionId=main "Edit")
 
 [ ](https://www.blogger.com/rearrange?blogID=2294366811699976320&widgetType=Text&widgetId=Text3&action=editWidget&sectionId=main "Edit")
 
 [ ](https://www.blogger.com/rearrange?blogID=2294366811699976320&widgetType=Text&widgetId=Text2&action=editWidget&sectionId=main "Edit")
 
-###  [ BMC Recruitment 2016 for Various Posts – Total 31 Vacancies (OJAS) ](http://www.ojas-gujnic.in/2016/05/bmc-recruitment-2016-for-31-posts.html)
+###  [ GPSSB Recruitment 2016 for Staff Nurse, Officer, Engineer and Other Posts – 1707 Vacancies (OJAS) ](http://www.ojas-gujnic.in/2014/01/gpssb-gujarat-panchayat-seva-pasandgi-board-2195-job.html)
 
-Bhavnagar Municipal Corporation published an advertisement for recruitment for Head Clerk / Inspector / Community Organizer, Technical As... 
+Gujarat Panchayat Seva Selection Board invited applications for recruitment the posts of Additional Assistant Engineer, Mukhya Sevika, Com... 
 
 [ ](https://www.blogger.com/rearrange?blogID=2294366811699976320&widgetType=FeaturedPost&widgetId=FeaturedPost1&action=editWidget&sectionId=main "Edit")
 
 ##  Today's Popular Jobs 
 
-  *   *   *   * 
+  * 
 
 
 [ ](https://www.blogger.com/rearrange?blogID=2294366811699976320&widgetType=PopularPosts&widgetId=PopularPosts1&action=editWidget&sectionId=main "Edit")
