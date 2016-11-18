@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ultimateears.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401060631id_/http%3A//origin.ultimateears.com/en-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimateears.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119003919id_/http%3A//www.ultimateears.com/en-us/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Ultimate Ears
+# Privacy Policy Ultimate Ears
 
-Welcome! This Statement of Privacy and Security (“Statement”) governs the websites and online services for ultimateears.com and pro.ultimateears.com (“Site” or “Sites”) which are owned and operated by Logitech Europe S.A. (collectively referred to as “we,” “us,” “ours”). Please take the time to review this page and contact us at <http://support.logitech.com/response-center> with any questions or concerns.
+Welcome! This Statement of Privacy and Security (“Statement”) governs the websites and online services for ultimateears.com and makemusicsocial.com (“Site” or “Sites”) which are owned and operated by Logitech Europe S.A. (collectively referred to as “we,” “us,” “ours”). Please take the time to review this page and contact us at <http://support.logitech.com/response-center> with any questions or concerns.
 
 COLLECTION OF INFORMATION  
 HOW WE USE YOUR INFORMATION  
@@ -24,15 +24,15 @@ We do not knowingly collect personally identifiable information from users under
 
 We automatically collect on our server logs certain information about your computer hardware and software when you visit our Site. This information may include such things as your IP address, operating system, a description of any products connected and how such products are used, browser type, domain names, access times, service provider and referring website addresses.
 
-We and our third party service providers collect non-personal information about how you use our Site through cookies, Internet tags (e.g., web beacons) in the aggregate, and track navigational data. We also collect information such as the URL of the website you previously visited, the pages you visit within our Site and any transaction details (downloads, requests, etc.). This information is used to understand how you interact with our Site, and help us optimize our marketing efforts to include managing our advertising on other sites providing you ads based on your activities on our Site.
+We and our third party service providers collect non-personal information about how you use our Site through cookies, Internet tags (e.g., web beacons) and other technologies in the aggregate, and track navigational data. We also collect information such as the URL of the website you previously visited, the pages you visit within our Site and any transaction details (downloads, requests, etc.). This information is used to understand how you interact with our Site, and help us optimize our marketing efforts to include managing our advertising on other sites providing you ads based on your activities on our Site.
 
 #### COOKIES AND TRACKING
 
-We may work with online advertising companies to show you relevant, useful or targeted ads (“Online Behavioral Advertising” or “OBA”) based upon your interests. This may include ads served on our Sites or apps. This may also include our ads served on other companies’ websites. These ads may be based on non-personally identifiable information collected by us or third parties (for example, when you register for a site) through the use of cookies. These ads may also be based on your activities on our Sites or on third party websites. If you wish to not have this information used for the purposes of servicing you ads, you may manage your preference by clicking here.
+We may work with online advertising companies to show you relevant, useful or targeted ads (“Online Behavioral Advertising” or “OBA”) based upon your interests. This may include ads served on our Sites or apps. This may also include our ads served on other companies’ websites. These ads may be based on non-personally identifiable information collected by us or third parties (for example, when you register for a site) through the use of cookies. These ads may also be based on your activities on our Sites or on third party websites. If you wish to not have this information used for the purposes of servicing you ads, you may manage your preference by clicking here. Please note this does not opt you out of receiving service advertising. You will continue to receive generic ads. You may also set your browser to notify you when a cookie is sent or to refuse or delete cookies altogether, but certain features of our Site may not work.
 
 #### SOCIAL MEDIA FEATURES
 
-Our Site includes social network sign-in services, such as the Facebook Like button, and widgets, including the Share button (collectively “Features”). These Features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the Feature to function properly. These features are either hosted by a third party or hosted directly on our Site, and they allow you the ability to post information about your activities on this Site to your profile page to share with others within your network. Your interactions with these Features are governed by the privacy policy of the company providing it.
+Our Site includes social network features such as, such as the Facebook Like button, and widgets, including the Share button (collectively “Features”). These Features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the Feature to function properly. These features are either hosted by a third party or hosted directly on our Site, and they allow you the ability to post information about your activities on this Site to your profile page to share with others within your network. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 #### SINGLE SIGN-ON
 
@@ -60,13 +60,15 @@ We also use anonymous and aggregated data to create statistics and reports for v
 
 We will periodically send users e-mail messages about our products and services. We also use tracking pixels to determine, in the aggregate, how many people open our e-mails.
 
-#### SAFE HARBOR AND DISCLOSURE OF INFORMATION
+#### DISCLOSURE OF INFORMATION
 
 Personal information collected on the Sites may be stored and processed in the United States or in any other country Logitech or its affiliates, subsidiaries or agents maintain facilities. By using the Sites, you consent to any such transfer of information outside of your country. Logitech complies with the U.S.-E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Logitech has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view Logitech’s certification, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
 
+Logitech also complies with the European Commission’s standard contractual clauses for transfers from data controllers to data controllers and to data processors established outside the E.U./E.E.A.
+
 We do not share, trade, rent, sell or otherwise disclose our customer or user information to unaffiliated companies. We disclose information you submit only as follows:
 
-  * We hire affiliated and unaffiliated service providers to provide service to you including Logitech Inc., which is certified under the EU/CH-US Safe Harbor Program as set forth above. For example, we may use an email service provider to submit email communications to you on our behalf. All service providers are subject to strict confidentiality obligations and process your information only on our behalf and subject to our instructions.
+  * We hire affiliated and unaffiliated service providers to provide service to you including Logitech Inc., which are is certified under the EU/CH-US Safe Harbor Program as set forth above and have entered into data processing agreements using EU Commissions' standard contractual clauses.  For example, we may use an email service provider to submit email communications to you on our behalf. All service providers are subject to strict confidentiality obligations and process your information only on our behalf and subject to our instructions.
   * We may share redacted or anonymized information freely, but only after we redact it to ensure that recipients cannot use the data to identify you or link the data to you.
   * We may have to disclose information for purposes of protecting your or our legal rights or as required by law or orders from courts and government entities.
   * We may disclose to another business entity should we plan to merge with or be acquired by that business entity; or to any organization involved in a merger, transfer, or sale of our assets or business.
@@ -86,9 +88,11 @@ Except as set forth above, we will not disclose your personal information to any
 
 You have the ability to direct us to update or delete/deactivate certain information pertaining to you by using any of the methods listed below:
 
-Phone: +1 510–795–8500
-Postal Mail: Logitech Privacy Officer, 7600 Gateway Blvd., Newark, CA 94560 USA
-[support.logitech.com/response-center](http://support.logitech.com/response-center)
+Contact: [support.logitech.com/response-center](http://support.logitech.com/response-center "Logitech Response Center")
+
+Postal Mail: Logitech Pr ivacy Officer, 77600 Gateway Blvd., Newark, CA 94560 in the USA or Logitech Privacy, EPFL - Quartier de l’Innovation, Daniel Borel Innovation Center, 1015 Lausanne in Europe
+
+Web Site: [link](http://www.logitech.com/subscribe)
 
 You can also use these vehicles to request removal of your personal information from the blog, community forums or other public areas on our Site. We may not be able to remove some or all of your personal information, in which case we will let you know why. You may stop the delivery of marketing e-mails by following the unsubscribe instructions contained in the email received or at the subscription management page on our Site. We will respond to your request to review the information we have on file for you within 30 days from receiving such request.
 
@@ -104,4 +108,4 @@ We will occasionally update this Statement. If there are material changes to thi
 
 We encourage you to periodically review this Statement to be informed of how we are protecting your information.
 
-_Revised March 20, 2015_
+Revised May 9, 2016
