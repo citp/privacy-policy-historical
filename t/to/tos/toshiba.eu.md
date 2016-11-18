@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toshiba.eu privacy policy that was archived on 2016-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160228062311id_/http%3A//www.toshiba.eu/innovation/generic/privacy-policy-nep) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toshiba.eu privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119003428id_/http%3A//www.toshiba.eu/generic/privacy-policy-nep) for the most accurate reproduction.*
 
-# 
+# Toshiba
 
 Toshiba places great importance on respecting the personal rights of all visitors to its websites and users of online communication services. 
 
