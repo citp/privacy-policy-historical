@@ -1,60 +1,140 @@
-> *The following text is extracted and transformed from the zales.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605030526id_/http%3A//www.zales.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zales.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118225534id_/http%3A//www.zales.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Zales
 
-Zales.com is committed to protecting our customers' personal information. All orders are transmitted in an encrypted format. To be sure that your order is secure, simply check your Web browser while you are in the ordering section. Most browsers use some sort of symbol to alert you to the fact that you are on a secured Web site. For example, Netscape and Internet Explorer use icons - either a padlock or a key - in the bottom left hand corner that appear when the site is secured. 
+_Last revised September 15, 2016_
 
-We will store your shipping and billing information if you create an account with us, but this information will not be used by anyone but Zales and the third parties who provide services related to Zales.com as described below in our privacy policy. 
+At Signet Jewelers ("Signet"), we respect our customers' privacy. Signet operates worldwide under name brands including Kay Jewelers, Jared The Galleria Of Jewelry, Zales Jewelers, Zales Outlet, H.Samuel, Ernest Jones, Peoples Jewellers, Gordon's Jewelers, and Piercing Pagoda. This privacy policy ("Policy") applies to all Signet activities, including, but not limited to our retail locations, brands' websites, and all other websites, mobile sites, services, applications, platforms and tools where this Policy appears or is linked (collectively, our "Website"). This Policy is to inform you about how we collect, use, share, and protect personal information. By providing information to us (by any means, whether in a store, in correspondence, via our Website or otherwise) you consent to our use of the information you provide in accordance with this Policy. Any reference to our Website includes its e-mail, text, live chat, and other electronic messages. If you do not agree with this Policy or our practices, you may not use our Website. This Policy may change from time to time and is incorporated into our Website Terms of Use. Your continued use of our Website constitutes your acceptance of those changes. We encourage you to review this Policy periodically.
 
-At checkout, we require the credit card customer identification number (CIN) with every online purchase made with American Express, MasterCard and Visa Cards. The CIN is a 3 or 4 digit, numeric value that provides a cryptographic check of the information embossed on the card. This security feature is designed to protect you against consumer fraud. Your CIN will not be stored or maintained on any of our systems and you will need to provide the number every time a purchase is made on Zales.com. Click here to learn more about [CIN](https://web.archive.org/helpdesk/index.jsp?subdisplay=ccv&display=payment). 
+**Information We Collect**
 
-**Privacy Policy**
+We collect personal information about you in various ways, such as when you provide it at our stores, on our Websites or affiliated websites, through our apps and social media channels, at our events, through your participation in surveys, via text messages or on the telephone. The types of personal information we may collect include:
 
-At Zales.com, we are committed to providing excellent customer service and outstanding value in fine jewelry while respecting and protecting the privacy of our customers. To better serve you, we may collect and maintain certain information regarding, for example, your product and service preferences, dates of special occasions related to people you buy gifts for (e.g., birthdays), and billing and shipping information. Under no circumstances do we sell or rent this information to other businesses, and we protect and enforce the confidentiality of this information. We respect your privacy and seek to protect the trust you place in Zales. Our Privacy Policy is explained in more detail below. 
+  * contact information (such as name, postal address, email address, and mobile or other telephone number); 
+  * username and password if you have registered an account with us;
+  * payment information (such as your payment card number, expiration date, authorization number or security code, delivery address, and billing address);
+  * purchase, return, wish list and transaction information;
+  * customer service information (such as customer service inquiries, comments and history);
+  * device information;
+  * photographs, comments and other content you provide;
+  * information regarding your personal or professional interests, date of birth, anniversary date, demographics (such as gender, occupation, income and marital status), experiences with our products, and shopping and contact preferences;
+  * social media information;
+  * contact information you provide about friends or other people you would like us to contact; and
+  * information we may obtain from our third-party service providers.
 
-**1\. What information does Zales.com collect from our online customers?**
 
-For those individuals who visit our site but do not make a purchase, we collect and store IP ("Internet Protocol") addresses during the visit. No individualized information is collected, and the IP address is not traced to a particular individual. Similarly, we collect information, using that IP address, about the navigational or browsing activities of our visitors. Again, that information is not tied to any name or other personally identifying information but is used solely to provide generalized demographic data, such as what geographic areas our visitors are from and visitor browsing patterns. For those who make a purchase on Zales.com, in order to fulfill the order, we collect and store your name, address, shipping information, e-mail address, telephone number, purchase data, and billing information. 
 
-**2\. Does Zales.com use "cookies"?**
+In addition, when you visit our Website, open our emails, use our apps or interact with our related tools, widgets or plug-ins, we may collect certain information by automated means, such as cookies, web beacons and web server logs. The information we collect in this manner may include your IP address, unique device identifier, browser characteristics, domain and other system settings, search queries, device characteristics, operating system type, language preferences, referring URLs, actions taken on our site, dates and times of website visits, metadata and other information associated with other files stored on your device. Through these automated collection methods, we obtain "clickstream data," which is a log of the links and other content on which a visitor clicks while browsing a website. We may link certain data elements we have collected through automated means, such as your browser information, with other information we have obtained about you to let us know, for example, whether you have opened an email we sent to you. While you can change your cookies settings in your browser, please note, however, that without cookies you may not be able to use all of the features of our Website
 
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Currently, if you place an item in a shopping basket during your visit to Zales.com, we will create a cookie containing a unique customer number on your computer. This function enables us to store items in your shopping cart until you make a purchase. Most web browsers automatically accept cookies, but you can usually change your browser to prevent such acceptance, which will result in your inability to purchase online from us. We do not retain any individualized information as a result of our use of cookies. 
+In addition, we may use local shared objects to collect and store information about your preferences and how you interact with our Websites and Apps. These technologies help us recognize you, customize or personalize your shopping experience, store items in your online shopping cart between visits, and analyze the use of our services and solutions to make them more useful to you. These technologies also allow us to aggregate demographic and statistical data and compilations of information, which may include personal information, and provide this information to our business partners and service providers that provide products and services to us.
 
-**3\. How does Zales.com use the individualized information that we collect?**
+We may also offer internet-based advertising programs on our Website such as AdChoices ([ http://youradchoices.com/ ](http://youradchoices.com/)) and NetworkAdvertising (<http://www.networkadvertising.org/>). These third-party services selectively display ads based on browsing history. You can opt out of these services by clicking on the links above. 
 
-We and the third parties who provide services related to Zales.com will use the information referenced above to fulfill your order and provide services related to Zales.com or the operation of our business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, Web site evaluation, data analysis and, where applicable, data cleansing. The third parties who provide any of these services are authorized to use this information only in connection with the services they are engaged to perform. 
+We also may collect information about the location of the mobile device or tablet used to access the Website ("Location Data"). Location Data includes: (a) the location of the mobile device or tablet derived from GPS or WiFi use; (b) the IP address of the mobile device or tablet or internet service used to access the Website; and (c) other information made available by a user or others that indicates the current or prior location of the user, such as geotag information in photographs. We will inform you if a specific Website, app or service collects precise Location Data. If you do not want us to collect Location Data from your device, please delete the app or disable the location settings on your device or tablet. Note, however, that disabling the location setting may affect your ability to access and use that app.
 
-In addition to using the information referenced above to fulfill your purchase order, we also retain some of that information in our customer database. We use that information to track your order, to respond to your inquiries and to make subsequent purchases you wish to make easier and faster. We also may use that information, from time to time, to contact you and allow third parties to contact you with our consent concerning products, services, sales or special promotions of Zales.com or our corporate affiliates, including Zales Jewelers, as well as third-party products and services [branded with the name Zales Jewelers or with the name of another of our affiliate(s)] that Zales Jewelers believes will be of interest to you. We try to limit those contacts to ones that might be of interest to you. If you would prefer not to be contacted about our special offers, products or services, please notify us at the mailing address, e-mail address or phone number provided below: 
+When you connect with social media though the Website, you may link with social media platforms and social media plug-ins (e.g., the Facebook "Like" button, "Share to Twitter" button) (collectively, "Social Media"). When accessing services through a Facebook or other social media account, we may (depending on the applicable user privacy settings) automatically have access to information provided to or through the social media platform. We may collect and use this information for the purposes described in this Policy or at the time the information was collected.
 
-**Zales Jewelers**  
-**Customer Service**  
-**P.O. Box 152777**  
-**Irving, Texas 75015**
+Information collected directly by the third party providers of the features is subject to the privacy policies or notices of these providers. We are not responsible for these providers' information and privacy practices. Information we collect will only be used as described in this Policy. If you choose not to provide certain information, we may not be able to provide you with requested products, services or information. 
 
-or 
+**How We Use the Information We Collect**
 
-**1-800-311-JEWEL**
+We may use the information described above in one or more of the following ways, and we may seek specific consent prior to such use, depending on your jurisdiction:
 
-or **[Contact Us](https://web.archive.org/helpdesk/index.jsp?subdisplay=contact&display=store)**
+  * to provide our Website and its contents to you;
+  * to provide requested products and services including, as applicable, order confirmation, billing, and delivering products or services;
+  * to process and track orders;
+  * to respond to comments, questions, or concerns;
+  * to prevent and detect fraud and other unlawful activity, claims and other liabilities;
+  * to improve or develop new services and product offerings;
+  * to identify, offer, and contact you with personalized content and advertising, including newsletters, articles, product or service alerts, new product or service announcements, savings awards, event invitations, and other information;
+  * to conduct market research, surveys, and similar inquiries to help us understand trends and customer needs across product categories or customer groups;
+  * to alert you about a product safety announcement or recall or correction of an offer, promotion, or advertisement;
+  * to enroll you in loyalty or other programs, and enter you into sweepstakes and promotions or contact you regarding a contest prize;
+  * to keep a record of our interactions with you if you place an order or otherwise deal with our representatives over the telephone or online;
+  * to notify you of changes to our Website or any products or services we offer;
+  * for marketing and promotional purposes;
+  * to verify and validate your identity to reduce credit risk and manage collections;
+  * to ensure that your shopping experience is as easy and pleasant as possible;
+  * to carry out our obligations and enforce our rights; and
+  * to comply with and enforce applicable legal requirements, relevant industry standards, contractual obligations and our policies.
 
-We currently send e-mails only to those Zales.com customers who are interested in receiving information about our products and services. If you have previously received such e-mails, but no longer want to, contact us by one of the methods referenced above or by unsubscribing to an e-mail you receive from us or to the Zales.com Newsletter, as the case may be. 
 
-Please be advised that since promotions may already be in process at the time of your request, it may take up to ten days before electronic contacts cease. As a result, you may receive mail or other solicitations from Zales for a brief period of time after you make your request. You may also use the above addresses and phone number to correct or update any of the individual information we have stored. 
 
-**4\. How is the information Zales.com collects stored and what security procedures do we have in place to protect the confidentiality of that information?**
+We may also use the information in other ways for which we describe at the time of collection. In addition, we may use information collected through cookies, web beacons, pixels, web server logs and other automated means for purposes such as (a) customizing our users' visits to our Website, (b) delivering content tailored to our users' interests and the manner in which our users browse our Website, and (c) managing our Website and other aspects of our business. To the extent required by applicable law, we will obtain your consent before collecting information using cookies or similar automated means.
 
-Currently, the Zales.com customer information that we maintain is stored in our internet database and in our corporate customer database. We limit access to that information to those within our organization with a business need to know. Most of our employees do not have access to that information. In addition, we enforce a policy against unauthorized disclosure or use of the information you share with us, and we instruct our employees concerning that policy. Those employees that do have access are required to abide by our privacy policy. We also require that those third parties who provide services to us and may have access to customer information (such as the third parties who provide Web site, customer service, data collection, storage and reporting services and mail vendors) share our commitment to maintaining your privacy and adhere to our company's nondisclosure requirements. As stated above, we do not under any circumstances sell or rent customer information to any outside company or organization nor do we permit any such organization to use customer information for its own business purposes. 
+We may use third-party analytics services on our websites and apps, such as those of Google Analytics (<http://www.google.com/analytics/learn/privacy.html> ) and Adobe Omniture (<http://www.adobe.com/privacy/analytics.html#1>). The analytics providers that administer these services use technologies such as cookies, web server logs and web beacons to help us analyze your use of our Website. The information collected through these means (including IP address) may be disclosed to these analytics providers and other relevant third parties who use the information, for example, to evaluate use of the Website. To learn more about these analytics services and how to opt out, please visit the relevant websites listed above.
 
-In fact, we will release specific information about you only if we are compelled to do so to comply with valid legal processes such as a search warrant, subpoena or court order, or a valid administrative request from a law enforcement agency, or in the unlikely situation where we, in good faith, believe such information is necessary to prevent harm to you or others. As with any business, it is possible that as our business develops, we might sell or buy online businesses or other assets. In such transactions, information about customers often is among the transferred assets. Accordingly, in the unlikely event that Zales, or substantially all of its assets related to this Web site, is acquired by a third party, such information may be one of the transferred assets. Under these circumstances Zales would to the extent possible require the acquiring party to follow the practices described in this privacy policy. We use secure server technology to keep your personal information - including your billing and account information - as secure as possible. Your ordering information is encrypted using Verisign software. Once your information is stored on our database, we have database security technologies and procedures in place to protect it from access by unauthorized employees or third parties. 
+**Interest-Based Advertising**
 
-**5\. How does Zales.com protect the safety and privacy of children?**
+On our Website, we may collect information about your online activities for use in providing you with advertising about products and services tailored to your individual interests. We also may obtain information for this purpose from third-party websites on which our ads are served. This section of our Policy provides details and explains how to exercise your choices.
 
-Our site is not directed or marketed to children under the age of 18. We do not intentionally collect or store information on children. If we learn that a child has made a purchase from Zales.com without his or her parent's consent, we immediately, upon parental request, void the sale and refund any monies collected on the return of the merchandise. 
+You may see our ads on other websites because we use third-party ad networks, such as Facebook (<https://www.facebook.com/policies/ads>) and DoubleClick ( <https://www.doubleclickbygoogle.com/solutions/digital-marketing/ad-exchange/>), to serve our ads. Through such ad networks, we can target our messaging to users through demographic, interest-based and contextual means. We may also use our own cookies to serve you relevant advertising from which you can opt out of by clicking [here](http://dtmc.zales.com/adinfo/choice/prod/?type=fpc&cid=60851&cname=Zales&cmagic=30e03b&clogo=60851.jpg&loc=us&lang=en-us%27,%27_blank%27,%27status=0,toolbar=0,location=0,menubar=0,directories=0,scrollbars=1,width=921,height=758). We can track your online activities over time by collecting information through automated means, including through the use of first and third-party cookies, web server logs, pixels and web beacons. The networks use this information to show you advertisements that may be tailored to your individual interests. The information our ad networks may collect on our behalf includes data about your visits to websites that serve our advertisements, such as the pages or advertisements you view and the actions you take on the websites. This data collection takes place both on our Website and on third-party websites that participate in these ad networks. This process also helps us track the effectiveness of our marketing efforts. To learn how to opt out of this ad network interest-based advertising, click on the links above: 
 
-**6\. Will the Zales.com privacy policy change?**
+**Information We Share**
 
-We may change or enhance our policy to improve our service to you. If we do change our policy, we will note those changes on our Web site. A message will be displayed on our home page for a period of time that a change has been made. We also may send an e-mail describing the changes. You are welcome to refer to this policy each time you are considering making a purchase. 
+We do not disclose personal information we collect about you, except as described in this Policy. We may share personal information with service providers who perform services on our behalf. These service providers are permitted to use or disclose the information only as necessary to perform services on our behalf or comply with legal requirements. Examples of these service providers include entities that process credit card payments, manage and reduce our credit risk, verify information, fulfill orders, and provide web hosting, analytics and marketing services. We also may share your personal information with our affiliates and joint marketing partners for the purposes described in this Policy.
 
-**If you have any questions or concerns about our Privacy Policy, please[Contact Us](https://web.archive.org/helpdesk/index.jsp?subdisplay=contact&display=store).**
+We may release your personal information if we are required to do so by law or court order, to enforce or apply our Terms of Use or if we believe in good faith that such release is necessary or appropriate to protect the rights, property, or safety of our company, customers, affiliates, or others. We may also share or transfer information, including your personal information, in connection with the sale, transfer, acquisition, merger, acquisition, divestiture, restructuring, reorganization, dissolution, bankruptcy or other change or ownership or control by Signet or any affiliated company (in each case, whether in whole or in part). When one of these events occurs, we will use reasonable efforts to notify users before information is transferred or becomes subject to different privacy practices. 
 
-Last updated: 5/1/2011
+**How We Protect Personal Information**
+
+We enforce commercially reasonable security measures online and in our physical facilities to protect against the loss, misuse, disclosure, or alteration of personal information provided to us. While we strive to safeguard your personal information, we cannot guarantee the security of any information you disclose or transmit to us.
+
+If you receive an e-mail that looks like it is from us asking you for your personal information, do not respond. We will never request your password, username, credit card information, or other personal information through e-mail.
+
+Our Website has been approved by industry-recognized trust marks, such as Norton Secured or GeoTrust, available for display on any website that protects its customers' confidential information using those services. Additionally, we have taken measures to make shopping on the Website a safe and enjoyable experience for our valued customers. We use Secure Sockets Layer (SSL) encryption technology, the industry standard for secure online transactions, to encrypt your personal credit information, including your credit card number, before it travels over the Internet.
+
+**Choice/Opt-Out**
+
+We offer you certain choices in connection with the personal information we collect about you, such as how we use the information and how we communicate with you. To update your preferences, ask us to remove your information from our mailing lists, exercise your rights, or submit a request, please [contact us](http://www.zales.com/helpdesk/index.jsp?display=store&subdisplay=contact). You can also unsubscribe from our mailing lists by following the "Unsubscribe" link in our emails. We honor all opt-out requests, but there may be a delay between submission of such request and actual removal from our mailing lists, as these lists are generated well in advance of our actual mailings. Opting out of communications does not affect our communication with you via telephone or e-mail regarding orders or other sales or service transactions.
+
+You may request access to the personal information we maintain about you or request that we correct, amend, delete or block the information by contacting us. You may withdraw any consent you previously provided to us or object at any time on legitimate grounds to the processing of your personal information, and we will apply your preferences going forward.
+
+**Text Messaging Services**
+
+When you sign up for one of our text messaging programs, you are expressly consenting to receive text messages on your cell phone or other mobile device about our products, services, and/or programs which may be sent by automated means. Text messages will only be sent to the mobile phone number used to opt into the applicable text message program. Details on how many messages you should expect to receive are provided at the time of enrollment. In some instances, you may have the opportunity to reply to a message, which may result in additional response messages. Your consent to enrollment in any text message program is not a condition of purchase. For information about a text message program you may text **HELP** to the applicable short code.
+
+Message and data rates may apply. We do not charge a fee for our text message programs and assume no responsibility for charges by your carrier that you may incur when you sign up to receive text messages from us. You may opt out of a text message program at any time by texting **STOP** to the applicable short code. You will receive a final confirmation message to confirm that you will no longer receive text messages from the applicable text message program unless you opt back into such program. Some of our text messaging services have additional terms and conditions that will apply in addition to the description above.
+
+**Children's Privacy**
+
+We are committed to protecting the privacy of children. The Website is not directed to children and we do not knowingly collect any personal information from children. If a child under the age of 13 has provided us with personal information online, we ask that a parent or guardian please [contact us](http://www.zales.com/helpdesk/index.jsp?display=store&subdisplay=contact). Please visit the FTC's website at [www.ftc.gov](https://www.ftc.gov/) for tips on protecting children's privacy online.
+
+**Do Not Track Policy**
+
+Some browsers have a "do not track" feature that lets you tell websites that you do not want your online activities tracked. At this time, the Websites do not respond to web browser "do not track" requests or similar signals that users may employ.
+
+**Consent**
+
+By providing information on or through a Website you are consenting to the collection, use and disclosure of such personal information as described in this Policy. You may withdraw your consent at any time by following the procedure described in the Choice/Opt-Out section above.
+
+In addition, your use of the Website constitutes consent (a) to be contacted about your account through any contact information you provide, including cell phone numbers, even if the number is on a Do Not Call list, and even if you are charged under your phone plan and (b) to the use of any automatic telephone dialing system and/or a prerecorded message when contacted.
+
+**Links to Third Party Sites and Services**
+
+This Website may contain links to third party websites operated by individuals or companies unrelated to us. Please be aware that we are not responsible for the privacy practices of such third party websites. We provide links to these websites for your convenience only and you access them at your own risk. We recommend that you review the privacy policies and terms of use posted on and applicable to such third party websites prior to utilizing them.
+
+**Access and Retention**
+
+If you have a Website account, you can log in to view and update your account information. Please [contact us](http://www.zales.com/helpdesk/index.jsp?display=store&subdisplay=contact) with questions or concerns, to request edits to your personal information, or to have it removed from our database. We keep your personal information for as long as we think is necessary or advisable, and we reserve the right to retain it to the full extent not prohibited by law.
+
+**Your California Privacy Rights**
+
+California Civil Code Section 1798.83 permits individual California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes during the preceding calendar year. To make such a request, please write to us at the following address:
+
+Signet Jewelers - California Privacy Rights   
+Legal Department   
+375 Ghent Road   
+Akron, OH 44333
+
+**Data Transfers**
+
+When we obtain information about you, we may transfer, process, and store such information in the United States and other countries, both within and outside of the European Economic Area. By providing us with your information, you consent to the transfer to, and to the processing and storage of your information in, countries outside of your country of residence, which may have different data protection laws than those in the country in which you reside.
+
+**Modifications to this Policy**
+
+We will modify this Policy if our privacy practices change. We will notify you of such changes by posting the modified version on our Website and indicating the date it was last modified, and, if the changes are significant, we will provide a more prominent notice (including by email in certain instances). The date this Policy was last modified is at the top of this page. Please periodically review this Policy so that you are familiar with the current Policy and aware of any changes.
+
+**Branded Credit Card Privacy Policy**
+
+This Policy does not govern the collection or use of the information provided in connection with our branded credit cards. We notify our charge account holders of our privacy practices annually, or as otherwise required by law. If you have one of Signet's branded credit cards, a separate privacy policy provided to you describes collection, use, and protection of information about you and your account.
