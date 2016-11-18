@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betfair.com.au privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529035011id_/https%3A//www.betfair.com.au/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betfair.com.au privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118182038id_/https%3A//www.betfair.com.au/info/privacy-policy) for the most accurate reproduction.*
 
 # Betfair - Privacy Policy
 
@@ -42,7 +42,7 @@ whether we will disclose your personal information to overseas recipients, and i
   
 
 
-In using the Website you agree to be bound by the terms of this Privacy Policy. Betfair may review the Privacy Policy periodically and reserves the right to change the Privacy Policy at any time at its discretion. A new version of the Privacy Policy will be available on Betfair's Website ([betfair.com.au/info/privacy-policy](https://betfair.com.au/info/privacy-policy)) and it will apply to all of your personal information held by us at the time. By continuing to use the Website, you agree to these changes.
+In using the Website you agree to be bound by the terms of this Privacy Policy. Betfair may review the Privacy Policy periodically and reserves the right to change the Privacy Policy at any time at its discretion. A new version of the Privacy Policy will be available on Betfair's Website ([betfair.com.au/info/privacy-policy](https://www.betfair.com.au/info/privacy-policy)) and it will apply to all of your personal information held by us at the time. By continuing to use the Website, you agree to these changes.
 
 Betfair only collects personal information for purposes which are directly related to its functions or activities, and only when it is necessary for, or directly related to, such purposes.
 
@@ -152,7 +152,7 @@ allow you to participate in the products and services offered;
 
   3. •
 
-to administer your account;
+administer your account;
 
   
 
@@ -182,25 +182,25 @@ create aggregate data about customers through demographic profiling and statisti
 
   8. •
 
-to market and advertise Betfair's offers and promotions;
+market and advertise Betfair's offers and promotions;
 
   
 
   9. •
 
-to enable our related bodies corporate to market their products and services directly to you;
+enable our related bodies corporate to market their products and services directly to you;
 
   
 
   10. •
 
-to enable third party business partners and sponsors to market their products and services to you from time-to-time;
+enable third party business partners and sponsors to market their products and services to you from time-to-time;
 
   
 
   11. •
 
-to comply with Betfair's legal obligations including in relation to customer identity verification and reporting obligations imposed by the AML/CTF Act, its licensing obligations under the _Gaming Control Act 1993_ (Tas) and other applicable laws for taking appropriate action if Betfair has reason to suspect that unlawful activity or misconduct of a serious nature has been, is being, or may be engaged in, that relates to our functions and activities.
+comply with Betfair's legal obligations including in relation to customer identity verification and reporting obligations imposed by the AML/CTF Act, its licensing obligations under the _Racing and Betting Act (NT)_ and other applicable laws for taking appropriate action if Betfair has reason to suspect that unlawful activity or misconduct of a serious nature has been, is being, or may be engaged in, that relates to our functions and activities.
 
 
 
@@ -287,7 +287,7 @@ simply select to opt-out (i.e. unsubscribe) of receiving any further marketing m
 
   2. •
 
-contact our Privacy Manager at any time by email to [ausinfo@betfair.com](mailto:ausinfo@betfair.com) or phone on 1300 238 234 with your request with, which we will comply with as soon as practicable.
+contact our Privacy Manager at any time by email to [service@betfair.com.au](mailto:service@betfair.com.au) or phone on 1300 238 234 with your request with, which we will comply with as soon as practicable.
 
 
 
@@ -340,7 +340,7 @@ government agencies responsible for enforcing the AML/CTF ACT and Betfair's lice
 
   8. •
 
-Australian sports / racing controlling bodies by assisting in their enquiries or notifying such bodies of any betting activity that may be unusual or suspicious and in accordance with agreements between Betfair and the relevant body or approvals granted by the relevant body;
+Australian sports / racing controlling bodies by assisting in their enquiries or notifying such bodies of any betting activity that may be unusual or suspicious and in accordance with agreements between Betfair and the relevant body or approvals granted by the relevant body.
 
 
 
@@ -357,7 +357,7 @@ If a customer (or the beneficial owner, its agent or an authorised third party o
 
 If Betfair does not agree to make the requested changes to personal information, you may make a statement about the requested changes and Betfair will attach this to the record. 
 
-For further information about how to request access or changes to the personal information held by Betfair, contact [ausinfo@betfair.com](mailto:ausinfo@betfair.com) (further contact details are below).
+For further information about how to request access or changes to the personal information held by Betfair, contact [service@betfair.com.au](mailto:service@betfair.com.au) (further contact details are below).
 
 For the primary purpose of administrating your Betfair account and compliance with our obligations under the AML/CTF Act, Betfair will collect from, and disclose Personal Information to, Betfair Group PLC (located in the United Kingdom) and its related bodies corporate (located in Ireland, Malta, Romania and Gibraltar) when required for the stated purposes above.
 
@@ -397,13 +397,13 @@ Upon receiving a written complaint, Betfair will acknowledge receipt of the comp
 
 If your complaint is not resolved by the Privacy Manager, you can refer it to the Office of the Australian Information Commissioner ([www.oaic.gov.au](http://www.oaic.gov.au/)). 
 
-Further information in relation to this privacy policy, how to lodge a complaint, request the Privacy Policy in a different format or provide any comments, contact Betfair:
+Further information in relation to this Privacy Policy, how to lodge a complaint, request the Privacy Policy in a different format or provide any comments, contact Betfair:
 
 **Telephone** |   | 1300 238 324  
 ---|---|---  
 **Post** |   | Privacy Manager  
 Betfair Pty Limited  
-Level 9 South Tower  
+Level 13 South Tower  
 459 Collins Street  
 Melbourne VIC 3000  
-**Email** |   | [ausinfo@betfair.com](mailto:ausinfo@betfair.com)
+**Email** |   | [service@betfair.com.au](mailto:service@betfair.com.au)
