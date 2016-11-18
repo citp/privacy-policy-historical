@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nesn.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052824id_/http%3A//nesn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nesn.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234309id_/http%3A//nesn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NESN.com
 
@@ -22,7 +22,7 @@ Consistent with the provisions of the Children’s Online Privacy Protection Act
 
 **How We Use the Information that You Provide or We Collect**
 
-We may use the information you provide or that we collect about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you.
+We may use the information you provide or that we collect about you online to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you.
 
 We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our subscriber agreements, or to fulfill a request by you for an online newsletter.
 
@@ -32,15 +32,15 @@ The information we collect in connection with our online forums and communities 
 
 If you choose to submit content for publication (e.g., a “letter to our editors”, comments sent to certain personalities, a posting to a blog or a discussion board), we may publish your screen name and other non-personally identifiable information you have provided to us.
 
-By posting messages, uploading files, inputting data, or engaging in any other form of communication through this service, you are granting NESN a royalty-free, perpetual, non-exclusive, unrestricted, worldwide license to:
+By posting messages, uploading files, inputting data, or engaging in any other form of online communication with us, you are granting NESN a royalty-free, perpetual, non-exclusive, unrestricted, worldwide license to:
 
 Use, copy, sublicense, adapt, transmit, publicly perform or display any such communication.
 
 Sublicense to third parties the unrestricted right to exercise any of the foregoing rights granted with respect to the communication.
 
-The foregoing grants shall include the right to exploit any proprietary rights in such communication, including but not limited to rights under copyright, trademark, servicemark or patent laws under any relevant jurisdiction.
+The foregoing grants shall include the right to exploit any proprietary rights in such communication, including but not limited to rights under copyright, trademark, service mark or patent laws under any relevant jurisdiction.
 
-We sometimes use the non-personally identifiable information that we collect to improve the design and content of our web site, protect the security of our web site, and to enable us to personalize your Web experience. We also may use this information in the aggregate to analyze web site usage, as well as to offer you products, programs, or services.
+We sometimes use the non-personally identifiable information that we collect online to improve the design and content of our web site, protect the security of our web site, and to enable us to personalize your Web experience. We also may use this information in the aggregate to analyze web site usage, as well as to offer you products, programs, or services.
 
 We may disclose personally identifiable and non-personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency’s request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, to verify or enforce compliance with the policies governing our web site and applicable laws or as otherwise required or permitted by law or consistent with legal requirements. In addition, we may transfer personally identifiable information about you if we, or one of our business units, are acquired by, sold to, or merged with another company.
 
