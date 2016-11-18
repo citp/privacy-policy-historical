@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbpurity.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611091912id_/http%3A//www.fbpurity.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbpurity.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235038id_/http%3A//www.fbpurity.com/privacy.htm) for the most accurate reproduction.*
 
 # F.B. Purity - Privacy Policy - Fluff Busting Purity Cleans Your FB Homepage
 
@@ -24,7 +24,7 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 ### Special Note About Google Advertising
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google's cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
+Any advertisements served on this website by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google's cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
 
 ### Adware / Spyware / Phishing
 
@@ -36,6 +36,6 @@ If you sign up for The FB Purity News mailing list, your email address will only
 
 ### Contact Information
 
-Concerns or questions about this privacy policy can be directed to Steve via the [contact form](https://web.archive.org/web/20160611091912id_/http%3A//www.fbpurity.com/contact.htm) for further clarification.
+Concerns or questions about this privacy policy can be directed to Steve via the [contact form](https://web.archive.org/web/20161118235038id_/http%3A//www.fbpurity.com/contact.htm) for further clarification.
 
-**Terms and Conditions** : _Use FBP at your own risk, it comes with no warranty or guarantee, neither explicit or implicit towards functionality or usability. The author shall not be held liable for any damage or loss of data caused by use of this script. By downloading and installing Fluff Busting (F.B.) Purity, you agree to these terms._
+**Terms and Conditions** : _Use FBP at your own risk, it comes with no warranty or guarantee, neither explicit or implicit towards functionality or usability. The author shall not be held liable for any damage or loss of data caused by use of this program. By downloading and installing Fluff Busting (F.B.) Purity, you agree to these terms._
