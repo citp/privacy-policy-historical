@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordsmile.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208182019id_/http%3A//www.wordsmile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordsmile.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000147id_/http%3A//www.wordsmile.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy ⋆ Belajar Bahasa Inggris Online
 
@@ -22,11 +22,9 @@ Like many other Web sites, **www.wordsmile.com** makes use of log files. The inf
 
 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
+Our advertising partner, Google Adsense, may use cookies and web beacons on our site.
 
-Google Adsense
-
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on **www.wordsmile.com** send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+The third-party ad server or ad network uses technology to the advertisements and links that appear on **www.wordsmile.com** send directly to your browsers. It automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad network to measure the effectiveness of its advertisements and / or to personalize the advertising content that you see.
 
  **www.wordsmile.com** has no access to or control over these cookies that are used by third-party advertisers.
 
