@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ozar.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610083925id_/http%3A//www.ozar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozar.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235931id_/http%3A//www.ozar.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Ozar
+# Privacy Policy | Ozar
 
 Clutter Media LTD (“ **Ozar.com** “) operates Ozar.com and may operate other websites. It is Clutter Media LTD policy to respect your privacy regarding any information we may collect while operating our websites.
 
