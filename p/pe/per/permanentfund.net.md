@@ -1,29 +1,17 @@
-> *The following text is extracted and transformed from the permanentfund.net privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105021852id_/http%3A//www.permanentfund.net/Privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the permanentfund.net privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118222544id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Welcome to Permanent Fund - Here to stay permanently
+# Legal
 
-### Privacy Policy
+* * *
 
-Assurance that the private details that a client provides to a company while signing up with them will be kept classified is stated by privacy policy. We, at Permanent Fund, ensure you non-disclosure of the enlisted personal data to any third party: 
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-  * Client’s full name
-  * Client’s full address and ZIP code
-  * Client’s telephone number, mobile number and fax
-  * Information related to payments
-  * Information regarding the activities of the client in the service
-  * Information related to the Internet Provider of the client, browser or speed of internet connection.
-
-
-
-However, this personal information may be used by us for internal purposes alone. This is necessary to perform certain operation and in order to improve our quality of service that makes use of your private information. These operations and services include: administration of the website, sending invoices and statements to you, collection of payment, sending newsletters, business related information and notification, to solve your problems, complaints and enquiries and to enhance our clients’ browsing experience by customizing the website. It may also be stored, processed and transmitted to any country in which we function. If you have opened your account with us and have now changed your address, contact number or email id, or if any correction is to be made, please inform us about these changes so that we can keep our database updated.
-
-Our company assures you that none of these details will ever be revealed to anyone except under the following circumstances:
-
-  * If we have received a court order requesting the release of information in regard to any current or potential legal proceeding.
-  * To establish, execute and preserve our legal rights and authority.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
 
-We give you full authority to order us to provide you with the information we hold about you. However, you can make use of this provision only by verifying your identity by providing any legal document, such as Voter’s Card or Social Security Number. For us, ensuring optimum privacy for our customers is very important. We make every effort and take each technological and organizational measure to prevent loss, misuse or alteration of our client’s personal details. We have firewall and password protected servers to store these vital information. However, we take no responsibility for the privacy provided by third party websites who have their links on our website.
-
-If we ever make any amendment or changes in our privacy policy, a notification is sent to all the clients’ via email. Investors are also requested to let us know if they have any objection to any amendment or change we have made. We value your advice. So if you have any suggestions to make related to our privacy policy and the way we handle your private information, you can contact our team. 
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
