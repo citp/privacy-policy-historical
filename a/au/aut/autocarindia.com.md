@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autocarindia.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324174120id_/http%3A//www.autocarindia.com/Page/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autocarindia.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231615id_/http%3A//www.autocarindia.com/Page/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy Statement | Autocar India
+# Privacy Policy Statement - Autocar India
 
 Thank you for visiting this site, a HSAC site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by HSAC.
 
