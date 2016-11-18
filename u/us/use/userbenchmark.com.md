@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the userbenchmark.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402234851id_/http%3A//www.userbenchmark.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the userbenchmark.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234239id_/http%3A//www.userbenchmark.com/page/privacy) for the most accurate reproduction.*
 
 # UserBenchmark Privacy Policy - UserBenchmark
 
@@ -14,11 +14,11 @@ This privacy policy sets out how UserBenchmark uses and protects any information
 
 UserBenchmark is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website or should you choose to download and run our software, then you can be assured that it will only be used in accordance with this privacy statement.
 
-UserBenchmark may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 2014-09-21.
+UserBenchmark may change this policy by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 2014-09-21.
 
 ### What we collect
 
-We will collect the following personally identifyable information should you choose to create an account:
+We will collect the following personally identifiable information should you choose to create an account:
 
   * username
   * email address and website url
@@ -83,4 +83,4 @@ You may choose to restrict the collection or use of your personal information by
 
 We will not sell, distribute or lease your personal information to third parties unless we are required by law to do so.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please [email](mailto:support@userbenchmark.com) us as soon as possible. We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please [email](mailto:support@userbenchmark.com) us as soon as possible and we will promptly update our records.
