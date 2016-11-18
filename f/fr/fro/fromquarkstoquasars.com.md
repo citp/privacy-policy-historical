@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fromquarkstoquasars.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627133020id_/http%3A//futurism.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fromquarkstoquasars.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000322id_/http%3A//futurism.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
