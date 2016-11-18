@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the impressivemagazine.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511163727id_/http%3A//impressivemagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impressivemagazine.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119005016id_/http%3A//impressivemagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy-Impressive Magazine
 
