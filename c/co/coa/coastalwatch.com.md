@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the coastalwatch.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608060406id_/http%3A//www.coastalwatch.com/surfing/12300/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coastalwatch.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119005912id_/http%3A//www.coastalwatch.com/surfing/12300/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer | Coastalwatch.com
 
-25 Oct 2013 17,149 VIEWS
+25 Oct 2013 17,036 VIEWS
 
-Coastalwatch Pty Ltd have created this privacy statement in order to demonstrate our firm commitment to our information gathering and dissemination practices for this website Coastalwatch.com and our mobile applications.
+Coastalwatch is owned and operated by 3CMG Pty Ltd. 3CMG Pty Ltd have created this privacy statement in order to demonstrate our firm commitment to our information gathering and dissemination practices for this website Coastalwatch.com and our mobile applications.
 
-Coastalwatch Pty Ltd includes the following: Surfing World Magazine www.surfingworld.com.au, Transmoto Dirt Bike Magazine http://transmoto.com.au and crm.coastalwatch.com.  
+3CMG Pty Ltd includes the following: [Surfing World Magazine](http://www.surfingworld.com.au/), [Transmoto Dirt Bike Magazine](http://transmoto.com.au/), [Mountainwatch.com](http://www.mountainwatch.com/), [Transfer Snowboard Magazine](http://www.mountainwatch.com/Transfer), [Chillfactor Ski Magazine](http://www.mountainwatch.com/Chillfactor) and crm.coastalwatch.com.  
 
 
 We may use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is used to gather broad demographic information. We occasionally use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes.
 
 Our site's registration forms requires users to give us contact information (like their name and email address). We use customer contact information from the registration form to send the user promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
-This site contains links to other sites. Coastalwatch.com Pty Ltd is not responsible for the privacy practices or the content of such websites.
+This site contains links to other sites. 3CMG Pty Ltd is not responsible for the privacy practices or the content of such websites.
 
 Our site and apps use a membership forms for customers to request information, products, and services. We collect visitor's contact information (like their email address). Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
@@ -33,10 +33,10 @@ We use an outside ad company to display ads on our site. These ads may contain c
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  * ·You can send email to [Customerservice@coastalwatch.com](mailto:Customerservice@coastalwatch.com)  
+  * You can send email to [Customerservice@coastalwatch.com](mailto:Customerservice@coastalwatch.com)  
 
-  * ·You can call Customer Service within Australia on: 1800 20 75 02
-  * ·You can send mail to the following postal address: PO Box 603 , Avalon , NSW 2107.  ** **
+  * You can call Customer Service within Australia on: 1800 20 75 02
+  * You can send mail to the following postal address: PO Box 603 , Avalon , NSW 2107.  ** **
 
 
 
@@ -45,18 +45,17 @@ This site gives users the following options for removing their information from 
 
  ****This site gives users the following options for changing and modifying information previously provided.  
 
-  * ·You can send email to [Customerservice@coastalwatch.com](mailto:Customerservice@coastalwatch.com)  
+  * You can send email to [Customerservice@coastalwatch.com](mailto:Customerservice@coastalwatch.com)  
 
-  * ·You can call Customer Service within Australia on: 1800 20 75 02
-  * ·You can send mail to the following postal address: PO Box 603 , Avalon , NSW 2107. 
+  * You can call Customer Service within Australia on: 1800 20 75 02
+  * You can send mail to the following postal address: PO Box 603 , Avalon , NSW 2107. 
 
 
 
 Contacting the website If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
 
-Coastalwatch Pty Ltd  
-681Barrenjoey Rd
-
+3CMG Pty Ltd  
+681 Barrenjoey Rd  
 Avalon  
 NSW 2107  
 [Customerservice@coastalwatch.com](mailto:Customerservice@coastalwatch.com)  
