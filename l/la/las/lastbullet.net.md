@@ -1,22 +1,14 @@
-> *The following text is extracted and transformed from the lastbullet.net privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604064640id_/http%3A//pd2stats.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastbullet.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119001136id_/http%3A//pd2stats.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy
 
-This Privacy Policy governs the manner in which Last Bullet collects, uses, maintains and discloses information collected from users (each, a "User") of the [lastbullet.net](http://lastbullet.net/) and [pd2stats.com](http://pd2stats.com/) websites ("sites"). This privacy policy applies to the sites and all products and services offered by Last Bullet. 
+This Privacy Policy governs the manner in which Last Bullet collects, uses, maintains and discloses information collected from users (each, a "User") of the [lastbullet.net](http://lastbullet.net/), [pd2stash.com](http://pd2stash.com/) and [pd2stats.com](http://pd2stats.com/) websites ("sites"). This privacy policy applies to the sites and all products and services offered by Last Bullet. 
 
 Personal identification information
 
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our sites, register on the sites, and in connection with other activities, services, features or resources we make available on our sites. Users may be asked for, as appropriate, name, email address. Users may, however, visit our sites anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain sites related activities. 
-
-Steam-related information
-
-The collected information will not be shared with any other party. pd2stats.com and lastbullet.net does not store a history of information and will only keep the latest data in the cache. We reserve the right to gather collective and anonymous data for the use of improving our services. 
-
-Information related to Overkill and any of their products.
-
-The collected information will not be shared with any other party. pd2stats.com does not store a history of information and will only keep the latest data in the cache. We reserve the right to gather collective and anonymous data for the use of improving our services. 
 
 Non-personal identification information
 
@@ -67,10 +59,6 @@ Google Analytics
 
 pd2stats.com and lastbullet.net uses Google Analytics to track user behaviour on our websites. This data is anonymous and will only be used to further improve our webservices. 
 
-Disqus
-
-pd2stats.com uses Disqus to store user comments on our websites. On pages that use disqus their [privacy policy](https://help.disqus.com/customer/portal/articles/466259-privacy-policy) applies. 
-
 Third party websites
 
 Users may find advertising or other content on our sites that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our sites. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other websites, including websites which have a link to our sites, is subject to that websites's own terms and policies. 
@@ -85,6 +73,9 @@ By using this sites, you signify your acceptance of this policy and [terms of se
 
 Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this sites, or your dealings with this sites, please contact us at: [mail@lastbullet.net](mailto:mail@lastbullet.net?Subject=PrivacyPolicy)
+If you have any questions about this Privacy Policy, the practices of this sites, or your dealings with this sites, please contact us at: [administration@lastbullet.net](mailto:administration@lastbullet.net?Subject=TermsOfService)  
 
-This document was last updated on July 02, 2015
+
+Latest Changes
+
+This document was last updated on October 9th, 2016 
