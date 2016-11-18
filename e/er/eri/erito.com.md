@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the erito.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614135458id_/http%3A//www.erito.com/docs/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erito.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119004336id_/http%3A//www.erito.com/docs/pp) for the most accurate reproduction.*
 
-# Erito - Best Pornsite For Japanese – Korean – Asian XXX Videos
+# Privacy Policy - Erito.com ::
 
 PLEASE READ THIS PRIVACY POLICY STATEMENT CAREFULLY. BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE WITH THE POLICIES AND PRACTICES SET FORTH IN THE PRESENT PRIVACY POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY STATEMENT.
 
