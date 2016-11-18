@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snempire.com privacy policy that was archived on 2016-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160205174113id_/http%3A//snempire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snempire.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118214923id_/http%3A//snempire.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | snempire.com
 
