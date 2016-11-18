@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ibnlive.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414230554id_/http%3A//www.ibnlive.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibnlive.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233028id_/http%3A//www.news18.com/privacy_policy.php) for the most accurate reproduction.*
 
-# IBNLive-Privacy Policy
+# Privacy Policy | Privacy Policy of News18.com
 
 Web18 recognizes the importance of protecting the privacy of information and will keep the information you entrust to us safely and securely.
 
@@ -10,7 +10,7 @@ This policy tells you how Web18 collects information from you, how we protect it
 
 ## Information Collection and Use
 
-We respect each visitor's right to personal privacy. To that end, we collect and use information throughout our web site only as disclosed in this Privacy Policy. This statement applies solely to the information collected on ibnlive.com.
+We respect each visitor's right to personal privacy. To that end, we collect and use information throughout our web site only as disclosed in this Privacy Policy. This statement applies solely to the information collected on [News18.com](http://news18.com/)
 
 We will collect personally identifiable information from you in a variety of ways including directly from you when you register on the Sites, use other Web18 services, enter competitions or prize draws, navigate around our Sites or respond to communications from us. Web18 may also receive personally identifiable information from, third parties including our related companies, our business partners and publicly available sources of information.
 
@@ -47,7 +47,7 @@ Web18 will NOT disclose personally identifiable information about you to third p
 •We need to share the information with certain service partners in order to respond to your comments or to resolve service issues. (Unless we tell you differently, these partners have no independent right to use this information except to respond to your comments or to resolve the service issues.);   
 •We respond to requests from any Indian or foreign government, security, defence, revenue, regulatory or other authority, agency or officer;   
 •We respond to subpoenas, court orders or legal proceedings;   
-•When required by law that such action is necessary to protect and defend the rights of property [ibnlive.com](http://ibnlive.in.com/)  
+•When required by law that such action is necessary to protect and defend the rights of property [News18.com](http://news18.com/)  
 • When applicable law or regulation requires disclosure of information to protect the safety or security of users of our Sites;  
 • We find that your actions on our web sites violate the Web18 Terms of Service or any of our usage guidelines for specific products or services;  
 •If we sell the business of some of the Web18 group of companies to another organisation or merge with other businesses. In this case, the buyer will only be able to use your information as set out in this Privacy Policy;   
@@ -77,11 +77,11 @@ In line with any permission you give us, we may send you direct marketing about 
 
 ## Link from or to Other Sites
 
-As a means of providing useful resources to our users, [http://ibnlive.in.com](http://ibnlive.in.com/) provides links to other web sites. We try to carefully choose web sites that we believe are useful and meet our high standards. However, because web sites can change so quickly, we do not guarantee the standards of any website links we provide nor do we imply endorsement. [ibnlive.com](http://ibnlive.in.com/) is not responsible for the data and privacy policies, content or security of other websites that are linked to our site. . You should be aware that when you are on our Sites you could be directed to other sites where the personal information collected is outside of our control. The privacy policy of the new site will govern the information obtained from you on that site.
+As a means of providing useful resources to our users, [News18.com](http://news18.com/) provides links to other web sites. We try to carefully choose web sites that we believe are useful and meet our high standards. However, because web sites can change so quickly, we do not guarantee the standards of any website links we provide nor do we imply endorsement. [News18.com](http://news18.com/) is not responsible for the data and privacy policies, content or security of other websites that are linked to our site. . You should be aware that when you are on our Sites you could be directed to other sites where the personal information collected is outside of our control. The privacy policy of the new site will govern the information obtained from you on that site.
 
 ## Access to your account information
 
-You can access and change the information that you provided during registration. Simply click on this [http://ibnlive.in.com](http://ibnlive.in.com/) and then log in with your member name and password wherever necessary. There are instructions on the start page to help you recover your password if you've forgotten it. You can also contact us via e-mail by clicking "Contact Us" bar of [ibnlive.com](http://ibnlive.in.com/) page, or send an email directly to [editor@ibnlive.com.](mailto:editor@ibnlive.com) Please include information in the e-mail that will help us identify your account so we can assist you with your inquiry or request. 
+You can access and change the information that you provided during registration. Simply click on this [News18.com](http://news18.com/) and then log in with your member name and password wherever necessary. There are instructions on the start page to help you recover your password if you've forgotten it. You can also contact us via e-mail by clicking "Contact Us" bar of [News18.com](http://news18.com/) page, or send an email directly to [editor@news18.com.](mailto:editor@news18.com) Please include information in the e-mail that will help us identify your account so we can assist you with your inquiry or request. 
 
 ## Cookies
 
@@ -103,4 +103,4 @@ Your right to access this website is conditional upon your full acceptance of th
 
 ## Contact Us
 
-If you need further assistance or have queries about our use of personal information, please send us an email with your questions or comments to [editor@ibnlive](mailto:editor@ibnlive.com)
+If you need further assistance or have queries about our use of personal information, please send us an email with your questions or comments to [editor@news18](mailto:editor@news18.com)
