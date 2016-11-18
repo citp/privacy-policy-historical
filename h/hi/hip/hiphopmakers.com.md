@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hiphopmakers.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402005130id_/http%3A//hiphopmakers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiphopmakers.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231450id_/http%3A//hiphopmakers.com/privacy-policy) for the most accurate reproduction.*
 
-# Hip Hop Makers Privacy Policy
+# Privacy Policy
 
 Privacy Policy for [Hip Hop Makers](http://hiphopmakers.com/ "Music Production Blog")
 
