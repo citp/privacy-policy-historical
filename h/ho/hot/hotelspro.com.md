@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hotelspro.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613182854id_/http%3A//hotelspro.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelspro.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119003417id_/http%3A//www.hotelspro.com/new.privacypolicy.php) for the most accurate reproduction.*
 
-# Global Travel Wholesaler | HotelsPro - Exclusive Online Hotel Booking System for Travel Industry
-
-### Privacy Policy
+# Global Travel Wholesaler | HotelsPro
 
 Thank you for visiting Hotelspro.com website. Your privacy is very important to us, and we provide this privacy policy statement to explain our online information practices and the choices you can make about the way your personal information is collected and used.
 
