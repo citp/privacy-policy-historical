@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the questionablecontent.net privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625160104id_/http%3A//www.questionablecontent.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the questionablecontent.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119002844id_/http%3A//www.questionablecontent.net/privacy.php) for the most accurate reproduction.*
 
 # QC: New Comics Every Monday Through Friday
 
