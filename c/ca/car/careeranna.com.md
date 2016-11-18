@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the careeranna.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625083957id_/http%3A//www.careeranna.com/chome/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careeranna.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235225id_/http%3A//www.careeranna.com/chome/privacypolicy) for the most accurate reproduction.*
 
-# Online Exam Preparation, Free Tests, Online Courses and Mentorship
+# Chome | Online Exam Preparation, Free Tests, Online Courses and Mentorship
 
 Career Anna is concerned about the privacy of its users (hereinafter referred to as “You” “Your” “Yourself”) accessing its website located at www.careeranna.com (“Website”) and has provided this Privacy Policy (“Policy”) to familiarise You with the manner in which Career Anna collects, uses and discloses your information collected through the Website.
 
