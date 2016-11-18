@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fliphtml5.com privacy policy that was archived on 2016-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160611092932id_/http%3A//fliphtml5.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fliphtml5.com privacy policy that was archived on 2016-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161118230800id_/http%3A//fliphtml5.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -39,7 +39,7 @@
         settingsBookLogo: "",
         settingsWebsite: "",
         protocol: document.domain.match(/fliphtml5/) ? "https://" : "http://",
-        templateId : 3,
+        templateId : 4,
         themeId: 0,
         header: "http://stat.fliphtml5.com",
         hashKey: "fliphtml5",
@@ -48,8 +48,11 @@
         config_outputCount: "30",
         customDomain: "",
         sessionDefaultCId: "",
+        sessionDefaultCTitle: "",
         session_currency: "",
-        session_paypal: ""
+        session_paypal: "",
+        primaryAccountId:"",
+        accountlogoUrl: "http://online.fliphtml5.com//"
 
     };
 </script>
@@ -73,7 +76,124 @@
 </script>
 
 
+<div class="cc-top-banner ">
+    <a target="_blank" href="/server-maintenance-notification.php"> 
+        <p><span class="cc-top-banner-title">Important Announcement</span><br>FlipHTML5 Scheduled Server Maintenance on (GMT) Sunday, June 26th, <span>2:00 am - 8:00 am</span>.<br> FlipHTML5 site will be inoperative during the times indicated!</p>
+    </a>
+
+    <div class="cc-top-banner-close-btn" title="Close">
+        
+    </div>
+</div>
+
+<script type="text/javascript">
+    (function ($) {
+        $(function () {
+            
+            // tmp banner
+            var localStorageKey = "fliphtml5_notShowTopBanner3";
+
+            if (localStorage && localStorage.getItem(localStorageKey) == "1") {
+                isShowTopBanner = "0";
+            } else {
+                // isShowTopBanner = "1";
+                isShowTopBanner = "0";
+            }
+
+            var isInShowBookPage = "0";
+
+            // 2016.6.26 10am auto close banner
+            if (new Date() > utils.parseDate("2016-06-26 10:00:00") ) {
+                isShowTopBanner = "0";
+            }
+
+            if (isShowTopBanner == "1" && isInShowBookPage == "0") {
+                var $body = $("body");
+                var $topBanner = $(".cc-top-banner");
+                var $topBar = $(".cc-top-bar");
+                var $topLang = $(".cc-top-lang");
+                var $topLang = $(".cc-top-lang");
+                var $topCloseBtn = $(".cc-top-banner-close-btn");
+
+                $topBanner.slideDown(800);
+
+                $body.animate({
+                    paddingTop: "140"
+                }, 800);
+
+                $topBar.css({
+                    position: "absolute"
+                }).animate({
+                    top: "140px"
+                }, 800);
+
+                $topLang.animate({
+                    top: "200"
+                }, 800);
+
+                $(window).on("scroll.topBanner", function(e) {
+
+                    var scrollTop = $(document).scrollTop();
+                    if (scrollTop >= 140) {
+
+                        if (isInShowBookPage == "1") {
+                            $topBar.css({
+                                position: "absolute",
+                                top: 0
+                            });
+                        } else {
+                            $topBar.css({
+                                position: "fixed",
+                                top: 0
+                            });
+                        }
+                    } else {
+                        $topBar.css({
+                            position: "absolute",
+                            top: 140
+                        });
+                    }
+                });
+
+                $topCloseBtn.on("click", function() {
+                    $topBanner.slideUp(0);
+
+                    $body.css({
+                        paddingTop: "0"
+                    });
+
+                    if (isInShowBookPage == "1") {
+                        $topBar.css({
+                            position: "absolute",
+                            top: 0
+                        });
+                    } else {
+                        $topBar.css({
+                            position: "fixed",
+                            top: 0
+                        });
+                    }
+
+                    $topLang.css({
+                        top: "60"
+                    });
+
+                    $(window).off("scroll.topBanner");
+
+                    if (localStorage) {
+                        localStorage.setItem(localStorageKey, "1");
+                    }
+                });
+            }
+        });
+    })(window.jQuery);
+
+</script>
+
 <div class="cc-top-bar en">
+
+
+
     <div class="cc-container cc-float-fix ">
 
         <!-- <div class="cc-top-bar-container cc-float-fix"> -->
@@ -100,12 +220,16 @@
             <li class="hidden-xs">
             
                 <a href="/quick-upload/">
-                    <div class="cc-quick-upload-btn cc-fast-upload-button button-pure button-pure-orange">
-                        <i class="icon icon-cloud-upload"></i> Quick Upload                    </div>
+                    <div class="cc-quick-upload-btn cc-fast-upload-button">
+                        Quick Upload                    </div>
                 </a>
             </li>
 
-            <li class="cc-top-bar-explore cc-top-item cc-has-sub-menu hidden-sm hidden-xs">
+            <li class="cc-top-item hidden-md hidden-sm hidden-xs">
+                <a class="cc-parent-link" href="/explore">Explore </a>
+            </li>
+
+           <!--  <li class="cc-top-bar-explore cc-top-item cc-has-sub-menu hidden-sm hidden-xs">
                 <a class="cc-parent-link" href="javascript:void(0);">
                     Explore <i class="cc-top-arrow-down fa fa-caret-down"></i>
                 </a>
@@ -130,7 +254,7 @@
                         </a>
                     </li>
                 </ul>
-            </li>
+            </li> -->
 
             <li class="cc-before-log-in-menu cc-top-item hidden-md hidden-sm hidden-xs">
                 <a class="cc-parent-link" href="/features">Features </a>
@@ -201,7 +325,7 @@
                 <li id="cc-top-logout-hide-upload" class="cc-hide-top-bar-item hidden-lg hidden-md hidden-sm">
                     <a class="cc-quick-upload-btn cc-container first-item" href="/quick-upload/">Quick Upload</a>
                 </li>
-                <li class="dropdown hidden-lg hidden-md">
+                <!-- <li class="dropdown hidden-lg hidden-md">
                     <div class="cc-hide-top-bar-item dropdown-toggle" data-toggle="dropdown">
                         <a href="javascript:void(0)" class="cc-container first-item">Explore<b class="fa fa-caret-down"></b></a>
                     </div>
@@ -222,6 +346,11 @@
                             </a>
                         </li> 
                     </ul>
+                </li> -->
+                <li class="cc-hide-top-bar-item hidden-lg">
+                    <a href="/explore">
+                        <div class="cc-container first-item">Explore</div>
+                    </a>
                 </li>
                 <li class="cc-hide-top-bar-item hidden-lg">
                     <a href="/features">
@@ -342,17 +471,15 @@
             var $topQrcode = $(".cc-top-bar-qrcode");
 
             $topQrcode.qrcode({
-                text: "http://fliphtml5.com",
+                text: "https://itunes.apple.com/app/id1071744833",
                 width: 36, 
                 height: 36
             });
 
             $topQrcode.on("click", function() {
-                new QrcodePanel("http://fliphtml5.com", "FlipHTML5 for Mobile", "visit fliphtml5.com on mobile devices.");
+                // new QrcodePanel("http://fliphtml5.com", "FlipHTML5 for Mobile", "visit fliphtml5.com on mobile devices.");
+                new IosAppPanel();
             });
-
-
-            
 
         });
     })(window.jQuery);
@@ -426,7 +553,7 @@
                             <a href="/blog.php">Blog</a>
                         </li>
                         <li>
-                            <a href="/partnership/">Partnership</a>
+                            <a href="/explore?#latest">Explore Lastest</a>
                         </li>
                         <li>
                             <a href="http://focusky.com/" target="_blank">Presentation Software</a>
@@ -451,16 +578,15 @@
                         <li>
                             <a href="/gift-card-exchange.php">Gift Card Exchange</a>
                         </li>
+                        <li>
+                            <a href="/learning-center/">Learning Center</a>
+                        </li>
                     </ul>
                 </div>
             </div>
 
             <div class="ff-bottom-follow-container cc-float-fix">
                 <div class="ff-bottom-col">
-                    <p>Contact Us</p>
-                    <div class="contact-email">
-                        <a href="mailto:support@fliphtml5.com ">support@fliphtml5.com </a>
-                    </div>
                     <div class="contact-social">
                         <p>Follow Us</p>
                         <div class="social-networks cc-float-fix">
@@ -475,6 +601,17 @@
                             </a>
                         </div>
                     </div>
+
+                    <p class="ff-bottom-coop">Cooperation</p>
+                    <ul>
+                        <li>
+                            <a href="/partnership/">Partnership</a>
+                        </li>
+                        <li>
+                            <a href="/community/">Community</a>
+                        </li>
+                    </ul>
+
                 </div>
                 
                 <div class="ff-bottom-col" style="margin-right: 0px; width: 200px;">
