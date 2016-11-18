@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racedepartment.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604151528id_/http%3A//www.racedepartment.com/forum/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racedepartment.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231104id_/http%3A//www.racedepartment.com/forum/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RaceDepartment
 
@@ -46,10 +46,10 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 **Terms of Service**  
-Please also visit our [Terms of Service](https://web.archive.org/web/20160604151528id_/http://www.racedepartment.com/pages/privacy-policy/pages/terms-of-service/) section establishing the use, disclaimers, and limitations of liability governing the use of our website at
+Please also visit our [Terms of Service](https://web.archive.org/web/20161118231104id_/http://www.racedepartment.com/pages/privacy-policy/pages/terms-of-service/) section establishing the use, disclaimers, and limitations of liability governing the use of our website at
 
 **Your Consent**  
-By using our site, you consent to our [websites privacy policy](https://web.archive.org/web/20160604151528id_/http://www.racedepartment.com/pages/privacy-policy/pages/privacy-policy/).
+By using our site, you consent to our [websites privacy policy](https://web.archive.org/web/20161118231104id_/http://www.racedepartment.com/pages/privacy-policy/pages/privacy-policy/).
 
 **Changes to our Privacy Policy**  
 If we decide to change our privacy policy, we will post those changes on this page.
@@ -68,7 +68,11 @@ Contact us for questions: info[at]racedepartment.com
 Published:
     May 29, 2014
 Page Views:
-    16,706
+    34,362
+
+  * [   ](https://web.archive.org/web/20161118231104id_/http://www.racedepartment.com/pages/privacy-policy/media/videos/formula-3-at-johannesburg.21491/?_source=widget&widget_id=497 "Formula 3 at Johannesburg")
+
+
 
   * [__](https://twitter.com/racedepartment "Twitter")
   * [__](https://www.facebook.com/racedepartment "Facebook")
