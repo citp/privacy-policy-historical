@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bing.vc privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604074200id_/http%3A//bing.vc/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bing.vc privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233656id_/http%3A//bing.vc/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
