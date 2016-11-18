@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cockyboys.com privacy policy that was archived on 2016-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160603051754id_/http%3A//cockyboys.com/pages.php%3Fid%3Dprivacy-notice) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cockyboys.com privacy policy that was archived on 2016-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161118234833id_/http%3A//cockyboys.com/pages.php%3Fid%3Dprivacy-notice) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
     <meta charset="utf-8">
@@ -9,7 +9,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="RATING" content="RTA-5042-1996-1400-1577-RTA">
     
-    <link rel="alternate" type="application/rss+xml" title="RSS 0.91" href="http://cockyboys.com/?rss">
+    <link rel="alternate" type="application/rss+xml" title="RSS 0.91" href="//?rss">
 
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory: mathiasbynens.be/notes/touch-icons -->
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
@@ -355,6 +355,164 @@ $().ready(function()
   </div></div></div>
 
 <!-- commenting guidelines -->
+
+
+	<style>
+		#sale {
+			position: fixed;
+			left: 0;
+			top: 0;
+			width: 100%;
+			height: 100%;
+			background: rgba(0,0,0,0.7);
+			z-index: 998;
+			display: none;
+		}
+		#sale #container {
+			width: 800px;
+			height: 350px;
+			position: absolute;
+			bottom: -500px;
+			left: 50%;
+			margin-bottom: -175px;
+			margin-left: -400px;
+			-o-border-radius: 10px;
+			-moz-border-radius: 10px;
+			-webkit-border-radius: 10px;
+			border-radius: 10px;
+			overflow: hidden;
+		}
+		#sale #container .closeMe {
+			position: absolute;
+			top: -2px;
+			right: 9px;
+			font-size: 45px;
+		}
+		#sale #container .closeMe:hover {
+			color: #ff4546;
+		}
+		#sale #container .button {
+			position: absolute;
+			bottom: 97px;
+			right: 150px;
+			font-size: 40px;
+			text-transform: uppercase;
+			background: #ff4546;
+			-o-border-radius: 10px;
+			-moz-border-radius: 10px;
+			-webkit-border-radius: 10px;
+			border-radius: 10px;
+			color: #fff;
+			padding: 10px 40px;
+		}
+		#sale #container .button:hover {
+			background: #003760;
+		}
+		#sale #container #count {
+			position: absolute;
+			bottom: 15px;
+			width: 230px;
+			right: 173px;
+		}
+		.saleTab {
+			z-index: 999;
+			width: 630px;
+			background: #fff;
+			text-align: center;
+			position: fixed;
+			left: 50%;
+			bottom: -500px;
+			margin-left: -315px;
+			padding: 10px 0 5px;
+			-o-border-radius: 10px 10px 0 0;
+			-moz-border-radius: 10px 10px 0 0;
+			-webkit-border-radius: 10px 10px 0 0;
+			border-radius: 10px 10px 0 0;
+			-o-box-shadow: 0px -5px 9px rgba(0,0,0,0.4);
+			-webkit-box-shadow: 0px -5px 9px rgba(0,0,0,0.4);
+			-moz-box-shadow: 0px -5px 9px rgba(0,0,0,0.4);
+			box-shadow: 0px -5px 9px rgba(0,0,0,0.4);
+		}
+		.saleTab img {
+			width: 475px;
+		}
+		.saleTab i {
+			color: #003760;
+			font-size: 50px;
+			margin: 0 10px;
+			position: relative;
+			top: -4px;
+		}
+			</style>
+	
+    <div id="sale">
+    	<div id="container">
+        	<a href="javascript:;" class="closeMe"><i class="fa fa-times" aria-hidden="true"></i></a>
+            <a href="/join.php">
+        		<img src="/images_v4/banners/50saleOct.jpg">
+            </a>
+            <a class="button grow" href="/join.php">Save Now <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+            <img id="count" src="http://cockyboys.com/images_v4/countdown/gif.php?time=2016-10-19+05:00:01">
+        </div>
+    </div>
+    
+    <a class="saleTab" href="javascript:;">
+    	<img src="/images_v4/banners/50saleOctTab.png">
+        <i class="fa fa-angle-double-up" aria-hidden="true"></i>
+    </a>
+    
+    <script>
+					$('#sale').delay(4000).fadeIn(300);
+			$('#sale #container').delay(4000).animate({
+				'bottom': '50%'
+			});
+				
+	
+		$('#sale #container .closeMe').click(function() {
+			$('#sale #container').animate({
+				'bottom': -500
+			}, 300, function() {
+				$('#sale').fadeOut(300);
+				$('.saleTab').animate({
+					'bottom': 0
+				}, 400);
+			});
+			$.cookie('saleTab', 'hide', {
+				'expires': 1,
+				'path': '/'
+			});
+		});
+		
+		$('.saleTab').click(function() {
+			$('.saleTab').animate({
+				'bottom': -500
+			}, 400, function() {
+				$('#sale').fadeIn(300);
+				$('#sale #container').animate({
+					'bottom': '50%'
+				});
+			});
+			$.cookie('saleTab', 'show', {
+				'expires': 1,
+				'path': '/'
+			});
+		});
+		
+		$('.saleTab').hover(function() {
+			$('.saleTab i').css('color','#ff4546');
+			$('.saleTab').animate({
+				'paddingBottom': 30
+			}, 100);
+		}, function() {
+			$('.saleTab i').css('color','#003760');
+			$('.saleTab').animate({
+				'paddingBottom': 5
+			}, 100);
+		});
+		
+	</script>
+    
+
 <div id="commentGuide" style="display: none;">
 	<div>
     	<a class="close" href="javascript:;"><i class="fa fa-times"></i></a>
