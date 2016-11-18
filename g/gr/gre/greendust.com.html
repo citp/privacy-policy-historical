@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the greendust.com privacy policy that was archived on 2016-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160531140230id_/http%3A//www.greendust.com/privacy-policy-pg-12.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the greendust.com privacy policy that was archived on 2016-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161118232128id_/http%3A//www.greendust.com/privacy-policy-pg-12.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Privacy Policy</title>
 <meta name="description" content="Privacy Policy">
@@ -798,6 +798,7 @@ Download Our Exclusive<br>
 function statusChangeCallback(response) {
     console.log('statusChangeCallback');
     console.log(response);
+	//alert(response.toSource());
     // The response object is returned with a status field that lets the
     // app know the current login status of the person.
     // Full docs on the response object can be found in the documentation
@@ -837,9 +838,12 @@ function statusChangeCallback(response) {
   // successful.  See statusChangeCallback() for when this call is made.
   function testAPI() {
    // console.log('Welcome!  Fetching your information.... ');
-    FB.api('/me', function(response) {
-	//	alert(response);
+    FB.api('/me?fields=email,name', function(response) {
+		//alert(response);
     console.log('Successful login for: ' + response);
+	//alert(response);
+	//alert(response.toSource());
+	
       document.getElementById('email_fb').value=response.email;
 	   document.getElementById('cust_name_fb').value=response.name;
 	  document.fb_redirect.submit();
@@ -909,11 +913,12 @@ function loginCallback(result)
 }
   window.fbAsyncInit = function() {
   FB.init({
-    appId      : '343688789114306',
+    //appId      : '343688789114306',
+	appId      : '1146928475363391',
     cookie     : true,  // enable cookies to allow the server to access 
                         // the session
     xfbml      : true,  // parse social plugins on this page
-    version    : 'v2.1' // use version 2.1
+    version    : 'v2.7' // use version 2.1
   });
 
   // Now that we've initialized the JavaScript SDK, we call 
@@ -936,12 +941,20 @@ function loginCallback(result)
 	FB.login(function(response) {
 		   if (response.authResponse) 
 		   {
+		   //	alert(response.toSource());
+		   // alert(response.authResponse);
+		   		
 		    	statusChangeCallback(response);
   			} else 
   			{
   	    	 console.log('User cancelled login or did not fully authorize.');
    			}
-		 },{scope: 'email,user_photos,user_videos'});
+		 }, {
+    scope: 'publish_actions', 
+    return_scopes: true
+});
+		 //},{scope: 'email,user_photos,user_videos'});
+		 //}, {scope: 'email,user_likes'});
   }
 </script>
 <script type="text/javascript">
@@ -1137,7 +1150,7 @@ Although we will endeavor to safeguard the confidentiality of your personally id
       <div class="foot_1 footer_col">
         <h5>Company</h5>
         <ul>
-          <li><a href="http://www.greendust.com/about-greendust-pg-6.html" title="About Us">About Us</a></li>
+          <li><a href="http://reverselogistics.in" title="About Us" target="_blank">About Us</a></li>
           <li><a href="http://blog.greendust.com/" target="_blank" title="Blog">Blog</a></li>
           <li><a href="http://reverselogistics.in/news.asp" target="_blank" title="Press">Press</a></li>
 		  <li><a href="http://reverselogistics.in/careers.asp" target="_blank" title="Careers">Careers</a></li>
