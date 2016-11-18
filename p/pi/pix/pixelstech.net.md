@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixelstech.net privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412155425id_/http%3A//www.pixelstech.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixelstech.net privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231906id_/http%3A//www.pixelstech.net/document/privacy.php) for the most accurate reproduction.*
 
 # Privacy and policy
 
@@ -45,11 +45,10 @@ Pixelstech has the discretion to update this privacy policy at any time. When we
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.pixelstech.net/termofservice.php). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://web.archive.org/document/termofservice.php). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [Pixelstech](http://www.pixelstech.net/)  
-[http://www.pixelstech.net](http://www.pixelstech.net/)  
-info@pixelstech.net
+Email : info [at] pixelstech.net
