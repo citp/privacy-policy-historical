@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the michaelkors.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324124140id_/http%3A//www.michaelkors.com/browse/common/staticContent.jsp%3FslotId%3D2200002) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelkors.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118223522id_/http%3A//www.michaelkors.com/browse/common/staticContent.jsp%3FslotId%3D2200002) for the most accurate reproduction.*
 
 # Privacy Policy | Michael Kors
 
 ## Privacy Policy/Your Privacy Rights 
 
-Last updated: February 29, 2016 
+Last updated: October 24, 2016 
 
 This Privacy Policy applies to information that each of Michael Kors (USA), Inc. and its parent, subsidiary and affiliate entities worldwide (individually referred to herein as the “Michael Kors”, “we,” “us” or “our”) collects about you: (i) in one of our stores or otherwise offline, (ii) through purchases you make from our catalog, or (iii) on or through michaelkors.com or destinationkors.com or michaelkors.ca (or any subdomain thereof), or one of our other websites, applications or other services from which you are accessing this Privacy Policy (each referred to herein as a “Site,” and collectively, the “Sites”). This Privacy Policy describes how we collect such information, how we use it and to whom and under what circumstances we may disclose it. The personal information we collect is stored and/or controlled by Michael Kors (USA), Inc. at 11 West 42nd St., New York, New York, 10036, USA and/or the relevant local corporate affiliate(s). 
 
@@ -38,7 +38,7 @@ Table of Contents (click on one of the links below to jump ahead to that section
 
 ##### Information You Provide to Us
 
-We (or our service providers) collect information from you when you: (1) purchase products from us, whether on a Site, through a catalog or in one of our stores; (2) create an account with us, or otherwise sign up for a service or feature; (3) complete a survey; (4) participate in a sweepstakes, contest or other promotion; (5) communicate with us via third-party social media sites; (6) apply for a job with us; or (7) contact us, or otherwise communicate with us or provide information to us. The “personal information” we collect may include, for example, your name, postal address, zip or postal code, email address, telephone number, date of birth, payment information, demographic information, details on items purchased, and other information you choose to provide to us. 
+We (or our service providers) collect information from you when you: (1) purchase products from us, whether on a Site, through a catalog or in one of our stores; (2) create an account with us, or otherwise sign up for a service or feature; (3) complete a survey, or submit a product rating or review; (4) participate in a sweepstakes, contest or other promotion; (5) communicate with us via third-party social media sites; (6) apply for a job with us; or (7) contact us, or otherwise communicate with us or provide information to us. The “personal information” we collect may include, for example, your name, postal address, zip or postal code, email address, telephone number, date of birth, payment information, demographic information, details on items purchased, and other information you choose to provide to us. 
 
 In some cases, you may provide information to us about another person, such as when you purchase a gift card for someone and request that we deliver it to that person, when you share Site content or send a message to a friend through a Site or otherwise, or when you decide to ship products you purchase to someone else. In such cases, you represent that you have the authorization of such person to provide us with such information. 
 
@@ -72,9 +72,11 @@ Advertising on the Site and other Websites section below.
 > 
 > _Web Beacons and Tags._ We also use web beacons (also known as “clear GIFs” or “pixel tags”), which are typically one-pixel images that are embedded on a page of a Site or in our communications, such as an email message. These technologies help us to verify when a certain page of a Site is viewed, when a message is opened and when links or other content in a message are clicked or viewed. We use the information collected through web beacons, tags and other similar technologies for similar purposes as the information collected through cookies, as described above.
 > 
-> _Flash Cookies/Local Stored Objects._ We may use Flash cookies and other similar technologies (referred to herein as Local Stored Objects or "LSOs"), which allow a website to store certain information locally on an individual's computer or device and then access and use that information to enhance and facilitate certain Site experiences, processes and functionality. Flash cookies and other LSOs are different from typical browser cookies (as described above), and therefore the cookie management tools provided by your web browser may not enable you to remove Flash cookies or other LSOs. To learn more about managing these technologies, visit <http://www.allaboutcookies.org/manage-cookies/>. 
+> _Flash Cookies/Local Shared Objects._ We may use Flash cookies and other similar technologies (referred to herein as Local Shared Objects or "LSOs"), which allow a website to store certain information locally on an individual's computer or device and then access and use that information to enhance and facilitate certain Site experiences, processes and functionality. Flash cookies and other LSOs are different from typical browser cookies (as described above), and therefore the cookie management tools provided by your web browser may not enable you to remove Flash cookies or other LSOs. To learn more about managing these technologies, visit <http://www.allaboutcookies.org/manage-cookies/>. 
 
 We may use third party web analytics services, such as Google Analytics and Adobe services, to help us track and analyze the use of our Site and to measure the effectiveness of our advertising, Site content and communications. These service providers’ tools, including, for example, cookies, tags and web beacons, help us to gain this understanding. To opt out of this use by Adobe, please [click here](http://www.adobe.com/privacy/opt-out.html), and to opt out of this use by Google Analytics, click [here](http://tools.google.com/dlpage/gaoptout). 
+
+Additionally, Michael Kors participates in the Adobe Marketing Cloud Device Co-op to better understand how you use our Sites and apps across the various devices you use, and to deliver tailored promotions. [Learn more about how Adobe does this and available privacy controls.](https://cross-device-privacy.adobe.com/)
 
 #### Advertising on the Site and other Websites 
 
@@ -82,12 +84,12 @@ We also work with service providers and partner with advertising companies that 
 
 #### Information Use
 
-We may use the information we collect from and about you (including both personal information and Site usage information) for a variety of purposes, including the following: 
+We (and our service providers, on our behalf) may use the information we collect from and about you (including both personal information and Site usage information) for a variety of purposes, including the following: 
 
   * to fulfill your requests for products and services and to keep you informed about your orders;
   * to provide you with targeted offers and advertising on and at the Sites; 
   * subject to your communications preferences and, where required by applicable law, subject to your consent, to contact you (via postal mail, email and the like) with promotional materials about us, our products, our services and our events, as well as about select partners; 
-  * to contact you when necessary or appropriate; 
+  * to contact you when necessary or appropriate (including, for example, via email in regards to your rating or review submissions); 
   * where appropriate, for market research and to review and improve our merchandise selections, customer service, online and offline operations and overall shopping experience; 
   * to protect the security or integrity of the Sites and our business; and 
   * otherwise, with your permission or as permitted by law. 
@@ -107,7 +109,7 @@ We may disclose information we collect (including Site usage information and per
   * to respond to subpoenas or other judicial processes, or to provide information as requested by law enforcement agencies, other government authorities, or otherwise as required by law; 
   * in the event that Michael Kors or substantially all of its assets are acquired by one or more third parties as a result of an acquisition, merger, sale, consolidation, bankruptcy, liquidation or other similar corporate reorganization, where your information may be one of the transferred assets; 
   * to third-party marketers, as permitted by law, unless you direct us not to (please see the Your Choices/Your Privacy Rights section below); 
-  * when you contribute to a social, community or other publicly available area or feature of the Site, the information and content that you post may be made available to the general public, depending on your settings (which is why we recommend that you do not submit or post any sensitive personal information, such as your full name, home address, phone number or other information that would enable others to contact or locate you);
+  * when you contribute to a social, community or other publicly available area or feature of the Site (e.g., if you submit a product rating or review), the information and content that you post may be made available to the general public, depending on your settings (which is why we recommend that you do not submit or post any sensitive personal information, such as your full name, home address, phone number or other information that would enable others to contact or locate you);
   * otherwise, with your permission; and
   * as otherwise, with your permission or as permitted by law. 
 
