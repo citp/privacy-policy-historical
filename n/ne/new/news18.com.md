@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the news18.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624024352id_/http%3A//www.news18.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news18.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233028id_/http%3A//www.news18.com/privacy_policy.php) for the most accurate reproduction.*
 
-# None
+# Privacy Policy | Privacy Policy of News18.com
 
 Web18 recognizes the importance of protecting the privacy of information and will keep the information you entrust to us safely and securely.
 
@@ -81,7 +81,7 @@ As a means of providing useful resources to our users, [News18.com](http://news1
 
 ## Access to your account information
 
-You can access and change the information that you provided during registration. Simply click on this [News18.com](http://news18.com/) and then log in with your member name and password wherever necessary. There are instructions on the start page to help you recover your password if you've forgotten it. You can also contact us via e-mail by clicking "Contact Us" bar of [News18.com](http://news18.com/) page, or send an email directly to [editor@ibnlive.com.](mailto:editor@ibnlive.com) Please include information in the e-mail that will help us identify your account so we can assist you with your inquiry or request. 
+You can access and change the information that you provided during registration. Simply click on this [News18.com](http://news18.com/) and then log in with your member name and password wherever necessary. There are instructions on the start page to help you recover your password if you've forgotten it. You can also contact us via e-mail by clicking "Contact Us" bar of [News18.com](http://news18.com/) page, or send an email directly to [editor@news18.com.](mailto:editor@news18.com) Please include information in the e-mail that will help us identify your account so we can assist you with your inquiry or request. 
 
 ## Cookies
 
