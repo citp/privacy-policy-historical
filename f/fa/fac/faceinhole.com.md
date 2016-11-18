@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faceinhole.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607003226id_/http%3A//www.faceinhole.com/v2/company.asp%3Farea%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faceinhole.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233405id_/http%3A//www.faceinhole.com/v2/company.asp%3Farea%3Dprivacy) for the most accurate reproduction.*
 
 # FACEinHOLE - Privacy
 
