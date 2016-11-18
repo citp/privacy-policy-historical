@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotapicker.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324221627id_/http%3A//dotapicker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotapicker.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119004710id_/http%3A//dotapicker.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -59,3 +59,5 @@ Iasi, Romania
 <http://dotapicker.com/contact>
 
 This document was last updated on September 02, 2014
+
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.close message
