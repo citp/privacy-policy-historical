@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rlslog.net privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623205731id_/http%3A//www.rlslog.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rlslog.net privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118230642id_/http%3A//www.rlslog.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Releaselog | RLSLOG.net
 
@@ -20,5 +20,4 @@ Currently we assign cookies to our readers in order to save their preferences. T
 
 **Contact**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: rlslog (at) gmail.com  
-
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: rlslog (at) gmail.com
