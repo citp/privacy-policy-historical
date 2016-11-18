@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gre.ac.uk privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513211017id_/http%3A//www2.gre.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gre.ac.uk privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118174614id_/http%3A//www.gre.ac.uk/collaborations/privacy) for the most accurate reproduction.*
 
-# Privacy and cookies | University of Greenwich
+# Privacy and cookies | Collaborations and International Partnerships
 
 Cookies are temporary files websites use to help them improve your browsing experience. 
 
@@ -10,7 +10,7 @@ You can find out more about cookies and how they work [here](http://www.allabout
 
 Some of our services need cookies to work. These temporary files remember certain information as you move between pages on our site. For example, our [on-demand prospectus](http://www.gre.ac.uk/prospectus) uses cookies to remember which of our programmes you've added to your 'basket'. We only store these cookies as long as you visit our site. They're not used to track any other information about you.
 
-Our personalised websites – for example, [Greenwich VIP](http://www.gre.ac.uk/vip) – use cookies to keep details and give us useful info as you move between pages. When you sign in to use these services, you provide consent.
+Our personalised websites use cookies to keep details and give us useful info as you move between pages. When you sign in to use these services, you provide consent.
 
 Name |  Description |  Expires   
 ---|---|---  
@@ -45,12 +45,12 @@ We pay for adverts to increase awareness of our services. Some of these are 'tar
 
 Our web pages may contain personal data, including names, contact details and photographs. We don't add the personal data of any person who is not a member of staff to the website without permission. We aim to ensure all personal data on the website is accurate and up to date.
 
-When we collect personal data – for instance forms, questionnaires or surveys – we tell you what it's being used for, and if it will be shared with third parties. The data is collected securely and confidentiality. We only use personal information to provide services, or for lawful, disclosed purposes.
+When we collect personal data – for instance forms, questionnaires or surveys – we tell you what it's being used for, and if it will be shared with third parties. The data is collected securely and confidentially. We only use personal information to provide services, or for lawful, disclosed purposes.
 
 To monitor our website use, our web servers collect anonymous information such as IP addresses, browser software, and dates, times and pages visited. This helps us analyse data about web traffic and improve our website. We use this information for statistical analysis then remove it from the system.
 
 By using any page on our website, or our services, you are agreeing to us collecting your personal information.
 
-We always process personal data in accordance with the Data Protection Act 1998. To find out more, visit our [Data Protection](http://www.gre.ac.uk/governance/rmo/data_protection) pages. To find out how you can amend any errors in the personal information held about you, please e-mail [compliance@gre.ac.uk](mailto:compliance@gre.ac.uk).
+We always process personal data in accordance with the Data Protection Act 1998. To find out more, visit our [information compliance](http://www2.gre.ac.uk/about/governance/information-compliance) pages. To find out how you can amend any errors in the personal information held about you, please e-mail [compliance@gre.ac.uk](mailto:compliance@gre.ac.uk).
 
 This privacy statement only applies to this website – not to websites we provide links to.
