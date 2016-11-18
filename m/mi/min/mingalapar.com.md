@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mingalapar.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601223925id_/http%3A//mingalapar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mingalapar.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118124108id_/http%3A//mingalapar.com/privacy-policy) for the most accurate reproduction.*
 
 # Mingalapar – All About MyanmarPrivacy Policy | Mingalapar - All About Myanmar
 
