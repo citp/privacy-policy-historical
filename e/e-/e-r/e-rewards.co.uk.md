@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the e-rewards.co.uk privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622001214id_/http%3A//www.e-rewards.co.uk/privacypolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-rewards.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119002426id_/http%3A//www.e-rewards.co.uk/privacypolicy.do) for the most accurate reproduction.*
 
 # e-Rewards Opinion Panel | Privacy Policy
 
-**Effective Date: October 29, 2015**
+**Effective Date: September 30, 2016**
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=98d7d3ce-e81d-48ed-a077-3e151b4123ee "TRUSTe Privacy Certification")
 
@@ -61,7 +61,7 @@ Additional details: [Opting in and out](https://web.archive.org/privacypolicy_fu
 Information Protection**  
 
 
-  * Our privacy policy undergoes an independent review by TRUSTe. 
+  * Our Privacy Policy undergoes a yearly review by an independent 3rd party. 
   * We comply with market research industry standards such as those issued by CASRO and ESOMAR. 
 
 
@@ -79,4 +79,4 @@ London,
 EC4V 4BF, UK;   
 Attn: Privacy Department
 
-or the following email address: [Privacy@Researchnow.com](mailto:Privacy@Researchnow.com?subject=Attn:%20Privacy%20Department)
+or the following email address: [Privacy@Researchnow.com](mailto:Privacy@Researchnow.com?subject=\[e-rewards.com\]%20Privacy%20Query)
