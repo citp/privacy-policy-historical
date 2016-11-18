@@ -1,23 +1,22 @@
-> *The following text is extracted and transformed from the worldsurfleague.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630125258id_/http%3A//www.worldsurfleague.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsurfleague.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233701id_/http%3A//www.worldsurfleague.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - World Surf League
 
-Effective Date: February 10, 2014  
-Updated: June 6, 2016
+Updated and Effective From: October 7, 2016
 
-**1\. WSL Privacy Policy**
+Association of Surfing Professionals LLC d/b/a World Surf League and its related bodies corporate (collectively referred to as WSL and individually referred to as a WSL Entity), support the protection of your rights to privacy as a fundamental element of its governance of professional surfing worldwide and the relationship it has with its members. WSL is committed to maintaining the highest standards of privacy and security in the way in which it conducts business. With regard to the privacy of any personal information, WSL pledges to conduct business according to the following principles, which apply in their entirety to the World Surf League online and mobile sites and applications (each a “WSL Digital Site” and collectively the “WSL Digital Sites”).
 
-Association of Surfing Professionals LLC d/b/a World Surf League and it’s related bodies corporate (collectively referred to as WSL and individually referred to as a WSL Entity), supports the protection of your rights to privacy as a fundamental element of the governance of professional surfing worldwide and the relations involved with its members. Both from a corporate and employee level, WSL is committed to maintaining the highest standards of privacy and security in the way in which it conducts business. With regard to the privacy of any personal information, WSL pledges to conduct their business according to the following principles, which comply with, at least, the Australian Privacy Principles, which can be found in the “Privacy Legislation” by [clicking here](http://www.oaic.gov.au/privacy/privacy-resources/privacy-fact-sheets/other/privacy-fact-sheet-17-australian-privacy-principles) (“Australian Privacy Principles”). Notwithstanding the above or reference to Australian standards, this privacy policy applies to use of Personal Information by WSL in each jurisdiction that WSL operates and WSL intends to comply with standards of each (“Privacy Policy”).
+**If you do not agree to this Privacy Policy, please do not use a WSL Digital Site. Your use of any part of the WSL Digital Sites indicates your acceptance of this Privacy Policy and your consent to use of your personally identifiable information by WSL in accordance with this Privacy Policy.**
 
-Personal Information is information about you that identifies you or information by which your identity or information about you can be reasonably determined (“Personal Information”). This Privacy Policy illustrates in general terms how WSL protects the privacy of your Personal Information. It also sets out the matters, which WSL is required to disclose to individuals under Australian Privacy Principle 1.4. The principles set out in this WSL Privacy Policy will apply to any Personal Information you provide to WSL and to information WSL collects about you from other sources (e.g. WSL events or your sponsors).
+Each of the WSL Digital Sites do not knowingly solicit, obtain, retain or use any personally identifiable information from children under the age of 13 years. Accordingly, children under the age of 13 may be restricted from participating in certain features on the WSL Digital Assets. For more details on WSL’s policy with respect to children, please see our terms and conditions of use accessible at <http://www.worldsurfleague.com/pages/terms-conditions>.
 
-There may be specific principles detailed here which apply to certain situations of disclosure of information to or by WSL.
+## 1\. Personal Information 
 
-**2\. Collection of Personal Information**
+Personal information is information about you that identifies you or information by which your identity or information about you can be reasonably determined (“ **Personal Information** ”). This Privacy Policy illustrates in general terms how WSL uses and protects the privacy of your Personal Information. The principles set out in this WSL Privacy Policy will apply to any Personal Information you provide to WSL and to information WSL collects about you from other sources (for example at WSL events, from WSL sponsors or other third parties).
 
-If WSL requires Personal Information, it is generally collected directly from you. Personal Information is usually collected during the course of WSL’s relationship with you, and may be provided by you in correspondence (e.g. letter, form, email) through the WSL website, app or other digital experience branded WSL (each a “WSL Digital Asset”) or by entering competitions, events, promotions or membership application), or by your giving WSL such information in person.
+## 2\. Collection of Personal Information and other information 
 
-Generally, the type of Personal Information WSL collects about you include matters relevant to the primary purpose for the information being collected, such as:
+You are not generally obliged to provide Personal Information about yourself when you when you visit a WSL Digital Site. If WSL requires Personal Information, it is generally collected directly from you. Personal Information is usually collected during the course of WSL’s relationship with you, and may be provided by you in correspondence (e.g. letter, form, email); through a WSL Digital Site; by entering competitions, events, promotions, applications, gaming portals or membership application; or by your giving WSL such information in person. Generally, the type of Personal Information WSL collects about you may include:
 
   * Your full name;
   * Your sex;
@@ -27,90 +26,124 @@ Generally, the type of Personal Information WSL collects about you include matte
   * E-mail address;
   * Age;
   * Nationality;
-  * Bank details;
+  * Financial Information such as credit card or bank details;
   * Next of Kin;
-  * Location;
-  * IP Information (IP address, number, etc.)
+  * Geo location information;
+  * Unique identifiers such as a user name or password;
+  * Communication preferences;
+  * Search queries
+  * Comments and other information posted onto an interactive online forum
+  * Any other information otherwise described to you at the point of collection or pursuant to your consent.
 
 
 
-**3\. Choice of Personal Information**
+WSL may also collect certain other information automatically when you visit a WSL Digital Site including:
 
-WSL is careful to recognize any valid requests from individuals to suppress their names from use for any reason and have various systems and procedures in place to ensure this suppression is provided efficiently when requested by the relevant individual. Any such requests should be made by contacting WSL directly on the contact details at the end of this Privacy Policy.
+  * Your Internet Protocol (IP) address which can sometimes also be used to derive your general geographic area;
+  * Other unique identifiers such as mobile device identification numbers, domain name of your internet or wireless service provider and type of device used to access a WSL Digital Site;
+  * Browser type and settings and operating system used;
+  * Webpages you visit within the WSL Digital Sites or sites you visited before or after you visit the WSL Digital Sites;
+  * Information collected through cookies, web beacons, pixels local shared objects and other technologies; and
+  * Standard server log information.
 
-**4\. Compliance**
 
-WSL is fully compliant with the Privacy Amendment (Enhancing Privacy Protection) Act 2012 of Australia and intends to operate within the requirements of any applicable privacy law or regulation around the world.
 
-**5\. Purposes for Personal Information collected**
+## 3\. Use of Information collected
 
-WSL will only use the information for the following purposes or as required by law:
+WSL will only use information that it collects for the following purposes or as required by law:
 
-  * to provide you with information about WSL events, promotions, functions or entries
+  * to provide you with information about WSL events, promotions, functions, products or entries;
   * to notify you regarding WSL event or membership issues;
   * to be able to respond to questions or comments you have;
+  * to contact you via email and otherwise about your account on a WSL Digital Site and about products, services and events that may be of interest to you;
+  * to customize and personalize your use of the WSL Digital Sites;
   * to enable you to enter contests or events that WSL promotes or conducts;
   * to pay you prize money or other applicable payments;
   * to assist in administration matters relating to insurance;
   * to administer all WSL events and tours efficiently;
   * to contact you for discipline purposes as stipulated in the WSL rulebook;
-  * contact you urgently for any reason deemed necessary;
-  * marketing of WSL or its events, sponsors, promotion, and functions; or
-  * research, performance and analysis of WSL campaigns on the WSL Digital Assets or otherwise using analysis tools such as but not limited to Google Analytics.
-  * in accordance with the United States Digital Advertising Alliance Self-Regulatory Principles
+  * to contact you urgently for any reason deemed necessary;
+  * to market the WSL Digital Assets or WSL events, sponsors, promotions and functions and to send you promotional materials or special offers on our behalf or on behalf of our sponsors or marketing partners and their subsidiaries and affiliates;
+  * to publish stories, comments, photos or other information posted in any interactive online section of a WSL Digital Site;
+  * to research assess performance and analyze WSL marketing or advertising campaigns on the WSL Digital Sites or otherwise use analysis tools such as but not limited to Google Analytics; or
+  * in accordance with the United States Digital Advertising Alliance Self-Regulatory Principles.
 
 
 
-In some circumstances, WSL collects Personal Information about you from a third party source (e.g if WSL runs a competition or event in conjunction with a third party co-promoter and you provide your Personal Information to it). As a general rule WSL will attempt to ensure any third parties from whom it obtains Personal Information about you comply to the privacy law requirements of their jurisdiction and have advised you that it will or may be passed on to WSL and/or WSL will take reasonable steps to contact you and ensure that you are aware of the purposes for which WSL is collecting your Personal Information.
+## 4\. Other people's information which you provide to WSL
 
-For more information about how WSL and its advertising partners may use your information, for example in accordance with the United States Digital Advertising Alliance Self-Regulatory Principles, please visit www.aboutads.info/choices
+If you provide Personal Information to WSL about someone else, such as your agent or next of kin, you must ensure that you are entitled to disclose such information to WSL and that WSL can collect, use and disclose such information for the purposes described above without being required to do anything else under relevant privacy laws (which may include laws of a country they are from or in which they reside). You should take reasonable steps to ensure the individual concerned is aware of the contents of this Privacy Policy as those matters relate to them. You warrant that any information you disclose is true and correct.
 
-**6\. Other people's information, which you provide to WSL**
+## 5\. Sharing of Information
 
-If you provide Personal Information to WSL about someone else, such as your agent or next of kin, you must ensure that you are entitled to disclose that information to WSL and that it can collect, use and disclose such information for the purposes described above without being required to do anything else under relevant privacy laws (which may include laws of a country they are from or in which they reside). You should take reasonable steps to ensure the individual concerned is aware of the contents of this Privacy Policy as those matters relate to them. You must ensure that any information you disclose is true and correct.
+  * Each WSL Entity may disclose Personal Information to other WSL Entities, which will use and disclose the information only for the purpose for which it was originally collected and as described herein. All WSL Entities abide by this Privacy Policy.
+  * In some circumstances, WSL collects Personal Information about you from a third party source (e.g. if WSL runs a competition or event in conjunction with a third party co-promoter and you provide your Personal Information to it). As a general rule WSL will attempt to ensure any third parties from whom it obtains Personal Information about you comply with the privacy law requirements of your jurisdiction and have advised you that your Personal Information may or will be passed on to WSL and/or WSL affiliates or sponsors and that such third party has taken reasonable steps to ensure that you are aware of the purposes for which WSL is collecting your Personal Information and that you have consented to the same, including its use in accordance with this Privacy Policy.
+  * WSL may engage third party contractors to perform services, which involve the contractor handling Personal Information that WSL holds. For example, WSL may engage third party contractors to maintain and monitor its customer and user databases. In these situations, WSL restricts such third party to using any of your Personal Information for the purpose permitted under this Privacy Policy.
+  * In limited circumstances WSL may provide your Personal Information to third parties such as co-sponsors or promoters of WSL events for use as permitted in this Privacy Policy. 
+  * Third parties such as WSL’s advertisers, sponsors, service providers or social media platforms, including, but not limited to, Facebook, Twitter, Instagram and YouTube may receive or gather information about end users, including through the use of cookies or other tracking software and use that information for targeted advertising. WSL also uses third-party advertising companies to serve ads on WSL Digital Sites, which may, directly or indirectly, collect or use information about your visits to websites to display advertisements more tailored to your interests. If you wish to know more about this practice, would like to know more about your options or would like to opt-out, you can visit the Network Advertising Initiative (“NAI”) web-site: [www.networkadvertising.org/](http://www.networkadvertising.org/). The NAI is a co-operative of online advertising companies who are committed to responsible practices and consumer protection. You may also visit the Digital Advertising Alliance’s opt-out page at [www.aboutads.info/choices/](http://www.aboutads.info/choices/) or the European Interactive Digital Advertising Alliance’s opt-out page at [www.youronlinechoices.eu/](http://www.youronlinechoices.eu/) for more information about what you can do if you do not want to receive internet-based advertising.
+  * Browsers and mobile operating systems also provide other privacy and ad-blocking mechanisms. We encourage you to review the privacy control settings available in your browser or device platforms settings. Note that some of these controls (such as blocking third party cookies) may impede the storage of your opt out preferences. 
+  * Please note that while the WSL is careful about choosing its sponsors, advertisers and partner third parties, it is only responsible for the consent on the WSL Digital Sites and for the use of your Personal Information by any WSL Entity. All third parties associated with a WSL Digital Site with whom WSL may share Personal Information are bound by their own privacy and data collection and protection practices. WSL cannot be held liable for the policies or actions of such third parties. We encourage users to read the Privacy Policy of any click-thru site they visit through a WSL Digital Site.
 
-**7\. Third Parties Use of Personal Information**
 
-WSL may engage third party contractors to perform services, which involve the contractor handling Personal Information that WSL holds. For example, WSL may engage third party contractors to maintain and monitor its customer and user databases. In these situations, WSL restricts it to using any of your Personal Information for the purpose permitted under this Privacy Policy. In limited circumstances WSL may provide your Personal Information to third parties such as co-sponsors or promoters of WSL events for use as permitted in the Privacy Policy.
 
-Third parties such as WSL’s advertisers, sponsors, service providers or social media platforms, including, but not limited to, Facebook, Twitter, Instagram and YouTube may receive or gather information about end users and use that information for targeted advertising. WSL also uses third-party advertising companies to serve ads on its Properties, which may, directly or indirectly, collect or use information about your visits to websites to display advertisements more tailored to your interests. If you wish to know more about this practice or would like to know more about your options, you can visit the Network Advertising Initiative (“NAI”) web-site: http://www.networkadvertising.org. The NAI is a cooperative of online advertising companies who are committed to responsible practices and consumer protection. Please visit www.aboutads.info/choices for more information about what you can do if you do not want to receive internet-based advertising. Browsers and mobile operating systems also provide other privacy and ad-blocking mechanisms. We encourage you to review the privacy control settings available in your browser or device platforms settings. Note that some of these controls (such as blocking third party cookies) may impede the storage of your opt out preferences.
+## 6\. Accuracy, completeness and requests regarding your Personal Information 
 
-**8\. Sharing information within the WSL group of entities**
+  * WSL will take commercially reasonable steps to ensure that your Personal Information is kept accurate, complete, and up-to-date. If any of the Personal Information WSL holds about you is inaccurate, incomplete or out-of-date, please contact WSL immediately using the contact details at the end of this Privacy Policy.
+  * WSL is careful to recognize any valid requests from individuals to suppress their names or other Personal Information from use for any reason and have various systems and procedures in place to ensure this suppression is provided efficiently when requested by the relevant individual. Any such requests should be made by contacting WSL directly using the contact details at the end of this Privacy Policy.
 
-Each WSL Entity may disclose Personal Information to other WSL Entities, which will use and disclose the information only for the purpose for which it was originally collected and as described herein. The contact details below are applicable to all WSL Entities. All WSL Entities abide by this Privacy Policy.
 
-**9\. Development of privacy standards**
 
-WSL management ensures that relevant information is disseminated in a timely and appropriate way throughout the organization and between the WSL Entities. WSL uses a variety of resources to stay informed about developments in legislation and regulation, including any advances in methods of ensuring security and integrity of information held. WSL provides the use of various mechanisms to its employees ensuring that WSL policy and procedures comply with industry standards where WSL operates.
+## 7\. Security of your Personal Information
 
-**10\. Access to your Personal Information**
+  * Personal information the WSL holds is stored either in hard copy documents or as electronic data. WSL uses generally accepted industry standard reasonable security measures to protect any Personal Information held in any form from misuse, loss, unauthorized access, modification and/or disclosure.
+  * Physical security is maintained over WSL’s paper and electronic data stores and premises, such as locks and security systems. WSL maintains computer and network security; for example, WSL uses firewalls (security measures for the internet) and other security systems such as user identifiers and passwords to control access to WSL’s computer system.
+  * Your membership on a WSL Digital Site is password protected and we recommend that you do not divulge your passwords to anyone. You are solely responsible for maintaining the secrecy of your member name, password and other account information.
+  * Any information posted or disclosed on a message board or comment section may be viewed and used by other members of the public. If you post any Personal Information in a publicly accessible area of a WSL Digital Site, you do so at your own risk and WSL accepts no liability for the same.
 
-At your request, WSL will provide you with access to the Personal Information it holds about you (unless there is an exception which applies under laws such as the Privacy Amendment (Enhancing Privacy Protection) Act 2012, such as employee records or if the health or life of an individual is threatened). WSL will process your request in a reasonable time. Note that WSL may recover a reasonable cost of providing you with such access.
 
-In the case that WSL refuses to provide you with access to such information, we will provide you with reasons for the refusal and inform you of any exceptions relied.
 
-**11\. Accuracy, completeness and currency of your Personal Information**
+## 8\. Cookies and Tagging Technology
 
-WSL will take commercially reasonable steps to ensure that your Personal Information is accurate, complete, and up-to-date. If any of the Personal Information WSL holds about you is inaccurate, incomplete or out-of-date, please contact WSL immediately and WSL will correct any incorrect information.
+  * A cookie is a small amount of data that is transferred to your browser by a web server and can only be read by the server that gave it to you. It cannot be executed as code or deliver viruses. Most browsers are initially set to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it or reject them. It should be noted that should you choose to reject all cookies, it may be more difficult navigating through web sites including the WSL Digital Sites.
+  * In order to improve the WSL Digital Sites, personalize your experience of the WSL Digital Sites, administer the WSL Digital Sites, allow WSL to analyze trends and user data and gather demographic information, WSL may use "cookies", “web beacons”, “pixels” or other “tagging” technology to track your use of the WSL Digital Sites.
+  * The types of cookies we may use on the WSL Digital Sites include session cookies, which are deleted from your device when you close your browser and persistent cookies, which remain stored on your device until deleted, or until they expire.
+  * Other third parties that present advertisements on the WSL Digital Sites or help track marketing and advertising information on the WSL Digital Sites may also set and use cookies, web beacons, pixels or other tagging technology to access your device. Please refer specifically to each third party website and statements of privacy to understand their procedures for collecting, using and disclosing personal information through such tagging technology.
+  * WSL Digital Sites use analytic tools provided by third parties such as Google Analytics and other marketing automation tools to analyze the use of the WSL Digital Sites, which generates statistical and other information about user interactions on the WSL Digital Site by means of cookies, which are stored on users’ computers. The information generated relating to our website is used to create reports about the WSL Digital Sites. Specific information about such third party analytic use of cookies on the WSL Digital Sites is available upon request.
+  * By continuing to use the WSL Digital Sites you consent to the use of cookies or similar tagging technology.
+  * If you wish to find out more about Cookies or other tagging technology or wish to opt-out, you may like to visit [www.allaboutcookies.org](http://www.allaboutcookies.org/), an independent third party resource that explains what cookies are and how you may manage them, or the other industry opt-out pages mentioned in Section 5 above. Please note that WSL has no control over and are not responsible for the content of this third party website.
 
-**12\. Security of your Personal Information**
 
-Personal information the WSL holds is stored either in hard copy documents or as electronic data. WSL reasonably protects any Personal Information in any form from misuse and loss and from unauthorized access, modification and disclosure.
 
-Physical security is maintained over WSL’s paper and electronic data stores and premises, such as locks and security systems. WSL maintains computer and network security; for example, WSL uses firewalls (security measures for the internet) and other security systems such as user identifiers and passwords to control access to WSL’s computer system.
+## 9\. Choice of Law
 
-**13\. Cookies and Tagging Technology**
+Any disputes that arise out of your use of the WSL Digital Sites shall be resolved according to the laws of the state of California, USA and the federal and state courts of the state of California shall have exclusive jurisdiction over all claims and actions relating to the WSL Digital Sites.
 
-When you visit the WSL Digital Assets, you can browse the site and access important information without revealing your identity. In order to improve our site, WSL may use "cookies" or other “tagging” technology to track your use of the WSL website. A cookie is a small amount of data that is transferred to your browser by a web server and can only be read by the server that gave it to you. It cannot be executed as code or deliver viruses. Most browsers are initially set to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it or reject them. It should be noted that should you choose to reject all cookies, it may be more difficult navigating through web sites.
+## 10\. Transfer and Storage of Data
 
-**14\. Contact**
+  * While every effort is made to comply with the laws and regulations of all jurisdictions in which the WSL Digital Sites may be accessed please be advised that the WSL Digital Sites are directed towards users who reside in the United States. The servers on which data is stored, including any Personal Information, are located in the United States, and the WSL Digital Sites comply with relevant laws and regulations under Californian law, as explained in this Privacy policy. By continuing to use the WSL Digital Sites you hereby consent to your information being collected, stored, and used in the United States, as stated in this Privacy Policy.
+  * If you are located in the European Economic Area ("EEA"), or a country with data protection/privacy law, please be advised that we may transfer your personal information to countries that may not guarantee the same level of protection for personal information as the one in which you reside. By giving your information on a WSL Digital Site you consent to these transfers.
+  * WSL will only transfer or share personal information to the extent it is necessary to fulfill the purpose outlined in this Privacy Policy and your data will be processed in accordance with the provisions set out in this Privacy Policy.
 
-Should you need to contact WSL as directed in a clause above or if you have an issue or question on this Privacy Policy, you can contact WSL on any of the following details:
+
+
+## 11\. California Privacy Rights
+
+  * California law permits California residents to request certain information regarding the disclosure of their Personal Information to third parties for direct marketing purposes. To make such a request, please send an email to support@worldsurfleague.com or write to us at the address listed below.
+  * Some web browsers transmit a ‘do not track’ signal or such similar signals to websites that a user may visit or interact with. At present there is no recognized industry standard concerning what action, if any, a website provider must take with respect to such ‘do not track’ signals. As such, please be advised that, at present, the WSL Digital Sites do not take any action in response to such signals.
+
+
+
+## 12\. Changes to this Privacy Policy
+
+This Privacy Policy is effective as of October 7, 2016 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page. WSL reserves the right to update or change our Privacy Policy at any time and we encourage you to review this Privacy Policy periodically. Your continued use of the WSL Digital Sites after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy. 
+
+## 13\. Contact
+
+If you need to contact WSL as directed in a section above or if you have an issue or question on this Privacy Policy, you can contact WSL at:
 
 Association of Surfing Professionals LLC dba World Surf League  
 147 Bay St,  
 Santa Monica, CA, 90405  
-USA  
-Phone: +1 310 450 1212  
+USA Phone: +1 310 450 1212  
 Email: support@worldsurfleague.com  
-Website: www.worldsurfleague.com (all regional offices contact information can be found here under the “Regions” tab.
+Website: www.worldsurfleague.com
