@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanow.com privacy policy that was archived on 2016-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160307214746id_/http%3A//www.americanews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanow.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119004815id_/http%3A//www.americanow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,7 +72,7 @@ We may allow third-party advertisers to post advertisements on the Sites. These 
 
 The Sites contain content from third parties and links to other third party web sites. We are not responsible for the privacy practices or the content on these sites. If you have concerns about how other sites collect and use information about you, make sure to read their privacy policies.
 
-We also use third party advertising companies to serve ads and collect data on the Sites. These companies may use information (not including your name, address, email address, or telephone number) about your visits to the Sites and other web sites in order to provide advertisements on this and other web sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices for opting-out of this use of your information, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+We may use third party advertising companies to collect data and/or serve ads when you visit our Web site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements and about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit <http://networkadvertising.org/>.
 
 ### 9\. Confidentiality And Security
 
