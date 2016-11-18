@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdfclife.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316121515id_/http%3A//www.hdfclife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdfclife.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234453id_/http%3A//www.hdfclife.com/privacy-policy) for the most accurate reproduction.*
 
 # HDFC Life - Privacy Policy
 
@@ -77,7 +77,7 @@ Any information that We collect from You may be used for a variety of purposes i
     * To enforce applicable terms of Service, including investigation of potential violations, 
     * To detect, prevent, or otherwise address fraud, security or technical issues, and 
     * To protect against harm to the rights, property or safety of HDFC Life, our Users or the public as required or permitted by law. 
-    * To outsource non core activities as defined under the IRDA guidelines. 
+    * To outsource non core activities as defined under the IRDAI guidelines. 
 
 Your usage of the website would also imply Your acceptance of the aforesaid terms.
 
