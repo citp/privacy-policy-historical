@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britainfirst.org privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115030246id_/https%3A//www.britainfirst.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britainfirst.org privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118053550id_/https%3A//www.britainfirst.org/privacy-policy) for the most accurate reproduction.*
 
 # Britain First – Taking our country back! | Privacy, refunds & unsubscribe policies
 
@@ -40,7 +40,7 @@ Where you submit personal information for publication on our website, we will pu
 We will not sell, rent or share your personal data with third party organisations.
 
 4\. Donations  
-All our one off website financial transactions are handled through our payment services provider, Paypal. You should only provide your personal information to Paypal after reviewing the Paypal privacy policy (available at www.paypal.com).  We will share information with Paypal only to the extent necessary for the purposes of processing payments you make via our website. We do not store your financial or credit card details.
+We do not store your financial or credit/debit card details.
 
 We have a refund policy in case you make a donation in error. If you contact us within 7 days of making the donation we will return it to you within 40 days without charge.
 
@@ -81,6 +81,16 @@ We do not store credit card details nor do we share customer details with any 3r
 
 If you desire a refund for a donation, membership or merchandise sale, please ring **0208 914 8212** (office hours) or email [admin@britainfirst.org](mailto:admin@britainfirst.org)
 
+### CANCELLING YOUR MEMBERSHIP
+
+If you wish to cancel your Britain First membership, please email [admin@britainfirst.org](mailto:admin@britainfirst.org).
+
+All cancellations must be in writing.
+
+Please note that all subscriptions for Britain First membership are subject to a minimum of _six_ monthly payments.
+
+Should you chose to cancel your subscription before six monthly payments have been taken then the remaining balance due will be debited from the card details you have provided.
+
 ### REFUNDS TIMEFRAME
 
 Most refunds can be made instantly, but we ask for a period of 3 working days to organise a refund.
@@ -95,6 +105,6 @@ If you want to un-subscribe, you have three options:
 – **Email[admin@britainfirst.org](mailto:admin@britainfirst.org)**  
 – **Click the “un-subscribe” link on your e-bulletin**
 
-Please send all letters relating to this privacy policy to:
+Please send all letters relating to privacy, refunds & unsubscribe policies to:
 
 **Britain First, PO Box 119, Swanley, Kent, BR8 9DY**
