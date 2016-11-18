@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1websdirectory.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327085614id_/http%3A//www.1websdirectory.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1websdirectory.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234425id_/http%3A//www.1websdirectory.com/policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - 1WebsDirectory.com
 
@@ -38,7 +38,7 @@ We take all care and precaution to protect the privacy of our users, however, we
 
 #### Third Party Intermediaries
 
-Paypal is the service used by us for billing the users for the services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
+2Checkout is the service used by us for billing the users for the services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
 
 #### Links to Other Sites
 
@@ -52,4 +52,4 @@ We take every precaution and care to protect the information provided by our use
 
 1 Webs Directory reserves the right to make changes to the privacy policy at any point of time and thus, it is requested that you do make regular checks to be up to date with the changes.
 
-Any questions relating to this privacy policy may be sent through our [contact page](https://web.archive.org/web/20160327085614id_/http%3A//www.1websdirectory.com/contact_us.htm).
+Any questions relating to this privacy policy may be sent through our [contact page](https://web.archive.org/web/20161118234425id_/http%3A//www.1websdirectory.com/contact_us.htm).
