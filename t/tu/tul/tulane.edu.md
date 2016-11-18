@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tulane.edu privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529193819id_/http%3A//tulane.edu/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tulane.edu privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231402id_/http%3A//tulane.edu/privacy) for the most accurate reproduction.*
 
-# Tulane University - Privacy Notice
+# Privacy Notice | Tulane University
 
 Tulane University is committed to respecting your privacy. You can visit official Tulane sites without revealing personal information. Should you choose to provide us with any personal information, you can be assured that it will be used only by Tulane University to conduct official university business, and personal information will not be disseminated to an unaffiliated third party.
 
