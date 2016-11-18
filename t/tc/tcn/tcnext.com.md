@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcnext.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604033114id_/http%3A//tcnext.com/tcnext/WEB/static_pages/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcnext.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231724id_/http%3A//tcnext.com/tcnext/WEB/static_pages/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - tcnext.com
 
