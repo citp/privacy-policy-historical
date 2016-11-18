@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the ivipid.com privacy policy that was archived on 2016-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160630013135id_/http%3A//ivipid.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ivipid.com privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119000354id_/http%3A//ivipid.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <title>Vipid - Privacy Policy</title>
   <!--[if lte IE 7]><script src="/site_media/static/js/ie6/warning.js?987325"></script><script>window.onload=function(){e("/site_media/static/js/ie6/")}</script><![endif]-->
 
-  <link rel="stylesheet" type="text/css" media="screen" href="http://ivipid.com/site_media/static/skins/default/video_scrollbar.css?49bad4349852a1beaf956bfbe8354229cc163812">
-  <link rel="stylesheet" type="text/css" media="screen" href="http://ivipid.com/site_media/static/skins/default/vipid_new.css?49bad4349852a1beaf956bfbe8354229cc163812">
-  <link rel="stylesheet" type="text/css" media="screen" href="http://ivipid.com/site_media/static/skins/default/fonts.css?49bad4349852a1beaf956bfbe8354229cc163812">   
+  <link rel="stylesheet" type="text/css" media="screen" href="http://ivipid.com/site_media/static/skins/default/video_scrollbar.css?86452789e4176fa7471a7c9df0cc127a753f204d">
+  <link rel="stylesheet" type="text/css" media="screen" href="http://ivipid.com/site_media/static/skins/default/vipid_new.css?86452789e4176fa7471a7c9df0cc127a753f204d">
+  <link rel="stylesheet" type="text/css" media="screen" href="http://ivipid.com/site_media/static/skins/default/fonts.css?86452789e4176fa7471a7c9df0cc127a753f204d">   
     
   <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=128439573889394"></script><script type="text/javascript">
   //window.DEBUG = ;
@@ -16,30 +16,21 @@
   </script>
   <link type="text/css" rel="stylesheet" href="http://ivipid.com/site_media/static/skins/default/jquery-ui/ui-darkness/jquery-ui-1.8.13.custom.css">
   <script type="text/javascript" src="http://ivipid.com/site_media/static/js/jquery-1.7.2.min.js"></script>
-  <script type="text/javascript" src="http://ivipid.com/site_media/static/js/console.log.patch.js?49bad4349852a1beaf956bfbe8354229cc163812"></script>
+  <script type="text/javascript" src="http://ivipid.com/site_media/static/js/console.log.patch.js?86452789e4176fa7471a7c9df0cc127a753f204d"></script>
+  <script type="text/javascript" src="http://ivipid.com/site_media/static/js/csrf.js"></script>
+  <script type="text/javascript" src="http://ivipid.com/site_media/static/js/jslogger/logging.js"></script>
   <!--<script type="text/javascript" src="http://ivipid.com/site_media/static/js/jquery.dataSelector.js"></script>-->
   <!--<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>-->
 <!--  <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>-->
 
   <script>
-    window.cookieconsent_options = {
-      markup: [
-        
-          '<div class="cc_banner-wrapper {{containerClasses}}">',
-          '<div class="cc_banner cc_container cc_container--open">',
-          '<a href="#null" data-cc-event="click:dismiss" target="_blank" class="cc_btn cc_btn_accept_all">{{options.dismiss}}</a>',
-
-          '<p class="cc_message">{{options.message}} <a data-cc-if="options.link" target="{{options.target}}" class="cc_more_info" href="{{options.link || "#null"}}">{{options.learnMore}}</a></p>',
-
-          '</div>',
-          '</div>'
-        
-      ],
-      container: "#container",
-      theme: 'dark-floating',
-    };
+    window.Logger = Log(jQuery);
+    window.Logger.init({
+      logUrl: "/logger/",
+    });
   </script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
+
+  
 
   <meta property="og:title" content="VipID">
   <meta property="og:description" content="The fastest way to create your own videos.">
