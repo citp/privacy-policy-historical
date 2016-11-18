@@ -1,51 +1,17 @@
-> *The following text is extracted and transformed from the earningpalace.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516155956id_/http%3A//earningpalace.com/terms-conditions/%23Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earningpalace.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118222544id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Terms & Conditions - Earning Palace - Forex Brokers Review Portal
+# Legal
 
-## **Terms and Conditions**
+* * *
 
-**1\. Use of the site**
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Earningpalace.Com is a free resource about Forex Brokers with information about Brokers and service that brokers provide, Forex Bonus, Forex contests, Press Release. Information and users reviews are for information reference only.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-**2\. Liability**
 
-Earningpalace.Com will accept no liability or responsibility for any actions caused by using information found on this website, including damages or losses.
 
-**3\. Display of the information**
-
-All Forex brokers and other companies who offer Forex trading services mentioned on Earningpalace.com are for informational reference only. All information, reviews, ratings found on the site about above mentioned companies is provided according base on the company website, and/or communication with company’s representatives.
-
-**4\. Accuracy of the information**
-
-Earningpalace.Com is updated on the daily basis but trading conditions and services for each broker may change any time. Therefore, the resource at the moment of visiting may not accuracy. Earningpalace.com always try its best to stay in touch with the latest changes from brokers with help from website visitors and broker’s representatives.
-
-## **Privacy Policy**
-
-**Personal data**
-
-We don’t store or collect personal information about visitors. You can submit your email address upon commenting on the site but it is not required. We collect email address of those who contact us via email, contact form, commenters who decide to leave email address.
-
-**Cookies**
-
-We don’t use cookies to gather any information. All cookies are used to gather users’ activity on the site and we have no access to it.
-
-**Confidentially**
-
-All personal data we may collect are stored on our server and will be treated confidentially which necessary security to prevent any unlawful to the access the data.
-
-**Rights of access**
-
-Visitors can request for information about them that being collected on the site by submit request via contact form. All requests will be dealt in a proper manner.
-
-**Link to other websites**
-
-The privacy policy applies only to this web site. We may provide link to other web site but for reference and convenience only. We can not guarantee for its standard or be responsible for its content.
-
-**Ad services**
-
-We place ads on the site and may use third-party to serve the ads. These third-party companies may collect information about your visits to provide advertisers about site’s statics.
-
-**Updates to this policy**
-
-We reserve the right to update this policy in other to adapt it to new legal requirements. Should we do any changes we will immediately post the changes on this page.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
