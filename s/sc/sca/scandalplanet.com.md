@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scandalplanet.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617062539id_/http%3A//scandalplanet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scandalplanet.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233432id_/http%3A//scandalplanet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Scandal Planet
 
@@ -24,4 +24,4 @@ We may revise this Privacy Policy from time to time. Please review it periodical
 
 **Contact**
 
-If you have any questions about this Privacy Policy, please contact us at [office@scandalplanet.com](mailto:office@scandalplanet.com)
+If you have any questions about this Privacy Policy, please contact us at [scandalplanet@gmail.com](mailto:scandalplanet@gmail.com)
