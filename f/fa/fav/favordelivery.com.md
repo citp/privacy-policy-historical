@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the favordelivery.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613104945id_/https%3A//favordelivery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favordelivery.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118041051id_/https%3A//favordelivery.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy • Favor Delivery - Favor Delivery
 
@@ -103,4 +103,4 @@ When we do change the Privacy Policy, we will also revise the effective date. Yo
 
 ## Contacting Favor
 
-For questions or comments regarding this Privacy Policy, please contact us at NeighborFavor Inc., 1611 West 6th. Austin, TX 78703, [(855) 623-3287](tel: +1\(855\)623-3287) and [contact@favordelivery.com](mailto:contact@favordelivery.com).
+For questions or comments regarding this Privacy Policy, please contact us at NeighborFavor Inc., 1705 Guadalupe Street Austin, TX 78703, [(855) 623-3287](tel: +1\(855\)623-3287) and [contact@favordelivery.com](mailto:contact@favordelivery.com).
