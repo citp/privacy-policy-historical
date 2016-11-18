@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edmundoptics.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601002448id_/http%3A//www.edmundoptics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edmundoptics.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119002531id_/http%3A//www.edmundoptics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,7 +27,7 @@ Database Director
 Edmund Optics  
 101 East Gloucester Pike  
 Barrington, NJ 08007  
-Phone: 1-800-363-1992  
+Phone: [1-800-363-1992](tel:1-800-363-1992)  
 Fax: 1-856-573-6295  
 Email: [sales@edmundoptics.com](mailto:sales@edmundoptics.com)
 
@@ -55,6 +55,6 @@ Database Director
 Edmund Optics  
 101 East Gloucester Pike  
 Barrington, NJ 08007  
-Phone: 1-800-363-1992  
+Phone: [1-800-363-1992](tel:1-800-363-1992)  
 Fax: 1-856-573-6295  
 Email: [sales@edmundoptics.com](mailto:sales@edmundoptics.com)
