@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the the-scientist.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404213242id_/http%3A//www.the-scientist.com%3Fhome.privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-scientist.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118215742id_/http%3A//www.the-scientist.com%3Fhome.privacy-policy) for the most accurate reproduction.*
 
-# The Scientist Magazine®
+# The Scientist Magazine® - Privacy Policy
 
 The Scientist website and publication is owned and operated by LabX Media Group, Inc.. Because we gather certain types of information from our users, we feel you should understand our policy and the terms and conditions surrounding the capture, use, and sharing of that information. This privacy policy discloses what information The Scientist gathers at this site and how we use it.
 
