@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ranthollywood.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622000435id_/http%3A//www.ranthollywood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ranthollywood.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235617id_/http%3A//www.ranthollywood.com/privacy-policy) for the most accurate reproduction.*
 
-# RantHollywood
+# – Privacy Policy
 
 PRIVACY POLICY  
 Rant, Inc. (“Rant,” “we,” “us,” or “our”) knows that you care about how your personal information is used and shared, and we take your privacy very seriously. This Privacy Policy addresses Rant’s practices regarding information collected from visitors of [RantMovies](https://web.archive.org/). The website is hereinafter referred to as the “Site”.  
