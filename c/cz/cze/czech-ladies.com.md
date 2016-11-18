@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the czech-ladies.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605203320id_/http%3A//www.czech-ladies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the czech-ladies.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232003id_/http%3A//www.czech-ladies.com/privacy.html) for the most accurate reproduction.*
 
 # Czech ladies -
 
@@ -87,7 +87,7 @@ Suite 3978, PO Box 6945
 London W1A 6US, United Kingdom
 
 Toll free phone:             1-866-Y-SINGLE       ( 1-866-974-6453 )  
-Outside US call:             +1 (312) 252-0005       or             +44 (0) 2030261229 - temporarily out of order
+Outside US call:             +1 (312) 252-0005       or             +44 (0) 2071935504
 
 Fax: +1 (360) 525-0025
 
