@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calendar-365.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619191146id_/http%3A//www.calendar-365.com/cookie-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calendar-365.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233300id_/http%3A//www.calendar-365.com/cookie-policy.html) for the most accurate reproduction.*
 
 # Cookie policy
 
@@ -41,7 +41,7 @@ You can use [Ads Settings](http://www.google.com/ads/preferences/?hl=us) to mana
 
 You can also manage many companies’ cookies used for online advertising at the US-based [aboutads.info choices](http://www.aboutads.info/choices/) page or the EU-based [Your Online Choices](http://www.youronlinechoices.com/). 
 
-Finally, you can [manage cookies in your web browser](http://www.google.com/intl/us/policies/technologies/managing/). 
+Finally, you can [manage cookies in your web browser](http://www.google.com/intl/us/policies/technologies/managing/).
 
   
 
