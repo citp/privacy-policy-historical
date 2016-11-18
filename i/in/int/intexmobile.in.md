@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the intexmobile.in privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523022835id_/http%3A//www.intexmobile.in/Home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intexmobile.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000057id_/http%3A//www.intex.in/Home/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy : Intex Technologies
 
 ### Your privacy is important to us. To know more on how INTEX works to maintain this, read below.
 
-**We don't ask you for personal information unless we truly need it. (We can't stand services that ask you for things like your gender or income level for no apparent reason.)**
+We don't ask you for personal information unless we truly need it. We don’t ask for things like your gender or income level.
 
 We don't share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
 
