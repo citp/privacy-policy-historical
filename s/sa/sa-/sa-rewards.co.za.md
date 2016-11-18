@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sa-rewards.co.za privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613101449id_/http%3A//www.sa-rewards.co.za/cgi-bin/global.pl%3Ftodo%3Dshow_page%26ident%3Ddatenschutz%26wingame_pk%3D40%26freetest_pk%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sa-rewards.co.za privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119001013id_/http%3A//www.sa-rewards.co.za/cgi-bin/global.pl%3Ftodo%3Dshow_page%26ident%3Ddatenschutz%26wingame_pk%3D40%26freetest_pk%3D3) for the most accurate reproduction.*
 
 # Data Protection
 
-This privacy policy applies to us, the competition organiser, Planet49 Asia Pacific Pte Ltd of Singapore, and our websites [www.sa-rewards.co.za](http://www.sa-rewards.co.za/ "www.sa-rewards.co.za") ("us","we" or "our" as the context requires).
+This privacy policy applies to us, the competition organiser, AP Marketing Asia Pacific Limited of Hong Kong, and our websites [www.sa-rewards.co.za](https://www.sa-rewards.co.za/ "www.sa-rewards.co.za") ("us","we" or "our" as the context requires).
 
 ## Personal Information
 
@@ -61,7 +61,7 @@ You can access your personal information or make a complaint or request that:
 
 
 
-Please send us an email, at [info@planet49.co.za](mailto:info@planet49.co.za), or write to Planet49 Asia Pacific Pte Ltd, 1 Maritime Drive, 11-19 Harbourfront Centre, Singapore 099253. We will respond within a reasonable time period. We will provide you with written notice if we refuse to correct your personal information. We will take such steps that are reasonable in the circumstance to protect personal information from misuse interference and loss.  
+Please send us an email, at [za@apmarketingap.com](mailto:za@apmarketingap.com), or write to AP Marketing Asia Pacific Limited, Unit 706, 7/F South Seas Ctr, Tower 2, 75 Mody Road, TST KLN, Hong Kong. We will respond within a reasonable time period. We will provide you with written notice if we refuse to correct your personal information. We will take such steps that are reasonable in the circumstance to protect personal information from misuse interference and loss.  
 If we no longer need your personal information, and it is not otherwise required by law, we will take reasonable steps to destroy the information and de-identify it. 
 
 ## Security
@@ -72,4 +72,4 @@ You should be aware that information which you voluntarily reveal over the inter
 
 ## Other information
 
-This privacy policy is available to you at all times. It may be altered from time to time. Should you require further information, or should you have any objections or questions, please e-mail us at [info@planet49.co.za](mailto:info@planet49.co.za), or write to Planet49 Asia Pacific Pte Ltd, 1 Maritime Square 11-19, Harbourfront Centre, Singapore 099253. 
+This privacy policy is available to you at all times. It may be altered from time to time. Should you require further information, or should you have any objections or questions, please e-mail us at [za@apmarketingap.com](mailto:za@apmarketingap.com), or write to AP Marketing Asia Pacific Limited, Unit 706, 7/F South Seas Ctr, Tower 2, 75 Mody Road, TST KLN, Hong Kong. 
