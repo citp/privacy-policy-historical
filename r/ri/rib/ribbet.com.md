@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ribbet.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614195252id_/http%3A//www.ribbet.com/privacy.rbt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ribbet.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119001033id_/http%3A//www.ribbet.com/privacy.rbt) for the most accurate reproduction.*
 
 # Ribbet.com - Privacy Policy
 
@@ -33,10 +33,16 @@ We allow third-party companies to collect certain non-personally identifying inf
 
 No, your passwords are never revealed to Ribbet. You can also revoke Ribbet's access to these services at any time through your account settings on the service's web site.
 
+#### How do I unsubscribe from the Ribbet newsletter?
+
+Should you no longer wish to receive our emails, you may click on the unsubscribe link within each message received, and/or contact us [here](http://local.mywebsite.com/feedback).
+
 #### Will this privacy policy change?
 
 As Ribbet evolves, this privacy policy is likely to evolve along with it. We will never reduce your rights under this Policy without your explicit consent. Furthermore we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice. Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of our privacy policy in an archive for your review.
 
 We also adhere to the US Safe Harbor Privacy Principles. For more information about the U.S. Department of Commerce's Safe harbor principles, see the [Department of Commerce's web site](http://www.export.gov/safeharbor). 
 
-If you've got any questions or concerns, please feel free to contact us via email at support [at] ribbet.com or write to us at: 'Ribbet Privacy Matters', 10685-B Hazelhurst Dr. #7744, Houston, TX 77043 U.S.A. 
+If you've got any questions or concerns, please feel free to contact us via email at support [at] ribbet.com or write to us at: 'Ribbet Privacy Matters', Level 7, 9 Hunter Street, Sydney NSW 2000, Australia 
+
+Ribbet.com is a trading name of Foto Friend Pty Ltd who own and operate this site.
