@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitefinity.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531003443id_/http%3A//www.sitefinity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitefinity.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118224412id_/http%3A//www.sitefinity.com/privacy-policy) for the most accurate reproduction.*
 
 # Sitefinity Privacy Policy
 
