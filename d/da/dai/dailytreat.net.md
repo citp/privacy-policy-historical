@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailytreat.net privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613115554id_/http%3A//www.dailytreat.net/about/%3Fshow%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytreat.net privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232008id_/http%3A//dailytreat.net/about/%3Fshow%3Dprivacy) for the most accurate reproduction.*
 
-# Daily Treat - About Us
+# Daily Treat
 
 Last Revised: 23 June 2015 General Dailytreat.net ("we", "us" or the "Company") is firmly committed to ensure that the personal information that users ("user" or "you") share with us or with other users by accessing our website available at: http://dailytreat.net/ (the "Service") is safeguarded and protected. This Privacy Policy outlines our practices with respect to the information we may collect from you when you use the Service, the manners in which we may use such information and the choices that available for you.
 
