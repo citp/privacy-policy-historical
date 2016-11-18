@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the sat-universe.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616031338id_/http%3A//www.sat-universe.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sat-universe.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234440id_/http%3A//www.sat-universe.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
-Privacy Policy Statement This is the web site of **Sat Universe**. 
+Privacy Policy Statement This is the web site of **Sat Universe**.  
+
 
 Nothing is more important to Sat Universe than protecting the private information of visitors to our site. Below you'll find information about our commitment to ensuring the privacy of your and your children's personally identifiable information (such as your full name, address, email address, telephone number and/or other identifying information) and preserving the integrity of the medium.
 
