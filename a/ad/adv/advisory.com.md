@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the advisory.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406054735id_/https%3A//www.advisory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advisory.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118154408id_/https%3A//www.advisory.com/privacy-policy) for the most accurate reproduction.*
 
-# The Advisory Board Company - Privacy Policy
+# Privacy Policy | Advisory Board
 
 The Advisory Board Company (which is referred to in this Privacy Policy as the “Advisory Board,” “us,” “we” or “our”) operates multiple websites, including www.advisory.com, www.eab.com, and www.americanhealthline.com, and several web-based applications and online services (each an “Advisory Board website”, collectively, the “Advisory Board websites”). This Privacy Policy is intended to inform you, a visitor to the Advisory Board websites, of our policies and practices regarding the collection, use, and disclosure of any Personal Information the Advisory Board websites collect or receive. The Advisory Board will not use Personal Information provided through your use of Advisory Board websites except as set forth in this Privacy Policy. 
 
