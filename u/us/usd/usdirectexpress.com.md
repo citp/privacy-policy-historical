@@ -1,7 +1,11 @@
-> *The following text is extracted and transformed from the usdirectexpress.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909010328id_/https%3A//www.usdirectexpress.com/edcfdtclient/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usdirectexpress.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118053203id_/https%3A//www.usdirectexpress.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Direct Express ®
+# Direct Express® - Privacy policy
 
-| 
+## Privacy Policy
 
-We and our agents, acting on our behalf, collect nonpublic personal information about you (e.g., your name, address, telephone number, social security number, and date of birth) from the following sources: information we receive from you on applications/enrollments forms for the Card; and information about your Transactions with us or with others, including but not limited to the Agency. We do not release personal nonpublic financial information obtained in connection with this Card program about current or former Cardholders to anyone, except: to process and/or enforce Transactions with us and with others; to facilitate your Card enrollment and Agency payments/adjustments; as permitted or required by law, regulation, legal process or court order; to report to local, state and federal authorities if we believe a crime may have been committed involving a Card; or as otherwise requested by you. We restrict access to nonpublic personal information about you to our agents and employees who have a need to know that information in order to process your Card and Transactions. We maintain physical electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information. 
+We, and our agents acting on our behalf, collect nonpublic personal information about you (your name, address, telephone number, social security number and date of birth) from information on your card application or enrollment form and information from your transaction history.
+
+We do not release personal nonpubllc financial information obtained in connection with this card program about current or former cardholders to anyone, except: to process and/or enforce transactions with us and with others; to facilitate your card enrollment and agency payments/adjustments; as permitted or required by law, regulation, legal process or court order; to report to local, state and federal authorities if we believe a crime may have been committed involving a card; or as otherwise requested by you.
+
+We restrict access to nonpublic personal information about you to our agents and employees who have a need to know that information in order to process your card and transactions. We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
