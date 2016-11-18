@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the glarysoft.com privacy policy that was archived on 2016-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160606214511id_/http%3A//www.glarysoft.com/inf/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the glarysoft.com privacy policy that was archived on 2016-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161118230623id_/http%3A//www.glarysoft.com/inf/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,9 +10,10 @@
 <link href="/css/global.css?1411181123" rel="stylesheet" rev="stylesheet" type="text/css">
 <link href="/css/new.css?141112:0442" rel="stylesheet" rev="stylesheet" type="text/css">
 <link href="/css/layout.css?141112:0442" rel="stylesheet" rev="stylesheet" type="text/css">
+<link type="text/css" href="/css/content.css?161021:1053" rel="stylesheet">
 <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,800,700" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//widget.uservoice.com/BxLHgOswbyOoXEhJIct0A.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4"></script><script type="text/javascript" src="/js/jquery.min.js"></script>
-<script language="javascript" type="text/javascript" src="/js/index.js?141112"></script>
+<script type="text/javascript" async="" src="//widget.uservoice.com/BxLHgOswbyOoXEhJIct0A.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4"></script><script type="text/javascript" src="/js/jquery.min.js?161014:0914"></script>
+<script language="javascript" type="text/javascript" src="/js/index.js?160729"></script>
 <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=glarysoft"></script>
 <!--[if IE 6]>
  <script src="/js/DD_belatedPNG_0.0.8a-min.js"></script>
@@ -24,13 +25,25 @@
 </head>
 <body>
 <div id="fb-root"></div>
-<script>(function(d, s, id) {
+<script>
+(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
   fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-7622269-5', 'auto');
+  ga('send', 'pageview');
+
+</script>
 <div class="header_wrap">
 	<div class="header">
     <div class="headcon">
@@ -74,7 +87,7 @@
                 </li>
                 <li id="downloads"><a href="/downloads/" class="arrow" target="_self">Downloads</a>
                 </li>
-                <li id="shop"><a href="/glary-utilities-pro/purchase/" class="arrow" target="_self">Shop</a></li>
+                <li id="shop"><a href="/store/" class="arrow" target="_self">Shop</a></li>
                 <li id="support"><a href="/support/" class="arrow" target="_self">Support</a>
                     <div class="subnavpart">
                         <p class="subnavtop"></p>
@@ -268,6 +281,19 @@ Policy</a><span>|</span><a href="/inf/termsofuse/">Terms of Use</a>
     </div>  
 </div>
 <script type="text/javascript">
+$(".downtothanks").click(function(){
+	var oldsw = $(this).attr("oldsw");
+	var sw = $(this).attr("sw");
+	if(sw == 'mh'){
+		setTimeout('location.href="/downloadthanks/mh/'+oldsw+'/";', 800);
+	}else if(sw == 'gu'){
+		setTimeout('location.href="/downloadthanks/gu/'+oldsw+'/";', 800);
+	}else if(sw == 'su'){
+		setTimeout('location.href="/downloadthanks/su/'+oldsw+'/";', 800);
+	}
+});
+</script>
+<script type="text/javascript">
 /*feedback&support*/
 (function(){
 	var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/BxLHgOswbyOoXEhJIct0A.js';
@@ -287,17 +313,5 @@ function googleTranslateElementInit() {
 }
 </script>
 <script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-<script type="text/javascript">
-var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', 'UA-7622269-5']);
-	_gaq.push(['_setDomainName', '.glarysoft.com']);
-	_gaq.push(['_trackPageview']);
-(function() {
-  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-</script>
-
 
 </body></html>
