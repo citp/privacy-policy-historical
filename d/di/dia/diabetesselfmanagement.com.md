@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diabetesselfmanagement.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622211405id_/http%3A//www.diabetesselfmanagement.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetesselfmanagement.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235923id_/http%3A//www.diabetesselfmanagement.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Diabetes Self-Management
 
@@ -109,3 +109,5 @@ By using this Site, you signify your acceptance of our Privacy Policy. If you do
 11\. **Contact Us**
 
 If you have any questions or comments regarding our privacy practices, you may contact us at webmaster@diabetesselfmanagement.com. 
+
+_Page updated on June 20, 2016._
