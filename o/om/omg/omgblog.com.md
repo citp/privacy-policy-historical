@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omgblog.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627235326id_/http%3A//www.omgblog.com/2003/07/_omg_blog_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgblog.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118230833id_/http%3A//www.omgblog.com/2003/07/_omg_blog_privacy_policy.php) for the most accurate reproduction.*
 
 # !! omg blog !! Privacy Policy | !! omg blog !! [the original, since 2003] [the original, since 2003]
 
@@ -13,9 +13,10 @@ If you do not wish to receive such mailings, please let us know by clicking the 
 
 If you have questions or comments regarding !! omg blog !! privacy practices, you can contact us at “tips [at] omgblog [dot] com”.
 
+**» share:**
+
   
 
 
-  
 **»** posted by Frank on **Sunday, July 20th, 2003**   
 
