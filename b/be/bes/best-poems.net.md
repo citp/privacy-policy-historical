@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-poems.net privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315132527id_/http%3A//www.best-poems.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-poems.net privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118224131id_/http%3A//www.best-poems.net/privacy_policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Best Poems
 
