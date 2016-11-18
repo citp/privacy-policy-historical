@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tentonhammer.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328015713id_/http%3A//www.tentonhammer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tentonhammer.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118223313id_/http%3A//www.tentonhammer.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Ten Ton Hammer
+# Ten Ton Hammer | Privacy Policy
 
 Although we hope that our members get to know each other, you are not required to provide Personal Information to any member, and you should NEVER give your password to another member. Ten Ton Hammer encourages parents or guardians of minor members to be diligent and to supervise what their wards or children reveal to others. If you have problems with another member, or another member or visitor is not abiding by this Privacy Policy, please contact one of our administrators.
 
