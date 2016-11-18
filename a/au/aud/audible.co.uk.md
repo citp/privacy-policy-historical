@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the audible.co.uk privacy policy that was archived on 2015-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150120161102id_/http%3A//www.audible.co.uk/privacy-policy/ref%3Dmn_anon-h_f6_pn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audible.co.uk privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231109id_/http%3A//www.audible.co.uk/privacy-policy/ref%3Dmn_anon-h_f6_pn) for the most accurate reproduction.*
 
 # Audible.co.uk Privacy Notice | Audible.co.uk
 
-Last updated: 4th May 2011
+Last updated: 1st November, 2016
 
 Audible.co.uk knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes the privacy policy of Audible.co.uk. **By visiting Audible.co.uk, you are accepting and consenting to the practices described in this Privacy Notice.**
 
-Any personal information provided to or gathered by Audible.co.uk is controlled Audible Ltd of Colet Court, 100 Hammersmith Road, London W6 7JP, United Kingdom .
+Any personal information provided to or gathered by Audible.co.uk is controlled Audible Ltd of 26-28 Glasshouse Yard, London EC1A 4JU, United Kingdom .
 
-As a subsidiary of Amazon.com, Inc., Audible, Inc. and its controlled EU subsidiaries are participants in the Safe Harbour programme developed by the US Department of Commerce and the European Union. Amazon has certified that they adhere to the Safe Harbour Privacy Principles agreed upon by the US and the EU. For more information about the Safe Harbour and to view these Audible Group companies' certification, visit the U.S. Department of Commerce's Safe Harbour website. If you would like to learn more about the Audible Safe Harbour programme, please send an e-mail to safeharbor@amazon.com.
+Audible, Inc is a subsidiary of Amazon.com, Inc. Amazon.com, Inc. participates in the EU-US Privacy Shield framework. Click here to learn more.
 
 Back to Top
 
@@ -21,7 +21,8 @@ Here are the types of information we gather
   1. **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. Click here to see examples of what we collect  . You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customising future shopping for you, improving our stores, and communicating with you. 
   2. **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies" and we obtain certain types of information when your Web browser accesses Audible.co.uk or advertisements and other content served by or on behalf of Audible.co.uk on other Web sites. Click here to see examples of the information we receive. 
   3. **E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Audible.co.uk if your computer supports such capabilities. We also compare our customer list to lists received from other companies in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your Contact Preferences.
-  4. **Information from Other Sources:** We might receive information about you from other sources and add it to our account information. Click here to see examples of the information we receive.
+  4. **Mobile:** When you download or use apps created by Amazon or our subsidiaries, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content. Most mobile devices allow you to turn off location services. For more information about how to do this, click [here](https://www.amazon.co.uk/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=502584#GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_22160257376047E78334D565CD73852D). 
+  5. **Information from Other Sources:** We might receive information about you from other sources and add it to our account information. Click here to see examples of the information we receive.
 
 
 
@@ -119,5 +120,18 @@ Examples of information we receive from other sources include demographic inform
 **Information You Can Access**
 
 Examples of information you can access easily at Audible.co.uk include: up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications preferences, shipping and billing addresses); credit card information; and your Wish List. Other Audible-specific information that can be accessed includes your Membership/Account details, Your Content Library (My Library), Your Past Reviews and Ratings, and Your Download Preferences. 
+
+**EU-US Privacy Shield**
+
+Amazon.com, Inc. and certain of its controlled US affiliates (together, the Amazon Group Companies, or “We”) participate in the EU-US Privacy Shield Framework regarding the collection, use, and retention of personal information from European Union member countries. We have certified with the Department of Commerce that we adhere to the Privacy Shield Principles. To learn more about the Privacy Shield Principles, click [here](https://www.commerce.gov/tags/eu-us-privacy-shield). If you have any inquiries or complaints about our handling of your personal data under Privacy Shield, or about our privacy practices generally, please contact us at: **privacyshield@amazon.com**. We will respond to your inquiry promptly. If we are unable to satisfactorily resolve any complaint relating to the Privacy Shield, or if we fail to acknowledge your complaint in a timely fashion, you can submit your complaint to TRUSTe, which provides an independent third-party dispute resolution service based in the United States. TRUSTe has committed to respond to complaints and to provide appropriate recourse at no cost to you. To learn more about TRUSTe’s dispute resolution services or to refer a complaint to TRUSTe, visit [here](https://www.truste.com/consumer-resources/). If neither Amazon nor TRUSTe resolves your complaint, you may pursue binding arbitration through the Privacy Shield Panel. To learn more about the Privacy Shield Panel, click [here](https://www.commerce.gov/tags/eu-us-privacy-shield). As explained [here](http://www.audible.co.uk/legal-terms/privacy-policy/ref=mn_anon-h_f6_pn?moduleId=201648650#q3) we sometimes provide personal information to third parties to perform services on our behalf. If we transfer personal information received under the Privacy Shield to a third party, the third party’s access, use, and disclosure of the personal data must also be in compliance with our Privacy Shield obligations, and we will remain liable under the Privacy Shield for any failure to do so by the third party unless we prove we are not responsible for the event giving rise to the damage. You can review our Privacy Shield registration [here](https://www.privacyshield.gov/participant?id=a2zt0000000TOWQAA4). The Amazon Group Companies are subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). We may be required to disclose personal information that we handle under the Privacy Shield in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
+
+**AMAZON GROUP COMPANIES**
+
+As of September 30, 2016, the following entities are included in Amazon.com, Inc.’s Privacy Shield Certification: 
+
+* Amazon.com, Inc.
+* Amazon Media Group LLC
+* Amazon Web Services, Inc.
+* Audible, Inc.
 
 Back to Top
