@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the prosperworks.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601015957id_/https%3A//www.prosperworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosperworks.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118111538id_/https%3A//www.prosperworks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ProsperWorks CRM for Google Apps
 
 **ProsperWorks, Inc.  
-221 Main St #1350  
+301 Howard St. #600  
 San Francisco, CA 94105  
 Date of Last Revision: May 25, 2016 **
 
@@ -118,4 +118,6 @@ In order to view our relationship with TRUSTe please visit the validation page v
 
 The Services and our business may change from time to time. As a result, at times it may be necessary for ProsperWorks to make changes to this Privacy Policy. ProsperWorks reserves the right to update or modify this Privacy Policy at any time and from time to time. We will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site of any material changes to this Privacy Policy. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
 
-If you have questions about this Privacy Policy, please contact us using one of the methods specified at https://www.prosperworks.com/contact or by emailing us at [privacy-questions@prosperworks.com](mailto:privacy-questions@prosperworks.com). Our address is ProsperWorks, Inc., 221 Main St. #1350, San Francisco, CA 94105.
+If you have questions about this Privacy Policy, please contact us using one of the methods specified at https://www.prosperworks.com/contact or by emailing us at [privacy-questions@prosperworks.com](mailto:privacy-questions@prosperworks.com). Our address is ProsperWorks, Inc., 301 Howard St. #600, San Francisco, CA 94105.
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=67abc16c-0fcd-4810-914a-cff1f61b4774 "TRUSTe Privacy Certification")
