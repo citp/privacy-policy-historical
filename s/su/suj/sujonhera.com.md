@@ -1,18 +1,22 @@
-> *The following text is extracted and transformed from the sujonhera.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610113236id_/http%3A//sujonhera.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sujonhera.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118224700id_/http%3A//sujonhera.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Personal Data collected for the following purposes and using the following services:**
+__Last Updated: January 20, 2015 at 10:04 pm
+
+__1236 Views
+
+ **Personal Data collected for the following purposes and using the following services:**
 
 Analytics:
 
-***** Google Analytics**  
+ ***** Google Analytics**  
 **Personal Data:** Cookie and Usage Data  
 Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of [**sujonhera.com**](http://sujonhera.com/), to prepare reports on its activities and share them with other Google services.
 
 Google may use the data collected to contextualize and personalize the ads of its own advertising network.
 
-**Personal data collected:** Cookie and Usage Data. Place of processing: USA. Find Google’s [**privacy policy here**](http://www.google.com/intl/en/policies/privacy/).  
+ **Personal data collected:** Cookie and Usage Data. Place of processing: USA. Find Google’s [**privacy policy here**](http://www.google.com/intl/en/policies/privacy/).  
 *** You can opt out by clicking [ **Opt Out**](https://tools.google.com/dlpage/gaoptout?hl=en).
 
 Adsense:  
@@ -20,13 +24,13 @@ Adsense:
 
 which tracks the use of [**sujonhera.com**](http://sujonhera.com/) and user behavior concerning ads, products and the services we offer.
 
-**Personal Data collected:** Cookie and Usage Data. Place of processing: USA. You can find [**Adsense Privacy Policy here**](http://www.google.com/policies/privacy/ads/).
+ **Personal Data collected:** Cookie and Usage Data. Place of processing: USA. You can find [**Adsense Privacy Policy here**](http://www.google.com/policies/privacy/ads/).
 
 What do we do with your data?
 
 The data concerning the user is collected to allow the Application to provide its services, as well as for the following purposes: Analytics and Interaction with external social networks and platforms. By any mean, we don’t use your data for any other purposes.
 
-**We don’t sell your data  or modify it or use if by any other means.**
+ **We don’t sell your data  or modify it or use if by any other means.**
 
 Do we use cookies?  
 Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.  
