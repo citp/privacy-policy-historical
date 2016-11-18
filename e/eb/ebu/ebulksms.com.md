@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebulksms.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628202901id_/http%3A//www.ebulksms.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebulksms.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232404id_/http%3A//www.ebulksms.com/pages/privacy) for the most accurate reproduction.*
 
-# Our Privacy Policy - Best Bulk SMS Platform in Nigeria
+# Our Privacy Policy - Bulk SMS Platform in Nigeria
 
 Ebulk SMS is committed to protecting the privacy and security of our customers and will like to certify that our users are fully informed about the way information is collected and used. The following sets forth the policies for the collection and use of personally identifiable information by Ebulk SMS.
 
