@@ -1,9 +1,15 @@
-> *The following text is extracted and transformed from the iniz.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322191115id_/https%3A//iniz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iniz.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118044225id_/https%3A//iniz.com/privacy-policy) for the most accurate reproduction.*
 
 # INIZ - Privacy Policy
 
+* * *
+
+* * *
+
 **What information do we collect?  
-**We collect information from you when you register on our site, place an order or subscribe to our newsletter.
+**
+
+We collect information from you when you register on our site, place an order or subscribe to our newsletter.
 
 Any data we request that is not required will be specified as voluntary or optional.
 
@@ -54,7 +60,7 @@ As part of the California Online Privacy Protection Act, all users of our site m
 **This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 **Terms and Conditions  
-**Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [here](https://web.archive.org/web/20160322191115id_/https%3A//iniz.com/terms).
+**Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [here](https://web.archive.org/web/20161118044225id_/https%3A//iniz.com/terms).
 
 **Your Consent  
 **By using our site, you consent to our privacy policy.
