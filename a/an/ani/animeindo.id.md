@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the animeindo.id privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605030353id_/http%3A//animeindo.id/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeindo.id privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119003140id_/http%3A//animeindo.id/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Animeindo.id
+# Privacy Policy - Animeindo.id
 
 At Animeindo.id, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Animeindo.id and how it is used.
 
