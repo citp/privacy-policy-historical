@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escanav.com privacy policy that was archived on 2015-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151117230325id_/http%3A//www.escanav.com/en/about-us/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escanav.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118225622id_/http%3A//www.escanav.com/en/about-us/privacy-policy.asp) for the most accurate reproduction.*
 
 # eScan : Secure – Scalable – Reliable : Antivirus, Content Security and Firewall Protection for Servers and Endpoints
 
@@ -27,12 +27,12 @@ MicroWorld makes sure that any online communication with its customers meets the
 
   * Will MicroWorld share any of your personal information?
 
-NO. It is against MicroWorld's basic policies to share any information that is deemed to be personal. MicroWorld will not trade, sell or rent your personal information (such as name, address, phone number, or company name) to third parties without your consent. And, MicroWorld also protects your privacy by limiting employee access to customer data. While MicroWorld may provide statistics to outside companies about its customers, including sales and related site information, it will not include any personally identifying information. This personal information is used by MicroWorld to constantly improve its relationships with you. 
+NO. It is against MicroWorld's basic policies to share any information that is deemed to be personal. MicroWorld will not trade, sell or rent your personal information (such as name, address, phone number, or company name) to third parties without your consent. And, MicroWorld also protects your privacy by limiting employee access to customer data. While MicroWorld may provide statistics to outside companies about its customers, including sales and related site information, it will not include any personally identifying information. This personal information is used by MicroWorld to constantly improve its relationship with you. 
 
 
 
 
-  * Will MicroWorld change its' policy?
+  * Will MicroWorld change it's policy?
 
 When you browse this website, you agree to the collection and use of your information by MicroWorld. If MicroWorld alters its privacy policy in any way, the changes will be posted here for your ready reference. 
 
