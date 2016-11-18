@@ -1,39 +1,17 @@
-> *The following text is extracted and transformed from the downloaddailymotion.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614145636id_/http%3A//www.apowersoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloaddailymotion.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118222544id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Apowersoft Privacy Policy
+# Legal
 
-Apowersoft is committed to protecting and respecting your privacy. The policy described on this page sets out the basis on which the personal data received from you will be processed by us. It also has supplemental information about the particular sites and service that you can utilize. Please read the following terms carefully to understand our views and practices regarding your personal data and how we will treat it. Mind that some of our subordinate sites not mentioned here may have their own privacy statements on related pages. If you have any questions, please feel free to [contact us](https://web.archive.org/web/20160614145636id_/http%3A//www.apowersoft.com/company/contact.html).
+* * *
 
-## Information we may receive from you
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-First of all, note that we may collect and process some basic information for providing eligible product and service to you. However, our software products do not send out any information in any cases. It means that your information is totally safe when using our software with internet connection. Below are the exact terms of information we will collect from you in using our software with security protection.
-
-### 1\. Email Address
-
-Our software will receive email address from users who have purchased our software. The email address is required for generating license key and your user profile in our system. Also, it's required to get in touch with you wherever you need tech support or enquiry on our service. Moreover, if you agree to opt to our newsletter, you will also need to provide an email address. Note that we will keep our user email address in the database with restrict confidential protection.
-
-### 2\. Purchase Information
-
-When you have placed an order on our software, we need to collect user information during the process. However, this information is collected from the registered e-commerce provider – [Avangate](http://www.avangate.com/shopper-support/) with our authorization. Avangate is one of the most famous e-commerce companies in the world and known for their professional market-proven shopping cart solution for customers from all over the world. We do not receive the information like credit card number which is processed by Avangate only. Avangate has their own [privacy policy](http://www.avangate.com/privacy.php) to ensure that none of your information will be shared in any forms. We only collect the basic information to generate a record for your order in our system, while such record is also under privacy protection.
-
-### 3\. IP Address and Cookies
-
-Our website and online applications use cookies. A cookie is actually a small file of letters and numbers that will be put onto your computer only with your permission. These safe cookies help us distinguish your computer from others in the internet. So it helps us to provide you with nice experience when you browse our website or using our apps. On the other hand, the cookies also let us optimize our product and website gradually for your satisfaction. The information about our use of cookies:
-
-  * Analytical Cookies. These cookies allow us to recognize and calculate the number of website visitors and how they navigate on our web pages. This helps us to improve our site by ensuring users can get the contents they're looking for efficiently.
-  * "Strictly necessary" cookies. These are required for the operation of our website and online applications. For example, the cookies which require you to activate the apps on web pages.
-  * "Targeting" cookies. These cookies record your visiting path to our site or apps. The information will be used by us to find out your interest and present the things you want to see in your next time's visit.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
 
-If you do not want to have a cookie set when visiting our website, you're allowed to change the settings in your browser in order to prevent cookies. However, by doing so, you may not have full access to some of our pages.
-
-### 4\. Uploaded Files
-
-Some of our online/desktop applications provide free web hosting service for you. If you want, you may upload the files generated by these applications to the cloud server of our company and access them at any time as you want. Every file uploaded this way can be used by its owner only while none of the others can access it. We guarantee the safety of all your files stored on our server.
-
-## How We Store Your Data and Files
-
-The data we collected from you will be transferred and saved in log files on the web server. The related information includes Internet Protocol (IP) address, Internet Service Provider (ISP), referring/exit pages, operating system, click stream data, date/time stamp and browser type. We make use of this information which is not associated with individual users to analyze the overall trends of our visitors, visiting paths, demographic information and others as a whole. Mind that we will never use the information collected this way to market directly to any people or expose it in any situations.
-
-And about the files uploaded by our users as mentioned, we will keep them safe on our server with security protection. We will not clean or modify any files unless the users require us to do so.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
