@@ -1,110 +1,246 @@
-> *The following text is extracted and transformed from the z.com privacy policy that was archived on 2006-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061115101532id_/http%3A//www.nissanusa.com/global/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the z.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118215244id_/https%3A//www.gmo.jp/en/privacy) for the most accurate reproduction.*
 
-# Nissan Privacy
+# Privacy Policy - GMO Internet, Inc.
 
-Nissan North America collects information from our users at several different points on our Web site. Nissan North America is the sole owner of the information collected on this site (except that our subsidiary Nissan Motor Acceptance Corporation owns information collected from credit pre-approval applications). We will not sell or rent this information to others. We will only share this information with our affiliates and dealers, and marketing partners contracted to do business on our behalf (e.g., brochure fulfillment).
+GMO Internet, Inc. (hereafter “GMO Internet”,“we” or “our”) recognizes the importance of protecting personal information in the operation of its Internet Infrastructure and Online Advertising and Media, Internet Securities and Mobile Entertainment businesses and the entire company adheres strictly to the following Privacy Policy.  
+We also cooperate with distributors, industry organizations and government agencies related to its Internet Infrastructure business Online Advertising & Media, Internet Securities and Mobile Entertainment businesses and seek to gain customer trust by taking an aggressive approach to protect personal information. 
 
-Nissan North America uses two types of user information: anonymous information gathered from cookies and log files, and personal information you provide us for certain services. See below for definitions of each of these methods.
+1.Privacy Policy
 
-(Effective April 14, 2005)
+GMO Internet complies with laws and ordinances of Japan, including the Act on the Protection of Personal information, provisions of telecommunications business law relating to privacy of communications (hereafter “the laws”), the Guidelines for the Protection of Personal Information in the Telecommunications Business Field (hereafter “the guidelines”), and our own internal regulations. The following privacy policy was implemented with the objective of ensuring that personal information handled in the course of business operations is appropriately managed and protected, and to operate and improve a personal information protection system that is trusted by stakeholders including customers, vendors and stockholders (hereafter “stakeholders” or “you”) as well as directors and staff of GMO Internet (hereafter “employees”). 
 
-Anonymous Information - Cookies and Log Files
+Compliance with Laws and Regulations 
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to personal information, until a user provides that information (see below). If a user rejects or deletes the cookie, he/she may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to receive notification of special offers, or participate in any contests that may take place. Cookies also enable us to track and aggregate clickstream behavior data. By doing this we can better target the interests of our users and enhance their experience on our site.
+  * In the acquisition, usage and all other handling of stakeholder personal information, GMO Internet complies with the laws, the guidelines and this Privacy Policy.
 
-Nissan also maintains standard web logs that record data about all visitors to this Web site. These logs may contain:
+Declaration of Specific Usage Purposes
 
-  * The Internet domain from which you access this site.
-  * Your IP address (Your computer is automatically assigned an IP address when you surf the Internet. Your IP address is either static or dynamic. A static IP address may be identifiable to you; a dynamic address is usually not identifiable to you).
-  * The type of browser and operating system you use.
-  * The date and time you visited this site.
-  * The pages you viewed on this site.
-  * The address of the Web site from which you linked.
+  * GMO Internet determines and declares in advance the purpose of use of personal information obtained, to the extent possible. When personal data is obtained directly as a result of details provided by a stakeholder in a contract or other documents, the purpose of use shall be explicitly stated in advance. Please refer to the following usage purposes of each service provider. 
 
+Use within the Scope of Usage Purposes 
 
+  * GMO Internet uses stakeholder personal information only to the extent necessary to achieve previously determined and declared usage purposes. However, we may use stakeholder personal information outside the scope of usage purposes where provided for in Article 6, paragraph 3 of the guidelines.
 
-Nissan uses web log and clickstream information to help us design our site, to identify popular site features and to make the site more useful for visitors. Web logs are recorded in sequential files, and we normally do not attempt to identify individuals from these logs. However, we may use web logs to identify persons attempting to break into, disrupt, or damage our Site. We may share web log information with law enforcement personnel if we believe evidence exists, or is likely to occur, of a violation of federal, state or local laws or regulations.
+Period of Retention
 
-Nissan advertising at other non-Nissan sites may be serviced by Nissan service providers, who may use cookies to collect information about your visits to those sites. Information collected may include the pages visited, date and time, browser information and/or IP address. We normally make no attempt to link this information to you personally, except under circumstances described above. This information is gathered in order to help us customize and target our advertising to the needs and interests of our customers. If you wish to opt out of this tracking at our advertising at third party sites, please visit the site of our service provider, [Centrport](http://www.centrport.com/company/privacy_policy.html). Should you decide that you do not wish to participate in CentrPort-enabled information delivery, you can opt out from there, or by [clicking here.](http://www.centrport.com/optxout.html)
+  * Except where otherwise prescribed by law, GMO Internet determines the length of time it is necessary to retain stakeholder personal information to achieve the objectives of pre-disclosed usage purposes. At the expiry of this period or when the objectives of the usage purposes are achieved, stakeholder personal information is promptly destroyed. However this limitation does not apply in cases specified in Article 10, paragraph 2 of “the guidelines”.
 
-Volunteering Personal Information
+Secure Information Management 
 
-Users may choose to volunteer personal information (name, e-mail address, phone number, etc.) in order for us to provide them with services such as brochure and information requests, surveys and contests, site announcements, and special offers at the time of the request or in the future. If you previously gave us your e-mail address and no longer wish to receive e-mail announcements, you can have your name removed from our e-mail list by sending an e-mail to [unsubscribe@NissanUSA.com](mailto:unsubscribe@NissanUSA.com), calling, or by sending regular mail (see contact information below).
+  * GMO Internet strives to maintain current and accurate records of stakeholder personal information, and take necessary and appropriate measures to ensure secure management in order to safeguard against unauthorized access, falsification and damage.
 
-Nissan does not sell or rent user information to any third parties. We share user information with our affiliates and dealers, and marketing partners contracted to do business on our behalf (e.g., brochure fulfillment). When the user signs up for certain services and offers on our site, we will share names, or other contact information necessary for any associate third party to provide these services. Nissan will share user information in accordance with the privacy policy in effect at the time the information is collected.
+Employee Supervision
 
-If a user's personal information changes, we will endeavor to provide a way to correct or update that user's personal data provided to us. This can be done by e-mailing [privacy@NissanUSA.com](mailto:privacy@NissanUSA.com) or by contacting Nissan Consumer Affairs as outlined below.
+  * GMO Internet conducts necessary and appropriate supervision of employees to ensure secure management of stakeholder personal information. In addition we conduct training to ensure employees handle personal information appropriately. 
 
-E-mail a Friend
+Subcontractor Supervision
 
-If a user elects to e-mail a friend from this Web site, a function available from the Design Your Vehicle page, we ask for the friend's e-mail address. Nissan North America captures this information for the sole purpose of sending this one-time e-mail.
+  * GMO Internet may entrust some or all of the handling of stakeholder personal information to a third party within the scope of usage purposes. When selecting subcontractors, we verify that personal information is handled suitably and demand that stakeholder personal information be handled appropriately. In addition GMO Internet conducts necessary and appropriate supervision of the subcontractor through measures such as the inclusion in contracts of provisions relating to the auditing of personal information. 
 
-Security
+Provision of Information to Third Parties
 
-Nissan takes all reasonable precautions to protect our users' information, both while the information is being transmitted and after it is received by us.
+  * GMO Internet will not disclose stakeholder personal information to third parties without consent, except where provided for under Article 15, paragraph 1 of the guidelines or where otherwise allowed by law. 
 
-When our credit pre-approval form asks users to enter sensitive information (such as social security number), that information is encrypted and is protected with SSL 128-bit encryption software, an industry standard for reputable organizations. While on a secure page, such as our credit pre-approval application form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked, or open, when you are just "surfing." For more information on the Nissan Motor Acceptance Corporation (NMAC) privacy notice, see "NMAC Privacy Policy" below.
+Shared Usage
 
-Furthermore, once the information has been received by us, we use security procedures and policies commensurate with industry standards to safeguard against loss, theft, unauthorized access, destruction, use, modification and disclosure. If you have any questions about the security of our Web site, you can send an e-mail to [privacy@NissanUSA.com](mailto:privacy@NissanUSA.com).
+  * Where certain personal information is supplied to a third party as allowed for under Article 15 paragraph 4 of the guidelines, GMO Internet is not required to treat that party as a third party and may entrust the handling of stakeholder personal information, provide or share the use of stakeholder personal information with specified individuals without obtaining prior consent from the stakeholders. The scope of shared use is confined mainly to the GMO Internet Group. However, information may also be shared with other specified parties. Details of shared stakeholder personal information, usage purposes and the relevant privacy officer are listed below.
 
-Links
+Requests for Disclosure etc.
 
-This Web site contains links to other sites. Please be aware that Nissan North America is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each Web site that collects personal information. This privacy statement applies solely to information collected by this Web site.
+  * Stakeholders wishing to be informed of the usage purposes of personal information, or who seek disclosure, correction, addition or removal of details, or who wish to prevent GMO Internet or a third party using personal information should apply in accordance with our procedures. Please refer below to the procedures for requesting disclosure of personal information.
 
-Notification of Changes
+Management of Claims
 
-We retain the right to change this privacy policy at any time. We will post those changes to this page so that users are always aware of what information we collect, how we use it, and under what circumstances we disclose it. We will use, share, and disclose all information in accordance with the privacy policy in effect at the time the information was collected.
+  * GMO Internet deals promptly and appropriately with claims and other inquiries from stakeholders regarding the handling of personal information. Please find contact details at the end of this document.
 
-Certain Disclosures
+Handling of Leakages
 
-Nissan may disclose any data, whether personally identifiable or not, to any person performing audit, legal, operational or other similar services for Nissan. Whenever possible, we will require any recipient of personal information for these purposes to agree in writing to hold the information in confidence, to use the information only for the permitted purpose, and to return or destroy the information when the services are completed.
+  * In occurrences such as the leakage of personal information, relevant facts will be promptly provided to stakeholders. and the leakage will be quickly and appropriately handled. 
 
-We may also disclose any data, whether personally identifiable or not, when required to do so by subpoena, court order, or warrant. Whenever feasible, Nissan will notify the effected user by e-mail that such disclosure will or has occurred.
+Ongoing Improvement
 
-We may also disclose any data, whether personally identifiable or not, when we reasonably deem it necessary to protect the safety of (i) an individual, (ii) the public, or (iii) the security and reliability of Nissan and/or this Web site.
+  * GMO Internet strives to continually improve internal handling of personal information through the improvement of internal regulations regarding the protection of personal information and through continued employee training and internal auditing.
 
-Children
-
-Nissan does not knowingly allow anyone under the age of 13 to participate in any services offered on our Web site which requires the submission of user information. If we learn that a user is under 13 and has submitted user information to us, we will delete that information as promptly as possible.
-
-Nissan Contact Information
-
-To contact Nissan online you may click on the "Contact Nissan" link below. To contact Nissan offline you can send mail to:
-
-Nissan North America Consumer Affairs  
-Attn. NissanUSA.com Privacy  
-P.O. Box 685003  
-Franklin TN 37068-5003
-
-Or, during business hours, call 1-800-NISSAN1.
-
-NMAC Privacy Policy
-
-Nissan Motor Acceptance Corporation (NMAC) maintains its own privacy policy, in addition to Nissan North America's web privacy policy. NMAC's policy applies to the portions of the site where consumer credit pre-approval information is collected and to NMAC consumers. NMAC's privacy policy is as follows:
-
-NOTICE OF PRIVACY POLICIES AND PRACTICES  
-(Effective September 30, 2004)
-
-This notice is for customers of: Nissan Motor Acceptance Corporation; its division Infiniti Financial Services; and Nissan-Infiniti LT and Subaru Acceptance Corporation, for whom NMAC and IFS act as Servicer. This notice is given on behalf of both the owner and the servicer, if any, of your lease or contract.
-
-We collect nonpublic personal information about you ("Private Information") from the following sources:
-
-  * Information we receive from you on credit applications or other forms;
-  * Information about your transactions with us, our affiliates, or others; and
-  * Information we receive from consumer reporting agencies (credit bureaus).
+June 1, 2005  
+Masatoshi Kumagai  
+CEO and Representative Director  
+GMO Internet, Inc. 
 
 
 
-Except as permitted by law, we do not disclose to third parties information we obtain from you or others for evaluation of your request for credit, including information: from credit applications; from consumer credit reports; from verification of your application information; and from credit and employment references. Otherwise, we may disclose Private Information about you, as a present or former customer, to:
 
-  * Companies that perform marketing services on our behalf;
-  * Other financial institutions with whom we have joint marketing agreements, including motor vehicle dealers, except where prohibited by state law;
-  * Companies, including motor vehicle dealers, with whom and through whom we offer you incentive, discount or bonus programs, to the extent permitted by state law;
-  * Our affiliates, including our motor vehicle manufacturing, distribution, services and sales affiliates, except where prohibited by law; and
-  * Non-affiliated third parties only as permitted by law.
+2.Usage Purposes of Personal Information
 
+GMO Internet uses personal information to the extent necessary to achieve the following usage purposes for GMO AppsCloud (hereafter “this service”) .
+
+  
 
 
-Except as stated above, we do not share any Private Information with third parties. We restrict access to your Private Information to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard all Private Information.
+  * 1\. For the purpose of tasks relating to provision of services including contract renewal and updating of information.
+  * 2\. To provide information about usage and environment of this service including “Cloud Environment Usage Status”, and “Service Charges and Invoicing”.
+  * 3\. To send out documents relevant to the operation and provision of this service and to provide information related to this service by telephone, email, fax, etc.
+  * 4\. To register to GMO Internet or GMO Internet Group services other than this service, such as content delivery and information processing services, etc.
+  * 5\. To register to services offered by a company to which GMO Internet provides services and to provide information pertaining to those services.
+  * 6\. For the purpose of analysis and to conduct surveys with the objective of improving service and other services provided by GMO Internet and affiliated companies.
+  * 7\. For the purpose of researching and developing new products and services related to this service, GMO Internet or GMO Internet Group.
+  * 8\. To provide systems consultation relating to the use of this service.
+  * 9\. To develop, maintain, and operate hardware equipment related to this service.
+  * 10\. To conduct campaigns associated with this service.
+  * 11\. For the purposes of billing, accounting, invoicing, and debt collection. (Includes cases in which personal information may be handled by a third party.)
+  * 12\. To create and analyze statistics for business analysis.
+  * 13\. To conduct market research and other investigative research in the telecommunications business.
+  * 14\. To audit and monitor the handling of personal information and respond to requests for disclosure under the laws.
+  * 15\. To provide to third parties (only parties that have been approved to handle personal information).
+  * 16\. To manage the contractual relationship with third parties.
+  * 17\. To disclose information requested by Japanese and international public institutions.
+  * 18\. To achieve any other purposes within the scope of the consent provided by the stakeholders.
 
-Back to Top
+
+
+  
+
+
+3.Provision of Information to Third Parties and Shared Usage
+
+Stakeholder personal information acquired from customers of GMO AppsCloud is provided to and shared with other parties as detailed below. Stakeholder personal information shall not be provided to or shared with third parties except in the following cases. GMO Internet is accountable for the management of personal information and shall handle customer inquiries through its Customer Support service.
+
+Personal Information
+
+| **Category** | **Type of Information**  
+---|---  
+Identity Information | Organization name, name, address, telephone number, cellular phone number, fax number, employer details, email address, and contents of contracts etc.  
+Contract Information | Customer number, contract type, application date, contract date, usage dates, product name, contract amount, usage amount, administrator account, password  
+Transaction Information | Monthly charges, payment method, account transfers (account number, name of account holder), card information (card number, name of account holder), etc. associated with the service contract  
+Usage Information | Usage balance, transaction status and history, and other transaction details  
+Personal Identification Details | Details that are listed on copies of applicant etc. Driver's Licenses, Passports, Certificates of Residence, Seal Registration Certificates, and Certificate of Foreign Resident Registrations, etc.  
+  
+**Company Name** | **Personal Information Provided** | **Purpose of Use**  
+---|---|---  
+WELLNET CORPORATION | Billing details (name of company, name of department, position, name of contact, zip code, address), customer number, bank account details (name of financial institution, name of branch, account type) | Billing  
+  
+Note: Personal information may be shared within the GMO Internet Group.
+
+I. Extent of Shared Use
+
+  * GMO Internet Group companies (subsidiaries and affiliated companies listed at the following URL: <http://www.gmo.jp/en/company-profile/groupinfo/>)  
+*The composition of the group is subject to change as a result of new companies being established, group restructuring and other events. Please check the above link for the latest information on the composition of the GMO Internet Group. 
+
+II. Usage Purposes of Personal Information
+
+  * Each company in the GMO Internet Group has defined usage Purposes of personal information. Information shared among group companies shall be used in accordance with the relevant usage purposes.
+
+III. Shared Personal Details
+
+  * Name, address, email address, telephone number, contract details, and other information within the limits of the above usages purposes.
+
+IV. 
+
+  * When the stakeholder personal information is shared outside the group special measures are required.
+
+V. 
+
+  * Stakeholder personal information may be supplied to third parties in the provision of this service only after consent is obtained in advance from the stakeholder.
+
+VI. 
+
+  * In some cases the handling of personal information is entrusted to a company outside the group. However, in these cases GMO Internet only selects companies that have higher personal information protection management standards than our own. Required measures are taken in regard to a duty of confidentiality agreement. At the same time GMO Internet ensures appropriate management and supervision of the concerned company.
+
+VII. 
+
+  * GMO Internet may disclose personal information when ordered to do so by the government or a court order.
+
+
+
+4\. Proper Acquisition of Personal Information
+
+1\. 
+
+  * GMO Internet acquires personal information only as necessary and through appropriate measures.
+
+2\. 
+
+  * GMO Internet may set cookies on client computers for certain reasons. We use personal information (IP address and the account names, passwords and IDs required to use some services) contained in cookies. This information is only used for the purposes listed in the usage purposes stated by GMO Internet. 
+
+3\. 
+
+  * Some emails sent to customers advertising GMO Internet services direct the customer to a URL with parameters (personal URL) that contains encrypted information identifying the customer. Information about customer browsing activity that is collected from these personal URLs may be used by our services, however information is only used for the purposes listed in the usage purposes stated by GMO Internet.
+
+
+
+5.Disclosure of Personal Information
+
+1\. 
+
+  * When an individual seeks disclosure, amendment, deletion or notification of usage purposes in regard to their own personal information (excluding information acquired from stockholders), GMO Internet shall respond within a reasonable time in accordance with the Act on the Protection of Personal Information Articles 25 and 26 following the process determined by GMO Internet and laid out below in section 2. Where no such data exists, the individual shall be informed immediately. (In regard to requests about personal information acquired from stockholders such as transfers and bank accounts to which dividends are paid, it is necessary to inquire to the company’s stockholder register administrator, Mitsubishi UFJ Trust and Banking Corporation. Please see section 6 for details regarding stockholder inquiries.)
+
+2\. 
+
+  * Requests for disclosure etc. shall be dealt with in the following manner. Please be aware that we will not accept requests by telephone, fax, email, verbally or by any method other than that laid out below.
+
+(1)
+
+  * Please contact GMO Internet for the relevant form (Personal information disclosure request, Personal information amendment request, Notification of purpose of usage request).
+
+(2)
+
+  * Fill in the required details.
+
+(3)
+
+  * If applying in person you will need to supply the following documents.
+  * 1) A copy of your Certificate of Residence or certificate of matters in the alien registration records (made within less than a month of submitting the request) and one of the following.
+    * (ⅰ)Driver's license
+    * (ⅱ)Passport copy
+    * (ⅲ)Health insurance copy
+    * (ⅳ)Pension book copy
+    * (ⅴ)Resident's card
+
+(4)
+
+  * If a proxy is applying on your behalf you will need to supply the following documents.
+    * (ⅰ)Original copy of a Certificate of Residence of the relevant person
+    * (ⅱ)Power of Attorney form
+    * (ⅲ)Original Seal Registration Certificate of the person for whom the Power of Attorney form was created
+  * * In case the proxy is a statutory representative, documents verifying the credentials of the representative should be supplied instead of the above in addition to one of the following. 
+    * (ⅳ)he proxy’s driver’s license (copy)
+    * (ⅴ)The proxy’s passport (copy)
+    * (ⅵ)The proxy’s health insurance card (copy)
+    * (ⅶ)The proxy's pension book (copy)
+    * (ⅷ)The proxy's resident’s card (copy)
+
+(5)
+
+  * Please send (2) and (3) (and (4) if the request is being submitted by a proxy) by certified mail to the relevant service (see below) at the following address.
+
+
+  * Address  
+GMO Internet, GMO AppsCloud Personal Information Manager  
+Cerulean Tower, 26-1 Sakuragaoka-cho, Shibuya-ku Tokyo  
+150-8512
+
+
+
+(6)
+
+In regard to requests for notification of purpose of usage and disclosure of personal data, after verifying the identity of the sender of the documents, GMO Internet will send out an invoice for handling fees. Please submit payment by bank transfer to the account listed on the invoice. Any bank transfer costs should be paid by the customer. Handling fees are charged for each service for which information is disclosed.  
+In regard to requests other than notification of purpose of usage and disclosure of personal data, we will proceed as soon as verification is complete  
+Contents | Fee  
+---|---  
+Handling Fee | JPY 5,400  
+(tax included)  
+
+
+
+(7)
+
+In regard to requests for notification of usage purposes and disclosure of personal data, after confirming receipt of payment, GMO Internet will send a response by certified mail.  
+* If you have any queries regarding the response please inquire at the relevant point of contact listed below 6.  
+
+
+6.Claims and Inquiries
+
+Please submit any claims or other inquiries for disclosure in regard to personal information to the points of contact listed below. Please be aware that we will not process requests received in any other form (including visiting our offices in person). 
+
+GMO AppsCloud website <http://cloud.gmo.jp/en/>
+
+[Return to top](https://www.gmo.jp/en/privacy/#pagetop)
