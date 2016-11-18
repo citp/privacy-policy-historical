@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the manaleak.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514062716id_/http%3A//www.manaleak.com/mtguk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manaleak.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118054609id_/http%3A//www.manaleak.com/mtguk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy, Magic the Gathering (MTG) by Manaleak.com
+# Privacy Policy, Magic: The Gathering (MTG) & Miniature Wargames by Manaleak.com
 
 **Manaleak.com Privacy Statement.**
 
@@ -75,3 +75,5 @@ E. [Info@Manaleak.com](http://www.manaleak.com/store/contact_us.php)
 T. 01905 745 032
 
 W. [Manaleak.com](http://www.manaleak.com/)
+
+### Please let us know what you think below...
