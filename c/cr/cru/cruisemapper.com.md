@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cruisemapper.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608011158id_/http%3A//www.cruisemapper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisemapper.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118230026id_/http%3A//www.cruisemapper.com/privacy-policy) for the most accurate reproduction.*
 
-# About | CruiseMapper
+# Privacy | CruiseMapper
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at  _[info@cruisemapper.com](mailto:info@cruisemapper.com)_ or use our [customized contact form](https://web.archive.org/contact). 
 
