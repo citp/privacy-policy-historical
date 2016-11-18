@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keywordrevealer.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620052520id_/http%3A//www.keywordrevealer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordrevealer.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119003423id_/http%3A//www.keywordrevealer.com/privacy.php) for the most accurate reproduction.*
 
 # Keyword Revealer: Privacy Policy
 
