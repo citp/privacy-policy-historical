@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the looper.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623070801id_/http%3A//www.looper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looper.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233142id_/http%3A//www.looper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Looper
 
@@ -38,8 +38,8 @@ The Looper Website may contain links to other web sites ("Linked Sites") operate
 
 **Our Policy Towards Children**
 
-The Looper Website is not directed to children under 18. If a parent or guardian becomes aware that his or her child has provided Looper with personally identifiable information without their consent, he or she should contact Looper at info@Looper.com.  If Looper becomes aware that a child under 13 has provided Looper with personally identifiable information, Looper will remove such information from our files.
+The Looper Website is not directed to children under 18. If a parent or guardian becomes aware that his or her child has provided Looper with personally identifiable information without their consent, he or she should contact Looper at staff@Looper.com.  If Looper becomes aware that a child under 13 has provided Looper with personally identifiable information, Looper will remove such information from our files.
 
 **Changes to this Privacy Policy**
 
-Looper reserves the right to change this policy at any time without prior notice. Any changes to this policy will be posted here.  You are advised to consult this Privacy Policy regularly for any changes. If you have any questions or comments about this Privacy Policy, please contact us at info@Looper.com.
+Looper reserves the right to change this policy at any time without prior notice. Any changes to this policy will be posted here.  You are advised to consult this Privacy Policy regularly for any changes. If you have any questions or comments about this Privacy Policy, please contact us at staff@Looper.com.
