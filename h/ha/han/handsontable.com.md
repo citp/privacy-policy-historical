@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handsontable.com privacy policy that was archived on 2016-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160304065708id_/https%3A//handsontable.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handsontable.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118113930id_/https%3A//handsontable.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Handsontable
 
