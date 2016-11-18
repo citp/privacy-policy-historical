@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smmraja.in privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514053416id_/http%3A//smmraja.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smmraja.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119001709id_/http%3A//smmraja.in/privacy) for the most accurate reproduction.*
 
 # Smm Panel | #1 Social Media Service Provider
 
