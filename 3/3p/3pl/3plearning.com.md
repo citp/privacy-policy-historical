@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3plearning.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612084040id_/http%3A//www.3plearning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3plearning.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000219id_/http%3A//www.3plearning.com/privacy) for the most accurate reproduction.*
 
 # 3P Learning Privacy Policy
 
@@ -45,6 +45,10 @@ _The Australian Privacy Amendment (Enhancing Privacy Protection) Act 2012_
   *  __
 
  _The Personal Information International Disclosure Protection Act (Nova Scotia) (“PIIDPA”)._
+
+  *  __
+
+ _The Municipal Freedom of Information and Protection of Privacy Act, Ontario (“MFIPPA”)_
 
   *  __
 
