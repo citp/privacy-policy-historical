@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the experts.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503015817id_/http%3A//www.experts.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experts.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118230804id_/http%3A//www.experts.com/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
+[](https://web.archive.org/Resources/Detail?ID=549)
+
+[](https://web.archive.org/Resources/Detail?ID=555)
+
+Michael J. Fagel, PhD
+
 [](https://web.archive.org/Resources/Detail?ID=212)
 
-[](https://web.archive.org/Resources/Detail?ID=547)
-
-Joye M. Carter, MD
-
-[](https://web.archive.org/Resources/Detail?ID=498)
-
-Ray Turner, EdD
+Ray Horak
 
 ### Our Commitment To Privacy
 
