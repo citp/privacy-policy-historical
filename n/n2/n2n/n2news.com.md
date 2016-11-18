@@ -1,21 +1,17 @@
-> *The following text is extracted and transformed from the n2news.com privacy policy that was archived on 2015-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151203174222id_/http%3A//www.n2news.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n2news.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118222544id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - N2News - Free or Affordable TV and Movies
+# Legal
 
-##  [ Privacy Policy](http://n2news.com/privacy)
+* * *
 
-**PRIVACY POLICY**
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-YOUR PRIVACY IS VERY IMPORTANT TO US. ACCORDINGLY, WE HAVE DEVELOPED THIS POLICY IN ORDER FOR YOU TO UNDERSTAND HOW WE COLLECT, USE, COMMUNICATE AND DISCLOSE AND MAKE USE OF PERSONAL INFORMATION. THE FOLLOWING OUTLINES OUR PRIVACY POLICY.
-
-  * BEFORE OR AT THE TIME OF COLLECTING PERSONAL INFORMATION, WE WILL IDENTIFY THE PURPOSES FOR WHICH INFORMATION IS BEING COLLECTED.
-  * WE WILL COLLECT AND USE OF PERSONAL INFORMATION SOLELY WITH THE OBJECTIVE OF FULFILLING THOSE PURPOSES SPECIFIED BY US AND FOR OTHER COMPATIBLE PURPOSES, UNLESS WE OBTAIN THE CONSENT OF THE INDIVIDUAL CONCERNED OR AS REQUIRED BY LAW.
-  * WE WILL ONLY RETAIN PERSONAL INFORMATION AS LONG AS NECESSARY FOR THE FULFILLMENT OF THOSE PURPOSES.
-  * WE WILL COLLECT PERSONAL INFORMATION BY LAWFUL AND FAIR MEANS AND, WHERE APPROPRIATE, WITH THE KNOWLEDGE OR CONSENT OF THE INDIVIDUAL CONCERNED.
-  * PERSONAL DATA SHOULD BE RELEVANT TO THE PURPOSES FOR WHICH IT IS TO BE USED, AND, TO THE EXTENT NECESSARY FOR THOSE PURPOSES, SHOULD BE ACCURATE, COMPLETE, AND UP-TO-DATE.
-  * WE WILL PROTECT PERSONAL INFORMATION BY REASONABLE SECURITY SAFEGUARDS AGAINST LOSS OR THEFT, AS WELL AS UNAUTHORIZED ACCESS, DISCLOSURE, COPYING, USE OR MODIFICATION.
-  * WE WILL MAKE READILY AVAILABLE TO CUSTOMERS INFORMATION ABOUT OUR POLICIES AND PRACTICES RELATING TO THE MANAGEMENT OF PERSONAL INFORMATION.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
 
-WE ARE COMMITTED TO CONDUCTING OUR BUSINESS IN ACCORDANCE WITH THESE PRINCIPLES IN ORDER TO ENSURE THAT THE CONFIDENTIALITY OF PERSONAL INFORMATION IS PROTECTED AND MAINTAINED.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
