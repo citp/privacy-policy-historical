@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the gigapurbalingga.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609232058id_/http%3A//gigapurbalingga.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigapurbalingga.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119003423id_/http%3A//gigapurbalingga.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[   
-**Privacy Policy**](http://justgetitfaster.com/mobi?k=83e036d80e0c8adacece9efb27e04829&q=Privacy%20Policy)
 
 This Privacy Policy governs the manner in which GigaPurbalingga collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://gigapurbalingga.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by GigaPurbalingga.
 
@@ -65,7 +62,3 @@ purbalingga, jawa tengah, Indonesia
 gilang@gigapurbalingga.com
 
 This document was last updated on February 21, 2014
-
-[   
-**Privacy Policy**](http://justgetitfaster.com/mobi?k=83e036d80e0c8adacece9efb27e04829&q=Privacy%20Policy)  
-
