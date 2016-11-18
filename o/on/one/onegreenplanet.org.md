@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onegreenplanet.org privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606201054id_/http%3A//www.onegreenplanet.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onegreenplanet.org privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118224433id_/http%3A//www.onegreenplanet.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | One Green Planet
 
@@ -28,7 +28,7 @@ We may use services provided by third parties like [Google Analytics](http://ww
 
 We also use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
-We serve [Ad Council PSAs](http://www.adcouncil.org/) that involves the uses of Google’s DART cookies to serve ads on OneGreenPlanet.org. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>.
+We serve [Ad Council PSAs](http://www.adcouncil.org/) that involves the uses of Google’s DART cookies to serve ads on OneGreenPlanet.org. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>.
 
 One Green Planet has no access to or control over these cookies used by third parties. The OneGreenPlanet.org privacy policy does not apply to, and we cannot control the activities of, such other advertisers, services or web sites.
 
