@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wso2.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616235411id_/http%3A//wso2.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wso2.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118225821id_/http%3A//wso2.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy | WSO2 Inc
-
-## User Information
 
 At WSO2, we recognize that privacy is important. This privacy policy applies to the site and services offered by WSO2 at [http://www.wso2.com](http://www.wso2.com/)
 
