@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peopleschoice.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629234938id_/http%3A//www.peopleschoice.com/pca/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleschoice.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119003301id_/http%3A//www.peopleschoice.com/pca/privacy.jsp) for the most accurate reproduction.*
 
 # People's Choice Awards: Fan Favorites in Movies, Music & TV - PeoplesChoice.com
 
