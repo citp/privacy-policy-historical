@@ -1,19 +1,33 @@
-> *The following text is extracted and transformed from the yankeecandle.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616221058id_/http%3A//www.yankeecandle.com/customer-service/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yankeecandle.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118224342id_/http%3A//www.yankeecandle.com/customer-service/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy & Security | Yankee Candle
 
-By continuing to use our site you agree to us using cookies in accordance with our COOKIE POLICY ACCEPT & CLOSE
+By continuing to use our site you agree to us using cookies in accordance with our [COOKIE POLICY](http://www.yankeecandle.co.uk/pages-uk-en/customer-service/privacy-cookie-policy) ACCEPT & CLOSE
 
 [](https://web.archive.org/customer-service/shipping-information)
 
-[](https://web.archive.org/ "Yankee Candle")
+[](https://web.archive.org/ "logo")
+
+[Logout ](https://web.archive.org/index.jsp?_DARGS=/global/headerSignIn.jsp_A&_DAV=logout)
+
+### ???domainchange.title???
+
+???domainchange.confirmation???  
+
+???domainchange.line2??? 
+
+* * *
+
+  
+
 
   * [Shop By Fragrance](https://web.archive.org/includes/browse/shopByFragrance.jsp "Shop By Fragrance")
   * [Shop by Color](https://web.archive.org/browse/candles/shop-by-color/_/N-9z3 "Shop by Color")
   * [Large Candles](https://web.archive.org/browse/large-candles/_/N-9zn "Large Candles")
   * [New](https://web.archive.org/browse/new-arrivals/_/N-a0g "New")
   * [Personalized Photo Candles](https://web.archive.org/customer-service/customized-candles "Personalized Photo Candles")
-  * [Get the Look](https://web.archive.org/browse/get-the-look-home-dcor/_/N-a2m "Get the Look")
+  * [Get the Look](https://web.archive.org/browse/get-the-look-home-d%C3%A9cor/_/N-a2m "Get the Look")
+  * [Holiday](https://web.archive.org/browse/holiday/_/N-a8x "Holiday")
 
 
 
@@ -165,3 +179,5 @@ IF YOU REPRESENT AN ORGANIZATION, YOU WILL BE RESPONSIBLE TO ENSURE THAT EACH ME
 We do not intentionally gather personally identifiable information from visitors who are under the age of 13.
 
 [Return to Customer Service Home](https://web.archive.org/customer-service)
+
+Copyright 2016 The Yankee Candle Company, Inc. All Rights Reserved [ ](https://www.bizrate.com/ratings_guide/merchant_detail__mid--138631.html?rf=sur "See Yankee Candle Company Review at Bizrate.com") [](http://secure.trust-guard.com/security/8227) [SSL Certificate](https://www.digicert.com/ssl-certificate.htm)
