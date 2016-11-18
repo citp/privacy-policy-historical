@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arcadesdir.com privacy policy that was archived on 2015-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150716151253id_/http%3A//www.arcadesdir.com/index.php%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadesdir.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119002814id_/http%3A//www.arcadesdir.com/pages/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy - Browser Games
+# Privacy Policy - Brewcade
 
 This privacy policy covers how we treat personal information that we collect and receive. 
 
