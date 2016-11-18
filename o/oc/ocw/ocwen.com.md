@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocwen.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502112227id_/http%3A//www.ocwen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocwen.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119005428id_/http%3A//www.ocwen.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -73,3 +73,11 @@ We reserve the right to modify or supplement our Privacy Policy at any time. If 
 ## Targeted Advertising
 
 We may also use technologies to collect information about your online activities over time while you are on our website.  We believe that this online behavioral tracking helps to provide you with more relevant advertising Third parties may also use similar technologies to collect information about your online activities over time and across different third party sites, including your use of this Ocwen website.  Please note that the Ocwen website does not respond or honor “Do Not Track” requests. 
+
+[](https://player.vimeo.com/video/137411702 "Helping Homeowners")
+
+## OCWEN CARES:
+
+### HELPING HOMEOWNERS AND COMMUNITIES
+
+If a Call-Out section is required, use a full-width box. This uses the light blue color, Hex: 1c93e8. All font sizes should remain the same, but the color is white, Hex: ffffff
