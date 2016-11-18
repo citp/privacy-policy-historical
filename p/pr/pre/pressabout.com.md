@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressabout.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517204419id_/http%3A//www.pressabout.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressabout.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118104114id_/http%3A//www.pressabout.com/privacy.html) for the most accurate reproduction.*
 
 # pressabout.com | Privacy Policy
 
