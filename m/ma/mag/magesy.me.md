@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the magesy.me privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327090750id_/http%3A//magesy.me/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magesy.me privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232806id_/http%3A//sampleshome.com/policy.html) for the most accurate reproduction.*
 
-# Magesy - Privacy Policy
+# SamplesHome - Privacy Policy
 
-**Magesy - Privacy Policy**
+**SamplesHome - Privacy Policy**
 
-By using our Web site, you consent to the collection and use of this information by Magesy.ME. If we decide to change our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Currently, Magesy.ME may provide aggregate statistics about our traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personal identifying information.
+By using our Web site, you consent to the collection and use of this information by SamplesHome. If we decide to change our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Currently, SamplesHome may provide aggregate statistics about our traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personal identifying information.
 
  **Third Party Advertising**
 
@@ -16,4 +16,4 @@ In the course of serving advertisements to this site, our third-party advertiser
 
  **Modification of Privacy Policy**
 
-Magesy.ME reserves the right, at any time, to modify, alter or update the Privacy Policy and you agree to be bound by such modifications, alterations or updates. 
+SamplesHome reserves the right, at any time, to modify, alter or update the Privacy Policy and you agree to be bound by such modifications, alterations or updates. 
