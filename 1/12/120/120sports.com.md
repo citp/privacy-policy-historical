@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 120sports.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628213700id_/http%3A//www.120sports.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 120sports.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232539id_/http%3A//www.120sports.com/about/privacy) for the most accurate reproduction.*
 
 # 120 Sports | About | 120Sports.com
 
 ### PLEASE READ THIS PRIVACY POLICY (THIS "PRIVACY POLICY") CAREFULLY BEFORE USING OUR WEBSITE OR ANY OTHER 120 SPORTS LLC ("120 Sports") PRODUCT OR SERVICE.
 
-120 Sports in association with MLB Advanced Media, L.P. produces and publishes [www.120Sports.com](http://www.120sports.com/), the Official Website of 120 Sports ( this or our "Website"). This Privacy Policy is applicable to this Website, which will be called the "Services" throughout this Privacy Policy, and describes what information we collect, how we may use that information and the choices we offer for you to manage the information we collect related to your use of our Services.
+120 Sports in association with MLB Advanced Media, L.P. produces and publishes www.120Sports.com, the Official Website of 120 Sports ( this or our "Website"). This Privacy Policy is applicable to this Website, which will be called the "Services" throughout this Privacy Policy, and describes what information we collect, how we may use that information and the choices we offer for you to manage the information we collect related to your use of our Services.
 
   1. Personal Information Collected Via Our Services
   2. How We Use and Share Your Personal Information
