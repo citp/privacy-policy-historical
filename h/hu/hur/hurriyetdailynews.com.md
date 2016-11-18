@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hurriyetdailynews.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608192531id_/http%3A//www.hurriyetdailynews.com/privacy-policy.aspx%3FpageID%3D569) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hurriyetdailynews.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118230346id_/http%3A//www.hurriyetdailynews.com/privacy-policy.aspx%3FpageID%3D569) for the most accurate reproduction.*
 
 # Hürriyet Daily News | PRIVACY POLICY
 
