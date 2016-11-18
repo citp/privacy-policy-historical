@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roche.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629052814id_/http%3A//www.roche.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roche.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234627id_/http%3A//www.roche.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Roche - Privacy Policy
 
@@ -12,95 +12,101 @@ Roche Web sites that display this privacy policy (“policy”) and that ask for
 
 We only collect personally identifiable information about you if you choose to give it to us. We do not share any of your personally identifiable information with third parties for their own marketing use unless you explicitly give us permission to do so. Please review this Privacy Statement to learn more about how we collect, use, share and protect information online.
 
-  * [Information Collected ](http://www.roche.com/privacy_policy.htm#privacy-policy-text-Anchor-1 "#privacy-policy-text-Anchor-1")
-  * [Your Choices ](http://www.roche.com/privacy_policy.htm#privacy-policy-text-Anchor-2 "#privacy-policy-text-Anchor-2")
-  * [Security ](http://www.roche.com/privacy_policy.htm#privacy-policy-text-Anchor-3 "#privacy-policy-text-Anchor-3")
-  * [Use of Data ](http://www.roche.com/privacy_policy.htm#privacy-policy-text-Anchor-4 "#privacy-policy-text-Anchor-4")
-  * [Data Sharing and Transfer ](http://www.roche.com/privacy_policy.htm#privacy-policy-text-Anchor-5 "#privacy-policy-text-Anchor-5")
-  * [Links to Other Sites ](http://www.roche.com/privacy_policy.htm#privacy-policy-text-Anchor-6 "#privacy-policy-text-Anchor-6")
-  * [Privacy Statement for Children ](http://www.roche.com/privacy_policy.htm#privacy-policy-text-Anchor-7 "#privacy-policy-text-Anchor-7")
-  * [Additional Information on Web Sites ](http://www.roche.com/privacy_policy.htm#privacy-policy-text-Anchor-8 "#privacy-policy-text-Anchor-8")
-  * [Note to Users of Business or Professional Web Sites ](http://www.roche.com/privacy_policy.htm#privacy-policy-text-Anchor-9 "#privacy-policy-text-Anchor-9")
-  * [Updates to Privacy Statement ](http://www.roche.com/privacy_policy.htm#privacy-policy-text-Anchor-10 "#privacy-policy-text-Anchor-10")
-  * [How to Contact Roche](http://www.roche.com/privacy_policy.htm#privacy-policy-text-Anchor-11 "#privacy-policy-text-Anchor-11")
+Information Collected
 
+Your Choices
 
+Security
 
-******Information Collected  
-** There are two general methods that Roche uses to collect information from you online:
+Use of Data
 
-**Information We Get  
-** \- _Personal identifiable information_ : You can visit our Web sites without providing any personal information. We may collect your personally identifiable information (such as name, address, telephone number, e-mail address or other identifying information) only when you choose to submit it to us. We may also collect health information about you that you provide by responding to our questions or surveys. 
+Data Sharing and Transfer
 
-\- _Aggregate information_ : In some cases we also remove personal identifiers from data you provide to us and maintain it in aggregate form. We may combine this data with other information to produce anonymous, aggregated statistical information (e.g. number of visitors, originating domain name of the Internet Service Provider), helpful to us in improving our products and services. 
+Links to Other Sites
 
-**Automatically Collected Information  
-** We and some third party providers we work with automatically receive certain types of information whenever you interact with us on our sites and in some e-mails we may send each other. Automatic technologies and services we use may include, for example, Web server logs/IP addresses, cookies, Web beacons and third party application and content tools.
+Privacy Statement for Children
 
-_Web Server Logs/IP Addresses_. An IP address is a number assigned to your computer whenever you access the Internet. All computer identification on the Internet is conducted with IP addresses, which allow computers and servers to recognize and communicate with each other. Roche collects IP addresses to conduct system administration and report aggregate information to affiliates, business partners and/or vendors to conduct site analysis and Web site performance review. 
+Additional Information on Web Sites
 
-_Cookies_. A cookie is a piece of information that is placed automatically on your computer’s hard drive when you access certain Web sites. The cookie uniquely identifies your browser to the server. Cookies allow us to store information on the server to help make the Web experience better for you and to conduct site analysis and Web site performance review. Most Web browsers are set up to accept cookies, although you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Note, however, that some portions of our sites may not work properly if you refuse cookies. 
+Note to Users of Business or Professional Web Sites
+
+Updates to Privacy Statement
+
+How to Contact Roche
+
+**Information Collected**  
+There are two general methods that Roche uses to collect information from you online:
+
+**Information We Get**  
+-  _Personal identifiable information_ : You can visit our Web sites without providing any personal information. We may collect your personally identifiable information (such as name, address, telephone number, e-mail address or other identifying information) only when you choose to submit it to us. We may also collect health information about you that you provide by responding to our questions or surveys. 
+
+-  _Aggregate information_ : In some cases we also remove personal identifiers from data you provide to us and maintain it in aggregate form. We may combine this data with other information to produce anonymous, aggregated statistical information (e.g. number of visitors, originating domain name of the Internet Service Provider), helpful to us in improving our products and services. 
+
+**Automatically Collected Information**  
+We and some third party providers we work with automatically receive certain types of information whenever you interact with us on our sites and in some e-mails we may send each other. Automatic technologies and services we use may include, for example, Web server logs/IP addresses, cookies, Web beacons and third party application and content tools.
+
+_Web Server Logs/IP Addresses_. An IP address is a number assigned to your computer whenever you access the Internet. All computer identification on the Internet is conducted with IP addresses, which allow computers and servers to recognize and communicate with each other. Roche collects IP addresses to conduct system administration and report aggregate information to affiliates, business partners and/or vendors to conduct site analysis and Web site performance review. 
+
+_Cookies_. A cookie is a piece of information that is placed automatically on your computer’s hard drive when you access certain Web sites. The cookie uniquely identifies your browser to the server. Cookies allow us to store information on the server to help make the Web experience better for you and to conduct site analysis and Web site performance review. Most Web browsers are set up to accept cookies, although you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Note, however, that some portions of our sites may not work properly if you refuse cookies. 
 
 _Web Beacons_. On certain Web pages or e-mails, Roche may utilize a common Internet technology called a "Web beacon" (also known as an "action tag" or "clear GIF technology"). Web beacons help analyze the effectiveness of Web sites by measuring, for example, the number of visitors to a site or how many visitors clicked on key elements of a site.
 
 Web beacons, cookies and other tracking technologies do not automatically obtain personally identifiable information about you. Only if you voluntarily submit personally identifiable information, such as by registering or sending e-mails, can these automatic tracking technologies be used to provide further information about your use of the Web sites and/or interactive e-mails to improve their usefulness to you.
 
-_Services:_ We may provide services based on third party applications and content tools on certain Roche Websites such as Google Maps or QUARTAL FLIFE. These third parties may automatically receive certain types of information whenever you interact with us on our sites using such third party applications and tools. 
+_Services:_  We may provide services based on third party applications and content tools on certain Roche Websites such as Google Maps or QUARTAL FLIFE. These third parties may automatically receive certain types of information whenever you interact with us on our sites using such third party applications and tools.
 
-******Your Choices  
-** You have several choices regarding your use of our Web sites. You could decide not to submit any personally identifiable information at all by not entering it into any forms or data fields on our sites and not using any available personalized services. If you choose to submit personal data, you have the right to see and correct your data at any time by accessing the application. Certain sites may ask for your permission for certain uses of your information and you can agree to or decline those uses. If you opt-in for particular services or communications, such as an e-newsletter, you will be able to unsubscribe at any time by following the instructions included in each communication. If you decide to unsubscribe from a service or communication, we will work to remove your information promptly, although we may require additional information before we can process your request. 
+**Your Choices**  
+You have several choices regarding your use of our Web sites. You could decide not to submit any personally identifiable information at all by not entering it into any forms or data fields on our sites and not using any available personalized services. If you choose to submit personal data, you have the right to see and correct your data at any time by accessing the application. Certain sites may ask for your permission for certain uses of your information and you can agree to or decline those uses. If you opt-in for particular services or communications, such as an e-newsletter, you will be able to unsubscribe at any time by following the instructions included in each communication. If you decide to unsubscribe from a service or communication, we will work to remove your information promptly, although we may require additional information before we can process your request. 
 
-As described above, if you wish to prevent cookies from tracking you anonymously as you navigate our sites, you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. 
+As described above, if you wish to prevent cookies from tracking you anonymously as you navigate our sites, you can reset your browser to refuse all cookies or to indicate when a cookie is being sent.
 
-******Security**  
-Roche uses technology and security precautions, rules and other procedures to protect your personal information from unauthorized access, improper use, disclosure, loss or destruction. To ensure the confidentiality of your information, Roche uses also industry standard firewalls and password protection. It is, however, your personal responsibility to ensure that the computer you are using is adequately secured and protected against malicious software, such as trojans, computer viruses and worm programs. You are aware of the fact that without adequate security measures (e.g. secure web browser configuration, up-to-date antivirus software, personal firewall software, no usage of software from dubious sources) there is a risk that the data and passwords you use to protect access to your data, could be disclosed to unauthorized third parties. 
+**Security**  
+Roche uses technology and security precautions, rules and other procedures to protect your personal information from unauthorized access, improper use, disclosure, loss or destruction. To ensure the confidentiality of your information, Roche uses also industry standard firewalls and password protection. It is, however, your personal responsibility to ensure that the computer you are using is adequately secured and protected against malicious software, such as trojans, computer viruses and worm programs. You are aware of the fact that without adequate security measures (e.g. secure web browser configuration, up-to-date antivirus software, personal firewall software, no usage of software from dubious sources) there is a risk that the data and passwords you use to protect access to your data, could be disclosed to unauthorized third parties.
 
-******Use of Data**  
+**Use of Data**  
 Roche, including the subsidiaries, divisions and groups worldwide and/or the companies we hire to perform services on our behalf will use any personally identifiable information you choose to give us to comply with your requests. We will retain control of and responsibility for the use of this information. Some of this data may be stored or processed at computers located in other jurisdictions, such as the United States, whose data protection laws may differ from the jurisdiction in which you live. In such cases, we will ensure that appropriate protections are in place to require the data processor in that country to maintain protections on the data that are equivalent to those that apply in the country in which you live.
 
-The information, which is also used for different HR purposes (Performance Management, Succession decisions or Development actions), will be helpful for us to better understand your needs and how we can improve our products and services. It helps us also to personalize certain communications with you about services and promotions that you might find interesting. For example, we may analyze the gender or age of visitors to sites about a particular medication or disease state, and we may use that analysis of aggregate data internally or share it with others. 
+The information, which is also used for different HR purposes (Performance Management, Succession decisions or Development actions), will be helpful for us to better understand your needs and how we can improve our products and services. It helps us also to personalize certain communications with you about services and promotions that you might find interesting. For example, we may analyze the gender or age of visitors to sites about a particular medication or disease state, and we may use that analysis of aggregate data internally or share it with others.
 
-******Data Sharing and Transfer**  
+**Data Sharing and Transfer**  
 Roche shares personally identifiable data about you with various outside companies or agents doing technological maintenance or working on our behalf to help fulfill business transactions, such as providing customer services, sending marketing communications about our products, services and offers. We may also share personally identifiable data with our company's subsidiaries and affiliates. All these companies and agents are required to comply with the terms of our privacy policies.
 
-We may also disclose personally identifiable information for these purposes: 
+We may also disclose personally identifiable information for these purposes:
 
-a) in connection with the sale, assignment or other transfer of the business of the site to which the data relates;  
+a) in connection with the sale, assignment or other transfer of the business of the site to which the data relates;
 
-
-b) to respond to appropriate requests of legitimate government agencies or where required by applicable laws, court orders, or government regulations; or  
-
+b) to respond to appropriate requests of legitimate government agencies or where required by applicable laws, court orders, or government regulations; or
 
 c) where needed for corporate audits or to investigate or respond to a complaint or security threat.
 
-_No Third-Party Direct Marketing Use_. We will not sell or otherwise transfer the personally identifiable information you provide to us at our Web sites to any third parties for their own direct marketing use unless we provide clear notice to you and obtain your explicit consent for your data to be shared in this manner.   
-_  
-E-mail a Friend or Colleague_. On some Roche sites, you can choose to send a link or a message to a friend or colleague referring them to a Roche Web site. E-mail addresses you may provide for a friend will be used to send your friend information on your behalf and will not be collected or used by Roche or other third parties for additional purposes. 
+_No Third-Party Direct Marketing Use_. We will not sell or otherwise transfer the personally identifiable information you provide to us at our Web sites to any third parties for their own direct marketing use unless we provide clear notice to you and obtain your explicit consent for your data to be shared in this manner. 
 
-_Google Analytics_. Roche Websites may use [Google Analytics](http://www.google.com/analytics/tos.html "www.google.com/analytics/tos.html"), a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States . Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however, as mentioned above please note that if you do this you may not be able to use the full functionality of a Roche website. By using a Roche website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. 
+_E-mail a Friend or Colleague_. On some Roche sites, you can choose to send a link or a message to a friend or colleague referring them to a Roche Web site. E-mail addresses you may provide for a friend will be used to send your friend information on your behalf and will not be collected or used by Roche or other third parties for additional purposes.
 
-******Links to Other Sites**  
-Our sites contain links to a number of Web sites that may offer useful information to our visitors. This Privacy Statement does not apply to those sites, and we recommend communicating to them directly for information on their privacy policies. 
+_Google Analytics_. Roche Websites may use [Google Analytics](http://www.google.com/analytics/tos.html "www.google.com/analytics/tos.html"), a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States . Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however, as mentioned above please note that if you do this you may not be able to use the full functionality of a Roche website. By using a Roche website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-******Privacy Statement for Children**  
+**Links to Other Sites**  
+Our sites contain links to a number of Web sites that may offer useful information to our visitors. This Privacy Statement does not apply to those sites, and we recommend communicating to them directly for information on their privacy policies.
+
+**Privacy Statement for Children**  
 Our Web sites are directed at an adult audience. We do not collect any personally identifiable information from anyone we know to be under the age of 13 without the prior, verifiable consent of his or her legal representative. Such legal representative has the right, upon request, to view the information provided by the child and/or to require that it be deleted.
 
-******Additional Information on Web Sites**  
-If a Web site has particular provisions relating to privacy that differ from those stated here, those provisions will be disclosed to you on the page on which personally identifiable information is collected. 
+**Additional Information on Web Sites**  
+If a Web site has particular provisions relating to privacy that differ from those stated here, those provisions will be disclosed to you on the page on which personally identifiable information is collected.
 
-******Note to Users of Business or Professional Web Sites**  
-If you have a business or professional relationship with Roche, we may use information you submit on our sites, including sites intended specifically for business and professional users, to fulfill your requests and develop our business relationship with you and the entities you represent. We may also share such information with third parties acting on our behalf. 
+**Note to Users of Business or Professional Web Sites**  
+If you have a business or professional relationship with Roche, we may use information you submit on our sites, including sites intended specifically for business and professional users, to fulfill your requests and develop our business relationship with you and the entities you represent. We may also share such information with third parties acting on our behalf.
 
-******Updates to Privacy Statement**  
+**Updates to Privacy Statement**  
 From time to time, Roche may revise this online Privacy Statement. Any such changes to this Privacy Statement will be promptly communicated on this page. Continued use of our sites after receiving notice of a change in our Privacy Statement indicates your consent to the use of newly submitted information in accordance with the amended Roche Privacy Statement. The effective date of this Privacy Statement is 1 November 2005.
 
-******How to Contact Roche**  
+**How to Contact Roche**  
 For questions or if you wish Roche to amend or delete your profile, please contact us in writing (by post), as follows:
 
 F. Hoffmann-La Roche Ltd  
 Corporate Communications  
 Grenzacherstrasse 124  
-CH-4070 Basel   
+CH-4070 Basel   
 Switzerland
 
 Unless explicitly stated otherwise, this Privacy Statement applies to F. Hoffmann-La Roche Ltd or F. Hoffmann-La Roche Ltd Websites
