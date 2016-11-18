@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interbrand.com privacy policy that was archived on 2016-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160124180416id_/http%3A//interbrand.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interbrand.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000851id_/http%3A//interbrand.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Interbrand
 
@@ -67,9 +67,9 @@ You can also update your information, or instruct us to remove you from the emai
 
 ### Security and Compliance
 
-We maintain reasonable and appropriate technical, administrative and physical safeguards to protect Personal Information from loss, misuse, or alteration. For example, we use industry-standard encryption technologies when we collect or transmit sensitive Personal Information. We also comply with all laws that require us to protect your Personal Information. Despite these precautions, Interbrand, however, cannot guarantee that unauthorized persons will not obtain access to your Personal Information. 
+We maintain reasonable and appropriate technical, administrative and physical safeguards to protect Personal Information from loss, misuse, or alteration. For example, we use industry-standard encryption technologies when we collect or transmit sensitive Personal Information. We also comply with all laws that require us to protect your Personal Information. Despite these precautions, Interbrand, however, cannot guarantee that unauthorized persons will not obtain access to your Personal Information.
 
-We do not knowingly collect Personal Information directly from any person under the age of 13. 
+We do not knowingly collect Personal Information directly from any person under the age of 13.
 
 ### Date Retention Policy
 
@@ -83,6 +83,6 @@ Please note that this site contains information about and links to other sites t
 
 We reserve the right to modify this Privacy Notice at any time, so please review it frequently. You can determine whether the Privacy Notice has changed by reviewing the date posted at the top. If we make any material changes to this Privacy Notice, we will post notice of the change on our site or notify you in other ways we deem appropriate to keep you informed of our information practices.
 
-### Contact Us 
+### Contact Us
 
 If you have questions or concerns regarding this Privacy Notice, you should contact our Privacy Officer at: [inquiries@interbrand.com](mailto:inquiries@interbrand.com "Link: mailto:inquiries@interbrand.com").
