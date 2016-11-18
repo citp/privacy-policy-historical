@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the real-debrid.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531202554id_/http%3A//real-debrid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the real-debrid.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118073318id_/https%3A//real-debrid.com/privacy) for the most accurate reproduction.*
 
-# Real-Debrid | Quality Unrestricted Downloaders
+# Real-Debrid
 
 ## Privacy Policy
-
-  
-More informations about those icons [here](http://www.azarask.in/blog/post/privacy-icons/).
 
 The Site © Real-Debrid is edited by the company
 
