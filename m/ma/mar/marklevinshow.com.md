@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marklevinshow.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508113934id_/http%3A//www.marklevinshow.com/1111/11/11/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marklevinshow.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118223012id_/http%3A//www.marklevinshow.com/1111/11/11/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MARK-CM
 
