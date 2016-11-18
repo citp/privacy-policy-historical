@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the muse.mu privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512020202id_/http%3A//muse.mu/terms/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muse.mu privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118224449id_/http%3A//muse.mu/terms/privacy-policy.htm) for the most accurate reproduction.*
 
 # MUSE: PRIVACY POLICY
 
-## Privacy Policy
+##  Privacy Policy
 
 Version 1 24th July 2008
 
@@ -20,12 +20,12 @@ Version 1 24th July 2008
 
 We shall not offer goods and services from any third parties, including any trusted partners. Furthermore, we shall not sell your data to any third parties.
 
-4\. We will only keep your personal information for as long as is necessary for the purposes for which that personal information was given to us. 
+4\. We will only keep your personal information for as long as is necessary for the purposes for which that personal information was given to us.
 
 5\. We may use 'cookies' while you access the Site to avoid the need to re-enter details on different occasions. If you do not wish to receive cookies, you may change the settings on your computer or browser accordingly.
 
-6\. Please note that, from time to time, we may transfer your personal data for internal business purposes to locations outside the European Economic Area, some of which may have different data protection laws to the UK, or no data protection laws. Note that in respect of information transmitted to the US, we shall only transmit such information to entities that comply with suitable policies. 
+6\. Please note that, from time to time, we may transfer your personal data for internal business purposes to locations outside the European Economic Area, some of which may have different data protection laws to the UK, or no data protection laws. Note that in respect of information transmitted to the US, we shall only transmit such information to entities that comply with suitable policies.
 
-7\. If you do not want us to retain or use your personal information in any way, please do not provide the data to us or, if you have already provided personal information and wish to withdraw your consent, please click here or you can contact us at enquiries@a-addis.co.uk or by post at: Muse - Website Enquiries, c/o Warner Brothers Records, 12 Lancer Square, London, W8 4EH.
+7\. If you do not want us to retain or use your personal information in any way, please do not provide the data to us or, if you have already provided personal information and wish to withdraw your consent, please click here or you can contact us at help@muse.mu or by post at: Muse - Website Enquiries, c/o Warner Brothers Records, 12 Lancer Square, London, W8 4EH.
 
-If you have any queries about this Privacy Policy or wish to resume receiving information which you may have previously opted out of receiving, please contact us at enquiries@a-addis.co.uk or by post at: Muse- Website Enquiries, c/o Warner Brothers Records, 12 Lancer Square, London, W8 4EH.
+If you have any queries about this Privacy Policy or wish to resume receiving information which you may have previously opted out of receiving, please contact us at help@muse.mu or by post at: Muse- Website Enquiries, c/o Warner Brothers Records, 12 Lancer Square, London, W8 4EH.
