@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prfastmarketing.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625095026id_/http%3A//www.prfastmarketing.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prfastmarketing.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118214055id_/http%3A//prfastmarketing.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Publicity For Actor/Fimmakers | Branding | Digital Media Marketing For Twitter | Instagram/Facebook/YouTube
 
@@ -38,7 +38,7 @@ We do not control the content or links that appear on these sites and are not re
 
 These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-REFUNDS Please allow 10 days for refund.
+REFUNDS Please allow between 2-4 business days for a refund.
 
 Changes to this privacy policy PR Fast Marketing has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect.
 
