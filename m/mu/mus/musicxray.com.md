@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicxray.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607184440id_/https%3A//www.musicxray.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicxray.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234341id_/https%3A//www.musicxray.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -102,60 +102,4 @@ In the US, Music Xray adheres to the Safe Harbor Principles published by the U.S
 
 Notice and Choice 
 
-We obtain personal information only as permitted by the Safe Harbor Principles or with the consent of the individual affected. We may ask for your consent to collect, use, or disclose personal information in certain ways, and you may be required to give your consent in order to use our services. To the extent permitted under the Safe Harbor Principles, we reserve the right to process personal information in the course of providing services through the Services without the knowledge of individuals involved. If you wish to opt out of our collection or our disclosure of personally identifiable information to third parties, you may contact us at the address noted in our CONTACT US section with a request to do so. The request should include your name, email address, login information, and any specifics that may help us to prevent the collection of personally identifiable information you do not wish to have collected or disclosed. Please note that if you opt out of our data collection practices, the Services may be less functional for you. 
-
-Transfers 
-
-We will obtain assurances from its affiliates that they will safeguard personal information consistently with this Privacy Policy. If we learn that an affiliate is using or disclosing personal information in a manner contrary to this Privacy Policy, we will take steps to prevent or stop the use or disclosure. Transfers of information permitted under this notice, either to third parties or amongst Music Xray, may include the transfer of data from one jurisdiction to another, such as transfers to and from the United States of America, the UK and Australia. 
-
-Security & Enforcement 
-
-We will take reasonable precautions to protect personal information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction, and it will conduct compliance audits of its relevant privacy practices to verify adherence to this Privacy Policy. We cannot guarantee, in every circumstance, the security of the personal information you provide through the Services. All incoming encrypted information is routed through our firewall, which serves as a gatekeeper for our system. Only data containing the correct authorization is permitted past the firewall. Attempts to pass the firewall are constantly monitored for suspicious activity. Music Xray will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Privacy Policy. For complaints that cannot be resolved between Music Xray and the complainant, Music Xray agrees to participate in the dispute resolution procedures of the American Arbitration Association to resolve disputes pursuant to the Safe Harbor Principles. 
-
-**Opting Out of Information Sharing**
-
-We understand and respect that not all customers may want to allow us to share their information with other select companies. If you do not want us to share your information, please contact us through the Contact Us page of any of our brands, and we will remove your name from lists we share with other companies as soon as reasonably practicable. When contacting us, please clearly state your request, including your name, mailing address, email address and phone number. 
-
-However, under the following circumstances, we may still be required to share your personal information: 
-
-• If we respond to subpoenas, court orders or legal process, or if we need to establish or exercise our legal rights or defend against legal claims. 
-
-• If we believe it is necessary to share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Use or as otherwise required by law. 
-
-• If we believe it is necessary to restrict or inhibit any user from using any of our Sites and Apps, including, without limitation, by means of "hacking" or defacing any portion thereof. 
-
-_California's "Do Not Track" Notice_ . "Do Not Track" ("DNT") is a preference you can set in your web browser to let the sites you visit know that you do not want them collecting information about you. Our sites do not currently respond to "Do Not Track" settings. For further details regarding DNT, visit [donottrack.us](http://donottrack.us/). 
-
-**Children’s Privacy**
-
-We do not knowingly collect or distribute personally identifiable information from children under the age of 13. If you are the parent or guardian of a child under the age of 13 and believe that we have collected personally identifiable information contrary to this policy or, in the United States, the Children’s Online Privacy Protection Act (COPPA), please contact us by e-mail so that we may delete such information. You can learn more about COPPA at the United States Federal Trade Commission website: 
-
-<http://www.ftc.gov/privacy/privacyinitiatives/childrens.html>
-
-**Access to your Account Information and Preferences**
-
-You have the right and ability to edit your member account information on our Sites and Apps at any time. You can opt in or out of receiving future communications from us about special offers and new product information, you can unsubscribe by following instructions contained in the messages you receive, or you can change your marketing preferences by contacting us through the Contact Us page of any of our brands. We do reserve the right to send you certain communications relating to the services we provide, such as service announcements and administrative messages. We do not offer you the opportunity to opt-out of receiving those communications. 
-
-**Your California Privacy Rights**
-
-California Civil Code Section 1798.83, also known as S.B. 27, allows individual customers who have provided their personal information to us to request information about our disclosure of certain categories of personal information to third parties for their direct marketing purposes. Such requests must be submitted to us through the various ways of contact described in the Contact Us page of any of our brands. Within thirty days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third party direct marketing purposes during the immediately preceding year, along with the names and addresses of those third parties. This request may be made no more than once per calendar year. We reserve the right not to respond to requests submitted in ways other than those specified above. 
-
-**Class Action Waiver**
-
-ANY DISPUTE RESOLUTION PROCEEDINGS, WHETHER IN ARBITRATION OR COURT, WILL BE CONDUCTED ONLY ON AN INDIVIDUAL BASIS AND NOT IN A CLASS OR REPRESENTATIVE ACTION OR AS A NAMED OR UNNAMED MEMBER IN A CLASS, CONSOLIDATED, REPRESENTATIVE OR PRIVATE ATTORNEY GENERAL LEGAL ACTION. YOUR ACCESS AND CONTINUED USE OF ANY OF OUR SITES AND APPS SIGNIFIES YOUR EXPLICIT CONSENT TO THIS WAIVER. 
-
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review. 
-
-If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site or at 
-
-Privacy Matters 
-
-c/o Platinum Blue Music Intelligence, Inc. 
-
-25 Broadway 
-
-9th floor 
-
-New York, NY 10004 
-
-USA 
+We obtain personal information only as permitted by the Safe Harbor Principles or with the consent of the individual affected. We may ask for your consent to collect, use, or disclose personal information in certain ways, and you may be required to give your consent in order to use our services. To the extent permitted under the Safe Harbor Principles, we reserve the right to process personal information in the course of providing services through the Services 
