@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lioden.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315052636id_/http%3A//www.lioden.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lioden.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000436id_/http%3A//www.lioden.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy :|: Lioden
 
@@ -7,7 +7,7 @@
 
 
 
-Lioden (“site”) uses cookies to keep members logged in. The site also stores members’ IP and e-mail addresses. IP addresses are used to monitor for rule breaking and e-mail addresses are used for site communication and to reset lost passwords. The site asks that members keep their e-mail addresses up to date for this purpose. 
+Lioden (“site”) uses cookies to keep members logged in. The site also stores members’ IP, e-mail addresses and date of birth. IP addresses are used to monitor for rule breaking and e-mail addresses are used for site communication and to reset lost passwords. The site asks that members keep their e-mail addresses up to date for this purpose. 
 
 Lioden will not distribute any personal information to a third party unless required by law. 
 
