@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniqlo.co.uk privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627123523id_/http%3A//www.uniqlo.com/uk/corp/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniqlo.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119002715id_/http%3A//www.uniqlo.com/uk/corp/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies - UNIQLO
 
@@ -38,7 +38,7 @@ WC2B 6AN
 
 
 
-**Mobile (if applicable)**
+### Mobile (if applicable)
 
   * When you download or use apps provided by UNIQLO or its affiliates and, where applicable, have requested or consented to location services, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as search results, and other personalised content. Most mobile devices allow you to turn off location services. 
 
@@ -70,7 +70,7 @@ You agree that:
 
 
 
-**Marketing (if applicable)**
+### Marketing (if applicable)
 
   * Please note that your information may be used to send you details of those products or services that we offer that we have identified as likely to be of interest to you. If you indicated any preferences when providing us with your data, we will use these to determine what information we provide you with.
   * If at any point you would like to opt-out of receiving communications from us, or would like to change the channels (such as email or post) that we use to contact you, please contact us at **helpme@uniqlo.eu**. Alternatively you may wish to write to us at: 
@@ -90,7 +90,7 @@ WC2B 6AN
 
 You have a right to access the Personal Information that we hold on you. If you would like to see a copy of any information we have related to you, or you believe the information we hold on you is incorrect, please send a written request to the address shown below. If you are requesting a copy of information a £10 fee is payable.
 
-**For Consumers**
+### For Consumers
 
 In addition, if you wish to unsubscribe from e-mail marketing communications that we send you, you can do this by clicking on the unsubscribe link at the bottom of any e-mail newsletter we have sent to you or, alternatively, by visiting our e-mail newsletter preference center. 
 
