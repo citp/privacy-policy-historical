@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the breakingisraelnews.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529082014id_/https%3A//www.breakingisraelnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakingisraelnews.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233637id_/https%3A//www.breakingisraelnews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Breaking Israel News | Israel Latest News, Israel Prophecy News
+# Privacy Policy - Breaking Israel News | Latest News. Biblical Perspective.
 
 This Privacy Policy governs the manner in which Israel365 collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.breakingisraelnews.com](http://www.generateprivacypolicy.com/account/policies/edit/www.israel365.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Breaking Israel News.
 
