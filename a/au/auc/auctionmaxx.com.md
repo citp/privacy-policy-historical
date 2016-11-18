@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctionmaxx.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606035558id_/http%3A//www.auctionmaxx.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionmaxx.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232058id_/http%3A//www.auctionmaxx.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # AuctionMaxx Online Auctions Toronto Misguided Freight, Lost in Transit Auctions!
 
