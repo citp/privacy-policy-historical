@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goboiano.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609164000id_/http%3A//goboiano.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goboiano.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233529id_/http%3A//goboiano.com/privacy) for the most accurate reproduction.*
 
 # GoBoiano - The best of the anime community, all in one place
 
