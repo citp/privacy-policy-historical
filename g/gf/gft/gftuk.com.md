@@ -1,124 +1,88 @@
-> *The following text is extracted and transformed from the gftuk.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908105204id_/http%3A//documents.gftuk.com/Privacy_Policy_GFT_UK.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gftuk.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235328id_/http%3A//www.forex.com/uk/privacy-policy.html) for the most accurate reproduction.*
 
-# 
+# GAIN Capital Group's Privacy Policy | FOREX.com UK
 
-Privacy Policy
-Your privacy is important to us, and maintaining your trust and confidence is one of our highest priorities. We respect your right to
-keep your personal information confidential and we understand your desire to avoid unwanted solicitations. We hope that by taking
-a few minutes to read our Privacy Policy, you will have a better understanding of what we do with the information you provide us and
-how we keep it private and secure.
-What types of information does GFT Markets collect?
-We may collect both personal information and aggregate visitor information from our customers and visitors to our websites.
-The term "personal information" means information that can identify an individual or be identified back to an individual. Personal
-information collected may include data such as:
-•      Contact information (name, address, phone number, email)
-•      Government issued ids and employment information
-•      Account balances and transaction history
-•      Credit history and investment experience
-The term "aggregate visitor information" is a compilation of information that does not identify an individual, such as:
-•      Date and time of visit
-•      IP addresses
-•      Demographic information
-•      Website pages visited
-•      Browser used
-How does GFT Markets collect my personal information?
-We generally obtain personal information directly from you through applications and other forms. We may also obtain personal
-information from other sources including your transactions with us, our affiliates, or others.
-What does GFT Markets do with my personal information?
-GFT Markets considers your information to be a vital part of our relationship with you. If you provide us with your personal
-information, we will only use your personal information in ways that are consistent with the reason for which it was provided. We will
-not use your personal information for any other purpose without your consent. However, if you choose not to provide us with your
-personal information or wish to withdraw your consent for continued use of your personal information, we may not be able to provide
-you with the services you requested.
-How we may use your Personal Information                                                     Can you limit        Consent
-                                                                                             this usage?
-For our everyday business purposes – Such as to open and maintain your account,              No                   Implicit
-process your requests and transactions, provide customer service, and comply with
-legal obligations.
-For our direct marketing purposes – To inform you about our products and services            Yes                  Explicit
-that may be of interest to you (please see below to limit the ways in which we contact
-you).
-Respond to your employment inquiries and applications – To evaluate your                     No                   Implicit
-qualifications and complete required background and reference checks when you
-apply for an open position at GFT Markets.
-All financial companies need to share customers' personal information to run their everyday business. In the section below, we list
-the ways in which GFT Markets may share your personal information. Such activities may require transferring your personal
-information across borders to service providers and affiliates in other countries.
-                                                                                                            PRIVACY POLICY (UK English): 02/14/2014
-                                                                                                                                      Revision: 002
-                                                                                                                                         Page 1 of 3
+Protecting the privacy and safeguarding the personal and financial information of our clients and website visitors is one of our highest priorities. The following Privacy Statement explains how GAIN Capital collects and protects your personal information. References to "GAIN Capital" in this Privacy Statement include all GAIN Capital companies and divisions, including FOREX.com.
 
+By opening a GAIN Capital account or by using GAIN Capital websites, you give your consent to the collection and use of personal information by GAIN Capital as explained in this Privacy Statement.
 
-Reasons we may share your personal information                                                 Can you limit       Consent
-                                                                                               this sharing?
-For our everyday business purposes – Such as to process your transactions,                     No                  Implicit
-maintain your account(s), comply with legal obligations, or request information from
-credit bureaus. This would include trusted third parties who assist us in operating our
-website, conducting our business, or servicing you, so long as those parties agree to
-keep this information confidential.
-For our marketing purposes – With service providers that we use to offer our                   Yes                 Explicit
-products and services to you (please see below to limit the ways in which we contact
-you)
-For our affiliates' everyday business purposes – Such as to process your                       No                  Implicit
-transactions, maintain your account(s), comply with legal obligations, or request
-information from credit bureaus.
-For our affiliates to market to you                                                            Yes                 Explicit
-To limit our usage or sharing of your personal information, please use the links found at the foot of the emails that you receive
-from us or contact GFT Markets to change your preferences.
-Please note:
-You may continue to receive marketing information in regular account mailings and statements. You may also be contacted to
-service your account or participate in surveys. If you have an assigned client manager or team, they may continue to contact you to
-assist you in managing your portfolio or account relationship.
-What happens when I limit sharing or usage for an account that I hold jointly with someone else?
-Your preferences for sharing and usage of your personal information will apply individually unless you tell us otherwise. Any account
-holder may express a privacy preference on behalf of the other joint account holders.
-How do I access and update my personal information?
-In order to provide high quality customer service, it is essential for you to provide GFT Markets with accurate and complete personal
-information and inform us of any changes in a timely manner. We will periodically ask you to review and update your personal
-information, but you may request access to and/or update your personal information at any time by contacting GFT Markets.
-Please note:
-If GFT Markets is unable to verify the accuracy of the information, GFT Markets may be unable to make such updates/changes to
-your personal information as requested by you.
-How long does GFT Markets keep my personal information?
-GFT Markets only keeps your personal information on file for as long as it is required to provide you with products and services and
-to meet legal requirements. When GFT Markets no longer needs your personal information, it is either securely destroyed or made
-anonymous.
-What does GFT Markets do to protect my personal information?
-GFT Markets has implemented multiple physical, electronic, and procedural safeguards in compliance with applicable laws and
-regulations to guard your personal information from unauthorized access, alteration, or premature destruction.
-For more information, visit the Security section of our website.
-Does GFT Markets use cookies or other tracking technology?
-Various tools and techniques are used to gather and analyze website visits and sessions. One of the ways that we gather
-information about visits is through cookies. Cookies are electronic files recorded by your browser that retain information about your
-website visits on your computer.
-We use cookies to record information on visits and use of our websites; this is so we can administer and improve our websites. We
-do not use cookies to store or transmit any personal information without your explicit consent. Temporary "session" cookies are also
-used to facilitate your navigation within our site during their visit. Session cookies are deleted once you close your Internet browser.
-We may also use "persistent" cookies that are retained on your computer after your visit ends, so we can identify your preferences
-and enhance your next visit to our websites.
-                                                                                                             PRIVACY POLICY (UK English): 02/14/2014
-                                                                                                                                       Revision: 002
-                                                                                                                                          Page 2 of 3
+ **Collection of personal** **information  
+**  
+We collect your personal information directly from you and indirectly as a result of your relationship with us. GAIN Capital may use the information collected from you to verify your identity and contact information, establish your trading account, issue you an account number and a secure password, maintain your account activity and contact you with account information, among other reasons. This information also helps us improve our services to you, customize your browsing experience and inform you about additional products, services or promotions that may be of interest to you. 
 
+You directly provide us with the majority of information we collect. This information includes your contact details, including name, mailing address, telephone number and e-mail address, personal identification data we are required by law to collect, including your passport number and/or tax identification number, and information required by law to assess your trading experience and risk tolerance, including your annual income, net worth and available risk capital. We also collect demographic information when you open an account, including gender, birth date, occupation and employment status. 
 
-In addition, cookies help us manage and monitor internet traffic from third-party websites to ours as well as which areas of our
-websites are used most often and for how long. We may provide this type of aggregate information to non-affiliated application
-service providers that compile statistical or other information for us. This feedback and analysis allows us to continually update our
-websites.
-You can block cookies by changing the settings on your internet browser or through the use of software programs specifically
-designed to block cookies. You should be aware that by blocking cookies or using certain security software settings that these
-actions may prevent you from logging onto your accounts or limit your online activities.
-Does this policy apply to third party websites?
-We may partner with reputable third party companies that help provide additional products and services or information to you online.
-These third parties are always subject to a detailed evaluation process to review their relevant business practices however they may
-have different online disclosures, including security and privacy practices, than GFT Markets. Be sure to review their respective
-disclosures and policies.
-What happens if GFT Markets changes their privacy policy?
-We will review our Privacy Policy from time to time to ensure it is compliant with relevant laws and takes account of any changes to
-our operations and practices. If it is necessary to make changes to our Privacy Policy, we will update this document with the
-changes and new effective date. A notification may also be sent to you based on regional laws and regulations.
-GFT Markets is a trading name of GAIN Capital – FOREX.com UK Limited and is authorised and regulated by the Financial Conduct
-Authority. FCA No. 190864.
-                                                                                                            PRIVACY POLICY (UK English): 02/14/2014
-                                                                                                                                      Revision: 002
-                                                                                                                                         Page 3 of 3
+You provide us with this information by completing the account application and related documentation, by sending us an e-mail or by submitting information in response to a promotion or special offer.
+
+The information we collect indirectly from you includes your Internet protocol ("IP") address, browser type, operating system, Internet service provider (ISP), time stamps and transaction history.
+
+Should you close your account with us, GAIN Capital will retain your information, but only use it to comply with regulatory requirements and to periodically contact you to offer you the opportunity to reactivate your account or participate in other offers.
+
+**Cookies**
+
+We use cookies and web beacons (also known as action tags or single-pixel gifs), and other technologies (collectively, "cookies")  to provide us with data we can use to improve your experience and to know you better. Cookies are small text files sent from Web servers that may be stored on your computer. Cookies enable us to capture how you arrived at our site, when you return, which pages on our site you visit, and to recognize that you are already logged on when we receive a page request from your browser.  We may link the information we store in cookies to personally identifiable information you submit while on our site. We will never share this information with any 3rd party. Cookies are readable only by us and do not contain any personal information nor do they contain account or password information.  We cannot and will not gather information about other sites you may have visited.  
+
+We may share usage information about visitors to our websites with reputable advertising companies for the purpose of targeting our Internet banner advertisements. The information collected by the advertising company through the use of these pixel tags is not personally identifiable. We may also use 3rd party software to track and analyze usage and volume statistical information including page requests, form requests and click paths. The third party may use cookies to track behavior and may set cookies on behalf of GAIN Capital.
+
+All web browsers have settings that allow you to block cookies. By visiting our website with your browser set to allow cookies, you consent to our use of cookies as described above. If you choose to block cookies you may use our services but some functions may not work as designed.
+
+**Sharing Personal Information with GAIN Capital affiliates and Non-affiliated third parties  
+**  
+GAIN Capital does not sell, license, lease or otherwise disclose your personal information to any affiliate or third party for any reason, except as described below.
+
+GAIN Capital may share information with affiliates if the information is required to provide the product or service you have requested or to provide you the opportunity to participate in the products or services our affiliates offer. 
+
+To help us improve our services to you, we may engage another business to help us carry out certain internal functions, such as account processing, fulfillment, client service, client satisfaction surveys or other data collection activities relevant to our business. We may also provide a non-affiliated third party with client information from our database, including your name, address, phone number, and/or e-mail address, to help us analyze and identify client needs, notify clients of product and service offerings or conduct general marketing and market research for us. 
+
+GAIN Capital also forges partnerships and alliances with non-affiliated third parties which offer high-quality products and services that might be of value to our clients. In order to ensure that these products and services meet your needs and are delivered in a manner that is useful and relevant, GAIN Capital may share some personal information with these non-affiliated third parties. 
+
+We generally require that all non-affiliated third parties to which we provide your nonpublic personal information agree to keep your information confidential and use such information solely for the limited purpose for which we have engaged them, or as otherwise required by law. In addition, where offers are made to you by non-affiliated third parties, we generally require that they disclose that the offer is being extended because of your relationship with us. We also seek to ensure that these non-affiliated third parties maintain appropriate data security procedures to guard against unauthorized use of, or access to, your personal information. 
+
+When required by law, GAIN Capital reserves the right to disclose your personal information to third parties or regulatory, law enforcement or other government authorities. We may also disclose your information to credit reporting or collection agencies, or when necessary to protect our rights or property. 
+
+If at any time you choose to purchase a product or service offered by another company, for example by clicking on an advertisement on a website owned or controlled by GAIN Capital, any personal information you share with that company will no longer be controlled under our Privacy Statement. We are not responsible for the privacy policies or the content of sites we link to and we have no control over the use or protection of information provided by you to, or collected by, those websites. Whenever you elect to link to a co-branded website or to a linked website, you may be asked to provide registration or other information. Please note that the information you are providing is going to a third party, and you should familiarize yourself with the privacy policy published by that third party. 
+
+**The security of your personal information  
+**  
+We employ security software, systems and procedures to offer you a safe and secure trading environment and to protect your personal, financial and trading information. 
+
+When you open an account with us, you are issued a unique account number, User ID and a password. Only a limited number of GAIN Capital employees who have a need to know this information will have access to your account number, UserID, and password. Remember that you are ultimately responsible for maintaining the secrecy of your account number, UserID and password. We strongly recommend that you do not disclose this information to anyone. 
+
+On our websites and online account application we use technology to encrypt information transmitted by or to you. We use certificate authority (CA) certificates to authenticate our websites and secure trading and customer-facing applications, allowing you to verify that you are connected to our websites. 
+
+**Changes to this Privacy Statement and Opting Out  
+**  
+In the event GAIN Capital materially changes this Privacy Statement, the revised Privacy Statement will promptly be posted to our websites. By opening an account with us, you are deemed to agree to accept posting of a revised Privacy Statement electronically on our website as actual notice to you. 
+
+Under certain circumstances, such as with respect to our sharing of your personal information with non-affiliated third parties, you may inform us that you would like to "opt out" by contacting us through the contact information listed below. Note that for joint accounts, an-opt out election made by one account owner of a joint account is applicable to all account owners of the joint account. An opt-out election must be made for each separate account you hold at GAIN Capital. 
+
+Any dispute over our Privacy Statement is subject to this notice and the GAIN Capital Customer Agreement. If you have any questions that this Privacy Statement does not address, please contact a Client Services representative. 
+
+You may contact GAIN Capital for any reason under this Privacy Statement, or otherwise, as follows: ****
+
+**Freephone (UK):**
+
+**International:**
+
+**Email:**
+
+**Postal:**
+
+| 
+
+0800 032 1948 
+
+\+ 44 20 7429 7900 
+
+[clientservices@gaincapital.com](mailto:clientservices@gaincapital.com)
+
+GAIN Capital  
+Attention: Privacy Issues  
+Bedminster One  
+135 US Highway 202/206  
+Suite 11  
+Bedminster, NJ 07921  
+  
+---|---  
+  
+Last Updated: June 4th, 2015
