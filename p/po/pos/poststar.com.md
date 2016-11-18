@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the poststar.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408115811id_/http%3A//poststar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poststar.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118225807id_/http%3A//poststar.com/privacy) for the most accurate reproduction.*
 
-# Privacy | poststar.com
+# Privacy Notice | poststar.com
 
 Welcome to the web sites and mobile applications of The Post-Star. We (which includes our parent company, Lee Enterprises, Incorporated) believe in your right to know what information is collected during your visit to our web sites, mobile sites, mobile applications, and other applications (collectively, "Services"), and to any services that display this notice and how that information is used and safeguarded.
 
