@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the tutor.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425144434id_/http%3A//www.tutor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutor.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232811id_/http%3A//www.tutor.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Tutor.com
 
 Tutor.com takes your privacy seriously. We know you trust us to help with your homework and we want you to know that you can trust us with your personal information.
+
+Effective Date: August 26, 2016
 
 ### Why We Need Your Personal Information
 
@@ -58,6 +60,10 @@ We use third-party advertising companies to serve ads when you visit our Website
 ### Links to Other Sites
 
 Sometimes, we link to other sites. Tutor.com does not make these sites, and we can't be responsible for what they post on their sites.
+
+### Changes to this Policy
+
+We will occasionally update this Privacy Policy. When we post changes to this Privacy Policy, we will revise the “effective” date at the top of this Privacy Policy. We recommend that you check our website from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.
 
 ### Contacting the Website
 
