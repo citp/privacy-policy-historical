@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the premiumhdv.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623073425id_/http%3A//tour1.evilangel.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumhdv.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234440id_/http%3A//tour1.evilangel.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Evil Angel
+# evilangel
 
 **Last revised on 22 July 2015**
 
