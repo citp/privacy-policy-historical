@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendkite.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610110654id_/http%3A//www.trendkite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendkite.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119003442id_/http%3A//www.trendkite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,4 +50,4 @@ We may change this Privacy Policy by posting a new version of this Privacy Polic
 
 ### Contacting Trendkite
 
-For questions or comments regarding this Privacy Policy, please contact us at [office@trendkite.com](mailto:office@trendkite.com)
+For questions or comments regarding this Privacy Policy, please contact us at [legal@trendkite.com](mailto:legal@trendkite.com)
