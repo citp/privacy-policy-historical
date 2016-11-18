@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the brecorder.com privacy policy that was archived on 2016-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160208171150id_/http%3A//www.brecorder.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brecorder.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118225745id_/http%3A//www.brecorder.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[Home](http://www.brecorder.com/)» [ Own ](http://www.brecorder.com/component/content/section/77.html) »  [ Pages ](http://www.brecorder.com/privacy-policy/370-pages.html)
 
 We do not share any data or information about you (collected for whatever reason and by whatever means or provided by you to us for whatever reason and by whatever means) with any third party.  ** _Ever_** , except when required to provide it under orders from a competent Court of Law.
 
