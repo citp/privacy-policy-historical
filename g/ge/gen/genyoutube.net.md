@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genyoutube.net privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509171802id_/http%3A//www.genyoutube.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genyoutube.net privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233555id_/http%3A//www.genyoutube.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - GenYoutube
 
