@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yoybuy.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605143303id_/http%3A//www.yoybuy.com/en/help.html%3Fcateid%3D3237176) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoybuy.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000918id_/http%3A//www.yoybuy.com/en/help.html%3Fcateid%3D3237176) for the most accurate reproduction.*
 
-# Help Center at Taobao Agent Yoybuy
+# Privacy Statement at Best Taobao Agent Yoybuy
 
 ##  Privacy Statement
 
@@ -10,7 +10,7 @@ Yoybuy respect your privacy. This Privacy Statement informs you how we collect a
 
 The information about you which we may collect through this Web Site varies depending on how you use this Web Site. We will collect information through any electronic forms you submit via this Web Site, or other messages you send us by e-mail. 
 
-In common with many web sites, we may collect information such as the date and time of your visit to this Web Site, the pages accessed and any information downloaded. This information does not identify you as an individual and is used for statistical, reporting and Web Site administration and maintenance purposes only. 
+In common with many web sites, we may collect information such as the date and time of your visit to this Web Site, the pages accessed and any information downloaded. This information does not identify you as an individual and is used for statistical, reporting and Web Site administration and maintenance purposes only. Should you wish to no longer receive our mail, you may click on the unsubscribe link within each promotional email received and/or contact us at service@yoybuy.com. 
 
 **Retargeting Policy**
 
@@ -59,4 +59,4 @@ Yoybuy will post any changes to this Privacy Statement on this Web Site, please 
 If you have any comments or questions about our Privacy Statement, please send E-mail to **service@yoybuy.com.**
 
 Company:Beijing YOYBUY Network Technology Limited Liability Co., Ltd.  
-Company registered address: Room 1406, Fl. 14, No.4, Courtyard 19, Huangping Road, Huilongguan Town, Changping District, Beijing,China. 
+Company address: Room 1406, Fl. 14, No.4, Courtyard 19, Huangping Road, Huilongguan Town, Changping District, Beijing,China. 
