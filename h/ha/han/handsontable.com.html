@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the handsontable.com privacy policy that was archived on 2016-03-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160304065708id_/https%3A//handsontable.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the handsontable.com privacy policy that was archived on 2016-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161118113930id_/https%3A//handsontable.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-55L5D3"></script><script type="text/javascript" async="" src="https://handsoncode.groovehq.com/widgets/61c040f2-413c-485c-bca2-d6608d347c65/ticket.js"></script><script src="//cdn.optimizely.com/js/3053420618.js"></script>
-<title>Privacy Policy | Handsontable </title>
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-55L5D3"></script><script src="//cdn.optimizely.com/js/3053420618.js"></script>
+<title>Privacy Policy | Handsontable</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Handsontable is a composite spreadsheet component for apps and websites written in JavaScript and HTML">
@@ -12,16 +12,11 @@
 
 <link rel="shortcut icon" href="/static/images/template/ModCommon/favicon.ico">
 <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700|Open+Sans:300,400,600,700" rel="stylesheet" type="text/css">
-<link href="/static/css/main.css" type="text/css" rel="stylesheet">
-
-
-    <script>
-      (function() {var s=document.createElement('script');
-        s.type='text/javascript';s.async=true;
-        s.src=('https:'==document.location.protocol?'https':'http') +
-        '://handsoncode.groovehq.com/widgets/61c040f2-413c-485c-bca2-d6608d347c65/ticket.js'; var q = document.getElementsByTagName('script')[0];q.parentNode.insertBefore(s, q);})();
-    </script>
-
+<link href="/static/css/main.css?v=1478624993" type="text/css" rel="stylesheet">
+<script src="/static/bower_components/axios/dist/axios.min.js"></script>
+<script src="/static/bower_components/numbro/dist/numbro.min.js"></script>
+<script src="/static/bower_components/numbro/dist/languages.min.js"></script>
+<script src="/static/js/common/index.js"></script>
 
 
     <script src="/static/js/common/svgGetter.js"></script>
@@ -160,16 +155,29 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <a href="/index.html" class="brand-logo">
             <svg><use xlink:href="#handsontable_logo"></use></svg>
         </a>
-        <div class="github-star">
+        <div id="github-star" class="github-star">
             <a class="github-button" href="https://github.com/handsontable/handsontable" data-icon="octicon-star" data-count-href="/handsontable/handsontable/stargazers" data-count-api="/repos/handsontable/handsontable#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star handsontable/handsontable on GitHub">Star</a>
         </div>
     </div>
-    <label for="show_menu"></label>
+    <label for="show_menu">MENU</label>
     <input id="show_menu" type="checkbox">
     <nav>
+        <ul id="login_menu_signed_off" class="login_menu">
+            <li><a href="//my.handsontable.com/sign-up.html">Sign up</a></li>
+            <li><a href="//my.handsontable.com/">My account</a></li>
+        </ul>
+
+        <ul id="login_menu_signed_on" class="login_menu hide">
+            <li><p>Nice to see you, <strong id="login_menu_name"></strong></p></li>
+            <li><a href="//my.handsontable.com">My account</a></li>
+            <li><a id="logout" href="#">Logout</a></li>
+        </ul>
+        <script>LoginBar.update()</script>
         <ul class="clearfix">
             <li><a href="/examples.html">EXAMPLES</a></li>
+            <li><a href="/customers">CUSTOMERS</a></li>
             <li><a href="/pricing.html">PRICING</a></li>
+            <li><a href="/support.html">SUPPORT</a></li>
             <li><a href="//docs.handsontable.com">DOCS</a></li>
             <li class="dropdown bottom">
                 <label for="show_dropdown">MORE</label>
@@ -177,13 +185,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <input id="show_dropdown" type="checkbox">
                 <ul>
                     <li><a href="/features.html">Features</a></li>
-                    <li><a href="/directory.html">Add-ons</a></li>
-                    <li><a href="/support.html">Support</a></li>
-                    <!--<li><a href="/blog/">Blog</a></li>-->
+                    <li><a href="/resellers.html">Resellers</a></li>
+                    <li><a href="//forum.handsontable.com" target="_blank">Forum</a></li>
+                    <li><a href="/blog">Blog</a></li>
                     <li><a href="/contact.html">Contact</a></li>
                 </ul>
             </li>
-            <li><a class="btn small ghost-red" href="https://my.handsontable.com">SIGN IN</a></li>
+            <li><a id="free-trial-menu" class="btn small ghost-red" href="//my.handsontable.com/sign-up-trial.html">FREE TRIAL</a></li>
         </ul>
     </nav>
 </header>
@@ -275,20 +283,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <footer>
     <section class="gray-stripe">
         <div class="row">
-            <div class="large-11 large-centered columns">
+            <div class="large-12 large-centered columns">
                 <div class="row">
                     <div class="small-6 medium-3 large-2 columns">
                         <p>Products</p>
-                        <a href="//docs.handsontable.com/">Handsontable</a>
+                        <a href="//docs.handsontable.com/tutorial-introduction.html">Handsontable</a>
                         <a href="//docs.handsontable.com/pro/">Handsontable PRO</a>
                         <a href="https://github.com/handsontable/ngHandsontable" target="_blank">ngHandsontable</a>
                         <a href="https://github.com/handsontable/hot-table" target="_blank">hot-table</a>
                     </div>
                     <div class="small-6 medium-3 large-2 columns">
                         <p>Top features</p>
-                        <a href="//docs.handsontable.com/tutorial-data-binding.html">Data binding</a>
-                        <a href="//docs.handsontable.com/demo-data-validation.html">Data validation</a>
-                        <a href="//docs.handsontable.com/demo-sorting.html">Sorting data</a>
+                        <a href="//docs.handsontable.com/pro/tutorial-data-binding.html">Data binding</a>
+                        <a href="//docs.handsontable.com/pro/demo-data-validation.html">Data validation</a>
+                        <a href="//docs.handsontable.com/pro/demo-sorting.html">Sorting data</a>
                         <a href="//docs.handsontable.com/pro/demo-filtering.html">Filtering data</a>
                     </div>
                     <div class="small-6 medium-3 large-2 columns">
@@ -298,12 +306,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <a href="https://groups.google.com/forum/#!forum/handsontable" target="_blank">Google Group</a>
                         <a href="http://stackoverflow.com/tags/handsontable" target="_blank">Stackoverflow</a>
                     </div>
-                    <div class="small-6 medium-3 large-1 columns">
+                    <div class="small-6 medium-3 large-2 columns">
                         <p>Company</p>
                         <a href="/team.html">Team</a>
+                        <a href="/blog">Blog</a>
                         <a href="/contact.html">Contact</a>
                     </div>
-                    <div class="small-12 medium-12 large-5 columns subscribe-form">
+                    <div class="small-12 medium-12 large-4 columns subscribe-form">
                         <h5>Sign up for the newsletter</h5>
                         <p>Keep up with the latest news and updates</p>
                         
@@ -314,15 +323,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     <div class="mc-field-group">
                                         <svg class="left"><use xlink:href="#mail_icon"></use></svg>
                                         <input placeholder="Email Address" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+                                        <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button btn green">
                                     </div>
-                                    <div id="mce-responses" class="clear">
+                                    <div id="mce-responses">
                                         <div class="response" id="mce-error-response" style="display:none"></div>
                                         <div class="response" id="mce-success-response" style="display:none"></div>
                                     </div>
                                     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_47073b08d03ebee16188c1687_0a640d7654" tabindex="-1" value=""></div>
-                                    <div class="clear">
-                                        <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button btn green">
-                                    </div>
                                 </div>
                             </form>
                         </div>
@@ -361,5 +368,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </section>
 </footer>
     <script async="" defer="" id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
+<script async="" defer="" src="/static/js/common/webTracking.js"></script>
 
 </body></html>
