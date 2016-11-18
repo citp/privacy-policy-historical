@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockopedia.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611223501id_/http%3A//www.stockopedia.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockopedia.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118225128id_/http%3A//www.stockopedia.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stockopedia
 
@@ -53,6 +53,8 @@ We may use your personal information to:
 You acknowledge that our website is a social networking website and, where you submit personal information for publication on our website (including as part of your profile) we will publish and otherwise use that information in accordance with the terms of the licence you grant to us. Similarly, user ratings and reviews concerning you, and details of the performance of your public funds, may be published on our website.
 
 Where you specifically agree to this (for example, during the website registration process) we may use your personal information to send to you marketing communications which we think may be of interest to you about our business or the businesses of carefully-selected third parties by post, fax, email, SMS or similar technology.
+
+We use remarketing to advertise across web sites. Google, Facebook (and other similar third parties, if you use them) will show ads across web sites that you are visiting. These ads shown across other web sites are based on a user’s past visits to our web site by using cookies. Should you wish to opt out of remarketing campaigns, you can do this by visiting Google and Facebook's Ads Settings page.
 
 Where you have provided us with credit card details in relation to a subscription service, we do not store these details nor do we share customer payment details with any 3rd parties other than our partners, Paypal and Recurly who we use for secure payments.
 
