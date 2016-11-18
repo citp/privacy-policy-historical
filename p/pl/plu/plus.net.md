@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plus.net privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603111352id_/https%3A//www.plus.net/help/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plus.net privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118062345id_/https%3A//www.plus.net/help/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Help & Support - Plusnet
 
@@ -8,9 +8,9 @@ In the below we’ve detailed what personal information we’ll collect when you
 
 ### When you browse the Plusnet website:
 
-  * **What we collect:** we record how you use our website (for example, where you accessed it from, where you go on our website and how long you stay on each page). We also collect information on the browsers and operating system you use. This information is anonymised so it is not linked to you specifically and isn't used to identify you.
+  * **What we collect:** we record how you use our website (for example, where you accessed it from, where you go on our website and how long you stay on each page). We also collect information on the browsers and operating system you use.
 
-  * **Why we collect it:** we do this so we can see whether there are problems in how people navigate around our website and work to improve the experience of using our website.
+  * **Why we collect it:** we do this so we can see whether there are problems in how people navigate around our website and work to improve the experience of using our website. When we collect this information we may associate it with a unique identifier so we can link together all the ways you interact with us and our site (for example so we can tell if a particular part of our website isn't helpful, as people who visit it tend to call us afterwards).
 
 
 
@@ -52,9 +52,9 @@ In the below we’ve detailed what personal information we’ll collect when you
 
 ### When you use any of our services:
 
-  * **What we collect:** our network records information on how much you use our service (for example, how long you connect to the Internet, how long you speak on the phone, and what numbers you call). We also collect information on the websites you visit. 
+  * **What we collect:** our network records information on how much you use our service (for example, how long you connect to the Internet, how long you speak on the phone, and what numbers you call). We also collect information on the websites you visit. We'll also use some of the information you provide when you sign up when you use our services.
 
-  * **Why we collect it:** we are not Big Brother and only want to collect this information so we can manage demand across our network, manage faults and bill you for the service. We’re legally required to keep this information. Sometimes court orders and agreements also mean we have to collect this information. The information might also be necessary if we need to contact you if you are using our service to access third party content in an unlawful way, or if we need to notify you about changes to our services (for example, to tell you that we have upgraded the service on your line, or to tell you when new technologies, such as fibre broadband, are available).
+  * **Why we collect it:** we are not Big Brother and only want to collect this information so we can provide our services, manage demand across our network, manage faults and bill you for the service. We’re legally required to keep this information. Sometimes court orders and agreements also mean we have to collect this information. The information might also be necessary if we need to contact you if you are using our service to access third party content in an unlawful way, or if we need to notify you about changes to our services (for example, to tell you that we have upgraded the service on your line, or to tell you when new technologies, such as fibre broadband, are available).
 
 
 
@@ -65,7 +65,7 @@ In the below we’ve detailed what personal information we’ll collect when you
 
   * **What we collect:** we capture and store information about whether you’ve activated Plusnet Safeguard and the settings that you’ve selected. Plusnet SafeGuard doesn’t record details of your individual Internet activity or any specific websites that might be blocked by this service. We may record anonymous and aggregated information about the websites that are blocked by Plusnet SafeGuard for the purpose of monitoring any problems or faults with the service.
 
-  * **Why we collect it:** it is essential to collect this information for Plusnet SafeGuard to work properly.
+  * **Why we collect it:** it is essential to collect this information for Plusnet SafeGuard to work properly and for it to be able to block unsuitable websites.
 
 
 
@@ -111,7 +111,7 @@ As the Community is publically available, we’re not responsible for the securi
 
   * **What we collect:** we may collect information via cookies (see below) and other tracking devices. We may also create unique identifiers that match our records with these providers’ records. Where you sign up for service(s), either online or via the phone, through one of these providers, these providers may collect the information to sign you up for the service(s) on our behalf, rather than us collecting the information from you directly.
 
-  * **Why we collect it:** we use the tracking information and unique identifiers to see whether you’ve been referred to us by a comparison website or cashback provider and to be able to process payments that are due. The information collected to sign you up for service(s) is collected for the same reasons as when you sign up with us directly and the When you sign up for our service(s) section provides full details on this.
+  * **Why we collect it:** we use the tracking information and unique identifiers to see whether you’ve been referred to us by a comparison website or cashback provider and to be able to process payments that are due. The information collected to sign you up for service(s) is collected for the same reasons as when you sign up with us directly and the [When you sign up for our service(s) section](https://web.archive.org/web/20161118062345id_/https://www.plus.net/help/legal/privacy-policy/?scrollTo=when-you-sign-up-for-our-service-s-#what-information) provides full details on this.
 
 
 
@@ -135,7 +135,7 @@ Please note that these comparison websites and cashback providers have their own
 
 There are couple of other circumstances where we might collect or use your personal information not covered by the above: 
 
-  * We generally carry out market research and analysis on our products and services and future developments, and when we do this we'll make sure that you can't be identified after your participation in the research has ended. Sometimes our third party market research providers may contact you by text or email (where you’ve provided this information) so you can provide feedback on our customer service or our services generally, if you want to. 
+  * We generally carry out market research and analysis on our products and services, customer base and generally to see what we can improve in the future. To do this we, or our third party market research providers, may contact you by text or email so you can provide feedback on our customer service or our services generally, if you want to. This market research and analysis may also involve us sharing or obtaining personal information with companies that pull together information from multiple sources. When we can, we'll make sure that you can't be identified after your participation in the research has ended.
 
   * We try to use dummy information to test our software but sometimes we have to use personal information. We’ll only do this where strictly necessary and in secure pre-production environments.
 
