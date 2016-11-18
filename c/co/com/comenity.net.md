@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comenity.net privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606050003id_/http%3A//about.comenity.net/online-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comenity.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119001421id_/http%3A//about.comenity.net/online-privacy) for the most accurate reproduction.*
 
 # Online Privacy | Comenity
 
