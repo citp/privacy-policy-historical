@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the einthusan.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630180923id_/http%3A//www.einthusan.com/privacy/index.php%3Flang%3Dtamil) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the einthusan.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232044id_/http%3A//www.einthusan.com/privacy/index.php%3Flang%3Dtamil) for the most accurate reproduction.*
 
 # Privacy Policy | einthusan.com
 
