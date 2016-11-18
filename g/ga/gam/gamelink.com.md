@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamelink.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514105220id_/http%3A//www.gamelink.com/s/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamelink.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232021id_/http%3A//www.gamelink.com/s/privacy-policy) for the most accurate reproduction.*
 
-# | GameLink
+# | GameLink VOD, Adult Movies and Sex Toys
 
 * * *
 
@@ -30,7 +30,7 @@ Email Order Company and a Distributor of Adult DVDs, Videos, Toys, and Streaming
 
 ### 1\. NOTICE:
 
-GameLink (we) strictly maintains your privacy in all transactions. Your information is NEVER sold or shared with any third parties, except as disclosed in this statement. We never sell, give or lend mailing or ordering lists, including your data or any other part of them, except as needed to fulfill your order (e.g. shipping company, credit card processing company) or as requested by law enforcement (see below).
+GameLink VOD, Adult Movies and Sex Toys (we) strictly maintains your privacy in all transactions. Your information is NEVER sold or shared with any third parties, except as disclosed in this statement. We never sell, give or lend mailing or ordering lists, including your data or any other part of them, except as needed to fulfill your order (e.g. shipping company, credit card processing company) or as requested by law enforcement (see below).
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify users by posting a notice on our Website for 30 days.
 
@@ -40,7 +40,7 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 We collect the following items of personal information: name, age, email address, postal address, city and state, telephone number and credit card number are requested. We collect your information in a few different ways:
 
-  * MAILING LIST:If you want to be added to our double opt-in email list, pre-checked with a "General" category opt-out, you may subscribe using the form available on this site. Subscribers receive periodic email notices that include exclusive special offers, information about sales, promotions, new releases, and other relevant information. To unsubscribe from any list, click on the link at the top or bottom of the email you receive(d) and type your email address in the field marker "unsubscribe." [Click here to unsubscribe](https://web.archive.org/subscription/mailing_list_unsubscribe.jhtml?disableMobile=true) from the email list.
+  * MAILING LIST:If you want to be added to our double opt-in email list, pre-checked with a "General" category opt-out, you may subscribe using the form available on this site. Subscribers receive periodic email notices that include exclusive special offers, information about sales, promotions, new releases, and other relevant information. To unsubscribe from any list, click on the link at the top or bottom of the email you receive(d) and type your email address in the field marker "unsubscribe." [Click here to unsubscribe](https://web.archive.org/s) from the email list.
   * ORDERS: When you place an order with us, we must maintain the orders and shipping information and we assure you that this is kept for our internal purposes only. We do not send any unsolicited mailings. We must share your name and address as shipping and delivery information to postal carriers such as Fed Ex and USPS. Credit processors: we must share the account information you enter. We do not know what those services do with the data. Game Link International Limited is not responsible for changes in our third party carriers' Privacy policies or any problems those services have with data integrity.
   * WHOLESALE APPLICATIONS AND AFFILIATE SIGN-UP: These forms are for our prospective business affiliates. We collect business contact information to process your application and conduct business. We treat this information accordingly.
   * NON-PERSONAL INFORMATION: Like many Websites we collect and analyze standard log file information and Session ID information to analyze site traffic, improve site performance and to prevent fraud. Session IDs are bits of code on your computer that assist your browser in navigating our site. We do not associate personal information with log file information or cookies, except when needed to prevent fraud.
@@ -55,7 +55,7 @@ As an individual, you have the opportunity to limit the personal information you
 
 There are non-mandatory sections of the forms we use that do not need to be filled out unless you want to include the information. Limiting the information you include could limit your access to certain special offers and promotions.
 
-You may select whether or not to receive email from us by subscribing or unsubscribing to our email list at any time. [Click here to subscribe/unsubscribe](https://web.archive.org/subscription/mailing_list.jhtml) to the email list or call Game Link Customer Service at (877) 877-0271.
+You may select whether or not to receive email from us by subscribing or unsubscribing to our email list at any time. [Click here to subscribe/unsubscribe](https://web.archive.org/s) to the email list or call Game Link Customer Service at (877) 877-0271.
 
 You may choose not to register as a customer. This may limit your options for performing transactions on our site, and will prevent you from ordering online.
 
@@ -87,7 +87,7 @@ Though we are required to maintain your ordering history, it is kept discreet.
 
 ### 7\. DATA INTEGRITY:
 
-GameLink keeps the data you give us accurate, complete and current in order to speed your order to you. We only require personal data that will allow us to achieve this purpose and to maintain the "adult-only" nature of this Website.
+GameLink VOD, Adult Movies and Sex Toys keeps the data you give us accurate, complete and current in order to speed your order to you. We only require personal data that will allow us to achieve this purpose and to maintain the "adult-only" nature of this Website.
 
 Naturally, we can only maintain data that you submit. If you move or change your email address, please let us know so your records remain up to date and there is nothing to delay receipt of your order. We are not responsible for lost goods or services due to your failure to update your information.
 
@@ -99,10 +99,10 @@ You are able to access and amend your personal information where it is inaccurat
 
 You can update and change your data by:
 
-  * Logging in with your User Name and Password to access and edit your personal profile. This can be done while placing an order, or independently of placing an order at [https://www.gamelink.com/login.jhtml](https://web.archive.org/login.jhtml?disableMobile=true).
+  * Logging in with your User Name and Password to access and edit your personal profile. This can be done while placing an order, or independently of placing an order at [https://www.gamelink.com/login.jhtml](https://web.archive.org/s/login).
   * Email Game Link Customer Service at [customerservice@gamelink.com](mailto:customerservice@gamelink.com) with a request to change information in your profile.
   * Mail a letter requesting the change of information to:  
-     GameLink Customer Service  
+     GameLink VOD, Adult Movies and Sex Toys Customer Service  
      C/O Mama's LLC  
      537 Stevenson St. #100  
      San Francisco, CA 94103
@@ -142,4 +142,4 @@ We respect your privacy. Through our provider, Google Analytics, data is collect
 
 * * *
 
-[Continue To Shop](https://web.archive.org/main.jhtml)
+[Continue To Shop](https://web.archive.org/s)
