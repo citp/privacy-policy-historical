@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kakuroconquest.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610102020id_/http%3A//www.kakuroconquest.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kakuroconquest.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119002919id_/http%3A//www.kakuroconquest.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - KakuroConquest.com
 
@@ -6,7 +6,7 @@
 
 Kakuro is like a crossword puzzle with numbers. Each "word" must add up to the number provided in the clue above it or to the left. Words can only use the numbers 1 through 9, and a given number can only be used once in a word. Every [kakuro puzzle](http://www.kakuroconquest.com/) has one and only solution, and can be solved through logic alone.
 
-Kakuro Hint: Not sure what all of the valid combinations are for a number? Click on the number clue, and a tooltip will show you the possibilities.
+Kakuro Hint: Not sure what a number is yet? Fill in its remaining possible values -- the cell will automatically resize to accommodate.
 
 Also try [**sudoku**](http://www.sudokuconquest.com/) and [**hitori**](http://www.hitoriconquest.com/)
 
