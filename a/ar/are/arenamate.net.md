@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the arenamate.net privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615130736id_/http%3A//www.arenamate.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arenamate.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119004431id_/http%3A//www.arenamate.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy // arenamate.net - Your WoW Warlords S3 PvP Hub
+# Privacy Policy // arenamate.net - Your WoW Legion S1 PvP Hub
 
-Your WoW Warlords S3 PvP Hub
+Your WoW Legion S1 PvP Hub
+
+Last Ladder Update: ** 3 years ago **
+
+This website uses cookies to increase your viewing pleasure. 
 
 We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit arenamate.net, and how we safeguard your information. We never sell your personal information to third parties.
 
 ##### Log Files
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as Comcast or Frontier), the browser you used to visit our site (such as Chrome or Firefox), the time you visited our site and which pages you visited throughout our site.
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as Comcast or Time Warner Cable), the browser you used to visit our site (such as Chrome or Firefox), the time you visited our site and which pages you visited throughout our site.
 
 ##### Cookies and Web Beacons
 
