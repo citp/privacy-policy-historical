@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the uaudio.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415202046id_/http%3A//www.uaudio.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uaudio.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233928id_/http%3A//www.uaudio.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-**Universal Audio, Inc. Privacy Notice**
-
-This notice describes the privacy policy for Universal Audio, Inc. and its subsidiaries (together, “UA”). By visiting uaudio.com, uaudio.jp, uaudio.fr, uaudio.de or any other website owned by UA (each, a “UA Domain”), you are accepting the practices described in this Privacy Notice. 
 
   * What Personal Information about You Does UA Gather [1]?
   * What About Cookies? [2]
@@ -122,7 +118,7 @@ Examples of information we receive from other sources include updated delivery a
 
 Examples of businesses with which we offer joint or co-branded products and other offerings include: AKG, Ampex, Ampeg, AMS Neve, API, Brainworx, Chandler Limited, Dangerous Music, dbx, Dunlop, Engl, Eventide, elysia, Empirical Labs, EMT, Fairchild, Friedman, Harrison, Helios, Ibanez, Lexicon, Little Labs, Maag, Manley Labs, Massenburg, Marshall, Moog, Millenia, MXR, Ocean Way, Pultec, Shadow Hills, SPL, Studer, SSL, Sonnox, Summit Audio, Thermionic Culture, Tonelux, Trident, Tube-Tech, Valley People, Vertigo Sound
 
-**[UA Website Terms of Use [3.b]](http://www.uaudio.com/terms.html)**
+**[UA Website Terms of Use [3.b]](https://web.archive.org/terms.html)**
 
 **Interest-Based Ads [5.a]**
 
