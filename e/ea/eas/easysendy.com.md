@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the easysendy.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413214020id_/https%3A//easysendy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easysendy.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118165835id_/https%3A//easysendy.com/legals/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and Copyright - EasySendy
+# Privacy and Copyright - EasySendy Pro
 
 **Website Visitors**
 
@@ -16,7 +16,7 @@ Certain visitors to EasySendy’s websites choose to interact with EasySendy in 
 
 **Protection of Certain Personally-Identifying Information**
 
-EasySendy discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on EasySendy’s behalf or to provide services available at EasySendy’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using EasySendy’s websites, you consent to the transfer of such information to them. EasySendy will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, EasySendy discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when EasySendy believes in good faith that disclosure is reasonably necessary to protect the property or rights of EasySendy, third parties or the public at large. If you are a registered user of a EasySendy website and have supplied your email address, EasySendy may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with EasySendy and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. EasySendy takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+EasySendy discloses potential personally-identifying information only to its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on EasySendy’s behalf or to provide services available at EasySendy’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using EasySendy’s websites, you consent to the transfer of such information to them. EasySendy will not rent or sell potential personally-identifying information to anyone, other than to its employees, contractors and affiliated organizations as described above. EasySendy discloses potential personally-identifying information only in response to a subpoena, court order or other governmental request, or when EasySendy believes in good faith that disclosure is reasonably necessary to protect the property or rights of EasySendy, third parties or the public at large. If you are a registered user of an EasySendy website and have supplied your email address, EasySendy may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with EasySendy and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. EasySendy takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
 **Cookies**
 
@@ -28,7 +28,7 @@ Comments and other content submitted to our Akismet anti-spam service are not sa
 
 **Privacy Policy Changes**
 
-Although most changes are likely to be minor, EasySendy may change its Privacy Policy from time to time, and in EasySendy’s sole discretion. EasySendy encourages visitors to frequently check this page for any changes to its Privacy Policy. Should EasySendy decide to change its Privacy Policy, we will post such changes on this page so that you are always aware of how we use your personal information and in what circumstances it discloses it. Client’s continued use of this site after any change in this Privacy Policy will constitute Client’s acceptance of such change.
+Although most changes are likely to be minor, EasySendy may change its Privacy Policy from time to time, and is EasySendy’s sole discretion. EasySendy encourages visitors to frequently check this page for any changes to its Privacy Policy. Should EasySendy decide to change its Privacy Policy, we will post such changes on this page so that you are always aware of how we use your personal information and in what circumstances we disclose it. Client’s continued use of this site after any change in this Privacy Policy will constitute Client’s acceptance of such change.
 
 **DMCA Website Notice**
 
@@ -53,8 +53,6 @@ Section 512(c) of the DMCA requires that a notice include all of the following i
 
 You acknowledge that if you fail to comply with all of the foregoing requirements your DMCA notice may not be valid and EasySendy may take no action. If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-**EasySendy.com**
-
-https://easysendy.com/
-
+**EasySendy.com**  
+https://easysendy.com/  
 support@easysendy.com
