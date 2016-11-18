@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sundaymercury.net privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611125955id_/http%3A//www.birminghammail.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sundaymercury.net privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118224545id_/http%3A//www.birminghammail.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Birmingham news, features, information and sport from the Birmingham Mail
-
-## Privacy statement
 
 **IN RELATION TO ALL WEB SITE SERVICES OFFERED BY TRINITY MIRROR MIDLANDS LIMITED HERE ON THIS WEB SITE**
 
