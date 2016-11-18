@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datafile.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619133011id_/http%3A//www.datafile.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datafile.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119003320id_/http%3A//www.datafile.com/privacy.html) for the most accurate reproduction.*
 
 # DataFile.com - Reliable file hosting
 
