@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the potterybarn.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616063549id_/http%3A//www.potterybarn.com/about-us/privacy-policy.html%3Fcm_type%3Dfnav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the potterybarn.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118221347id_/http%3A//www.potterybarn.com/about-us/privacy-policy.html%3Fcm_type%3Dfnav) for the most accurate reproduction.*
 
 # Privacy Policy | Pottery Barn
 
