@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friendlife.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617015324id_/http%3A//friendlife.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendlife.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119001125id_/http%3A//friendlife.com/content/privacy) for the most accurate reproduction.*
 
 # FriendLife
 
@@ -40,7 +40,7 @@ This Policy only applies to the FriendLife website and services. We do not exerc
 
 #### DATA INTEGRITY
 
-We processes personal information only for the purposes for which it was collected and in accordance with this policy. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. Users can update, correct or delete their personal information through the profile page of their account or by [contacting us](https://friendlife.com/content/contact_form).
+We process personal information only for the purposes for which it was collected and in accordance with this policy. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. Users can update, correct or delete their personal information through the profile page of their account or by [contacting us](https://friendlife.com/content/contact_form).
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
