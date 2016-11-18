@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tennistv.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512083902id_/http%3A//www.tennistv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennistv.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233606id_/http%3A//www.tennistv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TennisTV
 
@@ -84,7 +84,7 @@ You can also request at any time that the Personal Information we hold about you
 
 If we decide to change this Privacy Policy, the changes will be posted on this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. We will not use or disclose Personal Information provided to us in ways unrelated to the ones described above without informing you and providing you with an opportunity to opt-out of these unrelated uses.
 
-If you have any questions or comments about this Privacy Policy please feel free to contact us atcustomerservices@performgroup.com
+If you have any questions or comments about this Privacy Policy please feel free to contact us at [customerservices@performgroup.com](mailto:customerservices@performgroup.com)
 
 Registered Office:
 
