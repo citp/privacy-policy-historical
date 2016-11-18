@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eucalyptus.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517165408id_/http%3A//www8.hp.com/us/en/hpe/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eucalyptus.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118225206id_/http%3A//www8.hp.com/us/en/hpe/privacy/privacy.html) for the most accurate reproduction.*
 
 # Online privacy statement | Hewlett Packard Enterprise
 
@@ -8,15 +8,9 @@
 
 HPE and its subsidiaries respect your privacy. This Privacy Statement informs you of our privacy practices and of the choices you can make about the way information about you, including from your online activity is collected and how that information is used by HPE. This statement is readily available on our HPE.com home page and at the bottom of every HPE web page. Please use the links below to access translations of this statement and any applicable country specific or service specific supplements to the statement.
 
-HPE was a founding sponsor of the Council of Better Business Bureau’s Online Privacy Program and is a BBB Accredited Business. HPE privacy practices are consistent with the BBB Code of Business Practices and we proudly display the BBB seal.
-
-[ ](http://www.bbb.org/sanjose/business-reviews/computers-networks/hewlett-packard-in-palo-alto-ca-207934)[ ](http://www.bbb.org/sanjose/business-reviews/computers-networks/hewlett-packard-in-palo-alto-ca-207934)
-
 In the development of HPE’s privacy policies and standards, we respect and take into account the major principles and frameworks around the world, including the OECD Guidelines on the Protection of Privacy and Transborder Flows, EU Directive 95/46/EC, APEC Privacy Framework, and the Madrid Resolution on International Privacy Standards and the Australian Privacy Principles under the Privacy Act 1988 (Cth).
 
-HPE complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. HPE has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view HPE's certification, please visit <http://www.export.gov/safeharbor/> [](http://www.export.gov/safeharbor/).
-
-HPE has also established a set of binding corporate rules (“BCR”), which have been approved by the majority of Data Protection Regulators in the EEA and Switzerland, effective June 2011. The BCRs ensure that personal data from the EEA is adequately protected while being processed by any of HPE’s global entities.
+HPE has an inter-company agreement on the transfer and processing of personal data within the HPE group worldwide. This agreement also forms the basis of HPE’s Binding Corporate Rules for Controller (BCRs) which have been approved by the majority of the Data Protection Regulators in the European Economic Area (EEA) and Switzerland. The BCRs (together with EU model contracts in some countries) allow HPE to ensure that EEA personal data which is transferred to and processed by HPE companies outside the EEA, is adequately protected in accordance with applicable data protection law.
 
 HPE has received TRUSTe's APEC Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. HPE’s privacy practices described in this Statement comply with the APEC Cross Border Privacy Rules System, including transparency, accountability, and choice regarding the collection and use of your personal information. The CBPR certification does not cover information that may be collected through downloadable software on third party platforms.
 
@@ -243,7 +237,7 @@ Credit card numbers are used only for processing payments and are not used for o
 
 ### 9\. Changes to this Statement
 
-If we modify our Privacy Statement, we will post the revised statement here, with an updated revision date. If we make significant changes to our Statement that materially alter our privacy practices, we may also notify you by other means, such as sending an email or posting a notice on our corporate website and/or social media pages prior to the changes taking effect. This privacy policy was last updated on November 15, 2015.
+If we modify our Privacy Statement, we will post the revised statement here, with an updated revision date. If we make significant changes to our Statement that materially alter our privacy practices, we may also notify you by other means, such as sending an email or posting a notice on our corporate website and/or social media pages prior to the changes taking effect. This privacy policy was last updated on August 17, 2016
 
   
 
@@ -253,8 +247,6 @@ If we modify our Privacy Statement, we will post the revised statement here, wit
 ### 10\. Contacting us & how to make a complaint
 
 We value your opinions. If you have comments or questions about our Privacy Statement, any concerns or a complaint regarding our collection and use of your data or a possible breach of your privacy, please send them to the [HPE Privacy Office](https://web.archive.org/us/en/hpe/privacy/feedback-forms.html) or write to us at the appropriate address below. We will treat your requests or complaints confidentially. Our representative will contact you within a reasonable time after receipt of your complaint to address your concerns and outline options regarding how they may be resolved. We will aim to ensure that your complaint is resolved in timely and appropriate manner.
-
-HPE has also committed to refer unresolved privacy complaints from E.U. and Swiss citizens or residents regarding transfers of their personal data under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if HPE does not satisfactorily address your complaint, you may contact BBB EU Safe Harbor at: [http://www.bbb.org/us/safe-harbor-complaints ](http://www.bbb.org/us/safe-harbor-complaints).
 
   
 
