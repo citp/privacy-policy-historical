@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivearabia.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616232156id_/http%3A//www.drivearabia.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivearabia.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231403id_/http%3A//www.drivearabia.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Drive Arabia : Dubai Live >> UAE, Saudi, Oman, Qatar, Bahrain, Kuwait & GCC
 
