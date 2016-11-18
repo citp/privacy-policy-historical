@@ -1,37 +1,17 @@
-> *The following text is extracted and transformed from the songspkfree.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422072837id_/http%3A//songspkfree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songspkfree.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118222544id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal
 
-Privacy Policy of songspkfree.com.
+* * *
 
-If you need any more questions about our privacy policy, please contact us by email at songspks [AT] gmail.com.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-At http://songspkfree.com/, the privacy of our visitors is extreme importance to us. This privacy policy document outlines the categories of private data is received and picked up by http://songspkfree.com/ and how it\’s used.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-Log Files
 
-Like several alternative websites, http://songspkfree.com/ makes use of log files. the knowledge inside the log files includes internet protocol ( ip ) addresses, style of browser, internet Service provider ( ISP ), date/time stamp, referring/exit pages, and variety of clicks to research trends, administer the site, track user’s movement around the website, and gather demographic data. ip addresses, and alternative such info aren\’t connected to any info that\’s personally identifiable.
 
-Cookies and internet Beacons  
-http://songspkfree.com/ does use cookies to store info about visitors preferences, record user-specific info on which pages the user access or visit, customise web page content supported based on browser kind or other info that the visitor sends via their browser.
-
-DoubleClick DART Cookie
-
-Google, as a 3rd party seller, uses cookies to serve ads on http://songspkfree.com/.
-
-Google’s use of the DART cookie allows it to serve ads to users based on their visit to http://songspkfree.com/ and alternative sites on the net.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following url – http://www.google.com/privacy_ads.html  
-Some of our advertising partners may use cookies and web beacons on our website. Our advertising partners include ….  
-Adcash,  
-Infolinks,  
-Revenuehits,  
-Bidvertiser,  
-and others.
-
-These third-party ad servers or ad networks use technology to the advertisements and links that seem on http://songspkfree.com/ send on to your browsers. They automatically receive your ip address when this happens. alternative technologies ( like cookies, JavaScript, or internet Beacons ) may be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
-
-http://songspkfree.com/ has no access to or control over these cookies that are used by third-party advertisers.
-
-You should consult the respective privacy policies of those third-party ad servers for a lot of detailed info on their practices as well as for directions about how to opt-out of certain practices. http://songspkfree.com/’s privacy policy doesn\’t apply to, and that we cannot management the activities of, such alternative advertisers or websites.
-
-If you want to disable cookies, you may do so through your individual browser options. more elaborate data about cookie management with specific web browsers can be found at the browsers’ respective websites.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
