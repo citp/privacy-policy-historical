@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the receive-sms-online.info privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621202638id_/http%3A//www.receive-sms-online.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the receive-sms-online.info privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000218id_/http%3A//www.receive-sms-online.info/privacy.php) for the most accurate reproduction.*
 
-# Receive SMS Online for FREE | NO Registration | Privacy Policy
+# Receive SMS Online for FREE | NO Registration | Read SMS | Privacy Policy
 
 ##### **Privacy Policy & cookies**
 
@@ -12,4 +12,4 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google'
 
 #####  **Changes to this Privacy Statement**
 
-Sms-receive.net reserves the right to change these policies at any time. If we decide to change our privacy policy, we will post those changes on this page. If you have any further questions regarding the site Privacy Policies you may [contact us](https://web.archive.org/contact.php).
+Receive-sms-online.info reserves the right to change these policies at any time. If we decide to change our privacy policy, we will post those changes on this page. If you have any further questions regarding the site Privacy Policies you may [contact us](https://web.archive.org/contact.php).
