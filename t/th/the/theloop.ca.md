@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theloop.ca privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628004847id_/http%3A//support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy%3Flanguage%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theloop.ca privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234315id_/http%3A//support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy%3Flanguage%3Den) for the most accurate reproduction.*
 
 # How does Bell respect my privacy? : Privacy at Bell
 
@@ -44,8 +44,6 @@ K1A 1H3
 Phone: 1 800 282-1376  
 [www.priv.gc.ca](http://www.priv.gc.ca/)
 
-Last Updated:09/07/2015 
-
 * * *
 
 Your personal information 
@@ -87,8 +85,6 @@ While the information may be subject to the legal jurisdictions of these countri
 
 The use of customer information in this way is governed by the Bell Privacy Policy. 
 
-Last Updated:09/07/2015 
-
 * * *
 
 Does Bell share personal client information? 
@@ -129,8 +125,6 @@ It' s important to note that in certain circumstances, we may collect, use or di
 
 
 
-Last Updated:09/07/2015 
-
 * * *
 
 Customer usage and account information to design relevant marketing 
@@ -138,8 +132,6 @@ Customer usage and account information to design relevant marketing
 ## Customer usage and account information to design relevant marketing
 
 This section will be updated in the future. Please check back later.
-
-Last Updated:09/07/2015 
 
 * * *
 
@@ -156,8 +148,6 @@ This safeguard will help us prevent pre-texting, often referred to as “social 
 The kinds of things we might ask you to confirm could include your account number, PIN or password associated with the account, details of your payment habits, service usage or identification that you might have provided when you first requested your service such as a provincial driver's licence number.
 
 We therefore ask for your patience and understanding when you are asked to confirm or provide such information as this process has been established to protect your personal account information.
-
-Last Updated:09/07/2015 
 
 * * *
 
@@ -202,8 +192,6 @@ Because Bell is committed to continually improving its customer contact experien
 
 The Bell companies may also record outbound calls placed to our customers for similar purposes.
 
-Last Updated:09/07/2015 
-
 * * *
 
 How does Bell respect children’s privacy online? 
@@ -216,8 +204,6 @@ For more information regarding marketing to children, please visit the [Canadian
 
 For more information about protecting children online, bell.ca offers some [information about parental controls and safe surfing](http://support.bell.ca/Internet/Security/How-can-I-protect-my-kids-on-the-Internet) in our Internet support pages.
 
-Last Updated:09/07/2015 
-
 * * *
 
 What privacy enhancing services does Bell offer? 
@@ -227,8 +213,6 @@ What privacy enhancing services does Bell offer?
 **What privacy enhancing services does Bell offer?**
 
 [Bell offers a number of services](http://bell.ca/Home_phone/Calling_features/Control_your_calls.tab), such as Call Display, Call Privacy and Call Blocking, to help balance the privacy interests of customers and the people they call. You can also find information about these services in the introductory pages of the telephone directory, by calling **1 866 310-BELL** (2355) or by visiting a Bell store.
-
-Last Updated:09/07/2015 
 
 * * *
 
@@ -326,8 +310,6 @@ ADADs used to make calls for purposes other than telemarketing must:
 
 These conditions do not apply to ADAD calls made for public-service reasons, including calls for emergency and administrative purposes by police and fire departments, schools, hospitals, or similar organizations.
 
-Last Updated:09/07/2015 
-
 * * *
 
 Fraud prevention 
@@ -406,8 +388,6 @@ Otherwise, if you suspect you’ve been a target of any type of phone or Interne
 
 To find out more about fraud prevention, go to [www.competitionbureau.gc.ca/fraud](http://www.competitionbureau.gc.ca/fraud).
 
-Last Updated:09/07/2015 
-
 * * *
 
 What does “Bell affiliates” mean? 
@@ -424,6 +404,4 @@ Bell ExpressVu L.P.
 The Source (Bell) Electronics Inc.  
 Bell Media Inc.  
   
-Last Updated:09/07/2015 
-
 * * *
