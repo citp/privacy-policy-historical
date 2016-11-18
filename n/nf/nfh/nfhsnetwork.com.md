@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nfhsnetwork.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520084602id_/http%3A//www.nfhsnetwork.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfhsnetwork.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235855id_/http%3A//www.nfhsnetwork.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Live high school sports video and live stats on the NFHS Network | NFHSNetwork.com
 
