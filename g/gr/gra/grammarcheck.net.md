@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grammarcheck.net privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628021651id_/http%3A//www.grammarcheck.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grammarcheck.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000034id_/http%3A//www.grammarcheck.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -89,5 +89,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 This policy was last modified on 20. March 2015
 
 **GrammarCheck**  
-Postfach, Hofweg 4  
 3013 Switzerland
