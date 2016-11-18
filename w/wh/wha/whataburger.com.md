@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the whataburger.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620194916id_/http%3A//www.whataburger.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whataburger.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235927id_/http%3A//whataburger.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
-# Whataburger - Mobile
+# None
 
-**Whataburger.com** **  
+**Whataburger.com & Mobile App** **  
 ** **PRIVACY POLICY**
 
 Your privacy is very important to us.
@@ -43,7 +43,11 @@ If you request information about employment opportunities with Whataburger, or i
 
 Whataburger will not sell your personally identifiable information to anyone at any time without your prior permission.  We will transfer or otherwise disclose the information we collect from Web Site visitors to employees and independent contractors of Whataburger and its service providers if the disclosure will enable that party to perform a business, professional, or technical support function for Whataburger, or if required to do so by law. We will also transfer or otherwise disclose personal information in response to judicial process, to comply with legal requirements, and, as permitted under provisions of law, to provide information to law enforcement agencies or in connection with an investigation on a matter related to public safety. We may also use your personal information as permitted by law to protect our rights or property, the Web Site, or its users.
 
-We routinely use the non-personally identifiable information that we collect to improve the design and content of our Web Site and to enable us to personalize your Internet experience, as well as for general system administration. We also may use this information to analyze site usage, as well as to offer products, programs, or services to you or other users like you. 
+We routinely use the non-personally identifiable information that we collect to improve the design and content of our Web Site and to enable us to personalize your Internet experience, as well as for general system administration. We also may use this information to analyze site usage, as well as to offer products, programs, or services to you or other users like you.
+
+We do not respond to web browser “do not track” signals at this time. We await the result of work by the policy community and industry to determine when such a response is appropriate and what form it should take. If you use certain functions within the Mobile App that rely on geo-location functionality, please be advised that Whataburger or its Third-Party providers may monitor and track your mobile device’s geo-location in order to deliver such functionality.  For example, if you use the “Locations” function and want to find the Whataburger location nearest to your current location, Whataburger and its Third-Party Providers will monitor your geo-location to deliver that information to you. Please also note that some functionality within the Mobile App may not be available or may not fully function if you turn off geo-location services. For example, without geo-location services turned on, Whataburger will not be able to determine the closest Whataburger location to you.
+
+Whataburger may make personalized marketing messages, ads or offers to you through the Mobile App based upon: (a) your interaction with the Mobile App, our website, content, or Services; (b) information from activities such as your purchase and transaction history, including information about you gathered through Whataburger Rewards; and (c) notifications, ads, offers or new Whataburger location announcements or Whataburger events based upon geo-location data collected from your mobile device through the Mobile App.  Such information allows us to provide you with more useful and relevant notifications, ads, offers or announcements.  We do not provide any such information to third parties other than the Third-Party Providers we use for delivery of notifications, ads, offers or announcements.  Also, some third parties may provide us information about you from offline and online sources that we may use to provide you more relevant and useful notifications, ads, offers or announcements.
 
  USE OF E-MAIL ADDRESSES
 
@@ -87,4 +91,4 @@ San Antonio, TX 78216
 
 [Contact Us](https://web.archive.org/company/contact "QA version of Sertec Contact Us")
 
-This Privacy Policy was last updated on June 4, 2014
+This Privacy Policy was last updated on November 1, 2016
