@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the searchyellowdirectory.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225202647id_/http%3A//www.searchyellowdirectory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchyellowdirectory.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118020437id_/http%3A//www.searchyellowdirectory.com/privacy) for the most accurate reproduction.*
 
 # Privacy - SearchYellowDirectory.com
-
-Privacy
 
 Welcome to our website, SearchYellowDirectory.com.
 
