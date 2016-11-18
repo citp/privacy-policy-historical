@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naukrigulf.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624121155id_/http%3A//www.naukrigulf.com/ni/nilinks/nkr_links.php%3Fopen%3Dprivacy%26flag%3D%26con%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naukrigulf.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231357id_/http%3A//www.naukrigulf.com/ni/nilinks/nkr_links.php%3Fopen%3Dprivacy%26flag%3D%26con%3D) for the most accurate reproduction.*
 
 # Privacy Policy - NaukriGulf.com
 
