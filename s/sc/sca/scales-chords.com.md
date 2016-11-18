@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the scales-chords.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607024244id_/http%3A//www.scales-chords.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scales-chords.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000608id_/http%3A//www.scales-chords.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Our policy is very private. Learn about the www.scales-chords.com privacy policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by using our [contact form](https://web.archive.org/web/20160607024244id_/http%3A//www.scales-chords.com/contact.php). 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by using our [contact form](https://web.archive.org/web/20161119000608id_/http%3A//www.scales-chords.com/contact.php). 
 
 At www.scales-chords.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.scales-chords.com and how it is used.
 
