@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the tamildailycalendar.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610222838id_/http%3A//www.tamildailycalendar.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamildailycalendar.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118223127id_/http%3A//www.tamildailycalendar.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Tamil Daily Calendar 2016 2015 2014 - 2007 - தமிழ் தினசரி காலண்டர் - Wedding Dates - Nalla Neram
+# Tamil Daily Calendar 2017 2016 2015 2014 - 2007 - தமிழ் தினசரி காலண்டர் - Wedding Dates - Nalla Neram
+
+  
+
+
+**Privacy Policy**
 
 TAMIL DAILY CALENDAR is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
