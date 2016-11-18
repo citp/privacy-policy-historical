@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the njmls.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607003317id_/http%3A//www.njmls.com/resources/index.cfm%3Faction%3Ddsp.privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the njmls.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232758id_/http%3A//www.njmls.com/resources/index.cfm%3Faction%3Ddsp.privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - New Jersey Multiple Listing Service
 
