@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epicfail.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603205742id_/http%3A//www.epicfail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicfail.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118224515id_/http%3A//www.epicfail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy « EPIC FAIL .COM : #1 Source for Epic Fail and Fail Pictures, Fail Videos, and Fail Stories
 
