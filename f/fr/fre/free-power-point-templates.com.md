@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-power-point-templates.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611124207id_/http%3A//www.free-power-point-templates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-power-point-templates.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118223005id_/http%3A//www.free-power-point-templates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,5 +33,3 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
 If you have any further comments, please do not hesitate to contact us.
-
-[ ](http://www.dmca.com/Protection/Status.aspx?ID=49c54b1b-6adb-49eb-bbc4-bf6cad1aa552 "DMCA")
