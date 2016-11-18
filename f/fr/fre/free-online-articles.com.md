@@ -1,27 +1,17 @@
-> *The following text is extracted and transformed from the free-online-articles.com privacy policy that was archived on 2012-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120725153931id_/http%3A//www.free-online-articles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-online-articles.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118222544id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal
 
-### Your Privacy:
+* * *
 
-The privacy of our worthy visitors is our primary motive. To protect your privacy in a suitable way, we efficiently provide you the notice in which our online information is explained very clearly. Not only this, there are given some alternatives as well that you can choose in order to know that how we collect your data and use it. In order to make sure that the notice is visible to you all, we have made it available on the homepage and at the place where the knowledge of the personal identification is required.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-#### Google Adsense and the DoubleClick DART Cookie:
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-Google acts as the third party advertisement vendor. To serve advertisements on this website, Google utilizes cookies. Furthermore, Google also uses DART cookies, as it allows them to provide the advertisements to the visitors, which are established on their visits on to Free Online Articles or the other websites that are having existence on the World Wide Web. 
 
-If you are looking to pick from the DART cookies, you have to go through the Google advertisement and content network privacy policy, by clicking on <http://www.google.com/privacy_ads.html>. The users tracking with the DART cookie are liable to Google’s privacy policies.
 
-The other third party ad servers or advertisement networks further utilize cookies. This helps them in keeping a track of the various activities of the visitors. Free Online Articles has no accountability towards these cookies, as the third party uses these.
-
-#### Personal Data Collection:
-
-With every visit on the Free Online Articles, it means that the IP address visitors use while accessing website is logged with the information like time and date of the accession. The related data is used in order to administer the site, track user’s movement, analyze trends site and collect extensive demographic information for the intrinsic utilization only. An important consideration for you is that no IP address is connected to the personal acknowledgeable data.
-
-#### Third Party Websites:
-
-For the use and reference of visitors, we have attached links at this website, but the Free Online Articles is not responsible at all for the privacy policies of these websites.
-
-#### Changes to this Privacy Statement:
-
-At times, there can be any modification in our policies and Free Online Articles welcomes you at [www.free-online-articles.com](http://www.free-online-articles.com/) for solving your any kind of query regarding privacy policy.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
