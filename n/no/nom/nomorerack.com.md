@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nomorerack.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051439id_/https%3A//www.choxi.com/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomorerack.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118175535id_/https%3A//www.choxi.com/info/privacy_policy) for the most accurate reproduction.*
 
 # Choxi
 
