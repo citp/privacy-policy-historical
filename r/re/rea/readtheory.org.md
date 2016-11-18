@@ -1,8 +1,19 @@
-> *The following text is extracted and transformed from the readtheory.org privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316200053id_/http%3A//www.readtheory.org/welcome/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readtheory.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119004654id_/http%3A//www.readtheory.org/welcome/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | ReadTheory
 
 Privacy Policy
+
+Our mission at ReadTheory.org is to teach every student to read and think critically.
+
+ReadTheory.org is a proud supporter of the [Student Privacy Pledge](https://studentprivacypledge.org/) to safeguard student privacy. 
+
+[](https://studentprivacypledge.org/)
+
+Last updated on September 8, 2016.
+
+  
+
 
 This Privacy Policy governs the manner in which Read Theory collects, uses, maintains and discloses information collected from users (each, a "User") of the website ("Site"). This privacy policy applies to the Site and all products and services offered by Read Theory.
 
@@ -95,6 +106,3 @@ By using this Site, you signify your acceptance of this policy and [Terms of Use
 Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at support@readtheory.org. 
-
-  
-This document was last updated on March 11, 2016. 
