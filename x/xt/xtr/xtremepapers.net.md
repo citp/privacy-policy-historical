@@ -1,48 +1,17 @@
-> *The following text is extracted and transformed from the xtremepapers.net privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408231910id_/http%3A//www.xtremepapers.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtremepapers.net privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118222544id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement - XtremePapers | Advancing knowledge is in our DNA
+# Legal
 
-## Privacy Statement
+* * *
 
-If you are affiliated with any government, police, anti-piracy group or other related group or working for Adidas, Manobo Blahnik, Converse, Louis Vuitton, Chanel, Burberry, Hermes, Prada, Air Jordan, Nike, Timberland, Gucci, Cartier, Oakley, CIE, British council, TCS either directly or indirectly, or any other related group, or were formally a worker, you CANNOT enter these webpages, links, nor access any of its files and you cannot view any of the HTML files. If in fact you are affiliated or were affiliated with the above said companies, by entering this site you are not agreeing to these terms and you are violating code 431.322.12 of the Internet Privacy Act signed by Bill Clinton in 1995 and that means that you CANNOT threaten our ISP(s) or any person(s) or company storing these files, and cannot prosecute any person(s) affiliated with this website. Amendments 9 and 10 of The United States Bill Of Rights protect the right to be free of unwarranted and unwanted government intrusion into one's personal and private affairs, papers, and possessions. Article 12 of The United Nations Universal Declaration of Human Rights states, No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honor and reputation. Everyone has the right to the protection of the law against such interference or attacks.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-#### What information we collect
-
-Whilst using the XtremePapers website, any associated websites and sub-domains, some or all of the following information may be collected:
-
-  * Internet Protocol (IP) address
-  * Geographical location
-  * Browser type and version
-  * Operating system
-  * Referral source
-  * Length of visit, page views, website navigation and any other related browsing activity
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
 
-#### Security
-
-We are committed to ensuring that any information you provide to XtremePapers Community is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect.
-
-#### How we use cookies and IP addresses
-
-XtremePapers, any associated websites and sub-domains, use small text files, called cookies, to store information in your web browser. The information stored may include preferences, session identification, HTTP information, and IP address.
-
-You can set your browser to not receive cookies, but this may limit your ability to use XtremePapers Community and any associated websites and sub-domains.
-
-IP addresses of computers used to visit XtremePapers Community and any associated websites and sub-domains are stored in our database. This includes when first registering for an account, managing your account details, writing a private or public message or performing any other transaction which results in data being transferred to or from your computer and the website in question.
-
-Your IP address is not visible to the public at any time.
-
-#### Links to other websites
-
-XtremePapers, any associated websites and sub-domains, may contain links to other websites. These websites may or may not be affiliated with XtremePapers.
-
-XtremePapers has no control over any external websites therefore clicking any link which results in you visiting an external website will result in this privacy policy no longer applying and XtremePapers cannot be held responsible for the protection and privacy of any information which you provide whilst visiting such sites.
-
-#### Controlling your personal information
-
-When using the XtremePapers Community, you may choose to limit public viewing of applicable personal information through the settings located in the Privacy section of your account.
-
-XtremePapers will not sell, distribute or lease your personal information to third parties unless we have your explicit permission to do so. We may use your personal information to send you information, or other information pertaining to XtremePapers, or your account.
-
-If you discover any of the information XtremePapers holds for you is incorrect or incomplete, that you are unable to change yourself, please contact us as soon as possible so the necessary changes can be made.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
