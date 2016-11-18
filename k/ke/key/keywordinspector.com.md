@@ -1,97 +1,197 @@
-> *The following text is extracted and transformed from the keywordinspector.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622184931id_/http%3A//www.keywordinspector.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordinspector.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000355id_/http%3A//www.keywordinspector.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# keywordinspector.com -
+# 
 
-  1. What personally identifiable information of yours or third party personally identifiable information is collected from you through the Web site.
-  2. The organization collecting the information.
-  3. How the information is used.
-  4. With whom the information may be shared.
-  5. What choices are available to you regarding collection, use and distribution of the information.
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under The Internet Utility Company�s control.
-  7. How you can access and correct any inaccuracies in the information collected about you.
+Fair Information Practices 
 
+Fair information  
+Practices
+
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.  
 
 
-Questions regarding this statement should be directed to the The Internet Utility Company site coordinator by emailing [privacy@iUtility.com](mailto:privacy@iUtility.com) or writing to us at the following address:
+ **What personal information do we collect from the people that visit our blog, website or app?**
 
-> > The Internet Utility Company   
->  2512 Artesia Blvd, Suite 120  
->  Redondo Beach, CA 90278
+When ordering or registering on our site, as appropriate, you may be asked to enter your email address, phone number or other details to help you with your experience.
 
-To return to The Internet Utility Company home page, please use the "Back" button on your browser. 
+ **When do we collect information?**
 
-If you feel that The Internet Utility Company has not complied with the policies outlined in this privacy statement please submit a Watchdog report at **[http://www.truste.org/users/user_watchdog.html](http://www.truste.org/watchdog.html) **
+We collect information from you when you register on our site, place an order, subscribe to a newsletter, respond to a survey, fill out a form, Open a Support Ticket or enter information on our site.
 
-* * *
+Provide us with feedback on our products or services 
 
-**The Internet Utility Company** **�s Privacy Statement ******
+**How do we use your information?**
 
-The Internet Utility Company is the sole owner of the information it gathers on its site.  The Internet Utility Company will only share your information with outside parties in ways that are described in this privacy statement or if we are required to do so by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law, cooperate with law enforcement agencies, or comply with a legal process served on our Web site
+  
 
-**What Information is Collected and How it is Used? **
 
-How to Join
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-We collect contact information such as name, mailing address, email address, phone number, and company information such as company name and Web site URL. This information is used to generate an invoice for you to print and submit with the rest of your application materials.
+ **•** To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
-Contact Us
+ **•** To improve our website in order to better serve you.
 
-We use email links located on the "contact us" page and other areas of the site to allow you to contact us directly with any questions or comments you may have. We read every message sent in and try to reply promptly to every one. This information is used to respond directly to your questions or comments. We may also file your comments to improve the site and program, or review and discard the information. Your personal information is only shared with third parties with your explicit permission.
+ **•** To allow us to better service you in responding to your customer service requests.
 
-Your email address is used to send you these emails. To unsubscribe from the monthly newsletter, press releases, or Watchdog advisories, see the Unsubscribe section below.
+ **•** To administer a contest, promotion, survey or other site feature.
 
-Logged Files and Cookies
+ **•** To quickly process your transactions.
 
-The Internet Utility Company Web site logs IP addresses and browser types for systems administration purposes.  These logs will be analyzed to improve the value of the materials available on the website.  A user�s session will be tracked, but the user will be anonymous. We do not link IP addresses to any personally identifiable information. 
+ **•** To ask for ratings and reviews of services or products
 
-**Third Party Service Providers**
+ **•** To follow up with them after correspondence (live chat, email or phone inquiries)
 
-The Internet Utility Company contracts with a third party to assist us in managing certain functions on our Web site, such as sending out our newsletters.  The Internet Utility Company only provides third party service providers with the information necessary to carry out the service (i.e. only email addresses are provided to the party sending the newsletter on The Internet Utility Company�s behalf).  Third party service providers are contractually prevented from using the information received from The Internet Utility Company for any purpose other than those dictated by The Internet Utility Company. 
+ **How do we protect visitor information?**
 
-**Links **
+  
 
-The Internet Utility Company Web site contains links to other Web sites. We encourage you to visit these Web sites to learn more about online privacy. Please note that these Web sites' privacy policies may differ from those of The Internet Utility Company.  We encourage you to read the privacy statement of any Web site you may visit.
 
-**How to Unsubscribe from** **The Internet Utility Company** **Email Publications**
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
-Newsroom
+We do not use Malware Scanning.
 
-To unsubscribe from receiving the The Internet Utility Company Newsletter and Press Releases log into your account and then click on the unsubscribe link to send an email to notify us of your unsubscribe request.  Also, an unsubscribe link appears at the end of each email and when you click on it you will be automatically unsubscribed from the mailing. 
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology. 
 
-To unsubscribe from any of the above publications you may also send an email to [webmaster@iUtility.com](mailto:webmaster@iUtility.com) stating the name of the publication from which you wish to be unsubscribed.    
+We implement a variety of security measures when a user places an order to maintain the safety of your personal information.
 
-**How to Access and Update User Information**
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-Reasonable access to personally identifiable information will be provided within 30 days at no cost to the user.  If access cannot be provided within that timeframe, The Internet Utility Company will provide the user a date when the information will be provided.  If for some reason access is denied, The Internet Utility Company will provide an explanation as why access has been denied.
+ **Do we use 'cookies'?**
 
-Newsroom 
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-If you need to update your email address, please contact The Internet Utility Company at [webmaster@iUtility.com](mailto:webmaster@truste.org). Alternatively, you may unsubsribe from the publication using your old email address and re-subscribing using your new email address.
+ **•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
 
-Join the Privacy Partnership
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.  
 
-If you need to update your contact information that was entered into the Join the Privacy Partnership form, please contact The Internet Utility Company at [BizDev@iUtility.com](mailto:BizDev@iUtility.com) 
 
-**For Licensees Only **
+If you disable cookies off, some features will be disabled It won't affect the user's experience that make your site experience more efficient and some of our services will not function properly.
 
-Newsletters, Licensee Advisories, and Administrative Email
+However, you can still place orders .
 
-Licensees� email address and/or mailing address is used to send The Internet Utility Company�s monthly newsletter, licensee advisories and other administrative notices regarding The Internet Utility Company�s seal programs.   To unsubscribe from receiving the newsletter of the licensee advisories, see the Unsubscribe section below.  Licensees will not be able to opt-out of receiving administrative notices. 
+ **Third-party disclosure**
 
-Unsubcribe and Update
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
 
-To unsubscribe from receiving the monthly newsletter or licensee advisories log into your account and click on the unsubscribe link to send an email to notify us of your unsubscribe request.  Also, an unsubscribe link appears at the end of each email and when you click on it you will be automatically unsubscribed from the mailing. 
+ **Third-party links**
 
-If you need to update your email address, please contact The Internet Utility Company at [webmaster@iUtility.com](mailto:webmaster@truste.org).  Licensees also may contact their Account Manager to update their contact information. 
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**Security **
+ **Google**
 
-Protecting your privacy and your information is a top priority at The Internet Utility Company.  We have taken careful measures to prevent the loss, misuse, and alteration of your information. Once we receive your information that was entered into our web site, it is stored behind a firewall. All The Internet Utility Company employees are aware of our privacy and security policies. Your information is only accessible to those employees who need it in order to perform their jobs. 
+  
 
-**Notification of Changes**
 
-If we are going to use your personally identifiable information in a manner different from that stated at the time of collection through this Web site, we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already collected through our site, we will post a prominent notice on our web site notifying users of the change. 
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
 
-**Privacy Policy Compliance**
+We use Google AdSense Advertising on our website.
 
-If you feel that The Internet Utility Company has not complied with the policies outlined in this privacy statement please submit a Watchdog report at **[http://www.truste.org/users/user_watchdog.html](http://www.truste.org/watchdog.html) **
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.  
+
+
+ **We have implemented the following:**
+
+ **•** Demographics and Interests Reporting
+
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website. 
+
+Opting out:  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+
+ **California Online Privacy Protection Act**
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf  
+
+
+ **According to CalOPPA we agree to the following:**
+
+Users can visit our site anonymously.
+
+Once this privacy policy is created, we will add a link to it on our home page or as a minimum on the first significant page after entering our website.
+
+Our Privacy Policy link includes the word 'Privacy' and can be easily be found on the page specified above.
+
+Users will be notified of any privacy policy changes:
+
+ **•** On our Privacy Policy Page
+
+Users are able to change their personal information:
+
+ **•** By chatting with us or sending us a ticket
+
+ **How does our site handle do not track signals?**
+
+We don't honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. We don't honor them because:  
+
+
+We don't watch for do not track signals
+
+ **Does our site allow third-party behavioral tracking?**
+
+It's also important to note that we do not allow third-party behavioral tracking
+
+ **COPPA (Children Online Privacy Protection Act)**
+
+  
+
+
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+
+We do not specifically market to children under 13.
+
+ **Fair Information Practices**
+
+  
+
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+ **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+We will notify the users via email
+
+ **•** Within 7 business days
+
+We will notify the users via in-site notification
+
+ **•** Within 7 business days
+
+We also agree to the Individual Redress Principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+ **CAN SPAM Act**
+
+  
+
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+ **We collect your email address in order to:**
+
+ **•** Send information, respond to inquiries, and/or other requests or questions.
+
+ **•** Process orders and to send information and updates pertaining to orders.
+
+ **•** We may also send you additional information related to your product and/or service.
+
+ **•** Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+
+ **To be in accordance with CANSPAM we agree to the following:**
+
+ **•** NOT use false or misleading subjects or email addresses.
+
+ **•** Identify the message as an advertisement in some reasonable way.
+
+ **•** Include the physical address of our business or site headquarters.
+
+ **•** Monitor third-party email marketing services for compliance, if one is used.
+
+ **•** Honor opt-out/unsubscribe requests quickly.
+
+ **•** Allow users to unsubscribe by using the link at the bottom of each email.
+
+ **  
+If at any time you would like to unsubscribe from receiving future emails, you can email us at**
+
+ **•** Follow the instructions at the bottom of each email.
+
+and we will promptly remove you from **ALL** correspondence.
