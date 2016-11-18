@@ -1,216 +1,420 @@
-> *The following text is extracted and transformed from the tescomobile.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605031143id_/http%3A//www.tescomobile.com/about-us/terms-and-conditions/general/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tescomobile.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119005552id_/http%3A//www.tescomobile.com/about-us/terms-and-conditions/general/privacy-and-cookies-policy/%3Ficid%3Dfooter) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | General | Terms and Conditions | About us | Tesco Mobile
 
-Tesco Mobile (“the Website”) is owned and operated by Tesco Mobile Limited, part of the Tesco Group. This policy, together with our [Terms and Conditions](https://web.archive.org/about-us/terms-and-conditions), explain how Tesco may use information we collect about you, as well as your rights over any personal information we hold about you. Please read this policy and our [Terms and Conditions](https://web.archive.org/about-us/terms-and-conditions) carefully; by accessing the Website you confirm to have understood and agreed to them.
+At Tesco Mobile, we’re working hard to serve shoppers a little better every day.  Looking after the personal data you share with us is a hugely important part of this.  We want you to be confident that your data is safe and secure with us, and understand how we use it to offer you a better and more personalised experience.
 
-  1. Information we collect about you
-  2. Using your information
-  3. Clubcard information
-  4. Market and research
-  5. Cookies
-  6. What is a cookie?
-  7. Cookies used on the Website
-  8. Strictly necessary cookies
-  9. Performance cookies
-  10. Functionality cookies
-  11. Targeting or advertising cookies
-  12. Behavioural advertising and online privacy
-  13. Using browser settings to manage cookies
-  14. Disclosing your information
-  15. Credit Reference agencies
-  16. Fraud Prevention agencies
-  17. Data Retention
-  18. Other websites
-  19. Accessing your information
-  20. Changes to our policy
-  21. Contacting us
+We are committed to doing the right thing when it comes to how we collect, use and protect your personal data.  That’s why we’ve developed this privacy policy (“Policy”), which –
+
+  * Sets out the types of personal data that we collect;
+  * Explains how and why we collect and use your personal data;
+  * Details when and why we will share personal data;
+  * Details when and why we will share personal data within the Tesco Goup and with third parties; and
+  * Explains the rights and choices you have when it comes to your personal data.
 
 
 
-## 1\. Information we collect about you
+## What this Policy covers
 
-We collect information about you when you:
+The __Data__ Controller is Tesco  Mobile Limited (collectively referred to as “we” or “us” in this Policy).
 
-  * Visit the Website, and other sites accessible from the Website.
-  * Register with and buy products or services on the Website.
-  * Take part in promotions, competitions, customer surveys and questionnaires.
-  * Contact us by writing to us or calling our customer services.
+We offer different products and services, so we want you to be clear about what the Policy covers.  If you –
+
+  * Shop with us over the phone, online or otherwise use any website ("our Website") or mobile applications ("our Mobile Apps") where this Policy is posted; or
+  * Use our mobile communications network (the "Network")
 
 
 
-We may supplement the information we collect about you with information we receive from other sources eg public registers such as the electoral roll. This allows us to assess the accuracy of the information we hold about you in order to send you relevant offers and information.
+(collectively known as “our Services”), then this Policy applies to you.  This Policy also applies if you contact us or interact with us with regard to our Services.
 
-Back to top
+Some other parts of our business and __other Tesco Group companies__ may need to collect and use personal data to provide you with their products and services and for certain other purposes.  They have their own privacy policies that explain how they use your personal data.
 
-## 2\. Using your information
+Our Website or Mobile Apps may contain links to other websites operated by third parties that have their own privacy policies.  Please make sure you read their terms and conditions and privacy policy carefully before you submit any personal data to a third party website as we do not accept any responsibility or liability for these third party websites.
 
-Collecting your personal information helps us and the Tesco Group to better understand what you need from us. We collect and use your information to:  
-•    manage and improve the Website  
-•    personalise our services to you  
-•    administer and operate your account  
-•    process your orders and allocate Clubcard points to your account  
-•    tell you about important changes to the Website and our services  
-•    understand your shopping behaviour to develop and improve our products and services  
-•    manage promotions, competitions, customer surveys and questionnaires  
-•    check and verify your identity, and prevent or detect crime.
+## Personal data we collect
 
-In performing verification and identity checks, your information may be disclosed to credit reference agencies, who may keep a record of that information. This is not a credit check and your credit rating will be unaffected.
+When you register for our Services, you may provide us with –
+
+| 
+
+  * Your personal details, including your postal and billing addresses, email addresses, phone numbers and date of birth and title;
+
+  * Your debit card details, bank details and other information;
+
+  * Your Clubcard number;
+
+  * Your account login details, such as your username and the password that you have chosen.
+
 
   
-We may share your personal information across the Tesco Group so they can provide you with relevant products and services.  
-Your personal information is safe with us and will never be released to companies outside the Tesco Group for their marketing purposes.  
-We may use and share anonymised information outside the Tesco Group. However, we would like to reassure you that this never includes your personal information.
+---|---  
+  
+When you shop with us (in our stores, over the phone or online) or browse our Website or use our Mobile Apps, we may collect–
 
-Back to top
+| 
 
-## 3\. Clubcard information
+  * Information about your purchases; for example, what you have bought, when and where you bought it and how you paid for it;
 
-We access the information recorded through the use of your Clubcard to help us improve our service to you and to make our communications more relevant.
+  * Information about your online browsing behaviour on our Website and Mobile Apps and information about when you click on one of our advertisements (including those shown on third party websites);
 
-Back to top
+  * Information about any devices you have used to access our Services; including device make, model and operating system, IP address, browser type and mobile device identifiers.
 
-## 4\. Marketing and research
+  * Information about when and how much you top up and pay your bill or how often and why you access your account with us.
 
-If you agree, we may contact you:
 
-  * with offers and information about Tesco products or services
-  * with offers and information about partners’ products or services
-  * for customer research to help improve our services
+  
+  
+When you use Clubcard to shop with us, or redeem Clubcard vouchers or coupons, we may collect
 
+| 
 
+  * Transaction information, including the in-store and online purchases for which you earn Clubcard points.
 
-Of course, the choice is entirely yours, but if you say you do not want to receive marketing information from us this will prevent you from receiving great offers or promotions that may be of interest to you.
 
-When you register online you can access a "Self Care" page that allows you to tailor our commercial communications to your preferences.
+  
+  
+When you contact or interact with us or take part in promotions, competitions, surveys or questionnaires in relation to our Services, we may collect –
 
-To change your contact preferences simply click "Your Account" in the top frame and click "Your Contact Preferences". If you do not want to receive commercial communications from us, select your choices by using the boxes available on that page.
+| 
 
-We like to hear your views to help us improve our service. From time to time, we may contact you to ask your opinions. Again, if you do not want to be contacted for this purpose, make your choice on the "Contact Preferences" page.
+  * Personal data you provide about yourself anytime you contact us in relation to our Services, including by phone, email or post or when you interact with us online or on social media (for example, your name, social media handle and contact details);
 
-Back to top
+  * Details of the emails and other digital communications we send to you that you open, including any links in them that you click on;
 
-## 5\. Cookies
+  * Your feedback and contributions to customer surveys and questionnaires.
 
-We use a system of classifying the different types of cookies which we use on the Website, or which may be dropped by third parties through our websites. The classification was developed by the International Chamber of Commerce UK and explains more about which cookies we use, why we use them, and the functionality you will lose if you decide you don't want to have them on your device. Please be reassured that we are working on other privacy and cookie-related improvements to the Website.
 
-Back to top
+  
+  
+When you use our Network--
 
-## 6\. What is a cookie?
+| 
 
-Cookies are text files containing small amounts of information which are downloaded to your personal computer, mobile or other device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user’s device.
+  * Your call, text, surfing and billing records (for example) Or any other products from us you use, like our apps - this includes the date and time you use them, how long for, where you use them and how much it costs. We don't look at the content of your messages or listen to your calls (unless you are talking to one of our customer service advisors)
 
-Persistent cookies - these cookies remain on a user’s device for the period of time specified in the cookie. They are activated each time that the user visits the website that created that particular cookie.
+  * So we can connect you to our Network, we need to know your location when you make or receive phone calls, messages or use the internet. We call this network location, it finds you through phone masts nearby and only knows roughly where you are so that we can put calls and texts through or connect you to the Internet
 
-Session cookies - these cookies allow website operators to link the actions of a user during a browser session. A browser session starts when a user opens the browser window and finishes when they close the browser window. Session cookies are created temporarily. Once you close the browser, all session cookies are deleted.
 
-Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. You can find more information about cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
+  
+  
+_**Additional sources of personal data**_
 
-Back to top
+We may supplement the data we collect with personal data from other sources, such as specialist companies that supply data, companies that operate online media channels, our Retail Partners and public registers.  For example, this additional data helps us to – 
 
-## 7\. Cookies used on the Website
+  * review and improve the accuracy of the data we hold;
+  * improve and measure the effectiveness of our marketing communications, including online advertising.
 
-A list of all the cookies used on the Website by category is set out below.
 
-Back to top
 
-## 8\. Strictly necessary cookies
+We also access Clubcard information from Tesco Stores and may access information where permissible from Tesco Bank.  We may take this information into account when assessing credit risk. For example, we may take into account a Clubcard holder’s loyalty reflected in Clubcard transactions.  This means that Clubcard information can improve your eligibility for our credit and insurance products.
 
-These cookies enable services you have specifically asked for. For those types of cookies that are strictly necessary, no consent is required.
+## How and why we use personal data
 
-These cookies are essential in order to enable you to move around the Website and use its features, such as accessing secure areas of the Website. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided.
+### **We use personal data to**
 
-Back to top
+| 
 
-## 9\. Performance cookies
+### **This means that processing your personal data allows us to**
 
-These cookies collect anonymous information on the pages visited. By using the Website, you agree that we can place these types of cookies on your device.
+| 
 
-These cookies collect information about how visitors use the Website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how the Website works.
+### **Do we have to process data in this way?**  
+  
+---|---|---  
+  
+Make our services available to you
 
-Back to top
+| 
 
-## 10\. Functionality cookies
+Manage the accounts you hold with us, check whether you qualify for credit or our products are appropriate for you, and process your orders and refunds
 
-These cookies remember choices you make to improve your experience. By using the Website, you agree that we can place these types of cookies on your device.
+Please see further information below about how we use and share your data with credit reference agencies.
 
-These cookies allow the Website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
+| 
 
-Back to top
+Yes, it is necessary for us to process your personal data so that we can operate your customer accounts, provide you with the goods and services you want to purchase (including assessing and deciding on whether we can give you and members of your household credit, credit-related services, or insurance) and to help you with any orders and refunds that you may request.  
+  
+  | 
 
-## 11\. Targeting or advertising cookies
+Manage your connection to our Network and to get in touch with you if we need to tell you about any problems with the Network
 
-These cookies collect information about your browsing habits in order to make advertising relevant to you and your interests.
+| 
 
-These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with our permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
+Yes, it is necessary for us to process your personal data so that we can connect you to and improve the operation of the Network.  
+  
+Manage and improve our day-to-day operations
 
-Back to top
+| 
 
-## 12\. Behavioural advertising and online privacy
+Manage and improve our Websites and Mobile Apps
 
-A guide to behavioural advertising and online privacy has been produced by the internet advertising industry which can be found at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). The guide contains an explanation of the IAB’s self-regulatory scheme to allow you greater control of the advertising you see.
+| 
 
-Back to top
+Not entirely. We use cookies and similar technologies on our websites and apps to improve your customer experience. Some cookies are necessary so should not be disabled if you want to make use of the full functionality of our Websites and Mobile Apps. Other cookies can be disabled, but this may affect your customer experience. For more information about cookies and how you can disable some of them, see the Cookies and similar technologies section.  
+  
+  | 
 
-## 13\. Using browser settings to manage cookies
+Help to develop and improve our product range, services, stores, information technology systems, know-how and the way we communicate with you
 
-The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. You can also disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer.
+| 
 
-However, because cookies allow you to take advantage of some of the Website’s essential features, we recommend you leave them turned on. For example, if you block or otherwise reject cookies you will not be able to add items to your Shopping Basket, proceed to Checkout, or use any of our products and services that require you to Sign in. If you leave cookies turned on, remember to sign off when you finish using a shared computer.
+Yes, it is in our legitimate interest to undertake market research and internal research and development, and to improve our information technology systems (including its security) and our product ranges, services and stores so that we can continue to serve you a little better, every day.  
+  
+| 
 
-Back to top
+Detect and prevent fraud, money laundering or other crime
 
-## 14\. Disclosing your information
+See further information below about how we use and share your data with fraud prevention agencies 
 
-We will never disclose your information to anyone outside the Tesco Group except where we have your consent; where we are required or permitted to do so by law; to other companies who provide a service to us; or any successors in title to our business.  Your information will never be released to companies outside the Tesco Group for their marketing purposes.
+| 
 
-Whenever we transfer personal information to countries outside the European Economic Area we will ensure that appropriate security measures are taken.
+Yes, it is in our legitimate interest to monitor how our Services are used to detect and prevent fraud, other crimes and the misuse of services.  This helps us to ensure that you can safely use our Services.  
+  
+| 
 
-Back to top
+Recover any money you might owe us. Assign your debt to permitted third parties.
 
-## 15\. Credit Reference agencies
+| 
 
-We will search your record at credit reference agencies who will supply us with credit information, as well as information from the Electoral Register, about you. We will also add to your record with the credit reference agency details of your credit agreement with us, the payments you make under it and any default or failure to keep to its terms. The credit reference agency will record details of our search, whether or not your application proceeds. We may use credit scoring or other automated decision-making systems when assessing your application and to verify your identity. Credit searches and other information which is provided to us and/or the credit reference agencies, about you and those with whom you are linked financially may be used by us and other companies to make other credit decisions about you, or other members of your household. This information may also be used for debt tracing and the prevention of money laundering as well as the management of your account. Information held about you by the credit reference agencies may already be linked to records relating to one or more of your partners and you may be treated as financially linked, which means your application will be assessed with reference to any associated records.  Prior to such an assessment you will first need to get your partner’s consent before their information is disclosed. 
+Yes, it is in our legitimate interest to obtain payment for our Services.  
+  
+Personalise your Tesco Mobile experience
 
-Back to top
+| 
 
-## 16\. Fraud Prevention agencies
+Use your online browsing behaviour as well as your in-store and online purchases (including accessing your Clubcard transactions) to help us better understand you as a customer and provide you with personalised offers and services.
 
-If false or inaccurate information is provided and fraud is identified or suspected, details may be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent fraud and money laundering, for example, when: checking applications for, and managing credit and credit related or other facilities; recovering debt; checking insurance proposals and claims; checking details of job applicants and employees. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies.
+| 
 
-Back to top
+Yes, it is in our legitimate interest to look at your preferences that we derive from your browsing behaviour and purchases so that we can personalise our offers and services for you to, to better meet your needs as a customer - provided this is in line with your marketing choices.  
+  
+  | 
 
-## 17\. Data retention
+Provide you with relevant marketing communications (including by text, email, post or online advertising), relating to our products and services, and those of our suppliers, Retail Partners and Tesco Group on websites across the Tesco Group and on third party websites and online media channels.  This includes measuring the effectiveness of our marketing communications campaigns, including online advertising.
 
-The personal information that we collect from you will be kept for the period of time that is necessary for us to provide our services to you and to conduct all of our related business functions.  In some instances, we may be required by law to keep your personal information for longer.
+| 
 
-Back to top
+Not entirely. It is in our legitimate interest to provide you with marketing communications, including online advertising, that are relevant to your interests.  
+However, you can __change your marketing choices__ , at any time.  
+You also have choices when it comes to online advertising.  Please see your choices when it comes to cookies below, and how you can control your online behavioural advertising preferences.  
+  
+| 
 
-## 18\. Other websites
+Investigate any complaints or questions you may raise and contact you in relation to our Services, for example by phone, email, online or post or responding to social media posts that you have directed at us.
 
-The Website may contain links to other sites which are outside our control and not covered by this policy. The operators of these sites may collect information from you that will be used by them in accordance with their policy, which may differ from ours.
+| 
 
-Back to top
+Yes, it is in our legitimate interest to provide any clarification or assistance in response to your communications to serve you better as a customer.  
+  
+| 
 
-## 19\. Accessing your information
+Manage promotions and competitions you take part in, including those in collaboration with our suppliers and Retail Partners.
 
-If you would like to obtain a copy of the information we hold about you, there’s a £10 charge. Please either call us on 0845 301 4455 or 4455 from your Tesco Mobile phone or write to us at: Tesco Mobile Limited, Dumers Lane, Radcliffe, Bury BL9 9QL enclosing a cheque for £10 payable to Tesco Mobile Limited and any details to help us identify and locate your information.  
-As the information held by the Credit Reference Agencies operating in the UK may differ, you may want to contact each agency at the contact information set out below:  
-CallCredit, Consumer Services Team, PO Box 491, Leeds, LS3 1WZ or call 0870 0601414   
-Equifax PLC, Credit File Advice Centre, PO Box 3001, Bradford, BD1 5US or call 0870 010 0583 or log on to www.myequifax.co.uk  
-Experian, Consumer Help Service, PO Box 8000, Nottingham NG80 7WF or call 0844 4818000 or log on to www.experian.co.uk  
-A small statutory fee may apply
+| 
 
-Back to top
+Yes, it is necessary for us to process your personal data so that we can manage the promotions and competitions that you choose to enter into.  
+  
+  | 
 
-## 20\. Changes to our policy
+Invite you to participate in and manage customer surveys, questionnaires and other market research activities carried out by the Tesco Group and by third parties on our behalf.
 
-We reserve the right to change the policy at any time if we do change the way we collect or use your information.  However the current version of our privacy policy will always be available on this website. 
+| 
 
-Back to top
+Not entirely. It is in our legitimate interest to carry out market research. However, while we may contact you about this, you are of course not obliged to take part in these activities. __If you tell us__ that you do not want to be contacted for market research, we will respect this choice and you will not receive any further market research communications from us.
 
-## 21\. Contacting us
+This will not affect your ability to use our Services or your Clubcard.  
+  
+**Credit Reference Agencies**
 
-If you have any queries, please contact our [Customer Care team](https://web.archive.org/contact-us).
+We and our service providers will search your record at credit reference agencies who will supply us with credit information, as well as information from the Electoral Register, about you. We may use credit scoring or other automated decision-making systems when assessing your application and to verify your identity. Credit searches and other information which is provided to us and/or the credit reference agencies, about you and those with whom you are linked financially may be used by us and other companies to make other credit decisions about you, or other members of your household. This information may also be used for debt tracing and the prevention of money laundering as well as the management of your account. Information held about you by the credit reference agencies may already be linked to records relating to one or more of your partners and you may be treated as financially linked, which means your application will be assessed with reference to any associated records.  Prior to such an assessment you will first need to get your partner’s consent before their information is disclosed. 
 
-Back to top
+**Fraud Prevention Agencies**
+
+We and our service providers may access and use information held by fraud prevention agencies  to prevent fraud and money laundering, for example, when: checking applications for, and managing credit and credit related or other facilities; recovering debt; checking insurance proposals and claims; checking details of job applicants and employees. 
+
+**Sharing personal data within the Tesco Group**
+
+We may share the personal data we collect with other companies in the Tesco Group.  For example, we share personal data with the following Tesco Group companies.
+
+_**Tesco Bank**_
+
+We may make information that we have collected about you available to Tesco Bank.  This helps them to improve their service and make their communications more relevant to you.    
+Tesco Bank may use information we provide to determine the level of discounts offered on premiums for some insurance products.  You can find more information about the way in which Tesco Bank uses data in its [Privacy & Cookies Policy](http://www.tescobank.com/).
+
+_**Tesco Stores**_
+
+We share Clubcard information (including information about purchases when you use your Clubcard) with Tesco Stores so they can allocate Clubcard points, provide relevant marketing communications, including online advertising, to you.  Tesco Stores explains how it uses Clubcard information and other personal data in its own [privacy policy](http://www.tesco.com/).
+
+_**dunnhumby**_
+
+[dunnhumby](https://www.dunnhumby.com/), part of the Tesco Group, is also one of our principal service providers.  We provide them with your Clubcard information, details of products you have purchased and our customer categories.  dunnhumby analyses the information we provide and helps us to make use of your personal data for the purpose of improving customer insight and personalising your customer experience.  You can find out more about what dunnhumby does on their website www.dunnhumby.com/.
+
+  
+**Disclosing personal data to Retail Partners and Service Providers**
+
+We will not disclose your personal data to __third parties__ except as provided in this Policy.
+
+Retail Partners
+
+| 
+
+We work with a number of Retail Partners who –     
+
+  * Sell products through our Services, for example when you use the Tesco Mobile Xtras app powered by Unlockd;
+
+  * Offer products, services and/or the ability to earn points through Clubcard; or
+
+  * Provide Insurance when you take out a policy with us
+
+
+
+
+We only disclose that personal data to Retail Partners which enables them to provide their services.  For example, we may provide information about your purchases at Tesco to facilitate the delivery of personalised offers.  Whilst Retail Partners can market their products and services to you via our Services, they must not use the personal data for their own direct marketing, and we require them to keep your personal data secure.  
+  
+---|---  
+  
+Service Providers
+
+| 
+
+We work with carefully selected Service Providers that perform certain functions on our behalf.  These include, for example, companies that help us with customer care services, Network and technology services, storing and combining data, credit checks, payment processing and the delivery of orders.
+
+We only disclose that personal data to Service Providers which enables them to provide their services.  Service Providers must not use the personal data for their own direct marketing, and we require them to keep your personal data secure.
+
+Some of the Service Providers we work with operate __online media channels__ , and they place relevant online advertising for our products and services, as well as those of our suppliers and our Retail Partners, on those online media channels on our behalf.  For example, you may see an advertisement for our products and services as you use a particular social media site or watch television through your pay TV account.  
+  
+**Disclosing personal data to other third parties**
+
+We may also disclose personal data to other third parties –
+
+  * where we are required to do so by law or by public authorities;
+  * credit reference agencies: We will share details of your credit agreement with us, the payments you make under it and any default or failure to keep to its terms. The credit reference agency will record details of our search of their database, whether or not your application proceeds.
+  * fraud prevention agencies: If when placing an order with us false or inaccurate information is provided by you and fraud is identified or suspected, your details may be passed to fraud prevention agencies. Law enforcement agencies may access and use this information.
+  * in order to establish, exercise or defend our legal rights (including providing data to others for the purposes of fraud prevention and reducing credit risk);
+  * to whom we sell or transfer (or enter into negotiations to sell or transfer) any of our businesses or any of our rights or obligations under any agreement we may have with you. If the transfer or sale goes ahead, the transferee or purchaser may use your personal information in the same way as us;
+  * to any other successors in title to our business.
+
+
+
+**How we protect personal data**
+
+We know how important it is to protect and manage your personal data.  We use computer safeguards such as firewalls and data encryption, and we enforce physical access controls to our buildings and files to keep this data safe.  We only authorise access to those employees who require it to fulfil their job responsibilities. When you provide data to us through our Websites or Mobile Apps, that data is protected by secure socket layer (SSL) encryption.  
+The personal data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA").  It may also be processed by companies operating outside the EEA who work for us or for one of our service providers.  We will put in place appropriate safeguards to ensure that your personal data remains adequately protected and is treated in accordance with this Policy.
+
+**Marketing: changing how and when we and our partners communicate with you**
+
+We will send you relevant offers or marketing information about our products and services in a number of ways including email, post or text.  If you don't want to receive offers or marketing information, you can opt out at any time by calling 282 for free from your Tesco Mobile phone.  
+We also like to hear your views to help us to improve our Services and we may contact you for market research purposes.  You always have the choice about whether to participate in our market research.
+
+**Cookies and similar technologies**
+
+We use cookies and similar technologies to personalise and improve your customer experience as you interact with our Websites and Mobile Apps and to provide you with relevant online advertising.  This section provides more information about cookies and similar technologies, including how we use them and how you can exercise your choices regarding our use of cookies and similar technologies.
+
+_**How we use cookies and similar technologies**_
+
+Cookies and similar technologies, such as tags and pixels (“Cookies”), are small data files that allow a website to collect and store a range of data on your desktop computer, tablet, laptop or mobile device.  
+
+Cookies help us to provide important features and functionality on our Websites and Mobile Apps, and we use them to improve your customer experience.  For example, we use Cookies to –
+
+Enhance our Websites’ and Mobile Apps functionality
+
+| 
+
+Cookies allow us to enhance the functionality of our Website and Mobile Apps so that we can personalise your experience and allow you to use many of the useful features of our Website and Mobile Apps.
+
+For example, we use Cookies so we can remember your preferences and the contents of your shopping basket when you return to our Website and Mobile Apps.  
+  
+---|---  
+  
+Enhance our Websites’ and Mobile Apps’ performance
+
+| 
+
+Cookies can help us to understand how our Website and Mobile Apps are being used, for example, by telling us if you encounter an error message as you browse.
+
+These Cookies collect data that is mostly aggregated and __anonymous__.  
+  
+Deliver relevant online advertising
+
+| 
+
+We use Cookies to help us deliver online advertising on our Website and third party websites that we believe is most relevant to you.
+
+Cookies used for this purpose are often placed on our Website by third parties, and always with our permission.  These Cookies may collect information about your online behaviour, such as your IP address, the website you arrived from and information about your purchase history or the content of your shopping basket. This means that you may see our advertisements on our Website and third party websites. You may also see advertisements for third parties on our Website.
+
+To help us to deliver online advertising that is relevant to you, we may also combine data collected through Cookies in the browser of your desktop computer or other devices with other data that we have collected, for example your use of Clubcard and in-store purchases.  
+  
+Measuring the effectiveness of our marketing communications, including online advertising
+
+| 
+
+Cookies can tell us if you have seen a specific advert, and how long it has been since you have seen it.  This information allows us to measure the effectiveness of our online advertising campaigns and ultimately to control the number of times you are shown an advert.
+
+We also use Cookies to measure the effectiveness of our marketing communications, for example by telling us if you have opened a marketing email that we have sent to you.  
+  
+**Your choices when it comes to Cookies**
+
+You can use your browser settings to accept or reject the placement of new Cookies and you can delete existing Cookies.  You can also configure your browser settings so you will be notified each time a new Cookie is placed.  You can find more detailed information about how you can manage Cookies at the All About Cookies and YourOnlineChoices websites:  [http://www.allaboutcookies.org](http://www.allaboutcookies.org/)[/](http://www.allaboutcookies.org/), [http://www.youronlinechoices.com/uk/](http://www.youronlinechoices.com/uk)
+
+If you choose to disable some or all Cookies, you may not be able to make full use of the functionalities of our Website. For example, you may not be able to add items to your shopping basket, proceed to checkout, or use any of our products and services that require you to sign in.
+
+Where we display personalised advertisements on third party websites, the AdChoices logo will generally be displayed.  Clicking on this icon will provide you with specific guidance on how to control your online behavioural advertising preferences.  Further information is available at the YourAdChoices website: <http://www.youronlinechoices.com/uk/>
+
+**Your rights**
+
+Under the Data Protection Act 1998, you have a right to access the personal data we hold about you.  This is called a Subject Access Request.
+
+If you would like to obtain a copy of the personal data we hold about you, please write to:  
+Legal Department  
+Tesco Mobile Limited   
+488 Ipswich Road, Slough  
+SL1 4EP, UK  
+
+Please enclose a cheque or postal order for £10 payable to "Tesco Mobile Limited".
+
+As the information held by the Credit Reference Agencies operating in the UK may differ, you may want to contact each agency at the contact information set out below:
+
+  * CallCredit, Consumer Services Team, PO Box 491, Leeds, LS3 1WZ or call 0870 0601414 
+  * Equifax PLC, Credit File Advice Centre, PO Box 3001, Bradford, BD1 5US or call 0870 010 0583 or log on to 
+  * Experian, Consumer Help Service, PO Box 8000, Nottingham NG80 7WF or call 0844 4818000 or log on to [www.experian.co.uk/](http://www.experian.co.uk/)
+
+
+
+A small statutory fee may apply.
+
+You can also email us at subjectaccess.request@uk.tesco.com.
+
+We want to make sure that the personal data we hold about you is accurate and up to date.  If any of the details are incorrect, please let us know and we will amend them.
+
+**How to contact us**
+
+If you have any questions about how we collect, store and use personal data please contact us – 
+
+Phone: 0345 301 4455 or 4455 from a Tesco Mobile phone
+
+Mail: Tesco Mobile Limited, Dumers Lane, Radcliffe, Bury BL9 9QL
+
+**Changes to our Privacy and Cookies Policy**
+
+We may revise our Privacy and Cookies policy should we change the way we collect or use your information.  However the previous versions of our privacy policy will always be available on this website.   
+Footnote: This Policy was last updated on 19th September 2016. To view previous policy, click [here](http://www.tescomobile.com/about-us/terms-and-conditions/general/privacy-and-cookies-policy-old)
+  *[Data]: The Data Controller determines the purpose and
+manner in which personal data is used
+  *[other Tesco Group companies]: For example,
+Tesco Stores and Tesco Bank
+  *[third parties]: A company that is not part of the Tesco Group
+  *[change your marketing choices]: Please see the Marketing:
+changing how and when we and our partners communicate with you section
+below for information about how to change your marketing choices,
+  *[ ,]: Please see the
+Marketing: changing how and when we and our partners communicate with you
+section below for information about how to change your marketing
+choices,
+  *[If you tell]: Please see the Marketing: changing how and when we and our partners
+communicate with you section below for information about how to change your
+marketing choices
+  *[online media channels]: Online media channels include websites, social media
+sites, pay TV providers and any other channels that become available to
+us
+  *[anonymous]: Information which does not relate to an identified or
+identifiable natural person
