@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iatatravelcentre.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604151419id_/http%3A//www.iata.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iatatravelcentre.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119004214id_/http%3A//www.iata.org/privacy) for the most accurate reproduction.*
 
 # IATA - Privacy Policy
 
-(Updated 9 July 2013) 
+(Updated August 2016) 
 
 IATA respects your privacy and is committed to protecting it. IATA provides this Privacy Policy to inform you of our privacy practices and of the choices you can make about the way your information is collected online and how that information is used. IATA recognizes the need to protect the personally identifiable information you share with us, which mainly consists of any information by which you can be identified, such as name, address and telephone number. 
 
@@ -78,7 +78,7 @@ You can make or change your choices at the data collection point or through IATA
 
 > **Online** : You can make your choice regarding these communications by using the IATA customer registration tools, as applicable, to set your privacy preferences (available in the English language only). 
 
-**Offline:** Please specify your privacy preferences by writing to IATA at [imc@iata.org](mailto:imc@iata.org). Be sure to provide your name, e-mail and postal address in all correspondence. 
+**Offline:** Please specify your privacy preferences by writing to IATA at [privacy@iata.org](mailto:privacy@privacy@iata.org). Be sure to provide your name, e-mail and postal address in all correspondence. 
 
 > **Subscription services**  
 To opt-out of receiving communications you have expressly requested (such as e-mail newsletters, updates, etc.), use any of the following methods: 
@@ -95,7 +95,7 @@ PO Box 113
 Montreal - H4Z 1M1  
 Quebec - Canada  
 Fax: +1 514 874 9632   
-E-mail: [imc@iata.org](mailto:imc@iata.org)
+E-mail: [privacy@iata.org](mailto:privacy@iata.org)
 
 ### 10\. Your information and third-party companies
 
