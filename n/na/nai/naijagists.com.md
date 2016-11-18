@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naijagists.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603005448id_/http%3A//naijagists.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijagists.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231645id_/http%3A//naijagists.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Nollywood, Nigeria, News, Celebrity, Gists, Gossips, Entertainment
+# Privacy | NaijaGistsBlog Nigeria, Nollywood, Celebrity ,News, Entertainment, Gist, Gossip, Inspiration, Africa
 
 ## Privacy
 
