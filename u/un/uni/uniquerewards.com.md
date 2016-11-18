@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401011807id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000701id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
 
 # UniqueRewards
 
@@ -39,7 +39,7 @@ What Information UniqueRewards Collects:
 
 In order to receive any payment from the UniqueRewards service, we require all users to register via our online registration form. We require you to provide us with your full and correct name, full and correct street address, phone number, e-mail address and password. We will process this information to manage your membership, determine your eligibility, provide services, and allow you to take advantage of other member benefits. In addition to the information you provide to us in the online registration, we will also collect certain information online and offline arising out of your use of the UniqueRewards service, including but not limited to the number and type of offers you have responded to and completed. 
 
-UniqueRewards.com will not share, sell, trade, or give away personally identifiable information to third parties without members' explicit permission. 
+UniqueRewards.com will not share, sell, trade, or give away personally identifiable information to third parties without members' explicit permission. However, user's registration information may be shared with financial institutions when requested to process the payments. 
 
 UniqueRewards.com collects online behavior statistical information regarding our members. Upon termination of the online session, closing of the browser and/or termination of your membership, this information will no longer be collected. Summaries of the information will be made available to third parties. Those summaries do not include members' names, addresses, e-mail addresses, or other personally identifiable information. 
 
