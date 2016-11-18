@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the insidethegames.biz privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318154046id_/http%3A//www.insidethegames.biz/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidethegames.biz privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235745id_/http%3A//www.insidethegames.biz/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy
+
+* * *
+
+* * *
 
 Dunsar Media Company Limited ("We") are committed to protecting and respecting your privacy.  
 This policy (together with our [terms of use](https://web.archive.org/terms-and-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
