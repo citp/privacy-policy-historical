@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankofcanada.ca privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609190644id_/http%3A//www.bankofcanada.ca/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofcanada.ca privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118224448id_/http%3A//www.bankofcanada.ca/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Bank of Canada
 
@@ -8,9 +8,9 @@ The Bank of Canada is committed to providing visitors with a website that respec
 
 ### Personal Information
 
-All personal information held or collected by the Bank of Canada is protected under the federal [_Privacy Act_](http://laws.justice.gc.ca/en/P-21/index.html). This means that at the point of collection you will be informed of the purpose for which personal information is being collected, and advised that you have a right of access to that information.
+All personal information held or collected by the Bank of Canada is protected under the federal [_Privacy Act_](http://laws-lois.justice.gc.ca/eng/acts/p-21/). This means that at the point of collection you will be informed of the purpose for which personal information is being collected, and advised that you have a right of access to that information.
 
-Information on individual visitors is used by the Bank of Canada in order to administer the website and fulfill visitor requests. Your information will only be shared with Bank of Canada employees who require access to the information. Further disclosures, if any, will only occur if required and authorized by the [ _Privacy Act_](http://laws.justice.gc.ca/en/P-21/index.html). We do not use the information to create individually identifiable profiles. Please contact the [Bank of Canada](http://www.bankofcanada.ca/about/contact-information/) if you do not wish to share your information electronically.
+Information on individual visitors is used by the Bank of Canada in order to administer the website and fulfill visitor requests. Your information will only be shared with Bank of Canada employees who require access to the information. Further disclosures, if any, will only occur if required and authorized by the [ _Privacy Act_](http://laws-lois.justice.gc.ca/eng/acts/p-21/). We do not use the information to create individually identifiable profiles. Please contact the [Bank of Canada](http://www.bankofcanada.ca/about/contact-information/) if you do not wish to share your information electronically.
 
 You should never transmit sensitive personal information via email or the website to the Bank of Canada.
 
