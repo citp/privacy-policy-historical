@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wawa.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623234214id_/https%3A//www.wawa.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wawa.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119004412id_/https%3A//www.wawa.com/privacy.aspx) for the most accurate reproduction.*
 
 # Wawa - Privacy Policy
 
