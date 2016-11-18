@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gjtutorial.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426175336id_/https%3A//www.gjtutorial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gjtutorial.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118024624id_/https%3A//www.gjtutorial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
