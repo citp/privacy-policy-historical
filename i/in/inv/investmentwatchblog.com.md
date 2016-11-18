@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the investmentwatchblog.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610125520id_/http%3A//investmentwatchblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investmentwatchblog.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234042id_/http%3A//investmentwatchblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « InvestmentWatch
+# Privacy Policy – InvestmentWatch
 
 InvestmentWatchBlog (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of [www.investmentwatchblog.com](http://www.investmentwatchblog.com/) (“the Site”). We created this Privacy Policy (“Privacy Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
 
