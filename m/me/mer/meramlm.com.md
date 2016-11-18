@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the meramlm.com privacy policy that was archived on 2015-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150831011450id_/http%3A//www.meramlm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meramlm.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234842id_/http%3A//www.meramlm.com/privacy) for the most accurate reproduction.*
 
 # MLM Classified Privacy Policy
 
-|  [](http://sistema.univerteam.com/p/dhanuchinna) [](http://www.meramlm.com/api/recordAdsUrlClick.php?adsStatisticViewAccessCode=&url=http%3A%2F%2Fdnbmlmsoftwaresolutions.com%2F) |  | Privacy policy  
+|  [](http://www.meramlm.com/api/recordAdsUrlClick.php?adsStatisticViewAccessCode=&url=http%3A%2F%2Fdnbmlmsoftwaresolutions.com%2F) |  | Privacy policy  
 ---  
 By visiting www.meramlm.com, you are accepting the practices described in this Privacy Policy. This Policy is subject to change without notice and you should revisit this site frequently for the most current version of our privacy policy.   
 Our Pledge to You, Our Customer and members  
