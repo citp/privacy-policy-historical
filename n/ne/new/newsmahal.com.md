@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the newsmahal.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630225652id_/http%3A//newsmahal.com/247-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsmahal.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233631id_/http%3A//newsmahal.com/247-2) for the most accurate reproduction.*
 
-# Privacy Policy - NEWS MAHAL
+# Privacy Policy » News Mahal
+
+[](http://newsmahal.com/ "News Mahal") Place Of Royal Quality News
 
 ### _News Mahal Privacy Policy_
 
