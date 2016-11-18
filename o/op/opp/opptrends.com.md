@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opptrends.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605224420id_/http%3A//www.opptrends.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opptrends.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000926id_/http%3A//www.opptrends.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Opptrends
+# Privacy Policy | Opptrends
 
 At opportunity trends this site opptrends.com, we respect your privacy and we will never sell, rent, or otherwise share your email address or any personal information to any third party. Disclosure of personal information from this site can only occur under one condition, and that is when required by law.
 
@@ -14,7 +14,7 @@ We may use cookies in order to deliver content of specific interest to you or fo
 
 Other data is collected in aggregate by third party statistics providers in order to track site usage and traffic analysis.
 
-**We may share data with third parties for marketing and/or promotional purposes, as such:**
+ **We may share data with third parties for marketing and/or promotional purposes, as such:**
 
   * This site uses the Google Analytics features implemented based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting).
   * You can use Google’s [Ads Settings](https://www.google.com/settings/ads), to opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
