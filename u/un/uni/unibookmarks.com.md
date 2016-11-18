@@ -1,40 +1,17 @@
-> *The following text is extracted and transformed from the unibookmarks.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207125919id_/http%3A//unibookmarks.com/page.php%3Fpage%3Dprivatepolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unibookmarks.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118222544id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | UniBookmarks
+# Legal
 
-unibookmarks is committed to protecting your privacy.
+* * *
 
-This privacy policy describes the privacy practices for the unibookmarks (the "Site"), located at http://unibookmarks.com/).
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-## Information we collect
-
-We may collect the following information when your register on or fill out a form on our site:
-
-  1. First name and/or last name
-  2. E-mail address
-
-
-
-## Collected information uses
-
-Any information provided by you is used to understand your needs and provide a better service. We may use your information for the following reasons:
-
-  1. To send periodic e-mails and to contact you for market research purposes
-  2. To personalize your website experience according to your interests
-  3. To improve our products or services based on your needs
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
 
-## Collected information security
-
-In order to prevent any unauthorised access or disclosure of the personal information that we gather, we have in place electronic and managerial procedures to secure and guard these information.
-
-## Usage of cookies
-
-A cookie is a small file which asks permission to be placed on your computer hard drive. Cookies allows websites to respond to you as an individual.
-
-You may choose to accept or decline cookies. Disabling cookies preferences may limit the full experience of our site.
-
-## Links to other websites
-
-The Site may contain links to other websites of interest. We cannot be responsible for the protection and privacy of any information which you provide while visiting such sites; such sites are not goverened by this privacy statement.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
