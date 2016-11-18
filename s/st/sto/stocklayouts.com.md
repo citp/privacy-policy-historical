@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stocklayouts.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609224643id_/http%3A//www.stocklayouts.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stocklayouts.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233311id_/http%3A//www.stocklayouts.com/Privacy.aspx) for the most accurate reproduction.*
 
 # StockLayouts | Privacy Policy
 
