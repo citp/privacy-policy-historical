@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cracker.com.au privacy policy that was archived on 2016-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160509005316id_/http%3A//australia.cracker.com.au/classifieds/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cracker.com.au privacy policy that was archived on 2016-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161118232934id_/http%3A//australia.cracker.com.au/classifieds/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-au"><!--<![endif]--><head>
       <title>Australia Free classifieds - cracker.com - cracker.com.au</title>
@@ -21,10 +21,11 @@
       
 
       
-      <link rel="stylesheet" type="text/css" href="http://australia.cracker.com.au/styles/Global.css?cb=c3b2df0b834e57262a2ec9dce86b74f7">
+      <link rel="stylesheet" type="text/css" href="http://australia.cracker.com.au/styles/Global.css?cb=7a51649e970718460475b0dbab4861ca">
     
-      <link rel="stylesheet" type="text/css" href="http://australia.cracker.com.au/styles/custom/Cracker.css?cb=c3b2df0b834e57262a2ec9dce86b74f7">
+      <link rel="stylesheet" type="text/css" href="http://australia.cracker.com.au/styles/custom/Cracker.css?cb=7a51649e970718460475b0dbab4861ca">
 
+      
       
       
 
@@ -65,11 +66,12 @@
 
 
     
-    <div class="nav-trigger sidebar-toggle">nav</div>
     
-      <div class="search-trigger">search</div>
-    
-    
+      <div class="nav-trigger sidebar-toggle">nav</div>
+      
+        <div class="search-trigger">search</div>
+      
+      
 
 <div class="sidebar-nav">
   <div class="sidebar">
@@ -90,7 +92,7 @@
           <li class="nav-item"><a href="https://my.cracker.com/classifieds/central/index">My Account</a></li>
         
         
-          <li class="nav-item"><a href="https://my.cracker.com/classifieds/central/PurchaseCredits.html/australia.cracker.com.au/">Buy Credits</a></li>
+          <li class="nav-item"><a href="https://my.cracker.com/classifieds/central/PurchaseCredits.html/australia.cracker.com.au/" onclick="if ($(this).attr('disabled')){return false;}else{$(this).attr('disabled', 'true'); return true;}">Buy Credits</a></li>
         
       </ul>
 
@@ -138,6 +140,8 @@
   <div class="dimmer"></div>
 </div><!-- .sidebar-nav -->
 
+
+    
   
 
   
@@ -147,23 +151,130 @@
   
 
   
-  <div id="tlHeader" class="siteHeader">
-    <div id="logo" class="tlBlock">
-      
-        <a href="http://australia.cracker.com.au/">australia.cracker.com.au</a>
-      
-    </div>
+  
+    <div id="tlHeader" class="siteHeader">
+      <div id="logo" class="tlBlock">
+        
+          <a href="http://australia.cracker.com.au/">australia.cracker.com.au</a>
+        
+      </div>
 
-    <div id="postAdButton" class="tlBlock">
-      <form name="formPost" id="formPost" action="http://posting.australia.cracker.com.au/online/classifieds/PostAdPPI.html/asa/australia.cracker.com.au/" method="get">
+      <div id="postAdButton" class="tlBlock">
+        <form name="formPost" id="formPost" action="http://posting.australia.cracker.com.au/online/classifieds/PostAdPPI.html/asa/australia.cracker.com.au/" method="get">
       <input type="submit" value="Post Ad" class="button" id="postAdButton">
       <input type="hidden" name="u" value="asa">
       <input type="hidden" name="serverName" value="australia.cracker.com.au">
     </form>
-    </div><!-- #postAdButton -->
+      </div><!-- #postAdButton -->
+
+      
+      <div id="searchInline" class="tlBlock">
+        <span class="search-wrapper">
+        <form name="formSearch" id="formSearch" action="http://australia.cracker.com.au/online/classifieds/Search" method="get">
+      
+      <input type="text" size="15" name="keyword" value=" keyword" data-default=" keyword" maxlength="100">
+      
+        
+        <select name="section">
+          
+          
+          
+          
+            
+              <option value="2176258">local places
+            
+          
+            
+              </option><option value="4382">community
+            
+          
+            
+              </option><option value="4378" selected="">buy/ sell/ trade
+            
+          
+            
+              </option><option value="461291">automotive
+            
+          
+            
+              </option><option value="4380">musician
+            
+          
+            
+              </option><option value="4376">rentals
+            
+          
+            
+              </option><option value="4375">real estate
+            
+          
+            
+              </option><option value="4373">jobs
+            
+          
+            
+              </option><option value="517474">dating
+            
+          
+            
+              </option><option value="517473">adult
+            
+          
+            
+              </option><option value="4374">services
+            
+          
+        </option></select>
+      
+      <input type="submit" value="search" class="button" id="searchButton">
+    </form>
+
+    <script>
+      jQuery("form[name='formSearch'] input[type='text']").focus(function(){
+        if (jQuery(this).is("[data-default]")){
+          if (jQuery(this).val()==jQuery(this).attr("data-default")){
+            jQuery(this).val("");
+          }
+        }
+      });
+      jQuery("form[name='formSearch'] input[type='text']").blur(function(){
+        if (jQuery(this).is("[data-default]")){
+          if (jQuery.trim(jQuery(this).val())==""){
+            jQuery(this).val(jQuery(this).attr("data-default"));
+          }
+        }
+      });
+      jQuery("form[name='formSearch']").submit(function(){
+        jQuery("form[name='formSearch'] input[type=text]").each(function() {
+          if (jQuery(this).val()==jQuery(this).attr("data-default")){
+            jQuery(this).val("");
+          }
+        });
+      });
+    </script>
+      </span>
+      </div>
+
+      <div id="community" class="tlBlock">
+        
+          <p>
+            <span class="city">
+              australia
+            </span>
+            &nbsp;
+            <span class="comm">
+              free&nbsp;classifieds
+            </span>
+          </p>
+        
+      </div><!-- #community -->
+    </div><!-- #tlHeader -->
 
     
-    <div id="searchInline" class="tlBlock">
+    
+
+    
+    <div id="searchDropdown">
       <span class="search-wrapper">
         <form name="formSearch" id="formSearch" action="http://australia.cracker.com.au/online/classifieds/Search" method="get">
       
@@ -250,114 +361,9 @@
       </span>
     </div>
 
-    <div id="community" class="tlBlock">
+    
+    
       
-        <p>
-          <span class="city">
-            australia
-          </span>
-          &nbsp;
-          <span class="comm">
-            free&nbsp;classifieds
-          </span>
-        </p>
-      
-    </div><!-- #community -->
-  </div><!-- #tlHeader -->
-
-  
-  
-
-  
-  <div id="searchDropdown">
-    <span class="search-wrapper">
-        <form name="formSearch" id="formSearch" action="http://australia.cracker.com.au/online/classifieds/Search" method="get">
-      
-      <input type="text" size="15" name="keyword" value=" keyword" data-default=" keyword" maxlength="100">
-      
-        
-        <select name="section">
-          
-          
-          
-          
-            
-              <option value="2176258">local places
-            
-          
-            
-              </option><option value="4382">community
-            
-          
-            
-              </option><option value="4378" selected="">buy/ sell/ trade
-            
-          
-            
-              </option><option value="461291">automotive
-            
-          
-            
-              </option><option value="4380">musician
-            
-          
-            
-              </option><option value="4376">rentals
-            
-          
-            
-              </option><option value="4375">real estate
-            
-          
-            
-              </option><option value="4373">jobs
-            
-          
-            
-              </option><option value="517474">dating
-            
-          
-            
-              </option><option value="517473">adult
-            
-          
-            
-              </option><option value="4374">services
-            
-          
-        </option></select>
-      
-      <input type="submit" value="search" class="button" id="searchButton">
-    </form>
-
-    <script>
-      jQuery("form[name='formSearch'] input[type='text']").focus(function(){
-        if (jQuery(this).is("[data-default]")){
-          if (jQuery(this).val()==jQuery(this).attr("data-default")){
-            jQuery(this).val("");
-          }
-        }
-      });
-      jQuery("form[name='formSearch'] input[type='text']").blur(function(){
-        if (jQuery(this).is("[data-default]")){
-          if (jQuery.trim(jQuery(this).val())==""){
-            jQuery(this).val(jQuery(this).attr("data-default"));
-          }
-        }
-      });
-      jQuery("form[name='formSearch']").submit(function(){
-        jQuery("form[name='formSearch'] input[type=text]").each(function() {
-          if (jQuery(this).val()==jQuery(this).attr("data-default")){
-            jQuery(this).val("");
-          }
-        });
-      });
-    </script>
-      </span>
-  </div>
-
-  
-  
     
   
 
@@ -376,7 +382,7 @@
 <div>
   <strong>Cracker Privacy Policy</strong>
 
-<p><strong>Last Revised: Aug 25, 2015</strong></p>
+<p><strong>Last Revised: Sep 26, 2016</strong></p>
 
 <p>Cracker.com and its affiliates (collectively, the “Site”) respect your privacy. Here is our Privacy Policy for this Site: </p>
 <p><strong>Acceptance of Privacy Policy</strong></p>
@@ -409,6 +415,12 @@
 <p>We may disclose also your name, email address, or other information about you, including personal information, if (i) required to do so by law, court order or subpoena, or as requested by other government, law enforcement, or investigative authority, (ii) we in good faith believe that such disclosure is necessary or advisable, including without limitation to protect the rights or properties of the Site, (iii) we have reason to believe that disclosing your personal information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, or has breached an agreement, or if anyone else could be harmed by such activities or interference, (iv) if we determine an ad posted violates our Terms of Use or the rights of a third party, or (v) there is an emergency involving personal danger.  We may also provide information about you if we believe it is necessary to share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required or permitted by law. </p>
 
 <p>Please note that if you post any of your personal information on the Site, such information may be collected and used by others over whom the Site has no control. The Site is not responsible for the use by third parties of information you post or otherwise make public. </p>
+
+<strong>Notice of Privacy Rights of California Residents </strong><br><br>
+
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes.  Under the law, a business must either provide this information or permit California residents to opt in to, or opt out of, this type of sharing.  We qualify for this alternative option.  To opt out of having information about you shared with third parties for direct marketing purposes, please <a href="http://posting.australia.cracker.com.au/classifieds/Contact">contact us</a>.
+ <br>
+
 
 <p><strong>Communication from the Site/Opt-Out</strong></p>
 
@@ -446,7 +458,7 @@
     </div>
     <!-- .mainBody -->
   
-
+  
   
   
     <script type="text/javascript">
@@ -456,39 +468,41 @@
     </script>
   
 
-  <div id="tlFooter">
+  
+  
+    <div id="tlFooter">
+      <div class="footerText">
+        
+          <a href="https://my.cracker.com/classifieds/central/index">My Account</a> |
+        
+      
+        
+          <a href="https://my.cracker.com/classifieds/central/PurchaseCredits.html/australia.cracker.com.au/" onclick="if ($(this).attr('disabled')){return false;}else{$(this).attr('disabled', 'true'); return true;}">Buy Credits</a> |
+        
+
+        
+          <a href="http://posting.australia.cracker.com.au/classifieds/Contact">Contact</a> |
+        
+
+        <a href="http://australia.cracker.com.au/classifieds/Help">Help</a> |
+        <a href="http://australia.cracker.com.au/classifieds/PrivacyPolicy">Privacy</a> |
+        <a href="http://australia.cracker.com.au/classifieds/TermsOfUse">Terms</a>
+
+        
+
+        
+      </div><!-- .footerText -->
+
+      
+      <div class="footerDisclaimer">
+        australia.cracker.com.au is an interactive computer service that enables access by multiple users and should not be treated as the publisher or speaker of any information provided by another information content provider.
+        ©&nbsp;2016
+        
+          <a href="http://australia.cracker.com.au/classifieds/AllCities">cracker.com.au</a>
+        
+      </div><!-- .footerDisclaimer -->
+    </div><!-- #tlFooter -->
     
-    <div class="footerText">
-      
-        <a href="https://my.cracker.com/classifieds/central/index">My Account</a> |
-      
-      
-      
-        <a href="https://my.cracker.com/classifieds/central/PurchaseCredits.html/australia.cracker.com.au/">Buy Credits</a> |
-      
-
-      
-        <a href="http://posting.australia.cracker.com.au/classifieds/Contact">Contact</a> |
-      
-
-      <a href="http://australia.cracker.com.au/classifieds/Help">Help</a> |
-      <a href="http://australia.cracker.com.au/classifieds/PrivacyPolicy">Privacy</a> |
-      <a href="http://australia.cracker.com.au/classifieds/TermsOfUse">Terms</a>
-
-      
-
-      
-    </div><!-- .footerText -->
-
-    
-    <div class="footerDisclaimer">
-      australia.cracker.com.au is an interactive computer service that enables access by multiple users and should not be treated as the publisher or speaker of any information provided by another information content provider.
-      ©&nbsp;2016
-      
-        <a href="http://australia.cracker.com.au/classifieds/AllCities">cracker.com.au</a>
-      
-    </div><!-- .footerDisclaimer -->
-  </div><!-- #tlFooter -->
 
   </div><!-- #pageBackground -->
 
