@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the carophilia.org privacy policy that was archived on 2016-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160305090004id_/http%3A//www.carophilia.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carophilia.org privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234238id_/http%3A//www.carophile.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-[__  Home](http://www.carophilia.com/) > Privacy Policy
+# Privacy Policy - Carophile
 
 The privacy of visitors to our web sites is very important to us.
 
