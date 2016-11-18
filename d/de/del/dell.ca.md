@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dell.ca privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326073717id_/http%3A//www.dell.com/learn/ca/en/cacorp1/policies-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.ca privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118220838id_/http%3A//www.dell.com/learn/ca/en/cacorp1/policies-privacy) for the most accurate reproduction.*
 
 # Privacy Statement Regarding Customer and Online User Information | Dell Canada
 
@@ -75,7 +75,7 @@ Dell wants to help you keep your Personal Information accurate. To view or edit 
 You may choose to receive or not receive marketing communications from Dell by indicating your preferences. Opportunities to select your preferences include the following:
 
   * The My Account and Premier Account sections on Dell.com allow you to choose whether you wish to receive marketing communications from Dell, and to subscribe or unsubscribe to newsletters about our products and services; 
-  * At any point you may also visit our [List Removal Page](http://ecomm.dell.com/GSC/ListRemoval/Index?returnPath=www.dell.com&c=ca&l=en) and submit a request to be removed from our advertising and marketing lists (catalogs, telephone, faxes and email); 
+  * At any point you may also visit our [List Removal Page](http://www.dell.com/preferences/listremoval/?c=ca&l=en) and submit a request to be removed from our advertising and marketing lists (catalogs, telephone, faxes and email); 
   * When you save a cart while shopping online, you may choose to receive email reminders; and
   * Any marketing by Dell, or any third parties on behalf of Dell, will be conducted in accordance with applicable laws and include, where applicable, methods to allow you to express your preferences.
 
