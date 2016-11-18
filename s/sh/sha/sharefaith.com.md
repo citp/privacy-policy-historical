@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharefaith.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610094353id_/http%3A//www.sharefaith.com/faith/privacyPolicy/view.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharefaith.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231615id_/http%3A//www.sharefaith.com/faith/privacyPolicy/view.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,3 +59,9 @@ Questions, Comments, Concerns
 If you have any questions or comments about our use of Personal Information, please contact us at [Support@Sharefaith.com](mailto:Support@Sharefaith.com). We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of Personal Information. 
 
 [](https://www.sharefaith.com/faith/freeTrial.do)
+
+**ShareFaith Inc.**  
+821 O'Hare Parkway #201  
+Medford, Oregon 97504  
+Tel: 888-317-4018  
+For all suggestions, billing and site questions, please visit our support site to create a support request at: [support.sharefaith.com](https://support.sharefaith.com/)
