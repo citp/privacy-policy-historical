@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the cybergamer.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607125004id_/http%3A//www.cybergamer.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybergamer.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118225514id_/http%3A//au.cybergamer.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-Please read our privacy statement below.
-
-**  
-Privacy Policy  
-**
+**Privacy Policy**
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
@@ -26,8 +22,12 @@ We will make readily available to customers information about our policies and p
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
 
+_CyberGamer Anti-Cheat_
+
+In downloading and using CyberGamer Anti-Cheat you hereby agree to the terms as set out in this document. You further acknowledge and accept CyberGamer Anti-Cheat to take screenshots of your game, and in rare cases your desktop, and that it may collect information regarding your system for use in anti-cheat matters. You acknowledge that on request private screenshots may be deleted at the discretion of CyberGamer. Any updates to CyberGamer Anti-Cheat that you download or install are bound to this agreement.
+
 **Additionally**
 
-CyberGamer is a public system and content residing on this system is openly viewable over the internet, such as your online/offline, 'last online' statuses and your real name and most of your profile details. Users who post or send personal or security information through any of the CyberGamer systems do so at their own risk. Posting or transmitting any user's personal information via the CyberGamer system is strictly prohibited and penalties for breaches of this will be severe. It is irresponsible to post any users personal details on a public forum and a risk to the user's personal safety, whilst CyberGamer staff understand this and will move to act promptly on any breaches delays may be incurred before the removal of such content. We take this matter seriously and welcome all users to submit a support ticket if any of their personal details are posted on the public forum by another user.
+CyberGamer is a public system and content residing on this system is openly viewable over the internet, such as your online/offline, 'last online' statuses and your real name and most of your profile details. Users who post or send personal or security information through any of the CyberGamer systems do so at their own risk. Posting or transmitting any user's personal information via the CyberGamer system is strictly prohibited and penalties for breaches of this will be severe. It is irresponsible to post any users personal details on a public forum and a risk to the user's personal safety, whilst CyberGamer staff understand this and will move to act promptly on any breaches delays may be incurred before the removal of such content. We take this matter seriously and welcome all users to submit a support ticket if any of their personal details are posted on the public forum by another user. Finally, many administrators have the ability to view your IP address and may use these in anti-cheat matters, including sharing your IP with 3rd parties.
 
-Our Terms and conditions can be found [here](https://web.archive.org/terms/). 
+Our Terms and conditions can be found [here](https://web.archive.org/terms/).
