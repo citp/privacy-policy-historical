@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the droom.in privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331141500id_/http%3A//droom.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the droom.in privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118225554id_/http%3A//droom.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
