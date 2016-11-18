@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngleak.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516132143id_/http%3A//www.youngleak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngleak.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233534id_/http%3A//www.youngleak.com/privacy) for the most accurate reproduction.*
 
 # privacy - YoungLeak
 
@@ -43,10 +43,6 @@ Users may find advertising or other content on our Site that link to the sites a
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-### Google Adsense
-
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
-
 ### Compliance with children’s online privacy protection act
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
@@ -59,4 +55,4 @@ YoungLeak has the discretion to update this privacy policy at any time. When we 
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-This document was last updated on April 15, 2016
+This document was last updated on August 13, 2016
