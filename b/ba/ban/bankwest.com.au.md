@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankwest.com.au privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623012350id_/http%3A//www.bankwest.com.au/about-us/legal-stuff/bankwest-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankwest.com.au privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233742id_/http%3A//www.bankwest.com.au/about-us/legal-stuff/bankwest-privacy-policy%3Ficid%3Dbwnav344) for the most accurate reproduction.*
 
 # Bankwest Privacy Policy
 
@@ -230,7 +230,7 @@ If your complaint is about our practices relating to credit-related information,
 
 If you’re not satisfied with our handling of your matter, you can refer your complaint to external dispute resolution. We suggest you do this only once you’ve first followed our internal complaint processes set out above.
 
-The Financial Ombudsman Service (FOS) offers a free and independent dispute resolution service for the Australian banking, insurance and investment industries. FOS will consider privacy disputes if they’re about the provision of credit, the collection of a debt, credit reporting or the banker-customer relationship, or if the privacy issue is part of a broader dispute with us. Please contact FOS at 1300 780 808, online at [www.fos.org.au](http://www.fos.org.au/) or write to Financial Ombudsman Service Limited, GPO Box 3, Melbourne VIC.
+The Financial Ombudsman Service (FOS) Australia offers a free and independent dispute resolution service for the Australian banking, insurance and investment industries. FOS will consider privacy disputes if they’re about the provision of credit, the collection of a debt, credit reporting or the banker-customer relationship, or if the privacy issue is part of a broader dispute with us. Please contact FOS at 1800 367 287, online at [www.fos.org.au](http://www.fos.org.au/) or write to Financial Ombudsman Service Limited, GPO Box 3, Melbourne VIC.
 
 If your complaint is about the way we handle your personal information, you may also contact the Office of the Australian Information Commissioner by calling them at 1300 363 992, online at [www.oaic.gov.au](http://www.oaic.gov.au/) or writing to the Office of the Australian Information Commissioner, GPO Box 5218 Sydney NSW 2001.
 
