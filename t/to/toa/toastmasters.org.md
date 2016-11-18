@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toastmasters.org privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412164638id_/https%3A//www.toastmasters.org/Footer/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toastmasters.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119005628id_/http%3A//www.toastmasters.org/Footer/Privacy-Policy) for the most accurate reproduction.*
 
 # Toastmasters International -Privacy Policy
 
@@ -129,7 +129,9 @@ When we collect or transmit sensitive information, such as a credit or debit car
 
 ### What about third-party advertisers and links to other websites?
 
-**Our site may include third-party advertising and links to other websites. We do not provide any personally identifiable customer information to these advertisers or third-party websites. The rest of this section offers some examples as well as information on how to opt-out of their information collection practices. 
+**
+
+Our site may include third-party advertising and links to other websites. We do not provide any personally identifiable customer information to these advertisers or third-party websites. The rest of this section offers some examples as well as information on how to opt-out of their information collection practices.
 
 Examples of third-party advertisers and advertising companies that serve advertising content directly to your browser on certain Toastmasters.org pages may include [Atlas ](http://www.atlassolutions.com/)and [Doubleclick](http://www.doubleclick.com/). You can find out more about their information collection and use practices, including how to opt out of cookies and other collection techniques that they use, by clicking on the links to their websites in this paragraph.
 
@@ -144,7 +146,9 @@ These third-party websites and advertisers, or Internet advertising companies wo
 
 ### What are my options for providing information?
 
-**You can always choose not to provide information, although it is needed to make a purchase or to take advantage of such Toastmasters.org features as your personal profile. Consequently, if you choose not to provide information on this website, you will be unable to conduct transactions with Toastmasters International using the Internet. Alternatives for making purchases or updating your Toastmasters International records may involve using the postal or a courier service, calling Toastmasters International’s Member Services Department or visiting the store at World Headquarters in California. 
+**
+
+You can always choose not to provide information, although it is needed to make a purchase or to take advantage of such Toastmasters.org features as your personal profile. Consequently, if you choose not to provide information on this website, you will be unable to conduct transactions with Toastmasters International using the Internet. Alternatives for making purchases or updating your Toastmasters International records may involve using the postal or a courier service, calling Toastmasters International’s Member Services Department or visiting the store at World Headquarters in California.
 
 You can add or update certain information on pages such as your Profile. When you update information, we may keep a copy of the prior version for our records.
 
