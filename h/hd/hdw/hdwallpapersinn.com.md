@@ -1,53 +1,17 @@
-> *The following text is extracted and transformed from the hdwallpapersinn.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129043615id_/http%3A//www.hdwallpapersinn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallpapersinn.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118222544id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal
 
-**Privacy Policy – HDWallPapersInn.com**
+* * *
 
-We at HD Wallpapers Inn take your privacy very seriously. This document details our policy about  
-how we collect and use user personal private information. We also detail how we deal with third party  
-advertising partners.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
- **Personally identifiable data**
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-We strongly discourage all website visitors not to enter any personal sensitive information about  
-themselves including full name, phone number, credit card, physical address, email address, or any  
-other sensitive information. We strongly advice minors and other users with limited decision ability not  
-to visit our website without elders’ supervision. HD Wallpapers Inn tries to ensure that all personally  
-identifiable information or any offending material is removed immediately.
 
- **Server Logs Data**
 
-HD Wallpapers Inn also logs data about web, database, access information, and server software  
-usage. There can be different information parameters like IP address, the place from where you are  
-using your internet connection (workplace, school, internet service provider), or geographical location.  
-All the information collected on our server logs is only used to improve the web services offered and  
-debugging any problems that may affect user experience. All data aggregated is used anonymously for  
-traffic statistics only.
-
- **Use of cookies**
-
-We also save cookies “small text files” that are saved locally on your system. These files help us  
-personalize the way you interact with our website. You can delete these cookies whenever you want.  
-You can also choose not to allow your browser creating these cookies in the first place. However, HD  
-Wallpapers Inn does not provide any guarantee that all its functionalities will be fully functional once  
-cookies are enabled.
-
- **Advertisements by third parties**
-
-HD Wallpapers Inn servers advertisements by Google Adsense, Infolinks, and a number of other  
-third party advertisers. Our privacy policy does not cover our third party advertiser’s privacy policy.  
-Therefore, in order for you to know about the advertisements, you must refer to respect third party  
-advertiser (s) for more information.
-
- **Selling or sharing of data**
-
-We strongly condemn the practice of selling data to anyone for any purpose. Therefore, once you  
-are interacting with HD Wallpapers Inn, you must never be worried about us selling your data to  
-marketers. We respect your privacy the way we respect our own privacy.
-
- **Data Retention**
-
-We only retain, create backups of data, and copy it to other machines or servers for dealing with server  
-crises and problems. There is no hidden purpose or ill intention behind retaining your data except for  
-backup.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
