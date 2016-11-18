@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wkyt.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613194643id_/http%3A//www.wkyt.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wkyt.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118225620id_/http%3A//www.wkyt.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
 
 # Gray Television, Inc. PRIVACY POLICY and YOUR CALIFORNIA PRIVACY RIGHTS
 
-Posted: Fri 6:57 PM, Jun 15, 2012  | 
+Posted: Wed 11:19 AM, Jun 13, 2012  | 
 
-Updated: Thu 1:44 PM, Jan 28, 2016 
+Updated: Mon 3:47 PM, Jul 18, 2016 
 
 **In addition to this Privacy Policy, user generated content that may be offered on our Web Channels is also subject to the Privacy Policy of the "My Capture" service. Please see the separate privacy policy for[ _MyCapture_](http://secondstreet.com/terms/).**
 
