@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canon.co.in privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607232937id_/http%3A//www.canon.co.in/personal/web/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canon.co.in privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233937id_/http%3A//www.canon.co.in/personal/web/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Canon India - Personal
 
@@ -75,10 +75,10 @@ Top
 If you have questions or concerns about this Statement, please contact us at:
 
 Canon Singapore Pte. Ltd.  
-1 HarbourFront Avenue #04-01,   
-Keppel Bay Tower   
-Singapore 098632  
-Tel: (65) 6799 8888   
+1 Fusionopolis Place,  
+#15-10 Galaxis  
+Singapore 138522  
+Tel: (65) 6799 8888  
 Fax: (65) 6799 8882 
 
 Top
