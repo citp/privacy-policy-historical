@@ -1,52 +1,41 @@
-> *The following text is extracted and transformed from the track-your-partner.com privacy policy that was archived on 2016-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160311115155id_/http%3A//www.trackapartner.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the track-your-partner.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234219id_/http%3A//www.trackapartner.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Trackapartner.com
 
-We at Trackapartner.com respect the privacy of our visitors and are committed to preserving your online safety by preserving your privacy at anytime you visit or communicate with our site.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [contact@Trackapartner.com.](mailto:contact@Trackapartner.com.)
 
-Our Terms of Use and Privacy Policy offers you a thorough explanation regarding your personal data provided to us or any data we may collect from you.
+At www.Trackapartner.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.Trackapartner.com and how it is used.
 
-This Privacy Policy is updated from time to time; therefore, it should be reviewed occasionally.
+**Log Files**
 
-**1\. Collected Information**  
-Data can be collected and processed during the operations of our website. The following are ways we may perform these actions:
+Like many other Web sites, www.Trackapartner.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-1.1 | Data regarding your visit(s) to our website and any resources used are collected. The following is included and not limited to: location data, weblogs, traffic data, and any other communication information.  
+**Cookies and Web Beacons**
+
+www.Trackapartner.com makes use of cookies through 3d-parties, e.g Google Analytics. 
+
+**Google Analytics**
+
+We use Google Analytics’ 3rd-party audience data such as age, gender, and interests to better understand the behavior of our customers and work with companies that collect information about your online activities to provide advertising targeted to suit your interests and preferences. These companies also use automated technologies to collect information when you click on our ads, which helps track and manage the effectiveness of our marketing efforts.
+
+**DoubleClick DART Cookie**
+
+1. | Google, as a third party vendor, uses cookies to serve ads on www.Trackapartner.com.  
 ---|---  
-1.2 | Any phone numbers entered in the "locate a phone" field, real or fake, will not, under any circumstances, be collected or stored in any way.  
+2. | Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.Trackapartner.com and other sites on the Internet.  
+3. | Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL –[ http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html)  
   
-**2\. Cookie Usage**  
-Any information collected will not have any identifying data. It is statistical data about our visitors and how they have used our site. No personal details will be shared that could identify you.
+**Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include…**
 
-Our advertisers may download cookies to which we have no control. If used, these cookies are downloaded by clicking on an advertisement found on our website. 
+Google Adsense
 
-**3\. Our Use of Your Information**  
-Information stored or collected regarding you helps us improve and offer services you need. The following list contains how we might use your data:
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.Trackapartner.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-3.1 | Any request you make of our site or personnel allows us to use information you provided us with, relating to the products or services we have.  
----|---  
-3.2 | Contract Commitments: To meet any Commitment we make to you.  
-3.3 | Changes or Improvements made to the site can warrant use of your information, with regard to notification of such changes.  
-3.4 |  Any new customer can only be contacted by us or third parties if consent has been offered via our site. We only send communications you have consented to.  
-3.5 | None of the information collected about you will offer identifiable characteristics. Information shared to a third party is statistical only. We  
-will not reveal who you are, only mathematical information about our visitors.  
-  
-**4\. Personal Data Storage**  
-Information we are provided will be stored on secure servers. Transaction data is encrypted for your safety.
+www.Trackapartner.com has no access to or control over these cookies that are used by third-party advertisers.
 
-**5\. Information Disclosure**  
-5.1 Third Party disclosure may occur for the following reasons:
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.Trackapartner.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-5.2.1 | Selling any or all of our business to a third party may result in sharing your information.  
----|---  
-5.2.2 | At any time when we are legally required to we may disclose information about you and your visits to our sites.  
-5.2.3 | To prevent fraud and help in fraud protection in order to reduce credit risk, we may disclose information.  
-  
-**6\. Third Party Links**  
-Third party links may be discovered on our site. These third party links have their own privacy policy, which you agree to when you click on the link. We are not responsible nor do we accept responsibility for third party links. Our liability covers us only on our site, and thus we do not accept liability for third party links as we have no control over them. 
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-**7\. Information Accessibility**   
-We cannot withhold data we collect about you, as per The Data Protection Act 1998. This act provides you with access to any information we may hold on you. If you wish to have access about our data collection on you please pay our fee of €10. The fee covers our costs for processing your request and getting the data to you. Please use the contact details below to formulate your data access request.
-
-**8\. Contacting Us**   
-Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via the Contact us page. 
+For additional information about how Google uses data when you use our partners’ sites or apps:  
+<https://www.google.com/intl/en/policies/privacy/partners/>
