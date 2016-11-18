@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the audible.com.au privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701065754id_/http%3A//www.audible.com.au/privacy-policy/ref%3Dmn_anon-h_f6_pn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audible.com.au privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233257id_/http%3A//www.audible.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Audible.com.au Privacy Notice | Audible.com.au
 
-Last updated: November 06, 2013
+Last updated: 23rd August 2016
 
 Audible.com.au (Audible) knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes the privacy policy of Audible. **By visiting the Audible.com.au website, you are accepting and consenting to the practices described in this Privacy Notice.**
 
@@ -21,7 +21,8 @@ Here are the types of information we gather
   1. **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. Click here to see examples of what we collect  . You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customising future shopping for you, improving our stores, and communicating with you. 
   2. **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies" and we obtain certain types of information when your Web browser accesses www.audible.com.au or advertisements and other content served by or on behalf of Audible on other Web sites. Click here to see examples of the information we receive. 
   3. **E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Audible if your computer supports such capabilities. We also compare our customer list to lists received from other companies in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your Contact Preferences.
-  4. **Information from Other Sources:** We might receive information about you from other sources and add it to our account information. Click here to see examples of the information we receive.
+  4. **Mobile:** When you download or use apps created by Amazon or our subsidiaries, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content. Most mobile devices allow you to turn off location services. For more information about how to do this, click [here](https://www.amazon.co.uk/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=502584#GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_22160257376047E78334D565CD73852D). 
+  5. **Information from Other Sources:** We might receive information about you from other sources and add it to our account information. Click here to see examples of the information we receive.
 
 
 
