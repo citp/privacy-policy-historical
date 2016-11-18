@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subzin.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417130504id_/http%3A//blog.subzin.com/%3Fpage_id%3D26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subzin.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118062146id_/http%3A//blog.subzin.com/%3Fpage_id%3D26) for the most accurate reproduction.*
 
 # Privacy policy « The Subzin Blog
 
@@ -20,13 +20,13 @@ Subzin collects certain information from and about its users three ways: directl
 **a. Web Pages.**  
 When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
 
-\- Your Internet protocol address.  
-\- The kind of browser or computer you use.  
-\- Number of links you click within the site.  
-\- State or country from which you accessed the site.  
-\- Date and time of your visit.  
-\- Web page you linked to our site from.  
-\- Pages you viewed on the site.
+– Your Internet protocol address.  
+– The kind of browser or computer you use.  
+– Number of links you click within the site.  
+– State or country from which you accessed the site.  
+– Date and time of your visit.  
+– Web page you linked to our site from.  
+– Pages you viewed on the site.
 
 **b. Use of Cookies**  
 Subzin may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you.
@@ -41,9 +41,9 @@ You have the ability to accept or decline cookies. Most Web browsers automatical
 Visitors to our website can register in order to upload contents onto the Subzin’s database. When you register, we may request some personal information, for now limited to the user email, but in a near future it could be completed with data like address, email, telephone number or facsimile number, account number and other relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
 
 We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including, but not limited to:  
-\- To protect ourselves from liability,  
-\- To respond to legal process or comply with law, or  
-\- In connection with a merger, acquisition, or liquidation of the company.
+– To protect ourselves from liability,  
+– To respond to legal process or comply with law, or  
+– In connection with a merger, acquisition, or liquidation of the company.
 
 **4\. ACCESSING WEB ACCOUNT INFORMATION**
 
