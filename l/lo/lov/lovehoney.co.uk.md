@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lovehoney.co.uk privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419222124id_/http%3A//www.lovehoney.co.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovehoney.co.uk privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231103id_/http%3A//www.lovehoney.co.uk/help/privacy) for the most accurate reproduction.*
 
 # What is your privacy policy?
 
-This policy covers the processing of all personal information by Lovehoney Limited (company number 4637868) whose registered address is 100 Locksbrook Road, Bath, BA1 3EN.
+This policy covers the processing of all personal information by Lovehoney Group Limited (company number 163408909) whose registered address is 100 Locksbrook Road, Bath, BA1 3EN.
 
-This policy (together with our [terms of use](http://www.lovehoney.co.uk/help/terms/) and any other documents referred to therein) sets out the basis on which we will process any personal information we collect from you, or that you provide to us. Please read the following carefully.
+This policy (together with our [terms of use](https://web.archive.org/help/terms/) and any other documents referred to therein) sets out the basis on which we will process any personal information we collect from you, or that you provide to us. Please read the following carefully.
 
 We may collect and process the following information about you:
 
@@ -20,7 +20,7 @@ We use cookies to keep track of your current shopping session so that you may re
 
 No personally identifiable information is stored in these cookies.
 
-For the full technical explanation, read more about [cookies used on our site](http://www.lovehoney.co.uk/help/cookies/).
+For the full technical explanation, read more about [cookies used on our site](https://web.archive.org/help/cookies/).
 
 If you wish to remove these cookies, you can do so by following [these instructions](http://www.aboutcookies.org/Default.aspx?page=2).
 
@@ -44,7 +44,7 @@ We may share your personal information with members of Lovehoney's group, which 
 
 If we sell or buy any business or assets, we may disclose such information to the prospective seller or buyer of such business or assets as may reasonably be required.
 
-Our site may contain links to other websites that are not owned or operated by us. We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy policies. Please refer to the privacy policy of the third party web site for guidance on the operation, function and management of that web site. You should also independently assess the authenticity of any website which appears or claims that it is one of our sites (including those linked to through an email).
+Our site may contain links to other websites that are not owned or operated by us. We do not control, recommend or endorse and are not responsible for these sites or their content, products, services or privacy policies. Please refer to the privacy policy of the third party website for guidance on the operation, function and management of that website. You should also independently assess the authenticity of any website which appears or claims that it is one of our sites (including those linked to through an email).
 
 All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
@@ -80,4 +80,4 @@ If for any reason any part of this policy is found to void or unenforceable, it 
 
 Any questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Lovehoney, 100 Locksbrook Road, Bath, BA1 3EN, UK.
 
-Alternatively you can email us at help@lovehoney.co.uk or through our "Contact Us" page.
+Alternatively you can email us at customercare@lovehoney.co.uk or through our "[Contact Us](https://web.archive.org/help/contact-us/)" page.
