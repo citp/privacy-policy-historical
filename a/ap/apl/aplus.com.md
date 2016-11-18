@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aplus.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531072934id_/http%3A//aplus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplus.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000444id_/http%3A//aplus.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | aplus.com
 
@@ -37,3 +37,5 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 ## Privacy Policy Changes
 
 Although most changes are likely to be minor, A Plus may change its Privacy Policy from time to time, and in A Plus’s sole discretion. A Plus encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have an aplus.com account, you should also check your feed for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+For more information, contact [Maryland Attorney](https://annapolisaccidentattorney.com/) Christopher Beard
