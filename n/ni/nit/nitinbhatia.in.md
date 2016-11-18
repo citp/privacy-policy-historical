@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitinbhatia.in privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610203512id_/http%3A//www.nitinbhatia.in/google-adsense-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitinbhatia.in privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231744id_/http%3A//www.nitinbhatia.in/google-adsense-privacy-policy) for the most accurate reproduction.*
 
 # Google Adsense Privacy Policy
 
