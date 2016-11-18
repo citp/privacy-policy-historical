@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the inis.gov.ie privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613083158id_/http%3A//www.inis.gov.ie/en/INIS/Pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inis.gov.ie privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233936id_/http%3A//inis.gov.ie/en/INIS/Pages/privacy) for the most accurate reproduction.*
 
 # Privacy policy & cookies
 
-## General statement
+This privacy statement establishes how the Irish Naturalisation and Immigration Service will collect and use information about you from your visit to this website.
 
-This privacy statement establishes how the Irish Naturalisation and Immigration Service will collect and use information about you from your visit to this website. The Irish Naturalisation and Immigration Service fully respects your right to privacy, and will not collect any personal information about you without your clear permission.
+The Irish Naturalisation and Immigration Service fully respects your right to privacy, and will not collect any personal information about you without your clear permission.
 
 ## How we collect and use personal information
 
@@ -42,10 +42,8 @@ You may refuse the use of cookies by selecting the appropriate settings on your 
 
 By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-## You have the right to access, correct and delete of personal information
+## You have the right to access, correct and delete of personal information
 
 You have the right to access, correct and delete personal information which we may hold on you, in accordance with your rights under the Data Protection Acts 1988 and 2003.
-
-## Contact
 
 To find out what personal data we hold on you, or to have your personal data updated, amended or deleted from our records, please send an email to [Asylum_Policy_Mail@Justice.ie](mailto:Asylum_Policy_Mail@Justice.ie).
