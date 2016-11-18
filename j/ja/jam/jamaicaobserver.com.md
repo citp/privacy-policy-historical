@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamaicaobserver.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630081554id_/http%3A//www.jamaicaobserver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamaicaobserver.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118230740id_/http%3A//www.jamaicaobserver.com/privacy) for the most accurate reproduction.*
 
 # Jamaica Observer :: Terms and Conditions
 
