@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the thegap.co.uk privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612174523id_/http%3A//www.gap.co.uk/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegap.co.uk privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235201id_/http%3A//www.gap.co.uk/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
 
 # Privacy Policy | Gap
 
 ## Privacy Policy
 
-_Last Updated: 1 June 2015_
+_Last Updated: 1/08/2016_
 
 ### Our Commitment to Privacy
 
 Gap Inc. and our affiliates and subsidiaries in the U.S. and the European Union, including GPS (Great Britain) Limited, Gap Europe Limited, Gap (UK Holdings) Limited, Gap (France) SAS, Gap Stores (Ireland) Limited and Gap (Italy) SRL (collectively, "Gap Companies") and our brands, including Gap, Banana Republic, and other Gap Inc. brands (collectively, our "Brands") value our customers and respect your privacy. We collect information about you in our stores and through our websites connected to this policy in an effort to improve your shopping experience and to communicate with you about our products, services, contests and promotions.
 
-Personal information collected by Gap Companies under this policy is subject to the rules set out in the Data Protection Act 1998 (the "Act") and any other applicable legislation and rules. For the purposes of the Act, the data processors in the United Kingdom are GPS (Great Britain) Limited and Gap Europe Limited t/a Gap and Banana Republic, companies registered in England and Wales (with company numbers 2275771 and 6279672 and; VAT number GB 676091512) and with their registered offices at Berkeley Square House, London W1J 6BS. Gap Companies adhere to the Safe Harbor framework developed by the U.S. Department of Commerce in coordination with the European Commission. For more information, please visit: <http://www.export.gov/safeharbor/>.
+Personal information collected by Gap Companies under this policy is subject to the rules set out in the Data Protection Act 1998 (the "Act") and any other applicable legislation and rules. For the purposes of the Act, the data processors in the United Kingdom are GPS (Great Britain) Limited and Gap Europe Limited t/a Gap and Banana Republic, companies registered in England and Wales (with company numbers 2275771 and 6279672 and; VAT number GB 676091512) and with their registered offices at TMF Corporate Services Limited, 6 St Andrew Street, London, EC4A 3AE. Gap Companies adhere to the Safe Harbor framework developed by the U.S. Department of Commerce in coordination with the European Commission. 
 
 This policy describes the personal information we collect about you, why we collect it, how we use it, and when we share it with third parties. Our policy also describes the choices you can make about how we collect, use, and disclose your information. If our information practices change, we will post an updated policy on our website. You can tell if the policy has changed by checking the Last Updated date that appears at the top of this policy. You can browse our site without providing any personal information, but if you choose not to provide us with certain personal information, this may result in your being unable to use certain services or features offered by us. If you have any questions about our privacy policy, please contact us as described in the section entitled, "How do I contact you?" below.
 
@@ -32,12 +32,13 @@ This policy describes the personal information we collect about you, why we coll
   * What about links to other websites?
   * How long do you retain my information?
   * How do I contact you?
+  * Customer Complaints
 
 
 
 ### What kind of personal information do Gap Companies collect?
 
-We may collect personal information from you, such as your name, email address, postal address, phone number or credit card number, when you visit one of our websites or stores, place an order online or by phone, make an in-store purchase or return, save your information with us online, contact us or participate in a contest, promotion or survey. We may maintain a record of your product interests and the purchases you make online or by phone and in our stores. As detailed below, we may combine all of this personal information with personal information about you that we acquire from our joint marketing partners, from unrelated third parties, and from our other Brands.
+We may collect personal information from you, such as your name, email address, postal address, phone number or credit card number and details of maternity (where applicable), when you visit one of our websites or stores, place an order online or by phone, make an in-store purchase or return, save your information with us online, contact us or participate in a contest, promotion or survey. We may maintain a record of your product interests and the purchases you make online or by phone and in our stores. As detailed below, we may combine all of this personal information with personal information about you that we acquire from our joint marketing partners, from unrelated third parties, and from our other Brands.
 
 Personal information about you may be processed or stored on servers hosted in various countries, whether within or outside of the European Economic Area ("EEA"). Accordingly, this means that your personal information may be transferred outside of the EEA to various countries, including the United States. Your personal information may be subject to the laws of the countries in which it is stored or used, and those countries may have a different data protection regime than the country in which you reside. By providing us with any personal information, you consent to such transfer, processing and storage of your personal information. Gap Companies adhere to the Safe Harbor framework developed by the U.S. Department of Commerce in coordination with the European Commission. For more information, please visit: [www.export.gov/safeharbor](http://www.export.gov/safeharbor/).
 
@@ -207,16 +208,20 @@ Castle Mound Way
 Rugby, Warwickshire,  
 CV23 0BR  
 United Kingdom 
+
+### Customer Complaints 
+
+If your inquiry has not been satisfactorily addressed by custserv@gap.com, the European Online Dispute Resolution Platform at: http://ec.europa.eu/odr is available to you as a means to take the matter further. Whilst you also have the right to contact The Retail Ombudsman, a CTSI approved alternative dispute resolution provider, at www.theretailombudsman.org.uk, please note that Gap Companies conduct alternative dispute resolution via the International Centre for Dispute Resolution, the international division of the American Arbitration Association (ICDR/AAA) at: https://www.icdr.org.
 
 ## Privacy Policy
 
-_Last Updated: 2 December 2014_
+_Last Updated: 1/08/2016_
 
 ### Our Commitment to Privacy
 
 Gap Inc. and our affiliates and subsidiaries in the U.S. and the European Union, including GPS (Great Britain) Limited, Gap Europe Limited, Gap (UK Holdings) Limited, Gap (France) SAS, Gap Stores (Ireland) Limited and Gap (Italy) SRL (collectively, "Gap Companies") and our brands, including Gap, Banana Republic, and other Gap Inc. brands (collectively, our "Brands") value our customers and respect your privacy. We collect information about you in our stores and through our websites connected to this policy in an effort to improve your shopping experience and to communicate with you about our products, services, contests and promotions.
 
-Personal information collected by Gap Companies under this policy is subject to the rules set out in the Data Protection Act 1998 (the "Act") and any other applicable legislation and rules. For the purposes of the Act, the data processors in the United Kingdom are GPS (Great Britain) Limited and Gap Europe Limited t/a Gap and Banana Republic, companies registered in England and Wales (with company numbers 2275771 and 6279672 and; VAT number GB 676091512) and with their registered offices at Berkeley Square House, London W1J 6BS. Gap Companies adhere to the Safe Harbor framework developed by the U.S. Department of Commerce in coordination with the European Commission. For more information, please visit: <http://www.export.gov/safeharbor/>.
+Personal information collected by Gap Companies under this policy is subject to the rules set out in the Data Protection Act 1998 (the "Act") and any other applicable legislation and rules. For the purposes of the Act, the data processors in the United Kingdom are GPS (Great Britain) Limited and Gap Europe Limited t/a Gap and Banana Republic, companies registered in England and Wales (with company numbers 2275771 and 6279672 and; VAT number GB 676091512) and with their registered offices at TMF Corporate Services Limited, 6 St Andrew Street, London, EC4A 3AE. Gap Companies adhere to the Safe Harbor framework developed by the U.S. Department of Commerce in coordination with the European Commission. 
 
 This policy describes the personal information we collect about you, why we collect it, how we use it, and when we share it with third parties. Our policy also describes the choices you can make about how we collect, use, and disclose your information. If our information practices change, we will post an updated policy on our website. You can tell if the policy has changed by checking the Last Updated date that appears at the top of this policy. You can browse our site without providing any personal information, but if you choose not to provide us with certain personal information, this may result in your being unable to use certain services or features offered by us. If you have any questions about our privacy policy, please contact us as described in the section entitled, "How do I contact you?" below.
 
@@ -238,12 +243,13 @@ This policy describes the personal information we collect about you, why we coll
   * What about links to other websites?
   * How long do you retain my information?
   * How do I contact you?
+  * Customer Complaints 
 
 
 
 ### What kind of personal information do Gap Companies collect?
 
-We may collect personal information from you, such as your name, email address, postal address, phone number or credit card number, when you visit one of our websites or stores, place an order online or by phone, make an in-store purchase or return, save your information with us online, contact us or participate in a contest, promotion or survey. We may maintain a record of your product interests and the purchases you make online or by phone and in our stores. As detailed below, we may combine all of this personal information with personal information about you that we acquire from our joint marketing partners, from unrelated third parties, and from our other Brands.
+We may collect personal information from you, such as your name, email address, postal address, phone number or credit card number and details of maternity (where applicable), when you visit one of our websites or stores, place an order online or by phone, make an in-store purchase or return, save your information with us online, contact us or participate in a contest, promotion or survey. We may maintain a record of your product interests and the purchases you make online or by phone and in our stores. As detailed below, we may combine all of this personal information with personal information about you that we acquire from our joint marketing partners, from unrelated third parties, and from our other Brands.
 
 Personal information about you may be processed or stored on servers hosted in various countries, whether within or outside of the European Economic Area ("EEA"). Accordingly, this means that your personal information may be transferred outside of the EEA to various countries, including the United States. Your personal information may be subject to the laws of the countries in which it is stored or used, and those countries may have a different data protection regime than the country in which you reside. By providing us with any personal information, you consent to such transfer, processing and storage of your personal information. Gap Companies adhere to the Safe Harbor framework developed by the U.S. Department of Commerce in coordination with the European Commission. For more information, please visit: [www.export.gov/safeharbor](http://www.export.gov/safeharbor/).
 
@@ -414,15 +420,19 @@ Rugby, Warwickshire,
 CV23 0BR  
 United Kingdom 
 
+### Customer Complaints 
+
+If your inquiry has not been satisfactorily addressed by custserv@gap.com, the European Online Dispute Resolution Platform at: http://ec.europa.eu/odr is available to you as a means to take the matter further. Whilst you also have the right to contact The Retail Ombudsman, a CTSI approved alternative dispute resolution provider, at www.theretailombudsman.org.uk, please note that Gap Companies conduct alternative dispute resolution via the International Centre for Dispute Resolution, the international division of the American Arbitration Association (ICDR/AAA) at: https://www.icdr.org.
+
 ## Privacybeleid
 
-_Voor het laatst herzien op 1 juni 2015._
+_Voor het laatst herzien op 1/08/2016_
 
 ### Ons commitment voor uw privacy
 
 Bij Gap Inc. en onze filialen en dochterondernemingen in de VS en de Europese Unie, inclusief GPS (Groot-Britannië) Limited, Gap Europe Limited, Gap (UK Holdings) Limited, Gap (France) SAS, en Gap Stores (Ierland) Limited (collectief aangeduid met de naam "Gap Bedrijven") en onze Merken, waaronder Gap, Banana Republic en andere merken van Gap Inc. (collectief aangeduid als onze "Merken"), waarderen we onze klanten en respecteren we uw privacy. In onze winkels en op onze website verzamelen wij informatie over u die verband houdt met dit beleid; dit doen we om uw koopervaring te verbeteren en u berichten te sturen over producten, diensten, wedstrijden en aanbiedingen. 
 
-Persoonlijke informatie die onder dit beleid door Gap Bedrijven wordt verzameld, is onderworpen aan de bepalingen van de Wet op de Gegevensbescherming van 1998 (de "Wet") en aan alle andere van toepassing zijn wet- en regelgeving. Voor de toepassing van de Wet zijn de gegevensverwerkers in het Verenigd Koninkrijk GPS (Groot-Britannië) Limited handelend onder de naam Gap en Banana Republic, bedrijven geregistreerd in Engeland en Wales (met bedrijfsnumers 2275771 en 6279672 en; BTW-nummers GB 676091512) en met maatschappelijke zetel te Berkeley Square House, London W1J 6BS. Gap Bedrijven houden zich aan de Safe Harbor-principes die werden opgesteld door het Department of Commerce van de VS, in samenwerking met de Europese Commissie. Meer informatie vindt u op: <http://www.export.gov/safeharbor/>. 
+Persoonlijke informatie die onder dit beleid door Gap Bedrijven wordt verzameld, is onderworpen aan de bepalingen van de Wet op de Gegevensbescherming van 1998 (de "Wet") en aan alle andere van toepassing zijn wet- en regelgeving. Voor de toepassing van de Wet zijn de gegevensverwerkers in het Verenigd Koninkrijk GPS (Groot-Britannië) Limited handelend onder de naam Gap en Banana Republic, bedrijven geregistreerd in Engeland en Wales (met bedrijfsnumers 2275771 en 6279672 en; BTW-nummers GB 676091512) en met maatschappelijke zetel te TMF Corporate Services Limited, 6 St Andrew Street, London, EC4A 3AE. Gap Bedrijven houden zich aan de Safe Harbor-principes die werden opgesteld door het Department of Commerce van de VS, in samenwerking met de Europese Commissie. Meer informatie vindt u op: <http://www.export.gov/safeharbor/>. 
 
 In dit beleid wordt de persoonlijke informatie beschreven die we over u verzamelen en wordt aangegeven waarom we die verzamelen, hoe we die gebruiken en aan welke derde partijen we die doorgeven. Ons beleid beschrijft ook de keuzes die u kunt maken in verband met het verzamelen, gebruiken en openbaar maken van uw informatie. Indien veranderingen optreden in onze informatiepraktijken, plaatsen we een bijgewerkt beleid op onze website. Of het beleid veranderd is, kunt u zien aan de datum "Voor het laatst herzien", boven aan dit beleid. U kunt onze site doorbladeren zonder persoonlijke informatie te verstrekken. Als u er echter voor kiest om ons bepaalde persoonlijke informatie niet te geven, kan het zijn dat u bepaalde diensten of functies die wij aanbieden, niet kunt gebruiken. Als u vragen hebt over ons privacybeleid, neem contact met ons op. Hoe u dit doet, leest u in het gedeelte "Hoe neem ik contact met u op?" hieronder.
 
@@ -442,12 +452,13 @@ In dit beleid wordt de persoonlijke informatie beschreven die we over u verzamel
   * Hoe staat het met koppelingen naar andere websites?
   * Hoelang bewaart u mijn informatie?
   * Hoe neem ik contact met u op?
+  * Reclames of klachten van klanten
 
 
 
 ### Welke persoonlijke informatie verzamelen Gap Bedrijven? 
 
-We verzamelen persoonlijke informatie over u zoals uw naam, e-mailadres, postadres, telefoonnummer of creditcardnummer, wanneer u een van onze websites of winkels bezoekt, een order plaatst, online of per telefoon, wanneer u in de winkel iets aanschaft of retourneert, bij het online opslaan van uw informatie, wanneer u contact met ons opneemt of wanneer u meedoet aan een wedstrijd, een aanbieding of een enquête. We houden gegevens bij over uw interesse voor bepaalde producten en over uw aankopen online, via de telefoon en in onze winkels. Hieronder staat in detail beschreven hoe we al deze persoonlijke informatie combineren met persoonlijke informatie die we over u verkrijgen van onze gezamenlijke marketingpartners, van niet-verbonden derden en van onze andere Merken. 
+We verzamelen persoonlijke informatie over u zoals uw naam, e-mailadres, postadres, telefoonnummer of creditcardnummer en zwangerschapsgegevens (indien van toepassing) wanneer u een van onze websites of winkels bezoekt, een order plaatst, online of per telefoon, wanneer u in de winkel iets aanschaft of retourneert, bij het online opslaan van uw informatie, wanneer u contact met ons opneemt of wanneer u meedoet aan een wedstrijd, een aanbieding of een enquête. We houden gegevens bij over uw interesse voor bepaalde producten en over uw aankopen online, via de telefoon en in onze winkels. Hieronder staat in detail beschreven hoe we al deze persoonlijke informatie combineren met persoonlijke informatie die we over u verkrijgen van onze gezamenlijke marketingpartners, van niet-verbonden derden en van onze andere Merken. 
 
 Uw persoonlijke informatie kan worden verwerkt of opgeslagen op servers die in verschillende landen worden gehost, al dan niet binnen of buiten de Europese Economische Ruimte ("EER"). Dit betekent dus dat uw persoonlijke informatie kan worden overgebracht naar verschillende landen buiten de EER, waaronder de Verenigde Staten. Uw persoonlijke informatie kan zijn onderworpen aan de wetgeving van de landen waar de informatie wordt opgeslagen of gebruikt. In deze landen kan een andere wetgeving inzake gegevensbescherming van kracht zijn dan in het land waar u woont. Wanneer u ons persoonlijke informatie geeft, gaat u akkoord met deze overdracht, verwerking en opslag van uw persoonlijke informatie. Gap Bedrijven houden zich aan de Safe Harbor-principes die werden opgesteld door het Department of Commerce van de VS, in samenwerking met de Europese Commissie. Meer informatie vindt u op: <http://www.export.gov/safeharbor/>. 
 
@@ -590,17 +601,21 @@ Rugby, Warwickshire,
 CV23 0BR  
 United Kingdom 
 
+### Reclames of klachten van klanten
+
+Indien uw verzoek of klacht niet naar tevredenheid is afgehandeld door custserv@gap.eu, dan kunt u het ODR platform van de Europese Unie http://ec.europa.eu/odr raadplegen om verdere stappen te ondernemen. 
+
 terug naar boven
 
 ## Datenschutzrichtlinie
 
-_Letzte Aktualisierung am 1. Juni 2015_
+_Letzte Aktualisierung 1/8/2016_
 
 ### Unsere Verpflichtung zum Datenschutz
 
 Gap Inc. und unsere verbundenen Unternehmen und Tochtergesellschaften in den USA und der Europäischen Union, einschließlich GPS (Great Britain) Limited, Gap Europe Limited, Gap (UK Holdings) Limited , Gap (France) SAS, Gap Stores (Ireland) Limited und Gap (Italy) SRL (gemeinsam bezeichnet als die "Gap Unternehmen") und unsere Marken, einschließlich Gap, Banana Republic und sonstige Gap Inc. Marken (gemeinsam bezeichnet als unsere "Marken") schätzen unsere Kunden und respektieren ihre Privatsphäre. Wir erfassen im Rahmen der vorliegenden Datenschutzerklärung Informationen über Sie in unseren Geschäften und über unsere Websites, um Ihr Einkaufserlebnis zu verbessern und um Sie über Produkte, Dienstleistungen, Wettbewerbe und Angebote zu informieren.
 
-Die unter dieser Richtlinie von den Gap Unternehmen erfassten personenbezogenen Informationen unterliegen den Bestimmungen des Data Protection Act 1998 (das "Datenschutzgesetz") und anderen geltenden Gesetzgebungen und Vorschriften. Für die Zwecke des Gesetzes sind die Datenverarbeiter im Vereinten Königreich GPS (Großbritannien) Limited und Gap Europe Limited t/a Gap und Banana Republic, beide jeweils in England und Wales registrierte Unternehmen (mit den Gesellschaftsnummern 2275771 und 6279672 und der Steuernummer GB 676091512) und mit eingetragenem Unternehmenssitz in Berkeley Square House, London W1J 6BS. Die Gap Unternehmen unterliegen den vom US-Handelsministerium in Zusammenarbeit mit der Europäischen Kommission ausgearbeiteten Safe Harbor-Richtlinien. Für ausführlichere Informationen besuchen Sie bitte <http://www.export.gov/safeharbor/>. 
+Die unter dieser Richtlinie von den Gap Unternehmen erfassten personenbezogenen Informationen unterliegen den Bestimmungen des Data Protection Act 1998 (das „Datenschutzgesetz“) und anderen geltenden Gesetzgebungen und Vorschriften. Für die Zwecke des Gesetzes sind die Datenverarbeiter im Vereinten Königreich GPS (Großbritannien) Limited und Gap Europe Limited t/a Gap und Banana Republic, beide jeweils in England und Wales registrierte Unternehmen (mit den Gesellschaftsnummern 2275771 und 6279672 und der Steuernummer GB 676091512) und mit eingetragenem Unternehmenssitz in TMF Corporate Services Limited, 6 St Andrew Street, London, EC4A 3AE. Die Gap Unternehmen unterliegen den vom US-Handelsministerium in Zusammenarbeit mit der Europäischen Kommission ausgearbeiteten Safe Harbor-Richtlinien. Für ausführlichere Informationen besuchen Sie bitte <http://www.export.gov/safeharbor/>.
 
 In dieser Richtlinie wird die Art der personenbezogenen Informationen beschrieben, die wir über Sie erfassen, warum wir diese Daten sammeln, wie wir sie einsetzen und wann wir sie an Dritte weiterleiten. In unserer Richtlinie wird auch beschrieben, inwiefern Sie die Art der Datenerhebung, die Verwendung und die Weitergabe Ihrer Informationen beeinflussen können. Sollten sich unsere Informationspraktiken ändern, aktualisieren wir unsere Richtlinie und veröffentlichen die neue Version auf unserer Website. Ob sich unsere Richtlinie verändert hat, erfahren Sie, indem Sie das Datum der letzten Aktualisierung prüfen, das zu Beginn dieser Richtlinie bekanntgegeben wird. Sie können unsere Website besuchen, ohne jedwede personenbezogenen Informationen angeben zu müssen. Wenn Sie sich jedoch entschließen, keine personenbezogenen Informationen an uns zu senden, kann dies unter Umständen zur Folge haben, dass Sie bestimmte von uns angebotene Services oder Funktionen nicht nutzen können. Bei Fragen zu unserer Datenschutzrichtlinie, setzen Sie sich bitte entsprechend den unter dem nachfolgenden Abschnitt "Wie nehme ich Kontakt mit Ihnen auf?" beschriebenen Kontaktmethoden mit uns in Verbindung.
 
@@ -620,12 +635,13 @@ In dieser Richtlinie wird die Art der personenbezogenen Informationen beschriebe
   * Wie sieht es mit Links zu fremden Websites aus?
   * Wie lange bewahren Sie meine Daten auf?
   * Wie nehme ich Kontakt mit Ihnen auf?
+  * Kundenbeschwerden 
 
 
 
 ### Welche Art von personenbezogenen Informationen erfassen die Gap Unternehmen?
 
-Wir erfassen personenbezogene Informationen über Sie, wie etwa Ihren Namen, E-Mail-Adresse, Anschrift, Telefonnummer oder Kreditkartennummer, wenn Sie eine unserer Websites oder eines unserer Geschäfte besuchen, online oder telefonisch eine Bestellung aufgeben, in einem Geschäft einen Artikel einkaufen oder umtauschen, online Ihre Informationen übermitteln, sich mit uns in Kontakt setzen oder an einem Wettbewerb, einer Promotion oder Umfrage teilnehmen. Wir speichern ggf. Informationen zu Ihren Produktvorlieben und den Einkäufen, die Sie online, telefonisch oder in unseren Geschäften getätigt haben. Wie nachfolgend beschrieben, können wir all diese personenbezogenen Informationen mit jenen personenbezogenen Informationen über Sie kombinieren, die wir von unseren verbundenen Marketingunternehmen, von unbeteiligten Dritten oder über unsere Marken beziehen.
+Wir erfassen personenbezogene Informationen über Sie, wie etwa Ihren Namen, E-Mail-Adresse, Anschrift, Telefonnummer oder Kreditkartennummer, und die Einzelheiten der Mutterschaft (soweit anwendbar), wenn Sie eine unserer Websites oder eines unserer Geschäfte besuchen, online oder telefonisch eine Bestellung aufgeben, in einem Geschäft einen Artikel einkaufen oder umtauschen, online Ihre Informationen übermitteln, sich mit uns in Kontakt setzen oder an einem Wettbewerb, einer Promotion oder Umfrage teilnehmen. Wir speichern ggf. Informationen zu Ihren Produktvorlieben und den Einkäufen, die Sie online, telefonisch oder in unseren Geschäften getätigt haben. Wie nachfolgend beschrieben, können wir all diese personenbezogenen Informationen mit jenen personenbezogenen Informationen über Sie kombinieren, die wir von unseren verbundenen Marketingunternehmen, von unbeteiligten Dritten oder über unsere Marken beziehen.
 
 Ihre personenbezogenen Informationen werden ggf. auf Servern in verschiedenen Ländern sowohl innerhalb als auch außerhalb des Europäischen Wirtschaftsraumes ("EWR") verarbeitet oder gespeichert. Dies hat zur Folge, dass Ihre personenbezogenen Informationen in andere Länder außerhalb des EWR, einschließlich den USA, übertragen werden können. Ihre personenbezogenen Informationen unterliegen ggf. den Gesetzen der Länder, in denen sie gespeichert oder genutzt werden, und diese Länder haben unter Umständen andere Datenschutzgesetze als Ihr Wohnsitzland. Indem Sie uns Ihre personenbezogenen Informationen bereitstellen, erklären Sie sich mit der Übertragung, Verarbeitung und Speicherung dieser Daten einverstanden. Die Gap Unternehmen unterliegen den vom US-Handelsministerium in Zusammenarbeit mit der Europäischen Kommission ausgearbeiteten Safe Harbor-Richtlinien. Für ausführlichere Informationen besuchen Sie bitte <http://www.export.gov/safeharbor/>. 
 
@@ -780,17 +796,21 @@ Großbritannien
 
 Wenn Sie keine Antwort erhalten oder Ihr Anliegen nicht zufriedenstellend bearbeitet wurde, wenden Sie sich bitte an das International Centre for Dispute Resolution, die internationale Abteilung der American Arbitration Association (ICDR/AAA) unter http://go.adr.org/safeharbor. ICDR/AAA wird als Bindeglied zu den Gap Unternehmen bei der Lösung Ihres Problems behilflich sein. 
 
+### Kundenbeschwerden 
+
+Sollte ihre Anfrage nicht zufriedenstellend durch custserv@gap.eucustserv@gap.com beantwortet worden sein, steht Ihnen die Europäische Plattform zur Online-Streitbeilegung unter: http://ec.europa.eu/odr als Mittel zur Verfügung, um die Angelegenheit weiterzuverfolgen. Während Sie auch das Recht haben The Retail Ombudsman, einen CTSI-zertifizierten Anbieter alternativer Streitbeilegung, unter www.theretailombudsman.org.uk zu kontaktieren, weisen wir daraufhin, dass die Gap Gesellschaften alternative Streitbeilegung durch das International Centre for Dispute Resolution, der internationalen Abteilung der American Arbitration Association (ICDR/AAA), unter: https://www.icdr.org durchführen.
+
 Zurück zum Seitenanfang
 
 ## Política de privacidad
 
-_Última Actualización: 1 de junio 2015_
+_Última Actualización: 1/08/2016_
 
 ### Nuestro compromiso con la privacidad
 
 En Gap Inc. y en nuestras filiales y subsidiarias de Estados Unidos y la Unión Europea, incluidas GPS (Gran Bretaña) Limited, Gap Europe Limited, Gap (UK Holdings) Limited, Gap (Francia) SAS, Gap Stores (Irlanda) Limited y Gap (Italy) SRL (en su conjunto, "Empresas Gap") y nuestras marcas, incluidas Gap, Banana Republic, y otras marcas de Gap Inc. (en su conjunto, nuestras "Marcas") valoramos a nuestros clientes y respetamos su privacidad. La información que recogemos de los clientes en nuestras tiendas y a través de nuestros sitios web en relación con esta política nos sirve para mejorar su experiencia de compra y la comunicación que podamos establecer con usted para informarle sobre productos, servicios, concursos y promociones.
 
-La información personal recogida por las Empresas Gap en relación con esta política está sujeta a las disposiciones establecidas en la ley británica de protección de datos de 1998 (la "Ley") y en cualquier otra regulación o normativa aplicable. A los efectos de la Ley, las entidades encargadas del tratamiento de datos en Reino Unido son GPS (Gran Bretaña) Limited y Gap Europe Limited con los nombres de Gap y Banana Republic, empresas registradas en Inglaterra y Gales (con los números de empresa 2275771 y 6279672, y número de IVA GB 676091512) y con domicilio social en Berkeley Square House, London W1J 6BS. Las Empresas Gap se acogen al Acuerdo de Puerto Seguro desarrollado por el Departamento de Comercio de EE. UU. en coordinación con la Comisión Europea. Para obtener más información, visite: <http://www.export.gov/safeharbor/>. 
+La información personal recogida por las Empresas Gap en relación con esta política está sujeta a las disposiciones establecidas en la ley británica de protección de datos de 1998 (la "Ley") y en cualquier otra regulación o normativa aplicable. A los efectos de la Ley, las entidades encargadas del tratamiento de datos en Reino Unido son GPS (Gran Bretaña) Limited y Gap Europe Limited con los nombres de Gap y Banana Republic, empresas registradas en Inglaterra y Gales (con los números de empresa 2275771 y 6279672, y número de IVA GB 676091512) y con domicilio social en TMF Corporate Services Limited, 6 St Andrew Street, London, EC4A 3AE. Las Empresas Gap se acogen al Acuerdo de Puerto Seguro desarrollado por el Departamento de Comercio de EE. UU. en coordinación con la Comisión Europea. Para obtener más información, visite: <http://www.export.gov/safeharbor/>. 
 
 En esta política se describe la información personal que recopilamos sobre nuestros clientes, los motivos de la recopilación, el modo en que la usamos y cuándo la compartimos con terceros. En ella también se describen las opciones de los clientes respecto al modo en que recopilamos, usamos y revelamos su información. Si se produce cualquier cambio en nuestras prácticas de información, publicaremos una política actualizada en nuestro sitio web. Para saber si la política ha cambiado, basta con comprobar la fecha de la última actualización que aparece en la parte superior de esta política. Puede navegar por nuestro sitio sin proporcionar ninguna información personal pero, si opta por esta posibilidad, puede ocurrir que no pueda usar ciertos servicios o funciones que ofrecemos. Ante cualquier duda sobre nuestra política de privacidad, póngase en contacto con nosotros según se describe en la sección titulada "¿Cómo me pongo en contacto con ustedes?" que encontrará más adelante.
 
@@ -810,12 +830,13 @@ En esta política se describe la información personal que recopilamos sobre nue
   * ¿Qué ocurre con los enlaces a otros sitios web?
   * ¿Durante cuánto tiempo conservan mi información?
   * ¿Cómo me pongo en contacto con ustedes?
+  * Reclamaciones de clientes
 
 
 
 ### ¿Qué tipo de información personal recopilan las empresas Gap?
 
-Podemos recopilar información personal sobre usted (nombre, dirección de correo electrónico, dirección postal, número de teléfono o número de tarjeta de crédito) cuando visita uno de nuestros sitios web o tiendas, cursa un pedido en línea o por teléfono, realiza una compra o devolución en la tienda, guarda su información con nosotros en línea, se pone en contacto con nosotros o participa en algún concurso, promoción o encuesta. Podemos mantener un registro de sus intereses sobre productos y de las compras que haya realizado en línea o por teléfono en nuestras tiendas. Tal y como se detalla más adelante, podemos combinar toda esta información personal con información personal sobre usted que consigamos de nuestros socios de marketing, de terceras partes no relacionadas y de nuestras otras Marcas.
+Podemos recopilar información personal sobre usted (nombre, dirección de correo electrónico, dirección postal, número de teléfono o número de tarjeta de crédito, y detalles acerca de sus hijos (de haberlos)) cuando visita uno de nuestros sitios web o tiendas, cursa un pedido en línea o por teléfono, realiza una compra o devolución en la tienda, guarda su información con nosotros en línea, se pone en contacto con nosotros o participa en algún concurso, promoción o encuesta. Podemos mantener un registro de sus intereses sobre productos y de las compras que haya realizado en línea o por teléfono en nuestras tiendas. Tal y como se detalla más adelante, podemos combinar toda esta información personal con información personal sobre usted que consigamos de nuestros socios de marketing, de terceras partes no relacionadas y de nuestras otras Marcas. 
 
 La información personal sobre usted puede procesarse o almacenarse en servidores que se encuentren en diversos países, tanto de dentro como de fuera del Espacio Económico Europeo ("EEE"). En consecuencia, es posible que su información personal pueda transferirse a diversos países de fuera del EEE, incluidos los Estados Unidos. Su información personal puede estar sometida a las leyes de los países en los que se almacene o utilice, y es posible que dichos países tengan un régimen de protección de datos distinto del país en el que usted reside. Al proporcionarnos cualquier información personal, da su consentimiento para que se produzca la transferencia, el procesamiento y el almacenamiento de su información personal. Las empresas Gap se acogen al Acuerdo de Puerto Seguro desarrollado por el Departamento de Comercio de EE. UU. en coordinación con la Comisión Europea. Para obtener más información, visite: <http://www.export.gov/safeharbor/>.
 
@@ -963,5 +984,9 @@ CV23 0BR
 Reino Unido 
 
 Si usted no recibe una respuesta o su consulta no es satisfactoriamente resuelta, puede entonces ponerse en contacto con la división internacional de la Asociación Americana de Arbitraje del Centro Internacional de Resolución de Conflictos (ICDR/AAA en sus siglas en inglés) en: http://go.adr.org/safeharbor. La ICDR/AAA servirá de enlace con las Empresas Gap para resolver sus preocupaciones.
+
+### Reclamaciones de clientes
+
+Si su consulta no es satisfactoriamente resuelta por custserv@gap.eu, tiene a su disposición la Plataforma Online de Resolución de Disputas en: http://ec.europa.eu/odr donde podrá ejercer las acciones pertinentes. 
 
 volver al principio
