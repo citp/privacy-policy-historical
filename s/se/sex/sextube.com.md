@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sextube.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604152401id_/http%3A//www.sextube.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sextube.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234048id_/http%3A//www.sextube.com/privacy) for the most accurate reproduction.*
 
 # SEXTUBE.COM - Privacy Policy - Home of real sex
 
