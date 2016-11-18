@@ -1,45 +1,17 @@
-> *The following text is extracted and transformed from the flixstra.com privacy policy that was archived on 2012-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120122095535id_/http%3A//www.flixstra.com/%3Fmain%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixstra.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118222544id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal
 
-We have created this Privacy Policy to demonstrate our firm commitment to your privacy and security.
+* * *
 
-**Privacy Statement for flixstra.com**
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Flixstra has created this privacy statement to describe our firm and honest commitment to your privacy. The following discloses our information gathering and dissemination practices for this website: "flixstra.com" . We seek to protect your private information so that you have a pleasurable and safe viewing experience on our Web site. We will not sell, rent, trade, or disclose your personally identifiable information to anyone or any 3rd party except as explained in this policy. Please return to this page from time to time, as we will be updating this statement as our services continue to grow. We welcome and encourage questions, comments, and suggestions. Please contact us at[ contact us](http://www.flixstra.com/?main=help&action=contact_us) page with any questions or concerns.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-**Personally Identifiable Information**
 
-What Personally Identifiable Information Is: 
 
-Personally identifiable information is your name, country and e-mail address. In order to protect our customers we collect the minimum information needed for customer tracking and nothing more.
-
-  
-**Where We Collect Personally Identifiable Information** flixstra.com collects personally identifiable information when you (1) subscribe to the flixstra.com website, (2) enter contests, (3) login to the website (walso monitor IP addresses to prevent abuse of our system and to detect any fraudulent activities)  (4) submit feedback, questions, or "contact us" messages (5) When downloading/streaming movies from flixstra.com members area (in order to track your membership plan depletion).
-
-**How We Use Personally Identifiable Information**
-
-flixstra.com
-
-uses your personally identifiable information to personalize your experience on our Web site, to deliver products and/or services ordered and/or purchased by you and to contact you.
-
-**Who We Disclose Personally Identifiable Information To**
-
-flixstra.com will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. You may opt-out of receiving email updates by sending an email with "remove" in the subject line to [contact us](http://www.flixstra.com/?main=help&action=contact_us). It may take up to 10 days to be removed from the list.
-
-flixstra.com
-
- may also disclose your personal information to law enforcement personnel, government officials, or others when we, in our sole discretion, believe that disclosure is necessary to prevent violations of the law, injury to person or property, or any harm to flixstra.com or other members of the website.
-
-**Security**
-
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Employees are notified in staff meetings of security policies and practices regularly. Access to data limited and employees obtain access to log files by a secured password. flixstra.com periodically reviews web security and ensures that all policies and practices are adhered to within the company.
-
-**Correct/Update or Cancel Information**
-
-Users can change their information with flixstra.com by editing their account details inside the members area.   
-**Contacting the Web Site**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact:
-
-[contact us](http://www.flixstra.com/?main=help&action=contact_us)
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
