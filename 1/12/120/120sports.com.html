@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the 120sports.com privacy policy that was archived on 2016-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160628213700id_/http%3A//www.120sports.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 120sports.com privacy policy that was archived on 2016-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161118232539id_/http%3A//www.120sports.com/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" class=" device-phone"><head>
+<!DOCTYPE html><html lang="en-US"><head>
 <title>120 Sports | About | 120Sports.com</title>
 <!-- Meta Info -->
 <meta name="description" content="120 Sports is a first-of-its-kind network partnership involving multiple leagues and media properties created for the digital generation and the devices it uses most.">
@@ -33,29 +33,20 @@
 <script type="text/javascript" src="http://ui.bamstatic.com/bridge/core/shims/ie8/es5shim.js"></script>
 <script type="text/javascript" src="http://ui.bamstatic.com/bridge/core/shims/ie8/html5shiv.js"></script>
 <![endif]-->
-<script async="" type="text/javascript" src="https://web.archive.org/web/20160403030547/http://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript">
+<script async="" type="text/javascript" src="https://web.archive.org/web/20160403030547/http://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">
+// version 2.5.0 of device.js
+!function(a,b){"function"!=typeof define||!define.amd||"undefined"!=typeof bam&&"function"==typeof bam.define?a.deviceBootstrap=b():define("../device",[],b)}(this,function(){function a(a,b){return a&&b?a[b]:a}function b(a){var b=a.split(w).slice(0,3);return a&&b.length<2&&b.push(0),b.join(".")}function c(a){return a=a||navigator.userAgent,D[a]?D[a]:this instanceof c?(D[a]=this,this.userAgent=a,this.is={},this.platform=this.getPlatform(),this.platformVersion=this.getPlatformVersion(),this.browser=this.getBrowser(),this.browserVersion=this.getBrowserVersion(),void(this.formFactor=this.getFormFactor())):new c(a)}var d="(",e=")",f="i",g="|",h="desktop",i="version",j="",k=function(a,b){return new RegExp(a,b||f)},l="iP(?:hone|ad|od)",m="(?:BlackBerry|BB10| RIM )",n="Android",o="Windows",p="WPDesktop",q=o+" Phone",r="Trident(?:.*?Touch(?:.*?Mobile))",s="Linux(?!.*Android)",t="Macintosh",u="CrOS",v=d+"?:"+[t,o,s,u].join(g)+e,w=/[\._]/,x={windowsphone:k(r+g+q+g+p),windows:k(o),ios:k(l),blackberry:k(m),android:k(n),linux:k(s),macintosh:k(t),chromebook:k(u)},y={desktop:/(?:Windows NT(?!.*WPDesktop)(?!.*Xbox))/i,tablet:k(d+["Tablet|iPad","\\sNT.*?"+r,n+"(?!.*Mobi)","silk",m+".*?Tablet","xbox"].join(g)+e),phone:k(d+["Mobi|Mobile","WPDesktop",l,r,m].join(g)+e)},z={tablet:k(d+["Tablet|iPad","\\sNT.*?"+r,n+"(?!.*Mobi)","silk",m+".*?Tablet"].join(g)+e),phone:k(d+["Mobi|Mobile",l,r,m].join(g)+e),desktop:k(v)},A={msie:/msie|iemobile|trident/i,edge:/edge/i,android:/android(?!.+(?:chrome|silk))/i,chrome:/chrome|crios/i,firefox:/firefox/i,opera:/opera(?!.*?mini)\//i,operamini:/opera mini/i,silk:/silk/i,safari:/safari/i},B={webkit:/AppleWebKit/i,gecko:/gecko\//i,trident:/trident/i,edge:/Edge/i},C={desktop:"desktop",other:h,phone:"phone",tablet:"tablet"},D={};return c.prototype={getPlatform:function(){return this.test(x)||h},getPlatformVersion:function(){return b(this.match(k("(?:"+(this.is.blackberry?i:this.platform)+"|"+q+"|OS)[^\\d]+([\\d\\.\\_]+)","ig"),1))},getBrowser:function(){return this.test(B),this.test(A)||h},getFormFactor:function(){var a="";return a=this.is.msie?y:z,C[this.test(a)]||C.other},getBrowserVersion:function(){var a=this.browser,c="[\\/\\s]";return this.is.chrome&&this.is.ios?a="crios":this.is.opera?a=i:this.is.msie&&(a=a+g+"IEMobile"+g+"rv",c="[\\/\\:\\s]"),b(this.match(k("(?:"+a+g+i+")"+c+"([\\d\\.]+)","i"),1))},match:function(b,c){return a(b.exec(this.userAgent),c)||j},test:function(a){var b,c,d,e=this.userAgent;for(b in a)c=a[b].test(e),this.is[b]=this.is[b]||c&&!d,c&&!d&&(d=b);return d}},c});
+//Device Detection
 (function(){
-var type = "";
 window.getStartupDeviceTypeString = function() {
-if (type) {
-return type;
-}
-var needToDivide = window.navigator.userAgent.match(/Android/) && !window.navigator.userAgent.match(/Chrome/);
-var largestScreenDimension = Math.max( screen.width, screen.height );
-if (needToDivide) {
-largestScreenDimension = largestScreenDimension / (window.devicePixelRatio || 1)
-}
-if (largestScreenDimension < 1024) {
-type = 'phone';
-} else if ("ontouchmove" in window) {
-type = 'tablet';
+var type = "";
+if (window.deviceBootstrap) {
+type = !type ? window.deviceBootstrap().formFactor : type;
 } else {
-type = 'desktop';
+console.error("Device Detection", "Module not loaded. Check /templates/meta.html. Pass ?device='[formFactor]' for testing");
 }
-document.getElementsByTagName('html')[0].className += ' device-'+type;
 return type;
-};
-window.getStartupDeviceTypeString();
+}
 })();
 // Avoid `console` errors in browsers that lack a console.
 (function() {
@@ -87,7 +78,7 @@ var sectionLess = {"desktop":"section-desktop","phone":"section-phone","tablet":
 var pageLess = {"desktop":"index-desktop","phone":"index-phone","tablet":"index-tablet"};
 var type = getStartupDeviceTypeString();
 if (siteLess[type]) {
-document.write('<link rel="stylesheet" type="text/css" href="http://ui.bamstatic.com/120sports/site-core/1.4.4/style/'+siteLess[type]+'.css" />');
+document.write('<link rel="stylesheet" type="text/css" href="http://ui.bamstatic.com/120sports/site-core/1.4.5/style/'+siteLess[type]+'.css" />');
 //document.write('<link rel="stylesheet" type="text/css" href="/builds-temp/site-core/0.0.1/styles/site-desktop.css" />');
 }
 if (sectionLess[type]) {
@@ -99,7 +90,7 @@ document.write('<link rel="stylesheet" type="text/css" href="http://ui.bamstatic
 //document.write('<link rel="stylesheet" type="text/css" href="/sections/example/builds-temp/1.0.0/styles/index.css" />');
 }
 })();
-</script><link rel="stylesheet" type="text/css" href="http://ui.bamstatic.com/120sports/site-core/1.4.4/style/site-phone.css"><link rel="stylesheet" type="text/css" href="http://ui.bamstatic.com/120sports/sections/about/1.4.3/style/section-phone.css"><link rel="stylesheet" type="text/css" href="http://ui.bamstatic.com/120sports/sections/about/1.4.3/style/index-phone.css">
+</script><link rel="stylesheet" type="text/css" href="http://ui.bamstatic.com/120sports/site-core/1.4.5/style/site-desktop.css"><link rel="stylesheet" type="text/css" href="http://ui.bamstatic.com/120sports/sections/about/1.4.3/style/section-desktop.css"><link rel="stylesheet" type="text/css" href="http://ui.bamstatic.com/120sports/sections/about/1.4.3/style/index-desktop.css">
 <script>
 var less = {
 env: "development",
@@ -109,6 +100,20 @@ dumpLineNumbers: "mediaQuery"
 <script src="/site-core/scripts/external/less.js"></script>
 </head>
 <body id="about_index" class="lang-en" data-ad-id="120sports/about">
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "6035728" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6035728&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
 <div class="app-web wrapper wrapper-web">
 <div id="top-ad" class="ad-responsive-slot">
 <div id="ad_container_320x50" class="ad-responsive-size" data-thresholds="[0,1]" data-sizes="[[320,50]]"></div>
@@ -135,7 +140,7 @@ dumpLineNumbers: "mediaQuery"
 </div>
 <script type="text/javascript">
 window.ots = window.ots || {};
-window.ots.dataProvider = {"section":"about","webView":"false","envID":"prodweb1","currentView":"privacy","cid":"","referrer":"http://www.msn.com/en-us/sports/nba/charles-barkley-claims-he-got-fat-after-rockets-gave-him-paycut/ar-AAhJkkh?li=BBnb7Kz"};
+window.ots.dataProvider = {"section":"about","webView":"false","envID":"prodweb1","currentView":"privacy","cid":"","referrer":"http://www.msn.com/en-us/sports/nfl/luke-kuechly%e2%80%99s-tears-a-heartbreaking-reminder-that-nfl-players-aren%e2%80%99t-larger-than-life-robots/ar-AAktb8o"};
 var s_account = 'mlb120sportscom';
 </script>
 <header class="head-mlb" id="site-header"></header>
@@ -155,19 +160,19 @@ aside
 <div class="primary-content">
 <h1>Privacy Policy</h1>
 <h3>PLEASE READ THIS PRIVACY POLICY (THIS "PRIVACY POLICY") CAREFULLY BEFORE USING OUR WEBSITE OR ANY OTHER 120 SPORTS LLC ("120 Sports") PRODUCT OR SERVICE.</h3>
-<p>120 Sports in association with MLB Advanced Media, L.P. produces and publishes <a href="http://www.120sports.com/" onclick="s_objectID=&quot;http://www.120sports.com/_1&quot;;return this.s_oc?this.s_oc(e):true">www.120Sports.com</a>, the Official Website of 120 Sports ( this or our "Website"). This Privacy Policy is applicable to this Website, which will be called the "Services" throughout this Privacy Policy, and describes what information we collect, how we may use that information and the choices we offer for you to manage the information we collect related to your use of our Services.</p>
+<p>120 Sports in association with MLB Advanced Media, L.P. produces and publishes www.120Sports.com, the Official Website of 120 Sports ( this or our "Website"). This Privacy Policy is applicable to this Website, which will be called the "Services" throughout this Privacy Policy, and describes what information we collect, how we may use that information and the choices we offer for you to manage the information we collect related to your use of our Services.</p>
 <ol class="toc">
-<li><a href="#1" onclick="s_objectID=&quot;https://web.archive.org/web/20160628213700id_/http%3A//www.120sports.com/about/privacy#1_1&quot;;return this.s_oc?this.s_oc(e):true">Personal Information Collected Via Our Services</a>
+<li><a href="#1" onclick="s_objectID=&quot;https://web.archive.org/web/20161118232539id_/http%3A//www.120sports.com/about/privacy#1_1&quot;;return this.s_oc?this.s_oc(e):true">Personal Information Collected Via Our Services</a>
 </li>
-<li><a href="#2" onclick="s_objectID=&quot;https://web.archive.org/web/20160628213700id_/http%3A//www.120sports.com/about/privacy#2_1&quot;;return this.s_oc?this.s_oc(e):true">How We Use and Share Your Personal Information</a>
+<li><a href="#2" onclick="s_objectID=&quot;https://web.archive.org/web/20161118232539id_/http%3A//www.120sports.com/about/privacy#2_1&quot;;return this.s_oc?this.s_oc(e):true">How We Use and Share Your Personal Information</a>
 </li>
-<li><a href="#3" onclick="s_objectID=&quot;https://web.archive.org/web/20160628213700id_/http%3A//www.120sports.com/about/privacy#3_1&quot;;return this.s_oc?this.s_oc(e):true">Other Information Collected And Shared Within Our Services</a>
+<li><a href="#3" onclick="s_objectID=&quot;https://web.archive.org/web/20161118232539id_/http%3A//www.120sports.com/about/privacy#3_1&quot;;return this.s_oc?this.s_oc(e):true">Other Information Collected And Shared Within Our Services</a>
 </li>
-<li><a href="#4" onclick="s_objectID=&quot;https://web.archive.org/web/20160628213700id_/http%3A//www.120sports.com/about/privacy#4_1&quot;;return this.s_oc?this.s_oc(e):true">Other Circumstances When Your Data May Be Shared</a>
+<li><a href="#4" onclick="s_objectID=&quot;https://web.archive.org/web/20161118232539id_/http%3A//www.120sports.com/about/privacy#4_1&quot;;return this.s_oc?this.s_oc(e):true">Other Circumstances When Your Data May Be Shared</a>
 </li>
-<li><a href="#5" onclick="s_objectID=&quot;https://web.archive.org/web/20160628213700id_/http%3A//www.120sports.com/about/privacy#5_1&quot;;return this.s_oc?this.s_oc(e):true">Managing Your Information</a>
+<li><a href="#5" onclick="s_objectID=&quot;https://web.archive.org/web/20161118232539id_/http%3A//www.120sports.com/about/privacy#5_1&quot;;return this.s_oc?this.s_oc(e):true">Managing Your Information</a>
 </li>
-<li><a href="#6" onclick="s_objectID=&quot;https://web.archive.org/web/20160628213700id_/http%3A//www.120sports.com/about/privacy#6_1&quot;;return this.s_oc?this.s_oc(e):true">Other Information</a>
+<li><a href="#6" onclick="s_objectID=&quot;https://web.archive.org/web/20161118232539id_/http%3A//www.120sports.com/about/privacy#6_1&quot;;return this.s_oc?this.s_oc(e):true">Other Information</a>
 </li>
 </ol>
 <hr>
@@ -302,7 +307,7 @@ c15:""
 <div class="footer-links">
 <div class="footer-app-badges mini-style">
 <div>
-<a class="ios-badge" href="https://itunes.apple.com/us/app/120-sports/id691285427?mt=8&amp;uo=4" target="itunes_store" style="margin:0; display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_appstore-lrg.svg) no-repeat;width:135px;height:40px;@media only screen{background-image:url(https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_appstore-lrg.svg);}" onclick="s_objectID=&quot;https://itunes.apple.com/us/app/120-sports/id691285427_mt=8&amp;uo=4_1&quot;;return this.s_oc?this.s_oc(e):true">
+<a class="ios-badge" href="https://itunes.apple.com/us/app/120-sports/id691285427?mt=8&amp;uo=4" target="itunes_store" style="margin:0; display:inline-block;overflow:hidden;background:url(/site-core/images/apple-appstore.svg) no-repeat;width:135px;height:40px;@media only screen{background-image:url(/site-core/images/apple-appstore.svg);}" onclick="s_objectID=&quot;https://itunes.apple.com/us/app/120-sports/id691285427_mt=8&amp;uo=4_1&quot;;return this.s_oc?this.s_oc(e):true">
 </a>
 </div>
 <div>
@@ -386,7 +391,7 @@ var pageJS = {"desktop":"index-desktop","phone":"index-phone","tablet":"index-ph
 var siteScripts = ['/site-core/bower_components/bam.requirejs.configs/config.js'];
 var scripts = [];
 if (siteJS[type]) {
-siteScripts.push('http://ui.bamstatic.com/120sports/site-core/1.4.4/scripts/'+siteJS[type]+'.js');
+siteScripts.push('http://ui.bamstatic.com/120sports/site-core/1.4.5/scripts/'+siteJS[type]+'.js');
 //scripts.push('/builds-temp/site-core/0.0.1/scripts/site-desktop.js');
 }
 if (sectionJS[type]) {
