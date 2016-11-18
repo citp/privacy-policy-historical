@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the al3abdakaa.com privacy policy that was archived on 2016-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160207034441id_/http%3A//www.al3abdakaa.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the al3abdakaa.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235050id_/http%3A//www.al3abdakaa.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for al3abdakaa.com
 
