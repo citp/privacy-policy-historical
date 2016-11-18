@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyink.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607055924id_/http%3A//comicskingdom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyink.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118224128id_/http%3A//comicskingdom.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Comics Kingdom
 
