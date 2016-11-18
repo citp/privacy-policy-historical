@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chainsawsuit.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618220538id_/http%3A//chainsawsuit.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chainsawsuit.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235637id_/http%3A//chainsawsuit.com/privacypolicy) for the most accurate reproduction.*
 
 # privacy policy – chainsawsuit – three panels daily
 
