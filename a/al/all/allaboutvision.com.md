@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the allaboutvision.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504051038id_/http%3A//www.allaboutvision.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutvision.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119005236id_/http%3A//www.allaboutvision.com/privacy.htm) for the most accurate reproduction.*
 
 # AllAboutVision.com Privacy Policy
 
-All About Vision's policy is to respect the privacy of visitors to our website. This policy describes how we gather information from our site's visitors and what we do with it.
+AllAboutVision.com's policy is to respect the privacy of visitors to our website. This policy describes how we gather information from our site's visitors and what we do with it.
 
 ## How We Collect Information
 
 Our web server, like all web servers, will automatically recognize each visitor's Internet address (or "IP address"). This does not provide us with personally identifiable information. Our server logs will record page views and the serving of images and other files, and can associate those actions with particular visitor sessions, but this information is not tied to any individual visitor's identity. We use Google Analytics for this same purpose.
 
-You can visit our website without revealing any information about yourself. Our site is not set up to track, collect or distribute personal information about you (such as name, address, e-mail address, telephone number and product preferences) unless you voluntarily provide this information, such as when you ask us to e-mail a friend or you provide this information when you fill out a "contact us" form.
+You can visit our website without revealing any information about yourself. Our site is not set up to track, collect or distribute personal information about you (such as name, address, e-mail address, or telephone number) unless you voluntarily provide this information, such as when you ask us to e-mail a friend or you provide this information when you fill out a "contact us" form.
 
 ## How We Use Information
 
@@ -35,16 +35,20 @@ Information submitted or provided to us by a website user or any person or entit
 
 
 
+## Google Analytics
+
+We have enabled Google Analytics Demographics and Interest Reporting. This allows us to see aggregated demographic information about our visitors, which we may report to customers and other interested parties. This does not provide information to us that can be associated with individuals. You have the opportunity to opt out of this reporting; please see [Google Analytics' currently available opt-outs.](https://tools.google.com/dlpage/gaoptout/)
+
 ## Third Party Advertising
 
 Some ads on our site are served by third-party advertising companies. These companies may use information about your visits to this and other websites in order to provide advertisements on other sites and other interactive media about goods and services that may be of interest to you. [This page](http://www.networkadvertising.org/choices/) has more information about that practice and your choices relative to targeted advertising, inlcuding your ability to opt out of online behavioral advertising.
 
 ## Other Websites
 
-You have the opportunity to access other sites from AllAboutVision.com, by clicking either on a site's link or on an advertisement. Please be aware that these sites are outside the control of Access Media Group LLC, and that their privacy policies are likely to differ from ours. We suggest contacting these sites for relevant information about their data collection. 
+You have the opportunity to access other sites from AllAboutVision.com, by clicking either on a site's link or on an advertisement. Please be aware that these sites are outside the control of AllAboutVision.com and that their privacy policies are likely to differ from ours. We suggest contacting these sites for relevant information about their data collection. 
 
 Back to top ⤴
 
 [Home](http://www.allaboutvision.com/) » AllAboutVision.com Privacy Information
 
-[Page updated February 2014]
+[Page updated June 2016]
