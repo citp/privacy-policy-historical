@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the leadquizzes.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423155033id_/https%3A//leadquizzes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadquizzes.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234624id_/http%3A//www.leadquizzes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – LeadQuizzes
-
-#### Version last revised on 08 december 2015
+# LeadQuizzes | Privacy Policy
 
 #### 1\. Scope of the Privacy Policy
 
-This Privacy Policy includes how Yazamo LLC (“Yazamo”), who created and operate [www.leadquizzes.com](http://www.leadquizzes.com/) (“Leadquizzes.com” or “the Site”), treats personal information or data that Yazamo gathers when you are on the Site and when you use the Site’s services (“the Services”).  
+This Privacy Policy includes how Yazamo LLC (“Yazamo”), who created and operate [www.leadquizzes.com](https://www.leadquizzes.com/) (“Leadquizzes.com” or “the Site”), treats personal information or data that Yazamo gathers when you are on the Site and when you use the Site’s services (“the Services”).  
 By using the Site and its Services, you agree to by bound by this Privacy Policy.  
 Yazamo takes your privacy seriously and have fundamental guidelines that will be followed at all time:
 
@@ -22,7 +20,13 @@ Yazamo takes your privacy seriously and have fundamental guidelines that will be
 #### 2\. Personal Information
 
 Our primary goal in collecting personal information is to provide you with a friendly, customized, and efficient experience. We only collect personal information that is relevant to the purpose of our website.  
-Yazamo may collect personally identifying information during the registration process, including name, email address, address, store preferences, billing information (see section on “Billing Information” below) etc.  
+Yazamo may collect personally identifying information during the registration process, including name, email address, phone number, address, store preferences, billing information (see section on “Billing Information” below) etc. We may use information collected for you in one or more of the following ways:
+
+  * To contact you via email, telephone, text or chat in a manner required by law
+  * To inform you about new products or promotional offers, or other opportunities which we feel will be of interest to you, and to provide advertisements to you through sites, email messages, text messages, applications, or other methods of communication
+
+
+
 Yazamo reserves the right to track IP addresses of its users.  
 You can object to our use of your personal information, however by doing so may prevent us from providing you with the Services.
 
