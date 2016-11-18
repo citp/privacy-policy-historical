@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggertone.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608223632id_/http%3A//tweakyourbiz.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggertone.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119002805id_/http%3A//tweakyourbiz.com/disclaimer) for the most accurate reproduction.*
 
 # Privacy Statement - Tweak Your Biz
 
@@ -107,7 +107,7 @@ If you have any questions about this Privacy Statement, please email us at [admi
 
 TweakYourBiz.com  
 ATTN: TweakYourBiz Privacy Statement  
-3593 Medina Rd. #160  
-Medina, OH 44256 
+15275 Collier Blvd #201-367  
+Naples, FL 34119
 
 Privacy Statement updated October 1st, 2013. 
