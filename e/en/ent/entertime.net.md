@@ -1,67 +1,17 @@
-> *The following text is extracted and transformed from the entertime.net privacy policy that was archived on 2002-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020212032605id_/http%3A//entertime.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertime.net privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118222544id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# EnterTime.Net Privacy
+# Legal
 
-**EnterTime.Net Privacy Policy**
+* * *
 
-Effective 9 September 2000
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-  * [Our Commitment To Privacy](https://web.archive.org/web/20020212032605id_/http%3A//entertime.net/%23Our_Commitment_To_Privacy:)
-  * [The Information We Collect](https://web.archive.org/web/20020212032605id_/http%3A//entertime.net/%23The_Information_We_Collect:)
-  * [How We Use Information](https://web.archive.org/web/20020212032605id_/http%3A//entertime.net/%23How_We_Use_the_Information:)
-  * [Our Commitment To Data Security](https://web.archive.org/web/20020212032605id_/http%3A//entertime.net/%23Our_Commitment_To_Data_Security:)
-  * [How To Access Or Correct Your Information](https://web.archive.org/web/20020212032605id_/http%3A//entertime.net/%23How_You_Can_Access_Or_Correct_Your_Information:)
-  * [How To Contact Us](https://web.archive.org/web/20020212032605id_/http%3A//entertime.net/%23How_To_Contact_Us:)
-
-
-
-**Our Commitment To Privacy:**
-
-Privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
-
-**The Information We Collect:**
-
-  * The types of information we collect are:
-  * Information that you give us to set up an account: 
-    * Name
-    * Email address
-    * User name Password 
-  * Additional information that you give us to become a customer: 
-
-    * Address
-    * Credit/Debit Card Information
-  * Information Collected Automatically: 
-
-    * The type of web browser you are using 
-    * The IP address assigned to the computer you are using
-    * Details of requests for pages from our web server
-    * Cookies we store on your computer 
-    * Cryptographic information required for secure communication
-  * Business transactions we have with customers: 
-
-    * Information that customers give us
-    * Transaction logs
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
 
-**How We Use the Information:  
-**   
-We never use the personally identifiable information that you provide to us online in ways that are unrelated to the primary purposes for which you provided that information.
-
-Your information will be kept strictly confidential.
-
-Account and billing information is used for communications that are part of the service, for administrative purposes, and for billing your credit card.
-
-We use non-identifying, aggregate information to better design our website and network infrastructure. Cookies may be used to facilitate your navigation of our site.
-
-**Our Commitment To Data Security:**
-
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
-
-**How You Can Access Or Correct Your Information:**
-
-You can access all your personally identifiable information that we collect and maintain online by logging in as Administrator. You can delete all your personally identifiable information that we maintain online by logging in as Administrator, selecting Close Account, and responding affirmatively to the email that will be sent to your Administrator's email address.
-
-**How To Contact Us:**
-
-Should you have other questions or concerns about these privacy policies, please use the [Feedback](https://web.archive.org/qwtnp/data/fdb$start.givefeedback) link provided throughout our site for the quickest response. If your questions or concerns are not urgent, you may send email to [info@EnterTime.Net](mailto:info@EnterTime.Net). You may call us at 972-783-8770 to leave voice mail, but our business model for providing this inexpensive, efficient service precludes relying on such high-cost, inefficient means of communication.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
