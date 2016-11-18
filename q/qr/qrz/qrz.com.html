@@ -1,17 +1,17 @@
-<!--The following is the downloaded HTML source of the qrz.com privacy policy that was archived on 2016-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160618003330id_/http%3A//www.qrz.com/page/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the qrz.com privacy policy that was archived on 2016-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161118234406id_/http%3A//www.qrz.com/page/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US"><head>
 <title>privacy by QRZ.COM</title>
 <meta name="google-site-verification" content="6TK-JKZlwymcjLHzH9sO1D6GJEHWMRRRI60FLPpREC4">
 <meta name="keywords" content="database, DX, ham radio, amateur radio, transmitters, test equipment, electronics, prototyping, scopes, meters, contesting, callsign, qrz, qth, qsl, cq, qrzcq, hamqth, logbook, LoTW, transmitters, antennas, forums">
 <meta name="description" content="World's leading amateur radio callsign database news, technical articles, QSL routes, online Logbook, discussion forums, practice licence exam tests, and technical data about ham radio.">
-<link rel="shortcut icon" href="https://s3.amazonaws.com/files.qrz.com/static/qrz/favicon.ico">
-<link href="/opensearch.xml" type="application/opensearchdescription+xml" rel="search" title="qrz.com">
+<meta name="viewport" content="">
+<link href="https://s3.amazonaws.com/files.qrz.com/static/qrz/favicon.ico" rel="shortcut icon">
+<link title="qrz.com" type="application/opensearchdescription+xml" href="/opensearch.xml" rel="search">
 <meta property="og:url" content="http://www.qrz.com/page">
 
 <link rel="stylesheet" type="text/css" href="https://s3.amazonaws.com/files.qrz.com/static/css/jquery-ui.min.css?v=0115">
-<link rel="stylesheet" type="text/css" href="https://s3.amazonaws.com/files.qrz.com/static/css/menu_red.css?v=0415.3">
 <style type="text/css">
 <!--/* <![CDATA[ */
 
@@ -85,7 +85,7 @@ img{border:none;}
 #qrzmain{padding:0px 8px;}
 #qrzleft{width:120px;}
 #qrzcenter{width:100%;padding-left:8px;padding-right:8px;}
-#qrzright{width:170px;padding-top:20px;text-align:right;}
+#qrzright{width:170px;padding-top:0px;text-align:left;}
 #qrzend{font-size:smaller;background-color:white;color:#900;}
 #qrzbad{margin-top:16px;text-align:center;clear:both;}
 #donate{margin-top:40px;background-color:#cfc;text-align:center;width:107px;border:solid 2px#090;cursor:pointer;white-space:nowrap;}
@@ -113,16 +113,657 @@ span.btn:hover{background-color:#000;}
 .hot:hover{background-color:#6ac;}
 .gbut:hover{background-color:#00dd00;}
 
+.qrztop-wrapper{ width:100%; min-height:96px; }
+.qrztop-wrapper #logo-container { display:inline-block;margin-top:.5em;margin-left: .5em; }
+.qrztop-wrapper #logo-container img { width: 347px; height: 90px }
+@media only screen and (max-width: 1200px) {
+	.qrztop-wrapper #logo-container img { width: 300px; height: auto; margin-top: .25em;}
+}
+.qrztop-wrapper .qrztop-banner { display:inline-block;float:right }
+
+.headline-list { 
+margin: 5px 30px 5px 5px;
+    display: inline-block;
+}
+.headline-list .headline-container {
+	background: #8cf;
+	display: inline-block;
+        box-shadow: 3px 3px 8px #666;
+	margin-bottom: 10px;
+	margin-top: 5px;
+	border-radius: 5px;
+	padding: 5px 10px 10px 10px;
+	box-shadow: 3px 3px 8px #666;
+	width: 100%;
+}
+.headline-list .headline-content {
+    border-radius: 0 0 5px 5px;
+    background: white;
+    margin: 0px -9px -9px -9px;
+    background: rgba(255,255,255,.8);
+    padding: 10px;
+    overflow: hidden;
+}
+
+.headline-list .headline-header {
+    margin-bottom: 5px;
+	overflow: hidden;
+}
+.headline-list .headline-header .headline-byline {
+	line-height: 1.2em;
+	font-size: 1em;
+}
+.headline-list .headline-header .headline-byline span{
+ 	padding-right: 20px;
+	display: inline-block;
+	font-size: 1em;
+}
+.headline-list .headline-header .headline-title {
+	font-size: 1.4em;
+	font-weight: bold;
+	line-height: 1.1em;
+ 	text-overflow: ellipsis;
+	overflow: hidden;
+}
+
+
+#news table {
+display: none;
+}
+
+.active-calls-list {
+	text-align: center;
+    max-height: 6.650em;
+    overflow: hidden;
+    font-size: 20px;
+	margin: 5px;
+}
+
+.active-calls-list .active-call {
+	padding: 5px;
+	margin: 5px;
+    background-color: #eeeeee;
+	border: 1px solid #cccccc;
+	display: inline-block;
+	text-align: center;
+}
+
+#swaptable {
+	display: none;
+}
+.swap-list-container {
+	display: hidden;
+	padding: 0px;
+	max-height: 560px;
+	overflow: hidden;
+}
+.swap-list {
+padding: 0px;
+margin:0px;
+}
+.swap-list .swap-list-item:before {
+    content: "";
+    width: 20px;
+    height: 20px;
+    background: red;
+    position: absolute;
+    top: 2px;
+    left: 66px;
+    border-radius: 13px;
+    box-shadow: 2px 2px 4px #666;
+    background: #ff3019;
+    background: -moz-radial-gradient(center, ellipse cover, #ff3019 0%, #cf0404 100%);
+    background: -webkit-radial-gradient(center, ellipse cover, #ff3019 0%,#cf0404 100%);
+    background: radial-gradient(ellipse at center, #ff3019 0%,#cf0404 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3019', endColorstr='#cf0404',GradientType=1 );
+
+}
+.swap-list .swap-list-item:hover {
+	        box-shadow: 4px 4px 10px #666;
+
+}
+.swap-list .swap-list-item {
+cursor: pointer;
+	border-radius: 2px;
+	width: 160px;
+	height: 160px;
+	background: #fcfcfc;
+        box-shadow: 3px 3px 8px #666;
+    display: inline-block;
+    overflow: hidden;
+	margin: 12px;
+	list-style: none;
+}
+
+.swap-list .swap-list-item-caption {
+	overflow: hidden;
+	text-align: center;
+}
+.swap-list .swap-list-item-img {
+    width: 120px;
+    height: 90px;
+margin: 20px;
+margin-bottom: 10px;
+}
+
+/* CSS Foo to help mobile users */
+@media screen and (max-device-width:480px) {
+#swaptable tbody tr td span {
+    font-size: 23px;
+    max-width: 120px;
+    overflow: hidden;
+    display: inline-block;
+}
+	.active-calls-list {
+		font-size: 23px;
+	}
+.headline-list {
+	    font-size: 23px;
+	}
+	.headline-list .headline-header .headline-title {
+	    max-width: 600px;
+	}
+	nav ul.tray {
+		Font-size: 23px;
+		border-bottom: 1px solid #b3b3b3 !important;
+    margin-bottom: 10px !important;
+	}
+	nav ul.primary-navigation {
+		font-size: 23px !important;
+font-family: "Arial Narrow";
+	}
+	#ghome {
+		margin-left: -135px;
+		max-width: 593px; 
+	}
+	nav > ul.primary-navigation > li.search {
+		padding-right: 3px !important;
+	}
+	nav > ul.primary-navigation > li {
+		padding-top: 2px !important;
+		padding-left: 2px !important;
+		padding-right: 3px !important;
+	}
+	.qrztop-wrapper #logo-container {
+		margin-bottom: 1.5em;
+	}
+	#qrzcenter .sectionhead {
+font-size: 28px;
+}
+#qrzfooter {
+    font-size: 23px;
+}
+.f6 {
+ font-size: 1.5em;
+}
+}
+
 /* end qrzweb_min.css */
+
+
+/* menu_red.css */
+nav {
+  clear: both;
+	box-shadow: 3px 3px 8px #666;
+}
+
+nav ul.tray {
+	border-top: 1px solid #b3b3b3;
+	background-color: #f3f3f3;
+	margin-top: 1px;
+	margin-bottom: 0px;
+	text-align: right;
+	margin-left: 0px;
+	padding-left: 0px;
+	padding-right: 16px;
+	padding-left: 16px;
+	line-height: 1.6em;
+min-height: 26px;
+}
+
+nav ul.tray .lgnGroup {
+	position: relative;
+	border-radius: 5px 5px 5px 5px;
+	border: 1px solid #b3b3b3;
+	background-color: white;
+	width: 240px;
+	height: 22px;
+  display: inline-block;
+  *display: inline;
+  zoom: 1;
+  margin-bottom: -7px;
+  margin-top: 0px;
+}
+
+nav ul.tray .lgnGroup .usernameWrapper {
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	left: 5px;
+	width: 90px;
+	border-right: 1px dotted #b3b3b3;
+		background-color: white;
+
+}
+
+nav ul.tray .lgnGroup input[type=submit] {
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	right: 0px;
+	width: 50px;
+	background: #ffffff;
+	border: none;
+	border-radius: 0 5px 5px 0;
+	border-left: 1px solid #b3b3b3;
+ /* Old browsers */
+	background: -moz-linear-gradient(top,  #ffffff 0%, #e5e5e5 100%);
+ /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#e5e5e5));
+ /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #ffffff 0%,#e5e5e5 100%);
+ /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #ffffff 0%,#e5e5e5 100%);
+ /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #ffffff 0%,#e5e5e5 100%);
+ /* IE10+ */
+	background: linear-gradient(to bottom,  #ffffff 0%,#e5e5e5 100%);
+ /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e5e5e5',GradientType=0 );
+ /* IE6-9 */
+}
+
+nav ul.tray .lgnGroup .passwordWrapper {
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	left: 100px;
+	width: 90px;
+		background-color: white;
+
+}
+
+
+
+nav ul.tray .usernameWrapper input[type=text], 		nav ul.tray .passwordWrapper input[type=password] {
+  background-color: transparent;
+width: 90%;
+  margin-top: 2px;
+  display: block;
+}
+
+nav ul.tray #username {
+	border: none;
+}
+
+nav ul.tray #password {
+	border: none;
+}
+
+nav ul.tray li {
+	display: inline-block;
+*display: inline;
+zoom: 1;
+	margin-left: 0px;
+	padding-left: 0px;
+}
+
+nav ul.tray li.pm a {
+	padding-left: 20px;
+	background: url(https://s3.amazonaws.com/files.qrz.com/static/images/statusicon/pm_old.png) left center no-repeat;
+}
+
+nav ul.tray li.pm {
+}
+
+nav ul.primary-navigation {
+	border-top: solid 1px #6699cc;
+	background-color: #99ccff;
+	margin-top: 0px;
+	margin-left: 0px;
+	padding-right: 16px;
+	padding-left: 16px;
+	font-size: 14px;
+	height: 2.5em;
+  min-width: 900px;
+}
+
+nav ul.primary-navigation li {
+	margin-left: 0px;
+	padding-left: 0px;
+}
+
+nav > ul.primary-navigation {
+	text-align: justify;
+	-ms-text-justify: distribute-all-lines;
+	text-justify: distribute-all-lines;
+}
+
+.stretch {
+	width: 100%;
+	display: inline-block;
+*display: inline;
+zoom: 1;	font-size: 0;
+	line-height: 0
+}
+
+nav > ul.primary-navigation > li.search {
+  z-index: 100;
+	width: auto;
+	float: left;
+	margin-left: -10px;
+	padding-left: 0px;
+}
+
+nav > ul.primary-navigation > li {
+	width: auto;
+	line-height: 2.5em;
+	color: black;
+	font-weight: bold;
+	font-family: Arial,Helvetica,sans-serif;
+	text-shadow: #ccf 1px 1px 1px;
+	position: relative;
+	display: inline-block;
+*display: inline;
+zoom: 1;
+	padding-left: 8px;
+	padding-right: 8px;
+	margin-right: 38px;
+	text-align: center;
+}
+
+nav > ul.primary-navigation ul.sub {
+	position: absolute;
+	display: none;
+	background-color: #99ccff;
+	box-shadow: 3px 3px 8px #666;
+	z-index: 10000;
+	padding-left: 0px;
+	list-style: none;
+	margin-left: 0px;
+	min-width: 220px;
+	max-width: 150%;
+	background-color: #f3f3f3;
+	left: 0px;
+	height: 0px;
+	transition: height .3s ease;
+}
+
+nav > ul.primary-navigation ul.sub li {
+	font-weight: normal;
+	color: #444;
+	text-shadow: none;
+	text-align: left;
+	line-height: 1.1em;
+  white-space: normal;
+}
+
+nav > ul.primary-navigation > li.leaf:hover {
+	background-color: #0099ff;
+}
+
+nav > ul.primary-navigation > li:hover > ul.sub {
+	display: block;
+	height: auto;
+}
+
+nav > ul.primary-navigation > li.last:hover > ul.sub, nav > ul.primary-navigation > li:nth-last-child(2):hover > ul.sub {
+	right: 0px;
+	left: auto;
+}
+
+nav > ul.primary-navigation > li:hover > ul.sub > li:not(.seperator):hover {
+	background-color: #e9e9e9;
+}
+nav > ul.primary-navigation a {
+  color: black;
+}
+nav > ul.primary-navigation li li > a {
+	display: block;
+	color: #111;
+  padding-left: 16px;
+  padding-right: 16px;
+	padding-top: .55em;
+	padding-bottom: .55em;
+}
+nav .search .history {
+  background-color: white;
+    width: 177px;
+    margin: .3em;
+    margin-left: 0px;
+    padding-top: 6px;
+    border: solid 1px #6699cc;
+    border-radius: 6px 6px 6px 6px;
+    top: 19px;
+    position: absolute;
+  display: none;
+    box-shadow: 3px 3px 8px #666;
+}
+
+nav .search .history .histTitle {
+    color: grey;
+    font-weight: normal;
+    text-shadow: none;
+    line-height: 22px;
+}
+nav .search .history .histItem {
+background-repeat: no-repeat;
+    background-position: 4px;
+    height: 32px;
+    border-top: 1px dotted grey;
+    text-align: left;
+    padding-left: 42px;
+    font-weight: normal;
+}
+nav .search .history .histItem:hover {
+background-color: #0099ff;
+cursor: pointer;
+}
+nav .search .magic {
+	background-color: white;
+	width: 234px;
+	margin: .3em;
+	margin-left: 0px;
+	height: 1.71em;
+	border: solid 1px #6699cc;
+	border-radius: 6px 6px 6px 6px;
+	position: relative;
+	font-family: Arial;
+	font-weight: normal;
+	text-align: left;
+	line-height: 1.8em;
+}
+
+nav .search .magic .tqueryWrapper {
+	top: 0px;
+	bottom: 2px;
+	left: 6px;
+	width: 84px;
+	position: absolute;
+}
+
+nav .search .magic .tqueryWrapper #tquery {
+	width: 100%;
+	height: 100%;
+	border: 0px;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	border-right: 1px dotted #6699cc;
+}
+
+nav .search .magic .modeWrapper {
+	top: 0px;
+	bottom: 0px;
+	left: 91px;
+	width: 90px;
+	position: absolute;
+	overflow: hidden;
+}
+
+nav .search .magic .modeWrapper .cover {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	right: 3px;
+	background-color: white;
+	padding-left: 5px;
+	border-right: 1px solid #6699cc;
+	font-size: 11px;
+}
+
+nav .search .magic .modeWrapper #mode {
+	width: 100%;
+	height: 100%;
+	border: 0px;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	bottom: 2px;
+	z-index: 1;
+  /* IE 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  /* IE 5-7 */
+	filter: alpha(opacity=0);
+  /* Netscape */
+	-moz-opacity: 0;
+  /* Safari 1.x */
+	-khtml-opacity: 0;
+  /* Good browsers */
+	opacity: 0;
+}
+
+nav .search .magic #tsubmit {
+	border: none;
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	right: 0px;
+	width: 56px;
+	border-radius: 0px 6px 6px 0px;
+	background: #ffffff;
+ /* Old browsers */
+	background: -moz-linear-gradient(top,  #ffffff 0%, #e5e5e5 100%);
+ /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#e5e5e5));
+ /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #ffffff 0%,#e5e5e5 100%);
+ /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #ffffff 0%,#e5e5e5 100%);
+ /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #ffffff 0%,#e5e5e5 100%);
+ /* IE10+ */
+	background: linear-gradient(to bottom,  #ffffff 0%,#e5e5e5 100%);
+ /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e5e5e5',GradientType=0 );
+ /* IE6-9 */
+}
+
+nav .search .magic #tsubmit:hover {
+	background: #e5e5e5;
+ /* Old browsers */
+	background: -moz-linear-gradient(top,  #e5e5e5 0%, #ffffff 100%);
+ /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e5e5e5), color-stop(100%,#ffffff));
+ /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #e5e5e5 0%,#ffffff 100%);
+ /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #e5e5e5 0%,#ffffff 100%);
+ /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #e5e5e5 0%,#ffffff 100%);
+ /* IE10+ */
+	background: linear-gradient(to bottom,  #e5e5e5 0%,#ffffff 100%);
+ /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e5e5e5', endColorstr='#ffffff',GradientType=0 );
+ /* IE6-9 */
+}
+
+nav .cover .carat {
+	width: 0;
+	height: 0;
+	border-left: 3px solid transparent;
+	border-right: 3px solid transparent;
+	border-top: 3px solid #000;
+	position: absolute;
+	top: 50%;
+	right: 4px;
+	margin-top: -2px;
+}
+
+nav hr {
+	margin: 0px;
+}
+
+@media(max-width: 1300px) {
+	nav > ul.primary-navigation > li {
+		width: auto;
+		color: black;
+		font-weight: bold;
+		font-family: Arial,Helvetica,sans-serif;
+		text-shadow: #fff 1px 1px 1px;
+		position: relative;
+		display: inline-block;
+*display: inline;
+zoom: 1;
+		padding-left: 8px;
+		padding-right: 8px;
+		margin-right: 4px;
+		text-align: center;
+	}
+}
+
+@media(max-width: 1100px) {
+.stretch {
+	width: auto;
+	display: none;
+	line-height: 0
+}
+
+	nav > ul.primary-navigation {
+		white-space: nowrap;
+	}
+
+	nav > ul.primary-navigation > li {
+		width: auto;
+		color: black;
+		font-weight: bold;
+		font-family: Arial,Helvetica,sans-serif;
+		text-shadow: none;
+		position: relative;
+		display: inline-block;
+*display: inline;
+zoom: 1;
+		padding-left: 4px;
+		padding-right: 4px;
+		margin-right: 4px;
+		font-weight: normal;
+		text-align: center;
+	}
+  nav > ul.primary-navigation > li.secondlast:hover > ul.sub, nav > ul.primary-navigation > li:nth-last-child(3):hover > ul.sub {
+	  right: 0px;
+	  left: auto;
+  }
+}
+
+#qrzdev {
+  overflow: scroll;
+}
+
+
+/* end menu_red.css */
 
 
 
 /* ]]> */-->
 </style>
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://s3.amazonaws.com/files.qrz.com/static/js/jquery-1.11.2.min.js" type="text/javascript"></script>
-<script src="https://s3.amazonaws.com/files.qrz.com/static/js/jquery-ui-1.11.2.min.js" type="text/javascript"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://s3.amazonaws.com/files.qrz.com/static/js/jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="https://s3.amazonaws.com/files.qrz.com/static/js/jquery-ui-1.11.2.min.js"></script>
 <script src="https://s3.amazonaws.com/files.qrz.com/static/js/jquery.hoverIntent.js?v=0115" type="text/javascript"></script>
-<script src="https://s3.amazonaws.com/files.qrz.com/static/js/jquery.metadata.js?v=0115" type="text/javascript"></script>
+<script type="text/javascript" src="https://s3.amazonaws.com/files.qrz.com/static/js/jquery.metadata.js?v=0115"></script>
 <script src="https://s3.amazonaws.com/files.qrz.com/static/js/advertisement.js" type="text/javascript"></script>
 <script type="text/javascript">//<![CDATA[
 // QRZstd.js
@@ -258,7 +899,7 @@ var is_dev="0";
 function cd(cs) {
     window.location = www_url + "/db/" + cs;
 }
-var bqn=9;
+var bqn=8;
 var bqu=0;
 
 //]]></script>
@@ -268,11 +909,13 @@ var bqu=0;
 
 
       <div id="qrztop"><!-- begin qrztop -->
-      <div style="width:100%;height:92px;">
-      <div style="display:inline-block;margin-top:1em;">
-      <a href="http://www.qrz.com/index.html"><img src="https://s3.amazonaws.com/files.qrz.com/static/qrz/qrzcom240.png" width="240" height="60" alt="QRZ.COM"></a></div>
-      <div style="display:inline-block;float:right"><div class="bq" id="d6946"><a href="http://www.dxengineering.com/redirect?banner=DXEB1602004" class="qadv" id="i6946" target="_blank"><img src="/ads/6946.jpg" height="90" width="728" alt="ad: dxeng"></a></div></div>
-</div>
+        <div class="qrztop-wrapper">
+          <div id="logo-container">
+            <a href="http://www.qrz.com/index.html"><img src="https://s3.amazonaws.com/files.qrz.com/static/qrz/qrzcom347.png" width="347" height="90" alt="QRZ.COM"></a>
+          </div>
+          <div class="qrztop-banner"><div class="bq" id="d7129"><a href="http://homesbyjoe.kw.com" class="qadv" id="i7129" target="_blank"><img src="/ads/7129.gif" height="90" width="728" alt="ad: JoeVega-1"></a></div></div>
+
+        </div>
 
     
 <!-- qrzmenu6 -->
@@ -489,7 +1132,7 @@ jQuery(document).ready( function() {
     		
     <li></li>
     <li></li>
-    <li>&nbsp;00:33:30 UTC 18 Jun 2016&nbsp;</li>
+    <li>&nbsp;23:44:06 UTC 18 Nov 2016&nbsp;</li>
   </ul>
   <ul class="primary-navigation">
     <li class="search">
@@ -536,7 +1179,7 @@ jQuery(document).ready( function() {
 				<li class="leaf"><a href="http://www.qrz.com/page/expired.html?">Expired Callsigns</a></li>
 				<li class="leaf"><a href="https://forums.qrz.com/index.php#qrz-report-data.86">Daily Update Reports</a></li>
 				<li class="leaf"><a href="http://www.qrz.com/newcalls">Just Added Callsigns</a></li>
-        <li class="leaf"><a href="//www.qrz.com/db/AA5HV">Random Callsign</a></li>
+        <li class="leaf"><a href="//www.qrz.com/db/WD8NSQ">Random Callsign</a></li>
       </ul>
     </li>
     <li class="leaf" onclick="return true">News
@@ -551,7 +1194,7 @@ jQuery(document).ready( function() {
     <li class="leaf" onclick="return true">Forums
 			<ul class="sub">
 		    <li class="leaf"><a href="https://forums.qrz.com">Forums Home</a></li>
-   			<li class="leaf"><a href="https://forums.qrz.com/index.php?forums/discussions-opinions-editorials.13/">Discussions, Editorials, Talk</a></li>
+   			<li class="leaf"><a href="https://forums.qrz.com/index.php?forums/ham-radio-discussions.13/">Ham Radio Discussions</a></li>
     		<li class="leaf"><a href="https://forums.qrz.com/index.php#technical-forums.41">Technical Forums</a></li>
     		<li class="leaf"><a href="https://forums.qrz.com/index.php#logging-and-contesting.71">Logging and Contesting</a></li>
 				<li class="leaf"><a href="https://forums.qrz.com/index.php?forums/on-the-road.97/">RV and Mobile</a></li>
@@ -619,7 +1262,7 @@ jQuery(document).ready( function() {
   <table width="100%" cellpadding="0" cellspacing="0"><tbody><tr>
 
 <td id="qrzleft" valign="top"><div><!-- begin left ads -->
-<div class="lads"><div class="bq" id="d7033"><!-- Google Code for QRZ.com Remarketing List -->
+<div class="lads"><div class="bq" id="d7126"><!-- Google Code for QRZ.com Remarketing List -->
 <script type="text/javascript">
 /* <![CDATA[ */
 var google_conversion_id = 1072286609;
@@ -637,14 +1280,13 @@ var google_conversion_value = 0;
 <img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1072286609/?label=1hLQCJrVkgIQkZen_wM&guid=ON&script=0"/>
 </div>
 </noscript>
-<a href="http://www.gigaparts.com/SearchResults.html?search=field%20day%202016&amp;utm_source=QRZ&amp;utm_medium=banner&amp;utm_content=MFJ&amp;utm_campaign=FieldDay2016" class="qadv" id="ad7033"><img src="/ads/7033.gif"></a></div></div>
-<div class="lads"><div class="bq" id="d4919"><a href="http://www.hamradio.com" class="qadv" id="i4919" target="_blank"><img src="/ads/4919.jpg" height="125" width="125" alt="ad: L-HROutlet"></a></div></div>
+<a href="https://www.gigaparts.com/thanksgiving-2016-savings.html?cat=663&amp;product_list_limit=36&amp;utm_source=QRZ&amp;utm_medium=banner&amp;utm_content=MFJ&amp;utm_campaign=thanksgiving2016" class="qadv" id="ad7126"><img src="/ads/7126.gif"></a></div></div>
+<div class="lads"><div class="bq" id="d7116"><a href="https://www.hamradio.com/gift_certificate.cfm" class="qadv" id="i7116" target="_blank"><img src="/ads/7116.jpg" height="125" width="125" alt="ad: L-HROutlet"></a></div></div>
 <div class="lads"><div class="bq" id="d6968"><a href="http://www.associatedradio.com" class="qadv" id="i6968" target="_blank"><img src="/ads/6968.gif" height="125" width="125" alt="ad: l-assoc"></a></div></div>
-<div class="lads"><div class="bq" id="d6852"><a href="http://www.force12inc.com/products/gps-locked-precision-frequency-reference-low-jitter-gps-clock-450-hz-to-800-mhz-output.html" class="qadv" id="i6852" target="_blank"><img src="/ads/6852.gif" height="125" width="125" alt="ad: l-innov"></a></div></div>
-<div class="lads"><div class="bq" id="d6989"><a href="http://www.randl.com/shop/catalog/product_info.php?products_id=69422" class="qadv" id="i6989" target="_blank"><img src="/ads/6989.gif" height="125" width="125" alt="ad: l-rl"></a></div></div>
-<div class="lads"><div class="bq" id="d6688"><a href="http://www.rfparts.com" class="qadv" id="i6688" target="_blank"><img src="/ads/6688.gif" height="125" width="125" alt="ad: L-rfparts"></a></div></div>
-<div class="lads"><div class="bq" id="d4883"><a href="http://www.gacopper.com" class="qadv" id="i4883" target="_blank"><img src="/ads/4883.gif" height="125" width="125" alt="ad: l-gcopper"></a></div></div>
 <div class="lads"><div class="bq" id="d6929"><a href="https://ssl.qrz.com/subscribe" class="qadv" id="i6929" target="_blank"><img src="/ads/6929.gif" height="125" width="125" alt="ad: Subscribe"></a></div></div>
+<div class="lads"><div class="bq" id="d4883"><a href="http://www.gacopper.com" class="qadv" id="i4883" target="_blank"><img src="/ads/4883.gif" height="125" width="125" alt="ad: l-gcopper"></a></div></div>
+<div class="lads"><div class="bq" id="d7079"><a href="http://www.randl.com/shop/catalog/product_info.php?products_id=71993" class="qadv" id="i7079" target="_blank"><img src="/ads/7079.gif" height="125" width="125" alt="ad: l-rl"></a></div></div>
+<div class="lads"><div class="bq" id="d6670"><a href="http://www.rfparts.com" class="qadv" id="i6670" target="_blank"><img src="/ads/6670.gif" height="125" width="125" alt="ad: L-rfparts"></a></div></div>
 
 <div style="background-color:#ccccff;border:solid 1px #aaf;margin-top:20px;">
 
@@ -790,7 +1432,7 @@ consumer privacy, please contact us at <a href="https://forums.qrz.com/support">
 
 </div>
 
-<div id="qrzfooter">Copyright © 2016 by QRZ.COM<br>Sat Jun 18 00:33:30 2016 UTC</div>
+<div id="qrzfooter">Copyright © 2016 by QRZ.COM<br>Fri Nov 18 23:44:06 2016 UTC</div>
 
 <!-- from QRZweb.pm -->
 <script>
@@ -806,22 +1448,22 @@ consumer privacy, please contact us at <a href="https://forums.qrz.com/support">
   ga('send', 'pageview');
 </script>
 
-<span class="ml2 f6">CPU: 0.025 sec 34101 bytes mp</span>
+<span class="ml2 f6">CPU: 0.029 sec 47277 bytes mp</span>
 <!-- PROFILE
 web_001	0.000
 web_002	0.002
 web_003	0.003
-web_003a	0.005
-web_003f	0.005
+web_003a	0.006
+web_003f	0.006
 web_005	0.006
-web_006	0.018
-web_007	0.019
-po_01	0.023
-po_02	0.024
-po_03	0.025
-po_04	0.025
-pm_pg1	0.025
-pm_pg2	0.025
+web_006	0.021
+web_007	0.022
+po_01	0.026
+po_02	0.027
+po_03	0.029
+po_04	0.029
+pm_pg1	0.029
+pm_pg2	0.029
 
 -->
 
