@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storeboard.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623022317id_/http%3A//www.storeboard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storeboard.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119002917id_/http%3A//www.storeboard.com/privacy) for the most accurate reproduction.*
 
 # Storeboard Privacy Policy
 
