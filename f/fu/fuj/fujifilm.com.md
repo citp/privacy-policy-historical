@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fujifilm.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607034508id_/http%3A//www.fujifilm.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fujifilm.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231755id_/http%3A//www.fujifilm.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fujifilm Global
 
@@ -59,10 +59,18 @@ Regarding personal information of customers who are under the age of 16, informa
 
 ## 5\. Use of Cookies
 
-  1. 1. Cookies refer to a technology to store information such as use history on the customer's computer in order to facilitate more convenient use of websites. The Website (s) may use cookies for the following purpose in a way that does not identify the customer. 
+  1. 1. Cookies are a mechanism to store information, including the recording of a user’s browsing activities, in order to facilitate more convenient use of websites. The Website(s) being browsed send users ‘send-only’ cookies for privacy protection purposes. The Website(s) may use cookies for the following purposes while ensuring that the identity of the user is not disclosed. 
     1. 1. To provide the “Save Password” function for members-only sites where customers input their ID and password to view content.
-    2. 2. To analyze customer access to The Website (s) in order to improve the operability of The Website (s) or to identify the cause of problems on The Website (s).
-  2. 2. By changing the settings on the Internet browser, customers may disable their cookies or set it so that a warning appears on the computer screen before cookies are issued. However, please note that some services provided through The Website (s) may not be used if the use of cookies is disabled.
+    2. 2. To analyze customer access to The Website(s) in order to improve operability or to identify the cause of problems on The Website(s).
+    3. 3. To display the most appropriate advertisements on third party sites based on customer interests or previous usage of The Website(s).
+    4. 4. To enhance services.
+    5. 5. To prompt customers to re-enter their password for security purposes after a certain period of time has elapsed.
+
+
+
+The Company may save and refer to cookies via a third party being outsourced by the Company for the delivery of advertisements.
+
+  1. 2. By changing the settings on the Internet browser, customers may disable their cookies or set it so that a warning appears on the computer screen before cookies are issued. However, please note that some services provided through The Website(s) may not be used if the use of cookies is disabled.
 
 
 
