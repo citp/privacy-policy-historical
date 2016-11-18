@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tmn.today privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522165718id_/http%3A//www.tmn.today/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmn.today privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000331id_/http%3A//www.tmn.today/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TellMeNow | News, Politics, Entertainment, Life, Inspire, Viral and Videos
+
+Revised: June 14, 2016
 
 Intermarkets, Inc. is an online advertising management services firm that offers advertisers opportunities to display their interactive ads on websites that are included within the Intermarkets Portfolio. Our services streamline the selection and delivery of interactive ads for advertisers and website publishers. We also provide targeted advertising services using non-personal information that is gathered across multiple, unaffiliated websites.
 
@@ -8,7 +10,7 @@ Your privacy is important to us, and we are committed to protecting the personal
 
 By using the Site, you consent to this Privacy Policy. This Privacy Policy does not apply to the practices of third parties that Intermarkets does not own, control, manage, or employ.
 
-Intermarkets uses ADTECH as its ad server. ADTECH’s privacy policy can be found [here](http://www.adtechus.com/privacy/).
+Intermarkets uses OpenX as its ad server. OpenX’s privacy policy can be found [here](http://openx.com/legal/privacypolicy/).
 
 We are committed to following the National Advertising Initiative’s (NAI) [privacy principles](http://www.networkadvertising.org/managing/principles.asp).
 
