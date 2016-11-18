@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charismamag.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624051957id_/http%3A//www.charismamag.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charismamag.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119005101id_/http%3A//www.charismamag.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Charisma Magazine
 
@@ -71,39 +71,154 @@ By using our website, you consent to the collection and use of this information.
 
 _Draw closer to God. Experience the presence of the Holy Spirit every month as you read Charisma magazine. Sign up now to get Charisma for as low as[$1 per issue.](https://secure.strangmagazines.com/~strangma/charisma/2015/40years/?utm_source=charismamag.com&utm_medium=article%20end%20text&utm_campaign=40th%20Anniversary)_
 
-_Dare to go deeper in your faith. Our "Life in the Spirit" devotional takes you on a journey to explore who the Holy Spirit is, how to interact with Him, and how He works in your life.[Are you ready to go deeper?](https://secure.strangmagazines.com/~strangma/LITS/devotional/?utm_source=charismamag.com&utm_medium=article%20end%20text&utm_campaign=LITS)_
+_Get to know the Holy Spirit and how to interact with Him on a daily basis. Learn to enter God's presence and hear His voice clearly for yourself! Go deeper in your faith with **Life in the Spirit** and change your life and destiny. [Are you ready to start your journey?](http://lifeinthespiritbooks.com/?utm_source=charismamag.com&utm_medium=article%20end%20text&utm_campaign=LITS)_
 
   * [
 
-#### 5 Toxic Attitudes You Must Allow God to Change
+#### Trump's Prophesied Victory Nothing Short of a Modern-Day Miracle for the Nation
 
-](http://www.charismamag.com/blogs/fire-in-my-bones/26702-5-toxic-attitudes-you-must-allow-god-to-change "Allow the Holy Spirit to eradicate these bad attitudes from your person.")
+](http://www.charismamag.com/blogs/the-strang-report/28065-trump-s-prophesied-victory-nothing-short-of-a-modern-day-miracle-for-the-nation "More than ever, Donald Trump now needs our support and prayers.")
 
-If you have not yielded these to Him, let the Holy Spirit move in and begin the process of ...
-
-  * [
-
-#### Get 2 Free Joyce Meyer Audio Teachings
-
-](http://www.charismamag.com/giveaways/26495-get-2-free-joyce-meyer-audio-teachings "Get 2 Free Joyce Meyer Audio Teachings")
-
-Discover how you can experience the unshakable confidence that comes with the completeness of Christ.
+Now that he has been elected, we must get behind him with our prayers and support.
 
   * [
 
-#### What Wicked Spirits Are Behind the Orlando Tragedies?
+#### Prophecy: After Wicked Kingdom Toppled—Jezebel Curse Broken Off America
 
-](http://www.charismamag.com/blogs/prophetic-insight/26689-what-wicked-spirits-are-behind-the-orlando-tragedies "A man cries while his friends comfort him as they take part in a vigil for the Pulse nightclub victims following last week's shooting in Orlando.")
+](http://www.charismamag.com/blogs/prophetic-insight/28075-prophecy-after-wicked-kingdom-toppled-jezebel-curse-broken-off-america "Donald Trump holds his hands out in prayer as people at a phone bank pray for him before a campaign rally.")
 
-It doesn't take a prophet to see the princes over Orlando. But that alone is not going to stop ...
+On Nov. 8, the church rose up with the fervor of Jehu and threw Jezebel down.
 
   * [
 
-#### Paul's Secret Spiritual Warfare Weapon Against Principalities and Powers
+#### How God Used Jews for Jesus to Bring a Jewish Young Man to Faith
 
-](http://www.charismamag.com/blogs/the-plumb-line/26659-paul-s-secret-spiritual-warfare-weapon-against-his-principalities-and-powers "Spiritual warfare strategy")
+](http://www.charismamag.com/sponsored-content/28052-how-god-used-jews-for-jesus-to-bring-a-jewish-young-man-to-faith "How God Used Jews for Jesus to Bring a Jewish Young Man to Faith")
 
-Many spiritual warriors stop short of the spiritual warfare strategy in Ephesians 6.
+Chicago branch leader Jeremiah Zaretsky's willingness to follow God's direction impacted one young Jew's life forever.
+
+  * [
+
+#### Building and Repairing Bridges in a Divisive Season
+
+](http://www.charismamag.com/blogs/fire-in-my-bones/28086-building-and-repairing-bridges-in-a-divisive-season "Here are some steps you can take to become a peacemaker in these divisive times.")
+
+If you cut people out of your life because of how they voted, you are dismembering the body of ...
+
+  *   *   * [
+
+#### Intercede for President-Elect Trump With These Biblical Prayer Points
+
+](http://www.charismamag.com/life/women/28064-intercede-for-president-elect-trump-with-these-biblical-prayer-points "Now that God has heard our prayers for change, we need to do this.")
+
+Billy Graham's daughter has some insight from Scripture as to how you can pray for ...
+
+  * [
+
+#### 7 Biblical Tones "Coded" for Spiritual Healing
+
+](http://www.charismamag.com/sponsored-content/28007-7-biblical-tones-coded-for-spiritual-healing "7 Biblical Tones &#34;Coded&#34; for Spiritual Healing")
+
+These seven pieces of beautiful music written from ancient biblical manuscripts are encoded with healing frequencies. Reports have shown miraculous results after only a few minutes of listening.
+
+  * [
+
+#### Trump's Win an Answer to Prayer—Now the Work Begins
+
+](http://www.charismamag.com/blogs/the-strang-report/28028-god-answered-our-prayers-now-the-work-begins "The Donald Trump "victory party" was lively Tuesday night as I celebrated with Pastor Robert Jeffress and his wife, xxxxx.")
+
+With Donald Trump's election as president, maybe now we can begin to understand how to hear ...
+
+  * [
+
+#### Are You Blocking the Flow of the Holy Spirit?
+
+](http://www.charismamag.com/blogs/fire-in-my-bones/28022-are-you-blocking-the-flow-of-the-holy-spirit "Are you quenching the flow of the Holy Spirit in your life?")
+
+If God's power isn't flowing like a river in your life, you may need a new level of ...
+
+  *   *   * [
+
+#### Prophecy: On Election Day, a Kingdom Will Be Toppled
+
+](http://www.charismamag.com/blogs/prophetic-insight/28008-prophecy-on-election-day-a-kingdom-will-be-toppled "Like Gideon's army, we must not fear even if the outcome is not what we hoped.")
+
+A telling dream on Election Eve and six words from the Holy Spirit this morning have encouraged my ...
+
+  * [
+
+#### Lance Wallnau Sees a Spiritual Dimension to This Election and Believes Trump's Breakout is Nothing Short of Miraculous
+
+](http://www.charismamag.com/blogs/the-strang-report/27989-lance-wallnau-sees-a-spiritual-dimension-to-this-election-and-believes-trump-s-breakout-is-nothing-short-of-miraculous "Hillary Clinton and Donald Trump")
+
+Lance believes there is witchcraft involved, along with a "spirit of Jezebel," and that God ...
+
+  * [
+
+#### Continue Your Journey with the Holy Spirit
+
+](https://lifeinthespiritbooks.com/?utm_source=charismamag.com&utm_medium=native%20ad "Continue Your Journey with the Holy Spirit")
+
+Follow God on the most fulfilling journey of your life with Encounter the Holy Spirit! Break away from past hurts and press into the One who wants a personal encounter with you.
+
+  * [
+
+#### Dream the Unimaginable In His Presence
+
+](https://lifeinthespiritbooks.com/?utm_source=charismamag.com&utm_medium=native%20ad "Dream the Unimaginable In His Presence")
+
+Reach your full potential and be led by His Spirit. In His Presence takes you to a deeper understanding of who God is and how he communicates with us.
+
+  * [
+
+#### Set Your Spirit on Fire 
+
+](https://lifeinthespiritbooks.com/?utm_source=charismamag.com&utm_medium=native%20ad "Set Your Spirit on Fire ")
+
+Receive the power and gifts that come through the Holy Spirit Baptism. Don’t go empty-handed; accept all that He has for you! His power is available to those who ask.
+
+  * [
+
+#### Put on the Full Armor of God
+
+](https://lifeinthespiritbooks.com/?utm_source=charismamag.com&utm_medium=native%20ad "Put on the Full Armor of God")
+
+Break every stronghold with the power of the Holy Spirit. Use the power of your tongue to declare and decree the Word of God. Witness heaven move on your behalf.
+
+
+
+
+  * [
+
+#### Confronting the Sins in Your Family Line
+
+](http://www.charismamag.com/spirit/spiritual-warfare/28094-confronting-the-sins-in-your-family-line-dejesus "You can inherit many of your sin struggles from your family.")
+
+Many of our deepest battles are inherited ones.
+
+  * [
+
+#### Avoiding Jezebel's Passive-Aggressive Codependency Trap
+
+](http://www.charismamag.com/blogs/the-plumb-line/28098-avoiding-jezebel-s-passive-aggressive-codependency-trap "Symptoms of a passive-aggressive disorder include contradictory behavior.")
+
+Ahab is passive. Jezebel is aggressive. Together, they create a deadly, codependent power couple ...
+
+  * [
+
+#### How God Used Jews for Jesus to Bring a Jewish Young Man to Faith
+
+](http://www.charismamag.com/sponsored-content/28052-how-god-used-jews-for-jesus-to-bring-a-jewish-young-man-to-faith "How God Used Jews for Jesus to Bring a Jewish Young Man to Faith")
+
+Chicago branch leader Jeremiah Zaretsky's willingness to follow God's direction impacted one young Jew's life forever.
+
+  * [
+
+#### How God Healed Me From Acid Reflux and Stomach Pain
+
+](http://www.charismamag.com/life/health/28082-how-god-healed-me-from-acid-reflux-and-stomach-pain "Healing stomach pain")
+
+As soon as God addressed these emotional issues with him, author and teacher Mark DeJesus found ...
 
   *   *   * [
 
@@ -115,174 +230,115 @@ If you are in leadership for any length of time, there will probably come a time
 
   * [
 
-#### 7 Reasons Your Organization Suffers from Marketing Malpractice
+#### 7 Biblical Tones "Coded" for Spiritual Healing
 
-](https://onplatformseminar.com/marketing_malpractice/?utm_source=charismamag.com&utm_medium=Native%20Ad&utm_campaign=Marketing%20Malpractice "7 Reasons Your Organization Suffers from Marketing Malpractice")
+](http://www.charismamag.com/sponsored-content/28007-7-biblical-tones-coded-for-spiritual-healing "7 Biblical Tones &#34;Coded&#34; for Spiritual Healing")
 
-Receive Dr. Steve Greene's 7 Reasons Your Organization Suffers from Marketing Malpractice, plus 3 Things to Do Now to Prevent Further Damage as your FREE download.
-
-  * [
-
-#### How Christians Open the Door to Disease
-
-](http://www.charismamag.com/life/women/9678-how-christians-open-the-door-to-disease "This woman almost died until the Holy Spirit revealed to her how she unknowingly opened the way for disease to afflict her body.")
-
-This woman almost died until the Holy Spirit revealed to her how she unknowingly opened the way for ...
+These seven pieces of beautiful music written from ancient biblical manuscripts are encoded with healing frequencies. Reports have shown miraculous results after only a few minutes of listening.
 
   * [
 
-#### Prophetic Insight into Orlando Shooting: Florida's Ziklag Moment
+#### This Is Crucial to Embracing the Flow of Anointing Through Your Life
 
-](http://www.charismamag.com/blogs/prophetic-insight/26660-prophetic-insight-into-orlando-shooting-florida-s-ziklag-moment "Orlando shooting mourners")
+](http://www.charismamag.com/spirit/supernatural/28055-this-is-crucial-to-embracing-the-flow-of-anointing-through-your-life "Anointing ")
 
-What does this mean for the state and for the nation?
-
-  * [
-
-#### A Powerful Word for America Comes From Across the Pond
-
-](http://www.charismamag.com/blogs/the-strang-report/26670-powerful-word-for-america-comes-from-across-the-pond "Martin \(far left\) and Shaneen Clarke are a British 'Power Couple' on fire for God.")
-
-My new English friends, who are an inspiration to many, have sent a warning to our nation in the ...
+It will help you go higher and higher and see your anointing increase.
 
   * [
 
-#### 5 Things to Do While Waiting on God
+#### Waiting or Warring: Contending for Prophetic Purposes
 
-](http://www.charismamag.com/life/women/26653-5-things-to-do-while-waiting-on-god "Waiting is hard because there is so little we have to wait on these days. ")
+](http://www.charismamag.com/blogs/a-voice-calling-out/28051-waiting-or-warring-contending-for-prophetic-purposes "God has called you to fight!")
 
-Waiting is hard because there is so little we have to wait on these days. 
-
-  * [
-
-#### How Will the Holy Spirit Prompt Christians to Respond to the Orlando Massacre?
-
-](http://www.charismamag.com/blogs/the-strang-report/26638-how-will-the-holy-spirit-prompt-christians-to-respond-to-the-orlando-massacre "How will the Christian community respond to this senseless tragedy?")
-
-Jesus said very clearly in the Bible what we must do in these types of situations.
-
-
-
+When God has given a prophetic promise, how are we to respond?
 
   * [
 
-#### 3 Truths the Devil Doesn't Want You to Know
+#### How You Can Be Part of God's Rising Remnant
 
-](http://www.charismamag.com/life/women/26695-3-truths-the-devil-doesn-t-want-you-to-know "Satan hates you and if he can hide these truths from you, it gives you the advantage.")
+](http://www.charismamag.com/spirit/revival/28031-how-you-can-be-part-of-god-s-rising-remnant "Will you stand up and be part of God's rising remnant?")
 
-Satan hates you and if he can hide these truths from you, it gives him the advantage.
-
-  * [
-
-#### Get 2 Free Joyce Meyer Audio Teachings
-
-](http://www.charismamag.com/giveaways/26495-get-2-free-joyce-meyer-audio-teachings "Get 2 Free Joyce Meyer Audio Teachings")
-
-Discover how you can experience the unshakable confidence that comes with the completeness of Christ.
+Now is not the time to hide in a cave and be indifferent.
 
   * [
 
-#### These 5 Steps Will Balance Prayer and Fasting in Your Life
+#### The Kingdom Attitude That Kills the Urge to Quit Your Diet
 
-](http://www.charismamag.com/life/health/26683-these-5-steps-will-balance-prayer-and-fasting-in-your-life "Here's how to balance your prayer life with fasting.")
+](http://www.charismamag.com/life/health/28044-the-kingdom-attitude-that-kills-the-urge-to-quit-your-diet "Gluttony attitude")
 
-These will increase the likelihood that you will receive the benefits this discipline offers.
+This can save you a lot of time and frustration.
 
-  * [
+  *   *   * [
 
-#### 5 Truths to Understand When Leading Leaders
+#### Jesus' Millennial Reign: Believers Have Reason to Shout
 
-](http://ministrytodaymag.com/leadership/counseling/22643-5-truths-to-understand-when-leading-leaders?utm_source=charismamag.com&utm_medium=Native%20Ad%20Under%20Article "5 Truths to Understand When Leading Leaders")
+](http://www.charismamag.com/spirit/prophecy/28049-jesus-millennial-reign-believers-have-reason-to-shout "Believers have a great reason to be excited about Jesus' Millennial reign.")
 
-If you are in leadership for any length of time, there will probably come a time where you will need to lead other leaders.
-
-  * [
-
-#### 7 Reasons Your Organization Suffers from Marketing Malpractice
-
-](https://onplatformseminar.com/marketing_malpractice/?utm_source=charismamag.com&utm_medium=Native%20Ad&utm_campaign=Marketing%20Malpractice "7 Reasons Your Organization Suffers from Marketing Malpractice")
-
-Receive Dr. Steve Greene's 7 Reasons Your Organization Suffers from Marketing Malpractice, plus 3 Things to Do Now to Prevent Further Damage as your FREE download.
+Here's why it will be a joyous time.
 
   * [
 
-#### R.T. Kendall: What is Holy Spirit Religion?
+#### Your Healing Role After a Divisive Election Season
 
-](http://www.charismamag.com/blogs/power-up/26676-r-t-kendall-what-is-holy-spirit-religion "Pigeon religion ")
+](http://www.charismamag.com/life/women/28048-your-healing-role-after-a-divisive-election-season "With such a close election, your candidate either became president or didn't get elected. Either way, this very close election split the nation. This is what we can do moving forward to build a bridge.")
 
-Let's be sure that what we believe is what we would die for. And if it is good enough to die ...
-
-  * [
-
-#### The Power of the Holy Spirit: Not Just for Charismatics
-
-](http://www.charismamag.com/spirit/supernatural/26677-the-power-of-the-holy-spirit-not-just-for-charismatics "Billy Graham ")
-
-Billy Graham once realized that he needed this same power and prayed a prayer of total dedication. ...
+This election cycle has been difficult and hurtful for all sides. Discover what you can do to help ...
 
   * [
 
-#### How Much of the Holy Spirit Do You Really Want?
+#### Standing Strong in the Sudden Storms of Life
 
-](http://www.charismamag.com/blogs/a-voice-calling-out/26681-how-much-of-the-holy-spirit-do-you-really-want "How hungry are you for the Holy Spirit?")
+](http://www.charismamag.com/blogs/the-plumb-line/28017-standing-strong-in-the-sudden-storms-of-life "The storms of life can blindside you. Stay strong in Jesus.")
 
-The depth of your hunger is the length of your reach to God. Ask for rain.
-
-  * [
-
-#### Learning How to Be Led By the Holy Spirit
-
-](http://www.charismamag.com/blogs/straight-talk/26665-learning-how-to-be-led-by-the-holy-spirit "The Holy Spirit simply wants you to be obedient and follow Him.")
-
-It's actually exciting to follow Him. Life will never be boring with Him in the lead.
-
-  * [
-
-#### 9 Prophetic Word Words That Could Change Your Life Forever
-
-](http://www.charismamag.com/life/women/26675-9-prophetic-word-words-that-could-change-your-life-forever ""It's here my life finds purpose, and here where my passion burns, and a larger story unfolds."")
-
-"It's here my life finds purpose, and here where my passion burns, and a larger story ...
-
-  * [
-
-#### What if Somebody Had Shared Jesus With the Orlando Killer?
-
-](http://www.charismamag.com/blogs/fire-in-my-bones/26647-what-if-somebody-had-shared-jesus-with-the-orlando-killer "Omar Mateen ")
-
-Please pray today, and every day, that God will direct people into your path so you can give them ...
+I was already fighting four or five other spiritual battles, and this was a major blindside.
 
   * [
 
 #### God's Power at Work in the Church Today
 
-](http://www.charismamag.com/blogs/the-strang-report?utm_source=charismamag.com&utm_medium=native%20ad "God's Power at Work in the Church Today")
+](http://www.charismamag.com/blogs/the-strang-report?utm_source=charismamag.com&utm_medium=native%20ad "God&#39;s Power at Work in the Church Today")
 
 Charisma's founder, Steve Strang writes about today's hottest topics affecting the Christian faith.
 
   * [
 
-#### Why You Shouldn't Wear Paint-On Leggings
+#### 4 Ways to Love Your Wife Even When You Don't Like Her
 
-](http://www.charismamag.com/life/women/26636-why-you-shouldn-t-wear-paint-on-leggings "If I could talk to the women just for a moment, as sisters ...")
+](http://www.charismamag.com/life/men/27979-4-ways-to-love-your-wife-even-when-you-don-t-like-her "You can still love your wife, even if you don't like her at times.")
 
-If I could talk to the women just for a moment, as sisters ...
-
-  * [
-
-#### Can Schizophrenia and Mind Illnesses Be Healed?
-
-](http://www.charismamag.com/life/health/26630-can-schizophrenia-and-mind-illnesses-be-healed "Jesus heals")
-
-Here is what Jesus did when confronting a person with these issues.
+When she frustrates you, practice these things, and it will enhance your relationship.
 
   * [
 
-#### 10 Toxic Phrases That Parents Should Avoid
+#### Continue Your Journey with the Holy Spirit
 
-](http://www.charismamag.com/life/men/26600-10-toxic-phrases-that-parents-should-avoid "Parents need to be very careful with what they say to their teenagers.")
+](https://lifeinthespiritbooks.com/?utm_source=charismamag.com&utm_medium=native%20ad "Continue Your Journey with the Holy Spirit")
 
-Parents have the responsibility of clear communication, but don't say these things.
+Follow God on the most fulfilling journey of your life with Encounter the Holy Spirit! Break away from past hurts and press into the One who wants a personal encounter with you.
+
+  * [
+
+#### Dream the Unimaginable In His Presence
+
+](https://lifeinthespiritbooks.com/?utm_source=charismamag.com&utm_medium=native%20ad "Dream the Unimaginable In His Presence")
+
+Reach your full potential and be led by His Spirit. In His Presence takes you to a deeper understanding of who God is and how he communicates with us.
+
+  * [
+
+#### Set Your Spirit on Fire 
+
+](https://lifeinthespiritbooks.com/?utm_source=charismamag.com&utm_medium=native%20ad "Set Your Spirit on Fire ")
+
+Receive the power and gifts that come through the Holy Spirit Baptism. Don’t go empty-handed; accept all that He has for you! His power is available to those who ask.
+
+  * [
+
+#### Put on the Full Armor of God
+
+](https://lifeinthespiritbooks.com/?utm_source=charismamag.com&utm_medium=native%20ad "Put on the Full Armor of God")
+
+Break every stronghold with the power of the Holy Spirit. Use the power of your tongue to declare and decree the Word of God. Witness heaven move on your behalf.
 
 
 
