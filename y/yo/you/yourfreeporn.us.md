@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourfreeporn.us privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602003628id_/http%3A//www.yourfreeporn.tv/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourfreeporn.us privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235413id_/http%3A//www.yourfreeporn.tv/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - yourfreeporn.tv
 
