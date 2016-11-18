@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conversationstartersworld.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617150152id_/http%3A//conversationstartersworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conversationstartersworld.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234630id_/http%3A//conversationstartersworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,7 +21,7 @@ Unless you ask us not to, we may contact you via email in the future to tell you
 
 ### Your Access to and Control Over Information
 
-You may opt out of any future contacts from us at any time, you can opt out by clicking the opt out button in the email or emailing us directly. You can do the following at any time by contacting us via larrypitts@conversationstartersworld.com:
+You may opt out of any future contacts from us at any time, you can opt out by clicking the opt out button in the email or emailing us directly. You can do the following at any time by contacting us via cbdaniels@conversationstartersworld.com:
 
   * See what data we have about you, if any.
   * Change/correct any data we have about you.
