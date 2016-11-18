@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sallybeauty.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627091150id_/http%3A//www.sallybeauty.com/privacy-Policy/privacyPolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sallybeauty.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119005949id_/http%3A//www.sallybeauty.com/privacy-Policy/privacyPolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # sallybeauty.com Privacy Policy
 
@@ -21,7 +21,7 @@ For each visitor to this Site, the Site server automatically recognizes the cons
 
 We collect the information above, as well as e-mail addresses visitors to this Site choose to give us, the e-mail addresses of those who communicate with us via e-mail, and information volunteered by the consumer, such as survey information and/or site registrations, and purchase history. In addition, we receive and may store any information you enter on this Site or give to this Site in any other way. For example, we collect information you provide when you place an order, register with us, send us an e-mail or call us, enter a sweepstakes, or enroll or participate in a club or service such as gift registries. This information may include:
 
-**your name.  
+ **your name.  
 your mailing address.  
 your e-mail address.  
 your phone number.  
