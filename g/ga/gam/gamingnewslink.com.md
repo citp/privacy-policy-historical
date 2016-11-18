@@ -1,44 +1,17 @@
-> *The following text is extracted and transformed from the gamingnewslink.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114212457id_/http%3A//www.gamingnewslink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamingnewslink.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118222544id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Gaming News Link
+# Legal
 
-Mar  
-05
+* * *
 
-5 March 2008, Cake @ 6:33 pm
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-We respect your privacy and we are committed to safeguarding your privacy while online at our site [www.gamingnewslink.com](http://www.gamingnewslink.com/). The following discloses the information gathering and dissemination practices for this Web site.
-
-Log Files  
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
-
-RSS Feeds  
-If a user wishes to subscribe to our RSS Feeds (powered by Feedburner), we ask for contact information such as email address. Out of respect for our users privacy we provide a way to opt-out of these communications.
-
-Cookies  
-A cookie is a piece of data stored on the user’s computer tied to information about the user. This site utilizes them. Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. If you wish to disable cookies, you may do so through your individual browser options.
-
-Links  
-This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
-
-Advertisers  
-We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense, etc. Please check their websites for respective privacy policies.
-
-Contact Information  
-If users have any questions or suggestions regarding our privacy policy, please contact us at: god(at)mapuaownage.com
-
-Related posts: 
-
-  1. [Glinkster website facelift](http://www.gamingnewslink.com/2008/07/14/glinkster-website-facelift/ "Permanent Link: Glinkster website facelift")
-
-  
-  
-  
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
-## Write a comment
 
-  
-
-
-Filed under: **|** [2 Comments »](http://www.gamingnewslink.com/privacy-policy/#comments "Comment on Privacy Policy")
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
