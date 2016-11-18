@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cracker.com.au privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509005316id_/http%3A//australia.cracker.com.au/classifieds/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cracker.com.au privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232934id_/http%3A//australia.cracker.com.au/classifieds/PrivacyPolicy) for the most accurate reproduction.*
 
 # Australia Free classifieds - cracker.com - cracker.com.au
 
 **Cracker Privacy Policy**
 
- **Last Revised: Aug 25, 2015**
+ **Last Revised: Sep 26, 2016**
 
 Cracker.com and its affiliates (collectively, the “Site”) respect your privacy. Here is our Privacy Policy for this Site: 
 
@@ -51,6 +51,10 @@ We may disclose your personal information to agents and operators under confiden
 We may disclose also your name, email address, or other information about you, including personal information, if (i) required to do so by law, court order or subpoena, or as requested by other government, law enforcement, or investigative authority, (ii) we in good faith believe that such disclosure is necessary or advisable, including without limitation to protect the rights or properties of the Site, (iii) we have reason to believe that disclosing your personal information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, or has breached an agreement, or if anyone else could be harmed by such activities or interference, (iv) if we determine an ad posted violates our Terms of Use or the rights of a third party, or (v) there is an emergency involving personal danger. We may also provide information about you if we believe it is necessary to share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required or permitted by law. 
 
 Please note that if you post any of your personal information on the Site, such information may be collected and used by others over whom the Site has no control. The Site is not responsible for the use by third parties of information you post or otherwise make public. 
+
+**Notice of Privacy Rights of California Residents**
+
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. Under the law, a business must either provide this information or permit California residents to opt in to, or opt out of, this type of sharing. We qualify for this alternative option. To opt out of having information about you shared with third parties for direct marketing purposes, please [contact us](http://posting.australia.cracker.com.au/classifieds/Contact). 
 
 **Communication from the Site/Opt-Out**
 
