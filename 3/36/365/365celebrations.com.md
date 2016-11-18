@@ -1,21 +1,19 @@
-> *The following text is extracted and transformed from the 365celebrations.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614113100id_/http%3A//www.365celebrations.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 365celebrations.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234548id_/http%3A//365celebrations.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
-| 
-
-**Privacy Policy**  
+Privacy Policy   
 
 
-(Last updated November 01, 2011)
+(Last updated September 21, 2016)
 
-Oleg Moskvine ("the Author") cares about the privacy of each user of the Author's web site. The following provisions explain how the Author handles personal information.
+**Oleg V. Moskvine** ("the Author") cares about the privacy of each user of the Author's web site. The following provisions explain how the Author handles personal information.
 
 This Privacy Policy consists of several principles to protect and manage your (the customer's) personal information. This policy does not apply to the practices of companies that the Author does not own or control or to people that the Author does not employ or manage.
 
 Identifying the Purpose of Personal Information: 
 
-When you use this web site some basic information is collected. The web site collects, at time of your registration and your sign-on to the web site, certain "personal information" that you voluntarily give the Author (information that personally identifies you) such as your name, email address, home or work address, telephone number.
+When you use this web site some basic information can be collected. The web site can collect, at time of your registration and your sign-on to the web site, certain "personal information" that you voluntarily give the Author (information that personally identifies you) such as your name, email address, home or work address, telephone number.
 
 The Author's web sites may automatically receive and record basic general non personally-identifiable information from your browser including IP address, browser type, access times, and page you requested for the limited purposes to compile statistics to improve the Author's web sites and make your use of the Author's web sites efficient 
 
@@ -71,6 +69,3 @@ infosite@365celebrations.com
 The Author reserves the right to change and update this Policy from time to time. When it does, the Author will also revise the "last update" date at the top of this Privacy Policy. For changes to this policy,the Author will notify you by placing a notice on our web site home page.
 
 Your continued use of the Author's web sites following the posting of changes to these terms will mean you accept those changes.
-
-** ** |   
----|---|---
