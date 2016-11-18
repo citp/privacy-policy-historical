@@ -1,44 +1,17 @@
-> *The following text is extracted and transformed from the leadsmack.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614113247id_/http%3A//powerhouseaffiliate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadsmack.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118222544id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy — Powerhouse Affiliate
+# Legal
 
-The privacy of our visitors to Vault Media Inc. websites is important to us.
+* * *
 
-At Vault Media Inc. websites, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit this website, and how we safeguard your information. We never sell your personal information to third parties.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Log Files  
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-Cookies and Web Beacons  
-We may use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
-We may also use third party advertisements onthis website to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
-DoubleClick DART cookies  
-We may also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx
-
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
-
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
-
-Login Information
-
-We do collect and store login information to allow members access our membership site. Upon request your login information can be deleted from our database and you will no longer have access to the site. We use a 3rd party server and hosting company to store the data in a secure database.
-
-Payment information
-
-We do not collect payment information since our payments are processed through a 3rd party (Paypal). We do not collect or store any of your information contained in Paypal. When you agree to pay monthly fees for our membership it is done through the Paypal system.
-
-#### User accounts, user content, and feedback
-
-#### **Account creation and account details**
-
-In order to be able to access certain information and functionality offered on this website, you must create an account. To create your account, you must provide all requested account registration details in the manner described on this website (including selecting a username and password which we will use to verify your identity when you use this website). You must ensure that your account details are complete and accurate when submitted to us, and you must keep your account details up-to-date.
-
-**Your username and password**
-
-Your username and password are personal to you and you must at all times maintain the confidentiality of your username and password and not disclose them to any third party. Your username and password may be used by one person only, i.e. a single login is not permitted to be shared by multiple people. You agree that you are solely responsible for any use of this website by any person using your username and password and you agree to indemnify us against any and all claims arising out of your failure to maintain the confidentiality of your username or password. We will not be liable for any loss that you may incur as a result of someone else using your password or account (whether with or without your knowledge). You agree to notify us immediately of any unauthorised use of your account or any other breach of security.
-
-The privacy of our visitors to Vault Media Inc. websites is important to us.
-
-Vault Media Inc. recognizes that privacy of your personal information is important. If you have any issues please email us at: support@powerhouseaffiliate.com
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
