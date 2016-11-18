@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the liverpoolecho.co.uk privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606143436id_/http%3A//www.liverpoolecho.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liverpoolecho.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119005117id_/http%3A//www.liverpoolecho.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Liverpool Echo: Latest Liverpool and Merseyside news, sports and what's on
-
-## Privacy Policy
 
 **IN RELATION TO ALL WEB SITE SERVICES OFFERED BY TRINITY MIRROR NORTH WEST & NORTH WALES LIMITED HERE ON THIS WEB SITE**
 
