@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tennistv.com privacy policy that was archived on 2016-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160512083902id_/http%3A//www.tennistv.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tennistv.com privacy policy that was archived on 2016-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161118233606id_/http%3A//www.tennistv.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><head>
 
@@ -8,7 +8,7 @@
     <link rel="canonical" href="http://www.tennistv.com/privacy-policy">
 
   
-  <script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/189964847642077417/bc.vms4/vms.js"></script><script type="text/javascript" async="" src="https://cdn.tapstream.com/static/js/tapstream.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/tennisTVGroup2/js/assets/head.js/ver/45450"></script>      
+  <script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/189964847642077417/bc.vms4/vms.js"></script><script type="text/javascript" async="" src="https://cdn.tapstream.com/static/js/tapstream.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/tennisTVGroup2/js/assets/head.js/ver/46436"></script>      
   <script>
   </script>
   <title>Privacy Policy | TennisTV</title>
@@ -24,25 +24,17 @@
       <link rel="shortcut icon" href="/i/ttv/global/favicon.ico" type="image/x-icon">
       <link rel="alternate" type="application/rss+xml" href="/videos.rss" title="Tennis TV VOD RSS Feed">  
       <meta name="google-site-verification" content="MWOn30LDx3_Cq8bO5d2kvb7Dv4mpEfopA6wxv9jD6N0">
+  
+  <meta property="fb:app_id" content="225946334199521">
 
 
 
-  <link rel="stylesheet" href="/css/tennisTVGroup2/css/main.css/ver/45450">
-        <link rel="stylesheet" type="text/css" href="/css//tennisTVGroup2/css/pageSpecific/articleSingle/ver/45450">
+  <link rel="stylesheet" href="/css/tennisTVGroup2/css/main.css/ver/46436">
+        <link rel="stylesheet" type="text/css" href="/css//tennisTVGroup2/css/pageSpecific/articleSingle/ver/46436">
   
   <!--[if lt IE 9]>
     <script src="/js/global/js/core/html5.js"></script>
-  <![endif]-->    
-
-      <!-- GIGYA libs -->
-      <script>
-      window.__gigyaConf = {
-          siteName: "tennistv.com",
-          enabledProviders: "facebook,twitter,google,yahoo,linkedin,paypal",
-          connectWithoutLoginBehavior: 'alwaysLogin'
-      };
-      </script>
-          <script src="http://cdn.gigya.com/JS/socialize.js?apikey=3_vTZtK-O3gAfJJOh53X4Uj-llt4V-nDcjRJbfH1-qZs4XC8yqTqGv--ogSnIlzUY8"></script> 
+  <![endif]-->
     
 
 <script type="text/javascript">
@@ -110,15 +102,312 @@
     </script>
     <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=515094145301711&ev=PixelInitialized" /></noscript>
     
+    
+    <!--New script tag-->
+    
+    
+    
     <script>
-          window.fullPageUrl = '/privacy-policy';
-    </script>
+  
+  
+      window.fbAsyncInit = function() {
+          FB.init({
+              appId : "225946334199521", // The App ID
+              cookie: true,   // enable cookies to allow the server to access the session
+              status: true,   // check login status
+              xfbml : true,    // parse XFBML
+              oauth : true     // enable OAuth 2.0
+          });
+    
+            FB.Event.subscribe('auth.login',fbConnect.platformFacebookLogin); 
+  FB.getLoginStatus(function(loginEvent) {
+    var authResponse = loginEvent.authResponse;
+    toggleFbButtonState(authResponse);
+    
+    FB.api('/me', function(response) {    
+    
+      if (typeof response.error === 'undefined'){
+        if(document.getElementById('registration_title') != null){
+          document.getElementById('registration_title').value= response.gender == "male" ? " Mr" : " Miss";
+          document.getElementById('registration_firstName').value=response.first_name;
+          document.getElementById('registration_lastName').value=response.last_name;
+        
+          document.getElementById('registration_email').value=response.email;
+          document.getElementById('registration_emailConfirmation').value=response.email;
+        }
 
+        if(document.getElementById('registration_connect') != null){
+          document.getElementById('registration_connect').value='facebook';
+          document.getElementById('registration_fbAccessToken').value=authResponse.accessToken;
+          document.getElementById('registration_fbSignedRequest').value=authResponse.signedRequest;
+        }
+      }
+    });
+  }); 
+
+      
+      };           
+
+ (function(d, s, id) {
+   var js, fjs = d.getElementsByTagName(s)[0];
+   if (d.getElementById(id)) return;
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_GB/all.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+
+  function toggleFbButtonState(isConnected) {
+    if(perform.isLoggedIn()) {
+      $('.connectedFbLoginButton').hide();
+      $('.unconnectedFbLoginButton').hide();
+      $('.fbLoginPane').hide();
+      if (!isConnected){
+        var myAccount = $('#global-myacc-section');
+        myAccount.find('.unconnectedFbLoginButton').show();
+        myAccount.find('.fbLoginPane').show();
+      }
+    } else if(isConnected) {
+      $('.connectedFbLoginButton').show();
+      $('.unconnectedFbLoginButton').hide();
+      $('.fbLoginPane').show();
+    } else {
+      $('.connectedFbLoginButton').hide();
+      $('.unconnectedFbLoginButton').show();
+      $('.fbLoginPane').show();
+    }
+  }
+
+  var fbConnect = (function(){    
+  
+    var params = {
+      successRedirectUrl : 'https://secure.tennistv.com/my-account',
+      failureRedirectUrl : 'http://www.tennistv.com/register?fbLoginError',
+      userNotFoundUrl : 'https://secure.tennistv.com/buy',
+      link_successRedirectUrl : 'https://secure.tennistv.com/my-account',
+      link_failureRedirectUrl : 'http://www.tennistv.com/register?fbLinkError',
+      link_userNotFoundUrl : 'https://secure.tennistv.com/buy'
+    }
+  
+    return {
+  
+      init : function(customParams) {
+        $.extend(params, customParams);  
+      }, 
+   
+      getParams : function() {
+        return params;  
+      },  
+  
+      platformFacebookLogin : function (loginEvent) {
+        if (loginEvent.authResponse){
+          var fbLoginForm = document.createElement("form");
+          fbLoginForm.setAttribute('method', 'post');
+          $('<input type="hidden" name="facebookLogin.fbAccessToken"   value="' + loginEvent.authResponse.accessToken + '" />').appendTo(fbLoginForm);
+          $('<input type="hidden" name="facebookLogin.fbSignedRequest" value="' + loginEvent.authResponse.signedRequest + '" />').appendTo(fbLoginForm);
+  
+          if (!perform.isLoggedIn()){
+            /*login with facebook*/
+            fbLoginForm.setAttribute('action', 'https://secure.tennistv.com/system/facebook/login');
+            $('<input type="hidden" name="facebookLogin.successRedirectUrl" value="' + params.successRedirectUrl + '" />').appendTo(fbLoginForm);
+            $('<input type="hidden" name="facebookLogin.failureRedirectUrl" value="' + params.failureRedirectUrl + '" />').appendTo(fbLoginForm);
+            $('<input type="hidden" name="facebookLogin.userNotFoundUrl"    value="' + params.userNotFoundUrl + '" />').appendTo(fbLoginForm);
+          } else {
+            /*we are already logged in so just link with existing account*/
+            fbLoginForm.setAttribute('action', 'https://secure.tennistv.com/system/facebook/link');
+            $('<input type="hidden" name="facebookLogin.successRedirectUrl" value="' + params.link_successRedirectUrl + '" />').appendTo(fbLoginForm);
+            $('<input type="hidden" name="facebookLogin.failureRedirectUrl" value="' + params.link_failureRedirectUrl  + '" />').appendTo(fbLoginForm);
+            $('<input type="hidden" name="facebookLogin.userNotFoundUrl"    value="' + params.link_userNotFoundUrl  + '" />').appendTo(fbLoginForm);
+          }
+        }
+        $(fbLoginForm).appendTo($('.fbLoginPane').eq(0));
+        fbLoginForm.submit();
+      }  
+    }
+  })();
+          window.fullPageUrl = '/privacy-policy'; 
+    </script>
+	
 </head>
       
     
     <body class="nav-side-push">
-
+  <script>
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId: "225946334199521",
+          cookie: "true",
+          xfbml: "true",
+          version: "v2.5"
+        });
+  
+        FB.Event.subscribe('auth.login', fbConnect.platformFacebookLogin);
+        FB.getLoginStatus(function(loginEvent) {
+          var authResponse = loginEvent.authResponse;
+          toggleFbButtonState(authResponse);
+  
+          FB.api('/me', {
+            fields: 'email, first_name, last_name'
+          }, function(response) {
+            if (typeof response.error === 'undefined') {
+              if (document.getElementById('registration_title') != null) {
+                document.getElementById('registration_title')
+                  .value =
+                  response.gender == "male" ? " Mr" : " Miss";
+                document.getElementById('registration_firstName')
+                  .value =
+                  response.first_name;
+                document.getElementById('registration_lastName')
+                  .value =
+                  response.last_name;
+  
+                document.getElementById('registration_email')
+                  .value =
+                  response.email;
+                document.getElementById('registration_emailConfirmation')
+                  .value =
+                  response.email;
+              }
+  
+              if (document.getElementById('registration_connect') != null) {
+                document.getElementById('registration_connect')
+                  .value =
+                  'facebook';
+                document.getElementById('registration_fbAccessToken')
+                  .value =
+                  authResponse.accessToken;
+                document.getElementById('registration_fbSignedRequest')
+                  .value =
+                  authResponse.signedRequest;
+              }
+            }
+          });
+        });
+      }
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//connect.facebook.net/en_GB/all.js";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+  
+    function toggleFbButtonState(isConnected) {
+      if (perform.isLoggedIn()) {
+        $('.connectedFbLoginButton')
+          .hide();
+        $('.unconnectedFbLoginButton')
+          .hide();
+        $('.fbLoginPane')
+          .hide();
+        if (!isConnected) {
+          var myAccount = $('#global-myacc-section');
+          myAccount.find('.unconnectedFbLoginButton')
+            .show();
+          myAccount.find('.fbLoginPane')
+            .show();
+        }
+      } else if (isConnected) {
+        $('.connectedFbLoginButton')
+          .show();
+        $('.unconnectedFbLoginButton')
+          .hide();
+        $('.fbLoginPane')
+          .show();
+      } else {
+        $('.connectedFbLoginButton')
+          .hide();
+        $('.unconnectedFbLoginButton')
+          .show();
+        $('.fbLoginPane')
+          .show();
+      }
+    }
+    var getParams = function() {
+    	return {
+        successRedirectUrl: 'https://secure.tennistv.com/my-account',
+        failureRedirectUrl: 'http://www.tennistv.com/register?fbLoginError',
+        userNotFoundUrl: 'https://secure.tennistv.com/buy',
+        link_successRedirectUrl: 'https://secure.tennistv.com/my-account',
+        link_failureRedirectUrl: 'http://www.tennistv.com/register?fbLinkError',
+        link_userNotFoundUrl: 'https://secure.tennistv.com/buy'
+      }
+    };
+    
+    var fbConnect = (function() {
+  
+      var params = getParams();
+  
+      return {
+  
+        init: function(customParams) {
+          $.extend(params, customParams);
+        },
+  
+        getParams: function() {
+          return params;
+        },
+  
+        platformFacebookLogin: function(loginEvent) {
+          if (loginEvent.authResponse) {
+            var fbLoginForm = document.createElement("form");
+            fbLoginForm.setAttribute('method', 'post');
+            $(
+                '<input type="hidden" name="facebookLogin.fbAccessToken"   value="' +
+                loginEvent.authResponse.accessToken + '" />')
+              .appendTo(
+                fbLoginForm);
+            $(
+                '<input type="hidden" name="facebookLogin.fbSignedRequest" value="' +
+                loginEvent.authResponse.signedRequest + '" />')
+              .appendTo(
+                fbLoginForm);
+  
+            if (!perform.isLoggedIn()) {
+              /*login with facebook*/
+              fbLoginForm.setAttribute('action',
+                'https://secure.tennistv.com/system/facebook/login');
+              $(
+                  '<input type="hidden" name="facebookLogin.successRedirectUrl" value="' +
+                  params.successRedirectUrl + '" />')
+                .appendTo(fbLoginForm);
+              $(
+                  '<input type="hidden" name="facebookLogin.failureRedirectUrl" value="' +
+                  params.failureRedirectUrl + '" />')
+                .appendTo(fbLoginForm);
+              $(
+                  '<input type="hidden" name="facebookLogin.userNotFoundUrl"    value="' +
+                  params.userNotFoundUrl + '" />')
+                .appendTo(fbLoginForm);
+            } else {
+              /*we are already logged in so just link with existing account*/
+              fbLoginForm.setAttribute('action',
+                'https://secure.tennistv.com/system/facebook/link');
+              $(
+                  '<input type="hidden" name="facebookLogin.successRedirectUrl" value="' +
+                  params.link_successRedirectUrl + '" />')
+                .appendTo(
+                  fbLoginForm);
+              $(
+                  '<input type="hidden" name="facebookLogin.failureRedirectUrl" value="' +
+                  params.link_failureRedirectUrl + '" />')
+                .appendTo(
+                  fbLoginForm);
+              $(
+                  '<input type="hidden" name="facebookLogin.userNotFoundUrl"    value="' +
+                  params.link_userNotFoundUrl + '" />')
+                .appendTo(
+                  fbLoginForm);
+            }
+          }
+          $(fbLoginForm)
+            .appendTo($('.fbLoginPane')
+              .eq(0));
+          fbLoginForm.submit();
+        }
+      }
+    })();
+  </script>
   
 
 
@@ -143,10 +432,6 @@
   <div class="row">
     <div class="five tablet-four phone-five small-phone-four">
       <a href="#" class="nav-expand-toggle"></a>
-      <div class="logos no-mobile">
-        <a href="http://www.atpworldtour.com/" target="_blank"><img class="atp" alt="ATP" title="Association of Tennis Professionals" src="http://images.performgroup.com/di/library/tennistv/a3/14/association-of-tennis-professionals_1pkpxwvmzj8lk1a0pcgbcxwq1x.png?t=-2138682594&amp;w=60&amp;quality=100"></a>
-        <a href="http://www.wtatennis.com" target="_blank"><img class="wta" alt="WTA" title="Women's Tennis Association" src="http://images.performgroup.com/di/library/tennistv/fe/7d/womens-tennis-association_ej6phntbonz214q5sbl1v6h91.png?t=1233670908"></a>
-      </div>
     </div>
     <div class="siteLogo two tablet-three phone-four small-phone-five center-text">
     	<a href="/"><img src="/i/ttv/global/TennisTV-Logo-White-Top.png" title="Tennis TV" alt="Tennis TV"></a>
@@ -159,10 +444,6 @@
         <div class="account-buttons top phone-hidden small-phone-hidden">
           <a href="/login" class="sign-in">Sign In</a>
         </div>
-      </div>
-      <div class="logos on-mobile">
-        <a href="http://www.atpworldtour.com/" target="_blank"><img class="atp" alt="ATP" title="Association of Tennis Professionals" src="http://images.performgroup.com/di/library/tennistv/a3/14/association-of-tennis-professionals_1pkpxwvmzj8lk1a0pcgbcxwq1x.png?t=-2138682594&amp;w=60&amp;quality=100"></a>
-        <a href="http://www.wtatennis.com" target="_blank"><img class="wta" alt="WTA" title="Women's Tennis Association" src="http://images.performgroup.com/di/library/tennistv/fe/7d/womens-tennis-association_ej6phntbonz214q5sbl1v6h91.png?t=1233670908"></a>
       </div>
     </div>
   </div>
@@ -217,12 +498,12 @@
     <div class="twelve">    
       <div class="section description">
         <a href="#" class="close float-right"></a>
-        <p><a href="/buy?WT.mc_id=CmpType:Display*Asset:Auto_Asset*CmpID:NotLogged*Other.TTV">Subscribe to watch over 120 ATP &amp; WTA live matches from Rome.</a></p>
+        <p><a href="/buy?WT.mc_id=CmpType:Display*Asset:Auto_Asset*CmpID:NotLogged*Other.TTV">Buy an annual subscription</a> and get access to ATP matches until December 2017.</p>
       </div>
     </div>
   </div>
 </div>        </div>
-    
+
     <div id="main">
 
 
@@ -324,7 +605,7 @@ We may on occasion combine information we receive online with other records to e
 
 <p>If we decide to change this Privacy Policy, the changes will be posted on this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. We will not use or disclose Personal Information provided to us in ways unrelated to the ones described above without informing you and providing you with an opportunity to opt-out of these unrelated uses.</p>
 
-<p>If you have any questions or comments about this Privacy Policy please feel free to contact us atcustomerservices@performgroup.com</p>
+<p>If you have any questions or comments about this Privacy Policy please feel free to contact us at <a href="mailto:customerservices@performgroup.com">customerservices@performgroup.com</a></p>
 
 <p>Registered Office:</p>
 
@@ -365,6 +646,7 @@ Registered No: 03426471</p>
         <li class="on-400-rem-float on-400-rem-border"><a href="/privacy-policy" itemprop="url"><span itemprop="name">Privacy policy</span></a></li>
         <li class="on-400-rem-float on-400-rem-border"><a href="/faqs" itemprop="url"><span itemprop="name">Help</span></a></li>
         <li class="on-400-rem-float on-400-rem-border"><a href="/contact-us" itemprop="url"><span itemprop="name">Contact us</span></a></li> 
+      	<li class="on-400-rem-float on-400-rem-border"><a href="http://r1.surveysandforms.com/492yy255-071woe6f" itemprop="url"><span itemprop="name">Email Sign Up</span></a></li> 
       </ul>
     
     </div>
@@ -388,7 +670,7 @@ Registered No: 03426471</p>
   else if(document.readyState=="complete") bcLoad();
   else if(window.addEventListener) window.addEventListener('load', bcLoad, false);
   else window.attachEvent('onload', bcLoad);
-</script><div id="0.34004947061331947"></div>
+</script><div id="0.2251314719929305"></div>
  <span class="hidden" style="font-family: Arial; font-size: 8pt; color: black;"><a href="http://www.boldchat.com" style="text-decoration: none; color: black;">Chat software</a> by BoldChat</span>
 </div>
 <!-- /BoldChat Live Chat Button HTML v5.00 -->
@@ -419,36 +701,17 @@ Registered No: 03426471</p>
 ?
                     </h4>
                     <div class="font-body font-copyright">
-                        <p>TennisTV is the official source of live streaming for ATP World Tour&nbsp;&amp; WTA tennis.</p>
+                        <p>TennisTV is the official live streaming service of the ATP World Tour.</p>
 
-<p>&nbsp;</p>
+<p>Enjoy all the action as the season reaches a climax at the Barclays ATP World Tour Finals.</p>
 
-<p>Watch up to 2,700 live matches in the next 12 months&nbsp;including:</p>
-
-<ul>
-	<li>ATP World Tour Masters 1000s, 500s and 250s</li>
-	<li>
-	<p>Barclays ATP World Tour Finals</p>
-	</li>
-	<li>WTA Finals, Premiers &amp;&nbsp;WTA Internationals</li>
-</ul>
-
-<p>Also enjoy:</p>
-
-<ul>
-	<li>Full replays for 7 days</li>
-	<li>Pause and rewind</li>
-	<li>Multi-screen</li>
-	<li>No adverts</li>
-</ul>
-
-<p>&nbsp;</p>
+<p>Join us in 2017 for ATP World Tour matches&nbsp;on the all new TennisTV on more devices than ever before.</p>
 
                     </div>
                 </div>
         
                 <div class="six phone-six small-phone-twelve phone-hidden small-phone-hidden">
-                        <img class="subscribeMPU-image" src="/di/library/tennistv/a7/a9/tennistv-new_1mo3tf2ctsqon15rg10ms69yw0.jpg?t=-1183673171" alt="TennisTV NEW">
+                        <img class="subscribeMPU-image" src="/di/library/tennistv/a7/a9/tennistv-new_1mo3tf2ctsqon15rg10ms69yw0.jpg?t=-1539116756" alt="watch tennis online stream to any device">
                 </div>
       
     	</div>
@@ -460,7 +723,7 @@ Registered No: 03426471</p>
     	</div>    
     </div>
     <section class="offerMPU center-text scheme_dark bg-graymiddark">
-            <p class="font-head3 text-noLead"><span>Subscribe Today:</span> WATCH OVER 2700 MATCHES A YEAR FROM THE ATP &amp; WTA</p>
+            <p class="font-head3 text-noLead"><span>PLEASE NOTE:</span> FROM JAN 2017 TENNISTV WILL NOT STREAM WTA MATCHES - SEE HELP PAGES</p>
     </section>
 </div>
 
@@ -470,10 +733,12 @@ Registered No: 03426471</p>
 <div class="loginFormWrap">  
 <div class="row">
   <div class="twelve small-phone-twelve phone-six">
-    <div class="social-login">
-      <p class="font-copyright">Sign In using a Social Account:</p>
-      <div id="gigya-login-panel"></div>
-    </div>
+
+  <div class="fbLoginPane">
+  <div class="fb-login-button" data-max-rows="1" data-size="medium" data-show-faces="false" data-auto-logout-link="false"></div>
+   </div>
+
+  
   </div>
   <div class="formWrap twelve phone-six small-phone-twelve desktop-no-margin-left">
   <form action="https://secure.tennistv.com/system/userlogin" class="login_form" method="POST" target="_self">
@@ -508,7 +773,8 @@ Registered No: 03426471</p>
   </form>
 </div>
 </div>
-</div></div>      </div>
+</div>
+</div>      </div>
       </section>
       
     </div><!-- /.modal-content -->
@@ -532,9 +798,9 @@ Registered No: 03426471</p>
     </div><!-- /.modal-content -->
   </div><!-- /.modal-dialog -->
 </div><!-- /.modal -->        
-            <script src="/js/tennisTVGroup2/js/main.js/ver/45450"></script>              
+            <script src="/js/tennisTVGroup2/js/main.js/ver/46436"></script>              
               
-                <script src="/js/tennisTVGroup2/js/pageSpecific/articleSingle/ver/45450"></script>
+                <script src="/js/tennisTVGroup2/js/pageSpecific/articleSingle/ver/46436"></script>
         
 
   <!-- SiteCatalyst code version: H.2.
@@ -543,7 +809,7 @@ Registered No: 03426471</p>
   <script>
       var s_account = "premiumtvatpmastersseries";
   </script>
-  <script src="/js/tennisTVGroup2/js/lib/omniture.js/ver/45450"></script>
+  <script src="/js/tennisTVGroup2/js/lib/omniture.js/ver/46436"></script>
   <script>
   s.pageName="Privacy policy";
   s.channel="";
@@ -702,18 +968,6 @@ Registered No: 03426471</p>
   //--></script><!--/DO NOT REMOVE/-->
   <!-- End SiteCatalyst code version: H.2. -->
 
-              <div id="gigyaContainer">
-                  <form action="https://secure.tennistv.com/system/gigya/login" method="post" id="loginGigyaForm">
-                      <input type="hidden" name="gigyaLogin.gigyaUID" id="loginGigyaUID">
-                      <input type="hidden" name="gigyaLogin.gigyaUIDSignature" id="loginGigyaUIDSignature">
-                      <input type="hidden" name="gigyaLogin.gigyaSignatureTimestamp" id="loginGigyaSignatureTimestamp">
-                      <input type="hidden" name="gigyaLogin.gigyaIsPerformUID" id="loginGigyaIsPerformUID">
-                      <input type="hidden" name="gigyaLogin.gigyaProvider" id="loginGigyaProvider">
-                      <input type="hidden" name="gigyaLogin.userNotFoundUrl" value="/buy/linkAccount/true" id="logingiGyaUserNotFoundUrl">
-                      <input type="hidden" name="gigyaLogin.successRedirectUrl" value="/privacy-policy" id="logingiGyaSuccessRedirectUrl">
-                  </form>
-              </div>  
-          
 
 <script type="text/javascript">
 
@@ -728,6 +982,6 @@ Registered No: 03426471</p>
           
            
   
-<!-- Rendered: 12/05/2016 09:39:02 BST -->
+<!-- Rendered: 18/11/2016 23:36:06 GMT -->
     
 </body></html>
