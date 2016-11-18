@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scribol.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607133848id_/http%3A//scribol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribol.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000540id_/http%3A//scribol.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Scribol.com
 
@@ -122,6 +122,4 @@ Please let us know if the personal information which we hold about you needs to 
 
 **11\. Contact**
 
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to [contact@scribol.com](mailto:contact@scribol.com) or by post to 72-75 Red Lion Street, London, WC1R 4NA. 
-
-Pages: 1 [2](http://scribol.com/privacy-policy/2/) [3](http://scribol.com/privacy-policy/3/)
+If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to [contact@scribol.com](mailto:contact@scribol.com) or by post to 72-75 Red Lion Street, London, WC1R 4NA.
