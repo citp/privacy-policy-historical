@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allwrestling.net privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623014654id_/http%3A//www.allwrestling.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allwrestling.net privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232156id_/http%3A//www.allwrestling.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy- Watch Free Wrestling Shows Online - WWE, RAW, Smackdown, TNA, UFC, ROH, NJPW
 
