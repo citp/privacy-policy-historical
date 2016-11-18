@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viddsee.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513144205id_/https%3A//viddsee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viddsee.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118063544id_/https%3A//www.viddsee.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Viddsee
 
