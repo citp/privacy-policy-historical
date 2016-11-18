@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hukkubandar.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408081915id_/http%3A//www.hukkubandar.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hukkubandar.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231411id_/http%3A//hukkubandar.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,5 +45,5 @@ Google ad and content network privacy policy
   
 **Contact:**
 
-If you have any questions regarding privacy policy, abuse, reports or queries please contact us via email at alignwebs@gmail.com.  
-In case you found any objectionable content on our website, Intellectual Property Violation you should send us email at alignwebs@gmail.com before taking any further action. We will be happy in solving your issue.
+If you have any questions regarding privacy policy, abuse, reports or queries please contact us via email at info@hukkubandar.com.  
+In case you found any objectionable content on our website, Intellectual Property Violation you should send us email at info@hukkubandar.com before taking any further action. We will be happy in solving your issue.
