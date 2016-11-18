@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremetube.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516010320id_/http%3A//www.extremetube.com/information%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremetube.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231026id_/http%3A//www.extremetube.com/information%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Information - Privacy Policy, DMCA, Support, And More | Extremetube
 
