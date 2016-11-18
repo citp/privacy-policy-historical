@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lucianne.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607015724id_/http%3A//www.lucianne.com/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucianne.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000235id_/http%3A//www.lucianne.com/privacystatement) for the most accurate reproduction.*
 
 # Lucianne.com News Forum - Privacy Statement
 
