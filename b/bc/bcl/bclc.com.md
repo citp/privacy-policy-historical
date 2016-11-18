@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bclc.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618011734id_/http%3A//corporate.bclc.com/customer-support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bclc.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234742id_/http%3A//corporate.bclc.com/customer-support/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -24,7 +24,7 @@ We share aggregated demographic information, such as age, gender and location, a
 
 We do not link aggregate user data with personal information.
 
-### Personal information:
+### Personal information
 
 We will share your personal information with third parties only in the ways that are described in this privacy statement.
 
@@ -48,7 +48,7 @@ If you no longer wish to receive our newsletter and promotional communications, 
 
   * following the "unsubscribe" link included in each newsletter or communication
   * calling Customer Support at 1-866-815-0222
-  * [emailing us](https://web.archive.org/customer-support/contact-us/contact-customer-support-email.html)
+  * [emailing us](http://corporate.bclc.com/email-us.html)
 
 
 
@@ -66,10 +66,9 @@ We use a third-party tracking service that uses tracking technologies (cookies a
 
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personal information you submit while on our site.
 
-We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser whereas a persistent cookie remains on your hard drive for an extended period of time. We utilize cookies to help manage player logins, to protect against security issues and to remember player preferences. We do not set a persistent cookie to store your passwords, as we do not want anyone to be able to access your account other than you.  
+We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser whereas a persistent cookie remains on your hard drive for an extended period of time. We utilize cookies to help manage player logins, to protect against security issues and to remember player preferences. We do not set a persistent cookie to store your passwords, as we do not want anyone to be able to access your account other than you.
 
-
-Our site regularly uses Google Website Optimizer (GWO) to perform variation testing. GWO cookies are placed within site pages to determine page effectiveness in conversion. The results from this testing are used to create an improved product experience for our players. GWO does not collect personal information, only information related to the session. In the event that personal information is collected, Google requests your consent before sharing it. Further details can be found in the [Google Privacy Policy](http://www.google.com/intl/en/policies/privacy/).
+Our site regularly uses Google Website Optimizer (GWO) to perform variation testing. GWO cookies are placed within site pages to determine page effectiveness in conversion. The results from this testing are used to create an improved product experience for our players. GWO does not collect personal information, only information related to the session. In the event that personal information is collected, Google requests your consent before sharing it. Further details can be found in the [Google Privacy Policy](http://www.google.com/intl/en/policies/privacy/).
 
 ### Clear Gifs (Web Beacons/Web Bugs)
 
@@ -101,44 +100,12 @@ The security of your personal information is important to us. We follow generall
 
 When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-### Changes in this Privacy Statement
+### Contacting Us
 
-We may update this privacy statement to reflect changes to our information practices.
+If you think we have not acted in accordance with our Charter or our Privacy Statement, you would like more information about our privacy practices or believe that we could do something better, please contact [BCLC Customer Support](https://web.archive.org/customer-support.html) and let us know you have a privacy concern, question or suggestion.
 
-If you would like more information about our privacy practices or believe that we could do something better, please contact BCLC's Privacy Line at 250-852-5383 or email privacy@bclc.com. While we may not be able to implement all suggestions, we will give them all genuine consideration.
+If we are unable to resolve your privacy concerns, you may contact the [Office of the Information and Privacy Commissioner for British Columbia](https://www.oipc.bc.ca/about/contact-us.aspx).  
 
-If, at any time, you think we have not acted in accordance with our Charter or our Privacy Statement, you may request a formal review of your case by contacting:
+We may update this privacy statement to reflect changes to our information practices
 
-Mailing Address:  
-Information and Privacy Administrator  
-BCLC  
-74 West Seymour Street  
-Kamloops, BC V2C 1E2
-
-Telephone: (250) 852-5383
-
-E-mail: [privacy@bclc.com](mailto:privacy@bclc.com)
-
-If, at any time, you are not satisfied with how BCLC is dealing with your case, you can contact the Office of the Information and Privacy Commissioner of British Columbia at:
-
-Mailing Address:  
-Office of the Information and Privacy  
-Commissioner for British Columbia  
-PO Box 9038, Stn. Prov. Govt.  
-Victoria, BC V8W 9A4
-
-Location:  
-4th Floor, 947 Fort Street  
-Victoria, BC V8V 3K3
-
-Telephone: (250) 387-5629
-
-For toll-free access, call Enquiry BC at one of the numbers listed below and request to be transferred to (250) 387-5629:  
-Vancouver: (604) 660-2421  
-Elsewhere in BC: (800) 663-7867
-
-Facsimile: (250) 387-1696
-
-E-mail: [info@oipc.bc.ca](mailto:info@oipc.bc.ca)
-
-**Last Updated: May 23, 2012**
+**Last Updated: June 18, 2015**
