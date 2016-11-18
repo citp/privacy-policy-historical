@@ -1,70 +1,17 @@
-> *The following text is extracted and transformed from the quvarsity.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615053633id_/http%3A//www.proretention.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quvarsity.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118222544id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# ProRetention-Student retention software
+# Legal
 
-## Highlights
+* * *
 
-  1. Gives You Foresight About Student Intentions
-  2. Helps Resolve Student Issues
-  3. A Repository of All Academic and Administrative Information
-  4. Incredible and meaningful real-time dashboard
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-
-
-## Your Privacy is important to us!
-
-This statement discloses information practices for www.proretention.com, including the type of information gathered and tracked, how information is used, and with whom the information is shared.
-
-## Personal Information
-
-You can visit our website without telling us who you are or revealing any personal information about yourself. While our site does collect information such as IP address, browser type and operating system, this information does not personally identify you. We collect this information to help us understand our overall audience and improve our site performance.
-
-To download our products or request information, you may be requested to provide personal information, such as your name, telephone number, address and e-mail address.
-
-## Security and Quality of Information
-
-ProRetention™ values the privacy and integrity of your personal information. In order to safeguard this information, we have implemented appropriate technical and organizational measures, such as using encryption for transmission of information to help us keep ensure all information we collect remains secure, accurate, current, and complete.
-
-## Marketing Use
-
-ProRetention™ may use the information you provide on our website for marketing purposes, such as understanding your product requirement or whether your search for information was satisfactory. We may get in touch with you either by calling you on the telephone number provided by you and/or through email. If you have agreed to receive updates from ProRetention™, you will receive regular emails regarding new product lines, release updates, or company news. You can at any point opt-out of receiving email updates from ProRetention™.
-
-## Notification of Changes
-
-This privacy statement was last updated on 01-Dec-2009
-
-## Questions regarding this Statement
-
-If you have any questions about our policy, or you believe ProRetention™. has violated the policy, please send an email to [info@proretention.com](mailto:info@proretention.com)
-
-## STUDENT PORTAL
-
-Strong student relationships form the crux of successful retention programs. **[ProRetention™](http://www.proretention.com/proretention_architecture.html "College Students Retention Software")** Student Portal (SEP) is the virtual space where all student activities are available for future reference. And this is where students and university staff meet and get to know each other better.
-
-  * Student-Profile Update
-  * Student-Contact preference
-  * Lifecycle Information
-  * Problem Ticket
-  * Announcements
-  * Events and Calendar
-  * Articles
-  * Forum
-  * Future Plans
-  * [Improved College Retention](http://www.proretention.com/proretention_studentportal.html "College Students Retention")
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
 
-[Read More ](https://web.archive.org/web/20100615053633id_/http%3A//www.proretention.com/proretention_studentportal.html "Read more about Student Retention Software")
-
-Downloads
-
-  * [Download Brochure](https://web.archive.org/web/20100615053633id_/http%3A//www.proretention.com/ProRetention2pg-02.pdf "Download Brochure")
-  * [Featured Case Study1](https://web.archive.org/web/20100615053633id_/http%3A//www.proretention.com/retention-casestudy1.pdf "Student Retention Case Study1")
-  * [Featured Case Study2](https://web.archive.org/web/20100615053633id_/http%3A//www.proretention.com/retention-casestudy2.pdf "Student Retention Case Study2")
-
-  
-
-
-Follow us on:
-
-[](http://www.linkedin.com/companies/proretention "Follow ProRetention on Linkedin") [](http://www.facebook.com/pages/ProRetention/191581897065?ref=ts "Follow ProRetention On Facebook")
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
