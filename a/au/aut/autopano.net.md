@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autopano.net privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523091053id_/http%3A//www.kolor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autopano.net privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234516id_/http%3A//www.kolor.com/privacy) for the most accurate reproduction.*
 
 # Kolor | Privacy Policy
 
