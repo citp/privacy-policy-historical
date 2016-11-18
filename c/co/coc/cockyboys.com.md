@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cockyboys.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603051754id_/http%3A//cockyboys.com/pages.php%3Fid%3Dprivacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cockyboys.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234833id_/http%3A//cockyboys.com/pages.php%3Fid%3Dprivacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice
 
