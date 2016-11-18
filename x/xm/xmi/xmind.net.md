@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xmind.net privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604200558id_/http%3A//www.xmind.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmind.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000124id_/http%3A//www.xmind.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - XMind: The Most Popular Mind Mapping Software on The Planet.
 
@@ -8,10 +8,11 @@ The privacy policy of XMind, Ltd. covers the collection and use of personal data
 
 XMind, Ltd. collects your personal information to provide you with our products and services in the most convenient and user-friendly way. 
 
-  * Account-Related Activity. Certain products and services offered through our website (collectively, including all content and technology available through the XMind.net and XMind.org domain names, the "Site") such as downloading XMind software and accessing the XMind Share service require you to have an XMind account. We ask for certain personal information when you create an XMind account, including your email address and a password, which is used to protect your account from unauthorized access. When you purchase our products and/or services, we also collect necessary personal information such as your contact and payment information in order to complete the transaction. 
+  * Account-Related Activity. Certain products and services offered through our website (collectively, including all content and technology available through the XMind.net and XMind.org domain names, the "Site") such as downloading XMind software and accessing the XMind Share service require you to have an XMind account. We ask for certain personal information when you create an XMind account, including your email address and a password, which is used to protect your account from unauthorized access. Meanwhile, your XMind ID and password will be saved through particular encryption. Any one including XMind, can not access your XMind account without your personal authorization. When you purchase our products and/or services, we also collect necessary personal information such as your contact and payment information in order to complete the transaction. 
   * Usage Information. We may record information about your usage, such as when you use the Site, the channels, groups, and favorites you subscribe to, the contacts you communicate with, the content you view, and the frequency and size of data transfers, as well as information you display or click on in the Site (including UI elements, settings, and other information). If you are logged in, we may associate that information with your account. We may use clear GIFs (a.k.a. "Web Beacons") in HTML-based emails sent to our users to track which emails are opened by recipients.   
 We may also ask for personal information related to your use of our products and services when you contact our support staff by phone, download software updates, participate in one of our online surveys, or register product information. 
   * Content Uploaded to Site. In general, any personal information or content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your profile pages, etc.) becomes publicly available and can be collected and used by others (collectively "Public Content"). If a "private sharing" feature is available to you and your uploaded content is enabled only for "private sharing," then XMind will exercise commercially reasonable efforts to restrict access only to the people whom you specify in your contact list for that content.
+  * Data storage and transmission with XMind Cloud. Any content uploaded to XMind Cloud will be protected by XMind Ltd to the greatest extent. Industry standard encryption(SSL) is used to protect your data transmission with XMind Cloud, to avoid that your XMind files (including texts, photos, and attachments inside files) are visited, tampered, revealed or damaged during uploading or downloading without your authorization. We request the file storage service companies to strictly perform the obligations of data confidentiality. If the obligations are not well performed, they will be investigated for legal responsibility or their cooperations with XMind will be terminated.
 
 
 
@@ -68,3 +69,5 @@ If you have any comments or questions related to this privacy policy, please con
   * Skype: support.xmind
 
 
+
+Back to Top
