@@ -1,47 +1,17 @@
-> *The following text is extracted and transformed from the newtrendingviralvideos.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924030840id_/http%3A//newtrendingviralvideos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newtrendingviralvideos.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118222544id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# New Trending Viral Videos
+# Legal
 
-We only collect anonymous information.  
-We use technologies like cookies (small files stored by your browser), web beacons, or unique device identifiers to anonymously identify your computer or device so we can deliver a better experience. Our systems also log information like your browser, operating system and IP address.
+* * *
 
-We do not collect personally identifiable information about you. In other words, we do not collect information such as your name, address, phone number or email address.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-We do not knowingly contact or collect personal information from children under 13. If you believe we have inadvertently collected such information, please contact us so we can promptly obtain parental consent or remove the information.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-We do not store or share your precise location.  
-  
-We do not use or collect your precise geographic location.
 
-You can request to see or delete your personal data.  
-  
-You can sign into your account to see or delete any personally identifiable information we have stored, such as your name, address, email or phone number. You can also contact us by email to request to see or delete this information.
 
-We keep personal data for a limited period.  
-  
-Our systems are designed to retain log data for up to [TIME PERIOD] after it is collected. We remove personally identifiable information (such as your name, address, email or phone number) and other preferences associated with your account promptly after you delete your account.
-
-We don't share your personal data with other companies.  
-We generally do not share personally identifiable information (such as name, address, email or phone) with other companies.
-
-No ad companies collect data through our service.  
-We do not allow advertising companies to collect data through our service for ad targeting.
-
-You can ask privacy questions.  
-If you have any questions or concerns about our privacy policies, please contact us:  
-[CONTACT FORM URL] OR [EMAIL]  
-[PHYSICAL MAILING ADDRESS]
-
-Analytics providers access data on our behalf.  
-Analytics companies may access anonymous data (such as your IP address or device ID) to help us understand how our services are used. They use this data solely on our behalf. They do not share it except in aggregate form; no data is shared as to any individual user. Click to see company privacy policies that govern their use of data.
-
-We take steps to protect personal information  
-We take reasonable steps to secure your personally identifiable information against unauthorized access or disclosure. We encrypt transmission of data on pages where you provide payment information. However, no security or encryption method can be guaranteed to protect information from hackers or human error.
-
-Information we collect may be stored or processed on computers located in any country where we do business.
-
-Special situations may require disclosure of your data.  
-To operate the service, we also may make identifiable and anonymous information available to third parties in these limited circumstances: (1) with your express consent, (2) when we have a good faith belief it is required by law, (3) when we have a good faith belief it is necessary to protect our rights or property, or (4) to any successor or purchaser in a merger, acquisition, liquidation, dissolution or sale of assets. Your consent will not be required for disclosure in these cases, but we will attempt to notify you, to the extent permitted by law to do so.
-
-You can review more privacy-related information.  
-This privacy policy was last updated on [DATE]. Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email, push notification or text. 
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
