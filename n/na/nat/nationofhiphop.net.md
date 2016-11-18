@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationofhiphop.net privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218202808id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationofhiphop.net privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118222544id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
 # Legal
 
