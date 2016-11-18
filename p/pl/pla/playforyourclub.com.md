@@ -1,151 +1,111 @@
-> *The following text is extracted and transformed from the playforyourclub.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627112916id_/http%3A//www.timeincuk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playforyourclub.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235353id_/http%3A//www.mousebreaker.com/privacy-policy) for the most accurate reproduction.*
 
-# TimeIncUK.com Official Website|privacy policy
+# Free online games at Mousebreaker.com
 
-This Privacy Policy explains the practices employed by Time Inc. (UK) Ltd in collecting and using your information and the ways in which you can influence these. This Privacy Policy relates to websites operated from time to time by Time Inc. (UK) Ltd. 
+**PRIVACY POLICY**
 
-Time Inc. (UK) Ltd will collect various types of information about you through your use of our websites to process your requests and orders, to provide a more personalised web-surfing and shopping experience and to help us improve the services we offer. In doing this we may also collect anonymous information about you through the use of cookies. Time Inc. (UK) Ltd will be the Data Controller of any personal data we collect about you. 
+This privacy policy (hereafter referred to as the "Privacy Policy") is applicable to our websites and to all games and other activities that are offered by us on or through our websites. (Our websites, all the web pages that are part of the websites, and such games and activities are hereafter collectively referred to as the "Websites.") SPIL GAMES BV, having its registered office at Mussenstraat 15, 1223 RB, Hilversum, the Netherlands (hereafter referred to as "SPIL"), is the responsible party as referred to in the Dutch Personal Data Protection Act (Wet Bescherming Persoonsgegevens). SPIL may use affiliates' or reputable third parties' services for the processing of personal data collected on or through the Websites. By using or accessing our Websites, you are accepting the practices described in this Privacy Policy. 
 
-**What information do we collect about you?**
+**1.   ** **About Our Websites**
 
-Through Time Inc. (UK) Ltd websites you can, amongst other things, order products and services, enter competitions, subscribe to our publications, vote in polls, play games, complete surveys and place postings on forums. 
+1.1    Our Websites offer a diverse, current, and exciting mix of online games created by SPIL, as well as games created by independent developers and SPIL partners. Players can access our Websites to play games without registering; however, they may choose to register to create a public or semi-public profile and to save games, high scores, and comments on this profile. Also, visitors to the Websites will be able to rate games and browse for the newly added, top-rated, and most-popular games. 
 
-In order to process your requests and orders and other activities, it may be necessary to collect personally identifiable information about you. The type of personally identifiable information that may be collected includes, but is not limited to: your name, address, e-mail address, telephone number, credit/debit card information. You may also be asked to provide additional (non-mandatory) pieces of information for our research purposes or choose to provide information by making a posting on a forum.
+**2.   ** **The Information We Collect**
 
-In addition, we may collect anonymous information about you and your website usage through the use of cookies. Such information will not be personally identifiable to you. If you choose, you may opt out of allowing our cookies to collect information about you. For further information please go to the section on cookies below.
+The information that our Websites collect includes (among others) the following: 
 
-Some Time Inc. (UK) Ltd websites offer services that require you to set up an account prior to receiving such services. To create a secure account you may use your email address and a password or, if the Time Inc. (UK) Ltd website offers a Facebook single-sign-on service, you will be able to register for and log in to your Time Inc. (UK) Ltd website account using your Facebook account. 
+**a)    ** **IP address, Cookies, and Web Beacons**
 
-If you choose to use the Facebook single-sign-on service we will gain access, upon your explicit consent, to your basic Facebook profile information, such as your name, profile picture and list of friends and any other information notified to you by Facebook prior to you completing the single-sign-on authorisation process. 
+2.1    When you visit our Websites, our servers automatically save your computer's IP address. IP addresses will be collected, along with information about the actual web pages that you visit on the Websites. If you arrive at the Websites via a link from another website, the URL of the linking website and the URL of any website that you link to next will also be collected. 
 
-**How will we use the information about you?**
+2.2    In addition, we store certain information from your browser, using "cookies." A cookie is a piece of data stored on the user's computer and is tied to information about the user. SPIL may use cookies, web beacons (web bugs), or similar technologies to enhance and personalize your experience on the Websites, including the following: 
 
-We will use the personal information you provide to us to process your orders and requests. We may also use this information to communicate with you directly, for example to notify you in the event you have won a competition or to contact you in relation to an account you hold with us. 
+(a) to operate and improve offerings on the Websites; 
 
-We will use the anonymous information we collect about you to analyse web usage and compile aggregate statistics about our users. We will use this non-personally identifiable information, for advertising and marketing purposes and to enable us to provide a more personalised internet experience. For further information please go to the section on cookies below.
+(b) to help authenticate you when you are on the Websites; 
 
-**Marketing**
+(c) to remember your preferences and registration information, as applicable; 
 
-From time to time we will ask you whether you wish to receive marketing material from Time Inc. (UK) Ltd containing information about our products and services. If you do not wish to receive such information please ensure that you opt-in or opt-out of receiving such information as appropriate. If you have consented to receiving such material you may opt-out at a later stage from: 
+(d) to present and help measure and research the effectiveness of SPIL's offerings, advertisements, and email communications; and 
 
-  * Emails - by clicking on an email unsubscribe link;
-  * SMS - by following the instructions in any SMS message received;
-  * Post or telemarketing - by writing to The Head of Database Marketing at Time Inc. (UK) Ltd, Blue Fin Building, 110 Southwark Street, London SE1 0SU.
+(e) to customize the content and advertisements provided to you through the Websites. 
 
+2.3    SPIL may also use ad network providers to help present advertisements on the Websites. These ad network providers use cookies, web beacons, or similar technologies to help the presenting, better targeting, and measuring of the effectiveness of their advertisements, using data gathered over time and across their networks of web pages to determine or predict the characteristics and preferences of their audiences. SPIL offers some services in connection with other websites. Personal information that you provide to those sites may be sent to SPIL in order to deliver these services. SPIL processes such information in accordance with this Privacy Policy. 
 
+2.4    SPIL may also use third-party payment service providers ("PSP"), offering payment transaction services to SPIL in order to sell a product or service through the Websites. Whenever you buy something from the Websites (e.g., a virtual game item or a subscription for a game download), the information that you provide to the PSP is subject to their privacy policies, not ours. You explicitly consent that SPIL may provide personal information collected from you to a PSP for the purpose of the offering of the payment-transaction service whenever you buy something from the Website(s) and that such PSP may use such data for (statistical) analysis of payment transactions. SPIL shall be allowed to notify a PSP regarding a user that engages in (or who a party believes has engaged in) any activity that is illegal, that violates any person's rights, or that led to such user's suspension or termination of use of the Websites. 
 
-Upon registration for competitions or other online services you may, in some cases, be automatically opted-in to receive e-mail marketing, newsletters or partner promotions containing material. If this is the case you may unsubscribe to receiving such marketing material at any time by clicking on the e-mail unsubscribe link.
+2.5    SPIL may share demographic information (certain anonymous information about you as a user, such as age and country) with certain ad network providers to help them deliver more relevant advertisements through their ad networks. The use of cookies, web beacons, or similar technologies by such third parties as ad network providers is subject to their own privacy policies, not this Privacy Policy. 
 
-**What will we disclose to third parties?**
+2.6    Most browsers are initially set to accept cookies, but you can (re)set your browser to refuse all cookies, or to indicate when a cookie is sent. You can opt out of receiving cookies from certain third-party advertising networks by resetting your browser. You may also use the following link to the Network Advertising Initiatives cookie [opt-out page](http://www.networkadvertising.org/choices) or the link to the [European Interactive Digital Advertising Alliance (EDAA) opt-out page](http://www.youronlinechoices.com/). However, keep in mind that some features and services may not function properly if cookies are disabled. 
 
-If you consent we may sell, rent or trade your personal information to third parties for their marketing purposes. Such third parties will be carefully selected and registered with the Information Commissioner.
+**b)    ** **Personal Data, Including Your E-mail Address**
 
-We may also pass your personal information to third parties to enable them to process a request, order or service; or to supply you with a prize in the event you win a competition or in order to obtain professional advice.
+2.7    You may choose to register with us for a better game experience and/or to create a public or semi-public profile for participating in our social gaming network. This includes, for example: overviews of high scores, achievements listings, and individual game recommendations on the Websites. When you register with us, you provide us with certain personal information, such as a username, date and month of birth, and your email address. The information you disclose in that respect may also become publicly accessible. We provide you with privacy settings that restrict other users from accessing your information; namely, our network architecture and your privacy settings allow you to make informed choices about who has access to your information. We allow you to choose the information you provide to friends and networks through our Websites. When your privacy settings permit it, other users may be able to see and supplement your profile (e.g., by posting comments). 
 
-We may provide anonymous, non-personally identifiable aggregate information to advertisers and our business partners, including information relating to sales and web-usage, to enable us to sell advertising and monitor the efficacy of our business partnerships. We may also pass such statistical information onto reputable third parties for onward sale.
+2.8    If you decide to disclose information in a public venue or in games, we will consider that information as part of the public domain. This information will be accessible to any person who uses the Websites. 
 
-It is possible that Time Inc. (UK) Ltd could merge or be acquired by another business. If this happens we may share the information that relates to you. You will be sent notice of such an event. Time Inc. (UK) Ltd reserves the right to disclose personally identifiable information in order to comply with the law, applicable regulations and government requests. We also reserve the right to use such information in order to protect our operating systems and integrity as well as other users.
+2.9    We only collect email addresses that were provided to us directly by you. Your email address will only be used for the following purposes: 
 
-Any third parties employed by us to process your data on our behalf are subject to contractual obligations to protect the security of your data in accordance with the terms of this Privacy Policy.
+(i) the promotion of (new) games; 
 
-**How do we protect your information?**
+(ii) service emails (on updates, new design, new features, etc.); 
 
-Once we have received your data we will ensure that it is treated with the utmost respect and in accordance with the Data Protection Act 1998 and any applicable regulations. Your data will be stored on our secure server within the UK. We follow strict security procedures in order that the data we collect is stored and disclosed appropriately and securely. Unfortunately the transmission of information via the internet is not completely secure. Although Time Inc. (UK) Ltd will do its best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. 
+(iii) administrative purposes, such as notification of violation of our _Terms of Use;_
 
-**Other Websites**
+(iv) delivering messages you have allowed us to pass on (e.g., from other people in your social network). 
 
-Please note that clicking on links and advertisements on our websites may result in your transferral to another website, where data privacy practices may vary to that of Time Inc. (UK) Ltd's. If transferred to another site you should consult their privacy policy as we are not responsible for and have no control over information that is submitted to or collected by these third parties. 
+2.10  Without your approval, we will not: 
 
-**Changes to our privacy policy**
+(a) make your email address visible on the Website; 
 
-Time Inc. (UK) Ltd keeps this privacy policy under review and may update it at any time. Any updates will be made on this page so that you can always find out what information we collect, how we use it and under what circumstances we will disclose it. 
+(b) use your email address for purposes other than those described in article 2.9 hereof; 
 
-**How to contact us**
+(c) transfer your email address or other personal information to third parties, except in those limited cases as described in this Privacy Policy. 
 
-If you have any queries relating to the Time Inc. (UK) Ltd Privacy Policy please contact us by writing to The Head of Database Marketing, Time Inc. (UK) Ltd Limited, Blue Fin Building, 110 Southwark Street, London SE1 0SU. 
+**c)     ** **Combination of Personal Data**
 
-**COOKIES**
+2.11  For optimizing our services and the Websites, and for the purposes mentioned in this article 2, we are entitled to combine your personal data (including your email address, as applicable) with other information about you collected by or provided to us. 
 
-**What is a cookie?**
+**3.   ** **To Whom Does SPIL Provide This Information?**
 
-A cookie is a small text file that we, and in certain circumstances third parties, place on your browser when you visit our websites or open some of our emails. Cookies, amongst other things, allow Time Inc. (UK) Ltd to recognise you each time you re-visit one of our websites and provide you with a more personalised user experience. There are in existence a variety of different cookies which are designed for use in specific sets of circumstances. 
+3.1    SPIL may provide information to any party whose services it engages for the purposes of its normal operations (for example, those partners who assist us by providing technical or operational facilities for the Websites and so forth). We may also supply information to other parties if we are required to do so by law or by a ruling handed down by a court of law. SPIL does not provide personal details to other parties for commercial, advertising, or marketing purposes, except if you explicitly give us permission to do so, or if doing so is part of a specific program or operation for which you have registered. In such case, you may withdraw your permission at any time. 
 
-**How do we and third parties use cookies?**
+**4.   ** **Why Do We Collect Information?**
 
-You should be aware that information on you may be collected through the use of cookies when you use Time Inc. (UK) Ltd websites and/or selected third party sites. It is essential that we use some cookies in order to provide you with the services you have requested from us. Some cookies, however, whilst useful, are not essential, and when using Time Inc. (UK) Ltd websites you agree to the use of these non-essential cookies unless you specifically set your browser to reject them. Please see 'How to manage or refuse cookies' below for further details. 
+4.1    We use personal details and other information to maintain the general and personified content and functionality of the Websites. In addition, we use personal details to make it possible to accommodate your requests, and so that we are able to provide you with service when using (one of) our Websites and for the purposes set out elsewhere in this Privacy Policy. 
 
-When you initially enter one of our sites we may place an anonymous cookie on your browser to enable us to recognise you the next time you visit the website. We may also place a further cookie on your browser when you register for one of our services, this will enable us to remember you next time you come to sign in, eliminating the need for you to re-enter your login details and customising your future uses of our sites. 
+**5.   ** **Access to the Information We Have Collected about You**
 
-Cookies may also be used to track your use of Time Inc. (UK) Ltd websites to better develop them, for example, determining which parts of the websites are more popular and determining content accordingly. 
+5.1    Your personal data will be stored by SPIL. 
 
-We may also place cookies on your browser to provide you with behavioural advertising and monitor the advertising on our sites to, amongst other things, ensure that you are not subjected to intrusive advertising. 
+5.2    Users with a personal profile on the Websites may review, update, or delete personal data collected by us by clicking on the appropriate link in the personal profile. 
 
-Small pieces of code called pixel tags, web beacons or GIF files, are used in conjunction with cookies to help us manage and monitor our online advertising and wider business arrangements with third parties. These files will allow us to aggregate anonymous information relating to advertising and website usage. The type of information collected includes, but is not limited to, information relating to advertising responses, page views, promotion views and purchases made. Such pixel tags may be used to recognise third party cookies (cookies generated by third parties) and inform us and/or third parties of which advertisement or link brought you to our website, allowing us to monitor the efficacy of our business relationships with third parties. Please see the section below entitled 'Use of different cookies' for more detail on the various cookies in use by Time Inc. (UK) Ltd and how they work.
+5.3    In general, if you wish to have access to your personal data to correct or delete the information that we have collected about you, please send a written request to SPIL GAMES BV, Arendstraat 23, 1223 RE, Hilversum, the Netherlands, detailing your request and the data you have provided to us along with a copy of your passport (to prevent misuse of requests for information), or send an email with all such information to [info@spilgames.com](mailto:info@spilgames.com). 
 
-**How to manage or refuse cookies**
+5.4    _Parents of users under the age of 16_ : If you wish to have access to your child's personal data to view, correct, or delete the information that we have collected about your child, please send a written request to SPIL GAMES BV, Arendstraat 23, 1223 RE, Hilversum, the Netherlands, detailing your request along with a copy of your passport (to prevent misuse of requests for information), or send an email with all such information to [info@spilgames.com](mailto:info@spilgames.com). 
 
-If you do not want your browser to accept cookies and use them in the ways described above it is possible to change your browser settings. It is also possible to delete existing cookies from your browser. However blocking all cookies will affect your web experience and may result in some parts of Time Inc. (UK) Ltd websites not functioning properly. Some cookies are designed to help save you time, for example, by remembering your contact details when you are making an order for the second time â€" this means that you will not have to complete the contact section again unless your details have changed. The procedure for modifying your privacy preferences is different for each internet browser and we recommend you visit the following websites for further information on altering your cookie settings:
+**6.   ** **Security**
 
-www.aboutcookies.org 
+6.1    You post personal data and any other content on the Websites at your own risk and in accordance with article 7 ("Your Responsibilities") of the Terms of Use. Although we allow you to set privacy options that limit access to such personal data and other content, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other users with whom you choose to share your profile and information. Therefore, we cannot and do not guarantee that any content you post on the Websites will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Websites. You understand and acknowledge that, even after removal, copies of personal data or content may remain viewable in cached and archived pages, or if other users have copied or stored your personal data or content. 
 
-www.allaboutcookies.org 
+6.2    We have implemented appropriate measures to safeguard and help prevent unauthorized access, to maintain data security, and to correctly use the information we collect online. Your personal data visible on the Websites (such as any public comments posted by you and/or any data in your profile) are accessible to third parties, and you acknowledge and agree that such third parties are able to copy such information to their own websites or other locations. ****
 
-For more detailed information on how to clear or disable all of your browser cookies, please go to http://www.google.com/support/accounts/bin/answer.py?answer=32050&hl=en 
+6.3    Your personal data will only be stored for a period necessary for your uses of the Websites for the purposes as described in this Privacy Policy. 
 
-**Use of different cookies**
+**7.   ** **Miscellaneous**
 
-We will use different cookies at various different stages of your use of our websites.
+7.1    We reserve the right to amend our Privacy Policy. Amendments will be effective as of the moment of publication on the Websites. You should check the Websites regularly for amendments. 
 
-**Tracking and Customisation Cookies**
+7.2    The Internet is a global environment, and using the Internet necessarily involves the collection and processing of personal data on an international basis. Therefore, by using (one or more of) our Websites, you acknowledge and agree to our processing of personal data in this way. 
 
-These are used to recognise repeat visitors to Time Inc. (UK) Ltd websites and customise the visitor experience, as described above. They may also be used in conjunction with other information we or our third party partners hold to attempt to record specific browsing information (for example, regarding the way visitors arrive at Time Inc. (UK) Ltd websites, pages viewed, options selected, information entered and the path taken through the Time Inc. (UK) Ltd websites).
+7.3    Our Websites may contain links to other websites. We are not responsible for the privacy practices of other websites. We encourage users to be aware when they leave our site to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy applies solely to information collected by us. 
 
-**Session Cookie**
+7.4    In the event of a transfer of (one of our) Websites to a third party, we may transfer to such third party all personal information that we collected about you in accordance with this Privacy Policy. In such an event, users who have provided email addresses to us will be notified when information about those users is transferred and becomes subject to a different privacy policy. 
 
-These are used to maintain your session when you sign in on Time Inc. (UK) Ltd websites, allowing you to access Time Inc. (UK) Ltd's online services without the need to sign in on every page you visit. The session cookie is used to tailor advertising to you on Time Inc. (UK) Ltd online services and websites and selected third party websites. If you opt out of tailored advertising, we stop using this cookie for this purpose. 
+7.5    We also have Terms of Use that are applicable to your use of the Websites. In the case of a contradiction between the Terms of Use and this Privacy Policy, this Privacy Policy prevails. 
 
-**Survey and Exposure Cookie**
+7.6    This Privacy Policy shall be governed by the laws of the Netherlands and submitted to the exclusive jurisdiction of the courts in the Netherlands. 
 
-This is provided by Survey Interactive for Time Inc. (UK) Ltd website survey purposes. Storing this cookie allows the accurate measurement of advertising on Time Inc. (UK) Ltd websites, should you subsequently choose to participate in an advertisement effectiveness survey. If you do not choose to participate in an advertisement effectiveness survey, this cookie will expire without being used. 
+If you have any additional questions or requests, you may send an email to [info@spilgames.com](mailto:info@spilgames.com). 
 
-**Advertising Cookies**
-
-In addition Time Inc. (UK) Ltd works with third parties for the purpose of delivering targeted behavioural advertising to the Time Inc. (UK) Ltd websites. Through the use of cookies, anonymous information about your use of our websites and other websites will be used to provide more relevant adverts about goods and services of interest to you. Specific cookies used by Time Inc. (UK) Ltd in relation to behavioural advertising include: 
-
-**Audience Science**
-
-The cookie enables behavioural advertising. Audience Science is Time Inc. (UK) Ltd's partner for providing this service and provides behavioural advertising through the use of "audience segments". Cookies are used by Audience Science to provide you with advertising based on content that you have previously viewed on TIME INC. (UK) LTD websites and other third party websites. If you do not wish to receive this behavioural advertising you may opt-out at http://www.youronlinechoices.com/uk/your-ad-choices . We may also share behavioural data with other websites. This may mean that when you are on other websites you are served advertising based on your behaviour at TIME INC. (UK) LTD websites and on Time Inc. (UK) Ltd websites you may be served advertising based on your behaviour on other sites. Please visit audiencescience.com/privacy.asp to view the privacy policy of Audience Science.
-
-For more information on online behavioural advertising and about how to turn this feature off, please visit http://www.youronlinechoices.com/opt-out.
-
-Opting out 'opt-out' cookie to your device. Please note that if you subsequently delete all of your cookies you will also delete the Audience Science opt-out cookie.
-
-Adtech Adtech serves advertising to Time Inc. (UK) Ltd websites. When an advertisement is requested by a website, Adtech receives information from your browser which influences the type of advertisement displayed. To opt-out of Adtech using this cookie data please visit http://www.adtech.com/cookie_opt-out/. When you opt out, Adtech will send an 'opt-out' cookie to your device. Please note that if you subsequently delete all of your cookies, you will also delete this opt-out cookie. 
-
-Opting out of behavioural advertising or adtech tracking does not mean that you will no longer receive advertising when you are using Time Inc. (UK) Ltd websites. It simply means the advertising you see will not be customised for you.
-
-More general information about behavioural advertising can be found at www.youronlinechoices.com.
-
-**Research Cookies**
-
-Nielsen Nielsen is a measurement and research company that gathers data across TIME INC. (UK) LTD websites through using cookies and pixel tags for the purposes of gathering research data on the traffic and users across Time Inc. (UK) Ltd websites. To find out how Nielsen use the information collected and how to opt out please visit http://www.nielsen-online.com/privacy.jsp?section=leg_scs 
-
-**Cookies placed independently by third parties**
-
-The majority of adverts you see on Time Inc. (UK) Ltd websites will have been placed by third parties. These third parties may choose to generate their own cookies for the purposes of collecting anonymous information relating to the viewing of their advertising. The information collected cannot be used to personally identify someone. You can find out more about this method of advertising by visiting these sites: 
-
-<http://www.youronlinechoices.com/uk/your-ad-choices>
-
-[http://www.google.com/ads/preferences/html/about.html ](http://www.google.com/ads/preferences/html/about.html)
-
-[http://www.rubiconproject.com/privacy/ ](http://www.rubiconproject.com/privacy/)
-
-[http://www.grapeshot.co.uk/privacy.php ](http://www.grapeshot.co.uk/privacy.php)
-
-[http://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy/ ](http://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy/)
-
-[http://collective.com/privacy ](http://collective.com/privacy)
-
-<http://www.inskinmedia.com/privacypolicy.html>
-
-[http://www.outbrain.com/privacy ](http://www.outbrain.com/privacy)
+100209 
