@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scarymommy.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510114443id_/http%3A//www.scarymommy.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scarymommy.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233921id_/http%3A//www.scarymommy.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy –
+# Privacy Policy – Scary Mommy
 
 **Last Changes to Privacy Policy: September 18, 2015           **
 
