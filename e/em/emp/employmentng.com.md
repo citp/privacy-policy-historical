@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the employmentng.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513084419id_/http%3A//www.employmentnigeria.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the employmentng.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234546id_/http%3A//www.employmentnigeria.com/policy) for the most accurate reproduction.*
 
 # Policy Of Use | Employment Nigeria
 
