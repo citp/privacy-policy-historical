@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbarendezvous.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505151121id_/http%3A//www.mbarendezvous.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbarendezvous.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119005542id_/http%3A//www.mbarendezvous.com/privacy-policy) for the most accurate reproduction.*
 
 # MBA Rendezvous - Privacy Policy
 
