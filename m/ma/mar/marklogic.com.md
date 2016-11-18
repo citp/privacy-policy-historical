@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marklogic.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528000858id_/http%3A//www.marklogic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marklogic.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118031718id_/http%3A//www.marklogic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MarkLogic Corporation
 
