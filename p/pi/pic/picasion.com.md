@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the picasion.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614205812id_/http%3A//picasion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picasion.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233319id_/http%3A//picasion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Picasion - Create GIF animations online - Make an Animated GIF
 
 **_Picasion: Animated GIF maker_**  
-Create Animated GIF online for free! [Upload](https://web.archive.org/upload-pictures/) your pictures or grab them from [Flickr](https://web.archive.org/import-flickr/) or [Picasa Web](https://web.archive.org/import-picasa/), make avatars or funny animations and post them to MySpace, Hi5, Facebook, eBay, Orkut, Bebo, Digg, QQ, Friendster, etc. No need for Flash. 
+Create Animated GIF online for free! [Upload](https://web.archive.org/upload-pictures/) your pictures or grab them from [Flickr](https://web.archive.org/import-flickr/) or [Picasa Web](https://web.archive.org/import-picasa/), make avatars or funny animations and post them to Tumblr, MySpace, Hi5, Facebook, eBay, Bebo, Digg, QQ, etc. No need for Flash. 
 
 Create animated avatar or MySpace avatar at Picasion (animated gif generator/tool/maker/animator)! 
 
