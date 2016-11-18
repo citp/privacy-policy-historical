@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the davidyurman.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054712id_/http%3A//www.davidyurman.com/david-yurman/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidyurman.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118215815id_/http%3A//www.davidyurman.com/david-yurman/privacy-policy.html) for the most accurate reproduction.*
 
 # Online Privacy Notice
 
 Online Privacy Notice | David Yurman
 
-**Online Privacy Notice  **
-
-Effective Date: **8/27/2015**
+**Online Privacy Notice**   
+Effective Date: 9/16/2015
 
 We at David Yurman Enterprises LLC (“David Yurman”) respect your concerns about privacy. This Online Privacy Notice describes the types of personal information we collect at www.DavidYurman.com (the “Site”), how we use the information, with whom we share it and the choices available to users of our Site regarding our use of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.
 
@@ -15,6 +14,10 @@ Our privacy practices may vary among the countries in which we operate to reflec
 ·         France
 
 ·         People’s Republic of China
+
+**NOTICE TO CALIFORNIA RESIDENTS**
+
+To the extent required by applicable law, California residents may ask us to provide them with (i) a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (ii) the identity of those third parties. To make this request, California residents may contact us as specified in the How to Contact Us section below.
 
 **INFORMATION WE COLLECT**
 
@@ -72,15 +75,11 @@ Our Site is not designed to respond to “do not track” requests from browsers
 
 **INFORMATION WE SHARE**
 
-We do not sell or otherwise disclose personal information we collect about you, except as described in this Online Privacy Notice. We may share personal information with service providers who perform services on our behalf based on our instructions. For example, Neiman Marcus Direct serves as our fulfillment agent. We do not authorize our service providers to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. We also may share certain personal information with our affiliates for the purposes described in this Online Privacy Notice. In addition, we may share personal information with third parties whose products or services may interest you.
+We do not sell or otherwise disclose personal information we collect about you, except as described in this Online Privacy Notice. We may share personal information with service providers who perform services on our behalf based on our instructions.. We do not authorize our service providers to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. We also may share certain personal information with our affiliates for the purposes described in this Online Privacy Notice. In addition, we may share personal information with third parties whose products or services may interest you.
 
 We also may share personal information with third-party database providers that other companies may use for their own purposes, including marketing. You have the option to prevent disclosure of your information in connection with a marketing database. Accordingly, you may object at any time free of charge to the use of your personal information in connection with a marketing database or withdraw any consent you previously provided to us and we will apply your preferences going forward. If you do not wish for your personal information to be used in connection with a marketing database for direct marketing purposes, you may ask us to opt out of this use by contacting us as indicated in the “How To Contact Us” section of this Online Privacy Notice.
 
 In addition, we may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government entities, and (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity. We also reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation).
-
-**NOTICE TO CALIFORNIA RESIDENTS**
-
-To the extent required by applicable law, California residents may ask us to provide them with (i) a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (ii) the identity of those third parties. To make this request, California residents may contact us as specified in the How to Contact Us section below.
 
 **YOUR RIGHTS AND CHOICES**
 
@@ -106,8 +105,7 @@ This Online Privacy Notice may be updated periodically and without prior notice 
 
 If you have any questions or comments about this Online Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by email at [CUSTOMERCARE@DAVIDYURMAN.COM](mailto:customercare@davidyurman.com).You also may write to:
 
-Customer Care
-
+Customer Care  
 David Yurman Enterprises LLC  
 24 Vestry Street  
 New York, NY 10013
@@ -122,7 +120,7 @@ If you are a resident of France, the following France-specific provisions apply 
 
 ·         Only authorized personnel of David Yurman, its affiliates and our service providers will have access to your personal information.
 
-·         We will not share your personal information with other third parties (such as database providers) for those third parties to market their products or services to you without your consent. 
+·         We will not share your personal information with other third parties (such as database providers) for those third parties to market their products or services to you without your consent.
 
 ·         Some of our staff members (including our IT and marketing personnel) and our service providers are located in the United States.  They will have access to your information for global customer relationship management purposes or to perform services on our behalf.
 
@@ -140,7 +138,7 @@ Attn:  **Customer Care - France**
 
 If you are a resident of China, in addition to the relevant sections of the Online Privacy Notice, the following China-specific provisions apply to our processing of your personal information:
 
-We may process your personal information using automated processing methods to:
+·         We may process your personal information using automated processing methods to:
 
 o   Communicate with you about, and administer your participation in, special events, programs, product introductions, offers and special promotions, surveys and market research; and
 
