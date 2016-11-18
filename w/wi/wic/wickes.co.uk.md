@@ -1,59 +1,77 @@
-> *The following text is extracted and transformed from the wickes.co.uk privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514030850id_/http%3A//www.wickes.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wickes.co.uk privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233051id_/http%3A//www.wickes.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This website is operated by Wickes Building Supplies Limited ("we" or “us”). We are committed to protecting your privacy and we comply with the data protection laws applicable to the United Kingdom. This Privacy Policy, together with our [Cookies Policy](https://web.archive.org/cookies) , explains how we use any information we collect about you and forms part of our [Conditions of Website Use](https://web.archive.org/termsofuse).
+When you shop with Wickes or visit our website, you trust us with your information. This Privacy Policy explains what information we collect and how we use it.
+
+Wickes is committed to protecting your privacy and complying with the data protection laws in the United Kingdom. This Privacy Policy, together with our [Cookies Policy](https://web.archive.org/cookies), explains how we use any information we collect about you and forms part of our [Conditions of Website Use](https://web.archive.org/termsofuse).
 
 #### Information we collect from you and how we use it
 
-We will collect information about you when you open an account, register with this website, place an order for products or services, request further information from us or if you wish to contact your local branch. The type of information we may collect includes your name, postal address, job title, e-mail address and telephone number so that we can contact you accordingly.
+\- We will collect information about you when you:  
+\- buy or return things in store,  
+\- use our click and collect or delivery services,  
+\- shop online (either as a guest or using your account),  
+\- enter a competition, or  
+\- sign up for news and offers.
 
-When you enter a competition or promotional feature, we may also ask for your name, postal address, e-mail address and telephone number so we can administer the competition and notify winners.
+The information we collect may include such items as your name, address, email address, telephone number and payment details.
 
-We may also obtain information about your usage of this website using [Cookies](https://web.archive.org/cookies).
-
-Separate terms and conditions may apply when you open an account or if you decide to participate in a competition so please make sure that you read these at the relevant time.
+We may also collect information about how you use the Wickes website, using [Cookies](https://web.archive.org/cookies). You can find out more about this [here](https://web.archive.org/cookies).
 
 #### How do we use the information we collect about you?
 
-We may use the information provided by you:
+We may use the information provided by you in a variety of ways, including:
 
-\- to process your order or manage your account (if applicable),   
-\- to contact you for your views on our services,   
-\- to notify you about important changes or developments to our site or services,   
-\- to provide a more personalised online experience,  
-\- for record keeping purposes,  
-\- to keep you informed about our products and services that we offer. If you agree, we may also pass your information to other companies in the Group so that they keep you informed about the products or services which they offer. For more information see the paragraph below, and   
-\- for market research purposes, on an anonymous basis to track activity on our site, to publish trends and/or to improve usefulness and content,
+\- to answer your questions or provide you with information you have requested,   
+\- to to process your order or manage your account,   
+\- to help with any questions if you have started an order but not completed it,   
+\- to provide a more personalised online experience by showing you the most relevant products and offers,   
+\- to keep track of sales and enquiries,  
+\- to monitor how our customers transact with us in store and online, for example by checking who has redeemed vouchers or bought items using our mobile app, website or other facility (for more information see Understanding Our Customers below),   
+\- to contact you for your views on our products and services,   
+\- to keep you informed about the products and services that we offer (for more information on your choices see Keeping You Informed below),   
+\- for market research purposes, by tracking activity on our site or in store (on an anonymous basis) to identify trends and/or to improve usefulness and content, and   
+\- to notify you about important changes or developments to our site or services. 
 
 We only retain your information for a limited period in order to respond to your query, provide you with the information you require or to send you updates on our products and services for as long as you indicate that you are happy for us to do so. We are required to keep some records for a longer period of time to meet our legal obligations.
 
 #### Keeping you informed
 
-If you have bought or enquired about our products or services previously, we may also use the information we collect to let you know about other products and services which may be of interest to you and to keep you updated with information about promotional offers and what is coming soon at Wickes. If you agree, we would also like to send you information about the products and services offered by other companies in our Group. 
+If you have bought or enquired about our products or services, created an account or registered on the site we may use the information we collect to let you know about other products and services which may be of interest to you and to keep you updated with information about promotional offers and what is coming soon at Wickes.
 
-If the email address you have provided to us is a corporate email address, we may contact you at any time to let you know about our products and services.
+You will be able to let us know if you no longer want to receive material from us each time you receive something, as all the marketing we send you will include instructions on how to stop receiving such items. Bear in mind that if you opt out of text or email marketing you may not receive voucher codes and other offers.
 
-However, you will be able to let us know if you no longer want to receive material from us each time that you receive a communication by following the link to unsubscribe.
+#### Understanding Our Customers
+
+So that we can provide a better service, we want to understand the shopping patterns of our customers, how customers select the products and services they ultimately buy, which apps and technology customers prefer to use, and how successful our advertising and promotional campaigns have been. We may use a number of different techniques to do this:
+
+\- We never see or store your payment card details. We do use a unique encrypted token that can tell the same payment card is used in different places (in store, online or on the Wickes app). This helps us build a complete picture of all the things people buy from Wickes;   
+\- We monitor which customers redeem vouchers using a code that makes the offer personal to you;   
+\- When you order goods in store to be delivered, we will ask for your marketing choices as we would like to send you information about other products and services that may be of interest. We may also link your in-store order details with your online account information and your shopping patterns on our website and mobile app so we have a complete picture of all the things you buy from Wickes;   
+\- We may monitor other websites you visit and the goods and services you look for using search engines in order to provide you with information about products and services from Wickes which are most relevant to you;   
+\- We may connect with social media sites so that we can better target our advertising while you are using these services and improve the relevance of what you see. 
+
+We also use cookies to track online activity. You can find out more about this in our Cookies Policy. The information collected by cookies does not in itself identify a visitor to our site but if you are a customer or account holder we may be able to identify you from both sets of information combined.
 
 #### Disclosing your data
 
-We never make your personal details available to companies outside of the Travis Perkins group for marketing purposes and will only disclose your personal details to other companies within the Travis Perkins group if you have agreed to us doing so. 
+Wickes is part of the Travis Perkins Group. We never make your personal details available to companies outside of the Travis Perkins Group for their own marketing purposes.
 
-However, we may use other companies to provide services to you on our behalf. These services may include but are not limited to answering your questions about products or services, sending postal mail and e-mails and analysing data. We will only provide those companies with the information they need to deliver the service we have engaged them for and they are prohibited from using that information for any other purpose. 
+However, we may use other companies to provide services to you on our behalf. These services may include but are not limited to answering your questions about products or services, sending postal mail, texts and emails and analysing data. We will only provide those companies with the information they need to deliver the service we have engaged them for and they are prohibited from using that information for any other purpose.
 
-We may have to disclose your information by law or because a court or the police or other law enforcement agency has asked us for it. In the event that a majority of our shares were bought by another company or we transferred a substantial amount of our assets to another company, we would disclose your personal information to that purchaser. 
+We may have to disclose your information by law or because a court or the police or other law enforcement agency has asked us for it. In the event that a majority of our shares are bought by another company or we transfer a substantial amount of our assets to another company, we may disclose your personal information to that purchaser.
 
 #### How is your information protected
 
-We take protection of your information seriously and have appropriate physical and technological security measures in place to keep it safe for further details please see our [Security Online](https://web.archive.org/security) section. Internally, we restrict access to personal information. Only employees who need the information in order to do their jobs have access to it.
+We take protection of your information seriously and have appropriate physical and technological security measures in place to keep it safe. For further details please see our [Security Online](https://web.archive.org/security) section. Internally, we restrict access to personal information. Only employees who need the information in order to do their jobs have access to it. Your information will be stored in Europe and will not be transferred to any other country.
 
 #### Changes to our privacy policy
 
-We keep our Privacy Policy under regular review and if we change our Privacy Policy we will post those changes on this page so that you are always aware of what information we collect and how we use it. This policy was last updated in September 2013.
+We keep our Privacy Policy under regular review and if we change our Privacy Policy we will post those changes on this page so that you are always aware of what information we collect and how we use it. This policy was last updated in July 2016.
 
 #### Your Rights
 
-You may request details of personal information that we hold about you. If you would like a copy of it, please [email us](https://web.archive.org/contactus). A small fee may be payable.
+This website is operated by Wickes Building Supplies Limited. You may request details of the personal information that we hold about you. If you would like a copy of it, please [email us](https://web.archive.org/contactus). A small fee may be payable.
 
-We want to make sure that your personal information is accurate and up to date. Therefore, if you think any information we hold about you is incorrect or incomplete, please email or write to us at the addresses given above as soon as possible so we can update our records.
+We want to make sure that your personal information is accurate and up to date. Therefore, if you think any information we hold about you is incorrect or incomplete, please email or write to us as soon as possible so we can update our records. If you have set up an account you can always update your details in the account settings.
