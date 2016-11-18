@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldatlas.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611090738id_/http%3A//www.worldatlas.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldatlas.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000318id_/http%3A//www.worldatlas.com/policy.htm) for the most accurate reproduction.*
 
 # Worldatlas.com and Graphic Maps Privacy Policy
 
@@ -49,36 +49,36 @@ worldatlas.com web hosting provided by [rackspace.com](http://www.rackspace.com/
 
 ## Trending on WorldAtlas
 
-  * [ ](https://web.archive.org/articles/most-dangerous-cities-in-the-world.html) [
-
-Most Dangerous Cities in the World
-
-](https://web.archive.org/articles/most-dangerous-cities-in-the-world.html)
-  * [ ](https://web.archive.org/articles/the-10-smallest-countries-in-the-world.html) [
-
-The 10 Smallest Countries In The World
-
-](https://web.archive.org/articles/the-10-smallest-countries-in-the-world.html)
   * [ ](https://web.archive.org/articles/the-richest-countries-in-the-world.html) [
 
 The Richest Countries In The World
 
 ](https://web.archive.org/articles/the-richest-countries-in-the-world.html)
-  * [ ](https://web.archive.org/articles/what-animals-live-in-the-amazon-rainforest.html) [
+  * [ ](https://web.archive.org/articles/most-dangerous-cities-in-the-world.html) [
 
-What Animals Live In The Amazon Rainforest?
+Most Dangerous Cities in the World
 
-](https://web.archive.org/articles/what-animals-live-in-the-amazon-rainforest.html)
+](https://web.archive.org/articles/most-dangerous-cities-in-the-world.html)
+  * [ ](https://web.archive.org/articles/most-dangerous-cities-in-the-united-states.html) [
+
+Most Dangerous Cities In The United States
+
+](https://web.archive.org/articles/most-dangerous-cities-in-the-united-states.html)
+  * [ ](https://web.archive.org/articles/the-10-smallest-countries-in-the-world.html) [
+
+The 10 Smallest Countries In The World
+
+](https://web.archive.org/articles/the-10-smallest-countries-in-the-world.html)
+  * [ ](https://web.archive.org/articles/29-largest-armies-in-the-world.html) [
+
+29 Largest Armies In The World
+
+](https://web.archive.org/articles/29-largest-armies-in-the-world.html)
   * [ ](https://web.archive.org/articles/29-most-obese-countries-in-the-world.html) [
 
 29 Most Obese Countries In The World
 
 ](https://web.archive.org/articles/29-most-obese-countries-in-the-world.html)
-  * [ ](https://web.archive.org/articles/countries-with-the-tallest-average-heights.html) [
-
-Countries With The Tallest Average Heights
-
-](https://web.archive.org/articles/countries-with-the-tallest-average-heights.html)
 
 
 
