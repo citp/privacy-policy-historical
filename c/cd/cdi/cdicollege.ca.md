@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdicollege.ca privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517104510id_/http%3A//www.cdicollege.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdicollege.ca privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118053946id_/http%3A//www.cdicollege.ca/privacy-policy) for the most accurate reproduction.*
 
 # CDI College Privacy Policy
 
