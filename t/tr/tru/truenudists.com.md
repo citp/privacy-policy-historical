@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the truenudists.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604071121id_/https%3A//www.truenudists.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truenudists.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231834id_/http%3A//www.truenudists.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Legal Documents and Policies | Nude Yoga
+# Privacy Policy - True Nudists
 
 ## Terms
 
