@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fragrancenet.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314101408id_/http%3A//www.fragrancenet.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fragrancenet.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234524id_/http%3A//www.fragrancenet.com/help/privacy) for the most accurate reproduction.*
 
 # Discount Perfume, Cologne & Discounted Fragrances
 
@@ -19,6 +19,7 @@ At FragranceNet.com, our goal is to make your shopping experience safe, convenie
   * Your Security
   * How to limit the use of your information from Third Parties
   * From the Company and its Affiliates
+  * Advertising
   * Corrections
   * Your Consent and Changes to this Policy
   * Your Comments
@@ -52,6 +53,16 @@ back to top
 A "cookie" is a file stored on your computer by a website which identifies you by a particular identification code. This cookie allows us to know that you are a customer and retains information about your use of our website. It also allows us to make certain features available to you. If you wish to stop the use of cookies, you can do so by through the Help Menu on the toolbar of most web browsers. However, the cookies allow you to take full advantage of all features on the website. 
 
 FragranceNet.com has certain relationships with third parties who may obtain non-personal information from the Cookies that are placed on the website which will assist in analyzing both our customers and our business. The website also uses web-based technology called "Action Tags" which are also referred to as web beacons or single pixel gifs. These Action Tags will anonymously track purchase usage and/or other web activity. Such Action Tags will are sometimes utilized by us or third parties to provide data for the purpose of tracking. In no event does the Action Tags collection or transfer personal information. 
+
+Our website uses cookies/advertising IDs for the purpose of advertising. This enables us to show our advertisements to visitors who are interested in our products on partner websites, apps and emails. Re-targeting technologies use your cookies or advertising IDs and display advertisements based on your past browsing behavior.   
+You can opt-out of interest based advertising by visiting the following websites: 
+
+  * <http://www.networkadvertising.org/choices/>
+  * <http://www.youronlinechoices.com/>
+
+
+
+We may share data, such as technical identifiers derived from your registration information on our website or our CRM system with our trusted advertising partners. This allows them to link your devices and/or environments and provide you a seamless experience across the different devices and environments that you use. To read more about their linking capabilities, please refer to their privacy policy listed in the above-mentioned platforms or <http://www.criteo.com/privacy/>. 
 
 back to top
 
@@ -159,6 +170,12 @@ Your instructions to limit the use of your information will be processed as soon
 
 back to top
 
+### Advertising
+
+Although it is our hope that you find the display of advertising to you based on your anonymous interests valuable, if you would prefer not to participate in the services offered through these solutions, you can always opt-out of this activity by visiting the Network Advertising Initiative (NAI) website by clicking <http://owneriq.com/opt-out>
+
+back to top
+
 ### Corrections
 
 If you would like to update or correct information previously provided to us, please send an e-mail with your new information, including your complete name, postal address, and email address to [info@fragrancenet.com](mailto:info@fragrancenet.com)
@@ -170,3 +187,5 @@ back to top
 Subject to the above provisions, by using our Website, you consent to the collection and use of information by us and the terms of this Privacy Policy. We may change our Privacy Policy from time to time. We will post those changes so that you are always aware of what information we collect, how we use it, and under what circumstances we may disclose it. In addition, if you would like prior notice of changes to the Privacy Policy, email us at [info@fragrancenet.com](mailto:info@fragrancenet.com) from the email address to which you would like notice sent. By using FragranceNet.com, Inc. after such changes and posting, you agree to be legally bound to abide by the changes and other provisions contained in the Privacy Policy. 
 
 back to top
+
+lls 9�Mme Summer"},{"popularity":"19","term":"Blumarine Blugirl Jus De Fleurs"},{"popularity":"19","term":"D & G Light Blue Swimming In Lipari Pour Homme"},{"popularity":"19","term":"Boucheron Quatre"},{"popularity":"19","term":"Fantasy Stage Edition Britney Spears"},{"popularity":"19","term":"Mario Badescu"},{"popularity":"18","term":"All About Eve"},{"popularity":"18","term":"British Sterling Silver"},{"popularity":"18","term":"Dream Angels Divine"},{"popularity":"18","term":"L'Effleur"},{�M
