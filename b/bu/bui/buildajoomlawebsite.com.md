@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buildajoomlawebsite.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403120508id_/http%3A//www.buildajoomlawebsite.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildajoomlawebsite.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118113452id_/http%3A//www.buildajoomlawebsite.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | About ~ Build a Joomla Website
 
