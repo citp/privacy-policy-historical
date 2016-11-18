@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the fromyouflowers.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622060247id_/http%3A//www.fromyouflowers.com/secpriv.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fromyouflowers.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118224615id_/http%3A//www.fromyouflowers.com/secpriv.htm) for the most accurate reproduction.*
 
-# Privacy and Security | FromYouFlowers®
+# Privacy and Security | FromYouFlowersï¿½
 
 From You Flowers, LLC is committed to protecting our customers' privacy. We feel it is important that you fully understand the terms and conditions under which we use the information we gather from you through the use of our Web site located at URL [www.fromyouflowers.com](http://www.fromyouflowers.com/). Please read this Privacy Policy carefully to understand how we will use and protect your personal information. We will never share your personal information with anyone except as described in this Policy. Changes to this Policy will be announced on our Web site at least ten days in advance, so please check back periodically.
 
 Questions regarding this Policy should be directed to [wecare@fromyouflowers.com](mailto:wecare@fromyouflowers.com) or we may also be contacted directly at the following address: 
 
 From You Flowers, LLC  
-455 Boston Post Rd  
-Suite 205   
+143 Mill Rock Rd E  
 Old Saybrook, CT 06475 
 
 **Information we collect**
@@ -22,6 +21,8 @@ In order to better provide you with numerous products and services, we collect s
 **With whom do we share your information?**
 
 The information collected by our Site is used to process orders, to keep you informed about your order status, to notify you of products or special offers that may be of interest to you, and for statistical purposes for improving our Site. We will disclose your Personally Identifiable Information to third parties to charge your credit card (or process your check or money order, as appropriate), fill your order, deliver your order and deliver promotional emails to you from us. For example, we must release your credit card number to confirm payment; and release your mailing address information to the delivery service to deliver products that you ordered. From time to time, on limited bases, we may share with trustworthy third parties contact information of our account holders so that such third parties can promote their products and services. In addition, from time to time, we may market certain third party services through our site. Should you choose to accept an offer from a third party, we will pass your relevant personal information, including name and credit/debit card number, to that third party. We do also share Personally Identifiable Information with our floral and gift distributors for the purpose of fulfilling and delivering your orders. We may offer free promotional emails and send promotional direct mail for products and/or services offered on any one or more of our Sites or from businesses that we believe are reputable, as a service to our prior customers from any of our Sites. You, as an account holder, can opt out from our disclosure of your information for this purpose at any time by sending an e-mail to [wecare@fromyouflowers.com](mailto:wecare@fromyouflowers.com), detailing your interest in being excluded from the program. From time to time we are contacted by flower and other gift recipients who ask us who the sender was. If we receive a request from a recipient asking who sent flowers or another gift we will provide the name and any other information as contained on the gift message accompanying the flowers or gift. If there is no gift message filled out or if there is no name on the gift message we may ask the sender via email. If we receive approval to disclose the sender's name from the sender via email or in writing, we will then inform the recipient. If the sender does not reply via email or in writing or if the sender denies permission, then we will not reveal the sender's identity to the recipient. 
+
+From You Flowers shares data with Google Analytics in order to understand how our customers are using the website and optimize the site to create a better experience. Google Analytics runs in the background of FromYouFlowers.com analyzing user information and returning reports to us based on this information via an encrypted connection. Google Analytics maintains data confidentially and only shares reports with From You Flowers. Password and credit card information is not collected with Google Analytics. If you would like to opt-out of Google Analytics collected data while you are on FromYouFlowers.com [please click here](https://tools.google.com/dlpage/gaoptout).
 
 **Opt-In Communications**
 
