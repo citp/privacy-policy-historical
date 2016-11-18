@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiancinemagallery.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316173935id_/http%3A//www.indiancinemagallery.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiancinemagallery.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233542id_/http%3A//www.indiancinemagallery.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Indian Cinema Gallery :: Privacy Policy
+# Privacy Policy
 
 Privacy Policy of **www.indiancinemagallery.com**
 
@@ -12,8 +12,9 @@ Indiancinemagallery.com
 Rainoh Entertainments,  
 Karunagappally  
 Kollam, Kerala  
-Phone : +91 9745755562  
-privacy@indiancinemagallery.com
+Phone : +91 9745755562
+
+_**indiancinemagallery@gmail.com**_
 
 ### Types of Data collected
 
@@ -272,5 +273,5 @@ This privacy policy applies only to our online activities and is valid for visit
 By using our website, you hereby consent to our privacy policy and agree to its terms.
 
 **Update**  
-This Privacy Policy was last updated on: Monday, October 16th, 2014.  
+This Privacy Policy was last updated on: Friday, July 05th, 2016.  
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here_
