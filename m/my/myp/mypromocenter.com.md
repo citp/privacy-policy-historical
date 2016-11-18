@@ -1,43 +1,17 @@
-> *The following text is extracted and transformed from the mypromocenter.com privacy policy that was archived on 2016-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160207042704id_/http%3A//mypromocenter.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypromocenter.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118222544id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Dyna Optic
+# Legal
 
-Privacy Policy
+* * *
 
-## Privacy Policy of Dyna Optic
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Dyna Optic has been practicing 100% permission based marketing since its inception. We have created this privacy policy to fully and transparently communicate our information gathering and dispersion practices. You are agreeing to our privacy policy in full when you
-
-1\. click, open or preview any of the advertisement portion of our emails we send on for third party companies
-
-2\. Give DynaOptic any personal private data through an online registration form, website or any other form of online media.
-
-## Subscription Management
-
-Dyna Optic believes in giving its subscribers notice and alternatives. If a subscriber chooses for any reason at any time to be removed from our database through our unsubscribe method that subscriber will no longer receive any emails from Dyna Optic. We will advise you, however, that you may still receive emails from affiliated websites or third party marketing companies you may be subscribed to. To unsubscribe from affiliate's emails visit the website of the affiliate to unsubscribe or follow the unsubscribe URL in the affiliate's email.
-
-## Children's Privacy
-
-Dyna Optic will never knowingly collect or attempt to collect information from children in 100% compliance with the Children's Online Privacy Protection Act. We use our secure consent-based marketing infrastructure to make sure all your data is protected. The infrastructure protects your data from unwanted access or modification. This infrastructure includes: physical security and technological security measures, encryption of fixed data, and internal and external firewalls.
-
-## Information Gathering Process
-
-The right to use the information we collect from our subscribers to help our clientele reach better audiences as well as help our own marketing data services is reserves. Personally identifiable information may be shared with affiliates that can include third party marketing companies, data aggregation companies, advertising agencies and/or affiliates. This information may be utilized to share information with consumers about products and services they may have an interest in, always keeping true to the guidelines stated in this specific privacy policy.
-
-## Security Measures and CA Residents
-
-Dyna Optic takes the security of our clients' information very seriously. Dyna Optic is 100% dedicated to protecting the safety of our subscribers online information. We uphold this commitment to safety by keeping log files for any websites that we own and/or operate. The log files we maintain may contain any of the following:
-
-  * IP addresses
-  * platform type
-  * ISP
-  * date/time stamp
-  * browser type
-  * referring/exit pages
-  * amount of clicks to study behaviors, manage the site, shadow users' motion in the aggregate, and collect overall demographic intelligence for aggregate use.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
 
-## Possible Privacy Policy Updates
-
-Dyna Optic suggests our users periodically revisit our privacy policy so they can remain educated of any possible revisions. It is possible a revision to our privacy policy may entitle us to utilize your personal data in a manner different from outlined in the privacy policy you originally agreed to at the time Dyna Optic collected your information. Dyna Optic is committed to posting any updates to our privacy policy to our site in a timely fashion. Any questions, comments, or concerns may be directed to Dyna Optic at admin@dynaoptic.com
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
