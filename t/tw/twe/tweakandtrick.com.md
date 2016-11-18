@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweakandtrick.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429204026id_/http%3A//www.tweakandtrick.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweakandtrick.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234800id_/http%3A//www.tweakandtrick.com/p/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use
 
@@ -54,4 +54,4 @@ This policy was last modified on 13 August 2015.
 
 **Contacting Us**
 
-You can contact us regarding this policy by using our [contact form](http://www.tweakandtrick.com/2011/02/contact.html) or sending an email to [tweakandtrick@gmail.com](mailto:tweakandtrick@gmail.com).
+You can contact us regarding this policy by sending an email to [tweakandtrick@gmail.com](mailto:tweakandtrick@gmail.com).
