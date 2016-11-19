@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the soft82.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312020832id_/http%3A//www.soft82.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft82.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119175804id_/http%3A//www.download82.com/privacy-policy) for the most accurate reproduction.*
 
-# Soft82 Privacy Policy
+# Download82 Privacy Policy
 
 ### Privacy Policy
 
-Soft82 is serious regarding the privacy of Internet users because our business success depends upon our ability to maintain the trust of our users. 
+Download82 is serious regarding the privacy of Internet users because our business success depends upon our ability to maintain the trust of our users. 
 
 #### Personal Information
 
@@ -12,7 +12,7 @@ We do not sell, trade or rent your personal information to third parties.
 
 #### Links
 
-Soft82 contains links to other websites but we are not responsible for the privacy practices or the content of such websites.
+Download82 contains links to other websites but we are not responsible for the privacy practices or the content of such websites.
 
 #### Cookies
 
