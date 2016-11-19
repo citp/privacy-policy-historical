@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rewardingpanel.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314131459id_/http%3A//rewardingpanel.com/Footerlinks/PrivacyPolicy/tabid/282/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewardingpanel.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119022304id_/http%3A//rewardingpanel.com/Footerlinks/PrivacyPolicy/tabid/282/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -104,15 +104,13 @@ Some on-line surveys collect information through the use of 'cookies'. These are
 
 In addition to our use of cookies, our online surveys automatically capture information about your IP Address, operating system, screen display settings, browser type, and use of Flash and Java. We use this information to:
 
-  * ensure that the survey questionnaire is delivered in a form suited to the software your computer is using.
-  * assist in providing support to you should you have difficulty accessing or completing a survey.
-  * anonymised information is also used for research purposes, for example to determine the percentage of our panelists in a specific country who use a certain type of browser.
-
-
+* ensure that the survey questionnaire is delivered in a form suited to the software your computer is using.
+* assist in providing support to you should you have difficulty accessing or completing a survey.
+* anonymised information is also used for research purposes, for example to determine the percentage of our panelists in a specific country who use a certain type of browser.
 
 With your prior agreement, we may also install advanced cookies or similar code that can identify tags attached to certain web-sites or on-line advertisements relating to our clients and/or their products. Alternatively, again with your prior agreement, we may scan for and read cookies or code installed by other websites that you may have visited. The information obtained in this way will be used to help us send you surveys that are relevant to you (for example, you may be asked your opinion on ads that you've actually seen), or for other research into internet usage.
 
-#### 5\. Use of Digital fingerprinting?
+#### 5\. Use of Digital fingerprinting
 
 We also use digital fingerprinting technology, also known as "Machine Identification" digital fingerprints, to gather certain information about your computer hardware and software, for example, your IP address, the display settings of your monitor, the type of browser you are using, the type of operating system you are using, etc. This information is sent to our trusted third-party partner who converts it into a unique serial number – the digital "fingerprint" – and determines if it matches previous fingerprints. The data collected in this process and the digital fingerprint created is not tied to any of your personal information, is stored on secured servers, and is only used for quality control purposes and to help prevent panelists from completing the same survey many times, and for no other purpose.
 
@@ -164,4 +162,4 @@ We keep our privacy policy under regular review, and we will place any updates o
 
 #### 11\. Useful Link
 
-< World organisation for market research - ESOMAR: [www.esomar.org](http://www.esomar.org/)
+World organisation for market research - ESOMAR: [www.esomar.org](http://www.esomar.org/)
