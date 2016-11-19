@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shared.sx privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325113849id_/http%3A//shared.sx/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shared.sx privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119113743id_/http%3A//shared.sx/privacy) for the most accurate reproduction.*
 
 # shared.sx – innovative media-hosting solution
 
