@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpix.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614194337id_/http%3A//www.mpix.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpix.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119012220id_/http%3A//www.mpix.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Mpix
 
@@ -8,7 +8,7 @@ Miller's Professional Imaging (hereinafter "Miller's") is committed to safeguard
 
 Miller's collects information in several ways. For example, some personal information is gathered when you register as a customer using our account interface. During registration, we may ask for your Miller's Account Number and your email address. Once you register, you are no longer anonymous to Miller's and are able to take full advantage of our services. In addition to registration, we may ask you for information at other times, such as when you report a problem with our site or services, or contact the company via the corporate e-mail address. If you contact Miller's, we may keep a record of that correspondence.
 
-If you believe that any inaccurate or inappropriate information has been obtained or disseminated through your use of this Site, you should contact a representative of Miller's at [customerservice@mpix.com](mailto:customerservice@mpix.com) and [custserv@millerslab.com](mailto:custserv@millerslab.com).
+If you believe that any inaccurate or inappropriate information has been obtained or disseminated through your use of this Site, you should contact a representative of Miller's at [info@mpix.com](mailto:info@mpix.com) and [info@millerslab.com](mailto:info@millerslab.com).
 
 ### How are Photos Displayed?
 
@@ -50,7 +50,7 @@ As we continue to develop our business, we may buy or sell businesses or assets.
 
 ### How can I control my personal information?
 
-Miller's offers its customers choices for the use and sharing of personal information. You may contact us at [customerservice@mpix.com](mailto:customerservice@mpix.com). If you wish to view, edit or delete your personal information from our database, and we will use commercially reasonable efforts to accommodate your request.  
+Miller's offers its customers choices for the use and sharing of personal information. You may contact us at [info@mpix.com](mailto:info@mpix.com). If you wish to view, edit or delete your personal information from our database, and we will use commercially reasonable efforts to accommodate your request.  
 
 
 ### How does Miller's protect financial-related information?
