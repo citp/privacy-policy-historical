@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the southwales.ac.uk privacy policy that was archived on 2016-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160610110442id_/http%3A//www.southwales.ac.uk/privacy-and-cookies) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the southwales.ac.uk privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119033712id_/http%3A//www.southwales.ac.uk/privacy-and-cookies) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
         <meta charset="utf-8">
@@ -13,6 +13,7 @@
         <meta name="DC.Publisher" content="University of South Wales">
         <meta name="google-site-verification" content="og3UZBOin_Rv2rXbZjDdEePF7zBjhEa8LTILBSAPe9I">
         <meta name="msvalidate.01" content="C4BAC2A8B3D870C4771CC47F5B1F3722">
+        <link rel="shortcut icon" type="image/x-icon" href="http://www.southwales.ac.uk/static/foxsite/images/favicon.ico">
 
     	
 
@@ -21,7 +22,7 @@
 
 
         
-        <link rel="stylesheet" href="/static/CACHE/css/1aa1494c2314.css" type="text/css">
+        <link rel="stylesheet" href="/static/CACHE/css/daf88b69fd91.css" type="text/css">
 
 
         
@@ -45,7 +46,6 @@
 
 
         
-			<script src="http://maps.googleapis.com/maps/api/js"></script>
       
       <script src="/static/foxsite/js/vendor/jquery.royalslider.min.js "></script>
 			<script>
@@ -84,7 +84,15 @@
 
 		});
 		
-		
+		function init_all_maps(){
+    
+    $(".gmap").each(function(){
+        id = this.id;
+        func_name = "initialize_" + id.replace(/[^\w\s]/gi, '');
+        window[func_name]();
+    });
+    }
+    
 		</script>
 
 
@@ -311,7 +319,16 @@
 
 		
 	
-
+  
+  
+  <script>
+  if ($('div.gmap').length) {
+    var s = document.createElement("script");
+        s.type = "text/javascript";
+        s.src = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCS-FO8v4H6ixOI9nYclQ4a3OklUEwH0do&callback=init_all_maps";
+        $("body").append(s);
+  }
+  </script>
 
 
           
@@ -359,22 +376,17 @@
 
     
 		
-        <li><a href="http://research.southwales.ac.uk/">Research</a></li>
-    
-
-    
-		
-		    <li><a href="/about/">About</a></li>
-		
-
-    
-		
 		    <li><a href="/contact-us/">Contact</a></li>
 		
 
     
 		
-        <li><a href="http://www.southwales.ac.uk/study/apply">Apply</a></li>
+        <li><a href="http://www.southwales.ac.uk/about">About</a></li>
+    
+
+    
+		
+        <li><a href="http://research.southwales.ac.uk/">Research</a></li>
     
 
     
@@ -384,8 +396,13 @@
 
     
 		
-		    <li><a href="/about/location/">Location</a></li>
+        <li><a href="http://www.southwales.ac.uk/study/apply">Apply</a></li>
+    
+
+    
 		
+        <li><a href="http://www.southwales.ac.uk/about/location">Location</a></li>
+    
 
     
 		
@@ -394,13 +411,13 @@
 
     
 		
-        <li><a href="http://www.southwales.ac.uk/story/all/">Our stories </a></li>
+        <li><a href="http://www.southwales.ac.uk/about/policies">Policies</a></li>
     
 
     
 		
-		    <li><a href="/about/university-south-wales-policies/">Policies</a></li>
-		
+        <li><a href="http://www.southwales.ac.uk/story/all/">Our stories </a></li>
+    
 
     
 		
@@ -431,7 +448,17 @@
 		
       
 			
-			    <li><a href="/events/">Events</a></li>
+			    <li><a href="/getting-started/">Getting Started</a></li>
+			
+			
+		
+			
+
+    
+		
+      
+			
+			    <li><a href="/study/postgraduate-study/">Postgrad study</a></li>
 			
 			
 		
@@ -443,16 +470,6 @@
 			
 	        <li><a href="http://www.southwales.ac.uk/alumni/">Alumni</a></li>
 	    
-			
-		
-			
-
-    
-		
-      
-			
-			    <li><a href="/study/postgraduate-study/">Postgrad study</a></li>
-			
 			
 		
 			
@@ -521,7 +538,7 @@
 		
       
 			
-			    <li><a href="/study/student-blogs/">Student blogs</a></li>
+			    <li><a href="/student-life/student-blogs/">Student blogs</a></li>
 			
 			
 		
@@ -643,16 +660,6 @@
 			
 			    <li><a href="/privacy-and-cookies/">Privacy and cookies</a></li>
 			
-			
-		
-			
-
-    
-		
-      
-			
-	        <li><a href="http://www.uhovi.ac.uk/">UHOVI</a></li>
-	    
 			
 		
 			
