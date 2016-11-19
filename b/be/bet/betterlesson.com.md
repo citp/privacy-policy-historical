@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterlesson.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612203523id_/http%3A//betterlesson.com/public/privacy_policy%3Ffrom%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterlesson.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119040039id_/http%3A//betterlesson.com/public/privacy_policy%3Ffrom%3Dfooter) for the most accurate reproduction.*
 
 # BetterLesson Privacy Policy
 
