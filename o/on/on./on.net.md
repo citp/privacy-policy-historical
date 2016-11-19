@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the on.net privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514103426id_/http%3A//www.internode.on.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the on.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119023409id_/http%3A//www.internode.on.net/privacy) for the most accurate reproduction.*
 
 # Internode :: About :: Legal :: Privacy Statement
 
@@ -94,12 +94,12 @@ The [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/ga
 
 Your personal information can be accessed via your secure [My Internode toolbox](https://web.archive.org/myinternode) or by [contacting us](https://web.archive.org/contact/).
 
-We maintain and update the personal information we hold as it becomes necessary, for example when our customers inform us that their personal information has changed. A customer can request to opt-out of certain communications and make changes to their personal information directly through My Internode, or by contacting us at [support@internode.com.au](mailto:support@internode.com.au) or by calling 13 66 33.
+We maintain and update the personal information we hold as it becomes necessary, for example when our customers inform us that their personal information has changed. A customer can request to opt-out of certain communications and make changes to their personal information directly through My Internode, or by contacting us at [support@internode.com.au](mailto:support@internode.com.au) or by calling 13 66 33.
 
 Please [contact us](https://web.archive.org/contact/) if you wish to access or correct personal information that we hold about you.
 
 ### Contact us about our privacy statement
 
-If you have any queries concerning this privacy statement, please [contact us](https://web.archive.org/contact/) by calling support on 13 66 33 or email [support@internode.com.au](mailto:support@internode.com.au). Any privacy complaints will be handled in accordance with our [complaint process](https://web.archive.org/about/legal/complaints_handling/).
+If you have any queries concerning this privacy statement, please [contact us](https://web.archive.org/contact/) by calling support on 13 66 33 or email [support@internode.com.au](mailto:support@internode.com.au). Any privacy complaints will be handled in accordance with our [complaint process](https://web.archive.org/about/legal/complaints_handling/).
 
 Date: 20 February 2015
