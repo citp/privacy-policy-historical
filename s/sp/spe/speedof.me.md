@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedof.me privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604043237id_/http%3A//speedof.me/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedof.me privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119164000id_/http%3A//speedof.me/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | SpeedOf.Me, HTML5 Speed Test
 
