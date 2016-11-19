@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotpophealth.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525192610id_/http%3A//hotpophealth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotpophealth.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119100600id_/http%3A//hotpophealth.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Hot Pop Health
 
@@ -58,10 +58,10 @@ Please note that if you choose to opt out of having your information used to del
 
 ## Recently on Hot Pop Health
 
-[ ](http://hotpophealth.com/gym-no-nos-you-need-to-know-2/ "Gym No Nos You Need To Know")
+[ ](http://hotpophealth.com/the-top-reasons-why-youre-not-losing-weight-2/ "The Top Reasons Why You’re Not Losing Weight")
 
-### [Gym No Nos You Need To Know](http://hotpophealth.com/gym-no-nos-you-need-to-know-2/)
+### [The Top Reasons Why You’re Not Losing Weight](http://hotpophealth.com/the-top-reasons-why-youre-not-losing-weight-2/)
 
-__Dec 28, 2015
+__Dec 29, 2015
 
-So you’ve just joined a new gym and are looking to get fit, toned, jacked, yoked, etc. A gym, unbeknownst to many, is no different than riding a streetcar or dining at... 
+So you’ve started eating better. You joined a gym. You’ve been working out for weeks, and yet, the pounds are not coming off. What could it be, and why? Well, if... 
