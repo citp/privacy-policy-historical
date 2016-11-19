@@ -1,50 +1,87 @@
-> *The following text is extracted and transformed from the worldpoliticus.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312002810id_/http%3A//www.worldpoliticus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldpoliticus.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119135412id_/http%3A//worldpoliticus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - World Politicus
 
-http://www.worldpoliticus.com/wp-login.php?action=logout&redirect_to=http%3A%2F%2Fwww.worldpoliticus.com%2F&_wpnonce=854490e343
+This Privacy Policy governs the manner in which World Politicus collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.worldpoliticus.com/ website (“Site”).
 
-## PPrivacy Policy
+### Personal identification information
 
-  1. [Home](http://www.worldpoliticus.com/)
-  2. Privacy Policy 
+We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+
+### Non-personal identification information
+
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+
+### Web browser cookies
+
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+### How we use collected information
+
+World Politicus may collect and use Users personal information for the following purposes:
+
+  * _To run and operate our Site_  
+We may need your information display content on the Site correctly.
 
 
 
-## Privacy Policy:
+### How we protect your information
 
-World Politicus (" **World Politicus** ") operates www.worldpoliticus.com and may operate other websites. It is World Politicus's policy to respect your privacy regarding any information we may collect while operating our websites.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-### Website Visitors
+### Sharing your personal information
 
-Like most website operators, World Politicus collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. World Politicus's purpose in collecting non-personally identifying information is to better understand how World Politicus's visitors use its website. From time to time, World Politicus may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-World Politicus also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on www.worldpoliticus.com blogs/sites. World Politicus only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
+We may share or sell information with third parties for marketing or other purposes.
 
-### Gathering of Personally-Identifying Information
+### Personal identification information
 
-Certain visitors to World Politicus's websites choose to interact with World Politicus in ways that require World Politicus to gather personally-identifying information. The amount and type of information that World Politicus gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [www.worldpoliticus.com](http://www.worldpoliticus.com/) to provide a username and email address. Those who engage in transactions with World Politicus are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, World Politicus collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with World Politicus. World Politicus does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site. . Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-### Aggregated Statistics
+### Non-personal identification information
 
-World Politicus may collect statistics about the behavior of visitors to its websites. World Politicus may display this information publicly or provide it to others. However, World Politicus does not disclose personally-identifying information other than as described below.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-### Protection of Certain Personally-Identifying Information
+### Web browser cookies
 
-World Politicus discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on World Politicus's behalf or to provide services available at World Politicus's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using World Politicus's websites, you consent to the transfer of such information to them. World Politicus will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, World Politicus discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when World Politicus believes in good faith that disclosure is reasonably necessary to protect the property or rights of World Politicus, third parties or the public at large. If you are a registered user of an World Politicus website and have supplied your email address, World Politicus may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with World Politicus and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. World Politicus takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-### Cookies
+### How we use collected information
 
-A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. World Politicus uses cookies to help World Politicus identify and track visitors, their usage of World Politicus website, and their website access preferences. World Politicus visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using World Politicus's websites, with the drawback that certain features of World Politicus's websites may not function properly without the aid of cookies.
+World Politicus may collect and use Users personal information for the following purposes:
 
-### Business Transfers
+  * _To run and operate our Site_  
+We may need your information display content on the Site correctly.
 
-If World Politicus, or substantially all of its assets, were acquired, or in the unlikely event that World Politicus goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of World Politicus may continue to use your personal information as set forth in this policy.
 
-### Ads
 
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by World Politicus and does not cover the use of cookies by any advertisers.
+### How we protect your information
 
-### Privacy Policy Changes
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-Although most changes are likely to be minor, World Politicus may change its Privacy Policy from time to time, and in World Politicus's sole discretion. World Politicus encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a www.worldpoliticus.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+### Third party websites
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licencors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+
+### Advertising
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+### Google Adsense
+
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+
+### Changes to this privacy policy
+
+World Politicus has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+### Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+### Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us: worldpoliticus@gmail.com
+
+This document was last updated on April 3rd, 2016
