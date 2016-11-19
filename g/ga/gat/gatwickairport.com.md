@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gatwickairport.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118055800id_/http%3A//www.gatwickairport.com/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatwickairport.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119021257id_/http%3A//gatwickairport.com/privacy-cookie-policy) for the most accurate reproduction.*
 
-# Privacy & cookie policy - Gatwick Airport
+# Privacy & cookie policy | Gatwick Airport
 
 **Please read carefully**
 
@@ -36,19 +36,21 @@ In addition, we would also like to make you aware that, although external to GAL
 
 You are not obliged to accept cookies. You have the opportunity to set your computer either to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. The last of these, of course, means that your experience of using the Websites may be impaired as we will be unable to personalise aspects of your use of the Websites.
 
+**myGatwick:  **When the Remember Me box is ticked, a persistent cookie will enable us to recognise you when you re-visit the myGatwick website pages.
+
 **Session Cookies**
 
-We use a  **session cookie**  to remember your log-in for you and what you’ve put in the shopping basket. These we deem strictly necessary to the working of the website. If these are disabled then various functionalities on the site will be broken. More information on session cookies and what they are used for at<http://www.allaboutcookies.org/cookies/session-cookies-used-for.html>
+We use a  **session cookie**  to remember your log-in for you and what you’ve put in the shopping basket. These we deem strictly necessary to the working of the website. If these are disabled then various functionalities on the site will be broken. More information on session cookies and what they are used for at <http://www.allaboutcookies.org/cookies/session-cookies-used-for.html>
 
 **Persistent Cookies for Site Analytics and Performance**
 
-**DoubleClick (Google)**  – this cookie is specific to the display advertising on Gatwick’s website. User data is anonymous. You can find out more generally about Google and its policies and principles as regards advertising at [http://www.google.com/policies/privacy/ads](http://www.google.com/policies/privacy/ads/)
+**DoubleClick (Google)**  – this cookie is specific to the display advertising on Gatwick’s website. User data is anonymous. You can find out more generally about Google and its policies and principles as regards advertising at <https://www.google.com/policies/privacy/>
 
 **Google Analytics**  – we use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. You can find out more about Google’s position on privacy as regards its analytics service at <http://www.google.co.uk/intl/en/analytics/privacyoverview.html>
 
-**TagMan**  – this allows us to deploy different versions of our site to test (A/B Testing). User data is all anonymous. You can find out more about TagMan on their site at[http://www.tagman.com](http://www.tagman.com/)
+**TagMan**  – this allows us to deploy different versions of our site to test (A/B Testing). User data is all anonymous. 
 
-**Affiliate Window**  – Allows us to track affiliate advertisers and purchases. You can find out more about Affiliate Window on their site at [http://www.affilaite window.com](http://www.affilaite%20window.com/)
+**Affiliate Window**  – Allows us to track affiliate advertisers and purchases. You can find out more about Affiliate Window on their site at [http://www.affiliatewindow.com](http://www.affiliatewindow.com/uk/)
 
 **AddThis**  \- the service that runs some of our social sharing buttons. You can find out more about AddThis on their site at  [http://www.addthis.com](http://www.addthis.com/)  
 
@@ -65,7 +67,7 @@ We use a  **session cookie**  to remember your log-in for you and what you’v
 
 **Visual website optimiser** – this service uses cookies for testing purposes. The cookies are used to keep track of the Variation that a user has seen, the goals a user has completed and even the fact the user has become a part of the test or not. For more information please visit <http://visualwebsiteoptimizer.com/knowledge/what-are-the-various-cookies-used-by-visual-website-optimizer/>
 
-**SessionCam** – this service is used to identify a unique user and a unique user session, allowing us to improve the experience that you have online. For more information please visit <http://help.sessioncam.com/customer/portal/articles/856393-how-we-use-cookies>
+**SessionCam** – this service is used to identify a unique user and a unique user session, allowing us to improve the experience that you have online. For more information please visit <http://www.sessioncam.com/privacy-policy-cookies/>
 
 **Typekit by Adobe** -  to provide the Typekit service, Adobe may collect information about the fonts being served to you. The information is used to allow you to view the website as it should be seen. For more information visit <http://www.adobe.com/uk/privacy/typekit.html>
 
@@ -77,7 +79,7 @@ We use a  **session cookie**  to remember your log-in for you and what you’v
 
 **Our own ad serving and management cookies**
 
-We sell space on our website to advertisers. As part of this, we use several services to help us and advertisers understand what adverts you might be interested in. These cookies hold information about the computer - they don't hold personal information about you (ie it's not linked to you as an individual). But they might hold a record of what other websites you've looked at - so we could show you a car advert if you've previously visited a motoring website.
+We sell space on our website to advertisers. As part of this, we use several services to help us and advertisers understand what adverts you might be interested in. These cookies hold information about the computer - they don't hold personal information about you (i.e. it's not linked to you as an individual). But they might hold a record of what other websites you've looked at - so we could show you a car advert if you've previously visited a motoring website.
 
 These are the services we use and how you can control those cookies. Please note that turning off advertising cookies won't mean that you are not served any advertising merely that it will not be tailored to your interests.
 
@@ -90,7 +92,7 @@ These are the services we use and how you can control those cookies. Please note
 
 **Other ad management cookies**
 
-Advertisements on the Website are provided by other organisations. Our advertising partners will serve advertisements that they believe are most likely to be of interest to you, based on information about your visit to the Website and other websites. In order to do this, our advertising partner may need to place a cookie on your computer. These cookies hold information about the computer - they don't hold personal information about you (ie it's not linked to you as an individual).
+Advertisements on the Website are provided by other organisations. Our advertising partners will serve advertisements that they believe are most likely to be of interest to you, based on information about your visit to the Website and other websites. In order to do this, our advertising partner may need to place a cookie on your computer. These cookies hold information about the computer - they don't hold personal information about you (i.e. it's not linked to you as an individual).
 
 For more information about this type of online behavioural advertising, about cookies, and about how to turn this feature off, please visit <http://www.youronlinechoices.com/uk/>
 
