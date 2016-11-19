@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbauniverse.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428121401id_/http%3A//www.mbauniverse.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbauniverse.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119052907id_/http%3A//www.mbauniverse.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | MBAUniverse.com – India’s No 1 MBA Portal
 
