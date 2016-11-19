@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalmint.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620180921id_/http%3A//www.royalmint.com/legal-pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalmint.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119145313id_/http%3A//www.royalmint.com/legal-pages/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | The Royal Mint
 
@@ -208,7 +208,7 @@ All Royal Mint employees follow an organisation-wide security policy. Authorised
 
 **The Royal Mint does not sell trade or rent your personal information to others.**
 
-We may employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mails, removing repetitive information from customer lists, analysing data, providing marketing assistance, processing credit card payments and providing customer services. Such companies and individuals will have access to personal information needed to perform these functions, but may not use it for any other purposes and are required to process the data in accordance with the UK's Data Protection legislation.
+We may employ or engage other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mails, removing repetitive information from customer lists, analysing data, providing marketing assistance, processing credit card payments, providing customer services and ensuring legal compliance (including know your customer, anti-money laundering and counter-terrorist financing verification). Such companies and individuals will have access to personal information needed to perform these functions, but may not use it for any other purposes and are required to process the data in accordance with the UK's Data Protection legislation.
 
 This privacy policy only covers the Royal Mint and its website at http://www.royalmint.com. Other links within this site to other websites are not covered by this policy.
 
