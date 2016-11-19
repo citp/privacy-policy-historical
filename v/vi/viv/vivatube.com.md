@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivatube.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614064625id_/http%3A//www.vivatube.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivatube.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119195109id_/http%3A//www.vivatube.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - VivaTube.com
 
