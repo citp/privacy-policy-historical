@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellhealth.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314113232id_/http%3A//www.sellhealth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellhealth.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119033250id_/http%3A//www.sellhealth.com/privacy.html) for the most accurate reproduction.*
 
 # SellHealth.com - Your Privacy Rights
 
