@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox.com.au privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622202704id_/http%3A//www.fox.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox.com.au privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119203650id_/http%3A//www.fox.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -149,6 +149,6 @@ Phone: (03) 9252 1019
 
 ### **Changes to our Privacy Policy**
 
-SCA will review this Privacy Policy from time to time to ensure that it accurately reflects our practices and procedures as well as any changes in the law. We will notify you of any changes to this Policy by posting an amended version on our website ([www.southercrossaustereo.com.au](http://www.southercrossaustereo.com.au/)), and changes will take effect from the date of posting.
+SCA will review this Privacy Policy from time to time to ensure that it accurately reflects our practices and procedures as well as any changes in the law. We will notify you of any changes to this Policy by posting an amended version on our website ([www.southerncrossaustereo.com.au](http://www.southerncrossaustereo.com.au/)), and changes will take effect from the date of posting.
 
 Last updated: June 2016
