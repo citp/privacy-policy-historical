@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the trainchinese.com privacy policy that was archived on 2016-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160513214216id_/http%3A//www.trainchinese.com/v2/mprivacy.php%3FrAp%3D0) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trainchinese.com privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119125637id_/http%3A//www.trainchinese.com/v2/mprivacy.php%3FrAp%3D0) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
     <meta charset="utf-8">
+    <meta http-equiv="Cache-control" content="max-age=600, private">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Privacy policy - Chinese dictionary and flashcards with audio and stroke by stroke writing for beginners and advanced learners. Learn online and offline on your PC, iPhone, iPad or Android phone.">
@@ -63,11 +64,11 @@
             <input type="hidden" name="current" value="document.URL">        
           <div class="form-group">
             <label for="comment" class="control-label">Please tell us your feedback as clearly as possible</label>
-            <textarea class="form-control" id="word-comment" name="comment"></textarea>
+            <textarea class="form-control word-comment" id="word-comment" name="comment"></textarea>
           </div>          
         </form>
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-        <input class="btn btn-primary" type="submit" value="Send" onclick="submitAjaxForm('word-feedback','reportFeedback');" id="submit-word-feedback">
+        <button class="btn btn-primary" type="button" onclick="submitAjaxForm('word-feedback','reportFeedback');" id="submit-word-feedback">Send</button>
         </div>
         <div id="word-feedback-bottom">
         </div>
@@ -140,20 +141,20 @@
                      </li>
             <li class="text-center">
                 <a href="contents.php?rAp=0">
-                    <div style="height:65px;" class="hidden-xs hidden-sm"><img height="65px" src="images/dictionary.png" alt=""></div>
+                    <div style="height:65px;" class="hidden-xs hidden-sm"><img height="65" src="images/dictionary.png" alt=""></div>
                     Vocab lists</a></li>
             
             <li class="text-center">
                 <a href="practiceVocab.php?rAp=0">
-        <div style="height:65px;" class="hidden-xs hidden-sm"><img height="65px" src="images/training.png" alt=""></div>
+        <div style="height:65px;" class="hidden-xs hidden-sm"><img height="65" src="images/training.png" alt=""></div>
                     Training</a></li>
             <li class="text-center">
                 <a href="viewApps.php?rAp=0 "> 
-                <div style="height:65px;" class="hidden-xs hidden-sm"><img height="65px" src="images/applications.png" alt=""></div> 
+                <div style="height:65px;" class="hidden-xs hidden-sm"><img height="65" src="images/applications.png" alt=""></div> 
                 Apps</a></li>
             <li class="text-center">
                 <a href="qaList.php?rAp=0">
-                <div style="height:65px;" class="hidden-xs hidden-sm"><img height="65px" src="images/questions.png" alt=""></div>
+                <div style="height:65px;" class="hidden-xs hidden-sm"><img height="65" src="images/questions.png" alt=""></div>
                 Q &amp; A</a></li> <li class="text-center">
                 <a href="viewBasicSettings.php?rAp=0">
                 <div style="height:65px;padding-top:10px;" class="hidden-xs hidden-sm">
@@ -263,7 +264,7 @@
                
                <li><a href="mTestimonials.php?rAp=0" target="_parent">Testimonials</a></li>
              </ul>
-                            <p>©2008-2015 Molatra Ltd.</p>  
+                            <p>©2008-2016 Molatra Ltd.</p>  
 	       
         </div>
 
@@ -276,10 +277,7 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min2.js"></script>
-    
-    
-    <script src="js/ie-10-viewport-bug-workaround.js"></script>
-    
+        
     <script>
  
  
@@ -346,9 +344,12 @@ function TClogin(msg,uname,pw,rememberMe){
     if(!$('#alertpopup').data('bs.modal') ||  !$('#alertpopup').data('bs.modal').isShown){
         $('#alertpopup').modal('show');
     }
+    $('#alertpopup').on('shown.bs.modal', function (e) {
+        document.getElementById('uname').focus();
+    })
 }
 
-function showWordDetails(wordId){
+function showWordDetails(wordId,storePage){
     window.open("wordDetails.php?rAp=0&wordId="+wordId,"_parent");
 }
 
