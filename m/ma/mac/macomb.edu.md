@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macomb.edu privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805163722id_/http%3A//www.macomb.edu/About%2BMacomb/Privacy%2BPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macomb.edu privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119012349id_/http%3A//www.macomb.edu/privacy-policy.html) for the most accurate reproduction.*
 
 # Macomb Community College - Privacy Policy
 
@@ -6,18 +6,17 @@ The following policy applies to users of the Macomb Community College websites a
 
 **Information Collected when You Visit the Macomb Community College Websites**
 
-You can explore most of the Macomb Community College (“MCC”) websites without revealing any personal information. MCC may, however, collect general information about the way in which you use our websites, including, but not limited to, the time and duration of your visit, type of web browser used, the operating system/ platform you are using, your IP address, the websites from which you linked to MCC, and your CPU speed. MCC also may note whether and how you use MCC’s websites by recording site traffic patterns and clickstreams. MCC may also perform (or have third parties perform) analyses of visitors' behavior, and may share aggregated, anonymous data with sponsors and advertisers.
+You can explore most of the Macomb Community College (“MCC”) websites without revealing any personal information. MCC may, however, collect general information about the way in which you use our websites, including, but not limited to, the time and duration of your visit, type of web browser used, the operating system/ platform you are using, your IP address, the websites from which you linked to MCC, and your CPU speed. MCC also may note whether and how you use MCC’s websites by recording site traffic patterns and clickstreams. MCC may also perform (or have third parties perform) analyses of visitors' behavior, and may share aggregated, anonymous data with sponsors and advertisers.  
 
-  **Information Collected When You E-mail Macomb Community College or Complete a Transaction**
+**Information Collected When You E-mail Macomb Community College or Complete a Transaction**
 
-During your visit to our websites, you may send e-mail to MCC. Your e-mail address and the contents of your message will be collected. The information collected is not limited to text characters and may include audio, video, and graphic information formats included in the message. 
+During your visit to our websites, you may send e-mail to MCC. Your e-mail address and the contents of your message will be collected. The information collected is not limited to text characters and may include audio, video, and graphic information formats included in the message.
 
-In order to register for classes, purchase goods or services, apply for employment or complete other transactions with the College, you may be asked to voluntarily provide personal information. Any personal information you choose to provide MCC will only be used to conduct official MCC business. The personal information you provide may be used by MCC (or third parties engaged by us) to: (1) customize the advertising and the content that you see, (2) fulfill your requests for products and services, (3) contact you, (4) conduct research, (5) respond to subpoenas, court orders or legal process, or (6) establish or exercise our legal rights or defend against legal claims. MCC will not sell, rent, loan, trade or lease personal information collected on this site.  
-Except for children who register for MCC education or enrichment programs, MCC does not knowingly collect or use personal information of children. Users are cautioned, however, that the collection of personal information submitted in e-mail will be treated as though an adult submitted it.
+In order to register for classes, purchase goods or services, apply for employment or complete other transactions with the College, you may be asked to voluntarily provide personal information. Any personal information you choose to provide MCC will only be used to conduct official MCC business. The personal information you provide may be used by MCC (or third parties engaged by us) to: (1) customize the advertising and the content that you see, (2) fulfill your requests for products and services, (3) contact you, (4) conduct research, (5) respond to subpoenas, court orders or legal process, or (6) establish or exercise our legal rights or defend against legal claims. MCC will not sell, rent, loan, trade or lease personal information collected on this site. Except for children who register for MCC education or enrichment programs, MCC does not knowingly collect or use personal information of children. Users are cautioned, however, that the collection of personal information submitted in e-mail will be treated as though an adult submitted it.
 
 **Cookies**
 
-Cookies are small amounts of data that MCC’s websites may place on your computer’s hard drive. A cookie file contains unique information that MCC’s websites can use to track such things as the password you create to access any MCC site, lists of webpages you have visited, the date when you last looked at a specific webpage, or to identify your session on our websites. A cookie file allows MCC’s websites to recognize you as you click through pages on our site and when you later revisit our site. MCC’s websites uses cookies to "remember" your preferences, and to record your browsing behavior on our websites. Although you can prevent MCC’s websites from placing cookies on your hard drive, there may be some features of our websites that will not be available to you and some webpages may not display properly if you disable cookies. 
+Cookies are small amounts of data that MCC’s websites may place on your computer’s hard drive. A cookie file contains unique information that MCC’s websites can use to track such things as the password you create to access any MCC site, lists of webpages you have visited, the date when you last looked at a specific webpage, or to identify your session on our websites. A cookie file allows MCC’s websites to recognize you as you click through pages on our site and when you later revisit our site. MCC’s websites uses cookies to "remember" your preferences, and to record your browsing behavior on our websites. Although you can prevent MCC’s websites from placing cookies on your hard drive, there may be some features of our websites that will not be available to you and some webpages may not display properly if you disable cookies.
 
 **Links**
 
@@ -43,5 +42,7 @@ Macomb Community College
 14500 E. 12 Mile Road  
 Warren, Michigan 48088  
 Phone: 586.445.7314  
-Email: [webprivacy@macomb.edu](mailto:webprivacy@macomb.edu)  
+Email: [webinfo@macomb.edu](mailto:webinfo@macomb.edu)
 
+Approved by President's Council  
+May 24, 2016 
