@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ketto.org privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528221755id_/https%3A//www.ketto.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ketto.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119034022id_/https%3A//www.ketto.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Ketto
 
@@ -35,11 +35,11 @@ If you choose to post messages on our message boards, chat rooms or other messag
 
 If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Website, we may collect such information into a file specific to you.
 
-We collect personally identifiable information (email address, name, phone number, credit card / debit card / other payment instrument details, etc.) from you when you set up an account with us. While you can browse some sections of our Website without being a registered member, certain activities (such as making a donation / contribution) do require registration. We do use your contact information to send you information such as receipts, certificates, upcoming events, newsletters, etc. We also provide certain data to the Campaigners to interact with you and send you information of the type aforementioned as well as to complete certain transactions and fulfill commitments such as rewards, updates and the like.
+We collect personally identifiable information (email address, name, phone number, credit card / debit card / other payment instrument details, etc.) from you when you set up an account with us. While you can browse some sections of our Website without being a registered member, certain activities (such as making a donation / contribution) do require registration. We do use your contact information to send you information such as receipts, certificates, upcoming events, newsletters, etc. We also provide certain data to the Campaigner to interact with you and send you information of the type aforementioned as well as to complete certain transactions and fulfill commitments such as rewards, updates and the like.
 
 ### 2\. Use of Demographic / Profile Data / Your Information
 
-We use personal information to provide the services you request. To the extent we use your personal information to market to you, we will provide you the ability to opt-out of such uses. We use your personal information to resolve disputes; troubleshoot problems; help promote a safe service; collect money either by us or through an authorized payment gateway facility; measure User interests in Campaigns hosted on our site, inform you about updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions; and as otherwise described to you at the time of collection.
+We use personal information to provide the services you request. To the extent we use your personal information to market to you, we will provide you the ability to opt-out of such uses. We use your personal information to resolve disputes; troubleshoot problems; help promote a safe service; collect money either by us or through an authorized payment gateway facility; measure User interests in Fundraisers hosted on our site, inform you about updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions; and as otherwise described to you at the time of collection.
 
 In our efforts to continually improve our product and service offerings, we collect and analyse demographic and profile data about our users' activity on our Website.
 
@@ -71,7 +71,7 @@ To report an abuse on the Website, not being a cyber security incident, a User m
 
 If at any time a User wishes to review the information provided to Ketto at the time of registering with Ketto or at any time thereafter, you may do so by signing into your account and amending the same.
 
-We provide all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our Campaigners, and from us in general, after setting up an account. All Users are also given the option of cancelling their User accounts and bringing to our attention their desire to discontinue the use of our services.
+We provide all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our Campaigner, and from us in general, after setting up an account. All Users are also given the option of cancelling their User accounts and bringing to our attention their desire to discontinue the use of our services.
 
 If you want to deactivate your account or remove your contact information from all Ketto.org's lists and newsletters, please write to us at [info@ketto.org](mailto:info@ketto.org)
 
@@ -85,7 +85,7 @@ By using the Website and/ or by providing your information, you consent to the c
 
 If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-The donors/contributors hereby permit Ketto to share their personal information such as name, email address, contact information to the respective campaigners and beneficiaries of the donations made by the donors via Ketto.org
+The donors/contributors hereby permit Ketto to share their personal information such as name, email address, contact information to the respective Campaigner and beneficiaries of the donations made by the donors via Ketto.org
 
 ### 9\. Retention of Information
 
