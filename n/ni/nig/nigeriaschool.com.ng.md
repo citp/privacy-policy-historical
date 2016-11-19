@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the nigeriaschool.com.ng privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530205806id_/http%3A//www.nigeriaschool.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigeriaschool.com.ng privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119093812id_/http%3A//www.nigeriaschool.com.ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Gain Admission with IJMB to 200 level any university of your choice. Call 08034801226 / 08050288459 For More Info visit:[www.de-wiseconsult.com/](http://www.de-wiseconsult.com/)**
+  
+**Gain Admission with IJMB to 200 level any university of your choice. Call 07065362468 / 07051405071 For More Info visit:[www.de-wiseconsult.com/](http://www.de-wiseconsult.com/)**
 
 Privacy Policy for **http://www.nigeriaschool.com.ng**
 
