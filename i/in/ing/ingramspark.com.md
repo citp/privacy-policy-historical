@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ingramspark.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619113115id_/http%3A//www.ingramspark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingramspark.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119162509id_/http%3A//www.ingramspark.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Best Self Publishing Companies | IngramSpark
 
 ### **PRIVACY POLICY**
 
-The name, address, e-mail, and any payment information provided by You to Lightning Source Inc. dba IngramSpark ("Lightning Source"), together with information regarding the manner of use via this Site, will be processed by Lightning Source and its affiliated companies, and third party service providers, and not further disclosed to other third parties except as permitted by this Privacy Policy or as required by law or regulation. 
+The name, address, e-mail, and any payment information provided by You to Lightning Source Inc. dba IngramSpark ("Lightning Source"), together with information regarding the manner of use via this Site, will be processed by Lightning Source and its affiliated companies, and third party service providers, and not further disclosed to other third parties except as permitted by this Privacy Policy or as required by law or regulation.
 
 By using this site, You agree Lightning Source may share aggregate information, individual information, and locator information gathered by this site with other parties in the course of Your continuing individual use of this Site. "Aggregate Information" is information which describes the habits, usage patterns, and/or demographics of Users as a group, but does not describe or reveal the identity of any particular user. "Individual Information" is information about a User that is presented in a form distinguishable from information relating to other Users, but not in a form that personally identifies any User or enables the recipient to communicate directly with any User
 
@@ -71,9 +71,7 @@ Google Analytics cookies do not contain any information that personally identifi
 **Clear Gifs (Web Beacons)  
 ** Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear gifs to our customers’ personally identifiable information.
 
- **
-
- **Security  
+**Security  
 **
 
 We work to protect the security of Your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information You input. We also use encryption technology and a firewall in an attempt to protect information against unlawful intrusions; however, **Lightning Source cannot guarantee complete security, as it does not exist on the Internet.** It is important for You to also protect yourself against unauthorized access to Your password and to Your computer. Be sure to sign off when finished and when using a shared computer.
@@ -83,30 +81,3 @@ This Site may contain links to other web sites. Please be aware that Lightning S
 
 **Updates to This Policy**     
 If Lightning Source changes or updatesthis Privacy Policy, it will post those changes and updates on this page so that the User is always aware of what information Lightning Source collects, how it uses that information, and under what circumstances Lightning Source discloses it. Lightning Source encourages each User to review this Privacy Policy from time to time so Users will know if the Privacy Policy has been updated or amended. If you have any questions about the Lightning Source Privacy Policy, please contact us at: [inquiry@lightningsource.com](mailto:websupport@ingramcontent.com) or if you have any legal questions, we can be reached at: [legal@ingramcontent.com.](mailto:websupport@ingramcontent.com)
-
-** ** **
-
-[](https://web.archive.org/blog/create-a-strong-author-platform-with-free-content)
-
-## [Create a Strong Author Platform with Free Content](https://web.archive.org/blog/create-a-strong-author-platform-with-free-content "Create a Strong Author Platform with Free Content")
-
-Building a strong author platform can start with free content. Every word you write is a tool for promoting your brand and driving book sales. While it may sound counterintuitive, giving away your writing benefits you in the end. The main principle of marketing with free content is that all publicity is good publicity. The more you get your name and writing out there, the easier it is to create brand recognition and gain a following. [](https://web.archive.org/blog/create-a-strong-author-platform-with-free-content)
-
-* * *
-
-[](https://web.archive.org/blog/the-true-glory-of-professional-editors)
-
-## [The True Glory of Professional Editors: What Happens in Edit, Stays in Edit](https://web.archive.org/blog/the-true-glory-of-professional-editors "The True Glory of Professional Editors: What Happens in Edit, Stays in Edit")
-
-_by[Porter Anderson](http://porteranderson.com/) ([@Porter_Anderson](https://twitter.com/Porter_Anderson)) [The Hot Sheet](http://hotsheetpub.com/)_   
-In an exchange with a London-based self-publishing author lately, I was given an outline of how some indie writers use beta readers and colleagues rather than professional editing and proofreading services. I’d been writing about [Reedsy’s offerings for authors](http://publishingperspectives.com/2016/02/reedsy-expands-to-serve-publishers/#.V1a7SZErKUk), developed in smart association with IngramSpark. This writer was focused on demonstrating to me that it can be far less expensive to go without formal edits, and many indies—understandably!—would like to ease the costs of professional edits.  [](https://web.archive.org/blog/the-true-glory-of-professional-editors)
-
-* * *
-
-[](https://web.archive.org/blog/4-steps-to-build-a-strong-author-platform)
-
-## [4 Steps to Build a Strong Author Platform](https://web.archive.org/blog/4-steps-to-build-a-strong-author-platform "4 Steps to Build a Strong Author Platform")
-
-For some writers, building a strong author platform comes naturally, but for others, this extroverted activity of networking takes a lot of work. Whether it feels comfortable or not, the reality is that an author’s work needs to reach the right community of readers to be successful. This means that one of the most important aspects of marketing your book is building relationships with people who will promote your work. [](https://web.archive.org/blog/4-steps-to-build-a-strong-author-platform)
-
-* * *
