@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openfilesnow.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616063551id_/http%3A//www.openfilesnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openfilesnow.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119104841id_/http%3A//www.openfilesnow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Open, View, Edit And Fix Any File !
 
