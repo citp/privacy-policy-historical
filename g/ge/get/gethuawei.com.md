@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gethuawei.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327135254id_/http%3A//www.gethuawei.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gethuawei.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119050107id_/http%3A//www.gethuawei.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Huawei Official Store
 
