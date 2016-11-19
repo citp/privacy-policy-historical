@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the kimblegroup.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316170016id_/http%3A//kimblegroup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kimblegroup.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119083450id_/http%3A//kimblegroup.com/pages/privacy) for the most accurate reproduction.*
 
-# Kimble Group Terms of Use
-
-## Privacy Policy
+# Privacy Policy | Kimble Group
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
