@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nexusads.org privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619173846id_/http%3A//nexusads.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexusads.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119020144id_/http%3A//nexusads.org/privacy-policy) for the most accurate reproduction.*
 
 # NexusADS.org
 
