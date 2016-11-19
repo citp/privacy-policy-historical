@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herocpm.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424163920id_/http%3A//herocpm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herocpm.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119063145id_/http%3A//herocpm.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
