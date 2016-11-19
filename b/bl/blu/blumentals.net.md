@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blumentals.net privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504002210id_/http%3A//www.blumentals.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blumentals.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119032330id_/http%3A//www.blumentals.net/privacy.php) for the most accurate reproduction.*
 
 # Blumentals Software - Privacy Policy
 
@@ -33,7 +33,7 @@ When you place an order online with us, you will be redirected to an SSL-secured
 
 We may use collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
 
-**Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.** If you do not want to receive such information, **you can easily opt-out from future communication at anytime** by [removing your email address](http://www.blumentals.net/newsletter.php) from our mailing lists.
+**Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.** If you do not want to receive such information, **you can easily opt-out from future communication at anytime** by [removing your email address](https://www.blumentals.net/newsletter.php) from our mailing lists.
 
 Except as described in this statement, **we will never willfully disclose your personal information outside of Blumentals Software** without your consent.
 
@@ -58,7 +58,7 @@ You can usually modify your browser settings to disable cookies. However, by dis
 
 ## Google Analytics
 
-We use Google Analytics to understand how the site is being used in order to improve the user experience. User data is all anonymous. You can find out more about Google's position on privacy as regards its analytics service at [www.google.com](http://www.google.com/analytics/learn/privacy.html)
+We use Google Analytics to understand how the site is being used in order to improve the user experience. User data is all anonymous. You can find out more about Google's position on privacy as regards its analytics service at [www.google.com](https://www.google.com/analytics/learn/privacy.html)
 
 ## Software License Validation
 
@@ -74,4 +74,4 @@ Blumentals Software may periodically update this policy. When we do, we will pos
 
 ## Questions
 
-If you have any questions about this privacy policy, please [contact us](https://web.archive.org/web/20160504002210id_/http%3A//www.blumentals.net/contact.php).
+If you have any questions about this privacy policy, please [contact us](https://web.archive.org/web/20161119032330id_/http%3A//www.blumentals.net/contact.php).
