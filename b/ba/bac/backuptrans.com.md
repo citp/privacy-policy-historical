@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the backuptrans.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607160750id_/http%3A//www.backuptrans.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backuptrans.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119060701id_/http%3A//www.backuptrans.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Backuptrans - Privacy Policy
 
-**Backuptrans Customer Privacy Policy**  
----  
 Backuptrans's Customer Privacy Policy covers the collection, use, and disclosure of personal information that may be collected by Backuptrans anytime you interact with Backuptrans, such as when you visit our website, when you purchase Backuptrans products and services, or when you contact our sales or support associates. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. Your privacy is a priority at Backuptrans, and we go to great lengths to protect it.  
+---  
   
 * * *  
   
