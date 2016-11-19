@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trymyui.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402053318id_/http%3A//www.trymyui.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trymyui.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119084132id_/http%3A//www.trymyui.com/privacy) for the most accurate reproduction.*
 
-# Website Usability Testing | User Testing | Web Usability Test by TryMyUI
+# TryMyUI Privacy Policy
 
   
 
