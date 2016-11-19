@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookcloseouts.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625044856id_/http%3A//bookoutlet.com/Help/PrivacyAndSecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookcloseouts.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119203712id_/http%3A//bookoutlet.com/Help/PrivacyAndSecurity) for the most accurate reproduction.*
 
-# Help - Privacy &amp; Security
+# Privacy & Security - BookOutlet.com
 
 ## Privacy Policy
 
@@ -13,7 +13,7 @@ Our commitment to you:
 
 ### Personal Information
 
-A number of forms exist on our site (such as a registration form) that ask you for personal information. The following list explains why we require this data:
+A number of forms exist on our site (such as a registration form) that ask you for personal information. The following list explains why we require this data: 
 
   1. We need a name and a billing/shipping address so we can send your purchase statement and purchase to the address of your choice.
   2. We require your email address so we can communicate with you regarding any questions or concerns about your order. Your e-mail address is also the username for your account.
@@ -21,15 +21,15 @@ A number of forms exist on our site (such as a registration form) that ask you f
 
 
 
-We respect your privacy and only request information necessary for providing great [customer service](https://web.archive.org/Tickets/Create). If we are missing any registration information, we cannot serve you as efficiently as preferred.
+We respect your privacy and only request information necessary for providing great [customer service](https://web.archive.org/Tickets/Create). If we are missing any registration information, we cannot serve you as efficiently as preferred. 
 
-We receive your personal data through a secure, encrypted area which cannot be reached by outsiders. Your information is stored in a protected database that only our company can access.
+We receive your personal data through a secure, encrypted area which cannot be reached by outsiders. Your information is stored in a protected database that only our company can access. 
 
 ## Security Policy
 
-Book Outlet has been selling online for over 17 years and has never encountered a security issue.
+Book Outlet has been selling online for over 17 years and has never encountered a security issue. 
 
-Our commitment to you:
+Our commitment to you: 
 
   1. All onsite transactions are securely encrypted.
   2. We do not keep your credit card information on file; once it goes to the bank, we never see it again.
@@ -47,4 +47,6 @@ We use cookies for the following reasons:
 
 
 
-If you require further assistance, please call us toll-free at 1-888-402-7323 or [create a Service Inquiry](https://web.archive.org/Tickets/Create) and we will be happy to assist you in any way we can. 
+* * *
+
+If you require further assistance, please call us toll-free at [1-888-402-7323](tel:+18884027323) or create a [Service Inquiry](https://web.archive.org/Tickets/Create) and we will be happy to assist you in any way we can. 
