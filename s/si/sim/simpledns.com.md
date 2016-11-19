@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simpledns.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404085423id_/http%3A//simpledns.com/policy.aspx%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpledns.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119085226id_/http%3A//jhsoftware.dk/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy
+# JH Software - Privacy Statement
 
 This document details how we gather and disseminate information, in an effort to demonstrate our strong commitment to online privacy. Please contact us if you have any questions about our privacy policy.
 
@@ -15,7 +15,7 @@ If you choose to decline cookies, you will not be able to purchase our software 
 **USE OF E-MAIL ADDRESSES / OPT OUT  
 **If you contact us by e-mail, purchase our software, or subscribe to our mailing list, we may occasionally use your e-mail address to send you information about product updates and other news we feel you might be interested in (typically only when a new software version is released).  
 Any automated e-mails sent will include instructions for automatic removal from our mailing list.  
-You may also opt-out of receiving future mailings at any time by sending an e-mail to [support@jhsoft.com](mailto:support@jhsoft.com) asking us to remove you from our list.. 
+You may also opt-out of receiving future mailings at any time by sending an e-mail to [support@jhsoftware.dk](mailto:support@jhsoftware.dk) asking us to remove you from our list.. 
 
 **USE OF ORDER INFORMATION  
 **When you place an order, we requests information such as contact information, credit card number and demographic information. The contact information you provide is used to send you orders, and provide you with updates on future releases of our products.  
@@ -35,9 +35,6 @@ We use Microsoft web server software which is continuously updated with the late
 We do not store credit card numbers on any computers connected directly or indirectly to the Internet.
 
 **CONTACT US**  
-If you have any additional questions or concerns about our privacy policy, please contact us at [support@jhsoft.com](mailto:support@jhsoft.com)
+If you have any additional questions or concerns about our privacy policy, please contact us at [support@jhsoftware.dk](mailto:support@jhsoftware.dk)
 
-For more information, please see [Terms of Use](https://web.archive.org/web/20160404085423id_/http%3A//simpledns.com/policy.aspx?terms)
-
-  
-
+For more information, please see [Terms of use](https://web.archive.org/terms-of-use)
