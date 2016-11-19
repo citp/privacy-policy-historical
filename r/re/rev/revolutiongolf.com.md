@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revolutiongolf.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628005206id_/http%3A//www.revolutiongolf.com/%40rg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolutiongolf.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119185528id_/http%3A//www.revolutiongolf.com/%40rg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
