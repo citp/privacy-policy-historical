@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dishtv.in privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324133547id_/http%3A//www.dishtv.in/Pages/Others/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dishtv.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119023749id_/http%3A//www.dishtv.in/Pages/Others/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# DISHTV Privacy Policy, Policy Details, Customer Privacy Policy
+# DishTV Privacy Policy, Policy Details, Customer Privacy Policy
 
 ### Information Collected
 
@@ -12,7 +12,7 @@ This Web site is not intended for persons under 13 years of age. We do not knowi
 
 Domain name information that we collect is not used to personally identify you and instead is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. We use this information to measure the use of our site and to improve its content.
 
-When other information is collected from you, such as your name and e-mail address, we generally let you know at the time of collection how we will use the personal information. Usually, we use the personal information you provide only to respond to your inquiry or to process your request (such as to receive newsletters). This information may be shared with other dishtv is group companies businesses, but only if necessary to fulfill your request or for related purposes. 
+When other information is collected from you, such as your name and e-mail address, we generally let you know at the time of collection how we will use the personal information. Usually, we use the personal information you provide only to respond to your inquiry or to process your request (such as to receive newsletters). This information may be shared with other DishTV is group companies businesses, but only if necessary to fulfil your request or for related purposes. 
 
 The information collected from you may also be helpful in relation to the services offered by us on our website and also to anticipate and resolve problems with any goods or services supplied to you. Your information is also helpful in administering or otherwise carrying out our obligations in relation to any agreement you have with us and to create products and service to meet your needs. We also use your information to process and respond to requests, improve our operations and communicate with visitors about our products, services and businesses.
 
@@ -20,11 +20,11 @@ In addition, we may have collected similar information from you in the past. By 
 
 We may share the personal information you provide with other companies we have hired to provide services for us. These companies - our vendors - are contractually bound to use personal information we share with them only to perform the services we have hired them to provide. We do not share, sell, or lease personal information about you to any third parties for their marketing use. We will release information about you if you direct us to do so, if we are required by law to do so, or in other legally limited circumstances (for example, to protect your account from fraud). 
 
-If you register with one of dishtv's business units online, they may use this information to provide you with custom information about dishtv's offerings in support of your business needs. You should review the privacy policy associated with that dishtv business' Web site for further information about that dishtv business' privacy practices. For example, a technology called cookies may be used to provide you with tailored information. A cookie is a tiny element of data that a Web site can send to your browser, which may then be stored on your hard drive so we can recognize you when you return. You may set your browser to notify you when you receive a cookie.
+If you register with one of DishTV's business units online, they may use this information to provide you with custom information about DishTV's offerings in support of your business needs. You should review the privacy policy associated with that DishTV business' Web site for further information about that DishTV business' privacy practices. For example, a technology called cookies may be used to provide you with tailored information. A cookie is a tiny element of data that a Web site can send to your browser, which may then be stored on your hard drive so we can recognize you when you return. You may set your browser to notify you when you receive a cookie.
 
 ### Security of collected Information
 
-We maintain strict physical, electronic, and administrative safeguards to protect your personal information from unauthorized or inappropriate access. We restrict access to information about you to those dishtv employees who need to know the information to respond to your inquiry or request. Employees who misuse personal information are subject to disciplinary action.
+We maintain strict physical, electronic, and administrative safeguards to protect your personal information from unauthorized or inappropriate access. We restrict access to information about you to those DishTV employees who need to know the information to respond to your inquiry or request. Employees who misuse personal information are subject to disciplinary action.
 
 ### Access to Collected Information 
 
