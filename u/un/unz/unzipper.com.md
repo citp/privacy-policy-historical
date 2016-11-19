@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the unzipper.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331010251id_/http%3A//unzipper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unzipper.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119160415id_/http%3A//unzipper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Unzipper.com
 
 ## Overview of Our Privacy Policy
 
-We supply free utility software. Our Products may include Toolbars, which add search functionality to your browser. They also allow one click access to news and our offers. We refer to our software and Products throughout this agreement as our “Services”.
+We supply free software. Our Products may include browser extensions, which add search functionality to your browser. They also allow one click access to news and our offers. We refer to our software and Products throughout this agreement as our “Services”.
 
 We offer our Services to you in exchange for your agreement to view promotions, advertisements, or participate in other offers. We also offer you the opportunity to download third-party software.
 
@@ -19,7 +19,7 @@ Please read this Privacy Policy carefully so that you understand our online priv
 
 We may make available shorter versions of this Privacy Policy. We also may supplement this policy for specific Services. Where there is a conflict between this policy and our summary this policy will govern. Where there is a conflict between this policy and our supplement, the supplement will govern.
 
-We may change this privacy policy. If we change this policy we will post the changes to this privacy statement, our websites’ homepages, and other places we deem appropriate. We reserve the right to modify this policy at any time. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
+We may change this privacy policy. If we change this policy we will post the changes to this privacy statement, our websites’ homepages, and other places we deem appropriate. We reserve the right to modify this policy at any time. If we make material changes to this policy, we will notify you here. 
 
 ## Some Terms We Use in This Policy
 
@@ -29,9 +29,9 @@ _Personally Identifiable Information (PII)_ is any information that identifies o
 
 _Partner_ is an advertiser, or other entity with whom we have a business relationship to provide Offers.
 
-_Service_ includes, but is not limited to, our screensaver, wallpaper, game, animated gif, clip art, buddy icon, greeting card, browser skin, font, desktop theme, html editor, sound effect, social networking, storage, and calendar software, as well as our Toolbars.
+_Service_ includes, but is not limited to, our browser extensions, screensaver, wallpaper, game, animated gif, clip art, buddy icon, greeting card, browser skin, font, desktop theme, html editor, sound effect, social networking, storage, and calendar software, as well as our Toolbars.
 
-_Subsidiary_ is an entity wholly owned or related to Unzipper.com.
+_Subsidiary_ is an entity wholly owned or related to Tightrope Interactive.
 
 _User_ means an individual that has accessed the Sites on which we host our Products or Services.
 
@@ -103,11 +103,11 @@ Many ad companies are members of the Network Advertising Initiative. NAI members
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-## How Do Toolbars Affect Your Browser And Operating System?
+## How Do browser extensions Affect Your Browser And Operating System?
 
-Toolbars install into your Internet browser and allow you to search the Internet. If you consent to make a toolbar your default search, your Internet browser default search feature will be set and you will access search services (i) by entering queries in your browser search box; (ii) by entering queries in your browser address bar, and/or (iii) in response to misspelled, incorrectly formatted or unresolved DNS submissions in your browser address bar.
+Browser extensions install into your Internet browser and allow you to search the Internet. If you consent to install a browser extension your default search, your Internet browser default search feature may be changed and you will access search services (i) by entering queries in your browser search box; (ii) by entering queries in your browser address bar, and/or (iii) in response to misspelled, incorrectly formatted or unresolved DNS submissions in your browser address bar.
 
-Toolbars do not affect your operating system. Toolbars can be removed at any time. For more information regarding toolbars, please view our [Terms of Service](https://web.archive.org/terms-of-service/).
+Browser extensions do not affect your operating system. Browser extensions can be removed at any time. For more information regarding browser extensions, please view our [Terms of Service](https://web.archive.org/terms-of-service/).
 
 ## How do I opt out?
 
@@ -115,15 +115,9 @@ We currently do not send messages to or collect data from users. If at any time 
 
 If you would like to be removed from our system, you can reach us via email at [contactus@unzipper.com](mailto:contactus@unzipper.com).
 
-## California Online Privacy Protection Act Compliance
-
-Because we value your privacy, we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at any time by logging into their account via the “Sign In” link on the top right of the home page. Then click on ‘Page Settings’ and then go to the ‘Account’ section.
-
 ## Children’s Online Privacy Protection Act Compliance
 
-We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act). We do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+In an effort to comply with the requirements of COPPA (Children’s Online Privacy Protection Act). We do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older, and who have authorization from their legal parent or guardian if they are under 18 years old.
 
 ## Online Privacy Policy Only
 
@@ -135,7 +129,11 @@ Please also visit our “Terms of Service” section establishing the use, discl
 
 ## Your Consent
 
-By using our site, you consent to our privacy policy.
+By using our site, you consent to our privacy policy, and those of applicable Partners.
+
+Some of the web search services provided herein are provided by Better-Search Search and powered by Better-Search search partners. For information on the web search services data collection, please visit [here](http://info.better-search.net/legal-privacy), and the search provider’s privacy policy, as applicable. 
+
+Some of the browser extensions are sealed by [ AppEsteem ](http://www.appesteem.com/privacy-policy.html) , a third-party certification service.
 
 ## Changes to our Privacy Policy
 
@@ -145,12 +143,11 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may [Contact Us](https://web.archive.org/contact-us/) at:
 
-**Code Techno**  
-106 E. Sixth Street  
-Suite 900  
-Austin, TX 78701  
+**Tightrope Interactive**  
+588 Sutter St #551  
+San Francisco, CA 94108  
 
 
 [contactus@unzipper.com](mailto:contactus@unzipper.com)
 
-**Last Updated: June 3, 2015**
+**Last Updated: September 16, 2016**
