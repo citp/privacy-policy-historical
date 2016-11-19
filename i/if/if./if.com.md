@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606135703id_/http%3A//www.if.com/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the if.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119190750id_/http%3A//www.if.com/privacy/default.aspx) for the most accurate reproduction.*
 
 # Privacy - Intelligent Finance
 
