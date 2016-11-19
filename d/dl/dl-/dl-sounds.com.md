@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dl-sounds.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624031328id_/http%3A//www.dl-sounds.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dl-sounds.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119135545id_/http%3A//www.dl-sounds.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice - dl-sounds.com
 
@@ -24,4 +24,4 @@ Changes to this privacy notice
 We reserve the right to modify this privacy notice in the future. Please check our privacy notice periodically.
 
 **Contact us**  
-If you have any questions about this privacy notice, please do not hesitate to contact us at info (at) dl-sounds. com. Or click here
+If you have any questions about this privacy notice, please do not hesitate to contact us at info (at) dl-sounds. com. Or [click here](http://www.dl-sounds.com/contact/)
