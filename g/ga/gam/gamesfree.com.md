@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesfree.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608111039id_/http%3A//www.gamesfree.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesfree.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119045208id_/http%3A//www.gamesfree.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Games Free: Privacy Policy
 
@@ -8,7 +8,7 @@ This is an official privacy policy ("Privacy Policy") for the free online game w
 
 ### 100% Privacy
 
-For your peace of mind: gamesfree.com is committed to protecting your privacy online. gamesfree.com does **not** collect any personal information and our main goal is to provide you with daily free online games. 
+For your peace of mind: gamesfree.com is committed to protecting your privacy online. gamesfree.com does **not** collect any personal information and our main goal is to provide you with daily free online games. Please keep reading this statement to learn more about cookies that could (or could not) be used by third parties that we allow to advertise on our gaming portal. 
 
 ### About cookies
 
@@ -17,6 +17,10 @@ Cookies are local digital text files that can be created by any remote connectio
 ### No Logging
 
 Your IP address is being logged to gather demographic information and to visualize visiting paterns (how many pages you views, gameplays, downloads, etc). Our scripts, html and php codes do no execute to read or write from cookies. We will never log individual details, or anything that might give us a clue who you are. Our webserver has the log configuration disabled and only takes an emergency dump (EMERG log level) in the event of a crash. 
+
+### Sharing Of Information
+
+There are no scripts or programs running on our server that store your information. We allow our third party advertisers to host scripts on our webpages. Third party advertisers might collect, store and use your information. These scripts are not property of our game portal website and are subject to the privacy policy of the third party. Find the links to the third party privacy policies in the sections below to learn more. 
 
 ### Third Party Advertising
 
