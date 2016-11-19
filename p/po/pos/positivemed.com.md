@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the positivemed.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524213551id_/http%3A//positivemed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the positivemed.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119144421id_/http%3A//positivemed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PositiveMed
 
@@ -67,3 +67,5 @@ info@positivemed.com
 _This document was last updated on November 12, 2012_
 
 _Privacy policy created by http://www.generateprivacypolicy.com_
+
+[](https://www.pinterest.com/pin/create/button/)
