@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jambojet.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605130343id_/http%3A//www.jambojet.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jambojet.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119013834id_/http%3A//www.jambojet.com/privacy-policy) for the most accurate reproduction.*
 
-# Jambojet.com - Privacy Policy
+# Privacy Policy
 
 * * *
 
@@ -78,7 +78,7 @@ To ensure that the information you provide us with online is protected, we use a
 
 10\. Does our website use cookies?
 
-The website uses cookies, small pieces of information that are stored by the browser on your computer's hard drive, to help us provide you with a better site experience. None of your personal details are held in these cookies. If you are uncomfortable with our use of cookies you can disable them by changing the settings on your browser, but please note that if you disable them it may affect your ability to fully utilize the site. You can find out more about the way cookies work and how to disable them at [http://www.cookiecentral.com.](http://www.cookiecentral.com./)
+The website uses cookies, small pieces of information that are stored by the browser on your computer's hard drive, to help us provide you with a better site experience. None of your personal details are held in these cookies. If you are uncomfortable with our use of cookies you can disable them by changing the settings on your browser, but please note that if you disable them it may affect your ability to fully utilize the site. You can find out more about the way cookies work and how to disable them at [http://www.cookiecentral.com](http://www.cookiecentral.com/)[.](http://www.cookiecentral.com./)
 
 **DISCLOSING YOUR INFORMATION TO THIRD PARTIES**
 
@@ -117,4 +117,4 @@ You can set preferences for how Google advertises to you using the [Google Ad Pr
 
 15\. How can you contact us about privacy issues?
 
-You can contact us about privacy issues or comment or complain about our privacy practices by contacting us through [webmaster@jambojet.com](mailto:webmaster@jambojet.com)
+You can contact us about privacy issues or comment or complain about our privacy practices by contacting us through [webmaster@jambojet.com](mailto:webmaster@jambojet.com) [](mailto:webmaster@jambojet.com)
