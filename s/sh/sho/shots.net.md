@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shots.net privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608020704id_/http%3A//www.shots.net/static/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shots.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119031642id_/http%3A//www.shots.net/static/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # shots.net
 
