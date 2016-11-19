@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pilatesandyogafitness.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624140759id_/http%3A//pilatesandyogafitness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pilatesandyogafitness.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119020824id_/http%3A//pilatesandyogafitness.com/privacy-policy) for the most accurate reproduction.*
 
 # Pilates & Yoga Fitness » Privacy Policy
 
