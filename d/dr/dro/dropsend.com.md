@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dropsend.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610084907id_/http%3A//www.dropsend.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropsend.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119111320id_/http%3A//www.dropsend.com/privacy.php) for the most accurate reproduction.*
 
-# DropSend - Send large files and email large files
+# Privacy Policy | Send Large Files and Email Large Files
 
 ## Privacy Statement
 
