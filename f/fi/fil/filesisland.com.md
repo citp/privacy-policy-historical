@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filesisland.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612121742id_/http%3A//filesisland.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filesisland.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119044748id_/http%3A//filesisland.com/privacy.html) for the most accurate reproduction.*
 
 # FilesIsland | Keep your files and data safe Forever
 
