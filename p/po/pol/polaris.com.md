@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polaris.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313135207id_/http%3A//www.polaris.com/en-us/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polaris.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119180251id_/http%3A//www.polaris.com/en-us/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Polaris
 
