@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the awmi.net privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503232322id_/http%3A//www.awmi.net/more/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awmi.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119030011id_/http%3A//www.awmi.net/more/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Andrew Wommack Ministries International
+# Privacy Policy - Andrew Wommack Ministries
 
 ANDREW WOMMACK MINISTRIES AND CHARIS BIBLE COLLEGE DONOR POLICY
 
@@ -101,4 +101,4 @@ If you have questions about this Privacy Policy, please contact AWM or Charis vi
 
 
 
-© 1997-2015 Andrew Wommack Ministries. All Rights Reserved. 
+© 2016 Andrew Wommack Ministries. All rights reserved. 
