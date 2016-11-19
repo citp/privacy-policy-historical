@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squarebrothers.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604151112id_/http%3A//www.squarebrothers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squarebrothers.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119155858id_/http%3A//www.squarebrothers.com/privacy.php) for the most accurate reproduction.*
 
 # Your Privacy is Assured : We wont sell your email address to anyone
 
