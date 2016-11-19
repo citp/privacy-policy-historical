@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the focusgroup.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620180925id_/http%3A//www.focusgroup.com/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focusgroup.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015645id_/https%3A//focusgroup.com/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # About | Privacy Policy
 
