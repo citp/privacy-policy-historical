@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the touristlink.com privacy policy that was archived on 2016-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160305024932id_/http%3A//www.touristlink.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touristlink.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119163448id_/http%3A//www.touristlink.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Touristlink :: Privacy Policy
 
@@ -71,16 +71,5 @@ If you wish to disable cookies, you may do so through your individual browser op
 
   
 Contacting TouristLink about Privacy Policy 
-    If you have any questions or comments regarding our privacy policy, please send us an e-mail at [support@touristlink.com](mailto:support@touristlink.com). Additionally, we encourage you to check our website from time to time as we may update and modify our privacy policy. 
+    If you have any questions or comments regarding our privacy policy, please send us an e-mail at [support@touristlink.com](mailto:support@touristlink.com). Additionally, we encourage you to check our website from time to time as we may update and modify our privacy policy.   
 
-Attn: Privacy Officer  
-Touristlink.com  
-Holiday Deals Pvt Ltd. / Touristlink Corp
-
-14/1 & 14/2, 2nd Floor, IT Park  
-South Ambazari Road,Parsodi,  
-Nagpur, MH 440022  
-India
-
-or [Contact Us](http://www.touristlink.com/contactus.html "Contact Us")  
-Last updated June 6, 2013
