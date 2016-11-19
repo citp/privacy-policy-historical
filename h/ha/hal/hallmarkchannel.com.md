@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hallmarkchannel.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617110834id_/http%3A//www.hallmarkchannel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hallmarkchannel.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119020702id_/http%3A//www.hallmarkchannel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hallmark Channel
-
-Privacy Policy
 
 Thank you for visiting the Hallmark Channel web site. Your privacy on the Internet is important to us. To better protect your privacy we provide you with this notice outlining how we collect and use online information. 
 
