@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the katc.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604144647id_/http%3A//www.katc.com/category/291373/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katc.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119105237id_/http%3A//www.katc.com/category/291373/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KATC.com | Continuous News Coverage | Acadiana-Lafayette
 
