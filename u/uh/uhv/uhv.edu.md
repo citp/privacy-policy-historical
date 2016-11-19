@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the uhv.edu privacy policy that was archived on 2016-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160117213118id_/http%3A//www.uhv.edu/aboutuhv/privacyandpolicies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhv.edu privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119032525id_/http%3A//www.uhv.edu/about-uhv/privacy-and-policies) for the most accurate reproduction.*
 
-# Privacy and Policies - University of Houston-Victoria
+# Privacy and Policies - About UHV - University of Houston-Victoria
 
 ## Privacy Policy
 
-The University of Houston-Victoria maintains this web site as a public service. The following is the privacy policy for this site (all pages starting with www.uhv.edu and www2.uhv.edu)
+The University of Houston-Victoria maintains this web site as a public service. The following is the privacy policy for this site (all pages starting with www.uhv.edu).
 
 We use cookies and other technologies to learn how to improve the quality of our online service to you. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. A cookie file may be used to track such things as lists of pages you've visited, and the date when you last looked at a specific page, or to identify your session at a particular web site. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies.
 
@@ -22,7 +22,7 @@ Web Services at the University of Houston-Victoria (UHV) make every effort to en
 NOTE: Due to the evolving nature of UHV, technology, and the World Wide Web, UHV Web Policies and Guidelines are subject to change.
 
 
-  * All questions and concerns about UHV Web Policies and Guidelines should email [Webmaster@UHV.edu](mailto:Webmaster@UHV.edu?subject=Questions%2FConcerns%20RE:%20UHV%20Web%20Policies%20And%20Guidelines&cc=WebServices@uhv.edu).
+  * All questions and concerns about UHV Web Policies and Guidelines should email [WebRequest@UHV.edu](mailto:WebRequest@UHV.edu?subject=Questions%2FConcerns%20RE:%20UHV%20Web%20Policies%20And%20Guidelines&cc=WebServices@uhv.edu).
 
 
 
