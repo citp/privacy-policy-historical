@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surf-forecast.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610082446id_/http%3A//www.surf-forecast.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surf-forecast.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119083906id_/http%3A//www.surf-forecast.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,5 +19,3 @@ Surf-Forecast.com uses cookies to allow its visitors access their accounts witho
 Pages of Surf-Forecast.com contain banner ads and analytics tools hosted by 3rd parties, such as Google Analytics. These companies have their own privacy policies with regard to utilizing the cookies and tracking user behavior. 
 
 Surf-Forecast.com will not share the list of users' email or postal addresses with any third parties without consent of the users, with the exception of providing postal services with information required for delivery of the products ordered by the user or awarded to the user. 
-
-**Do you have old images of surf?** Simply upload them to the photo gallery and we will search our vast archive of forecasts and display the open water swell sizes, directions and periods, as well as wind and tide at the time of the image. It's a really useful way of knowing what to look for in the forecast tables. 
