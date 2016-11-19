@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strath.ac.uk privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618135608id_/http%3A//www.strath.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strath.ac.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119102722id_/http%3A//www.strath.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies - University of Strathclyde
 
