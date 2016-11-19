@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fidelity-media.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618170152id_/http%3A//fidelity-media.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fidelity-media.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119105713id_/http%3A//fidelity-media.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fidelity Media Ad Network
 
