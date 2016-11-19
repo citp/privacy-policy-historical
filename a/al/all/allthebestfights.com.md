@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allthebestfights.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617053150id_/http%3A//www.allthebestfights.com/privacy-policy-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthebestfights.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119030745id_/http%3A//www.allthebestfights.com/privacy-policy-disclosure) for the most accurate reproduction.*
 
 # Privacy policy & Disclosure - All The Best Fights.com
 
@@ -52,3 +52,5 @@ You expressly agree that use of the Site is at your sole risk as well as any mat
 All the names of companies, images, screenshots, videos and trademarks of third parties mentioned on this website are used for information and review purposes (and are property of their respective owners). None of the videos are hosted by our servers and we post just free embeddable videos or gif hosted on free and public external website such as Youtube, Dailymotion, Vimeo, Streamable, Sapo, Youku, Rutube, Spruto etc. So if you find a video that you want to report, please contact the website where the video is hosted. Otherwise if you believe that any other material (not video) is being used somewhere on the Site in a way that constitutes trademark or copyright infringement, you should contact us at info(at)allthebestfights.com.
 
 The Site design, name, logo, rankings and all written content are © copyright of AllTheBestFights.com and are protected by copyright, trademark, and other intellectual property laws. The Site is provided only for your personal non-commercial use and you may not use, modify, copy, reproduce, republish, post, transmit, translate or sell any material we produce if it has not been authorized by us. 
+
+﻿ 
