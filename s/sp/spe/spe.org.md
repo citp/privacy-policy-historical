@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spe.org privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609230304id_/http%3A//www.spe.org/about/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spe.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119165128id_/http%3A//www.spe.org/about/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Society of Petroleum Engineers
 
@@ -84,7 +84,7 @@ _Links to SPE.org From SPE Websites
 __(SPE Sections, Student Chapters and Other SPE Official Units)_
 
   * All SPE section, chapter, and other official unit websites should contain a prominent link to the SPE website at http://www.spe.org, preferably from some portion of the home page of the website.
-  * This link may be made using the official SPE logo, or may be hyperlinked text, such as "Society of Petroleum Engineers" or "Society of Petroleum Engineers website." ([Please view SPE Graphics Standards Guide on proper use of the logo](https://web.archive.org/about/docs/graphicstandards.pdf).)
+  * This link may be made using the official SPE logo, or may be hyperlinked text, such as "Society of Petroleum Engineers" or "Society of Petroleum Engineers website." ([Please view SPE Graphics Standards Guide on proper use of the logo.](https://web.archive.org/web/20161119165128id_/http%3A//www.spe.org/about/graphics-standards.php))
 
 
 
