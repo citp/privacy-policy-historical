@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverwhiz.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608014029id_/http%3A//driverwhiz.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverwhiz.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119143635id_/http%3A//driverwhiz.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Driver Whiz Privacy Policy
 
@@ -176,7 +176,7 @@ agent will have access to your entire system.
 Such information and access may be used depending on the product and to  
 the extent permitted by law, including without limitation:
 
-  * \- to deliver the services and support, or carry out, the  
+  * – to deliver the services and support, or carry out, the  
 transactions you have requested;
   * -to send communications to you, such as product safety information,  
 your status (for example, order confirmation, registration status,  
