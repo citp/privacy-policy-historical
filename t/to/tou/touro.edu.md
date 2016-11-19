@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the touro.edu privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604065919id_/http%3A//www.touro.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touro.edu privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119195723id_/http%3A//www.touro.edu/privacy-policy) for the most accurate reproduction.*
 
-# The Touro College and University System:
+# Touro College Website Privacy Policy - The Touro College and University System: Privacy Policy
 
 This website is administered by Touro College. The primary purpose of this website is to be a dynamic resource and educational tool to help you create your future. We want you to feel secure when visiting our site and are committed to maintaining your privacy when doing so.
 
