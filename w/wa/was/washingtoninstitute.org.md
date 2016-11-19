@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the washingtoninstitute.org privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608181149id_/http%3A//www.washingtoninstitute.org/support/donor-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtoninstitute.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119064343id_/http%3A//www.washingtoninstitute.org/support/donor-privacy-policy) for the most accurate reproduction.*
 
 # Donor Privacy Policy - The Washington Institute for Near East Policy
 
