@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionbunker.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315120418id_/http%3A//us.fashionbunker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionbunker.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119181613id_/http%3A//us.fashionbunker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BNKR
 
@@ -110,7 +110,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 http://fashionbunker.com  
-106 Currie Street  
+233 North Terrace  
 Adelaide, SA 5000  
 Australia  
 support@bnkr-store.com  
