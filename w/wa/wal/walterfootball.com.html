@@ -1,16 +1,17 @@
-<!--The following is the downloaded HTML source of the walterfootball.com privacy policy that was archived on 2016-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616124135id_/http%3A//walterfootball.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the walterfootball.com privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119093219id_/http%3A//walterfootball.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta http-equiv="Cache-Control" content="no-store">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
+ 
+    
     <meta name="author" content="">
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="http://i.po.st/static/v3/post-widget.js#publisherKey=hhc49cnunskf5m0t5ql3"></script><script async="" src="http://cdn.taboola.com/libtrc/walterfootball/loader.js"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=e982913d31/cloudflare.min.js"></script><script type="text/javascript">
+    <script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="http://i.po.st/static/v3/post-widget.js#publisherKey=hhc49cnunskf5m0t5ql3"></script><script async="" src="http://cdn.taboola.com/libtrc/walterfootball/loader.js"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=088620b277/cloudflare.min.js"></script><script type="text/javascript">
 //<![CDATA[
-try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"d2a68e6752ae936521788fe6c33bc814",petok:"23499923ee85e8d8ca8262d67b311494b6fde232-1466080895-1800",zone:"walterfootball.com",rocket:"0",apps:{"infolinks":{"pid":"2568678","wsid":"0","site_status":"pending"}},sha2test:0}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=e982913d31/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"7f6b69c96740abf46ac0553870577d0f",petok:"366b9ed384fd762ee346ef3a8f213b55ee428260-1479547939-1800",zone:"walterfootball.com",rocket:"0",apps:{"infolinks":{"pid":"2568678","wsid":"0","site_status":"pending"}}}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=088620b277/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
 //]]>
 </script>
 <link href="/jscss/images/wfico.ico" rel="icon" type="image/png">
@@ -23,6 +24,47 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
 
     <script type="text/javascript">
         var dfLogAdStuff = false;
+            
+                var dfTimeStart = Date.now();
+                var dfDocReady = 0;
+                var dfWindowLoad = 0;
+                var dfLogAdStuff = true;
+
+                //$(document).ready(function () {
+                //    dfDocReady = Date.now() - dfTimeStart;
+                //});
+               
+                   
+
+    function TeamSelectionQuickJump(ctl) {
+        //alert('df 1');
+        var timg = $($(ctl).parent()).find('img')[0];
+        // alert('df 2');
+        var timgSrc = timg.src;
+        var timgId = timg.id;
+
+        //alert(timgSrc);
+
+        //todo:  post or get to endpoint that will return page link
+        $.ajax({
+            type: 'POST',
+            url: '/nfl/TeamSelectionQuickJump',
+            dataType: 'json',
+            async: false,
+            traditional: true,
+            data: {
+                'imgSrc': timgSrc,
+                'imgId': timgId
+            },
+            success: function (data) {
+                window.location = data;
+                //window.location = data.replace("draft2017charlie.php", "nfl/draftcharlie");
+            }
+        });
+
+
+    }
+
     </script>
 
   
@@ -67,7 +109,9 @@ try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag
             iframe.height = tmp + "px";
         }
     </script>
-<script src="https://adosia.com/adscroll/iscroll-min.js"></script></head>
+
+ 
+<script type="text/javascript" src="https://frontend.1worldonline.com/poller-constructor.js" async=""></script><script src="https://adosia.com/adscroll/iscroll-min.js"></script></head>
     
 
 <body style="background-image: url('/Images/football_field.jpg');">
@@ -308,11 +352,13 @@ LD_GetBids();
                     <a href="/picks.php">NFL Picks</a>
                 </li>
                 <li class="dropdown">
-                    <a class="dropdown-toggle" href="/draft2015.php" data-toggle="dropdown">NFL Draft <span class="caret"></span></a>
+                    <a class="dropdown-toggle" href="/draft2017.php" data-toggle="dropdown">NFL Draft <span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu" style="z-index:10000;">
                         <li class="dropdown-header"><img width="30" src="/jscss/Images/wflogobiggerTransparentBg.png"> Primary Content</li> 
                         <li><a href="/draft2017.php">2017 NFL Mock Draft</a></li>
                         <li><a href="/draft2017charlie.php">Charlie's 2017 NFL Mock Draft</a></li>
+                        <li><a href="/draft2018.php">2018 NFL Mock Draft</a></li>
+                        <li><a href="/draft2018charlie.php">Charlie's 2018 NFL Mock Draft</a></li>
                         <li><a href="/draft2016.php">2016 NFL Mock Draft</a></li>
                         <li><a href="/draftmailbag.php">NFL Draft Mailbag</a></li>
                         <li><a href="/mocks/nfl/2017/oakland-raiders">Picks by Team</a></li>
@@ -325,34 +371,34 @@ LD_GetBids();
                         <li class="dropdown-header"><img width="23" src="/jscss/Images/ExternalLinks.png">General Content</li>
                         <li><a href="/nfldraftgrades.php">NFL Draft Grades</a></li>
                         <li><a href="/nfldraftweekend.php">NFL Draft Weekend</a></li>
-                        <li><a href="/draft2016recap.php">College Football Game Recaps</a></li>
-                        <li><a href="/draft2015mmd.php">Monday Morning Draft</a></li>
+                        <li><a href="/draft2017recap.php">College Football Game Recaps</a></li>
+                        <li><a href="/draft2016mmd.php">Monday Morning Draft</a></li>
                         <li><a href="/draftchart.php">NFL Trade Value Chart</a></li>
-                        <li><a href="/nfldraftorder2016.php">2016 NFL Draft Order</a></li>
+                        <li><a href="/nfldraftorder2017.php">2017 NFL Draft Order</a></li>
                     </ul>
                 </li>
                 <li class="dropdown">
-                    <a class="dropdown-toggle" href="/draft2015.php" data-toggle="dropdown">NFL Mocks <span class="caret"></span></a>
+                    <a class="dropdown-toggle" href="/draft2017.php" data-toggle="dropdown">NFL Mocks <span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu" style="z-index:10000;">
                         <li class="dropdown-header"><img width="30" src="/jscss/Images/wflogobiggerTransparentBg.png"> Primary Content</li>
                         <li><a href="/draft2017.php">2017 NFL Mock Draft</a></li>
                         <li><a href="/draft2017charlie.php">Charlie's 2017 NFL Mock Draft</a></li>
-                        <li><a href="/draft2016.php">2016 NFL Mock Draft</a></li>
-                        <li><a href="/draft2016charlie.php">Charlie's 2016 NFL Mock Draft</a></li>
+                        <li><a href="/draft2018.php">2018 NFL Mock Draft</a></li>
+                        <li><a href="/draft2018charlie.php">Charlie's 2018 NFL Mock Draft</a></li>
                         <li class="divider"></li>
                         <li class="dropdown-header"><img width="23" src="/jscss/Images/ExternalLinks.png">General Content</li>
                         <li><a href="/specialmockdrafts.php">Special Mock Drafts</a></li>
-                        <li><a href="/nfldraftorder2016.php">2016 NFL Draft Order</a></li>
+                        <li><a href="/nfldraftorder2017.php">2017 NFL Draft Order</a></li>
                         <li><a href="/draftdata.php">NFL Mock Database</a></li>
                     </ul>
                 </li>
                 <li class="dropdown">
-                    <a class="dropdown-toggle" href="/draft2008P.php#2015positions" data-toggle="dropdown">NFL Prospects <span class="caret"></span></a>
+                    <a class="dropdown-toggle" href="/draft2008P.php#2017positions" data-toggle="dropdown">NFL Prospects <span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu" style="z-index:10000;">
                         <li class="dropdown-header"><img width="30" src="/jscss/Images/wflogobiggerTransparentBg.png"> Primary Content</li>
-                        <li><a href="/draft2008P.php#2016positions">2016 Draft Prospects</a></li>
+                        <li><a href="/draft2008P.php#2017positions">2017 Draft Prospects</a></li>
                         <li><a href="/scoutingreports.php">NFL Scouting Reports</a></li>
-                        <li><a href="/draft2016bigboard.php">2016 Draft Big Board</a></li>
+                        <li><a href="/draft2017bigboard.php">2017 Draft Big Board</a></li>
                         <li><a href="/draft2016stock.php">NFL Draft Stock</a></li>
                         <li><a href="/draft2016underclassmen.php">2016  Underclassmen</a></li>
                         <li class="divider"></li>
@@ -375,22 +421,22 @@ LD_GetBids();
                         <li class="dropdown-header"><img width="30" src="/jscss/Images/wflogobiggerTransparentBg.png"> Primary Content</li>
                         <li><a href="/fantasy.php">Fantasy Football Rankings</a></li>
                         <li><a href="/fantasycheatsheet/display/chet-gresham">Chet's Fantasy Football Rankings</a></li>
-                        <li><a href="/fantasycheatsheet/2015/traditional">Fantasy Football Cheat Sheet</a></li>
-                        <li><a href="/fantasy2015trainingcamp.php">Fantasy Football Stock Report</a></li>
+                        <li><a href="/fantasycheatsheet/2016/traditional">Fantasy Football Cheat Sheet</a></li>
+                        <li><a href="/fantasy2016trainingcamp.php">Fantasy Football Stock Report</a></li>
                         <li class="divider"></li>
                         <li class="dropdown-header">In-Season</li>
                         <li><a href="/fantasyweeklyrankings.php">Weekly Fantasy Rankings</a></li>
                         <li><a href="/fantasyweeklyrankings/whotostart">But Who Starts ?!?!?</a></li>
                         <li><a href="/fantasyadddrop.php">Fantasy Football Add/Drop</a></li>
                         <li><a href="/fantasyinjury.php">Injury Reports</a></li>
-                        <li><a href="/fantasy2015startsit.php"> Start Em, Sit Em</a></li>
+                        <li><a href="/fantasy2016startsit.php"> Start Em, Sit Em</a></li>
                         <li class="divider"></li>
                         <li class="dropdown-header">Fantasy Draft Season</li>
-                        <li><a href="/fantasy2015sleepers.php">Fantasy Football Sleepers</a></li>
-                        <li><a href="/fantasy2015busts.php">Fantasy Football Busts</a></li>
-                        <li><a href="/fantasy2015preseason.php">Preseason Fantasy Stock</a></li>
-                        <li><a href="/preseason2015.php">Preseason Fantasy Notes</a></li>
-                        <li><a href="/fantasy2015mock06.php">Latest Fantasy Mock Draft</a></li>
+                        <li><a href="/fantasy2016sleepers.php">Fantasy Football Sleepers</a></li>
+                        <li><a href="/fantasy2016busts.php">Fantasy Football Busts</a></li>
+                        <li><a href="/fantasy2016preseason.php">Preseason Fantasy Stock</a></li>
+                        <li><a href="/preseason2016.php">Preseason Fantasy Notes</a></li>
+                        <li><a href="/fantasy2016mock06.php">Latest Fantasy Mock Draft</a></li>
                     </ul>
                 </li>
 
@@ -416,16 +462,15 @@ LD_GetBids();
                         <li><a href="/collegepicks.php">College Football Picks</a></li>
                         <li><a href="/confidencepool.php">Confidence Pool Picks</a></li>
                         <li><a href="/bettingtrends.php">NFL Betting Trends</a></li>
-                        <li><a href="/nflbettingprops2015.php">NFL Betting Props</a></li>
+                        <li><a href="/nflbettingprops2016.php">NFL Betting Props</a></li>
                         <li><a href="/betrules.php">Betting FAQ</a></li>
 
                         <li class="divider"></li>
                         <li class="dropdown-header">NFL Season</li>
                         <li><a href="/nflpowerrankings.php">NFL Power Rankings</a></li>
                         <li><a href="/nflreview.php">NFL Game Recaps</a></li>
-                        <li><a href="/nfltop100_2015.php">Top 100 NFL Players Recap</a></li>
-                        <li><a href="/mostoverratednflplayers_2015.php">Overrated Players</a></li>
-                        <li><a style="color:green; font-weight:bold;" href="/pickem">PickEm Contest</a></li>
+                        <li><a href="/nfltop100_2016.php">Top 100 NFL Players Recap</a></li>            
+                        <li><a style="color:green; font-weight:bold;" href="/isfat">FATS Contest</a></li>
                         <li><a style="color:green; font-weight:bold;" href="/survivor">Survivor Contest</a></li>
                         <li class="divider"></li>
                         <li class="dropdown-header">NFL Offseason</li>
@@ -434,7 +479,7 @@ LD_GetBids();
                         <li><a href="/offseason.php">NFL Season Previews</a></li>
                         <li><a href="/offseason.php">NFL Team Needs</a></li>
                         <li><a href="/rookieforecast.php">Rookie Forecast</a></li>
-                        <li><a href="/draft2015freeagent.php">Free Agent Mock Draft</a></li>
+                        <li><a href="/draft2016freeagent.php">Free Agent Mock Draft</a></li>
                     </ul>
                 </li>
             </ul>
@@ -462,7 +507,7 @@ LD_GetBids();
                         <li class="dropdown-header"><img width="30" src="/jscss/Images/wflogobiggerTransparentBg.png"> Primary Content</li>
                         <li><a href="/nbadraft2016mock.php">2016 NBA Mock Draft</a></li>
                         <li><a href="/nbadraft2016mikemock.php">2016 NBA Mock Draft - Mike</a></li>
-                        <li><a href="/nbadraft2015mock.php">2015 NBA Mock Draft</a></li>
+                        <li><a href="/nbadraft2017mock.php">2017 NBA Mock Draft</a></li>
                         <li><a href="/nbadraft2015.php">2015 NBA Mock Draft - Walt</a></li>
                         <li><a href="/nbadraft2015grades.php">Live NBA Draft Grades</a></li>
                         <li class="divider"></li>
@@ -578,8 +623,8 @@ LD_GetBids();
                         <li><a href="/wf/chat">Live Chat</a></li>
                     </ul>
                 </li>
-               <li class="dropdown">
-                        <a href="/Auth/StartAuth">
+               <li class="dropdown" style="background-color:transparent;">
+                        <a href="/Auth/StartAuth/returnhere">
                             <img src="http://walterfootball.com/Uploads/Anony.jpg" width="18">
                             Login
                         </a>
@@ -589,46 +634,37 @@ LD_GetBids();
         </div><!--/.nav-collapse -->
     </div>
 
+     <!-- WF Dash Line begins-->    
+    <!-- WF Dash Line ends -->
+
     <!-- ticker items begin-->
             <div style="display:block; width:100%; margin:4px; text-align:center;">
                 <div style="display:inline-block;  border-radius:3px;">
                                           
 
                       
-                      <div style="display:inline-block; padding-right:4px;">
-                                <div style="display:inline-block;cursor:pointer;">                                                                 
-                                    <a href="/mocks/nba/2016/contest?til"><span style="color:green;">$</span> NBA Mock Contest <span style="color:green;">$</span></a>                               
-                                </div>
-                            </div>
+                  
 
                             <div style="display:inline-block;">
-                                <div style="display:inline-block;cursor:pointer;" onclick="$('#rc_100749').toggle();" onmouseover="$('#rc_100749').show();" onmouseout="$('#rc_100749').hide();">
+                                <div style="display:inline-block;cursor:pointer;" onclick="$('#rc_106171').toggle();" onmouseover="$('#rc_106171').show();" onmouseout="$('#rc_106171').hide();">
                                     <img src="/images/cmt.png" width="18">
-                                    by <b>Walter</b>
-                                    <div style="display:none; position:absolute; border:solid thin green; background-color:ivory; z-index:1000; border-radius:5px; text-align:left; padding:5px;" id="rc_100749">
-                                        From: <a href="/mocks/publishedmock/56173?tih">Parent Page - Title Unfound</a>
-                                            <br>
-                                            
-                                                By: <a href="/mywf/Walter">Walter</a>
-                                            
+                                    by <b>daddyz</b>
+                                    <div style="display:none; position:absolute; border:solid thin green; background-color:ivory; z-index:1000; border-radius:5px; text-align:left; padding:5px;" id="rc_106171">
+                                        From: <a href="/nflpicks2016_11late.php?tih">WalterFootball.com: NFL Picks Against the Spread - Week 11, 2016</a>
                                         <p>
-                                            Why do you say I have a difficult time accepting Watson as No. 1? I've had him mocked first since February.&nbsp;
+                                            Goff is horrible guy couldn't play against 3rd string defenses. Miami will murder him
                                         </p>
                                     </div>
                                 </div>
                             </div>
                             <div style="display:inline-block;">
-                                <div style="display:inline-block;cursor:pointer;" onclick="$('#rc_100748').toggle();" onmouseover="$('#rc_100748').show();" onmouseout="$('#rc_100748').hide();">
+                                <div style="display:inline-block;cursor:pointer;" onclick="$('#rc_106170').toggle();" onmouseover="$('#rc_106170').show();" onmouseout="$('#rc_106170').hide();">
                                     <img src="/images/cmt.png" width="18">
-                                    by <b>Dinner</b>
-                                    <div style="display:none; position:absolute; border:solid thin green; background-color:ivory; z-index:1000; border-radius:5px; text-align:left; padding:5px;" id="rc_100748">
-                                        From: <a href="/disastergrades.php#comment?tih">Parent Page - Title Unfound</a>
-                                            <br>
-                                            
-                                                By: <a href="/mywf/Dinner">Dinner</a>
-                                            
+                                    by <b>123abc</b>
+                                    <div style="display:none; position:absolute; border:solid thin green; background-color:ivory; z-index:1000; border-radius:5px; text-align:left; padding:5px;" id="rc_106170">
+                                        From: <a href="/nflpicks2016_11late.php?tih">WalterFootball.com: NFL Picks Against the Spread - Week 11, 2016</a>
                                         <p>
-                                            How hard and fast does your arm have to go in order to break it trying to get your phone?
+                                            @Walter You picked the Saints to win, you lost. The Spread is for dumb people.&nbsp;
                                         </p>
                                     </div>
                                 </div>
@@ -637,26 +673,11 @@ LD_GetBids();
                             <div style="display:inline-block;">
                                 <div style="display:inline-block;cursor:pointer;" onclick="$('#pcu_1').toggle();" onmouseover="$('#pcu_1').show();" onmouseout="$('#pcu_1').hide();">
                                     <img src="/jscss/Images/wflogobiggerTransparentBg.png" style="vertical-align:top;" width="22">
-                                    <a href="/draft2016.php?ti">2016 NFL Mock D...</a>
+                                    <a href="/nba.php?ti">NBA Picks Again...</a>
                                     <div style="display:none; position:absolute; border:solid thin green; background-color:ivory; border-radius:5px;z-index:1000;  padding:5px;" id="pcu_1">
-                                        <a href="/draft2016.php?tih">2016 NFL Mock Draft - WalterFootball.com</a>
+                                        <a href="/nba.php?tih">WalterFootball.com: NBA Picks Against the Spread</a>
                                         <p>
-                                            <span style="color:forestgreen; font-weight:bold;">Updated 04/28 04:11 PM EST  1 month(s) 18 day(s) ago</span>
-                                        </p>
-                                        <p>
-                                            Comments: 0
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div style="display:inline-block;">
-                                <div style="display:inline-block;cursor:pointer;" onclick="$('#pcu_2').toggle();" onmouseover="$('#pcu_2').show();" onmouseout="$('#pcu_2').hide();">
-                                    <img src="/jscss/Images/wflogobiggerTransparentBg.png" style="vertical-align:top;" width="22">
-                                    <a href="/fantasy.php?ti">Fantasy Footbal...</a>
-                                    <div style="display:none; position:absolute; border:solid thin green; background-color:ivory; border-radius:5px;z-index:1000;  padding:5px;" id="pcu_2">
-                                        <a href="/fantasy.php?tih">Fantasy Football Rankings 2016 - WalterFootball.com</a>
-                                        <p>
-                                            <span style="color:forestgreen; font-weight:bold;">Updated 06/16 02:48 AM EST  6 hour(s) 49 minute(s) ago</span>
+                                            <span style="color:forestgreen; font-weight:bold;">Updated 11/18 06:20 PM EST  11 hour(s) 8 minute(s) ago</span>
                                         </p>
                                         <p>
                                             Comments: 0
@@ -668,15 +689,15 @@ LD_GetBids();
                             <div style="display:inline-block;">
                                 <div style="display:inline-block;cursor:pointer;" onclick="$('#rp_1').toggle();" onmouseover="$('#rp_1').show();" onmouseout="$('#rp_1').hide();">
                                     <img src="/jscss/Images/NewWFUserImg.png" style="vertical-align:top;" width="22">
-                                    <a href="/mocks/publishedmock/56173?ti"> by kkunert327</a>
+                                    <a href="/mocks/publishedmock/56753?ti"> by psujoel</a>
                                     <div style="display:none; position:absolute; border:solid thin green; background-color:ivory;z-index:1000;  border-radius:5px; padding:5px;" id="rp_1">
-                                        <a href="/mocks/publishedmock/56173?tih">Reader Mock Published</a>
+                                        <a href="/mocks/publishedmock/56753?tih">Reader Mock Published</a>
                                             <br>
                                             
-                                                By: <a href="/mywf/kkunert327">kkunert327</a>
+                                                By: <a href="/mywf/psujoel">psujoel</a>
                                             
                                         <p>
-                                            Here is my pre-training camp mock update.  For those who question my selection spots for the teams look for my power rankings on this site.  I base it off what their end of year record would be after looking at their schedules and playoff scenarios.  Now none of this is a definite obviously so don't take it too seriously.  Please give me quality reactions and not "you're dumb because my so and so team is amazing"  those are bias opinions and you need to not use that to make bullish arguments. 
+                                            
                                         </p>
                                         <p>
                                             Comments : 0
@@ -687,15 +708,15 @@ LD_GetBids();
                             <div style="display:inline-block;">
                                 <div style="display:inline-block;cursor:pointer;" onclick="$('#rp_2').toggle();" onmouseover="$('#rp_2').show();" onmouseout="$('#rp_2').hide();">
                                     <img src="/jscss/Images/NewWFUserImg.png" style="vertical-align:top;" width="22">
-                                    <a href="/mocks/publishedmock/56182?ti"> by Elfrink</a>
+                                    <a href="/mocks/publishedmock/56659?ti"> by CJinVic</a>
                                     <div style="display:none; position:absolute; border:solid thin green; background-color:ivory;z-index:1000;  border-radius:5px; padding:5px;" id="rp_2">
-                                        <a href="/mocks/publishedmock/56182?tih">Reader Mock Published</a>
+                                        <a href="/mocks/publishedmock/56659?tih">Reader Mock Published</a>
                                             <br>
                                             
-                                                By: <a href="/mywf/Elfrink">Elfrink</a>
+                                                By: <a href="/mywf/CJinVic">CJinVic</a>
                                             
                                         <p>
-                                            
+                                            V1.3 Much to Early Mock
                                         </p>
                                         <p>
                                             Comments : 0
@@ -716,8 +737,10 @@ LD_GetBids();
                 </div>
             </div>
 
-
     <!-- ^ end ticker items-->
+
+
+   
 </div>
 
         <script src="/bootstrap/js/bootstrap.min.js"></script>
@@ -726,9 +749,36 @@ LD_GetBids();
         <div style="display:block; width:100%; text-align:center;">
             <div style="height:90px; display:inline-block; line-height:90px; min-width:300px; margin:auto; ">
                 
-           <input type="hidden" value="4" name="hfScriptId" class="hfScriptId">
-<script src="https://www.googletagservices.com/tag/js/gpt.js">    googletag.pubads().definePassback("/20893548/yb/walterfootball", [728,90]).setClickUrl("%%CLICK_URL_UNESC%%").display();
+           <input type="hidden" value="49" name="hfScriptId" class="hfScriptId">
+<!-- START of  GPT Header code - DO NOT MODIFY -->
+<script type="text/javascript">
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
 </script>
+<!-- END of GPT Header code -->
+
+<!-- START - This code defines and displays the ad slot on the page -->
+<div id="div-gpt-ad-walterfootball-72890">
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.defineSlot('/8484/yb/walterfootball', [728, 90],'div-gpt-ad-walterfootball-72890')
+        .addService(googletag.pubads());
+      googletag.enableServices();
+      googletag.display('div-gpt-ad-walterfootball-72890');
+  });
+  </script>
+</div>
+<!-- END - This code defines and displays the ad slot on the page -->
 
 <!-- TreatRequestAsMobileOrTables = False -->
 
@@ -957,13 +1007,20 @@ Policy 2010: <br> <br>
                             <a href="#" onclick="return KillVideoAdsAfterTheFact(true);" id="videoKilledTheRadioStart" title="0" style="cursor:pointer; color:ivory;">df</a>
                             <br>
 
-                                <script src="/jscss/footer.js?d2" type="text/javascript"></script>
+                                <script src="/jscss/footer.js?d5" type="text/javascript"></script>
 
                                         <script type="text/javascript">
                                             KillVideoAdsAfterTheFact(false);
                                         </script>
                          
                         </div>
+                        
+           <input type="hidden" value="85" name="hfScriptId" class="hfScriptId">
+<!-- OnScroll tag: OnScroll - 400189 - 728x90(SF) -->
+<script src="//tags.us.onscroll.com/1c1d8d1e-130a-4ebd-ad47-cfb399a795cc/tag.min.js" async="" defer=""></script>
+
+<!-- TreatRequestAsMobileOrTables = False -->
+
 
                         
 <!-- Begin comScore Tag -->
@@ -1047,22 +1104,7 @@ Policy 2010: <br> <br>
 
                 
                                     
-           <input type="hidden" value="18" name="hfScriptId" class="hfScriptId">
-<script src="https://www.googletagservices.com/tag/js/gpt.js">
-googletag.pubads().definePassback("/20893548/yb/walterfootball",
-[160,600]).setClickUrl("%%CLICK_URL_UNESC%%").display();
-
-</script>
-<br>
-<br>
-<br>
-
-<!-- TreatRequestAsMobileOrTables = False -->
-
-
-                                    <div style="height:100px;line-height:300px;">&nbsp;</div>
-                                    
-           <input type="hidden" value="19" name="hfScriptId" class="hfScriptId">
+           <input type="hidden" value="63" name="hfScriptId" class="hfScriptId">
 <script type="text/javascript"><!--
    e9 = new Object();
    e9.size = "160x600,120x600";
@@ -1075,8 +1117,34 @@ googletag.pubads().definePassback("/20893548/yb/walterfootball",
 
 
                                     <div style="height:100px;line-height:300px;">&nbsp;</div>
+                                    
+           <input type="hidden" value="64" name="hfScriptId" class="hfScriptId">
+<script type="text/javascript" src="//ap.lijit.com/www/delivery/fpi.js?z=397354&amp;u=walterfootball1&amp;width=160&amp;height=600"></script>
+
+
+<!-- TreatRequestAsMobileOrTables = False -->
+
+
+                                    <div style="height:100px;line-height:300px;">&nbsp;</div>
                                 <br><br>
-                                <div data-owo-type="widget" data-owo-code="3be1525d-2590-4a9d-b28d-0a167a423a2b" data-owo-mode="smart3"></div><script src="https://1worldonline.com/poller-constructor.js" type="text/javascript" data-cfasync="false"></script>
+                        
+           <input type="hidden" value="82" name="hfScriptId" class="hfScriptId">
+<div data-owo-type="widget" data-owo-code="3be1525d-2590-4a9d-b28d-0a167a423a2b" data-owo-mode="smart3"></div>
+<script>
+(function(){
+var useSSL = ('https:' == document.location.protocol);
+var s = document.createElement('script');
+s.type = 'text/javascript';
+s.src = (useSSL ? 'https:' : 'http:') + "//frontend.1worldonline.com/poller-constructor.js";
+s.async = true;
+document.getElementsByTagName('head')[0].appendChild(s);
+})();
+</script>
+
+
+<!-- TreatRequestAsMobileOrTables = False -->
+
+
                                 <br><br>
 
     <div style="height:150px;line-height:300px;">&nbsp;</div>
@@ -1096,8 +1164,7 @@ googletag.pubads().definePassback("/20893548/yb/walterfootball",
     <div style="height:150px;line-height:300px;">&nbsp;</div>
                                    <div style="height:200px;line-height:200px;">&nbsp;</div>
                                     
-           <input type="hidden" value="20" name="hfScriptId" class="hfScriptId">
-<script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&amp;cwrun=200&amp;cwadformat=160X600&amp;cwpid=505600&amp;cwwidth=160&amp;cwheight=600&amp;cwpnet=1&amp;cwtagid=58238"></script>
+
 
 <!-- TreatRequestAsMobileOrTables = False -->
 
@@ -1117,7 +1184,7 @@ googletag.pubads().definePassback("/20893548/yb/walterfootball",
     </tbody></table>
                                 <div style="height:200px;line-height:200px;">&nbsp;</div>
                                     
-           <input type="hidden" value="26" name="hfScriptId" class="hfScriptId">
+           <input type="hidden" value="70" name="hfScriptId" class="hfScriptId">
 <br> <br> <br> <br> <br>  <br> <br> <br> <br> <br> <br>
 <br> <br> <br> <br> <br>  <br> <br> <br> <br> <br> <br>
 <br> <br> <br> <br> <br>  <br> <br> <br> <br> <br> <br>
@@ -1125,9 +1192,7 @@ googletag.pubads().definePassback("/20893548/yb/walterfootball",
 
 
  
-<script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&amp;cwrun=200&amp;cwadformat=160X600&amp;cwpid=505600&amp;cwwidth=160&amp;cwheight=600&amp;cwpnet=1&amp;cwtagid=47082"></script>
-
-
+<script type="text/javascript" src="//adosia.com/adscroll/pubscripts/adosia-wl.js?cid=2d133d2c58ea12aac4fab072b35862f3&amp;size=167x607&amp;nw=o&amp;tuid=538628907&amp;nwpb=376a5780c508f6e743248c06d4126087"></script>
 
 
 <!-- TreatRequestAsMobileOrTables = False -->
@@ -1135,7 +1200,30 @@ googletag.pubads().definePassback("/20893548/yb/walterfootball",
 
                                     <div style="height:100px;line-height:300px;">&nbsp;</div>
                                     
-           <input type="hidden" value="25" name="hfScriptId" class="hfScriptId">
+           <input type="hidden" value="68" name="hfScriptId" class="hfScriptId">
+<script type="text/javascript" src="//ap.lijit.com/www/delivery/fpi.js?z=291229&amp;u=walterfootball1&amp;width=160&amp;height=600"></script>
+
+
+<!-- TreatRequestAsMobileOrTables = False -->
+
+
+                                    <div style="height:100px;line-height:300px;">&nbsp;</div>
+                                    
+
+
+<!-- TreatRequestAsMobileOrTables = False -->
+
+
+                                    <div style="height:100px;line-height:300px;">&nbsp;</div>
+                                    
+
+
+<!-- TreatRequestAsMobileOrTables = False -->
+
+
+                                    <div style="height:100px;line-height:300px;">&nbsp;</div>
+                                    
+           <input type="hidden" value="69" name="hfScriptId" class="hfScriptId">
 <br> <br> <br> <br> <br>  <br> <br> <br> <br> <br> <br>
 
 <script type="text/javascript">
@@ -1183,7 +1271,7 @@ googletag.pubads().definePassback("/20893548/yb/walterfootball",
                      <br>
                       <div class="divCenter">
                              
-           <input type="hidden" value="35" name="hfScriptId" class="hfScriptId">
+           <input type="hidden" value="79" name="hfScriptId" class="hfScriptId">
    <script type="text/javascript"><!-- e9 = new Object(); e9.snackbar = true; //--></script>
                         <script type="text/javascript" src="http://tags.expo9.exponential.com/tags/walterfootballcom/Snackbar/tags.js"></script>
 
