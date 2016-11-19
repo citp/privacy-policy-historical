@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prosperent.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401190408id_/http%3A//prosperent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosperent.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119135137id_/http%3A//prosperent.com/privacy) for the most accurate reproduction.*
 
 # Prosperent - Privacy Policy
 
