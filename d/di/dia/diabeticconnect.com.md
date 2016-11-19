@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the diabeticconnect.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605005451id_/http%3A//www.diabeticconnect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabeticconnect.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119043903id_/http%3A//www.diabeticconnect.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Diabetic Connect
 
-**Last Updated: 11/14/15**
+**Last Updated: 9/27/16**
 
-This privacy policy applies to [www.alliancehealth.com](http://www.alliancehealth.com/) owned and operated by Alliance Health Networks ("Alliance Health"). This privacy policy describes how Alliance Health collects and uses the personal information you provide on our website: [www.alliancehealth.com](http://www.alliancehealth.com/).  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
+This privacy policy applies to [www.alliancehealth.com](http://www.alliancehealth.com/) and [www.diabeticconnect.com](http://www.diabeticconnect.com/) owned and operated by Alliance Health. This privacy policy describes how Alliance Health collects and uses the personal information you provide on our websites: www.alliancehealth.com and www.diabeticconnect.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
 #### Introduction / About Alliance Health Networks ("Alliance Health")
 
-We own and operate an online social health network platform with multiple, condition-specific sites and mobile applications which we call "sites" and/or "communities."
+We own and operate an online social health network platform with multiple, condition-specific sites which we call "sites" and/or "communities."
 
 Our mission is to empower consumers and help enable a more consumer-centric healthcare industry. We use the power of social networks to help consumers more actively navigate and manage their care. Our condition-specific websites connect patients and caregivers, unlocking new opportunities to foster engagement, peer support and knowledge-sharing.
 
@@ -35,7 +35,7 @@ By clicking the "Accept" button during registration or by using our sites, you e
 
   * In the event you want to delete your profile, contact us at [community@alliancehealth.com](mailto:community@alliancehealth.com).
 
-  * If you have not joined an Alliance Health community, but have registered for offers, and want to manage your privacy for opted-in emails and telephone contact, contact us at [community@alliancehealth.com](mailto:community@alliancehealth.com); or to opt-out of emails click on this link. <http://pages.email-alliancehealth.com/page.aspx?QS=330c754b5e92df74b9d547cb12ff96512dc535715cba82ff>
+  * If you have not joined an Alliance Health community, but have registered for offers, and want to manage your privacy for opted-in emails and telephone contact, contact us at [community@alliancehealth.com](mailto:community@alliancehealth.com); or to opt-out of emails [click on this link](http://pages.email-alliancehealth.com/page.aspx?QS=330c754b5e92df74b9d547cb12ff96512dc535715cba82ff).
 
   * If you have reason to believe someone has created an unauthorized profile of you ("a fake account"), you can contact us at [community@alliancehealth.com](mailto:community@alliancehealth.com) to have us investigate and delete the unauthorized profile.
 
@@ -120,33 +120,33 @@ Violation of Alliance Health Networks' Privacy Policy and/or Terms of Use for th
 
 #### Local Storage Objects
 
-Third parties with whom we partner to provide certain features on our site or to display advertising based upon your web browsing activity use LSOs such as Flash to collect and store information.
+We use Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your web browsing activity use LSOs such as Flash to collect and store information.
 
-To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+[To manage Flash LSOs please click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
 #### How Alliance Health Uses Your Information
 
 In our mission to empower consumers and help enable a more consumer-centric healthcare industry, we utilize the information collected to give you more choice and tailor information to your interests. Some of the services we provide based on the information you have given us are described below:
 
-  * To allow you to create an account
+  * To allow you to create an account.
 
-  * To create a profile for you based on information that you have provided to us
+  * To create a profile for you based on information that you have provided to us.
 
-  * To contact you about site updates, informational and service-related communications, including important security updates
+  * To contact you about site updates, informational and service-related communications, including important security updates.
 
-  * Display relevant content we think you might be interested in based on your onsite activities and selected preferences
+  * Display relevant content we think you might be interested in based on your onsite activities and selected preferences.
 
-  * To provide you additional communications, information, and promotions such as newsletters
+  * To provide you additional communications, information, and promotions such as newsletters.
 
   * To generate internal reports about the use of our site
 
   * To enable you to provide feedback, to contact us, and for us to respond to you
 
-  * To conduct surveys, questionnaires, promotions and contests, and to provide the results of such activities such as success stories and contest winners
+  * To conduct surveys, questionnaires, promotions and contests, and to provide the results of such activities such as success stories and contest winners.
 
-  * To inform you of other offers, services, or websites available from Alliance Health or third parties including our advertising partners
+  * To inform you of other offers, services, or websites available from Alliance Health or third parties including our advertising partners.
 
-  * To tailor advertising to you both on our site and other sites on the web based on cookie information collected on our site
+  * To tailor advertising to you both on our site and other sites on the web based on cookie information collected on our site.
 
 
 
@@ -172,7 +172,7 @@ We respect your privacy in the utmost and commit never to pursue the following a
 
 In certain circumstances we may share Personally Identifiable Information for the following purposes:
 
-  * We may employ other companies and individuals, as our subcontractors, to perform functions on our behalf. These companies and individuals may not share any Personally Identifiable Information with any third party. All such subcontractors are contractually obligated to use and maintain
+  * We may employ other companies and individuals, as our subcontractors, to perform functions on our behalf. These companies and individuals may not share any Personally Identifiable Information with any third party. All such subcontractors are contractually obligated to use and maintain the confidentiality of Personally Identifiable Information in a manner consistent with this Privacy Policy.
 
   * The authentication and verification of Personally Identifiable Information to prevent fraud on our platform.
 
@@ -270,9 +270,9 @@ Your use of the site and any services provided by Alliance Health after any chan
 
 #### Third Party Privacy Verification Services
 
-[ ](https://privacy.truste.com/privacy-seal/Alliance-Health-Networks/validation?rid=fbf340a1-6401-40cd-9968-31e73635a8b8 "TRUSTe online privacy certification")
+[ ](https://privacy.truste.com/privacy-seal/validation?rid=fbf340a1-6401-40cd-9968-31e73635a8b8 "TRUSTe Privacy Certification")
 
-Alliance Health Networks ("Alliance Health") has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers information collected through this website, www.alliancehealth.com and does not cover information that may be collected through our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [TRUSTe](https://feedback-form.truste.com/watchdog/request).
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 #### Children
 
@@ -284,17 +284,17 @@ California law requires that we provide you with a summary of your privacy right
 
 Depending on the visitor's activity at this Site, certain "Personally Identifiable Information" (as that term is defined in the California Act) may be collected, in addition to information set forth in other sections of this document. For purposes of the California Act, the term "Personally Identifiable Information" means individually identifiable information about an individual consumer collected online by us from an individual and maintained by us in an accessible form, and may include any of the following:
 
-  * A first and last name.
+  * A first and last name
 
-  * A home or other physical address, including street name and name of a city or town.
+  * A home or other physical address, including street name and name of a city or town
 
-  * An e-mail address.
+  * An e-mail address
 
-  * A telephone number.
+  * A telephone number
 
   * Contact information
 
-  * Any other identifier that permits the physical or online contacting of a specific individual.
+  * Any other identifier that permits the physical or online contacting of a specific individual
 
   * Information concerning a user that the website collects online from the user, and maintains in personally identifiable form, in combination with an identifier described within this privacy policy.
 
@@ -307,15 +307,15 @@ See section above entitled "Changes to This Privacy Policy" for a description of
 
 #### California Shine the Light Law (SB27) Compliance Statement
 
-Under California S.B. 27 ("Shine the Light" Law), California residents have the right under certain circumstances to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to [compliance@alliancehealth.com](mailto:compliance@alliancehealth.com) and please include the phrase "California Privacy Request" in the subject line, the domain name of the website you are inquiring about, along with your name, address and email address. We will respond to you within 30 days of receiving such a request.
+Under California S.B. 27 ("Shine the Light" Law), California residents have the right under certain circumstances to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to [compliance@alliancehealth.com](mailto:compliance@alliancehealth.com?subject=California%20Privacy%20Request) and please include the phrase "California Privacy Request" in the subject line, the domain name of the website you are inquiring about, along with your name, address and email address. We will respond to you within 30 days of receiving such a request.
 
 #### How to Contact Us
 
 We welcome your input and feedback about our sites and the services that we provide to you. If you have any questions regarding this Privacy Policy or related Terms of Use, you may contact us via:
 
-  * Email: [privacy@alliancehealth.com](mailto:privacy@alliancehealth.com).
+  * Email: [compliance@alliancehealth.com](mailto:compliance@alliancehealth.com).
 
-  * • Mail: Attention: Privacy and Compliance, Alliance Health Networks Inc., 10855 South Riverfront Pkwy #250, South Jordan, UT 84095
+  * Mail: Attention: Privacy and Compliance, Alliance Health Networks Inc., 10855 South Riverfront Pkwy #250, South Jordan, UT 84095
 
   * Phone: 801-355-6002
 
