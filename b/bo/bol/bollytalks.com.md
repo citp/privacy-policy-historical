@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bollytalks.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629100552id_/http%3A//bollytalks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollytalks.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119121127id_/http%3A//bollytalks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BollyTalks Home of News, Reviews, Updated and Much more
+# Privacy Policy | Tellyonly Home of News, Reviews, Updated and Much more
 
 We are committed to ensure that privacy of a user is never compromised at Apne.tv. We take your right to privacy seriously, and wants you to feel comfortable using this web site. This privacy policy enlightens you with the personally-identifiable information (referred to as “data” below) that may be collected by this site, please read carefully and also free to contact us at **  contact@apne.tv** for any additional questions.. This policy does not apply to other entities that are not owned or controlled by the site’s owner, nor does it apply to persons that are not employees or agents of this website.
 
