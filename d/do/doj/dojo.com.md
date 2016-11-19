@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dojo.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606195038id_/http%3A//www.dojo.com/dojoinfo.php%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dojo.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119085013id_/http%3A//www.dojo.com/dojoinfo.php%3Fpage%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
