@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kikki-k.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608193254id_/http%3A//www.kikki-k.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kikki-k.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119131330id_/http%3A//www.kikki-k.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -87,8 +87,8 @@ If we are unable to collect your personal information, some or all of the follow
 • Your experience when interacting with us may be delayed or not as efficient as you may expect;  
 • If you are a candidate for employment, we may not be able to process your application for a position at kikki.K.
 
- **  
-8\. Cookies**
+  
+**8\. Cookies**
 
 A cookie is a small text file that is saved to, and, during subsequent visits, retrieved from your computer or mobile device. kikki.K uses cookies to enhance and simplify your visit. We do not use cookies to store personal information, or to disclose information to third parties. We use temporary (session cookies) to check whether you are logged in or if you put an item in your shopping bag. You can easily erase cookies from your computer or mobile device using your browser. For instructions on how to handle and delete cookies please look under "Help" in your browser. You can choose to disable cookies, or to receive a notification each time a new cookie is sent to your computer or mobile device. Please note that if you choose to disable cookies, you will not be able to take advantage of all our features.
 
@@ -183,8 +183,15 @@ If you have complained about something which the relevant privacy laws cover, we
 
 We will endeavor to respond to you, using your preferred contact method if you have indicated one, at all times promptly and to offer a practical solution which is consistent with our legal obligations.
 
+**  
+17\. Australia Post eParcel tracking emails**
+
+By shopping with kikki.K, Australian and New Zealand customers agree to receive emails from Australia Post eParcel system. You will receive a series of emails from Australia Post which provides updates on the progress of your order delivery. You can unsubscribe from these emails at any time via the link in the email or through managing your MyPost account. For more information about Australia Post's Privacy Policy, please see the Australia Post website [here](http://auspost.com.au/privacy.html?ilink=track-em0b-edm-privacy-policy).
+
+If you have any concerns about these emails, please contact our Customer Experience Team at [info@kikki-k.com](mailto:info@kikki-k.com) or call +61 3 9645 6346.
+
   
-**17\. Contacting us**
+**18\. Contacting us**
 
 If you would like to contact us in relation to this Privacy Policy, data protection or your personal information please contact us at:
 
