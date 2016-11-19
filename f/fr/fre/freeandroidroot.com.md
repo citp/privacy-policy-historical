@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freeandroidroot.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630082319id_/http%3A//freeandroidroot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeandroidroot.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119063100id_/http%3A//freeandroidroot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Android Root
 
 ## What Information Do We Collect?
 
-At [Free Android Root](http://freeandroidroot.com/), we gather user information from our users when you register on the website, subscribe to the newsletter, participate in a survey of fill any type of form. You may be asked for your name, email address, phone number or mailing address. 
+At [Free Android Root](http://freeandroidroot.com/), we gather user information from our users when you register on the website, subscribe to the newsletter, participate in a survey of fill any type of form. You may be asked for your name, email address, phone number or mailing address.
 
 You may however choose to visit our website anonymously. We will gather non-individual personal information about the users when they interact with our website. This non-personal identification information may include the type of the computer, the name of the web browser, and connection information such as Internet Service provider Information and Operating System.
 
@@ -29,7 +29,7 @@ If you allow the cookies are saved on user’s hard drive and allow the advertis
 
 If users want they can disallow cookies and refuse any kind of tracking. It is worth noting that this kind of behavior may cause issues on the website leading to some functions not working properly.
 
-We use Google Ads in our website for monetization and these uses cookies to serve ads. Google uses DoubleClick DART cookies for this process and you can opt out of it by following this URL: <http://www.google.com/privacy_ads.html>
+We use Google Ads in our website for monetization and these uses cookies to serve ads. Google uses DoubleClick DART cookies for this process and you can opt out of it by following this URL: http://www.google.com/privacy_ads.html
 
 ## Your Acceptance Of Our Policy
 
