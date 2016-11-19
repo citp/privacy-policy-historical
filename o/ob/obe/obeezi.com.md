@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the obeezi.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613082512id_/http%3A//obeezi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obeezi.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119132639id_/http%3A//www.obeezi.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy and Policy
 
-Thank you for accessing the obeezi.com website ("Site") operated by Obeezi Contracting Company Nigeria. We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
+Thank you for accessing the obeezi.com website operated by Obeezi Contracting Company Nigeria. We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
 
 This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting the Site directly or through another site, you accept the practices described in this Policy.
 
