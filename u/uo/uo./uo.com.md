@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uo.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611141916id_/http%3A//www.ea.com/global/legal/privacy_noseal.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uo.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119110033id_/http%3A//www.ea.com/global/legal/privacy_noseal.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,14 +6,13 @@ ELECTRONIC ARTS PRIVACY AND COOKIE POLICY
 
 Effective Date: May 9, 2016
 
-  
-
-
 [](https://privacy.truste.com/privacy-seal/validation?rid=7d587a12-773f-4bf9-a209-d18047ee5f05 "TRUSTe Privacy Certification")
 
 By registering for an EA Account (formerly known as an Origin Account) ( ** _"Account"_** ), using this site and/or any of EA's online or mobile products and services, you agree to EA's Privacy Policy and that we may transfer and store your information in the USA. By registering, you agree that EA may process your data in accordance with the following privacy policy and that you will abide by EA's Terms of Service.
 
 IF YOU DO NOT AGREE TO THIS POLICY, PLEASE DO NOT USE ANY EA SITE, ONLINE OR MOBILE PRODUCT OR SERVICE. If we change our privacy policy, we will post those changes to this privacy statement, the home page or other places so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material or significant changes to this policy or the way we use your child's information, we will notify you or the parent/guardian here, by email, or by means of a notice on our home page prior to the changes taking effect. Your continued use of our online and mobile products and services will signify your acceptance of the changes to our online Privacy Policy.
+
+EA participates in the EU-U.S. Privacy Shield framework. To learn more visit <http://tos.ea.com/legalapp/WEBPRIVACYSHIELD/US/en/PC/>.
 
  **TABLE OF CONTENTS
 
@@ -196,7 +195,7 @@ EA understands the importance of keeping your information safe and secure. EA wi
 
 IX.    Review, Correction Of Your Information, Requesting Removal From Mailing Lists And Deactivating Your Account
 
-You can correct or update your account information at any time by logging on our site and navigating to "My Account," and viewing your "Basic Information" or other account settings. Should you be unable to log in or wish to have your account(s) deactivated, contact the Privacy Policy Administrator in your country as listed on our site at [privacyadmin.ea.com](http://privacyadmin.ea.com/), or if your country is not listed, by contacting the Privacy Policy Administrator in the United States. We will be happy to review, update or remove information as appropriate. We may still retain your information in our files however, to resolve disputes, enforce our user agreement, and due to technical and legal requirements and constraints related to the security, integrity and operation of our websites.
+You can correct or update your account information at any time by logging on our site and navigating to "My Account," and viewing your "Basic Information" or other account settings. Should you be unable to log in or wish to have your account(s) deactivated, contact the Privacy Policy Administrator in your country as listed on our site at [privacyadmin.ea.com](http://privacyadmin.ea.com/), or if your country is not listed, by contacting the Privacy Policy Administrator in the United States. We will be happy to review, update or remove information as appropriate or provide information that we may hold about you. We may still retain your information in our files however, to resolve disputes, enforce our user agreement, and due to technical and legal requirements and constraints related to the security, integrity and operation of our websites.
 
 Some EA sites or services may collect personal information that is not accessible via our site. However, in such cases, you may be able to access that information through alternative means of access described by the service or by writing your local privacy policy administrator at [privacyadmin.ea.com](http://privacyadmin.ea.com/) and you will be contacted within 30 days regarding your request.
 
@@ -238,7 +237,7 @@ Members may register for other services from our site(s). Certain products and/o
 
 XIV.    Contact Information & Complaints Process
 
-If you have questions or concerns regarding this statement, you should first contact the EA Privacy Policy Administrator for the country in which you reside at the email address or postal address specified at [privacyadmin.ea.com](http://privacyadmin.ea.com/). If your country is not listed, please contact the United States' Privacy Policy Administrator or write to Privacy Policy Administrator, Electronic Arts Inc., 209 Redwood Shores Pkwy, Redwood City, CA 94065. If your inquiry is not satisfactorily addressed, you should contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request) or at https://feedback.truste.com as instructed above. TRUSTe will then serve as a liaison with us to resolve your concerns. Please note that the TRUSTe program only covers information that is collected through this Website, and does not cover information that may be collected through any software downloaded from this Website.
+If you have questions or concerns regarding this statement, you should first contact the EA Privacy Policy Administrator for the country in which you reside at the email address or postal address specified at [privacyadmin.ea.com](http://privacyadmin.ea.com/). If your country is not listed, please contact the United States' Privacy Policy Administrator or write to Privacy Policy Administrator, Electronic Arts Inc., 209 Redwood Shores Pkwy, Redwood City, CA 94065. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. TRUSTe will then serve as a liaison with us to resolve your concerns. Please note that the TRUSTe program only covers information that is collected through this Website, and does not cover information that may be collected through any software downloaded from this Website.
 
 For more information and updates to our online Privacy Policy, visit privacy.ea.com.
 
