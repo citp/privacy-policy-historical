@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the urlm.co.uk privacy policy that was archived on 2016-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160605155937id_/http%3A//urlm.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the urlm.co.uk privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119221553id_/http%3A//urlm.co.uk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -239,9 +239,55 @@ If you wish to disable cookies, you may do so through your individual browser op
 </div>
 </div>
 
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 
+<script>
+    $(function() {
+        $("img").unveil(50);
+    });
+</script>
+ 
 
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script src="//upulse.co/js/jquery.unveil.combined.lazy-load-google-maps.js"></script>
+<script>
+
+	;( function( $, window, document, undefined )
+	{
+		var $window			= $( window ),
+			mapInstances	= [],
+			$pluginInstance	= $( '.google-map' ).lazyLoadGoogleMaps(
+			{
+				callback: function( container, map )
+				{
+					var $container	= $( container ),
+						center		= new google.maps.LatLng( $container.attr( 'data-lat' ), $container.attr( 'data-lng' ) );
+
+					map.setOptions({ zoom: 10, center: center, scrollwheel: false });
+					new google.maps.Marker({ position: center, map: map });
+
+					$.data( map, 'center', center );
+					mapInstances.push( map );
+
+					var updateCenter = function(){ $.data( map, 'center', map.getCenter() ); };
+					google.maps.event.addListener( map, 'dragend', updateCenter );
+					google.maps.event.addListener( map, 'zoom_changed', updateCenter );
+					google.maps.event.addListenerOnce( map, 'idle', function(){ $container.addClass( 'is-loaded' ); });
+				}
+			});
+
+		$window.on( 'resize', $pluginInstance.debounce( 1000, function()
+		{
+			$.each( mapInstances, function()
+			{
+				this.setCenter( $.data( this, 'center' ) );
+			});
+		}));
+
+	})( jQuery, window, document );
+
+</script>
+
+<script type="text/javascript">
 var sc_project=7191978; 
 var sc_invisible=1; 
 var sc_security="754defc6"; 
@@ -263,15 +309,7 @@ var sc_security="754defc6";
 </script>
 
 
-<script type="text/javascript">
-  window.___gcfg = {lang: 'en'};
 
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
 
 	
 </body></html>
