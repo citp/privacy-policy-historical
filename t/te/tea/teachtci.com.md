@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachtci.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602083619id_/http%3A//www.teachtci.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachtci.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119034316id_/http%3A//www.teachtci.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | TCI
 
@@ -9,7 +9,7 @@ Teachers' Curriculum Institute ("TCI") is committed to the privacy and protectio
 ### In short, TCI:
 
   * collects the minimum information needed to provide users access and support
-  * does not collect Personally Identifiable Information ("PII") from students
+  * does not ask for or use Personally Identifiable Information ("PII") from students
   * does not market or advertise to students
   * deletes all student accounts and data on June 30 of each year
   * does not sell or distribute the information of any user
@@ -37,11 +37,11 @@ Please be sure to read this entire Privacy Policy before using or submitting inf
 
 ## Student Information collected through the Student Subscription service and how that information is used
 
-**Student information collected:** Please be sure to read this entire Privacy Policy before using or submitting information to this Website. When you access or use this Website, you consent to the collection, use and disclosure of your information in accordance with this Privacy Policy. By providing personal information to the Website, all users fully understand and consent to the collection and processing of such information by Teachers' Curriculum Institute.
+**Student information collected:** To create a Student Subscription account, TCI requires a first initial, last name, username, and password. The actual content of these four fields is at the discretion of the adult administering the account but should not include personally identifiable information. Within the Student Subscription, students may answer content-based questions, which include open-ended question prompts. Students are never asked for personally identifiable information and should be instructed to never include such information in an open-ended question.
 
-**COPPA:** TCI complies with the Children's Online Privacy Protection Act ("COPPA"). COPPA requires that website operators never knowingly collect personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. TCI does not request or knowingly collect personal information from or about children. If we discover personal data from a child under the age of 13, we will eliminate that data.
+**COPPA:** TCI complies with the Children's Online Privacy Protection Act ("COPPA"). COPPA requires that website operators never knowingly collect personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. TCI does not ask for or use personal information from or about children.
 
-TCI offers access to children under 13 to this Website based upon the presumption that you, or any other party facilitating access to this Website by students, have obtained authorization for the storage and use by TCI of such students' information necessary to offer this Website, including, without limitation, parental consent to the collection of such information by TCI.
+TCI offers access to children under 13 to this Website based upon the presumption that you, or any other party facilitating access to this Website by students, have obtained authorization for the storage and use by TCI of all student information you provide to this Website, including, without limitation, parental consent to the collection of such information by TCI.
 
 **FERPA:** TCI provides schools and districts full access to their student information through its Teacher Subscription service and Subscription Management tool. Teachers can view their students' information and download it at any time to a CSV file. All student accounts and content, including any grading information, are permanently deleted on June 30 each year as part of TCI's annual student and class reset. It is the responsibility of schools and districts to export any student information such as points assigned for individual assessments, notebooks, and other content prior to that date. TCI does not maintain any student records.
 
