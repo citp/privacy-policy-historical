@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the vans.com privacy policy that was archived on 2016-04-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160421110550id_/http%3A//www.vans.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vans.com privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119013327id_/http%3A//www.vans.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js vfrs cms  wf-inactive" lang="en"><!--<![endif]--><head>
-<!-- Application Version 3-7-6393-c3e02e9edf31 -->
+<!DOCTYPE html><html class="no-js vfrs cms wf-loading" lang="en"><!--<![endif]--><head>
+<!-- Application Version: 3-21-12155-71802c5b67ac -->
+<!-- Page Generation Time: 2016/11/18 04:02:27 -->
 <title>Privacy Policy</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -21,6 +22,7 @@
 <script type="text/javascript">
 	window.isEditMode = false;
 </script>
+<link href="/etc/designs/vfcorp/vans/clientlibs/global/css/global-cms.css?3-21-12155-71802c5b67ac" rel="stylesheet" type="text/css">
 <!-- Google Tag Manager -->
 <script type="text/javascript">
 	dataLayer = [ {
@@ -31,10 +33,10 @@
 <!-- ESI/SSI Start Head Remote -->
 <!-- IncludeURL: http://www.vans.com/webapp/wcs/stores/servlet/VFPageHeaderSnippetView?storeId=10153&langId=-1&aem=true&cmEnabled=false -->
 <!-- ESI include -->
-<!-- generated: Thu Apr 21 03:22:41 EDT 2016 -->
+<!-- generated: Fri Nov 18 03:21:29 EST 2016 -->
 
 
-<link rel="vf-store-messages" href="VFAjaxStoreMessagesView?storeId=10153&amp;langId=-1&amp;requestype=ajax&amp;isJSONPEnabled=true">
+<link rel="vf-store-messages" data-href="VFAjaxStoreMessagesView?storeId=10153&amp;langId=-1&amp;requestype=ajax&amp;isJSONPEnabled=true">
 
 <meta name="storeId" content="10153">
 <meta name="langId" content="-1">
@@ -45,17 +47,17 @@
 
 <script>
 		var WCS_CONFIG = WCS_CONFIG || {};
-		
+
 		WCS_CONFIG.get = function (key, obj){
 			var _obj = obj || this,
 				_keyChain = key,
 				_value = null,
 				_valueLowerCase = null;
-				
+
 			if (_keyChain.split){
 				_keyChain = _keyChain.split("::");
 			}
-				
+
 			if (_keyChain.length > 1){
 				_parentKey = _keyChain.shift();
 				_parentObj = _obj[_parentKey];
@@ -63,10 +65,10 @@
 			}
 			else {
 				_value = _obj[_keyChain[0]];
-	
+
 				if (typeof _value === "string") {
 					_valueLowerCase = _value.toLowerCase();
-	
+
 					if (_value === "true") {
 						_valueLowerCase = true;
 						_value = _valueLowerCase;
@@ -77,31 +79,46 @@
 					}
 				}
 			}
-			
+
 			return _value;
 		};
 
-	
+
 		WCS_CONFIG.global = {
-			"triggerEventsByGTM": false, 
+			"triggerEventsByGTM": false,
 			"miniCartLocation": 'right',
 			"miniCartAutoHideTime": '6000',
 			"miniCartMinHeight": '400',
 			"miniCartMobileGenericMessage": 'false',
 			"miniCartMobileShowAsModal": 'false',
 			"navHeaderExcludeSearchSuggestion" : false,
-			"bloomReachEnabled" : false
+			"bloomReachEnabled" : true,
+			"trackOrdersMadeInStoreEnable" : false,
+			"enableKioskSessionButtons": false,
+            "limitAutoSuggestTextLinkResults": 7,
+            "limitAutoSuggestProductLinkResults" : 3,
+            "autoSuggestUseCommaSeparatedTextLinks" : false,
+            "autoSuggestEncloseTextResultsInQuotes" : false,
+            "autoSuggestDisplayKeywordsTextHeader" : false,
+            "autoSuggestDisplayFeaturedResultsTextHeader" : true,
+            "autoSuggestFeaturedResultsText" : 'Featured Results',
+            "favoritesEnabled": false,
+            "kioskClearSessionReturnURL" : 'https://www.vans.com/shop/LogonForm?langId=-1&storeId=10153',
+            "attraqtEnabled" : false,
+            "attraqtSearchEnabled" : false
 		};
-		
+
 	    WCS_CONFIG.cart = {
 	        "showCartOnlyWhenActive": false,
+	        "showCartFirstLoad": true,
 	        "shortShippingMethodNameEnabled": false,
 	        "shopCartPromoCodeEnabled": false,
-	        "orderItemPriceDisplayAdjustmentEnabled": false
+	        "orderItemPriceDisplayAdjustmentEnabled": false,
+	        "shopcartPromoSectionCollapsed" : true
 	    };
-	
+
 		WCS_CONFIG.PDP = {
-			"notifyMeEnabled": true,
+			"notifyMeEnabled": false,
 			"authOnlineDealerEnabled": false,
 			"productDescriptionListContainerTag": 'ul',
 	 	 	"productDescriptionListItemTag": 'li',
@@ -110,83 +127,119 @@
 	 	 	"marketingVideoEnabled": false,
 	 	 	"productVideoEnabled": false,
 	 	 	"olapicEnabled": true,
-	 	 	"hideAddToCartAllItemsOutOfStock": false,
+	 	 	"hideAddToCartAllItemsOutOfStock": true,
 	 	 	"pdpHideOutOfStockSizesWhenNotifyMeNotPresent": false,
 	 	 	"pdpHideButtonsBasedOnAttribute": true,
 			"ignoreSelectionOnFirstLoad": false,
-	 	 	"pdpMobileRepositionNamePriceRating": true,
-	 	 	"setPriceContainerHeightEnabled": true,
 	 	 	"isUpCloadEnabled": false,
 	 	 	"pdpInstoreAltColorEnabled": false,
 	 	 	"pdpInstoreAltColorSwatchImageEnabled": false,
-	 	 	"pdpInstoreAvailabilityMode": 'inline',
-	 	 	"pdpInstoreAutoCompleteEnabled": false,
+	 	 	"pdpInstoreAvailabilityMode": 'modal',
+	 	 	"pdpInstoreAutoCompleteEnabled": true,
+            "pdpInstoreMobileResultsCollapsed" : true,
 			"isBloomReachPdpEnabled": false,
+			"pdpVideoMobileCarouselOrButton": 'button',
 	 	 	"showTitleFirstInHopupEnabled": false,
-	 	 	"showPriceAboveAddToCart" : false
+	 	 	"showPriceAboveAddToCart" : false,
+	 	 	"pdpShowOOSInSizeDropDown" : true,
+	 	 	"pdpMobileCTACheckoutEnabled" : true,
+	 	 	"pdpMobileCTAButtonText" : 'Checkout',
+            "pdpTemplateType" : 'basic',
+            "pdpDisplayBracketInDiscountPercent":true,
+            "pdpInstoreOMSInventoryCheckEnabled":true
 		};
-	
+
 		WCS_CONFIG.grid = {
-			"showLoadingNotification": false,
+			"showLoadingNotification": true,
 			"productGridColorClickThroughEnabled": false,
+			"isProductGridSwatchesExpansionEnabled": false,
 			"isProductImageOfColorOnHoverEnabled": false,
 			"isAlternateViewEnabled": true,
 			"gridAltViewHoverDelay": 100,
 			"gridAltViewFadeSpeed": 'fast',
 			"gridTopBarEnabled": false,
 			"isBloomReachCatEnabled": false,
-			"productListLoadMoreBehavior": 'infinite'
+			"productShowDiscountPercentage": false,
+			"productListLoadMoreBehavior": 'infinite',
+			"redirectToPDPOnSwatchClickEnabled": false,
+			"productListFloatingFiltersEnabled": true
 		};
-		
-		
+
+
 		WCS_CONFIG.owlCarousel = {
 	 	 	"autoPlay": '5000',
 	 	 	"altPdpZoomViewerPlusEnabled": 'true'
 	 	};
- 	
-		
+
+
 		WCS_CONFIG.checkout = {
 	 		"giftCardAndPromotionCollapsedByDefault" : true,
+	 		"promoSectionCollapsed" : true,
+	 		"rewardsSectionCollapsed" : true,
+	 		"paymentSectionCollapsed" : false,
+	 		"giftCardSectionCollapsed" : true,
 	 		"checkoutBillingPaymentInfoDisplayMode" : 'RADIO_DISPLAY',
-	 		"checkoutLeaveforPaypalPopupEnabled" : false,
+	 		"checkoutShopCartLeaveforPaypalPopupEnabled" : false,
+	 		"checkoutBillingLeaveforPaypalPopupEnabled" : false,
 	 		"checkoutBillingEditPaypalEmailEnabled" : false,
 	 		"giftCardPinNeeded": true,
 	 		"checkoutPromoCodePosition": 'bottom',
 	 		"checkoutGiftOptionEnabled": false,
 	 		"addressAutoCompleteEnabled" : true,
-	 		"checkoutSingleFieldCCEntryEnabled": false
+	 		"checkoutAddressAutoCompleteGeoLocationEnabled" : true,
+	 		"checkoutSingleFieldCCEntryEnabled": false,
+	 		"worldPayConnectionErrorText": '???WORLDPAY_CONNECTION_ERROR_INFO_TEXT???',
+	 		"worldPayBillingEnabled": 'false',
+	 		"paymentSectionSideBySideLayoutEnabled": true,
+	 		"autocompleteJS": 'https://maps.googleapis.com/maps/api/js?client=gme-vfcservicesinc&v=3&libraries=places',
+            "checkoutShopcartSaveForLaterEnabled" : true,
+            "saveForLaterTemplateLocation" : 'text!wcs/view/save-for-later/templates/shared-saveForLaterTemplate.html',
+            "dropdownMaxItemQuantity" : 5,
+            "shopcartQuantityType" : 'select',
+            "quantityDropdownUseStyledSelect" : false,
+            "visaCheckoutEnabled" : 'false',
+		    "narvarDeliveryEstimateEnabled" : false,
+		    "narvarDeliveryRetailerName" : '',
+		    "narvarDeliveryOAuthToken" : '',
+		    "narvarDeliverySource" : '',
+		    "narvarDeliverTextTemplate" : '',
+		    "narvarDeliveryOZipcode" : '',
+		    "narvarDeliveryUseMinOrMaxDate" : 'MAX',
+		    "narvarDeliveryFulfillmentDays" : '1',
+          	"cybersourceSOPEnabled":true
 	 	};
-	 	
+
 	 	WCS_CONFIG.address = {
-	 		"isRelaxedValidationRuleForCountryEnabled": false
+	 		"isRelaxedValidationRuleForCountryEnabled": true,
+	 		"qasAddressListDropdownDefault": 'Please select an address from the list'
 	 	};
-	
+
 		WCS_CONFIG.topnav = {
-	 	 	 "upperNavUnderDropdown": false,
 	 	 	 "dropdownBackButtonNoArrow": false,
 	 	 	 "dropdownStackedList":  false,
 	 	 	 "dropdownStackedListConfigEnabled": false,
-	 	 	 "navHeaderExcludeMore": false,
 	 	 	 "navHeaderExcludeSearch": false,
 	 	 	 "dropdownAuxLinksEnabled": false,
-	 	 	 "navHeaderLogoSeparateLineTabletEnabled": false ,
+	 	 	 "navHeaderLogoSeparateLineTabletEnabled": false,
+             "navHeaderLogoSeparateLineDesktopEnabled": false,
 	 	 	 "navHeaderIncludeDropdownsInMore" : false,
 	 	 	 "dropdownSignoutMobileEnabled": false,
 	 	 	 "navHeaderSignInLabelEnabled": false,
 	 	 	 "mobileScrollToTop": false,
 	 	 	 "headerNavGreeting": 'Hi,',
-	 	 	 "navHoverDelay": 500
+	 	 	 "navHoverDelay": 500,
+	 	 	 "accordionMenuEnabled": false
 	 	};
-	 	
+
 	 	WCS_CONFIG.quickView = {
 			"quickViewAlternateViewsEnabled": false
 		};
-	
+
 	 	WCS_CONFIG.BackToTop = {
 			 "text": "Back To Top",
-			 "isBackToTopEnabled": true
+			 "isMyAccountBackToTopEnabled": true
 		};
-		
+
 		WCS_CONFIG.MY_ACCOUNT = {
 			 "addressAutoCompleteEnabled": "false",
 			 "posLogonUtmCampaign": "store-"
@@ -195,31 +248,21 @@
 		WCS_CONFIG.ANALYTICS = {
 			"asyncEnabled": false,
 			"cmEnabled": false,
-			"gaEnabled": false,
 			"gtmEnabled": true,
-			"omEnabled": false,
 			"cmClientId": "90176502",
 			"cmManaged": "true",
 			"dcDomain": "data.coremetrics.com",
 			"cmCookieDomain": "vans.com",
-			"gaId": "",
-			"gaCookieDomain": "",
-			"gtmId": "GTM-55FXG5",
-			"omMcordID": "",
-			"omLinkInternalFilter": "",
-			"omRsID": "",
-			"omNamespace": "",
-			"omTrackingServer": "",
-			"omSecureTrackingServer": ""
+			"gtmId": "GTM-55FXG5"
 		};
 
 	    var ZCG_CONFIG = {
 			"WISHLIST": {
 				"DEFAULT_VIEW": 'list',
-				"TITLE_BEFORE_PRICE": 'false'											  									
+				"TITLE_BEFORE_PRICE": 'false'
 			}
 		};
-		
+
 		var VIEWPORTS = {
 			"S7_PRESETS": {
 				"THUMBNAIL" : '$74x74$',
@@ -235,10 +278,10 @@
 				"DESKTOP" : {"MIN": 1024, "MAX" : 1128}
 			}
 		};
-		
-		
+
+
 	WCS_CONFIG.zclookup = {
-		"isZConfigured": 'true', 
+		"isZConfigured": 'true',
 		"zcLength": '5',
 		"formDefaultZipCodeInputMaxlength": '10',
 		"formDefaultZipCodeInputPattern": '^\d{5}(-\d{4})?$',
@@ -246,9 +289,9 @@
 		"formUSZipCodeInputPattern": 'default',
 		"formCAZipCodeInputMaxlength":'7',
 		"formCAZipCodeInputPattern": '[a-zA-Z0-9,#\'\s\./-]+',
-		"formUndefinedZipCodeInputMaxlength": '40',
+		"formUndefinedZipCodeInputMaxlength": '11',
 		"formUndefinedZipCodeInputPattern": ''
-		
+
 	};
 		
 		    WCS_CONFIG.scene7 = {
@@ -258,14 +301,14 @@
 				scene7ImageSetPattern: 'PARTNUMBER',
 				scene7ViewerUrl: '//images.vans.com/s7viewers/html5/js/ZoomViewer.js'
 	       	};
-	
+
 			var SCENE7 = {
 				BRAND			   : 'Vans',
 				SERVER_URL		   : '//images.vans.com/is/image/',
 				LOCALE			   : 'en',
-				TIP_BUBBLE_OVER	   : 'Mouse over image for a closer look.',
+				TIP_BUBBLE_OVER	   : "Mouse over image for a closer look.",
 				IMAGE_PATTERN      : '{prefix}/{pattern}{view}?${profile}${postfix}',
-				URL_PREFIX         : '//images.vans.com/is/image/Vans', 
+				URL_PREFIX         : '//images.vans.com/is/image/Vans',
 				IMAGE_NAME_PATTERN : 'PARTNUMBER',
 				HERO_VIEW_NAME     : '-HERO',
 				URL_POSTFIX        : ''
@@ -278,7 +321,7 @@
 				"UPLOAD_WIDGET_ID"        : '1258240538',
 				"CAROUSEL_WIDGET_ID"      : '1548216596',
 				"ENDPOINT"                : '/customers/',
-				"URL"                     : 'https://photorankapi-a.akamaihd.net',
+				"URL"                     : '//photorankapi-a.akamaihd.net',
 				"KEY"                     : '50cf838b14048d90154684cbe682d55fe8667992a1acc8dab2e4d195ddd59069',
 				"LIMIT"                   : '1',
 				"VERSION"                 : 'v2.2',
@@ -286,20 +329,25 @@
 				"ASSET_DATA_ASSIGNMENT_BY": 'color',
 				"QUICKVIEW_ENABLED"       : false,
 				"QUICKVIEW_VIDEO_ENABLED" : false,
-				"VIDEO_ENABLED"			  : false	
+				"VIDEO_ENABLED"			  : false
 		    };
 	    
 	</script>
 
 	
-
 	<script>
 		var ACTION_URLS = {
 			"MINI_SHOPPING_URL" : '//www.vans.com/webapp/wcs/stores/servlet/VFAjaxGetMiniCartOrderView',
 			"MINI_WISHLIST_URL" : '//www.vans.com/webapp/wcs/stores/servlet/VFAjaxGetMiniWishListView',
 			"AUTOCOMPLETE_URL" 	: '//www.vans.com/webapp/wcs/stores/servlet/VFAutoSuggestView',
 			"ARTICLESEARCH_URL"	: '//www.vans.com/bin/aem/search/articlesearch',
-			"FREE_GIFT_URL"	: '//www.vans.com/webapp/wcs/stores/servlet/VFPromotionFreeGiftChoicesView'
+			"FREE_GIFT_URL"	: '//www.vans.com/webapp/wcs/stores/servlet/VFPromotionFreeGiftChoicesView',
+			"SFL_INSTOCK_EDIT_URL"	: '//www.vans.com/webapp/wcs/stores/servlet/VFEditShopCartDisplay?storeId=10153',
+			"SFL_CUSTOM_EDIT_URL"	: 'http://www.vans.com/shop/CategoryDisplay?catalogId=10703&linkRef=editCart&langId=-1&identifier=OV+Custom+Shoes&storeId=10153&page=configure',
+            "SFL_MTC_WISHLIST_URL"  : 'VFAjaxInterestItemAdd?storeId=10153&listId=.',
+            "SFL_MTC_WISHLIST_LAST_REMOVE" : 'http://www.vans.com/shop/VFOrderItemDelete?langId=-1&storeId=10153&URL=OrderItemDisplay%3FlangId%3D-1%26storeId%3D10153%26orderId%3D.%26removeToWL%3Dtrue',
+            "ADD_TO_FAVORITELIST_URL"  : 'VFAjaxInterestItemAdd?storeId=10153&listId=.',
+            "REMOVE_FROM_FAVORITELIST_URL"  : 'VFAjaxInterestItemDelete?storeId=10153&listId=.'
 		};
 		var espotHeaderNavCloneEnabled = true;
 		var hideSearchResultsOnMobile  = 'false';
@@ -318,12 +366,12 @@
 	<script>
 		var LOADING_INDICATOR_TEXTS = {
 			"LOAD" : 'Loading',
-			"SAVE" : 'Saving',
+			"SAVE" : "Saving",
 			"PROCESS" : 'Processing',
 			"UPDATE" : 'Updating'
 		};
 	</script>
-	
+
 	<script>
 		var STORE_MESSAGES = {
 			"nsc" : 'Please remove the following invalid character{title}.',
@@ -349,58 +397,47 @@
 	  })();
 	</script>
 		<!-- -->
-	<script type="text/javascript">
-		var zm = { listeners: [] };
-	</script>
-
-	
-		<script type="text/javascript" src="//www.vans.com/wcsstore/vf-storefront/js/metrics/zmetrics.js?v=49"></script>
+		<script type="text/javascript" src="//www.vans.com/wcsstore/vf-storefront/js/metrics/zmetrics.js?v=73"></script>
 	<!-- Google Tag Manager GTM-55FXG5 --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-55FXG5');</script><!-- End Google Tag Manager -->
-		<script type="text/javascript" src="//www.vans.com/wcsstore/vf-storefront/js/metrics/gtm-listener.js?v=49"></script> 
+		<script type="text/javascript" src="//www.vans.com/wcsstore/vf-storefront/js/metrics/gtm-listener.js?v=73"></script>
 	
 
 	<script type="text/javascript">
 		
-	
+
 		//initialize google tag manager listener
 		
 			gtm.initMetrics();
-			
+		
+
 	</script>
-	
-	
+
+
 <!-- ESI/SSI End Head Remote-->
-<link href="/etc/designs/vfcorp/vans/clientlibs/global/css/global-cms.css?3-7-6393-c3e02e9edf31" rel="stylesheet" type="text/css">
 <!-- Begin Monetate Custom Tag -->
-<!-- Begin Monetate ExpressTag Sync v8. Place at start of document head. DO NOT ALTER. -->
-<script type="text/javascript">
-var monetateT = new Date().getTime();
-(function() {
-    var p = document.location.protocol;
-    if (p == "http:" || p == "https:") {
-        var m = document.createElement("script"); m.type = "text/javascript"; m.src = (p == "https:" ? "https://s" : "http://") + "e.monetate.net/js/2/a-1c6f575e/p/vans.com/entry.js";
-        var e = document.createElement("div"); e.appendChild(m); document.write(e.innerHTML);
-    }
-})();
-</script><script type="text/javascript" src="https://se.monetate.net/js/2/a-1c6f575e/p/vans.com/entry.js"></script>
+<!-- Begin Monetate ExpressTag Sync v8.1. Place at start of document head. DO NOT ALTER. -->
+<script type="text/javascript">var monetateT = new Date().getTime();</script>
+<script type="text/javascript" src="//se.monetate.net/js/2/a-1c6f575e/p/vans.com/entry.js"></script>
 <!-- End Monetate tag. --><!-- END Monetate tag. -->
-<script src="/etc/designs/vfcorp/vans/clientlibs/global/js/manifest.js?3-7-6393-c3e02e9edf31"></script>
-<script data-main="/etc/designs/vfcorp/vans/clientlibs/global/js/main-cms.js?3-7-6393-c3e02e9edf31" src="/etc/designs/vfcorp/vans/clientlibs/global/js/lib/require.js?3-7-6393-c3e02e9edf31"></script>
+<script src="/etc/designs/vfcorp/vans/clientlibs/global/js/manifest.js?3-21-12155-71802c5b67ac"></script>
+<script data-main="/etc/designs/vfcorp/vans/clientlibs/global/js/main-cms.js?3-21-12155-71802c5b67ac" src="/etc/designs/vfcorp/vans/clientlibs/global/js/lib/require.js?3-21-12155-71802c5b67ac"></script>
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:site_name" content="Vans USA - English">
 <meta property="og:url" content="http://www.vans.com/privacy.html">
 <meta property="og:description" content="">
 <!-- No og:image set -->
+<link rel="alternate" hreflang="en-us" href="http://www.vans.com/privacy.html">
 </head>
 <body id="" class="">
 <!--[if lt IE 9]>
 	    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 	<![endif]-->
 <div id="master-container" class="wroot">
-<div class="masthead header"><!-- ESI/SSI Start MastHead-->
+<div class="masthead header">
+<!-- ESI/SSI Start MastHead-->
 <!-- IncludeURL: http://www.vans.com/webapp/wcs/stores/servlet/VFHeaderDisplayView?storeId=10153&langId=-1&aem=true -->
 <!-- ESI include -->
-<!-- generated: Thu Apr 21 03:22:41 EDT 2016 -->
+<!-- generated: Fri Nov 18 03:21:08 EST 2016 -->
 
 <!-- -->			
 
@@ -424,21 +461,25 @@ var monetateT = new Date().getTime();
 	
 	<div class="mini-cart-content content">
 		<article class="mini-cart-content-container mini-cart-shopcart-content-container shopcart cart-list" data-tabcontent="shopcart"></article>
-		<article class="mini-cart-content-container mini-cart-wishlist-content-container wishlist cart-list" data-tabcontent="wishlist"></article>
-	</div>
+					<article class="mini-cart-content-container mini-cart-wishlist-content-container wishlist cart-list" data-tabcontent="wishlist"></article>
+			</div>
 	<div class="mini-cart-notification notification hide"></div>
 </section>
 
 <div id="global-body-overlay" title="Click to close"></div>
 
-<div class="contain-to-grid contain-to-grid-js">
+
+
+<div class="header-container">
+	<div class="contain-to-grid contain-to-grid-js  ">
+				
 		<div id="master-header" class="master-header">
-        <nav class="top-bar top-bar-js" data-options="custom_back_text:true; mobile_show_parent_link: true; back_text: Back">
-    		<ul class="title-area">
-    			<li class="name">
-    				<nav class="store-logo">
-                					
-							<!-- generated: Thu Apr 21 03:21:53 EDT 2016 -->
+				        	        <nav class="top-bar top-bar-js" data-options="custom_back_text:true; mobile_show_parent_link: true; back_text: Back">
+	    		<ul class="title-area">
+	    			<li class="name">
+	    				<nav class="store-logo">
+	                					
+							<!-- generated: Fri Nov 18 03:21:01 EST 2016 -->
 
 
 
@@ -459,8 +500,7 @@ var monetateT = new Date().getTime();
 	
 					
 						
-			<a title="Home" href="/"><div class="brand-store-logo"></div>
-</a>
+			<a href="/" title="Home"><div class="header-logo"></div></a>
 						
 	</div>
 
@@ -469,52 +509,546 @@ var monetateT = new Date().getTime();
 	</div>
 </div>
 
-					                		                    </nav>
-                </li>
+						                			                    </nav>
+	                </li>
+					
+						    					
+							<!-- generated: Fri Nov 18 03:21:01 EST 2016 -->
+
+
+	<li class="menu-topbar search-topbar search-topbar-js">
+		
+				<i class="search-icon icon-search"></i>
+			
+	</li>
+	
+		<li class="menu-topbar locator-topbar locator-topbar-js">
+			<a href="http://www.vans.com/utility/store-locator.html">
 				
-				    					
-							<!-- generated: Thu Apr 21 03:21:54 EDT 2016 -->
-
-
-
-<li class="menu-topbar search-topbar search-topbar-js"><i class="search-icon icon-search"></i></li>
-
-	<li class="menu-topbar locator-topbar locator-topbar-js">
-		<a href="http://www.vans.com/utility/store-locator.html"><i class="locator-icon icon-location"></i></a>
-	</li>
-
+						<i class="locator-icon icon-location"></i>
+					
+			</a>
+		</li>
+	
 	<li class="menu-topbar cart-topbar cart-topbar-js">
-    	<a href="http://www.vans.com/shop/OrderCalculate?calculationUsageId=-1&amp;calculationUsageId=-2&amp;calculationUsageId=-7&amp;orderId=.&amp;langId=-1&amp;storeId=10153&amp;URL=OrderItemDisplay%3FlangId%3D-1%26storeId%3D10153%26deleteOutOfStockOrderItem%3DY%26orderId%3D."><i class="cart-icon icon-shopcart"><span class="cart-items-count nav-shoppingbag-qty-js"></span></i></a>
+    	<a href="http://www.vans.com/shop/OrderCalculate?calculationUsageId=-1&amp;calculationUsageId=-2&amp;calculationUsageId=-7&amp;orderId=.&amp;langId=-1&amp;storeId=10153&amp;URL=OrderItemDisplay%3FlangId%3D-1%26storeId%3D10153%26deleteOutOfStockOrderItem%3DY%26orderId%3D.">
+    		
+    				<i class="cart-icon icon-shopcart"><span class="cart-items-count nav-shoppingbag-qty-js"></span></i>
+    			
+    	</a>
 	</li>
 
-<li class="menu-topbar toggle-topbar toggle-topbar-js"><a><i class="menu-icon icon-menu"></i></a></li> 
+<li class="menu-topbar toggle-topbar toggle-topbar-js">
+	<a href="#">
+		
+				<i class="menu-icon icon-menu"></i>
+			
+	</a>
+</li> 
 
 
-					    			            </ul>	
-    			
-        	<section class="topnav top-bar-section">
-    			    					
-							<!-- generated: Thu Apr 21 03:21:54 EDT 2016 -->
+						    				            </ul>	
+	    			
+	        	<section class="topnav top-bar-section">
+					<div class="lower-container lower-container-js">
+	        			<ul class="topnav-main right lower cat-menu-js">
+	        						
+							<!-- generated: Fri Nov 18 03:21:01 EST 2016 -->
+
+
+					<li class="topnav-main-item more-link-js">
+						
+								<a href="/shop.html">Shop</a>
+							
+					</li>
+				
+					<li class="topnav-main-item has-dropdown has-dropdown-js more-link-js">
+						
+								<a href="/mens.html">Mens</a>
+								<span class="dropdown-arrow"></span>
+								
+								<!-- -->			
+
+
+
+
+	<ul class="dropdown">
+				
+        
+    	    	    	    		    			
+    			    				<li class="topnav-main-item-featured has-dropdown has-dropdown-js featured-items-list">
+						    						<ul>
+    							<li class="shop-all-nav"><a href="/mens.html">Shop All Mens</a></li>
+    						</ul>
+						    			    			
+				<a class="topnav-main-item-featured-item-header sub-category-header">Featured</a>
+				<ul class="topnav-main-item-featured-items-list dropdown">
+																						
+							                                <li class=""><a class="button-link" href="http://www.vans.com/shop/mens-new-and-popular-arrivals"><span class="catLabel">New Arrivals</span></a></li>
+													 																						
+							                                <li class=""><a class="button-link" href="/shop-by-style-mens.html"><span class="catLabel">Shop by Style</span></a></li>
+													 																						
+							                                <li class=""><a class="button-link" href="/customs.html"><span class="catLabel">Customs</span></a></li>
+													 																						
+							                                <li class=""><a class="button-link" href="/holiday-gift-guide.html"><span class="catLabel">Holiday Gift Guide</span></a></li>
+													 																						
+							                                <li class=""><a class="button-link" href="http://www.vans.com/shop/vans-toy-story"><span class="catLabel">Vans x Disney•PIXAR Toy Story</span></a></li>
+													 																						
+							                                <li class=""><a class="button-link" href="/shop-the-look-mens-h16.html"><span class="catLabel">Shop the Look</span></a></li>
+													 																						
+							                                <li class=""><a class="button-link" href="http://www.vans.com/shop/mens-shoes-weatherized"><span class="catLabel">ALL-WEATHER MTE</span></a></li>
+													 									</ul>
+
+    			    				</li>
+    			    				    				    				    				        
+												        										<li class="has-dropdown has-dropdown-js sub-category ">
+                    
+											<a href="http://www.vans.com/shop/mens-shoes" class="sub-category-header">Shoes</a>
+						
+					<ul class="content dropdown">
+																																				<li class=""><a href="http://www.vans.com/shop/mens-shoes-shop-new-arrivals">SHOP NEW ARRIVALS</a></li>
+																																													<li class=""><a href="/shop-by-style-mens.html">SHOP BY  STYLE</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/mens-shoes-classics">Classics</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/mens-shoes-skate">Pro Skate</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/mens-shoes-surf">Surf</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/mens-shoes-sandals">Sandals</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/mens-shoes-snowboarding-boots">Snowboard Boots</a></li>
+																											    						    							<li><a href="http://www.vans.com/shop/mens-shoes" class="all">Shop All Shoes</a></li>
+    																	</ul>
+				</li>
+			        										<li class="has-dropdown has-dropdown-js sub-category ">
+                    
+											<a href="http://www.vans.com/shop/mens-clothes" class="sub-category-header">Clothing</a>
+						
+					<ul class="content dropdown">
+																																				<li class=""><a href="http://www.vans.com/shop/mens-apparel-new-arrivals">SHOP NEW ARRIVALS</a></li>
+																																													<li class=""><a href="/shop-the-look-mens-h16.html">SHOP THE LOOK</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/mens-clothes-tees">T-Shirts</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/mens-clothes-fleece-hoodies-sweatshirts">Sweatshirts &amp; Hoodies</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/mens-clothes-shirts">Shirts</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/mens-clothes-jackets">Jackets</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/mens-clothes-pants">Pants &amp; Joggers</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/mens-clothes-denim-jeans">Jeans</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/mens-clothes-tank-tops">Tanks</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/mens-clothes-shorts">Shorts</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/mens-clothes-boardshorts">Boardshorts</a></li>
+																											    						    							<li><a href="http://www.vans.com/shop/mens-clothes" class="all">Shop All Clothing</a></li>
+    																	</ul>
+				</li>
+			        										<li class="has-dropdown has-dropdown-js sub-category ">
+                    
+											<a href="http://www.vans.com/shop/mens-accessories" class="sub-category-header">Accessories</a>
+						
+					<ul class="content dropdown">
+																																				<li class=""><a href="http://www.vans.com/shop/mens-accessories-new-arrivals">SHOP NEW ARRIVALS</a></li>
+																																													<li class=""><a href="/shop-the-look-mens-h16.html">SHOP THE LOOK</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/mens-accessories-backpacks-bags">Backpacks &amp; Bags</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/mens-accessories-hats-snapbacks">Hats &amp; Snapbacks</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/mens-accessories-beanies">Beanies</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/mens-accessories-socks">Socks</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/mens-accessories-sunglasses">Sunglasses</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/mens-accessories-wallets">Wallets</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/mens-accessories-belts">Belts</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/mens-accessories-laces">Laces</a></li>
+																											    						    							<li><a href="http://www.vans.com/shop/mens-accessories" class="all">Shop All Accessories</a></li>
+    																	</ul>
+				</li>
+			        		
+				
+        	    		        	        					        					        					        									    </ul>
+<!-- -->
+					</li>
+				
+					<li class="topnav-main-item has-dropdown has-dropdown-js more-link-js">
+						
+								<a href="/womens.html">Womens</a>
+								<span class="dropdown-arrow"></span>
+								
+								<!-- -->			
+
+
+
+
+	<ul class="dropdown">
+				
+        
+    	    	    	    		    			
+    			    				<li class="topnav-main-item-featured has-dropdown has-dropdown-js featured-items-list">
+						    						<ul>
+    							<li class="shop-all-nav"><a href="/womens.html">Shop All Womens</a></li>
+    						</ul>
+						    			    			
+				<a class="topnav-main-item-featured-item-header sub-category-header">Featured</a>
+				<ul class="topnav-main-item-featured-items-list dropdown">
+																						
+							                                <li class=""><a class="button-link" href="http://www.vans.com/shop/womens-new-and-popular-arrivals"><span class="catLabel">New Arrivals</span></a></li>
+													 																						
+							                                <li class=""><a class="button-link" href="/shop-by-style-womens.html"><span class="catLabel">Shop by Style</span></a></li>
+													 																						
+							                                <li class=""><a class="button-link" href="/customs.html"><span class="catLabel">Customs</span></a></li>
+													 																						
+							                                <li class=""><a class="button-link" href="/holiday-gift-guide.html"><span class="catLabel">Holiday Gift Guide</span></a></li>
+													 																						
+							                                <li class=""><a class="button-link" href="http://www.vans.com/shop/vans-toy-story-womens"><span class="catLabel">Vans x Disney•PIXAR Toy Story</span></a></li>
+													 																						
+							                                <li class=""><a class="button-link" href="http://www.vans.com/shop/womens-shoes-weatherized"><span class="catLabel">All-Weather MTE</span></a></li>
+													 																						
+							                                <li class=""><a class="button-link" href="/shop-the-look-womens-h16.html"><span class="catLabel">Looks We Love</span></a></li>
+													 																						
+							                                <li class=""><a class="button-link" href="/womens-lookbook-h16.html"><span class="catLabel">Holiday Lookbook</span></a></li>
+													 									</ul>
+
+    			    				</li>
+    			    				    				    				    				        
+												        										<li class="has-dropdown has-dropdown-js sub-category ">
+                    
+											<a href="http://www.vans.com/shop/womens-shoes" class="sub-category-header">Shoes</a>
+						
+					<ul class="content dropdown">
+																																				<li class=""><a href="http://www.vans.com/shop/womens-shoes-new-arrivals">SHOP NEW ARRIVALS</a></li>
+																																													<li class=""><a href="/shop-by-style-womens.html">SHOP BY STYLE</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/womens-shoes-classics">Classics</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/womens-shoes-surf">Surf</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/womens-shoes-sandals">Sandals</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/womens-shoes-snowboard-boots">Snowboard Boots</a></li>
+																											    						    							<li><a href="http://www.vans.com/shop/womens-shoes" class="all">Shop All Shoes</a></li>
+    																	</ul>
+				</li>
+			        										<li class="has-dropdown has-dropdown-js sub-category ">
+                    
+											<a href="http://www.vans.com/shop/womens-clothes" class="sub-category-header">Clothing</a>
+						
+					<ul class="content dropdown">
+																																				<li class=""><a href="http://www.vans.com/shop/womens-clothes-new-arrivals">SHOP NEW ARRIVALS</a></li>
+																																													<li class=""><a href="/shop-the-look-womens-h16.html">LOOKS WE LOVE</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/womens-clothes-tees">T-Shirts &amp; Tanks</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/womens-clothes-fleece-hoodies-sweatshirts">Sweatshirts &amp; Hoodies</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/womens-clothes-tops">Shirts &amp; Tops</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/womens-clothes-dresses">Dresses &amp; Skirts</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/womens-clothes-jackets">Jackets</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/womens-clothes-sweaters">Sweaters</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/womens-clothes-pants">Pants &amp; Leggings</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/womens-clothes-denim-jeans">Jeans</a></li>
+																											    						    							<li><a href="http://www.vans.com/shop/womens-clothes" class="all">Shop All Clothing</a></li>
+    																	</ul>
+				</li>
+			        										<li class="has-dropdown has-dropdown-js sub-category ">
+                    
+											<a href="http://www.vans.com/shop/womens-accessories" class="sub-category-header">Accessories</a>
+						
+					<ul class="content dropdown">
+																																				<li class=""><a href="http://www.vans.com/shop/womens-accessories-new-arrivals">SHOP NEW ARRIVALS</a></li>
+																																													<li class=""><a href="/shop-the-look-womens-h16.html">LOOKS WE LOVE</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/womens-accessories-backpacks-bags">Backpacks &amp; Bags</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/womens-accessories-hats">Hats &amp; Beanies</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/womens-accessories-socks">Socks</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/womens-accessories-sunglasses">Sunglasses</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/womens-accessories-wallets">Wallets</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/womens-accessories-coldwear">Scarves &amp; Gloves</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/womens-accessories-keychains">Keychains</a></li>
+																											    						    							<li><a href="http://www.vans.com/shop/womens-accessories" class="all">Shop All Accessories</a></li>
+    																	</ul>
+				</li>
+			        		
+				
+        	    		        	        					        					        					        									    </ul>
+<!-- -->
+					</li>
+				
+					<li class="topnav-main-item has-dropdown has-dropdown-js more-link-js">
+						
+								<a href="/kids.html">Kids</a>
+								<span class="dropdown-arrow"></span>
+								
+								<!-- -->			
+
+
+
+
+	<ul class="dropdown">
+				
+        
+    	    	    	    		    			
+    			    				<li class="topnav-main-item-featured has-dropdown has-dropdown-js featured-items-list">
+						    						<ul>
+    							<li class="shop-all-nav"><a href="/kids.html">Shop All Kids</a></li>
+    						</ul>
+						    			    			
+				<a class="topnav-main-item-featured-item-header sub-category-header">Featured</a>
+				<ul class="topnav-main-item-featured-items-list dropdown">
+																						
+							                                <li class=""><a class="button-link" href="http://www.vans.com/shop/kids-new-and-popular"><span class="catLabel">New Arrivals</span></a></li>
+													 																						
+							                                <li class=""><a class="button-link" href="/shop-by-style-kids.html"><span class="catLabel">Shop by Style</span></a></li>
+													 																						
+							                                <li class=""><a class="button-link" href="/customs.html"><span class="catLabel">Customs</span></a></li>
+													 																						
+							                                <li class=""><a class="button-link" href="/holiday-gift-guide.html"><span class="catLabel">Holiday Gift Guide</span></a></li>
+													 																						
+							                                <li class=""><a class="button-link" href="http://www.vans.com/shop/vans-toy-story-kids"><span class="catLabel">Vans x Disney•PIXAR Toy Story</span></a></li>
+													 																						
+							                                <li class=""><a class="button-link" href="http://www.vans.com/shop/vans-kids-mte"><span class="catLabel">All-Weather MTE</span></a></li>
+													 									</ul>
+
+    			    				</li>
+    			    				    				    				    				        
+												        										<li class="has-dropdown has-dropdown-js sub-category ">
+                    
+											<a href="http://www.vans.com/shop/kids-shop-all-shoes" class="sub-category-header">Shoes</a>
+						
+					<ul class="content dropdown">
+																																				<li class=""><a href="http://www.vans.com/shop/kids-boys-shoes">Boys (3.5-6)</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/kids-little-boys-shoes">Little Boys (10.5-3)</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/kids-girls-shoes">Girls (10.5-6)</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/kids-toddler-baby-shoes">Toddler (Size 4-10)</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/infant-baby-shoes">Infant (0-9 Months)</a></li>
+																																													<li class=""><a href="/shop/boys-encore-black-white-16">Snowboard Boots</a></li>
+																											    						    							<li><a href="http://www.vans.com/shop/kids-shop-all-shoes" class="all">Shop All Shoes</a></li>
+    																	</ul>
+				</li>
+			        										<li class="has-dropdown has-dropdown-js sub-category ">
+                    
+											<a href="http://www.vans.com/shop/kids-boys-clothes" class="sub-category-header">Boy's Clothes</a>
+						
+					<ul class="content dropdown">
+																																				<li class=""><a href="http://www.vans.com/shop/kids-boys-clothes-tees">Tees &amp; Tanks</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/kids-boys-clothes-tops">Shirts</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/kids-boys-clothes-hoodies-sweatshirts">Sweatshirts &amp; Hoodies</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/kids-boys-clothes-shorts">Shorts</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/kids-boys-clothes-bottoms">Jeans &amp; Pants</a></li>
+																											    						    							<li><a href="http://www.vans.com/shop/kids-boys-clothes" class="all">Shop All Boy's Clothes</a></li>
+    																	</ul>
+				</li>
+			        										<li class="has-dropdown has-dropdown-js sub-category ">
+                    
+											<a href="http://www.vans.com/shop/kids-accessories" class="sub-category-header">Accessories</a>
+						
+					<ul class="content dropdown">
+																																				<li class=""><a href="http://www.vans.com/shop/kids-boys-accessories-hats">Hats</a></li>
+																																													<li class=""><a href="http://www.vans.com/shop/kids-accessories-socks">Socks</a></li>
+																											    						    							<li><a href="http://www.vans.com/shop/kids-accessories" class="all">Shop All Accessories</a></li>
+    																	</ul>
+				</li>
+			        		
+				
+        	    		        	        					        					        					        									    </ul>
+<!-- -->
+					</li>
+				
+					<li class="topnav-main-item has-dropdown has-dropdown-js more-link-js">
+						
+								<a href="/holiday-gift-guide.html">Gifts</a>
+								<span class="dropdown-arrow"></span>
+								
+								<!-- -->			
+
+
+
+
+	<ul class="dropdown">
+				
+        
+    	    	    	    		    			
+    			    				<li class="topnav-main-item-featured has-dropdown has-dropdown-js featured-items-list">
+						    						<ul>
+    							<li class="shop-all-nav"><a href="/holiday-gift-guide.html">Shop All Gifts</a></li>
+    						</ul>
+						    			    			
+				<a class="topnav-main-item-featured-item-header sub-category-header">Featured</a>
+				<ul class="topnav-main-item-featured-items-list dropdown">
+																						
+							                                <li class=""><a class="button-link" href="/shop/mte-designed-for-the-elements"><span class="catLabel">All-Weather</span></a></li>
+													 																						
+							                                <li class=""><a class="button-link" href="/shop-by-style-mens.html"><span class="catLabel">Shop by Style</span></a></li>
+													 																						
+							                                <li class=""><a class="button-link" href="/custom-shoes.html"><span class="catLabel">Customs</span></a></li>
+													 									</ul>
+
+    			    				</li>
+    			    				    				    				    				    				        
+												        										<li class="has-dropdown has-dropdown-js sub-category ">
+                    
+											<a href="http://www.vans.com/shop/gifts-mens" class="sub-category-header">Gifts for Him</a>
+						
+					<ul class="content dropdown">
+																																				<li class=""><a href="/shop/gifts-mens#facet%5B%5D=ads_f38501_ntk_cs%25253A%252522New%252BArrival%252522&amp;beginIndex=0">New Arrivals</a></li>
+																																													<li class=""><a href="/shop/gifts-mens#facet%5B%5D=ads_f38501_ntk_cs%25253A%252522Best%252BSeller%252522&amp;beginIndex=0">Best Sellers</a></li>
+																																													<li class=""><a href="/shop/gifts-mens#facet%5B%5D=ads_f38501_ntk_cs%25253A%252522Online%252BOnly%252522&amp;beginIndex=0">Online Only</a></li>
+																																													<li class=""><a href="/shop/gifts-mens#facet%5B%5D=price_USD%25253A%252528%25257B*%252B25%25257D%252B25%252529&amp;beginIndex=0">Gifts Under $25</a></li>
+																											    						    							<li><a href="http://www.vans.com/shop/gifts-mens" class="all">Shop All Gifts for Him</a></li>
+    																	</ul>
+				</li>
+			        										<li class="has-dropdown has-dropdown-js sub-category ">
+                    
+											<a href="http://www.vans.com/shop/gifts-womens" class="sub-category-header">Gifts for Her</a>
+						
+					<ul class="content dropdown">
+																																				<li class=""><a href="/shop/gifts-womens#facet%5B%5D=ads_f38501_ntk_cs%25253A%252522New%252BArrival%252522&amp;beginIndex=0">New Arrivals</a></li>
+																																													<li class=""><a href="/shop/gifts-womens#facet%5B%5D=ads_f38501_ntk_cs%25253A%252522Best%252BSeller%252522&amp;beginIndex=0">Best Sellers</a></li>
+																																													<li class=""><a href="/shop/gifts-womens#facet%5B%5D=ads_f38501_ntk_cs%25253A%252522Online%252BOnly%252522&amp;beginIndex=0">Online Only</a></li>
+																																													<li class=""><a href="/shop/gifts-womens#beginIndex=0&amp;facet%5B%5D=price_USD%25253A%252528%25257B*%252B25%25257D%252B25%252529">Gifts Under $25</a></li>
+																											    						    							<li><a href="http://www.vans.com/shop/gifts-womens" class="all">Shop All Gifts for Her</a></li>
+    																	</ul>
+				</li>
+			        										<li class="has-dropdown has-dropdown-js sub-category ">
+                    
+											<a href="http://www.vans.com/shop/gifts-kids" class="sub-category-header">Gifts for Kids</a>
+						
+					<ul class="content dropdown">
+																																				<li class=""><a href="/shop/gifts-kids#facet%5B%5D=ads_f38501_ntk_cs%25253A%252522New%252BArrival%252522&amp;beginIndex=0">New Arrivals</a></li>
+																																													<li class=""><a href="/shop/gifts-kids#facet%5B%5D=ads_f38501_ntk_cs%25253A%252522Best%252BSeller%252522&amp;beginIndex=0">Best Sellers</a></li>
+																																													<li class=""><a href="/shop/gifts-kids#facet%5B%5D=ads_f38501_ntk_cs%25253A%252522Online%252BOnly%252522&amp;beginIndex=0">Online Only</a></li>
+																																													<li class=""><a href="/shop/gifts-kids#facet%5B%5D=ads_f53501_ntk_cs%25253A%252522Girl%252522&amp;beginIndex=0">Girls</a></li>
+																																													<li class=""><a href="/shop/gifts-kids#facet%5B%5D=ads_f53501_ntk_cs%25253A%252522Boy%252522&amp;beginIndex=0">Boys</a></li>
+																											    						    							<li><a href="http://www.vans.com/shop/gifts-kids" class="all">Shop All Gifts for Kids</a></li>
+    																	</ul>
+				</li>
+			        						        		
+				
+        	    		        	        					        					        					        					        		    				    				
+    				<li class="has-dropdown has-dropdown-js nav-product-carousel">
+        				<div class="product-carousel">
+        					<div class="sub-category-header">Gift Cards</div>
+        						<ul class="header-nav-carousel-js header-nav-carousel">
+        							        
+        								                                        
+    									    									                                            									
+        								<li>
+            								<div class="slide-img">
+												<a href="http://www.vans.com/shop/gift-card-pdp">
+													<img class="lazy" alt="Gift Card" data-original="//images.vans.com/is/image/Vans/GIFTCARD-HERO?$168x168$">
+                                                    <noscript><img alt="Gift Card" src="//images.vans.com/is/image/Vans/GIFTCARD-HERO?$168x168$" /></noscript>
+												</a>
+											</div>
+            								<div class="name">
+            									<span><a href="http://www.vans.com/shop/gift-card-pdp">Gift Card</a></span>
+            								</div>
+        									                								<div class="price">
+                									<span class="current-price">
+            											            												
+            											            										</span>
+                								</div>
+        									            							</li>
+        							        						</ul>
+        				</div>
+                    </li>
+        									    </ul>
+<!-- -->
+					</li>
+				
+					<li class="topnav-main-item more-link-js">
+						
+								<a href="/custom-shoes.html">Customs</a>
+							
+					</li>
+				
+					<li class="topnav-main-item more-link-js">
+						
+								<a href="/skate.html">Skate</a>
+							
+					</li>
+				
+					<li class="topnav-main-item has-dropdown has-dropdown-js more-link-js">
+						
+								<a href="#">Surf</a>
+								<span class="dropdown-arrow"></span>
+								
+								<!-- -->			
+
+
+
+<ul class="topnav-main-item-thumbnails dropdown thumbnails">
+	<li>
+		<div class="sub-categories">
+			<ul class="content">
+									<li class="topnav-main-item-thumbnails-item item ">
+													<a href="/surf.html" class="img">
+						
+													<img data-original="http://s7d2.scene7.com/is/image/VansBrand/surf-menu-image-mens?wid=250" class="show-for-medium-up lazy">
+							<span>Men's</span>
+		            	</a>
+
+											</li>
+									<li class="topnav-main-item-thumbnails-item item ">
+													<a href="/surf-womens.html" class="img">
+						
+													<img data-original="http://s7d2.scene7.com/is/image/VansBrand/surf-menu-image-womens?wid=250" class="show-for-medium-up lazy">
+							<span>Women's</span>
+		            	</a>
+
+											</li>
+				
+											</ul>
+		</div>
+	</li>
+</ul><!-- -->
+					</li>
+				
+					<li class="topnav-main-item more-link-js">
+						
+								<a href="/snow.html">Snow</a>
+							
+					</li>
+				
+					<li class="topnav-main-item  has-dropdown-custom has-dropdown-custom-js has-dropdown has-dropdown-js">
+						
+								<a href="#">More</a>
+								<span class="dropdown-arrow"></span>
+								
+								<!-- --><ul class="topnav-main-item-list dropdown-list dropdown dropdown-list-js">
+				<li class="topnav-main-item-list-item mega sub-category has-dropdown has-dropdown-js ">
+			<a href="#" class="topnav-main-item-list-item-header sub-category-header">On Vans.com</a>
+
+			
+						
+			<ul class="topnav-main-item-list-item-header-content content more-links-container-js dropdown">
+															<li class="more-link-js "><a href="/shop/shoes-classics-original-classics">Classics</a></li>
+																				<li class="more-link-js "><a href="#">Surf</a></li>
+																				<li class="more-link-js "><a href="/snow.html">Snow</a></li>
+																				<li class="more-link-js "><a href="/bmx.html">BMX</a></li>
+																				<li class="more-link-js "><a href="/skateparks-orange.html">Orange Skatepark</a></li>
+																				<li class="more-link-js "><a href="/skateparks-hb.html">HB Skatepark</a></li>
+																				<li class="more-link-js "><a href="/events.html">Events</a></li>
+																				<li class="more-link-js "><a href="/customs.html">Customs</a></li>
+																				<li class="more-link-js "><a href="/vault.html">Vault®</a></li>
+																				<li class="more-link-js "><a href="/syndicate.html">Syndicate®</a></li>
+												</ul>
+		</li>
+					<li class="topnav-main-item-list-item mega sub-category has-dropdown has-dropdown-js ">
+			<a href="#" class="topnav-main-item-list-item-header sub-category-header">Elsewhere</a>
+
+			
+			
+			<ul class="topnav-main-item-list-item-header-content content  dropdown">
+															<li class=" "><a href="http://www.vansparkseries.com/" target="_blank">Vans Park Series</a></li>
+																				<li class=" "><a href="http://houseofvans.com/" target="_blank">House of Vans</a></li>
+																				<li class=" "><a href="http://www.vanstriplecrownofsurfing.com">Vans Triple Crown of Surfing</a></li>
+																				<li class=" "><a href="https://www.youtube.com/user/VansShoes66" target="_blank">Video</a></li>
+																				<li class=" "><a href="http://vansmusic.tumblr.com/" target="_blank">Music</a></li>
+																				<li class=" "><a href="http://vansart.tumblr.com/" target="_blank">Art</a></li>
+												</ul>
+		</li>
+			</ul><!-- -->
+					</li>
+				
+						                    </ul>
+					</div>
+	    				    					
+							<!-- generated: Fri Nov 18 03:21:02 EST 2016 -->
 
 
 
 <ul class="topnav-util right upper">
-	
-		<li class="unav-greetname">	
-			<a id="btn-username" href="https://www.vans.com/shop/LogonForm?langId=-1&amp;storeId=10153" class=" ">	
-				<span><span>
-			</span></span></a>			
-		</li>
-	
+	<!--  check and see if there are locale specific items that need to be added  --><!-- if no locale specific entry, fall back to the default  --><!--  if no locale specific entry, fall back to the default  --><!--  if no locale specific entry, fall back to the default  -->
 				<li class="topnav-util-item unav-1  ">
 					
-							<a href="http://www.vans.com/utility/store-locator.html"><span>Find Store</span></a>
+							<a title="Find a Store" class="" href="http://www.vans.com/utility/store-locator.html"><span class="icon icon-location"></span><span class="hide-for-medium">Find Store</span></a>
 						
 				</li>
-			
+			<!--  check and see if there are locale specific items that need to be added  --><!-- if no locale specific entry, fall back to the default  --><!--  if no locale specific entry, fall back to the default  --><!--  if no locale specific entry, fall back to the default  -->
 				<li class="topnav-util-item unav-2  ">
 					
-							<a href="http://www.vans.com/gift-card.html"><span>Gift Card</span></a>
+							<a title="Gift Cards" class="" href="http://www.vans.com/gift-card.html"><span class="icon icon-gift-card"></span><span class="hide-for-medium">Gift Card</span></a>
 						
 				</li>
 			
@@ -547,405 +1081,83 @@ var monetateT = new Date().getTime();
 	</li>
 
 			<li class="topnav-util-item unav-wishlist">
-				<a id="btn_wishlist" href="https://www.vans.com/shop/LogonForm?listId=.&amp;langId=-1&amp;pageName=wishlist&amp;storeId=10153">
-					<span>Wish List (<span id="nav-wishlist-qty" class="nav-wishlist-qty-js"></span>)</span>
+				<a title="Wish List" id="btn_wishlist" href="https://www.vans.com/shop/LogonForm?listId=.&amp;langId=-1&amp;pageName=wishlist&amp;storeId=10153">
+					<span class="icon icon-wishlist"></span>
+					<span class="hide-for-medium">Wish List</span>
 				</a>
 			</li>
 		
-			
 		<li class="topnav-util-item unav-myaccount">
-			<a id="btn-myaccount" href="https://www.vans.com/shop/LogonForm?langId=-1&amp;storeId=10153" class=" ">
-				<span>My Account</span>
+			<a title="My Account" id="btn-myaccount" href="https://www.vans.com/shop/LogonForm?langId=-1&amp;storeId=10153" class=" ">
+				<span class="icon icon-account"></span>
+				<span class="hide-for-medium">My Account</span>
 			</a>
 		</li>
 
 		
 		
 		<li class="topnav-util-item unav-signing">
-			<a href="http://www.vans.com/shop/VFLogoff?catalogId=10703&amp;langId=-1&amp;storeId=10153&amp;URL=LogonForm">
-				<span>Sign Out</span>
+			<a title="Sign Out" href="http://www.vans.com/shop/VFLogoff?catalogId=10703&amp;langId=-1&amp;storeId=10153&amp;URL=LogonForm">
+				<span class="icon icon-sign-out"></span>
+				<span class="hide-for-medium">Sign Out</span>
 			</a>
 		</li>
 		
 		
 		<li class="topnav-util-item unav-shoppingbag unav-shoppingbag-js">
-			<a id="btn-shoppingbag" class="btn-shoppingbag-js" href="http://www.vans.com/shop/OrderCalculate?calculationUsageId=-1&amp;calculationUsageId=-2&amp;calculationUsageId=-7&amp;orderId=.&amp;langId=-1&amp;storeId=10153&amp;URL=OrderItemDisplay%3FlangId%3D-1%26storeId%3D10153%26deleteOutOfStockOrderItem%3DY%26orderId%3D.">
+			<a title="Shopping Cart" id="btn-shoppingbag" class="btn-shoppingbag-js" href="http://www.vans.com/shop/OrderCalculate?calculationUsageId=-1&amp;calculationUsageId=-2&amp;calculationUsageId=-7&amp;orderId=.&amp;langId=-1&amp;storeId=10153&amp;URL=OrderItemDisplay%3FlangId%3D-1%26storeId%3D10153%26deleteOutOfStockOrderItem%3DY%26orderId%3D.">
 				<span>Cart (<span id="nav-shoppingbag-qty" class="nav-shoppingbag-qty-js"></span>)</span>
 			</a>					
 		</li>
 	
 </ul>
 
-					    			    			
-				<div class="lower-container lower-container-js">
-        			<ul class="topnav-main right lower cat-menu-js">
-        						
-							<!-- generated: Thu Apr 21 03:21:54 EDT 2016 -->
-
-
-					<li class="topnav-main-item has-dropdown has-dropdown-js">
-						
-								<a href="/mens.html">Mens</a>
-								<span class="dropdown-arrow"></span>
-								
-								<!-- -->			
+						    				        	</section>
+	         </nav>
+	
+	        	    	 
+	    	 <!-- START: SEARCH -->
+	    	<div class="search-form-container">
+	    				
+							<!-- generated: Fri Nov 18 03:21:02 EST 2016 -->
 
 
 
-
-	<ul class="dropdown">
-				
-        
-    	    	    	    						
-    			    				<li class="topnav-main-item-featured has-dropdown has-dropdown-js featured-items-list">
-						    						<ul>
-    							<li class="shop-all-nav"><a href="/mens.html">Shop All Mens</a></li>
-    						</ul>
-						    			    			
-    			<div class="topnav-main-item-featured-item featured-items">
-    				<div class="topnav-main-item-featured-item-header sub-category-header">Featured</div>
-    				<ul class="topnav-main-item-featured-items-list">
-    					    																			
-								                                    <li><a class="button-link" href="http://www.vans.com/shop/mens-new-and-popular-arrivals"><span class="catLabel">New Arrivals</span></a></li>
-															     					    																			
-								                                    <li><a class="button-link" href="/shop-by-style-mens.html"><span class="catLabel">Shop by Style</span></a></li>
-															     					    																			
-								                                    <li><a class="button-link" href="/customs.html"><span class="catLabel">Customs</span></a></li>
-															     					    																			
-								                                    <li><a class="button-link" href="/shop-the-look-mens-sp16.html"><span class="catLabel">Shop the Look</span></a></li>
-															     					    				</ul>
-    			</div>
-    			    				</li>
-    			    				    				    				    				        
-												        										<li class="has-dropdown has-dropdown-js sub-category">
-                    
-											<a href="http://www.vans.com/shop/mens-shoes" class="sub-category-header">Shoes</a>
-						
-					<ul class="content dropdown">
-																																				<li><a href="http://www.vans.com/shop/mens-shoes-shop-new-arrivals">SHOP NEW ARRIVALS</a></li>
-																																													<li><a href="/shop-by-style-mens.html">SHOP BY  STYLE</a></li>
-																																													<li><a href="http://www.vans.com/shop/mens-shoes-classics">Classics</a></li>
-																																													<li><a href="http://www.vans.com/shop/mens-shoes-skate">Pro Skate</a></li>
-																																													<li><a href="http://www.vans.com/shop/mens-shoes-surf">Surf</a></li>
-																																													<li><a href="http://www.vans.com/shop/mens-shoes-sandals">Sandals</a></li>
-																											    						    							<li><a href="http://www.vans.com/shop/mens-shoes" class="all">Shop All Shoes</a></li>
-    																	</ul>
-				</li>
-			        										<li class="has-dropdown has-dropdown-js sub-category">
-                    
-											<a href="http://www.vans.com/shop/mens-clothes" class="sub-category-header">Clothing</a>
-						
-					<ul class="content dropdown">
-																																				<li><a href="http://www.vans.com/shop/mens-apparel-new-arrivals">SHOP NEW ARRIVALS</a></li>
-																																													<li><a href="/shop-the-look-mens-sp16.html">SHOP THE LOOK</a></li>
-																																													<li><a href="http://www.vans.com/shop/mens-clothes-tees">T-Shirts</a></li>
-																																													<li><a href="http://www.vans.com/shop/mens-clothes-tank-tops">Tanks</a></li>
-																																													<li><a href="http://www.vans.com/shop/mens-clothes-shirts">Shirts</a></li>
-																																													<li><a href="http://www.vans.com/shop/mens-clothes-fleece-hoodies-sweatshirts">Sweatshirts &amp; Hoodies</a></li>
-																																													<li><a href="http://www.vans.com/shop/mens-clothes-shorts">Shorts</a></li>
-																																													<li><a href="http://www.vans.com/shop/mens-clothes-boardshorts">Boardshorts</a></li>
-																																													<li><a href="http://www.vans.com/shop/mens-clothes-pants">Pants &amp; Joggers</a></li>
-																																													<li><a href="http://www.vans.com/shop/mens-clothes-denim-jeans">Jeans</a></li>
-																																													<li><a href="http://www.vans.com/shop/mens-clothes-jackets">Jackets</a></li>
-																											    						    							<li><a href="http://www.vans.com/shop/mens-clothes" class="all">Shop All Clothing</a></li>
-    																	</ul>
-				</li>
-			        										<li class="has-dropdown has-dropdown-js sub-category">
-                    
-											<a href="http://www.vans.com/shop/mens-accessories" class="sub-category-header">Accessories</a>
-						
-					<ul class="content dropdown">
-																																				<li><a href="http://www.vans.com/shop/mens-accessories-new-arrivals">SHOP NEW ARRIVALS</a></li>
-																																													<li><a href="/shop-the-look-mens-sp16.html">SHOP THE LOOK</a></li>
-																																													<li><a href="http://www.vans.com/shop/mens-accessories-hats-snapbacks">Hats &amp; Snapbacks</a></li>
-																																													<li><a href="http://www.vans.com/shop/mens-accessories-beanies">Beanies</a></li>
-																																													<li><a href="http://www.vans.com/shop/mens-accessories-socks">Socks</a></li>
-																																													<li><a href="http://www.vans.com/shop/mens-accessories-backpacks-bags">Backpacks &amp; Bags</a></li>
-																																													<li><a href="http://www.vans.com/shop/mens-accessories-sunglasses">Sunglasses</a></li>
-																																													<li><a href="http://www.vans.com/shop/mens-accessories-wallets">Wallets</a></li>
-																																													<li><a href="http://www.vans.com/shop/mens-accessories-belts">Belts</a></li>
-																																													<li><a href="http://www.vans.com/shop/mens-accessories-laces">Laces</a></li>
-																																													<li><a href="http://www.vans.com/shop/mens-accessories-tech">Tech</a></li>
-																											    						    							<li><a href="http://www.vans.com/shop/mens-accessories" class="all">Shop All Accessories</a></li>
-    																	</ul>
-				</li>
-			        		
-				
-        	    		        	        					        					        					        							    </ul>
-<!-- -->
-					</li>
-				
-					<li class="topnav-main-item has-dropdown has-dropdown-js">
-						
-								<a href="/womens.html">Womens</a>
-								<span class="dropdown-arrow"></span>
-								
-								<!-- -->			
-
-
-
-
-	<ul class="dropdown">
-				
-        
-    	    	    	    						
-    			    				<li class="topnav-main-item-featured has-dropdown has-dropdown-js featured-items-list">
-						    						<ul>
-    							<li class="shop-all-nav"><a href="/womens.html">Shop All Womens</a></li>
-    						</ul>
-						    			    			
-    			<div class="topnav-main-item-featured-item featured-items">
-    				<div class="topnav-main-item-featured-item-header sub-category-header">Featured</div>
-    				<ul class="topnav-main-item-featured-items-list">
-    					    																			
-								                                    <li><a class="button-link" href="http://www.vans.com/shop/womens-new-and-popular-arrivals"><span class="catLabel">New Arrivals</span></a></li>
-															     					    																			
-								                                    <li><a class="button-link" href="/shop-by-style-womens.html"><span class="catLabel">Shop by Style</span></a></li>
-															     					    																			
-								                                    <li><a class="button-link" href="/customs.html"><span class="catLabel">Customs</span></a></li>
-															     					    																			
-								                                    <li><a class="button-link" href="/shop-the-look-womens-sp16.html"><span class="catLabel">Looks We Love</span></a></li>
-															     					    				</ul>
-    			</div>
-    			    				</li>
-    			    				    				    				    				        
-												        										<li class="has-dropdown has-dropdown-js sub-category">
-                    
-											<a href="http://www.vans.com/shop/womens-shoes" class="sub-category-header">Shoes</a>
-						
-					<ul class="content dropdown">
-																																				<li><a href="http://www.vans.com/shop/womens-shoes-new-arrivals">SHOP NEW ARRIVALS</a></li>
-																																													<li><a href="/shop-by-style-womens.html">SHOP BY STYLE</a></li>
-																																													<li><a href="http://www.vans.com/shop/womens-shoes-classics">Classics</a></li>
-																																													<li><a href="http://www.vans.com/shop/womens-shoes-surf">Surf</a></li>
-																																													<li><a href="http://www.vans.com/shop/womens-shoes-sandals">Sandals</a></li>
-																											    						    							<li><a href="http://www.vans.com/shop/womens-shoes" class="all">Shop All Shoes</a></li>
-    																	</ul>
-				</li>
-			        										<li class="has-dropdown has-dropdown-js sub-category">
-                    
-											<a href="http://www.vans.com/shop/womens-clothes" class="sub-category-header">Clothing</a>
-						
-					<ul class="content dropdown">
-																																				<li><a href="http://www.vans.com/shop/womens-clothes-new-arrivals">SHOP NEW ARRIVALS</a></li>
-																																													<li><a href="/shop-the-look-womens-sp16.html">LOOKS WE LOVE</a></li>
-																																													<li><a href="http://www.vans.com/shop/womens-clothes-tees">T-Shirts &amp; Tanks</a></li>
-																																													<li><a href="http://www.vans.com/shop/womens-clothes-dresses">Dresses &amp; Skirts</a></li>
-																																													<li><a href="http://www.vans.com/shop/womens-clothes-fleece-hoodies-sweatshirts">Sweatshirts &amp; Hoodies</a></li>
-																																													<li><a href="http://www.vans.com/shop/womens-clothes-tops">Shirts &amp; Tops</a></li>
-																																													<li><a href="http://www.vans.com/shop/womens-clothes-shorts">Shorts</a></li>
-																																													<li><a href="http://www.vans.com/shop/womens-clothes-pants">Pants &amp; Leggings</a></li>
-																																													<li><a href="http://www.vans.com/shop/womens-clothes-sweaters">Sweaters</a></li>
-																																													<li><a href="http://www.vans.com/shop/womens-clothes-jackets">Jackets</a></li>
-																																													<li><a href="http://www.vans.com/shop/womens-clothes-denim-jeans">Jeans</a></li>
-																											    						    							<li><a href="http://www.vans.com/shop/womens-clothes" class="all">Shop All Clothing</a></li>
-    																	</ul>
-				</li>
-			        										<li class="has-dropdown has-dropdown-js sub-category">
-                    
-											<a href="http://www.vans.com/shop/womens-accessories" class="sub-category-header">Accessories</a>
-						
-					<ul class="content dropdown">
-																																				<li><a href="http://www.vans.com/shop/womens-accessories-new-arrivals">SHOP NEW ARRIVALS</a></li>
-																																													<li><a href="/shop-the-look-womens-sp16.html">LOOKS WE LOVE</a></li>
-																																													<li><a href="http://www.vans.com/shop/womens-accessories-hats">Hats &amp; Beanies</a></li>
-																																													<li><a href="http://www.vans.com/shop/womens-accessories-backpacks-bags">Backpacks &amp; Bags</a></li>
-																																													<li><a href="http://www.vans.com/shop/womens-accessories-socks">Socks</a></li>
-																																													<li><a href="http://www.vans.com/shop/womens-accessories-sunglasses">Sunglasses</a></li>
-																																													<li><a href="http://www.vans.com/shop/womens-accessories-wallets">Wallets</a></li>
-																																													<li><a href="http://www.vans.com/shop/womens-accessories-keychains">Keychains</a></li>
-																											    						    							<li><a href="http://www.vans.com/shop/womens-accessories" class="all">Shop All Accessories</a></li>
-    																	</ul>
-				</li>
-			        		
-				
-        	    		        	        					        					        					        							    </ul>
-<!-- -->
-					</li>
-				
-					<li class="topnav-main-item has-dropdown has-dropdown-js">
-						
-								<a href="/kids.html">Kids</a>
-								<span class="dropdown-arrow"></span>
-								
-								<!-- -->			
-
-
-
-
-	<ul class="dropdown">
-				
-        
-    	    	    	    						
-    			    				<li class="topnav-main-item-featured has-dropdown has-dropdown-js featured-items-list">
-						    						<ul>
-    							<li class="shop-all-nav"><a href="/kids.html">Shop All Kids</a></li>
-    						</ul>
-						    			    			
-    			<div class="topnav-main-item-featured-item featured-items">
-    				<div class="topnav-main-item-featured-item-header sub-category-header">Featured</div>
-    				<ul class="topnav-main-item-featured-items-list">
-    					    																			
-								                                    <li><a class="button-link" href="http://www.vans.com/shop/kids-new-and-popular"><span class="catLabel">New Arrivals</span></a></li>
-															     					    																			
-								                                    <li><a class="button-link" href="/shop-by-style-kids.html"><span class="catLabel">Shop by Style</span></a></li>
-															     					    																			
-								                                    <li><a class="button-link" href="/customs.html"><span class="catLabel">Customs</span></a></li>
-															     					    				</ul>
-    			</div>
-    			    				</li>
-    			    				    				    				    				        
-												        										<li class="has-dropdown has-dropdown-js sub-category">
-                    
-											<a href="http://www.vans.com/shop/kids-shop-all-shoes" class="sub-category-header">Shoes</a>
-						
-					<ul class="content dropdown">
-																																				<li><a href="http://www.vans.com/shop/kids-boys-shoes">Boys (3.5-6)</a></li>
-																																													<li><a href="http://www.vans.com/shop/kids-little-boys-shoes">Little Boys (10.5-3)</a></li>
-																																													<li><a href="http://www.vans.com/shop/kids-girls-shoes">Girls (10.5-4)</a></li>
-																																													<li><a href="http://www.vans.com/shop/kids-toddler-baby-shoes">Toddler (Size 4-10)</a></li>
-																																													<li><a href="http://www.vans.com/shop/infant-baby-shoes">Infant (0-9 Months)</a></li>
-																											    						    							<li><a href="http://www.vans.com/shop/kids-shop-all-shoes" class="all">Shop All Shoes</a></li>
-    																	</ul>
-				</li>
-			        										<li class="has-dropdown has-dropdown-js sub-category">
-                    
-											<a href="http://www.vans.com/shop/kids-boys-clothes" class="sub-category-header">Boy's Clothes</a>
-						
-					<ul class="content dropdown">
-																																				<li><a href="http://www.vans.com/shop/kids-boys-clothes-tees">Tees &amp; Tanks</a></li>
-																																													<li><a href="http://www.vans.com/shop/kids-boys-clothes-tops">Shirts</a></li>
-																																													<li><a href="http://www.vans.com/shop/kids-boys-clothes-hoodies-sweatshirts">Sweatshirts &amp; Hoodies</a></li>
-																																													<li><a href="http://www.vans.com/shop/kids-boys-clothes-shorts">Shorts</a></li>
-																																													<li><a href="http://www.vans.com/shop/kids-boys-clothes-bottoms">Jeans &amp; Pants</a></li>
-																											    						    							<li><a href="http://www.vans.com/shop/kids-boys-clothes" class="all">Shop All Boy's Clothes</a></li>
-    																	</ul>
-				</li>
-			        										<li class="has-dropdown has-dropdown-js sub-category">
-                    
-											<a href="http://www.vans.com/shop/kids-accessories" class="sub-category-header">Accessories</a>
-						
-					<ul class="content dropdown">
-																																				<li><a href="http://www.vans.com/shop/kids-boys-accessories-hats">Hats</a></li>
-																																													<li><a href="http://www.vans.com/shop/kids-accessories-socks">Socks</a></li>
-																											    						    							<li><a href="http://www.vans.com/shop/kids-accessories" class="all">Shop All Accessories</a></li>
-    																	</ul>
-				</li>
-			        		
-				
-        	    		        	        					        					        					        							    </ul>
-<!-- -->
-					</li>
-				
-					<li class="topnav-main-item more-link-js">
-						
-								<a href="/customs.html">Customs</a>
-							
-					</li>
-				
-					<li class="topnav-main-item more-link-js">
-						
-								<a href="/skate.html">Skate</a>
-							
-					</li>
-				
-					<li class="topnav-main-item more-link-js">
-						
-								<a href="/surf.html">Surf</a>
-							
-					</li>
-				
-					<li class="topnav-main-item more-link-js">
-						
-								<a href="/snow.html">Snow</a>
-							
-					</li>
-				
-					<li class="topnav-main-item  has-dropdown-custom has-dropdown-custom-js has-dropdown has-dropdown-js">
-						
-								<a href="#">More</a>
-								<span class="dropdown-arrow"></span>
-								
-								<!-- --><ul class="topnav-main-item-list dropdown-list dropdown dropdown-list-js">
-				<li class="topnav-main-item-list-item mega sub-category has-dropdown has-dropdown-js">
-			<a href="#" class="topnav-main-item-list-item-header sub-category-header">On Vans.com</a>
+		<form class="menu-content search-form-js wcs-form" action="/webapp/wcs/stores/servlet/VFSearchDisplay" method="get">
+			<input type="hidden" name="storeId" value="10153">
+			<input type="hidden" name="catalogId" value="10703">
+			<input type="hidden" name="langId" id="siteLangId" value="-1">
+			<input type="hidden" name="beginIndex" value="0">
+			<input type="hidden" name="searchSource" value="Q">
+			<input type="hidden" name="sType" value="SimpleSearch">
 
 			
-						
-			<ul class="topnav-main-item-list-item-header-content content more-links-container-js dropdown">
-															<li class="more-link-js"><a href="/shop/shoes-classics-original-classics">Classics</a></li>
-																				<li class="more-link-js"><a href="/surf.html">Surf</a></li>
-																				<li class="more-link-js"><a href="/snow.html">Snow</a></li>
-																				<li class="more-link-js"><a href="/bmx.html">BMX</a></li>
-																				<li class="more-link-js"><a href="/skateparks-orange.html">Orange Skatepark</a></li>
-																				<li class="more-link-js"><a href="/skateparks-hb.html">HB Skatepark</a></li>
-																				<li class="more-link-js"><a href="/events.html">Events</a></li>
-																				<li class="more-link-js"><a href="/customs.html">Customs</a></li>
-																				<li class="more-link-js"><a href="/vault.html">Vault®</a></li>
-																				<li class="more-link-js"><a href="/syndicate.html">Syndicate®</a></li>
-												</ul>
-		</li>
-					<li class="topnav-main-item-list-item mega sub-category has-dropdown has-dropdown-js">
-			<a href="#" class="topnav-main-item-list-item-header sub-category-header">Elsewhere</a>
 
-			
-			
-			<ul class="topnav-main-item-list-item-header-content content  dropdown">
-															<li class=""><a href="https://www.youtube.com/user/VansShoes66" target="_blank">Video</a></li>
-																				<li class=""><a href="http://vansmusic.tumblr.com/" target="_blank">Music</a></li>
-																				<li class=""><a href="http://vansart.tumblr.com/" target="_blank">Art</a></li>
-												</ul>
-		</li>
-			</ul><!-- -->
-					</li>
-				
-					                    </ul>
+			<div class="search-container">
+				<div class="topbar-search-form topbar-search-form-js hide">
+					<span class="dropdown-arrow"></span>
+					<div class="search-input-container">
+						<input class="formPlaceHolder header-search-term-input-js search-input-js" required="" data-filter-chars="[\<\>\?\:\_\+\{\}\=\;\,\'\[\]\.\/\|\*\\&quot;\!\#\$\%\&amp;\(\)\@\^\~\`]" type="text" id="search" name="searchTerm" placeholder="Search Vans" autocomplete="off">
+					</div>
+					<div class="search-button-container">
+						<input class="search-button search-button-mobile-js" type="submit" value="Search">
+					</div>
 				</div>
-				
-        	</section>
-         </nav>
-    	 
-    	 <!-- START: SEARCH -->
-    	<div class="search-form-container">
-    				
-							<!-- generated: Thu Apr 21 03:21:54 EDT 2016 -->
-
-
-
-<form class="menu-content search-form-js wcs-form" action="/webapp/wcs/stores/servlet/SearchDisplay" method="get" novalidate="novalidate">
-	<input type="hidden" name="storeId" value="10153">
-	<input type="hidden" name="catalogId" value="10703">
-	<input type="hidden" name="langId" id="siteLangId" value="-1">
-	<input type="hidden" name="beginIndex" value="0">
-	<input type="hidden" name="searchSource" value="Q">
-	<input type="hidden" name="sType" value="SimpleSearch">
-	
-	
-	
-	<div class="search-container">
-		<div class="topbar-search-form topbar-search-form-js">
-			<span class="dropdown-arrow"></span>
-			<div class="search-input-container">
-				<input class="formPlaceHolder header-search-term-input-js search-input-js" data-filter-chars="[\<\>\?\:\_\+\{\}\=\;\,\'\[\]\.\/\|\*\\&quot;\!\#\$\%\&amp;\(\)\@\^\~\`]" type="text" id="search" name="searchTerm" placeholder="Search Vans" autocomplete="off">
+				<a href="#" class="postfix search-button" title="Search"><span class="icon-search"></span><span class="hide">Search</span></a>
 			</div>
-			<div class="search-button-container">
-				<input class="search-button search-button-mobile-js" type="submit" value="Search">
-			</div>
-		</div>
-		<a href="#" class="icon-search postfix search-button"></a>
+			<div class="ui-autocomplete-container ui-suggestion-list"></div>
+		</form>
+						    	</div>
+	    	<!-- END: SEARCH -->
+	    </div>
 	</div>
-	<div class="ui-autocomplete-container ui-suggestion-list"></div>
-</form>
-					    	</div>
-    	<!-- END: SEARCH -->
-    </div>
 </div>
 
 <article class="page-util">
 	<div class="page-util-container">
-				<div id="espot-header" class="espot-header-js">
+						<div id="espot-header" class="espot-header-js">
 					
-							<!-- generated: Thu Apr 21 03:21:54 EDT 2016 -->
+							<!-- generated: Fri Nov 18 03:21:02 EST 2016 -->
 
 
 
@@ -968,7 +1180,7 @@ var monetateT = new Date().getTime();
 						
 			
 <div class="promo-content">
-     Free Shipping Available on $49+ Orders!
+     Free Shipping On All Orders!
 <span class="offer">
      <a href="/help-promo-rules.html">See Details</a></span>
 </div>
@@ -981,7 +1193,7 @@ var monetateT = new Date().getTime();
 </div>
 
 							</div>
-		
+				
 			</div>
 </article>
 		<!-- -->
@@ -1064,14 +1276,22 @@ Vans
 </div>
 </div>
 </section>
-<div class="footer"><!--START: VANS FOOTER-->
-<footer role="siteinfo" class="extended">
-<div class="footer-content">
-<div class="footer-category accordion">
-<div class="footer-category-title">Shop</div>
-<div>
+<!-- ESI/SSI Start Footer-->
+<!-- IncludeURL: /utility/footer.footer.html -->
+<!-- ESI include -->
+
+<div class="footer splitcolumnfooter">
+<!--START: VF FOOTER-->
+<footer class="extended">
+<div class="footer-content-wrap">
+<div class="footer-content row">
+<div class="small-12 medium-2 large-2 medium-offset-1 large-offset-1 columns">
+<div class="footer_col1 footer_col">
+<div class="">
+<div class="heading">Shop</div>
+<div class="column-content">
+<div class="subheading">By Category</div>
 <ul>
-<li>By Category</li>
 <li><a href="/shop.html">Shop Home</a></li>
 <li><a href="/mens.html">Mens</a></li>
 <li><a href="/womens.html">Womens</a></li>
@@ -1079,102 +1299,104 @@ Vans
 <li><a href="/classics.html">Classics</a></li>
 </ul>
 </div>
-<div>
+</div>
+</div>
+</div>
+<div class="small-12 medium-2 large-2 columns">
+<div class="footer_col2 footer_col">
+<div class="">
+<div class="heading">Sports</div>
+<div class="column-content">
 <ul>
-<li>By Sport</li>
 <li><a href="/skate.html">Skate</a></li>
 <li><a href="/surf.html">Surf</a></li>
 <li><a href="/snow.html">Snow</a></li>
 <li><a href="/bmx.html">BMX</a></li>
 </ul>
+​</div>
 </div>
 </div>
-<div class="footer-category accordion">
-<div class="footer-category-title">Support</div>
-<div>
+</div>
+<div class="small-12 medium-2 large-2 columns">
+<div class="footer_col3 footer_col">
+<div class="">
+<div class="heading">Support</div>
+<div class="column-content">
 <ul>
-<li>Shopping</li>
 <li><a href="/utility/store-locator.html">Store Locator</a></li>
 <li><a href="http://www.vans.com/webapp/wcs/stores/servlet/LogonForm?pageName=orderlookup&amp;langId=-1&amp;storeId=10153">Order Status</a></li>
 </ul>
+​</div>
 </div>
-<div>
+</div>
+</div>
+<div class="small-12 medium-2 large-2 columns">
+<div class="footer_col4 footer_col">
+<div class="">
+<div class="heading">Company</div>
+<div class="column-content">
 <ul>
-<li>Company</li>
 <li><a href="/help.html">Customer Service</a></li>
 <li><a href="/terms-conditions.html">Terms of Use</a></li>
 <li><a href="/privacy.html">Privacy</a></li>
 <li><a href="http://sites.vans.com/careers?ref=footer">Careers</a></li>
 <li><a href="/history.html">About</a></li>
-<li><a href="/sustainability.html">Sustainability</a></li>
-<li><a href="http://sites.vans.com/recall">Recall Info</a></li>
+<li><a href="http://www.vfc.com/california-transparency-in-supply-chains-act" target="_blank">CA Supply Chains Act</a></li>
+<li><a href="/sustainability.html" target="_blank">Sustainability</a></li>
 <li><a href="/affiliates.html">Affiliates</a></li>
+<li><a href="http://sites.vans.com/recall" target="_blank">Recall Info</a></li>
 </ul>
+​</div>
 </div>
 </div>
-<div class="footer-category accordion">
-<div class="footer-category-title">Contact</div>
+</div>
+<div class="small-12 medium-2 large-2 columns end">
+<div class="footer_col5 footer_col">
+<div class="">
+<div class="heading">Contact</div>
+<div class="column-content">
+<ul>
+</ul>
 <div>
 <ul>
-<li>Email</li>
+<li class="subheading">Email</li>
 <li><a href="/utility/contact-us.html">Contact Us</a><br></li>
 </ul>
 <ul>
-<li>Telephone</li>
+<li class="subheading">Telephone</li>
 <li><a href="tel:855-909-8267">855-909-8267</a></li>
 </ul>
 <ul>
-<li>Hours</li>
-<li>8:00am - 5:00pm PST</li>
-</ul>
-</div>
-<div>
-<ul>
-<li>Address</li>
-<li>6550 Katella Ave<br>
-Cypress, CA USA
+<li class="subheading">Address</li>
+<li>6550 Katella Ave
+<br>
+Cypress, CA 90630
 </li>
 </ul>
-<ul><span style="font-size:.8em;">
-<!-- BoldChat Live Chat Button HTML v4.00 (Type=HTML,ChatWindow=Vans Custom Chat Window,Department=- None ,Website= None -) -->
-<a href="https://livechat.boldchat.com/aid/686119952429817378/bc.chat?resize=true&amp;cwdid=1914920970312173396&amp;vr=&amp;vn=&amp;vi=&amp;ve=&amp;vp=&amp;iq=&amp;curl=" target="_blank" onclick="window.open((window.pageViewer &amp;&amp; pageViewer.link || function(link)
-{return link;}
-)(this.href + (this.href.indexOf('?')>=0 ? '&amp;' : '?') + 'url=' + escape(document.location.href)), 'Chat1375493496831760758', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');return false;">
-<script language="JavaScript" type="text/javascript"> document.write(unescape('%3Cscript language="JavaScript" type="text/javascript" src="' + (('https:' == document.location.protocol) ? 'https:' : 'http:') + '//cbi.boldchat.com/aid/686119952429817378/bc.cbhs"%3E%3C/script%3E')); </script><script language="JavaScript" type="text/javascript" src="https://cbi.boldchat.com/aid/686119952429817378/bc.cbhs"></script>
-<script language="JavaScript" type="text/javascript"> bt_showChatHTML('Live Chat',''); </script>
-<noscript>Live Chat</noscript>
-</a>
-</span></ul>
+<ul>
+<li class="subheading">Hours</li>
+<li>8:00am - 5:00pm PST</li>
+</ul>
+</div></div>
 </div>
 </div>
-<div class="footer-extended">
-<div class="footer-signup">
-<form class="signup" type="GET" action="//www.vans.com/webapp/wcs/stores/servlet/VFCAjaxEmailSubscriptionAdd" data-signupform-options="{&quot;successMessage&quot;:&quot;Thank you for signing up.&quot;,&quot;errorMessage&quot;:&quot;There was a problem. Please try again later.&quot;}" data-abide="true">
-<div class="heading">Subscribe</div>
-<p class="show-for-large-up">Receive product news and updates in your inbox.</p>
-<div class="row collapse">
-<div class="small-10 columns input-wrapper">
-<input class="email" type="email" name="email" required="" placeholder="Email Address"> <small class="error">A
-valid email address is required.</small>
-</div>
-<div class="small-2 columns email-wrapper">
-<button class="icon-arrow-right-indicator-open postfix" type="submit"></button>
 </div>
 </div>
-<input type="hidden" name="storeId" value="10153">
-<input type="hidden" name="type" value="Account">
-<input type="hidden" name="action" value="Email_SignUp">
-<input type="hidden" name="field1Name" value="email">
-<input type="hidden" name="field2Name" value="location">
-<input type="hidden" name="location" value="Footer">
-<div class="row signup-message hide"></div>
-</form>
+<!-- /footer-content -->
+<div class="footer-extra">
+<div class="row">
+<div class="large-3 large-offset-1 medium-4 medium-offset-0 columns text-left footer-locator">
+<div class="heading">Store Locator</div>
+<p class="show-for-large-up">Find a Vans store near you</p>
+<a href="http://www.vans.com/utility/store-locator.html" class="button primary expand">Find A Store</a>
+<div class="customHtmlBlock1">
+​</div>
 </div>
-<div class="footer-social">
+<div class="large-4 medium-4 columns text-left footer-social">
 <div class="heading">Follow Vans</div>
 <div itemscope="" itemtype="http://schema.org/Organization">
-<meta itemprop="name" value="vans">
-<meta itemprop="url" value="http://www.vans.com">
+<meta itemprop="name" content="vans">
+<meta itemprop="url" content="http://www.vans.com">
 <a href="https://www.facebook.com/VANS?ref=vanscom" class="social-icon icon-facebook" target="_blank" itemprop="sameAs" title="facebook"></a>
 <a href="https://twitter.com/VANS_66" class="social-icon icon-twitter" target="_blank" itemprop="sameAs" title="twitter"></a>
 <a href="https://www.youtube.com/user/VansShoes66" class="social-icon icon-youtube" target="_blank" itemprop="sameAs" title="youtube"></a>
@@ -1186,10 +1408,38 @@ valid email address is required.</small>
 <a href="http://wanelo.com/store/vans" class="social-icon icon-wanelo" target="_blank" itemprop="sameAs" title="wanelo"></a>
 </div>
 </div>
+<div class="large-3 medium-4 columns text-left footer-signup end">
+<form class="signup custom" method="GET" action="//www.vans.com/webapp/wcs/stores/servlet/VFCAjaxEmailSubscriptionAdd" data-signupform-options="{&quot;successMessage&quot;:&quot;Thank you for signing up!&quot;,&quot;errorMessage&quot;:&quot;There was a problem. Please try again later.&quot;}" data-abide="true">
+<div class="heading">Subscribe</div>
+<p class="show-for-large-up">Receive product news and updates in your inbox.</p>
+<div class="row collapse">
+<div class="small-10 columns input-wrapper">
+<input class="email" type="email" name="email" required="" placeholder="Email Address"> <small class="error">A valid email address is required</small>
+</div>
+<div class="small-2 columns email-wrapper">
+<button class="icon-arrow-right-indicator-open postfix" type="submit"></button>
 </div>
 </div>
+<input type="hidden" name="storeId" value="10153">
+<input type="hidden" name="type" value="Account">
+<input type="hidden" name="action" value="Email_SignUp">
+<input type="hidden" name="field1Name" value="email">
+<input type="hidden" name="field2Name" value="location">
+<input type="hidden" name="location" value="Footer">
+<div class="row collapse signup-message hide"></div>
+</form>
+</div>
+</div>
+</div>
+<a class="anchor-top hide-for-medium-up" onclick="window.scrollTo(0,0);" href="#">Back to Top</a>
 <div class="footer-util">
-<div id="local">
+<div class="row">
+<div class="small-12 medium-6 large-5 end large-push-6 medium-push-6 columns util-right">
+<div class="row">
+<div class="customHtmlBlock3">
+​</div>
+</div>
+<div class="row">
 <div class="footer-localize">
 <!-- Page Language: en_US -->
 <a data-dropdown="dropLocalize" class="selected-region">
@@ -1331,13 +1581,25 @@ Hong Kong<img data-src="/etc/designs/vfcorp/vans/clientlibs/global/images/flags/
 </ul>
 </div>
 </div>
-<div id="copyright">
-<a href="/"><div class="brand-footer-logo" title="vans off the wall"></div></a>
-<p>© Vans, A VF Company <br> <a href="http://vfc.com/corporate-responsibility/social/global-compliance" target="_blank">California Transparency in Supply Chain Act of 2010</a><a></a></p></div>
+</div>
+<div class="small-12 medium-6 large-5 large-pull-6 medium-pull-6 columns util-left">
+<div class="brand-logo">
+<a href="/" title="Vans Off The Wall"> <span class="icon-store-logo"></span>
+</a>
+</div>
+<div class="customHtmlBlock2">
+<div class="inner"><br><br>
+<p style="margin-left:5px;">© Vans, A VF Company </p></div>
+</div>
+</div>
+</div>
+</div>
 </div>
 </footer>
-<!--END: VANS FOOTER-->
+<!-- END VF FOOTER -->
 </div>
+
+<!-- ESI/SSI End Footer-->
 </div>
 
 
