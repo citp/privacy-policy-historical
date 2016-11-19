@@ -1,32 +1,37 @@
-> *The following text is extracted and transformed from the draftmobile.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505155002id_/http%3A//www.androidapks.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the draftmobile.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119124845id_/http%3A//draftmobile.com/privacy/16993/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy for www.AndroidApks.Net**
+Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **TricksFree.in@gmail.com**.
+This User Agreement and Privacy Policy governs each website, mobile site, application, and/or other service, regardless of how distributed, transmitted, published, or broadcast (each, a “Service”) provided by Draftmobile and its subsidiaries and/or affiliates (“we,” “us,” or “our”) that links to this User Agreement and Privacy Policy, which is binding on all those who access, visit and/or use the service, whether acting as an individual or on behalf of an entity, including you and all persons, entities, or digital engines of any kind that harvest, crawl, index, scrape, spider, or mine digital content by an automated or manual process or otherwise (collectively, “you” or “your”).
 
-At www.AndroidApks.Net , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by **www.AndroidApks.Net** and how it is used.
+At Draftmobile, we very much appreciate your readership and understand the importance of your personal privacy. This policy is available to help you understand the handling of information while you’re on the site.
 
-**Log Files**  
-Like many other Web sites, www.AndroidApks.Net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Use of Personal Information
 
-**Cookies and Web Beacons**
+Registration is not required in order to use this site. However, this site may provide comments, polls, submission forms, etc. to its users. You may be required to register for these features. If you do register, and in the process provide us with personally identifiable information, no information will be shared with any third-party organization except with your express consent. If you post comments or articles on the site, any personally identifiable information you provide in those comments or articles will be public. As such, we are not responsible for personally identifiable information that you may choose to share through these channels.
 
-www.AndroidApks.Net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+We also provide visitors the opportunity to sign up to receive communications from us. In this case, we ask the visitor for personally identifiable information. Depending on what the visitor opts-in for, these communications will include some or all of the following: weekly newsletters, company updates, and/or other relevant promotions. You may opt out of receiving any, or all, of these communications by clicking on the “unsubscribe” link in any email we send, or by replying to any email stating you’d like to removed from our list.
 
-**DoubleClick DART Cookie**  
-.:: Google, as a third party vendor, uses cookies to serve ads on www.AndroidApks.Net.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.AndroidApks.Net and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – www.google.com/ads/
+If you provide us with personally identifiable information for the purposes of receiving these communications, this information will not be shared with any third-party organization except with your express consent. If your personally identifiable information changes, or if you no longer wish us to possess your information, you can request correction, updating, or deletion of your information by emailing us at privacy@Draftmobile.com.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google Adsense
+Outside Links
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.AndroidApks.Net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+This website may contain links to other websites that are not controlled by us. We are not responsible for the privacy practices and policies of any website other than our own.
 
-www.AndroidApks.Net has no access to or control over these cookies that are used by third-party advertisers.
+Cookies & Behavioral Advertising
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.AndroidApks.Net’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+We use third-party advertising companies to serve ads and collect information when you visit our website. These companies will NOT have access to or use any personally identifiable information (including your name, address, email address or telephone number) but will use other non-personal information about your visits to this and other websites in order to provide advertisements on this website, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+Security
+
+We follow accepted industry standards to protect personal information you have provided. However, no method of electronic storage can ever be 100% secure. Therefore we are not in a position to guarantee the absolute security of your information.
+
+Legal Disclaimer
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served on our website.
+
+Contact Details
+
+If you have any questions regarding this policy, please email privacy@Draftmobile.com.
