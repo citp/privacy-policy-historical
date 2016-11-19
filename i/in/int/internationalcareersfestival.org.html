@@ -1,0 +1,498 @@
+<!--The following is the downloaded HTML source of the internationalcareersfestival.org privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119100603id_/http%3A//www.internationalcareersfestival.org/static/23/privacy/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>International Careers Festival | Official</title>
+
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Quicksand:400,300,700" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,700" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Oswald:400,300,700" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Kreon:400,300,700" rel="stylesheet" type="text/css">
+
+<link rel="stylesheet" type="text/css" href="http://www.internationalcareersfestival.org/css/bootstrap.css">
+<link rel="stylesheet" type="text/css" href="http://www.internationalcareersfestival.org/css/bootstrap-theme.min.css">
+<link rel="stylesheet" type="text/css" href="http://www.internationalcareersfestival.org/css/mainStyle.css">
+
+
+<link rel="stylesheet" type="text/css" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+
+<link rel="stylesheet" href="http://www.internationalcareersfestival.org/css/hero/style.css"> <!-- Resource style -->
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://www.internationalcareersfestival.org/js/hero/modernizr.js"></script> <!-- Modernizr -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="http://www.internationalcareersfestival.org/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="http://www.internationalcareersfestival.org/js/hero/main.js"></script> <!-- Resource jQuery -->
+
+<script src="http://malsup.github.com/jquery.cycle2.js"></script>
+
+
+<!-- Owl Carousel Assets -->
+<link href="http://www.internationalcareersfestival.org/owl/owl-carousel/owl.carousel.css" rel="stylesheet">
+<link href="http://www.internationalcareersfestival.org/owl/owl-carousel/owl.theme.css" rel="stylesheet">
+
+<script src="http://www.internationalcareersfestival.org/owl/owl-carousel/owl.carousel.js"></script>
+
+<script src="http://www.internationalcareersfestival.org/js/cookies.js" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+	$("#owl-demo").owlCarousel({
+		autoPlay: 3000,
+		items : 5,
+		itemsDesktop : [1199,3],
+		itemsDesktopSmall : [979,3],
+		pagination : false
+	});
+	if (readCookie('cookie')) {
+		
+		$("#infocookie").css("display","none");
+	
+	} else {
+		
+		$("#okcookie").click(function(){
+			createCookie('cookie', 'ok','');
+			$("#infocookie").hide();
+		});
+
+	}
+	$('#messageExpire').dialog({
+		autoOpen: false, width: 500, height: 'auto', modal: true,title:'Enrollment communication.',closeOnEscape:false,
+		buttons: {
+			Cancel:function () {
+				$(this).dialog('close');
+			},
+			Ok: function () {
+				$(this).dialog('close');
+				window.location.href = 'registrationw.asp'
+			}
+		}
+	});
+});
+/*function verificaData() {
+	var oggi = new Date();
+	var fineReg = new Date(1900,0,1);
+	var startReg = new Date(1900,0,1);
+	var diffEnd = fineReg.getTime() - oggi.getTime();
+	var diffStart = startReg.getTime() - oggi.getTime();
+
+	//window.alert ('diffEnd ' + diffEnd + ' diffStart ' + diffStart);
+
+	if (diffStart < 0){
+		if (diffEnd < 0){
+			$('#messageExpire #msgEndReg').removeClass('hide');
+			$('#messageExpire').dialog('open');
+		}
+		else{
+			window.location.href = 'registration.asp';
+		}
+	}
+	else{
+		$('#messageExpire #msgBeforeGoReg').removeClass('hide');
+		$('#messageExpire').dialog('open');
+	}
+}
+
+*/
+function verificaData() {
+	var oggi = new Date();
+	var fineReg = new Date(2017,1,15);
+	var startReg = new Date(2016,6,1);
+	var diffEnd = fineReg.getTime() - oggi.getTime();
+	var diffStart = startReg.getTime() - oggi.getTime();
+
+	//window.alert ('diffEnd ' + diffEnd + ' diffStart ' + diffStart);
+
+	if (diffStart < 0){
+		if (diffEnd < 0){
+			$('#messageExpire #msgEndReg').removeClass('hide');
+			$('#messageExpire').dialog('open');
+		}
+		else{
+			window.location.href = 'http://www.internationalcareersfestival.org/registration.asp';
+		}
+	}
+	else{
+		$('#messageExpire #msgBeforeGoReg').removeClass('hide');
+		$('#messageExpire').dialog('open');
+	}
+}
+function changeLang(id){
+	$.ajax ({	
+		type: "GET",
+		url: "http://www.internationalcareersfestival.org/changeLang/idl/"+id,
+		//data: 'idl='+id,
+		cache: false,
+		success: function(html)	{
+			location.reload();
+		} 
+	});
+	
+}
+</script>
+
+</head>
+
+<body>
+
+<div class="container">
+    
+    <div id="messageExpire">
+        <div id="msgEndReg" class="hide">
+            It's not possible to enroll in this year's projects anymore. You can still create an account and you will be informed when you'll be able to enroll in next year's projects.
+        </div>
+        <div id="msgBeforeGoReg" class="hide">
+            It is not yet possible to submit enrollment for this year's project. It is however possible to create an account and receive a notification when it'll be possible to enroll.
+        </div>
+    </div>
+    <div id="infocookie">
+    	This site uses cookies, including third party cookies, only for some technical features of the services offered.<br>You can find more information about our cookie policy by clicking <a href="http://www.internationalcareersfestival.org/static/23/privacy/privacy-policy" target="_blank" class="giallo">HERE</a>.<br>By clicking "OK" you authorize and agree to the use of cookies.
+        <div id="okcookie">OK</div>
+    </div>
+    <div class="row mlr0 top">
+        <div class="col-xs-3 col-sm-4 col-md-4 col-lg-4 plr0">
+        	
+        	<div class="contButton">
+            	<div class="bottoni">
+                
+                <button type="button" class="btn btn-link btn-xs" onclick="changeLang('1')">ENG</button>
+                
+                <button type="button" class="btn btn-link btn-xs" onclick="changeLang('2')">ITA</button>
+                
+                </div>
+                
+                <div id="advSx" class="advTop cycle-slideshow" data-cycle-slides=">a,>img" data-cycle-speed="100">
+                	
+                    <a href="http://www.giovaninelmondo.org/" target="_blank"><img src="http://www.internationalcareersfestival.org/public/file/LogoGnMtop.jpg"></a>
+                    
+                    <a href="" target="_blank"><img src="http://www.internationalcareersfestival.org/public/file/WFP180x90.jpg"></a>
+                    
+                    <a href="" target="_blank"><img src="http://www.internationalcareersfestival.org/public/file/MAECI180x90.jpg"></a>
+                    
+                    <a href="" target="_blank"><img src="http://www.internationalcareersfestival.org/public/file/RegioneLazio180x90.jpg"></a>
+                    
+                    <a href="" target="_blank"><img src="http://www.internationalcareersfestival.org/public/file/PresidenzaDelConsiglio180x90.jpg"></a>
+                    
+                </div>
+                
+        	</div>
+        </div>
+        <div class="col-xs-6 col-sm-4 col-md-4 col-lg-4">
+        	<a href="http://www.internationalcareersfestival.org/"><img src="http://www.internationalcareersfestival.org/images/logo-top.png" class="img-responsive marginAuto"></a>
+        </div>
+        <div class="col-xs-3 col-sm-4 col-md-4 col-lg-4 plr0">
+        	<div class="contButton pull-right">
+            	<div class="bottoni">
+                <a href="#" class="btn btn-warning btn-xs" role="button" onclick="verificaData();">APPLY</a>
+                <a href="http://www.internationalcareersfestival.org/login.asp" class="btn btn-link btn-xs" role="button">LOGIN</a>
+                </div>
+                
+                <div id="advDx" class="advTop cycle-slideshow" data-cycle-slides=">a,>img" data-cycle-speed="400">
+                	
+                    <a href="http://www.giovaninelmondo.org/" target="_blank"><img src="http://www.internationalcareersfestival.org/public/file/LogoGnMtop.jpg"></a>
+                    
+                    <a href="" target="_blank"><img src="http://www.internationalcareersfestival.org/public/file/UnioneForense180x90.jpg"></a>
+                    
+                    <a href="" target="_blank"><img src="http://www.internationalcareersfestival.org/public/file/ordineGiornalisti180x90.jpg"></a>
+                    
+                    <a href="" target="_blank"><img src="http://www.internationalcareersfestival.org/public/file/MunFinder180x90.jpg"></a>
+                    
+                    <a href="" target="_blank"><img src="http://www.internationalcareersfestival.org/public/file/CarriereInternazionalicom180x90.jpg"></a>
+                    
+                    <a href="" target="_blank"><img src="http://www.internationalcareersfestival.org/public/file/ComitatoGiovaniUNESCO180x90.jpg"></a>
+                    
+                </div>
+                
+        	</div>
+        </div>
+    </div>
+    <nav class="navbar navbar-default mainNav">
+    	<div class="container-fluid center">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+            </div>
+        	
+    		
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                	
+                    <li>
+                    
+                    <a href="http://www.internationalcareersfestival.org/static/1/about-us/giovani-nel-mondo">About us</a>
+					
+                    </li>
+                    
+                    <li>
+                                        
+                    <a href="http://www.internationalcareersfestival.org/static/3/festival/international-careers-festival" class="showbig">Festival</a>
+                    <button class="btn btn-default dropdown-toggle navdrop showsmall" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">FESTIVAL<span class="caret"></span></button>
+                    <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                    	
+                        <li><a href="http://www.internationalcareersfestival.org/static/3/the-event/international-careers-festival">The Event</a></li>
+                        
+                        <li><a href="http://www.internationalcareersfestival.org/static/4/rome-press-game/presentation">Rome Press Game</a></li>
+                        
+                        <li><a href="http://www.internationalcareersfestival.org/static/5/rome-business-game/presentation">Rome Business Game</a></li>
+                        
+                        <li><a href="http://www.internationalcareersfestival.org/static/6/romemun/presentation">RomeMUN</a></li>
+                        
+                        <li><a href="http://www.internationalcareersfestival.org/static/7/international-careers-course/presentation">International Careers Course</a></li>
+                        
+                        <li><a href="http://www.internationalcareersfestival.org/static/8/fair/presentation">Fair</a></li>
+                        
+                    </ul>
+                    
+                    </li>
+                    
+                    <li>
+                    
+                    <a href="http://www.internationalcareersfestival.org/static/17/application/deadlines-and-requirements">Application</a>
+					
+                    </li>
+                    
+                    <li>
+                    
+                    <a href="http://www.internationalcareersfestival.org/static/18/social-events/presentation">Social Events</a>
+					
+                    </li>
+                    
+                    <li>
+                                        
+                    <a href="http://www.internationalcareersfestival.org/dynamic/10/news/carriere-internazionali-in-tour-vi-aspetta-a-bologna!" class="showbig">News</a>
+                    <button class="btn btn-default dropdown-toggle navdrop showsmall" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">NEWS<span class="caret"></span></button>
+                    <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                    	
+                        <li><a href="http://www.internationalcareersfestival.org/dynamic/10/festival/carriere-internazionali-in-tour-vi-aspetta-a-bologna!">Festival</a></li>
+                        
+                        <li><a href="http://www.internationalcareersfestival.org/dynamic/11/romemun/gira-il-mondo-in-qualità-di-best-delegate">RomeMUN</a></li>
+                        
+                        <li><a href="http://www.internationalcareersfestival.org/dynamic/12/rome-business-game/rome-business-game:-siete-pronti-ad-accettare-la-sfida$">Rome Business Game</a></li>
+                        
+                        <li><a href="http://www.internationalcareersfestival.org/dynamic/13/rome-press-game/appassionato-di-giornalismo-e-lingue$-diventa-tutor-per-il-rome-press-game">Rome Press Game</a></li>
+                        
+                        <li><a href="http://www.internationalcareersfestival.org/dynamic/14/international-course/international-careers-course:-learn-from-the-experts-of-the-field-how-to-start-your-career">International Course</a></li>
+                        
+                        <li><a href="http://www.internationalcareersfestival.org/dynamic/15/fair/alternanza-scuola-lavoro-al-festival-delle-carriere-internazionali">Fair</a></li>
+                        
+                        <li><a href="http://www.internationalcareersfestival.org/dynamic/16/social-events/" class="btn disabled">Social Events</a></li>
+                        
+                    </ul>
+                    
+                    </li>
+                    
+                    <li>
+                                        
+                    <a href="http://www.internationalcareersfestival.org/photo/40/media/romemun-2016" class="showbig">Media</a>
+                    <button class="btn btn-default dropdown-toggle navdrop showsmall" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">MEDIA<span class="caret"></span></button>
+                    <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                    	
+                        <li><a href="http://www.internationalcareersfestival.org/photo/40/photogallery/romemun-2016">Photogallery</a></li>
+                        
+                        <li><a href="http://www.internationalcareersfestival.org/video/42/videogallery/" class="btn disabled">Videogallery</a></li>
+                        
+                    </ul>
+                    
+                    </li>
+                    
+                </ul>
+            </div><!-- /.navbar-collapse -->
+    	</div><!-- /.container-fluid -->
+    </nav>
+    
+    
+    <div class="content">
+    
+    
+    <div class="row mlr0">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ptb20 borderBottom">
+			 <div class="contInterno">
+             	
+                <div class="contTitoloInterno"><h1>Privacy</h1></div>
+             </div>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 ptb20 borderBottom">
+        	<div class="contInterno">
+            	<div class="col-sm-8 col-md-8 col-lg-8 corpo">
+                	<div class="titoloNews">Privacy Policy</div><br>
+                	<p>(Art. 13 Legislative Decree n.196/2003)</p>
+<p>This page will describe management of our web site as regards processing the personal data of users that visit us.</p>
+<p>This information is provided – also in pursuance of Section 13 of Legislative Decree no. 196/2003 – &nbsp;to any entity having to do with the web-based services that are made available by the Garante per la protezione dei dati personali (Italian Data Protection Authority) via electronic networks as from the following address: <a href="http://www.giovaninelmondo.org" target="_blank">www.giovaninelmondo.org</a> which corresponds to the home page of our official web site.</p>
+<p>The information provided only applies to our web site and does not concern any web sites that may be visited by an user via external links.</p>
+<p>The website may contain links to other websites which do not belong and which are not under the direct supervision of the owner of this site and, therefore, is not responsible for any possible illicit conduct or conduct not in accordance with current legislation, including in relation to the protection policy, adopted on those sites. Remember, therefore, to pay attention the moment you leave the site and to carefully read the Privacy Policy of the destination website before entering any personal information.</p>
+<p>The Policy may be updated periodically without notice. Any changes in the policy will commence with immediate effect after its publication on the website.</p>
+<p><strong>DATA CONTROLLER</strong></p>
+<p>Visiting this site may result into the processing of data concerning identified or identifiable persons. The data controller is Daniela Conte, with registered office in Rome, Via Policarpo Petrocchi,10.</p>
+<p><strong>PLACE WHERE DATA IS PROCESSED</strong></p>
+<p>The processing operations related to the web-based services that are made available via this website are carried out at the aforementioned office and are handled only by technical staff in charge of said processing. If necessary, the data related to the services of the site may be processed by the staff of the company responsible for the maintenance of the technological part of the site.</p>
+<p><strong>CATEGORIES OF PROCESSED DATA</strong></p>
+<p><strong>Navigation data</strong></p>
+<p>The information systems and software procedures relied upon to operate this web site acquire personal data as part of their standard functioning; the transmission of such data is an inherent feature of Internet communication protocols.</p>
+<p>Such information is not collected in order to relate it to identified data subjects, however it might allow user identification per se after being processed and matched with data held by third parties.</p>
+<p>This data category includes IP addresses and/or the domain names of the computers used by any user connecting with this web site, the URI (Uniform Resource Identifier) addresses of the requested resources, the time of such requests, the method used for submitting a given request to the server, returned file size, a numerical code relating to server response status (successfully performed, error, etc.), and other parameters related to the user’s operating system and computer environment.</p>
+<p>These data are only used to extract anonymous statistical information on website use as well as to check its functioning; they are erased immediately after being processed. The data might be used to establish liability in case computer crimes are committed against the website; except for this circumstance, any data on web contacts is currently retained for no longer than seven days.</p>
+<p><strong>Data provided voluntarily by users</strong></p>
+<p>Sending e-mail messages to the addresses mentioned on this website, which is done on the basis of a freely chosen, explicit, and voluntary option, entails acquisition of the sender’s address, which is necessary in order to reply to any request, as well as of such additional personal data as is contained in the message(s).</p>
+<p>Specific summary information notices will be shown and/or displayed on the pages that are used for providing services on demand. None of the user’s personal data will be gathered or registered by the owner during a basic visit of the website www.giovaninelmondo.org</p>
+<p><strong>Cookies</strong></p>
+<p>No personal data concerning users is acquired by the website in this regard. No cookies are used to transmit personal information, nor are so-called persistent cookies or user tracking systems implemented.</p>
+<p>Use of the so-called session cookies – which are not stored permanently on the user’s computer and disappear upon closing the browser – is exclusively limited to the transmission of session ID’s – consisting of server-generated casual numbers – as necessary to allow secure, effective navigation.</p>
+<p>The so-called session cookies used by this website make it unnecessary to implement other computer techniques that are potentially detrimental to the confidentiality of user navigation, whilst they do not allow acquiring the user’s personal identification data.</p>
+<p>In reference to the possible use of the so-called “cookies” by the site, please see the appropriate Cookie information which can be reached by the relative link on the bottom of each page of this site.</p>
+<p><strong>OBLIGATORY OR OPTIONAL DATA PROVISION</strong></p>
+<p>Subject to the specifications made with regard to navigation data, users are free to provide the personal data either to be entered in the application forms submitted to the Owner or referred to in contacting the Owner to request delivery of information materials and other communications of a promotional nature.</p>
+<p>Failure to provide such data may entail the failure to be provided with the items requested.</p>
+<p><strong>PROCESSING ARRANGEMENTS</strong></p>
+<p>Personal data is processed with automated means for no longer than is necessary to achieve the purposes for which it has been collected.</p>
+<p>Specific security measures are implemented to prevent the data from being lost, used unlawfully and/or inappropriately, and accessed without authorisation.</p>
+<p><strong>PERSONS OR CLASSES OF PERSONS TO WHOM THE DATA MAY BE DISCLOSED</strong></p>
+<p>The user’s data could be communicated to people or operated contractually linked to the owner (such as service centers, Internet and telecommunications operators, employees and contractors) and will be brought to the attention of those responsible (if appointed) and by those entrusted designated by the owner and by the above-mentioned persons.</p>
+<p>Except as specified above, any personal data provided will not be disclosed to third parties and will not be publicized.</p>
+<p><strong>DATA SUBJECT’S RIGHTS – ART. 7 PRIVACY CODE</strong></p>
+<p>In accordance with Art. 7 of legislation n.196/2003, a data subject shall have the right to obtain confirmation as to whether or not personal data concerning him exist, regardless of their being already recorded, and communication of such data in intelligible form.</p>
+<p>Particularly, a data subject shall have the right to be informed:</p>
+<ul>
+<li>of the source of the personal data;</li>
+<li>of the purposes and methods of the processing;</li>
+<li>of the logic applied to the processing, if the latter is carried out with the help of electronic means;</li>
+<li>of the identification data concerning data controller, data processors and the representative designated as per Section 5(2);</li>
+<li>of the entities or categories of entity to whom or which the personal data may be communicated and who or which may get to know said data in their capacity as designated representative(s) in the State’s territory, data processor(s) or person(s) in charge of the processing.</li>
+</ul>
+<p>Also, a data subject shall have the right to obtain:</p>
+<ul>
+<li>updating, rectification or, where interested therein, integration of the data;</li>
+<li>erasure, anonymization or blocking of data that have been processed unlawfully, including data whose retention is unnecessary for the purposes for which they have been collected or subsequently processed;</li>
+<li>certification to the effect that the operations as per letters a) and b) have been notified, as also related to their contents, to the entities to whom or which the data were communicated or disseminated, unless this requirement proves impossible or involves a manifestly disproportionate effort compared with the right that is to be protected.</li>
+</ul>
+<p>Finally, a data subject shall have the right to object, in whole or in part:</p>
+<ul>
+<li>on legitimate grounds, to the processing of personal data concerning him/her, even though they are relevant to the purpose of the collection;</li>
+<li>to the processing of personal data concerning him/her, where it is carried out for the purpose of sending advertising materials or direct selling or else for the performance of market or commercial communication surveys.</li>
+</ul>
+<p>&nbsp;</p>
+<p>For each request under Art. 7 of the Legislative Decree n. 196/2003, it may be asked of the person concerned, where confirmation of the data concerning them does not exist, a charge not exceeding the costs actually incurred, in the manner and within the limits established by Legislative Decree n. 196/2003, article 10, paragraph 7, 8, and 9.</p>
+<p>The rights referring to personal data concerning a deceased person may be exercised by anyone interested. In exercising rights under Art. 7 of the Legislative Decree 196/2003, the interested person may bestow, in writing, those rights or delegate a person or an association.</p>
+<p>Requests pursuant to Art. 7 Legislative Decree No.196 / 2003 may be sent to the following address: <a href="mailto:info@giovaninelmondo.org">info@giovaninelmondo.org</a></p>
+                </div>
+                <div class="col-sm-4 col-md-4 col-lg-4 barraDx mlrAuto">
+                	<div class="navDx">
+                    	<ul class="ulistDx">
+                        	
+                            <li class="borderBottom ptb10 selected">
+                            	<a href="http://www.internationalcareersfestival.org/static/23/privacy/privacy/37" class="linkTop">› Privacy</a>
+                            </li>
+                            
+                            <li class="borderBottom ptb10 ">
+                            	<a href="http://www.internationalcareersfestival.org/static/23/privacy/cookies/38" class="linkTop">› Cookies</a>
+                            </li>
+                            
+                        </ul>
+                    </div>
+                    
+                    
+                    <div id="advBDx" class="center cycle-slideshow" data-cycle-slides=">a,>img">
+                    
+                    <img src="http://www.internationalcareersfestival.org/public/file/300x250GiovaninelmondobannerAlbatravelITA.jpg" class="img-responsive mlrAuto">
+                    
+                    <a href="http://www.visapassport.it/" target="_blank"><img src="http://www.internationalcareersfestival.org/public/file/MBEVisaPassport300x250px.jpg" class="img-responsive mlrAuto"></a>
+                    
+                    </div>
+					
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+   
+    
+    </div>
+    
+    	<div class="row footer mlr0">
+    	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center pb20 borderBottom">
+        	<div class="contLogo pull-left mlrAuto"><img src="http://www.internationalcareersfestival.org/images/logo_footer.png" alt="logo festival"></div>
+            <div class="contMenuFooter">
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">                    
+                
+                    <ul class="nav navbar-nav pull-right">
+                    	
+						<li><a href="http://www.internationalcareersfestival.org/static/1/about-us/giovani-nel-mondo">ABOUT US</a></li>
+                        
+						<li><a href="http://www.internationalcareersfestival.org/static/3/festival/international-careers-festival">FESTIVAL</a></li>
+                        
+						<li><a href="http://www.internationalcareersfestival.org/static/17/application/deadlines-and-requirements">APPLICATION</a></li>
+                        
+						<li><a href="http://www.internationalcareersfestival.org/static/18/social-events/presentation">SOCIAL EVENTS</a></li>
+                        
+						<li><a href="http://www.internationalcareersfestival.org/dynamic/10/news/carriere-internazionali-in-tour-vi-aspetta-a-bologna!">NEWS</a></li>
+                        
+						<li><a href="http://www.internationalcareersfestival.org/photo/40/media/romemun-2016">MEDIA</a></li>
+                        
+                    </ul>
+            	</div>
+            </div>
+        </div>
+    	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
+        	<div class="social mtb20">
+            	<a href="https://www.facebook.com/internationalcareers" target="_blank"><img class="mlr5" src="http://www.internationalcareersfestival.org/images/icone/icon-facebook.png"></a>
+            	<a href="https://twitter.com/Carriere_Int" target="_blank"><img class="mlr5" src="http://www.internationalcareersfestival.org/images/icone/icon-twitter.png"></a>
+            	<a href="https://plus.google.com/u/0/107640726991088775785" target="_blank"><img class="mlr5" src="http://www.internationalcareersfestival.org/images/icone/icon-googleplus.png"></a>
+            	<a href="https://www.youtube.com/user/RomeMUN2013" target="_blank"><img class="mlr5" src="http://www.internationalcareersfestival.org/images/icone/icon-youtube.png"></a>
+            	<a href="https://it.linkedin.com/company/giovani-nel-mondo" target="_blank"><img class="mlr5" src="http://www.internationalcareersfestival.org/images/icone/icon-linkedin.png"></a>
+            </div>
+            <div class="copy">
+            	© Copyrighte Associazione Giovani nel Mondo Tutti i diritti riservati<br>
+                
+                <a href="http://www.internationalcareersfestival.org/static/23/privacy/privacy-policy" class="giallo">Privacy Policy</a>
+                 | 
+                
+                <a href="http://www.internationalcareersfestival.org/static/23/privacy/privacy-policy" class="giallo">Cookies Policy</a>
+                 | 
+                
+                <a href="#" class="giallo">Credits</a>
+        	</div>
+        </div>
+    </div>
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-2532630-47', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+    
+</div><!-- .container -->
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 872878623;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/872878623/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+</body></html>
