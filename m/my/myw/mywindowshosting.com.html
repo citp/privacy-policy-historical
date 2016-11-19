@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mywindowshosting.com privacy policy that was archived on 2016-03-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160313220809id_/http%3A//www.mywindowshosting.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mywindowshosting.com privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119230024id_/http%3A//www.mywindowshosting.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -50,6 +50,7 @@
   
   
 <script>
+var noLCHERE="";
 
 
 $( document ).ready(function() {
@@ -62,6 +63,9 @@ olark('api.chat.onOperatorsAvailable', function() {
     document.getElementById('chat-indicator').className = 'green-icon';
 olark('api.box.show');
 $('#livechattoplink').show();
+console.log("hereerwin2");
+noLCHERE="0";
+
 });
 
 
@@ -70,14 +74,29 @@ olark('api.chat.onOperatorsAway', function() {
 
     // Identify the element, and give it a class name
     //document.getElementById('chat-indicator').className = 'red-icon';
-	     olark('api.box.hide');
+	olark('api.box.hide');
 	$('#livechattoplink').hide();
+	$('#livechattoplinkOFFLine').show();
+	$('#offlineLCButton').show();
+
+	
 
 });
 
 
 
 });
+
+
+
+function offlineLC()
+{
+
+
+location.href="http://www.myWindowsHosting.com/quickcontact";
+}
+
+
 </script>
 
 <script>
@@ -139,6 +158,12 @@ olark.identify('8133-389-10-5171');/*]]>*/</script><noscript><a href="https://ww
 
 
 
+
+<div id="offlineLCButton" style="position:fixed; bottom:0; right:0; z-index: 9999; display:none;">
+    <a href="javascript:void()" onclick="offlineLC();"><img src="/images/chatbottombutton.png" style="margin-right:20px;"></a>
+</div>
+	
+
 <div class="main">
     <!--==============================header=================================-->
     <header>
@@ -147,8 +172,10 @@ olark.identify('8133-389-10-5171');/*]]>*/</script><noscript><a href="https://ww
                 <div class="span12 clearfix">
                     <div class="header-block">
                         <h1 class="brand"><a href="http://www.mywindowshosting.com"><img src="img/logo.jpg" alt=""></a><span style="left:-100px;">.com</span></h1>
-						<div id="livechattoplink"><img src="image/livechaticon.png" alt="" width="120px" style="float:right; margin-right:30px;" id="livechat"></div>
-                        <div class="clearfix">
+						<div id="livechattoplink"><img src="image/livechaticon.png" alt="" width="120px" style="float:right; margin-right:30px;" onclick="$('#livechat').click();"></div>
+                        <div id="livechattoplinkOFFLine" style="display:none;"><img src="image/livechaticon.png" alt="" width="120px" style="float:right; margin-right:30px;" onclick="offlineLC();"></div>
+
+												<div class="clearfix">
                             <ul class="header-links">
 							<li><span>|</span><a href="http://www.mywindowshosting.com/contact">Toll Free: 877-373-6853</a></li>
                             	<li><span>|</span><a href="http://www.mywindowshosting.com/contact">Technical Support</a></li>
@@ -297,7 +324,7 @@ Last Update: July 5, 2012
           
         </div>
         <div class="row">
-          <div class="span12"><em><!-- {%FOOTER_LINK} --> myWindowsHosting.com © 2016 All Rights Reserved</em><span>|</span><a href="http://www.mywindowshosting.com/privacy">Privacy policy</a><span>|</span><a href="http://www.mywindowshosting.com/tos">Terms</a></div>
+          <div class="span12"><em><!-- {%FOOTER_LINK} --> myWindowsHosting.com © 2016 All Rights Reserved</em><span>|</span><a href="http://www.mywindowshosting.com/privacy">Privacy policy</a><span>|</span><a href="http://www.mywindowshosting.com/tos">Terms</a><span>|</span><a href="http://www.mywindowshosting.com/sla">Service Level Agreement(SLA)</a></div>
         </div>  
       </div>
     </footer>
