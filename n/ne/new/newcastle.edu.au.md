@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newcastle.edu.au privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429195652id_/http%3A//www.newcastle.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcastle.edu.au privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119035907id_/http%3A//www.newcastle.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy / The University of Newcastle, Australia
 
@@ -8,9 +8,9 @@ The University of Newcastle is committed to protecting and maintaining the priva
 
  **The purpose of this statement is to advise visitors to the University's website of the information collected when they visit, how this information may be used and whether or not it may be disclosed.**
 
-Further information on privacy at UoN can be found in the [University's Privacy Management Plan](http://www.newcastle.edu.au/policy/000258.html) and on the University's privacy site. The Privacy Management Plan outlines the University's responsibilities under the [NSW Privacy and Personal Protection Act 1998](http://www.legislation.nsw.gov.au/fullhtml/inforce/act+133+1998+FIRST+0+N) and the [Health Records and Information Privacy Act 2002](http://www.austlii.edu.au/au/legis/nsw/consol_act/hraipa2002370).
+Further information on privacy at UoN can be found in the [University's Privacy Management Plan](https://web.archive.org/about-uon/governance-and-leadership/policy-library/document-record?RecordNumber=D12/12482P) and on the University's privacy site. The Privacy Management Plan outlines the University's responsibilities under the [NSW Privacy and Personal Protection Act 1998](http://www.legislation.nsw.gov.au/#/view/act/1998/17) and the [Health Records and Information Privacy Act 2002](http://www.austlii.edu.au/au/legis/nsw/consol_act/hraipa2002370).
 
-If you have any further questions with regard to this notice please contact the University's Privacy Office at privacy@newcastle.edu.au
+If you have any further questions with regard to this notice please contact the University's Privacy Office at [privacy@newcastle.edu.au](mailto:privacy@newcastle.edu.au)
 
 ###  **Visiting the Website**
 
@@ -34,13 +34,13 @@ Any information collected via the University website will be delivered to the ap
 
 If you send the University an email, the email system will record your email address. This information will only be used to respond to an enquiry made and will not be disclosed without your consent. Some email communications may be monitored for statistical and quality purposes.
 
-Emails sent to the University will be held by the relevant area and, in certain cases, in the University's Record Management System, TRIM. Correspondence sent to the University will be treated in line with the NSW Privacy Principles and may be subject to requirements of the [State Records Act](http://www.records.nsw.gov.au/about-us/state-records-act-1998).
+Emails sent to the University will be held by the relevant area and, in certain cases, in the University's Record Management System, TRIM. Correspondence sent to the University will be treated in line with the NSW Privacy Principles and may be subject to requirements of the [State Records Act](http://www.legislation.nsw.gov.au/#/view/act/1998/17).
 
 ####  **Security of Information**
 
-As outlined in the University's [Information Security Policy](http://www.newcastle.edu.au/policy/000813.html), information is protected from loss and unauthorised access or disclosure.
+As outlined in the University's [Privacy Management Plan](https://web.archive.org/about-uon/governance-and-leadership/policy-library/document-record?RecordNumber=D12/12482P) and [Agency Information Guide](https://web.archive.org/about-uon/governance-and-leadership/policy-library/document?RecordNumber=D14/17780), information is protected from loss and unauthorised access or disclosure.
 
-Certain areas or applications of the UoN website require a login name and password to ensure that the information is only displayed to the intended recipient. Users should ensure that their passwords are protected and cannot be accessed by others.  Our systems encrypt this information to ensure protection.
+Certain areas or applications of the UoN website require a login name and password to ensure that the information is only displayed to the intended recipient. Users should ensure that their passwords are protected and cannot be accessed by others.  Our systems encrypt this information to ensure protection.
 
 ####  **Cookies**
 
@@ -52,7 +52,7 @@ Cookies are also used by certain UoN sites to supply University of Newcastle adv
 
 ####  **Use of Personal Information**
 
-Personal information you supply on-line will be used by University staff in conducting the business of the University. The information will only be used for the purpose for which it was collected, in line with the University's [Privacy Management Plan](http://www.newcastle.edu.au/policy/000258.html).
+Personal information you supply on-line will be used by University staff in conducting the business of the University. The information will only be used for the purpose for which it was collected, in line with the University's [Privacy Management Plan](https://web.archive.org/about-uon/governance-and-leadership/policy-library/document-record?RecordNumber=D12/12482P).
 
 ####  **Direct marketing and Research**
 
@@ -80,7 +80,7 @@ The University supplies email facilities to all staff and students through the p
 
 ####  **Public Forums**
 
-The University website hosts some interactive applications. Please be advised that any information disclosed in open online forums or on message boards becomes public information.   
+The University website hosts some interactive applications. Please be advised that any information disclosed in open online forums or on message boards becomes public information.
 
 ####  **Access and Amendment**
 
