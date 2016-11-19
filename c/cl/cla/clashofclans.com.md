@@ -1,32 +1,32 @@
-> *The following text is extracted and transformed from the clashofclans.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619100823id_/http%3A//supercell.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clashofclans.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119041152id_/http%3A//supercell.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy × Supercell
 
 [ ](https://privacy.truste.com/privacy-seal/validation?rid=9a215360-ce41-49a7-a38e-ce78aad5cec0 "TRUSTe Privacy Certification")
 
-Updated on: 27 July, 2015
+Updated on: 30 June 2016
 
 Welcome to Supercell Oy.  Your privacy is important to us.
 
-Supercell Oy and its affiliates ("Supercell", “us”, “our” or "we") are dedicated to protecting the privacy rights of our users ("users" or "you").  This Privacy Policy (the “Policy”) describes the ways we collect, store, use, and manage the information, including personal information, that you provide or we collect in connection with our websites, including [www.supercell.com](http://www.supercell.com/), [www.clashofclans.com](http://www.clashofclans.com/), [www.haydaygame.com](http://www.haydaygame.com/), [www.boombeach.com](http://www.boombeach.com/), [www.clashofclans.co.kr](http://www.clashofclans.co.kr/), [www.supercell.co.jp](http://www.supercell.co.jp/) and and [www.supercell.net](http://www.supercell.net/) (the “Sites”) or any Supercell game provided on a mobile platform (for example, iOS and Android)(collectively, the "Service").  Please note that the scope of this Policy is limited to information collected or received by Supercell through your use of the Service.  Supercell is not responsible for the actions of third party people or companies, the content of their sites, the use of information you provide to them, or any products or services they may offer.  Any link to those sites does not constitute our sponsorship of, or affiliation with, those people or companies.
+Supercell Oy and its affiliates ("Supercell", "us", "our" or "we") are dedicated to protecting the privacy rights of our users ("users" or "you").  This Privacy Policy (the "Policy") describes the ways we collect, store, use, and manage the information, including personal information, that you provide or we collect in connection with our websites, including [www.supercell.com](http://www.supercell.com/), [www.clashofclans.com](http://www.clashofclans.com/), [www.haydaygame.com](http://www.haydaygame.com/), [www.boombeach.com](http://www.boombeach.com/), [www.clashofclans.co.kr](http://www.clashofclans.co.kr/), [www.supercell.co.jp](http://www.supercell.co.jp/) and and [www.supercell.net](http://www.supercell.net/) (the "Sites") or any Supercell game provided on a mobile platform (for example, iOS and Android)(collectively, the "Service").  Please note that the scope of this Policy is limited to information collected or received by Supercell through your use of the Service.  Supercell is not responsible for the actions of third party people or companies, the content of their sites, the use of information you provide to them, or any products or services they may offer.  Any link to those sites does not constitute our sponsorship of, or affiliation with, those people or companies.
 
 By using the Service, you are expressing your agreement to this Policy and the processing of your data, including your personal information, in the manner provided in this Policy.  If you do not agree to these terms, please do not use the Service.
 
-Supercell has received TRUSTe's Privacy and Children’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification only covers information through our sites [www.supercell.com](http://www.supercell.com/), [www.supercell.net](http://www.supercell.net/) and our _Boom Beach_ , _Clash of Clans_ and _Hay Day_ mobile applications.
+Supercell has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification only covers information through our sites www.supercell.com, clashofclans.com, haydaygame.com, boombeach.com, clashofclans.co.kr, supercell.co.jp and www.supercell.net and our _Boom Beach_ , _Clash Royale_ , _Clash of Clans_ and _Hay Day_ mobile applications. Supercell's privacy practices on our sites and through our Mobile applications are in compliance with TRUSTe's Privacy certification standards.
 
 If you have questions or concerns about our privacy policy or practices, please contact us at [legal-requests@supercell.com](mailto:legal-requests@supercell.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at  <https://feedback-form.truste.com/watchdog/request>.
 
 **Information Collection and Use**
 
-Supercell collects information as described below.  Supercell’s primary goals in collecting and using information is to create your account, provide Services to you, improve our Service, contact you, conduct research and create reports for internal use.  We store information on servers located in the United States via Amazon Web Services and may store information on servers and equipment in other countries.
+Supercell collects information as described below.  Supercell's primary goals in collecting and using information is to create your account, provide Services to you, improve our Service, contact you, conduct research and create reports for internal use.  We store information on servers located in the United States via Amazon Web Services and may store information on servers and equipment in other countries.
 
 In order to use your community forum, you must register and provide a username, password and email address.
 
 If you wish to submit a resume, we provide you the option to upload it to the site and we collect your name, email address and mobile telephone number. We use this information to contact you regarding setting up an interview or to determine if you are qualified for the position in which you applied.
 
-**Supercell’s Sites**
+**Supercell's Sites**
 
-While you are browsing Supercell's Sites, your computer’s operating system, Internet Protocol (IP) address, access times, browser type and language and referring Web site addresses may be logged automatically.  We may use this information to monitor, develop and analyze your use of the Service.  In addition, we may ask you to submit and we may process data that is personal to you, including but not limited to your name, profile photo, gender, age or birthday, links to your profiles on social networking websites and other third party sites, user names and e-mail and mail addresses.  We may use this information to create a user profile and provide you services.  We may use your email address to contact you about your experience with Supercell Sites and notify you about company news and promotions.  Your gender and birthday may be used to analyze user trends and target certain promotions.  Your mail address may be used if we have merchandise or other physical promotional materials that we want to send to you.  If you no longer wish to receive these types of promotional materials, you may opt-out from receiving them at any time by emailing us at [legal-requests@supercell.com](mailto:legal-requests@supercell.com).
+While you are browsing Supercell's Sites, your computer's operating system, Internet Protocol (IP) address, access times, browser type and language and referring Web site addresses may be logged automatically.  We may use this information to monitor, develop and analyze your use of the Service.  In addition, we may ask you to submit and we may process data that is personal to you, including but not limited to your name, profile photo, gender, age or birthday, links to your profiles on social networking websites and other third party sites, user names and e-mail and mail addresses.  We may use this information to create a user profile and provide you services.  We may use your email address to contact you about your experience with Supercell Sites and notify you about company news and promotions.  Your gender and birthday may be used to analyze user trends and target certain promotions.  Your mail address may be used if we have merchandise or other physical promotional materials that we want to send to you.  If you no longer wish to receive these types of promotional materials, you may opt-out from receiving them at any time by emailing us at [legal-requests@supercell.com](mailto:legal-requests@supercell.com).
 
 **Forums/Private Messages**
 
@@ -40,17 +40,17 @@ Our Web site includes Social Media Features, such as the Facebook Like button an
 
 **iOS and Android Platforms**
 
-When you use any of the Supercell games or applications on a mobile platform, we may collect and record certain information such as your unique device ID (persistent / non-persistent), hardware type, media access control (“MAC”) address, international mobile equipment identity (“IMEI”), the version of your operating system (“OS”), your device name, your email address (if you have connected to Facebook or Google+), and your location (based on your Internet Protocol (“IP”) address).  This information is useful to us for troubleshooting and helps us understand usage trends.
+When you use any of the Supercell games or applications on a mobile platform, we may collect and record certain information such as your unique device ID (persistent / non-persistent), hardware type, media access control ("MAC") address, international mobile equipment identity ("IMEI"), the version of your operating system ("OS"), your device name, your email address (if you have connected to Facebook or Google+), and your location (based on your Internet Protocol ("IP") address).  This information is useful to us for troubleshooting and helps us understand usage trends.
 
-We may collect your location based information for the purpose of providing you with the correct version of the application.  We will not share this information with any third party.  If you no longer wish to allow us to track or use this information, you may turn it off at the device level.  Please note, the application may not work properly if we are unable to tell where you are coming from (Country specific).
+We may collect your location based information for the purpose of providing you with the correct version of the application and so you may interact with other users of the game.  We will not share this information with any third party without your permission.  If you no longer wish to allow us to track or use this information, you may turn it off at the device level.  Please note, the application may not work properly if we are unable to tell where you are coming from (Country specific). 
 
 In addition, we create a unique user ID to track your use of our Service.  This unique user ID is stored in connection with your profile information to track the Supercell games you are playing.
 
 **Facebook Connect, Game Center and Google+**
 
-You can log in to our site using sign-in services (“SN Service”) such as Facebook Connect, LinkedIn, Apple’s Game Center, or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name, email address, and resume to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+You can log in to our site using sign-in services ("SN Service") such as Facebook Connect, LinkedIn, Apple's Game Center, or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name, email address, and resume to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
-We may collect and record information through the SN Service in accordance with the policies and terms of that SN Service.  The information we collect when you connect your user account to an SN Service may include: (1) your name, (2) your SN Service user identification number and/or user name, (3) locale, city, state and country, (4) sex, (5) birth date, (6) email address, (7) profile picture or its URL, and (8) the SN Service user identification numbers for your friends that are also connected to Supercell’s game(s).
+We may collect and record information through the SN Service in accordance with the policies and terms of that SN Service.  The information we collect when you connect your user account to an SN Service may include: (1) your name, (2) your SN Service user identification number and/or user name, (3) locale, city, state and country, (4) sex, (5) birth date, (6) email address, (7) profile picture or its URL, and (8) the SN Service user identification numbers for your friends that are also connected to Supercell's game(s).
 
 If you want us to delete the data we receive from Facebook, Game Center or Google+ about you, please contact us at [legal-requests@supercell.com](mailto:legal-requests@supercell.com).
 
@@ -68,7 +68,7 @@ We may occasionally send you push notifications through our mobile applications 
 
 **Game Data Collection**
 
-Whenever you play our games, we collect data about all of your interactions with the game and with the other players inside the game via server log files.  This information may be associated with your player ID, IP address or device ID for the purpose of providing you our Services and improving them.  This data is stored within Amazon Web Services.
+Whenever you play our games, we collect data about all of your interactions with the game and with the other players inside the game via server log files.  This information may be associated with your player ID, IP address or device ID for the purpose of providing you our Services and improving them.  This data is stored within Amazon Web Services. With your permission, we will also collect your exact location so that we are able to match you with other players in your area.
 
 **Other Collection**
 
@@ -76,11 +76,11 @@ We may also acquire information from you through (1) your access and participati
 
 We may provide you the opportunity to participate in a sweepstakes or contest through our Service. If you participate, we will request certain personal information from you.  Participation in these sweepstakes and contests are voluntary and you therefore have a choice whether or not to disclose this information.  The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).
 
-We use this information to notify winners and award prizes, to monitor traffic or personalize the Service.  We may use a third party service provider to conduct these sweepstakes or contests; that company is prohibited from using your users’ personal information for any other purpose.
+We use this information to notify winners and award prizes, to monitor traffic or personalize the Service.  We may use a third party service provider to conduct these sweepstakes or contests; that company is prohibited from using your users' personal information for any other purpose.
 
 **Tracking Technologies**
 
-We and our marketing and outsourcing partners, affiliates, or analytics service providers use technologies such as cookies, beacons, scripts, and tags to identify a user’s computer/device and to “remember” things about your visit, such as your preferences or a user name and password.  Information contained in a cookie may be linked to your personal information, such as your user ID, for purposes such as improving the quality of our Services, tailoring recommendations to your interests, and making the Service easier to use.  You can disable cookies at any time, although you may not be able to access or use features of the Service. 
+We and our marketing and outsourcing partners, affiliates, or analytics service providers use technologies such as cookies, beacons, scripts, and tags to identify a user's computer/device and to "remember" things about your visit, such as your preferences or a user name and password.  Information contained in a cookie may be linked to your personal information, such as your user ID, for purposes such as improving the quality of our Services, tailoring recommendations to your interests, and making the Service easier to use.  You can disable cookies at any time, although you may not be able to access or use features of the Service. 
 
 We may feature advertisements served by third parties that deliver cookies to your computer/device so the content you access and advertisements you see can be tracked.  Since the third party advertising companies associate your computer/device with a number, they will be able to recognize your computer/device each time they send you an advertisement.  These advertisers may use information about your visits to our Service and third party sites and applications in order to measure advertisement performance and to provide advertisements about goods and services of interest to you. This Policy does not apply to, and we are not responsible for the data collection practices of these third party advertisers, and we encourage you to check their privacy policies to learn more about their use of cookies and other technology.
 
@@ -139,7 +139,7 @@ We may update this privacy policy to reflect changes to our information practice
 
 Supercell takes reasonable measures to protect your information from unauthorized access or against loss, misuse or alteration by third parties.
 
-Although we make good faith efforts to store the information collected on the Service in a secure operating environment that is not available to the public, we cannot guarantee the absolute security of that information during its transmission or its storage on our systems.  Further, while we attempt to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers" from illegally obtaining access to this information.  We do not warrant or represent that your information will be protected against, loss, misuse, or alteration by third parties. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+Although we make good faith efforts to store the information collected on the Service in a secure operating environment that is not available to the public, we cannot guarantee the absolute security of that information during its transmission or its storage on our systems.  Further, while we attempt to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining access to this information.  We do not warrant or represent that your information will be protected against, loss, misuse, or alteration by third parties. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
 **Access to Personal Information**
 
@@ -161,11 +161,11 @@ You may also opt-out of receiving SMS notifications from us, either via SMS or b
 
 **International Transfer**
 
-We may transfer information that we collect about you to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. Please note that these countries and jurisdictions may not have the same data protection laws as your own jurisdiction, and you consent to the transfer of information to the U.S. and the use and disclosure of information about you, including personal information, as described in this Policy.
+We may transfer information that we collect about you to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. Please note that these countries and jurisdictions may not have the same data protection laws as your own jurisdiction, and we take steps to ensure adequate safeguards are in place to enable transfer of information to the U.S. and elsewhere and the use and disclosure of information about you, including personal information, as described in this Policy.
 
 **Contact Information**
 
 Supercell Oy (Business ID 2336509-6),  
 Itämerenkatu 11-13, FI-00180 Helsinki, Finland.  
 
-If you have any questions about this Policy, please contact us at [legal-requests@supercell.com](mailto:legal-requests@supercell.com). 
+If you have any questions about this Policy, please contact us at [legal-requests@supercell.com](mailto:legal-requests@supercell.com).
