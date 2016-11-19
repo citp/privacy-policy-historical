@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellotravel.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317031941id_/http%3A//www.hellotravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellotravel.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119091549id_/http%3A//www.hellotravel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hello Travel
 
@@ -41,5 +41,3 @@ As soon as the User declares the intent to buy any of the 'Website' services, th
 
 **Changes in Privacy Policy**  
 Privacy Policy may change from time to time so please check periodically. 
-
-Copyright. All Rights Reserved 
