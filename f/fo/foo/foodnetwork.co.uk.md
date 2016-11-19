@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foodnetwork.co.uk privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314093603id_/http%3A//www.foodnetwork.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodnetwork.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119082530id_/http%3A//www.foodnetwork.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Food Network UK
+# Privacy Policy | Recipes | Food Network UK
 
 This Website is operated by Scripps Networks International (UK) Limited (" **us** ", " **we** ", or " **our** "). 
 
