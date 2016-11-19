@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cadbull.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502090053id_/http%3A//cadbull.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cadbull.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119174955id_/http%3A//www.cadbull.com/privacy_policy) for the most accurate reproduction.*
 
 # Cadbull | Privacy policy
 
