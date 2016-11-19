@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wspgroup.com privacy policy that was archived on 2016-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160104172139id_/http%3A//www.wspgroup.com/en/Who-we-are/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wspgroup.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119045220id_/http%3A//www.wsp-pb.com/en/Who-we-are/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,8 +27,6 @@ This policy applies to Personal Information that is processed by WSP and its aff
                 visitors to our websites and the websites of our affiliates
 
                 individuals who make general inquiries in their own capacity or on behalf of an organization
-
-Please note that [WSP’s Careers Page](https://web.archive.org/en/Careers/) has a distinct Privacy Policy pertaining to information collected from prospective employees.
 
 **_COLLECTION AND USE OF INFORMATION_**
 
