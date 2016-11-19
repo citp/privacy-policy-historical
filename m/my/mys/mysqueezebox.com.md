@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the mysqueezebox.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324211311id_/http%3A//www.logitech.com/index.cfm/footer/privacy/%26cl%3Dus%2Cen) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysqueezebox.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119063652id_/http%3A//www.logitech.com/index.cfm/footer/privacy/%26cl%3Dus%2Cen) for the most accurate reproduction.*
 
 # YOUR PRIVACY & SECURITY
 
 IE8/IE9/IE10 is no longer a supported browser. Please use a more current browser to view our site.
 
 As your privacy is important to us, Logitech has prepared this Statement of Privacy and Security (“Statement”) so that you may better understand how Logitech uses and protects the personal information collected on its website [www.logitech.com](http://www.logitech.com/) (“Site”). Please take the time to review this page and contact us at [support.logitech.com/response-center](http://support.logitech.com/response-center) with any questions or concerns.
+
+If you would like to report any security issues in any Logitech products, please send them to [ infosec@logitech.com](mailto:infosec@logitech.com). [Our GPG key is here](http://pgp.mit.edu/pks/lookup?search=infosec%40logitech.com&op=index&fingerprint=on).
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=bef2dd75-99a2-4dcc-816a-e03643a9faee "TRUSTe Privacy Certification")
 
@@ -73,7 +75,7 @@ Logitech also complies with the European Commission’s standard contractual cla
 
 Logitech does not share, trade, rent, sell or otherwise disclose our customer or user information to unaffiliated companies. We disclose information you submit only as follows:
 
-  * We hire affiliated and unaffiliated service providers to provide service to you including Logitech Inc., which are certified under the EU/CH-US Safe Harbor Program as set forth above and have entered into data processing agreements using EU Commissions’ standard contractual clauses. For example, we may use an email service provider to submit email communications to you on our behalf. All service providers are subject to strict confidentiality obligations and process your information only on our behalf and subject to our instructions.
+  * We hire affiliated and unaffiliated service providers to provide service to you including Logitech Inc., which is are certified under the EU/CH-US Safe Harbor Program as set forth above and have entered into data processing agreements using EU Commissions’ standard contractual clauses. For example, we may use an email service provider to submit email communications to you on our behalf. All service providers are subject to strict confidentiality obligations and process your information only on our behalf and subject to our instructions.
   * We may share redacted or anonymized information freely, but only after we redact it to ensure that recipients cannot use the data to identify you or link the data to you.
   * We may have to disclose information for purposes of protecting your or our legal rights or as required by law or orders from courts and government entities.
   * We may disclose to another business entity should we plan to merge with or be acquired by that business entity; or to any organization involved in a merger, transfer, or sale of our assets or business.
@@ -113,9 +115,7 @@ Back to top
 
 Logitech is committed to the protection of your personal information. We use a variety of security technologies and procedures, including SSL encryption, to help protect your personal information from unauthorized access, use, or disclosure.
 
-The TRUSTe program covers only information that is collected through this Site, [www.logitech.com](http://www.logitech.com/), and does not cover information that may be collected through software downloaded from the Site or from Alert.Logitech.com. In order to view our relationship with TRUSTe, please visit the validation page visible by clicking on the TRUSTe seal.
-
-If you have questions or complaints regarding our Statement or practices, please contact us at [support.logitech.com/response-center](http://support.logitech.com/response-center). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request) or refer your privacy complaint or dispute to the relevant state or notational data protection authority in your jurisdiction.
+If you have questions or complaints regarding our Statement or practices, please contact us at [support.logitech.com/response-center](http://support.logitech.com/response-center). If you are not satisfied with our response you can refer your privacy complaint or dispute to the relevant state or notational data protection authority in your jurisdiction.
 
 Back to top  
 
@@ -128,7 +128,7 @@ Logitech encourages you to periodically review this Statement to be informed of 
 
 Thank you for your interest in Logitech and our products.
 
-Revised January 29, 2016
+Revised June 14, 2016
 
 [](https://web.archive.org/en-us/promotions/cookie-compliance)
 
