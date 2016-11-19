@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guestblogging.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630232120id_/http%3A//guestblogging.com/public/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guestblogging.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119092149id_/http%3A//guestblogging.com/public/privacy-policy) for the most accurate reproduction.*
 
 # GuestBlogging.com Privacy Policy - Guest Blogging Public
 
@@ -139,8 +139,8 @@ and we will promptly remove you from ALL correspondence.
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 Boost Blog Traffic, Inc  
-PO Box 1077  
-Ojai, CA 93024  
+PO Box 2034  
+Cedar Park, TX, 78630  
 United States
 
 support@guestblogging.com
