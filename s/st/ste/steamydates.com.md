@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steamydates.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626123632id_/http%3A//www.steamydates.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steamydates.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119073323id_/http%3A//www.steamydates.com/site/privacy) for the most accurate reproduction.*
 
 # Steamydates - Find people, socialize, hookup and chat.
 
@@ -98,8 +98,8 @@ You can unsubscribe at any time by clicking the 'unsubscribe' link at the bottom
 #### Our address:
 
 FH International Limited  
-PO Box 440  
-Envoy House, La Vrangue  
+PO Box 142  
+The Beehive, Rohais  
 St Peter Port  
 Guernsey  
-GY1 3ZN 
+GY1 3HT 
