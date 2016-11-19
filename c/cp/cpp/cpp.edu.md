@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpp.edu privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617015706id_/http%3A//www.cpp.edu/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpp.edu privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119153512id_/http%3A//www.cpp.edu/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy
 
