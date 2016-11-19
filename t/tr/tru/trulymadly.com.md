@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the trulymadly.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616043513id_/http%3A//trulymadly.com/node/13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trulymadly.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119095458id_/http%3A//trulymadly.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Truly Madly
-
-## Privacy Policy
+# Privacy Policy | TrulyMadly
 
 TrulyMadly asks for User's personal information (email, demographic location and address, age, name, sex, phone number, preference in partner selection, payment details, personality facets, interests when the User registers with the Site.
 
