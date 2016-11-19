@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theslg.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419203320id_/http%3A//www.theslg.com/content/30-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theslg.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119193619id_/http%3A//theslg.com/content/30-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sapphire Leadership Group, Inc.
 
