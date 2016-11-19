@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trainchinese.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513214216id_/http%3A//www.trainchinese.com/v2/mprivacy.php%3FrAp%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainchinese.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119125637id_/http%3A//www.trainchinese.com/v2/mprivacy.php%3FrAp%3D0) for the most accurate reproduction.*
 
 # train chinese dictionary and flashcards|Privacy policy
 
