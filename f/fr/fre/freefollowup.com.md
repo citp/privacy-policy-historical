@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freefollowup.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526031541id_/http%3A//www.freefollowup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freefollowup.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119153302id_/http%3A//www.freefollowup.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
