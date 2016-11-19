@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagerank.net privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606082118id_/http%3A//www.pagerank.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagerank.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119113147id_/http%3A//www.pagerank.net/privacy-policy) for the most accurate reproduction.*
 
 # Search Engine Optimization - PageRank
 
