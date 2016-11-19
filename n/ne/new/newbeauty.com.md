@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the newbeauty.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609081829id_/http%3A//www.sandow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbeauty.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119030247id_/http%3A//www.sandow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SANDOW | Brands Powered by Innovation.
-
-Last Updated: February 2014
 
 Your privacy is important to us and we undertake to respect and honor your concerns about maintaining strict privacy.
 
