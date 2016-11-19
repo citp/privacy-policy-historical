@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herworld.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520101951id_/http%3A//sph.com.sg/legal/sph_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herworld.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119163313id_/http%3A//sph.com.sg/legal/sph_privacy.html) for the most accurate reproduction.*
 
 # SPH Privacy Policy - Singapore Press Holdings
 
