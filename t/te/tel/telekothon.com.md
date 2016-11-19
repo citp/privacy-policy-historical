@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the telekothon.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605073949id_/http%3A//www.telekothon.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telekothon.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119135912id_/http%3A//www.telekothon.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | telekothon telekothon.com
+# Privacy Policy - telekothon.com
 
 This website is owned and operated by TeleKothon Team . We are committed to safeguarding the privacy of our website visitors, this policy sets out how we will treat your personal information.
 
