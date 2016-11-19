@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fluentland.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527073121id_/http%3A//www.fluentland.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fluentland.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119042216id_/http%3A//www.fluentland.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fluent LandFluent Land
 
@@ -27,3 +27,13 @@ These policies may be adjusted to improve protection of user’s privacy. Whenev
 ### Special Note About Google Advertising
 
 Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google’s cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
+
+**
+
+##### EASY LANGUAGE EXCHANGE
+
+** **
+
+##### RECENT NOTES
+
+**
