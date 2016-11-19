@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adl.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617161148id_/http%3A//www.adl.org/about-adl/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adl.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119044712id_/http%3A//www.adl.org/about-adl/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,13 +72,14 @@ Occasionally, ADL's Web site may include links to other Web sites. ADL is not re
 
 If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by writing to us through our [Contact Us](http://support.adl.org/site/PageNavigator/contactus.html) form.
 
-#### Choice/Opt-Out
+#### Choice/Opt-Out Online & Offline
 
-Our Web site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.  
+Our Web site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
+
 The following options are available for removing information from our database to discontinue receiving future communications or our service.
 
-  1. You can unsubscribe or change your e-mail preferences by following the link at the bottom of any e-mail you receive from ADL.
-  2. You can notify us through the form on our [Contact Us ](http://support.adl.org/site/PageNavigator/contactus.html) page of your desire to be removed from our e-mail list or contributor mailing list.
+  1. You can unsubscribe or change your e-mail preferences online by following the link at the bottom of any e-mail you receive from ADL.
+  2. You can notify us offline through the form on our [Contact Us](http://support.adl.org/site/PageNavigator/contactus.html) page of your desire to be removed from our e-mail list or contributor mailing list, or by contacting ADL's SVP of Privacy at [privacy@adl.org](mailto:privacy@adl.org) or at ADL's mailing address: 605 Third Avenue, New York, NY 10158.
 
 
 
