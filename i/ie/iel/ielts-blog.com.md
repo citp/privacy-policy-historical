@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the ielts-blog.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611133804id_/http%3A//www.ielts-blog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ielts-blog.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015906id_/http%3A//www.ielts-blog.com/privacy) for the most accurate reproduction.*
 
 # Privacy | IELTS-Blog
-
-Hey, you're new here! I love new people, welcome. 
-
-You may want to subscribe to IELTS-Blog and get all the updates via [email](http://www.ielts-blog.com/subscribe-to-ielts-tips/) or via [RSS feed](http://feedproxy.google.com/Ielts-blog). Thanks for visiting!
 
 Our Commitment To Privacy
 
