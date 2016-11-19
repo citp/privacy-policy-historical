@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegamesjungle.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620060714id_/http%3A//www.freegamesjungle.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegamesjungle.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119044229id_/http%3A//www.freegamesjungle.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Free games Jungle - Privacy Policy
 
@@ -7,13 +7,13 @@
   
 ### Personal Information  
   
-Free Games Jundle (FGJ) always was and always will be a safe gaming experience online. Freegamesjungle.com is committed to protecting your online privacy. freegamesjungle.com does **not** collect any personal information on its servers. Any details that could track you behaviour, visited pages, or locations are NOT stored on our servers. Users of the free online game portal (Free Games Jungle) must repect our terms of service ([read more](https://web.archive.org/web/20160620060714id_/http%3A//www.freegamesjungle.com/terms_of_service.html)).   
+Free Games Jundle (FGJ) always was and always will be a safe gaming experience online. Freegamesjungle.com is committed to protecting your online privacy. freegamesjungle.com does **not** collect any personal information on its servers. Any details that could track you behaviour, visited pages, or locations are NOT stored on our servers. Users of the free online game portal (Free Games Jungle) must repect our terms of service ([read more](https://web.archive.org/web/20161119044229id_/http%3A//www.freegamesjungle.com/terms_of_service.html)).   
   
 ---  
   
 ### Your privacy 100% safe  
   
-At Free Games Jungle we do not believe in business cases and traffic tracking. Our codes do not create or read from cookies and our server has log files disabled. We have no idea how many users are on the website and what our users are doing. And why would we? FGJ (Free Games Jungle) was created to bring the best free online games to gamers selected by gamers. Now you know that freegamesjungle.com is a safe place to play the best daily free online games!   
+At Free Games Jungle we do not believe in business cases and traffic tracking. Our codes do not create or read from cookies and our server has log files disabled. We have no idea how many users are on the website and what our users are doing. And why would we? FGJ (Free Games Jungle) was created to bring the best free online games to gamers selected by gamers. Now you know that freegamesjungle.com is a safe place to play the best daily free online games! There are third parties advertising on this portal. Keep reading this privacy statement to learn more about our third parties.   
   
 ---  
   
@@ -26,6 +26,12 @@ Your IP address is -not- used to gather broad demographic information and we do 
 ### Third Party Advertisements  
   
 We use third-party advertising companies to serve ads when you visit freegamesjungle.com. These companies may execute scripts and cookies, and use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.   
+  
+---  
+  
+### Sharing Of Information  
+  
+There are no scripts or programs running on our server that store your information. We allow our third party advertisers to host scripts on our webpages. Third party advertisers might collect, store and use your information. These scripts are not property of our game portal website and are subject to the privacy policy of the third party. Find the links to the third party privacy policies in the sections below to learn more.   
   
 ---  
   
@@ -62,4 +68,4 @@ Its possible to prevent third party cookies being set on your machine by using t
   
 ### Liability  
   
-It is freegamesjungle.com's policy to respond quickly to claims of intellectual property violation. Upon receiving notification in accordance with any related copyright organization or owner, freegamesjungle.com will immediately disable and remove games in question. Find more information about our copyright policy [here](https://web.archive.org/web/20160620060714id_/http%3A//www.freegamesjungle.com/copyright_policy.html)
+It is freegamesjungle.com's policy to respond quickly to claims of intellectual property violation. Upon receiving notification in accordance with any related copyright organization or owner, freegamesjungle.com will immediately disable and remove games in question. Find more information about our copyright policy [here](https://web.archive.org/web/20161119044229id_/http%3A//www.freegamesjungle.com/copyright_policy.html)
