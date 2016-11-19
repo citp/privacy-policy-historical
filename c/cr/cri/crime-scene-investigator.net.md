@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crime-scene-investigator.net privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607083642id_/http%3A//www.crime-scene-investigator.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crime-scene-investigator.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119202542id_/http%3A//www.crime-scene-investigator.net/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
