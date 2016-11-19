@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the probioticamerica.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421050756id_/http%3A//probioticamerica.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the probioticamerica.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119082355id_/http%3A//probioticamerica.com/privacy.php) for the most accurate reproduction.*
 
 # Probiotic America | Privacy Policy
 
@@ -128,7 +128,7 @@ Our Site includes Social Media Features, such as the Facebook and Twitter button
 
 We do not accept any paid advertisements on _Probiotic America, LLC_. Any services or products recommended and/or offered in the newsletter or elsewhere on _Probiotic America, LLC_ have gone through extensive review before such recommendations, and based on that review were recommended and/or offered.
 
-Google, as a third party vendor, uses cookies to serve ads on _Probiotic America, LLC_. Google's use of the remarketing and analytics cookies enables them to serve ads to _Probiotic America, LLC_ users based on their visit to _Probiotic America, LLC_ and other sites on the Internet. Users may opt out of the use of the remarketing cookie by visiting the [Google ad and content network privacy policy preferences](http://www.google.com/settings/ads) or visiting [www.networkadvertising.org/choices/](https://web.archive.org/web/20160421050756id_/http%3A//probioticamerica.com/www.networkadvertising.org/choices/).
+Google, as a third party vendor, uses cookies to serve ads on _Probiotic America, LLC_. Google's use of the remarketing and analytics cookies enables them to serve ads to _Probiotic America, LLC_ users based on their visit to _Probiotic America, LLC_ and other sites on the Internet. Users may opt out of the use of the remarketing cookie by visiting the [Google ad and content network privacy policy preferences](http://www.google.com/settings/ads) or visiting [www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/).
 
 ### Unsolicited Ideas
 
