@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wvi.org privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609194434id_/http%3A//wvi.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wvi.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119055130id_/http%3A//www.wvi.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | World Vision International
 
@@ -22,7 +22,7 @@ World Vision International specifically uses Google Analytics and OpenTracker to
 
 This Web site may contain links to other sites, including links which frame the content of the other sites within the World Vision name and logo. World Vision International is not responsible for the privacy practices or the content of such other Web sites, even if our name and logo are still on the top of the screen.
 
-This privacy statement has been updated and is effective as of September 2012. World Vision International may make changes to this privacy statement from time to time. The revised statement will be effective immediately upon posting to our Web site. Please check the effective date of this privacy statement to determine whether changes have been made since the last time you visited this Web site.
+This privacy statement has been updated and is effective as of September 2016. World Vision International may make changes to this privacy statement from time to time. The revised statement will be effective immediately upon posting to our Web site. Please check the effective date of this privacy statement to determine whether changes have been made since the last time you visited this Web site.
 
 ### Contacting the Website
 
