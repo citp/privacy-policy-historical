@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animegg.net privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322212500id_/http%3A//www.animegg.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animegg.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119105811id_/http%3A//www.animegg.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
