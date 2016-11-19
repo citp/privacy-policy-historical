@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formget.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503122332id_/http%3A//www.formget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formget.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119121518id_/https%3A//www.formget.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FormGet
 
@@ -25,7 +25,7 @@ Magnet Brains Software Technology Pvt Ltd.
 Data Controller and Owner  
 Magnet Brains Software Technology Pvt Ltd.
 
-http://www.formget.com/contact-us/
+https://www.formget.com/contact-us/
 
 **Types of Data collected**
 
