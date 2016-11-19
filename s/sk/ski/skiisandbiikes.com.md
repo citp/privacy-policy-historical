@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skiisandbiikes.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606203342id_/http%3A//www.skiisandbiikes.com/privacy-policy-cookie-restriction-mode/%3F___store%3Ddefault) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skiisandbiikes.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119044659id_/http%3A//www.skiisandbiikes.com/privacy-policy-cookie-restriction-mode/%3F___store%3Ddefault) for the most accurate reproduction.*
 
 # Privacy Policy - Skiis & Biikes
 
