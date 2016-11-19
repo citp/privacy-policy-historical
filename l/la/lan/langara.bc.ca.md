@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the langara.bc.ca privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628153654id_/http%3A//langara.ca/about-langara/records-management-and-privacy/privacy/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the langara.bc.ca privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119013821id_/http%3A//langara.ca/about-langara/records-management-and-privacy/privacy/privacy-statement.html) for the most accurate reproduction.*
 
 # Langara. About Langara: Records Management and Privacy: Privacy: Privacy Statement
 
