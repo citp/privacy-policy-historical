@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the domainz.in privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426212933id_/http%3A//www.domainz.in/page_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainz.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119080829id_/http%3A//www.domainz.in/page_privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
-**[FLAT 20 - 40% Discount on all new Web Hosting orders + Free Domain Registration with Unlimited Hosting Plans!](https://web.archive.org/web/20160426212933id_/http%3A//www.domainz.in/register_domain.php)**  
+**[WINTER SALE! FLAT 30% Off on all Web Hosting orders + Free Domain with selected Plans! ](https://web.archive.org/web/20161119080829id_/http%3A//www.domainz.in/register_domain.php)**  
   
 | | |  | Privacy Policy  
 ---  
@@ -28,10 +28,10 @@
   
   
 ---  
-DOMAINZ.IN Provides Domain Name Registration, Web Hosting, Unlimited Hosting, Reseller Hosting Services at Lowest Prices Since 2005.   
+DOMAINZ.IN Provides Domain Name Registration, Web Hosting, Unlimited Hosting, Reseller Hosting Services at Lowest Prices.   
 A Website by Karmath InfoTech Private Limited ® 2005 - 2016   
-[](https://web.archive.org/web/20160426212933id_/http%3A//www.domainz.in/page_netbanking.html) |  [Register Domain](https://web.archive.org/web/20160426212933id_/http%3A//www.domainz.in/register_domain.php) |  [Domain Pricing](https://web.archive.org/web/20160426212933id_/http%3A//www.domainz.in/pricing.php) | [Transfer Domain](https://web.archive.org/web/20160426212933id_/http%3A//www.domainz.in/page_transfer.html) | [Web Hosting](https://web.archive.org/web/20160426212933id_/http%3A//www.domainz.in/hosting.php) | [Website Builder](https://web.archive.org/web/20160426212933id_/http%3A//www.domainz.in/website_builder.php) | [Reseller Web Hosting](https://web.archive.org/web/20160426212933id_/http%3A//www.domainz.in/reseller_hosting.php) | [Check Whois](https://web.archive.org/web/20160426212933id_/http%3A//www.domainz.in/whois.php)   
-[Our Bank Accounts](https://web.archive.org/web/20160426212933id_/http%3A//www.domainz.in/page_bank_accounts.html) | [Usage Policy](https://web.archive.org/web/20160426212933id_/http%3A//www.domainz.in/page_usage_policy.html) | [Mail Policy](https://web.archive.org/web/20160426212933id_/http%3A//www.domainz.in/page_mail_policy.html) | [Privacy Policy](https://web.archive.org/web/20160426212933id_/http%3A//www.domainz.in/page_privacy_policy.html) | [Support Policy](https://web.archive.org/web/20160426212933id_/http%3A//www.domainz.in/page_support_policy.html) | [We Pay Service Tax](https://web.archive.org/web/20160426212933id_/http%3A//www.domainz.in/page_service_tax.html) | [Contact Us](https://web.archive.org/web/20160426212933id_/http%3A//www.domainz.in/page_contact.html)   
-[Windows Web Hosting](http://www.aasma.com/web-hosting/windows-hosting.php) |  [Free SMS](http://www.atrochatro.com/) | [SMS Reseller, Resell SMS, Bulk SMS, SMS Short Code](http://www.beep7.com/) | [Google+](https://plus.google.com/112047327068694912310)  
-[](https://web.archive.org/web/20160426212933id_/http%3A//www.domainz.in/page_bank_accounts.html)   
-Page took 0.000210 seconds to load. 
+[](https://web.archive.org/web/20161119080829id_/http%3A//www.domainz.in/page_netbanking.html) |  [Register Domain](https://web.archive.org/web/20161119080829id_/http%3A//www.domainz.in/register_domain.php) | [Domain Pricing](https://web.archive.org/web/20161119080829id_/http%3A//www.domainz.in/pricing.php) | [Transfer Domain](https://web.archive.org/web/20161119080829id_/http%3A//www.domainz.in/page_transfer.html) | [Web Hosting](https://web.archive.org/web/20161119080829id_/http%3A//www.domainz.in/hosting.php) |  [Reseller Web Hosting](https://web.archive.org/web/20161119080829id_/http%3A//www.domainz.in/reseller_hosting.php) | [Check Whois](https://web.archive.org/web/20161119080829id_/http%3A//www.domainz.in/whois.php)   
+[Our Bank Accounts](https://web.archive.org/web/20161119080829id_/http%3A//www.domainz.in/page_bank_accounts.html) | [Usage Policy](https://web.archive.org/web/20161119080829id_/http%3A//www.domainz.in/page_usage_policy.html) | [Mail Policy](https://web.archive.org/web/20161119080829id_/http%3A//www.domainz.in/page_mail_policy.html) | [Privacy Policy](https://web.archive.org/web/20161119080829id_/http%3A//www.domainz.in/page_privacy_policy.html) | [We Pay Service Tax](https://web.archive.org/web/20161119080829id_/http%3A//www.domainz.in/page_service_tax.html) | [Contact Us](https://web.archive.org/web/20161119080829id_/http%3A//www.domainz.in/page_contact.html)   
+[Windows Web Hosting](http://www.aasma.com/windows-hosting) |  [Free SMS](http://www.atrochatro.com/) | [SMS Reseller, Resell SMS, Bulk SMS, SMS Short Code](http://www.beep7.com/) | [Google+](https://plus.google.com/112047327068694912310)  
+[](https://web.archive.org/web/20161119080829id_/http%3A//www.domainz.in/page_bank_accounts.html)   
+Page took 0.000793 seconds to load. 
