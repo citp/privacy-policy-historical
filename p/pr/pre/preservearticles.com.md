@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preservearticles.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519215532id_/http%3A//www.preservearticles.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preservearticles.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119081550id_/http%3A//www.preservearticles.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
