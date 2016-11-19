@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rescuetime.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404213321id_/https%3A//www.rescuetime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rescuetime.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119085406id_/https%3A//www.rescuetime.com/privacy) for the most accurate reproduction.*
 
 # RescueTime - Privacy Policy
 
-**Last updated on April 1, 2016.** You might also be interested in our specific [RescueTime privacy features](https://web.archive.org/privacy_checklist).
+**Last updated on November 1, 2016.** You might also be interested in our specific [RescueTime privacy features](https://web.archive.org/privacy_checklist).
 
 By using RescueTime, you are agreeing to the collection and use of your personal information as described below. We will notify all active accounts of any significant changes to this policy.
 
