@@ -1,8 +1,18 @@
-> *The following text is extracted and transformed from the consumeractiongroup.co.uk privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610193539id_/http%3A//www.consumeractiongroup.co.uk/forum/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeractiongroup.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119150133id_/http%3A//www.consumeractiongroup.co.uk/forum/privacy-policy.php) for the most accurate reproduction.*
 
 # - The Consumer Forums
 
+[Marc Gander - The Consumer Survival Handbook](https://www.amazon.co.uk/Consumer-Survival-Handbook-Reclaim-Guides-ebook/dp/B01J6MQZT2/ref=sr_1_1?ie=UTF8&qid=1470242019&sr=8-1&keywords=consumer+survival+handbook)  
+A 220 page introduction to all things consumer related by our own BankFodder. 
 
+Includes energy companies, mobile phone providers, retailers, banks, insurance companies,debt collection agencies, reclaim companies, secondhand car sellers, cowboy garages, cowboy builders and all the rest who put their own profits before you. 
+
+£6.99
+
+  
+[](http://www.consumeractiongroup.co.uk/paypal.php?go=donate) | 
+    
+    
     THE CONSUMER FORUMS PRIVACY POLICY
     
     This policy applies to all forums operated by Reclaim the Right Limited, and includes (but is not limited to) the Consumer Action Group, 
@@ -127,3 +137,8 @@
     
     Effective Date: July  05, 2006
     
+
+  
+[Reclaim the Right Ltd. - reg.05783665 in the UK reg. office:- 923 Finchley Road London NW11 7PE](http://www.consumeractiongroup.co.uk/forum/feedback.php)   
+We use cookies to personalise content and ads and to provide social media features. We also share information about your use of our site with our advertising and analytics partners. [See details](http://www.consumeractiongroup.co.uk/forum/privacy-policy.php)  
+---|---
