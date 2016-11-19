@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the dollarupload.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321215938id_/http%3A//dollarupload.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollarupload.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119125953id_/http%3A//dollarupload.com/privacy.php) for the most accurate reproduction.*
 
 # DollarUpload - Privacy Policy
 
-DollarUpload LLC Privacy Policy 
+  
+
+
+### DollarUpload LLC Privacy Policy
 
 The DollarUpload website at www.dollarupload.com (the "Website") is provided to You by DollarUpload, LLC and/or any of its related, affiliated and/or subsidiary companies (individually and collectively, "DollarUpload", "We" or "Us"), and the following Privacy Policy applies to all of the services offered by DollarUpload in connection with the Website. For convenience, the words "User," "You" and "Your" as used in this Privacy Policy refer to users of the Website. 
 
@@ -115,4 +118,4 @@ If any provision of this Privacy Policy is found to be illegal, void, or unenfor
 
 This page was lasted updated on March 31, 2015. 
 
-[Contact Us](https://web.archive.org/web/20160321215938id_/http%3A//dollarupload.com/contact.php)
+[Contact Us](https://web.archive.org/web/20161119125953id_/http%3A//dollarupload.com/contact.php)
