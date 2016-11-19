@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthplus50.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602003255id_/http%3A//www.healthplus50.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthplus50.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119173632id_/http%3A//www.healthplus50.com/privacy.php) for the most accurate reproduction.*
 
 # HealthPlus50.com - Privacy
 
@@ -42,6 +42,12 @@ Yes (Cookies are small files that a site or its service provider transfers to yo
 
 We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
+**Remarketing**
+
+We also use 3rd party vendor re-marketing tracking cookies, including the Google Adwords tracking cookie. This means we will continue to show ads to you across the internet, specifically on the Google Display Network (GDN). As always we respect your privacy and are not collecting any identifiable information through the use of Google's or any other 3rd party remarketing system.
+
+The third-party vendors, including Google, whose services we use – will place cookies on web browsers in order to serve ads based on past visits to our website. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. This allows us to make special offers and continue to market our services to those who have shown interest in our service. You can opt out of Google's use of cookies by visiting [Google's Ads Settings](http://www.google.com/settings/ads)
+
 **Do we disclose any information to outside parties?**
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
@@ -74,4 +80,4 @@ This policy was last modified on 09/21/2015.
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may [contact us here](https://web.archive.org/web/20160602003255id_/http%3A//www.healthplus50.com/contact.php "Contact").
+If there are any questions regarding this privacy policy you may [contact us here](https://web.archive.org/web/20161119173632id_/http%3A//www.healthplus50.com/contact.php "Contact").
