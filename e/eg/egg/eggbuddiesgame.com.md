@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eggbuddiesgame.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524035612id_/http%3A//eggbuddies.com/%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eggbuddiesgame.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119025020id_/http%3A//eggbuddies.com/%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
 # Egg Buddies
 
