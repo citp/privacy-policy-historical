@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the apkreal.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518224519id_/http%3A//apkreal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apkreal.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119021318id_/http%3A//apkreal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](http://apkreal.com/ "ApkReal - Download Android Games and Apps For Free") ApkReal.com - Download Modded and Paid Android Apps and Games for your Android Device
+UPDATED ON: Wednesday, March 16, 2016
 
 At ApkReal, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [http://ApkReal.com](http://apkreal.com/) and how it is used.
 
