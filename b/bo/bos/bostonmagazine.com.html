@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bostonmagazine.com privacy policy that was archived on 2016-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160607161216id_/http%3A//www.bostonmagazine.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bostonmagazine.com privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119122610id_/http%3A//www.bostonmagazine.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" xmlns:fb="http://ogp.me/ns/fb#" lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -13,14 +13,52 @@
 
 	<!-- WebType (for Shoes) -->
 	<link href="//cloud.webtype.com/css/b86a6511-d173-457a-82f7-cb378cc894dd.css" rel="stylesheet" type="text/css">
-	<!-- Typekit -->
-	<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0018/4103.js?438999" async="" type="text/javascript"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580399400000/510637.js"></script><script type="text/javascript" async="" src="http://t.neodatagroup.com/npc.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=233186256698668"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=018217097480023710167:jifnp2evceo"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" src="//cdn.taboola.com/libtrc/metrocorp-network/loader.js"></script><script type="text/javascript" async="" src="http://adserver.pressboard.ca/v1/embedder?media=120285"></script><script type="text/javascript" src="//use.typekit.net/xbg1bfr.js"></script>
-	<script type="text/javascript">try {
-			Typekit.load();
-		} catch ( e ) {
-		}</script>
-	<!-- End Typekit Tag -->
+<!-- Typekit -->
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0018/4103.js?438999" async="" type="text/javascript"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580399400000/510637.js"></script><script type="text/javascript" async="" src="http://t.neodatagroup.com/npc.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=233186256698668"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=018217097480023710167:jifnp2evceo"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WFHFBM"></script><script async="" src="//cdn.taboola.com/libtrc/metrocorp-network/loader.js"></script><script type="text/javascript" async="" src="http://adserver.pressboard.ca/v1/embedder?media=120285"></script><script src="//use.typekit.net/xbg1bfr.js"></script>
+<script>
+	(
+		function typekit( document, window ) {
+			// Typekit implementation.
+			try {
+				Typekit.load( {
+					async: true,
+					loading: function loading() {
+						// In case fonts didn't work
+						setTimeout( onFontTimeout, 5000 );
+					},
+					inactive: function inactive() {
+						// If typekit failed to load, let's add a new class to html element.
+						addFallbackClass();
+					}
+				} );
+			} catch ( e ) {
+				console.error( e );
+			}
 
+			function onFontTimeout() {
+				// Font is inactive or stills loading
+				if ( document.documentElement.classList.contains( 'wf-inactive' ) || document.documentElement.classList.contains( 'wf-loading' ) ) {
+					addFallbackClass();
+				}
+
+				// none of the typekit classes is present
+				if ( ! document.documentElement.classList.contains( 'wf-inactive' ) && ! document.documentElement.classList.contains( 'wf-loading' ) && ! document.documentElement.classList.contains( 'wf-active' ) ) {
+					addFallbackClass();
+				}
+
+				// Nimbus wasn't loaded
+				if ( document.documentElement.classList.contains( 'wf-nimbussanscondensed-n9-inactive' ) || document.documentElement.classList.contains( 'wf-nimbussanscondensed-n4-inactive' ) ) {
+					addFallbackClass();
+				}
+			}
+
+			function addFallbackClass() {
+				document.documentElement.classList.add( 'bm-tk-inactive' );
+			}
+		}( document, window )
+	);
+</script>
+<!-- End Typekit Tag -->
 <!-- This site is optimized with the Yoast WordPress SEO plugin v2.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://www.bostonmagazine.com/privacy-policy/">
 <link rel="publisher" href="https://plus.google.com/+bostonmagazine/">
@@ -61,45 +99,49 @@ img.emoji {
 }
 </style>
 <link rel="stylesheet" id="dashicons-css" href="http://cdn1.bostonmagazine.com/wp-includes/css/dashicons.min.css?ver=4.4.3" type="text/css" media="all">
-<link rel="stylesheet" id="thickbox-css" href="http://cdn1.bostonmagazine.com/wp-includes/js/thickbox/thickbox.css?ver=4.4.3" type="text/css" media="all">
-<link rel="stylesheet" id="interncss-css" href="http://cdn1.bostonmagazine.com/wp-content/plugins/wp-intern-ads/internAds.css?ver=4.4.3" type="text/css" media="all">
+<link rel="stylesheet" id="thickbox-css" href="http://cdn1.bostonmagazine.com/wp-includes/js/thickbox/thickbox.css" type="text/css" media="all">
+<link rel="stylesheet" id="interncss-css" href="http://cdn1.bostonmagazine.com/wp-content/plugins/wp-intern-ads/internAds.css?ver=1380554558" type="text/css" media="all">
 <link rel="stylesheet" id="mappress-css" href="http://cdn1.bostonmagazine.com/wp-content/plugins/mappress-google-maps-for-wordpress/css/mappress.css?ver=2.42.1" type="text/css" media="all">
 <link rel="stylesheet" id="best-bostonian-css" href="http://cdn1.bostonmagazine.com/wp-content/plugins/metrocorp-best-bostonian/assets/css/best-bostonian.min.css?ver=1.6.14" type="text/css" media="all">
-<link rel="stylesheet" id="elasticpress-metrocorp-css" href="http://cdn1.bostonmagazine.com/wp-content/plugins/metrocorp-elasticpress-features/assets/css/elasticpress-metrocorp-features.css?ver=4.4.3" type="text/css" media="all">
-<link rel="stylesheet" id="owl-carousel-css" href="http://cdn1.bostonmagazine.com/wp-content/plugins/metrocorp-functionality/modules/native-advertising/assets/css/prebuilt/owl-carousel/owl.carousel.css?ver=1.1.1.8" type="text/css" media="all">
-<link rel="stylesheet" id="owl-carousel-theme-css" href="http://cdn1.bostonmagazine.com/wp-content/plugins/metrocorp-functionality/modules/native-advertising/assets/css/prebuilt/owl-carousel/owl.theme.css?ver=1.1.1.8" type="text/css" media="all">
-<link rel="stylesheet" id="nativead-css" href="http://cdn1.bostonmagazine.com/wp-content/plugins/metrocorp-functionality/modules/native-advertising/assets/css/min/mc-native-ad.css?ver=1.1.1.8" type="text/css" media="all">
-<link rel="stylesheet" id="nativead-boston-css" href="http://cdn1.bostonmagazine.com/wp-content/plugins/metrocorp-functionality/modules/native-advertising/assets/css/min/mc-na-boston.css?ver=1.1.1.8" type="text/css" media="all">
+<link rel="stylesheet" id="elasticpress-metrocorp-css" href="http://cdn1.bostonmagazine.com/wp-content/plugins/metrocorp-elasticpress-features/assets/css/elasticpress-metrocorp-features.css?ver=1456933637" type="text/css" media="all">
+<link rel="stylesheet" id="nativead-css" href="http://cdn1.bostonmagazine.com/wp-content/plugins/metrocorp-functionality/modules/native-advertising/assets/css/min/mc-native-ad.css?ver=1.1.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="nativead-boston-css" href="http://cdn1.bostonmagazine.com/wp-content/plugins/metrocorp-functionality/modules/native-advertising/assets/css/min/mc-na-boston.css?ver=1.1.2.4" type="text/css" media="all">
 <link rel="stylesheet" id="royal-slider-css" href="http://cdn1.bostonmagazine.com/wp-content/plugins/metrocorp-image-gallery/assets/css/royalslider.css?ver=2013102301" type="text/css" media="all">
 <link rel="stylesheet" id="mig-gallery-css" href="http://cdn1.bostonmagazine.com/wp-content/plugins/metrocorp-image-gallery/assets/css/sass/min/mig-v2.css?ver=20141106v01" type="text/css" media="all">
-<link rel="stylesheet" id="boston-styles-css" href="http://cdn1.bostonmagazine.com/wp-content/themes/BostonMagazine2/assets/css/min/bostonmagazine.css?ver=2.0.2.21" type="text/css" media="all">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="http://cdn1.bostonmagazine.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.2.6-BM" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
+#rs-demo-id {}
+</style>
+<link rel="stylesheet" id="boston-styles-css" href="http://cdn1.bostonmagazine.com/wp-content/themes/BostonMagazine2/assets/css/min/bostonmagazine.css?ver=2.0.33" type="text/css" media="all">
 <link rel="stylesheet" id="tablepress-default-css" href="http://cdn1.bostonmagazine.com/wp-content/tablepress-combined.min.css?ver=48" type="text/css" media="all">
-<link rel="stylesheet" id="jetpack_css-css" href="http://cdn1.bostonmagazine.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.8.2" type="text/css" media="all">
 <link rel="stylesheet" id="taxonomy-image-plugin-public-css" href="http://cdn1.bostonmagazine.com/wp-content/plugins/taxonomy-images/style.css?ver=0.8.0" type="text/css" media="screen">
 <script type="text/javascript">(function () {     var d = document,        s = d.createElement("script"),         d = d.getElementsByTagName("script")[0];     s.type = "text/javascript";     s.async = !0;     s.src = "http://adserver.pressboard.ca/v1/embedder?media=120285";     d.parentNode.insertBefore(s, d); })(); </script> <!--[if !IE]><!-->
 <link rel="stylesheet" id="tablepress-responsive-css" href="http://cdn1.bostonmagazine.com/wp-content/plugins/tablepress-responsive-tables/tablepress-responsive.min.css?ver=1.1" type="text/css" media="all">
 <!--<![endif]-->
 <script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
 <script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-content/plugins/metrocorp-best-bostonian/js/jquery.blockUI.js?ver=4.4.3"></script>
+<script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-content/plugins/metrocorp-best-bostonian/js/jquery.blockUI.js?ver=1449679887"></script>
 <script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-content/plugins/wp-intern-ads/jquery.internads.js?ver=1.3"></script>
-<script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-content/plugins/metrocorp-elasticpress-features/assets/js/elasticpress-metrocorp-features.js?ver=4.4.3"></script>
-<script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-content/plugins/metrocorp-functionality/modules/native-advertising/assets/js/prebuilt/owl-carousel/owl.carousel.min.js?ver=1.1.1.8"></script>
-<script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-content/plugins/metrocorp-functionality/modules/native-advertising/assets/js/min/mcf-sponsored-native-ad.js?ver=1.1.1.8"></script>
+<script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-content/plugins/metrocorp-elasticpress-features/assets/js/elasticpress-metrocorp-features.js?ver=1456933636"></script>
+<script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-content/plugins/metrocorp-functionality/modules/native-advertising/assets/js/min/mcf-sponsored-native-ad.js?ver=1.1.2.4"></script>
 <script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-includes/js/underscore.min.js?ver=1.6.0"></script>
-<script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-content/plugins/metrocorp-functionality/modules/native-advertising/assets/js/min/mcf-native-ad.js?ver=1.1.1.8"></script>
+<script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-content/plugins/metrocorp-functionality/modules/native-advertising/assets/js/min/mcf-native-ad.js?ver=1.1.2.4"></script>
 <script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-content/plugins/metrocorp-functionality/assets/js/metrocorp.min.js?ver=1.2.0"></script>
+<script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.6-BM"></script>
+<script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.6-BM"></script>
+<script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-content/themes/BostonMagazine2/assets/js/prebuilt/library/isMobile.js?ver=0.4.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var bm_gpt_data = {"display_type":"article","targeting":{"channel":false,"category":false,"sponsor":false,"pageID":202141,"post_type":"page","page_template":false,"single":false,"paged":false,"archive":false},"device":"desktop"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-content/themes/BostonMagazine2/assets/js/min/boston_gpt.js?ver=2.0.2.21"></script>
+<script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-content/themes/BostonMagazine2/assets/js/min/boston_gpt.js?ver=2.0.33"></script>
+<script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-content/themes/BostonMagazine2/tests/js/ads.js?ver=1469638760"></script>
 <link rel="https://api.w.org/" href="http://www.bostonmagazine.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.bostonmagazine.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://cdn1.bostonmagazine.com/wp-includes/wlwmanifest.xml"> 
 <meta name="generator" content="WordPress 4.4.3">
-<link rel="shortlink" href="http://wp.me/P7mLJo-QAl">
+<link rel="shortlink" href="http://www.bostonmagazine.com/?p=202141">
 <link rel="alternate" type="application/json+oembed" href="http://www.bostonmagazine.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.bostonmagazine.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://www.bostonmagazine.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.bostonmagazine.com%2Fprivacy-policy%2F&amp;format=xml">
 <script type="text/javascript">window._taboola = window._taboola || [];
@@ -114,22 +156,36 @@ _taboola.push({article:'auto'});
 
 <!-- This site is patched which an important unfixed problem since WordPress 2.5+ -->
 
-<style type="text/css">img#wpstats{display:none}</style><script async="" type="text/javascript" src="//bostonmagazine.disqus.com/count.js"></script><script type="text/javascript" async="" src="//scdn.snapapp.com/widget/widget.js" id="eeload"></script><script async="" type="text/javascript" src="http://bostonmagazine.disqus.com/count.js"></script></head>
+<meta name="generator" content="Powered by Slider Revolution 5.2.6-BM - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<!--
+	generated in 0.893 seconds
+	61717 bytes batcached for 900 seconds
+-->
+<script async="" type="text/javascript" src="//bostonmagazine.disqus.com/count.js"></script><script type="text/javascript" async="" src="//scdn.snapapp.com/widget/widget.js" id="eeload"></script><script async="" type="text/javascript" src="http://bostonmagazine.disqus.com/count.js"></script></head>
 
     <body class="page page-id-202141 page-template page-template-page-about page-template-page-about-php" data-section-slug="post">
-    <div class="container">
+    <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WFHFBM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WFHFBM');</script>
+<!-- End Google Tag Manager -->
+<div class="container">
 
 	<header class="hp-header">
 		
 			<div class="connect">
-				<a href="https://twitter.com/BostonMagazine" class="twitter-follow-button" data-show-count="false" data-dnt="true">Follow @BostonMagazine</a>
+				<a href="https://twitter.com/BostonMagazine" rel="tweet" class="twitter-follow-button" data-show-count="false" data-dnt="true">Follow @BostonMagazine</a>
 				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 				<div class="fb-like" data-href="http://www.facebook.com/bostonmagazine" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false"></div>
 			</div> <!-- end .connect -->
 
 			<div class="left_ad">
                         <a href="/subscribenow" target="_BLANK">
-                        <img src="http://cdn1.bostonmagazine.com/wp-content/uploads/2016/03/subscribe86.jpg" alt="Advertisement">
+                        <img src="http://cdn1.bostonmagazine.com/wp-content/uploads/2015/12/subscribe-givegiftfree.png" alt="Advertisement">
                         </a>
 			</div> <!-- end .left_ad -->
 
@@ -169,11 +225,12 @@ _taboola.push({article:'auto'});
 <li id="menu-item-174701" class="menuRes menu-item menu-item-type-custom menu-item-object-custom menu-item-174701"><a href="http://www.bostonmagazine.com/restaurants/">Restaurants</a></li>
 <li id="menu-item-174731" class="menuArt menu-item menu-item-type-custom menu-item-object-custom menu-item-174731"><a href="http://www.bostonmagazine.com/arts-entertainment/">A&amp;E</a></li>
 <li id="menu-item-174721" class="menuHea menu-item menu-item-type-custom menu-item-object-custom menu-item-174721"><a href="http://www.bostonmagazine.com/health/">Health</a></li>
-<li id="menu-item-2069651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2069651"><a href="http://www.bostonmagazine.com/education/">Education</a></li>
 <li id="menu-item-174751" class="menuHom menu-item menu-item-type-custom menu-item-object-custom menu-item-174751"><a href="http://www.bostonmagazine.com/property">Property</a></li>
+<li id="menu-item-2069651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2069651"><a href="http://www.bostonmagazine.com/education-old/">Education</a></li>
+<li id="menu-item-2179668" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2179668"><a href="http://www.bostonmagazine.com/travel/">Travel</a></li>
 <li id="menu-item-174711" class="menuFas menu-item menu-item-type-custom menu-item-object-custom menu-item-174711"><a href="http://www.bostonmagazine.com/fashion-style/">Style</a></li>
 <li id="menu-item-174741" class="menuWed menu-item menu-item-type-custom menu-item-object-custom menu-item-174741"><a href="http://www.bostonmagazine.com/weddings/">Weddings</a></li>
-<li id="menu-item-174761" class="menuBes menu-item menu-item-type-custom menu-item-object-custom menu-item-174761"><a href="http://www.bestofboston.com/winners">Best of</a></li>
+<li id="menu-item-174761" class="menuBes menu-item menu-item-type-custom menu-item-object-custom menu-item-174761"><a href="http://www.bestofboston.com/winners">Best Of</a></li>
 <li id="menu-item-174771" class="menuMag menu-item menu-item-type-custom menu-item-object-custom menu-item-174771"><a href="http://www.bostonmagazine.com/magazine-archive/">Magazine</a></li>
 			</ul>
 			<div class="clearer"></div>
@@ -185,7 +242,8 @@ _taboola.push({article:'auto'});
 		<form method="get" id="searchform" action="http://www.bostonmagazine.com/search-results/" onsubmit="ga('metrocorpTracker.send', 'event', 'Search Form', 'search run', 'header-search-form');">
 	<input type="text" name="q" id="s" placeholder="search">
 	<input type="submit" name="submit" id="searchsubmit" value="">
-</form>	</div> <!-- end .search -->
+</form>            <a href="/subscribenow" target="_blank" id="sub-mobile">Subscribe</a>
+	</div> <!-- end .search -->
 			<section class="ad-970 large">
 
 			<!-- /307442/site195.tmus/hightop -->
@@ -267,11 +325,16 @@ _taboola.push({article:'auto'});
 		</section> <!-- end .content-wrapper -->
 
 		<section class="sidebar-wrapper page">
-			<!-- /307442/site195.tmus/toprailsponsor -->
+
+		<!-- /307442/site195.tmus/toprailsponsor -->
 		<div id="div-gpt-ad-1456889887424-0">
 			<script type="text/javascript">
 				googletag.cmd.push(function () {
 					googletag.display('div-gpt-ad-1456889887424-0');
+
+					if ( isMobile.any ) {
+						googletag.pubads().refresh( [bm_gpt_toprail] );
+					}
 				});
 			</script>
 		</div>
@@ -279,116 +342,126 @@ _taboola.push({article:'auto'});
 		<ol>
 							<li>
 					<h4>
-						<a href="http://www.bostonmagazine.com/news/blog/2016/06/06/natick-panera-lawsuit/" onclick="ga('metrocorpTracker.send', 'event', 'Most Popular Widget', 'click', 'mp-position-1');">
-							Natick Family Sues Panera over Sandwich, Allergic Reaction<span>»</span>
+						<a href="http://www.bostonmagazine.com/news/blog/2016/11/18/police-emergency-situation-boston-university/" onclick="ga('metrocorpTracker.send', 'event', 'Most Popular Widget', 'click', 'mp-position-1');">
+							Police Respond to ‘Emergency Situation’ at Boston University<span>»</span>
 						</a>
 					</h4>
 				</li>
 							<li>
 					<h4>
-						<a href="http://www.bostonmagazine.com/property/blog/2016/06/03/maine-vacation-paid/" onclick="ga('metrocorpTracker.send', 'event', 'Most Popular Widget', 'click', 'mp-position-2');">
-							You Can Get Paid to Move to Maine<span>»</span>
+						<a href="http://www.bostonmagazine.com/news/blog/2016/11/18/hate-crime-red-line/" onclick="ga('metrocorpTracker.send', 'event', 'Most Popular Widget', 'click', 'mp-position-2');">
+							Three Teenagers Charged With a Hate Crime on the Red Line<span>»</span>
 						</a>
 					</h4>
 				</li>
 							<li>
 					<h4>
-						<a href="http://www.bostonmagazine.com/news/blog/2016/06/06/mbta-orange-line-guide/" onclick="ga('metrocorpTracker.send', 'event', 'Most Popular Widget', 'click', 'mp-position-3');">
-							The Curmudgeon’s Guide to the Orange Line<span>»</span>
+						<a href="http://www.bostonmagazine.com/restaurants/blog/2016/11/17/uber-boston-restaurant-guide/" onclick="ga('metrocorpTracker.send', 'event', 'Most Popular Widget', 'click', 'mp-position-3');">
+							Here’s Uber’s Guide to the Most Popular Boston Restaurants<span>»</span>
 						</a>
 					</h4>
 				</li>
 							<li>
 					<h4>
-						<a href="http://www.bostonmagazine.com/news/article/2016/06/05/lissa-curtis-ballet-be-brave/" onclick="ga('metrocorpTracker.send', 'event', 'Most Popular Widget', 'click', 'mp-position-4');">
-							My (Tor)Mentor: A Ballerina’s Abuse and Her Fight to Be Brave<span>»</span>
+						<a href="http://www.bostonmagazine.com/health/blog/2016/11/17/beth-israel-mannequin-challenge/" onclick="ga('metrocorpTracker.send', 'event', 'Most Popular Widget', 'click', 'mp-position-4');">
+							Beth Israel Deaconess Took On the Mannequin Challenge<span>»</span>
 						</a>
 					</h4>
 				</li>
 							<li>
 					<h4>
-						<a href="http://www.bostonmagazine.com/health/blog/2016/06/06/jillian-diauto/" onclick="ga('metrocorpTracker.send', 'event', 'Most Popular Widget', 'click', 'mp-position-5');">
-							Real Weight Loss: Jillian Diauto<span>»</span>
+						<a href="http://www.bostonmagazine.com/arts-entertainment/blog/2016/11/16/dr-seuss-museum-springfield/" onclick="ga('metrocorpTracker.send', 'event', 'Most Popular Widget', 'click', 'mp-position-5');">
+							A Dr. Seuss Museum Will Open in Springfield Next Year<span>»</span>
 						</a>
 					</h4>
 				</li>
 							<li>
 					<h4>
-						<a href="http://www.bostonmagazine.com/news/blog/2016/06/06/massachusetts-school-districts-lead-water/" onclick="ga('metrocorpTracker.send', 'event', 'Most Popular Widget', 'click', 'mp-position-6');">
-							Lead Found in 20 Massachusetts School Districts’ Water<span>»</span>
+						<a href="http://www.bostonmagazine.com/news/blog/2016/11/17/mbta-absenteeism-data/" onclick="ga('metrocorpTracker.send', 'event', 'Most Popular Widget', 'click', 'mp-position-6');">
+							MBTA Doesn’t Want You to Know Anything About Absenteeism<span>»</span>
 						</a>
 					</h4>
 				</li>
 							<li style="margin-bottom:0;">
 					<h4>
-						<a href="http://www.bostonmagazine.com/arts-entertainment/blog/2016/05/23/free-fun-fridays-2016-boston-schedule/" onclick="ga('metrocorpTracker.send', 'event', 'Most Popular Widget', 'click', 'mp-position-7');">
-							Free Fun Fridays 2016 Schedule – 80 Sites Offering Free Admission This Summer<span>»</span>
+						<a href="http://www.bostonmagazine.com/news/blog/2016/11/18/ernie-boch-donald-trump-administration/" onclick="ga('metrocorpTracker.send', 'event', 'Most Popular Widget', 'click', 'mp-position-7');">
+							Ernie Boch Wants Role in Donald Trump’s Administration<span>»</span>
 						</a>
 					</h4>
 				</li>
 					</ol>
-<!-- Generated at 2016-06-07 15:36:16 --></div> <!-- end .mostPopular --></aside><aside id="ad_300x250-37" class="widget box widget_ad_300x250">		<div id="bm_gpt_sidebar_300_1" class="sidebar_widget_ad300 sidebar_widget_ad-1">
-			<script>
-				googletag.cmd.push(function () {
-					googletag.display('bm_gpt_sidebar_300_1');
-					
-				});
-			</script>
+<!-- Generated at 2016-11-19 12:20:06 --></div> <!-- end .mostPopular --></aside><aside id="ad_300x250-37" class="widget box widget_ad_300x250 hidden">		<div id="bm_gpt_sidebar_300_1" class="sidebar_widget_ad300 sidebar_widget_ad-1 hidden">
 		</div>
-		</aside><aside id="text-134" class="widget box widget_text">			<div class="textwidget"><p style="text-align:center;"><a href="http://bestofboston.com" target="_blank"><img style="margin:15px auto 0 auto;" src="http://cdn1.bostonmagazine.com/wp-content/uploads/2015/10/rr-bestof.jpg"></a></p>
+		<script>
+			var elem = document.getElementById( 'bm_gpt_sidebar_300_1' );
+			if ( 'aside' === elem.parentNode.nodeName.toLowerCase() ) {
+				elem.parentNode.classList.add( 'hidden' );
+			}
 
-<hr style="clear: both;margin: 1em 0 0;">
-</div>
-		</aside><aside id="ad_300x250-38" class="widget box widget_ad_300x250">		<div id="bm_gpt_sidebar_300_2" class="sidebar_widget_ad300 sidebar_widget_ad-2">
-			<script>
-				googletag.cmd.push(function () {
-					googletag.display('bm_gpt_sidebar_300_2');
-					
-				});
-			</script>
+			if ( ! isMobile.any ) {					elem.classList.remove( 'hidden' );
+					elem.parentNode.classList.remove( 'hidden' );
+
+					googletag.cmd.push( function () {
+						googletag.display( 'bm_gpt_sidebar_300_1' );
+											} );
+				}
+		</script>
+		</aside><aside id="hubspot_newsletters-20" class="widget box widget_hubspot_newsletters"><h3 class="widget-title"><a href="http://www.bostonmagazine.com/newsletters/">Newsletters</a></h3><div class="bm-hubspot-form-wrapper">		 <!--[if lte IE 8]>
+		<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+		<![endif]-->
+		<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+		<script>
+		    // initiate the hubspot form and pass the formId and portalId attributes
+		    hbspt.forms.create( {"portalId":"510637","formId":"e90cf240-b5dd-4125-987b-a74c163b9989","target":".bm-hubspot-form-wrapper","cssClass":"hubspot-form","submitButtonClass":"hubspot-button","css":"\t\t.hubspot-form { width: 100%; margin: 10px 0; font-family: \"Georgia\",\"Times New Roman\",serif; }\n\t\t.hs-form-field { display: block; width: 100%; margin-bottom: 15px; clear: both; }\n\t\t.hs-form-field label { display: inline-block; width: 140px; max-width: 30%; font-size: 16px; }\n\t\t.hs-form-field ul.hs-error-msgs { list-style: none; }\n\t\t.hs-form-field ul.hs-error-msgs label { display: inline; color: red; font-size: 14px; width: 100%; max-width: 100%; clear: both; }\n\t\t.hs-form-field .input { display: inline-block; width: 300px; max-width: 100%; margin-left: 5px; }\n\t\t.hs-form-field .input input { width: 100%; border: 1px solid #ccc; padding: 6px 3px 5px 8px; font-size: 14px; font-family: \"Georgia\",\"Times New Roman\",serif; }\n\t\t.hs-form-field .input input:required { background-color: #fff;  }\n\t\tul.inputs-list { display: block; list-style: none; width: 100%; padding-left: 0px; }\n\t\tul.inputs-list li { display: inline-block; width: 100%; }\n\t\tul.inputs-list li label span { font-size: 14px; padding-left: 8px; }\n\t\t.hs_newsletter_lists label { display: block; width: 100%; max-width: 100%; clear: both; }\n\t\t.hs_newsletter_lists .input { display: block; width: 100%; }\n\t\t.hs_newsletter_lists .input input { width: auto; padding: 0; }\n\t\tlabel.hs-form-checkbox-display input { width: 5%; }\n\t\tlabel.hs-form-checkbox-display span { width: 95%; float: right; }\n\t\t.hubspot-button { display: block; font-weight: bold; text-transform: uppercase; padding: 10px 15px; background-color: #ccc; border: 0; }\n\t\t.hubspot-button:hover { background-color: #c3c3c3; }\n\t\t.widget_hubspot_newsletters .hs-form-field .input { margin-left: 0; padding: 0; }\n\t\t.widget_hubspot_newsletters .hs_email label { display: none; }","redirectUrl":"http:\/\/www.bostonmagazine.com\/newsletter-signup-thanks\/"} );
+		</script>
+		
+		</div></aside><aside id="ad_300x250-38" class="widget box widget_ad_300x250 hidden">		<div id="bm_gpt_sidebar_300_2" class="sidebar_widget_ad300 sidebar_widget_ad-2 hidden">
 		</div>
-		</aside><aside id="text-5" class="widget box widget_text">			<div class="textwidget"><div class="subscribe">
-			<h3 class="display"><a href="http://www.bostonmagazine.com/subscribewidget" target="_blank">Subscribe</a></h3>
-			<a href="http://www.bostonmagazine.com/subscribewidget" target="_blank"><img src="http://cdn1.bostonmagazine.com/wp-content/uploads/2016/05/boston-magazine-june-2016-cover-widget.jpg"></a>
-			<ul>
-				<li><a href="http://www.bostonmagazine.com/subscribewidget" target="_blank">Subscribe Now</a></li>
-				<li><a href="https://secure.palmcoastd.com/pcd/eSv?iMagId=16102&amp;i4Ky=IGRX">Give a Gift</a></li>
-				<li><a href="https://secure.palmcoastd.com/pcd/eServ?iServ=MTYxMDI1NDU0Ng==">Customer Service</a></li>
-				<li><a href="http://www.bostonmagazine.com/boston-magazine/june/2016/">Table of Contents</a></li>
-			</ul>
- <div class="clearer"></div>
-</div></div>
-		</aside><aside id="featured_stories-2" class="widget box widget_featured_stories"><h3 class="widget-title">Featured Stories</h3>	<ul>
+		<script>
+			var elem = document.getElementById( 'bm_gpt_sidebar_300_2' );
+			if ( 'aside' === elem.parentNode.nodeName.toLowerCase() ) {
+				elem.parentNode.classList.add( 'hidden' );
+			}
+
+			if ( ! isMobile.any ) {					elem.classList.remove( 'hidden' );
+					elem.parentNode.classList.remove( 'hidden' );
+
+					googletag.cmd.push( function () {
+						googletag.display( 'bm_gpt_sidebar_300_2' );
+											} );
+				}
+		</script>
+		</aside><aside id="featured_stories-12" class="widget box widget_featured_stories"><h3 class="widget-title">Featured Stories</h3>	<ul>
 
 			<li>
-							<a href="http://www.bostonmagazine.com/news/article/2016/05/29/boston-herald-hard-pressed/" onclick="ga('metrocorpTracker.send', 'event', 'Featured Stories Widget', 'click', 'fs-position-1');">
-					<img width="106" height="102" src="http://cdn1.bostonmagazine.com/wp-content/uploads/2016/05/boston-herald-hard-pressed-sq-106x102.jpg" class="attachment-bm-buzzworthy size-bm-buzzworthy" alt="boston herald hard pressed sq">				</a>
+							<a href="http://www.bostonmagazine.com/restaurants/article/2016/10/30/tiger-mama-restaurant-interior-design/" onclick="ga('metrocorpTracker.send', 'event', 'Featured Stories Widget', 'click', 'fs-position-1');">
+					<img width="106" height="102" src="http://cdn1.bostonmagazine.com/wp-content/uploads/2016/10/tiger-mama-restaurant-design-sq-106x102.jpg" class="attachment-bm-buzzworthy size-bm-buzzworthy" alt="tiger mama restaurant design sq">				</a>
 						<div class="sideText">
 				<p class="widget_headline">
-					<a href="http://www.bostonmagazine.com/news/article/2016/05/29/boston-herald-hard-pressed/" onclick="ga('metrocorpTracker.send', 'event', 'Featured Stories Widget', 'click', 'fs-position-1');">
-						Will the Herald Survive?					</a>
+					<a href="http://www.bostonmagazine.com/restaurants/article/2016/10/30/tiger-mama-restaurant-interior-design/" onclick="ga('metrocorpTracker.send', 'event', 'Featured Stories Widget', 'click', 'fs-position-1');">
+						How Tiger Mama Reversed the Curse					</a>
 				</p>
 				
 			</div> <!-- end .sideText -->
 		</li>
 			<li>
-							<a href="http://www.bostonmagazine.com/arts-entertainment/blog/2016/05/28/boston-calling-spring-2016-photos/" onclick="ga('metrocorpTracker.send', 'event', 'Featured Stories Widget', 'click', 'fs-position-2');">
-					<img width="106" height="102" src="http://cdn1.bostonmagazine.com/wp-content/uploads/2016/05/sia-sq-106x102.jpg" class="attachment-bm-buzzworthy size-bm-buzzworthy" alt="sia sq">				</a>
+							<a href="http://www.bostonmagazine.com/news/blog/2016/11/11/salary-survey/" onclick="ga('metrocorpTracker.send', 'event', 'Featured Stories Widget', 'click', 'fs-position-2');">
+					<img width="106" height="102" src="http://cdn1.bostonmagazine.com/wp-content/uploads/2016/11/piggy-bank-house-sq-106x102.jpg" class="attachment-bm-buzzworthy size-bm-buzzworthy" alt="">				</a>
 						<div class="sideText">
 				<p class="widget_headline">
-					<a href="http://www.bostonmagazine.com/arts-entertainment/blog/2016/05/28/boston-calling-spring-2016-photos/" onclick="ga('metrocorpTracker.send', 'event', 'Featured Stories Widget', 'click', 'fs-position-2');">
-						Scenes from Boston Calling					</a>
+					<a href="http://www.bostonmagazine.com/news/blog/2016/11/11/salary-survey/" onclick="ga('metrocorpTracker.send', 'event', 'Featured Stories Widget', 'click', 'fs-position-2');">
+						Take Our Exclusive Salary Survey					</a>
 				</p>
 				
 			</div> <!-- end .sideText -->
 		</li>
 			<li>
-							<a href="http://www.bostonmagazine.com/news/article/2016/06/05/lissa-curtis-ballet-be-brave/" onclick="ga('metrocorpTracker.send', 'event', 'Featured Stories Widget', 'click', 'fs-position-3');">
-					<img width="106" height="102" src="http://cdn1.bostonmagazine.com/wp-content/uploads/2016/05/lissa-curtis-ballet-dancer-sq2-106x102.jpg" class="attachment-bm-buzzworthy size-bm-buzzworthy" alt="lissa curtis ballet dancer sq2">				</a>
+							<a href="http://www.bostonmagazine.com/arts-entertainment/blog/2016/11/01/holiday-events-boston-2016/" onclick="ga('metrocorpTracker.send', 'event', 'Featured Stories Widget', 'click', 'fs-position-3');">
+					<img width="106" height="102" src="http://cdn1.bostonmagazine.com/wp-content/uploads/2016/11/christmas-tree-2013-by-maggie-1-106x102.jpg" class="attachment-bm-buzzworthy size-bm-buzzworthy" alt="christmas tree 2013 by maggie">				</a>
 						<div class="sideText">
 				<p class="widget_headline">
-					<a href="http://www.bostonmagazine.com/news/article/2016/06/05/lissa-curtis-ballet-be-brave/" onclick="ga('metrocorpTracker.send', 'event', 'Featured Stories Widget', 'click', 'fs-position-3');">
-						My (Tor)Mentor					</a>
+					<a href="http://www.bostonmagazine.com/arts-entertainment/blog/2016/11/01/holiday-events-boston-2016/" onclick="ga('metrocorpTracker.send', 'event', 'Featured Stories Widget', 'click', 'fs-position-3');">
+						Holiday Events Roundup					</a>
 				</p>
 				
 			</div> <!-- end .sideText -->
@@ -397,22 +470,12 @@ _taboola.push({article:'auto'});
 	</ul>
 	<div class="clearer"></div>
 
-</aside>		<aside id="recent_posts_widget-5" class="widget box widget_recent_posts_widget">		<h3 class="widget-title">This Just In</h3>					<article class="sidebarJustInArticle">
-																				<span class="category category-150871">
-							Research						</span>
+</aside>		<aside id="recent_posts_widget-18" class="widget box widget_recent_posts_widget">		<h3 class="widget-title">This Just In</h3>					<article class="sidebarJustInArticle">
+																				<span class="category category-13231">
+							Arts						</span>
 													<h2>
-					<a href="http://www.bostonmagazine.com/health/blog/2016/06/07/american-obesity-rate/">
-						Study: Almost 40 Percent of Americans Are Obese					</a>
-				</h2>
-									<span class="author">
-						By Jamie Ducharme					</span>
-							</article>
-					<article class="sidebarJustInArticle">
-																				<span class="category category-162965">
-							Architecture						</span>
-													<h2>
-					<a href="http://www.bostonmagazine.com/property/blog/2016/06/07/common-boston-2016-instagrams/">
-						Scenes from Common Boston 2016					</a>
+					<a href="http://www.bostonmagazine.com/property/blog/2016/11/18/abandoned-house-jp-public-art/">
+						An Abandoned House in JP Has Turned into a Public Art Project					</a>
 				</h2>
 									<span class="author">
 						By Madeline Bilis					</span>
@@ -421,87 +484,102 @@ _taboola.push({article:'auto'});
 																				<span class="category category-79471">
 							Restaurant Openings						</span>
 													<h2>
-					<a href="http://www.bostonmagazine.com/restaurants/blog/2016/06/07/oath-craft-pizza-davis-square/">
-						Oath Craft Pizza Is Now Open in Davis Square					</a>
+					<a href="http://www.bostonmagazine.com/restaurants/blog/2016/11/18/eataly-boston-photos/">
+						Photos: An Early Look Inside Eataly Boston					</a>
 				</h2>
 									<span class="author">
-						By Alex Wilking					</span>
+						By Jenna Pelletier					</span>
 							</article>
 					<article class="sidebarJustInArticle">
-																				<span class="category category-2021">
-							News						</span>
+																				<span class="category category-13641">
+							Politics						</span>
 													<h2>
-					<a href="http://www.bostonmagazine.com/news/blog/2016/06/07/cambridge-columbus-day-indigenous-peoples/">
-						Cambridge City Council Votes to Rename Columbus Day					</a>
+					<a href="http://www.bostonmagazine.com/news/blog/2016/11/18/charlie-baker-donald-trump-pre-judging/">
+						Is It Still Too Early to Judge Donald Trump, Charlie Baker?					</a>
 				</h2>
 									<span class="author">
-						By Matt Juul					</span>
+						By Kyle Scott Clauss					</span>
 							</article>
 					<article class="sidebarJustInArticle">
-																				<span class="category category-321">
-							Nutrition						</span>
+																				<span class="category category-13231">
+							Arts						</span>
 													<h2>
-					<a href="http://www.bostonmagazine.com/health/blog/2016/06/07/lighter-meal-plans/">
-						This Local Startup Wants to Give You Expert Nutrition Advice, for Free					</a>
+					<a href="http://www.bostonmagazine.com/arts-entertainment/blog/2016/11/18/massed-media-mfa/">
+						‘Massed Media’ at the MFA Celebrates the Interconnectedness of Art					</a>
+				</h2>
+									<span class="author">
+						By John Paradiso					</span>
+							</article>
+					<article class="sidebarJustInArticle">
+																				<span class="category category-62611">
+							Health News						</span>
+													<h2>
+					<a href="http://www.bostonmagazine.com/health/blog/2016/11/18/crystal-emery/">
+						This Woman Is Trying to Change the Face of Medicine					</a>
 				</h2>
 									<span class="author">
 						By Jamie Ducharme					</span>
 							</article>
 					<article class="sidebarJustInArticle">
-																				<span class="category category-13361">
-							Crime						</span>
+																				<span class="category category-162960">
+							Shopping						</span>
 													<h2>
-					<a href="http://www.bostonmagazine.com/news/blog/2016/06/07/wpi-rape-victim/">
-						Worcester Polytechnic Institute Claims Rape Victim Shares Responsibility for Assault					</a>
+					<a href="http://www.bostonmagazine.com/property/blog/2016/11/18/gifts-from-boston-shops/">
+						50 Gifts Under $50 from Local Shops					</a>
 				</h2>
 									<span class="author">
-						By Matt Juul					</span>
+						By Madeline Bilis					</span>
 							</article>
-				</aside><aside id="ad_160x600-2" class="widget box widget_ad_160x600">			<figure class="ad-160 article-page">
-				<!-- /307442/site195.tmus/160x600 -->
-				<div id="div-gpt-ad-1455827624451-0" style="height:600px; width:160px;">
-					<script type="text/javascript">
-						googletag.cmd.push(function () {
-							googletag.display('div-gpt-ad-1455827624451-0');
-						});
-					</script>
-				</div>
-			</figure>
+		                <div id="justin_bottom"></div>		</aside><aside id="ad_160x600-15" class="widget box widget_ad_160x600">		<figure class="ad-160 article-page hidden">
+			<!-- /307442/site195.tmus/160x600 -->
+			<div id="div-gpt-ad-1455827624451-0" style="height:600px; width:160px;">
+				<script type="text/javascript">
+					if ( ! isMobile.any ) {
+						var elemad160articlepage = document.querySelector( '.ad-160.article-page.hidden' );
+						elemad160articlepage.classList.remove( 'hidden' );
 
-			</aside><aside id="buzzworthy-2" class="widget box widget_buzzworthy"><img style="border: 0" src="http://cdn1.bostonmagazine.com/wp-content/themes/BostonMagazine2/images/buzzworthy.jpg"><h4 class="buzz">Promotions &amp; Events</h4>	<div class="buzzworthy">
+						googletag.cmd.push( function () {
+							googletag.display( 'div-gpt-ad-1455827624451-0' );
+						} );
+					}
+				</script>
+			</div>
+		</figure>
+
+		</aside><aside id="buzzworthy-2" class="widget box widget_buzzworthy"><img style="border: 0" src="http://cdn1.bostonmagazine.com/wp-content/themes/BostonMagazine2/images/buzzworthy.jpg"><h4 class="buzz">Promotions &amp; Events</h4>	<div class="buzzworthy">
 		<ul>
 
 								<li>
-									<a href="http://www.bostonmagazine.com/bm-featured-item/best-of-boston/" onclick="ga('metrocorpTracker.send', 'event', 'Trending Events Widget', 'click', 'te-position-1');">
-						<img width="90" height="102" src="http://cdn1.bostonmagazine.com/wp-content/uploads/2015/12/image-90x102.jpg" class="attachment-bm-buzzworthy size-bm-buzzworthy" alt="">					</a>
+									<a href="http://www.bostonmagazine.com/guidetoprivateschools/" onclick="ga('metrocorpTracker.send', 'event', 'Trending Events Widget', 'click', 'te-position-1');">
+						<img width="90" height="102" src="http://cdn1.bostonmagazine.com/wp-content/uploads/2016/10/GTPS-2017-Cover-1-3-90x102.jpg" class="attachment-bm-buzzworthy size-bm-buzzworthy" alt="GTPS-2017-Cover-1">					</a>
 								<div class="sideText">
-					<h4><a href="http://www.bostonmagazine.com/bm-featured-item/best-of-boston/" onclick="ga('metrocorpTracker.send', 'event', 'Trending Events Widget', 'click', 'te-position-1');">Best of Boston</a></h4>
-					<p><em>Boston</em> magazine has spent over 40 years uncovering the city’s best-kept secrets, and at <a href="http://www.bestofboston.com/" target="_blank">BestofBoston.com</a>, we’re giving you the key to the vault.</p>
-				</div> <!-- end .sideText -->
-			</li>
-								<li>
-									<a href="http://connect.metrocorpmedia.com/files/html/flipbooks/gtps2016/gtps2016.htm#?page=0" onclick="ga('metrocorpTracker.send', 'event', 'Trending Events Widget', 'click', 'te-position-2');">
-						<img width="90" height="102" src="http://cdn1.bostonmagazine.com/wp-content/uploads/2015/10/Untitled-15-90x102.jpg" class="attachment-bm-buzzworthy size-bm-buzzworthy" alt="Untitled-1">					</a>
-								<div class="sideText">
-					<h4><a href="http://connect.metrocorpmedia.com/files/html/flipbooks/gtps2016/gtps2016.htm#?page=0" onclick="ga('metrocorpTracker.send', 'event', 'Trending Events Widget', 'click', 'te-position-2');">Guide to Private Schools</a></h4>
-					<p>Boston's 2016 Guide to Private Schools is now out. Check out the latest edition <a href="http://connect.metrocorpmedia.com/files/html/flipbooks/gtps2016/gtps2016.htm#?page=0">here</a>!</p>
-				</div> <!-- end .sideText -->
-			</li>
-								<li>
-									<a href="http://www.bostonmagazine.com/cueandburger/" onclick="ga('metrocorpTracker.send', 'event', 'Trending Events Widget', 'click', 'te-position-3');">
-						<img width="92" height="102" src="http://cdn1.bostonmagazine.com/wp-content/uploads/2016/03/BoB-Resize-92x102.jpg" class="attachment-bm-buzzworthy size-bm-buzzworthy" alt="BoB-Resize">					</a>
-								<div class="sideText">
-					<h4><a href="http://www.bostonmagazine.com/cueandburger/" onclick="ga('metrocorpTracker.send', 'event', 'Trending Events Widget', 'click', 'te-position-3');">The Cue and Battle of the Burger</a></h4>
-					<p><a href="http://www.bostonmagazine.com/burgervote-2016/" target="_blank">Vote</a> for your favorite burger every day through July 6! Only the top 25 make it to Battle of the Burger on August 10.
+					<h4><a href="http://www.bostonmagazine.com/guidetoprivateschools/" onclick="ga('metrocorpTracker.send', 'event', 'Trending Events Widget', 'click', 'te-position-1');">2017 Guide to Private Schools</a></h4>
+					<p><a href="http://www.bostonmagazine.com/guidetoprivateschools/" target="_blank">View our annual guide</a> to local private schools created in partnership with the Association of Independent Schools in New England.
 </p>
 				</div> <!-- end .sideText -->
 			</li>
 								<li>
-									<a href="http://connect.metrocorpmedia.com/files/html/flipbooks/gtcu16/gtcu16.htm" onclick="ga('metrocorpTracker.send', 'event', 'Trending Events Widget', 'click', 'te-position-4');">
+									<a href="http://www.bestofboston.com/" onclick="ga('metrocorpTracker.send', 'event', 'Trending Events Widget', 'click', 'te-position-2');">
+						<img width="90" height="102" src="http://cdn1.bostonmagazine.com/wp-content/uploads/2015/12/image-90x102.jpg" class="attachment-bm-buzzworthy size-bm-buzzworthy" alt="">					</a>
+								<div class="sideText">
+					<h4><a href="http://www.bestofboston.com/" onclick="ga('metrocorpTracker.send', 'event', 'Trending Events Widget', 'click', 'te-position-2');">Best of Boston</a></h4>
+					<p><em>Boston</em> magazine has spent over 40 years uncovering the city’s best-kept secrets, and at <a href="http://www.bestofboston.com/" target="_blank">BestofBoston.com</a>, we’re giving you the key to the vault.</p>
+				</div> <!-- end .sideText -->
+			</li>
+								<li>
+									<a href="http://connect.metrocorpmedia.com/files/html/flipbooks/gtcu16/gtcu16.htm" onclick="ga('metrocorpTracker.send', 'event', 'Trending Events Widget', 'click', 'te-position-3');">
 						<img width="90" height="102" src="http://cdn1.bostonmagazine.com/wp-content/uploads/2015/12/new-module-item-90x102.jpg" class="attachment-bm-buzzworthy size-bm-buzzworthy" alt="">					</a>
 								<div class="sideText">
-					<h4><a href="http://connect.metrocorpmedia.com/files/html/flipbooks/gtcu16/gtcu16.htm" onclick="ga('metrocorpTracker.send', 'event', 'Trending Events Widget', 'click', 'te-position-4');">2016 Guide to New England Colleges and Universities</a></h4>
+					<h4><a href="http://connect.metrocorpmedia.com/files/html/flipbooks/gtcu16/gtcu16.htm" onclick="ga('metrocorpTracker.send', 'event', 'Trending Events Widget', 'click', 'te-position-3');">2016 Guide to New England Colleges and Universities</a></h4>
 					<p><em>Boston</em> magazine partnered with The New England Board of Higher Education to teach readers about the vast educational options in the area. View the guide <a href="http://connect.metrocorpmedia.com/files/html/flipbooks/gtcu16\gtcu16.htm" target="_blank">here</a> to learn more!</p>
+				</div> <!-- end .sideText -->
+			</li>
+								<li>
+									<a href="http://www.bostonmagazine.com/taste/#tickets" onclick="ga('metrocorpTracker.send', 'event', 'Trending Events Widget', 'click', 'te-position-4');">
+						<img width="100" height="80" src="http://cdn1.bostonmagazine.com/wp-content/uploads/2016/09/Taste-231.jpg" class="attachment-bm-buzzworthy size-bm-buzzworthy" alt="Taste-231">					</a>
+								<div class="sideText">
+					<h4><a href="http://www.bostonmagazine.com/taste/#tickets" onclick="ga('metrocorpTracker.send', 'event', 'Trending Events Widget', 'click', 'te-position-4');">Taste 2016</a></h4>
+					<p>Join us on November 15 to sample cuisine from the very best restaurants in town, as featured in our November ‘Top New Restaurants’ issue at the Boston Children’s Museum. <a href="http://www.bostonmagazine.com/taste/#tickets" target="_blank">Click here</a> to purchase tickets.</p>
 				</div> <!-- end .sideText -->
 			</li>
 		
@@ -532,7 +610,7 @@ _taboola.push({article:'auto'});
 			<li id="menu-item-174641" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-174641"><a href="http://www.bostonmagazine.com/about/">About</a></li>
 <li id="menu-item-203231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-203231"><a href="http://www.bostonmagazine.com/contact/">Contact</a></li>
 <li id="menu-item-461741" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-461741"><a href="http://www.bostonmagazine.com/masthead/">Masthead</a></li>
-<li id="menu-item-174651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174651"><a href="https://secure.palmcoastd.com/pcd/eSv?iMagId=16102&amp;i4Ky=IZFX">Subscribe</a></li>
+<li id="menu-item-174651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174651"><a href="https://secure.palmcoastd.com/pcd/eSv?iMagId=16102&amp;i4Ky=IHFX">Subscribe</a></li>
 <li id="menu-item-174671" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174671"><a href="http://www.bostonmagazine.com/mediakit">Advertise</a></li>
 <li id="menu-item-174661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-174661"><a href="https://secure.palmcoastd.com/pcd/eServ?iServ=MTYxMDI1NDU0Ng">Customer Service</a></li>
 <li id="menu-item-232691" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232691"><a href="http://www.bostonmagazine.com/internships/">Internships</a></li>
@@ -544,21 +622,31 @@ _taboola.push({article:'auto'});
 	</footer>
 	</div> <!-- end .container -->
 
-<div id="fb-root"></div>
-
-		<!-- /307442/site195.tmus/skin -->
-		<div id="bm_gpt_skin" style="height:1px; width:1px;">
+	<div class="fixed_ad mobile hidden">
+		<div class="close_but"></div>
+				<!-- /307442/site195.tmus/bottom_mobile -->
+		<div id="bm_gpt_mobile_footer">
 			<script type="text/javascript">
-				googletag.cmd.push(function () {
-					googletag.display('bm_gpt_skin');
-									});
+				if ( isMobile.phone ) {
+					document.querySelector( '.fixed_ad.mobile' ).classList.remove( 'hidden' );
+					googletag.cmd.push( function () {
+						googletag.display( 'bm_gpt_mobile_footer' );
+						googletag.pubads().refresh( [bm_gpt_mobile_footer] );
+					} );
+				}
 			</script>
 		</div>
-					<!-- /307442/site195.tmus/interstitial -->
+			</div>
+<div id="fb-root"></div>
+
+			<!-- /307442/site195.tmus/interstitial -->
 			<div id="bm_gpt_interstitial" style="height:1px; width:1px;">
 				<script type="text/javascript">
 					googletag.cmd.push(function () {
 						googletag.display('bm_gpt_interstitial');
+												if ( isMobile.any ) {
+							googletag.pubads().refresh( [bm_gpt_interstitial] );
+						}
 											});
 				</script>
 			</div>
@@ -590,8 +678,6 @@ _taboola.push({flush: true});</script>
 
 <!-- This site is patched which an important unfixed problem since WordPress 2.5+ -->
 
-	<div style="display:none">
-	</div>
 	<!-- Google Analytics -->
 	<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -729,19 +815,11 @@ var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","c
 </script>
 <script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105"></script>
 <script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-content/plugins/metrocorp-image-gallery/assets/js/src/jquery.royalslider.min.js?ver=9.9.5.1"></script>
-<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201623"></script>
-<script type="text/javascript" src="http://s.gravatar.com/js/gprofiles.js?ver=2016Junaa"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var WPGroHo = {"my_hash":""};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.4.3"></script>
 <script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-content/themes/BostonMagazine2/assets/js/prebuilt/library/jQuery.equalHeights.js?ver=2.0"></script>
-<script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-content/themes/BostonMagazine2/assets/js/min/boston_script.js?ver=2.0.2.21"></script>
+<script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-content/themes/BostonMagazine2/assets/js/min/boston_script.js?ver=2.0.33"></script>
 <script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-content/themes/BostonMagazine2/assets/js/prebuilt/library/modernizr-3.2.0.min.js?ver=3.2.0"></script>
 <script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-content/themes/BostonMagazine2/assets/js/prebuilt/library/respond.min.js?ver=3.0"></script>
-<script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-content/themes/BostonMagazine2/assets/js/prebuilt/library/jquery.fitvids.js?ver=2.0.2.21"></script>
+<script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-content/themes/BostonMagazine2/assets/js/prebuilt/library/jquery.fitvids.js?ver=2.0.33"></script>
 <script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-content/themes/BostonMagazine2/assets/js/prebuilt/library/jquery.placeholder.js?ver=1.0"></script>
 <script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-includes/js/comment-reply.min.js?ver=4.4.3"></script>
 <script type="text/javascript" src="http://cdn1.bostonmagazine.com/wp-includes/js/wp-embed.min.js?ver=4.4.3"></script>
@@ -755,12 +833,5 @@ var WPGroHo = {"my_hash":""};
 			})(document,"script","hs-analytics",300000);
 		</script>
 		<!-- End of Async HubSpot Analytics Code -->
-		<script type="text/javascript" src="http://stats.wp.com/e-201623.js" async="" defer=""></script>
-<script type="text/javascript">
-	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:3.8.2',blog:'108861050',post:'202141',tz:'-4',srv:'www.bostonmagazine.com'} ]);
-	_stq.push([ 'clickTrackerInit', '108861050', '202141' ]);
-</script>
-
-
+		
 </body></html>
