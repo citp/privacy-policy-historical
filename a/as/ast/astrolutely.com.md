@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrolutely.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605235909id_/http%3A//www.astrolutely.com/privacy.php%23cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrolutely.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119073959id_/http%3A//www.astrolutely.com/privacy.php%23cookies) for the most accurate reproduction.*
 
 # Privacy Information for Astrolutely.com
 
