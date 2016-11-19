@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyperlinkcode.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529060443id_/http%3A//www.hyperlinkcode.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperlinkcode.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119051528id_/http%3A//www.hyperlinkcode.com/blog/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,8 +21,6 @@ We may use Personally Identifiable Information collected on HyperlinkCode.com to
 Personally Identifiable Information collected by HyperlinkCode.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
 
 Google Analytics
-
-Google analytics 
 
 Affiliated sites, linked sites and advertisements
 
