@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the projectviewercentral.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423044538id_/http%3A//www.projectviewercentral.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectviewercentral.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119051730id_/http%3A//projectviewercentral.com/about/privacy.html) for the most accurate reproduction.*
 
-# Project Viewer Central Privacy Policy
+# Project Plan 365 Privacy Policy
 
 ### Information Automatically Logged
 
-> > Viewer Central, Inc.& www.projectviewercentral.com use your IP address to help us diagnose any problems with our server and to administer our web site.
+Housatonic, Inc and ProjectViewerCentral.com use your IP address to help us diagnose any problems with our server and to administer our web site.
 
 ### Cookies
 
@@ -16,7 +16,7 @@ It is possible that any ads from outside companies/organizations that appear on 
 
 ### Personal Information
 
-All personal information gathered by Viewer Central & www.projectviewercentral.com is used solely by us and no third parties.
+All personal information gathered by Housatonic, Inc and ProjectViewerCentral.com is used solely by us and no third parties.
 
 ### E-mail Addresses
 
@@ -26,8 +26,8 @@ We may, from time to time, offer the opportunity to subscribe to newsletter or o
 
 ### External Links
 
-Viewer Central & www.projectviewercentral.com contain links to other sites. We are not responsible for the privacy practices or the content of these web sites.
+Housatonic, Inc and ProjectViewerCentral.com contain links to other sites. We are not responsible for the privacy practices or the content of these web sites.
 
 ### Contacting Us
 
-If you have any questions about this privacy statement, or any other concerns relative to this site, please contact us at [sales@projectviewercentral.com](mailto:sales@projectviewercentral.com).
+If you have any questions about this privacy statement, or any other concerns relative to this site, please contact us at [sales@projectviewercentral.com](mailto:sales@projectviewercentral.com). 
