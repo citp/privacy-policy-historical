@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hornymatches.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624202938id_/http%3A//www.hornymatches.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hornymatches.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119012756id_/http%3A//hornymatches.com/privacy.php) for the most accurate reproduction.*
 
 # HornyMatches.com Adult Personals Online Sex Dating site
 
@@ -9,7 +9,7 @@
 sex personals and beyond  
   
 ---  
-| [**HOME**](https://web.archive.org/) | [> **JOIN NOW**](https://web.archive.org/join.php) | [**BROWSE**](https://web.archive.org/freebrowse.php) | [**HELP**](https://web.archive.org/help.php) | [**AFFILIATES**](https://web.archive.org/affiliates.php) | [**ABOUT**](https://web.archive.org/about.php)  
+| [**HOME**](https://web.archive.org/) | [> **JOIN NOW**](https://web.archive.org/join.php) | [**BROWSE**](https://web.archive.org/freebrowse.php) | [**HELP**](https://web.archive.org/help.php) | [**AFFILIATES**](https://web.archive.org/affiliates.php) |   
 ---|---|---|---|---|---  
   
 |   
