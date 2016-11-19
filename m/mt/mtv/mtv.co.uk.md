@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtv.co.uk privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521223941id_/http%3A//www.mtv.co.uk/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtv.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119112032id_/http%3A//www.mtv.co.uk/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MTV UK
 
@@ -76,7 +76,7 @@ We also reserve the right to access and disclose your personal information in or
 
 Some of the partners and third parties with whom we share your information for the purposes set out above may be outside of the European Union and in countries which may provide a lower standard of protection for personal data, by using our online services you consent to the transfer of your personal information outside of the EU.
 
-Please be advised that your personal information may be transferred to and processed by our affiliates in the United States.  Please see the Viacom policy [http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harb... ](http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harb...)for detailed information on these affiliates' privacy practices.
+Please be advised that your personal information may be transferred to and processed by our affiliates in the United States.  Please see the [Viacom policy](http://origin.www.viacom.com/privacypolicy/Documents/Privacy_Shield_Privacy_Policy_Viacom.pdf) for detailed information on these affiliates' privacy practices.
 
 **5.      OUR ONLINE COMMUNITIES AND SOCIAL PROJECT**
 
