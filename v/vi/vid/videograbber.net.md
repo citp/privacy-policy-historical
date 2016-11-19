@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the videograbber.net privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605085839id_/http%3A//www.videograbber.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videograbber.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119034354id_/http%3A//www.videograbber.net/privacy-policy) for the most accurate reproduction.*
 
 # Video Grabber Privacy Policy
 
 Video Grabber is committed to protecting your privacy. Please read the Video Grabber Online Privacy Statement below and also any supplemental information listed to the right for additional details about particular Video Grabber sites and services that you may use.  
-It does not apply to those Video Grabber sites, services and products that do not display or link to this statement or that have their own privacy statements. If you have any questions about this Policy, please feel free to contact us via .
+It does not apply to those Video Grabber sites, services and products that do not display or link to this statement or that have their own privacy statements. If you have any questions about this Policy, please feel free to contact us.
 
 ## Software
 
