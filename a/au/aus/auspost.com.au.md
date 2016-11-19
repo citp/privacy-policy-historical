@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auspost.com.au privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616060226id_/http%3A//auspost.com.au/privacy.html%3Filink%3Dglobal-footer-privacy-link) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auspost.com.au privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119140738id_/http%3A//auspost.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Australia Post
 
@@ -11,7 +11,7 @@ You are here:
 
 ###  Introduction Click to expand Click to collapse
 
-This Privacy Policy describes the personal information that may be collected by the Australia Post Group ('APG', 'we' or 'us'), the choices you can make about your personal information and how we protect your information. The APG incorporates all related bodies corporate and controlled entities.
+This Privacy Policy describes the personal information that may be collected by the Australia Post Group ('APG', 'we' or 'us'), the choices you can make about your personal information and how we protect your information. The APG incorporates all related bodies corporate and controlled entities, including StarTrack, SecurePay, POLi Payments, Decipha, Mail Call and MailPlus.
 
 If you would like a printed version of this policy, you can print this page using your browser, or contact us for a copy. Our contact details are listed at the end of this Policy Alternatively, a summarised version of this Privacy Policy is available in our retail outlets. Simply ask one of our staff for the brochure called "Australia Post, Privacy and You".
 
@@ -42,14 +42,12 @@ Our websites contain links to non-APG websites. We are not responsible for the p
 
 'Personal information' means information we hold about you where your identity is either clear or can be reasonably determined. When you give us your personal information, it imposes a serious responsibility on us. Protecting your privacy when handling your personal information is very important to us and is fundamental to the way we serve you.
 
-Generally, we will collect personal information directly from you, and only to the extent necessary to provide the product or service (including our agency functions) you requested or to carry out our internal administrative operations. An 'agency function' means a service that we provide to you on behalf of another organisation, such as our POSTbillpay and Bank@Post services. We may also collect personal information for the purpose of enhancing our ability to improve service delivery to you and other customers in the future.
-
-In respect of Digital Mailbox, the information will be used to analyse product usage, deliver new or enhanced functionality or services to you (including information about new service providers), and send you administrative notices, alerts and communications relevant to the service, for troubleshooting and detecting and protecting against error, fraud or other criminal activity.
+Generally, we will collect personal information directly from you, and only to the extent necessary to provide the product or service (including our agency functions) you requested or to carry out our internal administrative operations or meet relevant regulatory requirements. An 'agency function' means a service that we provide to you on behalf of another organisation, such as our Post Billpay and Bank@Post services. We may also collect personal information for the purpose of enhancing our ability to improve service delivery to you and other customers in the future.
 
 We may collect personal information from you when:
 
   * you fill in an application form; 
-  * deal with us over the telephone; 
+  * deal with us over the telephone or over web chat; 
   * purchase a product or service in one of our retail outlets; 
   * register for, or use, our online products and services; 
   * e-mail us; 
@@ -57,6 +55,7 @@ We may collect personal information from you when:
   * participate in an online promotion 
   * provide us with feedback 
   * complete online surveys 
+  * contact, register with, post to, like or follow any of our social media websites, pages, forums or blogs 
   * ask us to contact you after visiting our web site. 
 
 
@@ -72,6 +71,10 @@ In some cases, where it makes sense and is lawful, you can interact with us anon
 As noted above, we will only collect personal information from you that's necessary to provide the product or service or to carry out internal administrative functions, or any other personal information you submit to us. We collect different personal information depending on the product or service that you have requested. Some examples include: 
 
   * **Parcels** \- When you ship a parcel with us we will capture the details of the parcel including shipping activities (for tracking purposes), the weight and dimensions of the parcel, and the sender and receiver details. This information allows us to route the package and to respond to queries from both the sender and the receiver. 
+  * **Mail Call** \- We collect your personal information when you communicate with us to inquire, book or pay for our courier services.
+
+We may also collect personal information from third parties such as retailers, other individuals or any other third party in order to provide our courier services to you. In such instances we assume the person providing the information is authorised to provide us with your personal information. There may be occasions when we collect information about you from a third party where it is reasonably necessary or normal business practice to do so, for example from payment gateways relating to payments made through third party providers.
+
   * **Identity and Document Services** \- Given our broad presence across Australian communities, we provide a range of identity and document services that allow our customers to apply for ID cards (e.g., KeyPass), apply for government papers, apply for passports, and witness document as well as a broad range of other services. These services, performed on behalf of other organisations and agencies often require the collection of identity details such as name, address, and proof of identity details (e.g., drivers licence, passport number). We typically pass this information to the service provider and retain a copy in case there are problems with the processing of the transaction and to meet our legal obligations. After the retention period is over, your personal information is deleted. 
   * **Post Billpay** \- When you pay your bills at Australia Post, we only capture enough information to ensure the right bill is paid. Generally, this includes a reference number for the bill and does not include your personal information.   
 If you attempt a Post Billpay One Off payment via the MyPost Digital Mailbox, we may also collect and temporarily store your financial information including bank account balances, bank account payment limits, a record of your previous banking transactions and information about your internet banking sessions. Information may also be collected about how you interact with Post Billpay. We collect information in a number of ways, including:  
@@ -80,22 +83,24 @@ where we receive personal information from a biller with whom you deal and where
   * **Newsletters** \- We offer a number of newsletters such as Our Neighbourhood, our Brand Hub, or Promotions and Offers. We collect your name and your email address which we keep until you choose to unsubscribe from this service. 
   * **The Online Shop** \- When you register for an account with the Australia Post Online Shop, we collect basic contact details (name, address, phone, email) to simplify the checkout process for you and to allow you to sign-up to receiving related promotional offers. 
   * **Mail Redirection Service** \- When you ask us to redirect your mail, we collect your personal information including name, old and new addresses, email address and phone number. Phone is captured to allow us to contact you in the event of issues with processing your request. Email address is captured to allow us to send you a notification when the service is ending and to allow you to sign-up for promotional offers if you request them. We also use this information to notify third parties of your address change if you sign up for this service. The remaining details are captured to allow us to redirect your mail. 
-  * **Money Transfers** \- When you visit Australia Post to transfer money, we capture personal details from you to enable the transfer of funds from you to the receiver. 
-  * **MyPost Digital Mailbox** \- When you use the Digital Mailbox service, we collect:   
 
-    * personal information such as your name, mailing address, email, notification preferences and transaction information such as your credit card; 
-    * usage information such as where and when you use your computer and mobile devices; 
-    * tracking information about your visit which is sourced from the browser or applications on your computer or mobile device, including IP address, cookies, referrers and the pages you request; 
-    * aggregate information sourced from multiple users such as geographic region, which we may share with our third party service providers and related bodies corporate; and 
-    * information in relation to your personal usage of the Digital Mailbox service such as when you open content, when you pay a bill and for how long you visit the Digital Mailbox. 
-  * **POLi Payments** \- We may also collect your financial information including bank account balances, bank account payment limits, a record of your previous banking transactions and information about your internet banking sessions. Information may also be collected about how you interact with POLi payment applications. POLi collects information in a number of ways, including:   
+For further privacy information surrounding how the Mail Redirection Services protects and handles your personal information you may refer to [http://auspost.com.au/parcels-mail/privacy-information.html](https://web.archive.org/parcels-mail/privacy-information.html).
+
+  * **Money Transfers** \- When you visit Australia Post to transfer money, we capture personal details from you to enable the transfer of funds from you to the receiver. 
+  * **Securepay** \- We process secure online payments for our merchant customers through our Gateway and Online Payments offerings, in particular:
+
+o Securepay Gateway captures basic payment information and passes it through to the relevant financial institution.
+
+o Securepay Online Payments serves as the merchant acquirer on behalf of merchant customers. In order to perform this service we are required to conduct Know Your Customer checks on merchants in order to appropriately assess credit risk.
+
+  * **POLi Payments** \- We may also collect your financial information including bank account balances, bank account payment limits, a record of your previous banking transactions and information about your internet banking sessions. Information may also be collected about how you interact with POLi payment applications. POLi may collect information in a number of ways, including:   
 
     * where you provide information directly to us using the POLi Payments System using a computer or other device; and 
     * where we receive personal information from merchants with whom you deal and where you elect to use the POLi Payments System in respect of that merchant. 
+  * **Decipha** \- We manage both physical and virtual mailrooms and fulfil inbound information management solutions, including various document processing services. We scan physical mail and use a wide range of technologies to accurately capture information, images and relevant data from both structured and unstructured forms. Decipha also securely track and expedite the handling of financial data and payments, and can scan and archive data for our merchant customers. 
+  * **Mail Plus** \- Your personal information may be collected through the course of fulfilling our Pick-Up & Delivery Services, including but not limited to handling incoming and outgoing mail, parcel delivery and collection. 
 
 
-
-For some services, where additional clarification is required, we have provided a product privacy notice or product privacy statement. Please refer to these statements for additional privacy details for specific products.
 
 #### Unsolicited information
 
@@ -115,7 +120,7 @@ We may also use your personal information, or aggregate your personal informatio
 
 We do not share your personal information with other organisations unless: 
 
-  * you give us your express consent, or 
+  * you give us consent, or 
   * where sharing is otherwise required or permitted by law, or 
   * where this is necessary on a temporary basis to enable our contractors to perform specific functions. 
 
@@ -137,7 +142,7 @@ We have a strict duty to maintain the privacy of all personal information we hol
 
 #### Treatment of personal information with subsidiaries 
 
-APG can disclose personal information (excluding sensitive information) with subsidiaries (e.g., StarTrack, Decipha and SecurePay) as long as the purpose for sharing is related to the reason the personal information was originally collected. This excludes subsidiaries that are outside of Australia. Under these same terms, subsidiaries can share personal information with Australia Post. 
+APG can disclose personal information (excluding sensitive information) with subsidiaries and controlled entities as long as the purpose for sharing is related to the reason the personal information was originally collected. This excludes subsidiaries that are outside of Australia. Under these same terms, subsidiaries can share personal information with Australia Post. 
 
 #### Overseas use and disclosure 
 
@@ -145,7 +150,7 @@ APG may transfer personal information to countries outside Australia (for exampl
 
 APG uses service providers in other countries as follows: 
 
-  * Japan, Singapore, United Kingdom, United States of America, France and New Zealand.
+  * Japan, Singapore, United Kingdom, United States of America, France, New Zealand, India and the Philippines. 
 
 
 
@@ -211,7 +216,7 @@ In those instances where we secure your personal information in transit to us an
 
 We employ security programs and services to monitor network traffic in order to identify attempts to breach our security.
 
-#### Information collected on this website
+#### Information collected on our websites
 
 We may collect non-personal information from you such as browser type, operating system, and web pages visited to help us manage our web site.
 
@@ -219,10 +224,10 @@ We use cookies (see below) and other internet technologies to manage our website
 
 Our internet server logs the following information which is provided by your browser for statistical and content optimisation and personalisation purposes:
 
-  * the type of browser and operating system you are using
-  * your Internet Service Provider and top level domain name (for example - .com, .gov, .au, .uk)
-  * the address of any referring website (for example - the previous web site you visited), and
-  * your computer's IP (Internet Protocol) address (a number which is unique to the machine through which you are connected to the internet).
+  * the type of browser and operating system you are using 
+  * your Internet Service Provider and top level domain name (for example - .com, .gov, .au, .uk) 
+  * the address of any referring website (for example - the previous web site you visited), and 
+  * your computer's IP (Internet Protocol) address (a number which is unique to the machine through which you are connected to the internet). 
 
 
 
@@ -234,8 +239,8 @@ A "cookie" is a packet of information stored on your computer that allows the Au
 
 Our websites use two different kinds of cookies:
 
-  * **Session cookies** \- temporary cookies that only last until you close your browser
-  * **Persistent cookies** \- cookies that are stored for a longer term on your computer.
+  * **Session cookies** \- temporary cookies that only last until you close your browser 
+  * **Persistent cookies** \- cookies that are stored for a longer term on your computer. 
 
 
 
@@ -247,8 +252,8 @@ You are free to disable cookies in your browser (see details below). If you have
 
 We use session cookies in the following manner:
 
-  * **Log-on and log-off administration** \- Session cookies help with the log-on and log-off processes for those users who have decided to register to use one of our online services. The cookies enable us to recognize your user ID when you log on so that we do not establish a duplicate registration record for you.
-  * **Transactions and site usability** \- We use session cookies to improve how you navigate through our website and conduct transactions. As examples, session cookies are used to maintain your online session as you browse over several pages; to store and pre-populate information so that you do not have to re-enter the same information twice. Session cookies may also be used to collect referral statistics when you click on a link or ad banner to or from auspost.com.au, and associated websites.
+  * **Log-on and log-off administration** \- Session cookies help with the log-on and log-off processes for those users who have decided to register to use one of our online services. The cookies enable us to recognize your user ID when you log on so that we do not establish a duplicate registration record for you. 
+  * **Transactions and site usability** \- We use session cookies to improve how you navigate through our website and conduct transactions. As examples, session cookies are used to maintain your online session as you browse over several pages; to store and pre-populate information so that you do not have to re-enter the same information twice. Session cookies may also be used to collect referral statistics when you click on a link or ad banner to or from auspost.com.au, and associated websites. 
 
 
 
@@ -260,8 +265,8 @@ We use persistent cookies as follows:
 
   * **Site usage measurement** \- Our site measurement tool uses a persistent cookie to assist us in measuring how and when our web site and its various components are used. It functions as a "visit cookie," so we can determine if you are a repeat visitor to our site. This allows us to know if we are attracting new visitors and what aspects of the site seem most useful. The cookie will expire 30 days after your last visit. 
   * **Log-off safety function** \- Australia Post uses a persistent cookie to automatically log you off certain Australia Post sites if there has been no activity for 15 minutes. This is done for your safety to ensure that, if you have finished using our site but have forgotten to log off, no one else can use your computer via your log on and password. The cookie is permanently removed from your computer when you log off, or, if you have closed the browser without logging off, it is removed within 15 minutes from your last activity. 
-  * **Longer-term cookies** \- Persistent cookies allow us, at your request, to recognise you when you return to auspost.com.au or to remember certain information that you have provided us. The recognition feature allows you to log on to certain Australia Post sites automatically, without having to enter your name and password each visit. The cookie assigns a random number to you, and allows us to track your site activity, but this is not linked to personal information. This allows us to personalise the site for you and tailor the content to your needs, for instance to show you banner ads about products you may be interested in.
-  * **Click stream data** \- "Click stream data" is information which is derived from an analysis of your website activity based on the sequence of links which you click on while browsing our Website. When you visit the Website or use our products and services, we will collect this information for analysis, maintenance or reporting purposes and to improve the performance of our Website. This can include information such as your IP address, the duration of your visit and the date and time of your visit.
+  * **Longer-term cookies** \- Persistent cookies allow us, at your request, to recognise you when you return to auspost.com.au or to remember certain information that you have provided us. The recognition feature allows you to log on to certain Australia Post sites automatically, without having to enter your name and password each visit. The cookie assigns a random number to you, and allows us to track your site activity, but this is not linked to personal information. This allows us to personalise the site for you and tailor the content to your needs, for instance to show you banner ads about products you may be interested in. 
+  * **Click stream data** \- "Click stream data" is information which is derived from an analysis of your website activity based on the sequence of links which you click on while browsing our Website. When you visit the Website or use our products and services, we will collect this information for analysis, maintenance or reporting purposes and to improve the performance of our Website. This can include information such as your IP address, the duration of your visit and the date and time of your visit. 
 
 
 
@@ -342,7 +347,11 @@ Melbourne Vic 3000
 
 We will post changes to the Privacy Policy and publish the effective date when this policy is updated.
 
-Last updated: May 2015
+Last updated: October 2016
+
+#### 2016 update
+
+The Privacy Policy was reviewed and updated in September 2016. This update took into consideration changes to the Australia Post Group corporate structure and associated information handling practices. We have continued to illuminate the manner in which we collect, use and disclose personal information we handle.
 
 #### 2015 update
 
@@ -355,18 +364,6 @@ The Privacy Policy was reviewed and updated in February 2014. This update was to
 #### 2011 update
 
 The Privacy Policy was reviewed and updated in July 2011. This update was to: ensure compliance with current legislation. No substantive changes were made to the Privacy Policy at this time.
-
-#### 2008 update
-
-Substantial changes were made to the Privacy Policy. This update was to: simplify the content and style to improve readability; includes more detailed information on children's privacy; disclosure of customer information under the Australian Postal Corporation Act 1989; and the examination of articles.
-
-#### 2007 update
-
-No substantive changes were made to the Privacy Statement. This update was to: clarify and simplify the content to improve readability; add information about how to manage cookies, and to indicate the addition of a children's privacy statement.
-
-#### 2001 update
-
-This was the initial publication of the Australia Post Web Privacy Statement to comply with the National Privacy Principles introduced by the Federal government on 31/12/2001.
 
 ### Further information on privacy
 
