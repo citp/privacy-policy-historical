@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ajirazetu.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607162223id_/http%3A//www.ajirazetu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ajirazetu.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119045519id_/http%3A//www.ajirazetu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,4 +20,4 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Welcome www.ajirazetu.com
 
-[.](http://ajirazetu.com/index.php/cymbalta-cost-at-cvs)
+[.](http://www.ajirazetu.com/index.php/cymbalta-cost-at-cvs)
