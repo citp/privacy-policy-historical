@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the monoprice.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620064127id_/http%3A//www.monoprice.com/help%3Fpn%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monoprice.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119190328id_/http%3A//www.monoprice.com/help%3Fpn%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy statement covers the site http://www.monoprice.com. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. Monoprice, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and user of your personal information.The TRUSTe program covers only information that is collected through this Web site [www.monoprice.com](http://www.monoprice.com/), and does not cover information that may be collected through software downloaded from the site. 
+This privacy statement covers the site http://www.monoprice.com. This is the privacy policy for all web sites operated by Monoprice, Inc. (DBA Monoprice.com). This Privacy Statement describes how Monoprice, Inc. collects and uses the personal information you provide. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through it's leading privacy Trustmark and innovative trust solutions. If you have questions or concerns regarding this statement, you should first contact Monoprice.com Webmaster, at [privacy@monoprice.com](mailto:privacy@monoprice.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe using [ TRUSTe's Feedback and Resolution system ](https://feedback-form.truste.com/watchdog/request). TRUSTe will then serve as a liaison with Monoprice.com to resolve your concerns. 
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [ https://feedback-form.truste.com/watchdog/request ](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through our mobile application. 
 
-[](http://www.truste.com/consumer-resources/)
+[ ](https://privacy.truste.com/privacy-seal/validation?rid=c89405bd-e664-4211-8a4f-1451b16def55 "TRUSTe Privacy Certification")
 
 **By displaying the TRUSTe trustmark, our website, Monoprice.com has agreed to inform you on:**
 
@@ -20,8 +20,6 @@ TRUSTe's mission, as an independent third party, is to accelerate online trust a
 
 
 
-This is the privacy policy for all web sites operated by Monoprice, Inc. (DBA. Monoprice.com).
-
  Contact Information
 
 Monoprice, Inc.  
@@ -34,7 +32,7 @@ You can e-mail us or reach us by telephone at 877-271-2592.
 
 #### Privacy Policy Statement 
 
-**Information Collection and Use** At Monoprice.com, we value our customers and their privacy. We collect, store, use, and share customer information in accordance with this policy. We may store information you enter on our website, including your account information. We use your personal information to ensure efficient processing of your order, to communicate with you, and to improve our website, services, and products. We sometimes send offers to select groups of Monoprice customers on behalf of other businesses. When we do this, we may help our partners verify the effectiveness of their offers to our customers. We will not sell or share identifiable personal information to any third party, except accordance with this privacy policy or unless we are required to do so by law.
+**Information Collection and Use** At Monoprice.com, we value our customers and their privacy. We collect, store, use, and share customer information in accordance with this policy. We may store information you enter on our website, including your account information. We use your personal information to ensure efficient processing of your order, to communicate with you, and to improve our website, services, and products. We sometimes send offers to select groups of Monoprice customers on behalf of other businesses. When we do this, we may help our partners verify the effectiveness of their offers to our customers. We will not sell or share identifiable personal information to any third party, except in accordance with this privacy policy or unless we are required to do so by law.
 
 **Order** Most of the information collected in the order process will be used to process orders. During the order process, you will have to provide financial information such as your credit card number, expiration date, money order, wire transfer or check information. This information is used for billing purposes and to fulfill your order. If we have trouble processing an order, we will use this contact information to get in touch with you. To properly process your credit card information, we must share your personal and financial information with the merchant bank for authorization and approval. This process is protected by an enhanced security system. See the Security section below for more details on security measures and procedures. We do not share your personal and financial information with any third parties, except those specified in the Sharing section of this policy. 
 
@@ -102,7 +100,7 @@ To honor the privacy of our users, we offer the option to not receive these type
 
 **Correction/Updating/Reviewing Personal Information**
 
-If your personal information changes, or if you no longer desire our service, customers may change or review and delete/remove their stored account information such as street address or e-mail address through our website by visiting our "My Account" section. You must have your username and password in order to access your account. In the event you forget both your username and password, please contact our customer service department for assistance. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+If your personal information changes, or if you no longer desire our service, customers may change or review and delete/remove their stored account information such as street address or e-mail address through our website by visiting our "My Account" section. You must have your username and password in order to access your account. In the event you forget both your username and password, please contact our customer service department for assistance. We will respond to your request within a reasonable timeframe. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 **Choice/Opt-out**
 
@@ -110,7 +108,7 @@ Our Web site gives you the opportunity to opt-out of receiving marketing communi
 
 **Safe Harbor**
 
-As a subsidiary of Blucora, Inc., we abide by the US-European Union Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the Department of Commerce regarding collection, use, and retention of data from the European Union member countries and Switzerland. Our privacy practices with respect to personal data collected from individuals residing in European Union member countries and Switzerland are self-certified to the relevant Safe Harbor Program. For more information about the Safe Harbor Programs, please go to <http://www.export.gov/safeharbor/> . 
+As a subsidiary of Blucora, Inc., we abide by the US-Swiss Safe Harbor Framework as set forth by the Department of Commerce regarding collection, use, and retention of data from Switzerland. Our privacy practices with respect to personal data collected from individuals residing in Switzerland is self-certified to the relevant Safe Harbor Program. For more information about the Safe Harbor Programs, please go to <http://www.export.gov/safeharbor/> . 
 
 If you have questions about our participation in the Safe Harbor program or have a complaint, please send an e-mail to [privacy@blucora.com](mailto:privacy@blucora.com). 
 
@@ -198,5 +196,5 @@ We recommend that you review this policy periodically, as we may update it from 
 
 If you have opted out of receiving communications from Monoprice.com, you will still be able to view news of policy changes at www.monoprice.com. Otherwise, you may e-mail us at [support@monoprice.com](mailto:support@monoprice.com) or call us 877-271-2592 to ask our customer service department about changes and updates.
 
-**Last Update** This is the official Privacy Policy as of February 23, 2016. 
+**Last Update:** This is the official Privacy Policy as of September 27, 2016. 
   *[ASP]: Aplication Service Provider
