@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the onlinefreegames.com privacy policy that was archived on 2016-02-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160221031305id_/http%3A//www.onlinefreegames.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onlinefreegames.com privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119130525id_/http%3A//onlinefreegames.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <title>Privacy Statement</title>
@@ -44,6 +44,7 @@
     <div class="title-bar-left">
         <button class="menu-icon" type="button" data-open="offCanvas"></button>
         <span class="title-bar-title">Menu</span>
+        <button onclick="searchhide()" class="btn search-icon search-mob"></button>
     </div>
 </div>
 
@@ -51,7 +52,7 @@
     <div class="row">
         <div class="large-12 columns">
             <ul class="menu">
-                <li class="name"><a href="/">Online<span class="ft">Free</span>Games</a></li>
+                <li class="name"><a href="/">Online<span class="ft"> Free </span>Games</a></li>
                 <li><a href="/bike.html">Bike</a></li>
                 <li><a href="/racing.html">Racing</a></li>
                 <li><a href="/action.html">Action</a></li>
@@ -59,7 +60,7 @@
                 <li><a href="/arcade.html">Arcade</a></li>
                 <li><a href="/board-cards.html">Board &amp; Cards</a></li>
                 <li><a href="/multiplayer.html">Multiplayer</a></li>
-
+                <li><button onclick="searchhide()" class="btn search-icon"></button></li>
             </ul>
         </div>
     </div>
@@ -154,6 +155,8 @@
     <div class="row">
         <div class="small-12 columns">
             <div class="links">
+                <a href="/rss.xml">RSS Feed</a>
+                <a href="http://www.gametop.com/category/downloadable.html" target="_blank">Free Games</a>
                 <a href="http://www.123contactform.com/form-930568/OFG" target="_blank">Contact</a>
                 <a href="/faq.html">Faq</a>
                 <a href="/about.html">About</a>
@@ -187,7 +190,17 @@
       }
     }, 2000); // Run ad block detection 2 seconds after page load
   };
-
+</script>
+<script>
+    function searchhide() {
+    var div = document.getElementById('search');
+    if (div.style.display !== 'block') {
+        div.style.display = 'block';
+    }
+    else {
+        div.style.display = 'none';
+    }
+    };
 </script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.0.1/js/foundation.min.js"></script>
