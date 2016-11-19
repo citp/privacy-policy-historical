@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syngenta.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624192933id_/http%3A//www4.syngenta.com/site-services/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syngenta.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119072051id_/http%3A//www4.syngenta.com/site-services/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement – Syngenta
 
