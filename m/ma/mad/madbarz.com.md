@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madbarz.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321013216id_/http%3A//madbarz.com/Terms/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madbarz.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119144312id_/http%3A//madbarz.com/Terms/Privacy) for the most accurate reproduction.*
 
 # 
 
