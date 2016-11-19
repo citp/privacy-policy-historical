@@ -1,29 +1,37 @@
-> *The following text is extracted and transformed from the pressks.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505212701id_/http%3A//pressks.com/confidential) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressks.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119011653id_/http%3A//pressks.com/privacy-policies) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policies | Press News Release
 
-Press KS takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
+**_Privacy Policy for pressks.com_** ** _ _**
 
-Routine Information Collection
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+At pressks.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by pressks.com and how it is used.
 
-Cookies and Web Beacons
+**Log Files**
 
-Where necessary, Press KS uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Like many other Web sites,pressks.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
+**Cookies and Web Beacons**
 
-Controlling Your Privacy
+techspothub.blogspot.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of web browser privacy management links may also be useful.
+**DoubleClick DART Cookie**
 
-Special Note About Google Advertising
+.:: WordPress, as a third party vendor, uses cookies to serve ads on pressks.com.
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google’s cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
+.:: WordPress’s use of the DART cookie enables it to serve ads to users based on their visit to pressks.com and other sites on the Internet.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:
+.:: Users may opt out of the use of the DART cookie by visiting the WordPress ad and content network privacy policy at the following URL – http://www.wordpress.com/privacy_ads.html
 
-Affiliate Relationships
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
 
-In order to pay for the service we provide to our customers we work with affiliate programs like Zazzle and Amazon. We do get a commission off every item we promote on Press KS.  If there is a question as to whether we’ re being paid to provide a link to buy a product or service, assume we are being paid for this link.
+Google Adsense:
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on pressks.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+pressks.com has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. pressks.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
