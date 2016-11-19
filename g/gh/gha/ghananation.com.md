@@ -1,10 +1,20 @@
-> *The following text is extracted and transformed from the ghananation.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530155156id_/http%3A//www.ghanagrio.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghananation.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119133144id_/http%3A//www.ghanagrio.com/privacy-policy.asp) for the most accurate reproduction.*
 
-# ghanagrio.com - Privacy Policy
+# Ghanagrio.com - Privacy Policy
 
-### Privacy Statement for Ghana Nation
+* * *
 
-ghanagrio.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: Ghana Nation 
+* * *
+
+Privacy Statement for GhanaNation
+
+Posted by  Webby on  January 5, 2006
+
+* * *
+
+* * *
+
+Ghanagrio.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: Ghana Nation 
 
 **Information Automatically Logged  
 ** We use your IP address to help diagnose problems with our server and to administer our Web site, and to help identify you and your shopping cart. Your IP address is also used to gather broad demographic information, and for other purposes. 
@@ -40,3 +50,9 @@ Send mail to [info@ghanagrio.com](mailto:info@ghanagrio.com) with questions or c
 
   
 **Previous Page**
+
+* * *
+
+* * *
+
+* * *
