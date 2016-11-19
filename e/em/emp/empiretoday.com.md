@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the empiretoday.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610061055id_/http%3A//www.empiretoday.com/About-Empire/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empiretoday.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119144121id_/http%3A//www.empiretoday.com/About-Empire/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Empire Today
 
 Effective Date: This Privacy Policy was last revised January 2015.
 
-To print our Privacy Policy, click [here](https://web.archive.org/pdfs/empire-printable-privacy-policy.pdf).  To print our Terms of Use, click [here](https://web.archive.org/pdfs/empire-printable-terms-of-use.pdf).  To receive copies of both documents by e-mail, click here.
+To print our Privacy Policy, click [here](https://web.archive.org/carpet-flooring/Assets/pdfs/empire-printable-privacy-policy.pdf).  To print our Terms of Use, click [here](https://web.archive.org/carpet-flooring/Assets/pdfs/empire-printable-terms-of-use.pdf).  To receive copies of both documents by e-mail, click here.
 
 **Introduction and Overview** ** **
 
