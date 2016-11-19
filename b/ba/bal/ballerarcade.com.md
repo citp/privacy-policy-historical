@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ballerarcade.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405022756id_/http%3A//www.ballerarcade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ballerarcade.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119105957id_/http%3A//www.ballerarcade.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BallerArcade.com
+# Privacy Policy
 
 [](https://web.archive.org/ "home")
 
-Speckd, Inc. we appreciate our relationship with you, respect that your information is yours, and is committed to safeguarding your privacy when you're using [ballerarcade.com](http://www.ballerarcade.com/). The following describes our collection of and use of any information that we may collect from you. 
+Ideal Internet, Inc. we appreciate our relationship with you, respect that your information is yours, and is committed to safeguarding your privacy when you're using [ballerarcade.com](http://www.ballerarcade.com/). The following describes our collection of and use of any information that we may collect from you. 
 
 For each visitor to [ballerarcade.com](http://www.ballerarcade.com/), our web server does not recognize any information regarding the visitor's physical address, phone number, or e-mail address. We only collect information that you voluntarily provide to us.   
 
