@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getrocketbook.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522225641id_/http%3A//getrocketbook.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getrocketbook.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119140418id_/http%3A//getrocketbook.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Rocketbook Privacy Policy
+# Privacy Policy | Privacy & Terms | Rocketbook
 
   1. **  Introduction**
 
@@ -100,36 +100,36 @@ Without limiting the generality of the foregoing, you authorize us to collect, s
 
 At times it may become necessary or desirable to Rocketbook, for legal purposes, to release your information in response to a request from a government agency or a private litigant.  You agree that we may disclose your information to a third party where we believe, in good faith, that it is desirable to do so for the purposes of a civil action, criminal investigation, or other legal matter.  In the event that we receive a subpoena affecting your privacy, we may elect to notify you to give you an opportunity to file a motion to quash the subpoena, or we may attempt to quash it ourselves, but we are not obligated to do either.  We may also proactively report you, and release your information to, third parties where we believe that it is prudent to do so for legal reasons, such as our belief that you have engaged in fraudulent activities.  You release us from any damages that may arise from or relate to the release of your information to a request from law enforcement agencies or private litigants.
 
-  1. **  Commercial and Non-Commercial Communications**
+  10. **  Commercial and Non-Commercial Communications**
 
 
 
 By providing information to the Site that forms the basis of communications with you, such as contact information, you waive all rights to file complaints concerning unsolicited e-mails from Rocketbook since, by providing such information, you agree to receive communications from us or anyone else covered under this Privacy Policy.  However, you may unsubscribe from certain communications by notifying Rocketbook that you no longer wish to receive solicitations or information and we will endeavor to remove you from the database.
 
-  1. **  Security Measures**
+  11. **  Security Measures**
 
 
 
 We take certain measures to enhance the security of our Site and Service, including using SSL certificates.  However, we make no representations as to the security or privacy of your information.  It is in our interest to keep our website secure, but we recommend that you use anti-virus software, firewalls, and other precautions to protect yourself from security threats.
 
-  2. **  Your California Privacy Rights**
+  12. **  Your California Privacy Rights**
 
 
 
 Rocketbook permits residents of California to use its services.  Therefore, it is the intent of Rocketbook to comply with the California Business and Professions Code §§ 22575-22579.  If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes.  Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes.  In summary, you must presume that we collect electronic information from all visitors.  You may contact us at help@getrocketbook.com with any questions. 
 
-  3. **  International Transfer**
+  13. **  International Transfer**
 
 
 
 Your information may be transferred to—and maintained on—computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction.  If you are located outside the United States and choose to provide information to us, Rocketbook transfers Personal Information to the United States and processes it there.  Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-  4. **  Amendments**
+  14. **  Amendments**
 
 
 
 We may amend this Privacy Policy from time to time.  When we amend this Privacy Policy, we will post the amended version on this page.  You must read this page each time that you use our Service, and your continued use of our Service shall constitute your acceptance of any such amendments.
 
-Last Modified[:](http://www.rocketboard.it/privacy/#!betasignupsuccess/c13kn)  September 7, 2[0](http://www.rocketboard.it/privacy/#!beta-signup-2-with-ecommerce/crbj)15
+Last Modified: September 7, 2015
 
-Copyright © 2015 Rocketbook, All Rights Reserved
+Copyright © 2016 Rocketbook, All Rights Reserved
