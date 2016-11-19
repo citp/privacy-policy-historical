@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fakehospital.com privacy policy that was archived on 2016-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160504090807id_/http%3A//fakehospital.com/tour/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fakehospital.com privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119120722id_/http%3A//fakehospital.com/tour/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta name="description" content="Fake Hospital is the porn prescription to put your dick in a better mood when you enter the visiting room. Nurses, Doctors and Patients in hardcore HD sex videos! A discreet private practice in Europe operates under the radar, there are hidden cameras in every room, and even in the doctors glasses! He and his Nurse assistant are not the wholesome, caring and professional types. Patients usually only come once. Prepared for the adrenaline rush, this is real, this is crazy, this is Fake Hospital.">
@@ -76,7 +76,7 @@ $(function() {
 	    loadSpeed: 200,
 	    opacity: 0.9
 	},
-        effect: 'apple',
+       // effect: 'apple',
         onBeforeLoad: function() {
             var wrap = this.getOverlay().find(".content_wrap");
             wrap.load(this.getTrigger().attr("href"));
@@ -100,8 +100,23 @@ var top = wTop + (window.innerHeight / 2) - (win_height / 2);
 
 function offerGo(offerurl){
     popup_Set_Cookie(cookie_name,"1",hours,"/","","");
-	pop_window = window.open(offerurl,'offer_window','location='+ win_location +',left='+ left +',top='+ top +',status='+ win_status +',scrollbars='+ win_scroll +',resizable='+ win_resize +',toolbar='+ win_toolbar +',width='+ win_width +',height='+win_height);
+	$(".fakehubjoin").data('overlay').load();
+	//pop_window = window.open(offerurl,'offer_window','location='+ win_location +',left='+ left +',top='+ top +',status='+ win_status +',scrollbars='+ win_scroll +',resizable='+ win_resize +',toolbar='+ win_toolbar +',width='+ win_width +',height='+win_height);
 }
+
+$(function() {
+
+	$(".fakehubjoin").overlay({
+        mask: {
+	    color: '#999',
+	    loadSpeed: 200,
+	    opacity: 0.5
+		},
+		onClose:function(){
+			window.location.href="http://join.fakehospital.com/signup/signup.php?step=signup&nats=MTY4OS4yOC4yMS4zOS4wLjAuMC4wLjA&step=2"
+		}
+	})
+});
 </script><script>
 var default_URL = "http://www.fakehub.com/fakehospital/popup"; // this is the URL you want to go on the popup unless a goto url is sent
 
@@ -208,6 +223,15 @@ document.onclick = function() {winGo()};
 </head>
 
 <body _site="">
+
+<div class="fakehubjoin" style="display:none">
+<a class="close"></a>
+<div class="contentWrap">
+<a href="http://www.fakehub.com/nats/join/fakehospital/"><img src="img/fakehubjoin.jpg" border="0"></a>
+</div>  
+</div>
+
+
 	<!--Overlay for Video Player -->
   <div class="apple_overlay" id="overlay">
     <div class="content_wrap"></div>
@@ -294,7 +318,7 @@ h4{
 			</div>
 			<div class="box">
 				<div class="social">
-					<a href="https://www.facebook.com/DaneJonesHD?fref=ts"><div class="fb" title="Check out our facebook page"><i class="icon-facebook"></i>facebook</div></a><br>
+					<a href="https://www.facebook.com/faketaxicompetition/?fref=nf"><div class="fb" title="Check out our facebook page"><i class="icon-facebook"></i>facebook</div></a><br>
 					<a href="https://twitter.com/Ruseful"><div class="tw"><i class="icon-twitter"></i>twitter</div></a>
 				</div>
 			</div>
