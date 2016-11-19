@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtimescriptstore.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603212122id_/http%3A//realtimescriptstore.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtimescriptstore.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119021958id_/http%3A//realtimescriptstore.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # Kenny Lessing Presents Real Time Script Store featuring Surf - Solo - Text Ads and tons of Instant Traffic
 
