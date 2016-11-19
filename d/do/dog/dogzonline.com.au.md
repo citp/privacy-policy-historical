@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogzonline.com.au privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605225817id_/http%3A//www.dogzonline.com.au/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogzonline.com.au privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119011143id_/http%3A//www.dogzonline.com.au/privacy-policy.asp) for the most accurate reproduction.*
 
 # DogzOnline: Showcasing Australia's Pure Bred Dogs
 
@@ -16,7 +16,10 @@ At Dogz Online, we respect your privacy. We want to maintain your confidence in 
 We are committed to providing you with adequate information so you can make an informed decision whether to visit our web site and whether you wish to voluntarily provide any personal data or information, e.g., your name, e-mail address, telephone number, etc. Our Privacy Policy is described in the following sections.
 
 **Placing Advertisements**  
-By placing an advertisement on our site (including but not limited to Breeder Listings, Puppy Listings, Classified Ads etc), you give us explicit permission to display that information publicly on our site for the purposes of promoting your ad. You also give us permission to reply to any requests for information about your ad or membership that is currently publicly available on our site (or has been previously publicly available).
+By placing an advertisement on our site (including but not limited to Breeder Listings, Puppy Listings, Classified Ads etc), you give us permission to display that information (including your contact details) publicly on our site for the purposes of promoting your ad. You also give us permission to reply to any requests for information about your ad or membership that is currently publicly available on our site (or has been previously publicly available).
+
+**Using Online Form to Contact Advertisers**  
+Dogs Online analyzes and stores all communications sent to advertisers via our contact form system for the purpose of spotting scams and spam (and blocking these). Do not use our contact form system for any private messages that you may not want us to see. Messages are stored for approximately 6 months. We will never give your personal information to third parties for their marketing and advertising purposes.
 
 **Log Files**  
 We review data and information contained in log files located on our web server, which record the date and time of each visit to our web site, the user's IP (internet protocol) address, the referring IP address or domain (the prior web site visited), and the files viewed on our web site (including HTML pages, graphics, etc.). We use log file information to analyze data in the aggregate to determine the trends and usage of our site. We can not correlate the log data to identify specific users. 
@@ -39,7 +42,7 @@ Dogz Online has no access to or control over these cookies that are used by thir
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
 **Voluntarily Provided Information**  
-If you register for membership through our web site, make purchases from our on-line offerings, respond to a request for information or make any other on-line request of us (including email), you will be voluntarily providing personally identifiable information. If you do not agree with this Privacy Policy, we ask that you please do not provide the requested information. You may nevertheless continue to use most of our web site, subject however, to the collection of information through log files as discussed above. 
+If you register for membership through our web site, send a message to an advertiser via our contact forms, make purchases from our on-line offerings, respond to a request for information or make any other on-line request of us (including email), you will be voluntarily providing personally identifiable information. If you do not agree with this Privacy Policy, we ask that you please do not provide the requested information. You may nevertheless continue to use most of our web site, subject however, to the collection of information through log files as discussed above. 
 
 If you have previously provided personally identifiable information by registration through our web site, you may request to be removed from our systems. In the case of our forums, we will not remove any threads etc that you may have made but we will remove any identifying information contained in your profile.
 
