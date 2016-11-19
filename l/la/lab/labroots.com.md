@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the labroots.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629162016id_/http%3A//www.labroots.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labroots.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119181601id_/http%3A//www.labroots.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Your Scientific Network | LabRoots
 
@@ -63,4 +63,4 @@ If you use a bulletin board, discussion forum ("Q & A forum") or blog on this We
 
 We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email or by means of a notice on our home page.
 
- **Questions or Comments:  **If you have questions or comments about this privacy policy, please email us at [privacy@labroots.com](http://mailto:%20privacy@labroots.com/) or write to LabRoots, Inc., 18340 Yorba Linda Blvd., Suite 107 PMB 427, Yorba Linda, CA 92886.
+ **Questions or Comments:  **If you have questions or comments about this privacy policy, please email us at [privacy@labroots.com](mailto:%20privacy@labroots.com) or write to LabRoots, Inc., 18340 Yorba Linda Blvd., Suite 107 PMB 427, Yorba Linda, CA 92886.
