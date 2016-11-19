@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the willitblend.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608020744id_/http%3A//www.blendtec.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the willitblend.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119181728id_/http%3A//www.blendtec.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blendtec
 
@@ -36,33 +36,37 @@ This Privacy and Security Policy applies to [www.blendtec.com](https://web.archi
 
 ## WHY WE COLLECT INFORMATION
 
-  * **Personally Identifiable Information**
-    * We collect personally identifiable information in order to supply you with the products or services you request, process payment, communicate with you and comply with any applicable requirements of law. 
-  * **Non-Personally Identifiable Information**
-    * We collect nonpersonally identifiable information in order to operate, develop and improve the Sites, their functionality and our products and services. 
-    * We collect nonpersonally identifiable information in order to provide you with personalized recommendations for products advertised on or sold through the Sites. 
-    * Nonpersonally identifiable information is collected in the aggregate to, among other things, determine the total number of users of the Sites, prepare utilization reports, diagnose and correct compatibility problems or other problems with the Sites and perform statistical analyses to enable us to build a higher-quality, more useful online service. 
-    * We also collect nonpersonally identifiable information to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various aspects of the Sites. By supplementing our records, this information helps us learn things such as user preferences, popular search categories, click-through rates, the types of offers users like to see and, in general, how to improve the functionality and relevancy of the Sites. 
+**Personally Identifiable Information**
+
+  * We collect personally identifiable information in order to supply you with the products or services you request, process payment, communicate with you and comply with any applicable requirements of law. 
+
+**Non-Personally Identifiable Information**
+
+  * We collect nonpersonally identifiable information in order to operate, develop and improve the Sites, their functionality and our products and services. 
+  * We collect nonpersonally identifiable information in order to provide you with personalized recommendations for products advertised on or sold through the Sites. 
+  * Nonpersonally identifiable information is collected in the aggregate to, among other things, determine the total number of users of the Sites, prepare utilization reports, diagnose and correct compatibility problems or other problems with the Sites and perform statistical analyses to enable us to build a higher-quality, more useful online service. 
+  * We also collect nonpersonally identifiable information to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various aspects of the Sites. By supplementing our records, this information helps us learn things such as user preferences, popular search categories, click-through rates, the types of offers users like to see and, in general, how to improve the functionality and relevancy of the Sites. 
 
 
 
 ## DISCLOSURE OF INFORMATION
 
-  * **Personally Identifiable Information**
-    * We do not sell or rent personally identifiable information to third parties. 
-    * We may disclose personally identifiable information to our staff involved in the completion of your transaction, the delivery of your order and the analysis and/or support of your use of the Sites. 
-    * We may disclose personally identifiable information to trusted third parties with whom we contract to process your personally identifiable information for us. 
-    * We may disclose personally identifiable information if necessary to protect our legal rights, if the information relates to actual or threatened harmful conduct, or we have good faith belief that such action is necessary to (1) conform to the requirements of law or comply with governmental orders, court orders or legal process served on us or (2) to protect and defend our property or other rights, the users of the Sites or the public. 
-    * We may disclose personally identifiable information with other companies and organizations for fraud- and credit-risk purposes. 
-    * We will use commercially reasonable efforts to make you aware of the disclosure of your personally identifiable information contrary to the terms set forth in this Privacy and Security Policy; for example, if we discover a security breach, you will be contacted. 
+**Personally Identifiable Information**
 
+  * We do not sell or rent personally identifiable information to third parties. 
+  * We may disclose personally identifiable information to our staff involved in the completion of your transaction, the delivery of your order and the analysis and/or support of your use of the Sites. 
+  * We may disclose personally identifiable information to trusted third parties with whom we contract to process your personally identifiable information for us. 
+  * We may disclose personally identifiable information if necessary to protect our legal rights, if the information relates to actual or threatened harmful conduct, or we have good faith belief that such action is necessary to (1) conform to the requirements of law or comply with governmental orders, court orders or legal process served on us or (2) to protect and defend our property or other rights, the users of the Sites or the public. 
+  * We may disclose personally identifiable information with other companies and organizations for fraud- and credit-risk purposes. 
+  * We will use commercially reasonable efforts to make you aware of the disclosure of your personally identifiable information contrary to the terms set forth in this Privacy and Security Policy; for example, if we discover a security breach, you will be contacted. 
 
-  * **Nonpersonally Identifiable Information**
-    * We do not sell or rent nonpersonally identifiable information to third parties. 
-    * We may disclose nonpersonally identifiable information to our staff involved in the completion of your transaction, the delivery of your order and/or the analysis and support of your use of the Sites. 
-    * We may disclose nonpersonally identifiable information to trusted third parties whom we have engaged to process nonpersonally identifiable information for us. 
-    * We may disclose nonpersonally identifiable information, if necessary, to protect our legal rights, if the information relates to actual or threatened harmful conduct, or we have good faith belief that such action is necessary to (1) conform to the requirements of law or comply with governmental orders, court orders or legal process served on us or (2) to protect and defend our property or other rights, the users of the Sites, or the public. 
-    * We may disclose nonpersonally identifiable information to third parties in order to provide you with personalized recommendations for products advertised on or sold through the Sites. 
+**Nonpersonally Identifiable Information**
+
+  * We do not sell or rent nonpersonally identifiable information to third parties. 
+  * We may disclose nonpersonally identifiable information to our staff involved in the completion of your transaction, the delivery of your order and/or the analysis and support of your use of the Sites. 
+  * We may disclose nonpersonally identifiable information to trusted third parties whom we have engaged to process nonpersonally identifiable information for us. 
+  * We may disclose nonpersonally identifiable information, if necessary, to protect our legal rights, if the information relates to actual or threatened harmful conduct, or we have good faith belief that such action is necessary to (1) conform to the requirements of law or comply with governmental orders, court orders or legal process served on us or (2) to protect and defend our property or other rights, the users of the Sites, or the public. 
+  * We may disclose nonpersonally identifiable information to third parties in order to provide you with personalized recommendations for products advertised on or sold through the Sites. 
 
 
 
@@ -119,9 +123,11 @@ If you have a privacy question about the Sites or about this Privacy and Securit
 **Blendtec Corporate Headquarters**  
 1206 S. 1680 W.  
 Orem, UT 84058  
-P: 1-800-748-5400 (1-800-748-5400)  
-F: (801) 802-8584  
-Hours: Mon. – Fri. 9:00 am - 5:00 pm (MST)  
+P: 1-800-748-5400  
+F: (8012247150  
+H: Monday – Friday 
+
+9:00 am - 5:00 pm (MST)  
 
 
 #### Shipping Address
@@ -129,11 +135,11 @@ Hours: Mon. – Fri. 9:00 am - 5:00 pm (MST)
 **Blendtec Corporate Headquarters**  
 1206 S. 1680 W.  
 Orem, UT 84058  
-P: 1-800-748-5400 (1-800-748-5400)  
-F: (801) 802-8584  
+P: 1-800-748-5400  
+F: (801) 224-7150  
 
 
-We will investigate your question, respond to your inquiry and attempt to resolve any concern regarding your privacy. 
+We will investigate your question, respond to your inquiry, and attempt to resolve any concern regarding your privacy. 
 
 **
 
