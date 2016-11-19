@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the nullednerd.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622195504id_/http%3A//www.nullednerd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nullednerd.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119193334id_/http%3A//www.nullednerd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NulledNerd.com
 
-## **NulledNerd Privacy Policy**
+## **Privacy Policy**
 
 we know that your number one concern is that we meet the security and privacy standards you expect. You should be aware of the following safety and privacy issues when you browse our website.
 
- **What information is collected by NulledNerd.Com?**
+**What information is collected by NulledNerd.Com?**
 
 Standard use of the Site
 
@@ -20,7 +20,7 @@ The registration of personal information leads to the submission of a cookie* on
 
 Participation in electronic discussion groups means that other participants in the group that you have chosen (including those who are not Site Administrators) will be aware of any personal information that you choose to disclose. In some open discussion groups, the information is public.
 
- **What does NulledNerd do with the information it collects?**
+**What does NulledNerd do with the information it collects?**
 
 Standard use of the Site
 
@@ -38,7 +38,7 @@ NulledNerd may use such information to:
 
 * Statistical analysis performing.
 
- **What will happen if I do not want to provide personal information?**
+**What will happen if I do not want to provide personal information?**
 
 Providing personal information on the Site is optional. If you do not want to deliver information of this kind, you can always surf the Site, but you will not be able to access the entire Service and its Information.
 
@@ -64,7 +64,7 @@ Contact
 
 For any questions or inquiries about our privacy policy, you can[ contact us](http://www.nullednerd.com/contact-us/)
 
- **Cookies & 3rd Party Advertisements**
+**Cookies & 3rd Party Advertisements**
 
 Google, as a third-party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
