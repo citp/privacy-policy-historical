@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uberflip.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510070635id_/http%3A//www.uberflip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uberflip.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119044243id_/http%3A//www.uberflip.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Uberflip
 
