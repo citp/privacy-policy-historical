@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the tn.gov.in privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531035028id_/http%3A//www.tn.gov.in/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tn.gov.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119010556id_/http%3A//www.tn.gov.in/privacypolicy) for the most accurate reproduction.*
 
-# Tamil Nadu Government Portal
+# Privacy Policy | Tamil Nadu Government Portal
+
+## You are here
+
+Privacy Policy
 
 Tamil Nadu State Portal does not automatically capture any specific personal information from you, (like name, phone number or e-mail address), that allows us to identify you individually.
 
