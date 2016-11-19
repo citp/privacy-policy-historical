@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgmonkey.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314093428id_/http%3A//imgmonkey.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgmonkey.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119203451id_/http%3A//imgmonkey.com/privacy.html) for the most accurate reproduction.*
 
 # ImgMonkey - Upload images and earn money with it!
 
@@ -78,5 +78,5 @@ You understand and agree that ImgMonkey.com stores and processes your informatio
 
 ### 8\. How to Contact Us
 
-If you have any questions regarding this privacy policy or information that you have submitted to us you can contact us using our [contact form](https://web.archive.org/web/20160314093428id_/http%3A//imgmonkey.com/contact.html).   
+If you have any questions regarding this privacy policy or information that you have submitted to us you can contact us using our [contact form](https://web.archive.org/web/20161119203451id_/http%3A//imgmonkey.com/contact.html).   
 
