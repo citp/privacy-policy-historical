@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zenodo.org privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614171552id_/http%3A//zenodo.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenodo.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119010550id_/https%3A//zenodo.org/privacy-policy) for the most accurate reproduction.*
 
-# Zenodo
+# Privacy policy
 
 The Zenodo collaboration does not track, collect or retain personal information from users of Zenodo, except as otherwise provided herein. In order to enhance Zenodo and monitor traffic, non-personal information such as IP addresses and cookies may be tracked and retained, as well as log files shared in aggregation with other community services (in particular OpenAIREplus partners). User provided information, like corrections of metadata or paper claims, will be integrated into the database without displaying its source and may shared with other services.
 
