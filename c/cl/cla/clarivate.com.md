@@ -1,100 +1,135 @@
-> *The following text is extracted and transformed from the clarivate.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarivate.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119011823id_/http%3A//ipscience.thomsonreuters.com/privacy-statement) for the most accurate reproduction.*
 
-# Legal Agreement
+# Clarivate Analytics - Privacy Statement
 
-**Go Daddy Respects Your Privacy**
+This Privacy Statement relates to the online information collection and use practices of the websites, applications and many products and services operated by the Intellectual Property & Science business of Thomson Reuters (IP & Science). We recognize that many visitors and users of our websites and applications are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns. Thomson Reuters is a global business with networks, databases, servers, systems, support and help desks located throughout offices around the world. The personal data you share with us will be protected by intra-group arrangements that we have put in place between all our Thomson Reuters entities to ensure specific and adequate safeguards exist with respect to the processing of personal data when it is transferred within the Thomson Reuters group of companies.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+### Highlights
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+#### What types of personal information are collected and how is such information used?
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+We may collect personal and non-personal information in various ways, including directly from an individual (for example, subscribing to a product or service, registering an account, or signing up for a newsletter), from our web server logs, and through cookies or other website tracking tools.
 
-**Information Collection and Use**
+We may use non-personal and/or personal information to provide a personalized website experience and deliver the most relevant and useful information, resources, and services.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We may use or share personal and non-personal information for administrative and technical purposes such as development and testing or technical support.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Under limited circumstances, we may share personal information with third parties. IP & Science uses cookies to help us optimize our website visitors’ experience and our future interactions with website visitors. For more detail, please view the Cookies and Other Tracking Tools section below, or click here to visit our Cookie Policy.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+#### How is personal information protected?
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+We have implemented reasonable and appropriate security measures to help protect personal information from accidental loss and from unauthorized access, use, or disclosure.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+#### We use intrusion detection and virus protection software.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Despite these security measures, we cannot guarantee that unauthorized persons will never be able to defeat them.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+#### Who else has access to personal information?
 
-**Security**
+We rely on some of our affiliates for support of the services we offer, and we share some of our back-office functions with them. Our policies require our affiliates to protect the confidentiality of any personal information they may access.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+We may disclose personal information to affiliated and non-affiliated third parties to help IP & Science with such tasks as marketing, providing technical or other customer support, enforcing the Terms of Use, meeting our contractual obligations with content and technology providers, as needed in connection with the transfer of our business assets, or reporting to law enforcement if we in good faith believe it is required by law.
 
-**Updating Your Information**
+Although unlikely, IP & Science or a trusted third party may need to access personal information in connection with a digital forensic investigation of a potential security incident.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+#### How may I correct, amend, or delete my personal information?
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+If you do not want your information to be used to contact you about our products and services, please see the Marketing section for instructions.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+If you uploaded, submitted, or otherwise provided personal information in connection with your use of IP & Science and you would like it corrected, revised, or deleted, please see the Marketing section for instructions on how to do so.
 
-      iii.      You may call us at: (480) 505-8800
+### Full Privacy Statement:
 
-       iv.      You may fax us at: (480) 505-8844
+#### What Information Do We Collect and how do we use it?
 
-**Sending Emails**
+We may collect personal and non-personal information in various ways, including directly from an individual (for example, when subscribing to a product or service, registering an account, requesting technical assistance for a product or service, or signing up for a newsletter), from our web server logs, and through cookies or other website tracking tools.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+We may use or share personal and non-personal information for administrative and technical purposes such as website testing, development and upgrades, or technical support.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Under limited circumstances, we may share personal information with third parties, as described in this Privacy Statement and the IP & Science Cookie Policy. For example, we may need to share personal information with law enforcement if we believe in good faith that the law requires it.
 
-**Compliance with Laws and Law Enforcement**
+#### Please read below for more detail about the ways we collect personal and non-personal information.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Individual-Supplied Information. If you purchase, contact us about or express interest in a IP & Science product or service, we may ask you to provide some personal information, for example, your name, professional contact details and professional credentials, such as address, position, phone number, email address. We may use this information in a contact database for future reference if needed, which may then be used as described in the Marketing section.
 
-**Third Party Service Providers**
+If you are requesting help with technical issues, we may also ask you to provide information about your computer, computer system, and/or the issues you are trying to resolve. This information is necessary to help us answer your questions. We may record your requests and our responses for logging and quality control purposes.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+#### Web Server Logs.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+When you use IP & Science websites, products or services, our servers may automatically capture and save certain information electronically. These server logs include information about your device’s use of IP & Science or visits to IP & Science website(s) (“your device” may include a desktop or laptop computer, mobile device or similar device). Examples of the information collected by our servers include:
 
-**Supplementation of Information**
+  * Your device’s Internet Protocol (IP) address
+  * The name of your device’s Internet service provider
+  * The city, state, and country from which your device accessed IP & Science
+  * The kind of browser or device used to access IP & Science databases or an IP & Science website
+  * The way your device navigates through an IP & Science database or IP & Science website
+  * The date and time of usage
+  * The web page from which your device arrived at our website(s)
+  * The content you viewed on our website(s) and/or when using IP & Science
+  * Searches/queries that you conducted via our website(s)
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-**Contests/Surveys**
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+The information collected via web servers helps us to administer our website(s), analyze their usage, improve their content, protect content from inappropriate uses, and help our websites better operate.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+#### Locally Stored Data from Browsers and Devices.
 
-**Tell-A-Friend**
+We may collect and store information (including personal information) locally on your device using mechanisms such as browser web storage (including HTML 5) and application data caches.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+#### Cookies and Other Tracking Tools.
 
-**What Happens to my Personal Information if I Opt Out?**
+Cookies and other website tracking tools are small text files sent to your Internet browser from a web server and stored on your computer's hard drive. Since many websites rely on cookies and/or other tracking tools to help tailor an individual’s experience, most Internet browsers are initially set up to accept them. If you object to cookies or other types of tracking tools, you can review the settings of your browser for guidance on how to manage or refuse to accept cookies and other tracking mechanisms. If you choose to modify how your computer will accept cookies, please be aware that the functionality of websites or online services may be affected.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+For more information about the use of cookies on the IP & Science website, please view the IP & Science Cookie Policy.
 
-**Transfer of Data Abroad**
+#### “Do Not Track” and Tracking Protection.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+Some newer Internet browsers have incorporated Do Not Track features, and when turned on, they send a signal to the websites you visit, telling the website that you do not want to be tracked while browsing. Websites differ in how they respond to these Do Not Track signals, as there is not yet a common understanding of how to interpret the Do Not Track signal. Because of this lack of clarity, IP & Science does not respond to the browser Do Not Track signal. Thus, most cookies will continue to be stored on your hard drive until you delete them.
 
-**Changes in Our Practices**
+#### How Do We protect the personal Information We Collect?
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+We have implemented reasonable and appropriate security measures to help protect your personal information from accidental loss and from unauthorized access, use, or disclosure. Our IP & Science websites are protected with Secure Sockets Layer (SSL) technology. Also, we store website usage information in a data center with restricted access and appropriate monitoring, and we use a variety of technical security measures to secure your data. In addition, we use intrusion detection and virus protection software. However, please note that we cannot guarantee that unauthorized persons or technological tools will never be able to defeat our security measures.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+#### Who has access to the personal information we collect?
 
-**Contacting Our Site**
+We rely on some of our affiliates for support of the website(s) and information we offer, and we share some of our back-office functions with them. Our policies require our affiliates to protect the confidentiality of any personal information they may access.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+We may make personal and IP & Science usage information available to other Thomson Reuters affiliated entities (“affiliates”) and unaffiliated third parties in certain situations, for example:
 
-* * *
+  * to third party agents, service providers, and/or contractors who may perform certain functions or services, for example: helping us promote our products and services, as described in the Marketing section;
+  * billing, accounts receivable/payable functions; and/or content acquisition and licensing services.
+  * to enforce our Terms of Use;
+  * to meet our obligations to content and technology providers;
+  * as needed in connection with the transfer of our business assets (for example, if we are acquired by another company or if we are liquidated during bankruptcy proceedings);
+  * although unlikely, a trusted third party may need to access personal information in connection with a digital forensic investigation of a potential security incident;
+  * as required by law in a matter of public safety or policy, or if we believe in good faith that sharing such data is necessary to protect our rights or property.
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+
+
+#### How may I correct, amend or delete my personal information?
+
+To remove your personal information from our marketing databases, please contact the Intellectual Property & Science Marketing Team. Personal information related to login and use of our products is maintained separately - if you have questions about this, please contact Customer Support.
+
+If you do not want your information used to contact you about our products and services, please see the Marketing section below for your options.
+
+#### Is my information used for marketing purposes? can I update my marketing preferences?
+
+Yes, your information may be used for marketing purposes. For example, we may use your information to send you newsletters, other publications, conference invitations, and/or communications about products and services that we believe may be of interest to you. We may also share your information with third party agents, service providers, and/or contractors who help us promote our products and services.
+
+If you do not want to receive such materials, invitations or information about our products or services, you can update your preferences at any time. Your options include updating your account via our Preference Center (where applicable), unsubscribing from all marketing emails [with this form](http://ip-science.thomsonreuters.com/optout/), and/or using the "unsubscribe" mechanism in the emails you receive from us. If you have any additional questions regarding your subscriptions or use of your information for marketing purposes, please contact the [Intellectual Property & Science Marketing Team.](http://ip-science.thomsonreuters.com/info/policy_request/)
+
+#### Acknowledgement of Transfer
+
+Our websites, applications and many of our products are operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us may be transferred to the United States and/or third countries. We have put in place the appropriate measures to ensure that any personal information transferred from the EEA and other jurisdictions that are subject to data transfer restrictions will be adequately protected for the purposes of those rules. By using our products, websites and applications, or participating in any of our services and/or providing us with your information, you acknowledge that your personal information may be transferred to other destinations.
+
+#### Links
+
+Our websites and applications contain links to third party sites as well as to other sites owned and/or operated by Thomson Reuters. Please be aware that Thomson Reuters is not responsible for the privacy practices of any third party sites. Please also be aware that the privacy policies of other Thomson Reuters sites may differ significantly from the privacy policy of our websites and applications. Therefore, we encourage our users to read the privacy statement of each and every Web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by our websites and applications.
+
+#### Questions?
+
+If you have any additional questions or concerns related to this Privacy Statement and/or our practices, please contact our [Intellectual Property & Science Marketing Team](http://ip-science.thomsonreuters.com/info/policy_request/).
+
+#### Changes
+
+If our information collection and usage practices change, we will post the changes here and notify affected customers. This Privacy Statement was last updated in March 2016.
