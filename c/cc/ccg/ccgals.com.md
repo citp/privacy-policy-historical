@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccgals.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531105454id_/http%3A//www.vixenx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccgals.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015447id_/http%3A//www.vixenx.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -17,6 +17,8 @@ Our site uses an order form for customers to request information, products, and 
 Financial information that is collected is used to check the users' qualifications and to bill the user for products and services ordered. 
 
 To Deactivate or support of your membership:  
-[https://epoch.com/billingsupport/](https://epoch.com/billingsupport) (Epoch/EpochEU)  
-<https://segpaycs.com/spsolo.aspx> Segpay  
+[https://epoch.com/billingsupport/](https://epoch.com/billingsupport) (Epoch)  
+<https://segpaycs.com/spsolo.aspx> (Segpay)  
+<https://support.ccbill.com/> (CCBill)  
+<https://support.fxbilling.com/billing.php> (FX Billing)  
 <http://www.gxbill.de/> (GXBill - European Debit/Lastschrift) 
