@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the euroleague.tv privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310040326id_/http%3A//www.euroleague.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euroleague.tv privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119010534id_/http%3A//www.euroleague.tv/privacy) for the most accurate reproduction.*
 
 # Euroleague TV - Privacy Policy
 
