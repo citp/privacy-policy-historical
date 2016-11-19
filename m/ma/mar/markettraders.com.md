@@ -1,27 +1,29 @@
-> *The following text is extracted and transformed from the markettraders.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627103110id_/http%3A//www.markettraders.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markettraders.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119022504id_/http%3A//www.markettraders.com/privacy-policy) for the most accurate reproduction.*
 
-# Forex and Equities Training Privacy Policy from Market Traders Institute
+# Privacy Policy | Market Traders Institute
 
 Effective Date: 12/11/2014
 
-This website is owned and operated by Market Traders Institute Inc. You can reach us by phone at 800-866-7431 or email at [compliance [@] markettraders.com.](mailto:compliance@markettraders.com) Our address is 3900 Millenia Blvd. Orlando, FL. 32839
+This website is owned and operated by Market Traders Institute Inc. You can reach us by phone at 800-866-7431 or email at [compliance[@]markettraders.com.](mailto:compliance@markettraders.com) Our address is 3900 Millenia Blvd. Orlando, FL. 32839
 
-**Our Commitment to Privacy**  
+**Our Commitment to Privacy**
+
 Your privacy is important to Market Traders Institute, Inc. (MTI). To reinforce our commitment to protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This policy summarizes the information, including personally identifiable information, that we collect through our website and how that information may be used. By using our website you consent to the collection and use of this information.
 
 We reserve the right to change our privacy policy at any time. In the event we make changes to any of the terms or conditions of this privacy policy, we will incorporate those changes into this document so you will know what information is being collected and how that information is being used. We will undertake best efforts to notify you of any changes to this privacy policy utilizing the last email address you have provided to us; however, it is your responsibility to keep your email address current and to monitor this policy for any changes. Continued use of this website and/or our services shall constitute consent to this policy and any changes made hereto.
 
-**Information We Collect**  
+**Information We Collect**
+
 We may collect and use your IP address to help administer services on our website as well as to improve your user experience. We do not use your IP address to collect any personally identifiable information. Demographic and interest data is also collected at our Website. We use this data to tailor the information emailed to our customers and to display the content according to their preferences.  
 We offer a variety of both free and paid services and products that will require your voluntary submission of information. The information that may be collected is as follows:
 
-  * Full Name
-  * Address, including street name, city/town, state and zip code
-  * Email Address
-  * Phone Number
-  * Country
-  * IP Address
-  * Payment Information
+  * **Full Name**
+  * **Address, including street name, city/town, state and zip code**
+  * **Email Address**
+  * **Phone Number**
+  * **Country**
+  * **IP Address**
+  * **Payment Information**
 
 
 
@@ -30,7 +32,7 @@ If you are purchasing products, we may use a third party provider such as a shop
 We may also collect information you provide about others, such as how you were referred to our website and programs.
 
 **How We Use Information**  
-Market Traders Institute, Inc may use the information that you provide through our site in order to market our products and services as well as products and services from select third parties. Our goal is to utilize the information collected to ensure a positive experience with our company and website, as well as to help us understand what we can do to better serve you. We will also use this information to contact you when necessary. 
+Market Traders Institute, Inc may use the information that you provide through our site in order to market our products and services as well as products and services from select third parties. Our goal is to utilize the information collected to ensure a positive experience with our company and website, as well as to help us understand what we can do to better serve you. We will also use this information to contact you when necessary.
 
 **IF YOU NO LONGER WISH TO RECEIVE EMAILS FROM MARKET TRADERS INSTITUTE, INC. PLEASE CLICK THE UNSUBSCRIBE LINK INCLUDED IN OUR EMAILS OR CONTACT US DIRECTLY AT[COMPLIANCE [@] MARKETTRADERS.com.](mailto:compliance@markettraders.com)**
 
