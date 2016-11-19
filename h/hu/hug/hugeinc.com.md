@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hugeinc.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616090148id_/http%3A//www.hugeinc.com/yourprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hugeinc.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119032731id_/http%3A//www.hugeinc.com/yourprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,7 +34,7 @@ We may use the information we obtain about you both to further our relationship 
   * verify your identity to ensure security for the other purposes listed here;
   * operate, evaluate and improve our business (including developing new services; managing our communications; learning about our visitors, analyzing our services and website; and facilitating the functionality of our website);
   * process applications for employment;
-  * perform data analyses (including anonymisation of personal information);
+  * perform data analyses (including anonymization of personal information);
   * enforce our Terms of Use
   * comply with applicable legal requirements and industry standards and our policies
 
