@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usconstitution.net privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617174337id_/http%3A//www.usconstitution.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usconstitution.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119223744id_/http%3A//usconstitution.net/privacy.html) for the most accurate reproduction.*
 
 # usconstitution.net | Privacy Policy
 
