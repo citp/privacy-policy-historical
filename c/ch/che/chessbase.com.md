@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chessbase.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328173638id_/http%3A//en.chessbase.com/pages/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chessbase.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119045021id_/http%3A//en.chessbase.com/pages/security) for the most accurate reproduction.*
 
-# Privacy Policy
+# CB News - Privacy Policy
 
-[News](https://web.archive.org/) [Shop](http://chessbase-shop.com/en/cat_root?ref=RF73-K3I1E1BK16) [Database](http://database.chessbase.com/) [Playchess.com](http://en.playchess.com/) [Support](https://web.archive.org/pages/support) [Distributors](https://web.archive.org/pages/distributors)
+[News](https://web.archive.org/) [Shop](http://chessbase-shop.com/en/cat_root?ref=RF73-K3I1E1BK16) [Database](http://database.chessbase.com/) [Playchess](http://en.playchess.com/) [Support](https://web.archive.org/pages/support) [Distributors](https://web.archive.org/pages/distributors)
 
 ## General
 
