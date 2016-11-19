@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgsoo.net privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526115151id_/http%3A//imgsoo.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgsoo.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119014106id_/http%3A//imgsoo.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # ImgDream » More Information » Privacy Policy
 
