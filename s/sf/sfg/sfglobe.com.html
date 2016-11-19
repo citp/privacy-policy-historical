@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sfglobe.com privacy policy that was archived on 2016-04-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160407224801id_/http%3A//sfglobe.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sfglobe.com privacy policy that was archived on 2016-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120001003id_/http%3A//sfglobe.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>  <title>Privacy Policy</title>
   <link href="//fonts.googleapis.com/css?family=Lora|Playfair+Display+SC" rel="stylesheet" type="text/css">
@@ -44,7 +44,7 @@ Translations = {
     return output;
   }
 }
-</script>  <meta property="fb:admins" content="601901">  <link rel="canonical" href="http://sfglobe.com/privacy.php"><meta http-equiv="Content-type" content="text/html" charset="UTF-8">
+</script>  <meta property="fb:admins" content="601901">  <link rel="canonical" href="http://sfglobe.com/privacy.php">  <script type="text/javascript" src="//s.ntv.io/serve/load.js" async=""></script><meta http-equiv="Content-type" content="text/html" charset="UTF-8">
 
 </head>
 <body style="margin: 0px; padding: 0px;" lang="EN-US" link="blue" vlink="purple">
@@ -77,7 +77,8 @@ AppConfig = {
 }
 </script><script type="text/javascript" src="http://sfglobe.com/js/all.js.php?f%5B0%5D=js%2Fjson.js&amp;f%5B1%5D=js%2Fajax_wrapper.js&amp;f%5B2%5D=js%2Futils.js&amp;f%5B3%5D=js%2Fdialog_wrapper.js&amp;f%5B4%5D=js%2Fmobile_app.js"></script><script type="text/javascript">
 Ajax.auth_params = {};
-</script><!-- Facebook Pixel Code -->
+</script>  
+<!-- Facebook Pixel Code -->
 <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
@@ -91,7 +92,7 @@ fbq('track', "PageView");</script>
 src="https://www.facebook.com/tr?id=702986679818891&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Facebook Pixel Code -->
-  <link href="http://sfglobe.com/css/header.css?1421877939" rel="stylesheet" type="text/css"><script type="text/javascript">
+  <link href="http://sfglobe.com/css/header.css?1465941904" rel="stylesheet" type="text/css"><script type="text/javascript">
 Account = {
   state: false,
   state_change_listeners:[],
@@ -141,8 +142,12 @@ Account = {
       </div>\
       <div><span class='label'>Name</span> <input id='profile_first_name' style='width:86px;margin-right:10px;' class='input_text' type='text' placeholder='First Name' value=''><input id='profile_last_name' style='width:86px;' type='text' class='input_text' placeholder='Last Name' value=''></div>\
       <div id='name_error'></div>\
-      <div><span class='label'>Username</span> <input id='profile_username' class='input_text' type='text' placeholder='Username' value=''></div>\
+      <div style='display:none;'><span class='label'>Username</span> <input id='profile_username' class='input_text' type='text' placeholder='Username' value=''></div>\
       <div id='username_error'></div>\
+      <div><span class='label'>Title</span> <input id='profile_title' class='input_text' type='text' placeholder='Title' value=''></div>\
+      <div id='title_error'></div>\
+      <div><span class='label'>Bio</span> <textarea id='profile_bio' class='input_text' type='text' placeholder='Bio'></textarea></div>\
+      <div id='bio_error'></div>\
       </div>\
       ";
       
@@ -160,10 +165,13 @@ Account = {
           'first_name':document.getElementById('profile_first_name').value,
           'last_name':document.getElementById('profile_last_name').value,
           'username':document.getElementById('profile_username').value,
-          'picture':document.getElementById('profile_picture_input').value
+          'picture':document.getElementById('profile_picture_input').value,
+          'title':document.getElementById('profile_title').value,
+          'bio':document.getElementById('profile_bio').value
         };    
         document.getElementById('name_error').textContent = '';
         document.getElementById('username_error').textContent = '';
+        document.getElementById('title_error').textContent = '';
         Account.updateProfile(updates,function(response) {
           if(response && response.success) {
             saveButton.value = 'Saved';
@@ -225,6 +233,8 @@ Account = {
           document.getElementById('profile_username').value = Account.state.username ? Account.state.username : '';
           document.getElementById('profile_following').innerHTML = Account.state.followed;
           document.getElementById('profile_followers').innerHTML = Account.state.followers;
+          document.getElementById('profile_title').value = Account.state.title;
+          document.getElementById('profile_bio').value = Account.state.bio;
         }
         else {
           dlg.hide();
@@ -1689,8 +1699,8 @@ DeviceLinker = {
   }
 };
 
-</script><script src="http://sfglobe.com/js/astack.js?1452198614"></script><script type="text/javascript" src="//c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
-<script src="http://sfglobe.com/js/amznads.js?1459898726"></script><script type="text/javascript">
+</script><script src="http://sfglobe.com/js/astack.js?1471375434"></script><script type="text/javascript" src="//c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
+<script src="http://sfglobe.com/js/amznads.js?1461021503"></script><script type="text/javascript">
 UI = {
   logobusy: false,
   logocollapsed: false,
@@ -1812,8 +1822,8 @@ setTimeout(function(){
   UI.init();
 },10);
 </script><link href="http://sfglobe.com/css/account.css" rel="stylesheet" type="text/css">
-<script src="http://sfglobe.com/js/account.js"></script>
-<script src="http://sfglobe.com/js/account.notifications.js"></script><script type="text/javascript">
+<script src="http://sfglobe.com/js/account.js?2"></script>
+<script src="http://sfglobe.com/js/account.notifications.js?2"></script><script type="text/javascript">
 (function() {
 Account.setState(false);
 })();
@@ -1907,7 +1917,7 @@ function toggleNotifications(dom) {
 	    }
 	    else {
 	      container.innerHTML = "\
-      <div class='button_action green' onclick='Account.promptLogin();return false;'>"+Utils.htmlentities(Translations.translate('Sign In'))+"</div> \
+      <div class='button_action green' onclick='Account.promptLogin();return false;'>"+Utils.htmlentities(Translations.translate('Sign In'))+" / "+Utils.htmlentities(Translations.translate('Sign Up'))+"</div> \
         ";
 	    }
 	  }
