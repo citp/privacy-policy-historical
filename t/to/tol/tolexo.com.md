@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tolexo.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614145209id_/http%3A//www.tolexo.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tolexo.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119142050id_/http%3A//www.tolexo.com/privacy-policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -28,7 +28,7 @@ We use them to administer the site, track a user's movement and gather broad dem
 
 Please note our website is also not a risks proof website.
 
-**USE OF INFORMATION** ****
+**USE OF INFORMATION**
 
 Business information is used to display the user's business listing or product offerings across our website to fetch maximum business opportunities for the user. If You upload any content on the Website and the same may be available to the other users of the Website. TOLEXO will not be liable for the disclosure and dissemination of such content to any third parties. Once the user's content is displayed on our website, the user may start receiving business enquiries through email, phone calls or SMS notifications, from third parties that might or might not be of their interest, TOLEXO does not exercise any control over it.
 
@@ -42,7 +42,7 @@ In situations when TOLEXO is legally obligated to disclose information to the go
 
 As a general rule, TOLEXO will not disclose or share any of the user's personally identifiable information except when TOLEXO has the user's permission or under special circumstances, such as when TOLEXO believes in good faith that the law requires it or as permitted in terms of this policy. 
 
-TOLEXO may also disclose account information in special cases when TOLEXO has reasons to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating TOLEXO 's Terms of Services or may be causing injury to or interference with (either intentionally or unintentionally) TOLEXO 's rights or property, other TOLEXO website users, or if TOLEXO deems it necessary to maintain, service, and improve its products and services. Personal information collected may be transferred and shared in the event of a sale. ****
+TOLEXO may also disclose account information in special cases when TOLEXO has reasons to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating TOLEXO 's Terms of Services or may be causing injury to or interference with (either intentionally or unintentionally) TOLEXO 's rights or property, other TOLEXO website users, or if TOLEXO deems it necessary to maintain, service, and improve its products and services. Personal information collected may be transferred and shared in the event of a sale.
 
 You are required to submit Your information at the time of making an online purchase on the Website. TOLEXO uses an online payment gateway that is operated by a third party and the information that You share with TOLEXO is transferred and shared with such third party payment gateway operator. The said operator may also have access to Your online purchase history/details that You make from the Website. Extremely sensitive information like Your credit-card details are transacted upon secure sites of approved payment gateways which are digitally under encryption, thereby providing the highest possible degree of care as per current technology. You are advised, however, that internet technology is not 100% safe and You should exercise discretion on using the same.
 
