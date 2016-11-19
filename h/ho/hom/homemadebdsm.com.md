@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homemadebdsm.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610141958id_/http%3A//www.homemadebdsm.com/register.php%3Fppaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemadebdsm.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119122326id_/http%3A//www.homemadebdsm.com/register.php%3Fppaction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Statement - HOMEMADE BDSM
 
@@ -34,4 +34,4 @@ Support
 
 HomeMadeBDSM.com provides email support for users who purchase the software at our Helpdesk. HomeMadeBDSM.com does not currently provide telephone support. If you have any questions or concerns about this Privacy Policy or our information handling practices, please [contact Us]() through email. We will do our best to respond to your inquiry within four business days.  
   
-Local moms need sex. Just send a message and ask to fuck! 
+Find your Alternative playmate! 
