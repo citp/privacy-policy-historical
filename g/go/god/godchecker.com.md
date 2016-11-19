@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the godchecker.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618180626id_/http%3A//www.godchecker.com/oracle/index.php%3Fprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godchecker.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119202339id_/http%3A//www.godchecker.com/oracle/index.php%3Fprivacy-policy) for the most accurate reproduction.*
 
 # Godchecker privacy policy
 
