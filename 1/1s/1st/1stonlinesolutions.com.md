@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1stonlinesolutions.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627133259id_/http%3A//www.1stonlinesolutions.com/%23%21/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1stonlinesolutions.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119101508id_/http%3A//www.1stonlinesolutions.com/%23%21/privacy-policy) for the most accurate reproduction.*
 
 # First Online Solutions - Web design, UX and SEO
 
