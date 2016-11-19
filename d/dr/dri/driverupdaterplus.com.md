@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverupdaterplus.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518001929id_/http%3A//driverupdaterplus.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverupdaterplus.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119185655id_/http%3A//www.driverupdaterplus.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy – Driver Updater Plus
 
