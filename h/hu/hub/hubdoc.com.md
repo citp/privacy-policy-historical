@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hubdoc.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625202959id_/http%3A//www.hubdoc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hubdoc.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119172526id_/http%3A//hubdoc.com/privacy-policy) for the most accurate reproduction.*
 
 # Hubdoc: Document Collection & Management Software | Hubdoc
 
@@ -8,9 +8,7 @@ Privacy Policy
 
 This Privacy Policy has been prepared by Hubdoc™ Inc. (“Hubdoc”). This Privacy Policy sets out the manner in which Hubdoc collects, uses, discloses and otherwise manages personal information. This Privacy Policy applies to the privacy practices on our website, www.hubdoc.com (the “Website”). 
 
-Hubdoc has been received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this website, http://www.hubdoc.com and does not cover information that may be collected through our mobile applications and software downloaded from the website. 
-
-If you have unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>
 
 Collection & use of personal information 
 
@@ -63,6 +61,8 @@ Your personal information may be maintained and processed by service providers i
 
 We may transfer any information we have about you as an asset in conjunction with a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings). You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
 
+In certain situations, Hubdoc may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
+
 Hubdoc and its service providers may provide your personal information in response to a search warrant or other legally valid inquiry or order, or to an investigative body in the case of a breach of an agreement or contravention of law, or as otherwise required or permitted by applicable Canadian, U.S. or other law. We may also disclose personal information where necessary for the establishment, exercise or a defence of legal claims, or as otherwise permitted by law. When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. 
 
 Additional information about our website 
@@ -73,7 +73,7 @@ Technologies such as: cookies, beacons, tags and scripts are used by Hubdoc and 
 
 We use cookies for to remember users’ settings (e.g. language preference) and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
-Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use Flash cookies or HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. 
 
 We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
 
@@ -91,7 +91,7 @@ Our Web site includes Social Media Features, such as the Facebook Like button. T
 
 Access & Removal of Your Personal information 
 
-You have the right to access, update, correct, and delete inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law. You may request access, updating, corrections, or deletions of inaccuracies by contacting us at the contact information provided below or by logging into your account and making the applicable changes in your Profile. You may also request that we delete a third party account and we will cease collecting personal information from the third party account or your personal information and delete relevant account credentials. We will respond to your request to access within 30 days. 
+Upon request Hubdoc will provide you with information about whether we hold any of your personal information. You have the right to access, update, correct, and delete inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law. You may request access, updating, corrections, or deletions of inaccuracies by contacting us at the contact information provided below or by logging into your account and making the applicable changes in your Profile. You may also request that we delete a third party account and we will cease collecting personal information from the third party account or your personal information and delete relevant account credentials. We will respond to your request to access within 30 days. 
 
 We have personal information retention processes designed to retain personal information of our customers for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
