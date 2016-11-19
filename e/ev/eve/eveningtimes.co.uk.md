@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eveningtimes.co.uk privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528034926id_/http%3A//www.eveningtimes.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eveningtimes.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119194442id_/http%3A//www.eveningtimes.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
