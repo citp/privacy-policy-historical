@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whotalking.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224161437id_/http%3A//whotalking.com/site/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whotalking.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119075919id_/http%3A//whotalking.com/site/privacyPolicy) for the most accurate reproduction.*
 
 # Social Media Search Engine - Who is talking on social media network
 
