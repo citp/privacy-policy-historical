@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minecraft-mods.info privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526123047id_/http%3A//minecraft-mods.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraft-mods.info privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119145126id_/http%3A//minecraft-mods.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,8 +26,3 @@ If there are any questions regarding this privacy policy you may contact us usin
 **crazyminecraft.net@gmail.com**
 
  **Thanks for your visitation.**
-
-Back to top
-
-Minecraft mods reviews, downloads and guides. Updated regularly with the latest and greatest Mods for Minecraft. On this website you can find the latest updates of minecraft, as well as to download free mods, resource packs, maps, skins for 1.9, 1.8, 1, 1.7.10, 1.6...   
-Copyright ©2016 – [minecraft-mods.info](http://www.minecraft-mods.info/). All rights reserved. Minecraft-mods.info is not affiliated with Mojang AB [](http://minecraft-mods.info/)
