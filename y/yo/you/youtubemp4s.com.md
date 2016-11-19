@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youtubemp4s.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630205612id_/http%3A//youtubemp4s.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youtubemp4s.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119045048id_/http%3A//youtubemp4s.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - YoutubeMP4s
 
