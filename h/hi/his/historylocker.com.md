@@ -1,100 +1,101 @@
-> *The following text is extracted and transformed from the historylocker.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623102801id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historylocker.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119025919id_/http%3A//historylocker.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy – HistoryLocker
 
-**Go Daddy Respects Your Privacy**
+This policy describes how and why HistoryLocker.com collects non-personally identifiable data from users and website visitors to http://WWW.HistoryLocker.COM, and how that data will be used. HistoryLocker.com is committed to respecting the privacy of non-personal identifiable data gathered.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+HistoryLocker.com’s Privacy Policy is incorporated into and subject to the HistoryLocker.com Terms of Use. Each time that you access or use the Site you signify that you have read, understand, and agree to be bound by the Terms of Use, and this Privacy Policy. If you do not agree to the Terms of Use and this Privacy Policy, you must discontinue using our Services.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+**Information That Is Collected**
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+When you provide us with contact or other information in connection with a particular activity, product or service, including your email address or telephone number, you expressly consent to our communicating with you about our products or services using the information you provided to us. You also attest that you have the legal authority over any telephone number you provide to us and can provide us with the authorization to contact you. This means we may contact you, in person or by recorded message, by e-mail, telephone and/or mobile telephone number (including use of automated dialing equipment), text (SMS) message, or any other means of communication that your wireless or other telecommunications device may be capable of receiving.
 
-**Information Collection and Use**
+**Information you provide to us**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+In order to provide the Services, we collect the following types of information from you:
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Personally Identifiable Information (user-provided information)
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Personally identifiable information is any information that may be used to identify or contact you personally, such as your name, email address, gender, birthdates, phone number, postal or other physical address. If you register for an account, then we may collect certain personally identifiable information during the registration process, including your name, email address. You may also provide personal information to us when participating in a survey or poll or when you post information via our social networking platform. Whether or not to provide this information is your choice; however, certain personally identifiable information is required to access and use some of the Services.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Non-Personal Information/ Anonymous Data (automatically collected information which doesn’t identify the user).
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Non-personal/anonymous data is any data or information that does not personally identify you. We obtain non-personal information about you from information that you provide to us, either separately or together with your personally identifiable information. We also automatically collect certain non-personal information from you when you use our Services and may include such information as your Internet Protocol address, your browser, recent search history, and your activity on our websites or website of our partners .
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+We use non-personally identifiable data collected from users and website visitors in order to:
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+1)      To improve the quality and functionality of the website, enhance your experience, create new services (including customized services), change/cancel existing content and services, or for other internal and statistical purposes.
+
+2)      To present you relevant content, marketing materials and advertisements, by analyzing your interests from the web pages you visit and online services that you use.
+
+3)      To provide you with support and handle inquires.
+
+4)      To enforce our terms of use.
+
+5)      To comply with any applicable law and assist law enforcement agencies as required.
+
+6)      To conduct surveys and market researches.
+
+7)      We may use anonymous, statistical or aggregated information about the website’s use and share, publish, post, disseminate, transmit or otherwise communicate or make available such information, to suppliers, business partners, sponsors, affiliates and any other third party, at our sole discretion.
+
+8)      To provide you with transactional communication. We may send you notices from time to time relating to your account, your subscriptions and other products and services you have requested or in which you are currently enrolled. These may include order confirmations, renewal notices, invoices or customer service notifications.
+
+9)      To provide you with Email newsletters-We may send you our email newsletter(s). If you wish to unsubscribe from our email newsletter(s), simply email unsubscribe to [unsubscribe@HistoryLocker.com](mailto:unsubscribe@HistoryLocker.com)
+
+10)  To provide you with Email marketing offers, reader surveys and other promotional material.
+
+**Information You Disclose Publicly**
+
+The Site may permit you to submit photographs, user profiles, writings, music, video, questions, comments or other content, which may include Personal Information . We or others may reproduce, publish, distribute or otherwise use this Content in any media or format (currently existing or hereafter developed). Others may have access to this Content and may have the ability to share it with third parties. Please think carefully before deciding what information you share, including Personal Information, in connection with your Personal Content. Please note that we do not control who will have access to the information that you choose to make public, and cannot ensure that parties who have access to such publicly available information will respect your privacy or keep it secure. This Privacy Policy does not apply to any information that you disclose publicly, share with others or otherwise upload onto the Site. We are not responsible for the accuracy, use or misuse of any content or information that you disclose or receive through the Site . For the full terms and conditions regarding Personal Content you submit to the Site, please review our Terms of Use.
+
+Third Party Content and Links To Third Party Sites
+
+The Site may contain content that is supplied by a third party, and those third parties may collect Site   usage information when you browse web pages from the Site or content served to your browser. In addition, when you are on the Site you may be directed to other web sites that are operated and controlled by third parties that we do not control. We are not responsible for the privacy practices employed by any of these third parties or third party web sites. For example, if you “click” on a banner advertisement, the “click” may take you off the Site   onto a different web site. These other web sites may send their own cookies to you, independently collect data or solicit Personal Information and may or may not have their own published privacy policies. We encourage you to note when you leave our Site   and to read the privacy statements of all third party web sites before submitting any Personal Information to those sites.
+
+**Cookies , Web Beacons and Log Files**
+
+Cookies may be used on some pages of our site. Cookies are small text files placed on your hard drive that assist us in providing a more customized website experience. It is our policy to use cookies to make navigation of our website easier for visitors
+
+**_Cookies_** : When you use our Services, we may send one or more “cookies” (small data files) to your computer to uniquely identify your browser and enable us to help you log in faster and generally enhance your navigation through the Services. Cookies save you time, for example, if you personalize a web page, or navigate within the Services, a cookie recalls your specific information on subsequent visits. A cookie file can contain information such as a user ID that the website uses to track the pages you’ve visited, but the only personal information a cookie can contain is information you supply yourself. A persistent cookie remains on your computer after you close your browser so that it can be used by your browser on subsequent visits to use the Services. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. In addition to enhancing the user experience, we may use cookies to track traffic user traffic patterns. We do this to determine the usefulness and efficiency of our Services and its various pages, and to analyze traffic patterns, in order to constantly improve the Services and better serve our customers.
+
+**_Web Beacons/Pixel Tracking_** : HistoryThings.com may employ a common technique usually referred to as “pixel tracking” to measure the effectiveness of marketing and advertisements, as well as compile aggregate usage statistics. Pixel tracking, which may be used in connection with advertisements on other sites, on our website or in e-mail messages, involves the use of pixel tags (also known as “clear gifs,” “Web beacons” or “1-by-1 gifs”) that are not visible to the user of the site and consist of a few lines of computer coding. For example, if you visit our website from an advertisement on another site, the pixel tag will reference the cookie you received when you clicked on the advertisement. The pixel tag also may register this activity with a business partner to allow us to count the number of times or when an advertisement is accessed. This data is collected for use in our marketing and research. Personally identifiable information about you is not collected by pixel tracking, nor is any tracking information generated from the pixel tag allowed to be used for any other purpose other than to report website activity to us
+
+**_Log Files_** : Log file information is automatically reported by your browser each time you access a web page. When you use the Services, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
+
+If you are concerned about cookies, most browsers permit individuals to decline cookies. A user refusing cookies can still fully navigate our website.
+
+In order to properly manage our website we may anonymously log information on our systems, and identify categories of visitors by items such as domains and browser types. These statistics are used to manage the operational efficiency of our systems.
+
+**Age Limit**
+
+To use this website you must be at least 18 years of age. We never knowingly collect or maintain information at or on our website from those we actually know are under 18. If you are not 18 years of age you must obtain written consent from an adult who is at least 18 years of age before using this website.
 
 **Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+We have taken every reasonable step to safeguard and to help prevent the loss, misuse and alteration of information under our control. However, no data transmission over the Internet or electronic storage of information can be guaranteed to be 100% secure and we cannot anticipate all potential misuse of data over the Internet. Please note that we cannot ensure the security of any information you transmit to us, and your use of the Site indicates that you are willing to assume this risk.
 
-**Updating Your Information**
+**Opt-out**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+To opt-out from any of our direct promotions, please email [unsubscribe@HistoryLocker.com](mailto:unsubscribe@HistoryLocker.com)
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+HistoryThings uses third-party online behavioral advertising technologies which include members of the Network Advertising Initiative. You can opt out of behavioral advertising from the advertising networks in the Network Advertising Initiative by [clicking here.](http://www.networkadvertising.org/choices/)
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**Changes to Policy**
 
-      iii.      You may call us at: (480) 505-8800
+From time to time, we may revise this Privacy Policy. Therefore, it is recommended that you read it periodically. All substantial changes made to this policy will be notified on the website, at our sole discretion, and will take effect immediately.
 
-       iv.      You may fax us at: (480) 505-8844
+**Governing Law**
 
-**Sending Emails**
+This Privacy Policy is governed by and construed in accordance with the laws of the United States. You agree to submit any dispute arising out of your use of this Web site to the exclusive jurisdiction of the courts of the United States.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+**Contact us**
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Please direct all questions in connection with this Policy via e-mail to: **INFO(AT)HistoryLocker(DOT)COM**.
 
-**Compliance with Laws and Law Enforcement**
+Our Mailing Address is :-
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Soledad Media Group, Inc.
 
-**Third Party Service Providers**
+7445 Girard Ave #8
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+San Diego, CA 92037
