@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashmoto.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231211443id_/http%3A//www.motocms.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashmoto.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119091218id_/http%3A//www.motocms.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MotoCMS
 
@@ -77,5 +77,3 @@ Additionally, MotoCMS.com allows select third party entities to set and access t
 ## Changes to This Privacy Policy
 
 We reserve the right to change the terms of this privacy policy at any time. When we make changes, we will revise the “last updated” date at the top of the policy. If there are material changes to this statement or in how MotoCMS will use your personal information, we will notify you by prominently posting a notice of such changes here or on our home page, or by sending you an email. We encourage you to review this policy whenever you visit one of our sites. 
-
-* * *
