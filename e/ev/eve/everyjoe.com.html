@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the everyjoe.com privacy policy that was archived on 2016-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608223342id_/http%3A//www.everyjoe.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the everyjoe.com privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119081518id_/http%3A//www.everyjoe.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US"><!--<![endif]--><!-- the "no-js" class is for Modernizr. --><head>
 	<meta charset="UTF-8">
@@ -26,10 +26,10 @@
     <!-- <meta property="fb:admins" content="100000997673474"/> -->
     <meta property="fb:app_id" content="228138130592017">
     <meta property="og:url" content="http://www.everyjoe.com/privacy/">
-<script src="//cdn.linksmart.com/linksmart.js" async=""></script><script async="" src="https://b-ssl.grvcdn.com/moth-min.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="http://www.zergnet.com/zerg.js?id=24024"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">ord = Math.random()*10000000000000000;</script>
+<script src="//cdn.linksmart.com/linksmart.js" async=""></script><script async="" src="https://b-ssl.grvcdn.com/moth-min.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="http://www.zergnet.com/zerg.js?id=24024"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NSLS7W"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">ord = Math.random()*10000000000000000;</script>
 <script type="text/javascript" src="http://c.jsrdn.com/s/cs.js?p=22195"> </script>
 
-<meta name="description" content="Sports and Entertainment News"><meta name="DC.date.issued" content="2016-06-08T22:24:56-0:00"><meta name="robots" content="index,follow">
+<meta name="description" content="Sports and Entertainment News"><meta name="DC.date.issued" content="2016-11-19T8:15:17-0:00"><meta name="robots" content="index,follow">
 
 <!-- This site is optimized with the Yoast WordPress SEO plugin v1.7 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="Privacy Policy for EveryJoe">
@@ -43,6 +43,7 @@
 <meta name="twitter:url" content="http://www.everyjoe.com/privacy/">
 <!-- / Yoast WordPress SEO plugin. -->
 
+<link rel="stylesheet" id="sociablecss-css" href="http://cdn.everyjoe.com/wp-content/plugins/sociable/css/sociable.css?ver=3.8.3" type="text/css" media="all">
 <link rel="stylesheet" id="theiaPostSlider-css" href="http://cdn.everyjoe.com/wp-content/plugins/theia-post-slider/css/buttons-red.css?ver=1.9.4" type="text/css" media="all">
 <link rel="stylesheet" id="wp-polls-css" href="http://cdn.everyjoe.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.63" type="text/css" media="all">
 <link rel="stylesheet" id="NextGEN-css" href="http://cdn.everyjoe.com/wp-content/plugins/nextgen-gallery/css/nggallery.css?ver=1.0.0" type="text/css" media="screen">
@@ -203,15 +204,26 @@ var siteGlobals = {
 </script>
 <!-- BEGIN GPT -->
 <script type="text/javascript">
-    var googletag = googletag || {};
+    var GTM_TIMEOUT = 3000; //Wait 3 seconds
+	
+	var googletag = googletag || {};
     googletag.cmd = googletag.cmd || [];
-    (function() {var gads = document.createElement("script");
-        gads.async = true;gads.type = "text/javascript";
-        var useSSL = "https:" == document.location.protocol;
-        gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
-        var node = document.getElementsByTagName("script")[0];
-        node.parentNode.insertBefore(gads, node);
-    })();
+    
+	setTimeout(function(){
+		if(!googletag.apiReady) { //Check if GPT API is already loaded (by GTM)
+			(function() {var gads = document.createElement("script");
+				gads.async = true;gads.type = "text/javascript";
+				var useSSL = "https:" == document.location.protocol;
+				gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+				var node = document.getElementsByTagName("script")[0];
+				node.parentNode.insertBefore(gads, node);
+			})();
+		}
+		else {
+			//GPT already loaded
+		}
+	}, GTM_TIMEOUT);
+	
 </script>
 
 <script type="text/javascript">
@@ -347,7 +359,11 @@ if (isNaN(parseInt(btCookie.get("_bt_pageviews"), 10))) {
                 .setTargeting('pageviews',adGlobal.target.pageviews)
                 .setTargeting('tags', adGlobal.target.tags);
 
-            googletag.enableServices();
+            if(typeof pbjs_setTargeting === 'function') {
+				pbjs_setTargeting(); //Set targeting for header bidding
+			}
+			
+			googletag.enableServices();
 
             //Wait for ad slots to render
             googletag.pubads().addEventListener('slotRenderEnded', function(event) {
@@ -366,8 +382,17 @@ if (isNaN(parseInt(btCookie.get("_bt_pageviews"), 10))) {
         });
     }
 </script>
-<!-- END GPT --><script async="" type="text/javascript" src="//everyjoecom.disqus.com/count.js"></script></head>
+<!-- END GPT -->
+
+<!-- Google Tag Manager <script> part -->
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NSLS7W');
+</script>
+<!-- End Google Tag Manager --><script async="" type="text/javascript" src="//everyjoecom.disqus.com/count.js"></script></head>
 <body class="page page-id-116841 page-template-default singular two-column right-sidebar">
+<!-- Google Tag Manager <noscript> -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NSLS7W" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
 
 <!--------------- BEGIN div-gpt-ad-oop ---------------->
 <div id="div-gpt-ad-oop" style="width:0px;height:0px;"></div>
@@ -674,7 +699,31 @@ You may view or change your information at any time by <a href="/contact/">conta
     E-mail: <a href="mailto:privacy@everyjoe.com">privacy@everyjoe.com</a>
 </p>
 <p><!-- END THEIA POST SLIDER --></p>
-			</div><!-- .entry-content -->
+<!-- Start Sociable --><div class="sociable"><div class="sociable_tagline">Be Sociable, Share!</div><ul class="clearfix"></ul><div onmouseout="fixOnMouseOut(this,event,'post-116841')" id="sociable-post-116841" style="display:none;">   
+
+    <div style="top: auto; left: auto; display: block;" id="sociable">
+
+
+
+		<div class="popup">
+
+			<div class="content">
+
+				<ul><li style="heigth:32px;width:32px"><a title="Facebook" class="option1_32" style="background-position:-96px 0px" rel="nofollow" target="_blank" href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.everyjoe.com%2Fprivacy%2F&amp;t=Privacy%20Policy" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.facebook.com']);"></a></li><li style="heigth:32px;width:32px"><a title="Myspace" class="option1_32" style="background-position:0px -32px" rel="nofollow" target="_blank" href="http://www.myspace.com/Modules/PostTo/Pages/?u=http%3A%2F%2Fwww.everyjoe.com%2Fprivacy%2F&amp;t=Privacy%20Policy" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.myspace.com']);"></a></li><li style="heigth:32px;width:32px"><a title="Twitter" class="option1_32" style="background-position:-288px -32px" rel="nofollow" target="_blank" href="http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.everyjoe.com%2Fprivacy%2F%20  SHARETAG" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://twitter.com']);"></a></li><li style="heigth:32px;width:32px"><a title="LinkedIn" class="option1_32" style="background-position:-288px 0px" rel="nofollow" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.everyjoe.com%2Fprivacy%2F&amp;title=Privacy%20Policy&amp;source=EveryJoe+Sports+and+Entertainment+News&amp;summary=%0D%0A%20%20%20%20Thank%20you%20for%20visiting%20a%20Defy%20Media%2C%20LLC%20website%20%28the%20%22Site%22%29%21%20The%20Site%20is%20strongly%20committed%20to%20protecting%20your%20privacy.%20The%20purpose%20of%20this%20privacy%20policy%20is%20to%20inform%20users%20of%20the%20Site%20as%20to%20what%20information%20we%20collect%20and%20how%20and%20why%20we%20use" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.linkedin.com']);"></a></li><li style="heigth:32px;width:32px"><a title="Delicious" class="option1_32" style="background-position:-32px 0px" rel="nofollow" target="_blank" href="http://delicious.com/post?url=http%3A%2F%2Fwww.everyjoe.com%2Fprivacy%2F&amp;title=Privacy%20Policy&amp;notes=%0D%0A%20%20%20%20Thank%20you%20for%20visiting%20a%20Defy%20Media%2C%20LLC%20website%20%28the%20%22Site%22%29%21%20The%20Site%20is%20strongly%20committed%20to%20protecting%20your%20privacy.%20The%20purpose%20of%20this%20privacy%20policy%20is%20to%20inform%20users%20of%20the%20Site%20as%20to%20what%20information%20we%20collect%20and%20how%20and%20why%20we%20use" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://delicious.com']);"></a></li><li style="heigth:32px;width:32px"><a title="Digg" class="option1_32" style="background-position:-64px 0px" rel="nofollow" target="_blank" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.everyjoe.com%2Fprivacy%2F&amp;title=Privacy%20Policy&amp;bodytext=%0D%0A%20%20%20%20Thank%20you%20for%20visiting%20a%20Defy%20Media%2C%20LLC%20website%20%28the%20%22Site%22%29%21%20The%20Site%20is%20strongly%20committed%20to%20protecting%20your%20privacy.%20The%20purpose%20of%20this%20privacy%20policy%20is%20to%20inform%20users%20of%20the%20Site%20as%20to%20what%20information%20we%20collect%20and%20how%20and%20why%20we%20use" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://digg.com']);"></a></li><li style="heigth:32px;width:32px"><a title="Reddit" class="option1_32" style="background-position:-128px -32px" rel="nofollow" target="_blank" href="http://reddit.com/submit?url=http%3A%2F%2Fwww.everyjoe.com%2Fprivacy%2F&amp;title=Privacy%20Policy" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://reddit.com']);"></a></li><li style="heigth:32px;width:32px"><a title="StumbleUpon" class="option1_32" style="background-position:-224px -32px" rel="nofollow" target="_blank" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.everyjoe.com%2Fprivacy%2F&amp;title=Privacy%20Policy" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.stumbleupon.com']);"></a></li><li style="heigth:32px;width:32px"><a onclick="javascript:var%20ipinsite='Good%20Vibes.%20Vuible.com',ipinsiteurl='http://vuible.com/';(function(){if(window.ipinit!==undefined){ipinit();}else{document.body.appendChild(document.createElement('script')).src='http://vuible.com/wp-content/themes/ipinpro/js/ipinit.js';}})();" style="cursor:pointer" rel="nofollow" title="Vuible.com | Share positive messages (images and videos only)"></a><a title="Vuible.com | Share positive messages (images and videos only)"> <img style="" src="http://cdn4.everyjoe.com/wp-content/plugins/sociable/images/option1/32/vuible.png"></a></li><li style="heigth:32px;width:32px"><a title="Google Bookmarks" class="option1_32" style="background-position:-192px 0px" rel="nofollow" target="_blank" href="http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http%3A%2F%2Fwww.everyjoe.com%2Fprivacy%2F&amp;title=Privacy%20Policy&amp;annotation=%0D%0A%20%20%20%20Thank%20you%20for%20visiting%20a%20Defy%20Media%2C%20LLC%20website%20%28the%20%22Site%22%29%21%20The%20Site%20is%20strongly%20committed%20to%20protecting%20your%20privacy.%20The%20purpose%20of%20this%20privacy%20policy%20is%20to%20inform%20users%20of%20the%20Site%20as%20to%20what%20information%20we%20collect%20and%20how%20and%20why%20we%20use" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.google.com']);"></a></li><li style="heigth:32px;width:32px"><a title="HackerNews" class="option1_32" style="background-position:-256px 0px" rel="nofollow" target="_blank" href="http://news.ycombinator.com/submitlink?u=http%3A%2F%2Fwww.everyjoe.com%2Fprivacy%2F&amp;t=Privacy%20Policy" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://news.ycombinator.com']);"></a></li><li style="heigth:32px;width:32px"><a title="MSNReporter" class="option1_32" style="background-position:-352px 0px" rel="nofollow" target="_blank" href="http://reporter.es.msn.com/?fn=contribute&amp;Title=Privacy%20Policy&amp;URL=http%3A%2F%2Fwww.everyjoe.com%2Fprivacy%2F&amp;cat_id=6&amp;tag_id=31&amp;Remark=%0D%0A%20%20%20%20Thank%20you%20for%20visiting%20a%20Defy%20Media%2C%20LLC%20website%20%28the%20%22Site%22%29%21%20The%20Site%20is%20strongly%20committed%20to%20protecting%20your%20privacy.%20The%20purpose%20of%20this%20privacy%20policy%20is%20to%20inform%20users%20of%20the%20Site%20as%20to%20what%20information%20we%20collect%20and%20how%20and%20why%20we%20use" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://reporter.es.msn.com']);"></a></li><li style="heigth:32px;width:32px"><a title="BlinkList" class="option1_32" style="background-position:0px 0px" rel="nofollow" target="_blank" href="http://www.blinklist.com/index.php?Action=Blink/addblink.php&amp;Url=http%3A%2F%2Fwww.everyjoe.com%2Fprivacy%2F&amp;Title=Privacy%20Policy" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.blinklist.com']);"></a></li><li style="heigth:32px;width:32px"><a title="Sphinn" class="option1_32" style="background-position:-192px -32px" rel="nofollow" target="_blank" href="http://sphinn.com/index.php?c=post&amp;m=submit&amp;link=http%3A%2F%2Fwww.everyjoe.com%2Fprivacy%2F" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://sphinn.com']);"></a></li><li style="heigth:32px;width:32px"><a title="Posterous" class="option1_32" style="background-position:-64px -32px" rel="nofollow" target="_blank" href="http://posterous.com/share?linkto=http%3A%2F%2Fwww.everyjoe.com%2Fprivacy%2F&amp;title=Privacy%20Policy&amp;selection=%0D%0A%20%20%20%20Thank%20you%20for%20visiting%20a%20Defy%20Media%2C%20LLC%20website%20%28the%20%22Site%22%29%21%20The%20Site%20is%20strongly%20committed%20to%20protecting%20your%20privacy.%20The%20purpose%20of%20this%20privacy%20policy%20is%20to%20inform%20users%20of%20the%20Site%20as%20to%20what%20information%20we%20collect%20and%20how%20and%20why%20we%20use" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://posterous.com']);"></a></li><li style="heigth:32px;width:32px"><a title="Tumblr" class="option1_32" style="background-position:-256px -32px" rel="nofollow" target="_blank" href="http://www.tumblr.com/share?v=3&amp;u=http%3A%2F%2Fwww.everyjoe.com%2Fprivacy%2F&amp;t=Privacy%20Policy&amp;s=%0D%0A%20%20%20%20Thank%20you%20for%20visiting%20a%20Defy%20Media%2C%20LLC%20website%20%28the%20%22Site%22%29%21%20The%20Site%20is%20strongly%20committed%20to%20protecting%20your%20privacy.%20The%20purpose%20of%20this%20privacy%20policy%20is%20to%20inform%20users%20of%20the%20Site%20as%20to%20what%20information%20we%20collect%20and%20how%20and%20why%20we%20use" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.tumblr.com']);"></a></li><li style="heigth:32px;width:32px"><a title="email" class="option1_32" style="background-position:-160px 0px" rel="nofollow" target="_blank" href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to&amp;su=Privacy%20Policy&amp;body=http%3A%2F%2Fwww.everyjoe.com%2Fprivacy%2F&amp;ui=2&amp;tf=1&amp;shva=1" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://mail.google.com']);"></a></li><li style="heigth:32px;width:32px"><a title="Google Reader" class="option1_32" style="background-position:-224px 0px" rel="nofollow" target="_blank" href="http://www.google.com/reader/link?url=http%3A%2F%2Fwww.everyjoe.com%2Fprivacy%2F&amp;title=Privacy%20Policy&amp;srcURL=http%3A%2F%2Fwww.everyjoe.com%2Fprivacy%2F&amp;srcTitle=EveryJoe+Sports+and+Entertainment+News" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.google.com']);"></a></li><li style="heigth:32px;width:32px"><a class="option1_32" style="cursor:pointer;background-position:-128px 0px" rel="nofollow" title="Add to favorites - doesn't work in Chrome" onclick="javascript:AddToFavorites();"></a></li><li style="heigth:32px;width:32px"><a style="cursor:poainter" rel="nofollow" onmouseover="more(this,'post-116841')"><img style="margin-top:9px" src="http://cdn3.everyjoe.com/wp-content/plugins/sociable/images/more.png"></a></li></ul>			
+
+			</div>        
+
+		  <a style="cursor:pointer" onclick="hide_sociable('post-116841',true)" class="close">
+
+		  <img onclick="hide_sociable('post-116841',true)" title="close" src="http://cdn.everyjoe.com/wp-content/plugins/sociable/images/closelabel.png">
+
+		  </a>
+
+		</div>
+
+	</div> 
+
+  </div></div><div class="sociable"><ul class="clearfix"><li id="Twitter_Counter"><a href="https://twitter.com/share" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://twitter.com']);" data-text="Privacy Policy - http://www.everyjoe.com/privacy/" data-url="http://www.everyjoe.com/privacy/" class="twitter-share-button" data-count="horizontal">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script></li><li id="Facebook_Counter"><iframe src="http://www.facebook.com/plugins/like.php?href=http://www.everyjoe.com/privacy/&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font" scrolling="no" frameborder="0" style="border:none; overflow:hidden;height:32px;width:100px" allowtransparency="true"></iframe></li></ul></div><!-- End Sociable -->			</div><!-- .entry-content -->
 	<footer class="entry-meta">
 			</footer><!-- .entry-meta -->
 </article><!-- #post-116841 -->
@@ -857,7 +906,7 @@ jQuery(document).ready(function() {        jQuery(".adminbar-quick-backup-run a"
             jQuery.ajax({
                 type: 'post', success: function(json) { alert(json.message); },
                 dataType: 'json', data: { runquick: {id: 1, type: code, control: 0} },
-                url: gdpt_ajax_url + '?action=presstools_backup_quick&_ajax_nonce=9702699ecb'
+                url: gdpt_ajax_url + '?action=presstools_backup_quick&_ajax_nonce=36d4e9dda0'
             });
         });
     });</script>
@@ -875,8 +924,8 @@ var pollsL10n = {"ajax_url":"http:\/\/www.everyjoe.com\/wp-admin\/admin-ajax.php
 <script type="text/javascript" src="http://cdn2.everyjoe.com/wp-content/themes/ej_new/js/b5-footer.js"></script>
 <script type="text/javascript" src="http://cdn2.everyjoe.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.3"></script>
 
-<!-- Max memory: 12947032-->
-<!-- time: 0.418 -->
+<!-- Max memory: 12961424-->
+<!-- time: 0.376 -->
 
 <div class="share-tip-window" id="share-tip-window">
 	<div class="share-tip-dialog">
@@ -894,7 +943,7 @@ var pollsL10n = {"ajax_url":"http:\/\/www.everyjoe.com\/wp-admin\/admin-ajax.php
 			<input type="hidden" name="tip_post" id="tip_post" value="http://www.everyjoe.com/privacy/">
 			<input type="hidden" name="tip_submit" id="tip_submit" value="0">
 			<input type="submit" value="Share" onclick="el = document.getElementById('tip_submit'); el.value = 1;"> &nbsp; or &nbsp; <a href="" onclick="close_modal_window('share-tip-window'); return false;">Cancel</a>
-			<input type="hidden" name="wp_nonce" value="ed0daab23d"><input type="hidden" name="form_id" value="submit-tip-v2"><input type="hidden" name="b5_form_hash" value="709eb2df51042e9d0bc56ff16f3e78ec50fa64e9ab883f2f16d4abba4cf7a51b"></form>		</div>
+			<input type="hidden" name="wp_nonce" value="307d27145a"><input type="hidden" name="form_id" value="submit-tip-v2"><input type="hidden" name="b5_form_hash" value="709eb2df51042e9d0bc56ff16f3e78ec50fa64e9ab883f2f16d4abba4cf7a51b"></form>		</div>
 	</div>
 </div>
 <!-- nagios check -->
@@ -985,8 +1034,8 @@ s.parentNode.insertBefore(mb, s);
 
 Minified using memcached
 Page Caching using memcached
-Database Caching 92/98 queries in 0.054 seconds using memcached
-Object Caching 1776/1985 objects using memcached
+Database Caching 88/98 queries in 0.056 seconds using memcached
+Object Caching 1799/2008 objects using memcached
 Content Delivery Network via cdn.everyjoe.com
 
- Served from: www.everyjoe.com @ 2016-06-08 18:24:56 by W3 Total Cache --></body></html>
+ Served from: www.everyjoe.com @ 2016-11-19 03:15:17 by W3 Total Cache --></body></html>
