@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vac-ban.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604134712id_/http%3A//www.vac-ban.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vac-ban.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119020507id_/http%3A//www.vac-ban.com/policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - English
+# VAC-BAN.com - CS:GO stats tracking & VAC ban notifications
 
 This privacy policy outlines how information collected through our site is both used and protected. Information which we request from users, or information that is made available to us will be used with accordance to this policy.
 
