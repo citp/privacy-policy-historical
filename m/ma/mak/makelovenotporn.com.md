@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makelovenotporn.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316225352id_/http%3A//makelovenotporn.com/pages/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makelovenotporn.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119151017id_/http%3A//makelovenotporn.com/pages/policies) for the most accurate reproduction.*
 
 # Make Love Not Porn :: Porn World vs. Real World
 
@@ -24,7 +24,7 @@ We may also collect non-personal or clickstream information from you when you ac
 
 Is your information safe with us?
 
-Except as noted below, we donít share or sell your personal information. As necessary, we may share non-personal information with our trusted third party service providers, such as the corporations that manage or host our Website, to perform services on our behalf. They typically use non-personal, anonymous informationólike clickstream information regarding visit durationóthat isnít identifiable with a particular visitor to further improve the Website.
+Except as noted below, we donÃ­t share or sell your personal information. As necessary, we may share non-personal information with our trusted third party service providers, such as the corporations that manage or host our Website, to perform services on our behalf. They typically use non-personal, anonymous informationÃ³like clickstream information regarding visit durationÃ³that isnÃ­t identifiable with a particular visitor to further improve the Website.
 
 The only time when we may share your personal information with a third party is in response to a legal process and/or where we (or an enforcement agency) believe your actions may violate applicable laws, or our user agreement, or where we believe your actions threaten the rights, property or safety of our company, its users (or the general public).
 
