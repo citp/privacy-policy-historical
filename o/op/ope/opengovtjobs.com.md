@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opengovtjobs.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611223054id_/http%3A//www.opengovtjobs.com/privacy-policy-opengovtjobs-com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opengovtjobs.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119141712id_/http%3A//www.opengovtjobs.com/privacy-policy-opengovtjobs-com) for the most accurate reproduction.*
 
-# Privacy Policy (OpenGovtJobs.Com) - Open Govt Jobs 2016
+# Privacy Policy (OpenGovtJobs.Com) - Open Govt Jobs 2017
 
 At www.opengovtjobs.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.opengovtjobs.com and how it is used.
 
