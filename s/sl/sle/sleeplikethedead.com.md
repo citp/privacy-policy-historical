@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleeplikethedead.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503141147id_/http%3A//www.sleeplikethedead.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleeplikethedead.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119085504id_/http%3A//www.sleeplikethedead.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -28,7 +28,7 @@ We use third-party advertising companies to serve ads when you visit our website
 
   * Google, as a third party vendor, uses cookies to serve ads on Sleeplikethedead.com.
   * Google's use of the DART cookie enables it to serve ads to visitors to our site based on their visit to our sites and other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy. ](http://www.google.com/privacy_ads.html)
+  * Users may opt out of the use of the DART cookie; learn more [here](https://support.google.com/ads/answer/2662922?hl=en).
 
 
 
@@ -46,7 +46,7 @@ Sleep Like The Dead has security measures in place to protect the loss, misuse, 
 
 ### Disclosure regarding changes in this policy
 
-Sleep Like The Dead has created this privacy statement in order to demonstrate our firm commitment to privacy. If you have any questions pertaining to this privacy policy and its contents, please [contact us](https://web.archive.org/web/20160503141147id_/http%3A//www.sleeplikethedead.com/contact.html).
+Sleep Like The Dead has created this privacy statement in order to demonstrate our firm commitment to privacy. If you have any questions pertaining to this privacy policy and its contents, please [contact us](https://web.archive.org/web/20161119085504id_/http%3A//www.sleeplikethedead.com/contact.html).
 
 We reserve the right to change, clarify or extend this policy statement from time to time based on our needs, the needs of our visitors, changes in technology or changes in applicable law. 
 
