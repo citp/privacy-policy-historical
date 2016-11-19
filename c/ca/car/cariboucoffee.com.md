@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cariboucoffee.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617045005id_/http%3A//cariboucoffee.com/footer-folder/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cariboucoffee.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119030714id_/http%3A//www.cariboucoffee.com/footer-folder/privacy) for the most accurate reproduction.*
 
 # Your Privacy
 
-**Caribou Coffee Privacy Statement June 3, 2003**  
+**Caribou Coffee Privacy Statement July, 2016**  
 Caribou Coffee Company, Inc. ("Caribou Coffee") knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully. Therefore, this online Privacy Statement tells you about the information Caribou Coffee collects through the services available on www.cariboucoffee.com (the "Site"), and how we use that information. 
 
 By using the Site, you are accepting the practices described in this Privacy Statement, as modified by us from time to time. If we change this Privacy Statement, we will post a notice on the home page of www.cariboucoffee.com and change the date at the top of this Privacy Statement, so that you are always aware of the information that we collect and how we use it. Therefore, we encourage you to check this page periodically for updates or changes whenever you visit the Site. 
@@ -72,8 +72,5 @@ The Site may include links to other sites on the Internet that are owned and ope
 
 You should contact the site administrator or Webmaster for those External Sites if you have any concerns regarding any matter related to or available from such External Sites, including without limitation, the privacy practices of such sites. 
 
-**Cell Phone** Caribou will only send our customers text messages regarding promotional offers or other news if a customer specifically grants us permission. A customer has the right to choose not to receive Caribou text messages by simply notifying us of their preference or responding STOP to 65017. This process is commonly termed opting-out or unsubscribing. 
-
-Caribou keeps your cell phone number private at all times. As the term suggests, "customer identifiable information" is information which can be associated with a specific individual or entity, including, for example, a customer's name, address, or telephone number or any preferences. 
-
-Caribou does not knowingly, directly or passively, collect information cell phone information from children under the age of 13. If we create offers and products that make it appropriate to collect information from children under the age of 13, we will notify you of the change in this Policy. 
+**Cell Phone**  
+Caribou will only send our customers text messages regarding promotional offers or other news if a customer specifically grants us permission. A customer has the right to choose not to receive Caribou text messages by simply notifying us of their preference or responding STOP to 65017 or by contacting us at 1.888.CARIBOU (1.888.227.4268) weekdays from 8:00 a.m. - 4:00 p.m. CT. 
