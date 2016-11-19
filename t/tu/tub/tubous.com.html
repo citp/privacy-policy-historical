@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tubous.com privacy policy that was archived on 2016-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160606085937id_/http%3A//www.tubous.com/pages/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tubous.com privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119011916id_/http%3A//www.tubous.com/pages/policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -12,16 +12,16 @@
     <link href="http://tubous.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/css/nouislider.css" rel="stylesheet" type="text/css">
     <link href="http://tubous1.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/css/jquery-ui.css" rel="stylesheet" type="text/css">
     <link href="http://tubous2.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/css/jquery.selectbox.css" rel="stylesheet" type="text/css">
-    <link href="http://tubous3.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/css/all.css" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Roboto+Condensed:400,300" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Passion+One:400,700,900" rel="stylesheet" type="text/css">
-
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
-	function dbglog(data)
-	{
-		console.log(data);
-	}
 	
+    <link href="http://tubous3.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/compiled/style.v1.1.15.css" rel="stylesheet" type="text/css">
+	
+	<link rel="stylesheet" href="http://tubous3.fuckandcdn.com/tubous/tubousstatic/v30/common/font/Open_Sans/include.css">
+    <link rel="stylesheet" href="http://tubous2.fuckandcdn.com/tubous/tubousstatic/v30/common/font/Roboto_Condensed/include.css">
+	<link rel="stylesheet" href="http://tubous1.fuckandcdn.com/tubous/tubousstatic/v30/common/font/Passion_One/include.css">
+
+	<link href="http://tubous.fuckandcdn.com/tubous/tubousstatic/v30/common/css/validationEngine.jquery.css" rel="stylesheet" type="text/css">
+	
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
 	var BaseEditor = {
 		COMMAND_SUCCEEDED: 'success',
 		COMMAND_FAILED: 'error'
@@ -32,7 +32,13 @@
 		MISSING: 2	};
 	
 	var COMMON_STATIC_CDN_URL = 'http://tubous.fuckandcdn.com/tubous/tubousstatic/v30/common/';
+	var COMMON_STATIC_CDN_URL_1 = 'http://tubous1.fuckandcdn.com/tubous/tubousstatic/v30/common/';
+	var COMMON_STATIC_CDN_URL_2 = 'http://tubous2.fuckandcdn.com/tubous/tubousstatic/v30/common/';
+	var COMMON_STATIC_CDN_URL_3 = 'http://tubous3.fuckandcdn.com/tubous/tubousstatic/v30/common/';
 	var STATIC_CDN_URL = 'http://tubous.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/';
+	var STATIC_CDN_URL_1 = 'http://tubous1.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/';
+	var STATIC_CDN_URL_2 = 'http://tubous2.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/';
+	var STATIC_CDN_URL_3 = 'http://tubous3.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/';
 	var ALBUMS_CDN_URL = 'http://sunbigpics.fuckandcdn.com/work/';
 	var PATH_WEB = 'http://www.tubous.com/';
 	var PATH_WEB_STATISTIC = 'http://st.tubous.com/';
@@ -43,63 +49,96 @@
 	var THUMB_CDN_URL = 'http://tubous.fuckandcdn.com/tubous/thumbs/320x240/';
 	var ROOT_DOMAIN = 'tubous.com';
 	var COOKIE_LANGUAGE_SITE_NAME = 'language_site_name';
+	var orientationTypeId = '1';
 	
+	var OrientationType = {}, reservedWordList = [];
+	OrientationType.STRAIGHT = { id: '1', name: 'straight' };
+	OrientationType.GAY = { id: '2', name: 'gay' };
+	OrientationType.SHEMALE = { id: '3', name: 'shemale' };
+	reservedWordList['gay'] = 2;
+	reservedWordList['twink'] = 2;
+	reservedWordList['twinks'] = 2;
+	reservedWordList['stud'] = 2;
+	reservedWordList['studs'] = 2;
+	reservedWordList['hunk'] = 2;
+	reservedWordList['hunks'] = 2;
+	reservedWordList['shemale'] = 3;
+	reservedWordList['shemales'] = 3;
+	reservedWordList['ladyboy'] = 3;
+	reservedWordList['ladyboys'] = 3;
+	reservedWordList['transexual'] = 3;
+	reservedWordList['transexuals'] = 3;
+	reservedWordList['tranny'] = 3;
+	reservedWordList['trannies'] = 3;
 	var langLink = '';
 	
 	var MEMBER = {
 		SYSTEM_MEMBER_ID: 1	};
 	
 	var loggedMember = false;
-
+	var USERPIC_IMG = 'male';
+	
 	var debug = false;
 	
-	if (!debug && window.location.hash == '#debug') {
+	if (!debug && window.location.hash.indexOf('#debug') > -1) {
 		debug = true;
-	} else if (debug && window.location.hash == '#prod') {
+	} else if (debug && window.location.hash.indexOf('#prod') > -1) {
 		debug = false;
 	}
 	
-	if (typeof(console) == 'object' && console.log) {
-		if (console.log.bind) {
-			console.logCopy = console.log.bind(console);
-			
-			console.log = function(data)
-			{
-				if (!debug) {
-					return false;
-				}
-				
+	var consoleMethods = ['log', 'error', 'warn', 'info', 'debug'];
+	
+	if (debug && typeof(console) == 'object' && console.log) {
+		if (console.log.bind && (window.location.hash == '#time' || window.location.hash == '#debug_time')) {
+			console.getTimestamp = function() {
 				var now = new Date();
 				var currentDate =
 					'%c['+
 						(now.getHours() < 10 ? '0' : '') + now.getHours() + ':'+
 						(now.getMinutes() < 10 ? '0' : '') + now.getMinutes() + ':'+
-						(now.getSeconds() < 10 ? '0' : '') + now.getSeconds() + ':'+
+						(now.getSeconds() < 10 ? '0' : '') + now.getSeconds() + '.'+
 						(now.getMilliseconds() < 10 ? '00' : (now.getMilliseconds() < 100 ? '0' : '')) + now.getMilliseconds()+
 					']: ';
-
-				if (arguments.length > 1) {
-					this.logCopy(currentDate, 'color: #00f', arguments);
-				} else {
-					this.logCopy(currentDate, 'color: #00f', data);
-				}
+					
+				return currentDate;
 			};
+
+			for (var x in consoleMethods) {
+				var prop = consoleMethods[x];
+				
+				if (typeof console[prop] == 'function') {
+					console[prop + 'Clone'] = console[prop].bind(console);
+					
+					(function(prop) {
+						console[prop] = function() {
+							this[prop + 'Clone'](
+								this.getTimestamp(),
+								'color: #00f',
+								arguments.length > 1 ? arguments : arguments[0]
+							);
+						};
+					})(prop);
+				}
+			}
 		}
-	} else { // Plug
-		console = {
-			log: function() {}
-		};
+		
+		for (var x in consoleMethods) {
+			var prop = consoleMethods[x];
+			
+			if (typeof console[prop] != 'function') {
+				console[prop] = function() {};
+			}
+		}
+	} else { // Plug's
+		if (typeof(console) != 'object') {
+			console = {};
+		}
+
+		for (var x in consoleMethods) {
+			console[consoleMethods[x]] = function() {};
+		}
 	}
 
-	function dbglog(data)
-	{
-		console.log(
-			arguments.length > 1
-				? arguments
-				: data
-		);
-	}
-	
 	function _(str)
 	{
 		if (typeof DICTIONARY == 'object' && DICTIONARY[str]) {
@@ -107,6 +146,12 @@
 		} else {
 			return str;
 		}
+	}
+	
+	function dbglog()
+	{
+		console.warn('use of deprecated method dbglog');
+		console.log(arguments);
 	}
 </script>
 
@@ -502,37 +547,22 @@
     request us to do so by contacting us at privacy@tubous.com.<br><br>
 </div>
     <div class="footer clearfix">
+
+    
+
     <ul class="menu footer-menu" id="yw2">
         <li class="first"><a href="/pages/terms.html">Terms and conditions</a></li>
         <li><a href="/pages/dmca.html">DMCA</a></li>
         <li><a href="/pages/policy.html">Privacy Policy</a></li>
-        <!--<li><a href="#">Feedback</a></li>-->
+        <li><a href="/export/">Embeds export</a></li>
     </ul>
     <strong class="logo_footer"><a href="/">Tubous</a></strong>
 </div>
 
-<script type="text/javascript" src="http://tubous.fuckandcdn.com/tubous/tubousstatic/v30/common/js/jquery-2.1.4.min.js"></script>
-<script type="text/javascript" src="http://tubous1.fuckandcdn.com/tubous/tubousstatic/v30/common/js/jquery-ui.1.11.4.min.js"></script>
+<script src="http://tubous.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/compiled/jcore.min.v1.1.15.js"></script>
+<script>$.fn.ajaxCallback || document.write('<script src="http://www.tubous.com/common/tubous/compiled/jcore.min.v1.1.15.js"><\/script>')</script>
 
-<script type="text/javascript" src="http://tubous2.fuckandcdn.com/tubous/tubousstatic/v30/common/js/jquery.validationEngine.js"></script>
-<script type="text/javascript" src="http://tubous3.fuckandcdn.com/tubous/tubousstatic/v30/common/js/jquery.validationEngine-en.js"></script>
-<script type="text/javascript" src="http://tubous.fuckandcdn.com/tubous/tubousstatic/v30/common/js/jquery.form.js"></script>
-
-<script type="text/javascript" src="http://tubous1.fuckandcdn.com/tubous/tubousstatic/v30/common/js/jquery.cookie.js"></script>
-<script type="text/javascript" src="http://tubous2.fuckandcdn.com/tubous/tubousstatic/v30/common/js/jquery.autocomplete.min.js"></script>
-
-<script type="text/javascript" src="http://tubous.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/js/functions.js"></script>
-<script type="text/javascript" src="http://tubous1.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/js/jquery.paginator.js"></script>
-<script type="text/javascript" src="http://tubous2.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/js/jquery.selectbox.js"></script>
-<script type="text/javascript" src="http://tubous3.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/js/jquery.simplePagination.js"></script>
-<script type="text/javascript" src="http://tubous.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/js/nouislider.min.js"></script>
-<script type="text/javascript" src="http://tubous1.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/js/money.js"></script>
-<script type="text/javascript" src="http://tubous2.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/js/main.js"></script>
-<script type="text/javascript" src="http://tubous3.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/js/formcallback.js"></script>
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-55dd637574aeb77a" async="async"></script>
-
-<script type="text/javascript" src="http://tubous.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/js/userupload.js"></script>
-<script type="text/javascript" src="http://tubous3.fuckandcdn.com/tubous/tubousstatic/v30/common/js/jquery.ajax.js"></script>
 
 
 <link rel="stylesheet" href="http://tubous.fuckandcdn.com/tubous/tubousstatic/v30/common/tubous/css/simplePagination.css">
@@ -542,11 +572,14 @@
         console.log('-ref');
 </script>
 
-<script id="th_advertisement" src="//cdn1.traffichaus.com/ads/advertisement1.js"></script>
-<script src="/_p4.php"></script>
+<script id="th_advertisement" src="//cdn1ht.traffichaus.com/ads/ads.js"></script>
+<script>
+	if (!mobileAndTabletcheck() && !isAndroidDevice()) {
+		document.write ("<scr"+"ipt type='text/javascript' src='/_p4.php'><\/scr"+"ipt>");
+	}
+</script>
 
-
-</div>
+<script src="/js/_ra_lib.js"></script></div>
 
 
 </body></html>
