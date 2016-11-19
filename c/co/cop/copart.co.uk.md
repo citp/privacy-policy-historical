@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the copart.co.uk privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520101453id_/http%3A//www.copart.co.uk/Content/UK/EN/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copart.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119022926id_/http%3A//www.copart.co.uk/Content/UK/EN/Privacy-Policy) for the most accurate reproduction.*
 
 # Copart UK Privacy Policy - Copart
 
-    **  Privacy Policy   
-**_Last updated on: 12 December 2014_
+    **  Privacy Policy **
+
+Last updated on: 19 September 2016
 
 **What This Privacy Policy Covers**
 
@@ -32,12 +33,13 @@ We do not rent, sell, or share personal information about you with other people 
   * we do not otherwise share personal information about website users with third parties unless doing so is appropriate to carry out a user’s request or it reasonably believes that doing so is legally required or is in our interest to protect its property or other legal rights or the rights or property of others;
   * we may transfer information about you if Copart UK or Copart is acquired by or merged with another company to the extent permitted by applicable law. In this event, we will notify you before information about you is transferred and becomes subject to a different privacy policy;
   * we transfer information about you to sellers of items purchased by you, to buyers of items sold by you and to their service providers that they may retain to facilitate the as­signment of items to our sales venues, and to governmental agencies when required to facilitate the ownership transfer process.
+  * If you apply to become a member of Copart, we may transfer your personal data to third parties for the purpose of carrying out checks to verify your identity and credit status. This means that as well as other checks, your personal data may be used to undertake a full electoral roll search. Third party credit reference agencies may place a search footprint on any electronic file held by such agencies about you and your personal details may be accessed by third parties for the specific purpose of anti-money laundering, credit assessment, identity verification, debt collection, asset reunification, tracing and fraud prevention.
 
 
 
 **International Visitors and Customers**
 
-The Copart UK and Copart UAE web sites are hosted in the United States of America by Copart on our behalf. The personal data provided through the Electronic Services may be store outside the EU by our third party service provider. The United States has not been determined to provide adequate data protection. However, Copart adheres to the Safe Harbor principles negotiated between the United States and the EU regarding data protection for customer data and personal data we receive when you register for our services or use our website. Accordingly, when visiting our website or providing personal data to us, we have taken steps to ensure the adequate protection of the processing of your personal data in accordance with applicable data pro­tection law.
+The Copart UK and Copart UAE web sites are hosted in the United States of America by Copart on our behalf. The personal data provided through the Electronic Services may be stored outside the EU by our third party service provider. The United States has not been determined to provide adequate data protection. However, where any customer data or personal data may be transferred to a third party service provider outside the EU, Copart only does so on the basis of a written contract which incorporates obligations for the protection of such data in accordance with standards set by the EU, also known as a model clause contract. Accordingly, when visiting our website or providing personal data to us, we have taken steps to ensure the adequate
 
 Please note that you are transferring your personal data to the United States and other non-EU countries. By provid­ing your personal data you consent to:
 
