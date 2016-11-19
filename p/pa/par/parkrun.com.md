@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkrun.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618151849id_/http%3A//www.parkrun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkrun.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119034311id_/http%3A//www.parkrun.com/privacy) for the most accurate reproduction.*
 
 # Your privacy on parkrun
 
@@ -9,6 +9,10 @@ Here at parkrun we’re committed to respecting and protecting your online priva
 The collection of information: Every time you connect to parkrun websites your IP (Internet Protocol) address registers on our servers. Your IP address reveals no information other than the number assigned to you. We do not use this technology to get any personal data against your knowledge or free will (i.e. automatically recording email addresses of visitors). Nor do we use it for any purpose other than to help us monitor traffic on our website, or (in case of criminal activity or misuse of our information) to cooperate with law enforcement.
 
 We also store the details you provide to us during registration, which are needed to operate the parkrun site/service (eg to send you your results or for our event teams to identify you when you volunteer). We use this data internally and make copies of it for back-up purposes. We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
+
+## Emails
+
+We will never pass on or sell your email address to any third party. parkrun will always be free to participate in, thanks to the support of our commercial partners. As a registered parkrunner you confirm that you are happy to receive newsletters and marketing emails from us (including offers and promotions on behalf of our official partners) from time to time. All content from our official partners will be sent to you by us on their behalf. If you would prefer not to hear from us or our official partners, you can opt-out of receiving these emails from us at any time by visiting your profile.
 
 ## Cookies
 
@@ -23,10 +27,6 @@ These are cookies that are set by this website directly.
 ## Google Analytics
 
 We use Google Analytics to collect information about visitor behaviour on our website. Google Analytics stores information about what pages you visit, how long you are on the site, how you got here and what you click on. This Analytics data is collected via a JavaScript tag in the pages of our site and is not tied to personally identifiable information. We therefore do not collect or store your personal information (e.g. your name or address) so this information cannot be used to identify who you are. You can find out more about Google’s position on privacy as regards in its [analytics service](http://www.google.com/intl/en_uk/analytics/privacyoverview.html "Google Privacy Overview").
-
-## Google Adsense/DFP
-
-We use Google Adsense and DFP Small Business to display adverts on some parts of our websites. These use cookies to store information about what pages you visit, and which adverts you are shown. You can read more about Google's Adsense cookie policy and DFP cookies.
 
 ## WordPress
 
