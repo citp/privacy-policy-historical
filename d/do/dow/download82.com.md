@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the download82.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603020103id_/http%3A//www.download82.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download82.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119175804id_/http%3A//www.download82.com/privacy-policy) for the most accurate reproduction.*
 
 # Download82 Privacy Policy
 
