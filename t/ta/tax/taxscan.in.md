@@ -1,0 +1,19 @@
+> *The following text is extracted and transformed from the taxscan.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119213434id_/http%3A//www.taxscan.in/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | Taxscan
+
+[ ](http://www.taxscan.in/privacy-policy/ "Privacy Policy")
+
+Tax Scan is a one stop for all the Taxation Law resources. We respects your privacy and is obliged to protect and manage any personal information you share with us through our website www.taxscan.in. We are also committed to take all reasonable care and security precautions to safeguard your personal data and prevent its loss and misuse. You may be required to provide Personally Information at several different points on the Site. By accepting the policy at the time of registration, you expressly approve and consent to the collection, storage, use and disclosure of your Personal Information by us subject to this Privacy statement and terms and conditions.
+
+Information Collection
+
+You can visit/surf the Site without providing any Personal Information. However, if you choose to avail of certain services on the Site, you shall be required to provide certain information for the registration and/or access to such services/web pages. Such information may include, without limitation, your name, email address, contact address, mobile/telephone number(s), sex, age, content, IP address, standard web log information and such other information as may be required for your interaction with the services.
+
+Use
+
+The above information provided by you will be used for Improving the Site and enable us to provide you the most user-friendly experience which is safe, smooth and customized. It may also be used to improve and customize services, content and other commercial /non – commercial features on the website.
+
+Once you registered on TaxScan, your username and location which you provide will be visible to other users of TaxScan. Any comments posted on TaxScan or posts made via the forums of TaxScan are readable by the public. Team TaxScan reserve the right to contact you via the email address you provide, at any time, including but not limited to when you comment, post in forums, or get in touch over the contact forms on the website. However, we cannot guarantee the security or privacy of information or data sent over Internet connections. We will not share your personal information with third parties without your permission. Unless our ownership changes or we merge or enter into a joint-venture with another party; or we are required to do so under any law, or in connection with any legal proceedings and/or to defend our legal rights. We may transfer any information we store and use between any of the countries in which we operate in order to assist us in providing our services. We may use third-party advertising companies to serve ads when you visit TaxScan. These companies may use information (not including your name, address, email address, or telephone number) about your visits to TaxScan in order to provide advertisements about goods and services of interest to you. We reserve the right to update, change or modify this Privacy Statement at any time. The Statement shall come to effect from the date of such update, change or modification.
+
+In no event we are liable for any direct, indirect, punitive, incidental, special, consequential damages or any damages whatsoever including, without limitation, damages for loss of use, data or profits, arising out of the use or performance or inability to use the TaxScan web site or related services. At any stage if you are dissatisfied with any portion of the TaxScan web site, or with any of these terms of use, your sole and exclusive remedy is to discontinue the website.
