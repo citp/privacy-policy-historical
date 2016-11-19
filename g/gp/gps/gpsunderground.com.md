@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpsunderground.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325165309id_/http%3A//gpsunderground.com/forum/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpsunderground.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119092829id_/http%3A//gpsunderground.com/forum/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Contact Us - GPS Underground :: Your Tracks Guide
 
