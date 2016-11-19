@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hammacher.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606162133id_/http%3A//www.hammacher.com/Editorial/Privacy-Policy%3Fpromo%3Dft_cs_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hammacher.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119085858id_/http%3A//www.hammacher.com/Editorial/Privacy-Policy%3Fpromo%3Dft_cs_privacy) for the most accurate reproduction.*
 
 # CS-Privacy-Policy - Hammacher Schlemmer
 
@@ -8,10 +8,12 @@ It is our continued honor to serve you as a Hammacher Schlemmer customer. We ful
 
 We are committed to ensuring your privacy when you shop online with Hammacher Schlemmer. In an effort to improve the online shopping experience at Hammacher.com, we do gather information about our visitors' shopping behavior, but we maintain sole ownership over this information and do not share, sell or rent our findings to third parties, except in the few cases described below.
 
-Hammacher Schlemmer contracts with Omniture for data collection, storage, and reporting services that help us improve your shopping experience. These reporting services use cookies (explained in detail below) to collect information about your usage of Hammacher.com. Omniture is contractually restricted from using your information in any way, other than to help us make our site more useful for you. For more information, including how to opt out of the collection process, please visit:  
+Hammacher Schlemmer contracts with Adobe Analytics and Google Analytics for data collection, storage, and reporting services that help us improve your shopping experience. These reporting services use cookies (explained in detail below) to collect information about your usage of Hammacher.com. Adobe Analytics and Google Analytics are contractually restricted from using your information in any way, other than to help us make our site more useful for you. For more information, including how to opt out of the collection process, please visit:  
 [](http://www.omniture.com/en/privacy/product#optout)
 
 "Cookies" are small bits of information that your Web browser stores on your computer's hard drive. In order to purchase products from the Hammacher Schlemmer site, your Web browser must be enabled to accept cookies. We also use cookies to give credit to those sites that direct traffic to Hammacher.com for marketing purposes. Hammacher Schlemmer does not use cookies to store or collect personal information such as full names, addresses, or payment information.
+
+Technologies other than http cookies may be used by third parties in a similar way, to recognize the email recipients’ computer or device and to keep track of which user identities match to which devices or browsers, and those technologies may not respond to browser settings that block conventional cookies. You may opt of many of these types of technologies by visiting the NAI’s opt out page at [http://www.networkadvertising.org](http://www.networkadvertising.org/).
 
 ## Placing an Order Online
 
@@ -33,6 +35,8 @@ If you do not wish to receive promotional postal and/or e-mail updates from Hamm
 
 Please include your full name, street address, and e-mail address with your correspondence, and tell us how we should restrict use of your information.
 
+We may work with data providers to target advertising to you personally, through online and offline methods including email, display media and direct mail. This advertising may be directed to you because you visited or logged in to our website. When we generate this advertising, data we collect from you through online cookies and other technologies may be combined with other de-identified data (such as a hashed, non-readable email or postal address) in order to tailor ads to you based on your preferences and other information about you. To learn more about targeted advertising, these providers, or how you may opt out, please visit the DAA’s consumer choice page at <http://www.aboutads.info/choices/>.
+
 ## Gift Messages
 
 When you request a gift message with your order, we do not use the information contained in the gift greetings that you fill out, except to execute the message as requested.
@@ -45,8 +49,4 @@ When you e-mail a message to a friend from Hammacher.com using the Add This func
 
 When you request a Hammacher Schlemmer catalog at Hammacher.com or ask to receive e-mail updates, we request your name, address and e-mail address in order to complete your request. We will respect your privacy and use your information in the same way described above under "Placing an Order Online."
 
-## Terms of Use
-
-If you use or order from our Site, you agree to our Terms of Use. The information contained in this Site, including but not limited to these Terms of Use, is subject to change without notice. Your use of the Site following any such change constitutes your agreement to follow and be bound by the rules as changed. For full details, please see [Terms of Use](http://www.hammacher.com/Editorial/TermsOfUse)
-
-_Last updated June 24, 2011_
+_Last updated September 13, 2016_
