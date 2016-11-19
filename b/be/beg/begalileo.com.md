@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the begalileo.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611050512id_/http%3A//www.begalileo.com/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the begalileo.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119131923id_/http%3A//www.begalileo.com/home/privacy_policy) for the most accurate reproduction.*
 
-# beGalileo - Privacy policy
+# beGalileo | Privacy policy
 
 The beGalileo team ("Company") knows that you care about how information about you is used and shared, and we take your privacy seriously. We appreciate your trust that we will do so carefully and sensibly. Please read the following to learn more about our privacy policy. By visiting the beGalileo website & domain name, and any other linked pages, features, content, or application services offered from time to time by Company in connection therewith (collectively, the "Website"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
