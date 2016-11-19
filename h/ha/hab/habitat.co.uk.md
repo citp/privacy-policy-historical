@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the habitat.co.uk privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617031913id_/http%3A//www.habitat.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habitat.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119055546id_/http%3A//www.habitat.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,7 +15,7 @@ Habitat does not knowingly collect data from any unsupervised person under the a
   1. When you register and use this site: 
     * You will be asked to provide certain information such as your name, contact details and possibly credit card or other payment details. We will store this data and hold it on computers or otherwise. We will use this data to fulfil our agreement with you.
     * Some of our services will require further details.
-    * In addition we may gather other information about your use of the website, including by the use of cookies (see section on [Cookies](https://web.archive.org/web/20160617031913id_/http%3A//www.habitat.co.uk/privacy-policy#cookies) below).
+    * In addition we may gather other information about your use of the website, including by the use of cookies (see section on [Cookies](https://web.archive.org/web/20161119055546id_/http%3A//www.habitat.co.uk/privacy-policy#cookies) below).
   2. We may use information that you provide or that is obtained by us: 
     * to register you with our website and to manage any account you hold with us
     * to administer our website services
@@ -89,7 +89,7 @@ For full details about our cookie policy, please see our [Cookie Policy](http:/
 
 ## How can I get my name removed from the habitat.co.uk mailing list?
 
-  19. If you want to be removed from our mailing list, please send an email to [customerservices@habitat.co.uk](mailto:customerservices@habitat.co.uk) with the word 'remove' in the subject line and the email address that you wish to be removed within the email. Please note that it may take up to 28 days to action your request. In addition, each electronic mailing we send you will contain details of how you can un-subscribe.
+  19. If you want to be removed from our mailing list, please send an email to [customerservices@habitat.co.uk](mailto:customerservices@habitat.co.uk?Subject=Remove) with the word 'remove' in the subject line and the email address that you wish to be removed within the email. Please note that it may take up to 28 days to action your request. In addition, each electronic mailing we send you will contain details of how you can un-subscribe.
 
 
 
@@ -99,14 +99,26 @@ For full details about our cookie policy, please see our [Cookie Policy](http:/
 
 
 
+## Product Reviews
+
+  21. Shortly after receiving your product, we may send you an email inviting you to review and rate the product that you purchased.  
+Please be aware that: 
+    * Your review may be shared on other Home Retail Group sites.
+    * Once submitted, it usually takes up to 5 days for your review, question or answer to appear on the website providing it adheres to our publishing guidelines.
+    * It is not possible for you to edit/remove your review after submission.
+    * If you require any further information on this service or wish to have your review removed, you can contact customer services.
+    * We may in our absolute discretion accept or reject any product review which may be submitted to us and may edit any such review for both length and/or content as we see fit. All reviews are submitted on the basis that Habitat or any member of the Group may use the review in any format and for any purpose as it sees fit and for any marketing or promotional purposes.
+
+
+
 ## Contact Us
 
-  21. If you have any comments or queries in connection with our privacy policy, please email customerservices@habitat.co.uk or call 0344 499 4686 or write to the Data Protection Compliance Manager at Home Retail Group plc, 489-499 Avebury Boulevard, Milton Keynes, Buckinghamshire, MK92NW.
+  22. If you have any comments or queries in connection with our privacy policy, please email [customerservices@habitat.co.uk](mailto:customerservices@habitat.co.uk) or call [0344 499 4686](tel:0344 499 4686) or write to the Data Protection Compliance Manager at Home Retail Group plc, 489-499 Avebury Boulevard, Milton Keynes, Buckinghamshire, MK92NW.
 
 
 
 ## Changes to Policy
 
-  22. We may amend and update this policy from time to time. Any changes in the future will be posted on this page. The date of the latest update to this privacy policy is set out at the top of this policy.
+  23. We may amend and update this policy from time to time. Any changes in the future will be posted on this page. The date of the latest update to this privacy policy is set out at the top of this policy.
 
 
