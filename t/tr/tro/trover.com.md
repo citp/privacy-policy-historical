@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trover.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402173957id_/http%3A//www.trover.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trover.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119064036id_/http%3A//www.trover.com/privacy) for the most accurate reproduction.*
 
 # Trover Privacy Policy
 
@@ -32,7 +32,9 @@ We also store email addresses that we obtain through user actions associated wit
 
 ### 3\. How will the information that Trover collects be used?
 
-In general, we use personally identifiable information to serve our users, enable them to take maximum advantage of our services and to improve the products and services we provide to you. For example, we may use personal information to contact our users relating to their registration to our service, to anticipate and resolve problems with our Site and Mobile Application, to respond to customer support inquiries, and to send other Trover administrative and systems-related messages. We reserve the right to send such communications to our users without offering the opportunity to opt-out of receiving them. We do not send advertisements or any other commercial solicitations to our users.
+In general, we use personally identifiable information to serve our users, enable them to take maximum advantage of our services and to improve the products and services we provide to you. For example, we may use personal information to contact our users relating to their registration to our service, to anticipate and resolve problems with our Site and Mobile Application, to respond to customer support inquiries, and to send other Trover administrative and systems-related messages. We reserve the right to send such communications to our users without offering the opportunity to opt-out of receiving them.
+
+If you are visiting the Site or using the Mobile Application from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States, where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to ensure that your privacy is protected. By using the Services (including the Site and Mobile Application), you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy.
 
 ### 4\. With whom does Trover share the personal information it collects about you?
 
@@ -79,6 +81,6 @@ From time to time, we may need to update our Privacy Policy because of changes i
 If you have any questions, comments, or concerns about this Privacy Policy or personally identifiable information you have provided to us, please email us at admin@trover.com or contact us by mail at:
 
 Trover, Inc.  
-307 3rd Ave. S, Suite 520  
+Post Office Box 14329  
 Seattle, WA 98104  
 Attention: Privacy Officer
