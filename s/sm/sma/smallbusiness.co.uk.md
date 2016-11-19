@@ -1,103 +1,126 @@
-> *The following text is extracted and transformed from the smallbusiness.co.uk privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610223133id_/http%3A//www.smallbusiness.co.uk/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallbusiness.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119125038id_/http%3A//preferences.vitessemedia.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy - Vitesse Media preference centre
 
-This website is operated by Vitesse Media Plc, referred to in this policy as "we" or "us".  
-We are committed to protecting and respecting your privacy online while providing a personalised and valuable service. This policy explains:  
-• what personal information we collect about you and your use of this website  
-• how this is information used, including use for:  
-–administration and service provision;  
-–direct marketing – and how you can opt out of this  
-• who we share personal information with and why  
-• how we protect your information  
-• how you can update your details  
-• our use of data for statistical purposes  
-• changes to this policy
+**Privacy Policy**
 
-Please note that this policy only applies to websites of the Vitesse Media Plc group and not to the websites of other organisations to which we provide links. We cannot accept responsibility for how other sites collect and use your personal data and you should check their privacy policies for details.
+Vitesse Media Plc (“we”, “us” or “Vitesse Media”)  is registered to collect and process personal data under the Data Protection Act 1998 (“Act”). Vitesse Media Plc is the data controller of personal information collected by us for the purposes of the Act. We respect and safeguard the privacy of the users of Vitesse Media Plc’s portfolio of websites and associated companies and microsites (“website”), and readers of our magazines which include Information Age Magazine and What Investment Magazine (“ Magazines”).
 
-### What personal information we collect about you and your use of this website?
+This Privacy Policy outlines how we will collect and use your personal information (such as your name, country of origin, date of birth, your email address, mobile telephone number or other contact details and any financial payment information),  how you can limit our use of this data and how we will safeguard your data. Please read this Privacy Policy carefully which should be read together with our website [Terms and conditions](http://www.spectator.co.uk/terms/).
 
-We collect personal information including your name, email address, payment details and user profile information where applicable through our site registration and via our order and registration forms. Where the information is compulsory, in order to enable us to provide a service to you, this is clearly marked on the forms and within the registration. In other cases the provision of information is voluntary but, if given, will help us to provide you with better or more personalised service.
+**1\. What information do we gather?**
 
-### How do we use cookies?
+1.1 We gather information that relates to, and can identify you (e.g. your name and address) and information that does not identify you (e.g. a visitor’s behaviour patterns when they visit our website).  
+We collect information that does not identify you to in order to evaluate our site performance/usability, ensure that our site and services run properly and ensure we are paid for advertising services we offer.  
+We might also collect IP addresses through the placement of cookies which means your numerical address is automatically collected when you access the website and is placed in our Internet access logs.
 
-A cookie is a small piece of information which is stored on your computer’s hard drive by your browser. We use cookies to give you access to the sites and collect information about your use of the sites for certain purposes outlined in this policy. These purposes **do not** include targeting or advertising based on your personal details, or the way you use the site.
+**2\. How do we gather Information?**
 
-The International Chamber of Commerce (ICC) has released guidelines on how different types of cookies must be used, and the consent that must be obtained. Further details of our policy in relation to each type of cookie are below.
+2.1 Information is gathered in 2 ways:
 
-### Category 1: strictly necessary cookies
+(1) indirectly (for example, through our website’s technology or use of an App); and
 
-These cookies enable services you have specifically asked for. We use these cookies for purposes such as allowing you to access secure areas of the website.
+(2) directly (for example, when you provide information on various pages of the website or when you return any completed coupon published in the Magazines).
 
-### Category 2: performance cookies
+2.2 We collect information directly from you in a number of ways, e.g. when you buy a subscription, sign up to email newsletters, submit a nomination for an event or to create a Vitesse Media profile (through  **preferences.vitessemedia.co.uk)** , or through the use of cookies. We also collect information when you voluntarily submit it to us. On our website’s, we provide you with the opportunity to register for various services, register for email newsletters, enter promotions and competitions, event nominations, complete puzzles, purchase products, and participate in online surveys. Throughout the Magazines we give you the opportunity to take up various offers, enter various competitions and promotions and to apply for information about products and services.
 
-These cookies collect anonymous information on the pages visited. They do not collect information that identifies you as a visitor to our website. We only use this information to improve how our website works and not to target you with advertising. We may use these cookies to assess the effectiveness of pay-per-click affiliate advertising, but we do not use them to pass your personal information to advertisers or to target you for advertising.
+2.3 When we collect your information in this way, we will notify you as to how this information will be used and where it will be processed. We will also provide you with the opportunity to indicate your preferences as to the use of your information.
 
-### Category 3: functionality cookies
+**3\. Cookies and how we use them**
 
-These cookies remember choices you make (such as your user name, language or the region you are in) to provide enhanced, more personal features. We use these cookies to remember changes you have made to text size and other parts of web pages you can customise.
+3.1 A cookie is a small piece of information sent by a web server to the web browser, which enables the web server to collect information from the browser. Find out more about the use of cookies on [http://www.cookiecentral.com](http://www.cookiecentral.com/).
 
-### Category 4: targeting cookies or advertising cookies
+3.2 We use the following types of cookie:
 
-These cookies are used to deliver adverts more relevant to you and your interests. **We do not use these cookies on our websites.**
+(1) **strictly necessary cookies**  enable services you have specifically asked for. We use these cookies for purposes such as allowing you to access secure areas of the website.
+
+(2) A **nalytics / performance cookies**  collect anonymous information on the pages visited. They do not collect information that identifies you as a visitor to our website. We only use this information to improve how our website works and not to target you with advertising. We may use these cookies to assess the effectiveness of pay-per-click affiliate advertising, but we do not use them to pass your personal information to advertisers or to target you for advertising.
+
+(3) **Functionality /**   **Service cookies**  remember choices you make (such as your user name, language or the region you are in) to provide enhanced, more personal features. We use these cookies to remember changes you have made to text size and other parts of web pages you can customise.
+
+(4) **Targeting cookies or advertising cookies**  are used to deliver adverts more relevant to you and your interests. We do not use these cookies on our websites.
 
 You can delete cookies previously sent by us from your computer and set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. Information on how to do this can be accessed via the help function on your browser.
 
-Please note that if you change your privacy settings to reject cookies we may not be able to provide you with subscription services that have a log-in procedure. [To find out more about cookies click here. ](http://www.international-chamber.co.uk/components/com_wordpress/wp/wp-content/uploads/2012/04/icc_uk_cookie_guide.pdf)
+Please note that if you change your privacy settings to reject cookies we may not be able to provide you with subscription services that have a log-in procedure. [To find out more about cookies click here.](http://www.international-chamber.co.uk/components/com_wordpress/wp/wp-content/uploads/2012/04/icc_uk_cookie_guide.pdf)
 
-**How is this information used?**  
-Administration and Service provision  
-We use and store the information we collect:
+3.3 We have no access to third party cookies and third party organisations have no access to ours. Other than allowing the third party cookies to be served we have no part to play in the use of these cookies although we may obtain statistical information from them about advertising on our site. The third party organisations that place cookies have their own strict privacy policies.
 
-— for any purpose made clear on the collection forms or related pages, including fulfilling orders and billing purposes  
-— to give you log in details for access privileges
+3.4 Most browsers allow you to turn off cookies (see below in section 6). However, switching off cookies may restrict your use of the website and/or delay or affect the way in which the website operates.
 
-If you do not wish us to store your credit card details please contact us as per the "Updating your details" section below.
+**4\. How do you decide how you want to hear from us?**
 
-In addition, when you register or subscribe to one of our services, we send you a cookie to help us recognise you. This means that you will not have to log in each time you visit and we will be able to give you the correct access privileges and remember your preferences.
+4.1 We always explain why and how we might contact you at the point you give your information to us. We also provide the means for you to grant or withhold your permission for us to contact you. We do this by using opt out or opt-in tick boxes. If the boxes aren’t there, it’s because we will not use your information for any other purpose than that for which you give it (e.g. to administer a subscription).
 
-**Direct Marketing:**  
-From time to time we may seek your consent to:  
-• update you about new products and services offered by us and other members of the Vitesse Media group  
-• contact you for market research purposes  
-• share the information you provide us with carefully selected other organisations, to enable them to send you information about products and services which may be of interest to you
+4.2 When responding to promotions, offers etc. by postcard or coupon, if you do not wish for your details to be used by us to send you promotions and offers, please make this clear by stating “No Offers”.
 
-In particular, we may seek your consent when you complete a form with your personal data. Please note that even if you initially opt-in to receiving communications, every time we get in touch with you, you will be told how you can opt-out of receiving any further communications from us.
+4.3 You may modify your preferences or get further information by:
 
-Alternatively you can contact us at any time to remove your email address from our mailing list by sending a blank email to [nocontactgci@vitessemedia.co.uk](mailto:nocontactgci@vitessemedia.co.uk)
+  * writing to us at: Data Department, Vitesse Media Plc, 14 Bonhill Street, Shoreditch, EC2A 4BX, or
+  * manage your preferences through Vitesse Media Plc’s preference centre at [preferences.vitessemedia.co.uk](http://www.preferences.vitessemedia.co.uk/)
+  * email to: [preferences@vitessemedia.co.uk](mailto:preferences@vitessemedia.co.uk)
+  * Alternatively, you can unsubscribe at anytime from selected or all email communications
 
-If you no longer wish us to contact you by any other means than email please let us know by emailing [info@vitessemedia.co.uk ](mailto:info@vitessemedia.co.uk)or calling customer services on 020 7430 9777. However, please note that we reserve the right to contact you by post, email or telephone solely in relation to the administration of your service.
 
-If you are no longer willing for us to share your email address and related information with third parties please send a blank email to: [nothirdparties@vitessemedia.co.uk](mailto:nothirdparties@vitessemedia.co.uk)
 
-**Who we share your information with:**  
-We have a number of business partners with whom we may share your information in order to provide a service to you, for example credit card transaction and processing providers. These partners are not permitted to use your information for any other purpose. [Click here](https://secure.growthcompany.co.uk/Campaign.aspx?id=381) to view a list of data processors.
+**5\. How we use your information**
 
-We also have a number of partner companies who provide links to our site. We use cookies to track any use by you of such links and, if you subsequently purchase a product or service from us, we may reward the partner. We only use the information gathered in this way for this purpose and we do not disclose personal information about you to the partner.
+Any personal information gathered by or supplied to us through our portfolio of websites or the Magazines will be used in accordance with this Privacy Policy, and in accordance with your wishes as indicated to us and in accordance with the Act.
 
-**How we protect your information:**  
-When you register or subscribe to our services, we offer the use of a secure server. The secure server encrypts the information (e.g. credit card details) that you input before it is transmitted to us.
+5.1 We might use your information to:
 
-**Submitting a question**
+(1) remember you when you visit our website and track your browsing patterns by using cookies. You can prevent this; section 6 deals with this in more detail;
 
-By submitting your question to smallbusiness.co.uk and in businessGO you agree that your question and its answer may be published in businessGO, on smallbusiness.co.uk and within other Vitesse Media Plc publications where relevant.
+(2) place your anonymised information into audience segments to identify your interests so that we might serve you with advertisements and offers that will interest you;
 
-The answer to each question is of necessity general in its nature and may not apply to your particular query or problem as it must be seen in the context of your business. Vitesse Media Plc accepts no responsibility in the event of mistake, omission or misinterpretation and cannot be held liable for any loss suffered as a consequence of any response given on this website or any other Vitesse Media Group publication.
+(3) ensure any products or services you receive are correctly administered (including subscriptions);
 
-**Updating your details:** It is important to us that we have your correct contact information so that you don’t miss out on further correspondence or experience problems with the delivery of products. If any of your personal information changes including your email address or payment details, or if you simply wish to cancel any subscription to any service or publication, just let us know by emailing [info@vitessemedia.co.uk](mailto:info@vitessemedia.co.uk) or by edit your profile on SmallBusiness.co.uk, which you can do at any time.
+(4) contact you by email, mail, telephone or sms text message to let you know about any of our products, services or promotions (which, in some cases may be provided by third parties) but only according to the permissions you give us;
 
-**Use of data for statistical and technical purposes:** We may feed information we collect about you into anonymised statistical reports about visitors to our site and share these reports with our advertisers and other third parties.  
-We may log the IP addresses and browser types of visitors to the site to help us analyse and resolve technical issues. This information is not linked to any personal information we hold about you.
+(5) ensure materials on the website or in apps are presented in the most effective manner for you and your computer or mobile device;
 
-**Changes to this policy:** Due to changes in legislation and best practice we may make changes to our privacy policy and will reflect those changes in this statement, so you should check here from time to time.
+(6) collate and log numeric internet addresses to improve the website and to monitor website usage;
 
-**Contact details:** If you have any queries or concerns about this statement, please contact us at:
+(7) assess and understand customer feedback and identify usage hotspots.
 
-Vitesse Media Plc  
-14 Bonhill Street, Shoreditch, EC2A 4BX  
-Tel: 020 7250 7010 Fax: 020 7250 7011.  
-[Privacy@vitessemedia.co.uk](mailto:Privacy@vitessemedia.co.uk)
+5.2 If you have subscribed to any of our services, we will use the information you provide to keep you updated on those services unless you have told us otherwise.
 
-Jonathan Sumner 020 7250 7032  
-©Vitesse Media plc 2015
+**6\. Managing Cookie Preferences**
+
+6.1 Most browsers allow you to turn off cookies. To do this look at the “help” menu on your browser. Switching off cookies may restrict your use of the website and/or delay or affect the way in which it operates.
+
+6.2 If you would prefer to just restrict third party cookies, visit [youronlinechoices.com](http://www.youronlinechoices.com/) or click on the AdChoices logo that you will see in the corner of advertisements that carry behavioural targeting cookies.
+
+**7\. Security**
+
+7.1 The password you provide when registering with the website is encrypted to ensure protection against unauthorised access of your personal information.
+
+7.2 We invest in high-quality security and do our utmost to protect user privacy. No data transmission over the Internet can be entirely secure, and therefore we cannot guarantee the security of your personal information and/or use of the website. Any information that you send is at your own risk and may be read by others. However once we have received your personal information we use strict procedures both ourselves and with our suppliers to protect the security of your personal information.
+
+**8\. Disclosing your information**
+
+8.1 We may disclose your personal information if required to do i) in order to fulfil any request you have made through us (e.g. ordering goods to be supplied by a third party on our behalf), ii)  by law or iii) in good-faith believing such action is necessary to comply with the law or contract e.g. for a bank or card company to process your payment for purchase of goods.
+
+8.2 We will not sell or otherwise share your personal information with third parties without your consent except in the case of our data service providers (who are used for example to manage your subscription).
+
+**9\. Accessing and Updating your personal information**
+
+We want to ensure that we provide you with the best possible service. Please therefore always keep us updated of any changes to your personal information, for example, if your email address changes.
+
+9.1 How do I change my personal details?
+
+You can update your details and marketing preferences by accessing your account pages on the website, by emailing [preferences@vitessemedia.co.uk](mailto:preferences@vitessemedia.co.uk) or by writing to us at: Data Department, Vitesse Media plc, 14 Bonhill st, EC2A 4BX
+
+9.2 What information do you hold on me?
+
+You have the right to access the personal information we hold about you. To obtain a copy of the personal information we hold about you, please send an email to [preferences@vitessemedia.co.uk](mailto:preferences@vitessemedia.co.uk)
+
+There will be an administrative charge of £10 for providing a copy of this information.
+
+**10\. What does providing us with personal information mean?**  
+By giving us personal information about you, you agree that your personal information can be used as set out in this Privacy Policy. If we change the Privacy Policy, we will post the changes on this page. Please check the website regularly for any changes to this Privacy Policy.
+
+**11\. If you don’t feel we’re adhering to this Privacy Policy, what should you do?**  
+If at any time you believe that we have not adhered to the terms of this Privacy Policy, please notify us by email to [preferences@vitessemedia.co.uk](mailto:preferences@vitessemedia.co.uk) or write to us at: Data Department, Vitesse Media plc, 14 Bonhill st, EC2A 4BX and we will make any efforts we can to determine and solve the problem promptly.
+
+This Policy was updated on 25th May 2016.
