@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nintendo.com.au privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529211830id_/http%3A//www.nintendo.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendo.com.au privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119084119id_/http%3A//www.nintendo.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy - Nintendo.com.au
+# Nintendo - Privacy Notice
 
 Nintendo Australia Pty Ltd ACN 060 566 083 (Nintendo) is committed to preserving and respecting the privacy of visitors to this website. 
 
@@ -10,17 +10,21 @@ There are no exemptions under the Act which apply to collection of Personal Info
 
 This policy only relates to Personal Information collected on this website.
 
-**Please read this policy carefully before you use this website or provide any Personal Information.**
+ **Please read this policy carefully before you use this website or provide any Personal Information.**
 
-##  What information is collected?
+* * *
+
+## What information is collected?
 
 Nintendo will only collect Personal Information from our online visitors to the website for (1) contest registration; (2) newsletter registration; (3) surveys; (4) registration for games or special game-specific promotion participation; (5) and to enable you to join specific groups such as Club Nintendo. Personal Information collected may include your name, nickname, e-mail address, mobile phone number and birth date. We do not generally require this information to allow access to this website; however, there may be some areas of the site that you will not be able to access unless you register. For example, "Members Only" areas will require you to register before you can access them.
 
 Nintendo also may collect demographic information from visitors, such as age, gender, geographic location, game genre interests, what platforms you own and stores you usually purchase Nintendo products from. This information helps us improve our online offerings and allows us to tailor information to your preferences.
 
-Normally, Nintendo does not collect Sensitive Information (as defined in the Act). If Nintendo does collect Sensitive Information, it will only do so as specifically permitted by APP 3.3. 
+Normally, Nintendo does not collect Sensitive Information (as defined in the Act). If Nintendo does collect Sensitive Information, it will only do so as specifically permitted by APP 3.3.
 
-##  What happens to the Personal Information collected?
+* * *
+
+## What happens to the Personal Information collected?
 
 The Personal Information you provide will allow us to alert you to new products, features and enhancements, special offers, upgrade opportunities, contests and events of interest. From time to time, Nintendo is approached by companies and organisations that provide products or services that we believe may be of interest to you, and we may send out notices on behalf of these companies. We see this as a value-added service helping you to find useful products or services. We strive to limit use of the information you provide to those offers that we think you would appreciate receiving.  You may opt out if you do not wish to receive such material.
 
@@ -34,13 +38,17 @@ Nintendo may disclose personal information to the overseas recipients including 
 
 Back to top
 
-##  A special note about children 13 years old and under
+* * *
+
+## A special note about children 13 years old and under
 
 Nintendo encourages parents and guardians to spend time online with their children. We urge parents to instruct their children to never give out their real names, addresses or phone numbers, without permission, when using the Internet. We recognise a special obligation to protect Personal Information obtained from young children. In order for children 13 years old and under to participate in online activities that require registration, we require prior permission from a parent or guardian.
 
 Back to top
 
-##  What about cookies?
+* * *
+
+## What about cookies?
 
 Cookies are files downloaded to your computer to track website browsing behaviour.
 
@@ -48,13 +56,17 @@ This website may use cookies to keep track of your choices, or to keep track of 
 
 Back to top
 
-##  Email correspondence to Nintendo
+* * *
+
+## Email correspondence to Nintendo
 
 Nintendo may respond to e-mail correspondence if such correspondence includes a return e-mail address. It will retain your email address and other Personal Information contained in any email you send, for that purpose.
 
 Back to top
 
-##  Access to and correction of Personal Information
+* * *
+
+## Access to and correction of Personal Information
 
 Nintendo will take all reasonable steps to ensure that your Personal Information which Nintendo collects, uses or discloses is accurate, complete and up-to-date.
 
@@ -66,7 +78,9 @@ You can also request details about the way in which Nintendo manages Personal In
 
 Back to top
 
-##  Safeguarding your Personal Information
+* * *
+
+## Safeguarding your Personal Information
 
 Nintendo will take reasonable steps to ensure the security, integrity and privacy of the Personal Information which it collects. This includes appropriate measures to protect electronic materials and materials in hard copy.
 
@@ -74,13 +88,17 @@ Nintendo will take reasonable steps to ensure that third parties to whom Nintend
 
 Back to top
 
-##  Changes to this Policy
+* * *
+
+## Changes to this Policy
 
 Nintendo reserves the right to make changes in or to update this Policy at any time to reflect changes in its business requirements, changes in the law or technological developments.
 
 Back to top
 
-##  Complaints and further information
+* * *
+
+## Complaints and further information
 
 If you have any complaints about Nintendo's privacy practices, would like further information or would like to Access to or Correction of your Personal Information, please contact our Privacy Compliance Officer.
 
@@ -89,3 +107,7 @@ Our Privacy Compliance Officer will review and investigate your complaint and co
 If you would like a copy of this policy, have any questions, complaints or comments regarding it, or wish to obtain access to or seek correction of your Personal Information, please contact Privacy Compliance Officer, Nintendo Australia, 804 Stud Road, Scoresby, Victoria, 3179, e:[nintendoaustraliaprivacy@nal.nintendo.com.au](mailto:nintendoaustraliaprivacy@nal.nintendo.com.au)
 
 Back to top
+
+* * *
+
+Go Back
