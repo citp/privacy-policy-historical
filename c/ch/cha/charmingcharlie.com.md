@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charmingcharlie.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618154621id_/http%3A//www.charmingcharlie.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charmingcharlie.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119163817id_/http%3A//www.charmingcharlie.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Charming Charlie
 
@@ -16,8 +16,7 @@ Charming Charlie, Inc.
 5999 Savoy   
 Houston, Texas 77036   
 Phone: 713-579-1936   
-Email: [feedback@charmingcharlie.com](mailto:feedback@charmingcharlie.com)  
-
+Email: [feedback@charmingcharlie.com](mailto:feedback@charmingcharlie.com)
 
 ## Types of Personal Information We Collect
 
@@ -111,7 +110,7 @@ California Civil Code Section 1798.83 permits users that are California resident
 
 We may transmit your personal information to our affiliates and third party service providers in the US and other jurisdictions who assist us in processing orders and payments, shipping products, sending catalogs or direct mail, performing surveys, conducting sweepstakes, processing job applications, sending e-mails and newsletters, and helping us decide whether to extend credit to you via arrangements that we may have with credit card issuers. We provide these companies with only the information they need to perform their services. We have agreements with these third party service providers directing them to protect your privacy by implementing appropriate security measures and using your information only as authorized by Charming Charlie. For additional information about the way in which our service providers treat your personal information, contact us as set out above.
 
-We may transfer any information we have about you as an asset in connection with a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of Charming Charlie or the website as part of a corporate reorganization or stock sale or other change in corporate control. We may also disclose personal information where necessary for the establishment, exercise or defence of legal claims. 
+We may transfer any information we have about you as an asset in connection with a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of Charming Charlie or the website as part of a corporate reorganization or stock sale or other change in corporate control. We may also disclose personal information where necessary for the establishment, exercise or defence of legal claims.
 
 ## How We Handle Legally Required Disclosures
 
@@ -121,7 +120,7 @@ If we or our Canadian, US or other foreign affiliates or service providers recei
 
 To the extent required by applicable law, we have implemented reasonable administrative, technical and physical safeguards in an effort to protect against loss, theft, and unauthorized or unlawful access, use, modification and disclosure of personal information in our custody and control. 
 
-Your online access to certain of your personal information may be protected with a password you select. We strongly recommend that you do not disclose your password to anyone. 
+Your online access to certain of your personal information may be protected with a password you select. We strongly recommend that you do not disclose your password to anyone.
 
 ## How to Access or Correct Your Personal Information
 
