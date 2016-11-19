@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shwedream.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613103758id_/http%3A//www.shwedream.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shwedream.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119011759id_/http%3A//www.shwedream.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Shwe Dream
 
