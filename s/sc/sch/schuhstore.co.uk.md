@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schuhstore.co.uk privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623105915id_/http%3A//www.schuh.co.uk/help/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schuhstore.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119074326id_/http%3A//www.schuh.co.uk/help/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy, Cookie and Security Policy | schuh
 
@@ -116,11 +116,8 @@ The Vee24 system gives users options wherever necessary and practical. Such choi
 
 9.4 You should note that, under certain circumstances, we will not be obliged to disclose the requested information to you, in which case we will explain to you the reasons for our refusal.
 
-10.1 If you have any queries about these terms and conditions, or any other aspect of our website, or you have a complaint, you can phone us on [0207 100 1515](tel:02071001515), or e-mail us at [help@schuh.co.uk](mailto:help@schuh.co.uk) or write to us at: schuh Customer Service Team, 1 Neilson Square, Deans Industrial Estate, Livingston, EH54 8RQ.
+10.1 If you have any queries about these terms and conditions, or any other aspect of our website, or you have a complaint, you can phone us on [0207 100 1515](tel:02071001515), or e-mail us at [help@schuh.co.uk](mailto:help@schuh.co.uk) or write to us at: schuh Customer Experience Team, 1 Neilson Square, Deans Industrial Estate, Livingston, EH54 8RQ.
 
 10.2 We shall respond to any communication received by us as quickly as we can.
-
-  
-
 
 * * *
