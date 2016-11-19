@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ads2india.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314102156id_/http%3A//www.ads2india.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ads2india.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119131636id_/http%3A//www.ads2india.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy, Ads2india.com
 
