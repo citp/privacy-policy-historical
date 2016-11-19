@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beanstalkapp.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318025249id_/http%3A//beanstalkapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beanstalkapp.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119024932id_/http%3A//beanstalkapp.com/privacy-policy) for the most accurate reproduction.*
 
 # Beanstalk — Privacy Policy
 
@@ -26,7 +26,7 @@ Wildbit, LLC will notify customers by email about any significant changes in thi
 
 ## Privacy Questions / Feedback
 
-If you have questions or concerns about Wildbit’s Privacy Policy please contact us at [support@beanstalkapp.com](mailto:support@beanstalkapp.com) or 20 N. 3rd Street, Unit 701, Philadelphia, PA, 19106.
+If you have questions or concerns about Wildbit’s Privacy Policy please contact us at [support@beanstalkapp.com](mailto:support@beanstalkapp.com) or 225 Chestnut St., Philadelphia, PA, 19106.
 
 ## Terms Applicable to International Users
 
