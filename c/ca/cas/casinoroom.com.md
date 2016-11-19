@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinoroom.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529170941id_/http%3A//www.casinoroom.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinoroom.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119033953id_/http%3A//www.casinoroom.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Provision & Policy at Casino Room
 
