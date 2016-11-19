@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeffsmodels.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408031506id_/http%3A//jeffsmodels.com/legal/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeffsmodels.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119061121id_/http%3A//jeffsmodels.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ PLEASE READ THIS PRIVACY POLICY STATEMENT CAREFULLY. BY YOUR SUBSCRIPTION TO AND
 
 IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE. 
 
-The present Privacy Policy Statement details important information regarding the use and disclosure of user information and/or data gathered regarding subscriber ("you") and members of Oxygen Enterprises inc websites ("our", "we", "us" the "site") websites including but not limited to, Jeffsmodels.com, DreamTranny.com & CougarKingdom.com. In addition, this Privacy Policy sets forth all relevant policies and practices for the sites. 
+The present Privacy Policy Statement details important information regarding the use and disclosure of user information and/or data gathered regarding subscriber ("you") and members of Oxygen Enterprises inc websites ("our", "we", "us" the "site") websites including but not limited to, SmutMerchants.com, DoTheWife.com, TeenErotica.xxx, Jeffsmodels.com, DreamTranny.com, CougarKingdom.com. In addition, this Privacy Policy sets forth all relevant policies and practices for the sites. 
 
 **USE**
 
