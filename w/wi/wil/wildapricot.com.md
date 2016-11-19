@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wildapricot.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529154649id_/http%3A//www.wildapricot.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildapricot.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119144830id_/http%3A//www.wildapricot.com/privacypolicy) for the most accurate reproduction.*
 
 # Integrated, Web-based Association Membership Management Solution: Free Trial!
 
-**Last updated: October 2, 2015**
+**Last updated: September 16, 2016**
 
 This privacy policy applies to Wild Apricot sites, mobile apps, and services. Wild Apricot Inc. has a firm commitment to safeguarding the privacy of our customers' personal information. 
 
@@ -54,7 +54,7 @@ We do not contact our customers' contacts except as related to operating their W
 **What happens to this information when an account is cancelled?  
 **
 
-If your account is closed by you or terminated by Wild Apricot, we may keep a copy of your content for archival purposes, and in case of any litigation to which it might be relevant. For more information, see the Site Terms of Use (http://www.wildapricot.com/TermsOfUse).
+If your account is closed by you or terminated by Wild Apricot, we may keep a copy of your content for archival purposes, and in case of any litigation to which it might be relevant. For more information, see [the Site Terms of Use](http://www.wildapricot.com/TermsOfUse).
 
 **Protecting privacy on Wild Apricot sites  
 **
@@ -71,7 +71,7 @@ To access Wild Apricot sites as an administrator or a member, you need to enable
 
 ### SECURITY
 
-The security of your personal information is important to us. Our service has security measures in place to protect the loss, misuse and alteration of the information under our control. We follow generally accepted industry practices to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Site, you can email us at the address below.
+The security of your personal information is important to us. Our service has security measures in place to protect the loss, misuse and alteration of the information under our control. We follow generally accepted industry practices to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.   **We are maintain all applicable security requirements in accordance with Payment Card Industry Data Security Standard.  **If you have any questions about security on our Site, you can email us at the address below.
 
 ### UPDATING INFORMATION
 
@@ -87,7 +87,7 @@ Wild Apricot sites and mobile apps may contain links to other sites. We are not 
 
 ### OPT-OUT ANY TIME
 
-If you choose to sign up for our newsletter or any other communication from us, you can change your communication preferences or unsubscribe from future mailings by clicking the preferences or unsubscribe links at the bottom of the email. If you would like to opt-out by other means, you can do so at any time by emailing support@wildapricot.com, calling 1-877-493-6090, or writing to Wild Apricot Inc., 144 Front Street West, Suite 725, Toronto, Ontario, M5J 2L7, Canada.
+If you choose to sign up for our newsletter or any other communication from us, you can change your communication preferences or unsubscribe from future mailings by clicking the preferences or unsubscribe links at the bottom of the email. If you would like to opt-out by other means, you can do so at any time by emailing [support@wildapricot.com](mailto:support@wildapricot.com), calling 1-877-493-6090, or writing to Wild Apricot Inc., 144 Front Street West, Suite 725, Toronto, Ontario, M5J 2L7, Canada.
 
 ### QUESTIONS
 
