@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the updatebro.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615133515id_/http%3A//updatebro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the updatebro.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119124306id_/http%3A//updatebro.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
