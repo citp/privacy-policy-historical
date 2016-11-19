@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stockbrokers.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421083952id_/http%3A//www.stockbrokers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockbrokers.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119075025id_/http%3A//www.stockbrokers.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - StockBrokers.com News
+# Privacy Policy - StockBrokers.com
 
-This Privacy Policy controls and governs your use and access to any and all of Reink Media Group, LLC’s websites: StockBrokers.com, InvestingTeacher.com, StockTrader.com, and Ticker.tv (collectively the “Website”).  
+This Privacy Policy controls and governs your use and access to any and all of Reink Media Group, LLC’s websites: StockBrokers.com, InvestingTeacher.com, and StockTrader.com (collectively the “Website”).  
 
 **WEBSITE VISITORS**
 
@@ -38,7 +38,7 @@ If you are a California resident you have the right to request information from 
 
 \- The names and addresses of the third parties that received such information, or if the nature of their business cannot be determined from the name, then examples of the products or services marketed.
 
-You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually.  You may make such a request by contacting Reink Media by phone or mail/electronic mail at: Reink Media Group, LLC, 306 S. Washington, Suite 214, Royal Oak, Michigan 48067; (248) 956-0328; email: [admin@reinkmedia.com](mailto:admin@reinkmedia.com).
+You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually.  You may make such a request by contacting Reink Media by phone or mail/electronic mail at: Reink Media Group, LLC, 306 S. Washington, Suite 200, Royal Oak, Michigan 48067; (248) 956-0328; email: [admin@reinkmedia.com](mailto:admin@reinkmedia.com).
 
 **PRIVACY POLICY CHANGES**
 
