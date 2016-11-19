@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicdesire.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514063045id_/http%3A//www.publicdesire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicdesire.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119180538id_/http%3A//www.publicdesire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Your privacy is very important to us, and we promise never to release your personal details to anyone for mailing or marketing purposes.
 
-When you make a purchase from www.publicdesire.co.uk any information you submit - for example: your name, email address and payment) are totally safe and secure.
+When you make a purchase from www.publicdesire.com any information you submit - for example: your name, email address and payment) are totally safe and secure.
 
 Public Desire complies fully with all applicable Data Protection and consumer legislation, and we’ll treat all your personal information as fully confidential.
 
