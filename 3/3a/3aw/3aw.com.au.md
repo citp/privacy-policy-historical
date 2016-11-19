@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 3aw.com.au privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929104333id_/http%3A//www.3aw.com.au/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3aw.com.au privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119032133id_/http%3A//www.3aw.com.au/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-You have come through to this page from a website which is owned and operated by Fairfax Media Limited. 
+You have come through to this page from a website which is owned and operated by Macquarie Media Operations Pty Ltd. 
 
-In this policy, "us", "we" or "our" means Fairfax Media Limited (ABN 15 008 663 161) and its related bodies corporate. 
+In this policy, "us", "we" or "our" means Macquarie Media Operations Pty Ltd (ABN 15 008 663 161) and its related bodies corporate. 
 
 This policy sets out: 
 
@@ -144,11 +144,9 @@ We will treat your requests or complaints confidentially. Our representative wil
 Please contact our Privacy Officer at: 
 
 Privacy Officer   
-Fairfax Media Limited   
-Post: GPO Box 506   
-Sydney NSW 2001   
-Tel: 02 9282 2040   
-Email: [privacy@fairfaxmedia.com.au](mailto:privacy@fairfaxmedia.com.au)
+Macquarie Media Operations Pty Ltd  
+Level 1, Building C, 33-35 Saunders Street,  
+Pyrmont, NSW, 2009
 
 ## DISCLOSURE OF PERSONAL INFORMATION OUTSIDE AUSTRALIA
 
