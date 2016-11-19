@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the eveningtimes.co.uk privacy policy that was archived on 2016-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160528034926id_/http%3A//www.eveningtimes.co.uk/my/account/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eveningtimes.co.uk privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119194442id_/http%3A//www.eveningtimes.co.uk/my/account/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#"><head><script src="//a1.vdna-assets.com/analytics.js" async=""></script>
         <script src="//tags.tiqcdn.com/utag/newsquestdm/main/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script type="text/javascript" src="/resources/shared/responsive-sync/?r="></script>
         <script>
         // $(window).on("error", function(evt) {
         //     var e = evt.originalEvent;
@@ -19,7 +20,15 @@
         // });
         </script>
         
+
             <script src="https://cdn.optimizely.com/js/5363280008.js"></script>
+            <script>
+            // var siteName = document.location.hostname.replace('www.', '');
+            var siteName = 'www.eveningtimes.co.uk'.replace('www.', '');
+            siteName = siteName.substring(0, 20);
+            window['optimizely'].push(['setDimensionValue', 6330040560, siteName]);
+
+            </script>
         
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -38,7 +47,7 @@
 
         <!-- Font Awesome -->
         <link href="/resources/static/standard/texts/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-
+        
         <link rel="shortcut icon" href="/resources/images/3899219/" type="image/vnd.microsoft.icon">
         <link rel="icon" href="/resources/images/3899219/" type="image/vnd.microsoft.icon">
         <link rel="apple-touch-icon" href="/resources/iconPhone3/">
@@ -57,9 +66,11 @@
     
 
         
+
         <meta name="keywords" content="">
 <meta name="description" content="Users news from the Evening Times">
 <meta name="title" content="Users news from the Evening Times">
+<meta property="fb:pages" content="241164539259538">
     </head>
     <body>
         <!--
@@ -79,7 +90,7 @@ Contact this guy....https://uk.linkedin.com/in/hillsimon
 
 
 
-        <div id="paywallWindowOverlay"></div>
+        
         <div id="cookieWarning">
             <div class="title">About Cookies</div>
             <div>
@@ -115,12 +126,17 @@ Contact this guy....https://uk.linkedin.com/in/hillsimon
                                     <li class="hidden-xs"><a href="/"><i class="fa fa-home"></i></a></li>
                                     <li class="hidden-md hidden-lg hidden-sm"><a href="/">Home</a></li>
                                     <li><a href="/news/">News</a></li>
+
+                                    
                                     <li><a href="/sport/">Sport</a></li>
                                     <li><a href="/jobs/">Jobs</a></li>
+                                    
                                 </ul>
 
                                 <ul class="nav navbar-nav hidden-xs navbar-right">
+                            
                                     <li id="user-hint-faqs"><a href="/my/account/faqs/">FAQs</a></li>
+                            
                                     <li id="user-hint-need-help"><a href="/misc/techcontact/">Need Help?</a></li>
                             
                                     <li id="user-hint-login"><a href="/my/account/log-in/">Sign in</a></li>
@@ -439,10 +455,10 @@ var targeting = {'context' : '',
                  'domain' : 'www.eveningtimes.co.uk',
                  'isLanding' : 'no',
                  'top_path' : 'my',
-                 'weather': 'cloudy'.toLowerCase(),
+                 'weather': 'showers'.toLowerCase(),
                  'jbsjs': ''.toLowerCase(),
                  'site_search': '',
-                 'wt' : '26-',
+                 'wt' : '1-5',
                  'k' : known,
                  'g' :  'u' ,
                  'a' :  '0' ,
@@ -741,8 +757,8 @@ var utag_data = {
     dfp_targeting_is_landing : 'no',
     dfp_targeting_jobs_industry_sectors : ''.toLowerCase(),
     dfp_targeting_module_path : 'my',
-    dfp_targeting_weather_band : '26-',
-    dfp_targeting_weather_summary : 'cloudy'.toLowerCase(),
+    dfp_targeting_weather_band : '1-5',
+    dfp_targeting_weather_summary : 'showers'.toLowerCase(),
     homes_search_bedrooms_minimum : getQs('hmsbmn', jobsAndHomes),
     homes_search_location : getQs('hmsl', jobsAndHomes),
     homes_search_price_minimum : getQs('hmspmn', jobsAndHomes),
@@ -754,7 +770,7 @@ var utag_data = {
     jobs_search_sectors : getQs('jbss', jobsAndHomes),
     google_survey_id: '_r27hu4jr5tzr65kb63an3gvjc4',
     omniture_page_name: "(www) "+getOmniturePath(),
-    server: 'blade2',
+    server: 'julia.newsquest.co.uk',
     channel: '',
     page_type: '',
     search_keywords: '',
@@ -782,14 +798,17 @@ var utag_data = {
 
 }
 
-if (typeof paywall !== 'undefined') {
-    // Get a list of all products displayed to the user.
-    if ($('#paywall-web-package-name').length === 1 && (typeof subscribeOptions !== 'undefined')) {
-        var subscriptionProducts = subscribeOptions.trackDisplayedPackages();
-        //s.events = s.apl(s.events, 'prodView', ',', 1);
-        utag_data.omniture_products = subscriptionProducts;
-    }
+// Get a list of all products displayed to the user.
+if (typeof subscribeOptions !== 'undefined') {
+	if ($('#paywall-package-0').length === 1 && (typeof subscribeOptions !== 'undefined')) {
+	    var subscriptionProducts = subscribeOptions.trackDisplayedPackages();
+	    //s.events = s.apl(s.events, 'prodView', ',', 1);
+	    utag_data.omniture_products = subscriptionProducts;
+	    console.log('Omniture Products :: ' + JSON.stringify(utag_data.omniture_products));
+	}
+}
 
+if (typeof paywall !== 'undefined') {
     // If the user is a subscriber, which package did they buy?
     var subscriptionDuration = '';
     switch (paywall.paywall_user_current_plan_recurring) {
@@ -857,7 +876,7 @@ $.each(targeting.qcSegments, function (i, val) {
 _cc4821.bcp();
 </script>
 
-
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"fd15ff24ac","applicationID":"5766824","transactionName":"MlFbY0cFXxcFARdRVwsbekJGEF4JSyACW1MHW1dSYBdUFikNB01UAA4DUFAKVBYFFgZZWwZbTFlBNEMNEgMAQUgKWFBUTEwY","queueTime":0,"applicationTime":593,"atts":"HhZYFQ8fTBk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 <script src="/__siren/"></script>
 <!-- VisualDNA Audience Analytics Tag -->
 <script type="text/javascript">
