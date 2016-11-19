@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the software-testing-tutorials-automation.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526121846id_/http%3A//www.software-testing-tutorials-automation.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the software-testing-tutorials-automation.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119110205id_/http%3A//www.software-testing-tutorials-automation.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
