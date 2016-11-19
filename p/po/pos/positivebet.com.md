@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the positivebet.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616021108id_/http%3A//positivebet.com/en/privacy/index) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the positivebet.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119011624id_/http%3A//positivebet.com/en/privacy/index) for the most accurate reproduction.*
 
 # Scanner of live betting. PositiveBet.com - Privacy Policy
 
