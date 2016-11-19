@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinemax.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423091527id_/http%3A//www.cinemax.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinemax.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119065743id_/http%3A//www.cinemax.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Cinemax Privacy Policy
 
@@ -10,7 +10,7 @@ Your privacy is important to us. To better protect your privacy, we provide this
 
 HBO reserves the right to modify the terms and conditions of this Privacy Policy or to change, modify or otherwise alter any feature of the Service, at any time in its sole discretion. Changes may be communicated to you by making the revised Privacy Policy available for your review. If we make changes to this Privacy Policy that materially modify our rights to use your previously-collected personally identifiable information, we will notify you to obtain your consent either through an email or a prominent posting on this Service. Your continued use of the Service after the revised version is made available constitutes your agreement to the revision.
 
-In addition, please review the Service's [Terms of Use](https://web.archive.org/web/20160423091527id_/http%3A//www.cinemax.com/terms-of-use.html), which governs your use of the Service. BY USING OUR SERVICE, YOU CONSENT TO OUR PRIVACY POLICY AND TERMS OF USE AND OUR COLLECTION, USE AND SHARING OF YOUR INFORMATION AND DATA, AND OTHER ACTIVITIES, AS DESCRIBED BELOW.
+In addition, please review the Service's [Terms of Use](https://web.archive.org/web/20161119065743id_/http%3A//www.cinemax.com/terms-of-use.html), which governs your use of the Service. BY USING OUR SERVICE, YOU CONSENT TO OUR PRIVACY POLICY AND TERMS OF USE AND OUR COLLECTION, USE AND SHARING OF YOUR INFORMATION AND DATA, AND OTHER ACTIVITIES, AS DESCRIBED BELOW.
 
 1\. **The Information We Collect**
 
@@ -62,7 +62,6 @@ Information may be shared as set forth more particularly in Paragraph 2 of this 
 
 (c) **For Affiliate Use.** As you know, HBO is a Time Warner company, and as such, has affiliate sibling companies. We may share your personally identifiable information with our affiliates to identify products and services that may be of interest to you, for research, analysis and to assist in the improvement of our Service or those of our affiliates, and in connection with promotions conducted by us, by our affiliates, or jointly. Below is a list of some of the Time Warner companies that are affiliated with HBO and with whom we may share information we collect at our sites. We may update this list from time-to-time with additional Time Warner companies, so please check back periodically to keep up-to-date. 
 
-Time Inc.  
 Time Warner Inc.  
 Turner Broadcasting System Inc.  
 Warner Bros. Entertainment Inc.
@@ -131,4 +130,4 @@ The registration features of these Services are intended for US residents. Altho
 
 Effective Date: July 1, 2014
 
-© 2020 Home Box Office, Inc. All Rights Reserved. This website may contain mature content.   [PRIVACY POLICY](https://web.archive.org/privacy-policy.html)   [TERMS OF USE](https://web.archive.org/terms-of-use.html)
+© 2020 Home Box Office, Inc. All Rights Reserved. This website may contain mature content.   [PRIVACY POLICY](https://web.archive.org/privacy-policy.html)   [TERM OF USE](https://web.archive.org/terms-of-use.html)
