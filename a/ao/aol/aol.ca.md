@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aol.ca privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606151313id_/http%3A//privacy.aol.ca/full_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aol.ca privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119030027id_/http%3A//privacy.aol.ca/full_policy) for the most accurate reproduction.*
 
 # Privacy Policy - AOL Privacy CA
 
@@ -8,7 +8,7 @@ Print
 
  
 
-**Last updated:   **November 24, 2014
+**Last updated:   **October 07, 2016
 
   At AOL, it’s our mission to provide users with rich, interactive online experiences.  From the latest technology news, to up-to-the-minute traffic information, our websites, apps, and other services are designed to keep you informed, entertained and delighted.  We also operate some of the industry’s best-known advertising services, including Adap.tv and Advertising.com. 
 
@@ -30,14 +30,8 @@ We collect and receive information about users in a few different ways: 
   * **_Information you give us_**.  You can give us information directly.  For example: 
     * When you sign up for an AOL account you may give us information such as your name, zip or postal code, and date of birth;
     * When you purchase one of our paid services, you give us your billing information, which may include your credit card data;
-    * When you use Moviefone, you can give us your zip or postal code so that we can tell you where and when movies are playing;
     * When you post comments in response to a story or video on any of our Services, we—and other users—receive that information; and
-
-
-
-When you use the “My Portfolios” feature on Daily Finance, you can give us information about your investments so that we can provide you with up-to-the-second market news and commentary relevant to your holdings.  (For more information about our financial privacy practices, please click here.)
-
-  * **_Information we collect or receive when you use our Services_**.  We also collect or receive information about how you use our Services.  We collect some of this information using [cookies, web beacons, and similar technologies](https://web.archive.org/cookies/).  Depending on how you access and use our Services, we may receive: 
+    *   * **_Information we collect or receive when you use our Services_**.  We also collect or receive information about how you use our Services.  We collect some of this information using [cookies, web beacons, and similar technologies](https://web.archive.org/cookies/).  Depending on how you access and use our Services, we may receive: 
     * _Log information_.  This is information we automatically collect and store when you use our Services or other companies’ websites and apps in the [**AOL Advertising Network**](https://web.archive.org/definitions/).  It includes, for example: 
       * Information about your interactions with the websites, apps, and other online services you use, the content you view, the search queries you submit, and information in [cookies and similar technologies](https://web.archive.org/cookies/);
       * Information about how you access those websites, apps, and other online services, your browser or operating system, your Internet Protocol (“IP”) address, and the website you visited before visiting our Services. 
@@ -57,7 +51,6 @@ Additionally, when you download the AOL client software, we may collect informat
 We use the information we collect and receive for the following general purposes: 
 
   * **_To provide our Services._**   Our ability to provide you with most of our Services depends on the information we collect and receive.  For example: 
-    * If you request local movie show times from Moviefone, we might use your location information to provide you with times at nearby theaters; 
     * If you sign up to receive the daily headlines from Huffington Post, we’ll use your email address to deliver them to you; and
     * If you ask us to remember your login information for AOL websites, we’ll use information stored in [cookies](https://web.archive.org/cookies/) when you return to those websites. 
   * **_To improve our Services_**.  We collect information about how people use our Services so that we can provide content and advertising that people are likely to find relevant and engaging.  For example: 
@@ -103,7 +96,7 @@ Some of the content, advertising, and functionality on our Services may be provi
 
 These and other third parties may collect or receive information about your use of our Services, including through the use of [cookies, web beacons and similar technologies](https://web.archive.org/cookies/), and this information may be collected over time and combined with information collected on different websites and online services. 
 
-Note that some of these companies participate in industry-developed programs designed to provide consumers with choices about whether to receive targeted ads.  To learn more, please visit the websites of the [Network Advertising Initiative](http://www.networkadvertising.org/) and the [Digital Advertising Alliance](http://youradchoices.ca/choices). [Learn more](https://web.archive.org/advertising_analytics/) about advertising and privacy on our Services.
+Note that some of these companies participate in industry-developed programs designed to provide consumers with choices about whether to receive targeted ads.  To learn more, please visit the websites of the [Network Advertising Initiative](http://www.networkadvertising.org/) and the [Digital Advertising Alliance of Canada](http://youradchoices.ca/choices). [Learn more](https://web.archive.org/advertising_analytics/) about advertising and privacy on our Services.
 
 If you choose to connect with a social networking service, like Facebook, we may share information with that service, and that service may share information about you with us.  We may use the information for the reasons explained in this Privacy Policy, but the main reason we use it is to make your experience on our Services more personal and social.  For example, we might show you what content is popular among your connections on the social networking service or give you a glimpse of what your friends are saying about that content. 
 
@@ -119,7 +112,7 @@ You have a number of choices about how we handle your information:
   * If you’re a registered AOL user, you can visit AOL Marketing Preferences to review your marketing preferences and make choices about how your information may be used to provide marketing offers to you. Note that these preferences do not apply to communications that are directly related to your registration with AOL or the fulfillment of a specific transaction you have requested (for example, a service advisory from AOL or an acknowledgment of a purchase order).
   * Visit our [Advertising, Analytics and Privacy](https://web.archive.org/advertising_analytics/) page to learn more about your choices related to use of your information for online advertising.  You may [opt out](http://youradchoices.ca/choices) of receiving targeted ads from AOL.
   * Some of our Services (AOL Search and Netscape ISP, for example) may also offer you the ability to manage and control information collected or used when you use these services. 
-  *  If you’re using a mobile device, please visit our [Mobile Device Choices](http://privacy.aol.com/mobile-choices) page for information about the choices we provide to mobile users. 
+  *  If you’re using a mobile device, please visit our [Mobile Device Choices](http://privacy.aol.ca/mobile_choices) page for information about the choices we provide to mobile users. 
 
 
 
@@ -150,9 +143,7 @@ If you have questions concerning our information practices with respect to child
  [By email](mailto:AOLKidsPrivacy@aol.com)
 
 **_International users_**  
-AOL is based in the United States, and, regardless of where you use our Services or otherwise provide information to us, the information may be transferred to and maintained on servers located in the U.S. Please note that any information we obtain about you will be stored in accordance with U.S. privacy laws, regulations, and standards, which may not be equivalent to the laws in your country of residence. By using our Services or by providing us with your information, you consent to this collection, transfer, storage, and processing of information to and in the U.S.
-
-AOL Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  AOL has certified that it adheres to the [Safe Harbor Privacy Principles](http://privacy.aol.com/eu-safe-harbor/) of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view AOL’s certification, please visit <http://www.export.gov/safeharbor/>.
+Regardless of where you use our Services or otherwise provide information to us, the information may be transferred to and maintained on servers located in other countries, including in the U.S. Please note that any information we obtain about you will be stored in accordance with Canadian privacy laws, regulations, and standards, which may not be equivalent to the laws in your country of residence. By using our Services or by providing us with your information, you consent to this collection, transfer, storage, and processing of information.
 
 **_How to Contact Us_**  
 If you have questions or concerns about this Privacy Policy or about AOL’s privacy practices in general, please [contact us](mailto:CAPrivacyinfo@aol.com).
