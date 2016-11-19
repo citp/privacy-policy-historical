@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthyleo.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526052210id_/http%3A//healthyleo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyleo.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119133949id_/http%3A//healthyleo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – HealthyLeo.com
 
@@ -17,7 +17,7 @@ http://healthyleo.com/ does use cookies to store information about visitors pre
 **DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on http://healthyleo.com/.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to http://healthyleo.com/ and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/ads/preferences/>
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/)
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense  
