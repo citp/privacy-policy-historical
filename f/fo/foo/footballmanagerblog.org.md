@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the footballmanagerblog.org privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314204109id_/http%3A//www.footballmanagerblog.org/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballmanagerblog.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119040430id_/http%3A//www.footballmanagerblog.org/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy | Football Manager 2016 Blog
+# Privacy
 
 Welcome to Football Manager Blog (the "Site").
 
@@ -38,8 +38,10 @@ Football Manager Blog uses login information, including, but not limited to, IP 
 
 **What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**  
 Football Manager Blog has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
-Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.   
-Our privacy policy does not cover their collection or use of this information.   
+Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.
+
+Our privacy policy does not cover their collection or use of this information. 
+
 Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers. 
 
 **How does the Site keep Personally Identifiable Information secure?**  
@@ -55,9 +57,11 @@ We provide Visitors and Authorized Customers with a mechanism to delete/deactiva
 We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
 
 **Links:**  
-This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.   
+This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
-
-© 2015 **Football Manager Blog** , All rights reserved.  
+© 2016 **Football Manager Blog** , All rights reserved.  
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited.   
 
+
+  
+[full_width]
