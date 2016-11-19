@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peachtree.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630045126id_/http%3A//www.sage.com/us/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peachtree.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120001137id_/http%3A//www.sage.com/us/legal) for the most accurate reproduction.*
 
 # Legal | Sage North America | U.S.
 
@@ -30,9 +30,9 @@ Sage 100; Sage 100 Standard ERP; Sage 100 Advanced ERP; Sage 100 Premium ERP; Sa
 
 Sage Payment Solutions, Sage Exchange; Sage Merchant Account; Sage ACH Account; Sage Virtual Terminal; Sage Mobile Payments; Sage Virtual Check (ACH); Sage Point of Sale Check Conversion; Sage Check 21; Sage Gift Card; Sage Loyalty Card; Sage Small Business Loan; Sage International Payments; Sage Account Updater; Sage Chargeback Assistance Program; Sage Terminal Replacement Program.
 
-Sage Payroll Solutions, Sage Payroll Services; Sage Payroll Full Service, Sage Payroll Essentials; Sage Time; Sage BusinessVision; Sage BusinessWorks; Sage DacEasy; Sage Fixed Assets; Sage HRMS; Sage Timeslips; EasyChoice; Encore; Paychoice; Paychoice Connection; PeopleChoice HR; Payroll in a Flash; Online Employer; Paychoice Online; Sage Active Planner; Sage Source
+Sage Payroll Solutions, Sage Payroll Services; Sage Payroll Full Service, Sage Payroll Essentials; Sage Time; Sage BusinessVision; Sage BusinessWorks; Sage DacEasy; Sage Fixed Assets; Sage HRMS; Sage Timeslips; EasyChoice; Encore; Paychoice; Paychoice Connection; PeopleChoice HR; Payroll in a Flash; Online Employer; Paychoice Online; Sage Active Planner
 
-SageCRM; SageCRM.com; Sage X3 
+SageCRM; SageCRM.com; Sage X3
 
 #### Third-party trademarks
 
