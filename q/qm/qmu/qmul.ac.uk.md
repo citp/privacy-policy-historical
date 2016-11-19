@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qmul.ac.uk privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630123954id_/http%3A//www.qmul.ac.uk/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qmul.ac.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119011310id_/http%3A//www.qmul.ac.uk/site/privacy) for the most accurate reproduction.*
 
 # Privacy and cookies
 
@@ -23,7 +23,7 @@ This privacy notice informs you of what to expect when Queen Mary University of 
 
 ## What information do we collect and how do we use it?
 
-When someone visits our websites we collect standard internet log information and details of visitor behaviour patterns. This is to help us analyse visitor behaviour patterns and track visitor numbers. We collect this information in a way which does not personally identify those using our websites. We will not associate any data gathered from this site with any personally identifying information from any source. If we do want to collect personally identifiable information through our website, we will make this clear and will explain what we intend to do with it.
+When someone visits our websites we collect standard internet log information and details of visitor behaviour patterns. This is to help us analyse visitor behaviour patterns and track visitor numbers. We collect this information in a way which does not personally identify those using our websites. We will not associate any data gathered from this site with any personally identifying information from any source. If we do want to collect personally identifiable information through our website, we will make this clear and will explain what we intend to do with it. You can find more information about your rights at: http://www.arcs.qmul.ac.uk/governance/information-governance/data-protection/index.html 
 
 ### Submitting personal information
 
