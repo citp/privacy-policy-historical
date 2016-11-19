@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the india-rewards.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613093211id_/http%3A//www.india-rewards.com/cgi-bin/global.pl%3Ftodo%3Dshow_page%26ident%3Ddatenschutz%26wingame_pk%3D42%26freetest_pk%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the india-rewards.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119010854id_/http%3A//www.india-rewards.com/cgi-bin/global.pl%3Ftodo%3Dshow_page%26ident%3Ddatenschutz%26wingame_pk%3D42%26freetest_pk%3D12) for the most accurate reproduction.*
 
 # Data Protection
 
@@ -48,6 +48,6 @@
   
 
   * **10\. Who to contact?**
-  * Please write to us at [info@planet49.co.in](mailto:info@planet49.co.in) if you have any comments or questions about this Privacy Policy, or if you wish to be removed from our mailing list or report any violations of the Privacy Policy. We will respond to you as soon as we receive an email or notification from you. 
+  * Please write to us at [in@apmarketingap.com](mailto:in@apmarketingap.com) if you have any comments or questions about this Privacy Policy, or if you wish to be removed from our mailing list or report any violations of the Privacy Policy. We will respond to you as soon as we receive an email or notification from you. 
 
 
