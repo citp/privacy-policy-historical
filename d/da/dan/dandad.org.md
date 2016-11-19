@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the dandad.org privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623223744id_/http%3A//www.dandad.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dandad.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119185024id_/https%3A//www.dandad.org/privacy) for the most accurate reproduction.*
 
 # Privacy | D&AD | D&AD
-
-Inspired by Branded Content
-
-In partnership with YouTube
 
 At D&AD, we take your privacy seriously.
 
