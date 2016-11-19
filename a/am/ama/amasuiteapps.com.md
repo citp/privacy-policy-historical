@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amasuiteapps.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602032120id_/http%3A//getamasuite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amasuiteapps.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119072933id_/http%3A//getamasuite.com/privacy) for the most accurate reproduction.*
 
-# Amasuite 4 – Privacy Policy — AmaSuite Version 4
+# Amasuite 4 – Privacy Policy — getamasuite.com Managed WordPress Site
 
 Fair Information Practices 
 
