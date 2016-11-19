@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interparcel.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318041628id_/http%3A//www.interparcel.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interparcel.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119102354id_/http%3A//www.interparcel.com/privacy.php) for the most accurate reproduction.*
 
 # Interparcel Privacy Policy
 
