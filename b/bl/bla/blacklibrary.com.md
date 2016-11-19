@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blacklibrary.com privacy policy that was archived on 2016-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160305072412id_/http%3A//www.blacklibrary.com/Info/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacklibrary.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119014630id_/http%3A//www.blacklibrary.com/Info/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Black Library & Warhammer Digital - Privacy Policy
 
