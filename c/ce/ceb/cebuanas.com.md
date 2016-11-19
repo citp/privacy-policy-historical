@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cebuanas.com privacy policy that was archived on 2015-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150708112026id_/http%3A//www.cebuanas.com/faq/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cebuanas.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119052500id_/http%3A//www.cebuanas.com/faq/privacy.php) for the most accurate reproduction.*
 
 # Cebuanas.com Privacy Policy Statement
 
@@ -46,8 +46,6 @@ We use the latest security technology to help protect you, our members, and your
 
 ### Our Security Seals:
 
-[](http://secure.trust-guard.com/security/1698)    [](http://secure.trust-guard.com/privacy/1698)
-
 Should you have further questions about the security at our website, you can send an email via CONTACT US link.   
 
 
@@ -78,4 +76,5 @@ If our privacy policy changes in a way that will materially affect our users, we
 
 ### X. LEGAL DISCLAIMER
 
-DUE TO THE VERY NATURE OF INTERNET USE AND EXCHANGES OF INFORMATION EITHER IN THE CHAT ROOMS, MESSAGING OR EMAIL MESSAGES, THERE ARE INHERENT ISSUES RELATING TO THE SECURITY AND PRIVACY OF INFORMATION YOU PROVIDE. WHEN YOU OPT TO USE OUR SITE, YOU RELEASE US FROM ANY AND ALL LIABILITIES RELATING TO YOUR USE OF OUR CEBUANAS.COM WEBSITE. Please review our [Terms and Conditions of Use.](http://www.cebuanas.com/faq/terms.php)
+DUE TO THE VERY NATURE OF INTERNET USE AND EXCHANGES OF INFORMATION EITHER IN THE CHAT ROOMS, MESSAGING OR EMAIL MESSAGES, THERE ARE INHERENT ISSUES RELATING TO THE SECURITY AND PRIVACY OF INFORMATION YOU PROVIDE. WHEN YOU OPT TO USE OUR SITE, YOU RELEASE US FROM ANY AND ALL LIABILITIES RELATING TO YOUR USE OF OUR CEBUANAS.COM WEBSITE. Please review our [Terms and Conditions of Use.](http://www.cebuanas.com/faq/terms.php)  
+
