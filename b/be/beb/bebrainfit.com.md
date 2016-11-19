@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bebrainfit.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617045550id_/http%3A//bebrainfit.com/privacy-disclosure-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bebrainfit.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119044512id_/http%3A//bebrainfit.com/privacy-disclosure-terms) for the most accurate reproduction.*
 
 # Privacy Policy - Disclosure Policy - Terms of Use | Be Brain Fit
 
@@ -81,13 +81,13 @@ BeBrainFit.com (“website,” “we,” “us”) is a website engaged in provi
 
 In providing this information, we also routinely provide convenient access to products that we think may be helpful to you. We do this through links to vendor websites where you can purchase these products.
 
-If you purchase a product on a vendor’s website after clicking a link on our website to that vendor’s website, we will be paid a commission by the vendor for your purchase. 
+If you purchase a product on a vendor’s website after clicking a link on our website to that vendor’s website, we will be paid a commission by the vendor for your purchase.
 
 Whenever we do explicitly mention or recommend a product, we give you our honest assessment of it. Our recommendation is based on either our assessment of the vendor and its product or our prior experience with the vendor and similar products made or sold by that company.
 
 Note that the cost of any product you buy on a vendor’s website through a link on our website is no higher than if you bypassed our link and bought the product on the vendor’s website directly.
 
-Regardless of any mention or recommendation we make of a product on our website, we urge you to always do your own due diligence so that you make the best decision for you and your circumstances. 
+Regardless of any mention or recommendation we make of a product on our website, we urge you to always do your own due diligence so that you make the best decision for you and your circumstances.
 
 ### Changes to This Disclosure Policy
 
