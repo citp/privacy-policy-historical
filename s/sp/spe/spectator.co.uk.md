@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spectator.co.uk privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617192732id_/http%3A//www.spectator.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectator.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119021331id_/http%3A//www.spectator.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Spectator
 
@@ -115,7 +115,12 @@ There will be an administrative charge of £10 for providing a copy of this info
 By giving us personal information about you, you agree that your personal information can be used as set out in this Privacy Policy. If we change the Privacy Policy, we will post the changes on this page. Please check the website regularly for any changes to this Privacy Policy.
 
 **11\. If you don’t feel we’re adhering to this Privacy Policy, what should you do?**  
-If at any time you believe that we have not adhered to the terms of this Privacy Policy, please notify us by email to [data@spectator.co.uk](mailto:data@spectator.co.uk) or write to us at: Data Department, The Spectator (1828) Ltd, 22 Old Queen Street, London SW1H 9HP.
+If at any time you believe that we have not adhered to the terms of this Privacy Policy, please notify us by email to [data@spectator.co.uk](mailto:data@spectator.co.uk) or write to us at:  
+Data Department  
+The Spectator (1828) Ltd  
+22 Old Queen Street  
+London  
+SW1H 9HP.
 
 and we will make any efforts we can to determine and solve the problem promptly.
 
