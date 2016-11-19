@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dragonballz.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412082301id_/http%3A//dragonballz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragonballz.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119155431id_/http%3A//www.dragonballz.com/privacy) for the most accurate reproduction.*
 
 # Dragon Ball Z | The Official Site
 
