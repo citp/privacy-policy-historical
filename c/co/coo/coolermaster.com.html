@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the coolermaster.com privacy policy that was archived on 2016-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160603115441id_/http%3A//www.coolermaster.com/company/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coolermaster.com privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119033945id_/http%3A//www.coolermaster.com/company/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-tw" lang="zh-tw"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -13,7 +13,7 @@
 <meta name="google-site-verification" content="qFLz09Q5GeTR-4Cq6_eEKr3DNOLPSwc-wp52kT9PF0o">
 <link rel="icon" type="image/png" href="http://assets.coolermaster.com/images/favicon2015-32x32-3.png">
 <link type="text/css" href="http://assets.coolermaster.com/global/css/base_201510061200.css" rel="stylesheet">
-<script src="https://script.crazyegg.com/pages/scripts/0022/9289.js?438999" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M44JTZ"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M44JTZ"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
 <!--<script type="text/javascript" src="http://assets.coolermaster.com/global/js/jquery/scrolltopcontrol-min.js"></script>-->
 <script type="text/javascript" src="http://assets.coolermaster.com/global/js/jquery/scrolltopcontrol.js"></script>
 <script type="text/javascript" src="http://assets.coolermaster.com/global/js/default-min.js"></script>
@@ -59,13 +59,17 @@ $(document).ready(function() {
 	});
 
 	$(document).keypress(function(e){
-    	if(e.keyCode == 13) {
-    		if($("#searchkey").attr("value") != "" && $("#searchkey").attr("value") != "Search" ){
-				var urlstr = 'http://www.coolermaster.com/search/?q='+$('#searchkey').val();
+	    if(e.keyCode == 13) {
+			if($("#searchkey").attr("value") != "" && $("#searchkey").attr("value") != "Search" ){
+				var urlstr = 'http://www.coolermaster.com/search/?q='+$("#searchkey").attr("value");
+				window.location = urlstr;
+			} else if($("#searchkey03").attr("value") != "") {
+				var urlstr = 'http://www.coolermaster.com/search/?q='+$("#searchkey03").attr("value");
 				window.location = urlstr;
 			}
-		}
+	    }
 	});
+	
 	$("#seachBar ul").click(function(e) {
 	  e.stopPropagation();
 	});
@@ -304,12 +308,8 @@ $(document).ready(function() {
 <body class="other">
 <script type="text/javascript">
 $(document).ready(function() {
-
 	$("#menuMain .c01").mouseover(function () {
-		//alert("1");
 		//$("#menuMain .dropDownDiv").slideDown();
-		//alert("2");
-
 		var idx01 = $("#menuMain .c01").index(this);
 		$("#menuMain ul li").removeClass("sel");
 		$("#menuMain ul li").eq(idx01).addClass("sel");
@@ -325,39 +325,29 @@ $(document).ready(function() {
 	  }
 
 	});
-
 	$("#menuMain ul li:eq(0)").mouseleave(function () {
 		    $("#menuMain ul li").removeClass("sel");
 		    $("#menuMain ul li div").eq(0).slideUp(200);
 	});
-//
-//	$("#menuMain .c01").mouseover (function () {
-//		    $("#menuMain ul li").removeClass("sel");
-//		    $("#menuMain ul li:eq(0)").addClass("sel");
-//		    $("#menuMain ul li div").eq(0).slideDown(800);
-//	});
-
-
 });
 </script>
 <div style="position: fixed; left: 0; top: 0; width: 100%; z-index: 100;">
-<div id="header">
-	<div class="content">
-    <div class="quickLinks" style="font-size:1.2em;"><a class="subscribe" data-fancybox-type="iframe" href="/newsletter/subscribe.html">Subscribe Newsletter</a></div>
-    <a href="http://www.coolermaster.com/" class="logo"><img src="http://assets.coolermaster.com/images/logo2015_slogan_235x68.png" alt="Cooler Master"></a>
-    <div id="seachBar">
-    	<form action="#" method="post" onsubmit="location.href='/search/?q='+$('#searchkey').val(); return false;">
-    	<input type="text" name="searchkey" id="searchkey" value="Search" class="searchInput"><span><input type="image" src="http://assets.coolermaster.com/global/images/2014/icon/search_submit.jpg" name="searchbtn01" id="searchbtn01" align="absbottom"></span>
-    	</form>
-    	<ul></ul>
-    </div>
-
-    <div id="menuMain">    
-        <ul style="width:750px">
-            <li class="haveDropDown1" style="margin:0px 10px"><a href="javascript:void(0);" class="c01">PRODUCTS</a>
-            	<div class="dropDownDiv">
-                    <dl>
-                    	<dd style="background-image: none;">
+	<div id="header">
+		<div class="content">
+		    <div class="quickLinks" style="font-size:1.2em;"><a href="http://www.coolermaster.com/service/whereToBuy.html">Where to buy</a></div>
+		    <a href="http://www.coolermaster.com/" class="logo"><img src="http://assets.coolermaster.com/images/logo2015_slogan_235x68.png" alt="Cooler Master"></a>
+		    <div id="seachBar">
+		    	<form action="#" method="post" onsubmit="location.href='/search/?q='+$('#searchkey').val(); return false;">
+		    	<input type="text" name="searchkey" id="searchkey" value="Search" class="searchInput"><span><input type="image" src="http://assets.coolermaster.com/global/images/2014/icon/search_submit.jpg" name="searchbtn01" id="searchbtn01" align="absbottom"></span>
+		    	</form>
+		    	<ul></ul>
+		    </div>
+		    <div id="menuMain">
+		        <ul style="width:750px">
+		            <li class="haveDropDown1" style="margin:0px 10px"><a href="javascript:void(0);" class="c01">PRODUCTS</a>
+		            	<div class="dropDownDiv">
+		                    <dl>
+		                    	<dd style="background-image: none;">
 <div style="height: 230px;">
 <h3>Cooling</h3>
 <a href="http://www.coolermaster.com/product/Lines/cpu-air-cooler/">CPU Air Cooler</a>
@@ -392,7 +382,7 @@ $(document).ready(function() {
 <a href="http://www.coolermaster.com/product/Lines/b-series/">B Series</a>
 <a href="http://www.coolermaster.com/product/Lines/thunder-series/">Thunder Series</a>
 <a href="http://www.coolermaster.com/product/Lines/elite-series/">Elite Series</a>
-<a href="http://www.coolermaster.com/product/Lines/laptops-power/">Laptops Power</a>
+<a href="http://www.coolermaster.com/product/Lines/laptops-power/">Laptop Power Adapter</a>
 </div>
 </dd>
 <dd>
@@ -405,33 +395,20 @@ $(document).ready(function() {
 <a href="http://www.coolermaster.com/product/Lines/peripheral-others/">Others</a>
 </div>
 </dd>
-<!--<dd>-->
-<!--<div style="height: 230px;">-->
-<!--<h3>Peripheral</h3>-->
-<!--<a href="http://gaming.coolermaster.com/en/products/keyboards/" hidefocus="hidefocus" onfocus="this.blur();">Keyboards</a>-->
-<!--<a href="http://gaming.coolermaster.com/en/products/mice/" hidefocus="hidefocus" onfocus="this.blur();">Mice</a>-->
-<!--<a href="http://gaming.coolermaster.com/en/products/audio/" hidefocus="hidefocus" onfocus="this.blur();">Audio</a>-->
-<!--<a href="http://gaming.coolermaster.com/en/products/pads/" hidefocus="hidefocus" onfocus="this.blur();">Pads</a>-->
-<!--</div>-->
-<!--</dd>-->
-                    	
-                    </dl>
-            	</div>
-            </li>
-            <li style="margin:0px 10px"><a href="/fanzone/" class="c01">FANZONE</a></li>
-            <li style="margin:0px 10px"><a href="http://support.coolermaster.com" class="c01" target="_blank">SUPPORT</a></li>
-            <li style="margin:0px 10px"><a href="http://www.coolermaster.com/service/whereToBuy.html" class="c01">WHERE TO BUY</a></li>
-            <!--li><a href="http://community.coolermaster.com" class="c01" target="_blank">FORUM</a></li-->
-        </ul>
-        
-    </div>
-    
-    </div>
-</div>
+		                    </dl>
+		            	</div>
+		            </li>
+		            <li style="margin:0px 10px"><a href="/fanzone/" class="c01">FANZONE</a></li>
+		            <li style="margin:0px 10px"><a href="http://makerhub.coolermaster.com" class="c01" target="_blank">MAKERHUB</a></li>
+		            <li style="margin:0px 10px"><a href="http://www.coolermaster.com/store-locator/" class="c01" target="_blank">SHOP</a></li>
+		        </ul>
+		    </div>
+	    </div>
+	</div>
 </div>
 
 <div id="wrapper" class="company">
-  	<p class="breadCrumbs"><a href="http://www.coolermaster.com/">Home</a> / COMPANY / Privacy</p>
+  	<p class="breadCrumbs"><a href="http://www.coolermaster.com/">Home</a> / Company / Privacy</p>
     <div class="mainContent">
 
 		<ul class="subMenu">
@@ -552,50 +529,66 @@ Your Ability to Edit and Delete Your Account Information and Preferences</p>
 #social-navlist {position: relative;}
 #social-navlist li {margin: 0;padding: 0;list-style: none;position: absolute;top: 0;}
 #social-navlist li, #social-navlist a {height: 32px;display: block;}
-#social-facebook {left: 0px;width:32px;height:32px;background: url('http://assets.coolermaster.com/fanzone/images/ico-facebook-v2.png') 0 0;}
-#social-facebook a:hover {background: url('http://assets.coolermaster.com/fanzone/images/ico-facebook-v2.png') 0 -32px;}
-#social-twitter {left: 35px;width:32px;height:32px;background: url('http://assets.coolermaster.com/fanzone/images/ico-twitter-v2.png') 0 0;}
-#social-twitter a:hover {background: url('http://assets.coolermaster.com/fanzone/images/ico-twitter-v2.png') 0 -32px;}
-#social-reddit {left: 70px;width:32px;height:32px;background: url('http://assets.coolermaster.com/fanzone/images/ico-reddit-v2.png') 0 0;}
-#social-reddit a:hover {background: url('http://assets.coolermaster.com/fanzone/images/ico-reddit-v2.png') 0 -32px;}
-#social-youtube {left: 105px;width:32px;height:32px;background: url('http://assets.coolermaster.com/fanzone/images/ico-youtube-v2.png') 0 0;}
-#social-youtube a:hover {background: url('http://assets.coolermaster.com/fanzone/images/ico-youtube-v2.png') 0 -32px;}
+#social-facebook {left: 0px;width:32px;height:32px;background: url('http://assets.coolermaster.com/fanzone/images/ico-facebook-3.png') 0 0;}
+#social-facebook a:hover {background: url('http://assets.coolermaster.com/fanzone/images/ico-facebook-3.png') 0 -32px;}
+#social-twitter {left: 35px;width:32px;height:32px;background: url('http://assets.coolermaster.com/fanzone/images/ico-twitter-3.png') 0 0;}
+#social-twitter a:hover {background: url('http://assets.coolermaster.com/fanzone/images/ico-twitter-3.png') 0 -32px;}
+#social-reddit {left: 70px;width:32px;height:32px;background: url('http://assets.coolermaster.com/fanzone/images/ico-reddit-3.png') 0 0;}
+#social-reddit a:hover {background: url('http://assets.coolermaster.com/fanzone/images/ico-reddit-3.png') 0 -32px;}
+#social-youtube {left: 105px;width:32px;height:32px;background: url('http://assets.coolermaster.com/fanzone/images/ico-youtube-3.png') 0 0;}
+#social-youtube a:hover {background: url('http://assets.coolermaster.com/fanzone/images/ico-youtube-3.png') 0 -32px;}
+#social-ig {left: 140px;width:32px;height:32px;background: url('http://assets.coolermaster.com/fanzone/images/ico-ig-3.png') 0 0;}
+#social-ig a:hover {background: url('http://assets.coolermaster.com/fanzone/images/ico-ig-3.png') 0 -32px;}
+#social-forum {left: 175px;width:32px;height:32px;background: url('http://assets.coolermaster.com/fanzone/images/ico-forum-3.png') 0 0;}
+#social-forum a:hover {background: url('http://assets.coolermaster.com/fanzone/images/ico-forum-3.png') 0 -32px;}
+.otherLink li {margin:0 25px 0 10px;}
+.otherLink li p {font-family: Verdana,Tahoma,"Lucida Grande","Lucida Sans Unicode",sans-serif; font-size: 1.5em;font-weight: 700;display: block;margin-bottom: 10px;text-transform:uppercase;color:#FFF;}
+.otherLink {background-color:#53565a;background-image:none;}
+.otherLink li a{font-size:1.2em;}
+.otherLink li a:visited,.otherLink li a:link {color:#FFF;}
+#footer .copyright {color:#FFF;background-color:#53565a;}
+#footer .languageArea {background-image:none;padding-top:7px;width:260px;}
+#footer .languageArea a{color:#FFF;width:250px;text-decoration:none;}
+#footer .languageArea a span{text-decoration:none;}
+#footer .languageArea a span:hover{text-decoration:underline;}
 </style>
 <div id="footer">
     <div class="otherLink">
         <ul>
 <li>
-<strong>COMPANY</strong>
-<a href="company/aboutUs.html" target="_self">About us</a>
+<p>Company</p>
+<a href="company/aboutUs.html" target="_self">About Us</a>
+<a href="company/press-release.html" target="_self">Press Release</a>
 <a href="company/newsList.html" target="_self">News</a>
-<a href="company/careersList.html" target="_self">Careers</a>
-<a href="company/privacy.html" target="_self">Privacy policy</a>
-<a href="company/privacy-Terms_of_Use.html" target="_self">Terms of use</a>
-<a href="company/siteMap.html" target="_self">Site Map</a>
+<a href="/company/careers/" target="_self">Careers</a>
+<a href="company/privacy.html" target="_self">Privacy Policy</a>
+<a href="company/privacy-Terms_of_Use.html" target="_self">Terms of Use</a>
+<a href="service/contactUs.html" target="_self">Contact Us</a>
 </li>
 <li>
-<strong>MARKETING</strong>
-<a href="http://channel.coolermaster.com/" target="_blank">Channel Partner Station</a>
-<a href="marketing/wallpaper.html" target="_self">Wallpaper</a>
-<a href="http://www.coolermaster.com/power-supply-calculator/" target="_self">PSU Calculator</a>
-</li>
-<li>
-<strong>SERVICE</strong>
+<p>Service</p>
 <a href="http://bit.ly/cm-faq" target="_blank">FAQ</a>
 <a href="http://account.coolermaster.com/" target="_blank">Tech Support</a>
-<a href="http://account.coolermaster.com/" target="_blank">Product register</a>
+<a href="http://account.coolermaster.com/" target="_blank">Product Register</a>
 <a href="service/warranty.html" target="_self">Warranty</a>
 <a href="/service/discontinued-products.html" target="_self">Discontinued Products</a>
-<a href="service/contactUs.html" target="_self">Contact us</a>
-<a href="https://account.coolermaster.com/b2blogon.aspx" target="_blank">Distributor RMA (B2B)</a>
+<a href="http://www.coolermaster.com/power-supply-calculator/" target="_self">PSU Calculator</a>
+<a href="http://resource.coolermaster.com" target="_blank">Resource Center</a>
+</li>
+<li>
+<p>Where to buy</p>
+<a href="http://www.coolermaster.com/store-locator/" target="_blank">Shop Online</a>
+<a href="/service/whereToBuy.html" target="_self">Find a Store</a>
 </li>
 		<li>
-			<strong>Follow Us On</strong>
+			<p>Follow Us On</p>
 			<ul id="social-navlist">
 			    <li id="social-facebook"><a href="http://www.facebook.com/coolermaster" target="_blank"></a></li>
 			    <li id="social-twitter"><a href="http://twitter.com/coolermaster" target="_blank"></a></li>
 			    <li id="social-reddit"><a href="http://www.reddit.com/r/coolermaster" target="_blank"></a></li>
 			    <li id="social-youtube"><a href="http://www.youtube.com/coolermasteronline" target="_blank"></a></li>
+				<li id="social-ig"><a href="https://www.instagram.com/coolermaster" target="_blank"></a></li>
+				<li id="social-forum"><a href="http://community.coolermaster.com" target="_blank"></a></li>
 			</ul>
 		</li>
 			
@@ -604,31 +597,19 @@ Your Ability to Edit and Delete Your Account Information and Preferences</p>
    
     <div class="copyright">
         <div class="content">
-            <div class="languageArea">
-                <div class="flag"><img src="http://assets.coolermaster.com/global/images/flag/global.jpg" width="16" height="16" alt="Global"></div>
-                <a href="service/language.html"></a>
-            </div>
+            <div class="languageArea"><a href="service/language.html">Select Country/Language: <span>Global/English</span></a></div>
             <p>© Cooler Master Technology Inc.</p>
         </div>
     </div>
 </div>
 
-<!--a href="http://goo.gl/6MPknZ" target="_blank" class="feedback"></a-->
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-3564273-1', 'auto');
-  ga('send', 'pageview');
-</script>
-
-<script type="text/javascript">
-setTimeout(function(){var a=document.createElement("script");
-var b=document.getElementsByTagName("script")[0];
-a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0022/9289.js?"+Math.floor(new Date().getTime()/3600000);
-a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-3564273-1', 'auto');
+ga('send', 'pageview');
 </script>
 
 <!-- Google Tag Manager -->
