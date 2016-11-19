@@ -1,9 +1,13 @@
-> *The following text is extracted and transformed from the e-mudhra.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502102550id_/http%3A//e-mudhra.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-mudhra.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119022241id_/http%3A//www.e-mudhra.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 LICENSED CERTIFYING AUTHORITY  
-| [](https://web.archive.org/web/20160502102550id_/http%3A//e-mudhra.com/index.html) |   |   
+| 
+
+[](https://web.archive.org/web/20161119022241id_/http%3A//www.e-mudhra.com/index.html)Certifying Authority
+
+|   |   
 ---|---|---  
 |  | Privacy Policy  
 ---  
