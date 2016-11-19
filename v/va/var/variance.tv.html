@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the variance.tv privacy policy that was archived on 2016-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160609062224id_/http%3A//variance.tv/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the variance.tv privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119204423id_/http%3A//variance.tv/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang=""><!--<![endif]--><head>
     <meta charset="utf-8">
@@ -349,8 +349,10 @@
         </div><!-- end container -->
     </footer>
 
+    
     <script type="text/javascript" async="" defer="" src="//stats.variance.tv/piwik.js"></script><script src="//variance.tv/static/js/vendor/jquery-1.11.2.min.js"></script>
 <script src="//variance.tv/static/js/vendor/bootstrap.min.js"></script>
+<script src="//variance.tv/static/js/js.cookie.js"></script>
 <script src="//variance.tv/static/js/main.js"></script>
 
     
@@ -371,6 +373,20 @@
     </script>
     <noscript><p><img src="//stats.variance.tv/piwik.php?idsite=3" style="border:0;" alt="" /></p></noscript>
     <!-- End Piwik Code -->
+
+
+    <script>
+        (function(){
+            var m = window.location.href.match(/zp_cid=([^&# ]+)/);
+            if (!m){
+                return;
+            }
+            $('<img />')
+                .attr('src', 'http://postback.zeroredirect1.com/zppostback/c51aec21-943d-11e5-a3c9-0edec89589c7?cid='+m[1])
+                .appendTo($('body'));
+        })();
+    </script>
+
 
 
 </body></html>
