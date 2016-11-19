@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the publicagent.com privacy policy that was archived on 2016-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160610122430id_/http%3A//www.publicagent.com/tour/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the publicagent.com privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119045949id_/http%3A//publicagent.com/tour/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -13,8 +13,10 @@
 <link rel="apple-touch-icon" sizes="114x114" href="/114x114_PA.png">
 <link rel="apple-touch-icon" sizes="144x144" href="/144x144_PA.png">
 <link rel="stylesheet" type="text/css" href="inc/style.css">
+
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="inc/jquery.tools.min.js"></script>
 <script type="text/javascript" src="inc/flowplayer-3.2.6.min.js"></script>
+
 <script src="inc/flowplayer.ipad-3.2.10.min.js"></script>
 <!--script type="text/javascript" src="inc/tourbanners.js"></script-->
 <script type="text/javascript">
@@ -41,7 +43,20 @@
     -webkit-box-shadow: 0 0 90px #000;
 }
 
-.apple_overlay .close {
+.fakehubjoin {
+    display:none;
+    background-color:#333;
+    min-height:540px;
+    padding:12px;
+	box-sizing:border-box;
+    border:1px solid #666;
+    -moz-border-radius:8px;
+    -webkit-border-radius:8px;
+    -moz-box-shadow:0 0 90px 5px #000;
+    -webkit-box-shadow: 0 0 90px #000;
+}
+
+.apple_overlay .close , .fakehubjoin .close{
     background-image:url('/tour/img/close.png');
     position:absolute;
     right:-15px;
@@ -67,8 +82,25 @@ var top = wTop + (window.innerHeight / 2) - (win_height / 2);
 
 function offerGo(offerurl){
     popup_Set_Cookie(cookie_name,"1",hours,"/","","");
-	pop_window = window.open(offerurl,'offer_window','location='+ win_location +',left='+ left +',top='+ top +',status='+ win_status +',scrollbars='+ win_scroll +',resizable='+ win_resize +',toolbar='+ win_toolbar +',width='+ win_width +',height='+win_height);
+	$(".fakehubjoin").data('overlay').load();
+	//pop_window = window.open(offerurl,'offer_window','location='+ win_location +',left='+ left +',top='+ top +',status='+ win_status +',scrollbars='+ win_scroll +',resizable='+ win_resize +',toolbar='+ win_toolbar +',width='+ win_width +',height='+win_height);
 }
+
+
+
+$(function() {
+
+	$(".fakehubjoin").overlay({
+        mask: {
+	    color: '#999',
+	    loadSpeed: 200,
+	    opacity: 0.5
+		},
+		onClose:function(){
+			window.location.href="http://join.publicagent.com/signup/signup.php?step=signup&nats=MTY4OS4yOC44LjkuMC4wLjAuMC4w&step=2"
+		}
+	})
+});
 </script><script>
 var default_URL = "http://www.fakehub.com/publicagent/popup"; // this is the URL you want to go on the popup unless a goto url is sent
 
