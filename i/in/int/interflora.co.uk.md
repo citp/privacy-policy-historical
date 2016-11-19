@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interflora.co.uk privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605235735id_/http%3A//www.interflora.co.uk/content/help-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interflora.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119180720id_/http%3A//www.interflora.co.uk/content/help-privacy-policy) for the most accurate reproduction.*
 
 # Interflora Help - Privacy Policy
 
@@ -18,6 +18,7 @@ We may collect two types of information from users of this Website:
 > (ii) anonymous " ** _Non-Personally Identifiable Information_** " (such as information about how many users log on to our Website). The personal information we may collect and process includes: 
 
   * Personal details that you provide by filling in forms on our Website, information provided at the time of registering to use our Website, subscribing to our services or requesting further services, including, but not limited to, your name, date of birth, address, telephone number (including mobile number), credit card information or e-mail address;
+  * Recipient details that you provide when placing your order, including name, address and any contact telephone numbers. However, this detail will not be used for direct marketing purposes.
   * Details of your visits to our Website including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access;
   * If you contact us, we may keep a record of that correspondence;
   * Details of any transactions you carry out through our Website and of the fulfilment of orders; and
