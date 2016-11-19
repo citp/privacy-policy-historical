@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the thegrio.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629103711id_/http%3A//thegrio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegrio.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119091512id_/http%3A//thegrio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | theGrio
 
-D2M2 LLC (“us”, “we”, or “our”) operates the http://thegrio.com/ website (the “Service”).
+**Last updated: September 9, 2016**
+
+ENTERTAINMENT STUDIOS LLC (“us”, “we”, or “our”) operates the http://thegrio.com/ website (the “Service”).
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
@@ -30,7 +32,7 @@ We use “cookies” to collect information. You can instruct your browser to re
 
 Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.
 
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the [Google Ads Settings](http://www.google.com/ads/preferences/ "Google Ads Settings") web page.
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the [Google Ads Settings](http://www.google.com/ads/preferences/) web page.
 
 **Do Not Track Disclosure**
 
@@ -54,7 +56,7 @@ We will disclose your Personal Information where required to do so by law or sub
 
 **Business Transaction**
 
-If D2M2 LLC is involved in a merger, acquisition or asset sale, your Personal Information may be transferred. We will provide notice before your Personal Information is transferred and becomes subject to a different Privacy Policy.
+If ENTERTAINMENT STUDIOS LLC is involved in a merger, acquisition or asset sale, your Personal Information may be transferred. We will provide notice before your Personal Information is transferred and becomes subject to a different Privacy Policy.
 
 **Security**
 
