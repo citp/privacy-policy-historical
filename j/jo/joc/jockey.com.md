@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the jockey.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518183007id_/http%3A//www.jockey.com/customerservice/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jockey.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119033156id_/http%3A//www.jockey.com/customerservice/privacypolicy) for the most accurate reproduction.*
 
 # Jockey Privacy Policy | Corportate Information | Jockey.com
 
 ### CUSTOMER SERVICE: Privacy Policy
-
-  
-
-
-* * *
 
 Revised: April 29, 2014
 
@@ -44,7 +39,7 @@ Our site utilizes "cookies." Cookies do not gather any of your personally identi
 
 Tracking pixels are small graphic images used to track activity on web pages or to confirm receipt of emails. They help Jockey to determine user activity on our website and provide you with a more personalized experience. 
 
-Jockey also uses third party cookies to provide you with Jockey advertisements and promotions on other internet sites. To learn more about third party cookies and to designate your preferences for their use, please visit the Network Advertising Initiative at [NETWORKADVERTISING.ORG](http://www.networkadvertising.org/). 
+Jockey also uses third party cookies to provide you with Jockey advertisements and promotions on other internet sites and in direct mail. To learn more about third party cookies and to designate your preferences for their use, please visit the Network Advertising Initiative at [NETWORKADVERTISING.ORG](http://www.networkadvertising.org/). 
 
 #### How Does Jockey Protect Your Information?
 
@@ -91,11 +86,11 @@ To the extent that this Site contains links to outside services and resources, t
 
 #### California Privacy Rights 
 
-Under California Code § 1798.83, customers of Jockey who are residents of California have the right to request the names of third parties with whom their personal information is shared. In response, Jockey may offer, and does offer, consumers a cost-free means of opting out of having their information shared. If you are a California resident and would like to exercise this right, please see the above section titled "HOW CAN I UNSUBSCRIBE OR OPT-OUT OF RECEIVING COMMUNICATIONS FROM JOCKEY?" in order to contact us. 
+Under California Code § 1798.83, customers of Jockey who are residents of California have the right to request the names of third parties with whom their personal information is shared. In response, Jockey may offer, and does offer, consumers a cost-free means of opting out of having their information shared. If you are a California resident and would like to exercise this right, please see the above section titled " HOW CAN I UNSUBSCRIBE OR OPT-OUT OF RECEIVING COMMUNICATIONS FROM JOCKEY? " in order to contact us. 
 
 #### Canadian Resident Privacy Rights
 
-Jockey complies with the Personal Information Protection and Electronic Documents Act, which allows Canadian residents access to information regarding the existence, use and disclosure of personal information. If you are a Canadian resident and would like to exercise this right, please see the above section titled "HOW CAN I UNSUBSCRIBE OR OPT-OUT OF RECEIVING COMMUNICATIONS FROM JOCKEY?" in order to contact us. 
+Jockey complies with the Personal Information Protection and Electronic Documents Act, which allows Canadian residents access to information regarding the existence, use and disclosure of personal information. If you are a Canadian resident and would like to exercise this right, please see the above section titled " HOW CAN I UNSUBSCRIBE OR OPT-OUT OF RECEIVING COMMUNICATIONS FROM JOCKEY? " in order to contact us. 
 
 #### Children's Information Policy
 
