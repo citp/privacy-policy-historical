@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashify.in privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608194725id_/http%3A//www.cashify.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashify.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119094025id_/http%3A//www.cashify.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cashify.in
 
@@ -21,6 +21,18 @@ Furthermore, if you participate in a user forum on the Cashify website, your com
 We may also provide a feature allowing you to invite a friend to join Cashify. If you provide a friend's email address to us for this reason, we will use that email address only for the purpose of sending a onetime invitation to your friend. Your friend may contact us at [info@Cashify.in](mailto:info@Cashify.in) to remove their information from our database.
 
 Use of personal information
+
+We will treat your personal information as confidential, and we will not share your personal information with third parties without your permission, except in the limited circumstances described below. If you accept a referral from Cashify to one of our partner sites, we may provide PII to the partner site to save you having to re-enter that information. When you select a partner site to sell your phone to, you must opt in to allow your PII to be submitted to that partner site, and you agree to be bound by their privacy policy as regards use of your PII.
+
+We may provide your personal information to companies that provide services to help us with our business activities such as fulfilling your request for a free shipping kit, purchasing your phone, or sending confirmation or other emails. These companies are authorized to use your personal information only as necessary to provide these services to us.
+
+We may provide your personal information to our third party marketing partners so they may offer you goods and services which you may find of interest. If you do not wish to receive offers from these third parties, you may unsubscribe from their mailing lists by following the instructions in the offer. If you respond to any such offer, your information will be subject to that third party's privacy policy. We may disclose your personal information when we reasonably believe that it is required by a law or legal process and to protect and defend the rights and interests of Cashify, its affiliates, suppliers, or users. In the event Cashify goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.
+
+We may use and disclose your aggregated usage information with others, in a form that does not identify any individual, to allow Cashify and our advertisers to present targeted advertising to you. We may disclose to third parties, including advertisers and potential business partners, aggregated statistics that we develop from your usage habits, preferences, and history. For example, we may disclose generalized information about usage habits based on aggregated statistics developed from your site usage behavior and search history. This statistical information will not identify any individual.
+
+Registering on Cashify or submission of personal information on any associate or partners channels enables you to receive communication regarding your transaction and any information considered of benefit to you that is sent out from time to time.
+
+We may use your personal information to send you periodic service communication through various forms including but not limited to SMS's, emails, app notifications and any other means for which you have provided credentials in order to receive such communication directly to cashify or through an affiliate, associate or partner of cashify. You will be considered "opted in" to receive such communication unless you request to "opt out" by sending an email to [info@Cashify.in](mailto:info@Cashify.in) or by clicking the unsubscribe button on email communication sent to you.
 
 We will treat your personal information as confidential, and we will not share your personal information with third parties without your permission, except in the limited circumstances described below. If you accept a referral from Cashify to one of our partner sites, we may provide PII to the partner site to save you having to re-enter that information. When you select a partner site to sell your phone to, you must opt in to allow your PII to be submitted to that partner site, and you agree to be bound by their privacy policy as regards use of your PII.
 
@@ -64,7 +76,7 @@ If you have questions about the policies described in this policy, please contac
 
 Social Media Features and Widgets
 
-Social Media Features and Widgets
+Our site includes social media features, such as the Facebook Like button and widgets, such as the Share This button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with these features are governed by the privacy policy of the company providing it.
 
 Import Contacts
 
