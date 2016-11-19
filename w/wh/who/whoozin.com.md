@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whoozin.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410160744id_/http%3A//whoozin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoozin.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119010518id_/http%3A//whoozin.com/privacy) for the most accurate reproduction.*
 
-# Free RSVP Online | Track RSVP’s and registrations for your events and recurring meetings.
+# Track RSVPs & Sell Tickets for Events Online | Whoozin
 
 ##  Whoozin Privacy Policy
 
