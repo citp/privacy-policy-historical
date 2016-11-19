@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homemade-circuits.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616085458id_/http%3A//www.homemade-circuits.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemade-circuits.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119094958id_/http%3A//www.homemade-circuits.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Electronic Circuit Projects
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:admin@homemade-circuits.com).  
 At http://www.homemade-circuits.com/ we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://www.homemade-circuits.com/ and how we use it.   
@@ -32,6 +32,3 @@ We believe it is important to provide added protection for children online. We e
 This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.  
 **Consent**  
 By using our website, you hereby consent to our privacy policy and agree to its terms. 
-
-  
-
