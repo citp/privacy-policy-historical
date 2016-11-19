@@ -1,66 +1,131 @@
-> *The following text is extracted and transformed from the casinotropez.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325031410id_/http%3A//www.casinotropez.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinotropez.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119123151id_/http%3A//www.casinotropez.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Casino Tropez Privacy Policy
 
-##  Our ‘Do's and Don’ts’ Regarding Your Personal Information
+Last Modified:  September 26th 2016
 
-Casino Tropez and its subsidiaries are committed to respecting and protecting your privacy at every stage of interaction with our site and software. Please read our privacy policy section for answers to these common privacy questions and concerns:
+This Privacy Policy is effective from  September 26th 2016\. We may change this Privacy Policy at any time and will post the changed policy to this page.
 
-•    Website and Advertising System: What information is logged when you visit our website  
-•    Email: When and why we’ll send you emails  
-•    Account Information: How we intend to use your personal account information  
-•    Winnings: What information we disclose when you win
+1\. Introduction
 
-##  Website Privacy Policy
+1.1. This Privacy Policy sets out the way in which Universe Entertainment Services Malta Limited ("we", "us" or "UEM"), a company incorporated and registered in Malta (company number C 60452), collects and processes Personal Information (as defined in paragraph 2 below).
 
-For purposes of statistical analysis and displaying localized information, the CasinoTropez.com website automatically logs all Internet IP addresses which access our site. The email addresses of our site visitors, however, are never logged.
+1.2. By using the Services, you acknowledge that you have read, and agree to, the terms of this Privacy Policy and that you consent to the use by UEM and any company in our Group, as well as any partners and subcontractors, of your Personal Information for the purposes set out in paragraph 3 of this Privacy Policy. If you do not wish to provide your Personal Information on the basis set out in this Privacy Policy, you should not enter the relevant information on the Website, or provide your Personal Information to us otherwise. However, if you do not provide your Personal Information, you may not be able to use all of the Services.
 
-##  Email Privacy Policy
+1.3. Capitalised terms not defined in this Privacy Policy shall be as defined in the [Terms & Conditions](https://web.archive.org/tropez-terms.html). This Privacy Policy is incorporated into, and forms part of, the Terms & Conditions.
 
-When signing up and registering an account with Casino Tropez, you will be requested to provide a valid personal email address.  We use this email address to notify you of important updates to your account, as well as to share our latest bonus offers and exclusive rewards.
+2\. The information we collect
 
-**If you prefer not to receive promotional emails, simply notify us of your wish to unsubscribe at any time by:**
+2.1. As part of operating the Website, we collect your Personal Information. "Personal Information" means any information from which you can be personally identified, including your name, email address, home address, telephone number, debit/credit card data, date of birth.
 
-• Clicking on the unsubscribe link displayed in all CasinoTropez.com email offers and following the instructions  
-• Calling us at our toll free numbers: International: +6327567970  
-• Contacting a support representative in our online chat windows  
-• Sending a blank email to support [at] casinotropez [dot] com and including the word ‘remove’ in the subject line.
+2.2. We collect your Personal Information when you register for an Account, through the use of online forms and when you email us your details. We also collect information about the transactions you undertake, including details of payment cards used. In addition, we collect Personal Information through surveys which we, or companies engaged by us for such purpose, undertake.
 
-On receiving your notice, we will immediately cancel this service. If you continue to receive our promotional emails and updates or any other unsolicited promotional communication after asking to be unsubscribed, please report to us at abuse [at] casinotropez [dot] com.
+3\. How we use your Personal Information
 
-##  Account Creation Information
+3.1. Your Personal Information is processed by us (including any of our agents, Group members, sub-contractors and/or employees) to provide you with the Services. In particular, we collect your Personal Information in order to enable us to:
 
-###  Use of Personal Information
+3.1.1 set-up, administer and manage your Account and records (including processing deposits and withdrawals);
 
-The personal information that we ask you to provide when creating your Casino Tropez account is used for the following purposes:
+3.1.2 provide and personalise the Services (including to allow you to wager and play our games and the provide chat moderation);
 
-•    (a) creating and managing player accounts and records  
-•    (b) administering player accounts  
-•    (c) providing and personalizing our services  
-•    (d) dealing with your enquiries and requests  
-•    (e) notifying you of updates to our software and/or services  
-•    (f) ensuring we are able to fulfill our regulatory responsibilities by verifying the accuracy of any information you provide us;  
-•    (g) our general regulatory compliance, crime prevention and prosecution of offenders including, where appropriate, dealing with  requests for information by authorized entities for the sharing of information  
-•    (h) carrying out market research campaigns  
-•    (i) providing you with information about and support for products and services  
-•    (j) offer additional or similar products, services or promotions relevant to you  
-•    (k) supporting any of the intended purposes specifically stated at the time at which you provided the personal information  
-These are the “ **Purposes** ” for which we may collect personal data.
+3.1.3. receive and respond to your communications and requests;
 
-###    
-Disclosure of Personal Information
+3.1.4. notify you about updates to the Software and/or the Services;
 
-We may, for the Purposes stated above, disclose your personal information to the following recipients (“Recipients”):
+3.1.5. ensure that we are able to fulfil our regulatory obligations regarding your Account, including by verifying the accuracy of any information you give us;
 
-•    (i) any companies within our group and to their employees who have a need to know such information;  
-•    (ii) any third parties which provide services to us in order to allow or enable us to provide you with gaming services, including by way of example payment processors and data verifiers;  
-•    (iii) any third parties who provide services to us in relation to the operation of Casino Tropez;  
-•    (iv) any auditors, contractors or other advisers auditing any of our business processes or who have the need to access such  information for the purpose of advising us;  
-•    (v) any regulatory body or authorized entity who may have any reasonable requirement to access such personal information; and  
-•    (vi) any potential purchasers of the Casino Tropez business or any investors in it or in any company within our group.
+3.1.6. comply with our obligations under Applicable Laws and to regulators in jurisdictions where we and members of our Group are licensed (including the Malta Gaming Authority);
 
-##  Winnings
+3.1.7. investigate, and assist with the investigation of, suspected unlawful, fraudulent or other improper activity connected with the Services (including, where appropriate, dealing with requests from authorised entities (e.g. sporting bodies) for the sharing of information);
 
-Your winnings and cash-outs are kept strictly confidential, and all winnings information is stored in secure operating environments. Casino Tropez keeps your winnings data private and does not provide information to third parties unless such information is required to be disclosed by law. For promotional purposes, however, we may post your first name, the first initial of your last name, and your country, on the leaderboard of our [Casino Tropez Winners](http://www.casinotropez.com/club-tropez/winners.html) page.
+3.1.8. carry out market research campaigns;
 
-If you still have questions or concerns regarding data privacy and at Casino Tropez, please do not hesitate to contact our Customer Support center at any time, 24 hours a day, seven days a week. Our representatives will be happy to assist you.
+3.1.9. preparing statistics relating to the use of the Services by you and other customers;
+
+3.1.10. provide you with information about, and support for, the Services, including changes to the Services, technical updates and changes to the Terms & Conditions (including this Privacy Policy);
+
+3.1.11. provided that you don't "opt-out" from this option, keep you informed of offers and promotions relation to our products and services and those of other entities within our Group;
+
+3.1.12. support any other purpose necessary for performance of our contractual obligations or specifically stated at the time at which you provided your Personal Information. These are the "Purposes" for which we may collect your Personal Information.
+
+3.2 Telephone calls to and from our customer services representatives may be recorded for training and security purposes.
+
+4\. Disclosure of your Personal Information
+
+4.1. We may, for the Purposes, disclose your Personal Information to any of the following recipients:
+
+4.1.1. any company within our Group (including to its employees and sub-contractors) which assists us in providing the Services or which otherwise has a need to know such information;
+
+4.1.2. any third party which assists us in providing the Services, including (but not limited to) payment processors and chat moderators;
+
+4.1.3. any third party which can assist us in verifying the accuracy of your Personal Information, including financial institutions and credit reference agencies (a record of the search may be retained by such third party);
+
+4.1.4. any third party which assists us in monitoring use of the Services, including the detection and prevention of fraud and collusion;
+
+4.1.5. any contractors or other advisers auditing any of our business processes or who have the need to access such information for the purpose of advising us;
+
+4.1.6. any law enforcement body which may have any reasonable requirement to access your Personal Information;
+
+4.1.7. any regulatory body or authorised entity (e.g. a sporting body) which may have any reasonable requirement to access your Personal Information; and
+
+4.1.8. any potential purchaser of UEM's business or any investors in it or in any company within our Group (including in the event of insolvency).
+
+4.2. If at any time you wish us to stop processing your Personal Information for the above purposes, then you must contact us and we will take the appropriate steps to stop doing so. Please note that this may mean that your Account will be closed.
+
+5\. Marketing Preferences
+
+5.1. UEM and any company in our Group will not send you unsolicited information regarding any third party's products or services.
+
+5.2. As part of the Account registration process, you will have the opportunity to choose whether or not to receive information on offers and promotions from us and any company in our Group.
+
+5.3. We will send you promotional text messages, emails and updates until such time as you inform us that you do not wish to continue to receive them. You may update your marketing preferences at any time by:
+
+5.3.1 if you are receiving emails, clicking on the "unsubscribe" link in an email and following the instructions;
+
+5.3.2. if you are receiving text messages, by following the instructions to unsubscribe; or
+
+5.3.3. contacting our Customer Services team.
+
+6\. Transfer of your Personal Information outside of the EEA Your Personal Information will be transferred outside of the European Economic Area, both to us and other members of our Group. This includes, but is not limited to, Israel and the Philippines.
+
+7\. Updating your Personal Information You may update or delete your Personal Information at any time via the Website or by contacting our Customer Services team.
+
+8\. Contacting us
+
+8.1. You can contact our Customer Services team at support [at] casinotropez [dot] com
+
+8.2. You may obtain a copy of your Personal Information held by us by contacting our Customer Services team at support [at] casinotropez [dot] com. We require up to twenty-eight (28) days' notice to enable us to comply with such a request.
+
+8.3 In accordance with Applicable Law, we reserve the right to charge a fee for providing such information.
+
+8.4. If at any time you believe that we have not adhered to this Privacy Policy, please contact customer services and we will seek to promptly determine and correct the problem.
+
+9\. Advertising and use of Cookies
+
+9.1. We may collect anonymous information about your use of the Website using "cookies", pixel tags and similar functionality. A "cookie" is a small file of text which is downloaded onto your computer when you access the Website and it allows us to recognise when you come back to the Website. We use cookies for the operation of the Website, including (for example) to allow you to remain logged in as move between different parts of the Website. We also use cookies for our own analytical purposes so that we can identify where customers have encountered technical problems on the Website, and therefore help us improve our customers' experience.
+
+9.2. If you object to cookies or want to delete any cookies that are already stored on your computer, you should follow the instructions for deleting existing cookies and disabling future cookies on your web browser or equivalent software. Further information is available at [www.aboutcookies.org](http://www.aboutcookies.org/ "www.aboutcookies.org"). Please note that by deleting or disabling cookies you may not be able to access certain areas or features of the Website.
+
+9.3. We (and any company in our Group) may use your username and/or first name for advertising or promotional purposes.
+
+9.4. As part of the Website's operation, and for our own statistical analysis of site traffic, our Website automatically logs internet IP addresses. We do NOT log any e-mail address of visitors to the Website. Our advertising system logs IP addresses to supply more accurate advertising features, such as language-specific banners.
+
+9.5. While the Website may contain links to websites operated by parties other than us, we are not responsible for the privacy practices or content of such websites.
+
+10\. Security
+
+10.1. We use a number of methods to ensure that all customer information remains confidential. Transferred information is sent using advanced encryption methods and, once stored in our servers, is protected by the most up-to-date firewall technology available to protect data from being misused and/or lost.
+
+10.2. Your winnings and cash-outs are kept strictly confidential, and winnings information is stored in secure operating environments. We do not provide winnings information to any third party unless such information is required to be disclosed by law, regulation or a similar governmental authority.
+
+10.3. The Website is protected by industry-standard SSL (Secured Socket Layer) encryption. This technology encrypts all personal data transferred between you and us.
+
+Dear Visitors,
+
+Casino Tropez does not accept players from your region.
+
+Please contact our customer service team at support [at] casinotropez [dot] com for more information.
+
+Best regards,
+
+Casino Tropez
