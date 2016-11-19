@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the datavalidation.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609075339id_/http%3A//www.datavalidation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datavalidation.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119030149id_/http%3A//www.datavalidation.com/privacy) for the most accurate reproduction.*
 
-# DataValidation | Privacy
+# Privacy | DataValidation
 
   
 
@@ -9,7 +9,7 @@
 
 ### Effective Date: Feb 21, 2013
 
-DataValidation is committed to maintaining your trust and we are transparent in our practices. We ensure that your data is completely protected, never sold, shared or marketed to, and only collected from publicly available sources. As part of being transparent, you have complete control over your data and what is publicly available.
+DataValidation is committed to maintaining your trust and we are transparent in our practices. We ensure that your data is completely protected, never sold, shared or marketed to. As part of being transparent, you have complete control over your data and what is publicly available.
 
 Your privacy matters to DataValidation. Whether you are new to DataValidation or a long-time user, please take the time to get to know our practices.
 
