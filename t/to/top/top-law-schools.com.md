@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top-law-schools.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623094903id_/http%3A//www.top-law-schools.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top-law-schools.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119124312id_/http%3A//www.top-law-schools.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ Third-party embed codes: On TLS we have embedded code from various third parties
 
 Email correspondence: Your email correspondence with us is kept private. However, for email correspondence related to forum bans and other forum related issues, such as a feature request, we may share certain applicable portions of your email within a private forum to seek the advice and input of the moderators.
 
-Private message feature: The content of your private messages is designed to only be shared with your intended recipient. However, we reserve the right to investigate private messages sent by certain individuals to prevent abuse of the private messaging system. We do not share the contents of your private messages with the moderators.
+Private message feature: The content of your private messages is designed to only be shared with your intended recipient. However, we reserve the right to investigate private messages sent by certain individuals to prevent abuse of the private messaging system. Private messages are not shared with the moderators unless the sender or recipient uses the feature to report a private message.
 
 Anonymous post feature: The content of your anonymous posts is shared with the public but the identity of the user who submitted the post is kept hidden from the public. However, this author identity information is made known to the moderators for the purpose of preventing abuse of the anonymous post feature.
 
