@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teradek.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610042610id_/http%3A//teradek.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teradek.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119113711id_/http%3A//teradek.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Teradek, LLC - Wireless HD Video
+# Privacy Policy – Teradek, LLC - Wireless HD Video
 
 Teradek LLC knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting Teradek.com, or when purchasing, downloading, or using any Teradek software or app from an external source such as the Apple App Store or any Android app store you are accepting the practices described in this Privacy Notice.**
 
