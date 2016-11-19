@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mb.com.ph privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609194547id_/http%3A//www.mb.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mb.com.ph privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119023342id_/http%3A//www.mb.com.ph/privacy-policy) for the most accurate reproduction.*
 
-# mb.com.ph | Philippine News | Privacy Policy
+# Privacy Policy » Manila Bulletin
+
+### Privacy Policy
 
 _**Your privacy is important to us.**_
 
@@ -10,11 +12,15 @@ Visitors agree to use mb.com.ph for lawful purposes only, and in a way that does
 
 This policy does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, via telephone, or through the mail).
 
-Visitors are not allowed to republicise or use any information and photographs including, but not limited to, text, graphics, video and audio content for commercial purpose except for your own personal use.
+Visitors are not allowed to republicise or use any information and photographs including, but not limited to, text, graphics, video, and audio content for commercial purpose except for your own personal use.
+
+* * *
 
 **Legal Disclaimer**
 
 The Company reserves the right to disclose personal data: (i) as required by law, (ii) when the Company believes that disclosure is necessary to protect its rights and interests, or (iii) when the Company is directed to comply with a court order, legal process or judicial proceeding.
+
+* * *
 
 **Use of Cookies**
 
@@ -24,6 +30,8 @@ While such cookies are capable of collecting information about which articles on
 
 We do not use cookies to capture your email address or other personal data about you. You can choose not to accept cookies.
 
+* * *
+
 **Log Files**
 
 The Company gathers certain information automatically and stores it in log files. These information include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
@@ -32,6 +40,8 @@ The Company uses these information to analyze trends, to administer the site, to
 
 The Company uses a third-party tracking service that uses cookies to track non-personally identifiable information about visitors to the Web Site in the aggregate, such as page view, number of unique visitors, most visited pages, etc.
 
+* * *
+
 **Links to Other Sites**
 
 This Web Site contains links to other sites that are not owned or controlled by the Company. Please be aware that the Company is not responsible for the privacy practices of such other sites.
@@ -39,6 +49,8 @@ This Web Site contains links to other sites that are not owned or controlled by 
 The Company encourages visitors to be aware when leaving the Web Site and to read the privacy statements of each and every web site that collects personally identifiable information.
 
 This privacy statement applies only to information collected by this Web Site.
+
+* * *
 
 **Security**
 
