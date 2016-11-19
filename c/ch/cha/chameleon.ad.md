@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chameleon.ad privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321215534id_/https%3A//chameleon.ad/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chameleon.ad privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119131822id_/https%3A//chameleon.ad/privacy-policy) for the most accurate reproduction.*
 
 # Chameleon.ad > Privacy Policy
 
@@ -31,4 +31,4 @@ You can obtain, modify or delete information stored about you any time. We have 
 For information, suggestions or complaints you can contact us: 
 
 **Email to** [support@chameleon.ad](mailto:support@chameleon.ad)   
-**or** Guinness Enterprise Centre, Taylor's Ln - Dublin 8 - Ireland 
+**or** Chameleon Advertising Technologies LTD - 12, Merrion Square - Dublin 2 - Ireland 
