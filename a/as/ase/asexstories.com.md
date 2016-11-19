@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the asexstories.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608224902id_/http%3A//www.asexstories.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asexstories.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119084558id_/http%3A//www.asexstories.com/privacy.html) for the most accurate reproduction.*
 
-# aSexStories - Privacy Policy
-
-**[Home](https://web.archive.org/sex-stories.html) : **Privacy Policy
+# Privacy Policy - A Sex Stories
 
 Privacy Policy for http://www.asexstories.com/ 
 
@@ -21,3 +19,15 @@ DoubleClick DART cookies We also may use DART cookies for ad serving through Goo
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
+
+[](http://www.facialsfever.com/t2/pps=cht122/)
+
+Random Energy Supply, Part 1 
+
+Energy comes in a variety of forms...
+
+[Read...](http://www.asexstories.com/Energy-Supply-Part-1/)
+
+[](http://join.realtimebondage.com/track/cht122.1.5.5.0.0.0.0.0)
+
+[](http://join.karupsow.com/hit.php?s=3&p=1&w=1001788&t=0&c=)
