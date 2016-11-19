@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandalley.co.uk privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614113332id_/http%3A//www.brandalley.co.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandalley.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119010814id_/http%3A//www.brandalley.co.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & cookies | BrandAlley
 
@@ -28,7 +28,7 @@ Your privacy and security is of utmost importance to us. We will always follow t
 We may collect the following information:
 
   * name
-  * contact information, including email address
+  * contact information, including email address, mobile phone number and password
   * demographic information, such as postcode, preferences and interests
   * other information relevant to customer surveys and/or offers
 
@@ -70,7 +70,7 @@ We require this information to understand your needs and provide you with a bett
 
   * internal record keeping
   * we may use the information to improve our products and services
-  * we may periodically send promotional emails about new products, special offers or other information, which we think you may find interesting using the email address which you have provided
+  * we may periodically send promotional emails and SMS messages about new products, special offers and competitions or other information, which we think you may find interesting using the email address which you have provided
   * from time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
 
