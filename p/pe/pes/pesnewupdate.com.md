@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pesnewupdate.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510040014id_/http%3A//pesnewupdate.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pesnewupdate.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119042433id_/http%3A//pesnewupdate.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy ~ PESNewupdate.com | Free Download Latest Pro Evolution Soccer Patch
+# Privacy Policy ~ PESNewupdate.com | Free Download Latest Pro Evolution Soccer Patch & Updates
 
 Privacy Policy for http://pesnewupdate.com
 
