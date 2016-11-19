@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the infodriveindia.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402134150id_/http%3A//www.infodriveindia.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infodriveindia.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119231603id_/http%3A//www.infodriveindia.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # InfodriveIndia.Com - Privacy Policy
-
-## Online India Export Import Data  
-
-
-Recent SearchesNo Recent Searches  
-
-
-  
-
 
 Online Privacy is a constantly evolving landscape and InfodriveIndia plans to take all reasonable efforts to maintain up to date and effective online privacy standards and practices. We have linked every page of our web site to this page for your convenience and you may also contact us at [webmaster@InfodriveIndia.com](mailto:webmaster@infodriveindia.com) with any questions or concerns that you may have.
 
