@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dropshipdirect.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618180333id_/http%3A//dropshipdirect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropshipdirect.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119055621id_/http%3A//dropshipdirect.com/privacy) for the most accurate reproduction.*
 
 # Your Privacy - Dropship Direct : Wholesale Distribution & Dropship Inventory Data
 
