@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the smartbargains.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610022604id_/http%3A//www.smartbargains.com/cust/privacypolicy.asp%3Fd%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartbargains.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120005844id_/http%3A//www.smartbargains.com/cust/privacypolicy.asp%3Fd%3D0) for the most accurate reproduction.*
 
 # SmartBargains Privacy Policy - Online Discounted Shopping
 
 **Last Updated: July 16, 2008**
 
   
-SmartBargains.com Privacy Policy
+
 
 This privacy statement discloses the privacy practices for SmartBargains.com. We are committed to protecting your privacy and encourage you to periodically review this page to be informed of how we protect the information you disclose to us. 
 
-If you believe that SmartBargains.com is not abiding by our posted privacy policy, please contact us at 1.877.222.6660 or email us at customerservice@SmartBargains.com 
+If you believe that SmartBargains.com is not abiding by our posted privacy policy, please contact us at 1.877.222.6660 or email us at customerservice@ SmartBargains.com 
 
 **Information Collection and Use**  
 SmartBargains.com collects information from our users at several different points on our website.
 
 **My Account**  
-When you make a purchase on our site, you will have the option to create an account. By creating an account, the system will remember your personal and purchase information and the checkout process on future purchases will be fast, easy and [secure](https://web.archive.org/web/20150610022604id_/http%3A//www.smartbargains.com/cust/secure.asp?d=0). At your option, your account can also store important dates such as birthdays or anniversaries and allow you to subscribe to receive promotional emails and announcements from us (see “Electronic Mailings” below).
+When you make a purchase on our site, you will have the option to create an account. By creating an account, the system will remember your personal and purchase information and the checkout process on future purchases will be fast, easy and secure At your option, your account can also store important dates such as birthdays or anniversaries and allow you to subscribe to receive promotional emails and announcements from us (see "Electronic Mailings" below).
 
-Creating an account is also fast and easy: simply enter your personal information once and select your very own username and password. Then during checkout on your next purchase, just login and the system will take care of the rest. At all times, your personal information is accessible to you to review, edit, or update as necessary by clicking on the “My Account” link. 
+Creating an account is also fast and easy: simply enter your personal information once and select your very own username and password. Then during checkout on your next purchase, just login and the system will take care of the rest. At all times, your personal information is accessible to you to review, edit, or update as necessary by clicking on the "My Account" link. 
 
 **Order**  
 We request information from the user on our order form when making a purchase. Here is where a user must provide their contact information, like name and shipping address, and financial information, like credit card number and expiration date. This information is used for billing purposes and to fill the customer's order. If we have difficulty processing an order, this contact information is used to communicate with the customer. 
@@ -42,7 +42,7 @@ Finally, notwithstanding any other provision of this privacy policy to the contr
 This website contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy policy applies solely to information collected by SmartBargains.com.
 
 **Catalog, Newsletters, Etc.**  
-If a user wishes to subscribe to our catalog, newsletter, etc., we ask for contact information such as name, street address and email address to provide these communications. Because we respect our users' privacy, we provide a way to opt-out of these communications. Please see the choice and opt-out section below.
+If a user wishes to subscribe to our catalog, newsletter, etc., we ask for contact information such as name, street address and email address to provide these communications. Because we respect our users' privacy, we provide a way to opt-out of these communications. Please see the choice and opt-out section below. 
 
 On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send you an email. Generally, users may not opt-out of these communications, though you can deactivate your account. However, these communications are not promotional in nature. 
 
@@ -50,7 +50,7 @@ On rare occasions it is necessary to send out a strictly service related announc
 From time to time, our site requests information from users via surveys or sweepstakes. Participation in these surveys or sweepstakes is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name, shipping address and email address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
 
 **Tell-A-Friend**  
-If a user elects to use our referral service for informing a friend about an item, we ask them for the friend's name and email address. SmartBargains.com will automatically send the friend a one-time email inviting them to visit the site. We do store the friend's email and they have an option to opt-out in the communication.
+If a user elects to use our referral service for informing a friend about an item, we ask them for the friend's name and email address. SmartBargains.com will automatically send the friend a one-time email inviting them to visit the site. We do store the friend's email and they have an option to opt-out in the communication. 
 
 **Special request page**  
 Our customers can use the special request page to inquire about products that they cannot find on the website, such as, for example, special orders. Personal information is gathered during this process.
@@ -58,7 +58,7 @@ Our customers can use the special request page to inquire about products that th
 **Security**  
 SmartBargains.com takes precautions to protect our users' information. When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the Secure Socket Layers (SSLs)encryption software. While on a secure page, such as our order form, a lock icon appears on the bottom of your Web browser. When you are not on a secure page, no lock icon will appear. To learn more about SSL, click here. In addition, the servers that we store personally identifiable information on are kept in a secure environment under restricted access.
 
-If you have any questions about the security at our website, send us an [Online Inquiry](https://web.archive.org/web/20150610022604id_/http%3A//www.smartbargains.com//cust/contactus.asp?d=0) for more info.
+If you have any questions about the security at our website, send us an [Online Inquiry](https://web.archive.org/web/20161120005844id_/http%3A//www.smartbargains.com/cust/information.asp?d=0) for more info.
 
 **Supplementation of Information**  
 In order for SmartBargains.com to properly fulfill its obligation to our customers, it is necessary for us to supplement the information we receive with information from third party sources. When a user makes a purchase from any of these companies, the companies collect and share that purchase information with us so we can tailor the site to our users' preferences.
@@ -68,7 +68,7 @@ Established members will occasionally receive information on products, services,
 
 **Correcting/Updating/Deleting/Deactivating**  
 If a user's personally identifiable information changes (such as your zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate that user's personally identifiable information provided to us. This can be done by using the unsubscribe feature in our communication or by sending us an   
-[Online Inquiry](https://web.archive.org/web/20150610022604id_/http%3A//www.smartbargains.com/cust/contactus.asp?d=0).
+[Online Inquiry](https://web.archive.org/web/20161120005844id_/http%3A//www.smartbargains.com/cust/information.asp?d=0).
 
 **Choice/Opt-Out**  
 Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists.
@@ -76,4 +76,4 @@ Our users are given the opportunity to 'opt-out' of having their information use
 Users who no longer wish to receive promotional materials may opt-out of receiving these communications by using the unsubscribe feature in any email.
 
 **Changes to This Policy**  
-We reserve the right to change this privacy policy, and any of our policies or procedures concerning the treatment of information collected through the site, without prior notice. You can determine when this privacy policy was last revised by referring to the "Last Updated" legend at the top of this page. Any changes to our privacy policy will become effective upon posting of the revised policy on the Internet, accessible through the site. Use of the site following such changes constitutes your acceptance of the revised policy then in effect. We encourage you to bookmark this page and to periodically review it to ensure familiarity with the most current version of our privacy policy.
+We reserve the right to change this privacy policy, and any of our policies or procedures concerning the treatment of information collected through the site, without prior notice. You can determine when this privacy policy was last revised by referring to the "Last Updated" legend at the top of this page. Any changes to our privacy policy will become effective upon posting of the revised policy on the Internet, accessible through the site. Use of the site following such changes constitutes your acceptance of the revised policy then in effect. We encourage you to bookmark this page and to periodically review it to ensure familiarity with the most current version of our privacy policy. 
