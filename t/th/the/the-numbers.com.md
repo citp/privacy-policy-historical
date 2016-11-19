@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-numbers.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525072056id_/http%3A//www.the-numbers.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-numbers.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119093749id_/http%3A//www.the-numbers.com/legal/privacy.html) for the most accurate reproduction.*
 
 # 
 
