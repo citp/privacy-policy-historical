@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carlcheo.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630220204id_/http%3A//carlcheo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carlcheo.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119232626id_/http%3A//carlcheo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
