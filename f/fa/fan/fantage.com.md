@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantage.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531011004id_/http%3A//www.fantage.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantage.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119031804id_/http%3A//www.fantage.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Welcome to a Fantastic Age!
 
@@ -60,7 +60,7 @@ Parents are able to choose the type of chat that their child participates in by 
     2. **Choice.** We will give you the opportunity to choose how your personal information will be used and we'll respect your choices.
     3. **Onward Transfer (Transfers to Third Parties).** If we transfer your personal information to another company, we will take appropriate measures to protect your privacy and the personal information we transfer.
     4. **Access and Retention.** We will provide ways for you to access your personal information, as required by law, and respond to your access request within 30 days. We will retain your personal information only for as long as needed to provide you our services or as otherwise permitted by law. We will fulfill any legitimate requests from you to delete your personal information. See Section V below for parental access rights.
-    5. **Security.** We will take appropriate precautions to protect your personal information from loss, misuse, unauthorized access or disclosure, alteration, and destruction. See Section IV below for more information. 
+    5. **Security.** We will take appropriate precautions to protect your personal information from loss, misuse, unauthorized access or disclosure, alteration, and destruction. See Section III below for more information. 
     6. **Data integrity.** We will only collect as much personal information as necessary for prior identified purposes, and we will not use it for other purposes without first obtaining your consent. We will take appropriate steps to make sure any personal information in our records is accurate, complete, and current.
     7. **Enforcement.** We will regularly review how we are meeting these privacy promises, and will provide an independent way to resolve complaints about our privacy practices.
 
