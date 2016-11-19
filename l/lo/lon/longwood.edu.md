@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the longwood.edu privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602212926id_/http%3A//www.longwood.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longwood.edu privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119105237id_/http%3A//www.longwood.edu/privacy) for the most accurate reproduction.*
 
 # Internet Privacy Statement - Longwood University
 
 ## Commitment to Privacy
 
-Thank you for visiting one of Longwood University's web sites. We are committed to providing the latest online services to both our visitors and members of the Longwood community. We are also committed to privacy issues, and we would like to take this opportunity to tell you about what information we collect, how we use this information, and your rights concerning this information. By using our web sites, you consent to the collection and use of information by the Longwood University web sites as specified below. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of our policies concerning information collection.
+Thank you for visiting the Longwood University website. We are committed to providing the latest online services to both our visitors and members of the Longwood community. We are also committed to privacy issues, and we would like to take this opportunity to tell you about what information we collect, how we use this information, and your rights concerning this information. By using our web sites, you consent to the collection and use of information by the Longwood University web sites as specified below. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of our policies concerning information collection.
 
 ## Automatically Collected Information
 
