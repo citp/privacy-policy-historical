@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bhldn.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630215329id_/http%3A//www.bhldn.com/privacy-policy/%3Fcm_sp%3DFOOTER-_-HELP-_-PRIVACY_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhldn.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119062831id_/http%3A//www.bhldn.com/privacy-policy/%3Fcm_sp%3DFOOTER-_-HELP-_-PRIVACY_POLICY) for the most accurate reproduction.*
 
-# Privacy Policy at B H L D N
+# Privacy Policy | BHLDN
 
 ## **PRIVACY AND SECURITY POLICY**
 
