@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the swimsuitsforall.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423000928id_/http%3A//www.swimsuitsforall.com/help/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swimsuitsforall.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119102359id_/http%3A//www.swimsuitsforall.com/help/privacyPolicy.php) for the most accurate reproduction.*
 
 # swimsuitsforall - Privacy Policy
 
-Privacy Policy Last updated on: April 19, 2016
+Privacy Policy Last updated on: November 17, 2016
 
 [swimsuitsforall.com](https://web.archive.org/) is part of the FULLBEAUTY Brands family of companies, which includes several different brands ("Brands", "we" or "us"). Your privacy is important to us and we are committed to protecting your privacy. In order to help our customers better understand our policies regarding the collection and use of your personal information, your options regarding the collection, use and disclosure of your personal information, and steps we have taken to secure your personal information. We have created this standardized Privacy Policy as well as [Terms of Use](http://www.swimsuitsforall.com/help/termsOfUse.php "swimsuitsforall Terms of Use") that apply to all our Brands and the websites maintained by the Brands (collectively the "Site"). By visiting the Site directly or through another site, you accept the practices described in this Privacy Policy. 
 
@@ -16,6 +16,7 @@ Our Privacy Policy addresses the following:
   * How Do We Use the Information Collected?
   * What Information Is Shared And With Whom Is It Shared?
   * Do We Use Third-Party Advertising?
+  * California Privacy Rights
   * How Can I Access and Correct Information Collected?
   * How Can I Opt Out of Receiving Further Communications?
     * How to be Removed from a Paper Catalog Mailing List
@@ -38,7 +39,7 @@ Our Privacy Policy addresses the following:
 
 #### Safe Harbor Certification
 
-The Safe Harbor program is an international data privacy program co-sponsored by the U.S. Department of Commerce and the European Commission. We voluntarily certified adherence to the U.S.-E.U. and the U.S.-Swiss Safe Harbor frameworks for the customer data that we collect. Through these certifications, we commit to uphold the Safe Harbor principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement. You can learn more about those principles and our obligations under the Safe Harbor Certification Program by going to the U.S. Department of Commerce's Safe Harbor website at: [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/). You can also view our Safe Harbor certification information through that site. If you have questions about our Safe Harbor privacy practices or believe that your information has been mismanaged, you can contact us by sending an e-mail to [PrivacyOfficer@FBBrands.com](mailto:PrivacyOfficer@FBBrands.com)
+The Safe Harbor program is an international data privacy program co-sponsored by the U.S. Department of Commerce and the Swiss government. We voluntarily certified adherence to the U.S.-Swiss Safe Harbor framework for the customer data that we collect. Through this certification, we commit to uphold the Safe Harbor principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement. You can learn more about those principles and our obligations under the Safe Harbor Certification Program by going to the U.S. Department of Commerce's Safe Harbor website at: [2016.export.gov/safeharbor/swiss/](http://2016.export.gov/safeharbor/swiss/). You can also view our Safe Harbor certification information through that site. If you have questions about our Safe Harbor privacy practices or believe that your information has been mismanaged, you can contact us by sending an e-mail to [PrivacyOfficer@FBBrands.com](mailto:PrivacyOfficer@FBBrands.com)
 
 In October 2015, the European Court of Justice invalidated the U.S.-E.U. Safe Harbor.  In February 2016, the U.S. and the European Commission agreed upon a new Privacy Shield framework, which framework must still be formally approved in the EU.  We continue to commit to uphold the Safe Harbor principles, and are monitoring the development of the new Privacy Shield with the goal of continuing to participate in the framework once the Privacy Shield has been finalized. 
 
@@ -73,12 +74,11 @@ FULLBEAUTY Brands is a dynamic, web-driven home-shopping leader with numerous su
 
 #### What Other Information Is Shared And With Whom Is It Shared?
 
-  * **FULLBEAUTY Brands:**  Individual Brands share collected information (for example, postal addresses and telephone numbers) within our family of Brands. Your email address is not shared with other Brands.
+  * **FULLBEAUTY Brands:**  Individual Brands share collected information (including, for example, names, postal addresses, email addresses and telephone numbers) within our family of Brands.
   * **Third-Party Offers:**  We provide information (for example, postal addresses and telephone numbers) to certain outside companies and marketing partners so they can let you know about products or services that might be of interest to you. Your email address is not shared with third parties for this purpose.
   * **Third-Party Advertising:**  see below.
-  * **Legal Disclosures:**  If we are required to disclose customer information pursuant to lawful requests, such as subpoenas or court orders, in response to law enforcement inquiry or in compliance with applicable laws, we will make such disclosure. We also reserve the right to share information with legal authorities and other companies for purposes of fraud protection. In the event the ownership of all or a part of a business within the FULLBEAUTY Brands Family were to change, customer information pertinent to that business‘s operations would likely be transferred to, or licensed for use by, the new owner.
-  * **Branded Private Label Credit Card Accounts:**  We may share your information with the bank that issues branded private label credit card accounts. Shared information includes the date of the order, the type of payment, the amount of the order, and similar items, and may also include your name, address or other contact information. Non-US customers are not eligible for branded private label credit card accounts.
-  * **International Orders:**  Personal Information about international orders is provided to our shipping partner i-parcel, and i-parcel’s authorized international credit card processing partner. This information is used to process your order and collect payment.
+  * **Legal Disclosures:**  If we are required to disclose customer information pursuant to lawful requests, such as subpoenas or court orders, in response to law enforcement inquiry or in compliance with applicable laws, we will make such disclosure. We also reserve the right to share information with legal authorities and other companies for purposes of fraud protection. In the event the ownership of all or a part of a business within the FULLBEAUTY Brands Family were to change, customer information pertinent to that business's operations would likely be transferred to, or licensed for use by, the new owner.
+  * **International Orders:**  Personal Information about international orders is provided to our shipping partner IMEX.
 
 
 
@@ -102,6 +102,10 @@ As an additional step, if you would prefer not to participate in the services of
   * [Consumer opt-out: All Network Advertising Initiative Participating Networks](http://www.networkadvertising.org/)
 
 
+
+#### California Privacy Rights
+
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us, one time per year, for a notice describing what categories of personal information we share with third parties or corporate affiliates (including other brands within the FULLBEAUTY family of brands) for those third parties’ or corporate affiliates' direct marketing purposes. That notice will identify the categories of personal information shared with third parties and used for direct marketing purposes and the name and address of the third parties that received such personal information. If you are a California resident and want a copy of this notice, please submit a written request to the following address: FullBeauty Brands Customer Service, P.O. Box 12901, El Paso, TX 79913. In your request, please specify that you want "Your FullBeauty Brands California Privacy Rights Notice." Please allow 30 days for a response.
 
 #### How to Access and Correct Information Collected?
 
@@ -174,9 +178,8 @@ El Paso, TX 79912  |  (800) 677-0216
 | (800) 456-9838  
 swimsuitsforall |  Please visit My Account on  
 [www.swimsuitsforall.com](http://www.swimsuitsforall.com/) |  swimsuitsforall  
-10300 Sanden Drive  
-Suite 100  
-Dallas, TX 75238  | (888) 241-SWIM | NA  
+500 S Mesa Hills Dr  
+El Paso, TX 79912  | (888) 241-SWIM | NA  
   
 #### How Can I Opt Out of Receiving Further Communications?
 
