@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the loadtv.biz privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620222806id_/http%3A//loadtv.biz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loadtv.biz privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119093655id_/http%3A//loadtv.biz/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | LoadTV
+# Privacy Policy | Download TV Shows and Movies
+
+Please use link **[Keep2Share](http://keep2share.cc/pr/11569)** and **[Publish2.me](http://publish2.me/pr/11569)** and [**Tezfiles.com**](http://tezfiles.com/pr/34128) to **REGISTER** or **RENEW** your account to support us. We need your support to keep this website alive!
+
+**Both Movies & TV Shows**[ **TV Shows Only**](https://web.archive.org/ltv/tvshow/)[ **Movies Only**](https://web.archive.org/ltv/films/)
 
 Our website is extremely crucial on the privacy of the information about our users. LoadTV.biz provides information about the TV Shows, actors and actresses. On this site there are no materials that are protected by copyright.
 
