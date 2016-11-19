@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thepoliticalinsider.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604040353id_/http%3A//www.thepoliticalinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepoliticalinsider.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119012924id_/http%3A//www.thepoliticalinsider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - The Political Insider
 
 The Political Insider LLC Privacy Policy
 
-Revised: May 7, 2015
+Revised: June 14, 2016
 
 The Political Insider, LLC. is an online website that offers advertisers opportunities to display their interactive ads on our website, http://www.thepoliticalinsider.com (our “Website” or “Site”). Our services streamline the selection and delivery of interactive ads for advertisers and website publishers.
 
@@ -12,7 +12,7 @@ Your privacy is important to us, and we are committed to protecting the personal
 
 By using the Site, you consent to this Privacy Policy. This Privacy Policy does not apply to the practices of third parties that The Political Insider does not own, control, manage, or employ.
 
-The Political Insider uses ADTECH as its ad server. ADTECH’s privacy policy can be found here.  
+The Political Insider uses OpenX as its ad server. OpenX’s privacy policy can be found [here](http://openx.com/legal/privacypolicy/).  
 We are committed to following the National Advertising Initiative’s (NAI) privacy principles.
 
 Information We Collect through the Site
