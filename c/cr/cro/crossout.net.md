@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the crossout.net privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611232822id_/http%3A//www.crossout.net/en/support/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crossout.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119135609id_/http%3A//crossout.net/en/support/privacypolicy) for the most accurate reproduction.*
 
 # Crossout - Free to Play MMO action gamePrivacy Policy
 
-Crossout
-
-PLEASE READ THIS DOCUMENT CAREFULLY.  IT CONTAINS IMPORTANT INFORMATION THAT YOU SHOULD KNOW BEFORE CONTINUING TO USE THIS WEBSITE AND RELATED SERVICES.  ALSO NOTE THAT BY CONTINUING TO USE GAIJIN’S WEBSITE AND/OR RELATED SERVICES (As such term defined in the Terms of Services [http://crossout.net/en/support/termsofuse](http://crossout.net/en/support/termsofuse/)) YOU WILL BE DEEMED TO HAVE ACCEPTED THIS PRIVACY POLICY.  Your use of the Gaijin’s websites, Services provided therein and related products, is subject to this privacy statement (“ _Privacy Policy_ ”) and Gaijin’s Terms of Services located at: <http://crossout.net/en/support/termsofuse>.
+**PLEASE READ THIS DOCUMENT CAREFULLY.   IT CONTAINS IMPORTANT INFORMATION THAT YOU SHOULD KNOW BEFORE CONTINUING TO USE THIS WEBSITE AND RELATED SERVICES.  ALSO NOTE THAT BY CONTINUING TO USE GAIJIN’S WEBSITE AND/OR RELATED SERVICES (As such term defined in the Terms of Services [http://crossout.net/en/support/termsofuse](http://crossout.net/en/support/termsofuse/)) YOU WILL BE DEEMED TO HAVE ACCEPTED THIS PRIVACY POLICY.  Your use of the Gaijin’s websites, Services provided therein and related products, is subject to this privacy statement ("Privacy Policy") and Gaijin’s Terms of Services located at: <http://crossout.net/en/support/termsofuse>.**
 
 Gaijin has a strong commitment to providing superior service to all of our Website customers and visitors, and particularly Gaijin respects your concerns about your privacy.  When you use our Website and our products and Services, we may gather certain personal and other information from you.  We have created this Privacy Policy to inform you of the type of information we gather, what we do with that information, and the circumstances under which we may disclose your information.  We ask that you please read this Privacy Policy carefully prior to using our Website or our products and Services.
 
@@ -30,7 +28,7 @@ We want you to always be aware of what personal and other information we collect
 
 From time to time, we may find the need to make changes to this Privacy Policy.  This Privacy Policy may be amended by Gaijin upon notice given by one or more of the following means: through the Website at or after you login to your account, by the email communication to the address provided by you when you setup your account, or by written mail communication to the address on record for your account.  Failure to provide or maintain accurate or current contact information by you will not avail you from responsibility to comply with the Privacy Policy as amended.  Please check the Privacy Policy published on this Website regularly to ensure that you are aware of all terms governing your use of this Website.
 
-**A. COLLECTEDINFORMATION**
+_**A. COLLECTEDINFORMATION**_
 
 **Browsing**
 
@@ -64,7 +62,7 @@ We may establish relationships with certain third party service providers.  Typ
 
 You may be given an opportunity to create a personal account, which may be required for receiving Services offered or to be offered on the Website.  Once the personal account is created, you will be able to access, review and update your personal account information via the Website.
 
-If you wish to deactivate your personal account, you can contact us at [legals@gaijinent.com](mailto:legals@gaijinent.com).  When you deactivate your personal account, all information stored and maintained as part of your account may be retained for archival, backup and record purposes.  You may change your personal information and privacy preferences at any time by logging into your personal account. You may also access and change your personal information and privacy preferences by contacting us at [legals@gaijinent.com](mailto:legals@gaijinent.com).
+If you wish to deactivate your personal account, you can contact us at [legals@gaijinent.com](mailto:legals@gaijinent.com).  When you deactivate your personal account, all information stored and maintained as part of your account may be retained for archival, backup and record purposes.  You may change your nickname once free of charge by logging into your personal account. You may not change your registered e-mail without Gaijin prior written request which can be withheld without reason (the absence of a response does not constitute consent).
 
 **Information Relating to Children**
 
@@ -78,7 +76,7 @@ We treat the information you provide to us as confidential information. You pers
 
 If you use a password protect your accounts and personal information, it is your responsibility to keep your password confidential. Do not share this information with anyone. If you are sharing a computer, you should always log out before leaving any site or Service to protect access to your information from subsequent users.
 
-**B. USE ANDDISCLOSURE OF INFORMATION**
+_**B. USE ANDDISCLOSURE OF INFORMATION**_
 
 **How Your Personal Information Is Used**
 
@@ -124,7 +122,7 @@ You may set your browser to block cookies (consult the instructions for your par
 
 Web beacons are used in combination with cookies to help website operators understand how visitors interact with their websites. A web beacon is typically a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a site. In contrast to cookies, which are stored on a user’s computer hard drive, web beacons are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. These web beacons are not tied to personally identifiable information. The use of a web beacons allows the site to measure the actions of the visitor opening the page that contains the web beacon. It makes it easier to follow and record the activities of a recognized browser, such as the path of pages visited at a website.  We use the information provided by web beacons to develop a better understanding of how the Website’s visitors use the Website, and to facilitate those visitors' interactions with the Website. We may make the aggregate data obtained from web analytics (including from our third party analytics providers, if applicable) publicly available. If this data is made available, none of the information will be personally identifying information or potentially-personally identifying information.
 
-**C.   PRIVACY-RELATED INQUIRIES ANDCOMPLAINTS**
+_**C.   PRIVACY-RELATED INQUIRIES ANDCOMPLAINTS**_
 
 We take our users’ privacy concerns with utmost respect and attention.  If you believe that there was an instance of non-compliance with this Privacy Policy with regard to your personal information or you have other related inquiries or concerns, you may write or contact us at [legals@gaijinent.com](mailto:legals@gaijinent.com).
 
@@ -132,4 +130,4 @@ In your message, please describe in as much detail as possible the nature of you
 
 Please also note that in the event of merger or acquisition of Gaijin, your personal and other information may be transferred to the acquiring party. In such event, your information would be collected, retained and/ used in accordance with this Privacy Policy or any of its revisions, updates or substitutes provided to you by Gaijin or its successors in interest.
 
-Copyright © 2015 Gaijin Entertainment LLP.  All rights reserved.  This Website and accompanying products and documentation are the copyrighted property of Gaijin Entertainment LLP and/or its licensors and protected by copyright laws and international intellectual property treaties.  Gaijin and related logo, and all related product and service names, design marks and slogans are the trademarks and/or registered trademarks of Entertainment LLP or its affiliates.  All other product and service marks contained herein are the trademarks of their respective owners.  Any use of the Gaijin or third party trademarks or logos without the prior written consent of Gaijin or the applicable trademark owner is strictly prohibited.
+_Copyright © 2015 Gaijin Entertainment LLP.   All rights reserved.  This Website and accompanying products and documentation are the copyrighted property of Gaijin Entertainment LLP and/or its licensors and protected by copyright laws and international intellectual property treaties.  Gaijin and related logo, and all related product and service names, design marks and slogans are the trademarks and/or registered trademarks of Entertainment LLP or its affiliates.  All other product and service marks contained herein are the trademarks of their respective owners.  Any use of the Gaijin or third party trademarks or logos without the prior written consent of Gaijin or the applicable trademark owner is strictly prohibited._
