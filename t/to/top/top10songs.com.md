@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top10songs.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324110207id_/http%3A//top10songs.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10songs.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119171312id_/http%3A//top10songs.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Top 10 Songs
 
@@ -18,7 +18,7 @@ Top 10 Songs contains links to other websites. Top 10 Songs is not responsible f
 
 **Advertising & Cookies**
 
-Top 10 Songs uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). While we do not use cookies on our sites, ads from advertisers may contain cookies. Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it and its partners to serve ads to our users based on your visit to our sites and/or other sites on the Internet. Users may opt out of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). Users will be able to use all features of Top 10 Songs whether or not they have disabled cookies on their system. 
+Top 10 Songs uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). While we do not use cookies on our sites, ads from advertisers may contain cookies. Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it and its partners to serve ads to our users based on your visit to our sites and/or other sites on the Internet. Users may opt out of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). Users will be able to use all features of Top 10 Songs whether or not they have disabled cookies on their system.
 
 **Consent**
 
