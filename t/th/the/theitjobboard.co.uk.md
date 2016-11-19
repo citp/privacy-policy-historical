@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theitjobboard.co.uk privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321214827id_/http%3A//info.yahoo.com/privacy/us/yahoo/yas/details.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theitjobboard.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119064218id_/http%3A//info.yahoo.com/privacy/us/yahoo/yas/details.html) for the most accurate reproduction.*
 
 # Yahoo Privacy Policy
 
