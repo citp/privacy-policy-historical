@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadforensics.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526230325id_/http%3A//www.leadforensics.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadforensics.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119043826id_/http%3A//www.leadforensics.com/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies - Lead Forensics
 
