@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mississauga.ca privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224114856id_/http%3A//mississauga.ca/portal/helpfeedback/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mississauga.ca privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119185831id_/http%3A//www.mississauga.ca/portal/helpfeedback/privacy) for the most accurate reproduction.*
 
 # Mississauga.ca - Contact & Help - Privacy & Terms
 
@@ -24,6 +24,41 @@ Access to and use of the Materials are subject to the acceptance of the followin
   4. In the event that the User wishes to make use of the Materials in any other way than is permitted herein, express written permission must be obtained. The right is reserved to deny such requested access, at the owner entity's sole discretion.
 
 
+
+* * *
+
+**SOCIAL MEDIA TERMS OF SERVICE**
+
+The City of Mississauga recognizes that social media platforms are important for communicating and engaging with residents. In order to provide a space that is open and friendly, users on our channels must agree to the following Terms of Service.
+
+Our Administrators reserve the right to block members and delete the following comments or messages:
+
+  * Messages that are hateful, offensive, discriminatory, violent, sexual, or comments that contain personal attacks, encourage or incite hatred or violence or reasonably compromise public safety
+  * Messages that are illegal or encourage illegal activities, including defamation, fraud, breaching privacy, copyright, or intellectual property rights
+  * Messages containing spam or posts for commercial advertising purposes or endorsements
+  * Repetitive posts or frequently duplicated unrelated messages
+  * Messages that falsely claim to represent a person or organization or posted by someone using more than account
+
+
+
+Please be aware of the following:
+
+  * The City's liking, following, retweeting, messaging, or sharing of content should not be interpreted as any kind of endorsement
+  * When you engage on City of Mississauga social media, you are always subject to the host website's Terms of Service
+  * The City is not responsible for any personal information or other information posted on public social media channels. All personal information on public social media channels is considered a record available to the general public in accordance with section 27 of _The Municipal Freedom of Information and Protection of Privacy Act_
+  * The City may collect some of your information only when necessary for the proper administration of a lawfully authorized activity (for example, filling in a pothole) in accordance with MFIPPA 28(2) and under the authority of section 11(1) and 227(c) of the Municipal Act
+  * All information used for engagement with our social media channels is subject to collection by organizations outside of Canada or storage and access on servers not belonging to the government
+  * Please protect other's privacy. Unless you have the consent to do so, do not post any personal information of other's including: 
+    * Identifying particulars, such as a picture of someone's face
+    * Name, email address, phone number, or address
+    * Criminal, health, employment, or financial history
+    * Identifying numbers
+
+
+
+This Terms of Service is subject to change without notice.
+
+Questions or concerns about the City of Mississauga's social media activity or the City's social media policy should be addressed to Rob Cummins, Manager, Corporate Marketing 905-615-3200 ext. 5043.
 
 * * *
 
@@ -53,7 +88,7 @@ The City of Mississauga endeavours to provide you with multiple service "channel
 
   * To companies contracted to process your requests
   * For law enforcement purposes
-  * For the purpose of acting in an emergency or in compassionate circumstances to facilitate contact with your next of kin or friend if you become injured or take ill.
+  * For the purpose of acting in an emergency or in compassionate circumstances to facilitate contact with your next of kin or friend if you become injured or take ill
 
 
 
