@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smtp2go.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608151038id_/http%3A//www.smtp2go.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smtp2go.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119042742id_/http%3A//www.smtp2go.com/privacy) for the most accurate reproduction.*
 
 # SMTP2GO - Privacy Policy
 
@@ -70,7 +70,7 @@ Sand Dune Mail Ltd collects information under the direction of its customers and
 
 ### Storage of email data
 
-Our operators and compliance personnel may need to review email communications sent by any member, whether or not they are addressed to us, if we become aware of possible breaches of the [terms of service](http://www.smtp2go.com/terms), including sending spam. This is only to be conducted in exceptional circumstances, if there is a strong suspicion that a user may have breached the terms of service. One email per one hundred sent is securely stored for such a purpose, for a period of 70 days, before deletion. We can disable such storage for trusted accounts, upon request. Email headers for all emails are kept for 70 days before deletion, and can be viewed in the User's control panel.
+Our operators and compliance personnel may need to review email communications sent by any member, whether or not they are addressed to us, if we become aware of possible breaches of the [terms of service](http://www.smtp2go.com/terms), including sending spam. This is only to be conducted in exceptional circumstances, if there is a strong suspicion that a user may have breached the terms of service. One email per one thousand sent is securely stored for such a purpose, for a period of 70 days, before deletion. We can disable such storage for trusted accounts, upon request. Email headers for all emails are kept for 70 days before deletion, and can be viewed in the User's control panel.
 
 ### Third party websites
 
