@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sgshop.com.sg privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224120905id_/http%3A//www.sgshop.com/%3Fhelp%3D42) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgshop.com.sg privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119093658id_/http%3A//www.sgshop.com/help%3Fhelp%3D42) for the most accurate reproduction.*
 
-# Privacy Policy - Help Center - SGshop
+# Help Center-SGshop
 
 Privacy Policy 
 
