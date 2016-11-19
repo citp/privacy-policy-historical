@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the musixhub.com privacy policy that was archived on 2016-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160611213658id_/http%3A//www.musixhub.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the musixhub.com privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119021539id_/http%3A//www.musixhub.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <title>Free albums music - Listen free at MusixHub</title>
@@ -85,7 +85,6 @@ MusixHub give you better YouTube music experience.
     var baseDataUrl = "http://data.musixhub.com/data.php";
     var apiKey = "596b6a87b325e101a9e8829bf8546d7d";
     var ytKey = "AIzaSyBbWHVgPc8uxLpdEtsbSREphEUIgC4bHC4";
-//    var ytKey = "AIzaSyBC2_trywHjM-GzEBQxAxWUVRpG8rVb72s";
     var _plObj = null;
     var albumsList = new Array();
     var artistsList = new Array();
@@ -279,7 +278,7 @@ MusixHub give you better YouTube music experience.
     }
     function saveAlbum(id, name, image, releaseDate, artist, trackCount) {
         var u = baseDataUrl + "?uid=" + getUsetId() + "&t=alu&id=" + id + "&name=" + encodeURIComponent(name) + "&image=" + encodeURIComponent(image) + "&releaseDate=" + releaseDate + "&artist=" + encodeURIComponent(artist) + "&trackCount=" + trackCount;
-//        console.log(u);
+        console.log(u);
 
 
         $.ajax({
@@ -311,7 +310,7 @@ MusixHub give you better YouTube music experience.
 
     function saveArtist(id, artist, image) {
         var u = baseDataUrl + "?uid=" + getUsetId() + "&t=aru&image=" + encodeURIComponent(image) + "&artist=" + encodeURIComponent(artist);
-//        console.log(u);
+        console.log(u);
 
         $.ajax({
             type: "GET",
@@ -358,7 +357,7 @@ MusixHub give you better YouTube music experience.
     }
     function removeAlbum(albumId, divClassId) {
         var u = baseDataUrl + "?uid=" + getUsetId() + "&t=alr&id=" + albumId;
-//        console.log(u);
+        console.log(u);
 
 
         $.ajax({
@@ -385,7 +384,7 @@ MusixHub give you better YouTube music experience.
     }
     function removeArtist(artistName, divClassId) {
         var u = baseDataUrl + "?uid=" + getUsetId() + "&t=arr&id=" + encodeURIComponent(artistName);
-//        console.log(u);
+        console.log(u);
         $.ajax({
             type: "GET",
             url: u,
@@ -620,7 +619,7 @@ MusixHub give you better YouTube music experience.
         var u = baseDataUrl + '?t=uid';
 
 
-//        console.log(u);
+        console.log(u);
         var xhr = new XMLHttpRequest();
         xhr.open("GET", u, true);
         xhr.onreadystatechange = function () {
