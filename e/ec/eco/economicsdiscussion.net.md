@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the economicsdiscussion.net privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417185114id_/http%3A//www.economicsdiscussion.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the economicsdiscussion.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119122451id_/http%3A//www.economicsdiscussion.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Economics Discussion
+# Privacy Policy | Economics Discussion
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at mailbox@economicsdiscussion.net. At www.economicsdiscussion.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.economicsdiscussion.net and how it is used.
 
