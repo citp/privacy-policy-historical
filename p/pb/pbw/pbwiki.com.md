@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pbwiki.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215033652id_/http%3A//www.pbworks.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbwiki.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119063324id_/http%3A//www.pbworks.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](https://web.archive.org/web/20161119063324id_/http%3A//www.pbworks.com/index.html)
 
 Non-binding English Summary
 
@@ -62,9 +64,9 @@ Questions
 
 If you have any questions about this privacy policy, please feel free to contact us by [email](mailto:privacy@pbworks.com) at privacy (at) pbworks (D0T) com.
 
-©2015 PBworks, Project Hub, Agency Hub, New Business Hub, Legal Hub, Business Hub, Wiki Hub and Edu Hub are trademarks of PBworks, Inc.  All other trademarks and registered trademarks are the property of their respective owners.
+©2016 PBworks, Inc. Project Hub, Agency Hub, New Business Hub, Legal Hub, Business Hub, Wiki Hub and Edu Hub are trademarks of PBworks, Inc.  All other trademarks and registered trademarks are the property of their respective owners.
 
-[](http://fb.com/pbworks) [](http://twitter.com/pbworks) [](http://blog.pbworks.com/) [](https://docs.pbworks.com/w/page/42027927/Overview) [](https://web.archive.org/web/20151215033652id_/http%3A//www.pbworks.com/products.html) [](http://edumanual.pbworks.com/w/page/58006589/Home) [](https://web.archive.org/web/20151215033652id_/http%3A//www.pbworks.com/case-studies.html) [](https://web.archive.org/web/20151215033652id_/http%3A//www.pbworks.com/terms-of-service.html) [](https://web.archive.org/web/20151215033652id_/http%3A//www.pbworks.com/articles.html) [](https://web.archive.org/web/20151215033652id_/http%3A//www.pbworks.com/privacy-policy.html) [](https://attendee.gotowebinar.com/rt/5861681573187652866) [](https://web.archive.org/web/20151215033652id_/http%3A//www.pbworks.com/security.html) [](https://web.archive.org/web/20151215033652id_/http%3A//www.pbworks.com/about-us.html) [](https://secure.pbworks.com/dmca/) [](https://web.archive.org/web/20151215033652id_/http%3A//www.pbworks.com/news.html) [](https://secure.pbworks.com/api_v2) [](https://web.archive.org/web/20151215033652id_/http%3A//www.pbworks.com/contact-us.html) [](https://web.archive.org/web/20151215033652id_/http%3A//www.pbworks.com/jobs.html)
+[](http://fb.com/pbworks) [](http://twitter.com/pbworks) [](http://blog.pbworks.com/) [](https://docs.pbworks.com/w/page/42027927/Overview) [](https://web.archive.org/web/20161119063324id_/http%3A//www.pbworks.com/products.html) [](http://edumanual.pbworks.com/w/page/58006589/Home) [](https://web.archive.org/web/20161119063324id_/http%3A//www.pbworks.com/case-studies.html) [](https://web.archive.org/web/20161119063324id_/http%3A//www.pbworks.com/terms-of-service.html) [](https://web.archive.org/web/20161119063324id_/http%3A//www.pbworks.com/articles.html) [](https://web.archive.org/web/20161119063324id_/http%3A//www.pbworks.com/privacy-policy.html) [](https://attendee.gotowebinar.com/rt/5861681573187652866) [](https://web.archive.org/web/20161119063324id_/http%3A//www.pbworks.com/security.html) [](https://web.archive.org/web/20161119063324id_/http%3A//www.pbworks.com/about-us.html) [](https://secure.pbworks.com/dmca/) [](https://web.archive.org/web/20161119063324id_/http%3A//www.pbworks.com/news.html) [](https://secure.pbworks.com/api_v2) [](https://web.archive.org/web/20161119063324id_/http%3A//www.pbworks.com/contact-us.html) [](https://web.archive.org/web/20161119063324id_/http%3A//www.pbworks.com/jobs.html)
 
 Need something else?
 
