@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indochino.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325090805id_/http%3A//www.indochino.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indochino.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120001347id_/http%3A//www.indochino.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last updated: April 29, 2015 
+Last updated: April 29, 2015
 
 Indochino Apparel Inc. ("Indochino") is committed to protecting the privacy rights of visitors to [www.indochino.com](http://www.indochino.com/) Indochino knows that you care how information about you is used and shared, and we appreciate your trust.
 
@@ -11,7 +11,7 @@ By accessing, browsing or otherwise using this Website, you confirm that you hav
   * __Who We Are
   * __What Information Do We Collect?
   * __How We Use Your Information
-  * __Do We Share The Information We Recieve?
+  * __Do We Share The Information We Receive?
   * __How Secure Is My Personal Information?
   * __What Options Do I Have?
   * __Children's Policy
