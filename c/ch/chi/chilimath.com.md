@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chilimath.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324193309id_/http%3A//www.chilimath.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chilimath.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119014812id_/https%3A//www.chilimath.com/privacypolicy.html) for the most accurate reproduction.*
 
 # ChiliMath - Privacy Policy
 
                                                     **Privacy Policy Statement**
 
-This Privacy Policy governs the manner in which ChiliMath collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.ChiliMath.com website ("Site"). This privacy policy applies to the Site and all products and services offered by ChiliMath.
+This Privacy Policy governs the manner in which ChiliMath collects, uses, maintains and discloses information collected from users (each, a "User") of the https://www.ChiliMath.com website ("Site"). This privacy policy applies to the Site and all products and services offered by ChiliMath.
 
 Personal identification information
 
@@ -49,7 +49,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 Google Adsense
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at https://www.google.com/privacy_ads.html
 
 Changes to this privacy policy
 
@@ -63,9 +63,9 @@ Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 ChiliMath  
-http://www.ChiliMath.com  
+https://www.ChiliMath.com  
 ChiliMath@yahoo.com
 
 This document was last updated on December 25, 2011
 
-Privacy policy created by http://www.generateprivacypolicy.com 
+Privacy policy created by https://www.generateprivacypolicy.com 
