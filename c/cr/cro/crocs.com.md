@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the crocs.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614133429id_/http%3A//www.crocs.com/privacy-security-policy/privacy-security-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crocs.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119140413id_/http%3A//www.crocs.com/privacy-security-policy/privacy-security-policy.html) for the most accurate reproduction.*
 
 # Crocs | Privacy & Security Policy
 
-* **Effective Date of this version: October 19, 2015**
+* Our Privacy Policy has recently changed.
+
+Effective Date of this version: August 12, 2016
 
   
 Thank you for visiting crocs.com, including the Crocs online store. This Website is operated by Crocs Retail, LLC., located at 7477 East Dry Creek Parkway, Niwot, CO 80503. Your access to and use of this Website is subject to the following Privacy Policy and all applicable laws.
@@ -103,7 +105,7 @@ Back to Table of Contents
 
 Cookies Delivered by Third Parties
 
-In addition to the cookies we deliver to your computer through our Website, certain third parties may deliver cookies to you for a variety of reasons. For example, we use Google Analytics, a web analytics tool that helps us understand how visitors engage with our Website. To learn more about Google Analytics, [click here](http://www.google.com/analytics/features/index.html). Other third parties may deliver cookies to your computer for the purpose of tracking your online behaviors across nonaffiliated websites and delivering targeted advertisements either on our Website or on other websites. 
+In addition to the cookies we deliver to your computer through our Website, certain third parties may deliver cookies to you for a variety of reasons. For example, we use Google Analytics, a web analytics tool that helps us understand how visitors engage with our Website. To learn more about Google Analytics, [click here](http://www.google.com/analytics/features/index.html). We also participate in the Adobe Marketing Cloud Device Co-op to better understand how you use our Website and apps across the various devices you use, and to deliver tailored marketing and promotions. [Click here](https://cross-device-privacy.adobe.com/?d_rd=1&d_mid=33115167709829026070121840118493670734&d_orgid=9E1005A551ED61CA0A490D45@AdobeOrg) to learn more about how Adobe does this. Other third parties may deliver cookies to your computer for the purpose of tracking your online behaviors across nonaffiliated websites and delivering targeted advertisements either on our Website or on other websites. 
 
 You have choices about the collection of information by third parties on our Website. For example, if you don’t want information about your visit to our Website sent to Google Analytics, you may download an Opt-out Browser Add-on by [clicking here](http://tools.google.com/dlpage/gaoptout?hl=en). Please note that the Add-on does not prevent information from being sent to Crocs.
 
