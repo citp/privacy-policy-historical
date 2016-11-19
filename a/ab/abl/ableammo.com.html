@@ -1,0 +1,1320 @@
+<!--The following is the downloaded HTML source of the ableammo.com privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119102258id_/http%3A//www.ableammo.com/catalog/shipping.php%23privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml" dir="LTR" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Able Ammo</title>
+<base href="http://www.ableammo.com/catalog/">
+<link rel="stylesheet" type="text/css" href="stylesheet.css">
+</head>
+<body marginwidth="0" marginheight="0" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
+<!-- header //-->
+<!-- Moved trustlogo to defer to footer.php -->
+
+<style>
+#searchSuggestionsPanel { 
+	border-radius: 2px; 
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	background-color: #FFFFFF; 
+	display: none; 
+	position: absolute; 
+	opacity: 1; 
+	z-index: 3002;
+	margin-left: 208px;
+	padding: 10px;
+	border: 1px solid #B1B1B1;
+
+	box-shadow: 0px 0px 10px #AAAAAA;
+	border-top: 0;
+	overflow-y:show;
+	max-height: 800px;
+	
+	width: 60%;
+}
+
+#cartContainer {
+	height: 33px;
+	width: 40px;
+	position: relative;
+}
+
+#cartImage {
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
+
+#carttextBox {
+  position: relative;
+  font-family: 'Anton', sans-serif;
+  height: 37px;
+  width: 20px;
+  z-index: 100;
+  color: black;
+  font-size: 13px;
+  
+  padding-right: 9px;
+  padding-top: 2px;
+  
+  color: #014f7f;
+  
+  			font-size: 15px;
+		left: -2px;
+		/*top: -15px;*/
+	}
+
+
+</style>
+
+<style type="text/css">
+.accord_content div {
+	margin-top: 7px;
+	cursor:default;
+	width: 95%;
+	padding-left: 5%;
+	overflow-x: hidden;
+	padding-bottom: 7px;
+}
+.accord_content div:hover {
+	background-color: #FFFFFF;
+}
+div.cat_lvl_1:hover {
+	background-color: #FFFFFF;
+}
+
+.cat_wing_header {
+	font-family: Oswald, sans-serif;
+	color:#0d5385;
+	/*
+	font-family: sans-serif;
+	font-weight: bold;
+	*/
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 8px;
+	border-bottom: 2px solid #0d5385;
+	
+	
+}
+.cat_wing_cell {
+	font-family: sans-serif;
+	font-size: .85em;
+	padding-top: 15px;
+	padding-left: 5px;
+	border-left: 1px solid #CCCCCC;
+	width: 25%;
+}
+
+.first_row {
+	border-left: 0;
+}
+.cat_wing_cell ul  {
+	padding-left: 22px;
+}
+td.cat_wing_cell div {
+	font-size: .95em;
+	cursor:pointer;
+}
+td.cat_wing_cell div:hover {
+	/*background-color:#FFFFFF;*/
+	color:#0717C9;
+}
+.lvl_2_label {
+	cursor:pointer;
+	font-weight: bold;
+	border-bottom: 0px dotted black;
+}
+.lvl_2_label:hover {
+
+	/*background-color:#FFFFFF;*/
+	color:#0717C9;
+}
+.lvl_2_label_loner {
+	font-weight: bold;
+}
+#div_cat_content_wing {
+	height: 537px;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+.button_view_full_cat {
+	font-family: sans-serif;
+	font-weight: bold;
+	position: absolute;
+	right: 0;
+	margin-right: 8px;
+	margin-bottom: 5px;
+	border:0;
+	outline:none;
+	background-color:transparent;
+	cursor:pointer;
+	padding-top:5px;
+}
+
+</style>
+
+<noscript><style> .jsonly { display: none; } </style></noscript>
+<link rel="stylesheet" href="jquery-ui.min.css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="jquery-2.1.4.min.js"></script>
+<script type="text/javascript" src="jquery.hoverIntent.min.js"></script>
+
+<script type="text/javascript" src="jquery-ui.min.js"></script>
+<script type="text/javascript" src="script_header.js?ver=20161116"></script>
+<link rel="stylesheet" type="text/css" href="style_header.css?ver=20161116">
+
+
+	
+<script type="text/javascript" src="temp/cat_data_tree.js?ver=new03_19_16_11_Nov"></script>
+
+	
+
+
+<script language="javascript" type="text/javascript" defer="defer">
+
+// hide the script for older browsers
+
+function myfocus(elmnt){
+	elmnt.style.backgroundColor='#FFFF99';
+	if (elmnt.value=='Keyword or Product#') { elmnt.value=''; } 
+}
+function myblur(elmnt) {
+	elmnt.style.backgroundColor='#FFFFFF';
+	if (elmnt.value=='') elmnt.value='';
+}
+
+var lastKeywordEntry = "";
+var lastKeywordCheckTime = null;
+var lastKeywordSuggestionMade = false;
+var regEmpty = new RegExp("^ *$");
+
+
+function provideSearchSuggestions() {
+
+	//Is keywords in focus? :
+	if($("#keywords").is(":focus")) {
+		//Proceed.
+	} else {
+		return;
+	}
+	
+	
+	var currentKeywordEntry = $.trim($("#keywords").val());
+	if(currentKeywordEntry == null || currentKeywordEntry.length < 3 || currentKeywordEntry == "Keyword or Product#") {
+		//The keyword is too short or is the default value: IGNORE.
+		$("#searchSuggestionsPanel").css("display", "none");
+		return;
+	} else if(currentKeywordEntry == lastKeywordEntry) {
+		return;
+	}
+
+	lastKeywordEntry = currentKeywordEntry;
+	
+	//If we reach this point, then either a new search was entered and we need to check
+	//for and load suggestions:
+/*
+<tr id="searchSuggestionsPanel">
+					<td colspan="4" id="suggestionsCell"></td>
+*/
+	$.get("search_suggestions.php", {stub : encodeURIComponent(currentKeywordEntry)},  function(data) { 
+
+			if(data == "" || regEmpty.test(data) || (data.indexOf("noproducts") > 0) ) {
+				$("#searchSuggestionsPanel").css("display", "none");
+				//No results found...do nothing.
+			} else {
+				$("#suggestionsCell").html(data);
+				if(data.indexOf("no_fuss_link") > 0) {
+					$("#searchSuggestionsPanel").css("display", "block");
+				} else {
+					//Apparently we have NO data to display.
+					//Do NOT display the panel.
+					$("#searchSuggestionsPanel").css("display", "none");
+				}
+				//$("#keywords").blur();
+				/*
+				$("#suggestionsCell").focus();
+				
+				if($("#topSearchesLabel")) {
+					$("#topSearchesLabel").focus();
+				}
+				*/
+			}
+		
+	});
+}
+
+
+	setInterval(provideSearchSuggestions, 1000);
+
+
+</script>
+
+
+
+ 
+
+<!--BEGIN: New header...-->
+
+<div class="header">
+  <div class="headBG">
+    <div class="headBGimage">
+		
+		<table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0">
+		
+			<tbody><tr>
+				<td width="35%" valign="center">
+				  <a href="default.php">
+					  <div class="headlogo"></div>
+				  </a>
+				</td>
+				<td>
+					<table height="100%" width="100%" cellspacing="0" cellpadding="0">
+						
+						<tbody><tr>
+							<td id="header_top_right_cell" width="100%" align="right" valign="top">
+								<div style="float:left;">
+																		
+								</div>
+							  <div class="headtopbar">
+
+								
+									<div class="wishlistitem hover_menu_link_only" menu="wishlist" style="margin-top: 4px;">
+									  <div class="divider"></div>
+									  
+									  <div class="dropdownheading">
+										  <a style="text-decoration:none;color:#0d5385;" href="http://www.ableammo.com/catalog/wishlist.php">										<div class="dropdownheadingtext" style="padding-right:8px;">WISHLIST</div>
+										</a>
+									  </div>
+									</div>
+								
+
+																<div class="userloginitem hover_menu" menu="userlogin" style="margin-top: 4px;" other_click="focus_login();">
+								  <div class="divider"></div>
+								  <div class="arrow-down2"></div>
+								  <div class="dropdownheading">
+									  										<div class="dropdownheadingtext">LOGIN/REGISTER</div>
+									  								  </div>
+								</div>
+								
+								
+
+								<a href="http://www.ableammo.com/catalog/shopping_cart.php">									<div class="shoppingcart">
+									  <div class="carttotaltext">
+										<div class="carttotaltextalign" style="text-align: center;">$0.00</div>
+									  </div>
+									  <div id="cartcontainer">
+										<div id="carttextBox">0</div>
+									  </div>
+									</div>
+								</a>
+
+							  </div> <!--END: <div class='headtopbar'>-->
+							</td>
+						</tr>
+
+						
+						<tr>
+							<td style="border:0px solid black;">
+								<table height="100%">
+									<tbody><tr>
+										
+										<td style="color:#E6E6E6;font-size:22px;font-family:Oswald;letter-spacing:1px;" valign="bottom">
+											<span style="margin-left:-150px;">936-295-5786</span>
+
+											<span style="margin-left:0px;">
+											<a href="http://www.facebook.com/pages/Able-Ammo-Ables-Sporting/103419513039171" target="_blank"><img src="images/img_header/facebook.png" alt="Facebook" border="0" width="25" height="25" align="bottom"></a>
+											</span>
+
+											<span style="margin-left:0px;">
+												<a href="http://twitter.com/AblesSporting" target="_blank"><img src="images/img_header/twitter.png" alt="Twitter.com/AblesSporting" border="0" width="25" height="25" align="bottom"></a>
+											</span>
+
+											<span style="margin-left:0px;">
+												<a href="http://www.bbb.org/bryan/business-reviews/guns-and-gunsmiths/ables-sporting-in-huntsville-tx-10000598" onclick="UpdateLogStats(this,'2977382','10000598','0855','botv4b4543z5kd45pcpfr1rd'); return false;" title="View this business review" target="_new"><img src="images/img_header/BBB-Logo-small.png" alt="BBB Accredited Business Seal" border="0" width="89" height="25" align="bottom"></a>
+											</span>
+
+																						<a href="http://www.ableammo.com/catalog/flatrate.php">
+												<img src="images/banners/new_flatrate_banner.png" style="height:36px;width:480px;position:absolute;bottom:0;right:0;border:none;">
+											</a>
+																					</td>
+										
+										<!--
+										<td style="color:#E6E6E6;font-size:22px;font-family:Oswald;letter-spacing:1px;" valign="bottom">
+											<span style="margin-left:-150px;margin-bottom:-4px;">936-295-5786</span>
+
+										</td>
+										<td valign="bottom">
+											<span style="margin-left:0px;">
+											<a href="http://www.facebook.com/pages/Able-Ammo-Ables-Sporting/103419513039171" target="_blank"><img src="images/img_header/facebook.png" alt="Facebook" border="0" width="25" height="25" align="bottom"/></a>
+											</span>
+										</td>
+										<td valign="bottom">
+											<span style="margin-left:0px;">
+												<a href="http://twitter.com/AblesSporting" target="_blank"><img src="images/img_header/twitter.png" alt="Twitter.com/AblesSporting" border="0" width="25" height="25" align="bottom"/></a>
+											</span>
+										</td>
+												
+										<td valign="bottom">
+											<span style="margin-left:0px;">
+												<a href="http://www.bbb.org/bryan/business-reviews/guns-and-gunsmiths/ables-sporting-in-huntsville-tx-10000598" onclick="UpdateLogStats(this,'2977382','10000598','0855','botv4b4543z5kd45pcpfr1rd'); return false;" title="View this business review" target="_new"><img src="images/img_header/BBB-Logo-small.png" alt="BBB Accredited Business Seal" border="0" width="89" height="25" align="bottom"/></a>
+											</span>
+										</td>
+										<td>
+											<a href="">
+												<img src="images/banners/new_flatrate_banner.png" style="height:36px;width:480px;position:absolute;bottom:0;right:0;border:none;">
+											</a>
+										</td>
+										-->
+									</tr>
+								</tbody></table>
+							</td>
+						</tr>
+						
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>		
+	
+	</div> <!--END: headBGimage-->
+	
+	<div class="headbtmbar">
+
+		<table id="table_header_bottom" width="100%" height="37px" border="0" cellspacing="0" cellpadding="0" style="border-left:1px solid #C7C7C7;border-right:1px solid #C7C7C7;">
+			<tbody><tr>
+				<td width="70%" valign="center">
+					<table width="100%" height="37px" cellspacing="0" cellpadding="0" border="0">
+						<tbody><tr>
+							<td valign="center" width="200px">
+								<div class="categoriesbtn" style="">
+										  <div id="div_categories_button" class="categoriesbtnfont">SELECT CATEGORY</div>
+										  <div id="categories_button_arrow" class="cat-arrow-down" style="margin-top:-15px"></div>
+								</div>
+							</td>
+
+							<!--td valign="center" width="200px">
+								
+								<div class='categoriesbtn'>
+										  <div id="div_advanced_search_button" class='categoriesbtnfont'>ADVANCED SEARCH&nbsp;&nbsp;&nbsp;</div>
+										  <div id="advanced_search_arrow" class="arrow-down" style="margin-top:-17px"></div>
+								</div>
+								
+							</td-->
+							
+							
+							<td width="320px" valign="center">
+								<form name="quick_find" action="http://www.ableammo.com/catalog/advanced_search_result.php" method="get"><input type="text" name="keywords" class="searchform" placeholder="KEYWORD OR PRODUCT#..." id="keywords" autocomplete="off" onblur="myblur(this)" onfocus="myfocus(this)">								</form>
+								<!--input class='searchform' type="text" name="firstname" placeholder="TYPE HERE TO SEARCH..."-->
+							</td>
+							<td>
+								<div class="submitsearch">
+								  <div class="submitsearchico" onclick="javascript:document.quick_find.submit();"></div>
+								</div>
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+				<td valign="top" align="right">
+					
+					<div class="informationitem hover_menu" menu="info" style="margin-top: 4px;">
+
+					  <div class="divider_orig"></div>
+					  
+					  <div class="arrow-down2"></div>
+					  
+					  <div class="dropdownheading">
+						  
+						<div class="dropdownheadingtext">INFORMATION</div>
+						
+					  </div>
+					  
+					</div>
+
+					<div class="salesitem hover_menu" menu="sales">
+
+						<div class="divider_orig"></div>
+						<div class="arrow-down2"></div>
+						<div class="dropdownheading">
+						  <div class="dropdownheadingtext">SALES</div>
+						</div>
+					</div>
+					
+					<div class="newsitem hover_menu" menu="news">
+						<div class="divider_orig"></div>
+					  <div class="arrow-down2"></div>
+					  <div class="dropdownheading">
+						<div class="dropdownheadingtext">NEWS</div>
+					  </div>
+					</div>
+					
+					<div class="newsitem hover_menu" menu="help">
+					  
+					  <div class="dropdownheading_x" style="text-align:center;width:100%;overflow-y:hidden;">
+						  <a title="Frequently asked Questions" href="http://www.ableammo.com/catalog/faqs.php">
+						<img src="images/img_header/QandA.png" style="width:29px;height:29px;margin-right:12px;">
+						</a>
+					  </div>
+					</div>
+					
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2" align="center">
+					<div id="searchSuggestionsPanel">
+						<div id="suggestionsCell"></div>
+					</div>
+				</td>
+			</tr>
+				  <!--tr id="searchSuggestionsPanel">
+					<td colspan="2" id="suggestionsCell" valign="top" align="center"></td>
+				  </tr-->
+		</tbody></table>
+					
+	</div> <!--END: <div class='headbtmbar'> -->
+  </div> <!--END: <div class='headBG'> -->
+  
+  
+  
+  
+  
+</div> <!--END: <div class='header'> -->
+	
+        <br>      
+        <!--BEGIN: Info menu content-->
+              <div class="hover_menu_content" menu="info" hovered="0">
+				  <div class="hover_menu_content_inner">
+					<table width="auto" cellspacing="0" cellpadding="0">
+
+						<tbody><tr>
+							<td align="left" valign="top" style="padding-right: 5px;">
+								<a class="hover_menu_link" href="http://www.ableammo.com/catalog/faqs.php">FAQ</a><br>
+								<a class="hover_menu_link" href="http://www.ableammo.com/catalog/how-to-guns.php">Buying Guns Online</a><br>
+								<a class="hover_menu_link" href="http://www.ableammo.com/catalog/shipping.php">Shipping &amp; Returns</a><br>
+								<a class="hover_menu_link" href="http://www.ableammo.com/catalog/information_box/return-form.html">Return Form</a><br>
+								<a class="hover_menu_link" href="http://www.ableammo.com/catalog/restrictions.php">Restricted Items</a><br>
+								<!--a class="hover_menu_link" href="">Reference Charts</a><br>
+								<a class="hover_menu_link">Downloadable Forms</a><br-->
+							</td>
+							<td style="width: 1px; background-color: #000000;">
+							</td>
+							<td align="left" valign="top" style="padding-left: 5px;">
+								<a class="hover_menu_link" href="http://www.ableammo.com/catalog/contact_us.php">Contact Us</a><br>
+								<!--a class="hover_menu_link" href="">Friends of Ableammo</a><br-->
+								<a class="hover_menu_link" target="_blank" href="http://www.premiumshotguns.com">Premium Guns</a><br>
+								<a class="hover_menu_link" target="_blank" href="http://www.ablesgunclub.com">Able's Gun Club</a><br>
+								<a class="hover_menu_link" href="https://www.ableammo.com/catalog/employment_opportunities_resume.php">Employment Opportunities</a><br>
+								<a class="hover_menu_link" href="http://www.ableammo.com/catalog/conditions.php">Conditions of Use</a><br>
+							</td>
+						</tr>
+					</tbody></table>
+				</div>
+              </div>
+       <!--END: Info menu content-->
+       
+              <div class="hover_menu_content" menu="sales" hovered="0">
+				  <div class="hover_menu_content_inner">
+					<div style="white-space: nowrap; display:inline-block;">
+						<a class="hover_menu_link" href="http://www.ableammo.com/catalog/firearms-specials-deals-cheap-handguns-c-9935_17809.html?&amp;sort=2a&amp;max=100">Gun Specials</a><br>
+						<a class="hover_menu_link" href="http://www.ableammo.com/catalog/discount-centerfire-ammo-specials-prices-pistol-rifle-ammunition-c-10480_17346.html?instock=1&amp;sort=2a&amp;max=100">Ammo Specials</a><br>
+													<a class="hover_menu_link" href="http://www.ableammo.com/catalog/ables-product-catalog-p-148558.html">Order a Catalog</a><br>
+												<a class="hover_menu_link" href="http://www.ableammo.com/catalog/current-sales-ad.php">Current Sales Ad</a><br>
+						
+
+						<div style="margin:auto;background-color:#CCCCCC;width:90%;height:1px;border-top:1px solid #EEEEEE;"></div>
+						<div style="background-color:inherit;padding-top:15px;border-radius:2px;border-top:0px solid #CCCCCC;">
+							<span style="font-size:.8em;"><i>Sign up for our e-mail newsletter for <br>special offers, discount coupons and more.</i></span>
+  <form target="_blank" name="subscribe" action="https://app.streamsend.com/public/Hq7S/gXS/subscribe" method="post">
+     
+	<div id="sign_up_box">
+		<div id="sign_up_content" style="text-align:center;font-family:sans-serif;">
+			<br>
+			<input class="searchform" id="sign_up_email_address" name="person[email_address]" type="text" placeholder="Email Address" style="font-color:black;border-radius:2px;width:250px;font-size:13px;letter-spacing:1px;">
+			<br><br>
+			<div style="width:100%;text-align:center;">
+				<div class="categoriesbtn" style="width:100px;">
+					<div class="categoriesbtnfont" style="font-size:14px;height:100%;padding-top:2px;" onclick="document.subscribe.submit();">SIGN UP</div>
+				</div>
+				<!--input id="sign_up_button" src="/catalog/images/ad_subscribe.jpg" type="image" style="width: 120px; height: auto;"-->
+			</div>
+		</div>
+	</div>
+</form>	
+	
+						</div>
+					</div>
+				  </div>
+              </div>
+
+              <div class="hover_menu_content" menu="news" hovered="0">
+				  <div class="hover_menu_content_inner">
+					<div style="white-space: nowrap; display:inline-block;">
+						<a class="hover_menu_link" href="current-sales-ad.php">Newsletter</a><br>
+						<a class="hover_menu_link" href="tournaments.php">Tournaments</a><br>
+						<a class="hover_menu_link" style="text-decoration:none;cursor:inherit;">Worthy Causes</a><br>
+						<a class="hover_menu_link_x" style="text-decoration:none;" target="_blank" href="http://www.bamc.amedd.army.mil/military/wfsc/">&nbsp;&nbsp;&nbsp;<img alt="Donate to Warrior and Family Support Center" src="images/featured_front/wfsc.jpg" style="margin-bottom:10px;"></a><br>
+						<a class="hover_menu_link_x" style="text-decoration:none;" target="_blank" href="http://www.haloforfreedom.org/">&nbsp;&nbsp;&nbsp;<img alt="Halo For Freedom Warrior Foundation" src="images/featured_front/dana_bowman.jpg" style="margin-bottom:10px;"></a><br>
+						
+						<a class="hover_menu_link" href="http://www.ableammo.com/catalog/donations_info.php">Donations Put to Work</a><br>
+					</div>
+				  </div>
+              </div>
+
+              <div class="hover_menu_content" menu="giftcredit" hovered="0" buffer_adjustment="1">
+				  <div class="hover_menu_content_inner">
+					<div style="white-space: nowrap; display:inline-block;">
+						<span style="font-weight:bold;font-family:sans-serif;font-size:14px;">Gift Credit: &nbsp;&nbsp;</span><span style="font-family:sans-serif;font-size:14px;" id="span_gift_amount">$0.00</span><div style="height:0px;width:100%;"></div><span class="jsonly"><br><a class="hover_menu_link" onclick="open_transfer_window();">Transfer Gift Credit</a></span>						<br>
+						
+					</div>
+				  </div>
+              </div>
+              
+       
+              <div class="hover_menu_content" menu="wishlist" style="clear:both;  margin-top: 1px;">
+					  <br>
+					  Info content that wraps to some degree
+					<br>
+					<ul>
+						<li>Option 1</li>
+						<li>Option 2</li>
+						<li>Option 3</li>
+						<li>Option 4</li>
+						<li>Option 4</li>
+						<li>Option 4</li>
+						<li>Option 4</li>
+						<li>Option 4</li>
+					</ul>
+              </div>
+       
+              <div class="hover_menu_content" menu="userlogin" style="clear:both;" buffer_adjustment="1">
+				  <div class="hover_menu_content_inner">
+
+				
+
+								<form name="login" action="https://www.ableammo.com/catalog/login.php?action=process" method="post"><input type="hidden" name="formid" value="a82b3eefbc321b338081ac5d262ab478">									<table>
+										<tbody><tr>
+											<td align="center">
+												<input type="text" id="login_userid" name="email_address" class="soft_text_field" size="30" maxlength="100" placeholder="Email address" tabindex="30">
+											</td>
+										</tr>
+										<tr>
+											<td align="center">
+												<input type="password" id="login_password" name="password" class="soft_text_field" size="30" maxlength="100" placeholder="Password" tabindex="31">
+											</td>
+										</tr>
+										<tr>
+											<td align="center">
+												<!--input type="image" src="includes/languages/english/images/buttons/button_header_register.png"-->
+												<a href="https://www.ableammo.com/catalog/create_account.php" tabindex="32" style="text-decoration:none;">
+													<div class="categoriesbtn" style="width:100px;">
+														<div class="categoriesbtnfont" style="font-size:14px;height:100%;padding-top:2px;outline:none;">REGISTER</div>
+													</div>
+												</a>
+
+												<!--input type="image" src="includes/languages/english/images/buttons/button_header_login.png" style="margin-left: 55px;"-->
+												<div class="categoriesbtn" style="width:100px;" tabindex="33">
+													<div class="categoriesbtnfont" style="font-size:14px;height:100%;padding-top:2px;outline:none;" onclick="document.login.submit();">LOG IN</div>
+												</div>
+											</td>
+										</tr>
+										<tr>
+											<td style="padding-top: 8px;" align="center">
+												<a href="https://www.ableammo.com/catalog/password_forgotten.php" class="basic_link">Forgot Password? Click here.</a>
+											</td>
+										</tr>
+									</tbody></table>
+								</form>
+					
+									</div> <!--END: hover_menu_content_inner-->
+              </div>
+
+              
+				  <div id="div_cat_content_1" class="click_off_hide accord" click_off_exceptions="div_cat_content_wing div_categories_button categories_button_arrow" style="width: 200px; padding-left: 6px; z-index:3000;">
+
+				  </div>
+              
+              
+              <div id="div_cat_content_level_3" class="hover_menu_content" style="background-color: #FFFFFF; border: 1px solid #EEEEEE; border-left: 0;"></div>
+              
+			  <!--div id="div_cat_content_wing" class="hover_menu_content" click_off_exceptions="div_cat_content_1" style="background: linear-gradient(#EEEEEE, #FFFFFF); border: 1px solid #EEEEEE; border-left: 0; z-index: 3000; position:absolute; "></div-->
+			  <div id="div_cat_content_wing" class="hover_menu_content" click_off_exceptions="div_cat_content_1" style="height:537px;background-color:#F6F6F6; border: 1px solid #EEEEEE; border-left: 0; z-index: 2999; position:absolute;border-radius:0px 2px 2px 0px;"></div>
+			  
+			  <div id="div_advanced_search" class="click_off_hide accord" click_off_exceptions="div_advanced_search_button advanced_search_arrow" style="width: 200px; padding-left: 5px; z-index:3000;"></div>
+			  
+              <script type="text/javascript">
+				$("#div_cat_content_1").html(cat_dropdown);
+				//$("#div_advanced_search").html(adv_search);
+              </script>
+
+
+
+
+<!--END: New header...-->
+
+
+<br>
+<div itemscope="" itemtype="http://schema.org/WebPage">
+    </div><table id="table_header_navigation" border="0" width="100%" cellspacing="0" cellpadding="2" style="margin-top: 1px; ">
+	
+	  <tbody><tr class="headerNavigation">
+  <td class="headerNavigation" align="left"></td>
+	<td class="headerNavigation"><div itemprop="breadcrumb"><a href="http://www.ableammo.com/catalog/default.php" class="headerNavigation">Home</a> » <a href="http://www.ableammo.com/catalog/shipping.php" class="headerNavigation">Able's Terms, Shipping and Return Policy</a></div></td>
+  
+	<td class="headerNavigation" align="right">Saturday 19 November, 2016&nbsp;&nbsp;</td>	
+  </tr>
+  </tbody></table>
+
+
+<!-- END basic search, header tabbed-menu and breadcrumb-->
+
+
+
+
+<!--table border="0" width="100%" cellspacing="0" cellpadding="2">
+    <tr>
+        <td></td>
+    </tr>  
+</table-->
+
+<div id="div_gift_transfer_window" style="display: none; position: absolute; width: 400px; max-width: 100%; border: 
+										  1px solid black; background-color: #EEEEEE; border-radius: 5;
+										  padding:8px;
+										  z-index: 1500;
+										  ">
+</div>
+
+<script type="text/javascript">
+
+	$(document).click(function (e)
+	{
+		var container = $("#searchSuggestionsPanel");
+
+		if (!container.is(e.target) // if the target of the click isn't the container...
+			&& container.has(e.target).length === 0) // ... nor a descendant of the container
+		{
+			container.hide();
+
+		}
+		
+		$("#keywords").focus(function() { 
+			lastKeywordEntry = "";
+		});
+	});
+	
+	function open_transfer_window() {
+		$.ajax({
+				  url: "ajax_gift_transfer.php", 
+				  method: "get",
+				  data: {time: new Date()}, 
+				  dataType: "text",
+				  success: function(data, status, jqXHR) {
+					$("#div_gift_transfer_window").html(data);
+					show_gift_voucher_transfer();
+				  }
+			   });		
+	}
+	
+	function display_child_cat_content(pid_label, pid) {
+		var child_content_var_name = "cat_children_" + pid;
+		
+		var content = eval(child_content_var_name);
+		
+		var div = $("#div_cat_content_wing");
+		$(div).html(content);
+		//var header_nav_table = $("#table_header_navigation");
+		var header_nav_table = $("#table_header_bottom");
+		var cat_dropdown = $("#div_cat_content_1");
+		
+		var header_top = stripPx($(header_nav_table).offset().top);
+		var header_height = stripPx($(header_nav_table).css("height"));
+		var dd_left = stripPx($(pid_label).offset().left);
+		var dd_width = stripPx($(pid_label).css("width"));
+		
+		var top = header_top + header_height - 5;
+		var left = dd_left + dd_width + 13;
+
+		$(div).css("top", top).css("left", left).css("display", "block");
+		$("div.lvl_2_label").click(function() {
+			
+			var url = $(this).attr("url_text");
+			var dest = "/catalog/" + url;
+			
+			window.location.href = dest;
+		});
+		$("div.lvl3_label").click(function() {
+
+			var url = $(this).attr("url_text");
+			var dest = "/catalog/" + url;
+			
+			window.location.href = dest;
+			
+		});
+		$("button.button_view_full_cat").click(function() {
+
+			var url = $(this).attr("url_text");
+			var dest = "/catalog/" + url;
+			
+			window.location.href = dest;
+		});
+	}
+	
+	function route_cat_lvl_2_click(div) {
+			var url = $(this).attr("url_text");
+			var dest = "/catalog/" + url;
+			
+			window.location.href = dest;
+	}
+	
+	$(window).load(function() {
+		console.log("window loaded...this is the header");
+			$(".accord").accordion({
+				active: 999,
+				collapsible: true,
+				heightStyle: "content",
+				animate: false
+			});
+			
+			var div_cat_dropdown_bottom = "<div id='cat_dropdown_bottom' style=''><img src='images/icons/btm-delim.png'></div>";
+			$("#div_cat_content_1").append(div_cat_dropdown_bottom);
+			
+			$(".accord div").css("font-size", "12px");
+			//$(".ui-accordion-content").css("padding-left", "15%");
+			$(".ui-accordion-header").css("padding-left", "5px");
+			$(".ui-accordion-content").css("padding", "0");
+			$(".ui-accordion-content div[has_children=0]").css("cursor", "pointer").css("font-weight", "bold");
+			$(".ui-accordion-header").css("color", "#000000").css("margin", "0");
+			
+			//Experimental:
+			$(".ui-accordion-header").css("border-radius", "0");
+			/*
+			$(".ui-accordion-header").hover(function(){
+					$(this).trigger("click");
+			}, function(){});*/
+			$(".ui-accordion-content").css("border", "0");
+
+			$("div.cat_lvl_1").click(function() { return false;});
+			$("div.cat_lvl_1[has_children=1]").hoverIntent(function() {
+				var cid = $(this).attr("cid");
+				
+				display_child_cat_content(this, cid);
+			}, function(){
+				$(this).removeClass("ui-state-active").removeClass("ui-state-hover").removeClass("ui-state-focus").removeClass("ui-accordian-header-active");
+			});
+			
+			
+						
+			$("div.adv_search_type").click(function() {
+				var product_type = $(this).attr("type");
+				var dest = "/catalog/product_filter.php?action=filter_type&type_selector=" + product_type;
+				var href = $(this).attr("href");
+				dest = "/catalog/" + href;
+				window.location.href = dest;
+			});
+			
+	});
+
+	function paginate_cats(btn) {
+		var page = $(btn).val();
+		$("tr[class='cat_lvl2_row']").css("display", "none");
+		$("tr[class='cat_lvl2_row'][page_number='" + page + "']").slideDown();
+		
+	}
+</script>
+
+
+<!-- header_eof //-->
+
+<!-- body //-->
+<table border="0" width="100%" cellspacing="3" cellpadding="3">
+  <tbody><tr>
+
+<!-- body_text //-->
+    <td width="100%" valign="top"><table border="0" width="100%" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td><table border="0" width="100%" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td class="pageHeading">Able's Terms, Shipping, and Return Policy</td>
+            <td class="pageHeading" align="right"></td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+      <tr>
+        <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="10"></td>
+      </tr>
+      <tr>
+        <td><table border="0" width="100%" cellspacing="0" cellpadding="2">
+          <tbody><tr>
+            <td class="main">
+
+<h2 align="center">&nbsp;</h2>
+<h2 align="center">Able's Terms and Conditions</h2>
+<h3>When confirming an order with us, you must agree to the following Terms and Conditions, Shipping Policy, and Exchange Policy.</h3>
+Able's makes all reasonable effort to include accurate and correct information on this website. Able's makes no guarantees or representations as to its accuracy. Able's is not liable or responsible for any inaccuracies or errors. Prices are subject to change without notice. In the event that a product is listed incorrectly due to typographic, photographic, and/or descriptive errors, Able's reserves the right to refuse or cancel any orders placed due to the inaccurate listing. Images, photographs, descriptions, etc. do not necessarily represent the product in its entirety, they are shown for examples only.
+<br><br>
+We cannot confirm the price of an item until you order. Despite our best efforts, a small number of the items in our catalog may be mispriced. If the correct price of an item sold is higher than the stated price, we will, at our discretion, either contact you for instructions before shipping or cancel your order and notify you of such cancellation. We do not charge your credit card until after your order has entered the shipping process.
+<ul>
+  <li>I am at least 18 years old to purchase long guns or at least 21 years old to purchase handguns.</li>
+  <li>I am at least 18 years old to purchase shotgun ammunition or at least 21 years old to purchase handgun and rifle ammunition.</li>
+  <li>I understand that discharging, cleaning, or handling ammo and/or firearms may cause exposure to lead.  </li>
+  <li>I understand that firearms are not reserved until payment and all required paperwork is received and processed.</li>
+  <li>I am not prohibited from legally purchasing/possessing any of the following products that may be in my cart:<br></li>
+        Firearms, Ammunition, Blackpowder Firearms, Airguns, Replica Firearms, Airsoft Guns or Blowguns,
+        Knives or Bayonets, Lock-picking Equipment, Pepper Spray, Brass Knuckles, Slaps, Stun Guns, or Gloves with Steel-Shot Knuckles and High-Capacity Magazines.  
+</ul>
+<hr> 
+<a name="shipping_policy"></a>
+<h2 align="center">Shipping Policy - Rules and Regulations </h2>
+<p align="left"><b>Able's does not sell or ship products outside the United States</b></p>
+<p align="left">On some occasions depending on your time zone, orders submitted after 10 A.M. (CDT) may not be processed until the next day. Orders placed on Fridays may not be processed until the next business day (Monday). Allow 2-3 business days to process most orders, excluding weekends and holidays. </p>
+<ul>
+<li>Ammunition can be shipped UPS Ground <u>only</u>.</li> 
+ <li> All handguns <u>must be</u> shipped by air freight regardless of location.</li>
+  <li>UPS <u>may</u> require an adult signature upon delivery.</li>
+  <li>Rifles and shotguns can be shipped by Ground. </li>
+<li>For safety reasons, we <u>do not</u> accept returns on ammunition.</li>
+<li>We only ship to the contiguous 48 states and to Alaska and Hawaii. (Some restrictions may apply).</li>
+<li>We <u>will not</u> ship products to locations with known legal restrictions on their ownership or possession. </li>
+<li>Customer <u>will be</u> responsible for all freight charges on refused shipments. This includes firearms refused due to conflict with local laws. <u>No Exceptions</u>.</li>
+<li><a href="http://www.ableammo.com/catalog/restrictions.php"><font color="#0000FF"><strong>Check here for known restrictions.</strong></font></a> This list is not exhaustive or guaranteed to be current.  It is the customer's responsibility to ensure their purchase is legal in their area.<br>
+</li>
+</ul> 
+
+We offer several available shipping options including:
+<p><strong>Ground</strong><br>
+  Prompt, dependable, cost-effective shipping. An economical choice for all of your routine shipments.</p>
+<p><strong>2nd Day Air</strong><br>
+  Ideal for shipments that do not need overnight service.</p>
+<p><strong>Next Day Air</strong><br>
+Ideal for shipments that&nbsp;must arrive earlier in the business day. </p>
+<p><strong><a name="Browning Safes">Free Shipping</a></strong><br> 
+This will include a standard shipping through the preferred delivery carrier. Free shipping does not include Alaska or Hawaii orders.</p>  
+<p><strong>NOTE:</strong> When purchasing several items, some can be packaged together and some must travel separately. This may increase or decrease the shipping total shown upon checkout, but we will always notify you before charging your credit card. We reserve the right to alter your shipping options if they are not feasible or do not comply with ATF standards. We will do our best to package all orders in the safest, most efficient manner.  On some occasions, orders submitted after 10 A.M. (CDT) may not be processed until the next day.</p>
+<hr><h2 align="center">Gun Safe Shipping Policy</h2>
+<p><strong>Gun Safe Free Shipping</strong><br> 
+Gun safes are shipped standard curbside delivery via freight truck.  This will get the truck to your house or business. They will unload the safe with a liftgate to the ground level. Please be aware that the safe can come on a large 18 wheel truck, if you have a narrow or inaccessible driveway please contact us to discuss options for delivery.</p> 
+<p><strong>Texas Gold Delivery:</strong><br>
+We offer Professional In Home Delivery, performed by our own trained safe delivery technicians, call 800 720 3275 for availability and pricing in your area.  The additional online pricing for Texas Gold Delivery service is based on a maximum radius of 100 miles from our store address. In some cases we do offer In home delivery outside of this radius area however, there is an additional mileage charge.  This service is only available at the current time in most areas in Texas.</p>
+<p><strong>Additional Gun Safe Shipping Information</strong><br>
+Please be sure to take careful measurements and keep in mind for delivery there will need to be room for a man on each side of the safe, especially in hallways and staircases. In the case that the safe cannot fit into the desired area due to size limitations, please have a suitable secondary location picked out for the safes final placement. Please check to see if your tile, wood, or other flooring is capable of handling the weight of the safe, If the flooring is not suitable for the weight of the safe, the safe may need to be placed in a different location.It is ideal to have a secondary location in mind.<br>
+<br>Any item over 900 lbs. can only be delivered to ground level of the home.  Ground level refers to a location where the truck will have access to the area without driving through any lawn or sloped area, a few threshold steps will be acceptable, past that stairs will be permitted for the Gold level service.</p>
+<hr>
+<a name="return_policy"></a>
+<h2 align="center">Return | Exchange Policy</h2>
+<p><a href="http://www.ableammo.com/catalog/information_box/return-form.html" target="windowName" onclick="window.open(this.href,this.target, 'width=750,height=600,resizable=no,scrollbars=yes'); return false;"><font color="#0000FF"><b>Click here to print the return form</b></font></a>
+</p><p>Able's will accept any returned items 
+  (except air guns, ammunition, and black powder), for exchange or credit as long as the items are in new and original condition 
+  in the factory packaging. All returns must be made within 15 days of receiving 
+  the order.  Able's will not be liable 
+  for any packages damaged or lost in shipping. All ammunition is non-returnable 
+  and non-refundable due to safety issues. A 15% restocking fee will be incurred 
+    on all returned merchandise. Freight charges incurred while returning and/or exchanging 
+    any items will be the responsibility of the customer. <br><br>
+  <b>FIREARM RETURNS:</b><br>  Thoroughly inspect firearms when you go to pick the gun up at the dealer we ship your firearm to.  You MUST do this before completing the transfer.  Once you have completed the transfer of the firearm it is considered used, and no returns are accepted.  If you discover defects or problems with the firearm after completeing the transfer it will have to be handled under the warranty by the Manufacturer.  <u>Please call for a return authorization on firearms.</u></p>
+<p>If the package was damaged during shipment , please contact Customer Service before returning. Some products we sell are covered by a manufacturer's 
+  warranty that requires items to be sent directly to the manufacturer for replacement 
+  or repair..</p>
+<p><strong>Follow the instructions below, should you need to return and/or exchange any items:</strong> </p>
+<ul>
+  <li><a href="http://www.ableammo.com/catalog/information_box/return-form.html" target="windowName" onclick="window.open(this.href,this.target, 'width=750,height=600,resizable=no,scrollbars=yes'); return false;"><font color="#0000FF"><b>Complete the Return Form</b></font></a> and return it along with 
+    the item(s) to be sent back.</li>
+  <li>Return items must be in their new and original factory condition.</li>
+  <li>An original receipt or photocopy of receipt is required for all returns. </li>
+  <li>All ammunition is non-returnable and non-refundable for safety reasons. </li>
+  <li>All returns must be made within 15 days of receiving the order.</li>
+  <li>All returns must be prepaid. (Sorry, we cannot accept COD's.) </li>
+  <li>All merchandise will be charged a 15% restocking fee.</li>
+  <li>When shipping merchandise back, please secure the item(s) in a sturdy box.</li>
+  <li>It is recommended for your protection to insure the package for the value of the item. </li>
+</ul>
+<p>Due to the complexity of state and local laws the customer must check to see if a product is legal to import into his state and locality. Some areas have restrictions on guns, ammunition, magazines, tear gas, lasers, and other items. 
+  <br>
+<b>KNOW YOUR LOCAL LAW.</b></p>
+<p>Be aware there is a 15% restocking fee on returned firearms and other products that are shipped and later found to conflict with local laws. A 15% restocking fee will be assessed on any refused orders as well. All returns and/or exchanges must have prior approval. All returns must be in original condition as they left Able's. All or any freight charges involved in the return are the sole responsibility of the customer.</p>
+<p>&nbsp;</p>
+
+
+
+<hr>
+<a name="privacy_policy"></a>
+<h2 align="center">Privacy Policy</h2>
+
+<p>This privacy policy discloses the privacy practices of Able Ammo and applies solely to information collected by this web site - www.ableammo.com
+<br>
+<br> It will notify you of the following:
+<br>
+</p><ul>
+	<li>What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.</li>
+	<li>What choices are available to you regarding the use of your data.</li>
+	<li>The security procedures in place to protect the misuse of your information.</li>
+	<li>How you can correct any inaccuracies in the information.</li>
+</ul>
+<br>
+<b>Information Collection, Use, and Sharing</b>
+<br>
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
+<br>
+<br>
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
+<br>
+<br>
+<b>Your Access to and Control Over Information </b>
+<br>
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
+<ul>
+	<li>See what data we have about you, if any.</li>
+	<li>Change/correct any data we have about you.</li>
+	<li>Have us delete any data we have about you.</li>
+	<li>Express any concern you have about our use of your data.</li>
+</ul>
+
+<b>Security</b>
+<br>
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
+
+Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.
+
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
+<br>
+<br>
+<b>Updates</b>
+<br>
+Our Privacy Policy may change from time to time and all updates will be posted on this page.
+<br>
+<br>
+<b>If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 1-800-720-3275 or via email.</b>
+
+<p></p>
+<p>&nbsp;</p></td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+      <tr>
+        <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="10"></td>
+      </tr>
+      <tr>
+        <td><table border="0" width="100%" cellspacing="1" cellpadding="2" class="infoBox">
+          <tbody><tr class="infoBoxContents">
+            <td><table border="0" width="100%" cellspacing="0" cellpadding="2">
+              <tbody><tr>
+                <td width="10"><img src="images/pixel_trans.gif" border="0" alt="" width="10" height="1"></td>
+                <td align="right">
+					<a href="http://www.ableammo.com/catalog/default.php"><img src="includes/languages/english/images/buttons/button_continue.gif" border="0" alt="Continue" title="Continue"></a>				</td>
+                <td width="10"><img src="images/pixel_trans.gif" border="0" alt="" width="10" height="1"></td>
+              </tr>
+            </tbody></table></td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+    </tbody></table></td>
+<!-- body_text_eof //-->
+
+   
+  </tr>
+</tbody></table>
+<!-- body_eof //-->
+
+<!-- footer //-->
+
+
+
+	<hr width="90%">
+
+
+<table border="0" height="200" width="100%" cellspacing="0" cellpadding="0" style="">
+  <tbody><tr height="150">
+
+	<td align="center">
+		<table border="0" cellspacing="0" cellpadding="0"><!-- level 1-->
+			<tbody><tr>
+
+		
+		<td width="5">&nbsp;</td> 
+		
+		<td width="795"><table border="0" cellspacing="0" cellpadding="0" width="795"><!-- level 2-->
+				<tbody><tr><td><!-- level 3-->
+					<table border="0" cellspacing="0" cellpadding="0"> 
+				  		<tbody><tr align="left">
+				  		  <td colspan="6" class="smallText"><strong>Top Categories</strong></td>
+				  		</tr> 
+						<tr align="left">
+							
+							
+							
+								<td valign="top">
+									<ul class="bullet">
+										<li class="bullet_text"><a href="http://www.ableammo.com/catalog/beretta-shotguns.php" title="Beretta Products for Sale">Beretta Products</a></li>
+										<li class="bullet_text"><a href="http://www.ableammo.com/catalog/browning_products.php" title="Browning Products for Sale">Browning Products</a></li>
+										<li class="bullet_text"><a href="http://www.ableammo.com/catalog/caesar-guerini-shotguns-sale-online-shop-c-9935_13769_17816.html" title="Premium Caesar Guerini Guns for Sale">Caesar Guerini</a></li>
+											<li class="bullet_text"><a href="http://www.ableammo.com/catalog/gun-safes-for-sale-free-shipping.php" title="Discount Gun Safes Free Shipping">Discount Gun Safes</a></li>
+										<li class="bullet_text"><a href="http://www.ableammo.com/catalog/nikon-rifle-scopes.php" title="Discount Nikon Rifle Scopes for Sale">Nikon Rifle Scopes</a></li>
+										<li class="bullet_text"><a href="http://www.ableammo.com/catalog/swarovski-optics.php" title="Discount Swarovski Optics for Sale">Swarovski Optik</a></li> 
+										<li class="bullet_text"><a href="http://www.ableammo.com/catalog/zeiss-sporting-optics.php" title="Discount Zeiss Sport Optics for Sale">Zeiss Sport Optics</a></li>  
+									</ul>	                              
+
+								</td>							
+							
+
+							<td valign="top" align="left">
+								<ul class="bullet">
+									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/cheap-discount-ammunition-sale-online-pistol-ammo-rifle-shotgun-shells-rimfire-c-10480.html" title="Discount Ammo for Sale">Discount 
+  Ammo</a></li>
+									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/shotgun-shells-ammo-sale-online-discount-prices-c-10480_14626.html" title="Discount Shotgun Shells for Sale"> 
+  Shotgun Shells</a></li>
+  									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/cheap-discount-ammunition-sale-online-pistol-ammo-rifle-shotgun-shells-rimfire-c-10480.html" title="Discount Rifle &amp; Pistol Ammo for Sale"> 
+  Rifle &amp; Pistol Ammo</a></li>
+									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/rifle-pistol-rimfire-ammo-sale-online-discount-prices-c-10480_14627.html" title="Discount Rimfire Ammo for Sale">Rimfire 
+  Ammo</a></li>
+  									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/reloading-bullets-sale-online-discount-bullets-reloading-c-10301_16184.html" title="Reloading Bullets for Sale">Reloading 
+  Bullets</a></li>
+  									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/reloading-supplies-equipment-sale-online-reloading-rcbs-hornady-more-c-10301.html" title="Reloading Supplies">Reloading 
+  Supplies</a></li>  
+								</ul>									
+							 </td>
+							<td valign="top">
+								<ul class="bullet">
+									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/shotguns-sale-online-shop-automatic-pump-over-under-shotguns-c-9935_13769.html" title="Shotguns for Sale Online">Shotguns 
+for Sale</a></li>
+									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/rifles-sale-online-shop-discount-firearms-c-9935_13987.html" title="Rifles for Sale Online">Rifles 
+for Sale</a></li>
+  									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/handguns-sale-online-pistols-revolvers-firearms-guns-sale-c-9935_13105.html" title="Pistols for Sale Online">Pistols 
+for Sale</a></li>
+  									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/guns-sale-online-airguns-caliber-pellets-c-12297.html" title="Airguns for Sale Online">Airguns for Sale 
+</a></li>
+									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/archery-bows-compound-bows-crossbows-sale-online-c-2320_17673.html" title="Archery Bows for Sale Online"> 
+  Archery Bows</a> </li>
+
+								</ul>									
+							  </td>
+							<td valign="top">
+								<ul class="bullet">
+									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/firearms-accessories-sale-online-including-clips-magazines-holsters-more-c-9313_10349.html" title="Gun Accessories">Gun 
+Accessories</a></li>  									
+									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/cleaning-products-sale-online-c-9313_6093.html" title="Gun Cleaning Supplies">Gun 
+Cleaning</a></li>
+									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/safes-vaults-fire-safes-personal-safes-safe-accessories-sale-online-c-221.html" title="Discount Gun Safes for Sale Online">Gun 
+Safes</a></li>
+									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/cases-sale-online-rifle-cases-shotgun-cases-pistol-cases-c-14420.html" title="Gun Cases">Gun 
+Cases</a></li>
+
+									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/magazines-clips-sale-online-discount-prices-firearms-accessories-c-9313_10349_15457.html" title="Gun Magazines &amp; Clips">Gun Magazines</a></li>
+									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/holsters-belts-sale-online-pistol-holsters-handgun-holsters-c-9313_10349_14914.html" title="Gun Holsters">Gun 
+Holsters</a></li>
+									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/pistol-handgun-pistol-grips-sale-online-handgun-grips-handles-c-9313_10349_14398.html" title="Pistol Grips">Pistol Grips</a></li>
+
+
+								</ul>									
+							  </td>
+							<td valign="top">
+								<ul class="bullet">
+									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/hunting-game-calls-camping-accessories-sale-online-discount-prices-c-9313_122.html" title="Hunting Accessories">Hunting 
+  Accessories</a></li>
+  									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/flashlights-sale-online-streamlight-flashlights-flashlights-tactical-lights-c-9313_122_1118.html" title="Hunting Flashlights"> 
+  Hunting Flashlights</a></li>
+									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/game-calls-sale-online-c-9313_122_12207.html" title="Hunting Game Calls"> 
+  Hunting Game Calls</a></li>
+									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/discount-knives-sale-online-discount-prices-pocket-knife-multi-tools-c-10460.html" title="Discount Hunting Knives for Sale"> 
+  Hunting Knives</a></li>  
+  									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/hunting-camouflage-clothing-outdoor-clothing-shooting-clothing-sale-online-c-90.html" title="Outdoor Hunting Clothes"> 
+  Hunting Clothes</a></li>  
+    									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/hunting-decoys-sale-online-turkey-duck-bird-c-9313_122_15584.html" title="Hunting Decoys"> 
+  Hunting Decoys</a></li>  
+								</ul>									
+							  </td>		
+							<td valign="top">
+								<ul class="bullet">
+  									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/slings-swivels-sale-online-c-9313_10349_15491.html" title="Slings &amp; Swivels">Slings &amp; Swivels</a></li>  
+  									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/shooting-targetstraps-sale-online-c-9313_16426_8007.html" title="Shooting Targets &amp; Traps">Targets &amp; Traps</a></li>  
+  									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/safety-protection-equipment-sale-online-shooting-glasses-safety-plugs-c-9313_16426_537.html" title="Eye &amp; Ear Protectiong">Eye/Ear Protection</a></li>  
+								</ul>									
+							  </td>								  					  
+							<td valign="top">
+								<ul class="bullet">
+									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/discount-optics-equipment-including-binoculars-rifle-scopes-laser-sights-c-10186.html" title="Discount Hunting Optics for Sale">Hunting Optics</a></li>
+									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/discount-binoculars-sale-online-bushnell-nikon-binoculars-more-c-10186_12381.html" title="Discount Hunting Binoculars for Sale"> 
+  Hunting Binoculars</a></li>
+  									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/discount-rifle-scopes-sale-online-leupold-bushnell-nikon-zeiss-more-c-10186_12467_12468.html" title="Discount Rifle Scopes for Sale"> 
+  Hunting Rifle Scopes</a></li>
+									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/range-finders-sale-online-from-leica-optics-c-10186_10200.html title=" discount="" range="" finders="" for="" sale"="">Range 
+  Finders</a></li>
+ 									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/sights-sale-online-laser-sights-night-sights-contrast-sights-sights-c-10186_15273.html" title="Discount Gun Sights for Sale">Gun 
+  Sights</a></li>
+  									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/scopes-rifle-scopes-spotting-scopes-sale-online-hunting-scopes-c-10186_12467.html" title="Discount Gun Sights for Sale"> 
+  Spotting Scopes</a></li>
+									<li class="bullet_text"><a href="http://www.ableammo.com/catalog/night-vision-optics-equipment-sale-online-c-10186_10201.html" title="Discount Night Vision Equipment for Sale">Night 
+  Vision Equipment</a></li>  
+								</ul>									
+							  </td>									
+
+					  </tr> 
+					</tbody></table></td>
+                 </tr><!-- level 3-->		
+			</tbody></table></td><!-- level 2--> 
+		</tr>
+	</tbody></table></td><!-- level 1--> 
+</tr>
+
+<!-- this code was slowing the whole site down so removed it 2/2/15 -->
+<!-- <a href="http://www.shopwiki.com/s/214721" target="_blank" title="Able's Sporting (Ableammo)" style="display:none"><img src="https://staticssl.shopwiki.com/static/badges/StoreBadgeEN.png?sid=214721" data-swmc-badge-code="321a867677e0cc1c2e962666d074e2244d77036a" /></a> -->
+
+
+
+</tbody></table>
+
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+var cot_loc0=(window.location.protocol == "https:")? "https://secure.comodo.com/trustlogo/javascript/cot.js" : "http://www.trustlogo.com/trustlogo/javascript/cot.js";
+document.writeln('<scr' + 'ipt language="JavaScript" src="'+cot_loc0+'" type="text\/javascript">' + '<\/scr' + 'ipt>');
+//]]>
+</script><script language="JavaScript" src="https://secure.comodo.com/trustlogo/javascript/cot.js" type="text/javascript"></script>
+
+
+<script language="JavaScript" type="text/javascript">
+COT("images/ssl_provider/comodo_evssl.gif width='100' height='85'", "SC2", "none"); // New EV
+</script>
+
+<div id="footer_visibility_div"></div>
+	
+
+<div id="footer_bottom_header_bar" class="headbtmbar" style="height: 30px;"></div>
+<div style="width:100%; background-color:#0d5385; padding-top: 8px;">
+
+	<table style="margin:auto;" cellspacing="0" cellpadding="2" border="0">
+		<tbody><tr>
+			<td class="footer_bottom_header" align="left">Site Resources</td>
+			<td class="footer_bottom_spacer"></td>
+			<td class="footer_bottom_header">Shopping Help</td>
+			<td class="footer_bottom_spacer"></td>
+			<td class="footer_bottom_header">About Able's</td>
+			<td class="footer_bottom_spacer"></td>
+			<td class="footer_bottom_header">Affiliated Sites</td>
+		</tr>
+		
+		<tr>
+			<td valign="top">
+				<a class="footer_bottom_link" href="http://www.ableammo.com/catalog/faqs.php">Frequently Asked Questions</a><br>
+				<a class="footer_bottom_link" href="http://www.ableammo.com/catalog/shipping.php#privacy_policy">Privacy Policy</a><br>
+				<a class="footer_bottom_link" href="http://www.ableammo.com/catalog/shipping.php">Conditions of Use</a><br>
+				<a class="footer_bottom_link" href="http://www.ableammo.com/catalog/dynamic_sitemap.php">Sitemap</a><br>
+				<a class="footer_bottom_link" href="http://www.ableammo.com/catalog/allmanufacturers.php">All Manufacturers</a><br>
+			</td>
+			<td></td>
+			<td valign="top">
+				<a class="footer_bottom_link" href="http://www.ableammo.com/catalog/how-to-guns.php">Buying Guns Online</a><br>
+				<a class="footer_bottom_link" href="http://www.ableammo.com/catalog/restrictions.php">Restricted Items</a><br>
+				<a class="footer_bottom_link" href="http://www.ableammo.com/catalog/shipping.php#shipping_policy">Shipping Policy</a><br>
+				<a class="footer_bottom_link" href="http://www.ableammo.com/catalog/shipping.php#return_policy">Return Policy</a><br>
+			</td>
+			<td></td>
+			<td valign="top">
+				<a class="footer_bottom_link" href="http://www.ableammo.com/catalog/donations_info.php">Donations Put to Work</a><br>
+				<a class="footer_bottom_link" href="http://www.ableammo.com/catalog/employment-opportunities.php">Employment Opportunities</a><br>
+				<a class="footer_bottom_link" href="http://www.ableammo.com/catalog/contact_us.php">Contact Us</a><br>
+			</td>
+			<td></td>
+			<td valign="top">
+				<a class="footer_bottom_link" href="http://www.ableammo.com/catalog/default.php">ableammo.com</a><br>
+				<a class="footer_bottom_link" target="_blank" href="http://www.ablesgunclub.com">ablesgunclub.com</a><br>
+				<a class="footer_bottom_link" target="_blank" href="http://www.premiumshotguns.com">premiumshotguns.com</a><br>
+			</td>
+			<td></td>
+		</tr>
+	</tbody></table>
+	<table id="footer_contact_table" style="margin:auto;">
+		<tbody><tr>
+			<td style="padding-right: 15px;"><img src="images/header/footer-call.png"></td>
+			<td style="padding-left: 15px;"><a href="mailto:sales@ableammo.com"><img src="images/header/footer-email.png"></a></td>
+		</tr>
+	</tbody></table>
+	<table style="margin:auto; margin-top: 10px;" class="footer_bottom_link">
+		<tbody><tr height="20">
+			<td align="center" class="smallText">Copyright © 2016 Able Ammo</td>
+		</tr>
+		<tr height="30"> 
+			<td align="center" class="smallText">Not all products shown are available for immediate delivery. Prices subject to change without notice due to availability.<br>(Images, photographs, descriptions, etc. do not necessarily represent the product in its entirety, they are shown for examples only.)</td>
+		</tr>
+	</tbody></table>
+</div>
+
+
+<!--Google Analytics-->
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22298921-1']);
+  		_gaq.push(['_initData']);
+  _gaq.push(['_trackPageview']);
+
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!--Google Analytics-->
+
+<!-- Piwik -->
+<script type="text/javascript">
+try {
+  var _paq = _paq || [];
+  		
+
+  _paq.push(['trackPageView']);
+//  _paq.push(['setRequestMethod', 'POST']); //enable to avoid the mod_security check
+  _paq.push(['enableLinkTracking']);
+    _paq.push(['setConversionAttributionFirstReferrer', true]); //first referrer used instead of the last one
+  
+/*
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://www.ableammo.com/analytics/piwik/";
+    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+    _paq.push(["setSiteId", "1"]);
+		_paq.push(['setCookieDomain', '*.ableammo.com']); // Same cookie as: ableammo.com www.ableammo.com
+		_paq.push(['setDomains', '*.ableammo.com']); // Download & Click tracking alias domains
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+*/
+} catch( err ) {}
+ 
+</script>  
+<noscript><p><img src="http://www.ableammo.com/analytics/piwik/piwik.php?idsite=1" style="border:0" alt="" /></noscript>
+  
+<!-- End Piwik Code -->
+
+
+
+
+	
+	<script type="text/javascript">
+		
+		
+		$(document).ready(function() { 
+			
+			
+			var foundOptionsTable = false;
+			var foundSlaveItemHeading = false;
+			$("[optionsTable=1]").each(function(index, obj) {
+				foundOptionsTable = true;
+			});
+			$("[slaveItemHeading=1]").each(function(index, obj) {
+				foundSlaveItemHeading = true;
+			});
+			
+			
+			if(foundOptionsTable || foundSlaveItemHeading) {
+				//Then do NOT modify the functionality of the Order Now button/link.
+			} else {
+				$("#originalOrderNowButton").css("display", "none");
+				$("#directOrderNowButton").css("display", "block");
+			}
+			
+			//console.log("DONE modifying styles");
+		});
+	</script>	
+	
+
+<!-- footer_eof //-->
+<br>
+
+
+</body></html>
