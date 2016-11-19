@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the chroniclelive.co.uk privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514102046id_/http%3A//www.chroniclelive.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chroniclelive.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119152546id_/http%3A//www.chroniclelive.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Chronicle Live: Number one for news, opinion, sport & celebrity gossip
-
-## Privacy Policy
 
 **IN RELATION TO ALL WEB SITE SERVICES OFFERED BY NCJ MEDIA LIMITED HERE ON THIS WEB SITE**
 
