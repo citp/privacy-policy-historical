@@ -1,92 +1,76 @@
-> *The following text is extracted and transformed from the startlocal.com.au privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419145401id_/http%3A//www.startlocal.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startlocal.com.au privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119155358id_/http%3A//www.startlocal.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy: StartLocal® - Australian Business Directory & Business Search Engine
 
 ## Start Local Privacy Policy 
 
-  
-_16/03/2011 Changes - #9, #11 updated._
+**1 INTRODUCTION**
 
-1\. **Our Privacy Policy**
+1.1 This Privacy Policy is the official online privacy policy of Start Local Pty Ltd (ABN 88 120 204 042) (Start Local, we, our, us) and it applies to all Personal Information (as defined in the Privacy Act 1988 (Cth)) collected, stored, used and disseminated by Start Local. This policy is incorporated by reference into Start Local’s Terms of Use that apply to services provided by Start Local. 
 
-This Privacy Policy forms part of the Terms of Use and governs the collection, storage, use and dissemination by Start Local Pty Ltd of any Personal Information (as defined in the Privacy Act 1988 (Cth)) that you provide on our site: www.StartLocal.com.au.
+1.2 In this policy we explain how and why we collect your personal information, how we use it, and what controls you have over our use of it. Start Local is bound by the National Privacy Principles contained in the Privacy Act 1988 (Cth) in relation to the handling of Personal Information and is committed to complying with Commonwealth legislation governing privacy of Personal Information by businesses and to protecting and safeguarding your privacy when you deal with us. 
 
-We are bound by the National Privacy Principles contained in the Privacy Act 1988 (Cth) in relation to the handling of Personal Information.
+1.3 We encourage all site users and customers to refer to the Office of the Australian Information Commissioner’s website at www.oaic.gov.au which contains important information about privacy laws in Australia. 
 
-**2\. What Personal Information we collect**
+**2 Collection and use of information**
 
-  1. **Users** \- We collect information from Users including username, e-mail address and information regarding your activity on the Site and Site password.
-  2. **Local Businesses** \- We collect information from Local Businesses including names, phone numbers, email addresses, identification details, Site password and other information you choose to provide. If you choose to upgrade to a Featured Listing we will ask for credit card information in a secure environment in order to process your monthly payments. 
-  3. **Other** \- We may collect and use certain non-personal information such as the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider to optimise our goods and services to you. 
-  4. We may also acquire business information from other sources, such as from other companies and from other public documents in order to provide users that are searching the site with the most complete and up-to-date information. 
+2.1 Some information provided to us by clients, customers, contractors and other third parties might be considered private or personal. Without these details we would not be able to carry on our business and provide our services to you. We will only collect such Personal Information if it is necessary for one of our functions or activities. We retain the right to use or disclose Personal Information about you that is required in the provision of information about or the promotion or delivery of Start Local and services to the user, such as newsletters, promotional materials or direct marketing campaigns relevant to the services that we offer. We may also disclose your Personal Information to a third party payment processing provider in connection with payment or billing for the provision of services to the user. 
 
+2.2 Personal Information about you may be collected by us from devices or browsers which you use to access our webpages or other webpages, where we keep a record and a copy of your contact with us, where you submit information through web forms, by logging your IP address, collecting GPS data, by use of cookies, by recording phone numbers and email addresses from which you contact us, by any smart phone, browser plugin or other application we use which might collect information from the device or browser used by you and in other ways which rely on technical access to information available from devices and operating systems that you might use. 
 
+2.3 We may also obtain your Personal Information from our affiliates or advertising partners, customers and other third parties that we consider helps us to deliver or advertise our services, understand online activity and collect information that we consider important to managing the quality or content of the services that we deliver. 
 
-**3\. Your access to the Site**
+2.4 By using Start Local’s services and website you consent to us using and disclosing your information both for the purposes for which we have collected it (including by providing your information to a third party payment processing provider in connection with payment or billing for the provision of services to you) and for other purposes related to marketing and advertising our services and the services of other entities with whom we have relationships, including entities that market and promote goods and services unrelated to those which we market and promote. 
 
-The Personal Information we collect from you enables us to operate the Site and provide the content. If you do not provide us with this Personal Information, we may not be able to provide you with full access to the Site. 
+**3 links**
 
-**4\. What we will not do with your Personal Information**
+3.1 Our web site may contain links to other web sites and those third party web sites may collect Personal Information about you. We are not responsible for the privacy practices of other businesses or the content of web sites that are linked to our web site. Start Local encourages users to be aware when they leave the site and to read the privacy statements of each and every web site that collects personally identifiable information. 
 
-We will keep all Personal Information we receive from you confidential and will not sell or knowingly divulge such Personal Information to any third parties, unless: 
+**4 security and storage**
 
-  1. the Personal Information is received from a Local Business as a Listing and the Local Business has requested it be published on the Site; 
-  2. we are required to share your Personal Information with a third party in order to comply with the law or to comply with a court order or subpoena;
-  3. we receive a claim from a third party that you have breached any law; 
-  4. it is necessary to enforce our Site rules; 
-  5. it is necessary to provide it to our third party service providers and contractors, if any, such as data storage providers or direct debit providers who will be subject to strict contractual privacy obligations; or 
-  6. it is necessary to protect the safety and security of our Users and our Site.
-  7. in the event Start Local Pty Ltd goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email of any such change in ownership or control of your personal information. 
+4.1 Start Local places great importance on the security of all information associated with our customers and contractors. We have security measures in place to protect against the loss, misuse and alteration of Personal Information under our control. 
 
+4.2 Personal information is de-identified or destroyed securely when no longer required by us. 
 
+4.3 Start Local retains the information you provide to us including possibly your contact and credit card details to enable us to verify transactions and customer details and to retain adequate records for legal and accounting purposes. This information is held on secure servers in controlled facilities. 
 
-**5\. What we will do with your Personal Information**
+4.4 Information stored within our computer systems can only be accessed by those entrusted with authority and computer network password sanctions. 
 
-The Personal Information collected by Start Local will be used for providing Users with information. We use the Personal Information collected to provide our services to you in the following ways:
+4.5 No data transmission over the Internet can be guaranteed to be 100 per cent secure. As a result, while we strive to protect user's Personal Information, Start Local cannot ensure or warrant the security of any information transmitted to it or from its online products or services, and users do so at their own risk. Once Start Local receives your transmission, it makes every effort to ensure its security on its systems. 
 
-  1. to enable us to provide you with personalised content;
-  2. to enable us to send you email announcements and information on updates to the StartLocal system; and
-  3. to enable us to offer you links to other websites. When clicking on links to other websites, we encourage you to read their own privacy policies. Their standards may differ from ours.
-  4. To enable us to send a confirmation email to Users who wish to post User Recommendations. 
-  5. Send transactional and service related emails to our Local Business customers and process payments for those Local Business customers who have elected to upgrade to a Featured Listing. 
+4.6 Ultimately, you are solely responsible for keeping your passwords and/or account information secret. You should be careful and responsible whenever you are online. 
 
+**5 access to and correction to personal information**
 
+5.1 Start Local is committed to maintaining accurate, timely, relevant and appropriate information about our customers and web-site users. 
 
-**6\. Agents/Service Providers**
+5.2 So long as your request for your Personal Information is in accordance with the National Privacy Principles, then we will give you access to that information. 
 
-We use other third parties such as eWay as a credit card processing company to bill Local Businesses for services and Kampyle to make it easy for users to provide feedback. We will share only what personally identifiable information is necessary for the third party to provide that service.
+5.3 Inaccurate information will be corrected upon receiving advice to this effect from you. To ensure confidentiality, details of your Personal Information will be passed on to you only if we are satisfied that the information relates to you. 
 
-**7\. Links to Other Web Sites**
+5.4 If we refuse to provide you with access or correct the Personal Information held about you by us, then we will provide reasons for such refusal. 
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of Start Local Pty Ltd. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+**6 complaints**
 
-**8\. User Recommendations**
+6.1 If you have a complaint about our Privacy Policy or the collection, use or safe disposal or destruction of your Personal Information, your complaint should be directed in the first instance to us, by calling us on 1300 785 706 or contact us through this form. 
 
-If you choose to post a recommendation for a business it will appear on our site along with your first name. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. If you wish to have a recommendation you have added removed you may call us at 1300 785 706 or [contact us through this form](http://www.startlocal.com.au/contact.html).
+6.2 We will investigate your complaint and attempt to resolve any breach that might have occurred in relation to the collection, use or destruction of Personal Information held by us about you in accordance with the Commonwealth Privacy legislation. If you are not satisfied with the outcome of this procedure then you may request that an independent person (usually the Commonwealth Privacy Officer) investigate your complaint. 
 
-**9\. Public Forums**
+**7 changes to privacy policy**
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us by calling us on 1300 785 706 or [contact us through this form](http://www.startlocal.com.au/contact.html). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+7.1 If Start Local changes its Privacy Policy, it will post changes on this Privacy Policy page so that users are always aware of what information is collected, how it is used and the way in which information may be disclosed. As a result, please remember to refer back to this Privacy Policy regularly to review any amendments. 
 
-**10\. Keeping Personal Information secure**
+**8 CONTACTING US**
 
-We strive to ensure the security, integrity and privacy of your Personal Information. We will use a variety of physical and electronic security measures including restricting physical access to our offices and firewalls and secure databases to keep your Personal Information secure from misuse, loss or unauthorised use or disclosure. The transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can [contact us through this form](http://www.startlocal.com.au/contact.html).
+8.1 If you require further information regarding our Privacy Policy, please contact us on 1300 785 706 or contact us through this form. 
 
-**11\. How you can access, change or delete your Personal Information?**
+8.2 Should you wish to read more information on privacy legislation or the National Privacy Principles we recommend that you visit the Federal Privacy Commissioner's website at privacy@privacy.gov.au. 
 
-The Personal Information we hold about you (such as your name and email address) is kept so that we may correctly identify you. 
+**9 ACCEPTANCE**
 
-You can update this Personal Information at anytime by logging onto the Site. Alternatively, upon your request, we will correct or delete inaccurate or incomplete Personal Information we hold about you by [contacting us through this form](http://www.startlocal.com.au/contact.html).
+9.1 You accept that your use of this site includes your acceptance of this Privacy Policy and the Terms of Use. 
 
-You have a right to get a copy of the Personal Information we hold about you. To request access, please use the [contact form provided](http://www.startlocal.com.au/contact.html). 
-
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
-
-**12\. Cookies** ****
-
-Cookies are pieces of information that a website transfers to your computer's memory or hard disk for record-keeping. We use cookies only to the limited extent of recognising you when you visit the Site, to track usage patterns and deliver customised content to you. However, this information is not linked to any Personal Information that you may provide and cannot be used to identify you.
-
-If you do not want information collected through Cookies, most internet browsers allow you to deny or accept Cookies. 
+**10 Cookies**
 
 Anonymous, non-personally identifiable information about users of our site may be be used to ensure you see relevant/targeted advertising whilst online. You may opt out of this process if you choose by visiting [Your Online Choices](http://www.youronlinechoices.com.au/) which provides an opt-out mechanism.
 
@@ -97,11 +81,3 @@ Google's use of the DART cookie enables it to serve ads to our Users based on th
 We also use third party companies (such as Google Analytics) in order to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.
 
 Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
-
-**13\. Dispute** ****
-
-If you reasonably believe that there has been an unauthorised disclosure of your Personal Information, please contact us by using the [contact form provided](http://www.startlocal.com.au/contact.html) or by mail at Suite 505, 815 Pacific Hwy, Chatswood, NSW, 2067.
-
-**14\. Changes to Privacy Policy**
-
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
