@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the startlocal.com.au privacy policy that was archived on 2016-04-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160419145401id_/http%3A//www.startlocal.com.au/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the startlocal.com.au privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119155358id_/http%3A//www.startlocal.com.au/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Privacy: StartLocal® - Australian Business Directory &amp; Business Search Engine</title>
@@ -7,15 +7,12 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="http://static1.startlocal.com.au/static/favicon.ico">
 <!-- CSS Includes -->
-<link type="text/css" rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/themes/smoothness/jquery-ui.css">
-<link type="text/css" rel="stylesheet" href="http://static2.startlocal.com.au/static/v237/site.min.css">
+<link type="text/css" rel="stylesheet" href="http://static2.startlocal.com.au/static/v256/site.min.css">
 <!--[if IE]><link rel="stylesheet" type="text/css" href="http://static2.startlocal.com.au/static/css/ie.css" /><![endif]-->
 <!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://static2.startlocal.com.au/static/css/ie7.css" /><![endif]-->
 <!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="http://static2.startlocal.com.au/static/css/ie6.css" /><![endif]-->
 <!-- Javascript Includes -->
-<script type="text/javascript" async="" src="https://apis.google.com/js/client:plusone.js?parsetags=explicit&amp;onload=plusoneRender"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js"></script>
-<script type="text/javascript" src="http://static2.startlocal.com.au/static/v248/site.min.js"></script>
-<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.js"></script>
+<script type="text/javascript" async="" src="https://apis.google.com/js/client:plusone.js?parsetags=explicit&amp;onload=plusoneRender"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://static2.startlocal.com.au/static/v268/site.min.js"></script>
 <script type="text/javascript">
 AFSChannel = '';
 isDetailed = false;
@@ -24,46 +21,6 @@ TRACKING = {
  TRK:  false,
  QZTL: false
 };
-$(document).ready(function() {
- /* check form before submit */
- $('.search-form form').each(function() {
- $(this).submit(function() {
- return checkForm(this);
- });
- });
- /* Vote box: using jqModal plugin */
- var $f = $('#jqmodal iframe');
- $('#jqmodal').jqm({
- trigger: 'a[rel="modalbox"]',
- //ajax: '@href', /* Extract ajax URL from the 'href' attribute of triggering element */
- modal: true, /* force focus */
- onShow: function(h) {
- $f.attr('src', h.t);
- if ($(h.t).hasClass('faq')) {
- $('#jqmodal h1').html('Featured Listing FAQ');
- }
- else {
- $('#jqmodal h1').html('Post a Recommendation');
- }
- var top  = parseInt(($(window).height() - h.w.outerHeight()) / 2) + ($(document).scrollTop() || 0);
- var left = parseInt(($(window).width() - h.w.outerWidth()) / 2);
- h.w.css({ opacity: 0.88, left: left + 'px', top: top - 10 + 'px' }).fadeIn('fast');
- },
- onHide: function(h) {
- h.w.fadeOut('normal', function() {
- $f.attr('src', '');
- h.o.remove(); // remove overlay
- }); // hide window
- },
- overlay: 88
- });
- $('body').delegate('a.toggle-more-action', 'click', toggleMoreText);
- $('body').delegate('a.ellipsis-action', 'click', readMoreEllipsis);
- $(document).find('a.help').each(function() {
- $(this).attr('href', 'javascript:void(0);');
- $(this).formTips();
- });
-});
 </script>
 <!--[if lt IE 9]>
 <link rel="stylesheet" type="text/css" href="http://static2.startlocal.com.au/static/css/ie.css" media="screen"/>
@@ -76,16 +33,16 @@ $(document).ready(function() {
 <div id="wrapper">
 <!-- header box -->
 <div id="header">
+<!-- search panel -->
 <strong class="logo"><a href="/" title="go home" accesskey="1">Startlocal Directory</a></strong>
-<a class="accessibility" href="#content" accesskey="S">Skip navigation</a>
-<div class="top-bar">
-<ul class="top-nav">
-</ul>
-<ul class="add-nav">
-<li><a href="#" rel="signin_popup" class="topsep hide link-signin" title="Sign In">Sign In</a></li>
-<li><a href="/get-listed.html" class="link-business" title="Add Your Business Free">Add Your Business Free</a></li>
-</ul>
-<div class="my-account-popup hide">
+<ul id="tab" class="tab clearfix">
+<li><a href="#" rel="three-quotes"><i></i><span>Get 3 Quotes</span></a></li>
+<li class="findbiz selected"><a href="#" rel="find-business"><i></i>Find a Business</a></li>
+<li class="viewdeals"><a href="/deals" rel="find-business"><i></i>View All Deals 19,210</a></li>
+<li class="addbiz"><a href="/get-listed.html"><i></i>Add Your Business Free</a></li>
+<li class="signin">
+<a href="#" rel="signin_popup"><i></i>Sign-in</a>
+<div class="my-account-popup">
 <form action="/cgi-bin/directory/user.cgi" method="post">
 <div>
 <p class="popup_headline">USER PORTAL</p>
@@ -98,19 +55,24 @@ $(document).ready(function() {
 <li><a href="/cgi-bin/directory/modify.cgi?linking_code=1" title="Get Linking Code">Get Linking Code</a></li>
 <li><a href="http://www.startlocal.com.au/socialize/signout" rel="logout" title="Logout">Logout</a></li>
 </ul>
-<a href="#" onclick="$('.my-account-popup').slideUp('fast'); return false;" class="popup_close" title="Close">[close]</a>
+<a href="#" class="popup_close" title="Close">[close]</a>
 <div class="relax"></div>
 </div>
 </form>
 </div>
-</div>
-<!-- search panel -->
+</li>
+</ul>
 <div class="search-panel"> <!-- add .business by js -->
-<div class="search-t"><div class="tl"></div><div class="tr"></div><div class="tc"></div></div>
-<div class="search-l">
-<div class="search-r">
-<div class="search-c">
 <div class="blue-area green business">
+<div id="three-quotes" class="get-quote flowbox">
+<div class="text-holder" style="position: relative">
+<form name="header-get-quote" action="/cgi-bin/directory/hipages.cgi" method="post">
+<input type="text" name="query" title="" placeholder="Get three quotes from qualified home services &amp; renovation providers for..." value="" class="text hicategory" form-data="header-get-quote">
+<input type="submit" value="Get Quotes Now" class="submit" accesskey="4">
+</form>
+</div>
+</div>
+<div id="find-business" class="find-business flowbox selectedbox">
 <form id="header-search-form" action="/cgi-bin/directory/search.cgi" method="get">
 <fieldset>
 <legend class="accessibility">Search form</legend>
@@ -138,13 +100,10 @@ $(document).ready(function() {
 <input type="submit" value="Search" class="submit" accesskey="4">
 </fieldset>
 </form>
+</div>
 <div class="t"><div class="tl"></div><div class="tr"></div></div>
 <div class="b"><div class="bl"></div><div class="br"></div></div>
 </div>
-</div>
-</div>
-</div>
-<div class="search-b"><div class="bl"></div><div class="br"></div><div class="bc"></div></div>
 </div>
 </div>
 <div id="main">
@@ -164,66 +123,45 @@ $(document).ready(function() {
 </style>
 <div class="content-block search-results">
 <h2>Start Local Privacy Policy
-<p><br><em>16/03/2011 Changes - #9, #11 updated.</em></p>
-<p>1. <strong>Our Privacy Policy </strong></p>
-<p>This Privacy Policy forms part of the Terms of Use and governs the  collection, storage, use and dissemination by Start Local Pty Ltd of any  Personal Information (as defined in the Privacy Act 1988 (Cth)) that you  provide on our site: www.StartLocal.com.au.</p>
-<p> We are bound by the National Privacy Principles contained in the Privacy  Act 1988 (Cth) in relation to the handling of Personal Information.</p>
-<p><strong>2. What Personal Information we collect </strong></p>
-<ol style="list-style-type: lower-alpha; font: 11px tahoma; color: #444444; margin: 15px 30px;">
-<li><strong>Users</strong> - We collect information from Users including username, e-mail address and information regarding your activity on the Site and Site password.</li>
-<li> <strong>Local Businesses</strong> - We collect information from Local Businesses including names, phone numbers, email addresses, identification details, Site password and other information you choose to provide. If you choose to upgrade to a Featured Listing we will ask for credit card information in a secure environment in order to process your monthly payments. </li>
-<li><strong>Other</strong> - We may collect and use certain non-personal information such as the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider to optimise our goods and services to you. </li>
-<li>We may also acquire business information from other sources, such as from other companies and from other public documents in order to provide users that are searching the site with the most complete and up-to-date information. </li>
-</ol>
-<p><strong>3. Your  access to the Site </strong></p>
-<p>The Personal Information we collect from you enables us to operate the Site and provide the content. If you do not provide us with this Personal Information, we may not be able to provide you with full access to the Site. </p>
-<p><strong>4. What  we will not do with your Personal Information </strong></p>
-<p>We will keep all Personal Information we receive from you confidential and will not sell or knowingly divulge such Personal Information to any third parties, unless: </p>
-<ol style="list-style-type:lower-alpha; font: 11px tahoma; color: #444444; margin: 15px 30px;">
-<li>the Personal Information is received from a Local Business as a Listing and the Local Business has requested it be published on the Site; </li>
-<li>we are required to share your Personal Information with a third party in order to comply with the law or to comply with a court order or subpoena;</li>
-<li>we receive a claim from a third party that you have breached any law; </li>
-<li> it is necessary to enforce our Site rules; </li>
-<li> it is necessary to provide it to our third party service providers and contractors, if any, such as data storage providers or direct debit providers who will be subject to strict contractual privacy obligations; or </li>
-<li> it is necessary to protect the safety and security of our Users and our Site.</li>
-<li> in the event Start Local Pty Ltd goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred.  You will be notified via email of any such change in ownership or control of your personal information. </li>
-</ol>
-<p><strong>5. What we will do with your Personal  Information </strong></p>
-<p>The Personal Information collected by Start Local will be used for providing Users with information.  We use the Personal Information collected to provide our services to you in the following ways:</p>
-<ol style="list-style-type:lower-alpha; font: 11px tahoma; color: #444444; margin: 15px 30px;">
-<li>	to enable us to provide you with personalised content;</li>
-<li> to enable us to send you email announcements and information on updates to the StartLocal system; and</li>
-<li> to enable us to offer you links to other websites. When clicking on links to other websites, we encourage you to read their own privacy policies. Their standards may differ from ours.</li>
-<li> To enable us to send a confirmation email to Users who wish to post User Recommendations. </li>
-<li> Send transactional and service related emails to our Local Business customers and process payments for those Local Business customers who have elected to upgrade to a Featured Listing. </li>
-</ol>
-<p> <strong>6. Agents/Service Providers</strong></p>
-<p>We use other third parties such as eWay as a credit card processing company to bill Local Businesses for services and Kampyle to make it easy for users to provide feedback. We will share only what personally identifiable information is necessary for the third party to provide that service.</p>
-<p><strong>7. Links to Other Web Sites</strong></p>
-<p>Our Site includes links to other Web sites whose privacy practices may differ from those of Start Local Pty Ltd. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.</p>
-<p><strong>8. User Recommendations</strong></p>
-<p>If you choose to post a recommendation for a business it will appear on  our site along with your first name. You should be aware that any information  you provide in these areas may be read, collected, and used by others who  access them. If you wish to have a recommendation you have added removed you  may call us at 1300 785 706  or <a href="http://www.startlocal.com.au/contact.html">contact us through this form</a>.</p>
-<p><strong>9. Public Forums</strong></p>
-<p>Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us by calling us on 1300 785 706 or <a href="http://www.startlocal.com.au/contact.html">contact us through this form</a>. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
-<p><strong>10. Keeping Personal Information secure</strong></p>
-<p>We strive to ensure the security, integrity and privacy of your Personal  Information. We will use a variety of physical and electronic security measures  including restricting physical access to our offices and firewalls and secure  databases to keep your Personal Information secure from misuse, loss or  unauthorised use or disclosure. The transmission of sensitive information  collected on our order form is encrypted using secure socket layer technology  (SSL). Unfortunately, no data transmission over the Internet can be guaranteed  to be totally secure. Therefore, we cannot guarantee its absolute security. If  you have any questions about security on our Web site, you can <a href="http://www.startlocal.com.au/contact.html">contact us through this form</a>.</p>
-<p><strong>11. How you can access, change or delete your Personal Information? </strong></p>
-<p>The Personal Information we hold about you (such as your name and email  address) is kept so that we may correctly identify you. </p>
-<p> You can update this Personal Information at anytime by logging onto the  Site. Alternatively, upon your request, we will correct or delete inaccurate or  incomplete Personal Information we hold about you by <a href="http://www.startlocal.com.au/contact.html">contacting us through this  form</a>.</p>
-<p>You have a right to  get a copy of the Personal Information we hold about you. To request access,  please use the <a href="http://www.startlocal.com.au/contact.html">contact form  provided</a>. </p>
-<p>We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. </p>
-<p><strong>12. Cookies</strong><strong> </strong></p>
-<p>Cookies are pieces of information that a website transfers to your  computer's memory or hard disk for record-keeping. We use cookies only to the  limited extent of recognising you when you visit the Site, to track  usage patterns and deliver customised content to you.  However, this  information is not linked to any Personal Information that you may provide and  cannot be used to identify you.</p>
-<p>If you do not want information collected through Cookies, most internet  browsers allow you to deny or accept Cookies. </p>
+<p><b>1 INTRODUCTION</b></p>
+<p>1.1  This Privacy Policy is the official online privacy policy of Start Local Pty Ltd (ABN 88 120 204 042) (Start Local, we, our, us) and it applies to all Personal Information (as defined in the Privacy Act 1988 (Cth)) collected, stored, used and disseminated by Start Local. This policy is incorporated by reference into Start Local’s Terms of Use that apply to services provided by Start Local.
+</p><p>1.2  In this policy we explain how and why we collect your personal information, how we use it, and what controls you have over our use of it. Start Local is bound by the National Privacy Principles contained in the Privacy Act 1988 (Cth) in relation to the handling of Personal Information and  is committed to complying with Commonwealth legislation governing privacy of Personal Information by businesses and to protecting and safeguarding your privacy when you deal with us.
+</p><p>1.3  We encourage all site users and customers to refer to the Office of the Australian Information Commissioner’s website at www.oaic.gov.au which contains important information about privacy laws in Australia.
+</p><p><b>2 Collection and use of information</b></p>
+<p>2.1  Some information provided to us by clients, customers, contractors and other third parties might be considered private or personal. Without these details we would not be able to carry on our business and provide our services to you. We will only collect such Personal Information if it is necessary for one of our functions or activities. We retain the right to use or disclose Personal Information about you that is required in the provision of information about or the promotion or delivery of Start Local and services to the user, such as newsletters, promotional materials or direct marketing campaigns relevant to the services that we offer. We may also disclose your Personal Information to a third party payment processing provider in connection with payment or billing for the provision of services to the user.
+</p><p>2.2  Personal Information about you may be collected by us from devices or browsers which you use to access our webpages or other webpages, where we keep a record and a copy of your contact with us, where you submit information through web forms, by logging your IP address, collecting GPS data, by use of cookies, by recording phone numbers and email addresses from which you contact us, by any smart phone, browser plugin or other application we use which might collect information from the device or browser used by you and in other ways which rely on technical access to information available from devices and operating systems that you might use.
+</p><p>2.3  We may also obtain your Personal Information from our affiliates or advertising partners, customers and other third parties that we consider helps us to deliver or advertise our services, understand online activity and collect information that we consider important to managing the quality or content of the services that we deliver.
+</p><p>2.4  By using Start Local’s services and website you consent to us using and disclosing your information both for the purposes for which we have collected it (including by providing your information to a third party payment processing provider in connection with payment or billing for the provision of services to you) and for other purposes related to marketing and advertising our services and the services of other entities with whom we have relationships, including entities that market and promote goods and services unrelated to those which we market and promote.
+</p><p><b>3 links</b></p>
+<p>3.1  Our web site may contain links to other web sites and those third party web sites may collect Personal Information about you. We are not responsible for the privacy practices of other businesses or the content of web sites that are linked to our web site. Start Local encourages users to be aware when they leave the site and to read the privacy statements of each and every web site that collects personally identifiable information.
+</p><p><b>4 security and storage</b></p>
+<p>4.1  Start Local places great importance on the security of all information associated with our customers and contractors. We have security measures in place to protect against the loss, misuse and alteration of Personal Information under our control.
+</p><p>4.2  Personal information is de-identified or destroyed securely when no longer required by us.
+</p><p>4.3  Start Local retains the information you provide to us including possibly your contact and credit card details to enable us to verify transactions and customer details and to retain adequate records for legal and accounting purposes. This information is held on secure servers in controlled facilities.
+</p><p>4.4  Information stored within our computer systems can only be accessed by those entrusted with authority and computer network password sanctions.
+</p><p>4.5  No data transmission over the Internet can be guaranteed to be 100 per cent secure. As a result, while we strive to protect user's Personal Information, Start Local cannot ensure or warrant the security of any information transmitted to it or from its online products or services, and users do so at their own risk. Once Start Local receives your transmission, it makes every effort to ensure its security on its systems.
+</p><p>4.6  Ultimately, you are solely responsible for keeping your passwords and/or account information secret. You should be careful and responsible whenever you are online.
+</p><p><b>5 access to and correction to personal information</b></p>
+<p>5.1  Start Local is committed to maintaining accurate, timely, relevant and appropriate information about our customers and web-site users.
+</p><p>5.2  So long as your request for your Personal Information is in accordance with the National Privacy Principles, then we will give you access to that information.
+</p><p>5.3  Inaccurate information will be corrected upon receiving advice to this effect from you. To ensure confidentiality, details of your Personal Information will be passed on to you only if we are satisfied that the information relates to you.
+</p><p>5.4  If we refuse to provide you with access or correct the Personal Information held about you by us, then we will provide reasons for such refusal.
+</p><p><b>6 complaints</b></p>
+<p>6.1  If you have a complaint about our Privacy Policy or the collection, use or safe disposal or destruction of your Personal Information, your complaint should be directed in the first instance to us, by calling us on 1300 785 706 or&nbsp;contact us through this form.
+</p><p>6.2  We will investigate your complaint and attempt to resolve any breach that might have occurred in relation to the collection, use or destruction of Personal Information held by us about you in accordance with the Commonwealth Privacy legislation. If you are not satisfied with the outcome of this procedure then you may request that an independent person (usually the Commonwealth Privacy Officer) investigate your complaint.
+</p><p><b>7 changes to privacy policy</b></p>
+<p>7.1  If Start Local changes its Privacy Policy, it will post changes on this Privacy Policy page so that users are always aware of what information is collected, how it is used and the way in which information may be disclosed. As a result, please remember to refer back to this Privacy Policy regularly to review any amendments.
+</p><p><b>8 CONTACTING US</b></p>
+<p>8.1  If you require further information regarding our Privacy Policy, please contact us on 1300 785 706 or&nbsp;contact us through this form.
+</p><p>8.2  Should you wish to read more information on privacy legislation or the National Privacy Principles we recommend that you visit the Federal Privacy Commissioner's website at&nbsp;privacy@privacy.gov.au.
+</p><p><b>9 ACCEPTANCE</b></p>
+<p>9.1  You accept that your use of this site includes your acceptance of this Privacy Policy and the Terms of Use.
+</p><p><b>10 Cookies </b></p>
 <p>Anonymous, non-personally identifiable information about users of our site may be be used to ensure you see relevant/targeted advertising whilst online. You may opt out of this process if you choose by visiting <a href="http://www.youronlinechoices.com.au/">Your Online Choices</a> which provides an opt-out mechanism.</p>
 <p>Google, as a third party vendor, uses cookies to serve ads on Start  Local.</p>
 <p>Google's use of the DART cookie enables it to serve ads to our Users  based on their visits to Start Local and other sites on the Internet.</p>
 <p>We also use third party companies (such as Google Analytics) in order to  collect non-personally identifiable information to compile aggregated statistics  for us about visitors to our site.</p>
 <p>Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html" target="_blank">Google ad and  content network privacy policy</a>.</p>
-<p><strong>13. Dispute</strong><strong> </strong></p>
-<p>If you reasonably believe that there has been an unauthorised disclosure  of your Personal Information, please contact us by using the <a href="http://www.startlocal.com.au/contact.html">contact form provided</a> or  by mail at Suite 505,  815 Pacific Hwy,  Chatswood, NSW, 2067.</p>
-<p><strong>14. Changes  to Privacy Policy</strong></p>
-<p>We  may update this privacy statement to reflect changes to our information  practices. If we make any material changes we will notify you by email (sent to  the e-mail address specified in your account) or by means of a notice on this Site  prior to the change becoming effective. We encourage you to periodically review  this page for the latest information on our privacy practices.</p>
 </h2></div>
 <div class="main-t">
 <div class="tl"></div>
@@ -233,242 +171,70 @@ $(document).ready(function() {
 </div>
 <!-- footer holder -->
 <div class="footer-holder">
-<div class="footer-holder2">
 <div id="footer">
-<div class="bar">
-<div class="col-l">
-<div class="two-cols">
-<div class="col results-box"> <!-- shoppers box -->
-<div class="t"><div class="tl"></div><div class="tr"></div><div class="tc"></div></div>
-<div class="l">
-<div class="r">
-<div class="c">
-<h3 class="savy_shopper">Are you a savvy shopper?</h3>
-<!-- totals -->
-<div class="totals">
-<a href="/deals/">
-<strong>19162</strong>
-<span>Total Active Deals</span>
-</a>
-</div>
-<!-- details -->
-<div class="details">
-<ul class="long">
-<li class="dailydeals">
-<a href="/deals/dailydeals" class="active-dailydeals">
-<strong>2765</strong>
-<span>Active Daily Deals</span>
-</a>
-</li>
-</ul>
-<div class="relax"></div>
+<div class="grid">
+<div class="col-1-3">
+<div class="content-holder why">
+<h3>Business Owner?</h3>
+<h4>Here's why you should be on StartLocal</h4>
 <ul>
-<li>
-<a href="/deals/sales" class="active-sales">
-<strong>980</strong>
-<span>Active Sales</span>
-</a>
-</li><li>
-<a href="/deals/coupons" class="active-coupons">
-<strong>53</strong>
-<span>Active Coupons</span>
-</a>
-</li><li>
-<a href="/deals/freestuff" class="active-freebies">
-<strong>157</strong>
-<span>Active Freebies</span>
-</a>
-</li><li>
-<a href="/deals/discounts" class="active-bargains">
-<strong>15207</strong>
-<span>Active Discounts</span>
-</a>
-</li>
+<li><span class="arrow"></span><span>Get in front of 20 million+ targeted customers today.</span></li>
+<li><span class="arrow"></span><span>Attract more customers by advertising your sales.</span></li>
+<li><span class="arrow"></span><span>It's free for a basic, full-featured listing in your own suburb.</span></li>
+<li><span class="arrow"></span><span>It's inexpensive to get coverage in your entire region.</span></li>
 </ul>
+<div class="actions">
+<a href="/get-listed.html" class="btn-b">Register Free Now</a><br>
+<!--
+<a href="#" rel="signin_popup" class="btn-b">Login</a>
+ -->
 </div>
 </div>
 </div>
-</div>
-<div class="b"><div class="bl"></div><div class="br"></div><div class="bc"></div></div>
-</div>
-<div class="col map-box"> <!-- map box -->
-<div class="t"><div class="tl"></div><div class="tr"></div><div class="tc"></div></div>
-<div class="l">
-<div class="r">
-<div class="c">
-<h3>Cities</h3>
-<div class="map-holder">
-<img src="/static/images/deals/map01.png" width="165" height="157" alt="image description">
-<div class="point position-adelaide">
-<a href="#">Adelaide</a>
-<div class="icon">
-<div class="tooltip">
-<div class="tooltip-l">
-<div class="tooltip-r">
-<div class="tooltip-c">
-<strong>1567 Active Deals</strong>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="point position-brisbane">
-<a href="#">Brisbane</a>
-<div class="icon">
-<div class="tooltip">
-<div class="tooltip-l">
-<div class="tooltip-r">
-<div class="tooltip-c">
-<strong>2930 Active Deals</strong>
+<div class="col-2-3">
+<div class="col-2-3">
+<div class="content-holder popular-items clearfix">
+<h3>Most Popular Categories</h3><ul>
+<li><a href="/home/airconditioningandheatingservices/">Air Conditioning</a></li>
+<li><a href="/other/beautysalon/">Beauty Salons</a></li>
+<li><a href="/services/builders/">Builders</a></li>
+<li><a href="/auto/wreckers/">Car and Auto Wreckers</a></li>
+<li><a href="/auto/mechanics/">Car Service and Mechanics</a></li>
+<li><a href="/home/concretingservices/">Concreting Services</a></li></ul><ul>
+<li><a href="/health/dentists/">Dentists</a></li>
+<li><a href="/fitness/doctor/">Doctors and Medical Centres</a></li>
+<li><a href="/services/electrician/">Electricians</a></li>
+<li><a href="/home/gardening/">Gardening Services</a></li>
+<li><a href="/personal/hairdressers/">Hairdressers</a></li>
+<li><a href="/recreation/massage/">Massage Therapists</a></li></ul><ul>
+<li><a href="/services/painters/">Painters</a></li>
+<li><a href="/home/pestcontrol/">Pest Control</a></li>
+<li><a href="/services/plumbers/">Plumbers</a></li>
+<li><a href="/health/psychology/">Psychology and Counselling</a></li>
+<li><a href="/home/tilingcarpetingservices/">Tilers</a></li>
+<li><a href="/retail/womensclothing/">Women's Clothing Shops</a></li></ul>
 </div>
 </div>
-</div>
-</div>
-</div>
-</div>
-<div class="point position-darwin">
-<a href="#">Darwin</a>
-<div class="icon">
-<div class="tooltip">
-<div class="tooltip-l">
-<div class="tooltip-r">
-<div class="tooltip-c">
-<strong>358 Active Deals</strong>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="point position-hobart">
-<a href="#">Hobart</a>
-<div class="icon">
-<div class="tooltip">
-<div class="tooltip-l">
-<div class="tooltip-r">
-<div class="tooltip-c">
-<strong>449 Active Deals</strong>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="point position-melbourne">
-<a href="#">Melbourne</a>
-<div class="icon">
-<div class="tooltip">
-<div class="tooltip-l">
-<div class="tooltip-r">
-<div class="tooltip-c">
-<strong>4545 Active Deals</strong>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="point position-perth">
-<a href="#">Perth</a>
-<div class="icon">
-<div class="tooltip">
-<div class="tooltip-l">
-<div class="tooltip-r">
-<div class="tooltip-c">
-<strong>1885 Active Deals</strong>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="point position-sydney">
-<a href="#">Sydney</a>
-<div class="icon">
-<div class="tooltip">
-<div class="tooltip-l">
-<div class="tooltip-r">
-<div class="tooltip-c">
-<strong>4659 Active Deals</strong>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="point position-act">
-<a href="#">Canberra</a>
-<div class="icon">
-<div class="tooltip">
-<div class="tooltip-l">
-<div class="tooltip-r">
-<div class="tooltip-c">
-<strong>903 Active Deals</strong>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="b"><div class="bl"></div><div class="br"></div><div class="bc"></div></div>
-</div>
-</div>
-</div>
-<div class="col-r">
-<div class="col-1">
-<h3>Help</h3>
+<div class="col-1-3">
+<div class="content-holder">
+<h3>Get Help</h3>
 <ul>
-<li><a href="/find_businesses.html" title="How to Search">How to Search</a></li>
-<li><a href="/vote_businesses.html" title="What is Voting">What is Voting</a></li>
+<li><a href="/hi-getquotes/">How to get a quote</a></li>
+<li><a href="/find_businesses.html" title="How to Search">How to search</a></li>
+<li><a href="/vote_businesses.html" title="What is Voting">What is voting?</a></li>
 <li><a href="/help.html" title="Help / FAQ" accesskey="5">Help / FAQ</a></li>
 <li><a href="/categorymap.html" title="Full Category Map">Full Category Map</a></li>
-<li><a href="/articles.html" title="Articles, Hints &amp; Tips">Articles, Hints &amp; Tips</a></li>
-</ul>
-<h3>Terms</h3>
-<ul>
+<li><a href="/articles.html" title="Articles, Hints &amp; Tips">Articles, Hints, Tips</a></li>
+<li class="terms"><a href="/termsofuse.html" title="Terms of Use">Terms of Use</a></li>
 <li><a href="/privacy.html" title="Privacy">Privacy</a></li>
-<li><a href="/termsofuse.html" title="Terms of Use" accesskey="8">Terms of Use</a></li>
 <li><a href="/contact.html" title="Contact Us">Contact Us</a></li>
 </ul>
-<h3>Follow Us</h3>
-<ul>
-<li><a href="http://www.facebook.com/startlocal" target="_blank" class="link-facebook" title="Be a fan on facebook">Be a fan on facebook</a></li>
-<li><a href="http://twitter.com/startlocal" class="link-twitter" title="Follow on twitter">Follow on twitter</a></li>
-<div style="margin-top: 10px; float:left;">
-<iframe src="//www.facebook.com/plugins/like.php?app_id=137959189616446&amp;href=http%3A%2F%2Fwww.facebook.com%2Fstartlocal&amp;send=false&amp;layout=box_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=tahoma&amp;height=90" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:90px;" allowtransparency="true"></iframe>
 </div>
-<div style="margin-top: 10px; float:left;">
-<div class="g-plusone" data-size="tall" data-href="http://www.startlocal.com.au"></div>
-</div>
-</ul>
-</div>
-<div class="col-2">
-<h3>Savvy Shoppers</h3>
-<ul class="bullet-list">
-<li>Instantly find all your local sales</li>
-<li>Get notified when your favourite stores have a sale</li>
-<li>Get coupons, discounts &amp; free stuff sent to you</li>
-</ul>
-<a href="/deals/" class="btn" title="Show Me The Sales"><span>Show Me The Sales</span></a>
-<h3>Business Owners</h3>
-<ul class="bullet-list">
-<li>Advertise on the StartLocal business directory</li>
-<li>Attract more customers by advertising your sales</li>
-<li>Get in front of 20 million+ targeted customers today</li>
-</ul>
-<a href="/get-listed.html" class="btn" title="Add My Business Now"><span>Add My Business Now</span></a>
 </div>
 </div>
 </div>
 <div class="bottom-bar">
-<p>Copyright © 2006-2015 StartLocal® Pty Ltd - Your Local Search Engine and Australian Business Directory. All rights reserved.</p>
-<script>if(typeof(pageOptions) !== 'undefined') document.write('<p style="font-size:9px">' + pageOptions.pubId + ' - ' + pageOptions.channel + '</p>');</script>
-</div>
+<p>Copyright © 2006-2016 StartLocal® Pty Ltd - Your Local Search Engine and Australian Business Directory. All rights reserved.</p>
 </div>
 </div>
 </div>
@@ -480,8 +246,8 @@ $(document).ready(function() {
 <div class="social-content">
 <p>Sign in using your account with</p>
 <p>
-<a id="fbLoginButton" href="#"><img style="height: 46px;" src="http://static2.startlocal.com.au/static/images/fb-signin.png"></a>
-<a id="googleLoginButton" href="#"><img style="height: 46px" src="http://static2.startlocal.com.au/static/images/gplus-signin-medium-red.png"></a>
+<a id="fbLoginButton" href="#"><img src="http://static2.startlocal.com.au/static/images/fb-signin.png" width="160" height="54"></a>
+<a id="googleLoginButton" href="#"><img src="http://static2.startlocal.com.au/static/images/gplus-signin-medium-red.png" width="160" height="54"></a>
 </p>
 <p class="js-reset-text" style="font-size: 10px">Don't see your provider? Click "Forgot your password" below, enter your email<br> address in the form and we'll send you a password reset email.</p>
 </div>
@@ -588,11 +354,140 @@ $(document).ready(function() {
 </div>
 <div class="leaderboard">
 <a alt="Leaderboard" href="/leaderboard/">
-<img src="http://static1.startlocal.com.au/static/images/common/icons/leaderboard.png">
+<img src="http://static2.startlocal.com.au/static/images/common/icons/leaderboard.png" width="22" height="28">
 <span>Leaderboard</span>
 </a>
 </div>
 </div>
+</div>
+<div id="bot_footer"></div>
+<script type="text/javascript">
+Startlocal.doInit({
+ cgi_base_url: '/cgi-bin/directory',
+ static_url: 'http://static2.startlocal.com.au/static'
+});
+var nearby_businesses = {};
+$(document).ready(function() {
+ /* social sign in */
+ Startlocal.Signin.setCfg({
+ 'google_client_id': '43149397545-s7dfam1sh3uivq7fq1tkcevoau43l84d.apps.googleusercontent.com',
+ 'cookie_policy': 'http://startlocal.com.au',
+ 'reg_form': false,
+ 'gotoUserPortal': false
+ });
+ if ($('a[rel=signin_popup]').length == 1) {
+ Startlocal.Signin.init(
+ 'social-popup',
+ { trigger: 'a[rel=signin_popup]' },
+ undefined
+ ,{ success: Startlocal.Signin.userPortalRedirect }
+ );
+ }
+ /* user portal */
+ $('.my-account-popup .popup_close').click(function() {
+ $('.my-account-popup').slideUp('fast');
+ return false;
+ });
+ $('input[placeholder]').placeholder();
+ // Deal voting - can be on nearly every page
+ Startlocal.Social.Item.Vote.init();
+ // Review/comment voting could be most anywhere too
+ Startlocal.Review.Vote.init();
+ // Header search form
+ Startlocal.Directory.Search.init();
+ // HiCategory predictive text
+ Startlocal.HiPage.init();
+ // Trackviews
+ var fl = location.search.match(/\?fl=1;?/) ? true : false;
+ freeTrackViews(fl);
+ premiumTrackViews();
+ window.fbAsyncInit = function() {
+ FB.init({
+ appId : '138717129487187',
+ status : false, // check login status
+ cookie : true, // enable cookies to allow the server to access the session
+ xfbml : true // parse XFBML
+ });
+ };
+ (function() {
+ var e = document.createElement('script');
+ e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+ e.async = true;
+ document.getElementById('fb-root').appendChild(e);
+ }());
+ /* check form before submit */
+ $('.search-form form').each(function() {
+ $(this).submit(function() {
+ return checkForm(this);
+ });
+ });
+ /* main tabs: "Get 3 Quotes" and "Find a Business" */
+ /* Vote box: using jqModal plugin */
+ var $f = $('#jqmodal iframe');
+ $('#jqmodal').jqm({
+ trigger: 'a[rel="modalbox"]',
+ //ajax: '@href', /* Extract ajax URL from the 'href' attribute of triggering element */
+ modal: true, /* force focus */
+ onShow: function(h) {
+ $f.attr('src', h.t);
+ if ($(h.t).hasClass('faq')) {
+ $('#jqmodal h1').html('Featured Listing FAQ');
+ }
+ else {
+ $('#jqmodal h1').html('Post a Recommendation');
+ }
+ var top  = parseInt(($(window).height() - h.w.outerHeight()) / 2) + ($(document).scrollTop() || 0);
+ var left = parseInt(($(window).width() - h.w.outerWidth()) / 2);
+ h.w.css({ opacity: 0.88, left: left + 'px', top: top - 10 + 'px' }).fadeIn('fast');
+ },
+ onHide: function(h) {
+ h.w.fadeOut('normal', function() {
+ $f.attr('src', '');
+ h.o.remove(); // remove overlay
+ }); // hide window
+ },
+ overlay: 88
+ });
+ $('body').delegate('a.toggle-more-action', 'click', toggleMoreText);
+ $('body').delegate('a.ellipsis-action', 'click', readMoreEllipsis);
+ $(document).find('a.help').each(function() {
+ $(this).attr('href', 'javascript:void(0);');
+ $(this).formTips();
+ });
+ // business profile map and nearby businesses
+/*
+ Map.show({ loc: { lat: business_location.lat, lng: business_location.lng } });
+ Map.addMarkers(nearby_businesses);
+ */
+});
+</script>
+<script type="text/javascript" src="https://s3.amazonaws.com/assets.freshdesk.com/widget/freshwidget.js"></script>
+<script type="text/javascript">
+FreshWidget.init("", {"queryString": "&widgetType=popup&formTitle=Get+support+or+send+feedback+to+the+StartLocal+support+team+-+How+are+we+doing%3F&submitThanks=Thanks!+We've+received+your+message+and+we'll+get+back+to+you+as+soon+as+possible.+Remember+that+you+just+sent+a+message+directly+to+the+support+team+at+StartLocal.+If+you+wanted+to+get+in+touch+with+a+specific+business+then+you+can+fill+in+the+contact+form+on+their+business+profile+page+or+just+give+them+a+call.&searchArea=no", "widgetType": "popup", "buttonType": "text", "buttonText": "Support & Feedback", "buttonColor": "white", "buttonBg": "#648f00", "alignment": "4", "offset": "400px", "submitThanks": "Thanks! We've received your message and we'll get back to you as soon as possible. Remember that you just sent a message directly to the support team at StartLocal. If you wanted to get in touch with a specific business then you can fill in the contact form on their business profile page or just give them a call.", "formHeight": "500px", "url": "https://startlocal.freshdesk.com"} );
+</script>
+<script type="text/javascript">
+try {
+ var _gaq = _gaq || [];
+ _gaq.push(['_setAccount', 'UA-6650368-1']);
+ _gaq.push(['_trackPageview']);
+ (function() {
+ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
+} catch(err) {}
+</script>
+<!-- Google Plus -->
+<script>
+ window.___gcfg = { parsetags: 'explicit' };
+</script>
+<script type="text/javascript">
+ (function() {
+ var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+ po.src = 'https://apis.google.com/js/client:plusone.js?parsetags=explicit&onload=plusoneRender';
+ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+ })();
+</script>
 <script type="text/javascript">
 $(function() {
  var snseen = $.cookie("slideseen"),
@@ -621,88 +516,6 @@ if(document.location.protocol=='http:'){
  var Tynt=Tynt||[];Tynt.push('dQ_Pmu0iGr4ztOacwqm_6l');Tynt.i={"ap":"Read more:"};
  (function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
 }
-</script>
-<script type="text/javascript">
-try {
- var _gaq = _gaq || [];
- _gaq.push(['_setAccount', 'UA-6650368-1']);
- _gaq.push(['_trackPageview']);
- (function() {
- var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
- ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
- var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
- })();
-} catch(err) {}
-</script>
-<script type="text/javascript" src="https://s3.amazonaws.com/assets.freshdesk.com/widget/freshwidget.js"></script>
-<script type="text/javascript">
-FreshWidget.init("", {"queryString": "&widgetType=popup&formTitle=Get+support+or+send+feedback+to+the+StartLocal+support+team+-+How+are+we+doing%3F&submitThanks=Thanks!+We've+received+your+message+and+we'll+get+back+to+you+as+soon+as+possible.+Remember+that+you+just+sent+a+message+directly+to+the+support+team+at+StartLocal.+If+you+wanted+to+get+in+touch+with+a+specific+business+then+you+can+fill+in+the+contact+form+on+their+business+profile+page+or+just+give+them+a+call.&searchArea=no", "widgetType": "popup", "buttonType": "text", "buttonText": "Support & Feedback", "buttonColor": "white", "buttonBg": "#648f00", "alignment": "4", "offset": "400px", "submitThanks": "Thanks! We've received your message and we'll get back to you as soon as possible. Remember that you just sent a message directly to the support team at StartLocal. If you wanted to get in touch with a specific business then you can fill in the contact form on their business profile page or just give them a call.", "formHeight": "500px", "url": "https://startlocal.freshdesk.com"} );
-</script>
-<!-- Google Plus -->
-<script>
- window.___gcfg = { parsetags: 'explicit' };
-</script>
-<script type="text/javascript">
- (function() {
- var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
- po.src = 'https://apis.google.com/js/client:plusone.js?parsetags=explicit&onload=plusoneRender';
- var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
- })();
-</script>
-<script type="text/javascript">var switchTo5x=true;</script>
-<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-<script type="text/javascript">stLight.options({publisher: "25f40d85-828f-478d-a62b-ea3aa45ccfaf", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-<!-- loadup -->
-</div>
-<div id="bot_footer"></div>
-<script type="text/javascript">
-Startlocal.doInit({
- cgi_base_url: '/cgi-bin/directory',
- static_url: 'http://static1.startlocal.com.au/static'
-});
-var nearby_businesses = {};
-$(document).ready(function() {
- /* social sign in */
- Startlocal.Signin.setCfg({
- 'google_client_id': '43149397545-s7dfam1sh3uivq7fq1tkcevoau43l84d.apps.googleusercontent.com',
- 'cookie_policy': 'http://startlocal.com.au',
- 'reg_form': false,
- 'gotoUserPortal': false
- });
- if ($('a[rel=signin_popup]').length == 1) {
- Startlocal.Signin.init(
- 'social-popup',
- { trigger: 'a[rel=signin_popup]' },
- undefined
- ,{ success: Startlocal.Signin.userPortalRedirect }
- );
- }
- $('input[placeholder]').placeholder();
- // Deal voting - can be on nearly every page
- Startlocal.Social.Item.Vote.init();
- // Review/comment voting could be most anywhere too
- Startlocal.Review.Vote.init();
- // Header search form
- Startlocal.Directory.Search.init();
- // Trackviews
- var fl = location.search.match(/\?fl=1;?/) ? true : false;
- freeTrackViews(fl);
- premiumTrackViews();
- window.fbAsyncInit = function() {
- FB.init({
- appId : '138717129487187',
- status : false, // check login status
- cookie : true, // enable cookies to allow the server to access the session
- xfbml : true // parse XFBML
- });
- };
- (function() {
- var e = document.createElement('script');
- e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
- e.async = true;
- document.getElementById('fb-root').appendChild(e);
- }());
-});
 </script>
 
 
