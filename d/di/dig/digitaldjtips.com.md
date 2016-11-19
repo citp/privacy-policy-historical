@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the digitaldjtips.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607233537id_/https%3A//www.digitaldjtips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaldjtips.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119171043id_/http%3A//www.digitaldjtips.com/privacy-policy-terms-conditions) for the most accurate reproduction.*
 
-# Privacy Policy - Digital DJ Tips
+# Privacy Policy / Terms & Conditions - Digital DJ Tips
 
-**What information do we collect?**
+## 1\. Privacy Policy
+
+ **What information do we collect?**
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form.
 
@@ -69,3 +71,29 @@ If we decide to change our privacy policy, we will post those changes on this pa
  **Contacting us**
 
 If there are any questions regarding this privacy policy you may contact us via info AT digitaldjtips DOT com.
+
+## 2\. Terms & Conditions
+
+ **Acceptance of terms**
+
+By accessing, downloading, installing, or using the Digital DJ Tips Services, whether or not you become a registered user (“User”, “You”, “Yourself”, “Your”), You agree to be bound by these Terms, which You acknowledge that You have read and understood.
+
+We reserve the right, at Our sole discretion, to change, modify or otherwise alter these Terms at any time. You must review these Terms at http://www.digitaldjtips.com/privacy-policy/ on a regular basis to keep Yourself informed of any changes.
+
+ **Non-Subscription Digital Products**
+
+You have 12 months from the date of the original purchase to request a refund for any non-subscription Digital DJ Tips product. Any refund request after the time limit will not be processed. Refunds can only be processed back to the card or PayPal account used to make the purchase initially.
+
+ **Subscription Digital Products**
+
+Your Digital DJ Tips membership, which may start with a free trial, will continue month-to-month unless and until you cancel your membership or we terminate it. You must have internet access and provide us with a current, valid, accepted method of payment to use the service. We will bill the monthly membership fee to the payment method used when signing up unless updated or changed by subscriber. You must cancel your membership before it renews each month in order to avoid billing of the next month’s membership fees to your payment method.
+
+ _Trial Subscriptions:_ Your membership may start with a trial. The trial period of your membership lasts for 30 days, or as otherwise specified during sign-up. For combinations with other offers, restrictions may apply. Trials are for new and certain former members only. Digital DJ Holdings Ltd reserves the right, in its absolute discretion, to determine your trial eligibility.
+
+ _Monthly Subscriptions:_ You have 30 days from the date of the original purchase to request a refund for your Digital DJ Tips monthly subscription. Any refund request after the time limit will not be processed. You may cancel at any time after the initial 30 days has passed.
+
+ _Yearly Subscriptions:_ For yearly subscription purchases, you have THIRTY (30) Days from the date of the original purchase to request a refund for your Digital DJ Tips yearly subscription. Any refunds requests after 30 days will be prorated by the amount of time remaining under the original yearly subscription period. Example: If you purchase a yearly subscription in January of this year and you decide you want a refund 6 months from the purchase date, youre prorated refund would be 50% of the purchase price.
+
+ **Your Account**
+
+You agree to provide accurate and complete information when you register with, and as you use, the Digital DJ Tips Services, and you agree to update your account information to keep it accurate and complete. You agree that we may store and use the information you provide for use in maintaining and billing fees to your Account.
