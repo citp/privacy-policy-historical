@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponfollow.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605014040id_/http%3A//couponfollow.com/docs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponfollow.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119080007id_/http%3A//couponfollow.com/docs/privacy-policy) for the most accurate reproduction.*
 
 # None
 
