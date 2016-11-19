@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the legrand.us privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405085857id_/http%3A//www.legrand.us/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legrand.us privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119113735id_/http%3A//www.legrand.us/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy | by Legrand
+# Privacy | Legrand
 
 #### Privacy Policy
 
-Your privacy is important to Legrand North America, Inc. (LNA). This statement discloses the information practices for LNA Web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. LNA Web sites include any and all Web sites of LNA's related companies, including but not limited to Cablofil Inc., Ortronics, Inc., Legrand Home Systems, Inc. (formerly OnQ Inc. and Vantage Controls, Inc.), Legrand Canada, Inc., The Watt Stopper, Inc., The Wiremold Company, and BTicino US.
+Your privacy is important to Legrand North America, LLC (LNA). This statement discloses the information practices for LNA Web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. LNA Web sites include any and all Web sites of LNA's related companies, including but not limited to Cablofil Inc., Ortronics, Inc., Legrand Home Systems, Inc. (formerly OnQ Inc. and Vantage Controls, Inc.), Legrand Canada, Inc., The Watt Stopper, Inc., The Wiremold Company, and BTicino US.
 
 ##### Personal information
 
@@ -106,4 +106,4 @@ If you wish to obtain a copy of particular information you provided to LNA, or i
 
 Before LNA is able to provide you with any information or correct any inaccuracies, however, we may ask you to verify your identity and to provide other details to help us to respond to your request. We will contact you within 30 days your request. 
 
-This Web site is maintained by the Legrand North America, Inc.
+This Web site is maintained by the Legrand North America, LLC
