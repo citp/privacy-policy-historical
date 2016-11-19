@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kitchenaid.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608014437id_/http%3A//www.kitchenaid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitchenaid.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119035028id_/http%3A//www.kitchenaid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KitchenAid
 
@@ -6,7 +6,7 @@
 
 Privacy Statement to our Customers in the United States
 
-Updated November 27, 2013
+Updated September 27, 2016
 
 Whirlpool Corporation is a leading global manufacturer and marketer of major home appliances. Major brand names used in the United States include Whirlpool®, Maytag®, KitchenAid®, Jenn-Air®, Amana®, Gladiator®, Roper®, Estate®, Admiral®, Laundry 1-2-3™ and Affresh®.
 
@@ -14,17 +14,17 @@ We understand that visiting a company's web site or doing business by email, pho
 
 This page describes how Whirlpool Corporation and its brands handle information we learn about customers in the United States. Certain specialized services offered by Whirlpool Corporation, such as the Smart Appliance Services, have their own websites and corresponding privacy statements that can be viewed on those websites.
 
-Your consent and preferences.  
-What kind of information does Whirlpool Corporation collect?  
-What are cookies, web beacons, and log files?  
-How does Whirlpool Corporation use and disclose information about me?  
-California Residents: Your California Privacy Rights.  
-How will Whirlpool Corporation make changes to this policy?  
-How does Whirlpool Corporation secure my personal information?  
-What about the security of linked sites?  
-Information Collected from Children Under the Age of 13.  
-EU and Swiss Safe Harbor  
-Can I update or change my information?  
+Your consent and preferences.   
+What kind of information does Whirlpool Corporation collect?   
+What are cookies, web beacons, and log files?   
+How does Whirlpool Corporation use and disclose information about me?   
+California Residents: Your California Privacy Rights.   
+How will Whirlpool Corporation make changes to this policy?   
+How does Whirlpool Corporation secure my personal information?   
+What about the security of linked sites?   
+Information Collected from Children Under the Age of 13.   
+EU and Swiss Safe Harbor   
+Can I update or change my information?   
 Your acceptance of Whirlpool Corporation's privacy practices.
 
 Your consent and preferences
@@ -33,7 +33,7 @@ Whirlpool Corporation may, from time to time, contact you with communications re
 
 What kind of information does Whirlpool Corporation collect?
 
-Whirlpool Corporation collects two types of information: Personal information and aggregate or "combined" information. Personal information is data specifically about you, which you typically provide on a voluntary basis. Aggregate or combined information includes data that is related to you but studied as a group and does not identify you specifically. You cannot “opt-out” from having aggregate information collected.
+Whirlpool Corporation collects two types of information: Personal information and aggregate or "combined" information. We may also receive Personal information about you from third-party sources, such as commercially-available sources, social media platforms, and providers of third-party products or services, and combine such Personal information with other Personal information that we have collected. Personal information is data specifically about you, which you typically provide on a voluntary basis. Aggregate or combined information includes data that is related to you but studied as a group and does not identify you specifically. You cannot “opt-out” from having aggregate information collected.
 
 What are cookies, web beacons, and log files?
 
@@ -77,29 +77,35 @@ Information Collected from Children Under the Age of 13
 
 Our website and applications are aimed at a general audience and Whirlpool Corporation does not generally seek to collect information about children under the age of 13. If we offer an app or website feature that collects information about a child under age 13, we will detail the type of information that we collect and how we use and disclose that information. We will obtain parental consent before we collect, use, store or disclose any personal information about a child under the age of 13. A parent or guardian of a child may contact us to request that we delete such information, if any, from our records. To do so, contact our [Chief Privacy Officer](mailto:whirlpool_privacy@whirlpool.com).
 
-EU and Swiss Safe Harbor
+Privacy Shield and Swiss Safe Harbor
 
-Whirlpool complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Whirlpool has certified that it adheres to the U.S – EU and Swiss – EU Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Information regarding both the E.U. and Swiss Safe Harbor Frameworks can be found at: <http://export.gov/safeharbor>.
+Whirlpool Corporation and its wholly owned European subsidiaries, such as Whirlpool Europe SRL, participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework.  Whirlpool is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield List.](https://www.privacyshield.gov/list)
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. Please click [here](http://www.truste.com/about-TRUSTe/contact-us) for fax and postal mail information. TRUSTe's Dispute Resolution process is only available in English.
+Whirlpool is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  Whirlpool complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Whirlpool is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Whirlpool may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.   Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+Whirlpool complies with the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from Switzerland. Whirlpool has certified that it adheres to the U.S – Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Information regarding the Swiss Safe Harbor Frameworks can be found at: <http://export.gov/safeharbor>.
 
 Can I update or change my information?
 
-If you are a registered user of this site, you may review, revise, correct or update your information at any time by updating your profile. You may also submit a request to our Chief Privacy Officer if you would like to update or change personal information that Whirlpool Corporation has about you.
+If you are a registered user of this site, you may review, revise, correct or update your information at any time by updating your profile. You may also submit a request to our Chief Privacy Officer if you would like to update or change personal information that Whirlpool Corporation has about you. Whirlpool will respond within a reasonable time.
 
   
 
 
 ## For more information, contact our [**Chief Privacy Officer.**](mailto:whirlpool_privacy@whirlpool.com)
 
-**_By Postal Mail:_**  
-Chief Privacy Officer  
-Whirlpool Corporation  
-2000 N. M-63  
-MD 8522  
-Benton Harbor, MI 49022
+**_By Postal Mail:_**   
+Chief Privacy Officer   
+Whirlpool Corporation   
+2000 N. M-63   
+MD 8522   
+Benton Harbor, MI 49022 
 
-**_By E-mail:_**  
+**_By E-mail:_**   
 [**whirlpool_privacy@whirlpool.com**](mailto:whirlpool_privacy@whirlpool.com)
 
 If we make photocopies of information related to your request, we reserve the right to recover related photocopy charges.
