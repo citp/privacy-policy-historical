@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livefreefun.net privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609092028id_/http%3A//www.livefreefun.net/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livefreefun.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119184656id_/http%3A//www.livefreefun.net/privacy.html%3F) for the most accurate reproduction.*
 
 # LiveFreeFun - Privacy Policy | LiveFreeFun.net
 
