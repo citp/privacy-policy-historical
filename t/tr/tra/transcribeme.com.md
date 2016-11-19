@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the transcribeme.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609211521id_/http%3A//transcribeme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transcribeme.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119161733id_/http%3A//transcribeme.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | TranscribeMe!
+# Privacy Policy - TranscribeMe!
 
 The following Privacy Policy applies to our data collection and use practices relating to your use of the TranscribeMe services, our website and our other products and services (collectively, the “TranscribeMe Services”). As a TranscribeMe customer or a user of our smartphone app, you agree to this Privacy Policy and also to any further modifications made to this Privacy Policy. This Privacy Policy does not apply, however, to the co-branded pages of our partners, affiliates and service providers. The terms “TranscribeMe”, “we”, “our”, or “us” refer to TranscribeMe Inc. or Audioscribe, Ltd.
 
