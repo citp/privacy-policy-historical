@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reachmail.net privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627132902id_/http%3A//www.reachmail.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachmail.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119033100id_/http%3A//www.reachmail.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reachmail
 
@@ -49,6 +49,8 @@ As a further measure against unauthorized access to account data and to more com
 ## Email Recipient Policy
 
 Email is sent only to lists that have been warranted to us to be composed of opted-in subscribers of our clients. Any e-mail recipient may request at any time to be removed from those lists, and we will comply with that request within one business day. In addition, we will thoroughly investigate any allegations made by e-mail recipients relating to unsolicited e-mail.
+
+ReachMail prohibits content including pornography, adult offers, drugs and high-risk financial trading. We may, at our discretion ban additional offensive content and terminate your account without further notice. 
 
 ## Subscriber Privacy
 
