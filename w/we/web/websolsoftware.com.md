@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the websolsoftware.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606211009id_/http%3A//www.websolsoftware.com/Home/privacypolicy_terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websolsoftware.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119223059id_/http%3A//www.websolsoftware.com/Home/privacypolicy_terms) for the most accurate reproduction.*
 
-# privacypolicy_terms - My ASP.NET Application
+# privacypolicy_terms - Websol Software Pvt Ltd
 
 Our Corporate Identity Number : U72200MH2008PTC184698 2008 - 2009 
 
