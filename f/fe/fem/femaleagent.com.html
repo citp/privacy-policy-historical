@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the femaleagent.com privacy policy that was archived on 2015-09-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150916224352id_/http%3A//www.femaleagent.com/tour/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the femaleagent.com privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119094108id_/http%3A//femaleagent.com/tour/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>FemaleAgent.com</title>
@@ -52,6 +52,29 @@
     height:35px;
     width:35px;
 }
+
+.fakehubjoin {
+    display:none;
+    background-color:#333;
+    min-height:540px;
+    padding:12px;
+	box-sizing:border-box;
+    border:1px solid #666;
+    -moz-border-radius:8px;
+    -webkit-border-radius:8px;
+    -moz-box-shadow:0 0 90px 5px #000;
+    -webkit-box-shadow: 0 0 90px #000;
+}
+
+.fakehubjoin .close{
+    background-image:url('/tour/img/close.png');
+    position:absolute;
+    right:-15px;
+    top:-15px;
+    cursor:pointer;
+    height:35px;
+    width:35px;
+}
 </style>
 
 <script>
@@ -70,8 +93,23 @@ var top = wTop + (window.innerHeight / 2) - (win_height / 2);
 
 function offerGo(offerurl){
     popup_Set_Cookie(cookie_name,"1",hours,"/","","");
-	pop_window = window.open(offerurl,'offer_window','location='+ win_location +',left='+ left +',top='+ top +',status='+ win_status +',scrollbars='+ win_scroll +',resizable='+ win_resize +',toolbar='+ win_toolbar +',width='+ win_width +',height='+win_height);
+	$(".fakehubjoin").data('overlay').load();
+	//pop_window = window.open(offerurl,'offer_window','location='+ win_location +',left='+ left +',top='+ top +',status='+ win_status +',scrollbars='+ win_scroll +',resizable='+ win_resize +',toolbar='+ win_toolbar +',width='+ win_width +',height='+win_height);
 }
+
+$(function() {
+
+	$(".fakehubjoin").overlay({
+        mask: {
+	    color: '#999',
+	    loadSpeed: 200,
+	    opacity: 0.5
+		},
+		onClose:function(){
+			window.location.href="http://join.femaleagent.com/signup/signup.php?step=signup&nats=MTY4OS4yOC41LjUuMC4wLjAuMC4w&tpl=join2"
+		}
+	})
+});
 </script><script>
 var default_URL = "http://www.fakehub.com/femaleagent/popup"; // this is the URL you want to go on the popup unless a goto url is sent
 
@@ -193,7 +231,7 @@ document.onclick = function() {winGo()};
 <a href="/members/" class="button">Members</a>
 <a href="#" onclick="offerGo('/offerpup.php')" class="button">Join </a>
 <div align="right" style="padding-right:20px;position:relative;top:-101px;">
-<a target="_blank" href="http://twitter.com/Ruseful"><img src="/tour/img/twitter-lg.png"></a><a target="blank" href="https://www.facebook.com/DaneJonesHD?fref=ts"><img style="position:relative;top:-2px;" src="/tour/img/facebook-lg.png"></a>
+<a target="_blank" href="http://twitter.com/Ruseful"><img src="/tour/img/twitter-lg.png"></a><a target="blank" href="https://www.facebook.com/faketaxicompetition/?fref=nf"><img style="position:relative;top:-2px;" src="/tour/img/facebook-lg.png"></a>
         </div>
 
 <style>
