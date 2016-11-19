@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadebomb.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316132542id_/http%3A//www.arcadebomb.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadebomb.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119154930id_/http%3A//www.arcadebomb.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for ArcadeBomb.com
 
@@ -11,7 +11,7 @@ This statement is the official published ("Privacy Policy") for arcadebomb.com (
 
 ## Full privacy!
 
-Your privacy is 100% guaranteed at arcadebomb.com. Arcadebomb is committed to protecting your privacy online. Arcadebomb.com does not collect or store any personal information on its servers. At arcadebomb.com your gaming experience is a truely safe experience as well !! 
+Your privacy is 100% guaranteed at arcadebomb.com. Arcadebomb is committed to protecting your privacy online. Arcadebomb.com does not collect or store any personal information on its servers. At arcadebomb.com your gaming experience is a truely safe experience as well !! Dear end user (game player); Keep in mind that Arcadebomb does allow third parties to advertise on its website. Keep reading this page to learn more about our third parties. 
 
 ## What are cookies?
 
@@ -22,6 +22,10 @@ Our webserver html, php and scripts do not execute any code that create tracking
 ## IP tracking
 
 Arcadebomb keeps NO logs of IP address or any other information used to track broad demographic information and to track your general visiting paterns (how many pages you view while at one website, downloads, etc) Arcadebomb does not store personal, or individual data on its servers, we respect your privacy and strongly believe that maintaining privacy, as an independant portal, is one of our main objectectives. Arcadebomb keeps no logs of any clicks or visits; we only focus on being an awesome free gaming website with daily updates and the best exclusive flash games! 
+
+## Sharing Of Information
+
+There are no scripts or programs running on our server that store your information. We allow our third party advertisers to host scripts on our webpages. Third party advertisers might collect, store and use your information. These scripts are not property of our game portal website and are subject to the privacy policy of the third party. Find the links to the third party privacy policies in the sections below to learn more. 
 
 ## Third Parties
 
@@ -47,9 +51,14 @@ Used third party scripts are served by Google and Cpmstar.
 It is possible to protect yourself from unwanted cookies by using the opt out service. Please note that the opt out service is creating cookies itself too!  
 [click here to opt out cookies](http://www.networkadvertising.org/managing/opt_out.asp)
 
+## No Server Logs
+
+Our server software has disabled log files to speed up your game experience. Allowing the visitor to have a good and fast game experience. The current log level of the server is set to EMERG. Meaning that the server will only make a small (text) log dump in the event of a server crash. This allows us to harden and improve your gaming experience in the rare occurrence of a server problem.  
+
+
 ## Liability & Copyright
 
-It is arcadebomb.com's policy to respond quickly (under 24 hours) to claims of intellectual property violation. Upon receiving notification in accordance with any related copyright organization or owner, arcadebomb.com will immediately disable and remove games in question. Please take some time to read our copyright policy [read more](https://web.archive.org/web/20160316132542id_/http%3A//www.arcadebomb.com/copyright_policy.html)
+It is arcadebomb.com's policy to respond quickly (under 24 hours) to claims of intellectual property violation. Upon receiving notification in accordance with any related copyright organization or owner, arcadebomb.com will immediately disable and remove games in question. Please take some time to read our copyright policy [read more](https://web.archive.org/web/20161119154930id_/http%3A//www.arcadebomb.com/copyright_policy.html)
 
 _this policy was published on 2010 by Explosive Games_  
 Arcadebomb.com 
