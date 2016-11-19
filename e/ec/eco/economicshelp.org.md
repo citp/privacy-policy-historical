@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the economicshelp.org privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606221603id_/http%3A//www.economicshelp.org/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the economicshelp.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119013339id_/http%3A//www.economicshelp.org/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Economics Help
 
