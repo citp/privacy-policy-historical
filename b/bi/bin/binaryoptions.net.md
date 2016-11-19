@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the binaryoptions.net privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608024147id_/http%3A//www.binaryoptions.net/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binaryoptions.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119081012id_/http%3A//www.binaryoptions.net/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BinaryOptions.net
+# Privacy Policy
 
 BinaryOptions.net respects our users’ right to privacy. We do not collect any personal data from you unless it is strictly necessary (e.g. for broker complaints).
 
@@ -8,7 +8,7 @@ By using our website and reading out articles, you abide to the privacy policy h
 
 **Users Privacy**
 
-We do not collecting personal information from any of our users, except in cases where this is strictly necessary.  We do not pass on or sell your personal information to any third parties or operators.  If you would like to contact us or provide a complaint, can do so through our [contact page](http://www.binaryoptions.net/about-us/privacy-policy) here.
+We do not collecting personal information from any of our users, except in cases where this is strictly necessary.  We do not pass on or sell your personal information to any third parties or operators.  If you would like to contact us or provide a complaint, can do so through our [contact page](http://www.binaryoptions.net/about-us/contact-us/) here.
 
 **Cookie Tracking Software**
 
@@ -25,5 +25,3 @@ BinaryOptions.net may receive revenue through affiliate marketing deals with bi
 **Changes to our Privacy Policy**
 
 Please note that we respect the right to make changes or updates to our privacy policy at any time without notifying you.  It is your responsiblity to check our privacy policy for future changes.
-
-Rating: 0.0/ **5** (0 votes cast)
