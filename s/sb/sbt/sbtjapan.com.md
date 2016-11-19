@@ -1,103 +1,114 @@
-> *The following text is extracted and transformed from the sbtjapan.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603123324id_/http%3A//www.sbtjapan.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbtjapan.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119034214id_/http%3A//www.sbtjapan.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Japanese Used Cars Exporter, Dealer, Trader, Auction | SBT JAPAN
 
-### 1\. About This Policy
+SBT Co., Ltd. (“SBT”) recognizes the importance of social responsibility that it truthfully work to meet the needs of its customers and to contribute to the society. The Personal Information obtained from its customers in the course of business activities are an important asset of the customers and of SBT as it leads to creation of new value. SBT protects Personal Information from information security threats with the following Basic Policy and meets its customer's expectations on its reliability As a company, SBT is committed to the responsible handling of Personal Information. 
 
-SBT Co., Ltd. (“SBT” defined in Section 2 below) understands the importance of protecting personal information, and observes all applicable laws and regulations relating to privacy protection. We have designed this Privacy Policy to explain how we safeguard the privacy of our users.
+(Personal Information Protection Policy) 
 
-  * We will comply with all applicable laws and regulations concerning privacy protection in handling your personal information.
-  * We will only collect your personal information by appropriate and fair means.
-  * We will not use your personal information beyond the scope of the purpose of use that we have previously specified, unless you give your prior consent.
-  * We will not provide third parties with your personal information unless you give your prior consent, other than as specifically set forth in this Privacy Policy.
-  * We will at all times assign responsibility for protection of personal information and development of our internal systems to a designated officer in order to help ensure appropriate management of personal information.
-  * We will maintain appropriate safeguards to protect your personal information from improper disclosure or modification and from unauthorized access.
-  * We will regularly review this Privacy Policy to help ensure that appropriate safeguards are maintained.
-  * We will respond appropriately to requests from our users to disclose the personal information that we maintain concerning them, to correct any inaccuracies in such information, and to cease use of their personal information.
+1\. SBT observes the Act on the Protection of Personal Information, Act on the Use of Social Security and Tax Number System (also called Individual Number or “My Number”) in the Administrative Procedure and other relevant laws, rules, and guidelines established by the government and other regulations.  
+2\. SBT has established a management framework to protect Personal Information, and assigned a person to “Personal Information Protection Administrator” position and implemented the appropriate protection of it.  
+3\. SBT utilizes Personal Information within the scope of the intended use that is clearly communicated to customers, and takes measures not to be used beyond the scope. SBT does not disclose or provide Personal Information provided by customers to third parties except with the consent of the customer from whom the Personal Information was obtained or when there is a legitimate reason.  
+4\. SBT strives to prevent unauthorized access to Personal Information or the leakage, loss, or damage of Personal Information and continually enhances, remediates and manages information security.  
+5\. SBT responds to inquiries concerning Personal Information or requests from customers for disclosure of their Personal Information sincerely and without delay. 
 
+  
 
 
-### 2\. Definitions
+* * *
 
-In this policy, “Personal Information,” “Personal Data,” and “Retained Personal Data” shall have the respective meanings as defined in Article 2 of the Act on the Protection of Personal Information under Japanese law (hereinafter “Personal Information Protection Act”).
-
-In this policy, “SBT” shall mean [LIST GROUP COMPANIES] The list of companies that are designated as SBT will be updated from time to time.
-
-In this policy, “Service Provider” shall mean any person or entity that sells goods or provides services to you.
-
-### 3\. Collection of Personal Information
-
-SBT collects the following types of information about you when you use its Services although some may not be considered as Personal Information depending on the specific contents of the information.
-
-  * Information provided by you including your name, address, phones numbers (including mobile phone and fax numbers), e-mail addresses, company/organization name, department name, title, work address, other contact information, aliases, and date of birth.
-  * Information about your transaction history of Services maintained in personally identifiable form.
-  * Information automatically collected when you access SBT’s websites including Internet protocol (IP) address used to connect your computer to the Internet and your mobile equipment identifier, information about browser type and version, operating system, platform, pages (URLs) you have accessed, dates and times of such access, products you have viewed and searched for, and information automatically collected when you use the Services such as access logs collected via cookies and Web beacons.
+  
 
 
+### 1\. Personal Information
 
-### 4\. Purpose of Utilization of Personal Information
+Personal Information means information concerning a User as an individual, which can identify the User based on the name, address, telephone number, e-mail address, educational institution, or other descriptions, etc. constituting such information. In addition, any information which cannot identify the User solely by itself but can easily be collated with other information and, as a result thereof, can identify the User, is also included in the scope of Personal Information.
 
-SBT uses the Personal Information it collects for the following purposes:
+*"Personal Information" is described in this Privacy Policy exclude Specific Personal Information, etc. 
 
-  * To identify you: When you use Services as a registered member of SBT’s websites, SBT will use your Personal Information to identify you at the time you login as well as after you login and to automatically display your registered information on its webpages.
-  * To carry out transactions with you: SBT will use your Personal Information for the purpose necessary to carry out transactions with you, including, but not limited to, shipping goods, providing services, settling payments, responding to your inquiries, contacting you, providing relevant post-sale services.
-  * To personalize contents and advertisements based on your place of residence, personal interests and preferences, as well as other personal attributes, transaction history, and browsing history on the websites operated by SBT.
-  * To analyze how you use the Services for the purpose of developing new services and improving existing services.
-  * To respond to your inquiries to SBT via e-mail, postal mail, or phone.
-  * To provide Personal Information to Service Providers in accordance with the provisions as set forth in Section 5.
-  * For any other purposes incidentally necessary for SBT to achieve the purposes described in Section 4.
+### 2\. Purpose of Use of Personal Information
+
+SBT will use Personal Information within the scope of the purposes provided in the Purpose of Use.  
+The Purpose of Use is specifically defined and made clear to our customers, and is announced on our website as shown below. SBT will make an effort to limit the Purpose of Use according to the situation in which the information is obtained. 
+
+  * (1) Achieving the Purpose of Use of our service and business.
+  * (2) Notices of service, etc. to its customers.
+  * (3) Giving notice to shareholders, provision of various types of information and shareholder management
+  * (4) Exercise of rights or performance of obligations based on Act of Japan and other relevant laws and ordinances
+  * (5) Responding to inquiries, requests, etc. from its customers
+  * (6) Carrying out operations incidental to (1) through (5) above and operations to properly and smoothly manage the business of SBT
 
 
 
-### 5\. Handling of Personal Information
+When handling Personal Information beyond the scope necessary for achieving the Purpose of Use, SBT will seek customer’s consent except for cases prescribed under items in Paragraph 3 of Article 16 of the Privacy Act. 
 
-SBT handles Personal Information in accordance with the Personal Information Protection Act.
+### 3\. Provision of Personal Data to Third Parties 
 
-Personal Data will be provided to Service Providers via SBT’s computer systems, and other electronic media, as well as other paper and analog media.
+SBT will not provide Personal Information to a third party without the customer’s consent, unless where any of the following applies:
 
-We have appointed a Privacy Officer, and endeavor to safeguard the privacy of our users and ensure compliance with the requirements of applicable laws relating to privacy protection. We instruct our management and employees concerning legal requirements and company regulations related to privacy protection as part of our continuing efforts to manage personal information appropriately.
-
-We will not provide your personal information to any third party without your advance consent, except where such disclosure:
-
-  * Is in accordance with or required by applicable law;
-  * Is necessary for the protection of the safety or property of our users or the public, and it is difficult or impractical to obtain the consent of the individual; or
-  * Is made in cooperation with national or local authorities, or an individual or entity appointed by such authorities to enforce the law or carry out legal process, and in which seeking the consent of the individual is difficult or impractical.
+  * (1) required under laws or ordinances;
+  * (2) required to protect human life, body or asset (including that of legal entities) and difficult to obtain the approval by the customer him/herself;
+  * (3) made to a consignee within the scope necessary for carrying out our business
+  * (4) to use Personal Information jointly with a group company or a business partner of SBT within the scope of the intended use;
+  * (5) to provide, in an unrecoverable format, Personal Information in a format that does not allow easy identification or recognition of the corresponding individual.
 
 
 
-### 6\. Accuracy of Data
+### 4\. Disclaimer concerning the provision of Personal Information to third parties
 
-SBT may ask you for your cooperation to keep your Personal Data accurate and up-to-date.
+SBT will not be responsible for the acquisition of Personal Information by a third party where any of the following applies:
 
-### 7\. Accuracy of Data
+  * (1) A User indicates his/her own Personal Information to a specific company, using any function under the Services or by other means (As for the handling of Personal Information in the Service Using Companies, etc., please directly make inquiries to each of the Service Using Companies, etc.);
+  * (2) A User is unexpectedly identified by information entered by the User under the Services;
+  * (3) A User provides Personal Information to, and the User's Personal Information is used at, an external site linked by the Services; or
+  * (4) Anyone other than a User obtains the User's information (ID, password, etc.) which can identify the User as an individual.
+  * (5) Additionally to above, Personal Information is leaked by computer viruses or similar causes.
 
-You can access and change your retained Personal Data on your member page, “My Account”.
 
-Some Retained Personal Data may not be deleted due to its characteristics. In this case, as an alternative option, we ensure that the data that cannot be deleted is no longer used by SBT.
 
-Should you cancel your SBT account or choose not to provide your Personal Information to Service Provider, then you may not be able to use partial or entire function(s) of our services.
+### 5\. Supervision of contractors
 
-SBT may retain backup data in case of data loss due to computer failure, human error, or other force majeure reasons.
+SBT may consign all or part of our customer’s Personal Information handling operation. In such a case, SBT elects a contractor who is expected to properly handle Personal Information, appropriately specify matters concerning handling of Personal Information such as Security Management Measures, confidentiality, terms and conditions of reconsignment, return of Personal Information upon expiration or termination of contract agreement, and performs necessary and appropriate supervision.
 
-By using our Services you agree to be bound by the terms and conditions described in this Privacy Policy. Use of our services is conditioned on acceptance of the terms and conditions of the Privacy Policy.
+### 6\. Handling of Sensitive Information
 
-### 8\. Contact
+SBT will not collect, use, or provide to a third party Sensitive Information, including but not limited to information regarding your healthcare or case history, except for cases provided by the Privacy Act, other relevant laws, ordinances and guidelines.
 
-Should you have any questions or complaints about how we use Personal Information, direct in writing to:
+### 7\. Handling of Specific Personal Information, etc.
 
-SBT Co., LTD.  
-TEL: 03-5575-7550 FAX: 03-5575-7551  
-E-mail: hr@sbtjapan.com  
-Address: Yokohama KDX Bldg. 8F, 2-10-36, Kita-saiwai, Nishi-ku, Yokohama-shi, Kanagawa, Japan
+The Purpose of Use of Specific Personal Information, etc. is limited under the “My Number” Act, and SBT will not collect or use Specific Personal Information, etc. beyond the prescribed Purpose of Use.  
+We will not provide Specific Personal Information, etc. to a third party except in cases permitted under the “My Number” Act. 
 
-### 9\. Other
+### 8\. Notice of Matters, Disclosure, Amendment, or Suspension of Use of Personal Information and Specific Personal Information, etc. 
 
-SBT may handle Personal Information in a manner that is different from that described above subject to the Personal Information Protection Act.
+Customer requests for any notice of matters, disclosure, amendment, or suspension of use of Personal Information and Specific Personal Information, etc. held by SBT under the Privacy Act shall be directed to the "Contact Office" indicated in Clause 11 below. After confirming the customer as the requesting party, the customer is requested to complete a form designated by us. SBT will then follow the procedures and, in principle, provide a written response in a proper, timely manner. SBT will charge the prescribed fees for responding to a request for any disclosure. 
 
-We reserve the right to revise this Privacy Policy and our security standards and procedures on a regular basis in order to maintain appropriate safeguards. SBT will post changes to this Privacy Policy and update the effective date when this Privacy Policy is updated.
+### 9\. Use of Cookies, etc.
 
-The original version of this Privacy Policy has been prepared in Japanese. In the event of any discrepancy between other languages and the Japanese version, the Japanese version will prevail.
+SBT uses cookies, etc. to provide better services on its websites. 
 
-This Privacy policy, use of the SBT website, and other Services shall be interpreted under and governed by the laws of Japan.
+### 10\. Management of Personal Data and Specific Personal Information, etc.
 
-Shall any dispute arise out of this Privacy Policy, use of the SBT website, or other Services initial hearing shall take place before the Yokohama District Court as court of first instance.
+SBT will take a rational security measures to manage Personal Information and Specific Personal Information, etc. securely and to prevent divulgence, loss or damage to Personal Information and Specific Personal Information, etc. handled by SBT, and will ensure the accuracy and prompt updating of Personal Information and Specific Personal Information, etc. which are necessary to achieve the Purpose of Use.
+
+### 11\. Contact Information
+
+SBT will appropriately and immediately respond to any complaint or consultation regarding the handling of Personal Information and Specific Personal Information, etc.  
+If you have any inquiry or matter for consultation regarding the handling of Personal Information and Specific Personal Information, etc. by us, please contact the office indicated below. 
+
+Contact Office  
+SBT Co., Ltd.  
+TEL:03-5575-7550 FAX:03-5575-7551  
+E-mail:hr@sbtjapan.com  
+
+
+### 12\. Review of Privacy Policy
+
+SBT practices the handling of Personal Information according to laws and other standard practices, and constantly strives to make improvements to the above activities without any prior notice. Privacy Policy may be revised according to the change of rules such as law. We will post changes to this Privacy Policy and update the effective date when this Privacy Policy is updated.
+
+### 13\. Other
+
+The original version of this Privacy Policy has been prepared in Japanese. In the event of any discrepancy between the other language and Japanese versions, the Japanese version will govern.
+
+The use of the Website and the interpretation of the content of Website shall be governed by the law of Japan.  
+Should any dispute arise out of or relating to the use of the Website, it is agreed that the initial hearing should take place under the jurisdiction of the Yokohama District Court. 
