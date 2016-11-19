@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bridgestonetire.com privacy policy that was archived on 2016-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160606084631id_/http%3A//www.bridgestonetire.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bridgestonetire.com privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119050219id_/http%3A//www.bridgestonetire.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" data-country="US" data-isbst="true" class=" js flexbox flexboxlegacy"><head><!--[if IE 9]><html class="ie9"><![endif]-->
     <title>Privacy Policy | Bridgestone Tires</title>
@@ -9,6 +9,7 @@
     <link rel="alternate" href="http://www.bridgestonetire.com/es/about/privacy" hreflang="es-us">
     <link rel="alternate" href="http://www.bridgestonetire.ca/about/privacy" hreflang="en-ca">
     <link rel="alternate" href="http://www.bridgestonetire.ca/fr/about/privacy" hreflang="fr-ca">
+    <meta name="serverInfo" content="ip-192-168-0-70.cwh.local | ip-192-168-0-70.cwh.local">
     <meta charset="UTF-8" http-equiv="Content-Type" content="text/html">
     <meta name="description" content="Bridgestone takes your privacy seriously. Read our privacy policy for details on how we handle the information you share with us through this website.">
     <meta name="revisit-after" content="3 days">
@@ -33,7 +34,7 @@
     <link href="/etc/designs/bridgestone/consumer/bst/styles/ie9.css" rel="stylesheet"><![endif]-->
     <script src="//assets.adobedtm.com/cae929189b2d2e85b610c128a448eb72b1f7a28e/satelliteLib-074aa1f70969e4dfcb93934bfdbb05a4fdd206fc.js"></script>
   </head>
-  <body data-svgpath="/etc/designs/bridgestone/consumer/common/images/bst/shapes.svg" data-page-name="privacy"><!--[if lte IE 8]>
+  <body data-svgpath="/etc/designs/bridgestone/consumer/bst/images/shapes.svg" data-page-name="privacy"><!--[if lte IE 8]>
     <div class="browser-check">
       <div class="container">
         <h1>You&#39;re using an outdated browser.</h1><a href="http://outdatedbrowser.com" class="button-large-transparent-bst-white">Upgrade your browser today</a>
@@ -773,8 +774,8 @@
   <nav class="header-nav">
     <div class="search component">
       <div class="header-large">
-
 <script src="//ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=7.0"></script>
+
 <div data-component="superSearch" class="super-search component">
   <form id="super-search__form" action="/catalog" role="search" class="super-search__form">
     <div class="super-search__container-category super-search__container">
@@ -800,7 +801,7 @@
       </select>
     </div>
     <div class="super-search__container-input super-search__container">
-      <input id="search-box" type="text" placeholder="Tell us what you’re looking for today" autocomplete="off" multiple="multiple" title="Tell us what you’re looking for today" class="super-search__input">
+      <input id="search-box" type="text" placeholder="Tell us what you're looking for." autocomplete="off" multiple="multiple" title="Tell us what you're looking for." data-message="Tell us what you drive. (e.g. 2014 Toyota Camry SE),Enter your address or ZIP to find stores near you." data-message-intermessagedelay="1" data-message-delaybeforeanimate="3" data-message-percharacterrenderspeed="0.06" class="super-search__input">
     </div>
     <div class="super-search__container-submit super-search__container">
       <button disabled="disabled" type="submit" title="search" class="svg-contains super-search__submit button-small-solid-bst-red"> search
@@ -809,6 +810,93 @@
     </div>
   </form>
   <div class="suggestions results"></div>
+  <script id="template-results" type="text/x-handlebars-template">
+    <div value="{{type}}" class="{{class}}">
+      <section class="results__layer">{{#if queryType}}
+        <header value="{{queryType}}" class="header-question {{class}}"><span class="header-question__which">{{question}}</span></header>{{/if}}{{#if questionDouble}}
+        <header value="{{queryType}}" class="header-question {{class}}"><span class="header-question__double">Did you mean &hellip;</span></header>{{/if}}
+        {{#if queryType}}
+        {{else}}
+        {{#if questionDouble}}
+        {{else}}
+        <div class="header-question--no-header"></div>{{/if}}
+        {{/if}}{{#if nullSearch}}
+        <header value="{{queryType}}" class="null-result {{class}}">
+          <p class="null-result__header">
+            {{#if supersearch_null}}Sorry, your search didn't return any results.  Need help? Call <a href="tel:18446595820" class='mm-phone-number'>1  (844) 659 5820</a>, or visit the <a href="/catalog" target="_self" >Tire Catalog</a> to start shopping.{{/if}}
+            {{#if vehicle_null}}Sorry, %USERINPUT% is not a valid vehicle.  Need help? Call <a href="tel:18446595820" class='mm-phone-number'>1  (844) 659 5820</a>, or visit the <a href="/catalog" target="_self" >Tire Catalog</a> to view all tires.{{/if}}
+            {{#if subbrand_null}}Sorry, no Bridgestone tires found that match %USERINPUT%.  Need help? Call <a href="tel:18446595820" class='mm-phone-number'>1  (844) 659 5820</a>, or visit the <a href="/catalog" target="_self" >Tire Catalog</a> to view all tires.{{/if}}
+            {{#if tiresize_null}}Sorry, %USERINPUT% is not a valid tire size.  Need help? Call <a href="tel:18446595820" class='mm-phone-number'>1  (844) 659 5820</a>, or visit the <a href="/catalog" target="_self" >Tire Catalog</a> to view all tires.{{/if}}
+            {{#if category_null}}Sorry, no Bridgestone tires found that match %USERINPUT%.  Need help? Call <a href="tel:18446595820" class='mm-phone-number'>1  (844) 659 5820</a>, or visit the <a href="/catalog" target="_self" >Tire Catalog</a> to view all tires.{{/if}}
+            {{#if product_null}}Sorry, no Bridgestone tires found that match %USERINPUT%.  Need help? Call <a href="tel:18446595820" class='mm-phone-number'>1  (844) 659 5820</a>, or visit the <a href="/catalog" target="_self" >Tire Catalog</a> to view all tires.{{/if}}
+            {{#if promotion_null}}Sorry, no current Bridgestone offers or promotions match your search.  Need help? Call <a href="18446595820" class='mm-phone-number'>1  (844) 659 5820</a>, or view all <a href="/special-offers" target="_self" >Offers and Promotions</a>.{{/if}}
+            {{#if store_null}}Sorry, %USERINPUT% is not a recognized location. Enter a different address, or we can <a href="/dealer" target="_self" >determine your location</a> automatically.  Need help? Call <a href="tel:18446595820" class='mm-phone-number'>1  (844) 659 5820</a>.{{/if}}
+          </p>
+        </header>{{/if}}
+        <ul class="results-list">
+          {{#if vehicle}}
+          {{#each suggestions}}
+          {{#if this.value}}
+          <li class="results-list__item vehicle">
+            <button value="{{this.escapedValue}}" data-input="{{this.input_value}}" title="{{this.input_value}}" data-tag-value="{{this.tagValue}}" data-query="{{this.class}}" class="search-input results-button {{this.class}} {{this.previousClass}}"><span class="results-text">{{{this.value}}}</span></button>
+          </li>{{/if}}
+          {{#if this.trimQuestion}}
+          <li class="button-trim-help">
+            <button value="{{type}}" title="{{trimQuestion}}" class="{{class}}">I'm not sure which {{ this.trimQuestion }} I own</button>
+          </li>{{/if}}
+          {{/each}}
+          {{else}}
+          {{#if tireSize}}
+          {{#each suggestions}}
+          {{#if this.value}}
+          <li class="results-list__item tireSize">
+            <button value="{{this.escapedValue}}" data-input="{{this.input_value}}" title="{{this.input_value}}" data-tag-value="{{this.tagValue}}" data-query="{{this.class}}" class="search-input results-button {{this.class}} {{this.previousClass}}"><span class="results-text">{{{this.value}}}</span></button>
+          </li>{{/if}}
+          {{#if this.trimQuestion}}
+          <li class="button-tire-size-help">
+            <button value="{{type}}" title="{{trimQuestion}}" class="{{class}}">Tire size help</button>
+          </li>{{/if}}
+          {{/each}}
+          {{else}}
+          {{#each suggestions}}
+          <li class="results-list__item">
+            <button value="{{value}}" data-input="{{input_value}}" title="{{input_value}}" data-tag-value="{{tagValue}}" data-query="{{class}}" data-results-url="{{url}}" class="search-input results-button {{class}} {{previousClass}}">{{#if city}}<span class="results-text">{{{highlight}}}</span>{{else}}<span class="results-text">{{value}}</span>{{/if}}</button>
+          </li>{{/each}}{{#if results}}
+          <li>
+            <button value="{{results.value}}" data-input="{{this.query}}" title="{{results.query}}" data-results-url="{{results.url}}" data-tag-value="{{results.value}}" class="search-input results-button"><span class="results-text">{{results.value}}</span></button>
+          </li>{{/if}}
+          {{#if location}}
+          <li class="button-location">
+            <button value="{{type}}" title="{{locationQuestion}}" data-forward="/content/bridgestone/consumer/bst/us/en/dealer?location={{query}}" class="button-location__around-query {{class}}">Find all of the stores near  {{query}}</button>
+          </li>
+          <li>
+            <button value="{{type}}" title="{{locationQuestion}}" data-forward="/content/bridgestone/consumer/bst/us/en/dealer" class="button-location__around-me {{class}}">Find all of the stores near me </button>
+          </li>{{/if}}{{/if}}{{/if}}
+        </ul>
+      </section>
+    </div>
+  </script>
+  <script id="template-category" type="text/x-handlebars-template">
+    <div value="{{type}}" class="{{class}}">
+      <section class="suggestions__layer">{{#if query}}
+        <header value="{{query}}" class="header-question"><span>Did you mean</span><b> {{query}} &hellip;</b></header>{{/if}}{{#if categories}}
+        <ul class="suggestions-list">{{#each categories}}
+          <li class="suggestions-list__item">
+            <button data-tag-value="{{this.tagValue}}" data-input="{{../query}}" title="{{../query}}" class="search-input suggestions-button {{this.class}} {{this.previousClass}}">
+              <div class="suggestions-icon">
+                <div class="svg-container">
+                  <svg>
+                    <use xlink:href="{{this.shape}}"></use>
+                  </svg>
+                </div>
+              </div><span class="suggestions-text">
+                <p class="suggestions-text__header"><span>in</span><b class="suggestions-text__category"> {{this.text}}?</b></p></span>
+            </button>
+          </li>{{/each}}
+        </ul>{{/if}}
+      </section>
+    </div>
+  </script>
 <script id="template-dropdown" type="text/x-handlebars-template"><span class="super-search__category-list"><span tabindex="0" class="super-search__category-button"><span class="super-search__category-svg">
         <svg>
           <use xlink:href="#shape-searchGlass"></use>
@@ -820,98 +908,10 @@
           </svg></span><span class="category__text">{{text}}</span></li>{{/each}}
     </ul></span>
 </script>
-<script id="template-results" type="text/x-handlebars-template">
-  <div value="{{type}}" class="{{class}}">
-    <section class="results__layer">{{#if queryType}}
-      <header value="{{queryType}}" class="header-question {{class}}"><span class="header-question__which">{{question}}</span></header>{{/if}}{{#if questionDouble}}
-      <header value="{{queryType}}" class="header-question {{class}}"><span class="header-question__double">Did you mean &hellip;</span></header>{{/if}}
-      {{#if queryType}}
-      {{else}}
-      {{#if questionDouble}}
-      {{else}}
-      <div class="header-question--no-header"></div>{{/if}}
-      {{/if}}{{#if nullSearchValue}}
-      <header value="{{queryType}}" class="null-result {{class}}">
-        <p class="null-result__header">Oops!</p>
-        <p class="null-result__description">Try another search.</p>{{#if location}}
-        <ul class="results-list">
-          <li class="button-location">
-            <button value="{{type}}" title="{{locationQuestion}}" data-forward="/content/bridgestone/consumer/bst/us/en/dealer" class="button-location__around-query {{class}}">Find all of the stores near  {{nullSearchValue}}</button>
-          </li>
-          <li>
-            <button value="{{type}}" title="{{locationQuestion}}" data-forward="/content/bridgestone/consumer/bst/us/en/dealer" class="button-location__around-me {{class}}">Find all of the stores near me </button>
-          </li>
-        </ul>{{/if}}
-      </header>{{/if}}
-      <ul class="results-list">
-        {{#if vehicle}}
-        {{#each suggestions}}
-        {{#if this.value}}
-        <li class="results-list__item vehicle">
-          <button value="{{this.escapedValue}}" data-input="{{this.input_value}}" title="{{this.input_value}}" data-tag-value="{{this.tagValue}}" data-query="{{this.class}}" class="search-input results-button {{this.class}} {{this.previousClass}}"><span class="results-text">{{{this.value}}}</span></button>
-        </li>{{/if}}
-        {{#if this.trimQuestion}}
-        <li class="button-trim-help">
-          <button value="{{type}}" title="{{trimQuestion}}" class="{{class}}">I'm not sure which {{ this.trimQuestion }} I own</button>
-        </li>{{/if}}
-        {{/each}}
-        {{else}}
-        {{#if tireSize}}
-        {{#each suggestions}}
-        {{#if this.value}}
-        <li class="results-list__item tireSize">
-          <button value="{{this.escapedValue}}" data-input="{{this.input_value}}" title="{{this.input_value}}" data-tag-value="{{this.tagValue}}" data-query="{{this.class}}" class="search-input results-button {{this.class}} {{this.previousClass}}"><span class="results-text">{{{this.value}}}</span></button>
-        </li>{{/if}}
-        {{#if this.trimQuestion}}
-        <li class="button-tire-size-help">
-          <button value="{{type}}" title="{{trimQuestion}}" class="{{class}}">Tire size help</button>
-        </li>{{/if}}
-        {{/each}}
-        {{else}}
-        {{#each suggestions}}
-        <li class="results-list__item">
-          <button value="{{value}}" data-input="{{input_value}}" title="{{input_value}}" data-tag-value="{{tagValue}}" data-query="{{class}}" data-results-url="{{url}}" class="search-input results-button {{class}} {{previousClass}}">{{#if city}}<span class="results-text">{{{highlight}}}</span>{{else}}<span class="results-text">{{value}}</span>{{/if}}</button>
-        </li>{{/each}}{{#if results}}
-        <li>
-          <button value="{{results.value}}" data-input="{{this.query}}" title="{{results.query}}" data-results-url="{{results.url}}" data-tag-value="{{results.value}}" class="search-input results-button"><span class="results-text">{{results.value}}</span></button>
-        </li>{{/if}}
-        {{#if locationQuestion}}
-        <li class="button-location">
-          <button value="{{type}}" title="{{locationQuestion}}" data-forward="/content/bridgestone/consumer/bst/us/en/dealer" class="button-location__around-query {{class}}">Find all of the stores near  {{query}}</button>
-        </li>
-        <li>
-          <button value="{{type}}" title="{{locationQuestion}}" data-forward="/content/bridgestone/consumer/bst/us/en/dealer" class="button-location__around-me {{class}}">Find all of the stores near me </button>
-        </li>{{/if}}{{/if}}{{/if}}
-      </ul>
-    </section>
-  </div>
-</script>
-<script id="template-category" type="text/x-handlebars-template">
-  <div value="{{type}}" class="{{class}}">
-    <section class="suggestions__layer">{{#if query}}
-      <header value="{{query}}" class="header-question"><span>Did you mean</span><b> {{query}} &hellip;</b></header>{{/if}}{{#if categories}}
-      <ul class="suggestions-list">{{#each categories}}
-        <li class="suggestions-list__item">
-          <button data-tag-value="{{this.tagValue}}" data-input="{{../query}}" title="{{../query}}" class="search-input suggestions-button {{this.class}} {{this.previousClass}}">
-            <div class="suggestions-icon">
-              <div class="svg-container">
-                <svg>
-                  <use xlink:href="{{this.shape}}"></use>
-                </svg>
-              </div>
-            </div><span class="suggestions-text">
-              <p class="suggestions-text__header"><span>in</span><b class="suggestions-text__category"> {{this.text}}?</b></p></span>
-          </button>
-        </li>{{/each}}
-      </ul>{{/if}}
-    </section>
-  </div>
-</script>
 <script id="template-previoussearch" type="text/x-handlebars-template">
   <div class="previous-search">
     <section class="previous-search__container">
-      <h3 class="previous-search__header">My active vehicle/tire size:</h3>{{#if activeUserSearch}}<span class="previous-search__vehicle">
-        <button value="{{activeUserSearch}}" data-selection-value="{{currentStateDisplay.category}}" class="previous-search__history-button">{{activeUserSearch}}</button>
+      <h3 id="previous-search__header" class="previous-search__header">My active vehicle/tire size:</h3>{{#if activeUserSearch}}<span class="previous-search__vehicle"><a href="{{activeUserSearchUrl}}" aria-describedby="previous-search__header" class="previous-search__history-button">{{activeUserSearch}}</a>
         <button data-current-state="{{currentState}}" class="previous-search__state--clear"><span class="previous-search__state-icon">
             <svg>
               <use xlink:href="#shape-close"></use>
@@ -932,9 +932,7 @@
       {{#if previousSearch}}
       <h3 class="previous-search__header">Previous searches:</h3>
       <ul class="previous-search__history">{{#each previousSearch}}
-        <li class="previous-search__history-item">
-          <button data-selection-value="{{category}}" class="previous-search__history-button">{{value}}</button>
-        </li>{{/each}}
+        <li class="previous-search__history-item"><a href="{{url}}" target="_self" title="search {{value}}" data-selection-value="{{category}}" class="previous-search__history-button">{{value}}</a></li>{{/each}}
       </ul>{{/if}}
     </section>
   </div>
@@ -1313,7 +1311,7 @@
           <input type="hidden" name="data" value="http://www.bridgestonetire.com/about/privacy">
           <input type="hidden" name="message" value="http://www.bridgestonetire.com/about/privacy">
           <input type="hidden" id="productId" name="productId" value="" class="toSend">
-          <input id="email" name="emailAddress" required="required" type="email" value="" class="send-to__modal-input" data-validate-id="9696"><ul class="validate-errors-list" id="parsley-id-9696"></ul>
+          <input id="email" name="emailAddress" required="required" type="email" value="" class="send-to__modal-input" data-validate-id="6103"><ul class="validate-errors-list" id="parsley-id-6103"></ul>
           <div class="send-to__modal-container">
             <button type="button" value="Cancel" class="button-medium-solid-bst-blue send-to__modal-cancel cancel"> Cancel
             </button>
@@ -1343,7 +1341,7 @@
             <label for="number1" id="numbersLabel" class="send-to__modal-label"> Enter your area code and phone number without hyphens (ex. 5555551234)
 
             </label>
-            <input id="number1" name="phoneNumber" tabindex="1" type="tel" value="" data-validate-type="digits" data-validate-length="[10, 11]" required="required" class="send-to__modal-input" data-validate-id="3418"><ul class="validate-errors-list" id="parsley-id-3418"></ul>
+            <input id="number1" name="phoneNumber" tabindex="1" type="tel" value="" data-validate-type="digits" data-validate-length="[10, 11]" required="required" class="send-to__modal-input" data-validate-id="3103"><ul class="validate-errors-list" id="parsley-id-3103"></ul>
           </div>
           <div class="send-to__modal-container">
             <button type="button" value="Cancel" tabindex="6" class="button-medium-solid-bst-blue send-to__modal-cancel cancel"> Cancel
@@ -1474,7 +1472,7 @@
   </section>
   <section class="footer-component__section">
     <div class="component__container component__flexie colsfix colsfix-js">
-      <div class="footer-component__list component__flex-item colsfix__col is-mobile">
+      <div class="footer-component__list component__flex-item colsfix__col is-mobile footer-component__list-item--hide-mobile ">
         <h1 class="footer-component__header">Bridgestone Tire Brands</h1>
         <button class="footer-component__header">Bridgestone Tire Brands
           <div class="svg-container">
@@ -1503,8 +1501,45 @@
           
         </ul>
       </div>
-      
-      <div class="footer-component__list component__flex-item colsfix__col">
+      <div class="footer-component__list component__flex-item colsfix__col   ">
+        <h1 class="footer-component__header">Tires By Make &amp; Model</h1>
+        <button class="footer-component__header">Tires By Make &amp; Model
+          <div class="svg-container">
+            <svg>
+              <use xlink:href="#shape-downArrow"></use>
+            </svg>
+          </div>
+        </button>
+        <ul class="footer-component__list-item">
+          <li><a href="/make-model" title="View All Vehicle Makes" target="_self">View All Vehicle Makes</a></li>
+          
+        
+          <li><a href="/make-model/bmw" title="BMW Tires" target="_self">BMW Tires</a></li>
+          
+        
+          <li><a href="/make-model/chevrolet" title="Chevrolet Tires" target="_self">Chevrolet Tires</a></li>
+          
+        
+          <li><a href="/make-model/dodge" title="Dodge Tires" target="_self">Dodge Tires</a></li>
+          
+        
+          <li><a href="/make-model/ford" title="Ford Tires" target="_self">Ford Tires</a></li>
+          
+        
+          <li><a href="/make-model/gmc" title="GMC Tires" target="_self">GMC Tires</a></li>
+          
+        
+          <li><a href="/make-model/honda" title="Honda Tires" target="_self">Honda Tires</a></li>
+          
+        
+          <li><a href="/make-model/nissan" title="Nissan Tires" target="_self">Nissan Tires</a></li>
+          
+        
+          <li><a href="/make-model/toyota" title="Toyota Tires" target="_self">Toyota Tires</a></li>
+          
+        </ul>
+      </div>
+      <div class="footer-component__list component__flex-item colsfix__col   ">
         <h1 class="footer-component__header">Tires By Type</h1>
         <button class="footer-component__header">Tires By Type
           <div class="svg-container">
@@ -1536,7 +1571,7 @@
           
         </ul>
       </div>
-      <div class="footer-component__list component__flex-item colsfix__col">
+      <div class="footer-component__list component__flex-item colsfix__col   ">
         <h1 class="footer-component__header">Contact Us</h1>
         <button class="footer-component__header">Contact Us
           <div class="svg-container">
@@ -1559,7 +1594,7 @@
           <li class=" footer-component__list-item--hide-desktop"><a href="tel:18446595820" title="Call Us: 1 (844) 659-5820" target="_self" class="mm-phone-number">Call Us: 1 (844) 659-5820</a></li>
         </ul>
       </div>
-      <div class="footer-component__list component__flex-item colsfix__col">
+      <div class="footer-component__list component__flex-item colsfix__col   ">
         <h1 class="footer-component__header">Support</h1>
         <button class="footer-component__header">Support
           <div class="svg-container">
@@ -1591,7 +1626,7 @@
           
         </ul>
       </div>
-      <div class="footer-component__list component__flex-item colsfix__col">
+      <div class="footer-component__list component__flex-item colsfix__col   ">
         <h1 class="footer-component__header">Company Info</h1>
         <button class="footer-component__header">Company Info
           <div class="svg-container">
@@ -1614,6 +1649,12 @@
           
         
           <li><a href="http://www.bridgestoneamericas.com/" title="Bridgestone Americas" target="_blank">Bridgestone Americas</a></li>
+          
+        
+          <li><a href="/tire-brand" title="Our Brands" target="_self">Our Brands</a></li>
+          
+        
+          <li><a href="https://www.bridgestoneamericas.com/en/tire-recall-information" title="Recall Campaigns" target="_blank">Recall Campaigns</a></li>
           
         </ul>
       </div>
