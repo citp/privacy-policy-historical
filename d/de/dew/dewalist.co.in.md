@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dewalist.co.in privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604010912id_/http%3A//www.dewalist.co.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dewalist.co.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119043848id_/http%3A//www.dewalist.co.in/privacy.php) for the most accurate reproduction.*
 
-# Worldwide / Non-local city / Unspecified, Worldwide / Non-local region / Unspecified - Indian Free Classified Ads Online | Community Classifieds | DewaList
+# Indian Free Classified Ads Online | Community Classifieds | DewaList
 
 **Privacy Policy**
 
