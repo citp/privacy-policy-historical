@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the burn4free.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607141315id_/http%3A//www.burn4free.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burn4free.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119021527id_/http%3A//www.burn4free.com/privacy.htm) for the most accurate reproduction.*
 
 # Burn4Free Privacy Statement
+
+[](http://directdownload.burn4free.com/burn4free_setup.exe "Download free dvd burning software")
 
 Privacy Statement
 
