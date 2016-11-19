@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vertoz.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616235505id_/http%3A//www.vertoz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertoz.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119074354id_/http%3A//www.vertoz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Vertoz
+# Vertoz | Privacy Policy
 
 Vertoz is a leading programmatic company that offers engaging and innovative advertising and monetizing solutions.
 
@@ -55,5 +55,3 @@ Vertoz is constantly improving and making additions to our site to provide you w
 Contacting Vertoz
 
 In regards to privacy issues or the collection of personal data, any questions or concerns can be directed to our dedicated representatives. Please contact them by email at [legal@vertoz.com](mailto:legal@vertoz.com)
-
- 
