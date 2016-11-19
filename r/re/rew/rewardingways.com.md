@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rewardingways.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315005731id_/http%3A//www.rewardingways.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewardingways.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119155347id_/http%3A//www.rewardingways.com/privacy) for the most accurate reproduction.*
 
 # Rewarding Ways - Privacy
 
@@ -23,10 +23,12 @@ We recommend that all users enable cookies in their internet browsers in order t
 
 [](https://web.archive.org/members/register.php)
 
+### NEW MEMBER?
+
+To learn how to make money with Paid Surveys at Rewardingways.com [Click Here](http://www.rewardingways.com/helper)
+
 ### Site Statistics
 
-Current Members = 230649
+Current Members = 256510
 
-Total Payments = $289,509.96
-
-Like our facebook page for promo code announcements and more...
+Total Payments = $404,339.30
