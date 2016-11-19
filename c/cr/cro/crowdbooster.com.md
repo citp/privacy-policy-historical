@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdbooster.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502111038id_/http%3A//crowdbooster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdbooster.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119094957id_/http%3A//crowdbooster.com/privacy) for the most accurate reproduction.*
 
 # Crowdbooster: Social Media Analytics
 
