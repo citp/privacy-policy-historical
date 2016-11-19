@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utc.edu privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623132413id_/http%3A//www.utc.edu/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utc.edu privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120001120id_/http%3A//www.utc.edu/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
