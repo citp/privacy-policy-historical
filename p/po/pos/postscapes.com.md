@@ -1,95 +1,17 @@
-> *The following text is extracted and transformed from the postscapes.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323180315id_/http%3A//postscapes.com/7-postscapes-general/4-postscapes-legal-terms-of-service-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postscapes.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119143716id_/http%3A//www.postscapes.com/tou-privacy) for the most accurate reproduction.*
 
-# Postscapes General - Postscapes Legal: Terms of Service and Privacy Policy - Postscapes
+# Postscapes Terms of Use and Privacy Information
 
-**What information do we collect?**
+#### Postscapes has created this Privacy Policy in order to set forth the principles governing our information-gathering and dissemination practices, including but not limited to such activities as article commentary, blogs, RSS feeds and newsletters, among our other offerings. Postscapes has a strong commitment to the privacy of our users. Please note that this Privacy Policy applies only to information collected through Postscapes and not to information collected offline or to information you may provide to any third-party sites to which Postscapes may link, except as expressly provided herein.
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form. 
+Postscapes has updated its privacy policy to clarify how it collects, uses, stores and shares data and to provide more details around these practices. Please read this Privacy Policy as you consent to these data practices by using this Website. 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
+Your privacy is very important to us. This Privacy Policy describes and governs the information collection, use, and sharing practices of Postscape LLC (collectively, “Postscapes,” “we,” “us,” and “our”) with respect to Postscapes' websites and interactive services that link to this Privacy Policy from the Privacy Policy link included on such sites and services (together, the “Websites”). 
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Please note that this Privacy Policy applies only to information collected by Postscapes and not to information collected by any third-party sites to which Postscapes may link or information provided to or collected by third-parties through third-party cookies, web beacons, and other third-party technologies served during your visit to the Websites. 
 
- **What do we use your information for?**
+**Effective Date**
 
-Any of the information we collect from you may be used in one of the following ways: 
+January 1, 2016 
 
-; To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
-
-; To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
-
-; To process transactions
-
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-
-; To send periodic emails
-
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
-
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
-
- **How do we protect your information?**
-
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
-
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
-
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
-
- **Do we use cookies?**
-
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
-
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
-
-Postscapes also collects potentially personally-identifying information that is collected by Gooogle Analytics. The analytics feature Postscapes has implemented is based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the Doubleclick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting). Visitors can opt-out of Google Analytics for Display Advertising and customer Display Network ads using [Ads Settings](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCjJn1o4MBMtGs7PuGXmQTMXL1pKVlmTP-2gwgG7JDIXKXAdxnVqfVu1qAPwqBTgFOLPWtZBuC830QOJwMIdYYTR-9x_pN9uU0zvFdBY8xQYI05RFBDjDa8NwXTHvGR27PKZxHQI5fcvYS8pECbbDN7o0bFWRKqSeLSTs7Tgqkxu4zxF3Og/).
-
-Postscapes will not facilitate the merging of personally-identifiable informaiton with non-personally indentifiable information previously collected from Google Display Advertising features that is based on the DoubleClick cookie unless Postscapes has robust notice of, and the user's prior affirmative (i.e., opt-in) consent to, that merger. 
-
-Postscapes also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users. Postscapes only discloses logged in user IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.
-
-At any time, visitors may choose to opt-out of Google Analytics tracking with the Google Analytics [opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
-
-Postscapes uses the Google Analytics Demographics and Interest Reporting feature to identify trends in the usage of its website which may be published in reports for internal use.
-
- **Do we disclose any information to outside parties?**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
- **Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
- **California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
-
- **Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
- **Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://postscapes.com/7-postscapes-general/4-postscapes-legal-terms-of-service-and-privacy-policy>
-
- **Your Consent**
-
-By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
-
- **Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or send an email notifying you of any changes. 
-
- **Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-http://postscapes.com  
-3728 Manzanita Dr  
-Loveland, CO 80537  
-USA  
-hello@postscapes.com
+[Privacy Policy](https://www.iubenda.com/privacy-policy/452223 "Privacy Policy")
