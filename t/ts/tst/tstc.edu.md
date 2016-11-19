@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tstc.edu privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422002931id_/http%3A//www.tstc.edu/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tstc.edu privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119110306id_/http%3A//www.tstc.edu/footer/privacy) for the most accurate reproduction.*
 
-# Texas State Technical College | Footer | Privacy and Security
+# Texas State Technical College | Footer | Texas State Technical College Privacy and Security
 
 ## Privacy & Security
 
@@ -27,7 +27,7 @@ If you choose to enter a contest or giveaway, make a donation, fill out a form o
 Third-party vendors, such as Google, may use cookies or other technologies to serve ads or deliver content on other websites based on your visits to our Sites and other sites on the Internet and to provide analytics services. These third parties may automatically collect information about your visits to this and other websites, your IP address, your ISP, the browser you use to visit our Site, pages viewed, time spent on pages, links clicked and conversion information. They do this using cookies, clear gifs or other technologies.
 
   
-Information automatically collected by third parties may be used by third parties, among other things, to analyze and track data, to solicit donations, to deliver advertising or content on other websites based on your prior activities on this or other sites or targeted to your interests, and to better understand the usage and visitation of our Sites and the other sites tracked by these third parties. To manage settings for the Google advertising cookies and to opt-out of certain features, visit their [Ad Settings](https://www.google.com/settings/not-supported?ref=/settings/ads/anonymous "Ad Settings").
+Information automatically collected by third parties may be used by third parties, among other things, to analyze and track data, to solicit donations, to deliver advertising or content on other websites based on your prior activities on this or other sites or targeted to your interests, and to better understand the usage and visitation of our Sites and the other sites tracked by these third parties. To manage settings for the Google advertising cookies and to opt-out of certain features, visit their [Ad Settings](https://myaccount.google.com/not-supported "Ad Settings").
 
   
 This Policy does not apply to, and we are not responsible for, cookies or clear gifs used by the third parties, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. If you would like to opt out of these cookies or obtain more information about this practice, [visit Google Analytics opt-outs](https://tools.google.com/dlpage/gaoptout/ "Google Analytics Opt-outs").  
