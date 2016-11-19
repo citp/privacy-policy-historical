@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the gomlab.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525190048id_/http%3A//www.gomlab.com/policy.gom%3Flanguage%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomlab.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119025259id_/http%3A//www.gomlab.com/policy.gom%3Flanguage%3Deng) for the most accurate reproduction.*
 
-# GOMlab.com include technical information and download link of GOM Media Player, GOM Audio, GOM Video Converter and GOM Remote.
+# GOMlab.com include technical information and download link of GOM Player, GOM Audio, GOM Video Converter and GOM Remote.
 
-## What This Privacy Policy Covers
+## WHAT THIS PRIVACY POLICY COVERS
 
 This policy covers how Gretech treats personal information that Gretech collects and receives.  
 Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.  
 This policy does not apply to the practices of companies that Gretech does not own or control, or to people that Gretech does not employ or manage.
 
-## Commitment To Your Privacy
+## COMMITMENT TO YOUR PRIVACY
 
 This site is owned and operated by Gretech Corporation. Your privacy on the Internet is of the utmost importance to us. At Gretech, we want to make your experience online satisfying and safe.  
 Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
@@ -22,14 +22,15 @@ Information Gretech gathers through aggregated tracking information derived main
 **Gretech Gathers User Information In The Following Processes**  
 When a user views different webpages or downloads GOM Media Player  
 When a user views writes a topic or a comment on our discussion forum  
-When a user views writes us an email
+When a user views writes us an email  
+When a user buy a paid services
 
 **Optional Voluntary Information**  
-We offer the following free services, which require some type of voluntary submission of personal information by users   
+We offer the following free services, which require some type of voluntary submission of personal information by users  
 Newsletter  
 Discussion forum
 
-## Privacy Policy
+## PRIVACY POLICY
 
 ### Electronic newsletters policy (Dispatches)
 
