@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the msichicago.org privacy policy that was archived on 2016-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160613085813id_/http%3A//www.msichicago.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the msichicago.org privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119170454id_/http%3A//www.msichicago.org/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" xmlns:fb="http://ogp.me/ns/fb#" class="wf-proximanova-n4-active wf-proximanova-i4-active wf-proximanova-n6-active wf-proximanova-n7-active wf-proximanova-i7-active wf-icons-n4-active wf-playfairdisplay-n4-active wf-playfairdisplay-i4-active wf-active"><head>
+<!DOCTYPE html><html lang="en" xmlns:fb="http://ogp.me/ns/fb#" class="js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths wf-proximanova-n4-inactive wf-proximanova-n6-inactive wf-proximanova-n7-inactive wf-playfairdisplay-n4-inactive wf-playfairdisplay-i4-inactive wf-icons-n4-inactive wf-proximanova-i4-inactive wf-proximanova-i7-inactive wf-inactive"><head>
 
 <meta charset="utf-8">
 <!-- 
@@ -32,7 +32,7 @@
 
 
 
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WKGLGG"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//static.woopra.com/js/t/5.js"></script><script type="text/javascript">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WKGLGG"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" id="inspsync" src="https://cdn.inspectlet.com/inspectlet.js"></script><script async="" src="//static.woopra.com/js/t/5.js"></script><script type="text/javascript">
 /*<![CDATA[*/
 /*_scriptCode*/
 
@@ -83,6 +83,14 @@
 
   // @todo Let's not track every page?
   woopra.track();
+  <!-- Begin Inspectlet Embed Code -->
+  window.__insp = window.__insp || [];
+  __insp.push(['wid', 450186688]);
+  (function() {
+  function ldinsp(){if(typeof window.__inspld != "undefined") return; window.__inspld = 1; var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); };
+  setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent ? window.attachEvent('onload', ldinsp) : window.addEventListener('load', ldinsp, false)) : ldinsp();
+  })();
+  <!-- End Inspectlet Embed Code -->
 
 
 /*]]>*/
@@ -90,11 +98,11 @@
 
 <title>Privacy Policy - Museum of Science and Industry</title>
 	<meta name="title" content="Privacy Policy - Museum of Science and Industry">
-	<meta name="date" content="2016-05-26">
-	<link rel="canonical" href="http://relaunch.msichicago.org/privacy-policy/">
-
-<link rel="stylesheet" href="/typo3conf/ext/msi_skin/Resources/Public/StyleSheets/fonts.min.1465526179.css">
-<link rel="stylesheet" href="/typo3conf/ext/msi_skin/Resources/Public/StyleSheets/all.min.1465526179.css">
+	<meta name="date" content="2016-09-26">
+	<link rel="canonical" href="http://www.msichicago.org/privacy-policy/">
+<!-- VhsAssetsDependenciesLoaded fontCss,mainCss,inlinejs-head,jquery,mainJs -->
+<link rel="stylesheet" href="/typo3conf/ext/msi_skin/Resources/Public/StyleSheets/fonts.min.1477365106.css">
+<link rel="stylesheet" href="/typo3conf/ext/msi_skin/Resources/Public/StyleSheets/all.min.1477365105.css">
 <link rel="stylesheet" href="/typo3conf/ext/msi_skin/Resources/Public/StyleSheets/fonts.min.css" media="all"><script type="text/javascript">
     WebFontConfig = {
       custom: {
@@ -211,7 +219,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 					<a role="search" class="mobile-search" title="Search" href="/search/" data-search-modal="">Search</a>
 
-					<a class="button button-table large" title="Tickets" href="https://relaunch.msichicago.org/tickets/"><span class="first-icon-cell"><i class="icon icon-ticket"></i></span><span class="text-cell">Tickets</span><span class="last-icon-cell"><i class="icon icon-anglebracket-right"></i></span></a>
+					<a class="button button-table large" title="Tickets" href="https://www.msichicago.org/tickets/"><span class="first-icon-cell"><i class="icon icon-ticket"></i></span><span class="text-cell">Tickets</span><span class="last-icon-cell"><i class="icon icon-anglebracket-right"></i></span></a>
 
 					<div data-cart-open-container="" style="margin-left: 0; width: 0;">
 						<a id="my-visit-opener-mobile" class="button button-table large" data-cart-open="" style="display: none;">
@@ -219,8 +227,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						</a>
 					</div>
 					<script>
-						var cartItems = window.localStorage.getItem('MSICart');
-						if (cartItems && (cartItems !== "[]")) {
+						var isLocalStorageAvailable = (function() {
+							var test = 'MSIPersonasTest';
+							try {
+								localStorage.setItem(test, test);
+								localStorage.removeItem(test);
+								return true;
+							} catch (e) {
+								return false;
+							}
+						})();
+
+						var showMyVisitButton = false
+						if (isLocalStorageAvailable) {
+							var cartItems = window.localStorage.getItem('MSICart');
+							showMyVisitButton = cartItems && (cartItems !== "[]");
+						} else {
+							showMyVisitButton = true;
+						}
+
+						if (showMyVisitButton) {
 							document.getElementById('my-visit-opener-mobile').style.display = 'table';
 
 							var body = document.querySelector('body');
@@ -284,7 +310,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 										<li data-cart-open-container="" class="nav-global__item button-group">
-											<a class="nav-global__link button tickets" title="Tickets" href="https://relaunch.msichicago.org/tickets/">
+											<a class="nav-global__link button tickets" title="Tickets" href="https://www.msichicago.org/tickets/">
 												Tickets
 											</a>
 											<a id="my-visit-opener" class="nav-global__link button" data-cart-open="" style="display: none;">
@@ -302,8 +328,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 										</li>
 									</ul>
 									<script>
-										var cartItems = window.localStorage.getItem('MSICart');
-										if (cartItems && (cartItems !== "[]")) {
+										var isLocalStorageAvailable = (function() {
+											var test = 'MSIPersonasTest';
+											try {
+												localStorage.setItem(test, test);
+												localStorage.removeItem(test);
+												return true;
+											} catch (e) {
+												return false;
+											}
+										})();
+
+										var showMyVisitButton = false
+										if (isLocalStorageAvailable) {
+											var cartItems = window.localStorage.getItem('MSICart');
+											showMyVisitButton = cartItems && (cartItems !== "[]");
+										} else {
+											showMyVisitButton = true;
+										}
+
+										if (showMyVisitButton) {
 											document.getElementById('my-visit-opener').style.display = 'block';
 											var body = document.querySelector('body');
 											var hasClass = (' ' + body.className + ' ').indexOf(' my-visit-button-shown ') > -1;
@@ -643,7 +687,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						
 							
 	
-			<a href="/support/donate/annual-fund/donate-now/" class="lazyload-child">
+			<a href="https://www.msichicago.org/support/donate/annual-fund/donate-now/" class="lazyload-child">
 				
 	
 		
@@ -795,6 +839,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 		
 
+		
+
 		<div id="c5535" class="row collapse " data-theme-class="">
 			<div class="columns">
 				<section class="big-header bh__height-size-2 text-light">
@@ -838,47 +884,59 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			
 			<script>
     if (window.location.pathname !== '/') {
-        var lastHeaderId = window.localStorage.getItem('MSIHeader');
-        var headerElement = document.querySelector('#feature [id]');
-        var hasEmptyLocationHash = window.location.hash === '';
-        var hasSkipFeatureHash = window.location.hash === '#skip-feature';
+        var isLocalStorageAvailable = (function() {
+            var test = 'MSIHeaderTest';
+            try {
+                localStorage.setItem(test, test);
+                localStorage.removeItem(test);
+                return true;
+            } catch (e) {
+                return false;
+            }
+        })();
+        if (isLocalStorageAvailable) {
+            var lastHeaderId = window.localStorage.getItem('MSIHeader');
+            var headerElement = document.querySelector('#feature [id]');
+            var hasEmptyLocationHash = window.location.hash === '';
+            var hasSkipFeatureHash = window.location.hash === '#skip-feature';
 
-        if (headerElement) {
-            var currentHeaderId = headerElement.id;
+            if (headerElement) {
+                var currentHeaderId = headerElement.id;
 
-            if (hasSkipFeatureHash) {
-                if (!lastHeaderId || (lastHeaderId !== currentHeaderId)) {
-                    window.location.hash = '';
-                    window.localStorage.setItem('MSIHeader', currentHeaderId)
-                }
-            } else if (hasEmptyLocationHash) {
-                // We've seen this header before. Skip it.
-                if (lastHeaderId && (lastHeaderId === currentHeaderId)) {
-                    var url = window.location.href;
-
-                    document.getElementById("header-outer-wrap").style.display = "none";
-                    document.getElementById("feature").style.display = "none";
-
-                    var skipFeaturePosition = document.getElementById('skip-feature').offsetTop;
-                    var skippedFeature = false;
-                    if (skipFeaturePosition > 0) {
-                        skippedFeature = true;
-                        window.scrollTo(0, skipFeaturePosition);
+                if (hasSkipFeatureHash) {
+                    if (!lastHeaderId || (lastHeaderId !== currentHeaderId)) {
+                        window.location.hash = '';
+                        window.localStorage.setItem('MSIHeader', currentHeaderId)
                     }
+                } else if (hasEmptyLocationHash) {
+                    // We've seen this header before. Skip it.
+                    if (lastHeaderId && (lastHeaderId === currentHeaderId)) {
+                        var url = window.location.href;
 
-                    document.addEventListener("DOMContentLoaded", function(event) {
-                        document.getElementById("header-outer-wrap").style.display = "block";
-                        document.getElementById("feature").style.display = "block";
+                        document.getElementById("header-outer-wrap").style.display = "none";
+                        document.getElementById("feature").style.display = "none";
 
-                        if (!skippedFeature) {
-                            skipFeaturePosition = document.getElementById('skip-feature').offsetTop;
-                            if (skipFeaturePosition > 0) {
-                                window.scrollTo(0, skipFeaturePosition);
-                            }
+                        var skipFeaturePosition = document.getElementById('skip-feature').offsetTop;
+                        var skippedFeature = false;
+                        if (skipFeaturePosition > 0) {
+                            skippedFeature = true;
+                            window.scrollTo(0, skipFeaturePosition);
                         }
-                    });
-                } else {
-                    window.localStorage.setItem('MSIHeader', currentHeaderId)
+
+                        document.addEventListener("DOMContentLoaded", function(event) {
+                            document.getElementById("header-outer-wrap").style.display = "block";
+                            document.getElementById("feature").style.display = "block";
+
+                            if (!skippedFeature) {
+                                skipFeaturePosition = document.getElementById('skip-feature').offsetTop;
+                                if (skipFeaturePosition > 0) {
+                                    window.scrollTo(0, skipFeaturePosition);
+                                }
+                            }
+                        });
+                    } else {
+                        window.localStorage.setItem('MSIHeader', currentHeaderId)
+                    }
                 }
             }
         }
@@ -1348,16 +1406,49 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						</div><!-- end .columns -->
 					</div><!-- end row -->
 
-					<div class="footer-end row">
-						<div class="medium-24 large-11 large-push-13 columns">
+					<div data-footer-end="" class="footer-end row">
+
+						<div class="large-10 large-push-8 medium-24 columns">
 							<ul class="nav-utility inline-list privacy">
 								<li><a href="/privacy-policy/">Privacy Policy</a><i class="icon icon-anglebracket-right"></i></li>
 								<li><a href="/terms-of-use/">Terms of Use</a><i class="icon icon-anglebracket-right"></i></li>
 								<li><a href="/contact/">Contact us </a><i class="icon icon-anglebracket-right"></i></li>
 							</ul>
 						</div><!-- end .columns -->
-						<div class="medium-24 large-13 large-pull-11 columns copyright">
-							©&nbsp;2016 Museum of Science and Industry, Chicago
+
+						<div class="large-8 large-pull-10 medium-24 columns copyright">
+							<span>©&nbsp;2016 Museum of Science and Industry, Chicago</span>
+						</div><!-- end .columns -->
+
+						<div class="large-6 medium-24 columns translate-btn-column">
+							<div data-translate-btn="" class="translate-btn" style="display: none;">
+								<span class="last-icon-cell"><i class="icon small icon-anglebracket-down"></i></span>
+								<div id="google_translate_element"></div>
+								<script type="text/javascript">
+									function googleTranslateElementInit() {
+										$('[data-footer-end]').addClass('translate-on');
+										$('[data-translate-btn]').show();
+
+										new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+										$('#footer .translate-btn select > option:first-child').text('Translate');
+										$('select.goog-te-combo').on('change', toggleTranslationBar());
+										if ($('select.goog-te-combo').val() != "") {
+											toggleTranslationBar();
+										}
+									}
+
+									function toggleTranslationBar() {
+										setInterval(function(){
+											if ($('body > .skiptranslate:first-child').css('display') == 'block') {
+												$('body').addClass('translation-bar-on');
+											} else {
+												$('body').removeClass('translation-bar-on');
+											}
+										}, 1000);
+									}
+								</script>
+								<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+							</div>
 						</div><!-- end .columns -->
 					</div><!-- end .row -->
 
@@ -1397,8 +1488,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script type="text/javascript" src="/typo3conf/ext/msi_skin/Resources/Public/JavaScript/all.min.1465526179.js"></script>
+<script type="text/javascript" src="/typo3conf/ext/msi_skin/Resources/Public/JavaScript/all.min.1477365105.js"></script>
 
 
-<!-- Cached page generated 06-13-16 01:15. Expires 06-14-16 00:00 -->
-<!-- Parsetime: 0ms --></body></html>
+<!-- cached statically on: 11-19-16 00:17 -->
+<!-- expires on: 11-20-16 00:00 --></body></html>
