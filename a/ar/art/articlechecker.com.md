@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlechecker.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502182917id_/http%3A//www.articlechecker.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlechecker.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119013635id_/http%3A//www.articlechecker.com/privacy.html) for the most accurate reproduction.*
 
-# Plagiarism Checker - Privacy Policy
+# Essay About Friendship - ArticleChecker.com
 
 This Privacy Policy discloses the privacy practices for www.plagiarismchecker.com, its applications, products, software various related services (together referred to as the "Services"). The Services are provided by PlagiarismChecker.com and its parent, affiliates, business divisions and subsidiaries (referred to as "us" or "we"). We are committed to protecting your privacy online. Please read the information below to learn the following regarding your use of the Services. 
 
@@ -90,4 +90,4 @@ If you are a California resident, in addition to the rights set forth above, you
 
 You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is articlechecker@gmail.com. 
 
-Last Updated: 14 April 2012 
+Last Updated: 14 August 2016 
