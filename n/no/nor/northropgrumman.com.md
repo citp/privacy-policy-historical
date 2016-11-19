@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the northropgrumman.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409223502id_/http%3A//www.northropgrumman.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northropgrumman.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119022653id_/http%3A//www.northropgrumman.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Northrop Grumman Online Privacy Notice
 
-_Effective October 2014_
+_Effective September 16, 2016_
 
-We at Northrop Grumman respect your concerns about privacy. This Online Privacy Notice applies to northropgrumman.com and other external Northrop Grumman websites that link to this Notice (the "Sites"). This Notice describes the types of personal information we collect on the Sites, how we use the information, with whom we share it and the choices available to users of our Sites regarding our use of the information. We also describe the measures we take to protect the security of the information and how users can contact us about our privacy practices. Certain of the Sites may provide additional detail about privacy practices specific to those Sites. Internal company policies and procedures govern Northrop Grumman’s internal networks and systems and the processing of personal information relating to employees and other authorized Northrop Grumman network users.
+We at Northrop Grumman respect your concerns about privacy. This Online Privacy Notice applies to northropgrumman.com and other external Northrop Grumman websites that link to this Notice (the "Sites"). This Notice describes the types of personal information we collect on the Sites, how we use the information, with whom we share it and the choices available to users of our Sites regarding our use of the information. We also describe the measures we take to protect the security of the information and how users can contact us about our privacy practices. Certain of the Sites may provide additional detail about privacy practices specific to those Sites. Internal company policies and procedures govern Northrop Grumman's internal networks and systems and the processing of personal information relating to employees and other authorized Northrop Grumman network users.
 
 Click on one of the links below to jump to the listed section:
 
@@ -40,9 +40,9 @@ When you use our Sites, we may collect certain information by automated means, u
 
 Cookies are files that websites send to your computer or other Internet-connected device to uniquely identify your browser or to store information or settings on your device. Our Sites may use cookies (such as HTTP and HTML5 cookies) and Flash cookies, as well as other types of local storage (such as browser-based or plugin-based local storage). Your browser may tell you how to be notified when you receive certain types of cookies and how to restrict or disable certain cookies. You also may be able to delete your Flash cookies or adjust your Flash cookie settings by visiting the Adobe Flash [Website Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) and [Global Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html). **** Please note, however, that without cookies you may not be able to use all of the features of our Sites or other websites and online services.
 
-In conjunction with gathering information through cookies, our web servers may log information such as your device type, operating system type, browser type, domain, and other system settings, as well as the language your system uses and the country and time zone where your device is located. We also may record information such as the address of the web page that referred you to our Sites and the IP address of the device you use to connect to our Sites. We also may log information about your interaction with the Sites, such as which pages you visit. We may place tags on our web pages called “web beacons,” which are small files that link web pages to particular web servers and their cookies. 
+In conjunction with gathering information through cookies, our web servers may log information such as your device type, operating system type, browser type, domain, and other system settings, as well as the language your system uses and the country and time zone where your device is located. We also may record information such as the address of the web page that referred you to our Sites and the IP address of the device you use to connect to our Sites. We also may log information about your interaction with the Sites, such as which pages you visit. We may place tags on our web pages called "web beacons," which are small files that link web pages to particular web servers and their cookies. 
 
-We may use third-party web analytics services on our Sites, such as those of Google Analytics, Adobe Omniture, ScorecardResearch and DocAve Analytics. These service providers help us analyze how users use the Sites. The information collected for this purpose (including your IP address and other information collected by automated means) will be disclosed to or collected directly by these service providers. To learn more about how to opt out of these third-party web analytic service providers’ activities, click the relevant link below:
+We may use third-party web analytics services on our Sites, such as those of Google Analytics, Adobe Omniture, ScorecardResearch and DocAve Analytics. These service providers help us analyze how users use the Sites. The information collected for this purpose (including your IP address and other information collected by automated means) will be disclosed to or collected directly by these service providers. To learn more about how to opt out of these third-party web analytic service providers' activities, click the relevant link below:
 
   * [Google Analytics](http://tools.google.com/dlpage/gaoptout)
   * [Adobe Omniture](http://www.adobe.com/privacy/opt-out.html#4)
@@ -76,7 +76,7 @@ We may use the information described above to:
 
 We also may use the information in other ways for which we provide specific notice at the time of collection.
 
-In addition, we use information collected through automated means for the purposes set forth above, including by (i) customizing our users’ visits to our Sites, (ii) analyzing the manner in which our users interact with our Sites and online advertisements, (iii) delivering content tailored to our users’ interests and (iv) managing our Sites and other aspects of our business.
+In addition, we use information collected through automated means for the purposes set forth above, including by (i) customizing our users' visits to our Sites, (ii) analyzing the manner in which our users interact with our Sites and online advertisements, (iii) delivering content tailored to our users' interests and (iv) managing our Sites and other aspects of our business.
 
 ### Interest-Based Advertising
 
@@ -96,9 +96,9 @@ We offer you certain choices in connection with the personal information we coll
 
 ### Data Transfers
 
-We may transfer the personal information we collect about you through the Sites to countries other than the country in which the information originally was collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this Online Privacy Notice.
+We may transfer the personal information we collect about you to recipients in countries other than the country in which the information originally was collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to recipients in other countries (such as the U.S.), we will protect that information as described in this Online Privacy Notice. 
 
-If you are located in the European Economic Area (EEA) or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of personal information to countries outside of the EEA and Switzerland. Northrop Grumman is certified under the EU and Swiss Safe Harbor privacy frameworks, regarding the collection, storage, use, transfer and other processing of personal data transferred from those areas to the U.S. To learn more about the Safe Harbor framework, and to view Northrop Grumman’s certification, please visit <http://www.export.gov/safeharbor/>.
+If you are located in the European Economic Area ("EEA"), we will comply with applicable legal requirements providing adequate protection for the transfer of personal information to recipients in countries outside of the EEA. With respect to transfers of personal information to the U.S., Northrop Grumman is certified under the EU-U.S. Privacy Shield framework developed by the U.S. Department of Commerce and the European Commission regarding the transfer of personal information from the EEA to the U.S. Click [here](https://web.archive.org/Pages/EU-US-Privacy-Shield-Policy.aspx) to view our EU-U.S. Privacy Shield Privacy Notice. Northrop Grumman is also certified under the Swiss Safe Harbor privacy framework, regarding the collection, storage, use, transfer and other processing of personal data transferred from Switzerland to the U.S. To learn more about the U.S.-Swiss Safe Harbor framework, and to view Northrop Grumman’s certification, please visit <http://www.export.gov/safeharbor/>.
 
 ### How We Protect Personal Information
 
@@ -106,7 +106,7 @@ We maintain administrative, technical and physical safeguards designed to protec
 
 ### Links To Other Websites
 
-Our Sites may provide links to other websites for your convenience and information. These websites may operate independently from us. Linked sites may have their own privacy notices or policies, which we strongly suggest you review. To the extent any linked websites are not owned or controlled by us, we are not responsible for the websites’ content, any use of the websites, or the privacy practices of the websites, even though you may enter that site directly from visiting ours.
+Our Sites may provide links to other websites for your convenience and information. These websites may operate independently from us. Linked sites may have their own privacy notices or policies, which we strongly suggest you review. To the extent any linked websites are not owned or controlled by us, we are not responsible for the websites' content, any use of the websites, or the privacy practices of the websites, even though you may enter that site directly from visiting ours.
 
 ### Updates To Our Online Privacy Notice
 
