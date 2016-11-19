@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the leons.ca privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417194838id_/http%3A//www.leons.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leons.ca privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119162859id_/http%3A//www.leons.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Leon's | Leon's
 
-Oops, something went wrong. Please refresh the page and try again.
-
-[](http://www.leons.ca/)
+[ ](http://www.leons.ca/)
 
 _Your Postal Code:_ **** **** **Delivery Available**
 
