@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the banfield.com privacy policy that was archived on 2016-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160624105423id_/http%3A//www.banfield.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the banfield.com privacy policy that was archived on 2016-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120005659id_/http%3A//www.banfield.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" dir="ltr" lang="en-US" style=""><!--<![endif]--><head id="head"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><title>
 	Privacy Policy - Banfield Pet Hospital®
@@ -57,7 +57,8 @@
     ;(function (g) {
         var d = document, i, am = d.createElement('script'), h = d.head || d.getElementsByTagName("head")[0],
                 aex = {
-                    "src": "//gateway.answerscloud.com/banfield/staging/gateway.min.js",
+                    //"src": "//gateway.answerscloud.com/banfield/production/gateway.min.js",
+                    "src": "//gateway.answerscloud.com/banfield/production/gateway.min.js",
                     "type": "text/javascript",
                     "async": "true",
                     "data-vendor": "acs",
@@ -68,7 +69,7 @@
         g['acsReady'] = function () {var aT = '__acsReady__', args = Array.prototype.slice.call(arguments, 0),k = setInterval(function () {if (typeof g[aT] === 'function') {clearInterval(k);for (i = 0; i < args.length; i++) {g[aT].call(g, function(fn) { return function() { setTimeout(fn, 1) };}(args[i]));}}}, 50);};
     })(window);
     // DO NOT MODIFY ABOVE THIS LINE *****************************************
-</script><script src="//gateway.answerscloud.com/banfield/staging/gateway.min.js" type="text/javascript" async="true" data-vendor="acs" data-role="gateway"></script>
+</script><script src="//gateway.answerscloud.com/banfield/production/gateway.min.js" type="text/javascript" async="true" data-vendor="acs" data-role="gateway"></script>
 
 <link rel="alternate" href="http://www.banfield.com/special-pages/privacy" hreflang="en"> 
 <link rel="alternate" href="http://es.banfield.com/special-pages/privacy" hreflang="es">
@@ -175,15 +176,20 @@ if (track) {
 <body class="LTR ENUS ContentBody">
     <!-- Google Tag Manager -->
     <script>
-      dataLayer = [];
+        dataLayer = [];
     </script>
-    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KTX82Z"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-KTX82Z');</script>
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KTX82Z"
+            height="0" width="0" style="display: none; visibility: hidden"></iframe>
+    </noscript>
+    <script>(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+'gtm.start':
+    new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-KTX82Z');</script>
     <!-- End Google Tag Manager -->
     <form method="post" action="/privacy" id="form">
 <div class="aspNetHidden">
@@ -217,11 +223,11 @@ CMS.Application = {
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5343185">
 </div>
-    
-    <div id="ctxM">
+        
+        <div id="ctxM">
 
 </div>
-    
+        
 <div class="site-container" id="content-top">
     
     <header class="site-header" role="banner">
@@ -248,7 +254,7 @@ CMS.Application = {
                             <a href="/our-hospitals/hospital-locations" onclick="_gas.push(['_trackEvent','Navigation','Global Header','Hospital Locator', ,false]);"><span aria-hidden="true" class="icon-locator"></span>Hospital Locator</a>
                         </li>
                         <li class="work-banfield">
-                            <a href="/careers">
+                            <a href="http://jobs.banfield.com" target="_&quot;blank&quot;">
                                 <span aria-hidden="true" class="icon-work"></span>
                                 Working at Banfield
                             </a>
@@ -696,13 +702,15 @@ CMS.Application = {
         });
     </script>
 
-
-	<div class="widget request-appointment">
+<div id="p_lt_ctl00_pageplaceholder_p_lt_ctl03_BanfieldRequestAppointmentWidget_pnlRequestAppt" class="widget request-appointment">
+	
         <div class="icon"><!-- validate --></div>
 		<h2>Request Appointment</h2>
         <p>Submit an appointment request today.</p>
-        <a href="/our-hospitals/request-appointment" class="btn btn-orange btn-block" onclick="_gas.push(['_setCustomVar',4,'Appointment Request','Appointment Request click Widget',3]); _gas.push(['_trackEvent','Widget','Appointment Request','Appointment Request Get Started ','Widget: Appointment Request',false]);">Get Started</a>
-	</div>          
+        <a href="/our-hospitals/request-appointment?hospitalcode=" class="btn btn-orange btn-block" onclick="_gas.push(['_setCustomVar',4,'Appointment Request','Appointment Request click Widget',3]); _gas.push(['_trackEvent','Widget','Appointment Request','Appointment Request Get Started ','Widget: Appointment Request',false]);">Get Started</a>    
+
+</div>
+          
       </section>
   </aside><!-- /.sidebar -->
 
@@ -728,6 +736,7 @@ var google_remarketing_only = true;
 <input type="hidden" name="p$lt$ctl00$BanfieldAdobeAnalytics$aaLoginState" id="aaLoginState" value="False">
 <input type="hidden" name="p$lt$ctl00$BanfieldAdobeAnalytics$aaMobileDevice" id="aaMobileDevice">
 <input type="hidden" name="p$lt$ctl00$BanfieldAdobeAnalytics$aaParp" id="aaParp" value="False">
+<input type="hidden" name="p$lt$ctl00$BanfieldAdobeAnalytics$aaOwpStatus" id="aaOwpStatus" value="False">
 <script type="text/javascript">
     $(document).ready(function () {
         $('[href^=tel]').each(function () {
@@ -765,7 +774,7 @@ var google_remarketing_only = true;
                     <ul>
                         <li><a href="/veterinary-professionals" onclick="_gas.push(['_trackEvent','Navigation','Global Footer','Veterinary Professionals', ,false]);">Veterinary Professionals</a></li>
                         <li><a href="/about-us" onclick="_gas.push(['_trackEvent','Navigation','Global Footer','About Us', ,false]);">About Us</a></li>
-                        <li><a href="/careers" onclick="_gas.push(['_trackEvent','Navigation','Global Footer','Careers', ,false]);">Working at Banfield</a></li>
+                        <li><a href="http://jobs.banfield.com" target="_blank" onclick="_gas.push(['_trackEvent','Navigation','Global Footer','Careers', ,false]);">Working at Banfield</a></li>
                         <li><a href="/faq" onclick="_gas.push(['_trackEvent','Navigation','Global Footer','FAQ', ,false]);">FAQ</a></li>
                         <li><a href="/contact-us" onclick="_gas.push(['_trackEvent','Navigation','Global Footer','Contact Us', ,false]);">Contact Us</a></li>
                         <li><a href="/preventive-care/optimum-wellness-plans" onclick="_gas.push(['_trackEvent','Navigation','Global Footer','Optimum Wellness Plans', ,false]);">Optimum Wellness Plans</a><span class="reg">®</span></li>
@@ -838,7 +847,7 @@ var google_remarketing_only = true;
 
                         <div id="newsletter-prompt" style="display: none;" class="email-fancybox">
                             <div class="email-title-prompt">
-                                Join our email list to receive offers, reminders, news, and more!
+                                Join our email list to learn more about the pets and owners the Banfield Foundation is helping.
                             </div>
 
                             <div class="email-cta-prompt-set">
@@ -885,8 +894,8 @@ OneLinkShow-->
 
 </div>
 <!-- /.page -->
-    
-    <input type="hidden" id="__AntiXsrfToken" value="Y4HkGgU2s819y05ZlK_L8KYjM1WdwEvw4CGeMubenW3NvjIufUSUA2-YiYzqaLKw3cHYDoSgHdlKEXfTh41KX3FnfR41:gZ6KAB_NdLxr40dXDw4Z_xtJoz-TafWbtpKmX2Nxo4foEgN9si7R5jElyeQoQb0eRrhgKoalDkQqNXxbjqjjZ3SOHzo1">
+        
+        <input type="hidden" id="__AntiXsrfToken" value="DTmH5xuwwnIGrkUyJ_5eAUpGMT6BOovRMV4tlCcJPRe8_nTR30gYc796D-uVDZ83O5-tvazaLvySOS-MO1ve0Wvlx-M1:AZG8-Jc2BcveJ8FpD0RVy-schyPY8TPhNRkvWxxdCjgwngC74TOp0soKMkCDZqnqi0VNwVweGP7_5uNDjhXNlPgslJI1">
     
 
 <script type="text/javascript">
@@ -942,8 +951,8 @@ OneLinkShow-->
                           
                     } else {
                         _satellite.track("emailsuccessdirect");
-                        $('#newsletter-completed-header').html("Thank you for signing up!");
-                        $('#newsletter-completed-body').html("Look for a Welcome Email from your friends at Banfield coming soon!");
+                        $('#newsletter-completed-header').html("");
+                        $('#newsletter-completed-body').html("Thank you for signing up.");
                         parent.$.fancybox.close();
                         $('#newsletter-completed-body').addClass('email-response-1');
                         $('#newsletter-completed-trigger').trigger('click');
@@ -1004,7 +1013,7 @@ OneLinkShow-->
         }
     });
 </script>
-<script type="text/javascript">_satellite.pageBottom();</script>  <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTYyOTMwNjQ0NA8WAh4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBFgICAQ8WAh4GYWN0aW9uBQgvcHJpdmFjeRYCAgIPZBYCZg8PFgQeCENzc0NsYXNzBQ9QYWdlUGxhY2Vob2xkZXIeBF8hU0ICAmQWAmYPZBYEAgkPZBYCZg9kFgJmDxYCHgdWaXNpYmxlaGQCCw9kFgRmD2QWAgICD2QWAmYPDxYEHwIFD1BhZ2VQbGFjZWhvbGRlch8DAgJkFgJmD2QWAgIHD2QWAmYPZBYCZg8WAh4FY2xhc3MFF3dpZGdldCBob3NwaXRhbC1sb2NhdG9yFgYCAQ8WAh4EVGV4dAUQSG9zcGl0YWwgTG9jYXRvcmQCAw8PZBYCHgtwbGFjZWhvbGRlcgURWklQIG9yIGNpdHkvc3RhdGVkAgUPD2QWAh4KZm9ybWFjdGlvbgUhL291ci1ob3NwaXRhbHMvaG9zcGl0YWwtbG9jYXRpb25zZAIGDw8WAh8EaGRkZPj7q9lgayOC661QOfHHwSyizo0L">
+<script type="text/javascript">_satellite.pageBottom();</script>  <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTYyOTMwNjQ0NA8WAh4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBFgICAQ8WAh4GYWN0aW9uBQgvcHJpdmFjeRYCAgIPZBYCZg8PFgQeCENzc0NsYXNzBQ9QYWdlUGxhY2Vob2xkZXIeBF8hU0ICAmQWAmYPZBYEAgkPZBYCZg9kFgJmDxYCHgdWaXNpYmxlaGQCCw9kFgRmD2QWAgICD2QWAmYPDxYEHwIFD1BhZ2VQbGFjZWhvbGRlch8DAgJkFgJmD2QWAgIHD2QWBGYPZBYCZg8WAh4FY2xhc3MFF3dpZGdldCBob3NwaXRhbC1sb2NhdG9yFgYCAQ8WAh4EVGV4dAUQSG9zcGl0YWwgTG9jYXRvcmQCAw8PZBYCHgtwbGFjZWhvbGRlcgURWklQIG9yIGNpdHkvc3RhdGVkAgUPD2QWAh4KZm9ybWFjdGlvbgUhL291ci1ob3NwaXRhbHMvaG9zcGl0YWwtbG9jYXRpb25zZAIBD2QWAmYPDxYCHwRnZGQCBg8PFgIfBGhkZGQxhw3Jw3r9sw46ne7nlySTySwE8w==">
   <script type="text/javascript"> 
       //<![CDATA[
       if (window.WebForm_InitCallback) { 
@@ -1015,6 +1024,28 @@ OneLinkShow-->
       //]]>
     </script>
   </form>
+
+    <!-- Quattro Tagging -->
+    <!-- Google Code for Remarketing Tag -->
+    <!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on:http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 880437657;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display: inline;">
+            <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/880437657/?value=0&amp;guid=ON&amp;script=0" />
+        </div>
+    </noscript>
+
+
 
 
 </body></html>
