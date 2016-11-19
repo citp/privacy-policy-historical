@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the techlector.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518221020id_/http%3A//techlector.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techlector.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119141051id_/http%3A//techlector.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TechLector
+# Privacy Policy – TechLector
 
-Last updated: January 21, 2015
+Last updated: July 8, 2016
 
 Techlector (“us”, “we”, or “our”) operates the http://www.Techlector.com website (the “Service”).
 
@@ -49,9 +49,12 @@ Our Service does not address anyone under the age of 13 (“Children”).
 We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we discover that a Children under 13 has provided us with Personal Information, we will delete such information from our servers immediately.
 
 **Advertising**  
-All Ads displaying on Techlector.com, purposed for monetization, may be delivered to Users by advertising partners or third parties that may collect and use cookies. These cookies allow the servers of these third party ad-networks to detect your computer each time they send you an online advertisement to compile non-personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.  
-**Google Adsense**  
-All Ads on Techlector may be served by Google. Google’s use of the DART cookie enables the company to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non-personally identifiable information” and does NOT track personal information about you, such as contact info, health and marital status, etc. You may opt out of the use of the DART cookie by visiting Google’s “ad and content network privacy policy” contained [here](http://www.google.com/privacy_ads.html).  
+All Ads displaying on Techlector.com, purposed for monetization, may be delivered to Users by advertising partners or third parties that may collect and use cookies. These cookies allow the servers of these third party ad-networks to detect your computer each time they send you an online advertisement to compile non-personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+**Google Adsense**
+
+All Ads on Techlector may be served by Google. Google’s use of the DART cookie enables the company to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non-personally identifiable information” and does NOT track personal information about you, such as contact info, health and marital status, etc. You may opt out of the use of the DART cookie by visiting Google’s “ad and content network privacy policy” contained here.
+
 This privacy policy is subject to change or modification at any time. When such is done, notifications will be put in place. If you require any more information or have any questions about our privacy policy, please feel free to [contact us.](http://techlector.com/contact-us/)
 
 **Changes To This Privacy Policy**
