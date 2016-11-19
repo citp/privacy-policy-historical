@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sajha.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606003000id_/http%3A//sajha.com/sajha/html/index.cfm%3Fprivacy%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sajha.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119020135id_/http%3A//sajha.com/sajha/html/index.cfm%3Fprivacy%3D1) for the most accurate reproduction.*
 
 # SAJHA.COM - Bringing Together Nepali Communities
 
