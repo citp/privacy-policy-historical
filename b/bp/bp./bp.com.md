@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bp.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206120433id_/http%3A//www.bp.com/content/bp/en/global/corporate/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bp.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119153539id_/http%3A//www.bp.com/en/global/corporate/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy statement | BP Global
 
@@ -24,12 +24,9 @@
 ### Keeping personal information accurate and access
     
     
-    We are committed to ensuring that your personal information is kept accurate and up to date. However, we can only make changes to your personal information if you notify us. It is your responsibility to let us know if there are inaccuracies or changes to your personal information.  Please notify us at [Webassure@bp.com](mailto:Webassure@bp.com) if there are any changes to or inaccuracies in your personal information, providing us with sufficient information to enable us to identify you, so that any changes can be made.
+    We are committed to ensuring that your personal information is kept accurate and up to date. However, we can only make changes to your personal information if you notify us. It is your responsibility to let us know if there are inaccuracies or changes to your personal information. Please notify us at [www.bp.com/contact](http://www.bp.com/en/global/corporate/general-enquiries.html "Opens in new window") if there are any changes to or inaccuracies in your personal information, providing us with sufficient information to enable us to identify you, so that any changes can be made.
     
-    In accordance with our internal policies you may ask us to provide you with access to any personal data we process about you. If you want access to your personal information contact [Webassure@bp.com](mailto:Webassure@bp.com).  We may be able to charge you for providing such access.  
-    
-
-### Security
+    In accordance with our internal policies you may ask us to provide you with access to any personal data we process about you. If you want access to your personal information contact [www.bp.com/contact](http://www.bp.com/en/global/corporate/general-enquiries.html "Opens in new window"). We may be able to charge you for providing such access.
     
     
     Transmission of information via the internet is not always secure.  We cannot guarantee the security of your data while being transmitted to our site; any transmission is at your own risk.  However, once we have received your information, we take appropriate security measures to prevent unauthorised access, improper use or disclosure, unauthorised modification or unlawful destruction or accidental loss of personal information once it is under our control.  
@@ -42,13 +39,9 @@
     Since BP operates globally, BP may want to transfer your personal information to other countries, including countries outside the European Economic Area (EEA). However, while in our control, we always seek to ensure that your personal information receives the same level of protection as it would had it stayed within the EEA, including seeking to ensure that it is kept secure and used only in accordance with our instructions and for the agreed purpose(s).
     
     We reserve the right to disclose your personal information as required by law, or when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, request from a regulator or any other legal process served on BP. In the event that BP is subject to a takeover, divestment or acquisition we may disclose your personal information to the new owner of the business.
-
-### Direct marketing
     
     
-    You agree that BP may send you marketing communications in line with your previously expressed marketing preferences. If you no longer wish to receive such, please contact us at [Webassure@bp.com](mailto:Webassure@bp.com) to modify your preferences, or follow the opt-out instructions contained in each marketing communication.
-    
-    
+    You agree that BP may send you marketing communications in line with your previously expressed marketing preferences. If you no longer wish to receive such, please contact us at [www.bp.com/contact](http://www.bp.com/en/global/corporate/general-enquiries.html "Opens in new window") to modify your preferences, or follow the opt-out instructions contained in each marketing communication.
 
 ### Site traffic information and cookies
     
@@ -59,7 +52,7 @@
     
     By visiting this website, you are agreeing to our use of cookies for these purposes.
     
-    For further information about cookies, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+    For further information about cookies, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/ "Opens in new window").
     
     This website uses cookies which:
     
@@ -72,14 +65,12 @@
 ### Questions about your personal information
     
     
-    If you have any questions relating to this privacy statement or the personal information we hold about you please contact us by email at [Webassure@bp.com](mailto:Webassure@bp.com) or by post at the following address: BP.com team, 1 St James' Square, London, SW1Y 4PD.
+    If you have any questions relating to this privacy statement or the personal information we hold about you please contact us at [www.bp.com/contact](http://www.bp.com/en/global/corporate/general-enquiries.html "Opens in new window") or by post at the following address: BP.com team, 1 St James' Square, London, SW1Y 4PD.
 
 ### Freedom of information enquiries
     
     
     If you represent a public authority governed by the Freedom of Information Act and you wish to consult with a BP stakeholder about a potential disclosure of BP information pursuant to a request you have received please email [privacy3@bp.com](mailto:privacy3@bp.com) giving your name, the name of the public authority you represent, your contact details, the nature of the request and the deadline for disclosure and a responsible BP person will contact you.
-
-### Children
     
     
     BP does not knowingly collect information from children.
@@ -93,10 +84,8 @@
     
     
     Our website may contain links to content or other functionality provided by third parties which are outside our control and are not covered by our privacy statement, including the embedded search box facility. The search box on this website (“Search Box”) is powered by Google Inc (“Google”).  You acknowledge and agree that Google’s privacy policy (located at <http://www.google.com/privacy.html>) shall apply to your use of the Search Box and by using the Search Box you consent to Google using your personal data in accordance with its privacy policy.  Similarly, if you access other websites using links or use other embedded functionality provided by third parties, the operators of those websites may collect information from or about you which will be used by them in accordance with their privacy statement, which may differ from ours. We encourage you to read those providers’ privacy statements on their websites.  We do not accept any responsibility or liability for these policies.
-
-### BP data privacy rules
     
     
-    In addition to the commitments set out in this privacy statement, BP has created a set of data privacy rules which apply to the processing of all personal information by BP.  These privacy rules can be found [here](https://web.archive.org/content/dam/bp/pdf/about-bp/privacy-statement/bp-data-privacy-rules-public-document-16-april-2010.pdf).
+    In addition to the commitments set out in this privacy statement, BP has created a set of data privacy rules which apply to the processing of all personal information by BP.  These privacy rules can be found [here](https://web.archive.org/content/dam/bp/pdf/about-bp/privacy-statement/bp-data-privacy-rules-public-document-16-april-2010.pdf "Opens in new window").
     
     For any queries regarding this document please contact [privacy3@bp.com](mailto:privacy3@bp.com)
