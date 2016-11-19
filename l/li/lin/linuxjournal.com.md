@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linuxjournal.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518103854id_/http%3A//www.linuxjournal.com/content/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxjournal.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119222206id_/http%3A//www.linuxjournal.com/content/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Linux Journal
 
@@ -12,11 +12,15 @@ Linux Journal collects information about users during their registration for som
 
 In order for you to subscribe to Linux Journal, access your subscriber data on-line, or utilize our customization features, you will need to provide us with certain personally identifiable information. Some examples of this type of information include your name, address, phone number, billing address, and e-mail address. You will only be asked to provide personal information that is essential to complete or participate in the activity that you have selected.
 
+## Co-Branded Web Pages
+
+Member Information collected when you register or log in on a co-branded page is generally available both to Linux Journal and that partner. However, each partner's use of that member information is governed by that partner's privacy policy and may be used for follow up by telephone, email or other common methods. You should contact these partners directly if you have any questions about their use of this information.
+
 ## Use of Information
 
 Linux Journal takes every precaution to protect users' information from unauthorized use. When users submit sensitive information via our web sites, the information is considered confidential both on-line and off-line. We do not allow public access to the portion of the server that contains user information.
 
-E-mail addresses provided to us will only be used to send relevant and important Linux Journal correspondence, such as notifying magazine subscribers a subscription has expired, or alternatively, to send a user their opted-in e-mail newsletter. Linux Journal strictly enforces e-mail privacy and therefore, e-mail addresses are never sold or provided to third parties. Additionally, upon request, Linux Journal will remove users (and their information) from our database or permit them to "opt-out" of any further e-mail newsletters that they had previously signed up for.
+E-mail addresses provided to us will only be used to send relevant and important Linux Journal correspondence, such as notifying magazine subscribers a subscription has expired, or alternatively, to send a user their opted-in e-mail newsletter. Linux Journal strictly enforces e-mail privacy and therefore, e-mail addresses are never sold or provided to third parties, except those provided on co-branded pages and then only specifically provided to that partner (see: Co-Branded Web Pages section above). Additionally, upon request, Linux Journal will remove users (and their information) from our database or permit them to "opt-out" of any further e-mail newsletters that they had previously signed up for.
 
 Our web server automatically recognizes and collects the domain name and IP address of visitors to our web sites. In addition, we collect aggregate tracking information derived mainly from tallying page views throughout our sites, and information volunteered by the visitor, such as survey information and/or site registrations. The information we collect is used to improve the content of our web pages, customize the content and/or layout for each individual visitor, and for us to contact visitors about our products and services as explained below.
 
