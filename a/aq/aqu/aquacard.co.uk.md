@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquacard.co.uk privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628212342id_/http%3A//www.aquacard.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquacard.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119024303id_/http%3A//www.aquacard.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,9 @@ We get information about you from a number of sources. For example, information 
   * we already hold about you;
   * we receive when making a decision about your application or account, including information we receive from enquiries and searches made at credit reference and fraud prevention agencies, from our business partners, from publically available sources or anyone else who is allowed to give us information about you;
   * we have about your account with us including details of transactions and payments;
-  * we receive from insurers or other firms who provide services to you.
+  * we receive from insurers or other firms who provide services to you;
+  * we collect using first party or third-party analytics tools to track page content and click/touch, movement, scroll, and keystroke activity;
+  * from insurers or other firms who provide services to you, including price comparison, aggregator or similar websites that you visited before clicking through to our website.
 
 
 
@@ -47,6 +49,7 @@ We may share information about you to the following people and organisations to:
 
   * any person working for a company within the NewDay Group;
   * any firm, organisation or person that we use to help us to operate our business, to provide services, to collect payments and to recover debts;
+  * a price comparison, aggregator or similar website that you visited before clicking through to our website whether or not you provided them with any personal information at that time;
   * any firm organisation or person together with whom we provide products and services;
   * any payment system we may use;
   * any firm that provides analytical, market research or similar services to us;
@@ -92,7 +95,7 @@ We will use your information to:
   * monitor and analyse our business, including to carry out customer modelling and statistical, trend and  transactional analysis;
   * form a view of you as an individual and to identify, develop or improve products that may be of interest to you and  to carry out market research;
   * provide you with products and services and tell you about changes to these products and services;
-  * contact you by email, sms, post or phone or in any other way about our products and services unless you tell us  that you prefer not to receive marketing;
+  * (where you consented to marketing during the application process) contact you by email, sms, post, phone or in any other way (including online and via social media) about our products and services unless you tell us  that you prefer not to receive marketing by contacting our Customer Services Team as set out below;
   * carry out audits;
   * trace your whereabouts where we do not have up to date contact details for you;
   * recover any debt you owe us;
@@ -138,7 +141,7 @@ As well as searching credit reference agencies, we may ask you to provide physic
 
 If you apply to us but we are unable to offer you a credit card you can contact us within 21 days to ask to have the decision reconsidered.
 
-We will keep your data for statistical analysis, fraud prevention and credit scoring purposes. We may also contact you by post, email, sms or phone about our products and services if you have given us permission to do so.
+We will keep your data for statistical analysis, fraud prevention and credit scoring purposes. Where you consented to this during the application process, we may also contact you by post, email, SMS phone or in any other way (including online and via social media) about our products and services unless you tell us that you prefer not to receive marketing by contacting our Customer Services Team as set out below.
 
 ### Incomplete applications
 
@@ -154,7 +157,7 @@ You have a right under the Consumer Credit Act 1974 to request credit reference 
 
 ### Contact from NewDay Group
 
-As part of the application process we ask whether we may contact you about our products and services. If you ticked yes, but no longer wish to receive such communications, please let us know by contacting aqua customer services on 0333 220 2691.
+As part of the application process we ask whether we may contact you about our products and services. If you ticked yes, but no longer wish to receive such communications, please let us know by writing to Customer Services Team, NewDay Ltd, PO Box 700 Leeds LS99 2BD or phoning us on the number set out on your card or statement.
 
 We want to make sure that we provide excellent customer service and we use various means of communication to do this including phone, post, email and sms.
 
@@ -326,9 +329,9 @@ i) Undertake statistical analysis and system testing. 
 
 You can contact the Credit Reference Agencies currently operating in the UK; the information they hold may not be the same so it is worth contacting them all. They will charge you a small statutory fee.
 
-  * CallCredit, Consumer Services Team, PO Box 491, Leeds, LS3 1WZ or call 0870 0601414.
-  * Equifax PLC, Credit File Advice Centre, PO Box 3001, Bradford, BD1 5US or call 0844 335 0550 or log on to  [http://www.myequifax.co.uk](http://www.myequifax.co.uk/).
-  * Experian , Consumer Help Service, PO Box 8000, Nottingham NG80 7WF or call 0844 4818000 or log on to [http://www.experian.co.uk](http://www.experian.co.uk/).
+  * CallCredit, Consumer Services Team, PO Box 491, Leeds, LS3 1WZ or call 0330 024 7574 or log onto [www.callcredit.co.uk](http://www.callcredit.co.uk/) (Consumer Help Section) 
+  * Equifax PLC, Customer Relations, P.O. Box 10036, Leicester LE3 4FS or call 0844 335 0550 or log on to [www.equifax.co.uk](http://www.equifax.co.uk/)
+  * Experian , Consumer Help Service, PO Box 8000, Nottingham NG80 7WF or call 0344 481 8000 or log on to [http://www.experian.co.uk](http://www.experian.co.uk/).
 
 
 
