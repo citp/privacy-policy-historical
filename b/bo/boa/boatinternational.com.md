@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the boatinternational.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515084130id_/http%3A//www.boatinternational.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boatinternational.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120000940id_/http%3A//www.boatinternational.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Boat International
 
-Effective Date: 09/10/2014
+Effective Date: 08/11/2016
 
 ### Protection of your information is important to us
 
 Your privacy is of our utmost concern. We will never disclose your personal details to any person without your consent. However, if you use our website to contact a yacht broker for further information on a superyacht for sale, your contact details will be directly transmitted to that broker and for no other purpose. We will never use your personal information for any other reason other than those purposes for which you have expressly consented to.
-
-Laura Nineham
-
-Digital Editor - Boat International Media
 
  **Newsletter**
 
@@ -39,10 +35,6 @@ This Privacy Policy and our Cookie Policy applies to all users, including both t
 
 Please read the following privacy policy to understand how we use and protect the information that you provide to us. This privacy policy applies only to this Site. If you do not accept this privacy policy, you must not use this Site.
 
-Boatinternational.com has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](https://www.truste.com/privacy-certification-standards/program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.boatinternational.com.
-
-TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@boatinternationalmedia.com](mailto:privacy@boatinternationalmedia.com). If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
-
 #### Collection of Personal Information
 
 We may collect personal information from you (such as name, address, telephone number and email address) when you complete sign-up process or use the enquiry forms, send emails to us or request further information or enquire about any of our advertising. Please do not submit your personal information to us if you do not wish us to collect, use and transfer your personal information under the terms of this policy.
@@ -57,7 +49,7 @@ We use this information, which does not identify individual users, to analyze tr
 
 Third parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
 
-Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. You can manage the use of Flash technologies with the Flash management tools available at [Adobes’ website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html#117498).
+Boat International Media and its partners use cookies or similar technologies to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
 #### Activity Information
 
@@ -107,7 +99,7 @@ Our website includes Social Media Features, such as the Facebook ‘Like’ butt
 
 #### Safeguards and Security
 
-No data transmission over the internet can be entirely secure, so we do not guarantee the security or integrity of your personal information and/or use of the Site. However, we use reasonable endeavours to protect the security of your personal information from unauthorised access, processing or use by using encryption technology and we will use reasonable efforts to employ security measures to prevent accidental loss, destruction and damage.
+No data transmission over the internet can be entirely secure, so we do not guarantee the security or integrity of your personal information and/or use of the Site. However, we use reasonable endeavours to protect the security of your personal information from unauthorised access, processing or use by using encryption technology and we will use reasonable efforts to employ security measures to prevent accidental loss, destruction and damage. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at [privacy@boatinternational.com](mailto:privacy@boatinternational.com).
 
 We will retain your information for as long as you actively receive our newsletters or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -117,7 +109,7 @@ This Site contains links to other websites. Please note that we are not responsi
 
 #### Accessing Your Personal Information
 
-You can access and make edits to the personal data we hold about you by logging into the Site and accessing your account. However, if you would like to inquire about additional data we may hold about you, you can also contact us as described below.
+Upon request Boat International Media will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information. We will respond to your request within a reasonable timeframe. You can access and make edits to the personal data we hold about you by logging into the Site and accessing your account. However, if you would like to inquire about additional data we may hold about you, you can also contact us as described below.
 
 You have the right, subject to the payment of a small fee (currently £10), to request access to personal data which we may process about you. If you wish to exercise this right you should:
 
