@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profits25.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522190830id_/http%3A//www.profits25.com/php2/privacypolicy.php%3Flang%3Den%26p%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profits25.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119011847id_/http%3A//www.profits25.com/php2/privacypolicy.php%3Flang%3Den%26p%3D) for the most accurate reproduction.*
 
 # PROFITS 25
 
