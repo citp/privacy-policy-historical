@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gisgeography.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626225751id_/http%3A//gisgeography.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gisgeography.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119155353id_/http%3A//gisgeography.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GIS Geography
+
+Last updated: Sunday, November 1, 2015
 
 ### Privacy Policy:
 
