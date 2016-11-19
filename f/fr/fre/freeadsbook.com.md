@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeadsbook.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630133110id_/http%3A//www.freeadsbook.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadsbook.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015737id_/http%3A//www.freeadsbook.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Real Estate, Vehicles, Pets, Jobs, & Services | FreeAdsBook.com
 
@@ -16,29 +16,4 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.   
-  
----  
-[](http://wikidok.com/2016/06/30/spray-this-and-you-will-never-see-ants-in-your-home/)
-
-[Spray This and You Will Never See Ants in Your Home](http://wikidok.com/2016/06/30/spray-this-and-you-will-never-see-ants-in-your-home/)
-
-| [](http://wikidok.com/2016/06/29/chronic-fatigue-syndrome-is-not-in-your-head-its-in-your-gut/)
-
-[Chronic Fatigue Syndrome Is Not in Your Head Its in Your Gut](http://wikidok.com/2016/06/29/chronic-fatigue-syndrome-is-not-in-your-head-its-in-your-gut/)
-
-| [](http://wikidok.com/2016/06/28/stop-your-hair-loss-100-with-guava-leaves/)
-
-[Stop Your Hair loss 100 with Guava Leaves](http://wikidok.com/2016/06/28/stop-your-hair-loss-100-with-guava-leaves/)  
-  
-[](http://wikidok.com/2016/06/27/sunglasses-cause-cancer/)
-
-[Sunglasses Cause Cancer](http://wikidok.com/2016/06/27/sunglasses-cause-cancer/)
-
-| [](http://wikidok.com/2016/06/24/easy-tricks-to-stretch-too-small-shoes/)
-
-[Easy Tricks To Stretch Too Small Shoes](http://wikidok.com/2016/06/24/easy-tricks-to-stretch-too-small-shoes/)
-
-| [](http://wikidok.com/2016/06/22/the-juice-that-removes-mucus-from-lungs-of-children/)
-
-[The Juice That Removes Mucus From Lungs Of Children](http://wikidok.com/2016/06/22/the-juice-that-removes-mucus-from-lungs-of-children/)
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
