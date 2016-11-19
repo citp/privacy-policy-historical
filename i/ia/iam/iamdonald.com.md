@@ -1,37 +1,145 @@
-> *The following text is extracted and transformed from the iamdonald.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603203730id_/http%3A//www.mailermailer.com/x%3Foid%3D1019394d%26function%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamdonald.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119142104id_/https%3A//pharos.earth/privacy) for the most accurate reproduction.*
 
-# Email List Privacy Policy
+# PHAROS - Privacy Policy
 
-This email list is hosted and managed by [MailerMailer](https://web.archive.org/index.rwp). To report any abuse or violations of this Email List Privacy Policy, please send email to [abuse@mailermailer.com](mailto:abuse@mailermailer.com) and attach an unedited copy of the email message that you feel was sent to you in error or without your permission. Include all header information so thatMailerMailer can trace origin of the message. Also include any notes or other information that you feel are pertinent. 
+Last Updated: July 2nd, 2016
 
-#### Email List Information Collection
+Donald Glover p/k/a "Childish Gambino" (" **Artist** ") and all affiliated entities, successors, assigns, agents, companies, and licensees, including, without limitation, Proverse and 3am LLC (collectively hereinafter, " **us** " " **we** " " **our** ") are concerned about privacy issues and want you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we or our third-party service providers collect through certain of our owned or controlled websites, web properties (e.g., widgets and applications) and mobile applications (" **Mobile Apps** ") (individually, a " **Property** " and collectively the " **Properties** "). By providing Personal Information (as defined below) to us through the Properties, you agree to the terms and conditions of this Privacy Policy. By purchasing a ticket to any concert, show, festival or event, you agree to the terms of this Privacy Policy, the Terms of Use and specifically to our Ticket Purchase Policy located in Section 14 of the Terms of Use. 
 
-For each visitor that signs up for our email list, we collect only the information that is requested on the list signup form. Required fields are denoted with an asterisk (*). Our web servers may collect the domain name or IP address of visitors to our web page(s). Unless otherwise stated on our web site, we collect the email addresses of those who communicate with us via email and information volunteered by you such as but not limited to list signup information, survey information, and/or site registrations. We also may collect clickstream information. In our email messages to you which are distributed through this list, we may have information from third party providers for products and services which may be advertised or promoted within messages we send to you from this email list--the privacy policies of those third-party provider sites govern the method by which they collect and use such information.
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third party, including Facebook, Inc., Apple Inc., Google Inc., Microsoft Corp., Research In Motion, any wireless carriers and any third party operating any site or property to which any Property contains a link. In addition, the inclusion of a link on any Property does not imply endorsement of, or affiliation with, the linked site by us. Please note that the Properties may include the ability to access and submit (including, for example, via a third-party software application or service that is available through or in connection with a Property) certain information directly to third parties such as Facebook or to any application platform such as Apple's App Store or Google Play. Such information is submitted by you directly to such third parties; this Privacy Policy does not apply to any information submitted by you to third parties. 
 
-#### Use of Web Site Information Collected
+The Properties are controlled and operated from the United States; accordingly, this Privacy Policy, and our collection, use and disclosure of your Personal Information is governed by U.S. law, and the Properties are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. If you are located in the European Union (EU), please note that we abide by the Safe Harbor framework agreed to by the U.S. Department of Commerce and the EU with respect to Personal Information collected by entities located in the European Economic Area and transferred to us in the United States. More information about the Safe Harbor framework can be found at http://www.export.gov/safeharbor/. 
 
-The information we collect may be used to create an aggregate demographic profile of our user base and those of the MailerMailer email list management service so that we and MailerMailer can improve content and services and provide aggregate information to potential advertisers (no individual information is provided to any third-party without your consent), to customize the content and/or layout of our email messages or pages for each individual visitor, to notify you about updates to our web site and services, to send you our opt-in e-mail newsletter(s), to provide you with the products and/or services for which you signed-up or registered, which may include sending service disruption notices or other service- or product-related information via email, and is not shared with other organizations for commercial purposes without your consent. We may share collected information with another company in the event that we merge with or are acquired by another company. Upon request, we will provide you with the information (e.g., email address, name, etc.) that we maintain about you.
+The Properties are not directed to individuals under the age of eighteen (18), and we request that such individuals do not provide Personal Information through the Properties. 
 
-#### E-mail and Direct Response Contact
+**Your California Privacy Rights:** If you are a California resident, you may request certain information once per year about our disclosure of certain categories of Personal Information during the preceding calendar year to third parties for such third parties' own direct marketing purposes. Please send your request by email to [appsupport@proverse.co](mailto:appsupport@proverse.co), or by postal mail to Proverse, 10960 Wilshire Blvd., #1900, Los Angeles, CA 90024, Attn: Privacy Information with a required copy to Proverse c/o Nixon Peabody LLP, 300 South Grand, Suite 4100, Los Angeles, CA 90071 (Attn: Julian K. Petty, Esq.). We reserve our right not to respond to requests submitted other than to the email or mailing addresses specified in this section. 
 
-If you subscribed to our e-mail newsletter(s) but do not want to receive it in the future, please follow the "unsubscribe" instructions contained in the newsletter(s).
+**_UPDATES TO THIS PRIVACY POLICY_**
 
-#### Postal Address Collection and Use
+We may change this Privacy Policy at any time. Please take a look at the "LAST UPDATED" legend at the top of this page to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we make the revised Privacy Policy available on or through the Property. Your use of any Property or your submission of any information in connection with a Property following such changes means that you accept the revised Privacy Policy. 
 
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address. If you supply us with your telephone number, you will only receive telephone contact from us with information regarding your inquiry.
+**_PERSONAL INFORMATION_**
 
-#### Cookies
+**I. Personal Information We May Collect**
 
-We, and some of our partners who provide some of the services and products on our site, may use cookies to record session information, such as items that you add to your shopping cart, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when you return to our site, and customize web page or email message content based on your browser type or other information.
+Two types of information are collected in connection with the Property: Personal Information and Other Information. " **Personal Information** " is information that identifies you as an individual. " **Other Information** " is any information that does not reveal your specific identity. Other Information is addressed separately below, under the heading "OTHER INFORMATION". 
 
-#### Ad Servers and Other Partners
+We and our third-party service providers may collect Personal Information from you, including for example: 
 
-To try and bring you offers and information that may be of interest to you, we may have relationships with other companies that we allow to place ads or provide other services or products in our e-mail newsletter(s). As a result of your visit to our site, these companies may collect non-personally-identifiable information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of these companies, which may include: [MailerMailer](https://web.archive.org/privacy-policy.rwp)
+  * Name
+  * Postal address (including billing and shipping addresses)
+  * Telephone number
+  * Email address
+  * Credit and debit card information
 
-#### Security
 
-We and MailerMailer, providers of the email list management service used for this list, strive to maintain appropriate security measures in our respective physical facilities to protect against the loss, misuse or alteration of information that we have collected from you for being part of our email list. Although we and MailerMailer take reasonable measures to secure our data, we cannot guarantee that the measures taken are or will remain adequate. Since we may include links from messages sent to the email list to other companies' web sites, please refer to the privacy policies of those sites for information on how they handle security for information they collect. 
 
-#### Changes to Email List Privacy Policy
+We and our third-party service providers collect Personal Information through the Properties, for example, when you participate in various opportunities provided through the Properties, such as: 
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in this Email List Privacy Policy notice. If our information practices change at some time in the future, we will post the policy changes to this Email List Privacy Policy page to notify you of these changes and provide you with the ability to opt out of our list. If you are concerned about how your information is used, you should check back at this Email List Privacy Policy page periodically.
+  * To respond to your inquiries and fulfill your requests (e.g., send newsletters or provide you with information about our products and services).
+  * To send you administrative information, including information regarding the Property and changes to our terms, conditions and policies.
+  * To complete and fulfill your purchase, for example, to process your payments, have your order delivered to you, communicate with you regarding your purchase and provide you with related customer service.
+  * To send to you marketing communications that we believe may be of interest to you (including, without limitation, by our third-party service providers that send direct mail, email, and other types of advertising to those whose email addresses we have collected).
+  * To send to you SMS text messages, if you have indicated you would like to receive them. Please keep in mind that message and data rates may apply. You should check with your mobile service provider for applicable data rates. If additional rules are provided in connection with any specific SMS text message sign-ups, such rules shall also apply and shall control in the event that they conflict with this Privacy Policy.
+  * To personalize your experience on the Property by presenting content, products, and offers tailored to you.
+  * To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully; in the event of a conflict between such rules and this Privacy Policy, such rules will govern.
+  * To allow you to send messages (for example, music clips or artist information) to a friend through the Property. By using such functionality, you represent and warrant to us that you are entitled to use and provide us with your friend's name and email address.
+  * For our business purposes, such as data analysis, audits, developing new products, enhancing the Property, improving our services, identifying usage trends and determining the effectiveness of promotional campaigns.
+  * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public or government authorities, including public or government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations; (f) to protect our rights, privacy, safety or property, or that of you or others; or (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+
+
+
+We may combine Personal Information that you submit on or through the Property with information that we collect from and about you from other online and offline sources, including from our own websites and web properties (including apps, widgets and players) and third party sources, which may include social media services you interact with through our Properties. We treat such combined information as Personal Information as long as it is so combined. 
+
+**II. How Personal Information May Be Disclosed**
+
+Your Personal Information may be disclosed: 
+
+  * To our third-party service providers (and in some cases, our affiliates) who provide services such as hosting, data analysis, payment processing, order fulfillment, infrastructure provision, IT services, customer service, email delivery, credit card processing, auditing and other similar services to enable them to provide such services.
+  * To unaffiliated third parties, to permit them to send marketing communications to you.
+  * To third parties that sponsor contests, sweepstakes and similar promotions.
+  * To identify you to anyone to whom you send messages on or through the Property.
+  * By you, on or through message boards, chat, profile pages and blogs and other services to which you are able to post information and materials. Please note that any information and materials that you post or disclose on or through a Property will become public information, and may be available to visitors to the Property and to the general public, and may be redistributed through the Internet and other media channels where they will reach an even broader audience. Additionally, please note that, per our Terms of Use located at http://pharos.earth/terms, we retain certain rights in the information and materials that you post on or through the Property, and we may use and disclose such information and materials (including any Personal Information included therein) in accordance with our Terms of Use. We urge you to be very careful when deciding to disclose your Personal Information, or any Other Information, on or through the Property. WE ARE NOT RESPONSIBLE FOR THE USE OR DISCLOSURE OF ANY INFORMATION YOU VOLUNTARILY DISCLOSE THROUGH ANY PROPERTY.
+  * To a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceeding).
+  * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public or government authorities, including public or government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations; (f) to protect our rights, privacy, safety or property, or that of you or others; or (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+
+
+
+**III. Retention Period**
+
+We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. 
+
+**IV. Sensitive Information**
+
+Do not send us or disclose any sensitive Personal Information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Properties or otherwise to us. 
+
+**_OTHER INFORMATION_**
+
+**I. Other Information We May Collect**
+
+We and our third-party service providers may collect Other Information (defined above), such as: 
+
+  * Browser and device information
+  * Mobile App usage data
+  * Server log files
+  * Information collected through cookies, pixel tags and other technologies
+  * Geographic location information
+  * Demographic information and other non-personally identifiable information
+  * Information about how you use the Properties
+  * Aggregated information
+
+
+
+**II. How We May Collect Other Information**
+
+We and our third-party service providers may collect Other Information in a variety of ways, including: 
+
+  * **Through your browser or your device:** Certain information is collected by most browsers, such as your Media Access Control (MAC) address, device type (Windows or Macintosh), screen resolution, operating system version, Internet browser type and version and the type and version of the Property that you are using. We and our service providers may also collect a unique device identifier assigned by us or our service providers to the device from which you are accessing the Property and other transactional information for the device that we and our service providers may use to serve content and advertisements to the device.
+  * **Through your use of Mobile Apps:** When you download and use a Mobile App, we and our service providers may track and collect Mobile App usage data, such as the date and time the Mobile App on your device accesses our servers and what information and files have been downloaded to the Mobile App based on your device number.
+  * **Through server log files:** An Internet Protocol (IP) address is a number that is automatically assigned to your device from which you are accessing the Property by your Internet Service Provider (ISP), and is identified and logged automatically in our server log files whenever you visit the Property, along with the time of the visit and the activity on the Property. We and our service providers use IP addresses for purposes such as calculating Property usage levels, helping diagnose server problems, administering the Property and determining your approximate geographic location.
+  * **Using cookies:** We and our service providers may use cookies, pixel tags, web beacons, Adobe Flash technology (including Flash Local Stored Objects ("Flash LSOs")) and other similar technologies to, among other things, better serve you with more tailored information for our products and services, and for those of third parties, facilitate your ongoing access to and use of the Property, and collect and store information about your use of the Property. For example, pixel tags and web beacons may be used in connection with the Property to, among other things, track the actions of the Property users, measure the success of marketing campaigns and compile statistics about the Property usage and response rates.
+    * If you do not want information collected through the use of cookies, there is a procedure on most devices through which the Properties are accessed that allows you to decline the use of cookies. To learn more about cookies and any "Do Not Track" features, please visit http://www.allaboutcookies.org/. If you choose to decline cookies, then some or all of the features, functionality and promotions available through the Property that may not be available to you.
+    * If your device stores Flash LSOs, and if you do not want Flash LSOs stored on your device through which you access the Property, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained using the Website Storage Settings Panel. You can also control Flash LSOs by going to the Global Storage Settings Panel and following the instructions (which may include instructions that explain, for example, how to delete existing Flash LSOs (referred to as "information" on the Macromedia site), how to prevent Flash LSOs from being placed on your device without you being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications, including, potentially, Flash applications used in connection with the Property or our content. We expect our service providers and technology suppliers to honor any decision by you to restrict or limit Flash LSOs, but we cannot guarantee that they will do so.
+    * The use of these technologies allows our third-party vendors to deliver advertisements about our products and services, and the products and services of third parties, when you use the Property or other applications or visit websites or web properties across the Internet. These vendors may place so-called "pixel tags," "web beacons," "clear GIFs" or similar technologies on the device through which you access the Property, and other applications or websites across the Internet, and also place or recognize third-party cookies when you use the Property, or other applications, websites or web properties. These vendors may use information about your visits to the Property, and other applications, websites or web properties (excluding your name, address, email address and telephone number) to provide advertisements for us and others about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit the Network Advertising Initiative at www.networkadvertising.org or the Digital Advertising Alliance at www.aboutads.info.
+  * **Geographic location information:** If you use any location-enabled products or services, you may be sending us location information. When you use a location-enabled service, we may collect and process information about your precise geographical location, such as GPS signals sent by a mobile device. We and our third party service providers and partners may use your device's physical location to provide you with personalized location-based services, content and advertisements. In some instances, you may be permitted to allow or deny such uses of your device's location, but if you choose to deny such uses, we may not be able to provide you with the applicable personalized services and content.
+  * **From you:** We may collect demographic information, such as your zip code or gender, as well as other information, such as your preferred means of communication, when you voluntarily provide this information to us. Unless combined with Personal Information, this information does not personally identify you or any other user of the Properties.
+  * **Information about how you interact on the Properties:** We may collect information about how you interact on the Properties. For example, some Properties may utilize analytic tools to help us better serve you through improved products, services, and revisions to the Properties. This collected information may let us know which services and features you are using the most within a Property, as well as device type and hardware features, country and language of download, etc.
+  * **By aggregating information:** We may aggregate Personal Information so that the end-product does not personally identify you or any other user of the Property, for example, by using Personal Information to calculate the percentage of our users who like a particular artist.
+
+
+
+**III. How We May Use and Disclose Other Information**
+
+Please note that we may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. If we are required to treat Other Information as Personal Information under applicable law, then we may use it as described in "How We May Collect Other Information" section above, as well as for all the purposes for which we use and disclose Personal Information. In some instances, we may combine Other Information with Personal Information (such as combining your name with your geographical location). If we combine any Other Information with Personal Information, the combined information will be treated by us as Personal Information as long as it is combined. 
+
+**_SECURITY_**
+
+We seek to use reasonable physical, technical and administrative measures to protect Personal Information under our control. Unfortunately, no data transmission over the Internet or data security system can be guaranteed to be 100% secure. 
+
+**_CHOICE AND ACCESS_**
+
+**Your choices regarding our use and disclosure of your Personal Information:**
+
+We give you many choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from: 
+
+  * **Receiving marketing-related emails from us and our affiliates:** If you do not want to receive marketing-related emails from us and our affiliates on a going-forward basis, you may opt-out from receiving such emails either by using the unsubscribe mechanism provided in the email or by emailing us at [appsupport@proverse.co](mailto:appsupport@proverse.co).
+  * **Receiving marketing-related SMS text messages from us and our affiliates:** If you do not want to receive marketing-related SMS text messages from us and our affiliates on a going-forward basis, you may opt-out from receiving such messages by emailing us at [appsupport@proverse.co](mailto:appsupport@proverse.co).
+  * **Our sharing of your Personal Information with unaffiliated third parties for their marketing purposes:** If you prefer that we not share your Personal Information on a going-forward basis with unaffiliated third parties for their marketing purposes, you may opt-out from such sharing by emailing us at [appsupport@proverse.co](mailto:appsupport@proverse.co).
+
+
+
+In each case, please make clear in your email what you are opting-out from. We will try to comply with your request(s) as soon as reasonably practicable. 
+
+Please note that, if you opt-out as described above, we will not be able to remove your Personal Information from the databases of unaffiliated third parties with which we have already shared your Personal Information as of the date that we implement your opt-out request. Please also note that, if you do opt-out from receiving marketing-related messages from us, we may still send administrative messages to you; you cannot opt-out from receiving administrative messages. 
+
+**How you can access, change or suppress your Personal Information:**
+
+If you would like to review, correct, update, suppress, delete or otherwise limit our use of your Personal Information that you have previously provided to us, you may contact us by emailing us at [appsupport@proverse.co](mailto:appsupport@proverse.co). 
+
+In your request, please make clear what Personal Information you would like to have changed and what limitations (if any) you would like to place on our use of your Personal Information. We will try to comply with your request as soon as reasonably practicable. We may need to retain certain information for recordkeeping purposes, and there may also be residual information that will remain within our databases and other records which will not be removed. We are not responsible for changing, removing or suppressing information from the databases of unaffiliated third parties with which we have already shared your Personal Information. 
+
+**_CONTACT_**
+
+If you have any questions about this Privacy Policy, please contact us by email at [appsupport@proverse.co](mailto:appsupport@proverse.co), or please write to the following address: Proverse, 10960 Wilshire Blvd., #1900, Los Angeles, CA 90024 (Attn: App Information) with a required copy to Proverse c/o Nixon Peabody LLP, 300 South Grand, Suite 4100, Los Angeles, CA 90071 (Attn: Julian K. Petty, Esq.) 
+
+Please note that email communications are not always secure, so please do not include credit card information or other sensitive information in your email messages to us. 
