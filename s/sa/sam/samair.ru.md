@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the samair.ru privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523102053id_/http%3A//www.samair.ru/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samair.ru privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119190203id_/http%3A//www.samair.ru/privacy) for the most accurate reproduction.*
 
-# NNTime - Privacy Policy
+# SamAir Privacy Policy
 
 Samair.ru committed to user privacy and our policy below describes our principles in maintaining user trust and confidence and protecting your personal information.
 
