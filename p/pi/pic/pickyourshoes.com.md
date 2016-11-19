@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pickyourshoes.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630090439id_/http%3A//www.pys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickyourshoes.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119052753id_/http%3A//www.pys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -183,3 +183,5 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 **•**  Follow the instructions at the bottom of each email.
 
 and we will promptly remove you from  **ALL**  correspondence.
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
