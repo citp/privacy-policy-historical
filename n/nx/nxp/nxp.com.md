@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nxp.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513064107id_/http%3A//www.nxp.com/about/privacy%3APRIVACYPRACTICES) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nxp.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119201653id_/http%3A//www.nxp.com/about/privacy%3APRIVACYPRACTICES) for the most accurate reproduction.*
 
 # Privacy|NXP
 
-NXP believes strongly in protecting the privacy of the personally identifiable information you share with us. We also believe it is important to inform you about how we will use your personal data, and to give you choices about how those data will be used. By using NXP's website, you are consenting to NXP's collection, use, or storage of your personally identifiable information unless you opt out of such collection, use, or storage in accordance with the opt out process described in this Privacy Policy. Therefore, we encourage you to read this Privacy Policy carefully.
+NXP® believes strongly in protecting the privacy of the personally identifiable information you share with us. We also believe it is important to inform you about how we will use your personal data, and to give you choices about how those data will be used. By using NXP's website, you are consenting to NXP's collection, use, or storage of your personally identifiable information unless you opt out of such collection, use, or storage in accordance with the opt out process described in this Privacy Policy. Therefore, we encourage you to read this Privacy Policy carefully.
 
   * Scope of this Privacy Policy
   * Why should you share your personal data with NXP?
@@ -31,12 +31,13 @@ Sharing your personally identifiable information enables us to offer you a numbe
   * Receive personalized messages and special offers that are relevant to your interests
   * Save time by storing your preferences
   * Buy NXP products online
+  * Apply for employment
 
 
 
 It will also allow us to conduct market research to help us develop better products, to provide more responsive customer service, and to improve our websites.
 
-You may choose to share your information with us in a number of ways online, such as completing an registration form to become a member of MyNXP, ordering a product, entering a contest, registering a purchase, participating in a promotion, or subscribing to a newsletter.
+You may choose to share your information with us in a number of ways online, such as completing an registration form to become a member of MyNXP®, ordering a product, entering a contest, registering a purchase, participating in a promotion, subscribing to a newsletter, or submitting information in connection with a job application.
 
 You can also share your personally identifiable information with us by communicating with one of our customer care representatives by e-mail, telephone, or in writing.
 
@@ -49,6 +50,8 @@ We want to know you better so we can serve you better. But the choice of whether
 You should know that your personally identifiable information may be transferred from your home country to other NXP companies around the world, who may communicate with you about our products or special offers you may find useful. If you do not want us to send you personalized offers or information, you can let us know by checking the appropriate box in the subscription center. NXP will only share your data with third parties outside NXP in the following circumstances: Sometimes NXP sells you a product or offers you a service in a joint marketing effort with other companies. In such cases, your personal data will be shared with these companies. We will always let you know that such relationship exists and who these companies are prior to your registration. Note that these companies often have their own privacy policies that apply to the way they use your personal data. These privacy policies sometimes differ from the NXP Privacy Policy. NXP sometimes uses outside companies for handling your purchase or request or for processing your data. NXP requires these companies to adequately safeguard your personal data and not use your data for any other purpose not authorized by NXP. NXP sometimes sells a business to another company. Such transfer of ownership could include the transfer of your personal data directly related to that business to the buyer. NXP will release personally identifiable information if compelled by law. NXP will not sell or provide your personal data to other third parties allowing them to use your personal data for their own purposes.
 
 NXP will not share any personal financial information you provide (such as credit card information) with other parties unless this is needed to handle your order, process our invoice, or prevent or combat fraud.
+
+In connection with completing a job application, whether advertised on NXP’s website or otherwise, you may provide us with information about yourself. We may use this information throughout NXP in order consider you for employment purposes. If you would like to have information submitted in connection with a job application removed from our system prior to that time, please [contact us](https://web.archive.org/support/sales-and-support:SUPPORTHOME) and live chat with our support team to request your account to be deleted.
 
 From time to time, this Web Site may provide links to other websites. You should carefully review the privacy policies on those sites; they may differ from the NXP Privacy Policy.
 
@@ -88,7 +91,7 @@ You may contact us if you would like to:
 
 ## Our Address
 
-You can find our address by pressing the [Contact Us link](http://www.nxp.com/about/contact-us:CONTACTUS) at the bottom of this Web Site.
+You can find our address by pressing the [Contact Us link](https://web.archive.org/about/about-nxp/contact-us:CONTACTUS) at the bottom of this Web Site.
 
 ## German privacy law
 
