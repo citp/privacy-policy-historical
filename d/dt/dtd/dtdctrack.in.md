@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dtdctrack.in privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504173939id_/http%3A//www.dtdctrack.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dtdctrack.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119010552id_/http%3A//www.dtdctrack.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Disclaimer / Privacy Policy
+
+**Disclaimer:** DTDCTrack.in is a portal to track shipments of DTDC and other carriers. We are not endorsed or affiliated with “Desk To Desk Courier & Cargo Pvt. Ltd”. Please contact us if you have any issues with out website. 
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us through our Contact Us Page. 
 
@@ -14,7 +16,7 @@ www.dtdctrack.in does use cookies to store information about visitors preference
 
 **Compliance with children’s online privacy protection act**
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
 **Third party websites**
 
