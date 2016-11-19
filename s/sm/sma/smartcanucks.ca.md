@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartcanucks.ca privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608020954id_/http%3A//smartcanucks.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcanucks.ca privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119023755id_/http%3A//smartcanucks.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SmartCanucks - Canadian Freebies, Shopping Deals, Coupons, Contests & Free Stuff Canada
 
