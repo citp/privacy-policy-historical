@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blancgroup.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325184003id_/http%3A//blancgroup.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blancgroup.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119064437id_/http%3A//blancgroup.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BLANC & ECLARE
+# BLANC & ECLARE
 
 This privacy policy governs the manner in which BLANC & ECLARE collects, uses, maintains and discloses information collected from users, and applies to your use of our website located at [http://www.blancgroup.com](http://www.blancgroup.com/).
 
