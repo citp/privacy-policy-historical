@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swapalease.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405134456id_/http%3A//www.swapalease.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swapalease.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119074841id_/http%3A//www.swapalease.com/help/privacy.aspx) for the most accurate reproduction.*
 
-# Swapalease.com Worlds Largest Lease Marketplace
+# Privacy Policy | Swapalease.com
 
 ## SWAPALEASE INC. PRIVACY STATEMENT LAST UPDATED: 12/1/2013
 
@@ -16,7 +16,7 @@ This privacy statement discloses the privacy practices for [www.swapalease.com](
 
 
 
-If you have questions pertaining to the Swapalease Inc. privacy policy or feel that they are not abiding by what is posted, you should contact Swapalease Inc. by calling 1-866-SWAPNOW (1-866-792-7669) or emailing privacy@swapalease.com. 
+If you have questions pertaining to the Swapalease Inc. privacy policy or feel that they are not abiding by what is posted, you should contact Swapalease Inc. by calling (866) 792-7669 or emailing privacy@swapalease.com. 
 
 ### Information Collection and Use
 
@@ -123,10 +123,9 @@ Though we make every effort to preserve your privacy we may need to disclose per
 ### Contact Information
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at:  
-Phone: 1-866-SWAPNOW (1-866-792-7669)  
+Phone: (866) 792-7669  
 Fax: (513) 381-1091  
 Email: [support@swapalease.com](mailto:support@swapalease.com)  
-Postal Address: 
-
+Postal Address:   
 11224 Cornell Park Drive  
-Cincinnati, Ohio 45242
+Cincinnati, Ohio 45242 
