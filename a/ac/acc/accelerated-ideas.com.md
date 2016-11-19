@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accelerated-ideas.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629230204id_/http%3A//www.accelerated-ideas.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accelerated-ideas.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119075200id_/http%3A//www.accelerated-ideas.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Accelerated Ideas
 
@@ -59,7 +59,7 @@ You are also responsible for the text you add to your comment - whether you choo
 
 If you’re unsure about any of the information above, please contact us and we will be happy to help. 
 
-[Contact Us](https://web.archive.org/web/20160629230204id_/http%3A//www.accelerated-ideas.com/aiContactUs.aspx)
+[Contact Us](https://web.archive.org/web/20161119075200id_/http%3A//www.accelerated-ideas.com/aiContactUs.aspx)
 
 ## Share..
 
