@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instinctmagazine.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612183049id_/http%3A//instinctmagazine.com/node/6657) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instinctmagazine.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119200314id_/http%3A//instinctmagazine.com/node/6657) for the most accurate reproduction.*
 
 # Privacy Policy | Instinct
 
