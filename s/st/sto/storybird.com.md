@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storybird.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606002858id_/http%3A//storybird.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storybird.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119042315id_/http%3A//storybird.com/privacy) for the most accurate reproduction.*
 
 # Storybird - Privacy Policy
 
