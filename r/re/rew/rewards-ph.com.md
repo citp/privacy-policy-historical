@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rewards-ph.com privacy policy that was archived on 2015-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151024000619id_/http%3A//www.rewards-ph.com/cgi-bin/global.pl%3Ftodo%3Dshow_page%26ident%3Ddatenschutz%26wingame_pk%3D41%26freetest_pk%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewards-ph.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119013635id_/http%3A//www.rewards-ph.com/cgi-bin/global.pl%3Ftodo%3Dshow_page%26ident%3Ddatenschutz%26wingame_pk%3D41%26freetest_pk%3D1) for the most accurate reproduction.*
 
 # PRIVACY POLICY & DATA PROTECTION
 
@@ -34,7 +34,11 @@ We treat the personal information that you have provided to us confidentially. W
 
 ## 5\. Can your personal data for identification be updated, corrected or deleted?
 
-You can have your account deleted or deactivated by sending an email to email address. However, please keep in mind that once you have deleted or deactivated your account, your user alternatives regarding our range of services will then be limited to those of a non-member.
+You can have your account deleted or deactivated by (1) sending an email to [ph@apmarketingap.com](mailto:ph@apmarketingap.com), preferably with subject “Unsubscribe me”, (2) and by clicking the Unsubscribe link in any marketing emails we send. However, please keep in mind that once you have deleted or deactivated your account, your user alternatives regarding our range of services will then be limited to those of a non-member.
+
+You can update your information by re-entering the competition website using the same email you used to register the first time. 
+
+AP Marketing will retain your data unless you delete or deactivate your account via the methods stated above.
 
 ## 6\. What security measures are put in place to protect your personal information against loss, misuse or alteration?
 
@@ -50,4 +54,4 @@ We reserve the right to change or remove this Privacy Policy at our absolute dis
 
 ## 9\. Who to contact?
 
-Please write to us at [info@planet49.com.ph](mailto:info@planet49.com.ph) if you have any comments or questions about this Privacy Policy, or if you wish to be removed from our mailing list or report any violations of the Privacy Policy. We will respond to you as soon as we receive an email or notification from you.
+Please write to us at [ph@apmarketingap.com](mailto:ph@apmarketingap.com) if you have any comments or questions about this Privacy Policy, or if you wish to be removed from our mailing list or report any violations of the Privacy Policy. We will respond to you as soon as we receive an email or notification from you.
