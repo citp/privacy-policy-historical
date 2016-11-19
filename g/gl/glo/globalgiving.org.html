@@ -1,8 +1,17 @@
-<!--The following is the downloaded HTML source of the globalgiving.org privacy policy that was archived on 2016-03-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160328135443id_/https%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalgiving.org privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119022534id_/https%3A//www.globalgiving.org/aboutus/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US"><head>
-       
+<!DOCTYPE html><html><head> 
+      
+
+     <meta property="og:image" content="https://www.globalgiving.org/img/logos/gg_white_over_orange_pixel_1200.png">
+	
+
+      
+
+
+
+   
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
@@ -26,126 +35,137 @@
 <meta name="msapplication-TileImage" content="https://www.globalgiving.org/favicon/mstile-144x144.png">
 <meta name="application-name" content="GlobalGiving">	
 
-<meta property="og:image" content="https://www.globalgiving.org/img/logos/gg_white_over_orange_pixel_1200.png">
-
-
-   <script src="/v2/js/modules/nav.js" async=""></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">!function(e){"use strict";e.loadCSS=function(t,n,l){var o,r=e.document.createElement("link");if(n)o=n;else if(e.document.querySelectorAll){var s=e.document.querySelectorAll("style,link[rel=stylesheet],script");o=s[s.length-1]}else o=e.document.getElementsByTagName("script")[0];var i=e.document.styleSheets;return r.rel="stylesheet",r.href=t,r.media="only x",o.parentNode.insertBefore(r,n?o:o.nextSibling),r.onloadcssdefined=function(e){for(var t,n=0;n<i.length;n++)i[n].href&&i[n].href===r.href&&(t=!0);t?e():setTimeout(function(){r.onloadcssdefined(e)})},r.onloadcssdefined(function(){r.media=l||"all"}),r}}(this);</script>
-   <!--todo move to minimal? uglify, uncss implications?-->
-   <script type="text/javascript">
-      loadCSS("//fonts.googleapis.com/css?subset=latin&family=Open+Sans:400,400italic,700,700italic,800");
-      loadCSS("/v2/fonts/aleo/aleo.css")
-   </script><link rel="stylesheet" href="//fonts.googleapis.com/css?subset=latin&amp;family=Open+Sans:400,400italic,700,700italic,800" media="all"><link rel="stylesheet" href="/v2/fonts/aleo/aleo.css" media="all">
-   <script type="text/javascript">
+   <script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script src="/v2/js/minimal.js" async=""></script><script src="/v2/js/modules/nav.js" async=""></script><script src="/v2/js/deps/jquery-1.11.2.min.js" async=""></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
       var deferred = [];
+
       function loadOneJS( src, cb ){
-        "use strict";
-        var ref = window.document.getElementsByTagName( "script" )[ 0 ];
-        var script = window.document.createElement( "script" );
-        script.src = src;
-        script.async = true;
-        ref.parentNode.insertBefore( script, ref );
-        if (cb && typeof(cb) === "function") {
-          script.onload = cb;
-        }
-        return script;
+   "use strict";
+   var ref = window.document.getElementsByTagName( "script" )[ 0 ];
+   var script = window.document.createElement( "script" );
+   script.src = src;
+   script.async = true;
+   ref.parentNode.insertBefore( script, ref );
+   if (cb && typeof(cb) === "function") {
+      script.onload = cb;
+   }
+   return script;
+}
+function loadJS( srcs, cb ){
+   if (!(srcs instanceof Array)) {
+      return loadOneJS(srcs, cb);
+   }
+   var cnt = srcs.length;
+   var f = function() {
+      cnt -= 1;
+      if (cnt < 0) {
+         console.log('loadJS decremented too far');
+         return;
+      } if (cnt > 0) {
+         return;
       }
-      function loadJS( srcs, cb ){
-         if (!(srcs instanceof Array)) {
-            return loadOneJS(srcs, cb);
+      if (cb && typeof(cb) === "string") {
+         var pathElms = cb.split('.');
+         var ctx = window;
+         while (pathElms.length > 0) {
+            ctx = ctx[pathElms.shift()];
          }
-         var cnt = srcs.length;
-         var f = function() {
-            cnt -= 1;
-            if (cnt < 0) {
-               console.log('loadJS decremented too far');
-               return;
-            } if (cnt > 0) {
-               return;
-            }
-            cb();
-         };
-         var ret = [];
-         while (srcs.length > 0) {
-            var script = srcs.shift();
-            ret.push(loadOneJS(script, f));
-         }
+         cb = ctx;
       }
+      if (cb && typeof(cb) === "function") {
+         cb();
+      }
+   };
+   var ret = [];
+   while (srcs.length > 0) {
+      var script = srcs.shift();
+      ret.push(loadOneJS(script, f));
+   }
+}
+      /*!
+loadCSS: load a CSS file asynchronously.
+[c]2015 @scottjehl, Filament Group, Inc.
+Licensed MIT
+*/
+(function(w){
+	"use strict";
+	/* exported loadCSS */
+	w.loadCSS = function( href, before, media ){
+		// Arguments explained:
+		// `href` [REQUIRED] is the URL for your CSS file.
+		// `before` [OPTIONAL] is the element the script should use as a reference for injecting our stylesheet <link> before
+			// By default, loadCSS attempts to inject the link after the last stylesheet or script in the DOM. However, you might desire a more specific location in your document.
+		// `media` [OPTIONAL] is the media type or query of the stylesheet. By default it will be 'all'
+		var ss = w.document.createElement( "link" );
+		var ref;
+		if( before ){
+			ref = before;
+		}
+		else if( w.document.querySelectorAll ){
+			var refs = w.document.querySelectorAll(  "style,link[rel=stylesheet],script" );
+			// No need to check length. This script has a parent element, at least
+			ref = refs[ refs.length - 1];
+		}
+		else {
+			ref = w.document.getElementsByTagName( "script" )[ 0 ];
+		}
+
+		var sheets = w.document.styleSheets;
+		ss.rel = "stylesheet";
+		ss.href = href;
+		// temporarily set media to something inapplicable to ensure it'll fetch without blocking render
+		ss.media = "only x";
+
+		// Inject link
+			// Note: the ternary preserves the existing behavior of "before" argument, but we could choose to change the argument to "after" in a later release and standardize on ref.nextSibling for all refs
+			// Note: `insertBefore` is used instead of `appendChild`, for safety re: http://www.paulirish.com/2011/surefire-dom-element-insertion/
+		ref.parentNode.insertBefore( ss, ( before ? ref : ref.nextSibling ) );
+		// A method (exposed on return object for external use) that mimics onload by polling until document.styleSheets until it includes the new sheet.
+		ss.onloadcssdefined = function( cb ){
+			var defined;
+			for( var i = 0; i < sheets.length; i++ ){
+				if( sheets[ i ].href && sheets[ i ].href === ss.href ){
+					defined = true;
+				}
+			}
+			if( defined ){
+				cb();
+			} else {
+				setTimeout(function() {
+					ss.onloadcssdefined( cb );
+				});
+			}
+		};
+
+		// once loaded, set link's media back to `all` so that the stylesheet applies once it loads
+		ss.onloadcssdefined(function() {
+			ss.media = media || "all";
+		});
+		return ss;
+	};
+}(this));
+      !function e(t,n,r){function a(i,l){if(!n[i]){if(!t[i]){var s="function"==typeof require&&require;if(!l&&s)return s(i,!0);if(o)return o(i,!0);var u=new Error("Cannot find module '"+i+"'");throw u.code="MODULE_NOT_FOUND",u}var c=n[i]={exports:{}};t[i][0].call(c.exports,function(e){var n=t[i][1][e];return a(n?n:e)},c,c.exports,e,t,n,r)}return n[i].exports}for(var o="function"==typeof require&&require,i=0;i<r.length;i++)a(r[i]);return a}({1:[function(e){window.gg=window.gg||{},window.gg.templates=window.gg.templates||{},gg.cookie=e("./modules/cookies.bsfy"),gg.tracking=e("./modules/tracking.bsfy"),e("./helpers/common.bsfy"),e("./modules/login.bsfy"),e("./modules/cartItems.bsfy"),loadCSS("//fonts.googleapis.com/css?subset=latin&family=Open+Sans:400,400italic,700,700italic,800"),loadCSS("/v2/fonts/aleo/aleo.css")},{"./helpers/common.bsfy":3,"./modules/cartItems.bsfy":6,"./modules/cookies.bsfy":7,"./modules/login.bsfy":9,"./modules/tracking.bsfy":13}],2:[function(){!function(e,t,n,r,a,o,i){e.GoogleAnalyticsObject=a,e[a]=e[a]||function(){(e[a].q=e[a].q||[]).push(arguments)},e[a].l=1*new Date,o=t.createElement(n),i=t.getElementsByTagName(n)[0],o.async=1,o.src=r,i.parentNode.insertBefore(o,i)}(window,document,"script","//www.google-analytics.com/analytics.js","ga"),ga("create","UA-1836649-1",{cookieDomain:"globalgiving.org",siteSpeedSampleRate:100}),ga("require","displayfeatures"),ga("require","linkid","linkid.js"),window.optimizely=window.optimizely||[],window.optimizely.push("activateUniversalAnalytics"),ga("send","pageview"),window.onerror=function(e,t,n){var r="["+t+" ("+n+")] "+e;ga("send","exception",{exDescription:r,exFatal:!1})},mp_config={persistence:"localStorage"},function(e,t){if(!t.__SV){var n,r,a,o;window.mixpanel=t,t._i=[],t.init=function(e,n,r){function i(e,t){var n=t.split(".");2==n.length&&(e=e[n[0]],t=n[1]),e[t]=function(){e.push([t].concat(Array.prototype.slice.call(arguments,0)))}}var l=t;for("undefined"!=typeof r?l=t[r]=[]:r="mixpanel",l.people=l.people||[],l.toString=function(e){var t="mixpanel";return"mixpanel"!==r&&(t+="."+r),e||(t+=" (stub)"),t},l.people.toString=function(){return l.toString(1)+".people (stub)"},a="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" "),o=0;o<a.length;o++)i(l,a[o]);t._i.push([e,n,r])},t.__SV=1.2,n=e.createElement("script"),n.type="text/javascript",n.async=!0,n.src="undefined"!=typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js",r=e.getElementsByTagName("script")[0],r.parentNode.insertBefore(n,r)}}(document,window.mixpanel||[]),window.location.hostname.toLowerCase().search("www.globalgiving.org")>=0&&mixpanel.init("1d62790938b60c23a48684ad3ebe5a36",mp_config),null!=mixpanel&&mixpanel.__loaded&&(mixpanel.track_links("header a","click header link",{url:window.location.pathname,referrer:document.referrer}),mixpanel.track_links("footer a","click footer link",{url:window.location.pathname,referrer:document.referrer}))},{}],3:[function(e){var t=e("hbsfy/runtime");e("./compare.js"),e("./math.js"),t.registerHelper("trunc",function(e,n,r){if(null==e)return r;var a=e.substring(0,n);return a==e?e:new t.SafeString(a+"&#8230;")})},{"./compare.js":4,"./math.js":5,"hbsfy/runtime":36}],4:[function(e){var t=t||e("hbsfy/runtime");t.registerHelper("compare",function(e,t,n,r){var a,o;if(arguments.length<3)throw new Error("Handlerbars Helper 'compare' needs 2 parameters");if(void 0===r&&(r=n,n=t,t="==="),a={"==":function(e,t){return e==t},"===":function(e,t){return e===t},"!=":function(e,t){return e!=t},"!==":function(e,t){return e!==t},"<":function(e,t){return t>e},">":function(e,t){return e>t},"<=":function(e,t){return t>=e},">=":function(e,t){return e>=t},"typeof":function(e,t){return typeof e==t}},!a[t])throw new Error("Handlerbars Helper 'compare' doesn't know the operator "+t);return o=a[t](e,n),o?r.fn(this):r.inverse(this)})},{"hbsfy/runtime":36}],5:[function(e){var t=t||e("hbsfy/runtime");t.registerHelper("math",function(e,t,n,r){var e=parseFloat(e),n=parseFloat(n),a={"+":e+n,"-":e-n,"*":e*n,"/":e/n,"%":e%n}[t];return r?a.toFixed(r):a})},{"hbsfy/runtime":36}],6:[function(e){var t=e("./myAjax.bsfy"),n=e("./runWhenPresent.bsfy"),r=e("../templates/cartItems.hbs"),a=gg.cookie.getValue("gg_CartId");a&&t("/dy/cart/ajax/gg.html",function(e){n("js-cartItems",function(t){for(var n=0;n<t.length;n++)t[n].innerHTML=r(JSON.parse(e))})},"cmd=countItems&gcart="+a)},{"../templates/cartItems.hbs":14,"./myAjax.bsfy":10,"./runWhenPresent.bsfy":12}],7:[function(e,t){function n(e){var t=r(e);return null==t?!1:!0}function r(e){var t=e+"=",n=document.cookie,r=null;return n.length>0&&(offset=n.indexOf(t),-1!=offset&&(offset+=t.length,end=n.indexOf(";",offset),-1==end&&(end=n.length),r=decodeURIComponent(n.substring(offset,end)))),r}function a(e,t,n,r){var a=e+"="+o(t);if(null!=n){var i=new Date,l=new Date;l.setTime(i.getTime()+864e5*n),a+="; expires="+l.toGMTString()}return null!=r&&(a+="; PATH="+r),document.cookie=a,null}function o(e){return null!=e&&""!=e&&'"'!=e.charAt(0)&&'"'!=e.charAt(e.length-1)&&(e='"'+e+'"'),e}function i(e,t){t||(t="/"),a(e,"Deleted",-1,t)}t.exports={getValue:r,set:a,exists:n,remove:i}},{}],8:[function(e,t){t.exports=function(e,t){$("html").click(function(){$(e).is(":visible")&&$(e).slideUp()}),$(t).click(function(e){e.stopPropagation()})}},{}],9:[function(e){function t(e){c(e,function(e){n(JSON.parse(e))})}function n(e){var t=e||[];f&&console.log(t),t.url=window.location.href;var n=i(t);u("js-login",function(e){for(var r=0;r<e.length;r++)e[r].innerHTML=n;deferred.push(function(){s(".js-loginPerms",".js-loginName, .js-loginPerms")}),t.succeeded&&(document.getElementsByClassName("js-logout")[0].addEventListener("click",a,!1),document.getElementsByClassName("js-logout")[1].addEventListener("click",a,!1))}),null!=t&&null!=t.uauserid?(ga("set","&uid",t.uauserid),f&&console.log("uauserid=["+t.uauserid+"]"),null!=mixpanel&&mixpanel.__loaded&&(mixpanel.register({uauserid:t.uauserid}),mixpanel.identify(t.uauserid),mixpanel.people.set({$first_name:t.fname,$last_name:t.lname}))):f&&console.log("anonymous")}function r(){var e="gg",r=gg.cookie.getValue(e+"LoginName");null!=r&&gg.cookie.exists(e+"_globalgive")?(f&&console.log("getting login info from /dy/v2/"+e+"/login/json"),t("/dy/v2/"+e+"/login/json")):gg.cookie.exists(e+"_rememberMe")?t("/dy/j_spring_security_check?xautologin=true"):n({success:!1})}function a(e){c("/dy/j_spring_security_logout?xlogout=true",function(){var t="gg";gg.cookie.remove(t+"_rememberMe","/"),gg.cookie.remove(t+"_globalgive","/"),gg.cookie.remove(t+"LoginName","/"),e&&(location.href=location.protocol+"//"+location.host+"/index.html")})}function o(){gg.cookie.getValue("gg_as_me")&&deferred.push(function(){$(document.body).prepend(l())})}var i=e("../templates/login.hbs"),l=e("../templates/loggedInAsUser.hbs"),s=e("./hide.bsfy"),u=e("./runWhenPresent.bsfy"),c=e("./myAjax.bsfy"),f=!1;r(),o()},{"../templates/loggedInAsUser.hbs":15,"../templates/login.hbs":16,"./hide.bsfy":8,"./myAjax.bsfy":10,"./runWhenPresent.bsfy":12}],10:[function(e,t){function n(e,t,n){var r=new XMLHttpRequest;r.onreadystatechange=function(){r.readyState==XMLHttpRequest.DONE&&(200==r.status?t(r.responseText):console.log(400==r.status?"Login failed: error 400":"Login failed: unknown error"))},n?(r.open("POST",e,!0),r.setRequestHeader("Content-type","application/x-www-form-urlencoded"),r.send(n)):(r.open("GET",e,!0),r.send())}t.exports=n},{}],11:[function(e,t){function n(e){for(var t=location.search.substring(1,location.search.length),n=!1,r=t.split("&"),a=0;a<r.length;a++)param_name=r[a].substring(0,r[a].indexOf("=")),param_name==e&&(n=r[a].substring(r[a].indexOf("=")+1));return n?n:!1}t.exports={getUrlParam:n}},{}],12:[function(e,t){function n(e,t){var r=document.getElementsByClassName(e);r.length?t(r):setTimeout(function(){n(e,t)},100)}t.exports=n},{}],13:[function(e,t){function n(){r(a.getUrlParam("rf")?a.getUrlParam("rf"):null)}function r(e){var t=document.referrer,n=-1==t.indexOf("globalgiving")||t.indexOf("globalgiving")>14;if(n){var r="ggRefCode",a="ggConversionCode",o=gg.cookie.getValue(r),i=o||e||t;i&&gg.cookie.set(r,i,365,"/");var l=e||t||o;l&&gg.cookie.set(a,l,null,"/")}}e("../deps/thirdPartyTracking.bsfy");var a=e("./params.bsfy");n(),t.exports={assignRefAndConversionCode:r}},{"../deps/thirdPartyTracking.bsfy":2,"./params.bsfy":11}],14:[function(e,t){var n=e("hbsfy/runtime");t.exports=n.template({1:function(e,t,n,r,a){var o,i=null!=t?t:{},l=n.helperMissing;return(null!=(o=(n.compare||t&&t.compare||l).call(i,null!=t?t.numItems:t,">",9,{name:"compare",hash:{},fn:e.program(2,a,0),inverse:e.noop,data:a}))?o:"")+(null!=(o=(n.compare||t&&t.compare||l).call(i,null!=t?t.numItems:t,"<=",9,{name:"compare",hash:{},fn:e.program(4,a,0),inverse:e.noop,data:a}))?o:"")},2:function(){return'      <div class="circleIcon col_ggSecondary3 layout_abs layout_abs_bottomRightOutside text_fontSizeSmallest">9+</div>\n'},4:function(e,t,n,r,a){var o;return'      <div class="circleIcon col_ggSecondary3 layout_abs layout_abs_bottomRightOutside text_fontSizeSmaller">'+e.escapeExpression((o=null!=(o=n.numItems||(null!=t?t.numItems:t))?o:n.helperMissing,"function"==typeof o?o.call(null!=t?t:{},{name:"numItems",hash:{},data:a}):o))+"</div>\n"},compiler:[7,">= 4.0.0"],main:function(e,t,n,r,a){var o;return null!=(o=(n.compare||t&&t.compare||n.helperMissing).call(null!=t?t:{},null!=t?t.numItems:t,">",0,{name:"compare",hash:{},fn:e.program(1,a,0),inverse:e.noop,data:a}))?o:""},useData:!0})},{"hbsfy/runtime":36}],15:[function(e,t){var n=e("hbsfy/runtime");t.exports=n.template({compiler:[7,">= 4.0.0"],main:function(){return'<div class="layout_center col_ggPrimary1 box_verticalPaddedHalf col_whiteText layout_centerVertical">\n   <strong>REMINDER: Logged in as another user.</strong> &nbsp;&nbsp;&nbsp;<a href="/dy/v2/admin/gg/logout-from-user.html" class="btn btn_primary2 btn_narrow btn_simple text_fontSizeSmaller">Return to my account</a>\n</div>'},useData:!0})},{"hbsfy/runtime":36}],16:[function(e,t){var n=e("hbsfy/runtime");t.exports=n.template({1:function(e,t,n,r,a){var o,i=null!=t?t:{};return'   <a href="javascript:void(0)" class="js-loginName" onclick="$(\'.js-loginPerms\').toggle()">'+(null!=(o=n["if"].call(i,null!=t?t.fname:t,{name:"if",hash:{},fn:e.program(2,a,0),inverse:e.program(4,a,0),data:a}))?o:"")+'&nbsp;&#x25BC;</a>\n   <div class="grid-parent layout_abs layout_alignLeft zindex_modal box_topMargin1 link_block2 triangle_parent js-loginPerms" style="width:180px; left:-40px; top:25px; display:none">\n         <div class="triangle triangle_ggPrimary5VeryLight triangle_small triangle_top" style="left:105px;"></div>\n         <a class="grid-12 box_verticalPadded2 box_horizontalPadded6 col_ggPrimary5VeryLight col_ggPrimary3Text" href="/dy/user/view/gg.html?cmd=showprof">My Profile</a>\n'+(null!=(o=n.each.call(i,null!=t?t.perms:t,{name:"each",hash:{},fn:e.program(6,a,0),inverse:e.noop,data:a}))?o:"")+'      <a class="grid-12 box_verticalPadded2 box_horizontalPadded6 col_ggPrimary5VeryLight col_ggPrimary3Text js-logout" href="javascript:void(0)">Logout</a>\n'},2:function(e,t,n,r,a){var o;return null!=(o=(n.trunc||t&&t.trunc||n.helperMissing).call(null!=t?t:{},null!=t?t.fname:t,10,"user",{name:"trunc",hash:{},data:a}))?o:""},4:function(e,t,n,r,a){var o;return null!=(o=(n.trunc||t&&t.trunc||n.helperMissing).call(null!=t?t:{},null!=t?t.lname:t,10,"user",{name:"trunc",hash:{},data:a}))?o:""},6:function(e,t,n,r,a){var o,i=null!=t?t:{},l=n.helperMissing,s="function",u=e.escapeExpression;return'         <a class="grid-12 box_verticalPadded2 box_horizontalPadded6 col_ggPrimary3Text col_ggPrimary5VeryLight" href="'+u((o=null!=(o=n.value||(null!=t?t.value:t))?o:l,typeof o===s?o.call(i,{name:"value",hash:{},data:a}):o))+'">'+u((o=null!=(o=n.label||(null!=t?t.label:t))?o:l,typeof o===s?o.call(i,{name:"label",hash:{},data:a}):o))+"</a>\n"},8:function(e,t,n,r,a){var o;return'   <a class="col_ggPrimary3Text" href="/dy/v2/login/form.html?andthen='+e.escapeExpression((o=null!=(o=n.url||(null!=t?t.url:t))?o:n.helperMissing,"function"==typeof o?o.call(null!=t?t:{},{name:"url",hash:{},data:a}):o))+'">Login</a>\n'},compiler:[7,">= 4.0.0"],main:function(e,t,n,r,a){var o;return null!=(o=n["if"].call(null!=t?t:{},null!=t?t.succeeded:t,{name:"if",hash:{},fn:e.program(1,a,0),inverse:e.program(8,a,0),data:a}))?o:""},useData:!0})},{"hbsfy/runtime":36}],17:[function(e,t,n){"use strict";function r(e){return e&&e.__esModule?e:{"default":e}}function a(e){if(e&&e.__esModule)return e;var t={};if(null!=e)for(var n in e)Object.prototype.hasOwnProperty.call(e,n)&&(t[n]=e[n]);return t["default"]=e,t}function o(){var e=new l.HandlebarsEnvironment;return d.extend(e,l),e.SafeString=u["default"],e.Exception=f["default"],e.Utils=d,e.escapeExpression=d.escapeExpression,e.VM=m,e.template=function(t){return m.template(t,e)},e}n.__esModule=!0;var i=e("./handlebars/base"),l=a(i),s=e("./handlebars/safe-string"),u=r(s),c=e("./handlebars/exception"),f=r(c),p=e("./handlebars/utils"),d=a(p),g=e("./handlebars/runtime"),m=a(g),h=e("./handlebars/no-conflict"),v=r(h),y=o();y.create=o,v["default"](y),y["default"]=y,n["default"]=y,t.exports=n["default"]},{"./handlebars/base":18,"./handlebars/exception":21,"./handlebars/no-conflict":31,"./handlebars/runtime":32,"./handlebars/safe-string":33,"./handlebars/utils":34}],18:[function(e,t,n){"use strict";function r(e){return e&&e.__esModule?e:{"default":e}}function a(e,t,n){this.helpers=e||{},this.partials=t||{},this.decorators=n||{},s.registerDefaultHelpers(this),u.registerDefaultDecorators(this)}n.__esModule=!0,n.HandlebarsEnvironment=a;var o=e("./utils"),i=e("./exception"),l=r(i),s=e("./helpers"),u=e("./decorators"),c=e("./logger"),f=r(c),p="4.0.3";n.VERSION=p;var d=7;n.COMPILER_REVISION=d;var g={1:"<= 1.0.rc.2",2:"== 1.0.0-rc.3",3:"== 1.0.0-rc.4",4:"== 1.x.x",5:"== 2.0.0-alpha.x",6:">= 2.0.0-beta.1",7:">= 4.0.0"};n.REVISION_CHANGES=g;var m="[object Object]";a.prototype={constructor:a,logger:f["default"],log:f["default"].log,registerHelper:function(e,t){if(o.toString.call(e)===m){if(t)throw new l["default"]("Arg not supported with multiple helpers");o.extend(this.helpers,e)}else this.helpers[e]=t},unregisterHelper:function(e){delete this.helpers[e]},registerPartial:function(e,t){if(o.toString.call(e)===m)o.extend(this.partials,e);else{if("undefined"==typeof t)throw new l["default"]("Attempting to register a partial as undefined");this.partials[e]=t}},unregisterPartial:function(e){delete this.partials[e]},registerDecorator:function(e,t){if(o.toString.call(e)===m){if(t)throw new l["default"]("Arg not supported with multiple decorators");o.extend(this.decorators,e)}else this.decorators[e]=t},unregisterDecorator:function(e){delete this.decorators[e]}};var h=f["default"].log;n.log=h,n.createFrame=o.createFrame,n.logger=f["default"]},{"./decorators":19,"./exception":21,"./helpers":22,"./logger":30,"./utils":34}],19:[function(e,t,n){"use strict";function r(e){return e&&e.__esModule?e:{"default":e}}function a(e){i["default"](e)}n.__esModule=!0,n.registerDefaultDecorators=a;var o=e("./decorators/inline"),i=r(o)},{"./decorators/inline":20}],20:[function(e,t,n){"use strict";n.__esModule=!0;var r=e("../utils");n["default"]=function(e){e.registerDecorator("inline",function(e,t,n,a){var o=e;return t.partials||(t.partials={},o=function(a,o){var i=n.partials;n.partials=r.extend({},i,t.partials);var l=e(a,o);return n.partials=i,l}),t.partials[a.args[0]]=a.fn,o})},t.exports=n["default"]},{"../utils":34}],21:[function(e,t,n){"use strict";function r(e,t){var n=t&&t.loc,o=void 0,i=void 0;n&&(o=n.start.line,i=n.start.column,e+=" - "+o+":"+i);for(var l=Error.prototype.constructor.call(this,e),s=0;s<a.length;s++)this[a[s]]=l[a[s]];Error.captureStackTrace&&Error.captureStackTrace(this,r),n&&(this.lineNumber=o,this.column=i)}n.__esModule=!0;var a=["description","fileName","lineNumber","message","name","number","stack"];r.prototype=new Error,n["default"]=r,t.exports=n["default"]},{}],22:[function(e,t,n){"use strict";function r(e){return e&&e.__esModule?e:{"default":e}}function a(e){i["default"](e),s["default"](e),c["default"](e),p["default"](e),g["default"](e),h["default"](e),y["default"](e)}n.__esModule=!0,n.registerDefaultHelpers=a;var o=e("./helpers/block-helper-missing"),i=r(o),l=e("./helpers/each"),s=r(l),u=e("./helpers/helper-missing"),c=r(u),f=e("./helpers/if"),p=r(f),d=e("./helpers/log"),g=r(d),m=e("./helpers/lookup"),h=r(m),v=e("./helpers/with"),y=r(v)},{"./helpers/block-helper-missing":23,"./helpers/each":24,"./helpers/helper-missing":25,"./helpers/if":26,"./helpers/log":27,"./helpers/lookup":28,"./helpers/with":29}],23:[function(e,t,n){"use strict";n.__esModule=!0;var r=e("../utils");n["default"]=function(e){e.registerHelper("blockHelperMissing",function(t,n){var a=n.inverse,o=n.fn;if(t===!0)return o(this);if(t===!1||null==t)return a(this);if(r.isArray(t))return t.length>0?(n.ids&&(n.ids=[n.name]),e.helpers.each(t,n)):a(this);if(n.data&&n.ids){var i=r.createFrame(n.data);i.contextPath=r.appendContextPath(n.data.contextPath,n.name),n={data:i}}return o(t,n)})},t.exports=n["default"]},{"../utils":34}],24:[function(e,t,n){"use strict";function r(e){return e&&e.__esModule?e:{"default":e}}n.__esModule=!0;var a=e("../utils"),o=e("../exception"),i=r(o);n["default"]=function(e){e.registerHelper("each",function(e,t){function n(t,n,o){u&&(u.key=t,u.index=n,u.first=0===n,u.last=!!o,c&&(u.contextPath=c+t)),s+=r(e[t],{data:u,blockParams:a.blockParams([e[t],t],[c+t,null])})}if(!t)throw new i["default"]("Must pass iterator to #each");var r=t.fn,o=t.inverse,l=0,s="",u=void 0,c=void 0;if(t.data&&t.ids&&(c=a.appendContextPath(t.data.contextPath,t.ids[0])+"."),a.isFunction(e)&&(e=e.call(this)),t.data&&(u=a.createFrame(t.data)),e&&"object"==typeof e)if(a.isArray(e))for(var f=e.length;f>l;l++)l in e&&n(l,l,l===e.length-1);else{var p=void 0;for(var d in e)e.hasOwnProperty(d)&&(void 0!==p&&n(p,l-1),p=d,l++);void 0!==p&&n(p,l-1,!0)}return 0===l&&(s=o(this)),s})},t.exports=n["default"]},{"../exception":21,"../utils":34}],25:[function(e,t,n){"use strict";function r(e){return e&&e.__esModule?e:{"default":e}}n.__esModule=!0;var a=e("../exception"),o=r(a);n["default"]=function(e){e.registerHelper("helperMissing",function(){if(1===arguments.length)return void 0;throw new o["default"]('Missing helper: "'+arguments[arguments.length-1].name+'"')})},t.exports=n["default"]},{"../exception":21}],26:[function(e,t,n){"use strict";n.__esModule=!0;var r=e("../utils");n["default"]=function(e){e.registerHelper("if",function(e,t){return r.isFunction(e)&&(e=e.call(this)),!t.hash.includeZero&&!e||r.isEmpty(e)?t.inverse(this):t.fn(this)}),e.registerHelper("unless",function(t,n){return e.helpers["if"].call(this,t,{fn:n.inverse,inverse:n.fn,hash:n.hash})})},t.exports=n["default"]},{"../utils":34}],27:[function(e,t,n){"use strict";n.__esModule=!0,n["default"]=function(e){e.registerHelper("log",function(){for(var t=[void 0],n=arguments[arguments.length-1],r=0;r<arguments.length-1;r++)t.push(arguments[r]);var a=1;null!=n.hash.level?a=n.hash.level:n.data&&null!=n.data.level&&(a=n.data.level),t[0]=a,e.log.apply(e,t)})},t.exports=n["default"]},{}],28:[function(e,t,n){"use strict";n.__esModule=!0,n["default"]=function(e){e.registerHelper("lookup",function(e,t){return e&&e[t]})},t.exports=n["default"]},{}],29:[function(e,t,n){"use strict";n.__esModule=!0;var r=e("../utils");n["default"]=function(e){e.registerHelper("with",function(e,t){r.isFunction(e)&&(e=e.call(this));var n=t.fn;if(r.isEmpty(e))return t.inverse(this);var a=t.data;return t.data&&t.ids&&(a=r.createFrame(t.data),a.contextPath=r.appendContextPath(t.data.contextPath,t.ids[0])),n(e,{data:a,blockParams:r.blockParams([e],[a&&a.contextPath])})})},t.exports=n["default"]},{"../utils":34}],30:[function(e,t,n){"use strict";n.__esModule=!0;var r=e("./utils"),a={methodMap:["debug","info","warn","error"],level:"info",lookupLevel:function(e){if("string"==typeof e){var t=r.indexOf(a.methodMap,e.toLowerCase());e=t>=0?t:parseInt(e,10)}return e},log:function(e){if(e=a.lookupLevel(e),"undefined"!=typeof console&&a.lookupLevel(a.level)<=e){var t=a.methodMap[e];console[t]||(t="log");for(var n=arguments.length,r=Array(n>1?n-1:0),o=1;n>o;o++)r[o-1]=arguments[o];console[t].apply(console,r)}}};n["default"]=a,t.exports=n["default"]},{"./utils":34}],31:[function(e,t,n){(function(e){"use strict";n.__esModule=!0,n["default"]=function(t){var n="undefined"!=typeof e?e:window,r=n.Handlebars;t.noConflict=function(){n.Handlebars===t&&(n.Handlebars=r)}},t.exports=n["default"]}).call(this,"undefined"!=typeof global?global:"undefined"!=typeof self?self:"undefined"!=typeof window?window:{})},{}],32:[function(e,t,n){"use strict";function r(e){return e&&e.__esModule?e:{"default":e}}function a(e){if(e&&e.__esModule)return e;var t={};if(null!=e)for(var n in e)Object.prototype.hasOwnProperty.call(e,n)&&(t[n]=e[n]);return t["default"]=e,t}function o(e){var t=e&&e[0]||1,n=v.COMPILER_REVISION;if(t!==n){if(n>t){var r=v.REVISION_CHANGES[n],a=v.REVISION_CHANGES[t];throw new h["default"]("Template was precompiled with an older version of Handlebars than the current runtime. Please update your precompiler to a newer version ("+r+") or downgrade your runtime to an older version ("+a+").")}throw new h["default"]("Template was precompiled with a newer version of Handlebars than the current runtime. Please update your runtime to a newer version ("+e[1]+").")}}function i(e,t){function n(n,r,a){a.hash&&(r=g.extend({},r,a.hash),a.ids&&(a.ids[0]=!0)),n=t.VM.resolvePartial.call(this,n,r,a);var o=t.VM.invokePartial.call(this,n,r,a);if(null==o&&t.compile&&(a.partials[a.name]=t.compile(n,e.compilerOptions,t),o=a.partials[a.name](r,a)),null!=o){if(a.indent){for(var i=o.split("\n"),l=0,s=i.length;s>l&&(i[l]||l+1!==s);l++)i[l]=a.indent+i[l];o=i.join("\n")}return o}throw new h["default"]("The partial "+a.name+" could not be compiled when running in runtime-only mode")}function r(t){function n(t){return""+e.main(a,t,a.helpers,a.partials,i,s,l)}var o=arguments.length<=1||void 0===arguments[1]?{}:arguments[1],i=o.data;r._setup(o),!o.partial&&e.useData&&(i=f(t,i));var l=void 0,s=e.useBlockParams?[]:void 0;return e.useDepths&&(l=o.depths?t!==o.depths[0]?[t].concat(o.depths):o.depths:[t]),(n=p(e.main,n,a,o.depths||[],i,s))(t,o)}if(!t)throw new h["default"]("No environment passed to template");if(!e||!e.main)throw new h["default"]("Unknown template object: "+typeof e);e.main.decorator=e.main_d,t.VM.checkRevision(e.compiler);var a={strict:function(e,t){if(!(t in e))throw new h["default"]('"'+t+'" not defined in '+e);return e[t]},lookup:function(e,t){for(var n=e.length,r=0;n>r;r++)if(e[r]&&null!=e[r][t])return e[r][t]},lambda:function(e,t){return"function"==typeof e?e.call(t):e},escapeExpression:g.escapeExpression,invokePartial:n,fn:function(t){var n=e[t];return n.decorator=e[t+"_d"],n},programs:[],program:function(e,t,n,r,a){var o=this.programs[e],i=this.fn(e);return t||a||r||n?o=l(this,e,i,t,n,r,a):o||(o=this.programs[e]=l(this,e,i)),o},data:function(e,t){for(;e&&t--;)e=e._parent;return e},merge:function(e,t){var n=e||t;return e&&t&&e!==t&&(n=g.extend({},t,e)),n},noop:t.VM.noop,compilerInfo:e.compiler};return r.isTop=!0,r._setup=function(n){n.partial?(a.helpers=n.helpers,a.partials=n.partials,a.decorators=n.decorators):(a.helpers=a.merge(n.helpers,t.helpers),e.usePartial&&(a.partials=a.merge(n.partials,t.partials)),(e.usePartial||e.useDecorators)&&(a.decorators=a.merge(n.decorators,t.decorators)))},r._child=function(t,n,r,o){if(e.useBlockParams&&!r)throw new h["default"]("must pass block params");if(e.useDepths&&!o)throw new h["default"]("must pass parent depths");return l(a,t,e[t],n,0,r,o)},r}function l(e,t,n,r,a,o,i){function l(t){var a=arguments.length<=1||void 0===arguments[1]?{}:arguments[1],l=i;return i&&t!==i[0]&&(l=[t].concat(i)),n(e,t,e.helpers,e.partials,a.data||r,o&&[a.blockParams].concat(o),l)}return l=p(n,l,e,i,r,o),l.program=t,l.depth=i?i.length:0,l.blockParams=a||0,l}function s(e,t,n){return e?e.call||n.name||(n.name=e,e=n.partials[e]):e="@partial-block"===n.name?n.data["partial-block"]:n.partials[n.name],e}function u(e,t,n){n.partial=!0,n.ids&&(n.data.contextPath=n.ids[0]||n.data.contextPath);var r=void 0;if(n.fn&&n.fn!==c&&(n.data=v.createFrame(n.data),r=n.data["partial-block"]=n.fn,r.partials&&(n.partials=g.extend({},n.partials,r.partials))),void 0===e&&r&&(e=r),void 0===e)throw new h["default"]("The partial "+n.name+" could not be found");return e instanceof Function?e(t,n):void 0}function c(){return""}function f(e,t){return t&&"root"in t||(t=t?v.createFrame(t):{},t.root=e),t}function p(e,t,n,r,a,o){if(e.decorator){var i={};t=e.decorator(t,i,n,r&&r[0],a,o,r),g.extend(t,i)}return t}n.__esModule=!0,n.checkRevision=o,n.template=i,n.wrapProgram=l,n.resolvePartial=s,n.invokePartial=u,n.noop=c;var d=e("./utils"),g=a(d),m=e("./exception"),h=r(m),v=e("./base")},{"./base":18,"./exception":21,"./utils":34}],33:[function(e,t,n){"use strict";function r(e){this.string=e}n.__esModule=!0,r.prototype.toString=r.prototype.toHTML=function(){return""+this.string},n["default"]=r,t.exports=n["default"]},{}],34:[function(e,t,n){"use strict";function r(e){return f[e]}function a(e){for(var t=1;t<arguments.length;t++)for(var n in arguments[t])Object.prototype.hasOwnProperty.call(arguments[t],n)&&(e[n]=arguments[t][n]);return e}function o(e,t){for(var n=0,r=e.length;r>n;n++)if(e[n]===t)return n;return-1}function i(e){if("string"!=typeof e){if(e&&e.toHTML)return e.toHTML();if(null==e)return"";if(!e)return e+"";e=""+e}return d.test(e)?e.replace(p,r):e}function l(e){return e||0===e?h(e)&&0===e.length?!0:!1:!0}function s(e){var t=a({},e);return t._parent=e,t}function u(e,t){return e.path=t,e}function c(e,t){return(e?e+".":"")+t}n.__esModule=!0,n.extend=a,n.indexOf=o,n.escapeExpression=i,n.isEmpty=l,n.createFrame=s,n.blockParams=u,n.appendContextPath=c;var f={"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#x27;","`":"&#x60;","=":"&#x3D;"},p=/[&<>"'`=]/g,d=/[&<>"'`=]/,g=Object.prototype.toString;n.toString=g;var m=function(e){return"function"==typeof e};m(/x/)&&(n.isFunction=m=function(e){return"function"==typeof e&&"[object Function]"===g.call(e)}),n.isFunction=m;var h=Array.isArray||function(e){return e&&"object"==typeof e?"[object Array]"===g.call(e):!1};n.isArray=h},{}],35:[function(e,t){t.exports=e("./dist/cjs/handlebars.runtime")["default"]},{"./dist/cjs/handlebars.runtime":17}],36:[function(e,t){t.exports=e("handlebars/runtime")["default"]},{"handlebars/runtime":35}]},{},[1]);
 
       
-   </script>
-   <script type="text/javascript">
-      !function e(n,r,t){function o(f,u){if(!r[f]){if(!n[f]){var a="function"==typeof require&&require;if(!u&&a)return a(f,!0);if(i)return i(f,!0);var g=new Error("Cannot find module '"+f+"'");throw g.code="MODULE_NOT_FOUND",g}var s=r[f]={exports:{}};n[f][0].call(s.exports,function(e){var r=n[f][1][e];return o(r?r:e)},s,s.exports,e,n,r,t)}return r[f].exports}for(var i="function"==typeof require&&require,f=0;f<t.length;f++)o(t[f]);return o}({1:[function(e){window.gg=window.gg||{},window.gg.templates=window.gg.templates||{},gg.cookie=e("./modules/cookies.bsfy"),gg.tracking=e("./modules/tracking.bsfy")},{"./modules/cookies.bsfy":2,"./modules/tracking.bsfy":4}],2:[function(e,n){function r(e){var n=t(e);return null==n?!1:!0}function t(e){var n=e+"=",r=document.cookie,t=null;return r.length>0&&(offset=r.indexOf(n),-1!=offset&&(offset+=n.length,end=r.indexOf(";",offset),-1==end&&(end=r.length),t=decodeURIComponent(r.substring(offset,end)))),t}function o(e,n,r,t){var o=e+"="+i(n);if(null!=r){var f=new Date,u=new Date;u.setTime(f.getTime()+864e5*r),o+="; expires="+u.toGMTString()}return null!=t&&(o+="; PATH="+t),document.cookie=o,null}function i(e){return null!=e&&""!=e&&'"'!=e.charAt(0)&&'"'!=e.charAt(e.length-1)&&(e='"'+e+'"'),e}function f(e,n){o(e,"Deleted",-1,n)}n.exports={getValue:t,set:o,exists:r,remove:f}},{}],3:[function(e,n){function r(e){for(var n=location.search.substring(1,location.search.length),r=!1,t=n.split("&"),o=0;o<t.length;o++)param_name=t[o].substring(0,t[o].indexOf("=")),param_name==e&&(r=t[o].substring(t[o].indexOf("=")+1));return r?r:!1}n.exports={getUrlParam:r}},{}],4:[function(e,n){function r(){t(o.getUrlParam("rf")?o.getUrlParam("rf"):null)}function t(e){var n=document.referrer,r=-1==n.indexOf("globalgiving")||n.indexOf("globalgiving")>14;if(r){var t="ggRefCode",o="ggConversionCode",i=gg.cookie.getValue(t),f=i||e||n;f&&gg.cookie.set(t,f,365,"/");var u=e||n||i;u&&gg.cookie.set(o,u,null,"/")}}var o=e("./params.bsfy");r(),n.exports={assignRefAndConversionCode:t}},{"./params.bsfy":3}]},{},[1]);
-   </script>
+
+      
+    	   
+         loadJS("/v2/js/deps/jquery-1.11.2.min.js",function(){
+            loadJS("/v2/js/minimal.js",function(){
+               ga('set', 'dimension5', 'new');
+
+               if (mixpanel != null && mixpanel.__loaded) {
+                  mixpanel.track('page viewed', {
+                     'page name' : document.title,
+                     'url' : window.location.pathname,
+                     'design': 'new'
+                  });
+               }
+            });
+         });
+     		
+      
+   </script><link rel="stylesheet" href="//fonts.googleapis.com/css?subset=latin&amp;family=Open+Sans:400,400italic,700,700italic,800" media="all"><link rel="stylesheet" href="/v2/fonts/aleo/aleo.css" media="all">
 <!-- ****** STYLESHEETS ***** -->
-   
-      <link href="/css/styles.css" rel="stylesheet" type="text/css">
-      <script type="text/javascript" src="/v2/js/deps/jquery-1.11.2.min.js"></script>
-      <script type="text/javascript" src="/javascript/jquery/jquery.blockUI-2.6.6.js"></script>
-      <script type="text/javascript" src="/v2/js/minimal.js"></script>
-      <!-- Google Universal Analytics -->
-<script type="text/javascript">
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-1836649-1', {'cookieDomain': 'globalgiving.org', 'siteSpeedSampleRate': 100} );
-  ga('require', 'displayfeatures');
-  ga('require', 'linkid', 'linkid.js');
-  
-    
-  ga('set', 'dimension5', 'old');
-  
-            
-  // Optimizely Universal Analytics Integration
-  window.optimizely = window.optimizely || [];
-  window.optimizely.push("activateUniversalAnalytics");
-  ga('send', 'pageview');
-
-  // JS error tracking
-  window.onerror = function(message, file, line) { 
-     var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message; 
-     ga('send', 'exception', { 'exDescription': sFormattedMessage, 'exFatal': false });
-  };
-</script>
-      <!-- start Mixpanel --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
-for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f)}})(document,window.mixpanel||[]);
-mixpanel.init("1d62790938b60c23a48684ad3ebe5a36");</script>
-
-<!-- custom Mixpanel below -->
-<script>
-deferred.push(function(){
-	mixpanel.track('page viewed', {
-	    'page name' : document.title,
-	    'url' : window.location.pathname,
-		 'design': 'old'
-	});
-	
-	mixpanel.track_links("header a", "click header link", {
-	   'url' : window.location.pathname,
-		'referrer': document.referrer
-	});
-	
-	mixpanel.track_links("footer a", "click footer link", {
-	   'url' : window.location.pathname,
-		'referrer': document.referrer
-	});
-});
-</script>
-<!-- end Mixpanel -->
-      <script type="text/javascript" src="/javascript/globalgiving.js"></script>
-      <script type="text/javascript" src="/javascript/ggajax.js"></script>
-      
-      
-
-      
-      
-      <script type="text/javascript" src="/javascript/responsive.js"></script>
-
-      
-
-      
-
    
    
    
@@ -158,16 +178,29 @@ deferred.push(function(){
    <link href="/css/patches/ie_patch.css" rel="stylesheet" type="text/css"/>
    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-<![endif]-->  
-   </head> 
-
-<body class="
+<![endif]-->
    
+   
+         
+         <meta name="selectedNav" content="aboutus">
+         
+
+         
+         
+
+      
+
+   
+
 	
-	
- text_titleLoaded">
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgcPVVFTGwIBUlFRBwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
+</head>
+
+
+<body class="  text_titleLoaded">
+
    <script type="text/javascript">
-	  	//fontfaceobserver
+     	//fontfaceobserver
 	(function(){'use strict';var f=[];function g(a){f.push(a);1===f.length&&l()}function m(){for(;f.length;)f[0](),f.shift()}if(window.MutationObserver){var n=document.createElement("div");(new MutationObserver(m)).observe(n,{attributes:!0});var l=function(){n.setAttribute("x",0)}}else l=function(){setTimeout(m)};function p(a){this.a=q;this.b=void 0;this.f=[];var b=this;try{a(function(a){r(b,a)},function(a){t(b,a)})}catch(c){t(b,c)}}var q=2;function u(a){return new p(function(b,c){c(a)})}function v(a){return new p(function(b){b(a)})}
 	function r(a,b){if(a.a===q){if(b===a)throw new TypeError("Promise settled with itself.");var c=!1;try{var d=b&&b.then;if(null!==b&&"object"===typeof b&&"function"===typeof d){d.call(b,function(b){c||r(a,b);c=!0},function(b){c||t(a,b);c=!0});return}}catch(e){c||t(a,e);return}a.a=0;a.b=b;w(a)}}function t(a,b){if(a.a===q){if(b===a)throw new TypeError("Promise settled with itself.");a.a=1;a.b=b;w(a)}}
 	function w(a){g(function(){if(a.a!==q)for(;a.f.length;){var b=a.f.shift(),c=b[0],d=b[1],e=b[2],b=b[3];try{0===a.a?"function"===typeof c?e(c.call(void 0,a.b)):e(a.b):1===a.a&&("function"===typeof d?e(d.call(void 0,a.b)):b(a.b))}catch(h){b(h)}}})}p.prototype.g=function(a){return this.c(void 0,a)};p.prototype.c=function(a,b){var c=this;return new p(function(d,e){c.f.push([a,b,d,e]);w(c)})};
@@ -216,30 +249,24 @@ deferred.push(function(){
 	    document.body.className += " text_titleLoaded";
 	}
    </script><div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, sans-serif; font-style: normal; font-variant: normal; font-weight: 400; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 528px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, serif; font-style: normal; font-variant: normal; font-weight: 400; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 495px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, monospace; font-style: normal; font-variant: normal; font-weight: 400; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 520px; overflow: scroll; font-size: 16px;"></span></span></div></div><div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, sans-serif; font-style: italic; font-variant: normal; font-weight: 400; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 528px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, serif; font-style: italic; font-variant: normal; font-weight: 400; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 472px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, monospace; font-style: italic; font-variant: normal; font-weight: 400; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 520px; overflow: scroll; font-size: 16px;"></span></span></div></div><div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, sans-serif; font-style: normal; font-variant: normal; font-weight: 700; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 556px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, serif; font-style: normal; font-variant: normal; font-weight: 700; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 506px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, monospace; font-style: normal; font-variant: normal; font-weight: 700; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 520px; overflow: scroll; font-size: 16px;"></span></span></div></div><div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, sans-serif; font-style: italic; font-variant: normal; font-weight: 700; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 556px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, serif; font-style: italic; font-variant: normal; font-weight: 700; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 489px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, monospace; font-style: italic; font-variant: normal; font-weight: 700; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 520px; overflow: scroll; font-size: 16px;"></span></span></div></div><div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, sans-serif; font-style: normal; font-variant: normal; font-weight: 800; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 556px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, serif; font-style: normal; font-variant: normal; font-weight: 800; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 506px; overflow: scroll; font-size: 16px;"></span></span></div><div aria-hidden="true" style="min-width: 20px; min-height: 20px; display: inline-block; overflow: hidden; position: absolute; width: auto; margin: 0px; padding: 0px; top: -999px; left: -999px; white-space: nowrap; font-size: 100px; font-family: &quot;Open Sans&quot;, monospace; font-style: normal; font-variant: normal; font-weight: 800; font-feature-settings: normal;">BESbswy<span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; width: 200%; height: 200%; font-size: 16px;"></span></span><span style="display: inline-block; position: absolute; height: 100%; width: 100%; overflow: scroll; font-size: 16px;"><span style="display: inline-block; position: absolute; height: 100%; width: 520px; overflow: scroll; font-size: 16px;"></span></span></div></div>
-	      
-         <div class="siteWrapper2015">
-      
-      <noscript>
-         <div class="col_ggPrimary1 text_7n box_horizontalPadded1 box_verticalPadded1 grid_padder col_whiteText">
-            WARNING: Javascript is currently disabled or is not available in your browser. GlobalGiving makes extensive use of Javascript and will not function properly with Javascript disabled. <span class="col_defaultText"><a class="col_inherit" href="http://www.enable-javascript.com/" target="_blank"> Please enable Javascript</a></span> and refresh this page.</div>
-         </div>
-      </noscript>
+   
+         
       <div class="grid-parent text_fontSizeZero">
          <div class="triangle-parent barSpacer col_ggPrimary1 grid-0 grid-lg-12">
-            <div class="triangle triangle_small triangle_bottom triangle_noPosition js-selector0" style="left: 90.3906px;"></div>
+            <div class="triangle triangle_small triangle_bottom triangle_noPosition js-selector0" style="left: 108.359px;"></div>
          </div>
       </div>
       <header>
          
-         <form action="/dy/v2/content/search.html" class="grid-12 grid-lg-0 grid-parent col_ggPrimary1 layout_centerVertical">
+         <form action="/dy/v2/content/search.html" class="grid-12 grid-lg-0 grid-parent col_ggPrimary1 layout_centerVertical print_noPrint">
             <div class="grid-4 box_verticalPadded1 js-headerSearch-spacer">&nbsp;</div>
             <div class="grid-6 grid-parent col_whiteText layout_centerVertical">
-               <a href="/dy/cart/view/gg.html?cmd=gcart" onclick="trackHeaderClick(this);" class="grid-parent grid-7 link_subtle col_whiteText layout_center layout_centerVertical text_fontSizeSmaller text_md_fontSizeBase">
-                  <div class="layout_centerVertical layout_inlineBlock text_sans text_7n text_allCaps text_fontSizeSmaller"><span>Giving Cart</span><div class="sprite sprite_gcartWhite layout_inlineBlock layout_rel js-cartItems layout_centerVertical"></div></div>
+               <a href="/dy/cart/view/gg.html?cmd=gcart" onclick="trackHeaderClick(this);" class="grid-parent grid-7 col_inherit layout_center layout_centerVertical text_fontSizeSmallest text_md_fontSizeBase">
+                  <span>Giving Cart</span>
+                  <div class="sprite sprite_gcartWhite layout_inlineBlock layout_rel js-cartItems"></div>
                </a>
-               <div class="grid-5 layout_center layout_centerVertical text_sans text_7n col_whiteText text_fontSizeSmall text_md_fontSizeBase layout_rel js-login">
-                  <img src="/img/animated_gif/loading_arrow.gif" alt="Loading...">
-               </div>
+               <div class="grid-5 layout_center layout_centerVertical text_sans text_7n col_whiteText text_fontSizeSmall text_md_fontSizeBase layout_rel js-login">   <a class="col_ggPrimary3Text" href="/dy/v2/login/form.html?andthen=https://web.archive.org/web/20161119022534id_/https://www.globalgiving.org/aboutus/privacy/">Login</a>
+</div>
             </div>
             <input tabindex="-1" class="grid-4 input_text input_text_ggPrimary1Dark col_whiteText box_verticalPadded1 js-headerSearch-input" style="width:0;padding:0;" type="text" name="q" placeholder="I care about..." title="Search for nonprofits">
             <div class="grid-2 grid-parent col_ggPrimary1Dark layout_center layout_centerVertical layout_rel box_verticalPadded1">
@@ -248,568 +275,422 @@ deferred.push(function(){
             </div>
          </form>
          
-         <div class="grid-parent box_horizontalPadded2 box_verticalPadded1 layout_centerVertical">
+         <div class="grid-parent box_padded2 layout_centerVertical">
             <div class="grid-12 grid-lg-7 grid-parent layout_centerVertical">
                <a href="/" class="grid-5 layout_centerVertical">
                   <img src="/img/logos/gg_horizontal_color_300.png" srcset="/img/logos/gg_horizontal_color_300.png 1x,
-                               /img/logos/gg_horizontal_color_600.png 2x" class="img-cover" alt="GlobalGiving homepage" style="max-width:260px;">
+                             /img/logos/gg_horizontal_color_600.png 2x" alt="GlobalGiving homepage" style="width:220px; max-width:100%;">
                </a>
                
-               <nav class="grid-7 grid-lg-6 grid-xl-6 grid-parent layout_center layout_centerVertical">
-                        <a href="/give/" class="grid-4 grid-md-3 text_letterSpacingLoosest link_subtle
-                           col_ggPrimary5LightText">
-                           GIVE</a>
-                        <a href="/join/" class="grid-4 grid-md-3 text_letterSpacingLoosest link_subtle
-                           col_ggPrimary5LightText">
-                           JOIN</a>
-                        <a href="/aboutus/" class="grid-4 grid-md-3 text_letterSpacingLoosest link_subtle
-                           col_ggPrimary1Text
-                           js-selector0-target">
-                           ABOUT</a>
-               </nav>
+                  <nav class="grid-7 grid-lg-6 grid-xl-6 grid-parent layout_center layout_centerVertical">
+                     <a href="/give/" class="grid-4 grid-md-3 text_letterSpacingLoosest link_subtle
+                        col_ggPrimary5LightText">
+                        GIVE</a>
+                     <a href="/join/" class="grid-4 grid-md-3 text_letterSpacingLoosest link_subtle
+                        col_ggPrimary5LightText">
+                        JOIN</a>
+                     <a href="/aboutus/" class="grid-4 grid-md-3 text_letterSpacingLoosest link_subtle
+                        col_ggPrimary1Text js-selector0-target">
+                        ABOUT</a>
+                     <a href="/gifts/" class="grid-4 grid-md-3 text_letterSpacingLoosest link_subtle
+	                     col_ggSecondary3Text">
+                        GIFTS</a>
+                  </nav>
                
             </div>
                
-               <div class="grid-0 grid-lg-5 layout_centerVertical">
-                  <div class="grid-parent layout_centerVertical">
-                     <div class="grid-3 layout_centerVertical ">
-                        <a href="/dy/cart/view/gg.html?cmd=gcart" onclick="trackHeaderClick(this);" class="layout_center layout_centerVertical grid-parent col_ggPrimary5LightText">
-                           <div class="layout_centerVertical layout_inlineBlock  text_allCaps text_fontSizeSmaller"><span>Giving Cart</span><div class="sprite sprite_gcart layout_inlineBlock layout_rel js-cartItems layout_centerVertical"></div></div>
-                        </a>
-                     </div>
-                     <div class="grid-lg-6 text_fontSizeSmall box_horizontalPadded1 layout_centerVertical">
-                        <form class="grid-parent border_primary5Lighter layout_hideOverflow layout_centerVertical" action="/dy/v2/content/search.html">
-                           <input class="input_text grid-10 text_fontSizeSmall test-searchInput" type="text" placeholder="I care about..." name="q" title="Search for nonprofits">
-                           <div class="grid-parent grid-2 layout_center">
-                              <input type="submit" class="input_preventDisplay sprite sprite_search text_fontSizeZero test-searchSubmit">
-                           </div>
-                        </form>
-                     </div>
+                  <div class="grid-0 grid-lg-5 layout_centerVertical">
+                     <div class="grid-parent layout_centerVertical">
+                        <div class="grid-3 layout_centerVertical ">
+                           <a href="/dy/cart/view/gg.html?cmd=gcart" onclick="trackHeaderClick(this);" class="layout_center layout_centerVertical grid-parent col_ggPrimary5LightText">
+                              <div class="layout_centerVertical layout_inlineBlock text_fontSizeSmaller"><span>Giving Cart</span><div class="sprite sprite_gcart layout_inlineBlock layout_rel js-cartItems layout_centerVertical"></div></div>
+                           </a>
+                        </div>
+                        <div class="grid-lg-6 text_fontSizeSmall box_horizontalPadded1 layout_centerVertical">
+                           <form class="grid-parent border_primary5VeryLight layout_hideOverflow layout_centerVertical" action="/dy/v2/content/search.html">
+                              <input class="input_text grid-10 text_fontSizeSmall test-searchInput" type="text" placeholder="I care about..." name="q" title="Search for nonprofits">
+                              <div class="grid-parent grid-2 layout_center layout_centerVertical">
+                                 <input type="submit" class="input_preventDisplay sprite sprite_search text_fontSizeZero test-searchSubmit">
+                              </div>
+                           </form>
+                        </div>
 
-                     <div class="grid-3 text_fontSizeSmall layout_centerVertical text_lineHeightNatural layout_center">
-                        <div class="text_sans text_4n col_ggPrimary3Text layout_rel js-login">
-                           <img src="/img/animated_gif/loading_arrow.gif" alt="Loading...">
+                        <div class="grid-3 text_fontSizeSmall layout_centerVertical text_lineHeightNatural layout_center">
+                           <div class="text_sans text_4n col_ggPrimary3Text layout_rel js-login">   <a class="col_ggPrimary3Text" href="/dy/v2/login/form.html?andthen=https://web.archive.org/web/20161119022534id_/https://www.globalgiving.org/aboutus/privacy/">Login</a>
+</div>
                         </div>
                      </div>
                   </div>
-               </div>
-            
-         </div>
+               
+            </div>
+         <div class="barSpacer barSpacer_shortest col_ggSecondary1Lighter"></div>
       </header>
-      
-         </div>
-         <!-- The following sets up the vars display settings for apache so we can default to the right page. -->
-<!-- Donors -->
-
-
-<!-- non-profits -->
-
-
-
-
-
- 
- 
- 
- 
-
-<!-- grantees-->
-
-
-
-
-
-<!-- corporate partners -->
-
-
-
-
-<!-- about us -->
-
-
-
-
-
-<!-- default selected tab is donor to enusre backward compatibility -->
-
-
-    
-
-<!-- visibility for the subnavs per default off -->
-
-
-
-
-<!--sub nav -->
-<div class="col_ggPrimary1 col_whiteText layout_center">
-    <!--************* DONOR TAB > GIVING TOOLS > SUBNAV *************-->
+       
    
-    <!--************* NON-PROFITS > JOIN GLOBALGIVING > SUBNAV *************-->
-    
-    <!--************* NON-PROFITS > MANAGE PROJECTS > SUBNAV *************-->
-    
-    
-    
-    
-     
-    
-           
-
-         
-    
-                
-
-                
-    
-    
-    
-    
-</div>
-
-
-
-         
-            <!-- going custom, not prepping the side with standard GG container with rounded corners-->
-            <div class="siteWrapper2015">
-         
-      
-
    <link href="/v2/css/modules/06_images/hero.css" rel="stylesheet" type="text/css">
    <script type="text/javascript">
       loadJS("/v2/js/modules/nav.js");
-      deferred.push(["gg.img.loadBg","js-hero","/img/banners/hero_about","jpg"]);
+      deferred.push(["gg.img.loadBg","js-hero","https://www.globalgiving.org/img/banners/hero_about","jpg"]);
    </script>
-   <div class="hero img-overlay layout_center js-hero" style="background-image: url(&quot;/img/banners/hero_about_lg.jpg&quot;);">
-      <div class="hero-text layout_inlineBlock box_topMargin3 layout_centerBoth">
+   <section class="hero img-overlay layout_center js-hero" style="background-image: url(&quot;https://www.globalgiving.org/img/banners/hero_about_lg.jpg&quot;);">
+      <div class="hero-text layout_inlineBlock box_topMargin5 layout_centerBoth">
          <h1 class="hero-title col_whiteText">
-            <a class="col_inherit" href="/aboutus/">
-            About Us
-            </a>
+            
+            Privacy Policy
+            
          </h1>
       </div>
-   </div>
+   </section>
       <nav class="heroNav col_ggSecondary1 text_8n text_allCaps text_fontSizeSmall layout_center layout_centerVertical">
-   <a class="box_padded1 text_letterSpacingLoose col_whiteText link_subtle
+   <a class="box_horizontalPadded1 box_verticalPadded3 text_letterSpacingLoose col_whiteText link_subtle
    
    
-   " href="/aboutus/impact/">Our Impact</a>
-   <a class="box_padded1 text_letterSpacingLoose col_whiteText link_subtle
+   " href="/aboutus/">About Us</a>
+   <a class="box_horizontalPadded1 box_verticalPadded3 text_letterSpacingLoose col_whiteText link_subtle
    
    
-   " href="/aboutus/team/">Our Team</a>
-   <a class="box_padded1 text_letterSpacingLoose col_whiteText link_subtle
+   " href="/aboutus/how-it-works/">How It Works</a>
+   <a class="box_horizontalPadded1 box_verticalPadded3 text_letterSpacingLoose col_whiteText link_subtle
+   
+   
+   " href="/aboutus/who-we-are/">Who We Are</a>
+   <a class="box_horizontalPadded1 box_verticalPadded3 text_letterSpacingLoose col_whiteText link_subtle
    
    
    " href="/aboutus/jobs/">Jobs</a>
-   <a class="box_padded1 text_letterSpacingLoose col_whiteText link_subtle
+   <a class="box_horizontalPadded1 box_verticalPadded3 text_letterSpacingLoose col_whiteText link_subtle
    
    
-   " href="/contactus/">Contact</a>
+   " href="/aboutus/impact/">Our Impact</a>
+   <a class="box_horizontalPadded1 box_verticalPadded3 text_letterSpacingLoose col_whiteText link_subtle
+   
+   
+   " href="/aboutus/news-media/">News + Media</a>
+   <a class="box_horizontalPadded1 box_verticalPadded3 text_letterSpacingLoose col_whiteText link_subtle
+   col_ggPrimary1Text
+   
+   " href="/aboutus/financials/">Financials</a>
+   <a class="box_horizontalPadded1 box_verticalPadded3 text_letterSpacingLoose col_whiteText link_subtle
+   
+   
+   " href="/aboutus/contact/">Contact Us</a>
          <div class="heroNav-overflow col_ggSecondary1 layout_abs zindex_overlayTop"></div>
          <a class="js-heroNav-toggle" style="display:none;" href="javascript:void(0)" onclick="$(this).prev().toggle();">more&nbsp;▾</a>
       </nav>
-            <div id="siteWrapperDiv" class="siteWrapper ">   <!-- START wrapper DIV --> 
-               <div id="whiteMarginBox"> 
-                  <div id="mainHeader"><!-- START top  rounded corners-->
-                     <div><div></div></div>
-                  </div><!-- END top rounded corners -->
-                  <div class="container_12 contentBox"> 
-
-
-  <div class="grid_12 alpha omega bigText">
-      <h1>GlobalGiving Privacy Policy</h1>
-  <p>
-	GlobalGiving values you and respects your privacy. We collect information to support our 
-	relationship with you, improve our services, and communicate about promotions or special 
-	services. GlobalGiving recognizes that we must maintain and use information responsibly.
-  </p>
-  <p>This policy describes what personal information we collect and how we use it. You can always 
-	find the most current version of our privacy policy at <a href="/aboutus/privacypol.html">www.globalgiving.org/aboutus/privacypol.html</a>. 
-  </p>
+            <div class="grid-parent triangle-parent">
+               <div class="triangle triangle_bottom triangle_small triangle_ggSecondary1 triangle_noPosition js-selector1" style="left: 298.156px;"></div>
+            </div>
+               <nav class="heroNav col_defaultBg layout_center layout_centerVertical text_fontSizeSmaller text_allCaps" style="white-space:nowrap">
+   <a class="box_horizontalPadded1 box_verticalPadded3 col_ggSecondary1LightText link_subtle
+      
+   " href="/aboutus/financials/requests/">Official Documents &amp; Annual Reports</a>
+   <a class="box_horizontalPadded1 box_verticalPadded3 col_ggSecondary1LightText link_subtle
+      js-selector1-target
+   " href="/aboutus/privacy/">Privacy Policy</a>
+   <a class="box_horizontalPadded1 box_verticalPadded3 col_ggSecondary1LightText link_subtle
+      
+   " href="/aboutus/terms/">Terms of Service</a>
+                  <div class="heroNav-overflow col_defaultBg layout_abs zindex_overlayTop"></div>
+                  <a class="js-heroNav-toggle" style="display:none;" href="javascript:void(0)" onclick="$(this).prev().toggle();">more&nbsp;▾</a>
+               </nav>
+<div class="grid-parent layout_center">
+   <div class="grid-12 layout_center">
+      <div class="grid-padder box_verticalMargin4">
+         <h1 class="ruleBottom ruleBottom_ggPrimary1">GlobalGiving Privacy Policy</h1>
+      	<p class="text_fontSizeLarge">
+      	GlobalGiving respects your privacy. We collect information to support our 
+      	relationship with you, improve our services, and communicate about promotions or special 
+      	services. GlobalGiving recognizes that we must maintain and use information responsibly.
+      	</p>
+      </div>
+   </div>
+   
+   <div class="grid-12 layout_center col_ggPrimary5Lightest">
+      <div class="grid-padder box_verticalMargin4">
+         <h4>Privacy Policy Overview</h4>
+      
+      	<p>This policy describes what personal information we collect and how we use it.</p>
+         
+         <p class="grid-12 grid-lg-8">
+         We collect information from you when you <strong>visit and take actions</strong> on our website. 
+         We use this information to provide the services you've requested.
+         We use <strong>cookies</strong> to provide a better experience. We use tools like <strong>Google Analytics</strong> to improve our site. 
+         Except for the purposes outlined below, <strong>we will not trade, share, or sell your personal information with anyone</strong>. Refer to the policy for complete details.
+         </p>
+         
+         <p>If you have any questions about our privacy policy, please contact us at <strong><a href="mailto:privacy@globalgiving.org">privacy@globalgiving.org</a></strong>.</p>
+         <p class="print_only">You can always find the most current version of our privacy policy at <a href="/aboutus/privacy/">https://www.globalgiving.org/aboutus/privacy/</a>.</p>
+      </div> 
+   </div> 
  
- <div class="yellowCallout">
-<strong>If you have any questions about our privacy policy, please contact us at <script type="text/javascript">mkaddr("privacy")</script><a href="mailto:privacy@globalgiving.com">privacy@globalgiving.com</a>.</strong> 
-</div>
- </div>
- 
- 
- <div class="grid_4 alpha bigText">
- 	<ul class="noListStyle">
-     <li><a href="#0">Information Collection</a></li>
-	 <li><a href="#1">Creating globalgiving.org Account</a></li>
-	 <li><a href="#2">Making a Donation</a></li>
-	 <li><a href="#3">Gift Cards</a></li>
-	 <li><a href="#3b">Donations in Honor/Memory of Someone</a></li>
-	 <li><a href="#4">Contests, Promotions, and Surveys</a></li>  
-	</ul>
- </div>
-  <div class="grid_4 bigText">
-  	<ul class="noListStyle">
-     <li><a href="#4a">Creating a Fundraiser or Registry</a></li>
-	 <li><a href="#5">Technical Information</a></li>
-	 <li><a href="#5a">Use of Information</a></li>
-	 <li><a href="#6">Disclosure of Information</a></li>
-	 <li><a href="#6a">Information about Children Under 13</a></li>
-	 <li><a href="#7">Viewing and Updating Your Information on GlobalGiving</a></li>
-	</ul>
-  </div>
-  <div class="grid_4 omega  bigText">
-    <ul class="noListStyle"> 	
-     <li><a href="#8">Links to Other Websites</a></li>
-	 <li><a href="#8a">Security</a></li>
-	 <li><a href="#9">Privacy Policy Updates</a></li>
-	 <li><a href="#10">Contact Us</a></li>
-	</ul>
-  </div> 
-
-    <div class="grid_12 alpha omega bigText">
-
-  <h4>
-  <a name="0"></a>
-  Information Collection
-  </h4>
-
-  <p>
-	We collect information when you visit our website, create an account, edit your account 
-	information, donate to a project, or send or use a gift card. Some of this information is technical 
-	information that is automatically logged by our servers.   
-</p>
-
-  <h4>
-  <a name="1"></a>
-  Creating a globalgiving.org Account
-  </h4>
-
-  <p>
-	When you create an account on our website, we collect basic information about you - your name 
-	and email address. You can choose to provide additional information, such as your mailing 
-	address, a photo, favorite projects, etc., if you create a profile or create a GlobalGiving gift 
-	registry.
-  </p>
-
-  <h4>
-  <a name="2"></a>
-  Making a Donation
-  </h4>
-
-  <p>
-	When you make an online donation on globalgiving.org, we collect personal information such 
-	as your name, billing address, and email address, if you have not already provided these details. 
-	We collect information about your donation, including the project you are donating to and the 
-	amount of your donation.  You may choose to provide the email address of friends that you ask 
-	us to notify about your use of the globalgiving.org website. We also collect (but do not retain) 
-	credit card numbers which are processed by a third-party payment vendor subject to the Payment 
-	Card Industry Data Security Standards. If you use PayPal or a similar service, their use of your 
-	information is based on their terms of service and policies, not ours, so we encourage you to 
-	review those policies carefully. 
-
-  </p>
-
-  <h4>
-  <a name="3"></a>
-  Gift Cards
-  </h4>
-
-  <p>
-When you give a GlobalGiving Gift Card, we collect payment and contact information about 
-you, as well as the name, email address, and mailing address of your recipient.  You may create a 
-personal message to the recipient, which is stored on our servers.  Except in the limited 
-circumstances described below, we do not read or use your personal messages.   
-  </p>
- <p>
-	If you are the recipient of a GlobalGiving Gift Card, we collect information from you when you 
-	redeem the Card to make a donation.  Please note that we may share this information with the 
-	individual or entity who gave you the gift card. 
-	
-	</p>
-    
-	<h4>
-	  <a name="3b"></a>
-	  Donations in Honor/Memory of Someone
-	  </h4>
-
-	  <p>
-		When you make a donation in honor or memory of a loved one, we collect payment and contact 
-		information about you, as well as the name, email address, and mailing address of the recipient.  
-		You may create a personal message to the recipient, which is stored on our servers.  Except in 
-		the limited circumstances described below, we do not read or use your personal messages. 
-	  </p>
-
-
-  <h4>
-  <a name="4"></a>
-  Contests, Promotions, and Surveys
-  </h4>
-
-  <p>
-	Periodically, GlobalGiving may invite you to participate in contests, take advantage of special 
-	promotions, and complete online surveys. If you have created a GlobalGiving account or profile, 
-	information we collect from these contests, promotions, and surveys may be associated with you 
-	personally.  
-
-  </p>   
-
-<h4>
-  <a name="4a"></a>
-  Creating a Fundraiser or Registry
-  </h4>
-
-  <p>
-	When you create a fundraiser or registry on GlobalGiving, we collect information about projects 
-	you propose or wish to support. GlobalGiving notifies the project leader when a fundraiser or 
-	registry is established for their project, but does not share your personal information with the 
-	project leader or the project.  Remember, however, that anything you post on your fundraiser site 
-	will be seen by visitors to the site. 
-  </p>  
-<p>   
-	If you donate to a registry, fundraiser, or giving group, then we will also share your name and the 
-	date and amount of your donation with the person who created the registry, fundraiser, or group.
-	</p>
-
-  <h4>
-  <a name="5"></a>
-  Technical Information
-  </h4>
-  
-  <p> 
-	Like most websites, our servers automatically collect certain technical information when you 
-	visit our site, including your Internet Protocol address, browser type, browser language, the date 
-	and time of your visit, the referring URL, and, if you have visited our Site before, one or more 
-	cookies that may uniquely identify your browser.   We also collect information about your 
-	activities on the site, such as the pages you access.
-  </p> 
-<p>
-In order to collect this information, the site places a cookie on your hard drive. A "cookie" is a 
-small file containing a string of characters that is sent to your computer when you visit a website. 
-When you visit the website again, the cookie allows that site to recognize your browser. Cookies 
-may store user preferences and other information. You can reset your browser to refuse all 
-cookies or to indicate when a cookie is being sent. However, some website features or services 
-may not function properly without cookies.
-	</p> 
-	
-<p>
-In addition, we use a tool called "Google Analytics" to collect information about use of this site. Google Analytics 
-collects information such as how often users visit this site, what pages they visit when they do so, what 
-other sites they used prior to coming to this site, and Interest-based advertising or 3rd-party audience data (such as age, gender and interests). 
-We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this 
-site, rather than your name or other identifying information. We do not combine the information collected through 
-the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent
-cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be
-used by anyone but Google. Google's ability to use and share information collected by Google Analytics about your
-visits to this site is restricted by the <a href="http://www.google.com/analytics/terms/us.html">Google Analytics Terms of Use</a> and the 
-<a href="http://www.google.com/policies/privacy/">Google Privacy Policy</a>.  You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using <a href="https://www.google.com/settings/ads">Google Ads Settings</a>.
-</p>
-
-	<h4>
-  <a name="5a"></a>
-  Use of Information
-  </h4>
-
-  <p> 
-	GlobalGiving uses the personal information that you provide, and the technical information 
-	logged by our servers to process your donations, to: 
-	</p>
-	<ul>     
-	  <li>deliver the notifications described above; 
-	</li>   
-	<li>notify your friends and family about the project if you ask us to; 
-	</li>
-	<li>improve your experience (such as remembering your name, the items in your Giving 
-	Cart, or your preferences); 
-	</li>
-	<li>contact you regarding your donation(s) and other aspects of the service; </li>
-	<li>operate the site and our business; and </li>
-	<li>compile aggregate statistics that allow us to understand how visitors use our site, and to 
-	make improvements in design and content to better serve you.</li>
-		</ul>
-
-  <h4>
-  <a name="6"></a>
-  Disclosure of Personal Information
-  </h4>
-  
-  <p>
-	We will share your personal information with our agents, representatives, service providers and 
-	contractors in order to process your donations, offer you services in connection with our website, 
-	communicate news and information about GlobalGiving, provide customer service, enhance and 
-	improve customers' donor experiences, and complete financial transactions. These service 
-	providers are authorized to use your information only to the extent necessary to serve these 
-	purposes, or as otherwise authorized by this policy.  
-
-  </p> 
-<p> 
-	Unless you ask us not to, we also share your personal information when you make a donation: 
-	</p>
-	<ul>
-		<li>When you donate to a registry, fundraiser, or giving group, we share your name and the 
-		date and amount of your donation with the person who created the fundraiser, registry, or 
-		group.</li>
-		<li>When you make a donation that is part of a campaign sponsored by your employer, and/or
-		when your employer is being asked to match your donation, we will share your name, email address
-		and the amount of you donation with your employer.</li>
-		<li>When you donate to a project, we share your name and contact information and the 
-		amount of your donation with the project leader.</li>
-		<li>Each time you make a donation, however, we will give you the opportunity to tell us not 
-		to share your personal information in the ways described above (except in the case of employer
-		matched donations).</li>
-	</ul> 
-	<p> If GlobalGiving merges with, or becomes an affiliate of another organization, we will ensure the 
-	confidentiality of any personal information involved in such transactions and provide notice 
-	before personal information is transferred and becomes subject to a different privacy policy.
-		</p>  
-		<p>Aside from the purposes described above, we will not disclose your personal information without 
-		your consent, unless: (1) we need to respond to a subpoena, court order or legal process; (2) an 
-		emergency situation requires disclosure before your permission can be obtained (e.g., situations 
-		involving potential threats to personal safety), or; (3) we determine that disclosure is needed to 
-		protect our rights or property, or the rights or property of another person.</p>
-		<p>We may share aggregated demographic and statistical information with our other partners. This 
-		is not linked to any personal information that can identify any individual person.  
-		</p>
-
-  		 <h4>
-		  <a name="6a"></a>
-		  Information about Children Under 13
-		  </h4>
-
-		  <p>
-			GlobalGiving.org is a general audience website, and does not collect information about a 
-			visitor's age. We do, from time to time, partner with other organizations to educate children 
-			about philanthropy in general and our work in particular.  In those cases, we do not collect 
-			personal information from a visitor on pages specifically designed for children.
-		  </p>
-
-  <h4>
-  <a name="7"></a>
-  Viewing and Updating Your Information on globalgiving.org
-  </h4>
-
-  <p>You can access your account information at any time by going to the My Account page. You can 
-make changes to your information and update your account at any time.
-  </p>
-
-  <p>
-	You can also unsubscribe from GlobalGiving communications at any time by sending an 
-	unsubscribe email as described at the bottom of every GlobalGiving communications, or by 
-	updating your subscriptions on the My Account page.
-  </p>   
-<p>
-	When you create an account or profile on globalgiving.org, you can decide whether to make 
-	some or all of that information public or private.  You can change your choices at any time using 
-	the My Profile page.   Please note, however, that your preferences do not affect the disclosures to 
-	project leaders, or fundraisers, or giving group leaders.  So, for example, if you make a donation 
-	to a fundraiser, then we will display your name and date of your donation on the fundraiser 
-	regardless of your settings. Likewise, if you contribute to a project, we will share your name and 
-	contact information with the project leader.  In each case we will give you the opportunity to tell 
-	us not to disclose your personal information with the project leader, or publish it on the web site 
-	or in our annual report.</p>
-
-  <h4>
-  <a name="8"></a>
-  Links to Other Websites
-  </h4>
-
-  <p>
-	Other websites, including those of our partners (links to which appear on globalgiving.org), 
-	have their own privacy policies. When you provide personal information at one of those sites, 
-	you are subject to the privacy policy of the operator of that site, not the GlobalGiving privacy 
-	policy. We encourage you to read that policy before submitting any personal information.  
-
-  </p>
-
-  <p>
-	You should take additional steps to safeguard your personal information online. To learn more 
-	about how to protect yourself, visit the <a href="http://www.ftc.gov" target="_blank">Federal Trade Commission website</a>.
-  </p>
-  
-	 <h4>
-	  <a name="8a"></a>
-	  Security
-	  </h4>
-
-	  <p>
-		GlobalGiving understands the importance of keeping your information secure and confidential.  
-		We have implemented policies and procedures designed to help safeguard your information.  
-		When you make a donation, information about your credit card, Paypal account, or bank is 
-		transmitted using SSL. 
-	
-	  </p>
-
-  <h4>
-  <a name="9"></a>
-  Privacy Policy Updates
-  </h4>
-
-  <p>
-	Our privacy policy is regularly reviewed to make sure we continue to serve the privacy interests 
-	of our customers. If our information practices change materially, we will post the policy changes 
-	on the privacy page of this website to notify you of these changes. Please check our website 
-	periodically for more information on how we use the data we collect.
-  </p>
-
-  <h4>
-  <a name="10"></a>
-  Contact Us
-  </h4>
-
-  <p>
-	You may contact us by using the “Contact Us” links on the footer of our site. We try to reply 
-	promptly to every message we receive. This information is used to respond directly to your 
-	questions or comments. We also may file your comments and share them with our customer care 
-	team to improve our service in the future.
-  </p>
-
-  <p>
-    If you still have questions or concerns regarding our privacy policy write us at:  
-  </p>
-
-  <p>
-  GlobalGiving<br> 
-  <script type="text/javascript" language="JavaScript">
-  mkaddr("privacy","Privacy Policy Inquiry");
-  </script><a href="mailto:privacy@globalgiving.com">privacy@globalgiving.com</a>
-  <br>1110 Vermont Avenue NW
+   <div class="grid-12 grid-lg-8 layout_center">
+      <div class="grid-padder box_verticalMargin4 layout_alignLeft">
+      
+      <h4>Information Collection</h4>
+      <p>
+      We collect information when you visit our website, create an account, edit your account 
+      information, donate to a project, or send or use a gift card. Some of this information is technical 
+      information that is automatically logged by our servers.   
+      </p>
+   
+      <h4>Creating a globalgiving.org Account</h4>
+      <p>
+      When you create an account on our website, we collect <strong>basic information</strong> about you - your name 
+      and email address. You can choose to provide additional information, such as your mailing 
+      address, a photo, favorite projects, etc., if you create a profile or create a GlobalGiving fundraiser.
+      </p>
+   
+      <h4>Making a Donation</h4>
+      <p>
+      When you make an online donation on globalgiving.org, we collect personal information such 
+      as your name, billing address, and email address, if you have not already provided these details. 
+      We collect information about your donation, including the project you are donating to and the 
+      amount of your donation.  You may choose to provide the email address of friends that you ask 
+      us to notify about your use of the globalgiving.org website. We also collect (but <strong>do not retain</strong>) 
+      credit card numbers which are processed by a third-party payment vendor subject to the Payment 
+      Card Industry Data Security Standards. If you use PayPal or a similar service, their use of your 
+      information is based on their terms of service and policies, not ours, so we encourage you to 
+      review those policies carefully. 
+      </p>
+   
+      <h4>Gift Cards</h4>
+      <p>
+      When you give a GlobalGiving Gift Card, we collect payment and contact information from 
+      you, as well as the name, email address, and mailing address of your recipient.  You may create a 
+      personal message to the recipient, which is stored on our servers.  Except in the limited 
+      circumstances described below, we do not read or use your personal messages.   
+      </p>
+      <p>
+      If you are the recipient of a GlobalGiving Gift Card, we collect information from you when you 
+      redeem the Card to make a donation. Please note that we may share this information with the 
+      individual or entity who gave you the gift card. 
+      </p>
+   
+      <h4>Donations in Honor/Memory of Someone</h4>
+   
+      <p>
+      When you make a donation in honor or memory of a loved one, we collect payment and contact 
+      information about you, as well as the name, email address, and mailing address of the recipient.  
+      You may create a personal message to the recipient, which is stored on our servers.  Except in 
+      the limited circumstances described below, we do not read or use your personal messages. 
+   	</p>
+   
+   
+      <h4>Contests, Promotions, and Surveys</h4>
+      <p>
+      Periodically, GlobalGiving may invite you to participate in contests, take advantage of special 
+      promotions, and complete online surveys. If you have created a GlobalGiving account or profile, 
+      information we collect from these contests, promotions, and surveys may be associated with you 
+      personally.  
+      </p>   
+   
+      <h4>Creating a Fundraiser or Registry</h4>
+      <p>
+      When you create a fundraiser or registry on GlobalGiving, we collect information about projects 
+      you propose or wish to support. GlobalGiving notifies the project leader when a fundraiser or 
+      registry is established for their project, but does not share your personal information with the 
+      project leader or the project.  Remember, however, that anything you post on your fundraiser site 
+      will be seen by visitors to the site. 
+      </p>  
+      <p>   
+      If you donate to a registry, fundraiser, or giving group, then we will also share your name and the 
+      date and amount of your donation with the person who created the registry, fundraiser, or group.
+      </p>
+   
+      <h4>Technical Information</h4>
+   
+      <p> 
+      Like most websites, our servers automatically collect certain technical information when you 
+      visit our site, including your Internet Protocol address, browser type, browser language, the date 
+      and time of your visit, the referring URL, and, if you have visited our Site before, one or more 
+      cookies that may uniquely identify your browser.  We also collect information about your 
+      activities on the site, such as the pages you access.
+      </p> 
+      <p>
+      In order to collect this information, the site places a cookie on your hard drive. A cookie is a 
+      small file containing a string of characters that is sent to your computer when you visit a website. 
+      When you visit the website again, the cookie allows that site to recognize your browser. Cookies 
+      may store user preferences and other information. You can reset your browser to refuse all 
+      cookies or to indicate when a cookie is being sent. However, some website features or services 
+      may not function properly without cookies.
+      </p> 
+   
+      <p>
+      In addition, we use a tool called "Google Analytics" to collect information about use of this site. Google Analytics 
+      collects information such as how often users visit this site, what pages they visit when they do so, what 
+      other sites they used prior to coming to this site, and Interest-based advertising or 3rd-party audience data (such as age, gender and interests). 
+      We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this 
+      site, rather than your name or other identifying information. We do not combine the information collected through 
+      the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent
+      cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be
+      used by anyone but Google. Google's ability to use and share information collected by Google Analytics about your
+      visits to this site is restricted by the <a href="http://www.google.com/analytics/terms/us.html">Google Analytics Terms of Use</a> and the 
+      <a href="http://www.google.com/policies/privacy/">Google Privacy Policy</a>.  You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using <a href="https://www.google.com/settings/ads">Google Ads Settings</a>.
+      </p>
+   
+      <h4>Use of Information</h4>
+      <p> 
+      GlobalGiving uses the personal information that you provide, and the technical information 
+      logged by our servers to process your donations, to: 
+      </p>
+      <ul>     
+   	<li>deliver the notifications described above;</li>   
+      <li>notify your friends and family about the project if you ask us to;</li>
+      <li>improve your experience (such as remembering your name, the items in your Giving Cart, or your preferences);</li>
+      <li>contact you regarding your donation(s) and other aspects of the service; </li>
+      <li>operate the site and our business; and </li>
+      <li>compile aggregate statistics that allow us to understand how visitors use our site, and to make improvements in design and content to better serve you.</li>
+      </ul>
+   
+      <h4>Disclosure of Personal Information</h4>
+      <p>
+      We will share your personal information with our agents, representatives, service providers and 
+      contractors in order to process your donations, offer you services in connection with our website, 
+      communicate news and information about GlobalGiving, provide customer service, enhance and 
+      improve customers' donor experiences, and complete financial transactions. These service 
+      providers are authorized to use your information only to the extent necessary to serve these 
+      purposes, or as otherwise authorized by this policy.  
+      <strong>Except for the purposes outlined herein, we will not trade, share, or sell a donor's personal information with anyone else.</strong> 
+      This policy applies to donor information collected by the GlobalGiving Foundation through all channels, including online and offline donations. 
+      </p> 
+   
+      <p> 
+      Unless you ask us not to, we share your personal information under the following circumstances: 
+      </p>
+   
+      <ul>
+      <li>When you <strong>donate to a project</strong>, we share your name and contact information and the amount of your donation with the <strong>project leader</strong>.</li>
+      <li>When you <strong>donate to a fundraiser</strong>, registry, or giving group, we share your name and the date and amount of your donation with the <strong>person who created the fundraiser</strong>, registry, or group.</li>
+      <li>When you make a donation that is part of a <strong>campaign sponsored by your employer</strong>, and/or when your employer is being asked to match your donation, we will share your name, email address and the amount of you donation with your employer.</li>
+      <li>Each time you make a donation, however, <strong>we will give you the opportunity to tell us not to share your personal information</strong> in the ways described above (except in the case of employer matched donations) by selecting to be "<strong>anonymous</strong>" during the checkout process.</li>
+      </ul> 
+   
+      <p>
+      If GlobalGiving merges with, or becomes an affiliate of another organization, we will ensure the 
+      confidentiality of any personal information involved in such transactions and provide notice 
+      before personal information is transferred and becomes subject to a different privacy policy.
+      </p>  
+      
+      <p>
+      Aside from the purposes described above, we will not disclose your personal information without 
+      your consent, unless: (1) we need to respond to a subpoena, court order or legal process; (2) an 
+      emergency situation requires disclosure before your permission can be obtained (e.g., situations 
+      involving potential threats to personal safety), or; (3) we determine that disclosure is needed to 
+      protect our rights or property, or the rights or property of another person.
+      </p>
+      <p>
+      We may share aggregated demographic and statistical information with our other partners. This 
+      is not linked to any personal information that can identify any individual person.  
+      </p>
+   
+      <h4>Information about Children Under 13</h4>
+   
+   	<p>
+   	GlobalGiving.org is a general audience website, and does not collect information about a 
+      visitor's age. We do, from time to time, partner with other organizations to educate children 
+      about philanthropy in general and our work in particular.  In those cases, we do not collect 
+      personal information from a visitor on pages specifically designed for children.
+   	</p>
+   
+      <h4>Viewing and Updating Your Information on globalgiving.org</h4>
+      <p>
+      You can access your account information at any time by going to the My Account page. You can 
+      make changes to your information and update your account at any time.
+      </p>
+   
+      <p>
+      You can also unsubscribe from GlobalGiving communications at any time by sending an 
+      unsubscribe email as described at the bottom of every GlobalGiving communications, or by 
+      updating your subscriptions on the My Account page.
+      </p>   
+      <p>
+      When you create an account or profile on globalgiving.org, you can decide whether to make 
+      some or all of that information public or private.  You can change your choices at any time using 
+      the My Profile page.   Please note, however, that your preferences do not affect the disclosures to 
+      project leaders, or fundraisers, or giving group leaders.  So, for example, if you make a donation 
+      to a fundraiser, then we will display your name and date of your donation on the fundraiser 
+      regardless of your settings. Likewise, if you contribute to a project, we will share your name and 
+      contact information with the project leader.  In each case we will give you the opportunity to tell 
+      us not to disclose your personal information with the project leader, or publish it on the web site 
+      or in our annual report.
+      </p>
+   
+      <h4>Links to Other Websites</h4>
+   
+      <p>
+      Other websites, including those of our partners (links to which appear on globalgiving.org), 
+      have their own privacy policies. When you provide personal information at one of those sites, 
+      you are subject to the privacy policy of the operator of that site, not the GlobalGiving privacy 
+      policy. We encourage you to read that policy before submitting any personal information.  
+      </p>
+   
+      <p>
+      You should take additional steps to safeguard your personal information online. To learn more 
+      about how to protect yourself, visit the <a href="http://www.ftc.gov" target="_blank">Federal Trade Commission website</a>.
+      </p>
+   
+      <h4>Security</h4>
+      <p>
+      GlobalGiving understands the importance of keeping your information secure and confidential.  
+      We have implemented policies and procedures designed to help safeguard your information.  
+      When you make a donation, information about your credit card, Paypal account, or bank is 
+      transmitted using SSL. 
+      </p>
+   
+      <h4>Privacy Policy Updates</h4>
+      <p>
+      Our privacy policy is regularly reviewed to make sure we continue to serve the privacy interests 
+      of our customers. If our information practices change materially, we will post the policy changes 
+      on the privacy page of this website to notify you of these changes. Please check our website 
+      periodically for more information on how we use the data we collect.
+      </p>
+   
+      <h4>Contact Us</h4>
+      <p>
+      You may contact us by using the “Contact Us” links on the footer of our site. We try to reply 
+      promptly to every message we receive. This information is used to respond directly to your 
+      questions or comments. We also may file your comments and share them with our customer care 
+      team to improve our service in the future.
+      </p>
+      
+      <h5>Last Modified: May 19, 2016</h5>
+     </div>
+   </div>
+   
+   <div class="grid-12 layout_center col_ggPrimary5Lightest">
+      <div class="grid-padder box_verticalMargin4 text_fontSizeNormal">
+         <h4>Still have questions about our privacy policy?</h4>
+         <p>Contact us at <strong><a href="mailto:privacy@globalgiving.org">privacy@globalgiving.org</a></strong> or write to us at:</p>
+         
+         <p>
+         GlobalGiving
+         <br>1110 Vermont Avenue NW
 <br>Suite 550
 <br>Washington, DC 20005
 <br>USA<br>
-  <br>Phone: 202-232-5784
-<br>Toll Free: 1-877-605-2314
+         <br>Phone: 202-232-5784
+<br>US Toll Free: 1-877-605-2314
 <br>Fax: 202-315-2558 
 
-  </p>
-  
-  <div class="yellowCallout">
-<strong>If you have any questions about our privacy policy, please contact us at <script type="text/javascript">mkaddr("privacy")</script><a href="mailto:privacy@globalgiving.com">privacy@globalgiving.com</a>.</strong> 
-</div>
-  
-  <div class="pushTop10">
-  <p>
-  Last Modified:  November 6, 2013
-  </p> 
-  </div>
+         </p>
+      </div> 
+   </div>   
+   <div class="grid-12 layout_center box_verticalPadded5">
+      <a href="/aboutus/terms/" class="btn">Read our Terms of Service</a>
+   </div>   
+    
 </div>
 
-                        <div class="clear"></div>
-                        </div> <!-- END container 12 for content -->
-                     </div> <!-- end white margin box --> 
-                     
-                  </div><!-- END wrapper DIV -->
+      
+   
+   
                   
-                  <div class="siteWrapper2015">
-
-<!-- deprecated as part of the 2015 redesign -->
-               
-                  
-                     <!-- going custom, not closing the side with the rounded conrners for the standard GG container -->
-                     </div>
-                  
-                  <div class="siteWrapper2015">
-               
                   <footer>
 
                      <div class="col_ggSecondary1Darker">
-                        <div class="grid-padder grid-parent">
-                           <div class="grid-12 grid-md-4 box_padded2 layout_center layout_md_alignLeft">
-                              <a href="/"><img class="box_bottomMargin4" src="/img/logos/gg_horizontal_white_400.png" alt="GlobalGiving" border="0" style="width:200px; max-width:100%"></a>
+                        <div class="grid-padder grid-parent print_noPrint">
+                           <div class="grid-12 grid-md-4 box_horizontalPadded2 box_verticalPadded4 layout_center layout_md_alignLeft">
+                              <a href="/"><img class="box_bottomMargin2" src="/img/logos/gg_horizontal_white_400.png" alt="GlobalGiving" border="0" style="width:200px; max-width:100%"></a>
                               <div class="text_fontSizeSmaller col_ggSecondary1LighterText">
                                  GlobalGiving makes it easy and safe for you to give to local projects anywhere in the world, while providing nonprofits with the tools, training, and support they need to become more effective.
                               </div>
@@ -824,82 +705,88 @@ make changes to your information and update your account at any time.
                                    <div class="sprite sprite_instagram_tan layout_inlineBlock text_fontSizeZero">instagram</div></a>
                               </div>
                            </div>
-                           <nav class="grid-12 grid-md-8 grid-parent box_padded2">
-                              <div class="grid-12 grid-lg-6 grid-parent box_bottomMargin3">
+                           <nav class="grid-12 grid-md-8 grid-parent box_horizontalPadded2 box_verticalPadded4">
+                              <div class="grid-12 grid-lg-6 grid-parent box_bottomPadded2">
                                  <div class="grid-6 box_horizontalPaddedHalf layout_center layout_md_alignLeft">
-                                    <h4 class="box_bottomPadded3"><a href="/give/" class="col_ggPrimary1Text">Donors</a></h4>
+                                    <h4 class="box_bottomPadded1"><a href="/give/" class="col_ggPrimary1Text">Donors</a></h4>
                                     <div class="text_fontSizeSmaller">
-                                       <div class="box_bottomPadded3"><a class="col_whiteText" href="/dy/v2/content/browse.html">Give to a Project</a></div>
-                                       <div class="box_bottomPadded3"><a class="col_whiteText" href="/gifts/">Give or Redeem Gift Cards</a></div>
-                                       <div class="box_bottomPadded3"><a class="col_whiteText" href="/gifts/inhonor.html">Donate in Honor</a></div>
-                                       <div class="box_bottomPadded3"><a class="col_whiteText" href="/project-of-the-month-club/">Project of the Month Club</a></div>
+                                       <div class="box_bottomPadded2"><a class="col_whiteText" href="/dy/v2/content/browse.html">Give to a Project</a></div>
+                                       <div class="box_bottomPadded2"><a class="col_whiteText" href="/gifts/">Give or Redeem Gift Cards</a></div>
+                                       <div class="box_bottomPadded2"><a class="col_whiteText" href="/gifts/inhonor.html">Donate in Honor</a></div>
+                                       <div class="box_bottomPadded2"><a class="col_whiteText" href="/project-of-the-month-club/">Project of the Month Club</a></div>
                                     </div>
                                  </div>
                                  <div class="grid-6 box_horizontalPaddedHalf layout_center layout_md_alignLeft">
-                                    <h4 class="box_bottomPadded3"><a href="/non-profits/" class="col_ggPrimary1Text">Nonprofits</a></h4>
+                                    <h4 class="box_bottomPadded1"><a href="/non-profits/" class="col_ggPrimary1Text">Nonprofits</a></h4>
                                     <div class="col_whiteText text_fontSizeSmaller">
-                                       <div class="box_bottomMargin3"><a class="col_whiteText" href="/apply/">Start Application</a></div>
-                                       <div class="box_bottomMargin3"><a class="col_whiteText" href="/non-profits/features-and-benefits/">Features + Benefits</a></div>
-                                       <div class="box_bottomMargin3"><a class="col_whiteText" href="http://tools.blog.globalgiving.org/">Tools + Training Blog</a></div>
-                                       <div class="box_bottomMargin3"><a class="col_whiteText" href="/non-profits/features-and-benefits/pricing.html">Pricing + Fees</a></div>
+                                       <div class="box_bottomPadded2"><a class="col_whiteText" href="/apply/">Start Application</a></div>
+                                       <div class="box_bottomPadded2"><a class="col_whiteText" href="/non-profits/features-and-benefits/">Features + Benefits</a></div>
+                                       <div class="box_bottomPadded2"><a class="col_whiteText" href="http://tools.blog.globalgiving.org/">Tools + Training Blog</a></div>
+                                       <div class="box_bottomPadded2"><a class="col_whiteText" href="/non-profits/features-and-benefits/pricing.html">Pricing + Fees</a></div>
                                     </div>
                                  </div>
                               </div>
-                              <div class="grid-12 grid-lg-6 grid-parent box_bottomMargin3">
+                              <div class="grid-12 grid-lg-6 grid-parent box_bottomPadded2">
                                  <div class="grid-6 box_horizontalPaddedHalf layout_center layout_md_alignLeft">
-                                    <h4 class="box_bottomPadded3"><a href="/companies/" class="col_ggPrimary1Text">Companies</a></h4>
+                                    <h4 class="box_bottomPadded1"><a href="/companies/" class="col_ggPrimary1Text">Companies</a></h4>
                                     <div class="col_whiteText text_fontSizeSmaller">
-                                       <div class="box_bottomMargin3"><a class="col_whiteText" href="/companies/what-you-need/">What You Need</a></div>
-                                       <div class="box_bottomMargin3"><a class="col_whiteText" href="/companies/how-we-help/">How We Help</a></div>
-                                       <div class="box_bottomMargin3"><a class="col_whiteText" href="/companies/partners/">Our Partners</a></div>
-                                       <div class="box_bottomMargin3"><a class="col_whiteText" href="/companies/contact-us/">Contact Partnerships Team</a></div>
+                                       <div class="box_bottomPadded2"><a class="col_whiteText" href="/companies/what-you-need/">What You Need</a></div>
+                                       <div class="box_bottomPadded2"><a class="col_whiteText" href="/companies/how-we-help/">How We Help</a></div>
+                                       <div class="box_bottomPadded2"><a class="col_whiteText" href="/companies/partners/">Our Partners</a></div>
+                                       <div class="box_bottomPadded2"><a class="col_whiteText" href="/companies/contact-us/">Contact Partnerships Team</a></div>
                                     </div>
                                  </div>
                                  <div class="grid-6 box_horizontalPaddedHalf layout_center layout_md_alignLeft">
-                                    <h4 class="box_bottomPadded3"><a href="/aboutus/" class="col_ggPrimary1Text">About Us</a></h4>
+                                    <h4 class="box_bottomPadded1"><a href="/aboutus/" class="col_ggPrimary1Text">About Us</a></h4>
                                     <div class="col_whiteText text_fontSizeSmaller">
-                                       <div class="box_bottomMargin3"><a class="col_whiteText" href="/aboutus/team/">Our Team</a></div>
-                                       <div class="box_bottomMargin3"><a class="col_whiteText" href="/aboutus/impact/">Our Impact</a></div>
-                                       <div class="box_bottomMargin3"><a class="col_whiteText" href="/aboutus/jobs/">Jobs</a></div>
-                                       <div class="box_bottomMargin3"><a class="col_whiteText" href="/contactus/">Contact Us</a></div>
+                                       <div class="box_bottomPadded2"><a class="col_whiteText" href="/aboutus/who-we-are/staff/">Our Team</a></div>
+                                       <div class="box_bottomPadded2"><a class="col_whiteText" href="/aboutus/impact/">Our Impact</a></div>
+                                       <div class="box_bottomPadded2"><a class="col_whiteText" href="/aboutus/jobs/">Jobs</a></div>
+                                       <div class="box_bottomPadded2"><a class="col_whiteText" href="/contactus/">Contact Us</a></div>
                                     </div>
                                  </div>
                               </div>
                            </nav>
                         </div>
                         <div class="text_fontSizeZero"><div class="grid-12 barSpacer_short col_ggSecondary1Dark"></div></div>
-                        <div class="grid-padder grid-parent layout_centerVertical box_bottomPadded1">
-                           <a href="/aboutus/media/" class="grid-12 grid-lg-6 box_leftPadded2 box_topPadded1 layout_center layout_lg_alignLeft text_fontSizeZero">
-                              <div class="layout_inlineBlock box_rightPadded2"><div class="sprite sprite_wp layout_inlineBlock">Washington Post</div></div>
-                              <div class="layout_inlineBlock box_rightPadded2"><div class="sprite sprite_cnn layout_inlineBlock">CNN</div></div>
-                              <div class="layout_inlineBlock box_rightPadded2"><div class="sprite sprite_npr layout_inlineBlock">NPR</div></div>
-                              <div class="sprite sprite_nyt layout_inlineBlock">New York Times</div>
+                        <div class="grid-padder grid-parent layout_centerVertical box_verticalPadded1 box_horizontalPadded2">
+                           <a href="/aboutus/news-media/" class="grid-12 grid-lg-6 box_verticalPadded1 layout_center layout_lg_alignLeft">
+                              <div class="text_fontSizeZero">
+                                 <div class="layout_inlineBlock box_rightPadded2"><div class="sprite sprite_wp layout_inlineBlock">Washington Post</div></div>
+                                 <div class="layout_inlineBlock box_rightPadded2"><div class="sprite sprite_cnn layout_inlineBlock">CNN</div></div>
+                                 <div class="layout_inlineBlock box_rightPadded2"><div class="sprite sprite_npr layout_inlineBlock">NPR</div></div>
+                                 <div class="sprite sprite_nyt layout_inlineBlock">New York Times</div>
+                              </div>
                            </a>
-                           <div class="grid-12 grid-lg-6 box_rightPadded2 box_topPadded1 layout_center layout_lg_alignRight text_fontSizeZero">
-                               <a href="http://www.bbb.org/charity-reviews/national/other/globalgiving-foundation-in-washington-dc-3204" class="box_rightPadded2"><div class="sprite sprite_bbb layout_inlineBlock">BBB Accredited Charity</div></a>
-                               <a href="http://www.charitynavigator.org/index.cfm?bay=search.summary&amp;orgid=11648" class="box_rightPadded2"><div class="sprite sprite_charityNavigator layout_inlineBlock">Charity Navigator Four Star Charity</div></a>
-                               <a href="https://www.mcafeesecure.com/verify?host=www.globalgiving.org"><div class="sprite sprite_secureSite layout_inlineBlock">SSL- and PCI-Verified Secure Site</div></a>
+                           <div class="grid-12 grid-lg-6 box_verticalPadded1 layout_center layout_lg_alignRight">
+                              <div class="text_fontSizeZero">
+                                 <a href="http://www.bbb.org/charity-reviews/national/other/globalgiving-foundation-in-washington-dc-3204" target="_blank" class="box_rightPadded2"><div class="sprite sprite_bbb layout_inlineBlock">BBB Accredited Charity</div></a>
+                                 <a href="http://www.charitynavigator.org/index.cfm?bay=search.summary&amp;orgid=11648" target="_blank" class="box_rightPadded2"><div class="sprite sprite_charityNavigator layout_inlineBlock">Charity Navigator Four Star Charity</div></a>
+                                 <a href="https://www.mcafeesecure.com/verify?host=www.globalgiving.org" target="_blank"><div class="sprite sprite_secureSite layout_inlineBlock">SSL- and PCI-Verified Secure Site</div></a>
+                              </div>
                            </div>
                         </div>
                      </div>
 
                      <div class="col_ggSecondary1">
-                        <div class="grid-padder grid-parent box_bottomPadded1">
-                           <div class="grid-12 grid-lg-7 box_topPadded1 box_horizontalPadded2 layout_center layout_lg_alignLeft text_fontSizeSmallest">
+                        <div class="grid-padder grid-parent box_bottomPadded2">
+                           <div class="grid-12 grid-lg-7 box_topPadded3 box_horizontalPadded2 layout_center layout_lg_alignLeft text_fontSizeSmallest">
                               <address class="layout_inlineBlock">
                                  <a href="/aboutus/" class="col_ggSecondary1LighterText text_4n">
                                     ©&nbsp;Copyright&nbsp;2000-2016&nbsp;GlobalGiving, a&nbsp;501(c)3&nbsp;organization (EIN:&nbsp;30‑0108263)
                                  </a>
                               </address>
                               &nbsp;&nbsp;&nbsp;
-                              <span class="col_whiteText">Questions?&nbsp;Call&nbsp;<a class="col_ggPrimary1Text text_4n" href="tel://1.877.605.2314">+1.877.605.2314</a></span>
+                              <span class="col_whiteText">Questions?&nbsp;Call&nbsp;<a class="col_ggPrimary1Text" href="tel://+12022325784">+1.202.232.5784</a></span>
                            </div>
-                           <div class="grid-12 grid-lg-5 box_topPadded1 box_horizontalPadded2 layout_center layout_centerVertical grid-parent layout_lg_alignRight text_fontSizeSmallest">
-                              <a class="text_allCaps text_4n col_whiteText" href="/aboutus/privacypol.html">Privacy&nbsp;+&nbsp;Terms</a>
+                           <div class="grid-12 grid-lg-5 box_topPadded3 box_horizontalPadded2 layout_center layout_centerVertical grid-parent layout_lg_alignRight text_fontSizeSmallest print_noPrint">
+                              <a class="text_allCaps text_4n col_whiteText" href="/aboutus/privacy/">Privacy</a>
+                              <span class="box_horizontalPadded1 text_7n col_ggPrimary1Text">·</span>
+                              <a class="text_allCaps text_4n col_whiteText" href="/aboutus/terms/">Terms</a>
                               <span class="box_horizontalPadded1 text_7n col_ggPrimary1Text">·</span>
                               <a class="text_allCaps text_4n col_whiteText" href="/api/">API&nbsp;+&nbsp;Data</a>
                               <span class="box_horizontalPadded1 text_7n col_ggPrimary1Text">·</span>
-                              <a class="text_allCaps text_4n col_whiteText" href="/help.html">FAQ&nbsp;+&nbsp;Help</a>
+                              <a class="text_allCaps text_4n col_whiteText" href="//help.globalgiving.org/">FAQ&nbsp;+&nbsp;Help</a>
                               <span class="box_horizontalPadded1 text_7n col_ggPrimary1Text">·</span>
                               <a class="text_allCaps text_4n col_whiteText" href="http://blog.globalgiving.org">Blog</a>
                            </div>
@@ -907,49 +794,28 @@ make changes to your information and update your account at any time.
                      </div>
                   </footer>
                
-                  </div>
-               
 
       
 
       
-         <!-- ****** OPTIMIZELY EXPERIMENT SCRIPT ***** -->
-         <script src="//cdn.optimizely.com/js/555520144.js"></script>
-<script type="text/javascript">
-   window.optimizely = window.optimizely || { data : { experiments: [ ] }} 
-   if (window.optimizely != undefined && window.optimizely.data != undefined && window.optimizely.data.experiments != undefined) {
-      deferred.push(function(){
-         for (experiment_id in window.optimizely.data.experiments){
-            variation  = window.optimizely.data.state.variationNamesMap[experiment_id];
-            if (variation != undefined){
-               experiment = window.optimizely.data.experiments[experiment_id].name.replace(/[\s,;=]/g, '_');
-               variation = variation.replace(/[\s,;=]/g, '_');
-               gg.cookie.set('abtest_optimizely_' + experiment,variation,365,'/');
-         	}
-      	}
-      });
-   }
-</script>
 
-        
+      <div class="col_ggPrimary1 text_7n box_padded1 grid_padder col_whiteText zindex_modal js-jsWarning" style="position: fixed; bottom: 0px; display: none;">
          <script type="text/javascript">
-            $(function() {
-               while(deferred.length > 0) {
-                  deferred.shift()();
-               }
-            });
+            <!-- hide the js warning when js is present (leaves the warning in place if js is not processed) -->
+            document.getElementsByClassName('js-jsWarning')[0].style.display = 'none';
          </script>
+         WARNING: Javascript is currently disabled or is not available in your browser. GlobalGiving makes extensive use of Javascript and will not function properly with Javascript disabled. <span class="col_defaultText"><a class="col_inherit" href="http://www.enable-javascript.com/" target="_blank"> Please enable Javascript</a></span> and refresh this page.</div>
       
 
       
 
-      
-      
-      
    
 
 
 
 
 
-</div></body></html>
+   
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"errorBeacon":"bam.nr-data.net","licenseKey":"f928f64863","agent":"","beacon":"bam.nr-data.net","applicationTime":30,"applicationID":"1160301","transactionName":"ZlJaZBdUDEtZBkdcCV8Ydl8XWANUUR9WUTVFRU1EFnQBTFEKXRpM","queueTime":0}</script>
+
+   </body></html>
