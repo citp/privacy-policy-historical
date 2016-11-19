@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the archchinese.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607230859id_/http%3A//www.archchinese.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archchinese.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119042017id_/http%3A//www.archchinese.com/privacy.html) for the most accurate reproduction.*
 
 # Arch Chinese - Learn to read and write Chinese characters
 
