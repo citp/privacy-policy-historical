@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotpopfood.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625170840id_/http%3A//hotpopfood.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotpopfood.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119171143id_/http%3A//hotpopfood.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Hot Pop Food
 
@@ -58,10 +58,10 @@ Please note that if you choose to opt out of having your information used to del
 
 ## Recent Posts from Hot Pop Food
 
-[ ](http://hotpopfood.com/national-sauce-month-2/ "National Sauce Month")
+[ ](http://hotpopfood.com/have-some-of-the-most-amazing-picnic-food-2/ "Have Some Of The Most Amazing Picnic Food")
 
-### [National Sauce Month](http://hotpopfood.com/national-sauce-month-2/)
+### [Have Some Of The Most Amazing Picnic Food](http://hotpopfood.com/have-some-of-the-most-amazing-picnic-food-2/)
 
-__Mar 06, 2016
+__Apr 24, 2016
 
-March is National Sauce Month! Who doesn't like a creamy, tangy delicious sauce with their meal? Celebrate with us as we find some of the best sauces around! 
+Now that the warm weather is here, who doesn't love a picnic? Instead of the usual fare of soggy sandwiches, chips and drinks. Kick up your picnic a notch with these... 
