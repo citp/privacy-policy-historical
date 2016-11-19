@@ -1,110 +1,95 @@
-> *The following text is extracted and transformed from the affiliatefunnel.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630060536id_/http%3A//www.affiliatefunnel.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatefunnel.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119010312id_/http%3A//www.affiliatefunnel.com/privacy.php) for the most accurate reproduction.*
 
 # Affiliate Funnel | Build YOUR Business!
 
-> ####  Privacy Policy 
+> This privacy policy sets out how AffiliateFunnel uses and protects any information that you give AffiliateFunnel when you use this website. 
 > 
-> We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website. 
+> AffiliateFunnel is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
 > 
-> We recognizes the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers' needs.
+> AffiliateFunnel will never sell, rent, or lease any information contained in your membership profile. 
 > 
-> What Information Do We Collect?
+> Information obtained about you for the purpose of creating your AffiliateFunnel membership shall be used only for the purpose of maintaining and updating your membership, as well as direct email contact from AffiliateFunnel and your AffiliateFunnel upline/downline (if you allow this in your profile). 
 > 
-> When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site. 
+> AffiliateFunnel reserves the right to investigate using any and all means necessary, should there be reason to believe unauthorized transactions are processed in your name. We will then take every precaution possible to protect our members from identify theft both here at AffiliateFunnel and elsewhere. 
 > 
-> 1\. Personal Information You Choose to Provide 
+> AffiliateFunnel may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 11/03/16. 
 > 
-> Registration Information
+> **What we collect**
 > 
-> When you register for any of our products, services or newsletters you will provide us information about yourself. 
+> We may collect the following information: 
 > 
-> Credit Card Information 
-> 
-> If you choose to avail of our services, you may need to give personal information and authorization to obtain information from various credit services. For example, you may need to provide the following information: 
-> 
->   * -Name
->   * -Mailing address
->   * -Email address
->   * -Credit card number 
->   * -Name on credit card 
->   * -Credit card billing address
->   * -Business and home phone number 
+>   * name and other personal information you might provide in your profile 
+>   * contact information including email address 
+>   * Information about your network/computer including IP address and browser type 
+>   * Date and time of your visits and registration and where you came from 
+>   * Information about your activity on the website 
+>   * demographic information such as postcode, preferences and interests 
+>   * other information relevant to customer surveys and/or offers 
 > 
 
 > 
-> Email Information
+> **What we do with the information we gather**
 > 
-> If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone. 
+> We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 > 
-> 2\. Web Site Use Information
+>   * Internal record keeping. 
+>   * We may use the information to improve our products and services. 
+>   * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+>   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests. 
 > 
-> Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and web server log files to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. 
+
 > 
-> How Do We Use the Information That You Provide to Us? 
+> **Security**
 > 
-> Broadly speaking, we use personal information for purposes of administering our business activities, providing the products and services you requested, to process your payment, , to monitor the use of the service, our marketing and promotional efforts and improve our content and service offerings, and customize our site's content, layout, services and for other lawful purposes. These uses improve our site and better tailor it to meet your needs. 
+> We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 > 
-> Furthermore, such information may be shared with others on an aggregate basis. Personally identifiable information or business information will not be shared with parties except as required by law. 
+> **How we use cookies**
 > 
-> Occasionally, we may also use the information we collect to notify you about important changes to our Website, new services, and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at the link provided on the newsletter. 
+> A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 > 
-> What Are Cookies?
+> We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
 > 
-> A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses. 
+> Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
 > 
-> How Do We Use Information We Collect from Cookies?
+> Ads appearing on our or our members websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by AffiliateFunnel and does not cover the use of cookies by any advertisers. 
 > 
-> As you visit and browse our Web site, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback to constantly improve our Web site and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies. 
+> You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to [disable/decline cookies](http://www.wikihow.com/Disable-Cookies) if you prefer. This may prevent you from taking full advantage of the website. 
 > 
-> IP Addresses
+> **Links to other websites**
 > 
-> IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as “traffic data” so that data (such as the Web pages you request) can be sent to you. 
+> Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
 > 
-> Sharing and Selling Information
+> **Controlling your personal information**
 > 
-> We do not share, sell, lend or lease any of the information that uniquely identify a subscriber (such as email addresses or personal details) with anyone except to the extent it is necessary to process transactions or provide services that you have requested. 
+> You may choose to restrict the collection or use of your personal information in the following ways: 
 > 
-> How Can You Access and Correct Your Information?
+>   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
+>   * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by clicking the Unsubscribe link provided in each email, or emailing us at krmhelp@gmail.com or by contacting us at the [help desk](https://web.archive.org/web/20161119010312id_/http%3A//www.affiliatefunnel.com/tickets.php). 
 > 
-> You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us at the usual address. 
+
 > 
-> What About Legally Compelled Disclosure of Information?
+> We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
 > 
-> We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public. 
+> You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email us at krmhelp@gmail.com or contact us at the [help desk](https://web.archive.org/web/20161119010312id_/http%3A//www.affiliatefunnel.com/tickets.php). 
 > 
-> What About Other Web Sites Linked to Our Web Site?
+> If you believe that any information we are holding on you is incorrect or incomplete, please contact us as soon as possible. We will promptly correct any information found to be incorrect. 
 > 
-> We are not responsible for the practices employed by Web sites linked to or from our Web site or the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site. 
+> **Kids Privacy Act**
 > 
-> Please remember that when you use a link to go from our Website to another web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including web sites, which have a link on our Website, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding. 
+> AffiliateFunnel supports the U.S. federal regulations on children's privacy. This means that we will not keep your personal information on record. If you contact us in the future, we will not be able to refer back to this message. 
 > 
-> Your Consent
+> YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE, FALLS WITHIN THE CHILD ONLINE PRIVACY ACT (COPA) AND IS NOT MONITORED AS DOING SO. 
 > 
-> By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy at any time with or without notice. 
+> **Business Transfer**
 > 
-> Our Commitment To Data Security:
+> If AffiliateFunnel, or substantially all of its assets, were acquired, or in the unlikely event that AffiliateFunnel goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of AffiliateFunnel or any of its site or services may continue to use your personal information as set forth in this policy. 
 > 
-> Please note that your information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your Country of residence or citizenship. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+> **Contact**
 > 
-> Choice/Opt-In/Opt-Out
+> Contact us here if you have any questions. 
 > 
-> This site allows visitors to unsubscribe so that they will not receive future messages. After unsubscribing we will discontinue sending the particular messages as soon as technically feasible.
+> Help Desk: [Contact Us](https://web.archive.org/web/20161119010312id_/http%3A//www.affiliatefunnel.com/tickets.php)
 > 
-> Surveys & Contests 
+> By Email: krmhelp@gmail.com 
 > 
-> From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
-> 
-> A Special Note About Children 
-> 
-> Children are not eligible to use our services unsupervised and we ask that children (under the age of 14) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with permission and guidance from your parents or guardians. 
-> 
-> Acquisition or Changes in Ownership
-> 
-> In the event that the web site (or a substantial portion of its assets) is acquired, your information would be considered part of those assets, and may be part of those assets that are transferred. 
-> 
-> Policy Modifications
-> 
-> We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent. 
-> 
->   
-> 
+> Please also refer to our [Terms of Service](https://web.archive.org/web/20161119010312id_/http%3A//www.affiliatefunnel.com/terms.php) again if needed.
