@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bareescentuals.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624114945id_/http%3A//www.bareescentuals.com/on/demandware.store/Sites-BareEscentuals-Site/en_US/Experience-BEGlobalPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bareescentuals.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119041106id_/http%3A//www.bareescentuals.com/on/demandware.store/Sites-BareEscentuals-Site/en_US/Experience-BEGlobalPolicy) for the most accurate reproduction.*
 
 # Global Privacy Policy
 
@@ -15,8 +15,6 @@ We may combine information collected via one method (e.g., a BE website) with in
 Bare Escentuals’ websites and applications
 
 We may collect information from you through one of our U.S. or international websites or applications. This could include (a) any site that we own and control under our own domain (such as [bareescentuals.com](http://bareescentuals.com/), [bareescentuals.co.uk](http://bareescentuals.co.uk/), or some other domain name that redirects you to one of these sites), or (b) any site or web application that we may develop and run on a third party social network such as Facebook. This could also include any site or application that we specifically design for use on a cell phone or other mobile device, such as a mobile-enabled site (i.e., WAP site) or mobile application (e.g., iPad/iPhone app). This Policy will only apply if it is posted or linked to on the website or application which you are using. 
-
-Please note that some of our non-U.S. websites or applications may post their own privacy policies which are separate from this one. If they post separate policies, those policies will apply instead of this one. 
 
 Back to top
 
@@ -180,7 +178,7 @@ Back to top
 
 * Website viral features (e.g., tell-a-friend)
 
-We may request and use your information so you can use our website viral features, such as tell-a-friend. These features allow you to easily share certain Bare Escentuals’ news, product information, promotions, wish list items, or other content with family members and friends. These features typically require the collection and use of certain personal contact information (such as email addresses and names) so that the selected message or content can be delivered to the proper recipients. In some instances, this information may be stored in our records so we can track and reward our customers for their referrals. For tell-a-friend or other viral features offered by third party social networks (such as Facebook “Share” and “Like” features), see separate paragraph on “Third party social networking” below. 
+Where permissible under applicable law, we may request and use your information so you can use our website viral features, such as tell-a-friend. These features allow you to easily share certain Bare Escentuals’ news, product information, promotions, wish list items, or other content with family members and friends. These features typically require the collection and use of certain personal contact information (such as email addresses and names) so that the selected message or content can be delivered to the proper recipients. In some instances, this information may be stored in our records so we can track and reward our customers for their referrals. For tell-a-friend or other viral features offered by third party social networks (such as Facebook “Share” and “Like” features), see separate paragraph on “Third party social networking” below. 
 
 Back to top
 
@@ -208,7 +206,13 @@ We use cookies on some of our websites. A cookie is a small file of letters and 
 
 You can learn more about cookies and how they work at [www.allaboutcookies.org](http://www.allaboutcookies.org/) or [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).You can always disable cookies through your browser settings. Doing so, however, may disable certain features on our websites, such as online ordering. 
 
-To opt-out from third party cookies that are used for advertising purposes, you can do so on the NAI website at <http://www.networkadvertising.org/managing/opt_out.asp>. 
+To opt-out from third party cookies that are used for advertising purposes, you can do so on the NAI website at <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+We may use third party web analytics services on our websites or applications, such as those of Qubit, Coremetrics and/or Google Analytics. The service providers that administer those services use technologies such as cookies, web server logs and web beacons to help us analyze how visitors use the site. The information collected through these means (including IP address) is disclosed to these service providers, who use the information to analyze use of our websites and applications. You may deactivate the ability of these analytics services to analyze your browsing activities on our websites and applications. To learn more about web analytics services, and exercise your choice with respect to their collection of information on our websites or applications:
+
+\- For Coremetrics, please [click here](https://www-01.ibm.com/software/marketing-solutions/privacy/visitor-opt-out.html).  
+\- For Qubit, please [click here.](http://www.qubit.com/legal/privacy-and-cookie-policy)  
+\- To disable Google Analytics, please download the browser add-on for the deactivation of Google Analytics provided by Google at <http://tools.google.com/dlpage/gaoptout?hl=en>, To learn more about privacy and Google Analytics, please consult the Google Analytics overview provided by Google at [](http://www.google.com/intl/en/analytics/privacyoverview.html%3Ehttp://www.google.com/intl/en/analytics/privacyoverview.html%3C/a%3E%3Cbr%3E%3Cbr%3E%3Cp%20class=)Back to top
 
 * #### 5\. With whom do we share your information?
 
@@ -216,7 +220,7 @@ We may share your information with the types of companies or in the situations d
 
 Third party vendors
 
-These are outside vendors, agencies, or contractors we hire to help us run our business (e.g., fulfill orders, operate our websites, run promotions and marketing campaigns, operate our call center, etc.). The information shared with our vendors could include personal contact information, payment information, demographic information, or other types of information depending on the service being provided by the vendor. For some vendors, we may need to transfer your information to locations outside the United States. Our vendors are only allowed to use your information for the specific tasks we’ve hired them to do, and for no other purpose. They’re also required to keep your information confidential and secure.
+These are outside vendors, agencies, or contractors we hire to help us run our business (e.g., fulfill orders, operate our websites, run promotions and marketing campaigns, operate our call center, etc.). The information shared with our vendors could include personal contact information, payment information, demographic information, or other types of information depending on the service being provided by the vendor. For some vendors, we may need to transfer your information to locations outside your home country, such as to the United States. Our vendors are only allowed to use your information for the specific tasks we’ve hired them to do, and for no other purpose. They’re also required to keep your information confidential and secure.
 
 Back to top
 
@@ -229,6 +233,12 @@ Back to top
 * Business transfers (e.g., sale or acquisition of company)
 
 We may share (or receive) information about you, including personal contact information, in the event of an acquisition, merger, sale, corporate restructuring, bankruptcy, or other similar event that involves Bare Escentuals or its parent or affiliated companies. If such an event occurs, we will take reasonable steps to require that your information be handled in accordance with this Privacy Policy, unless it is not practicable or permissible to do so. 
+
+Back to top
+
+* Affiliated Companies
+
+We may share (or receive) information about you, including personal information, with our corporate affiliates, including our parent company, Shiseido. For additional information regarding our corporate affiliates, please see [http://www.shiseidogroup.com](http://www.shiseidogroup.com/). 
 
 Back to top
 
@@ -256,7 +266,7 @@ Back to top
 
 * Measures you can take
 
-It is also important for you to play a role in keeping your information safe and secure. When signing up for an online account, please be sure to choose an account password that is hard for others to guess and never to reveal it to anyone else. If you use a shared or public computer, never choose to have your login ID or password remembered and make sure to log out of your account every time you leave the computer. 
+Despite all of our efforts, no security safeguards or standards are guaranteed to provide 100% security. It is also important for you to play a role in keeping your information safe and secure. When signing up for an online account, please be sure to choose an account password that is hard for others to guess and never to reveal it to anyone else. If you use a shared or public computer, never choose to have your login ID or password remembered and make sure to log out of your account every time you leave the computer. 
 
 Back to top
 
@@ -264,17 +274,13 @@ Back to top
 
 This section provides additional information that is important for you to know about this Policy or our practices.
 
-This Privacy Policy applies to customers only
-
-This Privacy Policy applies to our collection and use of information from our customers, including our non-U.S. customers (unless a separate privacy policy exists for non-U.S. customers – see above). It does not apply, however, to our business customers (e.g., spas, salons, department stores, infomercial partners, etc.). It also does not apply to information collected and used for employment purposes (e.g., resumes, job applications, etc.) or for business-to-business related purposes (e.g., media inquiries, investor relations, etc.).
-
 Back to top
 
 * Your information may be transferred outside your home country
 
 Because Bare Escentuals is headquartered in the United States, we may have a need to transfer information collected from our non-U.S. customers to the U.S. We may also have a need to transfer our customer information (regardless of where you live) to other countries or places in which we or our agents/contractors maintain offices or facilities. By using a BE website or application or by otherwise doing business with Bare Escentuals, you are agreeing to allow us to transfer your information outside your home country and to process it inside the United States or elsewhere for the purposes stated in this Privacy Policy. 
 
-When handling personal information from our European customers, Bare Escentuals’ complies with the U.S.-EU Safe Harbor Privacy Framework as set forth by the U.S. Department of Commerce. To learn more about the Safe Harbor or about our participation in the program, please visit [www.export.gov/safeharbor.](http://www.export.gov/safeharbor)
+Bare Escentuals complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of your information transferred from the European Union to the United States. To read our Privacy Shield Policy [click here](https://web.archive.org/on/demandware.store/Sites-BareEscentuals-Site/default/SubmitPromoForm-GenericError?cid=Privacy_Shield). To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/list>. 
 
 Back to top
 
@@ -292,12 +298,14 @@ Back to top
 
 * #### 8\. How can you contact us with questions?
 
-For any questions or concerns regarding this Privacy Policy, you can contact us at: 
+* #### 9\. California “Do Not Track” Notice
 
-Bare Escentuals Inc.   
-71 Stevenson Street, 22nd Floor   
-San Francisco, CA 94105   
-(888) 795-4747   
-[customerservice@bareminerals.com ](mailto:customerservice@bareminerals.com)
+Bare Escentuals does not currently recognize and process “do not track” signals from different web browsers. You may manage your preferences for tracking across sites in the Third Party Web Analytics section above. For more information on “do not track” please visit [http://www.allaboutdnt.org](http://www.allaboutdnt.org/).
 
 Back to top
+
+* #### 10\. California Privacy Rights
+
+Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. If you are a California resident and want a copy of this notice, please submit an email request to [customerservice@bareminerals.com](mailto:customerservice@bareminerals.com). In your request, please specify that you want a “Your Bare Escentuals California Privacy Rights Notice.” Please allow 30 days for a response.
+
+If you are minor under 18 and have a profile on bareminerals.com, you may ask us to remove reviews or other content that you posted on the site by writing to [customerservice@bareminerals.com](mailto:customerservice@bareminerals.com). We will begin to process your request within 30 days. Please note that processing your request does not ensure complete or comprehensive removal of content that you posted.
