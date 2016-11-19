@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xidax.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328160651id_/http%3A//www.xidax.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xidax.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119103952id_/http%3A//www.xidax.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -81,3 +81,5 @@ Please visit the FTC's website(1) for more tips on protecting children's privacy
 We may transfer your personal information to Xidax in the US, to any Xidax subsidiary worldwide or to third parties acting on our behalf for the purposes of processing or storage.
 
 Your data will be kept secure and safe.
+
+By giving us your telephone number, you warrant that it is your own number and you agree that we may contact you at that number with offers and for other reasons, including through the possible use of automated technology. You are not required to agree to our marketing in order to purchase because you can always call us directly. You can opt out of our marketing at any time by calling 1-877-943-2972. 
