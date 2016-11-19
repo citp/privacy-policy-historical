@@ -1,42 +1,56 @@
-> *The following text is extracted and transformed from the technologytodays.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602091830id_/http%3A//www.technologytodays.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technologytodays.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119095028id_/http%3A//www.technologytodays.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | TechnologyTodays
+# Privacy Policy | New Insurance Now
 
-**Visitor Notice**
+Thank you for your interest in this website’s services and privacy information. This privacy policy applies to all websites within the High Gear Media Network. Because the network sites share a common platform and registration system, the information that you provide on one site may be used when you visit any other site within the network.
 
-We will ask you when we need information that personally identifies you (Personal Information) or allows us to contact you. Generally this information is requested when you are asked to register and become a TechnologyTodays member in order to participate on the forums, enter into a contest, or opt-in our email newsletters. We use your Personal Information for four primary purposes:
+This privacy policy does not apply to information that you choose to publicly post to or display on the site. Please note that you grant us a license to all publicly-posted content and it can be syndicated to other sites and content partners.
 
-  * To make the site easier for you to use by not having to enter information more than once.
-  * To help you quickly find services or information on TechnologyTodays.
-  * To help us create content most relevant to you.
-  * To alert you about updated information and other new services on TechnologyTodays.
+What may this site collect?  
+You can visit the site and use many of its features without having to identify yourself or reveal any personal information.
 
+If you register with the site, participate or participate in various other features of the site (such as post a comment or enroll in a contest), you may be asked to provide personally identifiable information such as your name, email address, or address (“Personal Information”). In addition, you may be asked to provide non-personally identifiable information such as location, personal or professional interests, demographic information (such as age and gender), or to comment on your experience with our site and/or services. We may also get data about users from third parties.
 
+If you register with the site through Facebook Connect, we will receive information from your Facebook profile from Facebook.
 
-**Visitor Consent**
+We may also collect data based on users’ usage of the site and its various features, but it is not personally identifiable except as described below under the IP Addresses section (“Aggregate Data”). In addition, we may take your personal information and create anonymized information by excluding information that makes it personally identifiable to you (“Anonymized Data”).
 
-If you choose not to register or provide personal information, you can still use most of the features on TechnologyTodays, but you will not be able to access areas that require registration. TechnologyTodays sends regular newsletters, which are sent only to opt-in lists. They also include a very easy and simple way to be removed once you have joined.
+What about IP addresses?  
+We compile logs of IP addresses of site users for administrative and analytical purposes. We do not routinely collect any personally identifiable information through our compilation of IP addresses. However, in cases of suspected abuse or service problems, we may use an IP address in conjunction with other personally identifiable information to enforce our terms of use and/or to protect or troubleshoot the site, its users or others who may be affected. Except as provided in “How does this site use the data it collects?” we will not share personally identifiable information associated with IP addresses with third parties.
 
-**Security**
+How does this site use and share the data it collects?  
+We use the data we collect from our users in the following manner:
 
-TechnologyTodays strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
+a) to help us improve our content and services  
+b) to allow readers to participate in site-related activities and events  
+c) to show advertising and content that we think may be of interest to a particular user  
+d) to enforce our terms of service  
+e) to send mailings, as described under “How do you communicate with me?”
 
-**Distribution of personal information**
+We may share Aggregated Data and Anonymized Data with third parties.
 
-TechnologyTodays does not distribute personal information to any third parties. Should this change, TechnologyTodays will not distribute any information without your prior express consent. Please be aware that it may be possible, depending on your use of various features on TechnologyTodays, that some of your personal information is available on publicly accessible web pages. One example would be using the TechnologyTodays Forums. Consent to expose some of your personal information in these cases is implied by the use of these features.
+We will not provide your Personal Information to a third party in the absence of your express approval, except as follows:
 
-**Third Party Ad Servers**
+a) With trusted third party service providers who help us in the operation of our business and who have agreed to maintain the confidentiality of the data  
+b) In cases of abusive behavior or suspected violations of our terms of use in order to investigate the violation and to take appropriate action  
+c) Where we have a good faith belief that it is required in order to respond to subpoenas, court orders, or other legal process, to prevent fraud or imminent harm, or to establish or exercise our legal rights or defend against legal claims  
+d) If this site is sold or transferred to another company, your Personal Information will also be transferred. We will notify you if your information will be subject to a different privacy policy.
 
-We may use third-party advertising companies to serve ads when you visit TechnologyTodays. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to our site and to other web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses’ privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the [Network Advertising Initiative’s consumer web site](http://www.networkadvertising.org/choices/).
+How may you communicate with me?  
+We may send you administrative announcements communicating information about the site, your account or content that you have posted to the account. You may not opt out of these messages. If we are required by law to provide you with any notice, such as in the event of a security breach, you consent to receiving notice to the email address you have provided us. If you sign up to receive any newsletters, you will be able to opt-out of those newsletters by following the procedures described in the newsletter.
 
-**Hosted Sites**
+What are our policies regarding third parties?  
+This privacy policy does not apply to information collected by advertisers, vendors or other third parties whose content, ads or promotions appear on our website but who operate independently of this site. It is advised that readers first check the individual privacy policies of such third parties before providing personal information.
 
-TechnologyTodays gives children between the ages of 13 and 18 the ability to publicly post or distribute personally identifiable contact information without prior parental consent. Please take proper measures if you do not wish your child to have access to public forums and message boards. As always, exercise caution when deciding to disclose personal information in a public forum. In order to comply with the COPPA ruling, if you are younger than 13 years of age, you are forbidden from becoming a member of TechnologyTodays or posting information on TechnologyTodays message boards without direct parental consent.
+Links to third party sites are provided solely as a convenience to our readers. If you use these links, you will leave this site. It is not possible to review all such sites and we have no control over, nor do we take responsibility for, their individual content or privacy policies.
 
-**Enforcement**
+Advertisers, survey groups and other sites linked to or from this site may seek to obtain additional information from users. For example, they may serve “cookies,” conduct surveys, request personal information or take actions not covered by our privacy policy. This information will not be gathered by or on behalf of this site unless clearly authorized and stated in such solicitations. If you choose to do business with vendors on this site, you may be asked to provide personal information, including credit and credit card data. Any information you share will be covered only by that party’s own privacy policy.
 
-If for some reason you believe TechnologyTodays has not adhered to these principles, please notify us by e-mail, and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
+If you decide to provide any of these outside parties with credit information and other personal information, you do so entirely at your own risk.
 
-**Changes to this document**
+What About “Cookies”?  
+“Cookies” are small pieces of information that may be served to you while visiting a Web site, and which are then stored on your computer’s hard drive.
 
-Changes to this document may be made any time without warning. TechnologyTodays may or may not notify you of changes in this policy, however, we will make an effort to notify you if there are any major changes to this policy. You will not be notified about changes related to clarification and/or elaboration of parts of this policy.
+It is possible you will be served cookies by us, by our advertisers or by the companies that help us deliver advertising on this site. Cookies help us and advertisers identify users on our site and on other sites. Please see below under “What are your advertising practices” to see how these cookies are used.
+
+Web browsers, including Internet Explorer and Netscape Navigator, automatically accept cookies. But they also offer a user the ability to block them, as well. Doing so will prevent you from using few, if any of the features of this site. Instructions for blocking cookies can be found in your browser help tab.
