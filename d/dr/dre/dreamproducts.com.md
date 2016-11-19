@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamproducts.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428111554id_/http%3A//www.dreamproducts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamproducts.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119203043id_/http%3A//www.dreamproducts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,13 +10,7 @@ Our postal address is 
  **412 Dream Lane  **  
  **Van Nuys, CA 91496**
 
-We can be reached [via e-mail](https://www.dreamproducts.com/contacts/index) or you can reach us by telephone at (800) 410-2153
-
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address.
-
-We collect information volunteered by the consumer through survey and/or site registration processes.
-
-The information we collect is used to improve the content of our Web page,  to notify consumers about updates to our web site and to contact consumers for marketing purposes.
+We can be reached [via e-mail](https://www.dreamproducts.com/contacts/index) or you can reach us by telephone at (800) 410-2153. For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address. We collect information volunteered by the consumer through survey and/or site registration processes. The information we collect is used to improve the content of our Web page,  to notify consumers about updates to our web site and to contact consumers for marketing purposes.
 
 With respect to cookies: We use cookies to store visitors' preferences and to record session information such as items that consumers add to their shopping cart for future marketing purposes. 
 
