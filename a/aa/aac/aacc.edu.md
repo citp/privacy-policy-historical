@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aacc.edu privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607224502id_/http%3A//www.aacc.edu/technology/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aacc.edu privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119092254id_/http%3A//www.aacc.edu/technology/privacy.cfm) for the most accurate reproduction.*
 
 # Technology Services - Your Privacy and Our Web Site
 
