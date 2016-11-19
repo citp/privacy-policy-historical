@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitcatcha.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626033556id_/http%3A//www.bitcatcha.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitcatcha.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119193146id_/http%3A//www.bitcatcha.com/privacy-policy) for the most accurate reproduction.*
 
 # Bitcatcha - Privacy Policy
 
@@ -75,6 +75,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
  _https://www.bitcatcha.com_  
 Unit Level 13(A), Main Office Tower, Financial Park Labuan, Jalan Merdeka, 87000 Federal Territory of Labuan, Malaysia.  
 +608 745 1688  
-contact@bitcatcha.com
+[_Send us a message._](http://www.bitcatcha.com/contact-us/)
 
-This document was last updated on January 1, 2015
+This document was last updated on July 19, 2016
