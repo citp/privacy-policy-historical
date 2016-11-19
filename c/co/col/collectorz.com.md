@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the collectorz.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617192743id_/http%3A//www.collectorz.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectorz.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119230737id_/http%3A//www.collectorz.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Collectorz.com Privacy Policy
 
-Your privacy is very important for BITZ & PIXELZ B.V. (“Collectorz.com”). Collectorz.com therefore respects and honors the privacy of all users of its Service. Collectorz.com will only process and use information about you in a secure manner and only for the purposes as described in this Privacy Policy. In processing your personal data Collectorz.com will act in accordance with all applicable laws and regulations.
+Your privacy is very important for COLLECTORZ.COM B.V. (“Collectorz.com”). Collectorz.com therefore respects and honors the privacy of all users of its Service. Collectorz.com will only process and use information about you in a secure manner and only for the purposes as described in this Privacy Policy. In processing your personal data Collectorz.com will act in accordance with all applicable laws and regulations.
 
 That’s why we created this Privacy Policy. This Privacy Policy was last updated on August 28, 2013.
 
-This document gives a description of how Collectorz.com collects and processes your personal data. We therefore recommend that you read this Privacy Policy carefully. The words in this Privacy Policy written with a capital letter are defined in the Collectorz.com Terms of Use for Collectorz, which can be downloaded at <http://www.collectorz.com/terms-of-use.pdf>.
+This document gives a description of how Collectorz.com collects and processes your personal data. We therefore recommend that you read this Privacy Policy carefully. The words in this Privacy Policy written with a capital letter are defined in the Collectorz.com Terms of Use, which can be downloaded at <http://www.collectorz.com/terms-of-use.pdf>.
 
 ## 1\. Collectorz.com
 
-BITZ & PIXELZ is a private limited liability company established under the laws of the Netherlands, and is established at W.G. Plein 384 (1054 SG) in Amsterdam, the Netherlands and is registered at the Chamber of Commerce under number 34133448. BITZ & PIXELZ is also active under the name Collectorz.com.
+COLLECTORZ.COM is a private limited liability company established under the laws of the Netherlands, and is established at W.G. Plein 384 (1054 SG) in Amsterdam, the Netherlands and is registered at the Chamber of Commerce under number 34133448.
 
 The Service provided by Collectorz.com entails providing access to the Database through the use of the Software, by means of which you can access, collect, process and/or share Central Media Data and generate and/or upload User Generated Data. The Service is intended to enable you to catalog your collections of movies, books, music, comic books and video games. The Service also entails access to the cloud storage, through which you can synchronize your collections between devices and publish and share these with your friends online.
 
