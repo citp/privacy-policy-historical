@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidsage.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601191402id_/http%3A//www.androidsage.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidsage.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119081736id_/http%3A//www.androidsage.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,6 +54,9 @@ We will notify the users via in-site notification
 We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
 
 **Contacting Us**  
-If there are any questions regarding this privacy policy you may contact us using the information below.  
-http://www.androidsage.com/  
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+> [AndroidSage – Everything About Android](http://www.androidsage.com/)
+
+  
 contact@androidsage.com
