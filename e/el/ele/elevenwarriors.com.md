@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elevenwarriors.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401231827id_/http%3A//www.elevenwarriors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elevenwarriors.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119022658id_/http%3A//www.elevenwarriors.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Eleven Warriors
 
@@ -24,7 +24,6 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 
   * Google Adsense 
   * Amazon
-  * TiqIQ
   * and others
 
 
