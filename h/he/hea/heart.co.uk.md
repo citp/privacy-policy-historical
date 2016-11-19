@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heart.co.uk privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606195640id_/http%3A//www.heart.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heart.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119110745id_/http%3A//www.heart.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Global Radio Privacy Policy - - Heart Radio
 
