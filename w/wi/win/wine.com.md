@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the wine.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324233252id_/http%3A//www.wine.com/content/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wine.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015832id_/http%3A//www.wine.com/content/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Wine.com - Privacy Policy
 
-[ ](https://privacy.truste.com/privacy-seal/Wine-com,-Inc/validation?rid=105b138e-f8b1-4002-adc1-dd48a80991b3 "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=105b138e-f8b1-4002-adc1-dd48a80991b3 "TRUSTe Privacy Certification")
 
-Wine.com, Inc has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.wine.com and does not cover information collected through our mobile website, API and mobile application.
+Wine.com, Inc has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](https://www.truste.com/privacy-certification-standards/program-requirements/) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.wine.com and does not cover information collected through our mobile website, API and mobile application. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal.
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@wine.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@wine.com. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 This privacy policy applies to www.wine.com owned and operated by Wine.com, Inc. (collectively, “We”, “Us”, “Our” or “Wine.com”). Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, Wine.com has agreed to notify users of:
 
@@ -29,7 +29,7 @@ Wine.com is the sole owner of the information collected on this site. We will no
 
 You may receive information regarding new features, services and special offers we think you'll find valuable. We may also share information with carefully selected business partners. These businesses may use the information we share to provide valuable opportunities and offers. If you'd like to opt out of future mailings from Wine.com, Inc., follow the procedure outlined in the Choice/Opt-out section below. When we present you with the opportunity to receive marketing opportunities from our business partners we will not automatically subscribe you for these promotions, rather we will provide you with the opportunity to opt-in to these third party marketing programs.
 
-You may also access the personally identifiable you have submitted to Wine.com by selecting “Your Account” and editing the information as it exists in our system currently. You are also able to access your information in order to update or delete it by sending us an email at [privacy@wine.com](mailto:privacy@wine.com). For users of the Community section of Wine.com, please see "Writing Reviews/Community" section below.
+You may also access the personally identifiable information you have submitted to Wine.com by selecting “Your Account” and editing the information as it exists in our system currently. You are also able to access your information in order to update or delete it by sending us an email at [privacy@wine.com](mailto:privacy@wine.com). We will respond to your request within a reasonable time frame. For users of the Community section of Wine.com, please see "Writing Reviews/Community" section below.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -55,19 +55,19 @@ We collect contact information, such as name, shipping address and phone number,
 
 ## Tracking Technologies
 
-Technologies such as: cookies, beacons, tags and scripts are used by Wine.com, Inc and our marketing partners, affiliates, or analytics or service providers . These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+We Wine.com and our partners use cookies or similar technologies to analyze trends, administer the site, track users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 We use cookies for our shopping cart, to remember users’ settings (e.g. language preference) and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
 ## Behavioral Advertising
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here. Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by [clicking here](https://web.archive.org/web/20161119015832id_/http%3A//www.wine.com/content/preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 ## Log Files
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
 
-We do not link this automatically collected data to other information we collect about you. Or We may combine this automatically collected log information with other information we collect about you. We do this [to improve services we offer you, to improve marketing, analytics, or site functionality.
+We do not link this automatically collected data to other information we collect about you. Or We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
 
 ## Sharing
 
@@ -95,7 +95,7 @@ Our Web site includes Social Media Features, such as the Facebook Like button [a
 
 ## Single Sign On
 
-You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personally identifiable information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
 ## Public Profile
 
@@ -138,4 +138,4 @@ Wine.com, Inc.
 114 Sansome Street, 3rd Floor  
 San Francisco, CA 94104
 
-The Privacy Notice posted on this site was updated on September 11, 2015.
+The Privacy Notice posted on this site was updated on July 26, 2016.
