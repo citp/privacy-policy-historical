@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top-100-baby-names-search.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604152319id_/http%3A//www.top-100-baby-names-search.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top-100-baby-names-search.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119162305id_/http%3A//www.top-100-baby-names-search.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Top 100 Baby Names Search
 
@@ -28,7 +28,7 @@ What is the DoubleClick cookie doing on my computer?
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy.](http://www.google.com/privacy_ads.html)
 
-If you have a DoubleClick cookie in your Cookies folder, it is most likely a DART cookie. The DoubleClick DART cookie helps marketers learn how well their Internet advertising campaigns or paid search listings perform. Many marketers and Internet websites use DoubleClicks DART technology to deliver and serve their advertisements or manage their paid search listings. DoubleClicks DART products set or recognize a unique, persistent cookie when an ad is displayed or a paid listing is selected. The information that the DART cookie helps to give marketers includes the number of unique users their advertisements were displayed to, how many users clicked on their Internet ads or paid listings, and which ads or paid listings they clicked on.
+If you have a DoubleClick cookie in your Cookies folder, it is most likely a DART cookie. The DoubleClick DART cookie helps marketers learn how well their Internet advertising campaigns or paid search listings perform. Many marketers and Internet websites use DoubleClick’s DART technology to deliver and serve their advertisements or manage their paid search listings. DoubleClick’s DART products set or recognize a unique, persistent cookie when an ad is displayed or a paid listing is selected. The information that the DART cookie helps to give marketers includes the number of unique users their advertisements were displayed to, how many users clicked on their Internet ads or paid listings, and which ads or paid listings they clicked on.
 
 How can I adjust my cookie settings to accept or decline cookies?
 
