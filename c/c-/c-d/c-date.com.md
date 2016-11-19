@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the c-date.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627082617id_/http%3A//www.c-date.com/info/data-protection.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c-date.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015840id_/http%3A//www.c-date.com/info/data-protection.html) for the most accurate reproduction.*
 
-# Privacy Policy | C-date
+# Privacy Policy | C-Date
 
 Last updated: January 13, 2016 
 
