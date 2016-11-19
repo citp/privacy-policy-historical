@@ -1,80 +1,45 @@
-> *The following text is extracted and transformed from the hcl.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430043958id_/http%3A//www.opentext.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hcl.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119030153id_/http%3A//www.hcl.com/privacy-policy) for the most accurate reproduction.*
 
-# OPEN TEXT
+# Privacy Policy | HCL
 
-### Privacy and Security
+HCL Corporation Private Limited (“HCL”) has created this statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for website. We do not link IP address to anything personally identifiable, which means that a user's session can be tracked, but the user's identity will remain anonymous. Our website may require you to give us contact information like your name, email address etc while filling in certain forms. In such an event, we may use this contact information from the forms to send you relevant communication as required by the nature of that form/registration (e.g.) By registering for an event, the user may receive communication specific to that event, by submitting a query / request for service, the user will get a response on the email / phone number from the concerned HCL personnel.
 
-Open Text is committed to protecting your personal information. This statement explains our practices for this Web site.
+We also use several web technologies like ‘cookies’ to gather visitor information and preferences to help provide our audience a better user experience. To know more about cookies, please click here.
 
-### What Personal Information We Gather
+However, it is possible that we may need to disclose personal information when required by law. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, or other legal process served on us or to exercise our legal rights or defend against legal claims.
 
-We gather personal information that we need to know when you ask us to do something for you. For example, if you ask us to send you ExecuLink, our quarterly newsletter, we need to know and store your email address. We will always ask for your permission and tell you how we're going to use your personal information first. You can always choose not to provide it.
+Also, this site contains links to other sites. HCL is not responsible for the privacy practices or the content of such websites.
 
-### How We Use It
+Security
 
-We only use the personal information we gather for purposes that you have agreed to, for example, to send you a newsletter. We do not collect personal information about any of our site's visitors unless the visitor authorizes us to do so. 
+This website has security measures in place to protect the loss, misuse, and/or alteration of information under our control. The data resides behind a firewall, with access restricted only to authorized HCL personnel.
 
-### Who Has Access to It
+Cookies
 
-Only people within Open Text who need to access your personal information can access it; for example, the people who send a newsletter need to know your email address. 
+A cookie is a piece of data that a website can send to your browser, which may then be stored on your computer as a tag that identifies your computer. While cookies are often only used to measure website usage and effectiveness and to allow for ease of navigation or use and as such, are not associated with any personal information, they are also used at times to personalise a known visitor's experience to a website by being associated with profile information or user preferences. To know more about cookies, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) , [www.youronlinechoices.eu,en.wikipedia.org/wiki/HTTP_cookie](http://www.youronlinechoices.eu%2Cen.wikipedia.org/wiki/HTTP_cookie)
 
-### How We Share It
+Type of cookies used in hcl.com
 
-We do not sell or provide your personal information to any third parties. 
+Strictly necessary cookies
 
-We might share your personal information under the following circumstances: 
+These cookies are strictly necessary to enable you to move about the site or to provide certain features you have requested. For example, access to restricted areas of the site where authentication is necessary. We consider following cookies are strictly necessary cookies: a) Session Cookie - A unique identifier given to each registered user, used to recognize them through their visit and when they return to the site b) No Cache Cookie – We cache our pages to improve the performance of our website. This cookie is set if a page need to bypass the cache and deliver a fresh content.
 
-  * We have your consent. 
-  * We are required to share customer information by law, to protect the interests of the company or in the discharge of public duty. 
-  * We need to share your personal information with a business partner in order to provide a service you have requested. Our business partner's use of your information is restricted to the delivery of the service you have requested. 
+Functionality cookies
 
+These cookies enhance the functionality of website by storing your preferences. We consider following cookies as functionality cookies - a) Form Preference Cookies - Web Forms on our website is pre-populated with your data if you have already filled a similar form on our website in the past b)Content personalization cookies - We may store your geographic location and your selection from our list of personas to be able to provide a customized representation of our website content to suit your persona or geography.
 
+Performance Cookies
 
-### How You Change or Remove It
+We use performance cookies across the website to help us provide our users with a better site experience. Information supplied by cookies helps us in understanding how our visitors use our website and this helps improve how we present our content to our visitors. We generally use user independent measurement and research tools to achieve this and when this is the case, these cookies may be set by a third party tool.
 
-You have access to your personal information that we retain. We try to keep your personal information accurate and up to date. If you'd like to change or remove your personal information, please [contact us.](https://web.archive.org/corporate/contact_us.html)
+Third party cookies
 
-### Security
+We embed videos from our official YouTube Channel. This may set cookies on your computer. Similarly, when you use some of the social share features, a cookie may be set by the widget to share content through. We do not control these cookies, you can check the relevant third party website for more information about these cookies. b) Our site is using display advertising functionality of Google Analytics which is used for remarketing feature to advertise online. To show advertisements, our site and Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on visitor's past visits to our website.  
+By using this site you agree that we can place cookies on your device.
 
-We use current security measures to safeguard your personal information. 
+How to reject or delete cookies  
+You can set your browser in most instances to notify you before you receive a cookie, giving you the chance to decide whether to accept it or reject it. You can also generally set your browser to turn off cookies. Since cookies allow you to take advantage of some of our websites' features, we recommend that you leave them turned on.
 
-  * All the personal information you provide us is stored in a secure computing environment protected by secure firewalls to prevent unauthorized access. 
-  * We control access so that only people who need to access the information can. All staff of Open Text are required to adhere to a security agreement. 
-  * To use the Knowledge Center, you must use a unique, confidential Open Text userID and password. 
-  * When you use secure areas of the site, we use Secure Sockets Layer (SSL) protocol with 128-bit encryption. This means that all the information sent between your computer and our secure computer environment is encrypted or scrambled so that no one can read it in transit. You can read it and we can read it-no one else. There are two cues to show you that you are using a secure area. First, the Web site address (or URL) appears as https:// (instead of just http://)-the "s" is for "secure." Second, a lock or key indicator appears in the status bar of your Web browser. 
-  * Secure areas of the site have a time-out feature. If you leave your secure session inactive for some time, it times-out to prevent unauthorized access.
+Contacting the website admin
 
-
-
-### Credit Cards
-
-We do accept credit card payments for registrations. If someone uses your credit card to make an unauthorized purchase, check with the institution that issued your card to find out what the exact liability is. 
-
-### Email
-
-If you send us an email, we may save it if we think we'll need it to communicate with you. We never sell or share email addresses. Remember, email is not a secure way to send personal information because it is not encrypted. Please don't send any personal information to us using email; use our secure forms instead.
-
-### Cookies
-
-Our Web site stores information in a small text file, called a cookie, on your computer. We use what is called a "persistent cookie," which is stored as a file on your computer and remains there when you close your Web browser. The cookie can only be read by the Web site that created it when you visit that site again.
-
-### Our Use of Cookies
-
-Open Text stores a unique number (not any personal information) in the cookie that we place on your computer. We use this cookie to determine if you have visited the site before, and to ensure you are only prompted once to fill in certain forms such as our Document Download form. The information we store in the cookie does not include data such as your name, company, email address, telephone number, state/province, country or the industry you work in. 
-
-**Note:** If you do not allow cookies to be saved on your computer, you will not be able to download information from this site. 
-
-### Security Concerns
-
-Once the cookie is saved on your computer, our Web site is the only site that can access and read the information that you provide. Open Text will not provide this information to any third parties or use it for sending unsolicited email.
-
-### Java and Javascript
-
-Java is a programming language that allows different kinds of computers to talk to each other. We use Java technology to provide functionality such as navigation menus, forms and so on. You will still be able to use this Web site if you have Java or Javascript disabled, but some functionality may not be available. 
-
-### Changes to this Statement
-
-We may amend this privacy and security statement from time to time. If we make any substantial changes in the way we use your personal information, we will notify you by posting a prominent announcement on this Web site. 
-
-  
-
+For questions regarding the privacy statement, practices of the website, or any other transaction issue, please contact [brand@hcl.com](mailto:brand@hcl.com)
