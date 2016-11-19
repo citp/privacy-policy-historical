@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serialduniya.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619122640id_/http%3A//serialduniya.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serialduniya.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119050611id_/http%3A//serialduniya.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
