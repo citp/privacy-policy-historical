@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unminify.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513034605id_/http%3A//unminify.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unminify.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119013521id_/http%3A//unminify.com/policy) for the most accurate reproduction.*
 
 # 
 
