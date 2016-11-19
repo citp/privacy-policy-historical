@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alphadictionary.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314040429id_/http%3A//www.alphadictionary.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphadictionary.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119063859id_/http%3A//www.alphadictionary.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - alphaDictionary * Free English Online Dictionary
 
