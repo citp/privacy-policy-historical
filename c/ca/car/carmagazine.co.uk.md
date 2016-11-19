@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carmagazine.co.uk privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623210318id_/http%3A//www.bauerdatapromise.co.uk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carmagazine.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119155608id_/http%3A//www.bauerdatapromise.co.uk) for the most accurate reproduction.*
 
 # Bauer Media Group - Privacy Policy
 
@@ -36,9 +36,16 @@ The internet is not a totally secure medium and you acknowledge and agree that B
 
 * ### How do we collect and use your Personal Data?
 
-We collect your details when you register on one of our websites, or respond to one of our promotions. We will always be transparent about how we plan to use your data so that you have the choice whether or not to give it to us. We respect your preferences and will do our best to make sure that we keep our promises. 
+We collect your details when you register on one of our websites, subscribe to our service; place an order on our website; search for a product; correspond with us by phone, e-mail or otherwise; participate in discussion boards or other social media functions on our website, enter a competition or promotion. 
 
-If you give us your consent to send you further marketing messages we may contact you from time-to-time with carefully selected offers and promotions from ourselves or from our network of carefully selected partners, from which you may always opt-out or unsubscribe. It is not our practice to contact you if you have made it clear that you do not wish to hear from us about our products and services. 
+With regard to each of your visits to our websites we may automatically collect the following information: 
+
+  * technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform; 
+  * information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number. 
+
+
+
+We will always be transparent about how we plan to use your data so that you have the choice whether or not to give it to us. We respect your preferences and will do our best to make sure that we keep our promises. If you give us your consent to send you further marketing messages we may contact you from time-to-time with carefully selected offers and promotions from ourselves or from our network of carefully selected partners, from which you may always opt-out or unsubscribe. It is not our practice to contact you if you have made it clear that you do not wish to hear from us about our products and services. 
 
 We may need to authenticate your identity to provide you with access to subscriber-only services. We might also send you surveys or invite you to enter a competition or receive a newsletter, for instance. If you do not wish to participate you may simply decline our invitations. 
 
@@ -76,9 +83,38 @@ When you click on advertisements or links on any of our sites, you will leave th
 
 * ### Cookies and how we use them
 
-"Cookies" are small pieces of information that a website sends to your computer's hard drive while you are viewing a website. The Bauer Media Group uses cookies to provide you with a more personal and interactive experience on our sites. You have the ability to accept or decline cookies, but please be aware that for some parts of our sites to work, you will need to accept cookies. For more information please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) and/or [www.youronlinechoices.com](http://www.youronlinechoices.com/)
+"Cookies" are small pieces of information that a website sends to your computer's hard drive while you are viewing a website. The Bauer Media Group uses cookies for a number of reasons: 
 
-For more information on how the Bauer Media Group use cookies please read our [Cookie Policy](http://static.bauercdn.com/cookiePolicy/policy.html). 
+  1. To provide you with a more personal and interactive experience on our sites.
+  2. For statistical purposes to track how many users we have and have often they visit our websites.
+  3. We use organisation to collect anonymous user information so they can analyse how the website is being used and the number of visitors.
+  4. We and our advertisers may use statistical cookies to track who has seen an advert and clicked on it.
+  5. To show you adverts that you may be interested in and to control the number of time you see them and measures the effectiveness of the ad campaign.
+  6. We may use 'Flash' cookies to store your preference for your media player. If we do not use them, it may not be possible for you to watch some video content.
+
+
+
+You have the ability to accept or decline cookies, but please be aware that for some parts of our sites to work, you will need to accept cookies. For more information please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) and/or [www.youronlinechoices.com](http://www.youronlinechoices.com/)
+
+For more information on how the Bauer Media Group use cookies please read our [Cookie Policy](https://static-cdn.bauersecure.com/cookiePolicy/policy.html). 
+
+* ### Online behavioural advertising
+
+We use an advertising service called online behavioural advertising (OBA). This allows us to deliver targeted advertising to the visitors of our websites. It works by showing you adverts that are based on your browsing patterns and the way you have interacted with the website. For example, if you have been reading a lot of car articles, you may be shown more adverts for cars. 
+
+None of the OBA techniques used will collect personal information such as your name, email address, postal address or phone number. 
+
+If you would like more information regarding OBA and how to opt out, please visit [www.youronlinechoices.com](http://www.youronlinechoices.com/uk/)
+
+* If you login to our sites using a Facebook login or a Google login, you are granting permission to Facebook and or Google login to share your user details with Bauer Media Group. This will include your name, email address, date of birth and location which will then be used to form a Bauer Media Group identity. This will also allow Bauer Media Group and Facebook and/or Google login to share your networks, user ID and any other information you choose to share according to your Facebook and/or Google account settings. If you remove the Bauer Media Group app from your Facebook and or Google settings, we will no longer have access to this information. 
+
+* ### Marketing to Children
+
+We do not knowingly collect personal information from children under the age of 16 for marketing purposes. 
+
+* ### Using our websites from outside the UK
+
+Our servers are situated in the EEA and when you submit your details and in whichever country you are situated you agree to the data being transferred to the EEA and processed under the terms of the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003 which stem from European Directives 95/46/EC and 2002/58/EC respectively. If you are not in agreement please do not add your personal details on the website. 
 
 * ### How you can gain access to the personal data we collect about you
 
@@ -91,21 +127,13 @@ Lynchwood
 Peterborough  
 PE2 6EA 
 
-We will require that you satisfactorily identify yourself to demonstrate your entitlement to view this data, and we reserve the right to charge the statutory fee of £10 to provide this information. 
-
-* If you login to our sites using a Facebook login or a Google login, you are granting permission to Facebook and or Google login to share your user details with Bauer Media Group. This will include your name, email address, date of birth and location which will then be used to form a Bauer Media Group identity. This will also allow Bauer Media Group and Facebook and/or Google login to share your networks, user ID and any other information you choose to share according to your Facebook and/or Google account settings. If you remove the Bauer Media Group app from your Facebook and or Google settings, we will no longer have access to this information. 
-
-* ### Marketing to Children
-
-We do not knowingly collect personal information from children under the age of 16 for marketing purposes. 
-
-* ### Using our websites from outside the UK
-
-Our servers are situated in the EEA and when you submit your details and in whichever country you are situated you agree to the data being transferred to the EEA and processed under the terms of the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003 which stem from European Directives 95/46/EC and 2002/58/EC respectively. If you are not in agreement please do not add your personal details on the website. 
+We will require that you satisfactorily identify yourself to demonstrate your entitlement to view this data. 
 
 * ### Questions regarding this Privacy Policy
 
-If you have comments or questions related to this Privacy Policy please email [datapromise@bauermedia.co.uk](mailto:datapromise@bauermedia.co.uk) and we will respond as promptly and as fully as we can. 
+If you have comments or questions related to this Privacy Policy please email [dataprotectionofficer@bauermedia.co.uk](mailto:dataprotectionofficer@bauermedia.co.uk) and we will respond as promptly and as fully as we can. 
+
+Complaints will be dealt with by the Data Protection Officer and will be responded to within 30 days. If you are not satisfied with the response you should refer your complaint to the ICO [ico.org.uk/concerns](https://ico.org.uk/concerns/)
 
 * ### Changes to this Privacy Policy
 
@@ -113,4 +141,4 @@ This Privacy Policy will be amended from time-to-time if we make any important c
 
 Any changes will be effective immediately. 
 
-This Privacy Policy was last revised in March 2016. 
+This Privacy Policy was last revised in October 2016. 
