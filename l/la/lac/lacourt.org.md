@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lacourt.org privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604141833id_/http%3A//www.lacourt.org/page/HO0050) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacourt.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119010534id_/http%3A//www.lacourt.org/page/HO0050) for the most accurate reproduction.*
 
 # LA Court
 
@@ -51,5 +51,5 @@ Last Updated: May 19, 2005
 Art Showcased in  
 Los Angeles Courthouse Jury Rooms
 
-"Morning Workout" by April Carl  
-2003 2nd Place Intermediate
+"Blue Label" by Nicola Kronstadt  
+2006 – 1st Place Teen
