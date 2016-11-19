@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camscanner.net privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607065206id_/https%3A//www.camscanner.com/app/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camscanner.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119123219id_/https%3A//www.camscanner.com/app/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -114,7 +114,7 @@ If We sell the assets of the company, merge with another business entity or appl
 
 We take various security technologies and measures to protect the information and data stored in systems against authorized access, use or disclosure of the same. For instance, the safe channel for information You send through Our Products or website to us is protected by TLS （Transport Layer Security, which is the update edition of SSL, with 2048-bit RSA and 256-bit AES encryption）, and the information you have stored in the server is safeguarded with AES (Advanced Encryption Standard) 256-bit encryption, a bank-grade security standard. Specific technical measures will be adjusted from time to time with the technical and business development. 
 
-We will use Our best efforts to protect the security of Your information, but will be unable to offer any guarantee due to the complexity of security environment of Internet. You may visit [Security & Protection to further understand Our information security policy](http://resource.intsig.net/terms/SO_CamCard_zh-cn.html). 
+We will use Our best efforts to protect the security of Your information, but will be unable to offer any guarantee due to the complexity of security environment of Internet. You may visit [Security & Protection to further understand Our information security policy](http://static.intsig.net/r/terms/SO_CamCard_zh-cn.html). 
 
 **XIV. Remedies for divulgence of secrets**
 
