@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the memedroid.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617111247id_/http%3A//www.memedroid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memedroid.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119040706id_/http%3A//www.memedroid.com/privacy) for the most accurate reproduction.*
 
 # Memedroid - Privacy policy
 
 #### What information do we collect?
 
-We collect information from you when you register on our site.
+We collect information from you when you register on our site/app.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.
+When ordering or registering on our site/app, as appropriate, you may be asked to enter your e-mail address. You may, however, visit our site anonymously.
+
+We may also collect your Internet Protocol (“IP”) address or other unique device identifier for any device (mobile phone, laptop, etc) that you use to visit our site or use our app. A Device Identifier is a number that is randomly assigned to your device when you visit our site/app and can be used to anonymously identify your device. In addition, we may estimate your device's physical location and other network information by using your IP address when you visit our site/app.
 
 #### What do we use your information for?
 
@@ -17,6 +19,8 @@ To personalize your experience (your information helps us to better respond to y
 To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you).
 
 To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs).
+
+To show you relevant ads.
 
 #### How do we protect your information?
 
