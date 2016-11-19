@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bookingbuddy.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621112523id_/http%3A//www.airfarewatchdog.com/pages/3799704/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookingbuddy.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119052804id_/http%3A//www.airfarewatchdog.com/pages/3799704/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - Airfarewatchdog
+# Privacy Statement - Airfarewatchdog - Airfarewatchdog
 
-**AIRFAREWATCHDOG PRIVACY POLICY**
+** AIRFAREWATCHDOG PRIVACY POLICY  **
 
  Airfarewatchdog.com is a travel information service. We do not sell travel products or services. We provide you with information about third-party travel suppliers' offers, and we link you to their sites. Our Web site is is owned and operated by Smarter Travel LLC.  More details about Airfarewatchdog can be found below under “How you can contact us.” 
 
@@ -24,7 +24,7 @@ We understand that providing information online involves a great deal of trust o
 
 
 **What information we collect from you**  
-In General.  We receive and store any information you enter on our Web site or give us in any other way. This includes information that can identify you ("personal information"), including your first and last name, telephone number, postal and e-mail addresses, user name and password.  We may also request information about your travel plans, style, and preferences, including meal requests, seat selection, frequent flyer/hotel/car rental program information, and flight class, luggage, and ticketing options.  You can choose not to provide information to us, but in general some information about you is required in order for you to enjoy the benefits of being a registered member.  For example, only registered members are able to post travel reviews, participate in discussion forums, e-mail Airfarewatchdog content to themselves and others, access members-only newsletters and travel planning content, and enter surveys, contests, or sweepstakes.  In addition, some information is also required in order for you to ask us a question or initiate other transactions on our site.
+In General.  We receive and store any information you enter on our Web site or give us in any other way. This includes information that can identify you ("personal information"), including your first and last name, telephone number, postal and e-mail addresses, user name and password.  We may also request information about your travel plans, style, and preferences, including meal requests, seat selection, frequent flyer/hotel/car rental program information, and flight class, luggage, and ticketing options.  You can choose not to provide information to us, but in general some information about you is required in order for you to enjoy the benefits of being a registered member.  For example, only registered members are able to post travel reviews, participate in discussion forums, e-mail Airfarewatchdog content to themselves and others, access members-only newsletters and travel planning content, and enter surveys, contests, or sweepstakes.  In addition, some information is also required in order for you to ask us a question or initiate other transactions on our site. 
 
 Information About Others.  You will have the opportunity to provide contact information for other people through our Web site. You should obtain the consent of other individuals prior to providing Airfarewatchdog with their personal information.
 
@@ -134,8 +134,6 @@ Boston, MA 02114
 
 This Privacy Policy is effective as of [insert date].[A5] 
 
-* * *
-
  [A1]Link to section in the pp.
 
  [A2]Link to NAI opt-out here.  <http://www.networkadvertising.org/>
@@ -179,7 +177,7 @@ Information Collected by Third Parties. Third parties, such as vendors, advertis
 
 **How we use your information**
 
-Airfarewatchdog.com uses your e-mail address to send you newsletters and promotional e-mails. We use other information about you for the following general purposes: to provide you with the products and services you request; to communicate with you in general; to respond to your questions and comments; to measure interest in and improve our products, services, and Web site; to notify you about special offers and products or services that may be of interest to you; to otherwise customize your experience with Airfarewatchdog.com; to reward you as part of any reward and recognition program you choose to join; to solicit information from you, including through surveys; to resolve disputes, collect fees, or troubleshoot problems; to prevent potentially prohibited or illegal activities; to enforce our [Terms of Use](https://web.archive.org/web/20160621112523id_/terms-of-use/); and as otherwise described to you at the point of collection.
+Airfarewatchdog.com uses your e-mail address to send you newsletters and promotional e-mails. We use other information about you for the following general purposes: to provide you with the products and services you request; to communicate with you in general; to respond to your questions and comments; to measure interest in and improve our products, services, and Web site; to notify you about special offers and products or services that may be of interest to you; to otherwise customize your experience with Airfarewatchdog.com; to reward you as part of any reward and recognition program you choose to join; to solicit information from you, including through surveys; to resolve disputes, collect fees, or troubleshoot problems; to prevent potentially prohibited or illegal activities; to enforce our [Terms of Use](https://web.archive.org/web/20161119052804id_/http:/terms-of-use/); and as otherwise described to you at the point of collection.
 
 Please review "Your choices with respect to the collection and use of your information" below.
 
