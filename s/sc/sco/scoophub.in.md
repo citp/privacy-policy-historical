@@ -1,59 +1,60 @@
-> *The following text is extracted and transformed from the scoophub.in privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516200303id_/http%3A//scoophub.in/privacy-policy-for-scoophub) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoophub.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119165714id_/http%3A//scoophub.in/privacy-policy-for-scoophub) for the most accurate reproduction.*
 
-# Privacy Policy | ScoopHub
+# Privacy Policy - ScoopHub
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **[Privacy](mailto:contact@scoophub.in)**.
+The information of the customers is considered to be as very important for ScoopHub.in. Therefore, this privacy policy is the manifestation of the categories of personal information, which are collected and stored by ScoopHub.in. All these are described in this document in detail. Moreover, it is also stated here about the way we handle the information you confide with us. The information is in no way misused or abused, so you can be absolutely confident in storing your information in this website.
 
-At ScoopHub.in we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by ScoopHub.in and how we use it.
+**Log Files**
 
-**Log Files**  
-Like many other Web sites, ScoopHub.in makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytic. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+As seen with a lot many other online sites, we at ScoopHub.in too have a system of log files. This is nothing but the process of helping a visitor of the site to get logged into our website. This is considered as a standard procedure, which is followed by innumerable hosting companies. This also abides by the analytic process of hosting services. In most cases, the information you share on this website during the logging process is generally inclusive of IP (internet protocol) addresses, along with ISP and browser type. This also includes referring and exit pages, date and time stamp as well as the probable number of clicks a visitor is making while he is on a ride of this website.
 
-**Cookies and Web Beacons**  
-ScoopHub.in uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
+The information that ScoopHub.in requests you to submit, is actually significant in the process of analysing trends, administering the website. This information is also used to maintain a track on the visitor’s stay at the site as well as the movements one makes and the subsections of the sites one explores. Demographic information about the visitor is then gathered. Nevertheless, IP addresses, as well as other information related to the visitor, are generally not associated with any such information, which is likely to be personally identifiable.
 
-**DoubleClick DART Cookie**
+**Cookies along with Web Beacons**
 
-→ Google, as a third party vendor, uses cookies to serve ads on ScoopHub.in.  
-→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to ScoopHub.in and other sites on the Internet.  
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+The other aspect of ScoopHub.in is that it has the practice of using cookies. They are generally made use of in order to save information regarding the preferences of the visitor, to enhance the surfing experience of the visitor of the web page, along with information related to the pages that are accessed by the visitor usually. All this helps you to experience a customised way of surfing our websites. We at ScoopHub.in make sure that you have the smoothest way of accessing our website as per the type of the browser you use.
 
-**Our Advertising Partners**
+**Double Click DART Cookie**
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
+Google uses cookies in order to serve ads on ScoopHub.in.
+
+Google also uses the DART cookie to display ads to our visitors when they come to our website
+
+Users are able to block ads anytime by logging on to the URL:
+
+http://www.google.com/privacy_ads
+
+**Advertising Partners**
+
+Some of the mentioned advertising partners associated with us may use cookies and web beacons:
 
   * Google
-  * Commission Junction
   * Amazon
-  * Clickbank
+  * Commission Junction
   * Linkshare
-  * Yahoo! Publisher Network
   * Ebay
-  * Other
+  * Yahoo! Publisher Network
 
 
 
-_Each of these advertising partners has their own Privacy Policy for their site.  You may consult this listing to find the privacy policy for each of the advertising partners of ScoopHub.in._
+_Each of these partners also has a separate privacy policy for themselves._
 
-These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on ScoopHub.in and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
+All the aforementioned ad servers send their links and advertisements to  your browser directly. This implies that they may use your IP address and ScoopHub.in has no control over or access to this.
 
-ScoopHub.in has no access to or control over these cookies that are used by third-party advertisers.
+**Children’s Information**
 
-**Third Party Privacy Policies**
+Parents are requested to keep an eye on the online activities, which children include them in. ScoopHub.in does not allow any visitor under the age of 13. If any parent feels that we have the information of children under the age of 13 years, they are requested to immediately contact us through **[Privacy](http://scoophub.in/privacy-policy-for-scoophub/)** and we will take immediate action to remove such information.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. ScoopHub.in’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+**Privacy Policy is Strictly Observes over the Internet**
 
-If you wish to disable cookies, you may do so through your individual browser options.
+This policy document is strictly limited to your online access of our website. Any information that is collected offline is not compliant with this policy.
 
-**Children’s Information**  
-We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. ScoopHub.in does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that ScoopHub.in has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+**Consent**
 
-**Online Privacy Policy Only**  
-This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
+Your use of our website is a proof that you agree to our privacy statements.
 
-**Consent**  
-By using our website, you hereby consent to our privacy policy and agree to its terms.
+**Update**
 
-**Update**  
-This Privacy Policy was last updated on: Tuesday, October 27th, 2015.  
- _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
+This privacy statement had been updated last on Tuesday, July 19th, 2016.
+
+_Whenever we make changes or amendments to our policy, they shall be updated here._
