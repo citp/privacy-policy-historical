@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myapptemplates.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120132544id_/http%3A//46.28.51.166/MyAppTemplate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myapptemplates.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119093745id_/http%3A//myapptemplates.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « My App Template
+# Privacy Policy | MyAppTemplates
 
 ### What information do we collect?
 
@@ -22,7 +22,7 @@ Any of the information we collect from you may be used in one of the following w
 
 
 
-**Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.**
+ **Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.**
 
 ### How do we protect your information?
 
@@ -72,4 +72,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[support@myapptemplates.com](mailto:support@myapptemplates.com)
+[support@www.myapptemplates.com](mailto:support@www.myapptemplates.com)
