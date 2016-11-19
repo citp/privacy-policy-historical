@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamiltheater.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605194047id_/http%3A//tamiltheater.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamiltheater.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119132100id_/http%3A//tamiltheater.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Watch Tamil HD Bluray Movies Online & Tamil Dubbed Movies Online
 
@@ -107,7 +107,3 @@ We will notify the users via in site notification
 • Within 7 business days
 
 We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
-
-### Comments
-
-comments
