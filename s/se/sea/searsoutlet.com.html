@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the searsoutlet.com privacy policy that was archived on 2016-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160502122947id_/http%3A//www.searsoutlet.com/d/static/privacy_policy.jsp%3FomFlag%3Dtrue) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the searsoutlet.com privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119163013id_/http%3A//www.searsoutlet.com/d/static/privacy_policy.jsp%3FomFlag%3Dtrue) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" dir="ltr"><!--<![endif]--><head>
 		
@@ -9,7 +9,7 @@
   
 
 	<!-- == Optimizely A/B Testing ================ -->
-	<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//cdn.optimizely.com/js/596910462.js"></script>
+	<script src="//cdn.optimizely.com/js/596910462.js"></script>
  
     
 <!-- Meta Data ================ -->
@@ -39,7 +39,7 @@
 			
 		
 
-<!-- Server Host: soapp404p.prod.ch4.s.com, Build: rc-2016_0427-hotfix-56986, Audit Id: soapp404p.1462192007415 --> 
+<!-- Server Host: soapp406p.prod.ch4.s.com, Build: rc-2016_1115-60870, Audit Id: 9322406p.1479572847134 --> 
 
 		
 
@@ -50,21 +50,20 @@
 <link rel="publisher" href="https://plus.google.com/+searsoutlet"> 
 
 <!-- CSS ================ -->
-<link rel="stylesheet" href="/56986/s/u/static/css/site.min.css" type="text/css" media="screen">
-<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="/60870/s/u/static/css/site.min.css" type="text/css" media="screen">
     
 <!-- Icons ================ -->
-<link rel="apple-touch-icon-precomposed" href="/56986/s/rwd/assets/images/apple-touch-icon-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/56986/s/rwd/assets/images/apple-touch-icon-72x72-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/56986/s/rwd/assets/images/apple-touch-icon-114x114-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/56986/s/rwd/assets/images/apple-touch-icon-144x144-precomposed.png">
-<link rel="shortcut icon" href="/56986/s/rwd/assets/images/favicon.ico">
+<link rel="apple-touch-icon-precomposed" href="/60870/s/rwd/assets/images/apple-touch-icon-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/60870/s/rwd/assets/images/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/60870/s/rwd/assets/images/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/60870/s/rwd/assets/images/apple-touch-icon-144x144-precomposed.png">
+<link rel="shortcut icon" href="/60870/s/rwd/assets/images/favicon.ico">
 
 
     
 <!-- Scripts ============== -->
 <!--[if lt IE 9]>
-    <script src='/56986/s/u/static/js/build/ieshim.min.js'></script>
+    <script src='/60870/s/u/static/js/build/ieshim.min.js'></script>
 <![endif]-->
 		
 
@@ -78,10 +77,14 @@
 			<div id="loading" ng-show="false || loadingMask === true"></div>
 		
 	
+	
 	<header ng-controller="headerCtrl as header">
-            <section id="drop1" class="text-center bg--gray0 bordered--bottom ng-cloak hidden-xs hidden-sm" ng-show="so.header.drop1Link">
-    <a ng-href="{{so.header.drop1Link}}">
-        <img ng-src="{{so.header.drop1SRC}}" class="img-responsive">
+    		
+    			
+		            
+<section id="drop1" class="text-center bg--gray0 bordered--bottom ng-cloak hidden-xs hidden-sm" ng-if="header.marketing.tippyTop">
+    <a ng-href="{{header.marketing.tippyTop.url}}">
+        <img ng-src="{{header.marketing.tippyTop.srcMD}}" alt="{{header.marketing.tippyTop.alt}}" class="img-responsive">
     </a>
 </section>
 <section id="upperHeader" class=" hidden-xs hidden-sm bordered--bottom">
@@ -89,7 +92,10 @@
         <div class="row padding-vert-xxs">
             <div id="supportLinks" class="col-xs-3 no--wrap">
                 <div class="font-14 font--gray2">
-                    <span id="emailSavingsLink" class="cursor--pointer font--gray1" ng-click="header.emailSavings()" ng-init="header.initHeader()">Email Savings</span> |
+                 
+                    <span id="emailSavingsLink" class="cursor--pointer font--gray1" ng-click="header.emailSavings()" ng-init="header.initHeader()">Email Savings</span> |                                                 
+                 
+                    
                     <a id="helpCenterLink" class="cursor--pointer font--gray1" role="button" data-trigger="focus" tabindex="0" data-container="body" data-toggle="popover" data-placement="bottom" data-title="Help Center" data-html="true" data-content="
                                      <a href=&quot;/d/static/customer_service.jsp&quot; target=&quot;_blank&quot; id=&quot;customerServiceLink&quot;>Customer Service</a><br />      
                                      <a href=&quot;/d/static/faq.jsp&quot; class=&quot;omFAQs&quot; title=&quot;Go to FAQs&quot; id=&quot;faqLink&quot; target=&quot;_blank&quot;>FAQs</a><br />
@@ -169,16 +175,16 @@
                     <div id="storeLocatorList" class="font-12 lh-sm clear bordered--xs" ng-show="so.myStoreDistance">
                         <div id="myStoreList" class="padding-xs bordered--bottom" ng-show="so.myStoreAddress">
                             <span class="pull-right">{{so.myStoreDistance}} mi</span>
-                            <a ng-href="{{so.myStoreLink}}"><strong class="font--cta">{{so.myStoreCity}}</strong></a> - <strong>{{so.myStoreType}}</strong>
+                            <a rel="nofollow" ng-href="{{so.myStoreLink}}"><strong class="font--cta">{{so.myStoreCity}}</strong></a> - <strong>{{so.myStoreType}}</strong>
                             <br>
                             <span>
-                                {{so.myStoreAddress}}, {{so.myStoreState}}, {{so.myStoreZip}}
+                                {{so.myStoreAddress}}, {{so.myStoreCity}}, {{so.myStoreState}}, {{so.myStoreZip}}
                                 <br>
                                 {{so.myStorePhone}} - Store #{{so.myStoreUnit}}
                             </span>
                             <br>
                             <br>
-                            <a ng-href="{{so.myStoreLink}}">Shop Store Inventory</a> | <span class="font--cta">My Store</span> | <a class="primary" ng-href="http://maps.apple.com/?saddr=Current%20Location&amp;daddr={{so.myStoreAddress}} {{so.myStoreState}} {{so.myStoreState}}" target="_blank">Get Directions</a>
+                            <a rel="nofollow" ng-href="{{so.myStoreLink}}">Shop Store Inventory</a> | <span class="font--cta">My Store</span> | <a class="primary" ng-href="http://maps.apple.com/?saddr=Current%20Location&amp;daddr={{so.myStoreAddress}} {{so.myStoreState}} {{so.myStoreState}}" target="_blank">Get Directions</a>
                             <div class="padding-vert-xs font--gray1">
                                 <table>
                                     <tbody>
@@ -226,7 +232,7 @@
                             <a ng-href="/d/store.jsp?{{stores.city}}&amp;store={{stores.unit}}"><strong class="font--cta">{{stores.city}}, {{stores.state}}</strong></a> - <strong>{{stores.storeType}}</strong>
                             <br>
                             <span>
-                                {{stores.address}}, {{stores.state}} {{stores.zip}}
+                                {{stores.address}}, {{stores.city}}, {{stores.state}} {{stores.zip}}
                                 <br>
                                 {{stores.phone}} - Store #{{stores.unit}}
                             </span>
@@ -403,8 +409,8 @@
                 <div class="input-append">
                     <form action="" id="zipSubmit_form" name="zipSubmit_form" class="form-horizontal padding-vert-xs ng-pristine ng-valid" ng-submit="header.zipCodeSubmit(zipSubmit_form.$valid)" novalidate="">
                         <label class="sr-only" for="search">Search SearsOutlet</label>
-                        <div class="input-group col-xs-7 col-xs-offset-3">
-                            <input type="text" name="ZIP_CODE" value="" placeholder="Enter your Zip Code" id="localZipCode" class="form-control" maxlength="5" ng-maxlength="5" ng-minlenght="5" ng-model="header.zipcode">
+                        <div class="input-group col-xs-12 col-md-7 col-md-offset-3">
+                            <input type="tel" name="ZIP_CODE" value="" placeholder="Enter your Zip Code" id="localZipCode" class="form-control" maxlength="5" ng-maxlength="5" ng-minlenght="5" ng-model="header.zipcode">
                             <div class="input-group-addon font--light bg--cta bordered--cta2 cursor--pointer" ng-click="header.zipCodeSubmit(zipSubmit_form.$valid)">Submit</div>
                         </div>
                         <br>
@@ -436,10 +442,7 @@
                             Thanks, for your feedback. <a href="#" class="feedbackModal" data-dismiss="modal"><strong>Close this window</strong></a>
                         </div>
 
-                        <div class="col-xs-3">
-                            <img src="/s/u/static/images/c/logos/logo-feedback.png" alt="Sears Outlet Logo" class="img-responsive">
-                        </div>
-                        <div class="col-xs-9 font-12 lh-sm">
+                        <div class="col-xs-12 font-12 lh-sm">
                             At Sears Outlet we love to hear from our customers. We appreciate your thoughts about how our website is working for you. Your input and opinion willenable us to constantly improve. Thanks for your help.
                             <br>
                             <br>
@@ -545,9 +548,9 @@
                 <span id="goToCartLink" class="cursor--pointer" ng-click="header.showStoreLocator()">
                     <i class="fa fa-map-marker font--gray1"></i>
                 </span>
-                <a ng-href="{{so.dodLink}}">
-                    <i class="fa fa-gift padding-horiz-md font--gray1"></i>
-                </a>
+                <span id="mobile--chat-icon" class="247--chat hide">
+                    <i class="fa fa-comment padding-horiz-md font--gray1"></i>
+                </span>
                 <span id="goToCartLink" class="cursor--pointer" ng-click="header.viewCart()">
                     <i class="fa fa-shopping-cart font--gray1"></i>
                 </span>
@@ -569,7 +572,7 @@
             <div id="mobileStoreLocatorList" class="font-12 lh-sm clear bordered--xs" ng-show="so.myStoreDistance">
                 <div id="myStoreList" class="padding-xs bordered--bottom" ng-show="so.myStoreAddress">
                     <span class="pull-right">{{so.myStoreDistance}} mi</span>
-                    <a ng-href="{{so.myStoreLink}}"><strong class="font--cta">{{so.myStoreCity}}</strong></a> - <strong>{{so.myStoreType}}</strong>
+                    <a rel="nofollow" ng-href="{{so.myStoreLink}}"><strong class="font--cta">{{so.myStoreCity}}</strong></a> - <strong>{{so.myStoreType}}</strong>
                     <br>
                     <span>
                         {{so.myStoreAddress}}, {{so.myStoreState}}, {{so.myStoreZip}}
@@ -619,14 +622,14 @@
                     </span>
                     <br>
                     <br>
-                    <a ng-href="{{so.myStoreLink}}">Shop Store Inventory</a> | <span class="font--cta">My Store</span> | <a class="primary" ng-href="http://maps.apple.com/?saddr=Current%20Location&amp;daddr={{so.myStoreAddress}} {{so.myStoreState}} {{so.myStoreState}}" target="_blank">Get Directions</a>
+                    <a rel="nofollow" ng-href="{{so.myStoreLink}}">Shop Store Inventory</a> | <span class="font--cta">My Store</span> | <a class="primary" ng-href="http://maps.apple.com/?saddr=Current%20Location&amp;daddr={{so.myStoreAddress}} {{so.myStoreState}} {{so.myStoreState}}" target="_blank">Get Directions</a>
                 </div>
                 <div ng-repeat="stores in header.storeLists.stores" class="padding-xs bordered--bottom" ng-hide="{{stores.address === so.myStoreAddress}}">
                     <span class="pull-right">APX. {{stores.distance}} mi<sup>*</sup></span>
                     <a ng-href="/d/store.jsp?{{stores.city}}&amp;store={{stores.unit}}"><strong class="font--cta">{{stores.city}}, {{stores.state}}</strong></a> - <strong>{{stores.storeType}}</strong>
                     <br>
                     <span>
-                        {{stores.address}}, {{stores.state}} {{stores.zip}}
+                        {{stores.address}}, {{stores.city}}, {{stores.state}} {{stores.zip}}
                         <br>
                         <a href="tel:{{stores.phone}}">{{stores.phone}}</a> - Store #{{stores.unit}}
                     </span>
@@ -676,48 +679,7 @@
                                         </tr>
                                     </tbody>
                                 </table>
-                            </div>
-                    <div class="padding-vert-xs font--gray1">
-                        <table>
-                            <tbody>
-                                <tr>
-                                    <td class="text-right"><strong>Mon:</strong>
-                                    </td>
-                                    <td>&nbsp;&nbsp;{{so.myStoreMon}}</td>
-                                </tr>
-                                <tr>
-                                    <td class="text-right"><strong>Tue:</strong>
-                                    </td>
-                                    <td>&nbsp;&nbsp;{{so.myStoreTue}}</td>
-                                </tr>
-                                <tr>
-                                    <td class="text-right"><strong>Wed:</strong>
-                                    </td>
-                                    <td>&nbsp;&nbsp;{{so.myStoreWed}}</td>
-                                </tr>
-                                <tr>
-                                    <td class="text-right"><strong>Thu:</strong>
-                                    </td>
-                                    <td>&nbsp;&nbsp;{{so.myStoreThu}}</td>
-                                </tr>
-                                <tr>
-                                    <td class="text-right"><strong>Fri:</strong>
-                                    </td>
-                                    <td>&nbsp;&nbsp;{{so.myStoreFri}}</td>
-                                </tr>
-                                <tr>
-                                    <td class="text-right"><strong>Sat:</strong>
-                                    </td>
-                                    <td>&nbsp;&nbsp;{{so.myStoreSat}}</td>
-                                </tr>
-                                <tr>
-                                    <td class="text-right"><strong>Sun:</strong>
-                                    </td>
-                                    <td>&nbsp;&nbsp;{{so.myStoreSun}}</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
+                         </div>              
                 </div>
             </div>
             <div class="font-10 lh-1">
@@ -726,15 +688,26 @@
         </section>
     </div>
 </section>
-            
+		            
+ 
+ 
+     
+     
 <section id="lowerHeader" class="bg--gray0 padding-sm hidden-xs hidden-sm bordered--bottom bordered--primary3">
     <div class="container">
         <div class="row">
             <div id="logoWrap" class="col-xs-4 col-md-3 col-lg-2">
-                <a href="/" title="Go to Sears Outlet Homepage" id="logoLink">
-                    <img src="/s/u/static/images/c/logos/logo-checkout.svg" id="logo" class="svg-replace" data-svg="/s/u/static/images/c/logos/logo-checkout.png" alt="SearsOutlet Logo">
-                </a>
-            </div>
+            	
+                   	
+                    
+                    
+                    
+                        <a href="/" title="Go to Sears Outlet Homepage">
+                            <img src="/60870/s/rwd-checkout/images/logo-checkout-9322.svg" id="logo" data-altsrc="/60870/s/rwd-checkout/images/logo-checkout-9322.png" alt="SearsOutlet Checkout">
+                        </a>
+                    
+            	
+           	</div>
             <div id="searchWrap" class="col-xs-4">
                 <form action="/d/products.jsp" id="searchForm" name="searchForm" class="form-horizontal padding-vert-xs" ng-submit="header.searchSubmit(searchForm.$valid)" novalidate="">
                     <input type="hidden" value="srh_md" name="md">
@@ -753,6 +726,10 @@
             </div>
             <div id="dealLinks" class="col-xs-5 col-lg-6 ng-cloak no--wrap">
                 <div class="text-right lh-xl font-14 padding-vert-xxs">
+                    
+	                    <a href="#" class="btn-zibby-preapprove" ng-click="header.zibbyPreApprove();" ng-show="so.zibbyEnabled">
+			                <img src="/s/u/static/images/c/logos/logo-button-zibby.jpg" height="40" alt="Pay over time with Zibby">
+			            </a>
                         
                         
                     <a ng-href="{{so.storeLink}}" class="font--dark" ng-show="so.storeLink">
@@ -765,13 +742,13 @@
                         <strong>Deal of the Day</strong>
                     </a>
                     
-                    <a ng-href="{{so.cyberMondayLink}}" class="font--dark" ng-show="so.cyberMondayLink">
+                    <a ng-href="{{so.cyberMondayLink}}" id="cmLink" class="font--dark" ng-show="so.cyberMondayLink">
                         &nbsp;&nbsp;&nbsp;
                         <i class="fa fa-gift font--primary"></i>&nbsp;
                         <strong>{{so.cyberMondayText}}</strong>
                     </a>
                     
-                    <a href="/d/weekly-ad" target="_blank" class="font--dark" ng-show="so.weeklyAd">
+                    <a href="/d/weekly-ad" target="_blank" id="weeklyAdLink" class="font--dark" ng-show="header.marketing.weeklyAd">
                         &nbsp;&nbsp;&nbsp;
                         <i class="fa fa-calendar-o font--primary font-md"></i>&nbsp;
                         <strong>Weekly Ad</strong>
@@ -792,7 +769,7 @@
         </form>
     </div>
 </section>
-            <nav id="mainNav" class="bg--primary bordered--bottom bordered--primary3" main-menu="">
+		            <nav id="mainNav" class="bg--primary bordered--bottom bordered--primary3" main-menu="">
     <div class="container font-14">
         <strong id="mobileHeader" class="visible-xs font--light bg--primary bordered--bottom bordered--primary3 font-14 padding-sm">
             &nbsp;&nbsp;&nbsp;<i class="fa fa-tag"></i> &nbsp;&nbsp;&nbsp;Shop Departments
@@ -817,7 +794,7 @@
                 </strong>
             </span>
             <span ng-class="{'hide':!header.loggedIn}">
-                <strong class="menuParent font--light padding-horiz-sm lh-lg cursor--pointer" ng-click="header.myProfile()"><i class="fa fa-user"></i> My Profile</strong>    
+                <strong class="menuParent font--light padding-horiz-sm lh-lg cursor--pointer" ng-click="header.myProfileClick()"><i class="fa fa-user"></i> My Profile</strong>    
             </span>
             <span ng-class="{'hide':!header.loggedIn}">
                 <strong class="menuParent font--light padding-horiz-sm lh-lg cursor--pointer" ng-click="header.logout()"><i class="fa fa-sign-out"></i> Logout</strong>    
@@ -835,8 +812,8 @@
 <nav id="leftNav" class="hidden-xs hidden-sm bg--primary bordered--bottom bordered--primary3 text-shadow--xs hide">
     <div class="container">
         <div class="col-xs-2 padding--none">
-            <div class="pull-left bordered--xs bordered-top--none bordered--primary3 bg--primary4 lh-1 dropdown">
-                <div id="leftNavBtn" class="font--light btn--block padding-xs" data-toggle="dropdown" aria-expanded="false">
+            <div class="pull-left bordered--xs bordered-top--none bordered--primary3 bg--primary4 lh-1">
+                <div id="leftNavBtn" class="font--light btn--block padding-xs" ng-class="{'open':leftNavOpen}" ng-mouseover="leftNavOpen = true" ng-mouseleave="leftNavOpen = false">
                     <span class="font-14">Shop By</span>
                     <br>
                     <strong>Department</strong>
@@ -844,11 +821,11 @@
                     
                     <ul id="leftNavDropdown" class="dropdown-menu border-radius--none" role="menu">
                         <li role="presentation">
-                            <a role="menuitem" tabindex="-1" href="#" class="font--light parentMenuItem"><strong>Appliances</strong> <span class="pull-right"><i class="fa fa-chevron-right font--gray2"></i></span></a>
+                            <a role="menuitem" tabindex="-1" href="#" class="font--light parentMenuItem"><strong>Kitchen Appliances</strong> <span class="pull-right"><i class="fa fa-chevron-right font--gray2"></i></span></a>
                             <div class="flyout-menu text-center" role="menu">
                                 <div class="col-xs-4">
                                     <strong class="font--dark">
-                                        <img src="http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_931540412?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto bordered--xs">
+                                        <img src="http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_931540412?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto ">
                                         <br>
                                         Refrigerators &amp; Freezers
                                     </strong>
@@ -865,7 +842,7 @@
                                 </div>
                                 <div class="col-xs-4">
                                     <strong class="font--dark">
-                                        <img src="http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_1013910312?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto bordered--xs">
+                                        <img src="http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_1013910312?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto ">
                                         <br>
                                         Cooking
                                     </strong>
@@ -882,7 +859,36 @@
                                 </div>
                                 <div class="col-xs-4">
                                     <strong class="font--dark">
-                                        <img src="http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_881671412?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto bordered--xs">
+                                        <img src="http://c.shld.net/rpx/i/s/i/spin/10130653/prod_1530938012?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto ">
+                                        <br>
+                                        Dishwashers &amp; Disposals
+                                    </strong>
+                                    <br>
+                                    <div>					
+                                        <a href="/Dishwashers/d/products.jsp?md=ct_md&amp;cid=224" class="font--primary">Dishwashers</a>
+                                        <a href="/Disposals/d/products.jsp?md=ct_md&amp;cid=5959" class="font--primary">Disposals<br></a>
+                                    </div>
+                                    <br>
+                                    <br>
+                                    <strong class="font--dark">
+                                        Parts and Accessories
+                                    </strong>
+                                    <br>
+                                    <div>
+                                        <a href="/Refrigerator-Parts-Accessories/d/products.jsp?md=ct_md&amp;cid=2669" class="font--primary">Refrigerator Accessories</a>
+                                        <a href="/Cooking-Appliance-Accessories/d/products.jsp?md=ct_md&amp;cid=39934" class="font--primary">Cooking Accessories</a>
+                                        <a href="/Dishwasher-Disposal-Accessories/d/products.jsp?md=ct_md&amp;cid=39908" class="font--primary">Dishwasher Accessories</a>
+                                        <a href="/Air-Water-Accessories/d/products.jsp?md=ct_md&amp;cid=39819" class="font--primary">Air &amp; Water Accessories</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li role="presentation">
+                            <a role="menuitem" tabindex="-1" href="#" class="font--light parentMenuItem"><strong>Laundry Appliances</strong> <span class="pull-right"><i class="fa fa-chevron-right font--gray2"></i></span></a>
+                            <div class="flyout-menu text-center" role="menu">
+                                <div class="col-xs-4">
+                                    <strong class="font--dark">
+                                        <img src="http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_881671412?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto">
                                         <br>
                                         Laundry
                                     </strong>
@@ -892,17 +898,18 @@
                                         <a href="/Dryers/d/products.jsp?md=ct_md&amp;cid=566" class="font--primary">Dryers</a>
                                         <a href="/Washer-and-Dryer-bundles/d/products.jsp?md=ct_md&amp;cid=8742&amp;bundlePage=Y" class="font--primary">Laundry Bundles</a>
                                         <a href="/Coin-Operated-Laundry/d/products.jsp?md=ct_md&amp;cid=8033" class="font--primary">Coin Operated Laundry</a>
-                                        <a href="/Laundry-Detergent-Accessories/d/products.jsp?md=ct_md&amp;cid=647" class="font--primary">Laundry Detergent &amp; Accessories</a>
                                         <a href="/Washers-Dryers/d/category.jsp?md=ct_md&amp;cid=507" class="font--offRed">View All »</a>    
                                     </div>
-                                    <br>
-                                    <br>
+                                </div>
+                                 <div class="col-xs-4">
                                     <strong class="font--dark">
-                                        Air &amp; Water Accessories
+                                        <img src="http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_182170101?wid=80&amp;hei=80&amp;op_sharpen=1" class="margin--auto">
+                                        <br>
+                                        Parts and Accessories
                                     </strong>
                                     <br>
                                     <div>
-                                        <a href="/Air-Water-Accessories/d/products.jsp?md=ct_md&amp;cid=39819" class="font--primary">Air &amp; Water Accessories</a>
+                                        <a href="/Laundry-Detergent-Accessories/d/products.jsp?md=ct_md&amp;cid=647" class="font--primary">Laundry Accessories</a>
                                     </div>
                                 </div>
                             </div>
@@ -912,7 +919,7 @@
                             <div class="flyout-menu text-center" role="menu">
                                 <div class="col-xs-4">
                                     <strong class="font--dark">
-                                        <img src="http://c.shld.net/rpx/i/s/i/spin/10091727/prod_1619925512?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto bordered--xs">
+                                        <img src="http://c.shld.net/rpx/i/s/i/spin/10091727/prod_1619925512?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto ">
                                         <br>
                                         Mowers &amp; Tractors
                                     </strong>
@@ -935,7 +942,7 @@
                                 </div>
                                 <div class="col-xs-4">
                                     <strong class="font--dark">
-                                        <img src="http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_608278801?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto bordered--xs">
+                                        <img src="http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_608278801?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto ">
                                         <br>
                                         Outdoor Living
                                     </strong>
@@ -961,7 +968,7 @@
                                 </div>
                                 <div class="col-xs-4">
                                     <strong class="font--dark">
-                                        <img src="http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_1157068512?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto bordered--xs">
+                                        <img src="http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_1157068512?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto ">
                                         <br>
                                         Outdoor Power Equipment
                                     </strong>
@@ -982,7 +989,7 @@
                             <div class="flyout-menu text-center" role="menu">
                                 <div class="col-xs-4">
                                     <strong class="font--dark">
-                                        <img src="http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_209586201?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto bordered--xs">
+                                        <img src="http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_209586201?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto ">
                                         <br>
                                         Tools
                                     </strong>
@@ -999,7 +1006,7 @@
                                 </div>
                                 <div class="col-xs-4">
                                     <strong class="font--dark">
-                                        <img src="http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_206441001?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto bordered--xs">
+                                        <img src="http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_206441001?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto ">
                                         <br>
                                         Tool Storage
                                     </strong>
@@ -1012,11 +1019,11 @@
                             </div>
                         </li>
                         <li role="presentation">
-                            <a role="menuitem" tabindex="-1" href="#" class="font--light parentMenuItem"><strong>House &amp; Home</strong> <span class="pull-right"><i class="fa fa-chevron-right font--gray2"></i></span></a>
+                            <a role="menuitem" tabindex="-1" href="#" class="font--light parentMenuItem"><strong>Furniture &amp; Mattresses</strong> <span class="pull-right"><i class="fa fa-chevron-right font--gray2"></i></span></a>
                             <div class="flyout-menu text-center" role="menu">
                                 <div class="col-xs-4">
                                     <strong class="font--dark">
-                                        <img src="http://i.sears.com/s/i/spin/10122909/prod_1588817112?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto bordered--xs">
+                                        <img src="http://i.sears.com/s/i/spin/10122909/prod_1588817112?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto ">
                                         <br>
                                         Furniture
                                     </strong>
@@ -1028,22 +1035,10 @@
                                         <a href="/Kitchen-Dining-Furniture/d/products.jsp?md=ct_md&amp;cid=37944" class="font--primary">Kitchen &amp; Dining Furniture</a>
                                         <a href="/Office-Furniture/d/products.jsp?md=ct_md&amp;cid=37946" class="font--primary">Office Funiture</a>
                                     </div>
-                                    <br>
-                                    <br>
-                                    <strong class="font--dark">
-                                        Appliances
-                                    </strong>
-                                    <br>
-                                    <div>
-                                        <a href="/Lawn-Care-Equipment/d/products.jsp?md=ct_md&amp;cid=910" class="font--primary">Air Conditioners</a>
-                                        <a href="/Garden-Hoses-Sprinklers/d/products.jsp?md=ct_md&amp;cid=8087" class="font--primary">Fans</a>
-                                        <a href="/Outdoor-Storage/d/products.jsp?md=ct_md&amp;cid=1014" class="font--primary">Heaters</a>
-                                        <a href="/Handheld-Power-Tools/d/products.jsp?md=ct_md&amp;cid=8090" class="font--primary">Air &amp; Water Appliances</a>
-                                    </div>
                                 </div>
                                 <div class="col-xs-4">
                                     <strong class="font--dark">
-                                        <img src="http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_939897312?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto bordered--xs">
+                                        <img src="http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_939897312?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto ">
                                         <br>
                                         Mattresses &amp; Bedding
                                     </strong>
@@ -1055,37 +1050,24 @@
                                         <a href="/Mattress-Pads-Protectors/d/products.jsp?md=ct_md&amp;cid=6269" class="font--primary">Mattress Pads &amp; Protectors</a>
                                         <a href="/Bedding/d/products.jsp?md=ct_md&amp;cid=108975" class="font--primary">Bedding</a>
                                     </div>
-                                    <br>
-                                    <br>
-                                    <strong class="font--dark">
-                                        Home Decor
-                                    </strong>
-                                    <br>
-                                    <div>
-                                        <a href="/Rugs-Flooring/d/products.jsp?md=ct_md&amp;cid=5987" class="font--primary">Rugs &amp; Flooring</a>
-                                        <a href="/Home-Decor/d/products.jsp?md=ct_md&amp;cid=8250" class="font--primary">Home Decor</a>
-                                        <a href="/Lamps-Lighting/d/products.jsp?md=ct_md&amp;cid=2614" class="font--primary">Lamps &amp; Lighting</a>
-                                        <a href="/Wall-Decor/d/products.jsp?md=ct_md&amp;cid=6316" class="font--primary">Wall Decor</a>
-                                    </div>
                                 </div>
+                            </div>
+                        </li>
+                        <li role="presentation">
+                            <a role="menuitem" tabindex="-1" href="#" class="font--light parentMenuItem"><strong>House &amp; Home</strong> <span class="pull-right"><i class="fa fa-chevron-right font--gray2"></i></span></a>
+                            <div class="flyout-menu text-center" role="menu">
                                 <div class="col-xs-4">
                                     <strong class="font--dark">
-                                        <img src="http://c.shld.net/rpx/i/s/i/spin/10143379/prod_1800768612?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto bordered--xs">
-                                        <br>
-                                        Around the House
+                                        Appliances
                                     </strong>
                                     <br>
                                     <div>
-                                        <a href="/Vacuums-Floor-Care/d/products.jsp?md=ct_md&amp;cid=187" class="font--primary">Vaccuums &amp; Floor Care</a>
-                                        <a href="/Travel/d/products.jsp?md=ct_md&amp;cid=8253" class="font--primary">Luggage &amp; Suitcases</a>
-                                        <a href="/Bath/d/products.jsp?md=ct_md&amp;cid=108972" class="font--primary">Bath</a>
-                                        <a href="/Game-Room/d/products.jsp?md=ct_md&amp;cid=8202" class="font--primary">Game Room</a>
-                                        <a href="/Storage/d/products.jsp?md=ct_md&amp;cid=8265" class="font--primary">Storage</a>
-                                        <a href="/Seasonal/d/products.jsp?md=ct_md&amp;cid=8269" class="font--primary">Seasonal</a>
-                                        <a href="/Toys/d/products.jsp?md=ct_md&amp;cid=8271" class="font--primary">Toys</a>
+                                        <a href="/Lawn-Care-Equipment/d/products.jsp?md=ct_md&amp;cid=910" class="font--primary">Air Conditioners</a>
+                                        <a href="/Garden-Hoses-Sprinklers/d/products.jsp?md=ct_md&amp;cid=8087" class="font--primary">Fans</a>
+                                        <a href="/Outdoor-Storage/d/products.jsp?md=ct_md&amp;cid=1014" class="font--primary">Heaters</a>
+                                        <a href="/Handheld-Power-Tools/d/products.jsp?md=ct_md&amp;cid=8090" class="font--primary">Air &amp; Water Appliances</a>
                                     </div>
-                                    <br>
-                                    <br>
+                                    <br><br>
                                     <strong class="font--dark">
                                         Kitchen &amp; Dining
                                     </strong>
@@ -1099,6 +1081,35 @@
                                         <a href="/Kitchen-Dining/d/products.jsp?md=ct_md&amp;cid=8235" class="font--offRed">View All »</a> 
                                     </div>
                                 </div>
+                                <div class="col-xs-4">
+                                    <strong class="font--dark">
+                                        Home Decor
+                                    </strong>
+                                    <br>
+                                    <div>
+                                        <a href="/Rugs-Flooring/d/products.jsp?md=ct_md&amp;cid=5987" class="font--primary">Rugs &amp; Flooring</a>
+                                        <a href="/Home-Decor/d/products.jsp?md=ct_md&amp;cid=8250" class="font--primary">Home Decor</a>
+                                        <a href="/Lamps-Lighting/d/products.jsp?md=ct_md&amp;cid=2614" class="font--primary">Lamps &amp; Lighting</a>
+                                        <a href="/Wall-Decor/d/products.jsp?md=ct_md&amp;cid=6316" class="font--primary">Wall Decor</a>
+                                    </div>
+                                </div>
+                                <div class="col-xs-4">
+                                    <strong class="font--dark">
+                                        <img src="http://c.shld.net/rpx/i/s/i/spin/10143379/prod_1800768612?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto ">
+                                        <br>
+                                        Around the House
+                                    </strong>
+                                    <br>
+                                    <div>
+                                        <a href="/Vacuums-Floor-Care/d/products.jsp?md=ct_md&amp;cid=187" class="font--primary">Vaccuums &amp; Floor Care</a>
+                                        <a href="/Travel/d/products.jsp?md=ct_md&amp;cid=8253" class="font--primary">Luggage &amp; Suitcases</a>
+                                        <a href="/Bath/d/products.jsp?md=ct_md&amp;cid=108972" class="font--primary">Bath</a>
+                                        <a href="/Game-Room/d/products.jsp?md=ct_md&amp;cid=8202" class="font--primary">Game Room</a>
+                                        <a href="/Storage/d/products.jsp?md=ct_md&amp;cid=8265" class="font--primary">Storage</a>
+                                        <a href="/Seasonal/d/products.jsp?md=ct_md&amp;cid=8269" class="font--primary">Seasonal</a>
+                                        <a href="/Toys/d/products.jsp?md=ct_md&amp;cid=8271" class="font--primary">Toys</a>
+                                    </div>
+                                </div>
                             </div>
                         </li>
                         <li role="presentation">
@@ -1106,7 +1117,7 @@
                             <div class="flyout-menu text-center" role="menu">
                                 <div class="col-xs-4">
                                     <strong class="font--dark">
-                                        <img src="http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_1195838612?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto bordered--xs">
+                                        <img src="http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_1195838612?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto ">
                                         <br>
                                         Fitness &amp; Exercise
                                     </strong>
@@ -1123,7 +1134,7 @@
                                 </div>
                                 <div class="col-xs-4">
                                     <strong class="font--dark">
-                                        <img src="http://i.sears.com/s/i/spin/image/spin_prod_1034354912?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto bordered--xs">
+                                        <img src="http://i.sears.com/s/i/spin/image/spin_prod_1034354912?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto ">
                                         <br>
                                         Outdoors
                                     </strong>
@@ -1147,7 +1158,7 @@
                                 </div>
                                 <div class="col-xs-4">
                                     <strong class="font--dark">
-                                        <img src="http://c.shld.net/rpx/i/s/i/spin/10109242/prod_1616830912?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto bordered--xs">
+                                        <img src="http://c.shld.net/rpx/i/s/i/spin/10109242/prod_1616830912?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto ">
                                         <br>
                                         Wheeled Sports
                                     </strong>
@@ -1165,7 +1176,7 @@
                             <div class="flyout-menu text-center" role="menu">
                                 <div class="col-xs-4">
                                     <strong class="font--dark">
-                                        <img src="http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_497975601?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto bordered--xs">
+                                        <img src="http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_497975601?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto ">
                                         <br>
                                         TV &amp; Home Theater
                                     </strong>
@@ -1193,7 +1204,7 @@
                                 </div>
                                 <div class="col-xs-4">
                                     <strong class="font--dark">
-                                        <img src="http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_864692412?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto bordered--xs">
+                                        <img src="http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_864692412?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto ">
                                         <br>
                                         Electronics
                                     </strong>
@@ -1209,7 +1220,7 @@
                                 </div>
                                 <div class="col-xs-4">
                                     <strong class="font--dark">
-                                        <img src="http://c.shld.net/rpx/i/s/i/spin/10103564/prod_1544408612?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto bordered--xs">
+                                        <img src="http://c.shld.net/rpx/i/s/i/spin/10103564/prod_1544408612?wid=70&amp;hei=70&amp;op_sharpen=1" class="margin--auto ">
                                         <br>
                                        Computers &amp; Tablets
                                     </strong>
@@ -1240,7 +1251,7 @@
                 </a>
             </div>
         </div>
-        <div class="pull-right bordered--xs bordered-top--none bordered-bottom--none bordered--primary3 padding-xs lh-1 dropdown dropdown-right" ng-show="so.weeklyAd">
+        <div class="pull-right bordered--xs bordered-top--none bordered-bottom--none bordered--primary3 padding-xs lh-1 dropdown dropdown-right" ng-show="header.marketing.weeklyAd">
             <div>
                 <a href="/d/weekly-ad" target="_blank">
                     <strong class="font--light font-12">View Our</strong>
@@ -1252,7 +1263,10 @@
         </div>
     </div>
 </nav>    
-        </header>
+           		
+           	
+           
+    </header>
         
         
         
@@ -1439,7 +1453,7 @@
 
 
 <!--  Omniture s_code.js call -->
-<script type="text/javascript">OMTR_ACCT_NAME='searsoutletcom,searsoutletglobalrollup';</script><script type="text/javascript" src="/56986/s/u/static/js/thirdParty/s_code.min.js" charset="utf-8"></script>
+<script type="text/javascript">OMTR_ACCT_NAME='searsoutletcom,searsoutletglobalrollup';</script><script type="text/javascript" src="/60870/s/u/static/js/thirdParty/s_code.min.js" charset="utf-8"></script>
 
 <!--  custom omniture js calls -->
 <script language="JavaScript" type="text/javascript">
@@ -2243,13 +2257,19 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 height="1" width="1" border="0" alt="" /></noscript> <!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.22.1. -->	
         
+        <inout type="hidden" id="site-origin" name="site-origin" value="outl">
         
+  		
+  			
+	        
 
 
 
 
 
 
+
+<input type="hidden" name="cartURL" value="/d/cart/view">
 
 <footer ng-controller="footerCtrl as footer">
 	<section id="upperFooter" class="bg--primary9">
@@ -2285,14 +2305,17 @@ height="1" width="1" border="0" alt="" /></noscript> <!--/DO NOT REMOVE/-->
 				<div class="col-xs-6">
 					<div class="row">
 						<div class="col-xs-6">
-							<strong>About Sears Outlet</strong> <br> <a target="_blank" href="http://www.cj.com" class="affiliateFooter" ng-click="footer.omnitureEvents('Affiliate Program')">Affiliate
-								Program</a> <br> <a target="_blank" href="http://shos.com/careers.htm" class="careersFooter" ng-click="footer.omnitureEvents('Careers')">Careers</a> <br>
+							<strong>About Sears Outlet</strong> <br> <!-- <a target="_blank"
+								  href="http://www.cj.com" class="affiliateFooter"
+								ng-click="footer.omnitureEvents('Affiliate Program')">Affiliate
+								Program</a> <br> --> <a target="_blank" href="http://shos.com/careers.htm" class="careersFooter" ng-click="footer.omnitureEvents('Careers')">Careers</a> <br>
 							<a href="/d/static/customer_service.jsp" title="Customer Service" target="_blank" class="customerService">Customer Service</a> <br>
 							<a href="/d/static/faq.jsp" title="FAQs" target="_blank" class="faq">FAQs</a> <br> <a class="primaryLight" href="/d/our-brands.jsp" title="Brands">Our Brands</a> <br>
 							<a target="_blank" href="/d/stores_list.jsp">Store List</a>
+							
 						</div>
 						<div class="col-xs-6">
-							<br> <a target="_blank" href="http://sears.com/licenseblock" ng-click="footer.omnitureEvents('License Info')">License
+							<br> <a target="_blank" href="http://www.sears.com/en_us/customer-service/policies/license-information.html" ng-click="footer.omnitureEvents('License Info')">License
 								Info</a> <br> <a target="_blank" href="/d/static/privacy_policy.jsp?omFlag=true">Privacy
 								Policy</a> / <a target="_blank" href="/d/static/ca_privacy_policy.jsp?omFlag=true">CA
 								Privacy Policy</a> <br> <a target="_blank" href="/d/static/product_recalls.jsp?omFlag=true">Product
@@ -2301,6 +2324,13 @@ height="1" width="1" border="0" alt="" /></noscript> <!--/DO NOT REMOVE/-->
 								Certified</a> <br> <a target="_blank" href="/d/static/terms_of_use.jsp?omFlag=true">Terms of Use</a>
                             <br>
                             <a target="_blank" href="http://www.searsoutlet.com/w/rwd/landing-pages/repair-information.html">Product Repair Information </a>
+                            <br>                            
+                            
+								<a target="_blank" href="http://www.searsoutlet.com/w/rwd/zibby/">Rent to Own</a>
+							
+							 <br>
+                            <a target="_blank" href="/d/static/shipping_delivery.jsp?omFlag=true">Shipping and Delivery Information </a>
+                            <br>
 						</div>
 					</div>
 				</div>
@@ -2320,7 +2350,7 @@ height="1" width="1" border="0" alt="" /></noscript> <!--/DO NOT REMOVE/-->
 							
 							
 								
-									<a href="/d/deals/coupons-and-deals" class="primaryLight">Coupons</a>
+									<a href="/d/coupons-and-deals" class="primaryLight">Coupons</a>
 									<br>
 								
 									<a href="/d/deals" class="primaryLight">Current Deals</a>
@@ -2329,10 +2359,13 @@ height="1" width="1" border="0" alt="" /></noscript> <!--/DO NOT REMOVE/-->
 									<a href="/d/deal-of-the-day" class="primaryLight">Deal Of the Day</a>
 									<br>
 								
-									<a href="/d/deals/memorialdaydeals" class="primaryLight">Memorial Day Deals</a>
+									<a href="/d/deals/veterandaysales" class="primaryLight">Veteran Day Deals</a>
 									<br>
 								
-									<a href="/d/deals/mothersdaydeals" class="primaryLight">Mother's Day Deals</a>
+									<a href="d/deals/black-friday-deals" class="primaryLight">BlackFriday Deals</a>
+									<br>
+								
+									<a href="/d/deals/cyber-monday-deals" class="primaryLight">CyberMonday Deals</a>
 									<br>
 								
 									<a href="" class="primaryLight"></a>
@@ -2347,6 +2380,9 @@ height="1" width="1" border="0" alt="" /></noscript> <!--/DO NOT REMOVE/-->
 	</section>
 	<i id="backToTop" class="fa fa-angle-up font-72 bg--light text-center font--text cursor--pointer z9999" ng-click="footer.scrollToTop()"></i>
 </footer>        
+         		
+         		
+         
         
         
 
@@ -2356,7 +2392,7 @@ height="1" width="1" border="0" alt="" /></noscript> <!--/DO NOT REMOVE/-->
 
 
 
-<script type="text/javascript">OMTR_ACCT_NAME='searsoutletcom,searsoutletglobalrollup';</script><script type="text/javascript" src="/56986/s/u/static/js/thirdParty/s_code.min.js" charset="utf-8"></script>
+<script type="text/javascript">OMTR_ACCT_NAME='searsoutletcom,searsoutletglobalrollup';</script><script type="text/javascript" src="/60870/s/u/static/js/thirdParty/s_code.min.js" charset="utf-8"></script>
 
 
 <!-- Omniture ================ -->
@@ -2373,21 +2409,23 @@ height="1" width="1" border="0" alt="" /></noscript> <!--/DO NOT REMOVE/-->
 
 
 
+
  
    
 <!-- dataLayer ================ --> 
+
 <script>
     var so = {
         page: '',
         "preferInStore": "false",
-        buildNumber: '56986',
+        buildNumber: '60870',
         cookieDomain: 'searsoutlet.com',
         expireDate: new Date('1/1/2020'),
         userID: '0',
         filteredStores: '',
         header: {
-            drop1Link: '/d/deals.jsp',
-            drop1SRC: '/20160429/w/img/0429_TippyTop.jpg'
+            drop1Link: '',
+            drop1SRC: ''
         },
         zip: '',
         myStore: '',
@@ -2425,10 +2463,30 @@ height="1" width="1" border="0" alt="" /></noscript> <!--/DO NOT REMOVE/-->
         weeklyAd : '',
         dodLink: '',
         yotpoUrl: '',
+        "responsysId": "cct?_ri_=X0Gzc2X%3DWQpglLjHJlTQGu9czehEjEizbRDzgSfraJMzdhG&_ei_=EugbPZtR1eMpLA5jw-3UxiM&action=once",
+        "fbpixelId":"1441399782777699",
+        "fbId":"6008162570777",
+        "amoUserId":"4012",
+        "googleConversionId":"938864415",
+        "googleConversionLabel":"lEnNCJ7Pg2AQn97XvwM",
+        "bingId":"5439249",
+        "ga":"UA-6081679-5",
+        "adAccountId":"",
         reviewCaptureEnabled: true
     }
     
-      
+    var commonJSON =  '/w/cms/common.json';
+    var commonPreviewJSON =  '/w/cms/common-Preview.json'; 
+    
+    
+    
+       var _zibby_config = {
+    		api_key: "39e0457b4f8ce686af5a92c346280ce6bd806750",
+    		environment: "https://www.zibby.com"
+		};
+
+        so.zibbyEnabled = true;
+       
     
     //if is kiosk
     
@@ -2641,13 +2699,13 @@ height="1" width="1" border="0" alt="" /></noscript> <!--/DO NOT REMOVE/-->
                 subCat: [
                     	
                         {
-                            subUrl: "/Mowers-Tractors/d/products.jsp?md=ct_md&cid=944",
-                            subName:  "Mowers & Tractors",
+                            subUrl: "/Outdoor-Power-Equipment/d/products.jsp?md=ct_md&cid=8077",
+                            subName:  "Outdoor Power Equipment",
                         },
                     	
                         {
-                            subUrl: "/Outdoor-Power-Equipment/d/products.jsp?md=ct_md&cid=8077",
-                            subName:  "Outdoor Power Equipment",
+                            subUrl: "/Mowers-Tractors/d/products.jsp?md=ct_md&cid=944",
+                            subName:  "Mowers & Tractors",
                         },
                     	
                         {
@@ -2658,6 +2716,11 @@ height="1" width="1" border="0" alt="" /></noscript> <!--/DO NOT REMOVE/-->
                         {
                             subUrl: "/Handheld-Power-Tools/d/products.jsp?md=ct_md&cid=8090",
                             subName:  "Handheld Power Tools",
+                        },
+                    	
+                        {
+                            subUrl: "/Lawn-and-Garden-Bundles/d/products.jsp?md=ct_md&cid=8805",
+                            subName:  "Lawn  and Garden Bundles",
                         },
                     	
                         {
@@ -2692,6 +2755,16 @@ height="1" width="1" border="0" alt="" /></noscript> <!--/DO NOT REMOVE/-->
                             subUrl: "/Grill-Accessories/d/products.jsp?md=ct_md&cid=39765",
                             subName:  "Grill Accessories",
                         },
+                    	
+                        {
+                            subUrl: "/Swimming-Pools-Accessories/d/products.jsp?md=ct_md&cid=139767",
+                            subName:  "Swimming Pools & Accessories",
+                        },
+                    	
+                        {
+                            subUrl: "/Pest-Control/d/products.jsp?md=ct_md&cid=139789",
+                            subName:  "Pest Control",
+                        },
                     
                 ],
             },         							
@@ -2714,7 +2787,7 @@ height="1" width="1" border="0" alt="" /></noscript> <!--/DO NOT REMOVE/-->
                         },
                     	
                         {
-                            subUrl: "/Bedroom-Furniture/d/products.jsp?md=ct_md&cid=37940&bundlePage=Y",
+                            subUrl: "/Bedroom-Furniture/d/products.jsp?md=ct_md&cid=37940",
                             subName:  "Bedroom Furniture",
                         },
                     	
@@ -2777,7 +2850,7 @@ height="1" width="1" border="0" alt="" /></noscript> <!--/DO NOT REMOVE/-->
                 subCat: [
                     	
                         {
-                            subUrl: "/Tool-Storage/d/products.jsp?md=ct_md&cid=143",
+                            subUrl: "/Tool-Storage/d/products.jsp?md=ct_md&cid=143&bundlePage=Y",
                             subName:  "Tool Storage",
                         },
                     	
@@ -2812,6 +2885,11 @@ height="1" width="1" border="0" alt="" /></noscript> <!--/DO NOT REMOVE/-->
                         {
                             subUrl: "/Interior-Accessories/d/products.jsp?md=ct_md&cid=108850",
                             subName:  "Interior Accessories",
+                        },
+                    	
+                        {
+                            subUrl: "/Car-Care-Detailing/d/products.jsp?md=ct_md&cid=140167",
+                            subName:  "Car Care & Detailing",
                         },
                     
                 ],
@@ -2943,7 +3021,7 @@ height="1" width="1" border="0" alt="" /></noscript> <!--/DO NOT REMOVE/-->
                         },
                     	
                         {
-                            subUrl: "/Home-D%C3%A9cor/d/products.jsp?md=ct_md&cid=8248&bundlePage=Y",
+                            subUrl: "/Home-D%C3%A9cor/d/products.jsp?md=ct_md&cid=8248",
                             subName:  "Home Décor",
                         },
                     	
@@ -2996,6 +3074,21 @@ height="1" width="1" border="0" alt="" /></noscript> <!--/DO NOT REMOVE/-->
                             subUrl: "/Bedding/d/products.jsp?md=ct_md&cid=108975",
                             subName:  "Bedding",
                         },
+                    	
+                        {
+                            subUrl: "/Office-Products-Supplies/d/products.jsp?md=ct_md&cid=139353",
+                            subName:  "Office Products & Supplies",
+                        },
+                    	
+                        {
+                            subUrl: "/Power-Cables/d/products.jsp?md=ct_md&cid=139359",
+                            subName:  "Power & Cables",
+                        },
+                    	
+                        {
+                            subUrl: "/Water-Systems/d/products.jsp?md=ct_md&cid=139369",
+                            subName:  "Water Systems",
+                        },
                     
                 ],
             },         							
@@ -3012,15 +3105,22 @@ height="1" width="1" border="0" alt="" /></noscript> <!--/DO NOT REMOVE/-->
         
 		 
         
-            so.weeklyAd = true;
-        
         
            
-                so.dodLink = '/17-Inch-Hand-Tool-Box/d/product_details.jsp?stxt=49096&md=srh1_md&pn=1&ps=24&pid=147856&mode=buyNewOnly&adcell=DOD';
+                so.dodLink = '/Southfield-3-Piece-Luggage-Set-Red/d/product_details.jsp?stxt=13049&md=srh1_md&pn=1&ps=24&pid=146171&mode=buyNewOnly&adcell=DOD';
             
     
         
-</script> 
+</script>
+<script>
+    //defer add this until the page is done loading
+    var addthis_config = {}; addthis_config.data_track_addressbar = false;
+    
+    setTimeout(function(){
+        (function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51f6df5e6e507890";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})( );
+    }, 10000);  
+</script>
+ 
 		
     
 
@@ -3036,7 +3136,7 @@ height="1" width="1" border="0" alt="" /></noscript> <!--/DO NOT REMOVE/-->
     }
    
     // -- Br vars ================ -->
-    var session_id = "E236F84D38431516D5CDB90CA0A1373B.soapp404pw1";
+    var session_id = "AAAA9FDC93037BB14785379245B0BA88.soapp406pw1";
     var user_id = " ";
     var accId = "4075";
     var br_data = {};
@@ -3053,7 +3153,7 @@ height="1" width="1" border="0" alt="" /></noscript> <!--/DO NOT REMOVE/-->
     br_data.is_conversion = "0";
     br_data.basket_value = "";
     /* --- End parameter section --- */
-    var file = ("https:" == document.location.protocol) ? "https://cdns.brsrvr.com/v1/br-trk-4075.js" : "http://cdn.brcdn.com/v1/br-trk-4075.js";
+    var file = ("https:" == document.location.protocol) ? "https://cdn.brcdn.com/v1/br-trk-4075.js" : "http://cdn.brcdn.com/v1/br-trk-4075.js";
     document.write(unescape("%3Cscript src='" + file + "' type='text/javascript'%3E%3C/script%3E"));
 
     try {
@@ -3069,156 +3169,18 @@ height="1" width="1" border="0" alt="" /></noscript> <!--/DO NOT REMOVE/-->
   
     
 <!-- Scripts ================ -->
-<script async="" src="/56986/s/u/static/js/build/so.min.js"></script>
+<script async="" src="/60870/s/u/static/js/build/so.min.js"></script>
        
 <!-- Third Party ================ -->
-<script>
-    /* ================================================================ */
-    /* GUA Init
-    /* ================================================================ */ 
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-    ga('create', 'UA-6081679-5', {'siteSpeedSampleRate': 25});
-     
-    /* ================================================================ */
-    /* GUA Logic
-    /* ================================================================ */
-    setTimeout(function(){ 
-        switch (so.page) {
-            case "home":
-                uaHome();
-                break;
-            default:
-                //console.log("No GA to run");        
-         }  
-      }, 100); 
-     
-    function uaHome(){
-        ga('set', 'page', '/RWDv2-homepage');
-    };
     
-    
-    
-    /* ================================================================ */
-    /* GUA Enhanced Analytics Init
-    /* ================================================================ */ 
-    ga("send", "pageview");
-    ga("require", "ec", "ec.js");
-    
-    
-    
-    
-    /* ================================================================ */
-    /* Click Events
-    /* ================================================================ */
-    function addListener(element, type, callback) {
-        if(element.addEventListener) element.addEventListener(type, callback);
-        else if(element.attachEvent) element.attachEvent('on' + type, callback);
-    }
-
-    function gaReady() {
-        try{
-            //header
-            addListener(document.getElementById('emailSavingsLink'), 'click', function() {
-                ga('send', 'event', 'button', 'click', 'email-savings');
-            });
-
-            addListener(document.getElementById('orderStatusLink'), 'click', function() {
-                ga('send', 'event', 'button', 'click', 'order-status-link');
-            });
-
-            addListener(document.getElementById('yotpoHeaderBtn'), 'click', function() {
-                ga('send', 'event', 'button', 'click', 'rate-us-header');
-            });
-
-            addListener(document.getElementById('localStoreLink'), 'click', function() {
-                ga('send', 'event', 'button', 'click', 'local-store-link');
-            });
-
-            addListener(document.getElementById('userName'), 'click', function() {
-                ga('send', 'event', 'button', 'click', 'logged-in-profile-link');
-            });
-
-            addListener(document.getElementById('userLogout'), 'click', function() {
-                ga('send', 'event', 'button', 'click', 'logout-link');
-            });
-
-            addListener(document.getElementById('openZipModal'), 'click', function() {
-                ga('send', 'event', 'button', 'click', 'change-zip');
-            });
-
-            addListener(document.getElementById('goToCartLink'), 'click', function() {
-                ga('send', 'event', 'button', 'click', 'view-cart');
-            });
-
-            addListener(document.getElementById('logoLink'), 'click', function() {
-                ga('send', 'event', 'button', 'click', 'logo');
-            });
-
-            addListener(document.getElementById('dodLink'), 'click', function() {
-                ga('send', 'event', 'button', 'click', 'deal-of-the-day-link');
-            });
-        }catch(err){}
-        
-        //homepage
-        try{
-            addListener(document.getElementById('hero'), 'click', function() {
-                ga('send', 'event', 'banner', 'click', 'hero-banner');
-            });
-
-            addListener(document.getElementById('drop2'), 'click', function() {
-                ga('send', 'event', 'banner', 'click', 'dropzone1-banner');
-            });
-
-            addListener(document.getElementById('trending'), 'click', function() {
-                ga('send', 'event', 'item', 'click', 'trending-item');
-            });
-
-            addListener(document.getElementById('drop3'), 'click', function() {
-                ga('send', 'event', 'banner', 'click', 'dropzone2-banner');
-            });
-
-            addListener(document.getElementById('popularItems'), 'click', function() {
-                ga('send', 'event', 'item', 'click', 'popular-item');
-            });
-
-            addListener(document.getElementById('previouslyViewed'), 'click', function() {
-                ga('send', 'event', 'item', 'click', 'previously-viewed-item');
-            });
-
-            addListener(document.getElementById('drop4'), 'click', function() {
-                ga('send', 'event', 'banner', 'click', 'dropzone4-banner');
-            });
-
-            addListener(document.getElementById('topCategories'), 'click', function() {
-                ga('send', 'event', 'banner', 'click', 'top-category');
-            });
-
-            addListener(document.getElementById('topBrands'), 'click', function() {
-                ga('send', 'event', 'banner', 'click', 'top-brands');
-            });
-
-            addListener(document.getElementById('apparelSection'), 'click', function() {
-                ga('send', 'event', 'banner', 'click', 'apparel-banner');
-            });
-        }catch(err){}
-    };
-    
-    function gaSearch(string){
-        ga('send', 'event', 'search', 'submit', 'search - ' + string);    
-    };
-</script>
-    
+<!-- Sidecar Javascript package  -->
+<script src="https://d3v27wwd40f0xu.cloudfront.net/js/tracking/sidecar_searsoutlet.js" type="text/javascript"></script>
 
 <script> 
     function initMap1() {}  //callback for googlemaps api
     
-    window.onload = function() {    //for automation testing
-        gaReady();
-        
+    window.onload = function() {    //for automation testing    
         document.getElementsByTagName('body')[0].className+=' loadComplete'
       	
         	setKanaCookies('null','null','null','null');
@@ -3237,6 +3199,12 @@ height="1" width="1" border="0" alt="" /></noscript> <!--/DO NOT REMOVE/-->
             }
             
         }
+            
+            try{
+                bootstrapChat();    
+            }catch(err){
+                console.log(err);
+            }
     };
 </script>
 
@@ -3247,9 +3215,13 @@ height="1" width="1" border="0" alt="" /></noscript> <!--/DO NOT REMOVE/-->
     
 </script>
     
-<div class="hide">
-<script async="" src="//s.btstatic.com/tag.js">{ site: "wQmNuKA" }</script>
-<noscript><iframe class="hide" src="//s.thebrighttag.com/iframe?c=wQmNuKA" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></noscript></div>
+
+    
+
+ 
+ 
+    <script src="//www.searsoutlet.com/60870/w/tag-manager/so-tag.js"></script>
+
         
 
 
@@ -3263,41 +3235,59 @@ height="1" width="1" border="0" alt="" /></noscript> <!--/DO NOT REMOVE/-->
 
      
         
-			    <script async="" type="text/javascript" src="/56986/s/psp247/247tag.js"> </script>
-			            <script type="text/javascript">
-			                var _tfsq = _tfsq || []; 
-			                var loggedIn = 0;
-			                top._tfsq.push(['page' ,{
-			                        //"dealOfTheDay":"", 
-			                        //"cartRemove":"sample",
-			                        "shipping":"", 
-			                        "delivery":"",
-			                        "regularPrice":"", 
-			                        "actualPriceRange":"", 
-			                        "productDetails":"", 
-			                        "cartProductsDetails":"",
-			                        "storeLocation":' ', 
-			                        "itemNumber":"", 
-			                        "category":"",
-			                        "subCategory":"",
-			                        "storeType":"",
-			                        "navigationPath":"null", 
-			                        "totalItemCount":"0",
-			                        "loginFlag":"false",
-			                        "orderAmount":"", 
-			                        "orderId":"", 
-			                        "auditId":"soapp404p.1462192007415",
-			                        "paymentType":"",
-			                        "conversionStageNumber":"",
-			                        "conversionStage": "",
-			                        "fullfillmentType":"",
-			                        "protectionAgreement":"false",
-			                        
-			                        
-			                        },
-			                'pageload']);    
-			            </script>
-			            <div id="staticChatButton"></div>
+            <script>
+           	 function bootstrapChat(){
+                  setTimeout(function(){
+                        var e=document.createElement("script");
+                        e.type="text/javascript",
+                            e.async=true,
+                            e.src='/60870/s/psp247/247tag.js';
+
+                        var t=document.getElementsByTagName("script")[0];
+                        t.parentNode.insertBefore(e,t);
+
+                        setTimeout(function(){
+                            //vars
+                            try{
+                                var _tfsq = _tfsq || []; 
+                                var loggedIn = 0;
+                                top._tfsq.push(['page' ,{
+                                    //"dealOfTheDay":"", 
+                                    //"cartRemove":"sample",
+                                    "shipping":"", 
+                                    "delivery":"",
+                                    "regularPrice":"", 
+                                    "actualPriceRange":"", 
+                                    "productDetails":"", 
+                                    "cartProductsDetails":"",
+                                    "storeLocation":' ', 
+                                    "itemNumber":"", 
+                                    "category":"",
+                                    "subCategory":"",
+                                    "storeType":"",
+                                    "navigationPath":"null", 
+                                    "totalItemCount":"0",
+                                    "loginFlag":"false",
+                                    "orderAmount":"", 
+                                    "orderId":"", 
+                                    "auditId":"9322406p.1479572847134",
+                                    "paymentType":"",
+                                    "conversionStageNumber":"",
+                                    "conversionStage": "",
+                                    "fullfillmentType":"",
+                                    "protectionAgreement":"false",
+                                    
+                                    
+                                    },
+                                'pageload']);    
+                            }catch(err){
+                                console.log(err);
+                            }  
+                        },3000);   
+                    },5000);
+				};
+            </script>
+            <div id="staticChatButton"></div>
 	    
       
 
@@ -3374,4 +3364,4 @@ height="1" width="1" border="0" alt="" /></noscript> <!--/DO NOT REMOVE/-->
 </script>
 <script src="http://cts.channelintelligence.com/98724734_landing.js"></script>
 			
-</body></html>
+</inout></body></html>
