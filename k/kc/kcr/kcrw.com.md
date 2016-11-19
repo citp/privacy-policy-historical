@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kcrw.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325035029id_/http%3A//www.kcrw.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcrw.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119030625id_/http%3A//www.kcrw.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — KCRW
+# About KCRW 89.9 FM | Music, NPR News, Culture Los Angeles
 
 At KCRW Online, we recognize the importance of privacy to visitors of our Web site. This privacy policy explains what type of information is collected from you when you visit our Web site and how that information may be used.
 
