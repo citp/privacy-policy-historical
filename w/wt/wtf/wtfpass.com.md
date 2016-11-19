@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtfpass.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530114322id_/http%3A//wtfbucks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtfpass.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119032541id_/http%3A//wtfbucks.com/privacy.html) for the most accurate reproduction.*
 
 # CUSTODIAN OF RECORDS - U.S.C. TITLE 18, SECTION 2257 COMPLIANCE
 
