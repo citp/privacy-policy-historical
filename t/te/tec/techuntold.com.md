@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techuntold.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617160222id_/http%3A//www.techuntold.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techuntold.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119163149id_/http%3A//www.techuntold.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TechUntold
+# Privacy Policy
 
 At www.techuntold.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.techuntold.com and how it is used. 
 
