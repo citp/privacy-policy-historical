@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elementk.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421123341id_/http%3A//www.skillsoft.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elementk.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119042205id_/http%3A//www.skillsoft.com/privacy.asp) for the most accurate reproduction.*
 
 # Skillsoft Privacy Policy and Cookies Statement
 
