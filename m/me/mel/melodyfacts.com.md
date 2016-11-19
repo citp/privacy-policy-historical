@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melodyfacts.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325123927id_/http%3A//melodyfacts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melodyfacts.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119011711id_/http%3A//melodyfacts.com/privacy) for the most accurate reproduction.*
 
 # Melody Facts
 
