@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nau.edu privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617164939id_/http%3A//nau.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nau.edu privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119025850id_/http%3A//nau.edu/privacy) for the most accurate reproduction.*
 
 # Privacy - Web Privacy Statement - Northern Arizona University
 
@@ -60,4 +60,4 @@ NAU accepts credit card payments online for a variety of goods and services. Unl
 
 Under NAU policy, university-owned computers and equipment may be examined by authorized individuals to detect illegal software and to evaluate the security of the network. Personal computers connected to NAU's network are also subject to NAU's campus acceptable use policies.
 
-If you have additional questions about online privacy or security, you can send an e-mail to the NAU Chief Information Technology Officer, Fred Estrella, at Fred.Estrella@nau.edu, you can phone Fred Estrella at 928-523-9998, or you can send an inquiry by mail to Chief Information Technology Officer, Northern Arizona University, PO Box 5100, Flagstaff, AZ, 86011-5100.
+If you have additional questions about online privacy or security, you can send an e-mail to the NAU Chief Information Officer, Dr. Steven Burrell, at Steven.Burrell@nau.edu, or you can send an inquiry by mail to Chief Information Officer, Northern Arizona University, PO Box 5100, Flagstaff, AZ, 86011-5100.
