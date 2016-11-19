@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesaints.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621153503id_/http%3A//gamesaints.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesaints.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119065020id_/http%3A//gamesaints.com/privacy) for the most accurate reproduction.*
 
 # Play best hero games on Gamesaints.com.
 
