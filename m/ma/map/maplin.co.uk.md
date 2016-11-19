@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maplin.co.uk privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601224023id_/http%3A//www.maplin.co.uk/help-centre/article/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maplin.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119150805id_/http%3A//www.maplin.co.uk/help-centre/article/privacy) for the most accurate reproduction.*
 
 # Help Centre | Maplin
 
@@ -10,17 +10,114 @@ This Site operates AS-IS and AS-AVAILABLE, without liability of any kind. We are
 
 This Policy is governed by English law, excluding conflicts of law principles. Any legal actions against us must be commenced in England within one year after the claim arose, or be barred.
 
+  
+
+
+## Use of this site
+
+You will be asked to provide certain information such as your name, contact details and possibly credit card or other payment details. We will store this data and hold it on computers or otherwise. We will use this data to fulfil our agreement with you.
+
+In addition, we may gather other information about your use of the website, including by the use of cookies.
+
+We may use information that you provide or that is obtained by us:
+
+(a) to register you with our website and to manage any account you hold with us.
+
+(b) to administer our website services.
+
+(c) to give to companies and organisations whose products we provide to you, e.g. product services, ratings and reviews.
+
+(d) to fulfil our agreement with you and to process your order and obtain payment.
+
+(e) to analyse and profile your shopping preferences e.g. (market, customer and product analysis) to enable us: (i) to provide you with a personalised browsing experience when using the website and (ii) to review, develop and improve the products and services which we offer and to enable us to provide you and other customers with relevant information through our marketing programme.
+
+(f) we may use your information to make decisions about you using computerised technology, for example automatically selecting products and/or services which we think will interest you from the information we have.
+
+(g) Where you have agreed that we may do so, we may keep you informed of products and services (including products and services of other companies and organisations and including special offers, discounts, offers, competitions, warranties, insurance and so on) which we consider may be of interest to you by any of the following methods:
+
+  * Email
+  * Telephone (including automated calls)
+  * SMS text messages and other electronic messages such as picture messaging
+  * Post
+
+
+
+If you do not wish to receive information of products and services which may be of interest to you from us, you can select the opt-out option when you submit your details or you can unsubscribe at any time by [clicking here](http://www.maplin.co.uk/subscribe/no?email=\[EmailAddress\])
+
+We may engage third party payment providers to administer and process your payment card details in order to complete any purchase that you make through the website.
+
+We may store and process your information on our own information technology systems or on systems owned by third parties that may store and process your information on our behalf.
+
+  
+
+
+## Fraud and Crime prevention
+
+In order to protect our customers and us from fraud and theft, we may pass on information that we obtain from making identity checks and other information in our customer records, including how you conduct your account, to other Group companies, other retailers and to financial and other organisations involved in fraud prevention and detection, to use in the same way. Without limitation to the foregoing, we may disclose any information and data relating to you to the police or any regulatory or government authority including and not limited to law enforcement agencies in response to a request in connection with the investigation of any suspected illegal activities.
+
+  
+
+
+## Telephone calls
+
+Calls may be recorded to verify content and may be used together with other customer records for regulatory compliance, quality control and staff training, preventing or detecting criminal activity and for complaint resolution.
+
+  
+
+
+## Disclosure of your information
+
+We may give information about you to the following companies and organisations who may use it for the same purposes as set out above:
+
+(a) to other companies in the Group.
+
+(b) to employees and agents of the Group and other approved third parties to administer any accounts, products and services provided to you by the Group now or in the future.
+
+(c) to agents who (on our behalf) profile your data so that we may tailor the goods/services we offer to your specific needs.
+
+(d) to other organisations for the administration of prize draws or competitions.
+
+(e) to anyone to whom we transfer our rights and duties under our agreement with you.
+
+(f) if we have a duty to do so or if the law allows us to do so
+
+In carrying out the activities specified in this policy, we may transfer data to reputable companies outside the European Economic Area. Whilst we take reasonable steps to ensure that your information will be afforded the same level of protection as that required of us under applicable UK data protection legislation you should be aware that countries outside the European Economic Area may not offer the same level of protection of personal data.
+
+  
+
+
+## Product Reviews
+
+Around 14 days after receiving your product, we may send you an email inviting you to review and rate the product that you purchased. In addition, sometimes we may also ask you if you would like to answer questions related to your product submitted by other customers.
+
+Once a review is submitted, it usually takes 72 hours for your review, question or answer to appear on the website providing it adheres to our Publishing guidelines.
+
+It is not possible for you to edit/remove your review after submission
+
+If you require any further information on this service or wish to have your review removed, you can contact [Customer Services](https://www.maplin.co.uk/contactus)
+
+We may in our absolute discretion accept or reject any product review which may be submitted to us and may edit any such review for both length and/or content as we see fit. All reviews are submitted on the basis that Maplin may use the review in any format and for any purpose as it sees fit and for any marketing or promotional purposes.
+
+  
+
+
 ## Data Retention
 
-We generally keep user data on our server or in our archives for about one (1) year. We may alter this practice according to changing requirements. We may keep other data for longer periods if the law requires it. In addition, information posted in a public forum could stay in the public domain indefinitely.
+We generally keep user data on our server or in our archives for about one (1) year. We may alter this practice according to changing requirements. We may keep other data for longer periods if th e law requires it. In addition, information posted in a public forum could stay in the public domain indefinitely.
 
 Data management requests are administered in an orderly manner to the extent feasible and within our direct control. Note: we have greater control over recently collected data than for archived data. Once data is removed from the system and archived, it may not be feasible to accommodate specific requests. In those cases, our general data retention policy applies.
 
-## Google Analytics
+  
 
-This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States.
 
-Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.
+## Analytics
+
+This website uses Adobe Analytics, a web analytics service provided by Adobe, Inc. ("Adobe"). Adobe Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Adobe on servers in the United States.
+
+Adobe will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Adobe may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Adobe's behalf. Adobe will not associate your IP address with any other data held by Adobe. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.
+
+  
+
 
 ## Collection of Information
 
@@ -46,15 +143,24 @@ Google will use this information for the purpose of evaluating your use of the w
 
 
 
+  
+
+
 ## Protecting Information
 
 We offer secure web pages to collect certain kinds of user information and we store certain kinds of data in encrypted form. We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on our system.
 
 While no computer system is completely secure, we believe the measures implemented by our Site reduce the likelihood of security problems to a level appropriate to the type of data involved.
 
+  
+
+
 ## Certain Exceptional Disclosures
 
 We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct. Disclosure may be required by law or if we receive legal process.
+
+  
+
 
 ## Cookies
 
