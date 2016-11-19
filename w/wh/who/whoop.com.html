@@ -1,53 +1,115 @@
-<!--The following is the downloaded HTML source of the whoop.com privacy policy that was archived on 2015-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151219093149id_/http%3A//whoop.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the whoop.com privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119022103id_/http%3A//whoop.com/privacy/index.web.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
+<!DOCTYPE html><html class="no-js"><head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>WHOOP Privacy Policy</title>
-  <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
 
-  <link rel="shortcut icon" sizes="65x65" href="/favicon-65x65.png">
+  <title>WHOOP Privacy Policy</title>
+
+  <link rel="stylesheet" href="/css/main.css">
+
   <link rel="shortcut icon" href="/favicon.png">
-  <link rel="stylesheet" href="/all.css">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/touch-icon-precomposed.png">
+  <link rel="mask-icon" href="/assets/safari-pinned-tab.svg" color="#ed2e0d">
 
-  <script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    if (window.location.hostname === "whoop.com") {
-      ga('create', 'UA-64891632-6', 'auto');
-    } else if (window.location.hostname.indexOf("marketing.qa.whoop.com") === 0) {
-      ga('create', 'UA-64891632-5', 'auto');
-    } else {
-      ga = function () { console.log("not saving ga data", arguments) };
-    }
-    ga('send', 'pageview');
+  <!--[if IE]-->
+    <style>
+      #modal-stage-two {
+        transform: none !important;
+      }
+      #flipper {
+        transform: none !important;
+      }
+    </style>
+  <!--[endif]-->
+
+  <!-- Facebook No-Script Pixel Code -->
+  <noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=558507054335010&ev=PageView&noscript=1"
+  /></noscript>
+  <!-- End Facebook No-Script Pixel Code -->
+  <script async="" src="//static.ads-twitter.com/uwt.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+    // Google Analytics
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+// Facebook
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+// Twitter
+!function(e,n,u,a){e.twq||(a=e.twq=function(){a.exe?a.exe.apply(a,arguments):a.queue.push(arguments);},a.version='1',a.queue=[],t=n.createElement(u),t.async=!0,t.src='//static.ads-twitter.com/uwt.js',s=n.getElementsByTagName(u)[0],s.parentNode.insertBefore(t,s))}(window,document,'script');
+
+if (window.location.hostname === "whoop.com") {
+  // Google Events
+  ga('create', 'UA-64891632-6', 'auto', {'allowLinker': true});
+  ga('require', 'linker');
+  ga('linker:autoLink', ['get.whoop.com', 'thelocker.whoop.com'] );
+  // Facebook Events
+  fbq('init', '558507054335010');
+  fbq('init', '161055301018741'); // second pixel while on hold
+  // Twitter Events
+  twq('init','nvf64');
+
+} else if (window.location.hostname.indexOf("marketing.qa.whoop.com") === 0) {
+  ga('create', 'UA-64891632-5', 'auto');
+  // google ana has a 'test' bucket for stuff to go in,
+  // but we aren't bothering with that for twitter/facebook, so lets just override the junk it sends
+  twq = function () { console.log("not saving ga data", arguments) };
+  fbq = function () { console.log("not saving fb data", arguments) };
+  twttr = window.twttr = { conversion: { trackPid: function () { console.log("not saving other twitter data", arguments); } } };
+} else {
+  twq = function () { console.log("not saving ga data", arguments) };
+  ga = function () { console.log("not saving ga data", arguments) };
+  fbq = function () { console.log("not saving fb data", arguments) };
+  twttr = window.twttr = { conversion: { trackPid: function () { console.log("not saving other twitter data", arguments); } } };
+}
+
+if (ga) ga('send', 'pageview');
+if (twq) twq('track','PageView');
+if (fbq) fbq('track', "PageView");
+
   </script>
-  <script>
-    (function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
-    for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
-  </script>
-
-
-  <script>
-    if (window.location.hostname === "whoop.com") {
-      mixpanel.init("1ce4ba87a6395b80dd57b97d5678288a");
-      mixpanel.track("Visited privacy page");
-    }
-  </script>
-
-
 </head>
 
-<body page="privacy">
+<body data-slug="privacy" class="banner-visible"><!-- TODO .banner-visible is only useful on home page -->
+  <div class="panel-wrapper full-screen slideshow short-panel">
+      <div id="document-half-slide" class="slide"></div>
+
+      <div class="panel">
+        <div class="site-banner">
+  <a class="nav-expand"></a>
+
+  <a class="banner-logo whoop-text white" href="/">
+    WHOOP
+  </a>
+
+  <nav role="banner">
+    <a class="nav-hide"></a>
+    <ul class="nav-list">
+      <li class="nav-item nav-link desktop-hide"><a href="/">Home</a></li>
+      <li class="nav-item nav-link"><a href="/press/">Validation &amp; Press</a></li>
+      <li class="nav-item nav-link"><a href="/careers/">Careers</a></li>
+      <li class="nav-item nav-link"><a href="/about/">About Us</a></li>
+      <li class="nav-item nav-link desktop-hide"><a href="#map" class="toggle-map">Contact</a></li>
+    </ul>
+    <ul class="social-icons">
+      <li class="facebook"><a href="https://www.facebook.com/whoop/" target="_blank">WHOOP on Facebook</a></li>
+      <li class="twitter"><a href="https://twitter.com/whoop/" target="_blank">WHOOP on Twitter</a></li>
+      <li class="instagram"><a href="https://instagram.com/whoop/" target="_blank">WHOOP on Instagram</a></li>
+    </ul>
+  </nav>
+
+  <a class="btn btn-default btn-small btn-login" href="https://app.whoop.com/login">Login</a>
+</div>
+
+      </div>
+    </div>
+  
+
 
 <div class="panel-wrapper">
-  <div class="panel document-panel">
-    <ul class="document-nav">
-      <li><a class="active" href="/privacy/"><img src="/assets/icon-privacy.svg" height="23" width="23"> Privacy Policy</a></li>
-      <li><a href="/termsofuse/"><img src="/assets/icon-document.svg" height="23" width="23"> Terms of Use</a></li>
-    </ul><!-- we need to prevent whitespace between these two columns
-    --><div class="document-content">
+  <div class="panel document-panel no-z">
+    <div class="document-content">
       <h1>Privacy Policy</h1>
       <p class="document-metadata">Last updated August 19, 2014</p>
       <h2>Introduction</h2>
@@ -92,61 +154,52 @@
 </div>
 
 
-<div class="panel-wrapper map">
-  <div class="address">
-    <a href="https://goo.gl/maps/iubxc" target="_blank">401 Park Drive, Suite 10<br>
-      Boston MA 02215</a><br>
-    (617) 670-1074<br>
-    contact@whoop.com
+  <div class="panel-wrapper map">
+    <div class="address">
+      <a href="https://www.google.com/maps/place/1325+Boylston+St+%23401,+Boston,+MA+02215/@42.344518,-71.099107,16z/" target="_blank">
+        1325 Boylston Street, Suite 401
+        <br>
+        Boston MA 02215
+      </a>
+      <br>
+      (617) 670-1074
+      <br>
+      contact@whoop.com
+    </div>
+    <a href="#map" class="circle-logo-block toggle-map">
+      <div class="circle-logo-pulse1"></div>
+      <div class="circle-logo-pulse2"></div>
+      <div class="logo-w">W</div>
+    </a>
   </div>
-  <a href="#map" class="circle-logo-block toggle-map">
-    <div class="circle-logo-pulse1"></div>
-    <div class="circle-logo-pulse2"></div>
-    <div class="logo-w">W</div>
-  </a>
-</div>
 
-<div class="panel-wrapper footer">
-  <div class="panel clearfix">
-  <ul class="column menu">
-    <li class="first"><a href="/">Home</a></li>
-    <li><a href="/about/">About Us</a></li>
-    <li><a href="/about/#jobs">Careers</a></li>
-    <li><a href="/press">Press</a></li>
-    <li><a href="#map" class="toggle-map">Contact</a></li>
-    <li class="first"><a href="/privacy/">Privacy Policy</a></li>
-    <li><a href="/termsofuse/">Terms of Use</a></li>
-  </ul>
+  <div class="panel-wrapper footer">
+    <div class="panel clearfix">
+      <ul class="column menu">
+        <li class="first"><a href="/">Home</a></li>
+        <li><a href="/press/">Validation &amp; Press</a></li>
+        <li><a href="/careers/">Careers</a></li>
+        <li><a href="#map" class="toggle-map">Contact</a></li>
+        <br>
+        <li class="first"><a href="/about/">About Us</a></li>
+        <li><a href="/faq/">FAQ</a></li>
+        <li><a href="/privacy/index.web.html">Privacy Policy</a></li>
+        <li><a href="/termsofuse/index.web.html">Terms of Use</a></li>
+      </ul>
 
-  <div class="column logo">
-    <a class="whoop-text white" href="http://whoop.com"><strong>WHOOP</strong></a>
-    <ul class="social-icons">
-      <li class="facebook"><a href="https://www.facebook.com/whoop/" target="_blank">WHOOP on Facebook</a></li>
-      <li class="twitter"><a href="https://twitter.com/whoop/" target="_blank">WHOOP on Twitter</a></li>
-      <li class="instagram"><a href="https://instagram.com/whoop/" target="_blank">WHOOP on Instagram</a></li>
-    </ul>
+      <div class="column logo">
+        <a class="whoop-text white" href="http://whoop.com"><strong>WHOOP</strong></a>
+        <ul class="social-icons">
+          <li class="facebook"><a href="https://www.facebook.com/whoop/" target="_blank">WHOOP on Facebook</a></li>
+          <li class="twitter"><a href="https://twitter.com/whoop/" target="_blank">WHOOP on Twitter</a></li>
+          <li class="instagram"><a href="https://instagram.com/whoop/" target="_blank">WHOOP on Instagram</a></li>
+        </ul>
+      </div>
+    </div>
   </div>
-  </div>
-</div>
 
-<script>window.PAGE = 'privacy';</script>
-<script src="/all.js"></script>
-
-  <script>
-    // hide header and footer if embedded
-    if (/[\?&]embed=true(&.*)?$/.test(location.search)) {
-      $('.document-nav').hide();
-      $('.footer').hide();
-      $('.map').hide();
-
-    // mixpanel stats in production if not embedded
-    } else if (window.location.hostname === "whoop.com") {
-      mixpanel.init("1ce4ba87a6395b80dd57b97d5678288a");
-      mixpanel.track("Visited privacy page");
-    }
-  </script>
-
-
+  <script src="/js/all.js"></script>
+  
 
 
 </body></html>
