@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my3gb.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613045653id_/http%3A//www.my3gb.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my3gb.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119023627id_/http%3A//www.my3gb.com/privacy.jsp) for the most accurate reproduction.*
 
 # My3gb.com - Free hosting
 
