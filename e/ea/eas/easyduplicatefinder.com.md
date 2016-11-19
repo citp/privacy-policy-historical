@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyduplicatefinder.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425022743id_/http%3A//www.easyduplicatefinder.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyduplicatefinder.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015938id_/http%3A//www.easyduplicatefinder.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Easy Duplicate Finder™ - Privacy Policy
 
@@ -43,7 +43,7 @@ We may also disclose your personal information:
 
 #### Cookies and Other Tracking Technologies
 
-**Cookies**
+ **Cookies**
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
 
@@ -122,6 +122,3 @@ WebMinds, Inc.
 8540 Dayton Avenue  
 Fort Myers, FL 33907  
 [ support@webminds.com](mailto:support@webminds.com)
-
-  
-
