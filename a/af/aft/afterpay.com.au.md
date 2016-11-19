@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afterpay.com.au privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320223241id_/https%3A//www.afterpay.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afterpay.com.au privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119214311id_/https%3A//www.afterpay.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Afterpay | Simple Interest-free Instalment Plans
 
@@ -24,11 +24,11 @@ In addition, if you open an Afterpay account with us or use Afterpay Services, w
 
   * Contact information, such as your name, address, phone, email and other similar information.
   * Financial information, such as the full bank account numbers and/or credit or debit card numbers that you link to your Afterpay account or give us when you use Afterpay Services.
-  * Detailed personal information such as your date of birth or any national ID number.
+  * Detailed personal information such as your date of birth, national ID number or other identification information or documents.
 
 
 
-We may also obtain information about you from third parties such as credit reporting bodies and identity verification services.
+We may also obtain information about you from third parties, such as credit reporting bodies and identity verification services, and publicly or commercially available sources for the purposes of complying with relevant legislation (Eg. anti-money laundering laws).
 
 You may choose to provide us with access to certain personal information stored by third parties such as social media sites (e.g., Facebook and Twitter). The information we may receive varies by site and is controlled by that site. By associating an account managed by a third party with your Afterpay account and authorising Afterpay to have access to this information, you agree that Afterpay may collect, store and use this information in accordance with this Privacy Policy.
 
@@ -57,7 +57,7 @@ Our primary purpose in collecting personal information is to enable us to provid
   * deliver targeted marketing, service update notices, and promotional offers based on your communication preferences;
   * contact you at any telephone number, by placing a voice call or through text (SMS) or email messaging, as authorised by our User Agreement;
   * compare information for accuracy and verify it with third parties;
-  * confirm your identity for the purposes of the Anti-Money Laundering and Counter-Terrorism Act and assess applications or creditworthiness for premier or business accounts or products and services offered to premier or business accounts with third parties.
+  * confirm your identity for the purposes of the Anti-Money Laundering and Counter-Terrorism Act and assess applications and your suitability for Afterpay’s services.
   * to consider you for a position at Afterpay for which you have applied;
   * to acquire goods or services from you or from your employer;
   * for other purposes to which you have consented; and
@@ -67,13 +67,13 @@ Our primary purpose in collecting personal information is to enable us to provid
 
 Generally, we may use your personal information for the purposes for which we collect it and for related purposes which would be reasonably expected by you.
 
-If all or some of your personal information is not collected, we may be unable to provide you with Afterpay Services or a customised experience.
+If all or some of your personal information is not collected or cannot be verified, we may be unable to provide you with Afterpay Services or a customised experience.
 
 How we share personal information with other parties
 
 We may share your personal information with:
 
-  * Our Partners, including service providers who help with our business operations such as fraud prevention, payment collection, marketing, and technology services, or our retailers, so that they can provide goods or services to you or respond to a complaint by you, or to help them improve the quality and standard of service they provide to you.
+  * Our Partners, including service providers who help with our business operations such as fraud prevention, identity verification, payment collection, marketing, and technology services, or our retailers, so that they can provide goods or services to you or respond to a complaint by you, or to help them improve the quality and standard of service they provide to you.
   * Financial institutions that we may partner with to jointly create and offer a product.
   * Credit reporting bodies and collection agencies to report account information, as permitted by law. To request a credit report, we will provide information to the credit reporting body that identifies you.
   * Banking partners as may be required by credit card association rules for inclusion on their list of terminated merchants.
