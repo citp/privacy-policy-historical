@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nabiscoworld.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413194531id_/http%3A//brands.nabisco.com/MiscContent/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabiscoworld.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119021231id_/http%3A//brands.nabisco.com/MiscContent/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Mondelēz International Privacy Policy
 
 Scope
 
-This privacy statement applies to MondelezInternational.com and Mondelēz Global LLC (“Mondelēz Global “) websites, services, applications and products that collect data and display these terms (collectively, our “sites”). It does not apply to Mondelēz Global sites, services and products that do not display or link to this statement or that have their own privacy statements. 
+This privacy statement applies to MondelēzInternational.com and Mondelēz Global LLC (“Mondelēz Global “) websites, services, applications and products that collect data and display these terms (collectively, our “sites”). It does not apply to Mondelēz Global sites, services and products that do not display or link to this statement or that have their own privacy statements. 
 
 Information We Collect
 
@@ -93,7 +93,7 @@ We may use cookies, web beacons, pixel tags, log files, or other technologies to
 
 #### Information Collected from Other Sources
 
-We may obtain information about you from other sources, including commercially available sources, such as data aggregators and public databases. This information may include name, demographic information, interests, and publicly-observed data, such as from social media and shopping behavior. 
+We may obtain information about you from other sources, including commercially available sources, such as data aggregators and public databases. This information may include name, demographic information, interests, and publicly- observed data, such as from social media and shopping behavior. 
 
 #### Combination of Information
 
