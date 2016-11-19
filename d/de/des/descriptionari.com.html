@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the descriptionari.com privacy policy that was archived on 2016-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160607143221id_/http%3A//www.descriptionari.com/our/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the descriptionari.com privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119170136id_/http%3A//www.descriptionari.com/our/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" prefix="og: http://ogp.me/ns#"><link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Ubuntu|Roboto:400,700"><head>
     <meta charset="utf-8">
@@ -9,7 +9,7 @@
     <meta name="author" content="descriptionari.com">
 	<meta name="robots" content="noindex">
 
-<link href="/min/g=css&amp;1458496780" rel="stylesheet">
+<link href="/min/g=css&amp;1472902687" rel="stylesheet">
 <script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script>
 var cb = function() {
 var l = document.createElement('link');
@@ -71,7 +71,7 @@ else window.addEventListener('load', cb);
 			<ul id="navbar-search" class="nav navbar-nav hidden-xs search">
 		
 	<form id="live-search" action="/" class="form-inline text-center">
-		<p class="stats"><a href="/index/a" class="white text-shadow text-decoration-none">12,299 quotes, descriptions and writing prompts, 2,300 themes »</a></p>
+		<p class="stats"><a href="/index/a" class="white text-shadow text-decoration-none">12,595 quotes, descriptions and writing prompts, 2,332 themes »</a></p>
 		<div class="search-container">
 			<div class="input-group">
 				<input id="search" name="search" type="text" class="simplebox search form-control" value="" maxlength="50" placeholder="Search" autocomplete="off" required="" autofocus="">
@@ -453,7 +453,7 @@ function render() {
 				serverMethod: 'login_google',
 				oData: {
 					'code':authResult.code,
-					'xsrf':'NmI5NWRmMjdlMjIwNGRkZWUwOGI1OWRkOGFhMjQ2MWM'
+					'xsrf':'N2E3YTY0MWI2NDAyMTRjZDVmMGI4OGEyZGJiMmNiZGU'
 					},
 				onSuccess:
 					function(data, context){
@@ -550,7 +550,7 @@ window.fbAsyncInit = function() {
 					serverMethod: 'login_facebook',
 					oData: {
 						'fbtoken':response.authResponse.accessToken,
-						'xsrf':'NmI5NWRmMjdlMjIwNGRkZWUwOGI1OWRkOGFhMjQ2MWM'
+						'xsrf':'N2E3YTY0MWI2NDAyMTRjZDVmMGI4OGEyZGJiMmNiZGU'
 						},
 					onSuccess:
 						function(data, context){
@@ -565,8 +565,9 @@ window.fbAsyncInit = function() {
 	});
 	
 	FB.Event.subscribe('auth.login', function(response) {
-		if (response.status === 'connected')
-				window.location.reload();
+		if (response.status == "connected"){
+			window.location.reload();
+		}
 		else if (response.status === 'not_authorized')
 			window.location.replace('/me/logout/');
 	});
