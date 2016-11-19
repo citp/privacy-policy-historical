@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearlweb.in privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323190333id_/http%3A//pearlweb.in/privacy-p23) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearlweb.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119021225id_/http%3A//pearlweb.in/privacy-p23) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy - Buy / Sell / Promote / Find Anything
 
@@ -34,6 +34,26 @@ We use users' personal information to:
 • We may be required from time to time to disclose users’ personal information to Governmental or law enforcing agencies or our regulators, but we will only do so under proper authority.  
 • PearlWeb also reserves the right to make use of the personal information in any investigation or judicial process relating to fraud on account of such transactions during the period PearlWeb retains such information.   
 • We may also disclose personal information to enforce our policies, respond to claims that a posting or other content violates other’s rights, or protects anyone’s rights, property or safety.
+
+**INFORMATION COLLECTED BY MOBILE APPLICATIONS**
+
+• Our Services are primarily provided through the Mobile Application. We may collect and use technical data and related information, including but not limited to, technical information about your device, system and application software, and peripherals, that is gathered periodically to facilitate the provision of software updates, product support and other services to you (if any) related to such Mobile Applications.   
+• When you use any of our Mobile Applications, the Mobile Application may automatically collect and store some or all of the following information from your mobile device (“Mobile Device Information”), in addition to the Device Information, including without limitation: 
+
+  * Your preferred language and country site (if applicable)
+  * The manufacturer, model, Device Unique Id of your mobile device
+  * Your mobile operating system
+  * The type of mobile internet browsers you are using
+  * Data Connection Access (Wifi, 2G, 3G, 4G)
+  * Your Geolocation
+  * Information about how you interact with the Mobile Application links, such as how many times you use a specific part of the Mobile Application over a given time period, the amount of time you spend using the Mobile Application, how often you use the Mobile Application, actions you take in the Mobile Application and how you engage with the Mobile Application.
+  * Information to allow us to personalize the services and content available through the Mobile Application
+
+
+
+**Location (On Mobile Application)**
+
+The location data made available on the Application is basic is nature, and meant to provide You the exact listing which relevant your Geo location or area. Without location we couldn't give you exact listing and we know it is waste if your time. So You acknowledge that we get your location details for giving your best listing service. 
 
 **Using Information from us**
 
