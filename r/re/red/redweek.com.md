@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redweek.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324210344id_/http%3A//www.redweek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redweek.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119144348id_/http%3A//www.redweek.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | RedWeek
 
 Version 4 (Posted June 29, 2015) / [see version 4 changes](https://web.archive.org/privacy?v=4&diff=1 "click to see changes since last update")
 
