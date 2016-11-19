@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gossiponthis.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628152010id_/http%3A//gossiponthis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gossiponthis.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119203346id_/http%3A//gossiponthis.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Gossip On This
 
