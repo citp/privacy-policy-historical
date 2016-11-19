@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rgu.ac.uk privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525204107id_/http%3A//rgu.ac.uk/footer/privacy-and-cookie-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rgu.ac.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119042206id_/http%3A//www.rgu.ac.uk/footer/privacy-and-cookie-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Robert Gordon University (RGU) Aberdeen Scotland
 
