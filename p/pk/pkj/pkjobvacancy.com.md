@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pkjobvacancy.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518235339id_/http%3A//pkjobvacancy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pkjobvacancy.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119102154id_/http%3A//pkjobvacancy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Jobs Vacancy in Pakistan 2016
 
@@ -40,7 +40,4 @@ Some of our advertising partners may use cookies and web beacons on our site.
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. **Pkjobvacancy.com** ’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-If you wish to disable cookies, you may do so through your individual browser options.  
-  
-  
-
+If you wish to disable cookies, you may do so through your individual browser options.
