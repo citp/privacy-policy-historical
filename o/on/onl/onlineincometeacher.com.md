@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineincometeacher.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606104206id_/http%3A//onlineincometeacher.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineincometeacher.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119180846id_/http%3A//onlineincometeacher.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Income Teacher
 
