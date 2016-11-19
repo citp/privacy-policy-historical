@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bollywoodlover.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623071741id_/http%3A//bollywoodlover.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodlover.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119043419id_/http%3A//bollywoodlover.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy- Bollywood Lover
+# Privacy Policy - Bollywood Lover
 
 ## Privacy Policy Of BollywoodLover.com
 
@@ -50,5 +50,3 @@ If there are any questions regarding this privacy policy you may contact us usin
 Simply contact through our Contact Us Page [Here ](http://bollywoodlover.com/contact-us/)
 
 _Last Edited on 2015-10-21_
-
-[](https://www.pinterest.com/pin/create/button/)
