@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the counselling-directory.org.uk privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513150537id_/http%3A//www.counselling-directory.org.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the counselling-directory.org.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119222131id_/http%3A//www.counselling-directory.org.uk/privacy.html) for the most accurate reproduction.*
 
 # Counselling Directory Privacy Policy - Counselling Directory
 
-Memiah Limited (company number 05489185) whose registered office and main trading address is situated at Coliseum, Riverside Way, Camberley, Surrey GU15 3YL ( **"Memiah"** and **"We"** ) are committed to protecting and respecting your privacy.
+Memiah Limited (company number 05489185) whose registered office and main trading address is situated at Building 3, Riverside Way, Camberley, Surrey GU15 3YL ( **"Memiah"** and **"We"** ) are committed to protecting and respecting your privacy.
 
 This policy (together with our terms of use [ http://www.counselling-directory.org.uk/legalterms.html](http://www.counselling-directory.org.uk/legalterms.html) and any other documents referred to in them) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting [ http://www.counselling-directory.org.uk](http://www.counselling-directory.org.uk/) you are accepting and consenting to the practices described in this policy.
 
@@ -75,7 +75,7 @@ Unfortunately, the transmission of information via the internet is not completel
 
 **YOUR RIGHTS**
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at Coliseum, Riverside Way, Camberley, Surrey GU15 3YL.
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at Building 3, Riverside Way, Camberley, Surrey GU15 3YL.
 
 Our Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -89,4 +89,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 **CONTACT**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Coliseum, Riverside Way, Camberley, Surrey GU15 3YL.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Building 3, Riverside Way, Camberley, Surrey GU15 3YL.
