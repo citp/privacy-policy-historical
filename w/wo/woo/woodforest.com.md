@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodforest.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606113459id_/http%3A//www.woodforest.com/About-Us/Privacy--Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodforest.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119230851id_/http%3A//woodforest.com/About-Us/Privacy--Security) for the most accurate reproduction.*
 
 # Privacy & Security
 
