@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mips.tv privacy policy that was archived on 2016-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160303022058id_/http%3A//mips.tv/content/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mips.tv privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119020428id_/http%3A//mips.tv/content/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
