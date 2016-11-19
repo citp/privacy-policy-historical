@@ -1,268 +1,156 @@
-> *The following text is extracted and transformed from the careerfaqs.com.au privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606061139id_/http%3A//www.careerfaqs.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerfaqs.com.au privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119074235id_/http%3A//www.careerfaqs.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Page | Career FAQs
 
-The purpose of this statement is to let users of this website know what information is collected about them when they visit this site, how this information is used and the site’s disclosure policies.
+##  Career FAQs Pty Ltd (ACN 111 754 799) (“ **Career FAQs** ” or “ **we** ”), cares about the privacy of its users (“ **you** ”) and understands the importance of protecting any personal information we collect about you as well as clearly disclosing to you what we may do with your personal information.
 
-Career FAQs conducts its business using the Internet through this website and through other outlets and distribution channels around Australia. Career FAQs is committed to protecting the personal privacy of our customers and observes the National Privacy Principles pursuant to the Commonwealth Privacy Act 1988 and any later updates and amendments thereof.
+We are committed to protecting the privacy of our customers and observe the Australian Privacy Principles (“ **APP** ”) pursuant to the Privacy Act 1988 (Cth) (as amended).
 
-Personal information about customers, including name, address, telephone number and other personal details, will be handled appropriately – according to the terms of use as defined in this section of our website and as may be amended, at Career FAQs’ discretion, from time to time. You may contact us at any time to request details about what information we hold, or to request that it be changed or deleted.
+The purpose of this policy is to let you know:
 
-###  Recording your visit
+  * What information is collected about you when you visit this website
+  * What information is collected when you submit a course enquiry
+  * What information is collected when you download a free career resource
+  * How this information is collected and used
+  * Our disclosure policies, including with whom the information is shared
+  * How you can access or correct your information
+  * What security procedures are in place to protect against the misuse or loss of personal information
+  * How you can contact Career FAQs and make complaints (if necessary)
 
-When you look at this website, we make a record of your visit and log the following information for statistical purposes:
 
-  * top-level domain name (for example .com, .gov, .au, .uk etc)
-  * date and time of visit to the site
-  * pages accessed and documents downloaded
-  * previous site visited
-  * type of Internet browser used
+
+This Privacy Policy applies to any personal information you provide:
+
+  * When you visit the site
+  * When you submit a course inquiry
+  * When you purchase a course
+  * When you download a free career resource, including, but not limited to, a resume, cover letter or resignation template
+  * When you subscribe to our newsletter
+  * To any of our third-party partners in relation to an email direct marking campaign or any content sharing arrangements
+
+
+
+Your personal information will be handled appropriately according to this policy and the [terms and conditions](http://www.careerfaqs.com.au/terms-of-use/) section of our website and may be amended, at Career FAQs’ discretion, from time to time. You may contact us at any time to request details about what personal information we hold, or to request that it be changed or deleted.
+
+##  Collecting Information
+
+The type of information that Career FAQs collects about you is dependent on how you use the services offered on our website.
+
+###  (a) Personal Information
+
+Career FAQs collects personal information about its users. Once an individual decides to make an enquiry about a course, subscribe to our newsletter or download a career or education-related resource, Career FAQs (upon the individual completing an online form) will collect all or some of the following personal information:
+
+  * Full name
+  * Address
+  * Email address
+  * Telephone number(s)
+  * State and country of residence
+  * Enrolment readiness status
+  * Career(s) and/or course(s) of interest
+
+
+
+We will not collect or solicit personal information via this site which would be unlawful, unrelated to the functions or activities of Career FAQs, or in a manner we believe is unreasonably intrusive. How we use your personal information is set out below in the section entitled “Use and Disclosure of Personal Information”.
+
+There is no obligation on you to provide us with any of the personal information that we may request, however if you choose not to provide us with the requested information we may not be able to offer the requested service or it may affect our efficiency in providing our services to you. 
+
+###  (b) Sensitive Information
+
+Generally, Career FAQs does not collective sensitive information about an individual. Sensitive information, as defined in the Privacy Act 1988 (Cth) and Australian Privacy Principles includes, but is not limited to, information or an opinion about an individual’s racial or ethnic origin, religious beliefs or sexual orientation.
+
+###  (d) Non-personal Information
+
+Like most websites, Career FAQs collects non-personal information in aggregated form when an individual accesses the website, which includes the following information:
+
+  * Date and time of visit to the site
+  * Top-level domain name (for example .com, .gov, .au, .uk etc.)
+  * Pages accessed and documents downloaded
+  * Previous site visited
+  * Type of Internet browser used
   * IP address
-  * operating system used
-  * domain name of your Internet Service Provider
-  * banner advertisements you have viewed or clicked on.
+  * Operating system used
+  * Domain name of your Internet Service Provider
+  * Banner advertisements you have viewed or clicked on.
 
 
 
-This data is always used as aggregated, non-personal information. Career FAQs generally uses this information to report statistics, analyse trends, diagnose problems and target and improve the quality of our products and services. This aggregated information may be shared with our trusted partners to provide them with an overview of how Career FAQs visitors use the site, for the purposes of providing you with the best Australian careers and online courses website possible.
+We use this information, which remains in aggregate form, to understand how our users use our website. We may also share this information with our third-party education partners for the purpose of providing you with the best course choices.
 
-###  Collecting personal information
+Career FAQs will only collect information about an individual from that individual, unless it is reasonable and practicable to do so or for reasons compliant with the APP.
 
-There are some electronic forms on this site that you can use to request more information from Career FAQs, or which you will be required to complete should you elect to become a member of this site. When we require you to enter personal information, we will only do so to allow us to respond to your request or for purposes such that are necessary for us to conduct one or more of our functions or activities, which include matching your educational needs and preferences with our partners’ range of courses.
+##  Use and Disclosure of Personal Information
 
-Where it is practicable and reasonable to do so, Career FAQs will only collect information about an individual from that individual.
+Personal information is requested or collected by us when it is required to assist in efficiently handling your request. You acknowledge that any disclosure of personal information by you during a visit to our website, whether as part of completing a course enquiry or otherwise, is being made freely by you without any pressure or undue influence being exerted on you.
 
-We will not collect or solicit personal information via this site which would be unlawful, unrelated to the functions or activities of Career FAQs, or if we believe the information is unreasonably intrusive.
+Your personal information is used for the following purposes: 
 
-All Career FAQs members may opt to unsubscribe by email from our site and/or any of our services at any time. Please allow two working days for any unsubscribe requests to come into effect.
+  * To answer your enquiries or to assist in processing your enrolment through Career FAQs’ education and training partners, which will involve disclosing your personal information to the educational entity that provides the course you have enquired about
+  * To offer you personalised and relevant educational information and services to enhance your study and career opportunities
+  * To provide information on government study loans, financial subsidies, student support services, or changes to regulations or legislation
+  * To provide more information about the courses provided by education providers from time to time, as authorised by law
+  * To provide you with marketing communications as permitted by law, including in relation to our partners’ career and education-related products and services, which includes, but is not limited to, news about education-related products and services similar to those you have made enquiries about
+  * To provide to any partners on our website (which will be determined by Career FAQs and may include tertiary and other educational providers as well as other careers stakeholders) – see our quality assurance process for the providers we partner with above.
 
-We will collect information in order to:
 
-  * Address enquiries or process your enrolment with Career FAQs’ education and training clients.
-  * Offer you personalised and relevant educational information and services to enhance your study and career opportunities.
-  * Provide information on financial subsidies, student support services, or changes to regulations or legislation.
 
+You can opt out or unsubscribe from marketing communications at any time using the ‘unsubscribe’ link in each newsletter or by contacting us directly. Please allow two working days for any unsubscribe requests to come into effect. Based on the information you share with us, individual offers may be shown to you on our website or on third-party websites, including social media websites.
 
+Career FAQs will only publish your personal information on this site if you have consented to its disclosure (e.g. you have taken part in an interview, or submitted an article to be published on our blog). When giving such consent you should be aware that information published on this site is accessible to users from all over the world, will be indexed by search engines and may be copied and used by any web user. This means that, once the information is published on this site, we will have no control over its subsequent use and disclosure.
 
-###  Use and disclosure of personal information
+Career FAQs will take reasonable steps to ensure that when personal information is provided to third parties, they are also bound by privacy and confidentiality provisions in relation to the protection of your personal information. Career FAQs may disclose your personal information to third parties who perform services for us, or any related parties including but not limited to the purposes of maintaining and managing our information systems.
 
-We will only publish personal information on this site if it has been collected for this purpose with your knowledge or if you have consented to the disclosure. When giving such consent you should be aware that information published on this site is accessible to users from all over the world, that it will be indexed by search engines and that it may be copied and used by any web user. This means that, once the information is published on this site, we will have no control over its subsequent use and disclosure.
+You have the right to directly contact such third parties to request access to any personal information provided to us.
 
-Career FAQs may disclose your information as authorised by law and to its service providers and contractors from time to time. Career FAQs may also disclose your information in order to help us provide and market Career FAQs’ and our partners’ career--and-education-related products and services to you. Such partners will be determined by Career FAQs and may include tertiary and other educational providers as well as other careers stakeholders.
+##  Updated Information and Access to Personal Information
 
-###  Data quality
+Career FAQs will make reasonable attempts to ensure that the personal information we hold about you is accurate, up to date and complete. To assist us with this, please provide us with the correct information and inform us if there is any change in your details.  
+Please contact us if you would like access to the personal information that we hold about you, if you would like to update your personal information or if you believe that the personal information we hold about you is incomplete or inaccurate. 
 
-Career FAQs will reasonably attempt to ensure that the personal information we hold about you is accurate, up to date, and complete. To assist us to do this please provide us with the correct information and inform us if there is any change in your details.  
-Please contact us if you would like access to the personal information that we hold about you, if you would like to update it, or if you believe that the personal information we hold about you is incomplete or inaccurate. To protect your privacy and security we may need to take reasonable steps to verify your identity before granting access or making corrections.
+At your request, Career FAQs will provide you with access to your personal information, unless there is an exemption which applies under the APP. To protect your privacy and security we may need to take reasonable steps to verify your identity before granting access or making corrections.
 
-###  Links to other sites
+Please contact **info@careerfaqs.com.au** to request changes to your personal information.
 
-This site may from time to time contain links to other websites. Career FAQs is not responsible for the privacy practices nor the content of any linked website. You should be aware that you must read the Privacy Statement related to that site. The Career FAQs Privacy Statement relates only to the Career FAQs website.
+##  Cookies
 
-###  Internet-based fulfilment requirements for purchase orders
+Career FAQs uses 'cookies' in its website systems. A cookie is a small amount of data that is placed in the browser of your computer or on your mobile device, and allows you to be recognised as the same user across the pages of a website. Cookies enable you to use services such as downloading a resume or cover letter. You are able to disable cookies via your computer's web browser, however this may restrict access to some services within the Career FAQs website.
 
-Once you decide to make an online course or other career-and-education related purchase you will need to cease to be anonymous. We require your details in order to process your purchase order and to arrange fulfilment of this order with the appropriate third party providers. Failure to complete this information fully may mean that you will not be able to purchase goods or services using this site.
+In addition to using cookies, Career FAQs sometimes uses web beacons. A web beacon is a tiny graphic image of just one pixel that’s delivered to your computer either as part of a web page request or in an HTML email message. Either directly or through service providers, we use these pixels as part of our online advertisements either on our website or on third-party websites to learn whether a user who's being shown an online advertisement also makes a course enquiry and to analyse a user's traffic patterns in order to optimise the career and education-related services we bring to you.
 
-Personal information is requested or collected when it is required to assist you in efficiently completing your transaction or in handling your inquiry. Generally, there is no obligation to provide us with any of the personal information that we may request, however if you choose not to provide us with the requested information we may not be able to offer the requested service, or we may not be able to handle it as efficiently for you.
+##  Security and Storage of Your Personal Information
 
-###  Security of your personal information
+Career FAQs takes the security of users’ personal information very seriously.  
+We take measures to ensure that the personal information you have provided to us is kept confidential and secure and is protected from unauthorised access, misuse, disclosure or alteration.
 
-Career FAQs takes measures to ensure that the personal information you have provided to us is kept confidential and secure and to ensure it is protected from unauthorised access, misuse, disclosure or alteration.
+We conduct regular reviews to implement new security and encryption technologies to ensure the highest level of protection. 
 
-###  SSL Security and Data Encryption
+##  Links to Other Sites
 
-At Career FAQs we take the security of our customers' personal details very seriously. We use proven technology to ensure the highest level of protection. Any credit card information that you send to us is encoded with Secure Sockets Layer (SSL) using 128 bit encryption technology. This is the industry standard and among the best software available today for secure e-commerce transactions. It encrypts all of your personal transaction-related information, including your credit card number, name and address, as it travels from your computer to ours, and from our computer to the bank. Interception by an unauthorised party is impracticable, as long as your browser and local network support the use of encrypted data transmissions.
+This site may, from time to time, contain links to other websites. The links to third-party websites do not constitute endorsement, sponsorship or approval by Career FAQs as to the content or policies of those websites.
 
-###  Credit Card Information
+Career FAQs is not responsible for the privacy practices nor the content of any linked website. You should be aware that you must read the Privacy Statement related to that site. The Career FAQs Privacy Statement relates only to the Career FAQs website.
 
-Your credit card details are used only to complete any transactions which you have authorised us to make.
+##  Acknowledgment
 
-###  Currency
+You acknowledge that Career FAQs will not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use, or reliance on any information provided by you or the use of your personal information on any third-party website and any claim you will make in such circumstances will be limited to the owners of such third-party websites.
 
-All prices quoted on the Career FAQs website are quoted in Australian Dollars (AUD). This is the only currency used on this website.
+##  Destruction of Your Personal Information
 
-###  For further information
+Career FAQs will take reasonable steps to de-identify and destroy any personal information about you once the information is no longer required for the purposes in which it was collected, or if we are required to do so by law.
 
-Please contact us to ask for access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy.
+##  Changes to the Privacy Policy
 
-If you require more information about Australia's Privacy Laws and the National Privacy Principles, you can access the Federal Privacy Commissioner's website at [www.privacy.gov.au.](http://www.privacy.gov.au/)
+This Privacy Policy is current as of 2016. 
 
-This Privacy Statement is current as at February 2014. Career FAQs may change or update the policy from time to time.
+Career FAQs may make changes to or update this privacy policy from time to time and we suggest you periodically review this policy to remain informed as to how we collect and protect your personal information.
 
-2015 Career FAQs Scholarship Terms & Conditions
+Your continued use of the Career FAQs website constitutes your acceptance as to how we collect, use and disclose your personal information.
 
-**Value:** $2,000  
-**Application:** Opens 1 November 2014, closes 15 April 2015. Note: Entry into the 2015 Career FAQs Scholarship has been extended until 31 August 2015.
+##  Feedback and Complaints
 
-**Eligibility criteria**
+At Career FAQs, we welcome feedback and suggestions about our website. This will assist Career FAQs to update and refine any services we provide to you.
 
-Applicants must meet the following criteria to be eligible for this scholarship:
+If you have a complaint concerning your information privacy or if you would like more information about our approach to privacy, please contact **complaints@careerfaqs.com.au**. 
 
-  * You must be an Australian resident and/or citizen
-  * You must be currently enrolled in a course, or planning to study in Australia no later than 2016
-  * You must correctly complete the application form
+##  For Further Information
 
-
-
-**1\. Introduction**
-
-Before you apply for the 2015 Scholarship, please read all of the following Terms and Conditions. If you are awarded and accept the Career FAQs Scholarship, it means you accept these Terms and Conditions and agree to their requirements and conditions. 
-
-**2\. Accepting your scholarship**
-
-Your provisional scholarship offer explains how to accept or reject your scholarship. You cannot defer a scholarship to a later semester or year. 
-
-**3\. Communication**
-
-It is up to you to keep your contact details up to date. We will send any correspondence regarding a successful or unsuccessful application to the address you put on your scholarship application. After you have accepted your scholarship offer, any further correspondence will be via your nominated email account. Please check this email account at least weekly and ensure that there is space to receive emails. 
-
-Please note that if you do not respond to a request for information by the requested dates, your scholarship may be terminated or placed on hold. 
-
-**4\. Conditions and criteria of scholarship**
-
-To receive the Career FAQs Scholarship you must meet the eligibility requirements outlined on the Scholarship web page: www.careerfaqs.com.au/scholarships 
-
-**4.1 Enrolment**
-
-To apply for this scholarship, you must already be enrolled in a program of study, or have the intention to begin studying no later than 2016. Career FAQs will confirm your enrolment with your course provider.
-
-**4.3 Changes to your enrolment**
-
-If you need to change your enrolment, you must follow the correct procedures. You must maintain an active (‘enrolled’) enrolment status at all times to maintain eligibility for your scholarship.
-
-You must tell us of any changes to your enrolment. These changes include:
-
-  * Taking a leave of absence or deferring study
-  * Transferring to part-time study
-
-
-
-Note: if you make a change to your enrolment, it may affect your eligibility to receive a scholarship.
-
-**4.4 Duration of scholarship**
-
-The Career FAQs Scholarship is a one-off payment of $2000. 
-
-**4.5 Transfer**
-
-If you do want to change your course, you should discuss this with Career FAQs, and your nominated course provider, to confirm that you will still be eligible to receive your scholarship. 
-
-**4.6 Discontinuation of study**
-
-If you withdraw from your program, your scholarship may be terminated. Please contact us if you wish to discontinue your program. 
-
-**4.7 Survey**
-
-Periodically, scholarship recipients may be requested to complete an online survey regarding your scholarship. Please complete the survey if requested.
-
-**4.8 Reporting requirements  **
-
-If you choose to accept this scholarship, you will be required to correspond with Career FAQs at various points throughout your study, including details on:
-
-  * Your experiences with study and your course
-  * Your perception of the effect of the scholarship in assisting you to achieve your academic objectives for the year
-
-
-
-**4.9 Media conditions**
-
-If you are a scholarship recipient, you irrevocably:  
-a) Consent to Career FAQs, its employees or agents:
-
-  * Photographing/videoing you and using any image of you in relation to the scholarship
-  * Using any written material that you have produced on your experiences with online study in relation to the scholarship
-  * To be involved, if requested, in any scholarship related publicity as Career FAQs thinks fit in its absolute discretion to promote Career FAQs, study or any of Career FAQs’s activities. 
-
-
-
-b) Acknowledge that all right, title and interest in or relating to any scholarship written material you have produced or image of you taken by or on behalf of Career FAQs belongs to Career FAQs for its own use   
-c) Release Career FAQs from any claim by you or on your behalf, arising out of Career FAQs’s use of any scholarship written material you produce, photograph or video of you   
-d) If requested, you make be asked to participate in activities to promote your scholarship, including public speaking, media interviews and photographs 
-
-**5\. Scholarship value and payments  **
-
-**5.1 Value**
-
-The value of your scholarship is outlined in your provisional scholarship offer letter. 
-
-**5.2 Scholarship payments**
-
-Your provisional scholarship offer letter will detail information about payment of your scholarship. To be eligible to receive payment you must:
-
-  * Accept your provisional scholarship offer
-  * Maintain ongoing eligibility for your scholarship
-  * Comply with any requests for information by the due date as instructed in your provisional scholarship offer letter
-
-
-
-**Payment method**
-
-Payment must be made via direct deposit to an Australian bank account.
-
-**5.3 Taxation and Centrelink**
-
-Please seek your own independent advice from the relevant authorities on the effect, if any, that the scholarship may have on eligibility for Austudy, Abstudy, Youth Allowance or any taxation implications. 
-
-**6\. Retaining your scholarship**
-
-To retain your scholarship, you must:
-
-  * Advise Career FAQs of any change to your enrolment such as (but not limited to) leave of absence, cancellation of enrolment, change of citizenship, change of program, change of provider
-  * Maintain enrolment in a program
-  * Update Career FAQs on your experiences and perceptions, as requested
-  * Adhere to the course provider’s academic and administrative policies
-  * Adhere to the terms and conditions within this document
-  * You must also meet any additional criteria as on the scholarship web page: [www.careerfaqs.com.au/scholarship/](http://www.careerfaqs.com.au/scholarship/)
-
-
-
-**6.1 Termination of the scholarship**
-
-**6.1.1 Grounds for termination**
-
-Career FAQs may terminate your scholarship if you have:
-
-  * Discontinued your program or are not enrolled in a program
-  * Failed to meet the eligibility criteria and terms and conditions of your scholarship
-  * Provided false or misleading information when you apply for a scholarship, or once you receive a scholarship
-  * Been suspended or excluded for misconduct by your course provider
-  * Breached your course provider’s policies and procedures, rules and/or regulations or State or Commonwealth laws 
-
-
-
-**6.2 Consequence of termination**
-
-Your scholarship will be cancelled. In most cases, Career FAQs will request the repayment of scholarship monies.
-
-**7\. Provision of false or misleading information**
-
-The offer and tenure of your scholarship is based on the information that you provide to Career FAQs. Your scholarship may be withdrawn at any stage if you provide incorrect information or withhold relevant information.
-
-If you provide false or misleading information in an application or supporting documentation or once you have received a scholarship, this is grounds for disciplinary and/or legal action. 
-
-**8\. Privacy and confidentiality  **
-
-The information supplied to Career FAQs by applicants is collected for the primary purpose of assessing your eligibility to receive a scholarship. Other purposes of collection include dealing with administrative matters in relation to your application, corresponding with you, and the compilation of statistics. Your confidentiality will be respected at all stages of the process.
-
-**8.1 Republishing your information  **
-
-We will gain your permission to republish any information you provide Career FAQs in your application. 
-
-Survey Giveaway
-
-Your participation in the Career FAQs Survey Giveaway (The Giveaway) shall be deemed as your complete acceptance of the Terms and Conditions herein.
-
-  1. Each entrant shall be entitled to make one (1) entry into The Giveaway only. In the event that Career FAQs deems an entrant to have entered multiple applications or to have acted in bad faith with respect to The Giveaway, the entrant shall be excluded from The Giveaway and consequently ineligible to win the Promotional Prize.
-  2. The Giveaway is only open to entrants who are studying, or have finished studying, an online course, and are Career FAQs subscribers.
-  3. The Promotional Prize will be emailed to you once The Giveaway has ended. Career FAQs shall notify all winners via email within thirty (30) days of The Giveaway.
-  4. Your participation in The Giveaway is considered your agreement that Career FAQs may contact you.
-  5. All entrants who choose to ‘opt-in’ consent to have their contact details (first name, surname, email, city of residence) released to Career FAQs and receive ongoing marketing material and correspondence from Career FAQs.
-  6. The Prize is neither transferrable nor exchangeable and cannot be exchanged for its monetary value.
-  7. Career FAQs’ decision is final with respect to all matters relating to awarding of the Promotional Prize and shall not be subject to review or appeal by any entrant or by any third party.
-  8. By entering The Giveaway each entrant unreservedly agrees to these terms and conditions, which govern The Giveaway and the awarding of the Prize.
-  9. By entering The Giveaway, each entrant agrees to release, discharge and hold harmless Career FAQs, its legal representatives, affiliates, subsidiaries, agencies and their respective officers, directors, employees and agents from any damages whatsoever suffered or sustained in connection with The Giveaway or the acceptance of the Prize.
-  10. The winning entrants shall be solely responsible for any taxes levied in relation to the delivery or receipt of the Promotional Prize.
-  11. Career FAQs reserves the right to alter these Terms and Conditions at any time and in its sole discretion.
-  12. Career FAQs reserves the right, at any time, to cancel, modify or suspend The Giveaway if, in its sole judgment, The Giveaway is not capable of being conducted as specified. 
-
-
+If you require more information about Australia's Privacy Laws and the National Privacy Principles, you can access the Federal Privacy Commissioner's website at [www.privacy.gov.au](http://www.privacy.gov.au/). 
