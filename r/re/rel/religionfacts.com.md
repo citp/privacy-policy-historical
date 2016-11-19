@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the religionfacts.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407084847id_/http%3A//www.religionfacts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the religionfacts.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119060630id_/http%3A//www.religionfacts.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ReligionFacts
 
@@ -20,4 +20,4 @@ URL| [www.religionfacts.com/privacy](https://web.archive.org/privacy)
 Short URL| [rlft.co/1879](http://rlft.co/1879)  
 Published| October 3, 2013  
 Updated| November 10, 2015  
-MLA Citation| “Privacy Policy.” _ReligionFacts.com._ 10 Nov. 2015. Web. Accessed 7 Apr. 2016. <www.religionfacts.com/privacy>
+MLA Citation| “Privacy Policy.” _ReligionFacts.com._ 10 Nov. 2015. Web. Accessed 19 Nov. 2016. <www.religionfacts.com/privacy>
