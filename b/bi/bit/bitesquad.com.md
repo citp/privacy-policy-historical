@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitesquad.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610080018id_/http%3A//www.bitesquad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitesquad.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119021713id_/http%3A//www.bitesquad.com/privacy) for the most accurate reproduction.*
 
 # Bite Squad Privacy Policy - BiteSquad.com
 
