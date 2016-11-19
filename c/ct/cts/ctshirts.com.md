@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ctshirts.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418040915id_/http%3A//www.ctshirts.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctshirts.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120001144id_/http%3A//www.ctshirts.com/us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Charles Tyrwhitt
 
 Charles Tyrwhitt Shirts Limited ("We") are committed to protecting and respecting your privacy.
 
@@ -60,7 +60,7 @@ We may also use your data, or permit selected third parties to use your data, to
 
 If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
 
-If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
+If you are a new customer, and where we permit selected third parties to use your data, we (or they) may contact you with ads on our behalf across the Internet or to send postal mail to visitors we think may be interested in our products or services. To do this, the third parties will collect anonymous information about your visits to our Web site and your interaction with our products and services. This anonymous information is collected through the use of a cookie or pixel tag – industry standard technology used by most major Web sites. No personally identifiable information is collected in this process. They may also pool the anonymous information that they collect with other sources of information not collected during your visit to our website, which may include your name and mailing address, for purposes of determining whether you might be interested in receiving postal mail.
 
 If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the registration form).
 
