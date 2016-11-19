@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the job.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622053714id_/http%3A//www.job.com/my.job/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119093018id_/http%3A//www.job.com/my.job/privacy) for the most accurate reproduction.*
 
 # Job.com Jobs - Start your job search and find employment today!
 
@@ -20,7 +20,7 @@ We gather information about all of our users collectively, such as what areas us
 
 ### Information About You Specifically
 
-In some instances, such as when you sign up to use a service, enter into a contest, or purchase a product, we may need more specific personal information about you, such as name, address, e-mail address, telephone number, credit card number, etc. We may use that information to make you aware of additional products and services which may be of interest to you, send newsletters or service related emails if our service is temporarily down, provide you professional resume services, allow our professional resume writers to contact you for an interview, or to contact you regarding site changes. We may also ask you for other information, such as feedback regarding the site, the types of jobs you are interested in, etc., Again, in an effort to develop for you and deliver to you the best possible career website. 
+In some instances, such as when you sign up to use a service, register for job alerts, enter into a contest, or purchase a product, we may need more specific personal information about you, such as name, address, e-mail address, telephone number, credit card number, etc. We may use that information to make you aware of additional products and services which may be of interest to you, send newsletters or service related emails if our service is temporarily down, provide you professional resume services, allow professional resume writers to contact you for an interview, or to contact you regarding site changes. We may also ask you for other information, such as feedback regarding the site, the types of jobs you are interested in, etc., Again, in an effort to develop for you and deliver to you the best possible career website. 
 
 When applying for a job listed directly on Job.com or signing to become a member, we will ask you for additional information such as desired salary, ethnicity, career level, education level, and whether or not you have served in the U.S. Military. Some of this information is used as part of your profile that potential employers will be able to view if you post a resume and opt to have your resume viewable by employers. Specifically, ethnicity and gender are not viewable by employers. 
 
@@ -28,7 +28,7 @@ When applying for a job listed directly on Job.com or signing to become a member
 
 We do not disclose, share, sell, trade or rent information about your individual visits to Job.com, or personal information that you provide, such as your name, address, e-mail address, telephone number, credit card number, etc., to any outside parties other than as disclosed within this privacy policy. 
 
-We may provide your personal information to companies that provide services to help us with our business activities such as a credit card processing company to process payments, a third party customer service company that may offer customer support on our behalf. These companies are authorized to use your personal information only as necessary to provide these services to us. 
+We may provide your personal information to companies that provide services to help us with our business activities such as a credit card processing company to process payments, a third party customer service company that may offer customer support on our behalf, third party companies who email job alerts, special offers and other career related services. These companies are authorized to use your personal information only as necessary to provide these services to us. 
 
 We offer you the ability to utilize our career tools like resume writing, resume distribution, and education information services which are hosted by third party service providers however framed by Job.com. Although this section of the site has the look and feel of Job.com you are on our third party service provider's site and their privacy policy governs the collection and use of the information collected there. Your information is then shared back with Job.com in order for us to provide you the services you have requested. 
 
@@ -40,7 +40,7 @@ We may also disclose your personal information to any other third party with you
 
 ### Featured Programs
 
-On certain pages of our site we offer programs of third parties, such as colleges. The information collected on these pages is collected by Job.com and then passed on to the featured program entity to fulfill your information request. If you do not wish to have your personal information shared in this manner please do not fill out these forms, if you have already provided your information and do not wish to be contacted by these third parties please contact them directly. 
+On certain pages of our site we offer programs of third parties, such as colleges, resume writing companies, and other career sites who offer products such as matching job alerts. The information collected on these pages is collected by Job.com and then passed on to the featured program entity to fulfill your information request. If you do not wish to have your personal information shared in this manner please do not fill out these forms, or accept these offers, if you have already provided your information and do not wish to be contacted by these third parties please contact them directly. 
 
 ### Resumes
 
