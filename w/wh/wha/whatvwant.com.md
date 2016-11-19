@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatvwant.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604150638id_/http%3A//www.whatvwant.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatvwant.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119093141id_/http%3A//www.whatvwant.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Whatvwant
 
@@ -55,5 +55,5 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-[http://www.whatvwant.com](http://www.whatvwant.com/)  
-whatwewa@whatvwant.com 
+http://www.whatvwant.com  
+admin@whatvwant.com 
