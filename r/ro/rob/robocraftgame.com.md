@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robocraftgame.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627183153id_/http%3A//robocraftgame.com/download/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robocraftgame.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119150036id_/http%3A//robocraftgame.com/download/privacy-policy) for the most accurate reproduction.*
 
 # ROBOCRAFT | Privacy Policy
 
@@ -14,7 +14,7 @@ Freejam is committed to ensuring your privacy and protecting the security of you
 
 If you do not agree with any terms of conditions described in this Policy or the Terms of Service, you may not use the Website or the Game.
 
-If you have any comments or questions regarding our Policy, please [contact Freejam](http://robocraftgame.com/contactfreejam/ "Contact Freejam"). We will use reasonable efforts to respond to any email requests for information of assistance as soon as practicable.
+If you have any comments or questions regarding our Policy, please [contact Freejam](https://freejam.zendesk.com/hc/en-us/requests/new "Contact Freejam"). We will use reasonable efforts to respond to any email requests for information of assistance as soon as practicable.
 
 ## 2.1 Collecting Information
 
@@ -82,18 +82,18 @@ You also have the opportunity to subscribe to services for receiving e-mails (ne
 
 If you do not want Freejam to send you email about our products and services, you can opt-out at any time by clicking the unsubscribe link at the bottom of each email. Please note, however, that we may still contact you via email with questions or issues specific to your account.
 
-If you have questions about our privacy practices, please, [contact Freejam](http://robocraftgame.com/contactfreejam/ "Contact Freejam"). We will use reasonable efforts to respond to any email requests for information of assistance as soon as practicable.
+If you have questions about our privacy practices, please, [contact Freejam](https://freejam.zendesk.com/hc/en-us/requests/new). We will use reasonable efforts to respond to any email requests for information of assistance as soon as practicable.
 
-The accounts on Freejam Website are available only to individuals who are not under the age of thirteen (13). If you are under the age thirteen (13), you may not create an account on the Website, you may not sign up for any subscription service or buy anything through the Website, and you are not eligible to enter any of our sweepstakes or promotions. Persons under 13 years of age should not use the Website of Game.
+The accounts on Freejam Website are available only to individuals who are not under the age of ten (10). If you are under the age ten (10), you may not create an account on the Website, you may not sign up for any subscription service or buy anything through the Website, and you are not eligible to enter any of our sweepstakes or promotions. Persons under 10 years of age should not use the Website of Game.
 
-Except as may be required by law, Freejam will not knowingly collect, maintain, or disclose any personal information from children under the age of 13. We take kids privacy seriously, and encourage parents to play an active role in their children’s online experience at all times.
+Except as may be required by law, Freejam will not knowingly collect, maintain, or disclose any personal information from children under the age of 10. We take kids privacy seriously, and encourage parents to play an active role in their children’s online experience at all times.
 
 Freejam recommends that parents and guardians spend time online with their children to become more familiar with the type of content available on the Internet, including our online games.
 
 Parents and guardians should regularly oversee their children’s use of email and other online communications and transactional features. Control tools are available from online services and software manufacturers that can help provide a safe online environment for kids.
 
-If you suspect we have inadvertently collected information about a child under 13, please [contact Freejam](http://robocraftgame.com/contactfreejam/ "Contact Freejam") and we will promptly work to remove such information from our systems.
+If you suspect we have inadvertently collected information about a child under 10, please [contact Freejam](https://freejam.zendesk.com/hc/en-us/requests/new) and we will promptly work to remove such information from our systems.
 
 This Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. If we make a material change to the Policy, we will notify you by posting the change on the Policy and, if necessary, give you additional choices regarding such change. Your continued use of our Website will signify your acceptance of these changes.
 
-If you have any questions, complaints, or comments regarding this Policy, or have other questions or suggestions about our Website, please [contact Freejam](http://robocraftgame.com/contactfreejam/ "Contact Freejam").
+If you have any questions, complaints, or comments regarding this Policy, or have other questions or suggestions about our Website, please [contact Freejam](https://freejam.zendesk.com/hc/en-us/requests/new).
