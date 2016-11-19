@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thameslinkrailway.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629195410id_/http%3A//www.thameslinkrailway.com/contact-us/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thameslinkrailway.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119093955id_/http%3A//www.thameslinkrailway.com/contact-us/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy : Thameslink and Great Northern
 
@@ -40,7 +40,7 @@ Company No. 07934306
 
 1.5 Our representative for the purpose of the Act is:
 
-Chris Fisher  
+Julie Sadler  
 Internal Audit and Compliance Manager  
 1st Floor  
 Monument Place  
@@ -103,7 +103,7 @@ If you are an existing customer, we will only contact you by electronic means (e
 
 4.2. To prevent all contact by us to you: Alternatively you can opt out at any time by contacting us by using the following details:
 
-Chris Fisher  
+Julie Sadler  
 Internal Audit and Compliance Manager  
 1st Floor  
 Monument Place  
