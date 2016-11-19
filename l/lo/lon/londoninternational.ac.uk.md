@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the londoninternational.ac.uk privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417235856id_/http%3A//www.londoninternational.ac.uk/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londoninternational.ac.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119070126id_/http%3A//www.londoninternational.ac.uk/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy policy & Cookies | University of London International Programmes
 
-The University of London International Programmes recognises that data protection and privacy are an important issue, particularly with regard to the World Wide Web; consequently we take your personal privacy very seriously. The Privacy Policy gives an overview of what information is collected when you access our website and how certain information might be used.
+The University of London International Programmes recognises that [data protection](https://web.archive.org/data-protection) and privacy are an important issue, particularly with regard to the World Wide Web; consequently we take your personal privacy very seriously. The Privacy Policy gives an overview of what information is collected when you access our website and how certain information might be used. Please
 
-We adhere to the principle of data protection and privacy and endeavour to implement it within the guidance of current legislation.
+We adhere to the principle of data protection and privacy and endeavour to implement it within the guidance of current legislation. Read more on [University's data protection policy](https://web.archive.org/data-protection).
 
 ###  Accessing the University of London International Programmes website
 
