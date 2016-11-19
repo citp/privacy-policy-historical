@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwc.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623094613id_/http%3A//www.iwc.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwc.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119084945id_/http%3A//www.iwc.com/en-us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | IWC Schaffhausen
 
@@ -73,7 +73,7 @@ You have the right to choose whether or not to accept cookies and we have explai
 
 You can set your cookie preferences by changing your browser settings so that cookies from this Platform cannot be placed on your computer or mobile device. In order to do this, follow the instructions provided by your browser (usually located within the “Help”, “Tools” or “Edit” facility). 
 
-Further information about cookies, including how to see what cookies have been set on your computer or mobile device and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
+If you would like to learn more, please visit [www.aboutads.info/choices/](http://www.aboutads.info/choices/). More detail on how businesses use cookies is available at [www.allaboutcookies.org](http://www.allaboutcookies.org/). We are not responsible for effectiveness of or compliance with any third parties’ opt-out options.
 
 #### IP addresses
 
@@ -110,6 +110,14 @@ We want you to feel confident about using our Platform, and we are committed to 
 You have the right to ask for access to any personal information that we hold about you in our records, to correct any inaccuracies and to update any out-of-date information. You can also ask us not to send you direct marketing communications (however please note that we may continue to send you service related (i.e. non-marketing) communications, such as e-mail updates on your order status). If you wish to exercise any of these rights, please write to us at the address listed below. 
 
 You may unsubscribe from e-mail marketing communications at any time by e-mailing the address below in the section headed _“Contact us”_ or clicking on the ‘unsubscribe’ link in any IWC Schaffhausen marketing e-mails. 
+
+### Your California Privacy Rights
+
+Under California Civil Code Section 1798.83, if you are a California resident and your business relationship with us is primarily for personal, family or household purposes, you may request certain data regarding our disclosure, if any, of personal information to third parties for the third parties’ direct marketing purposes. To make such a request, please send an e-mail message our e-mail address below with “Request for California Privacy Information” in the subject line. You may make such a request up to once per calendar year. If applicable, we will provide you, by e-mail, a list of the categories of personal information disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, along with the third parties’ names and addresses. Please note that not all personal information sharing is covered by Section 1798.83’s requirements.
+
+### Children
+
+The Platform is not directed at anyone who we know to be under the age of 13, nor do we collect any personal information from anyone who we know to be under the age of 13. If you are under the age of 13, you should not use the Platform and should not submit any personal information to us.
 
 ### Contact us
 
