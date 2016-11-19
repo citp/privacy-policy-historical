@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windmobile.ca privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526054316id_/http%3A//www.windmobile.ca/accessibility-and-terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windmobile.ca privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119014051id_/http%3A//www.windmobile.ca/accessibility-and-terms/privacy) for the most accurate reproduction.*
 
 # WIND Mobile | Privacy Policy
 
@@ -37,6 +37,54 @@ WIND Mobile and its affiliates may use Personal Information for the following pu
 
 
 We will only use your Personal Information for the purposes for which it was collected, and will only retain your Personal Information only as long as we require it for such purposes.
+
+### Use of Cookies
+
+WIND Mobile uses cookies on the [https://www.windmobile.ca](https://www.windmobile.ca/) website and the WIND My Account mobile application. 
+
+**What are cookies?**
+
+Cookies are small pieces of text containing unique identification numbers that identify a user's browser – but not the user personally –. sent by their web browser by the websites they visit. A cookie file is stored in the user’s web browser and allows websites to recognize the user anonymously to assist in making their next visit to the website more useful for them.
+
+**How WIND Mobile uses cookies**
+
+When you use and access the WIND website, we may place a number of cookies files in your web browser.
+
+We use cookies for the following purposes:
+
+  * To enable certain functions of our site
+  * To provide analytics
+  * To store your preferences
+
+
+
+We use different types of cookies:
+
+  * Essential cookies. We may use essential cookies to authenticate users and prevent fraudulent use of user accounts.
+  * Preferences cookies. We may use preferences cookies to remember information that changes the way the website behaves or looks, such as the "remember me" functionality of a registered user.
+  * Analytics cookies. We may use analytics cookies to track information how the website is used so that we can make improvements. We may also use analytics cookies to test new promotions, pages, features or new functionality of the website to see how our users react to them.
+
+
+
+**Third-party cookies**
+
+In addition to our own cookies, we may also use various third-parties cookies to report usage statistics of the website and remarket our advertisements on other websites.
+
+**What are your choices regarding cookies?**
+
+If you'd like to delete cookies or instruct your web browser to delete or refuse cookies, please visit the help pages of your web browser.
+
+Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
+
+  * For the Chrome web browser, please visit this page from Google: <https://support.google.com/accounts/answer/32050>
+  * For the Internet Explorer web browser, please visit this page from Microsoft: <http://support.microsoft.com/kb/278835>
+  * For the Firefox web browser, please visit this page from Mozilla: <https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored>
+  * For the Safari web browser, please visit this page from Apple: <https://support.apple.com/kb/PH21411?locale=en_US>
+  * For any other web browser, please visit your web browser's official web pages.
+
+
+
+You can also opt-out of several third party ad servers' and networks' cookies simultaneously using a tool created by the Network Advertising Initiative located at <http://www.networkadvertising.org/managing/opt_out.asp>. Opting out of a network does not mean you will no longer receive online advertising. It does mean that the network from which you opted out will no longer deliver ads tailored to your web preferences and usage patterns.
 
 ### Disclosure of Information
 
@@ -87,3 +135,5 @@ Suite 710, PO Box 114
 Toronto, ON M5J 1A7  
 Canada  
 or by email to [privacyofficer@windmobile.ca](mailto:privacyofficer@windmobile.ca).
+
+Effective as of May 27, 2016
