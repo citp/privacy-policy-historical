@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitemate.com privacy policy that was archived on 2016-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160131113033id_/http%3A//www.elitemate.com/htm/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitemate.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119174606id_/http%3A//www.elitemate.com/htm/privacy.htm) for the most accurate reproduction.*
 
 # EliteMate.com's Privacy Policy, Online Dating, Picture Personals, Hottest Singles, Local Dating, Find Love, Friends, Pens Pals, Romance, Free Membership,
 
@@ -19,9 +19,9 @@ We also automatically collect certain information from visitors to, and customer
 
 If you send personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings, we will collect such information into a file specific to you. We use information in the file that we maintain for you, and other information that we obtain from your use of the services, to resolve disputes, troubleshoot problems, and enforce our customer agreements.
 
-We cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. For example, we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability.
+We cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. For example, we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. We can (and you authorize us to) disclose any information about you to law enforcement or other government officials, background check companies, skip tracing companies in our sole discretion,  as we believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringements, marriage physical abuse and/or infidelity, or other activity that is illegal or may expose us to legal liability.
 
-You have the right to opt-out of receiving communications from us and or our third-party partners by not submitting your information. When you submit personally identifiable information during registration or while visiting the Website, you have opted-in. By opting-in, you are requesting that we share your personal information with third parties. When you receive marketing communications or are otherwise contacted by any of these third parties or companies, you should directly notify them of how you would like them to use and share of your information directly with them.
+You have the right to opt-out of receiving communications from us and or our [ third-party partners](http://www.elitemate.com/htm/trustedthirdpartypartners.htm) by not submitting your information. When you submit personally identifiable information during registration or while visiting the Website, you have opted-in. By opting-in, you are requesting that we share your personal information with third parties. When you receive marketing communications or are otherwise contacted by any of these third parties or companies, you should directly notify them of how you would like them to use and share of your information directly with them.
 
 By submitting your information you agree to receive a third party newsletter from EliteMate.com and EliteMate News as well as any other EliteMate.com LLC or third party offers that we may choose. There is no cost to receive this newsletter(s). Should you have any questions or concerns or if you would like to discontinue receiving mailings simply email us at [ aff@elitemate.com](mailto:aff@elitemate.com)
 
@@ -53,7 +53,7 @@ We use third-party advertising companies to serve ads and collect information wh
 
 Third Party Cookies
 
-Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content.   These cookies contain no personally identifiable information.  The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to [http://www.aboutads.info/choices](http://www.aboutads.info/).
+Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content.   These cookies contain no personally identifiable information.  The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to [http://www.aboutads.info/choices](http://www.aboutads.info/choices).
 
 Use of cookies and other technologies to collect information. We use various technologies to collect information from your device and about your activities on our site or application.
 
@@ -71,6 +71,7 @@ EliteMate.com does not honor Do Not Track requests by its visitors or members on
 Opt Out Here  [ http://www.elitemate.com/myJsp/optout.jsp](http://www.elitemate.com/myJsp/optout.jsp "http://www.elitemate.com/myJsp/optout.jsp").  Please note that unsubscribing from this email list does not automatically unsubscribe you from any other email list on which you may be.  Please read the email carefully to find out which list from which you are unsubscribing.View EliteMate.com's  [ Terms And Conditions](http://www.elitemate.com/htm/terms.htm)   
 We reserve the right to modify this Privacy Policy at any time. Please visit this page regularly because after we update our privacy policy its posted to our website as notification a change was made.
 
-This privacy policy version was last updated January 31, 2013. 
+This privacy policy version was last updated May 12, 2016.  
+This privacy policy effective date is August 7, 2000.
 
 |  
