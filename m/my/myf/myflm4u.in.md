@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myflm4u.in privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520224227id_/http%3A//myflm4u.in/2015/01/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myflm4u.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119021711id_/http%3A//myflm4u.org/2015/01/privacy) for the most accurate reproduction.*
 
 # Privacy - myflm4u myflm4u
 
@@ -9,4 +9,4 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 Published: Sunday, January 18th, 2015
 
-Category: [ALL](http://myflm4u.in/category/all/)
+Category: [ALL](http://myflm4u.org/category/all/)
