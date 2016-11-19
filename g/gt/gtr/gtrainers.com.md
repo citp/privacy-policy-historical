@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtrainers.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603182006id_/http%3A//gtrainers.com/index/0-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtrainers.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119131413id_/http%3A//gtrainers.com/index/0-2) for the most accurate reproduction.*
 
 # Privacy Policy - GTrainers
 
