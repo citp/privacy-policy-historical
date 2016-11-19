@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobslab.in privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627173950id_/http%3A//www.jobslab.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobslab.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119032243id_/http%3A//www.jobslab.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Jobs Lab
 
@@ -38,7 +38,7 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Googleâ
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
  **Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Employees are notified in staff meetings of security policies and practices regularly. Access to data limited and employees obtain access to log files by a secured password. Career9 periodically reviews web security and ensures that all policies and practices are adhered to within the company. But since the Internet cannot be made absolutely secure, Career9 assumes no liability for disclosure of data due to errors in transmission or unauthorized third parties.
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Employees are notified in staff meetings of security policies and practices regularly. Access to data limited and employees obtain access to log files by a secured password. JobsLab periodically reviews web security and ensures that all policies and practices are adhered to within the company. But since the Internet cannot be made absolutely secure, JobsLab assumes no liability for disclosure of data due to errors in transmission or unauthorized third parties.
 
  **Notification of Changes**  
 JobsLab.in privacy practices may change periodically. JobsLab.in will notify users of changes only if the information collected from the user differs from that stated at the time of collection. JobsLab.in may also obtain the userâ€™s consent by posting notice on the site.
