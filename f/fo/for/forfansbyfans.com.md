@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forfansbyfans.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406224343id_/http%3A//www.welovefine.com/privacystatment) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forfansbyfans.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119063641id_/http%3A//www.welovefine.com/privacystatment) for the most accurate reproduction.*
 
 # Privacy Statement
 
