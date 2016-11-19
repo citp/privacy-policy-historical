@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glamourpage.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605195235id_/http%3A//www.glamourpage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glamourpage.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119063649id_/http%3A//www.glamourpage.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Glamourpage
 
