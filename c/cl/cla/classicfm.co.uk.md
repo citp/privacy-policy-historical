@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classicfm.co.uk privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614220339id_/http%3A//www.classicfm.com/about-classic-fm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicfm.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119033729id_/http%3A//www.classicfm.com/about-classic-fm/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Classic FM
 
