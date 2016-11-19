@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yumpu.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629220802id_/https%3A//www.yumpu.com/en/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yumpu.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119161646id_/http%3A//www.yumpu.com/en/info/privacy_policy) for the most accurate reproduction.*
 
 # Yumpu.com - Info - Privacy Policy
 
