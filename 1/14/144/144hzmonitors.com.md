@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 144hzmonitors.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624090307id_/http%3A//www.144hzmonitors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 144hzmonitors.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119034816id_/http%3A//www.144hzmonitors.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,6 +28,8 @@ You can read more about Amazon’s cookies on their [website](http://www.amazon.
 
 Our current affiliations are as follows:  
 **144hzmonitors.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com**
+
+**Amazon, the Amazon logo, AmazonSupply, and the AmazonSupply logo are trademarks of Amazon.com, Inc. or its affiliates.**
 
 We choose to be affiliated with this company for various reasons, including the range, user trust, prices and user reviews of monitors that our users are interested in. Another important reason, is the award-winning customer service and returns policy. It’s a company that many people are familiar with and have great trust in.  
 We really appreciate any purchases you make via our website as it is a great way to say thank you for the considerable amount of time and effort we spend on it and will encourage further growth of this website. Thank you for your support. You can also contribute in other ways: check our our [contribute](http://www.144hzmonitors.com/contribute/) page.
