@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the coindesk.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611160228id_/http%3A//www.coindesk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coindesk.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119013302id_/http%3A//www.coindesk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - CoinDesk
 
 Please read and understand this privacy policy. By visiting this website you agree and consent to the practices described in this privacy policy.
 
-This privacy policy only covers this website, operated by CoinDesk Ltd. Websites linked to from this site are not covered by this policy. We encourage our users to be alert when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information.
+This privacy policy only covers this website, operated by CoinDesk LLC. Websites linked to from this site are not covered by this policy. We encourage our users to be alert when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information.
 
 CoinDesk may collect personal information from visitors to this site. This information is used only to respond to enquiries and to monitor site usage.
 
@@ -12,7 +12,7 @@ Where personal data is requested through forms (including registration forms for
 
 By completing survey forms, your data may be used for data analysis and reports, and we may contact you about relevant events or with the results of the survey. Your personal information will not be published and it will not be shared with any third party without your consent.
 
-To unsubscribe from emails click the ‘Unsubscribe’ link in the footer of your email. To opt out of daily news emails you can also click the ‘Update Preferences’ link in the email footer. If you are still experiencing issues with your subscription preferences, please email [contact@coindesk.com](mailto:contact@coindesk.com). ** ** ****
+To unsubscribe from emails click the ‘Unsubscribe’ link in the footer of your email. To opt out of daily news emails you can also click the ‘Update Preferences’ link in the email footer. If you are still experiencing issues with your subscription preferences, please email contact@coindesk.com. ** ** ****
 
 **We use cookies to:**
 
@@ -31,7 +31,7 @@ Google's advertising requirements can be summed up by Google's [Advertising Prin
 
 These are put in place to provide a positive experience for users.
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the Doubleclick DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the Doubleclick DART cookie by visiting Google’s ad and content network privacy policy. ** ** ****
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the Double-click DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the Double-click DART cookie by visiting Google’s ad and content network privacy policy. ** ** ****
 
 **We have implemented the following:**
 
@@ -79,11 +79,11 @@ CoinDesk uses the Conversant display network to serve ads. It is possible to [op
 
 **Affiliate links**
 
-CoinDesk contains links to other sites. Some of these may be affiliate marketing links encoded by third parties. Such third parties do not collect any personally identifiable information.
+CoinDesk contains links to other sites. Some of these may be affiliate marketing links encoded by third parties, such as [Skimlinks](http://skimlinks.com/). Such third parties do not collect any personally identifiable information from CoinDesk.
 
 **Bitcoin Tips**
 
-CoinDesk supports testing of open bitcoin tipping standards in its meta-tags. Feedback can be provided to those developing such tools. 
+CoinDesk supports testing of open bitcoin tipping standards in its meta-tags. Feedback can be provided to those developing such tools.
 
 ### **Privacy Policy change log**
 
