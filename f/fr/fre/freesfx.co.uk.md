@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freesfx.co.uk privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605195420id_/http%3A//freesfx.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesfx.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119010645id_/http%3A//www.freesfx.co.uk/info/privacy) for the most accurate reproduction.*
 
 # freeSFX.co.uk - Privacy policy
 
