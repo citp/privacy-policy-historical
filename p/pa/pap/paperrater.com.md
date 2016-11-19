@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paperrater.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624163536id_/http%3A//www.paperrater.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paperrater.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119035833id_/http%3A//www.paperrater.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Paper Checker | Privacy
 
 Updated: December 4, 2013  
 **What This Privacy Policy Covers**
