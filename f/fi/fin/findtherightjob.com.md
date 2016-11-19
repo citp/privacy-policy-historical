@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the findtherightjob.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630141909id_/http%3A//www.findtherightjob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findtherightjob.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119011933id_/http%3A//www.findtherightjob.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## FindTheRightJob Privacy Policy
 
-Last Updated: 09/24/15
+Last Updated: 11/17/16
 
 This Privacy Policy describes the types of information we collect from and about you when you visit our website www.findtherightjob.com or any other website or online service owned or operated by CareerCo LLC that links to this Privacy Policy (the "Site"). This Privacy Policy also explains how CareerCo LLC may use and disclose such information, as well as your ability to control certain uses of it.
 
 If you have questions or complaints regarding our Privacy Policy or practices, please first contact CareerCo LLC, Compliance Department, 1200 South Ave., Staten Island, NY 10314, (718) 761-4800, [privacy@careerco.com](mailto:privacy@careerco.com).
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=6e3eeb64-b22d-4e4d-949b-c4839012927e "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=1dabc617-deeb-42a9-8f76-f35ab653784d)
 
 The TRUSTe certification applies to the following properties:
 
