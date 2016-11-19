@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sandicor.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611114824id_/http%3A//sandicor.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandicor.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119162049id_/http%3A//sandicor.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy - Sandicor, Inc. Your Source for MLS Property Data in San Diego County, California
+# privacy policy
 
 Sandicor, Inc. (Sandicor) is strongly committed to protecting the privacy of consumers of its interactive products and services. Throughout cyberspace, we want to contribute to providing a safe and secure environment for consumers, and in particular, ensure that members’ information is protected.
 
