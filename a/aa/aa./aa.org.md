@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aa.org privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514215226id_/http%3A//www.aa.org/pages/en_US/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aa.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119163404id_/http%3A//www.aa.org/pages/en_US/privacy-policy) for the most accurate reproduction.*
 
 # Alcoholics Anonymous : Privacy Policy
 
-Thank you for visiting the www.AA.org Web site and reviewing our privacy policy. This policy explains how we handle information about your visit(s) to A.A.’s site, how we protect your privacy and anonymity, and how this site is linked to other sites, such as the A.A.W.S. Online Store and Contributions Online that are internal to Alcoholics Anonymous.
+Thank you for visiting the www.AA.org Website and reviewing our privacy policy. This policy explains how we handle information about your visit(s) to A.A.’s site, how we protect your privacy and anonymity, and how this site is linked to other sites, such as the A.A.W.S. Online Store and Contributions Online that are internal to Alcoholics Anonymous.
 
 See the Site Disclaimer for information on how you may link from AA.org to outside sites, e.g., local intergroup/central offices or area committees and offices.
 
@@ -10,11 +10,11 @@ See the Site Disclaimer for information on how you may link from AA.org to outsi
 
 **1\. Introduction**
 
-This privacy policy is applicable to this Web site (the **“Site”** ), which is provided and operated by Alcoholics Anonymous World Services, Inc. ( **“A.A.W.S.”** or **“we”** ). **PLEASE READ THE FOLLOWING TERMS CAREFULLY BEFORE USING THE SITE.** Access to the Site is offered to you conditioned on your acceptance without modification of the terms, conditions and notices contained herein (collectively, the “Privacy Policy”). In addition, particular features, applications and activities offered as part of the Site may also be subject to additional privacy terms specified in connection with such features, applications and activities, all of which are incorporated herein by reference.
+This privacy policy is applicable to this Website (the **“Site”** ), which is provided and operated by Alcoholics Anonymous World Services, Inc. ( **“A.A.W.S.”** or **“we”** ). **PLEASE READ THE FOLLOWING TERMS CAREFULLY BEFORE USING THE SITE.** Access to the Site is offered to you conditioned on your acceptance without modification of the terms, conditions and notices contained herein (collectively, the “Privacy Policy”). In addition, particular features, applications and activities offered as part of the Site may also be subject to additional privacy terms specified in connection with such features, applications and activities, all of which are incorporated herein by reference.
 
 **BY ACCESSING OR USING THE SITE, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, DO NOT USE THE SITE.**
 
-Please note that this Privacy Policy applies only to information collected via the Site. It does not apply to information that you may submit to us by any other means or to Web sites maintained by other companies.
+Please note that this Privacy Policy applies only to information collected via the Site. It does not apply to information that you may submit to us by any other means or to Websites maintained by other companies.
 
 This Privacy Policy is incorporated into, and part of, A.A.W.S.’s [Terms and Conditions](https://b2c.aaws.org/t-termsandconditions.aspx) ( **“Terms and Conditions”** ) for the A.A.W.S. Online Store, which also govern your use of that related Site. Capitalized terms not defined in this Privacy Policy have the definitions in A.A.W.S.’s Terms and Conditions.
 
@@ -22,17 +22,17 @@ A.A.W.S. may modify, add, or delete portions of this Privacy Policy at any time 
 
 **2\. Personal Information**
 
-In connection with your use of the Site or particular features or components thereof, you may be required to provide, and we may collect, information that can identify you personally or that can be used with other sources of information to identify you ( **“Personal Information”** ). For example, if you create an account or purchase products on the Site, you will be asked to enter your name, e-mail address, phone number, credit card information and billing address. You may also provide Personal Information when you request customer service or other assistance, sign up to receive emails or other communications for us, or otherwise communicate with us via the Site.
+In connection with your use of the Site or particular features or components thereof, you may be required to provide, and we may collect, information that can identify you personally or that can be used with other sources of information to identify you ( **“Personal Information”** ). For example, if you create an account or purchase products on the Site, you will be asked to enter your name, email address, phone number, credit card information and billing address. You may also provide Personal Information when you request customer service or other assistance, sign up to receive emails or other communications for us, or otherwise communicate with us via the Site.
 
 Access to software applications that are owned and operated by third parties ( **“Third-Party Applications”** ) may require you to provide access to your Personal Information to the providers of such Third-Party Applications. In such cases, you will be informed about this either during the registration process, in the terms of use of the Third-Party Application, or in a similar manner. The Third-Party Application provider’s use of your personal information is governed by that third party’s privacy policy. Please note that if you choose to remove a Third-Party Application from your A.A.W.S. account, this does not necessarily mean that the relevant third party provider will delete Personal Information about you that they have previously received. Please visit the privacy policy of the relevant third party to make sure that you understand how they may use the Personal Information you provide to them. If you do not want such use of your Personal Information, you should not register for or use the applicable Third-Party Application.
 
 **3\. Anonymous Information**
 
-When you use the Site, A.A.W.S. may also collect certain information that does not identify you individually ( **“Anonymous Information”** ). For example, A.A.W.S. may collect information about your computer, mobile device, or other device that you use to access the Site (which may include, for example, IP address, geolocation information, unique device identifiers, browser type, browser language, and other transactional information) and about your use of our Web site (which may include, for example, a reading history of the pages you view).
+When you use the Site, A.A.W.S. may also collect certain information that does not identify you individually ( **“Anonymous Information”** ). For example, A.A.W.S. may collect information about your computer, mobile device, or other device that you use to access the Site (which may include, for example, IP address, geolocation information, unique device identifiers, browser type, browser language, and other transactional information) and about your use of our Website (which may include, for example, a reading history of the pages you view).
 
 **4\. Use of Cookies**
 
-Like many Web sites, A.A.W.S. may use “cookies,” which are files stored on your computer’s hard drive that help A.A.W.S. identify account holders and optimize their Web site experience. Most browsers accept cookies automatically but allow you to disable them. A.A.W.S. recommends that you leave cookies enabled so it can offer you a better Web site experience. A.A.W.S. will not drop cookies or other tracking devices that are persistent and/or cannot be erased on an end user’s hard drive.
+Like many Websites, A.A.W.S. may use “cookies,” which are files stored on your computer’s hard drive that help A.A.W.S. identify account holders and optimize their Website experience. Most browsers accept cookies automatically but allow you to disable them. A.A.W.S. recommends that you leave cookies enabled so it can offer you a better Website experience. A.A.W.S. will not drop cookies or other tracking devices that are persistent and/or cannot be erased on an end user’s hard drive.
 
 You may occasionally receive cookies from Third-Party Applications. A.A.W.S. does not control these cookies, and these cookies fall outside the scope of this Privacy Policy.
 
@@ -89,7 +89,7 @@ No transmission of data over the internet is guaranteed to be completely secure,
 
 **8\. Children**
 
-This is not a Web site directed to children under the age of 13, and A.A.W.S. does not knowingly collect personal identifiable information from children under 13 years of age. If you are under 13 years of age you should not use this Web site, and under no circumstance should you provide personally identifiable information to A.A.W.S.
+This is not a Website directed to children under the age of 13, and A.A.W.S. does not knowingly collect personal identifiable information from children under 13 years of age. If you are under 13 years of age you should not use this Website, and under no circumstance should you provide personally identifiable information to A.A.W.S.
 
 **9\. Local Law**
 
@@ -101,4 +101,4 @@ If you are located within the European Union, you should be aware that your pers
 
 **11\. Questions?**
 
-If you have any questions about this Privacy policy, please use the Web site **[feedback form](https://web.archive.org/pages/en_US/web-site-feedback-form)** to contact us.
+If you have any questions about this Privacy policy, please use the Website **[feedback form](https://web.archive.org/pages/en_US/web-site-feedback-form)** to contact us.
