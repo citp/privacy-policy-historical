@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lacartes.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611041136id_/http%3A//www.lacartes.com/legal-stuff/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacartes.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119055858id_/http%3A//www.lacartes.com/legal-stuff/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
