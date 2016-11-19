@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutrition-and-you.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401081553id_/http%3A//www.nutrition-and-you.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutrition-and-you.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119071354id_/http%3A//www.nutrition-and-you.com/privacy-policy.html) for the most accurate reproduction.*
 
 # www.nutrition-and-you.com Privacy Policy
 
@@ -42,7 +42,7 @@ A web beacon is a transparent image file used to monitor your journey around a s
 
 We may serve third-party advertisements that use cookies and web beacons in the course of ads being served on our website to ascertain how many times you have seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site.
 
-Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the double click DART cookie, which enables it to serve ads to our users' based on their visits to this site and/or other sites on the web. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). Google also uses information to dispaly ads based on user interest and demographic categories. 
+Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the double click DART cookie, which enables it to serve ads to our users' based on their visits to this site and/or other sites on the web. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/settings/ads/plugin?hl=en). Google also uses information to dispaly ads based on user interest and demographic categories. 
 
 The search box on this web site ("Search Box") is powered by Google Inc ("Google"). You acknowledge and agree that Google's [privacy policy](http://www.google.com/policies/privacy/) shall apply to your use of the Search Box and by using the Search Box, you consent to Google using your personal data in accordance with its [privacy policy](http://www.google.com/policies/privacy/).
 
@@ -53,7 +53,7 @@ Browsers can be set to accept or reject cookies or notify you when a cookie is b
 
 #### EU user consent policy 
 
-This website uses cookies to ensure you get the best experience on our website. We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. You may opt out of the use of the DART cookie by visiting using the [Ads Settings](http://www.google.com/ads/preferences), and [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+This website uses cookies to ensure you get the best experience on our website. We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. You may opt out of the use of the DART cookie by visiting using the [Ads Settings](http://www.google.com/ads/preferences), and [Google ad and content network privacy policy](https://www.google.com/settings/ads/plugin?hl=en).
 
   
 
