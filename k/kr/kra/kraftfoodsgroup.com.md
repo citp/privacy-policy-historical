@@ -1,96 +1,122 @@
-> *The following text is extracted and transformed from the kraftfoodsgroup.com privacy policy that was archived on 2012-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121210032036id_/http%3A//www.mondelezinternational.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kraftfoodsgroup.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119061715id_/http%3A//www.kraftheinzcompany.com/NewPrivacyPolicy.html) for the most accurate reproduction.*
 
-# Mondelēz International, Inc. Privacy Policy
+# The Kraft Heinz Company
 
-This website is owned and operated by Mondelēz International, Inc. Here at Mondelēz International, we recognize that many visitors to our site are concerned about the information they provide to us, and how we treat that information. So we've developed this Privacy Policy to address those concerns. We may update this Policy from time to time, so please check in occasionally. 
+## Kraft Heinz Site New Privacy Notice
 
-## Types of Information We Collect
+**Effective Date: September 1st, 2016**
 
-At our site, we collect both personally-identifiable information and aggregate information. 
+Your privacy is important to us. At The Kraft Heinz Company (“Kraft Heinz”), we recognize that visitors to our site may be concerned about the information they provide to us and how we handle that information. This Privacy Notice describes the types of information we collect from and about you when you visit any of our websites where this policy is posted (or the mobile optimized version of the website) (each a “Site”). This Privacy Notice also explains how we may use and disclose such information, as well as your ability to control certain uses of it. By using the Site, you agree to the collection, use, and disclosure of your personal information as described in this Privacy Notice. If you do not, please do not use the Site.
 
-Personally-identifiable information relates to an individual consumer - e.g., name, address, telephone number, e-mail address, credit card number, etc. We only collect personally-identifiable information from individuals who provide it to us voluntarily and knowingly, such as by registering at our site, or by providing name and address information and requesting follow-up contacts from us. We don't require you to register or provide this information to us in order to view our site or have access to its content. 
+## Information We Collect
 
-Aggregate information relates to such things as how many consumers visit the site, which pages they access, what information they download, the type of web browser and operating system you use, the name of your Internet Service Provider (e.g., America Online), and so on. When you visit our site, we automatically collect this information, and combine it with similar information collected about all other visitors. By collecting this information, we learn how to best tailor our website to our visitors.
+### Information You Provide
 
-## How Information is Collected
+We collect certain personal information from you when you choose to share it with us. This may include when you use one of our Sites; register on one or more of our Sites; make a purchase; sign up for a newsletter or one of our email lists; use our services; participate in a contest, sweepstakes, game, survey, or promotion; request information from us; or otherwise contact us. The personal information we collect may include your name, birth date or age, telephone number, and e-mail address. If you purchase products or services from Kraft Heinz, we may also request your credit/debit card number or other financial information, along with billing information, so we can fulfill your order or request.
 
-As we noted above, personally-identifiable information is collected from you directly and with your knowledge. Thus, when you register on the site, we collect the information you provide. When you enter a promotion, we collect the information needed for you to participate and for us to fulfill our obligations to you. When you e-mail us, we collect the e-mail address you supply, so that we can respond. 
+We don’t require you to register or provide personal information to view our Sites or access much of its content, such as our many delicious recipes. However, you may be required to provide certain personal information to create a Site account, use certain features, or receive certain offers. For example, when you participate in certain interactive features on our Sites, such as using our recipe exchange, recipe ratings, and product ratings and reviews, you may also provide us with certain information like your e-mail address, nickname, city and state of residency, or submit content, such as recipes, ratings, comments, or pictures to the Site.
 
-We also collect aggregate, non-personal information on an ongoing basis when you view our website. The collection of this non-personal information is done either through "cookie" technology or with "web beacons" (also called 'single-pixel gifs'), as explained below.
+In addition, we may give you the opportunity to tell your friends about certain features or information on our Sites. If you take advantage of our “Send to a Friend” option, we will ask you for your friend’s and your first name and e-mail addresses to send the information to them that you requested. We also offer visitors to our Sites various features for their enjoyment, which we may change from time to time. We may ask you to submit certain information so we can provide you with these features.
 
-## Cookies
+If you use a third party login to create your account (such as Facebook Connect) or otherwise link to us, we may receive certain information about you from the third party (such as a social network) based on your registration and privacy settings on those third party websites. We may combine the information you provide to us with information from and about you that we automatically collect when you visit the Site, from third parties, or other online and offline sources.
 
-Like many companies, we use "cookie" technology on and off of our website. Cookies are pieces of information that a website transfers to an individual's hard drive for purpose of keeping records. They enhance your online experience by saving your preferences while you are visiting a particular site. The cookies do not contain any personally-identifiable information and cannot profile your system or collect information from your hard drive.
+### Information Collected By Automated Means
 
-When you view our website we may place a "cookie" on your computer. Temporary cookies are used for purposes such as counting the number of visits to our sites. These temporary cookies are eliminated when you exit your browser. A permanent cookie may also be stored on your computer by your browser. When you log in, this type of cookie tells us whether you've visited us before or if you are a new visitor. The cookie doesn't obtain any personal information about you or provide us with any way to contact you, and the cookie doesn't extract any information from your computer. We do use the cookie to help us identify site features and recipes in which you have the greatest interest, so that we can provide more of what you may want. 
+We may use cookies, web beacons, pixel tags, log files, or local shared objects (such as Flash cookies), and other technologies to collect certain information about visitors to our Sites, use of our online services, and interactions with our emails and online advertisements, and to allow us to keep track of analytics and certain statistical information which enables us to improve the Sites and provide you with more relevant content and advertising on our Site and other sites.
 
-The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Remember, though, that cookies allow you to take full advantage of all of Mondelēz International's newest website features, and we recommend that you leave them turned on.
+For example, through these means, we may automatically collect information such as your browser type, operating system, mobile device type and carrier, Internet service provider (“ISP”), and Internet Protocol (“IP”) address. We may also collect information about your use of and interaction with the Site, including as the webpages viewed, the date and time you visit the Site, the areas or pages of the Site that you visit, the amount of time you spend viewing or using the Site, the number of times you return to the Site, other click-stream or site usage data, whether you open, forward, or click-through links, emails, and ads, and other Site usage data. Collecting this information, and linking it with your personal information, for example, helps us to best tailor our website and enhance your online experience by saving your preferences while you are visiting a particular site, and to help identify site features, recipes, advertisements, and offers that may be of particular interest to you.
 
-## Web Beacons
+When you view the site using a mobile device, in addition to the other information we may collect from your actions, we may collect your mobile phone number, device identifier, geolocation information, or device type and carrier.
 
-Web beacons are Internet instrumentation that helps us to determine, for instance, whether a page has been viewed. When you ask us to send you information on a promotion or newsletter, we may use web beacons to determine how many of the e-mails we sent were actually opened. In general, any electronic image viewed as part of a web page, including a banner ad, can act as a web beacon.
+We also may use third party advertisements placed by ad networks to support our Sites. Some of these advertisers and ad networks may use technology such as cookies, web beacons, pixel tags, log files, or local shared objects (such as Flash cookies) when they advertise on our Site, which will also send these advertisers and ad networks non-personal information including your IP address, ISP, browser type, and whether you have Flash installed. Some of these advertisers and ad networks also may use anonymous data, such as demographic data, received from third parties to assist in the delivery of advertisements to you. These third-party advertisers and ad networks use the information described above to provide you relevant advertisements based on your online behavior, search activities on our Site and on other third party sites, and demographic information, so that the advertising you see on our site more closely reflects your interests and needs. For example, if you search for, or browse a, recipe or product on our site, you may see an advertisement from a third party with information about, or an offer similar to, that for which you were searching or browsing on our site, or an offer related to a third party whose site you have visited in the past.
 
-Third party advertising networks that serve ads onto any Mondelēz International website may use cookies and/or web beacons in their advertisements. Mondelēz International retains no control over these third party cookies and/or web beacons and does not have access to whatever information they may collect on behalf of the third party. To learn more about third party advertising networks and their privacy policies, click here http://www.networkadvertising.org/. In addition, Mondelēz International may use cookies and/or web beacons when Mondelēz International advertises on other companies' websites. Any information we gather in this way will be governed by this Privacy Policy.
+### Tracking Options and California Do Not Track Disclosures
 
-## Contests and Sweepstakes
+Certain parts of our Site require cookies. You are free to set your Internet browser settings to stop accepting new cookies, to receive notice when you receive a new cookie, to disable existing cookies, and to omit images (which will disable pixel tags). On your mobile device, you may also adjust your privacy and advertising settings to control whether you want to receive more relevant advertising. By doing so, you may not be able to use certain features on the Site or take full advantage of all of our offerings. Please refer to your Web browser’s or operating system’s website or “Help” section for more information on how to disable your browser or operating system from receiving cookies or controlling your tracking preferences.
 
-Our site sometimes includes notices of promotions we are conducting, and we may permit you to enter electronically in some cases. If that occurs, we will use the information you provide for the purpose of conducting the promotion (e.g., to contact you if you're a winner). Within a reasonable time after the conclusion of the promotion, the personal information will be deleted from our database, unless you've agreed to permit us to keep it and use it to contact you again.
+Our system may not respond to Do Not Track requests or headers from some or all browsers. You can learn more about and opt out from receiving third party advertiser cookies by visiting the Digital Advertising Alliance’s [opt-out page here](http://www.aboutads.info/choices/). Without cookies or pixel tags though, you may not be able to take full advantage of all of Kraft Heinz website features. We adhere to the Digital Advertising Alliance Self-Regulatory Principles for Online Behavioral Advertising.
 
-## Questionnaires and Surveys
+### Information Collected From Other Sources
 
-We may occasionally ask visitors to complete surveys and opinion polls about their attitudes and interests. Surveys help us to understand your needs. If sample answers to surveys are posted on the website site, no personally identifiable information will be included. If you participate in one of our surveys, you can be assured that we do not maintain any personal information about you in our databases as a result of the survey.
+We may obtain information about you from other sources, including commercially available sources, such as data aggregators and public databases, or social networks that you use to connect with us. This information may include your name, demographic information, interests, and publicly-observed data, such as from social media, online activity, and shopping behavior. We may combine this information with the information we collect from you to help us tailor our communications to you and to improve our services and products.
 
-## How We Use Your Personal Information
+## How We Use Your Information
 
-If you specifically agreed to follow-up contacts by us or asked to be put on our mailing list when you registered, we may contact you from time to time. For example, we may send you marketing or promotion materials; we may respond to your comments or requests for information; or we may contact you if needed in the course of processing a product or service you requested through our website.
+We may use the information we collect from and about you to contact you from time to time, including for any of the following purposes:
 
-In the e-mail section of our site, we ask for some personally-identifiable information, such as your name and phone number. We use this information only if we need to contact you directly because our attempts to contact you by e-mail were unsuccessful. We don't use your e-mail address for any purpose other than responding to the message you've sent, unless we have your permission.
+  * To respond to your comments or questions, or contact you if needed while processing a product or service you requested through our website; 
+  * To improve our website, products, and services; develop new products or services; and conduct analysis to enhance current products and services; 
+  * To review the usage and operations of our Site and improve our content, products; and services, including contacting you for your opinions on Kraft Heinz products, services, or websites; 
+  * To send you promotional offers, newsletter, materials, and other communications and information about Kraft Heinz, its portfolio of brands, affiliates, and its partners; 
+  * To provide you with content that is customized to your interests, targeted offers, and advertising on the Sites, on third party sites and media platforms, including in social media, or via email; 
+  * To contact you as necessary when you enter a contest, sweepstakes, or game in order to conduct the promotion (for example, to contact you if you’re a winner); 
+  * To contact you when necessary; 
+  * To use your data in an aggregated non-specific format for analytical and demographic purposes; 
+  * To address problems with the Site or our business; 
+  * To manage our telecommunications networks; 
+  * To protect the security or integrity of the Site and our business; 
+  * As otherwise described to you at the point of data collection; and
+  * To use and disclose your credit/debit card information only to process payments and prevent fraud.
 
-We also use personal information about you to improve our marketing and promotional efforts; to statistically analyze website usage; and to improve our features and content. We may also use your personal information to deliver content that is customized to your interests as we best understand them from the information you've provided to us and your activities on the site. This customized content may include such things as recipes, banners, product information, and promotions. We do not collect personal information automatically, but we may combine non-personal information collected automatically (through cookies) with your previously submitted personal information.
 
-Mondelēz International's primary goal in collecting personal information is to give you a meaningful and customized experience while you are using our websites and interactive banner ads.
 
-## Third Parties Who Provide Support Services to Mondelēz International
+Additionally, if you use the Site to connect with third party services you authorize us to use information from and about you, on your behalf, to interact with these third party services based on your requests.
 
-In the course of doing business, we employ other companies and individuals to perform a variety of functions on our behalf. For example, we hire agencies to help administer consumer promotions, to analyze data, to fulfill orders you place, and to provide customer service. These agents may have access to personal information if it is needed to perform their functions for Mondelēz International; however, they are prohibited from using it for other purposes and they are required to maintain the information in confidence.
+## How We Share Your Information
 
-## Data Sharing and Transfer
+We do not sell or otherwise disclose personal information about our website visitors, except as described here. We do not share your personal information with unaffiliated third parties for their own marketing purposes without your consent. For California residents, please see “Your California Privacy Rights” below.
 
-We do not sell, transfer, or disclose the personally-identifiable information we gather at our website to third parties without your prior consent. There are only two exceptions to this rule: (1) We will disclose information in cases where we believe in good faith that it is necessary to prevent a crime or an injury to ourselves or third parties; and (2) We disclose information to third parties who provide support services to us, as described above.
+We may share the information we collect from and about you in the following ways: (1) among Kraft Heinz brands and subsidiaries; (2) to our third party service providers we have retained to perform a business, professional or technical support functions for us, including to the extent necessary or desirable to help run promotions, fulfill orders, complete your transaction, or provide customer service (these service providers may have access to personal information about our Site visitors if it is needed to perform their functions for Kraft Heinz, but they are not authorized by Kraft Heinz to use or disclose the information except as necessary to perform services on Kraft Heinz’s behalf or to comply with legal requirements); (3) as necessary to investigate or prevent an actual or suspected crime or injury to ourselves or others, as permitted by law; (4) if we believe that there has been a violation of our Terms of Use or of our rights or the rights of any third party; (5) to respond to judicial process or provide information to law enforcement authorities, regulatory agencies, or other government officials, or otherwise as required by law; and (6) as otherwise described to you at the point of collection.
 
-There may be times when we share aggregate information about our visitors (for example, the percentage of male and female visitors to our site) with advertisers, business partners, sponsors, and other third parties in an effort to customize or enhance the content and advertising of our site for our users. We may also aggregate data from web log files (such as your web browser, operating system, pages visited, etc.) to understand how users navigate the site and what features are most popular.
+In addition, we may share your email address with a third-party, such as a media agency, to send you interest-based advertising on our behalf. We may also share aggregated or de-identified information about you, including based on your email address, with our advertising and marketing partners, and third-party media platforms, including social media sites, to allow them to send targeted advertising messages and/or conduct analyses on our behalf. If you wish to stop receiving advertising messages from these third parties, please review the “Your Choices” section below. In addition, you may be able to opt out of these ads by clicking on an icon in the ad or through the privacy settings in each social media platform.
 
-## Links to Other Sites
+We may conduct joint promotions with other companies. We may share with our promotional partners (and their service providers) certain personal information as necessary to conduct the promotion. We will not share this information with our promotional partners for any other purpose unless you consent to such sharing.
 
-Mondelēz International does its best to make sure that every link on our website sends you to a helpful place on the Internet. However, websites and addresses change quickly, and Mondelēz International cannot guarantee the content of every site to which we provide a link. In addition, different websites have different privacy policies. You should always check the privacy policy of the specific site you're visiting to understand your rights.
+During the normal course of our business, Kraft Heinz may sell or purchase assets. If another entity acquires us or any of our assets, information we have collected about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties. Should a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personal information provided through the Site in a manner that is consistent with this Privacy Notice.
 
-## Choice and Control
+### Your California Privacy Rights
 
-You are ultimately in control of the personally-identifiable information you provide to us on our site. For example, you can always change your preference for follow-up contacts just by e-mailing the Online Team at the address listed below or by changing the information in Your Profile section of the site. Or, if you prefer, you can cancel your registration altogether and we will take prompt steps to remove your personally-identifiable information from our database. E-mail the Online team at the address listed below if you wish to take this action.
+For California Residents: We may share your personal information with affiliated third parties, some of which do not share the Kraft Heinz name, for their own direct marketing purposes. Because this category of affiliates is considered to be “unaffiliated parties” under California Law, you may opt out of us sharing with them. To opt out, please send a letter with your name, postal address, e-mail, with the heading “California Privacy Rights” to:
 
-## Important Note to Kids
+The Kraft Heinz Company  
+200 E. Randolph St.   
+Chicago, IL 60601  
+Attention: Consumer Relations
 
-Before providing your name, address, e-mail address, or any other personal information to anyone on the Internet, be sure to ask your parents if it's OK. 
+### Links To Other Websites
 
-## Children's Privacy Policy
+The Sites may contain links to other websites. We provide these links solely for your convenience and information. Different websites have different privacy practices. You should always check the privacy notice of the specific site you’re visiting to understand the privacy practices associated with that site. We are not responsible for the content or privacy practices of third party websites.
 
-We might permit a child to send us an e-mail. We will respond to or deliver these e-mails, but we do not store the names, e-mail addresses, or the e-mails themselves in our operational database. We do not maintain this information, nor do we share it with third parties (other than support service companies as described above).
+### Public Forums
 
-Under federal law, websites directed to children under 13 are prohibited from conditioning a child's participation in an activity on the child's disclosing more personal information than is reasonably necessary to engage in the activity. We comply fully with this requirement.
+Any information you may disclose on our Site, in blogs, on message boards, in chat rooms, or on other public areas on the Site or other third-party websites that this Site may link to, becomes public information. Please exercise caution when disclosing personal information in these public areas. Kraft Heinz cannot control the actions of third parties who may view the Site and use publicly-available information for their own purposes.
 
-Upon proper identification, any parent can review any personal information we have collected from their child, if we are still maintaining the information in our operational database. They may also request that the information be deleted from our database, and refuse to permit further collection or use of their child's information. If you are a parent and wish to exercise these rights, please contact the Online Team as described below.
+### Your Choices
 
-## Updates To This Privacy Notice
+You can change your preferences for follow-up contacts by the Kraft Heinz Company. [E-mail us](http://kraftfoods.custhelp.com/app/contact/sa/1) if you wish to take this action or call us at the number listed in the “Contact Us” section below.
 
-We may change or update portions of this Privacy Notice at any time and without prior notice to you. Please check back from time to time so you are aware of any changes or updates to the notice. We will indicate the notice's effective date on the first page of the notice.
+If you wish to limit how third parties use your email address to send you targeted advertising through social media on our behalf, [contact us here](http://www.kraftrecipes.com/registration/useroptout.aspx). Please allow 10 days for your email to be removed from our marketing database.
 
-## How To Contact Us
+### Children's Information
 
-If you have any questions about our Privacy Policy, you can contact us at:
+This site is intended for general audiences, and Kraft Heinz does not direct the Site to collect, or knowingly collect, any personal information from children under the age of 13.
 
-Mondelēz International  
-100 Deforest Avenue,   
-East Hanover, NJ 07936  
-Attention: Legal Department 
+### How We Protect Your Information
 
-We'll be happy to answer your questions or hear your concerns. 
+The security of your information is important to us. We have taken certain administrative, technical, and physical steps to safeguard the information we collect from and about our customers and Site visitors against unauthorized use, disclosure, alteration, or destruction. While we make every effort to help ensure the integrity and security of our network and systems, we cannot guarantee our security measures.
+
+### Updates To This Privacy Notice
+
+We may change or update portions of this Privacy Notice at any time. When we do, we will post the change(s) on the Site. Your continued use of the Site following the posting of changes to these terms means you accept these changes. Please check back from time to time so you are aware of any changes or updates to the notice. If we make any material changes, we will provide appropriate notice to you. We will indicate the notice’s effective date on the first page of the notice.
+
+### How To Contact Us
+
+If you have any questions about this Privacy Notice, you can contact us at: 
+
+The Kraft Heinz Company  
+200 E. Randolph St.   
+Chicago, IL 60601  
+Attention: Consumer Relations  
+1-800-543-5335  
+9 a.m. - 5 p.m. Eastern Time, Monday through Friday, excluding holidays.  
+[E-mail us](http://kraftfoods.custhelp.com/app/contact/sa/1). We would be happy to answer your questions or hear your concerns.
