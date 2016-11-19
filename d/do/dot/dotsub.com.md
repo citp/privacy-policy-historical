@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotsub.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410112812id_/https%3A//dotsub.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotsub.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119172236id_/https%3A//dotsub.com/privacyPolicy) for the most accurate reproduction.*
 
 # Dotsub Privacy Policy | Dotsub
 
