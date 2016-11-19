@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the myplexusproducts.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604150848id_/http%3A//backoffice.plexusworldwide.com/index.cfm%3FFuse%3Dpublic/Files%26Page%3DPrivacyStatement%26HideCloseWindow%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myplexusproducts.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119063808id_/http%3A//backoffice.plexusworldwide.com/index.cfm%3FFuse%3Dpublic/Files%26Page%3DPrivacyStatement%26HideCloseWindow%3D1) for the most accurate reproduction.*
 
 # Plexus Evo
 
   
 
 
-|  | 
-
-Privacy Statement   
-  
----|---  
-|   
   
 
 
@@ -45,8 +39,5 @@ This site gives users the option of changing and modifying information previousl
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us.  
   
-  
-
-
   
 
