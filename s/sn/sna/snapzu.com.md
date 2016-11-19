@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapzu.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604100103id_/http%3A//snapzu.com/teamsnapzu/snapzu-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapzu.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119092918id_/http%3A//snapzu.com/teamsnapzu/snapzu-privacy-policy) for the most accurate reproduction.*
 
 # Snapzu Privacy Policy - Snapzu.com
 
