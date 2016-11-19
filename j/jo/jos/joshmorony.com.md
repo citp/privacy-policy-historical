@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joshmorony.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616210815id_/http%3A//www.joshmorony.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joshmorony.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119084106id_/http%3A//www.joshmorony.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | HTML5 Mobile Tutorials | Ionic, Phaser, Sencha Touch & PhoneGap
+# Privacy Policy | joshmorony - Build Mobile Apps with HTML5
 
 **What information do we collect?**
 
@@ -32,8 +32,6 @@ We work with third parties to collect user data for conversion tracking and serv
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 **California Online Privacy Protection Act Compliance**
-
-[](https://joshmorony.com/building-mobile-apps-with-ionic-2/?utm_source=homepage&utm_medium=banner&utm_campaign=incontent)
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
