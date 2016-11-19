@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the visabureau.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329212030id_/http%3A//www.visabureau.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visabureau.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119030338id_/http%3A//www.visabureau.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy: Visa Bureau
 
   »   **Privacy Policy: Visa Bureau**
 
-Visa Bureau is not affiliated with the Australian Government but is an independent UK company. Australian visas are available from the Australian Government at a lower cost or for free when you apply directly. Our comprehensive [visa and immigration services](https://web.archive.org/australia/visa-bureau-service.aspx) include immigration advice from registered migration agents, an exceptional success rate, document checking and expedited visa processing. 
+Visa Bureau is not affiliated with the Australian Government but is an independent UK company. Australian visas are available from the Australian Government at a lower cost or for free when you apply directly. Our comprehensive [visa and immigration services](https://web.archive.org/australia/visa-bureau-service.aspx) include immigration advice from registered migration agents, an exceptional success rate, document checking and visa processing. 
 
 This Policy is devised to help you feel more confident about the privacy and security of your personal details. We collect and process personal data only in strict compliance with the Data Protection Act 1998 and associated legislation. 
 
@@ -16,7 +16,7 @@ Visa Bureau collect personal information from Online Visa Assessments, email and
 
 2\. Use of Personal information 
 
-Visa Bureau uses your personal information to assess your suitability for different visa classes and your data to tailor our service to match your needs. Visa Bureau may also use personal information collected to conduct market research, to determine site usage, to run competitions and for direct marketing purposes relating to our business. Visa Bureau does not sell or pass on its data to any third parties but we may use your data on behalf of a third party. 
+Visa Bureau uses your personal information to assess your suitability for different visa classes and your data to tailor our service to match your needs. Visa Bureau may also use personal information collected to conduct market research, to determine site usage, to run competitions and for direct marketing purposes relating to our business. Visa Bureau may pass your data to limited selected third parties but we will advise you when we do and will provide a mechanism for you to remove or delete your data from our systems. 
 
 By completing the Online Assessment you consent to being contacted by Visa Bureau in the future for marketing purposes only. This may include e-mail, contact by means of a telephone call, by post, text messaging or any other format. 
 
