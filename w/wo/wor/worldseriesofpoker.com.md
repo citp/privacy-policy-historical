@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the worldseriesofpoker.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605034950id_/http%3A//www.wsop.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldseriesofpoker.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119122757id_/http%3A//www.wsop.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # WSOP | Legal | Privacy Policy | New Jersey
+
+Privacy Policy was last updated on August 12th, 2016. 
 
 Corporate Privacy Policy  
 Special Provisions for WSOP.com  
@@ -8,15 +10,15 @@ Special Provisions for Financial Services Customers
 Online Privacy Policy  
 Unsubscribing from Email  
 Opting Out of Direct Mail  
-Caesars Windsor Privacy Policy
+Caesars Windsor Privacy Policy 
 
-If you prefer that we not share your personal information with Third Parties, please click here, and follow the instructions provided.
+If you prefer that we not share your personal information with Third Parties, please click here, and follow the instructions provided. 
 
 * * *
 
 ### CORPORATE PRIVACY POLICY
 
-We value you as a customer and take your personal privacy seriously. In the course of providing you with products and services, we may collect certain personal information that we understand may be considered private or confidential. We are therefore providing this Privacy Policy to explain our practices and policies for collecting, using and sharing information collected from or about you. In this Privacy Policy, terms such as "us" "we" and/or "our" refer to Caesars Interactive Entertainment New Jersey, LLC, and its subsidiaries and affiliates, the Total Rewards casinos and resorts owned, operated or managed by them or their affiliates (the full list is available at [www.totalrewards.com/our-casinos](http://www.wsop.com/legal/www.totalrewards.com/our-casinos)) ("Total Rewards Casinos,"), Bill's Gamblin' Hall & Saloon, Caesars Interactive Entertainment, Inc., including but not limited to WSOP.com and their respective websites and any applicable mobile applications. This Privacy Policy does not apply to any properties that are not Total Rewards Casinos (other than to Bill's Gamblin' Hall & Saloon) or to Caesars affiliates or properties outside of the United States and the term "Total Rewards" refers to our Total Rewards® loyalty program. The privacy practices and policies for the Caesars Windsor property may be found in the Caesars Windsor Privacy Policy below. 
+We value you as a customer and take your personal privacy seriously. In the course of providing you with products and services, we may collect certain personal information that we understand may be considered private or confidential. We are therefore providing this Privacy Policy to explain our practices and policies for collecting, using and sharing information collected from or about you. In this Privacy Policy, terms such as "us" "we" and/or "our" refer to Caesars Interactive Entertainment New Jersey, LLC, and its subsidiaries and affiliates, the Total Rewards casinos and resorts owned, operated or managed by them or their affiliates (the full list is available at <https://www.totalrewards.com/casino-directory.html>) ("Total Rewards Casinos,"), Bill's Gamblin' Hall & Saloon, Caesars Interactive Entertainment, Inc., including but not limited to WSOP.com and their respective websites and any applicable mobile applications. This Privacy Policy does not apply to any properties that are not Total Rewards Casinos (other than to Bill's Gamblin' Hall & Saloon) or to Caesars affiliates or properties outside of the United States and the term "Total Rewards" refers to our Total Rewards® loyalty program. The privacy practices and policies for the Caesars Windsor property may be found in the Caesars Windsor Privacy Policy below. 
 
 **Our Privacy Principles**
 
@@ -143,6 +145,8 @@ By using the Gambling Services you acknowledge and agree that your Personal Info
 
 When you use the Gambling Services, we collect your location coordinate data. A record confirming your presence within the State of New Jersey may be retained for up to 10 years as required by the applicable state and federal regulations. Nonetheless, the Company reserves the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect the Company's rights or property or as detailed in this Privacy Policy. 
 
+Certain services including GeoComply, will make use of your location data. If you use such services, you consent to us transmitting, collecting, maintaining, processing and using your location data in order to provide and improve location-based services. You may withdraw this consent at any time by turning off the location settings or by notifying us in writing that you would like to withdraw such consent. 
+
 **CONSENT**
 
 By providing your Personal Information and registering with us or logging on to the Website, you expressly consent to the collection, processing and disclosure of your Personal Information for the purposes described in this Privacy Policy. Your continued use of the Gambling Services included in the Website constitutes your agreement to this Privacy Policy and any amendments thereto. 
@@ -248,6 +252,6 @@ If you are not a Total Rewards member and would prefer not to receive further em
 
 We may from time to time send promotional materials to you by direct mail. If you do not want to receive promotional materials by direct mail from us, please visit the customer service center at any Total Rewards Casino or call 1-800-CAESARS (223-7277). Your name and address will be removed from that mailing list within 30 days after your request. 
 
-[ ](https://web.archive.org/download/poker/?sr=485691&ANID=HP1)
+[ ](https://web.archive.org/download/poker/?sr=485691)
 
 Share & Connect   
