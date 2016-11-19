@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betshoot.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608145648id_/http%3A//www.betshoot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betshoot.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015341id_/http%3A//www.betshoot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy of Betshoot.com
 
@@ -56,4 +56,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-Last updated: 11/05/2015
+Last updated: 11/07/2016
