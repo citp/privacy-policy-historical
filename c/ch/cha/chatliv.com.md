@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatliv.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515164751id_/https%3A//chatliv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatliv.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119043757id_/https%3A//chatliv.com/privacy) for the most accurate reproduction.*
 
 # privacy
 
@@ -42,3 +42,5 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
 As mentioned before, this privacy policy may change from time to time. 
+
+If you have any questions, please feel free to [contact us](https://www.facebook.com/pages/Chatlivcom/462047587234163) .
