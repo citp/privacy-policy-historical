@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presidentialserviceawards.gov privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620191621id_/http%3A//www.presidentialserviceawards.gov/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presidentialserviceawards.gov privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119011352id_/https%3A//www.presidentialserviceawards.gov/privacy.aspx) for the most accurate reproduction.*
 
 # The President's Volunteer Service Award
 
@@ -11,6 +11,8 @@ The website's registration, online surveys, contest and product order forms may 
 From time to time, we may use the standard "cookie" feature of major browser applications that allows us to store data about your visit. Cookies help us learn which areas of our site are useful and which areas need improvement. We do not set any personally identifiable information in cookies, nor do we employ any data capture mechanisms on our website other than cookies. You may configure your web browser to prevent cookies from being set on your computer.
 
 The PVSA WEB SITE may also gather anonymous, or aggregate, information, which may be used by us or shared with third parties. This is information which does not personally identify you, but which may be helpful for marketing purposes or for improving the services we offer. Generally, this information is collected through "traffic data" and may entail the use of numeric codes used to identify a computer.
+
+Applicable Public Burden Statements and Privacy Act notes are maintained [here](http://www.nationalservice.gov/official-forms/public-burden-statements-and-privacy-act-notices) with CNCS (OMB Control No. 3045-0086; expiration date 07/31/2019).  
 
 ### What does the PVSA WEB SITE do with collected information?
 
