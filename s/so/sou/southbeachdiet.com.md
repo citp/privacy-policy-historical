@@ -1,168 +1,133 @@
-> *The following text is extracted and transformed from the southbeachdiet.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405143927id_/http%3A//www.southbeachdiet.com/diet/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southbeachdiet.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119165715id_/http%3A//www.southbeachdiet.com/privacy/index.jsp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | South Beach Diet
 
-This Policy was last changed on December 26, 2013
+This Privacy Policy will tell you what information SouthBeach ("SouthBeach," "we," or "us") collects when you and others visit and interact with our website at SouthBeach.com ("Site") and use our mobile application ("Application," or "App") (the Site and App are collectively referred to as the "Properties")how we use it and what choices you have about how that information is used. We collect information from you and other users in connection with the provision of our weight loss services and programs (collectively, "Services").
 
-Everyday Health, Inc. and its subsidiaries ("Everyday Health," “us” or “we”) operates this website (the "Site"), and other health, wellness, diet and fitness websites that are part of the Everyday Health portfolio of websites (collectively, the "Sites") and the services related to or offered on the Sites (hereinafter, the "Services"). Some of the Sites are websites that we operate on behalf of third party licensors, for example, JillianMichaels.com, PDRHealth.com and SouthBeachDiet.com (collectively, "Licensors"). Everyday Health's Services may include, without limitation, tools, applications, email services, bulletin and message boards, chat areas, news groups, forums, communities, calendars, and downloadable mobile applications related to the Sites or provided through the Sites. 
+We urge you to read our entire Privacy Policy so that you will understand both our commitment to you and your privacy, and how you can participate in that commitment.
 
-We provide you this privacy policy (the "Policy") to help you understand the kinds of information we may gather about you when you visit the Site or use any of our Services, how we may use and disclose the information, and how you can control, correct and/or update the information. 
+**I. _Information You Voluntarily Provide_**
 
-To be clear about the terminology we are using, when we use the phrase "Personal Information" in this Policy, we mean information that can be used to identify or contact a person, like a person’s full name, address, e-mail address, or phone number. When we use the phrase "Anonymous Information" in this Policy, we mean information that cannot reasonably be used to identify individual persons. 
+**Personal/Contact Information**
 
-By visiting this Site or using the Services, you are accepting the policies and practices described in this Policy. Each time you visit the Site or use the Services, you agree and expressly consent to our collection, use and disclosure of the information that you provide as described in this Policy. 
+When you interact with our Propertiesfor example, placing an order, or creating a profile, we may request and collect certain information about you such as your name, e-mail address, mailing address, contact numbers, age, height, weight, credit card number, and expiration date, for the purpose of providing the Services to you. The personally identifiable information we collect when you place an order, create a profile or register for membership on or through our Properties may be used for the purposes outlined in this policy, including: (1) to fulfill your requests for products and services; (2) to notify you of order, delivery, and shipment statuses; (3) to provide you with offers from SouthBeach and its affiliates; (4) enhance your experience with us; and (4) to contact you when necessary.
 
-Your Personal Information will be processed by us in the United States. 
+We may also request and collect your basic health profile information in order to use certain Services on the Properties. For example, your health and age information allows us to provide you with dietary options according to your physical profile and dietary preferences. You will be notified at registration if your profile excludes you from participation in the App and/or Site. SouthBeach will not disclose your health and age information (including self-reported height and weight) to third parties.
 
-In addition to this general Policy, each Service may have additional privacy provisions that are specific to the particular Service. These supplemental disclosures are made adjacent to the particular Service at the time we collect the information. These supplemental disclosures also govern the use of your information. 
+**Credit Card and Payment Information**
 
-##  **1\. The Information We Gather**
+SouthBeach does not share any of your payment information with third parties (except to its payment processors).
 
-We collect information about you in the following ways: 
+**Information Provided in Optional Surveys**
 
-**A. Information you voluntarily provide us**
+SouthBeach periodically asks members to participate in online surveys or fill out online questionnaires concerning topics such as the effectiveness of the weight loss program, advertising effectiveness and customer satisfaction. All surveys and questionnaires are optional and the information collected will not be associated with any user’s personal information. Information gathered for these purposes may be shared with third parties in aggregated, non-personal form in order to improve customer satisfaction and program effectiveness. No personal information of any user will be connected to survey or questionnaire results.
 
-We collect and maintain information that you voluntarily submit to us during your use of the Sites and Services. For example: 
+**Other Information You May Voluntarily Provide**
 
-  * when you register for a Site, you may provide us certain information including your name, email address, screen name, password, demographic information and the health topics that interest you;
-  * to engage a Site's social networking function, you may add to your profile by providing information about your interests or health topics. For example, your profile may list your favorite healthy foods or movie;
-  * if you are registering for a customized weight loss program, you may provide us answers to questions we use to provide you the program, like your actual and goal weights, your preferred method of exercise, or your caloric intake;
-  * if you sign up to receive a newsletter, enter a contest or participate in social networking activities, you may provide us contact information (e.g., email or physical address);
-  * if you purchase a product or service, you may provide us your credit card information; and
-  * you may provide us with Personal Information in the course of email, customer support interactions and surveys. 
+From time to time, we may request and collect email addresses or other contact information about friends and family of our users and customers that they feel may benefit from the SouthBeach Services so that SouthBeach may send information to such people. For example, SouthBeach collects email addresses when a customer provides us with that information so that we may send out Referral Coupons. We also require the same when users utilize certain functions such as "email this to a friend" features.
 
+**Linking your account with third party applications and devices**
 
+For some of our Services, you will have an option to connect your SouthBeach account with third party wearable tracking application or device that measures or tracks your physical activity, such as exercise, resting or sleep (a "Wearable Device"). If you connect your SouthBeach account with an account registered to a Wearable Device, we may share information with the host or operator of that Wearable Device concerning your SouthBeach account. At the same time, data collected by your Wearable Device will be shared with us and used in connection with your SouthBeach account in accordance with the terms of this Privacy Policy. You may, at any time, cease this transfer of information. Additional information regarding what information your Wearable Device collects and uses is available from the host or operator of the Wearable Device.
 
-You can choose not to provide us with certain information, but this may stop you from gaining access to a Service or limit the features that you can use. For more information, please see the How We Use Your Information section below. 
+**II. _Information Collected Automatically_**
 
-**B. Information we collect through your use of the Site.**
+We also collect non-personally identifiable information through our Internet log files, which record data such as user IP addresses, browser types, domain names, and other anonymous statistical data involving the use of our Properties. This information may be used for our own business purposes. We may link this information to personally identifiable information for these and other purposes, including personalizing your experience on our Properties. Information is also collected when you use our App , including the software application needed to utilize the App. During the installation of the Application and subsequent synchronizations, we collect non-personally identifiable information concerning your mobile device (such as the specific type of operating system and hardware you have, and the amount of free and total memory) and the Application’s files on your mobile device.
 
-As you use the Site and Services, certain information may also be passively collected. Through cookies, pixels, beacons, log files and other technologies, we may collect information about how you use the Site and the Services. For example we may determine through an IP address that a particular computer or device is located in New York City and we may use this information to deliver advertisements promoting New York City-based businesses. This information allows us to deliver more helpful information, programs, tools and advertisements. Please see the Cookies and Targeted Advertising sections below for more information. 
+Our App also collects information about your usage of the Application (such as the dates you last synced with the Internet or the dates you last used certain features). When you sync your device with the Site, we store some of this information. Our App will also perform frequent synching of information with your Wearable Device
 
-**C. Information we receive from third parties.**
+**Cookies**
 
-We may also combine online and/or offline information received from third parties with the information we have already collected from you via our Sites and Services. The third party information is used for a variety of purposes including to verify other information about you (e.g., verify your mailing address to send you requested products or services) and to enhance the content and advertising we provide to you. 
+When you use our Site, we gather web traffic information via "cookies." Cookies are small pieces of digital information stored by your browser on your computer and tracks initial and returning visits, browsing patterns on our site, and products ordered and viewed. Our cookies do not contain personally identifying information, but they enable us to identify you as a repeat visitor and help us personalize your experience on the Site. Although most browsers are initially set to accept cookies, you may reset your browser to notify you when you receive a cookie or to reject cookies generally. Most browsers offer instructions on how to do so in the "Help" section of the toolbar. You need to have cookies enabled on your computer in order to use our Site. If you do not accept cookies to use our Site, you may not be able to use certain resources or features of our Site.
 
-## **2\. How We Use Your Information**
+**Flash Cookies**
 
-We will use your Personal Information in the ways described below or described at the time that the information is collected. 
+Certain features of our Site may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Site. Flash cookies are not managed by the same browser settings as are used for browser cookies, and they are not placed on your computer.
 
-**A. Advertising.**
+**Web Beacons, Pixel Tags, and 3rd Party Cookies**
 
-We believe that advertising is more interesting to you when it is relevant. Accordingly, we customize the advertisements that you see based upon: (i) the information that you provide us (e.g., age, gender, stated health interests and other information in your profile); (ii) geographic location information, which we may determine through your IP address, from your mobile device, or other ways; (iii) data we receive from third parties or; (iv) your visits on the Sites or use of Services (commonly referred to as "Behavioral Advertising"). Please see the Cookies and Targeted Advertising section below for more information on the use of cookies and the information collected for Behavioral Advertising. 
+We, or third parties engaged by us, may use web beacons on some pages of this Site. A web beacon (also known as a pixel tag or clear GIF) is a graphic image which is used to better understand the browsing patterns of visitors to the page.
 
-You can limit the way that we tailor advertising based on your self-reported interests and other information in your profile by clicking on the "Profile" or "My Account" section of this Site and deleting or modifying the information. On some Sites, the profile section is accessed through the MySite tab, (e.g., MyEverydayHealth or MyRevolution). Please see the section below on Updating and Control of Your Personal Information for more information. Please note that if you have registered on multiple Sites, you'll need to modify your profile on each Site. In addition, you can delete the cookies that we have placed on your browser. Please see the section below on Cookies, Web Beacons and IP Address Information for more information. 
+When the HTML code for the web beacon points to a site to retrieve the pixel image, information can be passed along such as the IP address of the computer that requested the image, the time the web beacon was viewed and for how long, the type of browser that was used, and previously set cookie values. Web beacons DO NOT pass or read personally identifiable information about you.
 
-**B. To Provide the Sites and Services.**
+Web beacons work in conjunction with cookies set by trusted third parties that are used to assess the effectiveness of particular promotional campaigns, to manage our advertising on other sites or to optimize advertising once a user leaves a website. View your browser’s help section to determine how to configure your browser to reject or manage first part (i.e., SouthBeach) and/or third-party cookies. We share aggregated information collected through web beacons to vendors for which the beacon was set to determine the success of marketing campaigns, but do not disclose personally identifying information to these vendors.
 
-In general, we use your Personal Information as necessary or appropriate for purposes including to:
+Third-party ad servers may track anonymous website usage through web beacons on our Site and other websites. They do this by setting a cookie (or reading a cookie previously placed by them) on users' computers to track the activities of users who view a web page that contains web beacons. Third party ad servers may use information about your visits to this Site and other websites in order to provide advertisements about goods and services that may be of interest to you. Periodically, upon our request, third party ad servers may report the anonymous data that they collect on our behalf back to us for our internal use and analysis and our treatment of this anonymous data is governed by the terms of this Privacy Policy. To learn more about targeted advertising, these providers, or how you may opt out, please visit the DAA’s consumer choice page at _http://www.aboutads.info/choices._ Technologies other than http cookies may be used by third parties in a similar way, to recognize the email recipients’ computer or device and to keep track of which user identities match to which devices or browsers, and those technologies may not respond to browser settings that block conventional cookies. You may opt out of many of these types of technologies by visiting the NAI’s opt out page at [http://www.networkadvertising.org](http://www.networkadvertising.org/).
 
-  * administer your account;
-  * register you and provide you access to the Site or Services;
-  * respond to inquiries or requests that you direct to us;
-  * fulfill your requests for products or services;
-  * send communications and administrative emails about the Sites or Services;
-  * personalize and better tailor the features, performance and support of the Sites and Services for your use;
-  * send you promotional/marketing information, newsletters, offers or other information regarding opportunities and functionality that we think would be of particular interest to you;
-  * improve the quality of the Site and the Services, and
-  * analyze, benchmark and conduct research on user data and user interactions with the Site and Services.
+**How we respond to "DO NOT TRACK" signals**
 
+We do not respond to web browser "do not track" signals or other mechanisms that provide you the ability to exercise choice regarding the collection of personal information about your online activities over time and across third-party websites or online services.
 
+We may use cookies and web beacons for insight with respect to the usage of the Site, and so that we could continually improve our customer’s experience. At times, we use third parties to analyze usage of our Properties . However, we do not disclose your personally identifiable information to such third parties.
 
-##  **3\. Cookies and Targeted Advertising**
+**III. _What SouthBeach Does With Your Information_**
 
- **A. Cookies, Web Beacons and IP Address Information**
+**How does SouthBeach protect customer information?**
 
-  * "Cookies" are small pieces of information that a website places on your browser when you visit that website. We may use cookies to provide you with a more personal and interactive experience with the Sites and Services. For example, we may use cookies to control what advertisements you see, the sequence of advertisements and to make sure you don't see the same advertisement too many times. For contests or sweepstakes, we may also use cookies in order to track your progress and the number of entries in some promotions. For polls, we may use cookies to help ensure that an individual can't vote more than once on a particular question or issue. We do not store Personal Information in any cookies on your computer.
-  * Cookies can be removed by following your Internet browser's directions within the help tab. In order to use certain Services offered through the Sites, your web browser must accept cookies. If you choose to disable cookies, some aspects of the Sites may not work properly, and you may not be able to access our Services.
-  * We may also use cookies, pixels, web beacons (which are usually small, transparent graphic images), operating system and device information and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit, the features and information for which you searched and viewed, the email you opened, or on which advertisements you clicked. This type of information is collected to make the Sites and Services more useful to you and to tailor the experience with us to meet your special interests and needs.
-  * An "Internet protocol address" or "IP Address" is a number that is automatically assigned to your computer when you use the Internet. We, or our service providers, may use your IP Address when you access the Sites or Services or use other means to assist with delivering geographically targeted advertisements. 
+Protecting your information from unauthorized disclosure is important to us. We use the industry standard technology intended to protect the security of your information. We have taken certain physical, electronic, contractual and managerial steps designed to safeguard the information we collect from you. Unfortunately, no data transaction over the Internet or stored on servers can be guaranteed to be 100% secure.
 
+**Will SouthBeach disclose the information it collects to outside parties?**
 
+We share your information (other than payment information) with third-party vendors for shipping and billing purposes and with other third-parties that provide a service for us to help us operate our business and the Site and administer activities on our behalf.
 
-**B. Targeted Advertising**
+We may also provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors.
 
-Companies Everyday Health works with may use cookies for purposes including understanding Web usage patterns of users who see advertisements on the Sites, controlling the sequence of advertisements you see, making sure you don't see the same advertisement too many times, determining your interests and tailoring advertisements and promotions based on those interests. For example, if you read an article about a particular health condition on the Sites, we may use cookies from a vendor to later serve you an advertisement for a product related to the viewed article. These third party vendors may connect information about pages you visit on our Sites with information about pages you visit on other websites and show you advertising based on this combined information. The advertisement may appear when you are visiting a different section of this Site, another Site or any other website on the Internet if the website also has a relationship with our vendor.
+In addition, from time to time, we may make customer e-mail addresses and postal addresses available to other third party businesses whose products or services we believe might be of value to you. If you do not want us to share your information with other companies or organizations for their marketing purposes, please let us know by unsubscribing here. If you opt-out of promotional or newsletter emails from SouthBeach, we may continue to send you certain communications such as service announcements and administrative messages, relating to SouthBeach that are necessary to our relationship with you and your use of the Services.
 
-You can choose to limit Behavioral Advertising on the Sites by clicking [here](http://www.aboutads.info/choices) and opting-out of cookies placed by those vendors listed. After you opt-out, you will still see advertisements but the advertising may not be as relevant to your interests. If you change your computer, change your browser, or delete your cookies, you will need to renew your opt-out. Our Sites currently are not setup to process or respond to “Do Not Track” settings or signals from web browsers. We do adhere to the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance (for more information click [here](http://www.aboutads.info/consumers)).
+In addition to what we have described above, SouthBeach may also disclose your personal information to third parties in certain limited circumstances, as follows (1) as necessary if we believe that there has been a violation of our site Terms and Conditions, of the law, of our rights or of any third party; (2) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (3) if you have given permission for us to share your account information with other members of your household.
 
- **C. Information Collected by Third Party Advertisers**
+SouthBeach may also sell, transfer or otherwise share some or all of its assets, including your personally identifiable information and non-personally identifiable information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. You will have the opportunity to opt out of any such transfer if the new entity's planned use or sharing of your information differs materially from that set forth in this Privacy Policy.
 
-Advertisers or other third parties on the Sites may also engage in Behavioral Advertising and use cookies and web beacons in the manner described above. We do not control these advertisers or other parties' use of cookies or web beacons or what they do with the information they collect. Many third party vendors that engage in Behavioral Advertising participate in the Network Advertising Initiative (NAI) and/or the Digital Advertising Alliance (DAA) and abide by NAI and/or DAA principles. If you wish to opt out of participating in advertising programs conducted by NAI and DAA members or learn more about the NAI and DAA, please go to the **[NAI Opt-Out](http://www.networkadvertising.org/managing/opt_out.asp)** website and **[DAA Choice Page](http://www.aboutads.info/choices)** and follow the instructions. After you opt-out, you will still see advertisements, but the advertising may not be as relevant to your interests. If you change your computer, change your browser or delete your cookies, you will need to renew your opt-out.
+**Mobile Devices/Third-Party Fees**
 
-##  **4\. How We Disclose Information to Third Parties**
+From time to time, we may make mobile device applications and mobile marketing campaigns available to you and may allow you to register for services that involve messages and/or e-mails being sent to your mobile device. You are responsible for costs related to such services, such as third-party fees, including mobile carrier, text messaging, or airtime charges. You are solely responsible for those fees, including any and all fees associated with the use of the applications, delivery of the messages, e-mails or other materials to your mobile device. Please consult your mobile service provider's pricing plan prior to purchasing or downloading any application or registering for any such service to determine the charges for sending and receiving text messages from/to your mobile device. You will be given the opportunity to opt-in to receive text messages or emails to your mobile device at the time you register for the campaign and with each message or email you receive.
 
-We may share your Personal Information with third parties as specifically approved by you or under the circumstances described below. If you do not want us to use or disclose Personal Information collected about you in the ways identified in this Policy, you should not use the Site or Services. 
+Mobile marketing campaigns may involve your sending an e-mail from your mobile device to us or a third-party campaign operator. An e-mail or other response will then be sent to your mobile device. Opting to participate in a campaign is 100% your choice. When you engage in these mobile marketing campaigns, we and the third-party campaign operator may collect your cell phone number, the name of your wireless service provider, images that you send using your cell phone as part of the campaign, and other relevant information.
 
-**A. Disclosure for legal reasons.**
+**Our Bulletin Boards, Social Media Pages, Chat Rooms & Blogs**
 
-We may disclose and release your Personal Information to third parties: (a) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (b) in special cases, such as a physical threat to you or others, a threat to homeland security, a threat to our system or network, or in any cases in which we believe it is reasonably necessary to investigate or prevent harm, fraud, abuse, illegal conduct or a violation or alleged violation of this Policy or other agreement we may have with you. 
+As part of our Services, we may provide support through bulletin boards, chat rooms (support groups), social media pages, The Palm and blogs (collectively, "Forums"). Forums give our customers the opportunity to interact with each other. Forums are moderated to help keep inappropriate messages from being posted. You are offered the opportunity to include your e-mail address with your message, but you are not obligated to do so. Please keep in mind that whenever you voluntarily disclose personal information through or on these Forums your information can be viewed, collected and used by others. In short, if you post personal information in a Forum that is accessible to the public, you may receive unsolicited messages from other parties in return. We cannot control the actions of any third parties. By posting any comments, pictures or other information ("Content") in a Forum hosted by us, you grant us a non-exclusive, irrevocable, perpetual and worldwide right to copy and post both such Content within our Site, and those of our parent, affiliates, subsidiaries, assigns, agents and licensees and any social media outlets and advertising medium through which we are engaged or elsewhere on our Site, without any further notice to you or any remuneration therefore.
 
-**B. Agents and Contractors.**
+**IV. _Your Rights and Your Consent_**
 
-We may provide your Personal Information to service providers who work on our behalf or help us to operate our business, the Sites and the Services. Examples of such service providers include vendors and suppliers that provide us with technology, services, and/or content for sending email, analyzing data, research, providing advertising and marketing assistance, processing payments (including credit card payments), and providing customer service. Access to your Personal Information by these service providers is limited to the information reasonably necessary to perform its limited function. 
+**A Special Note to Parents or Legal Guardians**
 
-**C. Aggregated, Anonymous Information.**
+The SouthBeach Service and Properties are only intended for persons 18 years and older. For parents interested in helping children younger than 18 to lose weight, please consult a physician. Our Properties and Service are not intended for nor directed to children under the age of 13 and we shall not knowingly solicit or collect any personal information from such children. If we become aware of such collection, we will promptly delete such information.
 
-We may share aggregated Anonymous Information about you with third parties. Aggregated information is your Anonymous Information that is combined with the Anonymous Information of other users. 
+**Notice to California Customers – Your California Privacy Rights**
 
-**D. Contests, sweepstakes and polls.**
+California’s "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. Accordingly, as discussed above, if you wish to opt-out of our sharing of your information with third party businesses for the third parties’ direct marketing purposes, please unsubscribe here.
 
-Some or all of the information collected during a promotions, contest, polls, or sweepstakes (“Promotions”) may be disclosed publicly. It may also be shared with other third parties as disclosed at the time of collection or in the Promotion rules. These third parties may include providers of prizes in order to update you of your status of your prize or other fulfillment needs or a co-sponsor who may use your Personal Information to administer the Promotion or for their marketing purposes, but only in conformance with their privacy policy as made available to you at the time of collection. Everyday Health is not responsible for their privacy policy or practices. 
+**Your Consent and Notification of Change**
 
-When you participate in a Promotion, you are subject to any official rules for that Promotion, which may contain additional information about the specific privacy practices associated with the Promotion. 
+By using our Properties, telephone consultation, or mailing in requests for information, you consent to our collection and use of your information in accordance with this Policy. If you do not agree to the terms of this Privacy Policy, you should not use our Property.
 
-**E. Long-Term-License Services.**
+If at some point in the future, there is a change to our information usage practices that affect your personally identifiable information, we will notify you by e-mail or by posting the change on or through our Properties, depending on the change. Accordingly, you should, from time to time, check this Policy for changes. All amended terms automatically take effect 30 days after they are posted. Also, depending on the nature of the change, you may have the option to opt-out of the new information usage by unsubscribing here.
 
-Some of the Sites are websites that Everyday Health operates on behalf of Licensors, for example PDRHealth.com, JillianMichaels.com and SouthBeachDiet.com. Everyday Health may share some or all of your Personal Information with its Licensors. This Policy does not cover the use of your Personal Information by Licensors. The privacy practices of Everyday Health's Licensors may differ from this policy and we encourage you to contact those third parties directly if you have questions regarding their use of your Personal Information. 
+If you want to subscribe to our e-newsletter, we only require your e-mail address. You may unsubscribe at any time by following the opt-out directions in the newsletter or by unsubscribing here.
 
-**F. Sponsors, Merchants and other ways that you approve at the time of collection.**
+If you opt-out of promotional or newsletter emails from SouthBeach, we may continue to send you certain transactional communications, such as service announcements and administrative messages relating to your account with us, that are necessary to our relationship with you.
 
-We may collect Personal Information about you and share it with third parties to the extent that you give us permission at the time of collection. For example, if you purchase a deal or service, we will provide your information to the applicable merchant or vendor. We also sometimes gather Personal Information on behalf of a sponsor in association with a promotion. In such a case, we will provide you notice at the time of collection that the information is being collected on the sponsor's behalf and link to the sponsor's privacy policy. 
+**Corrections/Updates**
 
-**G. Within our Company; Changes to our Company.**
+To make changes to any of your personal information, including name, username, password, shipping address, and telephone number, you can click in the My Account section of the SouthBeach Site or call us at 1-888-841-2620. Household members may not make changes to your account information, or cancel or renew your account without your express permission. If you have not already indicated your permission for household members to access your account at the time you placed your first order, please call 1-888-841-2620.
 
-We may share your Personal Information with any of our subsidiaries, joint ventures, or other companies under common control. Additionally, in the event we go through a business transition such as a merger, acquisition by another company, or sale of all or a portion of our assets, your Personal Information may be among the assets transferred. You acknowledge that such transfers may occur and are permitted by this Policy. 
+**V. _Third-Party Websites_**
 
-## **5\. Message Boards and Chats**
+Our Properties may contain links to third-party websites, which may have privacy policies that differ from our own. We are not responsible for the activities and practices that take place on these sites. Accordingly, we recommend that you review the privacy policy posted on any site that you may access through our site.
 
-We may make message boards, chat rooms, and other interactive forums available as part of the Services. You should be aware that any information which you post to these interactive forums or otherwise choose to make publicly available, including your Personal Information, may be disclosed and available to all users who have access to that portion of the Site or Services. By using these interactive forums, you agree that we are not responsible for any information that you disclose or communicate in such forums, and any disclosures you make are at your own risk. 
+**VI. _Tell Us What You Think_**
 
-## **6\. Children's Information**
+SouthBeach welcomes your questions and comments about privacy and/or this policy. Please send e-mail to: [feedback@southbeachdiet.com](mailto:feedback@southbeachdiet.com). 
 
-The Site and Services are not directed or intended for children under 13 years of age. We do not knowingly collect Personal Information from individuals under 13 years of age. If you are under 13 years of age, you should not register or provide Personal Information on the Site or through the Services. If you are the parent or guardian of a child whom you believe has disclosed Personal Information to us, please contact us at privacy@everydayhealth.com so that we may delete and remove such child's information from our systems. 
+SouthBeach Diet, Inc.  
+600 Office Center Drive  
+Fort Washington, PA 19034  
+Att: Legal Compliance  
+215-706-5300 
 
-## **7\. Updating and Control of Your Personal Information**
+Privacy Policy effective October 28, 2016
 
-We offer you choices regarding the collection, use, and sharing of your Personal Information. When you receive promotional communications from us you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the promotional e-mail or newsletter you receive or by editing your preference to receive these communications within the "Manage My Email" or similar feature on the individual Sites when you are logged in as a registered user.. 
+**Terms and Conditions**
 
-If your Personal Information changes or if you no longer desire to use or access one of the Sites or Services, we encourage you to correct, update or remove the Personal Information from your profile. This can be done at the "Profile" or "My Account" section on each of the Sites. (On some Sites the profile section is accessed through the MySite tab, e.g., MyEverydayHealth or MyRevolution). Keep in mind, however, that even if you delete information from your profile, we may retain your Personal Information in conformance with our data retention policy and Personal Information may remain within our databases, access logs, and other records. In addition, we are not responsible for updating or removing your Personal Information contained in the lists or databases of third parties who have been provided information as permitted by this Policy. 
-
-## **8\. Co-branded Sections of the Sites**
-
-Certain portions of the Sites may be co-branded with a business partner and subject to a different privacy policy that is either the partner's privacy policy or a privacy policy developed jointly by Everyday Health and our partner (collectively the "Co-branded Policy"). The partner's collection, use and dissemination practices regarding any data or Personal Information provided by, or obtained from users of these Co-branded portions of the Sites will be governed by the Co-branded Policy. Please read the Co-branded Policy for each Co-branded Site before providing any Personal Information. 
-
-## **9\. Third Party Links**
-
-The Sites may link to websites operated by third parties that we do not control. We do not monitor, control, or endorse the information collection or privacy practices of any third parties. We encourage you to become familiar with the privacy practices of every website you visit and to contact them if you have any questions about their respective privacy policies and practices. This Policy applies solely to information collected by us through the Sites or Services and does not apply to these third party websites. The ability to access information of third parties from the Sites or Services, or links to other websites or locations, is for your convenience only and does not signify our endorsement of such third parties, their products, services, websites, locations or their content. 
-
-## **10\. Security**
-
-We place a priority on the security of Personal Information, and we undertake reasonable security measures to help protect the data that resides on our servers. We also use secure server software (SSL) to process all financial transactions that occur on the Site. SSL technology can encrypt Personal Information transmitted over the Internet. However, no security system is impenetrable. We do not warrant the security of our servers, nor do we warrant that your information, including Personal Information, will be completely secure or not be intercepted while being transmitted over the Internet. 
-
-## **11\. How To Contact Us**
-
-If you have any questions regarding privacy or this Policy, you may contact us as follows: 
-
-Telephone: 888-795-4719 
-
-Email: privacy@everydayhealth.com 
-
-Address:   
-Everyday Health, Inc.   
-345 Hudson Street, 16th Floor   
-New York, NY 10014 
-
-## **12\. Privacy Policy Changes**
-
-We reserve the right to change, modify, add or remove portions of this Policy at any time and without prior notice, and any changes will become effective immediately upon being posted unless we advise you otherwise. Your continued use of the Site or Services after this Policy has been amended shall be deemed to be your continued acceptance of the terms and conditions of the Policy, as amended. We encourage you to bookmark this Web page and review this Policy regularly. 
+Please also read the [Terms and Conditions](https://web.archive.org/terms/index.jsp) on the applicable South Beach Property to understand additional [terms and conditions](https://web.archive.org/terms/index.jsp) which apply to the use of such Property.
