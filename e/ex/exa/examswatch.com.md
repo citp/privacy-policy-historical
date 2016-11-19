@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the examswatch.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610193108id_/http%3A//examswatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examswatch.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119041654id_/http%3A//examswatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ExamsWatch
+
+  
+  
+
 
 **ExamsWatch.com Privacy Policy**
 
@@ -65,10 +69,10 @@ By using www.examswatch.com, you indicate your acceptance for this policy. If yo
 If there any question regarding the privacy policy of out site, you may contact using the information below.
 
 ExamsWatch Media  
-Ground Floor, 12, VDS Market,  
-Sector-51, Noida,  
+A-79, 2nd Floor,  
+Sector-3, Noida,  
 Uttar Pradesh, 201301,  
 Email: [editor _@examswatch.com_](mailto:editor@examswatch.com)  
-Phone no.: 09760199730, 09650146683.
+Phone no.: 09760199730, 09650146683, 0120-4573626.
 
-Privacy Policy last update on May 7, 2016.
+Privacy Policy last update on August 6, 2016.
