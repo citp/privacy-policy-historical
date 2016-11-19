@@ -1,85 +1,49 @@
-> *The following text is extracted and transformed from the pervcity.com privacy policy that was archived on 2011-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110314010833id_/http%3A//pervcity.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pervcity.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119020839id_/http%3A//www.pervcity.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This document was last updated on October 02, 2010.
-
 * * *
 
-## Section 1. Acknowledgement and Acceptance of Terms.
+PLEASE READ THIS PRIVACY POLICY STATEMENT CAREFULLY. BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE WITH THE POLICIES AND PRACTICES SET FORTH IN THE PRESENT PRIVACY POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY STATEMENT. 
 
-We are committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing this website, you acknowledge and fully understand our Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE.  
+The present Privacy Policy Statement details important information regarding the use and disclosure of user information and/or data gathered regarding subscriber ("you") and members of PervCity.com network ("our", "we", "us" the "site") websites including but not limited to, BangingBeauties.com, OralOverdose.com, AnalOverdose.com, ChocolateBJs.com, and UpHerAsshole.com. In addition, this Privacy Policy sets forth all relevant policies and practices for the sites.
 
-* * *
+### USE
 
-## Section 2. Participating Merchant Policies
+This is an adult site that expressly and strictly limits its membership to adults. This site does not knowingly seek or collect any personal information or data from persons under the age of 18. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents on this site without exception. If you are under the age of 18 and/or under the age of majority in the jurisdiction you reside and from which you access the website, then your account will be terminated without notice.
 
-Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in our services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
+### INFORMATION COLLECTED FROM SUBSCRIBERS
 
-* * *
+Any customer that joins/signs up as a subscriber of the site will be required to provide personal information as well as demographic information which may include the subscriber's name, physical address, e-mail address, zip code, country, username, and password. The site collects any and all such information and includes it in its customer database. In addition, other information such as IP address(es), referring website information, browser information, and other related data may be collected, stored, and used.
 
-## Section 3. Information We Collect and How We Use It
+### USE OF PERSONAL SUBSCRIBER INFORMATION 
 
-Anyone under the age of 18, may only use this site and its services in conjunction with and under the supervision of their parents or guardians, and with express permission from us. For this reason, we ask that anyone under the age of 18 should not submit any personal information through our site. This website collects certain information from and about its users three ways: directly from our Web Server logs, information provided by user, and with Cookies.
+If the site features or conducts any special events, special promotions or offers, contests or polls, a subscriber of the site may be asked to provide information in order to participate, if the subscriber voluntarily provides that information, all such information may be collected by the site and included in its customer database.   
+If a subscriber sends any personal communication or correspondence by any means, to the site, or any of its employees, agents or representatives, the site may collect the information regarding that communication and include that information in its customer database. The site may also automatically collect traffic and click-through data as well as information regarding the online behavior of subscribers by the use of "cookies" or other programming means - any information about subscribers collected by the site through the use of cookies or other programming means will generally not be associable to the specific user in any way.
 
-* * *
+### DISCLAIMER
 
-## a. Web Server Logs
+By the subscriber's use of the site, the subscriber expressly agrees that the site may use any personal information that has been provided by the subscriber or that has been collected by the site about the subscriber for any purpose, including without limitation, technical, administrative, research and development, customer administration, marketing, trading of personal data, age verification, promotional and advertising use by the site or third parties authorized to use the information by the site.  
+By the subscriber's use of the site, the subscriber expressly agrees that the site may, in its sole discretion share, disclose, transfer, rent, license or sell any of the personal information about subscribers that it has gathered or collected with affiliated or unaffiliated third parties. All personal information about a subscriber may be collected by a third-party web service provider that has an advertising banner or link on the site.  
+The site is not responsible or liable for the use of any information that a subscriber may provide, or that is gathered by third-party websites that have banner ads or links on the site. The site shall not be responsible for the privacy policy or the content of other such websites. This site does not control, monitor or endorse the information gathering practices or privacy policies of any of those third-party websites.  
+Whenever applicable, each subscriber should seek to read the privacy policy of any third-party website provider that has an advertising banner, advertises or has a link on the site. All information collected may be shared when necessary to comply with applicable law and /or to cooperate with law enforcement agencies and the courts/tribunals. A subscriber's IP address may be used to diagnose problems with the server and all other technical issues and to administer the websites.
 
-When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
+### SECURITY OF INFORMATION COLLECTED BY THE SITE
 
-  * Your Internet protocol address.
-  * The kind of browser or computer you use.
-  * Number of links you click within the site.
-  * State or country from which you accessed the site.
-  * Date and time of your visit.
-  * Name of your Internet service provider.
-  * Web page you linked to our site from.
-  * Pages you viewed on the site.
+The site has adopted and implemented reasonable and technologically feasible procedures for maintaining the security, accuracy and integrity of all personal information relating to subscribers that is collected by the site.  
+While the website uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information, the transmission of information via the Internet is not completely secure. All subscribers should consider any information provided to or collected by the site as non-confidential, and consequently the site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient.
 
+### FINANCIAL INFORMATION
 
+All financial data will only be shared with the site's third party processors in order to initiate and complete any orders placed on your account. All credit card transactions and such are processed with industry standard encryption through third party processors. Said processors only use your information for that purpose. All financial data and information shall be considered private information and will not be shared by the site with third parties except with your authorization or when necessary to carry out all and any transactions requested by the user with the understanding that such transactions may be subject to rules, terms, conditions and policies of a third party. All such information provided to a third party and all transactions are not governed by this Privacy Policy. All such information provided to a third party is subject to their terms and conditions.  
+Subscriber's e-mail address may be used by the site to communicate special offers and other relevant information such as new services, subscription information, etc. In addition, there may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials.
 
-* * *
+### "OPT-IN" & "OPT-OUT" PROVISIONS
 
-## b. Use of Cookies
+"OPT-IN AND USER COMMUNICATION" – Subscriber's expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, some offers may be presented to the subscriber via email campaigns or other means of communications with the option to express the subscriber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes", the subscriber indicates that the subscriber "OPTS-IN" to that offer and thereby agrees and assents that the subscriber's personal information, including its email address and data may be used for that matter or disclosed to third-parties."  
+"OPT-OUT AND USER COMMUNICATION" – Subscriber's expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, other offers may be presented to the subscriber via email campaigns or other means of communications with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT- OUT" of the offer) then the site may transfer the subscriber's personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
 
-This site uses cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality. We reserve the right to share aggregated site statistics with partner companies. For more information about how our third-party service providers may use cookies, please see Section 4, below. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
+### CHANGES/MODIFICATIONS TO PRIVACY POLICY
 
-* * *
-
-## c. Use of Personal Information
-
-Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you requested and/or purchased and any applicable fees that are compliant with our Terms of Use. If you purchase by credit card, the information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting. Under some circumstances we may require some additional financial information, including, without limitation, your billing address, bank account information, and tracking information from checks or money orders. We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
-
-* * *
-
-  * To fulfill your service requests for services,
-  * To protect ourselves from liability,
-  * To respond to legal process or comply with law, or
-  * In connection with a merger, acquisition, or liquidation of the company.
-
-
-
-* * *
-
-Please note that we will use your information and other information we obtain from your current and past activities on the site to resolve any disputes, troubleshoot problems, collect fees owed, pay amounts due you, or verify your account data. We employ many different security techniques to protect any personal data from unauthorized access by users inside and outside the company, however please be aware that "perfect security" does not exist on the Internet or with any digital or physical data.
-
-* * *
-
-## Section 4. Third Party Advertisers, Use of Web Beacons or GIF Files
-
-This Website may contain electronic images known as Web beacons, sometimes also called single-pixel gifs, that allow us to count users who have visited those pages and to deliver co-branded services. We may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon. Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. This information in addition to the web searches you make while visiting this website and your web surfing behavior on this site and other websites you may visit is used to show you advertisements tailored to your interests on other websites and other forms of media. If you would like to know more about these practices and your choices about not having this information used to target ads to you, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). We prohibit Web beacons from being used to collect or access your personal information.
-
-* * *
-
-## 5\. Accessing Web Account Information
-
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant via our contact form.
-
-* * *
-
-## 6\. Changes to this Statement
-
-We have the discretion to occasionally update this privacy statement. When we do, we will also revise the "updated" date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
-
-* * *
+This privacy policy may be changed, modified or edited at any time. It is the subscriber's responsibility to verify the Privacy Policy intermittently to see if there has been any change. All changes to the privacy policy shall be in effect thirty days after it is posted, unless the terms of the privacy policy indicate otherwise. 
