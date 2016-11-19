@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesscasestudies.co.uk privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607160610id_/http%3A//businesscasestudies.co.uk/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesscasestudies.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119041138id_/http%3A//businesscasestudies.co.uk/info/privacy-policy) for the most accurate reproduction.*
 
 # Business Case Studies
 
