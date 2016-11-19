@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the japancentre.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428024333id_/https%3A//www.japancentre.com/en/privacies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japancentre.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119154132id_/https%3A//www.japancentre.com/en/privacies) for the most accurate reproduction.*
 
 # Japan Centre - Japanese Food Hall since 1976
-
-We use cookies to give you the best possible experience on our website. Read our [Privacy Policy](https://web.archive.org/en/privacies) to learn more.
 
   * [ __](https://web.archive.org/en)
   * PRIVACY POLICY
