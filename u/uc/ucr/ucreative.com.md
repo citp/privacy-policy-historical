@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucreative.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530041424id_/http%3A//www.ucreative.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucreative.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119033113id_/http%3A//www.ucreative.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | UCreative.com
 
