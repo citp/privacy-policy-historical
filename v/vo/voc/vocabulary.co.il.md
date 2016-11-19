@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vocabulary.co.il privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607163233id_/http%3A//www.vocabulary.co.il/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocabulary.co.il privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119190401id_/http%3A//www.vocabulary.co.il/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Legal
 
