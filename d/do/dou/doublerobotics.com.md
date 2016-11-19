@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doublerobotics.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519140630id_/http%3A//www.doublerobotics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doublerobotics.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119100206id_/http%3A//www.doublerobotics.com/privacy.html) for the most accurate reproduction.*
 
-# Double Robotics - Privacy Policy
+# Double Robotics - Telepresence Robot for Telecommuters
 
 ### Privacy Policy
 
