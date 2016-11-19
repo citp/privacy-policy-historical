@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arihantbooks.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616043032id_/http%3A//www.arihantbooks.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arihantbooks.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119130535id_/http%3A//www.arihantbooks.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | arihantbooks.com
 
