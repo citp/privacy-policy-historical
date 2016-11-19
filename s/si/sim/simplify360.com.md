@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplify360.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625031417id_/http%3A//simplify360.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplify360.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119142358id_/http%3A//simplify360.com/privacy-policy) for the most accurate reproduction.*
 
 # Social Customer Service Platform - Simplify360
 
