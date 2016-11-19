@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nlng.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630183356id_/http%3A//www.nlng.com/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nlng.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015943id_/http%3A//www.nlng.com/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
