@@ -1,0 +1,54 @@
+> *The following text is extracted and transformed from the troubleshooter.xyz privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119012543id_/http%3A//troubleshooter.xyz/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy - Troubleshooter
+
+At Troubleshooter, we admit that privacy is important. This document outlines the types of personal information we receive and collect when you use our services, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
+
+### How we allow you to use our data?
+
+We have our content purely written in our very OWN way and yes, we have got it protected and it’s our copyright. Articles on Troubleshooter.xyz may be carried on, to other websites, forums, or blogs provided that, you include a clear link back to the original article URL link. eg : Source – [Troubleshooter](http://troubleshooter.xyz/).
+    
+    
+    **Recommended:** Before trying anything on this website you should create a backup of all of your data as well as Registry 
+    and create a system restore point first. All use is completely at your own risk.
+
+### What data do we collect?
+
+We may collect information like your website, email & your name when you post a comment on this blog or when you contact us. We do not share your email address with anyone its only use to contact you. Troubleshooter.xyz does not collect any information without user’s knowledge.
+
+### How is the data used?
+
+We will just combine personal information collected from you at different times to provide the services you’ve requested & to provide a better user experience, including customizing content for you.
+
+### Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
+
+### Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. Therefore we have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+### Statement On Cookies
+
+When you visit our websites we use cookies. Cookies allow us to identify the computer or device you’re using to access our websites – but it won’t affect the user’s experience.  **This website uses “persistent” cookies. Cookies help us to store a bit of website data on your device, which helps the site to load fast in successive sessions.**
+
+### Use of cookies for Analytics
+
+We use _Google Analytics_ to analyze the use of this website. _Google Analytics_ generates statistical and other information about website use by means of cookies, which are stored on users’ computers. The information generated relating to our website is used to create reports about the use of the website. _Google_ will store this information. _Google_ ‘s privacy policy is available [here](https://www.google.com/policies/privacy/).
+
+### Advertisement
+
+Troubleshooter.xyz uses third-party advertising solutions to serve ads when you visit our website. These companies may use information, not including your name, address, email address, or telephone number, about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+
+Browsing this website and using the information shared here clearly implies that you’re accepting the above-mentioned policies. Please feel free to Contact us for any questions or concerns regarding your privacy:
+
+Contact Information  
+[www.troubleshooter.xyz](http://troubleshooter.xyz/)  
+Gautam Budh Nagar  
+India  
+Uttar Pradesh  
+201008  
+[adityafarrad@gmail.com](mailto:adityafarrad@gmail.com)
+    
+    
+    **Last updated: 10th Oct 2016**
