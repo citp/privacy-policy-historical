@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activebeat.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518094622id_/http%3A//www.activebeat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activebeat.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119205152id_/http%3A//www.activebeat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ActiveBeat
 
