@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the arts.ac.uk privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528192115id_/http%3A//www.arts.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arts.ac.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119174454id_/http%3A//www.arts.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies - UAL
 
-This privacy policy sets out how University of the Arts London uses and protects any information that you give University of the Arts London when you use this website.University of the Arts London is committed to ensuring that your privacy is protected 
+This privacy policy sets out how University of the Arts London uses and protects any information that you give University of the Arts London when you use this website. University of the Arts London is committed to ensuring that your privacy is protected 
 
 Should we ask you to provide certain information by which you can be identified by when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -80,8 +80,8 @@ We use our cookies to help us: 
   * Collect any personally identifiable information (without your express permission).
   * Pass data to advertising networks.
   * Pass personally identifiable data to third parties.
-  * YouTube - [Privacy Policy](https://www.youtube.com/static?&template=privacy_guidelines "YouTube Privacy Policy") powers some of the videos on our site.
-  * Google - [Privacy Policy](http://www.google.com/intl/en/policies/privacy) is used for Google map integration and analytics. We have enabled Demographics and Interests tracking with Universal Analytics. To opt out of being tracked by Google Analytics across all websites [visit](http://tools.google.com/dlpage/gaoptout).
+  * YouTube - [Privacy Policy](https://www.youtube.com/static?&template=privacy_guidelines "YouTube Privacy Policy") powers some of the videos on our site.
+  * Google - [Privacy Policy](http://www.google.com/intl/en/policies/privacy) is used for Google map integration and analytics. We have enabled Demographics and Interests tracking with Universal Analytics. To opt out of being tracked by Google Analytics across all websites [visit](http://tools.google.com/dlpage/gaoptout).
   * Vimeo - [Privacy Policy](http://vimeo.com/privacy)
   * Wufoo - [Privacy Policy](http://www.wufoo.com/privacy)
   * Twitter - [Privacy Policy](https://twitter.com/privacy)
@@ -126,9 +126,9 @@ We use:
 
 ## Turning cookies off 
 
-Most web browsers allow some control of most cookies through the browser settings. You can learn more about doing this by visitng About Cookies [Website](http://www.aboutcookies.org/). Doing so however may limit the functionality of our website.
+Most web browsers allow some control of most cookies through the browser settings. You can learn more about doing this by visiting About Cookies [Website](http://www.aboutcookies.org/). Doing so, however, may limit the functionality of our website.
 
-It may be that your concerns around cookies relate to so-called "spyware". If so, then rather than switching off cookies in your browser you may find that anti-spyware software achieves the same objective by automatically deleting cookies considered to be invasive. Learn more about managing cookies with antispyware [software](http://www.aboutcookies.org/).
+It may be that your concerns around cookies relate to so-called "spyware". If so, then rather than switching off cookies in your browser you may find that anti-spyware software achieves the same objective by automatically deleting cookies considered to be invasive. Learn more about managing cookies with antispyware [software](http://www.aboutcookies.org/).
 
 ## Links to other websites
 
