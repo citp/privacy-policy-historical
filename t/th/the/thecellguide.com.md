@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecellguide.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512002028id_/http%3A//www.thecellguide.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecellguide.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119182640id_/http%3A//www.thecellguide.com/privacypolicy.php) for the most accurate reproduction.*
 
 # TheCellGuide
 
