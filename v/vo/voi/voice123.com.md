@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voice123.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322051426id_/http%3A//voice123.com/doc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voice123.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119231217id_/http%3A//voice123.com/doc/privacy.html) for the most accurate reproduction.*
 
 # Voice123 - The Voice Over Marketplace - Voice Overs, Voice Actors, and Talents
 
@@ -127,4 +127,4 @@ The Site may provide hyperlinks to third party Web sites or access to third part
 
 We may amend this Privacy Policy at any time by posting the amended terms on the Site. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
 
-If you have any questions you can answer them online, you may write to us at: Voice123 - 995 Market Street, 2nd Floor, San Francisco, CA 94103, or by clicking on the “Contact Us” link at [about Voice123](http://voice123.com/). 
+If you have any questions you can answer them online, you may write to us at [help@voice123.com](mailto:help@voice123.com)
