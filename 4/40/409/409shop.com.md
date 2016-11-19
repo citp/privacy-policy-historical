@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 409shop.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626182340id_/http%3A//www.409shop.com/shop_displaynews.php%3Fid%3D565%26locate%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 409shop.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119165350id_/http%3A//www.409shop.com/shop_displaynews.php%3Fid%3D565%26locate%3D1) for the most accurate reproduction.*
 
 # 409shop walkie talkie buy-two-way-Radio-Wholesale-retail
 
@@ -53,4 +53,5 @@ When you use 409SHOP services, we make good faith efforts to provide you with ac
 **Enforcement**  
 409SHOP regularly reviews its compliance with this Privacy Policy. When we receive formal written complaints, it is 409SHOP policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between 409SHOP and an individual.  
 Changes to this Privacy Policy  
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.
+Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.  
+409集團有限公司,walkie talkie 香港,walkie talkie 耳機,walkie talkie motorola,Motorola對講機專門店
