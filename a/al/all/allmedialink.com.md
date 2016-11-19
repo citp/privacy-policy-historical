@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allmedialink.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610064134id_/https%3A//allmedialink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmedialink.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119110356id_/http%3A//allmedialink.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Latest News, Breaking News, BBC, CNN, Fox News, ABC News, BDnews24, All Bangla Newspaper, Media Directory
 
@@ -16,4 +16,4 @@ Though we have deep effort and keen interest to preserve our user privacy, but s
 
 The information may be retained and used by [allmedialink.com](http://www.allmedialink.com/) for a reasonable period, reflecting our need to answer queries or resolve problems, to provide improved and new services further or any data retention requirements of the law. But we can assure that we will never sell, rent or give your personal data to any third party except where the law permits or unless you specifically agree.
 
-[](https://play.google.com/store/apps/details?id=digbazar.com.bangla.radio)
+[](http://allmedialink.com/ad-rate-media-link/)
