@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the kcrg.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603013127id_/http%3A//www.kcrg.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcrg.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119200749id_/http%3A//www.kcrg.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
 
 # Gray Television, Inc. PRIVACY POLICY and YOUR CALIFORNIA PRIVACY RIGHTS
 
-Updated: Thu 1:44 PM, Jan 28, 2016 
+Posted: Wed 3:50 PM, Jan 27, 2016  | 
+
+Updated: Mon 3:47 PM, Jul 18, 2016 
 
 **In addition to this Privacy Policy, user generated content that may be offered on our Web Channels is also subject to the Privacy Policy of the "My Capture" service. Please see the separate privacy policy for[ _MyCapture_](http://secondstreet.com/terms/).**
 
