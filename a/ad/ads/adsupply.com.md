@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the adsupply.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126195844id_/http%3A//www.adsupply.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsupply.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119033255id_/http%3A//www.adsupply.com/privacy-policy) for the most accurate reproduction.*
 
-# AdSupply - Privacy Policy
+# Privacy Policy | AdSupply
+
+* * *
 
 This Privacy Policy discloses the privacy practices for AdSupply. AdSupply is committed to protecting your privacy online. Please read the information below to learn the following regarding your use of this site.
 
@@ -38,15 +40,15 @@ Because we value your privacy we have taken the necessary precautions to be in c
 
 **Children’s Online Privacy Protection Act Compliance**
 
-AdSupply is in complete compliance with the requirements of the Children's Online Privacy Protection Act (COPPA) and the compliance Rule adopted by the FTC with respect thereto. AdSupply does not collect any information from anyone under thirteen (13) years of age. Our website, products and services are all directed to people who are at least thirteen (13) years old or older. You must be at least thirteen (13) years old to have our permission to use this site.
+AdSupply is in complete compliance with the requirements of the Children’s Online Privacy Protection Act (COPPA) and the compliance Rule adopted by the FTC with respect thereto. AdSupply does not collect any information from anyone under thirteen (13) years of age. Our website, products and services are all directed to people who are at least thirteen (13) years old or older. You must be at least thirteen (13) years old to have our permission to use this site.
 
 **Third-Party Sites**
 
-Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. Other sites accessible through our site have their own privacy policies and data collection, use and disclosure practices. Please consult each site's privacy policy. We are not responsible for the policies or practices of third parties. Additionally, other companies which place advertising on our site may collect information about you when you view or click on their advertising through the use of cookies. We cannot control this collection of information. You should contact these advertisers directly if you have any questions about their use of the information that they collect. This online privacy policy applies only to information collected through our website and not to information collected offline.
+Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. Other sites accessible through our site have their own privacy policies and data collection, use and disclosure practices. Please consult each site’s privacy policy. We are not responsible for the policies or practices of third parties. Additionally, other companies which place advertising on our site may collect information about you when you view or click on their advertising through the use of cookies. We cannot control this collection of information. You should contact these advertisers directly if you have any questions about their use of the information that they collect. This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website. Our Terms and Conditions can be found at <http://adsupply.com/advertisers.html> and <http://adsupply.com/publishers.html>.
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website. Our Terms and Conditions can be found at http://adsupply.com/AdvertisersTerms.pdf.
 
 **Your Consent**
 
@@ -60,11 +62,6 @@ _This policy was last modified on April 24, 2013._
 
 **Contacting Us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by sending a letter to:
-
-**10811 Washington Blvd, Suite 400  
-Culver City, CA 90232  
-info@adsupply.com  
-**
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by sending an email to help@adsupply.com
 
 _This Privacy Policy is powered by Trust Guard PCI compliance._
