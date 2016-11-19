@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the beebom.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629141329id_/http%3A//beebom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beebom.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119035838id_/http%3A//beebom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer | Beebom
-
-[Home](http://beebom.com/) Privacy Policy and Disclaimer
 
 Beebom’s privacy policy and disclaimer was last updated and posted on September 01, 2015. It governs the privacy and governing terms of our website, located at [beebom.com](http://beebom.com/).
 
@@ -35,5 +33,3 @@ We reserve the right to modify this privacy policy at any time. You should revie
 **Questions About  Privacy Policy and Disclaimer**
 
 If you have any questions about our privacy practices or this policy, please [contact us](http://beebom.com/contact-us).
-
-Beebom is solely owned by RedkapMedia.
