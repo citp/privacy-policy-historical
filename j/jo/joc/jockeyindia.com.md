@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the jockeyindia.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317014529id_/http%3A//www.jockeyindia.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jockeyindia.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119071102id_/http%3A//www.jockeyindia.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Jockey India - Privacy Policy
 
-###### 
-
 We are sensitive to the scenario that we would be dealing with data and information of a personal nature. By using this website and providing your personal information, you consent to the terms of our online privacy policy and to our processing of such personal information for the purposes explained in this policy. By registering on the site or by subscribing to a product/service and providing your contact details (telephone, email, mobile number, shipping address, credit card details etc), you agree that this action constitutes a consent, for the purposes of the telemarketing laws, to receive information about products and services from Page Industries Ltd. (“PIL”), being the exclusive licensees of JOCKEY International Inc. (USA) for manufacture and distribution of the JOCKEY® brand Innerwear/Leisurewear for Men and Women in India. You hereby consent to our contacting you pursuant to the business relationship established using the information you provide to us. We request you to read the Terms of Data Use Policy, and to use it to help you make informed decisions.
 
-If you have any questions or concerns regarding this statement, you can contact us at 0124-6678000 (10:00 am to 7:00 pm) or email us at care@jockeyindia.com.
+If you have any questions or concerns regarding this statement, you can contact us at 1860-425-3333 (10:00 am to 7:00 pm) or email us at care@jockeyindia.com.
 
  **1.      Privacy**
 
