@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wickedclothes.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610055832id_/http%3A//www.wickedclothes.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wickedclothes.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119072533id_/http%3A//www.wickedclothes.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,7 +19,7 @@ When you provide us with personal information to complete a transaction, verify 
 If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
 How do I withdraw my consent?  
-If after you opt-in, you change your mind, you may withdrawing your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at wickedclothes@yahoo.com.
+If after you opt-in, you change your mind, you may withdrawing your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at orders@wickedclothes.com.
 
 SECTION 3 - DISCLOSURE
 
@@ -78,4 +78,4 @@ If our store is acquired or merged with another company, your information may be
 
 QUESTIONS AND CONTACT INFORMATION
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at wickedclothes@yahoo.com.
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at orders@wickedclothes.com.
