@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truity.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528141823id_/http%3A//www.truity.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truity.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119045305id_/http%3A//www.truity.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Truity
 
