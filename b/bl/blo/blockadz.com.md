@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blockadz.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619062116id_/http%3A//blockadz.com/%3Fa%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blockadz.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119081702id_/http%3A//blockadz.com/%3Fa%3DPrivacy) for the most accurate reproduction.*
 
 # Bitcoin Banner Advertising by BlockAdz
 
