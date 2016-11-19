@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allexam.co.in privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524034047id_/http%3A//www.allexam.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allexam.co.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119132614id_/http%3A//www.allexam.co.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Live Latest Educational Update Board Time Table & Result
+# Privacy Policy - Allexam
 
 The privacy of our visitors is important to us.
 
