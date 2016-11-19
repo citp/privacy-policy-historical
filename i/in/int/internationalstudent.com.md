@@ -1,28 +1,78 @@
-> *The following text is extracted and transformed from the internationalstudent.com privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231221610id_/http%3A//internationalstudent.com/about_us/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalstudent.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119012948id_/http%3A//www.internationalstudent.com/privacy) for the most accurate reproduction.*
 
-# InternationalStudent.com - Privacy Policy
+# InternationalStudent.com Privacy Policy
 
-**InternationalStudent.com Privacy Policy**
+* * *
 
-**Security**  
-As a member of the International Student Network, this site uses, and partners only with companies using, security technology to ensure the security and integrity of data received and transmitted via the internet to partner financial institutions. **Information Gathered on this Site** **  
-** When you browse our site and have not registered for any online service from the International Student Network, you browse anonymously. Personal information -- such as your name, address, phone number or E-mail address -- is not collected as you browse. The International Student Network does, however, use "cookies" to collect information about how our site is used. Information, such as the server your computer is logged onto, your browser type (for example, Netscape or Internet Explorer), and whether you responded to a International Student Network banner ad or E-mail is collected and tracked in aggregate. This information is used for the purpose of measuring response rates to banner ads and E-mail offers.
+Envisage International Corporation (EIC) is committed to protecting the privacy of your personal information. As part of that commitment, we provide this policy to explain our privacy practices, including what information we collect, how we use it, and what choices you have about collection and use of your personal information. We urge you to review this entire policy. By using one of our sites, you agree to the collection, use and disclosure of your personal information as described in this statement. If you do not agree to the terms of this statement, then please do not use our sites. 
 
-**Information provided to Partners  
-**The International Student Network is a free online resource accepting and linking to online service providers. Request for services may require that the user enter personal information including name, address, phone number, email address, income, and other financial information in accordance with the type of service desired. Providers require such information to fulfill your request.
+By using the site, you agree to our collection, use and maintenance of your information in the United States. 
 
-When you complete one of our online loan service request forms, your information will be transmitted to a partner institution for fulfillment.  We work very closely with our partners to insure your information is secure and your confidentiality is maintained.  In many cases, you will be completing the application request form on the partner's website.  In that case, they will have their security policy available for your review.
+This privacy policy covers all EIC sites, including those listed [here](http://www.envisageinternational.com/about/network-sites/). This policy also covers User Information received by EIC that is submitted on forms accessible from EIC sites and managed by third-party partners. We invite you to contact us if you have questions about this policy. You may write to us at: 
 
-**Registration for Online Products and Services.**
+Envisage International Corporation  
+224 First Street  
+Neptune Beach, FL 32266  
+USA 
 
-In order to provide you with a particular product or service online, we may request that you voluntarily supply us with personal information, including your E-mail address and account number, for purposes such as correspondence, site registration, checking your bill or investments online, making a purchase, or participating in online surveys and enabling us to provide an online product or service to you in an efficient manner.
+You may also [email](mailto:info@envisageinternational.com) us. 
 
-If you are known to us as a registered user of the Network, we may combine information about your use of our sites and the online product or service you utilize with certain other online and offline information we have about you as a customer and information you have provided to us as well as information available from external sources, such as census bureau data, in order to customize your online experience and present you with relevant online and offline offers and updates. We also use a "cookie" to enable our server to recognize you as a registered user when you re-enter our site. 
+If you are not able to resolve questions or concerns you have about this policy or our privacy practices by contacting us directly, you can contact the Better Business Bureau. EIC is a member of the BBB Online Reliability Program. Please note: If you apply for a loan, insurance policy, or other product or service, you may be redirected to the website of one of our third-party service providers (lenders, insurance companies, and marketers); other links on our sites may also direct you to third party websites. This policy covers only what we do with the information you or the third-party provides to us; we are not responsible for, nor can we control the privacy practices and policies of these third party entities. We encourage you to review their policies carefully. 
 
-**Information Use**
+####  What Information Do We Collect? 
 
-Our goal is to deliver offers to people who we believe will find them of value. Offers are developed and managed under strict conditions designed to safeguard the security and privacy of customer personal information.
+We collect information about you as you use EIC sites, including: 
 
-**Declining E-mail Offers** ****
+  1. User Information, which you provide when you register on an EIC site, subscribe to an email newsletter, provide us with your contact information, or apply to receive information from a third party provider through an EIC site. User Information may also include information you provide on an application other than Confidential Application Information described below. User Information includes, for example, your name, address, email address, phone number, school, graduation year, grade level, date of birth, nationality, field of study, highest degree completed and degree sought. 
+  2. Technical Information, which we collect automatically from you and your computer about how you use the EIC sites. This includes your IP address, the referring URL, browser type, and other usage information, along with information about your use of the EIC websites. 
+  3. Confidential Application Information, which consists of certain information you submit as part of an application. Specifically, this could include your Social Security Number, your driver's license information, health history information, your credit information, and the names and contact information of your references. This information is used to process your application and may be shared with financial services companies to provide the services you request, in accordance with that company's privacy policy. 
 
-The Network provides customers with an easy means to decline receiving E-mail offers. Although some customers tell us they appreciate receiving notice of these carefully designed opportunities, we recognize the importance of providing you with choices. At any time, you may request to discontinue receiving these offers from us by simply replying to the E-mail and informing us of your preferences. All E-mail offers that you receive from the Network will inform you of how to decline receiving further E-mail offers. 
+
+
+We are not informed of the basis for credit-based loan decisions from financial service providers. For insurance products, we do not gather nor store any HIPAA protected information – any such information goes directly to the insurance company. 
+
+EIC uses "cookies" and other technologies to help us learn more about how our users use our sites and to recognize you when you return. Cookies are text files that are placed in your computer's browser, and that can be used to help recognize you as an EIC user. Cookies may store user preferences and other information, and can be deleted or blocked by changing the settings on your Web browser. Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. Users may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](https://www.google.com/policies/technologies/ads/). 
+
+We do not direct our sites to, nor do we knowingly collect any personal information from, children under thirteen. 
+
+####  How Do We Protect Your Information? 
+
+We take the security of your personal information very seriously, and have implemented policies and procedures designed to safeguard it. We share your information with third parties only in accordance with this policy. We require all third party advertising and marketing partners with whom we share your information to make reasonable efforts to protect it. 
+
+####  How Do We Use Your Information? 
+
+We use your information to provide you the services your request, to improve EIC sites and your experience on our sites, and to personalize the content you receive. Specifically: 
+
+  1. We use User Information to provide the services you request, such as newsletters, to customize our sites, and to improve your user experience and our services. For users of our Concierge, School Search, Scholarship Search and other services, we may provide your information to schools or other partners. 
+  2. We use Technical Information to operate, administer, and improve our sites, and to customize your experience. 
+  3. We use Confidential Application Information solely to facilitate your transaction with the financial service provider. We do not use this information for any other purpose. 
+
+
+
+####  How Do We Share Your Information? 
+
+EIC Sites: The sites that constitute EIC sites all access and use the same information about you for the purposes described above. 
+
+Loan and Insurance Service Providers: We may share User and Confidential Application Information with loan and insurance providers in order to process applications you submit. 
+
+Concierge, School Search, Scholarship Service: We share User Information submitted through these services with colleges, universities and other partners that may have interest in contacting you. 
+
+Advertisers and Marketing Partners: From time to time we also share User Information and Technical Information with third parties whose products and services we think may be of interest to you. If you prefer not to receive marketing materials from third parties, you may opt out. 
+
+Other: We also may share your personal information in response to a valid law enforcement request or legal process, to protect our or third party interests or property, or as otherwise permitted or required by law. 
+
+####  What Choices Do You Have About the Use of Your Information? 
+
+You may contact us to edit any of your privacy preferences. If you would prefer that we not share your personal information with third parties, including our affiliates, for those parties' own marketing or other purposes, please inform us at: [privacy@envisageinternational.com](mailto:privacy@envisageinternational.com)
+
+You may also opt out of receiving commercial email from us by following the instructions in each email. 
+
+Due to special rules affecting Vermont residents, if you register with a Vermont address, we will not share your personally-identifiable information with third party marketers. 
+
+If you have any problems or questions regarding your privacy preferences or opt-out options, please email us. 
+
+Please note that you cannot opt out of the use of your information for completion and support of your loan or insurance applications. You also cannot opt out of sharing your information to comply with valid law enforcement requests, legal process, to protect our interests or property or those of third parties, or as otherwise permitted or required by law. 
+
+####  Changes to this Policy 
+
+We may need to modify this privacy policy from time to time to reflect our current privacy practices, so please check back to view any changes. When you register or submit your email address on any EIC site, you acknowledge receipt of this privacy policy and agree to receive future notices about it online. We make this policy continuously available online. We will inform you of material modifications to this policy in the future by posting changes on the EIC sites and/or sending you email where appropriate. 
