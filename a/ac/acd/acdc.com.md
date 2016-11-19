@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acdc.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526045018id_/http%3A//www.acdc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acdc.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119143918id_/http%3A//www.acdc.com/privacy) for the most accurate reproduction.*
 
 # AC/DC Official Website :: Privacy Policy
 
