@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the ironman.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625232710id_/http%3A//www.ironman.com/triathlon/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironman.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119140818id_/http%3A//www.ironman.com/triathlon/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - IRONMAN.com | Official Site of IRONMAN, IRONMAN 70.3, 5i50, Iron Girl and IRONKIDS | Triathlon Races | Official IRONMAN Merchandise | IRONMAN World Championship in Kona, Hawaii
+# Privacy Policy - IRONMAN Official Site | IRONMAN triathlon 140.6 & 70.3
 
 At IRONMAN.com, we are committed to safeguarding your privacy online. We want to assure our users that IRONMAN.com will not willfully disclose any specific individual information about you to any third party unless you give us your express permission to do so. 
 
-At IRONMAN.com, we are committed to safeguarding your privacy online. We want to assure our users that IRONMAN.com will not willfully disclose any specific individual information about you to any third party unless you give us your express permission to do so.   
-
+At IRONMAN.com, we are committed to safeguarding your privacy online. We want to assure our users that IRONMAN.com will not willfully disclose any specific individual information about you to any third party unless you give us your express permission to do so. 
 
 IRONMAN.com does not solicit any personally identifiable information from children under the age of 13. Accordingly, children under 13 years old may be restricted from participating in certain activities and transactions on IRONMAN.com (including the Ironmanstore.com on IRONMAN.com at store.IRONMAN.com). IRONMAN.com works with (and may provide links to) third party sites that offer features described on IRONMAN.com (e.g., official fantasy games, chatrooms, message boards). Such third parties may permit children under the age of 13 to register for these features on their sites in accordance with their respective privacy policies. However, IRONMAN.com does not knowingly obtain, retain or use information from anyone who indicates that they are under 13 years old. If you would like more information about IRONMAN.com's policy for collecting information from children, please read our Note to Parents below.
 
-Please read this Privacy Policy ("Policy") for an explanation of how we will treat your personal information. By using IRONMAN.com, including any of the Official Ironman Race Websites and the Ironmanstore.com on IRONMAN.com, you consent to the collection and use of personal information as outlined in this Policy. If you do not agree to this Policy, please do not use our site. If we make any material changes to the Policy, those changes will be posted here so that you are always aware of what personal information is collected, how that information is used, and under what circumstances that information may be disclosed. Since this Policy may change from time to time, you should check back periodically. Your continued use of IRONMAN.com following the posting of changes to the Policy will signal your acceptance of such changes. 
+Please read this Privacy Policy ("Policy") for an explanation of how we will treat your personal information. By using IRONMAN.com, including any of the Official Ironman Race Websites and the Ironmanstore.com on IRONMAN.com, you consent to the collection and use of personal information as outlined in this Policy. If you do not agree to this Policy, please do not use our site. If we make any material changes to the Policy, those changes will be posted here so that you are always aware of what personal information is collected, how that information is used, and under what circumstances that information may be disclosed. Since this Policy may change from time to time, you should check back periodically. Your continued use of IRONMAN.com following the posting of changes to the Policy will signal your acceptance of such changes. 
 
 If you have any questions or comments regarding this Policy, please contact ben@IRONMAN.com
 
@@ -25,7 +24,7 @@ If you have any questions or comments regarding this Policy, please contact ben@
 
 **5.** **What choices are available to you regarding collection, use and distribution of the information;**
 
-**6.** **The kind of security procedures that are in place to protect the loss, misuse or alteration of information under our control.**
+**6.** **The kind of security procedures that are in place to protect the loss, misuse or alteration of information under our control. **
 
 **1\. What personally identifiable information of yours or third party personally identifiable information is collected from you through the site**
 
@@ -39,11 +38,27 @@ IRONMAN.com is operated by World Triathlon Corporation. World Triathlon Corporat
 
 **3\. How the information is used**
 
-IRONMAN.com may use information provided at registration or information obtained through third parties to offer better targeted products and services to you. We use targeting to customize and enhance your online experience on the site. The use of information provided at registration or obtained through third parties will not be provided to advertisers or partners, except in aggregate form, unless you have consented to such use at registration. 
+IRONMAN.com may use 
+
+information
+
+provided at registration or information obtained through third parties to offer 
+
+better targeted
+
+products and services to you. We use targeting to customize and enhance your online experience on the site. The use of information provided at registration or obtained through third parties will not be provided to advertisers or partners, except in aggregate 
+
+form,
+
+unless you have consented to such use at registration. 
 
 IRONMAN.com uses "cookie" technology. Cookies are pieces of information transferred to your hard drive for record-keeping purposes. Such technology is an industry standard and is used by most major Web sites. IRONMAN.com will never use cookies to retrieve information from your computer that was not originally sent in a cookie. In order to effectively use the site and some of its features (e.g.,  Advertising personalization, Ironmanstore.com on IRONMAN.com), your browser must accept cookies. 
 
-Users should be aware that IRONMAN.com cannot control the use of cookies or the resulting information by advertisers or third parties hosting data for IRONMAN.com. If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to deny or accept cookies; however, users should note that cookies may be necessary to provide the user with certain features available on IRONMAN.com. 
+Users should be aware that IRONMAN.com cannot control the use of cookies or the resulting information by advertisers or third parties hosting data for IRONMAN.com. If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that 
+
+allows
+
+the user to deny or accept cookies; however, users should note that cookies may be necessary to provide the user with certain features available on IRONMAN.com. 
 
 IRONMAN.com tracks certain general usage pattern information, including what pages people visit and how long they have been registered users. IRONMAN.com may log users' IP addresses (the group of four numbers separated by periods, such as 123.45.64.89, that identifies a particular host computer) for the purposes of system administration, site tracking and reporting of aggregate usage information to our marketing and product development teams. 
 
@@ -63,7 +78,7 @@ IRONMAN.com uses DoubleClick, a reputable third party vendor, to serve the adver
 
 **5\. What choices are available to you regarding collection, use and distribution of the information**
 
-You are not required to receive any mailings that you do not wish to receive. During the registration process, you will have the option to sign up to receive newsletters and selected sponsor offers and discounts. You will not receive such information if you do not select such options. If, after you choose to receive such information, you wish to discontinue receiving these items, you may change your subscription preferences by following the instructions provided within the e-mails received. 
+You are not required to receive any mailings that you do not wish to receive. During the registration process, you will have the option to sign up to receive newsletters and selected sponsor offers and discounts. You will not receive such information if you do not select such options. If, after you choose to receive such information, you wish to discontinue receiving these items, you may change your subscription preferences by following the instructions provided within the e-mails received.
 
 **6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under our control**
 
@@ -73,7 +88,7 @@ Only those employees needed to carry out the business functions will have access
 
 It is important to remember that whatever you transmit or disclose online can be collected and used by others or unlawfully intercepted by third parties. No data transmission over the Internet can be guaranteed to be 100% secure. While we strive to protect your personal information, we cannot warrant the security of any information you transmit to us. In addition, we may disclose information to law enforcement or other government officials if we determine such disclosure to be appropriate, or if we are compelled to disclose it by court order or operation of law. 
 
-Any information voluntarily disclosed by users and posted on our site (on message boards and/or in chat areas) may be viewed and used by others. If users post personal information that is accessible to the public online, the user does so at his or her own risk. Users accept that they may receive unsolicited messages from other parties in return. 
+Any information voluntarily disclosed by users and posted on our site (on message boards and/or in chat areas) may be viewed and used by others. If users post personal information that is accessible to the public online, the user does so at his or her own risk. Users accept that they may receive unsolicited messages from other parties in return. 
 
 **LAST UPDATED: September 7, 2001**  
 Copyright 2001 World Triathlon Corporation.  All rights reserved.   
