@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibpsexamadda.org.in privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624220700id_/http%3A//www.ibpsexamadda.org.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibpsexamadda.org.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119134540id_/http%3A//www.ibpsexamadda.org.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,6 +15,11 @@ Any personal information you provide to us including and similar to your name, a
 http://www.IBPSExamAdda.org.in is not responsible for the content of external internet sites it connects to. You are advised to read the privacy policy of external sites before disclosing any personal information.
 
 While we do our best to protect your personal information, we cannot guarantee the security of any information that you transmit to http://www.IBPSExamAdda.org.in and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition other Internet sites or services that may be accessible through http://www.IBPSExamAdda.org.in have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions.
+
+**This website uses the Google AdWords Remarketing Service**  
+This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an inquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the http://www.IBPSExamAdda.org.in website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+
+You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can [opt out of interest-based advertising entirely by cookie settings](http://www.google.com/settings/ads/onweb/) or [permanently using a browser plugin](http://www.google.com/ads/preferences/html/intl/en/plugin/).
 
 Please contact those internet sites/vendors and others directly if you have any queries about their privacy policies.
 
