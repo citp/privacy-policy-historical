@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishesgreeting.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617194426id_/http%3A//www.wishesgreeting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishesgreeting.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119045113id_/http%3A//www.wishesgreeting.com/privacy-policy) for the most accurate reproduction.*
 
 # | WishesGreeting
 
@@ -54,3 +54,5 @@ Because we do not control the privacy policies of third party merchants, adverti
 
 Affiliate links  
 WishesGreeting.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
+
+Comments are closed.
