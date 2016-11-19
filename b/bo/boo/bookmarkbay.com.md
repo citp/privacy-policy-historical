@@ -1,68 +1,134 @@
-> *The following text is extracted and transformed from the bookmarkbay.com privacy policy that was archived on 2015-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150825040847id_/http%3A//www.bookmarkbay.com/page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkbay.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119075204id_/http%3A//www.bookmarkbay.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bookmarkbay
 
-**What information do we collect?**
+**Your acceptance of these Privacy Policy terms**
 
-We collect information from you when you register on our site, subscribe to our newsletter or fill out a form. 
+By using any of the sites within our web site network ("Bookmarkbay.com") or   
+our Services, you unconditionally agree to be bound by this Privacy Policy.  
+  
+**What data do we collect and how do we use it?**
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or mailing address. You may, however, visit our site anonymously.
+**_Bookmarkbay.com_** collects and processes information about you in order to:
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+(1) identify you each time you visit a Web Site or wish to have a Service provided;   
+(2) process orders or applications submitted by you;   
+(3) improve our Services and Web Sites   
+(4) Customise your experience, for example, provide advertisements that we think   
+are relevant to you and which support any specific requests for information you  
+may make through keyword searches;   
+(5) carry out research on the demographics, interests and behaviour of all of our   
+customers;   
+(6) send you information we think you may find useful, including information about   
+new **_Bookmarkbay.com_** products and services.
 
- **What do we use your information for?**
+You may be asked, either when you register with us, or at other times, for information  
+about yourself, such as your name, e-mail address, postal address and telephone   
+number. You may also be asked to share with us your interests, hobbies and preferences.  
+In addition, when you order certain goods or services from our Web Sites, we will  
+need to know your credit/payment card number and expiration date.
 
-Any of the information we collect from you may be used in one of the following ways: 
+You are under no obligation to provide this information, but if you don't then we may   
+not be able to provide you with certain services or personalise your experience and  
+tailor our Services for you (for example, tell you about special offers on things  
+you're interested in). 
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs)
+**Log files/IP addresses**
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+When you visit our Web Sites, we automatically log your IP address (the unique   
+address which identifies your computer on the internet) which is automatically  
+recognised by our web server. We use IP addresses to help us administer our Web  
+Sites and to collect broad demographic information for aggregate use. We do not  
+link IP addresses to personally identifiable information.
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+**Non personal information**
 
-• To administer a contest, promotion, survey or other site feature
+We may automatically collect non-personal information about you such as the type  
+of internet browsers you use or the site from which you linked to our Web Sites. You   
+cannot be identified from this information and it is only used to assist us in providing an   
+effective service on our Web Sites. We may from time to time supply the owners or   
+operators of third party sites from which it is possible to link to our Web Sites with   
+information relating to the number of users linking to our Web Sites from their sites.  
+You cannot be identified from this information.
 
-• To send periodic emails
+**Use of Cookies**
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+Cookies are pieces of information that a Web Site transfers to your hard drive to store   
+and sometimes track information about you. Most web browsers automatically accept  
+cookies, but if you prefer, you can change your browser to prevent that. However,  
+you may not be able to take full advantage of a Web Site if you do so. Cookies are  
+specific to the server that created them and cannot be accessed by other servers,   
+which means they cannot be used to track your movements around the web. Although  
+they do identify a user's computer, cookies do not personally identify customers  
+or passwords. Credit card information is not stored in cookies.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+**We use cookies for the following reasons:  
+** (1) To identify who you are and to access your account information;   
+(2) To estimate our audience size and patterns;   
+(3) To ensure that you are not asked to register twice;   
+(4) To control how often visitors see similar ads;   
+(5) To track preferences and to improve and update our Web Site; and   
+(6) To track the progress and number of entries in some of our promotions and contests.   
+**With whom is the information shared?**
 
- **Do we use cookies?**
+**_Bookmarkbay.com_** will not share, sell or rent your personal information to  
+third parties. However, we may disclose your personal information to third party   
+suppliers who provide services on our behalf.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+**** **_Bookmarkbay.com_** may disclose aggregate statistics about our sales, our   
+Web Site visitors and customers of our telephone services in order to describe our   
+services to prospective partners, advertisers and other reputable third parties and for   
+other lawful purposes, but these statistics will not include personally identifying   
+information.
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+******_Bookmarkbay.com _** may disclose personal information if required to do so  
+by law or if it believes that such action is necessary to protect and defend the rights,  
+property or personal safety of company name and its Web Sites, visitors to the   
+Web Sites and customers of our Services.
 
- **Do we disclose any information to outside parties?**
+  
+Our Web Site contains links to the sites of third parties. When you visit these sites,  
+we suggest that you read their privacy policies. **_Bookmarkbay.com_** **** is not  
+responsible for the privacy policies or the content of such sites. 
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+  
+We will only sell or rent your personal information to a third party either as part of a  
+sale of the assets of a **__** **_Bookmarkbay.com_** website or having ensured that   
+steps have been taken to ensure that your privacy rights continue to be protected.
 
- **Third party links**
+**Information about products and services**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+It is very important to us that we provide you with the highest level of service. In   
+order to help us do this, from time to time **_Bookmarkbay.com_** website  
+may send you details of our products and services which we think may be of interest  
+to you. If at any time you do not wish to receive these details, please e-mail us  
+at [info@athifea.com](mailto:info@athifea.com)
 
- **Childrens Online Privacy Protection Act Compliance**
+**Security**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+******_Bookmarkbay.com_** places a great importance on the security of all information  
+associated with our customers. We have security measures in place to attempt to protect   
+against the loss, misuseand alteration of customer data under our control. For example, our   
+security and privacy policies are periodically reviewed and enhanced as necessary and only  
+authorised personnel have access to user information. With regard to our Web Sites, we use  
+secure server software (SSL) to encrypt financial information you input before it is sent to us.  
+While we cannot ensure or guarantee that loss, misuse or alteration of data will not occur,   
+we use our best efforts to prevent this.
 
- **Online Privacy Policy Only**
+**Where is the information stored?**
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+Information which you submit via our Web Sites or our telephone services is stored  
+on a computer located in the USA Area. This is necessary in order to process the   
+information and to send you any information you have requested. Information   
+submitted by you may be transferred by us to our other offices and to reputable third  
+party suppliers, which may be situated outside the USA Area. Not all countries   
+outside the USA have data protection or privacy laws. In addition, if you use our  
+Services while you are outside the USA, your information may be transferred   
+outside the USA in order to provide you with those Services.  
+****
 
- **Terms and Conditions**
+**Comments**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website 
-
-[at /terms.php](http://www.bookmarkbay.com/page.php?page=httpwww-bookmarkbay-comterms1php)
-
- **Your Consent**
-
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
-
- **Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page. 
+Please e-mail any questions, concerns or comments you have about our Privacy   
+Policy to [info@athifea.com](mailto:info@athifea.com) **_  
+_**
