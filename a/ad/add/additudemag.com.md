@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the additudemag.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619224031id_/http%3A//www.additudemag.com/adhd/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the additudemag.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119173855id_/http%3A//www.additudemag.com/adhd/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | ADDitude: Information on Attention Deficit Symptoms, Diagnosis, Treatment, Parenting and More
+# Privacy Policy
 
 Thank you for visiting _ADDitude_ Magazine online. We respect our readers' right to privacy. To that end, **we do not share the names of visitors to our website nor do we sell our subscriber or e-mail lists to any individual or organization**. 
 
@@ -18,7 +18,7 @@ When customers use our online services to order or renew subscriptions to ADDitu
 
 Information provided from our users through online subscription, renewal services, and from special features of our site such as the "Share your Story" area is used only for its intended purpose. 
 
-Certain offerings on our site, such as gift subscription opportunities and “send to a friend” tools on article pages, allow users to submit personal information about other people to our site. We use this information to fulfill gifts our users have ordered for others or to send the recommended article via email, and not for additional marketing purposes. 
+Certain offerings on our site, such as gift subscription opportunities and u201csend to a friendu201d tools on article pages, allow users to submit personal information about other people to our site. We use this information to fulfill gifts our users have ordered for others or to send the recommended article via email, and not for additional marketing purposes. 
 
 * * *
 
@@ -26,7 +26,7 @@ Certain offerings on our site, such as gift subscription opportunities and “se
 
 ADDitudeMag.com web servers automatically collect information about which pages each user visits and the domain name of visitors. This is used for internal review, to tailor information to individual visitors and for traffic audits. We also provide this information (as well as information from third-party market researchers) about our users on an aggregated, anonymous basis to our advertisers and partners. 
 
-ADDitude may place a “cookie” on the browser of an ADDitudeMag.com user's computer. Information gathered through the use of cookies is not related to any personally identifiable details. A cookie can be used to tell when your computer has contacted a Web site; we use the information for editorial purposes and for other purposes such as delivery of ads, so we can customize delivery of information without compromising privacy. For example, cookies are used to ensure that you don't see the same ad too many times in a single session. In some instances, advertisers will set cookies on our site. These cookies are not related to any personally identifiable information that we have collected but are for monitoring and tracking ad impressions. 
+ADDitude may place a u201ccookieu201d on the browser of an ADDitudeMag.com user's computer. Information gathered through the use of cookies is not related to any personally identifiable details. A cookie can be used to tell when your computer has contacted a Web site; we use the information for editorial purposes and for other purposes such as delivery of ads, so we can customize delivery of information without compromising privacy. For example, cookies are used to ensure that you don't see the same ad too many times in a single session. In some instances, advertisers will set cookies on our site. These cookies are not related to any personally identifiable information that we have collected but are for monitoring and tracking ad impressions. 
 
 Many browsers are set to accept cookies. You may prefer to set your browser to refuse cookies. It is possible, however, that some areas of the site will not function properly if you do so. This is especially likely when trying to order a product or play an online game. 
 
