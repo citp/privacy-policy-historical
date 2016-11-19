@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dealmarkaz.pk privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605102658id_/http%3A//dealmarkaz.pk/index.php%3Fpage%3Dpage%26id%3D26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealmarkaz.pk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119201100id_/http%3A//dealmarkaz.pk/privacy-policy-p26) for the most accurate reproduction.*
 
 # Privacy Policy | DealMarkaz.pk
-
-#### Privacy Policy
 
 * * *
 
