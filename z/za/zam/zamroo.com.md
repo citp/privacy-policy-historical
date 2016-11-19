@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the zamroo.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608013736id_/http%3A//www.zamroo.com/static-page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zamroo.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119013711id_/http%3A//www.zamroo.com/static-page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Zamroo - Free Classifieds | Free Classified Ads | Online Buy & Sell for Free
 
 ## Privacy Policy
 
-_Revised and Updated on: 8th September 2015_
+_LATES UPDATED: September 26, 2016_
 
-Zamroo.com is committed to safeguarding your privacy online, at Zamroo; the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Zamroo.com and how it is used. This privacy policy forms part and parcel of the “Terms of Use” for the Services. Capitalized terms which have been used here but are undefined shall have the same meaning as attributed to them in the Terms of Use.
+This Privacy Policy explains how information about you is collected, used and disclosed by Zamroo. (hereafter “Zamroo”, “our,” “we,” or “us”). This Privacy Policy applies to information we collect when you use our website, mobile applications and other online services (collectively, the “Zamroo Service”) or when you otherwise interact with us.
 
-As we update, improve and expand the Services, this policy may change, so please refer back to it periodically. By accessing the website or the mobile application or otherwise using the Services, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer.
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases; we may provide you with more prominent notice (such as adding a statement to our homepage or sending you an email notification). We encourage you to review the Privacy Policy whenever you access the Zamroo Service to stay informed about our information practices and the ways you can help protect your privacy.
 
 Acceptance of Terms
 
@@ -16,11 +16,11 @@ Please read this privacy policy carefully since by visiting the Zamroo.com websi
 
 Summary
 
-Our primary goal in collecting user information is to enhance your experience on our website. In general Zamroo.com (“Site” or “we”, or “us”) does not collect, use or disclose any data collected with an intention to personally identify and/or contact a person such as: name, address, etc (personally identifying information, hereinafter “Personal Information”) except in specific instances, for example, when you provide Personal Information through registering on the Site or as set forth in this Privacy Policy. 
+Our primary goal in collecting user information is to enhance your experience on our website. In general Zamroo (“Site” or “we”, or “us”) does not collect, use or disclose any data collected with an intention to personally identify and/or contact a person such as: name, address, etc (personally identifying information, hereinafter “Personal Information”) except in specific instances, for example, when you provide Personal Information through registering on the Site or as set forth in this Privacy Policy. 
 
 Log Files
 
-Like many other Web portal, we also make use of log files. We automatically collect limited information about your computer's connection to the Internet, mobile number, including your IP address, when you visit our site, application or service. Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the pages you view. It also contains the additional information like type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, track user’s movement around the site, and gather required demographic information. 
+Like many other online marketplace, we also make use of log files. We automatically collect limited information about your computer's connection to the Internet, mobile number, mobile make and model, including your IP address, when you visit our site, application or service. Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the pages you view. It also contains the additional information like type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, track user’s movement around the site, and gather required demographic information. 
 
 Cookies
 
@@ -66,19 +66,19 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 Information Use by the Company 
 
-The Information as supplied by the users enables us to improve the Services and provide you the most user-friendly experience. In some cases/provision of certain service(s), we may require your contact address as well. All required information is service dependent and the Company may use the above said user Information to, maintain, protect, and improve the Services (including advertising on the "Application") and for developing new services. We may also use your email address or other personally identifiable information to send commercial or marketing messages without your consent [with an option to subscribe / unsubscribe (where feasible)]. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major changes, for customer service purposes, new features, new categories, etc). 
+The Information as supplied by the users enables us to improve the Services and provide you the most user-friendly experience. In some cases/provision of certain service(s), we may require your contact address as well. All required information is service dependent and the Company may use the above said user Information to, maintain, protect, and improve the Services (including advertising on the "Application") and for developing new services. We may also use your email address or other personally identifiable information to send commercial or marketing messages without your consent [with an option to subscribe / unsubscribe (where feasible)]. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major changes, for customer service purposes, new features, new categories, etc).
 
-Any personally identifiable information provided by you will not be considered as sensitive if it is freely available and / or accessible in the public domain like any comments, messages, blogs, scribbles available on social platforms like facebook, twitter etc. 
+Any personally identifiable information provided by you will not be considered as sensitive if it is freely available and / or accessible in the public domain like any comments, messages, blogs, scribbles available on social platforms like facebook, twitter etc.
 
-Any posted/uploaded/conveyed/communicated by users on the public sections of the "Application" becomes published content and is not considered personally identifiable information subject to this Privacy Policy. 
+Any posted/uploaded/conveyed/communicated by users on the public sections of the "Application" becomes published content and is not considered personally identifiable information subject to this Privacy Policy.
 
-In case you choose to decline to submit personally identifiable information on the Application, we may not be able to provide certain services on the Application to you. We will make reasonable efforts to notify you of the same at the time of registering your account. In any case, we will not be liable and or responsible for the denial of certain services to you for lack of you providing the necessary personal information. 
+In case you choose to decline to submit personally identifiable information on the Application, we may not be able to provide certain services on the Application to you. We will make reasonable efforts to notify you of the same at the time of registering your account. In any case, we will not be liable and or responsible for the denial of certain services to you for lack of you providing the necessary personal information.
 
 When you register with the Application or Services, we contact you from time to time about updation of your personal information to provide the users such features that we believe may benefit / interest you. 
 
 Access, Modification, and Deletion
 
-Once you are registered user, you can see, modify or erase your personal information by signing in to your my account section. Contact customer support at [privacy@zamroo.com](https://web.archive.org/web/20160608013736id_/http%3A//www.zamroo.com/privacy@zamroo.com) to review any personal information we store that is not available on Zamroo. There may be a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes during the transaction, enforce our policies; and prevent bad guys from coming back.
+Once you are registered user, you can see, modify or erase your personal information by signing in to your my account section. Contact customer support at [privacy@zamroo.com](https://web.archive.org/web/20161119013711id_/http%3A//www.zamroo.com/privacy@zamroo.com) to review any personal information we store that is not available on Zamroo. There may be a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes during the transaction, enforce our policies; and prevent bad guys from coming back.
 
 Aggregate, Anonymous Information with Advertisers
 
@@ -99,6 +99,7 @@ Information Sharing
   1. When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms or for complying with the applicable laws and regulations.
   2. The Company may present limited information to our advertisers - to help them understand our audience and confirm the value of advertising on our websites or Applications – however it is usually in the form of aggregated statistics on traffic to various pages within our site.
   3. The Company may share your information regarding your activities on websites or Applications with third party social websites to populate your social wall that is visible to other people however you will have an option to set your privacy settings, where you can decide what you would like to share or not to share with others.
+  4. **Social Sharing Features.** The Zamroo Service offers social sharing features and other integrated tools (such as the Facebook, Google+, Twitter sharing button), which let you share actions you take on the Zamroo with other media, and vice versa. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide those features.
 
 
 
@@ -112,7 +113,7 @@ As we continue to expand the Services and to improve the user experience;, this 
 
 Complaints
 
-Any complaints, abuse or concerns with regards to the processing of information provided by you or breach of these terms shall be immediately informed to the Grievance Officer as mentioned below via email signed with the electronic signature to grievance.india@zamroo.com
+Any complaints, abuse or concerns with regards to the processing of information provided by you or breach of these terms shall be immediately informed to the Grievance Officer as mentioned below via email signed with the electronic signature to [complaints@zamroo.com](mailto:complaints@zamroo.com)
 
 **We request you to please provide the following information in your complaint:**
 
