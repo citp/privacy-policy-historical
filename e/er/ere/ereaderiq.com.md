@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the ereaderiq.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513163640id_/http%3A//www.ereaderiq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ereaderiq.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119012850id_/http%3A//www.ereaderiq.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | eReaderIQ
+
+### How Can I Help Support eReaderIQ?
+
+eReaderIQ is a free service which depends on user donations to stay open. You can [visit our 'changes' page](http://www.ereaderiq.com/changes/) if you want to know more.
+
+If you would like to help keep eReaderIQ open, you can [donate via PayPal](http://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3DHUNG4N7N3FY) or [become a patron](https://www.patreon.com/ereaderiq) at Patreon.
+
+Thank you for your support!
 
 _Updated: 2015-01-15_
 
