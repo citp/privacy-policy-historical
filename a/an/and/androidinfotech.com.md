@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidinfotech.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518231451id_/http%3A//www.androidinfotech.com/p/this-privacy-policy-governs-manner-in.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidinfotech.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119102551id_/http%3A//www.androidinfotech.com/p/this-privacy-policy-governs-manner-in.html) for the most accurate reproduction.*
 
 # Privacy Policy | Android Infotech
 
@@ -61,19 +61,9 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ###  Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://www.androidinfotech.com/p/contact-us.html).
 
 Selva Ganesh.A,
-
-16/17,Venkatachalam Chettiar st,
-
-N.pudhur,Karaikudi,Tamilnadu,
-
-India-630001.
-
-+919500763899
-
-yuvanselvavce@gmail.com,
 
 admin@androidinfotech.com
 
