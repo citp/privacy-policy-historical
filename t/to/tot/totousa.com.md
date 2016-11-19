@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totousa.com privacy policy that was archived on 2015-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150709214111id_/http%3A//www.totousa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totousa.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119194603id_/http%3A//www.totousa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
