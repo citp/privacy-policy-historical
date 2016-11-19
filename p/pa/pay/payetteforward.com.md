@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payetteforward.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626184442id_/http%3A//www.payetteforward.com/payette-forward-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payetteforward.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119012158id_/http%3A//www.payetteforward.com/payette-forward-privacy-policy) for the most accurate reproduction.*
 
 # Payette Forward Privacy Policy - Payette Forward
 
