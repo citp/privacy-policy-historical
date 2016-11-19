@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestcrosswords.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905210639id_/http%3A//www.bestcrosswords.com/bestcrosswords/Policy.page%3Bjsessionid%3DD45A8F54394CD643C589ED77CEDD960A) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestcrosswords.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119014056id_/http%3A//www.bestcrosswords.com/bestcrosswords/Policy.page%3Bjsessionid%3D6F4D8E28F9AAF62D1441E9B0A9B77FE0) for the most accurate reproduction.*
 
-# BestCrosswords.com - BESTCROSSWORDS.COM Privacy Policy
+# BESTCROSSWORDS.COM Privacy Policy
 
 |  | 
 
