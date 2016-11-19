@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riyasewana.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321053552id_/http%3A//riyasewana.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riyasewana.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119034309id_/http%3A//riyasewana.com/privacy.php) for the most accurate reproduction.*
 
 # Riyasewana.com Privacy Policy
 
