@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pajiba.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014064657id_/http%3A//www.pajiba.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pajiba.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119060732id_/http%3A//www.pajiba.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Pajiba
 
