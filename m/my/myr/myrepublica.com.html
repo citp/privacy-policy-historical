@@ -1,691 +1,597 @@
-<!--The following is the downloaded HTML source of the myrepublica.com privacy policy that was archived on 2009-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090629151138id_/http%3A//www.myrepublica.com/portal/index.php%3Faction%3Dpages%26page_id%3D4) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myrepublica.com privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119033747id_/http%3A//www.myrepublica.com/content/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" data-ng-app="MyRepublica"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="Cache-Control" content="public">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="online nepali news, politics, sports, entertainment, society, world, technology, blog, opinion, interview, feature, photo feature, hollywood, bollywood, nepali movies, fashion, life style, tourism, international news, national news, football, soccer, cricket, tennis, economy, science, music, live news events, live sports events">
+    <meta name="description" content="myrepublica.com is one of the most comprehensive and up-to-date news portal of nepal in nepali language.">
+    <meta property="fb:pages" content="215689701813363">
+    <meta property="fb:app_id" content="1073433196111007">
+                <title>My Republica</title>
+    <!-- core CSS -->
+    <link href="/bundles/nagarikadmin/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/bundles/nagarikfrontend/css/font-awesome.css" rel="stylesheet">
+    <link href="/bundles/nagarikfrontend/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/bundles/nagarikfrontend/css/main-myrepublica.css?v=040d206dc1" rel="stylesheet">
+    <link href="/bundles/nagarikfrontend/css/responsive-myrepublica.css?v=040d206dc1" rel="stylesheet">
+    <link href="/bundles/nagarikfrontend/css/camera.css" rel="stylesheet">
+    <link href="/bundles/nagarikfrontend/css/custom-myrepublica.css?v=040d206dc1" rel="stylesheet">
+    <link href="/bundles/nagarikfrontend/css/sharrre/selection-sharer.css" rel="stylesheet">
+    <link href="/bundles/nagarikfrontend/css/custom-share/bidhee-share.css?v=040d206dc1" rel="stylesheet">
+    <!--[if lt IE 9]>
+    <script src="/bundles/nagarikfrontend/js/html5shiv.js"></script>
+    <script src="/bundles/nagarikfrontend/js/respond.min.js"></script>
+    <![endif]-->
+    <link rel="shortcut icon" href="/bundles/nagarikfrontend/images/ico/fav.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/bundles/nagarikfrontend/images/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/bundles/nagarikfrontend/images/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/bundles/nagarikfrontend/images/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="/bundles/nagarikfrontend/images/ico/apple-touch-icon-57-precomposed.png">
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,300,400,700)" rel="stylesheet" type="text/css">
+     </head>
+<!--/head-->
+
+<body id="home" class="homepage">
+<header id="top-header" data-ng-controller="LoginCtrl">
+    <div class="top-nav">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+                    <div class="container visible-xs">
+                        <div class="row">
+                            <!-- logo -->
+                            <div class="logo brand ">
+                                <a class="smooth-scroll" href="http://www.myrepublica.com/" target="_self">
+                                    <img src="/bundles/nagarikfrontend/images/logo.png" alt="logo" class="img-responsive">
+                                </a>
+                            </div>
+                        </div>
+                        <!-- /logo -->
+                    </div>
+                    <nav class="navbar navbar-default " role="navigation">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle hidden-xs" data-toggle="collapse" data-target="#navbar-brand-centered">
+                                <span class="sr-only">Toggle Navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                        </div>
+
+                        <div class="collapse navbar-collapse" id="navbar-brand-centered">
+                            <ul class="nav navbar-nav top-left">
+                                <li><a href="http://nagariknews.com/" target="_blank">NAGARIK</a></li>
+                                <li class="active"><a href="/">REPUBLICA</a></li>
+                                <li><a href="http://shukrabar.com/" target="_blank">SHUKRABAR</a></li>
+                            </ul>
+                            <ul class="nav navbar-nav top-right">
+                                <li><a href="http://e.myrepublica.com/" target="_blank">E-Paper</a></li>
+                                <li><a href="/content/load-shedding"><i class="fa fa-lightbulb-o" style="font-size: 16px;"></i> Load
+                                        Shedding</a>
+                                </li>
+                            </ul>
+                        </div>
+
+                    </nav>
+                </div>
+                <div class="col-md-4 local-time-block">
+                                    </div>
+                <div class="col-md-4">
+                    <div class="floatRight hidden-xs">
+
+                        <div class="sign-in pull-left">
+                            <ul class="list-inline">
+                                <li><a data-ng-if="!isLoggedIn" href="" class="sign" data-toggle="modal" data-target="#login-modal">
+                                        <i class="fa fa-sign-in"></i> Login </a>
+                                    <a data-ng-if="isLoggedIn" href="" class="sign" data-ng-click="logout()">
+                                        <i class="fa fa-sign-in"></i> Logout </a>
+                                </li>
+                                <li>
+                                    <a href="/content/online-subscription">
+                                        <i class="fa fa-check-square-o">Subscribe</i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div class="search pull-right">
+                            <form action="/search" method="get">
+                                <div class="form-group">
+                                    <div class="icon-addon addon-sm">
+                                        <input type="text" placeholder="Search" name="key" value="" class="form-control" id="search">
+                                        <label for="search" class="glyphicon glyphicon-search" rel="tooltip" title="search"></label>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- BEGIN # MODAL LOGIN -->
+<div class="modal fade" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="display: none;">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div data-ng-show="waitingResponse" class="loading-on-submit"></div>
+            <div class="modal-header" align="center">
+                <img class="img-circle" id="img_logo" src="/bundles/nagarikfrontend/images/logo-login.png">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
+                </button>
+            </div>
+
+            <!-- Begin # DIV Form -->
+            <div id="div-forms">
+                <div class="modal-body">
+                    <div data-ng-show="showLoginForm &amp;&amp; !showCategoriesForm &amp;&amp; !showRegistrationForm">
+                        <!-- Begin # Login Form -->
+                        <form name="loginForm" id="login-form" data-ng-submit="customLogin(loginForm.$valid)">
+                            <div id="error-message"></div>
+                            <div id="success-message"></div>
+                            <span class="msg-error" ng-show="loginForm.email.$error.required &amp;&amp; !validLoginForm">Email is required.</span>
+                            <input id="login_username" data-ng-model="loginData.username" class="form-control" type="email" placeholder="Email" required="">
+                            <span class="msg-error" ng-show="loginForm.email.$error.required &amp;&amp; !validLoginForm">Password is required.</span>
+                            <input id="login_password" data-ng-model="loginData.password" class="form-control" type="password" placeholder="Password" required="">
+                            <div style="padding-top: 15px">
+                                <button type="submit" class="btn btn-default btn-lg btn-block loginmodal-submit">Login
+                                </button>
+                            </div>
+                        </form>
+                        <center><h4>OR</h4></center>
+                        <button class="btn btn-lg btn-facebook btn-block" data-ng-click="authenticate('facebook')">
+                            Login
+                            via facebook
+                        </button>
+
+                        <button class="btn btn-lg btn-twitter btn-block" data-ng-click="authenticate('twitter')">
+                            Login
+                            via Twitter
+                        </button>
+                        <button class="btn btn-lg btn-gplus btn-block" data-ng-click="authenticate('google')">Login
+                            via
+                            Google
+                        </button>
+                        <div>
+                            <div>&nbsp;</div>
+                            <div>
+                                                                <button id="login_register_btn" type="button" class="btn btn-default" data-ng-click="showRegisterForm()">Register
+                                </button>
+                            </div>
+                        </div>
+                        <!-- End # Login Form -->
+                    </div>
+                    <!-- Begin | Lost Password Form -->
+                    <div class="lost-password" style="display:none;">
+
+                        <form id="lost-form" style="display:none;">
+                            <div class="modal-body">
+                                <h2>Lost Password</h2>
+                                <div id="div-lost-msg">
+                                    <div id="icon-lost-msg" class="glyphicon glyphicon-chevron-right"></div>
+                                    <span id="text-lost-msg">Type your e-mail.</span>
+                                </div>
+                                <input id="lost_email" class="form-control" type="text" placeholder="E-Mail (type ERROR for error effect)" required="">
+                            </div>
+                            <div class="modal-footer">
+                                <div>
+                                    <button type="submit" class="btn btn-primary btn-lg btn-block">Send</button>
+                                </div>
+                                <div>
+                                    <button id="lost_login_btn" type="button" class="btn btn-link">Log In</button>
+                                    <button id="lost_register_btn" type="button" class="btn btn-link">Register</button>
+                                </div>
+                            </div>
+                        </form>
+
+                    </div>
+                    <!-- End | Lost Password Form -->
+
+                    <!-- Begin | Register Form -->
+                    <div class="registration-form" data-ng-show="showRegistrationForm">
+
+                        <form id="register-form" name="registerForm" data-ng-submit="registerConsumer(registerForm.$valid)">
+                            <div data-ng-if="registerSuccess" id="success-message-register">You have successfully
+                                registered. Please login!
+                            </div>
+                            <div data-ng-if="registerError" class="register-error">Some problem occurred. Try Again!
+                            </div>
+                            <div class="modal-body">
+                                <h2>Registration</h2>
+                                <input id="register_name" data-ng-model="registerFormData.name" class="form-control" type="text" placeholder="Your Full Name" required="">
+                                <input style="margin-top: 10px;" id="register_email" data-ng-model="registerFormData.email" class="form-control" type="email" placeholder="Your Email" required="">
+                                <input id="register_password" data-ng-model="registerFormData.password" name="password" class="form-control" type="password" placeholder="Password" required="">
+                                <input id="confirm_password" data-ng-model="registerFormData.confirmPassword" name="confirmPassword" class="form-control" type="password" placeholder="Confirm Password" data-pw-check="" required="">
+                                <span class="msg-error" data-ng-show="registerForm.confirmPassword.$error.pwmatch">Password and confirm password doesn't match.</span>
+                            </div>
+                            <div class="modal-footer">
+                                <div>
+                                    <button type="submit" class="btn btn-primary btn-lg btn-block">Register</button>
+                                </div>
+                                <div>
+                                    <button id="register_login_btn" type="button" class="btn btn-default" data-ng-click="showLoginForm()">Log In
+                                    </button>
+                                                                        
+                                </div>
+                            </div>
+                        </form>
+
+                    </div>
+                    <!-- End | Register Form -->
+
+                    <!-- Begin | Redirect News Categories Form -->
+                    <div class="categories-news" data-ng-show="showCategoriesForm">
+
+                        <form id="register-form" novalidate="" data-ng-submit="submitPreferredCategories()">
+                            <div class="modal-body">
+                                <h4>Select Categories of your interest.</h4>
+                                <div class="row">
+                                    <div class="col-sm-6" data-ng-repeat="category in categories">
+                                        <div class="checkbox">
+                                            <label>
+                                                <input class="preferred-categories" data-ng-checked="{{ category.isPreferred }}" type="checkbox" data-ng-model="category.selected" value="{{ category.id }}">{{category.name}}
+                                            </label>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="modal-footer">
+                                    <div>
+                                        <button type="submit" class="btn btn-lg btn-block loginmodal-submit">Submit
+                                        </button>
+                                    </div>
+
+                                </div>
+                        
+                        <!-- End | Register Form -->
+                    </div></form>
+                </div>
+                <!-- End # DIV Form -->
+
+            </div>
+        </div>
+    </div>
+    <!-- END # MODAL LOGIN -->
+</div></div></header>
+
+<div class="main-header hidden-xs" id="header-main">
+    <div class="container">
+        <h1 class="logo">
+            <a href="http://www.myrepublica.com/" target="_self">
+                <img src="/bundles/nagarikfrontend/images/myrepublica-logo.png" alt="My Republica">
+            </a>
+        </h1>
+
+        <p style="color:#808285;" class="date text-center">Saturday, 19 November 2016 09:22 AM</p>
+    </div>
+    <!--container end -->
+</div>
+    <!--  <div class="container">-->
+<nav class="navbar  navbar-static-top main-menu">
+    <div class="container">
+        <div class="col-md-12  noPadding">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+                </button>
+
+                <div class="links-top-block mobile-only pull-right">
+                    <ul>
+                        <li><a href="http://nagariknews.com/" target="_blank">Nagarik</a></li>
+                        <li><a href="http://shukrabar.com/" target="_blank">Shukrabar</a></li>
+
+                    </ul>
+                </div>
+
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                                <ul class="nav navbar-nav">
+                                                                                    <li class="">
+                        <a href="http://www.myrepublica.com/" target="_self">HOME</a>
+                    </li>
+                                                                <li class="">
+                            <a href="/category/23">
+                                POLITICS
+                            </a>
+                        </li>
+                                            <li class="">
+                            <a href="/category/22">
+                                ECONOMY
+                            </a>
+                        </li>
+                                            <li class="">
+                            <a href="/category/24">
+                                SOCIETY
+                            </a>
+                        </li>
+                                            <li class="">
+                            <a href="/category/26">
+                                SPORTS
+                            </a>
+                        </li>
+                                            <li class="">
+                            <a href="/category/27">
+                                WORLD
+                            </a>
+                        </li>
+                                            <li class="">
+                            <a href="/category/81">
+                                OPINION
+                            </a>
+                        </li>
+                                            <li class="">
+                            <a href="/category/35">
+                                Lifestyle
+                            </a>
+                        </li>
+                                            <li class="">
+                            <a href="/category/117">
+                                The Week
+                            </a>
+                        </li>
+                                    </ul>
+            </div>
+
+        </div>
+    </div>
+</nav>
+<div class="clearfix"></div>
+    <section id="main-hightlight-categories-news">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 box">
+                    <p>
+                        </p><p>MyRepublica.com recognizes the importance of protecting the privacy of information you provide us.</p>
+
+<p>When you provide personally identifiable information to us, we ensure that those you intent to keep private are not disclosed.</p>
 
-<html><head>
-<title>MYREPUBLICA.com - News in Nepal: Fast, Full &amp; Factual</title>
-<meta name="title" content="MYREPUBLICA.com - News in Nepal: Fast, Full &amp; Factual">
-<meta name="description" content="Breaking News from Nepal">
-<meta name="Keywords" content="nepal, nepal news, news of nepal, nepal newspaper, everest, prachanda, girija prasad koirala, maoist, kathmandu, maoists, sangrila, pokhara, tibet, himalaya, buddha, lumbini, katmandu, sherpa, yeti">
-<meta name="THUMBNAIL_URL" content="http://www.republica.com/images/biogpic.jpg">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<!-- css files -->
-<link rel="image_src" href="http://www.republica.com/newimages/logo.jpg">
-<link rel="alternate" type="application/rss+xml" title="Republica RSS Feed" href="rss.php">
-<link href="../newcss/common.css" rel="stylesheet" type="text/css">
-<link href="../newcss/ui.css" rel="stylesheet" type="text/css">
-<link href="../newcss/header.css" rel="stylesheet" type="text/css">
-<link href="../newcss/footer.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="Scripts/lytebox.css" type="text/css" media="screen">
-<style type="text/css">
-<!--
-.newstitle {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: larger;
-	font-weight: bold;
-}
-.imagetitle {
-	font-size: larger;
-	font-weight: bold;
-}
--->
-</style>
-<!-- end css file -->
-<!-- javascript files -->
-<script language="javascript1.2" src="../scripts/jquery.js"></script>
-<script language="javascript1.2" src="../scripts/interface.php"></script>
-<script language="javascript1.2" src="../scripts/functions.js"></script>
-<script type="text/javascript" src="../scripts/dropdowncontent.js"></script>
-<script type="text/javascript" language="javascript" src="Scripts/lytebox.js"></script>
-<!-- end javascript file -->
-</head>
-<body bgcolor="#CCCCCC">
-<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#F7F7F7">
-  <tbody><tr>
-    <td bgcolor="#F7F7F7"> 
-      <div align="center" style="border:1px solid #D4D0C8"> 
-        <table width="1000" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-          <tbody><tr> 
-            <td colspan="5" align="left" valign="top">
-               <script language="javascript1.2">
-		function search(form)
-		{
-			if(form.search_type.options[form.search_type.selectedIndex].text.toLowerCase()=="my search")
-			{
-				form.action='index.php?action=search';
-				call_validate(form,0,form.length);
-			}
-			else
-			{
-				return false;
-			}
-		}	  
-	  </script>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr> 
-    <td><table width="100%" border="0" cellpadding="0" cellspacing="0">
-        <tbody><tr>
-          <td>&nbsp;</td> 
-          <td height="24" style="width: 235px"><div align="left" class="footertext"><a href="index.php">Home </a>| <a href="rss.php">RSS</a> | <a href="http://www.cricket.com.np/feedback/feedback.html" rel="lyteframe" title="Feedback" rev="width: 600px; height: 800px; scrolling: no;">Feedback</a> <br> 
-            </div></td>
-          <td class="style4"><table border="0" align="right" cellpadding="0" cellspacing="0" bordercolor="#6699FF">
-              <form action="" method="post"></form>
-                <tbody><tr bgcolor="#FFFFFF"> 
-                  <td height="21"><img src="../newimages/search.jpg" width="15" height="17"></td>
-                  <td><input class="banner-inputbox" name="search_text" type="text" size="15" valiclass="required" req="1" valimessage="Please give keyword to search"></td>
-                  <td><select name="search_type" class="banner-Select">
-                      <option>My Search</option>
-                      <option>Google Search</option>
-                    </select></td>
-                  <td valign="middle"><input class="portal-button" name="button" type="button" id="button" value="Go" onclick="search(this.form);"></td>
-                </tr>
-              
-            </tbody></table>            
-            <div align="center"><strong><a href="/portal/index.php?action=pages&amp;page_id=1" style="text-decoration:none; color:#666666">In pursuit of truth</a></strong></div></td>
-        </tr>
-        <tr>
-          <td height="2" colspan="3">          </td>
-        </tr>
-    </tbody></table></td>
-  </tr>
-  <tr> 
-    <td bgcolor="#97CAE5"><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-        <tbody><tr bgcolor="#0089CF"> 
-          <td bgcolor="#FFFFFF"> <table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
-         
-              <tbody><tr> 
-                <td height="100" bgcolor="#FFFFFF"></td>
-                <td bgcolor="#FFFFFF" width="400"> <div align="left">
-                                <center><a href="index.php"><img src="../newimages/myrepublica.gif" style="border:0px"></a></center></div></td>
-                                
-                <td bgcolor="#FFFFFF"></td>
-              </tr>
-            </tbody></table>          </td>
-        </tr>
-        <tr>
-          <td height="2" bgcolor="#FFFFFF">          </td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-  <tr><td>
-              <table width="1000" border="0" align="center" cellspacing="8" bgcolor="#FCB116">
-<tbody><tr>
-<td><a href="/portal/index.php?action=news_category&amp;news_category_id=14"><font color="#FFFFFF" size="-2"><b>POLITICAL AFFAIRS</b></font></a></td>
-<td><a href="/portal/index.php?action=news_category&amp;news_category_id=15"><font color="#FFFFFF" size="-2"><b>BUSINESS &amp; ECONOMY</b></font></a></td>
-<td><a href="/portal/index.php?action=news_category&amp;news_category_id=16"><font color="#FFFFFF" size="-2"><b>SOCIAL AFFAIRS</b></font></a></td>
-<td><a href="/portal/index.php?action=news_category&amp;news_category_id=17"><font color="#FFFFFF" size="-2"><b>LIFESTYLE</b></font></a></td>
-<td><a href="/portal/index.php?action=news_category&amp;news_category_id=18"><font color="#FFFFFF" size="-2"><b>SPORTS</b></font></a></td>
-<td><a href="/portal/index.php?action=news_category&amp;news_category_id=19"><font color="#FFFFFF" size="-2"><b>OPINION</b></font></a></td>
-<td><a href="/portal/index.php?action=news_category&amp;news_category_id=23"><font color="#FFFFFF" size="-2"><b>INTERVIEW</b></font></a></td>
-<td><a href="/portal/index.php?action=news_category&amp;news_category_id=21"><font color="#FFFFFF" size="-2"><b>INTERNATIONAL</b></font></a></td>
-</tr>
-</tbody></table>
-  </td></tr><tr>
-    <td height="20">  
-</td></tr></tbody></table>
-            </td>
-              </tr><tr>
-                  </tr><tr>
-            <td colspan="3" align="left" valign="top"><table width="100%" height="240" border="0" cellpadding="0" cellspacing="0">
-              <tbody><tr>
-                <td width="200" rowspan="4" valign="top" align="left">
-				
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
- <table cellpadding="0" cellspacing="0">
-                <tbody><tr>
-                  <td>
-                  <table border="0" align="left" cellpadding="0" cellspacing="0">
-        <tbody><tr bgcolor="#FFFFFF">
-          <td><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
-              <tbody><tr> 
-                <td width="10" height="20" valign="top" bgcolor="#FFFFFF"><img src="../newimages/Menuleftcurve.jpg" width="10" height="20"></td>
-                <td height="20" colspan="3" background="../newimages/Menuleftbg.jpg"><div align="center"><strong><font color="#FFFFFF">JUST IN</font></strong></div></td>
-                <td width="10" height="20" valign="top" bgcolor="#FFFFFF"><img src="../newimages/menurightcurve.jpg" width="10" height="20"></td>
-              </tr>
-            </tbody></table></td>
-        </tr>
-        <tr> 
-          <td> 
-            
-
-
-    <table width="100%" border="0" cellspacing="6" cellpadding="0">
-
-
-
-
-
-
-
-
-  <tbody><tr>
-
-    <td width="10" valign="top"><div align="right">1.</div></td>
-
-    <td valign="top"><a href="index.php?action=news_details&amp;news_id=6887">Gyanendra Shah transferred murdered king's millions in UK bank in 2003</a></td>
-  </tr>
- 
-
-
-
-
-  <tr>
-
-    <td width="10" valign="top"><div align="right">2.</div></td>
-
-    <td valign="top"><a href="index.php?action=news_details&amp;news_id=6886">Chakka jam on Bardibas-Jaleshwar road enters Day XI</a></td>
-  </tr>
- 
-
-
-
-
-  <tr>
-
-    <td width="10" valign="top"><div align="right">3.</div></td>
-
-    <td valign="top"><a href="index.php?action=news_details&amp;news_id=6885">Palpa hospital denies negligence in treatment</a></td>
-  </tr>
- 
-
-
-
-
-  <tr>
-
-    <td width="10" valign="top"><div align="right">4.</div></td>
-
-    <td valign="top"><a href="index.php?action=news_details&amp;news_id=6884">NRN couple, son diagnosed with Pandemic H1N1 virus</a></td>
-  </tr>
- 
-
-
-
-
-  <tr>
-
-    <td width="10" valign="top"><div align="right">5.</div></td>
-
-    <td valign="top"><a href="index.php?action=news_details&amp;news_id=6883">PM forms 5-member talks team</a></td>
-  </tr>
- 
-
-
-
-
-  <tr>
-
-    <td width="10" valign="top"><div align="right">6.</div></td>
-
-    <td valign="top"><a href="index.php?action=news_details&amp;news_id=6882">Maoist politburo meeting concludes</a></td>
-  </tr>
- 
-
-
-
-
-  <tr>
-
-    <td width="10" valign="top"><div align="right">7.</div></td>
-
-    <td valign="top"><a href="index.php?action=news_details&amp;news_id=6881">Manipal hospital tense after woman disappears
-</a></td>
-  </tr>
- 
-
-
-
-
-  <tr>
-
-    <td width="10" valign="top"><div align="right">8.</div></td>
-
-    <td valign="top"><a href="index.php?action=news_details&amp;news_id=6880">Pathak's documentary first runner-up of World TV Award</a></td>
-  </tr>
- 
-
-
-
-
-  <tr>
-
-    <td width="10" valign="top"><div align="right">9.</div></td>
-
-    <td valign="top"><a href="index.php?action=news_details&amp;news_id=6879">Youth killed in police action</a></td>
-  </tr>
- 
-
-
-
-
-  <tr>
-
-    <td width="10" valign="top"><div align="right">10.</div></td>
-
-    <td valign="top"><a href="index.php?action=news_details&amp;news_id=6878">Uday Sotang's most favorite songs</a></td>
-  </tr>
- 
-
- <tr>
-    <td colspan="2" valign="top" align="center"><a href="/portal/index.php?action=allhead_details" style="font-size:12px; color:#1f527b; font-family:Verdana, Arial, Helvetica, sans-serif; font-weight:bold; text-decoration:underline;">FILED PAST 24 HOURS</a></td>
-    </tr>
-</tbody></table>
-          </td>
-        </tr>
-        <tr bgcolor="#FFFFFF">
-          <td height="4"><div align="center"><a href="http://www.myrepublica.com/portal/index.php?action=news_category&amp;news_category_id=20&amp;headlines=true"><img src="../media/brief.jpg" width="200" height="23" border="0"></a></div></td>
-        </tr>
-        <tr bgcolor="#FFFFFF"> 
-          <td height="4"> </td>
-        </tr>
-                <tr bgcolor="#FFFFFF"> 
-          <td height="20"><div align="center"> 
-              <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
-                <tbody><tr> 
-                  <td width="10" height="20" valign="top" bgcolor="#FFFFFF"><img src="../newimages/Menuleftcurve.jpg" width="10" height="20"></td>
-                  <td height="20" colspan="3" background="../newimages/Menuleftbg.jpg"><div align="center"><strong><font color="#ffffff">MARKET</font></strong></div></td>
-                  <td width="10" height="20" valign="top" bgcolor="#FFFFFF"><img src="../newimages/menurightcurve.jpg" width="10" height="20"></td>
-                </tr>
-              </tbody></table>
-            </div></td>
-        </tr>
-        <tr> 
-          <td height="4"><table border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr>
-              <td width="10">&nbsp;</td>
-              <td width="170" height="19"><a href="/portal/index.php?action=jobs">Jobs</a></td>
-            </tr>
-            <tr>
-              <td>&nbsp;</td>
-              <td height="19"><a href="/portal/index.php?action=classified_ads">Classified Ads</a></td>
-            </tr>
-            <tr>
-              <td>&nbsp;</td>
-              <td height="19"><a href="/portal/index.php?action=forex">Forex</a></td>
-            </tr>
-            <tr>
-              <td>&nbsp;</td>
-              <td height="19"><a href="/portal/index.php?action=stocks">Stocks</a></td>
-            </tr>
-            <tr>
-              <td>&nbsp;</td>
-              <td height="19"><a href="/portal/index.php?action=bullion">Bullion</a></td>
-            </tr>
-             <tr>
-               <td height="19">&nbsp;</td>
-               <td height="19"><a href="/portal/index.php?action=cinema">Cinema</a></td>
-             </tr>
-             
-          </tbody></table></td>
-        </tr>
-        <tr bgcolor="#FFFFFF">
-          <td height="5" colspan="3">&nbsp;</td>
-        </tr>
-        <tr bgcolor="#FFFFFF">
-          <td height="20" colspan="3"><div align="center"><a href="/portal/index.php?action=vehicles"><img src="../newimages/car.png" border="0"></a></div></td>
-          </tr>
-        <tr bgcolor="#FFFFFF"> 
-          <td height="5" colspan="3"> </td>
-        </tr>
-        <tr> 
-          <td> 
-            
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-
-  <tbody><tr>
-
-    <td width="7%" background="../newimages/Menuleftbg.jpg"><img src="../newimages/Menuleftcurve.jpg"></td>
-
-    <td width="91%" background="../newimages/Menuleftbg.jpg"><div align="center"><strong><font color="#FFFFFF">Cartoon</font></strong></div></td>
-
-    <td width="2%"><img src="../newimages/menurightcurve.jpg"></td>
-
-  </tr>
-
-</tbody></table>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-
-  <tbody><tr>
-
-    <td><div align="center"><em><strong>Ouch! by Abin</strong>
-
-    </em></div></td>
-
-  </tr>
-
-  <tr>
-
-    <td><div align="center"><img src="../cartoon_pics/56.jpg" width="190"></div></td>
-
-  </tr>
-
-  <tr>
-
-    <td align="right"><a href="index.php?action=cartoon_archieves">Cartoon Archive »</a>&nbsp;&nbsp;</td>
-
-  </tr>
-
-</tbody></table>
-
-
-
-
-          <br></td>
-        </tr>
-       <!-- <tr bgcolor="#FFFFFF"> 
-          <td height="2"> </td >
-        </tr>
-             <tr >
-          <td></td>
-        </tr>
-        <tr bgcolor="#FFFFFF"> 
-          <td height="20"><div align="center"> <table width="100%" border="0" cellpadding="0" cellspacing="0">
-              <tr > 
-                <td width="10" height="20" valign="top" bgcolor="#FFFFFF"><img src="../newimages/Menuleftcurve.jpg" width="10" height="20"></td>
-                <td height="20" colspan="3" background="../newimages/Menuleftbg.jpg"><div align="center"><strong> <font color="#ffffff">
-                    POLL</font></strong></div></td>
-                <td width="10" height="20" valign="top" bgcolor="#FFFFFF"><img src="../newimages/menurightcurve.jpg" width="10" height="20"></td>
-              </tr>
-            </table>
-            </div>            </td>
-        </tr>
-        <tr > 
-          <td> 
-		  
-		                      </td>
-        </tr>-->
-      
-        <tr bgcolor="#FFFFFF"> 
-          <td height="20"><div align="center"> 
-              <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
-                <tbody><tr> 
-                  <td width="10" height="20" valign="top" bgcolor="#FFFFFF"><img src="../newimages/Menuleftcurve.jpg" width="10" height="20"></td>
-                  <td height="20" colspan="3" background="../newimages/Menuleftbg.jpg"><div align="center"><strong><font color="#ffffff">ARCHIVES</font> </strong></div></td>
-                  <td width="10" height="20" valign="top" bgcolor="#FFFFFF"><img src="../newimages/menurightcurve.jpg" width="10" height="20"></td>
-                </tr>
-              </tbody></table>
-            </div></td>
-        </tr>
-        <tr> 
-          <td height="4">
-            <table width="100%" border="0" cellspacing="0" cellpadding="0">
-  
-    <tbody><tr>
-    <td height="20" align="left">&nbsp;</td>
-    <td align="left"><a href="http://www.myrepublica.com/portal/index.php?action=pages&amp;page_id=9">CPN UML 8th Convention</a></td>
-  </tr>
-    <tr>
-  
-        <td width="16" height="20" align="left">&nbsp;</td>
-        <td align="left"><a href="/portal/index.php?action=news_archieves">
-        Daily News </a>        </td>
-  </tr>
-  <tr>
-    <td height="20" align="left">&nbsp;</td>
-    <td align="left"><a href="/portal/index.php?action=gallery_albums">Photo Gallery</a><a href="/portal/index.php?action=morevideos"></a></td>
-  </tr>
-</tbody></table>
-          </td>
-        </tr>
-        <tr> 
-          <td height="4"> </td>
-        </tr>
-        <tr bgcolor="#FFFFFF"> 
-          <td height="20"><div align="center"> 
-              <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
-                <tbody><tr> 
-                  <td width="10" height="20" valign="top" bgcolor="#FFFFFF"><img src="../newimages/Menuleftcurve.jpg" width="10" height="20"></td>
-                  <td height="20" colspan="3" background="../newimages/Menuleftbg.jpg"><div align="center"><strong><font color="#ffffff">Monday WEATHER</font> </strong></div></td>
-                  <td width="10" height="20" valign="top" bgcolor="#FFFFFF"><img src="../newimages/menurightcurve.jpg" width="10" height="20"></td>
-                </tr>
-              </tbody></table>
-            </div></td>
-        </tr>
-        <tr> 
-          <td> 
-            <style type="text/css">
-<!--
-.style1 {font-size: small}
--->
-</style>
-<table width="100%" border="0">
-<tbody>  
-  <tr>
-    <td colspan="2"><div align="center">KATHMANDU</div></td>
-    </tr>
-  <tr>
-    <td>Rain	  <br>
-	  	 </td>
-    <td><table width="100%" border="0">
-      <tbody><tr>
-        <td><span class="style1">Low</span></td>
-        <td>19<sup>o</sup>C</td>
-      </tr>
-      <tr>
-        <td><span class="style1">High</span></td>
-        <td>21<sup>o</sup>C</td>
-      </tr>
-      <tr>
-        <td><span class="style1">Sunrise</span></td>
-        <td>5:11 am</td>
-      </tr>
-      <tr>
-        <td><span class="style1">Sunset</span></td>
-        <td>7:03 pm</td>
-      </tr>
-    </tbody></table></td>
-  </tr></tbody>
-</table>
-          </td>
-        </tr>
-        <tr>
-          <td bgcolor="#FFFFFF"><script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
-<table width="100%" border="0">
-  <tbody><tr>
-    <td><a href="http://www.spicenepal.com/en/" target="_new"><img src="http://www.myrepublica.com/ads/meromobile.gif" width="128" height="71" border="0"></a></td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td><a href="http://www.gurkhasinstitute.com.au/?utm_source=edainiki&amp;utm_medium=banner&amp;utm_campaign=dainki"><img src="../ads/gurkhasins.gif" width="185" height="130" border="0"></a></td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-  </tr>
-  
-  <tr>
-    <td><img src="../ads/gayatri.gif" width="200" height="60"></td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-  </tr>
-</tbody></table>
-</td>
-        </tr>
-      </tbody></table></td>
-                </tr>
-</tbody></table>                </td>
-
-
-                <td width="20" valign="top"><img src="../newimages/20px.jpg"></td>
-
-
-                <td align="center" valign="top">
-
-
-							<table width="100%" border="0" cellspacing="0" cellpadding="5">
-  <tbody><tr>
-    <td><h2>Privacy Policy</h2>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-<meta content="Word.Document" name="ProgId">
-<meta content="Microsoft Word 12" name="Generator">
-<meta content="Microsoft Word 12" name="Originator">
-<link href="file:///C:%5CUsers%5CPREMKH%7E1%5CAppData%5CLocal%5CTemp%5Cmsohtmlclip1%5C01%5Cclip_filelist.xml" rel="File-List">
-<link href="file:///C:%5CUsers%5CPREMKH%7E1%5CAppData%5CLocal%5CTemp%5Cmsohtmlclip1%5C01%5Cclip_themedata.thmx" rel="themeData">
-<link href="file:///C:%5CUsers%5CPREMKH%7E1%5CAppData%5CLocal%5CTemp%5Cmsohtmlclip1%5C01%5Cclip_colorschememapping.xml" rel="colorSchemeMapping"><!--[if gte mso 9]><xml>
-Normal
-0
-false
-false
-false
-EN-US
-X-NONE
-X-NONE
-MicrosoftInternetExplorer4
-</xml><![endif]--><!--[if gte mso 9]><xml>
-</xml><![endif]--><style type="text/css">
-<!--
-/* Font Definitions */
-@font-face
-{font-family:Calibri;
-panose-1:2 15 5 2 2 2 4 3 2 4;
-mso-font-charset:0;
-mso-generic-font-family:swiss;
-mso-font-pitch:variable;
-mso-font-signature:-1610611985 1073750139 0 0 159 0;}
-/* Style Definitions */
-p.MsoNormal, li.MsoNormal, div.MsoNormal
-{mso-style-unhide:no;
-mso-style-qformat:yes;
-mso-style-parent:"";
-margin-top:0in;
-margin-right:0in;
-margin-bottom:10.0pt;
-margin-left:0in;
-line-height:115%;
-mso-pagination:widow-orphan;
-font-size:11.0pt;
-font-family:"Calibri","sans-serif";
-mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:Calibri;
-mso-fareast-theme-font:minor-latin;
-mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;
-mso-bidi-font-family:"Times New Roman";
-mso-bidi-theme-font:minor-bidi;}
-.MsoChpDefault
-{mso-style-type:export-only;
-mso-default-props:yes;
-mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:Calibri;
-mso-fareast-theme-font:minor-latin;
-mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;
-mso-bidi-font-family:"Times New Roman";
-mso-bidi-theme-font:minor-bidi;}
-.MsoPapDefault
-{mso-style-type:export-only;
-margin-bottom:10.0pt;
-line-height:115%;}
-@page Section1
-{size:595.35pt 841.95pt;
-margin:1.0in 1.0in 1.0in 1.5in;
-mso-header-margin:.5in;
-mso-footer-margin:.5in;
-mso-paper-source:0;}
-div.Section1
-{page:Section1;}
--->
-</style><!--[if gte mso 10]>
-<style>
-/* Style Definitions */
-table.MsoNormalTable
-{mso-style-name:"Table Normal";
-mso-tstyle-rowband-size:0;
-mso-tstyle-colband-size:0;
-mso-style-noshow:yes;
-mso-style-priority:99;
-mso-style-qformat:yes;
-mso-style-parent:"";
-mso-padding-alt:0in 5.4pt 0in 5.4pt;
-mso-para-margin-top:0in;
-mso-para-margin-right:0in;
-mso-para-margin-bottom:10.0pt;
-mso-para-margin-left:0in;
-line-height:115%;
-mso-pagination:widow-orphan;
-font-size:11.0pt;
-font-family:"Calibri","sans-serif";
-mso-ascii-font-family:Calibri;
-mso-ascii-theme-font:minor-latin;
-mso-fareast-font-family:"Times New Roman";
-mso-fareast-theme-font:minor-fareast;
-mso-hansi-font-family:Calibri;
-mso-hansi-theme-font:minor-latin;}
-</style>
-<![endif]-->
-<p>MyRepublica.com recognizes the importance of protecting the privacy of information you provide us.</p>
-<p>When you provide personally identifiable information to us, we ensure that those you intent to keep private are not disclosed. </p>
 <p>We may use your personal information for our own purpose like conducting researches about use of our website and types of users but will not distribute it to third party under any circumstance other than required by laws of Government of Nepal.</p>
-<p>We may use your email addresses to send you promotional emails. We reserve the right to send you offer and information about MyRepublica.com and its affiliates. <br>
-</p>
-<p>However, you will have the rights to unsubscribe any such mails from us. We do not monitor cookies.</p></td>
-  </tr>
-</tbody></table>
-                </td>
-                <td width="15"><img src="../newimages/20px.jpg" width="15px"></td>
-                <td width="250" valign="top" align="right"><!--Right Side tablemain-->
-                                        <table id="rightmenu_main" width="100%" border="0">
-                      <tbody><tr>
-                       <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="5">
-  <tbody><tr>
-    <td></td>
-  </tr>
-</tbody></table>
-                        </td>
-                      </tr>
-                    </tbody></table>
-                                  </td>
-              </tr>
-              <tr> </tr>
-            </tbody></table></td>
-          </tr><tr> 
-            <td height="36" colspan="5" bgcolor="#FFFFFF"> 
-              <table width="1000" border="0" cellspacing="4" cellpadding="0">
-  <tbody><tr>
-    <td height="1" bgcolor="#FFFFFF" valign="bottom"><hr align="center" size="3" color="#FCB116" noshade=""></td>
-  </tr>
-  <tr>
-    <td bgcolor="#999999" valign="bottom"><table width="100%" border="0" cellspacing="4" cellpadding="0">
-      <tbody><tr>
-        <th width="10%" scope="col"><img src="../newimages/companylogo.jpg" width="70" height="74"></th>
-        <th colspan="2" valign="top" scope="col"><div align="left">
-          <table width="100%" border="0" cellspacing="4" cellpadding="0">
-            <tbody><tr>
-              <th scope="col"><font color="#FFFFFF"><a href="index.php?action=pages&amp;page_id=1">About us</a> | <a href="index.php?action=pages&amp;page_id=6">Contact us</a> | <a href="index.php?action=pages&amp;page_id=2">Advertise with us</a> | <a href="index.php?action=pages&amp;page_id=3">Career </a>| <a href="index.php?action=pages&amp;page_id=4">Terms of use</a> | <a href="index.php?action=pages&amp;page_id=5">Privacy policy</a></font></th>
-            </tr>
-            <tr>
-              <td><font color="#FFFFFF">&nbsp;</font>                <div align="left"><font color="#FFFFFF"></font></div></td>
-            </tr>
-          </tbody></table>
-          <div align="left"><font color="#FFFFFF"><strong>Copyright © Nepal Republic Media Pvt. Ltd. 2008-09.</strong></font><br>
-              </div>
-        </div>          </th>
-        </tr>
-    </tbody></table></td>
-  </tr>
-  <tr>
-    <td height="3" bgcolor="#fcb116"><font size="-6" color="#FCB116">Nepal, NepalNews, Republica, myrepublica, everest, kathmandu, katmandu, news of nepal, girija prasad koirala, prachanda, maoist, tibet, pokhara, himalaya, mountain </font></td>
-  </tr>
-</tbody></table>
-            </td>
-          </tr>
-        </tbody></table>
-      </div></td>
-  </tr>
-</tbody></table>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-6795231-2");
-pageTracker._trackPageview();
-} catch(err) {}</script>
 
-<div id="lbOverlay" class="grey" style="display: none;"></div><div id="lbMain" style="display: none;"><div id="lbOuterContainer" class="grey"><div id="lbIframeContainer" style="display: none;"><iframe id="lbIframe" name="lbIframe" style="display: none;"></iframe></div><div id="lbImageContainer"><img id="lbImage"><div id="lbHoverNav"><a id="lbPrev" class="grey" href="#"></a><a id="lbNext" class="grey" href="#"></a></div></div><div id="lbLoading"></div></div><div id="lbDetailsContainer" class="grey"><div id="lbDetailsData" class="grey"><div id="lbDetails"><span id="lbCaption"></span><span id="lbNumberDisplay"></span><span id="lbNavDisplay" style="display: none;"></span></div><div id="lbBottomNav"><a id="lbClose" class="grey" href="#"></a><a id="lbPause" class="grey" href="#" style="display: none;"></a><a id="lbPlay" class="grey" href="#" style="display: none;"></a></div></div></div></div></body></html>
+<p>We may use your email addresses to send you promotional emails. We reserve the right to send you offer and information about MyRepublica.com and its affiliates.</p>
+
+<p>However, you will have the rights to unsubscribe any such mails from us. We do not monitor cookies.</p>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+    </section><!--/#main-hightlight-news-->
+
+<!---Footer----->
+<footer id="footer">
+    <div class="container">
+
+        <div class="col-sm-2 footer-menu">
+            <h4>Other Links</h4>
+            <ul>
+                                                    <li>
+                        <a href="/content/online-subscription">Online Subscription</a>
+                    </li>
+                                    <li>
+                        <a href="/content/load-shedding">Load Shedding</a>
+                    </li>
+                                    <li>
+                        <a href="/content/advertise-with-us">Advertise With Us</a>
+                    </li>
+                                    <li>
+                        <a href="/content/contact-us">Contact Us</a>
+                    </li>
+                                    <li>
+                        <a href="/content/about-us">About Us</a>
+                    </li>
+                                    <li>
+                        <a href="/content/privacy-policy">Privacy Policy</a>
+                    </li>
+                                    <li>
+                        <a href="/content/terms-of-use">Terms of Use</a>
+                    </li>
+                            </ul>
+        </div>
+        <!-- col-sm-4 -->
+
+        <div class="col-sm-6 other-product">
+            <p class="product-one desktop-only">
+                <a href="http://nagariknews.com/" target="_blank">
+                    <img src="/bundles/nagarikfrontend/images/footer-nagarik.png" alt="Nagarik News">
+                </a>
+                <a href="http://shukrabar.com/" target="_blank">
+                    <img src="/bundles/nagarikfrontend/images/footer-shukrabar.png" alt="Shukrabar">
+                </a>
+                <a href="http://nagariknews.com/category/100" target="_blank">
+                    <img src="/bundles/nagarikfrontend/images/footer-purbeli.png" alt="Purbeli">
+                </a>
+                <a href="http://nagariknews/category/101" target="_blank">
+                    <img src="/bundles/nagarikfrontend/images/footer-paschameli.png" alt="Pashchimeli">
+                </a>
+            </p>
+            <!---social con --->
+            <div class="social-icon">
+                <a href="http://facebook.com/myrepublica" target="_blank" class="icon-link round facebook"><i class="fa fa-facebook"></i></a>
+                <a class="icon-link round twitter" href="https://twitter.com/RepublicaNepal" target="_blank"><i class="fa fa-twitter"></i></a>
+
+                <a class="icon-link round youtube" href="" target="_blank"><i class="fa fa-youtube"></i></a>
+
+            </div>
+        </div>
+        <!-- other-product -->
+        <div class="col-sm-4 subcribe desktop-only">
+            <div class="sub-block"><a href="/content/online-subscription"><span> Subscribe<br>
+              Newspaper</span> </a>
+                <figure>
+                    <a href="/content/online-subscription">
+                        <img src="/bundles/nagarikfrontend/images/subscribe.png" alt="" class="img-responsive">
+                    </a>
+                </figure>
+                <div class="clearfix"></div>
+            </div>
+            <!-- sub-block end -->
+
+            <div class="sub-block">
+                <ul class="list-group">
+                    <li><a href="https://itunes.apple.com/np/app/nagarik-news/id1128332707?mt=8" target="_blank">
+                            <img src="/bundles/nagarikfrontend/images/app-design.png" alt=""></a></li>
+
+
+                    <li><a href="https://play.google.com/store/apps/details?id=com.bajratechnologies.nagariknews" target="_blank">
+                            <img src="/bundles/nagarikfrontend/images/google.png" alt=""></a></li>
+                </ul>
+                <div class="clearfix"></div>
+            </div>
+            <!-- sub-block end -->
+        </div>
+        <!-- subcribe -->
+    </div>
+</footer>
+<div class="scroll-top-wrapper show hidden-xs">
+    <span class="scroll-top-inner">
+    <i class="fa fa-2x fa-arrow-circle-up"></i>
+    </span>
+</div>
+
+<div class="bottom-footer">
+    <div class="container">
+        <div class="row">
+            <div class="pull-left">
+                <a href=""> <img src="/bundles/nagarikfrontend/images/footer.png" alt="footer" style="float: left;">
+                </a>
+            </div>
+
+            <div class="pull-right">
+            <span class="copy">Copyright 2016 Nepal Republic Media Pvt. Ltd.
+    | All rights reserved.</span>
+            </div>
+        </div>
+    </div>
+    <!-- container  end -->
+</div>
+
+
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="/bundles/nagarikadmin/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/bundles/nagarikfrontend/js/sharrre/selection-sharer.js"></script>
+<script type="text/javascript" src="/bundles/nagarikfrontend/js/bidhee-share.js"></script>
+<script src="/bundles/nagarikfrontend/js/bootbox.min.js"></script>
+<script type="text/javascript" src="/bundles/nagarikfrontend/scripts/jquery.min.js"></script>
+<script type="text/javascript" src="/bundles/nagarikfrontend/scripts/jquery.mobile.customized.min.js"></script>
+<script type="text/javascript" src="/bundles/nagarikfrontend/scripts/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/bundles/nagarikfrontend/scripts/camera.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+<script type="text/javascript" src="/bundles/nagarikfrontend/js/satellizer.js"></script>
+<script type="text/javascript" src="/bundles/nagarikfrontend/js/angularjs/angular-messages.js"></script>
+<script type="text/javascript" src="/bundles/nagarikfrontend/js/angularjs/angular-toastr.tpls.js"></script>
+<script type="text/javascript" src="/bundles/nagarikfrontend/js/app-myrepublica.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.13.0/moment.min.js"></script>
+<script type="text/javascript" src="/bundles/nagarikfrontend/js/time/moment-timezone-with-data.min.js"></script>
+<script type="text/javascript" src="/bundles/nagarikfrontend/js/time/jstz.min.js"></script>
+<script type="text/javascript" src="/bundles/nagarikfrontend/js/time/custom.js"></script>
+<script src="/bundles/fosjsrouting/js/router.js"></script>
+<script src="/js/routing?callback=fos.Router.setData"></script>
+ 
+<script>
+    (function ($) {
+        $(window).load(function () {
+            $('#camera_wrap_1').camera({
+                thumbnails: true
+            });
+            //Add responsive class
+            var insideTextImage = $('.recent-news-categories-details>img');
+            if (!insideTextImage.hasClass('img-responsive')) {
+                insideTextImage.addClass('img-responsive')
+            }
+        });
+
+    })(jQuery);
+    <!-- The scroll to top feature -->
+    $(document).ready(function () {
+        $('#tabs').tab();
+        $(function () {
+            $(document).on('scroll', function () {
+
+                if ($(window).scrollTop() > 100) {
+                    $('.scroll-top-wrapper').addClass('show');
+                } else {
+                    $('.scroll-top-wrapper').removeClass('show');
+                }
+            });
+
+            $('.scroll-top-wrapper').on('click', scrollToTop);
+        });
+        function scrollToTop() {
+            verticalOffset = typeof(verticalOffset) != 'undefined' ? verticalOffset : 0;
+            element = $('body');
+            offset = element.offset();
+            offsetTop = offset.top;
+            $('html, body').animate({scrollTop: offsetTop}, 500, 'linear');
+        }
+    });
+    //Fixed menu bar when scrolled
+    $(window).scroll(function () {
+        var topHeight = $('#header-top').height() + $('#header-main').height();
+        if ($(window).width() > 800) {
+            if ($(window).scrollTop() > topHeight) {
+                $(".navbar-static-top").addClass("fixed");
+            }
+            else {
+                $(".navbar-static-top").removeClass("fixed");
+            }
+        }
+    });
+
+    <!-- poll -->
+
+    $("#vote-button").click(function () {
+        var answerId = $("input[name=answer]:checked").val();
+
+        if (isNaN(answerId)) {
+            $('#poll-question-block-message').addClass('text-danger');
+            $('#poll-question-block-message').html("Please choose your opinion and vote.");
+            return;
+        }
+
+        $.ajax({
+            type: 'GET',
+            url: Routing.generate('nagarik_poll_save_vote', {'answer_id': answerId}),
+            success: function (data) {
+
+                $('#poll-result-block').show();
+                $('#poll-result-block-message').html(data.message);
+
+                $('#poll-question-block-message').html('');
+
+                if (data.status == 'success') {
+                    $('#poll-result-block-message').addClass('text-success');
+                } else {
+                    $('#poll-result-block-message').addClass('text-danger');
+                }
+
+                $('#poll-question-block').removeClass('col-md-12');
+                $('#poll-question-block').addClass('col-md-8');
+            }
+        });
+
+    });
+
+</script>
+
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-36217027-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+
+</body></html>
