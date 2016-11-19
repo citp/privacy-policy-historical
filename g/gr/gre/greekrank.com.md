@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greekrank.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606133052id_/http%3A//www.greekrank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greekrank.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119113804id_/http%3A//www.greekrank.com/privacy) for the most accurate reproduction.*
 
-# Report a rating, review, shoutout, or discussion post - Greekrank
+# Privacy Policy - Greekrank
 
 LAST REVISED: APRIL 6, 2016
 
@@ -24,3 +24,6 @@ From time to time, we may use customer information for new, unanticipated uses n
 If you have any questions, please [contact us](https://web.archive.org/contact/).
 
 Didn't find your school?Request for your school to be featured on GreekRank.
+
+  
+
