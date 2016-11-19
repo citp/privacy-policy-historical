@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jav68.tv privacy policy that was archived on 2016-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160127034341id_/http%3A//jav68.tv/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jav68.tv privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119010243id_/http%3A//javgo.me/policy) for the most accurate reproduction.*
 
-# Privacy Policy Jav68.Me
+# Privacy Policy JavGo.Me
 
 This document details important information regarding the use and disclosure of User Data collected on Jav68.TV
 
@@ -48,4 +48,4 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 **YOUR RIGHTS**
 
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the [Contact us](http://jav68.me/contact.html "Contact us").
+You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the [Contact us](http://javgo.me/contact.html "Contact us").
