@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amredeemed.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228075822id_/http%3A//amredeemed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amredeemed.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119125414id_/http%3A//www.amredeemed.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Amredeemed
+# Privacy Policy | Bible Study
 
 This Privacy Policy governs the manner in which amredeemed.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://amredeemed.com](http://amredeemed.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by amredeemed.com.
 
@@ -74,11 +74,4 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[amredeemed.com](http://amredeemed.com/)  
-[http://amredeemed.com](http://amredeemed.com/)  
-amredeemed.com Kenya  
-+2547287277967  
-iislim88@gmail.com
-
-This document was last updated on August 11, 2014
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: support@amredeemed.com
