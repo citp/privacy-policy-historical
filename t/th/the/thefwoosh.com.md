@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefwoosh.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623185019id_/http%3A//thefwoosh.com/about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefwoosh.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119152231id_/http%3A//thefwoosh.com/about) for the most accurate reproduction.*
 
 # About | The Fwoosh
 
@@ -22,25 +22,23 @@ Please direct all advertising-related inquiries to [promotions@thefwoosh.com](m
 
 ### Staff
 
-#### Site Administrators
+#### Site Officers
 
-**pablolobo** (Paul Wolf) | CEO and Founder  
+**Paul Wolf** (pablolobo) | CEO and Founder  
 ---|---  
-**RoboKillah** (Brian Rutherford) | Chief Operating Officer  
-**Industrial** (Adam Van Wickler) | Chief Brand Officer / Creative Director  
-**VeeBee** (Nic Wood) | Chief Content Officer / Editor In Chief  
+**Brian Rutherford** (RoboKillah) | Chief Operating Officer  
+**Adam Van Wickler** (Industrial) | Chief Brand Officer / Creative Director  
+**Nic Wood** (VeeBee) | Chief Content Officer / Editor In Chief  
   
 #### Forum Moderators
 
-**ActorJez** (John Jezior) | All Forums  
----|---  
 **canonball** (Timothy Pittz) | All Forums  
+---|---  
 **carl** (Scott Akers) | All Forums  
 **DisThunder** (Dustin Downey) | All Forums  
 **Ibentmyman-thing** (Daniel Wilson) | All Forums  
 **Matthew K** (Matthew Kloberdanz) | All Forums  
 **Prodigy** (Brett Gaillot) | All Forums  
-**Tenbones** | All Forums  
 **Tommyboy1972** | All Forums  
   
 #### Front Page Staff
@@ -57,25 +55,22 @@ Please direct all advertising-related inquiries to [promotions@thefwoosh.com](m
 ** | Writer/Reporter  
 **themanintheanthill** (Jason R. Mink) | Writer  
 **Ladybug** (L. Crowl) | Writer  
-**fireball13z** (Matt Stein) | Writer  
 **snowman** | Writer  
 **JKL-MD ReFugee** (Jeffery K. Lyles) | Writer  
-**BCR Duke  **(Brian Charles Rooney) | Writer  
 **DisThunder** (Dustin Downey) | Writer  
   
 ### Fwooshcast Members
 
-hagop (Tony Hagopian) |  Host  
+**Tony Hagopian** (hagop) | Host  **                  **  
 ---|---  
-VeeBee (Nic Wood) |  Co-Host and windbag  
-|   
+**Nic Wood** (VeeBee) | Co-Host  
   
 ### FwooshTube
 
- Robokillah (Brian Rutherford) |  Reviewer  
+**Brian Rutherford** (Robokillah) | Reviewer  
 ---|---  
- VeeBee (Nic Wood) |  Reviewer  
-canonball (Timothy Pittz) | Reviewer  
+**Nic Wood** (VeeBee) | Reviewer  
+**Timothy Pittz** (canonball) | Reviewer  
   
 * * *
 
