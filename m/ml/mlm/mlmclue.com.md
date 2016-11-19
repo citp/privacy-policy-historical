@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the mlmclue.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606071615id_/http%3A//www.mlmclue.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmclue.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119072512id_/http%3A//mlmclue.com/Privacy.aspx) for the most accurate reproduction.*
 
 # mlm,India mlm news,mlm classifieds,India mlm companies,networker views,mlm articles,mlm directory,mlm software,Network marketing in Andhrapradesh,India
 
-|  |  |  |  |    
+|  |   
+---  
+  
+   
+|  |  |    
 ---|---  
 | This privacy policy describes how we handle your personal information. [clueleads.com](http://www.clueleads.com/) is committed to protecting your privacy in accordance with the terms of this Privacy Policy.   
 ---  
@@ -24,6 +28,4 @@ Users of this Site may contact [clueleads.com](http://www.clueleads.com/) to mod
 |   
 ---  
   
-[](https://play.google.com/store/apps/details?id=com.apex.icrf&hl=en)  
-  
-[](http://goo.gl/FZmiAx)
+[](http://www.okrecharge.in/)
