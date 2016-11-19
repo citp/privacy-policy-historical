@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pureflix.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624113153id_/http%3A//www.pureflix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pureflix.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119084117id_/http%3A//www.pureflix.com/privacy) for the most accurate reproduction.*
 
-# Pure Flix | PureFlix Privacy and Netiquette Policies
+# Pure Flix - PureFlix Privacy and Netiquette Policies
 
 On behalf of Pure Flix, we are thrilled that you have chosen to take the time to engage in and share your knowledge and life experience with our online community.  We encourage our community to be respectful and professional at ALL times, bearing in mind that your words can either lead a person towards Christ or away from Christ. Remember, to many, you are a reflection of the God you serve and the faith you profess. It goes without saying that no foul language, flaming wars, or spamming will be tolerated and an instant deletion of those comment(s) will occur.
 
