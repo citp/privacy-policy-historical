@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the better.org.uk privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524092304id_/http%3A//www.better.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the better.org.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119070128id_/http%3A//www.better.org.uk/privacy) for the most accurate reproduction.*
 
-# Better: The Feel Good Place. Find a centre today.
+# Better: The Feel Good Place. Join us now.
 
 We respect each individual’s right to personal privacy ("you"/"your"). We will collect and use information through our website only in the ways covered in this statement. This statement applies solely to information collected on our website [www.better.org.uk](http://www.better.org.uk/) and [www.gll.org](http://www.gll.org/) ("our website(s)").
 
