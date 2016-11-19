@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the desifree.tv privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608000317id_/http%3A//www.desifree.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desifree.tv privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119035313id_/http%3A//www.desifree.tv/privacy) for the most accurate reproduction.*
 
-# Privacy | DesiFreeTV
+# Privacy | DesiFree.TV
 
 By using this site, you agree to the Privacy Policy of Desifree.tv If you do not agree to the Policy, please do not use this site. Desifree.tv reviews its privacy policy periodically and reserves the right, at its discretion, to modify or remove portions of this policy at any time. This page should be reviewed periodically so that you are updated on any changes. If you want to communicate with us about our policy, please e-mail us at: desifreetv@gmail.com
 
@@ -17,5 +17,3 @@ Desifree.tv has established many links directly to sites operated by third parti
 Desifree.tv chooses its advertisers and business partners carefully. However, Desifree.tv is not responsible for the content or practices of Web sites operated by third parties that are linked to our site. These links are meant for the user’s convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by Desifree.tv of the content, policies or practices of such third party sites. Once you enter a third party site by such a link, you should check the applicable privacy policy of the third party site.
 
 January 26th, 2016
-
-This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.[More info](http://www.desifree.tv/cookie-policy)
