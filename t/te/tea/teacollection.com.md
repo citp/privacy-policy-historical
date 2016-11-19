@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teacollection.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417143909id_/http%3A//www.teacollection.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teacollection.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119141136id_/http%3A//www.teacollection.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tea Collection
 
