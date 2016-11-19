@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meetwives.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614142648id_/http%3A//www.meetwives.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetwives.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119012419id_/http%3A//www.meetwives.com/site/privacy) for the most accurate reproduction.*
 
-# Meetwives - Spice up your life with a discreet encounter!
+# MeetWives - Spice up your life with a discreet encounter!
 
 ### Table of Contents:
 
