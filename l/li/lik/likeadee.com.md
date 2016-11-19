@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the likeadee.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516180329id_/http%3A//likeadee.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likeadee.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015329id_/http%3A//wikidee.org/privacy.php) for the most accurate reproduction.*
 
 # 
 
-This Privacy Policy governs the manner in which Likeadee collects, uses, maintains and discloses information collected from users (each, a "User") of the www.Likeadee.org website ("Site"). This privacy policy applies to the Site and all products and services offered by Likeadee. 
+This Privacy Policy governs the manner in which Wikidee collects, uses, maintains and discloses information collected from users (each, a "User") of the www.wikidee.org website ("Site"). This privacy policy applies to the Site and all products and services offered by Wikidee. 
 
 Personal identification information 
 
@@ -18,7 +18,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 How we use collected information 
 
-Likeadee may collect and use Users personal information for the following purposes: 
+Wikidee may collect and use Users personal information for the following purposes: 
 
 \- To process payments 
 
@@ -50,7 +50,7 @@ Some of the ads may be served by Google. Google's use of the DART cookie enables
 
 Changes to this privacy policy 
 
-Likeadee has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
+Wikidee has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
 
 Your acceptance of these terms 
 
@@ -60,9 +60,9 @@ Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
 
-Likeadee 
+Wikidee 
 
-www.Likeadee.org 
+www.wikidee.org 
 
 68 Songhees Road, Victoria, BC, Canada, V9A0A3 
 
