@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the crawlist.net privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517105608id_/http%3A//www.crawlist.net/p/blog-page.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crawlist.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119014155id_/http%3A//www.crawlist.net/p/blog-page.html) for the most accurate reproduction.*
 
 # Privacy Policy of Crawlist - Crawlist
-
-##  [Privacy Policy of Crawlist](http://www.crawlist.net/p/blog-page.html)
 
 Your privacy is very important to me. Accordingly, I (introducing as Crawlist) have developed this Policy in order for you to understand how Crawlist collect, use, communicate and disclose and make use of personal information. The following outlines are Crawlist’s privacy policy.
 
