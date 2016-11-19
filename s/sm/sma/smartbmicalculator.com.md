@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartbmicalculator.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502091345id_/http%3A//www.smartbmicalculator.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartbmicalculator.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119020006id_/http%3A//www.smartbmicalculator.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -26,4 +26,4 @@ For this purpose, Google Analytics is used. This tool uses "cookies" which are t
 
 We will never (and will not allow any third party to) use the statistical analytics tool to track or to collect any Personally Identifiable Information (PII) of the visitors to our site. Google will not associate your IP address with any other data held by Google. Neither we nor Google will link, or seek to link, an IP address with the identity of a computer user. We will not associate any data gathered from this site with any Personally Identifiable Information from any source.
 
-[](http://www.smartbmicalculator.com/body-fat.html)
+[](http://www.smartbmicalculator.com/)
