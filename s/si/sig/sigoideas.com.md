@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sigoideas.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509041802id_/http%3A//scgoideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sigoideas.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119060726id_/http%3A//scgoideas.com/privacy-policy) for the most accurate reproduction.*
 
 # Scgoideas.com Privacy Policy - Scgoideas.com - Taiwan Entertainment - Taiwanese Variety Show 台灣綜藝
 
