@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenewcivilrightsmovement.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414193109id_/http%3A//www.thenewcivilrightsmovement.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewcivilrightsmovement.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119162724id_/http%3A//www.thenewcivilrightsmovement.com/privacy) for the most accurate reproduction.*
 
 # Privacy - The New Civil Rights Movement
 
