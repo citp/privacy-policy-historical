@@ -1,26 +1,56 @@
-> *The following text is extracted and transformed from the healthychildren.org privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422222611id_/https%3A//www.healthychildren.org/english/pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthychildren.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119040045id_/https%3A//www.healthychildren.org/english/pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - HealthyChildren.org
 
-**AMERICAN ACADEMY OF PEDIATRICS  
-** **PRIVACY STATEMENT**
+**​American Academy of Pediatrics Privacy Statement**
 
-The American Academy of Pediatrics (AAP) takes the issue of privacy very seriously. This policy is intended to help you understand how AAP collects, uses and safeguards the information collected on our Web site. This Privacy Policy does not apply to the use or disclosure of information that is collected or obtained through means other than this Web site. 
+The American Academy of Pediatrics (AAP) takes the issue of privacy very seriously. This policy is intended to help you understand how AAP collects, uses, safeguards and discloses the information collected on our Website. This Privacy Policy does not apply to the use or disclosure of information that is collected or obtained through means other than this Website.
 
-_Collection of Information_ : Visitors may generally browse public portions of the AAP Web site anonymously without providing any personal information. However, personal information is required in connection with registering with the site. In addition, personal information will be requested in connection with purchasing products or services, requesting additional information, signing up for newsletters, or submitting questions through this site. In general, a visitor will know when personal information is being collected because he or she will have to fill out a form. AAP does not knowingly collect or use any personal information from users under 13 years of age. AAP will endeavor to correct, update or remove collected personal data if contacted ([info@healthychildren.org](mailto:info@healthychildren.org)). 
+AAP reserves the right to revise this privacy statement at any time by posting a revised statement on this Website. Use of this Website after such change signifies the user's acceptance of the changed terms.
 
-_AAP Use of Information_ : Any information collected on the Web site will be used by the AAP only for the purpose stated at the time of collection. Only those who ask to be added to AAP e-mail lists or who ask for information from AAP will receive e-mail communications from AAP.  E-mail addresses may be removed from AAP e-mail lists at any time by following the applicable opt-out procedure specified in the list welcome message or by contacting [info@healthychildren.org](mailto:info@healthychildren.org). AAP may share statistical or aggregated, non-personal information about our visitors with affiliates, business partners and other third parties. This data is used for administrative purposes only. 
+## Collection of Information
 
-_Sharing of Information_ : AAP may provide personal information to third party agents that have been hired to help provide a requested good or service. For example, in connection with a product order, AAP would need to provide the collected credit card number to a payment authorization service and the corresponding address to a shipping company to deliver the package. Unless directed otherwise at the time of collection, AAP may also share collected personal information with third parties who may have information or services that AAP believes could be helpful to members or visitors. Visitors may opt-out from the sharing of collected information by contacting [info@healthychildren.org](mailto:info@healthychildren.org). 
+The information we collect generally includes: (1) personal information you supply, and (2) tracking information collected as you navigate through the Website.
 
-_Cookies and Tracking Information_ : AAP may use "cookie" technology to obtain non-personal information from its on-line visitors. AAP servers may also collect the IP addresses and domain names of visitors for site administration purposes. AAP does not extract personal information in these processes, nor does AAP provide this information to third parties. AAP does not contact on-line visitors based on information in the AAP cookie file. 
+## Information Collected From You
 
-AAP has taken commercially reasonable steps to protect information received from on-line visitors against unauthorized access and use. All information is protected by AAP security measures, which are periodically reviewed. 
+Visitors may generally browse public portions of the AAP Website anonymously without providing any personal information. However, AAP members are required to provide personal information in connection with registering for or accessing member portions of the site. In addition, personal information will be requested in connection with purchasing products or services, requesting additional information, signing up for newsletters or listservs, participating in forums, submitting questions, or otherwise to participate in this Website. AAP will endeavor to correct, update or remove collected personal data if contacted ([webeditor@aap.org](mailto:webmaster@aap.org)).
 
-AAP reserves the right to disclose without notice to the user any information in its possession if required to do so by law, to protect or defend AAP's rights or property, or to respond to an emergency. This Web site contains links to third-party Web sites which are not under the control of the AAP. AAP is not responsible for the privacy practices of any linked site. 
+## Information Collected Through Technology
 
-AAP reserves the right to revise this privacy statement at any time by posting a revised statement on this Web site. Use of this Web site after such change signifies the user's acceptance of the changed terms. 
+Primarily to tailor the Website to your needs, AAP collects information using technology, such as IP addresses and cookies. For example, your IP address provides AAP with non-personally identifiable information about how you entered the Internet, namely through your Internet service provider, your company or some other source, and can permit AAP to identify the frequency with which you visit the Website. Standard features in Internet browser software such as "cookies" allow Websites to track certain user activities by assigning each of our visitors a unique number that resides on your computer. AAP uses cookies to make the Website more interesting and useful and to provide our visitors with notice of products and services which may be of interest (for example, cookies let us know which of our sites you have been visiting and which you have not).  AAP may use "cookie" technology to obtain non-personal information from its on-line visitors. AAP servers may also collect the IP addresses and domain names of visitors for site administration purposes. AAP does not extract personal information in these processes.  AAP may use some of the information collected through technology and tie back that information to personally identifiable information that you provide voluntarily on the Website to provide you with information about products and services that may be of interest to you.
 
-Specific areas or pages of this Web site may include additional or different terms relating to the use of personal information collected from such areas or pages and, in the context presented, in the event of any conflict between those specific terms and this Privacy Statement, those specific terms shall control. 
+### More specifically the AAP uses cookies for analytics and marketing.
 
-This Privacy Statement is effective as of December 1, 2009. Questions about this privacy policy or requests concerning AAP privacy practices should be directed to [info@healthychildren.org](mailto:info@healthychildren.org). 
+  1.  **Analytical Purposes:** We use cookies from as Google Analytics and other third party partners to analyze user activity in order to improve the website. For example, using cookies we can look at aggregate patterns like how many pages users visit, how long they visit, and what link brought them to our site. We can use such analysis to gain insights about how to improve the functionality and user experience of the website.  
+
+
+  2.  **Marketing:** We use cookies from Google AdWords and other third party partners for marketing purposes. These cookies allow us to display promotional material to you on other sites you visit across the web.  
+
+
+
+
+
+> More Specifically AAP collects data about your activities that does not personally or directly identify you when you visit our website or other the websites where we display advertisement. The information we do collect may include the content you view, the date and time you view this content, the products you purchase, and the location information associated with your IP address. We use the information we collect to serve you more relevant advertisements (referred to as Retargeting). We also collect information about where you saw the ads we serve you and what ads you clicked on.
+> 
+> For more information about how Google uses data collected from our website visit Google's [Privacy Policy​](http://www.google.com/policies/privacy/partners/). 
+> 
+> Users can opt out of Google's use of cookies by visiting Google's [Ads Settings](http://www.google.com/settings/ads/).
+> 
+> Alternatively, users can choose to opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/choices/) opt-out page.
+
+## Information Is Not Collected On-Line From Children Under 13
+
+ **** AAP does not knowingly collect any personally identifiable information on-line from children under the age of 13.
+
+## Security Measures
+
+AAP uses firewalls, vulnerability scans and secure server encryption technology to protect personally identifiable information.  AAP also employs internal physical and technologic security measures to detect and block unauthorized intrusions to its computer systems.  However, while we employ reasonable security measures to protect your personal information, please be aware that no method of electronic transmission is completely infallible, and we cannot guarantee its absolute safety.
+
+## AAP Use of Information
+
+Any information collected on the Website will be used by the AAP for (i) the purpose stated at the time of collection, (ii) AAP to contact you about AAP products and services and third-party products that may be of interest to you, and (iii) to create mailing lists which are used by AAP for marketing and advertising. At the time that you provide your personal information, you can opt-out of AAP e-mail lists if you do not want to receive e-mail communications from AAP. AAP members may be automatically added to AAP e-mail lists or certain other private lists if AAP has an e-mail address for the member. E-mail addresses may be removed from AAP e-mail lists at any time by following the applicable opt-out procedure specified in the list welcome message or by contacting the AAP Listmaster and specifying the name of the list. 
+
+ _This Privacy Policy is effective as of  May 11, 2016._
+
+The information contained on this Web site should not be used as a substitute for the medical care and advice of your pediatrician. There may be variations in treatment that your pediatrician may recommend based on individual facts and circumstances.
