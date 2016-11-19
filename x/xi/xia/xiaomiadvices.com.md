@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xiaomiadvices.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627170222id_/http%3A//xiaomiadvices.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xiaomiadvices.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119052627id_/http%3A//xiaomiadvices.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Xiaomi Advices
 
@@ -45,9 +45,6 @@ We at Xiaomi Advices share various tutorials to flash custom ROM and stock ROM o
 ### Trademarks
 
 XiaomiAdvices.com is not affiliated with Google, Motorola, Sony, Xiaomi, Micromax, Samsung, Apple or any of the device manufacturers listed on this site. Android is a trademark of Google Inc. Use of this trademark is subject to Google Permissions.
-
-  
-
 
 ### Modification of Privacy Policy
 
