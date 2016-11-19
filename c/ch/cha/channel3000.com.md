@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channel3000.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120094635id_/http%3A//www.channel3000.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channel3000.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119014748id_/http%3A//www.channel3000.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,3 +41,12 @@ Personally identifiable information is collected and used in the manner describe
 Ability to Update or Delete Information
 
 If we become aware that any user under 13 has provided us with personally identifiable information, we will delete the member account and any associated information provided. Parents or others who become aware that information has been collected on one of our sites from a child under 13 should contact and inform us at [tips@channel3000.com], and we will delete the information in which such information was collected.
+
+  * [ ](https://web.archive.org/news-3-links/8356232)
+
+###  [News 3 Links](https://web.archive.org/news-3-links/8356232)
+
+If you're looking for a link mentioned during a News 3 newscast, you'll find it here.
+
+
+
