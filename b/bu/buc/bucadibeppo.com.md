@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the bucadibeppo.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630114016id_/http%3A//www.bucadibeppo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bucadibeppo.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119081022id_/http%3A//bucadibeppo.com/privacy-policy) for the most accurate reproduction.*
 
 # Buca di Beppo's Privacy Policy
-
-## Special Offers From Buca
-
-### Sign up for our eClub to receive exclusive coupons!
 
 Your privacy is very important to BUCA, Inc.,  ("Buca", "we" or "us"), and we are committed to safeguarding your privacy.  In this privacy policy ("Privacy Policy"), the use of "You" or "Visitor(s)" refers to any user of the products or services offered on the Buca website ("Website").  All Website use is subject to this Privacy Policy.  Unless indicated otherwise, this Privacy Policy applies only to personal information collected through the Website, microsites, or mobile sites that expressly adopt, and display or link to, this Privacy Policy.  Please read this Privacy Policy to understand the care with which Buca will treat your information.  If you have any questions about our Privacy Policy, please contact Buca at [privacy@bucainc.com](mailto:privacy@bucainc.com).  Buca has adopted this Privacy Policy in order to inform you of its policies with respect to information collected from the Website.  Your use of the Website constitutes your acceptance of this Privacy Policy and your consent to the practices it describes.  This is a Website-only privacy policy, and does not apply to the handling of your personal data collected by Buca or its affiliates/owner-operators by means other than the Website. By accessing, using, browsing or downloading in any way, without limitation, any material on the Website, you agree to and are bound by this Privacy Policy, which may be amended from time to time.
 
