@@ -1,256 +1,335 @@
-<!--The following is the downloaded HTML source of the boredbug.com privacy policy that was archived on 2016-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160628014901id_/http%3A//boredbug.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boredbug.com privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119144336id_/http%3A//boredbug.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="js" lang="en-US"><head itemscope="" itemtype="http://schema.org/WebSite">
+<!DOCTYPE html><html lang="en-US"><head>
 <meta charset="UTF-8">
- 
-<!--[if IE ]>
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="icon" href="http://boredbug.com/wp-content/uploads/2016/04/favicon-1.ico" type="image/x-icon">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black">
-<link rel="prefetch" href="http://boredbug.com">
-<link rel="prerender" href="http://boredbug.com">
-<meta itemprop="name" content="BoredBug">
-<meta itemprop="url" content="http://boredbug.com">
 <link rel="pingback" href="http://boredbug.com/xmlrpc.php">
+<link rel="stylesheet" href="http://16391-presscdn-0-53.pagely.netdna-cdn.com/wp-content/themes/twentyfifteen/style.css?1475250379" type="text/css" media="screen">
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script src="//boredbug.com/doubleclick/gpt.js?2d0d7e"></script>
+<script type="text/javascript">
+	var ad_jsLoadHistory = {};
+	function adWorx_loadScript(url, async, noiframe, utf8) {
+	    if (noiframe && window != window.top)
+	        return;
+	    if (ad_jsLoadHistory[url])
+	        return;
+	    ad_jsLoadHistory[url] = true;
+	
+	    var elem = $("<script>").attr("src", url);
+	    
+	    if (async)
+	        elem[0].async = true;
+	        
+	    if (utf8)
+	        elem[0].charset = 'utf-8';
+	
+	    var head = $("head");
+	    if (head.length > 0 && elem.length > 0) {
+	        $("head")[0].appendChild(elem[0]);
+	    }
+	    else {
+	        console.log("Cannot call append child for script: ", url);
+	    }
+	}
+  </script>
+<script> 
+    var pb_timeout = 1000;
+	var pb_win = window.innerWidth && document.documentElement.clientWidth ? Math.min(window.innerWidth, document.documentElement.clientWidth) : window.innerWidth||document.documentElement.clientWidth||document.getElementsByTagName('body')[0].clientWidth; 
+	var adWorx = {
+    	slotsReady: false,
+		slots: {},
+		sizeMap: {}
+	}
+
+	adWorx.sizeMap = {
+    	'lb_top' : { 
+			'd' : [[728, 90], [970, 90], [970, 250]],
+			'tl' : [728, 90],
+			'tp' : [728, 90],
+			'm' : []
+        },
+		'lb_mid' : {
+	        	'd' : [728, 90],
+			'tl' : [300, 250],
+			'tp' : [300, 250],
+			'm' : [[320, 50], [320, 100]]
+		},
+		'below_post' : {
+	        	'd' : [300, 250],
+			'tl' : [300, 250],
+			'tp' : [300, 250],
+			'm' : [300, 250]
+		},
+		'sidebar_atf' : {
+	        	'd' : [300, 600],
+			'tl' : [300, 600],
+			'tp' : [300, 250],
+			'm' : [300, 250]
+		}
+	}
+
+	function getSizes( slot ) {
+    	if (pb_win > 1024) { 
+			return adWorx.sizeMap[slot]['d'];
+		} else if (pb_win >= 1024 && pb_win < 1204) {
+			return adWorx.sizeMap[slot]['tl']; 
+		} else if ( pb_win >= 768 && pb_win < 1024 ) {
+        	return adWorx.sizeMap[slot]['tp'];
+		} else {
+        	return adWorx.sizeMap[slot]['m'];
+		}
+	}
+
+    adWorx.slots = {
+	       'lb_top' : {
+			code: '/'+uid+'/BB_Leaderboard_Top',
+		        sizes: getSizes('lb_top'),
+		        bids: [{
+		            bidder: 'aol',
+		            params: {
+		                placementId: '4180343', 
+		                network: '10624.1',    
+		                sizeId : '225',       
+						adContainerId: 'div-gpt-ad-1471681040999-3',
+						alias: 'lbtop728x90',   
+		                size : getSizes('lb_top')
+		            }
+		        }]
+			},
+	       'lb_mid' : {
+			code: '/'+uid+'/BB_Leaderboard_Middle',
+		        sizes: getSizes('lb_mid'),
+		        bids: [{
+		            bidder: 'aol',
+		            params: {
+		                placementId: '4180341', 
+		                network: '10624.1',    
+		                sizeId : '225',       
+						adContainerId: 'div-gpt-ad-1471681040999-2',
+						alias: 'lbMid728x90',   
+		                size :  getSizes('lb_mid')
+		            }
+		        }]
+			},
+	       'lb_bottom' : {
+			code: '/'+uid+'/BB_Leaderboard_Bottom',
+		        sizes: [300, 250],
+		        bids: [{
+		            bidder: 'aol',
+		            params: {
+		                placementId: '4180339', 
+		                network: '10624.1',    
+		                sizeId : '225',       
+						adContainerId: 'div-gpt-ad-1471681040999-1',
+						alias: 'lbBottom300x250',   
+		                size : [300, 250]
+		            }
+		        }]
+			},
+	       'below_post' : {
+			code: '/'+uid+'/BB_BelowPost',
+		        sizes: [300, 250],
+		        bids: [{
+		            bidder: 'aol',
+		            params: {
+		                placementId: '4180344', 
+		                network: '10624.1',    
+		                sizeId : '225',       
+				adContainerId: 'div-gpt-ad-1471681040999-0',
+				alias: 'mRecBelowPost',   
+		                size : [300, 250]
+		            }
+		        }]
+			},
+	       'sidebar_atf' : {
+			code: '/'+uid+'/BB_Sidebar_ATF',
+		        sizes: getSizes('sidebar_atf'),
+		        bids: [{
+		            bidder: 'aol',
+		            params: {
+		                placementId: '4180345', 
+		                network: '10624.1',    
+		                sizeId : '225',       
+				adContainerId: 'div-gpt-ad-1471681040999-4',
+				alias: 'mRecSideATF300x250',   
+		                size : getSizes('sidebar_atf')
+		            }
+		        }]
+			},
+	       'sidebar_btf' : {
+				code: '/'+uid+'/BB_Sidebar_BTF',
+		        sizes: [300, 250],
+		        bids: [{
+		            bidder: 'aol',
+		            params: {
+		                placementId: '4180342', 
+		                network: '10624.1',    
+		                sizeId : '225',       
+						adContainerId: 'div-gpt-ad-1471681040999-5',
+						alias: 'mRecSideBTF300x250',   
+		                size : [300, 250]
+		            }
+		        }]
+			}			
+	    };
+	
+    var adUnits = [];
+    adUnits.push(adWorx.slots['lb_top']);	
+    adUnits.push(adWorx.slots['lb_mid']);
+    adUnits.push(adWorx.slots['lb_bottom']);
+    adUnits.push(adWorx.slots['below_post']);
+    adUnits.push(adWorx.slots['sidebar_atf']);
+    adUnits.push(adWorx.slots['sidebar_btf']);
+    var pbjs = pbjs || {};
+    pbjs.que = pbjs.que || [];
+
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+
+    googletag.cmd.push(function() {
+        googletag.pubads().disableInitialLoad();
+    });
+
+    adWorx_loadScript('http://boredbug.com/adapters/prebid.v0.12.0.js', true, true);
+
+    pbjs.que.push(function() {
+	        pbjs.addAdUnits(adUnits);
+
+     		pbjs.bidderSettings = 
+            {
+			    standard: {
+			        adserverTargeting: [{
+			            key: "hb_bidder",
+			            val: function(bidResponse) {
+			                return bidResponse.bidder;
+			            }
+			        }, {
+			            key: "hb_adid",
+			            val: function(bidResponse) {
+			                return bidResponse.adId;
+			            }
+			        }, {
+			            key: "hb_pb",
+			            val: function(bidResponse) {
+			                return bidResponse.pbHg;
+			            }
+			        }, {
+			            key: "hb_size",
+			            val: function(bidResponse) {
+			                return bidResponse.size;
+			            }
+			        }]
+			    }
+        	};
+
+        	pbjs.requestBids({
+            	bidsBackHandler: sendAdserverRequest
+        	});
+    });
+
+    function sendAdserverRequest() {
+        if (pbjs.adserverRequestSent) return;
+        pbjs.adserverRequestSent = true;
+
+        googletag.cmd.push(function() {
+            pbjs.que.push(function() {
+
+               pbjs.setTargetingForGPTAsync();
+               pbjs.setPriceGranularity('medium');
+
+               /*console.log('Are all bids available? : ' + pbjs.allBidsAvailable());
+               console.log(pbjs.getAdserverTargeting());
+               console.log('Dumping all bid objects to console:');
+               console.log(pbjs.getBidResponses());*/
+
+               googletag.pubads().refresh();
+
+            });
+        });
+    }
+
+    setTimeout(sendAdserverRequest, pb_timeout);
+
+    adWorx_loadScript('//www.googletagservices.com/tag/js/gpt.js', true, true);
+
+    googletag.cmd.push(function () {
+    var map_top = googletag.sizeMapping().
+        addSize([1024, 200], [[970, 90], [728, 90], [970, 250]]). 
+        addSize([768, 200], [728, 90]).
+	addSize([0, 0], []).
+        build(),
+    map_mid = googletag.sizeMapping().
+        addSize([1204, 200], [728, 90]). 
+        addSize([768, 200], [300, 250]).
+        build(),
+    map_bottom = googletag.sizeMapping().
+        addSize([1204, 200], [728, 90]).
+        addSize([667, 200], [[336, 280], [300, 250]]).
+        build(),
+    map_side = googletag.sizeMapping().
+        addSize([1024, 200], [300, 600]).
+        build(),
+    map_rec = googletag.sizeMapping().
+        addSize([667, 200], [[336, 280], [300, 250]]).
+        build();
+    googletag.defineSlot('/'+uid+'/BB_Leaderboard_Top', [[970, 90], [728, 90], [970, 250]], 'div-gpt-ad-1471681040999-3').
+        defineSizeMapping(map_top).
+        addService(googletag.pubads());
+    googletag.defineSlot('/'+uid+'/BB_Leaderboard_Middle', [[320, 50], [320, 100]], 'div-gpt-ad-1471681040999-2').
+        defineSizeMapping(map_mid).
+        addService(googletag.pubads());	
+    googletag.defineSlot('/'+uid+'/BB_Leaderboard_Bottom', [300, 250], 'div-gpt-ad-1471681040999-1').
+        defineSizeMapping(map_bottom).
+        addService(googletag.pubads());
+    googletag.defineSlot('/'+uid+'/BB_BelowPost', [300, 250], 'div-gpt-ad-1471681040999-0').
+        defineSizeMapping(map_rec).
+        addService(googletag.pubads());	
+    googletag.defineSlot('/'+uid+'/BB_Sidebar_ATF', [300, 250], 'div-gpt-ad-1471681040999-4').
+        defineSizeMapping(map_side).
+        addService(googletag.pubads());
+    googletag.defineSlot('/'+uid+'/BB_Sidebar_BTF', [300, 250], 'div-gpt-ad-1471681040999-5').addService(googletag.pubads());
+    googletag.pubads().setTargeting("isCPXi", "false");
+    googletag.pubads().setTargeting("isCriteo", "false");
+    googletag.pubads().setTargeting("isKomoona", "false");
+    googletag.pubads().setTargeting("isMediaNet", "false");
+    googletag.pubads().setTargeting("isPulsePoint", "false");
+    googletag.pubads().setTargeting("postID", "101");
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+    });
+</script>
 <title>Privacy Policy – BoredBug</title>
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">document.documentElement.className = document.documentElement.className.replace( /\bno-js\b/,'js' );</script><link rel="alternate" type="application/rss+xml" title="BoredBug » Feed" href="http://boredbug.com/feed/">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="BoredBug » Feed" href="http://boredbug.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="BoredBug » Comments Feed" href="http://boredbug.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="BoredBug » Privacy Policy Comments Feed" href="http://boredbug.com/privacy-policy/feed/">
 <script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/boredbug.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
-			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/boredbug.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script><script src="http://boredbug.com/wp-includes/js/wp-emoji-release.min.js" type="text/javascript"></script>
 <style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
-<link rel="stylesheet" id="parent-style-css" href="http://boredbug.com/wp-content/themes/mts_sociallyviral/style.css" type="text/css" media="all">
-<link rel="stylesheet" id="style-name-css" href="http://boredbug.com/wp-content/themes/SociallyViral-Child/style.css" type="text/css" media="all">
-<link rel="stylesheet" id="sccss_style-css" href="http://boredbug.com?sccss=1&amp;ver=4.5.3" type="text/css" media="all">
-<link rel="stylesheet" id="sociallyviral-stylesheet-css" href="http://boredbug.com/wp-content/themes/SociallyViral-Child/style.css" type="text/css" media="all">
-<style id="sociallyviral-stylesheet-inline-css" type="text/css">body,.sidebar.c-4-12,#header #s{background-color:#f0ede9;background-image:url(http://boredbug.com/wp-content/themes/mts_sociallyviral/images/nobg.png);}#primary-navigation,.navigation ul ul,.pagination a,.pagination .dots,.latestPost-review-wrapper,.single_post .thecategory,.single-prev-next a:hover,.tagcloud a:hover,#commentform input#submit:hover,.contactform #submit:hover,.post-label,.latestPost .review-type-circle.review-total-only,.latestPost .review-type-circle.wp-review-show-total,.bypostauthor .fn:after,#primary-navigation .navigation.mobile-menu-wrapper,#wpmm-megamenu .review-total-only,.owl-controls .owl-dot.active span,.owl-controls .owl-dot:hover span,.owl-prev,.owl-next,.woocommerce a.button,.woocommerce-page a.button,.woocommerce button.button,.woocommerce-page button.button,.woocommerce input.button,.woocommerce-page input.button,.woocommerce #respond input#submit,.woocommerce-page #respond input#submit,.woocommerce #content input.button,.woocommerce-page #content input.button,.woocommerce nav.woocommerce-pagination ul li a,.woocommerce-page nav.woocommerce-pagination ul li a,.woocommerce #content nav.woocommerce-pagination ul li a,.woocommerce-page #content nav.woocommerce-pagination ul li a,.woocommerce .bypostauthor:after,#searchsubmit,.woocommerce nav.woocommerce-pagination ul li span.current,.woocommerce-page nav.woocommerce-pagination ul li span.current,.woocommerce #content nav.woocommerce-pagination ul li span.current,.woocommerce-page #content nav.woocommerce-pagination ul li span.current,.woocommerce nav.woocommerce-pagination ul li a:hover,.woocommerce-page nav.woocommerce-pagination ul li a:hover,.woocommerce #content nav.woocommerce-pagination ul li a:hover,.woocommerce-page #content nav.woocommerce-pagination ul li a:hover,.woocommerce nav.woocommerce-pagination ul li a:focus,.woocommerce-page nav.woocommerce-pagination ul li a:focus,.woocommerce #content nav.woocommerce-pagination ul li a:focus,.woocommerce-page #content nav.woocommerce-pagination ul li a:focus,.woocommerce a.button,.woocommerce-page a.button,.woocommerce button.button,.woocommerce-page button.button,.woocommerce input.button,.woocommerce-page input.button,.woocommerce #respond input#submit,.woocommerce-page #respond input#submit,.woocommerce #content input.button,.woocommerce-page #content input.button{background-color:#db1811;color:#fff;}#searchform .fa-search,.currenttext,.pagination a:hover,.single .pagination a:hover .currenttext,.page-numbers.current,.pagination .nav-previous a:hover,.pagination .nav-next a:hover,.single-prev-next a,.tagcloud a,#commentform input#submit,.contact-form #mtscontact_submit,.woocommerce-product-search input[type='submit']{background-color:#f47555;}.thecontent a,.post .tags a,#commentform a,.author-posts a:hover,.fn a,a{color:#db1811;}.latestPost .title:hover,.latestPost .title a:hover,.post-info a:hover,.single_post .post-info a:hover,.copyrights a:hover,.thecontent a:hover,.breadcrumb a:hover,.sidebar.c-4-12 a:hover,.post .tags a:hover,#commentform a:hover,.author-posts a,.reply a:hover,.ajax-search-results li a:hover,.ajax-search-meta .results-link{color:#f47555;}.wpmm-megamenu-showing.wpmm-light-scheme{background-color:#db1811!important;}input#author:hover,input#email:hover,input#url:hover,#comment:hover,.contact-form input:hover,.contact-form textarea:hover,.woocommerce-product-search input[type='submit']{border-color:#f47555;}</style>
-<link rel="stylesheet" id="fontawesome-css" href="http://boredbug.com/wp-content/themes/mts_sociallyviral/css/font-awesome.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="responsive-css" href="http://boredbug.com/wp-content/themes/mts_sociallyviral/css/responsive.css" type="text/css" media="all">
-<script type="text/javascript" src="http://boredbug.com/wp-includes/js/jquery/jquery.js"></script>
-<script type="text/javascript" src="http://boredbug.com/wp-includes/js/jquery/jquery-migrate.min.js"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var mts_customscript = {"responsive":"1","nav_menu":"primary"};
-/* ]]> */
-</script>
-<script type="text/javascript" async="async" src="http://boredbug.com/wp-content/themes/mts_sociallyviral/js/customscript.js"></script>
+<link rel="stylesheet" id="font-awesome-css" href="http://16391-presscdn-0-53.pagely.netdna-cdn.com/wp-content/themes/twentyfifteen/css/font-awesome.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="semplicemente-googlefonts-css" href="//fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C700&amp;ver=1724bd7733074681a970ea7b1d69f06d" type="text/css" media="all">
+<link rel="stylesheet" id="sccss_style-css" href="http://boredbug.com?sccss=1&amp;ver=1724bd7733074681a970ea7b1d69f06d" type="text/css" media="all">
+<script type="text/javascript" src="http://16391-presscdn-0-53.pagely.netdna-cdn.com/wp-includes/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="http://16391-presscdn-0-53.pagely.netdna-cdn.com/wp-includes/js/jquery/jquery-migrate.min.js"></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://16391-presscdn-0-53.pagely.netdna-cdn.com/wp-content/themes/twentyfifteen/js/html5.js'></script>
+<![endif]-->
 <link rel="https://api.w.org/" href="http://boredbug.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://boredbug.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://boredbug.com/wp-includes/wlwmanifest.xml">
-<meta name="generator" content="WordPress 4.5.3">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://16391-presscdn-0-53.pagely.netdna-cdn.com/wp-includes/wlwmanifest.xml">
 <link rel="canonical" href="http://boredbug.com/privacy-policy/">
 <link rel="shortlink" href="http://boredbug.com/?p=101">
 <link rel="alternate" type="application/json+oembed" href="http://boredbug.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fboredbug.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://boredbug.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fboredbug.com%2Fprivacy-policy%2F&amp;format=xml">
-<link href="//fonts.googleapis.com/css?family=Roboto:500|Oswald:normal|Oswald:300|Roboto:normal|Oswald:700&amp;subset=latin" rel="stylesheet" type="text/css">
-<style type="text/css">#logo a{font-family:'Roboto';font-weight:500;font-size:44px;color:#33bcf2;}#primary-navigation li,#primary-navigation li a{font-family:'Oswald';font-weight:normal;font-size:18px;color:#ffffff;text-transform:uppercase;}.latestPost .title,.latestPost .title a{font-family:'Oswald';font-weight:normal;font-size:22px;color:#555555;line-height:36px;}.single-title{font-family:'Oswald';font-weight:normal;font-size:30px;color:#555555;line-height:53px;}body{font-family:Georgia,serif;font-weight:normal;font-size:19px;color:#707070;}.widget .widget-title{font-family:'Roboto';font-weight:500;font-size:18px;color:#555555;text-transform:uppercase;}#sidebars .widget{font-family:'Oswald';font-weight:300;font-size:16px;color:#707070;}.footer-widgets{font-family:'Roboto';font-weight:normal;font-size:14px;color:#707070;}h1{font-family:'Roboto';font-weight:normal;font-size:38px;color:#555555;}h2{font-family:'Oswald';font-weight:700;font-size:27px;color:#555555;}h3{font-family:'Roboto';font-weight:normal;font-size:30px;color:#555555;}h4{font-family:'Roboto';font-weight:normal;font-size:28px;color:#555555;}h5{font-family:'Roboto';font-weight:normal;font-size:24px;color:#555555;}h6{font-family:'Roboto';font-weight:normal;font-size:20px;color:#555555;}</style>
-</head>
-<body id="blog" class="page page-id-101 page-template-default main" itemscope="" itemtype="http://schema.org/WebPage">
-<header id="site-header" role="banner" itemscope="" itemtype="http://schema.org/WPHeader">
-<div class="main-container">
-<div class="container">
-<div id="header">
-<div class="logo-wrap">
-<h2 id="logo" class="image-logo" itemprop="headline">
-<a href="http://boredbug.com"><img src="http://boredbug.com/wp-content/uploads/2016/04/ladybug_static.gif" alt="BoredBug" width="260" height="73"></a>
-</h2> 
-</div>
+<style type="text/css"></style>
  
-<div class="header-search"><form method="get" id="searchform" class="search-form" action="http://boredbug.com" _lpchecked="1">
-	<fieldset>
-		<input type="text" name="s" id="s" value="" placeholder="What are you looking for?">
-		<button id="search-image" class="sbutton" type="submit" value="">
-	    		<i class="fa fa-search"></i>
-	    	</button>
-	</fieldset>
-</form>
-</div>
-					
-					
-			        											<div id="primary-navigation" class="primary-navigation" role="navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
-											<a href="#" id="pull" class="toggle-mobile-menu">Menu</a>
-													<nav class="navigation clearfix mobile-menu-wrapper">
-																	<ul id="menu-top-menu" class="menu clearfix"><li id="menu-item-85774" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-85774"><a href="http://boredbug.com/category/business/">Business</a>
-<ul class="sub-menu">
-	<li id="menu-item-85775" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85775"><a href="http://boredbug.com/category/business/money/">Money</a></li>
-	<li id="menu-item-85776" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85776"><a href="http://boredbug.com/category/business/productivity/">Productivity</a></li>
-	<li id="menu-item-85777" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85777"><a href="http://boredbug.com/category/business/shopping/">Shopping</a></li>
-	<li id="menu-item-85778" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85778"><a href="http://boredbug.com/category/business/technology/">Technology</a></li>
-</ul>
-</li>
-<li id="menu-item-85779" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-85779"><a href="http://boredbug.com/category/diy/">DIY</a>
-<ul class="sub-menu">
-	<li id="menu-item-85780" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85780"><a href="http://boredbug.com/category/diy/arts-crafts/">Arts &amp; Crafts</a></li>
-	<li id="menu-item-85781" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85781"><a href="http://boredbug.com/category/diy/life-hacks-diy/">Life Hacks</a></li>
-	<li id="menu-item-85782" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85782"><a href="http://boredbug.com/category/diy/photography-diy/">Photography</a></li>
-</ul>
-</li>
-<li id="menu-item-85783" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-85783"><a href="http://boredbug.com/category/entertainment-2/">Entertainment</a>
-<ul class="sub-menu">
-	<li id="menu-item-85784" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-85784"><a href="http://boredbug.com/category/entertainment-2/celebrities/">Celebrity</a>
-	<ul class="sub-menu">
-		<li id="menu-item-85785" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85785"><a href="http://boredbug.com/category/entertainment-2/celebrities/gossip/">Gossip</a></li>
-		<li id="menu-item-85786" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85786"><a href="http://boredbug.com/category/entertainment-2/celebrities/high-life/">High Life</a></li>
-	</ul>
-</li>
-	<li id="menu-item-85787" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85787"><a href="http://boredbug.com/category/entertainment-2/internet-entertainment-2/">Internet</a></li>
-	<li id="menu-item-85788" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85788"><a href="http://boredbug.com/category/entertainment-2/movies-celebrities/">Movies</a></li>
-	<li id="menu-item-85789" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85789"><a href="http://boredbug.com/category/entertainment-2/music/">Music</a></li>
-	<li id="menu-item-85790" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85790"><a href="http://boredbug.com/category/entertainment-2/tv/">TV</a></li>
-</ul>
-</li>
-<li id="menu-item-85791" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-85791"><a href="http://boredbug.com/category/fashion/">Fashion</a>
-<ul class="sub-menu">
-	<li id="menu-item-85792" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85792"><a href="http://boredbug.com/category/fashion/clothing/">Clothing</a></li>
-	<li id="menu-item-85793" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85793"><a href="http://boredbug.com/category/fashion/hair/">Hair</a></li>
-	<li id="menu-item-85794" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85794"><a href="http://boredbug.com/category/fashion/makeup/">Makeup</a></li>
-	<li id="menu-item-85795" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85795"><a href="http://boredbug.com/category/fashion/seasonal/">Seasonal</a></li>
-</ul>
-</li>
-<li id="menu-item-85796" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-85796"><a href="http://boredbug.com/category/lifestyle/">Life</a>
-<ul class="sub-menu">
-	<li id="menu-item-85797" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85797"><a href="http://boredbug.com/category/lifestyle/fitness/">Fitness</a></li>
-	<li id="menu-item-85798" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85798"><a href="http://boredbug.com/category/lifestyle/food/">Food</a></li>
-	<li id="menu-item-85799" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85799"><a href="http://boredbug.com/category/lifestyle/gaming-lifestyle/">Gaming</a></li>
-	<li id="menu-item-85800" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85800"><a href="http://boredbug.com/category/lifestyle/home-decor/">Home &amp; Decor</a></li>
-	<li id="menu-item-85801" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85801"><a href="http://boredbug.com/category/lifestyle/pets-wildlife-lifestyle/">Pets &amp; Wildlife</a></li>
-	<li id="menu-item-85802" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85802"><a href="http://boredbug.com/category/lifestyle/relationship/">Relationship</a></li>
-	<li id="menu-item-85803" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85803"><a href="http://boredbug.com/category/lifestyle/travel/">Travel</a></li>
-</ul>
-</li>
-<li id="menu-item-85807" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85807"><a href="http://boredbug.com/category/uncategorized/">Other</a></li>
-</ul>															</nav>
-											</div>
-					 
-
-					
-				
-					
-					      
-				
-				</div><!--#header-->
-				</div>
-				</div>
-<!-- Start: GPT Sync -->
-<script type="text/javascript">
-	var gptadslots=[];
-	(function(){
-		var useSSL = 'https:' == document.location.protocol;
-		var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
-		document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
-	})();
-</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
-
-<script type="text/javascript">
-
-var mapping1 = googletag.sizeMapping().
-addSize([1024, 500], [728, 90]). 
-addSize([768, 400], [468, 60]). 
-addSize([470, 400], [[320, 50],[320, 100]]). 
-addSize([360, 400], [[320, 50],[320, 100]]). 
-addSize([0, 0], [[320, 50],[320, 100]]). 
-build();
-
-var mapping2 = googletag.sizeMapping(). 
-addSize([1024, 500], [[300, 600],[300, 250]]). 
-addSize([768, 400], [300, 250]). 
-addSize([470, 400], [300, 250]). 
-addSize([360, 400], [300, 250]). 
-addSize([0, 0], [300, 250]). 
-build();
-		
-		//Adslot 1 declaration
-		gptadslots[1]= googletag.defineSlot('/36628427/BoredBug_Home', [[728,90]],'div-gpt-ad-540902156992974427-1').defineSizeMapping(mapping1).setTargeting('POS',['LB1']).addService(googletag.pubads());
-
-		//Adslot 2 declaration
-		gptadslots[2]= googletag.defineSlot('/36628427/BoredBug_Home', [[300,250]],'div-gpt-ad-540902156992974427-2').setTargeting('POS',['RightRail1']).addService(googletag.pubads());
-
-		//Adslot 3 declaration
-		gptadslots[3]= googletag.defineSlot('/36628427/BoredBug_Home', [[728,90]],'div-gpt-ad-540902156992974427-3').defineSizeMapping(mapping1).setTargeting('POS',['LB2']).addService(googletag.pubads());
-
-		//Adslot 4 declaration
-		gptadslots[4]= googletag.defineSlot('/36628427/BoredBug_Cat', [[728,90]],'div-gpt-ad-540902156992974427-4').defineSizeMapping(mapping1).setTargeting('POS',['LB1']).addService(googletag.pubads());
-
-		//Adslot 5 declaration
-		gptadslots[5]= googletag.defineSlot('/36628427/BoredBug_Cat', [[300,250]],'div-gpt-ad-540902156992974427-5').setTargeting('POS',['RightRail1']).addService(googletag.pubads());
-
-		//Adslot 6 declaration
-		gptadslots[6]= googletag.defineSlot('/36628427/BoredBug_Cat', [[728,90]],'div-gpt-ad-540902156992974427-6').defineSizeMapping(mapping1).setTargeting('POS',['LB2']).addService(googletag.pubads());
-
-		//Adslot 7 declaration
-		gptadslots[7]= googletag.defineSlot('/36628427/BoredBug_SubCat', [[728,90]],'div-gpt-ad-540902156992974427-7').defineSizeMapping(mapping1).setTargeting('POS',['LB1']).addService(googletag.pubads());
-
-		//Adslot 8 declaration
-		gptadslots[8]= googletag.defineSlot('/36628427/BoredBug_SubCat', [[300,250]],'div-gpt-ad-540902156992974427-8').setTargeting('POS',['RightRail1']).addService(googletag.pubads());
-
-		//Adslot 9 declaration
-		gptadslots[9]= googletag.defineSlot('/36628427/BoredBug_SubCat', [[728,90]],'div-gpt-ad-540902156992974427-9').defineSizeMapping(mapping1).setTargeting('POS',['LB2']).addService(googletag.pubads());
-
-		//Adslot 10 declaration
-		gptadslots[10]= googletag.defineSlot('/36628427/BoredBug_Article', [[728,90]],'div-gpt-ad-540902156992974427-10').defineSizeMapping(mapping1).setTargeting('POS',['LB1']).addService(googletag.pubads());
-
-		//Adslot 11 declaration
-		gptadslots[11]= googletag.defineSlot('/36628427/BoredBug_Article', [[300,250]],'div-gpt-ad-540902156992974427-11').setTargeting('POS',['RightRail1']).addService(googletag.pubads());
-
-		//Adslot 12 declaration
-		gptadslots[12]= googletag.defineSlot('/36628427/BoredBug_Article', [[300,250]],'div-gpt-ad-540902156992974427-12').setTargeting('POS',['InContentMPU1']).addService(googletag.pubads());
-
-		//Adslot 13 declaration
-		gptadslots[13]= googletag.defineSlot('/36628427/BoredBug_Article', [[300,250]],'div-gpt-ad-540902156992974427-13').setTargeting('POS',['InContentMPU2']).addService(googletag.pubads());
-
-		//Adslot 14 declaration
-		gptadslots[14]= googletag.defineSlot('/36628427/BoredBug_Article', [[728,90]],'div-gpt-ad-540902156992974427-14').defineSizeMapping(mapping1).setTargeting('POS',['LB2']).addService(googletag.pubads());
-		
-		//Adslot 15 declaration
-		gptadslots[15]= googletag.defineSlot('/36628427/BoredBug_Article', [[300,600]],'div-gpt-ad-540902156992974427-15').defineSizeMapping(mapping2).setTargeting('POS',['RightRail2']).addService(googletag.pubads());
-
-		//Adslot 16 declaration
-		gptadslots[16]= googletag.defineSlot('/36628427/BoredBug_Slider', [[1,1]],'div-gpt-ad-540902156992974427-16').addService(googletag.pubads());
-
-		//Adslot 17 declaration
-		gptadslots[17]= googletag.defineSlot('/36628427/BoredBug_Overlay', [[1,1]],'div-gpt-ad-540902156992974427-17').addService(googletag.pubads());
-
-		//Adslot 18 declaration
-		gptadslots[18]= googletag.defineSlot('/36628427/BoredBug_Interstitial', [[1,1]],'div-gpt-ad-540902156992974427-18').addService(googletag.pubads());
-
-		googletag.pubads().enableSyncRendering();
-		googletag.enableServices();
-
-</script>
-<!-- End: GPT -->
-
-		</header>  
-	<div class="main-container">
-		
-		
-<!-- Start Yieldlove AdTag -->
-<script type="text/javascript">
- var googletag = googletag || {};
- googletag.cmd = googletag.cmd || [];
- (function() {
-   var gads = document.createElement("script");
-   gads.async = true;
-   gads.type = "text/javascript";
-   var useSSL = "https:" == document.location.protocol;
-   gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
-   var node =document.getElementsByTagName("script")[0];
-   node.parentNode.insertBefore(gads, node);
-  })();
-</script>
-<!-- End Yieldlove AdTag -->
-
-<!-- nativeads 0-boredbug.com start -->
-<script type="text/javascript" src="//cpanel.nativeads.com/js/nativeads-0-6e7b086008da8728705cc0c14ff29d7d2f4888bf.js" async=""></script>
-<!-- nativeads 0-boredbug.com end -->
-
-<!-- Start GA -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -260,20 +339,117 @@ build();
   ga('create', 'UA-54784318-1', 'auto');
   ga('send', 'pageview');
 </script>
-<!-- End GA -->
-
-<!-- TILLER.COM - START -->
-<script async="" src="https://optimized.by.tiller.co/global.js#1lthlijmcvtb58prcmszq1hjzkm"></script>
-<!-- TILLER.COM - END --><div id="page" class="single">
-			<article class="article">
-		<div id="content_box">
-							<div id="post-101" class="g post post-101 page type-page status-publish">
-					<div class="single_page">
-						<header>
-							<h1 class="title entry-title">Privacy Policy</h1>
-						</header>
-						<div class="post-single-content box mark-links entry-content">
-														<div class="content">
+ 
+ 
+<script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js?2d0d7e"></script>
+ 
+</head>
+<body class="page page-id-101 page-template-default group-blog">
+<header id="masthead" class="site-header" role="banner">
+<div class="site-branding">
+<p class="site-title"><a href="http://boredbug.com/" rel="home"><img src="http://16391-presscdn-0-53.pagely.netdna-cdn.com/wp-content/uploads/2016/04/ladybug_static.gif"></a></p>
+<p class="site-description">cure your boredom!</p>
+<div class="top-header-ad">
+<div data-id="86749" id="advads-77350208"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?2d0d7e"></script>
+ 
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6338917013334997" data-ad-slot="3392645264" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div> </div>
+<nav id="site-navigation" class="main-navigation" role="navigation">
+<button class="menu-toggle">Menu<i class="fa fa-align-justify"></i></button>
+<div class="menu-top-menu-container"><ul id="menu-top-menu" class="menu"><li id="menu-item-85774" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-85774"><a href="http://boredbug.com/category/business/">Business</a>
+<ul class="sub-menu">
+<li id="menu-item-85775" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85775"><a href="http://boredbug.com/category/business/money/">Money</a></li>
+<li id="menu-item-85776" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85776"><a href="http://boredbug.com/category/business/productivity/">Productivity</a></li>
+<li id="menu-item-85777" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85777"><a href="http://boredbug.com/category/business/shopping/">Shopping</a></li>
+<li id="menu-item-85778" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85778"><a href="http://boredbug.com/category/business/technology/">Technology</a></li>
+</ul>
+</li>
+<li id="menu-item-85779" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-85779"><a href="http://boredbug.com/category/diy/">DIY</a>
+<ul class="sub-menu">
+<li id="menu-item-85780" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85780"><a href="http://boredbug.com/category/diy/arts-crafts/">Arts &amp; Crafts</a></li>
+<li id="menu-item-85781" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85781"><a href="http://boredbug.com/category/diy/life-hacks-diy/">Life Hacks</a></li>
+<li id="menu-item-85782" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85782"><a href="http://boredbug.com/category/diy/photography-diy/">Photography</a></li>
+</ul>
+</li>
+<li id="menu-item-85783" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-85783"><a href="http://boredbug.com/category/entertainment-2/">Entertainment</a>
+<ul class="sub-menu">
+<li id="menu-item-85784" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-85784"><a href="http://boredbug.com/category/entertainment-2/celebrities/">Celebrity</a>
+<ul class="sub-menu">
+<li id="menu-item-85785" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85785"><a href="http://boredbug.com/category/entertainment-2/celebrities/gossip/">Gossip</a></li>
+<li id="menu-item-85786" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85786"><a href="http://boredbug.com/category/entertainment-2/celebrities/high-life/">High Life</a></li>
+</ul>
+</li>
+<li id="menu-item-85787" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85787"><a href="http://boredbug.com/category/entertainment-2/internet-entertainment-2/">Internet</a></li>
+<li id="menu-item-85788" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85788"><a href="http://boredbug.com/category/entertainment-2/movies-celebrities/">Movies</a></li>
+<li id="menu-item-85789" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85789"><a href="http://boredbug.com/category/entertainment-2/music/">Music</a></li>
+<li id="menu-item-85790" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85790"><a href="http://boredbug.com/category/entertainment-2/tv/">TV</a></li>
+</ul>
+</li>
+<li id="menu-item-85791" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-85791"><a href="http://boredbug.com/category/fashion/">Fashion</a>
+<ul class="sub-menu">
+<li id="menu-item-85792" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85792"><a href="http://boredbug.com/category/fashion/clothing/">Clothing</a></li>
+<li id="menu-item-85793" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85793"><a href="http://boredbug.com/category/fashion/hair/">Hair</a></li>
+<li id="menu-item-85794" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85794"><a href="http://boredbug.com/category/fashion/makeup/">Makeup</a></li>
+<li id="menu-item-85795" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85795"><a href="http://boredbug.com/category/fashion/seasonal/">Seasonal</a></li>
+</ul>
+</li>
+<li id="menu-item-85796" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-85796"><a href="http://boredbug.com/category/lifestyle/">Life</a>
+<ul class="sub-menu">
+<li id="menu-item-85797" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85797"><a href="http://boredbug.com/category/lifestyle/fitness/">Fitness</a></li>
+<li id="menu-item-85798" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85798"><a href="http://boredbug.com/category/lifestyle/food/">Food</a></li>
+<li id="menu-item-85799" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85799"><a href="http://boredbug.com/category/lifestyle/gaming-lifestyle/">Gaming</a></li>
+<li id="menu-item-85800" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85800"><a href="http://boredbug.com/category/lifestyle/home-decor/">Home &amp; Decor</a></li>
+<li id="menu-item-85801" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85801"><a href="http://boredbug.com/category/lifestyle/pets-wildlife-lifestyle/">Pets &amp; Wildlife</a></li>
+<li id="menu-item-85802" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85802"><a href="http://boredbug.com/category/lifestyle/relationship/">Relationship</a></li>
+<li id="menu-item-85803" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85803"><a href="http://boredbug.com/category/lifestyle/travel/">Travel</a></li>
+</ul>
+</li>
+<li id="menu-item-85807" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85807"><a href="http://boredbug.com/category/uncategorized/">Other</a></li>
+</ul></div> </nav> 
+</div>
+<div class="site-social">
+<div class="socialLine">
+<a href="#" title="Facebook"><i class="fa fa-facebook spaceLeftDouble"><span class="screen-reader-text">Facebook</span></i></a>
+<a href="#" title="Twitter"><i class="fa fa-twitter spaceLeftDouble"><span class="screen-reader-text">Twitter</span></i></a>
+<a href="#" title="Google Plus"><i class="fa fa-google-plus spaceLeftDouble"><span class="screen-reader-text">Google Plus</span></i></a>
+<a href="#" title="Linkedin"><i class="fa fa-linkedin spaceLeftDouble"><span class="screen-reader-text">Linkedin</span></i></a>
+<a href="#" title="Instagram"><i class="fa fa-instagram spaceLeftDouble"><span class="screen-reader-text">Instagram</span></i></a>
+<a href="#" title="YouTube"><i class="fa fa-youtube spaceLeftDouble"><span class="screen-reader-text">YouTube</span></i></a>
+<a href="#" title="Pinterest"><i class="fa fa-pinterest spaceLeftDouble"><span class="screen-reader-text">Pinterest</span></i></a>
+<a href="#" title="Tumblr"><i class="fa fa-tumblr spaceLeftDouble"><span class="screen-reader-text">Tumblr</span></i></a>
+<a href="#" title="VK"><i class="fa fa-vk spaceLeftDouble"><span class="screen-reader-text">VK</span></i></a>
+<a href="#" class="top-search"><i class="fa spaceLeftDouble fa-search"></i></a>
+</div>
+<div class="topSearchForm">
+<form role="search" method="get" class="search-form" action="http://boredbug.com/">
+<label>
+<span class="screen-reader-text">Search for:</span>
+<input type="search" class="search-field" placeholder="Search …" value="" name="s">
+</label>
+<input type="submit" class="search-submit" value="Search">
+</form> </div>
+</div>
+</header> 
+<div id="page" class="hfeed site">
+<div id="content" class="site-content">
+<div class="top-header-native">
+<center> 
+<div id="div-gpt-ad-1471681040999-3">
+<div class="add-info">ADVERTISEMENT</div>
+<script>
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1471681040999-3'); });
+		</script>
+</div></center>
+</div>
+<div id="primary" class="content-area">
+<main id="main" class="site-main" role="main">
+<article id="post-101" class="post-101 page type-page status-publish hentry">
+<header class="entry-header">
+<h1 class="entry-title">Privacy Policy</h1> </header> 
+<div class="entry-content">
+<div class="content">
 <p>This privacy policy sets out how BoredBug uses and protects any information that you give us when you use this website. BoredBug is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.&nbsp;BoredBug may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from December 31, 2015.</p>
 <p><strong>What we collect</strong><span class="Apple-converted-space">&nbsp;</span>We may ask to collect the following information:</p>
 <ul>
@@ -294,79 +470,77 @@ build();
 </ul>
 <p><strong>Links to other websites</strong><span class="Apple-converted-space">&nbsp;</span>Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p>
 </div>
-																				</div><!--.post-content box mark-links-->
-					</div>
-				</div>
-				<!-- You can start editing here. -->
-<!-- If comments are open, but there are no comments. -->
-
-	<div id="commentsAdd">
-		<div id="respond" class="box m-t-6">
-							<div id="respond" class="comment-respond">
-			<h3 id="reply-title" class="comment-reply-title"></h3><h4><span>Add Comment</span></h4> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/privacy-policy/#respond" style="display:none;">Cancel reply</a></small>				<form action="http://boredbug.com/wp-comments-post.php" method="post" id="commentform" class="comment-form">
-					<p class="comment-form-comment"><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true" placeholder="Comment Text*"></textarea></p><p class="comment-form-author"><input id="author" name="author" type="text" placeholder="Name*" value="" size="30"></p>
-<p class="comment-form-email"><input id="email" name="email" type="text" placeholder="Email*" value="" size="30"></p>
-<p class="comment-form-url"><input id="url" name="url" type="text" placeholder="Website" value="" size="30"></p>
-<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Submit Comment"> <input type="hidden" name="comment_post_ID" value="101" id="comment_post_ID">
+</div> 
+<span style="display:none" class="updated">September 12, 2014</span>
+<div style="display:none" class="vcard author"><a class="url fn n" href="http://boredbug.com/author/bbevz/">bbevz</a></div>
+<footer class="entry-footer">
+</footer> 
+</article> 
+<div id="comments" class="comments-area">
+<div id="respond" class="comment-respond">
+<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/privacy-policy/#respond" style="display:none;">Cancel reply<i class="fa fa-times spaceLeft"></i></a></small></h3> <form action="http://boredbug.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate="">
+<p class="comment-notes">Your email address will not be published. Required fields are marked <span class="required">*</span></p><div class="clear"></div><p class="comment-form-comment"><textarea id="comment" name="comment" rows="8" aria-required="true" placeholder="Comment *"></textarea></p><p class="comment-form-author"><input id="author" name="author" type="text" value="" aria-required="true" placeholder="Name *"></p>
+<p class="comment-form-email"><input id="email" name="email" type="text" value="" aria-required="true" placeholder="Email *"></p>
+<p class="comment-form-url"><input id="url" name="url" type="text" value="" placeholder="Website"></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment"> <input type="hidden" name="comment_post_ID" value="101" id="comment_post_ID">
 <input type="hidden" name="comment_parent" id="comment_parent" value="0">
-</p>				</form>
-					</div><!-- #respond -->
-				</div>
-	</div>
-					</div>
-	</article>
-	<aside id="sidebar" class="sidebar c-4-12" role="complementary" itemscope="" itemtype="http://schema.org/WPSideBar">
-	<div id="text-43" class="widget widget_text">			<div class="textwidget"><div id="div-gpt-ad-540902156992974427-11">
-	<script type="text/javascript">
-		googletag.display('div-gpt-ad-540902156992974427-11');
-	</script>
-</div></div>
-		</div><div id="text-44" class="widget widget_text">			<div class="textwidget"><div></div></div>
-		</div><div id="text-45" class="widget widget_text">			<div class="textwidget"><div id="div-gpt-ad-540902156992974427-15">
-	<script type="text/javascript">
-		googletag.display('div-gpt-ad-540902156992974427-15');
-	</script>
-</div></div>
-		</div></aside><!--#sidebar-->
-</div><!--#page-->
-</div><!--.main-container-->
-<footer id="site-footer" role="contentinfo" itemscope="" itemtype="http://schema.org/WPFooter">
-	<div class="container">
-		         <div class="copyrights">
-			<!--start copyrights-->
-<div class="row" id="copyright-note">
-<div class="copyright"><a href=" http://boredbug.com/" title=" cure your boredom!">BoredBug</a> Copyright © 2016. </div>
-<a href="#blog" class="toplink"><i class=" fa fa-angle-up"></i></a>
-<div class="top">
-    <div id="footer-navigation" role="navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
-        <nav id="navigation" class="clearfix">
-            <ul id="menu-footer-menu" class="menu clearfix"><li id="menu-item-85769" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85769"><a href="http://boredbug.com/us/">About Us</a></li>
+</p> </form>
+</div> 
+</div> 
+</main> 
+</div> 
+<div id="secondary" class="widget-area" role="complementary">
+<aside id="text-46" class="widget widget_text"> <div class="textwidget"><center> 
+<div id="div-gpt-ad-1471681040999-4">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1471681040999-4'); });
+</script>
+</div></center></div>
+</aside><aside class="widget advads-widget"><div data-id="85553" id="advads-64381032"><div id="contentad130937"><script type="text/javascript" async="" src="https://api.content.ad/Scripts/widget2.aspx?id=37f57f2d-a67e-4b83-ab19-43ca6cca316a&amp;d=Ym9yZWRidWcuY29t&amp;wid=130937&amp;cb=1580396072896"></script></div>
+<script type="text/javascript">
+    (function(d) {
+        var params =
+        {
+            id: "37f57f2d-a67e-4b83-ab19-43ca6cca316a",
+            d:  "Ym9yZWRidWcuY29t",
+            wid: "130937",
+            cb: (new Date()).getTime()
+        };
+
+        var qs=[];
+        for(var key in params) qs.push(key+'='+encodeURIComponent(params[key]));
+        var s = d.createElement('script');s.type='text/javascript';s.async=true;
+        var p = 'https:' == document.location.protocol ? 'https' : 'http';
+        s.src = p + "://api.content.ad/Scripts/widget2.aspx?" + qs.join('&');
+        d.getElementById("contentad130937").appendChild(s);
+    })(document);
+</script></div></aside><aside id="text-47" class="widget widget_text"> <div class="textwidget"><center> 
+<div id="div-gpt-ad-1471681040999-5">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1471681040999-5'); });
+</script>
+</div></center></div>
+</aside></div> 
+</div> 
+<footer id="colophon" class="site-footer" role="contentinfo">
+<div class="site-info">
+<p class="footer-copy">Copyright © 2016 <a href="http://boredbug.com/">BoredBug</a> </p>
+<nav class="footer-navigation">
+<ul id="menu-footer-menu" class="nav footer-nav cf"><li id="menu-item-85769" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85769"><a href="http://boredbug.com/us/">About Us</a></li>
 <li id="menu-item-85771" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85771"><a href="http://boredbug.com/contact/">Contact</a></li>
 <li id="menu-item-85772" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85772"><a href="http://boredbug.com/jobs/">Jobs</a></li>
 <li id="menu-item-85770" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85770"><a href="http://boredbug.com/advertising/">Advertising</a></li>
 <li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="http://boredbug.com/dmca-policy/">DMCA Policy</a></li>
 <li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-101 current_page_item menu-item-109"><a href="http://boredbug.com/privacy-policy/">Privacy Policy</a></li>
-</ul>        </nav>
-    </div>
-</div>
-</div>
-<!--end copyrights-->
-		</div> 
-	</div><!--.container-->
-</footer><!--#site-footer-->
-    <script type="text/javascript" src="http://boredbug.com/wp-content/themes/SociallyViral-Child/js/custom.js"></script>
-<script type="text/javascript" src="http://boredbug.com/wp-includes/js/comment-reply.min.js"></script>
-<script type="text/javascript" src="http://boredbug.com/wp-includes/js/wp-embed.min.js"></script>
-
-<!--- Margin slider ADCODE START--->
-<div id="div-gpt-ad-540902156992974427-16">
-	<script type="text/javascript">
-		googletag.display('div-gpt-ad-540902156992974427-16');
-	</script>
-</div>
-<!--- Margin slider ADCODE END--->
-
-<!-- Quantcast Tag -->
+</ul> </nav>
+</div> 
+</footer> 
+</div> 
+<script type="text/javascript" src="http://16391-presscdn-0-53.pagely.netdna-cdn.com/wp-content/themes/twentyfifteen/js/jquery.semplicemente.js"></script>
+<script type="text/javascript" src="http://16391-presscdn-0-53.pagely.netdna-cdn.com/wp-content/themes/twentyfifteen/js/navigation.js"></script>
+<script type="text/javascript" src="http://16391-presscdn-0-53.pagely.netdna-cdn.com/wp-includes/js/comment-reply.min.js"></script>
+<script type="text/javascript" src="http://16391-presscdn-0-53.pagely.netdna-cdn.com/wp-includes/js/wp-embed.min.js"></script>
+ 
 <script type="text/javascript">
 var _qevents = _qevents || [];
 
@@ -383,15 +557,13 @@ _qevents.push({
 qacct:"p-uRGvAB9Yw2LDG"
 });
 </script>
-
 <noscript>
 <div style="display:none;">
-<img src="//pixel.quantserve.com/pixel/p-uRGvAB9Yw2LDG.gif" border="0" height="1" width="1" alt="Quantcast"/>
+<img src="//pixel.quantserve.com/pixel/p-uRGvAB9Yw2LDG.gif?2d0d7e" border="0" height="1" width="1" alt="Quantcast"/>
 </div>
 </noscript>
-<!-- End Quantcast tag -->
-
-<script type="text/javascript">
+ 
+<script>
     function getParameterByName(name, url) {
         if (!url) url = window.location.href;
         url = url.toLowerCase(); // This is just to avoid case sensitiveness
@@ -411,46 +583,59 @@ qacct:"p-uRGvAB9Yw2LDG"
     var Term = getParameterByName('utm_term');
 
     try {
+        
         if (width <= 480) {    
+
             //rewrite subid for mobile devices here
            var Subid = "BB1-"+Source+"-"+Medium+"-"+Content+"-"+Campaign+"-"+Term;
-
+            
         } else if (width > 480 && width < 1024) {
+
             //rewrite subid for mobile devices here
            var Subid = "BB2-"+Source+"-"+Medium+"-"+Content+"-"+Campaign+"-"+Term;
-
+          
         } else {
+
             //default subid for desktop
             var Subid = "BB3-"+Source+"-"+Medium+"-"+Content+"-"+Campaign+"-"+Term;
+
         }
+
         console.log(Subid);
+
         //moved the script outside the if statement
         var script = document.createElement('script');
         script.type  = "text/javascript";
-
-        script.src = "http://interyield.td553.com/InterYield/bindevent.do?e=click&affiliate=Dojo2045&subid="+Subid+"&ecpm=0&snoozeMinutes=1&adCountIntervalHours=24&maxAdCountsPerInterval=2&pv=3&pop=under&attributionDisabled=true&endpoint=http%3A%2F%2Finteryield.td553.com";
-
+        script.src = "http://interyield.td573.com/InterYield/bindevent.do?e=click&affiliate=Dojo2045&subid="+Subid+"&ecpm=0&pv=2&debug=false&snoozeMinutes=1&adCountIntervalHours=24&maxAdCountsPerInterval=2&pop=under&attributionDisabled=true&endpoint=http%3A%2F%2Finteryield.td573.com";
         document.getElementsByTagName('body')[0].appendChild(script);
-
     }
-
     catch (e) {}
-</script><script type="text/javascript" src="http://interyield.td553.com/InterYield/bindevent.do?e=click&amp;affiliate=Dojo2045&amp;subid=BB3-null-null-null-null-null&amp;ecpm=0&amp;snoozeMinutes=1&amp;adCountIntervalHours=24&amp;maxAdCountsPerInterval=2&amp;pv=3&amp;pop=under&amp;attributionDisabled=true&amp;endpoint=http%3A%2F%2Finteryield.td553.com"></script>
+</script><script type="text/javascript" src="http://interyield.td573.com/InterYield/bindevent.do?e=click&amp;affiliate=Dojo2045&amp;subid=BB3-null-null-null-null-null&amp;ecpm=0&amp;pv=2&amp;debug=false&amp;snoozeMinutes=1&amp;adCountIntervalHours=24&amp;maxAdCountsPerInterval=2&amp;pop=under&amp;attributionDisabled=true&amp;endpoint=http%3A%2F%2Finteryield.td573.com"></script>
+ 
+<script data-cfasync="false" language="javascript" async="" src="//udmserve.net/udm/img.fetch?sid=9200;tid=1;ev=1;dt=6;"></script>
+ 
+ 
+<div id="contentad127603"><script type="text/javascript" async="" src="https://api.content.ad/Scripts/widget2.aspx?id=8623eee5-97ef-49a8-a56f-6ec98e313f51&amp;d=Ym9yZWRidWcuY29t&amp;wid=127603&amp;exitPop=true&amp;cb=1580396072903"></script></div>
+<script type="text/javascript">
+    (function(d) {
+        var params =
+        {
+            id: "8623eee5-97ef-49a8-a56f-6ec98e313f51",
+            d:  "Ym9yZWRidWcuY29t",
+            wid: "127603",
+            exitPop: true,
+            cb: (new Date()).getTime()
+        };
 
-<!-- Start Exitpop tag -->
-<div></div>
-<!-- End Exitpop tag -->
-
-<!-- Start High Impact(overlay) tag -->
-<div id="div-gpt-ad-540902156992974427-17">
-	<script type="text/javascript">
-		googletag.display('div-gpt-ad-540902156992974427-17');
-	</script>
-</div>
-<!-- End tag -->
-
-<!-- Start High Impact(interstitial) tag -->
-<script type="text/javascript" id="gm-script-tag" src="http://adg.bzgint.com/pub/adg/config.js?intercept_id=1001&amp;countdown_after_play=false&amp;autoplay_muted=true&amp;skip_time=10&amp;frequency_cap=1&amp;ad_url=http%3A%2F%2Fad.crwdcntrl.net%2F5%2Fc%3D1890%2Fpe%3Dy%3Fhttp%3A%2F%2Fadserver.genesismediaus.com%2Fac%3Fsiteid%3D80399%26pgid%3D_GM_PLACEMENT_ID_%26fmtid%3D31360%26ab%3D1%26oc%3D1%26out%3Dvast%26ps%3D1%26pb%3D0%26visit%3DS%26vcn%3Dc%26tmstp%3D%5Btimestamp%5D%26tgt%3Dabbr%253D%24%257Baud_ids%3A%253Babbr%253D%257D%3Bst%253D__KVST__%3Biid%253D__KVIID__%3Bcap%253D__KVCAP__%3Bap%253D__KVAP__%3Bapm%253D__KVapm__&amp;autoplay=true&amp;site_id=DivisionDNetwork&amp;publisher_name=DivisionD&amp;click_url=%%CLICK_URL_UNESC%%&amp;view_url=%%VIEW_URL_ESC%%"></script><!-- End tag -->
+        var qs=[];
+        for(var key in params) qs.push(key+'='+encodeURIComponent(params[key]));
+        var s = d.createElement('script');s.type='text/javascript';s.async=true;
+        var p = 'https:' == document.location.protocol ? 'https' : 'http';
+        s.src = p + "://api.content.ad/Scripts/widget2.aspx?" + qs.join('&');
+        d.getElementById("contentad127603").appendChild(s);
+    })(document);
+</script>
+ 
 
 
-</body></html>
+ </body></html>
