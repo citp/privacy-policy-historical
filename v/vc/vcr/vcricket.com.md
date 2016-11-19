@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vcricket.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610000647id_/http%3A//www.vcricket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcricket.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119012957id_/http%3A//www.vcricket.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Read on to know about the online privacy policy of vcricket.com
 
