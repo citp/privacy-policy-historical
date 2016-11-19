@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the caboki.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611045448id_/http%3A//www.caboki.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caboki.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119020620id_/http%3A//www.caboki.com/privacy.html) for the most accurate reproduction.*
 
 # Caboki.com Privacy Policy
 
-[](https://privacy.truste.com/privacy-seal/Caboki-LLC/validation?rid=77d084e1-ea14-484c-8630-173af672ae2a "TRUSTe online privacy certification")  
-**Effective: January 10, 2016**
+[](https://privacy.truste.com/privacy-seal/validation?rid=77d084e1-ea14-484c-8630-173af672ae2a "TRUSTe Privacy Certification")  
+**Effective: July 5 th, 2016**
 
 We will never share, sell, barter, or rent your personal information such as your email address to any third party other than as disclosed within this privacy policy.
 
-Caboki LLC ("Caboki") values the protection of individual privacy. This privacy policy sets forth Caboki's privacy policy for the site, and governs the manner in which we collect, use, maintain and disclose information collected from our users. By using our site [www.caboki.com](http://www.caboki.com/index.html), you agree to be bound by this privacy policy. If you do not agree to this privacy policy, please do not use the site.
+Caboki LLC ("Caboki") values the protection of individual privacy. This privacy policy sets forth Caboki's privacy policy for the site, and governs the manner in which we collect, use, maintain and disclose information collected from our users. By using our site [www.caboki.com](http://www.caboki.com/), you agree to be bound by this privacy policy. If you do not agree to this privacy policy, please do not use the site.
 
-Caboki has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this website. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@caboki.com](mailto:privacy@caboki.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+Caboki has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this website [www.caboki.com](http://www.caboki.com/), and does not cover information that may be collected through software downloaded from the website.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
 ## How we gather information from users
 
@@ -69,7 +71,7 @@ Our Web site includes Social Media Features, such as the Facebook Like button. T
 
 ## Tracking Technologies
 
-Technologies such as: cookies, beacons, tags and scripts are used by [www.caboki.com](http://www.caboki.com/index.html) and our partners specify type e.g. marketing partners, affiliates, or analytics or service providers specify type e.g. online customer support provider, etc. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Technologies such as: cookies, beacons, tags and scripts are used by [www.caboki.com](http://www.caboki.com/) and our partners specify type e.g. marketing partners, affiliates, or analytics or service providers specify type e.g. online customer support provider, etc. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 We use cookies for our shopping cart, to remember users’ settings (e.g. language preference), for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
@@ -81,13 +83,13 @@ We use this information, which does not identify individual users, to analyze tr
 
 We do link this automatically-collected data to personally identifiable information.
 
-## Flash LSO
+## LSO
 
-Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as Flash to collect and store information. To manage Flash LSOs please click here:
+Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as Flash or HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 To manage Flash LSOs please click here:
 
 <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
-## Behavioral Targeting/ Re-Targeting
+## Behavioral Targeting / Re-Targeting
 
 We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
