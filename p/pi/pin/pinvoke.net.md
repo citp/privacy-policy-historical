@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinvoke.net privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608020433id_/http%3A//www.red-gate.com/our-company/about/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinvoke.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119062223id_/http%3A//www.red-gate.com/our-company/about/legal) for the most accurate reproduction.*
 
 # Legal Information About Redgate Software
 
@@ -77,7 +77,7 @@ Cookies are very small text files saved to your computer used to track user navi
 
 At Redgate session cookies are used when users log-in to the website. Redgate will use such cookies to identify unique users to our websites. They are not cross-referenced with any other information such that an individual person could be identified.
 
-Redgate uses a cookie called Hubspot which allows us to uniquely identify and track your movement within any of Redgate’s websites and engagement with our other marketing services (for example, our blogs and newsletters) by linking with the personal information (name, phone number and email address) you provide when you download any Redgate product. This cookie will be activated on download of a Redgate product, but can retrospectively identify your past visits to any Redgate website.
+Redgate uses a cookie called Hubspot to identify and track your movement within our websites, and your engagement with our other services such as blogs and newsletters. You'll receive this cookie when you visit one of our websites but the information it collects will remain anonymous until you share your email address with us through one of our websites.
 
 Redgate may use a third party to serve advertisements on our websites. The advertisers may use cookies to track the number of users responding to the campaign. Redgate does not have access to or control of cookies placed by third parties.
 
@@ -129,4 +129,12 @@ In compliance with the Consumer Contracts (Information, Cancellation and Additio
 
 To cancel, please complete our cancellation form, and send it to Red Gate Software Ltd by post, fax, or email.
 
-[Download model cancellation form (PDF)](https://web.archive.org/assets/our-company/about/assets/model-cancellation-form.pdf)
+[Download model cancellation form (PDF)](http://assets.red-gate.com/our-company/about/assets/model-cancellation-form.pdf)
+
+* * *
+
+## Legal
+
+Red Gate Software Ltd (No. 3857576) was incorporated on 12/10/1999 under UK law and, where applicable, complies with all UK laws and regulations.
+
+Red Gate Software Inc was incorporated on 21/1/2011, under the laws of the State of California (US) and, where applicable, complies with all federal and state laws and regulations.
