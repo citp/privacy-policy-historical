@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zovi.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610225554id_/http%3A//zovi.com/fineprint%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zovi.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119020626id_/http%3A//zovi.com/fineprint%23privacypolicy) for the most accurate reproduction.*
 
 # Online Shopping - Clothes, Shoes, Accessories at Zovi.com - Online Fashion Store.
 
