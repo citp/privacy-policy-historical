@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tennisrecruiting.net privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314054319id_/http%3A//www.tennisrecruiting.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennisrecruiting.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119223359id_/http%3A//www.tennisrecruiting.net/privacy.asp) for the most accurate reproduction.*
 
 # The Tennis Recruiting Network
 
@@ -12,15 +12,15 @@
 
 [](http://www.smithstearns.com/)
 
-[](http://www.princetennis.com/)
-
 [](http://www.imgacademy.com/sports/bollettieri-tennis)
 
 [](http://www.advantagetennisacademy.com/)
 
 [](http://www.gammasports.com/)
 
-[](http://www.tennisrecruiting.net/article.asp?id=618&sessionid=457B146B424A3A7B)
+[](http://www.wilson.com/tennis/)
+
+[](http://www.tennisoncampus.com/)
 
 | 
 
@@ -134,42 +134,19 @@ Marietta, GA 30007-1912
 
 | 
 
-| [](http://www.facebook.com/TennisRecruiting) | BECOME A FAN  
----|---  
-  
-  Help build our following.   [Follow us on Facebook](http://www.facebook.com/TennisRecruiting)
+[](http://www.tennis-warehouse.com/player.html?ccode=NDJOKOVIC&from=tenrec)
 
-RECENT COMMITMENTS 
+Click on [Novak Djokovic](http://www.tennis-warehouse.com/player.html?ccode=NDJOKOVIC&from=tenrec) to view and buy his equipment, apparel, and footwear.
 
-[](http://www.tennis-warehouse.com/?from=tenrec)|  ATP GEAR - SHOES   
----|---  
-  
-[](http://www.tennis-warehouse.com/player.html?ccode=POUILLE&from=tenrec) |   |  **[Lucas Pouille](http://www.tennis-warehouse.com/player.html?ccode=POUILLE&from=tenrec)** [adidas adizero Ubersonic White/Grey/Pink Men's Shoe](http://www.tennis-warehouse.com/adidas_adizero_Ubersonic_White_Grey_Pink_Mens_Shoe/descpageMSADIDAS-AMAUWGP.html?from=tenrec)  
-Was: $125.00   **Now: $119.95**  
-[Review](http://www.tennis-warehouse.com/reviews/AMAUWGP/AMAUWGPreview.html?from=tenrec), [Feedback](http://www.tennis-warehouse.com/feedback-AMAUWGP.html?from=tenrec), [Video](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6EWR23rwghw)  
----|---|---  
-[](http://www.tennis-warehouse.com/player.html?ccode=DYOUNG&from=tenrec) |   |  **[Donald Young](http://www.tennis-warehouse.com/player.html?ccode=DYOUNG&from=tenrec)** [KSwiss Hypercourt Express Grey/Navy](http://www.tennis-warehouse.com/KSwiss_Hypercourt_Express_Grey_Navy/descpageMSKSWISS-MKHEGN.html?from=tenrec)  
-Was: $110.00   **Now: $104.95**  
-[Review](http://www.tennis-warehouse.com/reviews/MKHEGN/MKHEGNreview.html?from=tenrec), [Feedback](http://www.tennis-warehouse.com/feedback-MKHEGN.html?from=tenrec), [Video](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2aL7OO_vh1c)  
-[](http://www.tennis-warehouse.com/player.html?ccode=JJANOW&from=tenrec) |   |  **[Jerzy Janowicz](http://www.tennis-warehouse.com/player.html?ccode=JJANOW&from=tenrec)** [Nike Zoom Vapor 9.5 Tour White/Red](http://www.tennis-warehouse.com/Nike_Zoom_Vapor_95_Tour_White_Red/descpageMSNIKE-NMZVTWR.html?from=tenrec)  
-Buy Now: $140.00  
-[Review](http://www.tennis-warehouse.com/reviews/NMZVTWR/NMZVTWRreview.html?from=tenrec), [Feedback](http://www.tennis-warehouse.com/feedback-NMZVTWR.html?from=tenrec), [Video](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2c9Rh1OMlz8)  
-[](http://www.tennis-warehouse.com/player.html?ccode=JTSONGA&from=tenrec) |   |  **[Jo-Wilfried Tsonga](http://www.tennis-warehouse.com/player.html?ccode=JTSONGA&from=tenrec)** [adidas Barricade 2015 White Men's Shoe](http://www.tennis-warehouse.com/adidas_Barricade_2015_White_Mens_Shoe/descpageMSADIDAS-AMB9WH.html?from=tenrec)  
-Was: $140.00   **Now: $89.95**  
-[Review](http://www.tennis-warehouse.com/reviews/AMB9WH/AMB9WHreview.html?from=tenrec), [Feedback](http://www.tennis-warehouse.com/feedback-AMB9WH.html?from=tenrec), [Video](http://www.tennis-warehouse.com/tennis_recruit.html?from=tenrec&URL=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dgw8vsdYLDKk)  
- 
+   
 
-ITA NEWS
+[**See Our Heart - 2XU - Heart Not Hype**](https://www.youtube.com/user/2xuaustralia)
 
- SO. CALIFORNIA TENNIS ACADEMY
+It's about heart not hype. The heart is our engine, it keeps us motivated, it pushes our boundaries, it fuels our muscles, it's passion for ... 
 
-[**Southern California Tennis Academy Fitness Promo**](https://www.youtube.com/user/SCTennisAcademy)
-
-Southern California Tennis Academy Fitness Promo.
+See More
 
  
-
-THE LATEST FROM ZOOTENNIS 
 
 [Colette Lewis](https://web.archive.org/articles/colette.asp) has covered topflight junior events as a freelance journalist for over a decade. Read her [weekly column](https://web.archive.org/articles/colette.asp), follow her on [Twitter](https://twitter.com/zootennis), and and find more of her daily commentary at [ZooTennis](http://tenniskalamazoo.blogspot.com/).  
  
