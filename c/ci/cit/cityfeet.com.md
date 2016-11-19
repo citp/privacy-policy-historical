@@ -1,22 +1,6 @@
-> *The following text is extracted and transformed from the cityfeet.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905082713id_/http%3A//www.cityfeet.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityfeet.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119062334id_/http%3A//www.cityfeet.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](https://privacy.truste.com/privacy-seal/LoopNet-Inc-/validation?rid=5e302d41-88bc-4f2b-b4be-b791e857f835 "TRUSTe online privacy certification")
-
-Cityfeet, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this website, [www.cityfeet.com](http://www.cityfeet.com/) does not cover information that may be collected through our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. When you visit a web site displaying the TRUSTe trustmark, you can expect to be notified of the following information:
-
-  * The personal information collected and which organization is collecting the information 
-  * How the information is used and with whom the information may be shared 
-  * Choices available to you regarding collection, use and distribution of the information 
-  * Types of security procedures in place to protect the loss, misuse or alteration of information under the company's control 
-  * How you can correct any inaccuracies in the information
-
-
-
-Questions regarding this statement should be directed to . Alternatively, please contact us by mail at Cityfeet Administration -- Privacy Statement, 2100 E. Route 66, Suite 200, Glendora, CA 91740, or by telephone at (626) 803-5000.
-
-If the web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). For more information on TRUSTe, please go to [http://www.truste.com](http://www.truste.com/).
 
 **Cityfeet's Privacy Statement**
 
