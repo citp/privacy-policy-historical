@@ -1,21 +1,38 @@
-> *The following text is extracted and transformed from the com.com privacy policy that was archived on 2014-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140906175550id_/http%3A//gen.xyz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the com.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119023801id_/http%3A//com.com/docs/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | .xyz Domain Names | Join Generation XYZ
+# com.com - owned and operated since 1995
 
-Gen.xyz respects your privacy. We have created this privacy statement in order to demonstrate our commitment to you, our customer. This privacy statement discloses the privacy practices for this website, http://gen.xyz (the “Website”, “Us”, “Our”). By using the Website you agree to the privacy practices disclosed below.
+Updated: 05/05/2016
 
-Privacy Practices
+Welcome to Com.com (the “Website”, “Site”, “we”, “our” or “us”). This Privacy Policy describes the information collected on this site and how it may be used and/or shared.
 
-  * We do not give third parties access to your personal information other than as outlined in this privacy policy.
-  * We only send email to you if you have elected to receive it.
-  * If we determine that any account with us is being used for the purpose of sending spam or engaging in malicious activities, we will take action to shut it down as soon as possible.
+Non-personally identifying information. We collect limited non-personally identifying information your browser makes available whenever you visit this website. This log information includes the subdomain you attempted to reach on this site, your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser. We use this information to monitor operation and improve our services. Com.com and/or third parties use your IP address or other non-personally identifying information to identify you, gather broad demographic information, help diagnose problems with our server, and to administer our site.
+
+Cookies. Com.com and/or third parties may be placing or reading "cookies" or Web Beacons on your internet browser.  Cookies are small text files stored on your local internet browser cache.  A Web Beacon is an often-transparent graphic image, usually no larger than 1 pixel x 1 pixel that is placed on a Web site. Both are created for the main purpose of helping your browser process the special features of websites that use Cookies or Web Beacons. The gathered information about your visits to this and other websites are used by these third party companies in order to provide advertisements about goods and services of interest to you.  Should you block or disable these cookies, this site may not work and/or appear as intended. Nevertheless, if you want to take these steps, you can do so by following instructions related to your browser. Cookies collect types of information such as the following:
+
+  * Site traffic (for example: the domain name and host from which you access the internet and the internet address of the site from which you came to ours),
+  * Statistics (for example: the date and time you access our site, the keywords and/or links clicked, and the pages you visit),
+  * IP information (for example: your computer's IP address, information about the operating system, platform and web browser type/version you utilize),
+  * Demographic information & other non-personally identifiable information about you,
+  * Advertisement information, and/or
+  * Information to fight fraud or misuse.
 
 
 
-We will never give any information about you to others without your express permission. Our site uses forms in which you give us contact information (like your name, address, phone number, and email address) so you can create an account, place orders, request information, etc. We may share specific information with business partners or contractors when the information is needed to fulfill your request for a product or service. We also use your contact information when it will be important for us to contact you regarding functionality changes to our products, our website, new services and special offers we think you’ll find valuable, and provide customer service.
+Personally Identifiable Information. Com.com and/or third parties may collect personally identifiable information when you choose to provide it through a contact form, registration form or when purchasing a service or product. This type of information may include your name, addresses, email addresses, phone numbers, and financial information. This information is used to contact you in reference to an inquiry, to manage and/or promote our relationship with you.
 
-We use information gathered about you from our site statistics via log files provided by third party tracking partners (for example your IP address) to help diagnose problems with our server, and to administer our website. We also gather broad demographic information from this data to help us improve our site and your experience. This information collection is not linked to any personally identifiable information. Our site uses cookies to keep track of your session information and to provide you with customized information. We do link the information we store in cookies to personally identifiable information you submit while on our site.
+Information Collected by Third Parties. This site consists largely of third-party advertising, links to other sites, and/or content from third parties. Com.com may share non-personally identifiable (for example: demographic) information to facilitate the delivery of relevant content and/or advertisements. Third party sites, businesses, advertisers, or advertising entities working on their behalf, sometimes use technology to deliver the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons, and other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. 
 
-We may use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided by your internet browser (ex: Mozilla Firefox or Internet Explorer).
+Com.com does not have access to the information these third parties may collect about your interests to deliver relevant advertising to you, and the information practices of these third parties are not covered by this Privacy Policy.
 
-We also may use cookies to store your username if you request to remember your username during login. That information will be used to pre-fill the login form at a later time. If you are referred to our website through an ad or a partner, we will store the referral information in the cookies.
+Ownership and transfer of information. All information collected on this site is considered to be an asset of Com.com and as such may be shared and/or transferred as described in this policy and/or as part of an acquisition (or contemplated acquisition) of Com.com and/or this site.
+
+Links. The web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
+
+Transfer of Data Abroad. If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+Conditions of Use, Notices, and Revisions. If you choose to visit our web site, your visit and any dispute over privacy is subject to this Notice and our Terms of Use, including limitations on damages, arbitration of disputes, and application of jurisdiction and laws. If you have any concern about privacy at our web site, please send us a thorough description to help@com.com and we will consider your concern in good faith. Our business changes constantly. This privacy policy and the Terms of Use will change also, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use, but you should check our website frequently to see recent changes.
+
+Legal Disclaimer. Com.com may disclose personal information when required by law or in the good faith belief that such action is necessary in order to conform to the edicts of the law, or to comply with a legal process served on our Web site.
+
+If you have further questions, send an email to help@com.com
