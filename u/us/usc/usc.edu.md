@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usc.edu privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314123540id_/http%3A//policies.usc.edu/p2admOpBus/privacy_personal_information.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usc.edu privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119014619id_/http%3A//policies.usc.edu/p2admOpBus/privacy_personal_information.html) for the most accurate reproduction.*
 
 # Privacy of Personal Information | Policy | USC
 
@@ -56,7 +56,7 @@ The following offices have responsibility for providing interpretation and imple
 
   * Complaints about online collection of personal information or compliance with the California Online Privacy Protection Act Office of Information Security **(213) 743-4900**
   * Students—Dean of Academic Records and Registrar **(213) 740-4623**
-  * Faculty—Vice Provost for Faculty Affairs **(213) 740-6715**
+  * Faculty—Vice Provost for Academic and Faculty Affairs **(213) 740-6715**
   * Staff—Executive Director, Human Resources Administration **(213) 821-8111**
   * System Access, Security and Access Termination Administrative Information Services (AIS) **(213) 821-2000**
   * Information Technology Services (ITS) **(213) 740-5555**
