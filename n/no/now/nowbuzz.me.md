@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nowbuzz.me privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612155336id_/http%3A//nowbuzz.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowbuzz.me privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119054332id_/http%3A//nowbuzz.me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - nowbuzz.me
+# Privacy Policy - NowBuzz.me
 
 Welcome to (the “Site”). We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by (collectively, “Services”) (“Authorized Customers”).
 
