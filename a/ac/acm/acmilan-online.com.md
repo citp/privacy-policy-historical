@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acmilan-online.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616072038id_/http%3A//www.acmilan-online.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acmilan-online.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119143143id_/http%3A//www.acmilan-online.com/privacy-policy.php) for the most accurate reproduction.*
 
 # AC Milan Online v4.0 | Privacy Policy
 
@@ -21,4 +21,4 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
 
-AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20160616072038id_/http%3A//www.acmilan-online.com/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D). 
+AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20161119143143id_/http%3A//www.acmilan-online.com/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D). 
