@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookingorder.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531225414id_/http%3A//cookingorder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookingorder.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119132026id_/http%3A//cookingorder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cooking Order
 
