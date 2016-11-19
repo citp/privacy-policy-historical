@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatbit.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424172940id_/http%3A//www.fatbit.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatbit.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119172400id_/http%3A//www.fatbit.com/privacy-policy.html) for the most accurate reproduction.*
 
 # FATbit Technologies - privacy policy
 
@@ -12,22 +12,19 @@ We collect information from you when you fill out a form. When ordering or regis
 
 Any of the information we collect from you may be used in one of the following ways:
 
-:To personalize your experience  
-(your information helps us to better respond to your individual needs) 
-
-:To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
-
-:To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs) 
-
-:To process transactions   
+  * To personalize your experience  
+Your information helps us to better respond to your individual needs
+  * To improve our website  
+We continually strive to improve our website offerings based on the information and feedback we receive from you
+  * To improve customer service  
+Your information helps us to more effectively respond to your customer service requests and support needs
+  * To process transactions   
 Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. 
-
-:To administer a contest, promotion, survey or other site feature
-
-:To send periodic emails  
+  * To administer a contest, promotion, survey or other site feature
+  * To send periodic emails  
 The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+
+
 
 #### How do we protect your information?
 
@@ -74,8 +71,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 [http://www.fatbit.com](http://www.fatbit.com/)  
-F-8, Phase-8, Industrial Area  
-Mohali, Punjab 160071  
-India  
-info@fatbit.com  
-+1 469 844 3346
+FATbit Technologies   
+(Ably Soft Pvt Ltd)  
+Plot 268, Sector-82,   
+JLPL Industrial Area,   
+Mohali, Punjab, India 
