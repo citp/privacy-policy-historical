@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masters-resale-right.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519043506id_/http%3A//masters-resale-right.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masters-resale-right.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119173527id_/http%3A//masters-resale-right.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Masters Resale Rights
 
