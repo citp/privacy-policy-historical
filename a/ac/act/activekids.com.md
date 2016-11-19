@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the activekids.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617042219id_/http%3A//www.activenetwork.com/information/privacy-policy-active-com-9-14-11.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activekids.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119155348id_/http%3A//www.activenetwork.com/information/privacy-policy-active-com-9-14-11.htm) for the most accurate reproduction.*
 
 # Your Privacy Rights
 
+[](https://privacy.truste.com/privacy-seal/validation?rid=8b78ad09-1d14-49e8-96b7-f2a4e662b94f "TRUSTe Privacy Certification")
+
 **Your Privacy Rights**
 
-**Effective date:** May 16, 2016
+**Effective date:** September 29, 2016
 
 [OVERVIEW](http://www.activenetwork.com/information/privacy-policy#overview)  
 [WHAT INFORMATION DO WE COLLECT ABOUT YOU AND WHY?](http://www.activenetwork.com/information/privacy-policy#what-information)  
@@ -24,31 +26,33 @@
 
 Active Network, LLC and its affiliated companies and subsidiaries (collectively, “ACTIVE,” “us”, “we” or “our”) value your privacy and are committed to protecting your personal information. ACTIVE is a leading provider of Activity and Participant Management™ solutions. Our flagship technology platform, ACTIVEWorks®, transforms the way organizers manage their activities and events by automating online registrations and streamlining other critical management functions, while also driving consumer participation to their events. Our websites include online communities for people who want to discover, participate in, and share activities about which they are passionate. Using our services, you’ll be able to learn about upcoming events, and, in some circumstances, to register for those events and tell your friends about the events. Our services may also be used by organizations to provide you the ability to take certain actions. For example, we may create or host websites and mobile applications on the behalf of others that allow you to, among other things, register for a class or conference, make campsite reservations, purchase hunting or fishing licenses, or pay a parking ticket.
 
-We also offer mobile applications that provide information about events in your area, permit you to register for races, make camping reservations, book tee times, create and download training programs, and enjoy many of the benefits of our websites, in addition to other services (collectively, “Applications”). In general, our Applications operate on an open network; that means that any information that you post to these Applications may be available to other users of the same application, and, in some instances, on our websites.
+We also offer mobile applications that provide information about events in your area, permit you to register for races, allow you to make camping reservations, create and/or download training programs, and you can enjoy many of the benefits of our websites in addition to other services (collectively, “Applications”). In general, our Applications operate on an open network; that means that any information that you post to these Applications may be available to other users of the same application, and, in some instances, on our websites.
 
 In this Privacy Policy (“Policy”), we describe the information that we collect from visitors to and users of our websites (“Sites”), our blogs, our Applications, and our online products and services (collectively, “Services”). By visiting our Sites or using any of our Services, you agree that your personal information will be handled as described in this Policy, which is incorporated by reference into the ACTIVE Terms of Use, available at <http://www.activenetwork.com/information/terms-of-use>.
 
 ACTIVE has received TRUSTe’s Privacy Seal signifying that this Policy and our practices have been reviewed for compliance with the TRUSTe program which is viewable by clicking the TRUSTe seal, located at the bottom of the websites to which this certification covers. The TRUSTe certification covers only information that is collected through the following ACTIVE websites: Active.com, Activenetwork.com, eTeamz.com, Activegiving.com, and Reserveamerica.com and through our flagship technology platform, ACTIVEWorks®. The Children’s Privacy Seal program covers only information that is collected through [www.active.com](http://www.active.com/). The TRUSTe programs do not cover information that may be collected through downloadable software, the Applications or mobile devices. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@activenetwork.com](mailto:privacy@activenetwork.com). If you are not satisfied with our response you can contact TRUSTe [here](https://www.truste.com/).
 
+If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@activenetwork.com](mailto:privacy@activenetwork.com). If you are not satisfied with our response you can contact TRUSTe [here](https://www.truste.com/).
+
 **WHAT INFORMATION DO WE COLLECT ABOUT YOU AND WHY?**
 
-The information we collect from you allows you to log into our Sites; use our Services and Applications; and register for and/or set up registration for you or your organization’s own customers for events, contests, camps, licenses, classes, tickets, facility/equipment use, transactions, sales, memberships, reservations, donations, and/or activities (collectively, “Events”). We also collect information from businesses, organizations, and individuals who request information from ACTIVE.
+The information we collect from you allows you to log into our Sites, use our Services and Applications, and register for and/or set up registration for you or your organization’s own customers for events, contests, camps, licenses, classes, tickets, facility/equipment use, transactions, sales, memberships, reservations, donations, and/or activities (collectively, “Events”). We also collect information from businesses, organizations, and individuals who request information from ACTIVE.
 
 Individuals and agents of individuals may provide us information directly or indirectly by registering for an Event or by otherwise using our Services (these individuals are referred to as “Consumers”). For example, you may enter your information in order to register for an Event, or someone who has organized a team may enter your information on your behalf to register your entire team. In addition, individuals or organizations can use our Services to set up Events for Consumers (those who use our Services to provide a service to Consumers are referred to as “Clients”). Relatedly, our Clients (including agents of our Clients) may provide us personal information about individuals who have registered for an Event being operated by our Client or who the Client wants us to contact or otherwise provide Services to on behalf of the Client.
 
 **Information We Collect Directly From You.**
 
-_Account Information for our Sites._ You may browse our Sites without creating an online account or providing us with your information, but to use certain features or to register for an Event, you may need to create an account or otherwise provide us with information. When you create an account with us or register for an Event, we may ask you to provide the following:
+_Account Information for our Sites._  You may browse our Sites without creating an online account or providing us with your information, but to use certain features or to register for an Event, you may need to create an account or otherwise provide us with information. When you create an account with us or register for an Event, we may ask you to provide the following:
 
   * Your first and last name;
   * Your email address and your desired password;
   * Your display name (this is the name other people will see when you post items to one of our Sites or engage in other similar activities on our site);
   * Your date of birth;
-  * Your subscription preferences (whether and what types of information you would like us to send you)
+  * Your subscription preferences (whether and what types of information you would like us to send you);
   * Information about your activities and interests;
   * Other profile data, such as contact information, occupation, gender and photo;
   * Your physical activities or similar health related information (how long you exercised, caloric intake or weight lost);
-  * The contact information of a friend, other members of your team, or Clients customers (when inviting them to visit the Site or when you are allowed to set up an account for them) [Need to understand these changes better; what is meant by clients customers?]; and
+  * The contact information of a friend, other members of your team, or Clients customers (when inviting them to visit the Site or when you are allowed to set up an account for them); and
   * Payment information, such as credit card or financial account numbers (if applicable).
 
 
@@ -126,9 +130,9 @@ We also may share your information for the following reasons:
 
 Our websites include social media features, such as the Facebook “Like” button and widgets such as the “share this button” or interactive mini-programs. These features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing such feature.
 
-**Network Advertisers.** Network advertisers are third parties that display advertisements based on your visits to our Sites and other websites you have visited. This enables us and these third parties to target advertisements to you for products and services in which you might be interested. These third party services may use cookies, JavaScript, web beacons (including clear GIFs), and other technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third party technologies are governed by each third party’s specific privacy policy, not this one. We may provide these third parties with information, including both personally identifiable and non-personally identifiable information, about your usage of our Sites and our Services. For more detailed information on the use of third party technologies and how to opt-out of receiving targeted advertisements, please see our cookie policy: [http://www.activenetwork.com/information/cookie-policy](http://www.activenetwork.com/information/cookie-policy.htm) or http://www.preference-mgr.truste.com. If you are located in the European Union click [here](http://youronlinechoices.eu/).
+**Network Advertisers.** Network advertisers are third parties that display advertisements based on your visits to our Sites and other websites you have visited. This enables us and these third parties to target advertisements to you for products and services in which you might be interested. These third party services may use cookies, JavaScript, web beacons (including clear GIFs), and other technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third party technologies are governed by each third party’s specific privacy policy, not this one. We may provide these third parties with information, including both personally identifiable and non-personally identifiable information, about your usage of our Sites and our Services. For more detailed information on the use of third party technologies and how to opt-out of receiving targeted advertisements, please see our cookie policy: [http://www.activenetwork.com/information/cookie-policy](http://www.activenetwork.com/information/cookie-policy.htm) or [http://www.preference-mgr.truste.com](http://www.preference-mgr.truste.com/). If you are located in the European Union click [here](http://youronlinechoices.eu/).
 
-Third parties with whom we partner with to provide certain features on our Site, such as to display advertising based upon your web browsing activity, may use LSOs, such as HTML 5, to collect and store information and to measure the effectiveness of their ads and personalize advertising content. To manage Flash LSOs please click here: <https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>. Various browsers may offer their own management tools for removing HTML 5 LSOs.
+We use Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity may also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. 
 
 **Third Party Links.** At times, our Sites and Applications may contain links to other third party websites. Any access to and use of such linked websites is not governed by this Policy, but, instead, is governed by the privacy policies of those third party websites, and we are not responsible for the information practices of such third party websites.
 
@@ -141,6 +145,8 @@ We have implemented commercially reasonable precautions, including, where approp
 You should take steps to protect against unauthorized access to your password, computer, and web-enabled devices, among other things, by signing off after using a shared computer, inserting a password on your web-enabled device, choosing a password that nobody else knows or can easily guess, keeping your password private, and periodically changing your password. You should never share your log-in information with others. We are not responsible for any lost, stolen or compromised passwords, or for any activity on your account via unauthorized password activity. More information on ACTIVE’s security can be found at: [http://www.activenetwork.com/security](http://www.activenetwork.com/security.htm).
 
 **CAN I ACCESS AND MODIFY MY PERSONAL INFORMATION?**
+
+Upon request, ACTIVE will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information.  To request this information please e-mail us at [privacy@activenetwork.com](mailto:privacy@activenetwork.com)
 
 If your personal information changes, or if you no longer desire our service, you may correct, update, delete/remove, or ask to have it removed from a public forum or testimonial by making the change within your account settings or by contacting us via one of the methods listed in this Policy. We will respond to your request to access within 30 days. Please note that copies of information that you have updated, modified, or deleted may continue to reside in our systems for a period of time. Also, you may not be able to remove your personal information from archived web pages that we no longer maintain, such as your name and race time from a past Event. In the event we are unable to complete your access request, we will let you know if we are unable to do so and why. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law.
 
@@ -156,19 +162,25 @@ If you wish to not have your personal information shared with third parties for 
 
 By electing to stop receiving all communications from us or through our system you will no longer receive any updates on your account or on Events you are registered to attend or have previously attended, including communications regarding refunds. We do not recommend that you do this unless you plan to no longer use the Services, are not currently registered for an Event, are not currently organizing an Event and will have no need to receive further communications from us or through our system. Even after you opt-out of all communications, we will retain your information in accordance with this Policy, however, we will no longer use it to contact you. However, our Clients who have received your information in accordance with this Policy may still use that information to contact you in accordance with their own privacy policies, but they may not use our system to do so.
 
-For the ACTIVEGlobal Site, you may delete/remove personal information by submitting a request to Customer Support at <http://www.activeglobal.com/AboutUS/index.cfm?AC=ContactAE>.
-
-If you would like to delete your account with us, you may do so by emailing us at support@activenetwork.com and specifying which account(s) to delete.
+If you would like to delete your account with us, you may do so by emailing us at [support@activenetwork.com](mailto:support@activenetwork.com) and specifying which account(s) to delete.
 
 **CONSENT TO TRANSFER INFORMATION TO THE UNITED STATES**
 
-Active Network, LLC complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Active Network, LLC has certified adherence to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program and to view the certifications, please visit <http://www.export.gov/safeharbor/>.
+**U.S. - Swiss Safe Harbor Framework**
 
-For disputes that may arise regarding the human resources data of our employees, we have agreed to use TRUSTe as our independent third party dispute resolution partner. A link to TRUSTe’s dispute resolution mechanism is accessible above.
+Active Network, LLC complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. Active Network, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Active Network, LLC’s certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
 
-If you are located outside of the United States, please note that information we collect may be transferred to and processed in the United States. By using our Sites and Applications, you consent to the transfer and processing of your information in countries which may not have data protection laws that provide the same level of protection that exists in countries in the European Economic Area. Your consent is voluntary. If, however, you do not consent, then we may not be able to provide you with our Services.
+**EU-U.S. Privacy Shield**
 
-Notwithstanding the foregoing, if you are registering for an Event with a government entity, we may be restricted by law or contract from transferring your information outside of the particular jurisdiction in which that government entity resides.
+Active Network, LLC participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  Active Network, LLC is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable principles.  To learn more about the Privacy Shield Framework, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.commerce.gov/page/eu-us-privacy-shield).
+
+Active Network, LLC is responsible for the processing of personal data it receives under the Privacy Shield Framework, and subsequent transfers to a third party acting as an agent on its behalf.  Active Network, LLC complies with the Privacy Shield principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Active Network, LLC is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Active Network, LLC may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the Privacy Shield [website](https://www.commerce.gov/page/eu-us-privacy-shield), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 **CHILDREN UNDER 13**
 
@@ -202,7 +214,7 @@ Parents have the right to consent to the collection and use of personal informat
 
 **_Can I access and modify my Child’s personal information?_**
 
-If your Child’s personal information changes, if you no longer wish to allow your Child to participate on the Sites, or if you wish to delete your Child’s information and refuse further collection and use of the information, please email us at [privacy@activenetwork.com](http://www.activenetwork.com/information/privacy@activenetwork.com).
+If your Child’s personal information changes, if you no longer wish to allow your Child to participate on the Sites, or if you wish to delete your Child’s information and refuse further collection and use of the information, please email us at [privacy@activenetwork.com](mailto:privacy@activenetwork.com).
 
 **_How long is my Child’s information retained?_**
 
@@ -225,7 +237,9 @@ Phone: 858-964-3800
 Toll Free: 888-543-7223  
 Email: [privacy@activenetwork.com](mailto:privacy@activenetwork.com)
 
-**_California Do Not Track Disclosures._** For information on our online tracking practices please refer to the section entitled [Information We Collect Automatically.](http://www.activenetwork.com/information/privacy-policy#info-collected-automatically)
+**_For information on our online tracking practices please refer to the section entitled[Information We Collect Automatically.](http://www.activenetwork.com/information/privacy-policy#info-collected-automatically)_**
+
+ ** _
 
 **CHANGES TO THIS POLICY**
 
@@ -245,3 +259,7 @@ Dallas, TX 75201
 Phone: 469-291-0300  
 Toll Free: 888-543-7223  
 Email: [privacy@activenetwork.com](mailto:privacy@activenetwork.com)
+
+_**
+
+ ** __**
