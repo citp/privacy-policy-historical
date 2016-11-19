@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the naturesoundsfor.me privacy policy that was archived on 2016-03-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160311214752id_/http%3A//naturesoundsfor.me/load/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the naturesoundsfor.me privacy policy that was archived on 2016-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119115201id_/http%3A//naturesoundsfor.me/load/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#" lang="en" dir="LTR"><head>
     <base href="http://naturesoundsfor.me/">	
@@ -9,6 +9,7 @@
     <!--[if lte IE 7]>
 	  <link rel="stylesheet" type="text/css" href="style/ie7.css" >
     <![endif]-->
+    <link rel="stylesheet" type="text/css" href="style/animate.css">
     <title>Privacy Policy</title>
     <meta name="description" content="Privacy Policy for NatureSoundsFor.me">
     <meta property="og:title" content="Privacy Policy">
@@ -17,11 +18,16 @@
     <meta property="og:image" content="http://naturesoundsfor.me/images/iPhoneApp.jpg">
     <meta property="fb:admins" content="100000753685709">
     <meta name="viewport" content="width=1050, minimum-scale=0.25, maximum-scale=2.0">
-    <meta name="apple-itunes-app" content="app-id=445269311, affiliate-data=11lo8s">
+
 
     <meta name="viewport" content="width=1050, minimum-scale=0.25, maximum-scale=2.0">
 
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://embed.tawk.to/56d17363dcd88fa029f112d5/default" charset="UTF-8" crossorigin="*"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="js/jquery-1.4.min.js" type="text/javascript"><!-- //--></script>
+    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" defer="" src="//piwik.soundsfor.me/piwik.js"></script><script async="" src="https://embed.tawk.to/56d17363dcd88fa029f112d5/default" charset="UTF-8" crossorigin="*"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="js/jquery-1.12.2.min.js" type="text/javascript"><!-- //--></script>
+    <!-- To show notifications -->
+    <script src="js/jquery.noty.packaged.min.js" type="text/javascript"><!-- //--></script>
+    <script src="js/noty-theme.js" type="text/javascript"><!-- //--></script>
+  
+  
 
     <!-- Get Cookie By Name -->
     <script type="text/javascript">
@@ -73,6 +79,59 @@
       }
     </script>
 
+    <!-- Get Week No -->
+    <script type="text/javascript">
+    /* For a given date, get the ISO week number
+    *
+    * Based on information at:
+    *
+    *    http://www.merlyn.demon.co.uk/weekcalc.htm#WNR
+    *
+    * Algorithm is to find nearest thursday, it's year
+    * is the year of the week number. Then get weeks
+    * between that date and the first day of that year.
+    *
+    * Note that dates in one year can be weeks of previous
+    * or next year, overlap is up to 3 days.
+    *
+    * e.g. 2014/12/29 is Monday in week  1 of 2015
+    *      2012/1/1   is Sunday in week 52 of 2011
+    */
+    function getWeekNumber(d) {
+      // Copy date so don't modify original
+      d = new Date(+d);
+      d.setHours(0,0,0);
+      d.setMilliseconds(0);
+      // Set to nearest Thursday: current date + 4 - current day number
+      // Make Sunday's day number 7
+      d.setDate(d.getDate() + 4 - (d.getDay()||7));
+      // Get first day of year
+      var yearStart = new Date(d.getFullYear(),0,1);
+      // Calculate full weeks to nearest Thursday
+      var weekNo = Math.ceil(( ( (d - yearStart) / 86400000) + 1)/7);
+      // Return array of year and week number
+      return [d.getFullYear(), weekNo];
+    }
+    
+    function getUTCWeekNumber(d) {
+      // Copy date so don't modify original
+      d = new Date(+d);
+      d.setUTCHours(0,0,0);
+      d.setUTCMilliseconds(0);
+      // Set to nearest Thursday: current date + 4 - current day number
+      // Make Sunday's day number 7
+      d.setUTCDate(d.getUTCDate() + 4 - (d.getUTCDay()||7));
+      // Get first day of year
+      var yearStart = new Date(Date.UTC(d.getUTCFullYear(), 0, 1));
+      // Calculate full weeks to nearest Thursday
+      var weekNo = Math.ceil(( ( (d - yearStart) / 86400000) + 1)/7);
+      // Return array of year and week number
+      return [d.getUTCFullYear(), weekNo];
+    }
+
+    </script>
+    <!-- End Get Week No -->
+
     <!-- Google Analytics -->
     <script>
     
@@ -108,15 +167,26 @@
         var sessionStartInt = sessionStart ? parseInt(sessionStart) : 0;
         if (sessionStartInt > 0) {
           var d = new Date(sessionStartInt * 1000);          
-          ga('set', 'dimension1', d.getFullYear() + "_" + (d.getMonth() + 1));
+          ga('set', 'dimension1', d.getUTCFullYear() + "_" + (d.getUTCMonth() + 1));
+          
+          var weekYear = getUTCWeekNumber(d);
+          ga('set', 'dimension3', weekYear[0] + "_w" + weekYear[1]);
+          
           // we use this for the purpose of filtering out those sessions which don't get to this code at all
           ga('set', 'metric1', sessionStartInt);
         } else {
           // we couldn't get timestamp value
           ga('set', 'dimension1', 'No Timestamp');
+          ga('set', 'dimension3', 'No Timestamp');
         }
         // in either case - store the whole cookie, so that we can check it out
         ga('set', 'dimension2', document.cookie);
+        
+        var userId = null;
+        
+        if (userId != null) {
+          ga('set', 'userId', userId);
+        }
         
         ga('send', 'pageview');
       });
@@ -137,8 +207,26 @@
     </script>
     <!--End of Tawk.to Script-->    
     
+    <!-- Piwik -->
+    <script type="text/javascript">
+      var _paq = _paq || [];
+      _paq.push(['trackPageView']);
+      _paq.push(['enableLinkTracking']);
+      // accurately measure the time spent on the last pageview of a visit
+      // sends a heartbeat every 10 seconds
+      _paq.push(['enableHeartBeatTimer', 10]);
+      (function() {
+        var u="//piwik.soundsfor.me/";
+        _paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', 1]);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+      })();
+    </script>
+    <noscript><p><img src="//piwik.soundsfor.me/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+    <!-- End Piwik Code -->
 
-    <script async="" defer="" src="//survey.g.doubleclick.net/async_survey?site=hhzw2fxg74xqq"></script>  
+
 
     <link rel="alternate" hreflang="en" href="http://naturesoundsfor.me/load/privacy">
     <link rel="alternate" hreflang="es" href="http://naturesoundsfor.me/load/privacy/es">
@@ -149,6 +237,7 @@
 
   </head>
 <body>
+
 
 
 
@@ -242,7 +331,7 @@
 				<h2>Popular Compositions</h2>
 				<p>
 					<a href="http://naturesoundsfor.me/Rain-Sounds">Rain Sounds</a>
-					<a href="http://naturesoundsfor.me/rainy-mood">rainy mood</a>
+					<a href="http://naturesoundsfor.me/rainy-atmosphere">rainy atmosphere</a>
 					<a href="http://naturesoundsfor.me/Good-Nights-Sleep">Good Night's Sleep</a>
 					<a href="http://naturesoundsfor.me/Calm_Thunder_Storm">Calm Thunder Storm</a>
 
