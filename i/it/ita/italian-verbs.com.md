@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the italian-verbs.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505114332id_/http%3A//www.italian-verbs.com/italian-verbs/italian-verbs-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the italian-verbs.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119084704id_/http%3A//www.italian-verbs.com/italian-verbs/italian-verbs-privacy.php) for the most accurate reproduction.*
 
 # Italian Verbs - Privacy statement
 
@@ -16,5 +16,5 @@ Personal information can be disclosed to authorities in case of investigations a
 
 However, no data transmission over the Internet can be guaranteed to be completely secure, we cannot guarantee the security of any information you transmit to us. You transmit such information at your own risk.
 
-**Changement of this statement**  
+ **Changement of this statement**  
 We reserve the right to change this privacy statement at any time without any prior notice. Changes will be effective immediately upon posting.
