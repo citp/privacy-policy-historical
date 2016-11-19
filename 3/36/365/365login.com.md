@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 365login.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528120450id_/http%3A//www.365login.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 365login.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119102504id_/http%3A//www.365login.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 365 login
 
