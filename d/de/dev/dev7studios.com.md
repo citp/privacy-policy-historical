@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dev7studios.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602052442id_/https%3A//dev7studios.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dev7studios.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119022132id_/https%3A//dev7studios.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Dev7studios
 
