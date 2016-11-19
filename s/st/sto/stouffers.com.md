@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stouffers.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623233629id_/http%3A//www.stouffers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stouffers.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119030343id_/http%3A//www.stouffers.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Stouffer's®
 
@@ -7,7 +7,7 @@ Last Updated On: 6/12/2014
 
 | 
 
-[](http://privacy.truste.com/privacy-seal/Nestle-USA,-Inc-/validation?rid=a0441b14-29fd-490b-99a1-3c9b1bf5572e "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/Nestle-USA,-Inc-/validation?rid=a0441b14-29fd-490b-99a1-3c9b1bf5572e "TRUSTe online privacy certification")
 
   
   
