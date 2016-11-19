@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goabroad.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528223351id_/http%3A//www.goabroad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goabroad.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119213254id_/http%3A//www.goabroad.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GoAbroad.com
 
@@ -46,7 +46,7 @@ GoAbroad's Review Platform was created to provide users with a resource for gain
 
 ## Confidentiality and Security
 
-We use industry standard measures to protect all information that is stored on our servers and within our database. We limit the access to these information to those employees who need access to perform their job function such as our customer service personnel. If you have any questions about the security of our website, please [contact us](http://www.goabroad.com/feedback). 
+We use industry standard measures to protect all information that is stored on our servers and within our database. We limit the access to these information to those employees who need access to perform their job function such as our customer service personnel. If you have any questions about the security of our website, please [contact us](https://web.archive.org/contact). 
 
 ## Changes to this Privacy Policy
 
