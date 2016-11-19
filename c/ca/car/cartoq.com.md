@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cartoq.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611231240id_/http%3A//www.cartoq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoq.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015827id_/http%3A//www.cartoq.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy For CarToq.com Website And CarToq Facebook App | Cartoq - Honest Car Advice
+# Privacy Policy for CarToq.com website and CarToq Facebook App | Cartoq - Honest Car Advice
 
 This website and the CarToq Facebook app are owned by “CARTOQ”. This Privacy Policy is designed to inform the user about our practices regarding handling, collection, use, and disclosure of information that you may provide. Please make sure that you read this entire Privacy Policy before using or submitting information to this site.
 
