@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oktopost.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624185004id_/http%3A//www.oktopost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oktopost.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119204146id_/http%3A//www.oktopost.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Oktopost
 
@@ -8,11 +8,11 @@ This Privacy Policy governs the manner in which Oktopost (the "Company", "we", "
 
 The Personal Information we collect (i.e. information that may allow the identification of the User) includes information voluntarily submitted by the User, including the Users' name and email address, phone number, billing address and certain payment information (e.g. credit card's expiration date and last four digits, etc.). 
 
-## Non-personal information
+## Non-Personal Information
 
 Non-Personal Information may include the browser name, the type of the User's device and technical information transmitted by the User's device, language preferences, time stamps and visited pages, the operating system, utilized internet service provider and other similar information. We may also collect the User's IP address which would irrevocably anonymized. 
 
-## How we may collect your information?
+## How We May Collect Your Information?
 
   * When the User voluntarily submits Personal Information (by filling out a form, subscribing to our newsletter, respond to a survey, and in connection with other activities, services, features or resources we make available in connection with our Service); Users may always refuse to provide Personal Information. 
   * Non-Personal Information may be automatically transmitted by the User's device. 
@@ -21,7 +21,7 @@ Non-Personal Information may include the browser name, the type of the User's de
 
 
 
-## How we use information we collect
+## How We Use Information We Collect
 
 We collect Personal Information for the following purposes: 
 
@@ -35,7 +35,7 @@ We collect Personal Information for the following purposes:
 
 
 
-## With whom we share information
+## With Whom We Share Information
 
 We do not sell, trade, or rent Users' Personal Information to other parties. We may share Personal Information with our trusted service providers only to the extent required to fulfill the purposes outlined above. 
 
@@ -43,7 +43,15 @@ We may transmit or store Personal Information, in different locations around the
 
 Non-Personal Information may be shared with other third parties (including retailers, ad networks, advertising companies, service providers, media and other interested parties) in any of the above circumstances, as well as for the purpose of developing or delivering advertising (whether via our Service, or websites, applications or services of third parties), or for the purpose of improving our Service, conducting business analysis or other business purposes. This information may be combined with information we collect from other sources, to the extent that the information remains Anonymous Information. 
 
-## Information retention policy and User choice
+## Transfer of Personal Information from the EU
+
+Since we operate globally, it may be necessary to transfer your Personal Information to countries outside of the European Union (EU). 
+
+In such cases, your Personal Information will be transferred to and stored in countries which have been recognized by the European Commission ("EC") as providing adequate level of privacy and data protection. Alternatively, if your Personal Information is stored by our trusted service providers or any other third party in countries which have not been formally recognized by the EC as providing an adequate level of privacy and data protection, then we shall implement in our agreements with our trusted service providers or any other third party, special data processing contractual clauses, which have been approved by the EC as providing adequate contractual protection. 
+
+You hereby consent to the transfer of your Personal Information to countries outside of the European Union. 
+
+## Information Retention Policy And User choice
 
 We may rectify, replenish or remove incomplete or inaccurate information, at any time and at our own discretion. Users may, at any time, rectify, update or withdraw Personal Information pertaining to them, by contacting us. 
 
@@ -55,7 +63,7 @@ We will not knowingly collect Personal Information from children under the age o
 
 ## Security
 
-We use industry standard security tools and measures, as well as internal guidelines and organizational procedures to prevent information misuse and data leakage. The information is also protected using Amazon's Web Services cloud-based computing and data storage infrastructure (Amazon S3). You may read more about how Amazon Web Services incorporates best practices concerning data security at this link: http://aws.amazon.com/security/. 
+We use industry standard security tools and measures, as well as internal guidelines and organizational procedures to prevent information misuse and data leakage. The information is also protected using Amazon's Web Services cloud-based computing and data storage infrastructure (Amazon S3). You may read more about how Amazon Web Services incorporates best practices concerning data security at this link: http://aws.amazon.com/security. 
 
 While we strive to use commercially acceptable means and procedures to protect the information, which considerably reduce the risks of data misuse, we cannot guarantee that our systems will be absolutely safe. If you become aware of any security vulnerability or potential data breach, please contact us immediately, and we will take the appropriate measures to address such incident, as deemed necessary. 
 
@@ -71,6 +79,6 @@ Users may find advertising or other content on our Service that link to the site
 
 The Company has the discretion to update this privacy policy at any time. We encourage periodic review of our Privacy Policy for any changes in order to stay informed about how we are helping to protect the personal information we collect. The last amendments will be reflected in the "Last Updated" heading. The continued use of the Service following the posting of any amendments will be deemed as acceptance of those amendments. 
 
-## Contacting us
+## Contacting Us
 
-If you have any questions about this Privacy Policy, or the practices of our Service, please [contact us](mailto:contact@oktopost.com). 
+If you have any questions about this Privacy Policy, or the practices of our Service, please [contact us](mailto:privacy@oktopost.com). 
