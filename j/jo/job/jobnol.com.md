@@ -1,16 +1,17 @@
-> *The following text is extracted and transformed from the jobnol.com privacy policy that was archived on 2015-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151029082932id_/http%3A//www.jobnol.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobnol.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119014136id_/http%3A//www.jobnol.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - JOBNOL
 
 _This privacy policy sets out how JOBNOL uses and protects any information that you give when you using this website._  
 _  
 __JOBNOL is committed to ensuring that your privacy is protected. JOBNOL may change this privacy policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes._  
-_This privacy policy is effective from 21-03-2015._  
+_This privacy policy is effective from 21-03-2015. and Last Updated on 02/08/2016._  
 _**  
 **__**What We Collect**_  
 _JOBNOL collects the following information:_
 
-  * _We do not collect any information by which a person or the visitor of our website is identifiable._
+  * _We do not collect any information by which a person or the visitor is identifiable through our website cookies._
+  * _Sometimes we do collect  some data about yourself (Name, Email, Phone No) in our website through Google Form. We use that information to send you notification/newsletter from our websites with your permission. We do not sell your information._
 
 
 
@@ -19,6 +20,7 @@ _JOBNOL requires this information to better understand your needs and provide yo
 
   * _Although we do not collect any  personally identifiable information, but some small chunks of information may be detected through cookies. _
   * _We may use the information to see our website usage and also to improve our services._
+  * _We do use Facebook Pixel, Google Analytics to track our website usage only. (Not who are using it)_
 
 
 
