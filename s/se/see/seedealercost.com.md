@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seedealercost.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405172510id_/http%3A//www.seedealercost.com/default/index/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedealercost.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119104835id_/http%3A//www.seedealercost.com/default/index/privacy-policy) for the most accurate reproduction.*
 
 # See Dealer Cost - Privacy Policy
 
@@ -70,5 +70,5 @@ SeeDealerCost™ uses certain third party web analytics software in order to mon
 
 **Contact Information**. If you have any questions or comments about our personal information practices or about this Privacy Policy, please feel free to contact us by email or at: [info@SeeDealerCost.com](mailto:info@seedealercost.com?subject=Request%20for%20Information)
 
-**Copyright 2011 Pay Dealer Cost™, Inc. All Rights Reserved.**  
+**Copyright 2016 Pay Dealer Cost™, Inc. All Rights Reserved.**  
  
