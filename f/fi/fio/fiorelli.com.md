@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiorelli.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624063933id_/http%3A//www.fiorelli.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiorelli.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119113504id_/http%3A//www.fiorelli.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,6 +16,10 @@ We may collect the following information:
 
 
 For the exhaustive list of cookies we collect see the List of cookies we collect section.
+
+**Google Analytics**
+
+We use a tool called “Google Analytics” to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the Google Analytics Terms of Use and the Google Privacy Policy. You can prevent Google Analytics from recognizing you on return visits to this site by disabling cookies on your browser.
 
 ## What we do with the information we gather
 
@@ -51,7 +55,7 @@ You may choose to restrict the collection or use of your personal information in
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
   * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at enquiries@fiorelli.com
   * Alternatively you can call us on 01252 533561
-  * You can unsubscribe at any time, by clicking the 'unsubscribe' button at the bottom of all emails, or by contacting us and we will remove you from the list 
+  * You can unsubscribe at any time, by clicking the 'unsubscribe' button at the bottom of all emails, or by contacting us and we will remove you from the list
 
 
 
