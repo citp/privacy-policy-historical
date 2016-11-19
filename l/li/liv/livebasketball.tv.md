@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livebasketball.tv privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606200341id_/http%3A//www.livebasketball.tv/privacy-policy%3FICID_HOM_FOT2_PRI) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livebasketball.tv privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119180252id_/http%3A//www.livebasketball.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | livebasketball.tv
 
