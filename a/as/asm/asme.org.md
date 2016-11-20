@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asme.org privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604024114id_/https%3A//www.asme.org/About-ASME/Privacy-and-Security-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asme.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120155006id_/https%3A//www.asme.org/About-ASME/Privacy-and-Security-Statement) for the most accurate reproduction.*
 
 # Privacy and Security Statement
 
