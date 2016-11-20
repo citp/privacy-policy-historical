@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studysolutions.pk privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324154932id_/http%3A//www.studysolutions.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studysolutions.pk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120020618id_/http%3A//www.studysolutions.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | STUDY SOLUTIONS FOR ALL
 
