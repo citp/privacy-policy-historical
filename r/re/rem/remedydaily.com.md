@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the remedydaily.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617131321id_/http%3A//remedydaily.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remedydaily.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121003622id_/http%3A//remedydaily.com/privacy.php) for the most accurate reproduction.*
 
-# REMEDYDAILY.COM
+# RemedyDaily
 
 **_PRIVACY POLICY_**
 
