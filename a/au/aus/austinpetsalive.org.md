@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the austinpetsalive.org privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511183648id_/http%3A//www.austinpetsalive.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austinpetsalive.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120103634id_/http%3A//www.austinpetsalive.org/about/privacy-policy) for the most accurate reproduction.*
 
-# Austin Pets Alive! | Privacy Policy
+# Austin Pets Alive! Privacy Policy - Austin Pets Alive!
 
 **Overview**
 
