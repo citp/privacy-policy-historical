@@ -1,6 +1,21 @@
-> *The following text is extracted and transformed from the mathgames.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175709id_/http%3A//www.mathgames.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathgames.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120043727id_/http%3A//www.mathgames.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Math Games - Privacy Policy
+
+[](https://studentprivacypledge.org/)
+
+**We Commit To:**
+
+  * Not sell student information
+  * Not behaviorally target advertising
+  * Use data for authorized education purposes only
+  * Not change privacy policies without notice and choice
+  * Enforce strict limits on data retention
+  * Support parental access to, and correction of errors in, their children’s information
+  * Provide comprehensive security standards
+  * Be transparent about collection and use of data.
+
+
 
 MathGames.com (TeachMe) feels strongly about protecting your privacy and not contributing to the endless volumes of spam on the Internet.
 
@@ -94,9 +109,9 @@ Mail (Snail):
 
 Attention: Privacy Officer  
 TeachMe, Inc.  
-301, 10359-104 Street  
-Edmonton, Alberta Canada  
-T5J 1B9 
+Suite 200, 15332 Antioch Street  
+Los Angeles, CA 90272  
+United States 
 
 Mail (Electronic):
 
