@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the juicywin.com privacy policy that was archived on 2016-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160619214107id_/http%3A//www.juicywin.com/privacy_statement.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the juicywin.com privacy policy that was archived on 2016-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120135206id_/http%3A//juicywin.com/privacy_statement.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <title>Juicy Win - Win Prizes Every Week and Gain Entry into Our £250,000 Prize Draw</title>
@@ -81,16 +81,16 @@
     <script async="" src="//www.google-analytics.com/analytics.js"></script><script language="JavaScript">
 
         function step1() {
-            window.frames["stats"].location = "http://juicywin.com/stats1.php?partner=";
+            window.frames["stats"].location = "http://www.juicywin.com/stats1.php?partner=";
         }
 
         function step2()
         {
-            window.frames["stats"].location = "http://juicywin.com/stats2.php?partner=";
+            window.frames["stats"].location = "http://www.juicywin.com/stats2.php?partner=";
         }
 
         function step3() {
-            window.frames["stats"].location = "http://juicywin.com/stats3.php?partner=&mobile="+args;
+            window.frames["stats"].location = "http://www.juicywin.com/stats3.php?partner=&mobile="+args;
         }
 
         function runCommand(command) {
@@ -127,7 +127,7 @@
             <link href="/css/magnific-popup.css" rel="stylesheet">
         </head>
 
-<body>
+<body class="">
 
 <button id="open-popup" style="display: none;">Open popup</button>
 
@@ -147,45 +147,113 @@
 
 
 
-<div class="navbar navbar-inverse navbar-fixed-top">
-  <div class="navbar-inner" style="">
-    <div class="container">
-      <button data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar" type="button">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a href="/" class="visible-desktop brand span2">Juicy Win</a>
-      <div class="nav-collapse collapse">
-        <ul class="nav">
-          <li class="">
-            <a href="./">Home</a>
-          </li>
-          <li class="active">
-            <a href="./privacy_statement.php">Privacy Statement</a>
-          </li>
-          <li class="">
-            <a href="./terms_and_conditions2.php">Terms and Conditions</a>
-          </li>
-          <!--  <li class="">
-                <a href="./faqs.php">FAQs</a>
-            </li> -->
-          <li class="">
-            <a href="./contact_us.php">Contact Us</a>
-          </li>
-          <li class="">
-            <a href="./weekly_draw_numbers.php">Weekly Draw Numbers</a>
-          </li>
-          <li class="">
+
+
+    <title>JuicyWin</title>
+    <meta name="keywords" content="win, competitions, loaded mobi">
+    <meta name="description" content="">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <!-- Responsive Additions - Twitter Bootstrap -->
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+    /*body { padding-top: 60px; }
+    @media screen and (max-width: 768px) {
+        body { padding-top: 0px; }
+    }*/
+    </style>
+    <link href="/css/bootstrap-responsive.min.css" rel="stylesheet">
+    <link href="/css/general.css" rel="stylesheet">
+    <style>
+	.container {width:1240px !important}
+    </style>
+
+    <!-- Le javascript
+================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="http://www.google.com/jsapi"></script>
+    <script>
+// You may specify partial version numbers, such as "1" or "1.3",
+//  with the same result. Doing so will automatically load the
+//  latest version matching that partial revision pattern
+//  (e.g. 1.3 would load 1.3.2 today and 1 would load 1.9.1).
+google.load("jquery", "1");
+      google.load("jqueryui", "1");
+
+      google.setOnLoadCallback(function() {
+          // Place init code here instead of $(document).ready()
+          centrePopup();
+          $(window).resize(function() {
+              centrePopup();
+          });
+      });
+
+
+
+    function centrePopup() {
+        var width = document.body.offsetWidth;
+        var height = document.body.offsetHeight;
+
+
+        var left = (width/2)-(parseInt($('#pop').width())/2);
+        var top = (height/2)-(parseInt($('#pop').height())/2);
+
+        $("#pop").css('left',left);
+        $("#pop").css('top',top);
+    }
+
+    </script>
+    
+
+
+
+
+
+<div class="navbar navbar-inverse navbar-static-top">
+    <div class="navbar-inner" style="">
+        <div class="container">
+            <button data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar" type="button">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="home.php" class="visible-desktop brand span3">Juicy Win</a>
+            <div class="nav-collapse collapse">
+                <ul class="nav">
+                    <li class="">
+                        <a href="home.php">Home</a>
+                    </li>
+                    <li class="active">
+                        <a href="privacy_statement.php">Privacy Statement</a>
+                    </li>
+                    <li class="">
+                        <a href="terms_and_conditions.php">Terms and Conditions</a>
+                    </li>
+                    <li class="">
+                        <a href="contact_us.php">Contact Us</a>
+                    </li>
+
+                                            <li class="">
+                            <a href="weekly_draw_numbers.php">Weekly Draw Numbers</a>
+                        </li>
+                        <li class="">
+                            <a href="winners2.php">Winners</a>
+                        </li>
+
+                                        <li class="dropdown">
+                        <a href="/" class="dropdown-toggle"><!--data-toggle="dropdown"--><img src="/img/flags/gbr.gif" width="30" height="15" style="width:30px; height:15px;">&nbsp;Location<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/IRE"><img src="/img/flags/ire.jpg" width="30" height="15" style="width:30px; height:15px;">&nbsp;Ireland</a></li>
+                            <li><a href="/GBR"><img src="/img/flags/gbr.gif" width="30" height="15" style="width:30px; height:15px;">&nbsp;Great Britain</a></li>
+                        </ul>
+                    </li>
+                    <!--<li class="">
             <a href="./winners2.php">Winners</a>
-          </li>
-        </ul>
-      </div>
+          </li> -->
+                </ul>
+            </div>
+        </div>
     </div>
-  </div>
 </div>
-
-
             <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
             <div class="container">
         <div class="row">
@@ -287,6 +355,7 @@
                     },10000);
                 }*/
 
+                                
                 $('#open-popup').magnificPopup({
                     items: [
                         {
@@ -373,7 +442,7 @@
 
 
 <!--    Extras  -->
-<script type="text/javascript" src="http://assets.sb7icat.com/js/extras.js"></script>
+<script type="text/javascript" src="http://sb7assets.sb7mobile.netdna-cdn.com/js/extras.js"></script>
 
 
 </body></html>
