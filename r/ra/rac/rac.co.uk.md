@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rac.co.uk privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618123854id_/http%3A//www.rac.co.uk/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rac.co.uk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120151614id_/http%3A//www.rac.co.uk/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | RAC | RAC
 
-RAC Ltd takes the privacy of your information very seriously. We aim to meet current Internet best practice. Our services are designed to give you the information that you want to receive. Our privacy policy below explains how we will collect and use the information you give us. We may vary this policy from time to time and the current version will be that published on this site. The word 'we' refers to RAC Motoring Services (RACMS), unless otherwise indicated.
+RAC takes the privacy of your information very seriously. We aim to meet current Internet best practice. Our services are designed to give you the information that you want to receive. Our privacy policy below explains how we will collect and use the information you give us. We may vary this policy from time to time and the current version will be that published on this site. The word 'we' refers to RAC Motoring Services (RACMS), unless otherwise indicated.
 
   * Collecting your information
   * Informing you about products and services
@@ -120,6 +120,6 @@ Back to top
 
 ###  Links to other websites
 
-Our websites may contain links to other sites outside the group. RAC Ltd is not responsible for the privacy and security of these sites. This privacy policy applies only to this website.
+Our websites may contain links to other sites outside the group. RAC is not responsible for the privacy and security of these sites. This privacy policy applies only to this website.
 
 Back to top
