@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kobelli.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607214443id_/http%3A//kobelli.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kobelli.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120101639id_/http%3A//kobelli.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Kobelli Privacy Policy
 
@@ -50,7 +50,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [Kobelli](http://www.kobelli.com/)  
 [http://www.kobelli.com](http://www.kobelli.com/)  
-(800) 842-3222   
+(800) 432-3222   
 [info@kobelli.com](mailto:info@kobelli.com)
 
 Sign Up for Our Newsletter to receive latest news and events.
