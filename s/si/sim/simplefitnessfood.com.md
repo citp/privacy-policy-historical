@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplefitnessfood.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501211423id_/http%3A//simplefitnessfood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplefitnessfood.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120113017id_/http%3A//simplefitnessfood.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Simple Fitness Food
 
