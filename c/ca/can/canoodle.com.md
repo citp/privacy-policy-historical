@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canoodle.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617162353id_/http%3A//www.canoodle.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canoodle.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120104223id_/http%3A//www.canoodle.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
 
 # Meet New People, Social Singles Dating & Online Chat | Canoodle
 
@@ -52,9 +52,8 @@ If you want to know what data we hold on you, you have a legal right to obtain t
 To make a Subject Access Request please write to us enclosing a photocopy of a photographic ID (e.g. passport or driving licence) and utility bill (to provide proof of your address). This is to ensure we only send your data to you, or a third party that you expressly authorise in writing to deal with for you.  
 Our address for this purpose only is Legal Dept:  
 NSI (Holdings) Ltd  
-Winchester House,  
-259-269 Old Marylebone Road,  
-NW1 5RA,  
+2 Angel Square,  
+EC1V 1NY,  
 London
 
 (b) Amending/correcting the data we hold on you
