@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nesta.org.uk privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313224335id_/http%3A//www.nesta.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nesta.org.uk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120021006id_/http%3A//www.nesta.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Nesta
 
@@ -41,3 +41,7 @@ We take steps to protect your personal information and follow procedures designe
 **7\. Contacting us**
 
 You are legally entitled to know what personal information we hold about you and how that information is processed. If you would like to know what information we hold about you, please write to the Head of Legal at Nesta, 1 Plough Place, London EC4A 1DE, UK. We will ask you for proof of identity and may charge a £10 fee.
+
+**Nesta** , a company limited by guarantee registered in England and Wales with company number 7706036 and charity number 1144091. Registered as a charity in Scotland number SC042833.
+
+Registered office: 1 Plough Place, London EC4A 1DE
