@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethnicdukaan.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503064020id_/https%3A//www.ethnicdukaan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethnicdukaan.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120080450id_/https%3A//www.ethnicdukaan.com/privacy-policy) for the most accurate reproduction.*
 
 # Buy Indian Dresses Online – Traditional Indian Women Wear, Designer Saris, Wedding Lehengas, Salwar Kameez, Kurtis, Bridal Wear and Handloom Sarees
 
