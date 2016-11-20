@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baycongroup.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608144154id_/http%3A//www.baycongroup.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baycongroup.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120024831id_/http%3A//baycongroup.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
