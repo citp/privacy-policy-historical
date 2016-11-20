@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reflected.net privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509011744id_/http%3A//reflected.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reflected.net privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120133601id_/http%3A//reflected.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
