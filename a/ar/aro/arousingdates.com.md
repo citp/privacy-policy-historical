@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arousingdates.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619024144id_/http%3A//www.arousingdates.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arousingdates.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120013311id_/http%3A//www.arousingdates.com/site/privacy) for the most accurate reproduction.*
 
 # ArousingDates.com - Register now free for online dating and casual dates
 
