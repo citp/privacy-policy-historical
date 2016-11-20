@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the floridatrend.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607232150id_/http%3A//www.floridatrend.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridatrend.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120090722id_/http%3A//www.floridatrend.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Welcome to FloridaTrend.com.** This website is operated by Trend Magazines Inc. We are committed to protecting personal information about our users and persons who transact business through Web sites we own and operate, including but not limited to: [FloridaTrend. com](http://www.floridatrend.com/), [www.BusinessFlorida.com](http://www.businessflorida.com/), [FloridaSmallBusiness.com](http://www.floridasmallbusiness.com/), [ResearchFlorida.com](http://www.researchflorida.com/) and [FloridaNEXT.com](http://www.floridanext.com/). 
 
-Our postal address is **490 1st Ave. S. , 8th floor, St. Petersburg, FL 33701**. 
+Our postal address is **490 1st Ave. S., St. Petersburg, FL 33701**. 
 
 We can be reached by email at [webmaster@floridatrend.com](mailto:webmaster@floridatrend.com) or **(727) 821-5800**.
 
