@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexpornimg.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515235646id_/http%3A//sexpornimg.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexpornimg.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120145037id_/http%3A//sexpornimg.com/privacy.html) for the most accurate reproduction.*
 
 # Contact
 
