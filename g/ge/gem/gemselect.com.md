@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gemselect.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313230934id_/http%3A//www.gemselect.com/help/security-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemselect.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120084540id_/http%3A//www.gemselect.com/help/security-privacy.php) for the most accurate reproduction.*
 
 # Security and Privacy at GemSelect
 
@@ -16,14 +16,10 @@ We accept Visa, Visa Delta, and MasterCard through Kasikorn Bank. The system sup
 
 Personal Information
 
-GemSelect respects personal information on its website. Your email address may be used temporarily to generate an email or order.
+GemSelect respects personal information on its website. Your email address may be used temporarily to generate an email or order and for newsletters, which can be unsubscribed from at any time. Please contact us if you would like to opt out of newsletter subscription.
 
 Privacy Pledge
 
 We will never sell your email address, browsing patterns, or any other information.
-
-Cookies
-
-GemSelect uses browser cookies to enhance your visit and enable our online shopping cart. No personal information is stored in cookies. Cookies must be enabled to access all the features of our site.
 
 **For more questions** [please contact us](https://web.archive.org/help/contact.php).
