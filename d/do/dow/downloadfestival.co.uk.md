@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the downloadfestival.co.uk privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601032642id_/http%3A//downloadfestival.co.uk/cookies-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadfestival.co.uk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120143634id_/http%3A//downloadfestival.co.uk/cookies-privacy) for the most accurate reproduction.*
 
-# Cookies & Privacy | Download Festival 2016
+# Cookies & Privacy | Download Festival 2017
 
 ## **Privacy Policy** 
 
