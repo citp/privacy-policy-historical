@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviews.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629164807id_/http%3A//www.reviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviews.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120182218id_/http%3A//www.reviews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Reviews.com
 
@@ -16,7 +16,7 @@ When necessary, our website uses cookies to store information about a user’s p
 
 You can change your browser settings to disable cookies if you have any privacy concerns. Disabling cookies for all sites isn’t recommended because it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. We reserve the right to modify this privacy statement at our discretion. We shall notify you of any changes made by updating the date on this statement, and we recommend you check back regularly to stay informed of any changes.
 
-Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).) For more information, you can visit [Google's Privacy & Terms page](http://www.google.com/policies/privacy/partners/).
+Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).) For more information, you can visit [Google’s Privacy & Terms page](http://www.google.com/policies/privacy/partners/).
 
 ###  Contact Information
 
