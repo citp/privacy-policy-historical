@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cloudberrylab.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412223217id_/http%3A//www.cloudberrylab.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudberrylab.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120101817id_/http%3A//www.cloudberrylab.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# CloudBerry Lab Privacy Policy
+# Privacy Policy | CloudBerry Lab
 
 CloudBerry Lab Ltd. is recognizing the importance of protecting your personal information and is committed to safeguarding your privacy online.
 
