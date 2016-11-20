@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nowtheendbegins.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626170203id_/http%3A//www.nowtheendbegins.com/nteb-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowtheendbegins.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120212306id_/http%3A//www.nowtheendbegins.com/nteb-privacy-policy) for the most accurate reproduction.*
 
 # NTEB Privacy Policy • Now The End Begins
+
+Our site is monitored hourly by 3 very reputable outside sources for safety and reliability: Google, Alexa and Quantcast. This helps us to ensure that your viewing experience when you visit us is safe and fun. If you choose to share personal information with us — by sending us a message, or filling out an electronic form with personal information — we will use the information only for the purpose of responding to your message.
 
 #### Internet Privacy Policy
 
