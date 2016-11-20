@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the soccerincollege.com privacy policy that was archived on 2016-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160612031046id_/http%3A//www.soccerincollege.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the soccerincollege.com privacy policy that was archived on 2016-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120092510id_/http%3A//www.soccerincollege.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head id="ctl00_Head1"><meta charset="utf-8"><meta http-equiv="x-ua-compatible" content="ie=edge"><title>
 
@@ -37,6 +37,10 @@
             }
             $(window).keydown(function (event) {
                 if (event.keyCode == 13 && $('[id$=tbSearch]').is(':focus')) {
+                    event.preventDefault();
+                    return false;
+                }
+                if (event.keyCode == 13 && $('[id$=tbUSARank]').is(':focus')) {
                     event.preventDefault();
                     return false;
                 }
@@ -79,6 +83,19 @@
                     }
                     else
                         eo_Callback('cpSearch', 'people');
+                    e.preventDefault();
+                }
+            });
+            $("#ctl00_tbUSARank").keyup(function (e) {
+                if (e.keyCode == 13) {
+                    // Do something
+
+                    if ($('#ctl00_tbUSARank').val() == "") {
+                        alert("Enter the team's USA Rank ID");
+                        return false;
+                    }
+                    else
+                        eo_Callback('cpSearch', 'usarank');
                     e.preventDefault();
                 }
             });
@@ -206,7 +223,12 @@ ul.eo_list li { list-style: none; margin: 0px; padding: 0px; white-space: nowrap
 .eo_text { font-family: Verdana; font-size: 10px; }
 
 </style>
-</head>
+<style type="text/css">
+.eo_css_ctrl_ctl00_DialogHelp1 {background-color:#fff;border-bottom-width:0px;border-left-width:0px;border-right-width:0px;border-top-width:0px;color:black;font-family:'Segoe UI Light', Tahoma, Helvetica, Arial, Verdana, sans-serif;font-size:18pt;padding-bottom:5px;padding-left:8px;padding-right:3px;padding-top:0}
+.eo_css_ctrl_ctl00_DialogHelp2 {background-color:#fff;border-bottom-width:0;border-left-width:0;border-right-width:0;border-top-width:0;color:#383838;font-family:tahoma;font-size:10pt;padding-bottom:4px;padding-left:4px;padding-right:4px;padding-top:4px}
+.eo_css_ctrl_ctl00_DialogHelp3 {background-color:#d2d2d2;font-family:tahoma;font-size:8pt}
+
+</style></head>
 <body id="ctl00_thebody" class="soccer">
     <form name="aspnetForm" method="post" action="./privacy.aspx" id="aspnetForm">
 <div>
@@ -214,33 +236,40 @@ ul.eo_list li { list-style: none; margin: 0px; padding: 0px; white-space: nowrap
 <input type="hidden" name="eo_cb_id" id="eo_cb_id" value="">
 <input type="hidden" name="ctl00_cpSearch_trigger" id="ctl00_cpSearch_trigger" value="">
 <input type="hidden" name="ctl00_cpSearch_param" id="ctl00_cpSearch_param" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2Ng9kFgJmD2QWBAIBD2QWBAIGDxYCHgRUZXh0BWM8bGluayByZWw9J2ljb24nIHR5cGU9J2ltYWdlL2ljbycgaHJlZj0naHR0cDovL3N0YXRpYy5zb2NjZXJpbmNvbGxlZ2UuY29tL2ltYWdlcy9pY29ucy9zb2NjZXIuaWNvJz5kAgcPFgIfAAX8AzxsaW5rIGhyZWYgPSdodHRwOi8vc3RhdGljLnNvY2NlcmluY29sbGVnZS5jb20vY3NzLzIwMTYuY3NzJyB0eXBlPSd0ZXh0L2NzcycgcmVsPSdzdHlsZXNoZWV0JyAvPg0KIDxsaW5rIHJlbD0nc3R5bGVzaGVldCcgaHJlZj0naHR0cDovL3N0YXRpYy5zb2NjZXJpbmNvbGxlZ2UuY29tL2Nzcy91aS9jdXN0b20vanF1ZXJ5LXVpLTEuOC4yMy5jdXN0b20uY3NzJz4NCjxsaW5rIHJlbD0nc3R5bGVzaGVldCcgaHJlZj0naHR0cDovL3N0YXRpYy5zb2NjZXJpbmNvbGxlZ2UuY29tL2pzL3VpL2pxdWVyeS51aS50aW1lcGlja2VyLmNzcyc+DQo8c2NyaXB0IHR5cGU9J3RleHQvamF2YXNjcmlwdCcgc3JjPSdodHRwOi8vc3RhdGljLnNvY2NlcmluY29sbGVnZS5jb20vanMvMjAxNi5qcz92PTEnPjwvc2NyaXB0Pg0KIDxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0JyBzcmM9J2h0dHA6Ly9zdGF0aWMuc29jY2VyaW5jb2xsZWdlLmNvbS9qcy9zaXRlcHJvL3N1cGVyZmlzaC5qcyc+PC9zY3JpcHQ+DQpkAgMPFgIeBWNsYXNzBQZzb2NjZXIWAgIBD2QWFAIBD2VkAgcPZWQCCQ8WAh8ABf4JPHVsIGlkPSdzaWRlLW1lbnUnPjxsaT48YSBocmVmPScjJz5NeSBBY2NvdW50PC9hPjxkaXYgY2xhc3M9J3NpbmNzcHJpdGUgZnJpZ2h0IG1pbnVzIHNpZGUtdG9nZ2xlJz48L2Rpdj48dWw+PGxpPjxhIGhyZWY9J1RUTG9naW4uYXNweCc+TG9naW4gdG8gdmlldyB5b3VyIGFjY291bnQ8L2E+PC9saT48L3VsPjxsaT48YSBocmVmPScjJz5Tb2NjZXIgaW4gY29sbGVnZTwvYT48ZGl2IGNsYXNzPSdzaW5jc3ByaXRlIGZyaWdodCBtaW51cyBzaWRlLXRvZ2dsZSc+PC9kaXY+PHVsPjxsaT48YSBocmVmPSdzaWNDb2xsZWdlcy5hc3B4Jz5Db2xsZWdlczwvYT48L2xpPjxsaT48YSBocmVmPSdldmVudHMuYXNweCc+VG91cm5hbWVudHM8L2E+PC9saT48bGk+PGEgaHJlZj0nZXZlbnRzLmFzcHg/bGVhZ3Vlcz1ZJz5MZWFndWVzPC9hPjwvbGk+PGxpPjxhIGhyZWY9J3NpY0NsdWJzLmFzcHgnPlRlYW1zPC9hPjwvbGk+PGxpPjxhIGhyZWY9J3NpY0F0aGxldGVzLmFzcHgnPkF0aGxldGVzPC9hPjwvbGk+PC91bD48bGk+PGEgaHJlZj0nIyc+VVNBIFJhbms8L2E+PGRpdiBjbGFzcz0nc2luY3Nwcml0ZSBmcmlnaHQgcGx1cyBzaWRlLXRvZ2dsZSc+PC9kaXY+PHVsIGNsYXNzPSdoaWRlJz48bGk+PGEgaHJlZj0nc2ljUGFnZUluZm8uYXNweD90eXBlPVJBTksnPkhvdyBVU0EgUmFuayB3b3JrczwvYT48L2xpPjxsaT48YSBocmVmPSdzaWNSYW5rLmFzcHgnPlZpZXcgUmFua2luZ3M8L2E+PC9saT48L3VsPjxsaT48YSBocmVmPScjJz5TaW5jU3BvcnRzPC9hPjxkaXYgY2xhc3M9J3NpbmNzcHJpdGUgZnJpZ2h0IHBsdXMgc2lkZS10b2dnbGUnPjwvZGl2Pjx1bCBjbGFzcz0naGlkZSc+PGxpPjxhIGhyZWY9J2h0dHA6Ly9zaW5jbXl0ZWFtLmNvbSc+U2luYyBNeSBUZWFtPC9hPjwvbGk+PGxpPjxhIGhyZWY9J3NpY1RvdXJuYW1lbnRzLmFzcHgnPlVwY29taW5nIEV2ZW50czwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vc2luY3Nwb3J0cy5jb20nPlByb21vdGUgWW91ciBFdmVudDwvYT48L2xpPjwvdWw+PGxpPjxhIGhyZWY9JyMnPkhlbHAgJiBTdXBwb3J0PC9hPjxkaXYgY2xhc3M9J3NpbmNzcHJpdGUgZnJpZ2h0IHBsdXMgc2lkZS10b2dnbGUnPjwvZGl2Pjx1bCBjbGFzcz0naGlkZSc+PGxpPjxhIGhyZWY9J1RUSGVscFNlYXJjaC5hc3B4Jz5TZWFyY2hhYmxlIEhlbHA8L2E+PC9saT48bGk+PGEgaHJlZj0nc2ljU3VwcG9ydC5hc3B4Jz5Db250YWN0IFVzPC9hPjwvbGk+PC91bD48bGk+PGEgaHJlZj0nVFRMb2dpbi5hc3B4Jz5MT0dJTjwvYT48L2xpPjwvdWw+ZAILDw8WAh4LTmF2aWdhdGVVcmwFGC9wcml2YWN5LmFzcHg/Jm1lbnU9aGlkZWRkAg0PFgIfAAVBPGEgaWQ9J2xuZ2xuaycgY2xhc3M9J2ZyaWdodCBsb2dpbicgaHJlZj0nVFRMb2dpbi5hc3B4Jz5Mb2dpbjwvYT5kAg8PFgIfAAUXPGgyPlByaXZhY3kgUG9saWN5PC9oMj5kAhEPZBYCAgMPFgIfAAXCAjxzY3JpcHQgYXN5bmMgc3JjPScvL3BhZ2VhZDIuZ29vZ2xlc3luZGljYXRpb24uY29tL3BhZ2VhZC9qcy9hZHNieWdvb2dsZS5qcycgPjwvc2NyaXB0PjwhLS0gU3BvcnRzX1Jlc3BvbnNpdmUgLS0+PGlucyBDbGFzcz0nYWRzYnlnb29nbGUnIHN0eWxlPSdkaXNwbGF5OmJsb2NrJyBkYXRhLWFkLWNsaWVudD0nY2EtcHViLTMxNTc4ODI0NTY2NjMwMjcnIGRhdGEtYWQtc2xvdD0nOTY5MzcyMTYxNicgZGF0YS1hZC1mb3JtYXQ9J2F1dG8nPjwvaW5zPjxTY3JpcHQ+KGFkc2J5Z29vZ2xlID0gd2luZG93LmFkc2J5Z29vZ2xlIHx8IFtdKS5wdXNoKHt9KTs8L3NjcmlwdD5kAhcPFgIfAAUGU29jY2VyZAIZDxYCHwAFBDIwMTZkAhsPDxYCHgdWaXNpYmxlaGQWAgIBDw9kD2QFlAFCd05xZTBOdmJuUnliMnhKUkRwaWRHNU5aWEpuWlR0UVlYSmhiV1YwWlhJNmJXVnlaMlY5TEh0RGIyNTBjbTlzU1VRNlluUnVRMnhsWVhJN1VHRnlZVzFsZEdWeU9saDlMSHREYjI1MGNtOXNTVVE2WW5SdVJHVnNWRlJNYVhOME8xQmhjbUZ0WlhSbGNqcFlmUUFBFgICAQ9kFgYCAw8QZGQWAWZkAgUPPCsACQBkAgsPZBYCAgMPPCsACwBkZIn9Zp6gOCQfH7vX6r22P6F5EKdx">
+<input type="hidden" name="ctl00_DialogHelp_ctl00_cpHelpPanel_trigger" id="ctl00_DialogHelp_ctl00_cpHelpPanel_trigger" value="">
+<input type="hidden" name="ctl00_DialogHelp_ctl00_cpHelpPanel_param" id="ctl00_DialogHelp_ctl00_cpHelpPanel_param" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2Ng9kFgJmD2QWBAIBD2QWBAIGDxYCHgRUZXh0BWM8bGluayByZWw9J2ljb24nIHR5cGU9J2ltYWdlL2ljbycgaHJlZj0naHR0cDovL3N0YXRpYy5zb2NjZXJpbmNvbGxlZ2UuY29tL2ltYWdlcy9pY29ucy9zb2NjZXIuaWNvJz5kAgcPFgIfAAX8AzxsaW5rIGhyZWYgPSdodHRwOi8vc3RhdGljLnNvY2NlcmluY29sbGVnZS5jb20vY3NzLzIwMTYuY3NzJyB0eXBlPSd0ZXh0L2NzcycgcmVsPSdzdHlsZXNoZWV0JyAvPg0KIDxsaW5rIHJlbD0nc3R5bGVzaGVldCcgaHJlZj0naHR0cDovL3N0YXRpYy5zb2NjZXJpbmNvbGxlZ2UuY29tL2Nzcy91aS9jdXN0b20vanF1ZXJ5LXVpLTEuOC4yMy5jdXN0b20uY3NzJz4NCjxsaW5rIHJlbD0nc3R5bGVzaGVldCcgaHJlZj0naHR0cDovL3N0YXRpYy5zb2NjZXJpbmNvbGxlZ2UuY29tL2pzL3VpL2pxdWVyeS51aS50aW1lcGlja2VyLmNzcyc+DQo8c2NyaXB0IHR5cGU9J3RleHQvamF2YXNjcmlwdCcgc3JjPSdodHRwOi8vc3RhdGljLnNvY2NlcmluY29sbGVnZS5jb20vanMvMjAxNi5qcz92PTEnPjwvc2NyaXB0Pg0KIDxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0JyBzcmM9J2h0dHA6Ly9zdGF0aWMuc29jY2VyaW5jb2xsZWdlLmNvbS9qcy9zaXRlcHJvL3N1cGVyZmlzaC5qcyc+PC9zY3JpcHQ+DQpkAgMPFgIeBWNsYXNzBQZzb2NjZXIWAgIBD2QWGAIBD2VkAgkPZWQCCw8WAh8ABYoKPHVsIGlkPSdzaWRlLW1lbnUnPjxsaT48YSBocmVmPScjJz5NeSBBY2NvdW50PC9hPjxkaXYgY2xhc3M9J3NpbmNzcHJpdGUgZnJpZ2h0IG1pbnVzIHNpZGUtdG9nZ2xlJz48L2Rpdj48dWw+PGxpPjxhIGhyZWY9Jy9UVExvZ2luLmFzcHgnPkxvZ2luIHRvIHZpZXcgeW91ciBhY2NvdW50PC9hPjwvbGk+PC91bD48bGk+PGEgaHJlZj0nIyc+U29jY2VyIGluIGNvbGxlZ2U8L2E+PGRpdiBjbGFzcz0nc2luY3Nwcml0ZSBmcmlnaHQgbWludXMgc2lkZS10b2dnbGUnPjwvZGl2Pjx1bD48bGk+PGEgaHJlZj0nL3NpY0NvbGxlZ2VzLmFzcHgnPkNvbGxlZ2VzPC9hPjwvbGk+PGxpPjxhIGhyZWY9Jy9ldmVudHMuYXNweCc+VG91cm5hbWVudHM8L2E+PC9saT48bGk+PGEgaHJlZj0nL2V2ZW50cy5hc3B4P2xlYWd1ZXM9WSc+TGVhZ3VlczwvYT48L2xpPjxsaT48YSBocmVmPScvc2ljQ2x1YnMuYXNweCc+VGVhbXM8L2E+PC9saT48bGk+PGEgaHJlZj0nL3NpY0F0aGxldGVzLmFzcHgnPkF0aGxldGVzPC9hPjwvbGk+PC91bD48bGk+PGEgaHJlZj0nIyc+VVNBIFJhbms8L2E+PGRpdiBjbGFzcz0nc2luY3Nwcml0ZSBmcmlnaHQgcGx1cyBzaWRlLXRvZ2dsZSc+PC9kaXY+PHVsIGNsYXNzPSdoaWRlJz48bGk+PGEgaHJlZj0nL3NpY1BhZ2VJbmZvLmFzcHg/dHlwZT1SQU5LJz5Ib3cgVVNBIFJhbmsgd29ya3M8L2E+PC9saT48bGk+PGEgaHJlZj0nL3NpY1JhbmsuYXNweCc+VmlldyBSYW5raW5nczwvYT48L2xpPjwvdWw+PGxpPjxhIGhyZWY9JyMnPlNpbmNTcG9ydHM8L2E+PGRpdiBjbGFzcz0nc2luY3Nwcml0ZSBmcmlnaHQgcGx1cyBzaWRlLXRvZ2dsZSc+PC9kaXY+PHVsIGNsYXNzPSdoaWRlJz48bGk+PGEgaHJlZj0naHR0cDovL3NpbmNteXRlYW0uY29tJz5TaW5jIE15IFRlYW08L2E+PC9saT48bGk+PGEgaHJlZj0nL3NpY1RvdXJuYW1lbnRzLmFzcHgnPlVwY29taW5nIEV2ZW50czwvYT48L2xpPjxsaT48YSBocmVmPSdodHRwOi8vc2luY3Nwb3J0cy5jb20nPlByb21vdGUgWW91ciBFdmVudDwvYT48L2xpPjwvdWw+PGxpPjxhIGhyZWY9JyMnPkhlbHAgJiBTdXBwb3J0PC9hPjxkaXYgY2xhc3M9J3NpbmNzcHJpdGUgZnJpZ2h0IHBsdXMgc2lkZS10b2dnbGUnPjwvZGl2Pjx1bCBjbGFzcz0naGlkZSc+PGxpPjxhIGhyZWY9Jy9UVEhlbHBTZWFyY2guYXNweCc+U2VhcmNoYWJsZSBIZWxwPC9hPjwvbGk+PGxpPjxhIGhyZWY9Jy9zaWNTdXBwb3J0LmFzcHgnPkNvbnRhY3QgVXM8L2E+PC9saT48L3VsPjxsaT48YSBocmVmPScvVFRMb2dpbi5hc3B4Jz5MT0dJTjwvYT48L2xpPjwvdWw+ZAINDw8WAh4LTmF2aWdhdGVVcmwFGC9wcml2YWN5LmFzcHg/Jm1lbnU9aGlkZWRkAg8PFgIfAAVCPGEgaWQ9J2xuZ2xuaycgY2xhc3M9J2ZyaWdodCBsb2dpbicgaHJlZj0nL1RUTG9naW4uYXNweCc+TG9naW48L2E+ZAIRDxYCHwAFFzxoMj5Qcml2YWN5IFBvbGljeTwvaDI+ZAITD2QWAgIDDxYCHwAFwgI8c2NyaXB0IGFzeW5jIHNyYz0nLy9wYWdlYWQyLmdvb2dsZXN5bmRpY2F0aW9uLmNvbS9wYWdlYWQvanMvYWRzYnlnb29nbGUuanMnID48L3NjcmlwdD48IS0tIFNwb3J0c19SZXNwb25zaXZlIC0tPjxpbnMgQ2xhc3M9J2Fkc2J5Z29vZ2xlJyBzdHlsZT0nZGlzcGxheTpibG9jaycgZGF0YS1hZC1jbGllbnQ9J2NhLXB1Yi0zMTU3ODgyNDU2NjYzMDI3JyBkYXRhLWFkLXNsb3Q9Jzk2OTM3MjE2MTYnIGRhdGEtYWQtZm9ybWF0PSdhdXRvJz48L2lucz48U2NyaXB0PihhZHNieWdvb2dsZSA9IHdpbmRvdy5hZHNieWdvb2dsZSB8fCBbXSkucHVzaCh7fSk7PC9zY3JpcHQ+ZAIVD2QWAgIDD2QWAgIBDxYCHwAFwgI8c2NyaXB0IGFzeW5jIHNyYz0nLy9wYWdlYWQyLmdvb2dsZXN5bmRpY2F0aW9uLmNvbS9wYWdlYWQvanMvYWRzYnlnb29nbGUuanMnID48L3NjcmlwdD48IS0tIFNwb3J0c19SZXNwb25zaXZlIC0tPjxpbnMgQ2xhc3M9J2Fkc2J5Z29vZ2xlJyBzdHlsZT0nZGlzcGxheTpibG9jaycgZGF0YS1hZC1jbGllbnQ9J2NhLXB1Yi0zMTU3ODgyNDU2NjYzMDI3JyBkYXRhLWFkLXNsb3Q9JzY4NjA0NTIwMTYnIGRhdGEtYWQtZm9ybWF0PSdhdXRvJz48L2lucz48U2NyaXB0PihhZHNieWdvb2dsZSA9IHdpbmRvdy5hZHNieWdvb2dsZSB8fCBbXSkucHVzaCh7fSk7PC9zY3JpcHQ+ZAIZDxYCHwAFBlNvY2NlcmQCGw8WAh8ABQQyMDE2ZAIdDw8WAh4HVmlzaWJsZWhkFgICAQ8PZA9kBZQBQndOcWUwTnZiblJ5YjJ4SlJEcGlkRzVOWlhKblpUdFFZWEpoYldWMFpYSTZiV1Z5WjJWOUxIdERiMjUwY205c1NVUTZZblJ1UTJ4bFlYSTdVR0Z5WVcxbGRHVnlPbGg5TEh0RGIyNTBjbTlzU1VRNlluUnVSR1ZzVkZSTWFYTjBPMUJoY21GdFpYUmxjanBZZlFBQRYCAgEPZBYGAgMPEGRkFgFmZAIFDzwrAAkAZAILD2QWAgIDDzwrAAsAZAIhDw9kDw9kBbQCQUFNYWZpOXBiV0ZuWlhNdk1qQXhNeTl0YjJSaGJDOTBiQzV3Ym1jQ0F4bCtMMmx0WVdkbGN5OHlNREV6TDIxdlpHRnNMM1F1Y0c1bkJBTWFmaTlwYldGblpYTXZNakF4TXk5dGIyUmhiQzkwY2k1d2JtY0hBeGwrTDJsdFlXZGxjeTh5TURFekwyMXZaR0ZzTDJ3dWNHNW5DQU1aZmk5cGJXRm5aWE12TWpBeE15OXRiMlJoYkM5eUxuQnVad3NER240dmFXMWhaMlZ6THpJd01UTXZiVzlrWVd3dlltd3VjRzVuRFFNWmZpOXBiV0ZuWlhNdk1qQXhNeTl0YjJSaGJDOWlMbkJ1Wnc4REduNHZhVzFoWjJWekx6SXdNVE12Ylc5a1lXd3ZZbkl1Y0c1bkFBQT08KwAOAQAFPERBTUZZbXhoWTJzTkFqSUFBQUEyQVQwREdINHZhVzFoWjJWekwyTnNiM05sUkdsaGJHOW5MbkJ1WndBQRYCZg9kFgICAQ9lZGTVS+XSLK3Qt2BdFQdi+/Tw9a04Jg==">
 </div>
 
 
 <script type="text/javascript">
 //<![CDATA[
-if (typeof(EO167)=='undefined'){EO167=new Object();EO167.f=new Object();EO167.g=new Object();EO167.r=new Object();EO167.g.a=EO167.r;EO167.r.getVersion=function(){return "16.7";};EO167.r.getLoader=function(){return typeof(EO167.g.d)!='undefined'?EO167.g.d:null;};EO167.r.getNS=function(){return "EO167";};};
-EO167.r.product='EO.Web';
-EO167.r.form='aspnetForm';
-EO167.r.autoInit=false;
-EO167.r.handlerUrl='/eo_web.ashx';
+if (typeof(EO16168)=='undefined'){EO16168=new Object();EO16168.f=new Object();EO16168.g=new Object();EO16168.r=new Object();EO16168.g.a=EO16168.r;EO16168.r.getVersion=function(){return "16.168";};EO16168.r.getLoader=function(){return typeof(EO16168.g.d)!='undefined'?EO16168.g.d:null;};EO16168.r.getNS=function(){return "EO16168";};};
+EO16168.r.product='EO.Web';
+EO16168.r.form='aspnetForm';
+EO16168.r.autoInit=false;
+EO16168.r.handlerUrl='/eo_web.ashx';
 
 //]]>
 </script>
-<script type="text/javascript" src="/eo_web.ashx?id=1cb270fd-e118-4ecb-a6dd-2e96bfebd7ec"></script>
-<script type="text/javascript" src="/eo_web.ashx?id=6571ddef-c74d-4096-9349-d3cac248966d"></script>
-<script type="text/javascript" src="/eo_web.ashx?id=36826dd2-5472-4575-b8f4-0cb961915262"></script>
-<script type="text/javascript" src="/eo_web.ashx?id=ff4a108b-2161-4c94-8961-c4cc5c8b0763"></script>
-<script type="text/javascript" src="/eo_web.ashx?id=a4ee9aa1-ce5b-4b62-baeb-0b46939ca15a"></script><div id="eo_root"></div>
+<script type="text/javascript" src="/eo_web.ashx?id=43031359-49ff-430e-a1fe-85ae85809f7b"></script>
+<script type="text/javascript" src="/eo_web.ashx?id=c0f4c021-f409-42cd-ba7a-a8af58410698"></script>
+<script type="text/javascript" src="/eo_web.ashx?id=d6018fe8-7b57-4ab8-8e32-821199e6e3cd"></script>
+<script type="text/javascript" src="/eo_web.ashx?id=b3776fc1-7baf-4c06-bcff-1ce6f6b089bf"></script>
+<script type="text/javascript" src="/eo_web.ashx?id=5db0cc13-2dc0-470e-b409-1eede4f399fa"></script><div id="eo_root"></div>
+<script type="text/javascript" src="/eo_web.ashx?id=1f127de0-4113-4b6d-859e-f1e94bd50225"></script>
+<script type="text/javascript" src="/eo_web.ashx?id=fc3dd609-67a7-47ba-8628-2cca4dd3d68a"></script>
+<script type="text/javascript" src="/eo_web.ashx?id=b3c9356f-70c9-439e-bdc9-b9305b97ae68"></script>
+<script type="text/javascript" src="/eo_web.ashx?id=9a9b1715-9b02-4b53-8ce8-c0186e97f03f"></script>
+<script type="text/javascript" src="/eo_web.ashx?id=870de0e0-6b40-493d-8abf-e11d09a3b03c"></script>
     
 <!-- Begin EO.Web ScriptManager eosm.  -->
-<div style="position:absolute; top:-1000px;"><input type="hidden" name="eo_version" value="16.0.7.0"><input type="hidden" name="eo_style_keys" value="/wFk"><input type="hidden" name="__eo_obj_states"></div>
+<div style="position:absolute; top:-1000px;"><input type="hidden" name="eo_version" value="16.1.68.0"><input type="hidden" name="eo_style_keys" value="/wFk"><input type="hidden" name="__eo_obj_states"></div>
 <script type="text/javascript">
 //<![CDATA[
-EO167.r.product='EO.Web';
-EO167.r.debug=-1;
-EO167.r.aspnet11=0;
+EO16168.r.product='EO.Web';
+EO16168.r.debug=0;
+EO16168.r.aspnet11=0;
 var eo_culture_i=eval('({"name":"","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":".","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":",","CurrencySymbol":"\u00A4","NaNSymbol":"NaN","CurrencyNegativePattern":0,"NumberNegativePattern":1,"PercentPositivePattern":0,"PercentNegativePattern":0,"NegativeInfinitySymbol":"-Infinity","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":".","NumberGroupSeparator":",","CurrencyPositivePattern":0,"PositiveInfinitySymbol":"Infinity","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":".","PercentGroupSeparator":",","PercentSymbol":"%","PerMilleSymbol":"\u2030","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"AM","Calendar":{"MinSupportedDateTime":"@-62135568000000@","MaxSupportedDateTime":"@253402300799999@","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":"/","FirstDayOfWeek":0,"CalendarWeekRule":0,"FullDateTimePattern":"dddd, dd MMMM yyyy HH:mm:ss","LongDatePattern":"dddd, dd MMMM yyyy","LongTimePattern":"HH:mm:ss","MonthDayPattern":"MMMM dd","PMDesignator":"PM","RFC1123Pattern":"ddd, dd MMM yyyy HH\':\'mm\':\'ss \'GMT\'","ShortDatePattern":"MM/dd/yyyy","ShortTimePattern":"HH:mm","SortableDateTimePattern":"yyyy\'-\'MM\'-\'dd\'T\'HH\':\'mm\':\'ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\'-\'MM\'-\'dd HH\':\'mm\':\'ss\'Z\'","YearMonthPattern":"yyyy MMMM","AbbreviatedDayNames":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"ShortestDayNames":["Su","Mo","Tu","We","Th","Fr","Sa"],"DayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"AbbreviatedMonthNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthNames":["January","February","March","April","May","June","July","August","September","October","November","December",""],"IsReadOnly":true,"NativeCalendarName":"Gregorian Calendar","AbbreviatedMonthGenitiveNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthGenitiveNames":["January","February","March","April","May","June","July","August","September","October","November","December",""]}})');//eo_culture_i
 var eo_culture=eval('({"name":"en-US","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":".","IsReadOnly":false,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":",","CurrencySymbol":"$","NaNSymbol":"NaN","CurrencyNegativePattern":0,"NumberNegativePattern":1,"PercentPositivePattern":0,"PercentNegativePattern":0,"NegativeInfinitySymbol":"-Infinity","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":".","NumberGroupSeparator":",","CurrencyPositivePattern":0,"PositiveInfinitySymbol":"Infinity","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":".","PercentGroupSeparator":",","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"AM","Calendar":{"MinSupportedDateTime":new Date(-62135568000000),"MaxSupportedDateTime":new Date(253402300799999),"AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":false},"DateSeparator":"/","FirstDayOfWeek":0,"CalendarWeekRule":0,"FullDateTimePattern":"dddd, MMMM dd, yyyy h:mm:ss tt","LongDatePattern":"dddd, MMMM dd, yyyy","LongTimePattern":"h:mm:ss tt","MonthDayPattern":"MMMM dd","PMDesignator":"PM","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"M/d/yyyy","ShortTimePattern":"h:mm tt","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM, yyyy","AbbreviatedDayNames":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"ShortestDayNames":["Su","Mo","Tu","We","Th","Fr","Sa"],"DayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"AbbreviatedMonthNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthNames":["January","February","March","April","May","June","July","August","September","October","November","December",""],"IsReadOnly":false,"NativeCalendarName":"Gregorian Calendar","AbbreviatedMonthGenitiveNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthGenitiveNames":["January","February","March","April","May","June","July","August","September","October","November","December",""]}})');//eo_culture
 
@@ -258,7 +287,8 @@ var eo_culture=eval('({"name":"en-US","numberFormat":{"CurrencyDecimalDigits":2,
             </div>
             
             
-            <table id="ctl00_cpSearch">
+            <input name="ctl00$tbUSARank" type="text" id="ctl00_tbUSARank" class="tbSearch" placeholder="Find team by USA Rank ID ###-###">
+            <table id="ctl00_cpSearch" style="width:100%;width:100%;">
 	<tbody>
 		<tr>
 			<td>             
@@ -269,11 +299,11 @@ var eo_culture=eval('({"name":"en-US","numberFormat":{"CurrencyDecimalDigits":2,
 </table>
 <script type="text/javascript">
 //<![CDATA[
-EO167.g.d.k("i|c", function(){EO167.g.b.ctl00_cpSearch=1;EO167.r._o_ctl00_cpSearch=EO167.f.acf(EO167.r._o_ctl00_cpSearch,"cpSearch",new EO167.f.aaud([[,"ctl00_cpSearch","Callback","ctl00$cpSearch",,,,,,,"__doPostBack(\'ctl00$cpSearch\',\'_eo_arg_\')"],,"__doPostBack(\'ctl00$cpSearch\',\'\')",,,,,,[],"<div class=\'loading\'></div>",,,,,,,0,0]),"Callback");EO167.f.ahl(EO167.r._o_ctl00_cpSearch,1,null, 0);});
+EO16168.g.d.k("i|c", function(){EO16168.g.b.ctl00_cpSearch=1;EO16168.r._o_ctl00_cpSearch=EO16168.f.acf(EO16168.r._o_ctl00_cpSearch,"cpSearch",new EO16168.f.aaue([[,"ctl00_cpSearch","Callback","ctl00$cpSearch",,,,,,,"__doPostBack(\'ctl00$cpSearch\',\'_eo_arg_\')"],,"__doPostBack(\'ctl00$cpSearch\',\'\')",,,,,,[],"<div class=\'loading\'></div>",,,,,,,,0]),"Callback");EO16168.f.ahm(EO16168.r._o_ctl00_cpSearch,1,null, 0);});
 //]]>
 </script>
 
-            <ul id="side-menu"><li><a href="#">My Account</a><div class="sincsprite fright minus side-toggle"></div><ul><li><a href="TTLogin.aspx">Login to view your account</a></li></ul></li><li><a href="#">Soccer in college</a><div class="sincsprite fright minus side-toggle"></div><ul><li><a href="sicColleges.aspx">Colleges</a></li><li><a href="events.aspx">Tournaments</a></li><li><a href="events.aspx?leagues=Y">Leagues</a></li><li><a href="sicClubs.aspx">Teams</a></li><li><a href="sicAthletes.aspx">Athletes</a></li></ul></li><li><a href="#">USA Rank</a><div class="sincsprite fright plus side-toggle"></div><ul class="hide"><li><a href="sicPageInfo.aspx?type=RANK">How USA Rank works</a></li><li><a href="sicRank.aspx">View Rankings</a></li></ul></li><li><a href="#">SincSports</a><div class="sincsprite fright plus side-toggle"></div><ul class="hide"><li><a href="http://sincmyteam.com">Sinc My Team</a></li><li><a href="sicTournaments.aspx">Upcoming Events</a></li><li><a href="http://sincsports.com">Promote Your Event</a></li></ul></li><li><a href="#">Help &amp; Support</a><div class="sincsprite fright plus side-toggle"></div><ul class="hide"><li><a href="TTHelpSearch.aspx">Searchable Help</a></li><li><a href="sicSupport.aspx">Contact Us</a></li></ul></li><li><a href="TTLogin.aspx">LOGIN</a></li></ul>
+            <ul id="side-menu"><li><a href="#">My Account</a><div class="sincsprite fright minus side-toggle"></div><ul><li><a href="/TTLogin.aspx">Login to view your account</a></li></ul></li><li><a href="#">Soccer in college</a><div class="sincsprite fright minus side-toggle"></div><ul><li><a href="/sicColleges.aspx">Colleges</a></li><li><a href="/events.aspx">Tournaments</a></li><li><a href="/events.aspx?leagues=Y">Leagues</a></li><li><a href="/sicClubs.aspx">Teams</a></li><li><a href="/sicAthletes.aspx">Athletes</a></li></ul></li><li><a href="#">USA Rank</a><div class="sincsprite fright plus side-toggle"></div><ul class="hide"><li><a href="/sicPageInfo.aspx?type=RANK">How USA Rank works</a></li><li><a href="/sicRank.aspx">View Rankings</a></li></ul></li><li><a href="#">SincSports</a><div class="sincsprite fright plus side-toggle"></div><ul class="hide"><li><a href="http://sincmyteam.com">Sinc My Team</a></li><li><a href="/sicTournaments.aspx">Upcoming Events</a></li><li><a href="http://sincsports.com">Promote Your Event</a></li></ul></li><li><a href="#">Help &amp; Support</a><div class="sincsprite fright plus side-toggle"></div><ul class="hide"><li><a href="/TTHelpSearch.aspx">Searchable Help</a></li><li><a href="/sicSupport.aspx">Contact Us</a></li></ul></li><li><a href="/TTLogin.aspx">LOGIN</a></li></ul>
 
             <div id="hideMe">
                 <div>
@@ -286,7 +316,7 @@ EO167.g.d.k("i|c", function(){EO167.g.b.ctl00_cpSearch=1;EO167.r._o_ctl00_cpSear
                 <div class="p5_10">
                 <div id="menu-open" class="sincsprite menu-large fleft"></div>
                
-                <a id="lnglnk" class="fright login" href="TTLogin.aspx">Login</a>
+                <a id="lnglnk" class="fright login" href="/TTLogin.aspx">Login</a>
                 <a href="/Default.aspx">
                 <img src="/images/blank.gif" class="center-s sincsprite sinc-long"></a>
                 <div class="sincsprite sinc-logo center-margin hide"></div>
@@ -344,7 +374,7 @@ EO167.g.d.k("i|c", function(){EO167.g.b.ctl00_cpSearch=1;EO167.r._o_ctl00_cpSear
 
 </div>
 
-
+<input name="ctl00$ContentPlaceHolder1$ThisPageMasterFile" type="text" value="/Sinc5.master" id="ctl00_ContentPlaceHolder1_ThisPageMasterFile" style="display:none;">
                     <div class="bottomads">
                         <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Sports_Responsive --><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3157882456663027" data-ad-slot="9693721616" data-ad-format="auto"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
                     </div>
@@ -371,7 +401,7 @@ EO167.g.d.k("i|c", function(){EO167.g.b.ctl00_cpSearch=1;EO167.r._o_ctl00_cpSear
                     <div id="pnlBelowQL">
                     <div id="ctl00_pnlGAd">
 		
-                        
+                        <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Sports_Responsive --><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3157882456663027" data-ad-slot="6860452016" data-ad-format="auto"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
                     
 	</div>
                     
@@ -421,7 +451,7 @@ EO167.g.d.k("i|c", function(){EO167.g.b.ctl00_cpSearch=1;EO167.r._o_ctl00_cpSear
 					            <li><a href="http://blog.sincsports.com" target="_blank"><img src="/images/sitepro/icons/35x35/wordpress.png" alt=""></a></li>
 					            <li><a href="http://twitter.com/sincme" target="_blank"><img src="/images/sitepro/icons/35x35/twitter.png" alt=""></a></li>
 				            </ul>
-                            <p class="color1 privacy" style="padding-top:20px;">© 2016<span>|</span><a href="privacy.aspx">Privacy Policy</a></p>
+                            <p class="color1 privacy" style="padding-top:20px;">© 2016<span>|</span><a href="/privacy.aspx">Privacy Policy</a></p>
 			            </div>
 	                </div>
                 </div>
@@ -440,6 +470,49 @@ EO167.g.d.k("i|c", function(){EO167.g.b.ctl00_cpSearch=1;EO167.r._o_ctl00_cpSear
     </div>
 </div>
    
+        
+<!-- Begin EO.Web Dialog DialogHelp.  -->
+
+<script type="text/javascript">
+//<![CDATA[
+EO16168.f.asv();
+//]]>
+</script>
+<table id="ctl00_DialogHelp_bdt" cellspacing="0" cellpadding="0" border="0" style="display:none"><tbody><tr><td style="font-size:1px"><img src="/images/2013/modal/tl.png" alt="" tabindex="-1"></td><td style="background-image:url('/images/2013/modal/t.png');background-repeat:repeat-x;font-size:1px;"></td><td style="font-size:1px"><img src="/images/2013/modal/tr.png" alt="" tabindex="-1"></td></tr><tr><td style="background-image:url('/images/2013/modal/l.png');background-repeat:repeat-y;font-size:1px;" valign="top"></td><td><table id="ctl00_DialogHelp" border="0" class="eo_no_border_spacing" style="display:none;">
+	<tbody><tr><td align="left"><div id="ctl00_DialogHelp_headerDiv" class="eo_css_ctrl_ctl00_DialogHelp1"><div style="position:relative;z-index:2;"><div id="ctl00_DialogHelp_headerHtml"></div><table id="ctl00_DialogHelp_headerTableR" border="0" cellspacing="0" cellpadding="0" style="position:absolute;right:0px;top:0px;"><tbody><tr><td valign="middle"><img id="ctl00_DialogHelp_close" alt="" src="/images/closeDialog.png"></td></tr></tbody></table></div></div></td></tr><tr><td valign="top"><table id="ctl00_DialogHelp_contentTable" border="0" style="width:100%;height:100%;" class="eo_no_border_spacing"><tbody><tr><td height="100%" class="eo_css_ctrl_ctl00_DialogHelp2" align="left" valign="top">
+	            <table id="ctl00_DialogHelp_ctl00_cpHelpPanel">
+		<tbody>
+			<tr>
+				<td>
+	            <div id="hpdiv" style="max-height:550px; overflow:auto;display:none;">
+	            <br>
+	            </div>
+	            </td>
+			</tr>
+		</tbody>
+	</table>
+<script type="text/javascript">
+//<![CDATA[
+EO16168.g.d.k("i|c", function(){EO16168.g.b.ctl00_DialogHelp_ctl00_cpHelpPanel=1;EO16168.r._o_ctl00_DialogHelp_ctl00_cpHelpPanel=EO16168.f.acf(EO16168.r._o_ctl00_DialogHelp_ctl00_cpHelpPanel,"cpHelpPanel",new EO16168.f.aaue([[,"ctl00_DialogHelp_ctl00_cpHelpPanel","Callback","ctl00$DialogHelp$ctl00$cpHelpPanel",,,,,,,"__doPostBack(\'ctl00$DialogHelp$ctl00$cpHelpPanel\',\'_eo_arg_\')"],,"__doPostBack(\'ctl00$DialogHelp$ctl00$cpHelpPanel\',\'\')",,,,,,[],"<div class=\'loading\'></div>",,,,,,,0,0]),"Callback");EO16168.f.ahm(EO16168.r._o_ctl00_DialogHelp_ctl00_cpHelpPanel,1,null, 0);});
+//]]>
+</script>
+
+	        </td></tr></tbody></table></td></tr><tr><td><div id="ctl00_DialogHelp_footerDiv" style="position:relative;width:auto;"><table id="ctl00_DialogHelp_footerTable" border="0" cellspacing="0" cellpadding="0" style="width:100%;"><tbody><tr><td id="ctl00_DialogHelp_footer" class="eo_align_center eo_css_ctrl_ctl00_DialogHelp3"></td></tr></tbody></table></div></td></tr>
+</tbody></table></td><td style="background-image:url('/images/2013/modal/r.png');background-repeat:repeat-y;font-size:1px;" valign="top"></td></tr><tr><td style="font-size:1px"><img src="/images/2013/modal/bl.png" alt="" tabindex="-1"></td><td style="background-image:url('/images/2013/modal/b.png');background-repeat:repeat-x;font-size:1px;"></td><td style="font-size:1px"><img src="/images/2013/modal/br.png" alt="" tabindex="-1"></td></tr></tbody></table>
+<script type="text/javascript">
+//<![CDATA[
+EO16168.g.d.k("ldr|i|fmt|u|ei|e|pop|dd|c|dg", function(){EO16168.g.b.ctl00_DialogHelp=1;EO16168.r._o_ctl00_DialogHelp=EO16168.f.acf(EO16168.r._o_ctl00_DialogHelp,"DialogHelp",new EO16168.f.bak([[[,"ctl00_DialogHelp","Dialog","ctl00$DialogHelp",,,,,,,"__doPostBack(\'ctl00$DialogHelp\',\'_eo_arg_\')"],["/images/2013/modal/tl.png","/images/2013/modal/t.png","/images/2013/modal/tr.png","/images/2013/modal/l.png","/images/2013/modal/r.png","/images/2013/modal/bl.png","/images/2013/modal/b.png","/images/2013/modal/br.png"],,,,,,,,[]],"black",50,,,,,,,,"eo_css_ctrl_ctl00_DialogHelp1","eo_css_ctrl_ctl00_DialogHelp1",,"eo_css_ctrl_ctl00_DialogHelp2",,,,,,,,,,,,,,,,,,"eo_css_ctrl_ctl00_DialogHelp3",,,,,,,,,,,,,,,,"ctl00_DialogHelp_ctl00","ctl00_DialogHelp_ctl01",,"/images/closeDialog.png"]),"Dialog");EO16168.f.ahm(EO16168.r._o_ctl00_DialogHelp,1,0, 0);});
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+EO16168.f.asw();
+//]]>
+</script>
+
+<!-- End EO.Web Dialog DialogHelp.  -->
+ 
 
     
         
@@ -448,6 +521,7 @@ EO167.g.d.k("i|c", function(){EO167.g.b.ctl00_cpSearch=1;EO167.r._o_ctl00_cpSear
 <div>
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EAA40B43">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAOsvfJaGhzsoPRih7Beusp9hoE1o4k+4gYtfggFebvWnl0gVji2DFsylru7pTBuocEVGe+0XjjjIVTr4+BNCushaDo20g==">
 </div></form>
 
 
