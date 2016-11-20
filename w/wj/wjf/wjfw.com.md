@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wjfw.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515085108id_/http%3A//www.wjfw.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wjfw.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120030312id_/http%3A//www.wjfw.com/privacypolicy.html) for the most accurate reproduction.*
 
 # WJFW TV-12, WJFWDT 12.1 and Newswatch 12 - Your Northwoods News Leader and NBC Affiliate - Rhinelander Wisconsin
 
