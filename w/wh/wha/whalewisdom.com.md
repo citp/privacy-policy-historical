@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whalewisdom.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401014850id_/http%3A//whalewisdom.com/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whalewisdom.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120034935id_/http%3A//whalewisdom.com/info/privacy_policy) for the most accurate reproduction.*
 
 # Whale Wisdom user privacy policy
 
