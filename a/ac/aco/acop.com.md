@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609184417id_/http%3A//www.acop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120103444id_/http%3A//www.acop.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | American Consumer Opinion Panel
 
@@ -11,12 +11,12 @@ The American Consumer Opinion Panel® and www.acop.com are owned and operated by
   * [Council of American Survey Research Organizations (CASRO)](http://www.casro.org/?page=TheCASROCode)
   * [Marketing Research Association (MRA)](http://www.mra-net.org/)
   * [ESOMAR (The World Association of Research Professionals)](http://www.esomar.org/)
+  * [EU Privacy Shield](https://www.privacyshield.gov/)
+  * [US - Swiss Safe Harbor](http://2016.export.gov/safeharbor/)
 
 
 
 ### The American Consumer Opinion Panel® BELIEVES THAT ITS MEMBERS HAVE AN INALIENABLE RIGHT TO PRIVACY. WE PROTECT YOUR PRIVACY BY ADHERING TO THESE STANDARDS:
-
-Safe Harbor Privacy Principles as developed by the U.S. Department of Commerce in consultation with the European Commission. 
 
   * [Children's Online Privacy Protection Act](http://www.business.ftc.gov/privacy-and-security/childrens-privacy) issued by the Federal Trade Commission (FTC). 
   * [Council of American Survey Research Organizations (CASRO)](http://www.casro.org/?page=TheCASROCode) Standards. 
@@ -24,9 +24,17 @@ Safe Harbor Privacy Principles as developed by the U.S. Department of Commerce i
 
 
 
-Decision Analyst, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Decision Analyst, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Decision Analyst, Inc.'s certification, please visit <http://www.export.gov/safeharbor/>. 
+Privacy Sheild Principals as developed by the U.S. Department of Commerce in consultation with the European Commission. 
 
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, Decision Analyst commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Decision Analyst at: 
+  * [EU Privacy Shield](https://www.privacyshield.gov/)
+  * [US - Swiss Safe Harbor](http://2016.export.gov/safeharbor/)
+
+  
+_EU-US Privacy Shield Framework_
+
+Decision Analyst complies with the EU-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Decision Analyst has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
+
+In compliance with the EU-US Privacy Shield Principles, Decision Analyst commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact Decision Analyst at: 
 
 Internet Operations Department   
 Decision Analyst, Inc.   
@@ -37,7 +45,28 @@ Within the U.S., 1-817-649-5241
 International, 1-817-640-6166   
 Email: [privacy@decisionanalyst.com](mailto:privacy@decisionanalyst.com?subject=Question%20Regarding%20American%20Consumer%20Opinion%20Panel%20Privacy%20Policy)
 
-Decision Analyst has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Decision Analyst, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/council/eusafeharbor/bbb-eu-safe-harbor-dispute-resolution-program) for more information and to file a complaint.
+Decision Analyst has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.  
+
+
+Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
+
+Decision Analyst submits to being subject to the investigatory and enforcement powers of the FTC, the Department of Transportation, or any other U.S. authorized statutory body with regards to our self-certification and implementation of the Principles, and acknowledges the right of the EU individual, under certain conditions, to invoke binding arbitration, at no cost to the individual, in filing a complaint disputing Decision Analyst’s adherence to these practices. We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements. In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Decision Analyst is potentially liable.
+
+_US-Swiss Safe Harbor Framework_
+
+Decision Analyst complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. Decision Analyst has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit http://www.export.gov/safeharbor/.
+
+In compliance with the US-Swiss Safe Harbor Principles, Decision Analyst commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Decision Analyst at:
+
+Internet Operations Department   
+Decision Analyst, Inc.   
+604 Avenue H East Arlington, Texas 76011   
+Phone numbers:   
+Within the U.S., 1-817-649-5241   
+International, 1-817-640-6166   
+Email: [privacy@decisionanalyst.com](mailto:privacy@decisionanalyst.com?subject=Question%20Regarding%20American%20Consumer%20Opinion%20Panel%20Privacy%20Policy)
+
+Decision Analyst has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints]() for more information and to file a complaint.
 
 Back to top
 
