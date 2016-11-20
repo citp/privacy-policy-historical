@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azstarnet.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611235605id_/http%3A//tucson.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azstarnet.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120184200id_/http%3A//tucson.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | tucson.com
 
