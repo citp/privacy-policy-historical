@@ -1,7 +1,674 @@
-<!--The following is the downloaded HTML source of the altdriver.com privacy policy that was archived on 2015-09-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150910234119id_/http%3A//www.altdriver.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the altdriver.com privacy policy that was archived on 2016-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120185601id_/http%3A//altdriver.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><!--<![endif]--><head><meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYDU15bABAHUlJTDwYO"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script><link type="text/css" media="all" href="http://2e3k4o242jj84difhk2rzy6v.wpengine.netdna-cdn.com/wp-content/cache/autoptimize/css/autoptimize_7e982e744e79124b9bc2faf36dda318a.css" rel="stylesheet"><title>Privacy Policy - alt_driver</title><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="pingback" href="http://www.altdriver.com/xmlrpc.php"><link rel="canonical" href="http://www.altdriver.com/privacy-policy/"><meta property="og:locale" content="en_US"><meta property="og:type" content="article"><meta property="og:title" content="Privacy Policy - alt_driver"><meta property="og:description" content="Effective Date: October 1, 2014 Thank you for your interest in alt_driver. We respect the privacy of our users when they use our websites, mobile and other online applications and products and services (collectively, the “alt_driver Sites”). By using the alt_driver Sites, you consent to the use of your information and information about you inRead More"><meta property="og:url" content="http://www.altdriver.com/privacy-policy/"><meta property="og:site_name" content="alt_driver"><meta property="article:publisher" content="http://facebook.com/altdriver"><meta property="article:author" content="http://facebook.com/altdriver"><meta property="fb:app_id" content="638692042912150"><meta property="og:image" content="http://getniceride.com/wp-content/uploads/logo_about_ads.png"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:description" content="Effective Date: October 1, 2014 Thank you for your interest in alt_driver. We respect the privacy of our users when they use our websites, mobile and other online applications and products and services (collectively, the “alt_driver Sites”). By using the alt_driver Sites, you consent to the use of your information and information about you inRead More"><meta name="twitter:title" content="Privacy Policy - alt_driver"><meta name="twitter:site" content="@altdriver"><meta name="twitter:domain" content="alt_driver"><meta name="twitter:image:src" content="http://getniceride.com/wp-content/uploads/logo_about_ads.png"><meta name="twitter:creator" content="@altdriver"><link rel="alternate" type="application/rss+xml" title="alt_driver » Feed" href="http://www.altdriver.com/feed/"><link rel="alternate" type="application/rss+xml" title="alt_driver » Comments Feed" href="http://www.altdriver.com/comments/feed/"><link rel="alternate" type="application/rss+xml" title="alt_driver » Privacy Policy Comments Feed" href="http://www.altdriver.com/privacy-policy/feed/"><link rel="stylesheet" id="smartmag-fonts-css" href="http://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto+Slab" type="text/css" media="all"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.altdriver.com/xmlrpc.php?rsd"><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.altdriver.com/wp-includes/wlwmanifest.xml"><link rel="shortlink" href="http://www.altdriver.com/?p=265"><meta property="og:image" content="http://www.altdriver.com/wp-content/uploads/avatar_alt_driver_500x500.png"><link rel="apple-touch-icon" sizes="57x57" href="http://www.altdriver.com/favicons/apple-touch-icon-57x57.png"><link rel="apple-touch-icon" sizes="114x114" href="http://www.altdriver.com/favicons/apple-touch-icon-114x114.png"><link rel="apple-touch-icon" sizes="72x72" href="http://www.altdriver.com/favicons/apple-touch-icon-72x72.png"><link rel="apple-touch-icon" sizes="144x144" href="http://www.altdriver.com/favicons/apple-touch-icon-144x144.png"><link rel="apple-touch-icon" sizes="60x60" href="http://www.altdriver.com/favicons/apple-touch-icon-60x60.png"><link rel="apple-touch-icon" sizes="120x120" href="http://www.altdriver.com/favicons/apple-touch-icon-120x120.png"><link rel="apple-touch-icon" sizes="76x76" href="http://www.altdriver.com/favicons/apple-touch-icon-76x76.png"><link rel="apple-touch-icon" sizes="152x152" href="http://www.altdriver.com/favicons/apple-touch-icon-152x152.png"><link rel="apple-touch-icon" sizes="180x180" href="http://www.altdriver.com/favicons/apple-touch-icon-180x180.png"><link rel="icon" type="image/png" href="http://www.altdriver.com/favicons/favicon-192x192.png" sizes="192x192"><link rel="icon" type="image/png" href="http://www.altdriver.com/favicons/favicon-160x160.png" sizes="160x160"><link rel="icon" type="image/png" href="http://www.altdriver.com/favicons/favicon-96x96.png" sizes="96x96"><link rel="icon" type="image/png" href="http://www.altdriver.com/favicons/favicon-16x16.png" sizes="16x16"><link rel="icon" type="image/png" href="http://www.altdriver.com/favicons/favicon-32x32.png" sizes="32x32"><meta name="msapplication-TileColor" content="#36c600"><meta name="msapplication-TileImage" content="http://www.altdriver.com/favicons/mstile-144x144.png"><noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=344487495675681&ev=PageView&noscript=1"
-/></noscript><meta name="bitly-verification" content="5f20c29b1ac6"> <!--[if lt IE 9]> <script src="http://2e3k4o242jj84difhk2rzy6v.wpengine.netdna-cdn.com/wp-content/themes/smart-mag/js/html5.js" type="text/javascript"></script> <![endif]--></head><body class="page page-id-265 page-template-default page-builder right-sidebar full"><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M2KSWB"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><div class="main-wrap"><div id="main-head" class="main-head"><div class="wrap"> <header><div class="title"> <a href="http://www.altdriver.com/" title="alt_driver" rel="home"> <img src="http://2e3k4o242jj84difhk2rzy6v.wpengine.netdna-cdn.com/wp-content/uploads/logo_alt_driver_250x51.png" class="logo-image" alt="alt_driver" data-at2x="http://altdriver.com/wp-content/uploads/logo_alt_driver_500x102.png"> </a></div><div class="right"></div> </header> <nav class="navigation cf" data-sticky-nav="1"><div class="mobile" data-type="off-canvas" data-search="0"> <a href="#" class="selected"> <span class="text">Menu</span><span class="current"></span> <i class="hamburger fa fa-bars"></i> </a></div><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-2818" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-36 menu-item-2818"><a href="http://www.altdriver.com/category/insane-stunts/">Insane Stunts</a></li><li id="menu-item-2820" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-266 menu-item-2820"><a href="http://www.altdriver.com/category/crash-burn/">Crash &amp; Burn</a></li><li id="menu-item-2822" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-125 menu-item-2822"><a href="http://www.altdriver.com/category/sports-car/">Sports Car</a></li><li id="menu-item-375" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-31 menu-item-375"><a href="http://www.altdriver.com/category/luxury/">Luxury</a></li><li id="menu-item-302" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-25 menu-item-302"><a href="http://www.altdriver.com/category/classics/">Classics</a></li><li id="menu-item-2819" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-38 menu-item-2819"><a href="http://www.altdriver.com/category/motorcycles/">Motorcycles</a></li><li id="menu-item-2821" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-33 menu-item-2821"><a href="http://www.altdriver.com/category/off-road/">Off Road</a></li><li id="menu-item-243" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-6 menu-item-243"><a href="http://www.altdriver.com/category/technology/">Tech</a></li></ul></div> </nav></div></div><div class="main wrap cf"><div class="row"><div class="col-8 main-content"> <article id="post-265" class="post-265 page type-page status-publish"> <header class="post-header"><h1 class="main-heading"> Privacy Policy</h1> </header><div class="post-content"><p><strong>Effective Date</strong>: October 1, 2014</p><p>Thank you for your interest in alt_driver. We respect the privacy of our users when they use our websites, mobile and other online applications and products and services (collectively, the “alt_driver Sites”). By using the alt_driver Sites, you consent to the use of your information and information about you in accordance with this Privacy Statement.</p><p>This Privacy Statement applies to information collected through the alt_driver Sites and does not describe the collection, use and disclosure practices of any of our corporate affiliates or third parties. &nbsp;For information on the collection, use and disclosure practices of any company with whom you are doing business, whether or not affiliated with alt_driver, please review their privacy policies.</p><p>Services offered by alt_driver are not directed to individuals under the age of eighteen (18). If you are under eighteen (18), you should not provide any personal information to us.</p><p>This Privacy Statement covers:</p><ul><li><a href="#1">Information We Collect</a><ul><li>Information You Provide</li><li>Automated Information</li><li>Data Technologies</li><li>Videos</li><li>Location Information</li><li>Publicly Posted Information</li><li>Combined Information and Information from Other Sources</li><li>How We May Use the Information We Collect</li><li>Applications, Widgets and Social Media</li></ul></li><li><a href="#2">Advertising Networks</a></li><li><a href="#3">Information We Share</a><ul><li>Affiliates</li><li>Our Service Providers</li><li>Corporate and Asset Transactions</li><li>Other</li></ul></li><li><a href="#4">Your Choices</a></li><li><a href="#5">Your California Privacy Rights</a></li><li><a href="#6">Access and Correction</a></li><li><a href="#7">Links</a></li><li><a href="#8">Data Security</a></li><li><a href="#9">Disputes</a></li><li><a href="#10">How to Contact Us</a></li></ul><p><strong id="1">Information We Collect</strong><br> Information is gathered from the alt_driver Sites by us, our service providers, advertisers, sponsors and partners.</p><p>Information You Provide. We may collect information that you choose to provide on the alt_driver Sites in a variety of ways, such as when you:</p><ol><li>register for one of our products or services. This information may include your name, address, telephone number, and email address;</li><li>make information available to us via social networking logins, such as Facebook or Twitter;</li><li>participate in chats, web forums or other interactive sessions;</li><li>subscribe to newsletters or provide feedback; and</li><li>participate in surveys, sweepstakes or other promotions.</li></ol><p>Automated Information. Information regarding your use of the alt_driver Sites may be collected and/or aggregated through the use of automated means. This automatically collected information may include information such as:</p><ol><li>your IP address, the type of browser and operating system used;</li><li>date and time you access the alt_driver Site and pages you visit, and if you linked from or to another website, the address of that website;</li><li>email you open and links you click on within those emails; and</li><li>your ISP or mobile carrier, and the type of handheld or mobile device that you used.</li></ol><p>Data Technologies. Various technologies are used to automatically collect information, such as cookies, local shared objects, and web beacons (generally referred to as “Data Technologies”). “Cookies” are small identifiers sent from a web server that are stored on your device for the purpose of identifying your browser or storing information or settings in your browser. “Local shared objects,” sometimes known as Flash cookies, may be used to store your preferences or display content based upon what you have viewed on various websites to personalize your visit. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies. Anonymous advertising identifiers are increasingly being used on mobile devices and otherwise in a manner similar to cookies. When we refer to Data Technologies, we are including all current and similar future technologies.</p><p>One or more Data Technologies may be used on the alt_driver Sites and other websites and mobile applications (that may not be the alt_driver Sites) by us, by another party on our behalf, or by third parties in accordance with their privacy policies. Data Technologies may be used by us and others, on our behalf and on their own behalf, to transmit information to you or about you and connect information about you from different sources, websites, devices, and mobile applications.</p><p>Videos. We may target and track the videos you view on alt_driver Sites. You consent to our tracking of your video viewing through the alt_driver Sites or a third party social media site as permitted by applicable law.</p><p>Location Information. When you download or use the alt_driver Sites, we may collect physical location information that is sufficiently precise to allow us to locate a specific person or device (“Location Information”). We only collect Location Information with your permission (e.g., such as when you agree to provide it to us after you initially access or download the alt_driver Sites). We may use Location Information and provide it to third parties to provide you with content and services that are relevant to a particular location, such as advertising and directions.</p><p>Publicly Posted Information. Information that you make available to us and others via social media networks, forums, blogs, list serves, chat rooms or similar functionality is public information that we or others may share or use in accordance with the law.</p><p>Combined Information and Information from Other Sources. We may combine information that you provide to us with information we receive from our affiliates and other sources, as well as with other information that is automatically collected.&nbsp; The combined information may include information about your use of the alt_driver Sites, your use of other websites, devices and mobile applications and information from our affiliates and other sources.</p><p><strong>How We May Use the Information We Collect</strong><br> We may use information we collect for the following purposes:</p><ol><li>for everyday business purposes, such as establishing and managing your user account, providing products and services you request, and providing customer support;</li><li>to offer our other products or services and/or the products or services of others to you;</li><li>to communicate about, and administer your participation in, special events, programs, surveys, contests, sweepstakes and other offers or promotions;</li><li>to enable you to interact with alt_driver and our users and others through various means, such as through our message boards, blogs and social media;</li><li>to evaluate and improve our business, including developing new products and services and analyzing the effectiveness of products, services, applications and websites;</li><li>to diagnose and address technical and service problems;</li><li>to perform data analyses, including market and consumer research, trend analysis, demographic analysis and financial analysis;</li><li>to deliver content (including advertising) correlating to your interests and browsing and usage history, both within the alt_driver Sites and on other websites and applications;</li><li>to comply with applicable legal requirements and our policies; and</li><li>to contact you via telephone, text or chat. We will obtain your consent to contact you when and in the manner required by law.</li></ol><p><strong>Applications, Widgets and Social Media</strong><br> We may include applications or widgets from social media providers that allow interaction or content sharing by their users. These widgets, such as a Facebook “Share” or “Like” button, are visible to you on the web page you visit. Integration between the alt_driver Sites and social media networks such as Facebook, Twitter and others may allow social media networks in which you participate to collect information about you, even when you do not explicitly activate the network’s application or widget. Please visit the applicable social media network’s privacy policy to better understand their data collection practices and choices they make available to you. The privacy policy of the social media network controls the collection, use and disclosure of all personal information transmitted to that network.</p><p><strong id="3">Advertising Networks</strong><br> Advertising that is customized based on predictions generated over time from your visits across different websites, devices and mobile applications is sometimes called “online behavioral” or “interest-based” advertising. We may partner with advertising networks, which are companies that deliver targeted advertisements to consumers and generate statistics and metrics related to the delivery of interest-based advertisements. They may utilize information collected through a variety of Data Technologies to provide customization, auditing, research and reporting for us, our affiliates and other advertisers. This data collection takes place both on the alt_driver Sites and on third-party’s websites and mobile applications. This process allows alt_driver and third parties to deliver targeted advertising, enhance marketing programs and help track the effectiveness of such efforts. Our advertising networks also may use this information for determining or predicting the characteristics and preferences of their respective advertising audiences and measuring the effectiveness of their advertising in accordance with their privacy policies.</p><p>We do not provide information that is directly associated with a specific person (such as name and address) to an advertising network when you interact with or view a customized advertisement. However, when you view or interact with an advertisement, the advertiser may make an assumption that you are interested in the subject matter of the advertisement.</p><p>Some companies disclose when they are using interest-based advertising programs on the alt_driver Sites to deliver third-party ads or collecting information about your visit for these purposes and give you the ability to opt-out of this use of your information. You may see an icon in or around third-party advertisements on the alt_driver Sites that use interest-based advertising programs and on pages where data is collected and used for online interest-based advertising. <img class="alignnone wp-image-249 size-full" src="http://getniceride.com/wp-content/uploads/logo_about_ads.png" alt="logo_about_ads" width="23" height="24">Clicking on this icon will provide additional information about the companies and data practices that were used to deliver the ad. You can opt out of delivery of targeted advertising to you by multiple companies by visiting <a href="http://www.aboutads.info/choices">www.aboutads.info/choices</a>, <a href="http://www.networkadvertising.org/managing/opt_out.asp">www.networkadvertising.org/managing/opt_out.asp</a> and <a href="http://www.ghosteryenterprise.com">www.ghosteryenterprise.com</a>. Please note that even if you opt out, you will continue to receive advertisements, but they will not be tailored to your specific interests.</p><p><strong id="4">Information We Share</strong><br> We do not sell or otherwise share information about you that we collect or receive, except as described below:</p><ol><li>Affiliates. We may share information about you, including personal information, with our corporate affiliates, who will use it in accordance with their privacy policies.</li><li>Our Service Providers. We may engage third parties to provide the services offered through or in connection with the alt_driver Sites on our behalf. We require such providers to maintain information about you as confidential and to use the information only to perform the services specified by us in a manner consistent with this Privacy Statement.</li><li>Corporate and Asset Transactions. If we sell all or substantially all of our business or sell or transfer all or a material part of our assets, or are otherwise involved in a merger or transfer of all or a substantial part of our business, we may transfer all information we have collected and stored, including personal information, to the party or parties involved in the transaction as part of that transaction.</li><li>Other. We may access or disclose information, including personal information, to:</li></ol><p style="padding-left: 60px;">(a)&nbsp; protect or defend our interests and the legal rights or property of alt_driver and our affiliates;<br> (b)&nbsp; protect the rights, interests, safety and security of users of the alt_driver Sites or members of the public;<br> (c)&nbsp; protect against fraud or for risk management purposes; or<br> (d)&nbsp; comply with prudent legal practice as we may determine, and applicable law or legal process.</p><p><strong id="4">Your Choices</strong><br> You are entitled to make certain choices about how we communicate with you.</p><ol><li>You may choose not to provide personal information, even though that might impact your ability to register or receive a particular product or service.</li><li>If you do not want to receive marketing email from us, you can follow the unsubscribe link provided in those emails.</li><li>If you do not want to receive interest-based advertisements, you can opt out as discussed in the “Advertising Networks” section above.</li><li>You have a number of choices regarding certain Data Technologies. Most web browsers automatically accept cookies, but you can usually modify your browser’s setting to decline cookies if you prefer. You may also render some web beacons unusable by rejecting their associated cookies and disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on’s settings or opting out at Ghosteryenterprise.com or the website of the technology provider. If you choose to decline cookies or similar technologies, however, please note that certain features may not function properly or at all as a result. You may be able to adjust the use of advertising identifiers on mobile devices through the settings on your device.</li><li>If you do not want us to use Location Information, you can decline our initial invitation to provide that information, or opt out by changing the location services settings on your mobile device. However, please note that certain features may not function properly or at all as a result if you opt out.</li></ol><p><strong id="5">Your California Privacy Rights</strong><br> California Civil Code Section 1798.83 entitles California users to request information concerning whether a business has disclosed certain information about you to any third parties for the third parties’ direct marketing purposes. California users who wish to request further information in compliance with this law or have questions or concerns about our privacy practices and policies may contact us as specified in the “How to Contact Us” section below.</p><p>Online Tracking Policy for California Residents. As of the effective date of this Privacy Statement, there is no commonly accepted response for Do Not Track signals initiated by browsers, therefore we do not respond to them.</p><p><strong id="6">Access and Correction</strong><br> Access to information that we collect and maintain about you may be available to you. For example, if you created a password-protected account within the alt_driver Sites, you can access that account to update the information you previously provided. Additionally, if you believe that information we maintain about you is inaccurate, subject to applicable law, you may request that we correct or amend the information by contacting us as indicated in the “How to Contact Us” section below.</p><p><strong id="7">Links</strong><br> The alt_driver Sites may contain links to websites not operated by us, as well as third party widgets and applications discussed above. Once you leave the alt_driver Sites, we suggest that you review the applicable privacy policy of the third-party website or application. We are not responsible for the content or use of any websites or applications other than on the alt_driver Sites or the privacy practices of those websites or applications.<strong>&nbsp;</strong></p><p><strong id="8">Data Security</strong><br> We use commercially reasonable administrative, technical, personnel, and physical security measures designed to safeguard information about you in our possession against loss, theft and unauthorized use, disclosure or modification. Of course, despite these measures, we cannot guarantee perfect security of networks, servers and databases we operate or that are operated on our behalf.</p><p><strong id="9">Disputes</strong><br> If you choose to visit the alt_driver Sites, your visit and any dispute regarding privacy is subject to this Privacy Statement and our Visitor Agreement, including limitations on damages, resolution of disputes, and application of the law of the state of Georgia.</p><p><strong>Updates to this Privacy Statement</strong><br> We may update this Privacy Statement to provide clarification or notice of changes to our practices. If we make changes, we will revise the date at the top of this Privacy Statement. We will provide you with additional notice of material changes by posting notice of the changes for thirty (30) days before we implement those changes.</p><p><strong id="10">How to Contact Us</strong><br> If you have any questions or comments about this Privacy Statement, or if you would like us to update information we have about you or your preferences, please contact us by email at <a title="privacy@getniceride.com" href="mailto:privacy@getniceride.com">privacy@altdriver.com</a></p></div></article></div> <aside class="col-4 sidebar"><ul><li id="bunyad_ads_widget-4" class="widget bunyad-ad"><div class="ads-widget"><div id="div-gpt-ad-1435319880127-2"></div></div></li><li id="bunyad_ads_widget-7" class="widget bunyad-ad"><div class="ads-widget"><div id="div-gpt-ad-1435319880127-3"></div></div></li><li id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="http://www.altdriver.com/"> <label> <span class="screen-reader-text">Search for:</span> <input type="search" class="search-field" placeholder="Search …" value="" name="s" title="Search for:"> </label> <input type="submit" class="search-submit" value="Search"></form></li></ul> </aside></div></div> <footer class="main-footer"><div class="wrap"><ul class="widgets row cf"><li class="widget col-4 bunyad-about"><h3 class="widgettitle"> About</h3><div class="about-widget"> <img src="http://2e3k4o242jj84difhk2rzy6v.wpengine.netdna-cdn.com/wp-content/uploads/2014/07/logo_alt_driver_xs_wh.png"><p>The most entertaining and sharable car content from social media and the web.</p></div></li><li class="widget col-4 widget_text"><h3 class="widgettitle">Subscribe to alt_driver</h3><div class="textwidget"><div class="gf_browser_unknown gform_wrapper" id="gform_wrapper_2"><a id="gf_2" class="gform_anchor"></a><form method="post" enctype="multipart/form-data" target="gform_ajax_frame_2" id="gform_2" action="/privacy-policy/#gf_2"><div class="gform_heading"> <span class="gform_description">Our best content in your inbox</span></div><div class="gform_body"><ul id="gform_fields_2" class="gform_fields top_label form_sublabel_below description_below"><li id="field_2_1" class="gfield gfield_contains_required field_sublabel_below field_description_below"><label class="gfield_label" for="input_2_1">Email<span class="gfield_required">*</span></label><div class="ginput_container"> <input name="input_1" id="input_2_1" type="text" value="" class="large" tabindex="1" placeholder="Your Email Address"></div></li></ul></div><div class="gform_footer top_label"> <input type="submit" id="gform_submit_button_2" class="gform_button button" value="Subscribe" tabindex="2" onclick="if(window[&quot;gf_submitting_2&quot;]){return false;}  window[&quot;gf_submitting_2&quot;]=true;  "> <input type="hidden" name="gform_ajax" value="form_id=2&amp;title=&amp;description=1&amp;tabindex=1"> <input type="hidden" class="gform_hidden" name="is_submit_2" value="1"> <input type="hidden" class="gform_hidden" name="gform_submit" value="2"> <input type="hidden" class="gform_hidden" name="gform_unique_id" value=""> <input type="hidden" class="gform_hidden" name="state_2" value="WyJbXSIsImQ2ZjFiZTNjOTE3MzYyYWE4OTI2Yzk4Zjg4MmRmMzVmIl0="> <input type="hidden" class="gform_hidden" name="gform_target_page_number_2" id="gform_target_page_number_2" value="0"> <input type="hidden" class="gform_hidden" name="gform_source_page_number_2" id="gform_source_page_number_2" value="1"> <input type="hidden" name="gform_field_values" value=""></div></form></div> <iframe style="display:none;width:0px;height:0px;" src="about:blank" name="gform_ajax_frame_2" id="gform_ajax_frame_2"></iframe></div></li><li class="widget col-4 widget_text"><h3 class="widgettitle">More</h3><div class="textwidget"><a href="/submit">Submit Stories &amp; Videos</a><br> <a href="/subscribe">Subscribe</a><br> <a href="/contact">Contact <em>alt</em>_driver</a><br> <a href="/privacy-policy">Privacy Policy</a><br> <a href="/visitor-agreement">Visitor Agreement</a></div></li></ul></div><div class="lower-foot"><div class="wrap"><div class="widgets"><div class="textwidget"><div class="widgets row cf"><div class="col-8 widget-text">© 2015 <em>alt</em>_driver. All rights reserved.</div><div class="col-4 widget-text"> <a id="_bapw-link" href="#" target="_blank" style="text-decoration:none !important;"><img id="_bapw-icon" style="border:0 !important;display:inline !important;vertical-align:middle !important;padding-right:5px !important;"><span style="vertical-align:middle !important">AdChoices</span></a></div></div></div></div></div></div> </footer></div>  <script data-cfasync="false" src="//load.sumome.com/" data-sumo-site-id="067732181ea85146512e0c158c2ba9868b1d5a62b8d4f6b938fd11a7e5cd21ea" async=""></script><script src="//cdn.optimizely.com/js/2845841488.js"></script><script type="text/javascript" defer="" src="http://2e3k4o242jj84difhk2rzy6v.wpengine.netdna-cdn.com/wp-content/cache/autoptimize/js/autoptimize_e230b7afd96500c8e10100d355ee3715.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"61dcc06cbe","applicationID":"7631879","transactionName":"YlwBZEIHWEtRAUMNWlsWIlNED1lWHxJWA1A=","queueTime":0,"applicationTime":379,"atts":"ThsCEgodS0U=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-686.min.js"}</script></body></html>
+<!DOCTYPE html><html lang="en"><head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta http-equiv="cleartype" content="on">
+	<script id="facebook-jssdk" async="" src="http://connect.facebook.net/en_US/all.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="//tru.am/scripts/ta-pagesocial-sdk.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script>
+				if( window.location.hash ) {
+			window.location.hash = encodeURI(window.location.hash).replace(/'/, "%27");
+		}
+	</script>
+	<meta name="google-site-verification" content="d6aTAiilvSmFCXmBIgXOsRTD2UOI5pP6nF93X_bFmeQ">
+
+<title>Privacy Policy – alt_driver</title>
+		<script src="https://r-login.wordpress.com/remote-login.php?action=js&amp;host=altdriver.com&amp;id=117130527&amp;t=1479668161&amp;back=http%3A%2F%2Faltdriver.com%2Fprivacy-policy%2F" type="text/javascript"></script>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+		<link rel="dns-prefetch" href="//connect.facebook.net">
+<link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//s2.wp.com">
+<link rel="dns-prefetch" href="//assets.pgs.io">
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+<link rel="dns-prefetch" href="//s1.wp.com">
+<link rel="dns-prefetch" href="//connect.facebook.net">
+<link rel="dns-prefetch" href="//coxaltdriver.wordpress.com">
+<link rel="alternate" type="application/rss+xml" title="alt_driver » Feed" href="http://altdriver.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="alt_driver » Comments Feed" href="http://altdriver.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="alt_driver » Privacy Policy Comments Feed" href="http://altdriver.com/privacy-policy/feed/">
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s1.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1473172720h&ver=4.6.1-RC1-38499"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://s1.wp.com/wp-includes/js/wp-emoji-release.min.js?m=1473172720h&amp;ver=4.6.1-RC1-38499" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="all-css-0-1" href="https://s2.wp.com/_static/??-eJyFjtEKwjAMRX/IWKZT3IP4LV0NLq5py9Iy/HtThj4MmS/h5uYecs2cwMWQMWTDBZIvDwpi5uQigzB5fK22vRPZmd+YixOqz8nmmmC8k0WPrLEtjNP5Q1U5WDduvln69H2aUAR0MhWGPOijP/W4VgFPI+omK2dByYSYSWn5inq48bVpT92hbbrj5fkG4EZ0GA==" type="text/css" media="all">
+<link rel="stylesheet" id="screen-css-1-1" href="https://s2.wp.com/wp-content/themes/vip/plugins/taxonomy-images/style.css?m=1340680964h" type="text/css" media="screen">
+<link rel="stylesheet" id="all-css-2-1" href="https://s0.wp.com/_static/??-eJx9T9sOgjAM/SFnYwIBH4yfYsooY2Zbl26gn+8QEzQmvJ3Tc2kLj6g0h0whQx7JU4LZRtD8VIJCKjrMA4uHiIZUJr8Misn2hA50StAJhj4Bunzrxc4kq3Ys2gG+2v1UyiZjQwJDrBxrzJbDD1GDQyt7UaHOsSnQvJdvdC+EeinvUDb0Z/88P1ZgHHfr/Vd/OVXNuWrrpq3vL09KbzE=" type="text/css" media="all">
+<script>window.themeSettings = {"ajaxUrl":"https:\/\/coxaltdriver.wordpress.com\/wp-admin\/admin-ajax.php","themeAjaxAction":"themeajax"}</script>    <script>
+		window.rare = window.rare || {"is_mobile":false}	</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var userSettings = {"url":"\/","uid":"0","time":"1479668161","secure":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var localtime = {"translated_title":"This date and\/or time has been adjusted to match your timezone","locale":{"month_01":"January","month_02":"February","month_03":"March","month_04":"April","month_05":"May","month_06":"June","month_07":"July","month_08":"August","month_09":"September","month_10":"October","month_11":"November","month_12":"December","monthabbrev_01":"Jan","monthabbrev_02":"Feb","monthabbrev_03":"Mar","monthabbrev_04":"Apr","monthabbrev_05":"May","monthabbrev_06":"Jun","monthabbrev_07":"Jul","monthabbrev_08":"Aug","monthabbrev_09":"Sep","monthabbrev_10":"Oct","monthabbrev_11":"Nov","monthabbrev_12":"Dec","weekday_0":"Sunday","weekday_1":"Monday","weekday_2":"Tuesday","weekday_3":"Wednesday","weekday_4":"Thursday","weekday_5":"Friday","weekday_6":"Saturday","weekdayabbrev_01":"Sun","weekdayabbrev_02":"Mon","weekdayabbrev_03":"Tue","weekdayabbrev_04":"Wed","weekdayabbrev_05":"Thu","weekdayabbrev_06":"Fri","weekdayabbrev_07":"Sat"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://s2.wp.com/_static/??-eJyFj+sKwjAMhV/Irm4K+yU+S+3iTO3NJt3QpzeC4IWhEEjI+XIO0XNWGK2vA5B2UpcK5fpsjaOV/gWogGMxDE3AuARXRk/vok2RIbLmEwRBJsw6+zpiJO2TNZ4xwGv6vhLHkA7oQVWCYkbZSdwxLXA5EUsCCbSgfn6JcUKY/2IOOBt7VgUIbw/Xfdi1237T9l3frd0dlMJ7Jg=="></script>
+<!--[if lt IE 10]>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/dom4/1.8.3/dom4.js?ver=4.6.1-RC1-38499'></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js?ver=4.6.1-RC1-38499'></script>
+<![endif]-->
+<link rel="stylesheet" id="all-css-0-2" href="https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621h" type="text/css" media="all">
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://coxaltdriver.wordpress.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress.com">
+<link rel="canonical" href="http://altdriver.com/privacy-policy/">
+<link rel="shortlink" href="http://wp.me/P7Vt03-4h">
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Faltdriver.com%2Fprivacy-policy%2F&amp;for=wpcom-auto-discovery"><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Faltdriver.com%2Fprivacy-policy%2F&amp;for=wpcom-auto-discovery">
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:url" content="http://altdriver.com/privacy-policy/">
+<meta property="og:description" content="Effective Date: October 1, 2014 Thank you for your interest in alt_driver. We respect the privacy of our users when they use our websites, mobile and other online applications and products and serv…">
+<meta property="article:published_time" content="2014-09-12T20:04:18+00:00">
+<meta property="article:modified_time" content="2014-09-12T20:04:18+00:00">
+<meta property="og:site_name" content="alt_driver">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:site" content="@rare">
+<meta name="twitter:image" content="http://getniceride.com/wp-content/uploads/logo_about_ads.png?w=240">
+<meta name="twitter:card" content="summary">
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom">
+<meta name="twitter:creator" content="@rare">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="627">
+<link rel="shortcut icon" type="image/x-icon" href="https://s2.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48">
+<link rel="icon" type="image/x-icon" href="https://s2.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48">
+<link rel="apple-touch-icon-precomposed" href="https://s0.wp.com/i/webclip.png">
+<link rel="search" type="application/opensearchdescription+xml" href="http://altdriver.com/osd.xml" title="alt_driver">
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+        
+            
+        <!-- Begin comScore Tag -->
+<script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "6035944" });
+    (function() {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    })();
+</script>
+<noscript>
+    <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035944&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag --><script src="//assets.adobedtm.com/20d5deb47c9e7fe47a9f969db01578a739d7179d/satelliteLib-0fedf14cc744e27323f5b44df14888dd2c5ba136.js"></script><!-- Facebook Pixel Code -->
+<script>
+	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n; n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '281660582191764');
+	fbq('track', "PageView");
+	</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=281660582191764&ev=PageView&noscript=1"/></noscript>
+<!-- End Facebook Pixel Code -->
+<script type="text/javascript">
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function() {
+	var gads = document.createElement('script');
+	gads.async = true;
+	gads.type = 'text/javascript';
+	var useSSL = 'https:' == document.location.protocol;
+	gads.src = (useSSL ? 'https:' : 'http:') +
+	'//www.googletagservices.com/tag/js/gpt.js';
+	var node = document.getElementsByTagName('script')[0];
+	node.parentNode.insertBefore(gads, node);
+	})();
+</script><meta name="application-name" content="alt_driver"><meta name="msapplication-window" content="width=device-width;height=device-height"><meta name="msapplication-task" content="name=Subscribe;action-uri=http://altdriver.com/feed/;icon-uri=https://s2.wp.com/i/favicon.ico"><style type="text/css" id="syntaxhighlighteranchor"></style>
+</head>
+<body class="page page-id-265 page-template-default mp6 customizer-styles-applied group-blog highlander-enabled highlander-light">
+		<script>
+		;(function(window, document) {
+		    'use strict';
+
+		    var file = 'https://s0.wp.com/wp-content/themes/vip/cox-rare-platform/page-templates/ideal/img/svg.svg',
+		        revision = 2;
+
+		    if (!document.createElementNS || !document.createElementNS('http://www.w3.org/2000/svg', 'svg').createSVGRect)
+		        return true;
+
+		    var isLocalStorage = 'localStorage' in window && window['localStorage'] !== null,
+		        request,
+		        data,
+		        insertIT = function() {
+		            document.body.insertAdjacentHTML('afterbegin', data);
+		        },
+		        insert = function() {
+		            if (document.body) insertIT();
+		            else document.addEventListener('DOMContentLoaded', insertIT);
+		        };
+
+		    if (isLocalStorage && localStorage.getItem('inlineSVGrev') == revision) {
+		        data = localStorage.getItem('inlineSVGdata');
+		        if (data) {
+		            insert();
+		            return true;
+		        }
+		    }
+
+		    try {
+		        request = new XMLHttpRequest();
+		        request.open('GET', file, true);
+		        request.onload = function() {
+		            if (request.status >= 200 && request.status < 400) {
+		                data = request.responseText;
+		                insert();
+		                if (isLocalStorage) {
+		                    localStorage.setItem('inlineSVGdata', data);
+		                    localStorage.setItem('inlineSVGrev', revision);
+		                }
+		            }
+		        }
+		        request.send();
+		    } catch (e) {}
+		}(window, document));
+	</script>
+	<script>
+  window.rare = window.rare || {};
+  window.rare.pageData = {
+    "brandName": "alt_driver",
+    "brandFbPage": "altdriver",
+    "brandTwPage": "altdriver",
+    "gaProfile": "UA-32983481-10",
+    "pageName": "privacy-policy",
+    "pageTitle": "Privacy Policy",
+    "pagePostType": "page",
+    "pagePostType2": "single-page",
+    "pageCategories": [],
+    "pageTopLevelCategories": [],
+    "pageTags": [],
+    "pageAuthors": [],
+    "pagePostAuthor": "",
+    "pagePostDate": "2014-09-12 16:04:18",
+    "pageVideoType": "",
+    "oEmbedUrl": [],
+    "postCountOnPage": "1",
+    "postCountTotal": "1",
+  };
+</script>
+	<!-- GA Universal -->
+<script src="//s0.wp.com/wp-content/themes/vip/cox-rare-platform/js/ga-universal.js?version=010"></script>
+		<script type="text/javascript">
+(function (w, d) {
+  'use strict';
+  var s1 = d.getElementsByTagName('script')[0],
+      s = d.createElement('script'),
+      onReady;
+  s.src = '//tru.am/scripts/ta-pagesocial-sdk.js';
+  onReady = function () {
+    var l = document.location,
+        h = l.hostname.toLowerCase(),
+        cid;
+    if (h.indexOf('fanbuzz') > -1) {
+      cid = '757';
+    } else if (h.indexOf('faves') > -1) {
+      cid = '756';
+    } else if (h.indexOf('rare') > -1) {
+      cid = '707';
+    } else if (h.indexOf('deals.clark') > -1) {
+      cid = '994';
+    } else if (h.indexOf('clark') > -1) {
+      cid = '758';
+    } else if (h.indexOf('hottopics') > -1) {
+      cid = '963';
+    } else if (h.indexOf('altdriver.com') > -1) {
+      cid = '1032';
+    }
+
+    if (cid) {
+      w.TRUE_ANTHEM.configure(cid);
+    }
+  };
+  if (s.addEventListener) {
+    s.addEventListener('load', onReady, false);
+  } else {
+    s.onreadystatechange = function () {
+      if (s.readyState in {loaded: 1, complete: 1}) {
+        s.onreadystatechange = null;
+        onReady();
+      }
+    };
+  }
+  s1.parentNode.insertBefore(s, s1);
+}(window, document));
+</script><script>
+	function findDeepAdUnit() {
+			return "";
+		}
+
+	function getFullAdUnit() {
+				return "/12523293/FansFirst_FF/altdriver_web_default" + findDeepAdUnit();
+	}
+</script>	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+	<!-- Begin body-wrap-->
+	<div class="body-wrap">
+									<div class="menu-container menu-wrap">
+					<nav id="site-navigation" class="main-nav rare-title" role="navigation">
+						<button class="main-nav__close close">
+							<label for="" class="screen-reader-text">Close Menu</label>
+							<svg class="icon"><use xlink:href="#icon-close"></use></svg>
+						</button>
+						<div class="menu-categories-container"><ul id="menu-categories" class="main-nav__list"><li id="menu-item-33823" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33823 crash-amp-burn"><a href="http://altdriver.com/category/crash-burn/">Crash &amp; Burn</a></li>
+<li id="menu-item-33824" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33824 lmao"><a href="http://altdriver.com/category/lmao/">LMAO</a></li>
+<li id="menu-item-33825" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33825 sports-car"><a href="http://altdriver.com/category/sports-car/">Sports Car</a></li>
+<li id="menu-item-33826" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33826 good-guy-bad-guy"><a href="http://altdriver.com/category/good-guy-bad-guy/">Good Guy Bad Guy</a></li>
+<li id="menu-item-33827" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33827 gearhead"><a href="http://altdriver.com/category/gearhead/">Gearhead</a></li>
+<li id="menu-item-33828" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33828 racing"><a href="http://altdriver.com/category/racing/">Racing</a></li>
+<li id="menu-item-33829" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33829 insane-stunts"><a href="http://altdriver.com/category/insane-stunts/">Insane Stunts</a></li>
+<li id="menu-item-33830" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33830 classics"><a href="http://altdriver.com/category/classics/">Classics</a></li>
+<li id="menu-item-33831" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33831 motorcycles"><a href="http://altdriver.com/category/motorcycles/">Motorcycles</a></li>
+<li id="menu-item-33852" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33852 car-shows"><a href="http://altdriver.com/category/car-shows/">Car Shows</a></li>
+<li id="menu-item-33853" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33853 luxury"><a href="http://altdriver.com/category/luxury/">Luxury</a></li>
+<li id="menu-item-33854" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33854 off-road"><a href="http://altdriver.com/category/off-road/">Off Road</a></li>
+</ul></div>					</nav><!-- #site-navigation -->
+				</div>
+							<!-- Begin content-wrap-->
+		<div class="content-wrap">
+			<header class="header">
+								<div class="header__inner">
+					<div class="header__item header__item--first">
+													<div class="header__logo">
+																																			<a href="http://altdriver.com" class="site-logo" rel="home">
+											<svg class="site-logo__icon"><use xlink:href="#icon-alt_driver_logo"></use></svg>
+										</a>
+									
+															</div>
+						
+						<div class="header__menu">
+							<a href="#" class="menu-push close">
+								<span class="menu-wrap">
+									<svg class="menu-push__icon"><use xlink:href="#icon-menu"></use></svg>
+									<span class="menu-push__text">Menu</span>
+								</span>
+							</a>
+						</div>
+					</div>
+										<div class="header__item no-scroll-hide">
+						<div class="utility__item">
+							<div class="search-wrap">
+								<a href="#" class="search-toggle toggle close">
+									<svg class="utility__icon utility__icon--search icon icon-search"><use xlink:href="#icon-search"></use></svg>
+									<svg class="utility__icon utility__icon--search icon icon-close"><use xlink:href="#icon-close"></use></svg>
+								</a>
+								<div class="search-container toggle-container">
+									<div class="site-search">
+											<form role="search" method="get" class="search-form" action="http://altdriver.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search …" value="" name="s">
+				</label>
+				<input type="submit" class="search-submit" value="Search">
+			</form>									</div>
+								</div>
+							</div>
+						</div>
+												<a href="https://www.facebook.com/altdriver" id="facebook" class="utility__item" title="Find Rare on Facebook">
+							<svg class="utility__icon utility__icon--facebook"><use xlink:href="#icon-facebook"></use></svg>
+						</a>
+						<a href="https://twitter.com/altdriver" id="twitter" class="utility__item" title="Find Rare on Twitter">
+							<svg class="utility__icon utility__icon--twitter"><use xlink:href="#icon-twitter"></use></svg>
+						</a>
+											</div>
+														</div>
+											</header>
+			
+			<!-- .body-wrap and .content-wrap closed in footer.php -->
+	<main id="main" class="site-main" role="main">
+					<div class="featured">
+				<div class="hero hero--no-image hero-default">
+								<div class="container hero__container">
+				<div class="hero__inner">
+					<div class="hero__text">
+																		<h1 class="hero__headline">Privacy Policy</h1>											</div>
+				</div>
+			</div>
+	</div>
+
+
+			<div class="content content--spaced">
+				<div class="container">
+					<div class="post-wrapper post-wrapper--flush">
+						<div class="content-area content-area--full">
+							<article class="post-body__article">
+																	<div class="post-body__header">
+										<div class="layout horizontal">
+											<div class="flex-1">
+												<iframe height="40" frameborder="none" src="/widgets/sharing-v2/"></iframe>
+											</div>
+										</div>
+									</div>
+																<div class="post-body__text">
+									<p><strong>Effective Date</strong>: October 1, 2014</p>
+<p>Thank you for your interest in alt_driver. We respect the privacy of our users when they use our websites, mobile and other online applications and products and services (collectively, the “alt_driver Sites”). By using the alt_driver Sites, you consent to the use of your information and information about you in accordance with this Privacy Statement.</p>
+<p>This Privacy Statement applies to information collected through the alt_driver Sites and does not describe the collection, use and disclosure practices of any of our corporate affiliates or third parties. &nbsp;For information on the collection, use and disclosure practices of any company with whom you are doing business, whether or not affiliated with alt_driver, please review their privacy policies.</p>
+<p>Services offered by alt_driver are not directed to individuals under the age of eighteen (18). If you are under eighteen (18), you should not provide any personal information to us.</p>
+<p>This Privacy Statement covers:</p>
+<ul>
+<li><a href="#1">Information We Collect</a>
+<ul>
+<li>Information You Provide</li>
+<li>Automated Information</li>
+<li>Data Technologies</li>
+<li>Videos</li>
+<li>Location Information</li>
+<li>Publicly Posted Information</li>
+<li>Combined Information and Information from Other Sources</li>
+<li>How We May Use the Information We Collect</li>
+<li>Applications, Widgets and Social Media</li>
+</ul>
+</li>
+<li><a href="#2">Advertising Networks</a></li>
+<li><a href="#3">Information We Share</a>
+<ul>
+<li>Affiliates</li>
+<li>Our Service Providers</li>
+<li>Corporate and Asset Transactions</li>
+<li>Other</li>
+</ul>
+</li>
+<li><a href="#4">Your Choices</a></li>
+<li><a href="#5">Your California Privacy Rights</a></li>
+<li><a href="#6">Access and Correction</a></li>
+<li><a href="#7">Links</a></li>
+<li><a href="#8">Data Security</a></li>
+<li><a href="#9">Disputes</a></li>
+<li><a href="#10">How to Contact Us</a></li>
+</ul>
+<p><strong id="1">Information We Collect</strong><br>
+Information is gathered from the alt_driver Sites by us, our service providers, advertisers, sponsors and partners.</p>
+<p>Information You Provide. We may collect information that you choose to provide on the alt_driver Sites in a variety of ways, such as when you:</p>
+<ol>
+<li>register for one of our products or services. This information may include your name, address, telephone number, and email address;</li>
+<li>make information available to us via social networking logins, such as Facebook or Twitter;</li>
+<li>participate in chats, web forums or other interactive sessions;</li>
+<li>subscribe to newsletters or provide feedback; and</li>
+<li>participate in surveys, sweepstakes or other promotions.</li>
+</ol>
+<p>Automated Information. Information regarding your use of the alt_driver Sites may be collected and/or aggregated through the use of automated means. This automatically collected information may include information such as:</p>
+<ol>
+<li>your IP address, the type of browser and operating system used;</li>
+<li>date and time you access the alt_driver Site and pages you visit, and if you linked from or to another website, the address of that website;</li>
+<li>email you open and links you click on within those emails; and</li>
+<li>your ISP or mobile carrier, and the type of handheld or mobile device that you used.</li>
+</ol>
+<p>Data Technologies. Various technologies are used to automatically collect information, such as cookies, local shared objects, and web beacons (generally referred to as “Data Technologies”). “Cookies” are small identifiers sent from a web server that are stored on your device for the purpose of identifying your browser or storing information or settings in your browser. “Local shared objects,” sometimes known as Flash cookies, may be used to store your preferences or display content based upon what you have viewed on various websites to personalize your visit. A “web beacon,” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies. Anonymous advertising identifiers are increasingly being used on mobile devices and otherwise in a manner similar to cookies. When we refer to Data Technologies, we are including all current and similar future technologies.</p>
+<p>One or more Data Technologies may be used on the alt_driver Sites and other websites and mobile applications (that may not be the alt_driver Sites) by us, by another party on our behalf, or by third parties in accordance with their privacy policies. Data Technologies may be used by us and others, on our behalf and on their own behalf, to transmit information to you or about you and connect information about you from different sources, websites, devices, and mobile applications.</p>
+<p>Videos. We may target and track the videos you view on alt_driver Sites. You consent to our tracking of your video viewing through the alt_driver Sites or a third party social media site as permitted by applicable law.</p>
+<p>Location Information. When you download or use the alt_driver Sites, we may collect physical location information that is sufficiently precise to allow us to locate a specific person or device (“Location Information”). We only collect Location Information with your permission (e.g., such as when you agree to provide it to us after you initially access or download the alt_driver Sites). We may use Location Information and provide it to third parties to provide you with content and services that are relevant to a particular location, such as advertising and directions.</p>
+<p>Publicly Posted Information. Information that you make available to us and others via social media networks, forums, blogs, list serves, chat rooms or similar functionality is public information that we or others may share or use in accordance with the law.</p>
+<p>Combined Information and Information from Other Sources. We may combine information that you provide to us with information we receive from our affiliates and other sources, as well as with other information that is automatically collected.&nbsp; The combined information may include information about your use of the alt_driver Sites, your use of other websites, devices and mobile applications and information from our affiliates and other sources.</p>
+<p><strong>How We May Use the Information We Collect</strong><br>
+We may use information we collect for the following purposes:</p>
+<ol>
+<li>for everyday business purposes, such as establishing and managing your user account, providing products and services you request, and providing customer support;</li>
+<li>to offer our other products or services and/or the products or services of others to you;</li>
+<li>to communicate about, and administer your participation in, special events, programs, surveys, contests, sweepstakes and other offers or promotions;</li>
+<li>to enable you to interact with alt_driver and our users and others through various means, such as through our message boards, blogs and social media;</li>
+<li>to evaluate and improve our business, including developing new products and services and analyzing the effectiveness of products, services, applications and websites;</li>
+<li>to diagnose and address technical and service problems;</li>
+<li>to perform data analyses, including market and consumer research, trend analysis, demographic analysis and financial analysis;</li>
+<li>to deliver content (including advertising) correlating to your interests and browsing and usage history, both within the alt_driver Sites and on other websites and applications;</li>
+<li>to comply with applicable legal requirements and our policies; and</li>
+<li>to contact you via telephone, text or chat. We will obtain your consent to contact you when and in the manner required by law.</li>
+</ol>
+<p><strong>Applications, Widgets and Social Media</strong><br>
+We may include applications or widgets from social media providers that allow interaction or content sharing by their users. These widgets, such as a Facebook “Share” or “Like” button, are visible to you on the web page you visit. Integration between the alt_driver Sites and social media networks such as Facebook, Twitter and others may allow social media networks in which you participate to collect information about you, even when you do not explicitly activate the network’s application or widget. Please visit the applicable social media network’s privacy policy to better understand their data collection practices and choices they make available to you. The privacy policy of the social media network controls the collection, use and disclosure of all personal information transmitted to that network.</p>
+<p><strong id="3">Advertising Networks</strong><br>
+Advertising that is customized based on predictions generated over time from your visits across different websites, devices and mobile applications is sometimes called “online behavioral” or “interest-based” advertising. We may partner with advertising networks, which are companies that deliver targeted advertisements to consumers and generate statistics and metrics related to the delivery of interest-based advertisements. They may utilize information collected through a variety of Data Technologies to provide customization, auditing, research and reporting for us, our affiliates and other advertisers. This data collection takes place both on the alt_driver Sites and on third-party’s websites and mobile applications. This process allows alt_driver and third parties to deliver targeted advertising, enhance marketing programs and help track the effectiveness of such efforts. Our advertising networks also may use this information for determining or predicting the characteristics and preferences of their respective advertising audiences and measuring the effectiveness of their advertising in accordance with their privacy policies.</p>
+<p>We do not provide information that is directly associated with a specific person (such as name and address) to an advertising network when you interact with or view a customized advertisement. However, when you view or interact with an advertisement, the advertiser may make an assumption that you are interested in the subject matter of the advertisement.</p>
+<p>Some companies disclose when they are using interest-based advertising programs on the alt_driver Sites to deliver third-party ads or collecting information about your visit for these purposes and give you the ability to opt-out of this use of your information. You may see an icon in or around third-party advertisements on the alt_driver Sites that use interest-based advertising programs and on pages where data is collected and used for online interest-based advertising. <img class="alignnone wp-image-249 size-full" src="http://getniceride.com/wp-content/uploads/logo_about_ads.png" alt="logo_about_ads" width="23" height="24">Clicking on this icon will provide additional information about the companies and data practices that were used to deliver the ad. You can opt out of delivery of targeted advertising to you by multiple companies by visiting <a href="http://www.aboutads.info/choices">www.aboutads.info/choices</a>, <a href="http://www.networkadvertising.org/managing/opt_out.asp">www.networkadvertising.org/managing/opt_out.asp</a> and <a href="http://www.ghosteryenterprise.com">www.ghosteryenterprise.com</a>. Please note that even if you opt out, you will continue to receive advertisements, but they will not be tailored to your specific interests.</p>
+<p><strong id="4">Information We Share</strong><br>
+We do not sell or otherwise share information about you that we collect or receive, except as described below:</p>
+<ol>
+<li>Affiliates. We may share information about you, including personal information, with our corporate affiliates, who will use it in accordance with their privacy policies.</li>
+<li>Our Service Providers. We may engage third parties to provide the services offered through or in connection with the alt_driver Sites on our behalf. We require such providers to maintain information about you as confidential and to use the information only to perform the services specified by us in a manner consistent with this Privacy Statement.</li>
+<li>Corporate and Asset Transactions. If we sell all or substantially all of our business or sell or transfer all or a material part of our assets, or are otherwise involved in a merger or transfer of all or a substantial part of our business, we may transfer all information we have collected and stored, including personal information, to the party or parties involved in the transaction as part of that transaction.</li>
+<li>Other. We may access or disclose information, including personal information, to:</li>
+</ol>
+<p style="padding-left:60px;">(a)&nbsp; protect or defend our interests and the legal rights or property of alt_driver and our affiliates;<br>
+(b)&nbsp; protect the rights, interests, safety and security of users of the alt_driver Sites or members of the public;<br>
+(c)&nbsp; protect against fraud or for risk management purposes; or<br>
+(d)&nbsp; comply with prudent legal practice as we may determine, and applicable law or legal process.</p>
+<p><strong id="4">Your Choices</strong><br>
+You are entitled to make certain choices about how we communicate with you.</p>
+<ol>
+<li>You may choose not to provide personal information, even though that might impact your ability to register or receive a particular product or service.</li>
+<li>If you do not want to receive marketing email from us, you can follow the unsubscribe link provided in those emails.</li>
+<li>If you do not want to receive interest-based advertisements, you can opt out as discussed in the “Advertising Networks” section above.</li>
+<li>You have a number of choices regarding certain Data Technologies. Most web browsers automatically accept cookies, but you can usually modify your browser’s setting to decline cookies if you prefer. You may also render some web beacons unusable by rejecting their associated cookies and disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on’s settings or opting out at Ghosteryenterprise.com or the website of the technology provider. If you choose to decline cookies or similar technologies, however, please note that certain features may not function properly or at all as a result. You may be able to adjust the use of advertising identifiers on mobile devices through the settings on your device.</li>
+<li>If you do not want us to use Location Information, you can decline our initial invitation to provide that information, or opt out by changing the location services settings on your mobile device. However, please note that certain features may not function properly or at all as a result if you opt out.</li>
+</ol>
+<p><strong id="5">Your California Privacy Rights</strong><br>
+California Civil Code Section 1798.83 entitles California users to request information concerning whether a business has disclosed certain information about you to any third parties for the third parties’ direct marketing purposes. California users who wish to request further information in compliance with this law or have questions or concerns about our privacy practices and policies may contact us as specified in the “How to Contact Us” section below.</p>
+<p>Online Tracking Policy for California Residents. As of the effective date of this Privacy Statement, there is no commonly accepted response for Do Not Track signals initiated by browsers, therefore we do not respond to them.</p>
+<p><strong id="6">Access and Correction</strong><br>
+Access to information that we collect and maintain about you may be available to you. For example, if you created a password-protected account within the alt_driver Sites, you can access that account to update the information you previously provided. Additionally, if you believe that information we maintain about you is inaccurate, subject to applicable law, you may request that we correct or amend the information by contacting us as indicated in the “How to Contact Us” section below.</p>
+<p><strong id="7">Links</strong><br>
+The alt_driver Sites may contain links to websites not operated by us, as well as third party widgets and applications discussed above. Once you leave the alt_driver Sites, we suggest that you review the applicable privacy policy of the third-party website or application. We are not responsible for the content or use of any websites or applications other than on the alt_driver Sites or the privacy practices of those websites or applications.<strong>&nbsp;</strong></p>
+<p><strong id="8">Data Security</strong><br>
+We use commercially reasonable administrative, technical, personnel, and physical security measures designed to safeguard information about you in our possession against loss, theft and unauthorized use, disclosure or modification. Of course, despite these measures, we cannot guarantee perfect security of networks, servers and databases we operate or that are operated on our behalf.</p>
+<p><strong id="9">Disputes</strong><br>
+If you choose to visit the alt_driver Sites, your visit and any dispute regarding privacy is subject to this Privacy Statement and our Visitor Agreement, including limitations on damages, resolution of disputes, and application of the law of the state of Georgia.</p>
+<p><strong>Updates to this Privacy Statement</strong><br>
+We may update this Privacy Statement to provide clarification or notice of changes to our practices. If we make changes, we will revise the date at the top of this Privacy Statement. We will provide you with additional notice of material changes by posting notice of the changes for thirty (30) days before we implement those changes.</p>
+<p><strong id="10">How to Contact Us</strong><br>
+If you have any questions or comments about this Privacy Statement, or if you would like us to update information we have about you or your preferences, please contact us by email at <a title="privacy@getniceride.com" href="mailto:privacy@getniceride.com">privacy@altdriver.com</a></p>
+								</div>
+							</article>
+						</div>
+					</div>
+				</div>
+			</div>
+			</div></main><!-- #main -->
+
+<footer class="footer brand-gradient">
+	<div class="footer__breadcrumbs">
+			</div>
+	<div class="container container-flush--sm">
+		<div class="layout horizontal-reverse-md">
+			<div class="flex-1 self-center">
+				<div class="footer__copy">
+										©
+					2013 - 2016 Cox Media Group | FANS 1st Media
+					<span class="mobile-break">
+						<span class="hidden-xs">|</span> Powered by <a href="https://vip.wordpress.com/?utm_source=vip_powered_wpcom&amp;utm_medium=web&amp;utm_campaign=VIP%20Footer%20Credit" rel="generator nofollow" class="powered-by-wpcom">WordPress.com VIP</a>					</span>
+				</div>
+			</div>
+			<div class="flex-1 self-center">
+				<div class="footer__nav">
+					<div class="footer-link-list"><ul id="menu-footer-menu" class="menu"><li id="menu-item-34033" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34033 about"><a href="http://altdriver.com/about/">About</a></li>
+<li id="menu-item-34034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34034 visitor-agreement"><a href="http://altdriver.com/visitor-agreement/">Visitor Agreement</a></li>
+<li id="menu-item-34035" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34035 contact"><a href="http://altdriver.com/contact/">Contact</a></li>
+<li id="menu-item-34036" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-265 current_page_item menu-item-34036 privacy-policy"><a href="http://altdriver.com/privacy-policy/">Privacy Policy</a></li>
+</ul></div>				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+</div><!-- End content-wrap-->
+
+</div><!-- End body-wrap-->
+<!-- .body-wrap and .content-wrap opened in header.php -->
+<!-- wpcom_wp_footer -->
+	<script>
+		( function( $ ) {
+				var iFrames = $('.rare-widget--calc');
+				function iResize() {
+					for (var i = 0, j = iFrames.length; i < j; i++) {
+						iFrames[i].style.height = iFrames[i].contentWindow.document.body.offsetHeight + 'px';}
+					}
+					if ($.browser.safari || $.browser.opera) {
+
+						 iFrames.load(function(){
+							 setTimeout(iResize, 0);
+						 });
+
+						 for (var i = 0, j = iFrames.length; i < j; i++) {
+							var iSource = iFrames[i].src;
+							iFrames[i].src = '';
+							iFrames[i].src = iSource;
+						 }
+					} else {
+						 iFrames.load(function() {
+							 this.style.height = this.contentWindow.document.body.offsetHeight + 'px';
+						 });
+					}
+		} )( jQuery );
+	</script>
+	<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+_qevents.push({qacct:"p-38KriKc8Foyx-"});
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-38KriKc8Foyx-.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript><script type="text/javascript">_satellite.pageBottom();</script><script>window.themeSettings = {"ajaxUrl":"https:\/\/coxaltdriver.wordpress.com\/wp-admin\/admin-ajax.php","themeAjaxAction":"themeajax"}</script>    <script>
+		window.rare = window.rare || {"is_mobile":false}	</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/coxaltdriver.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/coxaltdriver.wordpress.com\/wp-login.php?action=logout&_wpnonce=6bf5b81b92","homeURL":"http:\/\/altdriver.com\/","postID":"265","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"0","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://s0.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1479242854j"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var comment_like_text = {"loading":"Loading..."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://s1.wp.com/_static/??-eJyVy0sOQDAUheENqevRhIlYC3VDq61yWywfMWEiMf3P+WBzTEzWo/WgCDpcpUC3x4oieEwmMKdDLy2BliMSzAEDDo3tNC4fZzEZcyZ2I3XpFmiTDv+gVzhhbaqUFwnPeVpm6gAi2kfU"></script>
+<script type="text/javascript" src="//assets.pgs.io/button/v2/dpg.js?ver=4.6.1-RC1-38499"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpcomVipAnalytics = {"is_404":"0","is_home":"0","is_single":"0","is_front_page":"0","is_archive":"0","percentToTrack":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://s1.wp.com/_static/??-eJyNzMsOgjAQheEXcpiAJMSF8VmaOsUpvaUzILy91KUrtyfn//BdwOaklBT1RZEENy5o8w7VVIISjLpcIxYzEyjFNpwnfpIJ6AVFcz26yKnzcsF/tRYuXCBwWsBluwo43n+JuJ7FOnMSHKBB/uuBSSYcylbO4BHv/Thdh+nWj6P/AJz6S8k="></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"channelUrl":"https:\/\/coxaltdriver.wordpress.com\/wp-content\/themes\/vip\/plugins\/facebook\/channel.php","xfbml":true});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
+/* ]]> */
+</script>
+<div id="fb-root"></div><script type="text/javascript">(function(d){var id="facebook-jssdk";if(!d.getElementById(id)){var js=d.createElement("script"),ref=d.getElementsByTagName("script")[0];js.id=id,js.async=true,js.src="http:\/\/connect.facebook.net\/en_US\/all.js",ref.parentNode.insertBefore(js,ref)}})(document)</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var actionbardata = {"siteID":"117130527","siteName":"alt_driver","siteURL":"http:\/\/altdriver.com","icon":"<img alt='' src='https:\/\/s1.wp.com\/i\/void.gif' class='avatar avatar-36' height='36' width='36' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"vip\/cox-rare-platform","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/coxaltdriver.wordpress.com\/wp-login.php?redirect_to=http%3A%2F%2Faltdriver.com%2Fprivacy-policy%2F","themeURL":"","xhrURL":"http:\/\/altdriver.com\/wp-admin\/admin-ajax.php","nonce":"04b54de36e","isSingular":"1","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"fd6c111f69\" \/>","referer":"http:\/\/altdriver.com\/privacy-policy\/","canFollow":"1","statusMessage":"","customizeLink":"https:\/\/coxaltdriver.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fcoxaltdriver.wordpress.com%2Fprivacy-policy%2F","postID":"265","shortlink":"http:\/\/wp.me\/P7Vt03-4h","canEditPost":"","editLink":"https:\/\/coxaltdriver.wordpress.com\/wp-admin\/post.php?post=265&action=edit","i18n":{"view":"View Site","follow":"Follow","following":"Following","edit":"Edit","login":"Log In","signup":"Sign Up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: Rare Media Platform (cox-rare-platform)","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editFollows":"Manage Sites I Follow","editSubs":"Manage Subscriptions","viewReader":"View Site in the Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"Join 38 other followers","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/coxaltdriver.wordpress.com\/wp-login.php?redirect_to=http%3A%2F%2Faltdriver.com%2Fprivacy-policy%2F\">Log in now.<\/a>"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.js?m=1476338670h"></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?55" type="text/javascript" async="" defer=""></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'117130527','blog_tz':'-5','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'117130527','v':'wpcom','tz':'-5','user_id':'0','post':'265','subd':'coxaltdriver'}]);
+function st_vt() {var x=document.createElement("img");x.src="http://pixel.wp.com/g.gif?blog=117130527&v=wpcomvt&tz=-5&user_id=0&post=265&subd=coxaltdriver&rand="+Math.random();}
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1BNmNJfGhxNCVxUDExYmtXRThKbHcwXTdELFhpLV9LZXBVdjhsQkRwbiw0dEZbeXRHa19JTF9jRWRSanltclJbVEZWZ29OSVYuLz03TTJsdFNmLF0vWllNLTF3OE4vTEdIZFYuOFd+Vyx8Tzh+cHxkZl9nP1VIZ3A/QWMldHNjZW4mZlozLSx8ME5iZFN4Tmp5MVRTVHk5cTZzfCsyUmpZVTlGQ0RPY0VMM3I5Uj1nWGp3bU1BLnNpRjloNnkxdF1XLTRuQVFsLThsMnQtSElmUmtkNF1Db0VXVXJia1VDa1pac1pmdXU='}]);
+_stq.push([ 'clickTrackerInit', '117130527', '265' ]);
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script><!-- Twitter universal website tag code -->
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">twttr.conversion.trackPid('nunws', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=nunws&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=nunws&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+</noscript>
+<!-- End Twitter universal website tag code -->
+<!--Pinterest Tracking Pixel-->
+<img height="1" width="1" style="display:none;" alt="" src="https://ct.pinterest.com/?tid=4zyabz5KGmz&amp;value=0.00&amp;quantity=1">
+
+</body></html>
