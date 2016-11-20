@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the moglix.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619113659id_/http%3A//www.moglix.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moglix.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120015926id_/http%3A//www.moglix.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Moglix
 
-### Privacy policy
-
-MOGLILABS PRIVATE LIMITED (hereinafter referred to as "MOGLIX") is committed to safeguarding its users' privacy (hereinafter referred to as “Your” "You") accessing its website (i.e.moglix.com) and has provided this Privacy Policy to familiarize You with the manner in which MOGLIX collects, uses and discloses Your information collected through the Website.
+MOGLILABS PRIVATE LIMITED (hereinafter referred to as "MOGLIX") is committed to safeguarding its users' privacy (hereinafter referred to as "Your" "You") accessing its website (i.e.moglix.com) and has provided this Privacy Policy to familiarize You with the manner in which MOGLIX collects, uses and discloses Your information collected through the Website.
 
 Before you subscribe to and/or begin participating in or using website, MOGLIX believes that You have fully read, understood and accept the terms and conditions of this privacy policy.
 
@@ -19,17 +17,11 @@ This Policy should be at all times read along with the Terms of Use of the Websi
 MOGLIX collects personal and non-personal information when they register to gain access to the services provided by the MOGLIX or at other specific instances when they are requested to provide us with their personal & non-personal information ("Information"). Personal Information shall include, but not limited to, information regarding
 
   1. YOUR NAME
-
   2. DATE OF BIRTH
-
   3. GENDER
-
   4. ADDRESS
-
   5. TELEPHONE NUMBER
-
   6. E-MAIL ADDRESS
-
 
 
 
