@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123mommy.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617050918id_/http%3A//www.123mommy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123mommy.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120102140id_/http%3A//www.123mommy.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,6 +17,10 @@ Your IP address is not used to gather broad demographic information and 123 Momm
 **Third Party Advertising**
 
 We use third-party advertising companies to serve ads when you visit 123mommy.com. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+
+**Sharing Of Information**
+
+There are no scripts or programs running on our server that store your information. We allow our third party advertisers to host scripts on our webpages. Third party advertisers might collect, store and use your information. These scripts are not property of our game portal website and are subject to the privacy policy of the third party. Find the links to the third party privacy policies in the sections below to learn more.
 
 **Third Party Cookies**
 
