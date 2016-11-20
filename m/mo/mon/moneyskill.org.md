@@ -1,53 +1,26 @@
-> *The following text is extracted and transformed from the moneyskill.org privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312093641id_/http%3A//www.moneyskill.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyskill.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120142139id_/http%3A//www.moneyskill.org/Privacy-Policy) for the most accurate reproduction.*
 
-# MoneySKILL®
+# Privacy Policy
 
-  
-[](https://web.archive.org/web/20160312093641id_/http%3A//www.moneyskill.org/index.cfm)  
-  
-[](https://web.archive.org/web/20160312093641id_/http%3A//www.moneyskill.org/about.cfm)  
-  
-[](https://web.archive.org/web/20160312093641id_/http%3A//www.moneyskill.org/legis.cfm)  
-  
-[](https://web.archive.org/web/20160312093641id_/http%3A//www.moneyskill.org/standards.cfm)  
-  
-[](https://web.archive.org/web/20160312093641id_/http%3A//www.moneyskill.org/news.cfm)  
-  
-[](https://web.archive.org/web/20160312093641id_/http%3A//www.moneyskill.org/resources.cfm)  
-  
-[](https://web.archive.org/web/20160312093641id_/http%3A//www.moneyskill.org/contact.cfm)  
-  
+The American Financial Services Association Education Foundation (AFSAEF) is an affiliate of the American Financial Services Association (AFSA) established to heighten consumers' awareness of personal financial responsibility and we are committed to protecting any data that we collect concerning you. Our website is [www.afsaef.org](https://web.archive.org/) and by using our services you agree to the use of the data that we collect in accordance with this Privacy Policy.
 
+**Commitment to Privacy  **  
+We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. This Policy indicates the type of processes that may result in data being collected about you. Your use of this website gives us the right to collect that information. 
 
-  
-
-
-This demonstration module will allow you to become familiar with the course presentation. You will be able to read and hear the text. To move through the text, click on the arrows below  the text. Each page will have a question that you need to answer before proceeding.
-
-AFSAEF's mission is to help consumers realize the benefits of responsible money management, understand the credit process, and seek help if credit problems occur. 
-
-| 
-
-Privacy Policy
-
-MoneySKILL® takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. 
-
-**Routine Information Collection**  
-Non-specific information concerning your visit to this site may be collected for analysis and statistical purposes concerning the use of this site. This type of information is non-personal in nature. We may also collect any or all of the information that you give us depending on the type of transaction you enter into, including your name, address, telephone number, fax number and email address, together with data about your use of the website. Other information that may be needed from time to time to process a request may also be collected as indicated on the website. 
-
-**Web Browser Cookies**  
-Where necessary, MoneySKILL® uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content. This is done for the sole purpose of controlling your access and remembering user preferences on the MoneySKILL® site. In no way are they used to track any behavior outside of the MoneySKILL® web site. 
+**Information Collected**  
+Non-specific information concerning your visit to this site may be collected for analysis and statistical purposes concerning the use of this site. This type of information is non-personal in nature. We may also collect any or all of the information that you give us depending on the type of transaction you enter into, including your name, address, telephone number, fax number and email address, together with data about your use of the website. Other information that may be needed from time to time to process a request may also be collected as indicated on the website. Data in relation to credit card payments is processed by Nova Information Systems on a secure website linked to ours and they have their own privacy policy.
 
 **Information Use**  
-We use the information collected primarily to process the task for which you visited the website. Data collected in the United States is held in accordance applicable laws and stored securely. All reasonable precautions are taken to prevent unauthorised access to this information. 
+We use the information collected primarily to process the task for which you visited the website.  Data collected in the United States is held in accordance applicable laws and stored securely.  All reasonable precautions are taken to prevent unauthorised access to this information.  This safeguard may require you to provide additional forms of identity should you wish to obtain information about your account details.
 
-**Privacy in the Teacher Administration Area**  
-At MoneySKILL®, one of our top priorities is making sure that the information in your Teacher Administration System is protected and secure. At no time will we sell, distribute, or share the personal information that you may choose to enter into any of our systems. 
+**Cookies  **  
+Your Internet browser has the in-built facility for storing small files- "cookies" - that hold information which allows a website to recognise your account.  Our website takes advantage of this facility to enhance your experience. You have the ability to prevent your computer from accepting cookies but, if you do, certain functionality on the website may be impaired.
+
+**Disclosing Information**  
+We do not disclose any personal information obtained about you from this website to third parties except when we need to do so in order to complete the transaction – e.g. when arranging for a courier company to deliver goods that you have ordered or information that you have requested.  We may also use the information to keep in contact with you and inform you of developments associated with our business. You will be given the opportunity to remove yourself from any mailing list or similar device. If at any time in the future we should wish to disclose information collected on this website to any third party, it would only be with your knowledge and consent. We may from time to time provide information of a general nature to third parties - for example, the number of individuals visiting our website or completing a registration form, but we will not use any information that could identify those individuals. 
 
 **Changes to this Policy**  
-Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval. 
+Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval.
 
 **Contacting Us**  
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [info@moneyskill.org](mailto:info@moneyskill.org). You can also correct any factual errors in that information or require us to remove your details form any list under our control. 
-
-We value our relationship with you and work hard to preserve your organization's privacy. . 
+If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please [email us](mailto:info@afsaef.org).  You can also correct any factual errors in that information or require us to remove your details form any list under our control.
