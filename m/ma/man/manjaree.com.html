@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the manjaree.com privacy policy that was archived on 2016-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608123414id_/http%3A//www.manjaree.com/Info/PrivicyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the manjaree.com privacy policy that was archived on 2016-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120131909id_/http%3A//www.manjaree.com/Info/PrivicyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
     <meta charset="utf-8" />
@@ -7,6 +7,7 @@
     <meta name="format-detection" content="telephone=no" />
     <meta http-equiv="x-rim-auto-match" content="none" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="/images/favicon.ico" />
     <!-- Fav and touch icons -->
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png" />
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/ico/apple-touch-icon-114-precomposed.png" />
@@ -26,7 +27,7 @@
     <link href="/Content/css/animate.min.css" rel="stylesheet" />
     <link href="/Content/css/owl.carousel.css" rel="stylesheet" />
     <link href="/Content/css/owl.theme.css" rel="stylesheet" />
-<link href="/Content/css/jquery.mCustomScrollbar.css" rel="stylesheet" />
+    <link href="/Content/css/jquery.mCustomScrollbar.css" rel="stylesheet" />
     <link href="/Content/css/jquery.dataTables.css" rel="stylesheet" />
     <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
@@ -47,6 +48,37 @@
     <script type="text/javascript">
 
         var scs = 0;
+
+        function blink() {
+            var $el = $(".a3"),
+                x = 500,
+                originalColor = $el.css("color"),
+                i = 100; //counter
+
+            (function loop() { //recurisve IIFE
+                $el.css("color", "white");
+                setTimeout(function () {
+                    $el.css("color", originalColor);
+                    if (--i) setTimeout(loop, x); //restart loop
+                }, x);
+            }());
+        }
+
+        function blink1() {
+            var $el = $(".a4"),
+                x = 500,
+                originalColor = $el.css("color"),
+                i = 100; //counter
+
+            (function loop() { //recurisve IIFE
+                $el.css("color", "red");
+                setTimeout(function () {
+                    $el.css("color", originalColor);
+                    if (--i) setTimeout(loop, x); //restart loop
+                }, x);
+            }());
+        }
+
 
         function blink() {
             var $el = $(".a3"),
@@ -112,6 +144,32 @@
                 }
             });
         }
+
+        function FetFlatPrice() {
+            // alert("CountCart");
+            var jsonData = {
+
+            };
+            $.ajax({
+                type: "POST",
+                url: '/Product/FlatPrice',
+                data: JSON.stringify(jsonData),
+                contentType: 'application/json; charset=utf-8'
+            }).done(function (data) {
+                var str = ""
+                for (var i = 0 ; i &lt; data.result.length; i++) {
+                    var asc = data.result[i];
+                    asc = asc.replace('.00', '');
+                    str = " &lt;li class='text-center promo-1'&gt;&lt;b&gt;&lt;a href='/Products/FlatPrice?mg=" + asc + "' style='color:white'&gt;" + asc + "&lt;/a&gt;&lt;/b&gt;&lt;/li&gt;";
+                    $(".bindFlatprice").append(str);
+
+                }
+
+                //alert(strddlColor)
+            }).error(function (jqXHR, textStatus, errorThrown) {
+                //alert(jqXHR);
+            });
+        }
         function Web_ReminndMeReminder() {
             //alert("DeleteCartItem");                           
             var jsonData = {
@@ -137,7 +195,93 @@
         }
 
 
+        function saveInventory() {
+            
+            var isValid = true;
+            var a = $("#hdnSizeType").val()
+            if (a &gt; 0) {
 
+                if ($("#txtxs").val() == "" &amp;&amp; $("#txts").val() == "" &amp;&amp; $("#txtm").val() == "" &amp;&amp; $("#txtl").val() == "" &amp;&amp; $("#txtxl").val() == "" &amp;&amp; $("#txtxxl").val() == "" &amp;&amp; $("#txtxxxl").val() == "") {
+                    toastr.info('Please give your Quantity', 'Your Inventory');
+                    return false
+                }
+                
+            }
+            else {
+                if ($("#txtinvQuantity").val() == "" || $("#txtinvQuantity").val() == null) {
+                    toastr.info('Please give your Quantity', 'Your Inventory');
+                    return false
+                }
+            }
+            $('.InventoryRequire').each(function () {
+                if ($.trim($(this).val()) == '') {
+                    isValid = false;
+                    $(this).css({
+                        "border": "1px solid red",
+                        "background": "#FFCECE"
+                    });
+                }
+                else {
+                    $(this).css({
+                        "border": "",
+                        "background": ""
+                    });
+                }
+            });
+            if ($("#txtinvQuantity").val() == "") {
+                $("#txtinvQuantity").val("0")
+            }
+            if (isValid) {
+                var jsonData = {
+                    InventoryId: $("#hdnInventoryId").val(),
+                    Catalog_No: $("#txtinvcatalogno").val(),
+                    Manjaree_No: $("#txtinvmanjareeno").val(),
+                    Vendor_Deign_No: $("#txtdesignnumber").val(),
+                    Quantity: $("#txtinvQuantity").val(),
+                    Brandname: $("#txtinvbrand").val(),
+                    price: $("#txtinvprice").val(),
+                    xs: $("#txtxs").val(),
+                    s: $("#txts").val(),
+                    m: $("#txtm").val(),
+                    l: $("#txtl").val(),
+                    xl: $("#txtxl").val(),
+                    xxl: $("#txtxxl").val(),
+                    xxxl: $("#txtxxxl").val(),
+                };
+                $.ajax({
+                    type: "POST",
+                    url: '/Product/AddtoInventory',
+                    data: JSON.stringify(jsonData),
+                    contentType: 'application/json; charset=utf-8'
+                }).done(function (data) {
+                    //alert(data.totalcartitem);   
+                    
+                    if (data.message == 1) {
+                        toastr.success('Product add to Inventory successfully.', 'Your Inventory Item');
+                        clearInventoryForm();
+                        $("#ModalInventory").modal("hide");
+                    } else {
+                        toastr.info('Their is some problem to add Inventory on this product', 'Your Inventory Item');
+                    }
+                });
+            }
+
+        }
+        function clearInventoryForm() {
+            $("#hdnInventoryId").val("0"),
+            $("#txtinvcatalogno").val(""),
+            $("#txtinvmanjareeno").val(""),
+            $("#txtdesignnumber").val(""),
+            $("#txtinvQuantity").val(""),
+            $("#txtinvbrand").val(""),
+            $("#txtxs").val(""),
+            $("#txts").val(""),
+            $("#txtm").val(""),
+            $("#txtl").val(""),
+            $("#txtxl").val(""),
+            $("#txtxxl").val(""),
+            $("#txtxxxl").val("")
+        }
 
 
 
@@ -145,26 +289,25 @@
             $.ajax({
                 type: "POST",
                 url: '/ShoppingCart/ShowMiniCart',
-                contentType: 'application/json; charset=utf-8'
-            }).done(function (data) {
-                $(".addtocartImg .dropdown-menu").html('');
-                $(".addtocartImg .dropdown-menu").html(data);
+            contentType: 'application/json; charset=utf-8'
+        }).done(function (data) {
+            $(".addtocartImg .dropdown-menu").html('');
+            $(".addtocartImg .dropdown-menu").html(data);
 
-            }).error(function (jqXHR, textStatus, errorThrown) {
-                //  alert(jqXHR+"sd");
-            });
-        }
-        function CountCart() {
-            // alert("CountCart");
-            $.ajax({
-                url: '/product/GetCartCount',
+        }).error(function (jqXHR, textStatus, errorThrown) {
+            //  alert(jqXHR+"sd");
+        });
+    }
+    function CountCart() {
+        // alert("CountCart");
+        $.ajax({
+            url: '/product/GetCartCount',
                 type: "GET",
 
                 contentType: "application/json; charset=utf-8",
                 success: function (response, status, xhr) {
                     // $('#cartCount').text(response);
                     $('#cartCount1').text(response);
-
                     $('#cartCount3').text(response);
 
                 },
@@ -183,6 +326,7 @@
                 success: function (response, status, xhr) {
                     $('#cartCount').text(response);
                     $('#cartCount2').text(response);
+
                     if (Number(response) &gt; 0) {
                         $(".miniCartTable").show();
                         $(".miniCartm").show();
@@ -260,9 +404,29 @@
             });
         }
         $(document).ready(function () {
+         
+
+
+
+            $("input[name$='sizetype']").click(function () {
+                var val = $(this).val();
+                if (val == "othersize") {
+                    $("#othersize").show();
+                    $("#fixedsize").hide();
+                }
+                else {
+                    $("#othersize").hide();
+                    $("#fixedsize").show();
+                }
+            });
+
+           
             blink();
-
-
+            blink1();
+            FetFlatPrice();
+            $(".VendorForgottfrontpass").click(function () {
+                $("#VendotForgottFrontpanel").slideToggle("slow");
+            });
 
             $("#txtmastersearch").typeahead({
                 minLength: 3,
@@ -282,9 +446,9 @@
                             if (result.Parameterlist.length == 0) {
                             }
                             else {
-                              //  objects.push("Readytoship");
+                                //  objects.push("Readytoship");
                                 //map["Readytoship"]=Object
-                               
+
                                 $.each(result.Parameterlist, function (i, object) {
                                     map[object.SearchResult] = object;
                                     // objects.push(object.SearchResult +'     '+ object.Returnval);
@@ -300,7 +464,7 @@
                     });
                 },
                 updater: function (item) {
-                    
+
 
                     var selectitem = item;
                     var hurl = window.location.host;
@@ -372,6 +536,50 @@
             }
         }
 
+        function VendorForgotPassword() {
+
+            var isvalid = false;
+            if ($("#VendortxtForgotPassword").val() != "") {
+
+                var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+                if (!filter.test($("#VendortxtForgotPassword").val())) {
+                    toastr.info('Please provide a valid email address', 'Forgot Password');
+                    //$("#txtEmail").focus();
+                    isvalid = false;
+                    return false;
+                } else {
+                    isvalid = true;
+                }
+
+                if (isvalid == true) {
+                    JavascriptFunction();
+                    $.ajax({
+                        type: "POST",
+                        url: '/Home/VendorForGotPassword',
+                        data: JSON.stringify({ email: $("#VendortxtForgotPassword").val() }),
+                        contentType: 'application/json; charset=utf-8'
+                    }).done(function (data) {
+                        if (data.message != "") {
+                            $("#VendorModalLogin").modal('hide');
+                            $("#divLoading").hide();
+                            toastmsg(data.message);
+                        }
+
+                    }).error(function (jqXHR, textStatus, errorThrown) {
+                        $("#divLoading").hide();
+                        $("#VendorspnForGotErrorMsg").text(jqXHR);
+                    });
+                }
+                $("#VendortxtForgotPassword").val("");
+            }
+            else {
+                $("#VendortxtForgotPassword").css({
+                    "border": "1px solid red",
+                    "background": "#FFCECE"
+                })
+            }
+        }
+
         function Signin() {
             var isValid = true;
             $('.signInRequire').each(function () {
@@ -431,6 +639,71 @@
 
             }
         }
+
+
+
+        function VendorSignin() {
+
+            //alert(navigator.appName);
+            //alert(navigator.appCodeName);
+
+            var isValid = true;
+            $('.VendorsignInRequire').each(function () {
+                if ($.trim($(this).val()) == '') {
+                    isValid = false;
+                    $(this).css({
+                        "border": "1px solid red",
+                        "background": "#FFCECE"
+                    });
+                }
+                else {
+                    $(this).css({
+                        "border": "",
+                        "background": ""
+                    });
+                }
+            });
+            if (isValid == true) {
+                JavascriptFunction();
+                $("#VendorspnLoginErrorMsg").text("");
+
+                var rchk = true;
+                //alert($("#rmchk").is(':checked'));
+                if ($("#Vendorrmchk").is(':checked')) {
+                    rchk = true;
+                } else {
+                    rchk = false;
+                }
+
+
+                var jsonData = { userName: $("#txtVendorLoginUserName").val(), password: $("#txtVendorLoginPassword").val(), ptype: "catalog", rchk: rchk };
+                $.ajax({
+                    type: "POST",
+                    url: '/Home/VendorLogin',
+                    data: JSON.stringify(jsonData),
+                    contentType: 'application/json; charset=utf-8'
+                }).done(function (data) {
+                    if (data.message == 1) {
+                        
+                        window.location = window.location.href;
+                    }
+                    else if (data.message == 2) {
+                        $("#VendorspnLoginErrorMsg").text("Your account is not activated yet, please check your mail and follow verification link.");
+                        //$("#spnLoginErrorMsg").text("Your account is not activated yet, MANJAREE will contact you soon and please check your activation mail.");
+                    }
+                    else {
+                        $("#VendorspnLoginErrorMsg").text("Username or password wrong!.");
+                    }
+                    $("#divLoading").hide();
+                }).error(function (jqXHR, textStatus, errorThrown) {
+                    $("#divLoading").hide();
+                    //alert(jqXHR);
+                });
+
+            }
+
+        }
+
         function getParameterByName() {
             var parts = window.location.href.split('/');
             var answer = parts[parts.length - 1];
@@ -500,12 +773,50 @@
             }
             clearRegistrationData();
         }
+
+        function VendorRegister() {
+            if ($("#Vendorturmandcondition").is(':checked') == false) {
+                isValid = false;
+                $("#spnErrorMsgTurmCondition").text("Please Tick or Select  Terms &amp; Conditions !");
+                return false;
+            }
+            $("#divLoading").show();
+            //alert("divLoading2");
+            JavascriptFunction();
+            $("#VendorspnErrorMsg").text("");
+            var jsonData = { userName: $("#txtVendorUserName").val(), email: $("#txtVendorEmail").val(), password: $("#txtVendorPassword").val(), mobile: $("#txtVendorMobile").val() };
+            $.ajax({
+                type: "POST",
+                url: '/Home/VendorRegistration',
+                data: JSON.stringify(jsonData),
+                contentType: 'application/json; charset=utf-8'
+            }).done(function (data) {
+                $("#VendorModalSignup").modal('hide');
+                $("#VendorTermsAndConditionModal").modal('hide');
+                //alert(data.message);
+                toastmsg(data.message);
+                $("#divLoading").hide();
+            }).error(function (jqXHR, textStatus, errorThrown) {
+                $("#divLoading").hide();
+                //alert(jqXHR);
+            });
+            VendorclearRegistrationData();
+        }
+
         function clearRegistrationData() {
             $("#txtUserName").val("");
             $("#txtEmail").val("");
             $("#txtPassword").val("");
             $("#txtConformPassword").val("");
             $("#txtMobile").val("");
+        }
+
+        function VendorclearRegistrationData() {
+            $("#txtVendorUserName").val("");
+            $("#txtVendorEmail").val("");
+            $("#txtVendorPassword").val("");
+            $("#txtVendorConformPassword").val("");
+            $("#txtVendorMobile").val("");
         }
 
         function JavascriptFunction() {
@@ -540,6 +851,10 @@
     overflow-y: scroll;
 }
         #ForgottFrontpanel {
+            display: none;
+        }
+
+         #VendotForgottFrontpanel {
             display: none;
         }
 
@@ -811,14 +1126,57 @@
                 color: white;
                 background-color:green;
                 font-family: Arial, sans-serif;
-                height: 40px;
-                width: 40px;
-                
-                font-size: 30px;
+                height: 30px;
+                width: 30px;
+                font-size: 20px;
+                font-weight: bold;
+                text-decoration: none;
+                border-radius:3px;
+            }
+
+
+          #lookbook {
+            height: 25px;
+            width: 25px;
+            position: fixed;
+            top: 74%;
+            z-index: 1009;
+        }
+
+            #lookbook a {
+                display: block;
+                color: white;
+                background-color:#6600CC;
+                font-family: Arial, sans-serif;
+                height: 30px;
+                width: 30px;
+                border-radius:3px;
+                font-size: 20px;
                 font-weight: bold;
                 text-decoration: none;
             }
 
+          #AndroidApp {
+            height: 25px;
+            width: 25px;
+            position: fixed;
+            top: 68%;
+            z-index: 1009;
+        }
+
+            #AndroidApp a {
+                display: block;
+                color: white;
+                background-color:#A4C739;
+                font-family: Arial, sans-serif;
+                height: 30px;
+                width: 30px;
+                border-radius:3px;
+                font-size: 20px;
+                font-weight: bold;
+                text-decoration: none;
+            }
+        
         #facebook {
             height: 25px;
             width: 25px;
@@ -832,20 +1190,21 @@
                 color:white;
                 background-color: #00285A;
                 font-family: Arial, sans-serif;
-                height: 40px;
-                width: 40px;
-                font-size: 30px;
+                height: 30px;
+                width: 30px;
+                font-size: 20px;
                 font-weight: bold;
                 text-decoration: none;
+                border-radius:3px;
             }
- #goto { 
-  height: 210px; 
-         margin-left:px;
-  width: 110px; 
-  position: fixed; 
-  top: 80%; 
-  z-index: 2009;
- 
+             #goto { 
+              height: 210px; 
+                     margin-left:px;
+              width: 110px; 
+              position: fixed; 
+              top: 80%; 
+              z-index: 2009;
+  
 }
 
 
@@ -862,8 +1221,14 @@
     <div id="feedback">
         <a data-toggle="modal" class="btn btn-default" data-target=".bs-example-modal-feedback">Feedback</a>
     </div>
+    <div id="AndroidApp">
+        <a data-toggle="modal" class="" href="https://play.google.com/store/apps/details?id=com.dnk.manjaree&amp;hl=en" data-target="" title="Download Android App"><i class="fa fa-android" style="margin-left: 6px; margin-top: 3px" aria-hidden="true"></i></a>
+    </div>
+    <div id="lookbook">
+        <a data-toggle="modal" class="" href="/info/lookbook" data-target="" title="Get a Catalog Album"><i class="fa fa-book" style="margin-left: 6px; margin-top: 3px" aria-hidden="true"></i></a>
+    </div>
     <div id="whatsapp">
-        <a data-toggle="modal" class="" href="https://docs.google.com/a/manjaree.in/forms/d/1uoKNbxQbPeYyTffCfU1SUaaKG04ZNcMEu_pILIIDEGY/viewform?c=0&amp;w=1" data-target="" title="Join us on whatsup"><i class="fa fa-whatsapp" style="margin-left: 6px; margin-top: 3px" aria-hidden="true"></i></a>
+        <a data-toggle="modal" class="" href="http://manjaree.com/Info/WhatsappRegistration" data-target="" title="Join us on whatsup"><i class="fa fa-whatsapp" style="margin-left: 6px; margin-top: 3px" aria-hidden="true"></i></a>
     </div>
     <div id="facebook">
         <a data-toggle="modal" class="" href="https://www.facebook.com/Manjareecom-1391013251127210/?fref=ts" data-target="" title="Join us on facebook"><i class="fa fa-facebook-square" style="margin-left: 6px; margin-top: 3px" aria-hidden="true"></i></a>
@@ -1019,8 +1384,9 @@
                         <div class="pull-right">
                             <ul class="userMenu">
                                     <li><a><span class="hidden-xs">Wel come, Guest</span></a></li>
-                                    <li><a href="#" data-toggle="modal" data-target="#ModalLogin"><span class="hidden-xs">Sign In</span> <i class="glyphicon glyphicon-log-in hide visible-xs "></i></a></li>
-                                    <li class="hidden-xs"><a href="#" data-toggle="modal" data-target="#ModalSignup">Create Account </a></li>
+                                    <li><a href="#" data-toggle="modal" data-target="#ModalLogin"><span class="hidden-xs">Customer Login</span> <i class="glyphicon glyphicon-log-in hide visible-xs "></i></a></li>
+                                    <li class="hidden-xs"><a href="#" data-toggle="modal" data-target="#ModalSignup">New Customer </a></li>
+                                    <li class="hidden-xs"><a href="#" data-toggle="modal" data-target="#ModalVendorSignup">Vendor Login</a></li>
                             </ul>
                         </div>
                     </div>
@@ -1033,12 +1399,12 @@
 
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="sr-only">Toggle navigation </span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-cart"><i class="fa fa-shopping-cart colorWhite "></i><span class="cartRespons colorWhite">Cart (<span id="Mobileminicartfinalprice"><label id="cartCount2"></label></span>) </span></button>
-                <a class="navbar-brand " href="/Dashboard">
+                   <a class="navbar-brand " href="/Dashboard">
                     
                     Manjaree
                 </a>
-
                 
             </div>
 
@@ -1076,7 +1442,7 @@
 
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li class="active" style="height: 55px"><a href="/Dashboard">Home </a></li>
+                        <li class="active" style="height: 55px"><a href="/Dashboard">Home </a></li>
                     
 
                     
@@ -1095,7 +1461,7 @@
                                         <li><a href="/Products?mg=EthnicWear"><b>
                                             </b><h4 style="color: #2ecc71"><b>
                                             Ethnic Wear</b></h4></a></li>
-                                        <li><a href="/Product?mg=Saree">Sarees </a></li>
+                                        <li><a href="/Product?mg=saree" )"="">Sarees</a></li>
                                         <li><a href="/Product?mg=Salwar">Salwar kameez </a></li>
                                         <li><a href="/Product?mg=Kurtis">Kurtis </a></li>
                                         <li><a href="/Product?mg=Gown">Wedding Gowns </a></li>
@@ -1109,7 +1475,7 @@
                                         <li><a href="/Products?mg=WesternWear"><b>
                                             </b><h4 style="color: #2ecc71"><b>
                                             Western Wear</b></h4></a></li>
-                                        <li><a href="/Product?mg=Top">Bottom </a></li>
+                                        <li><a href="/Product?mg=Bottom">Bottom </a></li>
                                         <li><a href="/Product?mg=Top">Top</a></li>
                                         <li><a href="/Product?mg=Dress">Dress</a></li>
                                     </ul>
@@ -1174,40 +1540,103 @@
                         </ul>
                     </li>
 
-                    <li class="navbar-form navbar-right">
-                    <input class="form-control typeahead" type="text" style="width: 500px; border-radius: 4px;height:33px !important" id="txtmastersearch" placeholder="Search Anything BRAND,CATALOG,PRODUCT,CELEBRITY,COLOR,FABRIC,WORK" />
-                </li>
+                    <li class="navbar-form ">
+                        <input class="form-control typeahead" type="text" style="width: 400px; border-radius: 4px; height: 33px !important" id="txtmastersearch" placeholder="Search Anything BRAND,CATALOG,PRODUCT,CELEBRITY,COLOR,FABRIC,WORK" />
+                    </li>
+                    <li class="dropdown megamenu-80width">
+
+                        <a class="dropdown-toggle a4" data-toggle="dropdown" style="height: 57px; color: yellow"><b>Offer-Zone</b></a>
+                        <ul class="dropdown-menu">
+                            <li class="megamenu-content">
+
+                                <ul class="col-lg-2 col-sm-2 col-md-2">
+                                    <li class="text-center">
+                                        <p class="promo-1"><strong><a href="/Products/OfferZone?mg=0-10" style="color:white">Upto 10%</a></strong></p>
+                                        (0-10)<br />
+                                    </li>
+                                </ul>
+                                <ul class="col-lg-2 col-sm-2 col-md-2">
+                                    <li class="text-center">
+                                        <p class="promo-1"><strong><a href="/Products/OfferZone?mg=11-20" style="color:white">Upto 20%</a></strong></p>
+                                        (11-20)<br />
+                                    </li>
+                                </ul>
+                                <ul class="col-lg-2 col-sm-2 col-md-2">
+                                    <li class="text-center">
+                                        <p class="promo-1"><strong><a href="/Products/OfferZone?mg=21-30" style="color:white">Upto 30%</a></strong></p>
+                                        (21-30)<br />
+                                    </li>
+                                </ul>
+                                <ul class="col-lg-2 col-sm-2 col-md-2">
+                                    <li class="text-center">
+                                        <p class="promo-1"><strong><a href="/Products/OfferZone?mg=31-40" style="color:white">Upto 40%</a></strong></p>
+                                        (31-40)<br />
+                                    </li>
+                                </ul>
+                                <ul class="col-lg-2 col-sm-2 col-md-2">
+                                    <li class="text-center">
+                                        <p class="promo-1"><strong><a href="/Products/OfferZone?mg=41-50" style="color:white">Upto 50%</a></strong></p>
+                                        (41-50)<br />
+                                    </li>
+                                </ul>
+                                <ul class="col-lg-2 col-sm-2 col-md-2">
+                                    <li class="text-center">
+                                        <p class="promo-1"><strong><a href="/Products/OfferZone?mg=51-60" style="color:white">Upto 60%</a></strong></p>
+                                        (51-60)<br />
+                                    </li>
+                                </ul>
+
+                            </li>
+                            <li>
+                                <ul class="col-lg-12 col-sm-12 col-md-12">
+                                    <li class="text-center">
+                                        <u><b>FLAT PRICE PRODUCTS</b></u>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="megamenu-content text-center">
+                                <div class="">
+
+                                    <ul class="col-md-12 list-inline bindFlatprice">
+                                        <br />
+                                        
+                                    </ul>
+                                </div>
+                            </li>
+                        </ul>
+                    </li>
                 </ul>
 
-                
+
 
 
                 <div class="nav navbar-nav navbar-right hidden-xs">
-                    <div class="dropdown  cartMenu cartMenu1" title="Your Wishlist Product">
-                        <div id="cntwishlist" style="display: none">
-                            <a class="dropdown-toggle" data-toggle="" onclick="gotoWishlist();"><span class="cartRespons"><i class="glyphicon1 glyphicon-heart"></i></span>
-                                <label style="color: white; font-size: 10px;"><span class="cartRespons cntwishlist"></span></label>
-                                
-                            </a>
-                        </div>
-                    </div>
-                    <div class="dropdown  cartMenu cartMenu1" title="Your Reminder Product Available">
-                        <div id="cntRmd" style="display: none">
-                            <a class="dropdown-toggle" data-toggle="" onclick="gotoRemindMe();"><span class="cartRespons"></span><i class="glyphicon glyphicon-time" style="font-size: 15px; line-height: 0px"></i>
-                                <label style="color: red; font-size: 10px;"><span class="cartRespons cntRmd a3" style="margin-bottom: 10px;"></span></label>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="dropdown  cartMenu">
-                        
-                        
+                    <input type="hidden" id="shcarthdn" value="value" />
+                        <div class="dropdown  cartMenu cartMenu1" title="Your Wishlist Product">
+                            <div id="cntwishlist" style="display: none">
+                                <a class="dropdown-toggle" data-toggle="" onclick="gotoWishlist();"><span class="cartRespons"><i class="glyphicon1 glyphicon-heart"></i></span>
+                                    <label style="color: white; font-size: 10px;"><span class="cartRespons cntwishlist"></span></label>
 
-                        <a class="dropdown-toggle" data-toggle="dropdown" onclick="gotocart();" style="height: 57px"><i class="fa fa-shopping-cart"></i><span class="cartRespons">Cart (
+                                </a>
+                            </div>
+                        </div>
+                        <div class="dropdown  cartMenu cartMenu1" title="Your Reminder Product Available">
+                            <div id="cntRmd" style="display: none">
+                                <a class="dropdown-toggle" data-toggle="" onclick="gotoRemindMe();"><span class="cartRespons"></span><i class="glyphicon glyphicon-time" style="font-size: 15px; line-height: 0px"></i>
+                                    <label style="color: red; font-size: 10px;"><span class="cartRespons cntRmd a3" style="margin-bottom: 10px;"></span></label>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="dropdown  cartMenu CartDisplay">
+                            
+                            
+
+                            <a class="dropdown-toggle" data-toggle="dropdown" onclick="gotocart();" style="height: 57px"><i class="fa fa-shopping-cart"></i><span class="cartRespons">Cart (
                             <label id="cartCount"></label>
-                            )</span> <b class=""></b></a>
-                        <div class="dropdown-menu col-lg-4 col-xs-12 col-md-4 ">
-                            <div class="w100 miniCartTable scroll-pane" style="height: auto">
-                                
+                                )</span> <b class=""></b></a>
+                            <div class="dropdown-menu col-lg-4 col-xs-12 col-md-4 ">
+                                <div class="w100 miniCartTable scroll-pane" style="height: auto">
+                                    
 <style>
     div.scroll {
         height: auto;
@@ -1225,18 +1654,14 @@
 
 </div>
 
+                                </div>
+                                <div class="miniCartFooter" style="height: 50px; display: block">
+                                    <span><a class="btn btn-sm btn-primary" onclick="gotocart();"><i class="fa fa-shopping-cart"></i> VIEW CART </a><span style="margin-left: 100px">Total Price: <span><b>
+                                        <label id="cartCount1"></label>
+                                    </b></span></span></span>
+                                </div>
                             </div>
-                            <div class="miniCartFooter" style="height: 50px; display: block">
-                                <span><a class="btn btn-sm btn-primary" onclick="gotocart();"><i class="fa fa-shopping-cart"></i> VIEW CART </a><span style="margin-left: 100px">Total Price: <span><b>
-                                    <label id="cartCount1"></label>
-                                </b></span></span></span>
-                            </div>
-
-                            
-
                         </div>
-                    </div>
-
                 </div>
             </div>
         </div>
@@ -1322,8 +1747,8 @@ In addition to our own cookies, our third party advertisers may use them to both
                         <ul>
                             <li><a href="/Info/tosellwithus">To sell with us</a></li>
                             <li><a href="/Info/tobuywithus">To buy with us</a></li>
-                            <li><a href="/Info/finance">Finance</a></li>
                             <li><a href="/Info/Career">Career</a></li>
+                            <li><a href="/Info/ExibitionsCorner">Exibitors Corner</a></li>
                         </ul>
                     </div>
                     <div class="col-lg-2  col-md-2 col-sm-4 col-xs-12">
@@ -1331,7 +1756,7 @@ In addition to our own cookies, our third party advertisers may use them to both
                         <ul>
                                 <li><a data-toggle="modal" data-dismiss="modal" href="#ModalLogin">Login </a></li>                                   
                             <li><a href="#">My Manjaree </a></li>
-                            <li><a href="/Product/Cart">My Shopping Cart </a></li>
+                                <li><a href="/Product/Cart">My Shopping Cart </a></li>
                             <li><a href="#">Check Order Status</a></li>
                             <li><a href="/Info/ChkCashOnDelivery">Check COD</a></li>
                             <li><a href="/Info/sitemap">Sitemap</a></li>
@@ -1372,7 +1797,9 @@ In addition to our own cookies, our third party advertisers may use them to both
                         <h3>Need Help?</h3>
                         <ul>
                             <li><a href="/Info/Contactus">Contact Us</a></li>
+                            <li><a href="/Info/BankDetails">Bank Details</a></li>
                         </ul>
+
                         <h3>Affiliate</h3>
                         <ul>
                             <li><a href="/Info/Giveandget">Give &amp; Get Bonus</a></li>
@@ -1520,13 +1947,13 @@ In addition to our own cookies, our third party advertisers may use them to both
                 <div class="modal-content">
                     <div class="modal-header">
                         <button type="button" class="close" data-dismiss="modal"><b>✖</b></button>
-                        <h3 class="modal-title-site text-center">Registration </h3>
+                        <h3 class="modal-title-site text-center">Customer Registration </h3>
                     </div>
                     <div class="modal-body">
 
                         <div class="form-group reg-username">
                             <div>
-                                <input name="login" class="form-control input registerRequired" id="txtUserName" size="20" placeholder="Enter Username" type="text" />
+                                <input name="login" class="form-control input registerRequired" id="txtUserName" size="20" placeholder="Billing Name" type="text" />
                             </div>
                         </div>
                         <div class="form-group reg-email">
@@ -1582,11 +2009,246 @@ In addition to our own cookies, our third party advertisers may use them to both
             <!-- /.modal-dialog -->
 
         </div>
+
+        <div class="modal signUpContent fade" id="ModalVendorSignup" tabindex="-1" role="dialog">
+            <div class="modal-dialog ">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal"><b>✖</b></button>
+                        <h3 class="modal-title-site text-center">Login  to Manjaree </h3>
+                    </div>
+                    <div class="modal-body">
+                        <div class="form-group login-username">
+                            <div>
+                                <input name="log" id="txtVendorLoginUserName" class="form-control input VendorsignInRequire" size="20" placeholder="Enter Username" type="text" />
+                            </div>
+                        </div>
+                        <div class="form-group login-password">
+                            <div>
+                                <input name="Password" id="txtVendorLoginPassword" class="form-control input VendorsignInRequire" size="20" placeholder="Password" type="password" />
+                                <span id="VendorspnLoginErrorMsg" style="color: red;"></span>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div>
+                                <div class="checkbox login-remember">
+                                    <label>
+                                        <input id="Vendorrmchk" name="rememberme" value="forever" checked="checked" type="checkbox" />
+                                        Remember Me
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div>
+                            <a href="javascript:void(0);" onclick="VendorSignin();" class="btn  btn-block btn-lg btn-primary">LOGIN</a>
+                        </div>
+
+                        <section id="VendorsocialLoginForm">
+                        </section>
+                        <!--userForm-->
+
+                    </div>
+                    <div class="modal-footer">
+                        <p class="text-center">
+                            Not here before? <a data-toggle="modal" data-dismiss="modal" href="#VendorModalSignup">Sign Up. </a>
+                            <br />
+                            <a href="javascript:void(0);" class="VendorForgottfrontpass">Forgot password? </a>
+                        </p>
+                        <div id="VendotForgottFrontpanel">
+                            <div class="input-icon">
+                                <i class="icon-envelope"></i>
+                                <input type="text" name="txtForgotPassword" id="VendortxtForgotPassword" class="form-control" placeholder="Enter Email Address" data-rule-required="true" data-rule-email="true" data-msg-required="Please enter your email." />
+                                <span id="VendorspnForGotErrorMsg" style="color: red;"></span>
+                                <a class="btn btn-primary" href="javascript:void(0);" onclick="VendorForgotPassword();"><i class="fa fa-sign-in"></i>Get Password</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /.modal-content -->
+
+            </div>
+            <!-- /.modal-dialog -->
+
+        </div>
         <!-- /.ModalSignup End -->
+        <div class="modal signUpContent fade" id="VendorModalSignup" tabindex="-1" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal"><b>✖</b></button>
+                        <h3 class="modal-title-site text-center">Vendor Registration </h3>
+                    </div>
+                    <div class="modal-body">
+                        <div class="form-group reg-username">
+                            <div>
+                                <input name="login" class="form-control input vendorregisterRequired" id="txtVendorUserName" size="20" placeholder="Enter Username" type="text" />
+                            </div>
+                        </div>
+                        <div class="form-group reg-email">
+                            <div>
+                                <input name="reg" class="form-control input vendorregisterRequired" id="txtVendorEmail" size="20" placeholder="Enter Email" type="text" />
+                            </div>
+                            <span id="VendorspnErrorMsgEmail" style="color: red;"></span>
+                        </div>
+                        <div class="form-group reg-password">
+                            <div>
+                                <input name="Confmpassword" class="form-control input vendorregisterRequired" id="txtVendorMobile" onkeypress="return isMoNu(event)" maxlength="10" placeholder="Enter Mobile No" type="text" />
+                            </div>
+                            <span id="VendorspnErrorMsgMobile" style="color: red;"></span>
+                        </div>
+                        <div class="form-group reg-password">
+                            <div>
+                                <input name="password" class="form-control input vendorregisterRequired" id="txtVendorPassword" size="20" placeholder="Password" type="password" />
+                            </div>
+                        </div>
+                        <div class="form-group reg-password">
+                            <div>
+                                <input name="Confmpassword" class="form-control input vendorregisterRequired" id="txtVendorConformPassword" size="20" placeholder="Re-Enter Password" type="password" />
+                                <span id="VendorspnErrorMsg" style="color: red;"></span>
+                            </div>
+                        </div>
+                        <div>
+
+                            <div class="control-group">
+                                <input type="button" class="btn  btn-block btn-lg btn-primary" value="Proceed" onclick="VendorTermsAndCondition();" />
+                            </div>
+
+                        </div>
+                        <!--userForm-->
+
+                    </div>
+                    <div class="modal-footer">
+                        <p class="text-center">Already member? <a data-toggle="modal" data-dismiss="modal" href="#ModalLogin">Sign in </a></p>
+                    </div>
+                </div>
+                <!-- /.modal-content -->
+
+            </div>
+            <!-- /.modal-dialog -->
+
+        </div>
 
 
-        <!--login popOver>
-    </div>
+        <div class="modal signUpContent fade" id="VendorTermsAndConditionModal" tabindex="-1" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal"><b>✖</b></button>
+                        <h3 class="modal-title-site text-center">Terms and Conditions </h3>
+                    </div>
+                    <div class="modal-body">
+
+                        <div class="col-xs-12 col-sm-12">
+                            <div class="row animated">
+                                <div class="col-xs-12 col-sm-12">
+                                    <p><b>1.</b> Any products offered for sale on manjaree.com should be 100% orignal and authenticated.</p>
+                                    <p><b>2.</b> If any claims recieved from any brand or celebrity or any other person, Vendor shall be responsible for the same.</p>
+                                    <p><b>3.</b> Products and inventory offered for sale shall be physically available at your premises, Our executive will visit your premises.</p>
+                                    <p><b>4.</b> Product price on which you are placing inventory from that 7% less amount we will pay you.</p>
+                                </div>
+                            </div>
+                            <hr />
+                        </div>
+                        <div class="form-group">
+                            <div>
+                                <div class="checkbox login-remember">
+                                    <label>
+                                        <input name="turmandcondition" id="Vendorturmandcondition" onclick="Vendorchtermcond();" value="forever" type="checkbox" />
+                                        Terms and Conditions of Registration
+                                    </label>
+                                    <br />
+                                    <span id="VendorspnErrorMsgTurmCondition" style="color: red;"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="control-group">
+                                <input type="button" class="btn  btn-block btn-lg btn-primary" value="REGISTER" onclick="VendorRegister();" />
+                            </div>
+                        </div>
+                        <!--userForm-->
+                    </div>
+                    <div class="modal-footer">
+                        <p class="text-center">Already member? <a data-toggle="modal" data-dismiss="modal" href="#ModalLogin">Sign in </a></p>
+                    </div>
+                </div>
+                <!-- /.modal-content -->
+
+            </div>
+            <!-- /.modal-dialog -->
+
+        </div>
+
+        <div class="modal signUpContent fade" id="ModalInventory" tabindex="-1" role="dialog">
+            <div class="modal-dialog ">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal"><b>✖</b></button>
+                        <h3 class="modal-title-site text-center">Add Inventory </h3>
+                    </div>
+                    <div class="modal-body">
+                        <div class="form-group login-username">
+                            <div>
+                                <input type="hidden" value="0" id="hdnInventoryId" />
+                                <input type="hidden" value="0" id="hdnSizeType" />
+                                Catalog No: <input id="txtinvmanjareeno" class="form-control input" size="20" placeholder="Catalog No" type="text" readonly="true" />
+                            </div>
+                        </div>
+                        <div class="form-group login-username">
+                            <div>
+                                Manjaree No:<input id="txtinvcatalogno" class="form-control input" size="20" placeholder="Manjaree No" type="text" readonly="true" />
+                            </div>
+                        </div>
+                        <div class="form-group login-username">
+                            <div>
+                                Your DesignNo: <input id="txtdesignnumber" class="form-control input InventoryRequire" size="20" placeholder="Your Design No" type="text" />
+                            </div>
+                        </div>
+                        <div class="form-group login-username">
+                            <div>
+                                Brand: <input id="txtinvbrand" class="form-control input" size="20" placeholder="brand" type="text" readonly="true" />
+                            </div>
+                        </div>
+                        <div class="form-group login-username">
+                            <div>
+                                Price: <input id="txtinvprice" class="form-control input" size="20" placeholder="price" type="text" readonly="true" />
+                            </div>
+                        </div>
+                        <div class="form-group login-username" id="totalQunaity" style="display: none;">
+                            <div>
+                                Your Quantity: <input id="txtinvQuantity" class="form-control input" size="20" placeholder="Your Quantity" type="text" />
+                            </div>
+                        </div>
+                        <div class="form-group login-username fixedsize" id="fixedsize" style="display: none;">
+                            <div>
+                                XS
+                                <input id="txtxs" class="form-control input sizerequire" size="20" placeholder="Pieces you are having for XS size" type="text" /> 
+                                S
+                                <input id="txts" class="form-control input sizerequire" size="20" placeholder="Pieces you are having for S size" type="text" /> 
+                                M
+                                <input id="txtm" class="form-control input sizerequire" size="20" placeholder="Pieces you are having for M size" type="text" /> 
+                                L
+                                <input id="txtl" class="form-control input sizerequire" size="20" placeholder="Pieces you are having for L size" type="text" /> 
+                                XL
+                                <input id="txtxl" class="form-control input sizerequire" size="20" placeholder="Pieces you are having for XL size" type="text" /> 
+                                XXL
+                                <input id="txtxxl" class="form-control input sizerequire" size="20" placeholder="Pieces you are having for XXL size" type="text" /> 
+                                XXXL
+                                <input id="txtxxxl" class="form-control input sizerequire" size="20" placeholder="Pieces you are having for XXXL size" type="text" /> 
+                            </div>
+                        </div>
+                        <div>
+                            <a onclick="saveInventory();" class="btn  btn-block btn-lg btn-primary">Add</a> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <!--/.footer-bottom-->
         <script>
             (function (i, s, o, g, r, a, m) {
@@ -1794,6 +2456,7 @@ In addition to our own cookies, our third party advertisers may use them to both
     <script type="text/javascript" src="/Content/js/ion.checkRadio.min.js"></script>
     <script src="/Content/js/grids.js"></script>
     <script src="/Content/js/owl.carousel.min.js"></script>
+    <script src="/Content/js/front.js"></script>
     <!-- jQuery minimalect // custom select   -->
     <script src="/Content/js/jquery.minimalect.min.js"></script>
 
@@ -1801,7 +2464,7 @@ In addition to our own cookies, our third party advertisers may use them to both
     <script src="/Content/js/home.js"></script>
     <script src="/Content/js/script.js"></script>
     <script src="/Content/js/smoothproducts.min.js"></script>
-    
+
 
 
 
