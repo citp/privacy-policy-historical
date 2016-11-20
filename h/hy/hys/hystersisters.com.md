@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hystersisters.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523223338id_/http%3A//www.hystersisters.com/vb2/view_privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hystersisters.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120231427id_/http%3A//www.hystersisters.com/vb2/view_privacypolicy.htm) for the most accurate reproduction.*
 
 # Hyster Sisters Privacy Policy | HysterSisters
 
@@ -38,9 +38,9 @@ The HysterSisters Website retains the right to provide any information we know a
 
 HysterSisters wants your account, information and preferences to be accurate and complete. To update or change your personal information, visit our user login page and log on to your own account. You can update your personal information after logging in to your account.
 
-The Website may use cookies to enhance your experience while using the Website. Cookies are pieces of information that some websites transfer to the computer that is browsing that site and are used for record-keeping purposes at many websites. Use of cookies makes web-surfing easier by performing certain functions such as saving your passwords, your personal preferences regarding your use of the particular website and to make sure you do not see the same ad repeatedly. Many consider the use of cookies to be an industry standard.
+We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at www.aboutads.info and Networking Advertising Initiative at www.networkadvertising.org/choices/.
 
-Your browser is probably set to accept cookies. However, if you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our Website will not function properly when you view them.
+Your browser is probably set to accept cookies. However, besides opting out following the instructions above, if you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our Website will not function properly when you view them.
 
 The Website also may use other technologies to track the specific pages viewed by visitors on the Website or to target specific content that might be of interest to you. These technologies help us to understand how visitors use the Website. However, you will have the option to opt out (or opt on if applicable law requires) of receiving such targeted content on those pages of our Website where this technology is used.
 
@@ -61,9 +61,9 @@ By using the Website, you expressly consent to the use and disclosure of informa
 
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect via the Internet. We do not sell, trade, or rent your personal information in any way and at any time without your prior knowledge and permission. If you have questions about the privacy procedures employed at HysterSisters, please contact:  
 HysterSisters  
-2436 S. I-35 E. Suite 376-184  
+1800 S. Loop 288, Suite 396-184  
 Denton, Texas 76205
 
-_The effective date of this Privacy Policy is July 1, 2009. This Website is intended for viewing within the United States._
+_The effective date of this Privacy Policy is July 1, 2010. This Website is intended for viewing within the United States._
 
-Page Created at 06-08-2003 - 06:00 AM, Last Modified 07-10-2009 - 06:50 AM 
+Page Created at 06-08-2003 - 07:00 AM, Last Modified 07-10-2009 - 07:50 AM 
