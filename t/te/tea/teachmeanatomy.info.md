@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachmeanatomy.info privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611223959id_/http%3A//teachmeanatomy.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachmeanatomy.info privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120195943id_/http%3A//teachmeanatomy.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TeachMeAnatomy
 
@@ -62,7 +62,3 @@ This website and its owners through their social media platform accounts may sha
 Users are advised to take caution and good judgement before clicking any shortened url’s published on social media platforms by this website and it’s owners.
 
 Despite the best efforts to ensure only genuine url’s are published many social media platforms are prone to spam and hacking and therefore this website and it’s owners cannot be held liable for any damages or implications caused by visiting any shortened links.
-
-### Average Rating: 
-
-Not yet rated
