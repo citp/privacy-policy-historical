@@ -1,224 +1,122 @@
-<!--The following is the downloaded HTML source of the fileshd.net privacy policy that was archived on 2015-08-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150809185749id_/http%3A//fileshd.net/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fileshd.net privacy policy that was archived on 2016-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120022116id_/http%3A//fileshd.net/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<title>FilesHD - High Definition Upload</title>
-<link rel="stylesheet" type="text/css" href="http://fileshd.net/main.css">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script language="JavaScript" type="text/javascript" charset="UTF-8" src="http://fileshd.net/jquery-1.4.2.min.js"></script>
-<script language="JavaScript" type="text/javascript" charset="UTF-8" src="http://fileshd.net/xupload.js?"></script>
-<!--script language="JavaScript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script-->
-<meta http-equiv="Content-Type" content="text-html; charset=UTF-8">
-<meta name="description" content="FilesHD - High Definition Upload - High Definition Upload">
-<meta name="keywords" content="file upload,share files,free upload">
-<meta name="okpay-verification" content="91276f6d-3693-4887-b9bf-679c4f45b340">
-<meta name="propeller" content="b6c3004ec9790b24189b1332e92daf53">
-<link rel="icon" type="image/x-icon" href="../3ghdes/images/favicon.ico">
+<html><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="content-Type" content="text-html; charset=UTF-8">
+    <meta name="description" content="FilesHD  - Free file upload service">
+    <meta name="keywords" content="file upload,share files,free upload">
+    
+    <title>FilesHD  - Dosya paylaЕџД±mД±nД±n en kolay yolu</title>
+    <link rel="stylesheet" type="text/css" href="http://fileshd.net/css/style.css">
+    <script language="JavaScript" type="text/javascript" charset="UTF-8" src="http://fileshd.net/js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="http://fileshd.net/js/jquery.paging.js"></script>
+    <script type="text/javascript" src="http://fileshd.net/js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="http://fileshd.net/js/paging.js"></script>
+    <script type="text/javascript">
+    $(document).ready(function() {
+           $("#showallarch").click(function() {
+               $(this).css('display', 'none'),
+            $("#fileinfoarch").css('height', '100%'),
+            $("#grad").css('display', 'none');
+           });
+       });
+   </script>
+   <script type="text/javascript">
+      (function($) {
+   $(function() {
 
-<script async="async" type="text/javascript" src="//go.mobisla.com/notice.php?p=79354&amp;interactive=1&amp;pushup=1"></script>
+      $('ul.tabs').on('click', 'li:not(.current)', function() {
+         var section = $(this).parents('div.section:first');
+         var idx = $(this).index();
 
+         $(this).addClass('current').siblings().removeClass('current');
+         $(section).find('> div.box').eq(idx).fadeIn(150).siblings('div.box').hide();
+         $.cookie($(section).attr('id') + 'tab', idx);
+      });
 
-<meta content="1" name="xfsme">
-<link href="http://fonts.googleapis.com/css?family=Muli:300italic,300,400italic,400" rel="stylesheet" type="text/css">
-<link rel="stylesheet" type="text/css" href="../3ghdes/css/style.css">
-<link rel="stylesheet" type="text/css" href="../3ghdes/css/style2.css">
+      $('.section').each(function(i, e) {
+         if(!e.id) return;
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+         var idx;
+         if(idx = $.cookie(e.id + 'tab'))
+         {
+            $(e).find('> ul > li').eq(idx).click();
+         }
+      });
 
-  ga('create', 'UA-52779349-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-
-<!-- Histats.com  START (hidden counter)-->
-<script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script><script src="http://s10.histats.com/js15.js" type="text/javascript"></script>
-</head><body><a href="http://www.histats.com" target="_blank" title="free web tracker, fire_lady"><script type="text/javascript">
-try {Histats.start(1,2727724,4,0,0,0,"");
-Histats.track_hits();} catch(err){};
-</script></a>
-<noscript><a href="http://www.histats.com" target="_blank"><img  src="http://sstatic1.histats.com/0.gif?2727724&101" alt="free web tracker, fire_lady" border="0"></a></noscript>
-<!-- Histats.com  END  -->
-
-
-<script type="text/javascript" charset="utf-8">
-/*global optionValues*/
-(function () {
-	var params, url;
-
-	optionValues = {
-		min: false,
-		jquery: "1.4.2",
-		theme: "default"
-	};
-	params = window.location.search;
-
-	function css(src) {
-		document.write('<link rel="stylesheet" href="' + src + '" type="text/css" />');
-	}
-
-	function script(src) {
-		document.write('<script src="' + src + '" type="text/javascript" charset="utf-8"></sc' + 'ript>');
-	}
-
-	if (params) {
-		params = params.substr(1).split('&');
-
-		for (i = 0; i < params.length; i ++) {
-			var equals = params[i].split('=');
-
-			if (Object.prototype.hasOwnProperty.call(optionValues, equals[0])) {
-				optionValues[equals[0]] = equals[1];
-			}
-		}
-	}
+   })
+   })(jQuery)
+    </script>
 
 
-	css('../3ghdes/themes/' + optionValues.theme + '/css/uniform.' + optionValues.theme + '.css');
+<link rel="icon" type="image/x-icon" href="http://fileshd.net/3ghdes/images/style/favicon.ico">
+<link rel="stylesheet" type="text/css" href="http://fileshd.net/3ghdes/css/style.css">
+<link rel="stylesheet" type="text/css" href="http://fileshd.net/3ghdes/css/slider.css">
+<script type="text/javascript" src="http://fileshd.net/3ghdes/js/responsiveslides.min.js"></script>
+<script type="text/javascript" src="http://fileshd.net/3ghdes/js/jquery.nicescroll.min.js"></script>
+<script type="text/javascript" src="http://fileshd.net/3ghdes/js/inewsticker.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+ var nice = $("html").niceScroll({autohidemode:false,horizrailenabled:false, enablemousewheel:true, background:"#ccc" , cursorwidth :"6px"});
+   $(".rslides").responsiveSlides(
+    {
+  auto: true,             // Boolean: Animate automatically, true or false
+  speed: 500,            // Integer: Speed of the transition, in milliseconds
+  timeout: 4000,          // Integer: Time between slide transitions, in milliseconds
+  pager: false,           // Boolean: Show pager, true or false
+  nav: true,             // Boolean: Show navigation, true or false
+  pause: true,           // Boolean: Pause on hover, true or false
+  pauseControls: true,    // Boolean: Pause when hovering controls, true or false
+  prevText: "",   // String: Text for the "previous" button
+  nextText: "",       // String: Text for the "next" button
 
-	url = '://ajax.googleapis.com/ajax/libs/jquery/'
-
-	if (window.location.protocol == 'https:') {
-		url = 'https' + url;
-	} else {
-		url = 'http' + url;
-	}
-
-	url += optionValues.jquery;
-
-	if (optionValues.min) {
-		url += '/jquery.min.js';
-	} else {
-		url += '/jquery.js';
-	}
-
-	script(url);
-
-	if (optionValues.min) {
-		script('../3ghdes/js/jquery.uniform.min.js');
-	} else {
-		script('../3ghdes/js/jquery.uniform.js');
-	}
-}());
-		</script><link rel="stylesheet" href="../3ghdes/themes/default/css/uniform.default.css" type="text/css"><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js" type="text/javascript" charset="utf-8"></script><script src="../3ghdes/js/jquery.uniform.js" type="text/javascript" charset="utf-8"></script>
-		<script type="text/javascript">
-// Can't merge with previous script block since this relies on jQuery and that
-// was not loaded until the previous script block ends
-$(function () {
-	var $min, $remove, $apply, $uniformed;
-
-	// Debugging code to check for multiple click events
-	$selects = $("select").click(function () {
-		if (typeof console !== 'undefined' && typeof console.log !== 'undefined') {
-			console.log($(this).attr('id') + " clicked");
-		}
+}
+    );
+$('#newsag').inewsticker({
+		speed       : 3000,
+		effect      : 'slide',
+		delay_after : 3000,
 	});
+	 $(".closeagb").click(function() {
+           $("#news_lastag").fadeOut();
+	 });
+  });
+ </script>
 
-	$uniformed = $(".styleThese").find("input, textarea, select, a.uniformTest").not(".skipThese");
-	$uniformed.uniform();
-
-	$("#optionsForm input, #optionsForm select").change(function () {
-		this.form.submit();
-	});
-
-	if (optionValues.min) {
-		$min = $("#optionsMin");
-
-		if ($min.prop) {
-			$min.prop("checked", true);
-		} else {
-			$min.attr("checked", "checked");
-		}
-	}
-
-	$("#optionsJquery").val(optionValues.jquery);
-	$("#optionsTheme").val(optionValues.theme);
-	$("#jqueryCurrentVersion").text("Using " + jQuery.fn.jquery);
-	$remove = $("#remove");
-	$apply = $("#apply");
-	$remove.click(function () {
-		$uniformed.uniform.restore();
-		$remove.hide();
-		$apply.show();
-		return false;
-	});
-	$apply.click(function () {
-		$uniformed.uniform();
-		$apply.hide();
-		$remove.show();
-		return false;
-	});
-});
-		</script>
-               <script language="javascript" type="text/javascript" src="../3ghdes/js/vpb_script.js"></script>
-
-
-<!-- Web-Pick Script -->
-<script type="text/javascript" src="http://directile.net/key/be88d4172127a232dbfced3500c91262"></script>
-<script>
-if(typeoflp_0 === 'undefined'){varlp_NUMBER='guardc.work'}
-</script>
-
-<!-- Web-Pick Script -->
-
-
-
-      <div id="vpb_pop_up_background"></div>
-
-
-
-
- <div id="vpb_login_pop_up_box" class="vpb_signup_pop_up_box">
-<h5>ชื่อสมาชิก</h5>
-
-<br>
-<form method="POST" action="http://fileshd.net/" name="FL" class="styleThese">
-<input type="hidden" name="op" value="login">
-<input type="hidden" name="redirect" value="">
-<table class="info" width="100%">
-<tbody><tr>
-<td class="mainu">ชื่อสมาชิก</td><td><input type="text" name="login" value="" class="myForm"></td>
-</tr>
-<tr>
-<td class="mainu" width="50%">รหัส</td><td><input type="password" name="password" class="myForm"></td>
-</tr>
-</tbody></table><center>
-
-<div style="margin:0 auto; display:table;">
-<input type="submit" value="ส่งข้อมูล" class="buttonag" style="float:left;"><a class="loginag fp" href="http://fileshd.net/?op=forgot_pass">Forgot Password ?</a></div></center>
-</form>
-<script>
-
-document.FL.login.focus();
-
-</script>
-
-</div>
-
-
-
-
+</head>
+<body>
+  
+ 
 <div id="containerag">
-<div id="headerag">
-
-<a class="logo" href="http://fileshd.net" title="FilesHD - High Definition Upload"></a>
 
 
 
 
-           <div class="visitorcp">
-<a href="http://fileshd.net/?op=registration" class="signup">สมัครสมาชิก</a>
-<a class="loginag" href="javascript:void(0);" onclick="vpb_show_login_box();">เข้าระบบ</a>
-</div>
+   <div id="headerag">
+   <div class="headerag">
+    <div class="headerag2">
+    <label></label>
+   <div class="logodiv"><a class="logo" href="http://fileshd.net" title="FilesHD "></a></div>
+   <div class="topbarag">
+    <ul class="headermenu">
+    <li><a href="http://fileshd.net/#uploaddivag" class="upags">Upload</a></li>
+      <li class="current"><a href="http://fileshd.net/premium.html">Premium</a></li>
+      <li><a href="http://fileshd.net/?op=make_money">Make Money</a></li>
+      </ul>
 
 
+<ul class="rightlogin">
 
 
-     <div id="lang">
+            <li><a href="http://fileshd.net/?op=login">KullanД±cД± GiriЕџi</a></li>
+           <li><a href="http://fileshd.net/?op=registration">Yeni KayД±t</a></li>
+
+
+    </ul>
+<div id="lang">
 <ul>
-<li class="top"><a href="http://fileshd.net/?op=change_lang&amp;lang=english"><span class="trf trf-english"></span>English</a></li>
+<li class="top"><a href="http://fileshd.net/?op=change_lang&amp;lang=english" title="English"><span class="trf trf-english"></span>English</a></li>
 <span class="dropdown">
 
 <li><a href="http://fileshd.net/?op=change_lang&amp;lang=russian"><span class="trf trf-russian"></span>Russian</a></li>
@@ -251,29 +149,25 @@ document.FL.login.focus();
 </span>
 </ul>
 </div>
- </div>
-
-
-<div class="mainlist">
-<a href="http://fileshd.net" title="Upload">Upload</a>
-<a href="http://fileshd.net/premium.html" title="Premium" class="current">Premium</a>
-<a href="http://fileshd.net/earnings.html" title="Make Money">Make Money</a>
-<a href="https://www.facebook.com/FilesHD" title="Our Facebook Page" class="fbpage"></a>
+   </div>
+    </div>
+    </div>
+  <div class="slideshowag">
+<ul class="rslides">
+<li><img src="http://fileshd.net/3ghdes/images/slides/slide1.png" border="0" alt="FilesHD.net"></li>
+<li><img src="http://fileshd.net/3ghdes/images/slides/slide2.png" border="0" alt="FilesHD.net"></li>
+<li><img src="http://fileshd.net/3ghdes/images/slides/slide3.png" border="0" alt="FilesHD.net"></li>
+</ul>
 </div>
+   </div>
 
 
 
-
-
-<div id="container">
-
-
-
-
-
- <div class="mainag">
-<br>
-<div class="contentback2" style="text-align:justify"><h3>Privacy Policy </h3>
+   <div class="mainag">
+   <div class="arrowag" id="uploaddivag"></div>
+   <div class="dokhanag"></div>
+   <div class="mainag2">
+        <div class="contentbackag">  <h2 class="titleagm">Privacy Policy </h2>
 
 <b>Personal identification information</b><br>
 We may collect personally identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
@@ -285,7 +179,7 @@ We may collect non-personal identification information about Users whenever they
 Our Site may use 'cookies' to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 <br><br>
 <b>How we use collected information</b> <br>
-<font color="#ffd800">FilesHD.net collects and uses Users personal information for the following purposes:</font><br> - To personalize user experience We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. - To improve our Site We continually strive to improve our website offerings based on the information and feedback we receive from you. - To improve customer service Your information helps us to more effectively respond to your customer service requests and support needs.
+<font color="#920000">FilesHD collects and uses Users personal information for the following purposes:</font><br> - To personalize user experience We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. - To improve our Site We continually strive to improve our website offerings based on the information and feedback we receive from you. - To improve customer service Your information helps us to more effectively respond to your customer service requests and support needs.
 <br><br>
 <b>How we protect your information</b> <br>
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
@@ -307,39 +201,52 @@ Some of the ads may be served by Google. Google's use of the DART cookie enables
 <b>Compliance with children's online privacy protection act</b> <br>
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. Changes to this privacy policy
 <br>
-<font color="#ffd800">FilesHD.net has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+<font color="#d7396a">FilesHD has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 </font>
 <br>
 Your acceptance of these terms By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 </div>
 
+    </div>
+   </div>
+
+
+<div id="footerag">
+<div class="footerag">
+      <div class="menusag">
+           <div>
+           <h2>Links</h2>
+           <a href="http://fileshd.net/premium.html">Premium</a>
+           <a href="http://fileshd.net/?op=make_money">Make Money</a>
+           <a href="http://fileshd.net/?op=news">BГјlten</a>
+           <a href="http://fileshd.net/banners.html">Banners</a>
+           </div>
+
+           <div>
+           <h2 class="red">Legal</h2>
+           <a href="http://fileshd.net/?op=checkfiles">Links Checker</a>
+           <a href="http://fileshd.net/privacy.html">Privacy Policy</a>
+           <a href="http://fileshd.net/dmca.html">DMCA Policy</a>
+           <a href="http://fileshd.net/tos.html">KullanД±m ЕџartlarД±</a>
+           </div>
+
+           <div style="width:110px;">
+           <h2>Contact</h2>
+           <a href="http://fileshd.net/faq.html">SSS</a>
+           <a href="http://fileshd.net/contact.html">IletiЕџim</a>
+           <a href="https://www.facebook.com/FilesHD">FaceBook</a>  
+           
+           </div>
+ 	  </div>
+     <div class="copyrightsag">
+© 2014 - 2016 FilesHD , All Rights Reserved - <a href="http://abdoghaly.com" title="Designed and developed by Abdo Ghaly">Designed By AbdoGhlay.com</a>
 </div>
 </div>
-
-
-
-
-
-
-<div class="footerabdo">
-<a href="http://fileshd.net">หน้าบ้าน</a> &nbsp;
-<a href="http://fileshd.net/?op=news">บทความ</a>  &nbsp;
- &nbsp;
-<a href="http://fileshd.net/faq.html">ถาม-ตอบ</a>   &nbsp;
-<a href="http://fileshd.net/tos.html">เงื่อนไขการบริการ</a>   &nbsp;
-<a href="http://fileshd.net/dmca.html">DMCA Policy</a>   &nbsp;
-<a href="http://fileshd.net/privacy.html">Privacy Policy</a>   &nbsp;
-<a href="http://fileshd.net/banners.html">Banners</a>   &nbsp;
-<a href="http://fileshd.net/premium.html">พรีเมี่ยม</a>   &nbsp;
-<a href="http://fileshd.net/?op=checkfiles">ตรวจสอบลิงค์ไฟล์</a>   &nbsp;
-<a href="http://fileshd.net/contact.html">ติดต่อเรา</a>   &nbsp;
+ </div>
 
 </div>
-<div class="copyrights">
-© 2014-2015 FilesHD - High Definition Upload, All Rights Reserved
-</div>
 
-</div>
+
 
 
 
