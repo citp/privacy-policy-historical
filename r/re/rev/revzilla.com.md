@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revzilla.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401190124id_/https%3A//www.revzilla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revzilla.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120041713id_/https%3A//www.revzilla.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RevZilla
 
