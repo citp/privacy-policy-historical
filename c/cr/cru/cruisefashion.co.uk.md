@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruisefashion.co.uk privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331194834id_/http%3A//www.cruisefashion.com/customerservices/otherinformation/securityandprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisefashion.co.uk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120204551id_/http%3A//www.cruisefashion.com/customerservices/otherinformation/securityandprivacy) for the most accurate reproduction.*
 
 # Security and Privacy | Cruise Fashion
 
