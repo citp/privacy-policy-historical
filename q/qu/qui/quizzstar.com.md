@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the quizzstar.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415052258id_/http%3A//www.quizzstar.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizzstar.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120104514id_/http%3A//quizzstar.com/pages/privacy) for the most accurate reproduction.*
 
-# Quizzstar
-
-### Please note
-
-**QuizzStar** will
-
-  * **NEVER** store any personal data from your facebook profile (posts, pictures, likes, email, friends etc.)
-  * **NEVER** transfer or sell your private data to a third party
-  * generate pictures which may contain your public Facebook profile picture and your public Facebook name. We will **NEVER** store any additionally personal identifiable information of yourself or any other person in the picture. We will only store your result images so you can share them on social media such as Facebook or Twitter.
-
-
-
-[Click here and access all of your information](https://web.archive.org/users/view_my_data)
+# QuizzStar
 
 **Privacy Policy**
 
@@ -391,8 +379,8 @@ The same applies if the current Privacy Policy is found to contain any gaps. Upo
 
 26.1. 
 
-Data processor is Orlando Media Ltd., Cann Rawar, Oughterard, Co. Galway, Republic of Ireland. 
+Data processor is Panda Cat. 
 
 26.2. 
 
-Contact data: orlandomedialtd@outlook.com 
+Contact data: testgenius.team@outlook.com 
