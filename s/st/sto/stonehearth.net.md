@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stonehearth.net privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401173547id_/http%3A//stonehearth.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stonehearth.net privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121001356id_/http%3A//www.stonehearth.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Stonehearth
 
