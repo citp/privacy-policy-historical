@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mymediaexperience.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324063137id_/http%3A//mymediaexperience.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymediaexperience.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120123753id_/http%3A//mymediaexperience.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - My Media Experience -
 
 **What information do we collect?**
 
@@ -52,5 +52,5 @@ This policy was last modified on 11.10.2013
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 http://mymediaexperience.com  
-support@mymediaexperience.com  
+tuukka@mymediaexperience.com  
 
