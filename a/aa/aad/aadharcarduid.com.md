@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the aadharcarduid.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416145438id_/http%3A//aadharcarduid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aadharcarduid.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120164438id_/https%3A//aadharcarduid.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 * * *
 
-By using this website, you agree to the terms of this Privacy Policy and the [Terms of Use and Disclaimer](http://aadharcarduid.com/disclaimer). aadharcarduid.com collects certain information about you that you specifically and knowingly provide to us, such as your user name, email address, name or mailing address. In addition, we may track how you use this website and relate it to the information you have provided to us. If you wish to be notified of the use of such tracking software and/or disable such software ("cookies"), your browser may offer this feature by means of its options or preferences menu.
+By using this website, you agree to the terms of this Privacy Policy and the [Terms of Use and Disclaimer](https://aadharcarduid.com/disclaimer). aadharcarduid.com collects certain information about you that you specifically and knowingly provide to us, such as your user name, email address, name or mailing address. In addition, we may track how you use this website and relate it to the information you have provided to us. If you wish to be notified of the use of such tracking software and/or disable such software ("cookies"), your browser may offer this feature by means of its options or preferences menu.
 
 The above-described information (Personally-Identifying Information) may be used by aadharcarduid.com to personalize and enhance your use of this website, including the marketing and promotion of certain products and services that might be of interest to you. Your use of this website is a consent to the foregoing use of your Personally-Identifying Information by aadharcarduid.com.
 
