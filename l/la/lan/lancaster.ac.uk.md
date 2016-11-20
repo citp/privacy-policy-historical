@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lancaster.ac.uk privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514102844id_/http%3A//www.lancaster.ac.uk/compliance/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lancaster.ac.uk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120165917id_/http%3A//www.lancaster.ac.uk/compliance/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookies Notice | Lancaster University
 
