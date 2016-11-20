@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vendanything.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605033154id_/http%3A//www.vendanything.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vendanything.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120035928id_/http%3A//www.vendanything.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # Extra Page 11 Title
 
@@ -18,8 +18,10 @@ We are committed to conducting our business in accordance with these principles 
 
 ### Contact Us
 
-Need assistance? Have a question that isn't answered in our [help](http://www.vendanything.com/index.php?a=28&b=141) sections? You can contact support by visiting our [contact us](http://www.vendanything.com/index.php?a=28&b=136) page.
+Need assistance? Have a question that isn't answered in our [help](http://vendanything.com/index.php?a=28&b=141) sections? You can contact support by visiting our [contact us](http://vendanything.com/index.php?a=28&b=136) page.
 
-#### Copyright © 2016 VendAnything.com. All Rights Reserved.
+[](http://vendanything.com/#)
 
-Use of this Web site constitutes acceptance of the [User Agreement](http://www.vendanything.com/index.php?a=28&b=140) and [Privacy Policy](http://www.vendanything.com/index.php?a=28&b=145). Designated trademarks and brands are the property of their respective owners.
+#### Copyright © 2007 - 2016 VendAnything.com. All Rights Reserved. 2016-11-20 03:59:28
+
+Use of this Web site constitutes acceptance of the [User Agreement](http://vendanything.com/index.php?a=28&b=140) and [Privacy Policy](http://vendanything.com/index.php?a=28&b=145). Designated trademarks and brands are the property of their respective owners.
