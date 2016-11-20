@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orcid.org privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627141649id_/http%3A//orcid.org/content/orcid-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orcid.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120213308id_/http%3A//orcid.org/content/orcid-privacy-policy) for the most accurate reproduction.*
 
 # ORCID Privacy Policy | ORCID
 
@@ -311,7 +311,7 @@ We engage in periodic self-assessment and annual external review by TRUSTEe to e
 
 If you have any concerns or claims with respect to our Privacy Policy, please contact us as indicated in Questions/Concerns. We will investigate and attempt to resolve any complaints and disputes regarding our use and disclosure of personal information. If you have questions or concerns about the accuracy of data in your or another person’s Record, please contact us as indicated in Transparency, Disputed Records, & Removal of Data.
 
-If the complaint or dispute cannot be resolved through our internal process, and ORCID does not adequately respond to your question, please contact TRUSTe as indicated in [Section 2 – TRUSTe Certification](https://web.archive.org/web/20160627141649id_/http%3A//orcid.org/content/TRUSTe).
+If the complaint or dispute cannot be resolved through our internal process, and ORCID does not adequately respond to your question, please contact TRUSTe as indicated in [Section 2 – TRUSTe Certification](https://web.archive.org/web/20161120213308id_/http%3A//orcid.org/content/TRUSTe).
 
 If you are not able to resolve your concerns through ORCID’s internal mechanism or through TRUSTe, arbitration as set forth in this paragraph will be your final and exclusive recourse for dispute resolution. If arbitration is necessary, it will be conducted by telephone and email, and if it must be done in person, it will be conducted in New York, NY, and by using our Websites and/or Registry, you consent to such jurisdiction. The arbitration will be conducted by one arbitrator who is a member of the American Arbitration Association, and under the rules of commercial arbitration of the American Arbitration Association. Both parties will bear equally the cost of arbitration (exclusive of legal fees and expenses). All decisions of the arbitrator(s) will be final and binding on both parties and enforceable in any court of competent jurisdiction.
 
