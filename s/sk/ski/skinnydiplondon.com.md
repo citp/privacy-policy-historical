@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skinnydiplondon.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414004650id_/http%3A//www.skinnydiplondon.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinnydiplondon.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120011308id_/http%3A//www.skinnydiplondon.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy – Skinnydip London
+# Privacy
 
 Skinnydip Ltd is committed to ensuring that your privacy is protected. This privacy policy sets out how Skinnydip Ltd uses and protects any information that you give us when you use this website. Skinnydip Ltd may change this policy from time to time by updating this page. 
 
