@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetsupervision.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606194402id_/http%3A//internetsupervision.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetsupervision.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120101108id_/http%3A//internetsupervision.com/privacy.htm) for the most accurate reproduction.*
 
 # InternetSupervision.com - Privacy Policy
 
