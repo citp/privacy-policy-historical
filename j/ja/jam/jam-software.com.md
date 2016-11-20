@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jam-software.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620032708id_/https%3A//jam-software.com/company/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jam-software.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120020012id_/http%3A//jam-software.com/company/privacy.shtml) for the most accurate reproduction.*
 
 # JAM Software - Privacy Policy
 
@@ -90,4 +90,4 @@ This privacy policy is up to date and was last changed on February 22, 2016. It 
 
 ### Data storage: Opt out
 
-Here you can set whether your visits to be collected at this site from the web analytics or not. [Settings webanalytics.](https://web.archive.org/web/20160620032708id_/https%3A//jam-software.com/company/privacy.shtml)
+Here you can set whether your visits to be collected at this site from the web analytics or not. [Settings webanalytics.](https://web.archive.org/web/20161120020012id_/http%3A//jam-software.com/company/privacy.shtml)
