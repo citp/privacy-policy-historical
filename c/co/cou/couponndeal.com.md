@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponndeal.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603183602id_/http%3A//www.couponndeal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponndeal.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120172242id_/http%3A//www.couponndeal.com/privacy_policy) for the most accurate reproduction.*
 
 # Read Our Privacy Policy | Coupon N Deal
 
