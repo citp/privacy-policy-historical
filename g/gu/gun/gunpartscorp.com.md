@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gunpartscorp.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623001642id_/http%3A//www.gunpartscorp.com/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunpartscorp.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120075210id_/http%3A//www.gunpartscorp.com/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Numrich Gun Parts
 
-Your privacy is important to us. Numrich Gun Parts Corporation does not sell, trade, or share your personal information with anybody.
+Your privacy is important to us. **Numrich Gun Parts Corporation does not sell, trade, or share** your personal information with anybody.
 
 Numrich Gun Parts Corporation is a highly ethical company and requires the highest standard of conduct from our employees and business partners.
 
@@ -18,7 +18,10 @@ If you are interested in learning what type of personal information we might col
  
   * Information you voluntarily submit when you participate in one of our various services, promotions, forum threads and surveys.  
  
-  * Information provided by you from our on-line stores sites listed with eBay, GunBroker and PayPal. Usually such information includes your shipping/mailing address, email, phone number, fax number, user-id and products purchased.
+  * Information provided by you from our on-line stores sites listed with eBay, GunBroker, Amazon, and PayPal. Usually such information includes your shipping/mailing address, email, phone number, fax number, user-id and products purchased.
+
+
+  * Please be advised that for marketing purposes we are utilizing Google Analytics. If you prefer to opt-out of this collection, please [click on this link](https://tools.google.com/dlpage/gaoptout/).
 
 
 
