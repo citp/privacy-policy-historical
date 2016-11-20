@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the freedownloadscenter.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620152325id_/http%3A//www.freedownloadscenter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedownloadscenter.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120095842id_/http%3A//freedownloadscenter.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
 | 
 
-[Digital Photo Finalizer Pro Edition ](http://www.freedownloadscenter.com/Reviews/r10361.html)
+[Change MBOX Files into PDF File ](http://www.freedownloadscenter.com/Reviews/r10663.html)
 
-[](http://www.freedownloadscenter.com/Reviews/r10361.html)
+[](http://www.freedownloadscenter.com/Reviews/r10663.html)
 
-**Digital Photo Finalizer Pro Edition** is the most effective photo enhancing software useful to view, analyze and edit your digital photos. 
+**Change MBOX Files into PDF File** is a professional application with the capabilities to convert MBOX files to PDF format. 
 
-[iPad Digital Publishing Software ](http://www.freedownloadscenter.com/Reviews/r10362.html)
+[Prism Plus Edition ](http://www.freedownloadscenter.com/Reviews/r10664.html)
 
-[](http://www.freedownloadscenter.com/Reviews/r10362.html)
+[](http://www.freedownloadscenter.com/Reviews/r10664.html)
 
-**iPad Digital Publishing Software** is a handy software ideal for iPad users provides a perfect digital publication solution. 
+**Prism Plus Edition** is a fully functional video conversion software with speed and performance.
 
 Reviews newsletter 
 
