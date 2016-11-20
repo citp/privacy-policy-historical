@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dialyou.com privacy policy that was archived on 2016-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608091458id_/http%3A//www.dialyou.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dialyou.com privacy policy that was archived on 2016-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120115009id_/http%3A//www.dialyou.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
                 <title>DialYou - Privacy Policy</title>
@@ -9,6 +9,12 @@
                 <meta name="description" content="We are faithful to defending to protecting the privacy and in confidence of all personal considered client analysis mission  and other  internal  business  purposes only.">
                 <meta name="keywords" content="DialYou - Privacy Policy">
                 <meta name="google-site-verification" content="hsbKlOYSA2Kal9wppVYrUG_g4EOvU3-JpZWduldMAhA">
+                <meta name="rating" content="General">
+  <meta name="robots" content="INDEX,FOLLOW">
+  <meta name="revisit-after" content="1 days">
+  <meta name="distribution" content="Global">
+<meta name="language" content="en-gb">
+
                 <meta name="format-detection" content="telephone=no">
                                 <link rel="canonical" href="http://www.dialyou.com/privacy-policy">
                 <link rel="shortcut icon" href="http://www.dialyou.com/assets/images/favicon.jpg" type="image/x-icon">
@@ -20,157 +26,30 @@
                                 <!-- Bootstrap core CSS -->
                 <link href="http://www.dialyou.com/assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
                                 <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.min.css">
-                                <link href="http://www.dialyou.com/assets/css/front-style.min.css?v=111111113" rel="stylesheet" type="text/css"><!-- Custom CSS -->
+                                <link href="http://www.dialyou.com/assets/css/front-style.min.css?v=111111202" rel="stylesheet" type="text/css"><!-- Custom CSS -->
+                <!--[if lte IE 8]>
+                <link rel="stylesheet" type="text/css" href="css/ie8.css" />
+                <![endif]-->
                 <!--[if lt IE 9]>
                       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
                       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
                 <![endif]-->
-                <!--[if lte IE 8]>
-                <link rel="stylesheet" type="text/css" href="css/ie8.css" />
-                <![endif]-->
-                <script type="text/javascript">var BASE_URL = 'http://www.dialyou.com/'; </script>
                                 <script src="http://www.dialyou.com/assets/plugins/jQuery/jQuery-2.1.4.min.js"></script><!-- jQuery 2.1.4 -->
                 <script src="http://www.dialyou.com/assets/bootstrap/js/bootstrap.min.js"></script>
                 <script src="//code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
-                <script type="text/javascript" language="javascript" src="https://maps.googleapis.com/maps/api/js?v=3&amp;libraries=geometry"></script> <!-- Geolocaiton Code -->
-                                <script type="text/javascript" language="javascript">
-                        $(function() {
-                                cache = {};
-                                $( "input[name=txt_search]" ).autocomplete({
-                                        source: function( request, response ) {
-                                                                console.log(cache);
-                                                                var term = request.term;
-                                                                if ( term in cache ) {
-                                                                        response( cache[ term ] );
-                                                                        return;
-                                                                }
-                                                                $.getJSON( "/ajax-requests/suggest-for-top-search-box.php?city="+$('#txt_city').val(), request, function( data, status, xhr ) {
-                                                                        cache[ term ] = data;
-                                                                        response( data );
-                                                                });
-                                                        }
-                                });
-                                $( "input[name=txt_city]" ).autocomplete({
-                                        source: function( request, response ) {
-                                                                var term = request.term;
-                                                                if ( term in cache ) {
-                                                                        response( cache[ term ] );
-                                                                        return;
-                                                                }
-
-                                                                $.getJSON( "/ajax-requests/suggest-for-top-search-box-city.php", request, function( data, status, xhr ) {
-                                                                        cache[ term ] = data;
-                                                                        response( data );
-                                                                });
-                                                        }
-                                });
-                                
-                                $('form[name="frm_top_search"]').submit(function(e){
-                                        e.preventDefault();
-                                        var search_title = $('[name=txt_search]').val();
-                                        var search_city = $('[name=txt_city]').val();
-                                        if(search_title.length >= 0) {
-                                                //var encoded_value = search_title.split(' ').join('-');
-                                                var encoded_value = encodeURIComponent(search_title);
-                                                //var encoded_city_value = search_city.split(' ').join('-');
-                                                var encoded_city_value = encodeURIComponent(search_city);
-                                                window.location.replace('/search-listing?term=' + encoded_value+'&city='+encoded_city_value);
-                                        }
-                                });
-                                $("input[name=txt_city]").blur(function(event) {
-                                    /*$.post("/ajax-requests/fixed-for-top-search-box-city.php", {city: $('#txt_city').val()},
-                                        function(data) {
-                                            $('#txt_city').val(data);
-                                        });*/
-                                    /* Use cache for one day */
-                                    var city = $('#txt_city').val();
-                                    $.cookie('city', city, {path: cookiePath, expires: cookieExpire});
-                                });
-                                                               
-                            if($.cookie('city') == null) {
-                                /* Shared city logic */
-                                if (navigator.geolocation) {
-                                    /* If browser support for geolocation */
-                                    var currentPosition = navigator.geolocation.getCurrentPosition(function(position) {
-
-                                        /* Get current lat long */
-                                        var latitude = position.coords.latitude;
-                                        var longitude = position.coords.longitude;
-
-                                        /* Get current city */
-                                        var geocoder;
-                                        geocoder = new google.maps.Geocoder();
-                                        var latlng = new google.maps.LatLng(latitude, longitude);
-                                        var city = 'Jaipur';
-                                        geocoder.geocode(
-                                            {'latLng': latlng}, 
-                                            function(results, status) {
-                                                if (status == google.maps.GeocoderStatus.OK) {
-                                                        if (results[0]) {
-                                                            var address= results[0].formatted_address ;
-                                                            console.log('Your Address: ' + address);
-                                                            var  value=address.split(",");
-
-                                                            count=value.length;
-                                                            country=value[count-1];
-                                                            state=value[count-2];
-                                                            city=$.trim(value[count-3]);
-                                                            $('#txt_city').val(city);
-                                                            //$.post("/ajax-requests/fixed-for-top-search-box-city.php", {city: city}, function(data) {});
-                                                            console.log("City: " + city);
-
-                                                            /* Use cache for one day */
-                                                            $.cookie('city', city, {path: cookiePath, expires: cookieExpire});
-
-                                                        } else {
-                                                            $('#txt_city').val(city);
-                                                            //$.post("/ajax-requests/fixed-for-top-search-box-city.php", {city: city});
-                                                        }
-
-                                                } else {
-                                                    $('#txt_city').val(city);
-                                                    /* Failed to get address */
-                                                    /*alert("Geocoder failed due to: " + status);*/
-                                                    //$.post("/ajax-requests/fixed-for-top-search-box-city.php", {city: city});
-                                                }
-                                            }
-                                        );
-                                    });
-                                } else {
-                                        $('#txt_city').val('Jaipur');
-                                }
-                                
-                            } else {
-                                /* get data from cookie */
-                                var city = $.cookie('city');
-                                if(city == '')
-                                        city = 'jaipur';
-                                $('#txt_city').val(city);
-                            }
-                        });
-                        
-                        
-                        /* Google analytics code */
-                        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-                        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-                        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-                        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-                        ga('create', 'UA-66177471-1', 'auto');
-                        ga('send', 'pageview');
-                        
-                </script>
-        </head>
+                <script type="text/javascript" language="javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBml2RElrsU9NAcnUb5_XTXDPY__GytG3I&amp;v=3&amp;libraries=geometry"></script> <!-- Geolocaiton Code -->
+                
+                        </head>
         <body>
                 <div class="header_top_bar">
                         <div class="container">
                                 <div class="row">
                                         <div class="col-xs-12 col-sm-12">
                                                 <div class="lglinks">
-                                                        <a href="/edu.php" title="Register Now" class="nureg_toplink" target="_blank"><i class="fa fa-user"></i>Admission Information Portal</a>
-                                                        <a href="http://www.dialyou.com/franchaise-login.php" title="Client Login" class="nureg_toplink"><i class="fa fa-lock"></i> Client Login</a>
+                                                        <!--<a href="http://www.dialyou.com/edu" title="Register Now" class="nureg_toplink" style="display:none;" target="_blank"><i class="fa fa-user"></i>Admission Information Portal</a>-->
                                                        
-                                                        <span class="pull-right"><a href="http://www.dialyou.com/free-registration-business" title="Free Listing" class="nureg_toplink">Apply Free Listing</a></span>
+                                                        <span class="pull-right"><a href="http://www.dialyou.com/free-registration-business" title="Free Post Your Business" class="nureg_toplink" style="margin-top:-2px;background:#0c5276;">Free Post Your Business</a>
+<a href="http://www.dialyou.com/franchaise-login.php" title="Client Login" class="nureg_toplink" style="margin-top:-2px;background:#0c5276;">Client Login</a></span>
                                                         
                                                 </div>
                                         </div>
@@ -224,14 +103,23 @@
                                 </div>
                                 <div class="navbar-collapse collapse">
                                         <ul class="nav navbar-nav">
-                                                <li> <a href="http://www.dialyou.com/" title="HOME">HOME</a></li>
-                                                <li> <a href="/about-us" title="ABOUT US">ABOUT US</a></li>
-                                                <li> <a href="/apply-franchise" title="FREE LISTING">APPLY FRANCHISE</a></li>
-                                                <li> <a href="/apply-job" title="FREE LISTING">APPLY JOB</a></li>
-                                                <li> <a href="/free-registration-business" title="APPLY FREE LISTING">APPLY FREE LISTING</a></li>
-                                                <li> <a href="/franchise-list" title="FREE LISTING">FRANCHISE LIST</a></li>
-                                                <li> <a href="/news" title="ALERT">ALERT</a></li>
-                                                <li> <a href="/shopping" title="CONTACT US">SHOPPING</a></li>
+                                                <li> <a href="http://www.dialyou.com/" title="Home">Home</a></li>
+                                                <li> <a href="/about-us" title="About Us">About Us</a></li>
+                                                <!--<li> <a href="/news.php?type=Admission" title="Admission">Admission</a></li>
+                                                <li> <a href="/news.php?type=Exam" title="Exam">Exam</a></li>
+                                                <li> <a href="/news.php?type=Job" title="Job">Job</a></li>
+                                                <li> <a href="/apply-franchise" title="Apply Franchise">Apply Franchise</a></li>
+                                                <li> <a href="/free-registration-business" title="Apply Free Listing">Apply Free Listing</a></li>
+                                                <li> <a href="/franchaise-login" title="Client Login">Login</a></li>
+                                                <li> <a href="/franchise-list" title="Franchise List">Franchise List</a></li>-->
+                                                <li> <a href="http://www.dialyou.com/article-listing/jaipur/colleges/education" title="Education">Education</a></li>
+                                                <li> <a href="http://www.dialyou.com/article-listing/jaipur/colleges/engineering" title="Engineering">Engineering</a></li>
+                                                <li> <a href="http://www.dialyou.com/article-listing/jaipur/colleges/medical" title="Medical">Medical</a></li>
+                                                <li> <a href="http://www.dialyou.com/article-listing/jaipur/colleges/science" title="Sience">Science</a></li>
+                                                <li> <a href="http://www.dialyou.com/article-listing/jaipur/colleges/law" title="Law">Law</a></li>
+                                                <li> <a href="http://www.dialyou.com/article-listing/jaipur/colleges/arts" title="Arts">Arts</a></li>
+                                                <li> <a href="/dae" title="Admission Portal">Admission Portal</a></li>
+                                                <li> <a href="/news" title="News Events">News Events</a></li>
                                         </ul>
                                 </div>
                                 <!--/.nav-collapse -->
@@ -348,18 +236,16 @@ If you have query or concern about these privacy policies; please send us an ema
  </div>
 </div>
 
-        <!-- Footer - START -->
+               <!-- Footer - START -->
         <footer>
                 <div class="marquee_block">
                         <div class="container">
                                     <div class="left_shadow"></div>
                                     <div class="right_shadow"></div>
                                     <marquee direction="left">
-                                            Subscribe now
-                                                    First 10,000 Students will win scholarship of 25% of total fee, paid by Dialyou.com | Contact Us:- md@dialyou.com | 94675-94675 | 95286-95286 Subscribe now
-                                                    First 10,000 Students will win scholarship of 25% of total fee, paid by Dialyou.com | Contact Us:- md@dialyou.com | 94675-94675 | 95286-95286 Subscribe now
-                                                    First 10,000 Students will win scholarship of 25% of total fee, paid by Dialyou.com | Contact Us:- md@dialyou.com | 94675-94675 | 95286-95286 Subscribe now
-                                                    First 10,000 Students will win scholarship of 25% of total fee, paid by Dialyou.com | Contact Us:- md@dialyou.com | 94675-94675 | 95286-95286</marquee>
+                                            ADMISSION OPEN AGRICULTURE - DIPLOMA AGRICULTURE, B.SC AGRICULTUREM, M.SC AGRICULTURE, B.SC IN FORESTRY | EDUCATION - B.ED, D.ED, B.EL.ED, D.EL.ED, B.P.ED, D.P.ED | PHILOSOPHY AND RESEARCH PROGRAMM - M.PHIL, P.HD ALL SUBJECT | ARCHITECTURE - B.ARCH, D.ARCH, C.ARCH | LAW COURSES - LLM, LLB, B.A+LLB, B.COM+LLB, B.SC+LLB, PG DIPLOMA IN LAW | PHARMACY - D.PHARMA, B.PHARMA, M.PHARMA | PARA MEDICAL COURSE - DMLT, MPHW, BPT, DPT, VLDA, MMLT, LSA, DIPLOMA IN YOGA, B.SC YOGA, M.SC YOGA
+
+</marquee>
                             </div>
                     </div>
                                             <div class="footer_enquiry_form">
@@ -416,7 +302,7 @@ If you have query or concern about these privacy policies; please send us an ema
                                                                 </td>
                                                             </tr>
                                                         </tbody>
-                                                    </table>	
+                                                    </table>
                                                     <input name="mailsbs" id="mailsbs" type="submit" value="Subscribe">
                                                 </form>
                                             </div>
@@ -453,11 +339,11 @@ If you have query or concern about these privacy policies; please send us an ema
                         <div class="modal-content">
                             <form id="emailRegPopFrms" name="emailRegPopFrms">
                                 <div class="modal-header">
-                                    <h4 id="myModalLabel" class="modal-title"><i class="fa fa-envelope"></i>Admission Information</h4>
+                                    <h4 id="myModalLabel" class="modal-title" style="font-size:16px;margin-top:10px;font-weight:bold;"><i class="fa fa-envelope"></i>GET UPTO 20% SCOLARSHIP IN REGULAR COURSES</h4>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true" id="emailRegPopFrmsClose">×</span></button>
                                 </div>
                                 <div class="modal-body">
-                                    <div id="subscribeerrorpopup" style="color:#FF0000; font-size:12px; text-align:center;"></div>
+                                    <div id="universal_id" style="color:#FF0000; font-size:12px; text-align:center;"></div>
                                     <div id="subscribesuccesspopup" style="color:#0F0; font-size:16px; font-weight:bold; text-align:center;"></div>
                                     <div class="row">
                                         <div class="col-xs-12 col-sm-6">
@@ -466,7 +352,7 @@ If you have query or concern about these privacy policies; please send us an ema
                                                 <li><i class="fa fa-check green_color"></i> Never miss Important deadlines</li>
                                                 <li><i class="fa fa-check green_color"></i> View Detailed Course Fee info</li>
                                                 <li><i class="fa fa-check green_color"></i> Eligibility, the process is made easy</li>
-                                                <li><i class="fa fa- check green_color"></i> Get Update On Your Email</li>
+                                                <li><i class="fa fa-check green_color"></i> Get Update On Your Email</li>
                                             </ul>
                                         </div>
                                         <div class="col-xs-12 col-sm-6">
@@ -475,52 +361,83 @@ If you have query or concern about these privacy policies; please send us an ema
                                                 <div class="col-xs-12 col-sm-12"><input name="popupEmail" id="popupEmail" type="text" class="form-control" placeholder="Enter Email Id"></div>
                                                 <div class="col-xs-12 col-sm-12"><input name="popupMobile" id="popupMobile" type="text" class="form-control" placeholder="Enter Mobile No."></div>
                                                 <div class="col-xs-12 col-sm-12"><select name="popupCourse" id="popupCourse" class="form-control">
-                                                        <option value="">Select Course</option><option value="ANM">ANM</option><option value="AHW">AHW</option><option value="AMI">AMI</option><option value="BA">BA</option><option value="BE">BE</option><option value="BMS">BMS</option><option value="B.Sc">B.Sc</option><option value="BHM">BHM</option><option value="B.Tech+M.Tech">B.Tech+M.Tech</option><option value="B.Tech. + MBA">B.Tech. + MBA</option><option value="B.Tech">B.Tech</option><option value="B.Com">B.Com</option><option value="BBA+MBA">BBA+MBA</option><option value="B.Lib">B.Lib</option><option value="B.Arch">B.Arch</option><option value="BCA">BCA</option><option value="BA+LLB">BA+LLB</option><option value="B.Com+LLB">B.Com+LLB</option><option value="BBA+LLB">BBA+LLB</option><option value="B.Sc+LLB">B.Sc+LLB</option><option value="BPE">BPE</option><option value="BGMC">BGMC</option><option value="B.Ed">B.Ed</option><option value="B.Sc Nursing">B.Sc Nursing</option><option value="BPT">BPT</option><option value="B.Pharma">B.Pharma</option><option value="B.P.Ed">B.P.Ed</option><option value="BDS">BDS</option><option value="Certificate">Certificate</option><option value="C.Arch">C.Arch</option><option value="Diploma">Diploma</option><option value="D.Arch">D.Arch</option><option value="D.Pharma">D.Pharma</option><option value="DPT">DPT</option><option value="D.Ed">D.Ed</option>
-                                                        <option value="DCA">DCA</option>
-                                                        <option value="DMLT">DMLT</option>
+                                                       <option value="">Select Course</option>
+                                                        <option value="VLDA">VLDA</option>
+                                                        <option value="DIPLOMA (AGRICULTURE)">DIPLOMA (AGRICULTURE)</option>
+                                                        <option value="B.Sc (AGRICULTURE)">B.Sc (AGRICULTURE)</option>
+                                                        <option value="M.Sc (AGRICULTURE)">M.Sc (AGRICULTURE)</option>
+                                                        <option value="B.Sc In Forestry">B.Sc In Forestry</option>
+                                                        <option value="Polytechnic/Diploma">Polytechnic/Diploma</option>
+                                                        <option value="B.Tech.">B.Tech.</option>
+                                                        <option value="M.Tech.">M.Tech.</option>
+                                                        <option value="MBA">MBA</option>
+                                                        <option value="PGDBM">PGDBM</option>
+                                                        <option value="BBA">BBA</option>
+                                                        <option value="M.Com">M.Com</option>
+                                                        <option value="B.Com">B.Com</option>
+                                                        <option value="MCA">MCA</option>
+                                                        <option value="BCA">BCA</option>
+                                                        <option value="PGDCA">PGDCA</option>
+                                                        <option value="C.Arch.">C.Arch.</option>
+                                                        <option value="D.Arch.">D.Arch.</option>
+                                                        <option value="B.Arch.">B.Arch.</option>
                                                         <option value="DHM">DHM</option>
-                                                        <option value="ETT">ETT</option>
-                                                        <option value="Fireman">Fireman</option>
-                                                        <option value="GNM">GNM</option>
-                                                        <option value="ITI">ITI</option>
-                                                        <option value="ITC">ITC</option>
-                                                        <option value="JBT">JBT</option>
+                                                        <option value="BHM">BHM</option>
+                                                        <option value="MHM">MHM</option>
+                                                        <option value="B.Lib">B.Lib</option>
+                                                        <option value="M.Lib">M.Lib</option>
+                                                        <option value="M.Sc">M.Sc</option>
+                                                        <option value="BCA">BCA</option>
+                                                        <option value="M.A">M.A</option>
+                                                        <option value="BPE">BPE</option>
+                                                        <option value="BPT">BPT</option>
+                                                        <option value="M.A. Urdu">M.A. Urdu</option>
+                                                        <option value="B.Ed.">B.Ed.</option>
+                                                        <option value="B.Ed  SHIKSHA SHASTRI.">B.Ed  SHIKSHA SHASTRI.</option>
+                                                        <option value="B.A+.B.Ed.">B.A+.B.Ed.</option>
+                                                        <option value="B.Sc.+B.Ed.">B.Sc.+B.Ed.</option>
+                                                        <option value="B.EI.Ed.">B.EI.Ed.</option>
+                                                        <option value="D.EI.Ed. (JBT, D.Ed.,STC,BTC)">D.EI.Ed. (JBT, D.Ed.,STC,BTC)</option>
+                                                        <option value="D.P.S.E. (NTT)">D.P.S.E. (NTT)</option>
+                                                        <option value="M.A. (Education)">M.A. (Education)</option>
+                                                        <option value="B.P.Ed.">B.P.Ed.</option>
+                                                        <option value="D.P.Ed. (C.P.Ed.)">D.P.Ed. (C.P.Ed.)</option>
+                                                        <option value="B.P.E.">B.P.E.</option>
+                                                        <option value="M.P.E.">M.P.E.</option>
+                                                        <option value="MJMC">MJMC</option>
+                                                        <option value="BJMC">BJMC</option>
                                                         <option value="LLM">LLM</option>
                                                         <option value="LLB">LLB</option>
-                                                        <option value="MA">MA</option>
-                                                        <option value="MSW">MSW</option>
-                                                        <option value="M.Sc">M.Sc</option>
-                                                        <option value="M.lib">M.lib</option>
-                                                        <option value="MBA">MBA</option>
-                                                        <option value="MHM">MHM</option>
-                                                        <option value="M.Com">M.Com</option>
-                                                        <option value="MCA">MCA</option>
-                                                        <option value="M.Sc">M.Sc</option>
-                                                        <option value="MPE">MPE</option>
-                                                        <option value="MGMC">MGMC</option>
+                                                        <option value="B.A.LLB">B.A.LLB</option>
+                                                        <option value="B.com.LLB">B.com.LLB</option>
+                                                        <option value="B.B.A.LLB">B.B.A.LLB</option>
+                                                        <option value="B.Sc.LLB">B.Sc.LLB</option>
+                                                        <option value="PG Diploma in Law">PG Diploma in Law</option>
+                                                        <option value="D.Pharma">D.Pharma</option>
+                                                        <option value="B.Pharma">B.Pharma</option>
                                                         <option value="M.Pharma">M.Pharma</option>
-                                                        <option value="MLT">MLT</option>
+                                                        <option value="MMLT">MMLT</option>
+                                                        <option value="DMLT">DMLT</option>
                                                         <option value="MPHW">MPHW</option>
                                                         <option value="MPT">MPT</option>
-                                                        <option value="M. Phil Full Time">M. Phil Full Time</option>
-                                                        <option value="M.Phil Part Time">M.Phil Part Time</option>
-                                                        <option value="M.Sc Nursing">M.Sc Nursing</option>
-                                                        <option value="M.Ed">M.Ed</option>
-                                                        <option value="M.P.Ed">M.P.Ed</option>
-                                                        <option value="MDS">MDS</option>
-                                                        <option value="MBBS">MBBS</option>
-                                                        <option value="MDS">MDS</option>
-                                                        <option value="ME">ME</option>
-                                                        <option value="M.Tech">M.Tech</option>
-                                                        <option value="PG Diploma">PG Diploma</option>
-                                                        <option value="Polytechnic">Polytechnic</option>
-                                                        <option value="PGDM">PGDM</option>
-                                                        <option value="PGDCA">PGDCA</option>
-                                                        <option value="Ph.D Full Time">Ph.D Full Time</option>
-                                                        <option value="Ph.D Part Time">Ph.D Part Time</option>
-                                                        <option value="VLDA">VLDA</option>
-                                                        <option value="Other">Other</option>
+                                                        <option value="BPT">BPT</option>
+                                                        <option value="DPT">DPT</option>
+                                                        <option value="M.Phil.  All subjects">M.Phil.  All subjects</option>
+                                                        <option value="Ph.D All subjects">Ph.D All subjects</option>
+                                                        <option value="Fire Man">Fire Man</option>
+                                                        <option value="Fire Officer">Fire Officer</option>
+                                                        <option value="ANM Nursing">ANM Nursing</option>
+                                                        <option value="GNM Nursing">GNM Nursing</option>
+                                                        <option value="B.SC Nursing">B.SC Nursing</option>
+                                                        <option value="M.SC Nursing">M.SC Nursing</option>
+                                                        <option value="ITI(ITC)">ITI(ITC)</option>
                                                     </select></div>
+
+                                                    <div class="col-xs-12 col-sm-12">
+                                                                                                                <select name="popupState" id="popupState" class="form-control">
+                                                                <option value="">Select State</option>
+                                                                <option value="1">Andaman and Nicobar Islands</option><option value="2">Andhra Pradesh</option><option value="3">Arunachal Pradesh</option><option value="4">Assam</option><option value="5">Bihar</option><option value="6">Chandigarh</option><option value="7">Chhattisgarh</option><option value="8">Dadra and Nagar Haveli</option><option value="9">Daman and Diu</option><option value="10">Delhi</option><option value="11">Goa</option><option value="12">Gujarat</option><option value="13">Haryana</option><option value="14">Himachal Pradesh</option><option value="15">Jammu and Kashmir</option><option value="16">Jharkhand</option><option value="17">Karnataka</option><option value="18">Kerala</option><option value="19">Lakshadweep</option><option value="20">Madhya Pradesh</option><option value="21">Maharashtra</option><option value="22">Manipur</option><option value="23">Meghalaya</option><option value="24">Mizoram</option><option value="25">Nagaland</option><option value="26">Odisha</option><option value="27">Puducherry</option><option value="28">Punjab</option><option value="29">Rajasthan</option><option value="30">Sikkim</option><option value="31">Tamil Nadu</option><option value="32">Telangana</option><option value="33">Tripura</option><option value="34">Uttar Pradesh</option><option value="35">Uttarakhand</option><option value="36">West Bengal</option>                                                        </select>
+                                                    </div>
                                             </div>
                                         </div>
                                     </div>
@@ -531,81 +448,164 @@ If you have query or concern about these privacy policies; please send us an ema
                                             </div>
                                         </div>
                                     </div>
+<!--<h3 style="font-size:16px;color:#003744;text-align:center;">GET UPTO 20% SCOLARSHIP IN REGULAR COURSES</h3>-->
                                 </div>
                             </form>
                         </div>
                     </div>
                 </div>
-                                <script src="http://www.dialyou.com/assets/js/jquery.validate.min.js"></script>
-                <script src="http://www.dialyou.com/assets/js/front-custom.min.js?v=111111117"></script>
-                                <script type="text/javascript">
-                        $(document).ready(function(){// hide #back-top first
-                                $("#back-top").hide();// fade in #back-top
-                                $(function () {
-                                        $(window).scroll(function () {
-                                                if ($(this).scrollTop() > 100) {
-                                                        $('#back-top').fadeIn();
-                                                } else {
-                                                        $('#back-top').fadeOut();
-                                                }
-                                        });
-                                        // scroll body to 0px on click
-                                        $('#back-top a').click(function () {
-                                                $('body,html').animate({ scrollTop: 0}, 800);
-                                                return false;
-                                        });
-                                });
-                        });
-                                                $(document).ready(function() {
-                                $('#subscribeFrm').validate({
-                                        rules: {
-                                                emailsub: {
-                                                        required: true,
-                                                        email: true
-                                                }
-                                        },
-                                        messages: {
-                                                emailsub: {
-                                                        required: "Please Enter Email-ID",
-                                                }
-                                        },
-                                        submitHandler: function(form) {
-                                                $("#mailsbs").css("display", "none");
-                                                $.post("/savesubscribe.php", {email: $('#emailsub').val()},
-                                                function(data) {
-                                                        if (data == 'yes') {
-                                                                // verify aweber
-                                                                //window.open('http://www.dialyou.com/verify-by-aweber.php?name=DIALYOU&email='+$('#emailsub').val(),'_blank');
-                                                                $('#subscribesuccess').html('Your email Subscribe successfully.');
-                                                                setTimeout(function() {
-                                                                        $('#subscribesuccess').fadeOut('slow');
-                                                                        $("#mailsbs").css("display", "block");
-                                                                        $("#emailsub").val('');
-                                                                }, 2500);
-                                                                /* Send request for newsletter server */
-                                                                regEmail = encodeURIComponent($('#emailsub').val());
-                                                                var sendData = "email="+regEmail+"&list%5B2%5D=signup&subscribe=Subscribe+to+the+selected+newsletters";
-                                                                $.ajax({
-                                                                    type: 'POST',
-                                                                    data: sendData,
-                                                                    url: 'http://newsletter.justdialyou.com/lists/?p=subscribe&id=2',
-                                                                    success: function(msg) {
-                                                                        //Done
-                                                                    }
+                                
+                
+                
+                                <script type="text/javascript" language="javascript">
+                        var BASE_URL = 'http://www.dialyou.com/';
+                        $(function() {
+                                cache = {};
+                                $( "input[name=txt_search]" ).autocomplete({
+                                        source: function( request, response ) {
+                                                                console.log(cache);
+                                                                var term = request.term;
+                                                                if ( term in cache ) {
+                                                                        response( cache[ term ] );
+                                                                        return;
+                                                                }
+                                                                $.getJSON( "/ajax-requests/suggest-for-top-search-box.php?city="+$('#txt_city').val(), request, function( data, status, xhr ) {
+                                                                        cache[ term ] = data;
+                                                                        response( data );
                                                                 });
                                                         }
-                                                        else {
-                                                                $('#subscribesuccess').html('Thanks, you are already subscribed.');
-                                                                setTimeout(function() {
-                                                                        $('#subscribesuccess').fadeOut('slow');
-                                                                        $("#mailsbs").css("display", "block");
-                                                                        $("#emailsub").val('');
-                                                                }, 2500);
+                                });
+                                $( "input[name=txt_city]" ).autocomplete({
+                                        source: function( request, response ) {
+                                                                var term = request.term;
+                                                                if ( term in cache ) {
+                                                                        response( cache[ term ] );
+                                                                        return;
+                                                                }
+
+                                                                $.getJSON( "/ajax-requests/suggest-for-top-search-box-city.php", request, function( data, status, xhr ) {
+                                                                        cache[ term ] = data;
+                                                                        response( data );
+                                                                });
+                                                        },
+                                                        select: function (event, ui) {
+                                                                console.log(event);
+                                                                console.log(ui.item.label);
+                                                                var city = ui.item.label;
+                                                                $.cookie('city', city, {path: cookiePath, expires: 365});
                                                         }
-                                                });
+                                });
+                                
+                                $('form[name="frm_top_search"]').submit(function(e){
+                                        e.preventDefault();
+                                        var search_title = $('[name=txt_search]').val();
+                                        var search_city = $.cookie('city');
+                                        if(search_city == '')
+                                                search_city = 'Lucknow';
+                                        
+                                        if(search_title.length >= 0) {
+                                                //var encoded_value = search_title.split(' ').join('-');
+                                                var encoded_value = encodeURIComponent(search_title);
+                                                //var encoded_city_value = search_city.split(' ').join('-');
+                                                var encoded_city_value = encodeURIComponent(search_city);
+                                                window.location.replace('/search-listing?term=' + encoded_value+'&city='+encoded_city_value);
                                         }
                                 });
+                                $("input[name=txt_city]").blur(function(event) {
+                                    /*$.post("/ajax-requests/fixed-for-top-search-box-city.php", {city: $('#txt_city').val()},
+                                        function(data) {
+                                            $('#txt_city').val(data);
+                                        });*/
+                                    /* Use cache for one day */
+                                    
+                                });
+                                                               
+                        if($.cookie('city') == null) {
+                                /* Shared city logic */
+                                if (navigator.geolocation) {
+                                    /* If browser support for geolocation */
+                                    var currentPosition = navigator.geolocation.getCurrentPosition(function(position) {
+
+                                        /* Get current lat long */
+                                        var latitude = position.coords.latitude;
+                                        var longitude = position.coords.longitude;
+
+                                        /* Get current city */
+                                        var geocoder;
+                                        geocoder = new google.maps.Geocoder();
+                                        var latlng = new google.maps.LatLng(latitude, longitude);
+                                        var city = 'Lucknow';
+                                        geocoder.geocode(
+                                            {'latLng': latlng}, 
+                                            function(results, status) {
+                                                if (status == google.maps.GeocoderStatus.OK) {
+                                                        if (results[0]) {
+                                                            var address= results[0].formatted_address ;
+                                                            console.log('Your Address: ' + address);
+                                                            var  value=address.split(",");
+
+                                                            count=value.length;
+                                                            country=value[count-1];
+                                                            state=value[count-2];
+                                                            city=$.trim(value[count-3]);
+                                                            $('#txt_city').val(city);
+                                                            //$.post("/ajax-requests/fixed-for-top-search-box-city.php", {city: city}, function(data) {});
+                                                            console.log("City: " + city);
+
+                                                            /* Use cache for one day */
+                                                            $.cookie('city', city, {path: cookiePath, expires: 365});
+
+                                                        } else {
+                                                                $('#txt_city').val(city);
+                                                                $.cookie('city', 'Lucknow', {path: cookiePath, expires: 365});
+                                                            //$.post("/ajax-requests/fixed-for-top-search-box-city.php", {city: city});
+                                                        }
+
+                                                } else {
+                                                        $('#txt_city').val(city);
+                                                        $.cookie('city', city, {path: cookiePath, expires: 365});
+                                                    /* Failed to get address */
+                                                    /*alert("Geocoder failed due to: " + status);*/
+                                                    //$.post("/ajax-requests/fixed-for-top-search-box-city.php", {city: city});
+                                                }
+                                            }
+                                        );
+                                    });
+
+                                        /* if google current position doesn't work, then put it for New Delhi */
+                                        if(currentPosition == null) {
+                                                $('#txt_city').val('Lucknow');
+                                                $.cookie('city', 'Lucknow', {path: cookiePath, expires: 365});
+                                        }
+
+                                } else {
+                                        $('#txt_city').val('Lucknow');
+                                        $.cookie('city', 'Lucknow', {path: cookiePath, expires: 365});
+                                }
+                                
+                            } else {
+                                /* get data from cookie */
+                                var city = $.cookie('city');
+                                if(city == '')
+                                        city = 'Lucknow';
+                                $('#txt_city').val(city);
+                                $.cookie('city', city, {path: cookiePath, expires: 365});
+                            }
                         });
+                        
+
+                        /* Google analytics code */
+                        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+                        ga('create', 'UA-66177471-1', 'auto');
+                        ga('send', 'pageview');
+                        
                 </script>
-        
+                
+                <script src="http://www.dialyou.com/assets/js/jquery.validate.min.js"></script>
+                <script src="http://www.dialyou.com/assets/js/front-custom.min.js?v=1111111124"></script>
+                        
 </body></html>
