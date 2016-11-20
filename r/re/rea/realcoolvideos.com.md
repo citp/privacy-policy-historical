@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realcoolvideos.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627072244id_/http%3A//www.realcoolvideos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realcoolvideos.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120161835id_/http%3A//www.realcoolvideos.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Real Cool Videos
+# Privacy Policy
 
 This privacy policy states out how RealCoolVideos.com uses and protects any information that you give us when you use this website. RealCoolVideos.com  is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. RealCoolVideos.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Jan 27, 2015.  **What we collect** We may ask to collect the following information:
 
