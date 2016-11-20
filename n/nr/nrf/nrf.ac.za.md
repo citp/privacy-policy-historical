@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrf.ac.za privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602054829id_/http%3A//www.nrf.ac.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrf.ac.za privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120095513id_/http%3A//www.nrf.ac.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Research Foundation
 
