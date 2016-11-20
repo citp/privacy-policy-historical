@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shipdesk.in privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429055514id_/http%3A//shipdesk.in/Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shipdesk.in privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120014033id_/http%3A//shipdesk.in/Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
