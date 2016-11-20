@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebull.com.au privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616032723id_/http%3A//www.thebull.com.au/about_us_list.php%3Fc%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebull.com.au privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120140146id_/http%3A//www.thebull.com.au/about_us_list.php%3Fc%3DPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # about_us - privacy policy - www.thebull.com.au
 
