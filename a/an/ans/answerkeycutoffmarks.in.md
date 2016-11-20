@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the answerkeycutoffmarks.in privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611231030id_/http%3A//answerkeycutoffmarks.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the answerkeycutoffmarks.in privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120060540id_/http%3A//answerkeycutoffmarks.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - All Exams Answer Key & Cutoff Marks 2016
 
 This Privacy Policy governs the manner in which Answerkeycutoffmarks.in/ collects, uses, maintains and discloses information collected from users (each, a User) of the  Answerkeycutoffmarks.in/ ** ** website (Site). This privacy policy applies to the Site, all products and services offered by Answerkeycutoffmarks.in **.**
+
+_We don’t assure that the data provided here is completely correct_. One can use the information at their own risk. We are not responsible for any consequences that occur on applying for any job or walkin data that we provided in our portal.
+
+_Click any link at your own risk in our portal.  _ We are not responsible for any loss you get on doing so. We don’t have control on the portal as these are maintained by third party people.  The Job seekers are advised to be careful and check the information from other websites and official websites make conform regarding any particular advertisement.
 
 **Personal  Identification Information**
 
@@ -18,7 +22,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 **How We Use  Collected Informations?**
 
-Resultsnjobs.in collects and uses Users personal information for the following purposes:
+Answerkeycutoffmarks.in collects and uses Users personal information for the following purposes:
 
 – To improve our Site  
 We continuously strive to improve our website offerings based on the information and feedback we receive from you.  
@@ -45,7 +49,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **Changes To This Privacy Policy**
 
-Resultsnjobs.in has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Answerkeycutoffmarks.in has the discretion to update this privacy policy at any time. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your Acceptance Of These Terms**
 
@@ -56,3 +60,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 Answerkeycutoffmarks.in
 
 **Email: banishanes@gmail.com**
+
+**Disclaimers & Statutory Warnings !**   
+We do not claim and we are not responsible for any official or non official news regarding exam figures, vacancies or number of posts in job advertisement (govt. as well as private agencies),exam dates, paper leak , exam paper cancellation news content & exam graphic images etc. The news & content may be rumors & false. Only visit & consider the official website always as a true source of news. We don’t assure that the data provided here is completely correct. One can use the information at their own risk. We are not responsible for any consequences that occur on applying for any job or walkin data that we provided in our portal. Click any link at your own risk in our portal. We are not responsible for any loss you get on doing so. We don’t have control on the portal as these are maintained by third party people. The Job seekers are advised to be careful and check the information from other websites and official websites make conform regarding any particular advertisement.
