@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filmstro.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420141203id_/https%3A//filmstro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmstro.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120111902id_/https%3A//filmstro.com/footer-items/privacy) for the most accurate reproduction.*
 
-# License | Filmstro
+# Filmstro
 
 ## 1\. INTRODUCTION
 
@@ -10,7 +10,7 @@
 
 ## 2\. DEFINITIONS
 
-In this Privacy Policy capitalised words and expressions shall have the meanings given to them in the Filmstro [Terms of Use](https://web.archive.org/terms) unless defined below:
+In this Privacy Policy capitalised words and expressions shall have the meanings given to them in the Filmstro [Terms of Use](https://filmstro.com/terms) unless defined below:
 
 **Company** means the business you work for or represent (if applicable).
 
@@ -96,7 +96,7 @@ Filmstro reserves the right from time to time to change or update this Privacy P
 
 12.3 You may refuse to accept cookies by activating the setting on your Internet browser which allows you to refuse the setting of cookies. You can also delete cookies that have been installed on your hard drive – consult your software manual for further help. However, if you select the refuse setting, or delete cookies, you may be unable to access certain parts of the Filmstro Services. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
 
-12.4 To learn more about cookies and how to disable them please visit [www.youronlinechoices.com](https://web.archive.org/web/20160420141203id_/https%3A//filmstro.com/www.youronlinechoices.com) and [www.allaboutcookies.org](https://web.archive.org/web/20160420141203id_/https%3A//filmstro.com/www.allaboutcookies.org).
+12.4 To learn more about cookies and how to disable them please visit [www.youronlinechoices.com](https://filmstro.com/www.youronlinechoices.com) and [www.allaboutcookies.org](https://filmstro.com/www.allaboutcookies.org).
 
 ## 13\. SECURITY
 
