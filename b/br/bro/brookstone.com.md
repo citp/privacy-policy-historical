@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the brookstone.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626153018id_/http%3A//www.brookstone.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookstone.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120035604id_/http%3A//www.brookstone.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Effective June 1, 2012**
-
-**Last Updated January  7, 2015**
+**Last Updated September  19, 2016**
 
 Thank you for visiting our site. It is our goal to provide you with an enjoyable and satisfying shopping experience, and to meet and exceed your expectations. Brookstone respects the privacy needs and concerns of our customers.  This privacy policy explains the collection, use, disclosure and protection of your personal information that is collected as a part of your transaction and during site visits.
 
@@ -65,7 +63,8 @@ You always have the choice to opt-out of receiving certain information or to req
   * If you do not wish to receive direct mail promotional materials from Brookstone please contact our Customer Care Center.
   * If you do not wish to receive text promotional materials from Brookstone please text the word STOP from the receiving mobile device to 51515.  
   * If you do not wish to receive direct mail promotional materials from third party companies and other organizations please contact our Customer Care Center.  The Direct Marketing Association has also developed an online tool where you can manage your direct mail preferences.   Please see [www.DMAchoice.org](http://www.dmachoice.org/) for details. 
-  * If you do not wish to have your information shared with third party online advertising providers, please _[click here](http://networkadvertising.org/)_.
+  * We may use the services of third parties to collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services. To learn more, or to opt-out of receiving online display advertisements tailored to your interests by our third party partners, visit the Network Advertising Initiative at [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices).
+  * We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests.  To opt out of our cookies used for this online advertising, click here. **.**
 
 
 
@@ -90,7 +89,7 @@ Once you place your order, you may be prompted to check the box to indicate if y
 **Privacy of Children**  
 This site is a general audience site and is not intended for use by children under the age of 13.  To ensure compliance with federal law, Brookstone does not knowingly collect or maintain information provided by, nor does it actively market any of its products to, children under the age of 13.
 
-**Automatic Collection of Information **(Cookies):****  
+**Automatic Collection of Information (Cookies):**  
 A cookie is a small piece of information that websites use to remember information about users. Brookstone uses two types of cookies to recognize our browsers and customers and remember shopping list items. Brookstone uses transient cookies to provide continuity from page to page. Within a single visit, these cookies store information such as your shopping list to simplify checkout. They do not contain any personally identifying information.
 
 Brookstone also uses persistent cookies to identify customers after their first visit. These cookies remain on the hard drive of a device and allow a user to enter our site without having to log in on every visit. To access any secure areas such as those including your account information you must still enter your password.
@@ -113,5 +112,4 @@ Brookstone encourages you to review this policy to make sure you understand how 
 
   
 **Legal Statement**  
-Copyright © Brookstone Company, Inc., All Rights Reserved.  
-One Innovation Way, Merrimack, New Hampshire 03054
+Copyright © Brookstone Company, Inc., All Rights Reserved.
