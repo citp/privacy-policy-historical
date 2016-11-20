@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planet5d.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508045101id_/http%3A//blog.planet5d.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planet5d.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120123531id_/http%3A//blog.planet5d.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | planet5D curated digital image news
 
