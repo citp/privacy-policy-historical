@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the govtjobsportal.in privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517123114id_/http%3A//www.govtjobsportal.in/p/ads-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govtjobsportal.in privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120114846id_/http%3A//www.govtjobsportal.in/p/ads-privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Govt Jobs & Recruitments in India
+# Privacy Policy - Govt Jobs, Recruitments in India
 
 ###  [Privacy Policy](http://www.govtjobsportal.in/p/ads-privacy-policy.html)
 
