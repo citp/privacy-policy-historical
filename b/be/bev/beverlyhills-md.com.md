@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beverlyhills-md.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607224813id_/http%3A//beverlyhills-md.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beverlyhills-md.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120082136id_/http%3A//beverlyhills-md.com/privacy.php) for the most accurate reproduction.*
 
-# Beverly Hills MD
+# Privacy Policy - Beverly Hills MD
 
 Thank you for visiting the Beverly Hills MD website (the “Site”). Please review the this Privacy Policy (the “Policy” or “Policies”) carefully. We value the importance of your trust and therefore have set forth these policies to better explain how Beverly Hills MD, LLC. (collectively, “Beverly Hills MD, LLC.”, “Us”, “We”, or “Our”) collect, protect, and use your information. The information that we collect may be used as part by us including but not limited to, our Company websites, web pages, advertisements, social media, and the Site. 
 
@@ -44,7 +44,7 @@ Network Merchants, LLC stores transaction information on secure computers locate
 
 \- YOUR CONSENT TO PROCESS INFORMATION -
 
-This Site, http://beverlyhills-md.com, and any webpage associated with Beverly Hills MD, LLC. are operated in and governed by, and in accordance with, the laws of the United States. This Site is intended for the use of residents of the United States. Please note that information we collect may be transferred and processed in the United States, therefore be aware if you are located in Canada, the European Union, or any other country outside the United States. By using the Site or by providing us with any information you irrevocably agree and acknowledge that (i) the Site is subject to the laws of the United States and (ii) the collection, processing, maintenance, and transfer of such information in done in the United States in which the laws on privacy may not be as comprehensive to those in the country where you, the User, reside and/or are a citizen of, and (iii) you waive any claims that may arise under those laws. 
+This Site, http://beverlyhillsmd.com/, and any webpage associated with Beverly Hills MD, LLC. are operated in and governed by, and in accordance with, the laws of the United States. This Site is intended for the use of residents of the United States. Please note that information we collect may be transferred and processed in the United States, therefore be aware if you are located in Canada, the European Union, or any other country outside the United States. By using the Site or by providing us with any information you irrevocably agree and acknowledge that (i) the Site is subject to the laws of the United States and (ii) the collection, processing, maintenance, and transfer of such information in done in the United States in which the laws on privacy may not be as comprehensive to those in the country where you, the User, reside and/or are a citizen of, and (iii) you waive any claims that may arise under those laws. 
 
 \- COMMUNICATIONS -
 
@@ -60,7 +60,7 @@ Attention: Beverly Hills MD Customer Service
 436 N Bedford Dr. STE 308  
 Beverly Hills, CA 90210
 
-or emailing customersupport@beverlyhills-md.com. 
+or emailing customersupport@beverlyhillsmd.com. 
 
 Your consent to this communications provision is not required to make any purchase with Beverly Hills MD.
 
@@ -75,7 +75,7 @@ Do you have a question or concern? We’re here to help you in any way that we c
 To reach us by phone:  
 1-877-828-5528
 
-customersupport@beverlyhills-md.com
+customersupport@beverlyhillsmd.com
 
 Beverly Hills Plastic Surgery Group  
 Beverly Hills, CA 90210
