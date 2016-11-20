@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sex.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620025256id_/http%3A//www.sex.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sex.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120161539id_/http%3A//www.sex.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Sex.com
+# Privacy - Sex.com
 
 Effective February 2012
 
