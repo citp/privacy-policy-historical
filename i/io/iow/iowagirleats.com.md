@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iowagirleats.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623053903id_/http%3A//iowagirleats.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iowagirleats.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120191616id_/http%3A//iowagirleats.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Iowa Girl Eats
 
@@ -49,6 +49,8 @@ Some of our advertisers occasionally serve you cookies as well. We do not have c
 #### **Links to other websites**
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+Iowa Girl Eats is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
 
 #### **Controlling your personal information**
 
