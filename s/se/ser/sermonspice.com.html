@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sermonspice.com privacy policy that was archived on 2016-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160607002824id_/http%3A//www.sermonspice.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sermonspice.com privacy policy that was archived on 2016-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120152249id_/http%3A//www.sermonspice.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<meta charset="utf-8">
@@ -19,30 +19,74 @@
 <script type="text/javascript" src="http://cache.sermonspice.com/media/customer/javascript/site.js"></script>
 <link rel="stylesheet" type="text/css" href="http://cache.sermonspice.com/media/customer/css/bootstrap.min.css" media="screen, projection, tv, print">
 <link rel="stylesheet" type="text/css" href="http://cache.sermonspice.com/media/customer/css/font-awesome.min.css" media="screen, projection, tv, print">
-<link rel="stylesheet" type="text/css" href="http://cache.sermonspice.com/media/customer/css/styles.css?refresh=20160602a.css" media="screen, projection, tv, print">
+<link rel="stylesheet" type="text/css" href="http://cache.sermonspice.com/media/customer/css/styles.css?refresh=20160715.css" media="screen, projection, tv, print">
 <script type="text/javascript">var deactivateAPPopup = true;</script>
-<script type="text/javascript"><!--// <![CDATA[
-	var OA_zones = {
-		'featured_product_1': 14,
-		'featured_product_2': 15,
-		'featured_product_3': 16,
-		'featured_product_4': 17,
-		'featured_product_5': 18,
-		'featured_product_6': 19,
-		'featured_product_7': 22,
-		'featured_product_8': 23,
-		
-		'incontent_top': 37,
-		'incontent_bottom': 36,
-		
-		'insite_1': 27,
-		'insite_2': 28,
-		'insite_3': 29,
-		'insite_4': 30,
-		'insite_5': 31
-	}
-	// ]]> --></script>
-<script type="text/javascript" src="http://ad.sermonspice.com/www/delivery/spcjs.php?id=1&amp;block=1"></script>
+ <script type="text/javascript">
+            // Load GPT asynchronously
+           // var googletag = googletag || {};
+           // googletag.cmd = googletag.cmd || [];
+           // (function () {
+           //     var gads = document.createElement('script');
+           //     gads.async = false;
+           //     gads.type = 'text/javascript';
+           //     var useSSL = 'https:' == document.location.protocol;
+           //     gads.src = (useSSL ? 'https:' : 'http:') +
+           //         '//www.googletagservices.com/tag/js/gpt.js';
+           //     var node = document.getElementsByTagName('script')[0];
+           //     node.parentNode.insertBefore(gads, node);
+           // })();
+        </script>
+        <script type="text/javascript">
+      
+$(document).ready(function () {
+    var topCnt = 0;
+
+    $('div.carousel-inner div.item').each(function (i) {
+
+        $(this).find('img').attr("src", $(this).find('img').attr("src"));
+
+  
+        if ($(this).find('img').length == 0) {
+            $(this).remove();
+        }
+   
+    });
+
+    var cnt = 0;
+    
+    $('img').load(function () {
+        if ($(this).closest("div").attr("class") == "item" || $(this).closest("div").attr("class") == "item active") {
+            var h = document.querySelector('img').naturalHeight;
+                cnt += 1;
+                var closestDivsClass = $(this).closest('div').attr('class');
+
+                if (this.height == 1) {
+                    $(this).closest('div').remove();
+                    console.log("removed");
+                } else {
+                    var h = this.height, w = this.width
+                    $(this).removeAttr('width').removeAttr('height')
+                    var actualHeight = $(this).height(), actualWidth = $(this).width()
+                    $(this).attr({ height: h, width: w }).data({ height: actualHeight, width: actualWidth })
+
+                    if (actualHeight == actualWidth) {
+                        $(this).closest('div').remove();
+                        if (closestDivsClass.indexOf("active") >= 1) {
+                            $('.carousel').carousel({
+                                pause: true,
+                                interval: false
+                            }).carousel(0);
+                            $('.carousel-inner').find('.item').removeClass('active');
+                            $('.carousel-inner').find('.item').first().addClass('active');
+                            console.log("has active: ");
+                        }
+                    }
+                }
+
+            }
+    });
+});
+</script>
 
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -63,23 +107,27 @@
 	ga('send', 'pageview');
 </script>
 	<!-- Facebook Pixel Code -->
-<script>
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','https://connect.facebook.net/en_US/fbevents.js');
-
-fbq('init', '226483937541599');
-fbq('track', "PageView");</script>
+		<script>
+		!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+		n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+		n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+		t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+		document,'script','https://connect.facebook.net/en_US/fbevents.js');
+		
+		fbq('init', '1776988765920908');
+		fbq('track', "PageView");</script>
+		<noscript><img height="1" width="1" style="display:none"
+		src="https://www.facebook.com/tr?id=1776988765920908&ev=PageView&noscript=1"
+		/></noscript>
 <!-- End Facebook Pixel Code -->	<script>var domain="www.sermonspice.com";</script>
 	 
 </head>
 <body>
 	<script type="text/javascript">var allpass_containerRequests = [], allpass_publicationId = null, allpass_parentPublicationId = null;</script>
-<script type="text/javascript" src="http://allpass.salemwebnetwork.com/newsletters/init"></script>	<div id="allpass_container858" style="clear:both;"></div> <script type="text/javascript">
-    if (typeof(allpass_containerRequests) !== 'undefined') { allpass_containerRequests.push([jQuery('#allpass_container858'), 'SlideOut', null, null]); }
-    </script>	<div id="content-wrapper">
+<script type="text/javascript" src="http://allpass.salemwebnetwork.com/newsletters/init"></script>	<div id="allpass_container4822" style="clear:both;"></div> <script type="text/javascript">
+    if (typeof(allpass_containerRequests) !== 'undefined') { allpass_containerRequests.push([jQuery('#allpass_container4822'), 'SlideOut', null, null]); }
+    </script>	<section id="alert-bar"><div></div></section>
+	<div id="content-wrapper">
 	<a class="now-hiring-banner" href="http://www.christianjobs.com/company/46947/" title="More info about our Job Opportunities" rel="external" target="_blank" style="background: #d30c06 no-repeat scroll 0 0;">We're Hiring! Click here for more info!</a>
 		<!-- Top Navigation -->
 <nav id="top-navigation" role="navigation" class="hidden-print">
@@ -269,8 +317,8 @@ fbq('track', "PageView");</script>
 		<footer class="hidden-print clear-padding-xs">
 			<div class="container clear-padding-xs">
 				<div class="row clear-margin-xs">
-	<div id="allpass_container586" style="clear:both;"></div> <script type="text/javascript">
-    if (typeof(allpass_containerRequests) !== 'undefined') { allpass_containerRequests.push([jQuery('#allpass_container586'), 'Narrow2', null, null]); }
+	<div id="allpass_container4269" style="clear:both;"></div> <script type="text/javascript">
+    if (typeof(allpass_containerRequests) !== 'undefined') { allpass_containerRequests.push([jQuery('#allpass_container4269'), 'Narrow2', null, null]); }
     </script>	
 	<div class="col-sm-3 col-md-2 col-md-push-2 col-sm-push-9 clear-padding-xs">
 		<p class="hidden-xs text-uppercase text-muted">Social</p>
@@ -332,9 +380,10 @@ fbq('track', "PageView");</script>
 				<li><a href="http://www.christianjobs.com/" rel="external" class="cj" title="Christian Jobs | Connecting Believers in the Workplace">Christian Jobs</a></li>
 				<li><a href="http://www.churchstaffing.com/" rel="external" class="cs" title="Church Staffing | The Site for Church Employement">Church Staffing</a></li>
 				<li><a href="http://www.videosforyouth.com/" rel="external" class="vy" title="Videos for Youth Media Store | Church Videos, Worship Media, Christian Pictures, Video Sermon Illustrations">Videos For Youth</a></li>
-				<!--<li>< ?php echo html::anchor('http://www.sermonspice.com/', 'SermonSpice', array('rel' => 'external', 'class' => 'sp', 'title' => 'SermonSpice | Media For Your Message')) ? ></li>-->
+				<li><a href="http://www.sermonspice.com/" rel="external" class="sp" title="SermonSpice | Media For Your Message">SermonSpice</a></li>
 			</ul>
 			<ul class="list-inline">
+				<li><a href="http://www.worshiphousekids.com/" rel="external" class="whk" title="WorshipHouse Kids | Creative Resources for Children's Ministry">WorshipHouse Kids</a></li>
 				<li><a href="http://www.pastordeals.com/" rel="external" class="pd" title="PastorDeals.com | Free and Discounted Ministry Resources and Help for Pastors">Pastor Deals</a></li>
 				<li><a href="http://www.worshiphousemedia.com/church-media-blog/" rel="external" class="cmb" title="ChurchMediaBlog.com | News on Church Media, Production, Communications, and Leadership">Church Media Blog</a></li>
 				<li><a href="http://www.womensministrytools.com/" rel="external" class="wmt" title="Women's Ministry Tools | Hundreds of women's ministry ideas and Bible studies">Women's Ministry Tools</a></li>
@@ -397,12 +446,43 @@ fbq('track', "PageView");</script>
 	var axel = Math.random() + '';
 	var a = axel * 10000000000000;
 	document.write('<img src="http://pubads.g.doubleclick.net/activity;dc_iu=/6177/DFPAudiencePixel;ord=' + a + ';dc_seg=27881170?" width=1 height=1 border=0/>');
-</script><img src="http://pubads.g.doubleclick.net/activity;dc_iu=/6177/DFPAudiencePixel;ord=2312467458563.816;dc_seg=27881170?" width="1" height="1" border="0/">
+</script><img src="http://pubads.g.doubleclick.net/activity;dc_iu=/6177/DFPAudiencePixel;ord=686796940961.285;dc_seg=27881170?" width="1" height="1" border="0/">
 <noscript>
 	<img src="http://pubads.g.doubleclick.net/activity;dc_iu=/6177/DFPAudiencePixel;ord=1;dc_seg=27881170?" width=1 height=1 border=0/>
 </noscript>			</div>
 		</footer>
     </div>
+    <script>
+    	// Alert Bar
+    	$(function() {
+			var alert_bar = {};
+			alert_bar['setting_type_name'] = 'alert_bar';
+
+    		$.ajax({
+				type: 'POST',
+				url: 'ajax/ajax_session_data/get_setting/',
+				data: alert_bar,
+				dataType: 'json'
+			})
+			.fail(function(XMLHttpRequest, status, error){
+				console.log('The data could not be loaded: ' + error);
+			})
+			.done(function(result){
+				if (result.status == 'error')
+				{
+					console.log('There was an error while trying to load the data: ' + result.responseText);
+				}
+				else
+				{
+					if (result.status == 'true')
+					{
+						$('#alert-bar').show();
+						$('#alert-bar div').html(result.ext1);
+					}
+				}
+    	    });
+    	});
+    </script>
     <script type="text/javascript">
   (function() {
     window._pa = window._pa || {};
@@ -413,5 +493,6 @@ fbq('track', "PageView");</script>
     pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.marinsm.com/serve/563cf9d955318b117f00010f.js";
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
   })();
-</script>
+</script>    <script type="text/javascript" src="//www.lightboxcdn.com/vendor/f52391b6-cd30-4e6f-97de-4be53e969f87/lightbox_inline.js"></script>
+
 </body></html>
