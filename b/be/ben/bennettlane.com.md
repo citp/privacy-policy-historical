@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bennettlane.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606120039id_/http%3A//www.bennettlane.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bennettlane.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120192627id_/http%3A//www.bennettlane.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement — Bennett Lane Winery - Napa Valley
 
