@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rrd.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531093435id_/http%3A//www.rrdonnelley.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rrd.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120134859id_/http%3A//www.rrdonnelley.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Polices & Legal Notice | RR Donnelley
+# Privacy Policy | RR Donnelley
 
-RR Donnelley & Sons Company and its worldwide subsidiaries (“RR Donnelley,” “we”,””our”) are committed to protecting your privacy. There are various ways that you might interact with RR Donnelley, and the information you provide when doing so allows us to improve our services. By using this website (“Site”) and by supplying your details to RR Donnelley, you consent to RR Donnelley collecting and processing your information. 
+RR Donnelley & Sons Company and its worldwide subsidiaries (“RR Donnelley,” “we”, ”our”) are committed to protecting your privacy. There are various ways that you might interact with RR Donnelley, and the information you provide when doing so allows us to improve our services. By using this website (“Site”) and by supplying your details to RR Donnelley, you consent to RR Donnelley collecting and processing your information. 
 
 Our privacy policy explains:
 
@@ -17,7 +17,7 @@ Our privacy policy explains:
 **Information We Collect & Share**  
 RR Donnelley may collect or record basic personal information (e.g., name, e-mail address, mailing address, phone number) _which you voluntarily provide_ through forms on our Site, through electronic mail you send to us, or through other means of communication between you and RR Donnelley. 
 
-RR Donnelley only collects personal information of a more sensitive nature e.g. social security or other governmental ID numbers, credit card details and account numbers) where it is appropriate or necessary for conducting business. This information will be collected, stored, accessed and processed in a secure manner. RR Donnelley may also collect general non-personal information pertaining to users of our sites, including IP addresses, source domain names, specific web pages, length of time spent, and pages accessed. This information is collected, among other things, to aggregate statistical information, facilitate system administration and improve the Site. 
+RR Donnelley only collects personal information of a more sensitive nature (e.g. social security or other governmental ID numbers, credit card details and account numbers) where it is appropriate or necessary for conducting business. This information will be collected, stored, accessed and processed in a secure manner. RR Donnelley may also collect general non-personal information pertaining to users of our sites, including IP addresses, source domain names, specific web pages, length of time spent, and pages accessed. This information is collected, among other things, to aggregate statistical information, facilitate system administration and improve the Site.
 
 RR Donnelley also collects, uses, and discloses identifiable information about individual contacts for RR Donnelley’s customers (“Business Contact Information”) in the ordinary course of its business for managing and maintaining customer relationships. In particular, RR Donnelley may obtain the following types of Business Contact Information: name, address, invoice information including bank account information, and order information. Unless otherwise specified or prohibited, RR Donnelley may share information with affiliates, business partners, service providers, subsidiaries or contractors who are required to provide you with services which you have requested from us.
 
@@ -85,9 +85,3 @@ RR Donnelley may change this privacy policy from time to time. If this privacy p
 Except for Canada and the EU, questions regarding this privacy policy should be directed to the Chief Information Security Officer, Peter Tiemeyer at 4101 Winfield Road, Warrenville, Illinois 60555 USA; telephone 630.963.9494; e-mail- [dataprivacy@rrd.com](mailto:dataprivacy@rrd.com).
 
 In Canada, please direct questions to Stephen Wright, the Canadian Privacy Manager at 6100 Vipond Drive, Mississauga, Ontario L5T 2X1; telephone 905-362-3100; email - [dataprivacy@rrd.com](mailto:dataprivacy@rrd.com). In the EU please direct questions to Benjamin Banks at Shannon Way, Ashchurch, Tewkesbury, Gloucestershire GL20 8BL England; telephone 44 203 047 5700; email [dataprivacy@rrd.com](mailto:dataprivacy@rrd.com).
-
-**Comments**  
-RR Donnelley welcomes your [comments](https://web.archive.org/contact/rrdonnelley.aspx). 
-
-  
-
