@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paybacktime.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621033939id_/http%3A//www.ruleoneinvesting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paybacktime.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120175752id_/http%3A//www.ruleoneinvesting.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Rule #1 Investing
+# How to Invest Money - How to Invest in Stocks | Rule One Investing
 
 _Rule #1 Investing knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. By visiting Rule #1 Investing, you are accepting the practices described in this Privacy Notice._
 
