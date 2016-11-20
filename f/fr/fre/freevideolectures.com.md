@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freevideolectures.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611013852id_/http%3A//freevideolectures.com/Pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freevideolectures.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120030620id_/http%3A//freevideolectures.com/Pages/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -27,6 +27,8 @@
 
 
   * ### If you believe that your work has been copied in a way that constitutes copyright infringement, or that your intellectual property rights have been otherwise violated, please provide us with the URL of where your copyrighted material is located. We promptly remove or disable access to the material.
+
+
 
 
   
