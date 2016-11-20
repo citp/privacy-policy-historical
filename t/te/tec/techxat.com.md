@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techxat.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618045858id_/http%3A//techxat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techxat.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120051043id_/http%3A//techxat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
@@ -28,6 +28,6 @@ We do not collect any inforamtion from anyone under 13 years of age. Our Websit
 The Privacy Policy is supossed from time to time, Techxat should encourages visitors to check this page frequently for any changes to Privacy Policy.  
 If you are a subscriber you will revieve an email about Privacy Policy.
 
-_Last Update  2015-04-12_
+_Last Update  2016-8-25_
 
 If you have any question about Privacy Policy of Techxat, You can [Contact US](http://techxat.com/contact-us/)
