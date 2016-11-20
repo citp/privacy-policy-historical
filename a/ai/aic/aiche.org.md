@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the aiche.org privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618135515id_/http%3A//www.aiche.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiche.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120142818id_/http%3A//www.aiche.org/about/privacy) for the most accurate reproduction.*
 
-# Privacy | AIChE | The Global Home of Chemical Engineers
-
-## Privacy & Security Policy
+# AIChE Site Privacy & Security Policy
 
 The AIChE Web site offers a convenient way to access the benefits of membership. You can interact with other members and even conduct everyday business. When you use the site you may be asked to supply personal information. We value your privacy and will only use your information as described below.
 
