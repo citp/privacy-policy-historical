@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qeemat.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531081504id_/http%3A//www.qeemat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qeemat.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120080817id_/http%3A//www.qeemat.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – Prices in Pakistan
+# Privacy Policy - Prices in PakistanPrices in Pakistan
 
 User privacy is the main concern of Qeemat.com and it’s a commitment that any of User’s information whether Email address or phone number will not be shared with any other party except our sponsors or the websites that serve ads on our site. Even our business partners cannot use your information without prior consent of the user.
 
@@ -29,4 +29,4 @@ If you have any question or concern about our website than you can email us on f
 
 Or you can send email through our Contact Us form on the following link,
 
-**[www.qeemat.com/contact/](https://web.archive.org/web/20160531081504id_/http://www.qeemat.com/privacy/www.qeemat.com/contact/)**
+**[www.qeemat.com/contact/](https://web.archive.org/web/20161120080817id_/http://www.qeemat.com/privacy/www.qeemat.com/contact/)**
