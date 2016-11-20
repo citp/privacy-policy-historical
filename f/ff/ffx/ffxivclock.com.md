@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ffxivclock.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528055455id_/http%3A//www.ffxivclock.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffxivclock.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120034536id_/http%3A//www.ffxivclock.com/pages/privacy.php) for the most accurate reproduction.*
 
 # FFXIV Clock - Privacy Policy
 
