@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doofinder.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627220717id_/http%3A//doofinder.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doofinder.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120165210id_/http%3A//www.doofinder.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Doofinder's privacy policy
+# Doofinder | Doofinder's privacy policy
 
 ## General Information
 
@@ -22,13 +22,13 @@ The present privacy policy describes:
 
 
 
-Your privacy is important for Doofinder, therefore we recommend you to read our policy and contact us, if you have any doubts, at the e-mail address: [info@doofinder.com](mailto:info@doofinder.com).
+Your privacy is important for Doofinder, therefore we recommend you to read our policy and contact us, if you have any doubts, at the email address: [info@doofinder.com](mailto:info@doofinder.com).
 
 ## Doofinder collected data
 
 Data collection is carried out in two ways:
 
-  * **Information that you facilitate us.** In order to use our services you must register to obtain a Doofinder account. During this process we will ask you for certain personal data as, for example, your name, e-mail address, telephone number or your credit card data. To obtain our Services you will have to give us your service or product data base.
+  * **Information that you facilitate us.** In order to use our services you must register to obtain a Doofinder account. During this process we will ask you for certain personal data as, for example, your name, email address, telephone number or your credit card data. To obtain our Services you will have to give us your service or product data base.
 
   * **Data that we obtain through the use of our services.** We will be able to collect data about what kind of inquiries your users make and how they use our services. These pieces of information include: specific data about your user devices (as, for example, the equipment model, the specific version of the operating model, unique identifiers and network data).
 
@@ -125,4 +125,4 @@ In Doofinder we verify the observance of our privacy policy on a regular basis. 
 
 ## Modifications
 
-Our privacy policy can be modified in any moment. We will not limit the rights that correspond to you according to the present privacy policy without your express consent. We will publish all modifications of the current privacy policy on this page and, if they are significant, we will make a more prominent notification (for example, we will send you a notification through electronic e-mail).
+Our privacy policy can be modified in any moment. We will not limit the rights that correspond to you according to the present privacy policy without your express consent. We will publish all modifications of the current privacy policy on this page and, if they are significant, we will make a more prominent notification (for example, we will send you a notification through electronic email).
