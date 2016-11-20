@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freegames.net privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231095538id_/http%3A//www.freegames.net/page/2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegames.net privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120225710id_/http%3A//www.freegames.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Free Games - Play Free Online Games - Privacy Policy
+# Privacy Policy - FreeGames.net
 
 **Privacy Policy for FreeGames.net**
 
