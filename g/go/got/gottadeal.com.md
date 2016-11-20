@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gottadeal.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531061648id_/http%3A//www.gottadeal.com/Article/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gottadeal.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120220223id_/http%3A//www.gottadeal.com/Article/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GottaDeal.com
 
@@ -56,7 +56,11 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 Should you have other questions or concerns about these privacy policies, please call us at (414) 375-2359 or contact us using the form available here on the site. 
 
-|  |  | 
+|  | 
+
+[](http://blackfriday.gottadeal.com/)
+
+| 
 
 [](http://deals.gd/amazondotd "Check out the Amazon.com Gold Box Deals of the Day")
 
@@ -70,13 +74,13 @@ Should you have other questions or concerns about these privacy policies, please
 
 | 
 
-[](http://deals.gd/targetdeal "Check out the Target Deals of the Day")  
+[](http://deals.gd/targetcomdeals "Check out the Target Deals of the Day")  
   
 [](http://deals.gd/wootcom "Check out the woot.com Deal of the Day")
 
 | 
 
-[](http://deals.gd/Kohlscom "Check out the Kohl's Deals for Today")  
+[](http://deals.gd/kohlsdeals "Check out the Kohl's Deals for Today")  
   
 [](http://deals.gd/samssv "Check out the SamsClub.com Shocking Values")
 
@@ -84,7 +88,7 @@ Should you have other questions or concerns about these privacy policies, please
 
 [](http://deals.gd/hddotd "Check out the Home Depot Deal of the Day")  
   
-[](http://deals.gd/staplesdaily "Check out the Staples.com Daily Deals")
+[](http://deals.gd/6pmcom "Check out the 6pm.com Deals of the Day")
 
 | 
 
@@ -96,20 +100,20 @@ Should you have other questions or concerns about these privacy policies, please
 
 [](http://deals.gd/reideal "Check out the REI Outlet Deal of the Day")  
   
-[](http://deals.gd/6pmcom "Check out the 6pm.com Deals of the Day")
+[](http://deals.gd/grpn2017 "Check out the Groupon Deals for Your Area")
 
 | 
 
 [](http://deals.gd/osdotd "Check out the Overstock.com Flash Deals")  
   
-[](http://deals.gd/grpn2016 "Check out the Groupon Deals for Your Area")
-
-| 
-
-[](http://deals.gd/lsref "Check out the LivingSocial.com Daily Deals")  
-  
 [](http://deals.gd/dailysale "Check out the DailySale Daily Deals")
 
 | 
 
-[](http://deals.gd/zulilyref "Check out the zulily Daily Deals")
+[](http://deals.gd/zulilyref "Check out the zulily Daily Deals")  
+  
+[](http://deals.gd/Macyscom "Check out the Macy's Daily Deals")
+
+| 
+
+[](http://deals.gd/JCPenney "Check out the JCPenney Daily Deals")
