@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nickiswift.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619094653id_/http%3A//www.nickiswift.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickiswift.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120123755id_/http%3A//www.nickiswift.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nicki Swift
 
@@ -38,8 +38,8 @@ The NickiSwift Website may contain links to other web sites ("Linked Sites") ope
 
 **Our Policy Towards Children**
 
-The NickiSwift Website is not directed to children under 18. If a parent or guardian becomes aware that his or her child has provided NickiSwift with personally identifiable information without their consent, he or she should contact NickiSwift at info@NickiSwift.com.  If NickiSwift becomes aware that a child under 13 has provided NickiSwift with personally identifiable information, NickiSwift will remove such information from our files.
+The NickiSwift Website is not directed to children under 18. If a parent or guardian becomes aware that his or her child has provided NickiSwift with personally identifiable information without their consent, he or she should contact NickiSwift at staff@NickiSwift.com.  If NickiSwift becomes aware that a child under 13 has provided NickiSwift with personally identifiable information, NickiSwift will remove such information from our files.
 
 **Changes to this Privacy Policy**
 
-NickiSwift reserves the right to change this policy at any time without prior notice. Any changes to this policy will be posted here.  You are advised to consult this Privacy Policy regularly for any changes. If you have any questions or comments about this Privacy Policy, please contact us at info@NickiSwift.com.
+NickiSwift reserves the right to change this policy at any time without prior notice. Any changes to this policy will be posted here.  You are advised to consult this Privacy Policy regularly for any changes. If you have any questions or comments about this Privacy Policy, please contact us at staff@NickiSwift.com.
