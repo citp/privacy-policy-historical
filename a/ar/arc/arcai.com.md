@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcai.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501154446id_/http%3A//www.arcai.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcai.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120194740id_/http%3A//www.arcai.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | Arcai.com
 
