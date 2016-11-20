@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cooksmarts.com privacy policy that was archived on 2016-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160617044440id_/http%3A//www.cooksmarts.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cooksmarts.com privacy policy that was archived on 2016-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120082729id_/http%3A//www.cooksmarts.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="x js" lang="en"><!--<![endif]--><head>
 	<!--[if lt IE 9]>
@@ -22,7 +22,9 @@
 <meta property="og:site_name" content="Cook Smarts">
 <!-- / Yoast SEO plugin. -->
 
-<link rel="stylesheet" id="main-css" href="http://1m8t7f33dnra3sfk6v2rjurs.wpengine.netdna-cdn.com/wp-content/themes/cooksmarts/assets/compiled/css/app.min.css?ver=1464306984" type="text/css" media="all">
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="stylesheet" id="main-css" href="http://1m8t7f33dnra3sfk6v2rjurs.wpengine.netdna-cdn.com/wp-content/themes/cooksmarts/assets/compiled/css/app.min.css?ver=1478737333" type="text/css" media="all">
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js?ver=2.1.4"></script>
 <link rel="https://api.w.org/" href="http://www.cooksmarts.com/wp-json/">
 <link rel="alternate" type="application/json+oembed" href="http://www.cooksmarts.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.cooksmarts.com%2Fprivacy-policy%2F">
@@ -59,7 +61,83 @@ src="https://www.facebook.com/tr?id=322738091250708&ev=PageView&noscript=1"
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sp, s);
 	})(); 
 </script>
-<!-- End Mailchimp Goal Pixel Code -->  <meta name="description" content="Cook Smarts, LLC Privacy Policy Your privacy and security are important to us. We want you to feel comfortable using Cook Smarts, LLC’s website and">
+<!-- End Mailchimp Goal Pixel Code -->
+<!-- Has Offers params forwarding code -->
+    <script>
+      // collect app links
+      function getAppLinks() {
+        var links = document.querySelectorAll("a");
+        var mealPlanAppLinks = [];
+
+        Array.prototype.forEach.call(links, function(link, i) {
+          // skip the link if it's not an app link
+          if (link.href.indexOf('cooksmarts.com') == -1 && link.href.indexOf('bit.ly') == -1) {
+            return;
+          }
+          mealPlanAppLinks.push(link);
+        });
+
+        return mealPlanAppLinks;
+      }
+
+      // collect forms that post to app
+      function getAppForms() {
+        var forms = document.querySelectorAll("form");
+        var mealPlanAppForms = [];
+
+        Array.prototype.forEach.call(forms, function(form, i) {
+          if (form.action.indexOf("cooksmarts.com") == -1 && form.action.indexOf('bit.ly') == -1) {
+            return;
+          }
+          mealPlanAppForms.push(form);
+        });
+
+        return mealPlanAppForms;
+      }
+
+      // add set of params to a URL
+      function addParams(url, paramsStr) {
+        var strToAdd = paramsStr;
+        if (url.indexOf("?") != -1) {
+          strToAdd = "&" + paramsStr;
+        } else {
+          strToAdd = "?" + paramsStr;
+        }
+        url += strToAdd;
+        return url;
+      }
+
+      // detect Has Offers data and forward the params
+      // to the app
+      function forwardHasOffersParams() {
+        // Get current URL
+        var url = window.location.href;
+
+        // Check URL for Has Offers params
+        if (url.indexOf("hoti=") != -1) {
+          // Pull params from URL
+          var questionMarkIndex = url.indexOf("?");
+          var paramsStr = url.substring(questionMarkIndex + 1, url.length);
+
+          // Attach params to any Rails app links
+          var mealPlanLinks = getAppLinks();
+          Array.prototype.forEach.call(mealPlanLinks, function(link, i){
+            link.href = addParams(link.href, paramsStr);
+          });
+
+          // Update form actions
+          var mealPlanForms = getAppForms();
+          Array.prototype.forEach.call(mealPlanForms, function(form, i){
+            form.action = addParams(form.action, paramsStr);
+          });
+        }
+      }
+
+      document.addEventListener("DOMContentLoaded", function() {
+        forwardHasOffersParams();
+      });
+    </script>
+<!-- end Has Offers params forwarding code -->  <meta name="description" content="Cook Smarts, LLC Privacy Policy Your privacy and security are important to us. We want you to feel comfortable using Cook Smarts, LLC’s website and">
   <meta property="og:description" content="Cook Smarts, LLC Privacy Policy Your privacy and security are important to us. We want you to feel comfortable using Cook Smarts, LLC’s website and">
   <script type="text/javascript">$.noConflict();</script>
 <link rel="icon" href="http://1m8t7f33dnra3sfk6v2rjurs.wpengine.netdna-cdn.com/wp-content/uploads/2015/12/cropped-favicon-32x32.png" sizes="32x32">
@@ -76,20 +154,29 @@ src="https://www.facebook.com/tr?id=322738091250708&ev=PageView&noscript=1"
 			<p>Permanent link to page: http://www.cooksmarts.com/privacy-policy/		</p></div>
 		<nav role="navigation" class="site-navigation main-small-navigation">
 			<div class="assistive-text skip-link"><a href="#primary" title="Skip to content">Skip to content</a></div>
-			<div class="menu-primary-container"><ul id="menu-primary" class="menu"><li id="menu-item-1801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1801"><a href="http://www.cooksmarts.com/cooking-guides/">Guides</a></li>
-<li id="menu-item-1802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1802"><a href="http://www.cooksmarts.com/cooking-lessons/">Lessons</a></li>
+			<div class="menu-primary-container"><ul id="menu-primary" class="menu"><li id="menu-item-12051" class="no-click menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12051"><a href="#">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-1801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1801"><a href="http://www.cooksmarts.com/cooking-guides/">Guides</a></li>
+	<li id="menu-item-1802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1802"><a href="http://www.cooksmarts.com/cooking-lessons/">Lessons</a></li>
+	<li id="menu-item-1687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1687"><a href="http://www.cooksmarts.com/articles/">Articles</a></li>
+	<li id="menu-item-12052" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12052"><a href="/resources/videos/">Videos</a></li>
+	<li id="menu-item-12113" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12113"><a href="/resources/infographics/">Infographics</a></li>
+</ul>
+</li>
 <li id="menu-item-1800" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1800"><a href="http://www.cooksmarts.com/weekly-meal-plan-service/">Meal Plan Service</a>
 <ul class="sub-menu">
 	<li id="menu-item-1811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1811"><a href="http://www.cooksmarts.com/weekly-meal-plan-service/pricing-features/">Pricing &amp; Features</a></li>
 	<li id="menu-item-9958" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9958"><a href="https://mealplans.cooksmarts.com/account/subscribe">Join</a></li>
 	<li id="menu-item-9959" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9959"><a href="https://mealplans.cooksmarts.com/gift">Gift a Subscription</a></li>
+	<li id="menu-item-12552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12552"><a href="http://www.cooksmarts.com/ambassadors-affiliate-program/">Become an Ambassador</a></li>
 </ul>
 </li>
-<li id="menu-item-1687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1687"><a href="http://www.cooksmarts.com/articles/">Articles</a></li>
 <li id="menu-item-1803" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1803"><a href="http://www.cooksmarts.com/about/">About</a>
 <ul class="sub-menu">
 	<li id="menu-item-1812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1812"><a href="http://www.cooksmarts.com/about/our-team/">Our Team</a></li>
 	<li id="menu-item-1813" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1813"><a href="http://www.cooksmarts.com/about/jess/">About Jess</a></li>
+	<li id="menu-item-12553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12553"><a href="http://www.cooksmarts.com/nonprofit-partnerships/">Non-Profit Partnerships</a></li>
+	<li id="menu-item-12554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12554"><a href="http://www.cooksmarts.com/corporate-wellness-programs/">Corporate Wellness</a></li>
 </ul>
 </li>
 <li id="menu-item-1809" class="no-click menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1809"><a href="#">Login</a>
@@ -103,8 +190,8 @@ src="https://www.facebook.com/tr?id=322738091250708&ev=PageView&noscript=1"
         </label>
       </form></li></ul></div>		</nav>
 		<div class="toolbar">
-			  <script type="text/javascript">var currMessageID=2016061420160616;var notifyReset=1465756186</script> 
-  <div class="notify"><div class="inner"><p>Our sale ends today! Enjoy 20% off &nbsp;meal plan <a href="https://mealplans.cooksmarts.com/account/subscribe">subscriptions</a> and <a href="https://mealplans.cooksmarts.com/gift" target="_blank">gifts</a> or 50% off <a href="https://mealplans.cooksmarts.com/nourish/gift/" target="_blank">Nourish gifts</a> with code CLASSOF2016</p>
+			  <script type="text/javascript">var currMessageID=2016111820161205;var notifyReset=1479492706</script> 
+  <div class="notify"><div class="inner"><p>It’s time for our biggest sale of the year! Enjoy 40% off <a href="https://mealplans.cooksmarts.com/account/subscribe">meal plan subscriptions with code&nbsp;HAPPYCOOKING</a>.</p>
 <svg class="close-icon"><use xlink:href="#close"></use></svg></div></div>
     <div class="notify-return">
       <svg class="notify-icon"><use xlink:href="#notification"></use></svg></div>
@@ -122,8 +209,8 @@ src="https://www.facebook.com/tr?id=322738091250708&ev=PageView&noscript=1"
 		</div>
 	</header><!-- #masthead .site-header-small -->
 	<header class="site-header site-header-large" role="banner">
-		  <script type="text/javascript">var currMessageID=2016061420160616;var notifyReset=1465756186</script> 
-  <div class="notify"><div class="inner"><p>Our sale ends today! Enjoy 20% off &nbsp;meal plan <a href="https://mealplans.cooksmarts.com/account/subscribe">subscriptions</a> and <a href="https://mealplans.cooksmarts.com/gift" target="_blank">gifts</a> or 50% off <a href="https://mealplans.cooksmarts.com/nourish/gift/" target="_blank">Nourish gifts</a> with code CLASSOF2016</p>
+		  <script type="text/javascript">var currMessageID=2016111820161205;var notifyReset=1479492706</script> 
+  <div class="notify"><div class="inner"><p>It’s time for our biggest sale of the year! Enjoy 40% off <a href="https://mealplans.cooksmarts.com/account/subscribe">meal plan subscriptions with code&nbsp;HAPPYCOOKING</a>.</p>
 <svg class="close-icon"><use xlink:href="#close"></use></svg></div></div>
     <div class="notify-return">
       <svg class="notify-icon"><use xlink:href="#notification"></use></svg></div>
@@ -132,20 +219,29 @@ src="https://www.facebook.com/tr?id=322738091250708&ev=PageView&noscript=1"
 			</div>
 			<nav role="navigation" class="site-navigation main-navigation">		  
 				<div class="assistive-text skip-link"><a href="#primary" title="Skip to content">Skip to content</a></div>
-				<div class="menu-primary-container"><ul id="menu-primary-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1801"><a href="http://www.cooksmarts.com/cooking-guides/">Guides</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1802"><a href="http://www.cooksmarts.com/cooking-lessons/">Lessons</a></li>
+				<div class="menu-primary-container"><ul id="menu-primary-1" class="menu"><li class="no-click menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12051"><a href="#">Resources</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1801"><a href="http://www.cooksmarts.com/cooking-guides/">Guides</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1802"><a href="http://www.cooksmarts.com/cooking-lessons/">Lessons</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1687"><a href="http://www.cooksmarts.com/articles/">Articles</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12052"><a href="/resources/videos/">Videos</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12113"><a href="/resources/infographics/">Infographics</a></li>
+</ul>
+</li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1800"><a href="http://www.cooksmarts.com/weekly-meal-plan-service/">Meal Plan Service</a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1811"><a href="http://www.cooksmarts.com/weekly-meal-plan-service/pricing-features/">Pricing &amp; Features</a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9958"><a href="https://mealplans.cooksmarts.com/account/subscribe">Join</a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9959"><a href="https://mealplans.cooksmarts.com/gift">Gift a Subscription</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12552"><a href="http://www.cooksmarts.com/ambassadors-affiliate-program/">Become an Ambassador</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1687"><a href="http://www.cooksmarts.com/articles/">Articles</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1803"><a href="http://www.cooksmarts.com/about/">About</a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1812"><a href="http://www.cooksmarts.com/about/our-team/">Our Team</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1813"><a href="http://www.cooksmarts.com/about/jess/">About Jess</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12553"><a href="http://www.cooksmarts.com/nonprofit-partnerships/">Non-Profit Partnerships</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12554"><a href="http://www.cooksmarts.com/corporate-wellness-programs/">Corporate Wellness</a></li>
 </ul>
 </li>
 <li class="no-click menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1809"><a href="#">Login</a>
@@ -236,11 +332,11 @@ src="https://www.facebook.com/tr?id=322738091250708&ev=PageView&noscript=1"
     <h3>Sign up for the Cook Smarts Newsletter</h3>
     
                 <div class="gf_browser_unknown gform_wrapper" id="gform_wrapper_1"><a id="gf_1" class="gform_anchor"></a><form method="post" enctype="multipart/form-data" target="gform_ajax_frame_1" id="gform_1" action="/privacy-policy/#gf_1">
-                        <div class="gform_body"><ul id="gform_fields_1" class="gform_fields top_label form_sublabel_below description_below"><li id="field_1_2" class="gfield gfield_contains_required field_sublabel_below field_description_below"><label class="gfield_label" for="input_1_2">First name<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_text"><input name="input_2" id="input_1_2" type="text" value="" class="medium" tabindex="12" placeholder="First name"></div></li><li id="field_1_1" class="gfield gfield_contains_required field_sublabel_below field_description_below"><label class="gfield_label" for="input_1_1">Email<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_email">
+                        <div class="gform_body"><ul id="gform_fields_1" class="gform_fields top_label form_sublabel_below description_below"><li id="field_1_2" class="gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label" for="input_1_2">First name<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_text"><input name="input_2" id="input_1_2" type="text" value="" class="medium" tabindex="12" placeholder="First name" aria-required="true" aria-invalid="false"></div></li><li id="field_1_1" class="gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label" for="input_1_1">Email<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_email">
                             <input name="input_1" id="input_1_1" type="text" value="" class="medium" tabindex="13" placeholder="Email address">
-                        </div></li><li id="field_1_3" class="gfield gform_hidden field_sublabel_below field_description_below"><input name="input_3" id="input_1_3" type="hidden" class="gform_hidden" value="website"></li><li id="field_1_4" class="gfield gform_hidden field_sublabel_below field_description_below"><input name="input_4" id="input_1_4" type="hidden" class="gform_hidden" value="true"></li>
+                        </div></li><li id="field_1_3" class="gfield gform_hidden field_sublabel_below field_description_below gfield_visibility_visible"><input name="input_3" id="input_1_3" type="hidden" class="gform_hidden" aria-invalid="false" value="website"></li><li id="field_1_4" class="gfield gform_hidden field_sublabel_below field_description_below gfield_visibility_visible"><input name="input_4" id="input_1_4" type="hidden" class="gform_hidden" aria-invalid="false" value="true"></li><li id="field_1_5" class="gfield gform_hidden field_sublabel_below field_description_below gfield_visibility_visible"><input name="input_5" id="input_1_5" type="hidden" class="gform_hidden" aria-invalid="false" value="cooksmarts"></li><li id="field_1_6" class="gfield gform_hidden field_sublabel_below field_description_below gfield_visibility_visible"><input name="input_6" id="input_1_6" type="hidden" class="gform_hidden" aria-invalid="false" value="email-list"></li><li id="field_1_7" class="gfield gform_hidden field_sublabel_below field_description_below gfield_visibility_visible"><input name="input_7" id="input_1_7" type="hidden" class="gform_hidden" aria-invalid="false" value="popup-optin"></li><li id="field_1_8" class="gfield gform_hidden field_sublabel_below field_description_below gfield_visibility_visible"><input name="input_8" id="input_1_8" type="hidden" class="gform_hidden" aria-invalid="false" value=""></li><li id="field_1_9" class="gfield gform_hidden field_sublabel_below field_description_below gfield_visibility_visible"><input name="input_9" id="input_1_9" type="hidden" class="gform_hidden" aria-invalid="false" value=""></li><li id="field_1_10" class="gfield gform_hidden field_sublabel_below field_description_below gfield_visibility_visible"><input name="input_10" id="input_1_10" type="hidden" class="gform_hidden" aria-invalid="false" value=""></li>
                             </ul></div>
-        <div class="gform_footer top_label"> <input type="submit" id="gform_submit_button_1" class="gform_button button" value="Sign up" tabindex="14" onclick="if(window[&quot;gf_submitting_1&quot;]){return false;}  window[&quot;gf_submitting_1&quot;]=true;  "> <input type="hidden" name="gform_ajax" value="form_id=1&amp;title=&amp;description=&amp;tabindex=12">
+        <div class="gform_footer top_label"> <input type="submit" id="gform_submit_button_1" class="gform_button button" value="Sign up" tabindex="14" onclick="if(window[&quot;gf_submitting_1&quot;]){return false;}  window[&quot;gf_submitting_1&quot;]=true;  " onkeypress="if( event.keyCode == 13 ){ if(window[&quot;gf_submitting_1&quot;]){return false;} window[&quot;gf_submitting_1&quot;]=true;  jQuery(&quot;#gform_1&quot;).trigger(&quot;submit&quot;,[true]); }"> <input type="hidden" name="gform_ajax" value="form_id=1&amp;title=&amp;description=&amp;tabindex=12">
             <input type="hidden" class="gform_hidden" name="is_submit_1" value="1">
             <input type="hidden" class="gform_hidden" name="gform_submit" value="1">
             
@@ -248,28 +344,28 @@ src="https://www.facebook.com/tr?id=322738091250708&ev=PageView&noscript=1"
             <input type="hidden" class="gform_hidden" name="state_1" value="WyJbXSIsIjQ2NDcxOGQxYmJiZjE1NmJmMWE2NjIwYjkwYjliYjczIl0=">
             <input type="hidden" class="gform_hidden" name="gform_target_page_number_1" id="gform_target_page_number_1" value="0">
             <input type="hidden" class="gform_hidden" name="gform_source_page_number_1" id="gform_source_page_number_1" value="1">
-            <input type="hidden" name="gform_field_values" value="">
+            <input type="hidden" name="gform_field_values" value="newsletterSource=website&amp;utm_source=cooksmarts&amp;utm_name=popup-optin&amp;utm_medium=email-list">
             
         </div>
                         </form>
                         </div>
-                <iframe style="display:none;width:0px;height:0px;" src="about:blank" name="gform_ajax_frame_1" id="gform_ajax_frame_1"></iframe>
-                <script type="text/javascript">jQuery(document).ready(function($){gformInitSpinner( 1, 'http://www.cooksmarts.com/wp-content/themes/cooksmarts/assets/images/spinner.gif' );jQuery('#gform_ajax_frame_1').load( function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'http://www.cooksmarts.com/wp-content/themes/cooksmarts/assets/images/spinner.gif' );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('#gforms_confirmation_message_1').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_1').replaceWith('<' + 'div id=\'gforms_confirmation_message_1\' class=\'gform_confirmation_message_1 gforms_confirmation_message\'' + '>' + confirmation_content + '<' + '/div' + '>');jQuery(document).scrollTop(jQuery('#gforms_confirmation_message_1').offset().top);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;}, 50);}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [1, current_page]);} );} );</script><script type="text/javascript"> if(typeof gf_global == 'undefined') var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"http:\/\/www.cooksmarts.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"http:\/\/www.cooksmarts.com\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 1) {if(typeof Placeholders != 'undefined'){
+                <iframe style="display:none;width:0px;height:0px;" src="about:blank" name="gform_ajax_frame_1" id="gform_ajax_frame_1">This iframe contains the logic required to handle AJAX powered Gravity Forms.</iframe>
+                <script type="text/javascript">jQuery(document).ready(function($){gformInitSpinner( 1, 'http://www.cooksmarts.com/wp-content/themes/cooksmarts/assets/images/spinner.gif' );jQuery('#gform_ajax_frame_1').load( function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'http://www.cooksmarts.com/wp-content/themes/cooksmarts/assets/images/spinner.gif' );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('#gforms_confirmation_message_1').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_1').replaceWith('<' + 'div id=\'gforms_confirmation_message_1\' class=\'gform_confirmation_message_1 gforms_confirmation_message\'' + '>' + confirmation_content + '<' + '/div' + '>');jQuery(document).scrollTop(jQuery('#gforms_confirmation_message_1').offset().top);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;}, 50);}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [1, current_page]);} );} );</script><script type="text/javascript"> if(typeof gf_global == 'undefined') var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"http:\/\/www.cooksmarts.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"http:\/\/www.cooksmarts.com\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 1) {if(typeof Placeholders != 'undefined'){
                         Placeholders.enable();
                     }} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type="text/javascript"> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [1, 1]) } ); </script>    <p><a class="popup-modal-dismiss" href="#">Cancel</a></p>
     <p class="small"><strong>Privacy Policy:</strong> We hate SPAM &amp; promise to keep your email address safe.</p>
 </div>
-<script type="text/javascript" src="http://1m8t7f33dnra3sfk6v2rjurs.wpengine.netdna-cdn.com/wp-content/themes/cooksmarts/assets/compiled/js/app.min.js?ver=1464306984"></script>
-<script type="text/javascript" src="http://1m8t7f33dnra3sfk6v2rjurs.wpengine.netdna-cdn.com/wp-includes/js/wp-embed.min.js?ver=4.5.2"></script>
-<script type="text/javascript" src="http://1m8t7f33dnra3sfk6v2rjurs.wpengine.netdna-cdn.com/wp-content/plugins/gravityforms/js/jquery.json.js?ver=1.9.18"></script>
-<script type="text/javascript" src="http://1m8t7f33dnra3sfk6v2rjurs.wpengine.netdna-cdn.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=1.9.18"></script>
-<script type="text/javascript" src="http://1m8t7f33dnra3sfk6v2rjurs.wpengine.netdna-cdn.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=1.9.18"></script>
+<script type="text/javascript" src="http://1m8t7f33dnra3sfk6v2rjurs.wpengine.netdna-cdn.com/wp-content/themes/cooksmarts/assets/compiled/js/app.min.js?ver=1473103617"></script>
+<script type="text/javascript" src="http://1m8t7f33dnra3sfk6v2rjurs.wpengine.netdna-cdn.com/wp-includes/js/wp-embed.min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://1m8t7f33dnra3sfk6v2rjurs.wpengine.netdna-cdn.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.1.0.1"></script>
+<script type="text/javascript" src="http://1m8t7f33dnra3sfk6v2rjurs.wpengine.netdna-cdn.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.1.0.1"></script>
+<script type="text/javascript" src="http://1m8t7f33dnra3sfk6v2rjurs.wpengine.netdna-cdn.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.1.0.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var countVars = {"disqusShortname":"cooksmarts"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://1m8t7f33dnra3sfk6v2rjurs.wpengine.netdna-cdn.com/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.5.2"></script>
+<script type="text/javascript" src="http://1m8t7f33dnra3sfk6v2rjurs.wpengine.netdna-cdn.com/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.6.1"></script>
 <!--[if lte IE 9]><p class="browsehappy">You are using an <strong>out of date</strong> browser that can't display the contents of this site. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p><![endif]-->
 
 </body></html>
