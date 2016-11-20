@@ -1,80 +1,135 @@
-> *The following text is extracted and transformed from the uavcoach.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609210245id_/http%3A//uavcoach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uavcoach.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120102605id_/http%3A//uavcoach.com/privacy) for the most accurate reproduction.*
 
 # Your Privacy Rights | UAV Coach
 
-_Effective Date: **February 3, 2016**_
+_Effective Date: **July 29, 2016**_
 
-1\. INTRODUCTION
+This website (as available at www.uavcoach.com, www.community.uavcoach.com, and www.learn.uavcoach.com) and its associated services and content (collectively “Website”) is owned and operated by Makalu Ventures, LLC, d.b.a. UAV Coach (“UAV Coach”).  UAV Coach has adopted this Privacy Policy (“Privacy Policy”) to inform you that it collects personal, personally identifiable, and non-personal information when you use the Website and to explain how this information is used and shared with third parties, if at all.  UAV Coach has also adopted this Privacy Policy because it respects your privacy and believes that it should clearly and transparently disclose its privacy practices to you.  You should contact UAV Coach directly with any questions or concerns.
 
-1.1. PURPOSE OF POLICY. Makalu Ventures, LLC dba UAV Coach (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its visitors and users of this website (the “Site”). We created this Privacy Policy (“Policy”) to give you confidence as you visit and use the Site, and to demonstrate a commitment to fair information practices and the protection of privacy.
+UAV COACH MAY CHANGE, MODIFY, AMEND, SUSPEND, TERMINATE, OR REPLACE THIS PRIVACY POLICY FROM TIME TO TIME AND WITHIN ITS SOLE AND ABSOLUTE DISCRETION.  IN THE EVENT UAV COACH CHANGES, MODIFIES, AMENDS, OR REPLACES THIS PRIVACY POLICY, THE EFFECTIVE DATE, LOCATED ABOVE, WILL CHANGE.  YOUR CONTINUED USE OF THE WEBSITE AFTER A CHANGE IN THE EFFECTIVE DATE OF THIS PRIVACY POLICY CONSTITUTES YOUR MANIFESTATION OF ASSENT TO THE CHANGE, MODIFICATION, AMENDMENT, OR REPLACEMENT CONTAINED WITHIN.
 
-2\. INFORMATION COLLECTION PRACTICES
+**1\. UAV Coach may collect the following personal and personally identifiable information from you:**
 
-2.1. WHAT PERSONALLY IDENTIFIABLE INFORMATION DO WE COLLECT?
-
-(a) Categories of Personally Identifiable Information.  We collect personally identifiable information from you only if you sign up for a newsletter or contact us including:
-
-Your name,
-
-Your email address, and
-
-Message details you send with inquiries.
-
-(b) Modification or Removal Process. Please contact us if you wish to modify your information.
-
-(c) Privacy Policy Modifications and Updates. We may update and modify this Privacy Policy. If we modify or update the policy, we will post a notice on the Site for 30 days prior to the change going into effect.
-
-(d) Effective Date: The effective date of this new privacy policy shall be Feb 3, 2016.
-
-(e) Do Not Track Signals.  We do not currently honor “do not track” signals issued by browsers or other third party sources.
-
-(f) Third Party Tracking: As a matter of transparency, we’ve decided to disclose to you whether third parties can acquire and track your personally identifiable information through our website. Google and other sites listed below can track you through this Site as we use their services for social media and infrastructure purposes. Google participates in the NIA opt out program. You can visit [this link](http://www.networkadvertising.org/choices/#completed) to no longer be tracked by Google and Google properties such as Google Plus. You can also visit the following sites to read their privacy policies and how they track individuals across the web: 
-
-  * [Facebook](https://www.facebook.com/about/privacy/)
-  * [LinkedIn](https://www.linkedin.com/legal/pop/pop-privacy-policy)  
-  * [Twitter](https://twitter.com/privacy)  
-  * [YouTube](https://www.youtube.com/static?template=privacy_guidelines)
+  * First and last name;
+  * Email address;
+  * Physical address;
+  * Phone number;
+  * Fax number;
+  * Account holder and payment information, including, without limitation, credit/debit card or PayPal payment information;
+  * Any information that you voluntarily upload, post, or submit to UAV Coach, its Website, or similar third party websites or applications; and
+  * Other required account or other information to utilize the Website or UAV Coach’s services.
 
 
 
-You can use programs such as [Privacy Badger](https://www.eff.org/privacybadger) to further control the collection of information regarding you online.
+**2\. UAV Coach may also collect the following additional information from you:**
 
-2.2. WHAT ADDITIONAL INFORMATION DOES COMPANY COLLECT?
+  * Your photographs/images
+  * Your business information and website
+  * Your videos;
+  * Your UAV product information;
+  * Your IP address;
+  * Your browser and search engine information;
+  * Your visitor history;
+  * Your usage of the Website, including, without limitation, any links or items clicked or pages viewed and statistics;
+  * Information stored in cookies, pixel tags, or web beacons;
+  * Analytic data from Google Analytics and/or webhost; and
+  * Any other additional analytic data that you voluntarily submit to the Website or to UAV Coach.
 
-(a) AUTOMATIC COLLECTION. Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Site may also gather anonymous aggregate “traffic data” that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.
 
-(b) COOKIES. We may use “cookies” to store a small piece of data on your computer during your visit to collect information. The cookies are used to gain information on how you use the web, which we try to incorporate into the Site to improve your experience.
 
-3\. USE AND SHARING OF INFORMATION
+UAV Coach may collect this information from you through various channels, including, but not limited to, through voluntary submission of information to UAV Coach, through voluntary submission of information to the Website, through requests initiated through the Website, through communication with third parties (such as PayPal, Stripe, and Facebook), through the collection and analysis of information concerning your computer and browsing activities, through the use of cookies, web beacons, pixel tags, Google Analytics, and through other sources permitted by law.  Cookies are small files that are transferred to your computer’s hard drive through your web browser that allow the Website to recognize your browser and capture and remember certain information.  Pixel tags/web beacons are pieces of code on a webpage to allow websites to read and place cookies, among other things, with the resulting connection including information such as an IP address.  UAV Coach uses cookies and pixel tags consistent with the terms of this Privacy Policy.
 
-3.1. WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?
+The third party service providers used by UAV Coach have their own independent privacy policies governing the use of this information and we encourage you to read those privacy policies carefully.  UAV Coach has no responsibility or liability for the activities of the third party service providers used by UAV Coach to provide you with the services associated with the Website.  UAV Coach expressly reserves the right to utilize third party service providers for purposes of collection, storage, analysis and sharing of certain information.  Third party service providers used by UAV Coach may also use Cookies for the purpose of collecting and storing information.  UAV Coach does not have access to or control over their use of Cookies.
 
-(a) PERSONAL INFORMATION. We will not share your personal information with any third parties without your consent, except as necessary to provide you with the services offered by us or to comply with the law. Examples of such services include, but are not limited to, third parties providing email facilitation and hosting. However, please note that if you leave the Site and purchase a product or service we promote, the company you purchase from will notify us of the purchase as well as certain identifying information for you. We do not share this information with others.
+**3\. UAV Coach uses this personal or personally identifiable information in the following ways:**
 
-(b) ANONYMOUS INFORMATION. We use anonymous information to analyze our Site traffic. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our Site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis. Your personal information will not be detailed in this aggregate data.
+Provide you with the Website and customize the content and/or layout of the Website for individual visitors, communicate with you, identify and fix problems with the Website, update you on changes to the Website, communicate with you concerning your account and to respond to any of your inquiries and/or other requests, to complete a transaction you initiated and to process payment for any transaction, and to update you on UAV Coach’s products and services offered through the Website and/or the services of third parties.
 
-(c) USE OF COOKIES. We use information obtained from cookies to analyze your use of the Site and to make appropriate adjustments.
+You further authorize the following specific uses:
 
-(d) DISCLOSURE OF PERSONAL INFORMATION. We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on Company, (2) protect and defend the rights or property of Company or the users of the Site, or (3) act under exigent circumstances to protect the safety of the public or users of the Site.
+  1. enable your use of the Website and their associated services;
+  2. improve algorithms;
+  3. measure service usage;
+  4. develop new features;
+  5. contact and communicate with you, whether through email, telephone, fax, text messages, or messages within the Website;
+  6. customize and/or tailor the Website and your user experience, which may include targeted selection and display of third party advertisements within the Website;
+  7. aggregate certain information that does not include your personal information and disclose it for analysis, demographic profiling and/or targeted advertising;
+  8. advertise products and services of UAV Coach;
+  9. provide you with information or services that may be of interest to you;
+  10. transmit and process your information and actions within the Website;
+  11. provide statistical information, and include you in the same, where applicable;
+  12. provide you with technical service and support, including updates;
+  13. provide you with information concerning UAV Coach’s benefits or services;
+  14. store, archive, retrieve, and make copies of your user generated content;
+  15. understand your needs and requests;
+  16. communicate promotions or other offers;
+  17. process payments;
+  18. prevent and detect illegal activities or violations of your Terms of Use;
+  19. combine your personal and personally identifiable information with information from other UAV Coach applications and/or services; and
+  20. facilitate your use of the Website and upgrades/replacements to the Website.
 
-(e) SALE OF INFORMATION. In order to accommodate changes in our business, we may sell or buy portions of our Company or other companies or assets, including the information collected through this Site and from orders of our product including your customer information. If Company or substantially all of its assets are acquired by a third party, your personally identifiable information will be one of the assets transferred to the acquirer.
 
-(f) DMCA CLAIM DISCLOSURES. We comply with the Digital Millennium Copyright Act of 1998, better known as the “DMCA”.  Should we receive a claim of copyright infringement, we will comply with the safe harbor requirements of the DMCA. Part of that compliance may require the disclosure of your identity if you are either the allegedly infringing party or the party filing the copyright infringement complaint.
 
-(g) DRONELAW PRO (TRAVERSE LEGAL). If you fill out the [drone certification form on this page](http://uavcoach.com/drone-certification), your form submission details will be shared with DroneLaw Pro (Traverse Legal).
+**4\. UAV Coach stores your personal or personally identifiable information in the following manner:**
 
-4\. SECURITY
+Your information is stored and processed on computers that may be outside of the United States and, through your use of the Website, you unequivocally consent to the processing and storage of your information internationally and within the United States.  You understand and agree that UAV Coach may continue to store your information after you cease use of the service or disable your account.
 
-The Site has reasonable security measures in place such as Secure Sockets Layer protocols to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration.
+UAV Coach uses commercially reasonable and standard technology to help prevent against the unauthorized disclosure of your information, such as SSL protocols.  Though we undertake commercially reasonable efforts to protect your information, no website, software, or online service is completely safe.   Accordingly, you provide all such personal or personally identifiable information at your own risk.
 
-5\. SITE AREAS BEYOND COMPANY’S CONTROL
+**5\. UAV Coach may share your personal or personally identifiable information with third parties in the following circumstances:**
 
-5.1. THIRD PARTY WEBSITES
+  * Where UAV Coach has obtained your consent;
+  * Where sharing or disclosure of your personal or personally identifiable information is necessary to provide you with the Website, and/or associated services (We may share your personal or personally identifiable information with trusted third parties who assist us in operating the Website, providing the associated services, and conducting our business);
+  * Where sharing or disclosure of your personal or personally identifiable information is necessary to share personal or personally identifiable information with UAV Coach’s parents, subsidiaries, successors, assigns, licensees, affiliates, or business partners;
+  * Where UAV Coach has been purchased by a third party;
+  * Where sharing or disclosure of your personal or personally identifiable information is necessary to respond to requests by government authorities;
+  * Where your personal or personally identifiable information is demanded by a court order or subpoena;
+  * Where sharing or disclosure of your personal or personally identifiable information is needed to protect the employees, independent contractors, officers, directors, members, users, or owners/shareholders of UAV Coach;
+  * Where sharing or disclosure of your personal or personally identifiable information is needed to help prevent against fraud or the violation of any applicable law, statute, regulation, ordinance, or treaty; and
+  * Where UAV Coach is otherwise legally obligated to share your personal or personally identifiable information.
 
-The Site contains links to and interfaces with third party websites and online platforms. These websites and online platforms have established their own terms of use and privacy policies. You are encouraged to read those documents as we have no control over their provisions and said documents may differ greatly from our terms and privacy policy.
 
-6\. CONTACT INFORMATION AND POLICY UPDATES
 
-6.1. CONTACTING US
+You understand and agree that UAV Coach may specifically share some of your information with payment processors, such as PayPal or Stripe, web merchants, online retailers, and other third party service providers in order to complete the services offered through the Website.
 
-If you have any questions about this Policy, our practices related to this Site, please contact us at support@uavcoach.com.
+**6\. Purchase or sale of the Website, software, database, associated services, or other assets:**
+
+UAV Coach may purchase other businesses or sell components of its business, including, but not limited to, the Website, software, database, and associated services.  In the event UAV Coach purchases another business or sells any component of its business, your personal and personally identifiable information will continue to be used consistent with the terms of this Privacy Policy.
+
+**7\. You may stop UAV Coach from collecting your personal or personally identifiable information by:**
+
+Adjusting your web browser settings, limiting cookies, terminating your account, or by ceasing your use of the Website.  Please note that it is possible that some areas of the Website will not function properly when you view them if you adjust your web browser settings to limit cookies.  UAV Coach ignores any and all Do Not Track requests and signals.
+
+Google, Facebook, LinkedIn, Twitter, and YouTube may track you through the Website since UAV Coach uses their services for social media and infrastructure purposes.  Google participates in the NIA opt out program.  You can visit <http://www.networkadvertising.org/choices/> to no longer be tracked by Google.  Further, you can use programs such as Privacy Badger (<https://www.eff.org/privacybadger>) to further control the collection of your information online.
+
+You may contact UAV Coach with any requests regarding your information, including requests to correct inaccuracies, by writing to us or emailing us at the addresses below. UAV Coach reserves the right to act or not act upon such requests. You may also opt out of receiving certain email communications by writing to UAV Coach or emailing us at the addresses below or by following an Opt-Out link provided in any such communication.
+
+**8\. When using the Website, you are obligated to:**
+
+Inform UAV Coach of any changes to your personal or personally identifiable information, and protect the security of your user account, and your personal or personally identifiable information.
+
+**9\. California Residents**
+
+California residents have the right to receive information that identifies any third party companies or individuals that UAV Coach has shared your personal or personally identifiable information within the previous calendar year, as well as a description of the categories of personal or personally identifiable information. disclosed to that third party.  You may obtain this information once a year and free of charge by contacting UAV Coach at the address below.
+
+**10.  ** **Children’s Online Privacy Protection Policy**
+
+The Website is not intended for or directed to users under the age of eighteen (18).  UAV Coach is in compliance with the requirements of the Children’s Online Privacy Protection Act and does not knowingly or intentionally collect personally identifiable information from children under the age of thirteen (13) or other minors.  If you are concerned that personal information may have been inadvertently provided to or collected by UAV Coach, please contact us immediately so appropriate steps may be taken to remove such information from UAV Coach’s database.
+
+**11\. Third party services and third party links**
+
+UAV Coach may outsource or subcontract some of our technical support, tracking and reporting functions, payment processing functions, database management functions, and other services to third parties. We may share information from or about you with them so that they can perform their services as long as they comply with this Privacy Policy.  You understand and agree that UAV Coach will not be held responsible for any third party communications sent by entities that UAV Coach does not own or control or for any third party links (including advertisements).  You are encouraged to review any third party privacy policies before utilizing any such third party service.
+
+UAV Coach may include or offer third party products or services on the Website and provide third party links to the same.  These third party websites have separate and independent privacy policies.  UAV Coach has no responsibility or liability for the content and activities of such third parties and their websites.  We encourage you to read carefully the privacy policies of all such third party websites.  We seek to protect the integrity of the Website and therefore welcome any feedback about any such third party websites.
+
+**12\. Contact and Notices**
+
+All questions and concerns regarding this Privacy Policy may be submitted to UAV Coach at the following location:
+
+Makalu Ventures, LLC
+
+61 7th Avenue South Apt. H
+
+New York, NY 10014
+
+A copy of any such notice must be emailed to [support@uavcoach.com](mailto:support@uavcoach.com), but email notice alone shall not comply with the notice requirements of this Agreement.
