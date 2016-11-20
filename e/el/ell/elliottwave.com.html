@@ -1,199 +1,1399 @@
-<!--The following is the downloaded HTML source of the elliottwave.com privacy policy that was archived on 2016-04-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160425211812id_/http%3A//www.elliottwave.com/info/privacy-policy-highlights.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the elliottwave.com privacy policy that was archived on 2016-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120195249id_/http%3A//www.elliottwave.com/About/Privacy-Policy) for the most accurate reproduction.-->
 
-<html lang="en"><head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="">
-<meta name="author" content="">
-<title>Privacy Statement Highlights | ElliottWave International</title>
-<!-- Bootstrap core CSS -->
-<link href="/layout/v1/css/bootstrap.css" rel="stylesheet">
-<!-- Add custom CSS here -->
-<link href="/layout/v1/css/modern-business.css" rel="stylesheet">
-<link href="/layout/v1/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-<!-- //Add custom CSS here -->
-<style type="text/css">
+<!DOCTYPE html><html><head>
+    <meta charset="utf-8">
     
-    #quotes
-    {
-        position:relative;
-    }
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1">
+    <meta name="format-detection" content="telephone=no">
+                <meta name="description" content="Elliott Wave International (EWI) wants to provide you with a rewarding, informative and exciting visit to sites in the Elliott Wave Network (ElliottWave.com, Deflation.com and eWaves.com) as well as safeguard your privacy online. This page provides key points of EWI's privacy statement about the information we collect on the above referenced domains in the Elliott Wave Network and how we use it.">
+
     
-    .product-image
-    {
-        /*display: none;*/
-    }
-    .textItem
-    {
-        position:absolute;
-        display:none;
-    }
-    
-    .radioButtonList td
-    {
-        vertical-align: top;
-    }
-    .radioButtonList input[type="radio"]
-    {
-        float: left;
-    }
-    .radioButtonList label
-    {
-        display: block;
-        font-weight: normal;
-        margin-left: 20px;
-    }
+    <title>Privacy Policy: Elliott Wave International</title>
+    <!-- SET: FAVICON -->
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/images/fav-img.png">
+    <!-- END: FAVICON -->
+    <!-- SET: STYLESHEET -->
+
+    <link rel="stylesheet" type="text/css" href="/assets/bootstrap/dist/css/bootstrap.css"><!-- PV Update: originally /css/bootstrap.css -->
+    <link rel="stylesheet" type="text/css" href="/assets/css/x-chop-style.css"><!--Main CSS. Built by xChop--->
+    <link rel="stylesheet" type="text/css" href="/assets/css/responsive.css" media="all"><!--Enables responsives styles-->
+    <link rel="stylesheet" type="text/css" href="/assets/css/dd.css"><!--Controls Wizard-->
+    <link rel="stylesheet" type="text/css" href="/assets/css/jquery.bxslider.css"><!--Controls Carousel and Educational Products Slider-->
+    <link rel="stylesheet" type="text/css" href="/assets/css/ewi-custom.css"><!--PV Todo: EWI Custom CSS so that we don not mess with the original css. Convert to LESS to be referenced inside of newly created bootstrap.less. Possibly add this into /css/style.css in to this custom.less file -->
+    <link rel="stylesheet" type="text/css" href="/assets/css/font-awesome.css"><!--Scalable Vector Icons -->
+    <link rel="stylesheet" type="text/css" href="/assets/css/pstool.css">
     
     
-    .newsletter-img
-	{
-		float: left; 
-		width: 100px;
-	}
+
+
+    <!-- END: STYLESHEET -->
+    <!-- SET: SCRIPTS -->
+    
+    <!-- Add jQuery library -->
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//code.jquery.com/jquery-latest.min.js"></script>
+    <script src="/assets/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/assets/js/jquery.dd.min.js"></script>
+    <script src="/assets/js/less-1.6.0.min.js"></script>
+    <script type="text/javascript" src="/assets/js/bxslider/jquery.bxslider.js"></script>
+    <script type="text/javascript" src="/assets/js/ewi/utils.js"></script>
+    <script type="text/javascript" src="/assets/js/ewi/cart/cart.js"></script>
+    <script type="text/javascript" src="/assets/js/proservices/pstool.js"></script>
+
+	<!--<script type="text/javascript" src="/assets/js/fancybox/lib/jquery-1.9.0.min.js"></script>-->
+    
+	<!-- Add fancyBox main JS and CSS files -->
+    <script type="text/javascript" src="/assets/js/fancybox/source/jquery.fancybox.js?v=2.1.4"></script>
+    <link rel="stylesheet" type="text/css" href="/assets/js/fancybox/source/jquery.fancybox.css?v=2.1.4" media="screen">
+    	
+
+	<script type="text/javascript">
+        //$.noConflict();
+        (function($) {
+
+
+        $(document).ready(function () {
+			/*
+			 *  Simple image gallery. Uses default settings
+			 */
+
+			$('.fancybox').fancybox();
+
+			/*
+			 *  Different effects
+			 */
+
+
+			$(".fancybox")
+            //.attr('rel', 'gallery')
+            .fancybox({
+                type: 'iframe',
+                autoSize: false,
+
+
+                beforeLoad: function () {
+                    this.width = parseInt(this.href.match(/width=[0-9]+/i)[0].replace('width=', ''));
+                    this.height = parseInt(this.href.match(/height=[0-9]+/i)[0].replace('height=', ''));
+                }
+            });
+
+			$(".fancypdf").fancybox({
+			    openEffect: 'none',
+			    closeEffect: 'none',
+			    autoSize: true,
+			    type: 'iframe',
+			    iframe: {
+			        preload: false // fixes issue with iframe and IE
+			    }
+
+			});
+
+			// Change title type, overlay closing speed
+			$(".fancybox-effects-a").fancybox({
+				helpers: {
+					title : {
+						type : 'outside'
+					},
+					overlay : {
+						speedOut : 0
+					}
+				}
+			});
+
+			// Disable opening and closing animations, change title type
+			$(".fancybox-effects-b").fancybox({
+				openEffect  : 'none',
+				closeEffect	: 'none',
+
+				helpers : {
+					title : {
+						type : 'over'
+					}
+				}
+			});
+
+			// Set custom style, close if clicked, change title type and overlay color
+			$(".fancybox-effects-c").fancybox({
+				wrapCSS    : 'fancybox-custom',
+				closeClick : true,
+
+				openEffect : 'none',
+
+				helpers : {
+					title : {
+						type : 'inside'
+					},
+					overlay : {
+						css : {
+							'background' : 'rgba(238,238,238,0.85)'
+						}
+					}
+				}
+			});
+
+			// Remove padding, set opening and closing animations, close if clicked and disable overlay
+			$(".fancybox-effects-d").fancybox({
+				padding: 0,
+
+				openEffect : 'elastic',
+				openSpeed  : 150,
+
+				closeEffect : 'elastic',
+				closeSpeed  : 150,
+
+				closeClick : true,
+
+				helpers : {
+					overlay : null
+				}
+			});
+
+			/*
+			 *  Button helper. Disable animations, hide close button, change title type and content
+			 */
+
+			$('.fancybox-buttons').fancybox({
+				openEffect  : 'none',
+				closeEffect : 'none',
+
+				prevEffect : 'none',
+				nextEffect : 'none',
+
+				closeBtn  : false,
+
+				helpers : {
+					title : {
+						type : 'inside'
+					},
+					buttons	: {}
+				},
+
+				afterLoad : function() {
+					this.title = 'Image ' + (this.index + 1) + ' of ' + this.group.length + (this.title ? ' - ' + this.title : '');
+				}
+			});
+
+
+			/*
+			 *  Thumbnail helper. Disable animations, hide close button, arrows and slide to next gallery item if clicked
+			 */
+
+			$('.fancybox-thumbs').fancybox({
+				prevEffect : 'none',
+				nextEffect : 'none',
+
+				closeBtn  : false,
+				arrows    : false,
+				nextClick : true,
+
+				helpers : {
+					thumbs : {
+						width  : 50,
+						height : 50
+					}
+				}
+			});
+
+			/*
+			 *  Media helper. Group items, disable animations, hide arrows, enable media and button helpers.
+			*/
+			$('.fancybox-media')
+				.attr('rel', 'media-gallery')
+				.fancybox({
+					openEffect : 'none',
+					closeEffect : 'none',
+					prevEffect : 'none',
+					nextEffect : 'none',
+
+					arrows : false,
+					helpers : {
+						media : {},
+						buttons : {}
+					}
+				});
+
+			/*
+			 *  Open manually
+			 */
+
+			$("#fancybox-manual-a").click(function() {
+				$.fancybox.open('1_b.jpg');
+			});
+
+			$("#fancybox-manual-b").click(function() {
+				$.fancybox.open({
+					href : 'iframe.html',
+					type : 'iframe',
+					padding : 5
+				});
+			});
+
+			$("#fancybox-manual-c").click(function() {
+				$.fancybox.open([
+					{
+						href : '1_b.jpg',
+						title : 'My title'
+					}, {
+						href : '2_b.jpg',
+						title : '2nd title'
+					}, {
+						href : '3_b.jpg'
+					}
+				], {
+					helpers : {
+						thumbs : {
+							width: 75,
+							height: 50
+						}
+					}
+				});
+			});
+
+        });
+        })(jQuery);
+
+	</script>
+	<style type="text/css">
+		.fancybox-custom .fancybox-skin {
+			box-shadow: 0 0 50px #222;
+		}
+	</style>
+    <script type="text/javascript">
+        //$.noConflict();
+        (function (jQuery) {
+            jQuery(document).ready(function () {
 	
-	.hilites
-	{ color: #666; }
-    
-    
-    /** Sticky **/
-    #sticky {
-    
-    
-	}
-	#sticky.stick {
-		position: fixed;
-		width: 350px;
-		top: 0;
-	}
-    /** //Sticky **/		
-    
-	.logo
-	{width: 175px;}
-	@media (max-width: 360px) {
-	.logo
-	{width: 150px;}
-	}
+		    jQuery("#aLink").fancybox({
+				'width'             : '80%',
+				'height'            : '75%',
+				'autoScale'         : false,
+				'transitionIn'      : 'none',
+				'transitionOut'     : 'none',
+				'type'              : 'iframe',
+				'href'              : 'http://www.elliottwave.com'
+			});
+			
+			//launch on load after 5 second delay
+		    window.setTimeout('jQuery("#aLink")', 5000);
 	
-    @media (max-width: 1000px){
-    /*.newsletter-left
-    {float: none; text-align: center; width: 100%;}
-    .newsletter-right
-    {margin-left: auto;}*/
+		});
+		})(jQuery);
 
-    .newsletter-left
-    {float: none;  width: 100%;}
-    .newsletter-right
-    {margin-left: 0px; padding-top: 20px;}
-    .ffs-ps
-    {margin-right: auto; margin-left: auto; width: 85%;}
+	</script>   
     
-    .truste
-    {display: none;}
-    
-    /** Sticky **/
-    #sticky {
-    
-    
-	}
-	#sticky.stick {
-		position: ;
-		width: 350px;
-		top: 0px;
-	}
-    /** //Sticky **/
-    			
-    }
+    <!-- GA -->
+            <script type="text/javascript">
+                (function (i, s, o, g, r, a, m) {
+                    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+                })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-</style>
+                ga('create', 'UA-1202085-30', 'auto');
+                ga('send', 'pageview');
+            </script>
+
 </head>
-<body>
-<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation" style="background-color: #ffffff; border-bottom: 1px solid #dadada; height: 60px; padding-top: 0px">
-  <div class="container">
-    <div style="margin-left: -20px; margin-top: -15px;">
-      <!--<div style="float: right; margin-top: 25px; width: 155px; text-align: center; background-color: #eeeeee; font-size:11px;"><strong>Club EWI Members:</strong><br>
-        <a href="http://www.elliottwave.com/club/protected/pdf/1206-Moving-Avgs-Excerpt-Generic.pdf">Log
-        In To Access</a></div>-->
-      <!-- You'll want to use a responsive image option so this logo looks good on devices - I recommend using something like retina.js (do a quick Google search for it and you'll find it) -->
-      <div class="navbar-brand"><a href="http://www.elliottwave.com"><img src="https://store.elliottwave.com/images/0000-ew-logo_sm.png" border="0" class="logo"></a></div>
-    </div>
-  </div>
-  <!-- /.container -->
-</nav>
-<!-- Page Content -->
-<div class="container">
-  <div class="row">
-    <div class="col-lg-12">
-      <h1 class="page-header">Privacy Statement <span style="color: #009933;"><em>Highlights</em></span></h1>
-      <p> Elliott Wave International (EWI) wants to provide you with a rewarding,
-        informative and exciting visit to sites in the Elliott Wave Network (ElliottWave.com,
-        Deflation.com and eWaves.com) as well as safeguard your privacy online.
-        This page provides key points from <a href="http://www.elliottwave.com/info/privacy-policy-full.html">EWI's
-        full privacy statement</a> about the information we collect on the above
-        referenced domains in the Elliott Wave Network and how we use it.</p>
-    </div>
-  </div>
-</div>
-<div class="container">
-  <!-- Service Paragraphs -->
-  <div class="row">
-    <div class="col-md-6" style="padding: 15px; border-right: 1px #eeeeee solid; border-bottom: 1px #eeeeee solid;">
-      <p><strong>PERSONALLY IDENTIFIABLE INFORMATION</strong></p>
-      <p class="hilites">» We may request your name, postal address,
-        email address, phone number, interests or preferences, IP address, etc.
-        If you purchase something, we will also collect your payment information.</p>
-      <p class="hilites">» We use cookies and other technologies to
-        keep track of your interactions with our sites and email messages to
-        provide a personalized experience.</p>
-      <p align="right"> <a href="http://www.elliottwave.com/info/privacy-policy-full.html#data"><em> More
-          Information </em></a> </p>
-    </div>
-    <div class="col-md-6" style="padding: 15px;">
-      <p><strong>YOUR CHOICES</strong></p>
-      <p class="hilites">» You may opt-out of emails from us by following
-        the instructions included in each email newsletter or communication or
-        by emailing us at customercare@elliottwave.com.</p>
-      <p class="hilites">» We offer an opportunity to opt-out of certain
-        communications under My Account, or you may contact us by phone, mail,
-        or email (<a href="http://www.elliottwave.com/info/customer-service.aspx">Contact
-        Information</a>).</p>
-      <p align="right"><a href="http://www.elliottwave.com/info/privacy-policy-full.html#email"><em>More
-          Information</em></a></p>
-    </div>
-  </div>
-</div>
-<!-- /.container -->
-<div class="container">
-  <!-- Service Paragraphs -->
-  <div class="row">
-    <div class="col-md-6" style="padding: 15px; border-top: 1px #eeeeee solid;">
-      <p><strong>USE OF INFORMATION</strong></p>
-      <p class="hilites">» We use the information we collect to provide
-        the services you request. Our services may include the display of personalized
-        content and advertising.</p>
-      <p class="hilites">» We value you as a customer of EWI and likewise
-        we value your privacy. The information we collect is kept strictly confidential
-        and will not be given, sold, or shared with outside companies who are
-        not service providers or as described in our full privacy statement.</p>
-      <p align="right"> <a href="http://www.elliottwave.com/info/privacy-policy-full.html#use"><em> More
-          Information</em></a> </p>
-    </div>
-    <div class="col-md-6" style="padding: 15px; border-top: 1px #eeeeee solid; border-left: 1px #eeeeee solid;">
-     
-    </div>
-  </div>
-</div>
-<!-- /.container -->
-<div class="container">
-  <div class="row">
-    <div class="col-lg-12">
-	<p>&nbsp;</p>
-      <p align="center">To learn more, please <a href="http://www.elliottwave.com/info/privacy-policy-full.html">read
-          EWI's full Privacy Statement. </a></p>
-    </div>
-  </div>
-</div>
-<!-- /.container -->
+<body class="show-sub-menu" onunload="">
+    <input name="__RequestVerificationToken" type="hidden" value="QEWylQw_rJObQL8nNVms98raUueMmSK3cCDYHRrE-90ED8m-GmlOl5QZX9Cvyq-IKIVf2xsH_Us24b8O4aZLoAJZREE1">
 
+    <div class="wrapper">   <!-- wrapper starts -->
+        <!-- Header Starts -->
+<script type="text/javascript">
+      //$.noConflict();
+      (function($) {
+          $(document).ready(function() {
+
+              if ($(window).width() < 599) {  
+		
+                  $('.analist ul li a').bind('click',function(event){
+                      var $anchor = $(this);
+			
+                      $('html, body').stop().animate({
+                          scrollTop: $($anchor.attr('href')).offset().top
+                      }, 1800,'easeInOutExpo');
+			
+                      event.preventDefault();
+                  });
+              }
+		
+              else {
+                  $('.analist ul li a').click(function(e) {
+                      event.preventDefault();
+                  });
+              };
+              
+
+              $(function() {
+                  $("select").msDropdown();
+              });
+              $(".panel-title a").click(function() {
+                  $(this).addClass('active');
+                  $(this).siblings().removeClass('active');
+              });
+              
+              //$('.menu').click(function() {
+              //    if ($("nav ul").css("left") == "0px") {
+              //        $("nav ul").animate({ left: "-250px" }, 1000);
+              //    } else {
+
+              //        $("nav ul").animate({ left: "0px" }, 1000);
+              //    }
+              //    return false;
+              //});
+
+              $(".header-list ul li a").click(function() {
+
+                  $(this).parent().siblings().removeClass('active');
+                  $(this).parent().addClass('active');
+              });
+
+
+              //bx slider
+              $('.bxslider').bxSlider({
+                  infiniteLoop: true,
+                  controls: false,
+                  pagerCustom: '#bx-pager',
+                  adaptiveHeight: false,
+                  auto: true
+              });
+
+
+              if ($(window).width() < 767) {
+                  $('#menu1-inn').click(function() {
+                      $('#menu1').slideToggle();
+                  });
+                  $('#menu2-inn').click(function() {
+                      $('#menu2').slideToggle();
+                  });
+                  $('#menu3-inn').click(function() {
+                      $('#menu3').slideToggle();
+                  });
+                  $('#menu4-inn').click(function() {
+                      $('#menu4').slideToggle();
+                  });
+              }
+
+              //Share
+              //$('.share-main').click(function() {
+              //    if ($(".share").css("right") == "-320px") {
+              //        $(".share").animate({ right: "0px" }, 1000);
+              //        $(".searh-box").animate({ right: "-320px" }, 1000);
+              //        $(".nav-content").animate({ right: "-320px" }, 1000);
+              //    } else {
+              //        $(".share").animate({ right: "-320px" }, 1000);
+              //    }
+              //    return false;
+              //});
+
+              //Search	
+              //$('.search-main').click(function(){ 
+              //    var alpha = "-"+$(window).width()+"px";
+              //    var beta  = $(".searh-box").css('right');
+
+              //    if($(".searh-box").css("right") == "-320px" && $(window).width()>=583)
+              //    {
+              //        $(".searh-box").animate({right: "0px"}, 1000);
+              //        $(".share").animate({right: "-320px"}, 1000);
+              //        $(".nav-content").animate({right: "-320px"}, 1000);
+              //    }
+              //    else if(alpha == beta && $(window).width()<=582)
+              //    {
+              //        $(".searh-box").animate({right: "0px"}, 1000);
+              //        $(".share").animate({right: "-100%"}, 1000);
+              //        $(".nav-content").animate({right: "-100%"}, 1000);
+              //    }
+              //    else if($(".searh-box").css("right") == "0px" && $(window).width()<=582)
+              //    {
+              //        $(".searh-box").animate({right: "-100%"}, 1000);
+              //    }
+              //    else
+              //    {
+              //        $(".searh-box").animate({right: "-320px"}, 1000);
+              //    }
+
+
+              //});	
+              //$('.search-main').click(function() {
+              //    if ($(".searh-box").css("right") == "-320") {
+              //        $(".searh-box").css("visiblity") == "visible";
+              //        $(".searh-box").animate({ right: "0px" }, 1000);
+              //        $(".share").animate({ right: "-320px" }, 1000);
+              //        $(".nav-content").animate({ right: "-320px" }, 1000);
+              //    } else {
+              //        $(".searh-box").css("visiblity") == "hidden";
+              //        $(".searh-box").animate({ right: "-320px" }, 1000);
+              //    }
+              //    return false;
+              //});
+
+              //Navigation			
+              //$('.menu-main').click(function(){ 
+              //    var alpha = "-"+$(window).width()+"px";
+              //    var beta  = $(".nav-content").css('right');
+
+              //    if($(".nav-content").css("right") == "-320px" && $(window).width()>=583)
+              //    {
+              //        //alert("1: alpha [" + alpha + "] | beta [" + beta + "]");
+              //        $(".nav-content").animate({right: "0px"}, 1000);
+              //        $(".searh-box").animate({right: "-320px"}, 1000);
+              //        //$(".share").animate({right: "-320px"}, 1000);
+                      
+              //    }
+              //    else if(alpha == beta && $(window).width()<=582)
+              //    {
+              //        //alert("2: alpha [" + alpha + "] | beta [" + beta + "]");
+              //        $(".nav-content").animate({right: "0px"}, 1000);
+              //        $(".searh-box").animate({right: "-100%"}, 1000);
+              //        //$(".share").animate({right: "-100%"}, 1000);
+                      
+              //    }
+              //    else if($(".nav-content").css("right") == "0px" && $(window).width()<=582)
+              //    {
+              //        //alert("3: alpha [" + alpha + "] | beta [" + beta + "] | left [" + $(".nav-content").css("left") + "]");
+              //        $(".nav-content").animate({right: "-100%"}, 1000);
+                      
+              //    }
+              //    else
+              //    {
+              //        //alert("4: alpha [" + alpha + "] | beta [" + beta + "] | left [" + $(".nav-content").css("left") + "]");
+              //        $(".nav-content").animate({right: "0px"}, 1000);
+              //        $(".searh-box").animate({right: "-100%"}, 1000);
+
+              //        //$(".nav-content").css({right: "-320px"});
+              //        //$(".nav-content").animate({right: "-320px"}, 1000);
+              //        //var r = $(".nav-content").css("right").value;
+              //    }
+              //});
+
+              // on load, set navigation off
+              //$(document).ready(function() {
+              //    if($(".nav-content").css("right") == "0px" && $(window).width()<=582)
+              //    {
+              //        //$(".nav-content").animate({right: "-100%"}, 1000);
+              //        $(".nav-content").css({right: "-100%"});
+              //    }
+              //    else
+              //    {
+              //        //$(".nav-content").animate({right: "-320px"}, 1000);
+              //        $(".nav-content").css({right: "320px"});
+              //    }
+              //});
+		
+              //$('.menu-main').click(function() {
+              //    if ($(".nav-content").css("right") == "-320px") {
+              //        $(".nav-content").animate({ right: "0px" }, 1000);
+              //        $(".share").animate({ right: "-320px" }, 1000);
+              //        $(".searh-box").animate({ right: "-320px" }, 1000);
+              //    } else {
+              //        $(".nav-content").animate({ right: "-320px" }, 1000);
+              //    }
+              //    return false;
+              //});
+
+	        $(document).ready(function(e) {
+	            $('.menu-main').click(function(e) {
+	                $('.nav-content').toggleClass('m_nav');
+	                $('.searh-box').removeClass('s_box');
+	                //$('.share').removeClass('share_m');
+	            });
+		
+	            $('.search-main').click(function(e) {
+	                $('.searh-box').toggleClass('s_box');
+	                $('.nav-content').removeClass('m_nav');
+	                //$('.share').removeClass('share_m');
+	            });
+		
+	            $('.share-main').click(function(e) {
+	                //$('.share').toggleClass('share_m');
+	                $('.searh-box').removeClass('s_box');
+	                $('.nav-content').removeClass('m_nav');
+	            });
+	        });
+
+
+              // added for FAQ section
+            $("#collapsible,.collapsible").click(handleClick);
+            });
+    })(jQuery);
+
+    // added for FAQ section
+    function handleClick()
+    {
+        this.value = (this.value == '+ More' ? '- Less' : '+ More');
+    }
+
+</script>
+<!-- END: SCRIPTS -->
+<!--[if lt IE 9]>
+<script type="text/javascript">
+  document.createElement("header");
+  document.createElement("nav");
+  document.createElement("section");
+  document.createElement("article");
+  document.createElement("aside");
+  document.createElement("footer");
+</script>
+<![endif]-->
+<!--[if lt IE 9]><script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script><![endif]-->
+<!--[if lt IE 9]><style type="text/css"> .main_block2_top ul li{margin-right:33px;} .main_block4_top ul li{margin-right:21px;} .main_block1 p{font-size:47px;} .searh-box{float:right !important;} .main_block5_lft input{width:180px;}</style><![endif]-->
+
+<!-- Header Starts -->
+<header class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+  <div class="container">
+    <div class="row">
+      <div class="header-in">
+
+        <div class="header-in-left col-lg-5 col-md-5 col-sm-8 col-xs-8">
+          <!-- Logo Starts -->
+          <div id="logo">
+
+        <a href="/">
+            <img src="/-/media/ewi/0000-ew-logo.ashx?h=56&amp;w=297" alt="Elliott Wave International">
+        </a>
+
+
+
+</div>
+          <!-- Logo ends -->
+        </div>
+
+        <div class="header-list">
+          <ul>
+            
+            <li>
+              <a class="search-main">
+                <img src="-/media/ewi/img/search-img.ashx" width="25" height="25" alt="img">
+                <small>Search</small>
+                <span class="clear"></span>
+              </a>
+            </li>
+            <li>
+              <a class="menu-main">
+                  <img src="-/media/ewi/img/menu.ashx" width="25" height="25" alt="img">
+                <small>Menu</small>
+                <span class="clear"></span>
+              </a>
+            </li>
+          </ul>
+          <div class="clear"></div>
+        </div>
+
+        <!-- Social-block Starts -->
+        <div class="header-in-right-bttm col-lg-7 col-md-7 col-sm-4 col-xs-4">
+    <div class="searh-box pull-right">
+        <input type="text" id="searchbox" class="textfield" name="fname" placeholder="Enter search term">
+        <input type="button" id="searchButton" class="searh" value="">
+        <div class="clear"></div>
+    </div>
+
+
+<script>
+    //$.noConflict();
+    (function($) {
+        $(document).ready(function() {
+            //var count = 10;
+            //var labels, mapped;
+            //$('#searchbox').typeahead({
+            //    source: function (query, process) {
+            //        $.get('/api/search/starts', { s: query, top: count - 1 }, function (data) {
+            //            labels = [];
+            //            mapped = {};
+            //            $.each(data, function (index, value) {
+            //                mapped[value.Name] = value.Url;
+            //                labels.push(value.Name);
+            //            });
+            //            process(labels);
+            //        }, 'json');
+            //    },
+            //    highlighter: function (item) {
+            //        var regex = new RegExp('(' + this.query + ')', 'gi');
+            //        return item.replace(regex, "<strong>$1</strong>");
+            //    },
+            //    updater: function (queryLabel) {
+            //        if (queryLabel == "#") {
+            //            return;
+            //        }
+            //        window.location.replace(mapped[queryLabel]);
+            //    },
+            //    matcher: function (item) {
+            //        if (item.toLowerCase().indexOf("query returned") != -1) {
+            //            return true;
+            //        }
+            //        if (item.toLowerCase().indexOf(this.query.trim().toLowerCase()) != -1) {
+            //            return true;
+            //        }
+            //    },
+            //    minLength: 3,
+            //    items: count
+            //});
+
+            $("#searchButton").click(function(event) {
+                if ($("#searchbox").val()) {
+                    // TODO: Use SearchViewModel and dynamically assign URL to the search page?
+                    window.location.replace("/search?q=" + $("#searchbox").val());
+                }
+                return false;
+            });
+
+            $("#searchbox").keyup(function(event) {
+                if (event.keyCode == 13) {
+                    $("#searchButton").click();
+                }
+            });
+
+            //$('#searchbox').focus();
+
+        });
+    })(jQuery);
+</script>
+          <div class="clear"></div>
+        </div>
+        <!-- Social-block ends -->
+        <div class="clear"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="nav-content">
+    <div class="header-top-main">
+      <div class="container">
+        <div class="row">
+          <!-- header top start -->
+          <div class="header-top">
+<div class="header-left">
+        <ul>
+                    <li>
+                        
+                    </li>
+                    <li>
+                        <a href="http://my.elliottwave.com">MyEWI      </a>
+                    </li>
+        </ul>
+    <div class="clear"></div>
+</div>
+
+
+<script src="/assets/js/sitemap/jquery.cookie.js"></script>
+
+<script>
+
+    var $j = jQuery.noConflict();
+
+    function Logout() {
+
+        $j.ajax({
+            url: '/ewiapi/Logout/Logout',
+            method: 'POST',
+            success: function () {
+                
+                window.location.reload();
+            }, error: function () {
+                
+            }
+        });
+    }
+
+    function ShowLogin() {
+
+        // similar behavior as clicking on a link
+        var p = "{ABA682A9-76B4-4872-BAF3-9A4A9C8EA064}";
+        window.location.href = "/login?p=" + p;
+    }
+</script>
+
+
+
+<div class="header-in-right-top pull-right">
+    <ul>
+                    <li></li>
+                    <li><a href="http://www.elliottwave.com/About/Customer-Care">Customer Care</a></li>
+                    <li><a href="http://www.elliottwave.com/edit_profile/main.aspx">My Account</a></li>
+                        <li>
+                            <a href="javascript:ShowLogin()">Log In</a>
+                        </li>
+                    <li></li>
+                    <li>
+                        <img src="-/media/ewi/Img/cart-img.ashx">&nbsp;<a href="/Cart/Cart-Listing">Cart</a>
+                    </li>
+    </ul>
+    
+    <div class="clear"></div>
+</div>
+            <div class="clear"></div>
+          </div>
+          <!-- header top end -->
+        </div>
+      </div>
+    </div>
+
+    <!-- nav Starts -->
+    
+
+<div class="nav-main col-lg-12 col-md-12 col-sm-12 col-xs-12" style="border-bottom: solid 1px #dadada;">
+    <div class="container">
+        <div class="row">
+            <nav class="col-lg-9 col-md-11 col-sm-12 col-xs-12" style="margin: 0px;">
+                <ul class="togg">
+                                    <li>
+<a href="/">Home</a>                                    </li>
+                                    <li id="menu1-inn">
+<a href="http://www.elliottwave.com/Subscribers">Subscription Services</a>
+                                        <!-- Submenu -->
+                                        <div class="nav_sub" id="menu1" style="">
+                                            <div class="nav_sub_lft">
+                                                <div class="nav_sub_lft_bot">
+
+                                                                <h6>For Investors</h6>
+<ul>                                                                <li>
+                                                                    <a href="http://www.elliottwave.com/Investor-Research/Financial-Forecast-Service" title="US Markets">US Markets</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="http://www.elliottwave.com/Investor-Research/Asian-Pacific-Financial-Forecast-Service" title="Asian Markets">Asian Markets</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="http://www.elliottwave.com/Investor-Research/European-Financial-Forecast-Service" title="European Markets">European Markets</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="http://www.elliottwave.com/Investor-Research/Global-Forecast-Service">World Markets</a>
+                                                                </li>
+</ul>                                                                <h6>For Pros and Active Traders</h6>
+<ul>                                                                <li>
+                                                                    <a href="http://www.elliottwave.com/Trader-Analysis/Pro-Services" target="_parent">Intensive Coverage</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="http://www.elliottwave.com/Trader-Analysis/Flash">Opportunity Alerts</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="http://www.elliottwave.com/Trader-Analysis/Commodity-Junctures" title="Commodities">Commodities</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="http://www.elliottwave.com/Trader-Analysis/Traders-Classroom">Learn to Trade EWs</a>
+                                                                </li>
+</ul>                                                </div>
+                                            </div>
+                                            <div class="nav_sub_rgt">
+                                               
+            <h6>Most Popular</h6>
+            <h3>Financial Forecast Service</h3>
+                <div>
+                    <img src="/-/media/services/ffs/ps-ffs.ashx?h=560&amp;w=800" class="img-responsive" alt="Financial Forecast Service | Financial Forecast, Elliott Wave Theorist, Short Term Update">
+                </div>
+            <div><p>Our flagship service. Forecasts for the U.S. Markets and Economy, featuring analysis from Steve Hochberg, Pete Kendall and Robert Prechter.</p></div>
+            <div style="clear: both;"></div>
+            <span align="center"><!--/en/Investor-Research/Financial-Forecast-Service-->                <div style="text-align: center;">
+                    <a href="/en/Investor-Research/Financial-Forecast-Service" class="btn-link">Learn More</a>
+
+                    
+                </div>
+</span>
+
+                                            </div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </li>
+                                    <li id="menu2-inn">
+<a href="http://www.elliottwave.com/Education">Educational Products</a>
+                                        <!-- Submenu -->
+                                        <div class="nav_sub" id="menu2" style="">
+                                            <div class="nav_sub_lft">
+                                                <div class="nav_sub_lft_bot">
+
+<ul>                                                                <li>
+                                                                    <a href="http://www.elliottwave.com/Books" title="Books">Books</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/On-Demand-Courses" title="On-Demand Courses">On-Demand Courses</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="http://www.elliottwave.com/Videos" title="Streaming Videos">Videos</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="/Live-Classes-Events">Live Classes and Events</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="http://www.elliottwave.com/CEWA/Certified-Elliott-Wave-Analyst">Certification</a>
+                                                                </li>
+                                                                <li>
+                                                                    
+                                                                </li>
+</ul>                                                </div>
+                                            </div>
+                                            <div class="nav_sub_rgt">
+                                               
+            <h6></h6>
+            <h3>How to Spot Trading Opportunities</h3>
+                <div>
+                    <img src="/-/media/topics/investing/ai-20150602-lookingforward.ashx?h=370&amp;w=800" class="img-responsive">
+                </div>
+            <div><p>Learn how to spot high-confidence trade setups in the markets you follow using Elliott wave analysis and supporting technical tools.</p></div>
+            <div style="clear: both;"></div>
+            <span align="center"><!--http://beta.elliottwave.com/On-Demand-Course/How-to-Spot-Trading-Opportunities-->                <div style="text-align: center;">
+                    <a href="http://beta.elliottwave.com/On-Demand-Course/How-to-Spot-Trading-Opportunities" class="btn-link">Learn more</a>
+
+                    
+                </div>
+</span>
+
+                                            </div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </li>
+                                    <li id="menu3-inn">
+                                            <a class="no-link">Learn About</a>
+
+                                        <!-- Submenu -->
+                                        <div class="nav_sub" id="menu3" style="width: 208px;">
+                                            <div class="nav_sub_lft">
+                                                <div class="nav_sub_lft_bot">
+
+<ul>                                                                <li>
+                                                                    <a href="http://www.elliottwave.com/Investing">Investing</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="http://www.elliottwave.com/Economy">Economy</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="http://www.elliottwave.com/Trading">Trading</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="http://www.elliottwave.com/Social-Mood">Social Mood</a>
+                                                                </li>
+</ul>                                                                <h6>Specific Markets</h6>
+<ul>                                                                <li>
+                                                                    <a href="http://www.elliottwave.com/US-Markets">US Markets</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="http://www.elliottwave.com/Asian-Markets">Asian Markets</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="http://www.elliottwave.com/European-Markets">European Markets</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="http://www.elliottwave.com/Currencies">Currencies</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="http://www.elliottwave.com/Stocks">Stocks</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="http://www.elliottwave.com/Interest-Rates">Interest Rates</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="http://www.elliottwave.com/Metals">Metals</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="http://www.elliottwave.com/Commodities">Commodities</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="http://www.elliottwave.com/Energy">Energy</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="http://www.elliottwave.com/ETFs">ETFs</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a href="http://www.elliottwave.com/Futures">Futures</a>
+                                                                </li>
+</ul>                                                </div>
+                                            </div>
+                                            <div class="nav_sub_rgt">
+                                               
+                                            </div>
+                                            <div class="clear"></div>
+                                        </div>
+                                    </li>
+                                    <li>
+<a href="http://www.elliottwave.com/About/About-Us">About Us</a>                                    </li>
+
+                </ul>
+                <ul class="nav navbar-right">
+                    <li><a href="http://my.elliottwave.com">MyEWI</a></li>
+                </ul>
+                <div class="clear"></div>
+            </nav>
+        </div>
+    </div>
+</div>
+    <!-- nav ends -->
+  </div>
+
+</header>
+<!-- Header ends -->
+        <!-- Header ends -->
+        <!-- Carousel Starts -->
+                    <div class="row  hero" style="background-image: url('/-/media/topics/investing/th-20150514-gears.ashx'); background-position: center; background-size: cover;">
+                <div class="container jumbotron-header">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                        <h1 class="section-header white">
+                            Privacy Statement
+                        </h1>
+                        <h3 class="section-sub-header white"></h3>
+                    </div>
+
+                </div>
+
+            </div>
+        <script>
+            jQuery(document).ready(function () {
+
+                // attach the background image overlay
+                var abio = false;
+                if (abio == true) {
+                    jQuery(".hero").css("background-image", "linear-gradient(rgba(0, 40, 75, 0.6), rgba(0, 40, 75, 0.6)), url(/-/media/topics/investing/th-20150514-gears.ashx)").addClass(" resp-bgcar; background-position: center; background-size: cover;");
+                }
+                else {
+                    jQuery(".hero").css('background-image', 'url(/-/media/topics/investing/th-20150514-gears.ashx)' ).addClass(' resp-bgcar; background-position: center; background-size: cover;');
+                }
+            });
+        </script>
+
+
+        <!-- Carousel ends -->
+        <!-- maincontent Starts -->
+        <div class="row">
+    
+</div>
+<div class="row">
+    
+</div>
+<div class="row">
+    
+</div>
+<div class="row">
+  
+    <div class="row">
+        <div class="" style="">       
+            <div>
+                
+    <div class="row ">
+        <div class="container section" style="">
+            
+<p>Elliott Wave International (EWI) wants to provide you with a rewarding,
+informative and exciting visit to sites in the Elliott Wave Network as
+well as safeguard your privacy online. This privacy statement covers
+the websites of ElliottWave.com, Deflation.com and eWaves.com and is
+effective as of 7/24/2015. </p>
+
+
+<p class="label-primary" style="padding: 10px; color: #fff;"><strong><u><a name="data"></a>DATA COLLECTION
+            POLICY</u></strong></p>
+      <p><u><strong>Collection of Information</strong></u></p>
+      <div style="padding-left: 35px;">
+        <p><strong>Aggregate Data: </strong>You may visit web pages within the
+          Elliott Wave Network of websites referenced above without giving us
+          any personally identifiable information (PII) about yourself. We do
+          collect aggregate (non-PII) data such as browser type, connection speed,
+          previously viewed products on our site, click paths, etc. about users
+          using cookies (See the "Tracking Cookies" section below).
+          Any data we obtain automatically using these tracking technologies
+          is used to enhance the website experience such as exposing visitors
+          to other relevant services that we feel could be complementary. We
+          also use this data for analytic trend studies. You will be notified
+          when your personally identifiable information is collected by any third
+          party that is not our agent/service provider, so you can make an informed
+          choice as to whether or not to share your information with that party.
+          We do not link aggregate user data with personally identifiable information.</p>
+        <p><strong>Personally Identifiable Information: </strong>In order to
+          deliver services you've requested and personalize your experience with
+          the Elliott Wave Network of websites referenced above further, we may
+          ask for you to give personally identifiable information (PII ) such
+          as your name, postal address, email address, phone number, interests
+          or preferences, IP address, credit card number, etc. We are committed
+          to protecting all of the personally identifiable information that we
+          collect and thus this information is kept strictly confidential and
+          is not distributed to third parties who are not service providers or
+          as described in this privacy statement without your consent.</p>
+        <p>We store the information that we collect through cookies and clear
+          gif images to create a "profile" of your preferences. We
+          then tie your personally identifiable information (such as your name,
+          email address, and interests or preferences), and your purchasing history,
+          to information in your customer profile, in order to provide tailored
+          promotions and marketing offers and to enhance your website experience. </p>
+        <p>We may request personally identifiable information when you:</p>
+        <ul>
+          <li>Sign up for one of our free content programs such as Club EWI,
+            Free Email Newsletters, or our Affiliate Program</li>
+          <li>Purchase something through our online store or friendly customer
+            service representatives</li>
+          <li>Participate in a survey, whether through an email or on any of
+            the Elliott Wave Network of websites referenced above </li>
+          <li>Access password-protected resources hosted on any of the Elliott
+            Wave Network of websites referenced above</li>
+          <li>Open an email or click a link within our email communications</li>
+        </ul>
+        <p><strong>Testimonials:</strong> Likewise, if you choose to submit a
+          testimonial on the Elliott Wave Network of websites referenced above
+          (Members and Affiliates areas), we will ask for your permission to
+          share it with our other customers. You also have the option to post
+          anonymous testimonials. You may also request that a testimonial be
+          removed from the Elliott Wave Network of websites referenced above
+          by <a href="#contact">contacting EWI Customer Care</a>.</p>
+      </div>
+      <p><strong><u> Our Promise to You</u></strong></p>
+      <div style="padding-left: 35px;">
+        <p>We value you as a customer of EWI and likewise we value your privacy.
+          The information we collect is kept strictly confidential and will not
+          be given, sold, or shared with outside companies who are not service
+          providers or as described in this privacy statement. </p>
+        <p>EWI does not distribute unsolicited bulk advertising via email (spam).
+          You may opt-out of any of our various email lists, such as our Free
+          Email Newsletters, Club EWI, Subscriber Updates, etc. by simply following
+          the instructions included in each email communication, by visiting
+          the My Account section of ElliottWave.com, or by <a href="#contact">contacting
+          EWI Customer Care. </a></p>
+        <p>In order to comply with the Federal CAN-SPAM Act of 2003, we may provide
+          a list of email addresses of customers who have opted-out of EWI's
+          email lists to other companies that send email on our behalf (Email
+          Service Providers). This suppression list is used solely for the purpose
+          of preventing an unsubscribed EWI customer from receiving EWI-related
+          emails from another company. We require all companies that send to
+          their email lists on our behalf to sign an agreement prohibiting the
+          suppression list from being used for any other purpose than not sending
+          you our email. We conform to all state and federal laws regarding this
+          issue. </p>
+      </div>
+      <p> <u><strong><a name="use"></a>Use of Collected Information</strong></u></p>
+      <div style="padding-left: 35px;">
+        <p>Any of the information we collect from you whether PII or aggregate
+          may be used in any or all of the following ways: </p>
+        <ul>
+          <li> To supply you with the resource(s), service(s), product(s), or
+            subscription(s) you've requested/ordered</li>
+          <li>To personalize your experience both on the Elliott Wave Network
+            of websites referenced above and in our email to better respond to
+            your individual interests and preferences </li>
+          <li> To improve the Elliott Wave Network of websites' offerings based
+            on the information and feedback we receive from you </li>
+          <li> To more effectively respond to your customer service requests
+            and support needs </li>
+          <li> To send periodic emails
+            <ul>
+              <li>The email address you provide for order processing or sign
+                up will be used to send you information and updates pertaining
+                to your order, in addition to receiving occasional company news,
+                updates, related product or service information that we feel
+                may be of interest to you. </li>
+            </ul>
+          </li>
+        </ul>
+        <p>We may also disclose your personally identifiable information: </p>
+        <ul>
+          <li>As required by law, such as to comply with a subpoena, or similar
+            legal process </li>
+          <li>When we believe in good faith that disclosure is necessary to protect
+            our rights, protect your safety or the safety of others, investigate
+            fraud, or respond to a government request </li>
+          <li>To third party service providers to help us with our business activities
+            such as shipping your order or offering customer service. These companies
+            are authorized to use your personally identifiable information <em>only
+            as necessary </em>to provide such services</li>
+          <li>If EWI is involved in a merger, acquisition, or sale of all or
+            a portion of its assets, you will be notified via email and/or a
+            prominent notice on our website of any change in ownership or uses
+            of your personally identifiable information, as well as any choices
+            you may have regarding your personally identifiable information</li>
+        </ul>
+      </div>
+      <p><strong><u>Tracking Cookies</u></strong></p>
+      <div style="padding-left: 35px;">
+        <p>A cookie is a small text file that is stored on a user's computer
+          for record-keeping purposes. We use both session ID cookies and persistent
+          cookies on the Elliott Wave Network of websites referenced above. We
+          do link the information we store in cookies to personally identifiable
+          information. </p>
+        <p>We use session cookies, which expire when you close your browser,
+          to make it easier for you to navigate our site. We use persistent cookies
+          to track and target your interests to enhance your experience on the
+          Elliott Wave Network of websites referenced above as well as give credit
+          to our affiliate sites for orders placed through the Elliott Wave Network
+          of websites referenced above. A persistent cookie remains on your hard
+          drive for an extended period of time but you can remove them by clearing
+          your browser's history/temporary internet files. </p>
+        <p>If you reject cookies, you may still use the Elliott Wave Network
+          of websites referenced above, but your ability to use some areas of
+          our sites, such as contests or surveys, will be limited. </p>
+        <p>Some of our business partners (e.g., tracking utility companies, video
+          delivery services) use cookies (clear gif images a.k.a. Web Beacons)
+          on our sites. We have no access to or control over these cookies nor
+          do we tie the information gathered to your personally identifiable
+          information. To change your video cookie preferences, please follow
+          this <a href="http://www.adobe.com/support/documentation/en/flashplayer/help/settings_manager07.html">link</a>.</p>
+        <p>This privacy statement covers the use of cookies by the Elliott Wave
+          Network of websites referenced above only and does not cover the use
+          of cookies by any other third parties. </p>
+      </div>
+      <p><u><strong>Behavioral Targeting / Re-targeting </strong></u></p>
+      <div style="padding-left: 35px;">
+        <p>We partner with a third party ad network to either display advertising
+          on our Web site or to manage our advertising on other sites. Our ad
+          network partner uses cookies and Web beacons to collect non-personally
+          identifiable information about your activities on this and other Web
+          sites to provide you targeted advertising based upon your interests.
+          If you wish to not have this information used for the purpose of serving
+          you targeted ads, you may <a href="http://preferences-mgr.truste.com/">opt-out</a>.
+          Please note this does not opt you out of being served advertising.
+          You will continue to receive generic ads. </p>
+      </div>
+      <p><strong><u>Links to Other Sites</u></strong></p>
+      <div style="padding-left: 35px;">
+        <p>The Elliott Wave Network of websites referenced above contains links
+          to other sites that are not owned or controlled by Elliott Wave International.
+          Please be aware that we, Elliott Wave International, are not responsible
+          for the privacy practices of such other sites. </p>
+        <p>We encourage you to be aware when you leave one of our sites and to
+          read the privacy statements of each and every website that collects
+          personally identifiable information. </p>
+        <p>This privacy statement applies only to information collected by Elliott
+          Wave International through the Elliott Wave Network of websites referenced
+          above and email communications. </p>
+      </div>
+      <p><u><strong>Social Media Widgets </strong></u></p>
+      <div style="padding-left: 35px;">
+        <p>The Elliott Wave Network of websites include Social Media Features,
+          such as Facebook widgets, Twitter widgets or interactive mini-programs,
+          that run on our sites. These Features may collect your IP address,
+          which page you are visiting on our site, and may set a cookie to enable
+          the Feature to function properly. Social Media Features and Widgets
+          are either hosted by a third party or hosted directly on our Site.
+          Your interactions with these Features are governed by the privacy policy
+          of the company providing the feature. </p>
+      </div>
+      <p><strong><u>Email to a Friend</u> </strong></p>
+      <div style="padding-left: 35px;">
+        <p>The Elliott Wave Network of webisites includes a "Email to a
+          Friend" Feature. This Feature is hosted by a third party and is
+          governed by the privacy policy of the company providing it. A link
+          to their privacy policy is provided on the feature. </p>
+      </div>
+      <p><strong><u>Access to Personally Identifiable Information</u></strong></p>
+      <div style="padding-left: 35px;">
+        <p>If your personally identifiable information changes, or if you no
+          longer desire our services, you may correct, update, delete or deactivate
+          your account by emailing, calling or writing our customer service department
+          at the <a href="#contact">contact information listed below</a>. You
+          may also access some of your information to correct, delete, or update
+          it by going to the My Account section of ElliottWave.com. We will retain
+          your information for as long as your account is active or as needed
+          to provide you services. If you wish to cancel your account or request
+          that we no longer use your information to provide you services contact
+          us by phone, mail, or email at the <a href="#contact">contact information
+          listed below</a>. We will retain and use your information as necessary
+          to comply with our legal obligations, resolve disputes, and enforce
+          our agreements. </p>
+      </div>
+      <p><strong><u>Security</u></strong> </p>
+      <div style="padding-left: 35px;">
+        <p>The security of your personally identifiable information is important
+          to us. When you enter sensitive information (such as your credit card
+          number) on our order forms, we encrypt that information using secure
+          socket layer technology (SSL). </p>
+        <p>We follow generally accepted industry standards to protect the personally
+          identifiable information submitted to us, both during transmission
+          and once we receive it. No method of transmission over the Internet,
+          or method of electronic storage, is 100% secure, however. Therefore,
+          while we strive to use commercially acceptable means to protect your
+          personally identifiable information, we cannot guarantee its absolute
+          security. </p>
+        <p>If you have any questions about security on the Elliott Wave Network
+          of websites referenced above, you may contact us via the <a href="#contact">contact
+          information listed below</a>.</p></div>
+
+
+  <p class="label-primary" style="padding: 10px; color: #fff;"><u><strong><a name="email"></a>EMAIL COMMUNICATION
+            POLICY</strong></u></p>
+      <p><strong><u>Email Communications from the Site</u></strong></p>
+      <div style="padding-left: 35px;">
+        <p>In addition to the services mentioned above, there are numerous sections
+          of the Elliott Wave Network of websites referenced above where visitors
+          may request that content pieces and email communications be sent to
+          them via email. EWI intends that any of the notification programs (Free
+          Email Newsletters, Club EWI, Subscription Alerts, Free Trial, etc.)
+          do not result in undesired email to members. The email address you
+          provide for order processing or sign up will be used to send you information
+          and updates pertaining to your requested content, in addition to receiving
+          occasional company news, updates, related product or service information
+          that we feel may be of interest to you. </p>
+        <p>Visitors to the Elliott Wave Network of websites referenced above
+          may choose to become an EWI Affiliate. As part of our affiliate program,
+          we will inform you of new content that is available for your website.
+          You may cancel your affiliation with EWI at any time as well as opt-out
+          of these communications by following the instructions within each email
+          communication. </p>
+      </div>
+      <p> <u><strong> Choice/Opt-out</strong></u></p>
+      <div style="padding-left: 35px;">
+        <p>We provide you the opportunity to 'opt-out' of having your personally
+          identifiable information used for certain purposes, when we ask for
+          this information. </p>
+        <p>If you no longer wish to receive our email newsletter and promotional
+          communications, you may opt-out of receiving them by following the
+          instructions included in each email newsletter or communication. You
+          may also opt-out of certain communications under the My Account section
+          of ElliottWave.com, or you may contact us by phone, mail, or email
+          at the <a href="#contact">contact information listed below</a>. </p>
+        <p>You will be notified when your personally identifiable information
+          is collected by any third party that is not our agent/service provider,
+          so you can make an informed choice as to whether or not to share your
+          information with that party.</p>
+      </div>
+
+
+ <p class="label-primary" style="padding: 10px; color: #fff;"><u><strong><a name="changes"></a>FUTURE CHANGE
+            NOTICE</strong></u></p>
+      <p><strong><u>Changes in this Privacy Statement</u></strong></p>
+      <div style="padding-left: 35px;">
+        <p>If we decide to change our privacy statement, we will post those changes
+          to this privacy statement, the home pages of the Elliott Wave Network
+          of websites referenced above, and other places we deem appropriate
+          so that you are aware of what information we collect, how we use it,
+          and under what circumstances, if any, we disclose it. </p>
+        <p>We reserve the right to modify this privacy statement at any time,
+          so please review it frequently. If we make material changes to this
+          policy, we will notify you here, by email, or by means of a notice
+          on the home pages of the Elliott Wave Network of websites referenced
+          above prior to the changes becoming effective. </p>
+      </div>
+
+
+<p class="label-primary" style="padding: 10px; color: #fff;"><u><strong><a name="contact"></a>CONTACT INFORMATION</strong></u></p>
+      <div style="padding-left: 35px;">
+        <p> <u>Mailing Address</u></p>
+      </div>
+      <div style="padding-left: 55px;">
+        <p>Elliott Wave International<br>
+          P. O. BOX 1618<br>
+          Gainesville, Georgia 30503<br>
+          USA </p>
+      </div>
+      <div style="padding-left: 35px;">
+        <p><u>Phone</u></p>
+      </div>
+      <div style="padding-left: 55px;">
+        <p> 800-336-1618 or 770-536-0309</p>
+      </div>
+      <div style="padding-left: 35px;">
+        <p><u>Email</u></p>
+      </div>
+      <div style="padding-left: 55px;">
+        <p>customercare@elliottwave.com</p>
+      </div>
+
+
+        </div>
+    </div>
+
+
+            </div>         
+        </div>
+    </div>
+
+
+</div>
+<div class="row">
+  
+    <div class="row">
+        <div class="" style="">       
+            <div>
+                
+            </div>         
+        </div>
+    </div>
+
+
+</div>
+<div class="row">
+  
+    <div class="row">
+        <div class="" style="">       
+            <div>
+                
+            </div>         
+        </div>
+    </div>
+
+
+</div>
+<div class="row">
+  
+</div>
+<div class="row">
+  
+</div>
+<div class="row">
+  
+</div>
+<div class="row">
+    
+</div>
+<div class="row">
+    
+</div>
+<div class="row">
+    
+</div>
+<div class="row">
+    
+</div>
+<div class="row">
+    
+</div>
+<div class="row">
+    
+</div>
+<div class="row">
+    
+</div>
+<div class="row">
+    
+</div>
+<div class="row">
+    
+</div>
+<div class="row">
+    
+</div>
+<div class="row">
+    
+</div>
+        <!-- Mainblock5 Start -->
+    
+        <!-- footer starts -->
+
+
+
+<!-- new footer starts -->
+<div class="row blue-bg white" style="padding: 25px 0px 20px 0px;">
+    <div class="container">
+        <div class="col-lg-6 col-lg-push-6 col-md-6 col-md-push-6 col-sm-6 col-sm-push-6 col-xs-12">
+            <div class="right-footer nav-spacing-border nav-spacing copy-footer">
+<a href="http://www.elliottwave.com/About/About-Us" class="white" target="_parent">About Us</a><a href="http://www.elliottwave.com/About/Privacy-Policy" class="white" target="_parent">Privacy Policy</a><a href="http://www.elliottwave.com/About/Terms-of-Service" class="white" target="_parent">Terms of Service</a><a href="http://www.elliottwave.com/About/Customer-Care/Contact-Us" class="white">Contact Us</a>                
+            </div>
+        </div>
+        <div class="col-lg-6 col-lg-pull-6 col-md-6 col-md-pull-6 col-sm-6 col-sm-pull-6 col-xs-12">
+            <div class="copy-footer">
+                Copyright © 2016 <a href="/" class="white">Elliott Wave International</a>. All rights reserved.
+            </div>
+        </div>
+    </div>
+</div>
+<!-- new footer ends -->
+<!--EW Network start-->
+<div class="row blue-bg" style="padding: 0px 0px 20px 0px;">
+    <div class="container">
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="border-top: solid 1px #333333;">
+            <div class="small">&nbsp;</div>
+            <div class="visible-xs white small">Elliott Wave Network:</div>
+            <div class="left-footer visible-lg visible-md visible-sm"><img src="-/media/ewi/0000-ew-network.ashx" target="_blank"></div>
+            <div class="nav-spacing small" style="line-height:2em;">
+<a href="http://www.socionomics.net/" class="gold" style="white-space: nowrap;" target="_blank">Socionomics Institute</a> <a href="http://www.socialmoodconference.com/" class="gold" style="white-space: nowrap;" target="_blank">Social Mood Conference</a> <a href="http://www.robertprechter.com/" class="gold" style="white-space: nowrap;" target="_blank">Robert Prechter</a> <a href="http://www.deflation.com/" class="gold" style="white-space: nowrap;" target="_blank">Deflation</a> <a href="http://www.newclassicslibrary.com/" class="gold" style="white-space: nowrap;" target="_blank">    New Classics Library</a> 
+            </div>
+        </div>
+    </div>
+</div>
+<!--EW Network end-->
+
+        <!-- footer ends -->
+        
+    </div>  <!-- wrapper ends -->
 
 </body></html>
