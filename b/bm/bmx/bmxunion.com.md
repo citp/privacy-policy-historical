@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bmxunion.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506062422id_/http%3A//bmxunion.com/wp-content/themes/bmxunion/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmxunion.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120124923id_/http%3A//bmxunion.com/wp-content/themes/bmxunion/privacypolicy.htm) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 This Privacy Policy governs the manner in which BMX Union collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.BMXUnion.com](http://www.bmxunion.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by BMX Union.
 
@@ -60,12 +60,8 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 [http://www.BMXUnion.com](http://www.bmxunion.com/)
 
-1817 13th ave NE Rochester, Minnesota 55906
-
-5072724461
-
 KurtHohberger@Gmail.com
 
-This document was last updated on August 30, 2011
+This document was last updated on May, 2016
 
 Privacy policy created by [Generate Privacy Policy](http://www.generateprivacypolicy.com/)
