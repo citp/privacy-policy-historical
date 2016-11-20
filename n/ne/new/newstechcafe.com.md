@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newstechcafe.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409132834id_/http%3A//www.newstechcafe.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstechcafe.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120091658id_/http%3A//www.newstechcafe.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - TV Serial,Show and GK Capsule|NewsTechCafe
+# Privacy Policy | TV Serial,Show and GK Capsule|NewsTechCafe
 
 **Privacy Policy for http://www.newstechcafe.com/**
 
