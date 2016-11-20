@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aclens.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505013403id_/http%3A//www.aclens.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aclens.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120212303id_/http%3A//www.aclens.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -129,6 +129,15 @@ At this time AC Lens does not engage independent auditors or require separate ve
 
 Top
 
+## California Proposition 65
+
+Attention California Residents:
+
+Warning:   
+California's Proposition 65 Warning: Eyewear products sold on this website contain chemicals known to the State of California to cause cancer, birth defects and other reproductive harm. For additional information please reference the California Office of Environmental Health Hazard Assessment (OEHHA) website at: <http://oehha.ca.gov/prop65.html>
+
+Top
+
 ## TRUSTe Privacy Program
 
 [](https://privacy.truste.com/privacy-seal/Arlington-Contact-Lens-Service,-Inc/validation?rid=27cd68a3-14fa-4429-bf0d-44dc7f8804dc "TRUSTe online privacy certification")
@@ -146,7 +155,7 @@ Top
 
 ## Changes to This Privacy Policy
 
-Last Updated on: 2/1/2016
+Last Updated on: 5/17/2016
 
 Our Privacy Policy may change from time to time. If we decide to materially change our Privacy Policy, we will post a notice of those changes on the web site and update the "Last Updated" date at the top of this Privacy Policy. Your continued use of the web site following the posting of revised Privacy Policy means that you accept and agree to the changes. 
 
