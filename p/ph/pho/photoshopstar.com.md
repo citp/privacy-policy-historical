@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photoshopstar.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603031715id_/http%3A//www.photoshopstar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoshopstar.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120091151id_/http%3A//www.photoshopstar.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy |
 
 At PhotoshopStar.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by PhotoshopStar.com and how it is used. We never sell your personal information to third parties.
 
