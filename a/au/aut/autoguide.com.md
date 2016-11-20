@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoguide.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618221857id_/http%3A//www.autoguide.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoguide.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120021926id_/http%3A//www.autoguide.com/privacy-statement.html) for the most accurate reproduction.*
 
 # AutoGuide.com Privacy Statement
 
