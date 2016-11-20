@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ishafoundation.org privacy policy that was archived on 2015-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151109091341id_/http%3A//www.ishafoundation.org/Copyright.isa) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ishafoundation.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120123248id_/http%3A//www.ishafoundation.org/Copyright.isa) for the most accurate reproduction.*
 
 # Copyright & Privacy Policy | News
 
@@ -62,4 +62,8 @@ If you feel that this website is not following this privacy policy, you may cont
 
 Donations and Subscriptions made online will not be refunded under any circumstances whatsoever.
 
-[**FCRA Disclosure for the Fiscal Year 2013-14**](http://www.ishafoundation.org/public/docs/Isha-Foundation-FCRA-2013-14.pdf)
+[**FCRA Financials of 2014 – 15**](http://i.isha.ws/public/docs/IF-FCRA-Financials-2014-15.pdf)
+
+[**FCRA Disclosure for the Fiscal Year 2016**](http://www.ishafoundation.org/public/docs/2016/FCRA-Disclosure-for-the-Fiscal-Year-2016.pdf)
+
+[**FCRA Disclosure for the Fiscal Year January to March 2016**](http://www.ishafoundation.org/public/docs/IF_FCRA_Rcpts_Q4_2016.pdf)
