@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qyuki.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626150332id_/http%3A//www.qyuki.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qyuki.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120203253id_/http%3A//www.qyuki.com/privacy) for the most accurate reproduction.*
 
 # Qyuki - Privacy
 
