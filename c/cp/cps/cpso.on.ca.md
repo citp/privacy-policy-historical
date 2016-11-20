@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpso.on.ca privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607200841id_/http%3A//www.cpso.on.ca/Footer-Pages/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpso.on.ca privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120101933id_/http%3A//www.cpso.on.ca/Footer-Pages/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Footer Pages | College of Physicians and Surgeons of Ontario
 
@@ -58,7 +58,13 @@ Toronto, Ontario
 Canada  
 M5G 2E2
 
-December 2, 2008
+##  Communications Code of Conduct
+
+The College of Physicians and Surgeons of Ontario is committed to communicating with you in a respectful, professional and civil manner. Similarly, we expect the same courtesy from you.
+
+We understand that the circumstances or issues that you are communicating with the College about may be stressful. However, we will not accept abusive behaviour or communications towards our staff. This would include threats, vexatious or harassing comments or conduct, sexual harassment, intimidation, yelling or screaming, or obscene, racist or discriminatory statements.
+
+The College is required by law to protect staff from abusive behaviour and will not tolerate such behaviour against our staff. Repeated behaviour of this kind may result in the College communicating with you only in writing or otherwise restricting future communications with you.
 
   
 
