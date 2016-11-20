@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the releasemyad.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612055523id_/http%3A//www.releasemyad.com/privacy_poliicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the releasemyad.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120113356id_/http%3A//www.releasemyad.com/privacy_poliicy.php) for the most accurate reproduction.*
 
 # 
 
-  * [__](https://web.archive.org/web/20160612055523id_/http%3A//www.releasemyad.com/index.html)
+  * [__](https://web.archive.org/web/20161120113356id_/http%3A//www.releasemyad.com/index.html)
   * Privacy Policy
 
 
