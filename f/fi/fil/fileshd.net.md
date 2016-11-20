@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fileshd.net privacy policy that was archived on 2015-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150809185749id_/http%3A//fileshd.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileshd.net privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120022116id_/http%3A//fileshd.net/privacy.html) for the most accurate reproduction.*
 
-# FilesHD - High Definition Upload
+# FilesHD - Dosya paylaЕџД±mД±nД±n en kolay yolu
 
-### Privacy Policy 
+## Privacy Policy 
 
 **Personal identification information**  
 We may collect personally identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. 
@@ -15,7 +15,7 @@ Our Site may use 'cookies' to enhance User experience. User's web browser places
 
 **How we use collected information**
 
-FilesHD.net collects and uses Users personal information for the following purposes:  
+FilesHD collects and uses Users personal information for the following purposes:  
 \- To personalize user experience We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. - To improve our Site We continually strive to improve our website offerings based on the information and feedback we receive from you. - To improve customer service Your information helps us to more effectively respond to your customer service requests and support needs. 
 
 **How we protect your information**   
@@ -36,5 +36,5 @@ Some of the ads may be served by Google. Google's use of the DART cookie enables
 **Compliance with children's online privacy protection act**   
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. Changes to this privacy policy 
 
-FilesHD.net has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.    
+FilesHD has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.    
 Your acceptance of these terms By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
