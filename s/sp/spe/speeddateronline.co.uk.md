@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the speeddateronline.co.uk privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919025346id_/http%3A//www.speeddateronline.co.uk/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speeddateronline.co.uk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120040029id_/http%3A//www.speeddater.co.uk/sd-news/privacy%26s%3Ds) for the most accurate reproduction.*
 
-# SpeedDaterOnline Help: Privacy Statement
+# Speed Dater Help: Privacy Statement
 
 ('We') Tradax IP Licensing and NSI (Holdings) Limited are committed to protecting and respecting your privacy.  
 This policy (together with our [terms and conditions of use](https://web.archive.org/helptandc.asp?s=s) and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. By ticking the acceptance box when signing up to use our Services, and by your continued use of the Services, you agree to bound by this policy as updated from time to time.
@@ -52,15 +52,13 @@ If you want to know what data we hold on you, you have a legal right to obtain t
 To make a Subject Access Request please write to us enclosing a photocopy of a photographic ID (e.g. passport or driving licence) and utility bill (to provide proof of your address). This is to ensure we only send your data to you, or a third party that you expressly authorise in writing to deal with for you.  
 Our address for this purpose only is Legal Dept:  
 NSI (Holdings) Ltd  
-19 Bolsover St,  
-London  
-W1W 5NA  
-United Kingdom  
-
+2 Angel Square,  
+EC1V 1NY,  
+London
 
 (b) Amending/correcting the data we hold on you
 
-If you want to amend the data we hold that’s also very easy to do. We want to make sure we have everything right so please simply contact us at [datarequest@cupid.com](mailto:datarequest@acupid.com) to make any amendments to our records.
+If you want to amend the data we hold that’s also very easy to do. We want to make sure we have everything right so please simply contact us at [datarequest@cupid.com](mailto:datarequest@cupid.com) to make any amendments to our records.
 
 (c) Changing your consent and opting out
 
