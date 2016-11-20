@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upcitemdb.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624163224id_/http%3A//www.upcitemdb.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upcitemdb.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120071836id_/http%3A//www.upcitemdb.com/terms) for the most accurate reproduction.*
 
 # Term & Privacy Policy - UPCitemdb
 
@@ -14,15 +14,15 @@ Non-personal information and data may be automatically collected through the sta
 
 **Third Party Advertising**
 
-Some of the ads appearing on this Web site are delivered to users by Google, LinkShare, Commision Junction, Amazon, and other Web advertising partners. These third party advertising partners collect information about users' visits to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), and use that information to serve ads to users on this site, other websites, and other forms of media. Any tracking done by Web advertising partners through cookies and other mechanisms is subject to their own privacy policies. 
+Some of the ads appearing on this Web site are delivered to users by Google, LinkShare, Commision Junction, eBay, and other web advertising partners. These third party advertising partners collect information about users' visits to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), and use that information to serve ads to users on this site, other websites, and other forms of media. Any tracking done by Web advertising partners through cookies and other mechanisms is subject to their own privacy policies. 
 
-The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the http://www.google.com/privacy_ads.htmlGoogle ad and content network privacy policy. 
+The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 **DISCLAIMER:**
 
-CERTAIN CONTENT THAT APPEARS IN THIS SITE COMES FROM AMAZON SERVICES LLC, COMMISSION JUNCTION INC., LINKSHARE CORPORATION AND EBAY PARTNER NETWORK. THIS CONTENT IS PROVIDED 'AS IS' AND IS SUBJECT TO CHANGE OR REMOVAL AT ANY TIME.   
-UPCITEMDB.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com and myhabit.com.   
-UPCITEMDB.com uses [VigLink](http://viglink.com/?vgref=1715237) to monetize some of the links. 
+CERTAIN CONTENT THAT APPEARS IN THIS SITE COMES FROM COMMISSION JUNCTION INC., LINKSHARE CORPORATION AND EBAY PARTNER NETWORK. THIS CONTENT IS PROVIDED 'AS IS' AND IS SUBJECT TO CHANGE OR REMOVAL AT ANY TIME. 
+
+UPCITEMDB.com is a participant in the Commission Junction, Linkshare, eBay Partner Network and some other affiliate programs. When you click on links to various merchants on this site and make a purchase, this could result in this site earning a commission. 
 
 By accessing this web site, you are agreeing to be bound by these web site Terms and Conditions of Use, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this web site are protected by applicable copyright and trade mark law. 
 
