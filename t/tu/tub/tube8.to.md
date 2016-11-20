@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tube8.to privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509052154id_/http%3A//www.tube8.to/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tube8.to privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120054657id_/http%3A//www.tube8.to/privacy) for the most accurate reproduction.*
 
 # tube8.to - free porn videos
 
