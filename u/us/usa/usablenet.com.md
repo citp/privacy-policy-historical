@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usablenet.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620150458id_/http%3A//usablenet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usablenet.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120170239id_/http%3A//usablenet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Usablenet
 
@@ -58,7 +58,7 @@ Although we do our best to protect your personal information, we cannot guarante
 
 **International Transfer**
 
-If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring information and permitting the transfer of information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. and the use and disclosure of information about you, including personal information, as described in this Policy.
+If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring information and permitting the transfer of information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. and the use and disclosure of information about you, including personal information, as described in this Policy. If you would like to request modification or deletion of your personal information, please contact us via the email or mailing address listed in below this Policy.
 
 **External Links**
 
@@ -70,44 +70,4 @@ Usablenet reserves the right to change this Policy at any time, in its sole disc
 
 If at any time, you wish to update your information or would rather not receive communication from us, please let us know by contacting us at the email or mailing address listed below.
 
-If you have any comments or questions about this Policy, please e-mail [info@usablenet.com](mailto:info@usablenet.com) or contact us by mail at Usablenet Inc., 142 West 57th Street, 7th Floor, New York, NY 10019.
-
-### **_Usablenet Terms of Use_**
-
-### **Last Updated: August 2014**
-
-These terms of use (“Terms”) are a legal agreement between you and Usablenet Inc. (“Usablenet”). By accessing, browsing and/or using the Usablenet website (the “Site”) you acknowledge that you have read, understood and agree to be bound by these Terms. If you do not agree, please discontinue your use of the Site.
-
-**User Content**
-
-“User Content” is any comment, photo, website link, or any other content that you and/or other users of the Site post or otherwise make available on or through the Site. You are solely responsible for your User Content, your interactions with other users and your activity on the Site. Do not take any action or post anything that may expose Usablenet or its users to any harm or liability of any type. You represent that you own or control all rights in any User Content that you post on the Site and such User Content does not, and will not, infringe or violate anyone else’s rights, including copyright, trademark, patent, trade secret, privacy, publicity or other personal or proprietary rights.
-
-Usablenet does not prescreen, but reserves the right to edit, remove, or refuse to post any User Content. Usablenet does not guarantee the Site will be free from User Content that is inaccurate, deceptive, offensive, threatening, defamatory, unlawful or otherwise objectionable. Usablenet is not undertaking any obligation or liability relating to any User Content or activities of users on the Site. Even in the event Usablenet chooses to monitor any User Content, Usablenet assumes no responsibility for, or any obligation to monitor or remove, such User Content.
-
-**Third Party Services**
-
-The Site may utilize applications or services operated by a third party or contain links to a third party site (“Third Party Services”). Usablenet does not endorse, monitor or have any control over these Third Party Services, which have separate terms of use and privacy policies. Usablenet is not responsible for the content or policies of Third Party Services.
-
-**Intellectual Property**
-
-The Site and its entire contents, features and functionality, including but not limited to all trademarks, logos, slogans, information, software, text, displays, images, video and audio, and the design, selection and arrangement thereof (“Site Content”), are owned by Usablenet, its licensors or other providers of such material and are protected by United States and international copyright, trademark, patent, trade secret and other intellectual property or proprietary rights laws. You may not mirror any of the Site Content on another website or in any other media. This Site and Site Content may not be copied, reproduced, republished, uploaded, posted, transmitted, distributed, or used for the creation of derivative works without Usablenet’s prior written consent, except that Usablenet grants you non-exclusive, non-transferable, limited permission to access and display the Site and Site Content, solely for your personal or internal business use. Except for the limited permission in the preceding sentence, Usablenet does not grant you any express or implied rights or licenses under any patents, trademarks, copyrights, or other proprietary or intellectual property rights. All rights not expressly granted are reserved.  
-
-**Disclaimer of Warranty; Limitation of Liability**
-
-The Site and its contents are provided “as is” and Usablenet makes no representation or warranty of any kind with respect to any content on the Site. Usablenet expressly disclaims all express and implied warranties including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement. In no event will Usablenet be liable to any party for any direct, indirect, incidental, special, exemplary, consequential, or other damages (including, but not limited to, lost profits, business interruption, loss of programs or data) without regard to the form of action and whether in contract, tort, negligence, strict liability, or otherwise, arising out of or related to any content on or accessed through the Site.
-
-**Indemnification**
-
-You hereby agree to indemnify, defend and hold harmless Usablenet, its subsidiaries and affiliates, officers, partners, employees, and vendors from any claims, expenses, judgments, losses, damages and costs, including without limitation, attorneys’ fees, arising from or relating in any way to your User Content, your use of the Site, your conduct with other users of the Site, or any violation of these Terms or applicable law. You shall cooperate as fully as reasonably required in the defense of any such claim. Usablenet reserves the right, at its own expense, to assume the exclusive defense and control of any matter subject to indemnification by you.
-
-**Privacy**
-
-All information collected on this Site is subject to Usablenet’s privacy policy, located above, and such privacy policy is incorporated into these Terms by reference.
-
-**Changes**
-
-Usablenet may revise and update these Terms from time to time in its sole discretion and without notice. All changes are effective immediately once posted on this Site. Your continued use of the Site following the posting of revised Terms means you accept and agree to the changes. You are expected to check this page from time to time so you are aware of any changes, as they are binding on you.
-
-**General**
-
-These Terms and all related claims shall be governed, construed, and enforced in accordance with the laws of the State of New York, without giving effect to its conflict of laws principles and you submit to the exclusive jurisdiction of courts located in New York state. If any provision in these Terms is held unlawful or unenforceable, then that provision is deemed severable from these Terms and the remaining provisions are still valid and enforceable. Usablenet may transfer, assign or delegate the Terms and its rights and obligations without your consent. These Terms are the complete and exclusive statement of the mutual understanding of the parties and supersede and cancel all previous written and oral agreements, communications and other understandings relating to the subject matter of these Terms, and that all modifications must be in a writing signed by both parties, except as otherwise provided herein.
+If you have any comments or questions about this Policy, please contact us by [email](mailto:contact@usablenet.com) or by mail at Usablenet Inc., 142 West 57th Street, 7th Floor, New York, NY 10019.
