@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thread.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625020158id_/https%3A//www.thread.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thread.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120132731id_/https%3A//www.thread.com/privacy) for the most accurate reproduction.*
 
 # Thread
 
@@ -68,7 +68,7 @@ You have the right to access the information which Thread holds about you and yo
 
 We are always pleased to hear from our customers (even if it is a complaint!). We are always grateful for any time you spend providing us with the knowledge we need to ensure our customers are completely satisfied - we want you to return to the site and to recommend us to your friends and family. If you have any questions or feedback about this statement, or if you would like us to stop processing your information, please do not hesitate to contact a customer service member of the Thread team, who will be delighted to answer any questions you may have.
 
-You can either contact customer care by emailing support at thread dot com.
+You can contact customer care either by emailing support at thread dot com, or by writing to us at the address below.
 
 ### Write to us at:
 
