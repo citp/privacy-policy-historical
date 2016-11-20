@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playjunior.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518091125id_/http%3A//www.playjunior.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playjunior.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120201613id_/http%3A//www.playjunior.com/privacy) for the most accurate reproduction.*
 
 # Playjunior.com | Privacy
 
