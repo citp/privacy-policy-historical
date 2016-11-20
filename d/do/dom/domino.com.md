@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the domino.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606172240id_/http%3A//domino.com/about%2520us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domino.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120091054id_/http%3A//domino.com/about-us/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Domino
+# domino
 
 Domino Media Group, Inc. (hereafter "we", "our", or "us") has developed this Privacy Policy ("Policy") in a continued effort to protect the privacy of our users. This Policy applies to your use of our website and any related services (the "Website") under the domain name domino.com. By using or visiting the Website you agree to be bound by this Policy. If you do not agree with this Policy, please do not use the Website.
 
