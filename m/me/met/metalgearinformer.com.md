@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the metalgearinformer.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105034408id_/http%3A//www.metalgearinformer.com/%3Fpage_id%3D2779) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metalgearinformer.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120181811id_/http%3A//www.metalgearinformer.com/%3Fpage_id%3D2779) for the most accurate reproduction.*
 
-# Metal Gear Informer | Privacy Policy
+# Privacy Policy – Metal Gear Informer
 
-### Privacy Policy:
-
-Metal Gear Informer (" **Metal Gear Informer** ") operates MetalGearInformer.com and may operate other websites. It is Metal Gear Informer's policy to respect your privacy regarding any information we may collect while operating our websites.
+Metal Gear Informer (" **Metal Gear Informer** ") operates metalgearinformer.com and may operate other websites. It is Metal Gear Informer's policy to respect your privacy regarding any information we may collect while operating our websites.
 
 ### Website Visitors
 
 Like most website operators, Metal Gear Informer collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Metal Gear Informer's purpose in collecting non-personally identifying information is to better understand how Metal Gear Informer's visitors use its website. From time to time, Metal Gear Informer may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-Metal Gear Informer also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on MetalGearInformer.com blogs/sites. Metal Gear Informer only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
+Metal Gear Informer also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on metalgearinformer.com blogs/sites. Metal Gear Informer only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to Metal Gear Informer's websites choose to interact with Metal Gear Informer in ways that require Metal Gear Informer to gather personally-identifying information. The amount and type of information that Metal Gear Informer gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [MetalGearInformer.com](http://www.metalgearinformer.com/) to provide a username and email address. Those who engage in transactions with Metal Gear Informer are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Metal Gear Informer collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Metal Gear Informer. Metal Gear Informer does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Metal Gear Informer's websites choose to interact with Metal Gear Informer in ways that require Metal Gear Informer to gather personally-identifying information. The amount and type of information that Metal Gear Informer gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [metalgearinformer.com](http://www.metalgearinformer.com/) to provide a username and email address. Those who engage in transactions with Metal Gear Informer are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Metal Gear Informer collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Metal Gear Informer. Metal Gear Informer does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
@@ -38,4 +36,4 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 
 ### Privacy Policy Changes
 
-Although most changes are likely to be minor, Metal Gear Informer may change its Privacy Policy from time to time, and in Metal Gear Informer's sole discretion. Metal Gear Informer encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a MetalGearInformer.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+Although most changes are likely to be minor, Metal Gear Informer may change its Privacy Policy from time to time, and in Metal Gear Informer's sole discretion. Metal Gear Informer encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a metalgearinformer.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
