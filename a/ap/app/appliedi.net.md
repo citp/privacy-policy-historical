@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appliedi.net privacy policy that was archived on 2016-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160110093542id_/https%3A//www.appliedi.net/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliedi.net privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120141203id_/https%3A//www.appliedi.net/legal/privacy-policy) for the most accurate reproduction.*
 
 # Applied Innovations Privacy Policy
 
