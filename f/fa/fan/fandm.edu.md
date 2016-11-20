@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fandm.edu privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624034806id_/http%3A//www.fandm.edu/college-policies/news-media-publicity-promotions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fandm.edu privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120074105id_/http%3A//www.fandm.edu/college-policies/news-media-publicity-promotions/privacy-policy) for the most accurate reproduction.*
 
 # Franklin & Marshall – Privacy Policy
 
@@ -22,7 +22,7 @@ F&M takes reasonable precautions to maintain the privacy and security of persona
 
 #### Questions About This Policy
 
-If there are any questions or concerns about F&M's website policy, the practices of F&M's website, or use of the website, please contact the [Director of Web Content and Multimedia ](http://www.fandm.edu/srirupa-dasgupta)or another staff member in the [Office of Communications](https://web.archive.org/communications/communications-directory).
+If there are any questions or concerns about F&M's website policy, the practices of F&M's website, or use of the website, please contact the [Director of Web Content and Multimedia ](http://www.fandm.edu/srirupa-dasgupta)or another staff member in the [Office of Communications](http://www.fandm.edu/communications/directory).
 
 \--------  
 Policy Maintained by:  Office of Communications, Vice President for Communications  
