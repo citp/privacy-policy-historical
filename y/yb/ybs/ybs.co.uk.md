@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ybs.co.uk privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616113342id_/http%3A//www.ybs.co.uk/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ybs.co.uk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120035012id_/http%3A//www.ybs.co.uk/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy and Cookies - Yorkshire Building Society
 
@@ -9,12 +9,12 @@ By using this site you are consenting to the use of cookies. [Find out more](htt
 [ ](https://web.archive.org/index.html "Yorkshire Building Society")
 
   * [](https://web.archive.org/index.html "Homepage")
-  * [Mortgages](https://web.archive.org/mortgages/index.html "Mortgages")
-  * [Savings](https://web.archive.org/savings/index.html "Savings")
-  * [Insurance](https://web.archive.org/insurance/index.html "Insurance")
-  * [Investments](https://web.archive.org/investments/index.html "Investments")
+  * Mortgages
+  * Savings
+  * Insurance
+  * Investments
   * Help & Support
-  * 
+
 
 
 You are here: [Home](https://web.archive.org/index.html "Home") /  Privacy and Cookies
@@ -66,7 +66,7 @@ This Privacy Policy only covers you while you are on our site. Once you click on
 
 
 
-For full details see our leaflet [How we use your personal information](https://web.archive.org/pdf/privacy/how-we-use-your-personal-info.pdf) (81 KB) that also provides detailed information about Business Relationships, Sources and sensitive information.
+For full details see our leaflet [How we use your personal information](https://web.archive.org/pdf/privacy/how-we-use-your-personal-info.pdf) (200 KB) that also provides detailed information about Business Relationships, Sources and sensitive information.
 
 To view some of the document you will need to have Adobe Acrobat reader installed. If you have not already got this and would like to download it, visit the [Adobe web site.](http://www.adobe.com/)
 
