@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itweb.co.za privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607065010id_/http%3A//www.itweb.co.za/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D38060%26Itemid%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itweb.co.za privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120152609id_/http%3A//www.itweb.co.za/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D38060%26Itemid%3D145) for the most accurate reproduction.*
 
 # Privacy policy | ITWeb
 
