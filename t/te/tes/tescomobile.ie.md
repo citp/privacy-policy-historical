@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tescomobile.ie privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530004825id_/http%3A//www.tescomobile.ie/about-us/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tescomobile.ie privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120211449id_/http%3A//www.tescomobile.ie/about-us/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Tesco Mobile - Privacy Policy
+# Privacy Policy | Tesco Mobile
 
 Skip to main content
 
