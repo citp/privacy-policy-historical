@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the pendleton-usa.com privacy policy that was archived on 2016-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160509013426id_/http%3A//www.pendleton-usa.com/custserv/custserv.jsp%3FpageName%3DPrivacy%26parentName%3DCustomerService) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pendleton-usa.com privacy policy that was archived on 2016-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120181256id_/http%3A//www.pendleton-usa.com/custserv/custserv.jsp%3FpageName%3DPrivacy%26parentName%3DCustomerService) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 		<title>Privacy &amp; Security</title>
-        <script type="text/javascript" async="" src="https://www.bluecore.com/triggermail.js/pendleton.js"></script><script type="text/javascript" src="//track.securedvisit.com/js/sv.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+        <script type="text/javascript" async="" src="https://www.bluecore.com/triggermail.js/pendleton.js"></script><script type="text/javascript" src="//track.securedvisit.com/js/sv.js"></script><script type="text/javascript" async="" src="https://cdn.justuno.com/coupon_code1.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://mc-assets.moovweb.net/pendelton-production/bf1f59c2-468b-4262-81da-6874b3fe63bc/loader/current/moovcheckout.js" type="text/javascript"></script><script type="text/javascript">
 			//used in sifr-config.js
 			var baseEnvUrl = "/";
 		</script>
@@ -216,6 +216,13 @@ body {
 body.desktop #header_wrap {
     width: 940px;
 }
+
+
+/* Test: item description and fabric/care font sizes */
+.item-desc, .TabWidget {
+	font-size: 14px !important;
+}
+
 
 </style></div><!-- IE fixes -->
 		<!--[if IE]>
@@ -485,13 +492,20 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 		});
 	
 		$(function(){
-		   var ucartTimer;
+		   var ucartTimer,uiconTimer;
 
 		   $("#widget-but-ucart").hover(function(){
 		      ucartTimer = setTimeout(function() { showBasket('show',''); }, 500);
 		   },function(ev) {
 		      if( typeof ucartTimer != undefined ) { clearTimeout(ucartTimer); }
 		   });
+
+            $("#widget-icon-ucart").hover(function(){
+                uiconTimer = setTimeout(function() { showBasket('show',''); }, 500);
+            },function(ev) {
+                if( typeof ucartTimer != undefined ) { clearTimeout(ucartTimer); }
+            });
+
 		});
 		
 </script>
@@ -548,7 +562,28 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 
         <div class="mcAreaLinkWrap">
             <ul class="horiz mcAreaLinks">
-                <span class="cmsWrapper" id="Header-Contentlinks" data-content-name="Header-Contentlinks"><b></b></span></ul>
+                <span class="cmsWrapper" id="Header-Contentlinks" data-content-name="Header-Contentlinks"><div class="display-desktop-tablet">
+
+	<a class="openAjaxLayer" href="/custserv/custserv_popup.jsp?pageName=FreeShipInformation">
+		<img src="/assets/images/cms/Header/09_07_16_Free_Shipping_Global_D_3.gif" width="100%">
+	</a>
+<br><br>
+
+</div>
+
+
+
+<div class="display-mobile">
+
+<center>
+	<a class="openAjaxLayer" href="/custserv/custserv_popup.jsp?pageName=FreeShipInformation">
+		<img src="/assets/images/cms/Header/09_07_16_Free_Shipping_Global_M.gif" width="100%">
+    </a>
+</center>
+
+<br>
+
+</div></span></ul>
         </div>
         <div class="utilityLinkWrap">
             <ul class="horiz utilityLinks">
@@ -570,10 +605,11 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
             <li>
                 <a class="locatorLink" href="/custserv/locate_store.cmd?parentName=CustomerService"><span class="locator">Store Locator</span><span class="locator mobile tablet">Stores</span></a></li>
 
-
                 <li class="last">
+                    <div class="fl bagIcon" onclick="JavaScript:openBasketPage()" id="widget-icon-ucart">
+                            <img src="/assets/images/common/bag.png" width="20px" height="20px" alt="Shopping Bag"></div>
                     <div id="cart-info-container" onclick="JavaScript:openBasketPage()" class="fr">
-                        <a id="widget-but-ucart" onclick="JavaScript:openBasketPage()" href="javascript:void(null);"><span>Shopping </span>Bag</a>&nbsp;
+                        <a id="widget-but-ucart" onclick="JavaScript:openBasketPage()" href="javascript:void(null);">Bag</a>&nbsp;
                         <span class="cart-info-text" id="widget-ucart-item-count">
                                 
                                     (0)
@@ -823,15 +859,21 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                                 <li>
                                                     <a href="/thumbnail/Women/Featured/NEW-ARRIVALS/2102/c/2399/pc/1815.uts">New Arrivals</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/Women/Featured/Ultra-9/2173/c/2399/pc/1815.uts">Ultra 9</a></li>
+                                                    <a href="/thumbnail/Women/Featured/NEW-SEASONLESS-WOOL/1872/c/2399/pc/1815.uts">New Seasonless Wool</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/Women/Featured/SEASONLESS-WOOL/1872/c/2399/pc/1815.uts">Seasonless Wool</a></li>
+                                                    <a href="/thumbnail/Women/Featured/SIGNATURE-COATS/1723/c/2399/pc/1815.uts">Signature Coats</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/Women/Featured/Pendleton-Wool-Lin/2238/c/2399/pc/1815.uts">Pendleton Wool-lin</a></li>
+                                                    <a href="/thumbnail/Women/Featured/Pendleton-Plaid/2104/c/2399/pc/1815.uts">Pendleton Plaid</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/Women/Featured/Suiting-Options/2025/c/2399/pc/1815.uts">Suiting Options</a></li>
+                                                    <a href="/thumbnail/Women/Featured/Layering-Pieces/3723/c/2399/pc/1815.uts">Layering Pieces</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/Women/Featured/How-Were-Wearing-It/2026/c/2399/pc/1815.uts">How We're Wearing It</a></li>
+                                                    <a href="/thumbnail/Women/Featured/ATHLEISURE/3715/c/2399/pc/1815.uts">Athleisure</a></li>
+                                                <li>
+                                                    <a href="/thumbnail/Women/Featured/Wool-Perform/3864/c/2399/pc/1815.uts">Wool Perform</a></li>
+                                                <li>
+                                                    <a href="/thumbnail/Women/Featured/Woven-in-America/3716/c/2399/pc/1815.uts">Woven In America</a></li>
+                                                <li>
+                                                    <a href="/thumbnail/Women/Featured/Outfit-Ideas/2026/c/2399/pc/1815.uts">Outfit Ideas</a></li>
                                                 </ul>
                                             </li>
                                     <li>
@@ -841,13 +883,15 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                                 <li>
                                                     <a href="/thumbnail/Women/Clothing/BLOUSES-SHIRTS/1740/c/2400/pc/1815.uts">Blouses &amp; Shirts</a></li>
                                                 <li>
+                                                    <a href="/thumbnail/Women/Clothing/wool-shirts/3963/c/2400/pc/1815.uts">Wool Shirts</a></li>
+                                                <li>
                                                     <a href="/thumbnail/Women/Clothing/SWEATERS/1708/c/2400/pc/1815.uts">Sweaters</a></li>
                                                 <li>
                                                     <a href="/thumbnail/Women/Clothing/DRESSES/1710/c/2400/pc/1815.uts">Dresses</a></li>
                                                 <li>
                                                     <a href="/thumbnail/Women/Clothing/KNITS-TEES/1741/c/2400/pc/1815.uts">Knits &amp; Tees</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/Women/Clothing/PANTS-SHORTS/1801/c/2400/pc/1815.uts">Pants &amp; Shorts</a></li>
+                                                    <a href="/thumbnail/Women/Clothing/PANTS/1801/c/2400/pc/1815.uts">Pants</a></li>
                                                 <li>
                                                     <a href="/thumbnail/Women/Clothing/SKIRTS/1809/c/2400/pc/1815.uts">Skirts</a></li>
                                                 <li>
@@ -856,6 +900,8 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                                     <a href="/thumbnail/Women/Clothing/CAPES-SHAWLS/2808/c/2400/pc/1815.uts">Capes &amp; Shawls</a></li>
                                                 <li>
                                                     <a href="/thumbnail/Women/Clothing/SLEEPWEAR/1782/c/2400/pc/1815.uts">Sleepwear</a></li>
+                                                <li>
+                                                    <a href="/thumbnail/Women/Clothing/VESTS/1792/c/2400/pc/1815.uts">Vests</a></li>
                                                 </ul>
                                             </li>
                                     <li>
@@ -866,6 +912,8 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                                     <a href="/thumbnail/Women/Footwear/BOOTS/1943/c/2401/pc/1815.uts">Boots</a></li>
                                                 <li>
                                                     <a href="/thumbnail/Women/Footwear/SLIPPERS/2405/c/2401/pc/1815.uts">Slippers</a></li>
+                                                <li>
+                                                    <a href="/thumbnail/Women/Footwear/SOCKS/2413/c/2401/pc/1815.uts">Socks</a></li>
                                                 </ul>
                                             </li>
                                     <li>
@@ -875,15 +923,19 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                                 <li>
                                                     <a href="/thumbnail/Women/Jewelry/EARRINGS/2406/c/2403/pc/1815.uts">Earrings</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/Women/Jewelry/BRACELETS-RINGS/2407/c/2403/pc/1815.uts">Bracelets &amp; Rings</a></li>
+                                                    <a href="/thumbnail/Women/Jewelry/BRACELETS/2407/c/2403/pc/1815.uts">Bracelets</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/Women/Jewelry/All-Jewelry/2004/c/2403/pc/1815.uts">All Jewelry</a></li>
+                                                    <a href="/thumbnail/Women/Jewelry/ALL-JEWELRY/2004/c/2403/pc/1815.uts">All Jewelry</a></li>
                                                 </ul>
                                             </li>
                                     <li>
                                         <a class="active" href="#">Accessories</a><ul>
                                                 <li>
                                                     <a href="/thumbnail/Women/Accessories/SCARVES/1730/c/2404/pc/1815.uts">Scarves</a></li>
+                                                <li>
+                                                    <a href="/thumbnail/Women/Accessories/HATS/1918/c/2404/pc/1815.uts">Hats</a></li>
+                                                <li>
+                                                    <a href="/thumbnail/Women/Accessories/GLOVES/2412/c/2404/pc/1815.uts">Gloves</a></li>
                                                 <li>
                                                     <a href="/thumbnail/Women/Accessories/SOCKS/2413/c/2404/pc/1815.uts">Socks</a></li>
                                                 <li>
@@ -900,6 +952,8 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                                     <a href="/thumbnail/Women/Bags-Totes/SMALL-BAGS-WALLETS/2408/c/2402/pc/1815.uts">Small Bags &amp; Wallets</a></li>
                                                 <li>
                                                     <a href="/thumbnail/Women/Bags-Totes/LARGE-BAGS-TOTES/2409/c/2402/pc/1815.uts">Large Bags &amp; Totes</a></li>
+                                                <li>
+                                                    <a href="/thumbnail/Women/Bags-Totes/Leather-Bags/4033/c/2402/pc/1815.uts">Leather Bags</a></li>
                                                 <li>
                                                     <a href="/thumbnail/Women/Bags-Totes/BACKPACKS/2410/c/2402/pc/1815.uts">Backpacks</a></li>
                                                 <li>
@@ -922,9 +976,15 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                                 <li>
                                                     <a href="/thumbnail/Men/Featured/New-Arrivals/2105/c/2414/pc/1814.uts">New Arrivals</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/Men/Featured/Fitted-Shirts/3373/c/2414/pc/1814.uts">Fitted Shirts</a></li>
+                                                    <a href="/thumbnail/Men/Featured/SIGNATURE-COATS/2809/c/2414/pc/1814.uts">Signature Coats</a></li>
+                                                <li>
+                                                    <a href="/thumbnail/Men/Featured/Plaid-For-Men/2213/c/2414/pc/1814.uts">Plaid For Men</a></li>
+                                                <li>
+                                                    <a href="/thumbnail/Men/Featured/FITTED-SHIRTS/3373/c/2414/pc/1814.uts">Fitted Shirts</a></li>
                                                 <li>
                                                     <a href="/thumbnail/Men/Featured/Tall-Shirts/3374/c/2414/pc/1814.uts">Tall Shirts</a></li>
+                                                <li>
+                                                    <a href="/thumbnail/Men/Featured/Wool-Perform/3870/c/2414/pc/1814.uts">Wool Perform</a></li>
                                                 </ul>
                                             </li>
                                     <li>
@@ -940,7 +1000,7 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                                 <li>
                                                     <a href="/thumbnail/Men/Clothing/SWEATSHIRTS-HOODIES/1758/c/2415/pc/1814.uts">Sweatshirts &amp; Hoodies</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/Men/Clothing/PANTS-SHORTS/1761/c/2415/pc/1814.uts">Pants &amp; Shorts</a></li>
+                                                    <a href="/thumbnail/Men/Clothing/PANTS/1761/c/2415/pc/1814.uts">Pants</a></li>
                                                 <li>
                                                     <a href="/thumbnail/Men/Clothing/JACKETS-COATS/1796/c/2415/pc/1814.uts">Jackets &amp; Coats</a></li>
                                                 <li>
@@ -968,11 +1028,11 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                     <li>
                                         <a class="active" href="#">Footwear</a><ul>
                                                 <li>
-                                                    <a href="/thumbnail/Men/Footwear/SHOES/1805/c/2420/pc/1814.uts">Shoes</a></li>
-                                                <li>
                                                     <a href="/thumbnail/Men/Footwear/BOOTS/2058/c/2420/pc/1814.uts">Boots</a></li>
                                                 <li>
                                                     <a href="/thumbnail/Men/Footwear/SLIPPERS/2419/c/2420/pc/1814.uts">Slippers</a></li>
+                                                <li>
+                                                    <a href="/thumbnail/Men/Footwear/SOCKS/2418/c/2420/pc/1814.uts">Socks</a></li>
                                                 </ul>
                                             </li>
                                     <li>
@@ -1011,6 +1071,12 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                                 <li>
                                                     <a href="/thumbnail/Blankets-Throws/Featured/NATIONAL-PARKS/1839/c/2421/pc/2178.uts">National Parks</a></li>
                                                 <li>
+                                                    <a href="/thumbnail/Blankets-Throws/Featured/Modern-Collection/3787/c/2421/pc/2178.uts">Modern Collection</a></li>
+                                                <li>
+                                                    <a href="/thumbnail/Blankets-Throws/Featured/Camping-Blankets/2167/c/2421/pc/2178.uts">Camping Blankets</a></li>
+                                                <li>
+                                                    <a href="/thumbnail/Blankets-Throws/Featured/Native-American-Artists/3788/c/2421/pc/2178.uts">Native American Artists</a></li>
+                                                <li>
                                                     <a href="/thumbnail/Blankets-Throws/Featured/STAR-WARS-BLANKETS/2723/c/2421/pc/2178.uts">Star Wars Blankets</a></li>
                                                 </ul>
                                             </li>
@@ -1039,6 +1105,16 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                                 </ul>
                                             </li>
                                     <li>
+                                        <a class="active" href="#">By Fabric</a><ul>
+                                                <li>
+                                                    <a href="/thumbnail/Blankets-Throws/By-Fabric/Wool-Blankets/3961/c/3965/pc/2178.uts">Wool Blankets</a></li>
+                                                <li>
+                                                    <a href="/thumbnail/Blankets-Throws/By-Fabric/Merino-Wool-Blankets/3964/c/3965/pc/2178.uts">Merino Wool Blankets</a></li>
+                                                <li>
+                                                    <a href="/thumbnail/Blankets-Throws/By-Fabric/Eco-Wise-Wool-Blankets/2253/c/3965/pc/2178.uts">Eco Wise Wool Blankets</a></li>
+                                                </ul>
+                                            </li>
+                                    <li>
                                         <a class="active" href="#">Bedding</a><ul>
                                                 <li>
                                                     <a href="/thumbnail/Blankets-Throws/Bedding/Wool-Bedding-Collections/1837/c/2423/pc/2178.uts">Wool Bedding Collections</a></li>
@@ -1056,6 +1132,12 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                 <div class="selected-section"><a href="#">Bags &amp; Accessories</a></div>
                                 <ul class="cgyNav">
                                     <li>
+                                        <a class="active" href="#">Featured</a><ul>
+                                                <li>
+                                                    <a href="/thumbnail/Bags-Accessories/Featured/New-Arrivals/3789/c/3790/pc/2179.uts">New Arrivals</a></li>
+                                                </ul>
+                                            </li>
+                                    <li>
                                         <a class="active" href="#">Bags &amp;  Totes</a><ul>
                                                 <li>
                                                     <a href="/thumbnail/Bags-Accessories/Bags-Totes/ALL-BAGS-TOTES/2454/c/2402/pc/2179.uts">All Bags &amp; Totes</a></li>
@@ -1063,6 +1145,8 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                                     <a href="/thumbnail/Bags-Accessories/Bags-Totes/SMALL-BAGS-WALLETS/2408/c/2402/pc/2179.uts">Small Bags &amp; Wallets</a></li>
                                                 <li>
                                                     <a href="/thumbnail/Bags-Accessories/Bags-Totes/LARGE-BAGS-TOTES/2409/c/2402/pc/2179.uts">Large Bags &amp; Totes</a></li>
+                                                <li>
+                                                    <a href="/thumbnail/Bags-Accessories/Bags-Totes/Leather-Bags/4033/c/2402/pc/2179.uts">Leather Bags</a></li>
                                                 <li>
                                                     <a href="/thumbnail/Bags-Accessories/Bags-Totes/BACKPACKS/2410/c/2402/pc/2179.uts">Backpacks</a></li>
                                                 <li>
@@ -1078,7 +1162,7 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                                 <li>
                                                     <a href="/thumbnail/Bags-Accessories/Accessories/HATS/2437/c/2424/pc/2179.uts">Hats</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/Bags-Accessories/Accessories/SOCKS/2418/c/2424/pc/2179.uts">Socks</a></li>
+                                                    <a href="/thumbnail/Bags-Accessories/Accessories/SOCKS/2235/c/2424/pc/2179.uts">Socks</a></li>
                                                 <li>
                                                     <a href="/thumbnail/Bags-Accessories/Accessories/GLOVES/2439/c/2424/pc/2179.uts">Gloves</a></li>
                                                 <li>
@@ -1094,9 +1178,9 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                                 <li>
                                                     <a href="/thumbnail/Bags-Accessories/Jewelry/EARRINGS/2406/c/2403/pc/2179.uts">Earrings</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/Bags-Accessories/Jewelry/BRACELETS-RINGS/2407/c/2403/pc/2179.uts">Bracelets &amp; Rings</a></li>
+                                                    <a href="/thumbnail/Bags-Accessories/Jewelry/BRACELETS/2407/c/2403/pc/2179.uts">Bracelets</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/Bags-Accessories/Jewelry/All-Jewelry/2004/c/2403/pc/2179.uts">All Jewelry</a></li>
+                                                    <a href="/thumbnail/Bags-Accessories/Jewelry/ALL-JEWELRY/2004/c/2403/pc/2179.uts">All Jewelry</a></li>
                                                 </ul>
                                             </li>
                                     </ul>
@@ -1149,7 +1233,7 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                                 <li>
                                                     <a href="/thumbnail/Home/Bath-and-Towels/SPA-BEACH-TOWELS/2429/c/1827/pc/1816.uts">Spa &amp; Beach Towels</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/Home/Bath-and-Towels/Kids-Towels/3423/c/1827/pc/1816.uts">Kid's Towels</a></li>
+                                                    <a href="/thumbnail/Home/Bath-and-Towels/Kids-Towels/3423/c/1827/pc/1816.uts">Kids' Towels</a></li>
                                                 <li>
                                                     <a href="/thumbnail/Home/Bath-and-Towels/BATH-ACCESSORIES/1855/c/1827/pc/1816.uts">Bath Accessories</a></li>
                                                 <li>
@@ -1157,7 +1241,7 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                                 <li>
                                                     <a href="/thumbnail/Home/Bath-and-Towels/Towel-Sets/3169/c/1827/pc/1816.uts">Towel Sets</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/Home/Bath-and-Towels/All-Towels/3231/c/1827/pc/1816.uts">All Towels</a></li>
+                                                    <a href="/thumbnail/Home/Bath-and-Towels/ALL-TOWELS/3231/c/1827/pc/1816.uts">All Towels</a></li>
                                                 </ul>
                                             </li>
                                     <li>
@@ -1197,15 +1281,17 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                                 <li>
                                                     <a href="/thumbnail/Home/HOME-DECOR/CANDLES/2433/c/2435/pc/1816.uts">Candles</a></li>
                                                 <li>
+                                                    <a href="/thumbnail/Home/HOME-DECOR/HOLIDAY-DECOR/2434/c/2435/pc/1816.uts">Holiday Decor</a></li>
+                                                <li>
                                                     <a href="/thumbnail/Home/HOME-DECOR/HOME-ACCESSORIES/1755/c/2435/pc/1816.uts">Home Accessories</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/Home/HOME-DECOR/Office-Accessories/3029/c/2435/pc/1816.uts">Office Accessories</a></li>
+                                                    <a href="/thumbnail/Home/HOME-DECOR/OFFICE-ACCESSORIES/3029/c/2435/pc/1816.uts">Office Accessories</a></li>
                                                 </ul>
                                             </li>
                                     <li>
                                         <a class="active" href="#">Fabric</a><ul>
                                                 <li>
-                                                    <a href="/thumbnail/Home/FABRIC/All-Fabric/2458/c/1828/pc/1816.uts">All Fabric</a></li>
+                                                    <a href="/thumbnail/Home/FABRIC/ALL-FABRIC/2458/c/1828/pc/1816.uts">All Fabric</a></li>
                                                 <li>
                                                     <a href="/thumbnail/Home/FABRIC/PLAIDS/1721/c/1828/pc/1816.uts">Plaids</a></li>
                                                 <li>
@@ -1219,11 +1305,11 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                                 <li>
                                                     <a href="/thumbnail/Home/Pets/DOG-BEDS/2396/c/2395/pc/1816.uts">Dog Beds</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/Home/Pets/DOG-COATS/2397/c/2395/pc/1816.uts">Dog Coats</a></li>
+                                                    <a href="/thumbnail/Home/Pets/DOG-COATS-SWEATERS/2397/c/2395/pc/1816.uts">Dog Coats &amp; Sweaters</a></li>
                                                 <li>
                                                     <a href="/thumbnail/Home/Pets/COLLARS-LEASHES-BOWLS/2398/c/2395/pc/1816.uts">Collars, Leashes &amp; Bowls</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/Home/Pets/All-Pet-Products/3421/c/2395/pc/1816.uts">All Pet Products</a></li>
+                                                    <a href="/thumbnail/Home/Pets/ALL-PET-PRODUCTS/3421/c/2395/pc/1816.uts">All Pet Products</a></li>
                                                 </ul>
                                             </li>
                                     </ul>
@@ -1238,25 +1324,25 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                     <li>
                                         <a class="active" href="#">Shop By Park</a><ul>
                                                 <li>
-                                                    <a href="/thumbnail/National-Parks/Shop-By-Park/Acadia/2249/c/2269/pc/2268.uts">Acadia</a></li>
+                                                    <a href="/thumbnail/National-Parks/Shop-By-Park/ACADIA/2249/c/2269/pc/2268.uts">Acadia</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/National-Parks/Shop-By-Park/Badlands/2248/c/2269/pc/2268.uts">Badlands</a></li>
+                                                    <a href="/thumbnail/National-Parks/Shop-By-Park/BADLANDS/2248/c/2269/pc/2268.uts">Badlands</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/National-Parks/Shop-By-Park/Crater-Lake/2241/c/2269/pc/2268.uts">Crater Lake</a></li>
+                                                    <a href="/thumbnail/National-Parks/Shop-By-Park/CRATER-LAKE/2241/c/2269/pc/2268.uts">Crater Lake</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/National-Parks/Shop-By-Park/Glacier/2246/c/2269/pc/2268.uts">Glacier</a></li>
+                                                    <a href="/thumbnail/National-Parks/Shop-By-Park/GLACIER/2246/c/2269/pc/2268.uts">Glacier</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/National-Parks/Shop-By-Park/Grand-Canyon/2245/c/2269/pc/2268.uts">Grand Canyon</a></li>
+                                                    <a href="/thumbnail/National-Parks/Shop-By-Park/GRAND-CANYON/2245/c/2269/pc/2268.uts">Grand Canyon</a></li>
                                                 <li>
                                                     <a href="/thumbnail/National-Parks/Shop-By-Park/GREAT-SMOKY-MOUNTAINS/2260/c/2269/pc/2268.uts">Great Smoky Mountains</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/National-Parks/Shop-By-Park/Rainier/2243/c/2269/pc/2268.uts">Rainier</a></li>
+                                                    <a href="/thumbnail/National-Parks/Shop-By-Park/RAINIER/2243/c/2269/pc/2268.uts">Rainier</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/National-Parks/Shop-By-Park/Rocky-Mountain/2247/c/2269/pc/2268.uts">Rocky Mountain</a></li>
+                                                    <a href="/thumbnail/National-Parks/Shop-By-Park/ROCKY-MOUNTAIN/2247/c/2269/pc/2268.uts">Rocky Mountain</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/National-Parks/Shop-By-Park/Yellowstone/2244/c/2269/pc/2268.uts">Yellowstone</a></li>
+                                                    <a href="/thumbnail/National-Parks/Shop-By-Park/YELLOWSTONE/2244/c/2269/pc/2268.uts">Yellowstone</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/National-Parks/Shop-By-Park/Yosemite/2242/c/2269/pc/2268.uts">Yosemite</a></li>
+                                                    <a href="/thumbnail/National-Parks/Shop-By-Park/YOSEMITE/2242/c/2269/pc/2268.uts">Yosemite</a></li>
                                                 </ul>
                                             </li>
                                     <li>
@@ -1272,7 +1358,7 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                                 <li>
                                                     <a href="/thumbnail/National-Parks/Shop-By-Category/PILLOWS/2277/c/2270/pc/2268.uts">Pillows</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/National-Parks/Shop-By-Category/Mens-Clothing/2275/c/2270/pc/2268.uts">Men's Clothing</a></li>
+                                                    <a href="/thumbnail/National-Parks/Shop-By-Category/MENS-CLOTHING/2275/c/2270/pc/2268.uts">Men's Clothing</a></li>
                                                 <li>
                                                     <a href="/thumbnail/National-Parks/Shop-By-Category/WOMENS-CLOTHING/2295/c/2270/pc/2268.uts">Women's Clothing</a></li>
                                                 <li>
@@ -1282,7 +1368,9 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                                 <li>
                                                     <a href="/thumbnail/National-Parks/Shop-By-Category/Pets/2452/c/2270/pc/2268.uts">Pets</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/National-Parks/Shop-By-Category/All-Park-Items/2294/c/2270/pc/2268.uts">All Park Items</a></li>
+                                                    <a href="/thumbnail/National-Parks/Shop-By-Category/American-Treasures/3881/c/2270/pc/2268.uts">American Treasures</a></li>
+                                                <li>
+                                                    <a href="/thumbnail/National-Parks/Shop-By-Category/ALL-PARK-ITEMS/2294/c/2270/pc/2268.uts">All Park Items</a></li>
                                                 </ul>
                                             </li>
                                     </ul>
@@ -1297,6 +1385,8 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                     <li>
                                         <a class="active" href="#">Featured</a><ul>
                                                 <li>
+                                                    <a href="/thumbnail/Gifts/FEATURED/Best-Gifts-Ever/3962/c/2443/pc/1818.uts">Best Gifts Ever</a></li>
+                                                <li>
                                                     <a href="/thumbnail/Gifts/FEATURED/For-Home/2224/c/2443/pc/1818.uts">For Home</a></li>
                                                 <li>
                                                     <a href="/thumbnail/Gifts/FEATURED/Just-Plain-Cozy/3162/c/2443/pc/1818.uts">Just Plain Cozy</a></li>
@@ -1307,21 +1397,19 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                     <li>
                                         <a class="active" href="#">By Occasion</a><ul>
                                                 <li>
+                                                    <a href="/thumbnail/Gifts/BY-OCCASION/Graduations/2469/c/2441/pc/1818.uts">Graduations</a></li>
+                                                <li>
                                                     <a href="/thumbnail/Gifts/BY-OCCASION/Weddings/2228/c/2441/pc/1818.uts">Weddings</a></li>
                                                 </ul>
                                             </li>
                                     <li>
                                         <a class="active" href="#">By Recipient</a><ul>
                                                 <li>
-                                                    <a href="/thumbnail/Gifts/BY-RECIPIENT/For-Her/1883/c/2440/pc/1818.uts">For Her</a></li>
+                                                    <a href="/thumbnail/Gifts/BY-RECIPIENT/For-Women/1883/c/2440/pc/1818.uts">For Women</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/Gifts/BY-RECIPIENT/For-Him/1884/c/2440/pc/1818.uts">For Him</a></li>
-                                                <li>
-                                                    <a href="/thumbnail/Gifts/BY-RECIPIENT/Family/2223/c/2440/pc/1818.uts">Family</a></li>
+                                                    <a href="/thumbnail/Gifts/BY-RECIPIENT/For-Men/1884/c/2440/pc/1818.uts">For Men</a></li>
                                                 <li>
                                                     <a href="/thumbnail/Gifts/BY-RECIPIENT/Host-Hostess/1903/c/2440/pc/1818.uts">Host &amp; Hostess</a></li>
-                                                <li>
-                                                    <a href="/thumbnail/Gifts/BY-RECIPIENT/Wedding-Party/2541/c/2440/pc/1818.uts">Wedding Party</a></li>
                                                 <li>
                                                     <a href="/thumbnail/Gifts/BY-RECIPIENT/KIDS-BABIES/1765/c/2440/pc/1818.uts">Kids &amp; Babies</a></li>
                                                 <li>
@@ -1343,15 +1431,17 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                     <li>
                                         <a class="active" href="#">By Pattern</a><ul>
                                                 <li>
+                                                    <a href="/thumbnail/Gifts/By-Pattern/Buffalo/3511/c/3163/pc/1818.uts">Buffalo</a></li>
+                                                <li>
                                                     <a href="/thumbnail/Gifts/By-Pattern/Chief-Joseph/2150/c/3163/pc/1818.uts">Chief Joseph</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/Gifts/By-Pattern/Glacier/2246/c/3163/pc/1818.uts">Glacier</a></li>
+                                                    <a href="/thumbnail/Gifts/By-Pattern/GLACIER/2246/c/3163/pc/1818.uts">Glacier</a></li>
                                                 <li>
                                                     <a href="/thumbnail/Gifts/By-Pattern/Harding/3167/c/3163/pc/1818.uts">Harding</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/Gifts/By-Pattern/Yakima/3168/c/3163/pc/1818.uts">Yakima</a></li>
-                                                <li>
                                                     <a href="/thumbnail/Gifts/By-Pattern/Spider-Rock/3512/c/3163/pc/1818.uts">Spider Rock</a></li>
+                                                <li>
+                                                    <a href="/thumbnail/Gifts/By-Pattern/Yakima/3168/c/3163/pc/1818.uts">Yakima</a></li>
                                                 </ul>
                                             </li>
                                     </ul>
@@ -1380,8 +1470,6 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                                 <li>
                                                     <a href="/thumbnail/Sale/Womens-Sale/Sale-Skirts/2563/c/1829/pc/1817.uts">Sale Skirts</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/Sale/Womens-Sale/SALE-VESTS/1979/c/1829/pc/1817.uts">Sale Vests</a></li>
-                                                <li>
                                                     <a href="/thumbnail/Sale/Womens-Sale/SALE-COATS/1780/c/1829/pc/1817.uts">Sale Coats</a></li>
                                                 <li>
                                                     <a href="/thumbnail/Sale/Womens-Sale/SALE-SLEEPWEAR/1770/c/1829/pc/1817.uts">Sale Sleepwear</a></li>
@@ -1391,6 +1479,8 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                                     <a href="/thumbnail/Sale/Womens-Sale/Sale-Shoes/2564/c/1829/pc/1817.uts">Sale Shoes</a></li>
                                                 <li>
                                                     <a href="/thumbnail/Sale/Womens-Sale/Sale-Boots/2565/c/1829/pc/1817.uts">Sale Boots</a></li>
+                                                <li>
+                                                    <a href="/thumbnail/Sale/Womens-Sale/View-All-Womens-Sale/1899/c/1829/pc/1817.uts">View All Women's Sale</a></li>
                                                 </ul>
                                             </li>
                                     <li>
@@ -1398,9 +1488,9 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                                 <li>
                                                     <a href="/thumbnail/Sale/Mens-Sale/Sale-Wool-Shirts/2566/c/1830/pc/1817.uts">Sale Wool Shirts</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/Sale/Mens-Sale/Sale-Sweaters-Cardigans/2568/c/1830/pc/1817.uts">Sale Sweaters &amp; Cardigans</a></li>
-                                                <li>
                                                     <a href="/thumbnail/Sale/Mens-Sale/Sale-Cotton-Shirts/2567/c/1830/pc/1817.uts">Sale Cotton Shirts</a></li>
+                                                <li>
+                                                    <a href="/thumbnail/Sale/Mens-Sale/Sale-Sweaters-Cardigans/2568/c/1830/pc/1817.uts">Sale Sweaters &amp; Cardigans</a></li>
                                                 <li>
                                                     <a href="/thumbnail/Sale/Mens-Sale/Sale-Pants-Shorts/2569/c/1830/pc/1817.uts">Sale Pants &amp; Shorts</a></li>
                                                 <li>
@@ -1412,11 +1502,11 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                                 <li>
                                                     <a href="/thumbnail/Sale/Mens-Sale/SALE-POLOS-TEES/1784/c/1830/pc/1817.uts">Sale Polos &amp; Tees</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/Sale/Mens-Sale/SALE-VESTS/2467/c/1830/pc/1817.uts">Sale Vests</a></li>
-                                                <li>
                                                     <a href="/thumbnail/Sale/Mens-Sale/Sale-Shoes/2570/c/1830/pc/1817.uts">Sale Shoes</a></li>
                                                 <li>
                                                     <a href="/thumbnail/Sale/Mens-Sale/SALE-HATS-CAPS/1908/c/1830/pc/1817.uts">Sale Hats &amp; Caps</a></li>
+                                                <li>
+                                                    <a href="/thumbnail/Sale/Mens-Sale/View-All-Mens-Sale/2038/c/1830/pc/1817.uts">View All Men's Sale</a></li>
                                                 </ul>
                                             </li>
                                     <li>
@@ -1430,19 +1520,31 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
                                     <li>
                                         <a class="active" href="#">Blanket Sale</a><ul>
                                                 <li>
+                                                    <a href="/thumbnail/Sale/BLANKET-SALE/SALE-BLANKETS/1785/c/2444/pc/1817.uts">Sale Blankets</a></li>
+                                                <li>
                                                     <a href="/thumbnail/Sale/BLANKET-SALE/SALE-THROWS/1760/c/2444/pc/1817.uts">Sale Throws</a></li>
                                                 </ul>
                                             </li>
                                     <li>
                                         <a class="active" href="#">Home Sale</a><ul>
                                                 <li>
-                                                    <a href="/thumbnail/Sale/Home-Sale/SALE-HOME-DECOR/1843/c/1831/pc/1817.uts">Sale Home Decor</a></li>
+                                                    <a href="/thumbnail/Sale/Home-Sale/SALE-BEDDING/1807/c/1831/pc/1817.uts">Sale Bedding</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/Sale/Home-Sale/SALE-PILLOWS/1726/c/1831/pc/1817.uts">Sale Pillows</a></li>
+                                                    <a href="/thumbnail/Sale/Home-Sale/Sale-Bath/3170/c/1831/pc/1817.uts">Sale Bath</a></li>
+                                                <li>
+                                                    <a href="/thumbnail/Sale/Home-Sale/Sale-Kitchen-Dining/3171/c/1831/pc/1817.uts">Sale Kitchen &amp; Dining</a></li>
+                                                <li>
+                                                    <a href="/thumbnail/Sale/Home-Sale/SALE-HOME-DECOR/1843/c/1831/pc/1817.uts">Sale Home Decor</a></li>
                                                 <li>
                                                     <a href="/thumbnail/Sale/Home-Sale/SALE-KIDS-BABIES/1840/c/1831/pc/1817.uts">Sale Kids &amp; Babies</a></li>
                                                 <li>
-                                                    <a href="/thumbnail/Sale/Home-Sale/SALE-BEDDING/1807/c/1831/pc/1817.uts">Sale Bedding</a></li>
+                                                    <a href="/thumbnail/Sale/Home-Sale/View-All-Home-Sale/3670/c/1831/pc/1817.uts">View All Home Sale</a></li>
+                                                </ul>
+                                            </li>
+                                    <li>
+                                        <a class="active" href="#">Limited Time</a><ul>
+                                                <li>
+                                                    <a href="/thumbnail/Sale/Limited-Time/Extra-20-Off/1978/c/4034/pc/1817.uts">Extra 20% Off</a></li>
                                                 </ul>
                                             </li>
                                     </ul>
@@ -1476,9 +1578,11 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 	<li id="nav_Shipping">
 	<a href="/custserv/custserv.jsp?pageName=Shipping&amp;parentName=CustomerService">Shipping Information</a></li>
 	
-<!--	<li id="nav_HolidayShippingInformation">
-	<a href="/custserv/custserv.jsp?pageName=HolidayShippingInforamtion&parentName=CustomerService">Holiday Shipping Information</a></li>
--->	
+<!--
+-->
+	<li id="nav_HolidayShippingInformation">
+	<a href="/custserv/custserv.jsp?pageName=HolidayShippingInforamtion&amp;parentName=CustomerService">Holiday Shipping Information</a></li>
+	
 	<li id="nav_Returns">
 	<a href="/custserv/custserv.jsp?pageName=Returns&amp;parentName=CustomerService">Returns / Exchanges</a></li>
 	
@@ -1555,176 +1659,118 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 -->
 <h4>
 Whether you're purchasing online or just browsing, your privacy is important to 
-
 us. Please take the time to review Pendleton's policy for handling your customer 
-
 information. By visiting the Pendleton website, you are accepting the practices 
-
 described in this Privacy Policy. Pendleton's Privacy Policy may change from 
-
 time to time, so please revisit this page and review the Policy regularly. If you 
-
 have any questions regarding our Privacy Policy, please contact us via e-mail at 
-
- <a href="mailto:pendletoncatalog@penwool.com?subject=Privacy &#10;&#10;Policy"><u>pendletoncatalog@penwool.com</u></a>. We appreciate your comments 
-
+ <a href="mailto:pendletoncatalog@penwool.com?subject=Privacy &#10;Policy"><u>pendletoncatalog@penwool.com</u></a>. We appreciate your comments 
 and suggestions. <br><br>
 
 Pendleton may share the information it collects with third parties, as detailed 
-
 below. We may use the information to improve the content of our website, to 
-
 make our future marketing efforts more efficient, to notify you about current 
-
 Pendleton products, special offers, services and events, and for other purposes.  
-
 The information we collect may be combined with other personally identifiable 
-
 information available from our records and other sources, such as purchase 
-
 history and demographic information.<br><br>
-
 Your trust and privacy are very important to us! Therefore, we ask only for the 
-
 information we need to process your requests:<br><br>
-
 <b>Postal Address</b><br>
+
 If you purchase from us or request a Pendleton catalog by mail, we will need a 
-
 postal address, and we will add your name to our mailing list. Occasionally, we 
-
 may also share your name with select companies whose services or products 
-
 are similar to Pendleton's. If you do not want to receive our catalog by mail or do 
-
 not want your name shared with other companies, just let us know by calling 
+1-800-649-1512 or faxing us at 503-535-5502, or <a href="mailto:pendletoncatalog@penwool.com?subject=Do Not Share"><u>send us an e-mail</u></a>.
+<br><br>
 
-1-800-649-1512 or faxing us at 503-535-5502, or <a href="mailto:pendletoncatalog@penwool.com?subject=Do Not Share"><u>send us an e-mail</u></a>.<br><br>
- 
 <b>Phone Number</b><br>
 We ask for your phone number on the order form in the event we need to 
-
 contact you regarding your order. We will not otherwise call you, and we will not 
+share your phone number with any other companies.
+<br><br>
 
-share your phone number with any other companies.<br><br>
- 
 <b>Credit Card Information</b><br>
 To purchase from the Pendleton website, you will need to give us a credit card 
-
 number. This information is kept encrypted during your order to ensure secure purchases. <br><br>
  
 <b>E-Mail Address</b><br>
 If you would like to receive e-mail on what's new at the Pendleton site, fill out 
-
 our e-mail registration page, or give us your e-mail address at checkout, and we 
-
 will add you to our mailing list. If you subscribe to Pendleton's e-mail list, we will 
-
 send you periodic updates and news about our website. We will also use the 
-
 e-mail address you provide on your order to send you website updates. Please 
-
 be assured that the e-mail address you provide to Pendleton is for internal use 
-
 only.<br><br>
 
 If you decide you would like to be removed from this service, you may follow the 
-
 instructions on the messages you are sent, call us at 1-800-649-1512, send a 
-
-fax to 503-535-5502, or <a href="mailto:pendletoncatalog@penwool.com?subject=Do Not &#10;&#10;E-mail"><u>send us an e-mail</u></a>.<br><br>
+fax to 503-535-5502, or <a href="mailto:pendletoncatalog@penwool.com?subject=Do Not &#10;E-mail"><u>send us an e-mail</u></a>.
+<br><br>
 
 <b>Gift Messages:</b><br>
 You may choose to include a gift message with your online purchase.  We will 
-
 include the note when we deliver the gift to the recipient address you provide.  
-
 We will not otherwise disclose the note to anyone.<br><br>
 
 <b>Questions and Comments:</b><br>
 We want to hear from you -- your comments, suggestions, questions. Every 
-
 message is read and a response sent as quickly as possible if requested. The 
-
 information you send us is used to respond to your questions and comments 
-
 only. You may send your comments, suggestions or questions to Pendleton 
-
-Woolen Mills Customer Service Dept., P.O. Box 3030, Portland, OR 97208, or <a href="mailto:pendletoncatalog@penwool.com?subject=Questions and &#10;&#10;Comments"><u>send an e-mail to our Customer Service Department</u></a>.<br><br>
+Woolen Mills Customer Service Dept., P.O. Box 3030, Portland, OR 97208, or <a href="mailto:pendletoncatalog@penwool.com?subject=Questions and &#10;Comments"><u>send an e-mail to our Customer Service Department</u></a>.<br><br>
 
 <b>Cookies:</b><br>
 Pendleton may also use "cookies" or other means to passively collect 
-
 information about your use of our website. A cookie is a piece of data stored on 
-
-your computer that lets your web browser talk with Pendleton's web server. It 
-
-saves you from retyping your user name and password every time you use our 
-
+your computer that lets your web browser talk with Pendleton's web server. For example, cookies 
+save you from retyping your user name and password every time you use our 
 secure checkout.  If you are shopping on the Pendleton site and are having 
-
 difficulty completing your order, please check the privacy settings in your 
-
 browser. If you have your settings set to not accept cookies, you will not be 
-
 able to purchase from the Pendleton site.  Pendleton may also use "cookies" 
-
 provided by our (agent, third party agency, provider) or other means to passively 
-
 collect information about your use of our website.
 <br><br>
 
+<b>Third Party Vendors:</b><br>
+We may also from time to time contract with third party vendors to serve ads to our customers on our behalf across the Internet or to send our catalogs to customers whom we think may be interested in our products or services. To do this, the vendors will collect anonymous information about your visits to our Web site and your interaction with our products and services. This anonymous information is collected through the use of a cookie or pixel tag – industry standard technology used by most major Web sites. No personally identifiable information is collected in this process. Our vendors may also pool the anonymous information that they collect with other sources of information not collected during your visit to our website, which may include your name and mailing address, for purposes of determining whether you might be interested in receiving a catalog. If you do not wish for cookies or pixel tags to be placed on your computer, most commercially available web browsers permit you to prevent that from taking place. 
+<br><br>
 
 <b>Children:</b><br>
 The Pendleton website is intended only for those aged 13 and older. If you are 
-
 under 13, you may not register or submit personally identifiable information on, 
-
 to or through the site. Pendleton does not collect personally identifiable 
-
 information from any person Pendleton knows to be under 13.<br><br>
 
 <b>Opting Out:</b><br>
 If you do not wish to receive our printed catalog, if you do not wish to receive 
-
 promotional e-mail from Pendleton, or if you do not wish your name to be shared 
-
-with third parties for marketing purposes, please contact us via e-mail at <a href="mailto:pendletoncatalog@penwool.com?subject=Opt &#10;&#10;Out"><u>pendletoncatalog@penwool.com</u></a>.<br><br>
+with third parties for marketing purposes, please contact us via e-mail at <a href="mailto:pendletoncatalog@penwool.com?subject=Opt &#10;Out"><u>pendletoncatalog@penwool.com</u></a>.<br><br>
 
 <b>Security:</b><br>
 Pendleton takes care to protect the security of your personal information, 
-
 including your credit card information, from loss, misuse, unauthorized access 
-
 or disclosure.  However, transmissions to the website may be intercepted and 
-
 read by others and Pendleton cannot be responsible for any such 
-
 interception.<br><br>
 
 We use Secure Sockets Layer (SSL) technology to protect the security of your 
-
 personal on-line order information. To check the security of your connection to 
-
 our website, look in the lower right-hand corner of your browser window after 
-
 entering our checkout section. If you see an unbroken key or a closed lock 
-
 (depending on your browser), then SSL is active. You can also double-check 
-
 you are in a secure shopping environment by looking at the URL line of your 
-
 browser. When you are using a secure server, the first characters of the site 
-
 address will change from "http" to "https." If you cannot access the secure 
-
 server for any reason, please call and place your order by phone at 
-
 1-800-649-1512. <br>
+
 <script src="https://seal.verisign.com/getseal?host_name=www.pendleton-usa.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script>
 <br>
-Effective March __ 2014
-</h4></div></div>
+Effective May __ 2016</h4></div></div>
 				</div>
             <div class="clr"><!-- --></div>
         </div>
@@ -1741,7 +1787,7 @@ Effective March __ 2014
                     <div class="footerPromo mobile">
                         </div>
                     <div class="inputWrap">
-                        <form action="http://ebm.e.penmills.com/r/regf2?a=0&amp;aid=2087237527&amp;n=2" method="POST" name="subscribeForm" target="_blank"><input type="hidden" name="form_state" value="subscribeForm"><input name="aid" type="hidden" value="2087237527" autofillparam="ON"><input name="n" type="hidden" value="2" autofillparam="ON"><input name="a" type="hidden" value="0" autofillparam="ON"><input name="SOURCE" type="hidden" value="OPT-IN" autofillparam="ON"><input name="DATE_ADDED_TO_LIST" type="hidden" value="08-05-2016" autofillparam="ON"><input id="userEmail" name="EMAIL" type="hidden" value="" autofillparam="ON"><input id="signUpEntry" type="email" name="userEmail" value="Your Email" onfocus="doSignUpFocus(this)" onblur="doSignUpBlur(this)" size="15" maxlength="40">
+                        <form action="http://ebm.e.penmills.com/r/regf2?a=0&amp;aid=2087237527&amp;n=2" method="POST" name="subscribeForm" target="_blank"><input type="hidden" name="form_state" value="subscribeForm"><input name="aid" type="hidden" value="2087237527" autofillparam="ON"><input name="n" type="hidden" value="2" autofillparam="ON"><input name="a" type="hidden" value="0" autofillparam="ON"><input name="SOURCE" type="hidden" value="OPT-IN" autofillparam="ON"><input name="DATE_ADDED_TO_LIST" type="hidden" value="20-11-2016" autofillparam="ON"><input id="userEmail" name="EMAIL" type="hidden" value="" autofillparam="ON"><input id="signUpEntry" type="email" name="userEmail" value="Your Email" onfocus="doSignUpFocus(this)" onblur="doSignUpBlur(this)" size="15" maxlength="40">
                             <div class="searchBtn btn footer">
                                 <input value="" type="button" onclick="callCheetahPreferencesFromFooter();" id="signUpButt" class="fr">
                             </div>
@@ -1762,99 +1808,6 @@ Effective March __ 2014
                                 }
                             </script>
 
-                            <script type="text/javascript">
-
-                                function openEmailLayer() {
-                                    // Open email signup layer (first time visitors)
-                                    var $path = 'http://ebm.e.penmills.com/r/regf2?a=0&aid=2087237527&n=2';
-                                    if (location.protocol === 'https:') {
-                                        $path = 'https://ebm.e.penmills.com/r/regf2?a=0&aid=2087237527&n=2';
-                                    }
-                                    var $pathQueryString;
-                                    /* we need to cache bust GET requests for IE */
-                                    $pathQueryString = {};
-                                    $path.replace(
-                                        new RegExp("([^?=&]+)(=([^&]*))?", "g"),
-                                        function ($0, $1, $2, $3) {
-                                            $pathQueryString[$1] = $3;
-                                        }
-                                    );
-
-                                   $('#colorbox').addClass('scrolling closeBtn');
-                                   //  $('#colorbox').addClass('closeBtn noResize emailSignup');
-
-                                   // Resizing
-                                   if ( $('body').hasClass('desktop') ){
-                                        var windowWidth = $(window).width();
-                                        var resizeWidth;
-                                        if ( (windowWidth * .90) > 700 ){
-                                            resizeWidth = 700; // Max-width requested by Pendleton
-                                        } else {
-                                            resizeWidth = '90%';
-                                        }
-                                    }
-                                    var width= '600px';
-                                    if ($('body').hasClass('mobile')) {
-                                        width = '325px';
-                                    }
-
-                                    var iframeChoice = true;
-                                    var scrollingOption = true;
-                                    $.colorbox({
-                                        iframe: iframeChoice,
-                                        scrolling: scrollingOption,
-                                        href: $path,
-                                        data: $.extend($pathQueryString, {
-                                          time: +new Date().getTime()
-                                        }),
-                                        width: width,
-                                        height: '460px',
-                                        opacity: 0.4,
-                                        onComplete: function() {
-                                            $.colorbox.resize({width:resizeWidth, height:460, scrolling: scrollingOption});
-                                            $('#cboxClose').css({'display':'block !important'});
-                                        }
-                                    });
-                                    return false;
-                                };
-
-                                $(function(){
-
-                                    /* -- First time visit email layer -- */
-                                    function setCookie( name, value, expryDays ){
-                                        var expryDate = new Date ( 2022, 12, 31 );
-                                        expryDate.setDate(expryDate.getDate() + expryDays);
-                                        var expires = "; expires=" + expryDate.toGMTString();
-                                        var domain = document.domain;
-                                        document.cookie = name + "=" + value + expires + "; path=/" + ";domain=" + domain;
-                                    }
-
-                                    function getCookie(name){
-                                        var nameEQ = name + "=";
-                                        var cArray = document.cookie.split(';');
-                                        for(var i=0;i < cArray.length;i++)
-                                        {
-                                            var c = cArray[i];
-                                            while (c.charAt(0)==' ') c = c.substring(1,c.length);
-                                            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-                                        }
-                                        return null;
-                                    }
-
-                                    function checkFirstTimeSubscribe(){
-                                        var subscribeCookie = getCookie("pend690em*l90");
-                                        if (subscribeCookie == null || subscribeCookie == "" )
-                                        {
-                                            setCookie("pend690em*l90", "pendletonFirstVisit", 120);
-                                            openEmailLayer();
-                                        }
-                                    }
-                                    checkFirstTimeSubscribe();
-
-                                    /* -- End of First time visit email layer -- */
-                            });
-
-                        </script>
                             </div>
                     </div>
             </div> </div><div class="socialLinkWrap">
@@ -1958,10 +1911,10 @@ div#socialIconsWrapper a {padding:0 2px;}
 </div>
 <div id="foot_mid_right">
 	<div class="inner">
-		<p>
-			<span class="callInfo">Call <b>1-800-649-1512</b> for questions related to an existing order</span>
-			<span class="callInfo last">Call <b>1-800-760-4844</b> for store locations and other inquiries</span>
-		</p>
+	<p>
+	<span class="callInfo">To <b>place an order 24/7</b> call 800-649-1512</span>
+	<span class="callInfo">For <b>Customer Service and order tracking</b> call 877-996-6599</span>		<span class="callInfo last">All <b>other inquiries</b> call 800-760-4844</span>
+	</p>
 	</div>
 </div></div></div>
     <div class="clear"><!-- --></div>
@@ -1973,14 +1926,31 @@ div#socialIconsWrapper a {padding:0 2px;}
 	<li>©2016 Pendleton Woolen Mills</li>
 </ul>
 <ul class="footBot second">
-	<li><a href="http://www.pendleton-usa.com/custserv/custserv.jsp?pageName=Privacy&amp;parentName=CustomerService">Privacy &amp; Security</a></li>
-	<li><a href="http://www.pendleton-usa.com/custserv/custserv.jsp?pageName=Terms">Terms of Use</a></li>
-    <li class="desktop tablet"><a href="http://www.pendleton-usa.com/custserv/custserv.jsp?pageName=Indian_Arts_And_Crafts_Act&amp;parentName=CustomerService">Indian Arts and Crafts Act</a></li>    
-	<li class="last"><a href="http://www.pendleton-usa.com/custserv/sitemap.jsp">Site Map</a></li>
+	<li><a href="/custserv/custserv.jsp?pageName=Privacy&amp;parentName=CustomerService">Privacy &amp; Security</a></li>
+	<li><a href="/custserv/custserv.jsp?pageName=Terms">Terms of Use</a></li>
+    <li class="desktop tablet"><a href="/custserv/custserv.jsp?pageName=Indian_Arts_And_Crafts_Act&amp;parentName=CustomerService">Indian Arts and Crafts Act</a></li>   
+    <li class="desktop tablet"><a href="/custserv/custserv.jsp?pageName=CA_in_Supply_Chains_Act&amp;parentName=CustomerService">CA Transparency in Supply Chains Act</a></li> 
+	<li class="last"><a href="/custserv/sitemap.jsp">Site Map</a></li>
 </ul>
 <ul class="footBot third mobile">
-	<li class="last"><a href="http://www.pendleton-usa.com/custserv/custserv.jsp?pageName=Indian_Arts_And_Crafts_Act&amp;parentName=CustomerService">Indian Arts and Crafts Act</a></li>
-</ul></div></div>
+	<li class="last"><a href="/custserv/custserv.jsp?pageName=Indian_Arts_And_Crafts_Act&amp;parentName=CustomerService">Indian Arts and Crafts Act</a></li>
+<ul class="footBot fourth mobile">
+                <li class="last"><a href="/custserv/custserv.jsp?pageName=CA_in_Supply_Chains_Act&amp;parentName=CustomerService">CA Transparency in Supply Chains Act</a></li> 
+</ul></ul></div><script type="text/javascript" charset="utf-8">
+        var ju_num="BEFA2F0B-31BD-461F-8E4E-3B80B8245B5F";
+        var asset_host=(("https:"==document.location.protocol)?"https":"http")+'://cdn.justuno.com/';
+        (function(){
+                var s=document.createElement('script');
+                s.type='text/javascript';
+                s.async=true;
+                s.src=asset_host+'coupon_code1.js';
+                var x=document.getElementsByTagName('script')[0];
+                x.parentNode.insertBefore(s,x);
+            }
+        )();
+    </script>
+
+</div>
 
 </div>
 
@@ -1989,7 +1959,7 @@ div#socialIconsWrapper a {padding:0 2px;}
 		<!-- BEGIN OMNITURE -->
         <!-- set tracking variables -->
    <script language="JavaScript" type="text/javascript">
-   s.server="192.168.191.102";
+   s.server="192.168.191.101";
    s.pageName = "";
    s.pageType = "";
    s.channel = "";
@@ -2067,7 +2037,7 @@ div#socialIconsWrapper a {padding:0 2px;}
         </script>
         <!-- SECUREDVISIT END -->
 
-    
+    <script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 
 <script type="text/javascript">
     var triggermail_email_address = 'null';
