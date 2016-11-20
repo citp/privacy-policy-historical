@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationsphotolab.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603205520id_/http%3A//www.nationsphotolab.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationsphotolab.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120034943id_/http%3A//www.nationsphotolab.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Nations Photo Lab Privacy Policy
 
@@ -30,4 +30,4 @@ We use a secure server (SSL) to encrypt your personal financial information. We 
 
 Our websites may contain links to other websites for news and other information. Our Privacy Policy only applies to the website of Nations Photo Lab, and we are not responsible for the privacy practices or the content of other websites which are linked to or integrated with Nations Photo Lab. You should check the privacy policies of those sites before providing your personal information to them. See our Terms and Conditions for additional information.
 
-If you have questions about this Privacy Policy, you can contact us at 1-888-507-5755 or email us at [info@nationsphotolab.com](mailto:info@nationsphotolab.com).
+If you have questions about this Privacy Policy, you can contact us at 1-888-507-5755 or contact us [here](https://web.archive.org/contactus.aspx).
