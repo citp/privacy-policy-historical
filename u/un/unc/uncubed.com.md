@@ -1,49 +1,47 @@
-> *The following text is extracted and transformed from the uncubed.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408180456id_/http%3A//uncubed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uncubed.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120204448id_/http%3A//uncubed.com/learn/privacy) for the most accurate reproduction.*
 
-# Privacy - Uncubed
+# Privacy Policy | Uncubed
 
-Parrut, Inc. (the “Company”) takes very seriously the private nature of your personal information. This Privacy Policy describes how we treat the information we collect when you visit our website and/or register for our daily email. Please read this notice carefully.
+This Privacy Policy governs the manner in which the website collects, uses, maintains and discloses information collected from users ('User', 'you') of the website ('Uncubed.com', 'Site'). This privacy policy applies to the Site and all products and services offered by Uncubed ('Uncubed', 'we', 'us', 'our'). 
 
-##### Personal Information
+## Personal identification information
 
-In order to supply you with our daily email, we need your email address. Similarly, in order to supply you with text-messaging services, we need your phone number and your provider information. So that we may provide you with additional services, we may also request your name, geographical coordinates, and telephone number. The Company does not collect any other personal information that you do not expressly provide. We will never sell, rent, or share your personal information, including your email address, with any third parties for marketing purposes without your express permission. The Company may share your personal information for the purpose of delivering email to you or as required by law.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit the Site, register on the Site, fill out their profile on the Site, enroll in a class on the Site, subscribe to one of our newsletters, and in connection with other activities, services, features or resources we make available on our Site. We may collect information about what content you view on the Site. Users may be asked for their email address, first and last name, and other information. Users may, however, visit our Site anonymously. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. 
 
-##### Non-Personal Information
+## Non-personal identification information
 
-The Company may also request non-personally identifiable information, such as annual income, buying preferences, or age, also known as demographic and profile data. Though this information is optional, we may use it to improve our site and/or tailor your experience on our site, showing you content that we think you might be interested in and displaying content according to your preferences. We may also share this information with others, such as advertisers interested in advertising in the Company email or on the site, in aggregate, anonymous form, which means that the information will not contain any personally identifiable information about you or any other person.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. 
 
-##### Usage Information
+## Web browser cookies
 
-In addition to collecting personal and non-personal information, the Company may also collect non-personal, aggregated information about subscribers’ use of the Company emails and the website. This information is not personally identifiable and will be used only to find out how subscribers use our service and site. For example, this information will tell us how much time users spend on the Company site, from which sites subscribers came, and to what sites subscribers go.
+Our Site may use 'cookies' to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. 
 
-##### Review and Access
+## How we use collected information
 
-Upon your request, we will provide you with a summary of the information we collect about you. You will have an opportunity to correct, update, or modify this information.
+We use the information we collect in the following ways: 
 
-##### Choice/Opt Out
+We use the information we collect about you to provide our services, to build and improve our services, and to protect against abuse. 
 
-If we ever send you information by email concerning new products or services that you did not expressly request, we will provide you with an email address by which you may request no future notices.
+We use information you provide us to respond to your customer service requests and support needs and to improve the way we handle support requests in general. 
 
-##### Tracking
+We use information about the content you view to personalize the user experience of the Site for you and to evaluate and improve the quality of content we provide. We may share information about the Users who consume content that features our partner organizations with the organizations who are featured in that content. 
 
-Like most sites, the Company makes use of browser cookies. Cookies are small text files placed on your computer’s hard disk by our server. They allow us to quickly check your status as a subscriber and facilitate access to your preferences. The Company will never use cookies to retrieve information from a computer that is unrelated to our site or services.
+If you apply to a job through our products or services we will share information about you with the company to which you are applying as part of the application process. 
 
-##### Third-Party Cookies
+If you subscribe to one of our mailing lists, you will receive emails that may include news, updates, related product or service information, etc. If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or you may contact us via our Site. 
 
-In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique cookie on your browser.
+## How we protect your information
 
-##### Links to Other Sites
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of User information stored on our Site. However, we cannot guarantee the security of User information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of User information. 
 
-As part of the service, the Company may create links allowing you to access third-party sites. The Company is not responsible for the content that appears on these sites and does not endorse these sites. Please consult the sites’ individual privacy policies in order to determine how they treat user information.
+## Third party websites
 
-##### Security
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies. 
 
-All information described above is stored on restricted database servers.
+## Protecting Children's Privacy
 
-##### Modification to This Policy
+We strongly believe in protecting the privacy of children. In line with this belief, we do not knowingly collect or maintain Personally Identifiable Information on our Site from persons under 13 years of age, and no part of our Site is directed to persons under 13 years of age. If you are under 13 years of age, then please do not use or access this Site at any time or in any manner. 
 
-The Company may change this policy, and we’ll post any changes here.
+## Changes to this privacy policy
 
-##### Contact Us
-
-If you have any questions about this policy or our site in general, please contact us.
+We may, at our discretion, update this privacy policy from time to time. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
