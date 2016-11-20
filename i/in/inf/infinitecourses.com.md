@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infinitecourses.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608000852id_/http%3A//www.infinitecourses.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infinitecourses.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120065628id_/http%3A//www.infinitecourses.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Infinite courses: Privacy Policy-Study in India, Higher Education in India
 
