@@ -1,174 +1,276 @@
-> *The following text is extracted and transformed from the imagearn.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815181509id_/http%3A//imagearn.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagearn.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120085450id_/http%3A//imagearn.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Image Earn
 
-**Imagearn.com Privacy Policy**
+**Imagearn.com  
+Privacy Policy**
 
-**Created: May 16, 2015**
+**Last Updated: May 2, 2016**
 
-**Last Updated: May 16, 2015**
+Ristorian Limited, a British Virgin Islands corporation (the “ _ **Company**_ ”), respects your privacy and is committed to protecting it through this privacy policy (the “ _ **policy**_ ”). This policy describes the types of information the Company may collect from you or that you may provide when you visit the website located at [www.imagearn.com](http://www.imagearn.com/) (the “ _ **Website**_ ”) and the Company’s practices for collecting, using, keeping, protecting, and disclosing that information. 
 
-Welcome to Imagearn.com, an adult entertainment website. Because your privacy is important to us, we have developed this privacy policy. It describes what we will and won’t do with personal information you give us when accessing this Website, including any mobile versions of this Website and access through mobile applications. This privacy policy is in addition to the terms of use, which supplement this privacy policy. That is, all of the provisions in the terms, including disclaimers, limitations on liability, exclusive forum for resolving disputes, notices, and arbitration, all apply to this privacy policy. If you do not agree with anything contained in this privacy policy, please stop using the Website. 
+This policy applies to information the Company collects:
 
-This privacy policy applies only to this Website (desktop or mobile) and any mobile applications that we have authored to access the content found on this Website. It does not apply to any third-party website or service linked to this Website, or recommended or referred by this Website or by its staff. And it does not apply to any other website or online service operated by us or to any of our offline activities. 
+  * On the Website (including desktop and mobile versions). 
+  * In email, text, and other electronic messages between you and the Company. 
+  * When you interact with the Company’s advertising and applications on third-party websites and services, if those applications or advertising include links to this policy. 
+  * When you interact with the Website through third-party social media platforms. 
 
-**Minors Not Eligible to Use the Website.** This Website is not intended for minors. The Website expressly and strictly limits registration and viewing privileges to adults’ 18-years old or over and having reached the age of majority in their community and country. We strictly forbid all persons who do not meet these age requirements from accessing or viewing the contents of the Website. We do not knowingly collect any personal information from minors and minors may not lawfully visit the Website or use any of its services. 
 
-**Section 230(d) Notice:** Under 47 U.S.C. § 230(d), we hereby notify you that parental control protections (such as computer hardware, software, or filtering services) are commercially available that may assist in limiting access to material that is harmful to minors. Information regarding providers of these protections may be found on the Internet by searching “parental control protection” or similar terms. If minors have access to your computer, please restrain their access to sexually explicit material by using any of the following products provided for informational purposes only and not endorsed by us: [CYBERsitter™](http://www.cybersitter.com/) | [Net Nanny®](http://www.netnanny.com/) | [CyberPatrol](http://www.cyberpatrol.com/) | [ASACP](http://www.asacp.org/).
 
-  1. **What kind of information do we collect?**
+It does not apply to information collected by:
 
+  * the Company offline or through any other means, including on any other website operated by the Company or any third party (including the Company’s affiliates and subsidiaries); or 
+  * any third party (including the Company’s affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from (or on) the Website. 
 
 
 
-_**Registration and account information.**_ On this Website, you may be able to register, order products or services, read user reviews/comments, vote in polls, rate products or services, submit content, or otherwise express an opinion, subscribe to services such as an electronic newsletter, or participate in online forums or communities. While using this Website, we may ask you to create an account or complete an application by providing us with personally identifiable information that we may use to contact or identify you, as well as administer your account. The types of personally identifiable information that you provide as part of your account may include: name, address, email address, telephone number, fax number, credit card number and billing information, and other information that you provide to us. You may also provide us information about your interests and activities, your gender and age, and other demographic information such as your hometown and your username. 
+Please read this policy carefully to understand the Company’s policies and practices regarding your information and how the Company will treat it. If you do not agree with the Company’s policies and practices, your choice is not to use the Website. **By accessing or using the Website, you agree to this policy and consent to the Company’s collection, use, disclosure, retention, and protection of your personal information as described in this policy.** The Company may change this policy on one or more occasions. The Company will consider your continued use of the Website after the Company makes changes as your acceptance of the changes, so please check this policy frequently for updates. 
 
-_**Information about others.**_ We may allow you to submit information about other people. For example, you might submit a person’s name and email address to share content or recommendations. The types of personally identifiable information that we may collect about other people as part of this process includes the recipient’s name, address, email address, telephone number, and information about the recipient’s interest in and use of various content, products, programs, and services.
+  1. **Are minors welcome?**
 
-_**Inviting friends.**_ We may allow you to invite friends to join and to connect with you through social media features. Inviting friends is optional. If you want to invite friends, you may provide their contact information or may enter your login credentials to import email addresses from your address book from other websites that support this functionality. You select the friends you want to invite to share in this experience.
 
-_**Information from other sources.**_ **** On one or more occasions, we may combine information we receive online with outside records and use the information according to this privacy policy to do things like enhance the Website’s ability to market to you products or services that may be of interest to you.
 
-_**Social media.**_ You can also engage with the Website’s content and other offerings, such as videos and applications, on or through third-party social media websites. When you link your account or engage with content on or through third-party social media websites, services, plugins, or applications, you may allow us to have ongoing access to certain information from your social media account. We may also receive nonpersonally identifiable information from your interaction with the Website’s content, including content viewed, content preferences, and information about advertisements within the content you have been shown or may have clicked on. 
 
-When you provide information to the Website from your social media account, it can help enable us to do things like: (1) give you exclusive content; (2) personalize your online experience with us within and outside this Website; and (3) contact you through the social media websites or directly with the latest news, special offerings, and rewards. By providing this information, you consent to the use of the information according to this privacy policy.
+The Website is not intended for persons under 18-years old. You will only access the Website or register if (1) you are at least 18-years old and (2) have reached the age of majority where you live. The Company prohibits all persons who do not meet the age requirements from accessing the Website. Minors must not access the Website or use its services. 
 
-If you post information or content, such as by posting photos, videos, commenting on a blog, or participating in online forums or communities at this Website, or when you interact with this Website through social media websites, plugins, or other applications, depending on your privacy settings, this information may become public on the Internet. You acknowledge that we cannot prevent further use of this information once it becomes public on the Internet. You can control what data you share through privacy settings available on some social media websites. For more information about how you can customize your privacy settings and how third-party social media websites handle your personally identifiable information, please refer to their privacy help guides, privacy policies, and terms. You assume all responsibility for any loss of privacy or other harm resulting from your voluntary disclosure of personally identifying information.
+The Company does not knowingly collect any information about children, minors, or anyone under the age of majority. Nor does the Company knowingly market to children, minors, or anyone under 18-years old. If you are under 18-years old, you must not submit information to the Company and must leave the Website. If the Company becomes aware that a child, minor, or anyone under 18-years old has registered with the Website and provided the Company with personal information, the Company will take steps to cancel that account. If the Company cancels your account because you are under 18-years old, the Company may keep your email and IP address to make sure that you do not try to get around the rules by creating a new account. 
 
-_**Technical and usage information.**_ **** We also collect certain nonpersonally identifiable information when you use this Website. For example, we collect information on the type of browser you are using, the type of operating system you are using, the domain name of your Internet service provider, IP address, and certain usage information including the locations of the webpages that you viewed right before arriving at, while navigating, and immediately after leaving the Website.
+**Legal Notice:** **** In accordance with 47 U.S.C. § 230(d), you are notified that parental control protections (including computer hardware, software, or filtering services) are commercially available that may assist in limiting access to material that is harmful to minors. You may find information about providers of these protections on the Internet by searching “parental control protection” or similar terms. If minors have access to your computer, please restrain their access to sexually explicit material by using any of the following products, which the Company provides for informational purposes only and does not endorse: [CYBERsitter™](http://www.cybersitter.com/) | [Net Nanny®](http://www.netnanny.com/) | [CyberPatrol](http://www.cyberpatrol.com/) | [ASACP](http://www.asacp.org/).
 
-_**Information collected from mobile devices.**_ If you access this Website through a mobile device (e.g., smartphone, tablet, etc.), we may also collect your unique device identifier and mobile device IP address, as well as information about your mobile device’s operating system, mobile carrier, mobile Internet browsers, your precise geographic location information, and other information described in this privacy policy. If you do not want your location known, you can turn off location services on your mobile device by going to “(1) settings, (2) location services, (3) off” for iOS devices; and “(1) profile, (2) privacy, (3) on” for Android devices.
+  2. **What types of information does the Company collect about you and how is it collected?**
 
-_**DMCA infringement notices, notices of violations of terms, and other communications directed to us**_. By submitting a copyright infringement notice or other communication (including communications about content stored on or transmitted through the Website), you consent to have these communications forwarded to the person or entity who stored, transmitted, or linked to the content addressed by your communication, in order to facilitate a prompt resolution. For notices of violations of terms or other communications (but not DMCA infringement notices), on request we will edit out your name and contact information. However, we will forward DMCA infringement notices (including any personally identifying information contained in the notices) as submitted to us without any deletions. 
 
-_**Providing requested information.**_ **** In some cases, only persons who provide us with the requested personally identifiable information will be able to order products and services, or otherwise participate in the Website’s activities and offerings.
 
-  2. **Who sees your personal information?**
 
+The Company may collect several types of information from and about users of the Website, including information:
 
+  * by which you may be personally identified, including your username, email address, any other identifier by which you may be contacted online or offline, or any other information that the Company collects that is defined as personal or personally identifiable information under law (“ _ **personal information**_ ”); 
+  * that is about you but individually does not identify you, including your gender, location, or any other optional information you provide about yourself; or 
+  * about your Internet connection, the equipment you use to access the Website, and usage details. 
 
 
-_**Legal and law enforcement purposes.**_ We may disclose personally identifiable information in response to legal process, including court orders and subpoenas, or in response to a law enforcement agency's request. We may also disclose your information to third parties for fraud scoring, detection, and prevention activities. Finally, we may disclose your information if necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of another person, violations of the terms or other policies, to protect the Website’s rights and the rights of others, or as otherwise required by law. _ ****_
 
-_**Change of control.**_ We may transfer information about you as part of substantial corporate transactions, such as the sale of this Website, a divesture, merger, consolidation, or asset sale, or bankruptcy.
+The Company collects this information:
 
-_**Service providers.**_ We may share your personally identifiable information with our agents and contractors to help carry out the services they are performing for us.
+  * Directly from you when you provide it to the Company. 
+  * Automatically as you navigate through the Website. Information collected automatically may include usage details, IP addresses, and information collected through cookies, web beacons, and other tracking technologies. 
+  * From third parties, for example, the Company’s business partners. 
 
-_**Affiliates, business partners, and other third parties.**_ We may share your personally identifiable information to companies whose practices are not subject to this privacy policy. For example, we may share the information we collect with our affiliates to provide, improve, and communicate with you about their own products and services.
 
-We may also share your information with business partners and third parties—e.g., other marketers, magazine publishers, retailers, participatory databases, and nonprofit organizations—that want to market products or services to you. If we share personally identifiable information with unaffiliated third parties for their own marketing purposes, we will provide you with an opportunity to opt-out or block these uses.
 
-_**Linked websites.**_ This Website contains links to other websites whose information practices may differ from ours. You should consult these other websites’ privacy policies before submitting any information to them, as we have no control over information submitted to or collected by these third parties.
+_**Information You Provide to the Company**_
 
-_**Sponsors and copromotions.**_ We sometimes may offer content or programs that are sponsored by or cobranded with identified third parties. Because of these relationships, these third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the activity. We have no control over these third parties’ use of this information. The Website will try to notify you at the time of requesting personally identifiable information if these third parties will obtain this information.
+The information the Company collects on or through the Website may include:
 
-_**Advertisement servers.**_ On this Website, third parties may present or serve advertisements, provide us with data collection, reporting, ad response measurement, and website analytics, as well as assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit, or set their own cookies. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this privacy policy. They may also obtain information about other applications that you have downloaded to your mobile device, the mobile websites you visit, and other information about you or your device in order to help analyze and serve anonymous targeted advertising on the Website and elsewhere. 
+  * Information that you provide by filing in forms on the Website. This includes information provided at the time signing up for an account or requesting further services. The Company may also ask you for information when you report a problem with the Website or a service. 
+  * Records and copies of your correspondence (including email addresses), if you contact the Company. 
+  * Your responses to surveys that the Company might ask you to complete for research purposes. 
+  * Details of transactions you carry out through the Website and of the fulfillment of your requests. You may be required to provide financial information before placing an order through the Website. 
+  * Your search queries on the Website. 
 
-When using a mobile application, you may receive tailored in-application advertisements. Each operating system, Android for Android devices, iOS for Apple devices, and Windows for Microsoft devices provides its own instructions on how to prevent the delivery of tailored in-application advertisements. You should review the support materials or the privacy settings for the respective operating systems in order to opt-out of tailored in-application advertisements. For any other devices or operating systems, please visit the privacy settings for the applicable device or contact the applicable platform operator.
 
-_**Aggregated or nonpersonal information**_. We may share your nonpersonally identifiable information we collect under any of the above circumstances. We may also share it with other companies and third parties to develop and deliver targeted advertising on this Website—including any mobile website or application—and on websites or applications of third parties, and to analyze and report on the advertising you view. We may combine nonpersonally identifiable information we collect with additional nonpersonally identifiable information collected from other sources.
 
-Any third party with whom we are allowed to share your personal information is authorized to use your personal information according to our contractual arrangements with those third parties and according to their own privacy policies, over which we have no control. **You agree that we are not responsible or liable for any of their actions or omissions regarding your personal information**.
+You also may provide information to be published or displayed (“ _ **posted**_ ”) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, “ _ **user contributions**_ ”). Your user contributions are posted on the Website and transmitted to others at your own risk. Although you may set certain privacy settings for this information by logging into your account, please be aware that no security measures are perfect or impenetrable. Additionally, the Company cannot control the actions of other users of the Website with whom you may choose to share your user contributions. Thus, the Company cannot and does not guarantee that your user contributions will not be viewed by unauthorized persons.
 
-  3. **How do we use your personal information?**
+_**Information the Company Collects through Automatic Data Collection Technologies**_
 
+As you navigate through and interact with the Website, the Company may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including:
 
+  * Details of your visits to the Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the Website. 
+  * Information about your computer and Internet connection, including your IP address, operating system, and browser type. 
+  * Information about your mobile device and Internet connection, including the device’s unique device identifier, IP address, operating system, browser type, mobile network information, and the device’s telephone number. 
 
 
-_**Providing products and services.**_ We use the information we collect about you: (1) to fulfill your requests for products, programs, and services; (2) to respond to your inquiries about offerings; (3) to provide, personalize, and improve offerings; and (4) to offer you other products, programs, or services from us and our affiliates, business partners, and selected third parties that we believe may be of interest to you. We may also use information that we collect about you to (1) perform research and analysis about your use of, or interest in, products, services, or content, or products, services, or content offered by others; or (2) develop and display content and advertising tailored to your interests on this Website and other websites, including providing advertisements to you when you visit other websites.
 
-We use the information we collect for online forums and communities to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, on one or more occasions, to offer you products, programs, or services.
+The Company also may use these technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking). 
 
-If you choose to submit content for publication, we may publish your username and other information you have provided to us on this Website, the Internet, or elsewhere. 
+The information the Company collects automatically is statistical data and does not include personal information, but the Company may keep it or associate it with personal information the Company collects in other ways or receive from third parties. It helps the Company to improve the Website and to deliver a better and more personalized service, including by allowing the Company to:
 
-_**Communications.**_ We use information about you to communicate with you, including: (1) to notify you when we make changes to the Website’s terms; (2) to fulfill a request by you for an online newsletter; (3) to confirm purchasers you have made through this Website; (4) to contact you about your account with us (including managing your account and providing you with customer support); or (5) to otherwise enforce or exercise any rights in the terms. If offered, you may also choose to receive push notifications from us on your mobile device. 
+  * Estimate the Website’s audience size and usage patterns. 
+  * Store information about your preferences, thus allowing the Company to customize the Website according to your individual interests. 
+  * Speed up your searches. 
+  * Recognize you when you return to the Website. 
 
-We use the information that you provide about others to allow us to send them invitations, gifts, cards, or other content on your behalf or through this Website. Occasionally, we may also use this information to offer products, programs, or services to them.
 
-_**Mobile device data usage.**_ When you access this Website on a mobile device, we may use the information collected for any purpose so long as it complies with this privacy policy.
 
-_**Use of nonpersonally identifiable information.**_ We use aggregate information about our users and nonpersonally identifiable information that we collect to improve the design, functionality, and content of this Website and to allow us to personalize your experience with this Website and its offerings. We use this information to (1) provide, maintain, personalize, protect, improve, and develop products, programs, and services and to operate the Website; (2) to analyze usage and performance of this Website (including to perform ad tracking and website or mobile application analytics); and (3) for us and our affiliates, business partners, and selected third parties to offer you products, programs, or services. 
+The technologies the Company uses for this automatic data collection may include:
 
-  4. **How do we use cookies and other technical information?**
+  * _**Cookies (or browser cookies)**_. _ ****_ A cookie is a small file placed on the hard drive of your computer. Your browser stores cookies in a manner associated with each website you visit. The Company uses cookies to enable its servers to recognize your browser and tells the Company how and when you visit the Website and use the services. You may refuse to accept browser cookies by activating the appropriate setting on your browser. But if you select this setting you may be unable to access certain parts of the Website. Unless you have adjusted your browser settings so that it will refuse cookies, the Company’s system will issue cookies when you direct your browser to the Website. If you want to learn more about cookies, visit [allaboutcookies.org](http://www.allaboutcookies.org/) or [youronlinechoices.eu](http://www.youronlinechoices.eu/). 
+  * _**Flash Cookies**_. Certain features of the Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on the Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, you can access your Flash management tools from Adobe’s [website](https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html). 
+  * _**Web Beacons**_. Pages of the Website (and the Company’s emails) may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages (or opened an email) and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). If you want to learn more about web beacons, visit [www.allaboutcookies.org/web-beacons/](http://www.allaboutcookies.org/web-beacons/). 
 
 
 
+The Company does not collect personal information automatically, but it may tie this information to personal information about you that the Company collects from other sources or you provide to the Company. 
 
-We, and our affiliates, business partners, and third-party service providers may send “cookies” to your computer or use similar technologies to enhance your online experience at this Website. “Cookies” are a string of information that a website stores on a user’s computer, and that the user’s browser provides to the website each time the user submits a query to the website. Cookies can identify you as a unique customer and store your personal preferences as well as technical information (including click through and click stream data). Cookies manage and measure the performance of advertisements displayed on or delivered by or through us or other networks or websites. Cookies can either be persistent—that is, they remain on your computer until you delete them—or temporary—that is, they last only until you close your browser. 
+_**Third-party Use of Cookies and Other Tracking Technologies**_
 
-When you login to this Website, we will record your user or member ID and the name associated with your user or member ID in the cookie file on your computer. We may also record your password in this cookie file, if you told us that you would like your password saved for automatic login. For security purposes, we encrypt account-related data that we store in these cookies. For services that do not require a user or member ID, the cookie will contain a unique identifier. We may use persistent tracking cookies on your mobile device, mainly for security protection purposes, such as to prevent phishers, scammers, unauthorized login attempts, and to help you access your hacked account. We may allow our service providers to serve cookies from this Website or application to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of this Website, its content, and advertising. ****
+Some content or applications, including advertisements, on the Website are served by third parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use the Website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
-This Website may also use locally stored objects (sometimes referred to as “Flash cookies”) to provide certain content, such as video on demand, video clips, or animation. Adobe’s Flash player and similar applications use this technology to remember settings, preferences, and usage similar to browser cookies. Flash cookies are not managed through your browser, but you can access your Flash management tools from [Adobe’s website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).
+The Company does not control third-party tracking technologies or how third parties’ use them. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 
-We may also use “Web beacons” that monitor your use of this Website. Web beacons (also known as clear gifs, pixel tags, or Web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users or to access cookies. Unlike cookies, which are stored on the user’s device, Web beacons are embedded invisibly on the webpages (or in email) and are about the size of the period at the end of this sentence. We use Web beacons to collect the following information: (1) the IP (Internet Protocol) address of the computer that downloaded the webpage on which the Web beacon appears; (2) the URL (Uniform Resource Locator) of the webpage on which the Web beacon appears; (3) the time the webpage containing the Web beacon was viewed; (4) the types of browser that fetched the Web beacon; and (5) the identification number of any cookie on the computer previously placed by that server. In addition, when corresponding with you through HTML capable email, Web beacons let us know whether you received and opened our email.
+_**Social Networks and Third-Party Plug-ins**_
 
-On their own, cookies or Web beacons do not contain or reveal any personally identifiable information. But if you choose to furnish personally identifiable information, this information can be linked to the data stored in the cookies/Web beacons.
+The Website may include plugins from social networks and other third parties. An example of a plugin is the Facebook® “Like” button. Where legally permitted, these plugins may communicate with and send information to the party that provided the plugin, even if you do not click on the plugin. This information may include your IP address, information about your browser and device, and the address of the webpage you are visiting on the Website. Loading, using, or clicking the plugins may also place, read, and transmit cookies. These cookies may contain a unique identifier the social network or third party assigns you. The loading, functionality, and your use of the plugins are governed by the privacy policy and terms of the party that provided the plugin.
 
-_**Managing cookies and Web beacons.**_ By accepting this privacy policy, you agree to our use of cookies and Web beacons as described in this privacy policy. You may adjust your browser to reject cookies from us or from any other website. Additionally, by setting your Web browser to display HTML emails as text only, you may be able to prevent the use of some Web beacons. Please consult the “Help” section of your browser for more information (for more information about HTTP cookies and how to disable them, or restrict the categories of cookies you wish to accept, you can consult the information at [www.allaboutcookies.org/manage-cookies/](http://www.allaboutcookies.org/manage-cookies/).) Please understand that certain areas of this Website can only be accessed in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices might prevent you from accessing some of the content or Website features. You assume all responsibility for any resulting loss of functionality because of disabling cookies or similar devices.
+  3. **How does the Company use your information?**
 
-  5. **How do you opt-out?**
 
 
 
+The Company may use information that it collects about you or that you provide to the Company, including any personal information:
 
-_**Marketing communications.**_ We provide you with an opportunity to express your preferences about receiving certain marketing communications from us or from unaffiliated third parties. If you ever decide in the future that you would like to update these preferences, (1) you may log into your account if you have created an account with us to adjust your settings, (2) you may follow the “unsubscribe” instructions provided in any marketing email you receive from us, or (3) you may send us an email at [admin@imagearn.com](mailto:admin@imagearn.com) and we will edit your preferences accordingly. If you previously chose to receive push notifications on your mobile device from us but no longer want to receive them, you can manage your preferences either through your device or app settings, depending on the type of device. Online opt-out requests are instant. However, we may continue to send you transactional emails, such as service announcements and administrative notices, without offering you the opportunity to opt-out of receiving them.
+  * To present the Website and its contents to you. 
+  * To provide you with information, products, or services that you request from the Company. 
+  * To fulfill any other purpose for which you provide it. 
+  * To provide you with notices about your account. 
+  * To carry out the Company’s obligations and enforce its rights arising from any contracts entered into between you and the Company. 
+  * To notify you about changes to the Website or any products or services the Company offers or provides through the Website. 
+  * To allow you to participate in any interactive features on the Website. 
+  * To monitor and analyze trends, usage, and activities in connection with the Website and for marketing or advertising purposes. 
+  * To investigate and prevent fraudulent transactions, unauthorized access to the Website, and other illegal activities. 
+  * To personalize the Website content, features, or advertisements. 
+  * In any other way the Company may describe when you provide the information. 
+  * For any other purpose with your consent. 
 
-_**Mobile applications.**_ If you no longer want to have the application collect information, you may uninstall the application by using the standard uninstall processes available on your mobile device or through the mobile application marketplace or network. If you no longer want to receive tailored in-application advertisements, each operating system—[Android for Android devices](http://www.google.com/intl/en/policies/technologies/ads/), [iOS for Apple devices](https://support.apple.com/en-us/HT202074), and [Windows for Microsoft devices](http://choice.microsoft.com/en-US/opt-out)—provides its own instructions on how to prevent the delivery of tailored in-application advertisements. You should review the support materials or the privacy settings for the respective operating systems in order to opt-out of tailored in-application advertisements. For any other devices or operating systems, please visit the privacy settings for the applicable device or contact the applicable platform operator. Please note that the effect of opting out of targeted advertising (mobile or otherwise) will be to prevent targeted advertising, but not to prevent you from seeing all advertisements, and information may still be collected for other purposes (such as research, online services analytics, or internal operations).
 
-  6. **Do you have any choices about what information you provide?**
 
+The Company may also use your information to contact you about the Company’s own and third parties’ goods and services that may be of interest to you. If you do not want the Company to use your information in this way, please send the Company an email at [privacy@imagearn.com](mailto:privacy@imagearn.com). For more information, see _**What choices do you have about how the Company uses and discloses your information**_. 
 
+The Company may use the information it has collected from you to allow the Company to display advertisements to its advertisers’ target audiences. Even though the Company does not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
 
+  4. **With whom does the Company share your information?**
 
-You can choose not to provide us with certain information, but that may result in you being unable to use certain features of this Website because that information may be required to register; purchase products or services; participate in a live interaction or promotion; ask a question; or initiate other transactions.
 
-  7. **How secure is your personal information?**
 
 
+The Company may disclose aggregated information about its users, and information that does not identify any individual, without restriction.
 
+The Company may disclose personal information that it collects or you provide as described in this policy:
 
-We take commercially reasonable administrative, physical, and electronic measures designed to safeguard and protect your information from unauthorized access or disclosure. This includes using Secure Sockets Layer (SSL) software, which encrypts the personally identifiable information you input, and storing your information in encrypted form behind a firewall designed to block access from outside our network.
+  * To the Company’s subsidiaries and affiliates. 
+  * To contractors, service providers, and other third parties the Company uses to support its business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which the Company discloses it to them. 
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of the Company’s assets, whether as a going concerning or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by the Company about the Website’s users is among the assets transferred. 
+  * To third parties to market their products or services to you if you have not opted out of these disclosures. The Company contractually requires these third parties to keep personal information confidential and use it only for the purposes for which the Company discloses it to them. For more information, see _**What choices do you have about how the Company uses and discloses your information**_. 
+  * To fulfill the purpose for which you provide it. 
+  * For any other purpose disclosed by the Company when you provide the information. 
+  * With your consent. 
 
-Although we use commercially reasonable efforts to safeguard the privacy of your information, transmissions on the Internet cannot be made 100% secure as recent cyber security breaches demonstrate. Moreover, we cannot assure you that your personally identifiable information that we collect will never be used or disclosed inconsistently with this privacy policy. We assume no responsibility or liability for disclosure of any of your information due to errors in transmission, unauthorized third-party access, or other causes beyond our reasonable control.
 
-  8. **What about other websites linked to this Website?**
 
+The Company may also disclose your personal information:
 
+  * To comply with any court order, law, or legal process, including to respond to any government or regulatory request. 
+  * To enforce or apply the terms of use and other agreements. 
+  * If the Company believes disclosure is necessary or appropriate to protect the rights, property, or safety of the Company, its customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction. 
 
 
-Third parties are under no obligation to comply with this privacy policy concerning personally identifiable information that you provide directly to those third parties or that those third parties collect for themselves. We neither own nor control the third-party websites accessible through this Website. Thus, this privacy policy does not apply to information provided to or gathered by third parties that operate them. We assume no responsibility for the content or the privacy policies of any other websites that may provide links to this Website or to whom we may provide links, or for the privacy policies of any of their advertisers. Before visiting a third-party website, whether by means of a link on this Website or otherwise, and before providing any personally identifiable information to any third party, you should inform yourself of the privacy policies and practices (if any) of the third party responsible for that website, and should take those steps necessary to, in your discretion, protect your privacy. 
+  5. **When you put information about yourself on the Website, what do the other users see?**
 
-  9. **What is “Do Not Track” and does the Website follow it?**
 
 
 
+Users get to see your username and any information you post on your profile. Any information you choose to provide should reflect how much you want other users to know about you. If you do not want other users to see your profile, you can mark your profile as private by [editing your preferences](http://imagearn.com/profile.php?o=edit_preferences) and checking the “Make my profile private” box.
 
-Do Not Track (“DNT”) is a privacy preference that you can set in your Web browser. DNT is a way for you to inform websites and services that you do not want certain information about your webpage visits collected over time and across websites or online services. We are committed to providing you with meaningful choices about the information we collect and that is why we provide you the ability to opt-out. However, we do not recognize or respond to any DNT signals as the Internet industry works toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT. 
+The Company recommends and encourages you (and all users) to think carefully about the information you disclose about yourself. The Company does not recommend that you put email addresses, URLs, phone numbers, full name, postal address, credit card details, national identity numbers, drivers’ license details, or other sensitive information in your profile, which is open to abuse and misuse. 
 
-  10. **Do California residents have special privacy rights?**
+Please be careful about posting sensitive details about yourself on your profile. While you may voluntarily provide this information to the Company when you create your profile, there is no requirement to do so. Please remember that photographs that you post on the Website may reveal these kinds of sensitive personal data. Where you do upload and choose to tell the Company sensitive information about yourself, you are expressly consenting to the Company processing your information and making this public to other users.
 
+When you post information about yourself, the amount of personal information you share is at your own risk. If you post anything that is inconsistent with the terms of use, the Company may terminate your account.
 
+  6. **What choices do you have about how the Company uses and discloses your information?**
 
 
-If you are a California resident, you have the right to receive (1) information identifying any third-party company to whom we may have disclosed, within the past calendar year, personal information concerning you and your family for our direct marketing purposes; and (2) a description of the categories of personal information disclosed. If you want to exercise this right, you must make a request in writing to us to obtain this information. We will not process your request unless it includes your full name, email address, postal address, the URL for the website you visited, and the subject lined labeled “Your California Privacy Rights.” Please email your request to [admin@imagearn.com](mailto:admin@imagearn.com). We will only honor one request per calendar year. 
 
-  11. **How do you update or correct your information?**
 
+The Company strives to provide you with choices about the personal information you provide to the Company. The Company has created mechanisms to provide you with the following control over your information:
 
+  * _**Tracking Technologies and Advertising**_. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s [website](https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html). To learn how you can manage your other cookies, visit [www.allaboutcookies.org/manage-cookies/](http://www.allaboutcookies.org/manage-cookies/). If you disable or refuse cookies, please note that some parts of the Website may then be inaccessible or not function properly. 
+  * _**Disclosure of Your Information for Third-Party Advertising**_. _ ****_ If you do not want the Company to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt out by sending the Company an email stating your request to [privacy@imagearn.com](mailto:privacy@imagearn.com). 
+  * _**Promotional Offers from the Company**_. If you do not want to have your email address used by the Company to promote its own or third parties’ products or services, you can opt out by sending the Company an email stating your request to [privacy@imagearn.com](mailto:privacy@imagearn.com). If the Company has sent you a promotional email, you may send the Company a return email asking to be omitted from future email distributions or click on the “unsubscribe” link at the bottom of the email. This opt out does not apply to information provided to the Company as a result of a purchase or other transactions. 
+  * _**Targeted Advertising**_. If you do not want the Company to use information that it collects or that you provide to it to deliver advertisements according to its advertisers’ target-audience preferences, you can opt out by sending the Company an email stating your request to [privacy@imagearn.com](mailto:privacy@imagearn.com). For this opt out to function, you must have your browser set to accept browser cookies. 
 
 
-To access the personally identifiable information that this Website collected about you, to correct factual errors in this information, or to update your information, please login to your account if you have created one with us or send an email to [admin@imagearn.com](mailto:admin@imagearn.com). To help protect your privacy and security, we will take commercially reasonable steps to help verify your identity before granting access or making corrections. If we have already provided certain information to third parties as described in this privacy policy, retention of that information will be subject to those third parties’ privacy policies.
 
-  12. **Can we change this privacy policy?**
+The Company does not control third parties’ collection or use of your information to serve interest-based advertising. But these third parties may provide you with ways to choose not to have your information collected or used in this way. 
 
+  7. **How do you access and correct your information?**
 
 
 
-We may amend this privacy policy, as we believe necessary or convenient to operate this Website. If we do make a change, we will use all commercially reasonable efforts to provide you with advance notice of any change by posting notice of the amended privacy policy on this Website at least 15 days before its effective date or by sending you an email message. Each version of this privacy policy will identify when we last amended it at the top of the webpage and we will keep prior versions of this privacy policy in an archive for your review (or we will otherwise maintain a copy offline and we will send it to you on request). Unless we obtain your express consent, the amended privacy policy will apply only to information collected after its effective date, and not to information collected under earlier privacy policies. We encourage you to check this webpage frequently for any changes to this privacy policy. If you do not agree to the amended privacy policy, please stop using this Website and delete any account you created with us. If we do not hear from you, your continued access to this Website after the amended privacy policy’s effective date will be deemed by us as your acceptance of the amended privacy policy, and thus the amended privacy policy will govern your access to or use of the Website after the effective date. 
 
-  13. **What if you have more questions or want to contact us?**
+You can review and change your personal information by logging into the Website and visiting your “My Profile” page and clicking “Edit Profile.” You may also send the Company an email at [privacy@imagearn.com](mailto:privacy@imagearn.com) to request access to, correct, or delete any personal information that you have provided to the Company. The Company cannot delete your personal information except by also deleting your account. The Company will not accommodate a request to change information if it believes the change would violate any law or legal requirement or cause the information to be incorrect.
 
+If you delete your user contributions from the Website, copies of your user contributions might remain viewable in cached and archived pages, or might have been copied or stored by other users of the Website. The Website’s terms of use govern proper access and use of information provided on the Website, including user contributions.
 
+  8. **How does the Company protect your personal information?**
 
 
-If you have any questions about this privacy policy, our practices, or your dealings with us, please email us at [admin@imagearn.com](mailto:admin@imagearn.com). **Please note that persons under 18-years old or the applicable age of majority are prohibited from accessing this Website, and we do not collect any personal information from persons under 18-years old or the applicable age of majority**.
+
+
+The Company has implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, change, and disclosure. All information you provide to the Company is stored on its secure servers behind firewalls. 
+
+The safety and security of your information also depends on you. Where the Company has given you (or where you have chosen) a password for access to certain parts of the Website, you are responsible for keeping this password confidential. The Company asks you not to share your password with anyone. In addition, the Company urges you to be careful about giving out information in public areas of the Website. The information you share in public areas may be viewed by any user of the Website. 
+
+**Warning:** The transmission of information over the Internet is not completely secure. Although the Company does its best to protect your personal information, the Company cannot guarantee the security of your personal information transmitted to the Website. Any transmission of personal information is at your own risk. The Company is not responsible for circumvention of any privacy settings or security measures contained on the Website.
+
+  9. **Where is your personal information kept?**
+
+
+
+
+This policy is intended to cover collection of information on or through the Website from residents of the Netherlands. If you are visiting the Website from outside the Netherlands, please be aware that your information may be transferred to, stored, and processed in the Netherlands where the Company’s servers are located and the Company’s central database is operated. The data protection and other laws of the Netherlands and other countries might not be as comprehensive as those in your country. Please be assured that the Company seeks to take reasonable steps to make sure that your privacy is protected. By using the Website, you acknowledge that your information may be transferred to the Company’s facilities and those third parties with whom the Company shares it as described in this policy. When you provide personal information to the Company through the Website, you consent to the processing of your data in, and the transfer of your data to, the Netherlands or any other country in which the Company or its affiliates, subsidiaries, or service providers host these services, including the United States.
+
+  10. **Do Not Track Policy**
+
+
+
+
+Do Not Track (“DNT”) is a privacy preference that you can set in your browser. DNT is a way for you to inform websites and services that you do not want certain information about your webpage visits collected over time and across websites or online services. The Company is committed to providing you with meaningful choices about the information it collects and that is why the Company provides you the ability to opt out. But the Company does not recognize or respond to any DNT signals as the Internet industry works toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT. For more information, visit [www.allaboutdnt.com](http://www.allaboutdnt.com/).
+
+  11. **Your California Privacy Rights**
+
+
+
+
+California Civil Code § 1798.83 permits users of the Website that are California residents to request certain information about the Company’s disclosure of personal information to third parties for their direct marketing purposes. To make this request, please send an email to [privacy@imagearn.com](mailto:privacy@imagearn.com). 
+
+Further, if you are a California resident and would like to opt out from the disclosure of your personal information to any third party for marketing purposes, please send an email to [privacy@imagearn.com](mailto:privacy@imagearn.com). Please be advised that if you opt out from permitting your personal information to be shared, you may still receive selected offers directly from the Company in accordance with California law. 
+
+  12. **Links to Other Websites**
+
+
+
+
+The Website contains links to other websites. Please be aware that the Company is not responsible for the content or privacy practices of those other websites. The Company encourages its customers to be aware when they leave the Website and to read the privacy statements of any other website that collects personally identifiable information.
+
+  13. **No Rights of Third Parties**
+
+
+
+
+This policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the Website.
+
+  14. **DMCA Takedown Requests**
+
+
+
+
+The Website complies with the Digital Millennium Copyright Act (DMCA). If you reasonably believe that your copyrighted work has been used or posted by a third party without your consent, you may follow the instructions [here](http://imagearn.com/dmca.php) on how to report it.
+
+By submitting a copyright infringement notice or other communication (including communications about content stored on or transmitted through the Website), you consent to have these communications forwarded to the person or entity who stored, transmitted, or linked to the content addressed by your communication, to facilitate a prompt resolution. The Company forwards DMCA infringement notices (including any personally identifying information contained in the notices) as submitted to the Company without any deletions.
+
+  15. **Changes to Privacy Policy**
+
+
+
+
+The Company will post any changes it makes to this policy on this page. If the Company makes material changes to how it treats your personal information, the Company will notify you by email to the email address identified in your account or through a notice on the Website homepage. This policy identifies when the Company last updated it at the top of the page. You are responsible for making sure the Company has an up-to-date active and deliverable email address for you, and for frequently visiting the Website and this policy to check for any changes. 
+
+  16. **Contact Information**
+
+
+
+
+To ask questions or comment about this policy and the Company’s privacy practices, contact the Company at [privacy@imagearn.com](mailto:privacy@imagearn.com). 
