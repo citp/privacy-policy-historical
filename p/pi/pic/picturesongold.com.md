@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picturesongold.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611110757id_/http%3A//www.picturesongold.com/service/PrivacyPolicy_p21.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picturesongold.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120173358id_/http%3A//www.picturesongold.com/service/PrivacyPolicy_p21.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,12 +7,11 @@
     * [Lockets](http://www.picturesongold.com/shop/locket-jewelry.html)
     * [Photo Engraved Jewelry](http://www.picturesongold.com/shop/photo-jewelry.html)
     * [Religious Jewelry](http://www.picturesongold.com/shop/religious-jewelry.html)
-    * [Sports & Number Jewelry](http://www.picturesongold.com/shop/sports-numbers-and-charms.html)
     * [Medical Id Jewelry](http://www.picturesongold.com/shop/medical-jewelry.html)
+    * [Sports & Number Jewelry](http://www.picturesongold.com/shop/sports-numbers-and-charms.html)
     * [Engravable Jewelry](http://www.picturesongold.com/shop/engraveable-jewelry.html)
     * [Thumbprint / Fingerprint Jewelry](http://www.picturesongold.com/shop/thumbprint-fingerprint-jewelry.html)
     * [Police & Firefighter Jewelry](http://www.picturesongold.com/shop/fraternal-jewelry.html)
-    * [Artwork Jewelry](http://www.picturesongold.com/shop/childrens-drawings-pendants.html)
     * [Id Bracelets](http://www.picturesongold.com/shop/id-bracelets.html)
     * [Chains](http://www.picturesongold.com/shop/chains.html)
     * [Signet Rings](http://www.picturesongold.com/shop/signet-rings.html)
@@ -29,8 +28,10 @@
     * [Design Your Own Ring](http://www.picturesongold.com/shop/design-own-ring.html)
     * [The Talk - Home](http://www.picturesongold.com/shop/the-talk--direct.html)
     * [The Talk - Direct](http://www.picturesongold.com/shop/the-talk.html)
-    * [Specialty Jewelry](http://www.picturesongold.com/shop/specialty-jewelry.html)
+    * [Artwork Jewelry](http://www.picturesongold.com/shop/childrens-drawings-pendants.html)
     * [Mother's Jewelry](http://www.picturesongold.com/shop/mothers-jewelry.html)
+    * [Logo & Corporate Jewelry](http://www.picturesongold.com/shop/logo-jewelry.html)
+    * [Specialty Jewelry](http://www.picturesongold.com/shop/specialty-jewelry.html)
 
 
 
