@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fantasyalarm.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215232624id_/http%3A//www.fantasyalarm.com/announce.php%3Ftype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyalarm.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120191410id_/https%3A//www.fantasyalarm.com/privacy) for the most accurate reproduction.*
 
-# Fantasy Alarm Privacy Policy
+# Privacy Policy - FantasyAlarm.com
 
 ## FA Media, LLC Privacy Policy
 
@@ -10,17 +10,35 @@ FA Media, LLC. ("FA") operates, and FantasyAlarm.com owns, the Internet Web site
 
 FA makes forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-###   **HOW FA USE THE INFORMATION IT COLLECTS?**
+###   **TERMS AND CONDITIONS FOR ALL FA PRODUCTS**
+
+All products and services provided on the FA website whether free or purchased are created with our best efforts for quality and timeliness. All products and services are provided "as-is". FA does not warranty any of the services or products and there is no guarantee for the delivery of any part of the product or service provided whether it is free or paid. By signing up for an account on the FA website you agree that FA Media LLC is not liable for any defects, lost profits, or any damages that may result from defects of any kind. Additionally, you agree that you are the sole owner of the e-mail address which you are registering. You agree that by registering with FA, you may receive messages from FA for third party products and services that are complimentary. We will not provide your e-mail address or information to anyone and your information will be protected by the Privacy Policy below. 
+
+###   **CANCELLATION POLICIES**
+
+#### Subscription Products 
+
+All subscription products purchased on the FA website can be cancelled at anytime. It is easy to cancel a subscription with FA. If you are on a desktop or laptop, make sure you are logged in, go to the FA homepage, click on Manage Account and then Manage Playbook. If you are on your phone or other mobile device, make sure you are logged in and click on Manage My Playbook Subscription. If at any time, you are not sure how to do anything on our site including cancellation of a subscription product or service, we have customer service on call for you at [support@fantasyalarm.com](mailto:support@fantasyalarm.com). Upon cancellation the account will remain active for 30 days from your last payment date. 
+
+#### Content Products & Services 
+
+All products and services provided on the FA website are created with our best efforts for quality and timeliness. FA sells content products and access to experts on the FA website. FA believes that our products have high value but will on a case-by-case basis determine whether a refund is appropriate for users who request a refund. To request a refund for a pay product or service, please write to [support@fantasyalarm.com](mailto:support@fantasyalarm.com). 
+
+#### FREE Products & Services 
+
+All products and services provided on the FA website are created with our best efforts for quality and timeliness. FA has FREE products such as our Lineup Generators and Forums where FA requires a registered account in order to save information on your behalf to make the products better for you and/or the community. If for some reason, you do not wish to be in our community any longer, you may simply request to have yourself removed from our system by writing to [support@fantasyalarm.com](mailto:support@fantasyalarm.com). We will remove you immediately. 
+
+###   **HOW FA USES THE INFORMATION IT COLLECTS?**
 
 #### E-mail & Text Notification
 
-We may use the information we collect to occasionally notify you about new services,  recommended services, special offers we think you'll find valuable and important functionality changes to the web site. If you would rather not receive this information, or would like to opt-out of any other information request or distribution, simply submit such a request to us at [info@fantasyalarm.com](mailto:info@fantasyalarm.com). Members may also receive electronic newsletters from FA and or its partners or paid advertisers.  If you would rather not receive any of these newsletters, you may click on the link at the end of the newsletter, or notify us at [info@fantasyalarm.com](mailto:info@fantasyalarm.com).  **FA will never  sell the email addresses or phone numbers of its users to third parties.**
+We may use the information we collect to occasionally notify you about new services,  recommended services, special offers we think you'll find valuable and important functionality changes to the web site. If you would rather not receive this information, or would like to opt-out of any other information request or distribution, simply submit such a request to us at [support@fantasyalarm.com](mailto:support@fantasyalarm.com). Members may also receive electronic newsletters from FA and or its partners or paid advertisers.  If you would rather not receive any of these newsletters, you may click on the link at the end of the newsletter, or notify us at [support@fantasyalarm.com](mailto:support@fantasyalarm.com).  **FA will never  sell the email addresses or phone numbers of its users to third parties.**
 
 #### Disclosure to Third Parties
 
 Subject to your express opt-in approval, we may share your personally identifiable information with third parties, including telemarketers and e-commerce partners, who assist FA. by providing services to users of FA.  We also may share your personally identifiable information at any time if compelled to do so in order to comply with any applicable law or valid legal process. 
 
-Should you change your mind about the information you've provided to us or should your information change, we have provided a way for you to correct, update or remove the personal information you gave us. You can do this simply by contacting us at [info@fantasyalarm.com](mailto:info@fantasyalarm.com)
+Should you change your mind about the information you've provided to us or should your information change, we have provided a way for you to correct, update or remove the personal information you gave us. You can do this simply by contacting us at [support@fantasyalarm.com](mailto:support@fantasyalarm.com).
 
 #### Collection of INFO by FA.
 
@@ -50,7 +68,7 @@ Except as described in this Privacy Policy, FA will not use the INFO you provide
 
 FA will only use the INFO you provide in a manner that is consistent with this Privacy Policy. If FA obtains INFO from a third party, such as a business partner, our use of that information is also governed by this Privacy Policy.
 
-If you have consented to receive promotional materials from FA, FA may periodically use your email address to send you notifications related to the Services. If you want to stop receiving promotional materials from FA, you can change your settings by visiting www.FantasyAlarm.com (must be logged in). You can also click the unsubscribe link at the bottom of each promotional email or email info@FantasyAlarm.com
+If you have consented to receive promotional materials from FA, FA may periodically use your email address to send you notifications related to the Services. If you want to stop receiving promotional materials from FA, you can change your settings by visiting www.FantasyAlarm.com (must be logged in). You can also click the unsubscribe link at the bottom of each promotional email or email [support@fantasyalarm.com](mailto:support@fantasyalarm.com).
 
 FA may share your INFO with companies that are affiliated with us, that is, are part of the News America Group of companies or with FA's co-branded partners. We will not share your credit card information with third parties except those FA uses to perform tasks (such as order fulfillment and payment processing) required to complete purchases you make through the Site. FA employees, agents and contractors must have a legitimate business reason to obtain access to your INFO. FA may share your INFO with outside contractors, agents, or sponsors who help us manage our information activities (i.e., message boards, sweepstakes administration, order fulfillment, statistical analyses, data processing), or with outside contractors, agents, or sponsors who help us with administration, judging and prize fulfillment aspects of contest, promotions, and sweepstakes. These outside contractors may only use your INFO to provide FA with a specific service and not for any other purpose without your consent. FA may also provide your INFO to a third party in those instances where you have chosen to receive certain information and have been notified that the fulfillment of such a request requires the sharing of your INFO.
 
@@ -68,4 +86,4 @@ FA uses commercially reasonable administrative, technical, personnel and physica
 
  Whenever possible, FA Members (people who have registered with FA) may review the INFO that they have provided to us. We will take reasonable steps to correct any INFO a Member informs us is incorrect. If you are a Member, you can view your INFO and Member preferences and profile by accessing www.FantasyAlarm.com (must be logged in).
 
- If you would like to communicate with us about this Privacy Policy or FA's collection and use of your INFO, to review or correct your INFO, or to stop all future communication from us, please contact FA at: info@FantasyAlarm.com
+ If you would like to communicate with us about this Privacy Policy or FA's collection and use of your INFO, to review or correct your INFO, or to stop all future communication from us, please contact FA at: [support@fantasyalarm.com](mailto:support@fantasyalarm.com).
