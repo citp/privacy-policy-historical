@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the wptouch.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620141656id_/http%3A//www.wptouch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wptouch.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120065432id_/http%3A//www.wptouch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WPtouch
 
 This privacy policy sets out how this website uses and protects any information that you give when you use this website.
 
-BraveNewCode is committed to ensuring that your privacy is protected. Should you be asked to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+We are committed to ensuring that your privacy is protected. Should you be asked to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-BraveNewCode may change this policy from time to time by updating this page. 
+We may change this policy from time to time by updating this page.
 
 ### What Is Collected
 
@@ -14,7 +14,7 @@ The following information may be collected:
 
   * Name and email address when it’s used to submit a comment on a post
   * Email address when you voluntarily request notifications from this site
-  * Billing information when making a purchase of any of BraveNewCode’s products or services available on this website
+  * Billing information when making a purchase of any of our products or services available on this website
 
 
 
