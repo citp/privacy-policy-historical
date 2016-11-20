@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gazettelive.co.uk privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620204934id_/http%3A//www.gazettelive.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gazettelive.co.uk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120113223id_/http%3A//www.gazettelive.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Gazette Live: Number one for news, opinion, sport & celebrity gossip
-
-## Privacy Statement
 
 **IN RELATION TO ALL WEB SITE SERVICES OFFERED BY TRINITY MIRROR NORTH WEST HERE ON THIS WEB SITE**
 
