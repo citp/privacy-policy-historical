@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashmoneyaffiliate.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610110452id_/http%3A//cashmoneyaffiliate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashmoneyaffiliate.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120180012id_/http%3A//cashmoneyaffiliate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
