@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the roadrunnersports.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629232811id_/http%3A//www.roadrunnersports.com/rrs/content/content.jsp%3FcontentId%3D2700024%26cm_sp%3Dfooter-_-anchor-_-privacy_and_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadrunnersports.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120080522id_/http%3A//www.roadrunnersports.com/rrs/content/content.jsp%3FcontentId%3D2700024%26cm_sp%3Dfooter-_-anchor-_-privacy_and_security) for the most accurate reproduction.*
 
 # Road Runner Sports Privacy & Security Policy
 
 | 
 
-We appreciate the trust you place in Road Runner Sports, and are committed to respecting your privacy and the security of your personal information. Our privacy policy, updated on December 31, 2012, describes the information we collect and how we use it.
+We appreciate the trust you place in Road Runner Sports, and are committed to respecting your privacy and the security of your personal information. Our privacy policy, updated on October 18, 2016 describes the information we collect and how we use it.
 
 We will modify this Policy if our privacy practices materially change in the future. We will notify you of such changes only by posting the new policy on our Site and indicating the date it was last updated. We encourage you to review the Policy each time you visit our Site to see if it has been updated since your last visit to make sure you understand how personal information you provide will be used.
 
@@ -94,7 +94,22 @@ Road Runner Sports
 5549 Copley Drive  
 San Diego, CA 92111
 
-**Policy Changes**  
+**The Children's Online Privacy Protection Act ("COPPA") Notice**
+
+The name, address, telephone number and email address of the operator collecting or maintaining personal information through the site or service and who will handle all inquiries from parents are as follows:  
+Road Runner Sports, Inc. ("Road Runner")  
+5549 Copley Drive  
+San Diego, CA 92111  
+800-743-3206  
+listening@roadrunnersports.com
+
+Road Runner does not collect any information from children. Road Runner does not enable children to make their personal information publicly available. A parent may post images of his or her child via social media on Instagram, Facebook, Twitter and other social media sites using the hashtag #RRSuperhero. In such event, Road Runner may select such image and re-post that image on the Road Runner site. No other personal information concerning a child is collected, made available, or disclosed by Road Runner. Road Runner does not share the image on its webpage with any other party or website.
+
+Road Runner advises parents via a disclosure statement on its webpage that parents may post images, including images of their children, via Instagram, Facebook, Twitter and other social media sites with the #RRSuperhero hashtag, which may then be re-posted to the Road Runner site. Posting of images by children under 13 years is strictly prohibited by Road Runner. Road Runner will only re-post images from social media sites that prohibit posting of images by children under 13 years.
+
+Any parent can review or have deleted the child's images and refuse to permit its further collection or use. Please click the following link listening@roadrunnersports.com, or call 800-743-3206 to request a deletion of your child's image and/or to refuse to permit any further collection or use.
+
+ **Policy Changes**  
 From time to time, we may use customer information for unanticipated uses not previously disclosed in our privacy notice. If our information practices change, we will post these changes on our Web site. We encourage you to review our privacy policy periodically.
 
 If you feel that this site is not following its stated information policy, you may contact us by sending us an e-mail (listening@roadrunnersports.com), calling Road Runner Sports Customer Service directly at (800) 743-3206 or writing to us at the below address:
