@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the babygearlab.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614130214id_/http%3A//www.babygearlab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babygearlab.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120095808id_/http%3A//www.babygearlab.com/privacy) for the most accurate reproduction.*
 
 # BabyGearLab Privacy Policy
 
 _Last updated: January 21, 2013_
 
-We recognize that your privacy is very important and take it seriously. This Privacy Policy describes BabyGearLab's policies and procedures on the collection, use and disclosure of your information when you use the BabyGearLab Service, via the BabyGearLab website, your mobile phone, or through one of BabyGearLab's applications. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](http://www.babygearlab.com/terms).
+We recognize that your privacy is very important and take it seriously. This Privacy Policy describes BabyGearLab's policies and procedures on the collection, use and disclosure of your information when you use the BabyGearLab Service, via the BabyGearLab website, your mobile phone, or through one of BabyGearLab's applications. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](https://web.archive.org/terms).
 
 ### Information Collection and Use
 
