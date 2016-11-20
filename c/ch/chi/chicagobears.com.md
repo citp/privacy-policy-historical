@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicagobears.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417192906id_/http%3A//www.chicagobears.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagobears.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120143244id_/http%3A//www.chicagobears.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Chicago Bears | Privacy policy
 
@@ -12,11 +12,7 @@
 
 The Chicago Bears organization ("we," "our," "us") respects your privacy and values your trust and confidence. This privacy policy (the "Privacy Policy") applies to our website [www.chicagobears.com](http://www.chicagobears.com/), our mobile applications and online services that link to or post this Privacy Policy (collectively, the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy. Please note that this Privacy Policy does not apply to any information that is collected or obtained through sites or services that do not link to this Privacy Policy (including the Team Shop) or information collected by the NFL or the other NFL member clubs (the "Member Clubs").
 
-Chicago Bears has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
-
-The TRUSTe program covers only information that is collected through this Web site [www.chicagobears.com](http://www.chicagobears.com/) and our mobile applications.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
   1. Information Collection
   2. Use of Information
@@ -148,7 +144,7 @@ We will retain your information for as long as your account is active or as need
 
 **10\. Your California Privacy Rights**
 
-California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [fanservices@chicagobears.com](https://web.archive.org/web/20160417192906id_/http%3A//www.chicagobears.com/footer/fanservices@chicagobears.com) or write us at:
+California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [fanservices@chicagobears.com](https://web.archive.org/web/20161120143244id_/http%3A//www.chicagobears.com/footer/fanservices@chicagobears.com) or write us at:
 
 Chicago Bears  
 1920 Football Drive  
@@ -164,7 +160,7 @@ Please note that the Services are directed towards users who reside in the Unite
 
 **12\. Contact Us**
 
-If you have any questions about this Privacy Policy or the privacy practices of the Services, please contact us by email at [fanservices@chicagobears.com](https://web.archive.org/web/20160417192906id_/http%3A//www.chicagobears.com/footer/fanservices@chicagobears.com) or by regular mail at:
+If you have any questions about this Privacy Policy or the privacy practices of the Services, please contact us by email at [fanservices@chicagobears.com](https://web.archive.org/web/20161120143244id_/http%3A//www.chicagobears.com/footer/fanservices@chicagobears.com) or by regular mail at:
 
 CA Privacy Rights  
 Chicago Bears  
