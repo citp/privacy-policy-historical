@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exede.net privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428182635id_/http%3A//www.exede.com/documents/master/exede-subscriber-privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exede.net privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120014754id_/http%3A//www.exede.com/documents/master/exede-subscriber-privacy-policy.pdf) for the most accurate reproduction.*
 
 # 
 
