@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planet-x-bikes.co.uk privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501123803id_/http%3A//www.planetx.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planet-x-bikes.co.uk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120015704id_/http%3A//www.planetx.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Planet X
 
