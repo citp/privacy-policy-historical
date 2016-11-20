@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monsterdashgame.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313125644id_/http%3A//halfbrick.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsterdashgame.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120204544id_/http%3A//halfbrick.com/pp) for the most accurate reproduction.*
 
 # Privacy Policy | Halfbrick Studios
 
@@ -116,22 +116,18 @@ We also work with certain business partners, such as other game developers and a
 Some of our business partners are outside Australia. Below is a list of some, but not all, business partners that we actively share user information and site usage data with (this list is subject to change):
 
   * **AppLovin.** Located in United States. [Read their Privacy Policy](https://www.applovin.com/privacy);
-  * Campaign Monitor. Based in Australia with servers in United States. [Read their Privacy Policy](http://www.campaignmonitor.com/privacy/);
-  * Chartboost. Located in United States. [Read their Privacy Policy](https://answers.chartboost.com/hc/en-us/articles/200780269-Privacy-Policy);
-  *  **Citrus Joy**. Developers of Yes Chef!, and located in China. [Click here for more information;](http://yeschefgame.com/ "Link to Yes Chef's homepage")
-  *  **Enfeel**. Developers of Birzzle, and located in South Korea. [Read their Privacy Policy;](http://www.enfeel.com/pp.html "Link to Enfeel's Privacy Policy")
-  * HeyZap. Located in the United States. [Read their Privacy Policy](https://www.heyzap.com/legal/privacy);
-  * MediaBrix. Located in United States and the United Kingdom. [Read their Privacy Policy](http://mediabrix.com/ad-services-privacy-policy/);
-  *  **MoPub**. Located in United States. [Read their Privacy Policy;](http://www.mopub.com/legal/privacy/ "Link to MoPub's Privacy Policy")
-  *  **MPForce**. Developers of Top Farm, and located in Argentina and the United States. [Read their Privacy Policy](http://www.mpforce.com/en/#/home "Link to Vostu's Privacy Policy");
+  * **Campaign Monitor**. Based in Australia with servers in United States. [Read their Privacy Policy](http://www.campaignmonitor.com/privacy/);
+  * **Chartboost**. Located in United States. [Read their Privacy Policy](https://answers.chartboost.com/hc/en-us/articles/200780269-Privacy-Policy);
+  * **Citrus Joy**. Developers of Yes Chef!, and located in China. [Click here for more information;](http://yeschefgame.com/ "Link to Yes Chef's homepage")
+  * **Enfeel**. Developers of Birzzle, and located in South Korea. [Read their Privacy Policy;](http://www.enfeel.com/pp.html "Link to Enfeel's Privacy Policy")
+  * **HeyZap**. Located in the United States. [Read their Privacy Policy](https://www.heyzap.com/legal/privacy);
+  *  **MediaBrix**.Located in United States and the United Kingdom. [Read their Privacy Policy](http://mediabrix.com/ad-services-privacy-policy/);
+  * **MoPub**. Located in United States. [Read their Privacy Policy;](http://www.mopub.com/legal/privacy/ "Link to MoPub's Privacy Policy")
+  * **MPForce**. Developers of Top Farm, and located in Argentina and the United States. [Read their Privacy Policy](http://www.mpforce.com/en/#/home "Link to Vostu's Privacy Policy");
   * **Other Levels**. Located in United States and Australia. [Read their Privacy Policy](http://ol-p-manager.s3.amazonaws.com/documents/19/OtherLevels_Privacy_Policy_v1.0.pdf "Link to Other Levels' Privacy Policy");
-  * UnityAds. Headquartered in the United States with offices throughout the Americas, Asia and Europe. [Read their Privacy Policy](https://unity3d.com/legal/privacy-policy);
+  * **UnityAds**. Headquartered in the United States with offices throughout the Americas, Asia and Europe. [Read their Privacy Policy](https://unity3d.com/legal/privacy-policy);
   * **Upsight**. Located in United States, United Kingdom and Canada. [Read their Privacy Policy](http://www.upsight.com/pricing/privacy-policy/ "Link to Upsight's Privacy Policy"); and
-  *  **Vungle**. Located in United States, United Kingdom, Germany and China. [Read their Privacy Policy.](http://www.vungle.com/privacy/ "Link to Vungle's Privacy Policy")
-  * **  
-**
-  * **  
-**
+  * **Vungle**. Located in United States, United Kingdom, Germany and China. [Read their Privacy Policy.](http://www.vungle.com/privacy/ "Link to Vungle's Privacy Policy")
 
 
 
@@ -166,7 +162,7 @@ Security is important to us and we strive to protect both your information and o
 
 ### 2.6 Access & Correction
 
-You may request access to your personal information at any time by sending a written request to our Privacy Officer by mail at Halfbrick Studios Pty Ltd, 190 Kelvin Grove Road, Queensland 4059, Australia, by facsimile on +617 3356 0421 or by email to [privacy@halfbrick.com](mailto:privacy@halfbrick.com).
+You may request access to your personal information at any time by sending a written request to our Privacy Officer by mail at Halfbrick Studios Pty Ltd, 23 Musgrave Rd, Red Hill, Queensland 4059, Australia, by facsimile on +617 3356 0421 or by email to [privacy@halfbrick.com](mailto:privacy@halfbrick.com).
 
 We may charge a small fee for providing access if it requires a significant amount of time to locate your information or to collect or present it in an appropriate form. We may decline your access if there are reasonable grounds for us to do so.
 
@@ -179,7 +175,7 @@ If you have any concerns or complaints about your privacy please contact us by:
   1. Sending a written request to our Privacy Officer by mail at: 
 
 **Halfbrick Studios Pty Ltd**  
-190 Kelvin Grove Road,  
+23 Musgrave Rd, Red Hill  
 Queensland 4059, Australia
 
   2. Facsimile on +61 7 3356 0421; or
