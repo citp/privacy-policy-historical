@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadpangu.org privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601032015id_/http%3A//www.downloadpangu.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadpangu.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120080955id_/http%3A//www.downloadpangu.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Download Pangu
 
@@ -20,7 +20,7 @@ www.downloadpangu.org does use cookies to store information about visitors prefe
 
 .:: Google, as a third party vendor, uses cookies to serve ads on www.downloadpangu.org.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.downloadpangu.org and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL –
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense  
