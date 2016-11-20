@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architecturendesign.net privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610000709id_/http%3A//www.architecturendesign.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturendesign.net privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120195037id_/http%3A//www.architecturendesign.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Architecture & Design
 
@@ -32,15 +32,15 @@ We have implemented security measures we consider reasonable and appropriate to 
 
 Cookies
 
-To save you comment’s information every time you visit [Architecture & Design](http://www.architecturendesign.net/ "Architecture & Design"), we place a little text file called a â€œcookieâ€? on your hard drive. It sits in your web browser directory.
-
 Advertisement
+
+To save you comment’s information every time you visit [Architecture & Design](http://www.architecturendesign.net/ "Architecture & Design"), we place a little text file called a â€œcookieâ€? on your hard drive. It sits in your web browser directory.
 
 A cookie lets us store your profile information on your computer and lets our website retrieve it when you visit our site. No other website can use or view the cookie set by [Architecture & Design](http://www.architecturendesign.net/ "Architecture & Design").
 
-Cookies help us create a speedy web experience by remembering your address and email information, so you don’t have to re-type it when making comments.
-
 Advertisement
+
+Cookies help us create a speedy web experience by remembering your address and email information, so you don’t have to re-type it when making comments.
 
 We may use cookies on the website for the purpose of monitoring your and other users’ activity in order to improve the website and the services available to you. If you don’t want us to use cookies when you use our website, you will need to change your Internet browser settings so that your browser does not accept them.
 
