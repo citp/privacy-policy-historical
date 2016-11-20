@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtmlondon.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520155451id_/http%3A//www.wtmlondon.com/en/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtmlondon.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120082710id_/http%3A//www.wtmlondon.com/en/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - WTM London
 
@@ -44,11 +44,13 @@ Where a site is password protected it will use Cookies. Cookies are nothing more
 The RX cookie that is placed on your computer as a result of you registering on one of our sites contains only your unique reference number that is allocated by the registration process. This consists of a 4-digit number. There is no information in the Cookie that can identify you. The Cookie is only valid when you access the relevant RX site. 
 
   
+
+
 Name | Owner | Duration | Purpose  
 ---|---|---|---  
 f_hash | Feathr | 2 Years | Feathr is an analytics and digital marketing solution. Feathr helps us determine which content is most active, and associates individuals with the content they consume. This cookie helps Feathr determine whether or not the visitor and page view represent legitimate traffic or potentially come from a bot or search engine crawler.  
 f_id | Feathr | 2 Years | This is another Feathr cookie. It establishes a unique identification per user. It helps Feathr determine number of unique visitors to an RX site as well as to tailor marketing behavior by user.  
-f_opt_out | Feathr | 5 Years | This is another Feathr cookie. It is set when you enable or disable a global opt-out of Feathr's behavioral tracking at <https://feathr.co/opt-out/>. If this cookie exists in the affirmative, all other Feathr cookies are either erased or ignored.  
+f_opt_out | Feathr | 5 Years | This is another Feathr cookie. It is set when you enable or disable a global opt-out of Feathr's behavioral tracking at https://feathr.co/opt-out/. If this cookie exists in the affirmative, all other Feathr cookies are either erased or ignored.  
   
 This site recognises the home servers of visitors, but not their e-mail addresses. Individually identifiable e-mail addresses are not captured or stored unless they are provided. Persons who communicate with RX, and supply us with an e-mail address, [are consenting to/may receive] future communications by e-mail. Persons who do not wish to receive e-mail messages may contact RX and ask to be removed; to do so, send an e-mail to [ unsubscribe@reedexpo.co.uk](mailto:unsubscribe@reedexpo.co.uk) and specify your name, company name and e-mail address. As such, RX supports the customer's right to "opt-out". Persons who request information about RX, and who supply us with their name and address and/or email and/or telephone details will be added to our database to receive the requested information. 
 
