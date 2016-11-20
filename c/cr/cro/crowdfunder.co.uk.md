@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdfunder.co.uk privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618180915id_/http%3A//www.crowdfunder.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdfunder.co.uk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120035016id_/http%3A//www.crowdfunder.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -59,7 +59,7 @@ _When creating an account and joining the Crowdfunder.co.uk community, we collec
   5. reply to any correspondence you send to us; andfor any other reasonable purposes related to Crowdfunder.co.uk or your membership.
 
 
-  * ****Your name. This is not displayed publicly on the Crowdfunder.co.uk unless you choose to display your name, rather than your username, when you support a Project. If the project you choose to support is successful in reaching its target funding within the target timescale, then, unless you pledge anonymously, your name (as shown on your bank account) is given to the Project Owne by our payment processors, GoCardless and Stripe, when your funds are taken from your account** **.****
+  * ****Your name. This is not displayed publicly on the Crowdfunder.co.uk unless you choose to display your name, rather than your username, when you support a Project. If the project you choose to support is successful in reaching its target funding within the target timescale, then, unless you pledge anonymously, your name (as shown on your bank account) is given to the Project Owner by our payment processors, GoCardless and Stripe, when your funds are taken from your account** **.****
   * ****By pledging you agree that your personal details given to the Project Owner may be used as relevant for reward fulfilment (i.e. your name on a wall of fame). If your details are used for anything else please contact the Project Owner. Please see our[Terms and Conditions](http://www.crowdfunder.co.uk/terms-conditions) for the contract between you and the project owner.****
 
 
@@ -83,6 +83,7 @@ _When creating an account and joining the Crowdfunder.co.uk community, we collec
 
 
   * If you choose to create a Crowdfunder.co.uk account using Facebook Connect (or any other authentication provider), we are provided with profile and photo data about you through their application programming interface (API). We use this to create your account, allow you to interact with Crowdfunder.co.uk and in some instances to identify you publicly on Crowdfunder.co.uk. For example, if you choose to support a Project, the photo from your Facebook profile will then be viewable by other users. By clicking on the authentication providers’ link, you are consenting to share this information with us.
+  * As a project owner we collect your phone number, date of birth, postcode, first name and last name. We reserve the right to use this data to send to a third party provider to verify your personal details. These details are not publically accessible, your postcode and date of birth are encrypted on our servers.
 
 
 
