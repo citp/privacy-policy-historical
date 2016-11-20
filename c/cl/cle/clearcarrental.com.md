@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clearcarrental.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607212125id_/http%3A//www.clearcarrental.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearcarrental.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120035031id_/https%3A//www.clearcarrental.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Car Rental Services India.
+# Clear Car Rental India Privacy Policy.
 
 Respects your privacy and recognizes the need to protect the personally identifiable information (any information by which you can be identified, such as name, address, and telephone number) you share with us. We would like to assure you that we follow appropriate standards when it comes to protecting your privacy on our web sites. There are times when we may collect personal information from you such as name, physical address or telephone number. It is our intent to inform you before we do that and to tell you what we intend to do with the information. Generally, you will have the option not to provide the information, and in the future you will be able to "opt out" of certain uses of the information. If you choose not to provide the information we request, you can still visit the Clear Car Rental website, but you may be unable to access certain options, offers and services.
 
