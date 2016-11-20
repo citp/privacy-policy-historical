@@ -1,43 +1,102 @@
-<!--The following is the downloaded HTML source of the aboutmcdonalds.com privacy policy that was archived on 2016-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160403165802id_/http%3A//www.aboutmcdonalds.com/mcd/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aboutmcdonalds.com privacy policy that was archived on 2016-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120024142id_/http%3A//corporate.mcdonalds.com/content/mcd/privacy_policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><style></style>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><style></style><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+    //alert("In function");
+	var isReturnUser=getPersonalizationCookie("isReturnUser");
+	//alert("Value of isReturnUser Cookie is"+isReturnUser);
+	if(isReturnUser){
+		//alert("Value is not null and inside if so is considered as returning user");
+		setUserCookie("isReturnUser","true");
+	}else{
+	  // alert("Value is null and inside else so is considered as new user");
+	   setUserCookie("isReturnUser","false");
+	}
+
+    var currentapge='';
+    //alert("currentapge"+currentapge);
+    var lastPage=getPersonalizationCookie("currentVisitedPage");
+    //alert("lastPage"+lastPage);
+
+	setPersonalizationCookie("lastVisitedPage",lastPage,1);
+    if(currentapge){
+       setPersonalizationCookie("currentVisitedPage",currentapge,1);
+    }
+		function setUserCookie(cookieName,cookieValue) {
+        var today = new Date();
+        var expire = new Date();
+        expire.setTime(today.getTime() + 30* 60 * 1000);
+        document.cookie = cookieName+"="+escape(cookieValue)+ ";expires="+expire.toGMTString()+";path=/";
+		}
+
+ 	function setPersonalizationCookie(cname,cvalue,exdays) {
+			var d = new Date();
+			d.setTime(d.getTime() + (exdays*24*60*60*1000));
+			var expires = "expires=" + d.toGMTString();
+			document.cookie = cname+"="+cvalue+"; "+expires+";path=/";
+		}
+
+    function getPersonalizationCookie(cname) {
+			var name = cname + "=";
+			var ca = document.cookie.split(';');
+			for(var i=0; i<ca.length; i++) {
+				var c = ca[i];
+				while (c.charAt(0)==' ') c = c.substring(1);
+				if (c.indexOf(name) == 0) {
+					return c.substring(name.length, c.length);
+				}
+			}
+			return "";
+		}
+
+
+    </script>
+
+
+ 
+ 
+       
 
 
 
 
 
 
-<!--<script src="//assets.adobedtm.com/b1e0f2f1c887c13d5a8d850fc709d9f680d2011c/satelliteLib-649cdbe7480168ecba017c1d78530f43c4903c1f-staging.js"></script>-->
-<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//assets.adobedtm.com/b1e0f2f1c887c13d5a8d850fc709d9f680d2011c/satelliteLib-649cdbe7480168ecba017c1d78530f43c4903c1f.js"></script>
+          
+<meta name="google-site-verification" content="xt1BrV8NhumXhV8g9BWS3mFiVdQhQREH1nA70WumFMI">
 
-<!--Configurable DTM Code -->		
-     		
-    <!--Configurable DTM Code End -->		
-<!-- data layer file for DTM Start -->
+    
 
-      <meta name="google-site-verification" content="xt1BrV8NhumXhV8g9BWS3mFiVdQhQREH1nA70WumFMI">
-     <script type="text/javascript" src="/apps/mcd/docroot/themes/AboutMcDonalds/scripts/AboutMcdAnalyticsEventsCapture.js"></script>
-  		
-<!-- data layer file for DTM End -->
+
+
+
+
+
+	
+	
+
+
+
 
 <script type="text/javascript"> 
 
     function desktopRedirect(){
-        var redirectPath = "";  
+        var redirectPath = "";
+        var siteLevelRedirect = "";
         var useragent = navigator.userAgent;
-        var domain = "www.aboutmcdonalds.com";
+        var domain = "corporate.mcdonalds.com";
   
         // if ( useragent.indexOf('BlackBerry') != -1 || useragent.indexOf('iPhone OS 4') != -1 || useragent.indexOf('iPhone OS 5') != -1 || useragent.indexOf('iPhone OS 6') != -1 ||  useragent.indexOf('iPhone OS 7') != -1 || useragent.indexOf('Android 2') != -1 || useragent.indexOf('Android 4') != -1 || useragent.indexOf('Opera') != -1 || useragent.indexOf('Windows Phone') != -1 )
-        if ( useragent.indexOf('BlackBerry') != -1 || useragent.indexOf('iPhone OS') != -1 || useragent.indexOf('Android') != -1 || useragent.indexOf('Opera') != -1 || useragent.indexOf('Windows Phone') != -1 ) 
-         {    
+        // if ( useragent.indexOf('BlackBerry') != -1 || useragent.indexOf('iPhone OS') != -1 || useragent.indexOf('Android') != -1 || useragent.indexOf('Opera') != -1 || useragent.indexOf('Windows Phone') != -1 ) 
+		if ( useragent.indexOf('BlackBerry') != -1 || useragent.indexOf('iPhone OS') != -1 || useragent.indexOf('Opera') != -1 || useragent.indexOf('Windows Phone') != -1 || ( useragent.indexOf('Android') != -1 && useragent.indexOf('Mobile') != -1 ))
+        {    
           var alertURL = "";            
           var getAlertPage = "false";
           var fullSite = "no";
           if(getCookie("fullsite") != null){
             fullSite = getCookie("fullsite");
           }
-   
+
       if(fullSite == "yes"){
                 //cookie set for full site
                 var pagePath = '/mcd/privacy_policy';
@@ -55,12 +114,22 @@
                         redPath = redirectPath;
                     }  
             alertURL = redPath;
-         }else{                
+         }else if(siteLevelRedirect != ""){
+                 //redirecting to path specified in site config for site level redirection
+                 var rPath = "";
+                 if((siteLevelRedirect.indexOf("/content/")>-1)){
+                        rPath = "http://"+domain+siteLevelRedirect+".html";
+                 }else{
+                        rPath = siteLevelRedirect;
+                 } 
+                 alertURL = rPath ; 
+
+            }else{                
             //check if intermediate page is required or not               
             if(getAlertPage == "true"){
                 var pagePath = '/mcd/privacy_policy';
                 var url= "http://"+domain+pagePath+".html";
-                                          
+
                         if(("".indexOf("/content/")>-1)){
                              alertURL = "http://"+domain+".html?desktopurl="+url;
                         }else{
@@ -71,7 +140,7 @@
                     }
                 }      
             }          
-            
+
             var mobileAlert = "no"
             if(getCookie("mobilealert") != null){
                 mobileAlert = getCookie("mobilealert");
@@ -81,12 +150,12 @@
             if(getCookie("fullsiteredirect") != null){
                 fullSiteRedirect = getCookie("fullsiteredirect");
             } 
-            
+
             if(fullSiteRedirect == "yes" && mobileAlert == "no" && desktopVal == "no"){
                 setCookie("fullsiteredirect","no");
                 window.location.href = alertURL;
             }
-            
+
             if(mobileAlert == "no" && desktopVal == "no"){
                 if(fullSiteRedirect == "yes" || fullSiteRedirect == "no"){
                     //do nothing
@@ -97,7 +166,7 @@
                     }
                 }    
             } 
-                                      
+
         }
         else{
             // For desktop do nothing 
@@ -112,45 +181,92 @@
         var today = new Date();
         var expire = new Date();
         expire.setTime(today.getTime() + 15 * 60 * 1000);
+        if(currentPage.getPath().contains("/se/")||currentPage.getPath().contains("/hk/")||currentPage.getPath().contains("/no/")||currentPage.getPath().contains("/dk/")||currentPage.getPath().contains("/iehome/")||currentPage.getPath().contains("/tw/")){
+        document.cookie = cookieName+"="+escape(cookieValue)+ ";domain="+getMainDomain() +";expires="+expire.toGMTString();
+        }
+        else{
         document.cookie = cookieName+"="+escape(cookieValue)+ ";expires="+expire.toGMTString();
+        }
     }
-    
+
+    function getMainDomain(){
+       var i=0,domain=document.domain,p=domain.split('.'),s='_gd'+(new Date()).getTime();
+       while(i<(p.length-1) && document.cookie.indexOf(s+'='+s)==-1){
+          domain = p.slice(-1-(++i)).join('.');
+          document.cookie = s+"="+s+";domain="+domain+";";
+       }
+       document.cookie = s+"=;expires=Thu, 01 Jan 1970 00:00:01 GMT;domain="+domain+";";
+       return "."+domain;
+    }  
+   var overwriteRedirection = "false"; 
    var allowIntRed= "false";
    if("yes" == "yes"){  
    if(allowIntRed == "true"){
        desktopRedirect();  
        } 
    }    
-</script> 
+</script>
+
+	 
+
+	<script>
+		int imageId="";
+		mailTo="";
+		var currentPageURL = window.location.href ;
+		var splitResult = currentPageURL.split("?");
+		if(splitResult.length >1){
+			splitResult = splitResult[1].split("=")
+			if(splitResult.length > 1){
+				imageId=splitResult[1];
+			} 
+		}
+	</script>  
+
+	 
+
+	
+
+	  
 
 
-    
-      
 
 
 
-    
-   
 
-    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"> 
-    <meta name="title" content="Privacy Policy - McDonald's Corporate website :: AboutMcDonalds.com">
+  
+
+  
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+    <meta name="title" content="Privacy Policy - McDonald's Corporate website :: McDonald’s">
     <meta name="description" content="McDonald's posted website privacy policy online.">
+    
     <meta name="keywords" content="">
     <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+  
 
 
 
-          <meta name="description" content="McDonald's posted website privacy policy online.">
 
- 
- 
+
+
+
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<!-- WXB Search Changes end -->
+
+
+
+<meta name="description" content="McDonald's posted website privacy policy online.">
+
+
+<!-- Added from Arabia ends -->
+
 
 <link rel="stylesheet" type="text/css" media="all" href="/themes/AboutMcDonalds/css/mcdonalds.css">
 <link rel="stylesheet" type="text/css" media="print" href="/themes/AboutMcDonalds/css/print.css">
-<link rel="stylesheet" type="text/css" media="all" href="/themes/AboutMcDonalds/css/food.css">    
-<link rel="stylesheet" type="text/css" media="all" href="/themes/AboutMcDonalds/css/news.css">  
+<link rel="stylesheet" type="text/css" media="all" href="/themes/AboutMcDonalds/css/food.css">
+<link rel="stylesheet" type="text/css" media="all" href="/themes/AboutMcDonalds/css/news.css">
 <link rel="stylesheet" type="text/css" media="all" href="/themes/AboutMcDonalds/css/contactus.css">
-<link rel="stylesheet" type="text/css" media="all" href="/themes/AboutMcDonalds/css/jquery.ui.theme.css">   
+<link rel="stylesheet" type="text/css" media="all" href="/themes/AboutMcDonalds/css/jquery.ui.theme.css">
 <!--[if IE 7]>
     <link rel="stylesheet" type="text/css" media="all" href="/themes/AboutMcDonalds/css/ie7.css" />
 <![endif]-->
@@ -158,7 +274,7 @@
     <link rel="stylesheet" type="text/css" media="all" href="/themes/AboutMcDonalds/css/ie6.css" />
 <![endif]-->
 
-<script type="text/javascript" src="/themes/AboutMcDonalds/scripts/jquery-1.3.2.min.js"></script> 
+<script type="text/javascript" src="/themes/AboutMcDonalds/scripts/jquery-1.3.2.min.js"></script>
 <script type="text/javascript" src="/themes/AboutMcDonalds/scripts/jquery.activetextinput.js"></script>
 <script type="text/javascript" src="/themes/AboutMcDonalds/scripts/global_utils.js"></script>
 <link rel="stylesheet" type="text/css" media="screen" href="/themes/AboutMcDonalds/css/jquery.mcdcolorbox.css">
@@ -166,137 +282,128 @@
 <script type="text/javascript" src="/themes/AboutMcDonalds/scripts/jquery.mcdcolorbox.js"></script>
 <script type="text/javascript" src="/themes/AboutMcDonalds/scripts/jquery.callouts.js"></script>
 <script type="text/javascript" src="/themes/AboutMcDonalds/scripts/jquery-ui-1.7.2.custom.min.js"></script>
-<script type="text/javascript" src="/themes/AboutMcDonalds/scripts/jquery.ifixpng.js"></script>    
-<script type="text/javascript" src="/themes/AboutMcDonalds/scripts/commons.js"></script> 
+<script type="text/javascript" src="/themes/AboutMcDonalds/scripts/jquery.ifixpng.js"></script>
+<script type="text/javascript" src="/themes/AboutMcDonalds/scripts/commons.js"></script>
 <script type="text/javascript" src="/themes/AboutMcDonalds/scripts/datepicker.js"></script>
-<script type="text/javascript" src="/themes/AboutMcDonalds/scripts/custom-form-elements.js"></script><style type="text/css">input.styled { display: none; } select.styled { position: relative; width: 190px; opacity: 0; filter: alpha(opacity=0); z-index: 5; }</style>  
+<script type="text/javascript" src="/themes/AboutMcDonalds/scripts/custom-form-elements.js"></script><style type="text/css">input.styled { display: none; } select.styled { position: relative; width: 190px; opacity: 0; filter: alpha(opacity=0); z-index: 5; }</style>
 <script type="text/javascript" src="/themes/AboutMcDonalds/scripts/textArea.js"></script>
 <script type="text/javascript" src="/themes/AboutMcDonalds/scripts/formValidation.js"></script>
 <script type="text/javascript" src="/themes/AboutMcDonalds/scripts/page-grayed-out.js"></script>
-<script type="text/javascript" src="/themes/AboutMcDonalds/scripts/textresize.js"></script></head><body class="page genericpage " style="background:#f9c838; background-image: url('/content/mcd/privacy_policy/jcr:content/bgimage.img.jpg/1446498745583.jpg'); background-repeat: repeat-x; background-position:center top;"><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" style="padding-bottom: 0px; padding-right: 0px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px;"></div><div id="cboxLoadingOverlay" class=""></div><div id="cboxLoadingGraphic" class=""></div><div id="cboxTitle" class=""></div><div id="cboxCurrent" class=""></div><div id="cboxSlideshow" class=""></div><div id="cboxNext" class=""></div><div id="cboxPrevious" class=""></div><div id="cboxClose" class=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position:absolute; top:0; left:0; width:9999px; height:0;"></div></div><div id="viewTextSize" style="font-size: medium; visibility: hidden; position: absolute; left: -50px; top: -50px;">M</div>
-<script type="text/javascript" src="/themes/AboutMcDonalds/scripts/news.js"></script>  
-<script type="text/javascript" src="/themes/AboutMcDonalds/scripts/jquery_newsarticles.js"></script>  
-<script type="text/javascript" src="/themes/AboutMcDonalds/scripts/DD_roundies_0.0.2a-min.js"></script>   
+<script type="text/javascript" src="/themes/AboutMcDonalds/scripts/textresize.js"></script></head><body class="genericpage page " style="background:#f9c838; background-image: url('/content/dam/AboutMcDonalds/Our Company/home-hex-f9c838.jpg'); background-repeat: repeat-x; background-position:center top;"><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" style="padding-bottom: 0px; padding-right: 0px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px;"></div><div id="cboxLoadingOverlay" class=""></div><div id="cboxLoadingGraphic" class=""></div><div id="cboxTitle" class=""></div><div id="cboxCurrent" class=""></div><div id="cboxSlideshow" class=""></div><div id="cboxNext" class=""></div><div id="cboxPrevious" class=""></div><div id="cboxClose" class=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position:absolute; top:0; left:0; width:9999px; height:0;"></div></div><div id="viewTextSize" style="font-size: medium; visibility: hidden; position: absolute; left: -50px; top: -50px;">M</div>
+<script type="text/javascript" src="/themes/AboutMcDonalds/scripts/news.js"></script>
+<script type="text/javascript" src="/themes/AboutMcDonalds/scripts/jquery_newsarticles.js"></script>
+<script type="text/javascript" src="/themes/AboutMcDonalds/scripts/DD_roundies_0.0.2a-min.js"></script>
 
 <script type="text/javascript" src="/themes/AboutMcDonalds/scripts/swfobject.js"></script>
 
+<script type="text/javascript" src="/apps/mcd/docroot/themes/mobile/scripts/jquery.cookie.js"></script>
+<script type="text/javascript" src="/apps/mcd/docroot/themes/Default/scripts/mobileredirect.js"></script>
 <script type="text/javascript">
-var webtrends = ''; 
-        $(document).ready(function(){ 
-            var hideMealBuilder = 'true';
-            if(hideMealBuilder!='true')
-                changevalue('itemsAdded_mcd');         
+	var webtrends = ''; 
+	$(document).ready(function(){ 
+		var hideMealBuilder = 'true';
+		if(hideMealBuilder!='true')
+			changevalue('itemsAdded_mcd');         
 
-            /*** Bumper ***/
-            try {
-                $('a.external').mcdColorboxDeleteConfirm({question:"<strong>Leaving McDonald's Web Site.</strong><p>You are leaving the McDonald's Corporation web site for a site that is controlled by a third party, not affiliated with McDonald's. The content and policies, including the privacy policy, on the site you are entering may vary from McDonald's viewpoints and policies. Please be sure to review the policies of every site you visit. McDonald's is not responsible for the opinions, policies, statements or practices of any other companies, such as those that may be expressed in the web site you are entering.</p>",yescontrol:"Continue",nocontrol:"Cancel"});
-            } catch ( exeption ) { /* silence */ }   
+		/*** Bumper ***/
+		try {
+			$('a.external').mcdColorboxDeleteConfirm({question:"<strong>Leaving McDonald's Web Site.</strong><p>You are leaving the McDonald's Corporation web site for a site that is controlled by a third party, not affiliated with McDonald's. The content and policies, including the privacy policy, on the site you are entering may vary from McDonald's viewpoints and policies. Please be sure to review the policies of every site you visit. McDonald's is not responsible for the opinions, policies, statements or practices of any other companies, such as those that may be expressed in the web site you are entering.</p>",yescontrol:"Continue",nocontrol:"Cancel"});
+		} catch ( exeption ) { /* silence */ }   
 
-         }); 
+	 }); 
 
 
     /* function to check cookies are enabled or not */
+	function isCookiesEnabled() 
+	{
+		//alert("========isCookiesEnabled()====calling==="); 
+		var cookieEnabled=(navigator.cookieEnabled)? true : false
+		//if not IE4+ nor NS6+
+		if (typeof navigator.cookieEnabled=="undefined" && !cookieEnabled)
+		{ 
+		   document.cookie="testcookie" ; 
+		   cookieEnabled=(document.cookie.indexOf("testcookie")!=-1)? true : false
+		}
 
-       function isCookiesEnabled() 
-       {
+		if(cookieEnabled == false)
+		{
+			//alert('Browser cookies must be enabled in order to use the Meal Builder ') ; 
+		}
 
-                //alert("========isCookiesEnabled()====calling==="); 
-                var cookieEnabled=(navigator.cookieEnabled)? true : false
-               //if not IE4+ nor NS6+
-               if (typeof navigator.cookieEnabled=="undefined" && !cookieEnabled)
-               { 
-                   document.cookie="testcookie" ; 
-                   cookieEnabled=(document.cookie.indexOf("testcookie")!=-1)? true : false
-               }
+		return cookieEnabled;
+	} 
 
-               if(cookieEnabled == false)
-               {
-                 //alert('Browser cookies must be enabled in order to use the Meal Builder ') ; 
-               }
+	/* function to add items to meal builder */
+	function addtoMyMealBuilder(id)
+	{ 
 
-               return cookieEnabled;
+			if(isCookiesEnabled()== true) 
+		   {                 
 
-
-        } 
-
-        /* function to add items to meal builder */
-
-     function addtoMyMealBuilder(id)
-        { 
-
-                if(isCookiesEnabled()== true) 
-               {                 
-
-                     if(checkLimit(id)==true)
-                     {                      
-                         //Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',id);
-                         addItemstoSession(id,'mcd');   
-                     }
-                     else
-                         return false; 
-               }else
-                 return false; 
-        }
+				 if(checkLimit(id)==true)
+				 {                      
+					 //Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',id);
+					 addItemstoSession(id,'mcd');   
+				 }
+				 else
+					 return false; 
+		   }else
+			 return false; 
+	}
 
 
-  /* function to add items to meal builder */
+	/* function to add items to meal builder */
 
-     function addtoMyMealBuilder(path,id)
-        { 
+    function addtoMyMealBuilder(path,id)
+	{ 
+		if(isCookiesEnabled()== true) 
+		{
+			if(checkLimit(id)==true)
+			{                      
+				//if( webtrends !="")
+				//Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',id);    
+				addItemstoSession(id,'mcd');   
+			}
+			else
+				return false; 
+		}else
+			return false; 
+	}
 
-                if(isCookiesEnabled()== true) 
-               {                 
+	/* function to add item to meal builder */
 
-                     if(checkLimit(id)==true)
-                     {                      
-                         //if( webtrends !="")
-                         //Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',id);    
-                         addItemstoSession(id,'mcd');   
-                     }
-                     else
-                         return false; 
-               }else
-                 return false; 
-        }
+	function addItemtoMyMealBuilder(itemId,compList)
+	{
+		if(isCookiesEnabled()== true)
+		{
+			if(checkLimit(itemId)==true)                         
+			{                      
+				//Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',itemId);
+				addItemtoSession(itemId,compList,'mcd');  
+			}
+			else
+			 return false;  
 
-         /* function to add item to meal builder */
+		}
+		else
+		   return false; 
+    }  
 
-        function addItemtoMyMealBuilder(itemId,compList)
-        {
-
-                if(isCookiesEnabled()== true)
-               {
-
-                     if(checkLimit(itemId)==true)                         
-                     {                      
-                        //Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',itemId);
-                        addItemtoSession(itemId,compList,'mcd');  
-                     }
-                     else
-                         return false;  
-
-               }
-               else
-                   return false; 
-        }  
-
-        function addReverseItemtoMyMealBuilder(itemId,compList,revList,optionalList,masterItemId)
-        {
-               if(isCookiesEnabled()== true)
-               {
-
-                     if(checkLimit(itemId)==true)                         
-                     {
-                         //Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',itemId);                    
-                         addReverseItemtoSession(itemId,compList,revList,optionalList,masterItemId,'mcd');
-                     }
-                     else
-                         return false;           
-
-               }
-               else
-                   return false; 
-        }  
+	function addReverseItemtoMyMealBuilder(itemId,compList,revList,optionalList,masterItemId)
+	{
+		if(isCookiesEnabled()== true)
+		{
+			if(checkLimit(itemId)==true)                         
+			{
+				//Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',itemId);                    
+				addReverseItemtoSession(itemId,compList,revList,optionalList,masterItemId,'mcd');
+			}
+			else
+			 return false;           
+		}
+		else
+		   return false; 
+	}  
 
 
       function checkLimit(id) 
@@ -319,48 +426,75 @@ var webtrends = '';
            return true;              
 
       }
+</script>
 
 
-</script> 
+
+<!-- Added from arabia starts -->
 
 
-       
+  
+  
+    <title>Privacy Policy - McDonald's Corporate website :: McDonald’s</title>
+  
+
+
+
+	<!-- Added from Nordic 7 -->
+	
+<!-- Added from Nordic End 7 -->
+
+<!-- Data layer files reference for DTM Start -->
+
+        <script type="text/javascript" src="/apps/mcd/docroot/themes/AboutMcDonalds/scripts/AboutMcdAnalyticsEventsCapture.js"></script>
     
-        <title>Privacy Policy - McDonald's Corporate website :: AboutMcDonalds.com</title>
-    
+<!-- Data layer files reference for DTM Ends -->
+
+<!--Configurable DTM Code -->
+    <script src="//assets.adobedtm.com/b1e0f2f1c887c13d5a8d850fc709d9f680d2011c/satelliteLib-649cdbe7480168ecba017c1d78530f43c4903c1f.js"></script>
+  
 
 
+<!--  configurable DTM Code end   --->
 
-
-
-        
+  
 
 
  
+ 
+    
 
 
 
 
-
+    
     <div id="document_wrapper">
-        
         <a name="top"></a>
         
-        
-
+ 
+ 
     
-<div id="top_wrapper"> 
-    <div id="top_content">
-        <div id="logo">
-            <div class="logo mlogo parbase">
+
+
+
 
 
 
  
+<div id="top_wrapper">
+	<div id="top_content">
+		<div id="logo">
+			
+				<div class="parbase logo mlogo">
 
-    <a href="/mcd.html">
 
-                <img src="/etc/designs/aboutmcdonalds/_jcr_content/genericpage/genericpagecontent/sitelevelconfiguration/logoimage.img.png" width="113" height="98" alt="">
+ 
+ 
+    
+
+    <a href="/content/mcd.html">
+
+                 <img src="/etc/designs/aboutmcdonalds/jcr:content/genericpage/genericpagecontent/sitelevelconfiguration/logoimage.img.png" width="113" height="98" alt="">
 
         </a>   
   
@@ -368,13 +502,16 @@ var webtrends = '';
 
 </div>
 
-        </div>
-        <div id="main_navigation">
-            <div class="mcdonaldsleftnav parbase">
+			
+		</div>
+		<div id="main_navigation">
+			
+				<div class="mcdonaldsleftnav parbase">
  
     
-
  
+ 
+    
     
  
    
@@ -385,7 +522,7 @@ var webtrends = '';
     
     <ul>
                         <li id="simplenav_li" class="first">
-                            <a data-gacode="NA" href="/mcd/our_company.html" id="simplenav_link" class="nav_item firstLink" style="background-image: url('/content/mcd/our_company/jcr:content/navimage.img.png/1453995229938.png');"></a>
+                            <a data-gacode="NA" href="/content/mcd/our_company.html" id="simplenav_link" class="nav_item firstLink" style="background-image: url('/content/mcd/our_company/jcr:content/navimage.img.png/1453995229938.png');"></a>
                         
                     <div class="active_nav_widget" id="simplenav_layer">
                       <div id="simplenav_inner_layer">
@@ -394,15 +531,15 @@ var webtrends = '';
                               <table class="column_table" cellspacing="0" cellpadding="0" border="0">
                         
                     
-                                <tbody><tr><td><a href="/mcd/our_company/our-ambition.html">Our Ambition</a></td></tr>
+                                <tbody><tr><td><a href="/content/mcd/our_company/our-ambition.html">Our Ambition</a></td></tr>
                                 
-                                <tr><td><a href="/mcd/our_company/business-model.html">Business Model</a></td></tr>
+                                <tr><td><a href="/content/mcd/our_company/business-model.html">Business Model</a></td></tr>
                                 
-                                <tr><td><a href="/mcd/our_company/mcdonalds-history.html">History</a></td></tr>
+                                <tr><td><a href="/content/mcd/our_company/mcdonalds-history.html">History</a></td></tr>
                                 
-                                <tr><td><a href="/mcd/our_company/leadership.html">Leadership</a></td></tr>
+                                <tr><td><a href="/content/mcd/our_company/leadership.html">Leadership</a></td></tr>
                                 
-                                <tr><td><a href="/mcd/our_company/faqs.html">FAQs</a></td></tr>
+                                <tr><td><a href="/content/mcd/our_company/faqs.html">FAQs</a></td></tr>
                                 
                           </tbody></table>
                         </div>
@@ -413,7 +550,7 @@ var webtrends = '';
             </li>
             
                         <li id="simplenav_li">
-                            <a data-gacode="NA" href="/mcd/investors.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/mcd/investors/jcr:content/navimage.img.png/1452548723520.png');"></a>
+                            <a data-gacode="NA" href="/content/mcd/investors.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/mcd/investors/jcr:content/navimage.img.png/1452548723520.png');"></a>
                         
                     <div class="active_nav_widget" id="simplenav_layer">
                       <div id="simplenav_inner_layer">
@@ -422,19 +559,19 @@ var webtrends = '';
                               <table class="column_table" cellspacing="0" cellpadding="0" border="0">
                         
                     
-                                <tbody><tr><td><a href="/mcd/investors/company-overview.html">Company Overview</a></td></tr>
+                                <tbody><tr><td><a href="/content/mcd/investors/company-overview.html">Company Overview</a></td></tr>
                                 
-                                <tr><td><a href="/mcd/investors/financial-information.html">Financial Information</a></td></tr>
+                                <tr><td><a href="/content/mcd/investors/financial-information.html">Financial Information</a></td></tr>
                                 
-                                <tr><td><a href="/mcd/investors/news-events.html">News &amp; Events</a></td></tr>
+                                <tr><td><a href="/content/mcd/investors/news-events.html">News &amp; Events</a></td></tr>
                                 
-                                <tr><td><a href="/mcd/investors/stock-information.html">Stock Information</a></td></tr>
+                                <tr><td><a href="/content/mcd/investors/stock-information.html">Stock Information</a></td></tr>
                                 
-                                <tr><td><a href="/mcd/investors/corporate-governance.html">Corporate Governance</a></td></tr>
+                                <tr><td><a href="/content/mcd/investors/corporate-governance.html">Corporate Governance</a></td></tr>
                                 
-                                <tr><td><a href="/mcd/investors/shareholder-information.html">Shareholder Information</a></td></tr>
+                                <tr><td><a href="/content/mcd/investors/shareholder-information.html">Shareholder Information</a></td></tr>
                                 
-                                <tr><td><a href="/mcd/investors/contacts-resources.html">Contacts &amp; Resources</a></td></tr>
+                                <tr><td><a href="/content/mcd/investors/contacts-resources.html">Contacts &amp; Resources</a></td></tr>
                                 
                           </tbody></table>
                         </div>
@@ -445,7 +582,7 @@ var webtrends = '';
             </li>
             
                         <li id="simplenav_li">
-                            <a data-gacode="NA" href="/mcd/franchising.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/mcd/franchising/jcr:content/navimage.img.png/1444943672170.png');"></a>
+                            <a data-gacode="NA" href="/content/mcd/franchising.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/mcd/franchising/jcr:content/navimage.img.png/1463088589546.png');"></a>
                         
                     <div class="active_nav_widget" id="simplenav_layer">
                       <div id="simplenav_inner_layer">
@@ -454,13 +591,13 @@ var webtrends = '';
                               <table class="column_table" cellspacing="0" cellpadding="0" border="0">
                         
                     
-                                <tbody><tr><td><a href="/mcd/franchising/us_franchising.html">U.S. Franchising</a></td></tr>
+                                <tbody><tr><td><a href="/content/mcd/franchising/us_franchising.html">U.S. Franchising</a></td></tr>
                                 
-                                <tr><td><a href="/mcd/franchising/international_franchising.html">International Franchising</a></td></tr>
+                                <tr><td><a href="/content/mcd/franchising/international_franchising.html">International Franchising</a></td></tr>
                                 
-                                <tr><td><a href="/mcd/franchising/FAQs.html">Franchising FAQs</a></td></tr>
+                                <tr><td><a href="/content/mcd/franchising/FAQs.html">Franchising FAQs</a></td></tr>
                                 
-                                <tr><td><a href="/mcd/franchising/real_estate.html">U.S. Real Estate</a></td></tr>
+                                <tr><td><a href="/content/mcd/franchising/real_estate.html">U.S. Real Estate</a></td></tr>
                                 
                           </tbody></table>
                         </div>
@@ -471,7 +608,7 @@ var webtrends = '';
             </li>
             
                         <li id="simplenav_li">
-                            <a data-gacode="NA" href="/mcd/sustainability.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/mcd/sustainability/jcr:content/navimage.img.png/1453995325893.png');"></a>
+                            <a data-gacode="NA" href="/content/mcd/sustainability.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/mcd/sustainability/jcr:content/navimage.img.png/1453995325893.png');"></a>
                         
                     <div class="active_nav_widget" id="simplenav_layer">
                       <div id="simplenav_inner_layer">
@@ -480,15 +617,15 @@ var webtrends = '';
                               <table class="column_table" cellspacing="0" cellpadding="0" border="0">
                         
                     
-                                <tbody><tr><td><a href="/mcd/sustainability/food.html">Food</a></td></tr>
+                                <tbody><tr><td><a href="/content/mcd/sustainability/food.html">Food</a></td></tr>
                                 
-                                <tr><td><a href="/mcd/sustainability/sourcing.html">Sourcing</a></td></tr>
+                                <tr><td><a href="/content/mcd/sustainability/sourcing.html">Sourcing</a></td></tr>
                                 
-                                <tr><td><a href="/mcd/sustainability/planet.html">Planet</a></td></tr>
+                                <tr><td><a href="/content/mcd/sustainability/planet.html">Planet</a></td></tr>
                                 
-                                <tr><td><a href="/mcd/sustainability/people.html">People</a></td></tr>
+                                <tr><td><a href="/content/mcd/sustainability/people.html">People</a></td></tr>
                                 
-                                <tr><td><a href="/mcd/sustainability/community.html">Community</a></td></tr>
+                                <tr><td><a href="/content/mcd/sustainability/community.html">Community</a></td></tr>
                                 
                           </tbody></table>
                         </div>
@@ -504,7 +641,7 @@ var webtrends = '';
             </li>
             
                         <li id="simplenav_li">
-                            <a data-gacode="NA" href="/mcd/corporate_careers.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/mcd/corporate_careers/jcr:content/navimage.img.png/1459454952852.png');"></a>
+                            <a data-gacode="NA" href="/content/mcd/corporate_careers.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/mcd/corporate_careers/jcr:content/navimage.img.png/1459454952852.png');"></a>
                         
                     <div class="active_nav_widget" id="simplenav_layer">
                       <div id="simplenav_inner_layer">
@@ -513,17 +650,17 @@ var webtrends = '';
                               <table class="column_table" cellspacing="0" cellpadding="0" border="0">
                         
                     
-                                <tbody><tr><td><a href="/mcd/corporate_careers/working_here.html">Working Here</a></td></tr>
+                                <tbody><tr><td><a href="/content/mcd/corporate_careers/working_here.html">Working Here</a></td></tr>
                                 
-                                <tr><td><a href="/mcd/corporate_careers/training_and_development.html">Training &amp; Development</a></td></tr>
+                                <tr><td><a href="/content/mcd/corporate_careers/training_and_development.html">Training &amp; Development</a></td></tr>
                                 
-                                <tr><td><a href="/mcd/corporate_careers/benefits.html">Benefits</a></td></tr>
+                                <tr><td><a href="/content/mcd/corporate_careers/benefits.html">Benefits</a></td></tr>
                                 
-                                <tr><td><a href="/mcd/corporate_careers/career_resource_center.html">Career Resource Center</a></td></tr>
+                                <tr><td><a href="/content/mcd/corporate_careers/career_resource_center.html">Career Resource Center</a></td></tr>
                                 
-                                <tr><td><a href="/mcd/corporate_careers/inclusion_and_diversity.html">Inclusion &amp; Diversity</a></td></tr>
+                                <tr><td><a href="/content/mcd/corporate_careers/inclusion_and_diversity.html">Inclusion &amp; Diversity</a></td></tr>
                                 
-                                <tr><td><a href="/mcd/corporate_careers/student_zone.html">Student Zone</a></td></tr>
+                                <tr><td><a href="/content/mcd/corporate_careers/student_zone.html">Student Zone</a></td></tr>
                                 
                           </tbody></table>
                         </div>
@@ -534,7 +671,7 @@ var webtrends = '';
             </li>
             
                         <li id="no_li">
-                            <a data-gacode="NA" href="/mcd/country.html" id="no_link" class="nav_item" style=""></a>
+                            <a data-gacode="NA" href="/content/mcd/country.html" id="no_link" class="nav_item" style=""></a>
                         
                     <div class="active_nav_widget" id="no_layer">
                       <div id="no_inner_layer">
@@ -639,18 +776,23 @@ function _utf8_encode(string) {
 
 
 
-</script></div>
+</script> </div>
 
-        </div> 
-        
-            <div id="breadcrumb">
-                <div class="mcdonaldsbreadcrumb breadcrumb">
-
+			
+		</div>
+		
+		
+			<div id="breadcrumb">
+				
+					<div class="breadcrumb mcdonaldsbreadcrumb">
 
  
+ 
+    
 
-
-  
+ 
+ 
+     
    
          
  
@@ -658,24 +800,28 @@ function _utf8_encode(string) {
                     
                 <a href="#" class="last">Privacy Policy</a>
                        
-        </div>       
-             
+        </div>  
  
      
   
       </div>
 
-            </div>
-        
-        <div id="notification">
-       
-         
-            <div id="search">
-               <div class="parbase search"> 
+				
+
+			</div>
+    
+		<div id="notification">
+			
+			
+				<div id="search">
+					
+
+						<div class="search parbase"> 
  
 
-
  
+ 
+    
    <form name="searchfrm" action="javascript:submitSearch();">
      Search&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="search" rel=""> 
    </form> 
@@ -693,15 +839,30 @@ function _utf8_encode(string) {
      }
      </script></div>
 
-           </div>
-        
-        
-          
-        
-            <div id="share">
-                <div class="share socialsharing">
-
+					
+				</div>
+			
+			
+			
+			
+			<!-- Start of Show Apply Now -->
+			
+			<!-- End of Show Apply Now -->
+			
+			<!-- Start of country switcher -->
+			
+			<!-- End of country switcher -->
+		
+		
+		
+			<!-- Start of Social Sharing -->
+			
+				<div id="share">
+					
+						<div class="share socialsharing">
  
+ 
+    
 
 
 
@@ -717,14 +878,14 @@ function _utf8_encode(string) {
     
     function facebook()
     {
-            //Tracker1('uri','/share/facebook','title','Share_Facebook','share',''+encodeURIComponent(location.href)+'');
+           // Tracker1('uri','/share/facebook','title','Share_Facebook','share',''+encodeURIComponent(location.href)+'');
             window.open('http://www.facebook.com/share.php?u='+encodeURIComponent(location.href)+'&t='+encodeURIComponent(document.title),'facebook');
     }
     
     function delicious()
     {
-           // Tracker1('uri','/share/delicious','title','Share_Delicious','share',''+encodeURIComponent(location.href)+'');        
-           window.open('http://delicious.com/save?v=5&noui&jump=close&url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title), 'delicious');
+            //Tracker1('uri','/share/delicious','title','Share_Delicious','share',''+encodeURIComponent(location.href)+'');       
+             window.open('http://delicious.com/save?v=5&noui&jump=close&url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title), 'delicious');
     }
     
     function digg()
@@ -735,37 +896,37 @@ function _utf8_encode(string) {
     
     function googlebuzz()
     {
-            //Tracker1('uri','/share/googlebuzz','title','Share_Google_Buzz','share',''+encodeURIComponent(location.href)+'');  
+           // Tracker1('uri','/share/googlebuzz','title','Share_Google_Buzz','share',''+encodeURIComponent(location.href)+'');  
         window.open('http://www.google.com/buzz/post?url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title),'googlebuzz');
     }
     
     function linkedin()
     {
-           // Tracker1('uri','/share/linkedin','title','Share_LinkedIn','share',''+encodeURIComponent(location.href)+''); 
+            //Tracker1('uri','/share/linkedin','title','Share_LinkedIn','share',''+encodeURIComponent(location.href)+''); 
         window.open('http://www.linkedin.com/shareArticle?mini=true&url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title)+'&source=mcdonalds','linkedin');
     }
     
     function blogger()
     {
-           // Tracker1('uri','/share/blogger','title','Share_Blogger','share',''+encodeURIComponent(location.href)+''); 
+            //Tracker1('uri','/share/blogger','title','Share_Blogger','share',''+encodeURIComponent(location.href)+''); 
         window.open('http://www.blogger.com/blog_this.pyra?t&u='+encodeURIComponent(location.href)+'&n='+encodeURIComponent(document.title),'blogger');
     }
     
     function emailform()
     {
-           // Tracker1('uri','/share/emailform','title','Share_Email','share',''+encodeURIComponent(location.href)+''); 
+            //Tracker1('uri','/share/emailform','title','Share_Email','share',''+encodeURIComponent(location.href)+''); 
     }
     
     function rssnews()
     {
-            //Tracker1('uri','/share/rssnews','title','Share_RSSNews','share',''+encodeURIComponent(location.href)+''); 
+           // Tracker1('uri','/share/rssnews','title','Share_RSSNews','share',''+encodeURIComponent(location.href)+''); 
     }
 
 </script>  
                 
                 
         <a href="javascript:void(0);">Share</a>
-           </div>
+           
 
 <div id="share_spacer"></div> 
     
@@ -773,7 +934,7 @@ function _utf8_encode(string) {
   
 <div id="share_flyout" class="alt" style="display: none; top: 30px; left: -1.84375px;">
     
-                <a href="/mcd/privacy_policy.emailform.html?currentPageTitle=Privacy+Policy+-+McDonald%27s+Corporate+website&amp;currentPageUrl=http%3A%2F%2Fwww.aboutmcdonalds.com%2F%2Fmcd%2Fprivacy_policy.html&amp;currentPagePath=%2Fcontent%2Fmcd%2Fprivacy_policy" id="share_email" title="E-mail" class="cboxElement"><img src="/content/dam/McDonalds/socialsharing/share_email.png" width="16" height="16" alt="E-mail"></a>
+                <a href="/content/mcd/privacy_policy.emailform.html?currentPageTitle=Privacy+Policy+-+McDonald%27s+Corporate+website&amp;currentPageUrl=http%3A%2F%2Fcorporate.mcdonalds.com%2Fcontent%2Fmcd%2Fprivacy_policy.html&amp;currentPagePath=%2Fcontent%2Fmcd%2Fprivacy_policy" id="share_email" title="E-mail" class="cboxElement"><img src="/content/dam/McDonalds/socialsharing/share_email.png" width="16" height="16" alt="E-mail"></a>
             
                 <a href="javascript:facebook();" class="external" id="share_facebook" title="Facebook"><img src="/content/dam/McDonalds/socialsharing/share_facebook.png" width="16" height="16" alt="Facebook"></a>      
             
@@ -785,46 +946,66 @@ function _utf8_encode(string) {
             
 </div> 
 <div style="clear:both"></div>
+</div>
 
-    </div>
+					
+				</div>	
+			
+			
+			
+			
+			
+			
+			<!-- Wei - 6/25/2013 - for ie10 pinning -->
+			
 
-        
-         
-              
+			
+
+
+			
+			
         </div>
-        
-    </div>
-</div>  
-     
-        
-        
 
+    </div>
+</div>
+<script type="text/javascript"> 
+          var hideSocial="false";
+          if(hideSocial=="true"){
+          $("#share").css("background","none");
+          }
+</script>
+        
 
  
+ 
+    
     <div id="page_wrapper">
         <div id="page_content">
     
     
         <div id="page_narrow_hero" style="padding-top: 40px; #padding-top: 34px;padding-bottom: 0px; max-width:886px;overflow:hidden; margin-bottom:-2px; #margin-bottom:0px; _margin-bottom:0px;">
-            <div class="parsys herosectionpar">
+            <div class="herosectionpar parsys">
 </div>
 
         </div>
+   
         
         
         <div id="content_section" style="background-color:#FFFFFF;  ">
-        
-                
 
+                
  
+ 
+    
      
     <div id="page_narrow_content"> 
         <div style="padding-top: 44px; padding-left: 43px; padding-right:30px; padding-bottom:30px;">
-            <div class="parsys genericpagecontent"><div class="uploadHtml section">
-
+            <div class="genericpagecontent parsys"><div class="uploadHtml section">
 
 
  
+ 
+    
       <div id="import_html">
             <h1>McDonald's Privacy Policy</h1>
 <p><br>
@@ -834,17 +1015,17 @@ This Privacy Policy describes the types of personal information we collect from 
 <a name="top"></a><br>
 </p>
 <ol style="margin-left: 40px;">
-<li><a href="/mcd/privacy_policy.html#1">Types of Information We Collect and How It Is Used</a></li>
-<li><a href="/mcd/privacy_policy.html#2">Sharing of Personal Information</a></li>
-<li><a href="/mcd/privacy_policy.html#children">Children’s Privacy Notice</a></li>
-<li><a href="/mcd/privacy_policy.html#4">Access</a></li>
-<li><a href="/mcd/privacy_policy.html#5">Cookies</a></li>
-<li><a href="/mcd/privacy_policy.html#6">Targeted Advertising</a></li>
-<li><a href="/mcd/privacy_policy.html#7">Links to Other Sites</a></li>
-<li><a href="/mcd/privacy_policy.html#8">Other McDonald's Online Services</a></li>
-<li><a href="/mcd/privacy_policy.html#9">McDonald’s Franchisees</a></li>
-<li><a href="/mcd/privacy_policy.html#10">Changes to our Privacy Policy</a></li>
-<li><a href="/mcd/privacy_policy.html#11">How to Contact Us</a></li>
+<li><a href="/content/mcd/privacy_policy.html#1">Types of Information We Collect and How It Is Used</a></li>
+<li><a href="/content/mcd/privacy_policy.html#2">Sharing of Personal Information</a></li>
+<li><a href="/content/mcd/privacy_policy.html#children">Children’s Privacy Notice</a></li>
+<li><a href="/content/mcd/privacy_policy.html#4">Access</a></li>
+<li><a href="/content/mcd/privacy_policy.html#5">Cookies</a></li>
+<li><a href="/content/mcd/privacy_policy.html#6">Targeted Advertising</a></li>
+<li><a href="/content/mcd/privacy_policy.html#7">Links to Other Sites</a></li>
+<li><a href="/content/mcd/privacy_policy.html#8">Other McDonald's Online Services</a></li>
+<li><a href="/content/mcd/privacy_policy.html#9">McDonald’s Franchisees</a></li>
+<li><a href="/content/mcd/privacy_policy.html#10">Changes to our Privacy Policy</a></li>
+<li><a href="/content/mcd/privacy_policy.html#11">How to Contact Us</a></li>
 </ol>
 <p><a href="#11"><br>
 <b></b><b></b></a><b><a name="1"></a>1. Types of Information We Collect and How It Is Used</b><br>
@@ -859,7 +1040,7 @@ This Privacy Policy describes the types of personal information we collect from 
 </p>
 <p style="margin-left: 40px;">Mobile Apps and mobile versions of our Sites may collect precise information about the location of your mobile device using location awareness technologies such as GPS, Wi-Fi, Bluetooth or cell tower proximity. &nbsp; McDonald's uses this information for location-based services that you request such as locating nearby McDonald's restaurants or identifying special offers that may be of interest to you, or personalizing your interactions with McDonald’s. &nbsp; For most mobile devices, you are able to withdraw your permission for McDonald's to acquire this information on your location through the device settings.  &nbsp; If you have questions about how to disable your mobile device's location services, we recommend you contact your mobile device service provider or the device manufacturer.  &nbsp; If you would like us to delete location information we have collected, please contact us at the email or postal address listed below. &nbsp; Please note that the applications may not function properly following deletion, and that we may be required by law to retain certain information.<br>
 </p>
-<p style="margin-left: 40px;"><a href="/mcd/privacy_policy.html#top">Back to Top</a></p>
+<p style="margin-left: 40px;"><a href="/content/mcd/privacy_policy.html#top">Back to Top</a></p>
 <p><b><a name="2"></a>2. Sharing of Personal Information</b><br>
 </p>
 <p style="margin-left: 40px;">McDonald's may share personal information within the McDonald's Family.&nbsp; The McDonald's Family includes McDonald's Corporation, our franchisees, our subsidiaries and our affiliates. Of course, any use of this information by the McDonald's Family will comply with this policy.&nbsp; Occasionally, with your permission, we will send marketing information to you, such as discount coupons, information about new product offerings, etc.&nbsp; If you do not elect to receive such materials, we will not send them to you. &nbsp;<br>
@@ -870,7 +1051,7 @@ This Privacy Policy describes the types of personal information we collect from 
 </p>
 <p style="margin-left: 40px;">McDonald's reserves the right to use or disclose any information as needed to satisfy any law, regulation or legal request, to protect the integrity of the Online Service, to fulfill your requests, or to cooperate in any law enforcement investigation or an investigation on a matter of public safety.<br>
 </p>
-<p style="margin-left: 40px;"><a href="/mcd/privacy_policy.html#top">Back to Top</a></p>
+<p style="margin-left: 40px;"><a href="/content/mcd/privacy_policy.html#top">Back to Top</a></p>
 <p><b><span id="children">3. Children's Privacy Notice</span></b><br>
 </p>
 <p style="margin-left: 40px;">McDonald's understands the importance of privacy to visitors to and users of our Online Services.  &nbsp; We are especially committed to protecting the privacy of children who visit or use our Online Services.  &nbsp; This Children's Privacy Notice is designed to answer your questions regarding our practices with respect to personal information we collect through our Online Services from children under the age of 13.<br>
@@ -913,13 +1094,13 @@ Dept. 282<br>
 Oak Brook, IL 60523, USA<br>
 (800) 244-6227<br>
 or e-mail us at <a href="mailto:contact.privacy@us.mcd.com">contact.privacy@us.mcd.com</a></p>
-<p style="margin-left: 40px;"><a href="/mcd/privacy_policy.html#top">Back to Top</a></p>
+<p style="margin-left: 40px;"><a href="/content/mcd/privacy_policy.html#top">Back to Top</a></p>
 <p>&nbsp;<br>
 <b><a name="4"></a>4. Access</b><br>
 </p>
 <p style="margin-left: 40px;">You are in control of any personal information you provide to us through our Online Services.&nbsp; If at any time, you would like to correct the personal information we have about you or if you would like to change your preferences for contacts from us or on behalf of our business partners, you can let us know by contacting us at the email or postal address listed below.<br>
 </p>
-<p style="margin-left: 40px;"><a href="/mcd/privacy_policy.html#top">Back to Top</a></p>
+<p style="margin-left: 40px;"><a href="/content/mcd/privacy_policy.html#top">Back to Top</a></p>
 <p><b><a name="5"></a>5. Cookies</b><br>
 </p>
 <p style="margin-left: 40px;">A "cookie" is a text file that websites send to a visitor's computer or other Internet-connected device to uniquely identify the visitor's browser or to store information or settings in the browser. &nbsp; Like most websites, McDonald's uses cookies for a variety of purposes in order to improve your online experience.  &nbsp;For example, we track the total number of visitors to our Sites on an anonymous aggregate basis.  &nbsp;We may also employ cookies so that we remember you when you return to the Site, to keep track of the items in your shopping cart if you purchase merchandise online, to administer certain contests and sweepstakes and to help customize your McDonald's web experience. &nbsp; We may associate personal information with a cookie file in those instances. &nbsp; Both we and others (such as out advertising networks) may collect personal information about our visitors’ online activities, overtime and across third-party websites, when using our Online services.<br>
@@ -928,7 +1109,7 @@ or e-mail us at <a href="mailto:contact.privacy@us.mcd.com">contact.privacy@us.m
 </p>
 <p style="margin-left: 40px;">
 California Business &amp; Professions Code Section 22575(b)(as amended effective January 1, 2014) provides that California residents are entitled to know how McDonald’s responds to “Do Not Track” browser settings.  McDonald’s does not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed.  We continue to review new technologies and may adopt a standard once one is created.</p>
-<p style="margin-left: 40px;"><a href="/mcd/privacy_policy.html#top">Back to Top</a></p>
+<p style="margin-left: 40px;"><a href="/content/mcd/privacy_policy.html#top">Back to Top</a></p>
 <p><b><a name="6"></a>6. Targeted Advertising</b><br>
 </p>
 <p style="margin-left: 40px;">On our Online Services, we may collect information about your online activities for use in providing you with advertising tailored to your individual interests. &nbsp; This section of our Privacy Policy provides details and explains how to exercise your choices.<br>
@@ -941,27 +1122,27 @@ California Business &amp; Professions Code Section 22575(b)(as amended effective
 <li> <a href="http://www.evidon.com" target=" _blank;">www.evidon.com.</a></li></ul>
 <p style="margin-left: 40px;">Please note that even if you opt out, you will continue to receive advertisements, but they will not be tailored to your specific interests.<br>
 </p>
-<p style="margin-left: 40px;"><a href="/mcd/privacy_policy.html#top">Back to Top</a></p>
+<p style="margin-left: 40px;"><a href="/content/mcd/privacy_policy.html#top">Back to Top</a></p>
 <p><b><a name="7"></a>7. Links to Other Sites</b><br>
 </p>
 <p style="margin-left: 40px;">We may offer links to sites that are not operated by McDonald's Corporation.&nbsp; If you visit one of these linked sites, you should review their privacy and other policies.&nbsp; We are not responsible for the policies and practices of other companies, and any information you submit to those companies is subject to their privacy policies.<br>
 </p>
-<p style="margin-left: 40px;"><a href="/mcd/privacy_policy.html#top">Back to Top</a></p>
+<p style="margin-left: 40px;"><a href="/content/mcd/privacy_policy.html#top">Back to Top</a></p>
 <p><b><a name="8"></a>8. Other McDonald's Online Services</b><br>
 </p>
 <p style="margin-left: 40px;">All McDonald's Online Services operated by McDonald's Corporation will adhere to this Privacy Policy.   &nbsp; The policies of some McDonald's Sites or Mobile Apps may vary, however, because of local customs, practices or laws or due to circumstances unique to that Site. &nbsp; In all cases, however, Online Services operated by McDonald's Corporation will honor the commitments to our customers set forth in this Policy regarding the collection and use of personal information.<br>
 </p>
-<p style="margin-left: 40px;"><a href="/mcd/privacy_policy.html#top">Back to Top</a></p>
+<p style="margin-left: 40px;"><a href="/content/mcd/privacy_policy.html#top">Back to Top</a></p>
 <p><b><a name="9"></a>9. McDonald's Franchisees</b></p>
 <p></p>
 <p style="margin-left: 40px;">Many McDonald's restaurants are owned and operated by franchisees, who are independent businessmen and women.  &nbsp; Some franchisees also operate websites or provide mobile device applications. &nbsp;   These web sites and apps are not operated by McDonald's and are not subject to this Privacy Policy.  Please review the Privacy Policy of each site and mobile app to determine the privacy policies of that site.<br>
 </p>
-<p style="margin-left: 40px;"><a href="/mcd/privacy_policy.html#top">Back to Top</a></p>
+<p style="margin-left: 40px;"><a href="/content/mcd/privacy_policy.html#top">Back to Top</a></p>
 <p><b><a name="10"></a>10. Changes to our Privacy Policy</b><br>
 </p>
 <p style="margin-left: 40px;">This Privacy Policy is effective as of September 21, 2015.  &nbsp; From time to time, it may be necessary for McDonald's to change this Privacy Policy.  &nbsp; If we change our policy, we will post the revised version here, so we suggest that you check here periodically for the most up-to-date version of our Privacy Policy. &nbsp;  Rest assured, however, that any changes will not be retroactively applied and will not alter how we handle previously collected information. <br>
 </p>
-<p style="margin-left: 40px;"><a href="/mcd/privacy_policy.html#top">Back to Top</a></p>
+<p style="margin-left: 40px;"><a href="/content/mcd/privacy_policy.html#top">Back to Top</a></p>
 <p><b><a name="11"></a>11. How to Contact Us</b><br>
 </p>
 <p style="margin-left: 40px;">Privacy at McDonald's<br>
@@ -970,7 +1151,7 @@ Dept. 282<br>
 Oak Brook, IL 60523, USA<br>
 (800) 244-6227<br>
 or e-mail us at <a href="mailto:contact.privacy@us.mcd.com">contact.privacy@us.mcd.com</a></p>
-<p style="margin-left: 40px;"><a href="/mcd/privacy_policy.html#top">Back to Top</a></p>
+<p style="margin-left: 40px;"><a href="/content/mcd/privacy_policy.html#top">Back to Top</a></p>
 <p style="margin-left: 40px;"> Click <a href="/mcd/privacy_policy_previous.html">here</a> for the prior version of McDonald's Privacy Policy.</p>
       </div>
 </div>
@@ -981,17 +1162,19 @@ or e-mail us at <a href="mailto:contact.privacy@us.mcd.com">contact.privacy@us.m
     </div>
 
     <div id="page_right_sidebar" style="padding-top: 44px;">
-        <div class="parsys iparsys rightsidecontent"><div class="iparys_inherited"><div class="parsys iparsys rightsidecontent">
-</div>
+	
+	
+        <div class="parsys rightsidecontent iparsys"><div class="iparys_inherited"><div class="parsys rightsidecontent iparsys"></div>
 </div>
 </div>
 
     
             <div>
-                <div class="featuredcontent parsys iparsys"><div class="iparys_inherited"><div class="featuredcontent parsys iparsys"></div>
-</div><div class="everything section">
-
+                <div class="parsys featuredcontent iparsys"><div class="iparys_inherited"><div class="parsys featuredcontent iparsys"></div>
+</div><div class="section everything">
  
+ 
+    
 
   
 
@@ -1016,7 +1199,7 @@ or e-mail us at <a href="mailto:contact.privacy@us.mcd.com">contact.privacy@us.m
 </td> 
 
 </tr>
-
+ 
             
         </tbody></table>
         </div>
@@ -1046,14 +1229,14 @@ or e-mail us at <a href="mailto:contact.privacy@us.mcd.com">contact.privacy@us.m
         </div>
     
         <div id="page_footer">
-            <div class="parsys iparsys footeripar"><div class="iparys_inherited"><div class="parsys iparsys footeripar"><div class="footer section">
+            <div class="footeripar parsys iparsys"><div class="iparys_inherited"><div class="footeripar parsys iparsys"><div class="footer section">
+ 
+ 
+    
 
  
 
  
-
- 
-   
 <style>
     #page_footer, #page_footer a 
     {
@@ -1065,22 +1248,21 @@ or e-mail us at <a href="mailto:contact.privacy@us.mcd.com">contact.privacy@us.m
     
     function twitterMCD() 
     { 
-       // Tracker('uri','/twitter/McDonalds','title','Go to Twitter.com/McDonalds');  
-         window.open('http://www.twitter.com/McDonalds'); 
+
+        window.open('http://www.twitter.com/McDonalds'); 
     }
       function YouTubeMCD() 
-    { //alert("inside function");
-       // Tracker('uri','/twitter/McDonalds','title','Go to Twitter.com/McDonalds');  
+    { 
         window.open('http://www.YouTube.com/McDonalds'); 
     }
       function FlickerMCD() 
     { 
-       // Tracker('uri','/twitter/McDonalds','title','Go to Twitter.com/McDonalds');  
+
         window.open('http://www.Flicker.com/McDonalds'); 
     }
     function facebookMCD()
     {
-       // Tracker('uri','/facebook/McDonalds','title','Go to Facebook.com/McDonalds');
+
         window.open('http://www.facebook.com/McDonalds');
     }    
 </script>
@@ -1097,7 +1279,7 @@ or e-mail us at <a href="mailto:contact.privacy@us.mcd.com">contact.privacy@us.m
 <span id="footerSeparator">|</span>
                     </div>
                      <div style="float:left; margin-left:8px;">
-                 <a href="http://www.aboutmcdonalds.com/mcd/country/map.html" onclick="javascript:;" title="">Global Sites</a>
+                 <a href="/content/mcd/country/map.html" onclick="javascript:;" title="">Global Sites</a>
 <span id="footerSeparator">|</span>
                     </div>
        <div style="float:left;"><span>&nbsp;&nbsp;Follow Us:&nbsp;</span></div>                      <div style="float:left; margin-left:4px;">
@@ -1137,11 +1319,11 @@ or e-mail us at <a href="mailto:contact.privacy@us.mcd.com">contact.privacy@us.m
             
         <td align="right" valign="right" class="not_bigger_but_bolder">
 
-      <a href="/mcd/privacy_policy.html">Privacy</a>
+      <a href="/content/mcd/privacy_policy.html">Privacy</a>
       
            <span>|</span> 
 
-      <a href="/mcd/terms_conditions.html">Terms &amp; Conditions</a>
+      <a href="/content/mcd/terms_conditions.html">Terms &amp; Conditions</a>
         
   
          <span style="color:#;font-size:px;"><br> ©2010-2016&nbsp;&nbsp;McDonald's. All Rights Reserved</span>
@@ -1150,7 +1332,6 @@ or e-mail us at <a href="mailto:contact.privacy@us.mcd.com">contact.privacy@us.m
     </tr>
 </tbody></table>
         </div>
-
 </div>
 </div>
 </div>
@@ -1174,88 +1355,70 @@ or e-mail us at <a href="mailto:contact.privacy@us.mcd.com">contact.privacy@us.m
 -->
 
     </div>
+	
     
- 
-
-<script type="text/javascript">
+	<script type="text/javascript">
 
     if ($.browser.mozilla) {
-    
         $('.callout_body_segement').each(function () {
-
- 
-
             if ($(this).children('a').length > 1) {
-
                 $(this).children('a:last').hide();
-
                 $(this).children('.msg').hide();
-
             }
-
         });
-
     }
 
-</script>   
-<script type="text/javascript">
-        $(document).ready(function(){
-            
-            $('.featurecallout .callout_body_segement').callouts();
-   //       $('.callouts .callout_body_segement').callouts(); 
-             
-        });
-</script>  
+    $(document).ready(function(){
+        $('.featurecallout .callout_body_segement').callouts();
+    });
+    </script>  
+
  
- 
- 
-  <!-- START OF Google Analytics TAG -->
-<script type="text/javascript"> 
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', "UA-53610411-1"]); 
+			<!-- START OF Google Analytics TAG -->
+			<script type="text/javascript">
+		
+
+				var _gaq = _gaq || [];
+				_gaq.push(['_setAccount', "UA-53610411-1"]);   
+				_gaq.push(['_trackPageview']);
+
+				
 
 
-                                    
-_gaq.push(['_trackPageview']);
+					// Added for GA : AAG Left Nav
+					$("#leftnavigation").find("a.nav_item").click(function(){
+						var ga_code = $(this).attr('data-gacode');
+						if(typeof ga_code != "undefined" && ga_code != "NA") {
+							if($(this).hasClass('external')) {
+								_gaq.push(['_trackEvent', ga_code + '-bumper-open', 'click', 'LeftNav']);
+								return;
+							}
+							_gaq.push(['_trackEvent', ga_code , 'click', 'LeftNav']);
+						}
+					}); 
+				(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();
 
-// Added for GA : AAG Left Nav
-$("#leftnavigation").find("a.nav_item").click(function(){
-    var ga_code = $(this).attr('data-gacode');
-    if(typeof ga_code != "undefined" && ga_code != "NA") {
-        if($(this).hasClass('external')) {
-            _gaq.push(['_trackEvent', ga_code + '-bumper-open', 'click', 'LeftNav']);
-            return;
-        }
-        _gaq.push(['_trackEvent', ga_code , 'click', 'LeftNav']);
-    }
-}); 
+				
 
-(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
- 
-</script>
- <!-- END OF Google Analytics TAG -->   
- 
-     <!--Configurable DTM Code -->
-     
-    <!--Configurable DTM Code End -->
-     
-<script type="text/javascript">_satellite.pageBottom();</script>
+
+		
+		
+			</script>
+			<!-- END OF Google Analytics TAG --> 
+
     
-<script type="text/javascript">
-//<![CDATA[
-(function() {
-var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
-var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
-})();
-// ]]>
-</script>
-   
-   
+
+	          
+	<!--Configurable DTM Code -->
+	  <script type="text/javascript">_satellite.pageBottom();</script>
+
+	<!--Configurable DTM Code End -->
+
+
 <script type="text/javascript">
 
         var foodnav = new Image();
@@ -1263,17 +1426,14 @@ var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_ele
         foodnav.src = "/images/navigation/food_flyout_bg.png";
 
         var promonav = new Image();
-
         promonav.src = "/images/navigation/promotions_flyout_bg.png";
 
         var singlenav = new Image();
-
         singlenav.src = "/images/navigation/nav_single_column_bg.png";
 
         var inputnav = new Image();
-
         inputnav.src = "/images/navigation/input_flyout_bg.png";
 
 </script>       
 
-                              </body></html>
+</body></html>
