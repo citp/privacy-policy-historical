@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlicious.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616224857id_/http%3A//articlicious.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlicious.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120133717id_/http%3A//articlicious.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Articlicious
 
@@ -34,4 +34,8 @@ The contents of this statement may be altered at any time, at our discretion.
 
 ### Contact Information
 
-If you have any questions regarding the privacy policy of **Articlicious** then you can email us at wwday3[at]gmail.com. You can also use the Contact link at the top of the website.
+If you have any questions regarding the privacy policy of **Articlicious** then you can email us at 
+
+__wwday3@gmail.com__
+
+. You can also use the Contact link at the top of the website.
