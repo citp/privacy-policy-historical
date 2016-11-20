@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncsasports.org privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514110847id_/http%3A//www.ncsasports.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncsasports.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120030015id_/http%3A//www.ncsasports.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Play Sports in College
 
