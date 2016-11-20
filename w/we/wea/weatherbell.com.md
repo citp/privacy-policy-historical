@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weatherbell.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604073256id_/http%3A//www.weatherbell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatherbell.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120100509id_/http%3A//www.weatherbell.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,7 +11,7 @@ Sometimes, we may post product specific privacy notices to explain our products 
 If you have any questions about this Privacy Policy, please feel free to contact us through our website or write to us or email us at:
 
 **WeatherBELL Analytics LLC**  
-**Attn: **Privacy Policy**  
+ **Attn: **Privacy Policy**  
 17th Floor  
 555 Fifth Ave  
 New York, NY 10017  
