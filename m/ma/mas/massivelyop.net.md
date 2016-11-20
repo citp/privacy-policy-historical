@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massivelyop.net privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630120410id_/http%3A//massivelyop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massivelyop.net privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120080535id_/http%3A//massivelyop.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Massively Overpowered
 
