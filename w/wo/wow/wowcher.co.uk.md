@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wowcher.co.uk privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612120936id_/http%3A//www.wowcher.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowcher.co.uk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120124418id_/http%3A//www.wowcher.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # Wowcher | Privacy Policy
 
-Effective from 6 April 2016
+Effective from 3 October 2016
 
 This privacy policy applies only to this website (the "Site"). If you do not accept this privacy policy, you must not use the Site.
 
@@ -47,7 +47,7 @@ By using this Site, you agree that we may collect, hold, process and use your in
 
 We may share information about you with suppliers that we engage to help us provide certain services and/or functionality e.g online payment processing. We will use reasonable endeavours to control and be responsible for the use of your information by such suppliers. Furthermore, by using the Site, you consent to the transfer of your personal information outside of the European Economic Area (which may not provide the same protection for such information as the European Economic Area provides) in the event that the processing of your information involves such a transfer.
 
-We may disclose your information (including personal information) to other companies within our group which include LivingSocial Limited and LivingSocial Europe Limited and may use and share with those companies information that we learn from your interactions with us and from other companies in our group.
+We may disclose your information (including personal information) throughout our company (including in relation to other brands which are owned by Wowcher Limited) and to other companies within our group which includes LivingSocial Europe Limited and may use and share with those companies information that we learn from your interactions with us and from other companies in our group.
 
 Subject to your consent, your personal information may be used by us and/or other companies within our group to contact you by email, fax, telephone, SMS and/or post with information and offers on products/services provided by us and/or other companies within the group. 
 
