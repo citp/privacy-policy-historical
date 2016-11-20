@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stripteasecomic.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525215954id_/http%3A//www.keenspot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stripteasecomic.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120165343id_/http%3A//www.keenspot.com/privacy.html) for the most accurate reproduction.*
 
 # Keenspot.com: Privacy Policy
 
