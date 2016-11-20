@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gps-coordinates.org privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201144433id_/http%3A//www.gps-coordinates.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gps-coordinates.org privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121005056id_/http%3A//gps-coordinates.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
