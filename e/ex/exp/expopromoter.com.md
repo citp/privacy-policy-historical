@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expopromoter.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517214313id_/http%3A//expopromoter.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expopromoter.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120070831id_/http%3A//expopromoter.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - ExpoPromoter
 
@@ -24,7 +24,7 @@ ExpoPromoter may share your information to conform the requirements of law or�
 
 ExpoPromoter also expects its partners, advertisers and affiliates to respect the privacy of its users. Be aware, however, that third parties, including ExpoPromoter partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy policies. For example, during your visit to our site you may link to the page, where certain content is actually created or hosted by a third party. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. 
 
-## How Cookies is used
+## How Cookies are used
 
 ExpoPromoter uses cookies to store and sometimes track the information about you. It is employed to reduce the time spent by you while web-surfing and for effectiveness optimization. Cookies are small pieces of information that a web site sends to your computer for record-keeping purposes, which information is stored in a file on your computer. Anyways, you have always an option of blocking the cookies installation, but be aware that it may affect the functioning of our site's features. Cookies will not cause any damage and is not aimed at retrieving any personal data.
 
