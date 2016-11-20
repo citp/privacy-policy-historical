@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the upmirror.info privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923055747id_/http%3A//upmirror.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upmirror.info privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120112651id_/http%3A//upmirror.info/privacy.php) for the most accurate reproduction.*
 
-# 
+# UP Mirror Best file mirroring service
 
 **Google Advertising Cookie** Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to the users based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)
 
