@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lookyoungforever.org privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823015009id_/http%3A//www.lookyoungforever.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookyoungforever.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120201052id_/http%3A//www.lookyoungforever.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Looking Young Forever
+# Privacy Policy | Look Young Forever | How To Look Young Naturally | How To Look Younger At 40
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
