@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jumpshare.com privacy policy that was archived on 2016-03-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160326194328id_/https%3A//jumpshare.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jumpshare.com privacy policy that was archived on 2016-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120181916id_/https%3A//jumpshare.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="unknown platform mozilla js flexbox flexboxlegacy canvas canvastext hashchange draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio applicationcache" style="" data-useragent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3494.0 Safari/537.36" data-platform="Linux x86_64"><head>
     <meta name="google-site-verification" content="K6QBzjeajrYEZSpyv8nbyb-FCOhI-zEDE4vRsYrRLn4">
@@ -13,7 +13,7 @@
 		
 		
 		
-		<link rel="apple-touch-icon" href="apple-touch-icon.png">
+		<link rel="apple-touch-icon" href="favicon.png">
 
 		<style>
 @font-face {
@@ -29,8 +29,8 @@
   font-weight: 600;
   font-style: "normal";
 }
-</style><link href="https://df93jn2oarhia.cloudfront.net/res/cssm/jumpshare_1458032217.css" rel="stylesheet" type="text/css" media="screen, projection, print">
-<link href="https://df93jn2oarhia.cloudfront.net/res/cssm/nprogress_1452029411.css" rel="stylesheet" type="text/css" media="screen, projection">
+</style><link href="https://df93jn2oarhia.cloudfront.net/res/cssm/jumpshare_1478859393.css" rel="stylesheet" type="text/css" media="screen, projection, print">
+<link href="https://df93jn2oarhia.cloudfront.net/res/cssm/nprogress_1468940246.css" rel="stylesheet" type="text/css" media="screen, projection">
 		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/res/css/modernizr.js"></script>
 
 	<script type="text/javascript">
@@ -44,18 +44,20 @@
 		var SHORT_BASEURL = 'https://jumpshare.com/';
 		var CUSTOM_DOMAIN_URL = '';
 		var SHORT_URL_STATUS = '0';
+		var VERIFIED = '1'; // Setting the default value to 1, becasue Verification is disabled
 		var SITETITLE = 'Jumpshare';
 		var PLANID = 0;
 		var VIEW = '';
 		var TZ = '';
 		var TZ_OFFSET = parseInt(0);
+		var DesktopPushNotificationsWebRoom = "";
 		if (typeof console == "undefined" || typeof console.log == "undefined") var console = { log: function() {}, error: function() {} };
 	</script>
 
     	    		
 
 
-		<script type="text/javascript" src="/res/jsm/js0_1458910197.js?state=/"></script>
+		<script type="text/javascript" src="/res/jsm/js0_1478892152.js?state=/"></script>
 				<script type="text/javascript">
 			Jmp.Helpers.update_iur("false");
 		</script>
@@ -63,7 +65,16 @@
 	
 
 
+<script src="https://apis.google.com/js/client:platform.js?onload=start" async="" defer=""></script>
 <script type="text/javascript">
+	function start() {
+		gapi.load('auth2', function() {
+			auth2 = gapi.auth2.init({
+				client_id: '914678231703-a4bf1crqfmgfbklkc43dgcukcg4gefr1.apps.googleusercontent.com',
+			});
+		});
+	}
+	
 	$.address.init(Jmp.App.onAddressInit).change(Jmp.App.onAddressChange);
 	var CSRF = {
 		token_name:  "jsactnk",
@@ -81,6 +92,7 @@
 <body id="uploads-page" class=" preload">
 
   
+
 <div class="notice-wrapper alert-yellow tag-yellow alert-warning outdated-browser hide">
 	<div class="alert"> You're using an outdated version of the browser which is incompatible with Jumpshare. <a href="http://outdatedbrowser.com/" class="" style="margin-left: 5px;text-decoration:underline;">Upgrade your browser</a> </div>
 </div>
@@ -101,6 +113,7 @@
 					<button type="button" id="viewer_copy_link" data-link="" class="btn btn-default pull-left">Copy Link</button>
 					<button type="button" id="viewer_share" class="btn btn-default pull-left">Share</button>
 					<button type="button" id="viewer_import" class="btn btn-default pull-left hide">Save</button>
+					<button type="button" id="viewer_restore_previous_version" class="btn btn-blue pull-left hide">Restore</button>
 					<button type="button" id="viewer_download" class="btn btn-blue pull-left">Download</button>
 					<a id="viewer_visit_original" href="" data-link="" target="_blank" rel="nofollow"><button type="button" class="btn btn-blue pull-left">Visit Link</button></a>
 				</span>
@@ -154,18 +167,6 @@
 						</div>
 						<div id="presentation_wrapper" class="presentation-wrapper ab-center hide">
 							<div id="presentation_container" class="presentation-container"></div>
-							<div class="pres-controls">
-								<div class="control-nav pull-left">
-									<a id="viewer_presentation_control_first_slide" href="#" class=""><span class="icn-first"></span></a>
-									<a id="viewer_presentation_control_prev_slide" href="#" class=""><span class="icn-previous"></span></a>
-									<a id="viewer_presentation_control_next_slide" href="#" class=""><span class="icn-next"></span></a>
-									<a id="viewer_presentation_control_last_slide" href="#" class=""><span class="icn-last"></span></a>
-								</div>
-								<div id="viewer_presentation_control_fullscreen" class="icon pull-right"><span class="icn-screen-zoom-in pull-left"></span></div>
-								<div class="pagin-wrapper pull-right">
-									<input id="viewer_presentation_control_goto" type="text" class="form-control pull-left" value="1"> <span id="viewer_presentation_control_total_pages">/ 1</span>
-								</div>
-							</div>
 						</div>
 						<div id="font_wrapper" class="font-wrapper ab-center">
 						</div>
@@ -222,6 +223,18 @@
 			<div id="document_outer" class="document-outer">
 				<div id="xclose" class="xclose"></div>
 				<div id="document_wrapper" class="document-wrapper"> </div>
+				<div id="pres_controls" class="pres-controls hide" style="position: relative; margin: auto; z-index: 999;">
+					<div class="control-nav pull-left">
+						<a id="viewer_presentation_control_first_slide" href="#" class=""><span class="icn-first"></span></a>
+						<a id="viewer_presentation_control_prev_slide" href="#" class=""><span class="icn-previous"></span></a>
+						<a id="viewer_presentation_control_next_slide" href="#" class=""><span class="icn-next"></span></a>
+						<a id="viewer_presentation_control_last_slide" href="#" class=""><span class="icn-last"></span></a>
+					</div>
+					<div id="viewer_presentation_control_fullscreen" class="icon pull-right"><span class="icn-screen-zoom-in pull-left"></span></div>
+					<div class="pagin-wrapper pull-right">
+						<input id="viewer_presentation_control_goto" type="text" class="form-control pull-left" value="1"> <span id="viewer_presentation_control_total_pages">/ 1</span>
+					</div>
+				</div>
 			</div>
 
 			<div id="download_message" class="hide">
@@ -267,9 +280,9 @@
 				<span class="status">Loading</span>
 			</div>
 
-			<div class="error-outer ab-center">
-        <h2>File Not Found</h2>
-        <p>The file you are looking for does not exist. It may have been removed.<br>To learn more, please visit our <a href="/help">Help Center</a>.</p>
+			<div class="error-outer ab-center" style="line-height:1.6;">
+        <h2 style="font-size:24px">File Not Found</h2>
+        <p style="line-height:1.6; ">The file you are looking for does not exist. It may have been removed.<br>To learn more, please visit our <a href="/help">Help Center</a>.</p>
       </div>
 
       <div class="embed-outer">
@@ -293,6 +306,7 @@
 
 	</div>
 </div>
+
     <div id="print_wrapper" class="print-wrapper">
   <div id="printContainer" hidden=""></div>
   <div id="mozPrintCallback-shim" hidden="">
@@ -450,6 +464,7 @@
 <!-- div id="fb-root"></div -->
 <script>
 	
+	
 		var is_loggedin_user = "false";
 
 	// (function(d, debug){
@@ -463,6 +478,9 @@
 	window.onload = function() {
 		if ($("#top_welcome_bar").length) {
 			$("body").addClass('global-notice').removeClass("preload");
+		}
+		else if ($("#download_app_dashboard").length) {
+			$("body").addClass('download-app-notice').removeClass("preload");
 		}
 		// else if ($(".notice-wrapper").length && !$(".notice-wrapper").hasClass("hide")) {
 		//   $("body").addClass('global-notice');
