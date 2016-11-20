@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collectionsetc.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618164953id_/http%3A//www.collectionsetc.com/helpprivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectionsetc.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120015700id_/http%3A//www.collectionsetc.com/helpprivacy.aspx) for the most accurate reproduction.*
 
 # Collections Etc.: Privacy & Security
 
@@ -14,7 +14,7 @@ Our policy also describes the choices you can make about how we collect and use 
 Our web site contains links to third-party web sites. Such linked sites are not under the control of Winston Brands and we are not responsible for the contents or privacy practices of any linked site.
 
 If you have any questions about our privacy policy:   
-1\. click [here](https://web.archive.org/web/20160618164953id_/http%3A//www.collectionsetc.com/emailus.aspx) to contact our Customer Care department via email,   
+1\. click [here](https://web.archive.org/web/20161120015700id_/http%3A//www.collectionsetc.com/emailus.aspx) to contact our Customer Care department via email,   
 2\. call us at 866-584-8010 seven days a week, 6:00 AM to midnight CST, or   
 3\. write us at Winston Brands Privacy Policy, Customer Care Department, 2521 Busse Road, Elk Grove Village, IL 60007.
 
@@ -45,13 +45,13 @@ How does Winston Brands use my information?
 
 You, our Customer, are the most important and valuable asset of our business. We will use the information collected from you to tailor our product offering and improve your shopping experience, making shopping easier and more enjoyable. This also enables us to process your orders, confirm your orders, notify you about backorders and alert you about updates to our web site, products and our privacy statement.
 
-When you purchase products online from us, request a catalog or otherwise provide us with personal information, we automatically add you to our customer database. Unless you have indicated that you do not want to receive promotional materials from us, we may contact you with offers from us about new products and services, discounts, special promotions or upcoming events. If you do not want to receive such communications from us, please call us at 866-584-8010 or [click here](https://web.archive.org/web/20160618164953id_/http%3A//www.collectionsetc.com/Privacy_OptOutForm.aspx) for other contact information. In addition, you may click the "Unsubscribe" link on any promotional email you receive from us to indicate you do not wish to receive such emails in the future.
+When you purchase products online from us, request a catalog or otherwise provide us with personal information, we automatically add you to our customer database. Unless you have indicated that you do not want to receive promotional materials from us, we may contact you with offers from us about new products and services, discounts, special promotions or upcoming events. If you do not want to receive such communications from us, please call us at 866-584-8010 or [click here](https://web.archive.org/web/20161120015700id_/http%3A//www.collectionsetc.com/Privacy_OptOutForm.aspx) for other contact information. In addition, you may click the "Unsubscribe" link on any promotional email you receive from us to indicate you do not wish to receive such emails in the future.
 
 If you have provided us with a valid email address, we will send you order confirmation emails and shipment confirmation emails when your order is shipped from our distribution centers. We may contact you by mail or telephone if we have questions about your order. If one or more of the items in your order is on backorder, you may receive an email notification regarding the expected delivery date. 
 
 Winston Brands and third party vendors that Winston Brands has retained, use Cookies and Action Tags (commonly referred to as Web Beacons or GIF tags) to perform analyses of visitor behavior, to measure the effectiveness of our advertising, and to personalize your shopping experience on our web site. We personalize our web site and emails by presenting you with content and offers specific to your interests. We may combine some of this information with personally identifiable information under certain circumstances—e.g., to personalize our site, emails and offers, to identify a visitor in order to enforce compliance with our policies or rules, in response to a subpoena, or to protect our site, guests, and others.
 
-Winston Brands also uses third party advertising companies to serve ads on our behalf across the Internet. These third party advertising companies may collect information about your visits to our web site and other web sites, and your interaction with our ads. For instance, they may keep track of how many of our ads you had seen before visiting our site, or what website you visited after leaving one of our sites. We may use demographic and preference information about users of our web site to allow advertisements to be targeted to those users for whom they are most pertinent. This means that users see advertising that is most likely to interest them, and advertisers direct their messages to people who are most likely to be receptive, improving both the viewer’s experience and the effectiveness of the ads. If you would like to opt out from this, please call us at 866-584-8010 or click [here](https://web.archive.org/web/20160618164953id_/http%3A//www.collectionsetc.com/emailus.aspx) for other contact information.
+Winston Brands also uses third party advertising companies to serve ads on our behalf across the Internet. These third party advertising companies may collect information about your visits to our web site and other web sites, and your interaction with our ads. For instance, they may keep track of how many of our ads you had seen before visiting our site, or what website you visited after leaving one of our sites. We may use demographic and preference information about users of our web site to allow advertisements to be targeted to those users for whom they are most pertinent. This means that users see advertising that is most likely to interest them, and advertisers direct their messages to people who are most likely to be receptive, improving both the viewer’s experience and the effectiveness of the ads. If you would like to opt out from this, please call us at 866-584-8010 or click [here](https://web.archive.org/web/20161120015700id_/http%3A//www.collectionsetc.com/emailus.aspx) for other contact information.
 
 How does Winston Brands use third party personal information?
 
@@ -72,7 +72,7 @@ Winston Brands may share your personally-identifiable information with a select 
 
 We provide your personal information, including IP Address, and personal information of third parties to third party agents we have hired to help us provide the products or services you have requested. For example, we use an outside shipping company to ship orders, a credit card processing company to bill customers for goods and services. Under their agreements with Winston Brands, these companies are not permitted to retain, share, store or use personally identifiable information for any secondary purposes without permission. When you place an order with us for merchandise, we use the shipping information you provided at order entry to fulfill your order and provide this information to the shipping company. If you have paid for your order using a credit card, we transmit the information required to authorize your credit card over a secure channel to the credit card processing company for authorization. If you have selected to pay for your order with deferred billing, we transmit your personal information, and IP address to the payment solution company to authorize credit.
 
-We provide your name and mailing address to certain third party mailing list agents who aggregate the names and addresses that we provide along with customer names and addresses provided by other consumer product companies. These other consumer product companies then may pay the list agent to obtain your name and address for the purpose of sending you their catalogs. If you do not want us to provide your name and address to such mailing list agents in the future, please call us at 866-584-8010 or click [here](https://web.archive.org/web/20160618164953id_/http%3A//www.collectionsetc.com/emailus.aspx) for other contact information. 
+We provide your name and mailing address to certain third party mailing list agents who aggregate the names and addresses that we provide along with customer names and addresses provided by other consumer product companies. These other consumer product companies then may pay the list agent to obtain your name and address for the purpose of sending you their catalogs. If you do not want us to provide your name and address to such mailing list agents in the future, please call us at 866-584-8010 or click [here](https://web.archive.org/web/20161120015700id_/http%3A//www.collectionsetc.com/emailus.aspx) for other contact information. 
 
 We may disclose personal information about you or third parties without notice in response to a subpoena or when we believe in good faith that the law permits or requires it or to respond to an emergency situation. We may also share personal information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when:
 
@@ -110,7 +110,7 @@ Under California law (SB27 - Civil Code Section 1798.83), residents of Californi
   
 
 
-If you would like us not to share your personal information with third parties and/or would like to stop receiving Winston Brands catalogs, click [here](https://web.archive.org/web/20160618164953id_/http%3A//www.collectionsetc.com/emailus.aspx).
+If you would like us not to share your personal information with third parties and/or would like to stop receiving Winston Brands catalogs, click [here](https://web.archive.org/web/20161120015700id_/http%3A//www.collectionsetc.com/emailus.aspx).
 
 California customers may request further information about our compliance under SB 27 by emailing CustomerService@CollectionsEtc.com AND/OR by sending a written request to Winston Brands Privacy Policy, Customer Care Department, 2521 Busse Road, Elk Grove Village, IL 60007. We will respond in accordance with applicable legal requirements. 
 
@@ -131,9 +131,9 @@ By Phone
 Call seven days a week, 6:00 AM to midnight CST at 866-584-8010.
 
 By email  
-Email: [CustomerService@WinstonBrands.com](https://web.archive.org/web/20160618164953id_/http%3A//www.collectionsetc.com/emailus.aspx). Please specify the words "Privacy Policy" in the subject line. 
+Email: [CustomerService@WinstonBrands.com](https://web.archive.org/web/20161120015700id_/http%3A//www.collectionsetc.com/emailus.aspx). Please specify the words "Privacy Policy" in the subject line. 
 
-Click [here](https://web.archive.org/web/20160618164953id_/http%3A//www.collectionsetc.com/emailus.aspx) to unsubscribe from Winston Brands periodic emailings. Please specify the word "Unsubscribe" in the subject line.
+Click [here](https://web.archive.org/web/20161120015700id_/http%3A//www.collectionsetc.com/emailus.aspx) to unsubscribe from Winston Brands periodic emailings. Please specify the word "Unsubscribe" in the subject line.
 
 Please note: when you contact us, please provide your name and address exactly as it appears on correspondence you have received from us.
 
