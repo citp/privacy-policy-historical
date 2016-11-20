@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the closetlondon.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617020644id_/http%3A//www.closetlondon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the closetlondon.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120095308id_/http%3A//www.closetlondon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,9 +42,9 @@ We at Closet Concessions Limited are always pleased to hear from our customers (
 
 You can either contact us on +44 20(8) 983 7534  
 Write to us at  
-Closet Concessions Limited  
+Closet London Ltd  
 Unit 1, Ground Floor,  
 36-40 Copperfield Road,  
 London,  
 E3 4RR   
-Or e mail: [info@closetclothing.com](mailto:info@closetclothing.com)
+Or e mail: [customerservices@closetlondon.com](mailto:customerservices@closetlondon.com)
