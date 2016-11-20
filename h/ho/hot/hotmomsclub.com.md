@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotmomsclub.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621162014id_/http%3A//www.hotmomsclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotmomsclub.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120112152id_/http%3A//www.hotmomsclub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Hot Mom's Club
+# Privacy Policy | Hot Moms Club
 
 Hot Moms Club Tm and Hollywood Hot Moms Products, Inc. takes very seriously the private nature of your personal information. This Privacy Policy describes how we treat the information we collect when you register for and view our Buzz Email or visit our Web Site. Please read this notice carefully.
 
@@ -10,8 +10,8 @@ To receive your HMC and HHM e-mails, we require your e-mail address. Similarly, 
 
 Non-Personal Information
 
-We may also request non-personally identifiable information, such as annual income, buying preferences or age, also known as demographic and profile data, though this information is optional. We may use this data to improve our Buzz email and site and/or tailor your experience, showing you or delivering you by email content that we think might be of interest to you, and displaying content according to your preferences. We may also share this information with others, such as advertisers interested in advertising in HMC and HHM emails or on our site, in aggregate, anonymous form, which means that the information will not contain any personally identifiable information about you or any other person.
-
+We may also request non-personally identifiable information, such as annual income, buying preferences or age, also known as demographic and profile data, though this information is optional. We may use this data to improve our Buzz email and site and/or tailor your experience, showing you or delivering you by email content that we think might be of interest to you, and displaying content according to your preferences. We may also share this information with others, such as advertisers interested in advertising in HMC and HHM emails or on our site, in aggregate, anonymous form, which means that the information will not contain any personally identifiable information about you or any other person.  
+  
 Usage Information
 
 In addition to collecting personal and non-personal information, HMC and HHM may also collect non-personal, aggregated information about subscribers’ use of our Buzz email and site. This information is not personally identifiable and will only be used to find out how subscribers use our Buzz email, site and services. For example, this information will tell us how often a user opens the Buzz email, how much time users spend on our site, from which other sites subscribers came, and to what other sites subscribers go. The collection of this information allows us to, among other things, prepare for traffic load demands and to efficiently deliver your emails.
