@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southbankcentre.co.uk privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620043428id_/http%3A//www.southbankcentre.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southbankcentre.co.uk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120103055id_/http%3A//www.southbankcentre.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Southbank Centre
 
@@ -30,4 +30,4 @@ Sometimes we ask you to provide sensitive information, for example when you book
 
 **Cookies and web privacy**
 
-Our website uses [cookies](http://www.southbankcentre.co.uk/cookies) to enable online transactions (first party cookies) and to track website usage patterns (third party cookies). We may also track receipt, opening, click-through and unsubscribe rates for the emails we send.
+We receive and store certain details whenever you interact with us. We log your Internet Protocol (IP) address so we can receive and send information from and to you online. Our website uses cookies to enable online transactions (first party cookies) and to track website usage patterns and inform our digital advertising (third party cookies). We may also track receipt, opening, click-through, purchase and unsubscribe information for the emails we send.
