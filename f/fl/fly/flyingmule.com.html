@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the flyingmule.com privacy policy that was archived on 2016-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160611000825id_/http%3A//www.flyingmule.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flyingmule.com privacy policy that was archived on 2016-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120104210id_/http%3A//www.flyingmule.com/privacy) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -16,6 +16,7 @@
    <body onload="prdInit()">
 
 <!-- %OUI% -->
+
       <table width="100%" height="100%" class="clsBorder">
          <tbody><tr>
             <td class="clsBorder">
@@ -23,49 +24,61 @@
                   <tbody><tr>
                      <td class="clsLayout"><a href="http://www.flyingmule.com"><img src="/img/pge_logo.gif" alt="The Flying Mule Homepage" border="0"></a></td>
                      <td class="clsLayout"><img src="/img/pge_spc.gif" width="10" height="1" border="0"></td>
-                     <td width="100%" class="clsLayout">
-                        <!-- START: Simple Search -->        
-                        <form name="SimpleSearchForm" method="get" action="http://www.flyingmule.com/powersearch/" onsubmit="utlSetSearchField( Search, utlWordToCatSearch( stoGetCat( 'CAT_TYP' ), CAT_USR.value ), CAT_DPT.value, true )">
-                        <table class="clsLayout" border="0">
-                           <tbody><tr>
-                              <td colspan="2">
-                                 <a href="http://www.flyingmule.com/contact/"><img src="/img/pge_phone.gif" alt="Contact Us" border="0"></a>
-                              </td>
+                     <td class="clsLayout">
+                        <table class="clsLayout">
+                           <tbody><tr valign="top">
+                              <td><a href="http://www.flyingmule.com/contact/"><img src="/img/pge_phone.gif" alt="Contact Us" border="0"></a></td>
                            </tr>
                            <tr>
-                              <td align="right"><i>Search</i></td>
-                              <td>
-                                 <select name="CAT_DPT" class="clsSearch">
-                                    <script>stoGetCat( "CAT_DPT" ).writeOption( 0, 1 );</script>
-                                    <option value="">&nbsp;</option>
-                                    <script>stoGetCat( "CAT_RNG" ).writeOption( 0, 3 );</script>
-                                 </select>
-                              </td>
-                           </tr>
-                           <tr>
-                              <td align="right"><i>for</i></td>
-                              <td nowrap="nowrap">
-                                 <input type="text" name="CAT_USR" size="20" class="clsSearch">
-                                 <input type="image" src="/img/pge_btn_search.gif" class="clsSearchImage" alt="Search The Flying Mule Store">
-                                 <input type="hidden" name="Search">
+                              <td class="clsLayout">
+                                 <!-- START: Simple Search -->        
+                                 <form name="SimpleSearchForm" method="get" action="http://www.flyingmule.com/powersearch/" onsubmit="utlSetSearchField( Search, utlWordToCatSearch( stoGetCat( 'CAT_TYP' ), CAT_USR.value ), CAT_DPT.value, true )">
+                                 <table class="clsLayout" width="100%">
+                                    <tbody><tr>
+                                       <td align="right"><i>Search</i></td>
+                                       <td width="100%">
+                                          <select name="CAT_DPT" class="clsSearch" style="width:100%">
+                                             <script>stoGetCat( "CAT_DPT" ).writeOption( 0, 1 );</script>
+                                             <option value="">&nbsp;</option>
+                                             <script>stoGetCat( "CAT_RNG" ).writeOption( 0, 3 );</script>
+                                          </select>
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td align="right"><i>for</i></td>
+                                       <td>
+                                          <table class="clsLayout" width="100%" border="0">
+                                             <tbody><tr>
+                                                <td class="clsLayout" width="100%">
+                                                   <input type="text" name="CAT_USR" size="20" class="clsSearch" style="width:100%">
+                                                </td>
+                                                <td class="clsLayout">
+                                                   <input type="image" src="/img/pge_btn_search.gif" class="clsSearchImage" alt="Search The Flying Mule Store">
+                                                   <input type="hidden" name="Search">
+                                                </td>
+                                             </tr>
+                                          </tbody></table>
+                                       </td>
+                                    </tr>
+                                 </tbody></table>
+                                 </form>
+                                 <!-- END: Simple Search -->        
                               </td>
                            </tr>
                         </tbody></table>
-                        </form>
-                        <!-- END: Simple Search -->        
                      </td>
+
                      <td width="100%" class="clsLayout"><img src="/img/pge_spc.gif" width="10" height="1" border="0"></td>
-                     <td align="right" class="clsLayout"><!--<A href="javascript:utlPopUp( '/salestax/' );"><IMG src="/img/pge_salestax.gif" alt="Pay no Sales Tax" border="0"></A>--></td>
-                     <td class="clsLayout"><img src="/img/pge_spc.gif" width="10" height="1" border="0"></td>
                      <td height="100%" align="right" class="clsLayout">
                         <table width="100%" height="100%" class="clsLayout">
                            <tbody><tr valign="top">
-                              <td>
+                              <td colspan="4">
                                  <!-- START: Basket Summary -->
                                  <table width="100%" background="/img/bsk_refresh.gif" class="clsLayout" cellpadding="2" bordercolor="#000000" border="1">
+
                                     <tbody><tr>
                                        <td>
-                                                                                    <script>utlWriteIFrame( "BSK", "/Merchant2/merchant.mvc?Page=minibasket&Frame=none&Session_ID=" + utlGetURLParam( "Session_ID", "" ), 330, 45 );</script>
+                                                                                    <script>utlWriteIFrame( "BSK", "/Merchant2/merchant.mvc?Page=minibasket&Frame=none&Session_ID=" + utlGetURLParam( "Session_ID", "" ), 280, 45 );</script>
 
                                           <!--%INCLUDE(/html/inc/minibasket.oui)%-->
                                        </td>
@@ -75,22 +88,10 @@
                               </td>
                            </tr>
                            <tr valign="bottom">
-                              <td height="100%" align="right" nowrap="nowrap">
-
-                                 <a href="https://flyingmule.mivamerchant.net/Merchant2/merchant.mvc?Screen=LOGN&amp;Store_Code=AV"><img src="/img/nav_btn_account.gif" align="absbottom" border="0" onclick="strURL = utlGetCookie( 'ACC_URL' ); if (strURL != null) {top.location.href = strURL;} return (strURL == null);"></a>&nbsp;&nbsp;&nbsp;
-                                 <a href="http://www.flyingmule.com/Merchant2/merchant.mvc?Screen=MYWISH&amp;Store_Code=AV"><img src="/img/nav_btn_wishlist.gif" align="absbottom" border="0"></a>&nbsp;&nbsp;&nbsp;
-                                 <a href="http://www.flyingmule.com/Merchant2/merchant.mvc?Screen=BASK&amp;Store_Code=AV"><img src="/img/nav_btn_cart.gif" align="absbottom" border="0"></a>&nbsp;&nbsp;&nbsp;
-                                 <a href="https://flyingmule.mivamerchant.net/Merchant2/merchant.mvc?Screen=OINF&amp;Store_Code=AV"><img src="/img/nav_btn_checkout.gif" align="absbottom" border="0" onclick="strURL = utlGetCookie( 'CHK_URL' ); if (strURL != null) {top.location.href = strURL;} return (strURL == null);"></a>
-
-                              </td>
-                           </tr>
-                        </tbody></table>
-                     </td>
-                     <td class="clsLayout"><img src="/img/pge_spc.gif" width="10" height="1" border="0"></td>
-                     <td height="100%" class="clsLayout">
-                        <table width="100%" height="100%" class="clsLayout">
-                           <tbody><tr valign="top">
-                              <td align="right"><img src="/img/cclogo.gif" alt="We gladly accept Visa, MasterCard, American Express, Discover, PayPal, Personal Checks and Money Orders" border="0"></td>
+                              <td align="left"><a href="https://flyingmule.mivamerchant.net/Merchant2/merchant.mvc?Screen=LOGN&amp;Store_Code=AV"><img src="/img/nav_btn_account.gif" align="absbottom" border="0" onclick="strURL = utlGetCookie( 'ACC_URL' ); if (strURL != null) {top.location.href = strURL;} return (strURL == null);"></a></td>
+                              <td align="left"><a href="http://www.flyingmule.com/Merchant2/merchant.mvc?Screen=MYWISH&amp;Store_Code=AV"><img src="/img/nav_btn_wishlist.gif" align="absbottom" border="0"></a></td> 
+                              <td align="left"><a href="http://www.flyingmule.com/Merchant2/merchant.mvc?Screen=BASK&amp;Store_Code=AV"><img src="/img/nav_btn_cart.gif" align="absbottom" border="0"></a></td> 
+                              <td align="right"><a href="https://flyingmule.mivamerchant.net/Merchant2/merchant.mvc?Screen=OINF&amp;Store_Code=AV"><img src="/img/nav_btn_checkout.gif" align="absbottom" border="0" onclick="strURL = utlGetCookie( 'CHK_URL' ); if (strURL != null) {top.location.href = strURL;} return (strURL == null);"></a></td> 
                            </tr>
                         </tbody></table>
                      </td>
@@ -271,7 +272,6 @@ If you have questions or suggestions please contact us.<p></p>
                               <td><script>prdShowItem( 4, "" )</script></td>
                               <td><script>prdShowItem( 5, "" )</script></td>
                               <td><script>prdShowItem( 6, "" )</script></td>
-                              <td><script>prdShowItem( 7, "" )</script></td>
                               <td width="100%">&nbsp;</td>
                            </tr>
                         </tbody></table>
@@ -290,7 +290,7 @@ If you have questions or suggestions please contact us.<p></p>
                         <a href="http://www.flyingmule.com/help/"><font size="-1">Help</font></a>&nbsp;
                         <a href="http://www.flyingmule.com/contact/"><font size="-1">Contact Us</font></a>&nbsp;
                         <a href="http://www.flyingmule.com/department/newsletter-special/"><font size="-1">Newsletter</font></a>&nbsp;
-                        <a href="http://www.flyingmule.com/collections/"><font size="-1">Collections</font></a>&nbsp;
+                        <a href="http://www.facebook.com/theflyingmule/"><font size="-1">Facebook</font></a>&nbsp;
                         <a href="http://www.flyingmule.com/products/"><font size="-1">Product List</font></a>&nbsp;
                         <a href="http://www.flyingmule.com/privacy/"><font size="-1">Privacy</font></a>&nbsp;
                         <a href="http://www.flyingmule.com/map/"><font size="-1">Site Map</font></a>&nbsp;
@@ -309,7 +309,7 @@ If you have questions or suggestions please contact us.<p></p>
          if (document.SimpleSearchForm != null)
          {
             document.SimpleSearchForm.CAT_USR.focus();
-            document.SimpleSearchForm.CAT_USR.style.width = document.SimpleSearchForm.CAT_DPT.offsetWidth - 71;
+            //document.SimpleSearchForm.CAT_USR.style.width = document.SimpleSearchForm.CAT_DPT.offsetWidth - 71;
          }
 
          if (document.PowerSearchForm != null)
