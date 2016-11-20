@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadiapower.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606071558id_/http%3A//www.arcadiapower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadiapower.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120135004id_/http%3A//www.arcadiapower.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Arcadia Power
 
@@ -8,19 +8,19 @@ Effective Date: 6.1.2014
 
 ## Table of Contents
 
-Personal Information  
-Information We Collect  
-Use of Information  
-Sharing of Information  
-Cookies, Web Beacons, and Other Internet Technologies  
-Do-Not-Track Signals and Similar Mechanisms  
-Third Parties That Provide Content or Functionality on Our Services  
-Consent to International Transfer of Data  
-Collection of Information From Children  
-Your Choices & Access to Your Information  
-Your California Privacy Rights  
-Information Security  
-How to Contact Us  
+Personal Information   
+Information We Collect   
+Use of Information   
+Sharing of Information   
+Cookies, Web Beacons, and Other Internet Technologies   
+Do-Not-Track Signals and Similar Mechanisms   
+Third Parties That Provide Content or Functionality on Our Services   
+Consent to International Transfer of Data   
+Collection of Information From Children   
+Your Choices & Access to Your Information   
+Your California Privacy Rights   
+Information Security   
+How to Contact Us   
 Changes to This Privacy Policy in the Future
 
 Arcadia Power, Inc. and our subsidiaries and affiliates (collectively, “Arcadia Power”) recognize that when you choose to provide us with information about yourself, you trust us to treat it responsibly.
@@ -37,9 +37,9 @@ As used herein, Personal Information means information, or a combination of piec
 
 We may collect information about you and, if applicable, the computer or device you use to access our Sites in a variety of ways:
 
-You may provide us information directly  
-We may collect information about you when you use our Sites or view our online advertisements  
-We may collect additional information about you in accordance with applicable law
+You may provide us information directly   
+We may collect information about you when you use our Sites or view our online advertisements   
+We may collect additional information about you in accordance with applicable law 
 
 Our Sites may link to third-party websites and services that are outside our control. We are not responsible for the security or privacy of any information collected by such third-parties. You should exercise caution, and review the privacy statements applicable to such third parties.
 
@@ -101,13 +101,13 @@ We use information collected through our Sites, for the purposes described in th
 
 We may share your Personal Information only in the following circumstances:
 
-  * **Affiliates.** We may share Personal Information within Arcadia Power among our various subsidiaries and affiliates.
-  * **Service Providers.** We rely on third-party service providers to perform a variety of services on our behalf. To do so, we may need to share your Personal Information with them.
+  * **Affiliates.** We may share Personal Information within Arcadia Power among our various subsidiaries and affiliates. 
+  * **Service Providers.** We rely on third-party service providers to perform a variety of services on our behalf. To do so, we may need to share your Personal Information with them. 
   * **Other Parties When Required by Law or as Necessary to Protect Our Sites.** There may be instances when we disclose your Personal Information to other parties: 
     * To comply with the law or respond to legal process or a request for cooperation by a government entity
     * To prevent fraud or verify and enforce compliance with the policies governing our Sites
     * Where permitted by law, to protect the rights, property, or safety of Arcadia Power, or any of our respective affiliates, business partners, customers or employees
-  * **Other Parties In Connection With A Corporate Transaction.** We may disclose your Personal Information to a third party in the event we sell or transfer all or a portion of a business or our assets to a third party, such as in connection with a merger or in the event of a bankruptcy reorganization or liquidation.
+  * **Other Parties In Connection With A Corporate Transaction.** We may disclose your Personal Information to a third party in the event we sell or transfer all or a portion of a business or our assets to a third party, such as in connection with a merger or in the event of a bankruptcy reorganization or liquidation. 
   * Other Parties With Your Consent At Your Direction. In addition to the disclosures described in this Privacy Policy, we may share Personal Information about you with third parties when you consent to or request such sharing. For example, in order to fulfill enrollment in our services, we must share your Personal Information with your local utility company. We also may share your Personal Information with third parties that provide products or services that may be of interest to you and you may opt-out of the sharing of this information.
   * Aggregated and Non-Personal Information. We also may share data that is not reasonably linkable to a particular consumer or device (for example, information that has been aggregated with other records) for general business purposes. We may also share aggregated or anonymized information, which may be shared with third parties without your consent. For example, we may share your aggregated and anonymous information to publish trends about energy use and conservation and help utility companies provide demand-response services.
 
@@ -133,9 +133,9 @@ We do not knowingly collect information from children under the age of thirteen 
 
 ## Your Choices & Access to Your Information
 
-**Choices.** Where permitted by law, we may send you offers or promotions. However, we give you choices about how we communicate with you.
+**Choices.** Where permitted by law, we may send you offers or promotions. However, we give you choices about how we communicate with you. 
 
-  * **Digital and Electronic Communications (including email and website):** If you no longer wish to continue receiving commercial emails from us or our business partners, you may follow the instructions contained in any such message. You may also contact us at privacy@arcadiapower.com for information about how to remove yourself from any of our mailing lists.
+  * **Digital and Electronic Communications (including email and website):** If you no longer wish to continue receiving commercial emails from us or our business partners, you may follow the instructions contained in any such message. You may also contact us at privacy@arcadiapower.com for information about how to remove yourself from any of our mailing lists. 
   * **Postal mail:** If you would like to be removed from our postal mailing lists, please send an email to privacy@arcadiapower.com. Put the word “REMOVE” in the subject line. In the body of the email, please include your name and address and the database(s) from which you would like your information to be removed. 
 
 Please note that, despite your opt-out selections, we may send you communications regarding transactions or services you have specifically requested or to inform you of important changes to our Sites, services, or policies. If you have multiple accounts, you may need to opt-out separately for each account in connection with the privacy choices described above.
@@ -143,7 +143,7 @@ Please note that, despite your opt-out selections, we may send you communication
 
 
 
-**Access to Your Information.** The accuracy of your information is important to us. You can view or modify information stored with your user account by logging in to your account and accessing the https://login.arcadiapower.com
+**Access to Your Information.** The accuracy of your information is important to us. You can view or modify information stored with your user account by logging in to your account and accessing the https://login.arcadiapower.com 
 
 ## Your California Privacy Rights
 
@@ -167,7 +167,7 @@ Washington, DC 20009
 
 Privacy laws and guidelines are part of a constantly changing environment. We reserve the right, at our discretion, to change, modify, add, or remove portions of this Privacy Policy at any time. We recommend that you revisit this Privacy Policy periodically to ensure that you are aware of our current privacy practices. Your continued use of our Sites following any changes signifies your acceptance of these changes.
 
-**Cookies, web beacons and other Internet technologies** We, as well as certain third parties that provide content and other functionality on our Sites, may use cookies, web beacons and other Internet technologies on our online Sites. This section provides you with more detail about these technologies.
+**Cookies, web beacons and other Internet technologies** We, as well as certain third parties that provide content and other functionality on our Sites, may use cookies, web beacons and other Internet technologies on our online Sites. This section provides you with more detail about these technologies. 
 
 ## Cookies
 
