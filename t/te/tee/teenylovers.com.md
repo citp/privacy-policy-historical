@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenylovers.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506212641id_/http%3A//teenylovers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenylovers.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120101715id_/http%3A//teenylovers.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
