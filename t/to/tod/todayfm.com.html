@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the todayfm.com privacy policy that was archived on 2016-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160627121952id_/http%3A//www.todayfm.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the todayfm.com privacy policy that was archived on 2016-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120044501id_/http%3A//www.todayfm.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	
 			
-	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WBKZMS"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 			
 	<script>
 		(function(f,b,g){
@@ -18,7 +18,15 @@
 		g.prototype.send=function(e){var j=this;function h(){if(j.readyState===4){f.hj("_xhr",j._u,j.status,j.response)}}this.addEventListener("readystatechange",h,false);xs.call(this,e)};
 		}
 		})(window,document,window.XMLHttpRequest);
-	</script>	<title>Privacy Policy | Today FM</title>
+	</script>
+			
+			<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WBKZMS');</script>
+<!-- End Google Tag Manager -->	<title>Privacy Policy | Today FM</title>
 	
 	<meta name="keywords" content="Today FM">
 	<meta name="description" content="Today FM - Ireland's favourite national music, news, and sports radio station - Reader">
@@ -36,9 +44,9 @@
 	<meta property="og:description" content="">
 		
 	<link rel="shortcut icon" href="favicon.ico">
-	<link rel="stylesheet" type="text/css" media="screen" href="/assets/includes/css/global.css?v=1467029996">
-	<link rel="stylesheet" type="text/css" media="screen" href="/assets/includes/css/inner.css?v=1467029996">
-	<link rel="stylesheet" type="text/css" media="screen" href="/assets/jquery.bxslider/jquery.bxslider2.css?v=1467029996">
+	<link rel="stylesheet" type="text/css" media="screen" href="/assets/includes/css/global.css?v=1479617101">
+	<link rel="stylesheet" type="text/css" media="screen" href="/assets/includes/css/inner.css?v=1479617101">
+	<link rel="stylesheet" type="text/css" media="screen" href="/assets/jquery.bxslider/jquery.bxslider2.css?v=1479617101">
 	
 	
 	<!--[if IE 7]> <html class="ie7"> <![endif]-->	
@@ -91,22 +99,22 @@
 	 
 	var mapping = googletag.sizeMapping(). // This is for the header area / landscape or 'NT_Head' ad unit
 	addSize([0, 0], []).
-	addSize([320, 300], [[320, 100], [320, 50]]). // Mobile, allow a 320x100 or 320x50 only
-	addSize([750, 300], [728, 90]). // Landscape tablet, allow a LB
-	addSize([990, 300], [[970, 250], [970,90], [728,90]]).build(); // Desktop, allow a Billboard / Masthead, Super LB or LB 
+	addSize([320, 0], [[320, 100], [320, 50]]). // Mobile, allow a 320x100 or 320x50 only
+	addSize([750, 0], [728, 90]). // Landscape tablet, allow a LB
+	addSize([1025, 0], [[970, 250], [970,90], [728,90]]).build(); // Desktop, allow a Billboard / Masthead, Super LB or LB 
 		
 		
 	var mapping1 = googletag.sizeMapping(). // This is for the primary side bar position, or NT_Side_1 ad unit
-	addSize([0, 0], [300, 250]). // Shows nothing until viewport reaches 990px wide (i.e. desktop only)
-	addSize([990, 300], [300, 250]).build(); // Allows these sizes on Desktop only
+	addSize([0, 0], [300, 250]).build(); // Allows everywhere
 	
 	var mapping2 = googletag.sizeMapping(). // This is for the sticky 2nd MPU, or NT_Side_2 ad unit
 	addSize([0, 0], []). // Shows nothing until viewport reaches 990px wide (i.e. desktop only)
-	addSize([990, 300], [[300, 250], [300, 600]]).build(); // Allows this size on Desktop view only.
-	var mapping3 = googletag.sizeMapping(). // This is for the mid editorial MPU or Newstalk_InternalMobileSite ad unit
+	addSize([320, 0], [300,250]). // show on mobile
+	addSize([990, 0], [[300, 250], [300, 600]]).build(); // Allows this size on Desktop view only.
+	var mapping3 = googletag.sizeMapping(). // This is for the mid editorial MPU or InternalMobileSite ad unit
 	addSize([0, 0], []).
-	addSize([320, 300], [300, 250]). // From 320 to 750px wide, allow an MPU
-	addSize([750, 300], []).build(); // Suppress ad on desktop and landscape tablet
+	addSize([320, 0], [300, 250]). // From 320 to 750px wide, allow an MPU
+	addSize([750, 0], []).build(); // Suppress ad on desktop and landscape tablet
 	 
 	// Define the GPT slots
 	gptAdSlots[0] = googletag.defineSlot('/27435881/TDFM_Head', [320, 50], 'div-gpt-ad-1446562461113-0'). // the div-gpt names can be your own, but ensure they mirror ad units in body
@@ -127,7 +135,7 @@
 
 	googletag.pubads().enableSingleRequest(); // Calls all of the ads on a page at once in the header of your content. Needed for roadblocks.
 	googletag.pubads().collapseEmptyDivs(); // Collapses all ad units on page when no ad in queue / available to render
-	googletag.pubads().setTargeting('tdsection', ['']); // This is page level custom targeting. All ad units on page inherit these.
+	googletag.pubads().setTargeting('tdsection', [""]); // This is page level custom targeting. All ad units on page inherit these.
 		googletag.pubads().setTargeting('articleID', ['66']);
 		
 googletag.enableServices(); // Start ad fetching
@@ -176,6 +184,12 @@ src='https://www.facebook.com/tr?id=1658045121120452&ev=PageView&noscript=1'
 	
 <script async="" src="//static.hotjar.com/c/hotjar-8665.js?sv=2"></script></head>
 <body class="blue_gradient gradient">
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WBKZMS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 	
 				
 				 <!-- /27435881/TDFM_Head -->
@@ -215,11 +229,11 @@ src='https://www.facebook.com/tr?id=1658045121120452&ev=PageView&noscript=1'
 			
 			<span class="on_air_box yellow_bg">on air now</span>
 			<a href="http://www.todayfm.com/player/" target="_blank" class="play_bt" alt="Launch Player" title="Listen Live"></a>		
-			<img width="300" src="/content/005/images/000041/53674_70_pages_05_9627_300x229.jpg" alt="Current Show" title="Dermot and Dave">					
+			<img width="300" src="/content/005/images/000026/34969_70_pages_05_18191_300x229.jpg" alt="Current Show" title="Overnight">					
 			<div class="on_air_content black_opacity">
 				
-				<h1>DERMOT AND DAVE</h1>
-				<span>12:00 - 14:30</span>
+				<h1>OVERNIGHT</h1>
+				<span>01:00 - 07:00</span>
 			</div><!-- /on_air_content -->
 			
 		</div><!-- /on_air -->
@@ -229,72 +243,72 @@ src='https://www.facebook.com/tr?id=1658045121120452&ev=PageView&noscript=1'
 		<div class="show_item">
 			<div class="show_item_content">
 				<span>00:00 - 01:00</span>
-				<h1>Ed's Songs of Praise</h1>
+				<h1 style="font-size: 16px;">The Beat Goes On with Kelly-Anne Byrne</h1>
 			</div><!-- /</div> -->
-			<div class="show_item_image box_style"><img src="/content/005/images/000025/33260_70_pages_05_20_128x98.jpg" width="64"></div>
+			<div class="show_item_image box_style"><img src="/content/005/images/000025/33256_70_pages_05_6486_128x98.jpg" width="64"></div>
 		</div><!-- /show_item -->
 		<div class="show_item">
 			<div class="show_item_content">
-				<span>01:00 - 05:00</span>
+				<span>01:00 - 07:00</span>
 				<h1>Overnight</h1>
 			</div><!-- /</div> -->
 			<div class="show_item_image box_style"><img src="/content/005/images/000026/34969_70_pages_05_18191_128x98.jpg" width="64"></div>
 		</div><!-- /show_item -->
 		<div class="show_item">
 			<div class="show_item_content">
-				<span>05:00 - 07:00</span>
-				<h1>Early Breakfast with Paula MacSweeney</h1>
+				<span>07:00 - 10:00</span>
+				<h1 style="font-size: 18px;">Sunday Breakfast with Alison Curtis</h1>
 			</div><!-- /</div> -->
-			<div class="show_item_image box_style"><img src="/content/005/images/000027/35366_70_pages_05_6303_128x98.jpg" width="64"></div>
+			<div class="show_item_image box_style"><img src="/content/005/images/000043/56621_70_pages_05_30663_128x98.jpg" width="64"></div>
 		</div><!-- /show_item -->
 		<div class="show_item">
 			<div class="show_item_content">
-				<span>07:00 - 09:00</span>
-				<h1>The Ian Dempsey Breakfast Show</h1>
+				<span>10:00 - 11:00</span>
+				<h1>The Sunday Business Show</h1>
 			</div><!-- /</div> -->
-			<div class="show_item_image box_style"><img src="/content/005/images/000041/53676_70_pages_05_3_128x98.jpg" width="64"></div>
+			<div class="show_item_image box_style"><img src="/content/005/images/000025/33259_70_pages_05_22_128x98.jpg" width="64"></div>
 		</div><!-- /show_item -->
 		<div class="show_item">
 			<div class="show_item_content">
-				<span>09:00 - 12:00</span>
-				<h1>The Anton Savage Show</h1>
+				<span>11:00 - 13:00</span>
+				<h1>Neil Delamere's Sunday Best</h1>
 			</div><!-- /</div> -->
-			<div class="show_item_image box_style"><img src="/content/005/images/000041/53675_70_pages_05_13751_128x98.jpg" width="64"></div>
+			<div class="show_item_image box_style"><img src="/content/005/images/000025/32774_70_pages_05_16282_128x98.jpg" width="64"></div>
 		</div><!-- /show_item -->
 		<div class="show_item">
 			<div class="show_item_content">
-				<span>12:00 - 14:30</span>
-				<h1>Dermot and Dave</h1>
+				<span>13:00 - 16:00</span>
+				<h1>Phil Cawley</h1>
 			</div><!-- /</div> -->
-			<div class="show_item_image box_style"><img src="/content/005/images/000041/53674_70_pages_05_9627_128x98.jpg" width="64"></div>
+			<div class="show_item_image box_style"><img src="/content/005/images/000025/33262_70_pages_05_16_128x98.jpg" width="64"></div>
 		</div><!-- /show_item -->
 		<div class="show_item">
 			<div class="show_item_content">
-				<span>14:30 - 16:30</span>
-				<h1>Louise Duffy</h1>
+				<span>16:00 - 19:00</span>
+				<h1>Hector's Sunday Sitting Room</h1>
 			</div><!-- /</div> -->
-			<div class="show_item_image box_style"><img src="/content/005/images/000041/53673_70_pages_05_6309_128x98.jpg" width="64"></div>
-		</div><!-- /show_item -->
-		<div class="show_item">
-			<div class="show_item_content">
-				<span>16:30 - 19:00</span>
-				<h1>The Last Word with Matt Cooper</h1>
-			</div><!-- /</div> -->
-			<div class="show_item_image box_style"><img src="/content/005/images/000041/53672_70_pages_05_7_128x98.jpg" width="64"></div>
+			<div class="show_item_image box_style"><img src="/content/005/images/000046/60688_70_pages_05_32201_128x98.jpg" width="64"></div>
 		</div><!-- /show_item -->
 		<div class="show_item">
 			<div class="show_item_content">
 				<span>19:00 - 21:00</span>
-				<h1>Fergal D'Arcy on Today FM</h1>
+				<h1>Ed's Songs of Praise</h1>
 			</div><!-- /</div> -->
-			<div class="show_item_image box_style"><img src="/content/005/images/000031/40841_70_pages_05_21541_128x98.png" width="64"></div>
+			<div class="show_item_image box_style"><img src="/content/005/images/000025/33260_70_pages_05_20_128x98.jpg" width="64"></div>
 		</div><!-- /show_item -->
 		<div class="show_item">
 			<div class="show_item_content">
-				<span>21:00 - 23:59</span>
-				<h1>The Paul McLoone Show</h1>
+				<span>21:00 - 22:00</span>
+				<h1 style="font-size: 14px;">Songs in the Key of Life with Nadine O'Regan</h1>
 			</div><!-- /</div> -->
-			<div class="show_item_image box_style"><img src="/content/005/images/000023/31219_70_pages_05_9_128x98.jpg" width="64"></div>
+			<div class="show_item_image box_style"><img src="/content/005/images/000043/56628_70_pages_05_30666_128x98.jpg" width="64"></div>
+		</div><!-- /show_item -->
+		<div class="show_item">
+			<div class="show_item_content">
+				<span>22:00 - 23:59</span>
+				<h1 style="font-size: 16px;">The Beat Goes On with Kelly-Anne Byrne</h1>
+			</div><!-- /</div> -->
+			<div class="show_item_image box_style"><img src="/content/005/images/000025/33256_70_pages_05_6486_128x98.jpg" width="64"></div>
 		</div><!-- /show_item -->
 		</div><!-- /show -->
 		
@@ -325,8 +339,8 @@ src='https://www.facebook.com/tr?id=1658045121120452&ev=PageView&noscript=1'
 					<a href="/news">news</a></li><li>
 					<a href="/sport">sport</a></li><li>
 					<a href="/craic">craic</a></li><li>
-					<a href="/francebants">Euros</a></li><li>
-					<a href="/mytoday/">my</a></li>
+					<a href="/daretocare">Dare To Care</a></li>
+				
 			</ul>
 		</div>
 						
@@ -435,7 +449,7 @@ src='https://www.facebook.com/tr?id=1658045121120452&ev=PageView&noscript=1'
 <p><strong>Contact us</strong></p>
 <p>If you contact us, we may keep a record of that correspondence;</p>
 <p>Any other information provided by you pursuant to your use of the Today FM Application.</p>
-<p>If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us <a href="http://www.todayfm.com/contact-us" target="_blank">here</a>.</p><hr class="ends"><div id="contentclick17854"><script type="text/javascript" src="https://api.contentclick.co.uk/pub_serve.php?pub_id=7084&amp;w_id=17854&amp;pw=24f177d74d2364&amp;cbust=1582536368666" async=""></script></div>
+<p>If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us <a href="http://www.todayfm.com/contact-us" target="_blank">here</a>.</p><hr class="ends"><div id="contentclick17854"><script type="text/javascript" src="https://api.contentclick.co.uk/pub_serve.php?pub_id=7084&amp;w_id=17854&amp;pw=24f177d74d2364&amp;cbust=1582536395214" async=""></script></div>
 <script type="text/javascript">
     (function() {
         var data =
@@ -495,48 +509,48 @@ src='https://www.facebook.com/tr?id=1658045121120452&ev=PageView&noscript=1'
 	 	<li>
 			
 		<div class="tile box_style">
-			<a class="tile_link" href="/r/How-well-do-you-know-your-neighbours"></a>
-			<img alt="Today FM image" title="How well do you know your neighbours?" src="/content/000/images/000174/179535_54_news_hub_156254_128x98.jpg" width="104" height="79">
-			<h3>How well do you know your neighbours?</h3>
+			<a class="tile_link" href="/r/Mitt-Romney-Meets-Donald-Trump-14384"></a>
+			<img alt="Today FM image" title="Mitt Romney Meets Donald Trump" src="/content/000/images/000204/211496_54_news_hub_179879_128x98.jpg" width="104" height="79">
+			<h3>Mitt Romney Meets Donald Trump</h3>
 		</div><!-- /tile -->
 		<div class="tile box_style">
-			<a class="tile_link" href="/r/Our-favourite-things-about-Wimbledon"></a>
-			<img alt="Today FM image" title="Our favourite things about Wimbledon" src="/content/000/images/000178/183844_54_news_hub_159214_128x98.jpg" width="104" height="79">
-			<h3>Our favourite things about Wimbledon</h3>
+			<a class="tile_link" href="/r/Pope-Francis-Appoints-17-New-Cardinals-Including-Irish-Bishop"></a>
+			<img alt="Today FM image" title="Pope Francis Appoints 17 New Cardinals Including Irish Bishop" src="/content/000/images/000120/123842_54_news_hub_115925_128x98.jpg" width="104" height="79">
+			<h3>Pope Francis Appoints 17 New Cardinals Including Irish Bishop</h3>
 		</div><!-- /tile -->
 		<div class="tile box_style">
-			<a class="tile_link" href="/r/10-put-rubbish-in-a-neighbours-bin-"></a>
-			<img alt="Today FM image" title="10% put rubbish in a neighbours bin " src="/content/000/images/000086/88327_54_news_hub_84195_128x98.jpg" width="104" height="79">
-			<h3>10% put rubbish in a neighbours bin</h3>
+			<a class="tile_link" href="/r/Man-charged-over-15m-cocaine-seizure-in-Dublin"></a>
+			<img alt="Today FM image" title="Man charged over €1.5m cocaine seizure in Dublin" src="/content/000/images/000203/209689_54_news_hub_178418_128x98.jpg" width="104" height="79">
+			<h3>Man charged over €1.5m cocaine seizure in Dublin</h3>
 		</div><!-- /tile -->
 		<div class="tile box_style">
-			<a class="tile_link" href="/r/Ban-on-gay-blood-donations-to-be-lifted"></a>
-			<img alt="Today FM image" title="Ban on gay blood donations to be lifted" src="/content/000/images/000177/183386_54_news_hub_158916_128x98.png" width="104" height="79">
-			<h3>Ban on gay blood donations to be lifted</h3>
+			<a class="tile_link" href="/r/Dozens-killed-on-Day-5-of-Aleppo-attacks"></a>
+			<img alt="Today FM image" title="Dozens killed on Day 5 of Aleppo attacks" src="/content/000/images/000200/206473_54_news_hub_176049_128x98.jpg" width="104" height="79">
+			<h3>Dozens killed on Day 5 of Aleppo attacks</h3>
 		</div><!-- /tile -->	
 		</li>
 	 	
 	 	<li>
 			
 		<div class="tile box_style">
-			<a class="tile_link" href="/r/The-funniest-reactions-to-Brexit"></a>
-			<img alt="Today FM image" title="The funniest reactions to Brexit" src="/content/000/images/000177/183258_54_news_hub_158824_128x98.jpg" width="104" height="79">
-			<h3>The funniest reactions to Brexit</h3>
+			<a class="tile_link" href="/s/Fair-City-Kidnapping"></a>
+			<img alt="Today FM image" title="Fair City Kidnapping" src="/content/000/images/000206/212958_54_news_hub_180949_128x98.jpg" width="104" height="79">
+			<h3>Fair City Kidnapping</h3>
 		</div><!-- /tile -->
 		<div class="tile box_style">
-			<a class="tile_link" href="/r/nationallottery"></a>
-			<img alt="Today FM image" title="Play Anywhere, Win Anywhere With The National Lottery" src="/content/000/images/000177/182770_54_news_hub_158477_128x98.png" width="104" height="79">
-			<h3>Play Anywhere, Win Anywhere With The National Lottery</h3>
+			<a class="tile_link" href="/s/Remember-Perri-You-Wont-Believe-What-He-Looks-Like-Now"></a>
+			<img alt="Today FM image" title="Remember Perri? You Won&amp;#39;t Believe What He Looks Like Now" src="/content/000/images/000206/213235_54_news_hub_181145_128x98.JPG" width="104" height="79">
+			<h3>Remember Perri? You Won't Believe What He Looks Like Now</h3>
 		</div><!-- /tile -->
 		<div class="tile box_style">
-			<a class="tile_link" href="/r/mobileapps"></a>
-			<img alt="Today FM image" title="The Today FM App" src="/assets/graphics/holder328x250.png" width="104" height="79">
-			<h3>The Today FM App</h3>
+			<a class="tile_link" href="/r/Mike-Pence-becomes-the-show-on-Broadway"></a>
+			<img alt="Today FM image" title="Mike Pence becomes the show on Broadway" src="/content/005/images/000048/63400_54_pages_05_34231_128x98.png" width="104" height="79">
+			<h3>Mike Pence becomes the show on Broadway</h3>
 		</div><!-- /tile -->
 		<div class="tile box_style">
-			<a class="tile_link" href="/r/Irish-economy-to-be-hardest-hit-by-Brexit"></a>
-			<img alt="Today FM image" title="Irish economy to be &amp;#39;hardest hit&amp;#39; by Brexit" src="/content/000/images/000107/110218_54_news_hub_104062_128x98.jpg" width="104" height="79">
-			<h3>Irish economy to be 'hardest hit' by Brexit</h3>
+			<a class="tile_link" href="/r/Dozens-killed-on-Day-5-of-Aleppo-attacks"></a>
+			<img alt="Today FM image" title="Dozens killed on Day 5 of Aleppo attacks" src="/content/000/images/000200/206473_54_news_hub_176049_128x98.jpg" width="104" height="79">
+			<h3>Dozens killed on Day 5 of Aleppo attacks</h3>
 		</div><!-- /tile -->
 		</li>
 	</ul>					
@@ -628,7 +642,7 @@ qacct:"p-jN0y3t-S03qsc"
 		    moveSlides: 1,
 		    controls: true,
 		    pager: false,		  
-			startSlide: 5,
+			startSlide: 1,
 			infiniteLoop: false,
 			hideControlOnEnd: true
 		  });
