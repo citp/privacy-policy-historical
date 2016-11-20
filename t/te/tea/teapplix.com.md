@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teapplix.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615153103id_/http%3A//www.teapplix.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teapplix.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120201408id_/http%3A//www.teapplix.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ To request removal from the database, simply [contact us](https://web.archive.or
 
 ### Changing of personal information
 
-You may edit your personal information at any time by clicking on the “My Account” tab when you are signed in to Teapplix. All information may be changed including: address, credit card information, billing address, email and more. The new information will be updated in our system and used in the collection of information when visiting Teapplix. 
+You may edit your personal information at any time by clicking on the "My Account" tab when you are signed in to Teapplix. All information may be changed including: address, credit card information, billing address, email and more. The new information will be updated in our system and used in the collection of information when visiting Teapplix. 
 
 ### Questions, comments, concerns
 
