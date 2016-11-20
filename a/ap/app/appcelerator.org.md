@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the appcelerator.org privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601144956id_/http%3A//www.appcelerator.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appcelerator.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120210623id_/http%3A//www.appcelerator.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Appcelerator Inc.
 
-Last Updated: January 1, 2014
+Last Updated: September 26, 2016
 
 #### Introduction
 
@@ -18,9 +18,7 @@ When you visit our Site, your computer’s operating system, Internet Protocol (
 
 **Cookies**
 
-Appcelerator uses “cookies” to keep and occasionally track information. A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate within the Site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. We set a persistent cookie to store your password if you choose “auto login”, so you don’t have to enter it more than once. We also store your display resolution and whether JavaScript is enabled in your browser to enhance your user experience. You can remove persistent cookies by following directions provided in your Internet browser’s help file. However, removing cookies may result in you not being able to take full advantage of the features of the Service. We may feature advertisements served by third party advertisers that deliver cookies to your computer so the advertisements you see can be tracked. Since the third party advertisers associate your computer with a number, they will be able to recognize your computer each time they send you an advertisement. These advertisers may use information about your visits to our Service in order to provide advertisements about goods and services of interest to you. This Policy does not apply to the information collection and use practices of these third party advertisers.
-
-You may click on the following link: http://www.networkadvertising.org (or such other URL as may be specified by us from time to time) for information on how to opt-out of the use of cookies. 
+Appcelerator uses “cookies” to keep and occasionally track information. A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate within the Site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. We set a persistent cookie to store your password if you choose “auto login”, so you don’t have to enter it more than once. We also store your display resolution and whether JavaScript is enabled in your browser to enhance your user experience. You can remove persistent cookies by following directions provided in your Internet browser’s help file. However, removing cookies may result in you not being able to take full advantage of the features of the Service. We may feature advertisements served by third party advertisers that deliver cookies to your computer so the advertisements you see can be tracked. Since the third party advertisers associate your computer with a number, they will be able to recognize your computer each time they send you an advertisement. These advertisers may use information about your visits to our Service in order to provide advertisements about goods and services of interest to you. This Policy does not apply to the information collection and use practices of these third party advertisers. You may click on the following link: [http://www.networkadvertising.org](http://www.networkadvertising.org/) (or such other URL as may be specified by us from time to time) for information on how to opt-out of the use of cookies.
 
 **Web Beacons**
 
@@ -90,9 +88,10 @@ Appcelerator does not share your personal information or your App User personal 
 
 #### Changing or Deleting Your Information
 
-You may contact us regarding any questions or comments regarding this Privacy Policy by emailing us at privacy@appcelerator.com. If you completely delete all of your information, your account may become deactivated. You may opt-out of receiving promotional emails from us by following the instructions in those emails. If you opt-out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.
+If you completely delete all of your information, your account may become deactivated.  
+You may opt-out of receiving promotional emails from us by following the instructions in those emails. If you opt-out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.
 
-Under California law, California Residents who have an established business relationship with us may choose to opt out of the disclosure of personal information about them to third parties for such third parties’ direct marketing purposes. As detailed above, our policy is not to disclose personal information collected online to a third party for direct marketing purposes without your approval. If you choose to opt-out at any time after granting approval, email [privacy@appcelerator.com](mailto:privacy@appcelerator.com).
+Under California law, California Residents who have an established business relationship with us may choose to opt out of the disclosure of personal information about them to third parties for such third parties’ direct marketing purposes. As detailed above, our policy is not to disclose personal information collected online to a third party for direct marketing purposes without your approval. If you choose to opt-out at any time after granting approval, please [contact us](http://www.appcelerator.com/contact-us/).
 
 #### Security
 
@@ -110,12 +109,6 @@ We may transfer information that we collect about you to affiliated entities, or
 
 Appcelerator does not use cookies to provide targeted advertising and therefore does not act on “Do Not Track” requests from your browser. However, some third party sites do keep track of your browsing activities when they serve you content, and these third party sites have privacy policies that differ from Appcelerator’s Privacy Policy, including whether or not they will honor your “Do Not Track” request. 
 
-#### Contacting Us
+#### Contact Us
 
-If you have any questions about this Policy, please contact us at privacy@appcelerator.com. 
-
-Appcelerator, Inc.  
-Attn: Privacy Counsel  
-440 N. Bernardo Ave.  
-Mountain View, CA 94043  
-U.S.A.
+If you have any questions about this Policy, please [contact us](http://www.appcelerator.com/contact-us/). 
