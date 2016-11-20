@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the citypass.com privacy policy that was archived on 2016-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160619115934id_/http%3A//www.citypass.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the citypass.com privacy policy that was archived on 2016-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120071050id_/http%3A//www.citypass.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-us" class="  wf-inactive"><head>
+<!DOCTYPE html><html lang="en-us" class=" wf-loading"><head>
 		
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -20,7 +20,7 @@
 	<link rel="alternate" hreflang="it" href="http://it.citypass.com/privacy">				
 	<link rel="alternate" hreflang="pt" href="http://pt.citypass.com/privacy">				
 	<link rel="alternate" hreflang="zh" href="http://zh.citypass.com/privacy">
-	<iframe src="javascript:false" title="" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="//use.typekit.net/eln4ron.js" async=""></script><script>
+	<iframe src="javascript:false" title="" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TS59P2"></script><script src="//use.typekit.net/eln4ron.js" async=""></script><script>
 		var pageLoadStartTime = new Date().getTime();
 		var CP = {};
 	</script>
@@ -112,9 +112,8 @@
 			}
 
 			function logEvent(category, action, label, additionalLogData) {
-				if (typeof Bugsnag.autoNotify != 'undefined' && Bugsnag.autoNotify == false) {
-					return;
-				}
+				if (typeof Bugsnag === 'undefined') return;
+				if (typeof Bugsnag.autoNotify !== 'undefined' && Bugsnag.autoNotify === false) return;
 
 				var logData = $.extend(defaultLogData()
 						, { category: category}
@@ -218,22 +217,8 @@
 	    })(document);
 	</script>
 		
-	<link rel="stylesheet" href="http://www.citypass.com/css-0011982/global.min.css">
-	<link rel="stylesheet" href="http://s3.citypass.net/css-0011982/pages/cp-general.css">
-
-		<script type="text/javascript">
-		var _gaq = _gaq || [];
-		var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-		_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-		_gaq.push(['_setAccount', 'UA-531856-1']);
-		_gaq.push(['_setDomainName','citypass.com']);
-		
-		(function() {
-			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		})();
-	</script>
+	<link rel="stylesheet" href="http://www.citypass.com/css-725e609/global.min.css">
+	<link rel="stylesheet" href="http://www.citypass.com/css-725e609/pages/cp-general.css">
 
 		<!--[if gte IE 9]><!-->
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
@@ -246,11 +231,13 @@
 	<![endif]-->
 
 	<script>
-				window.jQuery || function jQueryDidNotLoad() {
-			Bugsnag.notify("JQuery failed to load");
-			Bugsnag.autoNotify = false;
-			alert("A crucial page resource has failed to load.  Please refresh the page");
-		}();
+		if (typeof Bugsnag !== 'undefined') {
+						window.jQuery || function jQueryDidNotLoad() {
+				Bugsnag.notify("JQuery failed to load");
+				Bugsnag.autoNotify = false;
+				alert("A crucial page resource has failed to load.  Please refresh the page");
+			}();
+		}
 	</script>
 
 		<script>
@@ -279,41 +266,49 @@
 		var productKey = false;
 		var attractionKey = false;
 		var codeBase = 'www2';
-		
+
+		var _gaq = _gaq || [];
 		window.optimizely = window.optimizely || [];
+
+		var dataLayer = dataLayer || [];
+		dataLayer.push({
+			'deviceType': deviceType,
+			'pageLocale': pageLocale,
+			'pageType': pageType
+		});
 	</script>
 
 	
 		<script src="//cdn.optimizely.com/js/155521286.js"></script>
-		
-		
-	<script type="text/javascript">
-		var tmpRef = (RegExp('cp_overref=' + '(.*?)(&|$)').exec(window.location.search) || [,null])[1];
-		if (tmpRef !== null) {
-			_gaq.push(['_setReferrerOverride', decodeURIComponent(tmpRef)]);
-		}
-				
-		_gaq.push(['_trackPageview']);
-				
-		_gaq.push(['_trackPageLoadTime']);
-	</script>
+	
 		
 	<!--[if IE 9]>
-		<link rel="stylesheet" href="/css-0011982/ie-old.css">
-	    <script src="/js-0011982/polyfills/matchMedia.js"></script>
-		<script src="/js-0011982/polyfills/matchMedia.addListener.js"></script> 
+		<link rel="stylesheet" href="/css-725e609/ie-old.css">
+	    <script src="/js-725e609/polyfills/matchMedia.js"></script>
+		<script src="/js-725e609/polyfills/matchMedia.addListener.js"></script> 
 	<![endif]-->
 	<!--[if lt IE 9]>
-		<link rel="stylesheet" href="/css-0011982/ie-old.css">
-		<script src="/js-0011982/polyfills/matchMedia.js"></script>
-		<script src="/js-0011982/polyfills/matchMedia.addListener.js"></script> 
-		<script src="/js-0011982/polyfills/respond.min.js"></script>
-		<script src="/js-0011982/polyfills/html5shiv.js"></script>
+		<link rel="stylesheet" href="/css-725e609/ie-old.css">
+		<script src="/js-725e609/polyfills/matchMedia.js"></script>
+		<script src="/js-725e609/polyfills/matchMedia.addListener.js"></script> 
+		<script src="/js-725e609/polyfills/respond.min.js"></script>
+		<script src="/js-725e609/polyfills/html5shiv.js"></script>
 	<![endif]-->
 	<!--blogSplit-->
 	<meta name="google-translate-customization" content="23a182d2b9e662-e0b7f7961eea2929-g1b74b826f2122aef-19">
 <script src="//gateway.answerscloud.com/citypass/production/gateway.min.js" type="text/javascript" async="true" data-vendor="acs" data-role="gateway"></script></head>
 <body id="privacy" class="prototype-v1 lang-en no-city translations-available general general-privacy general-info navgroup-0">
+
+	<!-- Google Tag Manager -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TS59P2"
+	                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-TS59P2');</script>
+	<!-- End Google Tag Manager -->
+
 	<nav id="navigation-primary" class="navigation-primary no-city">
 	<div class="nav-scroll-wrapper">
 		<div class="navigation-city">
@@ -364,7 +359,7 @@
 					</a>
 				</li>				
 				<li class="nav-primary-item ">
-					<a href="http://www.citypass.com/new-york" class="nav-city-link">
+					<a href="http://www.citypass.com/new-york-comparison" class="nav-city-link">
 						<span class="nav-primary-city">
 							<span class="city-icon icon-nyc" data-id="nyc"></span>
 							<span class="nav-city-title">New York</span>
@@ -453,6 +448,10 @@
 			<span id="cart-number" class="masthead-cart-count">2</span>
 		</div>
 	</a>
+		
+	<a href="http://support.citypass.com/" class="masthead-icon-link icon-FAQ">
+		<span class="masthead-icon-link-label faq-icon-label">FAQ</span>
+	</a>
 			
 	<a href="javascript:;" class="masthead-icon-link masthead-icon-link-locale js-modal-link" data-id="locale-selector-contents">
 		<span class="flag flag-en" title="English"></span>
@@ -464,10 +463,10 @@
 		<div id="main-content" class="info-page" data-role="page">
 			
 <style>
-	@media (max-width: 767px) { .hero-banner-image { background-image: url('http://s1.citypass.net/img-0011982/home/home-hero-sm.jpg'); }}
-	@media (min-width: 768px) and (orientation: portrait) { .hero-banner-image { background-image: url('http://s1.citypass.net/img-0011982/home/home-hero-med.jpg'); }}
-	@media (min-width: 768px) and (orientation: landscape) { .hero-banner-image { background-image: url('http://s1.citypass.net/img-0011982/home/home-hero-lg.jpg'); }}
-	@media (min-width: 1160px) { .hero-banner-image { background-image: url('http://s1.citypass.net/img-0011982/home/home-hero-lg.jpg'); }}
+	@media (max-width: 767px) { .hero-banner-image { background-image: url('http://www.citypass.com/img-725e609/home/home-hero-sm.jpg'); }}
+	@media (min-width: 768px) and (orientation: portrait) { .hero-banner-image { background-image: url('http://www.citypass.com/img-725e609/home/home-hero-med.jpg'); }}
+	@media (min-width: 768px) and (orientation: landscape) { .hero-banner-image { background-image: url('http://www.citypass.com/img-725e609/home/home-hero-lg.jpg'); }}
+	@media (min-width: 1160px) { .hero-banner-image { background-image: url('http://www.citypass.com/img-725e609/home/home-hero-lg.jpg'); }}
 </style>
 <div class="hero-banner">
   <header class="hero-banner-header">
@@ -477,6 +476,7 @@
   </header>
   <span class="hero-banner-image"></span>
 </div>
+
 	<div class="container body-container info-container">
 		<div class="row info-row two-column flexible-row">
 		
@@ -695,7 +695,7 @@ Once you enter the checkout page, your computer will begin communicating with ou
 		<a href="/chicago" id="chi-footer-icon" class="city-icon icon-chi " data-id="chi"></a>
 		<a href="/dallas" id="dal-footer-icon" class="city-icon icon-dal " data-id="dal"></a>
 		<a href="/houston" id="hou-footer-icon" class="city-icon icon-hou " data-id="hou"></a>
-		<a href="/new-york" id="nyc-footer-icon" class="city-icon icon-nyc " data-id="nyc"></a>
+		<a href="/new-york-comparison" id="nyc-footer-icon" class="city-icon icon-nyc " data-id="nyc"></a>
 		<a href="/philadelphia" id="phl-footer-icon" class="city-icon icon-phl " data-id="phl"></a>
 		<a href="/san-francisco" id="sf-footer-icon" class="city-icon icon-sf " data-id="sf"></a>
 		<a href="/seattle" id="sea-footer-icon" class="city-icon icon-sea " data-id="sea"></a>
@@ -711,27 +711,27 @@ Once you enter the checkout page, your computer will begin communicating with ou
 	        <dl class="indent-block icon-phone customer-care-numbers">
 	          <div class="footer-border-left">
 	            <dt>US &amp; Canada</dt>
-	            <dd>(888) 330-5008</dd>
+	            <dd id="phone-tollfree">(888) 330-5008</dd>
 
 	            <dt>Direct</dt>
-	            <dd>+1 (208) 787-4300</dd>
+	            <dd id="phone-intl">+1 (208) 787-4300</dd>
 
 	            <dt>UK</dt>
-	            <dd>(020) 3287 8369</dd>
+	            <dd id="phone-uk">(020) 3287 8369</dd>
 
 	            <dt>Mexico</dt>
-	            <dd>55 4169 2589</dd>
+	            <dd id="phone-mx">55 4169 2589</dd>
 
 	            <dt>Australia</dt>
-	            <dd>(02) 8005 5729</dd>
+	            <dd id="phone-au">(02) 8005 5729</dd>
 	          </div>
 	        </dl>
 	        <div class="support-details">
 			 <span>7 Days a Week, 9am-7pm Eastern Time</span>
-	          <span><a class="js-modal-link full-url-modal" href="/load-0011982/load-holiday-hours">Holiday Hours</a></span>
+	          <span><a class="js-modal-link full-url-modal" href="/load-725e609/load-holiday-hours">Holiday Hours</a></span>
 	        </div>
 	        <div class="support-button">
-	          <button onclick="location.href='http://support.citypass.com';" type="button" class="btn btn-md btn-info indent-block icon-bubbles2 btn-support">Support Center</button>
+	          <button id="btn-support" onclick="location.href='http://support.citypass.com';" type="button" class="btn btn-md btn-info indent-block icon-bubbles2 btn-support">Support Center</button>
 	        </div>
 	      </div>
 	      <div class="footer-content footer-company">
@@ -857,18 +857,18 @@ Once you enter the checkout page, your computer will begin communicating with ou
 	</div><!-- /.page -->
 	
 	<!--[if (lt IE 8) & (!IEMobile)]>
-	<script src="/js-0011982/lib/json2.min.js"></script>
+	<script src="/js-725e609/lib/json2.min.js"></script>
 	<![endif]-->
 
 	<script>
 		
 	 	var cartUrl = "https://www.citypass.com/checkout";
 		
-		var cssDir = "/css-0011982";
-		var feedDir = "/feed-0011982";
-		var jsDir = "/js-0011982";
-		var loadDir = "/load-0011982";
-		var loadnocacheDir = "/loadnocache-0011982";
+		var cssDir = "/css-725e609";
+		var feedDir = "/feed-725e609";
+		var jsDir = "/js-725e609";
+		var loadDir = "/load-725e609";
+		var loadnocacheDir = "/loadnocache-725e609";
 				
 		var testing = true;
 		
@@ -878,7 +878,7 @@ Once you enter the checkout page, your computer will begin communicating with ou
 		var emailRequiredMsg = "Email address is required.";
 		var emailInvalidMsg = "Please enter a valid email address.";
 	</script>
-	<script src="/js-0011982/global.js"></script>
+	<script src="/js-725e609/global.js"></script>
 	<script>
 		
 		if (typeof inpageTranslate != 'undefined') {
@@ -898,7 +898,7 @@ Once you enter the checkout page, your computer will begin communicating with ou
 			initModals();
 		});
 	</script>
-		
+
 		
 	<!-- TRACKING -->
 	
@@ -906,7 +906,7 @@ Once you enter the checkout page, your computer will begin communicating with ou
 	var axel = Math.random() + "";
 	var a = axel * 10000000000000;
 	document.write('<iframe src="//4351156.fls.doubleclick.net/activityi;src=4351156;type=Gener-;cat=CityP--;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
-	</script><iframe src="//4351156.fls.doubleclick.net/activityi;src=4351156;type=Gener-;cat=CityP--;ord=7768042174540.968?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+	</script><iframe src="//4351156.fls.doubleclick.net/activityi;src=4351156;type=Gener-;cat=CityP--;ord=4285160024752.752?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 	<noscript>
 	<iframe src="//4351156.fls.doubleclick.net/activityi;src=4351156;type=Gener-;cat=CityP--;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 	</noscript>
@@ -946,17 +946,17 @@ Once you enter the checkout page, your computer will begin communicating with ou
 
 		var pageLoadedElapsedTime = new Date().getTime() - pageLoadStartTime;
 		$(document).ready(function() {
-			window.CPBase.errors.logEvent('trackEvent'
-					, 'Page_Timing'
-					, 'Document Ready.'
-					, { value: new Date().getTime() - pageLoadStartTime,
-                        pageLoadedElapsedTime: pageLoadedElapsedTime
-                      }
-			);
+//			window.CPBase.errors.logEvent('trackEvent'
+//					, 'Page_Timing'
+//					, 'Document Ready.'
+//					, { value: new Date().getTime() - pageLoadStartTime,
+//                        pageLoadedElapsedTime: pageLoadedElapsedTime
+//                      }
+//			);
 		});
 	</script>
 
-	<!-- 2016-06-19 04:56:20 MDT -->
+	<!-- 2016-11-19 22:52:41 MST -->
 
 
 </body></html>
