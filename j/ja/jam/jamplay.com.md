@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the jamplay.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618111947id_/http%3A//www.jamplay.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamplay.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120014821id_/http%3A//www.jamplay.com/company/privacy-policy) for the most accurate reproduction.*
 
 # JamPlay.com Privacy Policy
 
-### Effective Date: October 16th, 2015
+### Effective Date: October 16th, 2016
 
 [](https://privacy.truste.com/privacy-seal/JamPlay,-LLC/validation?rid=9a22254d-a942-4725-8b3b-3263adaffa54 "TRUSTe online privacy certification")
 
 ### Information about our Organization and Web site
 
-Modern information and communication technologies play a fundamental role in the activities of an organization like JamPlay LLC ("JamPlay"). We are based in the United States, and our principal activity distributing guitar lessons via online videos and teaching tools. Our privacy policy covers JamPlay, LLC the www.JamPlay.com website. This privacy policy describes how JamPlay, LLC collects and uses the personal data you provide on our web site: http://www.jamplay.com. It also describes the choices available to you regarding our use of your personal data and how you can access and update this information.
+Modern information and communication technologies play a fundamental role in the activities of an organization like JamPlay LLC ("JamPlay"). We are based in the United States, and our principal activity distributing guitar lessons via online videos and teaching tools. Our privacy policy covers JamPlay, LLC the www.JamPlay.com website. This privacy policy describes how JamPlay, LLC collects and uses the personal data you provide on our web site: http://www.jamplay.com.
 
-JamPlay has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, http://www.jamplay.com and does not cover information that may be collected through our mobile application and support page. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request. 
+It also describes the choices available to you regarding our use of your personal data and how you can access and update this information.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
 Organization Name:| JamPlay, LLC  
 ---|---  
@@ -33,7 +35,7 @@ Our Web site enables you to communicate with other visitors or to post informati
 
 When signing up for the site we collect the following personal data such as your name, email address and physical address. Additionally, we collect sensitive financial data from you, such as your credit card number.
 
-When signing up to the Affiliate Program, we collect the following personal data such as email address, Tax ID and SSN. We use the information to coordinate your payouts and tax reporting.
+When signing up to the Affiliate Program, we collect the following personal data such as email address, Tax ID and SSN. We use the information to coordinate your payouts and tax reporting. 
 
 ### Public Profiles
 
@@ -43,15 +45,12 @@ The profile you create on our site will be publically accessible unless otherwis
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
 
-We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
+We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality. 
 
 ### Tracking technologies
 
-Technologies such as: cookies, beacons, tags and scripts are used by JamPlay and our3rd party partners. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
-
-We use cookies for our shopping cart, to remember users’ settings (e.g. language preference), for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
-
-We use Local Shared Objects, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5.
+Jamplay and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. To manage Flash cookies, please click here:  
+<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>. 
 
 ### Behavioral Targeting/Re-targeting
 
@@ -107,6 +106,8 @@ All our employees and data processors, who have access to, and are associated wi
 
 We ensure that your personal data will not be disclosed to State institutions and authorities except if required by law such as to comply with a subpoena or similar legal process and other regulation. When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
 
+In certain situations, Jamplay may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
+
 ### Privacy Compliance
 
 There are no national laws or self-regulatory schemes applicable to our web site or organisation.
@@ -123,7 +124,7 @@ If JamPlay LLC is involved in a merger, acquisition, or sale of all or a portion
 
 ### Privacy Support
 
-If you wish to access your personal data, update, delete, or have an enquiry about our privacy policy, please contact us:
+Upon request Jamplay will provide you with information about whether we hold any of your personal information. If you wish to access your personal data, update, delete, or have an enquiry about our privacy policy, please contact us:
 
   * sending an email to support@jamplay.com
   * calling us at 1-877-999-4526
