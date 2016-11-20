@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcalistersdeli.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608185536id_/http%3A//www.focusbrands.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcalistersdeli.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120164722id_/http%3A//www.focusbrands.com/privacy-policy) for the most accurate reproduction.*
 
 # Focus Brands | Privacy Policy
 
