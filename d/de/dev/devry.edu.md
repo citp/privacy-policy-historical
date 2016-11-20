@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devry.edu privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613192237id_/http%3A//www.devry.edu/devry-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devry.edu privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120113436id_/http%3A//www.devry.edu/devry-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | DeVry University
 
@@ -63,17 +63,10 @@ DeVry Education Group
 Downers Grove, IL 60515-5683  
 1-866-338-7934
 
-DeVry Calgary  
-2700 3rd Ave. SE  
-Calgary, Alberta  
-T2A 7W4  
-403-207-3161  
-800-363-5558 
-
 For students outside the US or Canada,  
 contact our International office:  
 1-602-216-7700
 
 If we are required to provide you with notice of a particular event or incident, we will send you that notice by email, telephone, or mail.
 
-Last revised on January 7, 2014.
+Last revised on November 15, 2016.
