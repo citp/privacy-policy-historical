@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the settlement.org privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606053604id_/http%3A//settlement.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the settlement.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120015449id_/http%3A//settlement.org/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | Information Newcomers Can Trust | Settlement.Org
+# Privacy Statement
 
 When you visit Settlement.Org it is important for you to know that your privacy is important to us. This page details the Ontario Council of Agencies Serving Immigrants', hereto referred to as "OCASI," policies on privacy-related matters.
 
@@ -10,9 +10,9 @@ OCASI neither collects personal information about its users nor receives persona
 
 ## Specific Examples 
 
-### MySettlement.Org
+### Discussion Forum
 
-This section of the website provides you the opportunity to participate in discussion forums, track your applications process timelines, track some elements of your site usage and customize site features. You create a username which identifies you in the discussion area and permits you to ask and respond to questions, and which allows you to share your timelines if you wish. We keep your information anonymous except for that information which you explicitly share using the MySettlement profile features. 
+This section of the website allows you to create a username which identifies you in the discussion forum and permits you to ask and respond to questions. We keep your information anonymous except for that information which you explicitly share using the Forum profile and posting features. 
 
 ### Asking Questions and Providing Feedback 
 
