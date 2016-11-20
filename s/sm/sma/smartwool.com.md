@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartwool.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525140433id_/http%3A//www.smartwool.com/customer-service/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartwool.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120161830id_/http%3A//www.smartwool.com/customer-service/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Smartwool® Privacy Policy
 
 Last updated: November 1, 2014
 
