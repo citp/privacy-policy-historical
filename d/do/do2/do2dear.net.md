@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the do2dear.net privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605235938id_/http%3A//do2dear.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the do2dear.net privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120034312id_/http%3A//do2dear.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Do2Dear.Net
 
 [   
-**Privacy Policy**](http://justgetitfaster.com/mobi?k=43b5e8ed04e7bfc6736cd88bcd304781&q=Privacy%20Policy)
+**Privacy Policy**](http://apploading.mobi/mobi?k=43b5e8ed04e7bfc6736cd88bcd304781&q=Privacy%20Policy)
 
 **Privacy Policy for do2dear.net**
 
@@ -36,5 +36,5 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
 [   
-**Privacy Policy**](http://justgetitfaster.com/mobi?k=43b5e8ed04e7bfc6736cd88bcd304781&q=Privacy%20Policy)  
+**Privacy Policy**](http://apploading.mobi/mobi?k=43b5e8ed04e7bfc6736cd88bcd304781&q=Privacy%20Policy)  
 
