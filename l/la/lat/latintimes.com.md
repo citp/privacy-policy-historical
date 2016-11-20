@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latintimes.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410140942id_/http%3A//www.latintimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latintimes.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120034529id_/http%3A//www.latintimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
