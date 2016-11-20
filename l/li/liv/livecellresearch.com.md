@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livecellresearch.com privacy policy that was archived on 2016-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160212104211id_/http%3A//livecellresearch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livecellresearch.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120211442id_/http%3A//livecellresearch.com/privacy.php) for the most accurate reproduction.*
 
 # Live Cell Research | Privacy Policy
 
@@ -81,5 +81,5 @@ support@LiveCellResearch.com
 To reach us by phone:   
 844-650-5933
 
-Monday - Friday 9am to 9pm EST   
-Saturday - Sunday 9am to 7pm EST
+Monday - Friday 5am to 7pm PST   
+Saturday - Sunday 6am to 4:30pm PST
