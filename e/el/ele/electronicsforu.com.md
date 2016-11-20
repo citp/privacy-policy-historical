@@ -1,31 +1,55 @@
-> *The following text is extracted and transformed from the electronicsforu.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523195427id_/http%3A//www.electronicsforu.com/electronicsforu/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronicsforu.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120161919id_/http%3A//electronicsforu.com/privacy-policy) for the most accurate reproduction.*
 
-# EFY Group
+# Privacy Policy - Electronics For You
 
- 
+**What information do we collect?**
 
-Privacy Policy
+We collect information from you when you register on our site or subscribe to our newsletter.
 
-This Privacy Policy for electronicsforu.com, an online property of EFY Enterprises Pvt Ltd, will be continuously assessed against new technologies, business practices and our customers' changing needs. We may change our privacy practices from time to time. If we make any changes, we'll update this privacy statement accordingly (the date of the most recent change is displayed at the top of this statement). 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
 
-Registered users of www.electronicsforu.com enjoy special benefits. Registration is free here, and is a process that enables the team to understand the profile of our users. 
+ **What do we use your information for?**
 
-1\. EFY can take back any of the benefits passed to a registered user. 
+Any of the information we collect from you may be used in one of the following ways:
 
-2\. EFY has the discretion to accept or decline registration of any user. 
+To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-3\. EFY expects that contact details (if submitted) are correct. 
+To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-4\. EFY reserves the right to send marketing emails on your email-ID for generating revenue. This is the only way EFY can pump in resources for the FREE services being provided. 
+To administer a contest, promotion, survey or other site feature
 
-5\. EFY at any time may change the categories, sub-categories or any other information that helps to identify your data. 
+To send periodic emails
 
-6\. EFY at any time may change the entire content of the website. 
+To share with sponsors
 
-7\. EFY reserves the right to terminate any or all feature(s) on its own discretion. 
+The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
-Many of our publications may be subscribed to at reduced rates because they are supported by advertisers. Qualification and registration questionnaires and other processes ensure that our advertisers reach the appropriate audiences. We may use the information we collect from you individually or aggregated with other user's information to improve our publications, to customize these publications, and to notify you about updates or new features. 
+ **Do we use cookies?**
 
-In addition, we may use information we collect to notify you of third-party products and services in which you may be interested. In addition to the options made available to you when we collect information (if any), you may elect to "opt out" of having your individually identifiable information shared with third-parties that are not affiliated with EFY (except for uses specifically requested by you, and legitimate business uses). We will update the specific records related to your request as promptly as practical. Note, however, that you may receive additional communications from third parties after you submit your request while we process the request. 
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-Additionally, your information may exist in multiple lists within the company and our technology limits the processing of opt-out requests to the specific list source. We will continuously assess our responsiveness to opt-out requests against new technologies, business practices and our customers' needs. 
+We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+
+ **Do we disclose any information to outside parties?**
+
+Information may be shared with third parties who assist us in operating our website or events, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
+
+ **Third party links** Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+ **Your Consent**
+
+By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page.
+
+This policy was last modified on 18th June 2014
