@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tacticalgear.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612033237id_/http%3A//tacticalgear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tacticalgear.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120112428id_/http%3A//tacticalgear.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy @ TacticalGear.com
 
@@ -20,7 +20,6 @@ This notice applies to all information collected or submitted on the TacticalGea
   * Address
   * Email address
   * Phone number
-  * Credit/Debit Card Information
 
 
 
@@ -49,7 +48,11 @@ Finally, we never use or share the personally identifiable information provided 
 
 ## Our Commitment to Data Security
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+We use Secure Sockets Layer (SSL) technology to help protect your order information. This encrypts your credit/debit card number, order information and other personal information. When you access our cart and checkout pages, your computer automatically uses SSL encryption to communicate with our server. You easily can verify that this encryption is taking place by looking at the web address (URL) in your browser window. The address will begin with "https://" when your information is being protected by SSL encryption (the "s" stands for secure). Most modern browsers also will show a green padlock icon.
+
+To further ensure the security of your personal data, we do not store credit or debit card information on our servers. During checkout, your credit card information bypasses our systems completely and goes directly to our payment service provider, Braintree. A division of PayPal, Braintree utilizes some of most advanced security features in the payment processing industry and is a verified Level 1 PCI-compliant processor. Please click here to learn more about [Braintree](https://www.braintreepayments.com/products-and-features/data-security).
 
 ## How You Can Access Or Correct Your Information
 
