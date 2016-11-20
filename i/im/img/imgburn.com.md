@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgburn.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606143547id_/http%3A//www.imgburn.com/index.php%3Fact%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgburn.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120091909id_/http%3A//www.imgburn.com/index.php%3Fact%3Dprivacy) for the most accurate reproduction.*
 
 # The Official ImgBurn Website
 
@@ -32,7 +32,7 @@ Wherever we collect personal information we make an effort to include a link to 
 
 As part of offering and providing customisable and personalised services, the site uses cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. All sites on imgburn.com where you are prompted to login or that are customisable require that you accept cookies. (See "What are my choices regarding collection, use and distribution of my information?" for more information on cookies.) 
 
-We use Google AdSense on this website. Third-party vendors, including Google, use cookies to serve ads based on your website visits. Google’s use of the DART cookie enables it and its partners to serve ads based on your web browsing activity. You may opt out of the use of the DART cookie by visiting <http://www.google.co.uk/policies/privacy/ads/>
+We use Google AdSense on this website. Third-party vendors, including Google, use cookies to serve ads based on your website visits. Google�s use of the DART cookie enables it and its partners to serve ads based on your web browsing activity. You may opt out of the use of the DART cookie by visiting <http://www.google.co.uk/policies/privacy/ads/>
 
 We use Google Analytics on this website. Google Analytics generates statistical information about website use by means of cookies. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: <http://www.google.co.uk/policies/privacy/>
 
