@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coralcast.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322152101id_/http%3A//www.coralcast.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coralcast.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120194224id_/http%3A//www.coralcast.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Coral Cast Architectural Stone
 
