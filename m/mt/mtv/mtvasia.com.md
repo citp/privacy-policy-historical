@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtvasia.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605102917id_/http%3A//www.mtvasia.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvasia.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121004241id_/http%3A//www.mtvasia.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Info | MTV Asia
 
