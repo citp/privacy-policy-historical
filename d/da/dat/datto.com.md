@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datto.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625022236id_/http%3A//www.datto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datto.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120224410id_/http%3A//www.datto.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Datto, Inc.
 
@@ -64,11 +64,11 @@ We use the following types of cookies for the purposes stated:
 
 These are cookies that are required for the operation of our Websites. They include, for example, cookies that enable you to log into secure areas of our Websites, use a shopping cart or fill in a form.
 
-### Analytical/performance cookies 
+### Analytical/performance cookies
 
 These cookies are used to provide us with statistical information about our Websites which we use to measure performance and to improve how our Websites work. These cookies allow us to recognize and count the number of visitors and to see how visitors move around our Websites. All information these cookies collect is aggregated and therefore anonymous.
 
-### Functionality cookies 
+### Functionality cookies
 
 These cookies are used to recognize you when you return to a Website. This enables us to personalize our content for you, tailor our interactions with you and remember your preferences.
 
