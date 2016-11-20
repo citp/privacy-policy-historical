@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wmcactionnews5.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629224745id_/http%3A//www.wmcactionnews5.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmcactionnews5.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120164108id_/http%3A//www.wmcactionnews5.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WMC Action News 5 - Memphis, Tennessee
 
