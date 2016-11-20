@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ons.gov.uk privacy policy that was archived on 2016-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160602233514id_/http%3A//www.ons.gov.uk/help/cookiesandprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ons.gov.uk privacy policy that was archived on 2016-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120115303id_/http%3A//www.ons.gov.uk/help/cookiesandprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -12,7 +12,6 @@ Cookies and Privacy
 <meta name="format-detection" content="telephone=no">
 <meta name="theme-color" content="#58595B">
 <meta name="apple-mobile-web-app-status-bar-style" content="#58595B">
-<meta http-equiv="X-Frame-Options" content="SAMEORIGIN">
 <!--[if IE]><![endif]-->
 <!--[if lte IE 8]>
 		<link rel="stylesheet" href="/assets/css/old-ie.css"/>
@@ -32,13 +31,14 @@ Skip to main content
 <div id="pagePath" class="hide">/help/cookiesandprivacy</div>
 <div class="beta-banner">
 <div class="wrapper">
+<p>We are improving our online services and you can help by sharing your needs and opinions in our <a href="https://www.surveymonkey.co.uk/r/8CPWTXQ" target="_blank">short survey</a></p>
 </div>
 </div>
 <div class="wrapper">
 <div class="header col-wrap">
 <div class="col col--lg-one-third col--md-one-third">
 <a href="/">
-<img class="main-logo" src="/img/ons-logo.png" alt="Office for National Statistics">
+<img class="main-logo" src="/assets/img/ons-logo.svg" alt="Office for National Statistics">
 </a>
 </div>
 <div class="col col--lg-two-thirds col--md-two-thirds hide--sm print--hide language--js__container">
@@ -388,6 +388,21 @@ document.write(unescape("%3cscript src='//cdn.loop11.com/my/loop11.js' type='tex
                     return location.search;
                 }
             }
+
+            // Measure time on page - credit to http://help.analyticsedge.com/googleanalytics/measuring-time-on-bounce-page/
+            function timer11(){ga('send', 'event', 'TimeOnPage', '1', '11-30 seconds', { 'nonInteraction': 1 });}
+            function timer31(){ga('send', 'event', 'TimeOnPage', '2', '31-60 seconds', { 'nonInteraction': 1 });}
+            function timer61(){ga('send', 'event', 'TimeOnPage', '3', '61-180 seconds', { 'nonInteraction': 1 });}
+            function timer181(){ga('send', 'event', 'TimeOnPage', '4', '181-600 seconds', { 'nonInteraction': 1 });}
+            function timer601(){ga('send', 'event', 'TimeOnPage', '5', '601-1800 seconds', { 'nonInteraction': 1 });}
+            function timer1801(){ga('send', 'event', 'TimeOnPage', '6', '1801+ seconds', { 'nonInteraction': 1 });}
+            ga('send', 'event', 'TimeOnPage', '0', '0-10 seconds', { 'nonInteraction': 1 });
+            setTimeout(timer11,11000);
+            setTimeout(timer31,31000);
+            setTimeout(timer61,61000);
+            setTimeout(timer181,181000);
+            setTimeout(timer601,601000);
+            setTimeout(timer1801,1801000);
         </script>
 
 </body></html>
