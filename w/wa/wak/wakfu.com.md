@@ -1,16 +1,21 @@
-> *The following text is extracted and transformed from the wakfu.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604071721id_/http%3A//www.wakfu.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wakfu.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120123349id_/http%3A//www.wakfu.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ankama - WAKFU, The strategic MMORPG with a real environmental and political system. - WAKFU, The strategic MMORPG with a real environmental and political system.
 
 ## Article no. 1 : Preamble
 
-This Privacy Policy Statement informs you of terms and procedures for the collection, processing and use of your personal data by Ankama Games, registered under the business identifier 492 360 730 in the Lille Métropole trade and corporate register, and by its parent company and affiliates (jointly and indifferently called the "Company", "Ankama" or "We" ("Us")). This Charter also informs you of your data-protection rights and obligations when using the Ankama websites (the “Websites”), video games (the “Games”) and applications (the “Applications”) edited by the Company available on computers or mobile devices and that will provide a link to this Privacy Policy.
+This Privacy Policy Statement informs you of terms and procedures for the collection, processing and use of your personal data by Ankama Games, registered under the business identifier 492 360 730 in the Lille Métropole trade and corporate register, and by its parent company and affiliates (jointly and indifferently called the “ **Company** ”, “ **Ankama** ” or “ **We** ” (“ **Us** ”)). This Charter also informs you of your data-protection rights and obligations when using the Ankama websites (the “ **Websites** ”), video games (the “ **Games** ”) and applications (the “ **Applications** ”) edited by the Company available on computers or mobile devices and that will provide a link to this Privacy Policy.
 
-The Websites, Games and Applications are collectively designated by the term “Services”.
-
+The Websites, Games and Applications are collectively designated by the term “ **Services** ”.  
 Ankama Games is responsible for collecting personal data, which are accessible to all the companies in the Ankama group.
 
 By accessing or using the Services, you acknowledge that you are conversant with the terms of this Privacy Policy Statement and you consent to them.
+
+ _Information to minors_
+
+: We keep the information you communicate to us (surname, first name, date of birth, email address, postal address, telephone number) to be able to communicate with you regarding your account, to monitor your purchases, to help you resolve security problems that may affect your account and to send you information about our Services.  When creating your account, We ask you to enter an Account name and a password: this account name and this password will allow you to access our Services, notably our Games.  Warning: this account name and this password must remain secret; never communicate them to other people.
+
+You have the right to access and rectify your data. To exercise this right and obtain communication or deletion of information concerning you, with the help of your parents, on our website <https://support.ankama.com/hc/en-us>.
 
 ## Article no. 2 : Collection and use of personal data
 
@@ -58,11 +63,9 @@ These social networks and game platforms are created and managed by third partie
 
 Ankama may use third party service providers to collect your personal data on Ankama's behalf, for the purpose of performing the tasks required to execute your orders, deliver products, process your payments and combat fraud. Ankama may also, for the same purposes, be required to disclose to those service providers some of your data, particularly personal data, using a secure channel.
 
-The personal details you sent us may be shared with other Ankama subsidiaries in countries outside the European Union, particularly Brazil and Singapore.
+Ankama may share your personal details with third party service providers situated outside the European Union, particularly Canada, Brazil, Singapore, the Philippines and the USA.
 
-Ankama may also share your personal details with third party service providers situated outside the European Union, particularly Canada and the USA.
-
-These details are sent to recipients outside the European Union to build good customer relationships. Ankama has taken every necessary precaution to ensure that your personal details are sufficiently protected either under contractual clauses established by the European Commission, or because these transfers are carried out for an American company which complies with the Safe Harbor principles.
+These details are sent to recipients outside the European Union to build good customer relationships. Ankama has taken every necessary precaution to ensure that your personal details are sufficiently protected, under contractual clauses established by the European Commission.
 
 ## Article no. 4 : Cookies
 
@@ -93,6 +96,9 @@ There are different types of cookie:
 
 
 
+You will find more information about cookies on the CNIL website (<http://www.cnil.fr/vos-droits/vos-traces/les-cookies/>) and on the website <http://www.allaboutcookies.org/>.  
+ 
+
 #### **_2) The cookies We output from our Websites_**
 
  
@@ -103,10 +109,10 @@ The cookies We use on our Websites fall into the following categories:
   * _Cookies that are strictly necessary_ : these cookies are essential to the operation of our Websites and to provide the services you request. These cookies are designed to identify you, help make our services secure, access your account and manage your orders.
 
 
-  * _Function or feature cookies_ : these cookies are aimed at enhancing your browsing experience on our Websites. We use them to store your choices and preferences, such as the language you use, to store previously-input information so as to avoid your having to input it again when you next visit, and to remind us of pages already visited so as not to re-display them.
+  * _Function or feature cookies_ : these cookies are aimed at enhancing your browsing experience on our Websites. We use them to store your choices and preferences, such as the language you use, to store previously-input information so as to avoid your having to input it again when you next visit, and to remind us of pages already visited so as not to re-display them. 
 
 
-  * _advertising-related cookies_ : We use these cookies to measure the impact of an advertising campaign on our Websites (number of pages viewed, number of clicks, etc.). For statistical purposes, among others, We also use software analysing and making use of events in response to the sending of e-mails, such as message opening, clicks, the termination of subscriptions or registrations, which operates using cookies.
+  * _Advertising-related cookies_ : We use these cookies to measure the impact of an advertising campaign on our Websites (number of pages viewed, number of clicks, etc.). For statistical purposes, among others, We also use software analysing and making use of events in response to the sending of e-mails, such as message opening, clicks, the termination of subscriptions or registrations, which operates using cookies.
 
 
   * _Flash cookies_ : in some situations, we can use shared local objects, commonly called “Flash cookies” to memorise certain information, notably your progress in games on the browser proposed by the Company. Flash cookies differ from browser cookies by the quantity and type of data stored as well as their storage method. Cookie management tools available on your browser will not delete Flash cookies. You can access your Flash management tools from the Adobe website directly: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html>. Please note that by deactivating Flash cookies, you will no longer have access to certain functionalities that facilitate your experience on our Websites.
@@ -138,8 +144,9 @@ We have no control over the process used by the social networks for gathering in
 
 #### **_4) Cookies We place on websites which carry our advertising_**
 
-Third-party sites may carry banners promoting the activities of Ankama entities. In these circumstances, when a web user clicks on such a banner, a cookie is installed in your device. These cookies are used for the following purposes:  
  
+
+Third-party sites may carry banners promoting the activities of Ankama entities. In these circumstances, when a web user clicks on such a banner, a cookie is installed in your device. These cookies are used for the following purposes:
 
   * to record the number of pages viewed and clicks on our advertising content broadcast on third-party sites, to identify such content and sites and to determine the number of users clicking on each content.
   * to calculate the amounts due to the entitled parties in the advertising dissemination chain (third-party site publishers and advertising networks) and to establish statistics
@@ -147,31 +154,19 @@ Third-party sites may carry banners promoting the activities of Ankama entities.
 
 
 
-#### **_5) Managing cookie preferences_**
+**_5) Managing cookie preferences_**
 
- 
-
-Most browsers have default settings allowing the placing of cookies. However, if you wish you can disable cookies by selecting the appropriate settings options on your browser. The procedure for changing cookie settings may differ according to browser.  
- 
-
-  * For Internet Explorer: <http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies>
-  * For Safari: <http://support.apple.com/kb/HT1677?viewlocale=en_EN>
-  * For Google Chrome: <https://support.google.com/chrome/answer/95647?hl=en>
-  * For Mozilla Firefox: <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>
-  * For Opera: <http://help.opera.com/Windows/10.20/en/cookies.html>
-
-
-
-**_We wish to draw your attention to the fact that changing your browser settings to disable all cookies will prevent you from accessing certain features, pages and spaces of the Websites_**. Accordingly, we recommend that you disable only third-party cookies.  
  
 
 ## Article no. 5 : Non-personal data collection
 
-The Company reserves the right to collect certain information concerning your computer (access provider, hardware and software configuration) particularly when installing a game published by Ankama Games or one of its partners, and in the event of hardware modification of your terminal. The Company also reserves the right to collect certain information linked to your mobile device (brand, model, version of operating system, unique identifier of the device) notably when installing an Application or a Game available on a mobile device.
+The Company reserves the right to collect certain information concerning your computer (IP, access provider, hardware and software configuration) particularly when installing a game published by Ankama Games or one of its partners, and in the event of hardware modification of your terminal. The Company also reserves the right to collect certain information linked to your mobile device (brand, model, version of operating system, unique identifier of the device) notably when installing an Application or a Game available on a mobile device.
 
 We may use these data for statistical purposes (particularly to enhance game performance), for managing bugs and to allow us to assist if you encounter a technical problem when using our Services.
 
- These data will not enable us to identify you. Nevertheless, if We associate non-personal data with personal data, the data so combined will be treated as personal data for as long as they remain combined.
+The Company also reserves the right to collect certain information based on your in-game activity (including the log and history of all data exchanges, connection log and history or all other data linked to the actions carried out in the Games). The Company may use this information as it sees fit, notably to improve the in-game experience and to ensure the [Terms of Use](https://account.ankama.com/en/tou) are respected.
+
+These data will not enable us to identify you. Nevertheless, if We associate non-personal data with personal data, the data so combined will be treated as personal data for as long as they remain combined.
 
 ## Article no. 6 : Chat rooms and discussion forums
 
@@ -207,34 +202,21 @@ Pursuant to the French data protection Act of 6 January 1978, you have a right o
 
 You also have a right to refuse on legitimate grounds the processing of personal data concerning you and a right to refuse the use of those data for canvassing, particularly of a commercial nature.
 
-You may exercise your rights:
-
-  * either via on-line support, <https://support.ankama.com/hc/en-us>,
-  * or by writing to:
-
-
-
-ANKAMA - Infos Personnelles,  
-75 bd d'Armentières, BP 60403,  
-59057 Roubaix cedex 1, France.
+You may exercise your rights via on-line support, <https://support.ankama.com/hc/en-us>.
 
 Out of concern for your privacy and the protection of your personal data, We must ascertain your identity before replying to your request. Accordingly, any request to exercise your rights must enclose a copy of a signed identity document.
 
 Your request will be processed as soon as possible, in accordance with the statutory provisions from time to time in force.
 
-  
- 
-
 ## Article no. 10 : Update
 
 We reserve the right to amend this Privacy Policy Statement at any time. Consequently, we advise you to check our "Privacy Policy Statement" regularly.
 
-Latest amendment: July 2015
+Latest amendment: September 2016
 
 ## Article no. 11 : Enquiries and complaints
 
-For any enquiry or complaint relating to our Privacy Policy Statement, you may contact us by post at the following address:  
- 
+For any enquiry or complaint relating to our Privacy Policy Statement, you may contact us by post at the following address:
 
 ANKAMA - Infos Personnelles,  
 75 bd d'Armentières, BP 60403,  
