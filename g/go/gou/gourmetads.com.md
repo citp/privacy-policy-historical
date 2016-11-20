@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gourmetads.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609082247id_/http%3A//www.gourmetads.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gourmetads.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120122638id_/http%3A//www.gourmetads.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Gourmet Ads Gourmet Ads
+# Privacy Policy - Gourmet Ads Gourmet Ads
 
 [](http://www.gourmetads.com/wp-content/uploads/2011/05/privacy-policy.jpg)
 
