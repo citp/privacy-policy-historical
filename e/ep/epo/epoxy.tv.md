@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epoxy.tv privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413164926id_/https%3A//epoxy.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epoxy.tv privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120090620id_/http%3A//www.epoxy.tv/privacy) for the most accurate reproduction.*
 
 # Epoxy.tv - Privacy Policy
 
