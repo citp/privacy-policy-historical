@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happymoneysaver.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607064407id_/http%3A//happymoneysaver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happymoneysaver.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120184601id_/http%3A//happymoneysaver.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Happy Money Saver
 
@@ -54,3 +54,5 @@ We will not sell, distribute or lease your personal information to third parties
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
 
  [Leave a Comment](http://happymoneysaver.com/privacy-policy/#respond)
+
+Privacy Policy was last modified:  February 25th, 2015 by 
