@@ -1,18 +1,19 @@
-<!--The following is the downloaded HTML source of the caughtoffside.com privacy policy that was archived on 2016-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160614065548id_/http%3A//www.caughtoffside.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the caughtoffside.com privacy policy that was archived on 2016-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120034433id_/http%3A//www.caughtoffside.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head>
 <meta charset="utf-8">
-<meta name="apple-itunes-app" content="app-id=471867602">
+<meta name="apple-itunes-app" content="app-id=515902300">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link rel="icon" href="http://cdn.caughtoffside.com/favicon.ico">
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="http://www.caughtoffside.com/xmlrpc.php">
 <meta property="fb:app_id" content="100810056717426">
 <meta property="fb:pages" content="86922614981">
+<link rel="alternate" href="http://www.caughtoffside.com/privacy-policy/" hreflang="en-gb">
 
 <link rel="prev" href="http://www.caughtoffside.com/privacy-policy/"><link rel="next" href="http://www.caughtoffside.com/privacy-policy/page/2/">
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" async="" src="https://platform.twitter.com/widgets.js"></script><script id="fnmb-jssdk" src="https://www.fanmob.us//assets/sdk.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script data-cfasync="false" src="//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js" type="text/javascript" async=""></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" async="" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk/xfbml.ad.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script id="fnmb-jssdk" src="https://www.fanmob.us//assets/sdk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script data-cfasync="false" src="//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js" type="text/javascript" async=""></script><script type="text/javascript">
 //setup our object which our library will load in to later
 var fanatix = {
 	params:{},//stuff that'll come down from wordpress' built in "pass stuff from php to js" mechanisms will live here
@@ -161,32 +162,77 @@ fanatix.geo = {
 
 fanatix.ads = {};
 
-//we do DFP up here because it's more important to get this loaded straight away
 fanatix.ads.dfp = {
-	templates:{
-		'Web-All-CaughtOffside-Feed-MPU':''
-	},
-//size ideally shouldn't be passed in here as it's hardcoded per ad unit anyway, but, dfp needs it
-	create:function(unit, size) {
-		if(!fanatix.ads.dfp.dynamic[unit])
-			fanatix.ads.dfp.dynamic[unit] = [];
-		var num = fanatix.ads.dfp.dynamic[unit].length;
-		var ad_id = 'dfp-'+unit+'_'+num;
-		var html = fanatix.ads.dfp.templates[unit].replace('{ad_id}', ad_id);
-		fanatix.lib.debug('DFP: fanatix.ads.dfp.create() googletag.defineSlot('+ad_id+')');
-		fanatix.ads.dfp.dynamic[unit].push(googletag.defineSlot('/1101651/'+unit, size, ad_id).
-			addService(googletag.pubads()));
-		return {
-			html:html,
-			num:num
-		};
-	},
-	load:function(unit, num) {
-		googletag.display('dfp-'+unit+'_'+num);
-	},
+	enabled:true,
 	slots:{},
-	dynamic:{}
-};//fanatix.ads.dfp = {
+	split_tests:{
+		'dfp-latest-feed-mpu':{
+			slot:null
+		}
+	},
+	init:function() {
+		window.googletag = window.googletag || {};
+		window.googletag.cmd = window.googletag.cmd || [];
+
+		fanatix.lib.debug('DFP: Creating the initial gpt.js <script> element');
+		(function() {
+			var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') +
+			'//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(gads, node);
+		})();
+	}
+};
+fanatix.ads.fb = {
+	enabled:false,
+	placements:{'100810056717426_852379978227093':'fb-latest-native','100810056717426_852380051560419':'fb-latest-native','100810056717426_852380084893749':'fb-latest-native','100810056717426_852380131560411':'fb-latest-native'},
+	split_tests:{
+		'fb-latest-native':{
+			placement_ids:['100810056717426_852379978227093','100810056717426_852380051560419','100810056717426_852380084893749','100810056717426_852380131560411'],
+			test:'false',
+			slot:null
+		}
+	},
+	init:function() {
+		fanatix.lib.debug('FB: fanatix.ads.fb.init(): Setting window.fbAsyncInit callback');
+		window.fbAsyncInit = function() {
+			fanatix.lib.debug('FB: window.fbAsyncInit() called [100810056717426]');
+			FB.init({
+				appId      : '100810056717426',
+				xfbml      : true,
+				version    : 'v2.7'
+			});
+			if(fanatix.ads.fb.enabled) {
+				FB.Event.subscribe('ad.loaded', function(placementId) {
+					fanatix.lib.debug('FB: Audience Network ad loaded');
+					var e = document.getElementById(fanatix.ads.fb.placements[placementId]);
+					if(e)
+						e.style.display = 'block';
+				});
+				FB.Event.subscribe('ad.error', function(errorCode, errorMessage, placementId) {
+					fanatix.lib.debug('FB: Audience Network error (' + errorCode + ') ' + errorMessage+' ['+placementId+']');
+					if(fanatix.ads.fb.placements[placementId]=='fb-latest-native') {
+						fanatix.lib.debug('FB/DFP: Loading DFP fallback due to FB ad fail to load');
+						$('#dfp-latest-feed-mpu').removeClass('hide');
+											}
+				});
+			}
+		};
+
+		fanatix.lib.debug('FB: fanatix.ads.fb.init(): Loading jssdk');
+		(function(d, s, id){
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) {return;}
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk/xfbml.ad.js";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	}
+};
 
 //so anything that depends on local cookies for freq capping can know whether it can set cookies or not
 fanatix.cookie.test();
@@ -194,96 +240,18 @@ fanatix.cookie.test();
 
 fanatix.runtime.device = fanatix.lib.detectDevice();
 fanatix.lib.debug('Device: '+fanatix.runtime.device);
-if(fanatix.cookie.allowed && false && (fanatix.runtime.device=='android' || fanatix.runtime.device=='iphone')) {
+if(fanatix.cookie.allowed && true && (fanatix.runtime.device=='android' || fanatix.runtime.device=='iphone')) {
+	fanatix.lib.debug('Interstitial: checking session...');
 	var session = fanatix.lib.getAppSession();
-//the fanatix8 app is currently only alive on iphone so we need to do separate "download the app" interstitials
-	if(fanatix.runtime.device=='android' && (!session.seen_download_app_interstitial || false==='force')) {
-		fanatix.runtime.redirecting = true;
-		window.location = 'http://www.caughtoffside.com/interstitial-downloadapp-site.php#device='+fanatix.runtime.device+'&referrer='+encodeURIComponent(document.location.href);
-	}
-/*
-	if(fanatix.runtime.device=='iphone' && (!session.seen_download_app_interstitial_modern || false==='force')) {
+	if(!session.seen_download_app_interstitial_modern || true==='force') {
+		fanatix.lib.debug('Interstitial: redirecting!');
 		fanatix.runtime.redirecting = true;
 		window.location = 'http://www.caughtoffside.com/interstitial-downloadapp-modern.php#device='+fanatix.runtime.device+'&referrer='+encodeURIComponent(document.location.href);
 	}
-*/
-	if(fanatix.runtime.device=='iphone' && (!session.seen_download_app_interstitial_fanatix8 || false==='force')) {
-		fanatix.runtime.redirecting = true;
-		window.location = 'http://www.caughtoffside.com/interstitial-downloadapp-fanatix8.php#device='+fanatix.runtime.device+'&referrer='+encodeURIComponent(document.location.href);
+	else {
+		fanatix.lib.debug('Interstitial: NOT redirecting!');
 	}
 }
-
-//makes sure we don't log an imps if we're redirecting off to the interstitial as they won't have seen the page yet
-if(!fanatix.runtime.redirecting) {
-
-	var googletag = googletag || {};
-	googletag.cmd = googletag.cmd || [];
-
-	fanatix.lib.debug('DFP: Creating the initial gpt.js <script> element');
-	(function() {
-		var gads = document.createElement('script');
-		gads.async = true;
-		gads.type = 'text/javascript';
-		var useSSL = 'https:' == document.location.protocol;
-		gads.src = (useSSL ? 'https:' : 'http:') +
-		'//www.googletagservices.com/tag/js/gpt.js';
-		var node = document.getElementsByTagName('script')[0];
-		node.parentNode.insertBefore(gads, node);
-	})();
-
-	fanatix.lib.debug('DFP: Pushing initial on-page code on to googletag.cmd');
-	googletag.cmd.push(function() {
-		fanatix.lib.debug('DFP: Calling initial on-page pushed code; configuring, including enableSingleRequest() and enableAsyncRendering()');
-//this breaks responsive ads, so disabling for now
-//		googletag.pubads().collapseEmptyDivs();
-
-		googletag.pubads().addEventListener('slotRenderEnded', function(event) {
-			if(!event.isEmpty && (event.size[0]!=320 || event.size[1]!=50) && event.slot==fanatix.ads.dfp.slots['dfp-ros-res-header'])
-				$('#dfp-ros-res-header').css({width:event.size[0], height:event.size[1]});
-		});
-
-		fanatix.lib.debug('DFP: Starting all the initial on-page defineSlot()s');
-
-//responsive header; params mean "if viewport >= param[0] size, use ad(s) of param[1] size"
-		var map_header = googletag.sizeMapping().
-			addSize([320, 400], [320, 50]).
-			addSize([480, 200], [468, 60]).
-			addSize([768, 200], [728, 90]).
-			addSize([1000, 200], [[728, 90], [970, 250], [970, 66], [970, 90]]).
-			build();
-
-		fanatix.lib.debug('DFP: googletag.defineSlot(dfp-ros-res-header)');
-		fanatix.ads.dfp.slots['dfp-ros-res-header'] = googletag.defineSlot('/1101651/Web-All-CaughtOffside-ROS-ResHeader', [320,50], 'dfp-ros-res-header').
-			defineSizeMapping(map_header).addService(googletag.pubads());
-//apparently googletag.display() *needs* a div id passed in to it or it won't do anything, so we need to force one
-		var trigger_display_p1 = 'dfp-ros-res-header';
-
-		fanatix.lib.debug('DFP: googletag.defineSlot(dfp-article-mpu)');
-		fanatix.ads.dfp.slots['dfp-article-mpu'] = googletag.defineSlot('/1101651/Web-All-CaughtOffside-Article-MPU', [300, 250], 'dfp-article-mpu').
-			addService(googletag.pubads());
-
-		fanatix.lib.debug('DFP: googletag.defineSlot(dfp-ros-fullscreen)');
-		fanatix.ads.dfp.slots['dfp-ros-fullscreen'] = googletag.defineSlot('/1101651/Web-All-CaughtOffside-ROS-FullScreen', [1,1], 'dfp-ros-fullscreen').
-			addService(googletag.pubads());
-
-		fanatix.lib.debug('DFP: Doing initial inline googletag.display() to call first batch of static slots SingleRequest-style');
-		googletag.pubads().enableSingleRequest();
-		googletag.enableServices();
-		googletag.display(trigger_display_p1);
-//note that now we've called this any subsequent .display() calls will just do themselves, so they're still needed for any dynamic slots
-
-		jQuery(document).ready(function($) {
-
-//this is a proxy for determining if we're on the "desktop" layout - this element has "show-for-large-up" on it so will only be :visible
-//at that breakpoint, regardless of what it is. So this'll still work if we change the CSS without needing modifying itself
-			$('#sidebar-mpu').remove();
-			$('#sidebar-halfpage').remove();
-		});//jQuery(document).ready(function($) {
-
-	});//googletag.cmd.push(function() {
-
-
-}//if(!fanatix.runtime.redirecting)
 </script>
 
 <title>
@@ -324,7 +292,7 @@ Privacy Policy &amp; Cookies | CaughtOffside</title>
 <meta name="shareaholic:language" content="en-US">
 <meta name="shareaholic:url" content="http://www.caughtoffside.com/privacy-policy/">
 <meta name="shareaholic:article_published_time" content="2012-07-14T12:54:41+00:00">
-<meta name="shareaholic:article_modified_time" content="2016-06-13T17:19:41+00:00">
+<meta name="shareaholic:article_modified_time" content="2016-11-17T12:12:03+00:00">
 <meta name="shareaholic:shareable_page" content="true">
 <meta name="shareaholic:article_author_name" content="peterbevan">
 <meta name="shareaholic:site_id" content="00da940b834d3c0f8608a9d1cccbe331">
@@ -351,7 +319,7 @@ img.emoji {
 </style>
 <link rel="stylesheet" id="toc-screen-css" href="http://cdn.caughtoffside.com/wp-content/plugins/table-of-contents-plus/screen.css?ver=1404" type="text/css" media="all">
 <link rel="stylesheet" id="wpProQuiz_front_style-css" href="http://cdn.caughtoffside.com/wp-content/plugins/wp-pro-quiz/css/wpProQuiz_front.min.css?ver=0.34" type="text/css" media="all">
-<link rel="stylesheet" id="published-css" href="http://cdn.caughtoffside.com/wp-content/themes/cos-2-0/static/css/style.51.min.css?ver=4.5.2" type="text/css" media="all">
+<link rel="stylesheet" id="published-css" href="http://cdn.caughtoffside.com/wp-content/themes/cos-2-0/static/css/style.55.min.css?ver=4.5.2" type="text/css" media="all">
 <link rel="stylesheet" id="jetpack_css-css" href="http://cdn.caughtoffside.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.3" type="text/css" media="all">
 <!-- This site uses the Google Analytics by Yoast plugin v5.4.5 - Universal enabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
 <script type="text/javascript">
@@ -375,12 +343,7 @@ img.emoji {
 <link rel="alternate" type="application/json+oembed" href="http://www.caughtoffside.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.caughtoffside.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://www.caughtoffside.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.caughtoffside.com%2Fprivacy-policy%2F&amp;format=xml">
 			<meta property="fb:pages" content="86922614981">
-			
-<!--Plugin WP Missed Schedule 2013.1231.2013 Active - Tag 6707293c0218e2d8b7aa38d418ffa608-->
-
-<!-- This site is patched which an important unfixed problem since WordPress 2.5+ -->
-
-<style type="text/css">img#wpstats{display:none}</style>
+			<style type="text/css">img#wpstats{display:none}</style>
 <!-- Jetpack Open Graph Tags -->
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Policy &amp; Cookies">
@@ -412,17 +375,6 @@ window.cookieconsent_options = {
 </head>
 
 <body class="page page-id-115052 page-template-default group-blog">
-
-<div id="fb-root"></div>
-<script>
-(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.async = true;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
 
 <div class="off-canvas-wrap" data-offcanvas="">
   <div class="inner-wrap clearfix">
@@ -462,7 +414,7 @@ window.cookieconsent_options = {
 			</div>
           <ul class="addon-links right">
 
-<li><a href="https://itunes.apple.com/app/apple-store/id471867602?pt=627006&amp;ct=Interstitial%20-%20caughtoffside.com&amp;mt=8" target="_blank">iPhone App</a></li>
+<li><a href="https://itunes.apple.com/app/apple-store/id515902300?pt=627006&amp;ct=Interstitial%20-%20caughtoffside.com&amp;mt=8" target="_blank">iPhone App</a></li>
 <li><a href="http://itunes.apple.com/us/app/caught-offside-for-ipad/id532519014?mt=8" target="_blank">iPad App</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.caught.offsidetwo" target="_blank">Android App</a></li>
           </ul>
@@ -820,7 +772,7 @@ window.cookieconsent_options = {
 <!-- MENU ENDS -->
     <div class="extras">
         <ul class="ext-app">
-            <li><a href="https://itunes.apple.com/app/apple-store/id471867602?pt=627006&amp;ct=Interstitial%20-%20caughtoffside.com&amp;mt=8" target="_blank">iPhone App</a></li>
+            <li><a href="https://itunes.apple.com/app/apple-store/id515902300?pt=627006&amp;ct=Interstitial%20-%20caughtoffside.com&amp;mt=8" target="_blank">iPhone App</a></li>
 <li><a href="http://itunes.apple.com/us/app/caught-offside-for-ipad/id532519014?mt=8" target="_blank">iPad App</a></li>
 <li><a href="https://play.google.com/store/apps/details?id=com.caught.offsidetwo" target="_blank">Android App</a></li>
         </ul>
@@ -920,7 +872,12 @@ window.cookieconsent_options = {
 		<div class="large-3 medium-12 columns">
 				<div id="secondary" class="widget-area" role="complementary">
 	<aside id="archives-2" class="widget widget_archive"><h1 class="widget-title">Archives</h1>		<ul>
-			<li><a href="http://www.caughtoffside.com/2016/06/">June 2016</a></li>
+			<li><a href="http://www.caughtoffside.com/2016/11/">November 2016</a></li>
+	<li><a href="http://www.caughtoffside.com/2016/10/">October 2016</a></li>
+	<li><a href="http://www.caughtoffside.com/2016/09/">September 2016</a></li>
+	<li><a href="http://www.caughtoffside.com/2016/08/">August 2016</a></li>
+	<li><a href="http://www.caughtoffside.com/2016/07/">July 2016</a></li>
+	<li><a href="http://www.caughtoffside.com/2016/06/">June 2016</a></li>
 	<li><a href="http://www.caughtoffside.com/2016/05/">May 2016</a></li>
 	<li><a href="http://www.caughtoffside.com/2016/04/">April 2016</a></li>
 	<li><a href="http://www.caughtoffside.com/2016/03/">March 2016</a></li>
@@ -1061,11 +1018,6 @@ window.cookieconsent_options = {
 </div><!-- class="off-canvas-wrap" -->
 <a href="#" class="back-to-top">Back to Top</a>
 <div id="dfp-ros-fullscreen"></div>
-
-<!--Plugin WP Missed Schedule 2013.1231.2013 Active - Tag 6707293c0218e2d8b7aa38d418ffa608-->
-
-<!-- This site is patched which an important unfixed problem since WordPress 2.5+ -->
-
 	<div style="display:none">
 	</div>
   <script type="text/javascript">
@@ -1084,33 +1036,83 @@ var tocplus = {"visibility_show":"show","visibility_hide":"hide","width":"Auto"}
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://cdn.caughtoffside.com/wp-content/plugins/table-of-contents-plus/front.js?ver=1404"></script>
-<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201624"></script>
+<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201646"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var fanatix_params = {"news_posts_per_page":"10","featured_posts_per_page":"10","latest_posts_per_page":"10","col1_mode":"featured","col2_mode":"latest","col3_mode":"mostread","fanatixfeed_posts_per_page":"26","replayfeed_posts_per_page":"9","mostread_posts_per_page":"26","site_url":"http:\/\/www.caughtoffside.com","template_url":"http:\/\/www.caughtoffside.com\/wp-content\/themes\/cos-2-0","dfp_adunit_identifier":"CaughtOffside","replayfeed_url":"http:\/\/video.fanatix.com\/","fanatixfeed_api_fetch_direct":"1","fanatixfeed_api_path":"http:\/\/api.fanatix.com\/app-api\/1.5\/news\/all","fanatixfeed_api_news_config":"caughtoffside-news-web","fanatixfeed_api_app_id":"caughtoffside-news-web","fanatixfeed_api_app_version":"1.0","replayfeed_api_fetch_direct":"1","replayfeed_api_path":"http:\/\/api.fanatix.com\/app-api\/1.6\/news\/replay","replayfeed_api_app_id":"caughtoffside-news-web","replayfeed_api_app_version":"8.3","replayfeed_autoplay":"visible","replayfeed_api_order":"latest","replayfeed_attraction_id":"","display_slider_categories":"1","config_infinite_scroll_enabled":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://cdn.caughtoffside.com/wp-content/themes/cos-2-0/static/js/script.51.min.js"></script>
+<script type="text/javascript" src="http://cdn.caughtoffside.com/wp-content/themes/cos-2-0/static/js/script.55.min.js"></script>
 <script type="text/javascript" src="http://cdn.caughtoffside.com/wp-includes/js/wp-embed.min.js?ver=4.5.2"></script>
 
-	<script src="http://stats.wp.com/e-201624.js" type="text/javascript"></script>
+	<script src="http://stats.wp.com/e-201646.js" type="text/javascript"></script>
 	<script type="text/javascript">
 	st_go({v:'ext',j:'1:3.3',blog:'3497552',post:'115052',tz:'1'});
 	var load_cmc = function(){linktracker_init(3497552,115052,2);};
 	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
 	else load_cmc();
 	</script><script type="text/javascript">
-fanatix.cookie.test();
-
+//makes sure we don't log an imps if we're redirecting off to the interstitial as they won't have seen the page yet
 if(!fanatix.runtime.redirecting) {
 
+	if(fanatix.ads.dfp.enabled) {
+		fanatix.ads.dfp.init();
+
+		fanatix.lib.debug('DFP: Pushing initial on-page code on to googletag.cmd');
+		googletag.cmd.push(function() {
+			fanatix.lib.debug('DFP: Calling initial on-page pushed code');
+//this breaks responsive ads, so disabling for now
+//			googletag.pubads().collapseEmptyDivs();
+
+			googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+				fanatix.lib.debug('DFP: slotRenderEnded(\''+event.slot.D+'\', isEmpty='+(event.isEmpty?'true':'false')+') fired');
+				if(event.slot==fanatix.ads.dfp.slots['dfp-ros-res-header']) {
+					if(!event.isEmpty && (event.size[0]!=320 || event.size[1]!=50))
+						$('#dfp-ros-res-header').css({width:event.size[0], height:event.size[1]});
+				}
 
 
+			});//googletag.pubads().addEventListener('slotRenderEnded', function(event) {
 
-// Nativo advertising - tag added 25th March 2015
+			fanatix.lib.debug('DFP: Starting all the initial on-page defineSlot()s');
+			var ad_unit = '/1101651/Web-All-CaughtOffside-ROS-ResHeader';
+if(fanatix.ads.dfp.split_tests['dfp-ros-res-header'])
+	ad_unit = ad_unit.replace('{slot}', fanatix.ads.dfp.split_tests['dfp-ros-res-header'].slot);
+fanatix.lib.debug('DFP: googletag.defineSlot(dfp-ros-res-header, '+ad_unit+')');
+fanatix.ads.dfp.slots['dfp-ros-res-header'] = googletag.defineSlot(ad_unit, [320, 50], 'dfp-ros-res-header').
+	defineSizeMapping(googletag.sizeMapping().addSize([320, 400], [320, 50]).addSize([480, 200], [468, 60]).addSize([768, 200], [728, 90]).addSize([1000, 200], [[728, 90], [970, 250], [970, 66], [970, 90]]).build()).addService(googletag.pubads());
+
+var ad_unit = '/1101651/Web-All-CaughtOffside-ROS-FullScreen';
+if(fanatix.ads.dfp.split_tests['dfp-ros-fullscreen'])
+	ad_unit = ad_unit.replace('{slot}', fanatix.ads.dfp.split_tests['dfp-ros-fullscreen'].slot);
+fanatix.lib.debug('DFP: googletag.defineSlot(dfp-ros-fullscreen, '+ad_unit+')');
+fanatix.ads.dfp.slots['dfp-ros-fullscreen'] = googletag.defineSlot(ad_unit, [1, 1], 'dfp-ros-fullscreen').
+	addService(googletag.pubads());
+
+			fanatix.lib.debug('DFP: googletag.pubads().enableSingleRequest()');
+			googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+			fanatix.lib.debug('DFP: googletag.display(~initial trigger~)');
+//apparently googletag.display() *needs* a div id passed in to it or it won't do anything, so we need to force one even for the initial 'SingleRequest' request
+			googletag.display('dfp-ros-res-header');
+//note that now we've called this any subsequent .display() calls will just do themselves, so they're still needed for any dynamic slots
+
+			jQuery(document).ready(function($) {
+
+//this is a proxy for determining if we're on the "desktop" layout - this element has "show-for-large-up" on it so will only be :visible
+//at that breakpoint, regardless of what it is. So this'll still work if we change the CSS without needing modifying itself
+				$('#sidebar-mpu').remove();
+				$('#sidebar-halfpage').remove();
+			});//jQuery(document).ready(function($) {
+
+		});//googletag.cmd.push(function() {
+	}//if(fanatix.ads.dfp.enabled) {
+	else
+		fanatix.lib.debug('DFP: disabled');
 
 
-
+	fanatix.lib.debug('FB: fanatix.ads.fb.init() (also inits all the other fb widgets on the page)');
+	fanatix.ads.fb.init();//this also inits all the other fb widgets on the page, btw
 
 //twitter widgets
 	!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.async=true;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
