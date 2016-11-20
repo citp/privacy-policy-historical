@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apkreleases.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610002542id_/http%3A//www.apkreleases.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apkreleases.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120072012id_/http%3A//www.apkreleases.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - APK Releases
 
@@ -18,11 +18,11 @@ Like many other web sites, APK Releases makes use of log files. The information 
 
 This site itself, does not use any cookies to store information. Third party service providers however may store information on your computer. Refer to the following sections to understand what information is collected and how to opt out of the process.
 
-## \- DISQUS Comments
+## – DISQUS Comments
 
 APK Releases uses Disqus Comments system to collect and manage comments on the blog. Disqus, as a third party service provider uses cookies to maintain your Disqus profile. You may easily opt out of the process by not posting a comment on the site.
 
-## \- DoubleClick DART Cookie
+## – DoubleClick DART Cookie
 
   * Google, as a third party vendor, uses cookies to serve ads on APKReleases.com.
   * Google’s use of the DART cookie enables it to serve ads to users based on their visit to APKReleases.com and other sites on the Internet.
