@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commtouch.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408114550id_/http%3A//www.cyren.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commtouch.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120081423id_/http%3A//www.cyren.com/privacy.html) for the most accurate reproduction.*
 
 # CYREN - Privacy Policy
 
@@ -6,17 +6,8 @@ Effective date  May 26, 2014
 
 This Privacy Policy covers and describes how CYREN Ltd. (“CYREN”) collects, uses and disclosure of information we collect through our websites [www.CYREN.com](http://www.cyren.com/), [www.eleven.de](http://www.eleven.de/) and Web Security and Mail Security (“My Eleven”) platforms.  The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged CYREN.
 
-[](https://privacy.truste.com/privacy-seal/Cyren-Ltd-/validation?rid=fa525629-b54a-4c55-8d2a-a26002e8216c "TRUSTe European Safe Harbor certification")
+CYREN is a global corporation with operations in over eight countries, and has developed global data protection practices designed to assure your Personal information is appropriately protected.  Your Personal information may be transferred, accessed and stored globally as necessary for the uses stated in accordance with this policy.   By accessing our websites [www.CYREN.com](http://www.cyren.com/), [www.eleven.de](http://www.eleven.de/) or by using our Web Security and Email Security platforms, you consent to the transfer of information to countries outside of your country of residence, which may different data protection rules than those of your country.  
 
-CYREN has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
-
-The TRUSTe program covers our collection, use and disclosure of information we collect through our websites, www.cyren.com, www.eleven.de and our Web Security and Mail Security (“My Eleven’) platforms.
-
-## Cross Border Transfers and EU and Swiss Safe Harbor  
-
-CYREN is a global corporation with operations in over eight countries, and has developed global data protection practices designed to assure your Personal information is appropriately protected.  Your Personal information may be transferred, accessed and stored globally as necessary for the uses stated in accordance with this policy.   By accessing our websites [www.CYREN.com](http://www.cyren.com/), [www.eleven.de](http://www.eleven.de/) or by using our Web Security and Email Security platforms, you consent to the transfer of information to countries outside of your country of residence, which may different data protection rules than those of your country.
-
-CYREN complies with the U.S. – EU and Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the EU and Switzerland.  CYREN has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view CYREN’s certification, please visit <http://www.export.gov/safeharbor>.
 
 ## Changes to this Privacy Policy
 
@@ -115,7 +106,6 @@ CYREN will retain personal data we process on behalf of our Clients for as long 
 
 Should you have other questions or concerns about this privacy policy, please call us at +972-9-863-6888 or email us at [legal@cyren.com](mailto:info@cyren.com).  You may also contact us at:
 
-7925 Jones Branch Drive  
-Suite 5200  
-McLean, VA  22102  
+1430 Spring Hill Road, Suite 330  
+McLean, VA 22102  
 Attn:  Chief Privacy Officer
