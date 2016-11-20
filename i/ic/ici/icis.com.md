@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icis.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505203330id_/http%3A//www.icis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icis.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120204400id_/http%3A//www.icis.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy and cookies use for ICIS web sites and services
 
@@ -63,7 +63,7 @@ The following Category 1 Cookies are used by ICIS:
 
 _Login and Security_ | Login and security management cookies are used to authenticate and identify you as being logged in to our website.  
 ---|---  
-_Session Management_ | Session management cookies are used to recognise you as you move between pages of the site so we can provide a consistent user experience. They can be applied weather you are logged in or not but do not contain any information that can indentify you personally.  
+_Session Management_ | Session management cookies are used to recognise you as you move between pages of the site so we can provide a consistent user experience. They can be applied whether you are logged in or not but do not contain any information that can identify you personally.  
   
 **Category 2: Performance cookies**
 
