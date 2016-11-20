@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thelastlineofdefense.org privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527111829id_/http%3A//thelastlineofdefense.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelastlineofdefense.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120075305id_/http%3A//thelastlineofdefense.org/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | The Resistance
+# PRIVACY POLICY – The Resistance: The Last Line of Defense
 
 This Privacy Policy governs the manner in which _The Last Line Of Defense_ collects, uses, maintains and discloses information collected from users (each, a “User”) of the _The Last Line Of Defense.org_ website (“Site”). This privacy policy applies to the Site and all products and services offered by _The Last Line Of Defense_.
 
