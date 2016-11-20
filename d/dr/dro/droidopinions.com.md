@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the droidopinions.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525211755id_/http%3A//www.droidopinions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the droidopinions.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120055927id_/http%3A//www.droidopinions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DroidOpinions
+
+Hello to All, I Am **Faiq Ahmed** , the owner of this Blog. This is our Privacy Policy.
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [faiqahmed45@gmail.com](mailto:).
 
