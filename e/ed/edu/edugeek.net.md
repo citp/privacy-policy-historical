@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edugeek.net privacy policy that was archived on 2015-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151209191354id_/http%3A//edugeek.me/to/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edugeek.net privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120123249id_/http%3A//edugeek.me/to/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy of edugeek.net
 
@@ -10,7 +10,7 @@ webmaster@edugeek.net
 
 ## Types of Data collected
 
-Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookie, Usage data, First Name, Last Name, Email address, Date of Birth, Username, Password, Company name, Country, Picture and Geographic position. 
+Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookies, Usage data, first name, last name, email address, date of birth, username, password, company name, country, picture and geographic position. 
 
 Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection.  
 The Personal Data may be freely provided by the User, or collected automatically when using this Application.  
@@ -46,26 +46,26 @@ Personal Data is collected for the following purposes and using the following se
 
   * ### Advertising
 
-These services allow User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on this Application, possibly based on User interests.  
+This type of services allows User Data to be utilized for advertising communication purposes displayed in the form of banners and other advertisements on this Application, possibly based on User interests.  
 This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.  
 Some of the services listed below may use Cookies to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside this Application. For more information, please check the privacy policies of the relevant services.
 
 #### Google AdSense (Google Inc.)
 
 Google AdSense is an advertising service provided by Google Inc. This service uses the “Doubleclick” Cookie, which tracks use of this Application and User behavior concerning ads, products and services offered.  
-Users may decide to disable all the Doubleclick Cookies by clicking on: [google.com/settings/ads/onweb/optout](http://www.google.com/settings/ads/onweb/optout).
+Users may decide to disable all the Doubleclick Cookies by clicking on: [google.com/settings/ads/onweb/optout](https://www.google.com/settings/ads/onweb/optout).
 
-Personal Data collected: Cookie and Usage data. 
+Personal Data collected: Cookies and Usage data. 
 
-Place of processing: USA – [Privacy Policy](http://google.com/privacy/ads/) – [Opt Out](http://www.google.com/settings/ads/onweb/optout)
+Place of processing: US – [Privacy Policy](https://www.google.com/policies/technologies/ads/) – [Opt Out](https://www.google.com/settings/ads/onweb/optout)
 
 #### IDG TechNetwork (IDG TechNetwork, Inc.)
 
 IDG TechNetwork is an advertising service provided by IDG TechNetwork, Inc.
 
-Personal Data collected: Cookie and Usage data. 
+Personal Data collected: Cookies and Usage data. 
 
-Place of processing: USA – [Privacy Policy](http://idgtechnetwork.com/terms/)
+Place of processing: US – [Privacy Policy](http://idgtechnetwork.com/terms/)
 
   * ### Analytics
 
@@ -76,55 +76,55 @@ The services contained in this section enable the Owner to monitor and analyze w
 Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.  
 Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
 
-Personal Data collected: Cookie and Usage data. 
+Personal Data collected: Cookies and Usage data. 
 
-Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](http://tools.google.com/dlpage/gaoptout?hl=en)
+Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en)
 
 #### Woopra (Woopra)
 
 Woopra is an analytics service provided by Woopra Inc.
 
-Personal Data collected: Cookie and Usage data. 
+Personal Data collected: Cookies and Usage data. 
 
-Place of processing: USA – [Privacy Policy](http://www.woopra.com/privacy/)
+Place of processing: US – [Privacy Policy](https://www.woopra.com/privacy/)
 
 #### Google AdWords conversion tracking (Google Inc.)
 
 Google AdWords conversion tracking is an analytics service provided by Google Inc. that connects data from the Google AdWords advertising network with actions performed on this Application.
 
-Personal Data collected: Cookie and Usage data. 
+Personal Data collected: Cookies and Usage data. 
 
-Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
+Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/)
 
 #### Clicky (Roxr Software Ltd)
 
 Clicky is an analytics service provided by Roxr Software Ltd.
 
-Personal Data collected: Cookie and Usage data. 
+Personal Data collected: Cookies and Usage data. 
 
-Place of processing: USA – [Privacy Policy](http://www.getclicky.com/terms)
+Place of processing: US – [Privacy Policy](https://clicky.com/terms)
 
-#### User ID extension for Google Analytics (Google)
+#### User ID extension for Google Analytics (Google Inc.)
 
 Google Analytics on this Application makes use of a feature called User ID. This setup allows for a more accurate tracking of Users by associating that User with the same ID over various sessions and devices. It is set up in a way that doesn’t allow Google to personally identify an individual or permanently identify a particular device.  
 The User ID extension might make it possible to connect Data from Google Analytics with other Data about the User collected by this Application.  
 The opt-out link below will only opt you out for the device you are on, but not from tracking performed independently by the Owner. Contact the Owner via the email address provided in this privacy policy to object to the aforementioned tracking as well.
 
-Personal Data collected: Cookie. 
+Personal Data collected: Cookies. 
 
-Place of processing: USA – [Privacy Policy](http://www.google.com/intl/policies/privacy/) – [Opt Out](http://tools.google.com/dlpage/gaoptout)
+Place of processing: US – [Privacy Policy](https://www.google.com/intl/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout)
 
 #### Piwik (This Application)
 
 Piwik is an analytics software used by this Application to analyze data directly without the help of third parties.
 
-Personal Data collected: Cookie and Usage data. 
+Personal Data collected: Cookies and Usage data. 
 
 [Privacy Policy](http://piwik.org/privacy/)
 
   * ### Commercial affiliation
 
-These services allow this Application to display advertisements for third party products or services. Ads can be displayed either as advertising links or as banners using various kinds of graphics.  
+This type of services allows this Application to display advertisements for third party products or services. Ads can be displayed either as advertising links or as banners using various kinds of graphics.  
 Clicks on the icon or banner posted on the Application are tracked by the third-party services listed below, and are shared with this Application.  
 For details of which data are collected, please refer to the privacy policy of each service.
 
@@ -132,9 +132,9 @@ For details of which data are collected, please refer to the privacy policy of e
 
 Skimlinks is a commercial affiliation service provided by Skimbit Ltd.
 
-Personal Data collected: Cookie and Usage data. 
+Personal Data collected: Cookies and Usage data. 
 
-Place of processing: UK – [Privacy Policy](http://skimlinks.com/privacy-policy)
+Place of processing: UK – [Privacy Policy](https://skimlinks.com/privacy-policy)
 
   * ### Contacting the User
 
@@ -142,20 +142,20 @@ Place of processing: UK – [Privacy Policy](http://skimlinks.com/privacy-policy
 
 By filling in the contact form with their Data, the User authorizes this Application to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form’s header.
 
-Personal Data collected: Email address, First Name and Last Name. 
+Personal Data collected: email address, first name and last name. 
 
   * ### Displaying content from external platforms
 
-These services allow you to view content hosted on external platforms directly from the pages of this Application and interact with them.  
-If a service of this kind is installed, it may still collect web traffic data for the pages where the service is installed, even when users do not use it.
+This type of services allows you to view content hosted on external platforms directly from the pages of this Application and interact with them.  
+This type of service might still collect web traffic data for the pages where the service is installed, even when Users do not use it.
 
-#### Youtube video widget (Google)
+#### YouTube video widget (Google Inc.)
 
-Youtube is a video content visualization service provided by Google Inc. that allows this Application to incorporate content of this kind on its pages.
+YouTube is a video content visualization service provided by Google Inc. that allows this Application to incorporate content of this kind on its pages.
 
-Personal Data collected: Cookie and Usage data. 
+Personal Data collected: Cookies and Usage data. 
 
-Place of processing: USA – [Privacy Policy](http://www.google.it/intl/en/policies/privacy/)
+Place of processing: US – [Privacy Policy](http://www.google.it/intl/en/policies/privacy/)
 
   * ### Handling payments
 
@@ -166,77 +166,77 @@ Some of these services may also enable the sending of timed messages to the User
 
 PayPal is a payment service provided by PayPal Inc., which allows Users to make online payments using their PayPal credentials.
 
-Personal Data collected: Various types of Data as specified in the privacy policy of the service. 
+Personal Data collected: various types of Data as specified in the privacy policy of the service. 
 
 [Privacy Policy](https://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside)
 
   * ### Hosting and backend infrastructure
 
-These services have the purpose of hosting data and files that enable this Application to run and be distributed as well as to provide a ready-made infrastructure to run specific features or parts of this Application. Some of these services work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.
+This type of services has the purpose of hosting data and files that enable this Application to run and be distributed as well as to provide a ready-made infrastructure to run specific features or parts of this Application. Some of these services work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.
 
 #### Amazon Web Services (Amazon)
 
 Amazon Web Services is a hosting service provided by Amazon.com Inc.
 
-Personal Data collected: Various types of Data as specified in the privacy policy of the service. 
+Personal Data collected: various types of Data as specified in the privacy policy of the service. 
 
-[Privacy Policy](http://www.amazon.com/gp/help/customer/display.html?nodeId=468496)
+[Privacy Policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496)
 
   * ### Infrastructure monitoring
 
-These services allow this Application to monitor the use and behavior of its components so its performance, operation, maintenance and troubleshooting can be improved.  
+This type of services allows this Application to monitor the use and behavior of its components so its performance, operation, maintenance and troubleshooting can be improved.  
 Which Personal Data are processed depends on the characteristics and mode of implementation of these services, whose function is to filter the activities of this Application.
 
 #### Logentries (RevelOps, Inc.)
 
 Logentries is a monitoring service provided by RevelOps, Inc.
 
-Personal Data collected: Usage data and Various types of Data as specified in the privacy policy of the service. 
+Personal Data collected: Usage data and various types of Data as specified in the privacy policy of the service. 
 
-Place of processing: USA – [Privacy Policy](https://logentries.com/privacy/)
+Place of processing: US – [Privacy Policy](https://logentries.com/privacy/)
 
   * ### Interaction with external social networks and platforms
 
-These services allow interaction with social networks or other external platforms directly from the pages of this Application.  
-The interaction and information obtained by this Application are always subject to the User’s privacy settings for each social network.  
-If a service enabling interaction with social networks is installed it may still collect traffic data for the pages where the service is installed, even when Users do not use it.
+This type of services allow interaction with social networks or other external platforms directly from the pages of this Application.  
+The interaction and information obtained through this Application are always subject to the User’s privacy settings for each social network.  
+This type of service might still collect traffic data for the pages where the service is installed, even when Users do not use it.
 
 #### Facebook Like button and social widgets (Facebook, Inc.)
 
 The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook, Inc.
 
-Personal Data collected: Cookie and Usage data. 
+Personal Data collected: Cookies and Usage data. 
 
-Place of processing: USA – [Privacy Policy](http://www.facebook.com/privacy/explanation.php)
+Place of processing: US – [Privacy Policy](https://www.facebook.com/privacy/explanation)
 
-#### Google+ +1 button and social widgets (Google)
+#### Google+ +1 button and social widgets (Google Inc.)
 
 The Google+ +1 button and social widgets are services allowing interaction with the Google+ social network provided by Google Inc.
 
-Personal Data collected: Cookie and Usage data. 
+Personal Data collected: Cookies and Usage data. 
 
-Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
+Place of processing: US – [Privacy Policy](https://www.google.com/intl/policies/privacy/)
 
 #### Twitter Tweet button and social widgets (Twitter)
 
 The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter Inc.
 
-Personal Data collected: Cookie and Usage data. 
+Personal Data collected: Cookies and Usage data. 
 
-Place of processing: USA – [Privacy Policy](http://twitter.com/privacy)
+Place of processing: US – [Privacy Policy](https://twitter.com/privacy)
 
   * ### Interaction with online survey platforms
 
-These services allow Users to interact with third party online survey platforms directly from the pages of this Application.  
+This type of services allows Users to interact with third party online survey platforms directly from the pages of this Application.  
 If one of these services is installed, it may collect browsing and Usage Data in the pages where it is installed, even if the Users do not actively use the service.
 
 #### Polldaddy Widget (Polldaddy Ltd.)
 
 The Polldaddy Widget is a service for interacting with the Polldaddy online survey platform provided by Polldaddy Ltd.
 
-Personal Data collected: Cookie and Usage data. 
+Personal Data collected: Cookies and Usage data. 
 
-Place of processing: Ireland – [Privacy Policy](http://polldaddy.com/privacy/)
+Place of processing: Ireland – [Privacy Policy](https://polldaddy.com/privacy/)
 
   * ### Location-based interactions
 
@@ -245,53 +245,52 @@ Place of processing: Ireland – [Privacy Policy](http://polldaddy.com/privacy/)
 This Application may collect, use, and share User location Data in order to provide location-based services.  
 Most browsers and devices provide tools to opt out from this feature by default. If explicit authorization has been provided, the User’s location data may be tracked by this Application.
 
-Personal Data collected: Geographic position. 
+Personal Data collected: geographic position. 
 
   * ### Managing contacts and sending messages
 
-These services make it possible to manage a database of email contacts, phone contacts or any other contact information to communicate with the User.  
+This type of services makes it possible to manage a database of email contacts, phone contacts or any other contact information to communicate with the User.  
 These services may also collect data concerning the date and time when the message was viewed by the User, as well as when the User interacted with it, such as by clicking on links included in the message.
 
 #### Mandrill (The Rocket Science Group, LLC.)
 
 Mandrill is an email address management and message sending service provided by The Rocket Science Group, LLC.
 
-Personal Data collected: Email address and Usage data. 
+Personal Data collected: email address and Usage data. 
 
-Place of processing: USA – [Privacy Policy](http://mandrill.com/privacy/)
+Place of processing: US – [Privacy Policy](https://mandrill.com/privacy/)
 
   * ### Registration and authentication
 
 By registering or authenticating, Users allow this Application to identify them and give them access to dedicated services.  
-Depending on what is described below, third parties may provide registration and authentication services.  
-In this case, this Application will be able to access some Data, stored by these third party services, for registration or identification purposes.
+Depending on what is described below, third parties may provide registration and authentication services. In this case, this Application will be able to access some Data, stored by these third party services, for registration or identification purposes.
 
 #### Direct registration (This Application)
 
 The User registers by filling out the registration form and providing the Personal Data directly to this Application.
 
-Personal Data collected: Company name, Country, Date of Birth, Email address, Password, Picture and Username. 
+Personal Data collected: company name, country, date of birth, email address, password, picture and username. 
 
   * ### Remarketing and Behavioral Targeting
 
-These services allow this Application and its partners to inform, optimize and serve advertising based on past use of this Application by the User.  
+This type of services allows this Application and its partners to inform, optimize and serve advertising based on past use of this Application by the User.  
 This activity is performed by tracking Usage Data and by using Cookies, information that is transferred to the partners that manage the remarketing and behavioral targeting activity.
 
 #### DoubleClick for Publishers Audience Extension (Google Inc.)
 
 DoubleClick for Publishers Audience Extension is a Remarketing and Behavioral Targeting service provided by Google Inc. that tracks the visitors of this Application and allows selected advertising partners to display targeted ads across the web to them.
 
-Personal Data collected: Cookie and Usage data. 
+Personal Data collected: Cookies and Usage data. 
 
-Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://www.google.com/settings/ads/onweb#display_optout)
+Place of processing: US – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://www.google.com/settings/ads/onweb#display_optout)
 
-#### Remarketing through Google Analytics for Display Advertising (Google)
+#### Remarketing through Google Analytics for Display Advertising (Google Inc.)
 
 Google Analytics for Display Advertising is a Remarketing and Behavioral Targeting service provided by Google Inc. that connects the tracking activity performed by Google Analytics and its Cookies with the Adwords advertising network and the Doubleclick Cookie.
 
-Personal Data collected: Cookie and Usage data. 
+Personal Data collected: Cookies and Usage data. 
 
-Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](http://www.google.com/settings/ads/onweb/optout)
+Place of processing: US – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://www.google.com/settings/ads/onweb/optout)
 
 
 
@@ -301,6 +300,23 @@ Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/poli
   * ### CDNGeek.net
 
 This is owned by EduGeek and is used to serve static resources (essential for the site) and host our own ad banners. 
+
+  * ### EduGeek.net System Cookies
+
+These cookies are used to ensure logins work as well as set various preferences and system functions. They are essential to the functioning of EduGeek:
+
+bb_lastvisit  
+bb_lastactivity  
+bb_sessionhash  
+bb_userid  
+bb_password  
+bb_skipmobilestyle  
+editor_height  
+edugeek_v5_1_mw__session  
+IDstack  
+vbseo_loggedin  
+eg_country  
+cookieconsent_dismissed 
 
 
 
@@ -320,9 +336,9 @@ The User declares to be aware that the Data Controller may be required to reveal
 
 In addition to the information contained in this privacy policy, this Application may provide the User with additional and contextual information concerning particular services or the collection and processing of Personal Data upon request. 
 
-### System Logs and Maintenance
+### System logs and maintenance
 
-For operation and maintenance purposes, this Application and any third party services may collect files that record interaction with this Application (System Logs) or use for this purpose other Personal Data (such as IP Address). 
+For operation and maintenance purposes, this Application and any third party services may collect files that record interaction with this Application (System logs) or use for this purpose other Personal Data (such as IP Address). 
 
 ### Information not contained in this policy
 
@@ -337,7 +353,7 @@ To determine whether any of the third party services it uses honor the “Do Not
 
 ### Changes to this privacy policy
 
-The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request that the Data Controller removes the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users. 
+The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request that the Data Controller remove the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users. 
 
 ### Information about this privacy policy
 
@@ -373,7 +389,7 @@ The natural person, legal person, public administration or any other body, assoc
 
 The hardware or software tool by which the Personal Data of the User is collected.
 
-#### Cookie
+#### Cookies
 
 Small piece of data stored in the User's device.
 
