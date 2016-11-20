@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freeflysystems.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503065433id_/http%3A//freeflysystems.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeflysystems.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120030131id_/http%3A//freeflysystems.com/privacy-policy) for the most accurate reproduction.*
 
-# Freefly Systems Privacy Policy
+# Privacy Policy - Freefly Systems
 
 By using the Freefly Systems (“Freefly”) website (freeflysystems.com) and/or any of Freefly’s online or mobile products or services, Freefly hardware or software, or other services (“Services”), including when you access the Services through mobile devices, you agree to Freefly’s Privacy Policy and that we may transfer and store your information in the United States.  Any personal information that you provide to Freefly is used for the purpose of receiving Freefly communications and for personalizing and enhancing your web experience with Freefly.  Freefly’s Privacy Policy is outlined below and tells you how we collect personal information, what information we collect, how we use it, how we share it, and how you can access, change and remove your information.
 
@@ -61,7 +61,7 @@ We use other third party service providers to offer or facilitate services on ou
 
 **Facebook Custom Audience Ads**
 
-We may display interest-based ads to you when you are using Facebook through Facebook’s Custom Audience Tool. The Custom Audience Tool allows us to personalize our ads based on your shopping experience with us. We do not share any of your personal information or your shopping history with Facebook. This tool allows us to convert your email address to a unique number that Facebook uses to match to unique numbers that Facebook generates from email addresses of its users. You may opt-out of Facebook Custom Audience ads from Freefly by emailing [marketing@freeflysystems.com](mailto:marketing@freeflysystems.com?subject=Facebook%20Custom%20Audience%20Ads%20Opt-Out) with this request.
+We may display interest-based ads to you when you are using Facebook through Facebook’s Custom Audience Tool. The Custom Audience Tool allows us to personalize our ads based on your shopping experience with us. We do not share any of your personal information or your shopping history with Facebook. This tool allows us to convert your email address to a unique number that Facebook uses to match to unique numbers that Facebook generates from email addresses of its users. You may opt-out of Facebook Custom Audience ads from Freefly by emailing [marketing@freeflysystems.com](https://web.archive.org/cdn-cgi/l/email-protection#442925362f21302d2a23042236212122283d373d37302129376a272b297b3731262e2127307902252721262b2b2f64073137302b29640531202d212a272164052037X%20Opt-Out) with this request.
 
 **Customer Testimonials**
 
@@ -107,7 +107,7 @@ Official contest rules for the MōVI M5 + MIMIC giveaway are available at this 
 
 **OPT OUT / UNSUBSCRIBE**
 
-If you no longer wish to receive our newsletter and other communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [support@freeflysystems.com](mailto:support@freeflysystems.com).  If you want to opt-out from receiving communications from any this party that is not our agent or service provider, please contact that third party directly.
+If you no longer wish to receive our newsletter and other communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [support@freeflysystems.com](https://web.archive.org/cdn-cgi/l/email-protection#e794929797889593a781958282818b9e949e9493828a94c984888a).  If you want to opt-out from receiving communications from any third party that is not our agent or service provider, please contact that third party directly.
 
 **FREEFLY CONTACT INFORMATION**
 
