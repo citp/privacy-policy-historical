@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spankwirelive.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622072743id_/http%3A//www.spankwirelive.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spankwirelive.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120135014id_/http%3A//www.spankwirelive.com/privacy.html%3F) for the most accurate reproduction.*
 
 # SpankWireLive - Privacy Policy
 
