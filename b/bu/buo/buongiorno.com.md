@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buongiorno.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324055844id_/http%3A//buongiorno.com/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buongiorno.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120015339id_/http%3A//www.buongiorno.com/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & COOKIE Policy | Buongiorno SpA
 
