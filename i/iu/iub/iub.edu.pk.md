@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iub.edu.pk privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405021744id_/http%3A//www.iub.edu.pk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iub.edu.pk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120183341id_/http%3A//www.iub.edu.pk/privacy.php) for the most accurate reproduction.*
 
 # The Islamia University of Bahawalpur Pakistan
 
