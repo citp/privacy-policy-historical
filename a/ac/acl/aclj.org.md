@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aclj.org privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624202609id_/http%3A//aclj.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aclj.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120100608id_/http%3A//aclj.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | American Center for Law and Justice
 
@@ -16,14 +16,7 @@ The ACLJ Web Site collects your information in order to record and support your 
 
 #### Use of Personal Information
 
-The ACLJ Web Site recognizes and appreciates the importance of responsible use of information collected on this site. For this reason, the ACLJ reserves the option of contacting you at least one time about important issues in which the ACLJ is involved. At that time, and with each subsequent email, the ACLJ will provide you with the opportunity to "opt out" using our automated system. If you choose this option, you will receive no further email from the ACLJ. On occasion, the ACLJ Web Site may selectively provide certain information to other companies or organizations that have products or services that we think may be of interest to you. If you do not wish to receive email regarding third party products or services, please "opt out" by contacting us with your name, address + zip and phone number at the address below: 
-
-> ACLJ -"Third Party Opt Out"   
->  P.O.Box 90555   
->  Washington, DC 20090-0555   
-> 
-
-Please include your full name, address, zip and phone number when corresponding with us.
+The ACLJ Web Site recognizes and appreciates the importance of responsible use of information collected on this site. For this reason, the ACLJ reserves the option of contacting you at least one time about important issues in which the ACLJ is involved. At that time, and with each subsequent email, the ACLJ will provide you with the opportunity to "opt out" using our automated system. If you choose this option, you will receive no further email from the ACLJ. 
 
 #### Protection of Your Personal Information
 
