@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the hiphopwired.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608011922id_/http%3A//hiphopwired.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiphopwired.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120071415id_/http%3A//hiphopwired.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hip-Hop Wired
 
 Revised as of May 27, 2015
 
-**1\. INTRODUCTION**
+ **1\. INTRODUCTION**
 
-**_Purpose_**. The purpose of this Privacy Policy (“ **Policy** ”) is to describe how Moguldom Media Group LLC (“ **Company** ,” “ **we** ,” and “ **us** ”) collects, shares and protects your personal information. We collect certain personal information through our websites, which as of the revision date noted above, are located at bossip.com, madamenoire.com, mommynoire.com, styleblazer.com, hiphopwired.com, afkinsider.com, afktravel.com and moguldomstudios.com and including any associated mobile web sites and mobile applications (collectively, the “Sites”). **PLEASE READ THIS POLICY CAREFULLY**. If you do not understand any aspects of this Policy or have any questions related to this Policy, please feel free to [contact us on-line](http://moguldom.com/privacycontact/), or by mail to the address set forth at the end of this Policy.
+ ** _Purpose_**. The purpose of this Privacy Policy (“ **Policy** ”) is to describe how Moguldom Media Group LLC (“ **Company** ,” “ **we** ,” and “ **us** ”) collects, shares and protects your personal information. We collect certain personal information through our websites, which as of the revision date noted above, are located at bossip.com, madamenoire.com, mommynoire.com, styleblazer.com, hiphopwired.com, afkinsider.com, afktravel.com and moguldomstudios.com and including any associated mobile web sites and mobile applications (collectively, the “Sites”). **PLEASE READ THIS POLICY CAREFULLY**. If you do not understand any aspects of this Policy or have any questions related to this Policy, please feel free to [contact us on-line](http://moguldom.com/privacycontact/), or by mail to the address set forth at the end of this Policy.
 
 This Policy explains:
 
@@ -24,11 +24,11 @@ F. Changes to Our Privacy Policy
 
 G. Questions and How to Contact Us
 
-**_Notice With Regard To Third-Party Sites_**. This Policy applies only to information that we collect through our Sites. It is important that you understand that our Sites contain links to third-party sites that are not owned, operated or controlled in any way by us. Please be aware that we cannot be, and are not responsible for the privacy practices of websites that are not owned, operated or controlled by us, even if our Sites contain links through which you may choose to visit such websites. Be aware that when you choose to leave our Sites to visit any website not owned or operated by us, you should always read the privacy policy of that website, since the privacy policies of that website that would govern how its owners collect and use your personal information.
+ ** _Notice With Regard To Third-Party Sites_**. This Policy applies only to information that we collect through our Sites. It is important that you understand that our Sites contain links to third-party sites that are not owned, operated or controlled in any way by us. Please be aware that we cannot be, and are not responsible for the privacy practices of websites that are not owned, operated or controlled by us, even if our Sites contain links through which you may choose to visit such websites. Be aware that when you choose to leave our Sites to visit any website not owned or operated by us, you should always read the privacy policy of that website, since the privacy policies of that website that would govern how its owners collect and use your personal information.
 
-**_Read Our Terms of Use_**. Your use of our Sites is also subject to our ‘Terms of Use,’ which describe other terms and conditions to which you are deemed to agree by your act of using our Sites. Please read our Terms of Use carefully and [contact us on-line](http://moguldom.com/privacycontact/) or by post as described below if you have any questions or concerns or feel that you do not fully understand any part of our Terms of Use. **IF YOU DO NOT AGREE WITH ANY PART OF THIS POLICY OR OUR TERMS OF USE, YOUR ONLY OPTION IS NOT TO USE OUR SITES**. By accessing and continuing to use our Sites, you agree to this Policy and the Terms of Use.  
+ ** _Read Our Terms of Use_**. Your use of our Sites is also subject to our ‘Terms of Use,’ which describe other terms and conditions to which you are deemed to agree by your act of using our Sites. Please read our Terms of Use carefully and [contact us on-line](http://moguldom.com/privacycontact/) or by post as described below if you have any questions or concerns or feel that you do not fully understand any part of our Terms of Use. **IF YOU DO NOT AGREE WITH ANY PART OF THIS POLICY OR OUR TERMS OF USE, YOUR ONLY OPTION IS NOT TO USE OUR SITES**. By accessing and continuing to use our Sites, you agree to this Policy and the Terms of Use.  
   
-**2\. INFORMATION WE COLLECT AND WHY WE COLLECT IT**
+ **2\. INFORMATION WE COLLECT AND WHY WE COLLECT IT**
 
 A. Personally Identifiable Information That You Provide To Us. You may provide certain information to us on our Sites through various actions you might take, including:
 
@@ -93,7 +93,7 @@ H. Passive Browser Information **.** We collect passive browser information thro
 I. Scripts.  A script is a short segment of computer code included in a web page or other content that can be used to set and access a cookie on your computer’s hard drive and to record your activity on a website. Moguldom may use scripts on our Sites, on third-party websites, or in our emails and newsletters
 
   
-**3\. HOW WE USE AND SHARE YOUR INFORMATION**
+ **3\. HOW WE USE AND SHARE YOUR INFORMATION**
 
 A. To Provide Products, Services, and Information (Personally Identifiable Information). We use the information that we collect about you or that you provide to us, including any personal information, (i) so that we can present our Sites and their contents to you, (ii) to provide you with information, products and services that you request from us, (iii) to allow you to participate in interactive or social features on our Sites, (iv) to fulfill any other purpose for which you provide information to us, (v) in any other way we may describe when you provide such information to us, and (vi) for any other purpose with your consent.
 
@@ -131,26 +131,26 @@ E. Legal Requests or Requirements and to Prevent Harm. We will share personal in
 
 F. Transfer in the Event of Sale or Change of Control. If the ownership of all or substantially all of our business changes or we otherwise transfer assets relating to our business or the Sites to a third party, such as by merger, acquisition, bankruptcy proceeding or otherwise, we may transfer or sell your personal information to the new owner. In such a case, unless permitted otherwise by applicable law, your information would remain subject to the promises made in this Policy (as amended) unless you agree differently.  
   
-**4\. ACCESS TO YOUR INFORMATION AND CHOICES**
+ **4\. ACCESS TO YOUR INFORMATION AND CHOICES**
 
 You can contact us through our [contact us page](http://moguldom.com/privacycontact/) to obtain information about the personal information we have relating to you. If you have questions about personal information we have about you or need to update your information, you can contact us through our [contact us page](http://moguldom.com/privacycontact/). You can opt-out of receiving marketing and promotional e-mails from Company by using the opt-out or unsubscribe feature contained in those e-mails.  
   
-**5\. SECURITY OF YOUR INFORMATION**
+ **5\. SECURITY OF YOUR INFORMATION**
 
 We use commercially reasonable measures to maintain the privacy and security of your personal information. However, since the Internet is not a 100% secure environment, we cannot guarantee, ensure, or warrant the security of any information you transmit to us. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. It is your responsibility to protect the security of your login information, if any. Please note that e-mails and other communications you send to us through our Sites are not encrypted, and we strongly advise you not to communicate any confidential information through these means.  
   
-**6\. CALIFORNIA PRIVACY RIGHTS**
+ **6\. CALIFORNIA PRIVACY RIGHTS**
 
 Under California’s “Shine the Light” law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once per calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2015 will receive information regarding 2014 sharing activities).
 
 To obtain this information, please send an email message to [privacy@moguldom.com](mailto:privacy@moguldom.com) with “Request for California Privacy Information” on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response. Please be aware that not all information sharing is covered by the “Shine the Light” requirements and only information on covered sharing will be included in our response.  
   
-**7\. CHANGES TO OUR PRIVACY POLICY**
+ **7\. CHANGES TO OUR PRIVACY POLICY**
 
 Moguldom may modify or update this Policy at its sole discretion from time to time, and so you should review this Policy periodically. When we change the Policy in a material way, we will notify you by means of a notice on our Sites prior to the change becoming effective. Changes to this Policy are effective when they are posted on this page. Your continued access to our Sites after the Policy has been modified and posted will signify your acceptance of all such modifications.  
 The date this Policy was last revised is identified at the top of this page. You are responsible for ensuring that we have an active, up-to-date email address for you and for periodically visiting this Policy to check for any changes.  
   
-**8\. QUESTIONS AND HOW CONTACT US**
+ **8\. QUESTIONS AND HOW CONTACT US**
 
 If you have any questions, concerns, complaints or suggestions regarding this Policy or otherwise need to contact us, please [contact us on-line](http://moguldom.com/privacycontact/). You may also contact us by post at the following address:
 
