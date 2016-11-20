@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehomemadehumour.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609080634id_/https%3A//thehomemadehumour.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehomemadehumour.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120055351id_/http%3A//thehomemadehumour.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies – The Homemade Humour
 
@@ -65,11 +65,7 @@ We along with third-party vendors, such as Google use first-party cookies (such 
 Opting out:  
 Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
 
-**California Online Privacy Protection Act**
-
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
-
-**According to CalOPPA we agree to the following:**
+**We agree to the following:**
 
 Users can visit our site anonymously
 
