@@ -1,61 +1,105 @@
-> *The following text is extracted and transformed from the twonky.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322191633id_/http%3A//www.pv.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twonky.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120045927id_/http%3A//twonky.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Statement | PacketVideo
+# Twonky
 
-This Privacy Policy outlines our information gathering and usage practices for www.pv.com and other web-sites hosted by PacketVideo Corporation and its affiliated companies ("PacketVideo"). Its purpose is to notify you of what personally identifiable information of yours ("User Information") is collected; how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; what kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control; and how you can correct any inaccuracies in the information. Any updates to this Privacy Policy will be announced on this web site. PacketVideo does not rent, sell or lease User Information we have collected through our web site. However, we may share User Information, collected through our web site, with other third parties after giving you the opportunity to opt out prior to any information being exchanged. Local country laws are applied where they differ from this policy. We are firmly committed to guarding the confidence you have placed in our company and to use, responsibly and professionally, any information you volunteer. We strive to collect only that information that we think is necessary for our legitimate business interests, such as to better understand you (our customer), to provide better service, to improve marketing of our products, to educate customers and to ensure that our proprietary information is protected. We are committed to using the information collected only for these purposes and those outlined below. Links to third party web sites, from this web site, are provided solely as a convenience for you. If you use these links, you will leave our site. We have not reviewed, nor do we monitor, these third party sites and we do not control, nor are we responsible for, any of these sites, their content or their privacy policy (if any). This policy discloses our information gathering and usage practices for www.pv.com.
+## Privacy Policy
 
-**Contents:**  
-1: Product Registration & Online Support  
-2: Sweepstakes, Contests & Promotions  
-3: Online Surveys  
-4: Email Newsletters  
-5: Discussion Lists  
-6: Opt-In/Unsubscribing  
-7: Correcting or Updating Your Personal Info  
-8: Information We Automatically Collect  
-9: Privacy & Children  
-10: Security  
-11: Contact Us
+**Effective: September 1, 2016**
 
-  
-**Product Registration & Online Support:** In order to improve our problem resolution process through better product and case tracking, PacketVideo's tech support department has implemented online product registration and technical support service. We require contact information and product serial number, license authorization code or other product-identifying information to identify your product. This information is used to manage your case, notify you when necessary of issues related to your product and, together with your voluntary responses to our marketing survey, it is used to analyze our customer base in aggregate. If you request, we may send you emails to give you information we think you will find useful, such as information about new features, products or promotions. When we email you, we will always provide instructions explaining how to unsubscribe so you will not receive our emails in the future.
+ We take your privacy very seriously and know you care deeply about how your personal information is used and shared.  This document describes our privacy policy (“Privacy Policy”), which is applicable to information collected by Lynx products, services and websites (collectively and individually, the “Products”).  The Products are operated by J.M. Driver, LLC, a California Limited Liability Company, dba Lynx Technology, (“Lynx” “we”, “our”, “us”).  It is designed to inform you about the types of information we may gather or collect from you in connection with the Products.  It also explains the conditions under which we use and disclose such information, and your rights in relation to that information. 
 
-**Contests & Promotions:** PacketVideo may occasionally sponsor sweepstakes, contests and promotions. If you request, we may use contact data from our promotions to send you information we think you will find useful, such as information about new products or promotions. When we email you, we will always provide instructions explaining how to unsubscribe, so you will not receive our emails in the future.
+By accepting the Lynx Terms of Use, you also agree to comply with and be bound by this Privacy Policy.  We may choose to update this Privacy Policy at any time by announcing it on our Company website. We encourage You to review this Privacy Policy periodically, as Your continued use of the Products will mean You accept those changes, whether You have read them or not.
 
-**Online Surveys:** Our online surveys ask visitors for contact information (like email address). This may be used to contact you if additional follow-up is appropriate, but will not be used for future marketing purposes, unless you so request and such use is explicitly stated.
+Please note that this Privacy Policy is a legally binding agreement made between You ("you," "your," or "yourself") and Lynx.
 
-**Email Newsletters:** PacketVideo may distribute various product-or topic-specific newsletters, which you may receive at your request. We require first name and last name, so that we may personalize your greeting, email address and in some cases your country, as not all offers are valid in all countries. Typically all other contact information is voluntary and, if you request, may be used to send other information or offers via mail. We do not share your information with third parties, except as required to deliver our message. Whenever we send a newsletter we will provide a method to subscribe and/or unsubscribe.
+**Information We Collect:**
 
-**Discussion List:** PacketVideo may host discussion lists or other moderated forums for users of PacketVideo software where users can help each other with technical and general questions. Topics for discussion include technical support questions and problems, sales information, suggestions for improvement, or anything else that relates to PacketVideo products or services. Please remember that any information that is disclosed in this area becomes public information and you should exercise caution when deciding to disclose your personal information.
+We may collect information from you at various places on the Products, including various APIs that connect with a variety of third party websites and services.  Depending on the information and/or services you request, We may collect (a) "personally identifiable information" (i.e. information that could be used to contact You directly, such as your name and email address); (b) “geo-locational data” (i.e. information that can be used to identify Your physical location); (c) “meta-data” (i.e. information which describes how, when and by whom a particular set of data was collected, and how the data is formatted; and (d) “log file information” (i.e. information which is automatically reported by your browser each time you make a request to visit a web page such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, domains, your specific media players and devices, data on such devices, number of clicks and how you interact with links on the Service, pages viewed, and other similar information).  Collectively, this information is called “Your Information”.
 
-**Opt-In/Unsubscribing:** PacketVideo will not send you any marketing communications unless you request PacketVideo to do so. We provide users the opportunity to opt-in to receive communications from us and/or our partners at the point where we request your information. Additionally, you may use one of the following options to request removal of your information from our databases. Please include the exact contact information you'd like removed and some detail about the type of communication you received from us.  
-You can send email to: webmaster@pv.com
+You may, of course, elect not to submit the foregoing information by simply discontinuing your use of the Product and cancelling any Lynx managed user accounts.  Please contact us help@lynxtechnology.com if you have any questions. 
 
-You can send mail to the following postal address:  
-PacketVideo Corporation  
-Attn: Internet Marketing  
-10350 Science Center Drive, San Diego, CA 92121  
-*Please note that PacketVideo reserves the right to preserve certain information collected when its software is downloaded from our web site in order to protect PacketVideo's proprietary rights to the software.
+**Material You Choose to Reveal:**
 
-**Correcting or Updating your Personal Info:** To change or modify information previously provided, we recommend that you reply or contact that list source directly. If no instructions were provided for updating your contact information, you can submit a request containing your old contact information and your new contact information.
+You may post information, including personally identifiable information, on areas of the Products that may be viewed by other users or the public, although We recommend that You do not do so.  We urge You to use good judgment. Do not post any information, including without limitation, personally identifiable information, that You do not want other users to know.  Many internet connections are public and/or not secure, and other users using that same connection may have access to Your information; please make sure that You are using a secure internet connection.
 
-You can send email to: webmaster@pv.com  
-You can send mail to the following postal address:  
-PacketVideo Corporation  
-Attn: Internet Marketing  
-10350 Science Center Drive, San Diego, CA 92121
+YOU ASSUME ALL RESPONSIBILITY FOR ANY LOSS OF PRIVACY OR OTHER HARM RESULTING FROM YOUR VOLUNTARY DISCLOSURE OF PERSONAL INFORMATION. **  **
 
-**Information We Automatically Collect:** For each web visitor, we record date and time of visit, IP address and browser type to analyze how visitors use our site and to gather broad demographic information like country of origin and browser usage among our visitors. This information will not be matched against your personal information as supplied through all the means disclosed above. We may use cookies to track session information and site usage patterns. We are also reviewing the use of monitoring software to prevent the illegal downloads of our proprietary software from embargoed nations as specified in the Export Compliance Requirements set by the United States Federal Government. Updates to our Privacy Policy will be announced on our Web site.
+**Cookies:   **
 
-**Privacy and Children:** PacketVideo and the PacketVideo web sites do not target children (defined as those persons under 13 years of age) as an audience or a market, and PacketVideo does not collect information about the age of its web site users. PacketVideo intends to comply with the U.S. Children's Online Privacy Protection Act of 1998. If we learn that we have inadvertently collected personal information from a child we will make all reasonable efforts to delete that data from our records.
+In addition to the information gathered as described above, we may use cookies which are necessary to enable your use of our Products and/or other services you requested. These cookies will be deleted from your computer once no longer necessary for such purposes. If you have given your consent, we may further use cookies to track the pages that you visit each time you use the Products, so that we can better serve you when you return to the Products.  We may also use cookies to help advertisers and publishers serve and manage ads provided on and through the Products.  A cookie is a string of information that a website stores on your computer, and that your browser provides to the Products each time you submit a query through the Products. 
 
-**Security:** To protect the loss, misuse and alteration of the information under our control, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. PacketVideo strives to protect the privacy of the information you provide, and inadvertent disclosure of that information is extremely unlikely. In the event of such an inadvertent disclosure, PacketVideo will do everything commercially reasonable to limit and remedy the disclosure, but PacketVideo accepts no liability for any unintentional disclosure. In addition, in the unlikely event that any government or private individual seeks information, PacketVideo will not voluntarily provide the information, but will obey any court order requiring disclosure.
+IF YOU DO NOT WISH TO HAVE COOKIES PLACED ON YOUR COMPUTER, YOU SHOULD SET YOUR BROWSER TO REFUSE COOKIES BEFORE ACCESSING THE PRODUCTS WITH THE UNDERSTANDING THAT DISABLING COOKIES MAY MAKE IT MORE BURDENSOME OR EVEN PREVENT YOU FROM TAKING ADVANTAGE OF CERTAIN FEATURES ON THE PRODUCTS. 
 
-**Contact Us:** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+Because cookies allow you to take advantage of some of the Products’ essential features, we recommend that you leave them turned on.  For instance, if you block or otherwise reject our cookies, you will not be able to use any Products that require you to sign in.  You may, however, delete your browser history after each visit, depending on the type of browser you are using, usually by going to the Tools menu and selecting “Delete Browsing History.”
 
-PacketVideo Webmaster  
-PacketVideo Corporation  
-10350 Science Center Drive, San Diego, CA 92121  
-(858) 731-5300  
-Fax: (858) 731-5303  
-webmaster@pv.com
+**Web Beacons:**
+
+A “web beacon,” also sometimes called a pixel tag or transparent GIF, is an object that is embedded in a web page.  It is usually invisible to you, but allows website operators to check whether you have viewed a particular web page or email communication.  If you have given your consent, we may place web beacons on pages of the Products and in emails we send to you. 
+
+**Device Identifiers:**
+
+When you access the Products by or through a connected device, we may access, collect, monitor and/or remotely store one or more “device identifiers.” Device identifiers are small data files or similar data structures stored on or associated with your connected device that uniquely identify your connected device and are used by us to enhance your use of the Products. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device’s operating system or other software, or data sent to the device by us. A device identifier may convey information to us about how you browse the Products. A device identifier does not collect or share any personally identifiable information about you. However, a device identifier may be used in conjunction with other information in a manner that may constitute personally identifiable information. A device identifier may remain persistently on your device, to help you log in faster and enhance your navigation through the Products. Some features of the Products may not function properly if use or availability of device identifiers are impaired or disabled.
+
+**Third Parties’ Use of Cookies, Web Beacons and Device Identifiers:**
+
+The Products may include third-party advertising, links to other websites, and other content from third-party businesses.  These third-party sites, businesses, and advertisers, or advertising companies working on their behalf, may use web beacons, device identifiers and cookies to measure the effectiveness of their ads, personalize or optimize advertising content and to track users who link from their respective websites to the Products. 
+
+We do not have access to or control over web beacons, device identifiers or cookies that these third parties may use.  We are not responsible for the privacy practices or the content of these third-party websites.  You are encouraged to review the privacy policies of the different websites you visit. 
+
+Some third-party advertising companies may provide a mechanism to opt-out of their technology.  For more information about the opt out process, you may visit the Network Advertising Initiative website, available at http://www.networkadvertising.org/managing/opt_out.asp.
+
+**How We Use Your Information:   **
+
+We may use your information: 
+
+  * To provide you with our services and enable your use of our Products.
+  * To respond to your requests or provide you with further information about us or our Products and any new developments. 
+  * To provide you with personalized content and ads. 
+  * To give our website and product developers information that may be useful for developing new features and products for customers. 
+  * To improve the content and navigability of the Products.
+  * To alert you to new features, products, events and special offers.
+  * To enforce our Terms of Use.
+  * When forwarding Digital Millennium Copyright Act (“DMCA”) infringement notifications, take down notices and counter notices.  By submitting a DMCA infringement notification, counter notice or other communication, you consent to have this communication forwarded to the person or entity who stored or transmitted the content addressed by your communications.  For notices other than DMCA infringement notifications and counter notices, you may request that we edit out your name and contact information.  However, DMCA infringement notifications and counter notices (including any personally-identifiable information set forth in the notifications) will be forwarded as submitted to us without any deletions.
+  * In connection with contests, giveaways and other promotions that you may choose to participate in.  Any information you submit in connection with promotions will be subject to the terms of the promotion, not this Privacy Policy.  You will be given the option to consent to the use of your information at the time you sign up for the promotion.  You will not be required to participate in any promotion. 
+  * If required to do so by law, court order or other government or law enforcement authority or regulatory agency; or, if we believe in good faith that disclosing this information is necessary or advisable, including, for example, to protect the rights, property, or safety of our Products, our members, users, or others.  This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+  * From time to time, we may also use information gathered from Product users in the aggregate, such as by publishing a report on trends in the usage of the Products.  
+
+
+
+**Who We Share the Information With:   **
+
+We will not disclose your personally identifiable information to any third party unless it is: (a) at your request or with your consent; (b) to our employees, contractors, affiliates, distributors, dealers, vendors, advertisers and suppliers who process such information solely on our behalf or need to know such information to provide you with the requested Products or with other goods or services that you have requested; or (c) to the proper authorities in response to a legal order or official request, or as otherwise required under applicable law. 
+
+We may also share aggregate information that does not identify you personally with third party marketing partners that we believe offer products or services that may be of interest to you.  We note that, while the aggregate data we provide will not identify you personally, in some instances third parties may be able to “de-anonymize” aggregate data to identify you personally based on additional information they have about you or that they receive from third parties.  While we do not intend for third parties to de-anonymize the aggregate data we provide, if you are concerned about potentially being personally identified by our third party marketing partners you should not use the Products. 
+
+In addition, as we continue to develop our business, we might sell or buy subsidiaries, or business units.  In such transactions, customer information generally is one of the transferred business assets but remains subject to applicable data protection law and the promises made in any pre-existing privacy policy.  Also, in the unlikely event that Lynx or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
+
+Any third party with whom we are allowed to share your personally identifiable information is authorized to use your personally identifiable information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control, and you agree that we are not responsible or liable for any of their actions or omissions. Those who contact you will need to be instructed directly by you regarding your preferences for the use of your personally identifiable information by them ****
+
+**Information Updates:**
+
+Our databases automatically update any personally identifiable information you edit in your account, or that you request we edit. Information transmitted through boards, chats, polls or through any other means remains in our databases. Keep this in mind if You decide to communicate personally identifiable information through any of these means **.**
+
+**Information Retention:**
+
+To preserve the integrity of our databases, our standard procedures call for us to retain information submitted by users for an indefinite length of time. We understand your submissions as consent to store all of Your Information in one place for this indefinite length of time, if we so wish. If required by law, we will remove user information by erasing it from our databases. We will also respond to written user requests to remove account information **.**
+
+**Special Cases in Which We Share Personal Information:**
+
+We may disclose personally identifiable information when we determine that such disclosure is necessary to comply with applicable law, to cooperate with law enforcement officials or to protect the interests or safety of our company or visitors to the Products. We also may disclose Your Information to our subsidiary, affiliated and parent companies (if any) and businesses, and other affiliated legal entities and businesses with whom we are under common control. Whenever personally identifiable information is disclosed under this paragraph, we may also disclose your demographic information along with it. 
+
+**How We Protect Information:   **
+
+We attempt to protect against the loss, misuse and alteration of your personally identifiable information.  We have a strict internal security policy that limits access to information only to authorized personnel.  Our servers are protected by reasonable physical and electronic security.  It is important for you to protect against unauthorized access to your password and to your computer.  Be sure to sign off when finished using a shared computer. 
+
+**Children:    **
+
+Protecting the privacy of young children is especially important. The Products are not structured to attract children under 13 years of age. Lynx prohibits the use of the Products by anyone under 13 years of age. Lynx does not knowingly collect or solicit personally identifiable information from anyone under the age of 13 or knowingly allow such persons to register for any of the Lynx Products. If you are under 13, please do not access the Lynx Products or send any information about yourself to us, including your name, address, telephone number, or email address. In the event that we learn that we have collected personally identifiable information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at legal@lynxtechnology.com.
+
+**European Union Users:**
+
+Our business headquarters is located in the United States.  If you provide information to us, the information will be transferred out of the European Union (EU) to the United States. By providing personally identifiable information to us, you are consenting to its storage and use as described in the terms and conditions of this Privacy Policy. ****
+
+**Contact / Your Rights:**
+
+You may object to the use of your personal data for marketing purposes and/or withdraw your consent at any time (though this may prevent you from using our Products or services). For this purpose, or to exercise your rights regarding access, correction, blocking or deletion of your personal data, please contact us at legal@lynxtechnology.com.
