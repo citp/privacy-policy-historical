@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the triobest.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125040548id_/http%3A//www.techriggs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triobest.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120134516id_/http%3A//www.triobest.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy - Techriggs
+# Privacy Policy » TrioBest
 
-This Privacy Policy governs the manner in which Triobest collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.techriggs.com website (“Site”). This privacy policy applies to the Site and all products and services offered by TechRiggs.
+This Privacy Policy governs the manner in which Triobest collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.triobest.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Triobest.
 
  **Personal identification information**
 
@@ -18,15 +18,15 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
  **How we use collected information**
 
-TechRiggs may collect and use Users personal information for the following purposes:
+TrioBest may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
@@ -49,7 +49,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
  **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>[](http://www.google.com/privacy_ads.html)
 
  **Changes to this privacy policy**
 
@@ -65,4 +65,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 1417 Browning Drive Essex, MD, 21221  
 acharyanamu1@gmail.com
 
-This document was last updated on July 14, 2014
+This document was last updated on June 24, 2016
