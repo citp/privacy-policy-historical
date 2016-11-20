@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northcountrynow.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315045713id_/http%3A//northcountrynow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northcountrynow.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120185937id_/http%3A//northcountrynow.com/privacy) for the most accurate reproduction.*
 
 # NorthCountryNow.com Privacy Notice | NorthCountryNow
 
@@ -26,7 +26,7 @@ We use the information you provide when requesting advertising information or su
 
 We use information you submit when entering contests to pick a winnner of the contest. If at the time you enter your name in a contest you indicate you would like to receive occasional e-mails from NorthCountryNow.com featuring offers, coupons and special deals from local businesses, your name and e-mail address will be entered into a database used for that purpose. All e-mails will only be sent by NorthCountryNow.com and your name and identifying information will not be shared with other businesses or organizations.
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women entered our contest or took our survey, but we would not disclose anything that could be used to identify those individuals.
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women entered our contest or took our survey, but we would not disclose anything that could be used to identify those individuals. Third-party ads, primarily provided by Google, also appear on our website. Google may use non-identifying and aggregate information to serve up future ads based on your browsing history and to relay to advertisers.
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
