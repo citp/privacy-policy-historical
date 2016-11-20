@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifrs.org privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926165600id_/http%3A//www.ifrs.org/Pages/PrivacyStatement.aspx%236) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifrs.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120111829id_/http%3A//www.ifrs.org/Pages/PrivacyStatement.aspx%236) for the most accurate reproduction.*
 
 # IFRS - Privacy and Cookies
 
@@ -99,7 +99,7 @@ Below we list the cookies that are used on each of the Sites. The tables explain
 
 **shop.ifrs.org**
 
-What are they’re used for | Cookie Name | Default Expiration Time | Description  
+What they’re used for | Cookie Name | Default Expiration Time | Description  
 ---|---|---|---  
 Google Analytics | __utma | 2 years from set/update | Used to distinguish users and sessions. The cookie is created when the javascript library executes and no existing __utma cookies exists. The cookie is updated every time data is sent to Google Analytics.  
 Google Analytics | __utmt | 10 minutes | Used to throttle request rate.  
@@ -113,7 +113,7 @@ shop.ifrs.org | cb-enabled | 1 Year | Used to record the acceptance of our terms
   
 **ifrs.org**
 
-What are they’re used for | Cookie Name | Default Expiration Time | Description  
+What they’re used for | Cookie Name | Default Expiration Time | Description  
 ---|---|---|---  
 Google Analytics | __utma | 2 years from set/update | Used to distinguish users and sessions. The cookie is created when the javascript library executes and no existing __utma cookies exists. The cookie is updated every time data is sent to Google Analytics.  
 Google Analytics | __utmt | 10 minutes | Used to throttle request rate.  
@@ -124,7 +124,7 @@ ifrs.org | cb-enabled | 1 Year | Used to record the acceptance of our terms and 
   
 **eifrs.ifrs.org**
 
-What are they’re used for | Cookie Name | Default Expiration Time | Description  
+What they’re used for | Cookie Name | Default Expiration Time | Description  
 ---|---|---|---  
 Timezone | CMS_TimeZoneOffset | End of browser session | Saves the time zone for the current user.  
 eifrs.ifrs.org | JSESSIONID (Encrypted) | End of browser session | Used to keep the visitor’s logged in eifrs.ifrs.org and keep the session active but only for the duration of the logged in period.  
@@ -134,7 +134,7 @@ eifrs.ifrs.org | TandCsV2 | 10 Years | Used to record the acceptance of our term
   
 **eifrs.ifrs.org/mobile**
 
-What are they’re used for | Cookie Name | Default Expiration Time | Description  
+What they’re used for | Cookie Name | Default Expiration Time | Description  
 ---|---|---|---  
 eifrs.ifrs.org | JSESSIONID (Encrypted) | End of browser session | Used to keep the visitor’s logged in eifrs.ifrs.org/ eifrsmobile and keep the session active but only for the duration of the logged in period.  
 eifrs.ifrs.org/ eifrsmobile  | eifrsmobile_rememberme | 1 Year | Used to remember users of the mobile app, this will work on any mobile device that it may be compatible with.  
