@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entnet.org privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606075214id_/http%3A//www.entnet.org/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entnet.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120182125id_/http%3A//www.entnet.org/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | American Academy of Otolaryngology-Head and Neck Surgery
 
