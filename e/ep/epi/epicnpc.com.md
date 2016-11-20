@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epicnpc.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322054142id_/https%3A//www.epicnpc.com/privatepolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicnpc.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120220652id_/https%3A//www.epicnpc.com/privatepolicy.php) for the most accurate reproduction.*
 
-# EpicNPC - Privacy Policy
+# EpicNPC Marketplace - Privacy Policy
 
 EpicNPC respects your privacy. This page explains our policy relating to the personal data that is received by us.
 
