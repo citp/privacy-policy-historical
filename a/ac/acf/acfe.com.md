@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acfe.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616215637id_/http%3A//www.acfe.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acfe.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120234958id_/http%3A//www.acfe.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Association of Certified Fraud Examiners - Privacy Policy
 
