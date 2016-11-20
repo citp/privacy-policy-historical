@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the olo.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619211123id_/http%3A//www.olo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olo.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120040226id_/http%3A//www.olo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Olo
 
 Mobo Systems, Inc. d/b/a Olo (“ **Olo** ”, “ **us** ” or “ **we** ”) and the company whose branding is displayed on the website (“ **Site** ”) and/or mobile application (“ **Application** ”) that links to this Privacy Policy (the “ **Branded Company** ”) respects the privacy of use to our Sites, Applications and online services (“ **Services** ”). This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of any personal information that we collect from users of our Site, Applications and Services (collectively, the “ **Properties** ”) while providing such Properties to users on behalf of the Branded Company. This Privacy Policy does not apply to any websites, mobile applications or other online services that do not link to this policy.
 
-A NOTE TO USERS OUTSIDE THE UNITED STATES
+ **A NOTE TO USERS OUTSIDE THE UNITED STATES**
 
 If you are a non U.S. user of the Properties, by using the Properties and providing us with data, you acknowledge and agree that your personal information may be processed in the country in which it was collected, including the United States, where laws regarding processing of personal information may be less stringent than the laws in your country. By providing your data, you acknowledge such transfer.
 
-THE TYPES OF INFORMATION WE COLLECT
+ **THE TYPES OF INFORMATION WE COLLECT**
 
 Olo collects information from you in various ways when you access or use the Properties. We collect personal information from you in the following ways:
 
@@ -27,19 +27,19 @@ Olo collects information from you in various ways when you access or use the Pro
   * Information Collected by our Servers. To make the Properties more useful to you, our servers (which may be hosted by a third party service provider) collect information from you, including the referring/exit pages, your browser type, domain name, date/time stamp for your visit and your Internet Protocol (IP) address (a number that is automatically assigned to your computer or device when you use the Internet). We use this information to analyze trends, administer the Properties, monitor for fraudulent activities and for the efficacy of our fraud management tools, and better tailor our Services to our users’ needs.
   * Cookies. Like many online services, we use cookies to collect information. "Cookies" are small pieces of information that a web site sends to your computer's hard drive while you are viewing a web site. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Properties. This type of information is collected to make the Properties more useful to you and to tailor the experience with us to meet your special interests and needs.
   * Mobile Services. We may also collect non-personal information from your mobile device if you have downloaded our Application. This information is generally used to help us deliver the most relevant information to you. Examples of information that may be collected and used include your geographic location, how you use the Application(s), and information about the type of device you use. In addition, in the event our Application crashes our your mobile device, we will receive information about your mobile device model software version and device carrier, which allow us to identify and fix bugs and otherwise improve performance of our Application. This information is sent to us as aggregated information and is not traceable to any individual and cannot be used to identify an individual.
-  * Third Party Analytics. We use third party service providers to help analyze how users use the Properties (“ **Analytics Companies** ”). These Analytics Companies use Cookies to collect information such as how often users visit the Site, what pages they visit and what other sites they used prior to coming to the Site. We use the information we get from these Analytics Companies to improve our Properties.
+  * Third Party Analytics. We use third party service providers to help analyze how users use the Properties (“Analytics Companies”). These Analytics Companies use Cookies to collect information such as how often users visit the Site, what pages they visit and what other sites they used prior to coming to the Site. We use the information we get from these Analytics Companies to improve our Properties.
 
 
 
-(c) Facebook and other Social Networking Services. The Services may allow users to access Facebook and other social networking sites (each, an “ **SNS** ”) to interact with and share their experiences with the Branded Company’s products and services with their friends. If you are not a registered user of the Services, you can create an Account by clicking on “Sign In” using Facebook or another SNS that we support, and then entering your SNS login credentials. In this case, we may receive information from Facebook or another SNS to make it easier for you to create an Account on the Properties and show our relevant content from your Facebook and SNS friends. Once you register on the Properties and connect with Facebook or another SNS, you will be able to automatically post recent activity back to Facebook or the other SNS. Any information that we collect from your Facebook or other SNS account may depend on the privacy settings you have with that SNS, so please consult the SNS’s privacy and data practices.
+(c) Facebook and other Social Networking Services. The Services may allow users to access Facebook and other social networking sites (each, an “SNS”) to interact with and share their experiences with the Branded Company’s products and services with their friends. If you are not a registered user of the Services, you can create an Account by clicking on “Sign In” using Facebook or another SNS that we support, and then entering your SNS login credentials. In this case, we may receive information from Facebook or another SNS to make it easier for you to create an Account on the Properties and show our relevant content from your Facebook and SNS friends. Once you register on the Properties and connect with Facebook or another SNS, you will be able to automatically post recent activity back to Facebook or the other SNS. Any information that we collect from your Facebook or other SNS account may depend on the privacy settings you have with that SNS, so please consult the SNS’s privacy and data practices.
 
 (d) Location Information. If you have enabled location services on your phone and agree to the collection of your location when prompted by the Properties, we will collect your location information when you use the Properties; for example, to locate those restaurants and locations of the Branded Company that are near you or when you “check in” via the Properties. If you do not want this information collected by us, you may decline the collection of your location when prompted, or disable location services on your device.
 
-HOW WE USE YOUR INFORMATION
+ **HOW WE USE YOUR INFORMATION**
 
 (a) General Use. In general, we use your personal information to respond to your requests as submitted through the Services, to provide you the Services you request, or to aid us in serving your better. We use your personal information in the following ways:
 
-  * facilitate the creation of and secure your Account on our network; 
+  * facilitate the creation of and secure your Account on our network;
   * identify you as a user in our system;
   * provide improved administration of our Site, Application and Services;
   * provide the Services you request;
@@ -54,7 +54,7 @@ HOW WE USE YOUR INFORMATION
 
 (b) Creation of Anonymous Data. We may create anonymous information records from personal information by excluding information (such as your name) that make the information personally identifiable to you. We may use this anonymous information to analyze request patterns and usage patterns so that we may enhance our products and services. Olo reserves the right to use and disclose Anonymous Information to third parties in its discretion.
 
-DISCLOSURE OF YOUR PERSONAL DATA
+ **DISCLOSURE OF YOUR PERSONAL DATA**
 
 We disclose your personal data as described below and as described elsewhere in this Privacy Policy.
 
@@ -70,7 +70,7 @@ A CALIFORNIA RESIDENT WHO HAS PROVIDED PERSONAL DATA TO A BUSINESS WITH WHOM HE/
 
 (b) Third Party Service Providers. We may share your personal information with third party service providers to: provide you with the Services that we offer you through our Site; to conduct quality assurance testing; to facilitate the creation of accounts; to process payments; to provide technical support; and/or to provide other services to Olo.
 
-(c) Affiliates. We may share some or all of your personal information with our parent company, subsidiaries, joint ventures, or other companies under common control (“ **Affiliates** ”), in which case we will require our Affiliates to honor this Privacy Policy.
+(c) Affiliates. We may share some or all of your personal information with our parent company, subsidiaries, joint ventures, or other companies under common control (“Affiliates”), in which case we will require our Affiliates to honor this Privacy Policy.
 
 (d) Corporate Restructuring. We may share some or all of your personal information in connection with or during negotiation of any merger, financing, acquisition or dissolution transaction involving the sale, transfer, divestiture, or disclosure of all or a portion of our business or assets. In the event of an insolvency, bankruptcy, or receivership, personal information may also be transferred as a business asset. If our company, business or assets is acquired by another company, that company will possess the personal information collected by us and it will assume the rights and obligations regarding your personal information as described in this Privacy Policy.
 
@@ -78,15 +78,15 @@ A CALIFORNIA RESIDENT WHO HAS PROVIDED PERSONAL DATA TO A BUSINESS WITH WHOM HE/
 
 (f) Other Disclosures. Regardless of any choices you make regarding your personal information, we may disclose your personal information if we believe in good faith that such disclosure is necessary (a) to comply with relevant laws or to respond to subpoenas or warrants served on Olo; (b) to protect and defend the rights or property of Olo, the Branded Company or users of our Properties; (c) in connection with a legal investigation; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or our Terms of Use.
 
-A NOTE ABOUT CHILDREN
+ **A NOTE ABOUT CHILDREN**
 
 We do not intentionally gather personal information about visitors who are under the age of 13. Furthermore, we do not intentionally allow visitors under the age of 18 to register for the Services. If a child under 13 submits personal information to Olo and we learn that the personal information is the information of a child under 13, we will attempt to delete the information as soon as possible. If you believe that we might have any personal information from a child under 13, please contact us at: 26 Broadway, 24th Floor, New York, New York 10004.
 
-LINKS TO OTHER SITES
+ **LINKS TO OTHER SITES**
 
 Our Site may contain links to third party websites. When you click on a link to any other website or location, you will leave our Site and go to another site and another entity may collect personal and/or anonymous information from you. Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of our Privacy Policy do not apply to these outside websites.
 
-YOUR CHOICES REGARDING YOUR INFORMATION
+ **YOUR CHOICES REGARDING YOUR INFORMATION**
 
 You have several choices regarding use of information on our Services.
 
@@ -98,11 +98,11 @@ You have several choices regarding use of information on our Services.
 
 (d) How We Respond to Do Not Track Signals. Some web browsers transmit “do not track” signals to the websites and other online services with which your web browser communications. There is currently no standard that governs what, if anything, websites should do when they receive these signals. We currently do not take action in response to these signals. If and when a standard is established, we may revise our policy on responding to these signals.
 
-PRIVACY POLICY UPDATES
+ **PRIVACY POLICY UPDATES**
 
 This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we collect, use, or disclose your personal information, we will post a notice on the Site and within the Application. Any changes to this Privacy Policy will be effective thirty (30) calendar days following our posting of notice of the changes on our Site. These changes will be effective immediately for new users of our Service. If you object to any such changes, you must notify us prior to the effective date of such changes that you wish to deactivate your Account with us. Continued use of our Properties following notice of any such changes shall indicate your acknowledgement of such changes.
 
-CONTACT US
+ **CONTACT US**
 
 If you have any questions or complaints about our Privacy Policy or our data collection or processing practices, or if you want to report any security violations to us, please contact us at: (212) 260-0895 or 1-888-411-6626; by Facsimile at: (212) 656-1671; by email at: [support@olo.com](mailto:support@olo.com); or by mail at:
 
