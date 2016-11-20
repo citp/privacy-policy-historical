@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the qvcuk.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609105443id_/http%3A//www.qvcuk.com/privacy.content.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qvcuk.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120102958id_/http%3A//www.qvcuk.com/privacy.content.html) for the most accurate reproduction.*
 
 # Privacy Statement | QVCUK.com
 
 ## At QVC your privacy is a priority
 
-QVC does not sell or exchange customer information with anyone else. We share relevant information only with those parties entrusted with the processing of your account and the fulfilment of your order and to parties entrusted by us to undertake customer surveys. We have established procedures to protect your privacy - and we uphold them vigorously. 
+QVC does not sell or exchange customer information with anyone else. We share relevant information only with our Affiliates and those parties entrusted with the processing of your account and the fulfilment of your order and to parties entrusted by us to undertake customer surveys. We have established procedures to protect your privacy - and we uphold them vigorously. 
 
 go to top
 
