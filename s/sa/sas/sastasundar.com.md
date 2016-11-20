@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sastasundar.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622094742id_/http%3A//www.sastasundar.com/index.php/pages/view/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sastasundar.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121003826id_/http%3A//www.sastasundar.com/index.php/pages/view/privacy-policy) for the most accurate reproduction.*
 
-# SastaSundar.com: Online Pharmacy for Healthcare and Ayurvedic products
+# SastaSundar: Online Pharmacy | Order Medicine Online | Genuine Medicine
 
 This Privacy Policy relates solely to the user information collected by us and how that information is treated on our website, www.sastasundar.com. We recognize that many visitors and users of “SastaSundar.com” are concerned about the information they provide to us and how we use that information. This Privacy Policy has been developed to address those concerns. At www.sastasundar.com, we respect your privacy and take reasonable measures to protect your personal information and other details that you share with us.
 
