@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intuit.ca privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630233602id_/http%3A//www.intuit.ca/about-intuit-canada/info/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intuit.ca privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120114227id_/http%3A//www.intuit.ca/about-intuit-canada/info/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Intuit® Canada
 
@@ -35,24 +35,28 @@ FAX: 1-888-829-1724
  
 
 |   
-[Change Your Privacy Preferences](http://anon.intuit-canada.speedera.net.edgesuite.net/anon.intuit-canada/www.intuit.ca/quickbooks/2007/Privacy_Preferences_Change_Form.pdf)  
+  
+## Change Your Privacy Preferences  
+  
 ---  
   
   
-To change your privacy preferences and personal information, please [complete this form](http://anon.intuit-canada.speedera.net.edgesuite.net/anon.intuit-canada/www.intuit.ca/quickbooks/2007/Privacy_Preferences_Change_Form.pdf) and fax (toll-free) or mail it to us at:
+To change your privacy preferences, please send your request to:
 
 **MAIL**  
 Intuit Canada   
-Attention: Privacy Officer  
+Attention: Opt Out  
 5100 Spectrum Way  
 Mississauga, ON  
 L4W 5S2
 
-**FAX**  
-Attention: Privacy Officer  
-FAX: 1-888-829-1724
+**EMAIL**  
+Subject: Opt Out  
+[privacyofficer@intuit.com](mailto:privacyofficer@intuit.com)
 
-TurboTax online application users should make any updates, modifications, or deletions to their tax return information directly through the Web site. There are certain changes that cannot be made to ensure that only one tax return is prepared per registration. The TurboTax License and Services Agreement contains further details.
+Please include the contact information to which you would like to receive no further marketing communications.
+
+TurboTax Online users should make any updates, modifications, or deletions to their tax return information directly through the application. There are certain changes that cannot be made to ensure that only one tax return is prepared per registration. The _TurboTax License and Services Agreement_ contains further details.
 
 |   
 |   
@@ -158,15 +162,19 @@ For users of the TurboTax online application, personal information is not requir
 
 By signing up for the TurboTax online application, you are not obligated to provide any tax return information. However, if you do not provide complete information when preparing your tax return, you will not have complete use of the service. That may significantly impact the accuracy of your tax return. Personal information is necessary to complete and file a tax return using the TurboTax online application, so that we can process payment and registration for the service.
 
-To change your privacy preferences, please complete the [Personal Information Change Form](http://anon.intuit-canada.speedera.net.edgesuite.net/anon.intuit-canada/www.intuit.ca/quickbooks/2007/Privacy_Preferences_Change_Form.pdf) located here and mail it to us or fax it toll-free to the following:
+To change your privacy preferences, please send your request to:
 
-**INTUIT CANADA ULC**  
-Attention: Privacy Officer  
+**MAIL**  
+Intuit Canada  
 5100 Spectrum Way  
 Mississauga, ON  
 L4W 5S2
 
-FAX: 1-888-829-1724
+**EMAIL  
+**Subject: Opt Out  
+[privacyofficer@intuit.com](mailto:%20privacyofficer@intuit.com)
+
+Please include the contact information to which you would like to receive no further marketing communications. 
 
 Please note that if you are posting personal information on an online community, this information is publicly available and Intuit has no further obligations to maintain the privacy of that information.
 
