@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-search-site.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605203858id_/http%3A//www.the-search-site.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-search-site.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120071106id_/http%3A//www.the-search-site.com/privacy) for the most accurate reproduction.*
 
 # Privacy « Directory – Worldwide
 
