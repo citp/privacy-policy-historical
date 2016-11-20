@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xcams.nl privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610191129id_/http%3A//www.xcams.nl/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcams.nl privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120195820id_/http%3A//www.xcams.nl/privacy-policy) for the most accurate reproduction.*
 
 # 
 
