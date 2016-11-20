@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crizmo.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324093512id_/http%3A//www.crizmo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crizmo.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120220039id_/http%3A//www.crizmo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CRIZMO
 
@@ -76,7 +76,7 @@ By default Cookies are accepted from all sites. To reject or disable Cookies,  
 
 
 
-We don’t have any sort of control over the Cookies used by third party advertisers. You may personally change the preferences of advertisement or stop them from storing cookies by visiting Google Ads Privacy Policy and Go to Ad Setting at the following URL – <http://www.google.com/privacy_ads.html>
+We don’t have any sort of control over the Cookies used by third party advertisers. You may personally change the preferences of advertisement or stop them from storing cookies by visiting Google Ads Privacy Policy and Go to Ad Setting at the following URL – http://www.google.com/privacy_ads.html
 
 ### 06\. What are Potential Technical Risks?
 
