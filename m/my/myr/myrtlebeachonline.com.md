@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myrtlebeachonline.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606155754id_/http%3A//www.myrtlebeachonline.com/customer-service/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrtlebeachonline.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120054242id_/http%3A//www.myrtlebeachonline.com/customer-service/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # Privacy Policy | MyrtleBeachOnline.com & The Sun News
 
