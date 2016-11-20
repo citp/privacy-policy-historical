@@ -1,6 +1,21 @@
-> *The following text is extracted and transformed from the hansonellis.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602200031id_/http%3A//www.hansonellis.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hansonellis.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120184612id_/http%3A//www.hansonellis.com/PRPO.html) for the most accurate reproduction.*
 
-# HansonEllis:
+# HansonEllis.com: Privacy Policy
 
-**Personal Information**  
-HansonEllis.com does not collect personal information about individuals, unless provided by the individuals. We may collect demographic information (such as age, gender, and marital status), but that is optional information that the individual may choose to give. Any personal information collected by HansonEllis.com has the choice to receive e-mails information about new offers, promotion, website updates, and special products/services from advertisers. We only offer these promotions on an opt-in basis, and no unsolicited e-mail will ever originate from our site. If you wish to be opt out of our mailing list, please contact us at [support@hansonellis.com](mailto:support@hansonellis.com). 
+We respect your privacy. Therefore we never share or sell your personal information with any third parties. Any information collected through this site is intended for HansonEllis purposes. You may opt-out at anytime. If you need assistance, please contact [service@hansonellis.com](mailto:service@hansonellis.com)
+
+ **  
+The Safety of Our Customer is Very Important**
+
+Your private information and credit card payment is protected using a secured gateway. You can be confident HansonEllis.com is protecting your information using the latest technology and leading companies when it comes to your security. If you wish to use your Paypal account to make a payment, you will be protected by Paypal's Secure Site.
+
+HansonEllis.com is protected by SSL certificates thereby encrypting credit card numbers by scrambling the data into a format which can only be read by an authorized processor, providing online consumers peace of mind during the checkout process. During checkout, you can verify your site is secured when you see https:// in the URL of the checkout process. 
+
+This means you can rest assured that communications between your browser and HansonEllis.com web servers are private and secure. In addition, we carefully review all orders for accuracy to protect customers and prevent unauthorized credit card use. Your confidence and trust is our priority. 
+
+**AdRoll Uses on HansonEllis** The AdRoll website uses cookies, tracking pixels and related technologies. Cookies are small data files that are served by our platform and stored on your device. Our site uses cookies dropped by us or third parties for a variety of purposes including to operate and personalize the website. Also, cookies may also be used to track how you use the site to target ads to you on other websites. We may collect the following:
+
+  * Email
+  * Website Activity
+
+
