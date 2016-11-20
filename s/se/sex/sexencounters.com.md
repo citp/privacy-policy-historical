@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sexencounters.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613030658id_/http%3A//www.sexencounters.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexencounters.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120083008id_/http%3A//www.sexencounters.com/site/privacy) for the most accurate reproduction.*
 
-# Sexencounters - Spice up your life with a discreet encounter!
+# SexEncounters - Spice up your life with a discreet encounter!
 
 ### Table of Contents:
 
@@ -97,9 +97,9 @@ You can unsubscribe at any time by clicking the 'unsubscribe' link at the bottom
 
 #### Our address:
 
-FH International Limited  
-PO Box 440  
-Envoy House, La Vrangue  
+XD International Limited  
+PO Box 142  
+The Beehive, Rohais  
 St Peter Port  
 Guernsey  
-GY1 3ZN 
+GY1 3HT 
