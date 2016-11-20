@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrs.com.sg privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603092651id_/http%3A//www.wrs.com.sg/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrs.com.sg privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120142714id_/http%3A//www.wrs.com.sg/privacy-policy.html) for the most accurate reproduction.*
 
 # Wildlife Reserves Singapore
 
