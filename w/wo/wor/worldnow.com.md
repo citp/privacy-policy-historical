@@ -1,69 +1,126 @@
-> *The following text is extracted and transformed from the worldnow.com privacy policy that was archived on 2014-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140728060831id_/http%3A//www.worldnow.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldnow.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120144422id_/http%3A//franklyinc.com/privacy-policy) for the most accurate reproduction.*
 
-# WorldNow : Worldnow Privacy Policy
+# Privacy Policy – Frankly Inc.
 
-This Web Site (the "Web site") provides a variety of online services, from interactive entertainment to electronic commerce via its relationship with Gannaway Web Holdings, LLC d/b/a WorldNow ("WorldNow"). WorldNow is the host of this Web site. Because the success of this Web site is dependent on building and maintaining goodwill with our customers, this Web site and WorldNow (hereinafter collectively referred to as "we" or "us" or "our") are committed to implementing measures designed to protect the privacy of those using our services. Moreover, we see it as our responsibility to set examples and help establish the standards for privacy on the Internet.
+### Frankly Co. Privacy Policy
 
-Although we respect the privacy of all those who visit the Web site and use our online services, we do collect information from our Web site's members and visitors. This Privacy Policy governs your interaction with the Web site, and your registration for and use of this station's online services. Except as set forth within this Privacy Policy and this Web Site's Terms of Service and/or other published guidelines, we do not release personally identifiable information about this Web site's members and visitors without their permission.
+**Last Updated: April 8, 2015**
 
-Please note that we review these privacy practices from time to time, and that these practices are therefore subject to change. We ask that you periodically review this page to ensure continuing familiarity with the most current version of this Web site's Privacy Policy. To contact us about privacy issues, to report a violation of this Web site's Privacy Policy, or to raise any other issue regarding the Web site, please e-mail us at [Info@Worldnow.com](mailto:Info@WorldNow.com).
+Protecting your privacy is really important to us. Accordingly, we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use our website located at [www.franklyinc.com](http://franklyinc.com/) (“Site”) and instant messaging and social networking services for professionals, accessible via our mobile device application (“App”). To make the terms in this Privacy Policy easier to read, our Site, services and App are collectively called the Services. This Privacy Policy applies only to those websites, services and applications included within “Services” and doesn’t apply to any third-party websites, services or applications, even if they are accessible through our Services.
 
-* * *
+##### How do we collect and use information?
 
-### The information we gather
+Our primary goals in collecting information are to provide and improve our Services, to administer your use of the Services (including your Account (defined below), if you are an Account holder), and to enable you to enjoy and easily navigate our Services.
 
-We gather two types of information about this Web site's users:
+ACCOUNT INFORMATION
 
-(1) Non-personally identifiable information: When visitors come to the Web site, we collect and aggregate information indicating, among other things, which pages were visited, the order in which they were visited, and which hyperlinks were "clicked." Collecting such information involves the logging of IP addresses, operating system and browser software used by each visitor to the Web site. Although such information is not personally identifiable, we can determine from the IP address a visitor's Internet Service Provider and the geographic location of his or her point of connectivity.
+To use the Services you’ll have to create an account (“Account”). When you create an Account we’ll collect certain information that can be used to identify you, such as your name, email address, and phone number (“Personally Identifiable Information” or “PII”). We may also collect certain information that is not PII because it cannot be used by itself to identify you, such as your interests and organization. You can create an Account via the App or through your account with certain third-party social networking services such as Facebook (each, an “SNS Account”), if and when such functionality is available. If you choose to create an Account through one of your SNS Accounts, you may have to provide us with your username (or userID) so that your identity can be authenticated by the SNS Account. When the authentication is complete, we’ll be able to link your Account with the SNS Account and access certain PII, such as your name and email address, and other PII that your privacy settings on the SNS Account permit us to access, in connection with creating your Account. We don’t receive or store passwords for any of your SNS Accounts.
 
-The non-personally identifiable information we collect helps us diagnose problems with our server, administer the Web site, identify the most popular areas of the Web site, and determine the effectiveness of our promotional activities. In addition, we may disclose some of this information to advertisers to inform them of the number of people who have seen and/or clicked through their advertisements.
+We may use your PII (e.g., email address) to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the Opt-Out procedure described in this policy below.
 
-For the same purposes, we use "cookies"---that is, small text files placed on your computer's hard drive---to help us determine the type of content and sites to which you link, the length of time you spend at any particular area of the Web site, and your usage of our services offered via the Web site. Cookies also tell us which advertising you have seen on the Web site. At certain times, we may use outside advertising companies to display advertisements on the Web site that may contain cookies ("banner ads"). These banner ads collect information stored by the advertising company and we do not have access to this information.
+In addition, our Services may request access to your contacts in order to populate your list of contacts that also use the Service and enable you to invite more friends to join. We do not collect this information unless you authorize it via the Services. We do not store or use your contacts for any purpose other than administering the Services for you.
 
-Essentially, cookies are your identification cards for our computers, or servers, that placed them there. Cookies are only read by the server that placed them, and are unable to execute any code or virus. Cookies allow us to serve you better and more efficiently, and to personalize your experience at the Web site. Nevertheless, you are able to control how and whether cookies will be accepted by your web browser. For more information on how to do so, please refer to the documentation accompanying your browser.
+INFORMATION COLLECTED USING COOKIES
 
-(2) Personally identifiable information: In certain areas of the Web site, such as online surveys and contests, the Web site may require that you provide personally identifiable information (including, for example, zip code, age, income, and e-mail address, and when applicable, credit card information). WorldNow, as host of the Web site, has access to this information. In addition, when registering to set up an account to use certain services of the Web site such as e-mail, chat rooms, and forums, or to receive certain newsletters or specifically targeted information ("Services"), we do require that you provide a valid e-mail address.
+We collect certain information through the use of “cookies,” which are small text files that are saved by your browser when you access our Services. We may use both session cookies and persistent cookies to identify that you’ve logged in to the Services and to tell us how and when you interact with our Services. We may also use cookies to monitor aggregate usage and web traffic routing on our Services and to customize and improve our Services. Unlike persistent cookies, session cookies are deleted when you log off from the Services and close your browser. Although most browsers automatically accept cookies, you can change your browser options to stop automatically accepting cookies or to prompt you before accepting cookies. Please note, however, that if you don’t accept cookies, you may not be able to access all portions or features of the Services. Note that this Privacy Policy covers only our use of cookies and does not include use of cookies by any third party service providers (including third-party advertisers) that we may engage.
 
-We do not knowingly collect personally identifiable information from children (defined herein as minors younger than 13 years of age) without obtaining parental consent. Before registering for an account to use the Services of the Web site, we ask that all minors have their parents read our Privacy Policy. Before and during the registration process, we encourage all minors to include a parent or guardian in the process.
+INFORMATION RELATED TO USE OF THE SERVICES
 
-We do not control the acts of this Web site's members or visitors. All members and visitors should be aware that, when they disclose personally identifiable information in a bulletin board, chat room, guestbook, or other forum, the information may be collected and used by others to send that person unsolicited e-mail from other parties outside this Web site or WorldNow. In the event that you encounter any user on this Web site who is improperly collecting or using information about you or other users, please contact [Info@Worldnow.com](mailto:Info@Worldnow.com%3EInfo@Worldnow.com%3C/a%3E.%20%3Chr%3E%3Ch3%3EHow%20we%20use%20\(and%20do%20not%20use\)%20the%20information%20we%20gather%3C/3%3EPlease%20take%20some%20time%20to%20familiarize%20yourself%20with%20the%20different%20ways%20we%20use%20the%20information%20that%20we%20gather.%20Keep%20in%20mind%20that,%20while%20we%20encourage%20all%20third%20parties%20involved---including%20affiliates%20and%20advertisers---to%20adhere%20to%20our%20policies%20regarding%20the%20privacy%20of%20this%20Web%20site's%20visitors%20and%20members%20and%20to%20otherwise%20handle%20personal%20information%20in%20a%20responsible%20manner,%20we%20cannot%20and%20do%20not%20assume%20any%20responsibility%20for%20any%20actions%20or%20omissions%20of%20third%20parties,%20including%20the%20manner%20in%20which%20they%20use%20information%20received%20either%20from%20us%20or%20independently.%20Nevertheless,%20in%20the%20event%20you%20encounter%20any%20third%20party%20associated%20with,%20or%20who%20claims%20association%20with%20us%20who%20you%20feel%20is%20improperly%20collecting%20or%20using%20information%20about%20you,%20please%20contact%20%3Ca%20href=); we will be happy to forward your message to the third party.
+Our servers automatically record certain information about how a person uses our Services (we refer to this information as “Log Data”), including both Account holders and non-Account holders (either, a “User”). Log Data may include information such as a User’s Internet Protocol (IP) address, browser type, operating system, the pages or features of our Services to which a User browsed and the time spent on those pages or features, frequency with which the Services are used by a User, search terms, the links on our Services that a User clicked on, and other statistics. We use this information to administer the Services and we analyze (and may engage third parties to analyze) this information to improve and enhance the Services by expanding their features and functionality and tailoring them to our Users’ needs and preferences. We may use a person’s IP address to generate aggregate, non-identifying information about how our Services are used.
 
-**(1) How we use (and do not use) non-personally identifiable information:** We use non-personally identifiable information in aggregate form to build higher quality, more useful online services by performing statistical analyses of the collective characteristics and behavior of the Web site's members and visitors, and by measuring demographics and interests regarding specific areas of the Web site. We provide statistical information based on this data to advertisers, affiliates, and other current and potential business partners. We also use the aggregate data to inform these third parties as to the number of people who have seen and clicked on links to their web sites.
+LOCATION INFORMATION
 
-The Web site may contain links to other Internet web sites, including co-branded or other affiliated sites that may or may not be owned or operated by us. Unless otherwise explicitly stated, we are not responsible for the privacy practices or the content of such web sites, including such sites' use of any information (such as IP number, browser type, or operating system) collected when visitors to the web site click through links to those sites. Even though such information might not identify you personally, we strongly encourage you to become familiar with the privacy practices of those sites.
+When you use our App we may collect and store information about where you are located, such as by converting your IP address into a rough geolocation and utilizing your mobile phone number to approximate rough geolocation information (based on area code). We may use location information to improve and personalize our Services for you and to enable chat functions with those in your approximate geolocation as described below under “Discover Other Account Holders”.
 
-**(2) How we use (and do not use) personally identifiable information:** We provide notice to potential registrants of this Web site whose personally identifiable information will be collected during the registration process. Such notice is provided simultaneously with your registration with this website; moreover, this Privacy Policy itself serves as notice that such information is collected under those circumstances. You may not "opt in" to the registration process if you wish to have access to Services, and you may choose to "opt in" to receiving promotional materials from us and/or our affiliates, advertisers, or other business partners. If you "opt in" to receiving such promotional materials, we reserve the right to release any personally identifiable registration information regarding you to third parties who provide goods or services that we believe may be of interest to you. We will not release your credit card information to third parties unless necessary to complete a transaction between you and such a third party. If you decide that you would like to discontinue receiving promotional information from such third parties, please contact those third parties directly, or contact us at [Info@Worldnow.com](mailto:Info@Worldnow.com).
+##### What Information Do We Share With Third Parties?
 
-We limit our own e-mail contact and solicitations to those customers who have "opted in" to receiving such communications. The solicitations are limited in that they, among other things, will clearly indicate the originator of the e-mail and provide the customer with a method of "opting out" of receiving future communications of a similar nature.
+We will not share any PII that we have collected from you except as described below:
 
-In addition, we sometimes use demographic data to decide which advertisements and sponsor messages to show to which members. As an example, if Sponsor XYZ wishes to display their advertising only to female members of this Web site, we use member registration data to ensure that Sponsor XYZ's ads are displayed only to female members.
+INFORMATION SHARED WITH OTHER ACCOUNT HOLDERS
 
-Finally, we may use individual members' data to "pre-populate" forms, which are displayed for the purpose of collecting individual data by us and/or our sponsors. In no case does pre-populating a form transfer any data to any advertiser or third party. Only if the member voluntarily requests that such data be transferred will any transfer take place---for example, if/when a member clicks a "submit form" button or other button.
+As part of our Services, Account holders may communicate with other Account holders through the use of our direct messaging functionality and when this happens your identity may, if you choose, be available to those other Account holders. In addition, the content of your communications will be visible and available to those other Account holders. By default, our Service scrambles messages until you decide to read them and then deletes the messages (unless the sender selects an option to retain the message). We encourage you to use your good judgment for such communications and not post any private or sensitive information. Other information about you, such as your name or PIN may be viewable by other Account holders and users of the Service â€“ this will depend on how you set your privacy settings via the Service.
 
-We reserve the right to release any and all information contained within our access logs concerning any visitor or member when that visitor or member is in violation of our Terms of Service or other published guidelines, or partakes (or is reasonably suspected of partaking) in any illegal activity, even without a subpoena, warrant, or other court order, and to release such information in response to discovery requests, or in response to any circumstance which we, in our sole discretion, deem an emergency. We cooperate with law enforcement agencies in identifying those who may be using our servers or services for illegal activities. We also reserve the right to report any suspected illegal activity to law enforcement for investigation or prosecution.
+DISCOVER OTHER ACCOUNT HOLDERS
 
-If and when we sponsor promotions or sweepstakes, or third parties sponsor promotions or sweepstakes in conjunction with us, either we or the third party will post relevant privacy information in the official rules and/or registration area for the promotion or sweepstakes. That privacy information, to the extent it conflicts with this Privacy Policy, will govern that particular promotion or sweepstakes. 
+You may be asked via the App if you would like to discover, chat and/or connect with other Account holders who may be unknown to you â€“ either (i) in reasonably close proximity to you, (ii) in the country which is associated with your account and your telephone number or (iii) elsewhere in the world. If you indicate to us that you would like to discover, chat and/or connect with other Account holders by an affirmative action (e.g. selecting a “Yes I would like to connect with other users” button), then your name and Account profile image will be made available via that feature of the App to other Account holders and other Account holders may communicate with you via the App.
 
-* * *
+You may also decide that you want to join a conversation with other Account holders who share similar interests to yours â€“ via the Frankly group features and functionality. If you decide to join a Frankly group, then your name and Account profile image will be made available to other members of that Frankly group and you will be able to communicate with other members of the group.
 
-### Security
+As noted above, when you communicate with other Account holders via the App, the content of your communications will be visible and available to those other Account holders, so we encourage you to use your good judgment for such communications and not post any private or sensitive information.
 
-All information gathered on the Web site is stored within a WorldNow controlled database accessible only to us to protect the loss, misuse, or alteration of the information under our control. However, as effective as any security measure implemented by us may be, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. Questions regarding this Privacy Policy should be directed to us at [Info@Worldnow.com](mailto:Info@Worldnow.com). 
+INFORMATION SHARED WITH OUR SERVICES PROVIDERS
 
-* * *
+We may engage third party service providers to work with us to administer and provide the Services. These third-party services providers have access to your PII only for the purpose of performing services on our behalf and are expressly obligated not to disclose or use your PII for any other purpose.
 
-### Changing/deleting personal information
+INFORMATION SHARED WITH THIRD PARTIES
 
-If you would like to have your personally identifiable information changed or removed from our database, please contact us at [Info@Worldnow.com](mailto:Info@Worldnow.com), and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within our databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however we reserve the right, from time to time, to recontact former customers or users of this Web site. 
+We may share aggregated information and non-identifying information with third parties for industry analysis, demographic profiling and other similar purposes.
 
-* * *
+INFORMATION DISCLOSED IN CONNECTION WITH BUSINESS TRANSACTIONS
 
-### Third-Party Ad Serving
+Information that we collect from our users, including PII, is considered to be a business asset. As a result, if we go out of business or enter bankruptcy or if we are acquired as a result of a transaction such as a merger, acquisition or asset sale, your PII may be disclosed or transferred to the third-party acquirer in connection with the transaction.
 
-We use third-party advertising companies to serve ads when you visit this Web site. These companies may use information (not including your name, address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know you choices about not having this information used by these companies, please contact us at [Info@Worldnow.com](mailto:Info@Worldnow.com), or click here[ http://www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp). 
+INFORMATION DISCLOSED FOR OUR PROTECTION AND THE PROTECTION OF OTHERS
 
-* * *
+It is our policy to protect you from having your privacy violated through abuse of the legal systems, whether by individuals, entities or government, and to contest claims that we believe to be invalid under applicable law. However, it is also our policy to cooperate with government and law enforcement officials and private parties. Accordingly, we reserve the right to disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary: (i) to satisfy or comply with any applicable law, regulation or legal process or to respond to lawful requests, including subpoenas, warrants or court orders; (ii) to protect our property, rights and safety and the rights, property and safety of third parties or the public in general; and (iii) to prevent or stop activity we consider to be illegal or unethical.
 
-### Questions?
+INFORMATION WE DISCLOSE WITH YOUR CONSENT OR AT YOUR REQUEST
 
-Questions regarding this Privacy Policy should be directed to us at [Info@Worldnow.com](mailto:Info@Worldnow.com).
+We will share your PII with third-party sites or platforms, such as social networking sites, if you have expressly requested that we do so.
+
+##### The Security of Your Information
+
+We take reasonable measures to protect the information that we collect from or about you (including your PII) from unauthorized access, use or disclosure. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information.
+
+##### Links to Other Sites
+
+Our Services may contain links to other websites and services. Any information that you provide on or to a third-party website or service is provided directly to the owner of the website or service and is subject to that party’s privacy policy. Our Privacy Policy does not apply to such websites or services and we’re not responsible for the content, privacy or security practices and policies of those websites or services. To protect your information we recommend that you carefully review the privacy policies of other websites and services that you access.
+
+##### Messaging Via Your Account
+
+As noted above, as part of our Services, Account holders may communicate with other Account holders through the use of our direct messaging functionality. If you choose to link your Account with an SNS Account we may, at your option, and depending on our ability to access your SNS Account, access your personal contacts on such SNS Account in order to create a list of potential contacts through our App. As an Account holder, you will be able to message other Account holders individually as well as engage in group chats with multiple Account holders, and may do so anonymously if you choose. For anonymous chats, the transcript of the chat can’t be saved or shared and although chat participants will know the names and identities of the other chat participants, nobody will be able to associate a particular statement with a particular chat participant. In addition to sending and receiving text messages, you will also be able to send and receive media files via our Services’ functionality. Through the App, Account holders can also invite non-Account holders and non-App users to try the Services. When an Account holder invites someone to try the Services, the Account holder may send an SMS or have an automated email sent to the invitee indicating that a particular Account holder has invited such invitee to try the Services and this SMS or email will include a link to the appropriate app store or distribution platform where the App is made available.
+
+##### Modifying Your Information
+
+You can access and modify the PII about you associated with your Account through the profile page in your Account. If you want us to delete your PII and your Account, please contact us at help@franklyinc.com with your request. We’ll take steps to delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records or as otherwise required by law.
+
+##### Opting Out
+
+If you do not wish to receive promotional emails, newsletter notifications, or other communications from us, please follow the unsubscribe instructions provided in any of the communications. If you no longer want to be included in a Frankly group or the “Discover Other Account Holders” features of our Services, you can opt-out via the App or by sending an email to us at [help@franklyinc.com](mailto:help@franklyinc.com) and we will use commercially reasonable efforts to disable these features as soon as possible.
+
+##### International Transfer
+
+Your PII may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you’re located outside the United States and choose to provide your PII to us, we may transfer your PII to the United States and process it there. Your consent to this Privacy Policy followed by your submission of any PII represents your agreement to that transfer.
+
+##### Our Policy Toward Children
+
+Our Services are not directed to children under 13 and we do not knowingly collect PII from children under 13. If we learn that we have collected PII of a child under 13 we will take steps to delete such information from our files as soon as possible.
+
+##### Changes to Privacy Policy
+
+Any information that we collect is subject to the privacy policy in effect at the time such information is collected. We may, however, modify and revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we’ll notify you of such changes by posting them on the Services or by sending you an email or other notification, and we’ll indicate when such changes will become effective.
+
+##### Questions?
+
+Please contact us at [help@franklyinc.com](mailto:help@franklyinc.com) if you have any questions about our Privacy Policy.
+
+##### Frankly Co. COPYRIGHT POLICY
+
+**DMCA Notice of Alleged Infringement (“Notice”)**
+
+  1. Identify the copyrighted work that you claim has been infringed, or – if multiple copyrighted works are covered by this Notice – you may provide a representative list of the copyrighted works that you claim have been infringed.
+  2. Identify the material that you claim is infringing (or to be the subject of infringing activity) and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material, including at a minimum, if applicable, the URL of the link shown on or through the Service(s) where such material may be found.
+  3. Provide your mailing address, telephone number, and, if available, email address.
+  4. Include both of the following statements in the body of the Notice: 
+    * _“I hereby state that I have a good faith belief that the disputed use of the copyrighted material is not authorized by the copyright owner, its agent, or the law (e.g., as a fair use).”_
+    * _“I hereby state that the information in this Notice is accurate and, under penalty of perjury, that I am the owner, or authorized to act on behalf of the owner, of the copyright or of an exclusive right under the copyright that is allegedly infringed.”_
+  5. Provide your full legal name and your electronic or physical signature. Deliver this Notice, with all items completed, to Frankly Co.’s Designated Copyright Agent: 
+    * **Copyright Agent**
+    * **c/o Frankly Co.**
+    * 333 Bryant Street, Suite 240
+    * San Francisco, CA 94107
+    * Tel: (415) 861-9797
+    * Fax: (650) 362-1887
+    * Email: [IP@franklyinc.com](mailto:IP@franklyinc.com)
+
+
