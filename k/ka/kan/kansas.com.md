@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kansas.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611000346id_/http%3A//www.kansas.com/site-services/legal/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kansas.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120221725id_/http%3A//www.kansas.com/site-services/legal/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # Privacy Policy | The Wichita Eagle & Kansas.com The Wichita Eagle
 
