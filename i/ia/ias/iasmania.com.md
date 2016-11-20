@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iasmania.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530225716id_/http%3A//iasmania.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iasmania.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120122820id_/http%3A//iasmania.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Iasmania - Civil Services Preparation Online ! UPSC & IAS Study Material
 
