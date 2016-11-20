@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the whatusersdo.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623083318id_/http%3A//whatusersdo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatusersdo.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120205359id_/http%3A//whatusersdo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | WhatUsersDo
 
-whatusersdo Ltd recognises that your privacy is very important to you. We will never rent, sell or otherwise disclose any of your personal information to a third party without your consent.
+## Privacy Policy
+
+WhatUsersDo Ltd. recognises that your privacy is very important to you. We will never rent, sell or otherwise disclose any of your personal information to a third party without your consent.
 
 This document describes our privacy policy and you should read it in conjunction with the Terms and Conditions.
 
