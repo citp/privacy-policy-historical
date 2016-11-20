@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titansonline.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616231900id_/http%3A//www.titansonline.com/footer/terms-of-use-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titansonline.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120054717id_/http%3A//www.titansonline.com/footer/terms-of-use-privacy-policy.html) for the most accurate reproduction.*
 
 # Tennessee Titans | Terms of Use / Privacy Policy
 
@@ -9,7 +9,7 @@ This privacy policy applies to the Tennessee Titans' Website located at www.tita
 
 By using the Website, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories.  While some of these countries may not offer the same level of privacy protection as your own, we commit to uphold the privacy protections as explained in this privacy policy.
 
-If you have questions or concerns regarding this statement, you should first contact the internet department of the Tennessee Titans at 615-565-4000 (Tennessee Titans, Saint Thomas Sports Park, 460 Great Circle Rd., Nashville, TN, 37228).
+If you have questions or concerns regarding this statement, you should first contact the digital media department of the Tennessee Titans at 615-565-4000 (Tennessee Titans, Saint Thomas Sports Park, 460 Great Circle Rd., Nashville, TN, 37228).
 
 When this privacy policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy.
 
@@ -50,11 +50,9 @@ How Information may Be Collected
 
 We may collect information from you in several different areas on the Website, including but not limited to those described below:
 
-**Registration:** You may be asked to complete a registration form and provide personally identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Website may choose to offer, such as newsletters or contests, season ticket waiting list forms, donation request forms, or merchandise catalog requests. Participation in registration is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website.
+**Registration:** You may be asked to complete a registration form and provide personally identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Website may choose to offer, such as newsletters or contests, fan voting, season ticket waiting list forms, donation request forms, or merchandise catalog requests. Participation in registration is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website.
 
-**Newsletters and Website Emails:** We offer free newsletters to share information with you about the Website, about us and our affiliates and subsidiaries, or about our marketing partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Website. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. You may also cancel your free email subscription by following the instructions provided on the Website or in the newsletter or email.
-
-<http://team.nfl.com/p/Titans/PreferencePage>
+**Newsletters and Website Emails:** We offer free newsletters to share information with you about the Website, about us and our affiliates and subsidiaries, or about our marketing partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Website. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information to the Website. You may also cancel your free email subscription by following the instructions provided on the Website or in the newsletter or email by clicking [HERE](http://team.nfl.com/q/Titans/PreferencePage-2?-action=login).
 
 **Tell-A-Friend:** If you choose to use our referral service to tell a friend about our site, we will ask you for your friend_s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Tennessee Football, Inc. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
@@ -166,6 +164,13 @@ As explained in this privacy policy, whenever you agree to let us collect person
 Because this website has a comprehensive privacy policy and provides you with details on how you may opt-in / opt-out of the use of your personal information by third parties for direct marketing purposes, we are not required to provide you with this information.
 
 If you are a California resident and you would like to make such a request, please send an email to [websitefanfeedback@titans.nfl.com](mailto:websitefanfeedback@titans.nfl.com) or write to us at CA Privacy Rights, 460 Great Great Circle Rd., Nashville, TN, 37228, ATTN: Internet Dept.
+
+* * *
+
+  
+Dispute Resolution
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
 * * *
 
