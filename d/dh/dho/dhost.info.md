@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dhost.info privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603043312id_/http%3A//dhost.info/content/view/17/30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhost.info privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121000232id_/http%3A//dhost.info/content/view/17/30) for the most accurate reproduction.*
 
 # DeluXe Host - 100MB Free Webspace - Privacy Policy
 
