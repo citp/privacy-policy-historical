@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pwinsider.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206001737id_/http%3A//www.pwinsider.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwinsider.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120203411id_/http%3A//www.pwinsider.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | PWInsider.com
 
@@ -15,3 +15,8 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 **IP Tracking**  
 Please note that we have a feature enabled that will allow us to deny the ability to view the page to specific IP addresses. This feature is enabled due to so many websites copying and pasting our work, stealing it and passing it off as their own. If we can get the IP address of someone who we know steals our work, we can then block that person from being able to read the site. It started due to a person named Bixenspan. Unfortunately, there are some seriously deranged wrestling fans out there. Please note that IP addresses are not collected or stored by PWInsider.com.
+
+Need a break from the head smashing, read this [new casino review of Pokies.com](http://www.australiancasinoclub.com/pokiescom.htm) and make up your own mind about whether real money online slots are your game.
+
+[](http://marylandwrestling.com/)  
+
