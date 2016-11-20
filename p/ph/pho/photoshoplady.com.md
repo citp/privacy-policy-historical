@@ -1,16 +1,23 @@
-> *The following text is extracted and transformed from the photoshoplady.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608002314id_/http%3A//www.photoshoplady.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoshoplady.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120074130id_/http%3A//www.photoshoplady.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Under [Articles](http://www.photoshoplady.com/photoshop-tutorial/category/articles/ "Articles")
 
+  
+\- [Photoshop](https://clk.tradedoubler.com/click?p=264355&a=2891660&g=22793566) is recommended for this tutorial -
+
 ## Privacy Policy of PotoshopLady.com
 
 The privacy of our visitors to **PhotoshopLady.com** is important to us. At **PhotoshopLady** **.com** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit **PhotoshopLady** **.com** , and how we safeguard your information. We never sell your personal information to third parties.
 
+ [](https://clk.tradedoubler.com/click?p=264355&a=2891660&g=22793598)
+
 #### Log Files
 
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocal) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+
+ [](https://clk.tradedoubler.com/click?p=264355&a=2891660&g=22793598)
 
 #### Cookies and Web Beacons
 
