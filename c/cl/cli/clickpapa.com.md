@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickpapa.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519145219id_/https%3A//clickpapa.com/pages/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickpapa.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120232217id_/http%3A//clickpapa.com/pages/support/privacy) for the most accurate reproduction.*
 
 # ClickPapa.com - Buy and Sell Traffic - Privacy
 
