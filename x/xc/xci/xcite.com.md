@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xcite.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608095944id_/http%3A//www.xcite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcite.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120223809id_/http%3A//www.xcite.com/privacy) for the most accurate reproduction.*
 
 # Xcite by Alghanim Electronics | Xcite's Privacy Policy
 
