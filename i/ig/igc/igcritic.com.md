@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igcritic.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529030422id_/http%3A//igcritic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igcritic.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120025817id_/http%3A//igcritic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IGCritic
 
@@ -20,7 +20,7 @@ IGCRITIC.COM reserves the right to use, store, provide or disclose personal info
 
 ## Children under the age of 13 years
 
-We do not encourage children to provide us with any personally identifiable information. We ask that children (12 years of age and under) do NOT submit any personal information to us. If you are a minor under the age of 13 years, please use our services only with the approval of, and under the supervision of your parents or legal guardian(s). We support the guidelines and regulatory requirements provided in the [Children’s Online Privacy Protection Act (COPPA)](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html).
+We do not encourage children to provide us with any personally identifiable information. We ask that children (12 years of age and under) do NOT submit any personal information to us. If you are a minor under the age of 13 years, please use our services only with the approval of, and under the supervision of your parents or legal guardian(s). We support the guidelines and regulatory requirements provided in the [Children’s Online Privacy Protection Act (COPPA)](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule).
 
 ## How do we protect visitor information?
 
