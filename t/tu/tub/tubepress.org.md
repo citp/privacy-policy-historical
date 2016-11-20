@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tubepress.org privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624043815id_/http%3A//tubepress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubepress.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120055051id_/http%3A//tubepress.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - TubePress
+# Privacy Policy – TubePress
 
 This Privacy Policy describes the policies and procedures of TubePress LLC and its affiliates (“TubePress”, “we”, “our” or “us”) on the collection, use and disclosure of your information, including any Personal Information (as below), on [tubepress.com](https://web.archive.org/) (the “Site”) and the services, features, content or applications we offer to users of our Site (collectively with the Site, the “Services” and/or the “Software”). This Privacy Policy, which is incorporated into and subject to the TubePress Terms of Service, does not apply to information our Subscribers or customers may collect about individuals when using our Site, our Services, or any other functionality, product, or service offered by TubePress.
 
