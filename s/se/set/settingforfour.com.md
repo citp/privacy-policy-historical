@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the settingforfour.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617074916id_/http%3A//www.settingforfour.com/about/disclosure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the settingforfour.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120170757id_/http%3A//www.settingforfour.com/about/disclosure-policy) for the most accurate reproduction.*
 
 # Privacy & Disclosure Policies - Setting for Four
 
@@ -43,6 +43,4 @@ To get your own policy, go to [http://www.disclosurepolicy.org](https://web.arc
 
 …..
 
-Don’t forget to [Subscribe to my blog](http://mad.ly/signups/109045/join%20) to get all of my FREE decor tips, fun DIY Projects, free art printables and yummy recipes!
-
-[](http://www.settingforfour.com/wp-content/uploads/2014/05/Subscribe-setting-for-four.png)
+Sign up to my Free newsletter and get your FREE decorating guide: Best Sources for Stylish Decor on a Budget!
