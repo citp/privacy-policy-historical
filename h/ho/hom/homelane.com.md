@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homelane.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325073045id_/http%3A//www.homelane.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homelane.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120015232id_/http%3A//www.homelane.com/privacypolicy) for the most accurate reproduction.*
 
 # Our Commitment, Information Security - HomeLane Policies India
 
