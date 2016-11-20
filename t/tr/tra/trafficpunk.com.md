@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trafficpunk.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509010200id_/http%3A//www.trafficpunk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficpunk.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120114745id_/http%3A//www.trafficpunk.com/privacy.php) for the most accurate reproduction.*
 
-# Manual Traffic Exchange, Increase Website Traffic - TrafficPunk.com
+# TrafficPunk - Free Traffic Generation and Website Promotion
 
 ### **When you provide us with personal information, it is handled according  to the following policy:**
 
