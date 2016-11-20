@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greycampus.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611050748id_/http%3A//www.greycampus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greycampus.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120200922id_/http%3A//www.greycampus.com/privacy-policy) for the most accurate reproduction.*
 
 # GreyCampus - Privacy policy
 
@@ -12,7 +12,7 @@ We also undertake not to make any individual or organization privy to the conten
 
 Despite the above, with respect to all users of our site, GreyCampus and its associates reserves the right to disclose any content, records, or electronic communication of any kind (including personal information transmitted through our site) in one or more of the following circumstance
 
-1\. To comply with any law, regulation, or government order under Indian jurisdiction;
+1\. To comply with any law, regulation, or government order;
 
 2\. If such disclosure is necessary to operate GreyCampus or any of its business units; and
 
