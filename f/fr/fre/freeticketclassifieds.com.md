@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeticketclassifieds.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422161758id_/http%3A//www.tickifieds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeticketclassifieds.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121002555id_/http%3A//www.tickifieds.com/privacy) for the most accurate reproduction.*
 
 # Tickifieds Privacy Policy
 
@@ -57,34 +57,34 @@ Ultimately, you are solely responsible for maintaining the secrecy of your passw
 If you have any enquiries or wish to provide feedback about this policy, please email [admin@tickifieds.com](mailto:admin@tickifieds.com).
 
   
-
+[](http://ztix.com/)
 
 ## Popular Events in this Category
 
 | Ad Title | Event Date [](http://www.tickifieds.com/sorting/modify/item_search-showhtmllist-20576/dir/a/attr/col_11)[](http://www.tickifieds.com/sorting/modify/item_search-showhtmllist-20576/dir/d/attr/col_11)  
 ---|---|---  
   
-[](http://www.tickifieds.com/mls/other_soccer_tickets/209880_liverpool_fc_vs__as_roma_tickets_fenway_park)
+[](http://www.tickifieds.com/nascar/225066_phoenix_international_raceway___quicken_loans_race_for_heroes_500_tickets)
 
-|  [**Liverpool FC vs. AS Roma Tickets Fenway Park**](http://www.tickifieds.com/mls/other_soccer_tickets/209880_liverpool_fc_vs__as_roma_tickets_fenway_park) |  Fri January 23, 2015   
-Soccer tickets for sale Liverpool FC vs. AS Roma Fenway Park Boston, MA, tickets available now at 123GetaTicket.com - use Promo Code ((( ChipShot ))) at checkout get some great tickets at bargain prices see The ...   
+|  [Phoenix International Raceway - Quicken Loans Race For Heroes 500 Tickets](http://www.tickifieds.com/nascar/225066_phoenix_international_raceway___quicken_loans_race_for_heroes_500_tickets) |  Tue November 15, 2016   
+NASCAR Sprint Cup Series: Quicken Loans Race For Heroes 500 Phoenix International Raceway Sun, Nov 15 2015, lots of great tickets on sale now and ready to ship, order early, NASCAR Sprint Cup Series: Quicken Loans ...   
   
-[](http://www.tickifieds.com/concerts_and_events/massachusetts/225221_justin_bieber_meet_and_greet_passes_for_sale)
+[](http://www.tickifieds.com/nascar/225065_phoenix_international_raceway___quicken_loans_race_for_heroes_500_tickets)
 
-|  [**Justin Bieber Meet and Greet Passes for Sale**](http://www.tickifieds.com/concerts_and_events/massachusetts/225221_justin_bieber_meet_and_greet_passes_for_sale) |  Tue May 10, 2016   
-Justin Bieber Meet and Greet Deluxe Package includes: Meet and Greet with Justin Bieber | Premium reserved floor ticket in first fifteen rows from stage (orders of three or more may be split) | Authentic ...   
+|  [Phoenix International Raceway - Quicken Loans Race For Heroes 500 Tickets](http://www.tickifieds.com/nascar/225065_phoenix_international_raceway___quicken_loans_race_for_heroes_500_tickets) |  Tue November 15, 2016   
+NASCAR Sprint Cup Series: Quicken Loans Race For Heroes 500 Phoenix International Raceway Sun, Nov 15 2015, lots of great tickets on sale now and ready to ship, order early, NASCAR Sprint Cup Series: Quicken Loans ...   
   
-[](http://www.tickifieds.com/concerts_and_events/michigan/224805_selena_gomez_tickets___palace_of_auburn_hills___6_24_2016)
+[](http://www.tickifieds.com/nascar/225064_phoenix_international_raceway___quicken_loans_race_for_heroes_500_tickets)
 
-|  [**Selena Gomez Tickets - Palace of Auburn Hills - 6/24/2016**](http://www.tickifieds.com/concerts_and_events/michigan/224805_selena_gomez_tickets___palace_of_auburn_hills___6_24_2016) |  Fri June 24, 2016   
-See Selena Gomez live from your seats in section 228 at Palace of Auburn Hills on 6/24/2016!! We have 2 premium tickets available in section 228 row 14 to see Selena Gomez at Palace of Auburn Hills on 6/24/2016. Be a ...   
+|  [Phoenix International Raceway - Quicken Loans Race For Heroes 500 Tickets](http://www.tickifieds.com/nascar/225064_phoenix_international_raceway___quicken_loans_race_for_heroes_500_tickets) |  Tue November 15, 2016   
+NASCAR Sprint Cup Series: Quicken Loans Race For Heroes 500 Phoenix International Raceway Sun, Nov 15 2015, lots of great tickets on sale now and ready to ship, order early, NASCAR Sprint Cup Series: Quicken Loans ...   
   
-[](http://www.tickifieds.com/nfl/afc/jacksonville_jaguars/210425_jacksonville_jaguars_tickets)
+[](http://www.tickifieds.com/concerts_and_events/illinois/226195_soldier_field_stadium_chicago___new_zealand_all_blacks_vs__ireland_tickets)
 
-|  [**Jacksonville Jaguars Tickets**](http://www.tickifieds.com/nfl/afc/jacksonville_jaguars/210425_jacksonville_jaguars_tickets) |  Tue August 09, 2016   
-Jacksonville Jaguars Tickets - Get ready the NFL season is almost here - order now for Preseason: Jacksonville Jaguars Vs. Tampa Bay Buccaneers Tickets - Jacksonville Jaguars 2014 season - Preseason: ...   
+|  [**Soldier Field Stadium Chicago - New Zealand All Blacks vs. Ireland Tickets**](http://www.tickifieds.com/concerts_and_events/illinois/226195_soldier_field_stadium_chicago___new_zealand_all_blacks_vs__ireland_tickets) |  Sat November 05, 2016   
+New Zealand All Blacks vs. Ireland rugby match at Soldier Field Stadium Chicago Sat, Nov 5 2016, order now have limited ticket supply, for Rugby tickets see 123GetaTicket - The Little Guys with Lots of Great Tickets ...   
   
-[](http://www.tickifieds.com/ncaa/other_ncaa/222282_2016_ncaa_men_s_basketball_tournament___final_four_tickets___houston__tx)
+[](http://www.tickifieds.com/concerts_and_events/illinois/226649_chicago_international_rugby__new_zealand_all_blacks_vs__ireland_tickets)
 
-|  [**2016 NCAA Men's Basketball Tournament | Final Four Tickets | Houston, TX**](http://www.tickifieds.com/ncaa/other_ncaa/222282_2016_ncaa_men_s_basketball_tournament___final_four_tickets___houston__tx) |  Sat April 02, 2016   
-2016 NCAA Men's Basketball Tournament Final Four Tickets, Final Four: All Sessions Pass Tickets, NRG Stadium Houston, TX - For NCAA Event Tickets make 123Getaticket your last stop, The Little Guys with Lots of ... 
+|  [**Chicago International Rugby: New Zealand All Blacks vs. Ireland Tickets**](http://www.tickifieds.com/concerts_and_events/illinois/226649_chicago_international_rugby__new_zealand_all_blacks_vs__ireland_tickets) |  Sat November 05, 2016   
+New Zealand All Blacks vs. Ireland rugby tickets, for Soldier Field Stadium Chicago Sat, Nov 5 2016, order early to get the best seats, for Rugby tickets and schedules see 123GetaTicket - bringing together fans and ... 
