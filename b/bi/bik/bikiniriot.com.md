@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikiniriot.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606171719id_/http%3A//www.bikiniriot.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikiniriot.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120015321id_/http%3A//www.bikiniriot.com/privacy.htm) for the most accurate reproduction.*
 
 # Bikini Riot Privacy Policy
 
