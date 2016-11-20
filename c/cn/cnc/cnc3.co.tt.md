@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnc3.co.tt privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609221544id_/http%3A//www.cnc3.co.tt/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnc3.co.tt privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120093802id_/http%3A//www.cnc3.co.tt/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CNC3
 
