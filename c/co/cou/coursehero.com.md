@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coursehero.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313221921id_/https%3A//www.coursehero.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coursehero.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120180159id_/https%3A//www.coursehero.com/privacy-policy) for the most accurate reproduction.*
 
 # Course Hero - Privacy Policy
 
@@ -158,4 +158,4 @@ Course Hero, Inc.
 1400B Seaport Blvd.  
 Redwood City, CA 94063  
 866-634-9397  
-support@coursehero.com 
+[support.coursehero.com](https://support.coursehero.com/)
