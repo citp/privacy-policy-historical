@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pantaloons.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616190322id_/http%3A//pantaloons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pantaloons.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120064215id_/http%3A//pantaloons.com/privacy-policy) for the most accurate reproduction.*
 
 # Pantaloons
 
@@ -77,3 +77,22 @@ By using our site, you consent to our privacy policy
 Changes to our Privacy Policy
 
 We may change these terms under Privacy Policy without notice. Continued use of this website indicates an acceptance to these terms and conditions herein and any subsequent changes that may be made from time to time. We recommend that the user / visitor visits these terms and conditions from time to time to understand and be fully aware of the user policy of this Website.
+
+Pujo Gift With Purchase Offer Terms & Conditions
+
+  * Offer valid at Pantaloons in West Bengal & Silchar from 2nd September -11th October, only 
+  * Shop, club your purchases & redeem offer is applicable only for Pantaloons Greencard Members.
+  * Only those transactions will be considered for this offer, where mobile number is provided before billing
+  * Select brands available at select stores
+  * Visit the customer service desk to avail branded gift entitlement after billing is completed
+  * Redemption Bills containing Gifts article will not be considered for cumulative shopping
+  * No two offers can be clubbed together, on Pantaloons exclusive brands.
+  * Offer clubbing permitted for Pantaloons partner brands covering apparel, cosmetics, watches, footwear, handbags and fashion accessories.
+  * Greencard members can continue to earn and redeem points even during the offer period. 
+  * Partial redemption of Credit Note not allowed on bills containing gift with purchase articles.
+  * Unutilized purchase entitlement will lapse once a gift has been availed of
+  * Offer is valid till gift stocks last
+  * Unutilized purchase entitlement will lapse once a gift has been availed of
+  * Only One Gift can be redeemed at one time
+
+
