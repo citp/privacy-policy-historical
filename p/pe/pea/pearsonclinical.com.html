@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pearsonclinical.com privacy policy that was archived on 2016-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160531030724id_/http%3A//www.pearsonclinical.com/legal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pearsonclinical.com privacy policy that was archived on 2016-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120174716id_/http%3A//www.pearsonclinical.com/legal/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en-US" class="no-js"><!--<![endif]--><head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -150,6 +150,25 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 
 
 
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+
+
+
+
+
+
 <div class="securityContext security">
 
 
@@ -157,7 +176,6 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 
 
 </div>
-
 
 
 <div class="clinicalPageWrap clinicalFullPageWidth clinicalPageTopNav">
@@ -269,7 +287,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
         <dd>
             <ul>
                 <li><a href="#"><img class="flag" src="/content/dam/ani/clinicalassessments/us/flags/au.png"> Australia<span class="value">http://pearsonpsychcorp.com.au</span></a></li>
-                <li><a href="#"><img class="flag" src="/content/dam/ani/clinicalassessments/us/flags/br.png"> Brazil<span class="value">http://www.casadopsicologo.net/casadopsicologo</span></a></li>
+                <li><a href="#"><img class="flag" src="/content/dam/ani/clinicalassessments/us/flags/br.png"> Brazil<span class="value">https://www.casadopsicologo.com.br/</span></a></li>
                 <li><a href="#"><img class="flag" src="/content/dam/ani/clinicalassessments/us/flags/ca.png"> Canada<span class="value">http://psychcorp.ca</span></a></li>
                 <li><a href="#"><img class="flag" src="/content/dam/ani/clinicalassessments/us/flags/dk.png"> Denmark<span class="value">http://www.pearsonassessment.dk</span></a></li>
                 <li><a href="#"><img class="flag" src="/content/dam/ani/clinicalassessments/us/flags/fr.png"> France<span class="value">http://ecpa.fr</span></a></li>
@@ -345,7 +363,7 @@ checkCookie();
 
 
 <li class="firstInList">
-    <a href="/" title="Home">Pearson Clinical Home</a>
+    <a href="/support/training/prodev-training-consultation.html" title="Training">Training</a>
 </li>
 
 
@@ -360,13 +378,6 @@ checkCookie();
 
 <li class="item">
     <a href="/ordering.html" title="Ordering">Ordering</a>
-</li>
-
-
-
-
-<li class="item">
-    <a href="/about.html" title="About">About</a>
 </li>
 
 
@@ -462,10 +473,10 @@ jQuery(document).ready(function() {
 
             </div>
             <div class="clinicalTopNavButtonWrap clinicalTopNavButtonWrapAccount">
-                <a href="/account/myaccount.html" class="peBtn btnIcons-account" id="myAccountLink" title="My Account" data-key="/content/ani/clinicalassessments/us/en/account/myaccount.html">
+                 <a href="/account/myaccount.html" class="peBtn btnIcons-account" id="myAccountLink" title="Sign&nbsp;In/Account" data-key="/content/ani/clinicalassessments/us/en/account/myaccount.html">
                     <span class="buttonLeftIcon">
                         <span class="buttonRightIcon">
-                            <span class="buttonText">My Account</span>
+                            <span class="buttonText">Sign&nbsp;In/Account</span>
                         </span>
                     </span>
                 </a>
@@ -619,6 +630,24 @@ jQuery(document).ready(function() {
 
                
             <div class="orderByProduct orderByProd">
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+
+
+
+
+
 
 
 
@@ -813,6 +842,9 @@ function orderByProductFormSubmit(){
                     if (/cart.html/.test(window.location.href)) {
                         window.location.replace("cart.html");
                     }
+                    else if (/checkout.forward.html/.test(window.location.href)||/checkout.html/.test(window.location.href)) {
+                        window.location.replace("/cart.html");
+                    }
                     jQuery('#orderByProductNumberPopError').hide();
                     jQuery('#orderPop').hide();
                     retrieveCartCount();
@@ -836,14 +868,18 @@ padding-right: 10px;
 }
 </style>
 
-<div class="orderByWrapper floatRight w30percent">
+<div class="orderByWrapper floatRight">
    <div class="clinicalTopNavOrderProducts clinicalTopNavLinkList textRight">
-      <ul class="horizontalList" id="orderByProduct">
-         <li class="lastInList bold">
-             <a class="linkWithArrow colorPrimary" href="/search/orderByProduct.html" onclick="javascript: displayOrderByProduct(); customLinkTrack('Order by Product Number');return false;" title="Order by Product Number">Order by Product Number
-             </a>
-         </li>
-      </ul>
+		<div class="floatRight">
+			<div class="floatLeft bold">
+	             <a class="linkWithArrow colorPrimary" href="/ordering/order-status.html" title="Check Order Status">Check Order Status
+	            </a>&nbsp;&nbsp;&nbsp;&nbsp;
+	          	</div>
+	             <div class="floatLeft bold">
+	         	  	<a class="linkWithArrow colorPrimary" href="/search/orderByProduct.html" onclick="javascript: displayOrderByProduct(); customLinkTrack('Order by Product Number');return false;" title="Order by Product Number">Order by Product Number
+	           	</a>
+			</div>
+		</div>
       <div class="topNavPopUpHolder posRel">
          <div class="topNavPopUpWrap posAbsolute" id="orderPop" style="display: none;">
             <div class="topNavPopUp">
@@ -1179,6 +1215,13 @@ jQuery(window).load(function(){
 
 
 <li class="firstInList">
+    <a href="/about.html" title="About">About</a>
+     | 
+</li>
+
+
+
+<li class="item">
     <a href="/contact/permissions.html" title="Permissions and Licensing">Permissions and Licensing</a>
      | 
 </li>
