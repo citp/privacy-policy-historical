@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ammoseek.com privacy policy that was archived on 2016-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160204145349id_/http%3A//ammoseek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ammoseek.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121003226id_/http%3A//ammoseek.com/privacy.html) for the most accurate reproduction.*
 
 # Ammoseek.com Privacy Policy
 
-[Find Ammo](https://web.archive.org/)  |  [Help](https://web.archive.org/help/)  |  [About AmmoSeek](https://web.archive.org/about.html)  |  [Contact Us](https://web.archive.org/contact/)  |  [Store](https://web.archive.org/store/)  |  [Certified Retailers](https://web.archive.org/acr.html)  |  [Advertise](https://web.archive.org/advertising.html)  |  [FAQ](https://web.archive.org/faq.html)  |  [Friends](https://web.archive.org/friends.html)  |  [Deals & Coupons](https://web.archive.org/deals/)
+[Find Ammo](https://web.archive.org/)  |  [Help](http://help.ammoseek.com/)  |  [About AmmoSeek](https://web.archive.org/about.html)  |  [Contact Us](https://web.archive.org/contact/)  |  [Store](https://web.archive.org/store/)  |  [Certified Retailers](https://web.archive.org/acr.html)  |  [Advertise](https://web.archive.org/advertising.html)  |  [FAQ](https://web.archive.org/faq.html)  |  [Friends](https://web.archive.org/friends.html)  |  [Deals & Coupons](https://web.archive.org/deals/)
 
 ## AmmoSeek Privacy Policy
 
