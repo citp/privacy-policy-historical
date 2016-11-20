@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onesimcard.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608150932id_/http%3A//www.onesimcard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onesimcard.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120134015id_/http%3A//www.onesimcard.com/privacy-policy) for the most accurate reproduction.*
 
 # OneSimCard - Privacy Policy
 
@@ -31,12 +31,19 @@ In two basic ways:
 
   * You provide it to us when you make a purchase or set up an account with us.
   * Some information is automatically collected when you use our products and services. For example, network tools are used to collect your call records which you can later review from your account; and we also use cookies and other technologies some provided to us by third parties to learn about your experience with our website.
+  * To collect information in connection with the Google Trusted Stores program, cookies can be placed and read on End Users’ browsers; web beacons or similar technologies may also be used.
 
 
 
 ## How the collected information is used?
 
 We use your information to improve customer experience and our services. Some examples include: providing customer & technical support; delivering customized content and relevant advertising; communicating service updates and special offers (please see “Communications from the website" section below); maintaining systems security; ensuring quality control; conducting research and development for improving our services; preventing illegal activities like fraud and other potential threats to our systems.
+
+## Managing cookies in your browser
+
+Most modern browsers provide the ability to manage cookies according to user needs. You can even set up rules to manage cookies on a site-by-site basis, giving you more fine-grained control over your privacy. What this means is that you can disallow cookies from all sites except those that you trust.
+
+In order to use OneSimCard services, cookies need to be enabled in your browser.
 
 ## Amendments to Our Privacy Policy
 
@@ -55,6 +62,7 @@ Company news, service updates and special offers are sent out to those who opted
   * **From a promotional email:**  Click on the unsubscribe link which is included in every promotional email.
   * **From your OneSimCard web account:**  Uncheck "Email me updates about OneSimCard" box from My Info page in your web account.
 
+  
 
 
 ## Important Service Announcements
