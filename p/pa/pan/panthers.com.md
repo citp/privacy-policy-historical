@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panthers.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229141750id_/http%3A//www.panthers.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panthers.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120102022id_/http%3A//www.panthers.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Carolina Panthers | Privacy Policy
 
@@ -10,11 +10,7 @@ _Effective Date: October 9, 2014_
 
 [](https://privacy.truste.com/privacy-seal/National-Football-League/validation?rid=fbec2b3a-050b-478b-bdb3-862b958ee861 "TRUSTe online privacy certification") Panthers Football LLC ("we," "our," "us") respects your privacy and values your trust and confidence. This privacy policy (the "Privacy Policy") applies to our website - www.panthers.com, our mobile applications and online services that link to or post this Privacy Policy (collectively, the "Services") and explains how we collect, use and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy. Please note that this Privacy Policy does not apply to any information that is collected or obtained through sites or services that do not link to this Privacy Policy (including the Team Shop) or information collected by the NFL or the other NFL member clubs (the "Member Clubs").
 
-Panthers Football LLC received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
-
-The TRUSTe program covers only information that is collected through this website - www.panthers.com - and our mobile applications.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
   1. [Information Collection](http://www.panthers.com/about-us/privacy-policy.html#1)
   2. [Use Of Information](http://www.panthers.com/about-us/privacy-policy.html#2)
