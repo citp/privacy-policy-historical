@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontcapture.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604070651id_/http%3A//www.yourfonts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontcapture.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120142344id_/http%3A//www.yourfonts.com/privacy.html) for the most accurate reproduction.*
 
 # YourFonts - Privacy Policy
 
@@ -64,11 +64,11 @@ Subscribe to our [newsletter](https://web.archive.org/newsletter.html) or follow
 **User Quotes ([view all quotes](https://web.archive.org/quotes.html))**  
 ---  
   
-“I cannot express to you how rewarding the experience of creating this font has been! I had admired my late aunt's handwriting from childhood, as did my other siblings. Through your service, I was able to re-create our beloved aunt's handwriting for all of us to share, and use. It is like communicating with her in the hereafter. My deepest thanks!”
+“My G'Ma passed about 6 months ago. She was remembered by all for the letters she wrote to others. Her eulogy was called Letters From Virginia. I spend over a month cutting and pasting individual letters of the alphabet to create a font name G'Ma. As I sit here in tears of joy (and tears of missing her), I now can see her writings whenever I want. Thank you for making this happen. I can't...” [more]
 
-####  **Kirby Timmons**
+#### **Holly Sandy**
 
-October 17, 2014  
+December 22, 2014  
   
 Add [your opinion](https://web.archive.org/contact.html) about YourFonts.com. 
 
