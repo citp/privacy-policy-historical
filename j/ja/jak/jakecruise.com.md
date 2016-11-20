@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jakecruise.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625020556id_/http%3A//www.jakecruise.com/general/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jakecruise.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120025745id_/http%3A//www.jakecruise.com/general/privacy.php) for the most accurate reproduction.*
 
 # Jake Cruise: Jake Cruise with Leo Giamani, Zeb Atlas and more
 
