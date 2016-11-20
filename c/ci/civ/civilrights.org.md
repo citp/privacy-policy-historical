@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the civilrights.org privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607161125id_/http%3A//www.civilrights.org/about/civilrights/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civilrights.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120022330id_/http%3A//www.civilrights.org/about/civilrights/privacy) for the most accurate reproduction.*
 
 # Privacy and Security Policy
 
