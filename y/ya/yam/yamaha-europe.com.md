@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yamaha-europe.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609215402id_/http%3A//europe.yamaha.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yamaha-europe.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120015126id_/http%3A//europe.yamaha.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Yamaha - Other European Countries
 
@@ -32,7 +32,7 @@ The IP address sent by your browser for Google Analytics will not be merged with
 
 Alternatively, you can also prevent Google Analytics from collecting data by clicking on the following link. This creates an opt-out cookie, which stops your data being collected in the future when you visit this website: Deactivate Google Analytics. The opt-out cookie applies only to this browser and only to this domain. If you delete your cookies in this browser, you will need to click this link again. 
 
-For more information on this, please see [tools.google.com/dlpage/gaoptout](https://web.archive.org/web/20160609215402id_/http://europe.yamaha.com/en/privacy_policy/tools.google.com/dlpage/gaoptout) and <https://www.google.de/intl/de/policies/> (general information on Google Analytics and data protection). See [www.google.com/privacy/privacy-policy.html](http://www.google.com/privacy/privacy-policy.html) for further information. 
+For more information on this, please see [tools.google.com/dlpage/gaoptout](https://web.archive.org/web/20161120015126id_/http://europe.yamaha.com/en/privacy_policy/tools.google.com/dlpage/gaoptout) and <https://www.google.de/intl/de/policies/> (general information on Google Analytics and data protection). See [www.google.com/privacy/privacy-policy.html](http://www.google.com/privacy/privacy-policy.html) for further information. 
 
 **Newsletter**  
 Our newsletter provides you with information about our products, promotions, campaigns and news. 
