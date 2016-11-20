@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestwindows10apps.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517162002id_/http%3A//bestwindows10apps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestwindows10apps.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120191745id_/http%3A//bestwindows10apps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Best Windows 10 Apps
 
