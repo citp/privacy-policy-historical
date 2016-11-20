@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brooklynpapers.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515084305id_/http%3A//www.brooklynpaper.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooklynpapers.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120170507id_/http%3A//www.brooklynpaper.com/about/privacy) for the most accurate reproduction.*
 
-# The Brooklyn Paper: Privacy Policy
+# Brooklyn Paper: Privacy Policy
 
 Privacy Policy  
 Effective: 3/5/2014  
@@ -17,7 +17,7 @@ CONTACT US
 
 ### 1\. INTRODUCTION
 
-News Community Newspapers Holdings, Inc., (“CNG” or “we”) wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications (“apps”), and widgets (collectively, the “CNG Services”). By using CNG Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies (“CNG Affiliates”) is available at <http://newscorp.com/about/our-businesses/>. 
+Community News Group, LLC., (“CNG” or “we”) wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications (“apps”), and widgets (collectively, the “CNG Services”). By using CNG Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies (“CNG Affiliates”) is available at <http://newscorp.com/about/our-businesses/>. 
 
 As set forth in our Terms of Use [link], the CNG Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age. 
 
