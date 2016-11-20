@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yellowpages.co.za privacy policy that was archived on 2016-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160606221807id_/http%3A//www.yellowpages.co.za/page/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yellowpages.co.za privacy policy that was archived on 2016-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120082456id_/http%3A//www.yellowpages.co.za/page/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" desktop js no-touch csstransitions"><head>
     <meta charset="utf-8">
@@ -28,10 +28,10 @@
 
     <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,700">
-    <link rel="stylesheet" href="/assets/css/screen.css?cb=646">
+    <link rel="stylesheet" href="/assets/css/screen.css?cb=703">
 
 
-    <script type="text/javascript" async="" src="https://za-ssl.effectivemeasure.net/em.js"></script><script id="hs-analytics" src="//js.hubspot.com/analytics/1582528500000/216320.js"></script><script type="text/javascript" async="" src="https://ssl.google.com/js/plusone.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+    <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://za-ssl.effectivemeasure.net/em.js"></script><script id="hs-analytics" src="//js.hubspot.com/analytics/1582528500000/216320.js"></script><script type="text/javascript" async="" src="https://ssl.google.com/js/plusone.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
         // break out of iframes
         //if (top.location != self.location) {
         //	top.location = self.location.href
@@ -42,9 +42,8 @@
             <script src="/Assets/js/vendor/respond.min.js"></script>
         <![endif]-->
     <!--[if lt IE 9]>
-			<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-		<![endif]-->
-
+            <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
     <!--Google maps-->
     <!--<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?client=gme-trudonptyltd&v=3.17&channel=iyp3"></script>-->
     <!-- Start Google Analytics / Plusone -->
@@ -127,7 +126,7 @@
         <div class="topBar">
             
             <div class="center">
-               
+
 
 
                 <a href="/" class="logo" title="yellowpages - local reliable results" data-icon=""></a>
@@ -149,7 +148,7 @@
                                     <a class="tourBtn">Take a tour through the new Yellow Pages →</a>
             </div>
 
-            </div>
+        </div>
 
         
 
@@ -284,6 +283,7 @@
         </div>
     </div>
 </div>
+
 <div id="cancelationModal" class="modal">
     <a class="modalCloseBtn" data-icon=""></a>
     <h4><b>Cancel Listing</b></h4>
@@ -313,7 +313,17 @@
     </div>
 </div>        </div>
     </div>
-    
+    <script type="text/javascript">
+    showUploadedPhoto = function (event) {
+        var reader = new FileReader();
+        reader.onload = function () {
+            $('#photoHolder').html('<img width="80px" height="80px" id="output"/>')
+            var output = document.getElementById('output');
+            output.src = reader.result;
+        };
+        reader.readAsDataURL(event.target.files[0]);
+    };
+</script>
 <div class="footer">
     <div class="center">
         <ul class="footerLinks">
@@ -367,6 +377,7 @@
                     <li><a href="https://plus.google.com/u/0/109738112538327183013" data-icon="" rel="nofollow" target="_blank"></a></li>
                     <li><a href="https://www.youtube.com/channel/UCcCVVS5ICcbUqK1YIi-cmmw" data-icon="" rel="nofollow" target="_blank"></a></li>
                     <li><a href="http://www.tripadvisor.co.za/" rel="nofollow" target="_blank"><img src="/assets/img/ta_home_logo.png" alt="" width="100px"></a></li>
+                    <li><a href="https://www.instagram.com/yellowpagessa/" rel="nofollow" target="_blank"><img src="/assets/img/instagram.png" alt="" width="25px"></a></li>
                     
                     
                 </ul>
@@ -458,7 +469,7 @@
 
 
 
-<input name="__RequestVerificationToken" type="hidden" value="57ZneYC7Q0N_IN-bPSS88sRUpCZxPM906BMW137yap8xxJhZxmUbuxOyC78yjcnxv6P49cIOBjTXnv_1f_8hrDVekanUvHAqT5zoQJ6uKQY1">                                <div id="locationValidate"></div>
+<input name="__RequestVerificationToken" type="hidden" value="F-jPoI7T1nv9H_J3YJtzoztgkaTbawrEAw3zsghOwBN8xzpNpRS3WLFy5EaIskNZr4eHm1KOaXhyMaEYOJmckqBfmVx-12OjRLgCUWsLyEc1">                                <div id="locationValidate"></div>
                                 <div id="searchFormQ">
                                     <input type="search" placeholder="Location" id="whereFieldQ" class="whereFieldQ require standardtxt" name="location">
                                 </div>
@@ -482,6 +493,7 @@
                     <img style="height: 25px; margin-bottom: -5px;" src="/Assets/img/number2.png">&nbsp;Please Specify Your Need?
                 </h3>
                 <div style="max-height: 300px; overflow: auto;">
+                    <div class="qLocatonValidate"></div>
                     <div id="keyWordvals">
                         <input style="padding: 1px 2px 64px 0px;" class="quoteKeyword" type="checkbox">
                     </div>
@@ -489,7 +501,16 @@
                     <br>
                 </div>
                 <h3>
-                    <img style="height: 25px; margin-bottom: -5px;" src="/Assets/img/number3.png">&nbsp;Specify Your Urgency
+                    <img style="height: 25px; margin-bottom: -5px;" src="/Assets/img/number3.png">&nbsp;Additional Comments
+                </h3>
+                <div>
+                    <textarea id="txtComments" style="height: 90px; padding: 1px 2px 64px 0px;" placeholder="Additional comments" rows="3" class="standardtxt"></textarea>
+                    <br>
+                    <br>
+                    <input type="hidden" id="txtNotes" placeholder="I would like to be quoted on:" readonly="readonly" rows="3" class="standardtxtArea">
+                </div>
+                <h3>
+                    <img style="height: 25px; margin-bottom: -5px;" src="/Assets/img/number4.png">&nbsp;Specify Your Urgency
                 </h3>
                 <div>
                     <select id="UrgencyValue" class="standardtxt">
@@ -505,15 +526,7 @@
                     </div>
 
                 </div>
-                <h3>
-                    <img style="height: 25px; margin-bottom: -5px;" src="/Assets/img/number4.png">&nbsp;Additional Comments
-                </h3>
-                <div>
-                    <textarea id="txtComments" style="height: 90px; padding: 1px 2px 64px 0px;" placeholder="Additional comments" rows="3" class="standardtxt"></textarea>
-                    <br>
-                    <br>
-                    <input type="hidden" id="txtNotes" placeholder="I would like to be quoted on:" readonly="readonly" rows="3" class="standardtxtArea">
-                </div>
+               
 
                 <h3><img style="height: 25px; margin-bottom: -5px;" src="/Assets/img/BUTTON5.png">&nbsp;Attach File</h3>
                 <div>
@@ -588,7 +601,7 @@
     </fieldset>
 </div>
 
-<div id="emailModal" style="height: 350px; margin-left: -300px; width: 600px;" class="modal">
+<div id="emailModal" style="height: 350px;width: 600px;" class="modal">
     <a class="modalClose" data-icon=""></a>
     <h4>quotation preview</h4>
     <input type="hidden" id="businessMasterId">
@@ -613,7 +626,7 @@
             </p>
         </div>
         <input id="hiddenOtpValue" type="hidden" class="standardtxt">
-        <a class="btn" id="btnSubmitQuote">Submit</a> <a class="btn" id="btnQuoteCancel">Make Changes</a>
+        <a class="btn" id="btnSubmitQuoteX">Submit</a> <a class="btn" id="btnQuoteCancel">Make Changes</a>
     </div>
     <div id="quoteMessagelogIn"></div>
 </div>
@@ -621,6 +634,69 @@
     <a class="modalClose" data-icon=""></a>
     <h4>INSIGHT</h4>
     <img style="margin-left: -20px; width: 390px; height: 150px;" src="/Assets/img/saver.png">
+</div>
+
+
+<div id="reviewModal" class="modal">
+    <a class="modalClose" data-icon=""></a>
+    <h4><span data-icon=""></span>Write a review</h4>
+    <p>Rating</p>
+    <div class="rateResponse ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom ui-accordion-content-active" id="ui-id-10" aria-labelledby="ui-id-9" role="tabpanel" aria-hidden="false" style="display: block;float:left !important;">
+        <input id="star5" type="radio" name="ratingCompany" value="5"><label id="5" class="starRate" for="star5" title="Rocks!">5</label>
+        <input id="star4" type="radio" name="ratingCompany" value="4"><label id="4" class="starRate" for="star4" title="Pretty good">4</label>
+        <input id="star3" type="radio" name="ratingCompany" value="3"><label id="3" class="starRate" for="star3" title="Meh">3 </label>
+        <input id="star2" type="radio" name="ratingCompany" value="2"><label id="2" class="starRate" for="star2" title="Kinda bad">2 </label>
+        <input id="star1" type="radio" name="ratingCompany" value="1"><label class="starRate" id="1" for="star1" title="Sucks big time">5</label>
+    </div>
+    
+    <br><br>
+    <div>
+        <p>Review</p>
+        <textarea id="iypReviewComments" style="height:125px;" class="standardtxt" placeholder="Comments"></textarea>
+    </div>
+    <input type="hidden" id="reviewDocID">
+    <input id="submitIYPReview" type="submit" class="btn" style="margin-top:5px;margin-left:260px" value="SUBMIT">
+</div>
+
+
+<div id="enrollModal" class="modal">
+    <a class="modalClose" data-icon=""></a>
+    <h4><span data-icon=""></span>Enroll a student</h4>
+    <h5><span id="studentCount"></span> student(s) have been enrolled to <span id="fetBusiness"></span></h5>
+            <br>
+            <p>Student Information</p>
+
+            <!--Name-->
+            <div style="color: red;font-size:small" id="snameValidate" class="fetValidate"></div>
+             <input id="studentName" placeholder="Name" class="require standardtxt fetClearable">
+
+            <br>
+            <br>
+            <!--Email-->
+             <div style="color: red;font-size:small" id="susernameValidate" class="fetValidate"></div>
+            <input id="studentEmail" placeholder="Email" type="email" class="require  UNAME standardtxt fetClearable">
+            <!--Phone -->
+            <br>
+            <br>
+            <div style="color: red;font-size:small" id="sphoneValidate" class="fetValidate"></div>
+    <input id="studentPhone" placeholder="Cell Number" class="require standardtxt fetClearable">
+    
+            <p>Student Photo</p>
+            <div style="color: red;font-size:small" id="sfileValidate" class="fetValidate"></div>
+            <div id="photoHolder" style="height:90px;"></div>
+            
+                <p>
+                    <input type="file" onchange="showUploadedPhoto(event)" name="FileUpload" id="fetUpload" style="width: 100%" accept=".txt,.jpg,.pdf,.doc,.docx,.xls,.xlsx,.png,.bmp,.tif">
+                </p>
+            
+
+        <input type="hidden" id="fetMasterID">
+        <input type="hidden" id="fetAdmin">
+         <div id="validateStudents" style="color: red;font-size:small;display:block;float:none;width:100%" class="fetValidate"></div>
+        <input type="submit" value="Submit" id="submitStudent" class="btn " style="float:right;">
+        <input type="button" value="Save" id="saveStudent" class="btn " style="float:left;">
+    
+        
 </div>
 
 <div id="replyModal" class="modal">
@@ -772,460 +848,1391 @@
     <a class="freeCallBtn btn">Send</a>
     <a class="eishButtonFreeCall btn">Eish Number</a>
 </div>
-
-<div id="cancelListingModal" class="cancelListingModal modal modalBackground">
-    <a class="modalClose" data-icon=""></a>
-
-    <h4><span data-track="subId"></span><span data-track="companyname"></span><br>Cancel Listing</h4>
-    <h2 class="WhiteHeading">Select Products To Cancel</h2>
-    <div class="productcancelItemCodes">
-        <table border="0" class="sortedtable productTable cancelListingTable1">
-            <thead>
-                <tr class="sortHeadings HeadingsBorder">
-                    <th><b>Select Product</b></th>
-                    <th>
-                        <b>ProductType</b>
-                        <select name="mydropdown" id="time" class="productList dropDownStyle" style="width: 50px;"></select>
-                    </th>
-                    
-                    <th>
-                        <b>UDACADVERTCODE</b>
-                        <select name="mydropdown" id="time" class="itemList dropDownStyle" style="width: 50px;" hidden=""></select>
-                    </th>
-
-                    <th><b>Location</b></th>
-                    <th><b>Description/Classification</b></th>
-                    <th><b>Edition/Book</b></th>
-                    
-                    <th><b>MonthlyPrice</b></th>
-                </tr>
-            </thead>
-            <tbody class="productsBody"></tbody>
-        </table>
-        <br>
-
-        <table border="0" class="sortedtable priceTable cancelListingTable2">
-            <thead>
-                <tr class="sortHeadings HeadingsBorder">
-                    <th><b></b>
-                    </th><th><b>MONTHLY AMOUNT</b></th>
-                    <th><b>ANNUAL AMOUNT</b></th>
-                </tr>
-            </thead>
-            <tbody class="priceBody"></tbody>
-        </table>
-
-
-    </div>
-    <br>
-    <a class="viewContractButton btn newBtn" href="" target="_blank">View Contract</a>
-    <a class="nextcancelListingButton btn newBtn">Next  &gt;&gt;</a>
+<div id="contractModal" class="contractModal modal modalBackground">
     
-    <input type="hidden" id="cancelItemsHidden" name="cancelItemsHidden">
-    <input type="hidden" id="productsCollection" name="productsCollection">
-    <input type="hidden" id="subscriberId" name="subscriberId">
-    <input type="hidden" id="userRole" name="userRole">
-    <div id="preResults"></div>
-</div>
-<div id="submitcancelListingModal" class="submitcancelListingModal modal modalBackground">
-    <a class="modalClose" data-icon=""></a>
-    <h4><span data-track="subId"></span><span data-track="companyname"></span><br>Cancel Listing</h4>
-    <h2 class="WhiteHeading">Confirm Products To Cancel</h2>
-    <div class="listingItemCodes">
-        <table border="1" class="sortedtable displayTable cancelListingTable1 HeadingsBorder">
-            <thead>
-                <tr class="sortHeadings gradient">
-                    <th>
-                        <b>ProductType</b>
-
-                    </th>
+    <div id="sllider"></div>
+    <a class="customModalClose closeContract" data-icon=""></a>
+    <h4><span data-track="subId"></span><span data-track="companyname"></span><br>Contract Module</h4>
+    <div class="acc-section">
+        <div class="acc-content">
+            <div class="tabs" style="margin-left: auto">
+                <ul class="eishTabs">
+                    <li data-tab=".activeTab" class="help active" title="" data-original-title="View or Cancel Active Products">Active Products</li>
                     
-                    <th>
-                        <b>UDACADVERTCODE</b>
+                </ul>
+                <div class="activeTab tab">
+                    <div id="activeGroup" class="card">
+                        <div class="front">
+                            <div class="frontfirst">
+                                <div class="button_container">
+                                    
+                                    <button class="btn btnUpsellContract btnUpsell" id="btnSale" style="display:none;">UP Sell</button>
 
-                    </th>
-
-                    <th><b>Location</b></th>
-                    <th><b>Description/Classification</b></th>
-                    <th><b>Edition/Book</b></th>
-                    
-                    <th><b>MonthlyPrice</b></th>
-                </tr>
-            </thead>
-            <tbody class="displayBody"></tbody>
-        </table>
-    </div>
-    <br>
-    <h3 class="whiteText">Give a reason for Cancelation</h3>
-    <input id="cancelReason" name="cancelReason" placeholder="Reason" class="reasonField" style="width:29.4%; font-size:12px;">
-    <br>
-    <h3 class="whiteText">Add a comment for Cancelation</h3>
-    <textarea id="txtCommentReason" rows="15" class=" trudonspaceissuetextarea commentField fieldScale" placeholder="Comments" required="required"></textarea>
-    <div class="nsaUploadSingedContract">
-        <h2 class="whiteText">Upload Supporting Documents</h2>
-        <input type="file" class="btn newBtn1" name="FileUpload[]" id="nsaUploadSignedContract" multiple="" data-track="nsaFileUploadSignedContract" title="Upload only excel, acrobat reader, word or picture documents."><br>
-        
-    </div>
-    <a class="backcancelListingButton btn newBtn1">&lt;&lt;  Back  </a><br>
-    <a class="createcancelEishButton btn newBtn2" hidden="">Create Cancelation Request</a>
-    <a class="cancelListingButton btn newBtn2">Submit Cancelation</a>
-    <input type="hidden" name="nsaCancelFreeCallSubId" id="nsaCancelFreeCallSubId">
-    <input type="hidden" id="cancelItems" name="cancelItems">
-    <input type="hidden" id="selectedProducts" name="selectedProducts">
-    <div id="results"></div>
-</div>
-<div id="shopViewModal" class="shopViewModal modal">
-    <a class="modalClose" data-icon=""></a>
-    <h4>Shop View Gallery</h4>
-    <div class="shopViewContainer">
-        <iframe frameborder="0" id="shopViewIframe" class="shopViewIframe"></iframe>
-    </div>
-</div>
+                                    <button class="btn btnStraightRepeat" id="btnStraightRepeat" data-type="online" style="display:none;">Submit Straight Repeat</button>
+                                    
+                                    <button class="nextcancelListingButton btn" href="#">Next  &gt;&gt;</button>
+                                    <button class="viewContractButton btn" href="#" target="_blank">View Contract</button>
 
 
+                                </div>
+                                <br>
+                                
+                                <div class="firstcancelItemCodes">
+                                    <div id="contractTableContent" class="productcancelItemCodes">
+                                        <div class="contractTableDiv">
+                                            <table border="0" class="sortedtable productTable cancelListingTable1">
+                                                <thead>
+                                                    <tr class="sortHeadings HeadingsBorder">
+                                                        <th>
+                                                            <b>Remove Product</b>
+                                                            <br><b>All</b><br>
+                                                            <span><input type="checkbox" id="allchkFilters"></span>
+                                                        </th>
+                                                        <th>
+                                                            <b>ProductType</b>
+                                                            <select name="mydropdown" id="time" class="productList dropDownStyle" style="width: 50px;"></select>
+                                                        </th>
+                                                        
+                                                        <th>
+                                                            <b>UDAC</b>
+                                                            <select name="mydropdown" id="time" class="itemList dropDownStyle" style="width: 50px;" hidden=""></select>
+                                                        </th>
+
+                                                        <th><b>Location</b></th>
+                                                        <th><b>Description </b></th>
+                                                        <th><b>Edition/Book</b></th>
+                                                        <th><b>Canvass Code/Edition</b></th>
+                                                        
+                                                        <th><b>MonthlyPrice</b></th>
+                                                        <th><b>Product Status</b></th>
+                                                        <th><b>Change Advert</b></th>
+                                                        <th><b>View Advert</b></th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody class="productscancelListingBody"></tbody>
+                                            </table>
+                                        </div>
+                                        <br>
+
+                                        <table border="0" class="sortedtable priceTable cancelListingTable2">
+                                            <thead>
+                                                <tr class="sortHeadings HeadingsBorder">
+                                                    <th><b></b>
+                                                    </th><th><b>MONTHLY AMOUNT</b></th>
+                                                    <th><b>ANNUAL AMOUNT</b></th>
+                                                </tr>
+                                            </thead>
+                                            <tbody class="priceBody"></tbody>
+                                        </table>
+
+                                        <div class="divhundred spinner canelSpinner" style="display:table;margin:0 auto;">
+                                            <img src="/Assets/img/loading-spinner.gif">
+                                        </div>
+
+                                    </div>
+                                    <div id="preResults"></div>
+                                </div>
+                           
+
+                                <br>
+                                <input type="hidden" id="docidHidden">
+                                <input type="hidden" id="cmpNameHidden">
 
 
-<div id="dealsViewModal" class="dealsViewModal modal">
-    <a class="modalClose" data-icon=""></a>
-    <h4>Click to Claim Offer</h4>
-    <div class="dealsViewContainer">
-        <iframe frameborder="0" id="shopViewIframe" class="shopViewIframe"></iframe>
-    </div>
-</div>
 
-<!--Email Functionality start-->
-<div id="EmailModal" class="EmailModal modal emailConfirm-page">
-<form action="/page/privacy-policy/" id="AjaxAntiForgeryForm" method="post"><input name="__RequestVerificationToken" type="hidden" value="bQ2dwf8_jtSuWWoReehloyd8DgDGxp6bMuuo29kqnEzM2h1hDDQnRLKe8Qv5SSy6_CWjpe6fLqZjRXo0Ic7oSHwsU6xRagb414spaMFFKY01"></form>    <a class="modalClose" data-icon=""></a>
-    <h4><b id="myheader">Email Confirmation</b></h4>
-    <div class="controlGroup">
-        <p class="textStyles">To</p>
-        <div>
-            <input id="tobusiness" class="inputSize" disabled="">
-        </div>
-            <label class="textStyles">*Email</label>
-            <div>
-                <input type="text" id="username" class="inputSize">
-            </div>
-            <label class="textStyles">*Mobile</label>
-            <div>
-                <input type="text" id="phone" class="inputSize">
-            </div>
-        <p class="textStyles">Subject</p>
-        <div>
-            <input type="text" id="subject" class="inputSize">
-        </div>
-        <p class="textStyles">*Body</p>
-        <div>
-            <textarea rows="3" id="body" class="inputSize"></textarea>
-        </div>
-        <button class="btn" id="submit">Send</button>
-    </div>
-</div>
 
-<div id="BookingCancelModal" class="CancelModal modal">
-    <a class="modalClose" data-icon=""></a>
-    <h4>Booking Cancellation</h4>
-    <fieldset class="fieldset" id="otpfielset">
-        <legend class="legend">Cancellation</legend>
-        <div id="CancelDateTime"></div>
-        <div id="BookingCancelMargin">
-            <button type="button" class="btn" id="YesCancelBooking">Yes</button>
-            &nbsp;&nbsp;&nbsp;&nbsp;
-            <button type="button" class="btn" id="NoCancel">No</button>
-        </div>
-        <div id="CancelBookingMessage"></div>
-    </fieldset>
-</div>
-
-<div id="BookingRescheduleModal" class="RescheduleModal modal">
-    <a id="reschedmodalClose" data-icon=""></a>
-    <h4>Booking Reschedule</h4>
-    Please Choose Reschedule Date
-    <input type="hidden" id="reschDate">
-    <fieldset id="slotsfieldset" style="margin-bottom: 5px; width: 483px; display: none">
-        <legend>Select Slots</legend>
-        <div id="slotTime"></div>
-    </fieldset>
-    <div id="reschedSuccessMessage"></div>
-    <a class="btn" id="submitBooking">Submit</a>
-    <a class="btn" style="float: right" id="cancel">Cancel</a>
-    <div id="rescheduleBookingMessage"></div>
-    <input type="hidden" id="slotid">
-    <input type="hidden" id="bookingid">
-    <input type="hidden" id="serviceid">
-    <input type="hidden" id="masterid">
-</div>
-<input type="hidden" id="hdnSubName">
-<input type="hidden" id="hdnSubId">
-<input type="hidden" id="hdnMasterId">
-<input type="hidden" id="hdnUserName">
-<div id="OpenToBookCars" class="CarModal modal">
-    <a class="modalClose" data-icon=""></a>
-    <h4 id="Trunkman">Booking With: <span id="bookingName"></span></h4>
-    <br>
-    <input type="hidden" id="bookStatus">
-    <div id="BookingGlobalScroller">
-            <fieldset class="fieldset">
-                <legend class="legend">User Details</legend>
-                <div id="UserDetails">
-                    <input class="bookingPhoneField" id="FirstName" placeholder="First Name">
-                    <div id="Emailcheck"></div>
-                    <input class="bookingPhoneField" id="userEmail" placeholder="Email"><br>
-                    <div id="cellphonecheck"></div>
-                    <div id="ValidCellPhoneNumber"></div>
-                    <input class="bookingPhoneField" id="Cellphone" placeholder="Cell Phone"><br>
-                </div>
-            </fieldset>
-            <br>
-            <div class="bookingLogic"></div>
-        <div class="bookingLogic">
-
-            <div id="accordion-35">
-                <h3>
-                    <img style="height: 25px; margin-bottom: -5px;" src="/Assets/img/number1.png">Available Services
-                </h3>
-                <div id="AvailableServices">
-                    <div class="ServiceLabel"></div>
-                    <textarea rows="3" id="BookingAdddionalComments" placeholder="Add Additional Comments" style="border-radius: 6px; width: 450px; border: 1px solid #9AC1C9;"></textarea>
-                </div>
-                <h3>
-                    <img style="height: 25px; margin-bottom: -5px;" src="/Assets/img/number2.png">Pick A Date
-                </h3>
-                <div id="PickADate">
-                    <input type="hidden" id="BookingPopUpDate">
-                </div>
-                <h3>
-                    <img style="height: 25px; margin-bottom: -5px;" src="/Assets/img/number3.png">Select Slots
-                </h3>
-                <div id="SelectSlots">
-                    <div id="ActualSlotTime"></div>
-                </div>
-                <h3>
-                    <img style="height: 25px; margin-bottom: -5px;" src="/Assets/img/number4.png">Recurring
-                </h3>
-                <div id="summCars">
-                    <div id="sumaryCar"></div>
-                    <input type="radio" name="timeRecur" id="NoRecur" class="Recur" checked="">Once Off<br>
-                    <input type="radio" name="timeRecur" id="dailyRecurrence" class="Recur">Daily<br>
-                    <input type="radio" name="timeRecur" id="weeklyRecurrence" class="Recur">Weekly
-                    <!--Actual recurrence details-->
-                    <div id="dailyRecurrenceDetaials">
-                        <input type="radio" name="dailyRecur" checked="">Every
-                        <input type="number" min="1" max="7" value="1" id="RecurEveryDays">
-                        Day(s)<br>
-                    </div>
-                    <div id="weeklyRecurrenceDetails">
-                        <input type="checkbox" name="WeekDays" value="1"> Mon <input type="checkbox" name="WeekDays" value="2"> Tue <input type="checkbox" name="WeekDays" value="3"> Wed
-                        <input type="checkbox" name="WeekDays" value="4"> Thur
-                        <input type="checkbox" name="WeekDays" value="5"> Fri
-                        <input type="checkbox" name="WeekDays" value="6"> Sat
-                        <input type="checkbox" name="WeekDays" value="7"> Sun
-                    </div>
-                    <div id="OunceOffHideEndAfter">
-                        <hr id="hrStyle">
-                        End After <input type="number" id="occurances" min="1" value="10"> Occurances
-                    </div>
-                </div>
-            </div>
-                <br>
-                <fieldset class="fieldset" id="otpfielsetOnBookPopUp">
-                    <legend class="legend">One Time Password</legend>
-                    <div id="passwordInput">
-                        <label style="color:red">Please enter one time password sent to your cellphone</label><br>
-                        <div id="optCheck"></div>
-                        <div class="optdownError"></div>
-                        <input type="text" id="oneTimePin" class="bookingPhoneField">
-                    </div>
-                </fieldset>
-
-        </div>
-
-        <p><input type="checkbox" id="checkIfMtestingBooking" value="hello"><span id="testBookMessage"></span></p><br>
-        <br>
-        <input type="button" id="booknowPopUp" class="btn" value="Book Now!">
-            <input type="submit" value="Resend OTP" id="ResendOTP">
-    </div>
-    <div id="PleaseSelectSlots"></div>
-    <div id="noaccountBookMessage"></div>
-    <div id="BookedSlotMessage"></div>
-
-</div>
-
-<div class="verticalLoginModal modal">
-    <a class="modalClose" data-icon=""></a>
-    <h4 id="Trunkman">USER DETAILS</h4>
-    <fieldset class="fieldset">
-        <legend class="legend">To view your <span id="verticalDifferentiater"></span> provide your email and cell number </legend>
-        <div id="UserDetails">
-            <div class="VerticalEmailcheck"></div>
-            <input class="bookingPhoneField verticalLoginuserEmail" placeholder="Email"><br>
-            <div class="VerticalCellphonecheck"></div>
-            <input class="bookingPhoneField verticalLoginCellphone" placeholder="Cell Phone"><br>
-            <div class="verticalNameHidden">
-                <label style="color:red">Please enter your name</label><br>
-                <input class="bookingPhoneField verticalLoginFirstName" placeholder="First Name">
-            </div>
-            <div class="verticalOTPStatus">
-                <label style="color:red">Please enter otp sent to your phone</label><br>
-                <input class="bookingPhoneField" id="verticalOtpUpdate" placeholder="One Time Password">
-            </div>
-        </div>
-        <input type="submit" value="Login" class="verticalLogin btn">
-    </fieldset>
-</div>
-
-<div id="verifyLoginModal" class="verifyLoginModal modal">
-    <a class="modalClose" data-icon=""></a>
-    <h4 id="Trunkman">Verify your detials</h4>
-    <fieldset class="fieldset">
-        <legend class="legend">Re-enter your email and cell number<br>Your booking is ready to be sent</legend>
-        <div id="UserDetails">
-            <div class="VerticalEmailcheck"></div>
-            <input class="bookingPhoneField" id="verifyLoginuserEmail" placeholder="Email"><br>
-            <div class="VerticalCellphonecheck"></div>
-            <input class="bookingPhoneField" id="verifyLoginCellphone" placeholder="Cell Phone"><br>
-        </div>
-
-        <input type="submit" value="Login" id="BookingsVerifyLogin" class="btn">
-    </fieldset>
-</div>
-<div id="QueueModal" class="QueueModal modal" style="overflow:hidden">
-    <a class="modalClose" data-icon=""></a>
-    <h4 id="Trunkman">Queue With: <span id="QueueBookingName"></span></h4>
-    <h3 id="qHead" style="font-family: Trebuchet MS,Tahoma,Verdana,Arial,sans-serif; color: #1c94c4; font-size: 1.17em; -webkit-margin-before: 1em; -webkit-margin-after: 1em; -webkit-margin-start: 0px; -webkit-margin-end: 0px; ">Queue in  5 easy steps</h3>
-    <p id="qText" style="color:grey;">Save your time from long queues. Queue from anywhere. Decide when its best to leave when you get your SMS’s.</p>
-    <div class="scrollableDiv">
-        <div id="accordion-3">
-            <h3>
-                <img style="height: 25px; margin-bottom: -5px;" src="/Assets/img/number1.png">&nbsp;Send my queue reminders to the following details
-            </h3>
-            <div>
-<form action="/" data-ajax="true" data-ajax-mode="replace" data-ajax-update="#loginsuccess" id="AjaxAntiForgeryForm" method="post">                    <div>
-                        <br>
-                        <input name="__RequestVerificationToken" type="hidden" value="VpXiM2FkgS-lHeW7AH1gtiI21GZQQXp_dVX5sSZ8SNrS1fzkUWpPjrzxxjySQI2H3EI_UMy3i1drUPsmWT--b4AZvyi668cHsZQOTt_ENlU1">                                <!--Name-->
-                            <div class="QnameValidate"></div>
-                            <a href="#" data-tooltip="To know how to address you"> <input id="qname" placeholder="Name" class="bookingPhoneField"></a>
-                            <br>
-                                <!--Email-->
-                            <div class="qUsernameValidate"></div>
-                            <a href="#" data-tooltip="Backing up your notifications could be important"><input id="qUsername" placeholder="Email" class="bookingPhoneField"></a>
-                                <!--Phone -->
-                            <br>
-                            <div style="color: red" class="QphoneValidate"></div>
-                            <a href="#" data-tooltip="We would like you to have your notifications on hand"><input id="queueCellNumber" class="qCellPhone require bookingPhoneField" placeholder=" cell number"></a>
-                            <br>
-                            <div class="idNumberValidate"></div>
-                            <div style="padding: 1px; display: inline-block; margin: 1%; ">
-
-                                <select class="queueIdentificationValues" style="height: 30px;background: #fff; border: 1px solid #cdd1d4; border-radius: 4px; ">
-
-                                    <option>Please Select</option>
-
-                                    <option>Account Number</option>
-                                    <option>Reference Number</option>
-                                    <option>ID Number</option>
-                                </select><a href="#" data-tooltip="The department needs to make sure that you are who you say you are. ">
-                                    <input class="require" type="text" id="idNumber" placeholder="Number" style="background: #fff; border: 1px solid #cdd1d4; height: 30px; border-radius: 4px; margin-left: 12px; float: right; width: 295px; ">
-                                </a>
-                                <a href="#" data-tooltip="The department needs to make sure that you are who you say you are. ">
-                                    <input class="require" id="otherIdentification" placeholder="Number" style="background: #fff; border: 1px solid #cdd1d4; height: 30px; border-radius: 4px; margin-left: 12px; float: right; width: 295px; ">
-                                </a>
+                                
+                                <input type="hidden" id="cancelItemsHidden" name="cancelItemsHidden">
+                                <input type="hidden" id="productsCollection" name="productsCollection">
+                                <input type="hidden" id="subscriberId" name="subscriberId">
+                                <input type="hidden" id="userRole" name="userRole">
+                                <input type="hidden" id="parentObject" name="parentObject">
                             </div>
+                            <div class="frontsecond" style="display:none">
+                                <div class="button_container">
+                                    <a class="btn backCheckContractBtn">&lt;&lt;  Back  </a><br>
+                                    <a class="btn btnSaveThisContract" style="display:none;">Save Contracts</a>
+                                </div>
+                                <br>
+                                <br>
+                                <div class="contractTableDiv" style="overflow:auto">
+                                    <h2>Upload Supporting Documents</h2>
+                                    <div class="nsaUploadSingedContract">
+                                        <input type="file" name="FileUpload[]" id="nsaUploadSignedContract" data-track="nsaFileUploadSignedContract" title="Upload only excel, acrobat reader, word or picture documents." style="display:none" multiple="">
+                                        <br> 
+                                        <div class="UploadContainer">
+                                            <a href="" onclick="document.getElementById('nsaUploadSignedContract').click(); return false">
+                                                <div class="fileUpload">
+                                                    Upload signed contract.
+                                                </div>
+                                            </a>
+                                            <ul id="selectedFiles"></ul>
+                                        </div>
+                                        
+
+                                    </div>
+                                    
+                                    <input type="file" class="btn newBtn1" name="FileUpload[]" id="nsaUploadCopyInstructions" data-track="preCopyInstructions" title="Upload only excel, acrobat reader, word or picture documents." style="display:none" multiple=""><br>
+                                    <div class="UploadContainer" style="height: auto; overflow: auto; width: 127px; float: left; margin-top: 22px; position: relative;">
+                                        <a href="" onclick="document.getElementById('nsaUploadCopyInstructions').click(); return false">
+                                            <div class="fileUpload">
+                                                Upload copy instructions.
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <br>
+                                    <table class="cancelListingTable1" style="border: 1px #ccc solid; width: 513px; position: relative; overflow: auto; height: 70px;">
+                                        <tbody id="selectedInstuctionsFiles" style="font-size: 8px;"></tbody>
+                                    </table>
+                                </div>
+                                <br>
+                                <div id="divconclusion" style="display:none;">
+                                    <h2>Conclusion</h2>
+                                    <div class="acc-section">
+                                        <div class="acc-content" id="concQuestions"></div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            
+                        </div>
+                        <div class="back">
+                            <h2>Confirm contract changes</h2>
+                            <div class="button_container">
+                                <a class="backcancelListingButton btn">&lt;&lt;  Back  </a><br>
+                                <a class="btn nextSaveContractBtn">Next  &gt;&gt;</a>
+                            </div>
+                            <br>
+                            <br>
+                            <div class="listingItemCodes contractTableDiv">
+                                <table border="1" class="sortedtable displayTable cancelListingTable1 HeadingsBorder">
+                                    <thead>
+                                        <tr class="sortHeadings gradient">
+                                            <th>
+                                                <b>Action</b>
+
+                                            </th>
+                                            <th>
+                                                <b>ProductType</b>
+
+                                            </th>
+                                            
+                                            <th>
+                                                <b>UDAC</b>
+
+                                            </th>
+
+                                            <th><b>Location</b></th>
+                                            <th><b>Description</b></th>
+                                            <th><b>Edition/Book</b></th>
+                                            <th><b>Canvass Code / Edition</b></th>
+                                            
+                                            <th><b>MonthlyPrice</b></th>
+                                            <th><b>Product Status</b></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody class="displayBody"></tbody>
+                                </table>
+                            </div>
+
+                            
+                            <br>
+
+                            
+
+                            <input type="hidden" name="nsaCancelFreeCallSubId" id="nsaCancelFreeCallSubId">
+                            <input type="hidden" id="cancelItems" name="cancelItems">
+                            <input type="hidden" id="selectedProducts" name="selectedProducts">
+
+                            <div id="results"></div>
+                        </div>
                     </div>
-</form>
-            </div>
-            <h3 id="queueServiceType">
-                <img style="height: 25px; margin-bottom: -5px;" src="/Assets/img/number2.png">&nbsp;I want to queue for the following services
-            </h3>
-            <div style="max-height: 300px; overflow: auto;">
-
-                <div class="queuesServices"></div>
-                <br>
-
-            </div>
-            <h3>
-                <img style="height: 25px; margin-bottom: -5px;" src="/Assets/img/number3.png">&nbsp;I would like to join the queue starting from...
-            </h3>
-            <div>
-                
-                <div id="queueTodaypickerDiv" style="margin-left:0px;">
-
                 </div>
-                <input type="radio" id="queueFutureDates" name="joinQueue" class="joinQueue">Specify date(From)
-                <div style="display: none;" id="pickerDiv">
-                    <input id="qDate" type="text" name="date" style="width: 320px; height: 30px;">
-                    <br>
-                    <br>
-                    <select id="TimeStorer"></select>&nbsp;<span id="qMsg"></span>
-                </div>
-                <div style="color:red;display:none" id="Queuemessage">company closed on this selected date</div>
-
-                <span id="closedQueues"></span>
-                <br>
-                
             </div>
             
-            <h3><img style="height: 25px; margin-bottom: -5px;" src="/Assets/img/number4.png">&nbsp;Specify Comments</h3>
-            <div>
-                <textarea id="qtxtComment" style="height: 90px; padding: 1px 2px 64px 0px;" placeholder="Comments" rows="3" class="standardtxt require"></textarea>
+
+            
+            
+        </div>
+    </div>
+    
+</div>
+<div class="ad acc-content modal modalBackground" id="showAdvertLogos">
+
+    <fieldset class="sidebysidediv30">
+        <legend>IYP</legend>
+        <div id="webProducts"></div>
+    </fieldset>
+    <fieldset class="sidebysidediv30">
+        <legend>Mob</legend>
+        <div id="mobileProducts"></div>
+    </fieldset>
+    <fieldset class="sidebysidediv30">
+        <legend>Print</legend>
+        <div id="printProducts"></div>
+    </fieldset>
+    <fieldset class="sidebysidediv30">
+        <legend>10118</legend>
+        <div id="TenProducts"></div>
+    </fieldset>
+    <div class="divhundred spinner">
+        <img src="/Assets/img/loading-spinner.gif">
+    </div>
+    <div class="autoresult"></div>
+    <div class="divhundred">
+        <button class="btn btnUpsellContract btnUpsell" id="btnSale">UP Sell</button>
+
+
+        <a class="btn btnStraightRepeat" id="btnStraightRepeat" style="float: right">Submit Straight Repeat</a>
+    </div>
+</div>
+<div id="EditAdvertModal" class="EditAdvertModal modal modalBackground">
+    <div id="sllider"></div>
+    <a class="customModalClose closeEditAdvertModal" data-icon=""></a>
+    <h4 class="advertSetupHeader"></h4>
+    <div class="EditAdvertLineTab customTab" id="EditAdvertLineTab">
+        <h2>Edit Advert Lines</h2>
+        <div class="button_container">
+            
+            <a class="btn nextEditAdvertLine" id="nextEditAdvertLine" style="float:right">Next Line</a>
+            <br>
+            <br>
+        </div>
+        <div class="sidebysidesimplediv EditAdvertLine" id="EditNameLine" style="display:none;">
+            <strong>Edit Name:</strong>
+            <div class="sidebysidesimplediv67">
+                <select data-type="Name" class="nsaEditNameSelect dropDownStyle" id="nsaEditNameSelect" style="width: 200px;">
+                    <option>--Select Name--</option>
+                </select>
+            </div>
+        </div>
+        <div class="sidebysidesimplediv EditAdvertLine" id="EditAddrLine" style="display:none;">
+            <strong>Edit Address:</strong>
+            <div class="sidebysidesimplediv67">
+                <select data-type="Addr" class="nsaEditaddrSelect dropDownStyle" id="nsaEditaddrSelect" style="width: 200px;">
+                    <option>--Select Address--</option>
+                </select>
+            </div>
+        </div>
+        <div class="sidebysidesimplediv EditAdvertLine" id="EditTelLine" style="display:none;">
+            <strong>Edit Telephone:</strong>
+            <div class="sidebysidesimplediv67">
+                <select data-type="Tel" class="nsaEditTelSelect dropDownStyle" id="nsaEditTelSelect" style="width: 200px;">
+                    <option>--Select Telephone--</option>
+                </select>
+            </div>
+        </div>
+        <div class="sidebysidesimplediv EditAdvertLine" id="EditPoBoxLine" style="display:none;">
+            <strong>Edit Postal Address:</strong>
+            <div class="sidebysidesimplediv67">
+                <select data-type="PoBoxLine" class="nsaEditPOSelect dropDownStyle" id="nsaEditPOSelect" style="width: 200px;">
+                    <option>--Select PostalAddress--</option>
+                </select>
+            </div>
+        </div>
+        <div class="nsaEditEAdvertLine EditAdvertLine" id="EditEAddrLine" style="display:none;">
+            <h2>Edit Electronic Address</h2>
+            <div class="sidebysidesimplediv">
+                <div class="sidebysidesimplediv27"><strong>ElectronicAddress :</strong></div>
+                <div class="sidebysidesimplediv67">
+                    <select class="nsaEditEaddrSelect dropDownStyle" id="nsaEditEaddrSelect" style="width: 200px;"></select>
+                </div>
+            </div>
+        </div>
+     </div>
+</div>
+    <div id="postContractModal" class="postContractModal modal modalBackground">
+        <div id="sllider"></div>
+        <a class="customModalClose closePostContract" data-icon=""></a>
+        <h4 class="advertSetupHeader"></h4>
+
+        <div class="canvassTab tab customTab" id="canvassTab">
+
+            <div class="button_container">
+                
+                <a class="btn setBookSections" style="float:right">Next  &gt;&gt;</a>
+                <br>
+                <br>
+            </div>
+
+            <div class="sidebysidesimplediv" id="contractCanvassSection">
+                <h3>Select Canvass</h3>
+                <select name="canvassDropdown" id="canvassDropdown" class="canvassDropdown dropDownStyle" style="width: 80px;"></select>
+            </div>
+
+            <div class="sidebysidesimplediv" id="contractCanvEditionSection">
+                <h3>Select CanvassEdition</h3>
+                <select name="canEditionDropdown" id="canEditionDropdown" class="canEditionDropdown dropDownStyle" style="width: 80px;"></select>
+                <a class="btn getBookEdition" style="float:right">Get Book Edition</a>
+            </div>
+            <div class="sidebysidesimplediv" id="contractBookEditionSection">
+            </div>
+        </div>
+        <div id="sectionTab" class="sectionTab tab customTab">
+            <div class="button_container">
+                <a class="btn showCanvassTab">&lt;&lt;  Back  </a>
+                <a class="btn setBookEditions" style="float:right">Next  &gt;&gt;</a>
+                <br>
+                <br>
+            </div>
+            <div class="divhundred" id="sectionClassDiv">
+
+
+            </div>
+
+
+            </div> 
+            <div class="contractclassificationsTab tab customTab" id="contractclassificationsTab" style="display:none">
+                <div class="button_container">
+                    <a class="showSectionsTab btn">&lt;&lt;  Back  </a>
+                    <a class="btn showLocationTab" id="showLocationTab" style="float:right">Next  &gt;&gt;</a>
+                    <br>
+                    <br>
+                </div>
+                <div class="divhundred" id="contractClassDiv">
+                    <h2>Classification  </h2>
+                    <input type="hidden" name="ContractClassification" id="ContractClassification" class="cw_v_classification" value="">
+                    <div class="classification-container"></div>
+                    <br>
+                    <br>
+                </div>
+
+            </div>
+            <div class="locationTab tab customTab" id="locationTab" style="display:none">
+                <div class="button_container">
+                    <a class="backClassificationsTab btn">&lt;&lt;  Back  </a>
+                    <a class="btn showKeywordsTab" id="showKeywordsTab" style="float:right">Next  &gt;&gt;</a>
+                    <br>
+                    <br>
+                </div>
+                <h2>Locations </h2>
+                <div class="divhundred" id="contractLocDiv">
+                    <input type="hidden" name="ContractLocations" id="ContractLocations" class="cw_v_loc" value="">
+                    <div class="loc-container"></div>
+                    <br>
+                    <br>
+                </div>
+
+            </div>
+            <div class="whitepagesTab tab customTab" id="whitepagesTab" style="display:none">
+                <div class="button_container">
+                    <a class="showSectionsTab btn">&lt;&lt;  Back  </a>
+                    <a class="btn showKeywordsTab" id="showKeywordsTab" style="float:right">Next  &gt;&gt;</a>
+                    <br>
+                    <br>
+                </div>
+                <h2>Locations </h2>
+                <div class="divhundred" id="contractLocDiv">
+                    
+                    <input type="hidden" name="whiteLocations" id="whiteLocations" class="cw_w_loc" value="">
+                    <div id="selectMetro"></div>
+                    <div class="whitepages-container"></div>
+                    <br>
+                    <br>
+                </div>
+
+            </div>
+
+            <div class="contractkeywordsTab tab customTab" id="contractkeywordsTab" style="display:none">
+                <div class="button_container" style="overflow:hidden;">
+                    <a class="BackLocationTab btn">&lt;&lt;  Back  </a>
+                    <a class="showAdvertFiltersTab btn" style="float:right">  Next &gt;&gt;  </a><br>
+                    <br>
+                    <br>
+                </div>
+
+                
+
+                <h2>Keywords </h2>
+                <div class="divhundred" id="contractKeyDiv">
+                    <input type="hidden" name="ContractKeywords" id="ContractKeywords" class="cw_keywords" value="">
+                    
+                    <div class="keywords-container"></div>
+
+                    <br>
+                    <br>
+                </div>
+
+            </div>
+            <div class="advertFiltersTab customTab" id="advertFiltersTab" style="display:none">
+                <h2>Choose Advert Lines</h2>
+                <div class="button_container" style="overflow:hidden;">
+                    <a class="backKeywordsTab btn">&lt;&lt;  Back  </a>
+                    <a class="showAdvertLinesTab btn" style="float:right">  Next &gt;&gt;  </a><br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                </div>
+                <div class="advertFiltersDiv" id="advertFilters">
+
+                    <div class="advFilter" id="NameFilter" data-type="Name" style="display:none">
+                        Name
+                    </div>
+
+                    <input type="hidden" id="TextFilter" data-type="Text" class="aFilter">
+                           
+                    <div class="advFilter" id="AddrFilter" data-type="Address" style="display:none">
+                        Address
+                    </div>
+
+
+                    <div class="advFilter" id="TelFilter" data-type="Telephone" style="display:none">
+                        Telephone
+                    </div>
+
+
+                    <div class="advFilter" id="PoBoxFilter" data-type="postal_" style="display:none">
+                        Postal
+                    </div>
+
+
+                    <div class="advFilter" id="FaxFilter" data-type="Fax" style="display:none">
+                        FAX
+                    </div>
+
+
+                    <div class="advFilter" id="MobileFilter" data-type="Cell" style="display:none">
+                        Cell
+                    </div>
+
+
+                    <div class="advFilter" id="EmailFilter" data-type="Email" style="display:none">
+                        Email
+                    </div>
+
+
+                    <div class="advFilter" id="WebFilter" data-type="Web" style="display:none">
+                        Web
+                    </div>
+
+
+                    <div class="advFilter" id="AlphaFilter" data-type="AlphaCall" style="display:none">
+                        Alpha
+                    </div>
+
+                </div>
+            </div>
+            <div class="advertLineTab customTab" id="advertLineTab" style="display:none">
+                <h2>Add Advert Lines</h2>
+                <div class="button_container" style="overflow:hidden;">
+                    <a class="backAdvertFiltersTab btn">&lt;&lt;  Back  </a>
+                    <a class="showCopyInstrucitonsTab btn" style="float:right">  Next &gt;&gt;  </a><br>
+                    <br>
+                    <br>
+                </div>
+                <div class="advertElements selectize-control" id="advertElements" style="overflow:hidden;">
+                    <div class="selectize-input items">
+                        <div class="NameLine nsaitem" id="NameLine" data-type="NameLine" style="display:none;">  Name  </div>
+                        <div class="AddrLine nsaitem" id="AddrLine" data-type="AddrLine" style="display:none;"> Address</div>
+                        <div class="EAddrLine nsaitem" id="EAddrLine" data-type="EAddrLine" style="display:none;">Electronic address</div>
+                        <div class="TelLine nsaitem" id="TelLine" data-type="TelLine" style="display:none;">  Telephone  </div>
+                        <div class="MobileLine nsaitem" id="MobileLine" data-type="MobileLine" style="display:none;">  Mobile  </div>
+                        <div class="FaxLine nsaitem" id="FaxLine" data-type="FaxLine" style="display:none;">  Fax  </div>
+                        <div class="TextLine nsaitem" id="TextLine" data-type="TextLine" style="display:none;">  Text  </div>
+                        <div class="WebLine nsaitem" id="WebLine" data-type="WebLine" style="display:none;">  Web  </div>
+                        <div class="PoBoxLine nsaitem" id="PoBoxLine" data-type="PoBoxLine" style="display:none;">  POBOX  </div>
+                        <div class="AlphaLine nsaitem" id="AlphaLine" data-type="AlphaLine" style="display:none;">  Alpha  </div>
+                    </div>
+
+                </div>
+
+
+                <div class="button_container" style="overflow:hidden;">
+                    <a class="additionalText btn" id="additionalText" style="float:right;display:none">  Additional Text  </a><br>
+                </div>
+
+                <div class="nsaNameDiv nsaAdvertLine" id="nsaNameDiv" style="display:none;">
+                    <h2>Add Name</h2>
+                    <div class="sidebysidesimplediv">
+                        <div class="sidebysidesimplediv27"><strong>Name :</strong></div>
+                        <div class="sidebysidesimplediv67">
+                            <select class="nsaNameSelect dropDownStyle" id="nsaNameSelect" style="width: 200px;"></select>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="nsaaddrDiv nsaAdvertLine" id="nsaaddrDiv" style="display:none;">
+                    <h2>Add Address</h2>
+                    <div class="sidebysidesimplediv">
+                        <div class="sidebysidesimplediv27"><strong>Address :</strong></div>
+                        <div class="sidebysidesimplediv67">
+                            <select class="nsaaddrSelect dropDownStyle" id="nsaaddrSelect" style="width: 200px;"></select>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="nsaEAdvertLine nsaAdvertLine" id="nsaEAdvertLine" style="display:none;">
+                    <h2>Add Electronic Address</h2>
+                    <div class="sidebysidesimplediv">
+                        <div class="sidebysidesimplediv27"><strong>ElectronicAddress :</strong></div>
+                        <div class="sidebysidesimplediv67">
+                            <select class="nsaEaddrSelect dropDownStyle" id="nsaEaddrSelect" style="width: 200px;"></select>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="nsaTelDiv nsaAdvertLine" id="nsaTelDiv" style="display:none;">
+                    <h2>Add Telephone</h2>
+                    <div class="sidebysidesimplediv">
+                        <div class="sidebysidesimplediv27"><strong>Telephone :</strong></div>
+                        <div class="sidebysidesimplediv67">
+                            <select class="nsaTelSelect dropDownStyle" id="nsaTelSelect" style="width: 200px;"></select>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="nsaTextDiv nsaAdvertLine" id="nsaTextDiv" style="display:none;">
+                    <h2>Add Text</h2>
+                    <div class="sidebysidesimplediv">
+                        <div class="sidebysidesimplediv27"><strong>Text :</strong></div>
+                        <div class="sidebysidesimplediv67">
+                            <input type="text" class="txtSelect" id="txtSelect">
+                            <input type="button" class="addNSAText" id="addNSAText" value="Add">
+                        </div>
+                    </div>
+                </div>
+                <div class="nsaPOBOXDiv nsaAdvertLine" id="nsaPOBOXDiv" style="display:none;">
+                    <h2>Add POBOX</h2>
+                    <div class="sidebysidesimplediv">
+                        <div class="sidebysidesimplediv27"><strong>PO Box :</strong></div>
+                        <div class="sidebysidesimplediv67">
+                            <select class="nsaPOSelect dropDownStyle" id="nsaPOSelect" style="width: 200px;"></select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="nsaWebDiv nsaAdvertLine" id="nsaWebDiv" style="display:none;">
+                    <h2>Add Web Address</h2>
+                    <div class="sidebysidesimplediv">
+                        <div class="sidebysidesimplediv27"><strong>Web Address :</strong></div>
+                        <div class="sidebysidesimplediv67">
+                            <select class="nsaWebSelect dropDownStyle" id="nsaWebSelect" style="width: 200px;"></select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="nsaAdditionalText nsaAdvertLine" id="nsaAdditionalText" style="display:none">
+                    <h2>Add Addtional  Text</h2>
+                    <div class="sidebysidesimplediv67">
+                        <div class="sidebysidesimplediv"><strong>Add Item Code :</strong></div>
+                        <div class="sidebysidesimplediv">
+                            <select class="nsaAdditionalTextSelect dropDownStyle" id="nsaAdditionalTextSelect" style="width: 200px;">
+                                <option>Address</option>
+                                <option>Postal</option>
+                                <option>Alpha</option>
+                                <option>Fax</option>
+                                <option>Mobile</option>
+                                <option>Telephone</option>
+                                <option>Telephone Lead</option>
+                                <option>Text</option>
+                                
+                            </select>
+                        </div>
+                        <div class="sidebysidesimplediv67">
+                            <div class="sidebysidesimplediv addtionalTextFields" id="addnameField">
+                                <strong>Add Additional Name:</strong>
+                                <div class="sidebysidesimplediv67">
+                                    <select data-type="Name" class="nsaAdditionalTextName dropDownStyle" id="nsaAdditionalTextName" style="width: 200px;">
+                                        <option>--Select Name--</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="sidebysidesimplediv addtionalTextFields" id="addAddrField" style="display:block">
+                                <strong>Add Additional Address:</strong>
+                                <div class="sidebysidesimplediv67">
+                                    <select data-type="Addr" class="nsaAdditionalAddress dropDownStyle" id="nsaAdditionalAddress" style="width: 200px;">
+                                        <option>--Select Address--</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="sidebysidesimplediv addtionalTextFields" id="addTelField">
+                                <strong>Add Additional Telephone:</strong>
+                                <div class="sidebysidesimplediv67">
+                                    <select data-type="Tel" class="nsaAdditionalTel dropDownStyle" id="nsaAdditionalTel" style="width: 200px;">
+                                        <option>--Select Telephone--</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="sidebysidesimplediv addtionalTextFields" id="addPOField">
+                                <strong>Add Additional Postal Address:</strong>
+                                <div class="sidebysidesimplediv67">
+                                    <select data-type="PoBoxLine" class="nsaAdditionalPO dropDownStyle" id="nsaAdditionalPO" style="width: 200px;">
+                                        <option>--Select PostalAddress--</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="sidebysidesimplediv addtionalTextFields" id="addPOField">
+                                <strong>Add Additional Postal Address:</strong>
+                                <div class="sidebysidesimplediv67">
+                                    <select data-type="PoBoxLine" class="nsaAdditionalPO dropDownStyle" id="nsaAdditionalPO" style="width: 200px;">
+                                        <option>--Select PostalAddress--</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+
+                        
+                        <div class="sidebysidesimplediv67" id="additioanalUdacDiv">
+                            
+                        </div>
+                    </div>
+
+                    <div class="button_container" style="overflow:hidden;">
+                        <a class="submitAdditionalText btn" id="submitAdditionalText" style="float:right">  Submit  </a><br>
+                    </div>
+
+                </div>
+
+
+            </div>
+            <div class="customTab copyInstructionsTab" id="copyInstructionsTab" style="display:none">
+                <div class="button_container" style="overflow:hidden;">
+                    <a class="backAdvertLineTab btn">&lt;&lt;  Back  </a>
+                    <a class="finishUdac btn" style="float:right">  Finish  </a><br>
+                    <br>
+                    <br>
+                </div>
+                <input type="file" class="btn newBtn1" name="FileUpload[]" id="preCopyInstructions" data-track="preCopyInstructions" title="Upload only excel, acrobat reader, word or picture documents." style="display:none" multiple=""><br>
+                <div class="UploadContainer">
+                    <a href="" onclick="document.getElementById('preCopyInstructions').click(); return false">
+                        <div class="fileUpload">
+                            Upload copy instructions.
+                        </div>
+                    </a>
+                </div>
+                <br><br><br><br><br><br>
+                <table class="cancelListingTable1">
+                    <tbody id="selectedpreFiles"></tbody>
+
+
+                </table>
+            </div>
+        </div>
+
+
+    <input type="hidden" id="cartid" class="resultWebLink Cartiddetails">
+    <input type="hidden" id="droId" class="resultWebLink Cartiddetails">
+
+    <div id="cancelledProductsModal" class="cancelListingModal modal modalBackground">
+        <a class="modalClose" data-icon=""></a>
+
+        <h4><span data-track="canSubId"></span><span data-track="canCompanyname"></span><br>Cancelled Products</h4>
+        <h2>Pending Cancellations</h2>
+        <div class="productcancelItemCodes">
+            <table border="0" class="sortedtable pendingEishTable cancelListingTable1">
+                <thead>
+                    <tr class="sortHeadings HeadingsBorder">
+                        <th>
+                            <b>Revoke Cancellation</b>
+                            <br><b>All</b><br>
+                            <span><input type="checkbox" id="allrevokeFilters"></span>
+                        </th>
+                        <th>
+                            <b>ProductType</b>
+                        </th>
+                        <th>
+                            <b>UdacAdvertCode</b>
+                            <select name="mydropdown" id="time" class="itemList dropDownStyle" style="width: 50px;" hidden=""></select>
+                        </th>
+
+                        <th><b>Location</b></th>
+                        <th><b>Description / <br> Classification</b></th>
+                        <th><b>Edition/Book</b></th>
+                        <th><b>MonthlyPrice</b></th>
+                    </tr>
+                </thead>
+                <tbody class="cancelledproductsBody"></tbody>
+            </table>
+            <br>
+            <br>
+            <a class="viewContractButton btn newBtn pendingContractBtn" href="" target="_blank">View Contract</a>
+            <a class="revokeeishListingButton btn newBtn">Revoke Cancellations</a>
+
+            <div id="cancelerrorResults"></div>
+
+        </div>
+    </div>
+    <div id="birdsProductsModal" class="cancelListingModal modal modalBackground">
+        <a class="modalClose" data-icon=""></a>
+
+        <h4><span data-track="canSubId"></span><span data-track="canCompanyname"></span><br>Cancelled Products</h4>
+        <h2>Birds Cancellations</h2>
+        <div class="productcancelItemCodes">
+            <table border="0" class="sortedtable birdsEishTable cancelListingTable1">
+                <thead>
+                    <tr class="sortHeadings HeadingsBorder">
+                        <th>
+                            <b>ProductType</b>
+                        </th>
+                        <th>
+                            <b>UdacAdvertCode</b>
+                            <select name="mydropdown" id="time" class="itemList dropDownStyle" style="width: 50px;" hidden=""></select>
+                        </th>
+
+                        <th><b>Location</b></th>
+                        <th><b>Description / <br> Classification</b></th>
+                        <th><b>Edition/Book</b></th>
+                        <th><b>MonthlyPrice</b></th>
+                    </tr>
+                </thead>
+                <tbody class="birdsproductsBody"></tbody>
+            </table>
+            <br>
+            <br>
+            <div id="birdserrorResults"></div>
+        </div>
+    </div>
+    <div id="submitcancelprodModal" class="submitcancelprodModal modal modalBackground">
+        <a class="modalprodClose" data-icon=""></a>
+        <h4><span data-track="subId"></span><span data-track="companyname"></span><br>Cancel Listing</h4>
+        <h2>Confirm Products To Cancel</h2>
+        <div class="listingItemCodes">
+            <table border="1" class="sortedtable displayTable cancelListingTable1 HeadingsBorder">
+                <thead>
+                    <tr class="sortHeadings gradient">
+                        <th>
+                            <b>ProductType</b>
+
+                        </th>
+                        
+                        <th><b></b></th>
+                        <th>
+                            <b>UdacAdvertCode</b>
+
+                        </th>
+
+                        <th><b>Location</b></th>
+                        <th><b>Description / <br> Classification</b></th>
+                        <th><b>Edition/Book</b></th>
+                        
+                        <th><b></b></th>
+                        <th><b></b></th>
+                        <th><b>MonthlyPrice</b></th>
+                    </tr>
+                </thead>
+                <tbody class="cancelProdBody"></tbody>
+            </table>
+        </div>
+        <br>
+        <h3>Give a reason for Cancelation</h3>
+        <div id="divReason">
+            <input id="cancelprodReason" name="cancelprodReason" placeholder="Reason" class="cancelprodReason" style="width:29.4%; font-size:12px;">
+        </div>
+        <br>
+        <h3>Add a comment for Cancelation</h3>
+        <textarea id="txtCommentprodReason" rows="15" class=" trudonspaceissuetextarea commentField fieldScale" placeholder="Comments" required="required"></textarea>
+        <div class="nsaUploadSingedContract">
+            <h2 class="whiteText">Upload Supporting Documents</h2>
+            <input type="file" class="btn newBtn1" name="FileUploadprod[]" id="nsaprodUploadSignedContract" multiple="" data-track="nsaFileUploadSignedContract" title="Upload only excel, acrobat reader, word or picture documents."><br>
+            <a class="btn btnUploadSignedContract nsaTracking newBtn1" data-track="nsaUploadSignedContract"></a>
+        </div>
+        <a class="cancelprodEishButton btn newBtn2" hidden="">Create Cancelation Request</a>
+        <a class="cancelprodListingButton btn newBtn2">Submit Cancelation</a>
+        <input type="hidden" id="canProdhidden">
+
+        <div id="prodcancelresults"></div>
+    </div>
+    <div id="shopViewModal" class="shopViewModal modal">
+        <a class="modalClose" data-icon=""></a>
+        <h4>Shop View Gallery</h4>
+        <div class="shopViewContainer">
+            <iframe frameborder="0" id="shopViewIframe" class="shopViewIframe"></iframe>
+        </div>
+    </div>
+
+    <div id="startshopingId" class="QuoteModal  modal QuoteStyle">
+        <a class="modalClose" data-icon=""></a>
+
+        <h4 class="ModalHeaderSize">User Details</h4>
+        <div class="scrollableDiv">
+            <div id="accordion-36">
+                <h3 class="AccordionHeader">
+                    <img style="height: 25px; margin-bottom: -5px;" src="/Assets/img/number1.png">&nbsp;Personal Details
+                </h3>
+                <div>
+
+<form action="/" data-ajax="true" data-ajax-mode="replace" data-ajax-update="#loginsuccess" id="AjaxAntiForgeryForm" method="post">                        <div>
+
+                            <input name="__RequestVerificationToken" type="hidden" value="GZMVts8qFQzaDY71Y0c5JjFithSyblN8q38OLxwjvevWb9r7anvXGFFkc9JZtimjAe-9xDJbn_VUwxBl0DteaHuk7-pCIKEP9AxiZeHJ2mQ1">
+                            
+
+                            <!--Phone -->
+                            <div class="phoneValidate"></div>
+                            <input id="cartphone" placeholder="Cell Number" type="number" class="require standardtxt">
+                            <!--Email-->
+                            <div class="cartuseremailValidate"></div>
+                            <input id="cartuseremail" placeholder="Email" class="require standardtxt">
+                            <!--Name-->
+                            <div class="cartnameValidate"></div>
+                            <input id="cartname" placeholder="Name" class="require standardtxt">
+                            <!--City-->
+                            <div class="cityValidate"></div>
+                            <div id="searchFormQq">
+
+                                <input type="search" placeholder="City" id="cartlocationwhereFieldQ" class="whereFieldQ require standardtxt" name="location">
+                            </div>
+                            <!--Street Number-->
+                            
+
+
+
+                        </div>
+</form>                </div>
+
+
+                <h3 class="AccordionHeader">
+                    <img style="height: 25px; margin-bottom: -5px;" src="/Assets/img/number2.png">&nbsp;Cart
+                </h3>
+
+                <div id="startshopingId">
+
+                    <div style="width: 100%; margin-top: 20px;">
+                        <p style="width: 100%; padding: 5px; background: #ccc; font-weight: 900;">Product List</p>
+
+
+                        <table border="0" cellspacing="0" cellpadding="5" style="border: 1px solid #aaa; width: 100%" id="marriage"></table>
+
+
+                        <br>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <button class="btn OrderCompleted newBtn3" style="float: right">Submit Order</button>
+    </div>
+
+    
+
+    <div id="dealsViewModal" class="dealsViewModal modal">
+        <a class="modalClose" data-icon=""></a>
+        <h4>Click to Claim Offer</h4>
+        <div class="dealsViewContainer">
+            <iframe frameborder="0" id="shopViewIframe" class="shopViewIframe"></iframe>
+        </div>
+    </div>
+
+    
+    <div class="services-page">
+        <div id="ServiceModal" class="ServiceModal modal ServiceModalWidth " style="overflow: hidden">
+            <input type="hidden" id="keywordsForBusiness">
+            <a class="modalClose" data-icon=""></a>
+            <h4 style="text-transform: capitalize; font-weight: bold">Service For:  <span style="display: none" id="companyname"></span></h4>
+            <input id="userstate" type="hidden" value="False">
+            <div class="scrollableDiv">
+                <div id="accordion-32">
+
+
+                    <h3 id="quoteHeader">
+                        Select service you want to change below
+                    </h3>
+                    
+                    <ul id="keyWordvals" class="RemoveDots">
+                        <li>
+
+                        </li>
+
+                    </ul>
+
+                    
+
+                </div>
+                <input type="text" list="pets" id="txtBox" name="txtBox" placeholder="Insert equivalence" style="visibility: hidden;">
+                <input type="submit" id="btn" value="Add New" name="btn" onclick="AddNewEquivalence(this);" style="visibility: hidden; ">
+                <div id="btn1" style="visibility: hidden;">
+                    <input type="submit" id="showSubmitServiceMsg" value="Save" name="btn1" class="btn">
+                    <div class="commentValidate"></div>
+                </div>
+            </div>
+            
+            <div class="commentValidate"></div>
+
+        </div>
+    </div>
+
+    
+    <div id="2ndServiceModal" class="2ndServiceModal modal" style="width: 830px; top: 5px;height: auto; ">
+        <a class="modalClose" data-icon=""></a>
+        <input type="hidden" id="selectedKeywordEquivalance">
+        <input type="hidden" id="hdnKeyword">
+
+        <h4 style="text-transform: capitalize; font-weight: bold">Service For: </h4>
+        <div class="scrollableDiv">
+        </div>
+    </div>
+
+    
+    <div id="EditServiceModal" class="EditServiceModal modal" style="width: 805px; top: 5px; height: auto; ">
+        <a class="modalClose" data-icon=""></a>
+        <h4 style="text-transform: capitalize; font-weight: bold">Edit Equivalent For: </h4>
+        <input type="hidden" id="hdnKeywordName">
+        <input type="hidden" id="hdnOldKeywordEquivalet">
+        <table border="1" cellpadding="5" cellspacing="5" style="text-align: left; border: 1px #ccc solid;">
+            <tbody><tr class="headerRow">
+                <td>Equivalence Keyword</td>
+                <td><label id="selectedKeyword"></label></td>
+
+            </tr>
+            <tr class="font12">
+                <td> Replace Equivalent keyword</td>
+                <td>
+                    <input style="width:100% !important;" type="text" class="cw_v_keywords" insert="" equivalent.."="" name="Keywords" autocomplete="off" id="replaceKeyword">
+                    
+                    <div class="keywords-container">
+                        <div class="taxonomy-popup">
+                            <a class="taxonomy-close" data-icon=""></a>
+                            <h4>Select two to boost ranking for </h4>
+                            <ul class="taxonomy-items"></ul>
+                        </div>
+                    </div>
+
+                </td>
+
+            </tr>
+
+        </tbody></table>
+        <input type="submit" value="Save" id="editSubmit" class="btn">
+        <input type="submit" value="Cancel" id="cancelEditSubmit" class="btn">
+    </div>
+
+    
+    <div id="AddServiceModal" class="AddServiceModal modal" style="width: 805px; top: 5px;height: auto; ">
+        <a class="modalClose" data-icon=""></a>
+        <h4 style="text-transform: capitalize; font-weight: bold">Add Equivalent For: </h4>
+        <input type="hidden" id="hdnKeywordName">
+        <input type="hidden" id="hdnKeywordEquivalet">
+        <table border="1" cellpadding="5" cellspacing="5" style="text-align: left; border: 1px #ccc solid;">
+            <tbody><tr class="headerRow">
+                <td>Keyword</td>
+                <td><label id="selectedKeyword"></label></td>
+
+            </tr>
+            <tr class="font12">
+                <td>Equivalent Keyword</td>
+                <td>
+                    <input style="width:100% !important;" type="text" class="cw_v_keywords" placeholder=" insert equivalent.." name="Keywords" autocomplete="off" id="replaceKeyword">
+                    
+                    <div class="keywords-container">
+                        <div class="taxonomy-popup">
+                            <a class="taxonomy-close" data-icon=""></a>
+                            <h4>Select two to boost ranking for </h4>
+                            <ul class="taxonomy-items"></ul>
+                        </div>
+                    </div>
+
+                </td>
+
+            </tr>
+
+        </tbody></table>
+        <input type="submit" value="Save" id="addSubmit" class="btn">
+        <input type="submit" value="Cancel" id="cancelAddSubmit" class="btn">
+    </div>
+
+    
+
+    <div id="DeleteServiceModal" style="margin-left:-200px;" class="QuoteModal  modal QuoteStyle">
+        <a class="modalClose" data-icon=""></a>
+        <h4 class="ModalHeaderSize">Delete Equivalent For: </h4>
+        <input type="hidden" id="hdnKeywordId">
+        <input type="hidden" id="hdnKeywordName">
+        <input type="hidden" id="hdnKeywordEquivalet">
+        <div class="scrollableDiv">
+            <div id="accordion-35">
+                
+                <div>
+                    <p>Are you sure you want to delete this Equivalent Keyword?</p>
+
+
+                </div>
+                <input type="submit" value="Delete" id="deleteSubmit" class="btn">
+                <input type="submit" value="Cancel" id="cancelDeleteSubmit" class="btn">
             </div>
         </div>
     </div>
-    <br>
-    <div id="queuePasswordField" style="display: none">
-        <label class="passwordValidateText" style="color: red">Please enter one time password sent to your cellphone</label><br>
-        <div style="color:red" class="passwordValidate"></div>
-        <input id="txtotp" class="standardtxt">
-    </div>
-    <br>
-    <input type="hidden" id="testComp">
-    <div id="qMessage"></div>
-    <div id="qServiceValidationMessage"></div>
-    <p><input type="checkbox" id="checkIfMtestingQueue" value="hello"><span id="testQueueMessage"></span></p><br>
-    <input type="submit" value="Submit" id="queueSubmitMsg" class="btn ">
-    <div class="commentValidate"></div>
-</div>
 
-
-<div id="contentEmailModal" class="contentEmailModal modal">
-    <a class="modalClose" data-icon=""></a>
-    <h4>Email Comments</h4>
-    <label>
-        From:
-        <input type="text" id="fromEmail" class="standardtxt">
-    </label>
-    <label>
-        Subject<span class="subjectValidate"></span>
-        <input type="text" id="subjectContentEmail" class="standardtxt subject123">
-    </label>
-    <label class="controlLabel" for="problemField">Comments</label>
-    <span class="requiredComment"></span>
-    <textarea name="comments" class="problemField text" id="comments"></textarea>
-    <br>
-    <br>
-    <input type="submit" id="contentEmail" class="btn" value="Send">
-</div>
-
-
-<div id="askCertiantyAddModal" class="askCertiantyAddModal modal">
-    <a class="modalClose" data-icon=""></a>
-    <h4>New Business Location</h4>
-    <fieldset class="fieldset">
-        <div id="sureyouwantnewbusiness"></div>
-        <div style="margin-left:23%;">
-            <button type="button" class="btn" id="yesAddnewBusinessLocation">Yes</button>
-            &nbsp;&nbsp;&nbsp;&nbsp;
-            <button type="button" class="btn" id="noAddnewBusinessLocation">No</button>
+    
+    <!--Email Functionality start-->
+    <div id="EmailModal" class="EmailModal modal emailConfirm-page">
+<form action="/page/privacy-policy/" id="AjaxAntiForgeryForm" method="post"><input name="__RequestVerificationToken" type="hidden" value="B6dBzHOEE5IVE1-_O7piO2Pm-ZStYELWfpUTd6yb9UFnRO__LHYHHNfEy0Sc8CsFHAswHp4bYZWYjZUCkAgd6K1brVoI0Iks0RJL3eThftc1"></form>        <a class="modalClose" data-icon=""></a>
+        <h4><b id="myheader">Email Confirmation</b></h4>
+        <div class="controlGroup">
+            <p class="textStyles">To</p>
+            <div>
+                <input id="tobusiness" class="inputSize" disabled="">
+            </div>
+                <label class="textStyles">*Email</label>
+                <div>
+                    <input type="text" id="username" class="inputSize">
+                </div>
+                <label class="textStyles">*Mobile</label>
+                <div>
+                    <input type="text" id="phone" class="inputSize">
+                </div>
+            <p class="textStyles">Subject</p>
+            <div>
+                <input type="text" id="subject" class="inputSize">
+            </div>
+            <p class="textStyles">*Body</p>
+            <div>
+                <textarea rows="3" id="body" class="inputSize"></textarea>
+            </div>
+            <button class="btn" id="submit">Send</button>
         </div>
-    </fieldset>
-</div>
+    </div>
 
-<script src="/Assets/js/vendor/q.js"></script>
-<script src="/assets/js/toapp.js"></script>
+    <div id="BookingCancelModal" class="CancelModal modal">
+        <a class="modalClose" data-icon=""></a>
+        <h4>Booking Cancellation</h4>
+        <fieldset class="fieldset" id="otpfielset">
+            <legend class="legend">Cancellation</legend>
+            <div id="CancelDateTime"></div>
+            <div id="BookingCancelMargin">
+                <button type="button" class="btn" id="YesCancelBooking">Yes</button>
+                &nbsp;&nbsp;&nbsp;&nbsp;
+                <button type="button" class="btn" id="NoCancel">No</button>
+            </div>
+            <div id="CancelBookingMessage"></div>
+        </fieldset>
+    </div>
+
+    <div id="BookingRescheduleModal" class="RescheduleModal modal">
+        <a id="reschedmodalClose" data-icon=""></a>
+        <h4>Booking Reschedule</h4>
+        Please Choose Reschedule Date
+        <input type="hidden" id="reschDate">
+        <fieldset id="slotsfieldset" style="margin-bottom: 5px; width: 483px; display: none">
+            <legend>Select Slots</legend>
+            <div id="slotTime"></div>
+        </fieldset>
+        <div id="reschedSuccessMessage"></div>
+        <a class="btn" id="submitBooking">Submit</a>
+        <a class="btn" style="float: right" id="cancel">Cancel</a>
+        <div id="rescheduleBookingMessage"></div>
+        <input type="hidden" id="slotid">
+        <input type="hidden" id="bookingid">
+        <input type="hidden" id="serviceid">
+        <input type="hidden" id="masterid">
+    </div>
+    <input type="hidden" id="hdnSubName">
+    <input type="hidden" id="hdnSubId">
+    <input type="hidden" id="hdnMasterId">
+    <input type="hidden" id="hdnUserName">
+    <div id="OpenToBookCars" class="CarModal modal">
+        <a class="modalClose" data-icon=""></a>
+        <h4 id="Trunkman">Booking With: <span id="bookingName"></span></h4>
+        <br>
+        <input type="hidden" id="bookStatus">
+        <div id="BookingGlobalScroller">
+                <fieldset class="fieldset">
+                    <legend class="legend">User Details</legend>
+                    <div id="UserDetails">
+                        <input class="bookingPhoneField" id="FirstName" placeholder="First Name">
+                        <div id="Emailcheck"></div>
+                        <input class="bookingPhoneField" id="userEmail" placeholder="Email"><br>
+                        <div id="cellphonecheck"></div>
+                        <div id="ValidCellPhoneNumber"></div>
+                        <input class="bookingPhoneField" id="Cellphone" placeholder="Cell Phone"><br>
+                    </div>
+                </fieldset>
+                <br>
+                <div class="bookingLogic"></div>
+            <div class="bookingLogic">
+
+                <div id="accordion-300">
+                    <h3>
+                        <img style="height: 25px; margin-bottom: -5px;" src="/Assets/img/number1.png">Available Services
+                    </h3>
+                    <div id="AvailableServices">
+                        <div class="ServiceLabel"></div>
+                        <textarea rows="3" id="BookingAdddionalComments" placeholder="Add Additional Comments" style="border-radius: 6px; width: 450px; border: 1px solid #9AC1C9;"></textarea>
+                    </div>
+                    <h3>
+                        <img style="height: 25px; margin-bottom: -5px;" src="/Assets/img/number2.png">Pick A Date
+                    </h3>
+                    <div id="PickADate">
+                        <input type="hidden" id="BookingPopUpDate">
+                    </div>
+                    <h3>
+                        <img style="height: 25px; margin-bottom: -5px;" src="/Assets/img/number3.png">Select Slots
+                    </h3>
+                    <div id="SelectSlots">
+                        <div id="ActualSlotTime"></div>
+                    </div>
+                    <h3>
+                        <img style="height: 25px; margin-bottom: -5px;" src="/Assets/img/number4.png">Recurring
+                    </h3>
+                    <div id="summCars">
+                        <div id="sumaryCar"></div>
+                        <input type="radio" name="timeRecur" id="NoRecur" class="Recur" checked="">Once Off<br>
+                        <input type="radio" name="timeRecur" id="dailyRecurrence" class="Recur">Daily<br>
+                        <input type="radio" name="timeRecur" id="weeklyRecurrence" class="Recur">Weekly
+                        <!--Actual recurrence details-->
+                        <div id="dailyRecurrenceDetaials">
+                            <input type="radio" name="dailyRecur" checked="">Every
+                            <input type="number" min="1" max="7" value="1" id="RecurEveryDays">
+                            Day(s)<br>
+                        </div>
+                        <div id="weeklyRecurrenceDetails">
+                            <input type="checkbox" name="WeekDays" value="1"> Mon <input type="checkbox" name="WeekDays" value="2"> Tue <input type="checkbox" name="WeekDays" value="3"> Wed
+                            <input type="checkbox" name="WeekDays" value="4"> Thur
+                            <input type="checkbox" name="WeekDays" value="5"> Fri
+                            <input type="checkbox" name="WeekDays" value="6"> Sat
+                            <input type="checkbox" name="WeekDays" value="7"> Sun
+                        </div>
+                        <div id="OunceOffHideEndAfter">
+                            <hr id="hrStyle">
+                            End After <input type="number" id="occurances" min="1" value="10"> Occurances
+                        </div>
+                    </div>
+                </div>
+                    <br>
+                    <fieldset class="fieldset" id="otpfielsetOnBookPopUp">
+                        <legend class="legend">One Time Password</legend>
+                        <div id="passwordInput">
+                            <label style="color:red">Please enter one time password sent to your cellphone</label><br>
+                            <div id="optCheck"></div>
+                            <div class="optdownError"></div>
+                            <input type="text" id="oneTimePin" class="bookingPhoneField">
+                        </div>
+                    </fieldset>
+
+            </div>
+
+            <p><input type="checkbox" id="checkIfMtestingBooking" value="hello"><span id="testBookMessage"></span></p><br>
+            <br>
+            <input type="button" id="booknowPopUp" class="btn" value="Book Now!">
+                <input type="submit" value="Resend OTP" id="ResendOTP">
+        </div>
+        <div id="PleaseSelectSlots"></div>
+        <div id="noaccountBookMessage"></div>
+        <div id="BookedSlotMessage"></div>
+
+    </div>
+
+    <div class="verticalLoginModal modal">
+        <a class="modalClose" data-icon=""></a>
+        <h4 id="Trunkman">USER DETAILS</h4>
+        <fieldset class="fieldset">
+            <legend class="legend">To view your <span id="verticalDifferentiater"></span> provide your email and cell number </legend>
+            <div id="UserDetails">
+                <div class="VerticalEmailcheck"></div>
+                <input class="bookingPhoneField verticalLoginuserEmail" placeholder="Email"><br>
+                <div class="VerticalCellphonecheck"></div>
+                <input class="bookingPhoneField verticalLoginCellphone" placeholder="Cell Phone"><br>
+                <div class="verticalNameHidden">
+                    <label style="color:red">Please enter your name</label><br>
+                    <input class="bookingPhoneField verticalLoginFirstName" placeholder="First Name">
+                </div>
+                <div class="verticalOTPStatus">
+                    <label style="color:red">Please enter otp sent to your phone</label><br>
+                    <input class="bookingPhoneField" id="verticalOtpUpdate" placeholder="One Time Password">
+                </div>
+            </div>
+            <input type="submit" value="Login" class="verticalLogin btn">
+        </fieldset>
+    </div>
+
+    <div id="verifyLoginModal" class="verifyLoginModal modal">
+        <a class="modalClose" data-icon=""></a>
+        <h4 id="Trunkman">Verify your detials</h4>
+        <fieldset class="fieldset">
+            <legend class="legend">Re-enter your email and cell number<br>Your booking is ready to be sent</legend>
+            <div id="UserDetails">
+                <div class="VerticalEmailcheck"></div>
+                <input class="bookingPhoneField" id="verifyLoginuserEmail" placeholder="Email"><br>
+                <div class="VerticalCellphonecheck"></div>
+                <input class="bookingPhoneField" id="verifyLoginCellphone" placeholder="Cell Phone"><br>
+            </div>
+
+            <input type="submit" value="Login" id="BookingsVerifyLogin" class="btn">
+        </fieldset>
+    </div>
+    <div id="QueueModal" class="QueueModal modal" style="overflow:hidden">
+        <a class="modalClose" data-icon=""></a>
+        <h4 id="Trunkman">Queue With: <span id="QueueBookingName"></span></h4>
+        <h3 id="qHead" style="font-family: Trebuchet MS,Tahoma,Verdana,Arial,sans-serif; color: #1c94c4; font-size: 1.17em; -webkit-margin-before: 1em; -webkit-margin-after: 1em; -webkit-margin-start: 0px; -webkit-margin-end: 0px; ">Queue in  5 easy steps</h3>
+        <p id="qText" style="color:grey;">Save your time from long queues. Queue from anywhere. Decide when its best to leave when you get your SMS’s.</p>
+        <div class="scrollableDiv">
+            <div id="accordion-3">
+                <h3>
+                    <img style="height: 25px; margin-bottom: -5px;" src="/Assets/img/number1.png">&nbsp;Send my queue reminders to the following details
+                </h3>
+                <div>
+<form action="/" data-ajax="true" data-ajax-mode="replace" data-ajax-update="#loginsuccess" id="AjaxAntiForgeryForm" method="post">                        <div>
+                            <br>
+                            <input name="__RequestVerificationToken" type="hidden" value="UIquYcxr8QwOdE4datwxCDZM0whp_Yy1nPrZbpyJou8wMTeqSO_Cj4brYCnFBj8KJkaJ_vTExRwJBqbyjfeiqXFBXznnN9WQNuGPzkTPrkU1">                                <!--Name-->
+                                <div class="QnameValidate"></div>
+                                <a href="#" data-tooltip="To know how to address you"> <input id="qname" placeholder="Name" class="bookingPhoneField"></a>
+                                <br>
+                                <!--Email-->
+                                <div class="qUsernameValidate"></div>
+                                <a href="#" data-tooltip="Backing up your notifications could be important"><input id="qUsername" placeholder="Email" class="bookingPhoneField"></a>
+                                <!--Phone -->
+                                <br>
+                                <div style="color: red" class="QphoneValidate"></div>
+                                <a href="#" data-tooltip="We would like you to have your notifications on hand"><input id="queueCellNumber" class="qCellPhone require bookingPhoneField" placeholder=" cell number"></a>
+                                <br>
+                                <div class="idNumberValidate"></div>
+                                <div style="padding: 1px; display: inline-block; margin: 1%; ">
+
+                                    <select class="queueIdentificationValues" style="height: 30px;background: #fff; border: 1px solid #cdd1d4; border-radius: 4px; ">
+
+                                        <option>Please Select</option>
+
+                                        <option>Account Number</option>
+                                        <option>Reference Number</option>
+                                        <option>ID Number</option>
+                                    </select><a href="#" data-tooltip="The department needs to make sure that you are who you say you are. ">
+                                        <input class="require" type="text" id="idNumber" placeholder="Number" style="background: #fff; border: 1px solid #cdd1d4; height: 30px; border-radius: 4px; margin-left: 12px; float: right; width: 295px; ">
+                                    </a>
+                                    <a href="#" data-tooltip="The department needs to make sure that you are who you say you are. ">
+                                        <input class="require" id="otherIdentification" placeholder="Number" style="background: #fff; border: 1px solid #cdd1d4; height: 30px; border-radius: 4px; margin-left: 12px; float: right; width: 295px; ">
+                                    </a>
+                                </div>
+                        </div>
+</form>
+                </div>
+                <h3 id="queueServiceType">
+                    <img style="height: 25px; margin-bottom: -5px;" src="/Assets/img/number2.png">&nbsp;I want to queue for the following services
+                </h3>
+                <div style="max-height: 300px; overflow: auto;">
+
+                    <div class="queuesServices"></div>
+                    <br>
+
+                </div>
+                <h3>
+                    <img style="height: 25px; margin-bottom: -5px;" src="/Assets/img/number3.png">&nbsp;Find me the earliest time starting from...
+                </h3>
+                <div>
+                    
+                    <div id="queueTodaypickerDiv" style="margin-left:0px;">
+
+                    </div>
+                    <input type="radio" id="queueFutureDates" name="joinQueue" class="joinQueue">Specify date(From)
+                    <div style="display: none;" id="pickerDiv">
+                        <input id="qDate" type="text" name="date" style="width: 320px; height: 30px;">
+                        <br>
+                        <br>
+                        <select id="TimeStorer"></select>&nbsp;<span id="qMsg"></span>
+                    </div>
+                    <div style="color:red;display:none" id="Queuemessage">company closed on this selected date</div>
+
+                    <span id="closedQueues"></span>
+                    <br>
+                    
+                </div>
+                
+                <h3><img style="height: 25px; margin-bottom: -5px;" src="/Assets/img/number4.png">&nbsp;Specify Comments</h3>
+                <div>
+                    <textarea id="qtxtComment" style="height: 90px; padding: 1px 2px 64px 0px;" placeholder="Comments" rows="3" class="standardtxt require"></textarea>
+                </div>
+            </div>
+        </div>
+        <br>
+        <div id="queuePasswordField" style="display: none">
+            <label class="passwordValidateText" style="color: red">Please enter one time password sent to your cellphone</label><br>
+            <div style="color:red" class="passwordValidate"></div>
+            <input id="txtotp" class="standardtxt">
+        </div>
+        <br>
+        <input type="hidden" id="testComp">
+        <div id="qMessage"></div>
+        <div id="qServiceValidationMessage"></div>
+        <p><input type="checkbox" id="checkIfMtestingQueue" value="hello"><span id="testQueueMessage"></span></p><br>
+        <input type="submit" value="Submit" id="queueSubmitMsg" class="btn ">
+        <div class="commentValidate"></div>
+    </div>
 
 
-<script src="/assets/js/main-built.js"></script>
-<script src="/assets/js/webtrends.js"></script>
+    
+    <div class="services-page">
+        <div id="YextModal" class="ServiceModal modal " style="overflow: hidden">
+            <input type="hidden" id="keywordsForBusiness">
+            <a class="modalClose" data-icon=""></a>
+            <h4 style="text-transform: capitalize; font-weight: bold">Service For:  <span style="display: none" id="companyname"></span></h4>
+            <input id="userstate" type="hidden">
+            
+            <div class="scrollableDiv">
+                <div id="accordion-32">
+
+
+                    <h3 id="quoteHeader">
+                        Select service branches you want to add
+                    </h3>
+                    
+                    <ul id="keyWordvals" class="RemoveDots">
+                        <li>
+
+                        </li>
+
+                    </ul>
+
+                    
+
+                </div>
+                <input type="text" list="pets" id="txtBox" name="txtBox" placeholder="Insert equivalence" style="visibility: hidden;">
+                <input type="submit" id="btn" value="Add New" name="btn" onclick="AddNewEquivalence(this);" style="visibility: hidden; ">
+                <div id="btn1" style="visibility: hidden;">
+                    <input type="submit" id="showSubmitServiceMsg" value="Save" name="btn1" class="btn">
+                    <div class="commentValidate"></div>
+                </div>
+            </div>
+            
+            <div class="commentValidate"></div>
+
+        </div>
+    </div>
+
+    
+
+    
+    <div id="contentEmailModal" class="contentEmailModal modal">
+        <a class="modalClose" data-icon=""></a>
+        <h4>Email Comments</h4>
+        <label>
+            From:
+            <input type="text" id="fromEmail" class="standardtxt">
+        </label>
+        <label>
+            Subject<span class="subjectValidate"></span>
+            <input type="text" id="subjectContentEmail" class="standardtxt subject123">
+        </label>
+        <label class="controlLabel" for="problemField">Comments</label>
+        <span class="requiredComment"></span>
+        <textarea name="comments" class="problemField text" id="comments"></textarea>
+        <br>
+        <br>
+        <input type="submit" id="contentEmail" class="btn" value="Send">
+    </div>
+
+
+    <div id="askCertiantyAddModal" class="askCertiantyAddModal modal">
+        <a class="modalClose" data-icon=""></a>
+        <h4>New Business Location</h4>
+        <fieldset class="fieldset">
+            <div id="sureyouwantnewbusiness"></div>
+            <div style="margin-left:23%;">
+                <button type="button" class="btn" id="yesAddnewBusinessLocation">Yes</button>
+                &nbsp;&nbsp;&nbsp;&nbsp;
+                <button type="button" class="btn" id="noAddnewBusinessLocation">No</button>
+            </div>
+        </fieldset>
+    </div>
+
+    <script src="/Assets/js/vendor/q.js"></script>
+    <script src="/assets/js/toapp.js"></script>
+    
+    
+    
+    <script src="/assets/js/main-built.js"></script>
+    <script src="/assets/js/webtrends.js"></script>
 <script> 
 var _tag = new WebTrends(); 
 _tag.dcsGetId();
@@ -1235,7 +2242,7 @@ _tag.DCSext._mainreq = '1';
 _tag.DCSext.site_type = 'YELLOW'; 
 _tag.DCSext.site_language = 'en_za'; 
 _tag.DCSext.page = "Privacy Policy"
-_tag.DCSext.user_userid = "43511bf4-7b4b-4b5e-a542-a4295632065d"
+_tag.DCSext.user_userid = "c0b42c16-7dab-4a5c-ae2a-615bde0b49c2"
 _tag.DCSext.search_what = ""
 _tag.DCSext.search_where = ""
 _tag.WT.oss_r = ''; 
@@ -1269,29 +2276,74 @@ _tag.dcsCollect();
 	}
 </script>
 
-<!-- Start of Async HubSpot Analytics Code -->
-<script type="text/javascript">
-    (function (d, s, i, r) {
-        if (d.getElementById(i)) { return; }
-        var n = d.createElement(s), e = d.getElementsByTagName(s)[0];
-        n.id = i; n.src = '//js.hubspot.com/analytics/' + (Math.ceil(new Date() / r) * r) + '/216320.js';
-        e.parentNode.insertBefore(n, e);
-    })(document, "script", "hs-analytics", 300000);
-</script>
-<!-- End of Async HubSpot Analytics Code -->
-<!-- Start of EF tag -->
-<script type="text/javascript">
-    (function () {
-        var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
-        em.src = ('https:' == document.location.protocol ? 'https://za-ssl' : 'http://za-cdn') + '.effectivemeasure.net/em.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
-    })();
-</script>
-<noscript>
-    <img src="//za.effectivemeasure.net/em_image" alt="" style="position: absolute; left: -5px;" />
-</noscript>
-<!-- End of EF tag -->
+    <!-- Start of Async HubSpot Analytics Code -->
+    <script type="text/javascript">
+        (function (d, s, i, r) {
+            if (d.getElementById(i)) { return; }
+            var n = d.createElement(s), e = d.getElementsByTagName(s)[0];
+            n.id = i; n.src = '//js.hubspot.com/analytics/' + (Math.ceil(new Date() / r) * r) + '/216320.js';
+            e.parentNode.insertBefore(n, e);
+        })(document, "script", "hs-analytics", 300000);
+    </script>
+    <!-- End of Async HubSpot Analytics Code -->
+    <!-- Start of EF tag -->
+    <script type="text/javascript">
+        (function () {
+            var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+            em.src = ('https:' == document.location.protocol ? 'https://za-ssl' : 'http://za-cdn') + '.effectivemeasure.net/em.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+        })();
+    </script>
+    <noscript>
+        <img src="//za.effectivemeasure.net/em_image" alt="" style="position: absolute; left: -5px;" />
+    </noscript>
+    <!-- End of EF tag -->
+    
+    <script type="text/javascript">
+        ToApp.init({
+            title: "Download our mobile app",
+            variations: {
+                iphone: {
+                    description: "Download our app for your device, it's briliant. Tap \"OK\" or \"No Thanx\"",
+                    url: "https://itunes.apple.com/za/app/yellow-pages-sa/id440150798?mt=8",
+                    confirm_text: "OK",
+                    reject_text: "Cancel"
+                },
+                android: {
+                    title: "Download our app for your device, it's briliant. Tap \"OK\" or \"No Thanx\"",
+                    url: "https://play.google.com/store/apps/details?id=com.cellcity.trudon&hl=en"
+                },
+                ipad: {
+                    description: "Download our app for your device, it's briliant. Tap \"OK\" or \"No Thanx\"",
+                    url: "https://itunes.apple.com/za/app/yellow-pages-sa-for-ipad/id469342846",
+                    confirm_text: "OK",
+                    reject_text: "Cancel"
+                }
+            }
+        });
+    </script>
 
+
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return; n = f.fbq = function () {
+                n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            }; if (!f._fbq) f._fbq = n;
+            n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;
+            t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)
+        }(window,
+        document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '285230131873329');
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1" style="display:none"
+             src="https://www.facebook.com/tr?id=285230131873329&ev=PageView&noscript=1" />
+    </noscript>
+    <!-- DO NOT MODIFY -->
+    <!-- End Facebook Pixel Code -->
 
 
 
