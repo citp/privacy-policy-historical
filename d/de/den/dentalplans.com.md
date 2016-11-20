@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dentalplans.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607214949id_/http%3A//www.dentalplans.com/discountdentalplans/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dentalplans.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120081941id_/http%3A//www.dentalplans.com/discountdentalplans/privacystatement) for the most accurate reproduction.*
 
 # Privacy Policy | Dental Plans
 
@@ -27,6 +27,8 @@ Additionally, DentalPlans.com displays targeted advertisements based on personal
 ## Cookies
 
 DentalPlans.com may set and access DentalPlans.com cookies on your computer. Advertisers or other companies do not have access to DentalPlans.com's cookies. DentalPlans.com uses web beacons to access DentalPlans.com cookies inside and outside of our network of web sites and in connection with DentalPlans.com products and services.
+
+DentalPlans uses the website recording service SessionCam. SessionCam is a prodcut that has been developed by www.servicetick.com. SessionCam may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. The information collected does not include payment details or any sensitive information and it is for internal use only. Information collected is used to improve our website usability and is stored and used for aggregated and statistical reporting only.
 
 DentalPlans.com may use third-party advertising companies to serve ads on our site, and it may also allow the companies that show advertisements on some of our pages to set and access their own cookies on your computer. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. These cookies are set and subsequently accessed on an Internet User’s computer after the user interacts with, views, or clicks on a targeted ad. If you do not wish to have other companies’ cookies set on your computer, do not interact with, view or click on the targeted ads. These other companies' use of their cookies is subject to their own privacy policies and not the DentalPlans.com Privacy Policy, and as such, their privacy policy may materially differ in both form and substance from the DentalPlans.com Privacy Policy.
 
