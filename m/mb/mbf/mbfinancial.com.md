@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbfinancial.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317003949id_/https%3A//www.mbfinancial.com/privacy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbfinancial.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120064238id_/https%3A//www.mbfinancial.com/privacy/index.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | MB Financial Bank
 
