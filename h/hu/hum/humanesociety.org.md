@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the humanesociety.org privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608135603id_/http%3A//www.humanesociety.org/privacy.html%3Fcredit%3Dweb_globalfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanesociety.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120100506id_/http%3A//www.humanesociety.org/privacy.html%3Fcredit%3Dweb_globalfooter) for the most accurate reproduction.*
 
 # Privacy Policy : The Humane Society of the United States
 
 The Humane Society of the United States (The HSUS) is committed to your right to privacy and to keeping your personal information private. You can visit The Humane Society of the United States web site without telling us who you are or revealing any identifying information about yourself. However, because our web site includes areas in which visitors can provide personally identifying information, we have developed this Privacy Policy to inform you of our policies and practices regarding information we collect about you.
 
-This Privacy Policy governs the URL [http://www.humanesociety.org](http://www.humanesociety.org/) and certain electronic communications sent out by The HSUS. This web site is owned and operated by The Humane Society of the United States for the benefit of its members and other visitors interested in the protection of all animals. Our headquarters is located at 2100 L Street, NW, Washington, DC 20037. The HSUS reserves the right to modify or amend this Privacy Policy at any time and for any reason. Any changes to this Privacy Policy will be preceded by a notice posted to this Privacy Policy at least ten (10) days prior to the effective date of such change.
+This Privacy Policy governs the URL [http://www.humanesociety.org](http://www.humanesociety.org/) and certain electronic communications sent out by The HSUS. This web site is owned and operated by The Humane Society of the United States for the benefit of its members and other visitors interested in the protection of all animals. Our headquarters is located at 1255 23rd Street, NW, Suite 450, Washington, DC 20037.
 
-## How We Collect Information About You 
+## How We Collect Information About You
 
 ###   
 Information You Voluntarily Provide
@@ -41,4 +41,4 @@ The HSUS uses generally accepted, industry-standard security systems, software, 
 
 ### Contacting The HSUS
 
-If you would like to contact The HSUS about correcting information we might have collected, or if you have any questions about this Privacy Policy, please e-mail us at [humanesociety@hsus.org](mailto:humanesociety@hsus.org) or write to us at Webmaster, The HSUS, 2100 L Street, NW, Washington, DC 20037.
+If you would like to contact The HSUS about correcting information we might have collected, or if you have any questions about this Privacy Policy, please e-mail us at [humanesociety@hsus.org](mailto:humanesociety@hsus.org) or write to us at Webmaster, The HSUS, 1255 23rd Street, NW, Suite 450, Washington, DC 20037.
