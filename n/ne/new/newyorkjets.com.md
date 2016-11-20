@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyorkjets.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616100019id_/http%3A//www.newyorkjets.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorkjets.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120165740id_/http%3A//www.newyorkjets.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # New York Jets | Privacy Policy
 
@@ -8,9 +8,9 @@
 
 **What is the New York Jets privacy policy?**
 
-The New York Jets LLC organization (“we,” “our,” “us”) respects your privacy and values your trust and confidence.  This privacy policy (the "Privacy Policy") applies to our websites and online services that link to or post this Privacy Policy (collectively, the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy.  Please note that this Privacy Policy does not apply to any information that is collected or obtained through sites or services that do not link to this Privacy Policy (including the Team Shop) or information collected by NFL Enterprises LLC, the National Football League, or other members of the NFL Family (collectively, “NFL,” ) or the other member clubs (the "Member Clubs").
+The New York Jets LLC organization ("we," "our," "us") respects your privacy and values your trust and confidence.  This privacy policy (the "Privacy Policy") applies to our websites and online services that link to or post this Privacy Policy (collectively, the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy.  Please note that this Privacy Policy does not apply to any information that is collected or obtained through sites or services that do not link to this Privacy Policy (including the Team Shop) or information collected by NFL Enterprises LLC, the National Football League, or other members of the NFL Family (collectively, "NFL," ) or the other member clubs (the "Member Clubs").
 
-New York Jets LLC has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. ** ** TRUSTe certification only covers information collected on [**www.newyorkjets.com**](http://www.newyorkjets.com/) and on the Official New York Jets mobile application. If you have any questions or comments please see the Contact Us section below. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [**https://feedback-form.truste.com/watchdog/request**](https://feedback-form.truste.com/watchdog/request).
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 [](https://privacy.truste.com/privacy-seal/National-Football-League/validation?rid=2455c057-e5be-4ea9-8b25-bf229cbc7666 "TRUSTe European Safe Harbor certification")
 
@@ -21,7 +21,7 @@ New York Jets LLC has received TRUSTe's Privacy Seal signifying that this privac
   5. **      ****Cookies, Similar Technologies, and Advertising**
   6. **      ****Links To Other Web Sites**
   7. **      ****Security**
-  8. **      ****Children’s Privacy**
+  8. **      ****Children's Privacy**
   9. **      ****Changes To This Privacy Policy**
   10. **      ****Access and Choice**  
   11. **     ****Your California Privacy Rights**
@@ -73,7 +73,7 @@ We may use information that we collect through the Services for a variety of pur
 
 
 
-If you choose to use our referral service to tell a friend about our site or services, we will ask for your friend’s name and emal address, to send your friend a one-time email inviting him or her to visit the site.
+If you choose to use our referral service to tell a friend about our site or services, we will ask for your friend's name and emal address, to send your friend a one-time email inviting him or her to visit the site.
 
 We send you push notifications if you choose to receive them for notifying you of matches for our singles service, letting you know when someone has sent you a message, or for other service-related matters. If you wish to opt-out from receiving these types of communications you may turn them off at the device level, under Settings.
 
@@ -90,7 +90,7 @@ We are committed to maintaining your trust, and we want you to understand when a
   * **Select Business Partners:**   With your permission, we may share your information with select business partners so that they can provide you with special offers, promotional materials, and other materials that may be of interest to you. For example, you may be presented with an opportunity to have certain information shared with our third party business partners when you enter a contest or sweepstakes or elect to receive marketing offers or other information.  If you do not elect to have your information shared, it will not be shared with such third parties.  We take measures to help ensure that our partners protect the confidentiality, integrity, and security of any information we share with them.  However, we are not responsible for the privacy practices of our business partners, which may use your information for their own purposes. 
 
 
-  * **Third-Party Ad Serving and Audience and Traffic Measurement Services:** We may use third-parties to serve advertisements on the Services. These third parties may set their own cookies or similar web technologies to collect information about users’ online activities over time and across different websites. To manage your preferences you may opt out here http://preferences-mgr.truste.com/.
+  * **Third-Party Ad Serving and Audience and Traffic Measurement Services:** We may use third-parties to serve advertisements on the Services. These third parties may set their own cookies or similar web technologies to collect information about users' online activities over time and across different websites. To manage your preferences you may opt out here http://preferences-mgr.truste.com/.
 
 
   * **Frames:** Some of our pages utilize framing techniques to serve content to from our partners while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to www.newyorkjets.com.
@@ -128,7 +128,7 @@ You also may be able to link an account from a social networking service (e.g., 
   * Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our Services, but your ability to use certain features may be limited.
 
 
-  * Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as Flash to collect and store information[SS1] . Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: [**http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html**](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) iPhone users are able to opt-out from HTML5 LSO’s currently on the Apple iOS (Settings > Safari > Databases).
+  * Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as Flash to collect and store information[SS1] . Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: [**http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html**](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) iPhone users are able to opt-out from HTML5 LSO's currently on the Apple iOS (Settings > Safari > Databases).
 
 
   * We may use mobile analytics software to allow us to better understand the functionality of our Services. This software may record information such as how often you use an application, the events that occur within the application, aggregated usage, performance data, and where an application was downloaded from.
@@ -148,7 +148,7 @@ We have adopted security procedures to help protect against loss, misuse, and un
 
 **8.    Children's Privacy**
 
-The Services do not knowingly collect, use, or disclose personal information from children under the age of 13.   If we are made aware we have collected personal information from a child under 13 years old in a manner that is inconsistent with the Children’s Online Privacy Protection Act (“COPPA”), we will delete this information as soon as possible.
+The Services do not knowingly collect, use, or disclose personal information from children under the age of 13.   If we are made aware we have collected personal information from a child under 13 years old in a manner that is inconsistent with the Children's Online Privacy Protection Act ("COPPA"), we will delete this information as soon as possible.
 
 **9.      ****Changes To This Privacy Policy**
 
@@ -156,7 +156,7 @@ We may amend this Privacy Policy at any time. Your continued use of the Services
 
   **10.      ****Access/Choice/Retention**
 
-You may choose to receive promotional emails, newsletters, and similar communications from us.  You may opt out of receiving commercial emails from us by clicking on the opt-out or “unsubscribe” link included in the commercial e-mails you receive.  Please note that opt-out requests may take some time to be effective.  Your opt-out request will not apply to messages that you request or that are not commercial in nature.  For example, we may contact you concerning any purchases you have made with us, even if you opt out of receiving unsolicited commercial email messages.
+You may choose to receive promotional emails, newsletters, and similar communications from us.  You may opt out of receiving commercial emails from us by clicking on the opt-out or "unsubscribe" link included in the commercial e-mails you receive.  Please note that opt-out requests may take some time to be effective.  Your opt-out request will not apply to messages that you request or that are not commercial in nature.  For example, we may contact you concerning any purchases you have made with us, even if you opt out of receiving unsolicited commercial email messages.
 
 If your information changes, or if you no longer desire to use the Services, you may request that we update or remove certain information by signing into your account and making the required changes, by emailing our Customer Support at privacy@newyorkjets.com, or by contacting us by telephone or postal mail at the contact information listed below.  We will try to respond to your request within 30 days.
 
@@ -178,9 +178,9 @@ Florham Park, NJ 07932
 
 Attn: Website Privacy Policy
 
-In some cases, third parties may be able to collect information about a user’s online activities over time and across different websites when he or she uses our Services.
+In some cases, third parties may be able to collect information about a user's online activities over time and across different websites when he or she uses our Services.
 
-Some web browsers may transmit “do-not-track” signals to the websites with which the user communicates.  Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them.  Because there currently is no industry standard concerning what, if anything, websites should do when they receive such signals, we currently do not take action in response to these signals.  If and when a final standard is established and accepted, we will reassess how to respond to these signals.
+Some web browsers may transmit "do-not-track" signals to the websites with which the user communicates.  Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them.  Because there currently is no industry standard concerning what, if anything, websites should do when they receive such signals, we currently do not take action in response to these signals.  If and when a final standard is established and accepted, we will reassess how to respond to these signals.
 
   **12.      ****International Users**
 
