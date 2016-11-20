@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the musixlib.com privacy policy that was archived on 2016-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160617064542id_/http%3A//www.musixlib.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the musixlib.com privacy policy that was archived on 2016-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120160502id_/http%3A//www.musixlib.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html itemscope="" itemtype="http://schema.org/Article"><head>
 		<title>MusixLib -  Albums And More</title>
@@ -87,7 +87,7 @@ MusixLib give you better YouTube music experience.
 
 var baseDataUrl = "http://data.musixlib.com/data.php";
 var apiKey ="2f9054ca214be48156d3e58faeb73d29";
-var ytKey ="AIzaSyDxluU4s2R4naL5b0qdCf7gJ5u7mxCLUS0";
+var ytKey ="AIzaSyAnaTM19weW-KnMnTO2yoDwlcbE82iqLuA";
 var _plObj = null;
 var albumsList = new Array();
 var artistsList = new Array();
@@ -693,7 +693,12 @@ function popup(message) {
 	var maskWidth = $(window).width();
 
 	// calculate the values for center alignment
-	var dialogTop =  (maskHeight/3) - ($('#dialog-box').height());
+    if(maskWidth>700) {
+       var dialogTop =  (maskHeight/2) - ($('#dialog-box').height()); 
+    }
+	else{
+      var dialogTop =  40 + 'px';   
+    }
 	var dialogLeft = (maskWidth/2) - ($('#dialog-box').width()/2);
 
 	// assign values to the overlay and dialog box
@@ -752,7 +757,7 @@ function showMsgUser()
 			$.cookie('ext_fs', timestamp+"", { expires: 1 , path: '/' });
 		
 		$.removeCookie('n_ext_fs', { path: '/' });
-		swal({   title: "Share with friens?",   text: "Share MusixLib with friends and let them enjoy from playing albums they like!",   type: "success",   showCancelButton: true,   confirmButtonColor: "#3b5998",   confirmButtonText: "Yes, share the joy!",   cancelButtonText: "No, share later",   closeOnConfirm: true,   closeOnCancel: false ,allowOutsideClick:true}, function(isConfirm){
+		swal({   title: "Share with friens?",   text: "Share MusixLib with friends and let them enjoy from playing albums they like!",   type: "success",   showCancelButton: true,   confirmButtonColor: "#3b5998",   confirmButtonText: "Yes, share the joy!",   cancelButtonText: "No, share later",   closeOnConfirm: true ,customClass:'16px',   closeOnCancel: false ,allowOutsideClick:true}, function(isConfirm){
 	   if (isConfirm) {
 	   		_mz_ShareAlbum("http://www.musixlib.com");
 	   } else {
