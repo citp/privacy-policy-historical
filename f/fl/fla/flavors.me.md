@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flavors.me privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623223914id_/https%3A//flavors.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flavors.me privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120224443id_/https%3A//flavors.me/privacy) for the most accurate reproduction.*
 
 # Flavors.me : Privacy policy
 
