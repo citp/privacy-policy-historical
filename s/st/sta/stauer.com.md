@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stauer.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314121210id_/http%3A//www.stauer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stauer.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120050937id_/http%3A//www.stauer.com/privacy-policy) for the most accurate reproduction.*
 
 # Stauer Privacy Policy
 
