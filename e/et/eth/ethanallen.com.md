@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethanallen.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612150358id_/http%3A//www.ethanallen.com/en_US/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethanallen.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120062426id_/http%3A//www.ethanallen.com/en_US/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,7 +40,7 @@ Most web browsers allow users to exercise control over cookies by blocking them,
 
 ## How may I stop the use of my personally identifiable information?
 
-If you do not want your name made available, if you’ve moved, or if you would prefer not to receive our catalogs, please click the "Removal From Mailings" link in the "Need Help?" section at the bottom of any page. If you no longer wish to receive our digital communications, please click the "Unsubscribe" link at the bottom of any of our emails.
+If you do not want your name made available, if you’ve moved, or if you would prefer not to receive our catalogs, please click the "Removal From Mailings" link in the "Client Services" section at the bottom of any page. If you no longer wish to receive our digital communications, please click the "Unsubscribe" link at the bottom of any of our emails.
 
 ## Under what circumstances is personal information turned over to law enforcement agencies?
 
