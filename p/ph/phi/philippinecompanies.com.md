@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philippinecompanies.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331201034id_/http%3A//www.philippinecompanies.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philippinecompanies.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120234049id_/http%3A//www.philippinecompanies.com/privacy.php) for the most accurate reproduction.*
 
 # PhilippineCompanies.com - Privacy Policy
 
