@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the outervision.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616181717id_/http%3A//outervision.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outervision.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120021945id_/http%3A//outervision.com/privacy-policy) for the most accurate reproduction.*
 
 # eXtreme Outer Vision Privacy Policy
 
-May 18, 2015
+June 14, 2016
 
 At eXtreme Outer Vision we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by eXtreme Outer Vision.
 
