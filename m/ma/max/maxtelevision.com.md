@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxtelevision.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604044427id_/http%3A//www.sonymax.tv/en_us/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxtelevision.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120122103id_/http%3A//www.sonymax.tv/en_us/privacypolicy) for the most accurate reproduction.*
 
 # SONY MAX - Deewana bana de
 
