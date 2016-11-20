@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruisecompete.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602144117id_/http%3A//www.cruisecompete.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisecompete.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120072331id_/http%3A//www.cruisecompete.com/privacypolicy.php) for the most accurate reproduction.*
 
 # CruiseCompete.com - Privacy Policy
 
@@ -31,9 +31,6 @@ Cookies are a feature of Web browser software that allows Web servers to recogni
 
 **How Do We Use Information We Collect from Cookies?**  
 We use Web site browser software tools such as cookies and Web server logs to gather information about our Web site users' browsing activities, in order to constantly improve our Web site and better serve our customers. This information assists us to design and arrange our Web pages in the most user-friendly manner and to continually improve our Web site to better meet the needs of our customers and prospective customers. Cookies help us collect important business and technical statistics. The information in the cookies lets us trace the paths followed by users to our Web site as they move from one page to another. Web server logs allow us to count how many people visit our Web site and evaluate our Web site's visitor capacity. We do not use these technologies to capture your individual email address or any personally identifying information about you although they do permit us to send focused online banner advertisements or other such responses to you. 
-
-**Sharing Information with Partners**  
-We do not share any personal information with any partners. 
 
 **Sharing Information with Member Agencies**  
 We do not generally share any personal information with member agencies on standard requests. When you receive a quote from a member agency, it is your choice whether you wish to contact the agency and provide them with your contact information. Information on past passenger numbers, information provided to CruiseCompete via e-mail, in the "user feedback" section of the site, or on Large Group Requests may be shared with member agencies under a few select circumstances, including: 
@@ -81,8 +78,5 @@ See the online American Express credit card applications for details about terms
 
 Read more: [Compare credit cards here - CreditCards.com](http://www.creditcards.com/American-Express.php#ixzz2ebBS42mU)
 
-*Third parties using cookies and pixels to target advertisements*  
-We allow third parties to use cookies and pixels on our sites so that they can receive certain non personal (PII) information about you or your device. These third-party partners use cookies and related technologies to deliver content and advertisements relevant to your interests on third-party sites. 
-
-To learn more about and opt out of the different cookies that we use, see the link below.  
-<http://www.sojern.com/privacy-policy/>
+***Third parties using cookies and pixels to target advertisements***  
+We allow third parties to use cookies and pixels on our site so that they can receive certain non personal (PII) information about you or your device. These third-party partners use cookies and related technologies to deliver content and advertisements relevant to your interests on our and other third-party sites and to collect site statistical data. 
