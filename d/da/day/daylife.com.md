@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the daylife.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618181445id_/http%3A//www.newscred.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daylife.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121170342id_/http%3A//www.newscred.com/privacypolicy) for the most accurate reproduction.*
 
-# Content Marketing Software | Privacy Policy | NewsCred
+# Privacy Policy – NewsCred
 
 California Residents
 
