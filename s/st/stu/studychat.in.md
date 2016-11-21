@@ -1,23 +1,34 @@
-> *The following text is extracted and transformed from the studychat.in privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516162745id_/http%3A//www.studychat.in/p/normal-0-false-false-false-en-us-x-none.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studychat.in privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121081134id_/http%3A//www.studychat.in/p/blog-page_5.html) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy
 
-This Privacy Policy was last modified on March 19, 2014.  
-studychat (“us”, “we”, or “our”) operates www.studychat.com (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.  
-We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at www.studychat.in.  
-**Information Collection And Use**  
-While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, email address, postal address and phone number (“Personal Information”).  
-**Log Data**  
-Like many site operators, we collect information that your browser sends whenever you visit our Site (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.  
-**Cookies**  
-Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.  
-Like many sites, we use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site.  
-**Security**  
-The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.  
-**Links To Other Sites**  
-Our Site may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.  
-All Top 9 has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party sites or services.  
-**Changes To This Privacy Policy**  
-All Top 9 may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.  
-**Contact Us**  
-If you have any questions about this Privacy Policy, please contact us.
+**Privacy Policy of www. studychat.in**
+
+The privacy of our visitors is of main importance to us. This privacy policy document outlines the types of personal information is received and collected by  **www. studychat.in** and how it is used. The privacy policy document here we afford for intimating you about how we work on our job portal. This portal reflects the information collected from various websites. So, when one who is applying for a job or about to attend any walkin, based on the information provided in our portal is **requested to verify** the same from various other sites or from the **official website**. _We don’t assure that the data provided here is completely correct_. One can use the information at their own risk. We are not responsible for any consequences that occur on applying for any test data that we provided in our portal.
+
+**www. studychat**.in is website created as a resource to help people know about latest entrance exams, notification,eligibility criteria,exam dates,Admit card download, answer key, admit cad etc. The site primarily focused on **exam results, exam admit card, answer keys, Application form, admissions, entrance exams and more**. It intends to be a great platform for job seekers without getting involved in legal suits. So, here is the disclaimer policy for  **www. studychat.in**, Utmost care is generally taken while we are publishing the information in our portal. Our source of collecting information is completely from other websites.  There might be some mistakes in our portal which are made unknowingly because the effort is made completely by humans.
+
+_Click any link at your own risk in our portal.  _ We are not responsible for any loss you get on doing so. We don’t have control on the portal as these are maintained by third party people.  The applicants are advised to be careful and check the information from other websites and make conform regarding any particular advertisement.
+
+**Privacy Policy:**
+
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **studychat @gamail.com**, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by  **www. studychat.in** and how it is used.
+
+Logos that we use in our portal are completely collected from other websites and sometimes from the official website. We provide it for more interactive to the topic that we are providing in our portal. There is no other intention in providing the logos. Owners of the logo, please write to us if you feel that we are violating the copy write of your logo. We assure you that the logo will be removed in short span of time.
+
+**Log Files:**
+
+Like many other Web sites, studychat.in makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses and other such information are not linked to any information that is personally identifiable.
+
+**Double Click DART Cookie:**
+
+Google as a third party vendor uses cookies to serve ads on www.studychat.in
+
+  * Google use of the DART cookie enables it to serve ads to users based on their visit to www.studychat.in and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+
+
+**Google Adsense**  These third-party ad servers or ad networks use technology to the advertisements and links that appear on studychat.in send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. studychat.in has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. studychat.in privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
