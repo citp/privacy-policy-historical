@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smnweekly.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415074029id_/http%3A//smnweekly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smnweekly.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121041333id_/https%3A//smnweekly.com/privacy) for the most accurate reproduction.*
 
-# Privacy - SMN Weekly
+# Privacy – SMN Weekly
 
 SMNWeekly.com (“the Site”, “we”, “our”) wants you to be familiar with our Privacy Policy in terms of collection and usage of information about users. By using the Site, you agree to the terms and conditions of this Privacy Policy. The Site is for a general audience, is not targeted to children, and does not knowingly collect personal information from children under 13 years of age. This Privacy Policy applies to smnweekly.com collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address). It also describes generally our practices for handling non-personal information (for example, interests, demographics and services usage).  
 COLLECTION OF INFORMATION
@@ -12,5 +12,3 @@ smnweekly.com and our service providers collect the following information from a
 – information from other sources. We may supplement the information we collect with information from other sources, such as publicly available information from social media services, commercially available sources and information from our business partners.  
 – third parties that support the Site by providing services, such as tracking aggregate Site usage statistics, may also use these technologies to collect similar information. We do not control technologies of other companies and their use is governed by the privacy policies of third parties using such technologies.  
 – most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether.
-
-## Forex, binary options and financial regulation news
