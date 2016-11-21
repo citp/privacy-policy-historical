@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pragmaticmarketing.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606213958id_/http%3A//pragmaticmarketing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pragmaticmarketing.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121124228id_/http%3A//pragmaticmarketing.com/privacy) for the most accurate reproduction.*
 
 # Pragmatic Marketing - Visit our site and still respect yourself in the morning
 
-This Privacy Policy (“ **Policy** ”) describes the practices Pragmatic Marketing, Inc. (the “ **Company** ,” “ **we** ,” or “ **us** ”) observes when collecting, using, and sharing data and other information (“ **Information** ”) from individuals who:
+This Privacy Policy (“ **Policy** ”) describes the practices Pragmatic Marketing, L.L.C. (the “ **Company** ,” “ **we** ,” or “ **us** ”) observes when collecting, using, and sharing data and other information (“ **Information** ”) from individuals who:
 
   * Visit the websites operated by the Company, including our primary website located at http://www.pragmaticmarketing.com (our “ **Sites** ”); and
   * Apply for or participate in our training courses (“ **Courses** ”) or certification programs (“ **Certifications** ”), whether offered publicly, onsite at your place of employment, online, or in any other format or venue.
