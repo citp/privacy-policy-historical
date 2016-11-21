@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the babynology.com privacy policy that was archived on 2016-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160513084955id_/http%3A//www.babynology.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the babynology.com privacy policy that was archived on 2016-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161121144243id_/http%3A//www.babynology.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -14,7 +14,7 @@
 <link rel="stylesheet" href="http://www.babynology.com/css/babynology_responsive.minify.css"> <!--babynology_responsive-->
 <link rel="stylesheet" href="http://www.babynology.com/css/jquery.Jcrop.css"> <!--babynology_responsive-->
 <!--revslider-->
-<!--<link rel="stylesheet" href="http://www.babynology.com/css/revslider/settings.css">--> <!--revslider-->
+<!--<link rel="stylesheet" href="http://www.babynology.com/css/revslider/settings.minify.css">--> <!--revslider-->
 <!--END CSS-->
 <!--google fonts-->
 <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css"> <!-- font-family: 'Montserrat', sans-serif; -->
@@ -25,7 +25,44 @@
 <![endif]-->  
 <!--FAVICONS-->
 <link rel="shortcut icon" href="http://www.babynology.com/img/favicon/favicon.ico">
-<!--END FAVICONS--> 
+
+<!--END FAVICONS-->
+<script id="facebook-jssdk" src="//connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v2.6"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-4443901-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<style>
+body
+{
+		background-color:#FFF;
+
+}
+#modalContainer {
+	background-color:rgba(0, 0, 0, 0.3);
+	position:absolute;
+	width:100%;
+	height:100%;
+	top:180px;
+	left:0px;
+	z-index:10000;
+	background-image:url(tp.png); /* required by MSIE to prevent actions on lower z-index elements */
+}
+#alertBox{font-family:calibri;
+    text-align: center;width:399px;background:#fff;margin:0px auto;border:1px solid #ccc;height:180px;}
+#alertBox h1{    padding: 2% ;color:#2C6D7A;text-align:center;line-height:1.3em;font-size:28px;font-family:calibri;margin-bottom:20px;}
+#alertBox p{color:#2B2B2B;text-align:center;line-height:1.4em;font-size:20px;font-weight:400;font-family:calibri;margin-bottom:48px;
+}
+#alertBox #closeBtn{padding: 8px 47.24%;background:#2C6D7A;width:100%;text-align:center;color:#fff;font-size:20px;font-weight:bold;font-family:calibri;
+
+}
+</style>
+ 
 </head>
 <body id="start_babynology_framework">
 <div class="babynology_site">
@@ -34,58 +71,368 @@
 <div class="babynology_right_sidebar babynology_bg_greydark babynology_nicescrool">
 </div>   
 <!--END SIDEBAR-->
-<div class="babynology_section babynology_navigation ">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+<script type="text/javascript" src="../js/facebook.js"></script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.6";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script type="text/javascript">
+//<![CDATA[
+
+var bnamesArray=Array("Afghan", "African", "American", "Anglo", "Arabic", "Armenian", "Arthurian-Legend", "Australian", "Aztec", "Basque", "Bengali", "Biblical", "British", "Buddhist", "Celtic", "Chinese", "Czech", "Czechoslovakian", "Danish", "Dutch", "Egyptian", "English", "Finnish","Farsi" ,"French", "Gaelic", "German", "Ghana", "Gothic", "Greek", "Hawaiian", "Hebrew", "Hindu", "Hungarian", "Indonesian", "Iranian", "Irish", "Italian", "Japanese", "Jamaican", "Jewish", "Kenyan", "Korean", "Kurdish", "Latin", "Lebanese", "Malawi", "Malaysian", "Mexican", "Mongol", "Muslim", "Native-Americans", "Netherlands", "Nigerian", "Norse", "Norwegian", "Parsi", "Pashtun", "Polish", "Portuguese", "Punjabi", "Romanian", "Russian", "Sanskrit", "Scandinavian", "Scottish", "Shakespearean", "Sikh", "Sindhi" , "Slavic", "Slovenia", "Spanish", "Sri-Lankan", "Swahili", "Swedish", "Swiss", "Tamil", "Teutonic", "Thai", "Turkish", "Ukrainian", "Vietnamese", "Welsh", "Zimbabwe", "Zoroastrian" , "Assamese", "Gujarati" , "Kannada" ,"Malayalam" ,"Marathi" , "Telugu");
+
+	function search()	{
+		
+		if(document.searchf11.stw.value=="" && document.searchf11.gender.value=='m' && document.searchf11.origin.value=='all')
+		{
+			document.location.href="baby-boy-names.html";	
+			return false;
+		}
+		 else if(document.searchf11.stw.value=="" && document.searchf11.gender.value=='f' && document.searchf11.origin.value=='all')
+		{
+			document.location.href="babygirlnames.html";
+			return false;
+		}
+		else if(document.searchf11.stw.value=="" && document.searchf11.gender.value=='f' && document.searchf11.origin.value!='all')
+		{
+			document.location.href=""+document.searchf11.origin.value+"-girlnames-a0.html";
+			return false;
+		}
+		else if(document.searchf11.stw.value=="" && document.searchf11.gender.value=='m' && document.searchf11.origin.value!='all')
+		{
+			document.location.href=""+document.searchf11.origin.value+"-boynames-a0.html";
+			return false;
+		}
+		else if(document.searchf11.stw.value=="" && document.searchf11.gender.value=='both' && document.searchf11.origin.value!='all')
+		{
+			document.location.href=""+document.searchf11.origin.value+"_babynames.html";
+			return false
+		}
+
+
+		if(document.searchf11.stw.value=="") {
+		alert("Preferred Starting Letters for your baby name is blank.");
+		return false;
+		} else if(document.searchf11.stw.value.length<1){
+		alert("Please fill atleast 1 characters for search.");
+		return false;
+		}
+		/* var origin=document.searchf11.stw.value;
+		alert(origin); */
+}
+//]]>
+</script>
+<div class="babynology_section babynology_navigation" style="z-index:999999;">
+
+
     <div class="babynology_menu_boxed">
-        <div class="babynology_section babynology_bg_greydark babynology_displaynone_responsive">
+    <div class="babynology_section babynology_bg_grey babynology_radius_bottom">
+   
+                     <div style="height:auto; width:100%; overflow:hidden; margin-left:20px; margin-top:0px;">
+<a href="http://www.babynology.com/index.php">
+<img alt="Babynology Logo" src="http://www.babynology.com/img/babyimg/logo.png" style="float:left">
+</a>
+
+<style>
+
+.search_name
+{
+	float:left; 
+	height:26px; 
+	width:250px;
+	 padding-left:5px; 
+	 border:1px solid #495052; 
+	 border-bottom-left-radius:5px; 
+	 border-top-left-radius:5px;
+}
+@media(max-width:450px)
+{
+	.search_name
+{
+	float:left; 
+	height:26px; 
+	width:220px;
+	 margin-left:30px; 
+	 border-bottom-left-radius:5px; 
+	 border-top-left-radius:5px;
+
+}
+.myspace
+{
+	margin-top:-5px;
+	
+}
+
+}
+
+</style>
+<div style="overflow:hidden; float:right; width:300px; height:auto; margin-top:10px; margin-right:40px; padding-left:0px; border-radius:5px;">
+<div style="float:left;">
+<form name="searchf11" method="get" action="http://www.babynology.com/search-babyname.php" onsubmit="return search('searchf11');">
+<input name="stw" id="stw" placeholder="Search Name &amp; Meaning" onclick="this.focus();" type="text" required="required" class="search_name" style="border-left:2px solid  #063; border-top:2px solid  #063; border-bottom:2px solid  #063; font-size:16px;"></form></div>
+<div style="float:left; border-radius:5px;">
+<!--<input type="submit"  value="" class="search_box" style="width:150px; background:url('../search.png')no-repeat #fff;height:30px; width:30px; color:#FFF; float:left; font-weight:700;height:30px; border:none; line-height:14px "/>
+-->
+<input type="submit" name="search" value="" style="background:url('http://babynology.com/img/babyimg/search.png')no-repeat;height:32px;width:32px;border:2px solid; border-bottom-right-radius:5px; border-top-right-radius:5px;">
+</div>
+ <select name="gender" id="gender" class="babynology_bg_grey2 babynology_radius babynology_shadow grey small subtitle" style="display:none;">
+                                <option value="both" selected="selected">Boys &amp; Girls Names</option>	
+                                <option value="m">Boys Names</option>
+								<option value="f">Girls Names </option>
+                            </select> 
+                            <script type="text/javascript"> 
+							  //<![CDATA[
+							 document.write('<select style="display:none;" name="origin" class="babynology_bg_grey2 babynology_radius babynology_shadow grey small subtitle" id="origin">');
+							 document.write('<option value="all">All Origin</option>'); 
+
+					for(var ibn=0; ibn<bnamesArray.length; ibn++)
+					{
+					document.write("<option value=\""+bnamesArray[ibn].toLowerCase()+"\">"+bnamesArray[ibn]+"</option>");
+					}
+							document.write('</select>');
+
+					//]]>
+							</script><select style="display:none;" name="origin" class="babynology_bg_grey2 babynology_radius babynology_shadow grey small subtitle" id="origin"><option value="all">All Origin</option><option value="afghan">Afghan</option><option value="african">African</option><option value="american">American</option><option value="anglo">Anglo</option><option value="arabic">Arabic</option><option value="armenian">Armenian</option><option value="arthurian-legend">Arthurian-Legend</option><option value="australian">Australian</option><option value="aztec">Aztec</option><option value="basque">Basque</option><option value="bengali">Bengali</option><option value="biblical">Biblical</option><option value="british">British</option><option value="buddhist">Buddhist</option><option value="celtic">Celtic</option><option value="chinese">Chinese</option><option value="czech">Czech</option><option value="czechoslovakian">Czechoslovakian</option><option value="danish">Danish</option><option value="dutch">Dutch</option><option value="egyptian">Egyptian</option><option value="english">English</option><option value="finnish">Finnish</option><option value="farsi">Farsi</option><option value="french">French</option><option value="gaelic">Gaelic</option><option value="german">German</option><option value="ghana">Ghana</option><option value="gothic">Gothic</option><option value="greek">Greek</option><option value="hawaiian">Hawaiian</option><option value="hebrew">Hebrew</option><option value="hindu">Hindu</option><option value="hungarian">Hungarian</option><option value="indonesian">Indonesian</option><option value="iranian">Iranian</option><option value="irish">Irish</option><option value="italian">Italian</option><option value="japanese">Japanese</option><option value="jamaican">Jamaican</option><option value="jewish">Jewish</option><option value="kenyan">Kenyan</option><option value="korean">Korean</option><option value="kurdish">Kurdish</option><option value="latin">Latin</option><option value="lebanese">Lebanese</option><option value="malawi">Malawi</option><option value="malaysian">Malaysian</option><option value="mexican">Mexican</option><option value="mongol">Mongol</option><option value="muslim">Muslim</option><option value="native-americans">Native-Americans</option><option value="netherlands">Netherlands</option><option value="nigerian">Nigerian</option><option value="norse">Norse</option><option value="norwegian">Norwegian</option><option value="parsi">Parsi</option><option value="pashtun">Pashtun</option><option value="polish">Polish</option><option value="portuguese">Portuguese</option><option value="punjabi">Punjabi</option><option value="romanian">Romanian</option><option value="russian">Russian</option><option value="sanskrit">Sanskrit</option><option value="scandinavian">Scandinavian</option><option value="scottish">Scottish</option><option value="shakespearean">Shakespearean</option><option value="sikh">Sikh</option><option value="sindhi">Sindhi</option><option value="slavic">Slavic</option><option value="slovenia">Slovenia</option><option value="spanish">Spanish</option><option value="sri-lankan">Sri-Lankan</option><option value="swahili">Swahili</option><option value="swedish">Swedish</option><option value="swiss">Swiss</option><option value="tamil">Tamil</option><option value="teutonic">Teutonic</option><option value="thai">Thai</option><option value="turkish">Turkish</option><option value="ukrainian">Ukrainian</option><option value="vietnamese">Vietnamese</option><option value="welsh">Welsh</option><option value="zimbabwe">Zimbabwe</option><option value="zoroastrian">Zoroastrian</option><option value="assamese">Assamese</option><option value="gujarati">Gujarati</option><option value="kannada">Kannada</option><option value="malayalam">Malayalam</option><option value="marathi">Marathi</option><option value="telugu">Telugu</option></select> 
+
+</div>
+</div>           
+           
+             
+                        
             <div class="babynology_container babynology_clearfix">
-                <div class="grid grid_6">
-                </div>
-                <div class="grid grid_6 right">
-				<div class="babynology_focus right">
-									<h6 class="white">
-					   <span class="grey">·</span>&nbsp;&nbsp;&nbsp;&nbsp;
-						<i class="icon-plus-outline"></i>&nbsp;&nbsp;<a class="white" href="http://www.babynology.com/photo_contest/signup.php">REGISTER</a>
-						&nbsp;&nbsp;&nbsp;&nbsp;<span class="grey">·</span>&nbsp;&nbsp;&nbsp;&nbsp;
-						<i class="icon-lock-1"></i>&nbsp;&nbsp;<a class="white" href="http://www.babynology.com/photo_contest/login.php">LOG IN</a>
-					</h6>
-								</div>
-                </div>
-                <!--info window for languages-->
-                <!--end window-->
+               
             </div>
+            <!--end container-->
         </div>
-        <div class="babynology_space3 babynology_bg_gradient"></div>
-        <div class="babynology_section babynology_bg_grey babynology_shadow babynology_radius_bottom">
+        
+        <style>
+		.res_page
+		{
+	background-color:#495052; 
+	padding-top:10px;
+	padding-bottom:7px; 
+
+		}
+		.menu_name
+		{
+			display:none;	
+		}
+		@media(max-width:450px)
+		{
+		.res_page
+		{
+			width:20px;
+			overflow:hidden;
+			padding:0px;
+			height:18px;
+			border-radius:0px;
+			top:64px;
+			position:absolute;
+			left:20px;
+			padding-right:4px;
+			padding-bottom:4px;
+		}
+		.menu_name
+		{
+			display:block;
+		}
+		}
+		</style>
+        
+        
+<div class="babynology_section babynology_bg_grey  babynology_radius_bottom res_page">
             <div class="babynology_container babynology_clearfix">
                 <div class="grid grid_12 percentage">
-                        <div class="babynology_space20"></div>
-                        <div class="babynology_logo babynology_marginleft10">
-                            <a href="http://www.babynology.com/index.php"><img alt="Babynology Logo" src="http://www.babynology.com/img/babyimg/logo.png"></a>
-                        </div>
+                     
+                      
 						<nav>
-                            <ul class="babynology_menu babynology_margin010 babynology_padding50">
-								<li class="red">
-                                    <a href="http://www.babynology.com/babynames.html"><strong>Baby Names by Origin</strong></a>
-                                </li>
-                                <li class="blue">
-                                    <a href="http://www.babynology.com/parenting-advice/"><strong>Parenting Advice &amp; Tips</strong></a>
-                                </li>
-                                <li class="yellow">
-                                    <a href="http://www.babynology.com/famous-baby-names.html"><strong>Famous Baby Names</strong></a>
-                                </li>
-                                <li class="green">
-                                    <a href="http://www.babynology.com/photo_contest/"><strong>Photo Contest</strong></a>
-                                </li>
-                            </ul>
+                        
+	<ul class="babynology_menu babynology_margin010 babynology_padding50" style="float:left;">
+    <style>
+	 li
+	 {
+		 line-height:15px;
+		
+		 
+	 }
+	 </style>
+               
+<div class="menu_name"><a href="http://www.babynology.com/photo_contest/login.php">Login</a></div>
+<div class="menu_name"><a href="http://www.babynology.com/photo_contest/signup.php">SignUp</a></div> 
+     
+     
+     
+     
+     
+    
+    <li class="red" style="font-size:17px;">
+   
+
+	<a href="http://www.babynology.com/babynames.html" style="color:#FFF;"><strong>Baby Names
+    </strong></a>
+	 <ul class="sub-menu" style="margin-top:-18px;">
+
+             <li><a href="http://www.babynology.com/babynames.html">Baby Names By Origin</a></li>
+			<li><a href="http://www.babynology.com/search-babyname.php">Search/Find Names</a></li>
+			<li><a href="http://www.babynology.com/cute-baby-names.html">Cute Names</a></li>
+			<li><a href="http://www.babynology.com/unique-baby-names.html">Unique Names</a></li>
+			<li><a href="http://www.babynology.com/godnames.html">God Names</a></li>
+			<li><a href="http://www.babynology.com/colornames.html">Color Names</a></li>
+            <li><a href="http://www.babynology.com/popular-baby-names.html">Popular Names</a></li>
+
+			</ul>
+	</li>
+    <li class="blue" style="font-size:17px;">
+	<a href="http://www.babynology.com/parenting-advice/" style="color:#FFF;"><strong>Parenting</strong></a>
+	 <ul class="sub-menu" style="margin-top:-18px;">
+			<li><a href="http://www.babynology.com/parenting-advice/">Advise</a></li>
+            <li><a href="http://www.babynology.com/babyname-tips.html">Tips</a></li>
+			</ul>
+	</li>
+	<li class="orange" style="font-size:17px;">
+	<a href="http://www.babynology.com/famous-baby-names.html" style="color:#FFF;"><strong>Famous&nbsp;Names</strong></a>
+	<ul class="sub-menu" style="margin-top:-18px;">
+            <li><a href="http://www.babynology.com/famous-baby-names.html">By Origin</a></li>
+              <li><a href="http://www.babynology.com/famous-names-by-category.html">By&nbsp;Category</a></li>
+			</ul>
+	</li>
+	     <li class="yellow" style="font-size:17px;">
+      <a href="http://www.babynology.com/quizzes/parenting/" style="color:#FFF;"><strong>Parenting Quizzes</strong></a>
+	<ul class="sub-menu" style="margin-top:-17px;">
+			<li class=""><a href="http://www.babynology.com/quizzes/parenting/categories/1">Planning for Baby Quiz</a></li>
+            <li><a href="http://www.babynology.com/quizzes/parenting/categories/2">Pregnancy Quiz</a></li>
+			<li><a href="http://www.babynology.com/quizzes/parenting/categories/3">Baby Development &amp; Behaviour Quiz</a></li>
+            <li><a href="http://www.babynology.com/quizzes/parenting/categories/5">Post Pregnancy Quiz</a></li>
+			<li><a href="http://www.babynology.com/quizzes/parenting/categories/6">Baby Health Quiz</a></li>
+			<li><a href="http://www.babynology.com/quizzes/parenting/categories/7">Parenting Style Quiz</a></li>
+            <li><a href="http://www.babynology.com/quizzes/parenting/categories/8">Family Time Quiz</a></li>
+            <li><a href="http://www.babynology.com/quizzes/parenting/categories/9">Moms Presonality Quiz</a></li>
+            <li><a href="http://www.babynology.com/quizzes/parenting/categories/10">Father prospective Quiz</a></li>
+            <li><a href="http://www.babynology.com/quizzes/parenting/categories/11">Mother prospective Quiz</a></li>
+            <li><a href="http://www.babynology.com/quizzes/parenting/categories/12">Partners Parenting Style Quiz</a></li>
+			</ul>
+			
+	</li>
+    
+	 <li class="red" style="font-size:17px;"><a href="http://www.babynology.com/photo_contest/" style="color:#FFF;"><strong>Photo&nbsp;Contest</strong></a>
+	 <ul class="sub-menu" style="margin-top:-17px;">
+			<li><a href="http://www.babynology.com/photo_contest/">Current Contest</a></li>
+            <li><a href="http://www.babynology.com/photo_contest/old_previous_contestent.html">Previous Contest</a></li>
+			<li><a href="http://www.babynology.com/photo_contest/imageupload.php">Upload Photo</a></li>
+			</ul>
+			 
+	 </li>
+	 
+	
+	 
+</ul>
+
                         </nav>
-                        <!--<div class="babynology_space20"></div>-->
+                        
+                        
+                        <style>
+
+	#fav_link
+	{
+		height:0px;
+		background-color:#6F6;
+	
+	}
+						</style>
+                        
+                        
+            <div id="fav_link" class="fav-button">
+			<a class="btn_b btn_fav"><strong>Favourite Names</strong>&nbsp;&nbsp;<span class="count badge myspan" id="count_num">
+            
+			            
+            0            
+            
+            </span>
+            </a>
+			</div>
+            
+            
+            
+            
+                        
+                  
+<div style="margin-right:10px; float:right;">
+<i class="icon-plus-outline" style="color:#FFF;"></i>&nbsp;&nbsp;<a style="font-size:13px;  font-family:Raleway,sans-serif!important; font-weight:700; " class="white" href="http://www.babynology.com/photo_contest/signup.php">SIGN UP</a> &nbsp;
+<i class="icon-lock-1" style="color:#FFF;"></i>&nbsp;&nbsp;
+<a style="font-size:13px; font-family:Raleway,sans-serif!important; font-weight:700; line-height:23px;" class="white" href="http://www.babynology.com/photo_contest/login.php">LOG IN</a>
+</div>
                 </div>
             </div>
             <!--end container-->
         </div>
         <!--end header-->
     </div>
-</div> 
+    
+</div></div>
+
+<div class="fav-box">
+<div class="fav_cancel">
+<a href="#" class="fav-button-cancel"><img src="http://www.babynology.com/img/babyimg/cancel.png"></a>
+</div>
+<div id="dsp_show_save_names">
+
+</div>
+<div id="LoadingImage" style="display: none;margin-left:100px;">
+<img src="http://www.babynology.com/img/babyimg/LoaderIcon.gif" align="middle">
+</div>
+</div>
+<script>
+function logout() 
+{
+FB.logout(function(response) 
+{
+              // user is now logged out
+});
+        }
+$(document).ready(function(){
+	$(".fav-button-cancel").click(function(){
+		$(".fav-box").hide();
+	});
+});
+
+
+$(document).ready(function(){
+	$(".fav-button").click(function(){
+		
+	
+		
+		var base_url='http://www.babynology.com/';
+	
+		$(".fav-box").show();
+		$("#LoadingImage").show();
+		 $.ajax({
+  			url: base_url+"show_save_names_ajax.php",
+			 cache : false
+			})
+  		.done(function( msg ) {
+    		//alert( "Data Saved: " + msg );
+			$("#LoadingImage").hide();
+			$('#dsp_show_save_names').html(msg);
+  		}); 
+		/* $.ajax({url: base_url+"show_save_names_ajax.php", success: function(result){
+            $("#dsp_show_save_names").html(result);
+        }});
+		$("#LoadingImage").hide(); */
+		
+	});
+});
+
+
+
+</script>
+ 
 <!--start-->
 <!--start section-->
 <section id="babynology_parallax_title" class="babynology_section babynology_imgparallax babynology_parallaxx_img8">
@@ -116,7 +463,7 @@
 		<div class="grid grid_12 center">
 		<div class="babynology_textevidence center">
 <div class="add-" style="">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript"><!--
+<script type="text/javascript"><!--
 	e9 = new Object();
     e9.size = "728x90,468x60";
     e9.addBlockingCategories="Adult,Alcohol,Dating,Gambling";
@@ -124,7 +471,12 @@
 <script type="text/javascript" src="http://tags.expo9.exponential.com/tags/Babynologycom/Snackbar/tags.js"></script>
 </div>
 </div>
-          		</div>
+					
+          
+            
+
+			
+					</div>
 		<div class="babynology_space10"></div>
 	    <div class="babynology_space30"></div>
         <div class="grid grid_8">
@@ -196,41 +548,145 @@ e9 = new Object();
     e9.addBlockingCategories="Adult,Alcohol,Dating,Gambling";
 //--></script>
 <script type="text/javascript" src="http://tags.expo9.exponential.com/tags/Babynologycom/Snackbar/tags.js"></script></div>            <div class="babynology_space20"></div>
-			<div class="babynology_archive1 babynology_bg_grey babynology_radius babynology_shadow">
-                <!--<div class="babynology_textevidence babynology_bg_yellow babynology_radius_top">
-                    <h4 class="white babynology_margin20"></h4>
-                    
-                </div>-->
-                <div class="babynology_margin20" style="border-radius: 5px;border: 2px solid #edbf47;width: 92%;">
-				    <input class="babynology_bg_grey2 babynology_radius babynology_shadow grey small subtitle" style="font-size:17px;box-shadow:0 0 0 0;" type="text" value="" size="200" placeholder="SEARCH BY ORIGIN/COUNTRY" name="origin1" id="origin1">
-                  <div id="srch" class="babynology_textevidence" style="display: none;"></div>
-				
-                </div>
-				
-				
-                <script type="text/javascript">
+			<style>
+.row1
+{
+border-bottom:1px solid #999;
+overflow:hidden;
+padding:10px;
 
-                        document.getElementById("srch").style.display = "none";
-                        document.getElementById('origin1').onkeyup = function(e){checkKey(e, this);};
-                </script>
-<style>
-#srch{
-	display:none;
-	z-index:200; 
-	padding-left:1px;
-	position: relative;
-	
+}
+.row_img1
+{
+
+border:1px solid #999;
+width:60px;
+height:60px;
+float:left;
+font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+width:auto; 
+margin-left:15px;
+}
+.row_img2
+{
+
+border:1px solid #999;
+width:60px;
+height:60px;
+float:left;
+font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+width: 96%;
+ height:auto; 
+ border:1px solid #f5f5f5; 
+ color:#0F5BAD; 
+ text-align:center; 
+ font-size:18px;
 }
 
+.inner_div
+{
+	float:left; 
+	width:76%;
+}
+#path1:hover
+{
+	text-decoration:underline;
+}
+@media(max-width:450px)
+{
+.row_img1
+{
+border:1px solid #ccc;
+margin-left:2px;
+float:left;
+}
+.row_img2
+{
+}
+
+.inner_div
+{
+	width:auto;
+	float:inherit;
+	overflow:hidden;
+}
+}
 </style>
+
+<div class="babynology_archive1 babynology_bg_violet babynology_radius" style="margin-top:10px;">
+<h2 style="color:#FFF; padding:10px;text-align:center; border:none;"><a id="path" style="color:#FFF;" href="http://www.babynology.com/quizzes/parenting/quiz_categories/">Quiz</a></h2>
 </div>
-			<div class="babynology_space20"></div>
-            <div class="babynology_archive1 babynology_bg_grey babynology_radius babynology_shadow">
+<div style=" background:#f5f5f5; border-bottom-left-radius:5px; border-bottom-right-radius:5px;border:0px solid;width:100%;display:inline-block;overflow:hidden;"> 
+  <div class="row1">
+    <div class="row_img1"><img src="http://www.babynology.com/imgs/quiz_1/are-you-ready-to-become-a-m.png" height="60" width="59"></div>
+    <div class="inner_div">
+      <div class="row_img2"> 
+	  <a style="color:#0F5BAD;" href="http://www.babynology.com/quizzes/parenting/quiz/3">Easy delivery: are you ready to become a mum?</a></div>
+
+    </div>
+  </div>
+  <div class="row1">
+    <div class="row_img1"><img src="http://www.babynology.com/imgs/quiz_1/1Are-you-really-familiar-wi.png" height="60" width="59"></div>
+    <div class="inner_div">
+      <div class="row_img2"> 
+	  <a style="color:#0F5BAD;" href="http://www.babynology.com/quizzes/parenting/quiz/25">Baby's common health issues:are you really familiar ? 
+</a></div>
+
+    </div>
+  </div>
+  <div class="row1">
+    <div class="row_img1"><img src="http://www.babynology.com/imgs/quiz_2/Move-to-pregnancy.png" height="60" width="59"></div>
+    <div class="inner_div">
+      <div class="row_img2"> 
+	  <a style="color:#0F5BAD;" href="http://www.babynology.com/quizzes/parenting/quiz/483">How Prepared Are You to Have a Baby?</a></div>
+
+    </div>
+  </div>
+  
+  
+  
+  
+</div>
+
+
+
+
+
+<!--<div class="babynology_archive1 babynology_bg_violet babynology_radius" style="margin-top:0px;">
+  <h2 style="color:#FFF; padding:10px;text-align:center; background:#74cee4; border:none;"><a style="color: inherit;" href="http://www.babynology.com/quizzes/parenting/quiz_categories/">Quiz</a></h2>
+</div>
+<ul class="babynology_list border" style="margin-bottom:10px; background:#f5f5f5; width:100%; font-weight:700;">
+  <div class="babynology_margin10">
+    <li class="babynology_border_grey">
+      <div class="babynology_activity">
+        <div class="box">
+
+
+          <div class="img" style=" width:100%;">
+          <img style="margin-left:130px;" src="http://www.babynology.com/" width="100" height="100"/><br />
+            <h2 style="text-align:center;">
+              <a href="http://www.babynology.com/quizzes/parenting/quiz/" 
+style="color:#0F5BAD;font-size:20px;">  </a> </h2>
+            
+          </div>
+        </div>
+      </div>
+    </li>
+  </div>
+</ul>-->
+                
+                    
+      			<div class="babynology_space20"></div>
+            <!--code to add news box by sagar raj-->
+
+                    <!--code ends here--> 
+                   
+                    <div class="babynology_archive1 babynology_bg_grey babynology_radius babynology_shadow">
                 
 				
 				
 <div class="babynology_textevidence babynology_bg_violet babynology_radius_top">
-                    <h4 class="white babynology_margin20">Link</h4>
+                    <h4 class="white babynology_margin20"></h4>
                 </div>
 <ul class="babynology_list border">
 		<li class="babynology_border_grey">
@@ -296,7 +752,7 @@ e9 = new Object();
 				</div>
 			</div>
 		</li> 
-		<li class="babynology_border_grey">
+		<!--<li class="babynology_border_grey">
 			<div class="babynology_margin10">
 				<div class="babynology_activity">
 					<p><i class="icon-right-open-outline"></i>&nbsp;<a href="http://www.babynology.com/godnames.html">God Names</a></p>
@@ -309,7 +765,7 @@ e9 = new Object();
 					<p><i class="icon-right-open-outline"></i>&nbsp;<a href="http://www.babynology.com/colornames.html">Color Names</a></p>
 				</div>
 			</div>
-		</li> 
+		</li> -->
 		<li class="babynology_border_grey">
 			<div class="babynology_margin10">
 				<div class="babynology_activity">
@@ -324,17 +780,11 @@ e9 = new Object();
 				
 			
 				
-	<div class="babynology_textevidence center"><a href="http://www.babynology.com/photo_contest/baby_page_10482.html"><h4>Vote for Owen</h4></a></div><div class="babynology_space10"></div><div class="babynology_textevidence center"><a href="http://www.babynology.com/photo_contest/baby_page_10482.html"><img src="/photo_contest/upload/10482.jpg" alt="Vote for Baby" class="babynology_radius_center babynology_opacity imgwidth"></a></div>
+	
    
     	
-	 <div class="babynology_space10"></div>
-			<div class="babynology_archive1 babynology_bg_violet babynology_radius babynology_shadow">
-<div class="babynology_space20"></div>
-                <div class="babynology_textevidence center">
-                    <a href="http://www.babynology.com/suggest-name.html"><img class="babynology_radius_center babynology_opacity imgwidth" src="http://www.babynology.com/img/babyimg/san.png" alt="suggest name"></a>
-                </div>
-                
-            </div> 
+	
+			 
   
 
   
@@ -353,35 +803,35 @@ e9 = new Object();
 <!-- div style="clear:both"></div>             
 <div class="bnrleft name1">
  <div class="fltopheadr headtxtclr">
-<strong>Winner of April - 2016<br /> Photo Contest</strong>
+<strong>Winner of October - 2016<br /> Photo Contest</strong>
                 
                 <br />
                
                 
 
-<a href="/photo_contest/swara_10421.html"><img src="/photo_contest/upload/10421.jpg" width="80" height="80" alt="" /> </a> <br /> <strong>Swara</strong>
+<a href="/photo_contest/atharva_10918.html"><img src="/photo_contest/upload/10918.jpg" width="80" height="80" alt="" /> </a> <br /> <strong>Atharva</strong>
 <br />
                 
                 <br />
                
                 
 
-<a href="/photo_contest/Omar_10349.html"><img src="/photo_contest/upload/10349.jpg" width="80" height="80" alt="" /> </a> <br /> <strong>Omar</strong>
+<a href="/photo_contest/Aayat_10927.html"><img src="/photo_contest/upload/10927.jpg" width="80" height="80" alt="" /> </a> <br /> <strong>Aayat</strong>
 <br />
 </div>
             </div -->
             
 <div class="babynology_space20 babynology_bg_dwhite"></div>        
  <div class="babynology_archive1 babynology_bg_grey babynology_radius babynology_shadow">
-			<div id="tiphead10" class="babynology_textevidence babynology_bg_blue babynology_radius_top">
-        <h4 class="white babynology_margin20 center">Things To Consider When Choosing A Name</h4>
+			<div id="tiphead27" class="babynology_textevidence babynology_bg_blue babynology_radius_top">
+        <h4 class="white babynology_margin20 center">Exotic Names and Exotic Origins of Baby Names</h4>
 </div>
-<div id="tiptxt10" class="babynology_margin20 babynology_relative">
+<div id="tiptxt27" class="babynology_margin20 babynology_relative">
 	<div class="babynology_activity">
-		<p>Most parents starts discussing baby names as soon as they find out that the stork's going to be paying a visit soon. From pinning down their favorite boy and girl names to arguing late into the night about which one is the best every parent invariably has more than one favorite.</p>
+		<p>Chinese names are hard to place as baby boy names or baby girl names. This is because of our unfamiliarity....</p>
     </div>
 	<div class="babynology_space20"></div>
-	<a class="babynology_btn grey right" href="http://www.babynology.com/articles/5_things_to_consider_when_choosing_a_name_for_your_baby.html"><i class="icon-right-open-outline"></i> More..</a>
+	<a class="babynology_btn grey right" href="http://www.babynology.com/babyname-origins.html"><i class="icon-right-open-outline"></i> More..</a>
 </div> </div>           
  			<div class="babynology_space20"></div>
         </div>
@@ -402,10 +852,39 @@ e9 = new Object();
 <!--start section-->
 <section class="babynology_section babynology_bg_greydark">
     <!--start babynology_container-->
-    <div class="babynology_container babynology_clearfix">
+    
+<script type="text/javascript">
+//$(document).ready(function () {
+////Disable cut copy paste
+//$('body').bind('cut copy paste', function (e) {
+//e.preventDefault();
+//});
+//
+////Disable mouse right click
+//$("body").on("contextmenu",function(e){
+//return false;
+//});
+//});
+//
+//</script>
+
+
+<style>
+body a
+{
+	text-decoration:underline;
+}
+</style>
+<div class="babynology_container babynology_clearfix">
         <div class="babynology_space30"></div>
+        <div class="babynology_textevidence center">
+        
+        <h3><a href="http://www.babynology.com/english_babynames.html" class="white">English Names </a> | <a href="http://www.babynology.com/indian_babynames.html" class="white"> Indian Names </a> | <a href="http://www.babynology.com/islamic_babynames.html" class="white"> Islamic Names </a> | <a href="http://www.babynology.com/south-american_babynames.html" class="white"> South American Names </a>  <!--| <a href="javascript:void(0)" onclick="windowopen(document.location)" class="white"> Tell A Friend </a>--></h3>
+        <br>  <br>
+        
+        </div>
 				<div class="babynology_textevidence center">
-                    <h4><a href="http://www.babynology.com/contactus.php" class="white">Contact Us </a> | <a href="http://www.babynology.com/privacy.html" class="white"> Privacy Policy </a> | <a href="http://www.babynology.com/babyname-tips.html" class="white"> Naming Tips </a> | <a href="http://www.babynology.com/search-babyname.php" class="white"> Baby Name Search </a> <!--| <a href="javascript:void(0)" onclick="windowopen(document.location)" class="white"> Tell A Friend </a>--></h4>
+                    <h4><a href="http://www.babynology.com/contactus.php" class="white">Contact Us </a> | <a href="http://www.babynology.com/privacy.html" class="white"> Privacy Policy </a> | <a href="http://www.babynology.com/babyname-tips.html" class="white"> Naming Tips </a> | <a href="http://www.babynology.com/search-babyname.php" class="white"> Baby Name Search </a> | <a href="http://www.babynology.com/quizzes/parenting/quiz_categories/" class="white"> Parenting Quizzes </a> <!--| <a href="javascript:void(0)" onclick="windowopen(document.location)" class="white"> Tell A Friend </a>--></h4>
                 </div>
 				<div class="babynology_space30"></div> 
 			<div class="babynology_textevidence center">	
@@ -413,13 +892,15 @@ e9 = new Object();
 Our database of baby names has been compiled from various references, resources  and suggestions provided to us by our site visitors and resource partners .
 <script type="text/javascript">
 //<![CDATA[
-document.write("This information is designed to primarily serve as a reference. We are unable to respond to requests for personalized assistance at this time. Thank you for your support.");
+//document.write("This information is designed to primarily serve as a reference. We are unable to respond to requests for personalized assistance at this time. Thank you for your support.");
  //]]>
-</script>This information is designed to primarily serve as a reference. We are unable to respond to requests for personalized assistance at this time. Thank you for your support.
+</script>
 </p>
 </div>
         <div class="babynology_space30"></div> 
-</div>   
+</div>
+
+   
     <!--end babynology_container-->
 </section>
 <!--end section-->
@@ -429,7 +910,7 @@ document.write("This information is designed to primarily serve as a reference. 
      <div class="babynology_container babynology_clearfix">
         <div class="grid grid_6 babynology_aligncenter_iphoneland babynology_aligncenter_iphonepotr">
             <div class="babynology_space20"></div>
-            <p class="white">© Copyright 2015 <span class="grey">Babynology</span></p>
+            <p class="white">© Copyright 2016 <span class="grey">Babynology</span></p>
         </div>
         <div class="grid grid_6">
             <div class="babynology_focus right babynology_aligncenter_iphoneland babynology_aligncenter_iphonepotr">
@@ -442,40 +923,28 @@ document.write("This information is designed to primarily serve as a reference. 
                 <div class="babynology_margin10">
                     <a href="http://www.pinterest.com/babynology/" target="_blank" class="babynology_press right babynology_btn_icon babynology_bg_blue babynology_shadow small babynology_radius white"><i class="icon-pinterest"></i></a>
                 </div>
-				<div class="babynology_margin10">
-                    <a href="http://www.babynology.com/rss.xml" target="_blank" class="babynology_press right babynology_btn_icon babynology_bg_orange babynology_shadow small babynology_radius white"><i class="icon-rss-squared"></i></a>
-                </div>
+				
                 <div class="babynology_margin10">
                     <a href="#start_babynology_framework" class="babynology_zoom babynology_internal_link right babynology_btn_icon babynology_bg_greydark2 small babynology_radius white"><i class="icon-up-outline"></i></a>
                 </div>
             </div>
         </div>
-</div>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-4443901-1', 'auto');
-  ga('send', 'pageview');
-
-</script>  
+</div>  
     <!--end babynology_container-->
 </div>
 <!--end section-->        </div>
-    </div>
+    
     <!--main-->
-   <script src="http://www.babynology.com/js/main/jquery.min.js"></script> <!--Jquery-->
-<script src="http://www.babynology.com/js/main/jquery-ui.js"></script> <!--Jquery UI-->
+   <!-- <script src="http://www.babynology.com/js/main/jquery.min.js" ></script> Jquery-->
+<!-- <script src="http://www.babynology.com/js/main/jquery-ui.js" ></script> Jquery UI-->
 <script src="http://www.babynology.com/js/main/excanvas.js"></script> <!--canvas need for ie-->
 <!--plugins-->
 <!--menu-->
 <script src="http://www.babynology.com/js/plugins/menu/superfish.min.js"></script> <!--superfish-->
 <script src="http://www.babynology.com/js/plugins/menu/tinynav.min.js"></script> <!--tinynav-->
 <!--other-->
-<script src="http://www.babynology.com/js/plugins/isotope/isotope.pkgd.min.js"></script> <!--isotope-->
-<script src="http://www.babynology.com/js/plugins/mpopup/jquery.magnific-popup.min.js"></script> <!--mpopup-->
+<!-- <script src="http://www.babynology.com/js/plugins/isotope/isotope.pkgd.min.js" ></script> isotope-->
+<!-- <script src="http://www.babynology.com/js/plugins/mpopup/jquery.magnific-popup.min.js" ></script> mpopup-->
 <script src="http://www.babynology.com/js/plugins/scroolto/scroolto.js"></script> <!--Scrool To-->
 <script src="http://www.babynology.com/js/plugins/nicescrool/jquery.nicescroll.min.js"></script> <!--Nice Scroll-->
 <script src="http://www.babynology.com/js/plugins/inview/jquery.inview.min.js"></script> <!--inview-->
