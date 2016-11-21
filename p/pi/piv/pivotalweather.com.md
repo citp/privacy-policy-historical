@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pivotalweather.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628074729id_/http%3A//www.pivotalweather.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pivotalweather.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121013842id_/http%3A//www.pivotalweather.com/privacy.php) for the most accurate reproduction.*
 
 # pivotalweather - Privacy Policy
 
