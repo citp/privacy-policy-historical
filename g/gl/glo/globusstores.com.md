@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the globusstores.com privacy policy that was archived on 2016-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160110093214id_/http%3A//www.globusstores.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globusstores.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121031156id_/http%3A//www.globusfashion.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Globus Fashion Clothing Online
 
-Thank you for visiting this website [www.globusstores.com](http://www.globusstores.com/), an Online store which is operated by INCOM Services Private Limited, exclusively for selling Globus products in India as Globus’s online retailer / dealer.
+Thank you for visiting this website [www.globusfashion.com](http://www.globusfashion.com/), an Online store which is operated by INCOM Services Private Limited, exclusively for selling Globus products in India as Globus’s online retailer / dealer.
 
 Your visit to this website is subject to this Privacy Policy and other Terms and Conditions available here in this website.
 
@@ -36,7 +36,7 @@ You agree that neither INCOM nor Globus receives any information / data with res
 
 The acceptance of cookies is not a requirement for visiting the Site. However we would like to point out that the some functionality on the Site and ordering is only possible with the activation of cookies. Cookies are tiny text files which identify your computer to our server as a unique user when you visit certain pages on the Site and they are stored by your Internet browser on your computer's hard drive. Cookies can be used to recognize your Internet Protocol address, saving you time while you are on, or want to enter, the Site. We only use cookies for your convenience in using the Site (for example to remember who you are when you want to amend your shopping cart without having to re-enter your email address) and not for obtaining or using any other information about you (for example targeted advertising). Your browser can be set to not accept cookies, but this would restrict your use of the Site. Please accept our assurance that our use of cookies does not contain any personal or private details and are free from viruses. If you want to find out more information about cookies, go to[http://www.allaboutcookies.org](http://www.allaboutcookies.org/) or to find out about removing them from your browser, go to <http://www.allaboutcookies.org/manage-cookies/index.html>.
 
-The Site uses technology from Google Analytics and Webtrekk GmbH ([www.webtrekk.de](http://www.globusstores.com/pages/www.webtrekk.de)) through which data is collected and stored for marketing and optimization purposes and data use profiles are prepared under a pseudonym. Cookies may be used for this. The cookies enable recognition of the Internet browser. The data collected with these technologies is not used, without separate authorization by the person concerned, to personally identify the visitors to this website and is not collated with personal data on the pseudonym holder. The permission for data recording and storage may at any time be cancelled with on-going effect.
+The Site uses technology from Google Analytics and Webtrekk GmbH ([www.webtrekk.de](http://www.globusfashion.com/pages/www.webtrekk.de)) through which data is collected and stored for marketing and optimization purposes and data use profiles are prepared under a pseudonym. Cookies may be used for this. The cookies enable recognition of the Internet browser. The data collected with these technologies is not used, without separate authorization by the person concerned, to personally identify the visitors to this website and is not collated with personal data on the pseudonym holder. The permission for data recording and storage may at any time be cancelled with on-going effect.
 
 **SECURITY**
 
@@ -70,4 +70,4 @@ In the event of any dispute, difference or claim arising out of this Privacy Pol
 
 We have copyright over this Privacy Policy. Use by third parties, even by way of extract, for commercial purposes is not allowed. Infringements may be subject to legal action.
 
-This Privacy Policy can change at any time to include / exclude clauses and Globusstores.com does not bear responsibility for updating Users on the same.
+This Privacy Policy can change at any time to include / exclude clauses and globusfashion.com does not bear responsibility for updating Users on the same.
