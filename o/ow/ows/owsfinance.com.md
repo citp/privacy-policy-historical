@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the owsfinance.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619111642id_/http%3A//www.owsfinance.com/about/disclosure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owsfinance.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121172107id_/http%3A//owsfinance.com/about/disclosure-policy) for the most accurate reproduction.*
 
 # Legal Disclaimers and Privacy Policy
 
@@ -48,4 +48,4 @@ In accordance with FTC guidelines, we disclose that we have a financial relation
 
 Any references to third party products, rates, or websites are subject to change without notice. We do our best to maintain current information, but due to the rapidly changing environment, some information may have changed since it was published. Please do the appropriate research before participating in any third party offers.
 
-For additional information, please review our [legal disclaimers and privacy policy](http://www.owsfinance.com/about/disclosure-policy/).
+For additional information, please review our [legal disclaimers and privacy policy](https://web.archive.org/about/disclosure-policy/).
