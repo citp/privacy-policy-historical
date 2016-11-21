@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwhatsappstatus.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602144826id_/http%3A//www.status-quote.com/p/www.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwhatsappstatus.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121015925id_/http%3A//www.status-quote.com/p/www.html) for the most accurate reproduction.*
 
 # Privacy Policy ~ WhatsApp Status Quotes
 
