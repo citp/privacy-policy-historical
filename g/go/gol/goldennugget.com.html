@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the goldennugget.com privacy policy that was archived on 2016-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160617113310id_/http%3A//www.goldennugget.com/lasvegas/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goldennugget.com privacy policy that was archived on 2016-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161121204200id_/http%3A//www.goldennugget.com/lasvegas/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Golden Nugget Las Vegas | Privacy Policy</title>
@@ -311,7 +311,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<a href="drink_bar46.asp">Bar 46</a>
 	</li>
 
-	
+<li class="drink_stagebar">
+		<a href="drink_stagebar.asp">Stage Bar</a>
+	</li>	
 
          
 </ul>
@@ -385,6 +387,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
         <ul>
 
+          <li class="upcoming_events">
+            <a href="/lasvegas/upcomingevents.asp">Upcoming Events</a>
+          </li>
+
+
  	<li class="first show_52fridays">
             <a href="/lasvegas/show_52fridays.asp">52 Fridays Concert Series</a>
           </li>
@@ -395,17 +402,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           </li>
 
 
-          <li class="upcoming_events">
-            <a href="/lasvegas/upcomingevents.asp">Upcoming Events</a>
+          <li class="show_nfr">
+            <a href="/lasvegas/show-nfr.asp">WNFR ENTERTAINMENT</a>
           </li>
 
-	<li class="show_richardcheese">
-            <a href="/lasvegas/show_richardcheese.asp">Richard Cheese &amp; Lounge Against The Machine</a>
-          </li> 
-
-          <li class="show_mariachi">
-            <a href="/lasvegas/show_mariachi.asp">Mariachi Sol de Mexico</a>
-          </li>
 
            
           <li class="show_sharktanktours">
@@ -529,13 +529,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		calendarwindow.focus();
 	}
 	</script>
-	<form action="https://bookgnlv.goldennugget.com/cgi-bin/lansaweb?PROCFUN+RN+RESNET+RES+funcparms+UP%28A2560%29:;CTBAR;;;;;;?/" method="post" name="resform" id="resform" onsubmit="changeAction()">
-	<input type="hidden" name="HotelID" value="14207">
-	<input type="hidden" name="LanguageID" value="1">
-	<input type="hidden" name="Rooms" value="1">
+	<form name="resform" id="resform" onsubmit="checkAvailability()">
         <div class="data" action="/" method="post">
-		<input name="DateIn" type="text" class="field label">
-		<a href="javascript:openCalendar('DateIn')" id="date_picker"></a>           
+		<input name="arrival_date" type="text" class="field label">
+		<a href="javascript:openCalendar('arrival_date')" id="date_picker"></a>           
     </div>
     <div class="clear"></div>
     <div class="book_row" id="row_1">
@@ -557,7 +554,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<option value="10">13</option>
 			<option value="10">14</option>
 		</select>
-       		<select name="Adults" id="adults_select">
+       	<select name="Adults" id="adults_select">
 			<option value="1" selected="selected">1</option>
 			<option value="2">2</option>
 			<option value="3">3</option>
@@ -570,7 +567,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	function getDateStr() {
 		var today = new Date();
 		var todayStr = (today.getMonth()+1) + "/" + today.getDate() + "/" + today.getFullYear();;
-		document.resform.DateIn.value = todayStr;
+		document.resform.arrival_date.value = todayStr;
 	}
 
 function getLinkerUrl(url) {
@@ -579,39 +576,79 @@ function getLinkerUrl(url) {
 	return linkerUrl;
 }
 
-	function changeAction() {
-		var newAction = "https://bookgnlv.goldennugget.com/cgi-bin/lansaweb?PROCFUN+RN+RESNET+RES+funcparms+UP%28A2560%29:;CTBAR;";
-		var dteCheckIn = new Date(document.resform.DateIn.value);
-		var strDate;
-		if((dteCheckIn.getMonth()+1)<10) {
-			strDate = "0" + String(dteCheckIn.getMonth()+1);
-		}
-		else {
-			strDate = String(dteCheckIn.getMonth()+1);
-		}
-		if((dteCheckIn.getDate())<10) {
-			strDate = strDate + "0" + String(dteCheckIn.getDate());
-		}
-		else {
-			strDate = strDate + String(dteCheckIn.getDate());
-		}
-		strDate = strDate + String(dteCheckIn.getFullYear()).substring(4, 2);
-		newAction = newAction + strDate + ";";
-		newAction = newAction + document.resform.length_select.value + ";";
-		newAction = newAction + document.resform.adults_select.value + ";;;?/";
-		
-		document.resform.action = newAction;
-		_gaq.push(['_trackEvent', 'Reservations', 'Book_Now', 'Las_Vegas']);
-		
-		document.resform.action = getLinkerUrl(newAction);
+function dateAfter(dteHolder, dateValue, nights) {
+	var thisDate = dteHolder;
+	thisDate.setDate(dateValue + (nights));
+	
+	return thisDate;
+}
 
-		return true;
+	function checkAvailability() {
+		
+		// DECLARATIONS
+		var bookingURL = "https://goldennugget.reztrip.com/search/";
+		var dteCheckIn = new Date(document.resform.arrival_date.value);
+		var dteHolder = new Date(document.resform.arrival_date.value);
+		var dteCheckOut;
+		var strArrivalDate;
+		var strDepartDate;
+		var strDay;
+		var strMonth;
+		var strYear;
+		
+		// VALIDATION AND CLEANUP OF THE URL
+		
+		var dateValue = parseInt(String(dteCheckIn.getDate()));
+		var nightsValue = parseInt(document.resform.length_select.value);
+		dteCheckOut = dateAfter(dteHolder, dateValue, nightsValue);
+		
+			if((dteCheckIn.getMonth()+1)<10) {
+				strMonth = "0" + String(dteCheckIn.getMonth()+1);
+			}
+			else {
+				strMonth = String(dteCheckIn.getMonth()+1);
+			}
+			if((dteCheckIn.getDate())<10) {
+				strDay = "0" + String(dteCheckIn.getDate());
+			}
+			else {
+				strDay = String(dteCheckIn.getDate());
+			}
+			strYear = String(dteCheckIn.getFullYear());
+			strArrivalDate = strYear + "-" + strMonth + "-" + strDay;
+			
+			if((dteCheckOut.getMonth()+1)<10) {
+				strMonth = "0" + String(dteCheckOut.getMonth()+1);
+			}
+			else {
+				strMonth = String(dteCheckOut.getMonth()+1);
+			}
+			if((dteCheckOut.getDate())<10) {
+				strDay = "0" + String(dteCheckOut.getDate());
+			}
+			else {
+				strDay = String(dteCheckOut.getDate());
+			}
+			strYear = String(dteCheckOut.getFullYear());
+			strDepartDate = strYear + "-" + strMonth + "-" + strDay;
+		
+		bookingURL = bookingURL + "?" + "rooms=1";
+		bookingURL = bookingURL + "&" + "arrival_date=" + strArrivalDate;
+		bookingURL = bookingURL + "&" + "departure_date=" + strDepartDate;
+		bookingURL = bookingURL + "&" + "adults[]=" + document.resform.adults_select.value;
+		bookingURL = bookingURL + "&" + "children[]=0";
+		
+		// FINAL CALL TO PROCESSING URL
+		window.open(bookingURL);
 	}
 
 	getDateStr();
     </script>
 </div><div class="col_right_con">
 	<div class="right_con_con">
+		<div class="compdollars_block">
+			<a href="/lasvegas/play_compdollars.asp"></a>
+		</div>
 		<div class="catlog_block">
 			<a href="specials.asp"></a>
 		</div>
@@ -686,7 +723,7 @@ Landrys gift Card
           <a href="http://www.landrysselect.com/" target="_blank">Landry's Select Club</a>
         </li>
 		<li>
-          <a href="/atlanticcity/default.asp">
+          <a href="/atlanticcity/Default.asp">
             Golden Nugget <strong>Atlantic City</strong>
           </a>
         </li>
@@ -763,14 +800,17 @@ Landrys gift Card
         <li class="first">
           <a href="press.asp" target="_self">press</a>
         </li>
-        <li>
+        <!--<li>
           <a href="careers.asp" target="_self">Careers</a>
+        </li>-->
+		<li>
+          <a href="https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25968&amp;siteid=5591" target="_blank">Careers</a>
         </li>
 		<li>
           <a href="privacy.asp" target="_self">Privacy Policy</a>
         </li>
 		<li>
-          <a href="play_24kterms.asp" target="_self">24K Select Terms &amp; Conditions</a>
+          <a href="/pdf/24K-TermsConditions.pdf" target="_blank">24K Select Terms &amp; Conditions</a>
         </li>
 		<li>
           <a href="sitemap.asp" target="_self">Site Map</a>
