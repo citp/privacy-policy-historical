@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylocalservices.co.uk privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210202605id_/http%3A//www.mylocalservices.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylocalservices.co.uk privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121195923id_/http%3A//www.mylocalservices.co.uk/privacy.php) for the most accurate reproduction.*
 
 # My Local Services - Our Cookie and Privacy Policy
 
