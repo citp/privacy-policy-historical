@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aerogarden.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612023714id_/http%3A//www.aerogarden.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aerogarden.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121150333id_/http%3A//www.aerogarden.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@
 AeroGrow is committed and accountable to comply with the AeroGrow Global Information Privacy & Security Policy and applicable law, including the Personal Information Protection and Electronic Documents Act (PIPEDA), to maintain the privacy of your personal information collected at this website. We encourage you to read this privacy statement carefully. 
 
 The Information We Collect   
-AeroGrow may collect the following types of information from you at this website: 
+AeroGrow may collect the following types of information from you at this website or through the AeroGarden App: 
 
 Transaction Information   
 If you enter into a transaction (such as a purchase) at this website, you will be required to provide information that is needed to complete the transaction, including your name, billing and shipping address, product selection(s), and your payment information. We do not store any credit/debit card information, only encrypted "tokens" for security purposes.
