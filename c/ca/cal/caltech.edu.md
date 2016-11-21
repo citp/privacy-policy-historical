@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caltech.edu privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505133118id_/http%3A//www.caltech.edu/content/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caltech.edu privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121162932id_/http%3A//www.caltech.edu/content/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Caltech
 
@@ -6,7 +6,7 @@ _Effective Date: April 16, 2013_
 
 ### Applicability
 
-This Privacy Notice applies only to the California Institute of Technology (Caltech) main web site ([http://www.caltech.edu](http://www.caltech.edu/)) and explains our practices about the collection, use, and disclosure of visitor information, as outlined in this privacy statement.  Other Caltech web sites may collect and use visitor information differently, and visitors should review the respective privacy statements for other Caltech sites that they visit.
+This Privacy Notice applies only to the California Institute of Technology (Caltech) main web site ([http://www.caltech.edu]()) and explains our practices about the collection, use, and disclosure of visitor information, as outlined in this privacy statement.  Other Caltech web sites may collect and use visitor information differently, and visitors should review the respective privacy statements for other Caltech sites that they visit.
 
 ### Changes
 
