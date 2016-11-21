@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bechna.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612111158id_/http%3A//bechna.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bechna.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121112212id_/http%3A//bechna.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bechna Classifieds
 
@@ -42,7 +42,7 @@ Information Collection
 
 When visiting Web Sites certain information about you and your computer can sometimes be collected. This section explains what information Bechna collects, and how it is used.
 
-Information Collected \- What information do we collect and why? 
+Information Collected – What information do we collect and why? 
 We collect the following identifiable information about our visitors: 
 Global area of Web Site 
 
@@ -82,7 +82,7 @@ Our Web Site generates server log files automatically. These log files are used 
 
 * * *
 
-Information Recipients \- Who has access to the information collected?
+Information Recipients – Who has access to the information collected?
 
 Global area of Web Site 
 
@@ -100,7 +100,7 @@ Blog area of Web Site
 
 * * *
 
-Information Retention \- How long is this information retained?
+Information Retention – How long is this information retained?
 
 Global area of Web Site 
 
