@@ -1,73 +1,75 @@
-> *The following text is extracted and transformed from the kriscarr.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610043443id_/http%3A//kriscarr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kriscarr.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121143313id_/http%3A//kriscarr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KrisCarr.com
 
-**What information do we collect?**
+Thank your for visiting us. Your privacy is important to us, and therefore we have developed this Privacy Policy to make sure that our Sites are positive and constructive spaces where you feel safe.
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
+This Privacy Policy outlines our guidelines concerning the use of your personal information, including, the efforts we make to protect your personal information, and the choices you have concerning our use of such information. Read this Privacy Policy carefully. We may change this Privacy Policy from time to time without notice. We will post any changes here so that you will always know our policies regarding what information we gather, how we use and share that information. Refer back to this Privacy Policy regularly for any changes. This Privacy Policy is incorporated by reference to our Terms of Use.
 
-When ordering or registering on our site, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+## Scope of Privacy Policy
 
-**What do we use your information for?**
+This Privacy Policy covers only information collected on the Sites. It does not cover any information collected offline by us, nor does it cover the conduct of any Third-Party Sites. We encourage you to review the privacy policies of any Third-Party Sites or services before providing any of them with your personal information.
 
-Any of the information we collect from you may be used in one of the following ways:
+## Personal Information
 
-To personalize your experience
+You may visit our site anonymously. In connection with the Services we may request personal information from you (such as your name, street address, telephone number, credit card number, e-mail address) in connection with your use of, or participation in the Sites or Services. We only collect personal information from you only if you voluntarily submit such information to us. We will never intentionally disclose any personal information to any third party without your permission (through opting-in or similar procedures) except as provided for herein or otherwise as permitted or required under Applicable Laws. We do not sell, trade, or otherwise transfer to outside parties your personal information, except as set forth herein.
 
-To improve our website
+We collect your information:
 
-To improve customer service
+  * To personalize your experience;
+  * To improve our Sites;
+  * To improve customer service; and
+  * To process transactions.
 
-To process transactions
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-To administer a contest, promotion, survey or other site feature
+We may contact you based on the information you provide online in connection with the Services or use the information in connection with the performance of the Services. We will share information with necessary third parties for the purpose of carrying out the Services. Your participation in the Services constitutes your consent to such disclosure and use of such information.
 
-To send periodic emails
+In the event that your personal information is requested as part of our surveys, polls or promotions, such personal information may be added to your registration information.  
+If you give us your permission or otherwise “opt-in”, we may also use personal information for marketing and promotional purposes. We will give you an opportunity to “opt-in” at the time our request for your personal information is made. Please note, however, that under certain circumstances, if you initially do not choose to “opt-in” or if you later “opt-out,” you may not be eligible for certain benefits or Services for which personal information is required.
 
-The email address you provide for order processing may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+These policies have the following exceptions: We will release specific information to comply with any valid legal inquiry or process or any Applicable Laws. We will also release specific information in special cases, such as if there is an attempted breach of the security of the Sites or a physical or property threat to you or others. We may provide access to your personal information to our contractors who are performing services for us in connection with our Sites or the Services that you have requested.
 
-If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+Any information you provide when making a purchase will be shared with payment processors, financial gateways, credit card companies and any other necessary third parties.
 
-**Do we disclose any information to outside parties?**
+If you publicly post personal information on our Sites that information can be collected and used by third parties. Although we strive to protect our users’ privacy, we cannot guarantee the security of information you post on the Sites and have no control over how such third parties may use your information. You disclose such information at your own risk. We strongly suggest that you never post your last name, address or telephone to our Sites.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+You are responsible for maintaining the confidentiality of your account information and password. You shall be responsible for all uses of your account, whether or not authorized by you. You agree to notify us immediately of any unauthorized use of your account or password.
 
-**How do we protect your information?**
+## Nonpersonal Identification Information
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+We may collect nonpersonal information through the use of, without limitation, cookies, IP address tracking and web beacons.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+Nonpersonal information might include the browser you use, the type of computer you use, your operating system or your internet service provider. Our systems may also automatically gather information about your location, the areas you visit and search terms you use on our Sites and about the links you may select from within our Sites to other areas of the web or elsewhere online.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 30 days.
+We use such information for our business purposes, to administer the Sites, to better manage advertising on the Sites, to understand how our users use our Sites and to improve our Sites.
 
-**Do we use cookies?**
+We may aggregate and share non-personal information with our partners, suppliers, and other third parties, but we will not share any individual names, personal navigational or other personal information without your consent and we maintain control how your non-personal information will be used. For example, we may use a third-party advertising company to customize ads and share demographic and preference information to display advertisements for appropriate for you. We may contract with a third-party web analytics provider to help optimize our Sites.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+## Privacy of Children
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+We are in compliance with the requirements of the Children’s Online Privacy Protection Act. The Sites are not directed to children under the age of 13 and therefore we will not knowingly collect personally identifiable information from children under 13.
 
-**Third party links**
+We require users under 18 to obtain the consent of a parent or guardian to view the Sites. You agree to abide by any such restrictions and not to help anyone avoid these restrictions.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+## Security Policy
 
-**Childrens’ Online Privacy Protection Act Compliance**
+By using the Sites, you assume the risk of an unauthorized security beach. Even though we take prudent and reasonable measures to secure your personal information, our servers, and our physical premises, we cannot guaranty that our efforts will be completely effective.
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+## Opt-Out
 
-**Online Privacy Policy Only**
+We include detailed unsubscribe/opt-out instructions as appropriate. If you need further assistance with unsubscribing or opting-out of any of the Services, email customer service at [info@kriscarr.com](mailto:info@kriscarr.com) for assistance. Upon request and to the extent practicable, we will make reasonable efforts to remove your information from our databases. However, be aware we may be unable to remove your information from the records of any third party who have received with your information in accordance with this Privacy Policy.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+At our discretion, we may determine that your lack of engagement in the Services indicates your desire to opt-out of the Services. For example, you may be removed from our email list if you have not opened an email from us for a certain period of time. You may opt-in again at any time.
 
-**Your Consent**
+## Consent to Transfer
 
-By using our site, you consent to our online privacy policy.
+The Sites are operated from the United States. If you are located outside of the United States, be aware that any information you provide to us will be transferred to the United States. By using our Sites, participating in any of the Services and/or providing us with your information, you consent to this transfer.
 
-**Changes to our Privacy Policy**
+## Changes in Site Ownership
 
-If we decide to change our privacy policy, we will post those changes on this page.
+In the event of a merger, acquisition, or sale of any of our assets or the Sites you consent to the disclosure to, and use by, any subsequent owner or operator of the Sites, of any information about you contained in our databases.
 
-**Contacting Us**
+## Additional Information
 
-If there are any questions regarding this privacy policy, you may contact us at info@kriscarr.com
+For more information on protecting your privacy, please visit [www.ftc.gov/privacy](http://www.ftc.gov/privacy).
