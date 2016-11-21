@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the play.it privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627204703id_/http%3A//policies.cbslocal.com/privacy/current.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play.it privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122002145id_/http%3A//policies.cbslocal.com/privacy/current.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -195,7 +195,7 @@ back to top
 
 #### Questions
 
-If you have questions regarding this Privacy Policy, please [contact us](mailto:localcontactus@cbs.com) and we will endeavor to respond to your request within a reasonable period of time. You may also submit questions or comments using the postal address listed below:
+If you have questions regarding this Privacy Policy, please [contact us](http://policies.cbslocal.com/privacy/generalinfo.html) and we will endeavor to respond to your request within a reasonable period of time. You may also submit questions or comments using the postal address listed below:
 
 ** CBS Radio Inc.  
 1271 Avenue of the Americas, 44th Floor  
@@ -418,7 +418,7 @@ back to top
 
 #### California Visitors
 
-Residents of the State of California may request a list of all third parties to which the CBS Local Services has disclosed certain information during the preceding year for the third parties' direct marketing purposes. If you are a California resident and would like such a list, please contact us at [localcontactus@cbs.com](mailto:localcontactus@cbs.com). If you are a California resident under 18 years of age, and a registered user of any website where this policy is posted, you may request removal of content or information you have publicly posted. Please be aware that such a request does not ensure complete or comprehensive removal of the content or information you posted and there may be circumstances in which the law does not require or allow removal, even if requested.
+Residents of the State of California may request a list of all third parties to which the CBS Local Services has disclosed certain information during the preceding year for the third parties' direct marketing purposes. If you are a California resident and would like such a list, please contact us at <http://policies.cbslocal.com/privacy/generalinfo.html>. If you are a California resident under 18 years of age, and a registered user of any website where this policy is posted, you may request removal of content or information you have publicly posted. Please be aware that such a request does not ensure complete or comprehensive removal of the content or information you posted and there may be circumstances in which the law does not require or allow removal, even if requested.
 
 For all requests, you must put the statement "Your California Privacy Rights" in the subject field of your request and include the name of the CBS Local Service with respect to which you are requesting the information. You must also include your full name, street address, city, state, and zip code. We will not accept requests via telephone, postal mail, or facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
 
@@ -456,7 +456,7 @@ Information collected from children will be disclosed in the same ways described
 **Parents' Choices and Access to Children's Information**   
 Parents may review the contact information we have collected from their child, refuse to permit us to collect further contact information from their child, and request that any contact information we have collected be deleted from our records. 
 
-To review, update or delete your child's contact information, please [contact us](mailto:localcontactus@cbs.com?Subject=Contact%20Us). You may also send your request to the postal address listed below. To protect your child's safety, we ask for proof of your identity. We may deny access if we believe there is a question about your identity. 
+To review, update or delete your child's contact information, please [contact us](http://policies.cbslocal.com/privacy/generalinfo.html). You may also send your request to the postal address listed below. To protect your child's safety, we ask for proof of your identity. We may deny access if we believe there is a question about your identity. 
 
 Please note that certain information cannot be deleted because of other legal obligations, such as FCC requirements. 
 
@@ -467,7 +467,7 @@ back to top
 
 #### Contact Us
 
-If you need further assistance, please [contact us](mailto:localcontactus@cbs.com?Subject=Contact%20Us). If you would prefer to submit your questions or comments by postal mail, please send a letter to the following address:
+If you need further assistance, please [contact us](http://policies.cbslocal.com/privacy/generalinfo.html). If you would prefer to submit your questions or comments by postal mail, please send a letter to the following address:
 
 ** CBS Radio Inc.  
 1271 Avenue of the Americas, 44th Floor  
@@ -479,13 +479,13 @@ back to top
 
 #### CBS Local Digital Media Privacy Policy FAQ 
 
-We have updated our Privacy Policy to provide visitors of CBS Local Services with a single, uniform policy consistent with our core [Privacy Principles](https://web.archive.org/web/20160627204703id_/http%3A//policies.cbslocal.com/privacy/index.html). Here, you will find answers to some common questions about our new Privacy Policy. To review the current Privacy Policy, click here.
+We have updated our Privacy Policy to provide visitors of CBS Local Services with a single, uniform policy consistent with our core [Privacy Principles](https://web.archive.org/web/20161122002145id_/http%3A//policies.cbslocal.com/privacy/index.html). Here, you will find answers to some common questions about our new Privacy Policy. To review the current Privacy Policy, click here.
 
-Why are you updating your Privacy Policy? As CBS Local expands and the laws protecting individual privacy evolve, we update our Privacy Policy accordingly to ensure that we are adhering to all applicable laws and conform to a consistent set of core [Privacy Principles](https://web.archive.org/web/20160627204703id_/http%3A//policies.cbslocal.com/privacy/index.html) followed by our companies
+Why are you updating your Privacy Policy? As CBS Local expands and the laws protecting individual privacy evolve, we update our Privacy Policy accordingly to ensure that we are adhering to all applicable laws and conform to a consistent set of core [Privacy Principles](https://web.archive.org/web/20161122002145id_/http%3A//policies.cbslocal.com/privacy/index.html) followed by our companies
 
 Have you made any substantively material changes to the Privacy Policy? No, we have not made any substantively material changes to our Privacy Policy.
 
-What are the "core" privacy principles that CBS Local follows? Trust is a cornerstone of our mission at CBS Local. We are committed to gaining and maintaining your trust by following five key principles: transparency, choice, access, security, and accountability. For more information, [click here](https://web.archive.org/web/20160627204703id_/http%3A//policies.cbslocal.com/privacy/index.html).
+What are the "core" privacy principles that CBS Local follows? Trust is a cornerstone of our mission at CBS Local. We are committed to gaining and maintaining your trust by following five key principles: transparency, choice, access, security, and accountability. For more information, [click here](https://web.archive.org/web/20161122002145id_/http%3A//policies.cbslocal.com/privacy/index.html).
 
 Will you share my contact information with third parties? Like other businesses, we share contact information (such as name and email address) with vendors who process credit card transactions, with business partners who co-sponsor CBS Local Services, and when we have consent from our users. For more information, click here.
 
@@ -497,4 +497,4 @@ Does CBS Local share contact information with other websites or services owned b
 
 Do you use my data for advertising on CBS Local Services? Like other websites, we are able to offer free content and services through the revenue we receive from advertising on CBS Local Services. We hope you value the advertising you see on our Services, and we may use some data about you to tailor advertisements to your apparent interests. For example, if you visit the CBS Local Services and read articles about computers, we may serve you with a computer-related advertisement when you visit another CBS Local Service. This advertising does not result in you seeing more advertisements; rather, it just means you’ll see more relevant advertisements. To learn more, click here.
 
-What are the benefits to me of the new Privacy Policy? We hope you will find our Privacy Policy easier to read and understand across all CBS Local Services. We are committed to gaining and maintaining your trust. If you have any questions about our Privacy Policy, please [contact us](mailto:localcontactus@cbs.com).
+What are the benefits to me of the new Privacy Policy? We hope you will find our Privacy Policy easier to read and understand across all CBS Local Services. We are committed to gaining and maintaining your trust. If you have any questions about our Privacy Policy, please [contact us](http://policies.cbslocal.com/privacy/generalinfo.html).
