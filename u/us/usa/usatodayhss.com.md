@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usatodayhss.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605194408id_/http%3A//usatodayhss.com/privacy-noticeyour-california-privacy-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usatodayhss.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121075749id_/http%3A//usatodayhss.com/privacy-noticeyour-california-privacy-rights) for the most accurate reproduction.*
 
 # Privacy Notice/Your California Privacy Rights | | USA Today High School Sports
 
