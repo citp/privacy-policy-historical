@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newtonsoftware.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328042512id_/http%3A//newtonsoftware.com/gravity-app-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newtonsoftware.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121194749id_/http%3A//newtonsoftware.com/gravity-app-privacy-policy) for the most accurate reproduction.*
 
 # Gravity App Privacy Policy | Newton Software
 
