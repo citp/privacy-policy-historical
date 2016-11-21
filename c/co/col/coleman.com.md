@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coleman.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625091050id_/http%3A//www.coleman.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coleman.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121033640id_/http%3A//www.coleman.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@
 
 ### GENERAL
 
-The Coleman Company, Inc. ("Coleman" or “[W]e” respects the privacy of every individual who visits [coleman.com](https://web.archive.org/s/USA/coleman/), stearnsflotation.com, sevylor.com, aerobed.com, puddlejumperusa.com and eskyseriescoolers.com (the "Websites"), or responds to our guestbook, contests, or interactive advertisements. Coleman's Privacy Policy outlines the information Coleman will collect and how we will use that information. This Policy will also inform you what to do if you do not want your Personal Information to be shared or divulged when you visit our Websites or respond to our advertising. 
+The Coleman Company, Inc. ("Coleman" or “[W]e” respects the privacy of every individual who visits [coleman.com](http://www.coleman.com/), stearnsflotation.com, sevylor.com, aerobed.com, puddlejumperusa.com and eskyseriescoolers.com (the "Websites"), or responds to our guestbook, contests, or interactive advertisements. Coleman's Privacy Policy outlines the information Coleman will collect and how we will use that information. This Policy will also inform you what to do if you do not want your Personal Information to be shared or divulged when you visit our Websites or respond to our advertising. 
 
 We do not attempt to collect excessive or irrelevant information, whether that information personally identifies you or not. We collect information solely for the purposes stated below. We will take reasonable steps to delete or de-identify information about you that we collect when it is no longer needed to interact with you. You agree that until you notify us by following the instructions under the "Opt-out" section below, or we determine that the information is no longer needed, we may retain the information indefinitely. 
 
@@ -68,4 +68,4 @@ Please check this Privacy Policy periodically to keep informed of any changes. A
 
 If you have any questions regarding this Privacy Policy or our privacy practices, please contact us at: The Coleman Company, Inc. 1-800-835-3278 or at [consumerservice@coleman.com](mailto:consumerservice@coleman.com). 
 
-[TERMS OF USE](https://www.coleman.com/coleman-terms.html)
+[TERMS OF USE](http://www.coleman.com/coleman-terms.html)
