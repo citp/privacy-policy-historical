@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the mercatornet.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530211246id_/http%3A//www.mercatornet.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercatornet.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121121624id_/http%3A//www.mercatornet.com/info/privacy) for the most accurate reproduction.*
 
-# MercatorNet’s Privacy Policy
+# MercatorNet: promoting human dignity
 
 ###### _MercatorNet_ is committed to maintaining the privacy of personal information that you provide us when using our website. This privacy policy describes how we treat personal information received about you when you visit our site. 
 
 #### Information we collect
 
-When you use _MercatorNet_ , you consent to our collection and use of the personal information you provide. We do not disclose personally identifying information about our users to others without their consent. 
+When you use _MercatorNet_ , you consent to our collection and use of the personal information you provide. We do not disclose personally identifying information about our users to others without their consent.
 
 #### How we use information that is collected
 
-We may use personal information in the following ways: 
+We may use personal information in the following ways:
 
   * \- To send email acknowledgements of subscription orders or correspondence conducted on the website.
   * \- To send you email renewal notices.
@@ -22,12 +22,12 @@ We may use personal information in the following ways:
 
 #### Security
 
-Our website employs security measures to protect against the loss, misuse, and alteration of the information under our control. We use a secure server to protect the security of your on-line transactions. 
+Our website employs security measures to protect against the loss, misuse, and alteration of the information under our control. We use a secure server to protect the security of your on-line transactions.
 
 #### Policy modifications
 
-Our privacy policy may change, so please check back from time to time. 
+Our privacy policy may change, so please check back from time to time.
 
 #### Comments and queries
 
-If you have any questions or comments about this privacy statement, [contact us](http://www.mercatornet.com/info/contact_us). 
+If you have any questions or comments about this privacy statement, [contact us](https://www.mercatornet.com/info/contact_us).
