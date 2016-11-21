@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atafa.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322055930id_/http%3A//www.opentip.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atafa.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121113256id_/http%3A//www.opentip.com/privacy.php) for the most accurate reproduction.*
 
 # Opentip.com: Online shopping for promotional items, sporting goods, office products, home and garden, and apparel.
 
@@ -55,7 +55,7 @@ Opentip.com does not sell products for purchase by children. We sell children's 
 
 **Safe Harbor**
 
-Opentip.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of  Commerce's Safe Harbor Web site. If you would like to contact Opentip.com directly about the Safe Harbor program, please send an e-mail to [support@opentip.com](mailto:support@opentip.com).  
+Opentip.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of  Commerce's Safe Harbor Web site. If you would like to contact Opentip.com directly about the Safe Harbor program, please [Contact Us](http://www.opentip.com/contact_us.php).  
 
 
  **Automatic Information**
