@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thugkitchen.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325025456id_/http%3A//www.thugkitchen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thugkitchen.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121104642id_/http%3A//www.thugkitchen.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Thug Kitchen
 
@@ -22,7 +22,7 @@ Following termination or deactivation of your Thug Kitchen account, we may retai
 Thug Kitchen reserves the right, but has no obligation, to monitor the user content you post on ThugKitchen.com. We reserve the right to remove any such information or material for any reason or no reason, including without limitation if in our sole opinion such information or material violates, or may violate, any applicable law or to protect or defend our rights or property or those of any third party. Thug Kitchen also reserves the right to remove information upon the request of any third party.
 
  **HOW WE SHARE YOUR INFORMATION**  
-Personally Identifiable Information: Thug Kitchen will **not** rent or sell your personally identifiable information to others. Thug Kitchen may share your personally identifiable information with third parties for the purpose of providing ThugKitchen.com services to you. If we do this, such third parties’ use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of Thug Kitchen (for instance, on servers or databases co-located with hosting providers).
+Personally Identifiable Information: Thug Kitchen will  **not**  rent or sell your personally identifiable information to others. Thug Kitchen may share your personally identifiable information with third parties for the purpose of providing ThugKitchen.com services to you. If we do this, such third parties’ use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of Thug Kitchen (for instance, on servers or databases co-located with hosting providers).
 
 Any personal information or content that you voluntarily disclose for posting to ThugKitchen.com, such as user content, becomes available to the public, as controlled by any applicable privacy or website customization settings. If you remove information that you posted to ThugKitchen.com, copies may remain viewable in cached and archived pages, or if other users have copied or saved that information.
 
@@ -37,7 +37,7 @@ To protect your privacy and security, we take reasonable steps (such as requesti
 In the event that personal information is compromised as a result of a breach of security, Thug Kitchen will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
 
  **Your Choices About Your Information**  
-You may, of course, decline to submit personally identifiable information through ThugKitchen, in which case we may not be able to provide certain services to you. You can review and correct the information about you that Thug Kitchen keeps on file by contacting us directly at [thug@thugkitchen.com](mailto:thug@thugkitchen.com)
+You may, of course, decline to submit personally identifiable information through ThugKitchen, in which case we may not be able to provide certain services to you. You can review and correct the information about you that Thug Kitchen keeps on file by contacting us directly at [thug@thugkitchen.com](mailto:thug@thugkitchen.com)
 
  **Children's Privacy**  
 Protecting the privacy of young children is especially important. For that reason, Thug Kitchen does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register for ThugKitchen.com accounts. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on ThugKitchen.com. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [thug@thugkitchen.com](mailto:thug@thugkitchen.com)
