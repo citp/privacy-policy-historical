@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the fca.org.uk privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531155859id_/http%3A//www.fca.org.uk/site-info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fca.org.uk privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121210555id_/https%3A//www.fca.org.uk/privacy) for the most accurate reproduction.*
 
-# FCA privacy policy - Financial Conduct Authority
+# Privacy policy | FCA
 
 We (the Financial Conduct Authority - FCA) receive personal information through this website. You may, for example, be asked for personal information if you want to take advantage of specific services that we offer, such as ordering online or subscribing to our publications.
 
 Where you provide personal information, we will only use it to deliver the services you have requested.
 
-This privacy policy only covers the FCA's website.
+This privacy policy only covers the FCA's website fca.org.uk.
 
-The FCA site does not automatically capture or store personal information, other than logging your IP address and session information such as how long your visit lasted and the type of browser used. This is recognised by the web server and is only used for system administration and to provide statistics, which we use to evaluate how the site is used.
+This website does not automatically capture or store personal information, other than logging your IP address and session information such as how long your visit lasted and the type of browser used. This is recognised by the web server and is only used for system administration and to provide statistics, which we use to evaluate how the site is used.
 
-This policy does not cover links within this site to other websites.
+This policy does not cover links within these sites to other websites.
 
 ## Cookies
 
@@ -18,81 +18,52 @@ Cookies collect anonymous information about how visitors use our site, which is 
 
 ### Google Analytics
 
-We use Google Analytics, a web analytics service provided by Google. Google Analytics uses 'cookies', which are text files placed on your computer, to help analyse how visitors use fca.org.uk.
+We use Google Analytics, a web analytics service provided by Google. Google Analytics uses 'cookies', which are text files placed on your computer, to help analyse how visitors use the website.
 
-**Cookie name** | **What is it**  
+Cookie name | What is it  
 ---|---  
-_utma | Typical content: randomly generated number.  
-Expires: two years.  
-  
-_utmb  
-| Typical content: randomly generated number.  
-Expires: 30 minutes.  
-  
-_utmz | Typical content: randomly generated number and information about how the page was reached (eg directly or via a link, organic search or paid search).  
-Expires: six months.  
-  
-  
-For further details on Google Analytics cookies, including those not used by fca.org.uk, visit [cookies set by Google Analytics](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html).
+_ga | Used to distinguish users.  
+​Expires: 2 years.  
+_gat | 
 
-### Content Management System cookies
+Used to throttle request rate.​​  
+​Expires: 10 minutes.  
+  
+For further details on Google Analytics cookies, including those not used by fca.org.uk, visit [cookies set by Google Analytics](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html).
 
-Used by the software (Vignette) which displays our website content to remember selections or preferences you’ve already made.
-
-**Cookie name** | **What is it**  
----|---  
-VignettePortal-NavTreeState-fca | Typical content: randomly generated number.  
-Expires: when user exits browser.  
-  
-JSESSIONID | Typical content: randomly generated number.  
-Expires: when user exits browser.  
-  
-cookiesToolbar | Typical content: randomly generated number  
-Expires: 90 days.  
-  
-  
 ### Search cookies
 
 Used by the search engine (Funnelback) to allow you to save results to a shortlist for later viewing.
 
-**Cookie name** | **What is it**  
+Cookie name | What is it  
 ---|---  
-FBJESSIONID | Typical content: randomly generated number.  
+SSESSID | Typical content: randomly generated number.  
 Expires: when user exits browser.  
-  
-user-id | Typical content: randomly generated number sequence.  
+session_api_session | Typical content: randomly generated number sequence.  
 Expires: maximum time allowed by browser.  
   
-  
-### Firms section
+### Content management cookies
 
-Our firms section uses Drupal cookies to display and remember content based on selections you have already made.
+Our site use Drupal  cookies to display and remember content based on selections you have already made.
 
-**Cookie name** | **What is it**  
+#### Drupal
+
+Cookie name | What is it  
 ---|---  
-Drupal.session_cache_popup_seen | Server pop-up to first time users  
-Typical content: boolean.  
-Expires: one week.  
-  
-Drupal.session_cache.global filter | Contextualised user journeys  
-Typical content: boolean.  
-Expires: one week.  
-  
-ShowCookieIcon | Typical content: boolean.  
-Expires: three months.  
-  
-Firms-cookiecontrol | Typical content: boolean.  
-Expires: three months.  
-  
-has.js | Typical content: boolean.  
+cookie-agreed | Typical content: boolean.  
+Expires: 3 months.  
+has_js | Typical content: boolean.  
 Expires: session (until page is closed).  
   
-  
-#### Vimeo cookies
+### Vimeo cookies
 
-We use Vimeo’s privacy-enhanced mode to embed videos from our official Vimeo channel. You can find out more on [Vimeo’s embedding videos information](http://vimeo.com/cookie_policy) page.
+We use Vimeo’s privacy-enhanced mode, to embed videos from our official Vimeo channel. You can find out more on [Vimeo’s embedding videos information page](http://vimeo.com/cookie_policy).
 
-## General
+### New Relic cookies
+
+New Relic Browser provides insights into how this website behaves when it is loaded into a browser, and [only collects performance data](https://docs.newrelic.com/docs/browser/new-relic-browser/performance-quality/security-new-relic-browser). You can find out more about [New Relic Browser's security measures](https://docs.newrelic.com/docs/browser/new-relic-browser/performance-quality/security-new-relic-browser#cookies) on their website. 
+
+### General
 
 You can choose to refuse cookies or tell your browser to let you know each time that a website tries to set a cookie. However, refusing cookies may mean some sections of the site will not work properly.
 
