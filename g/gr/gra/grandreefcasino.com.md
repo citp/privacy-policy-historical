@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandreefcasino.com privacy policy that was archived on 2013-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130308050907id_/http%3A//www.grandreefcasino.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandreefcasino.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121044913id_/http%3A//www.grandreefcasino.com/privacy) for the most accurate reproduction.*
 
 # Security and Privacy - Grand Reef Casino
 
@@ -6,29 +6,29 @@ The Grand Reef Casino and its subsidiaries are committed to respecting and prote
 
 The following statement discloses the information gathered by the Grand Reef Casino:
 
-### Website Information
+### WEBSITE INFORMATION
 
-As part of the website's operation and for our own statistical analysis of web-site traffic, our website automatically logs Internet IP addresses accessing our site. We DO NOT log any email address of website visitors.
+As part of the website’s operation and for our own statistical analysis of web-site traffic, our website automatically logs Internet IP addresses accessing our site. We DO NOT log any email address of website visitors.
 
-### Advertising System
+### ADVERTISING SYSTEM
 
-Our Advertising system logs IP addresses to supply more accurate advertising features, such as language specific banners. It does NOT log any email addresses. 
+Our Advertising system logs IP addresses to supply more accurate advertising features, such as language specific banners. It does NOT log any email addresses.
 
-### Account Creation Information
+### ACCOUNT CREATION INFORMATION
 
-The Account Information supplied during the account creation process is kept strictly confidential for our own purpose. We do NOT share this information with any third party company and/or organization. This information includes customer email addresses and other personal information supplied upon registration. If you supply us with your personal details, the information will only be used for its intended use, such as allowing us to send you information which you request. 
+The Account Information supplied during the account creation process is kept strictly confidential for our own purpose. We do NOT share this information with any third party company and/or organization. This information includes customer email addresses and other personal information supplied upon registration. If you supply us with your personal details, the information will only be used for its intended use, such as allowing us to send you information which you request.
 
-Email addresses are NOT shared with any other organization for commercial or noncommercial purposes. Email addresses will only be used to provide our customers with information regarding new software updates, promotional material, and miscellaneous casino operations, such as deposits and withdrawals. 
+Email addresses are NOT shared with any other organization for commercial or noncommercial purposes. Email addresses will only be used to provide our customers with information regarding new software updates, promotional material, and miscellaneous casino operations, such as deposits and withdrawals.
 
-We collect email addresses of those who communicate with us via email. 
+We collect email addresses of those who communicate with us via email.
 
-If you do not want to receive any email from us, please send us a blank email with the text "remove" in the subject to [support@grandreefcasino.com](mailto:support@grandreefcasino.com)
+If you do not want to receive any email from us, please send us a blank email with the text “remove” in the subject to [support@grandreefcasino.com](mailto:support@grandreefcasino.com)
 
-### Winnings
+### WINNINGS
 
 Your winnings and cash-outs are kept strictly confidential. It is your responsibility to report these winnings to the appropriate authorities that apply in your jurisdiction, should you choose to do so.
 
-### Security
+### SECURITY
 
 We maintain the upmost available means to ensure that your information remains safe with us. All information is transferred using encryption technologies and once stored on our servers, it is maintained safe using the latest Firewall technologies available today. Both our website and software use all available means to maintain data accuracy and privacy and to protect your data from being misused and/or lost.
 
