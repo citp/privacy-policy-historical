@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncl.res.in privacy policy that was archived on 2016-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160126060238id_/http%3A//www.ncl.res.in/files/TermsAndConditions/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncl.res.in privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121085257id_/http%3A//www.ncl.res.in/files/TermsAndConditions/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # National Chemical Laboratory
 
