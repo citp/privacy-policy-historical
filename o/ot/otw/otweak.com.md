@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otweak.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607075253id_/http%3A//www.otweak.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otweak.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121220138id_/http%3A//www.otweak.com/privacypolicy) for the most accurate reproduction.*
 
 # oTweak Software - Privacy Policy
 
@@ -32,8 +32,10 @@ Third party cookies are cookies from another domain (not from oTweak Software We
 **2A. Advertising networks**
 
 These are advertising networks used to deliver interactive advertising campaigns on partner websites. These cookies track the types of content you have viewed to ensure adverts are as relevant to you as possible.  
-Google Analytics - http://www.google.com/analytics/learn/privacy.html , Opt-out: https://tools.google.com/dlpage/gaoptout/  
-Google AdSense - https://www.google.com/intl/en/policies/privacy/ , Opt-out: https://www.google.com/settings/u/0/ads/authenticated?hl=en 
+Google Analytics - http://www.google.com/analytics/learn/privacy.html ,  
+Opt-out: https://tools.google.com/dlpage/gaoptout/  
+Google AdSense - https://www.google.com/intl/en/policies/privacy/ ,  
+Opt-out: https://www.google.com/settings/u/0/ads/authenticated?hl=en 
 
 **Third Party Advertising Technologies:**
 
