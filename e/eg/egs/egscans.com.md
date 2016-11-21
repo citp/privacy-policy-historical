@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egscans.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615145501id_/http%3A//egscans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egscans.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121054824id_/http%3A//egscans.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: EGScans
 
