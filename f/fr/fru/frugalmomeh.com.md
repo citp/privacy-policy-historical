@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frugalmomeh.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326212435id_/http%3A//www.frugalmomeh.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugalmomeh.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121080004id_/http%3A//www.frugalmomeh.com/disclosure) for the most accurate reproduction.*
 
 # Disclosure & Privacy Policy - Frugal Mom Eh!
 
@@ -11,7 +11,9 @@ This blog abides by word of mouth marketing standards. I believe in honesty of 
 I am sometimes compensated to provide opinion on various products. **Even  though I receive compensation or free product(s) for these posts or advertisements, I always give my honest opinion, findings, beliefs, or experiences on those topics or products.** The views and opinions expressed on this blog are purely my own. Any product claim, statistic,  
 quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
 
- This privacy policy sets out how Frugal Mom Eh uses and protects any information that you give while using www.frugalmomeh.com
+Frugal Mom Eh is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com and Amazon.ca.
+
+This privacy policy sets out how Frugal Mom Eh uses and protects any information that you give while using www.frugalmomeh.com
 
 Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -57,7 +59,7 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 **Advertising**
 
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, one of which is [http://www.gourmetads.com](http://www.gourmetads.com/). These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
+Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, one of which is Mediavine.com. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
 
 **Links to other websites**
 
@@ -74,11 +76,5 @@ You may choose to restrict the collection or use of your personal information in
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-**Opt Out**
-
-For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>
-
-If you believe that any information we are holding on you is incorrect or incomplete, please contact us. 
 
 These policies are valid from July 23rd, 2012.
