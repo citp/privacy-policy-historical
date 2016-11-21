@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the u2freeclassifiedads.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523081301id_/http%3A//www.u2freeclassifiedads.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the u2freeclassifiedads.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121050252id_/http%3A//www.u2freeclassifiedads.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
 # U2 Free Classifiedads B2B Classified Ads Post Ads Advertise Electronics Accessories Community Free Ads Business Classifiedads
 
