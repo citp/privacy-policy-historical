@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the listavail.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605031741id_/http%3A//www.listavail.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listavail.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121153131id_/http%3A//www.listavail.com/privacy-policy.php) for the most accurate reproduction.*
 
 # ListAvail.com | Privacy Policy
+
+[](http://www.listavail.com/)
+
+### Privacy Policy
 
 This privacy policy sets out how ListAvail.com uses and protects any information that you give ListAvail.com when you use this website.
 
@@ -24,4 +28,4 @@ Our website may contain links to other websites of interest. However, once you h
 A member, at any time, may go to their account information and update their information.
 
 **Contact Information**  
-If you have any questions, concerns or comments about our privacy policy you can contact us by sending an email to admin[at]ListAvail.com
+If you have any questions, concerns or comments about our privacy policy you can contact me by opening a [support ticket](http://www.barrylangdon.com/support/).
