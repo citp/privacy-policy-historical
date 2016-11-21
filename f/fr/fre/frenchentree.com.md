@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frenchentree.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625074632id_/https%3A//www.frenchentree.com/home/privacy-policy-terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frenchentree.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121120003id_/https%3A//www.frenchentree.com/home/privacy-policy-terms-conditions) for the most accurate reproduction.*
 
 # Privacy Policy & Terms & Conditions
 
@@ -24,8 +24,6 @@ A cookie is a small piece of data sent from a website that is stored in the user
 
 If a user sets up his/her browser to reject cookies, he or she may still use FrenchEntrée websites, although some functionality will be impaired. If you don’t wish to have cookies stored on your computer, you can find instructions on how to block them by visiting [allaboutcookies.org](http://allaboutcookies.org/ "All About Cookies").
 
-For a full list of each cookie FrenchEntrée use, and it’s purpose, [please click here](http://wp-content/uploads/assets/fe-home/documents/Cookie_Table_14092012.pdf).
-
 **Log Files**
 
 We use IP addresses to analyse trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use.
@@ -48,7 +46,7 @@ If you use the FrenchEntrée.com website (the “Website”) you agree to be bou
 
 **1.Definitions**
 
-In these terms and conditions, “we” and “us” means FrenchEntrée.com, which is a trading name of France Media Ltd (company number 2814734), whose registered office is The Old House, Main Street, Maids Moreton, BUCKINGHAM, MK18 1QU, United Kingdom.
+In these terms and conditions, “we” and “us” means FrenchEntrée.com, which is a trading name of France Media Ltd (company number 2814734), whose registered office is Sterling House, Upper Bristol Road, Bath, BA1 3AN, United Kingdom.
 
 **2.Access to the Website and content**
 
