@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bucketfeet.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629103250id_/http%3A//www.bucketfeet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bucketfeet.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121092015id_/http%3A//www.bucketfeet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Privacy Policy
 
-BucketFeet, Inc, d/b/a BucketFeet, operates the website located at www.bucketfeet.com. This Privacy Policy describes the information that we collect through our website and how we use that information. If you have any questions about our Privacy Policy, please contact us at help@bucketfeet.com. This Privacy Policy applies to the services and products offered by BucketFeet, as well as any other applications, content or features that we may from time to time offer on our website.
+Bucketfeet, Inc, d/b/a Bucketfeet, operates the website located at www.bucketfeet.com. This Privacy Policy describes the information that we collect through our website and how we use that information. If you have any questions about our Privacy Policy, please contact us at help@bucketfeet.com. This Privacy Policy applies to the services and products offered by Bucketfeet, as well as any other applications, content or features that we may from time to time offer on our website.
 
 #### The Types of Information that We Collect
 
@@ -18,7 +18,7 @@ Like most websites, our website may incorporate "pixel tags", "web beacons", or 
 
 #### How We Use the Information We Gather
 
-Generally, we will not disclose the personally identifiable information that we collect through your use of our website to unaffiliated third parties. We reserve the right, however, to provide such information to our employees, contractors, agents, and designees to the extent necessary to enable them to perform certain services for us, including order fulfillment and website-related services such as web hosting, to improve website-related services and features, to perform maintenance services, and to distribute advertisements and other marketing materials on our behalf. We also reserve the right to disclose any personally identifiable information that we collect to any third party if we believe that we are required to do so for any or all of the following reasons: (i) to comply with the law; (ii) to comply with legal processes or governmental requests; (iii) to prevent, investigate, detect, or prosecute criminal offenses or attacks on the technical integrity of our website or our network; and/or (iv) to protect the rights, property, safety and security of BucketFeet and its employees, our website visitors, and/or the public.
+Generally, we will not disclose the personally identifiable information that we collect through your use of our website to unaffiliated third parties. We reserve the right, however, to provide such information to our employees, contractors, agents, and designees to the extent necessary to enable them to perform certain services for us, including order fulfillment and website-related services such as web hosting, to improve website-related services and features, to perform maintenance services, and to distribute advertisements and other marketing materials on our behalf. We also reserve the right to disclose any personally identifiable information that we collect to any third party if we believe that we are required to do so for any or all of the following reasons: (i) to comply with the law; (ii) to comply with legal processes or governmental requests; (iii) to prevent, investigate, detect, or prosecute criminal offenses or attacks on the technical integrity of our website or our network; and/or (iv) to protect the rights, property, safety and security of Bucketfeet and its employees, our website visitors, and/or the public.
 
 #### We are Committed to Making Sure Your Information is Protected
 
