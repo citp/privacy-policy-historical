@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winknews.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611052723id_/http%3A//www.winknews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winknews.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121062138id_/http%3A//www.winknews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WINK NEWS
 
