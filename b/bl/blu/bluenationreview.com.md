@@ -1,101 +1,114 @@
-> *The following text is extracted and transformed from the bluenationreview.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518000831id_/http%3A//bluenationreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluenationreview.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121163915id_/http%3A//bluenationreview.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Blue Nation Review
+# Privacy Policy | BNR
 
-This privacy policy (“Policy”) explains how personal information is collected, used, and disclosed by  _True Blue Media, LLC_  (collectively “ _True Blue Media_ ,” “we” or “us”) with respect to your use of the Web site located at [ **bluenationreview.com**](http://www.mediamatters.org/) and any other Web sites, mobile sites and mobile applications that link to this Policy (collective the “Sites”) so you can make an informed decision about using the Sites.
+### **Blue Nation Review Privacy Policy**
 
-We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the Policy the date it was last updated. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used.
+**Last Updated:   _August 10, 2016_**
 
-**Last revised:** ** ** **December 23, 2015**
+This Privacy Policy explains how information about you is collected, used and disclosed by True Blue Media, LLC  (“True Blue Media”).  This Privacy Policy applies to information we collect when you use our website located at bluenationreview.com and our other websites, mobile sites and mobile applications that link to this Privacy Policy (collectively, the “Sites”).
 
-**What Is Personal Information?**
+We may change this Privacy Policy from time to time.  If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification).  We encourage you to review the Privacy Policy whenever you access the Sites to stay informed about our information practices and the ways you can help protect your privacy.
 
-As used herein, the term “personal information” means information that specifically identifies an individual (such as a name, address, telephone number, mobile number, e-mail address, or credit card number) and information about that individual or his or her activities that is directly linked to personally identifiable information. Personal information does not include “aggregate” information, which is data we collect about the use of the Sites or about a group or category of services or users, from which individual identities or other personal information has been removed. This Policy in no way restricts or limits our collection and use of aggregate information.
+* * *
 
-**What Personal Information Do We Collect?**
+#### **Collection of Information**
 
-**Active Collection:**
+**Information You Provide to Us**
 
-Personal information may be collected in a number of ways when you visit our Sites. We collect certain information you directly provide to us, such as when you create an account or a profile, make a donation, send us an email, sign up to receive email or text message updates, fill out a form, sign a petition, register for an event, connect through a social feed, sign up to be a volunteer, or request information. Such information may include personal information, such as your name, mailing address, email address, phone number, and credit card information. Personal and demographic information may also be collected if you provide such information in connection with creating a profile or group, leaving comments, posting blog comments or other content, sending an email or message to another user, or participating in any interactive forums or features on the Sites. In addition, from time to time we may collect demographic, contact or other personal information you provide in connection with your participation in surveys, contests, games, promotions, and other activities on the Sites.
+We collect information you provide directly to us.  For example, we collect information when you sign up for our newsletter, fill out a form, participate in a survey, poll, contest or promotion, sign a petition, communicate with us via third party social media sites, request customer support or otherwise communicate with us.  The types of information we may collect include your name, email address, postal address, phone number, and other information you choose to provide.
 
-**Passive Collection:**
+**Information We Collect Automatically When You Use the Sites**
 
-When you use the Sites, some information is also automatically collected, such as your Internet Protocol (IP) address, your operating system, the browser type, the address of a referring web site, and your activity on our Sites. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above. Otherwise, it is used in the aggregate only.
+When you access or use our Sites, we automatically collect information about you, including:
 
-We may also automatically collect certain information through the use of “cookies” or web beacons. Cookies are small data files stored on your hard drive at the request of a website. Among other things, cookies help us improve our Sites and your experience. Information obtained from cookies and linked to personally identifying information is treated as personal information. If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions. When you view a video on our Sites, a third party may also set a “flash cookie” on your computer. Removing and rejecting browser cookies does not necessarily affect third party flash cookies used in connection with our Sites. To delete or disable flash cookies, please visit [ **http://www.adobe.com/products/flashplayer/security**](http://www.adobe.com/products/flashplayer/security) for more information. However, if you choose to remove or reject browser or flash cookies, this could affect certain features on our Sites. Web beacons are small, invisible graphic images that may be used on the Sites or in emails relating to the Sites to collect certain information about usage and campaign effectiveness and monitor user activity on the Sites.
+  * **Log Information:** We log information about your use of the Sites, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Sites.
+  * **Device Information:** We collect information about the computer or mobile device you use to access our Sites, including the hardware model, operating system and version, unique device identifiers and mobile network information.
+  * **Information Collected by Cookies and Other Tracking Technologies:** We use various technologies to collect information, and this may include sending cookies to your computer or mobile device.  Cookies are small data files stored on your hard drive or in device memory that helps us to improve our Sites and your experience, see which areas and features of our Sites are popular and count visits.  We may also collect information using web beacons (also known as “tracking pixels”).  Web beacons are electronic images that may be used in our Sites or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon.  For more information about cookies, and how to disable them, please see “Your Choices” below.
 
-**Collection By Third Parties:**
 
-Third party vendors, including but not limited to Google, may use cookies or other technologies to provide analytics services to help us analyze use of the Sites and to serve ads on other websites based on your visits to this site and other sites on the Internet. Google Analytics features based on Display Advertising, including Google Analytics Demographics and Interests Reporting, may use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) to provide an overview of the age and gender of users, along with the interests they express in their online activities. These third parties may automatically collect information about your visits to this and other websites, your IP address, your ISP, and the browser you use to visit our Site. Information collected may be used, among other things, to analyze and track data, determine the popularity of certain content, deliver advertising and content on other websites targeted to your interests and to better understand the usage and visitation of our Sites and the other sites tracked by these third parties. This Policy does not apply to, and we are not responsible for, cookies or other technologies used by third parties. If you would like to opt out of Google Analytics for Display Advertising, use the Google Ad Settings tool: <https://www.google.com/settings/ads>. If you would like to opt out of cookies relating to advertising networks or obtain more information related to third party advertising networks, click here: [http://www.networkadvertising.org](http://www.networkadvertising.org/).
 
-**How Do We Use the Personal Information We Collect?**
+**Information We Collect from Other Sources**
 
-We use personal information collected through our Sites for the purposes described in this Policy or elsewhere on the Sites. For example, we may use personal information we collect:
+We may also obtain information from other sources and combine that with information we collect through our Sites.  For example, we may collect information about you from third parties, including but not limited to identity verification services, credit bureaus, mailing list providers and publicly available sources.
 
-§  to provide the information, alerts, products and services you request, and to process and complete such requests and any related transactions;
+* * *
 
-§  to send you confirmations, updates, alerts, and support and administrative messages and otherwise facilitate your use of, and our administration and operation of, the Sites;
+We may use information about you for various purposes, including to:
 
-§  to notify you about important changes to the Sites;
+  * Provide, maintain and improve our Sites;
+  * Provide and deliver the news, information, alerts, products  and services you request and process any related transactions,
+  * Send you technical notices, updates, security alerts and support and administrative messages;
+  * Respond to your comments, questions and requests and provide customer service;
+  * Communicate with you about products, services, offers, promotions, rewards, and events offered by True Blue Media and others, and provide news and information we think will be of interest to you, such as to keep you informed about various campaigns, candidates, issue, and events;
+  * Monitor and analyze trends, usage and activities in connection with our Sites;
+  * Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of True Blue Media and others;
+  * Personalize and improve the Sites and provide advertisements, content or features that match user profiles or interests;
+  * Process and deliver contest entries and rewards;
+  * Help solicit volunteers, donations, and support for issues, candidates, events and organizations we support;
+  * Link or combine with information we get from others to help understand your needs and provide you with better service; and
+  * Carry out any other purpose for which the information was collected.
 
-§  to send you newsletters and otherwise provide you with information or services you request or that we think will be of interest to you, such as sending you information to keep you informed about various campaigns, candidates, issues, events, resources, promotions, contests, products and services;
 
-§  to solicit volunteers, donations and support for  _True Blue Media_  and for issues, candidates and organizations that we support;
 
-§  to request feedback and to otherwise contact you about your use of the Sites;
+True Blue Media is based in the United States and the information we collect is governed by U.S. law.  By accessing or using the Sites or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries.
 
-§  to respond to your emails, submissions, questions, comments, and requests and to provide customer service;
+* * *
 
-§  to monitor and analyze site usage and trends, and to personalize and improve the Site and our users’ experiences on the Site, such as providing content, or features that match your profiles or interests, and to increase the Site’s functionality and user friendliness;
+We may share information about you as follows or as otherwise described in this Privacy Policy:
 
-§  to serve ads, on this or other Web sites or media, based on the information you provide and the actions you take;
+  * With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
+  * In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;
+  * If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property and safety of True Blue Media or others;
+  * In connection with, or during negotiations of, any merger, reorganization, asset sale, acquisition of all or a portion of the business, financing or lending transaction or in any other situation where information about you may be disclosed, shared or transferred as one of the assets of True Blue Media (including any sale, exchange or other sharing of information to a third party for such third party’s own marketing purposes, unless you opt out of such sharing as set forth below); and
+  * With your consent or at your direction, including if we notify you through our Sites that the information you provide will be shared in a particular manner and you provide such information.
 
-§  to notify and contact contest and sweepstakes entrants; and
 
-§  for any other purpose for which the information was collected.
 
-**What Personal Information Do We Share With Third Parties?**
+We may also share aggregated or anonymized information that does not directly identify you.
 
-It is our policy not to share the personal information we collect from you through our Sites with third parties, except as described in this Policy or as otherwise disclosed on the Sites. For example, we may share personal information as follows:
+* * *
 
-§  with vendors, consultants, and other service providers or volunteers who are engaged by or working with us and who need access to such information to carry out their work for us;
+The Sites may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Sites with other media, and vice versa. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
 
-§  when you give us your consent to do so, including if we notify you on the Sites, that the information you provide will be shared in a particular manner and you provide such information;
+* * *
 
-§  when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests, claims or legal authorities, including responding to lawful subpoenas, warrants, or court orders;
+If you sign an online petition, you understand that such petition is public information and that we may make the petition, and your name, city, state, and any comments provided in connection therewith publicly available. In addition, we may provide such petitions or compilations thereof, including your comments, name, city, and state to national, state or local leaders, or to the press
 
-§  when we believe in good faith that doing so is reasonably necessary or appropriate to respond to claims or to protect the rights, property, or safety of  _True Blue Media_ , our users, our employees, our volunteers, copyright owners, third parties or the public, including without limitation to protect such parties from fraudulent, abusive, inappropriate, or unlawful activity or use of our Site;
+* * *
 
-§  to enforce or apply this Policy, our Terms of Use, or our other policies or agreements; and
+#### **Advertising and Analytics Services Provided by Others**
 
-§  in connection with, or during negotiations of, any merger, reorganization, asset sale or transfer, financing or lending transaction or in any other situation where personal information may be disclosed or transferred as one of the assets of  _True Blue Media_.
+We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services.  These entities may use cookies, web beacons and other technologies to collect information about your use of the Sites and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information.  This information may be used by True Blue Media and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Sites and other websites and better understand your online activity.
 
-§  We are not responsible for the actions of any service providers or other third parties, nor are we responsible for any additional information you provide directly to any third parties, and we encourage you to become familiar with their privacy practices before disclosing information directly to any such parties. Nothing herein restricts the sharing of aggregated or anonymized information, which may be shared with third parties without your consent.
+For example, we may use various Google Analytics products, including Google Analytics for Display Advertising and Google Analytics Demographics and Interests Reporting, that may use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) to provide advertising and analytics services and inform, optimize, and serve ads based on your activities.  This Policy does not apply to, and we are not responsible for, cookies or other technologies used by third parties. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](https://web.archive.org/web/20161121163915id_/http://bluenationreview.com/privacy-policy/www.aboutads.info/choices "www.aboutads.info/choices"). For information on how you can opt out of Google’s use of cookies for interest-based ads please see Google’s Ads Settings tool: <https://www.google.com/settings/ads>.
 
-**Online petitions:**
+* * *
 
-If you sign an online petition, you understand that such petition is public information and that we may make the petition, and your name, city, state, and any comments provided in connection therewith to the target of the petition and in some cases publicly available. Generally, we only include your first name and last initial and state when we send petitions, plus any comments you make, but we may in some cases provide full names and cities as well. In addition, we may provide such petitions or compilations thereof, including your comments, name, city, and state to national, state or local leaders, or to the press.
+True Blue Media takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
 
-**Interactive Features:**
+* * *
 
-You understand that when you use the Sites, information you post in your profile, blogs, forums and other interactive areas of the Sites, as well as any information you share with individuals through the Sites or share through social network sites, will be available to other users and, in some cases, may be publicly available. We recommend you be cautious about giving out personal information to others or sharing personal information in public or private online forums.
+**Cookies**
 
-**Social Plugins:**
+Most web browsers are set to accept cookies by default.  If you prefer, you can usually choose to set your browser to remove or reject browser cookies.  Removing or rejecting browser cookies does not necessarily affect third party flash cookies used in connection with our Sites.  To delete or disable flash cookies please visit [www.adobe.com/products/flashplayer/security](https://web.archive.org/web/20161121163915id_/http://bluenationreview.com/privacy-policy/www.adobe.com/products/flashplayer/security "www.adobe.com/products/flashplayer/security") for more information.
 
-The Sites may use social plugins (“Plugins”), which lets friends share actions they take across web sites (e.g. the Facebook “Like” button). Plugins are generally identifiable by the logo for the applicable social network or other notice indicating the use of a Plugin. When you visit a page of our website that contains a Plugin, your browser establishes a direct connection to the servers of the social network providing the Plugin, which enables that social network to receive certain information, such as information about your having accessed the respective page of our Site. If you are logged into the applicable social network, your visit can be assigned to the account of such social network. If you interact with the Plugins, for example by clicking “Like,” or entering a comment, the corresponding information is transmitted from your browser directly to the social network providing the Plugin and is stored by it. Even if you are not logged into that social network, there is possibility that the Plugins transmit certain information, such as your IP-address, to the applicable social networks. For information on the purpose and scope of data collection and processing by such social networks, as well as your rights in this respect and settings options for protecting your privacy please visit the privacy policy page for the social network providing the Plugin. If you do not want the social networks providing the Plugins to connect the data concerning your visit to our website with your member data already stored by such social networks, you must log off all such social networks before entering our website. Simply closing the social network page does not suffice.
+Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Sites.
 
-**Links to Other Web Sites**
+**Promotional Communications**
 
-Our Sites may contain links to other Web sites. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party’s privacy policy. This Policy does not apply to such linked sites, and we are not responsible for the content or privacy and security practices and policies of these websites or any other sites that are linked to from our Sites. We encourage you to learn about their privacy and security practices and policies before providing them with personal information.
+You may opt out of receiving promotional emails or text messages from True Blue Media by following the instructions in those emails or text messages or by emailing us at [info@bluenationreview.com](mailto:info@bluenationreview.com) with the word “remove” in the subject line.  If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
 
-**What Steps Do We Take To Protect Your Information Online?**
+**Mobile Push Notifications/Alerts**
 
-We take reasonable measures to protect your personal information in an effort to prevent loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable and no method of data transmission that can be guaranteed against any interception or other type of misuse. To protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our web sites by any person using your password. Please advise us immediately if you believe your password has been misused.
+With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device.  You can deactivate these messages at any time by changing the notification settings on your mobile device.
 
-**What Choices Do You Have Regarding the Use of Your Information?**
+**Opt Out of Sharing With Third Parties**
 
-You may “opt out” of receiving email updates and newsletters by following the instructions in those emails or by emailing us at  **[bluenationreview@gmail.com](mailto:bluenationreview@gmail.com)**  with the word “remove” in the subject line. Please note that we may still send you other types of emails, such as emails about your use of our Sites, or use information as otherwise described in this Policy, even if you opt out of receiving email updates and newsletters. You can review or modify information stored in your user account by emailing us at [ **bluenationreview@gmail.com**](mailto:action@mediamatters.org). Changes to information in your account does not affect information provided to others as set forth in this policy, including in connection with petitions or donations or that has been previously shared.
+To opt out of having information about you transferred or shared with third parties for direct marketing purposes, please email us at [info@bluenationreview.com](mailto:info@bluenationreview.com).  Note that this will not affect information that has already been shared with third parties.
 
-**Questions?**
+**Your California Privacy Rights**
 
-If you have any questions about this Policy, please contact us at  **[bluenationreview@gmail.com](mailto:bluenationreview@gmail.com)**.
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes.  If you are a California resident and would like to make such a request, please contact us at [info@bluenationreview.com](mailto:info@bluenationreview.com).  However, please note that under the law, Sites such as ours that permit California residents to opt in to, or opt out of, this type of sharing are not required to provide such information upon receiving a request, but rather may respond by notifying the user of his or her right to prevent the disclosure.  To opt out of having information about you shared with third parties for direct marketing purposes, please email us at [info@bluenationreview.com](mailto:info@bluenationreview.com).
+
+* * *
