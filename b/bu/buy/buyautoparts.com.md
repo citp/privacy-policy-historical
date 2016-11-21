@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyautoparts.com privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208024620id_/http%3A//www.buyautoparts.com/policies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyautoparts.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121120500id_/http%3A//www.buyautoparts.com/policies.htm) for the most accurate reproduction.*
 
 # Buy Auto Parts Policies and Terms of Use
 
@@ -8,37 +8,62 @@
 
 ## Core Returns Policy
 
-We will return the core deposit of every customer except in cases, when the part is visibly damaged, when the core is incomplete, or the wrong core is returned. You must return the cores within 90 days of purchase for full credit. For more information please visit our [Core Returns](https://web.archive.org/web/20141208024620id_/http%3A//www.buyautoparts.com/core-returns.htm) Page. We guarantee all good cores will be refunded within two weeks of receiving the core. If you have waited for a long time and have not received any information about the core credits, you can [contact us](http://www.buyautoparts.com/contactus.htm).
+We will return the core deposit of every customer except in cases, when the part is visibly damaged, when the core is incomplete, or the wrong core is returned. You must return the cores within 90 days of purchase for full credit. For more information please visit our [Core Returns](https://web.archive.org/web/20161121120500id_/http%3A//www.buyautoparts.com/core-returns.htm) Page. We guarantee all good cores will be refunded within two weeks of receiving the core. If you have waited for a long time and have not received any information about the core credits, you can [contact us](http://www.buyautoparts.com/contactus.htm).
 
 ## Payment and Security Policy
 
-We accept Visa, MasterCard, American Express & Discover. Our site utilizes full 128 bit encryption to protect you. For more information please visit our [Payment and Security](https://web.archive.org/web/20141208024620id_/http%3A//www.buyautoparts.com/security.htm) Page.
+We accept Visa, MasterCard, American Express & Discover. Our site utilizes full 128 bit encryption to protect you. For more information please visit our [Payment and Security](https://web.archive.org/web/20161121120500id_/http%3A//www.buyautoparts.com/security.htm) Page.
 
-## Pricing Policy
+## Price Matching Policy
 
-BuyAutoParts.com actively works to be aggressive in pricing. Brand for Brand we will NOT be beaten. If you do find it cheaper, give us a call and we will beat their price. We cannot always match prices on the same part because certain brands are such poor quality, but we can always try. Everything we sell is OE quality or high end aftermarket. 
+BuyAutoParts.com actively works to be aggressive in pricing. Brand for Brand we will NOT be beaten. If you do find it cheaper, give us a call and we will match or beat their price 1-888-907-7225.
 
-Remember. We never compromise on such things as quick shipping, free shipping, customer service, warranty and core return timeline. 
+**There are some requirements in order for BuyAutoParts.com to price match, they are:**
 
-If you find it cheaper, please call. We will beat their price. Some restrictions apply.
+  * The part MUST be made by the same manufacturer.
+  * The part MUST have the same manufacturer part number.
+  * The part MUST be advertised at the price you want matched or beaten.
+  * The part MUST come with the same warranty and return policy.
+  * Shipping Cost and Handling Fees MUST be included in final total cost of the price match (Including tax).
+  * While we try our best to price match every product possible, we reserve the right to not match or beat prices.
+
+
+
+**Price Match Guarantee excludes:**
+
+  * Products sold on marketplace websites, such as eBay and Amazon.
+  * Clearance, closeout, damaged product, used, open packages or liquidation sales.
+  * Typographical or pricing errors.
+  * Paid membership club or paid loyalty programs (i.e., prices that require a club or loyalty card that is associated with a membership fee).
+  * Buy one, get one free if the retail price is not shown in the advertisement.
+  * Competitor coupon-required.
+  * Wholesale or tax-exempt prices.
+  * Competitor price matches on items where a free gift card is being offered.
+  * Mail-in offers or instant rebates.
+
+
 
 In the rare case of a website error which could show an auto part listed for zero dollars or far less than the actual price, BuyAutoParts.com will contact the customer with the real price before processing the order. BuyAutoParts.com reserves the right to cancel orders if a customer does not agree to the actual price.
 
-## Warranty and Return Policy
+## Easy Returns Policy
 
-BuyAutoParts.com offers a full warranty on all parts sold unless otherwise noted.  For more information please visit our [Warranty and Return Policy](https://web.archive.org/web/20141208024620id_/http%3A//www.buyautoparts.com/warranty.htm) page 
+Just like our mission statement to make it easy to Buy Auto Parts, we make it just as easy to return them. If you have purchased your part within 30 days, send it back in the same condition as it was received and get your money back.  For more information please visit our [Easy Returns Policy](http://www.buyautoparts.com/easy-returns.html) page. 
+
+## Warranty Policy
+
+BuyAutoParts.com offers a full warranty on all parts sold unless otherwise noted.  For more information please visit our [Warranty Policy](http://www.buyautoparts.com/warranty.htm) page. 
 
 ## Shipping Policy
 
-We give free UPS ground shipping on all orders over $50.  Need the Part Quicker? We also have great pricing on UPS Next Day, Second Day Air, and 3 Day Express. We use a nationwide network of warehouses to process your orders and deliver the  parts quickly. For more information please visit our [Shipping Policy](https://web.archive.org/web/20141208024620id_/http%3A//www.buyautoparts.com/shipping.htm) page. 
+We give free UPS ground shipping on all orders over $50.  Need the Part Quicker? We also have great pricing on UPS Next Day, Second Day Air, and 3 Day Express. We use a nationwide network of warehouses to process your orders and deliver the  parts quickly. For more information please visit our [Shipping Policy](https://web.archive.org/web/20161121120500id_/http%3A//www.buyautoparts.com/shipping.htm) page. 
 
 ## International Policy
 
-BuyAutoParts.com also ships to international locations. Depending on location, we accept major credit cards and wire transfers as international payment options. We use DHL Express for international shipping.  For more information please visit our [International Policy](https://web.archive.org/web/20141208024620id_/http%3A//www.buyautoparts.com/international.htm) Page.
+BuyAutoParts.com also ships to international locations. Depending on location, we accept major credit cards and wire transfers as international payment options. We use DHL Express for international shipping.  For more information please visit our [International Policy](https://web.archive.org/web/20161121120500id_/http%3A//www.buyautoparts.com/international.htm) Page.
 
 ## Tax Policy
 
-All orders shipped to California addresses have 8% tax and all other orders are tax exempt. Dealers and auto professionals with reseller tax ID's see [dealers](https://web.archive.org/web/20141208024620id_/http%3A//www.buyautoparts.com/dealers.htm) page, or contact us via email or phone 1-800-241-3197.
+All orders shipped to California addresses have 8% tax and all other orders are tax exempt. Dealers and auto professionals with reseller tax ID's see [dealers](https://web.archive.org/web/20161121120500id_/http%3A//www.buyautoparts.com/dealers.htm) page, or contact us via email or phone 1-800-241-3197.
 
 ## Privacy Policy
 
