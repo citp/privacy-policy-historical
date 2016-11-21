@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogtobollywood.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616141449id_/http%3A//blogtobollywood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogtobollywood.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121010713id_/http%3A//blogtobollywood.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,12 +64,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below address or email.
-
-www.blogtobollywood.com  
-BlogtoBollywood,  
-1304 Block B,  
-Jaipuriya Sunrise Greens,  
-Indirapuram,  
-Ghaziabad -201014  
-email : feedback@blogtobollywood.com
+If there are any questions regarding this privacy policy you may contact us at feedback@blogtobollywood.com
