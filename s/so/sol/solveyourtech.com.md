@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solveyourtech.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503021102id_/http%3A//www.solveyourtech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solveyourtech.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121104845id_/http%3A//www.solveyourtech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Solve Your Tech
 
@@ -27,6 +27,9 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
   * GoDaddy
   * HostGator
   * StudioPress
+  * MacPaw
+  * T-Mobile
+  * Tradepub
 
 
 
@@ -52,5 +55,5 @@ This privacy policy applies only to our online activities and is valid for visit
 By using our website, you hereby consent to our privacy policy and agree to its terms. 
 
 **Update**  
-This Privacy Policy was last updated on: Monday, April 9th, 2012.   
+This Privacy Policy was last updated on: Wednesday, September 28th, 2016.   
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
