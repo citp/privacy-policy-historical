@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hindimetoons.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513202928id_/http%3A//www.hindimetoons.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hindimetoons.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121122715id_/http%3A//www.hindimetoons.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Hindi Me Toons
 
-This Privacy Policy governs the manner in which Toon Network India collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.hindimetoons.com/ website ("Site").
+This Privacy Policy governs the manner in which Hindi Me Toons collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.hindimetoons.com/ website ("Site").
 
  ** _Personal Identification information_   **
 
