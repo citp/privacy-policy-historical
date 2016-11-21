@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eglobaldigitalcameras.com.au privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628163833id_/http%3A//www.eglobaldigitalcameras.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eglobaldigitalcameras.com.au privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121102349id_/http%3A//www.eglobaldigitalcameras.com.au/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - eGlobaL Store Co.
+# Privacy Policy | eGlobal Australia
 
-Last updated: 14/03/2011   
+Last updated: 16/03/2015   
 
 Your privacy is important to eGlobaL. This privacy statement provides information about the personal information that eGlobaL collects, and the ways in which eGlobaL uses that personal information.
 
@@ -68,4 +68,6 @@ Contact Number: +442071932736 
 
 To close an account, please visit our [online support centre](http://www.eglobaldigitalcameras.com.au/contact-us.html) and submit a ticket. Your user account will be closed and all information removed from our server within 48 hours.
 
-To opt-out of our newsletter subscription, please follow the instructions found at the bottom of the newsletter.
+To opt-out from our newsletter subscription, please follow the instructions found at the bottom of the newsletter.
+
+To opt-out from our advertising or promotion inforomation, you can unsubscribe [here](http://www.eglobaldigitalcameras.com.au/unsubscribe.php).
