@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miniplay.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619081215id_/http%3A//www.miniplay.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miniplay.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121102112id_/http%3A//www.miniplay.com/support/privacy) for the most accurate reproduction.*
 
 # Privacy
 
