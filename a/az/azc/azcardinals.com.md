@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azcardinals.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531133223id_/http%3A//www.azcardinals.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azcardinals.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121184547id_/http%3A//www.azcardinals.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # azcardinals.com | Privacy Policy
 
@@ -10,11 +10,7 @@ Revised November 2015
 
 The Arizona Cardinals Football Club ("we," "our," "us") respects your privacy and values your trust and confidence. This privacy policy (the "Privacy Policy") applies to our website [www.azcardinals.com](http://www.azcardinals.com/), our mobile applications and online services that link to or post this Privacy Policy (collectively, the "Services"), and explains how we collect, use, and disclose information through the Services. By using the Services, you agree to the terms of this Privacy Policy. Please note that this Privacy Policy does not apply to any information that is collected or obtained through sites or services that do not link to this Privacy Policy (including the Team Shop) or information collected by the NFL or the other NFL member clubs (the "Member Clubs"). 
 
-The Arizona Cardinals have received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
-
-The TRUSTe program covers only information that is collected through this Web site [www.azcardinals.com](http://www.azcardinals.com/) and our mobile applications.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog](https://feedback-form.truste.com/watchdog/request)/request.
 
   1. Information Collection
   2. Use of Information
@@ -82,7 +78,7 @@ We may use information that we collect through the Services for a variety of pur
   * Publish stories, comments, photos, and other information posted in our interactive online features;
   * Customize and personalize your use of the Services; and
   * As otherwise described to you at the point of collection or pursuant to your consent;
-  * We collect your location based information for the purpose of determining whether you are inside of Soldier Field and eligible to view in-stadium video feeds. We will only share this information with our mapping provider for the sole purpose of providing you this service;
+  * We collect your location based information for the purpose of determining whether you are inside of University of Phoenix Stadium and eligible to view in-stadium video feeds. We will only share this information with our mapping provider for the sole purpose of providing you this service;
   * We send you push notifications from time-to-time in order to update you about any events or promotions that we may be running; and to provide team-related news including game scores, transactions and game day notices.
   * If you choose to use our referral service to tell a friend about season tickets, we will ask for your friend's name and email address, to send your friend a one-time email inviting him or her to visit the site.
 
