@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zooplus.co.uk privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629024047id_/http%3A//www.zooplus.co.uk/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooplus.co.uk privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121020212id_/http%3A//www.zooplus.co.uk/content/privacy) for the most accurate reproduction.*
 
 # Pet Supplies at zooplus Online Pet Shop, Pet Food & Pet Accessories.
 
