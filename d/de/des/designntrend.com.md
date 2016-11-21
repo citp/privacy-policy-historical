@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designntrend.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607160300id_/http%3A//www.designntrend.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designntrend.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121085313id_/http%3A//www.designntrend.com/privacy-policy) for the most accurate reproduction.*
 
 # Design & Trend
 
