@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newyorkcitytheatre.com privacy policy that was archived on 2016-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160520110535id_/http%3A//www.newyorkcitytheatre.com/common/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newyorkcitytheatre.com privacy policy that was archived on 2016-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161121152511id_/http%3A//www.newyorkcitytheatre.com/common/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <base href="http://www.newyorkcitytheatre.com/">       
@@ -15,7 +15,7 @@
     <link rel="stylesheet" type="text/css" href="/styles/dickens.main.css">
     <link rel="stylesheet" type="text/css" href="/styles/dickens.newyorkcitytheatre.com.css">
 	<!-- jQuery -->
-    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/js/dickens.modernizr.js"></script>
+    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.gstatic.com/wcm/loader.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/js/dickens.modernizr.js"></script>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
     <script type="text/javascript" src="/js/jquery-migrate.js"></script>
@@ -60,11 +60,51 @@ googletag.cmd.push(function() {
 	googletag.defineSlot('/1305719/nyct_all_bottom_300x250', [300, 250], 'nyct_ad_bottom_right_mobile').addService(googletag.pubads());
 	googletag.defineSlot('/1305719/nyct_163x200_right', [163, 200], 'nyct_ad_right').addService(googletag.pubads());
 	googletag.defineSlot('/1305719/nyct_300x250_right', [300, 250], 'nyct_ad_right_large').addService(googletag.pubads());
-	googletag.pubads().setTargeting("url","///");
+	googletag.pubads().setTargeting("url","/t///");
 	googletag.pubads().enableSingleRequest();
 	googletag.enableServices();
 });
 </script>
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"4005763"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=4005763&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+
+<script type="text/javascript">
+(function(a,e,c,f,g,h,b,d){var k={ak:"1011508895",cl:"nDeCCLKasmQQn82p4gM"};a[c]=a[c]||function(){(a[c].q=a[c].q||[]).push(arguments)};a[g]||(a[g]=k.ak);b=e.createElement(h);b.async=1;b.src="//www.gstatic.com/wcm/loader.js";d=e.getElementsByTagName(h)[0];d.parentNode.insertBefore(b,d);a[f]=function(b,d,e){a[c](2,b,k,d,null,new Date,e)};a[f]()})(window,document,"_googWcmImpl","_googWcmGet","_googWcmAk","script");
+
+var GAPhoneTrackCallback = function (formatted_number, mobile_number) {
+	// formatted_number: number to display, in the same format as
+	//        the number passed to _googWcmGet().
+	//        (in this case, '1-800-123-4567')
+	// mobile_number: number formatted for use in a clickable link
+	//        with tel:-URI (in this case, '+18001234567')
+	
+	//update header number
+	var topBannerNumber = $('DIV.helpline P.title A');
+	//a tag href
+	topBannerNumber.attr("href", "tel:" + mobile_number);
+	//visible number
+	topBannerNumber.text(formatted_number);
+	
+	//update icon a tag
+	var topBannerNumberIcon = $('DIV.helpline A');
+	topBannerNumberIcon.attr("href", "tel:" + mobile_number);
+	
+};
+
+$(window).load(function() {
+	//get phone number from html
+	var telephoneNumber = $('DIV.helpline P.title A').text();
+	//run the Google function to get google tracking phone number
+	
+	if (telephoneNumber) {
+		try {
+			_googWcmGet(GAPhoneTrackCallback, telephoneNumber);
+		} catch (err) {
+			//console.log("error loading _googWcmGet");
+		}
+	}
+});
+</script>
+
     <!--add page/section-specific css & js files below here-->
 	<link rel="stylesheet" type="text/css" href="/styles/dickens.crm.2.css">
 <script type="text/javascript" src="/js/dickens.crm.2.js"></script>
@@ -81,7 +121,7 @@ googletag.cmd.push(function() {
             <p class="title">Categories</p>
             <div class="clear"></div>
             		<p><a href="/">Highlights</a></p>
-		<p><a href="/index_broadway_favorite.php">Broadway Favorites</a></p>
+		<p><a href="/index_holiday.php">Holiday Shows</a></p>
 		<p><a href="/index_musical.php">Musicals</a></p>
 		<p><a href="/index_play.php">Plays</a></p>
 		<p><a href="/index_comedy_theatre.php">Comedy Theatre</a></p>
@@ -94,28 +134,28 @@ googletag.cmd.push(function() {
             <p class="title">Current Highlights on Broadway</p>
 <div class="clear"></div>
 <div class="smallPoster">
-	<a href="/theaters/richardrodgerstheater/hamilton.php"><img src="/images/show/16450_show_portrait_small.jpg" alt="" title=""><p>May '2016</p>	</a>
+	<a href="/theaters/walterkerrtheater/falsettos.php"><img src="/images/show/16425_show_portrait_small.jpg" alt="" title=""><p>Nov '2016</p>	</a>
 </div>
 <div class="smallPoster">
-	<a href="/theaters/musicboxtheater/shuffle-along.php"><img src="/images/show/16569_show_portrait_small.jpg" alt="" title=""><p>May '2016</p>	</a>
+	<a href="/theaters/stephen-sondheim-theatre/beautiful-the-carole-king-musical.php"><img src="/images/show/10199_show_portrait_small.jpg" alt="" title=""><p>Nov '2016</p>	</a>
 </div>
 <div class="smallPoster">
-	<a href="/theaters/brooksatkinsontheater/waitress.php"><img src="/images/show/18358_show_portrait_small.jpg" alt="" title=""><p>May '2016</p>	</a>
+	<a href="/theaters/radiocitymusichall/radio-city-christmas-spectacular.php"><img src="/images/show/00029_show_portrait_small.jpg" alt="" title=""><p>Nov '2016</p>	</a>
 </div>
 <div class="smallPoster">
-	<a href="/theaters/studio54/she-loves-me.php"><img src="/images/show/15239_show_portrait_small.jpg" alt="" title=""><p>May '2016</p>	</a>
+	<a href="/theaters/lyceumtheater/oh-hello-on-broadway.php"><img src="/images/show/21945_show_portrait_small.jpg" alt="" title=""><p>Nov '2016</p>	</a>
 </div>
 <div class="smallPoster">
-	<a href="/theaters/newamsterdamtheater/aladdin.php"><img src="/images/show/08648_show_portrait_small.jpg" alt="" title=""><p>May '2016</p>	</a>
+	<a href="/theaters/davidhkochtheater/nycb-the-nutcracker.php"><img src="/images/show/08094_show_portrait_small.jpg" alt="" title=""><p>Nov '2016</p>	</a>
 </div>
 <div class="smallPoster">
-	<a href="/theaters/stephen-sondheim-theatre/beautiful-the-carole-king-musical.php"><img src="/images/show/10199_show_portrait_small.jpg" alt="" title=""><p>May '2016</p>	</a>
+	<a href="/theaters/bernardbjacobstheater/the-color-purple.php"><img src="/images/show/14211_show_portrait_small.jpg" alt="" title=""><p>Nov '2016</p>	</a>
 </div>
 <div class="smallPoster display1280">
-	<a href="/theaters/bernardbjacobstheater/the-color-purple.php"><img src="/images/show/14211_show_portrait_small.jpg" alt="" title=""><p>May '2016</p>	</a>
+	<a href="/theaters/broadhursttheater/the-front-page.php"><img src="/images/show/21461_show_portrait_small.jpg" alt="" title=""><p>Nov '2016</p>	</a>
 </div>
 <div class="smallPoster display1366">
-	<a href="/theaters/eugeneoneilltheater/book-of-mormon.php"><img src="/images/show/03411_show_portrait_small.jpg" alt="" title=""><p>May '2016</p>	</a>
+	<a href="/theaters/mccarter-theatre-center/american-repertory-ballet-the-nutcracker.php"><img src="/images/show/08322_show_portrait_small.jpg" alt="" title=""><p>Nov '2016</p>	</a>
 </div>
 <div class="clear"></div>
         </div>        
@@ -152,8 +192,8 @@ googletag.cmd.push(function() {
         <div class="helpline">
             <p>Order by phone</p>
             <div class="clear"></div>
-            <p class="title"><a href="tel:800-901-4092">800-901-4092</a></p>
-            <a href="tel:800-901-4092"><img src="/images/icons/icon_telephone.png"></a>
+            <p class="title"><a href="tel:844-483-9008">844-483-9008</a></p>
+            <a href="tel:844-483-9008"><img src="/images/icons/icon_telephone.png"></a>
         </div>
         <div class="logo">
             <a href="/">New York City Theater</a>
@@ -227,7 +267,7 @@ googletag.cmd.push(function() {
         <div class="datepick" id="datepicker"></div>
         <div class="clear"></div>
 	</div>
-	<div id="google-ad-right" class="container googleAd grey">
+		<div id="google-ad-right" class="container googleAd grey">
 		<script type="text/javascript">
 			windowWidth  = $( window ).width();
 			adDivId  =  'nyct_ad_right';
@@ -247,21 +287,21 @@ googletag.cmd.push(function() {
 			document.write("<div id='"+adDivId+"' style='width:"+adWidth+"px; height:"+adHeight+"px; margin:0 auto;'></div>");
 			googletag.cmd.push(function() { googletag.display(adDivId)});
 		</script>			
-	</div>       
-    <div class="container grey">
+	</div>
+	    <div class="container grey">
 		<div class="guaranteeLight">
-           	<a href="/common/worry_free_guarantee.php"><img src="/images/misc/secure_logo_dark.png" alt="125% Guarantee" title="125% Guarantee"></a>
+           	<a href="/common/worry_free_guarantee.php"><img src="/images/misc/secure_logo_dark.png" alt="100% Guarantee" title="100% Guarantee"></a>
 			<a href="/common/worry_free_guarantee.php">
 				<ul>
 	            	<li>Certified secure checkout</li>
 	                <li>Phone customer support</li>
-	                <li>125% money back guarantee</li>
+	                <li>100% money back guarantee</li>
 	                <li class="infoBlock">We are an independent show guide with no affiliation to any venue or show.  The tickets offered for sale are resale tickets that may be sold at above face value.</li>
 	            </ul>
 			</a>
 		</div>
     </div>
-	<div id="google-ad-bottom-right" class="container googleAd grey">
+		<div id="google-ad-bottom-right" class="container googleAd grey">
 		<script type="text/javascript">
 			windowWidth  = $( window ).width();
 			adDivId  =  'nyct_ad_bottom_right';
@@ -284,7 +324,7 @@ googletag.cmd.push(function() {
 			googletag.cmd.push(function() { googletag.display(adDivId)});
 		</script>
 	</div>
-
+	
 </div>
 <!-- rightCol finish -->
 	<!-- /right banner -->
@@ -351,12 +391,12 @@ googletag.cmd.push(function() {
     
     <div class="block secure">
     		<div class="guarantee">
-            <a href="/common/worry_free_guarantee.php"><img src="/images/misc/secure_logo_dark.png" alt="125% Guarantee" title="125% Guarantee"></a>
+            <a href="/common/worry_free_guarantee.php"><img src="/images/misc/secure_logo_dark.png" alt="100% Guarantee" title="100% Guarantee"></a>
             <a href="/common/worry_free_guarantee.php">
 				<ul>
 	            	<li>Certified secure checkout</li>
 	                <li>Phone customer support</li>
-	                <li>125% money back guarantee</li>
+	                <li>100% money back guarantee</li>
 	            </ul>
             </a>
     		</div>
