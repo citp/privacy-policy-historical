@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mypetwarehouse.com.au privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720135850id_/http%3A//www.mypetwarehouse.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypetwarehouse.com.au privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121142259id_/http%3A//www.mypetwarehouse.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - My Pet Warehouse
+
+My Pet Warehouse knows that you care how information about you is used and shared, and we appreciate your trust and want you to feel confident in our services and security as it relates to your personal information. This policy describes our privacy policy. By visiting My Pet Warehouse, you are accepting the practices described in this Privacy Policy.
 
 **What Personal Information About Customers Does My Pet Warehouse Gather?**  
 The information we learn from customers helps us personalize and continually improve the shopping experience at My Pet Warehouse. Here are the types of information we may gather.
@@ -29,6 +31,4 @@ If you choose to visit My Pet Warehouse, your visit and any dispute over privacy
 It is important to realise that our business changes constantly, and our Privacy Policy and Conditions of Use may change accordingly. Although periodic reminders of our policies and conditions may be emailed to you (unless you have instructed us not to) we recommend reviewing our website policies from time to time to ensure any changes to these policies and conditions are understood and agreed to. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
 **Questions**  
-Questions regarding our Conditions of Usage, Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "Contact Us" link found in our menu. Or you can email us directly at: [sales@mypetwarehouse.com.au](mailto:sales@mypetwarehouse.com.au)
-
-My Pet Warehouse knows that you care how information about you is used and shared, and we appreciate your trust and want you to feel confident in our services and security as it relates to your personal information. This policy describes our privacy policy. By visiting My Pet Warehouse, you are accepting the practices described in this Privacy Policy.
+Questions regarding our Conditions of Usage, Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "Contact Us" link found in our menu, or emailing us directly at: [support@mypetwarehouse.com.au](mailto:sales@mypetwarehouse.com.au)
