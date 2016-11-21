@@ -1,0 +1,556 @@
+<!--The following is the downloaded HTML source of the littleapp.in privacy policy that was archived on 2016-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161121170105id_/https%3A//littleapp.in/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Little - Privacy</title>
+
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+  <link rel="stylesheet" href="/css/style.css">
+<link rel="stylesheet" href="/css/owl.carousel.css">
+
+  <link rel="stylesheet" href="/css/static.css">
+</head>
+
+<body>
+  <header class="fixittop">
+    <div class="container">
+      <div class="row group">
+        <div class="search-loc col col-xs-12">
+        <div class="tp-left-blk">
+          <div class="brand">
+            <!-- <a href="/"><i class="icon-little-logo"></i></a> -->
+            <a href="/">
+              <img id="little-logo" src="/images/littleapp.png" alt="Best Deals in India">
+            </a>
+          </div>
+          <div class="location-changer">
+            <h5 class="lc-city">Your city<span id="usr_loc" data-role="user-current-loc"></span></h5>
+          </div>
+        </div>
+          <div class="top-links">
+            <ul>
+              <li class="hide-xs-sm"><a class="subsBtn" href="javascript:;">Subscribe</a></li>
+              <li class="hide-xs-sm"><a href="/tmpl.html#/media/little-doods.html">Little Doods</a></li>
+              <li data-role="login-btn" class="login"><a href="/login.html" class="login">Login</a></li>
+              <li data-role="logged-in" class="logged">
+                <a href="javascript:;"><i class="icon-user"></i></a>
+                <div class="drp-down">
+                  <ul>
+                    <li><a href="/myorders">My Orders</a></li>
+                    <li><a href="/mycoupons">Promos</a></li>
+                    <li data-role="logout-btn"><a class="logout" href="javascript:;">Logout<i class="icon-lock"></i></a></li>
+                  </ul>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <div id="mob-search-btn"><i class="icon-search"></i></div>
+          <div id="top-search" class="search">
+              <fieldset>
+                <input data-role="search-items" search-type="ss" data-fill="search-suggestions" placeholder="Search for restaurants or other places" type="text">
+                <button type="submit"><i class="icon-search"></i></button>
+              </fieldset>
+              <div class="search-suggestions">
+                <div class="search-grp"></div>
+              </div>
+          </div>
+        </div>
+        <!-- search-loc -->
+
+      </div>
+      <!-- row -->
+    </div>
+    <!-- container -->
+    <nav>
+      <div class="container ">
+        <div class="nav group">
+            <div class="col col-sm-12 col-md-9">
+              <ul class="group main-nav">
+                <!-- links -->
+                <li><a href="/" class="hp">FAB DEALS</a></li>
+                <li><a href="/search?hash={&quot;gkw&quot;:&quot;fdr&quot;}" class="restaurants">FOOD &amp; DRINKS</a></li>
+                <li><a href="/last-minute-hotels.html" class="hotels">HOTELS</a></li>
+              </ul>
+              <script src="https://s.yimg.com/wi/ytc.js" async=""></script><script async="" src="https://cdn.qgraph.io/dist/qgraph.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="navlist" type="x-tmpl-mustache">
+              {{#menu}}
+                  <li><a href="{{url}}" class="{{clsname}}" >{{name}}</a></li>
+              {{/menu}}
+              </script>
+            </div>
+            <div class="col col-md-3">
+              <ul class="dn-app">
+                <li>Download app</li>
+                <li><a href="/">AN</a></li>
+                <li><a href="/">IP</a></li>
+              </ul>
+            </div>
+          </div>
+          <!-- .nav -->
+        <!-- row -->
+      </div>
+      <!-- container -->
+    </nav>
+    <div id="modal-box" class="select_loc">
+        <div id="mdl-container">
+          <div class="mdl-head"></div>
+          <div class="mdl-body">
+            <div class="search">
+              <strong>Select your city</strong>
+              <div class="loc">
+                <img id="get-geo-loc" src="/images/lc-changer.png">
+                <fieldset>
+                  <input data-role="search-items" search-type="sl" data-fill="search-suggestions" placeholder="Type your location here" type="text">
+                <div class="search-suggestions"></div>
+                </fieldset>
+              </div>
+              <div id="citylist"></div>
+            </div>
+          </div>
+          <div class="mdl-footer"></div>
+        <div id="loader">
+          <svg width="60" height="60" style="margin:20px auto; display:block; clear:both; text-align:center">
+          <image xlink:href="/images/loader.svg" src="/images/loader.gif" width="60" height="60"></image></svg>
+        </div>
+      </div>
+      <div id="mdl-overlay"></div>
+    </div>
+    <div id="subsMod">
+      <div id="eSubsHead">
+        <!-- Begin MailChimp Signup Form -->
+        <div id="mc_embed_signup">
+          <h2>Subscribe <span>for Amazing Deals and Interesting Stuff</span></h2>
+            <form action="//littleapp.us14.list-manage.com/subscribe/post?u=7781ea936f00db3072a4a8e4f&amp;id=97d06843f4" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" validate="">
+                <div id="mc_embed_signup_scroll">
+                    <div class="mc-field-group">
+                        <label for="mce-EMAIL">Email Address<span class="asterisk">*</span></label>
+                        <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required="required">
+                    </div>
+                    <div class="mc-field-group">
+                        <label for="mce-MMERGE1">City<span class="asterisk">*</span></label>
+                        <select name="MMERGE1" class="required" id="mce-MMERGE1" required="required">
+                            <option value=""></option>
+                            <option data-subs-val="ahmedabad" value="Ahmedabad">Ahmedabad</option>
+                            <option data-subs-val="amritsar" value="Amritsar">Amritsar</option>
+                            <option data-subs-val="bangalore" value="Bangalore">Bangalore</option>
+                            <option data-subs-val="chandigarh" value="Chandigarh">Chandigarh</option>
+                            <option data-subs-val="chennai" value="Chennai">Chennai</option>
+                            <option data-subs-val="delhi" value="Delhi">Delhi</option>
+                            <option data-subs-val="gurgaon" value="Gurgaon">Gurgaon</option>
+                            <option data-subs-val="hyderabad" value="Hyderabad">Hyderabad</option>
+                            <option data-subs-val="jaipur" value="Jaipur">Jaipur</option>
+                            <option data-subs-val="jalandhar" value="Jalandhar">Jalandhar</option>
+                            <option data-subs-val="kolkata" value="Kolkata">Kolkata</option>
+                            <option data-subs-val="lucknow" value="Lucknow">Lucknow</option>
+                            <option data-subs-val="ludhiana" value="Ludhiana">Ludhiana</option>
+                            <option data-subs-val="mumbai" value="Mumbai">Mumbai</option>
+                            <option data-subs-val="pune" value="Pune">Pune</option>
+                        </select>
+                    </div>
+                    <div id="mce-responses" class="clear">
+                        <div class="response" id="mce-error-response" style="display:none"></div>
+                        <div class="response" id="mce-success-response" style="display:none"></div>
+                    </div>
+                    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7781ea936f00db3072a4a8e4f_97d06843f4" tabindex="-1" value=""></div>
+                    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+                    <div class="dnShw clearfix">
+                      <input id="dnShw" type="checkbox"> <label for="dnShw">Do not show this again.</label>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <!--End mc_embed_signup-->
+      </div>
+    </div>
+  </header>
+
+  <main id="static">
+    <section class="container clearfix">
+      <div class="row">
+        <h4>Privacy Policy</h4>
+        <ul>
+          <li>
+            <h5>What Personal Information Does Little Collect?</h5>
+            <p>
+              Your phone number.
+              <br> Your location information from time to time.
+              <br> Any personal information that you choose to provide such as name, email, gender.
+              <br> Information about your device such as hardware information, operating system version, carrier info if available.
+              <br>
+            </p>
+          </li>
+          <li>
+            <h5>Why is this information collected?</h5>
+            <p>
+              Your Services account will be associated with your phone number and this account will be used for all our Services that you use. Information you provide to one of our Services may be used with other Services from us that you or your friends use. For example, location information we receive in connection with your use of one of our apps may be used to customize the content you and your friends see in another of our apps. We may also draw upon this Personal Information in order to adapt the Services of our community to your needs, to research the effectiveness of our network and Services, and to develop new tools for the community.The contact information you provide may be used by Little to send you timely and relevant promotions. By accepting this privacy policy, you give Little the right to contact you by SMS or e-mail for such promotions.
+            </p>
+            <p>
+              Little provides you, the user, with deals in vairous categories which are highly customized to your location, indicated tastes and probable use. Since the deals are tim-sensitive, we need to collect the above information on a periodic basis. Your contact information is collected in order to enable you to share the deals that you discover on our platform with your friends at real-time.
+            </p>
+          </li>
+          <li>
+            <h5>How is My Information Shared?</h5>
+            <p>
+              Personal Information about our users is an integral part of our business. We neither rent nor sell your indentifiable personal Information to anyone.
+            </p>
+          </li>
+          <li>
+            <h5>Friends and Followers:</h5>
+            <p>
+              <span>Friends on Little:</span> Your friends can see, for example, your location (as described in more detail below).
+            </p>
+            <p>
+              Followers and people/brands you follow on Little: Followers can see your publicly available information and you can see the publicly available information of users you follow, as described below (under "Publicly Available Information and Apps").
+            </p>
+            <p>
+              Individuals reading this information may use it or disclose it to other individuals or entities without our control and without your knowledge. We therefore urge you to think carefully about including any specific information you may deem private in comments, plans or tips or other content (location or otherwise) that you create in the Services.
+            </p>
+            <p>
+              Businesses, Locations, Events and Brands: One of the key purposes of the Services is to help users learn about businesses, locations, events and brands (for example, a restaurant or a movie theater or a hotel) that are relevant to them, and for these entities to provide information about themselves, their locations and events to users, as well as to reward users when they visit their location or event through offers and specials.
+            </p>
+            <p>
+              Publicly Available Information: When you use the Services, certain information is public, such as your public user profile information, tips, likes, saves, public photos, lists that you create and save, tastes and lists of friends and/or followers (as applicable to a particular Service), and may be searchable by search engines and be shared with or disclosed to third parties, including through our API to a wide range of users and services. We may also share or disclose aggregated and anonymous data, such as de-identified location data, to third parties, including users you may follow and users of our Service, for analytical or other purposes.
+            </p>
+          </li>
+          <li>
+            <h5>Determining your location.</h5>
+            <p>
+              The Services deal with location, so in order to work, the Services need to know your location. Whenever you open and use/interact with our apps on your mobile device or go to one of our Sites, we use the location information from your mobile device or browser (e.g., latitude and longitude) to tailor the Services experience to your current location (i.e., we'll show you a list of nearby locations, friends and tips). This information is NOT shared in a form that is identified with you with others unless you are using a service that they offer. Also, the Services use your mobile device's ‘background location to provide the Services, including to send you notifications of tips/friends/plans/interesting things etc. near you. If you have ‘background location turned on, the Little app will, from time to time, tell us about your device's location even if you are not directly interacting with the application.
+            </p>
+          </li>
+          <li>
+            <h5>Sharing Location with the Little app.</h5>
+            <p>
+              Your real-time location is not shared with anyone on the Little app in a form that identifies you.If you use a service from one of our merchants, write a tip, like or otherwise interact with a place, users may infer that you have been to that location. Some content, like tips, are time stamped and other users could use that information to infer when you were at a place even though tips can be posted when you aren't at the place you are leaving a tip about.
+            </p>
+            <p>
+              Your location data is ONLY shared with others when you proactively decide to "purchase" a deal from one of the merchants on our platform. "Others" in this scenario ONLY represents the owner of the service / product that you have purchased.
+            </p>
+            <p>
+              By default, location sharing is turned on and at a radius level is shared with your Little friends and is updated from time to time using your background location. You can turn off neighborhood sharing. Your location is also shared when you proactively decide to "purchase with a "check in" is the location information of that place. Additionally, when you send a message on Little, your mobile device's location is shared with all recipients of the message.
+            </p>
+          </li>
+          <li>
+            <h5>Your Location History</h5>
+            <p>
+              We store your location history to provide you better quality deals. This information is treated as private under any and all circumstances and is NEVER shared.
+            </p>
+          </li>
+        </ul>
+      </div>
+
+    </section>
+  </main>
+
+
+<!-- FOOTER -->
+<footer class="full-width">
+    <div class="container">
+      <!-- <div class="footer-desc">
+        <p>
+          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+        </p>
+      </div>
+      <div class="seo-links">
+        <div class="row">
+          <div class="col col-sm-6 col-md-4 col-lg-2">
+            <div class="seo-links-blk">
+              More Links title
+              <ul>
+                <li><a href="#">Terms Of Service </a></li>
+                <li><a href="#">Privacy Policy</a></li>
+                <li><a href="#">App Permissions </a></li>
+                <li><a href="#">Faq's Redeem</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col col-sm-6 col-md-4 col-lg-2">
+            <div class="seo-links-blk">
+              More Links title
+              <ul>
+                <li><a href="#">Terms Of Service </a></li>
+                <li><a href="#">Privacy Policy</a></li>
+                <li><a href="#">App Permissions </a></li>
+                <li><a href="#">Faq's Redeem</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col col-sm-6 col-md-4 col-lg-2">
+            <div class="seo-links-blk">
+              More Links title
+              <ul>
+                <li><a href="#">Terms Of Service </a></li>
+                <li><a href="#">Privacy Policy</a></li>
+                <li><a href="#">App Permissions </a></li>
+                <li><a href="#">Faq's Redeem</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col col-sm-6 col-md-4 col-lg-2">
+            <div class="seo-links-blk">
+              More Links title
+              <ul>
+                <li><a href="#">Terms Of Service </a></li>
+                <li><a href="#">Privacy Policy</a></li>
+                <li><a href="#">App Permissions </a></li>
+                <li><a href="#">Faq's Redeem</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col col-sm-6 col-md-4 col-lg-2">
+            <div class="seo-links-blk">
+              More Links title
+              <ul>
+                <li><a href="#">Terms Of Service </a></li>
+                <li><a href="#">Privacy Policy</a></li>
+                <li><a href="#">App Permissions </a></li>
+                <li><a href="#">Faq's Redeem</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col col-sm-6 col-md-4 col-lg-2">
+            <div class="seo-links-blk">
+              More Links title
+              <ul>
+                <li><a href="#">Terms Of Service </a></li>
+                <li><a href="#">Privacy Policy</a></li>
+                <li><a href="#">App Permissions </a></li>
+                <li><a href="#">Faq's Redeem</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div> -->
+      <div class="footer-contacts">
+        <div class="row group">
+            <div class="address">
+              <div>
+                <h3>Little Internet Pvt Ltd.</h3>
+                <p>
+                  11th KM, BPL Campus, Bannerghatta Road,
+                  <br> Arekare,Bangalore 560076
+                  <br> CIN: U72200KA2015PTC080287
+                </p>
+              </div>
+            </div>
+            <div class="app-links clearfix">
+              <a href="https://play.google.com/store/apps/details?id=com.little.nvy"><img src="/images/googleplay.svg"></a>
+              <a href="https://itunes.apple.com/in/app/little./id996852275?mt=8"><img src="/images/applestore.svg"></a>
+            </div>
+            <div class="pay-gate">
+              <div class="po100">
+                <!-- <img src="/images/cca.png"> -->
+                <img src="/images/paytm.jpg">
+                <h4 class="clear-fix"> 100% Secure payment options</h4>
+              </div>
+            </div>
+        </div>
+        <!-- row -->
+      </div>
+      <!-- footer-contacts -->
+      <div class="footer-nav">
+        <div class="row">
+            <div class="social-links">
+              <a href="https://twitter.com/littleapp_in" target="_blank"><i class="icon-twitter"></i></a>
+              <a href="https://www.facebook.com/littlemobileapp" target="_blank"><i class="icon-facebook"></i></a>
+              <a href="https://www.youtube.com/c/littleapp" target="_blank"><i class="icon-youtube"></i></a>
+            </div>
+            <div class="links">
+              <ul>
+                <li class="hide-gt_sm"><a class="subsBtn" href="javascript:;">Subscribe</a></li>
+                <li><a href="/media/little-deals-app-on-CNBC.html">Media</a></li>
+                <li><a href="//blog.littleapp.in/" target="_blank">Blog</a></li>
+                <li><a href="/terms.html">Terms Of Service</a></li>
+                <li><a href="/privacy.html">Privacy Policy </a></li>
+                <li><a href="/faqs.html">Faq's</a></li>
+                <li><a href="https://nvy.com/dashboard#/redeem" target="_blank">Redeem</a></li>
+              </ul>
+            </div>
+        </div>
+        <!-- row -->
+      </div>
+      <!-- footer-nav -->
+    </div>
+    <!-- container -->
+  </footer>
+
+<!-- FOOTER -->
+<script type="text/javascript">
+var pageCode = 'static'
+</script>
+<!-- COMMON JS -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.2.1/mustache.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.6/owl.carousel.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.0/imagesloaded.pkgd.min.js"></script>
+<script type="text/javascript" src="/js/lib/macy.min.js"></script>
+<script type="text/javascript" src="/js/service.js"></script>
+<script type="text/javascript" src="/js/app.js"></script>
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/search.js"></script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<script type="text/javascript">
+// jquery cdn fallback
+   window.jQuery || document.write('<script src="/js/jquery.min.js"><\/script>');
+// end jquery cdn fallback
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-73935202-3', 'auto');
+  ga('send', 'pageview');
+
+      /* <![CDATA[ */
+
+    var google_conversion_id = 882062000;;
+    var google_conversion_language = "en";
+    var google_conversion_format = "3";
+    var google_conversion_color = "ffffff";
+    var google_conversion_label = "pcMgCKKZxmYQsOXMpAM";
+    var google_remarketing_only = true;
+
+    /* ]]> */
+   /*-- Facebook Pixel Code  --*/
+   !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '228482490840865');
+    fbq('track', "PageView");
+    /*-- End Facebook Pixel Code --*/
+
+
+</script><script src="/js/jquery.min.js"></script>
+<!-- qg-service-worker -->
+<script type="text/javascript">
+    window.QGSettings = {
+        "appId": "6236cc21f4c421c18157",
+        "push": {
+          "requestSelf": false,
+          "fakePrompt": false,
+        "prompt": {
+          "title": "Get Latest Updates",
+          "message": "Subscribe to notifications"
+        }
+      }
+    };
+    !function(q,g,r,a,p,h){if(q.qg)return;n=q.qg=function(){n.callmethod?n.callmethod.call(n,arguments):n.queue.push(arguments);};n.queue=[];p=g.createElement(r);p.async=!0;p.src=a;h=g.getElementsByTagName(r)[0];h.parentNode.insertBefore(p,h)}(window,document,'script','https://cdn.qgraph.io/dist/qgraph.min.js');
+    qg('init',window.QGSettings);
+    if(cy){
+      qg("identify", {"user_city":cy})
+    }
+</script>
+<!-- end qg-service-worker -->
+
+
+<!-- yahoo pixel -->
+<script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10006395'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
+<!--end yahoo pixel -->
+<!-- RevX remarketing tag - Start -->
+<script type="text/javascript">
+
+      window._atm_params = new Object;
+      var  atm_t,atm_f,atm_id,atm_cn,atm_c,atm_sprc,atm_ch;
+       $(function () {
+           if ($.inArray(pageCode, hotelPgCode) != -1) {
+            atm_t="h";
+           }else{
+            atm_t="d";
+           }
+           if (typeof pageCode !='undefined'){
+
+               if (pageCode=='hp'||pageCode=='lmh') {
+                 atm_f="v";
+               }
+               if (pageCode=='hotel_list'||pageCode=='deal-list') {
+                 atm_f="b";
+               }
+               if (pageCode=='hotel_view'||pageCode=='deal_view') {
+                 atm_f="c";
+                 atm_cn=merchant.dt;
+
+               }
+               if (pageCode=='hotel_view') {
+                 atm_c=merchant.mc;
+                 _atm_params.id=atm_c;
+               }
+               
+               if (pageCode=='orderDetails') {
+                 atm_f="p";
+               }
+           }
+
+        
+        if (pageCode!='checkout') {
+            fireRevX();
+        }else{
+           $(document).ajaxStop(function() {
+               atm_c=getUrlParameter_global('dc');
+               atm_f="s";
+               atm_sprc=merchant.curentDeal.clt;
+              _atm_params.sprc = atm_sprc; //-- INSERT SELLING PRICE OF THE PRODUCT
+              fireRevX();
+           })
+        }
+        
+       });
+       function fireRevX() {
+        window._atm_client_id = "6916";
+        
+        // Pass in data parameters as applicable on each page
+        // If you want to pass in multiple values, use javascript array
+        // Example: _atm_params.id = ["123", "345"]
+        _atm_params.t = atm_t;   //-- INSERT BUSINESS TYPE ( r - retail , h - hotels, p - holiday packages, f - flights, t - trains, b - bus, d - deals)
+        _atm_params.f = atm_f; //-- INSERT PAGE TYPE (v - home page, b - category page, c - product page, s - add to cart, p - transaction confirmation page)
+        _atm_params.id = atm_id; //-- INSERT ID OF THE PRODUCT
+        _atm_params.cn = atm_cn; //-- INSERT NAME OF THE PRODUCT CATEGORY
+        _atm_params.c = atm_c; //-- INSERT ID OF THE PRODUCT CATEGORY
+        _atm_params.sprc = atm_sprc; //-- INSERT SELLING PRICE OF THE PRODUCT
+        _atm_params.city = localStorage.city; //-- INSERT SELLING PRICE OF THE PRODUCT
+        _atm_params.channel = isMobile()?"m":"d"; //-- INSERT m FOR MOBILE web/d FOR DESKTOP
+
+         $(document).find('script#RevX').remove();
+           var ast=document.createElement('script'); ast.type="text/javascript";
+          ast.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//cdn.atomex.net/static/js/pxs/" + _atm_client_id + "/ast.js";
+          ast.id='RevX';
+          document.body.appendChild(ast);
+       }
+
+</script>
+<!-- RevX remarketing tag - End-->
+<noscript>
+	<div style="display:inline;">
+	<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/882062000/?value=0&amp;guid=ON&amp;script=0"/>
+	<!-- Facebook Pixel Code -->
+	<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=228482490840865&ev=PageView&noscript=1" />
+	</div>
+</noscript>
+<script type="application/ld+json">
+{"@context":"http://schema.org",
+"@type":"Organization",
+"name":"Littleapp",
+"alternateName": "Little Internet PvtLtd",
+"url":"https://littleapp.in",
+"logo":"https://littleapp.in/images/littleapp.png",
+"sameAs":["https://www.facebook.com/littlemobileapp","https://twitter.com/littleapp_in","https://plus.google.com/+littleapp","https://www.youtube.com/c/littleapp","https://www.linkedin.com/company/little-internet-private-limited"],
+"ContactPoint":{"@type":"contactPoint","telephone":"+91-080 4649 0000","contactType":"customer service","areaServed":"IN"}}
+</script>
+
+<!-- COMMON JS -->
+
+
+</body></html>
