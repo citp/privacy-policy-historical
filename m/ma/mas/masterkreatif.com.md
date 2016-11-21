@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masterkreatif.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616142933id_/http%3A//www.masterkreatif.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterkreatif.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121013134id_/http%3A//www.masterkreatif.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Policy | MASTERkreatif
 
