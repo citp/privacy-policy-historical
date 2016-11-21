@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldennugget.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617113310id_/http%3A//www.goldennugget.com/lasvegas/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldennugget.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121204200id_/http%3A//www.goldennugget.com/lasvegas/privacy.asp) for the most accurate reproduction.*
 
 # Golden Nugget Las Vegas | Privacy Policy
 
