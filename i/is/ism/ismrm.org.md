@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ismrm.org privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609063042id_/http%3A//www.ismrm.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ismrm.org privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121155154id_/http%3A//www.ismrm.org/about/privacy) for the most accurate reproduction.*
 
-# Refund, Return and Privacy Policies « ISMRM
+# ISMRM - Refund, Return and Privacy Policies
 
 **Privacy:**
 
@@ -16,7 +16,7 @@ The date and time you access our site; and
 
 The pages you visit.
 
-**Enduring Internet Education Privacy and Confidentiality -  Privacy and Sponsorship Policy: **
+**Enduring Internet Education Privacy and Confidentiality –  Privacy and Sponsorship Policy: **
 
 The ISMRM has created this statement to demonstrate our firm commitment to privacy. The ISMRM is the sole owner of the information collected and presented on this site. We will not sell, share, or rent your information to any third party, without your permission. We collect information from our users at several different points on our website.
 
