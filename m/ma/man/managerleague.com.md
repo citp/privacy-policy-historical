@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the managerleague.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609003208id_/http%3A//www.managerleague.com/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managerleague.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121070510id_/http%3A//www.managerleague.com/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Online Football Manager
 
