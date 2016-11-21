@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pubfacts.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606103720id_/http%3A//www.pubfacts.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pubfacts.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121164220id_/http%3A//www.pubfacts.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# PubFacts.com - Privacy Policy
 
 The privacy of our visitors to PubFacts is important to us. 
 
