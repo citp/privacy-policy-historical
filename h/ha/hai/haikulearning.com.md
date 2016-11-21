@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haikulearning.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610025313id_/http%3A//www.haikulearning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haikulearning.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121151420id_/http%3A//www.haikulearning.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Haiku Learning
 
@@ -137,7 +137,7 @@ If you have any questions about reviewing or modifying account information, cont
 
 **Access to Student Data:** Student Data is provided and controlled by the Schools. If you have any questions about reviewing, modifying or deleting personal information of a student, please contact your School directly.
 
-**Deleting or disabling cookies:** You may be able to disallow cookies to be set on your browser. Please look for instructions on how to delete or disable cookies and other tracking/recording tools on your browser’s technical settings. You may not be able to delete or disable cookies on certain mobile devices and/or certain browsers. For more information on cookies, visit [www.allaboutcookies.org](https://web.archive.org/web/20160610025313id_/http%3A//www.haikulearning.com/www.allaboutcookies.org). Remember, disabling cookies may disable many of the features available on the Services, so we recommend you leave cookies enabled.
+**Deleting or disabling cookies:** You may be able to disallow cookies to be set on your browser. Please look for instructions on how to delete or disable cookies and other tracking/recording tools on your browser’s technical settings. You may not be able to delete or disable cookies on certain mobile devices and/or certain browsers. For more information on cookies, visit [www.allaboutcookies.org](https://web.archive.org/web/20161121151420id_/http%3A//www.haikulearning.com/www.allaboutcookies.org). Remember, disabling cookies may disable many of the features available on the Services, so we recommend you leave cookies enabled.
 
 **How long we keep User Content:**
 
