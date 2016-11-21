@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hallmarkmoviesandmysteries.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606082117id_/http%3A//www.hallmarkmoviesandmysteries.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hallmarkmoviesandmysteries.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121211855id_/http%3A//www.hallmarkmoviesandmysteries.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hallmark Movies and Mysteries
-
-Privacy Policy
 
 Thank you for visiting the Hallmark Channel web site. Your privacy on the Internet is important to us. To better protect your privacy we provide you with this notice outlining how we collect and use online information. 
 
