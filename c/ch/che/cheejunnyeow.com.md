@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheejunnyeow.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608052026id_/http%3A//www.cheejunnyeow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheejunnyeow.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121115942id_/http%3A//www.cheejunnyeow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | www.CheeJunnYeow.com
 
@@ -39,5 +39,3 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 ### Privacy Policy Changes
 
 Although most changes are likely to be minor, Chee Sergi Junn Yeow may change its Privacy Policy from time to time, and in Chee Sergi Junn Yeow sole discretion. Chee Sergi Junn Yeow encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a www.CheeJunnYeow.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
-
-–  [MyBlog ](http://www.cheejunnyeow.com/)–
