@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cutcabletoday.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528134944id_/http%3A//www.cutcabletoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutcabletoday.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121042212id_/http%3A//www.cutcabletoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CutCableToday
 
@@ -43,3 +43,5 @@ We recently began tracking demographic information, which again does not allow u
 ### **Questions about the Privacy Policy or Getting Rid of Cable?**
 
 Have questions about the privacy policy? Perhaps something you don’t quite understand? Or maybe you just need assistance ditching cable once and for all? Fill out the form below and ask–I’ll get back with you ASAP!
+
+[](http://www.cutcabletoday.com/disclaimer-and-disclosure/)
