@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordstemplates.org privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615054021id_/http%3A//www.wordstemplates.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordstemplates.org privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121034503id_/http%3A//www.wordstemplates.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Word's Templates
 
