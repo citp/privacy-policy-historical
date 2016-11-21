@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the englishgrammar101.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605104527id_/http%3A//englishgrammar101.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishgrammar101.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121130807id_/https%3A//www.englishgrammar101.com/privacy-policy) for the most accurate reproduction.*
 
 # English Grammar 101 - Privacy Policy
 
@@ -10,4 +10,4 @@ When visiting _English Grammar 101_ , you can rest assured that we will never co
 
 Any information you provide is used only to help maintain your account or enhance your experience at our website. We will never sell any of your information to a third party. 
 
-For further information, contact us by using the [form](http://cingletree.com/ContactUs.aspx) on our company website. 
+For further information, contact us at [support@cingletree.com](mailto:support@cingletree.com). 
