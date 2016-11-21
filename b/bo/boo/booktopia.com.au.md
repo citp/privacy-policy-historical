@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booktopia.com.au privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615183831id_/http%3A//www.booktopia.com.au/helpCentre.ep%3Fp%3Dpolicies%26o%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booktopia.com.au privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121065551id_/http%3A//www.booktopia.com.au/helpCentre.ep%3Fp%3Dpolicies%26o%3Dprivacy) for the most accurate reproduction.*
 
 # Booktopia - Books, Online Books, #1 Australian online bookstore, Buy Discount Books, eBooks and DVDs from Australia and the world.
 
@@ -88,7 +88,7 @@ Booktopia Pty Ltd will do everything reasonable and in its' power to keep secure
 
 #### What to do if you have a problem or question
 
-If Booktopia Pty Ltd becomes aware of any ongoing concerns or problems with the Booktopia Pty Ltd website, Booktopia Pty Ltd will work to address these concerns promptly. If you have any further queries relating to this Privacy Policy, or you have a problem or complaint, please contact Booktopia Pty Ltd by calling +612 9045 4394 9am - 4pm AEST, Monday - Friday.
+If Booktopia Pty Ltd becomes aware of any ongoing concerns or problems with the Booktopia Pty Ltd website, Booktopia Pty Ltd will work to address these concerns promptly. If you have any further queries relating to this Privacy Policy, or you have a problem or complaint, please contact Booktopia Pty Ltd by calling +612 9045 4394 Monday - Friday, 9am - 5pm Sydney time.
 
 #### Future changes
 
