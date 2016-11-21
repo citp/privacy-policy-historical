@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the upsellit.com privacy policy that was archived on 2016-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160601024850id_/https%3A//www.upsellit.com/policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the upsellit.com privacy policy that was archived on 2016-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161121093343id_/https%3A//www.upsellit.com/policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<title>UpSellit | Privacy Policy</title>
@@ -123,210 +123,209 @@ if (upsellitFirstURLCookie == null) {
 		<td>
 			
 <script type="text/javascript">
-  var lastScrollValue = 0;
-  var passedHeader = false;
-  var passedNav = false;
-  var navScrollFlag = false;
-  var headerHeight = 0;
-  var primaryNavHeight = 0;
-  var heroHeight = 0;
+	var lastScrollValue = 0;
+	var passedHeader = false;
+	var passedNav = false;
+	var navScrollFlag = false;
+	var headerHeight = 0;
+	var primaryNavHeight = 0;
+	var heroHeight = 0;
 
-  //Heights of header, nav and hero
-  $(window).on("load", function() {
-    headerHeight = $("#main_table table").first().outerHeight(true);
-    primaryNavHeight = $("#main_nav_table").outerHeight(true);
-    heroHeight = $("#hero").outerHeight();
-  });
+	//Heights of header, nav and hero
+	$(window).on("load", function() {
+		headerHeight = $("#main_table table").first().outerHeight(true);
+		primaryNavHeight = $("#main_nav_table").outerHeight(true);
+		heroHeight = $("#hero").outerHeight();
+	});
 
-  $(window).scroll(function() {
-    if (document.getElementById('secondary_nav_table') == null) {
-      var scrollTop = $(window).scrollTop();
+	$(window).scroll(function() {
+		if (document.getElementById('secondary_nav_table') == null) {
+			var scrollTop = $(window).scrollTop();
 
-      // If page scrolls past the header
-      if (!passedHeader && scrollTop > headerHeight) {
-        passedHeader = true;
-      }
+			// If page scrolls past the header
+			if (!passedHeader && scrollTop > headerHeight) {
+				passedHeader = true;
+			}
 
-      else if (scrollTop < headerHeight) {
-        passedHeader = false;
-        $("#main_nav_table_dupe").hide();
-        $("#main_nav_table").css("opacity", "1.0");
-      }
+			else if (scrollTop < headerHeight) {
+				passedHeader = false;
+				$("#main_nav_table_dupe").hide();
+				$("#main_nav_table").css("opacity", "1.0");
+			}
 
-      // If page scrolls past the header and primary nav
-      if (!passedNav && scrollTop > (headerHeight + primaryNavHeight)) {
-        passedNav = true;
-        $("#main_nav_table").css("opacity", "0.0");
-        $("#main_nav_table_dupe").css("top", "-" + $("#main_nav_table_dupe").height() + "px").show();
-      }
-      else if (scrollTop <= (headerHeight + primaryNavHeight)) {
-        passedNav = false;
-      }
+			// If page scrolls past the header and primary nav
+			if (!passedNav && scrollTop > (headerHeight + primaryNavHeight)) {
+				passedNav = true;
+				$("#main_nav_table").css("opacity", "0.0");
+				$("#main_nav_table_dupe").css("top", "-" + $("#main_nav_table_dupe").height() + "px").show();
+			}
+			else if (scrollTop <= (headerHeight + primaryNavHeight)) {
+				passedNav = false;
+			}
 
-      // If we have scrolled up
-      if (passedNav && !navScrollFlag && scrollTop < lastScrollValue) {
-        navScrollFlag = true;
-        $("#main_nav_table_dupe").stop(true, true).animate({
-          top: "0px"
-        }, 250);
-      }
+			// If we have scrolled up
+			if (passedNav && !navScrollFlag && scrollTop < lastScrollValue) {
+				navScrollFlag = true;
+				$("#main_nav_table_dupe").stop(true, true).animate({
+					top: "0px"
+				}, 250);
+			}
 
-      // If we have scrolled down
-      else if (passedNav && navScrollFlag && scrollTop > lastScrollValue) {
-        navScrollFlag = false;
-        $("#main_nav_table_dupe").stop(true, true).animate({
-          top: "-" + $("#main_nav_table_dupe").height() + "px"
-        }, 250);
-      }
+			// If we have scrolled down
+			else if (passedNav && navScrollFlag && scrollTop > lastScrollValue) {
+				navScrollFlag = false;
+				$("#main_nav_table_dupe").stop(true, true).animate({
+					top: "-" + $("#main_nav_table_dupe").height() + "px"
+				}, 250);
+			}
 
-      lastScrollValue = scrollTop;
-    }
-  });
+			lastScrollValue = scrollTop;
+		}
+	});
 </script>
 <table id="main_nav_table" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td>
-      <table style="width:960px; margin:0 auto; border-collapse:collapse;">
-        <tbody><tr>
-          <!-- <td style="width:2px;">
-            <img src="/images/nav/UpSellit-PrimeNav-LeftEnd.png" alt="" />
-          </td> -->
-          <td>
-            
-            <table cellpadding="0" cellspacing="0" class="nav_table_buttons" style="width:135px;">
-              <tbody><tr>
-                <td><a class="nav_link_text" href="/">Home</a></td>
-              </tr>
-            </tbody></table>
-          </td>
-          <td>
-            
-            <table cellpadding="0" cellspacing="0" class="nav_table_buttons">
-              <tbody><tr>
-                <td><a class="nav_link_text" href="/site-abandonment-solutions.jsp">Solutions</a></td>
-              </tr>
-            </tbody></table>
-          </td>
-          <td>
-            
-            <table cellpadding="0" cellspacing="0" class="nav_table_buttons">
-              <tbody><tr>
-                <td><a class="nav_link_text" href="/abandonment-expertise.jsp">Resources</a></td>
-              </tr>
-            </tbody></table>
-          </td>
-          <td>
-            <table cellpadding="0" cellspacing="0" class="nav_table_buttons">
-              <tbody><tr>
-                <td><a class="nav_link_text" href="http://blog.upsellit.com">Blog</a></td>
-              </tr>
-            </tbody></table>
-          </td>
-          <td>
-            
-            <table cellpadding="0" cellspacing="0" class="nav_table_buttons">
-              <tbody><tr>
-                <td><a class="nav_link_text" href="/about.jsp">About</a></td>
-              </tr>
-            </tbody></table>
-          </td>
-          <td>
-            
-            <table cellpadding="0" cellspacing="0" class="nav_table_buttons">
-              <tbody><tr>
-                <td><a class="nav_link_text" href="/contact.jsp">Contact</a></td>
-              </tr>
-            </tbody></table>
-          </td>
-          <td>
-            
-            <table cellpadding="0" cellspacing="0" class="nav_table_buttons">
-              <tbody><tr>
-                <td><a class="nav_link_text" href="/login.jsp">Client Login</a></td>
-              </tr>
-            </tbody></table>
-          </td>
-          <!-- <td style="width:2px;">
-            <img src="/images/nav/UpSellit-PrimeNav-RightEnd.png" alt="" />
-          </td> -->
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
+	<tbody><tr>
+		<td>
+			<table style="width:960px; margin:0 auto; border-collapse:collapse;">
+				<tbody><tr>
+					<!-- <td style="width:2px;">
+						<img src="/images/nav/UpSellit-PrimeNav-LeftEnd.png" alt="" />
+					</td> -->
+					<td>
+						
+						<table cellpadding="0" cellspacing="0" class="nav_table_buttons" style="width:135px;">
+							<tbody><tr>
+								<td><a class="nav_link_text" href="/">Home</a></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td>
+						
+						<table cellpadding="0" cellspacing="0" class="nav_table_buttons">
+							<tbody><tr>
+								<td><a class="nav_link_text" href="/site-abandonment-solutions.jsp">Solutions</a></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td>
+						
+						<table cellpadding="0" cellspacing="0" class="nav_table_buttons">
+							<tbody><tr>
+								<td><a class="nav_link_text" href="/ecommerce-expertise.jsp">Resources</a></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td>
+						<table cellpadding="0" cellspacing="0" class="nav_table_buttons">
+							<tbody><tr>
+								<td><a class="nav_link_text" href="http://blog.upsellit.com">Blog</a></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td>
+						
+						<table cellpadding="0" cellspacing="0" class="nav_table_buttons">
+							<tbody><tr>
+								<td><a class="nav_link_text" href="/about.jsp">About</a></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td>
+						
+						<table cellpadding="0" cellspacing="0" class="nav_table_buttons">
+							<tbody><tr>
+								<td><a class="nav_link_text" href="/contact.jsp">Contact</a></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td>
+						
+						<table cellpadding="0" cellspacing="0" class="nav_table_buttons">
+							<tbody><tr>
+								<td><a class="nav_link_text" href="/login.jsp">Client Login</a></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<!-- <td style="width:2px;">
+						<img src="/images/nav/UpSellit-PrimeNav-RightEnd.png" alt="" />
+					</td> -->
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
 </tbody></table>
 
 <table id="main_nav_table_dupe" cellpadding="0" cellspacing="0" style="position:fixed;z-index:11;display:none;">
-  <tbody><tr>
-    <td>
-      <table style="width:960px; margin:0 auto;">
-        <tbody><tr>
-          <!-- <td style="width:2px;">
-            <img src="/images/nav/UpSellit-PrimeNav-LeftEnd.png" alt="" />
-          </td> -->
-          <td>
-            
-            <table cellpadding="0" cellspacing="0" class="nav_table_buttons" style="width:135px;">
-              <tbody><tr>
-                <td><a class="nav_link_text" href="/">Home</a></td>
-              </tr>
-            </tbody></table>
-          </td>
-          <td>
-            
-            <table cellpadding="0" cellspacing="0" class="nav_table_buttons">
-              <tbody><tr>
-                <td><a class="nav_link_text" href="/site-abandonment-solutions.jsp">Solutions</a></td>
-              </tr>
-            </tbody></table>
-          </td>
-          <td>
-            
-            <table cellpadding="0" cellspacing="0" class="nav_table_buttons">
-              <tbody><tr>
-                <td><a class="nav_link_text" href="/abandonment-expertise.jsp">Resources</a></td>
-              </tr>
-            </tbody></table>
-          </td>
-          <td>
-            <table cellpadding="0" cellspacing="0" class="nav_table_buttons">
-              <tbody><tr>
-                <td><a class="nav_link_text" href="http://blog.upsellit.com">Blog</a></td>
-              </tr>
-            </tbody></table>
-          </td>
-          <td>
-            
-            <table cellpadding="0" cellspacing="0" class="nav_table_buttons">
-              <tbody><tr>
-                <td><a class="nav_link_text" href="/about.jsp">About</a></td>
-              </tr>
-            </tbody></table>
-          </td>
-          <td>
-            
-            <table cellpadding="0" cellspacing="0" class="nav_table_buttons">
-              <tbody><tr>
-                <td><a class="nav_link_text" href="/contact.jsp">Contact</a></td>
-              </tr>
-            </tbody></table>
-          </td>
-          <td>
-            
-            <table cellpadding="0" cellspacing="0" class="nav_table_buttons">
-              <tbody><tr>
-                <td><a class="nav_link_text" href="/login.jsp">Client Login</a></td>
-              </tr>
-            </tbody></table>
-          </td>
-          <!-- <td style="width:2px;">
-            <img src="/images/nav/UpSellit-PrimeNav-RightEnd.png" alt="" />
-          </td> -->
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
+	<tbody><tr>
+		<td>
+			<table style="width:960px; margin:0 auto;">
+				<tbody><tr>
+					<!-- <td style="width:2px;">
+						<img src="/images/nav/UpSellit-PrimeNav-LeftEnd.png" alt="" />
+					</td> -->
+					<td>
+						
+						<table cellpadding="0" cellspacing="0" class="nav_table_buttons" style="width:135px;">
+							<tbody><tr>
+								<td><a class="nav_link_text" href="/">Home</a></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td>
+						
+						<table cellpadding="0" cellspacing="0" class="nav_table_buttons">
+							<tbody><tr>
+								<td><a class="nav_link_text" href="/site-abandonment-solutions.jsp">Solutions</a></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td>
+						
+						<table cellpadding="0" cellspacing="0" class="nav_table_buttons">
+							<tbody><tr>
+								<td><a class="nav_link_text" href="/abandonment-expertise.jsp">Resources</a></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td>
+						<table cellpadding="0" cellspacing="0" class="nav_table_buttons">
+							<tbody><tr>
+								<td><a class="nav_link_text" href="http://blog.upsellit.com">Blog</a></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td>
+						
+						<table cellpadding="0" cellspacing="0" class="nav_table_buttons">
+							<tbody><tr>
+								<td><a class="nav_link_text" href="/about.jsp">About</a></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td>
+						
+						<table cellpadding="0" cellspacing="0" class="nav_table_buttons">
+							<tbody><tr>
+								<td><a class="nav_link_text" href="/contact.jsp">Contact</a></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td>
+						
+						<table cellpadding="0" cellspacing="0" class="nav_table_buttons">
+							<tbody><tr>
+								<td><a class="nav_link_text" href="/login.jsp">Client Login</a></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<!-- <td style="width:2px;">
+						<img src="/images/nav/UpSellit-PrimeNav-RightEnd.png" alt="" />
+					</td> -->
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
 </tbody></table>
-
 		</td>
 	</tr>
 	<tr>
@@ -462,15 +461,14 @@ if (upsellitFirstURLCookie == null) {
 										<img src="/images/logos/UpSellit-site-abandonment-logo.png" alt="UpSellit">
 										<br><br>
 										<div id="footer_short_profile">
-											100% Pay-for-Performance<br>
-											Site Abandonment Solutions<br>
+                                            Enterprise Behavioral Conversion Strategies<br>
 										</div>
 										<br>
 										<div id="footer_long_profile">
-											UpSellit provides online business with<br>
-											completely custom, full-service solutions<br>
-											that increase profitability by re-engaging<br>
-											the site visitors who abandon.
+                                            UpSellit designs, develops and
+                                            optimizes personalized conversion
+                                            experiences that increase online
+                                            profitability for the webâs largest brands.<br>
 										</div>
 										<br>
 										<span class="company_phone" style="color:#ffffff;">1 (866) 504 9619</span>
@@ -560,7 +558,7 @@ if (upsellitFirstURLCookie == null) {
 															<table cellpadding="0" cellspacing="0" border="0">
 																<tbody><tr>
 																	<td>
-																		<div class="footer_cta_header">Site Abandonment News &amp; Tips</div>
+																		<div class="footer_cta_header">Conversion News &amp; Tips</div>
 																		<div class="footer_cta_subheader">Join UpSellit's Newsletter:</div>
 																	</td>
 																</tr>
@@ -617,7 +615,7 @@ if (upsellitFirstURLCookie == null) {
 	</tr>
 	<tr>
 		<td style="height:30px;background:#061c2f;text-align:center;" id="footerTxt">
-			© 2015 USI Technologies, Inc.&nbsp;&nbsp;All rights reserved. <a style="font-weight:bolder" href="/policy.jsp">Privacy Policy</a>
+			© 2016 USI Technologies, Inc.&nbsp;&nbsp;All rights reserved. <a style="font-weight:bolder" href="/policy.jsp">Privacy Policy</a>
 		</td>
 	</tr>
 	<!-- <tr>
@@ -635,6 +633,7 @@ if (upsellitFirstURLCookie == null) {
 		USI_headID.appendChild(USI_dynScript);
 	}
 </script>
+
 		</td>
 	</tr>
 </tbody></table>
