@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kpbs.org privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608193503id_/http%3A//www.kpbs.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kpbs.org privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121050738id_/http%3A//www.kpbs.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KPBS
 
@@ -57,7 +57,7 @@ KPBS may analyze Google Analytics Demographic and Interest Reporting data that i
 
 **Security**
 
-KPBS has in place what we believe to be appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Credit card information provided to KPBS via the Membership donation form, events registration form and other Web interfaces [is protected against unauthorized use by our service provider](http://www.convio.com/convio/certifications.html). However, no Internet or e-mail transmission is ever fully secure or error free. Because most e-mail is not encrypted, you should take special care in deciding what information you send to us via e-mail.
+KPBS has in place what we believe to be appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Credit card information provided to KPBS via the Membership donation form, events registration form and other Web interfaces is protected against unauthorized use by our service provider. However, no Internet or e-mail transmission is ever fully secure or error free. Because most e-mail is not encrypted, you should take special care in deciding what information you send to us via e-mail.
 
 **Corrections to Personal Data; Opting Out**
 
