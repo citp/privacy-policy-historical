@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the americanblinds.com privacy policy that was archived on 2016-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160610191612id_/http%3A//www1.americanblinds.com/control/infopage%3Fpage%3Dsecurity.html%26master%3Dresourcecenter) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the americanblinds.com privacy policy that was archived on 2016-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161121181009id_/http%3A//www1.americanblinds.com/control/infopage%3Fpage%3Dsecurity.html%26master%3Dresourcecenter) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Cache-Control" content="no-cache">
@@ -14,7 +14,7 @@
 <link href="//www1.americanblinds.com/skin07/cluetip/jquery.cluetip.css" rel="stylesheet" type="text/css">
 <link href="//www1.americanblinds.com/skin07/js/jquery.combobox.css" rel="stylesheet" type="text/css">
 
-<script type="text/javascript" async="" src="https://tr-1.agilone.com/tr-as.js"></script><script type="text/javascript">
+<script type="text/javascript">
 function openWinNav() {
     JQ.post("/sod/clear_sod.php");
     window.open("/frontend/frontend.mvc/sod/login","GccLogin","width=400,height=400,scrollbars=no,status=no");
@@ -113,6 +113,33 @@ function addLoadEvent(func) {
 
 
 
+    <script type="text/javascript">
+    
+        JQ(document).ready(function() {
+            var myGccUserId = localStorage['sod'];
+
+            if(myGccUserId)
+            {
+                var currentGccUserId = document.getElementById("txtGccUserId").innerHTML;
+                        
+                if (currentGccUserId != myGccUserId)
+                {
+                     document.getElementById("txtGccUserId").innerHTML = myGccUserId;
+                        
+                     JQ.post("/sod/create_sod.php", { userId: myGccUserId } );  
+                }
+             }
+             else   
+             {
+                 document.getElementById("txtGccUserId").innerHTML = "NOT LOGGED IN";
+             }
+        });
+        
+    </script>
+
+      
+
+
     
 					<script type="text/javascript" language="javascript">
 			// leave this alone - rfinn
@@ -133,7 +160,7 @@ function addLoadEvent(func) {
     <div class="mboxDefault" style="visibility: visible; display: block;"></div>
 <script language="javascript" type="text/javascript">
 mboxCreate('AB_Header');
-</script><div id="mboxMarker-default-AB_Header-0" style="visibility:hidden;display:none"></div><script src="https://mbox5e.offermatica.com/m2/blinds/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580350662147-152129&amp;mboxPage=1580350666095-762009&amp;mboxCount=1&amp;mbox=AB_Header&amp;mboxId=0&amp;mboxURL=https%3A//web.archive.org/web/20160610191612id_/http%253A//www1.americanblinds.com/control/infopage%253Fpage%253Dsecurity.html%2526master%253Dresourcecenter&amp;mboxReferrer=&amp;mboxVersion=33" language="JavaScript"></script>
+</script><div id="mboxMarker-default-AB_Header-0" style="visibility:hidden;display:none"></div><script src="https://mbox5e.offermatica.com/m2/blinds/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580350663935-654000&amp;mboxPage=1580350667698-548823&amp;mboxCount=1&amp;mbox=AB_Header&amp;mboxId=0&amp;mboxURL=https%3A//web.archive.org/web/20161121181009id_/http%253A//www1.americanblinds.com/control/infopage%253Fpage%253Dsecurity.html%2526master%253Dresourcecenter&amp;mboxReferrer=&amp;mboxVersion=33" language="JavaScript"></script>
 <div id="header">
 <div class="top-bar">
     <div style="width: 992px; margin: 0 auto;">
@@ -613,7 +640,7 @@ Houston, TX  77019-3908<br>
 <script language="JavaScript" src="/s_code.js"></script>
 <div class="mboxDefault" style="visibility: visible; display: block;"></div>
 <!-- MBOX: omniture start -->
-<script language="JavaScript1.2">mboxCreate("omniture");</script><div id="mboxMarker-default-omniture-0" style="visibility:hidden;display:none"></div><script src="https://mbox5e.offermatica.com/m2/blinds/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580350662147-152129&amp;mboxPage=1580350666095-762009&amp;mboxCount=2&amp;mbox=omniture&amp;mboxId=0&amp;mboxURL=https%3A//web.archive.org/web/20160610191612id_/http%253A//www1.americanblinds.com/control/infopage%253Fpage%253Dsecurity.html%2526master%253Dresourcecenter&amp;mboxReferrer=&amp;mboxVersion=33" language="JavaScript"></script>
+<script language="JavaScript1.2">mboxCreate("omniture");</script><div id="mboxMarker-default-omniture-0" style="visibility:hidden;display:none"></div><script src="https://mbox5e.offermatica.com/m2/blinds/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580350663935-654000&amp;mboxPage=1580350667698-548823&amp;mboxCount=2&amp;mbox=omniture&amp;mboxId=0&amp;mboxURL=https%3A//web.archive.org/web/20161121181009id_/http%253A//www1.americanblinds.com/control/infopage%253Fpage%253Dsecurity.html%2526master%253Dresourcecenter&amp;mboxReferrer=&amp;mboxVersion=33" language="JavaScript"></script>
 <!-- MBOX: omniture end --> 
 <script language="JavaScript"><!--
 /* You may give each page an identifying name, server, and channel on the next lines. */
@@ -660,7 +687,6 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
   </tr>
 </table> -->
-    <script src="/Frontend/FrontEnd.MVC/scripts/tracking"></script>
 <div class="center colfull">
   <!-- begin: footer_links_07 -->
 
@@ -872,8 +898,6 @@ function checkEmail(f){
 
 <!-- end:footer_badges_07 -->
 
-
-<!-- Begin: 4q.iperceptions.com --><!--script src="http://4qinvite.4q.iperceptions.com/1.aspx?sdfc=a554f266-4570-3b15e3b2-c501-4477-b903-ef22aa0786c3&lID=1&loc=4Q-WEB2" type="text/javascript" defer="defer" ></script--><!-- End: 4q.iperceptions.com -->
 <!-- end: footer_links_07 -->
 
 <!-- don't delete below this line -->
@@ -925,7 +949,7 @@ form#enews .email-input{
 <div class="signup-wrapper">
     <span class="icon-close" title="Close/Hide"></span>
     <!-- list id 31038259  iframe-->
-    <iframe id="emailForm" src="http://www1.americanblinds.com/infopages/email/enews/email-form.html" marginheight="0" marginwidth="0" frameborder="0"></iframe>
+    <iframe id="emailForm" src="/infopages/email/enews/email-form.html" marginheight="0" marginwidth="0" frameborder="0"></iframe>
 </div>
 
 <script>
@@ -1005,6 +1029,18 @@ var google_remarketing_only = true;
 <script src="https://d3v27wwd40f0xu.cloudfront.net/js/tracking/sidecar_americanblinds.js" type="text/javascript"></script>
 <!-- End Sidecar Script -->
 
+<!-- Sidecar Prod ID -->
+<script>
+  if (productID !== null) {
+    var prodVal = productID.value;
+    var sidecar = sidecar || {};
+    sidecar.product_info = {
+      group_id: prodVal
+    };
+  }
+</script>
+
+
 </div>
 
    
@@ -1061,6 +1097,14 @@ pageTracker._trackPageview();
 } catch(err) {}</script>
 
 
+
+<div style="position: absolute; top: 8px; left: 50%; margin-left: 20em; z-index:100; background-color:#FFFFFF; width:150px; padding-right:10px;">
+  <div align="left">
+     <span id="txtGccUserId" class="g_txt" style="vertical-align:top;">NOT LOGGED IN</span>&nbsp;&nbsp;
+     <a href="javascript:openWinNav();"><img src="/infopages/images/general/login.jpg" alt="Associate Login " border="0"></a>
+     <a href="/frontend/frontend.mvc/sod/resetsession">Clear Session</a>
+  </div>
+</div>
 
 <script src="/frontend/frontend.mvc/scripts/app/shared/liveperson.js"></script>
 
