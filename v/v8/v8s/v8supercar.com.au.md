@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the v8supercar.com.au privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401145319id_/http%3A//www.v8supercars.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the v8supercar.com.au privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121181301id_/http%3A//www.supercars.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | V8 Supercars
+# Privacy Policy | Supercars
 
 ### V8 Supercars Australia Pty Ltd and  
 Touringcar Entrants Group Australia Pty Ltd  
