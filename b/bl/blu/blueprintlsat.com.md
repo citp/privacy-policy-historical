@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blueprintlsat.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324191531id_/http%3A//blueprintlsat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueprintlsat.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121205410id_/http%3A//blueprintlsat.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Blueprintlsat.com
 
 Blueprint Test Preparation (hereafter referred to as "Blueprint") will make every effort to balance our legitimate business interests in collecting and using information with your reasonable expectations of privacy.
 
