@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ripoffreport.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609072008id_/http%3A//www.ripoffreport.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripoffreport.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121014509id_/http%3A//www.ripoffreport.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Ripoff Report | Scams, reviews, complaints, lawsuits and frauds. File a report, post your review. Consumers educating consumers.
 
