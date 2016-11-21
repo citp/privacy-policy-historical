@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vindale.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627085723id_/https%3A//www.vindale.com/v/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vindale.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121044543id_/https%3A//www.vindale.com/v/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Vindale Research
 
@@ -6,7 +6,7 @@
 
 This privacy policy applies to http://www.vindale.com owned and operated by Vindale Media, LLC ("Vindale Research", "we", "us", "our"). This privacy policy describes how Vindale Research collects and uses the personal information you provide on our web site: http://www.vindale.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information
 
-The TRUSTe program only covers information that is collected from this Web site, http://www.vindale.com, and does not cover information that may be collected through any software downloaded from this Web site. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@vindale.com](mailto:privacy@vindale.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request)
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 **Information collected and used by Vindale Research**  
 Vindale Research collects user-submitted information including name, email address, phone number and date of birth to verify new accounts and send notifications regarding Vindale Research's services. Vindale Research collects additional optional data that is included in member profiles. This data includes but is not limited to: occupation, interests, school affiliations, gender, and address.
@@ -55,7 +55,7 @@ We, Vindale Research, and our marketing and research partners, affiliates, or an
 
 Vindale Research uses cookies to manage sessions on the site, remember user preferences, and to ensure members do not continually see the same advertisements. Cookies must be enabled in order for members to use Vindale Research services. Information stored in cookies will never contain any personal information. We do link the information we store in cookies to any personal information you submit while on our site. Third parties also place scripts and cookies on our site such as analytics providers. This data is only collected in the aggregate.
 
-We use Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use Flash cookies or HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+We use Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5.
 
 **Links**
 
@@ -67,7 +67,7 @@ You can log in to our site using sign-in services such as Facebook Connect or an
 
 **Correcting/updating information**
 
-If your personal information changes or if you wish to cancel your account or request that we no longer use your information to provide you services, you may update or remove your personal information by logging in to Vindale Research and editing your account profile or by contacting us at [support@vindale.com](mailto:privacy@vindale.com). We will respond to your request within a reasonable timeframe.
+Upon request Vindale Research will provide you with information about whether we hold any of your personal information. If your personal information changes or if you wish to cancel your account or request that we no longer use your information to provide you services, you may update or remove your personal information by logging in to Vindale Research and editing your account profile or by contacting us at [support@vindale.com](mailto:privacy@vindale.com). We will respond to your request within a reasonable timeframe.
 
 The user may also request a copy of the personal information Vindale Research has on record for their account by sending a self-addressed., stamped envelope to the following address:
 
@@ -80,7 +80,7 @@ We will retain your information for as long as your account is active or as need
 
 **Legal Disclosure**
 
-We reserve the right to disclose your personal information as required by law, such as to comply with a subpoena, judicial proceedings, or similar legal process and when we believe that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud or respond to a government request.
+In certain situations, Vindale Research may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We reserve the right to disclose your personal information as required by law, such as to comply with a subpoena, judicial proceedings, or similar legal process and when we believe that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud or respond to a government request.
 
 **Security**
 
@@ -123,4 +123,4 @@ Email: [privacy@vindale.com](mailto:privacy@vindale.com)
 
 _
 
-EFFECTIVE AS OF **01/06/2016**
+EFFECTIVE AS OF **09/08/2016**
