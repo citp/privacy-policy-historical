@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikisexguide.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607030648id_/http%3A//www.wikisexguide.com/wiki/WikiSexGuide%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikisexguide.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121153100id_/http%3A//www.wikisexguide.com/wiki/WikiSexGuide%3APrivacy_policy) for the most accurate reproduction.*
 
 # WikiSexGuide:Privacy policy - WikiSexGuide - International World Sex Guide
 
