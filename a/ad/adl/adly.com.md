@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adly.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606155208id_/http%3A//www.adly.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adly.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121093043id_/http%3A//www.adly.com/pp.html) for the most accurate reproduction.*
 
 # None
 
@@ -104,4 +104,4 @@ If you have any questions about our privacy practices or this Privacy Policy, pl
 
 **Terms of Use**
 
-Please read the ADLY Inc. Online [Terms of Service](https://web.archive.org/web/20160606155208id_/http%3A//www.adly.com/tos.html) governing the use of the Site(s) and the ADLY Features.
+Please read the ADLY Inc. Online [Terms of Service](https://web.archive.org/web/20161121093043id_/http%3A//www.adly.com/tos.html) governing the use of the Site(s) and the ADLY Features.
