@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the softorbits.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613104432id_/http%3A//www.softorbits.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softorbits.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121095544id_/http%3A//www.softorbits.com/privacy-policy.html) for the most accurate reproduction.*
 
 # SoftOrbits Privacy Policy
 
-We highly value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site. 
+We highly value your privacy and make this policy easily available throughout our site to assist you in understanding the handling of information in the course of using this site.
 
 ## Log Files
 
@@ -18,7 +18,7 @@ You should be aware that www.softorbits.com uses Google AdWords, Google Analytic
 
 ## Security
 
-We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic storage can ever be 100% secure. Therefore—as is the case with any organization—we are not in a position to guarantee the absolute security of your information. 
+We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic storage can ever be 100% secure. Therefore—as is the case with any organization—we are not in a position to guarantee the absolute security of your information.
 
 ## Legal Disclaimer
 
