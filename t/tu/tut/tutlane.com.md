@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutlane.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524030643id_/http%3A//tutlane.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutlane.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121014916id_/http%3A//tutlane.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # Terms and Conditions, Privacy Policy, Terms of Use | Tutlane - Tutlane
 
