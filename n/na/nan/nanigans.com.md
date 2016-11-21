@@ -1,18 +1,15 @@
-> *The following text is extracted and transformed from the nanigans.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608130426id_/http%3A//www.nanigans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanigans.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121030624id_/http%3A//www.nanigans.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nanigans – Advertising Automation Software
 
-**Privacy Policy**
-
-Effective Date:  April 17, 2015
+**Privacy Policy**  
+Effective Date:  November 18, 2016
 
 #### Introduction
 
 At Nanigans, Inc. (“Nanigans”, “the Company”, “us”), we take privacy issues seriously.  The following is an outline of the ways in which we collect and use the personal information you provide on our web site www.nanigans.com and through the Nanigans Ad Automation Software (our “Services”).  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-Nanigans has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification covers only our collection, use and disclosure of information we collect through our website www.nanigans.com and our Ad Automation Software. The use of information collected through our service shall be limited to the purpose of providing the service for which the customer has engaged Nanigans.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact Truste, our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
 
 #### Information Collection and Use
 
@@ -30,9 +27,9 @@ We will only share your personal information with third parties in the ways that
 
 We may also disclose your personal information:
 
-  * as required by law, such as to comply with a subpoena, or similar legal process
+  * in response to lawful requests by public authorities, including to meet national security or law enforcement requirements or as required by law, such as to comply with a subpoena, or similar legal process
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * if Nanigans is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or use of your personal information, as well as any choices you may have regarding your personal information, to any other third party with your prior consent to do so.
+  * if Nanigans is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or use of your personal information, as well as any choices you may have regarding your personal information, to any other third party with your prior consent to do so
 
 
 
@@ -44,7 +41,7 @@ We use this information, which does not identify individual users, to analyze tr
 
 #### Tracking Technologies/Cookies
 
-Technologies such as cookies, beacons, tags and scripts are used by Nanigans. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Nanigans and our partners use cookies or similar tracking technologies. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 Cookies are small files that are placed on your browser or device by the website or app you are using or ad you have viewed. Like most websites, we use cookies to provide you with a better, faster or safer experience.  Cookies and pixels are used to understand and deliver advertisements and make them more relevant to you.  For example, Facebook may read a cookie that tells them you’re logged into Facebook so that they can show you ads that may be interesting to you on Facebook or other websites. Cookies are used to learn whether someone who saw an ad on Facebook later visited and purchased goods from the advertiser’s site. Within our own campaigns, Nanigans may use a cookie to determine whether we’ve shown an ad and how it performed. Facebook may also work with a partner to show you an ad on Facebook after you’ve visited the partner’s site and this may involve the use of cookies.
 
@@ -64,7 +61,7 @@ The use of cookies and clear gifs by our technology partners and service provide
 
 ##### Behavioral Targeting / Re-Targeting
 
-As part of our Services that we provide to our customers, we partner with third party ad networks to manage our advertising on other sites.  Our third party partners may use technologies such as cookies to gather non-personally identifiable information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/))  Please note this does not opt you out of being served all ads.  You will continue to receive generic ads.
+As part of our Services that we provide to our customers, we partner with third party ad networks to manage our advertising on other sites.  Our third party partners may use technologies such as cookies to gather non-personally identifiable information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/).  (or if located in the European Union click [here](http://www.youronlinechoices.eu/))  Please note this does not opt you out of being served all ads.  You will continue to receive generic ads.
 
 ##### Web Opt-Out (Nanigans.com)
 
@@ -76,13 +73,13 @@ Please be aware that because cookies are browser specific, if you use more than 
 
 ##### Android Users
 
-  * You may opt-out of Nanigans Mobile Tracking by downloading and installing our Do Not Track Application, located here: <http://www.nanigans.com/AndroidDoNotTrack.apk>
+  * You may opt-out of Nanigans Mobile Tracking by downloading and installing our Do Not Track Application, located here: <http://www.nanigans.com/AndroidDoNotTrack.apk>
 
 
 
 ##### iOS Users
 
-##### For iOS 7 and Above Users
+##### For iOS 7 and 8 Users
 
   * From your iOS home screen, go to Settings -> Privacy -> Advertising
   * On the Advertising screen, turn “Limit Ad Tracking” on
@@ -100,7 +97,7 @@ Please be aware that because cookies are browser specific, if you use more than 
 
 #### Email Opt-out
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you.  Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or by e-mailing us at myinfo@nanigans.com with “My Info” in the subject line of the e-mail. We will send you an e-mail to confirm your request. After we receive confirmation from you, we will correct or remove your information from all active databases. If you would like more information about this practice and to know your choices please visit <http://www.networkadvertising.org/managing/opt_out.asp>
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you.  Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or by e-mailing us at myinfo@nanigans.com with “My Info” in the subject line of the e-mail. We will send you an e-mail to confirm your request. After we receive confirmation from you, we will correct or remove your information from all active databases. If you would like more information about this practice and to know your choices please visit <http://www.networkadvertising.org/managing/opt_out.asp>
 
 #### Information Related to Data Collected through Nanigans Ad Automation Software
 
@@ -108,13 +105,13 @@ Nanigans collects information through its Services under the direction of its cu
 
 ##### Access and Choice
 
-3rd parties who seek access, or who seek to correct, amend, or delete inaccurate data that is collected through Nanigans’ Services or who would no longer like to be contacted by one of our customers that use our service, should contact the customer or other business entity that such 3rd party interacts with directly (the data controller). If any of our customers request Nanigans remove data that the customer controls upon demand of a 3rd party, we will respond to their request within 30 days.
+3rd parties who seek access, or who seek to correct, amend, or delete inaccurate data that is collected through Nanigans’ Services or who would no longer like to be contacted by one of our customers that use our service, should contact the customer or other business entity that such 3rd party interacts with directly (the data controller). If any of our customers request Nanigans remove data that the customer controls upon demand of a 3rd party, we will respond to their request within 30 days. Nanigans may transfer personal information to companies that help us provide our services. Transfers to subsequent third parties are covered by the service agreements with our customers.
 
 #### User Access and Choice
 
-If customers wish to change their personal information (i.e. contact info, username, password) they should feel free to contact us at [info@nanigans.com](mailto:info@nanigans.com).
+Nanigans acknowledges that you have the right to access your personal information. Upon request Nanigans will provide you with information about whether we hold any of your personal information. If customers wish to change their personal information (i.e. contact info, username, password) they should feel free to contact us at [info@nanigans.com](mailto:info@nanigans.com).
 
-If you no longer desire our service, you may deactivate your account by emailing our Customer Support at info@nanigans.com or by contacting us by telephone or postal mail at the contact information listed below.  We will respond to your request within 30 days.
+If you no longer desire our service, you may deactivate your account by emailing our Customer Support at [info@nanigans.com](mailto:info@nanigans.com) or by contacting us by telephone or postal mail at the contact information listed below.  We will respond to your request within 30 days.
 
 #### Data Retention and Security
 
@@ -130,7 +127,7 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 ##### Blog
 
-Our Web site offers a publicly accessible blog. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog, contact us at [info@nanigans.com](mailto:info@nanigans.com).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers a publicly accessible blog. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog, contact us at [info@nanigans.com](mailto:info@nanigans.com).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ##### Testimonials
 
