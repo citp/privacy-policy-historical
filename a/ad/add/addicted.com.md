@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addicted.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508065657id_/http%3A//addicted.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addicted.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121030428id_/http%3A//addicted.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -68,27 +68,6 @@ If you have any questions about this Policy, our privacy practices related to th
     2. 4.2 Lost or Stolen Information 
 
 We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. 
-
-
-
-
-  * ### Find Help Now
-
-Enter your ZIP to find help nearest you:
-
-[Search](http://www.addicted.com/lander "Find Addiction Recovery Help Now!")
-
-  * ### Contact Us For Support
-
-  * ### How Is Obamacare Affecting Addiction?
-
-[ ](http://addicted.com/obamacare-addiction-in-america/)
-
-  * ### Did You Know?
-
-"Sadly, nearly two-thirds of people in drug abuse treatment report that they were physically or sexually abused as children. Child abuse is a major contributing factor to drug addiction." — [http://factfile.org](http://factfile.org/)
-
-Next »
 
 
 
