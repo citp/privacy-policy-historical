@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partswarehouse.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527160325id_/http%3A//www.partswarehouse.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partswarehouse.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121140658id_/http%3A//www.partswarehouse.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
@@ -59,7 +59,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
  **Questions and feedback**
 
-We welcome your questions, comments, and concerns about privacy. Please contact us regarding any Privacy Policy matter at info@PartsWarehouse.com with the subject 'Privacy Policy' or call 866.342.2721.
+We welcome your questions, comments, and concerns about privacy. Please contact us regarding any Privacy Policy matter at info@PartsWarehouse.com with the subject 'Privacy Policy' or call 866.243.2721.
 
  **Online Policy Only**
 
@@ -67,7 +67,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20160527160325id_/http%3A//www.partswarehouse.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20161121140658id_/http%3A//www.partswarehouse.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
