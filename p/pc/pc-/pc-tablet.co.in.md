@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pc-tablet.co.in privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529004512id_/http%3A//www.pc-tablet.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pc-tablet.co.in privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121144239id_/http%3A//www.pc-tablet.co.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PC-Tablet
+# Privacy Policy | PC-Tablet
 
 ### Purpose of this Privacy Policy
 
