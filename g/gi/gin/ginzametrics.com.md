@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ginzametrics.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426091932id_/http%3A//www.ginzametrics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ginzametrics.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121180839id_/http%3A//www.ginzametrics.com/privacy-policy) for the most accurate reproduction.*
 
 # GinzaMetrics privacy policy | GinzaMetrics
 
