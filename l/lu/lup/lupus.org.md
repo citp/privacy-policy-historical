@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lupus.org privacy policy that was archived on 2016-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160308064434id_/http%3A//www.lupus.org/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lupus.org privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121135426id_/http%3A//www.lupus.org/pages/privacy-policy) for the most accurate reproduction.*
 
 # Lupus Foundation of America
 
@@ -39,7 +39,7 @@ We never share your email address with anyone outside of our organization.  Occ
 
 ####  Surface Mail
 
-If you provide your mailing address to us, we periodically may send information to you through the U.S. Postal Service.  You also may receive information we mail on behalf of another organization or partner that we believe may be of interest to you.  You may choose to opt out of receiving some or all surface mailings from us.  Send your full name and complete mailing address (along with any codes that were printed on the mailing label), and the type of information that you no longer wish to receive from us.  Send your request to info@lupus.org or write to us at 2000 L Street, N.W., Suite 410, Washington, DC 20036 - USA. 
+If you provide your mailing address to us, we periodically may send information to you through the U.S. Postal Service.  You also may receive information we mail on behalf of another organization or partner that we believe may be of interest to you.  You may choose to opt out of receiving some or all surface mailings from us.  Send your full name and complete mailing address (along with any codes that were printed on the mailing label), and the type of information that you no longer wish to receive from us.  Send your request to info@lupus.org or write to us at 2121 K Street NW, Suite 200, Washington, DC 20037 - USA. 
 
 ####  Information Exchange
 
