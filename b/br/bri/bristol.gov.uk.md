@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bristol.gov.uk privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624051449id_/https%3A//www.bristol.gov.uk/about-our-website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bristol.gov.uk privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121194824id_/https%3A//www.bristol.gov.uk/about-our-website/privacy) for the most accurate reproduction.*
 
 # Privacy - bristol.gov.uk
 
@@ -27,9 +27,10 @@ We collect your personal details when you fill in a form on our websites or send
 
 
 
-3\. Allow us to share your information with other councils and organisations.
+3\. Allow us to share your information with other councils and other organisations such as our partners in the NHS.
 
   * You will be told about this or asked to agree to this first, if we decide to share services with these organisations.
+  * Information shared with our local NHS partners is via a secure system called Connecting Care. [Read more information about this](https://www.bristolccg.nhs.uk/about-us/how-we-use-your-information/connecting-care/).
 
 
 
@@ -46,7 +47,7 @@ We collect your personal details when you fill in a form on our websites or send
 
 
 
-6\. We collect data to help improve the health and wellbeing of Bristol residents. We will not share sensitive or confidential information without your consent except in a small number of situations where disclosure is required by law, or where we have good reason to believe that failing to do so would put you or someone else at risk
+6\. We collect data to help improve the health and wellbeing of Bristol residents. This data comes from a range of sources including hospitals and birth/death registrations. We will not share sensitive or confidential information without your consent except in a small number of situations where disclosure is required by law, or where we have good reason to believe that failing to do so would put you or someone else at risk
 
   * Find out more on our [Healthy living ](https://web.archive.org/c/portal/layout?p_l_id=26741)page
 
