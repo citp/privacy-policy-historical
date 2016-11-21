@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3news.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616145149id_/http%3A//3news.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3news.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121112548id_/http%3A//3news.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 3News
 
@@ -27,7 +27,7 @@ We will also process the following data about you:
 
 1.3       Information provided to us when you communicate with us for any reason.
 
- **2.         Use of cookies**
+**2.         Use of cookies**
 
 Like many websites, we use “cookies”, which are a small text files stored on your computer or equipment when you visit our Website. Where used, these cookies are downloaded to your computer automatically. 
 
@@ -45,7 +45,7 @@ Any advertising featured on this Website may also incorporate cookies, over whic
 
 For more information on cookies you can read the guidance at All About Cookies.
 
- **3.         Use of your information**
+**3.         Use of your information**
 
 The information that we collect and store relating to you is primarily used to enable us to provide our services to you. In addition, we may use the information for the following purposes:
 
@@ -71,7 +71,7 @@ The information that we collect and store relating to you is primarily used to e
 
 We may also use and/or combine information that we collect off-line, or that we collect or receive from third party sources, to enhance, expand and check the accuracy of user records
 
- **4.         Storing your personal data**
+**4.         Storing your personal data**
 
 4.1       We may transfer the data that we collect from you to other locations for processing and storing. In addition, it may be processed by people who work for us or for one of our suppliers. 
 
@@ -83,7 +83,7 @@ By submitting your personal data, you agree to this transfer, storing or process
 
 Where we have given you (or where you have chosen) a password so that you can access certain areas of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
- **5.         Disclosing your information**
+**5.         Disclosing your information**
 
 5.1       Where applicable, we may disclose some or all the data we collect from you when you visit our site to third parties.
 
@@ -97,11 +97,11 @@ Where we have given you (or where you have chosen) a password so that you can ac
 
 5.2.3    To assist fraud protection and minimize credit risk.
 
- **6.         Third party links**
+**6.         Third party links**
 
 You might find from time to time links to third party websites on our Website. These websites may have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies or for any personal data that may be collected through these websites as we have no control over them. Please check these policies before you submit any personal data to these websites.
 
- **7.          Your Rights**
+**7.          Your Rights**
 
 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [address] or [email address] 
 
@@ -111,11 +111,11 @@ The Data Protection Act 2012, Act 843 gives you the right to access the informat
 
 Please note that any demand for access may be subject to payment of a fee which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.
 
- **9.         Changes to privacy policy**
+**9.         Changes to privacy policy**
 
 Any changes We may make to our privacy policy in the future will be posted on this page and where appropriate, notified to you. The new terms may be displayed on-screen and you may be required to read and accept them to continue your use of the Website.
 
- **10.         Contacting us**
+**10.         Contacting us**
 
 We welcome any queries, comments or requests you may have regarding this policy please do not hesitate to contact us at this email: info@3news.com
 
