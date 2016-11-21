@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheatcodes.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611112425id_/http%3A//www.cheatcodes.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatcodes.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121204332id_/http%3A//www.cheatcodes.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
