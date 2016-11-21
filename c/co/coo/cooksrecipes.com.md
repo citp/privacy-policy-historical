@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooksrecipes.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528143254id_/http%3A//www.cooksrecipes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooksrecipes.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121035245id_/http%3A//www.cooksrecipes.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for CooksRecipes.com
 
@@ -19,7 +19,7 @@ We use third-party companies to serve ads and collect non-personally identifiabl
 For further information, please consult the privacy policies of:
 
   * [Google AdSense](http://www.google.com/privacy.html)
-  * [Conversant](http://www.conversantmedia.com/legal/privacy)
+  * [GourmetAds](http://www.gourmetads.com/about/privacy-policy)
 
 
 
@@ -29,6 +29,4 @@ With respect to security: If and when CooksRecipes.com transfer and receive cert
 
 Regarding Outside Links: This website contains links to other websites. Please be aware that CooksRecipes.com is not responsible for the privacy practices of such other websites. We encourage our users to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
 
-If you feel that this site is not following its stated information policy, you may contact The DMA's Committee on Ethical Business Practices at mgoldberger@the-dma.org, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at http://www.ftc.gov/ftc/complaint.htm.
-
-Contact [CooksRecipes.com](https://web.archive.org/web/20160528143254id_/http%3A//www.cooksrecipes.com/contact.htm)
+If you feel that this site is not following its stated information policy, you may contact The DMA's Committee on Ethical Business Practices at mgoldberger@the-dma.org, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at http://www.ftc.gov/ftc/complaint.htm. 
