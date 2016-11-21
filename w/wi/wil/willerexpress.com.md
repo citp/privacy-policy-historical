@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the willerexpress.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615103637id_/http%3A//willerexpress.com/st/3/en/pc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the willerexpress.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121071733id_/http%3A//willerexpress.com/st/3/en/pc/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / Bus, Night Bus, Booking in Japan / WILLER EXPRESS/
 
