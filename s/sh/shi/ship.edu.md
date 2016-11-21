@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ship.edu privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508213639id_/http%3A//www.ship.edu/IDWT/Web_Site_Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ship.edu privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121094404id_/http%3A//www.ship.edu/IDWT/Web_Site_Privacy_Statement) for the most accurate reproduction.*
 
 # Shippensburg University – Instructional Design & Web Technologies – Web Site Privacy Statement
 
@@ -8,7 +8,7 @@ The Shippensburg University web site makes use of [Google Analytics](http://www.
 
 Shippensburg University does not (and does not allow any third party) to use Google Analytics to collect or track any personally identifiable information about visitors to our site. We do not associate any data gathered from the site with any personally identifying information from any source as part of our use of Google Analytics. Google does not associate a user's IP address with any other data held by Google. Neither Shippensburg University nor Google will link, or seek to link, an IP address with the identity of a computer user.
 
-General information about cookies is available via [Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie "Wikipedia"). Users have the ability to accept or decline cookies by modifying the settings in their browser. The [About Cookies](http://www.aboutcookies.org/ "About Cookies") web site explains [how to remove cookies from your browser](http://www.aboutcookies.org/Default.aspx?page=2 "how to remove cookies from your browser").
+General information about cookies is available via [Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie "Wikipedia"). Users have the ability to accept or decline cookies by modifying the settings in their browser. The [About Cookies](http://www.aboutcookies.org/ "About Cookies") web site explains [how to remove cookies from your browser](http://www.aboutcookies.org/how-to-delete-cookies/ "how to remove cookies from your browser").
 
 ## Targeted Advertising
 
@@ -22,7 +22,7 @@ Information entered into online forms on this web site (typically directory-type
 
 Shippensburg University's [online/mobile directory](http://mobile.ship.edu/directory/index?campus_id=735) provides directory information (name, email address, phone number, etc) for only those individuals that have not requested their directory information be suppressed. At the employee's request, directory listings and/or specific address information may be changed or suppressed from the online directories. Employees may change their information by logging into the [Account Self-Service](https://password.ship.edu/) or by contacting [Human Resources](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=1116 "Human Resources").
 
-The directory is provided for those involved with Shippensburg University and for others who have a specific interest in reaching individuals on campus. Information obtained from these online directories may not be used to provide addresses for outside mailings to Shippensburg University faculty or staff. Any solicitation of business, information, contributions or other response from individuals listed in the directories by mail, telephone, email, or other means is forbidden.
+The directory is provided for those involved with Shippensburg University and for others who have a specific interest in reaching individuals on campus. Information obtained from these online directories may not be used to provide addresses for outside mailings to Shippensburg University faculty or staff. Any solicitation of business, information, contributions or other response from individuals listed in the directories by mail, telephone, email, or other means is forbidden.
 
 ## Online Payments
 
