@@ -1,55 +1,100 @@
-> *The following text is extracted and transformed from the lodgify.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327003103id_/http%3A//www.lodgify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lodgify.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121035115id_/http%3A//www.lodgify.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Lodgify
 
-1\. INTRODUCTION 
+Last Updated: 06.06.2016
 
-Lodgify is serious about protecting the privacy of our Users. This privacy policy describes how and why we obtain, store and process data which can identify our Users. 
+1\. INTRODUCTION
+
+Lodgify is serious about protecting the privacy of our users. This privacy policy sets out the basis on which any personal data we collect from users, or that users provide to us, will be processed by us.
+
+Please read the following carefully to understand our views and practices regarding personal data and how we will treat it. By visiting Lodgify.com or otherwise communicating with us, users are accepting and consenting to the practices described in this policy.
+
+For the purpose of the Data Protection Act 1998, the data controller is Codebay Solutions Limited of Magma House, 16 Davy Court Way, Castle Mound Way, Rugby, Warwickshire, CV23 0UZ, United Kingdom (trading as Lodgify).
+
+Our ICO Registration Number is: ZA188069.
 
 2\. INFORMATION COLLECTION
 
-a) The information we collect from our Users is clearly set out on the web page on which we collect it. The information includes but is not limited to name, email address, postal address, billing address, telephone number, username and password.  
-b) We also collect the Internet Protocol (IP) address and Cookie information of our Users.  
-c) We do not store credit card numbers of our Users. In order to pay for the fees related to our Services we use third party payment processors that will store credit card numbers of our Users.  
-d) Users may provide information of their properties that they advertise using our Services. This property information, including but not limited to the property address, is available to the public and can be viewed by any user as it serves to the purpose of advertising the property. The property information may also be sent to our partner websites for the purpose of advertising the property.  
-e) We use a third party to gather information about how our Users use our Website.
+We may collect and process the following data about you:
+
+a) Users may give us information about themselves by filling in forms on Lodgify.com or by corresponding with us by phone, e-mail address or otherwise. This includes information you provide when you register for a Customer Account. This information includes but is not limited to name, email address, postal address, billing address, telephone number, username and password.
+
+b) Users may also give us information about the properties that they advertise using our Services, including the property address.
+
+c) Upon each of the User's visits to Lodgify.com, we may automatically collect technical information, including the Internet Protocol (IP) address used to connect users' computers to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
+
+d) We may also collect information about users' visit to Lodgify.com, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time), page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.
+
+e) We do not collect payment card details of our users. In order to pay for the fees related to our Services we use third party payment processors that will collect and process the payment card details of our users.
+
+f) We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers) and may receive information about you from them.
 
 3\. INFORMATION USAGE
 
-We collect information about our Users in order to promote the Services, customize the Services to the individual needs of our Users, understand and optimize how our Services are used, support and assist our Users in using the Services, improve the Services and contact the Users with important Service updates and to send messages that are integral to the Services. 
+We use information held about our users in order to:
+
+  * provide users with the Services, and other information, products and services our users request;
+  * provide users with information about other services we offer that are similar to those that users have already purchased or enquired about;
+  * to provide users with information about dissimilar and unrelated goods or services we feel may interest them (only if users have consented to this);
+  * customize the Services to the individual needs of our users;
+  * understand and optimize how our Services are used, and improve the Services including by ensuring content is presented in the most effective manner for users and their computers;
+  * support and assist our users in using the Services; and
+  * measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
+  * notify users about changes to our Services. 
+
+
 
 4\. INFORMATION SHARING AND DISCLOSURE
 
-a) We do not share contact details of our Users with third parties if we do not have the Userâ€™s consent to share that information.   
-b) We do not sell your personal information to third parties.  
-c) We have business partners, including but not limited to tracking companies to analyze the Website visit of our Users for our own statistical use, advertising companies to serve ads when Users visit the Websites and payment processing companies to process payments of our Users. These third parties are authorized to use the personal information of our Users only as necessary to provide these services to us.  
-d) In certain circumstances we may need to disclose the personal information of our Users as required by law such as to comply with a subpoena, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect the safety of our users or the safety of others, investigate fraud, or respond to a government request, if we are involved in a merger, acquisition, or sale of all or a portion of its assets. We will notify our users via email and/or a prominent notice on our Website of any change in ownership or uses of personal information to any other third party with the Userâ€™s prior consent to do so.  
-e) Information collected from our Users may be stored and processed in the UK, EU and United States and by using the Services, our Users acknowledge and agree that they may be transferring their personal data outside of the country in which they have contributed it, and that they consent to any such transfer of information outside of their country. These countries may not have similar data protection laws to those that apply in the European Union (EU).
+a) We may share our users' information with selected third parties including:
 
-5\. NEWSLETTER
+  * our business partners and service providers, such as our channel managers, payment providers and third party applications which integrate with the Services, for the performance of any contract we enter with them or our users;
+  * advertisers that require the information to select and serve relevant adverts to our users and others; and
+  * analytics providers that assist us in the improvement and optimization of Lodgify.com and the Services. 
 
-Users will only receive a newsletter from us if we have their consent. Users may choose to stop receiving our newsletter or marketing emails anytime by following the unsubscribe instructions included in these emails, or unsubscribing within the user account or Users can contact us at support@lodgify.com. 
 
-6\. SECURITY
 
-The security of our Usersâ€™ personal information is important to us. When our Users enter sensitive information (such as credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). We take reasonable steps to protect our Userâ€™s information. Nevertheless, please note that no data transmission over the Internet or information storage technology can be guaranteed to be totally secure. As a result, whilst we strive to protect our Userâ€™s information, we cannot ensure or warrant the security of any information which they send to us, and the Users do so at their own risk. 
+These third parties are authorized to use the personal information of our users only as necessary to provide these services to us and in accordance with this Privacy Policy.
 
-7\. COOKIES
+b) In certain circumstances we may need to disclose the personal information of our users as required by law, or when we believe in good faith that disclosure is necessary to protect our rights, protect the safety of our users or the safety of others, investigate fraud, or respond to a government request.
 
-We may use cookies, for example, to keep track of our usersâ€™ preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information. 
+c) In the event we are involved in a merger, acquisition, or a sale or purchase of all or a portion of our assets or business, the personal data held by us may be disclosed to prospective and actual sellers or buyers of such business or assets. 
 
-8\. LINKS TO THIRD PARTY WEBSITES
+Other than as set out above or otherwise consented to by the user, we will not share the personal data of our users with third parties. 
 
-Our website includes links to third party websites whose privacy practices may differ from ours. If Users submit personal information to any of those sites, the User information is governed by their privacy statements. 
+In no event will we sell users' personal information to third parties.
 
-9\. INFORMATION ACCESS AND UPDATE
+5\. STORAGE AND TRANSFER OF DATA
 
-If Users request it, users can view and edit the information we have about them at any time. 
+Information collected from our users may be stored in or transferred to a destination outside the European Economic Area (EEA). It may also be processed by staff operating outside the EEA who work for us or one of our business partners or service providers. By using the Services, our users acknowledge and agree that we may be transferring, storing and processing their personal data outside of the country in which they reside. We will take all steps reasonable necessary to ensure that our users' data is treated securely and in accordance with this privacy policy.
 
-10\. CHANGES TO THIS PRIVACY POLICY
+6\. NEWSLETTER
 
-We reserve the right to change this policy from time to time. To keep up-to-date with our policies, please check this page frequently. The new version of this Privacy Policy will immediately take effect, and will govern the usage of the Services and your relationship with us. 
+Users will only receive a newsletter containing marketing content from us if we have their consent pursuant to clause 3 of this Privacy Policy. Users may choose to stop receiving our newsletter or marketing emails anytime by following the unsubscribe instructions included in these emails, or unsubscribing within the Customer Account or contacting us at support@lodgify.com.
 
-11\. QUESTIONS
+7\. SECURITY
 
-If you have any questions regarding this Privacy Policy, please contact us support@lodgify.com. We will endeavor to respond to you promptly. Our mail address is Codebay Solutions Limited, 301 Linen Hall, 162-168 Regent Street, W1B 5TD, London, United Kingdom - Phone: +34-622-511-533. 
+The security of our users' personal information is important to us. When our users enter sensitive information on our site, we encrypt the transmission of that information using secure socket layer technology (SSL). We take reasonable steps to protect our users' information.
+
+Nevertheless, please note that no data transmission over the Internet or information storage technology can be guaranteed to be totally secure. As a result, whilst we strive to protect our users' information, we cannot ensure or warrant the security of any information which users send to us, and the users do so at their own risk.
+
+8\. COOKIES
+
+We may use cookies to distinguish one user from another. For detailed information on the cookies we use and the purposes for which we use them see our Cookie policy <http://www.lodgify.com/cookie-policy>.
+
+9\. LINKS TO THIRD PARTY WEBSITES
+
+Lodgify.com includes links to third party websites whose privacy practices may differ from ours. If users submit personal information to any of those sites, the site operators' use of this user information will be governed by their privacy statements. Please check these policies before you submit any personal data to these websites.
+
+10\. INFORMATION ACCESS AND UPDATE
+
+The Data Protection Act 1998 (UK) gives users the right to access information held about them. Users' right of access can be exercised in accordance with this Act. Any access request may be subject to a fee of Â£10 to meet our costs in providing users with details of the information we hold about users.
+
+11\. CHANGES TO THIS PRIVACY POLICY
+
+We reserve the right to change this policy from time to time. Where appropriate, we will notify you in advance of changes via email. To keep up-to-date with our policies, please check this page frequently.
+
+12\. QUESTIONS
+
+If you have any questions regarding this Privacy Policy, please contact us support@lodgify.com. We will endeavor to respond to you promptly.
