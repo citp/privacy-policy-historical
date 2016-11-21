@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkforex.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405050911id_/http%3A//www.thinkforex.com/why-thinkforex/regulation/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkforex.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121010654id_/http%3A//www.thinkforex.com/why-thinkforex/regulation/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | ThinkForex
 
