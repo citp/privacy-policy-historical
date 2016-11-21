@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wavestreaming.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624052003id_/http%3A//wavestreaming.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wavestreaming.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121102205id_/http%3A//www.wavestreaming.com/about-us/privacy) for the most accurate reproduction.*
 
 # Wavestreaming / Privacy Policy /
 
