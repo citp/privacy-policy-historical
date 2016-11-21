@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the enagames.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530134119id_/http%3A//www.enagames.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enagames.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121132650id_/http%3A//www.enagames.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Escape Games for Online , EnaGames New Escape Games Everyday
+# Privacy Policy - Escape Games Online , EnaGames New Escape Games Everyday, Room escape, escape room, best escape games, kids escape, puzzles, puzzle escape
 
 **Solitude Policy  
 **
