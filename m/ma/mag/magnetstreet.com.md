@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magnetstreet.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609073525id_/http%3A//www.magnetstreet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magnetstreet.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121150257id_/http%3A//www.magnetstreet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,6 +35,10 @@ In order to provide you with the full range of products and services available t
   * #### Information You Provide.
 
 When you make a purchase, sign up for any MagnetStreet services, or submit a request for information or assistance, you will be asked to submit personally identifiable information, such as your name, address, email address, or telephone number, and, where relevant, payment information, through MagnetStreet's secure online order form. 
+
+  * #### Payment Information.
+
+MagnetStreet will never share your payment instrument information with any person other than as necessary to process the payments you authorize. MagnetStreet does not store your payment instrument information on MagnetStreet's servers. Rather, we partner with Braintree Payment Services (“Braintree”), a globally respected payment gateway, to leverage its secure vault solutions for all payment instrument storage. All data sent to MagnetStreet’s servers is encrypted and our servers are protected by industry standard measures. By leveraging Braintree for storage, we are able to add another powerful layer of security to MagnetStreet. 
 
   * #### Cookies.
 
