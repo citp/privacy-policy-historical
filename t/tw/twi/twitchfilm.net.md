@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the twitchfilm.net privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611111240id_/http%3A//twitchfilm.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitchfilm.net privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121153901id_/http%3A//screenanarchy.com/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - ScreenAnarchy
 
 Revised: July 13, 2013 
 
-The following Privacy Policy summarizes the various ways that Twitchfilm, LLC ("Twitch," "Service Provider," "we" or "our") treats the information You provide, either directly or indirectly, while accessing any website owned or controlled by Twitch ("Website" or "Websites"). Please read this statement carefully before using or accessing our Websites, since your use of and/or registration on any aspect of our Website will constitute your agreement to this Privacy Policy. If you cannot agree with the terms and conditions of this Privacy Policy, please do not use our Website. Also, please be aware that our Privacy Policy does not cover information collected elsewhere, including without limitation sites linked to from our Website, cookies placed on you computer by third party advertisers on our site, or third parties providing services to our Website. This privacy statement covers the use of cookies by Twitch only and does not cover the use of cookies by any advertisers 
+The following Privacy Policy summarizes the various ways that ScreenAnarchy LLC ("ScreenAnarchy," "Service Provider," "we" or "our") treats the information You provide, either directly or indirectly, while accessing any website owned or controlled by ScreenAnarchy ("Website" or "Websites"). Please read this statement carefully before using or accessing our Websites, since your use of and/or registration on any aspect of our Website will constitute your agreement to this Privacy Policy. If you cannot agree with the terms and conditions of this Privacy Policy, please do not use our Website. Also, please be aware that our Privacy Policy does not cover information collected elsewhere, including without limitation sites linked to from our Website, cookies placed on you computer by third party advertisers on our site, or third parties providing services to our Website. This privacy statement covers the use of cookies by ScreenAnarchy only and does not cover the use of cookies by any advertisers 
 
 This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy. 
 
@@ -39,7 +39,7 @@ We reserve the right to use the information we collect about your computer, in c
 While your personally identifying information is protected as outlined above, we do reserve the right to use, transfer, sell, and share aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners. 
 
 3\. Business Transition Notice  
-As our business changes, we may buy or sell various assets. In the event all or a portion of the assets owned or controlled by Twitch, its parent or any subsidiary or affiliated entity are sold, assigned, transferred or acquired by another company, the information from and/or about our Website and the Website users may be among the transferred assets. 
+As our business changes, we may buy or sell various assets. In the event all or a portion of the assets owned or controlled by ScreenAnarchy, its parent or any subsidiary or affiliated entity are sold, assigned, transferred or acquired by another company, the information from and/or about our Website and the Website users may be among the transferred assets. 
 
 II. THIRD PARTY ADVERTISING & COOKIES 
 
@@ -59,13 +59,13 @@ IV. ACCESS BY CHILDREN
 
 This Website is not intended for use by children under the age of 18, and especially those under age 13. No one under age 18 is allowed to provide any personal information, register for accounts, or use our public discussion areas, forums and chats. Parents, if your children disclose information about themselves in publicly accessible areas of the Website or create accounts to message other members, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so. If you're worried about your children's activities or their privacy on our site, we encourage you to contact our Privacy Policy Coordinator as described below: 
 
-Twitchfilm, LLC  
+ScreenAnarchy LLC  
 ATTN: Privacy Policy Coordinator  
 4223 Glencoe Ave.  
 Suite B119  
 Marina Del Rey, CA 90292  
 Fax: (310) 827-7690  
-E-mail: privacy (hat or at) twitchfilm {dot} net  
+E-mail: privacy (hat or at) screenanarchy (dot) com  
 
 
 If you don't agree to the terms contained in this Privacy Policy, please exit the Website by closing this window or clicking the Back button on your browser until you return to a page not under the control of the Service Provider. 
