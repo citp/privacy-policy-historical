@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the terezowens.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609193323id_/http%3A//terezowens.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terezowens.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121063427id_/http%3A//terezowens.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Terez Owens
+# Privacy Policy | Terez Owens - #1 Sports Gossip Blog
 
 Your privacy on the Internet is important to us. As a part of the operation of TerezOwens.com, we gather your e-mail address only when you submit it to subscribe to our newsletter. We respect your privacy and will not share or sell your e-mail adress to a third party. However, we may use it to contact you regarding site updates, news, and information.
 
@@ -17,3 +17,17 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
 
 If you have any question about this privacy, please contact us using the contact form.
+
+#### Trending on TEREZ
+
+### Jimmy Kimmel Tries to Prove Dinosaurs Are Real to LA Rams Player
+
+### Tristan Thompson and Khloe Have Said ‘I Love You’
+
+### Nate Diaz Female Friendly At 1 Oak In NYC
+
+### Josh Norman Kicks It On His Ranch
+
+### Lochte’s Fiancee Opens Up About ‘Bad Boob Job’
+
+### Golden State Warriors ‘Mom’ Fan Back at It
