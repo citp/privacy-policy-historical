@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the shoptalk.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531190750id_/http%3A//shoptalk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoptalk.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121065529id_/http%3A//www.shoptalk.com/page/privacy) for the most accurate reproduction.*
 
-# SHOPTALK | Privacy Policy
+# Privacy Policy — Shoptalk: the nextgen commerce event
 
 Shoptalk ("we" or "us") recognizes the importance of respecting the privacy of those who visit our website (our "Site"). We believe it is important for you to know how we treat the information about you that we receive during your visits to our Site. This Privacy Policy is designed to assist you in understanding how we collect, disclose, and safeguard various types of information, including the personally identifiable information you provide to us via our Site.
 
 This Privacy Policy applies only to the information that we collect on our Site and not to any information that we collect through other methods or sources, including sites owned or operated by our affiliates, vendors, or partners. Please note that when you link from our Site to other websites, this Privacy Policy no longer applies.
 
-You acknowledge that, by accessing or using our Site, you agree to be bound by all of the terms and conditions of use pertaining to our Site and contained in the Terms of Use (available at www.shoptalk.com), including this Privacy Policy. If you do not agree with this Privacy Policy, please do not access or use our Site.
+You acknowledge that, by accessing or using our Site, you agree to be bound by all of the terms and conditions of use pertaining to our Site and contained in the Terms of Use (available at <http://shoptalk.com/page/terms>), including this Privacy Policy. If you do not agree with this Privacy Policy, please do not access or use our Site.
 
 We reserve the right to change this Privacy Policy at any time. Such changes, modifications, additions, or deletions shall be effective immediately upon posting thereof on our Site. You acknowledge and agree that it is your responsibility to review our Site and this Privacy Policy periodically, and to be aware of any modifications. Your continued use of our Site after such modifications will constitute your: (a) acknowledgment of the modified Privacy Policy; and (b) agreement to abide and be bound by the modified Privacy Policy.
 
@@ -71,5 +71,6 @@ If you have any questions or comments about this Privacy Policy, or if you would
 E-mailing us at: info@shoptalk.com  
 Writing us at:  
 Shoptalk, LLC  
-622 Third Avenue, 35th Floor, New York, NY 10017  
+622 Third Avenue, 35th Floor, New York, NY 10017
+
 *****
