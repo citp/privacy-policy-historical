@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marineinsight.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608144337id_/http%3A//www.marineinsight.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marineinsight.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121053622id_/http%3A//www.marineinsight.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Marine Insight
 
@@ -23,7 +23,7 @@ We do not have your personal information unless it was provided to us in one of 
 **Cookies and Web Beacons  
 **
 
-Our collaborators, supporters and business partners may use cookies on our site such as advertisements, which maintain whether you have visited the site before or not. We do not have control over these cookies after permission to advertisers have been granted. However, no identifiable information is attached to such cookies. Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).)
+Our collaborators, supporters and business partners may use cookies on our site such as advertisements, which maintain whether you have visited the site before or not. We do not have control over these cookies after permission to advertisers have been granted. However, no identifiable information is attached to such cookies. Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/policies/privacy/ads/). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/choices/).)
 
 **Tracking**
 
@@ -37,7 +37,7 @@ This Website includes links to external sites as well including product sales. M
 
 We employ external Ad service companies for the display of advertisements on our site. Some of ads displayed may use cookies, but we do not have personal details or access to personal information.
 
-Some of the advertisers we employ are Google Adsense, Chitika, etc. Since we display Google AdSense, we in fact must inform that Google AdSense uses DoubleClick Dart cookie, as to provide ‘ads tailored to your interests’. In order to provide additional details, we have added a direct link for further information regarding [DoubleClick Dart cookie](http://www.doubleclick.com/privacy/faq.aspx) and Google AdSense [Privacy Policy](http://www.google.com/privacy_ads.html) (Marine Insight’s [Privacy Policy for Google Adsense](http://marineinsight.com/marine-insight-google-adsense-privacy-policy/ "google adsense privacy policy")). and means to opt out of DoubleClick Dart cookies.
+Some of the advertisers we employ are Google Adsense, Chitika, etc. Since we display Google AdSense, we in fact must inform that Google AdSense uses DoubleClick Dart cookie, as to provide ‘ads tailored to your interests’. In order to provide additional details, we have added a direct link for further information regarding [DoubleClick Dart cookie](https://www.doubleclickbygoogle.com/) and Google AdSense [Privacy Policy](http://www.google.com/policies/privacy/ads/) (Marine Insight’s [Privacy Policy for Google Adsense](http://www.marineinsight.com/marine-insight-google-adsense-privacy-policy/ "google adsense privacy policy")). and means to opt out of DoubleClick Dart cookies.
 
 Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. And, in the course of serving advertisements to this site, third party advertisers may place or recognize a unique cookie on your browser
 
