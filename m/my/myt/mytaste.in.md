@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the mytaste.in privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613160540id_/http%3A//www.mytaste.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytaste.in privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121220354id_/http%3A//www.mytaste.in/privacy) for the most accurate reproduction.*
 
-# Privacy policy - myTaste.in
+# Privacy Policy - myTaste.in
 
 ### Why do we collect information?
 
 Your privacy is important to us. We use the information we collect to develop, analyse and improve our products. We want to give our users the best experience possible and are constantly improving the products to respond to your needs and requests. For example, we may log how often people use different features of the products, to see which ones are more popular. We also collect information to be able to offer you customized content, such as offers tailored after your gender, age or geographic location. Customized content can also appear as suggested posts or recipes, based on your previous searches.
 
 In addition to improve our products we may send you updates such as newsletters, marketing materials and other information. (If you want to stop receiving this updates you can easily update you account settings on your profile page.) We may show you ads and offers that we think you might be interested in. We can also help you and your friends to find each other by scanning your Facebook friends or e-mail contacts. We will not sell or share your personally identifiable information with others without your express written consent. Just note that if you visit a third party websites through a hyperlink you will need to consult that site’s privacy policy for information on how they will handle information you may give to them.
-
-  
-
 
 ### What information do we collect?
 
