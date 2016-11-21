@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the archaeology.org privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324125907id_/http%3A//www.archaeology.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archaeology.org privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121110430id_/http%3A//www.archaeology.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Archaeology Magazine
 
@@ -22,7 +22,7 @@ Choosing to be removed from AIA emails
 
 You may contact the AIA to opt-out of emails:
 
-*By email: [This email address is being protected from spambots. You need JavaScript enabled to view it..">[webmaster@archaeological.org](mailto:webmaster@archaeological.org)](mailto:%3Cspan%20id=). Or, if you have subscribed to the e-Update, instructions to “unsubscribe” are at the bottom of each message you receive.
+*By email: [webmaster@archaeological.org](mailto:webmaster@archaeological.org). Or, if you have subscribed to the e-Update, instructions to “unsubscribe” are at the bottom of each message you receive.
 
 *By mail: Archaeological Institute of America, Attn: Publications and New Media, 656 Beacon Street, Boston, MA 02215-2006, USA.
 
