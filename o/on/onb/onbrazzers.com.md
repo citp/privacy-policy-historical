@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onbrazzers.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610024359id_/http%3A//www.onbrazzers.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onbrazzers.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121075700id_/http%3A//www.onbrazzers.com/privacy.html%3F) for the most accurate reproduction.*
 
 # OnBrazzers - Privacy Policy
 
