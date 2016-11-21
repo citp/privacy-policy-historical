@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alsa.org privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525192819id_/http%3A//www.alsa.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alsa.org privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121140710id_/http%3A//www.alsa.org/privacy-policy.html) for the most accurate reproduction.*
 
 # The ALS Association
 
