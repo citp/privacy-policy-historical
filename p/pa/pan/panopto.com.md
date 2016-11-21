@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the panopto.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910150651id_/http%3A//panopto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panopto.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121021242id_/https%3A//www.panopto.com/privacy) for the most accurate reproduction.*
 
-# Privacy and Cookie Policy | Panopto Video Platform
-
-Panopto, Inc. (“ **Panopto** ” or “we”) is committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we use and treat information that we receive from you when you visit our website, subscribe to our newsletter, download our white papers and case studies, or sign-up for our free trial.
+# Privacy and Cookie Policy - Panopto Video Platform
 
 This Privacy Policy describes our privacy practices in relation to information that we collect through the website operated by us from which you are accessing this Privacy Policy (collectively, the “Domain”), through the software applications made available by us for use on or through computers and mobile devices that link to this Privacy Policy (the “Apps”), through our social media pages and apps ( the “Social Media Pages”), and other services provided by us both online and offline; as well as through email messages that we send to you that link to this Privacy Policy (collectively, including the Domain, the Apps and the Social Media Pages, the “ **Sites** ”). “ **You** ” or a “ **user** ” refers to any individual who visits or otherwise uses the Sites. By using the Sites, you are accepting and agreeing to the practices outlined in this Privacy Policy.
 
@@ -56,9 +54,9 @@ _Analytics Cookies_. Analytics cookies collect information about your use of the
 
 _Advertising Cookies_. Advertising cookies are set to display targeted promotions or advertisements based upon your interests on the Sites or to manage our advertising. These cookies collect information about your activities on this and other sites to provide you targeted advertising.
 
-_Visitor Cookies_. When you fill out a form on the Sites (including but not limited to the free trial form, contact us form, and white paper forms), a Visitor Cookie is set in order to remember your preferences such as form field values and visited web pages. We use Pardot, a third-party marketing automation tool, to set Visitor Cookies.
+_Visitor Cookies_. When you fill out a form on the Sites (including but not limited to the free trial form, contact us form, and white paper forms), a Visitor Cookie is set in order to remember your preferences such as form field values and visited web pages. We use Marketo, a third-party marketing automation tool, to set Visitor Cookies.
 
-_Opt In_. Depending on the country from which you visit our website, you may receive a message at the top of the page on your first visit requesting permission to track your activities. More details are available in [Tracking Opt-in by Country](http://www.pardot.com/faqs/administration/tracking-opt-in-by-country/). If you click “do not track”, a small cookie is placed on your browser that signals to Pardot, our marketing automation tool, not to record or remember any of your activities while on our site. If you do not have “do not track” settings enabled in your browser and do have JavaScript enabled, your page views and other activities will be tracked on Pardot landing pages and pages on our website that include Pardot tracking code. With tracking enabled, you should not notice anything out of the ordinary other than the fact that we will “remember” the data you submit through our forms. For example, your email address will be prefilled when you return, fields that were already completed will not display again unless they’re set to “always display” in the form, and there may be new conditional fields displaying that you had not viewed before.
+_Opt In_. Depending on the country from which you visit our website, you may receive a message at the bottom of the page on your first visit notifying you of our use of cookies. By continuing to use our website without changing the cookie settings of your browser, you are opting in to our use of cookies.
 
 **How Can I Manage Cookies?**
 
