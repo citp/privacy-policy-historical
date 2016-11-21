@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deliveroo.com.au privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427125940id_/https%3A//deliveroo.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliveroo.com.au privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121070528id_/https%3A//deliveroo.com.au/privacy) for the most accurate reproduction.*
 
-# Deliveroo | Privacy
+# Privacy - Deliveroo
 
 Deliveroo Australia Pty Ltd 73 607 915 640 ("we", "our" or "Deliveroo") is committed to protecting the privacy of all visitors to our website deliveroo.com.au and all visitors who access our website or services through any mobile application (together, **"Website"** ). Please read the following privacy policy which explains how we use and protect your information. 
 
