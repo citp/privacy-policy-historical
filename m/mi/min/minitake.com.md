@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minitake.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614142754id_/http%3A//help.cigabuy.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minitake.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121075917id_/http%3A//help.cigabuy.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice - CigaBuy
 
