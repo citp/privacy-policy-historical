@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the influitive.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404145315id_/http%3A//influitive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the influitive.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121105525id_/http%3A//influitive.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Influitive
+# Privacy Policy - Influitive
 
-Last updated: August 26, 2013
-
+_Last updated: August 26, 2013  
+_  
 Influitive Corporation (“we”, “us”, “our,” or “Influitive”) created this Privacy Policy to inform our website’ visitors, users of features and functionality on our website, users of our software application on a mobile device (“application”), event registrants/participants, newsletter/information recipients, online community participants, those who purchase, use or inquire about our products and services, and others (collectively referred to here as “customers”, “you” or “your”) about our practices regarding collection, use, and disclosure of personally identifiable information (“personal data”) that we collect from them through our website: www.influitive.com and our products, services and application. While Influitive’s website or other materials may include links or references to non-Influitive websites, materials, or entities, this Privacy Policy does not apply to those non-Influitive sites, materials, or entities unless otherwise indicated.
 
 **Your Consent**
@@ -47,9 +47,3 @@ Influitive automatically collects certain statistical and other data about visit
 We reserve the right to change this Privacy Policy at any time and if we decide to do so in the future, we will post an appropriate notice on the website.
 
 You have the right to ask whether we hold any personal information about you, to see that information, and to ask us to correct or update your information. In addition, if you feel we have not dealt with your privacy-related requests or concerns to your satisfaction, or if you have any questions or concerns regarding this Privacy Policy and/or the practices of Influitive in relation to data, please contact us at privacy_officer@influitive.com.
-
-#### GET IN TOUCH TO LEARN MORE
-
-Looking to build your advocate program? Get the ball rolling by filling out our contact us form below.
-
-[Contact Us](https://web.archive.org/contact/)
