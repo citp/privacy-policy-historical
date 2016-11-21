@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dacardworld.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514220054id_/http%3A//www.dacardworld.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dacardworld.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121094518id_/http%3A//www.dacardworld.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Help and FAQs | Dave and Adam's Company Blog
 
