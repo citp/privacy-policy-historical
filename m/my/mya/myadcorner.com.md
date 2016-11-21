@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myadcorner.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501161130id_/http%3A//www.bookmyad.com/privacypolicy.aspx%3Fpage%3Dopen) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myadcorner.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121110548id_/https%3A//www.bookmyad.com/privacypolicy.aspx%3Fpage%3Dopen) for the most accurate reproduction.*
 
 # Privacy And Policy - Bookmyad
 
