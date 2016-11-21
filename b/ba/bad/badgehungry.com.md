@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badgehungry.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611083625id_/http%3A//www.badgehungry.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badgehungry.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121215246id_/http%3A//www.badgehungry.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
