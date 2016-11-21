@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indbc.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615095214id_/http%3A//www.indbc.com/accounts/help/accounts-pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indbc.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121071736id_/http%3A//www.indbc.in/accounts/help/accounts-pp.html) for the most accurate reproduction.*
 
 # INDBC Privacy Policy
 
