@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iaf.tv privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618141021id_/http%3A//iaf.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iaf.tv privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121192129id_/http%3A//iaf.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Internet Action Force
 
