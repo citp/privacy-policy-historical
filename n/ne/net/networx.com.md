@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the networx.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610032938id_/http%3A//www.networx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networx.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121074421id_/http%3A//www.networx.com/privacy) for the most accurate reproduction.*
 
 # Networx Privacy Policy
 
