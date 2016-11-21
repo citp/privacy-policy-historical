@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justairticket.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608153132id_/http%3A//www.justairticket.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justairticket.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121142313id_/http%3A//www.justairticket.com/privacyPolicy.php) for the most accurate reproduction.*
 
-# Privacy Policy justairticket,
+# 
 
 This Privacy Policy covers the information Justairticket.com website ("website", "site", and/or "We") collects from the user(s) ("User(s)" and/or "You). We are liable to collect User(s)' Personal Information whenever the User(s) registers with the Website, accesses the Website or performs any activity on the Website. 
 
