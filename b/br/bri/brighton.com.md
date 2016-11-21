@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brighton.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327035007id_/http%3A//www.brighton.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighton.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121230941id_/http%3A//www.brighton.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy & Security
 
