@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 39dollarglasses.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603183009id_/http%3A//www.39dollarglasses.com/help/Company-Information/Privacy-policy/89-What-is-your-privacy-policy%2525253f.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 39dollarglasses.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121105909id_/http%3A//www.39dollarglasses.com/help/Company-Information/Privacy-policy/89-What-is-your-privacy-policy%2525253f.html) for the most accurate reproduction.*
 
-# 39dollarglasses.com -- Help Topics - What is your privacy policy%3f
+# 39dollarglasses.com -- Help Topics - What is your privacy policy?
 
 Effective on November 2, 2010
 
@@ -26,7 +26,7 @@ We use this information to
 \- Conduct research and analysis
 
 **Choice/Opt-Out**  
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [contact@39dollarglasses.com](https://web.archive.org/web/20160603183009id_/http%3A//www.39dollarglasses.com/help/Company-Information/Privacy-policy/contact@39dollarglasses.com).
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [contact@39dollarglasses.com](https://web.archive.org/web/20161121105909id_/http%3A//www.39dollarglasses.com/help/Company-Information/Privacy-policy/contact@39dollarglasses.com).
 
 **Information Sharing**  
 We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
@@ -57,7 +57,7 @@ The security of your personal information is important to us. When you enter sen
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
 We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  
-If you have any questions about security on our Web site, you can contact us at [contact@39dollarglasses.com](https://web.archive.org/web/20160603183009id_/http%3A//www.39dollarglasses.com/help/Company-Information/Privacy-policy/contact@39dollarglasses.com).
+If you have any questions about security on our Web site, you can contact us at [contact@39dollarglasses.com](https://web.archive.org/web/20161121105909id_/http%3A//www.39dollarglasses.com/help/Company-Information/Privacy-policy/contact@39dollarglasses.com).
 
 **Additional Policy Information**  
 Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
@@ -65,7 +65,7 @@ Our Web site includes Widgets, which are interactive mini-programs that run on o
 Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
 
 **Correcting and Updating Your Personal Information**  
-To review and update your personal information to ensure it is accurate, contact us at [contact@39dollarglasses.com](https://web.archive.org/web/20160603183009id_/http%3A//www.39dollarglasses.com/help/Company-Information/Privacy-policy/contact@39dollarglasses.com).
+To review and update your personal information to ensure it is accurate, contact us at [contact@39dollarglasses.com](https://web.archive.org/web/20161121105909id_/http%3A//www.39dollarglasses.com/help/Company-Information/Privacy-policy/contact@39dollarglasses.com).
 
 **Notification of Privacy Statement Changes**  
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
@@ -77,5 +77,5 @@ Value Eyecare Network, Inc.
 60 Plant Ave  
 Suite 4  
 Hauppauge, NY, 11788  
-Email: [contact@39dollarglasses.com](https://web.archive.org/web/20160603183009id_/http%3A//www.39dollarglasses.com/help/Company-Information/Privacy-policy/contact@39dollarglasses.com)  
+Email: [contact@39dollarglasses.com](https://web.archive.org/web/20161121105909id_/http%3A//www.39dollarglasses.com/help/Company-Information/Privacy-policy/contact@39dollarglasses.com)  
 Phone: 1-800-672-6304
