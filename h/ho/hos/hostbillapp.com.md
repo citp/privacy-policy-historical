@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostbillapp.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605192546id_/http%3A//hostbillapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostbillapp.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121014502id_/http%3A//hostbillapp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HostBill | Complete Client Management, Support and Billing Software for WebHosts
 
@@ -9,15 +9,15 @@ This Privacy Policy document is to demonstrate our commitment to customer privac
 
 #### Personal Information
 
-KP Software collects only personally identifiable information about customers who supplied it voluntarily during the order process on our website. This information is kept in our database and will not be shared with or sold to any third parties, with the exception of financial institutions in cases where identity theft or fraud is suspected. Personally identifiable information is collected by KP Software only for normal business purposes, to deliver products and services, administer customer accounts, and provide customer support.
+HostBill collects only personally identifiable information about customers who supplied it voluntarily during the order process on our website. This information is kept in our database and will not be shared with or sold to any third parties, with the exception of financial institutions in cases where identity theft or fraud is suspected. Personally identifiable information is collected by HostBill only for normal business purposes, to deliver products and services, administer customer accounts, and provide customer support.
 
 #### Mailing List
 
-All of our customers' email addresses are automatically subscribed to our mailing list. This mailing list is used for sending updates and the latest announcements regarding KP Software, new products, security updates and other information that may be of interest to hosting companies. As with customers' personal information, email addresses will not be sold or shared with third parties.
+All of our customers' email addresses are automatically subscribed to our mailing list. This mailing list is used for sending updates and the latest announcements regarding HostBill, new products, security updates and other information that may be of interest to hosting companies. As with customers' personal information, email addresses will not be sold or shared with third parties.
 
 #### Confidentiality and Security Safeguards
 
-KP Software takes reasonable precautions to protect personally identifiable information against loss, misuse or unauthorized access. Such information is only accessible to authorized personnel who need it in order to perform their jobs.
+HostBill takes reasonable precautions to protect personally identifiable information against loss, misuse or unauthorized access. Such information is only accessible to authorized personnel who need it in order to perform their jobs.
 
 #### External Links
 
