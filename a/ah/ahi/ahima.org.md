@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahima.org privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612144858id_/http%3A//www.ahima.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahima.org privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121053700id_/http%3A//www.ahima.org/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -28,9 +28,7 @@ AHIMA may use the personal information collected through this site to provide yo
 
 AHIMA does not sell or rent the contact information of its members or customers. From time to time we may share information with carefully selected organizations so that they may contact you with information of interest, such as:
 
--A one-time per year opportunity for accredited and approved educational programs to purchase a list of prospective students. Members and customers can opt out of these communications by changing their online communications preferences.
-
--Exhibitors and sponsor may receive attendee lists (name, title, and mailing address). Attendees have the opportunity to opt out of these mailings when registering for an event. 
+-Exhibitors and sponsor may receive attendee lists (name, title, and mailing address). Attendees have the opportunity to opt out of these mailings when registering for an event.
 
 While we encourage component state associations to adopt the same policy, some states do occasionally rent mailing lists of their members. If a state association decides to release its mailing list, we strongly encourage them to release lists only to promote HIM products, services, or employment opportunities. AHIMA communication preferences are indicated on the member data reports AHIMA provides to state associations.
 
