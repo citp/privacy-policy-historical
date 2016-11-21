@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livenation.co.uk privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506103209id_/http%3A//www.livenation.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livenation.co.uk privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121023926id_/http%3A//www.livenation.co.uk/privacy) for the most accurate reproduction.*
 
 # Live Nation UK
 
