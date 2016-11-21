@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishloop.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619004143id_/http%3A//wishloop.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishloop.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121104706id_/http%3A//wishloop.com/privacy.html) for the most accurate reproduction.*
 
 # Wishloop - The Website Conversion Engine
 
