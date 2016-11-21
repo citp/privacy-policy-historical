@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the henkel.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610185632id_/http%3A//www.henkel.com/privacy-statement%3FpageID%3D9388) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henkel.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121094700id_/http%3A//www.henkel.com/privacy-statement%3FpageID%3D9388) for the most accurate reproduction.*
 
 # Privacy Statement
 
