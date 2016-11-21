@@ -1,19 +1,21 @@
-> *The following text is extracted and transformed from the minecraftposts.net privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627183706id_/http%3A//minecraftposts.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minecraftposts.net privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121115013id_/http%3A//minecraftposts.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MinecraftPosts
 
-This privacy policy sets out how minecraftposts.net uses and protects any information that you give minecraftposts.net when you use this website.
+### Information
+
+This privacy policy sets out how MinecraftPosts.net uses and protects any information that you give MinecraftPosts.net when you use this website.
 
 MinecraftPosts.net is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-MinecraftPosts.net may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 2015/11/15.
+MinecraftPosts.net may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 2015/04/28.
 
 **What we collect**
 
 We may collect the following information:
 
-  * Demographic information such as postcode, preferences and interests.
-  * Other information relevant to customer surveys and/or offers.
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
 
 
@@ -32,7 +34,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 We use the following ad networks:
 
-  * Google Adsense ([Privacy Policy](http://www.google.com/privacy.html)).
+  * Google Adsense ([Privacy Policy](http://www.google.com/privacy.html))
 
 
 
@@ -44,7 +46,7 @@ We use the following ad networks:
 
 
 
-### **Security**
+### Security
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
@@ -60,4 +62,4 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-<http://minecraftposts.net/contact-us/>
+[http://MinecraftPosts.net/contact-us/](http://minecraftposts.net/contact-us/)
