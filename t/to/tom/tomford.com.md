@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomford.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623014106id_/http%3A//www.tomford.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomford.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121013812id_/http%3A//www.tomford.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | TomFord.com
 
@@ -105,7 +105,7 @@ If you prefer not to have personal information collected from you (other than wh
 
 If you prefer that we not share personal information provided by you with third parties for promotional and marketing purposes, please let us know by emailing, writing or calling us as described below and identify the personal information that do not wish us to share. We will process your instructions as soon as reasonably practicable and in accordance with applicable law.
 
-Emailing us at: assistance@tomfordinternational.com from the email address which you wish to have removed (i.e. not shared with third parties), and include your postal mailing address in the message; or
+Emailing us at: [assistance@tomfordinternational.com](mailto:assistance@tomfordinternational.com) from the email address which you wish to have removed (i.e. not shared with third parties), and include your postal mailing address in the message; or
 
 Writing us at:
 
@@ -119,9 +119,9 @@ These instructions, however, do not apply to non-promotional transactional messa
   
 _Corrections_
 
-If you would like to update or correct information previously provided to us, please send an e-mail with your new information, including your complete name, postal address, and email address to assistance@tomfordinternational.com.
+If you would like to update or correct information previously provided to us, please send an e-mail with your new information, including your complete name, postal address, and email address to [assistance@tomfordinternational.com](mailto:assistance@tomfordinternational.com).
 
   
 _Contact us_
 
-It is important for us to know what visitors have to say about our website. To contact us with your questions or comments please email us at assistance@tomfordinternational.com.
+It is important for us to know what visitors have to say about our website. To contact us with your questions or comments please email us at [assistance@tomfordinternational.com](mailto:assistance@tomfordinternational.com).
