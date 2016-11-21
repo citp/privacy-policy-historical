@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nlb.gov.sg privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618115541id_/https%3A//www.nlb.gov.sg/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nlb.gov.sg privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121094726id_/http%3A//nlb.gov.sg/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # National Library Board > Privacy Statement
 
