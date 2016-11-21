@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freebiesfrenzy.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624135929id_/http%3A//freebiesfrenzy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebiesfrenzy.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121162246id_/http%3A//freebiesfrenzy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
@@ -86,4 +86,4 @@ FreebiesFrenzy.com reserves the right to change this Privacy Policy from time to
 
 11) CONTACT INFORMATION:
 
-If you have any questions or concerns regarding this Privacy Policy please contact us using our contact form on our website.
+If you have any questions or concerns regarding this Privacy Policy please [contact us](http://freebiesfrenzy.com/contact-us/).
