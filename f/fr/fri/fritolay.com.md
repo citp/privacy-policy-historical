@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the fritolay.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615003439id_/http%3A//www.fritolay.com/legal/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fritolay.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121061651id_/http%3A//www.fritolay.com/legal/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Frito-Lay Privacy Policy  
-Effective June 1, 2013, last updated February 1, 2014**This Privacy Policy applies to Frito-Lay’s digital platforms.  This includes our websites, social media and mobile applications.  This policy applies to all platforms where the policy is posted. This includes our company website at [www.fritolay.com](http://www.fritolay.com/) and Frito-Lay brand websites.
+Effective June 1, 2013, last updated July 12, 2016**This Privacy Policy applies to Frito-Lay’s digital platforms.  This includes our websites, social media and mobile applications.  This policy applies to all platforms where the policy is posted. This includes our company website at [www.fritolay.com](http://www.fritolay.com/) and Frito-Lay brand websites.
 
   This policy explains:
 
@@ -34,11 +34,15 @@ Click on one of the links above to go directly to a particular topic.  Or, you 
 
   **Demographic information.** We may collect information like your gender and age. We may collect your zip code (for example, to help you find a store that sells our products).
 
+**Payment information.** We may collect your credit card number and shipping address if you make a purchase.
+
 **Other information.**   If you use our website, we may collect information about the browser you’re using. We might look at what site you came from, or what site you visit when you leave us. In a mobile environment, we might collect your location.
+
+**Job application information.** If you apply for a job, we collect information about you, your prior education and work history and your skills and qualifications for the position.  We may ask about your salary expectations, how you learned of the position and your driving record or other information about your ability to perform the position. We may also collect the last four digits of your social security number and your nationality.
 
   **HOW WE COLLECT INFORMATION.  
 **  
-**We collect information directly from you.** We collect information if you sign up for a newsletter, enter a promotion or fill out an online survey.
+**We collect information directly from you.** We collect information if you sign up for a newsletter, enter a promotion or fill out an online survey. We also collect information if you make a purchase or apply for a job.
 
   **We collect information from you passively.** We may use tracking tools like browser cookies and web beacons. We also collect information from our mobile apps.
 
@@ -46,7 +50,7 @@ Click on one of the links above to go directly to a particular topic.  Or, you 
 
    **HOW WE USE INFORMATION.  
 **  
-**We use information to respond to your requests or questions.** We may use your information to respond to your comments and questions, or to notify you if you win a contest or sweepstakes.
+**We use information to respond to your requests, questions, applications and entries.** We may use your information to respond to your comments and questions, to notify you if you win a contest or sweepstakes or complete a purchase. If you apply for a job, we may use your information to process your application and determine if you are qualified.
 
 **We use information to improve our products and services.** We may use your information to make our websites and products better. We might use your information to customize your experience with us. We may combine information we get from you with information about you we get from third parties.
 
@@ -80,9 +84,7 @@ If you reside in California, you have the right to ask us one time each year if 
 
 **OUR SITES ARE NOT FOR KIDS.**
 
-Our sites and apps are meant for adults and teens. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can [contact us](https://web.archive.org/contact) to remove the information. Our contact information is listed below.
-
-Parents can learn more about how to protect children's privacy on-line here: <http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm>
+Our sites and apps are meant for adults and teens. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can [contact us.](https://web.archive.org/contact) Parents can learn more about how to protect children's privacy on-line here: <https://www.consumer.ftc.gov/topics/protecting-kids-online>
 
 **WE USE STANDARD SECURITY MEASURES.**
 
