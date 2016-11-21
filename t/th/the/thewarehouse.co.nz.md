@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thewarehouse.co.nz privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620231357id_/http%3A//www.thewarehouse.co.nz/red/content/homepage/security-payment/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewarehouse.co.nz privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121124041id_/http%3A//www.thewarehouse.co.nz/privacy-security/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy - Security & Payment - Content Pages - The Warehouse
+# Privacy Policy
 
 The Warehouse Limited (“The Warehouse”) has this Privacy Policy in order to demonstrate our commitment to protecting your privacy. We recognise that your personal information is confidential and that it is important for you to know how we handle, gather, store and use your personal information. By entering any of our stores, using our website, mobile site, apps or store Wi-Fi or participating in our database and promotions, you acknowledge that your personal information will be treated in accordance with the details of this Privacy Policy.
 
@@ -10,20 +10,20 @@ Please read on for more information about our Privacy Policy.
 
 This policy addresses the following: 
 
-1\. What is considered personal information?   
+1\. What is considered personal information?  
 2\. What personal information do we collect and hold?  
 3\. Why do we collect personal information?  
 4\. What happens if we are not able to collect personal information?  
-5\. How do we collect personal information?   
-6\. How do we use cookies?   
+5\. How do we collect personal information?  
+6\. How do we use cookies?  
 7\. What may we do with your information?  
-8\. Do we use personal information for marketing?   
-9\. How do we use mobile?   
-10\. How do we disclose personal information?   
-11\. How can you access or correct personal information?   
-12\. How can you complain about a breach of privacy?   
-13\. Will your personal information be disclosed outside of NZ?   
-14\. What security measures are in place?   
+8\. Do we use personal information for marketing?  
+9\. How do we use mobile?  
+10\. How do we disclose personal information?  
+11\. How can you access or correct personal information?  
+12\. How can you complain about a breach of privacy?  
+13\. Will your personal information be disclosed outside of NZ?  
+14\. What security measures are in place?  
 15\. Have there been any recent changes to the Privacy Policy?
 
 **1\. WHAT IS CONSIDERED PERSONAL INFORMATION?**
@@ -41,7 +41,7 @@ We may collect the following types of personal information:
   * Age or birth date
   * Profession, occupation or job title
   * Details of the products and services you have purchased from us or which you have enquired about, together with any additional information necessary to deliver those products and services and to respond to your enquiries
-  * Any additional information relating to you that you provide to us directly through our websites or indirectly through use of our website or online presence through our representatives or otherwise; and information you provide to us through our customer contact centre or customer surveys, or that is publically available. 
+  * Any additional information relating to you that you provide to us directly through our websites or indirectly through use of our website or online presence through our representatives or otherwise; and information you provide to us through our customer contact centre or customer surveys, or that is publically available
 
 
 
@@ -62,14 +62,14 @@ The Warehouse collects, holds, uses and discloses your personal information for 
   * To conduct competitions or promotions on behalf of The Warehouse and selected third parties
   * To verify your identity
   * To provide to third parties if you have authorised us to do so
-  * • To conduct analysis across The Warehouse Group of companies. By 'The Warehouse Group', we mean us and companies related to us, such as companies that trade under the brands Warehouse Stationery, Noel Leeming, Torpedo7, 1-day.co.nz, Warehouse Money, Warehouse Mobile and/or Diners Club (NZ) Limited. 
+  * To conduct analysis across The Warehouse Group of companies. By 'The Warehouse Group', we mean us and companies related to us, such as companies that trade under the brands Warehouse Stationery, Noel Leeming, Torpedo7, 1-day.co.nz, Warehouse Money, Warehouse Mobile and/or Diners Club (NZ) Limited.
   * To investigate if we have reason to suspect a breach of any of our terms and conditions or any suspected unlawful activity; and/or as required or permitted by any law (including the Privacy Act). 
 
 
 
 **4\. WHAT HAPPENS IF WE ARE NOT ABLE TO COLLECT PERSONAL INFORMATION?**
 
-****If you choose not to provide us with the personal information described within this policy, then:
+If you choose not to provide us with the personal information described within this policy, then:
 
   * We may not be able to provide you with the product or services you have requested, either to the same standard or at all
   * We may not be able to provide you with information about products or services that you may want, including information about discounts, sales or special promotions
@@ -207,8 +207,8 @@ We may disclose personal information to external service providers located overs
 
 **14\. WHAT SECURITY MEASURES ARE IN PLACE?**
 
-****We will take all reasonable steps to protect the personal information that we hold from misuse, loss, or unauthorised access or modification. If you suspect any misuse or loss of, or unauthorised access to, your personal information, please let us know immediately.
+We will take all reasonable steps to protect the personal information that we hold from misuse, loss, or unauthorised access or modification. If you suspect any misuse or loss of, or unauthorised access to, your personal information, please let us know immediately.
 
 **15\. HAVE THERE BEEN ANY RECENT CHANGES TO THE PRIVACY POLICY?**
 
-We may change this privacy policy from time to time. Updated versions of this privacy policy will be posted on our website. This privacy policy was last updated in June 2016. For additional information about your relationship with The Warehouse, please review our Terms and Conditions.
+We may change this privacy policy from time to time. Updated versions of this privacy policy will be posted on our website. This privacy policy was last updated in June 2016. For additional information about your relationship with The Warehouse, please review our [Terms and Conditions.](http://www.thewarehouse.co.nz/privacy-security/terms-conditions.html)
