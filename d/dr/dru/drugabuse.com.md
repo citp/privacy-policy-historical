@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugabuse.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625150723id_/http%3A//drugabuse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugabuse.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121182734id_/http%3A//drugabuse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DrugAbuse.com
 
@@ -67,3 +67,45 @@ The Site may contain links to third-party websites which may have privacy polici
 ## Contact Us
 
 If you have questions or concerns about this Privacy Policy, you can contact us by emailing [contact@recoverybrands.com](mailto:contact@recoverybrands.com).  If we need, or are required, to contact you concerning any event that involves your information, we may do so by email, telephone, or mail.
+
+##  About the DrugAbuse.com Toll-Free Helpline and Directory 
+
+Each year, the [DrugAbuse.com](http://drugabuse.com/) hotline connects thousands of people with substance abuse treatment programs throughout the U.S. toll-free. Thanks to our hotline sponsors, who answer calls 24/7, 365 days per year, you can discuss treatment options with well-established, carefully-selected providers across the country, each specializing in drug and alcohol rehabilitation. 
+
+Calls are connected with treatment organizations throughout the US depending on your zip code, IP address, the search terms you used to reach this site, and other criteria. Note that the provider you are connected with may not be in your city or even state, however it is often preferable to leave the “comforts” of your home area to treat an addiction. Your call will be answered by a treatment center advertiser who is paying to sponsor our hotline. 
+
+[DrugAbuse.com](http://drugabuse.com/) receives no compensation based on which treatment provider you ultimately choose and there is never any obligation to use the provider you’re connected with. Both our treatment directory and our hotline are offered at no cost to you, and are paid instead by participating treatment center advertisers, so we urge you to call now if you are ready for help. 
+
+##  Where Else Can I Find Help? 
+
+**National Hotlines:**
+
+SAMHSA Facility Locator - <http://findtreatment.samhsa.gov/index.html> 1-800-662-HELP (4357) Free and confidential information in English and Spanish for individuals and family members facing substance abuse and mental health issues. 24 hours a day, 7 days a week. 
+
+Suicide Prevention Lifeline - <http://www.suicidepreventionlifeline.org/> 1-800-273-TALK (8255) 24-hour, toll-free, confidential suicide prevention hotline available to anyone in suicidal crisis or emotional distress. Your call is routed to the nearest crisis center in the national network of more than 150 crisis centers. 
+
+American Association of Poison Control Centers - <http://www.aapcc.org/> For a poisoning emergency in the U.S. call 1-800-222-1222 The American Association of Poison Control Centers supports the nation’s 55 poison centers in their efforts to prevent and treat poison exposures. Poison centers offer free, confidential medical advice 24 hours a day, seven days a week 
+
+**Nonprofit Treatment Centers:**
+
+Betty Ford Center - <http://www.bettyfordcenter.org/index.php>
+
+Phoenix House - <http://www.phoenixhouse.org/>
+
+Caron - <http://www.caron.org/>
+
+Odyssey House - <http://www.odysseyhouse.org/>
+
+Recovery Gateway - <http://recovergateway.org/>
+
+Dawn Farm - <http://dawnfarm.org/>
+
+Austin Recovery - <http://www.austinrecovery.org/>
+
+**Recovery Programs:**
+
+Alcoholics Anonymous - <http://www.aa.org/>
+
+Narcotics Anonymous - <http://www.na.org/>
+
+Smart Recovery - <http://www.smartrecovery.org/>
