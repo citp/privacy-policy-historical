@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awn.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617050712id_/http%3A//www.awn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awn.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121185836id_/http%3A//www.awn.com/privacy) for the most accurate reproduction.*
 
 # AWN Privacy Policy | Animation World Network
 
