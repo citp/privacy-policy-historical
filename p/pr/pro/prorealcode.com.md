@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prorealcode.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510054934id_/http%3A//www.prorealcode.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prorealcode.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121091903id_/http%3A//www.prorealcode.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ProRealCode | ProRealTime trading
+# Privacy Policy | ProRealTime trading
 
 **PRIVACY POLICY  
 **
