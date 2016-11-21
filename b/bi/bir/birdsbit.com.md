@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birdsbit.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628203415id_/http%3A//birdsbit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birdsbit.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121164352id_/http%3A//birdsbit.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | BirdsBit - free bitcoin game!
 
@@ -251,3 +251,17 @@ Advertising has always existed, but it wasn’t such evident at first. At the fi
 Today, the advertising in the press, TV or marketplaces in the city is surrounding us everywhere. We go to work – and read the ads on the street, we rest at home – and watch the ad on TV while waiting for the news or favorite movie. However, we don’t close our eyes to miss this information flow. Mainly we sip the information and grin and bear. Still, the trademarks, that are buying the TV advertisement time, won’t go bankrupt if you close your eyes or ears during the ads demonstration. While with the Internet ads the situation can be diametrically opposite.
 
 The big amount of websites exists just for the fees received for placing ads on their pages. It means that every user visiting the website brings a minimal profit to it. But only in the case when the user sees the ad! If the site’s visitor uses ad blockers, the website receives nothing from your visit. And this is meanly the only revenue. So how ethically right will be using the software limiting ads showing? The author assumes that this would be incorrect to use the ad blockers against people that are doing something useful. Let’s be honest – if you receive some useful information, then why not tolerate the ad on the resource you are visiting?
+
+* * *
+
+Bitcoin is a digital currency created by a math genius Satoshi Nakamoto, the personality of whom still remains a mystery. Taking into account an accurately calculated and adjusted algorithm of crypto-currency functioning, one may assume that under his guidance the whole team of talented programmers was working, or even this is the collective pseudonym.
+
+Created as an alternative to traditional fiat currencies, Bitcoin is a unique payment instrument, which is used with various goals: to pay for different transactions within the network, with the aim of accumulating or investment. 
+
+When the first crypto-currency, overcoming the sceptics hesitations, started to develop and its rate began to grow, websites appeared that offered to get free Bitcoins after several simple actions and entering captcha (or without it) – these were the so called Bitcoin faucets. However, since payments are very small to be immediately withdrawn to the Bitcoin wallet, so for their withdrawal specific services for micropayments are used. Now, Faucetbox is used with this aim most frequently – it substituted Microwallet that started to fail in 2014.
+
+Faucetbox is a system of crypto-currency micropayments. On this server small sums are transacted from the websites that give free Bitcoins, and from this server payments are calculated to the users’ Bitcoin wallets. The minimal sum for transaction is 1300 Satoshi (structural unit of Bitcoin), which is fulfilled automatically. However, this indicator can be set manually.
+
+So you may ask a logical question – why you need this service if you can make payments independently. Momentary withdrawals of Bitcoin to Faucetbox allow miners to work more effectively, saving their time. To earn more or less sufficient sum, one Bitcoin faucet is not enough, you have to surf through several dozens and do it regularly. And now imagine how much time will take the manual withdrawal, if you sum up all transactions. In addition, the system of micropayments averts servers overloads and increases the speed of transactions.
+
+One should pay attention to one more positive moment – all withdrawals that are fulfilled with the help of Faucetbox, are fee free, because they are provided within one resource. The majority of Bitcoin faucets works under the template of momentary withdrawal of Bitcoin into Faucetbox. The received money is transferred to the user’s account and are paid on the main wallet when the sum collected on it becomes equal to 1300 Satoshi (the sum can be changed in the settings). 
