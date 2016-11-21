@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the strengtheory.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629163049id_/http%3A//www.strengtheory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strengtheory.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121214805id_/http%3A//www.strengtheory.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Strengtheory
+
+strengtheory.com Privacy Policy
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -151,3 +153,13 @@ If at any time you would like to unsubscribe from receiving future emails, you c
  **•**  Follow the instructions at the bottom of each email.
 
 and we will promptly remove you from  **ALL**  correspondence.
+
+ **Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+strengtheory.com
+
+3367936381
+
+Last Edited on 2015-02-27
