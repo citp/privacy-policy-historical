@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arcadefrontier.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201063403id_/http%3A//www.arcadefrontier.com/ClientPrivacyPolicy.af) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadefrontier.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121185358id_/http%3A//www.arcadefrontier.com/privacy-policy) for the most accurate reproduction.*
 
-# ArcadeFrontier™ - The Wildest Games in the West! Play Free Online Games and Fun Premium Games. | ArcadeFrontier Client Privacy Policy
+# Privacy Policy - ArcadeFrontier
 
 ArcadeFrontier PRIVACY POLICY
 
@@ -24,13 +24,13 @@ Your dealings with Third Party Content, including, but not limited to, your inte
 
 **Collection of Personally Identifiable Information**
 
-PII is collected by ArcadeFrontier only when you provide it to us via the [Contact Us](http://arcadefrontier.com/Contact.af) page, in which the Site asks for your name and email address so that you can receive a response to any questions you may have.
+PII is collected by ArcadeFrontier only when you provide it to us via the [Contact Us](http://arcadefrontier.com/contact) page, in which the Site asks for your name and email address so that you can receive a response to any questions you may have.
 
 If you do not want us to collect your PII as described above or to use and share your PII as described further below in this Policy, you should NOT provide it to us through the Site feature described above. By providing us with your PII using this feature, you are authorizing our use and sharing of your PII as described in this Policy and any subsequent revisions to this Policy that we may publish on the Site.
 
 **Updating Your Personally Identifiable Information.**
 
-If your PII changes, or if you no longer desire our service, you may correct, update, amend, or remove it by emailing our Customer Support at support@ArcadeFrontier.com or by contacting us using our [Contact Us](http://arcadefrontier.com/Contact.af) page.
+If your PII changes, or if you no longer desire our service, you may correct, update, amend, or remove it by emailing our Customer Support at support@ArcadeFrontier.com or by contacting us using our [Contact Us](http://arcadefrontier.com/contact) page.
 
 We will retain your information for as long as your account is active or as needed to provide you services. In addition, we will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -98,7 +98,7 @@ The Site provides links to the websites of many third parties. If you click thro
 
 **Uninstall Software**
 
-Premium Users who have downloaded the Software and who do not want their NPII collected as described above should immediately uninstall the Software. You may uninstall the Software by going [here](http://arcadefrontier.com/Deactivate.af) and following the directions to remove the Software from your computer. Uninstalling the Software means that you will no longer have access to the Premium Games on the Site.
+Premium Users who have downloaded the Software and who do not want their NPII collected as described above should immediately uninstall the Software. You may uninstall the Software by going [here](http://arcadefrontier.com/deactivate) and following the directions to remove the Software from your computer. Uninstalling the Software means that you will no longer have access to the Premium Games on the Site.
 
 **Your California Privacy Rights**
 
