@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the meetup.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629200941id_/http%3A//www.meetup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetup.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121011133id_/https%3A//www.meetup.com/privacy) for the most accurate reproduction.*
 
 # Meetup Privacy Policy Statement
 
-Revision date: March 29, 2016 (view older versions: [5/23/10](https://web.archive.org/web/20160629200941id_/http://www.meetup.com/privacy/privacy_05232010.jsp)) 
+Revision date: March 29, 2016 (view older versions: [5/23/10](https://web.archive.org/web/20161121011133id_/https%3A//www.meetup.com/privacy_05232010.jsp)) 
 
 Below is our our revised Privacy Policy, which has been updated to reflect relationships with partners to manage advertising on other sites and services, discussed in more detail below in Section 1.3 and a newly added Section 4B.
 
