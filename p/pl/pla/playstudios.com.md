@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the playstudios.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507040923id_/http%3A//www.playstudios.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playstudios.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121121959id_/http%3A//playstudios.com/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy Policy – PlayStudios
+# Privacy Policy | Playstudios
 
 PLAYSTUDIOS, Inc. (“PLAYSTUDIOS”,” “we,” “us” or “our”) values your privacy. We offer a variety of games through various means, including our mobile application and our Facebook application (collectively, our “Applications”). On our website [www.PlayStudios.com](http://www.playstudios.com/) (the “Site”), we provide information about our products and services, including those games, and how you may redeem certain points that you earn through the Applications. In this Privacy Policy (“Policy”), we describe how we collect, use, and disclose information that we obtain about visitors to our Site and our Applications, and the services offered on each (collectively, “Services”).
 
@@ -21,71 +21,71 @@ All capitalized terms used in this Policy and not defined within the Policy are 
 
  
 
-**What Information Do We Collect About You and Why?**
+[**What Information Do We Collect About You and Why?**](https://web.archive.org/#What%20Information)
 
  
 
-**Information We Collect Directly From You and As You Play Our Games**
+[**Information We Collect Directly From You and As You Play Our Games**](https://web.archive.org/#Info%20collect%20play)
 
  
 
-**Information We Collect About You From Facebook**
+[**Information We Collect About You From Facebook**](https://web.archive.org/#Info%20Collect%20Facebook)
 
  
 
-**Information We Collect Automatically; Cookies and Other Tracking Technologies**
+[**Information We Collect Automatically; Cookies and Other Tracking Technologies**](https://web.archive.org/#Info%20automatically)
 
  
 
-**Site Analytics**
+[**Site Analytics**](https://web.archive.org/#Site%20Analytics)
 
  
 
-**How We Use Your Information**
+[**How We Use Your Information**](https://web.archive.org/#How%20we%20use%20your%20info)
 
  
 
-**How We Share Your Information**
+[**How We Share Your Information**](https://web.archive.org/#How%20we%20share%20your%20info)
 
  
 
-**Third-Party Links**
+[**Third-Party Links**](https://web.archive.org/#Third%20party%20links)
 
  
 
-**User Generated Content**
+[**User Generated Content**](https://web.archive.org/#user%20generated%20content)
 
  
 
-**Security of My Personal Information**
+[**Security of My Personal Information**](https://web.archive.org/#Security%20of%20personal%20info)
 
  
 
-**Access to My Personal Information**
+[**Access to My Personal Information**](https://web.archive.org/#access%20to%20personal%20info)
 
  
 
-**What Choices Do I Have Regarding Use of My Personal Information?**
+[**What Choices Do I Have Regarding Use of My Personal Information?**](https://web.archive.org/#choices%20I%20have%20my%20personal%20info)
 
  
 
-**Third-Party Ad Networks**
+[**Third-Party Ad Networks**](https://web.archive.org/#Third%20party%20ad%20networks)
 
  
 
-**Children Under 13**
+[**Children Under 13**](https://web.archive.org/#children%20under%2013)
 
  
 
-**Special Notice to California Consumers**
+[**Special Notice to California Consumers**](https://web.archive.org/#Special%20notice%20to%20Cali%20consumers)
 
  
 
-**Contact Us**
+[**Contact Us**](https://web.archive.org/#contact%20us)
 
  
 
-**Changes to this Policy**
+[**Changes to this Policy**](https://web.archive.org/#changes%20to%20this%20policy)
 
  
 
@@ -154,7 +154,7 @@ We use the information that we gather about you for the following purposes:
   * To provide our Services to you, to communicate with you about your use of our Services, to respond to your inquiries, to fulfill your orders, and for other customer service purposes.
   * To tailor the content and information that we may send or display to you, to offer location customization, and to otherwise personalize your experiences while using the Site, Applications, or our Services.
   * Where permitted by law, and in accordance with Facebook’s applicable terms and conditions, for marketing and promotional purposes. For example, we may use your information, such as your email address, to email you news and newsletters, special offers, and promotions, or to otherwise contact you about products or information we think may interest you. We may also use the information that we learn about you to determine where to assist us in advertising our Services on third party websites.
-  * To better understand how users access and use our Services, both on an aggregated and individualized basis, in order to improve our Services, analyze player traffic and activity, respond to user desires and preferences, and for other research and analytical purposes.
+  * To better understand how users access and use our Services, both on an aggregated and individualized basis, in order to improve our Services, analyze player traffic and activity, respond to user desires and preferences, and for other research and analytical purposes. 
   * We also may post to your Facebook Wall, access posts in your news feeds, and access your Facebook data when you are not logged into Facebook. We will use and access this information for the purposes described in this section and as discussed below.
   * As required or permitted by law.
 
