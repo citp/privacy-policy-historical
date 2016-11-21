@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ag.org privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610203638id_/http%3A//ag.org/top/help/Web_Site_Policies/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ag.org privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121024059id_/http%3A//ag.org/top/help/Web_Site_Policies/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy and Security
 
