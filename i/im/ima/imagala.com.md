@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imagala.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514055843id_/http%3A//www.imagala.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagala.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121104726id_/http%3A//www.imagala.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy Imagala
 
 **Privacy and Cookie Policy**
 
