@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the altfg.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326074654id_/http%3A//www.altfg.com/film/alt-film-guide-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altfg.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121042505id_/http%3A//www.altfg.com/film/alt-film-guide-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy / Terms of Use – Alt Film Guide
+# Terms of Use / Privacy Policy – Alt Film Guide
+
+## Terms of Use / Disclaimer
+
+The information found at Alt Film Guide (“We,” “The Website”) is for general information purposes only. While We endeavor to keep the information up to date and correct, We make NO representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability (age-related or otherwise), or availability with respect to The Website itself or the information, products, services, images, or graphics found on The Website for any purpose.
+
+Additionally, bear in mind that We make NO representations or warranties of any kind, express or implied, about the content of external websites linked to from Alt Film Guide, whether those links are found in ads or in Alt Film Guide posts. The inclusion of any links does not necessarily imply a recommendation or an endorsement of either the material contained or the views expressed on other sites. If you click on any external link, whether or not We warn you of potentially unsuitable content, you're doing so at your own risk.
+
+Also bear in mind that the content found on The Website, including its Terms of Use and Privacy Policy, may be changed/revised or removed at any time without warning.
+
+And finally, you affirm that you are over the age of 13. If you are under 13, you are not authorized to access Alt Film Guide.
+
+If you do not agree with these Terms of Use, leave The Website now.
 
 ## Privacy Policy
 
@@ -19,9 +31,3 @@ For more information on our ad servers' cookies, visit:
 Note: In the future, we may use visitor information for new, unanticipated uses not previously disclosed in our privacy notice. In case our cookie use or data collection changes at some time in the future, we will update our website to notify you of these changes.
 
 You may opt out from such collection via opt-out services such as the Network Advertising Initiative <http://www.networkadvertising.org/choices/>.
-
-## Terms of Use / Disclaimer
-
-The information contained in this website is for general information purposes only. The information is provided by Alt Film Guide and while we endeavor to keep the information up to date and correct, we make NO representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the website itself or the information, products, services, images, or graphics found on this website for any purpose. Note that the content found on the website may be changed at any time without warning.
-
-And finally, bear in mind that Alt Film Guide has NO responsibility for the content of external websites linked to from this site, whether those links are found in ads or in Alt Film Guide posts. The inclusion of any links does not necessarily imply a recommendation or an endorsement of the views expressed on other sites. If you click on any external link, you're doing so at your own risk.
