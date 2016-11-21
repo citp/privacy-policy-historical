@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the englishteststore.net privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608013103id_/http%3A//englishteststore.net/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D374%26Itemid%3D358) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishteststore.net privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121135224id_/http%3A//englishteststore.net/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D374%26Itemid%3D358) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -18,9 +18,9 @@ We use cookies and tracking technologies in a variety of ways, including:
 5. Displaying the most appropriate advertising or content based on your interests.  
 We allow other companies that are presenting advertisements on our sites and, sometimes, in our newsletters to use tracking technology on your computer. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the Web site of these companies and provide them with personally identifiable information about yourself, these tracking technologies tell those advertisers nothing about who you are. Our advertisers' use of tracking technology is subject to their own privacy policies.
 
-  * Google, as a third party vendor, uses cookies to serve ads on my site. 
-  * Google's use of the DART cookie enables it to serve ads to my users based on their visit to my sites and other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the [_Google ad and content network privacy policy_](http://www.google.com/privacy_ads.html). 
+  * Google, as a third party vendor, uses cookies to serve ads on my site.
+  * Google's use of the DART cookie enables it to serve ads to my users based on their visit to my sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](https://www.google.com/policies/privacy/)
 
 
 
