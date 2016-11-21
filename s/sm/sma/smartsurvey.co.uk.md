@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the smartsurvey.co.uk privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417032749id_/https%3A//www.smartsurvey.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsurvey.co.uk privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121133722id_/https%3A//www.smartsurvey.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SmartSurvey
 
-**SmartSurvey** (Smartline International Limited) is committed to protect and respect your privacy.
+**SmartSurvey Ltd.** is committed to protect and respect your privacy.
 
-This privacy policy applies to **www.smartsurvey.co.uk** which is owned and operated by Smartline International Limited. Our privacy policy describes how we capture and use the personal information and data that we collect about visitors to our website.
+This privacy policy applies to **www.smartsurvey.co.uk** which is owned and operated by SmartSurvey Ltd. Our privacy policy describes how we capture and use the personal information and data that we collect about visitors to our website.
 
 Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.smartsurvey.co.uk you are accepting and consenting to the practices described in this policy.
 
-For the purposes of the Data Protection Act 1988, the data controller is Smartline International Limited (registration number: 4885155) of (Unit 23, Basepoint Business Centre, Tewkesbury, GL208SD) in relation to all data (e.g. registration, billing and account information) other than data provided on client surveys. The data controller for client surveys is the client who has commissioned the survey, who determines how their survey questions and responses are to be used and disclosed to others. We will only process such client survey data in accordance with our clients’ instructions and permissions. 
+For the purposes of the Data Protection Act 1988, the data controller is SmartSurvey Ltd. (registration number: 4885155) of (Unit 23, Basepoint Business Centre, Tewkesbury, GL208SD) in relation to all data (e.g. registration, billing and account information) other than data provided on client surveys. The data controller for client surveys is the client who has commissioned the survey, who determines how their survey questions and responses are to be used and disclosed to others. We will only process such client survey data in accordance with our clients’ instructions and permissions. 
 
-SmartSurvey (Smartline International Limited) is registered under the data protection act (registration number: Z1155070).
+SmartSurvey Ltd. is registered under the data protection act (registration number: Z1155070).
 
 Furthermore, we are company partners with the MRS (Market Research Society)
 
@@ -68,7 +68,7 @@ We may disclose aggregated survey data to third parties for benchmarking purpose
 We may disclose your information to analytics and search engine providers that assist us in the improvement and optimisation of our website.We may also disclose your personal information: 
 
   * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation or respond to a request from the government or a regulatory body
-  * in order to enforce or apply our website terms of use or other agreements, and to protect the rights (including intellectual property rights), property or safety of Smartline International Limited, our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction
+  * in order to enforce or apply our website terms of use or other agreements, and to protect the rights (including intellectual property rights), property or safety of SmartSurvey Ltd., our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction
   * if we are involved in a merger, acquisition, or sale of all or a portion of our assets,  you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. If we or a substantial proportion of our assets are acquired by a third party, personal data held by us about our clients will be one of the transferred assets
   * if you choose to make your survey responses public
   * to any other third party with your prior consent to do so.
@@ -99,7 +99,7 @@ Data gathered regarding your past activities on our site is used to display rele
 
 You may opt out of such advertising at any time through [Google's Ads Settings](https://www.google.com/settings/u/0/ads/authenticated).
 
-The information that we collect from you is stored in the UK and will not leave Europe at any point. The security of your personal information is important to us and we will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+The information that we collect from you is stored in the UK/EU and will not leave Europe at any point. The security of your personal information is important to us and we will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
 All information that you provide to us is stored on secure servers. When you enter personal information within the customer login area of the site, we encrypt that information using secure socket layer technology (SSL). Where you use a password to access certain areas of our website you are responsible for keeping this password confidential and must not share it with anyone. 
 
