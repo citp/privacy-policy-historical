@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipetitions.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620080300id_/http%3A//www.ipetitions.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipetitions.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121203020id_/http%3A//www.ipetitions.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | iPetitions
 
@@ -6,23 +6,25 @@
 
 iPetitions collects information at different points on our website. The two main points at which we collect information are when new members join iPetitions and when outside users sign a petition powered by iPetitions.
 
-**Members:** When you become a member of iPetitions, you provide us with your name and email address. iPetitions is the sole owner of this information and we will not sell, share, or rent this information with any other company or individual in ways different from what is disclosed in this statement. From time to time, we may share your information with others on an aggregated basis. We will not share information in such a way that it can be linked to an individual.
+**Members:** When you become a member of iPetitions, you provide us with your name and other information, email address. iPetitions is the sole owner of this information and we will not sell, share, or rent this information with any other company or individual in ways different from what is disclosed in this statement. From time to time, we may share your information with others on an aggregated basis. We will not share information in such a way that it can be linked to an individual.
 
-**Sign:** When you sign a petition powered by iPetitions, you will be asked for your name, and you may be asked for your email address as well as certain demographic information. Some of this information may be optional, but we encourage you to provide it as it will allow us to better customize your experience. The information you provide when you sign a petition is stored on our servers but is the exclusive property of the petition host, who is a member of iPetitions and who has agreed to the terms of this privacy policy. As with the information you supply iPetitions, hosts will be asked not to sell, share, or rent this information with any other company or individual except in an aggregated form. 
+**Sign:** When you sign a petition powered by iPetitions, you will be asked for your name, and you may be asked for your email address as well as certain demographic information. Some of this information may be optional, but we encourage you to provide it as it will allow us to better customize your experience. In addition, we store your IP address in our database. The information you provide and your IP address are stored on our servers but can also be accessed by the petition host, who is a member of iPetitions and who has agreed to the terms of this privacy policy. As with the information you supply iPetitions, hosts will be asked not to sell, share, or rent this information with any other company or individual except in an aggregated form. 
 
-There are two possible exceptions to this rule, however, and those are when 1) a petition host submits a petition to its intended recipient; or 2) on the "Signatures" section of the petition. In the second case, your email address will never be publicly visible, and you have the option when signing a petition of asking that your name also not be displayed. In the first case, it is up to the discretion of the petition host as to what information he or she may submit to the petition's intended recipient. Petition hosts may choose to submit emails and names (as well as other information) as such information is likely to enhance the credibility of a petition.
+There are three possible exceptions to this rule, however, and those are when 1) a petition host submits a petition to its intended recipient; or 2) on the "Signatures" section of the petition. In the second case, your email address will never be publicly visible, and you have the option when signing a petition of asking that your name also not be displayed. In the first case, it is up to the discretion of the petition host as to what information he or she may submit to the petition's intended recipient. Petition hosts may choose to submit emails and names (as well as other information) as such information is likely to enhance the credibility of a petition.
 
 Please be aware that this applies only to petitions powered by iPetitions on iPetitions' servers (these petitions will have a URL of the form: http://www.ipetitions.com/petition/some_petition). Petitions sponsored by external organizations but using our software may have different privacy policies.
 
-**Ad Services:** In addition, some user information is collected by third-party ad services. Users always have a choice of whether to supply this information and in no case is the information collected without their knowledge. iPetitions does not maintain any control over the information supplied to these ad services and this information will be used in accordance with the privacy policies of these outside services. iPetitions uses these services in order to allow us to keep supplying free and subsidized petition services. We have screened external privacy policies to ensure that personal user information is not misused, but we encourage users with concerns to contact us directly.
+**3) The third exception:** iPetitions may disclose user or signer information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Membership Agreement or may be causing injury or interference, intentionally or unintentionally, to iPetitions' rights or property, other iPetitions users, or anyone else that could be harmed by such activities. We may share information in this case in response to a specific legal request or at the discretion of our own judgement if we believe it is in the legal or other interest to share such information. YOU EXPRESSLY AGREE THAT UNDER NO CIRCUMSTANCES CAN IPETITIONS BE HELD ACCOUNTABLE FOR SHARING SUCH INFORMATION IF WE HAVE SHARED THE INFORMATION WITH THE BELIEF (WHETHER THAT BELIEF LATER PROVES FOUNDED OR UNFOUNDED) THAT IT WAS NECESSARY FOR LEGAL REASONS.
 
-**Exception:** iPetitions may disclose user or signer information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Membership Agreement or may be causing injury or interference, intentionally or unintentionally, to iPetitions' rights or property, other iPetitions users, or anyone else that could be harmed by such activities.
+Please be aware that these exceptions and policies (as well as those contained elsewhere in this Privacy Statement) apply only to petitions powered by iPetitions on iPetitions' servers. Petitions sponsored by external organizations but using our software may have different privacy policies.
+
+**Ad Services:** In addition, some user information is collected by third-party ad services. Users always have a choice of whether to supply this information and in no case is the information collected without their knowledge. iPetitions does not maintain any control over the information supplied to these ad services and this information will be used in accordance with the privacy policies of these outside services. iPetitions uses these services in order to allow us to keep supplying free and subsidized petition services. We have screened external privacy policies to ensure that personal user information is not misused, but we encourage users with concerns to contact us directly. YOU EXPRESSLY AGREE THAT IPETITIONS CANNOT BE HELD LIABLE FOR ANY PRIVACY VIOLATIONS CONDUCTED BY THIRD PARTY SITES OR APPLICATIONS THAT WE USE ON OUR SITE.
 
 Google uses the DART cookie to serve ads to our users based on their previous visits to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
 ## COOKIES
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
+In line with standard industry practices, we use cookies to keep track of user sessions and other behaviour on our site. A cookie is a piece of data stored on the user's hard drive containing information about the user. Once a user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
 
 Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
 
@@ -38,17 +40,9 @@ This web site contains links to external sites. Please be aware that iPetitions 
 
 All members of iPetitions have the option of subscribing to our free newsletter. They can unsubscribe at any time.
 
-## DISCUSSION GROUPS
-
-All members of iPetitions can participate in our discussion groups. The contents of those groups are publicly accessible. From time to time, iPetitions may use a part or whole of posts on these groups for publicity purposes. In doing so, however, we will not identify by name or iPetitions ID the user who has made the post.
-
-## BLOGS
-
-All hosts and visitors to iPetitions can participate in our hosted blogs. The contents of those blogs are publicly visible. From time to time, iPetitions may use a part or whole of blog posts on these groups for publicity purposes. In doing so, however, we will not identify by name or iPetitions ID the user who has made the post.
-
 ## CONTENT
 
-While we do everything possible to monitor the contents of individual petitions and discussion group postings on our site, we cannot be held liable for any offence, damage, injury or other legal infraction attributed to such content. iPetitions is a service provider; we are not content generators.
+While we do everything possible to monitor the contents of individual petitions and comments on our site, we cannot be held liable for any offence, damage, injury or other legal infraction attributed to such content. iPetitions is a service provider; we are not content generators.
 
 ## "EMAIL FRIENDS"
 
@@ -56,7 +50,7 @@ All petitions come with a "Email Friends" tab, which allows signers to forward a
 
 ## NOTIFICATIONS
 
-Petition hosts have the option of subscribing to email updates ("Notifications") about their petition. Such Notifications provide information on the number of signatures a petition has received, and can be turned off in the Notifications section of "My Account/ My Petitions"
+Petition hosts have the option of subscribing to email updates ("Notifications") about their petition and other related information. Such Notifications provide information on the number of signatures a petition has received, and can be turned off in the Notifications section of "My Account/ My Petitions"
 
 ## SIGNATURE CONFIRMATION
 
