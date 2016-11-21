@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the currentscience.ac.in privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518015614id_/http%3A//www.currentscience.ac.in/php/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currentscience.ac.in privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121122922id_/http%3A//www.currentscience.ac.in/php/policy.php) for the most accurate reproduction.*
 
 # Current Science - Privacy Policy
 
 Guest Editorial
 
-The tale of two diseases – type-1 and type-2 diabetes mellitus  
-C. V. Krishnaswami
+Food for all in the anthropocene era  
+M. S. Swaminathan and P. C. Kesavan 
 
-Sushruta, the ancient Hindu physician recognized two types of diabetes nearly 3000 years ago – one with youth onset and the other due to injudicious diet....
+At the International Geological Congress held in August 2016 in Cape Town, the assembled scientists came to the conclusion that a new geological epoch...
 
-[...read more](https://web.archive.org/web/20160518015614id_/http%3A//www.currentscience.ac.in/php/Volumes/110/09/1599.pdf)
+[...read more](https://web.archive.org/web/20161121122922id_/http%3A//www.currentscience.ac.in/php/Volumes/111/09/1435.pdf)
 
 Privacy Policy
 
