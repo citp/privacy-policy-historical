@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsmole.co.uk privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613095800id_/http%3A//www.sportsmole.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsmole.co.uk privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121092118id_/http%3A//www.sportsmole.co.uk/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sports Mole
 
