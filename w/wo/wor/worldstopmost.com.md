@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldstopmost.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629213608id_/http%3A//www.worldstopmost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldstopmost.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121074511id_/http%3A//www.worldstopmost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | World's Top Most
 
@@ -119,7 +119,7 @@ If any user wants to deactivate its respective account, user has to write us to 
 
 *** Changes and updates to this Privacy Notice**
 
-top101news.com has the right to Change or amend its Privacy Policy with or without giving any prior notice to users. It is user’s responsibility to read privacy policy regularly and updates.
+worldstopmost.com has the right to Change or amend its Privacy Policy with or without giving any prior notice to users. It is user’s responsibility to read privacy policy regularly and updates.
 
 This Privacy Notice may be revised periodically and this will be reflected by the “effective date” below.
 
