@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neurope.eu privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319114959id_/https%3A//neurope.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neurope.eu privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121090913id_/https%3A//www.neweurope.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
