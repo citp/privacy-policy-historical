@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the post-nigeria.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603062527id_/http%3A//www.post-nigeria.com/%3Fpage_id%3D15351) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the post-nigeria.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122001920id_/http%3A//www.post-nigeria.com/%3Fpage_id%3D15351) for the most accurate reproduction.*
 
 # Privacy Policy | News website
 
