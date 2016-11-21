@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the the-citizenry.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505123946id_/http%3A//the-citizenry.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-citizenry.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121171758id_/https%3A//www.the-citizenry.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – The Citizenry
+# The Citizenry | Privacy Policy – The Citizenry
 
 This Privacy Policy governs the manner in which The Citizenry collects, uses, maintains and discloses information collected from users (each, a "User") of the www.the-citizenry.com website ("Site"). This privacy policy applies to the Site and all products and services offered by The Citizenry.
 
@@ -46,6 +46,6 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 The Citizenry takes your privacy seriously. When connecting with us, we want our customers to feel confident that their personal information and credit card data is protected. Just as we are dedicated to bringing you the very best products, we are equally committed to providing our customers with a safe and secure shopping experience. The personal information we collect from our Site helps us better understand the interests of our audience in an ongoing effort to bring you improved service.
 
-If you have questions or suggestions regarding our privacy standards please email [support@the-citizenry.com](mailto:support@the-citizenry.com)  
+If you have questions or suggestions regarding our privacy standards please email [assistant@the-citizenry.com](mailto:assistant@the-citizenry.com)  
 
 August 13th, 2014. 
