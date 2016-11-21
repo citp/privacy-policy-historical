@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biddingforgood.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617063749id_/https%3A//www.biddingforgood.com/auction/communicate/privacypolicy.action) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biddingforgood.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121083236id_/https%3A//www.biddingforgood.com/auction/communicate/privacypolicy.action) for the most accurate reproduction.*
 
 # Privacy Policy - BiddingForGood Fundraising Auction
 
