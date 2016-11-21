@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drdavidwilliams.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612024840id_/http%3A//www.drdavidwilliams.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drdavidwilliams.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121012900id_/http%3A//www.drdavidwilliams.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,14 +10,14 @@ You should be aware that when you voluntarily disclose personal information (e.g
 
 If we change or update this Privacy Policy, we will notify you by posting a notice in our free e-letters and on our website. These notices will allow you to easily link to and view the updated policy if you wish. 
 
-We sometimes make our customer list available to selected merchants whose products may be of interest to you. If you do not wish to receive these mailings, please write to: 
+We sometimes make our customer list available to selected merchants whose products may be of interest to you. If you do not wish to receive these mailings or you do not want us to use your information for any marketing purposes, please write to: 
 
 Healthy Directions, LLC 
 
 Attn: Customer Service 
 
-P.O. Box 3314 
+P.O. Box 531 
 
-Lancaster PA 17604 
+Montoursville, PA 17754 
 
 Still have questions? Click here to [Contact Us](https://web.archive.org/contact-us "Contact Us"). 
