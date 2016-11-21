@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healcure.org privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506084313id_/http%3A//www.healcure.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healcure.org privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121111551id_/http%3A//www.healcure.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,4 +36,4 @@ We reserve the right, at our sole discretion, to change, add or remove portions 
 
 ### Contact Information
 
-If you have any issue you would like to communicate to us concerning this private policy feel free [contact us](http://knolab.com/about-us/contact-us/).
+If you have any issue you would like to communicate to us concerning this private policy feel free [contact us](http://www.healcure.org/about-us/contact-us/).
