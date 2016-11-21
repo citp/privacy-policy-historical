@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pondesk.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518103543id_/http%3A//www.pondesk.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pondesk.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121135440id_/http%3A//www.pondesk.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy & Cookies Policy | pondesk.com
+# Privacy & Cookies Policy | PONDESK
+
+Your browser (Internet Explorer __) is out of date. It has known security flaws and may not display all features of PONDESK.
 
 Pondesk.com is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Pondesk.com Web site and governs data collection and usage. By using the Pondesk.com website, you consent to the data practices described in this statement.
 
