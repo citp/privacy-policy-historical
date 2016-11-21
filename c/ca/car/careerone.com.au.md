@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerone.com.au privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624122451id_/http%3A//my.careerone.com.au/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerone.com.au privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121110839id_/http%3A//my.careerone.com.au/privacy/default.aspx) for the most accurate reproduction.*
 
 # CareerOne Privacy Center | CareerOne.com.au
 
@@ -22,11 +22,9 @@ We share your information with third parties, including Monster, Inc. and third 
 
 If you have consented for us to do so, we may use your information to contact you about other products or services available from our affiliates.
 
-If you have consented for us to do so, we may also share your information with third parties who may contact you about their products or services.  This includes sharing your information with Acquire Learning Pty Ltd for the purposes of the provision of services by our joint venture, CareerOne Education. Acquire Learning Pty Ltd's privacy policy is available at <http://www.acquirelearning.com.au/privacy-policy>.
+If you have consented for us to do so, we may also share your  information with third parties who may contact you about their products or services. This includes sharing your information with Acquire Learning Pty Ltd for the purposes of the provision of services by our joint venture, CareerOne Education. Acquire Learning Pty Ltd's privacy policy is available at <http://www.acquirelearning.com.au/privacy-policy>. 
 
-We also share information where legally required. Information collected on our Sites is stored in whole or in part in the United States, and may be subject to U.S. law.
-
-We may disclose and transfer information if our business is sold or acquired.
+**If any phone number you have provided to us is registered on the Do Not Call register you consent to CareerOne and Acquire Learning calling that number or those numbers. We (and Acquire) may continue to contact you for an indefinite period unless and until you advise us otherwise.**
 
 ## Your Choices About Your Information
 
