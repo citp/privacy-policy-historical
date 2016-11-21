@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slowcookerfromscratch.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515210901id_/http%3A//www.slowcookerfromscratch.com/2012/01/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slowcookerfromscratch.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121164838id_/http%3A//www.slowcookerfromscratch.com/2012/01/privacy-policy.html) for the most accurate reproduction.*
 
 # Slow Cooker from Scratch®: Privacy Policy
 
@@ -29,7 +29,7 @@ Lijit Networks Inc.
 Some of these third party advertising networks are participants in the Network Advertising Initiative ("NAI"), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. You can learn more about NAI and how you may "opt out" of targeted advertising delivered by NAI member ad networks [here.](http://www.networkadvertising.org/)
 
 **Contacting** **Slow Cooker from Scratch Regarding This Policy:**  
-If you have any questions about this policy please contact slowcookerfromscratch (at) comcast (dot) net
+If you have any questions about this policy please contact kalynskitchen (at) comcast (dot) net
 
 **Changes to This Policy:**  
 We reserve the right to update or change this privacy policy at any time. Any such change, modification, or addition to the privacy policy on Slow Cooker from Scratch will become effective immediately upon posting on the site.
