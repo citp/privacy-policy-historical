@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiliq.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407221649id_/http%3A//www.hiliq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiliq.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121113043id_/http%3A//www.hiliq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wholesale E Cigarette Liquid , Buy liquid nicotine online, Buy E liquid nicotine wholesale
 
