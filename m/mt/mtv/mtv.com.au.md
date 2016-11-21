@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mtv.com.au privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618081929id_/http%3A//www.mtv.com.au/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtv.com.au privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121182836id_/http%3A//www.mtv.com.au/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MTV
+# VIMN Australia Privacy Policy | MTV
 
 VIMN Australia Pty Ltd (ABN 18 107 601 418) and its related bodies corporate (“ **we** ”, “ **our** ”, “ **us** ”) recognise the importance of protecting the privacy and the rights of individuals in relation to their personal information. This Privacy Policy sets out how we and our related companies use any personal information that you give to us or we collect from you.
 
@@ -10,17 +10,17 @@ We may give certain words that are used in this Privacy Policy a particular mean
 
 If you have any questions or concerns please contact us at [**vimnau.privacy@vimn.com**](mailto:vimnau.privacy@vimn.com) **.**
 
-**1\. CHANGES TO THIS POLICY**
+**1.** **CHANGES TO THIS POLICY**
 
 We may need to make changes to this Privacy Policy in the future, for example to reflect changes in the law, changes in the type of services or information we provide to you or collect from you, or to correct any errors. We will try to keep all such changes to a minimum. We recommend that you check this policy from time to time to see if it has changed. We will always state at the bottom of this policy the date on which it was last updated.
 
 If you continue to use our services after our Privacy Policy changes you will be bound by those changes.
 
-**2\. WHAT IS YOUR PERSONAL INFORMATION?**
+**2.** **WHAT IS YOUR PERSONAL INFORMATION?**
 
 When used in this Privacy Policy, the term personal information has the meaning given to it in the Act. In general terms, it is any information that can be used to personally identify you. This may include your name, address, telephone number, email address and profession or occupation. If the information we collect personally identifies you, or you are reasonably identifiable from it, the information will be considered personal information.
 
-**3\. WHAT PERSONAL INFORMATION DO WE COLLECT AND HOLD?**
+**3.** **WHAT PERSONAL INFORMATION DO WE COLLECT AND HOLD?**
 
 a. We may collect the following types of personal information:
 
@@ -62,9 +62,9 @@ xviii. information collected using cookies, web beacons and other tracking syste
 
 b. We may also collect some information that is not personal information because it does not identify you or anyone else. For example, we may collect anonymous answers to surveys or aggregated information about how users use our website.
 
-**c. For competitions held on our website, we may be required to collect your name, address, date of birth and other personal identification verification information under the state gaming legislation applicable to the state in which the competition is being held, for example, the** **_Gaming and Liquor Administration Act 2007_** **(NSW) for trade promotions and competitions held in New South Wales.**
+c. For competitions held on our website, we may be required to collect your name, address, date of birth and other personal identification verification information under the state gaming legislation applicable to the state in which the competition is being held, for example, the _Gaming and Liquor Administration Act 2007_ (NSW) for trade promotions and competitions held in New South Wales.
 
-**4\. HOW DO WE COLLECT YOUR PERSONAL INFORMATION?**
+**4.** **HOW DO WE COLLECT YOUR PERSONAL INFORMATION?**
 
 a. We collect your personal information directly from you unless it is unreasonable or impracticable to do so. When collecting personal information from you, we may collect in ways including:  
  
@@ -109,18 +109,17 @@ c. Users of our websites additionally acknowledge that we use a third party to c
 
 d. We may also collect personal information about you from others, including family members (where you are under 18 and have entered a competition or otherwise authorized us to contact your parent/guardian) or friends if you are an accompanying guest for the purposes of a competition or an event, from third party companies such as credit reporting agencies and research companies, from law enforcement agencies, the New South Wales Office of the Children’s Guardian (and other state equivalent bodies), and other government entities.
 
-**5\. COOKIES**  
- 
+**5.** **COOKIES**
 
 a. In some cases we may also collect your personal information through the use of cookies. Cookies are small text files that websites automatically save to the cookie file of the browser on your computer when you enter the website. When you access our websites, we may send a cookie to your computer. This enables us to recognize your computer and greet you each time you visit our websites without bothering you with a request to register. It also enables us to keep track of products or services you view so that, if you consent, we can send you news about those products or services. We also use cookies to measure traffic patterns, to determine which areas of our websites have been visited and to measure transaction patterns in the aggregate. We use this to research our users’ habits so that we can improve our online products and services. If you do not wish to receive cookies, you can set your browser so that your computer does not accept them.
 
 b. We may log IP addresses (that is, the electronic addresses of computers connected to the internet) to analyze trends, administer the website, track users movements, and gather broad demographic information.
 
-c. We may use third party advertising companies to serve advertisements on our online services. The ads you receive may be influenced by various factors, including your browsing history prior to visiting this website. These companies may use information (not including your name, address, email address or telephone number) about your use of our online services in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements, our third party serving network may place or recognize a unique "cookie" on your browser. This is a "persistent" cookie, which means that it is stored on your computer and will remain there until it expires or you remove it. The ad serving networks may also make use of other technologies, such as "web beacons", in order to improve the relevance of the ads you receive.
+c. We may use third party advertising companies to serve advertisements on our online services. By using such services, you consent to the processing of certain data about you as described within. The ads you receive may be influenced by various factors, including your browsing history prior to visiting this website. Third party advertising companies may use information (not including your name, address, email address or telephone number) about your use of our online services in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements, our third party serving network may place or recognize a unique "cookie" on your browser. The information stored in the cookie is used to reference information for standard reporting purposes such as delivered advertising campaigns or banners on websites that are using third party advertising companies as their ad serving system. This is a "persistent" cookie, which means that it is stored on your computer and will remain there until it expires or you remove it. While cookie and IP address information may be transferred to international responding data centres, only the cookie information of the requested ad domain is stored within the standard records. IP address information is obfuscated after being used to identify attributes associated with the IP address such as location (country, city) or bandwidth. The obfuscating of the IP address leads to anonymisation of the data. __ The ad serving networks may also make use of other technologies, such as "web beacons", in order to improve the relevance of the ads you receive. You have the option not to participate in third party advertising company analysis by selecting the appropriate setting on your browser. By using our online services, you acknowledge the third party advertising companies we use may be members of the Network Advertising Initiative (NAI). If you are viewing our content from New Zealand, you can opt out of interest-based advertising delivered by such companies using cookies by clicking on <http://www.networkadvertising.org/managing/opt_out.asp>
 
 d. You can use the "Help" section of the tool bar on most browsers to change the settings on your computer, for example to notify you when you receive a cookie, or to refuse all cookies. However, some of the features of our online services may not work or may be more difficult to access if you refuse all cookies. Further information about how cookies work can be found [here](http://www.aboutcookies.org/).
 
-**6\. WHAT HAPPENS IF WE CAN’T COLLECT YOUR PERSONAL INFORMATION?**
+**6.** **WHAT HAPPENS IF WE CAN’T COLLECT YOUR PERSONAL INFORMATION?**
 
 a. If you do not provide us with the personal information described above, some or all of the following may happen:
 
@@ -136,7 +135,7 @@ v. we may not be able to allow you to enter our premises; or
 
 vi. we may not be able to include you in our content.
 
-**7\. FOR WHAT PURPOSES DO WE COLLECT, HOLD, USE AND DISCLOSE YOUR PERSONAL INFORMATION?**
+**7.** **FOR WHAT PURPOSES DO WE COLLECT, HOLD, USE AND DISCLOSE YOUR PERSONAL INFORMATION?**
 
 a. We collect personal information about you so that we can perform our business activities and functions and to provide best possible quality of customer service.
 
@@ -180,7 +179,7 @@ c. You further acknowledge that providing information to our related bodies corp
 
 d. Your personal information will not be shared, sold, rented or disclosed other than as described in this Privacy Policy.
 
-**8\. TO WHOM MAY WE DISCLOSE YOUR INFORMATION?**
+**8.** **TO WHOM MAY WE DISCLOSE YOUR INFORMATION?**
 
 a. We may disclose your personal information to:
 
@@ -200,13 +199,13 @@ vii. any organisation for any authorised purpose with your express consent.
 
 b. We may combine or share any information that we collect from you with information collected by any of our related bodies corporate (within Australia).
 
-**9\. DIRECT MARKETING MATERIALS**
+**9.** **DIRECT MARKETING MATERIALS**
 
 a. We may send you direct marketing communications and information about our products and services that we consider may be of interest to you. These communications may be sent in various forms, including mail, SMS and email, in accordance with applicable marketing laws, such as the _Spam Act 2003_ (Cth). You consent to us sending you those direct marketing communications by any of those methods. If you indicate a preference for a method of communication, we will endeavour to use that method whenever practical to do so. In addition, at any time you may opt-out of receiving marketing communications from us by contacting us (see the details below) or by using opt-out facilities provided in the marketing communications and we will then ensure that your name is removed from such communications list or lists.
 
 b. Unless you expressly consent to us doing so, for example, by selecting a check box when entering a competition on our websites, we do not provide your personal information to other organisations for the purposes of direct marketing.
 
-**10\. HOW CAN YOU ACCESS AND CORRECT YOUR PERSONAL INFORMATION?**
+**10.** **HOW CAN YOU ACCESS AND CORRECT YOUR PERSONAL INFORMATION?**
 
 a. You may request access to any personal information we hold about you at any time by contacting us (see the details below). Where we hold information that you are entitled to access, we will try to provide you with suitable means of accessing it (for example, by mailing or emailing it to you). We may charge you a fee to cover our administrative and other reasonable costs in providing the information to you. We will not charge for simply making the request and will not charge for making any corrections to your personal information.
 
@@ -216,7 +215,7 @@ c. If you believe that personal information we hold about you is incorrect, inco
 
 d. Please note that to update your details in any social networking sites, whether accessed directly, or via our websites as a login feature, you will need to contact the operators of those social networking sites directly.
 
-**11\. WHAT IS THE PROCESS FOR COMPLAINING ABOUT A BREACH OF PRIVACY?**
+**11.** **WHAT IS THE PROCESS FOR COMPLAINING ABOUT A BREACH OF PRIVACY?**
 
 a. If you believe that your privacy has been breached, please contact our Privacy Officer using the contact information below and provide details of the incident so that we can investigate it.
 
@@ -224,7 +223,7 @@ b. We request that complaints about breaches of privacy be made in writing, so w
 
 c. After we have completed our enquiries, we will contact you, usually in writing, to advise the outcome and invite a response to our conclusions about the complaint. If we receive a response from you, we will assess it and advise if we have changed our view.
 
-**12\. DO WE DISCLOSE YOUR PERSONAL INFORMATION TO ANYONE OUTSIDE AUSTRALIA?**
+**12.** **DO WE DISCLOSE YOUR PERSONAL INFORMATION TO ANYONE OUTSIDE AUSTRALIA?**
 
 a. We may disclose personal information to our related bodies corporate and third party suppliers and service providers located overseas for some of the purposes listed above.
 
@@ -246,21 +245,21 @@ d. We may also disclose your personal information overseas where we are running 
 
 e. If you are visiting our websites from outside of Australia or New Zealand and you reside in the EU or US please additionally be advised that your personal information may be transferred to and processed by our affiliates in the United States and the EU. These affiliates comply with the US-EU Safe Harbor. Please see the Safe Harbor Privacy Policy [here](http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harbor_Policy.pdf) for detailed information on these affiliates' privacy practices.
 
-**13\. SECURITY**
+**13.** **SECURITY**
 
 a. We take reasonable steps to ensure your personal information is protected from misuse and loss and from unauthorized access, modification or disclosure. We may hold your information in either electronic or hard copy form. Personal information is destroyed or de-identified when no longer needed.
 
 b. As our websites are linked to the internet, and the internet is inherently insecure, we cannot provide any assurance regarding the security of transmission of information you communicate to us online. We also cannot guarantee that the information you supply will not be intercepted while being transmitted over the internet. Accordingly, any personal information or other information which you transmit to us online is transmitted at your own risk.
 
-**14\. LINKS**
+**14.** **LINKS**
 
 Our websites may contain links to other websites operated by third parties. We make no representations or warranties in relation to the privacy practices of any third party website and we are not responsible for the privacy policies or the content of any third party website. Third party websites are responsible for informing you about their own privacy practices.
 
-**15\. BUSINESS TRANSFERS**
+**15.** **BUSINESS TRANSFERS**
 
 In the unlikely event that we sell or otherwise dispose of some or all of our business to another party, we reserve the right to transfer your information as part of any assets sold or disposed of and you consent to such transfer.
 
-**16\. CONTACTING US**
+**16.** **CONTACTING US**
 
 a. If you have any questions about this Privacy Policy, any concerns or a complaint regarding the treatment of your privacy or a possible breach of your privacy, please use the contact link on our website, the private or direct message function on our social networking sites, or contact our Privacy Officer using the details set out below.
 
@@ -280,4 +279,4 @@ Tel: (02) 9921 0200
 
 Email: [vimnau.privacy@vimn.com](mailto:vimnau.privacy@vimn.com)
 
-This Privacy Policy was last updated on 19 October 2015.
+This Privacy Policy was last updated on 2 September 2016.
