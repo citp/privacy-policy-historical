@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the thescriptlab.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410040717id_/http%3A//thescriptlab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thescriptlab.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121081938id_/http%3A//thescriptlab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Script Lab
 
-**What information do we collect?**
+{jabookmark off}
+
+ **What information do we collect?**
 
 We collect information from you when you register on our site, place an order or fill out a form. 
 
@@ -83,19 +85,15 @@ By using our site, you consent to our [online privacy policy](http://thescriptla
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
-**_This policy was last modified on December 14, 2015._**
+**_This policy was last modified on September 1, 2016._**
 
  **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-TSL Media Inc.  
-8228 Sunset Boulevard, Suite #106  
-West Hollywood, CA 90046  
+The Script Lab  
+1700 Sawtelle Boulevard, Unit 206   
+Los Angeles, CA 90025  
 USA  
 [help@thescriptlab.com](mailto:help@thescriptlab.com?subject=Privacy%20Inquiry)  
 
-
-* * *
-
-* * *
