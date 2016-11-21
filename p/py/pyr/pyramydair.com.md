@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pyramydair.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514101836id_/http%3A//www.pyramydair.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pyramydair.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121124510id_/http%3A//www.pyramydair.com/privacy-policy) for the most accurate reproduction.*
 
 # Pyramyd Air Privacy Statement
 
@@ -28,6 +28,10 @@ We do not share any of our customer information with any 3rd parties.
 ### Links
 
 This web site contains links to other sites. Please be aware that Pyramyd Air is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+
+### E-Mail Opt Out
+
+To stop receiving our email promotions, please click on the link found at the bottom of each email or update your account preferences. 
 
 ### Tell-A-Friend
 
