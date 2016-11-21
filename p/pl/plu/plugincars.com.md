@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plugincars.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606123402id_/http%3A//www.plugincars.com/privacy-policy.html%3Fsrc%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plugincars.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121033405id_/http%3A//plugincars.com/privacy-policy.html%3Fsrc%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy | PluginCars.com
 
