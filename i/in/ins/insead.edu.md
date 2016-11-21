@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insead.edu privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629235045id_/http%3A//www.insead.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insead.edu privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121205236id_/https%3A//www.insead.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | INSEAD
 
@@ -84,7 +84,7 @@ Le présent Site comprend des liens vers des sites Web tiers. Merci de noter que
 
  **Droits d'accès, de rectification et de suppression**
 
-Vous disposez d'un droit d'accès, de rectification, de mise à jour et de suppression de toute information nominative, du droit de vous désinscrire des listes de diffusion ou de résilier votre inscription au Site en suivant les instructions figurant sur la page d'enregistrement du Site. Alternativement, vous pouvez nous adresser un courrier électroniqueà[ IT Service Desk ](mailto:5555-ITservicedesk@insead.edu?subject=INSEAD%20Web%20Inquiry)pour exercer vos droits d'accès et de rectification reconnus par la loi.
+Vous disposez d'un droit d'accès, de rectification, de mise à jour et de suppression de toute information nominative, du droit de vous désinscrire des listes de diffusion ou de résilier votre inscription au Site en suivant les instructions figurant sur la page d'enregistrement du Site. Alternativement, vous pouvez nous adresser un courrier électronique à[ IT Service Desk ](mailto:5555-ITservicedesk@insead.edu?subject=INSEAD%20Web%20Inquiry)pour exercer vos droits d'accès et de rectification reconnus par la loi.
 
  **Consentement**
 
