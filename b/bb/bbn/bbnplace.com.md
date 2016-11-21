@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbnplace.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522113907id_/http%3A//www1.bbnplace.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbnplace.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121024612id_/http%3A//www1.bbnplace.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,11 +8,9 @@
 
 
 
-#### March 25, 2014
+#### May 24, 2016
 
 This privacy statement describes how Browser Based Network collects and uses the personal information you provide on our Web site: www.bbnplace.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
-
-Browser Based Network Ltd has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html)including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site,[www.bbnplace.com](http://www.bbnplace.com/) and does not cover information that may be collected through our mobile applications. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@bbnplace.com](mailto:info@bbnplace.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). ****
 
 #### Collection and Use of Personal Information
 
@@ -95,9 +93,11 @@ We may update this privacy policy to reflect changes to our information practice
 
 #### **Contact Information**
 
-You can contact us by writing or email us at the address below:  
-Browser Based Network Ltd.  
-4, Kusimo Street, Aguda – Surulere,  
+You can contact us by writing or email us at the address below:
+
+**Browser Based Network Ltd.**  
+5, Adisa Keshinro Street (Off Abraham Adesanya),  
+Ajah – Lekki Phase 2,  
 Lagos, Nigeria – 23401  
-Phone: +234 805 020 9037  
-Email: info@bbnplace.com
+**Phone:** +234 805 020 9037  
+**Email:** info@bbnplace.com
