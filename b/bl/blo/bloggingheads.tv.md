@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggingheads.tv privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329141724id_/http%3A//bloggingheads.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingheads.tv privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121123249id_/http%3A//bloggingheads.tv/privacy-policy) for the most accurate reproduction.*
 
 # Bloggingheads.tv
 
@@ -10,11 +10,11 @@ We do not collect personal information about visitors to our website unless you 
 
 ### Contact form
 
-We provide a [contact form](https://web.archive.org/web/20160329141724id_/http%3A//bloggingheads.tv/contact) on Bloggingheads.tv so that site visitors can communicate with us. Users of this optional service provide a name as well as an email address where they can receive a response when one is needed. We do not use this information for any purpose other than responding to inquiries and we do not share this information with third parties.
+We provide a [contact form](https://web.archive.org/web/20161121123249id_/http%3A//bloggingheads.tv/contact) on Bloggingheads.tv so that site visitors can communicate with us. Users of this optional service provide a name as well as an email address where they can receive a response when one is needed. We do not use this information for any purpose other than responding to inquiries and we do not share this information with third parties.
 
 ### Email subscriptions
 
-We allow users to [subscribe to our content](https://web.archive.org/web/20160329141724id_/http%3A//bloggingheads.tv/subscribe) through the email delivery features of Google’s FeedBurner application. Users of this optional service provide an email address where they want to receive Bloggingheads.tv subscription emails. We do not use these email addresses for any purpose other than Bloggingheads.tv email subscriptions and we do not share them with third parties.
+We allow users to [subscribe to our content](https://web.archive.org/web/20161121123249id_/http%3A//bloggingheads.tv/subscribe) through the email delivery features of Google’s FeedBurner application. Users of this optional service provide an email address where they want to receive Bloggingheads.tv subscription emails. We do not use these email addresses for any purpose other than Bloggingheads.tv email subscriptions and we do not share them with third parties.
 
 ### Disqus commenting system
 
@@ -66,27 +66,17 @@ We may update this Privacy Policy at any time. When we do, we will revise the da
 
 ## Contact us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please send us a message on our [contact form](https://web.archive.org/web/20160329141724id_/http%3A//bloggingheads.tv/contact).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please send us a message on our [contact form](https://web.archive.org/web/20161121123249id_/http%3A//bloggingheads.tv/contact).
 
 [
 
-### Woodruff & Strauss
+### Rational Actors
 
-](https://web.archive.org/programs/woodruff-strauss)
+](https://web.archive.org/programs/rational-actors)
 
-[](https://web.archive.org/videos/40325?in=14:03&out=15:22)
+[](https://web.archive.org/videos/44501?in=10:41&out=17:50)
 
-## Betsy Woodruff says the candidate has an uncanny ability to redirect attention onto himself.
-
-[
-
-### Foreign Entanglements
-
-](https://web.archive.org/programs/foreign-entanglements)
-
-[](https://web.archive.org/videos/40194?in=02:16&out=05:27)
-
-## Southeast Asia expert Aaron Connelly says the world’s third biggest democracy sees vulnerabilities in itself where outsiders see assets.
+## Kevin Glass and Ben Howe give some advice to anti-Trump conservatives.
 
 [
 
@@ -94,6 +84,36 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 ](https://web.archive.org/programs/foreign-entanglements)
 
-[](https://web.archive.org/videos/40147?in=25:59&out=27:30)
+[](https://web.archive.org/videos/44484?in=05:27&out=13:10)
 
-## Robert Farley and Matthew Duss discuss how relatively small differences in worldview can have big impacts when they play out in the real world.
+## Daniel Nexon argues that the controversial former ambassador would make a better Secretary of State than Giuliani.
+
+[
+
+### The DMZ
+
+](https://web.archive.org/programs/dmz)
+
+[](https://web.archive.org/videos/44471?in=07:43&out=15:29)
+
+## Bill Scher and Matt Lewis on how liberals should—and shouldn’t—respond to Trump’s victory.
+
+[
+
+### Drezburt
+
+](https://web.archive.org/programs/drezburt)
+
+[](https://web.archive.org/videos/44431?in=01:42&out=09:48)
+
+## Heather Hurlburt and Daniel Drezner on why Trump’s victory took pundits (and them) by surprise. **Plus** : Trump’s [HR problem](http://bloggingheads.tv/videos/44431?in=11:23&out=17:50).
+
+[
+
+### The Glenn Show
+
+](https://web.archive.org/programs/glenn-show)
+
+[](https://web.archive.org/videos/44405?in=31:27&out=38:26)
+
+## Glenn Loury and Harold Pollack consider how the debate about race and policing influenced the election’s outcome. **Plus** : How should D.C. respond to [President-elect Trump](http://bloggingheads.tv/videos/44405?in=39:12&out=47:50)?
