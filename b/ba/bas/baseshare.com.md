@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baseshare.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314011313id_/http%3A//baseshare.com/site/page/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baseshare.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121032732id_/http%3A//baseshare.com/site/page/view/privacy) for the most accurate reproduction.*
 
 # BaseShare - Privacy Policy
 
