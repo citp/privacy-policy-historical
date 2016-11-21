@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buylandingpagedesign.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616220510id_/https%3A//www.buylandingpagedesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buylandingpagedesign.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121061108id_/https%3A//www.buylandingpagedesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Buylandingpagedesign.com privacy policy on user information
 
