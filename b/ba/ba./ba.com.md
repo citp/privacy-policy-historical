@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ba.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609231533id_/http%3A//www.britishairways.com/en-gb/information/legal/privacy-policy%3Fsource%3DBOT_privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ba.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121050913id_/http%3A//www.britishairways.com/en-ca/information/legal/privacy-policy%3Fsource%3DBOT_privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Legal | British Airways
 
@@ -8,7 +8,7 @@ We’ve written this Privacy Policy to let you know how we use your personal in
 
 This Privacy Policy is divided into several sections; please click on the relevant section in the detailed policy below for further information or click on 'Show all' if you wish to see the whole policy. We have also created a high level summary of the Privacy Policy, setting out the most important points.
 
-This Privacy Policy comes into effect from 22 July 2014 and replaces our [previous Privacy Policy](https://web.archive.org/en-gb/information/legal/privacy-policy/privacy-policy-2012). This Privacy Policy applies to all information we process about you in connection with your relationship with us as a customer or potential customer, including where you have a British Airways Executive Club account with us.
+This Privacy Policy comes into effect from 22 July 2014 and replaces our [previous Privacy Policy](https://web.archive.org/en-ca/information/legal/privacy-policy/privacy-policy-2012). This Privacy Policy applies to all information we process about you in connection with your relationship with us as a customer or potential customer, including where you have a British Airways Executive Club account with us.
 
 Please [contact us](http://www.britishairways.com/travel/askbainter/public/en_gb) if you would like to find out more about any matters to do with this Privacy Policy[](http://www.britishairways.com/travel/askbainter/public/en_gb).
 
@@ -124,7 +124,7 @@ If you withdraw your consent, it may mean we will not be able to provide all or 
 
 #### How do we collect and use web usage data?
 
-When you visit our websites, we may collect and process information about your website usage (e.g. your browsing history and information about your navigation through our website) using “cookies” and other similar technologies. For more details of the methods please see '[How we use cookies and other methods for the collection of website usage data](https://web.archive.org/en-gb/information/legal/cookies)'.
+When you visit our websites, we may collect and process information about your website usage (e.g. your browsing history and information about your navigation through our website) using “cookies” and other similar technologies. For more details of the methods please see '[How we use cookies and other methods for the collection of website usage data](https://web.archive.org/en-ca/information/legal/cookies)'.
 
 #### How do we collect and use geo-location information?
 
@@ -134,9 +134,9 @@ If we have your permission to do so, we may also use the functionality on your m
 
 #### How can you amend personal information you’ve provided? 
 
-If you’re a British Airways Executive Club Member, you can change your personal details by [amending your membership profile online](http://www.britishairways.com/travel/execamendprofile/public/en_gb), or by [telephoning or writing to the Executive Club](http://www.britishairways.com/travel/contact-executive-club/public/en_gb).
+If you’re a British Airways Executive Club Member, you can change your personal details by [amending your membership profile online](http://www.britishairways.com/travel/execamendprofile/public/en_ca), or by [telephoning or writing to the Executive Club](http://www.britishairways.com/travel/contact-executive-club/public/en_gb).
 
-If you are a registered user of ba.com, you can change your personal details by [amending your profile](http://www.britishairways.com/travel/loginr/public/en_gb).
+If you are a registered user of ba.com, you can change your personal details by [amending your profile](http://www.britishairways.com/travel/loginr/public/en_ca).
 
 If you receive marketing communications from us (perhaps because you requested information or made a booking with us, or you entered a competition or registered for a promotion) you may change your marketing preferences by writing, with your full name, address and other contact details to:
 
@@ -233,9 +233,9 @@ In addition, each marketing communication we send by email will also have an “
 
 Please note that if you tell us that you do not wish to receive further marketing communications, you will still receive “service” communications (as described above) confirming and servicing any bookings you may have with us. If you are an Executive Club Member, we will continue to keep you informed about your membership benefits and other important information relating to the Executive Club.
 
-If you are an Executive Club Member you can change your marketing preferences at any time by [amending your membership profile online](http://www.britishairways.com/travel/execamendprofile/public/en_gb), or by [telephoning or writing to the Executive Club](http://www.britishairways.com/travel/contact-executive-club/public/en_gb).
+If you are an Executive Club Member you can change your marketing preferences at any time by [amending your membership profile online](http://www.britishairways.com/travel/execamendprofile/public/en_ca), or by [telephoning or writing to the Executive Club](http://www.britishairways.com/travel/contact-executive-club/public/en_gb).
 
-If you are a registered user of ba.com, you can change your marketing preferences at any time by [amending your profile](http://www.britishairways.com/travel/loginr/public/en_gb).
+If you are a registered user of ba.com, you can change your marketing preferences at any time by [amending your profile](http://www.britishairways.com/travel/loginr/public/en_ca).
 
 In addition to using the ‘unsubscribe’ link in emails, if you receive marketing communications from us because we obtained your details when you made a booking or requested information or when you entered a competition or registered for a promotion, you can tell us at any time that you do not wish to receive these marketing communications by writing, with your full name, address and other contact details to:
 
@@ -250,7 +250,7 @@ showWho do we share your personal information with?
 
 showHow can you keep your personal information secure?
 
-We understand how important it is that your information is kept secure. Please visit our [security policy](https://web.archive.org/en-gb/information/legal/website-security) to see what steps we take to keep the information you give us secure.
+We understand how important it is that your information is kept secure. Please visit our [security policy](https://web.archive.org/en-ca/information/legal/website-security) to see what steps we take to keep the information you give us secure.
 
 #### Keep your booking reference confidential
 
@@ -317,4 +317,4 @@ England
 
 © British Airways Plc
 
-Use of information prior to this date was subject to our previous [Privacy Policy 2012](https://web.archive.org/en-gb/information/legal/privacy-policy/privacy-policy-2012).
+Use of information prior to this date was subject to our previous [Privacy Policy 2012](https://web.archive.org/en-ca/information/legal/privacy-policy/privacy-policy-2012).
