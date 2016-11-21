@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpnuke.org privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429014406id_/https%3A//downloads.phpnuke.org/documents/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpnuke.org privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121053640id_/https%3A//downloads.phpnuke.org/documents/privacy_policy.html) for the most accurate reproduction.*
 
 # Phpnuke - privacy policy
 
