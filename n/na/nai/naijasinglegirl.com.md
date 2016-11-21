@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naijasinglegirl.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626061009id_/http%3A//www.naijasinglegirl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijasinglegirl.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121023950id_/http%3A//www.naijasinglegirl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NaijaSingleGirl
 
@@ -33,4 +33,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 **Privacy Policy Changes**  
 Although most changes are likely to be minor, Naijasinglegirl may change its Privacy Policy from time to time, and in Naijasinglegirl’s sole discretion, Naijasinglegirl encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-Like(1)(0)
+Like(2)(0)
