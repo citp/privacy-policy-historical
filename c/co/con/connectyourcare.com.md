@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectyourcare.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628145630id_/http%3A//www.connectyourcare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectyourcare.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121014956id_/http%3A//www.connectyourcare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and End User Terms of Use | ConnectYourCare
 
@@ -13,6 +13,16 @@ To conduct our business, we may collect personal information about you from appl
 **Information Sharing and Disclosure**
 
 We may use and disclose information collected to affiliated third parties with which we contract for services, including your employer, to administer the program, evaluate and enhance the programs we offer and for certain other purposes as permitted by law. We will use or share only the minimum amount of personal information needed for a particular purpose. These parties are not permitted to use personally identifiable information except for the purpose of providing these services. We contractually require affiliated third parties to protect your information. We do not share your personal information with unaffiliated third parties or for reasons unrelated to the servicing of this program. We do not sell or rent any personal information collected whatsoever.
+
+**Confidentiality**
+
+Our policies limit access to personal user information that is collected from this website to our employees and agents and the employees and/or agents of our affiliates and business partners who need the information to fulfill their business responsibilities. We may disclose personal information collected online to our affiliates and to vendors who assist us with the services. In some cases, this may require your information to be sent to other countries. By supplying your information on this web site, you consent to your information being transferred across international borders to ConnectYourCare and our affiliates, vendors, or agents, unless otherwise agreed to in writing. Vendors and other outside contractors we engage are subject to our contractual requirements for safeguarding personal information.
+
+Employees and others with duties related to this website must adhere to this Privacy Policy and End User Terms of Use.  Our employees receive annual training about the privacy policies and procedures of ConnectYourCare and its affiliates and subsidiaries. We appreciate that protecting consumer privacy is a key part of our trusted relationship with our clients.
+
+Any employee violating this Privacy Policy and End User Terms of Use may be subject to disciplinary action, up to and including dismissal.
+
+By using this website, you agree that your use of the ConnectYourCare website is subject to the terms of this Privacy Policy and End User Terms of Use and any applicable agreement you have with ConnectYourCare.
 
 **Registration**
 
@@ -97,7 +107,7 @@ ConnectYourCare’s data is highly confidential, and therefore data should only 
 
 PLEASE READ THESE END USER TERMS OF USE CAREFULLY BEFORE ACCESSING OR USING OUR WEBSITES, SERVICES, OR MOBILE APPLICATIONS, DO NOT USE THE WEBSITE, SERVICE OR MOBILE APPLICATION IF YOU DO NOT AGREE TO THESE TERMS.
 
-Last updated: August 6, 2015
+Last updated: October 3, 2016
 
 These terms of Use (“Terms”) cover your use and access to our services, mobile application software and websites (“Services”). Our Privacy Policy explains how we collect and use your information while our Terms of Use Policy outlines your responsibilities when using our Services. By accessing the Site, Mobile Application and/or using the Services, you agree to abide by these terms of use, including our Privacy Policy (together, “End User Terms”). These End User Terms may be subject to change from time to time, and you are bound by the End User Terms in effect at the time you access the Services. If there is a material change to these End User Terms, we will notify you here by indicating a new effective date at the top of this page. We encourage you to refer to these End User Terms on an ongoing basis.
 
