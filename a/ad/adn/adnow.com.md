@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adnow.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629224439id_/http%3A//adnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adnow.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122004129id_/http%3A//www.adnow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - AdNow
+# Privacy policy - native advertising
 
 __By using this site, you agree to use cookie files for analytics, personalized content and advertising. More about our[Cookie Policy](https://web.archive.org/cookie-policy.html)
 
