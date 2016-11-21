@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adswizz.com privacy policy that was archived on 2016-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160121221638id_/http%3A//www.adswizz.com/terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adswizz.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121185244id_/http%3A//www.adswizz.com/terms-and-conditions) for the most accurate reproduction.*
 
 # Adswizz
 
@@ -11,6 +11,8 @@ The following sets forth the privacy practices and policy (“Privacy Policy”)
 ##### **What information do we collect to perform our services?**
 
 We collect or receive data from our customers (publishers/advertisers) in order to learn about the ads you might be interested in. This data includes but is not limited to browser identifier, wireless carrier, IP address, device type (website player, smartphone apps, Winamp media player…) and browsing information.
+
+We receive information about consumers from third parties to enable targeted advertising on the website(s) and application(s) that we support. The collection and use of that data is governed by the privacy policy and legal terms of the data collector and the website using the data; it is not governed by Adswizz.
 
 We also measure the exposure to online advertising campaign: number of impressions, number of clicks, numbers of users exposed, percentage of ad content played. We retain information on the ads that we served to you on a website and we reuse that information to deliver new ads when you visit another website on which we also serve ads. We do not collect information about your interests and insofar we collect information as to your reaction to the ad (skip the ad, click on the ad), we use it for statistic reporting purposes or for preventing ads to be served to you more often than foreseen.
 
@@ -49,3 +51,8 @@ This Privacy Policy is subject to change. We will post the updated version on ou
 ##### Questions or Comments
 
 If you have questions or comments regarding our Privacy Policy, please contact us at contact.us@adswizz.com
+
+Ads based on your interests:
+
+If you wish to opt out the ads based on user interest and demographic categories, please move the switch on the left to “disabled”. This applies only for this browser. In case you use multiple browsers (e.g Chrome, Safari, …),  
+do this procedure for each. If you clear you cache, you’ll need to do this procedure again.
