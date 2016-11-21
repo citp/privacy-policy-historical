@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the edvisors.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624134712id_/https%3A//www.edvisors.com/terms-privacy-disclaimer/%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edvisors.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121224212id_/https%3A//www.edvisors.com/terms-privacy-disclaimer/%23privacy-policy) for the most accurate reproduction.*
 
 # Terms of Use, Privacy Policy, and Disclaimer | Edvisors
 
 ## Terms of Use
 
-Last Modified: March 3, 2016
+Last Modified: June 30, 2016
 
 ### Contents
 
@@ -20,20 +20,21 @@ Last Modified: March 3, 2016
   10. Registration and Site Visitation Obligations
   11. Registered Services Password and Account Access
   12. Registered-User and Website Visitor Conduct
-  13. Disclaimer of Warranties
-  14. Limitation of Liability
-  15. Indemnification
-  16. Use and Storage
-  17. Trademark Information
-  18. Arbitration
-  19. Jurisdiction
-  20. Entire Agreement
-  21. Assignment
-  22. Invalidity; Waiver
-  23. Termination
-  24. Definitions
-  25. User Suggestions
-  26. Questions / Comments
+  13. Liability for Technical Disruptions to Our Website(s)
+  14. Disclaimer of Warranties
+  15. Limitation of Liability
+  16. Indemnification
+  17. Use and Storage
+  18. Trademark Information
+  19. Arbitration
+  20. Jurisdiction
+  21. Entire Agreement
+  22. Assignment
+  23. Invalidity; Waiver
+  24. Termination
+  25. Definitions
+  26. User Suggestions
+  27. Questions / Comments
 
 
 
@@ -148,29 +149,33 @@ You may not use any “deep-link,” “page-scrape,” “robot,” “spider�
 
 You may not attempt to gain unauthorized access to any portion or feature of the Services, or any other systems or networks connected to the Services or to any Edvisors server, or to any of the services offered on or through the Services, by hacking, password “mining” or any other illegitimate means. You may not harvest or collect User names, User IDs, email addresses or any other User identifying information by electronic or other means for the purpose of sending unsolicited email or other communications. Unauthorized commercial advertisements, affiliate links, and other forms of solicitation may be removed from User profiles and/or community postings without notice and may result in termination of User privileges.
 
-### 13\. Disclaimer of Warranties
+### 13\. Liability for Technical Disruptions to Our Website(s)
+
+If you cause a technical disruption of our website or any aspect of its functionality you agree to be responsible for any and all loss, costs, liabilities or expenses Edvisors may suffer and you agree to be liable for any attorneys' fees and costs arising from and/or related to the same. The foregoing shall be without limitation of our other venders in law or equity.
+
+### 14\. Disclaimer of Warranties
 
 You agree that use of the Services and this Website is solely at your own risk. All Services offered by Edvisors are provided on a strictly “as is” and “as available” basis, without representation or warranty of any kind. Neither Edvisors nor its third-party partners make any warranty, express or implied: (i) with regard to any products, services, or gifts obtained by you through the Services or through any third-party; (ii) that the services will meet your requirements; (iii) that the Services will be uninterrupted, timely, free of errors or without defects; (iv) as to the results you may obtain by using the Services; or (v) as to the accuracy or reliability of any information obtained via the Services. **EDVISORS EXPRESSLY DISCLAIMS ANY AND ALL EXPRESS, IMPLIED AND STATUTORY WARRANTIES REGARDING THE INFORMATION, SERVICES OR GOODS PROVIDED BY OR THROUGH THE SERVICES (OTHER THAN THOSE INCAPABLE OF EXCLUSION UNDER THE LAWS APPLICABLE TO THESE TERMS OF USE), INCLUDING, BUT NOT LIMITED TO: (I) THE IMPLIED WARRANTY OF MERCHANTABILITY; (II) THE IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR USER OR PURPOSE; AND (III) NON-INFRINGEMENT. EDVISORS CANNOT AND SHALL NOT BE LIABLE OR RESPONSIBLE FOR THOSE GUARANTEES, WARRANTIES, AND REPRESENTATIONS, IF ANY, OFFERED BY ANY THIRD-PARTY INCLUDING BUT NOT LIMITED TO: CLIENTS, SPONSORS, REWARD PARTNERS, MANUFACTURERS OF MERCHANDISE OR SUPPLIERS OF SERVICES. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM EDVISORS OR VIA THE SERVICES SHALL CREATE ANY WARRANTY NOT EXPRESSLY MADE HEREIN.**
 
-### 14\. Limitation of Liability
+### 15\. Limitation of Liability
 
 You understand that some goods and services offered through the Services may be offered by third-parties or affiliates, and that Edvisors does not operate, control or endorse any of their information, goods or services in any way. You understand that third-parties may place restrictions on the use of goods and services offered through the Services. Neither Edvisors nor its officers, directors, stockholders, subsidiaries, employees, agents, licensors, affiliates, or other third-party providers shall be held liable for any damages or losses, whether direct, indirect, incidental, special, consequential or exemplary damages resulting from: (i) the user or inability to use the Services; (ii) the cost of procurement of substitute goods or services; (iii) any transaction entered into or through the Services; (iv) the reliance on or use of any information, goods, services or merchandise provided through the Services; (v) unauthorized access to or alteration of your transmissions or data; (vi) statements or conduct of any third-party; (vii) any claim attributable to errors, omissions, or other inaccuracies in the Services and/or materials or information retrieved through the Services; or (viii) any other matter relating to the Services or these Terms of Use. The above limitation is applicable even if Edvisors or its authorized representatives have been advised of (or know or should know of) the possibility of such damages. Because some jurisdictions do not allow the exclusion of certain warranties or the limitation or exclusion of liability for incidental or consequential damages, some of the above limitations and disclaimers may not apply to you. Your rights vary from jurisdiction to jurisdiction. To the extent that we may not, as a matter of applicable law, disclaim any implied warranty, the scope and duration of such warranty shall be the minimum permitted under such applicable law. You acknowledge and agree that Edvisors neither endorses the contents of any electronic mail or Internet communications nor shall be held responsible or liable for: (i) the accuracy of material contained in electronic mail, Internet, or other communications of third-parties or affiliates; (ii) any infringement of third-party intellectual property rights arising from the electronic mail Internet, or other communications from third-parties or affiliates; or (iii) any fraud or other crime facilitated by the electronic mail, Internet, or other communications by third-parties or affiliates. You agree that Edvisors is not liable to you or to any third-party for any modification, suspension or discontinuances of services from particular providers to the Services.
 
-### 15\. Indemnification
+### 16\. Indemnification
 
 YOU AGREE TO INDEMNIFY AND HOLD HARMLESS EDVISORS AND ITS SUBSIDIARIES, PREDECESSORS, SUCCESSORS, AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, LICENSORS, SUPPLIERS, CO-BRANDERS, THIRD-PARTY PROVIDERS, CLIENTS, SPONSORS, REWARD PARTNERS OR OTHER PARTNERS, FROM AND AGAINST ANY AND ALL CLAIMS, LOSSES, COSTS (INCLUDING COURT COSTS), FEES (INCLUDING ATTORNEY’S FEES), DAMAGES AND EXPENSES THAT SUCH PARTIES MAY INCUR AS A RESULT OF, DUE TO, OR ARISING OUT OF THE VIOLATION BY YOU (OR ANYONE ACTING UNDER YOU ACCOUNT OR PASSWORD) OF THESE TERMS OF USE OR THE USE OR MISUSE OF THE SERVICES BY YOU (OR ANYONE ACTING UNDER YOUR ACCOUNT OR PASSWORD), OR THE VIOLATION OF ANY RIGHTS OF ANOTHER BY YOU (OR ANYONE ACTING UNDER YOUR ACCOUNT OR PASSWORD).
 
-### 16\. Use and Storage
+### 17\. Use and Storage
 
 You acknowledge that Edvisors may establish general practices and limits concerning use of the Services including, without limitation, the maximum number of days that information, data, account history or other uploaded content will be retained by the Services, the maximum disk space that will be allotted on Edvisors servers on your behalf, and the maximum number of times (and the maximum duration for which) you may access the Services in a given period of time. You acknowledge that Edvisors reserves the right to terminate accounts that are inactive for an extended period of time, as determined by Edvisors in its sole discretion. You further acknowledge that Edvisors reserves the right to change these general practices and limits at any time, in its sole discretion, with or without notice. You agree that EDVISORS has no responsibility or liability for the deletion or failure to store any information or data and other communications or other content maintained or transmitted by or through the Services.
 
-### 17\. Trademark Information
+### 18\. Trademark Information
 
 All Edvisors trademarks, as well as any third-party trademarks, service marks, logos and trade names appearing on this Website or on or through the Services, are the property of their respective owners, and you may not copy or use them in any manner.
 
 Nothing contained on this Website should be understood as granting you a license to use any of the trademarks, service marks, or logos owned by Edvisors or by any third party.
 
-### 18\. Arbitration: PLEASE READ CAREFULLY. IT AFFECTS YOUR RIGHTS
+### 19\. Arbitration: PLEASE READ CAREFULLY. IT AFFECTS YOUR RIGHTS
 
   1. Most of your concerns can be resolved quickly by contacting Edvisors at [info@edvisors.com](mailto:info@edvisors.com). In the event that we cannot resolve your concern, binding arbitration through the following procedures shall be your sole and exclusive remedy. Any arbitration under these Terms of Use will take place on an individual basis; class arbitrations and class actions are not permitted.
   2. Pursuant to the Federal Arbitration Act, Edvisors and you agree to arbitrate all disputes and claims between us. This agreement to arbitrate is intended to be broadly interpreted. It includes, but is not limited to, claims arising out of or relating to any aspect of the relationship between us, regardless of legal theory, including, but not limited to, claims relating to advertising and claims relating to any and all use of the Service(s), whether brought during or after the term of these Terms of Use. References to “Edvisors,” “you,” and “us” include our respective corporate subsidiaries and parents, affiliates, agents, employees, officers, directors, predecessors in interest, successors, and assigns, as well as all authorized or unauthorized users or beneficiaries of services under these Terms of Use or prior agreements between us. Notwithstanding the foregoing, either party may bring an individual action in small claims court. You agree that, by accepting these Terms of Use, you and Edvisors are each waiving the right to a trial by jury or to participate in a class action. This Section 18 shall survive termination of these Terms of Use.
@@ -181,23 +186,23 @@ Nothing contained on this Website should be understood as granting you a license
 
 
 
-### 19\. Jurisdiction
+### 20\. Jurisdiction
 
 These Terms of Use and any dispute of any kind that arises with Edvisors shall be governed by the laws of the State of Nevada without regard to the principles of conflicts of laws. You further agree to irrevocably submit to the exclusive personal jurisdiction of Nevada courts.
 
-### 20\. Entire Agreement
+### 21\. Entire Agreement
 
 These Terms of Use constitutes the complete, final and exclusive understanding between Edvisors and you relating to the subject matter hereof and governs your use of the Service(s), superseding all prior or contemporaneous understandings, agreements and/or communications with respect to such subject matter. You may be subject to additional terms and conditions that may apply when you obtain or use third-party content, third-party software or goods and services provided by or through Clients, Sponsors, Reward Partner, Affiliates or other third-party partners of Edvisors.
 
-### 21\. Assignment
+### 22\. Assignment
 
 These Terms of Use, and any rights and licenses granted hereunder, may not be transferred or assigned by you, but may be assigned by Edvisors without restriction.
 
-### 22\. Invalidity; Waiver
+### 23\. Invalidity; Waiver
 
 If any provision of these Terms of Use is deemed invalid by a court of competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of these Terms of Use, which shall remain in full force and effect. No waiver of any term of these Terms of Use shall be deemed a further or continuing waiver of such term or any other term, and Edvisors’ failure to assert any right or provision under these Terms of Use shall not constitute a waiver of such right or provision.
 
-### 23\. Termination
+### 24\. Termination
 
 A Member may terminate their membership in any of the Registered Services with or without cause at any time. Member’s termination of Registered Services is effective upon Member’s terminating his/her membership on the Service’s Website. A visitor to any Edvisors Website who is not a Member but who does not agree to any of the terms and conditions of these Terms of Use should not use any of the Services and should exit the Website immediately.
 
@@ -205,7 +210,7 @@ Edvisors may terminate membership and use of any of the Registered Services and 
 
 Upon termination by either you or Edvisors: (i) Edvisors may immediately deactivate or delete your account and all related information and files and/or bar any further access to such files or the Services: (ii) your rights to use the Service(s) ceases immediately, including any rights to contests, games, or activities active at the time of termination; (iii) should you object to any of these Terms of Use or any subsequent modifications thereto or become dissatisfied with the Service, your only recourse is to immediately discontinue use of the Service. You agree that Edvisors shall not be liable to you or to any third-party for any termination of your account or your access to the Services.
 
-### 24\. Definitions
+### 25\. Definitions
 
   1. **Sponsor:** Any company or an organization that pays Edvisors to plan and carries out a sweepstakes, contest or activity on an Edvisors’ owned and operated website or mail-in promotion.
   2. **Client:** Any company which Edvisors has a contract with to connect Edvisors members with. The Client would plan and carry out the sweepstakes, survey, contest or activity on Client’s owned and operated website or mail-in promotion.
@@ -214,11 +219,11 @@ Upon termination by either you or Edvisors: (i) Edvisors may immediately deactiv
 
 
 
-### 25\. User Suggestions
+### 26\. User Suggestions
 
 You acknowledge and agree that any questions, comments, suggestions, ideas, feedback or other information provided by you to Edvisors are not commercial and you grant us a worldwide, royalty-free license to distribute, publish, modify, edit or otherwise use your submissions. Edvisors shall be entitled to the unrestricted use and dissemination of these submissions for any purpose, commercial or otherwise without any acknowledgement of or compensation to you.
 
-### 26\. Questions/Comments
+### 27\. Questions/Comments
 
 If you have any questions or comments about the Services or become aware of misuse of the Services by any person, please contact us at [info@edvisors.com](mailto:info@edvisors.com) or at the following address: Edvisors Network, Inc., 10000 W. Charleston Blvd., Suite 200, Las Vegas, NV 89135
 
