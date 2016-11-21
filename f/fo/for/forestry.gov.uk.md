@@ -1,34 +1,99 @@
-> *The following text is extracted and transformed from the forestry.gov.uk privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621155103id_/http%3A//forestry.gov.uk/forestry/infd-52ybs4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forestry.gov.uk privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121110521id_/http%3A//www.forestry.gov.uk/forestry/infd-52ybs4) for the most accurate reproduction.*
 
 # Forestry Commission - Privacy Policy
 
 This page explains how we use any information you give to us through our website, and the ways in which we protect your privacy.
 
+## Personal information charter
+
+This charter sets out what our standards are for requesting or storing your personal information.
+
+It also covers what we ask from you to help us keep your information up to date.
+
+When we ask you for personal information, we promise to:
+
+  * make sure you know why we need it
+  * only ask for what we need, and not to collect too much or irrelevant information
+  * protect it and make sure nobody has access to it who shouldn’t
+  * only share it with other organisations when the law allows
+  * make sure we don’t keep it longer than necessary
+  * note make your personal information available for commercial use without your permission.
+
+
+
+In return, we ask you to:
+
+  * give us accurate information
+  * tell us as soon as possible if there are any changes, such as a new address
+
+
+
+This helps us to keep your information reliable and up to date.
+
+You can get more details on:
+
+  * how to find out what information we hold about you and how to ask us to correct any mistakes
+  * agreements we have with other organisations for sharing information
+  * circumstances where we can pass on your personal information without telling you, for example, to prevent and detect crime or to produce anonymised statistics
+  * our instructions to staff on how to collect, use and delete your personal information
+  * how we check the information we hold is accurate and up to date
+  * how to make a complaint
+
+
+
+Contact   
+Data Protection Officer  
+Forestry Commission  
+Silvan House  
+Edinburgh EH12 7AT  
+Tel: 0300 067 5000  
+Email: [Fiona.alexander@forestry.gsi.gov.uk](mailto:Fiona.alexander@forestry.gsi.gov.uk)
+
+For independent advice about data protection, privacy and data-sharing issues, you can contact the [Information Commissioners Office](https://ico.org.uk/).
+
+Back to top
+
 ## The Data Protection Act
 
-The Forestry Commission is a data controller under the Data Protection Act. Under the Act, we have a legal duty to protect any information we collect from you. We safeguard your data, and keep strict security standards to prevent any unauthorised access to it. We do not pass on your details to any third party or other government department (except to process on our behalf) unless you give us permission to do so.
+Under the Data Protection Act 1998, the Forestry Commission has a legal duty to protect any information we collect from you. We have procedures and security features in place that aim to keep your data secure once we receive it. We store your data on our secure servers in the UK.  
+We won’t share your information with any other organisations for marketing, market research or commercial purposes, and we don’t pass your details to other websites.
 
 Some of our applications are provided by third parties and may have different terms and conditions and privacy/cookie policies:
 
-[Consultation Hub](https://englandconsult.forestry.gov.uk/privacy_policy)
+  * [Consultation Hub](https://englandconsult.forestry.gov.uk/privacy_policy)
+  * [eTimber Sales](https://web.archive.org/pdf/usertermsandconditions.pdf/$FILE/usertermsandconditions.pdf)
 
-[eTimber Sales](https://web.archive.org/pdf/usertermsandconditions.pdf/$FILE/usertermsandconditions.pdf)
 
-## Cookies
 
-### Introduction
+Back to top
+
+## Information we collect
+
+We collect certain information or data about you when you use our website. This includes:
+
+  * questions, queries or feedback you leave, including your email address if you send an email to FORESTRY.GOV.UK
+  * your IP address, and details of which version of web browser you used
+  * information on how you use the site, using cookies and page tagging techniques to help us improve the website
+  * details to allow you to access our services and transactions e.g. an email address (you’ll always be told when this information is being collected, and it will only be used for the purpose you provide it for) This helps us to:
+  * improve the site by monitoring how you use it
+  * respond to any feedback you send us, if you’ve asked us to
+  * provide you with information about our services if you want it
+
+
+
+### Cookies
+
+**  
+Introduction**
 
 When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally.
 
 These pieces of information are used to improve services for you through, for example:
 
   * enabling a service to recognise your device so you don't have to give the same information several times during one task
-  
-
   * recognising that you may already have given a username and password so you don't need to do it for every web page requested
-  
-
   * measuring how many people are using services, so they can be made easier to use and there's enough capacity to ensure they are fast
+  * recognising which people are visiting our web pages through social media sites, to make it possible to use targeted advertising
 
 
 
@@ -36,17 +101,15 @@ You can manage these small files yourself and learn more about them through  "[
 
 If you'd like to learn how to remove cookies set on your device, visit '[Our use of cookies](http://www.aboutcookies.org/Default.aspx?page=1)'
 
-### Picture Library
+**Picture Library  
+** On this site we use cookies in the Picture Library to store your lightbox for your next visit. We do not collect any information about you using cookies.
 
-On this site we use cookies in the Picture Library to store your lightbox for your next visit. We do not collect any information about you using cookies.
-
-Cookie| Typical content| Duration  
+Cookie | Typical content | Duration  
 ---|---|---  
 MyLightbox |   | 2 months  
   
-### Tree Alert
-
-Our Tree Alert application uses session cookies. These are stored for the duration of the session, and are used to associate the servers session with the connected user.
+**Tree Alert  
+** Our Tree Alert application uses session cookies. These are stored for the duration of the session, and are used to associate the servers session with the connected user.
 
 Cookie Name: _ga  
 Duration: 2 years  
@@ -56,15 +119,13 @@ Cookie Name: _gat
 Duration: 10 minutes  
 Purpose: Used to throttle request rate.
 
-### eTimber sales
-
-Cookie name: lastSession  
+**eTimber sales  
+** Cookie name: lastSession  
 Duration: 15 minutes  
 Purpose: This is a session id. If the session id is expired, the user needs to login again. 
 
-### Google Analytics
-
-Our website also uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses cookies -text files placed on your computer, to help the website analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google uses this information to evaluate your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet use. Google may transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.
+**Google Analytics  
+** Our website also uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses cookies -text files placed on your computer, to help the website analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google uses this information to evaluate your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet use. Google may transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.
 
 By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
@@ -72,7 +133,7 @@ You may refuse the use of cookies by selecting the appropriate settings on your 
 
 Google Analytics sets cookies to help us accurately estimate the number of visitors to the website and volumes of usage. This to ensure that the service is available when you want it and fast.
 
-Cookie| Typical content| Duration  
+Cookie | Typical content | Duration  
 ---|---|---  
 _utma | randomly generated number | 2 years  
 _utmb | randomly generated number | 30 minutes  
@@ -82,19 +143,17 @@ _utmz | randomly generated number + info on how the site was reached (e.g. direc
   
 For further details on the cookies set by Google Analytics, please refer to the [Google Code website](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html#cookiesSet).
 
-### Google Maps
+**Google Maps**
 
-Cookie| Typical content| Duration  
+Cookie | Typical content | Duration  
 ---|---|---  
 PREF |   | 2 years  
 NID |   | 6 months  
 SNID |   | 6 months  
   
-### Third party cookies
+**Third party cookies - F** **acebook**
 
-**Facebook**
-
-Cookie| Typical content| Duration  
+Cookie | Typical content | Duration  
 ---|---|---  
 datr |   | 2 years  
 lsd |   | session  
@@ -111,9 +170,10 @@ s |   | session
 xs |   | session  
 presence |   | session  
   
-**Twitter**
+**  
+Third party cookies - Twitter**
 
-Cookie| Typical content| Duration  
+Cookie | Typical content | Duration  
 ---|---|---  
 guest_id |   | 2 years  
 k |   | 1 week  
@@ -124,16 +184,17 @@ original_referer |   |  
 lang |   |    
 twll |   |    
   
-**Flickr**
+**  
+Third party cookies - Flickr**
 
-Cookie| Typical content| Duration  
+Cookie | Typical content | Duration  
 ---|---|---  
 B |   | 2 years  
 Bx |   | 1 week  
   
-### How to control and delete cookies
-
-We will not use cookies to collect personnally identifiable information about you.
+**  
+How to control and delete cookies  
+** We will not use cookies to collect personnally identifiable information about you.
 
 However, if you wish to restrict or block the cookies which are set by our website, or indeed any other website, you can do this through your browser settings. The 'Help' section within your browser should tell you how.
 
@@ -145,7 +206,7 @@ If you wish to view your cookie code, just click on a cookie to open it. You'll 
 
 To opt-out of third parties collecting any data regarding your interaction on our website, please refer to their website for further information.
 
-## Log Files
+### Log Files
 
 Log files allow us to record visitors' use of the site which we use to make changes to the layout of the site and to the information in it, based on the way that visitors move around it. Log files do not contain any personal information about you or information about which other sites you have visited.
 
@@ -157,9 +218,9 @@ We collect different kinds of information from visitors to our website:
 
   * feedback
   * calls to our helpdesk
-  * requests for information 
+  * requests for information
   * consultation responses
-  * registration details for some areas of the site 
+  * registration details for some areas of the site
 
 
 
@@ -191,6 +252,13 @@ Although most of our site does not require you to register there are a few areas
 
 Back to top
 
+##   
+Disclosing your information
+
+We may need to pass on your personal information if we have a legal obligation to do so, or if we have to enforce or apply our website policies and other agreements.
+
+Back to top
+
 ## Links to other sites
 
 When using this site you may access an online service or transaction that is delivered by another government department or agency, or by a commercial supplier. Each of these services will have its own privacy policy and terms and conditions or end user licences that apply only to that service. Users of any service should make sure they have read the relevant terms and conditions before completing that transaction.
@@ -213,10 +281,8 @@ Edinburgh
 EH12 7AT  
 United Kingdom
 
-T: 0300 067 5053
-
 If this privacy policy changes in any way, we will update this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
 
 Back to top
 
-Last updated: **15th January 2016**
+Last updated: **3rd August 2016**
