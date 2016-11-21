@@ -1,100 +1,69 @@
-> *The following text is extracted and transformed from the frontlineeducation.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontlineeducation.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121035401id_/http%3A//www.frontlineeducation.com/Pages/Privacy_Policy.html) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+## **Frontline Technologies Group LLC**  
+**Privacy Policy**  
+ 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+The privacy of online visitors to our website (“Website Visitors”), to school districts and schools who purchase our Service (“Districts”), and to educators and students whose information we may access on behalf of a District (“Educators” and “Students”) is a high priority for Frontline Technologies Group LLC (“Frontline”).
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+  Frontline provides a platform that provides Districts with the best, most popular tools for employee management, all in one place.  Built specifically for K-12 districts, our tools help you get out of the administrative tasks and instead focus on advancing student growth through your employees.  We also provide online tools for educators to discover job opportunities and an online marketplace where educators can buy, sell and share valuable classroom resources and educational materials.  Educators and school administrators can then more efficiently manage administrative tasks and instead focus on advancing student growth through your employees.  As we describe below, Districts decide which data are integrated with Frontline, and Districts are responsible for determining whether data are ever shared with Frontline.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+  **Information We Collect**
 
-**Information Collection and Use**
+ _Information about Districts and Schools:_
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We ask for certain information when a District administrator, Educator or other user registers with Frontline, or if the user corresponds with us online, which may include a name, school name, school district name, school email address and/or account name and password, phone number, and/or message content. We may also retain information provided by a District or School if the District or Schools sends us a message, posts content to our website or through our Service, or responds to emails or surveys. Once a District begins using the Frontline Service, we will keep records of activities related to the Service. We use this information to operate, maintain, and provide the features and functionality of the Service, to monitor our Service offerings, and to communicate with our Districts and website visitors. Frontline stores data provided by Educational Organizations related to teachers and other school employees, such as:
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+  * Demographic information including the individual’s name, address, email address, and date of birth, social security number;
+  * Credentials obtained and the granting institution;
+  * Information about the individual’s employment with the Educational Organization;
+  * System usernames and passwords.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+   
+_Student Data:_
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Frontline has access to personally identifiable information about students (“Student Data”) in the course of providing its services to a District. We consider Student Data to be confidential and do not use such data for any purpose other than to provide the services on the District’s behalf. Frontline receives Student Data only from the District and never interacts with the Student directly.  Frontline has access to Student Data only as requested by the District and only for the purposes of performing Services on the District’s behalf.  The data your Educational Organization stores on Frontline’s systems may include the following information about students and their guardians: 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+  * Demographic information including name, mailing address, email address, and date of birth;
+  * Student education records including your student’s grades, class enrollment, and behavioral records;
+  * Health-related information required for Medicaid reimbursement
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Security**
+_   
+_Information collected through technology:_ We automatically collect certain types of usage information when visitors view our website or use our service. We may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets Frontline help you log in faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click and other actions you take on the Service), and allow us to track your usage of the Service over time. We may collect log file information from your browser or mobile device each time you access the Service. Log file information may include anonymous information such as your web request, Internet Protocol (“IP”) address, browser type, information about your mobile device, number of clicks and how you interact with links on the Service, pages viewed, and other such information. We may employ clear gifs (also known as web beacons), which are used to anonymously track the online usage patterns of our Users. In addition, we may also use clear gifs in HTML-based emails sent to our Districts to track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Service. We may also collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service. We do not allow third party advertising networks to collect information about the users of our Site or Service.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+  We use or may use the data collected through cookies, log files, device identifiers, and clear gifs information to: (a) remember information so that a user will not have to re-enter it during subsequent visits; (b) provide custom, personalized content and information; (c) to provide and monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, and usage on our website and our Service; (e) diagnose or fix technology problems; and (f) help users efficiently access information after signing in.
 
-**Updating Your Information**
+  **Disclosure to Third Parties**  
+Except for the ways outlined in this Privacy Policy, we will not disclose the information described in this section to any third party unless we believe that such action is necessary to (a) comply with a court order or other legal process served on us or assist government enforcement agencies; (b) investigate or prevent suspected illegal activities or protect the security and integrity of Frontline Education, Inc.; (c) enforce this Privacy Policy, our Terms of Service, or other such binding agreements; (d) take precautions against liability, investigate or defend against any third-party claims or allegations; or (e) exercise or protect the rights, property, or personal safety of Frontline, its employees, customers, or others.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+  Frontline only shares information in the ways described in this Privacy Policy. We never sell personal information to third parties. Frontline stores such information in locations outside its facilities, such as on servers co-located with third-party hosting providers.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+  **How We Protect Your Information**
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+ _Data Protection:_ Frontline maintains strict administrative, technical and physical procedures to protect information stored in our servers.  Access to information is limited (through unique account credentials) to those employees who require it to perform their job functions. Additionally, we use unique account identifiers which attribute each user to a specific account. We have many unit and integration tests in place to ensure these privacy controls work as expected. These tests are run every time our codebase is updated and even one single test failing will prevent new code being shipped to production. We use industry-standard Transport Layer Security (TLS) encryption technology to safeguard the account registration process, sign-in information and data transmitted to Frontline servers. We store and process data in accordance with industry best practices. This includes appropriate administrative, physical, and technical safeguards to secure data from unauthorized access, disclosure, and use.  We will conduct periodic risk assessments and remediate any identified security vulnerabilities in a timely manner. _Incident Response:_ We also have a written incident response plan, to include prompt notification of the Districts and Educators in the event of a security or privacy breach of protected information. _Review or Deletion of Records Maintained by Frontline:_ To review or update your information to ensure its accuracy or to correct any errors and omissions, please contact your Educational Organization directly. Requests sent to Frontline seeking a copy of such records, or demanding that Frontline modify or delete any records that it maintains will be forwarded directly to the appropriate Educational Organization. Please note that even when records are modified or deleted from Frontline’s active databases, copies may remain in data backups as necessary to comply with business or regulatory requirements. _Data Retention:_ We will not knowingly retain personal information beyond the time period required to support the authorized educational/school purposes.  Following termination or deactivation of a District account, Frontline may retain profile information and content for a commercially reasonable time for backup, archival, or audit purposes, but any and all Student Data associated with the District will be deleted promptly. We may maintain anonymized or aggregated data, including usage data, for analytics purposes.
 
-      iii.      You may call us at: (480) 505-8800
+  Despite these precautions, no system can be completely secure and there remains a risk that unauthorized access or use, hardware or software failure, human error, or a number of other factors may compromise the security of your information.
 
-       iv.      You may fax us at: (480) 505-8844
+  **Marketing and Promotions**  
+You may receive email communications for partner or internal promotions and you will always have the ability to opt out directly in the email message. Product related messages cannot be opted out of and will continue to keep you informed of important product updates.  We do not use or disclose student information collected for behavioral targeting of advertisements.
 
-**Sending Emails**
+    **Links to Other Web Sites and Services**  
+Please remember that this privacy policy applies to the Frontline Services and Frontline website, and not other websites or third party applications, which may have their own Privacy Policies. You should carefully read the privacy practices of each third party application before agreeing to engage with the application through the Service.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+  **Updates to this Privacy Policy**  
+We may update or modify this Privacy Policy to reflect changes in the way Frontline maintains, uses, shares, or secures your information. Please check this Policy each time you interact with our systems to ensure that you are aware of any revisions. Prior to any material changes to this Policy becoming effective, Frontline will provide notice to your Educational Organization and allow it the opportunity to make choices regarding the data it stores with Frontline.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+  **How to Contact Us**  
+If you have questions about this Privacy Policy, please contact us by email, telephone, or postal mail:  
+Email:  [security@frontlineed.com](mailto:security@frontlineed.com)  
+Address:          
+1400 Atwater Drive  
+Malvern, PA 19533
 
-**Compliance with Laws and Law Enforcement**
+    _This privacy policy was last modified on November 2, 2016._
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+_
