@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the copartmea.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512170224id_/http%3A//www.copartmea.com/Content/UK/EN/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copartmea.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121014354id_/http%3A//www.copartmea.com/Content/UK/EN/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Copart
 
 **Copart Privacy Policy**
 
-**_(Last updated on:_** ** _25 th January 2015)_** ** __**
+**_(Last updated on:_** ** _25 th January 2015)_**
 
-**What This Privacy Policy Covers** ********
+**What This Privacy Policy Covers** ****
 
 This policy governs the website operated at www.copartmea.com and the information practices of and any other electronic services or applications (the “Electronic Services”) offered by   (“Copart Bahrain Auctions WLL, Copart Muscat Auctions LLC, Copart UAE Auctions LLC or Copart, Inc. (“ **Copart** ”) their parent corporation based in the United States of America.  By providing personal information through our website or any Electronic Services you understand and acknowledge that you are providing your personal information to all Copart entities listed above. Personal information is information about you that is personally identifiable, such as your name, address, email address, or phone number, and that is not otherwise publicly available.
 
 This policy does not apply to the practices of companies that Copart does not own or control or to people that Copart does not employ or manage.
 
-**Information Collection and Use** **  ******
+**Information Collection and Use** **  **
 
 We collect personal information when you register with us and when you use our services.
 
@@ -24,7 +24,7 @@ We automatically receive and record information on our server logs regarding you
 
 We use information for the following general purposes: to contact you, to facilitate bidding, buying, and selling of items by you through Copart, to transfer title and ownership of items bought and sold by you, and to comply with laws and regulations related to purchases and sales of items by you through us.
 
-**Information Sharing and Disclosure** ********
+**Information Sharing and Disclosure** ****
 
 We do not rent, sell, or share personal information about you with other people or non-affiliated companies except to (i) provide products or services you’ve requested, (ii) when we have your permission, or (iii) under the following circumstances:
 
@@ -36,7 +36,7 @@ We do not rent, sell, or share personal information about you with other people 
 
 
 
-**International Visitors and Customers** ********
+**International Visitors and Customers** ****
 
 The copartmea.com web site is hosted in the United States of America by Copart on our behalf. The United States has not been determined to provide adequate data protection. However, Copart adheres to the Safe Harbor principles negotiated between the United States and the EU regarding data protection for customer data and personal data we receive when you register for our services or use our website. Accordingly, when visiting our website or providing personal data to us, we have taken steps to ensure the adequate protection of the processing of your personal data in accordance with applicable data protection law.
 
@@ -47,7 +47,7 @@ Please note that you are transferring your personal data to the United States an
 
 
 
-**Cookies** ********
+**Cookies** ****
 
 We may place a text file called a “cookie” in the browser files of your computer.  The cookie itself does not contain personal information although it will enable us to relate your use of Copart websites or Electronic Services to information that you have specifically and knowingly provided.  But the only personal information a cookie can contain is information you supply yourself. A cookie can’t read data off your hard disk or read cookie files created by other websites.
 
@@ -57,11 +57,11 @@ In addition, we use encrypted cookies to authenticate the user on each page afte
 
 Accepting the log-in cookies will enable you to access the members’ area of our website or Electronic Services, but some other features and services (for example creating customised searches for vehicles) may not function properly or conveniently if your other cookies are disabled. You can refuse cookies by turning them off in your browser. Alternatively you can set your browser to warn you before accepting cookies; this means you will receive the warning message with each cookie.
 
-**Communications** ********
+**Communications** ****
 
 We reserve the right to send you certain communications relating to our services and your account with us, including but not limited to notifications, service announcements, and administrative messages without offering you the opportunity to opt-out of receiving them (although we will obtain your consent at the time you create your account). Should you choose not to receive such communications your continued access to or use of our services may not be possible.
 
-**Data Storage** ********
+**Data Storage** ****
 
 We may store your account information in our databases indefinitely following the termination of your account with us to the maximum extent permitted by law.  
 
@@ -103,6 +103,6 @@ We have implemented a company-wide education and training program about security
 
 We may update this policy. When we do, we will also revise the date at the start of this document. For changes to this policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will attempt to obtain your consent before implementing the change. We encourage you to periodically review this policy to stay informed about how we are protecting the information we collect. Your continued use of this website constitutes your agreement to this policy and any updates.
 
-**Questions and Suggestions** **  ******
+**Questions and Suggestions** **  **
 
 If you have questions or suggestions about our Privacy Policy, please contact us at [infouae@copart.com](mailto:infouae@copart.com)
