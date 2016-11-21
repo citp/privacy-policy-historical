@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laird-assessors.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402083423id_/http%3A//www.laird-assessors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laird-assessors.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121223815id_/http%3A//www.laird-assessors.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy | Laird Assessors
 
@@ -26,7 +26,7 @@ We may collect and process the following data about you:
 
 ## Cookies
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie policy [LINK].
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie policy.
 
 ## Uses made of the information
 
@@ -66,7 +66,7 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If Laird Assessors Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use [INSERT AS LINK TO WEBSITE'S TERMS OF USE] and other agreements; or to protect the rights, property, or safety of Laird Assessors Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](http://www.laird-assessors.com/terms-conditions "View our terms and conditions") and other agreements; or to protect the rights, property, or safety of Laird Assessors Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
@@ -80,7 +80,7 @@ Unfortunately, the transmission of information via the internet is not completel
 
 ## Your rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at [info@laird-assessors.com](mailto:info@laird-assessors.com).
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at [opt-out@laird-assessors.com](mailto:opt-out@laird-assessors.com?subject=OPT%20OUT%20REQUEST "OPT OUT REQUEST").
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
 
