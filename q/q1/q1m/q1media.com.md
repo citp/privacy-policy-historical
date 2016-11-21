@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the q1media.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625132051id_/http%3A//www.q1media.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the q1media.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122003041id_/http%3A//www.q1media.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Q1Media Inc
 
@@ -28,13 +28,17 @@ DO WE DISCLOSE ANY INFORMATION TO OUTSIDE PARTIES?
 
 Anonymous Information: Non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. We share such Anonymous Information with our partners, advertisers, and other third parties at our discretion. Compliance with the Law: We may release your information when we believe in good faith that release is appropriate to (a) comply with the law; (b) respond to subpoenas, warrants, or other governmental orders; or (c) protect our or others’ rights, property, or safety.
 
+We receive information about consumers from third parties to enable targeted advertising on the website(s) and application(s) that we support. The collection and use of that data is governed by the privacy policy and legal terms of the data collector and the website using the data; it is not governed by Q1Media.
+
 OPTION TO OPT OUT
 
 To opt out of these third party cookies, you may visit the following partner websites:
 
-[http://www.magnetic.com/about/privacy](http://www.magnetic.com/about/privacy/)
+[Magnetic Privacy Policy](http://www.magnetic.com/about/privacy/)
 
-[https://www.simpli.fi/ad-serving-privacy-policy-3](https://www.simpli.fi/ad-serving-privacy-policy-3/) 
+[Simpli.fi Privacy Policy](https://www.simpli.fi/ad-serving-privacy-policy-3/) 
+
+[Captify Privacy Policy](http://www.captify.co.uk/privacy-policy/)
 
 OPT OUT LINK SECTION TWO – CONCERNING THOSE WHO REGISTER WITH US FOR OUR SERVICES
 
