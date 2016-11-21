@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savebuddy.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625025451id_/http%3A//savebuddy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savebuddy.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121233016id_/http%3A//savebuddy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – SaveBuddy
 
