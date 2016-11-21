@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhost4life.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610112605id_/http%3A//www.webhost4life.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhost4life.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121054024id_/http%3A//www.webhost4life.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # WebHost4Life's Privacy Policy
 
