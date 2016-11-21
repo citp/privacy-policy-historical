@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hireitpeople.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608123302id_/http%3A//hireitpeople.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hireitpeople.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121220557id_/http%3A//hireitpeople.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
