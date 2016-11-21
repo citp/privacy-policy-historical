@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hugoboss.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609101644id_/http%3A//www.hugoboss.com/us/about-hugo-boss/privacy-statement/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hugoboss.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121124232id_/http%3A//www.hugoboss.com/us/about-hugo-boss/privacy-statement/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
-**Hugo Boss Privacy Policy**
+## Hugo Boss Privacy Policy
 
 ## Last Updated February 2016
 
