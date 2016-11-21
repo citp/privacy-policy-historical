@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobg8.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629213254id_/http%3A//jobg8.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobg8.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121144621id_/http%3A//www.jobg8.com/privacy.aspx) for the most accurate reproduction.*
 
 # Jobg8 - Privacy Policy
 
@@ -35,6 +35,8 @@ Unless required to do so by law, we will not otherwise share, sell or distribute
 If you are searching for work, we will assist you in your job seeking. Our service connects job seekers and employers across the World Wide Web. As part of our service we will collect and process your job applicaiton and deliver it to the advertiser. 
 
 We will also work with job advertising websites to which you are already registered to keep them informed of your current job seeking activity. 
+
+If you are looking for additional services such as training courses we will assist you in searching and contacting training companies. As part of our service we will process your training course enquiry and deliver it to the course provider. 
 
 ### COOKIES
 
