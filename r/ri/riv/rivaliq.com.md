@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rivaliq.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601082920id_/https%3A//www.rivaliq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rivaliq.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121095810id_/https%3A//www.rivaliq.com/privacy) for the most accurate reproduction.*
 
 # Competitor Analysis for Digital Marketers | Rival IQ
 
