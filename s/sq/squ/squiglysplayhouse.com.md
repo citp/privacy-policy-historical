@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squiglysplayhouse.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621171537id_/http%3A//www.squiglysplayhouse.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squiglysplayhouse.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121132511id_/http%3A//www.squiglysplayhouse.com/Privacy.html) for the most accurate reproduction.*
 
 # Squigly's Playhouse
 
@@ -16,7 +16,7 @@ This information is used to measure the number of visitors to the different sect
 
 If a visitor arrives as a result of clicking on one of our ads on another web site, that fact is recorded in order to gauge the effectiveness of our ads.
 
-  2. If you send us e-mail via the [Write to Squigly](https://web.archive.org/web/20160621171537id_/http%3A//www.squiglysplayhouse.com/WriteToSquigly/index.php) form we record the following information (all fields are optional):
+  2. If you send us e-mail via the [Write to Squigly](https://web.archive.org/web/20161121132511id_/http%3A//www.squiglysplayhouse.com/WriteToSquigly/index.php) form we record the following information (all fields are optional):
 
 > Your **first name** is only recorded to personalize any respone and is then discarded. You are never required to enter your last name.
 > 
@@ -30,7 +30,8 @@ No information received via this form is retained after we have appropriately re
 
   4. We have contracted with Burst! and Casale Media to monitor certain pages of our website for the purpose of reporting website traffic, statistics, advertisement 'click-throughs', and/or other activities on our website. Where authorized by us, Burst! and Casale may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser and these advertisers do not perform bahavioural advertising in relation to visits to Squigly's Playhouse. For more information about how the information is collected and used by these companies please see their privacy policies by clicking on the appropriate link below.
 
-> [Burst!](https://www.burstmedia.com/release/privacy.asp)  
+> [Rhythm One](https://www.rhythmone.com/privacy-policy)  
+>  [Playwire Media](http://www.playwire.com/privacy-policy/)  
 >  [Casale Media](http://casalemedia.com/privacy.html)  
 >  [Google Adsense](http://www.google.com/intl/en/policies/privacy/)
 
@@ -49,7 +50,7 @@ If you have any further questions or concerns please write to:
 
 > Barb Willner  
 >  Squigly's Playhouse  
->  P.O. Box 241  
+>  P.O. Box 3020  
 >  Southampton, Ontario  
 >  Canada N0H 2L0
 > 
