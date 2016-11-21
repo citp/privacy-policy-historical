@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishlore.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608231433id_/http%3A//www.fishlore.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishlore.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121160034id_/http%3A//www.fishlore.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for FishLore.com - Tropical Fish Information
 
