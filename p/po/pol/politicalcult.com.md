@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the politicalcult.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615151331id_/http%3A//politicalcult.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politicalcult.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121075919id_/http%3A//politicalcult.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Political Cult
 
