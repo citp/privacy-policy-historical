@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhscareers.nhs.uk privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412065249id_/https%3A//www.healthcareers.nhs.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhscareers.nhs.uk privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121021859id_/https%3A//www.healthcareers.nhs.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and cookies | Health Careers
 
@@ -249,6 +249,6 @@ You can block cookies by activating the setting on your browser that allows you 
 
   * [Printer-friendly version](https://www.healthcareers.nhs.uk/print/37 "Display a printer-friendly version of this page.")
   * [PDF version](https://www.healthcareers.nhs.uk/printpdf/37 "Display a PDF version of this page.")
-  * [Login to Bookmark](https://web.archive.org/user/login?destination=privacy-and-cookies%23tools)
+  * [Login to Bookmark](https://web.archive.org/user/login?destination=/my-account/my-bookmarks/37)
 
 
