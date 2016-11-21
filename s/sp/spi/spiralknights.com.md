@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the spiralknights.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605024202id_/http%3A//www.spiralknights.com/privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiralknights.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121012106id_/http%3A//www.spiralknights.com/privacy.xhtml) for the most accurate reproduction.*
 
 # Spiral Knights - Privacy Policy
 
 Grey Havens (“we”) respects the privacy rights of our online visitors and is committed to protecting the personal information collected about you on our sites. To further this commitment, we have adopted this Privacy Policy to explain how we collect, store, and use the information you provide us.
-
-This Privacy Policy and the ESRB certification seals shown on our websites confirm that Grey Havens is a valid licensee, and participating member, in the Entertainment Software Rating Board's Privacy Certified Program. To protect your privacy, we have voluntarily undertaken this privacy initiative and have had all of our websites where this Privacy Policy is posted reviewed and certified by ESRB Privacy Certified to meet established online information collection and use practices. As a licensee of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by the ESRB.
 
 This Privacy Policy applies to Grey Havens only, and not to websites maintained by our affiliates or by other companies or organizations to which we link. When you visit a link to those websites or other websites, this Privacy Policy no longer applies. We strongly recommend that you read the privacy policy of any third party website you visit before you submit any personal information.
 
@@ -169,15 +167,3 @@ If you have any questions, complaints, or comments regarding this Privacy Policy
                        USA
                        privacy@spiralknights.com
                 
-
-Grey Havens is a licensee of the ESRB's Privacy Certified Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp> or:
-    
-    
-                       ESRB
-                       Attn: Privacy Certified Program
-                       420 Lexington Avenue, Suite 2024
-                       New York, NY 10170
-                       privacy@esrb.org
-                
-
-[](http://www.esrb.org/confirm/threerings-confirmation.jsp)[](http://www.esrb.org/confirm/threerings-confirmation.jsp)
