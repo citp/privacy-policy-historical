@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mountainhardwear.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630121638id_/http%3A//www.mountainhardwear.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountainhardwear.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121135247id_/http%3A//www.mountainhardwear.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
