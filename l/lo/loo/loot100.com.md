@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loot100.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325163255id_/http%3A//www.loot100.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loot100.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121095307id_/http%3A//www.loot100.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Loot100.com:Privacy Policy
 
