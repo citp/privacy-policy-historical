@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hinnews.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624055813id_/http%3A//www.hinnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hinnews.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121010520id_/http%3A//www.hinnews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Breaking News Nigeria and World News Daily | Breaking News Nigeria and World News Daily
+# Privacy Policy - Happenings In Nigeria | Happenings In Nigeria
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@hinnews.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@hinnews.com.
 
 [](https://www.blogger.com/null)At hinnews.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by hinnews.com and how it is used.
 
