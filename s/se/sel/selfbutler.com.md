@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selfbutler.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609181135id_/http%3A//selfbutler.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfbutler.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121192138id_/http%3A//selfbutler.com/privacy.php) for the most accurate reproduction.*
 
 # SelfButler - Be Inspired
 
@@ -6,7 +6,7 @@
 
 SelfButler takes your privacy very seriously, and we appreciate the fact that by using our service you are placing a great deal of trust in us. Our service has been built from the ground up with your privacy foremost in mind. We know that privacy is an important issue for our clients, and it is thus an important issue for us. We make it our highest priority to secure and protect the confidentiality of the personally identifiable information that you provide to us.
 
-This policy clearly explains the type of personally identifiable information we gather when you use the SelfButler service found on our web site: www.fivestaralliance.com. This privacy policy describes how we collect and use the personal information you provide. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. This policy also outlines the steps we have taken to safeguard the data we collect, and it explains the control we provide to you over the data we collect.
+This policy clearly explains the type of personally identifiable information we gather when you use the SelfButler service found on our web site: www.selfbutler.com. This privacy policy describes how we collect and use the personal information you provide. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. This policy also outlines the steps we have taken to safeguard the data we collect, and it explains the control we provide to you over the data we collect.
 
 ### Information we collect
 
@@ -42,7 +42,7 @@ We, SelfButler, and our partners, affiliates, or analytics or service providers,
 
 We use cookies to store the information you provide when you search for hotels (which might include location, activities, and/or dates) so that you don't have to re-enter that same information for new searches. We also use it to improve our service by helping us gauge our effectiveness in helping you find and book the ideal luxury hotel. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited.
 
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at feedback (at) fivestaralliance.com.
+We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at feedback (at) selfbutler.com.
 
 We use Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use Flash cookies or HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click here: [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
