@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanmeadows.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323114039id_/http%3A//www.americanmeadows.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanmeadows.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121103019id_/http%3A//www.americanmeadows.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -26,10 +26,11 @@ If you supply us your postal address or phone number, you may receive periodic c
 
 If you have any questions about these policies or your dealings with the website, please contact us at:
 
-> **American Meadows**  
+> **American Meadows, Inc.**  
 >  www.americanmeadows.com  
->  223 Avenue D, Suite 30  
->  Williston, VT 05495  
+>  2438 Shelburne Road  
+>  Suite 1   
+>  Shelburne, VT 05482  
 >  (877) 309-7333  
 >  customerservice@americanmeadows.com 
 
