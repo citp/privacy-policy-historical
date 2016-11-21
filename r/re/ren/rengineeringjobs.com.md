@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rengineeringjobs.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206060642id_/http%3A//www.rengineeringjobs.com/cm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rengineeringjobs.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121102741id_/http%3A//www.rengineeringjobs.com/cm/privacy) for the most accurate reproduction.*
 
 # Privacy policy: Engineering and Construction Jobs
 
@@ -74,6 +74,8 @@ Information stored or collected regarding you helps us improve and offer service
 5.2.2 At any time when we are legally required to we may disclose information about you and your visits to our sites.
 
 5.2.3 To prevent fraud and help in fraud protection in order to reduce credit risk, we may disclose information.
+
+5.2.4 Jobs content provided via email or other communications including but not exclussive from external companies such as ZipRecruiter, ResultsGeneration, Jobtome
 
  **6\. Third Party Links**
 
