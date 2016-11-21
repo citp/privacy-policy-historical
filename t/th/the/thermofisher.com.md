@@ -1,113 +1,33 @@
-> *The following text is extracted and transformed from the thermofisher.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145345id_/http%3A//www.thermofisher.com/en/footer/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thermofisher.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121135418id_/https%3A//www.thermofisher.com/us/en/home/global/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy | Thermo Fisher Scientific
 
-**Thermo Fisher Scientific Privacy Policy (USA)  
-****Effective: November 2013**
+_Effective as of May 23, 2016._
 
-Thermo Fisher Scientific and its subsidiaries (referred to collectively as a family of companies in this policy as "we," "us," "our" and other similar pronouns) know that your privacy is important to you, and we want you to know that it is important to us too.  We created this Privacy Policy to explain the types of information we collect from you; how we will use, disclose and protect this information once it is collected; and how you can opt-out of our use of your information for purposes other than administering your commercial transactions with us.  By submitting your information through our website ("Site") or when participating in offline promotional activities, you agree to the terms of this Privacy Policy as they may be amended from time  
-to time.
+In this Privacy Statement (“Statement”), we, Thermo Fisher Scientific Inc. (“Thermo Fisher”, “thermofisher.com”, “we”, or “us”), provide information about how we receive, collect, use and transfer information about you, a website visitor or user of our mobile application thermofisher.com, and the company or other legal entity that you represent (collectively, “you” or “your”), through thermofisher.com, and other websites that we operate and that include a direct link to this Statement, or through the mobile application thermofisher.com (collectively, the “Sites”). Thermo Fisher operates through its direct and indirect subsidiaries and affiliates, including those located outside of the European Economic Area and Switzerland. 
 
-Here are a few general principles to keep in mind as you read through this Policy:
+Carefully review this Statement, as your use of the Sites is subject to this Statement.
 
-  * We may share Personal Information about you among our corporate family of companies for their marketing purposes. We do not sell, trade or otherwise transfer to unaffiliated third parties, your Personal Information for their direct marketing purposes or otherwise.  The term “unaffiliated third parties” does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or providing service to you.  It is our practice to obligate all unaffiliated third parties to keep your Personal Information confidential and not to disclose it to anyone else.  
+**_Scope._ **This Statement covers only information collected through the Sites. This Statement does not cover any other data collection or processing, including, without limitation, collection conducted offline, through other of our products or services that do not display a direct link to this Statement, or by other companies at any third party sites we may link to.
 
+**_Information You Actively Submit._** If you create an account, order products, register for services, or otherwise send us data via the Sites, we collect information about you and the company or other entity you represent (e.g., your name, organization, address, email address, phone number, fax number). You may also provide information specific to your interaction with the Sites, such as payment information to make a purchase, shipping information to receive a purchase, or a resume to apply for employment. In such instances, you will know what data is collected, because you will actively submit it.
 
-  * _**Your California Privacy Rights:**_   If you are a California resident, you may have the right to request and receive certain information about our disclosure of your Personal Information to third parties for their direct marketing purposes. However, because it is our policy not to share your Personal Information with unaffiliated third parties for direct marketing purposes, we are exempt from having to meet this requirement.    
+**_Information Passively Submitted._** We collect information during your use and navigation of the Sites, such as the URL of the site you came from, the browser software you use, your Internet Protocol (IP) address, IP ports, date/time of access, data transferred, pages visited, amount of time you spend on the Sites, information about transactions conducted on the Sites, and other “clickstream” data. If you use our mobile app, then we also collect your device information (such as device OS version and device hardware), unique device identifiers (including device IP address), mobile phone number and geolocation data. This data is generated and collected automatically, as part of the standard operation of the Sites. We also use “cookies” to enhance and customize your experience of the Sites. A cookie is a small text file that may be stored on your computer or device used to access the Sites. You may set your browser software to reject cookies, but doing so may prevent us from offering conveniences or features on the Sites. (To reject cookies, refer to information about your specific browser software.)
 
+**_Use of Information._** We use information that you actively submit via the Sites to fulfill product orders, provide requested services and information, and otherwise to respond appropriately to requests and to complete transactions. We use information passively submitted to personalize features and your experience of the Sites, and otherwise to generally improve the content, design, and navigation of the Sites. To the extent permitted by applicable law, we may combine the various types of data we collect. We may conduct marketing analysis and similar research to assist us in making business decisions. Such analysis and research activities may be conducted through third party services, using anonymous data and aggregate statistics generated by our collection of information.
 
-  * As our business evolves, this Policy may change; so please check back to this page periodically to make sure you understand how your Personal Information will be treated.
+If you order products through our Sites, we may contact you by email to provide information about your order (e.g., order confirmations, shipment notifications). If you have an account with the Sites, we may also send you email regarding your account status or changes to relevant agreements or policies.
 
+**_Marketing Information._** __ From time to time and in compliance with applicable law requirements (e.g. based upon your prior consent if required under the law applicable to you), we may use contact information that you have provided to send you information regarding products and services, as well as other information that we think may be useful to you. If you do not wish to receive marketing information from us, you may opt out by declining marketing information when registering or at other information collection points on the Sites or by following opt out instructions included in such communications.
 
-  * This Policy is incorporated into, and part of, our _Terms of Use_ on our Site, which govern your use of our Site as a whole.
+**_Sharing and Transfers of Information._** We will not disclose your personal information to third parties, except (a) with your consent; (b) to our subsidiaries, affiliates and service providers to fulfill product orders or deliver services, or otherwise to fulfill a contractual obligation to you; (c) to service providers who act on our behalf and under our instructions to perform certain functions (e.g., IT companies, credit card processors, credit rating agencies or legal, financial and other advisors); (d) as required by applicable law, such as to cooperate with law enforcement investigations or upon receipt of a court order; or (e) to courts and public authorities protect you, us, or third parties from harm, including fraud or instances where somebody’s physical safety is at risk. Service providers acting on our behalf shall be obliged to comply with this Statement and adhere to confidentiality requirements and will only receive access to your personal information as necessary to perform their functions. In the event of a merger, acquisition, or other reorganization or sale of our business or assets, we may share or transfer your information, where the recipient will be required to use the information in accordance with this Statement.
 
+**_Server location._** When you use the Sites, you are transferring information to the United States and to other countries, where we operate the Sites. 
 
+**_Retention and Access._** We keep data at least as long as required by applicable law, and we may keep data as long as permitted by applicable law. You may access, correct, and/or update your information by accessing your accounts or profiles on our Sites. Alternately, you may at any time request access to a summary of information we hold about you, by contacting us at [csecommerce@thermofisher.com](mailto:csecommerce@thermofisher.com); you may also request corrections, updates, or deletion of your information. We will make reasonable efforts to respond promptly to such requests in accordance with applicable laws.
 
-**Opt In and Opt Out  
-**If you register on our Site or to participate in certain offline promotional activities, you may opt out of all use of your Personal Information described in this Policy, except for our use to administer your commercial transactions with us.  Later on, you may change your communications preferences by visiting the communications preferences settings on the Site.  You can also opt-out of promotional emails by clicking on the opt-out or unsubscribe link within the e-mail you receive.  At your choice, your opt-out or unsubscribe may apply to all Thermo Fisher Scientific businesses or only to the Thermo Fisher Scientific brand or business line that sent you the email.  Please understand that it may take us a few days to process any opt-out or unsubscribe request and that even if you opt-out of receiving promotional correspondence from us, we may still contact you in connection with our supplier relationship, recent purchasing activities, sales and servicing transactions. 
+**_Information Security._** We take commercially reasonable technical, physical, and organizational steps to safeguard any information you provide to us, to protect it from unauthorized access, loss, misuse, or alteration. Although we take reasonable security precautions, no computer system or transmission of information can ever be completely secure or error-free, and you should not expect that your information will remain private under all circumstances. In addition, it is your responsibility to safeguard any passwords, ID numbers, or similar individual information associated with your use of the Sites.
 
-**What information is collected on this Site?**  
+**_Changes to Our Privacy Statement._** We reserve the right to change this Statement from time to time and in our sole discretion. We will alert you when changes have been made by indicating the date it was last updated as the date the Statement became effective. When you visit the Sites, you accept the version of this Statement in effect at that time. We recommend that you periodically revisit this Statement to learn of any changes.
 
-_**User-Provided Information**_
-
-"Personal Information" is information that can be used to identify you as an individual or allow someone to contact you, and to identify the products you purchase, the Site content that most interests you and other personal preference information that allows us to deliver the most relevant business and product materials to you.  Some of the Personal Information we collect includes, but is not limited to your name; company name; account numbers; postal addresses; e-mail addresses; telephone numbers; fax numbers; gender; credit card and other payment information; purchase, site browsing and transaction history; website credentials; answers to security questions; job history and application information; and industry segments, job roles and functions, interests, hobbies and demographic information.  If applicable, we may also ask you to provide information regarding the analytical instrumentation used in your laboratory.  Some examples of when we collect Personal Information from you include, but are not limited to, when you conduct a sales transaction on our Site; create an account on our Site; complete an online form, sign up for our newsletters; make online purchases; enter sweepstakes and contests; complete surveys; contribute to a chat room, bulletin board, list serve, blog, wiki or other social forum on the Site; or submit a comment or question to us using a “contact us” or similar feature on the Site.
-
-_**Site Usage Information**_ __
-
-As is the case with many websites, our servers automatically collect your IP address when you visit our Site, and we may associate that with your domain name or that of your Internet access provider.  We may also capture certain "clickstream data" pertaining to your Site usage.  Clickstream data includes, for example, information about your computer or device, Web browser and operating system and their settings, the referring page that linked you to the Site, the pages, content or ads you see or click on during your visit and when and for how long you do so, items you download, the next Web site you visit when you leave the Site, and any search terms you have entered on the Site or a referral site. 
-
-In addition, we may deploy various tracking technologies on the Site to collect additional information about your Site visits.  For example:
-
-  * Cookies are small data files stored on your computer or device at the request of a Web site.  A cookie assigns a unique numerical identifier to your Web browser, and may enable us to recognize you as the same user who was at our Site in the past, and relate your use of the Site to other information about you, such as your Site usage information and Personal Information.  Cookies may also be used to enhance your experience on the Site and to store your preferences (for example, by storing your username so you can log in easily, keeping you logged into the Site after you have provided your password, and storing the contents of your shopping cart as you browse) or to collect general usage and aggregated statistical information and detect and prevent fraud. Most browsers can be set to detect cookies and give you an opportunity to reject them, but refusing cookies may, in some cases, inhibit or preclude your use of the Site or its features.  To learn more about the use of cookies, including how to manage or delete them, [click here](http://www.allaboutcookies.org/).
-  * Local shared objects, such as "Flash cookies," may be stored on your computer or device using a media player or other software installed on your computer or device.  Local shared objects operate a lot like cookies, but cannot be managed in the same way.  Depending on how local shared objects are enabled on your computer or device, you may be able to manage them using software settings.  For information on managing Flash cookies, for example, [click here](http://kb2.adobe.com/cps/526/52697ee8.html).   
-  * HTML5 (the language some Web sites are coded in) may be used to store information on your computer or device about your Site usage activities.  This information can be retrieved by us to determine how our Site is being used by our visitors, how it can be improved, and to customize it for our users.
-  * Cache cookies, such as eTags, may be used to identify your computer or device as the same computer or device that visited our Website or another web site in the past.
-  * Browser history sniffing may be used to enable us to detect whether you have visited a Web page of ours or of someone else’s in the past by determining whether its URL is located in the list of URLs stored in your Web browser’s history file.
-  * Browser fingerprinting can enable us to recognize your computer or device as the same one that has been used to visit our Website in the past based on various detectable information from your computer or device that, together, can be used as a "fingerprint" of your computer or device.
-  * A pixel tag (also known as a "clear GIF" or "web beacon") is a tiny image – typically just one-pixel – that can be placed on a Web page or in our electronic communications to you in order to help us measure the effectiveness of our content by, for example, counting the number of individuals who visit us online or verifying whether you’ve opened one of our emails or seen one of our Web pages.
-
-
-
-These tracking technologies may be deployed by us and/or by our service providers or partners on our behalf. These technologies enable us to assign a unique number to you, and relate your Site Usage Information to other information about you, including your Personal Information.
-
-By using our Site, you consent to our use of these tracking technologies as described above.  
-
-**How is your information used?  
-**We or our service providers may use the information we collect from and about you to perform the following business functions:
-
-  * enabling users to use our Site, its features and our services
-  * processing and fulfilling your transactions, and providing you support
-  * administering the Site and your account with us
-  * communicating with you about your account and responding to your requests, questions, and concerns
-  * market research
-  * personalizing our Site and services for you
-  * improving and developing new features and offerings on the Site
-  * consistent with any communications preferences you have set on this Site, sending you marketing and other communications, including information about products, services, and events, of ours and of others, that we think might interest you. You may opt out of receiving such notices from us by following the instructions in the "Right to Opt In and Opt Out" section above.
-  * protecting our rights and property 
-  * recovering debt and preventing fraud
-  * customizing our Site to your interests and history with us
-  * other purposes disclosed when Personal Information is submitted to us
-
-
-
-To perform the above functions, we may match information collected from you through different means or at different times, including both Personal Information and Site Usage Information, and use such information along with information obtained from other sources (including third parties) such as demographic information and updated contact information.  We or our service providers may also use your Personal Information to assess the level of interest in, and use of, the Site, our e-mails and our other messaging campaigns both on an individual basis and in the aggregate. 
-
-**Do we share Personal Information and Site Usage Information with others?**
-
-Yes.  We may share the Personal Information we collect on the Site with others for a variety of reasons.  In addition to the kinds of information sharing you might expect, such as sharing with third parties who need your Personal Information in order to provide services to us (or on our behalf and subject to confidentiality commitments) and sharing what you voluntarily post to public areas on the Site with other Site users, we may share your Personal Information:
-
-  * among our corporate family of companies for their marketing and other purposes;
-  * when we believe in good faith that disclosure is necessary to protect our rights or property, protect your safety or the safety of others, investigate fraud or respond to a government, judicial or other legal request, or to comply with the law;
-  * with credit bureaus, such as late payments, missed payments, or other defaults on your account; and
-  * in connection with a corporate change or dissolution, including for example a merger, acquisition, reorganization, consolidation, bankruptcy, liquidation, sale of assets or wind down of business.
-
-
-
-In addition, we may share non-personally identifiable Site Usage Information (including aggregate data) with others, for their own use, in a form that does not include your name or contact information. 
-
-**Your Access Rights**
-
-You may review, update or modify certain of the Personal Information that is stored in your user account on the Site (if you have one) by logging in to your account on the Site or by contacting us using the “Contact US” information below.  We may ask you to verify your identity and to provide other details before we are able to provide you with any information, correct any inaccuracies, or delete any information. 
-
-**Security  
-**While we endeavor to protect the security and integrity of sensitive Personal Information collected via this Site, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that any information, during transmission through the Internet or while stored on our system or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers. 
-
-If you correspond with us by e-mail, text message, or using Web forms like a "contact us" feature on our Site, you should be aware that your transmission might not be secure.  A third party could view the information you send in transit by such means.  **We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission.**
-
-If you create an account on our Site, you are responsible for maintaining the strict confidentiality of your account password, and you shall be responsible for any activity that occurs using your account credentials, whether or not you authorized such activity.  Please notify us of any unauthorized use of your password or account or any other breach of security.
-
-If we believe that the security of your Personal Information in our care may have been compromised, we may seek to notify you of that development.  If a notification is appropriate, we will endeavor to notify you as promptly as possible under the circumstances.  If we have your e-mail address, we may notify you by e-mail.  You consent to our use of e-mail as a means of such notification.  If you prefer for us to use the U.S. Postal Service to notify you in this situation, please e-mail us at privacy@thermofisher.com. 
-
-**“Linked-To” Web Sites  
-**The Site may contain links, banners, widgets or advertisements that lead to other Web sites.  We are not responsible for these other sites, and so their posted privacy policies (not this Policy) will govern the collection and use of your Personal Information on them.  We encourage you to read the privacy statements of each Web site visited after leaving the Site to learn about how your information is treated by others. 
-
-**Changes to this Privacy Policy  
-**We may change this Policy from time to time.  When we do, we will let you know by posting the changed Policy on this page with a new “Last Updated” date.  In some cases (for example, if we significantly expand our use or sharing of your Personal Information),  we may also tell you about changes by additional means, such as by sending an e-mail to the e-mail address we have on file for you.   In some cases, we may request your consent to the changes.
-
-**Contact Us  
-**If you have any questions or comments regarding our privacy practices, you may contact us at:
-
-    Thermo Fisher Scientific  
-    81 Wyman Street  
-    Waltham, MA U.S.A.  
-    Attention: Corporate Marketing
+**_Questions and Comments._** If you have questions or comments about this Statement or about how any information you submit to us is used, please contact us at [csecommerce@thermofisher.com](mailto:csecommerce@thermofisher.com).
