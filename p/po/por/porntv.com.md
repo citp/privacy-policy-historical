@@ -1,81 +1,29 @@
-> *The following text is extracted and transformed from the porntv.com privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425005030id_/http%3A//nats.ticklehorror.com/ttrack/MDowOjc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porntv.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121175337id_/http%3A//www.porntv.com/privacy) for the most accurate reproduction.*
 
-# Welcome to TickleHorror.com
+# Privacy Policy | Porn TV
 
-**Privacy Policy  
-**  
-This website (the "Site") is licensed. 
+**Privacy policy**  
+Titan Websites, Inc. recognizes that its customers, visitors, users, and others who use Porn TV value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the Porn TV site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site. Please note that any video, image, or other content posted at the direction of users onto the Porn TV site becomes published content and is not considered personally identifiable information subject to this privacy notice. 
 
-This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscriber and members of this Site. This is an adult Site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this Site. 
+**The Information Titan Websites, Inc. Collects**  
+User-provided information: You provide certain personally identifiable information (such as your name and email address) to Porn TV when choosing to participate in various activities on the sites such as uploading videos or posting messages.   
+Cookies Information: When you visit the Porn TV site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. Porn TV uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Porn TV site may not function properly if the ability to accept cookies is disabled.   
+Log File Information: When you use the Porn TV site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Inteet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser 
 
-This Site does not knowingly seek or collect any personal information or data from persons under the age of 18. 
+**The Way Porn TV Retains Information**  
+To preserve the integrity of website databases, Porn TV's procedure is to retain information submitted by members for an indefinite length of time. By submitting information to Porn TV, you are consenting to store that information indefinitely. 
 
-Notice - Use of Website by the Subscriber Constitutes the Subscriber's Express Assent to the Use of Personal Information Collected by Site. 
+**The Way Titan Websites, Inc. Uses Information**  
+If you submit personally identifiable information to us through the Porn TV website, then we use your personal information to operate, maintain, and provide to you the features and functionality of the site. Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other users when you upload videos or send messages through the Porn TV site, and other users can contact you through messages and comments. Any videos that you submit to the Porn TV site may be redistributed through the Inteet and other media channels, and may be viewed by the general public. We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes. 
 
-CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS POLICY STATEMENT. 
+**When Porn TV Discloses Information**  
+We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures. We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant. Titan Websites, Inc. also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that, in good faith, is appropriate or necessary to enforce our terms of use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist govement enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of our company, our users or others. 
 
-IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE. 
+**Our Commitment to Legal-Age Usage**  
+Protecting children from adult content is especially important. For that reason, Titan Websites, Inc. does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Porn TV site from persons under 18 years of age, and no part of our website is directed to persons under 18, or legal age according to state law. If you are under 18 years of age, then please do not use or access the Porn TV site at any time or in any manner. If Titan Websites, Inc. leas that personally identifiable information of persons under 18 years of age has been collected, appropriate steps will be taken to delete this information. 
 
-**_What Information About Subscribers is Collected?_**
+**In the Event of Merger, Sale, or Bankruptcy**  
+In the event that Titan Websites, Inc. is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used. 
 
-When any adult consumer signs-on as a member or subscriber of this Site that consumer will be required to provide certain personal as well as demographic information which may include, but is not necessarily limited to, the subscriber's name, address, birthday, e-mail address, gender, marital status, occupation, education, username and password, and special interests or affiliations. This Site collects any and all such information and includes it in its customer database. 
-
-If the Site features or conducts any special events, special promotions or offers, contests or polls, a subscriber of the Site may be asked to provide information in order to participate, if the subscriber voluntarily provides that information, all such information may be collected by the Site and included in its customer database. 
-
-When a subscriber of this Site requests webpage's from the Site's server or clicks on banners or other hypertext links, the Site will automatically collect some information or data about the subscriber, including the subscriber's IP address, the information that is collected may also indicate any special preferences or requests of the subscriber; all that information and data will be collected by the Site and included in its customer database. 
-
-If a subscriber sends any personal communication or correspondence, by any means, to the Site, or any of its employees, agents or representatives, the Site may collect any information regarding that communication and include that information in its customer database. 
-
-The Site may also automatically collect traffic and click-through data as well as information regarding the online behavior of subscribers by the use of "cookies"or other programming means - any information about subscribers collected by the Site through the use of cookies or other programming means may be included in its customer database. 
-
-You may obtain further information about "cookies" and how they function at: [http://www.cookiecentral.com](http://www.cookiecentral.com/). 
-
-**_Use of Personal Subscriber Information._**
-
-By the subscriber's use of the Site, the subscriber expressly agrees that the Site may use any personal information that has been provided by the subscriber or that has been collected by the Site about the subscriber for any purpose, including without limitation, technical, administration, research and development, customer administration, marketing, trading in Personal Data, age verification, promotional and advertising use by the Site or third parties authorized to use the information by the Site. 
-
-By the subscriber's use of the Site, the subscriber expressly agrees that the Site may, in its sole discretion share, disclose, transfer, rent, license or sell any of the personal information about subscribers that it has gathered or collected with affiliated or unaffiliated third parties. 
-
-Please note that personal information about a subscriber may be collected by a third-party web service provider that has an advertising banner or link on the Site. 
-
-The Site is not responsible or liable for the use of any information that a subscriber may provide, or that is gathered by third-party websites that have banner ads or links on the Site. This Site does not control, monitor or endorse the information gathering practices or Privacy Policies of any of those third-party websites. 
-
-Whenever applicable, each subscriber should seek to read the Privacy Policy of any third-party website provider that has an advertising banner, advertises or has a link on the Site. 
-
-**_Security of Personal Information Collected by the Site._**
-
-Consistent with the Policies set forth in this Privacy Statement, the Site has adopted and implemented reasonable and technologically feasible procedures for maintaining the security, accuracy and integrity of all personal information relating to subscribers that is collected by the Site. 
-
-All subscribers should consider any information provided to or collected by the Site as **non-confidential** , and consequently the Site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient. 
-
-**_"OPT-IN" and "OPT-OUT" Provisions._**
-
-There may be occasions when a subscriber will be presented with special offers either from the operators of the Site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers"). 
-
-"OPT-IN" -- Some Offers may be presented to the subscriber with the option to express the subscriber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By selecting or clicking the "accept" or "yes" the subscriber indicates that the subscriber "OPTS-IN" to that Offer and thereby agrees and assents that the subscriber's personal information and data may be disclosed to third-parties. 
-
-"OPT-OUT" -- Other Offers may be presented with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the Offer) then the Site may transfer the subscriber's personal profile information to the third-party service or content provider making the Offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider. 
-
-**_"OPT-OUT" Revocation Procedure._**
-
-The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by sending a support ticket, clearly stating that the subscriber has revoked consent to receive any future Offers. 
-
-**_Data Controller._**
-
-The individual subscriber shall have the following rights with respect to any personal information gathered by the Site: 
-
-  * to obtain from a data controller, or otherwise, confirmation of whether or not the data controller has data relating to him;  
-
-  * to have communicated to him, data relating to him within a reasonable time; at a charge, if any, that is not excessive; in a reasonable manner; and in a form that is readily intelligible to him;   
-
-  * to be given reasons if a request made under sub paragraphs (a) and (b) is denied, and to be able to challenge such denial; and   
-
-  * to challenge data relating to him and, if the challenge is successful to have the data erased, rectified, completed or amended. 
-
-
-
-**_Terms and Conditions of Membership._**
-
-Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this Site to use information that it has gathered from subscribers. 
-
-In the event of any conflicts between the Membership Terms the Conditions and this Privacy Policy Statement, the provisions of this Privacy Policy shall control.
+**Changes and updates to this Privacy Notice**  
+This privacy notice may be revised periodically and users are encouraged to review it periodically to stay aware of any changes. Your continued use of the Porn TV site constitutes your agreement to this privacy notice and any future revisions. 
