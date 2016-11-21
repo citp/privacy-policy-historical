@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthleadersmedia.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331154132id_/http%3A//www.healthleadersmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthleadersmedia.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121164054id_/http%3A//www.healthleadersmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | HealthLeadersMedia
+# Privacy Policy | HealthLeaders Media
 
 ### 1\. General
 
