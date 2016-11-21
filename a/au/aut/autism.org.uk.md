@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autism.org.uk privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617185310id_/http%3A//www.autism.org.uk/get-involved/about-us/website/data.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autism.org.uk privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121174558id_/http%3A//www.autism.org.uk/get-involved/about-us/website/data.aspx) for the most accurate reproduction.*
 
 # Privacy and data protection - NAS
 
@@ -63,4 +63,4 @@ We reserve the right to amend this privacy statement. If we do so, we will post 
 
 **Website feedback**
 
-If you have 5 mins and would like to send us your website feedback, please do so via our [website feedback form](https://web.archive.org/get-involved/about-us/contact-us/contactwebteam/feedback.aspx).
+If you have 5 mins and would like to send us your website feedback, please do so via our [website feedback form](https://web.archive.org/get-involved/about-us/contact-us/webteam/feedback.aspx).
