@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlmanager.net privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514214400id_/http%3A//www.sqlmanager.net/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmanager.net privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121135630id_/http%3A//www.sqlmanager.net/en/privacy) for the most accurate reproduction.*
 
 # EMS SQL Manager - Privacy Policy
 
