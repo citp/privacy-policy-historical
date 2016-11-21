@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shaklee.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618185828id_/http%3A//www.shaklee.com/us/en/privacy_security_policy.s.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaklee.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122002737id_/http%3A//www.shaklee.com/us/en/privacy_security_policy.s.html) for the most accurate reproduction.*
 
 # Privacy and Security Policy - Shaklee
 
