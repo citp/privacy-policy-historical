@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silktide.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051627id_/http%3A//silktide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silktide.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121223518id_/https%3A//silktide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
