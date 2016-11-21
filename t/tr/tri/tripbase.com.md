@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tripbase.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608054520id_/http%3A//www.tripbase.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripbase.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121201814id_/http%3A//www.tripbase.com/privacy.php) for the most accurate reproduction.*
 
 # Tripbase.com - Privacy Policy
 
 ## Privacy Policy
 
-Trip Technologies, Inc. (in this policy: "the Company", "We", "Us", or "Our") respects your privacy. This policy explains the accepted privacy practices for our website at [www.Tripbase.com](https://web.archive.org/) ("Tripbase"). 
+Cricket Traveling LTD (in this policy: "the Company", "We", "Us", or "Our") respects your privacy. This policy explains the accepted privacy practices for our website at [www.Tripbase.com](https://web.archive.org/) ("Tripbase"). 
 
 This policy covers, among other things, what personal information we collect from you, whether you are a registered user or not, how we use the information, with whom We share the information, the data obtained automatically when you use Tripbase and how We retain it. 
 
