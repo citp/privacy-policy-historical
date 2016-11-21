@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endocrineweb.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622064003id_/http%3A//www.verticalhealth.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endocrineweb.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121112909id_/http%3A//www.verticalhealth.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Vertical Health Privacy Policy | Vertical Health
 
@@ -23,7 +23,7 @@ Please note that the Policy applies only to VH's Services and Sites, but not to 
 
 VH believes that advertising on the Internet is more interesting to the user when it is relevant. Therefore, through the use of your non-personally identifiable information and technologies such as cookies, IP's, Device ID's, Etc. (each described below), we and our business partners may deliver advertisements that are targeted towards your particular interests and your behavior on the Internet. This is sometimes called behavioral advertising.
 
-Advertising may be delivered to you based upon the non-personally identifiable information you have provided to us (such as your interests and demographic data) and non-personally identifiable information we collect ourselves from you (such as the pages you have viewed on the Sites or articles you have accessed). For instance, if you expressed an interest in back pain or have been reading articles on the Sites about back pain, we may serve advertisements specifically to you regarding this topic. These targeted advertisements may appear on any number of Sites owned or controlled by VH that you visit, and may also appear on the Web sites of VH's business partners which are not owned or controlled by VH. If you do not want to receive such targeted advertisements, then follow the instructions below in the section titled "Managing Cookies."
+Advertising may be delivered to you based upon information you have provided to us (such as your interests and demographic data) and non-personally identifiable information we collect ourselves from you (such as the pages you have viewed on the Sites or articles you have accessed). For instance, if you expressed an interest in a specific topic or have been reading articles on the Sites about a specific topic, we may serve advertisements specifically to you that are related to this topic. These targeted advertisements may appear on any number of Sites owned or controlled by VH that you visit, and may also appear on the Web sites of VH's business partners which are not owned or controlled by VH. If you do not want to receive such targeted advertisements, then follow the instructions below in the section titled "Managing Cookies."
 
 ### The Information We Gather
 
@@ -99,4 +99,4 @@ Please relay any questions you may have pertaining to our above stated policies 
 
 If VH makes changes to any of the terms or conditions of the Policy, this document will be revised so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. We reserve the right to change, modify, add or remove portions of this Policy at any time and without notice, and any changes will become effective immediately upon being posted unless VH advises you otherwise. Your continued use of the Services and/or the Sites after this Policy has been amended shall be deemed to be your continued acceptance of the terms and conditions of the Policy, as amended. We encourage you to bookmark this Web page and review this Policy regularly.
 
-_Last updated: 06/15/2016_
+_Last updated: 08/01/2016_
