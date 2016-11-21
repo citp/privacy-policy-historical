@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adswizz.com privacy policy that was archived on 2016-01-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160121221638id_/http%3A//www.adswizz.com/terms-and-conditions) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adswizz.com privacy policy that was archived on 2016-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161121185244id_/http%3A//www.adswizz.com/terms-and-conditions) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="utf-8">
@@ -13,6 +13,7 @@
     <link href="http://fonts.googleapis.com/css?family=Lato:100,400,700,900" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" type="text/css">
     <link href="http://www.adswizz.com/wp-content/themes/adswizz/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://www.adswizz.com/wp-content/themes/adswizz/custom.css" rel="stylesheet">
     <link href="http://www.adswizz.com/wp-content/themes/adswizz/css/main.css" rel="stylesheet" type="text/css">
     <link href="http://www.adswizz.com/wp-content/themes/adswizz/css/dev-css.css" rel="stylesheet" type="text/css">
     <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://www.adswizz.com/wp-content/themes/adswizz/js/adswizz/jquery.1.1.1.min.js"></script>
@@ -23,7 +24,63 @@
     <script src="http://www.adswizz.com/wp-content/themes/adswizz/js/adswizz/jquery.form.min.js"></script>  
     <script src="http://www.adswizz.com/wp-content/themes/adswizz/js/adswizz/jquery.validate.min.js"></script>  
     <script src="http://www.adswizz.com/wp-content/themes/adswizz/js/adswizz/scripts.js"></script> 
-    <script src="http://www.adswizz.com/wp-content/themes/adswizz/js/adswizz/dev.js"></script>  
+    <script src="http://www.adswizz.com/wp-content/themes/adswizz/js/adswizz/dev.js"></script>
+    <script>
+$(document).ready(function () {
+  var cookieValue;
+  var isCheked;
+  
+  function isOptOut(cookieValue) {
+    var pattern = "optout";
+    if (cookieValue === undefined) {
+      return false;
+    }
+    return cookieValue.indexOf(pattern) > -1;
+  }
+
+  function setCheckboxValue() {
+    var optOutFlag = isOptOut(cookieValue);
+
+    if (!optOutFlag) {
+      $('.cbx').attr('checked', 'checked');
+      $('.switch-button-text-off').addClass('displayNone');
+    } else {
+      $('.cbx').removeAttr('checked');
+      $('.switch-button-text-on').addClass('displayNone');
+    }
+  }
+
+  setCheckboxValue();
+
+  $('.cbx').change(function () {
+    isCheked = $(this).is(':checked');
+    $('.switch-button-text-off').toggleClass('displayNone', isCheked);
+    $('.switch-button-text-on').toggleClass('displayNone', !isCheked);
+
+    if (!isCheked) {
+      _ajaxCall(true);
+    } else {
+      _ajaxCall(false);
+    }
+
+    function _ajaxCall(bool) {
+      var OPTOUT_ENDPOINT = "/optout.php";
+      $.post(OPTOUT_ENDPOINT, {disable: bool})
+        .fail(function () {
+          if (!isCheked) {
+            $('.switch-button-text-off').addClass('displayNone');
+            $('.switch-button-text-on').removeClass('displayNone');
+            $('input').prop('checked', true);
+          } else {
+            $('.switch-button-text-on').addClass('displayNone');
+            $('.switch-button-text-off').removeClass('displayNone');
+            $('.cbx').removeAttr('checked');
+          }
+        });
+    }
+  });
+});
+    </script>   
   </head>
   <body><header>
       <div class="header-section">
@@ -99,15 +156,15 @@
 	<div class="adw-main-wrapper-holder">
 		<div id="adw-page-id-7742" class="theme-page-wrapper adw-main-wrapper full-layout  adw-grid vc_row-fluid">
 			<div class="theme-content " itemprop="mainContentOfPage">
-										<div class="clearboth"></div></div></div></div><div id="adw-page-section-56a158c5c5b59" data-intro-effect="false" class="full-width-56a158c5c5b59 adw-background-stretch  full-height-false parallax-false adw-page-section adw-blur-parent adw-shortcode  top-section" data-speedfactor="0.3"><div class="adw-video-color-mask"></div><div class="adw-grid vc_row-fluid page-section-content"><div class="adw-padding-wrapper">
+										<div class="clearboth"></div></div></div></div><div id="adw-page-section-5833427bcf3af" data-intro-effect="false" class="full-width-5833427bcf3af adw-background-stretch  full-height-false parallax-false adw-page-section adw-blur-parent adw-shortcode  top-section" data-speedfactor="0.3"><div class="adw-video-color-mask"></div><div class="adw-grid vc_row-fluid page-section-content"><div class="adw-padding-wrapper">
 	<div style="" class="vc_col-sm-12 container wpb_column column_container ">
 			<div class="wpb_row vc_row row vc_row-fluid  adw-fullwidth-false  attched-false vc_row-fluid">
 	<div style="" class="vc_col-sm-12 col-md-12 wpb_column column_container ">
-			<div id="adw-custom-box-56a158c5c6624" class="adw-custom-boxed adw-blur-parent adw-blur-56a158c5c6624 adw-shortcode   top-section-container" style="margin-bottom:0px">	<div style=" margin-bottom:0px;text-align: left;" class="adw-text-block  top-section-content"><h1><span style="color: #e6186b;">Terms and conditions<br>
+			<div id="adw-custom-box-5833427bcff72" class="adw-custom-boxed adw-blur-parent adw-blur-5833427bcff72 adw-shortcode   top-section-container" style="margin-bottom:0px">	<div style=" margin-bottom:0px;text-align: left;" class="adw-text-block  top-section-content"><h1><span style="color: #e6186b;">Terms and conditions<br>
 </span></h1>
 <div class="clearboth"></div></div> 
 <div class="clearboth"></div></div><style type="text/css">
-                   #adw-custom-box-56a158c5c6624 {
+                   #adw-custom-box-5833427bcff72 {
                         min-height:0px;
                         padding:0px 0px;
                         
@@ -119,14 +176,14 @@
                         
 
                   }
-                 #adw-custom-box-56a158c5c6624 .adw-fancy-title.pattern-style span{
+                 #adw-custom-box-5833427bcff72 .adw-fancy-title.pattern-style span{
                         background-color:  !important;
                     }
                  </style>
 	</div></div>
 	</div></div><div class="clearboth"></div></div><div class="clearboth"></div></div>
 <style type="text/css">
-.full-width-56a158c5c5b59 {
+.full-width-5833427bcf3af {
     min-height:100px;
     padding:0px 0 0px;
     background-image:url(http://www.adswizz.com//wp-content/uploads/2015/03/products-full.png); 
@@ -137,11 +194,11 @@
     margin-bottom:0px;
     
 }
-     </style><div class="adw-main-wrapper-holder"><div class="theme-page-wrapper  full-layout adw-grid vc_row-fluid row-fluid"><div class="theme-content "><div class="clearboth"></div></div></div></div><div id="adw-page-section-56a158c5c6ba7" data-intro-effect="false" class="full-width-56a158c5c6ba7  full-height-false parallax-false adw-page-section adw-blur-parent adw-shortcode  advertiser-section ads-background-section" data-speedfactor="0.3"><div class="adw-video-color-mask"></div><div class="adw-grid vc_row-fluid page-section-content"><div class="adw-padding-wrapper">
+     </style><div class="adw-main-wrapper-holder"><div class="theme-page-wrapper  full-layout adw-grid vc_row-fluid row-fluid"><div class="theme-content "><div class="clearboth"></div></div></div></div><div id="adw-page-section-5833427bd0564" data-intro-effect="false" class="full-width-5833427bd0564  full-height-false parallax-false adw-page-section adw-blur-parent adw-shortcode  advertiser-section ads-background-section" data-speedfactor="0.3"><div class="adw-video-color-mask"></div><div class="adw-grid vc_row-fluid page-section-content"><div class="adw-padding-wrapper">
 	<div style="" class="vc_col-sm-12 wpb_column column_container ">
 			<div class="wpb_row vc_row container vc_row-fluid  adw-fullwidth-false  attched-false vc_row-fluid">
 	<div style="" class="vc_col-sm-12 wpb_column column_container ">
-			<div id="adw-custom-box-56a158c5c766c" class="adw-custom-boxed adw-blur-parent adw-blur-56a158c5c766c adw-shortcode   row" style="margin-bottom:0px"><div class="adw-content-box adw-shortcode  "><span class="content-box-heading"><i class=""></i> </span><div class="content-box-content">	<div style=" margin-bottom:0px;text-align: left;" class="adw-text-block  "><div class="col-md-6">
+			<div id="adw-custom-box-5833427bd1193" class="adw-custom-boxed adw-blur-parent adw-blur-5833427bd1193 adw-shortcode   row" style="margin-bottom:0px"><div class="adw-content-box adw-shortcode  "><span class="content-box-heading"><i class=""></i> </span><div class="content-box-content">	<div style=" margin-bottom:0px;text-align: left;" class="adw-text-block  "><div class="col-md-6">
 <h5 class="products-subtitle">Privacy Policy:</h5>
 <p>AdsWizz (“AdsWizz, ” “we” or “us”) is an audio and video ad serving tech company. We enable online radio and video publishers and advertisers to get to know their audience by providing precise session-based measurements. &nbsp;Our customers use our solutions to deliver relevant online advertisements into their streams.</p>
 <p>&nbsp;</p>
@@ -152,6 +209,8 @@
 <h5 class="products-subtitle"><strong>What information do we collect to perform our services?</strong></h5>
 <p>We collect or receive data from our customers (publishers/advertisers) in order to learn about the ads you might be interested in. This data includes but is not limited to browser identifier, wireless carrier, IP address, device type (website player, smartphone apps, Winamp media player…) and browsing information.</p>
 <p>&nbsp;</p>
+<p>We receive information about consumers from third parties to enable targeted advertising on the website(s) and application(s) that we support. The collection and use of that data is governed by the privacy policy and legal terms of the data collector and the website using the data; it is not governed by Adswizz.</p>
+<p>&nbsp;</p>
 <p>We also measure the exposure to online advertising campaign: number of impressions, number of clicks, numbers of users exposed, percentage of ad content played. We retain information on the ads that we served to you on a website and we reuse that information to deliver new ads when you visit another website on which we also serve ads. We do not collect information about your interests and insofar we collect information as to your reaction to the ad (skip the ad, click on the ad), we use it for statistic reporting purposes or for preventing ads to be served to you more often than foreseen.</p>
 <p>&nbsp;</p>
 <p>Furthermore, none of the information we collect to provide our services can be traced back to a specific individual. We have no idea who you are. To us, you are just “user123” for example. You may also be “user234” if you use two different devices or browsers (IE and Firefox, for example) on the same device. And if you share your device with a family member or friend, we can’t tell who is who, so “user123” may in fact be a mixture of several people.</p>
@@ -160,7 +219,7 @@
 <div class="clearboth"></div></div> 
 </div><div class="clearboth"></div></div>
 <div class="clearboth"></div></div><style type="text/css">
-                   #adw-custom-box-56a158c5c766c {
+                   #adw-custom-box-5833427bd1193 {
                         min-height:0px;
                         padding:0px 0px;
                         
@@ -172,10 +231,10 @@
                         
 
                   }
-                 #adw-custom-box-56a158c5c766c .adw-fancy-title.pattern-style span{
+                 #adw-custom-box-5833427bd1193 .adw-fancy-title.pattern-style span{
                         background-color:  !important;
                     }
-                 </style><div id="adw-custom-box-56a158c5c8532" class="adw-custom-boxed adw-blur-parent adw-blur-56a158c5c8532 adw-shortcode   row" style="margin-bottom:0px"><div class="adw-content-box adw-shortcode  "><span class="content-box-heading"><i class=""></i> </span><div class="content-box-content">	<div style=" margin-bottom:0px;text-align: left;" class="adw-text-block  "><div class="col-md-6">
+                 </style><div id="adw-custom-box-5833427bd21ea" class="adw-custom-boxed adw-blur-parent adw-blur-5833427bd21ea adw-shortcode   row" style="margin-bottom:0px"><div class="adw-content-box adw-shortcode  "><span class="content-box-heading"><i class=""></i> </span><div class="content-box-content">	<div style=" margin-bottom:0px;text-align: left;" class="adw-text-block  "><div class="col-md-6">
 <h5 class="products-subtitle">How do we use this informations</h5>
 <p>We process the data to find elements that will help us determine which products/services could be relevant to you and to improve the quality of the ads you’ll be served. For example, we may use the geo-location data to determine potential likelihood to listen to an ad or we may use the data collected to prevent the same ads to be served to you repeatedly.</p>
 <p>&nbsp;</p>
@@ -210,7 +269,7 @@
 <div class="clearboth"></div></div> 
 </div><div class="clearboth"></div></div>
 <div class="clearboth"></div></div><style type="text/css">
-                   #adw-custom-box-56a158c5c8532 {
+                   #adw-custom-box-5833427bd21ea {
                         min-height:0px;
                         padding:0px 0px;
                         
@@ -222,14 +281,28 @@
                         
 
                   }
-                 #adw-custom-box-56a158c5c8532 .adw-fancy-title.pattern-style span{
+                 #adw-custom-box-5833427bd21ea .adw-fancy-title.pattern-style span{
                         background-color:  !important;
                     }
                  </style>
-	</div></div>
+	</div>
+<div class="col-md-12 opt-out-section">
+<div class="col-md-8">
+<p class="opt-out-title">Ads based on your interests:</p>
+<p class="opt-out-description">If you wish to opt out the ads based on user interest and demographic categories, please move the switch on the left to “disabled”. This applies only for this browser. In case you use multiple browsers (e.g Chrome, Safari, …),<br>
+ do this procedure for each. If you clear you cache, you’ll need to do this procedure again.</p>
+<p></p></div>
+<div class="col-md-3 col-md-offset-1 switch-button-container">
+      <input type="checkbox" id="unchecked" class="cbx hidden"><br>
+      <label for="unchecked" class="lbl"></label><p></p>
+<p class="switch-button-text-on">ENABLED</p>
+<p class="switch-button-text-off">DISABLED</p>
+<p></p></div>
+</div>
+</div>
 	</div></div><div class="clearboth"></div></div><div class="clearboth"></div></div>
 <style type="text/css">
-.full-width-56a158c5c6ba7 {
+.full-width-5833427bd0564 {
     min-height:0px;
     padding:41px 0 93px;
     background-image:url(http://www.adswizz.com//wp-content/uploads/2015/03/section-logo.png); 
@@ -289,23 +362,21 @@
 			<div class="row">
 				<div class="col-md-8 news-main col-sm-9 pull-right">
 					<h3>
-						<a href="http://www.adswizz.com/adswizz-partners-with-tokyo-fm-japans-top-broadcaster-to-establish-japans-digital-audio-advertising-market/"><span>AdsWizz </span>Partners with TOKYO FM, Japan’s Top Broadcaster, to Establish Japan’s Digital Audio Advertising Market</a>
+						<a href="http://www.adswizz.com/adswizz-and-rtbiq-partner-to-bring-advanced-direct-response-programs-through-programmatic-digital-audio-advertising/"><span>AdsWizz</span> and RTBiQ Partner to Bring Advanced Direct Response Programs Through Programmatic Digital Audio Advertising</a>
 					</h3>
-					<a class="news-description" href="http://www.adswizz.com/adswizz-partners-with-tokyo-fm-japans-top-broadcaster-to-establish-japans-digital-audio-advertising-market/">November 18, 2015 , AdsWizz has tapped TOKYO FM to represent AdWave, its digital audio ad exchange, to Japanese advertisers San Mateo, CA, November 18, 2015 — AdsWizz, the leading technology provider of advertising...</a>
-					<a class="button small" href="http://www.adswizz.com/adswizz-partners-with-tokyo-fm-japans-top-broadcaster-to-establish-japans-digital-audio-advertising-market/">Read <span>more</span></a>
+					<a class="news-description" href="http://www.adswizz.com/adswizz-and-rtbiq-partner-to-bring-advanced-direct-response-programs-through-programmatic-digital-audio-advertising/">November 16, 2016 , &nbsp; AdsWizz and RTBiQ Partner to Bring Advanced Direct Response Programs Through Programmatic Digital Audio Advertising San Mateo, Calif., November 17, 2016 — AdsWizz, the leading global technology provider of...</a>
+					<a class="button small" href="http://www.adswizz.com/adswizz-and-rtbiq-partner-to-bring-advanced-direct-response-programs-through-programmatic-digital-audio-advertising/">Read <span>more</span></a>
 				</div>
 				<div class="col-md-3 news-sidebar col-sm-3">
 					<div class="news-name-container">
-						<a href="http://www.adswizz.com/author/pr-adswizz/">
+						<a href="http://www.adswizz.com/author/adswizz/">
 							<span class="news-img-container">
-								<img src="http://www.adswizz.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-19-at-16.58.28-150x150.png" width="54" height="54" alt="PR AdsWizz" class="avatar avatar-54 wp-user-avatar wp-user-avatar-54 alignnone photo">							</span>
+								<img src="http://1.gravatar.com/avatar/a51cb7d5e390951414293168dcdf5208?s=54&amp;d=mm&amp;r=g" width="54" height="54" alt="" class="avatar avatar-54wp-user-avatar wp-user-avatar-54 alignnone photo avatar-default">							</span>
 							<span class="news-name"></span>
 						</a>
 					</div>
 					<div class="news-social-container">
 						<span class="follow">Follow </span>
-												<a href="https://twitter.com/followadswizz" target="_blank"><i class="flaticon-twitter1"></i></a>
-												<a href="https://www.linkedin.com/company/adswizz.com" target="_blank"><i class="flaticon-linkedin12"></i></a>
 											</div>
 				</div>
 			</div>
@@ -314,10 +385,10 @@
 			<div class="row">
 				<div class="col-md-8 news-main col-sm-9 pull-right">
 					<h3>
-						<a href="http://www.adswizz.com/adswizz-is-excited-to-support-xaxis-in-the-launch-of-the-first-ever-audio-programmatic-campaign-in-belgium/"><span>AdsWizz</span> is excited to support Xaxis in the Launch of the first ever Audio Programmatic Campaign in Belgium</a>
+						<a href="http://www.adswizz.com/the-trade-desk-now-offers-buyers-of-digital-audio-access-to-the-precision-and-efficiency-of-programmatic-advertising-3/">The Trade Desk Now Offers Buyers of Digital Audio Access to the Precision and Efficiency of Programmatic Advertising</a>
 					</h3>
-					<a class="news-description" href="http://www.adswizz.com/adswizz-is-excited-to-support-xaxis-in-the-launch-of-the-first-ever-audio-programmatic-campaign-in-belgium/">October 28, 2015 , Xaxis Launches First Digital Audio Campaign Programmatic in Belgium Streaming music consumption continues to increase and advertisers are now able to to reach their target audience via digital audio advertisements....</a>
-					<a class="button small" href="http://www.adswizz.com/adswizz-is-excited-to-support-xaxis-in-the-launch-of-the-first-ever-audio-programmatic-campaign-in-belgium/">Read <span>more</span></a>
+					<a class="news-description" href="http://www.adswizz.com/the-trade-desk-now-offers-buyers-of-digital-audio-access-to-the-precision-and-efficiency-of-programmatic-advertising-3/">August 9, 2016 , &nbsp; The Trade Desk Now Offers Buyers of Digital Audio Access to the Precision and Efficiency of Programmatic Advertising &nbsp; NEW YORK, NY–(Marketwired – Aug 9, 2016) – The Trade...</a>
+					<a class="button small" href="http://www.adswizz.com/the-trade-desk-now-offers-buyers-of-digital-audio-access-to-the-precision-and-efficiency-of-programmatic-advertising-3/">Read <span>more</span></a>
 				</div>
 				<div class="col-md-3 news-sidebar col-sm-3">
 					<div class="news-name-container">
@@ -354,7 +425,7 @@
                             <section id="mc4wp_widget-3" class="widget widget_mc4wp_widget"><h2>GET POSTED<br><span>SIGN UP TO OUR NEWSLETTER</span></h2><!-- Form by MailChimp for WordPress plugin v2.2.8 - https://mc4wp.com/ --><div id="mc4wp-form-1" class="form mc4wp-form"><form method="post">                              <div class="form-group pull-left">
                                 <input type="email" name="email" class="form-control" placeholder="Your e-mail address">
                               </div>
-                              <button type="submit" value="Subscribe" class="btn btn-default pull-left form-button">SIGN <span>UP</span></button><input type="text" name="_mc4wp_required_but_not_really" value=""><input type="hidden" name="_mc4wp_timestamp" value="1453414597"><input type="hidden" name="_mc4wp_form_submit" value="1"><input type="hidden" name="_mc4wp_form_instance" value="1"><input type="hidden" name="_mc4wp_form_nonce" value="6bc75cf38d"></form></div><!-- / MailChimp for WP Plugin --><style type="text/css">.mc4wp-form input[name="_mc4wp_required_but_not_really"] { display: none !important; }</style></section>		<script>
+                              <button type="submit" value="Subscribe" class="btn btn-default pull-left form-button">SIGN <span>UP</span></button><input type="text" name="_mc4wp_required_but_not_really" value=""><input type="hidden" name="_mc4wp_timestamp" value="1479754363"><input type="hidden" name="_mc4wp_form_submit" value="1"><input type="hidden" name="_mc4wp_form_instance" value="1"><input type="hidden" name="_mc4wp_form_nonce" value="b02927f680"></form></div><!-- / MailChimp for WP Plugin --><style type="text/css">.mc4wp-form input[name="_mc4wp_required_but_not_really"] { display: none !important; }</style></section>		<script>
 			 $(".form form").validate();
 			 $(document).ready(function(){
 			 	$(".form-button").click(function(e) {
@@ -413,7 +484,7 @@
 		
         <li class="post-list-">
         <div class="post-list-info ">
-        <a href="http://www.adswizz.com/adswizz-partners-with-tokyo-fm-japans-top-broadcaster-to-establish-japans-digital-audio-advertising-market/" class="post-list-title"><span>AdsWizz </span>Partners with TOKYO FM, Japan’s Top Broadcaster, to Establish Japan’s Digital Audio Advertising Market</a>
+        <a href="http://www.adswizz.com/adswizz-and-rtbiq-partner-to-bring-advanced-direct-response-programs-through-programmatic-digital-audio-advertising/" class="post-list-title"><span>AdsWizz</span> and RTBiQ Partner to Bring Advanced Direct Response Programs Through Programmatic Digital Audio Advertising</a>
 	              </div>
 
        <div class="clearboth"></div>
@@ -422,7 +493,7 @@
         
         <li class="post-list-">
         <div class="post-list-info ">
-        <a href="http://www.adswizz.com/adswizz-is-excited-to-support-xaxis-in-the-launch-of-the-first-ever-audio-programmatic-campaign-in-belgium/" class="post-list-title"><span>AdsWizz</span> is excited to support Xaxis in the Launch of the first ever Audio Programmatic Campaign in Belgium</a>
+        <a href="http://www.adswizz.com/the-trade-desk-now-offers-buyers-of-digital-audio-access-to-the-precision-and-efficiency-of-programmatic-advertising-3/" class="post-list-title">The Trade Desk Now Offers Buyers of Digital Audio Access to the Precision and Efficiency of Programmatic Advertising</a>
 	              </div>
 
        <div class="clearboth"></div>
@@ -436,12 +507,12 @@
                     <li class="footer-list-title">
                         <a href="http://www.adswizz.com/careers/">Careers</a>
                     </li>
-                                                                        <li><a href="http://www.adswizz.com/careers/technical-account-manager-eu-programmatic-london-based/">
-                            <span>new</span>Technical Account Manager – EU Programmatic (London based)</a></li>
-                                                    <li><a href="http://www.adswizz.com/careers/senior-technical-project-manager-online-advertising/">
-                            <span>new</span>Senior Technical Project Manager (online advertising)</a></li>
-                                                    <li><a href="http://www.adswizz.com/careers/programmatic-specialist-europe-london-based/">
-                            <span>new</span>Programmatic Specialist – Europe (London based)</a></li>
+                                                                        <li><a href="http://www.adswizz.com/careers/legal-counsel-based-in-san-mateo-california-online-advertising/">
+                            <span>new</span>Legal Counsel  – based in San Mateo, California (online advertising)</a></li>
+                                                    <li><a href="http://www.adswizz.com/careers/partner-integration-manager-for-latin-america-based-in-san-mateo-california-online-advertising/">
+                            <span>new</span>Partner Integration Manager for Latin America – based in San Mateo, California (online advertising)</a></li>
+                                                    <li><a href="http://www.adswizz.com/careers/senior-technical-account-manager-based-in-hamburg-online-advertising/">
+                            <span>new</span>Senior Technical Account Manager, based in Hamburg (online advertising)</a></li>
                                             <li class="footer-list-title small">
                         <a href="http://www.adswizz.com/contact-us/">Contact Us</a>
                     </li>
