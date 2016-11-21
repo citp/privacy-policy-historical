@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rebeccaminkoff.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623184444id_/http%3A//www.rebeccaminkoff.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebeccaminkoff.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121075203id_/http%3A//www.rebeccaminkoff.com/privacy-and-security) for the most accurate reproduction.*
 
-# Privacy & Security | Rebecca Minkoff
+# Privacy & Security
 
 PRIVACY
 
@@ -42,6 +42,24 @@ Email to a Friend - You may be able to share certain content from this website w
 
 Other Site Features - We offer visitors to this website various features for their information and enjoyment, which we may change from time to time. We may ask you to submit certain personal information so we can provide you with these features and send you communications about our products, services and promotions.
 
+As of November 16, 2016 customer ratings are subject to a overall rating standard.
+
+RM Squad Terms and Conditions
+
+The RM Squad Program (“RM Squad”) is an insider program offered by Rebecca Minkoff, LLC (“Rebecca Minkoff”) to its customers based in the United States. You must be thirteen years or older to participate in the RM Squad. Eligible minors must obtain their parent or legal guardian’s consent prior to participation. 
+
+To join the RM Squad you must submit the form on the hosted webpage and provide your name, address, phone number, and create a username and password. In addition, you will be asked for but not required to provide your date of birth (month and day). In able to be eligible for a Birthday Treat you must provide your date of birth. 
+
+If you’re in the RM Squad, you will receive special perks for being an RM insider, which may include rewards for your birthday (“Birthday Treat”), special sale invites, exclusive Rebecca insights, among other incentives. 
+
+RM Squad membership is limited to one per customer. Potential RM Squad points, discounts, and special offers are non-transferrable, non-assignable and may not be shared and are void where prohibited. 
+
+By submitting a form to join the RM Squad, you agree to receive advertising, marketing, and other communications from Rebecca Minkoff including the Rebecca Minkoff newsletter. If you do not wish to receive these communications you may opt-out by logging into your account and unsubscribing. Note that by unsubscribing from the Rebecca Minkoff newsletter you will also terminate your eligibility to earn perks through the RM Squad. 
+
+Rebecca Minkoff may, in its sole discretion, alter, limit, or modify the RM Squad Terms and Conditions, regulations, benefits, or eligibility to participate in the RM Squad. In addition, Rebecca Minkoff may discontinue the RM Squad at any time in tis sole discretion. 
+
+Rebecca Minkoff reserves the right to exclude customers from participating in the RM Squad in its sole discretion.
+
 Information We Collect By Automated Means
 
 Cookies
@@ -80,7 +98,7 @@ We may combine the information we collect through cookies and pixel tags with ot
 
 Use of Your Personal Information
 
-use the information we collect from our customers for various purposes, including:
+We collect the information from our customers for various purposes, including:
 
 Process transactions upon their request  
 Improve our stores, website, customers shopping experience and quality of service  
@@ -101,6 +119,14 @@ Links to other sites
 While visiting our website, you may link to sites operated by our business partners or other third parties. This does not mean that we endorse these sites. We do not make any representations or warranties about any website you may access through the Rebecca Minkoff website. They are independent from us, and we have no control over, or responsibility for, their information or activities. 
 
 In addition, our privacy practices may differ from those of these other sites. If you provide personal information at one of those sites, you are subject to the privacy policy of the operator of that site, not the Rebecca Minkoff Privacy and Usage Policy. Please make sure you understand the other site's privacy policy before providing personal information. 
+
+User Content
+
+Rebecca Minkoff doesn't claim any ownership in any content that you upload on the Website, through a mobile application, blog or via any form of social media channel (including by submitting an image to your social media using the hashtags #MyRM, #MyUM, #rebeccaminkoff, #uriminkoff) ("User Content"). After posting User Content, you retain the ownership right to all content, but you hereby grant to Rebecca Minkof an irrevocable, fully-paid, worldwide, non-exclusive limited license to modify, publicly perform, display, reproduce, distribute, transmit, and copy the User Content on the Website, Rebecca Minkoff app, mobile website, email, and all applicable social channels, including but not limited to Facebook, Twitter, and Instagram.
+
+Accordingly, you represent and warrant that you own all rights to the User Content that you upload to the Website, and it doesn't infringe on any other intellectual property rights, privacy rights, or publicity rights.
+
+Rebecca Minkoff reserves the right to remove any User Content from the Website for any reason without prior notice.
 
 Security 
 
@@ -184,48 +210,8 @@ We make no representations or warranties of any kind, whether express or implied
 
 Applicable Law 
 
-By visiting our website, you agree that the laws of the State of New York, without regard to principles of conflict of laws, will govern any dispute of any sort that might arise between you and us or any of our affiliates regarding your visit to and use of our website. 
+By visiting the website, you agree that any dispute related to any transaction made on the website or any breach of these terms, you will first try in good faith to settle the dispute by sending a notice to the following address: Rebecca Minkoff, LLC, 16 West 22nd Street, 7th Floor, New York, NY 10010, attn: Customer Service or by email to customercare@rebeccaminkoff.com. This notice must be given before initiating any litigation or filing any claim against the other party. 
 
-The failure of Rebecca Minkoff to exercise or enforce any right or provision of these Terms of Use shall not constitute a waiver of such right or provision. 
+In the event a dispute cannot be resolved by the above process, you consent that the dispute will be decided by binding arbitration on an individual basis— you waive the right for a judge or jury to determine your claims, and you may not proceed in a class, consolidated, or representative capacity. All such disputes shall be subject to the rules of New York, New York, before one arbitrator to be mutually agreed upon. 
 
-FESTIVAL STYLE SWEEPSTAKES 
-
-OFFICIAL RULES 
-
-NO PURCHASE NECESSARY. A PURCHASE OR PAYMENT OF ANY KIND WILL NOT IMPROVE YOUR CHANCE OF WINNING. 
-
-VOID WHERE PROHIBITED BY LAW 
-
-1\. Eligibility: The Festival Style Sweepstakes ("Sweepstakes") is open only to legal residents of the fifty (50) United States (including the District of Columbia), who are 18 years of age or older at the time of entry and have a valid email address. Officers, directors and employees of Rebecca Minkoff, LLC (“Rebecca Minkoff”) and its parent and affiliated companies, subsidiaries, promotion agencies, licensees, suppliers (all such individuals and entities collectively referred to herein as the “Promotion Entities”) and members of their immediate families, are not eligible. For purposes of this Sweepstakes, "immediate family" is defined as spouses, parents, children, siblings and their respective spouses, regardless of whether they reside in the same household. 
-
-2\. Sponsor: Rebecca Minkoff, 16 West 22nd Street, 7th Floor, New York, NY 10010 
-
-3\. How to Enter: No purchase is necessary to enter. Entrants may participate in the sweepstakes (the “Entrant”) during the Entry Period, which will run from April 11, 2016 at 12:00 AM (EST) through April 30, 2016 at 11:59 PM (EST) (the " Entry Period"). To enter entrants must use their Facebook account, or, if not already a member, becoming a member of Facebook.com and signing in, to complete the entry form in its entirety including their email address (the “Entry Form”), then click the “Submit” button to receive one (1) entry into the Sweepstakes. All entries must be received by 11:59 PM (EST) on April 30, 2016. 
-
-4\. Entry Limitations: All entries must be received during the applicable phase of the Entry Period. Entrants may submit one (1) entry per day during the Entry Period. If multiple entries are received, only the first entry will be accepted and additional entries will be disqualified. Multiple participants are not permitted to use the same email address. Any attempt by an Entrant to obtain more than one (1) entry per day by using multiple/different accounts, identities, registrations and logins, or any other methods will void that Entrant's entries and that Entrant may be disqualified. 
-
-5\. Entry Errors: The Promotion Entities are not responsible for lost, late, incomplete, damaged, stolen, invalid, unintelligible or misdirected entries, which will be disqualified. The Promotion Entities are not responsible if online service or equipment is interrupted including without limitation (1) interruptions to any network, server, Internet, Web site, telephone, satellite, computer or other connections, (2) failures of any telephone, satellite, hardware, software or other equipment, (3) garbled, misdirected or jumbled transmissions, or traffic congestion, (4) other errors of any kind, whether human, technical, mechanical or electronic, (5) the incorrect or inaccurate capture of information or the failure to capture any such information, or (6) printing or typographical errors. 
-
-6\. Selection of Winner: The Winner (as defined below) will be selected on May 2, 2016 notified via email by 11:59 PM (EST) on May 4, 2016. The Winner is subject to eligibility verification and compliance with these Official Rules. Income and other taxes, if any, are the sole responsibility of the Winner and all prizes are non-transferable, non-refundable and have no cash value if not used. Any and all expenses associated with a prize that are not included in the prize description also are the sole responsibility of the winner. Odds of being chose as a Finalist and as a Winner depend on the total number of eligible entries received during the Entry Period." The decisions of the Sponsor and its judges are final and binding on all matters relating to the Sweepstakes. 
-
-7\. Prize: One (1) winner (“Winner”) will be selected to win one (1) Isobel Phone Crossbody Bag (the “Prize”). Color and size selection of the Prize will be in the Sponsor’s sole discretion. No cash alternative or substitution of the Prize will be allowed, except Sponsor reserves the right in its sole discretion to substitute Prize of comparable value if any Prize listed is unavailable, in whole or in part, for any reason. Promotion Entities are not responsible in the event the fashion show is cancelled or postponed. 
-
-8\. Dates and Deadlines/Anticipated Number of Entrants: Because of the unique nature and scope of the Sweepstakes, Sponsor reserves the right, in addition to those other rights reserved herein, to modify any date(s) or deadline(s) set forth in these Official Rules or otherwise governing the Sweepstakes. Sponsor cannot accurately predict the number of Entrants who will participate in the Sweepstakes. 
-
-9\. Nature of Relationship: Each Entrant hereby acknowledges and agrees that the relationship between the Entrant and the Promotion Entities does not create any agency, partnership, joint venture or other form of joint enterprise, employment or fiduciary relationship between the parties, and that the Entrant’s decision to provide the Entrant’s entry to the Promotion Entities for purposes of the Sweepstakes does not place the Promotion Entities in a position that is any different from the position held by members of the general public with regard to elements of the Entrant’s entry. 
-
-10\. No Obligation To Use: The Promotion Entities shall have no obligation (express or implied) to use any entry, or to otherwise exploit any entry or, if commenced, to continue the distribution or exploitation thereof, and the Promotion Entities may at any time abandon the use of the entry for any reason, with or without legal justification or excuse, and Entrants shall not be entitled to any damages or other relief by reason thereof. 
-
-11\. Acceptance of Official Rules: As a condition of entry, Entrants fully and unconditionally agree to comply with these Official Rules and Sponsor’s decisions, which are final and binding in all respects. 
-
-12\. Potential Winner: As a condition of entry, the Winner consents to the Promotion Entities to use their name, likeness, voice, and biographical information for publicity or advertising in any media or manner, without further payment, consideration, notice or approval and without geographic or time limitation to the greatest extent permitted by law. As applicable, the winner may be required to execute and return (and winning may be conditioned upon the winner executing and returning) to Sponsor, within five (5) business days, an Affidavit of Eligibility Release drafted by Sponsor to be eligible for the Prize or an alternate winner will be selected. The winner may be required in Sponsor’s sole discretion to complete relevant tax forms as a condition to the delivery of the Prize. 
-
-13\. Liability: Each Entrant represents and warrants that Entrant will comply with all applicable laws, rules and regulations in conjunction with entering and participating in this Sweepstakes. Each Entrant further agrees that Sponsor and its subsidiaries and affiliated companies and all their advertising and promotion agencies and clients, together with each director, officer, owner, employee, agent, insurer, contractor and the successor and assign or each of them, as well as Facebook (collectively, the “Released Parties”), will have no liability whatsoever in connection with this Sweepstakes to Entrant or to any person who may assert any claim derived from or through Entrant and Entrant shall hold each such release harmless for any injuries, losses or damages of any kind that Entrant or others may incur with respect to Entrant’s participation in the Sweepstakes or acceptance, use or misuse of a prize. By entering the Sweepstakes, each Entrant explicitly releases, discharges and holds harmless the Promotion Entities from any and all liability, actions, causes of action, damages, actual, incidental or consequential, claims and demands whatsoever in law or equity, including attorneys' fees and/or experts fees and costs, which Entrant now has or may acquire, by reason of any personal injury, death, loss of or damage to property, or any other reason, whether or not occurring during or arising out of Entrant’s participation in the Sweepstakes and/or acceptance, use and/or misuse of a prize. The Promotion Entities are not responsible for any injury or damage to persons or property, which may be caused, directly or indirectly, in whole or in part, from Entrant's participation in the Sweepstakes or receipt or use or misuse of any prize. 
-
-14\. Conditions of Participation: Sponsor reserves the right in its sole discretion, to modify, cancel, terminate, and/or suspend the Sweepstakes and to disqualify any individual who tampers with the entry process, violates these Official Rules, or acts in a disruptive or unsportsmanlike manner. In the event that the Sweepstakes is terminated early, Sponsor reserves the right, but not the obligation, to award or not to award prizes to persons who entered prior to the date of termination. Without limiting the foregoing, Sponsor may lock out any Entrant who, in Sponsor’s sole judgment, has been disqualified, has questionable eligibility or is otherwise ineligible to enter. 
-
-15\. Entrant’s Personal Information: Information collected from Entrants through the Entry Form is subject to Sponsor’s Privacy Policy available at: http://www.rebeccaminkoff.com/privacy-and-security/. 
-
-16\. Sweepstakes Results: For Sweepstakes results send a hand-printed, self-addressed, stamped envelope to Festival Style Sweepstakes c/o Rebecca Minkoff LLC, 16 W. 22nd Street, 7th Floor, New York, NY 10010 within sixty (60) days of the end of the Entry Period. 
-
-17\. Disclaimer: This Sweepstakes is in no way sponsored, endorsed, affiliated with, Facebook. All information provided through this Sweepstakes are received by the Sponsor and not Facebook.
+The failure of Rebecca Minkoff to exercise or enforce any right or provision of these Terms of Use shall not constitute a waiver of such right or provision.
