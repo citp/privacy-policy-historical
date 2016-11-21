@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wta.org privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915114304id_/http%3A//www.wta.org/connect/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wta.org privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121192012id_/http%3A//www.wta.org/connect/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Washington Trails Association
 
@@ -29,3 +29,11 @@ A cookie is a small data file stored on a visitor's computer that contains infor
 #### Use of Location Data
 
 When you are using the Washington Trails Association's smartphone application or accessing this website on a mobile device, we may determine your current location and use that information to help you find nearby hikes. We do not share your location information with any third parties, nor do we use it for any purpose other than to determine your distance from the hikes in our database. If you are not comfortable with this, you may disable the use of location services in the application settings at any time. Please note that our smartphone application can also be used to obtain turn-by-turn directions to reach the hikes in our database. Using this functionality will not send your location information to the Washington Trails Association website, but it may result in your location data being sent to the provider of your phone's default mapping application.
+
+### Use of Google Analytics
+
+We have implemented Google Analytics features based on Display Advertising (ex: Remarketing, Google Adwords, Google Analytics Demographics and Interest Reporting, etc.). We and other third-party vendors, including Google, use first-party cookies and third-party cookies together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our site.
+
+Google Analytics does not store any visitor specific data, and we will not use visitor-specific data in any way related to Google Analytics, Google Adwords, and Remarketing. We use aggregated behavioral information to inform and refine our marketing efforts.
+
+At any time, you may choose to opt-out of Google Analytics tracking with the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/%22%20%5Ct%20%22_blank). You can also opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/u/0/ads/%22%20%5Ct%20%22_blank).
