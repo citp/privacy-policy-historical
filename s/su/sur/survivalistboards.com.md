@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the survivalistboards.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121153420id_/http%3A//www.survivalistboards.com/showthread.php%3Ft%3D97547) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survivalistboards.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121052413id_/http%3A//www.survivalistboards.com/faq.php%3Ffaq%3Dprivacy) for the most accurate reproduction.*
 
-# Copyright Information, Disclaimer and Privacy Policy - Survivalist Forum
+# Survivalist Forum - FAQ: Privacy
 
 **_Copyright Information_** :
 
@@ -58,11 +58,8 @@ A cookie is a string of information that a website stores on a visitor’s compu
 
 Although most changes are likely to be minor, Kevin reserves the right to change this Privacy Policy from time to time. Kevin – the owner of Survivalist Boards encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
- _ **Disclosure**_
-
-Survivalistboards.com contains advertising and some contextual affiliate marketing links, meaning we may get commission on sales of those products or services mentioned...The content of posts on this forum are never influenced by advertisers or an affiliate partnership, nor are posts written for the sole purpose of promoting a product.
-
- _ **FTC Required Disclosure**_
+ _ **Disclosure**_  
+Survivalistboards.com contains advertising and some contextual affiliate marketing links, meaning we may get commission on sales of those products or services mentioned...The content of posts on this forum are never influenced by advertisers or an affiliate partnership, nor are posts written for the sole purpose of promoting a product. _ **FTC Required Disclosure**_
 
 The Federal Trade Commission (FTC) now requires bloggers to disclose their relationship with companies, and individuals selling products. Whether the blogger received a payment for the product, whether the results are going to be typical,,,, just all kinds of stuff.
 
