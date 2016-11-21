@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the edvisors.com privacy policy that was archived on 2016-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160624134712id_/https%3A//www.edvisors.com/terms-privacy-disclaimer/%23privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the edvisors.com privacy policy that was archived on 2016-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161121224212id_/https%3A//www.edvisors.com/terms-privacy-disclaimer/%23privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><head>
         <meta charset="utf-8">
@@ -46,13 +46,16 @@
         <!--<![endif]-->
         <script src="//cdn.optimizely.com/js/2293890421.js"></script>
         
-<script src="/cassette.axd/asset/scripts/head/ga-edvisors.js?27fab324280c4bc389dd060c2dcd872e3a007bb2" type="text/javascript"></script>
+<script src="/cassette.axd/script/27fab324280c4bc389dd060c2dcd872e3a007bb2/scripts/head" type="text/javascript"></script>
 
         <!-- eof js -->	
 
         
-<meta name="VIcurrentDateTime" content="636023728343731727">
+<meta name="VIcurrentDateTime" content="636153649324378593">
 <script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+        <!--Front-end logic for Lenders - PSL.-->
+        <script src="/scripts/standard/psl.core.min.js" type="text/javascript"></script>
 
     </head>
          <!--[if IE 8]><body class="ie8 subpage"><![endif]-->
@@ -78,7 +81,7 @@
 </div>
 
 
-<form action="/profile/Logoff" id="logoutForm" method="post"><input name="__RequestVerificationToken" type="hidden" value="Iq8FxD-InPMo8EqiyiARyOWAgbcBp94TjzfRDLPaLXmXeSyocWcJLto8kJ5zYLNgB8r1FS0oLbkf-IG6FgAuuMXRTiHEduc5aIlgtcr_0Cw1">    <div class="account-links">
+<form action="/profile/Logoff" id="logoutForm" method="post"><input name="__RequestVerificationToken" type="hidden" value="RqgVU5JpRsEXmHws2MglRjfsl5OE1x6_jYjq9CrrEq5Zi3E6TavpzSfoF-4rFSb3fbHTojBw0baemLoT4T4_wRYjmHslaBjmeXJQUZNy_KM1">    <div class="account-links">
         <ul>
                 <li><a href="/account/login">Survival Guide Login</a></li>
                 <li><a href="/survival-guide" class="green"><i class="fa fa-compass"></i> Get a Survival Guide</a></li>
@@ -110,7 +113,7 @@ $().ready(function() {
         </header>
         <section class="navigation">
     <div class="container">
-<form action="/profile/Logoff" id="mobileLogoutForm" method="post"><input name="__RequestVerificationToken" type="hidden" value="qgCaWe_lZ2YuwWCz8a3jn0VIoTxVHHuNF8zeoEC901CKVdbZF1SjGw_p8fsIaQZfioyti9Vrp7wAuYHR_3OIAimTM4S4ZndnO4J3XqfTWmM1">        <div class="row">
+<form action="/profile/Logoff" id="mobileLogoutForm" method="post"><input name="__RequestVerificationToken" type="hidden" value="B8ETjLqnYYYoALYZ4Pn4hgK9tsDc_VQbOzlzNq1IWTpILTqhjmE_Fp7_vpudPmeb-uDJtHI8CFK9Fb6gJOk_DlXbaitmOSmRgXdL5TBPcLc1">        <div class="row">
                 <div class="nav-section profile-nav featured-nav">
                     <div class="menu-root" title="">
                         <h4>Student Survival Guide</h4>
@@ -209,7 +212,6 @@ Terms of Use, Privacy Policy and Disclaimer            </div>
 
 <section class="content article-detail">
     <div class="container">
-
         <div class="left-gutter">
             
         </div>
@@ -217,14 +219,12 @@ Terms of Use, Privacy Policy and Disclaimer            </div>
         <div class="right-gutter">
             
         </div>
-        
-        <div class="row">
 
-            <div class="col-sm-2"></div>
-            
-            <div class="col-sm-8">
+        <div class="row">
+                       
+            <div class="col-sm-8 col-sm-offset-2">
+
                 <h1>Terms of Use, Privacy Policy and Disclaimer</h1>
-                
                 <div class="article-info">
 					
                     
@@ -243,8 +243,9 @@ Terms of Use, Privacy Policy and Disclaimer            </div>
                 </div>
                 
                 
+                
                 <h2><a name="terms-of-use">Terms of Use</a></h2>
-<p>Last Modified: March 3, 2016</p>
+<p>Last Modified: June 30, 2016</p>
 <h3>Contents</h3>
 <ol>
     <li><a href="#accepting-terms">Accepting Edvisors' Terms of Use</a></li>
@@ -259,6 +260,7 @@ Terms of Use, Privacy Policy and Disclaimer            </div>
     <li><a href="#registration-site-visitation">Registration and Site Visitation Obligations</a></li>
     <li><a href="#password-account-access">Registered Services Password and Account Access</a></li>
     <li><a href="#visitor-conduct">Registered-User and Website Visitor Conduct</a></li>
+    <li><a href="#liability-for-technical-disruptions-to-our-websites">Liability for Technical Disruptions to Our Website(s)</a></li>
     <li><a href="#disclaimer-of-warranties">Disclaimer of Warranties</a></li>
     <li><a href="#limitation-of-liability">Limitation of Liability</a></li>
     <li><a href="#indemnification">Indemnification</a></li>
@@ -348,18 +350,20 @@ Terms of Use, Privacy Policy and Disclaimer            </div>
 <p>You may not change, reorganize, modify, copy, reverse engineer, or create derivative works from the Services or any part thereof, in order to (i) build a competitive product or Service; (ii) build a product using similar ideas, features, functions, or graphics of the Service; (iii) remove, change or replace any Edvisors’ trademarks, logos, copyrights, or any other branding elements; (iv) hide, obscure, disable, or otherwise render inoperable any portion of the User interface including, but not limited to, the display of advertisements and promotions within the Services; or (v) copy any content, ideas, features, functions, or graphics of the Services. In addition, you may not use any meta tags or any other “hidden text” using Edvisors’ name or other trademark or service mark, nor any Edvisors logo or other proprietary graphic or service mark as part of a link, without the express written consent of Edvisors.</p>
 <p>You may not use any “deep-link,” “page-scrape,” “robot,” “spider” or other automatic device, algorithm or methodology, or any similar or equivalent manual process, to access, acquire, copy or monitor any portion of the website and Services, or in any way reproduce or circumvent the navigational structure or presentation of the Services to obtain or attempt to obtain any materials, documents or information through any means not purposely made available through the Services. Additionally, you may not take any action that imposes, or may impose (as judged by Edvisors at its sole discretion) an unreasonable or disproportionately large load on our infrastructure.</p>
 <p>You may not attempt to gain unauthorized access to any portion or feature of the Services, or any other systems or networks connected to the Services or to any Edvisors server, or to any of the services offered on or through the Services, by hacking, password “mining” or any other illegitimate means. You may not harvest or collect User names, User IDs, email addresses or any other User identifying information by electronic or other means for the purpose of sending unsolicited email or other communications. Unauthorized commercial advertisements, affiliate links, and other forms of solicitation may be removed from User profiles and/or community postings without notice and may result in termination of User privileges.</p>
-<h3><a name="disclaimer-of-warranties">13. Disclaimer of Warranties</a></h3>
+<h3><a name="liability-for-technical-disruptions-to-our-websites">13. Liability for Technical Disruptions to Our Website(s)</a></h3>
+<p>If you cause a technical disruption of our website or any aspect of its functionality you agree to be responsible for any and all loss, costs, liabilities or expenses Edvisors may suffer and you agree to be liable for any attorneys' fees and costs arising from and/or related to the same. The foregoing shall be without limitation of our other venders in law or equity.</p>
+<h3><a name="disclaimer-of-warranties">14. Disclaimer of Warranties</a></h3>
 <p>You agree that use of the Services and this Website is solely at your own risk. All Services offered by Edvisors are provided on a strictly “as is” and “as available” basis, without representation or warranty of any kind. Neither Edvisors nor its third-party partners make any warranty, express or implied: (i) with regard to any products, services, or gifts obtained by you through the Services or through any third-party; (ii) that the services will meet your requirements; (iii) that the Services will be uninterrupted, timely, free of errors or without defects; (iv) as to the results you may obtain by using the Services; or (v) as to the accuracy or reliability of any information obtained via the Services. <strong>EDVISORS EXPRESSLY DISCLAIMS ANY AND ALL EXPRESS, IMPLIED AND STATUTORY WARRANTIES REGARDING THE INFORMATION, SERVICES OR GOODS PROVIDED BY OR THROUGH THE SERVICES (OTHER THAN THOSE INCAPABLE OF EXCLUSION UNDER THE LAWS APPLICABLE TO THESE TERMS OF USE), INCLUDING, BUT NOT LIMITED TO: (I) THE IMPLIED WARRANTY OF MERCHANTABILITY; (II) THE IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR USER OR PURPOSE; AND (III) NON-INFRINGEMENT. EDVISORS CANNOT AND SHALL NOT BE LIABLE OR RESPONSIBLE FOR THOSE GUARANTEES, WARRANTIES, AND REPRESENTATIONS, IF ANY, OFFERED BY ANY THIRD-PARTY INCLUDING BUT NOT LIMITED TO: CLIENTS, SPONSORS, REWARD PARTNERS, MANUFACTURERS OF MERCHANDISE OR SUPPLIERS OF SERVICES. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM EDVISORS OR VIA THE SERVICES SHALL CREATE ANY WARRANTY NOT EXPRESSLY MADE HEREIN.</strong></p>
-<h3><a name="limitation-of-liability">14. Limitation of Liability</a></h3>
+<h3><a name="limitation-of-liability">15. Limitation of Liability</a></h3>
 <p>You understand that some goods and services offered through the Services may be offered by third-parties or affiliates, and that Edvisors does not operate, control or endorse any of their information, goods or services in any way. You understand that third-parties may place restrictions on the use of goods and services offered through the Services. Neither Edvisors nor its officers, directors, stockholders, subsidiaries, employees, agents, licensors, affiliates, or other third-party providers shall be held liable for any damages or losses, whether direct, indirect, incidental, special, consequential or exemplary damages resulting from: (i) the user or inability to use the Services; (ii) the cost of procurement of substitute goods or services; (iii) any transaction entered into or through the Services; (iv) the reliance on or use of any information, goods, services or merchandise provided through the Services; (v) unauthorized access to or alteration of your transmissions or data; (vi) statements or conduct of any third-party; (vii) any claim attributable to errors, omissions, or other inaccuracies in the Services and/or materials or information retrieved through the Services; or (viii) any other matter relating to the Services or these Terms of Use. The above limitation is applicable even if Edvisors or its authorized representatives have been advised of (or know or should know of) the possibility of such damages. Because some jurisdictions do not allow the exclusion of certain warranties or the limitation or exclusion of liability for incidental or consequential damages, some of the above limitations and disclaimers may not apply to you. Your rights vary from jurisdiction to jurisdiction. To the extent that we may not, as a matter of applicable law, disclaim any implied warranty, the scope and duration of such warranty shall be the minimum permitted under such applicable law. You acknowledge and agree that Edvisors neither endorses the contents of any electronic mail or Internet communications nor shall be held responsible or liable for: (i) the accuracy of material contained in electronic mail, Internet, or other communications of third-parties or affiliates; (ii) any infringement of third-party intellectual property rights arising from the electronic mail Internet, or other communications from third-parties or affiliates; or (iii) any fraud or other crime facilitated by the electronic mail, Internet, or other communications by third-parties or affiliates. You agree that Edvisors is not liable to you or to any third-party for any modification, suspension or discontinuances of services from particular providers to the Services.</p>
-<h3><a name="indemnification">15. Indemnification</a></h3>
+<h3><a name="indemnification">16. Indemnification</a></h3>
 <p>YOU AGREE TO INDEMNIFY AND HOLD HARMLESS EDVISORS AND ITS SUBSIDIARIES, PREDECESSORS, SUCCESSORS, AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, LICENSORS, SUPPLIERS, CO-BRANDERS, THIRD-PARTY PROVIDERS, CLIENTS, SPONSORS, REWARD PARTNERS OR OTHER PARTNERS, FROM AND AGAINST ANY AND ALL CLAIMS, LOSSES, COSTS (INCLUDING COURT COSTS), FEES (INCLUDING ATTORNEY’S FEES), DAMAGES AND EXPENSES THAT SUCH PARTIES MAY INCUR AS A RESULT OF, DUE TO, OR ARISING OUT OF THE VIOLATION BY YOU (OR ANYONE ACTING UNDER YOU ACCOUNT OR PASSWORD) OF THESE TERMS OF USE OR THE USE OR MISUSE OF THE SERVICES BY YOU (OR ANYONE ACTING UNDER YOUR ACCOUNT OR PASSWORD), OR THE VIOLATION OF ANY RIGHTS OF ANOTHER BY YOU (OR ANYONE ACTING UNDER YOUR ACCOUNT OR PASSWORD).</p>
-<h3><a name="use-storage">16. Use and Storage</a></h3>
+<h3><a name="use-storage">17. Use and Storage</a></h3>
 <p>You acknowledge that Edvisors may establish general practices and limits concerning use of the Services including, without limitation, the maximum number of days that information, data, account history or other uploaded content will be retained by the Services, the maximum disk space that will be allotted on Edvisors servers on your behalf, and the maximum number of times (and the maximum duration for which) you may access the Services in a given period of time. You acknowledge that Edvisors reserves the right to terminate accounts that are inactive for an extended period of time, as determined by Edvisors in its sole discretion. You further acknowledge that Edvisors reserves the right to change these general practices and limits at any time, in its sole discretion, with or without notice. You agree that EDVISORS has no responsibility or liability for the deletion or failure to store any information or data and other communications or other content maintained or transmitted by or through the Services.</p>
-<h3><a name="trademark-information">17. Trademark Information</a></h3>
+<h3><a name="trademark-information">18. Trademark Information</a></h3>
 <p>All Edvisors trademarks, as well as any third-party trademarks, service marks, logos and trade names appearing on this Website or on or through the Services, are the property of their respective owners, and you may not copy or use them in any manner.</p>
 <p>Nothing contained on this Website should be understood as granting you a license to use any of the trademarks, service marks, or logos owned by Edvisors or by any third party.</p>
-<h3><a name="arbitration">18. Arbitration: PLEASE READ CAREFULLY. IT AFFECTS YOUR RIGHTS</a></h3>
+<h3><a name="arbitration">19. Arbitration: PLEASE READ CAREFULLY. IT AFFECTS YOUR RIGHTS</a></h3>
 <ol style="list-style-type: upper-alpha;">
     <li>Most of your concerns can be resolved quickly by contacting Edvisors at <a href="mailto:info@edvisors.com">info@edvisors.com</a>. In the event that we cannot resolve your concern, binding arbitration through the following procedures shall be your sole and exclusive remedy. Any arbitration under these Terms of Use will take place on an individual basis; class arbitrations and class actions are not permitted.</li>
     <li>Pursuant to the Federal Arbitration Act, Edvisors and you agree to arbitrate all disputes and claims between us. This agreement to arbitrate is intended to be broadly interpreted. It includes, but is not limited to, claims arising out of or relating to any aspect of the relationship between us, regardless of legal theory, including, but not limited to, claims relating to advertising and claims relating to any and all use of the Service(s), whether brought during or after the term of these Terms of Use. References to “Edvisors,” “you,” and “us” include our respective corporate subsidiaries and parents, affiliates, agents, employees, officers, directors, predecessors in interest, successors, and assigns, as well as all authorized or unauthorized users or beneficiaries of services under these Terms of Use or prior agreements between us. Notwithstanding the foregoing, either party may bring an individual action in small claims court. You agree that, by accepting these Terms of Use, you and Edvisors are each waiving the right to a trial by jury or to participate in a class action. This Section 18 shall survive termination of these Terms of Use.</li>
@@ -368,28 +372,28 @@ Terms of Use, Privacy Policy and Disclaimer            </div>
     <li>The arbitrator may award declaratory or injunctive relief only in favor of the individual party seeking relief and only to the extent necessary to provide relief warranted by that party’s individual claim. YOU AND EDVISORS AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. Further, unless both you and Edvisors agree otherwise, the arbitrator may not consolidate more than one person’s claims, and may not otherwise preside over any form of a representative or class proceeding. If this specific provision is found to be unenforceable, then the entirety of this arbitration provision shall be null and void.</li>
     <li>Notwithstanding any provision in these Terms of Use to the contrary, we agree that if Edvisors makes any change to this Section 18 (other than a change to the Edvisors Notice Address), you may reject any such change by sending us written notice, to the Edvisors Notice Address, within 30 days of the change. By rejecting any future change, you are agreeing that you will arbitrate any dispute between us in accordance with the language of these Terms of Use in the form prior to such rejected change.</li>
 </ol>
-<h3><a name="jurisdiction">19. Jurisdiction</a></h3>
+<h3><a name="jurisdiction">20. Jurisdiction</a></h3>
 <p>These Terms of Use and any dispute of any kind that arises with Edvisors shall be governed by the laws of the State of Nevada without regard to the principles of conflicts of laws. You further agree to irrevocably submit to the exclusive personal jurisdiction of Nevada courts.</p>
-<h3><a name="entire-agreement">20. Entire Agreement</a></h3>
+<h3><a name="entire-agreement">21. Entire Agreement</a></h3>
 <p>These Terms of Use constitutes the complete, final and exclusive understanding between Edvisors and you relating to the subject matter hereof and governs your use of the Service(s), superseding all prior or contemporaneous understandings, agreements and/or communications with respect to such subject matter. You may be subject to additional terms and conditions that may apply when you obtain or use third-party content, third-party software or goods and services provided by or through Clients, Sponsors, Reward Partner, Affiliates or other third-party partners of Edvisors.</p>
-<h3><a name="assignment">21. Assignment</a></h3>
+<h3><a name="assignment">22. Assignment</a></h3>
 <p>These Terms of Use, and any rights and licenses granted hereunder, may not be transferred or assigned by you, but may be assigned by Edvisors without restriction.</p>
-<h3><a name="invalidity-waiver">22. Invalidity; Waiver</a></h3>
+<h3><a name="invalidity-waiver">23. Invalidity; Waiver</a></h3>
 <p>If any provision of these Terms of Use is deemed invalid by a court of competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of these Terms of Use, which shall remain in full force and effect. No waiver of any term of these Terms of Use shall be deemed a further or continuing waiver of such term or any other term, and Edvisors’ failure to assert any right or provision under these Terms of Use shall not constitute a waiver of such right or provision.</p>
-<h3><a name="termination">23. Termination</a></h3>
+<h3><a name="termination">24. Termination</a></h3>
 <p>A Member may terminate their membership in any of the Registered Services with or without cause at any time. Member’s termination of Registered Services is effective upon Member’s terminating his/her membership on the Service’s Website. A visitor to any Edvisors Website who is not a Member but who does not agree to any of the terms and conditions of these Terms of Use should not use any of the Services and should exit the Website immediately.</p>
 <p>Edvisors may terminate membership and use of any of the Registered Services and may remove User Submissions in its sole discretion, effective immediately and without prior notice, for any reason, including, without limitation, failure to provide accurate Registration Data; lack of use; or if Edvisors believes that Member or has violated or acted inconsistently with the letter or spirit of these Terms of Use.</p>
 <p>Upon termination by either you or Edvisors: (i) Edvisors may immediately deactivate or delete your account and all related information and files and/or bar any further access to such files or the Services: (ii) your rights to use the Service(s) ceases immediately, including any rights to contests, games, or activities active at the time of termination; (iii) should you object to any of these Terms of Use or any subsequent modifications thereto or become dissatisfied with the Service, your only recourse is to immediately discontinue use of the Service. You agree that Edvisors shall not be liable to you or to any third-party for any termination of your account or your access to the Services.</p>
-<h3><a name="definitions">24. Definitions</a></h3>
+<h3><a name="definitions">25. Definitions</a></h3>
 <ol style="list-style-type: upper-alpha;">
     <li><strong>Sponsor:</strong> Any company or an organization that pays Edvisors to plan and carries out a sweepstakes, contest or activity on an Edvisors’ owned and operated website or mail-in promotion.</li>
     <li><strong>Client:</strong> Any company which Edvisors has a contract with to connect Edvisors members with. The Client would plan and carry out the sweepstakes, survey, contest or activity on Client’s owned and operated website or mail-in promotion.</li>
     <li><strong>Partner:</strong> Any company or organization who takes part in an undertaking with Edvisors, with shared risks and profits. For example, the Partner may own and operate a website where a survey occurs, but Edvisors would be operating the correlating sweepstakes where “Points” earned by through Partner’s survey, would be redeemed.</li>
     <li><strong>Affiliate:</strong> Affiliate is any business under common ownership or control.</li>
 </ol>
-<h3><a name="user-suggestions">25. User Suggestions</a></h3>
+<h3><a name="user-suggestions">26. User Suggestions</a></h3>
 <p>You acknowledge and agree that any questions, comments, suggestions, ideas, feedback or other information provided by you to Edvisors are not commercial and you grant us a worldwide, royalty-free license to distribute, publish, modify, edit or otherwise use your submissions. Edvisors shall be entitled to the unrestricted use and dissemination of these submissions for any purpose, commercial or otherwise without any acknowledgement of or compensation to you.</p>
-<h3><a name="questions-comments">26. Questions/Comments</a></h3>
+<h3><a name="questions-comments">27. Questions/Comments</a></h3>
 <p>If you have any questions or comments about the Services or become aware of misuse of the Services by any person, please contact us at <a href="mailto:info@edvisors.com">info@edvisors.com</a> or at the following address: Edvisors Network, Inc., 10000 W. Charleston Blvd., Suite 200, Las Vegas, NV 89135</p>
 <h2><a name="privacy-policy">Privacy Policy</a></h2>
 <p>Edvisors Network, Inc. (“Edvisors”) publishes web sites to help students and families plan and pay for college. These students and families turn to the company’s flagship site, Edvisors.com, for timely, accurate information, advice and tools that help them confidently make the best decisions about paying for college.</p>
@@ -517,21 +521,20 @@ Las Vegas, NV 89135 USA</strong></p>
                 
 
             </div>
-            <div class="col-sm-2"></div>
         </div>
     </div>
 </section>   
 		
 <section class="next-steps">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-2"></div>
-            <div class="col-sm-8">
-                
-                
 
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col-sm-8 col-sm-offset-2">
+                
+                
             </div>
-            <div class="col-sm-2"></div>
         </div>
     </div>
     <input type="hidden" id="disableJumpTo" value="False">
@@ -562,7 +565,7 @@ Las Vegas, NV 89135 USA</strong></p>
             <p>Over 3,000,000 brilliant students have subscribed to the Edvisors newsletter for the latest information on college planning, student aid applications, scholarships, grants and student loans!</p>
         </div>
 
-        <form action="/terms-privacy-disclaimer/" id="newsletter-form" method="post"><input id="scController" name="scController" type="hidden" value="NewsletterForm"><input id="scAction" name="scAction" type="hidden" value="Index"><input name="__RequestVerificationToken" type="hidden" value="Adc1FLuF6bjQuXFmMtaXIZzFBjKajuZxRavAgJBMTUK57JS6UfLPswiAbWaeZh5J5z8T-3xDHQ7dGgouA5rCvHPbJGmiKRO-DEg9_qSAj-s1">    <div class="row">
+        <form action="/terms-privacy-disclaimer/" id="newsletter-form" method="post"><input id="scController" name="scController" type="hidden" value="NewsletterForm"><input id="scAction" name="scAction" type="hidden" value="Index"><input name="__RequestVerificationToken" type="hidden" value="khuZGgkrJZmsj7oReOniHS6lsVM8hWDyDHnxgchPd87vWzArvdF1KxVPucO9vvOHWWjWWWgVd-eTUwuG6VGh3DBbRozEIeB4L_O7Ug46xBY1">    <div class="row">
         <div class="col-sm-5 col-sm-offset-2">
             <div id="newsletter-input-fields" class="newsletter-form">
                         
@@ -655,7 +658,7 @@ Las Vegas, NV 89135 USA</strong></p>
                 </a>
             </p>
 
-            <p>Edvisors (“Edvisors Network, Inc.”) provides independent advertising-supported platforms for consumers to search compare and apply for private student loans. Loan offers from participating lenders that appear on our websites are not affiliated with any college and/or universities, and there are no colleges and/or universities which endorse Edvisors’ products or services. Lender search results do not constitute an official college preferred lender list.  Edvisors receives compensation from lenders that appear on this site. This compensation may impact the placement of where lenders appear on this site, for example, the order in which the lender appear when included in a list. Not all lenders participate in our sites and lenders that do participate may not offer loans to every school.</p>
+            <p>Edvisors (“Edvisors Network, Inc.”) provides independent advertising-supported platforms for consumers to search compare and apply for private student loans. Loan offers from participating lenders that appear on our websites are not affiliated with any college and/or universities, and there are no colleges and/or universities which endorse Edvisors’ products or services. Lender search results do not constitute an official college preferred lender list.  Edvisors receives compensation from lenders that appear on this site. This compensation may impact the placement of where lenders appear on this site, for example, the order in which the lenders appear when included in a list. Not all lenders participate in our sites and lenders that do participate may not offer loans to every school.</p>
 <p>Edvisors is not a lender and makes no representations or warranties about your eligibility for a particular loan or financial aid.  Lenders are solely responsible for any and all credit decisions, loan approval and rates, terms and other costs of the loan offered and may vary based upon the lender you select. Please check with our school or lender directly for information related to your personal eligibility.</p>
 <p>Edvisors has endeavored to provide accurate information. However, the results provided by lenders are for illustrative purposes only and accuracy is not guaranteed, as such, Edvisors assumes no responsibility for errors or omission in the information provided.</p>
 <p>Copyright © 1998-2016 by Edvisors Network, Inc. All rights reserved.</p>
@@ -681,15 +684,8 @@ Las Vegas, NV 89135 USA</strong></p>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
         <script src="https://d36r1vmv00ls1r.cloudfront.net/global/js/dist/formvalidation.min.js"></script>
         
-<script src="/cassette.axd/asset/scripts/standard/bootstrap.min.js?5814e91bb6276f4de8b7951c965f2f190a03978d" type="text/javascript"></script>
-<script src="/cassette.axd/asset/scripts/standard/jquery.validate.min.js?4d02f8cb5f5ad0e368c19532ec219c1ea3aae002" type="text/javascript"></script>
-<script src="/cassette.axd/asset/scripts/standard/jquery.validate.unobtrusive.min.js?a229f33cf76c95995bf6f70c2d5f9c55896e7edc" type="text/javascript"></script>
-<script src="/cassette.axd/asset/scripts/standard/lazyload.min.js?97c2532769ad172df859b99ef49b38caf9cd6592" type="text/javascript"></script>
-<script src="/cassette.axd/asset/scripts/standard/placeholder.js?ef1b2efa02afd4f2cb972e6306887b951aab166c" type="text/javascript"></script>
-<script src="/cassette.axd/asset/scripts/standard/edvisors.js?525f6b252c4eab732ae3cedeb142e5b9b371c2df" type="text/javascript"></script>
-<script src="/cassette.axd/asset/scripts/standard/share-this.js?77a1c072852fc07f258655d561e655fdeebc7c4e" type="text/javascript"></script>
-<script src="/cassette.axd/asset/scripts/standard/tracking-edvisors.js?0bd832e904b70d27a311f77a4ae77678f79f6508" type="text/javascript"></script>
-<script src="/cassette.axd/asset/scripts/page-specific/article.js?d733eb30f0708c2593832df5ec9206706b681e3f" type="text/javascript"></script>
+<script src="/cassette.axd/script/1e856e0e6f6b2d71152ccdd1c6f62c577a5c35d2/scripts/standard" type="text/javascript"></script>
+<script src="/cassette.axd/script/d733eb30f0708c2593832df5ec9206706b681e3f/scripts/page-specific/article.js" type="text/javascript"></script>
 
         
         <script>
