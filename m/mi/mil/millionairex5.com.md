@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millionairex5.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617081132id_/http%3A//millionairex5.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millionairex5.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121083642id_/http%3A//millionairex5.com/privacy.php) for the most accurate reproduction.*
 
 # .: MX500 - 50 weekly MLM POWER audios and the opportunity to earn USD500 again and again and again... - MX500 Privacy Policy :.
 
@@ -47,20 +47,5 @@ The names and email addresses collected are not sold, or disclosed to any third 
 You have the choice to stop receiving further emails from 
 
 MX500 by clicking on the 'Unsubscribe' link at the lower part of any of our messages to you. Alternately you may send an email to MX500 Admin with the word “UNSUBSCRIBE” at your discretion.
-
-**PRIVACY CONTACT INFORMATION**
-
-If you have any questions, concerns, or comments about our Privacy Policy you may contact us using the information below:
-
-  **MX500 REGISTERED OFFICE**
-
-MillionaireX7 Global Incorporated  
-Mill Mall Tower, 2nd Floor  
-Wickhams Cay 1  
-Road Town  
-Tortola  
-British Virgin Islands 1110  
-Telephone: +63-939-253-3333  
-Email: [admin@millionairex5.com](mailto:admin@millionairex5.com)
 
 Note: This policy document along with all policy documents within our website must be reviewed and approved prior to use for your particular purpose. No statement of legality or compliance with any regulatory agencies is made in providing you with this document.
