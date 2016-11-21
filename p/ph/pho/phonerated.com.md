@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonerated.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628100216id_/http%3A//www.phonerated.com/a-mobile-phonerated-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonerated.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121091924id_/http%3A//www.phonerated.com/a-mobile-phonerated-privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy : Phonerated's Privacy Policy - Phonerated.com
 
@@ -49,3 +49,8 @@ Phonerated participates in various affiliate programs. Phonerated is a participa
 
 **Contact Us**  
 If you have any questions about this Privacy Policy, please [contact us](http://www.phonerated.com/contact-us.php).
+
+Don't Be Selfish & Let Others Know... Share This Page
+
+  
+
