@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prettyopinionated.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607154851id_/http%3A//www.prettyopinionated.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prettyopinionated.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121193016id_/http%3A//www.prettyopinionated.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
