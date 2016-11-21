@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mattamyhomes.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616205559id_/http%3A//mattamyhomes.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mattamyhomes.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121213752id_/http%3A//mattamyhomes.com/help/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Mattamy Homes
+# Mattamy Homes | Privacy Policy
 
 This Privacy Policy has been prepared by Mattamy Homes (" **Mattamy** ", " **we** ", " **us** ", " **our** ") and sets out the manner in which Mattamy collects, uses, discloses and otherwise manages personal information.  The Privacy Policy also describes the privacy practices on the Mattamy website (the "Website") and through other interactions with consumers. 
 
@@ -44,13 +44,13 @@ Your personal information may be maintained and processed by us, our affiliates 
 
 We and/or our service providers collect IP (Internet protocol) addresses from all visitors to the Website and other related information such as page requests, browser type, operating system and average time spent on our Website.  This information is used to help us understand our Website activity, and to monitor and improve the Website. 
 
-###  Cookies, Tracer Tags & Web Beacons
+###  Cookies, Tracking Tags & Web Beacons
 
 Our Website uses a technology called “cookies”.  A cookie is a tiny element of data that our Website can send to your browser, which may then be stored on your hard drive so we can recognize you when you return.  We use cookies on the pages on our Website where you are prompted to log in or that are customizable.  If you have registered with our Website, these cookies may let us know who you are and identify your browser as one that has visited the Website before, and may be necessary to access your account information (stored on our computers) in order to deliver products and personalized services. We also use cookies to provide us and our service providers with information about your use of the Website (such as web pages visited) that we will use to personalize our Website in accordance with your interests and assumed preferences. 
 
 You may set your Web browser to notify you when you receive a cookie or to not accept certain cookies.  However, if you decide not to accept cookies from our Website, you may not be able to take advantage of all of the features of our Website. 
 
-Our Website may also use a technology called “tracer tags” or “Web Beacons”.  This technology allows us to understand which pages you visit on our Website.  These tracer tags are used to help us optimize and tailor our Website for you and other future visitors to our Website.   
+Our Website may also use a technology called “tracking tags” or “Web Beacons”.  This technology allows us to understand which pages you visit on our Website.  These tracer tags are used to help us optimize and tailor our Website for you and other future visitors to our Website.   
 Our Website is not designed to respond to “do not track” signals received from browsers.
 
 ###  Analytics
