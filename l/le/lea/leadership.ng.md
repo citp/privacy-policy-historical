@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leadership.ng privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609173228id_/http%3A//www.leadership.ng/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadership.ng privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121191840id_/http%3A//www.leadership.ng/privacypolicy) for the most accurate reproduction.*
 
-# Cookies & Privacy Policy | Nigerian News from Leadership News
+# Cookies & Privacy Policy |
 
 We’ve created this privacy policy statement in order to demonstrate our commitment to the privacy of our customers.
 
