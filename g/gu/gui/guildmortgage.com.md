@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guildmortgage.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612185328id_/http%3A//www.guildmortgage.com/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guildmortgage.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122221714id_/http%3A//www.guildmortgage.com/privacynotice) for the most accurate reproduction.*
 
 # U.S. Consumer Privacy Notice - Guild Mortgage
 
