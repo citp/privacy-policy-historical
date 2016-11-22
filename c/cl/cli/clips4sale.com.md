@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the clips4sale.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616225004id_/http%3A//clips4sale.com/list/en/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clips4sale.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122025936id_/http%3A//clips4sale.com/list/en/page/privacypolicy) for the most accurate reproduction.*
 
 # Amateur Porn | Fetish Porn Videos - Clips4Sale.com
 
-[ ](https://plus.google.com/+Clips4sale1/about)[](http://clips4sale.com/list/)
+[](http://clips4sale.com/list/)
 
 #### Clip4sale Privacy Policy
 
