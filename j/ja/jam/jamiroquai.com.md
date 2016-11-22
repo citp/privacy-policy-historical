@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamiroquai.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517070125id_/http%3A//www.jamiroquai.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamiroquai.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122234011id_/http%3A//www.jamiroquai.com/home/privacy) for the most accurate reproduction.*
 
 # Jamiroquai Official Website / Privacy
 
