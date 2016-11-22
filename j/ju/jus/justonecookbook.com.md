@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the justonecookbook.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623095906id_/http%3A//www.justonecookbook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justonecookbook.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122110527id_/http%3A//www.justonecookbook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Just One Cookbook
 
-This privacy policy sets out how Just One Cookbook  uses and protects any information that you give while using www.justonecookbook.com
+This privacy policy sets out how Just One Cookbook uses and protects any information that you give while using www.justonecookbook.com
 
 Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
