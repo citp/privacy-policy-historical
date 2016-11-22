@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uttyler.edu privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605201500id_/http%3A//www.uttyler.edu/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uttyler.edu privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122145529id_/http%3A//www.uttyler.edu/privacy/index.php) for the most accurate reproduction.*
 
 # UT Tyler Privacy | The University of Texas at Tyler, Privacy Policy Statement
 
