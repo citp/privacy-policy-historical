@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelaw.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616011746id_/http%3A//www.thelaw.com/faq/privacy-policy.2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelaw.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122172112id_/http%3A//www.thelaw.com/faq/privacy-policy.2) for the most accurate reproduction.*
 
 # FAQ #2: Privacy Policy | TheLaw.com
 
@@ -52,4 +52,4 @@ Category:
 Published:
     Jul 29, 2015
 Page Views:
-    7805
+    9778
