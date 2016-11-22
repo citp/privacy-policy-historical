@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the survley.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620142806id_/http%3A//en.survley.com/en/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survley.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122131428id_/http%3A//en.survley.com/en/home/privacy_policy) for the most accurate reproduction.*
 
 # Survley.com
 
