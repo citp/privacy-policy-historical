@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entireeducation.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627080652id_/http%3A//www.entireeducation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entireeducation.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122133745id_/http%3A//www.entireeducation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Entire Education
 
