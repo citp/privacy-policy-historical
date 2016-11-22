@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bowanddrape.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608004847id_/http%3A//www.bowanddrape.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bowanddrape.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122191150id_/http%3A//www.bowanddrape.com/home/privacy-policy) for the most accurate reproduction.*
 
-# Women’s Online Clothing Boutique, Bow & Drape, Custom T Shirts
+# Custom Apparel & Accessories | Women’s Clothing Boutique
 
 In using this website you are deemed to have read and agreed to the following terms and conditions: Bow & Drape respects your privacy. We do not sell, rent, release, or share your personal information. You can be assured that any information you provide us with will be safe. We only use your personal information to keep in touch, let you know about any updates or special offers we have, and possibly build a relationship.
 
