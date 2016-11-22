@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cooktopcove.com privacy policy that was archived on 2016-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160304080105id_/http%3A//cooktopcove.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooktopcove.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122235659id_/http%3A//cooktopcove.com/privacy.php) for the most accurate reproduction.*
 
-# COOKTOPCOVE.COM
+# Cooktop Cove
 
 **_PRIVACY POLICY_**
 
@@ -76,7 +76,7 @@ You should consult the privacy policies of these third parties for more detailed
 _California_ _Privacy Rights_
 
 **Your California Privacy Rights**  
-Since 2005, California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. For inquires about this issue, please [email us](mailto:cpnetworkofficial@gmail.com). 
+Since 2005, California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. For inquires about this issue, please [email us](mailto:privacy@collectivepress.com). 
 
 _Ask a Question about Privacy Policy_
 
