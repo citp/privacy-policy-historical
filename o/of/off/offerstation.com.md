@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609225710id_/http%3A//www.offerstation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122035541id_/http%3A//www.offerstation.com/privacy.php) for the most accurate reproduction.*
 
 # Contact Us | OfferStation.com
 
@@ -52,48 +52,48 @@ OfferStation reserves the right to modify, update, and change this policy at our
 
 [
 
-## Kipling Summer Fun Roadshow 2016
+## GrabCar 100% Ride Guarantee Promotion
 
-](http://www.offerstation.com/happenings-events/173839/kipling-summer-fun-roadshow-2016.htm)
-
-[
-
-## The Chicken Rice Shop "Ayam Berempah Istimewa" Promotion
-
-](http://www.offerstation.com/dining-food-offers/173800/the-chicken-rice-shop-ayam-berempah-istimewa-promotion.htm)
+](http://www.offerstation.com/offers-promotions/180655/grabcar-100-percent-ride-guarantee-promotion.htm)
 
 [
 
-## Fella Design Nationwide Ramadhan Sale 2016 
+## Bosch Year End Bargain
 
-](http://www.offerstation.com/sales-warehouse-clearance/173845/fella-design-nationwide-ramadhan-sale-2016.htm)
-
-[
-
-## Ramadan Bazaar by Weekend Market at Sunway Putra Mall
-
-](http://www.offerstation.com/happenings-events/173793/ramadan-bazaar-by-weekend-market-at-sunway-putra-mall.htm)
+](http://www.offerstation.com/warehouse-sales/180171/bosch-year-end-bargain.htm)
 
 [
 
-## ParaThai Ramadhan Feast Special Set Promotion
+## New Naughty Nuri's Warung at Atria Shopping Gallery
 
-](http://www.offerstation.com/dining-food-offers/173693/parathai-ramadhan-feast-special-set-promotion.htm)
-
-[
-
-## KL SOGO Ramadan Warehouse Clearance
-
-](http://www.offerstation.com/warehouse-sales/173823/kl-sogo-ramadan-warehouse-clearance.htm)
+](http://www.offerstation.com/dining-food-offers/178505/new-naughty-nuris-warung-at-atria-shopping-gallery.htm)
 
 [
 
-## Toys R Us Star Members Warehouse Sale
+## Uncle Tetsu Cheesecake Festive Promotion
 
-](http://www.offerstation.com/warehouse-sales/173603/toys-r-us-star-members-warehouse-sale.htm)
+](http://www.offerstation.com/dining-food-offers/180523/uncle-tetsu-cheesecake-festive-promotion.htm)
 
 [
 
-## Tony Roma's Malaysia 10th Anniversary Promotion
+## Perfect Lifestyle '16 Home & Living Exhibition
 
-](http://www.offerstation.com/dining-food-offers/170494/tony-romas-malaysia-10th-anniversary-promotion.htm)
+](http://www.offerstation.com/happenings-events/180787/perfect-lifestyle-16-home-and-living-exhibition.htm)
+
+[
+
+## Olive Garden Lobster Fettuccine Promotion
+
+](http://www.offerstation.com/dining-food-offers/180849/olive-garden-lobster-fettuccine-promotion.htm)
+
+[
+
+## New Hokkaido Baked Cheese Tart Outlet at Mahkota Parade
+
+](http://www.offerstation.com/dining-food-offers/178748/new-hokkaido-baked-cheese-tart-outlet-at-mahkota-parade.htm)
+
+[
+
+## Philips Warehouse Clearance
+
+](http://www.offerstation.com/warehouse-sales/180878/philips-warehouse-clearance.htm)
