@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibj.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319094754id_/http%3A//www.ibj.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibj.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122220111id_/http%3A//www.ibj.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,10 +21,10 @@ Our site uses cookies to track visitors to our site.
 **Security**  
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send email to [webmaster@ibj.com](mailto:webmaster@ibj.com).
+This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send email to [info@ibj.com](mailto:info@ibj.com).
 
 **Correct/Update**  
-This site gives users the following options for changing and modifying information previously provided. Send email to: [webmaster@ibj.com](mailto:webmaster@ibj.com).
+This site gives users the following options for changing and modifying information previously provided. Send email to: [info@ibj.com](mailto:info@ibj.com).
 
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: IBJ Corp., 41 E. Washington St., Indianapolis, IN 46204, 317.634.6200
