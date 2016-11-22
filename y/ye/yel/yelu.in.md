@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yelu.in privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506065035id_/http%3A//www.yelu.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yelu.in privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122190044id_/http%3A//www.yelu.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
