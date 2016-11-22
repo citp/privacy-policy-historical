@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the safc.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609080945id_/http%3A//www.safc.com/hygiene-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safc.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122114737id_/https%3A//www.safc.com/hygiene/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SAFC
 
-Published: 17 August, 2012  
-by Administrator 
-
 **SAFC website information  
-**This Website is owned and operated by Sunderland Association Football Club Limited ("SAFC"). ****
+**
+
+This Website is owned and operated by Sunderland Association Football Club Limited ("SAFC"). ****
 
 We are registered on the public register of data controllers maintained by the Information Commissioner. We are committed to protecting your privacy. We take our responsibilities to secure your personal information very seriously. Under the Data Protection Act 1998 ("DPA"), we follow strict security procedures in the storage and disclosure of information, which you give to us.
 
@@ -19,7 +18,7 @@ If you visit a Website operated by a third party through a link included on this
 
 By entering information about you, you accept that we may retain your information and that it may be held by us or any third party company, which processes it on our behalf.
 
-You can [contact us by clicking here](http://www.safc.com/hygiene-pages/contact-us). Alternatively, you can write to us at the Sunderland Stadium of Light, Sunderland, Tyne & Wear SR5 1SU, England. Telephone number 0871 911 1200.
+You can [contact us by clicking here](https://web.archive.org/club/contact-us). Alternatively, you can write to us at the Sunderland Stadium of Light, Sunderland, Tyne & Wear SR5 1SU, England. Telephone number 0871 911 1200.
 
 The information you provide to us when using this Website will be processed for the following reasons:-
 
@@ -73,7 +72,7 @@ We will keep your personal information confidential except to the extent that we
 
 From time to time we may be called upon to demonstrate our maintenance of certain professional standards as set by appropriate authorities and/or to satisfy our auditors and/or to comply with regulations in relation to money laundering or other statutory requirements.
 
-If you do not consent to our production of your details for this purpose only as an exception to our duty of confidentiality, you can let us know by emailing[webmaster@safc.com](mailto:webmaster@safc.com).
+If you do not consent to our production of your details for this purpose only as an exception to our duty of confidentiality, you can let us know by emailing[ webmaster@safc.com](mailto:webmaster@safc.com).
 
 If you believe that the information we hold about you is inaccurate you may notify us of any amendments or corrections by writing to us at the above address or by sending us an e-mail at [webmaster@safc.com](mailto:webmaster@safc.com).
 
@@ -155,91 +154,47 @@ If we decide to change our Privacy Policy we will post those changes on this pag
 
 List of performance cookies
 
-**Cookie name**
+**Cookie Name**  
+| **Purpose**  
+---|---  
+**Adtech.de** | The cookies from this domain are used to display advertising  
+  
+**CFP** | This ADTECH cookie allows the ad server to check if you accept cookies  
+  
+**JEB2** | 
 
-| 
+This ADTECH cookie is the ad server's anonymous unique user ID, used for example to control the number of ads seen by a user.
 
-**Purpose**  
+ADTECH uses cookies to store the following non person-related data:  
+\- Browser type (such as Chrome 9.x)  
+\- Operating system (such as Windows 7)  
+\- Date and time at which a specific banner was delivered
+
+When collecting or storing data, ADTECH conforms with the data protection law and fulfils the regulations of the Privacy Preferences Project (P3P), that are determined by the World Wide Web group.  
+  
+  **Doubleclick.net** |    
+ ID | We use this Google DoubleClick cookie to measure the effectiveness of its online marketing campaigns. Google provides options for opting out of the DoubleClick cookie.   
+  
+  **Google.com** |    
+  
+  | Google uses cookies, like the PREF, NID and SID cookies, to help customise ads on Google properties, like Google Search. For example, they use such cookies to remember your most recent searches, your previous interactions with an advertiser's ads or search results, and your visits to an advertiser's website. This helps them to show you customised ads on Google.   
+  
+**Twitter.com**  
+|    
+pid, metrics_token   
+| These cookies are created by Twitter. In this case they are present because a Twitter widget or button is being used on the website.   
+  
+**Facebook.com**  
+|    
+  | These cookies are created by Facebook. In this case they are present because a Facebook widget or button is being used on the website.  
+  
+  
+Cookies set by third-party companies
+
+_utma, _utmb, _utmc, _utmz   
+| Cookies related to Google Analytics which facilitate tracking information about how the website is being used, e.g. number of users.   
   
 ---|---  
-  
-Adtech.de
+ASP.NET SessionID   
+| This cookie is used to create a unique session identifier (a random number specific to just your session on the website) so that we can store the data regarding your session. This cookie expires at the end of your session (when you leave the website) and will be removed when you close the browser.   
 
-| 
-
-The cookies from this domain are used for display advertising  
-  
-CFP
-
-| 
-
-This ADTECH cookie allows the ad server to check if you accept cookies  
-  
-JEB2
-
-| 
-
-This ADTECH cookie is the ad server’s anonymous unique user ID, used for example to control the number of ads seen by a user.
-
-ADTECH uses cookies to store the following non-person-related data:
-
-  * Browser type (such as Chrome 9.x)
-  * Operating system (such as Windows 7)
-  * Date and time at which a specific banner was delivered
-
-
-
-When collecting or storing data, ADTECH conforms with the data protection law and fulfils the regulations of the Privacy Preferences Projects (P3P), that are determined by the World Wide Web group.  
-  
-Doubleclick.net
-
-|   
-  
-ID
-
-| 
-
-We use this Google DoubleClick cookie to measure the effectiveness of its online marketing campaigns. Google provides options for opting out of the DoubleClick cookie.  
-  
-Google.com
-
-|   
-| 
-
-Google uses cookies, like the PREF, NID, and SID cookies, to help customise ads on Google properties, like Google Search. For example, they use such cookies to remember your most recent searches, your previous interactions with an advertiser’s ads or search results, and your visits to an advertiser’s website. This helps them to show you customised ads on Google.  
-  
-Twitter.com
-
-|   
-  
-pid, metrics_token
-
-| 
-
-These cookies are created by Twitter. In this case they are present because a Twitter widget or button is being used on the website.  
-  
-Facebook.com
-
-|   
-| 
-
-These cookies are created by Facebook. In this case they are present because a Facebook widget or button is being used on the website.  
-  
-Cookies set by third party companies
-
-SAFC.com
-
-|   
----|---  
-  
-_utma, _utmb, _utmc, _utmz
-
-| 
-
-Cookies related to Google Analytics which facilitate tracking information about how the website is being used e.g. number of users.  
-  
-[ASP.NET](http://asp.net/) SessionID
-
-| 
-
-This cookie is used to create a unique session identifier (a random number specific just to your session on the website) so that we can store the data regarding your session. This cookie expires at the end of your session (when you leave the website) and will be removed when you close your browser.
