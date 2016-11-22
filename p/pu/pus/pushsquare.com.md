@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the pushsquare.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405042107id_/http%3A//www.pushsquare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pushsquare.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122230603id_/http%3A//www.pushsquare.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Push Square
 
-This privacy policy sets out how "Push Square" uses and protects any information that you give "Push Square" when you use this website.
+**This privacy policy sets out how Push Square uses and protects any information that you give us when you use this website.**
 
-"Push Square" is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Push Square is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-"Push Square" may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 26th May, 2012.
+Push Square may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 26th May, 2012.
 
 ## What we collect
 
@@ -63,13 +63,16 @@ You may request details of personal information which we hold about you under th
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
- **See Also:**
+## Competition Entries
 
-  * [Scoring Policy](http://www.pushsquare.com/scoring)
-  * [Advertising Policy](http://www.pushsquare.com/advertising-policy)
-  * [Community Rules](http://www.pushsquare.com/rules)
-  * [Terms of Use](http://www.pushsquare.com/terms)
+Winners may be requested to take part in post event promotional activity and Push Square reserves the right to use the username, names and location (country) of winners, their photographs and audio and/or visual recordings of them in any publicity.
 
+Any email addresses collected for purpose of entry during a competition may, and often will, be added to our email mailing list, however will not be shared with or sold to third parties. All emails send from our mailing list will have a clear option to unsubscribe.
 
+Any personal data relating to entrants will be used solely in accordance with current UK data protection legislation and best practice. Please see Push Square's Privacy Policy for further details. Data relating to entrants will be retained by Push Square for a reasonable period after the Competition closes to assist Push Square to operate competitions in a consistent manner and to deal with any queries.
 
-_Last Updated: Sat 26th May, 2012_
+On the occasion that a third party, such as the product supplier, advertising agency or PR company who sponsor that competition is to provide prize(s) directly, your contact details and if applicable mailing address, will be passed to the third party for the sole reason of delivering the prize.
+
+## How to contact us
+
+You can contact us by filling in our online [contact](http://www.pushsquare.com/contact) form.
