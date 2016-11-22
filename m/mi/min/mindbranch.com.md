@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindbranch.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610004716id_/http%3A//www.marketresearch.com/corporate/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindbranch.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122111421id_/http%3A//www.marketresearch.com/corporate/privacypolicy.asp) for the most accurate reproduction.*
 
 # MarketResearch.com Privacy Policy
 
@@ -68,7 +68,7 @@ If you are an Alert subscriber and want to change your settings, you can do so b
 
 **Security**
 
-MarketResearch.com is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access that are located in controlled facilities. In addition, everything submitted to us is encrypted via Secure Socket Layer (SSL). This encryption method is used widely on the Internet to keep information secure. Although we use advanced encryption (Secure Socket Layers), we cannot guarantee the security of the information you transmit to us. While our website is secure, the Internet is not. If you prefer, our operators are standing by 5:30 a.m. to 6:30 p.m. EST Monday through Thursday and 5:30 a.m. to 5:30 p.m. EST Fridays at 800.298.5699 (U.S.) or +1.240.747.3093 (Int'l) should you wish to place an order. 
+MarketResearch.com is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access that are located in controlled facilities. In addition, everything submitted to us is encrypted via Secure Socket Layer (SSL). This encryption method is used widely on the Internet to keep information secure. Although we use advanced encryption (Secure Socket Layers), we cannot guarantee the security of the information you transmit to us. While our website is secure, the Internet is not. If you prefer, our operators are standing by 3:00 a.m. to 6:30 p.m. EST Monday through Thursday and 3:00 a.m. to 5:30 p.m. EST Fridays at 800.298.5699 (U.S.) or +1.240.747.3093 (Int'l) should you wish to place an order. 
 
 **Contact Information**
 
