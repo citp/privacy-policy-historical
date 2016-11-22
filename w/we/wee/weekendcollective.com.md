@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weekendcollective.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622222415id_/https%3A//www.weekendcollective.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weekendcollective.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122104553id_/http%3A//www.weekendcollective.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Weekend Collective
+# Privacy Policy | Weekend Collective
 
 This Privacy Policy governs the manner in which Bright Forest Media LLC. collects, uses, maintains and discloses information collected from users (each, a “User”) of the WeekendCollective.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Bright Forest Media LLC..
 
@@ -45,6 +45,10 @@ Google Adsense
 
 Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
 
+Amazon
+
+Weekend Collective is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
+
 Changes to this privacy policy
 
 Bright Forest Media LLC. has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
@@ -64,4 +68,4 @@ WeekendCollective.com
 
 admin@WeekendCollective.com
 
-This document was last updated on November 21, 2014.
+This document was last updated on August 1, 2016.
