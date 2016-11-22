@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the emailaddresses.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608014732id_/http%3A//www.emailaddresses.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailaddresses.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122100117id_/http%3A//www.emailaddresses.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for EmailAddresses.com
 
-The privacy of our visitors to EmailAddresses.com is important to us.
+The privacy of our visitors is important to us.
 
 At EmailAddresses.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit EmailAddresses.com, and how we safeguard your information. We never sell your personal information to third parties.
 
