@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uua.org privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629183705id_/http%3A//www.uua.org/directory/data/privacy-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uua.org privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122224448id_/http%3A//www.uua.org/directory/data/privacy-security-policy) for the most accurate reproduction.*
 
 # UUA Privacy and Data Security Policy | UUA.org
 
