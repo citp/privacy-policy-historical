@@ -1,0 +1,501 @@
+<!--The following is the downloaded HTML source of the newstribune.com privacy policy that was archived on 2016-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161122151734id_/http%3A//www.newstribune.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.6"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQQCVlJaGwECUFhTBAcF"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
+<!-- <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0," /> -->
+<meta name="viewport" content="width=device-width">
+<!-- each id has to have its own meta tag -->
+<meta property="fb:admins" content="606948145">
+<meta property="fb:admins" content="662618141">
+<meta property="fb:admins" content="1297201343">
+<meta property="fb:admins" content="1537006616">
+<meta property="fb:admins" content="376067771">
+<meta property="fb:admins" content="100002321416939">
+<meta property="fb:admins" content="1737295992">
+<meta property="fb:admins" content="1412716008">
+<meta property="fb:admins" content="1286357277">
+<link rel="canonical" href="http://www.newstribune.com/">
+	<meta name="description" content="Your source for local news, sports, high school sports and weather in and around Jefferson City, Columbia, Fulton and the Lake of the Ozarks. All of Mid-Missouri.">
+		
+
+	      
+
+<link rel="icon" href="http://media-cdn.wehco.com/static/newstribune/img/branding/favicon.ico?v=1.2">
+
+
+<title>News Tribune | Central MO Breaking News </title>
+
+	<link rel="stylesheet" href="http://media-cdn.wehco.com/static/newstribune/css/main-5f85e9103f.min.css">
+
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+<script src="http://media-cdn.wehco.com/static/newstribune/js/main.js"></script>
+<script src="http://media-cdn.wehco.com/static/newstribune/js/trackalack.js"></script>
+<!-- facebook  -->
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- End facebook script -->
+<!-- Google dfp script -->
+<script type="text/javascript" src="//os4m-d.openx.net/w/1.0/jstag?nc=27879627-WEH_Bidder"></script>
+<script type="text/javascript">
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function() {
+		var gads = document.createElement('script');
+		gads.async = true;
+		gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script>
+<!-- End of Google dfp script -->
+<!-- Google mobile dfp script -->
+
+<script type="text/javascript">
+	googletag.cmd.push(function() {
+		googletag.defineSlot('/27879627/cmo/newstribune/', [320, 50], 'div-gpt-ad-mobile-320').addService(googletag.pubads());
+		googletag.pubads().enableSingleRequest();
+		googletag.enableServices();
+	});
+</script>
+
+<script type="text/javascript">
+googletag.cmd.push(function() {
+    googletag.defineSlot( '/27879627/cmo/newstribune/' , [728, 90], 'div-gpt-ad-leaderboard').addService(googletag.pubads());
+    // googletag.defineSlot( '/27879627/cmo/newstribune/homepage' , [728, 90], 'div-gpt-ad-leaderboard').addService(googletag.pubads());
+    googletag.defineSlot( '/27879627/cmo/newstribune/' , [300, 250], 'div-gpt-ad-story-250').addService(googletag.pubads());
+    googletag.defineSlot( '/27879627/cmo/newstribune/' , [300, 600], 'div-gpt-ad-story-600').addService(googletag.pubads());
+    googletag.defineSlot( '/27879627/cmo/newstribune/' , [200, 90], 'div-gpt-ad-story-leftcol').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+    googletag.defineSlot('/27879627/cmo/newstribune/', [970, 90], 'div-gpt-ad-story-970').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+});
+</script>
+<!-- End of Google dfp mobile ad script -->
+<!-- Google Analytics -->
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-16886914-1', 'auto');
+	ga('send', 'pageview');
+</script>
+<script>var yolo = "";</script>
+<!-- End Google Analytics -->
+<!-- Begin Chartbeat Script part 1 -->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script><!-- End Chartbeat Script part 1 -->
+<!-- Nativo -->
+<script type="text/javascript" src="//s.ntv.io/serve/load.js" async=""></script>
+<!-- End Nativo -->
+</head>
+<body class="flatpage">
+<div id="nav-mobile">
+	<ul>
+		<li><a class="nav-mobile-link" href="/news/news/">News</a></li>
+		<li><a class="nav-mobile-link" href="/news/opinion/">Opinion</a></li>
+		<li><a class="nav-mobile-link" href="/news/business/">Business</a></li>
+		<li><a class="nav-mobile-link" href="/news/sports/">Sports</a></li>
+		<li><a class="nav-mobile-link" href="/news/features/">Life</a></li>
+		<li><a class="nav-mobile-link" href="/obits/">Obituaries</a></li>
+		<li><a class="nav-mobile-link" href="http://www.midmoclassifieds.com/">Classifieds</a></li>
+		<li><a class="nav-mobile-link" href="http://modeals.com/">Autos</a></li>
+		<li><a class="nav-mobile-link" href="http://www.midmocareers.com/">Jobs</a></li>
+		<li><a class="nav-mobile-link" href="https://subscribe.wehco.com/newstribune/landing/">Subscribe</a></li>
+	</ul>
+</div>
+
+<div id="bodyContentWrap">
+	<div class="topHeaderBGWrap">
+						<div class="topHeaderWrap maxWidth">
+			<div class="topHeaderLeaderADWrap">
+									<div id="div-gpt-ad-leaderboard" style="width:728px; height:90px;">
+						<script type="text/javascript"> googletag.cmd.push(function() { googletag.display('div-gpt-ad-leaderboard'); }); </script>
+					</div>
+							</div>
+			<a href="/weather/" class="weatherWrap">
+	<span class="weatherCurrent PTSans">
+		<span>Jefferson City, MO</span>
+		<span>
+			<span class="cloudy"></span>
+		</span>
+		<span>44°</span>
+		<span id="weatherRadar">
+			<span>
+				<span class="radar"></span> View Live Radar
+			</span>
+		</span>
+	</span>
+	<span class="weatherNext PTSans">
+										<span class="threeDee">
+			<span>Wed</span>
+			<span>
+				<span class="chancerain"></span>
+			</span>
+			<span>H 55°</span>
+			<span>L 36°</span>
+		</span>
+								<span class="threeDee">
+			<span>Thu</span>
+			<span>
+				<span class="partlycloudy"></span>
+			</span>
+			<span>H 55°</span>
+			<span>L 37°</span>
+		</span>
+								<span class="threeDee">
+			<span>Fri</span>
+			<span>
+				<span class="clear"></span>
+			</span>
+			<span>H 54°</span>
+			<span>L 30°</span>
+		</span>
+																													</span>
+	<span class="weatherSponsor">
+		<span>Weather Sponsored By:</span>
+		<img src="http://media-cdn.wehco.com/static/newstribune/img/weather/weather-advertise.png">
+	</span>
+</a>		</div>
+	</div>
+
+	<div class="headerWrap">
+		<div class="header maxWidth">
+			<div id="hamburger">
+				<a href="#"></a>
+			</div>
+			<a class="headerLogo" href="/">
+				<img class="headerLogo-secondary" src="http://media-cdn.wehco.com/static/newstribune/img/branding/newstribune-secondary.svg">
+			</a>
+			<div class="navWrap">
+				<ul>
+					<li><a href="/news/news/">News</a></li>
+					<li><a href="/news/opinion/">Opinion</a></li>
+					<li><a href="/news/business/">Business</a></li>
+					<li><a href="/news/sports/">Sports</a></li>
+					<li><a href="/news/features/">Life</a></li>
+					<li><a href="/obits/">Obituaries</a></li>
+					<li><a href="http://newstribune.mycapture.com/mycapture/index.asp">Photos</a></li>
+					<li><a href="http://video.newstribune.com/">Video</a></li>
+					<li><a href="/go/">Events</a></li>
+					<li><a href="http://www.midmoclassifieds.com/">Classifieds</a></li>
+					<li><a href="http://modeals.com/">Autos</a></li>
+					<li><a href="http://www.midmocareers.com/">Jobs</a></li>
+				</ul>
+			</div> <!-- navWrap -->
+			<div id="nav-sub">
+				<div id="nav-login">
+					<a id="nav-login-link" href="https://auth.wehco.com/newstribune/login.php">
+						<div id="login-icon"></div>
+						<div id="login-text">Login </div></a>
+            <div id="nav-register" style="float: left; padding: 5px; text-transform: uppercase; font-weight: bold; font-size: 0.65rem; font-family: Tahoma, Verdana, Segoe, sans-serif; line-height: 1.5em;">
+              <a id="nav-register-link" href="https://auth.wehco.com/newstribune/register.php">| Register</a>
+            </div>
+				</div>
+      </div>
+				<div class="searchWrap">
+					<a href="http://search.newstribune.com" id="nav-search"></a>
+				</div>
+			</div>
+		</div>
+		<div style="clear: both;"></div>
+	</div> <!-- headerWrap -->
+			<div id="div-gpt-ad-story-970" style="background: white; box-sizing: border-box; margin: 10px auto; width: 970px;">
+			<script type="text/javascript">
+				(function() {
+					// expand ad container
+					var dom = 'div-gpt-ad-story-970';
+					var iframe = '#div-gpt-ad-story-970 iframe';
+					// only interact with iframes coming from googles ad service
+					var adOrigin = 'http://tpc.googlesyndication.com';
+					var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+					var getEvent = window[eventMethod];
+					var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+					getEvent(messageEvent,function(event) {
+						if(event.origin === adOrigin){
+							if(event.data.action === 'expand'){ expandAd(event) };
+							if(event.data.action === 'shrink'){ collapseAd(event) };
+						}
+					}, false);
+					function expandAd(event){
+						document.getElementById(dom).style.height = event.data.expansionHeight + 'px';
+						document.querySelectorAll(iframe)[0].style.height = event.data.expansionHeight + 'px';
+					}
+					function collapseAd(event){
+						document.getElementById(dom).style.height = event.data.height + 'px';
+						document.querySelectorAll(iframe)[0].style.height = event.data.height + 'px';
+					}
+				})();
+			</script>
+			<script type="text/javascript">
+				googletag.cmd.push(function() { googletag.display('div-gpt-ad-story-970'); });
+			</script>
+		</div>
+		<div id="bodyWrap" class="addStickyEnabled">
+						<div class="contentWrap maxWidth">
+			<div class="contentWrapContent">
+				<div class="contentLeftWrap">
+	<div class="contentLeftWrapContent">
+		<div class="left-block left-categories">
+	<div class="left-rail-ad-pos">
+	<div id="div-gpt-ad-story-leftcol" style="box-sizing: border-box; margin:0px 0 10px;">
+		<script type="text/javascript">
+			googletag.cmd.push(function() { googletag.display('div-gpt-ad-story-leftcol'); });
+		</script>
+	</div>
+</div>
+	<h3>Other Local Sections</h3>
+	<ul>
+		<li><a href="/news/jefferson-city/">Jefferson City News</a></li>
+		<li><a href="/news/central-missouri/">Central MO News</a></li>
+		<li><a href="/obits/">Obituaries</a></li>
+		<li><a href="/news/opinion/">Local Opinion</a></li>
+		<li><a href="/news/opinion/letters/">Letters to the Editor</a></li>
+		<li><a href="/couples/">Weddings &amp; Engagements</a></li>
+		<li><a href="http://www.midmoclassifieds.com/">Classifieds</a></li>
+		<li><a href="http://www.midmocareers.com/">MidMo Careers</a></li>
+	</ul>
+</div>
+
+<div class="left-block left-categories">
+	<h3>State &amp; World News</h3>
+	<ul>
+		<li><a href="/news/missouri/">Missouri News </a></li>
+		<li><a href="/news/national/">National News</a></li>
+		<li><a href="/news/international/">World News</a></li>
+		<li><a href="/news/politics/">Politics</a></li>
+	</ul>
+</div>
+
+<div class="left-block left-categories">
+	<h3>Sports</h3>
+	<ul>
+		<li><a href="/news/sports/">Sports Main</a></li>
+		<li><a href="/news/sports/preps/"> High School</a></li>
+		<li><a href="/news/sports/college/">College</a></li>
+		<li><a href="/news/sports/college/lincoln/">Lincoln University</a></li>
+		<li><a href="/news/sports/college/mizzou/">Mizzou</a></li>
+		<li><a href="/news/sports/pro/">Professional</a></li>
+	</ul>
+</div>
+
+<div class="left-block left-categories">
+	<h3>Life &amp; Entertainment</h3>
+	<ul>
+		<li><a href="/news/features/">Life Main</a></li>
+		<li><a href="/news/health/">Health</a></li>
+		<li><a href="/news/features/entertainment/">Escape Entertainment</a></li>
+		<li><a href="/news/features/landmarks">Landmarks</a></li>
+		<li><a href="/news/features/food/">Flavor</a></li>
+		<li><a href="/news/features/style/">Style</a></li>
+		<li><a href="/go/">Go! Calendar of Events</a></li>
+		<li><a href="/couples/">Weddings &amp; Engagements</a></li>
+	</ul>
+</div>
+
+<div class="left-block left-categories">
+	<h3>More Central MO News</h3>
+	<ul>
+		<li><a href="/e-newspaper/">Today's Paper</a></li>
+		<li><a href="http://www.fultonsun.com/">Fulton Sun</a></li>
+		<li><a href="http://www.thelaketoday.com/">The Lake Today</a></li>
+		<li><a href="http://www.californiademocrat.com/">California Democrat</a></li>
+		<li><a href="http://www.hermagazinemidmo.com/">Her Magazine</a></li>
+	</ul>
+</div>
+	</div>
+</div>
+<div class="contentRightWrap">
+	<div class="contentMain">
+				<div class="contentHeaders">
+		<h2>Central Missouri Newspapers Privacy Policy</h2>
+		<div class="section-social-links social-small fl-right">
+	<a href="https://twitter.com/newstribune/" class="section-social-buttons fl-right" target="_blank">
+		<span class="share-twitter share-square-social fl-left"></span>
+		<span class="section-social-link-text fl-left">Twitter</span>
+	</a>
+	<a href="https://www.facebook.com/newstribune/" class="section-social-buttons fl-right" target="_blank">
+		<span class="share-facebook share-square-social fl-left"></span>
+		<span class="section-social-link-text fl-left">Facebook</span>
+	</a>
+</div>	</div>
+	
+	<div class="flatpage-content">
+		<div class="detailBody">
+					<h3>Copyright Notice and Privacy Policy</h3>
+<p><strong>Copyright Notice</strong><br><br> All content of Central Missouri Newspapers Inc, including but not limited to, all text, photos, graphics, audio, software, and/or video is copyrighted by WEHCO Media (WEHCO), Central Missouri Newspapers Inc, or its suppliers, news and feature syndicates and wire services. All rights reserved. <br> No portion of the content may be directly or indirectly copied, published, reproduced, modified, performed, displayed, sold, transmitted, published, broadcast, rewritten for broadcast or publication or redistributed in any medium. Nor may any portion of the content be stored in a computer or distributed over any network except that you may download or print one copy of occasional articles strictly for personal and non-commercial use.<br> <br> Notice of Copyright Infringement:<br> Central Missouri Newspapers Inc respects the copyrights of others. If you believe that your copyrighted work has been reproduced on our site in a way that constitutes copyright infringement you may <a href="mailto:nt@newstribune.com">notify our Webmaster</a>. <br> <br> <strong>Privacy Policy</strong><br> <br> This privacy policy describes how Central Missouri Newspapers Inc treats the personally identifiable information that is collected about you by Central Missouri Newspapers Inc or third party hosting services when you visit Central Missouri Newspapers Inc. If you have any questions or concerns about these privacy guidelines, please send an <a href="mailto:nt@newstribune.com">email to the Webmaster</a>.<br> <br> Any information you provide when you visit web sites other than those covered by this policy (including other web sites affiliated with Central Missouri Newspapers Inc) or when you purchase any products or services that may be offered or advertised on our web site by companies other than Central Missouri Newspapers Inc is subject to the privacy policies of the third party organizations who run and/or own these web sites. This policy also does not apply to information you may provide to us offline, except as specifically provided herein.<br> <br> Your IP Address:<br> An IP address is a number that is automatically assigned to your computer whenever you are surfing the Web. Web servers - the computers that send out Web pages - automatically identify your computer by its IP address. Central Missouri Newspapers Inc collects IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to audit the use of our site. Central Missouri Newspapers Inc does not normally link IP addresses to anything personally identifiable, which means that a user's session will be logged, but the user remains anonymous to us. We can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our rules and policies or terms of service or to protect our service, site, customers or others. <br> <br> Cookies:<br> Cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes. Cookies make Web-surfing easier for you by saving your preferences while you're at a site. The use of cookies is an industry standard -- you'll find them at most major Web sites. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. You may occasionally get cookies from our advertisers or from our affiliate sites. Central Missouri Newspapers Inc does not control these cookies, and they may or may not collect personally identifiable information. The use of advertising cookies sent by third-party servers is standard in the Internet industry. Central Missouri Newspapers Inc (or third party service providers on our behalf) may also use cookies to collect aggregate information about web site users on an anonymous basis. We may share aggregate demographic and usage information with our prospective and actual business partners, advertisers and other third parties for any business purpose.<br> <br> Collection of Personally Identifiable Information:<br> Central Missouri Newspapers Inc generally collects personally identifiable information when you specifically and knowingly provide us with it. For instance, when you enter a sweepstakes or contest, complete a survey, or subscribe to Central Missouri Newspapers Inc online you will be asked to provide information such as your e-mail address, name, phone number, and sometimes shipping address. Optional information such as your age or gender may also be requested.<br> <br> Central Missouri Newspapers Inc uses this information to provide you with the service you have requested. If you subscribe to Central Missouri Newspapers Inc, we may use your e-mail address to send you a confirmation notice and your mailing address to deliver the paper. Similarly, if you enter online sweepstakes, we will use this information to notify you if you are a winner.<br> <br> We may also use information you provide to serve you ads, and, if you have given your consent for us to do so, to send you e-mails concerning offers from our partners and other third parties that we think may be of interest to you. <br> <br> When you conduct e-commerce with one of the e-commerce affiliates to which our site is linked, personal information such as your email and home address may be collected by the vendor's server and made available to us. We do not, however, collect credit card information you may provide to that vendor. We may use the information provided to us on an anonymous aggregated basis for purposes of analyzing traffic and usage.<br> <br> Electronic Direct Marketing Programs:<br> Central Missouri Newspapers Inc does develop and participate in electronic direct marketing to users of Central Missouri Newspapers Inc who elect to receive electronic mail of specific interest to them. Central Missouri Newspapers Inc does not forward the names or addresses (electronic or otherwise) to third parties. Advertisers who participate in Central Missouri Newspapers Inc's electronic direct marketing programs identify the category of subscribers who would most likely be interested in their goods and services. The  Central Missouri Newspapers Inc then forwards the advertisements to subscribers who have elected to receive that category of electronic mail. Users may elect to not receive similar electronic mail by requesting that the e-mail address be removed from the mailing list by selecting the appropriate option included with each e-mail advertisement sent by Central Missouri Newspapers Inc. In addition, users may elect to be removed from such lists at any time by sending a message to the system administrator at webmaster@Central Missouri Newspapers Inc.<br> <br> Disclosure of Personal Information: <br> The  Central Missouri Newspapers Inc may also share or disclose personally identifiable information about you to other companies or individuals other than our partners when:<br> <br> We have your consent to share the information; <br> We need to share your information to provide the product or service you have requested; <br> The information is furnished in connection with a contest entry, and we share it with the contest sponsor;  We need to send the information to companies who work on behalf of Central Missouri Newspapers Inc to provide a product or service to you. (Unless otherwise stated, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us); <br> We comply with subpoenas or court orders, or need to collect a debt of money you may owe us: <br> The entity to whom the information is disclosed is one under control of, or under common control with Central Missouri Newspapers Inc (for these purposes, a company controlling twenty (20%) percent or more of the voting stock of another entity shall be deemed to control such entity); or <br> The disclosure is made in connection with a sale, merger, transfer, exchange, or other disposition (whether of assets, stock, or otherwise) of all or a portion of the business conducted by the web sites to which this policy applies. <br> Public Messages:<br> You assume total liability for the content of messages to public electronic forums. Central Missouri Newspapers Inc assumes no liability for this content. You are advised that not all speech is protected by the First Amendment: namely, speech directed to inciting or producing lawless action; defamatory statements directed toward a person or business; false or deceptive advertising; harassing, obscene and/or pornographic activity. As Systems administrator, Central Missouri Newspapers Inc has the right to respond to users' complaints about other users including, but not limited to, the removal of banner ads, classified ads or any un-moderated comments.<br> <br> Unsolicited e-Mail:<br> The  Central Missouri Newspapers Inc supports responsible e-commerce. The  Central Missouri Newspapers Inc does not authorize anyone to use Central Missouri Newspapers Inc's computers or network (collectively, the "System") to broadcast, distribute, transmit or retransmit unsolicited commercial, noncommercial, bulk, or junk electronic mail ("SPAM").<br> <br> Subscribers who receive SPAM or any threatening or offensive e-mail may report it to Central Missouri Newspapers Inc by forwarding the unedited message with the full message header to abuse@Central Missouri Newspapers Inc.<br> <br> Central Missouri Newspapers Inc reserves the right to take all legal or technical steps that it deems necessary to prevent the broadcast, distribution, transmission, or retransmission over the System of SPAM, junk e-mail, threatening or offensive e-mail, or e-mail otherwise determined by Central Missouri Newspapers Inc to be objectionable in its sole discretion. Central Missouri Newspapers Inc reserves the right to suspend or terminate any person or entity's use of or access to the System if it determines in its sole and absolute discretion that such person has used or intends to use the System in violation of this policy. A failure of Central Missouri Newspapers Inc to exercise any right provided for herein shall not be deemed to be a waiver of such right.<br> <br> Children:<br> The sites covered by this policy are not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. Central Missouri Newspapers Inc does not knowingly collect personal information from children under the age of 13.<br> <br> Security:<br> The importance of security for all personally identifiable information associated with users is of utmost concern to us. We exercise great care in providing secure transmission of your information from your PC to our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Central Missouri Newspapers Inc can't ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. <br> <br> Choice/Opt-Out:<br> To keep you in control of communications directed to you, we allow you to opt-out of the following services: receiving communications from Central Missouri Newspapers Inc about new features or services, and receiving communications about offers from third-party companies that offer a product or service that we think would be of value to you. <br> <br> Correct/Update:<br> Central Missouri Newspapers Inc gives users the option of changing and/or modifying information previously provided. <br> <br> Non-US Users:<br> If you are located outside of the United States, please note that the information you provide to us will be transferred to the United States. By using this web site, you consent to this transfer. You also consent to the adjudication of any disputes arising in connection with this website in the federal and state courts of, and in accordance with the laws of, the state of the United States in which the editorial staff of this website primarily does business. <br> <br> California and Canadian Users:<br> California and Canadian residents have the right to know how their information may be shared with third parties who engage in direct marketing activities and this policy explains our practices and how you can opt out of having your information shared for such purposes. We reserve the right to make our customer lists available to companies that sell goods and services that we believe would be of interest. We may compile these lists from customer orders placed both offline and online. Customers have the option of having their names and identifying information removed from those lists (subject to certain exceptions and limitations in applicable laws) by contacting us at [specify email address and link].<br> <br> We may also from time to time make our customer lists available for direct marketing purposes to other entities that are affiliated with us. If you would like to be removed from those lists, contact us at privacy@Central Missouri Newspapers Inc.<br> <br> Changes to Privacy Policy:<br> Central Missouri Newspapers Inc may change this policy from time to time in its discretion. Your continued use of our sites indicates your consent to this privacy policy and any amended versions of it.<br> <br> This policy was last updated on March 12, 2007.</p>
+				</div>
+	</div>
+	</div>
+		<div class="flatpage-rightrail" style="float:right; width:302px;">
+    		
+<div id="div-gpt-ad-story-600" style="width:300px; height:600px;">
+	<script type="text/javascript"> googletag.cmd.push(function() { googletag.display('div-gpt-ad-story-600'); }); </script>
+</div>
+
+<!-- facebook  -->
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- End facebook script -->
+<div id="fb-root"></div>
+<div class="fb-page" style=" height:215px; margin: 10px 0 10px 0;" data-href="https://www.facebook.com/newstribune" data-small-header="false" data-width="300" data-height="300" data-adapt-container-width="true" data-hide-cover="false" data-show-posts="false" data-show-facepile="true">
+	<div class="fb-xfbml-parse-ignore">
+		<blockquote cite="https://www.facebook.com/newstribune">
+			<a href="https://www.facebook.com/newstribune">News Tribune</a>
+		</blockquote>
+	</div>
+</div>
+
+
+<!-- <div class="fb-page"
+  data-href="https://www.facebook.com/facebook"
+  data-width="380"
+  data-hide-cover="false"
+  data-show-facepile="false"
+  data-show-posts="false"></div> -->
+
+<!-- sticky ad -->
+<div class="detailScrollIt sectionScrollItSticky sectionScrollIt addSectionScrollIt">
+<!-- sectionScrollIt addSectionScrollIt sectionScrollSticky -->
+<!-- detailScrollIt addDetailScrollIt detailScrollSticky sectionScrollIt"> -->
+	<div id="div-gpt-ad-story-250" style="width:300px; height:250px; margin-bottom: 10px;">
+		<script type="text/javascript">
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-story-250'); });
+		</script>
+	</div>
+	<div id="detail-most-popular">
+		<div class="most-popular-block">
+	<div class="most-popular-title">
+		<h1>Latest Articles</h1>
+	</div>
+	<div class="link-list-block-wrap">
+		<div class="link-list-block">
+			<ul>
+			
+
+
+
+
+
+
+
+
+
+
+							<li><a class="ajlc article-link" href="/news/local/story/2016/nov/22/politics-lead-stabbing/649994/">Politics lead to stabbing</a></li>
+							<li><a class="ajlc article-link" href="/news/local/story/2016/nov/22/seeking-place-jefferson-city/649990/">Meadows by the Club makes pitch for voluntary annexation</a></li>
+							<li><a class="ajlc article-link" href="/news/local/story/2016/nov/22/greitens-opens-inaugural-office-jc/649992/">Greitens opens inaugural office in JC</a></li>
+							<li><a class="ajlc article-link" href="/news/local/story/2016/nov/22/july-trial-set-trooper-handcuff-drowning-case/649966/">July trial set for trooper in handcuff drowning case</a></li>
+							<li><a class="ajlc article-link" href="/news/local/story/2016/nov/22/woman-shot-county-park/649970/">Woman shot at County Park</a></li>
+							<li><a class="ajlc article-link" href="/news/local/story/2016/nov/22/stuefer-honored-unblemished-record/649968/">Stuefer honored for unblemished record</a></li>
+							<li><a class="ajlc article-link" href="/news/local/story/2016/nov/22/dream-win/649967/">Calvary Lutheran student wins video contest on dangers of drug use</a></li>
+							<li><a class="ajlc article-link" href="/news/local/story/2016/nov/22/fulton-man-accused-rape-cole-county/649964/">Fulton man accused of rape  in Cole County</a></li>
+							<li><a class="ajlc article-link" href="/news/local/story/2016/nov/22/ex-bus-driver-charged-raping-former-passenger/649963/">Ex-bus driver charged with raping former passenger</a></li>
+							<li><a class="ajlc article-link" href="/news/local/story/2016/nov/21/woman-shot-county-park/649929/">Woman shot at County Park</a></li>
+							<li><a class="ajlc article-link" href="/news/local/story/2016/nov/21/local-man-arrested-stabbing/649922/">Local man arrested in stabbing</a></li>
+							<li><a class="ajlc article-link" href="/news/local/story/2016/nov/21/lu-still-waiting-get-approval-repairs-dickinson-facility/649879/">LU still waiting to get approval for repairs to Dickinson facility</a></li>
+						</ul>
+		</div>
+	</div>
+</div>	</div>
+</div>
+
+	</div>
+</div>
+			</div>
+					    <div id="footer-wrap">
+        <div id="footer" class="maxWidth">
+            <div id="footer-branding">
+                <a href="/"><img src="http://media-cdn.wehco.com/static/newstribune/img/branding/newstribune-secondary.svg" alt="News Tribune"></a>
+                <div>210 Monroe St, Jefferson City, MO 65101</div>
+                <div>General Information: (573) 636-3131</div>
+                <!-- <div><a href="mailto:#">Feedback</a></div> -->
+            </div>
+            <div id="footer-links">
+                <ul>
+                    <!-- <li><a href="/sitemap/">Site Map</a></li> -->
+                    <!-- <li><a href="#" target="_blank">Email Updates</a></li> -->
+                    <li><a href="https://subscribe.wehco.com/newstribune/landing/" target="_blank">Subscribe</a></li>
+                    <li><a href="/staff/">Contact Us</a></li>
+                </ul>
+                <ul>
+                    <li><a href="/e-newspaper/" target="_blank">Replica Edition</a></li>
+                    <li><a href="/advertise/">Advertise</a></li>
+                    <li><a href="http://www.midmoprinting.com/">Commercial Printing</a></li>
+                </ul>
+                            </div>
+            <div id="footer-privacy">
+                <p><a href="/privacy-policy/">Copyright, Privacy Policy, Terms &amp; Conditions</a> - Copyright ©2016, News Tribune Publishing. All rights reserved. This document may not be reprinted without the express written permission of News Tribune Publishing.</p>
+            </div>
+        </div>
+    </div>
+			</div> <!-- contentWrap -->
+		<div id="mobileAd">
+			<div id="div-gpt-ad-mobile-320" style="height:50px; width:320px;">
+				<script type="text/javascript"> googletag.cmd.push(function() { googletag.display('div-gpt-ad-mobile-320'); }); </script>
+			</div>
+		</div>
+	</div>
+
+	<!--[if IE]>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/selectivizr/1.0.2/selectivizr-min.js"></script>
+	<![endif]-->
+	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery.perfect-scrollbar/0.5.7/perfect-scrollbar.min.js"></script>
+	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBKUznwRA6CwlarrB2vqh5mUh6V1K2tqg4"></script>
+	<script src="http://media-cdn.wehco.com/static/newstribune/js/load.js"></script>
+  <script>login_check();</script>
+			
+
+	<div id="contentPopUpOverlay"></div>
+	<div id="contentPopUp">
+		<div id="contentPopUpContent">
+					</div>
+	</div>
+
+<div id="fb-root"></div>
+
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"911d204ce1","applicationID":"22491362","transactionName":"Z1FTYRcFDxVWVUFdVl4bckAWEA4LGFlBXFxC","queueTime":0,"applicationTime":126,"atts":"SxZQF18fHBs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+<!-- Begin Chartbeat Script part 2 -->
+    <script type="text/javascript">
+    var _sf_async_config={uid:33131,domain:"newstribune.com"};
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src',
+           (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+           "js/chartbeat.js");
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+
+    </script>
+<!-- End Chartbeat Script part 2 -->
+
+
+
+<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
