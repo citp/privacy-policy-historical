@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iimahd.ernet.in privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526215413id_/http%3A//www.iimahd.ernet.in/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iimahd.ernet.in privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122174515id_/http%3A//www.iima.ac.in/privacy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
