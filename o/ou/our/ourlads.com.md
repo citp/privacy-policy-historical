@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ourlads.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605025742id_/http%3A//www.ourlads.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourlads.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122143929id_/http%3A//www.ourlads.com/privacy) for the most accurate reproduction.*
 
-# Ourlads' Privacy Policy
+# Ourlads.com | Privacy
 
 OURLADS' Scouting ServicesTM (also referred to in this document as OurladsTM) is in the business of information collection and analysis, and we know how important privacy is to you. Because of our interest in protecting your privacy, our company and its affiliates have adopted the following privacy principles to underscore our commitment to valued subscribers of our services. 
 
