@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flysketch.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605234423id_/http%3A//flysketch.com/page-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flysketch.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122234235id_/http%3A//flysketch.com/page-privacy) for the most accurate reproduction.*
 
 # FlySketch.com | Privacy Policy
 
