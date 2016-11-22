@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcpartpicker.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619145739id_/http%3A//pcpartpicker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcpartpicker.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122205201id_/http%3A//pcpartpicker.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PCPartPicker
 
@@ -17,7 +17,7 @@ PCPartPicker, LLC (“PCPartPicker”) operates pcpartpicker.com. It is PCPartPi
 
 Like most website operators, PCPartPicker collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. PCPartPicker’s purpose in collecting non-personally identifying information is to better understand how PCPartPicker’s visitors use its website. From time to time, PCPartPicker may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website. 
 
-PCPartPicker also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on the PCPartPicker website. PCPartPicker only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the PCPartPicker website. 
+PCPartPicker also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on the PCPartPicker website. PCPartPicker only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that IP addresses are visible and disclosed to the administrators of the PCPartPicker website. 
 
 ## Gathering of Personally-Identifying Information
 
