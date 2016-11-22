@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoya.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629214800id_/http%3A//www.zoya.com/content/category/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoya.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122051714id_/http%3A//www.zoya.com/content/category/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Art of Beauty Privacy Policy
 
