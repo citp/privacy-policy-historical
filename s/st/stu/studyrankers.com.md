@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studyrankers.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619204101id_/http%3A//www.studyrankers.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyrankers.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122165643id_/http%3A//www.studyrankers.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy « Study Rankers
 
@@ -71,6 +71,7 @@ We along with third-party vendors, such as Google use first-party cookies (such 
 All of the contents are copyrighted by our website. We solely reserve the right of contents. You can use the contents only for non-commerical purpose by asking us. Using our contents for commercial purpose strictly prohibited and we may take action aginst those.
 
 **Opting out:**  
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+**  
+**Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
 
 Last Edited on 2016-05-01
