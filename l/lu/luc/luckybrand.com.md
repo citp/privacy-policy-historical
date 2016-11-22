@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the luckybrand.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614222440id_/http%3A//www.luckybrand.com/privacy-and-security/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckybrand.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122110306id_/http%3A//www.luckybrand.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy and Security
-
-PRIVACY POLICY
+# Privacy Policy
 
 Privacy Policy Last updated May 31, 2014
 
