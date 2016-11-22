@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sabra.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417052028id_/http%3A//sabra.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabra.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122141926id_/http%3A//sabra.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Sabra Dipping Co.
+# Sabra
 
-Sabra Dipping Company, LLC (“Sabra”) respects your concerns about privacy. This Privacy Policy applies to personal information we collect on Sabra.com (the “Site”). It does not apply to the [careers page.](http://www.careerbuilder.com/csh/search.aspx?csh=CSH_SabraDippingComp&pubjobs=true&privjobs=true&int=false)
+Sabra Dipping Company, LLC (“Sabra”) respects your concerns about privacy. This Privacy Policy applies to personal information we collect on Sabra.com (the “Site”).
 
 This Privacy Policy describes the types of personal information we collect on the Site, how we may use that information and with whom we may share it. The Privacy Policy also describes the measures we take to protect the security of the personal information. We also tell you how you can reach us to ask us to update your preferences regarding how we communicate with you or answer any questions you may have about our privacy practices. 
 
@@ -63,7 +63,7 @@ We may use the information we obtain about you when you visit the Site to:
   * Verify your identity
   * Operate, evaluate and improve our business (including developing new products and services; managing our communications; performing market research and data analytics; determining and managing the effectiveness of our advertising and marketing; analyzing our products, services and websites; administering our websites; and performing accounting, auditing, billing, reconciliation and collection activities)
   * Protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure and quality
-  * Comply with and enforce applicable legal requirements, industry standards and our policies and terms, such as our [Terms of Service.](http://sabra.com/terms_of_service)
+  * Comply with and enforce applicable legal requirements, industry standards and our policies and terms, such as our [Terms of Service.](https://web.archive.org/web/20161122141926id_/http%3A//sabra.com/terms-of-service.html)
 
 
 
@@ -101,6 +101,6 @@ PO Box 660634
 Dallas, TX 75266-0634  
 1-888-957-2272  
 Monday – Friday 9:00AM to 4:30PM Central  
-[Contact Us. ](http://cr.sabra.com/usen/sabrausen.cfm)
+[Contact Us. ](https://web.archive.org/web/20161122141926id_/http%3A//sabra.com/contactus.html)
 
 This Privacy Policy is effective as of October 14, 2010
