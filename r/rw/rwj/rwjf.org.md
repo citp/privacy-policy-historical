@@ -1,152 +1,130 @@
-> *The following text is extracted and transformed from the rwjf.org privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315001712id_/http%3A//www.rwjf.org/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rwjf.org privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122174202id_/http%3A//www.rwjf.org/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Robert Wood Johnson Foundation
 
-### Effective Date: March 9, 2016
+### Effective June 2, 2016  
+ 
 
-This Privacy Policy (“ **Privacy Policy** ”) applies to (1) the website located at [_www.rwjf.org_](http://www.rwjf.org/) (the “ **website** ”), which is owned and operated by the Robert Wood Johnson Foundation (the “ **Foundation** ,” “ **we** ,” “ **us** ,” or “ **our** ”), and (2) any other websites, blogs, online communities, social media platforms, or other services that we may provide from time to time, whether on the website or otherwise (collectively, “ **Services** ”) and that link to this Privacy Policy. This Privacy Policy describes how the Foundation collects and uses personally identifiable information you provide on the Sites. Your use of the Services also is subject to any additional privacy policy that may be specified with respect to the Service at issue. As used in this Privacy Policy, the term “Sites” refers to the website and the Services. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.
+**1.          Introduction.**
+
+This Privacy Policy (“ **Privacy Policy** ”) describes (a) how the Robert Wood Johnson Foundation (the “ **Foundation** ,” “ **we** ,” “ **us** ,” or “ **our** ”), either directly or through Service Providers (as defined below), collects information from you regarding your use of the Sites (as defined below) and (b) the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.  In the event any of the Sites has additional privacy terms, whether posted by us or the owner/administrator of the Site in question, your use of such Site also is subject to such privacy policy(ies).  This Privacy Policy does not apply to the information collected through our grant application or review process.
+
+As used in this Privacy Policy, the terms “ **Service Providers”** means third-party service providers who provide certain services to us (e.g., analytics, hosting, software maintenance, satisfaction surveys, database maintenance) related to the Sites, and “ **Sites** ” means: (a) our website located at [_www.rwjf.org_](http://www.rwjf.org/) (the “ **Website** ”) and (b) certain other websites, blogs, online communities, social media platforms, and other services we may provide from time to time that link to this Privacy Policy.
 
 If you have questions or complaints regarding our Privacy Policy or practices, please contact us at:
 
-Phone: (877) 843-RWJF (7953)
+Phone:  (877) 843-7953
 
-Fax: 609-627-6401, Attention RWJF Web Privacy
+Fax:     (609) 627-6401, Attention RWJF Web Privacy
 
-Email: [Contact Us.](http://www.rwjf.org/en/about-rwjf/contact-rwjf.html)
+Email:   [Contact us](https://web.archive.org/en/contact.html)
 
-**Information Collection**
+**2.          Information Collection.**
 
-Unless otherwise disclosed, the Foundation is the sole owner of information collected on the Sites. The Foundation may collect information from our users at several different points on the Sites. For example, we may collect information you provide to us when you use the Sites or otherwise transact business with us, such as when you complete a form on the Sites, when you register for an account with us, and/or when you contact us to inquire about our products or services. More information is provided below.
+We may collect information related to you and your use of the Sites in the following ways:
 
-**_Registration_**
+**A.         Information you provide to us.**
 
-In order to use some features of the Sites, a user must first complete the registration form. During registration a user may be required to provide personally identifiable information and contact information (such as name, email and postal address).
+■ _Registration_ – In order to use some features of certain of the Sites, you must first complete a registration form.  During registration, you may be asked to provide personally identifiable information and contact information (e.g., name, organizational affiliation, email and postal addresses, Twitter handle).  If information requested is marked as “optional,” you are not required to provide that information in order to complete the registration process.
 
-**_Grant Applicants_**
+■ _Email Subscription_ – In order to subscribe to certain of our email mailing lists you must complete a registration form.  During registration, you may be asked to provide personally identifiable information and contact information (e.g., name, organizational affiliation, email and postal addresses, Twitter handle).  If information requested is marked as “optional,” you are not required to provide that information in order to complete the registration process.  Subscriptions to our email mailing lists must be confirmed by clicking on a link we will send to you via the email address you provide to us.
 
-This Privacy Policy does not apply to the information collected through the grant application or review process.
+■ _Ordering Publications_ – When you order a publication from one of the Sites, you will need to provide contact/shipping information (e.g., name, organizational affiliation, and email and postal addresses).
 
-**_Publication Orders_**
+■ _Interests_ – In order to facilitate your interaction with the Sites you may be asked to, and may wish to, provide information about your personal interests.
 
-When a user orders a publication from the Sites, contact/shipping information (such as name, email, and shipping address) must be provided.   
+■ _Surveys/Contests_ – From time to time, we may conduct online surveys on topics related to our programs or the Sites or conduct contests regarding the same.  If you choose to participate in such a survey or a contest, you will be required to provide certain information to participate (e.g., name, organizational affiliation, email and postal addresses, Twitter handle).  Participation in these surveys and contests is completely voluntary.
 
-**_Interests_**
+**B.         Information collected from your use of the Sites.**
 
-Unless otherwise stated, it is optional to provide information about your interests to better facilitate your interaction with the Sites.
+■ _Cookies and Other Technologies_ – We and certain of our Service Providers (as defined below) use cookies and other technologies, including web beacons and pixel tags, to passively collect information from you about you and your use of the Sites. This information may include: your Internet Protocol (IP) address, your location information, your device type, your browser type, your computer or device's operating system, the date/time you arrived on a Site, your internet service provider (ISP), the website or email address from which you arrived at the Site, your browsing destination after you leave the Site, and your actions on the Site itself, including the content you visited, clicked on, or shared on social media.  See [_www.adobe.com/privacy/analytics.html_](http://www.adobe.com/privacy/analytics.html) for additional examples of the types of information that may be collected from your use of the Sites.
 
-**_Surveys_**
+We and certain of our Service Providers also may use similar technologies in our email communications to let us know which emails and links have been opened by recipients.  This allows us to, among other things, gauge the effectiveness of our customer communications and marketing campaigns.
 
-We may request information from users via surveys or contests. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as ZIP code). Participation in these surveys or contests is completely voluntary and users may therefore choose whether or not to disclose this information.
+You can control the use of cookies using your browser settings.  If you reject cookies, you may still use the Sites, but your ability to use some features or areas of the Sites may be limited. Turning off the browser's cookies will prevent web beacons from tracking your specific activity. The web beacon may still record an anonymous visit from your IP address, but unique information will not be recorded.  However, if you are a subscriber to one of our email mailing lists and visit a Site by clicking a link in an email from us, we will be able to determine your identity even if you have turned off your browser’s cookies.
 
-**_Tell-A-Friend_**
+You may opt out of cookies provided by our Service Provider Adobe by following the instructions located at [_www.adobe.com/privacy/opt-out.html#4_](http://www.adobe.com/privacy/opt-out.html#4) and of cookies provided on our Sites by other Service Providers who are members of the Digital Advertising Alliance program by following the instructions located at [_www.aboutads.info/choices/_](http://www.aboutads.info/choices/).  You can find more information about cookies at [_www.allaboutcookies.org_](http://www.allaboutcookies.org/).
 
-If a user elects to use a referral service for informing a friend about our Sites, we ask them for the friend’s name and email address. We will automatically send the friend a one-time email inviting them to visit the website and/or other Sites. We do not store this information except as needed to process the requested referral function.
+Information collected by us by cookies and other technologies generally is not linked to your personally identifiable information.  However, once you set up an account with of our Sites, the de-identified information associated with you may be linked to your user account and become personally identifiable information. We will use this information only as provided in this Privacy Policy.
 
-**_Cookies and Other Technologies_**
+■ _Local Storage Objects and Advertising_ – We use Local Storage Objects (“ **LSOs** ”), such as HTML5, to store content information and preferences.  Service Providers with which we engage to provide certain features on our Sites or to display advertising based upon your web browsing activity use LSOs such as HTML5 or Flash to collect and store information.  Various browsers may offer their own management tools for removing HTML5 LSOs.  To manage Flash LSOs please see the information located at [_www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html_](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
-A cookie is a piece of data stored on the user’s computer tied to information about the user. We may use cookies or other technologies (such as web beacons and pixel tags) to track site usage and trends, to improve the quality of our service, and to customize your experience on the website. We may provide this statistical information to third parties. We may use session-based cookies for session navigation purposes. By setting a cookie on our website, users would not have to log in a password more than once, thereby saving time while on our website. We also use persistent cookies. A persistent cookie remains on your hard drive for an extended period of time. You can turn off the ability to receive cookies by adjusting the browser on your computer. If you refuse cookies, however, you may not be able to access or use some of the features we offer on our website. Electronic images known as Web beacons (sometimes called single-pixel gifs) may be used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+■ _Behavioral Targeting/ Re-Targeting_ – We use a third-party ad network to either display advertising on our Sites or to manage our advertising on other sites.  Our ad network Service Providers use cookies and Web beacons to collect non-personally identifiable information about your activities on our Sites and other websites to provide you targeted advertising based upon your interests.  If you do not want this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://www.networkadvertising.org/choices/#completed). Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 
-**_Log Files_**
+■ _Social Media Widgets_ – Our Sites often include Social Media Features, such as the Facebook “Like” button and Widgets, such as the “Share” this button or interactive mini-programs that run on our Sites. These features may collect information, such as your IP address, which page you are visiting on our Sites, and may set a cookie to enable the feature to function properly.  Social Media Features and Widgets are either hosted by a third-party or hosted directly on our Sites.  Your interactions with these features are governed by the privacy policy of the company providing it. Please review these privacy policies carefully.
 
-Like most standard website servers, we use log files, through which we may record Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the Sites, track users’ movement in the aggregate, and gather broad demographic information for aggregate use. Such log file information is not linked to personally identifiable information.
+**3.          How We Use the Information Collected.**
 
-**_Third Party Cookies_**
+We may use the information collected from you for the following purposes:
 
-The use of cookies by our tracking utility companies is not covered by this Privacy Policy. We do not have access or control over these cookies. Our tracking utility companies use session ID cookies to make it easier for you to navigate our site, and to compile aggregated statistics to help us analyze how our Sites are used.
+■ to provide you with information about events, activities, opportunities, products, or services that might be of interest to you;
 
-**_Behavioral Targeting/ Re-Targeting_**
+■ to respond to your inquiries and to provide you with customer support;
 
-We partner with a third-party ad network to either display advertising on our Sites or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you do not want this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+■ to assist in managing your account;
 
-**_Social Media Widgets_**
+■ to conduct or facilitate surveys;
 
-Our Sites often include Social Media Features, such as the Facebook “Like” button and Widgets, such as the “Share” this button or interactive mini-programs that run on our Sites. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Sites. Your interactions with these features are governed by the privacy policy of the company providing it.
+■ to maintain and administer the Sites;
 
-**Information Use**
+■ to customize your experience, content, advertising, or homepage on the Sites, including providing engaging and consistent experiences across the Site and  providing you with more relevant products, services, or content;
 
-The Foundation may use personally identifiable information collected from you for several general purposes:
+■ to enforce the terms of use for the Sites or this Privacy Policy;
 
-●    to deliver the products (i.e., publications) and services that you have requested and respond to your inquiries;
+■ to generate aggregate statistical studies to analyze how the Sites are used, to gauge efficiency of email communications, and to conduct research which may be used in marketing our services to you or to third parties;
 
-●    to provide information about our products and services;
+■ to deliver products or services to you; and
 
-●    to manage your profile account and provide you with customer support;
+■ for any other purpose(s) described to you at the time you provide your personally identifiable information to us.
 
-●    to conduct surveys relating to the development of our services and Sites;
+We will retain information collected from you for as long as needed to provide you services or as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements
 
-●    to otherwise maintain and administer the Sites; and
+**4.          With Whom We Share Information Collected.**
 
-●    for other purposes described to you at the time you provide information to us.
+We may share the information collected from you for the following purposes:
 
-The examples below explain further how we may use information collected through the Sites.
+■ with Service Providers; provided, that such Service Providers are not permitted to use your personally identifiable information for any secondary purposes;
 
-**_Profile_**
+■ with our non-profit and for profit funding or grant partners or other strategic partners when it's related to events, activities, opportunities, products, or services that might be of interest to you;
 
-We store information that we collect through log files, interest boxes, and/or third parties to create user profiles. User profile information is tied to the users’ personally identifiable information to provide services and improve the content of the website for the user. User profiles are used to tailor a user’s visit to our website and to direct pertinent communications to them.
+■ to conform or comply with the law, or if we have a good faith belief that such action is necessary to comply with a court order or subpoena, to cooperate with investigations by law enforcement or regulatory authorities or to participate or cooperate with a judicial proceeding, to enforce applicable terms and conditions of the Sites, or in urgent circumstances, to protect the safety of persons or property, including but not limited to, the Website; and
 
-We may share your user profile with others, such as RWJF national program offices, grantees, co-funders and consultants. We would do so because the Foundation aims to ensure that diverse points of view are represented in our work. We believe diverse perspectives and experiences can deepen our understanding of differences in health outcomes and health care delivery. Varied perspectives also can strengthen our capacity to develop effective solutions.
+■ if we merge with or are acquired by a business entity, undergo a re-organization with an entity, and/or in the event that we sell (or propose to sell) any property, business, or assets to an entity, we may disclose your personally identifiable information to such entity. If we undergo bankruptcy or liquidation proceedings, we may disclose your personally identifiable information to the entity managing our assets such as a receiver, to the court overseeing the proceedings, or as directed by such court.
 
-**_Communications_**
+We also may share information in an aggregated non-personally identifiable manner with third parties and such third parties may further share such aggregated non-personally identifiable information further in connection with their own marketing, products, and services.
 
-For new email subscribers, we use Double Opt-In which is also referred to as Confirmed Opt-In. We send all new registrants an email with a link to confirm their email subscription. Unless otherwise stated, new registrants will be signed up to receive Advances®, the Foundation’s monthly newsletter. Established registered users will occasionally receive information they have asked to receive such as information about products, services and/or alerts.  
+We will ask for your consent before using information for a purpose other than those permitted by this Privacy Policy.
 
-Out of respect for the privacy of our users we present the option not to receive newsletter communications. Please see the Choice/Opt-out section below.
+**5.          Choice/Opt-out.**
 
-**_Service Announcements_**  
+If you no longer wish to receive our newsletter or other email communications from us, you may opt out of receiving these communications by visiting the Manage Your Subscriptions link in each of our Sites.
 
+From time to time, it may be necessary for us to send out service-related announcements. For example, if one of our Sites is temporarily suspended for maintenance, we might send users an email notice regarding the suspension.  Generally, users may not opt out of these communications unless they deactivate their account.
 
-From time to time, it may be necessary for us to send out a service-related announcement. For instance, if our website is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. These communications are not promotional in nature.
+**6.          Blogs.**
 
-**Information Sharing**
+Our Sites may offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.  To request removal of your personally identifiable information from a blog or community forum, contact us as noted above.  In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so.
 
-_**Personally Identifiable Information**_
+Our blogs also may be managed by a third-party application that may require you to register to post a comment.  We do not have access or control of the information posted to such blogs.  You will need to contact or login to the third-party application if you want the personally identifiable information that was posted to the comments section removed.  To learn how the third-party application uses your information, please review its privacy policy.
 
-We may disclose your personally identifiable information to other companies or people as stated in this Privacy Policy, including under any of the following circumstances:
+**7.          Links.**
 
-●    when we have your consent to share the information. You may grant such consent at the time you provide or transmit information to us;
+The Sites may contain links to other websites.  Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our Sites and to read the privacy policies of each and every website that collects personally identifiable information.  This Privacy Policy applies solely to information collected on the Sites.
 
-●    to conform or comply with the law, or if we have a good-faith belief that such action is necessary to comply with a court order or subpoena, to cooperate with investigations by law enforcement or regulatory authorities or to participate or cooperate with a judicial proceeding, to enforce applicable terms and conditions of the website, or in urgent circumstances, to protect the safety of persons or property, including the website; or
+**8.          Security.**
 
-●    in the event of a merger, consolidation or reorganization involving the Foundation or other similar transaction, your personal information will, in most instances, be transferred to the control of a third party. In addition, we may use third-party service providers (“ **Service Providers** ”) to provide certain services, such as hosting, software maintenance, or database maintenance, which are necessary for Foundation operations, including the operation of the website. These Service Providers may be supplied with or have access to the information you provide through the website, but only for the purpose of providing services to the Foundation or on our behalf. Third parties are prohibited by the Foundation from using your information for any secondary purposes.
+We have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.  However, no method of transmission over the Internet, or method of electronic storage, is 100 percent secure.  Therefore, we cannot guarantee its absolute security.
 
-**_Aggregate Information (non-personally identifiable)_**
+**9.          Updating and Deleting Personally Identifiable Information; Data Retention.**
 
-We may share and disclose information in aggregate, without linking such information to any personally identifiable information.
+If your personally identifiable information changes, or if you no longer desire our services, you may correct, update, amend, or delete your information by making the change on your member information page or by contacting us [here](http://www.rwjf.org/en/contact.html).
 
-**Choice/Opt-out**
+We will retain information collected from you for as long as needed to provide you services or as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-In general, our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our Sites at the point where we ask for information. In addition, users who no longer wish to receive our newsletter or secondary communications may opt-out of receiving these communications by visiting the Subscribe to Email link in the footer of every page.
+**10.        Your California Privacy Rights.**
 
-**Blogs**
+Pursuant to California Civil Code Section 1798.83, a California resident who has provided personally identifiable information to a business with whom he/she has established a business relationship has the right to request certain information regarding the disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please use our Contact Us form, or write to us at: Robert Wood Johnson Foundation, Route 1 and College Road East, Princeton, NJ 08543-2316, Attention: RWJF Web Privacy.
 
-Our Site may offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personally identifiable information from our blog or community forum, [contact us](http://www.rwjf.org/en/about-rwjf/contact-rwjf.html). In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why.
+**11.        Changes to this Privacy Policy.**
 
-**Links**
-
-The Sites may contain links to other websites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our Sites and to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy applies solely to information collected on the Sites.
-
-**Security**
-
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
-
-**Updating and Deleting Personally Identifiable Information**
-
-We do not collect personally identifiable information for email subscribers.
-
-**Data Retention**
-
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, please [contact us](http://www.rwjf.org/en/about-rwjf/contact-rwjf.html). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-**Your California Privacy Rights**
-
-Pursuant to California Civil Code Section 1798.83, a California resident who has provided personal information to a business with whom he/she has established a business relationship has the right to request certain information regarding the disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please use our [contact us form](http://www.rwjf.org/en/about-rwjf/contact-rwjf.html), or write to us at: Robert Wood Johnson Foundation, Route 1 and College Road East, Princeton, NJ 08543-2316, Attention: RWJF Web Privacy.
-
-**Changes to this Privacy Policy**
-
-The Foundation may amend this Privacy Policy at any time in its sole discretion, subject to any applicable laws. Please review this Privacy Policy periodically to confirm your continued agreement with the terms contained herein, as the same may be amended from time to time.
-
-© 2016 Robert Wood Johnson Foundation
-
-Robert Wood Johnson Foundation  
-Route 1 and College Road East  
-Princeton, NJ 08543-2316
+We may amend this Privacy Policy at any time in our sole discretion, subject to any applicable laws. It is your responsibility to review this Privacy Policy from time to time, to see if modifications have been made.  Any modification is effective immediately upon posting on the applicable Site. Your continued use of the relevant Sites following modification of this Privacy Policy will be conclusively deemed to signify your acceptance of the modification.  If we make any material changes to this Privacy Policy, we will notify you either by email (sent to the email address specified in your account) or by means of a notice on the applicable Site(s).
