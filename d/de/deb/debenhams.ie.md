@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the debenhams.ie privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616015240id_/http%3A//www.debenhams.ie/wcsstore/DebenhamsIESite/faq/our_terms_and_conditions/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debenhams.ie privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122053923id_/http%3A//www.debenhams.ie/wcsstore/DebenhamsIESite/faq/our_terms_and_conditions/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy - Help - Debenhams
 
@@ -6,7 +6,7 @@ By continuing to browse our site, you consent to our placing cookies on your com
 
 This Privacy Policy explains how Debenhams ('We/Us/Our') collect, store and use your personal data when you browse and use Debenhams.ie (the 'Website'), and when you provide us with your personal data. Please read this Privacy Policy carefully.
 
-By accessing, browsing or otherwise using the Website you confirm that you have read, understood and agree to this Privacy Policy. If you do not agree with any part of this Privacy Policy, you must not use the Website. Debenhams Retail (Ireland) Limited (In Examination under Part 10 of the Companies Act 2014) is a company registered in Ireland (registration number 239481) with registered office at Ireland Region Office, 54-62 Henry Street, Dublin 1, D01 A3T6, Ireland and is a registered data controller with the Data Protection Commissioner.
+By accessing, browsing or otherwise using the Website you confirm that you have read, understood and agree to this Privacy Policy. If you do not agree with any part of this Privacy Policy, you must not use the Website. Debenhams Retail is a company registered in Ireland (registration number 239481) with registered office at Ireland Region Office, 54-62 Henry Street, Dublin 1, D01 A3T6, Ireland and is a registered data controller with the Data Protection Commissioner.
 
 We respect your right to privacy and are committed to maintaining it. We only collect, store and process your personal data in accordance with the Data Protection Act 1988, the Data Protection (Amendment) Act 2003 and the ePrivacy Regulations 2011 (S.I.336 of 2011).
 
