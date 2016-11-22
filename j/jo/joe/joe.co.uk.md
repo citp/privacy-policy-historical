@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joe.co.uk privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514112216id_/http%3A//www.joe.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joe.co.uk privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122190546id_/http%3A//www.joe.co.uk/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | JOE.co.uk
 
@@ -20,7 +20,7 @@ This website uses Google Analytics, a web analytics service provided by Google, 
 Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website and clicking on the 'I Accept' button, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
 **Section 3. Purposes for which we hold your Information**  
- **"Non-Personal Data"**  
+**"Non-Personal Data"**  
 We use the Non-Personal Data gathered from visitors to our website in an aggregate form to get a better understanding of where our visitors come from and to help us better design and organise our website.
 
 **"Cookies"**  
