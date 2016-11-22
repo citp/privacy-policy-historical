@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cablestogo.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617144304id_/http%3A//www.cablestogo.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cablestogo.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122201408id_/http%3A//www.cablestogo.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | C2G
 
