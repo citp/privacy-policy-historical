@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cutediyprojects.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619115502id_/http%3A//cutediyprojects.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutediyprojects.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122012443id_/http%3A//cutediyprojects.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – Cute DIY Projects
 
