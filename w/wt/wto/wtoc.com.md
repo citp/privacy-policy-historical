@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtoc.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610091523id_/http%3A//www.wtoc.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtoc.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122011933id_/http%3A//www.wtoc.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WTOC-TV: Savannah, Beaufort, SC, News, Weather & Sports
 
