@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the importavehicle.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604145852id_/http%3A//www.importavehicle.com/web/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the importavehicle.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122082734id_/http%3A//www.importavehicle.com/web/privacy-policy.aspx) for the most accurate reproduction.*
 
-# International Vehicle Importers | Privacy Notice and Privacy Policy
+# International Vehicle Importers. | Privacy Notice and Privacy Policy
 
-**How does International Vehicle Importers protect my personal information**
+**How does International Vehicle Importers. protect my personal information**
 
 | 
 
@@ -10,7 +10,7 @@ To protect your personal information from unauthorized access and use, we use se
 
 | 
 
-**How does International Vehicle Importers collect my personal information**
+**How does International Vehicle Importers. collect my personal information**
 
 | 
 
