@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galleries-pornstar.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614164848id_/http%3A//galleries-pornstar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galleries-pornstar.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122144803id_/http%3A//galleries-pornstar.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
