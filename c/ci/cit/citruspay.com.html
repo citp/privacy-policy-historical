@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the citruspay.com privacy policy that was archived on 2016-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616104905id_/http%3A//www.citruspay.com/citrus-privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the citruspay.com privacy policy that was archived on 2016-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161122043051id_/http%3A//www.citruspay.com/citrus-privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <title>Citrus</title>
@@ -9,6 +9,7 @@
     <link rel="stylesheet" type="text/css" href="css/style.css" media="all">
 	 <link rel="stylesheet" type="text/css" href="css/tipsy.css">
 	<link rel="stylesheet" type="text/css" href="css/jquery.impromptu.css"> 
+	<link rel="stylesheet" type="text/css" href="landingassets/css/custom.css">
     <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
 	<script type="text/javascript" src="js/jquery.tipsy.js"></script>
     <script type="text/javascript" src="js/custom.js"></script>
@@ -53,6 +54,125 @@
 </style>
 </head>
 <body>
+<header class="header main-container signin mt-30">
+        <div class="container">
+            <div class="header-wrapper">
+                <div class="top-header grid-full phn-mb-30">
+                    <div class="top-header-content">
+                        <div class="block-left">
+                            <a class="logo fl hide-text phn-ma mr-30" href="index.html"><h1>Citrus</h1></a>
+                            <a class="mob-menu" href="#">
+                                <span class="mob-menu-text">Menu</span>
+                                <i class="menu-icon icon-hamburger fa fa-bars"></i>
+                                <i class="menu-icon icon-close fa fa-times"></i>
+                            </a>
+                            <div class="clr"></div>
+                        </div>
+                       <ul class="nav-menu color-black ml-100 pt-20 phn-tab-ml-0 phn-tab-pt-0">
+                            <li><a class="alpha" href="consumers.html">For Consumers</a></li>
+                            <li><a href="https://mob.citruspay.com/citrus-mob/">For Merchants</a></li>
+							<li class="fr phn-tab-fn"><a id="merchnt_login_tab" logintype="merchnt_login" class="sign-in-pop omega" href="https://mob.citruspay.com/citrus-mob/login/mobileSignInPage">Merchant Login</a></li>
+                            <li class="fr phn-tab-fn"><a id="consumer_login_tab" logintype="consumer_login" class="sign-in-pop omega" href="https://mob.citruspay.com/citrus-mob/login/mobileConsumerSignInPage">Consumer Login</a></li>
+                            <!-- <li class="fr phn-tab-fn"><a class="sign-in-pop omega" href="https://mob.citruspay.com/citrus-mob/login/mobileSignInPage">Log In</a></li> -->
+                        </ul>
+                        <div class="clr"></div>
+                    </div>
+                </div>
+                <div class="clr"></div>
+            </div>
+            <div class="clr"></div>
+        </div>
+    </header>
+	
+		<div class="modal-overlay js-close-modal"></div>
+		
+		<div class="onlyConsumer" id="onlyConsumerPopup">         
+           <p></p>Please use Consumer Login to access your Citrus Account.<p></p>
+           <button id="idProofButton" class="orange-button submit mt-20">OK</button>         
+        </div>
+		
+		<!-- consumer signup iframe -->
+    <div class="modal modal-sign-up">
+        <a class="btn-close-signin js-close-modal"></a>
+		<iframe id="iFrameSignUp" src="https://consumer.citruspay.com/CitrusConsumerPortal/login/signup" width="725" height="460"></iframe>
+    </div>
+
+  <div class="modal modal-sign-in">
+    <a class="btn-close-signin js-close-modal"></a>
+    <div class="sign-in-form">
+        <form class="sign-in" name="loginForm" id="loginForm">
+            <h3 class="title switchTitle medium bold ta-c color-black">Log In</h3>
+
+            
+            <ul class="login-container ac-container" style="list-style-type: none;">
+                <li>
+                    <label class="width-grid-one ma block color-black bold mt-20 mb-5">Email</label>
+                    <input class="width-grid-one ma block input evnt_username" name="username" autocomplete="off" id="txt_username" title="Email Address" type="text">
+                    <div class="error-block"><span class="status"></span></div>
+                </li>
+                <li>
+                    <label class="width-grid-one ma block color-black bold mt-30 mb-5">Password</label>
+                    <input class="width-grid-one ma block input evnt_password" name="password" autocomplete="off" type="password" id="txt_password" title="Password">
+                    <div class="error-block"><span class="status"></span></div>
+                </li>
+            </ul>
+            
+            <div class="error-block" id="login-error" style="display: none"> </div>
+
+            <div id="login-spinner" class="spinner" style="display:none; text-align: center; line-height: 40px;position: absolute;width: 100%;margin: -14px 0 0 0;">
+                <span style="text-align: center; color: #f7941e; padding-left:17px; margin-bottom:20px">Please wait while we log you in.<img src="https://mob.citruspay.com/citrus-mob/assets/spinner-c7b3cbb3ec8249a7121b722cdd76b870.gif" alt="Spinner"></span>
+                <br>
+            </div>
+
+            <div class="width-grid-one ma mt-30">
+                <a class="forgot-pass color-grey fl btn-help" id="lnk-forgotpass">Forgot Password?</a>
+                <input id="login_submit" name="loginsubmit" logintype="" class="submitbutton orange-button submit fr" type="button" value="Sign In">
+				<a style="clear:both;cursor:pointer;" class="color-black fl btn-help mt-20 sign-up-pop" id="consumerSignup" href="https://consumer.citruspay.com/CitrusConsumerPortal/login/signup">New User? Sign Up</a>	
+                <div class="clr"></div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="modal modal-forgot-pass" id="noMailIdPopup">
+    <a class="btn-close-signin js-close-modal"></a>
+    <div class="forgot-pass-form ta-c">
+        <form class="forgot-pass-in form-horizontal" name="resetPasswordForm" id="resetPasswordForm">
+            <h3 class="title medium bold color-black mb-30">Forgot your password?</h3>
+
+            <p>Enter the email address you used when you created your Citrus account.</p>
+            <p class="mb-30">We'll email you a link to a page where you can easily create a new password.</p>
+            <label class="width-grid-one ma ta-l block color-black bold mb-5">Email address</label>
+
+            <input class="width-grid-one ma block input" id="resetPasswordEmailId" name="resetPasswordEmailId" autofocus="">
+
+            <div class="error-block" id="errorMsg">
+                <span class="status"></span>
+            </div>
+
+            <div id="submitDiv" class="ta-c mt-30">
+                <button id="forgot_submit" class="orange-button submit">Submit</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="modal modal-forgot-pass-in">
+        <a class="btn-close-signin js-close-modal"></a>
+        <div class="forgot-pass-form ta-c">
+            <form class="forgot-pass-in" method="POST"> 
+                <h3 class="title medium bold color-black mb-30">Success!</h3>
+                <p>A password reset link has been sent to you if you have an account with Citrus Pay.</p>
+                <p class="mt-20 mb-20">In case you don't receive an email from us, please check your spam/junk/bulk mail folder. If you still don't have an email, check that the email address you have provided actually has a registered account with us.</p>
+				<p>If you do have an account and don't receive an email, write to us at <b>support@citruspay.com</b></p>
+                <div class="ta-c mt-30">
+                   <input class="orange-button" type="button" id="ok" value="OK" style="border:none;">
+                </div>
+            </form>
+        </div>
+    </div>
+	
+	
     <section class="main-container index-page-2 mt-60 mb-60 tab-mt-90 phn-mt-60">
         <div class="container color-black">
             <div class="billboard-docs pl-30 pr-30 pt-20 pb-60 phn-pl-10 phn-pr-10">
@@ -78,7 +198,7 @@
 					<p class="mt-20" style="padding-left:20px;"><b>1.1.2</b> &nbsp; We do not sell or rent your information, including the Personal Information (as defined below).We do not share your information with any third party outside of our organization, other than as necessary to fulfil your request. It may be noted that Citrus has strict guidelines with respect to unauthorized access to information provided by you. However, we may pass your Personal Information to other third parties in the following scenarios:</p>
 					<p class="mt-10" style="padding-left:40px;"><b>(i)</b>&nbsp;&nbsp; To help us process questions you may have about the Site and/or the services offered by Citrus;</p>
 					<p style="padding-left:40px;"><b>(ii)</b>&nbsp;&nbsp; To confirm or correct what we know about you;</p>
-					<p style="padding-left:40px;"><b>(iii)</b>&nbsp;&nbsp; We may pass your Personal Information to our employees, contractors, suppliers and/or agents to administer the services provided to you by us now or in the future;</p>
+					<p style="padding-left:40px;"><b>(iii)</b>&nbsp;&nbsp; We may pass your Personal Information to our employees, contractors, suppliers,  third party service providers and/or agents to administer the services provided to you by us now or in the future;</p>
 					<p style="padding-left:40px;"><b>(iv)</b>&nbsp;&nbsp; To help us or law enforcement agencies prevent fraud, money laundering, terrorism and other crimes. Also, we may disclose your Personal Information to the police, regulatory bodies or legal advisers in connection with any alleged criminal offence or suspected breach of this Privacy Policy and/or the Terms and Conditions or otherwise where required by law and we will co-operate with any law enforcement authorities or court order requesting or directing us to disclose the identity of or locate anyone breaching this Privacy Policy or otherwise for the prevention or detection of crime or the apprehension or prosecution of offenders;</p>
 					<p style="padding-left:40px;"><b>(v)</b>&nbsp;&nbsp; Assisting an agency in undertaking information for us;</p>
 					<p style="padding-left:40px;"><b>(vi)</b>&nbsp;&nbsp; If another organization is engaged by us to perform tasks on our behalf;</p>
@@ -90,7 +210,7 @@
 					<p class="mt-20" style="padding-left:20px;"><b>1.1.3</b> &nbsp;In addition to the above, disclosures may also be made if it was clearly stated at the time of registration and, where required, if you have given permission for this. Generally, we will  disclose only the information we consider reasonably necessary to disclose. Also, some general statistical information about the Site user base, traffic volumes and related matters may be passed on to reputable third parties but these details will not include information personally identifying you. </p>
 					<p class="mt-20" style="padding-left:20px;"><b>1.1.4</b> &nbsp;This Privacy Policy contains provisions regarding collection, storage and handling of Personal Information (as defined below) that you share on the Site. For the purpose of this  Privacy Policy, “<b>Personal Information</b>” means the data that can be used to uniquely identify a single person. Personal Information includes mandatory or voluntary disclosures that you make while and for using the Site and/or the services offered by Citrus, including but not limited to your name, address, telephone, number, date of birth, gender, email address, images, etc. as may be provided by you while using the Site and/or the services offered by Citrus. Kindly note that we will also require credit card or debit card details for facilitating payments, however, such details shall not be stored or used by us in any manner other than in accordance with the Terms and Conditions.</p>
 					<p class="mt-20" style="padding-left:20px;"><b>1.1.5</b> &nbsp;In the event you submit any comment or feedback on the Site, we may (but not obliged to) publish your comments or feedback (including images) online or offline to promote our business and services. We will collect your name which will be displayed next to your comment, and e-mail address, which will not be published, but which we may use to contact you in relation to your comment. From time to time, we may ask you for your opinion on our services. When we do surveys wherein we may use Cookies (as defined below) or other on-device storage and may combine the information collected by those Cookies or other on-device storage with your answers. We will make sure that the survey results do not identify you, or anyone else who fills in our surveys.</p>
-					<p class="mt-20" style="padding-left:20px;"><b>1.1.6</b> &nbsp;What we know about you we get mostly from you. But we may also have to find out more about you from other sources in order to verify the information submitted by you, and to make sure that what we know about you is correct and complete. This kind of verification is primarily done in order to address various security concerns, and to ensure that you comply with the provisions of applicable laws, and the terms and conditions available on the Site (“Terms and Conditions”) and other terms and conditions as may be prescribed by us from time to time. We do not collect personally identifiable information (including Personal Information) about you, expect when you specifically provide such information on a voluntary basis.</p>
+					<p class="mt-20" style="padding-left:20px;"><b>1.1.6</b> &nbsp;What we know about you we get mostly from you. But we may also have to find out more about you from other sources in order to verify the information submitted by you, and to make sure that what we know about you is correct and complete. This kind of verification is primarily done in order to address various security concerns, and to ensure that you comply with the provisions of applicable laws, and the terms and conditions available on the Site (“Terms and Conditions”) and other terms and conditions as may be prescribed by us from time to time. We do not collect personally identifiable information (including Personal Information) about you, except when you specifically provide such information on a voluntary basis.</p>
 					<p class="mt-20" style="padding-left:20px;"><b>1.1.7</b> &nbsp;We are sensitive towards your information including your Personal Information and non-personal information (email, business details, demographic location and address, age, name,
 					phone number etc.,) provided at the time of using and/or browsing the Site or otherwise while availing the services offered by Citrus.</p>
 					<p class="mt-20" style="padding-left:20px;"><b>1.1.8</b> &nbsp;Your Personal Information may be used by us to:</p>
@@ -104,7 +224,7 @@
 					</p><p class="mt-20" style="padding-left:20px;"><b>1.1.10</b> &nbsp;The information is readily available on the Site and only viewable by you by logging on to the Site. You, at all times, have the option not to provide any Personal Information or other information about you without agreeing to register on the Site and otherwise withdraw your consent by communicating the same to us in the manner stipulated in the Terms and Conditions and the policies of Citrus. Upon withdrawal, Citrus will have no obligations towards you nor will it be liable in relation to any services offered by Citrus during the time you had consented to retain the information with Citrus.</p>
 					<p class="mt-20" style="padding-left:20px;"><b>1.1.11</b> &nbsp;Please note that if you opt out from providing personal or other information requested by us, in the manner stipulated in paragraph 7.1 below, you may not be able to access certain areas of the Site and/or avail certain services offered by Citrus.  However, it may be noted that Citrus reserves the right to send service related and your specific and preferred transaction related communication without offering you the facility to opt-out. You can update your Account Information (defined below), Personal Information and other information at any time. At your request, Citrus can also cancel your registration and remove/block your Personal Information from its database/ Site. However, this information may remain in our archive even after deletion or termination of your account as required by law and the handling of the same is in accordance with the provisions of the applicable law and as intimated by the government agency from time to time.</p>
 					<p class="mt-20" style="padding-left:20px;"><b>1.1.12</b> &nbsp;In relation to any payment made through the Site and/or the services offered by Citrus, the online payment gateway operated by third party is being used by Citrus. It may be noted that the information that you provide at the time of making any payment through the Site and/or services offered by Citrus is held and stored with third party payment gateway operator authorised at multiple points. The payment gateway operator may also have access to your online payment history/details in relation to the payment made through the Site and/or the services offered by Citrus. These payment gateways are digitally encrypted, thereby providing the highest possible degree of privacy and care available, currently. Whilst we are unable to guarantee 100% (One Hundred percent) security, this makes it hard for a hacker to decrypt your details. You are strongly recommended not to send full credit or debit card details in unencrypted electronic communications with us. Also, you are responsible for protecting against unauthorised access to your password and to your computer. We will not be liable for the disclosure and dissemination of Personal Information to third parties which you as prudent user put up on the Site, and available to the other users of the Site.</p>
-					<p class="mt-20" style="padding-left:20px;"><b>1.1.13</b> &nbsp;It is hereby clarified that we do not store extremely sensitive information like your credit card/debit card information on our database.</p>
+					<p class="mt-20" style="padding-left:20px;"><b>1.1.13</b> &nbsp;It is hereby clarified that we do not store extremely sensitive information of your credit card/debit card on our database, other than in line with the industry practice in relation to security of stored data.</p>
 					<p class="mt-20" style="padding-left:20px;"><b>1.1.14</b> &nbsp;It may be noted that Citrus handles all such information in accordance with the provisions of the applicable law as may be applicable from time to time and only for the duration lawfully required, thereunder. Citrus may disclose aggregated information, including to aggregators, about the use of the Site without Personal Information. Citrus implements standard measures to protect against unauthorized access to and unlawful interception of Personal Information. However, Citrus feels prudent to inform you that no internet site can fully eliminate security risks and enforcement of privacy laws are at a developing stage in some parts of the world.</p>
 					<p class="mt-20"><b>1.2 &nbsp; Use of Cookies</b></p>
 					<p class="mt-20" style="padding-left:20px;"><b>1.2.1</b> &nbsp;By using or accessing the Site, our servers (hosted by a third party service provider) may collect information indirectly and automatically about your activities on the Site by way of cookies. For the purpose of this Privacy Policy, “<b>Cookies</b>” are pieces of information that a site sends to your computer or other media device while you are viewing or interacting with the site. We use Cookies and other such devices to compile anonymous, aggregated statistics that allow us to understand how users use our Site and to help us improve the structure of our Site (we cannot identify you personally in this way).  Further it allows us to understand who has seen which pages and advertisements on the Site, to determine how frequently such particular pages and advertisements are visited, to determine the most popular areas of the Site and generally in order to monitor usage of the Site. We may combine your visitor session information or other information collected through Cookies and other technical methods with personally identifiable information in order to understand and improve your online experiences and to determine what category/nature of businesses and locations you prefer or are likely to be of interest to you. This information is not linked to your Personal Information and is maintained distinctly. </p>
@@ -168,6 +288,41 @@
             </div>
         </div>
     </section>
+	<footer>
+	 <div class="container">
+		<div class="footer-wrapper pt-40 pb-40">
+
+			<div class="grid-two-third alpha tab-grid-half-2 phn-grid-full phn-mb-20">
+				<div class="footer-menu menu-small" style="margin-top:5px">
+					<ul>
+					   <!--  <li><a href="media-press.html" onclick="ga('send', 'event', 'Footer', 'HomePage', 'MediaAndPress');">Media &amp; Press</a></li> -->
+						<li><a href="about-us.html" onclick="ga('send', 'event', 'Footer', 'HomePage', 'AboutUs');">About Us</a></li>
+						<li><a href="http://www.citruspay.com/partners/index.html" onclick="ga('send', 'event', 'Footer', 'HomePage', 'Partners');">Partners</a></li>
+						<li><a href="http://developers.citruspay.com/index.html" onclick="ga('send', 'event', 'Footer', 'MerchantPage', 'DeveloperGuide');">Developer's Guide</a></li>
+						<li><a href="citrus-privacypolicy.html">Privacy Policy</a></li>
+						<li><a href="citruscashfaqs.html" onclick="ga('send', 'event', 'Footer', 'HomePage', 'WalletFaq');">Wallet FAQ</a></li>
+						<li><a href="http://offers.citruspay.com/" onclick="ga('send', 'event', 'Footer', 'HomePage', 'Offers');">Offers</a></li>
+						<li><a href="grievance-policy.html" onclick="ga('send', 'event', 'Footer', 'HomePage', 'GrievancePolicy');">Grievance Policy</a></li>
+						<li><a href="careers.html" onclick="ga('send', 'event', 'Footer', 'HomePage', 'Careers');">Careers</a></li>						<li><a href="contact-us.html" onclick="ga('send', 'event', 'Footer', 'HomePage', 'ContactUs');">Contact Us</a></li>
+						
+						
+					</ul>
+				</div>
+			</div>
+			<div class="grid-one-third omega tab-grid-full phn-grid-full copyright">
+			   <div class="color-grey" style="font-size:11px;">© Citrus Payment Solutions Pvt.Ltd &nbsp;&nbsp;&nbsp;
+			   <span class="social-icon-span">
+				<a href="http://www.twitter.com/citruspay" target="_blank"><img class="social-icon" width="32" height="32" src="images/twitter.png" alt="Twitter"></a>
+				<a href="https://www.facebook.com/Citruspay" target="_blank"><img class="social-icon" width="36" height="36" src="images/facebook.png" alt="Facebook"></a>
+				<a href="https://www.linkedin.com/company/citrus-pay/" target="_blank"><img class="social-icon" width="34" height="34" src="images/linkedin.png" alt="linkedin"></a>
+				</span>
+				</div>
+			</div>
+			<div class="clr"></div>
+		</div>
+		<div class="clearfix"></div>
+		</div>
+	</footer>
 
 
-<iframe name="easyXDM_default9562_provider" id="easyXDM_default9562_provider" frameborder="0" style="position: absolute; top: -2000px;" src="https://admin.citruspay.com/resources/admin/easyXDM/cors/index.html?xdm_e=https%3A%2F%2Fweb.archive.org&amp;xdm_c=default9562&amp;xdm_p=1"></iframe><iframe name="easyXDM_default9563_provider" id="easyXDM_default9563_provider" frameborder="0" style="position: absolute; top: -2000px;" src="https://mob.citruspay.com/citrus-mob/login/easyXDMInit.gsp?xdm_e=https%3A%2F%2Fweb.archive.org&amp;xdm_c=default9563&amp;xdm_p=1"></iframe><iframe name="easyXDM_default9564_provider" id="easyXDM_default9564_provider" frameborder="0" style="position: absolute; top: -2000px;" src="https://consumer.citruspay.com/CitrusConsumerPortal/login/easyXDMInit.gsp?xdm_e=https%3A%2F%2Fweb.archive.org&amp;xdm_c=default9564&amp;xdm_p=1"></iframe></body></html>
+<iframe name="easyXDM_default4449_provider" id="easyXDM_default4449_provider" frameborder="0" style="position: absolute; top: -2000px;" src="https://admin.citruspay.com/resources/admin/easyXDM/cors/index.html?xdm_e=https%3A%2F%2Fweb.archive.org&amp;xdm_c=default4449&amp;xdm_p=1"></iframe><iframe name="easyXDM_default4450_provider" id="easyXDM_default4450_provider" frameborder="0" style="position: absolute; top: -2000px;" src="https://mob.citruspay.com/citrus-mob/login/easyXDMInit.gsp?xdm_e=https%3A%2F%2Fweb.archive.org&amp;xdm_c=default4450&amp;xdm_p=1"></iframe><iframe name="easyXDM_default4451_provider" id="easyXDM_default4451_provider" frameborder="0" style="position: absolute; top: -2000px;" src="https://consumer.citruspay.com/CitrusConsumerPortal/login/easyXDMInit.gsp?xdm_e=https%3A%2F%2Fweb.archive.org&amp;xdm_c=default4451&amp;xdm_p=1"></iframe></body></html>
