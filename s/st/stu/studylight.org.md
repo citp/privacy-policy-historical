@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studylight.org privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407005622id_/https%3A//www.studylight.org/info/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studylight.org privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122165716id_/https%3A//www.studylight.org/info/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - StudyLight.org
 
@@ -49,3 +49,13 @@ User registration data can be corrected or updated by using our convenient [cont
 
 **delete/deactivate**  
 You may also use our convenient [contact form](https://web.archive.org/site-info/contact.cgi) to deactivate an account or delete an account and have it removed from our database.
+
+  
+
+
+Lectionary Calendar
+
+Tuesday, November 22nd, 2016  
+the _Week of Christ the King / Proper 29 / Ordinary 34_
+
+ADVERTISEMENT
