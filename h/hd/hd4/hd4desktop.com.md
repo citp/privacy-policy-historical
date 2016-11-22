@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hd4desktop.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331063325id_/http%3A//hd4desktop.pw/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hd4desktop.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122104520id_/http%3A//hd4desktop.online/privacy-policy) for the most accurate reproduction.*
 
-# hd4desktop.pw - Privacy policy
+# hd4desktop.online - Privacy policy
 
 **Cookies**
 
