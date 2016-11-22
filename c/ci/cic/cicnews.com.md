@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cicnews.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419220115id_/http%3A//www.cicnews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cicnews.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122161915id_/http%3A//www.cicnews.com/privacy.html) for the most accurate reproduction.*
 
-# CIC NEWS - Privacy Policy
+# CIC News - Privacy Policy
 
 CICNews.com is part of the Campbell Cohen Immigration Network (henceforth referred to as the CCIN or “our” or “we”) which is a division of The Campbell Cohen Law Firm. This privacy policy applies to the operations of all network properties and services within the CCIN family of websites, unless specifically indicated otherwise. The CCIN is a collection of Canadian Immigration related web properties which offer various customized and value-added services that facilitate the process of immigration to Canada.
 
