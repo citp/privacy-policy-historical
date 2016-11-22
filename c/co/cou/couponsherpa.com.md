@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the couponsherpa.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610010011id_/http%3A//www.couponsherpa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsherpa.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122200450id_/http%3A//www.couponsherpa.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for CouponSherpa.com | Coupon Sherpa
+# Privacy Policy for CouponSherpa.com
 
 **What information do we collect?**  
 We collect information from you when you register on our site or subscribe to our newsletter. 
