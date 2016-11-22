@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the utrader.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530155206id_/http%3A//en.utrader.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utrader.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122101239id_/http%3A//en.utrader.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 AUDJPY
 
-73.74400 / 73.74700
+73.74700 / 73.75000
 
 XAUUSD
 
-1662.840 / 1662.960
+1662.710 / 1662.810
 
 [online chat]()
 
