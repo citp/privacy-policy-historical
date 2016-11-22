@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cvisiontech.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430223036id_/http%3A//www.cvisiontech.com/legal/general/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvisiontech.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122105415id_/http%3A//cvisiontech.com/legal/general/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy - CVISION Technologies
 
