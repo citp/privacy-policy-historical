@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the mileageplusupdates.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317100409id_/http%3A//www.united.com/web/en-US/content/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mileageplusupdates.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122100349id_/http%3A//www.united.com/web/en-US/content/privacy.aspx) for the most accurate reproduction.*
 
 # Customer Data Privacy Policy | United Airlines
 
-[Home](https://web.archive.org/web/en-US/Default.aspx "United Airlines - Airline Tickets, Travel Deals and Flights on united.com") > **Customer Data Privacy Policy**
+Current Location within United.com Skip Navigation Links
+
+  * [Home](https://web.archive.org/web/en-US/Default.aspx)
+  * Customer Data Privacy Policy You are here. 
+
+
 
 ## Your privacy is important to us
 
@@ -222,7 +227,7 @@ In addition, some third party advertising technology used by United to deliver a
 
 Third party ad network providers, advertisers, sponsors and/or traffic measurement services may use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third-party cookies and other technologies are governed by each third party's specific privacy policy, and not this Privacy Policy.
 
-Third party ad networks may be members of either the Network Advertising Initiative (“NAI”) or About Ads-Digital Advertising Alliance (“DAI”). If they are members and you do not want to receive targeted advertisements from these third-party ad networks, you may opt out. Information as to member companies, the practices of such third-party ad networks and your choices regarding having information used by these companies, including how to opt out, can be found at either: <http://www.networkadvertising.org/optout_nonppii.asp> for NAI members or <http://www.aboutads.info/choices/> for DAI members. Information on how to opt out of the use of your information by DoubleClick is available at [http://www.google.com/policies/technologies/ads/]() and information on how to opt out of Google Analytics is available at <https://tools.google.com/dlpage/gaoptout>.
+Third party ad networks may be members of either the Network Advertising Initiative (“NAI”) or About Ads-Digital Advertising Alliance (“DAI”). If they are members and you do not want to receive targeted advertisements from these third-party ad networks, you may opt out. Information as to member companies, the practices of such third-party ad networks and your choices regarding having information used by these companies, including how to opt out, can be found at either: <http://www.networkadvertising.org/optout_nonppii.asp> for NAI members or <http://www.aboutads.info/choices/> for DAI members. Information on how to opt out of the use of your information by DoubleClick is available at <http://www.google.com/policies/technologies/ads/> and information on how to opt out of Google Analytics is available at <https://tools.google.com/dlpage/gaoptout>.
 
 Opting out of one or more NAI or DAI members means that only those particular members will no longer deliver targeted content or ads to you. It does not mean you will no longer receive any targeted content or ads on our websites or other non-United websites. If your browser is configured to reject cookies when you visit one of the above referenced opt-out pages and then you erase your cookies, use a different computer or change web browsers, your NAI or DAI opt-out may no longer be active.
 
