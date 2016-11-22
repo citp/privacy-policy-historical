@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topdogtrading.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211153411id_/http%3A//www.topdogtrading.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdogtrading.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122104130id_/http%3A//www.topdogtrading.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # stock market trading and forex trading strategy - PrivacyPolicy
 
