@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesandland.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618043611id_/http%3A//www.homesandland.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesandland.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122225110id_/http%3A//www.homesandland.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Homes & Land Privacy Policy | Homes & Land ®
 
