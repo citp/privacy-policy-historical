@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sykescottages.co.uk privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325093235id_/http%3A//www.sykescottages.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sykescottages.co.uk privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122162704id_/http%3A//www.sykescottages.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Sykes Cottages
 
@@ -402,6 +402,9 @@ Cookies are set by Facebook when visiting our site having previously logged into
 
 Facebook Privacy Policy  
   
+Criteo Email   
+|  Criteo.com |  | The purpose of Criteo Email is to find visitors of Criteo advertising clients' properties (websites, apps and newsletters) and send them personalized emails. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. |  To learn more or opt out of Criteo Email please see <http://privacy.criteoemail.com/gb/privacy-policy.html>  
+Google RLSA |  Google.com |  | Sykes Cottages use first party data (using cookies) to help personalise the google search results, using data taken from customers interactions with our products, services and website. Google can display these ads across the internet and their own properties. | User may opt-out of Google's use of cookies by visiting Google's [Ads Setting](https://www.google.com/settings/u/0/ads/authenticated?hl=en-gb) s or to learn more please see [here](https://support.google.com/adwordspolicy/answer/143465) .  
   
 
 
