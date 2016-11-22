@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstgiving.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603221030id_/http%3A//info.firstgiving.com/general-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstgiving.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122022159id_/http%3A//info.firstgiving.com/general-privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FirstGiving
 
@@ -15,7 +15,7 @@ This site uses cookies for some interactive features. A cookie is a small amount
 When you create a secure personal account on FirstGiving for the purpose of creating a fundraising page or event registration, we collect your title, name, email address, mailing address, your password, and occasionally information required by the nonprofit. We will automatically pass on your name and email and home addresses to the nonprofit that will benefit from the donations you are collecting. In all other instances, we will not pass on this information to any third party unless you give us your express consent.
 
 **THE INFORMATION WE COLLECT FROM YOU WHEN YOU DONATE  
-**If you donate on FirstGiving, we collect your first and last name, credit or debit card details (including card type, card number and expiry date) and billing address. We will only use your payment details for the purpose of processing your donation via our payment partner [Litle & Co](http://www.litle.com/). To find out more about the security of your payments, please read our [Security Policy](http://info.firstgiving.com/general-security/). We will automatically pass on your name and email and home addresses to the nonprofit that will benefit from your donation.
+**If you donate on FirstGiving, we collect your first and last name, credit or debit card details (including card type, card number and expiry date) and billing address. We will only use your payment details for the purpose of processing your donation via our payment partner Vantiv. To find out more about the security of your payments, please read our [Security Policy](http://info.firstgiving.com/general-security/). We will automatically pass on your name and email and home addresses to the nonprofit that will benefit from your donation.
 
 **EMAIL NEWSLETTERS FROM FIRSTGIVING**  
 We will send you email newsletters; however you can opt-out at any time as all newsletters from FirstGiving include the option to unsubscribe.
