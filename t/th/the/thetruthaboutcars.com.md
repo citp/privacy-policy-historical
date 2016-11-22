@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetruthaboutcars.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606225302id_/http%3A//www.thetruthaboutcars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruthaboutcars.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122202002id_/http%3A//www.thetruthaboutcars.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Truth About Cars
 
@@ -69,3 +69,41 @@ VerticalScope may at any time, without notice to you and in its sole discretion,
 If you have questions or suggestions about this privacy statement, or your own personal information, please [contact us](https://web.archive.org/contact/).
 
 ### Avoidable Contact Articles
+
+### Staff
+
+  * #### Editors
+
+  * [Mark Stevenson](https://web.archive.org/about/)  
+Managing Editor 
+  * [Steph Willems](https://web.archive.org/about/)  
+Associate Editor 
+  * [Timothy Cain](https://web.archive.org/about/)  
+Sales Analysis 
+  * [Jack Baruth](https://web.archive.org/about/)  
+Editor-at-Large 
+  * [Bark M.](https://web.archive.org/about/)  
+Advice Columnist 
+  * [Murilee Martin](https://web.archive.org/about/)  
+Junkyard Find Editor 
+  * [Sajeev Mehta](https://web.archive.org/about/)  
+Piston Slap Editor
+
+
+  * #### Contributors
+
+  * Vojta Dobes, Czech Republic 
+  * Matthew Guy, Canada 
+  * Kamil Kaluski, United States 
+  * Seth Parks, United States 
+  * Ronnie Schreiber, United States 
+  * Bozi Tatarevic, United States 
+  * Chris Tonn, United States
+
+
+  * #### Moderators
+
+  * Adam Tonge, United States 
+  * Kyree Williams, United States
+
+
