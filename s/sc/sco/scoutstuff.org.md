@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoutstuff.org privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603192927id_/http%3A//www.scoutstuff.org/retail/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoutstuff.org privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122103156id_/http%3A//scoutstuff.org/retail/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
