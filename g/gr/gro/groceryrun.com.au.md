@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groceryrun.com.au privacy policy that was archived on 2016-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160301093937id_/https%3A//www.groceryrun.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groceryrun.com.au privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122094759id_/https%3A//www.groceryrun.com.au/privacy) for the most accurate reproduction.*
 
 # GroceryRun.com.au | Privacy Policy
 
@@ -84,7 +84,7 @@ We take steps to protect the personal information we hold against loss, unauthor
 
 **5.1** Under the Privacy Act 1988 (Cth), you have certain rights to access the personal information we collect and hold about you. 
 
-**5.2** Generally, subject to the exceptions of APP 12.3, we will allow an individual access to the personal information we hold about them within a reasonable time after it is requested. When requesting such access please identify the precise type/s of information requested. You may make a request by contacting our [Help Centre](https://www.groceryrun.com.au/helpcentre) or by writing to us at: Privacy Inquiries, Catch Group, 767 Springvale Road, Mulgrave, Victoria 3170. 
+**5.2** Generally, subject to the exceptions of APP 12.3, we will allow an individual access to the personal information we hold about them within a reasonable time after it is requested. When requesting such access please identify the precise type/s of information requested. You may make a request by contacting our [Help Centre](https://www.groceryrun.com.au/helpcentre). 
 
 **5.3** We take those steps reasonable in the circumstances to ensure that the personal information that we collect, use and disclose is accurate, up to date and complete. Where an individual requests to correct information, we will take reasonable steps to correct the information, having regard to the purpose for which it is held. You may lodge a request to correct personal information in the manner outlined in clause 5.2 above. 
 
