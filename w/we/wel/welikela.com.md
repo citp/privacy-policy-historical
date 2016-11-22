@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the welikela.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610100041id_/http%3A//www.welikela.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welikela.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122062952id_/http%3A//www.welikela.com/privacy-policy) for the most accurate reproduction.*
 
-# We Like L.A. Privacy Policy and Legal Terms of Service
+# We Like L.A. Privacy Policy and Legal Terms of Service -
 
 The privacy of all We Like L.A. readers is extremely important to us and we have prepared this Privacy Policy to explain to you how we collect, use, and share information we obtain through your use of the this site and the services provided.
 
