@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planday.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506190422id_/http%3A//planday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planday.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122164504id_/http%3A//planday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Planday
 
