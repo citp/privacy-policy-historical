@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dakine.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602203411id_/http%3A//www.dakine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dakine.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122102111id_/http%3A//www.dakine.com/privacy-policy) for the most accurate reproduction.*
 
-# Dakine Customer Service : On-line Shop Privacy Policy | Dakine
+# Privacy Policy | Dakine
 
 ## Our Commitment to Your Privacy
 
