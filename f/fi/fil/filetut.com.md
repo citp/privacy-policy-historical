@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filetut.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325034935id_/http%3A//filetut.com/ps.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filetut.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122141510id_/http%3A//filetut.com/ps.html) for the most accurate reproduction.*
 
-# Filetut Storage - Easy way to share your files
+# Filetut Storage - Dosya paylaЕџД±mД±nД±n en kolay yolu
 
   * ### The Filetut Privacy Policy was updated on September 01, 2014. 
 
