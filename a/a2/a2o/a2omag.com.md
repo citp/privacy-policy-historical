@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a2omag.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625081512id_/http%3A//www.a2omag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a2omag.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122011529id_/http%3A//www.a2omag.com/privacy-policy) for the most accurate reproduction.*
 
 # A2.O Mag | Privacy Policy
 
