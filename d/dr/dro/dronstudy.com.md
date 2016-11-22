@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dronstudy.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614172154id_/http%3A//dronstudy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dronstudy.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122165017id_/http%3A//dronstudy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | dronstudy.com
+# Privacy Policy | DronStudy.com
 
-**dronstudy.com**   is an online coaching portal endeavoring constantly to provide you with [premium quality education](http://thetubeguru.com/) in terms of [high-quality video](http://dronstudy.com/latest-current-affairs/) lectures. Since we are strongly com/mitted to your right to privacy, we have drawn a privacy statement in place with regard to the information we collect from you.We use a secure server for online transactions to protect the information of our clients and Cookies are used to store the login information.
+**dronstudy.com**   is an online coaching portal endeavoring constantly to provide you with [premium quality education](http://thetubeguru.com/) in terms of [high-quality video](http://www.dronstudy.com/latest-current-affairs/) lectures. Since we are strongly committed to your right to privacy, we have drawn a privacy statement in place with regard to the information we collect from you.We use a secure server for online transactions to protect the information of our clients and Cookies are used to store the login information.
 
     1. **What information does dronstudy.com collect from you?**  
 Our web portal incorporates various communication ways like email address, first and last name, Mobile no. etc. We are committed to gather only that information which we will require to help you serve better.
@@ -12,6 +12,6 @@ We use these details for resolving any technical issues faced by user or creatin
     4. **Do all visitors have to pay?**  
 All users across India can browse our site free of cost for searching any course,  article or feature offered by our web portal. You are liable to pay only when you purchase/renew a course.
     5. **How dronstudy.com team can contact you?**  
-The dronstudy.com has trained staff members who may contact you for either [services](http://dronstudy.com/book/latest-current-affairs/) or sales through various communication medium like mobile no., landlines no., email, sms.
+The dronstudy.com has trained staff members who may contact you for either [services](http://www.dronstudy.com/book/latest-current-affairs/) or sales through various communication medium like mobile no., landlines no., email, sms.
 
 
