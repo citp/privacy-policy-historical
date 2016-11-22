@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the batterymart.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615062453id_/http%3A//www.batterymart.com/c-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batterymart.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122165007id_/http%3A//www.batterymart.com/c-privacy-statement.html) for the most accurate reproduction.*
 
-# BatteryMart.com Privacy Statement: BatteryMart.com
+# BatteryMart.com Privacy Statement - BatteryMart.com
 
 Battery Mart has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for BatteryMart.com.
 
