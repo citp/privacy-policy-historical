@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspirenignite.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606150021id_/http%3A//www.inspirenignite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspirenignite.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122230506id_/http%3A//www.inspirenignite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - All About Education
 
