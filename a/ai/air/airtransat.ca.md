@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the airtransat.ca privacy policy that was archived on 2016-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160307093056id_/http%3A//www.airtransat.com/en-CA/Legal-notice/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtransat.ca privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122091545id_/http%3A//www.airtransat.com/en-CA/Legal-notice/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Air Transat
 
 Review our privacy policy to see how Transat protects your personal information.
 
-### **Transat Personal Information and Privacy Protection Policy**
+## **Transat Personal Information and Privacy Protection Policy**
 
 Transat A.T. Inc. and its affiliates (hereinafter « **Transat** ») are committed to protecting your privacy. As a tour operator, distributor of travel services and air carrier, we attach particular importance to protecting the personal information that you share with us and we strive to maintain your trust in this regard. 
 
