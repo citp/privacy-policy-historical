@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vines9.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531053714id_/http%3A//vines9.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vines9.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122084323id_/http%3A//vines9.com/index.php/privacy) for the most accurate reproduction.*
 
-# Privacy - Technology, Health, Celebrities & Beauty News and Updates
+# Privacy
 
 We value your readership and respect your privacy.  
 We never sell your personal information to third parties. This policy may be revised or updated at any time, so please check back often to find the latest version.
