@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the steinhafels.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507010427id_/http%3A//www.steinhafels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steinhafels.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122154150id_/http%3A//www.steinhafels.com/privacy-policy) for the most accurate reproduction.*
 
-# Steinhafels Furniture - Privacy Policy
+# Steinhafels - Privacy Policy
 
 At Steinhafels Furniture, we respect and share your concerns regarding privacy. We keep information entered during ordering and registering confidential. 
 
