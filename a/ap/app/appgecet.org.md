@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appgecet.org privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613052458id_/http%3A//www.appgecet.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appgecet.org privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122022433id_/http%3A//www.appgecet.org/privacy.aspx) for the most accurate reproduction.*
 
 # AP PGECET- 2016
 
