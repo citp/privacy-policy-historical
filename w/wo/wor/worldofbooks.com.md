@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldofbooks.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501204915id_/http%3A//www.worldofbooks.com/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldofbooks.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122233505id_/http%3A//www.worldofbooks.com/policies) for the most accurate reproduction.*
 
 # Privacy Policy | World of Books
 
