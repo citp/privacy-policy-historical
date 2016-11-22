@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the apps2apk.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616070931id_/http%3A//www.apps2apk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apps2apk.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122140459id_/http%3A//www.apps2apk.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – FREE DOWNLOAD APK Android Apps, Games – Apps2apk
+# Privacy Policy - Apps2Apk.com
+
+## Privacy Policy
 
 Apps2Apk.com is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect our users, but also increase users confidence and ultimately their participation in online activities. The purpose of our policy is to inform you about the types of information we gather about you when you visit our site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of the information. Apps2Apk.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. By using our site, you consent to our website’s privacy policy and [Terms of use](http://www.apps2apk.com/terms-of-use "Terms of use").
 
@@ -8,24 +10,24 @@ How We Gather Information and Technologies We Use?
 
 This section provides information about the information we collect and how the technologies we utilize work.
 
-    * **Cookies.**  
+    *  **Cookies.**  
 We use “cookies.” The cookies we place on your computer are very small text files that uniquely identify your browser and may be sent to your computer or mobile device. They are stored on your hard drive and communicate with our servers only when you are visiting our websites. We use cookies to improve the quality of Apps2Apk.com. They allow us to monitor aggregate metrics such as total number of visitors and number of pages viewed. They also allow us to optimize Apps2Apk.com to make sure that we are delivering the best possible experience to our users. Your web browser is likely already set to accept cookies, yet you may choose to block cookies in your web browser’s settings. Note that blocking cookies may result in some features not being able to function properly. To learn more about controlling browser cookies visit:<http://www.aboutcookies.org/Default.aspx?page=1>.Additionally, we allow third parties that display advertisements, search listings, and other content on portions of Apps2Apk.com to set and access their cookies on your computer or device and any cookies are subject to the applicable third parties privacy policies and not ours. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to Apps2Apk.com in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. We also partner with a limited number of interest-based advertising companies to serve ads and/or collect certain information when you visit our websites. Interest-based advertising companies may use cookies to collect non-personally identifiable information during your visit to our websites in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this ‘interest-based advertising’ practice or to opt-out of this use of your anonymous information, you can go to the National Advertising Initiative’s website at<http://www.networkadvertising.org/managing/opt_out.asp.>
 
 
-    * **Device Information.**  
+    *  **Device Information.**  
 We collect information regarding the Internet browser, computer, tablet, mobile phone, smartphone or other device utilized to access Apps2Apk.com to ensure that Apps2Apk.com is optimized for those devices.
 
 
-    * **Analytics.**  
+    *  **Analytics.**  
 We use third party information, reports and analysis about the usage and browsing patterns of users of Apps2Apk.com. We allow the third party analytics companies to include web beacons and cookies on Apps2Apk.com. The collected information includes search terms, search parameters, click-throughs by users, and other similar information. We utilize this information to improve Apps2Apk.com and make sure we are delivering relevant content to our users. The Analytics we use do not identify individual users of Apps2Apk.com.
 
 
-    * **Log Files.**  
+    *  **Log Files.**  
 We may also automatically log certain anonymous information about visitors to Apps2Apk.com, including, but not limited to, where the user came from to visit our site, IP address, search terms utilized, browser type and a reading history of the pages viewed.
 
 
 
-**Use of Third Party Ad Networks and Social Networks**
+ **Use of Third Party Ad Networks and Social Networks**
 
 Apps2Apk.com expects its partners, advertisers to respect the privacy of our users. However, third parties, including our partners, advertisers and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on Apps2Apk.com page, certain content that is actually created or hosted by a third party. Also, through Apps2Apk.com you may be introduced to, or be able to access, information, Web sites, advertisements, features, contests or sweepstakes offered by other parties. Apps2Apk.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
 
