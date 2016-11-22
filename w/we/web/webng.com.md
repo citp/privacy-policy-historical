@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webng.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608110449id_/http%3A//www.dirhost.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webng.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122151341id_/http%3A//www.dirhost.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which DirHost.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [**DirHost.com**](https://web.archive.org/web/20160608110449id_/http%3A//www.dirhost.com/default.aspx) website ("Site"). This privacy policy applies to the Site and all products and services offered by DirHost.com.
+This Privacy Policy governs the manner in which DirHost.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [**DirHost.com**](https://web.archive.org/web/20161122151341id_/http%3A//www.dirhost.com/default.aspx) website ("Site"). This privacy policy applies to the Site and all products and services offered by DirHost.com.
 
   
 
@@ -80,4 +80,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [**contact us.**](https://web.archive.org/web/20160608110449id_/http%3A//www.dirhost.com/contact.aspx)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [**contact us.**](https://web.archive.org/web/20161122151341id_/http%3A//www.dirhost.com/contact.aspx)
