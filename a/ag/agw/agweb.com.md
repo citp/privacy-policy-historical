@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agweb.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612201917id_/http%3A//www.agweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agweb.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122070525id_/http%3A//www.agweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Agweb.com
 
@@ -12,7 +12,7 @@ Your Privacy
 
 Our goal at Farm Journal Media, Inc., (“FJM”) is to be your trusted, objective source of information for the business of farming and ranching. We want you to make the most of our services and feel confident while doing so online. This privacy statement explains our policy regarding the circumstances in which we may gather your personally identifiable information, how we may use such information, and who may have access to that information. This privacy statement also tells you what choices you have about providing personally identifiable information and how to access, change, or delete any personally identifiable information that we may have already collected.
 
-This privacy statement applies only to the FJM family of websites (including, but not limited to: AgWeb.com, FarmJournal.com, TopProducer.com, BeefToday.com, DairyToday.com, MyMachinery.com, and all features on or downloadable from those websites (collectively, the "FJM Web Sites" or “We”).  Note that this privacy statement does not apply to any mobile applications that FJM may make available through an FJM Web Site or online app stores. In addition, this privacy statement cannot and does not apply to any other companies' or organizations' web sites to which FJM Web Sites may link (“third-party” web sites). Such third-party web sites may have different or no privacy policies relating to their collection and use, if any, of personally identifiable information.
+This privacy statement applies only to the FJM family of websites (including, but not limited to: AgWeb.com, FarmJournal.com, TopProducer.com, Drovers.com, DairyHerd.com, MyMachinery.com, and all features on or downloadable from those websites (collectively, the "FJM Web Sites" or “We”).  Note that this privacy statement does not apply to any mobile applications that FJM may make available through an FJM Web Site or online app stores. In addition, this privacy statement cannot and does not apply to any other companies' or organizations' web sites to which FJM Web Sites may link (“third-party” web sites). Such third-party web sites may have different or no privacy policies relating to their collection and use, if any, of personally identifiable information.
 
 Personally Identifiable Information We Collect Online
 
