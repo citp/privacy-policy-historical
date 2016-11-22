@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelyosemite.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504175414id_/http%3A//www.travelyosemite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelyosemite.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122043050id_/http%3A//www.travelyosemite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yosemite National Park, CA
 
@@ -17,7 +17,7 @@ Aramark is committed to protecting any personal information that you may provide
 
 
 
-Information Collected
+**Information Collected**
 
 In general, you can visit this Web site without telling us who you are or revealing any information about yourself. Our web servers collect the domain names, not the e-mail addresses, of visitors. Our web servers also seek (as many Web sites do) to place a 'cookie' (a small data file) on your computer's hard drive which allows the server to determine the computer when it visits again, in order to track statistical information about navigation to and throughout certain areas of our site, and to Aramark services on other sites. This cookie is not used to obtain your name or any personal data, and the information that is tracked is used only for internal purposes, such as to improve site navigation and to measure the effectiveness of our promotional placements, and is not shared with anyone other than Aramark affiliates and contractors who assist Aramark in these efforts and are bound to confidentiality. However, if you prefer not to accept cookies, you can set your browser to reject them or to alert you before one is placed.
 
@@ -29,7 +29,7 @@ We do not partner with or have special relationships with any ad server companie
 
 This website is not intended for persons under 13 years of age. We do not knowingly solicit or collect personal information from or about children, and we do not knowingly market our products or services to children.
 
-Use of Collected Information
+**Use of Collected Information**
 
 Domain name information that we collect is not used to personally identify you and instead is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. We use this information to measure the use of our site and to improve the content of our site.
 
@@ -38,6 +38,8 @@ When other information is collected from you, such as your name and e-mail addre
 We may share the personal information you provide with other companies we have hired to provide services for us. These companies - our vendors - are contractually bound to use personal information we share with them only to perform the services we have hired them to provide. We do not share, sell, or lease personal information about you to any third parties for their marketing use. We will release information about you if you direct us to do so, if we are required by law to do so, or in other legally limited circumstances.
 
 If you register with one of Aramark's business units online, they may use this information to provide you with custom information about Aramark offerings in support of your business needs. They may also seek to place a 'cookie' (small data file) as discussed above in order to provide you with tailored information. You should review the privacy policy associated with that Aramark business' Web site for further information on privacy practices.
+
+If you stay in lodging operated by Aramark in a national park, we may share information about you, such as a mailing address, with a non-profit organization or organizations supporting the park.  We do not otherwise share, sell, or lease personal information about you to third parties for their direct marketing use.
 
 How can you stop receiving email from us?
 
@@ -51,27 +53,27 @@ Attn: Marketing Department
 Suite 240  
 Phoenix, AZ 85016
 
-Links to Other Sites
+**Links to Other Sites**
 
 Aramark's Web site may contain links to other sites. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content, security, or privacy practices employed by other sites.
 
-Security of Collected Information
+**Security of Collected Information**
 
 We maintain strict physical, electronic, and administrative safeguards to protect your personal information from unauthorized or inappropriate access. We restrict access to information about you to those Aramark workers who need to know the information to respond to your inquiry or request. Workers who misuse personal information are subject to disciplinary action.
 
-Access to Collected Information
+**Access to Collected Information**
 
 You may review and update the information that you provide to us through this Web site by contacting us as described below.
 
-Contacting Us
+**Contacting Us**
 
 If you have any questions about this privacy policy, please use the Contact page. We welcome your questions and suggestions about our privacy policy.
 
-Changes to this Policy
+**Changes to this Policy**
 
 Please check this privacy policy periodically to inform yourself of any changes. Although we reserve the right to modify or supplement this privacy policy, we will provide notice to you on this Web site of any major changes for at least 30 days following the change.
 
-Candidate Data Privacy Protection
+**Candidate Data Privacy Protection**
 
 I. OBJECTIVE
 
