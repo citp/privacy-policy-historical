@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expatwomen.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313215717id_/http%3A//www.expatwoman.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatwomen.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122132033id_/http%3A//www.expatwoman.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
