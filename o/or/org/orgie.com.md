@@ -1,119 +1,77 @@
-> *The following text is extracted and transformed from the orgie.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317120324id_/http%3A//bluecam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orgie.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122075506id_/http%3A//smutcam.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - BlueCams
+# Live Sexcams: XXX Adult Shows, Free Porn Chat - smutcam.com
 
-Effective Date: March 4, 2014
+## LAST REVISION: SEPTEMBER 19, 2013
 
-Last Modified: March 4, 2014
+PLEASE READ THIS smutcam.com PRIVACY POLICY ("Beronata Services PRIVACY POLICY") CAREFULLY. IT SETS FORTH THE PRACTICES OF Beronata Services, LTD ("Beronata Services") WITH RESPECT TO INFORMATION COLLECTED FROM BASIC MEMBERS, PREMIUM MEMBERS, GUESTS AND VISITORS TO smutcam.com WITH RESPECT TO ALL SERVICES PROVIDED BY Beronata Services OR SERVICES REQUIRING A LOG-IN OR PASSWORD (THE "SERVICES"). BY VISITING THE SITE, OR COMPLETING THE REGISTRATION PROCESS AND CLICKING THE "SUBMIT" BUTTON, YOU AGREE TO BE BOUND BY ALL OF THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY.
 
-This Privacy Policy applies to all of the products, services, and websites (collectively, our “Services”) offered by  (“BlueCams,” “we,” “our”). By using our Services and/or registering with BlueCams, you acknowledge and accept the provisions in this Privacy Policy and grant us permission to collect, store, and use the items of personal information described herein, so long as BlueCams adheres to the standards set forth more clearly below.
+Beronata Services DOES NOT KNOWINGLY COLLECT PERSONAL DATA FROM CHILDREN. IF YOU ARE UNDER THE AGE OF EIGHTEEN (18), PLEASE DO NOT GIVE US ANY PERSONAL DATA. IF YOU HAVE REASON TO BELIEVE THAT ANYONE UNDER 18 HAS PROVIDED PERSONAL DATA TO Beronata Services, PLEASE CONTACT US, AND WE WILL ENDEAVOR TO DELETE THAT INFORMATION FROM OUR DATABASES
 
-We reserve the right to amend this Privacy Policy at any time and provide such amendments to you by posting a revised version on our website. If the revised version includes a substantial change, we will provide you with thirty (30) days’ notice prior to the effectiveness thereof by posting notice of the change in a prominent place on the BlueCams website, such as presenting to you a click-through page immediately following your account login. Otherwise, in the case of insubstantial changes, the revised version will be effective at the time we post it. In any event, we will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most changes will be minor. Each version of this Privacy Policy will be identified at the top of the page by its Last Modified date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
+Beronata Services may change the Privacy Policy at any time by posting a revised version in place of this document. The last revision will be indicated at the top of this document and takes precedence over all previous versions. You agree to review the Privacy Policy periodically to be aware of such changes. If any change is unacceptable to you, you may terminate your membership as provided in your Subscriber Agreement. Your use, or continued use of the Services following the Effective Date of any such change to the Privacy Policy constitutes acceptance of all such changes.
 
-If you have any questions about this Privacy Policy, please feel free to contact us through our website, by email at [support@chaturbate.com](mailto:support@chaturbate.com), or by phone at 1-949-274-7960.
+## 1\. Introduction.
 
-**Information Collected**
+1.1. General.
 
-In order to provide our full range of Services, we may collect the following types of information:
+The following presents important information relating to Beronata Services's Privacy Policy. Because protecting your privacy is very important to Beronata Services, we have established a privacy policy that safeguards your personal information, and are committed to protecting its confidentiality. We will limit the collection and use of personally identifiable information ("Individual Information"), to what is necessary to administer our business, provide you with the quality Services, and offer you opportunities we think will be of interest. We will NOT disclose any Individual Information unless (i) we believe that such action is necessary to comply with applicable law or valid legal process (including without limitation search warrants, court orders, or providing assistance to law-enforcement authorities investigating the alleged commission of a crime), (2) with respect to payment processing and billing (e.g., to a credit-card bank may help us prove the legitimacy of a credit-card charge or bill), (3) if the disclosure of Individual Information is necessary to provide services that third parties provide to you on Beronata Services's behalf, or (4) as otherwise set forth herein (i.e., in Section 5 hereunder).
 
-Information you provide. When you register for a username, we ask you for personal information (such as your email address, username, and an account password). In order to improve the quality of our Services and to provide you with a better user experience, we may combine the information you submit with information provided by third parties.
+1.2. Types of Individual Information.
 
-Financial Data. Some portions of the BlueCams website are provided as paid services. Accordingly, our payment processor may collect billing information from you to facilitate your purchase of Services from us. Such information may include a credit card number, the associated card’s expiration date, and a billing address. WE DO NOT HAVE ACCESS TO YOUR FINANCIAL DATA, WHICH IS COLLECTED BY OUR PAYMENT PROCESSOR. Financial data that is collected by our payment processor will only be used as necessary to initiate and complete any orders placed by your account. Credit card purchases for the pay services offered on the BlueCams site are processed via industry standard encryption through third-party processors, which processors only use your information the purpose of processing order placed by your account. Financial Data is considered private information and will not be shared with us, or with third parties, except with your authorization and as necessary to carry out orders placed by you with the understanding by you that such transaction(s) may be subject to the rules and policies of such third parties. Financial or other data provided by you to any companies or websites advertising on our website are not governed by this Privacy Policy. Any information provided by you to a third party, and any transaction with such a third party, is subject to that third party’s terms and conditions and privacy policy.
+Individual Information is any information, data or records that relate to your Beronata Services membership or use of Beronata Services and identifies you or your individual Member account. The three types of Individual Information are; (1) "identity and billing information," including without limitation your name, street address, telephone number, billing information, and any account information associated with your screen names; (2) "navigational and transactional information," including without limitation information about which pages or products or services you access through Beronata Services; and (3) "private communications," including without limitation the contents of e-mail, or private chat room communications.
 
-Demographic Information. Each time you access our Services, our servers may automatically record in their server logs information that your browser sends whenever you visit a website. These server logs may include information such as your Internet Protocol or “IP” address, the date and time of your request, browser type, browser language, and one or more cookies (see description below) that may uniquely identify your browser. Additionally, we may collect other available demographic information, such as zip code, search history, browsing history, and user history. Aggregate, non-individual membership demographic information may be shared with third parties with whom we have a direct or indirect relationship who may offer products or services we believe you may be interested in.
+## 2\. Member Identity and Billing Information.
 
-Links. We may present links that include codes that enable us to track whether these links have been followed. This information is used to improve the quality of our advertising and customized content, as well as the organization and layout of our website.
+2.1. Collection and Storage.
 
-Cookies. Assuming your browser is configured to accept them, when you visit our websites, we will send one or more cookies to your computer or other device. A cookie is a small file containing a string of characters that uniquely identifies your browser. We may also set one or more cookies in your browser when you click on an ads or other links presented on our website. Cookies make it possible to store user preferences and record which portions of our website you and other users are using the most. We use cookies for the purposes of preventing fraud and improving the quality of our Service. BlueCams uses what are known as "evercookies" which may appear on your system despite certain settings and software to block standard cookies. Therefore, the evercookie works to ensure that you do not inadvertently clear your cookies and lose your preferences and ability to use BlueCams as you have selected and to ensure that we keep people who breach our rules off of BlueCams for the well-being of the BlueCams community.
+We maintain various types of identity and billing information ("Billing Information"), including without limitation, your name, street address, telephone number(s), length of membership, and payment information. We may also keep information on your communications with our customer service department, employees or contractors, and general account history, such as accumulated usage credits or written complaints relating to your account. We safeguard Billing Information from unauthorized access and only authorized employees or agents who need to carry out legitimate business functions are permitted access to Individual Information. Beronata Services employees who violate Beronata Services's privacy policies are subject to disciplinary actions, including possible termination. We may use agents, who are bound by strict confidentiality guidelines, to perform storage, processing, and other limited functions on Beronata Services's behalf.
 
-User communications. We may retain communications that you send to BlueCams by email or otherwise, in order to process your inquiries, respond to your requests, and improve our Services.
+2.2. Use.
 
-Affiliated BlueCams Services on other sites. From time to time, we may offer some of our Services on or through other websites. In the event that we do offer such services, it is possible that personal information you provide to those sites may be sent to BlueCams to facilitate delivery of those services. We will process such information under this Privacy Policy as if the information had been submitted directly from you to BlueCams. Any affiliated site through which our Services are offered will likely have its own privacy policy, which may be very different from ours. It is very important for you to review the privacy policies for such affiliated sites before submitting personal information to them.
+We use Billing Information to administer our business, ensure that you are properly billed and to communicate with you if the need arises.
 
-Other sites. This Privacy Policy only applies to Services offered by BlueCams. We are not able to exercise control over sites that are linked to from within our various Services. These other sites may collect data, set their own cookies in your browser, or ask you to provide personal information.
+2.3. Disclosure.
 
-**Use of Personal Information**
+Except as set forth in Section 5 herein, our policy is not to disclose Billing Information to third parties, unless required to do so by applicable law or valid legal process (including without limitation search warrants, court orders or providing assistance to law-enforcement authorities investigating the alleged commission of a crime) or as required to process any payments made to Beronata Services by you or Beronata Services bills. Beronata Services, at its sole discretion, reserves the right to make exceptions to this policy in extraordinary circumstances (including without limitation a bomb or suicide threat, or instances of suspected illegal activity) on a case-by-case basis. When feasible, we do allow our Members to access and verify their Billing Information. We also allow our Members to request corrections to this information. Beronata Services intends to abide by applicable laws governing the disclosure to governmental entities of Individual Information and other records. If we are under a legal obligation to disclose Individual Information to a private citizen or entity, we may make efforts under the circumstances to notify the affected Member(s) in advance of releasing it in order to provide the Member(s) an opportunity to pursue any available legal protection.
 
-BlueCams processes personal information only for the purposes described in this Privacy Policy. In addition to the reasons set forth above, such purposes also include:
+2.4. Compelling Obligation.
 
-Providing our Services (which includes displaying customized advertising and other content);
+Although Beronata Services will take reasonable measures not to disclose Billing Information, we may be compelled to do so in the good faith belief that such action is reasonably necessary (a) to comply with the law; (b) to comply with legal process; (c) to enforce Beronata Services's terms and conditions; (d) to respond to claims that any content violates the rights of third parties; or (e) to protect the interests of Beronata Services or others.
 
-Auditing, research, and analysis (to maintain, protect, and improve our Services);
+## 3\. Navigational and Transactional Information.
 
-Technical diagnostics (to ensure our network is functioning as expected);
+3.1. Collection.
 
-Protecting the rights or property of BlueCams or our users, or third parties;
+We may collect and store certain navigational and transactional information ("Navigational Information"), such as data on the choices you make from the range of available services, and the times and ways you use Beronata Services.
 
-To comply with applicable law, to cooperate with law enforcement and the court system;
+3.2. Use.
 
-Creating new Services; and
+Beronata Services uses Navigational Information to personalize Beronata Services and for programming and editorial research. For example, we may use this information to understand our Members' reactions to menu items, and Services, and to customize Beronata Services based on our Members' interests.
 
-Marketing and sales of advertising.
+3.3. Disclosure.
 
-We process personal information on our servers, which are located in the United States of America and in other countries. As a result, there exists the possibility that we may process your personal information on a server that is not located in your home country. In some cases, we may process personal information at the request of third parties and according to their instructions, such as our advertising partners. We will treat all personal information processed at the request of a third party exactly as if we had collected the processed personal information ourselves.
+Except as set forth in section 5, Beronata Services will not disclose to third parties Navigational Information (e.g., what you view or access through Beronata Services), except to comply with applicable law or valid legal process (including without limitation search warrant, court order, or providing assistance to law-enforcement authorities investigating the alleged commission of a crime).
 
-**Information Communicated via Video Chat**
+## 4\. Private Communications.
 
-As the BlueCams website features interactive video chat services, it is possible for you to communicate identifying information about yourself to other users who are viewing a live video stream from your computer. You should be aware that any such communication is made directly to those users viewing the live video stream, and not to BlueCams. We are not responsible for the privacy of personal identifying information that you communicate via video chat to users who are viewing a live video stream from your computer. Accordingly, you should refrain from sharing personal information via live video stream to other users of BlueCams services.
+4.1. Collection and Storage.
 
-**California Residents**
+The Beronata Services computer system automatically records and retains all chat room communications ("Communications"). However, to keep copies of any communications, you should store them on your personal computer hard drive or in print form. You agree that Beronata Services may employ e-mail virus-checking technology to protect its system and its members from viruses.
 
-If you are a California resident, you have the right to receive: a) information identifying any third-party company(ies) to whom we may have disclosed, within the past calendar year, personal information pertaining to you and your family for our direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information you must make a request in writing. Your request will not be processed if it does not include your name and email address, the URL for the website you visited, and a return address. We will not honor such requests more than once per calendar year. Please email your request to [support@chaturbate.com](mailto:%20support@chaturbate.com).
+TO THE EXTENT NECESSARY, YOU EXPLICITLY CONSENT AND AGREE TO Beronata Services's RECORDATION OF ALL CHAT ROOM COMMUNICATIONS, AND HEREBY WAIVE ANY RIGHTS YOU MAY HAVE UNDER STATE, FEDERAL, OR LOCAL LAW, INCLUDING BUT NOT LIMITED TO THE STORED COMMUNICATIONS ACT, STATE EAVESDROPPING LAWS, AND THE ELECTRONIC COMMUNICATIONS PRIVACY ACT.
 
-**Privacy Principle: Choice**
+4.2. Use.
 
-Use of our Services requires registering for a username. When you sign up for our Services, we ask you to provide personal information, such as your email address. We will ask for your consent prior to using any provided personal information in any way that is different from the stated purpose for which that information was collected.
+Beronata Services treats Communications as strictly confidential. Beronata Services does not access, use or disclose the contents of Communications, except in limited circumstances as specifically provided herein. You acknowledge that private communications directed at a person or entity, including Beronata Services, may be used or disclosed by the intended recipient(s) without restrictions relating to privacy or confidentiality.
 
-In the event that we develop a new use for personal information that is not described in this Privacy Policy, you will be given the opportunity to opt out of such use. We will not collect or use sensitive information, such as racial or ethnic origins, sexuality, politics, religion, or medical information, for any purpose not described herein.
+4.3. Disclosure.
 
-Use of our Service may require you to configure your browser settings to allow cookies to be stored on your computer or other browsing device. You should be aware that the Services might not function properly without cookies enabled.
+Beronata Services does not access or disclose the contents of Communications (e.g., e-mail, Member-created private rooms, online communications), unless it in good faith believes that such action is necessary (1) to comply with applicable law or valid legal process (including without limitation search warrants, court orders or providing assistance to law-enforcement authorities investigating the alleged commission of a crime); (2) to protect the rights or property of Beronata Services; or (3) in emergencies when Beronata Services believes that physical safety is at risk. Beronata Services reserves the right to treat as public any private chat room whose directory or room name is published or becomes generally known or available.
 
-**Privacy Principle: Onward Transfer**
+## 5\. Sale, Merger or other Corporate Transaction.
 
-BlueCams may from time to time share personal information with individuals or other companies. In the event that we share information with companies or individuals not a part of BlueCams, we will only do so in the following circumstances:
+Beronata Services reserves the right to disclose any Individual Information to any person or entity in the event of a sale (of all or a portion of Beronata Services's assets), merger, reorganization, dissolution or similar event.
 
-  * If we have asked for and received your consent. You should be aware that when you register for a username, during the sign up process, you provide us with permission to share your personal information with trusted third parties (e.g., promotional partners and advertisers) so that they can promote their products and services and those of their affiliates and partners based on your preferences and interests. You may “opt out” of such disclosure(s) to the extent they include your personally identifiable information by sending an email at any time to support@chaturbate.com indicating your intent to do so.
-  * For the purpose of processing personal information on our behalf, we may provide personal information to trusted persons or businesses. We will require these third-party processors to adopt appropriate confidentiality and security measures. Further, all third-party processors will be provided with a copy of this Privacy Policy and instructions that all processing of personal information must be done in accordance herewith.
-  * We have a good-faith belief that access, use, preservation, or disclosure of your personal information is reasonably necessary: (a) to satisfy any applicable law, regulation, legal process or enforceable governmental request; (b) to enforce applicable Terms of Service, including investigation of potential violations thereof; (c) to detect, prevent, or otherwise address fraud, security or technical issues; or (d) as required or permitted by law, to protect against harm to the rights, property or safety of BlueCams, its users, or the public.
+## 6\. Questions.
 
-
-
-This Privacy Policy may be superseded by an acquiring party’s policies in the event that BlueCams becomes involved in a merger, acquisition, or any form of sale of some or all of its assets.
-
-We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who viewed a certain page in our website, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.
-
-**Privacy Principle: Security**
-
-Appropriate security measures are taken to protect your personal information against unauthorized access to or unauthorized alteration, disclosure, or destruction. These measures include internal reviews of our data collection, storage, and processing practices. Physical security measures are also taken to prevent unauthorized access to systems where your personal information is stored.
-
-Your personal information is revealed to our employees, contractors, and agents on a need-to-know basis in operating, developing, or improving our Services. As a condition of their employment or association with BlueCams, these individuals are bound by confidentiality obligations. If they fail to maintain the confidentiality of your personal information, they may be subject to discipline, including termination and criminal prosecution.
-
-**Privacy Principle: Data Integrity**
-
-BlueCams processes personal information only for the purposes described in this Privacy Policy. We review our data collection, storage, and processing practices to ensure that we only collect, store, and process only that personal information which is needed to provide or improve our Services or as otherwise permitted hereunder. Although we depend on our users to keep their own personal information up to date, we also perform reasonable actions to ensure that the personal information we process is accurate, complete, and current.
-
-**Privacy Principle: Access**
-
-We make good-faith efforts to provide you with access to your personal information that we have collected. In the event that such information is inaccurate, we will endeavor to provide facilities that allow you to either correct this data or to delete it, provided we are not otherwise required to retain such data by law or for legitimate business purposes. Before processing requests to access, delete, or alter such data, we ask individual users to identify themselves and the information requested to be accessed, deleted, or corrected. We may refuse to process requests: (i) that require disproportionate technical effort; (ii) that are unreasonably repetitive or systematic; (iii) that would be extremely impractical (for instance, requests concerning information residing on backup tapes); (iv) that jeopardize the privacy of others; or (v) for which access is not otherwise required. Unless providing access and correction service would involve a disproportionate effort, we will perform it free of charge.
-
-**Privacy Principle: Enforcement**
-
-We regularly review our compliance with this Privacy Policy. If you feel there has been a specific instance where we have failed to comply with this Privacy Policy, please bring this matter to our attention by sending a detailed description of such noncompliance to us at email [support@chaturbate.com](mailto:%20support@chaturbate.com).
-
-It is our policy to contact the complaining user regarding his or her concerns when we receive formal written complaints at this address. In order to resolve any complaints regarding the transfer of personal data that cannot be resolved between BlueCams and an individual, we will cooperate with the appropriate regulatory authorities, such as local data protection authorities.
-
-**Email Communications**
-
-By providing your email address in connection with the creation of an account with Chaturbate, you thereby demonstrate your consent to receive email communications from us. Email addresses, when provided, are only used for friend notifications, broadcast and payout reminders, and account verification. Your email address is never sold or shared. If you wish to "opt-out" of all future email communications relating to Chaturbate, you may do so by taking the following steps:
-
-While logged in on the site, visit the "MY PROFILE" page using the link appearing the in upper right-hand area of the page.
-
-From the "MY PROFILE" page, click on the "Settings & Privacy" tab.
-
-Delete your email address from the "E-mail address" input box under the "Personal Data" heading
-
-Click on the "Update Settings" button link near the bottom of the "MY PROFILE" page.
-
-After opting out, please allow up to 10 days for your email to be fully removed from our mailing list.
-
-If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site, by email at [support@chaturbate.com](mailto:%20support@chaturbate.com), or by phone at 1-949-274-7960.
+If you have any questions whatsoever regarding Beronata Services's Subscriber Privacy Policy, e-mail [support@beronata.com](mailto:support@beronata.com).
