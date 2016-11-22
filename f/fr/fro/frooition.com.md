@@ -1,18 +1,10 @@
-> *The following text is extracted and transformed from the frooition.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613184740id_/http%3A//www.frooition.com/us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frooition.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122125329id_/http%3A//www.frooition.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Our Privacy Policies - Frooition Worldwide Designs US
+# Frooition Privacy Policies Frooition Worldwide Designs
 
-Frooition.com Located at 
+**This service is maintained by Frooition Inc doing business as Froo.com.**
 
-Unit E Silverend Business Park, Brettell Lane, Stourbridge, West Midlands. DY5 3LG. United Kingdom. 
-
-10474 Santa Monica Blvd, Suite 200, Stourbridge, Los Angeles. CA 90025. United States. 
-
-Phone: 01384 480810 Phone: 512 831 7600
-
-<http://www.frooition.com/>
-
-This service is maintained by Troubleshooter LLC doing business as Froo.com. Your privacy is important to us. We use the information we collect about you to provide an improved service for both our customers and visitors. We want to help you maintain your privacy on the internet.   
+Your privacy is important to us. We use the information we collect about you to provide an improved service for both our customers and visitors. We want to help you maintain your privacy on the internet.   
 This document explains our policy regarding any personal information which you might supply to us when you visit our site and associated services.
 
 **1.1 Information Collection and Use**  
