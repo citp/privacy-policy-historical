@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techtechnik.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507211208id_/http%3A//www.techtechnik.com/privacy-police) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techtechnik.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122071841id_/http%3A//www.techtechnik.com/privacy-police) for the most accurate reproduction.*
 
 # Privacy Police
 
