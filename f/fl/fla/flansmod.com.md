@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flansmod.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608061833id_/http%3A//www.flansmod.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flansmod.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122120726id_/http%3A//flansmod.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Flan's Mod
 
