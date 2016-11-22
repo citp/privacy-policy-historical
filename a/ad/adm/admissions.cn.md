@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admissions.cn privacy policy that was archived on 2015-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150922134720id_/http%3A//www.admissions.cn/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admissions.cn privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122184133id_/http%3A//www.admissions.cn/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Study in china & Admissions.cn
 
