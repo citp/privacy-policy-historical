@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricena.com privacy policy that was archived on 2015-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150717015247id_/http%3A//ae.pricena.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricena.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122135345id_/http%3A//ae.pricena.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Pricena - Privacy Policy
 
@@ -39,3 +39,6 @@ We have in place appropriate technical and security measures to prevent unauthor
 ## 4\. Your rights
 
 If you are concerned about your data you have the right to request access to the personal data which we may hold or process about you. You have the right to require us to correct any inaccuracies in your data free of charge. At any stage you also have the right to ask us to stop using your personal data for direct marketing purposes.
+
+Disclaimer: Pricena.com only acts as online price comparison website, all product names, trademarks, service marks, logos, brands, industrial models and designs featured or referred to within this site are the sole property of their respective owners and/or right holders and are only provided for the purpose of this site. Pricena.com acts as independent party and shall not be considered the representative, agent, employee, sponsor, joint venture partner or otherwise of such owners or right holders. © 2016 Pricena FZ LLC. All rights reserved.  
+
