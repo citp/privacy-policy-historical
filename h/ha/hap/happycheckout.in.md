@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the happycheckout.in privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408042159id_/http%3A//happycheckout.in/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happycheckout.in privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122213749id_/http%3A//happycheckout.in/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy of happycheckout
 
 The privacy of your personal information is important to us. Here is information on what types of personal information we receive and collect when you use and visit our site happycheckout.in, and how we safeguard your information. We never sell your personal information to third parties.
 
