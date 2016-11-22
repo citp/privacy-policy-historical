@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the outletpc.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324183655id_/http%3A//www.outletpc.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outletpc.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122161410id_/http%3A//www.outletpc.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# OutletPC.com: Privacy Policy
 
 _Information collected on the OutletPC website is used for billing, shipping, and marketing purposes only. Information about our customers will not be given out or sold to a 3rd party. Billing information is encrypted and transmitted over a secure SSL server. The OutletPC website employs the usage of third party tracking and cookies to track data._
 
