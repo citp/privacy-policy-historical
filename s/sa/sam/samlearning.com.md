@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the samlearning.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414053655id_/https%3A//www.samlearning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samlearning.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122074730id_/https%3A//www.samlearning.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SAM Learning
+# Privacy Policy - SAM Learning
 
 At SAM Learning Ltd., we take the privacy of our users seriously. This Privacy Statement describes the information we collect on our website and how we use it. This document covers data supplied by individuals. We have a separate policy for student data sent to SAM Learning by, or under the direction of, schools. This is set out in the Student Data Policy Statement.
 
