@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onsemi.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608020936id_/http%3A//www.onsemi.com/PowerSolutions/content.do%3Fid%3D1109%26lcnt%3Dfoot) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onsemi.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122020337id_/http%3A//www.onsemi.com/PowerSolutions/content.do%3Fid%3D1109%26lcnt%3Dfoot) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,7 +48,7 @@
 > 
 > ## Children's Privacy
 > 
-> Our site includes areas where you can provide comments about our products and services, and includes links to social media sites that also allow you to post comments about our products and services. Any comments that you post are visible to the public and thus you should have no expectation of privacy with regard to information that you post. We monitor our social media sites and may delete any comments that are offensive, contain links to irrelevant blogs or websites, or are completely unrelated. Also, the third party social media sites that provide platforms for our information have their own privacy policies that govern their sites. 
+> ON Semiconductor does not collect the personal information of children under the age of 13. If we learn that we have collected children's personal information we will delete the information from our systems unless you provide verifiable parental consent. ON Semiconductor requires that you be 18 years of age to work in any of our facilities. 
 > 
 > ## Your California Privacy Rights
 > 
