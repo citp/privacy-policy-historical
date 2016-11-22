@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the survivopedia.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418210124id_/http%3A//www.survivopedia.com/wp-content/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survivopedia.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122041607id_/http%3A//www.survivopedia.com/wp-content/privacypolicy.html) for the most accurate reproduction.*
 
 # Survivopedia|Terms and Conditions
 
@@ -52,7 +52,7 @@ This online privacy policy applies only to information collected through our web
 
 ## Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms And Conditions](https://web.archive.org/web/20160418210124id_/http%3A//www.survivopedia.com/wp-content/%C3%A2%E2%82%AC%C2%9Dhttp://www.survivopedia.com/%C3%A2%E2%82%AC%C2%9D)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms And Conditions](https://web.archive.org/web/20161122041607id_/http%3A//www.survivopedia.com/wp-content/%C3%A2%E2%82%AC%C2%9Dhttp://www.survivopedia.com/%C3%A2%E2%82%AC%C2%9D)
 
 ## Your Consent
 
