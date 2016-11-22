@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linksoflondon.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323072851id_/http%3A//www.linksoflondon.com/gb-en/privacy-security/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksoflondon.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122133029id_/http%3A//www.linksoflondon.com/gb-en/privacy-security/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Links of London
 
 **Data Security**
 
