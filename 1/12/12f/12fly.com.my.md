@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the 12fly.com.my privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506055810id_/http%3A//www.12fly.com.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12fly.com.my privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122101453id_/http%3A//www.12fly.com.my/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Posted on Tuesday, 31 July 2012 15:48 
-
-* * *
 
 “12FLY” provides this Privacy Policy to inform users of this mobile application (the “App”, and collectively with the Site, the "Services") about our policies and procedures regarding the collection, use and disclosure of personally identifiable information.
 
