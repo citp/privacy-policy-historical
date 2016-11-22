@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailysale.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331184655id_/http%3A//www.dailysale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailysale.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122011959id_/http%3A//www.dailysale.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,6 +15,10 @@ You will provide us information about yourself, your firm or company, and your p
 Email Information
 
 If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses.
+
+Newsletter Subscription
+
+In subscribing for a newsletter you agree that DailySale.com may use the data you entered to inform you by e-mail about promotional deals and the contents and/or products selected by you. You may revoke your consent at any time with effect for the future by emailing [support@dailysale.com](mailto:support@dailysale.com). You may also unsubscribe from any newsletter via the unsubscribe link provided at the end of each newsletter.
 
 Web Site Use Information
 
