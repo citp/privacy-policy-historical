@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the todayshotwalkins.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616112503id_/http%3A//www.todayshotwalkins.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todayshotwalkins.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122111652id_/http%3A//www.todayshotwalkins.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy ~ Todays Hot Walkin
+# Privacy Policy
 
 This Privacy Policy governs the exact manner in which our site  **Todays Hot Walkin**  uses, collects, maintains and discloses the information gathered from the readers (each, a “User”) of the [http://www.todayshotwalkins.com](http://www.todayshotwalkins.com/) website (“Site”). This privacy policy applies to the entire website and all products and services offered by the Todays Hot Walkin.
 
