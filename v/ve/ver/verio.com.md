@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verio.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506031508id_/http%3A//www.verio.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verio.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122010541id_/http%3A//www.verio.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # Verio's Privacy Policy
 
