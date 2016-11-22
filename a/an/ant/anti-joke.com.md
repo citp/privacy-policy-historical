@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anti-joke.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610213337id_/http%3A//anti-joke.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anti-joke.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122140441id_/http%3A//www.anti-joke.com/privacy-policy) for the most accurate reproduction.*
 
-# Anti Joke - Funny Anti Jokes
+# Policy of the Privacy - Anti Joke
 
 ## Privacy Policy for the HORSE HEAD HUFFER network
 
