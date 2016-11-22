@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bencarson.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529062932id_/https%3A//www.bencarson.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bencarson.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122234115id_/http%3A//bencarson.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Official Site Dr. Ben Carson
 
