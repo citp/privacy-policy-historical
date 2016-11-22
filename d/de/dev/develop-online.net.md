@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the develop-online.net privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320181937id_/http%3A//www.develop-online.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the develop-online.net privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122153906id_/http%3A//www.develop-online.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Develop
 
@@ -6,7 +6,7 @@ NEWBAY MEDIA LIMITED (“We” or “Our”) are committed to protecting and res
 
 This policy (together with our [Terms of Use](http://www.develop-online.net/terms-and-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is NewBay Media Ltd, Suncourt House, 18-26 Essex Road, London, N1 8LN, UK.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is NewBay Media Ltd, Emerson Studios, 4th Floor, 4-8 Emerson Street, SE1 9DU.
 
 Our nominated representative for the purpose of the Act is Stuart Moody.
 
@@ -84,7 +84,7 @@ This web site may contain links to other sites. We cannot be held responsible f
 
  **Your rights**
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at NewBay Media Ltd, Suncourt House, 18-26 Essex Road, London, N1 8LN, UK
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at NewBay Media Ltd, Emerson Studios, 4th Floor, 4-8 Emerson Street, SE1 9DU
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
 
@@ -96,4 +96,4 @@ The Act gives you the right to access information held about you. Your right of 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
 **Contact**  
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to NewBay Media Ltd, Suncourt House, 18-26 Essex Road, London, N1 8LN, UK.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to NewBay Media Ltd, Emerson Studios, 4th Floor, 4-8 Emerson Street, SE1 9DU.
