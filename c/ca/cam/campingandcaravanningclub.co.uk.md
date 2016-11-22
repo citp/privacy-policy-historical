@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campingandcaravanningclub.co.uk privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618192855id_/http%3A//www.campingandcaravanningclub.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campingandcaravanningclub.co.uk privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122172705id_/http%3A//www.campingandcaravanningclub.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Camping and Caravanning Club
 
@@ -45,7 +45,8 @@ If we are working with any third party partners and you provide us with any data
 
 
 We may use the above marketing channels to contact you with information or questions about your membership, your booking(s), or reviews for example, with reminders and updates.  
-We collect and use details only if we have your permission or we have sensible business reasons for doing so, for example we need to collect your address to manage your membership subscription and/or any bookings you have made with us.  
+We collect and use details only if we have your permission or we have sensible business reasons for doing so, for example we need to collect your address to manage your membership subscription and/or any bookings you have made with us.
+
 What information do we collect?
 
 **We collect information on you:**
@@ -103,6 +104,8 @@ The Club will use the information you provide to us in order to:
 
 We will not share your personal information with any other 3rd party partners for marketing purposes unless you have given us your express permission. For example we may run a competition and the provider of the prize may like to also send promotional messages to you. At the point of entering the competition you will be given the option to allow us to share your data. If we have your permission, we will share your information only with other organisations stated. We may share your data with our dedicated Member Service providers (Club Care Insurance, RAC Arrival, Club Autosave, Club Secure) this is so they are able to administer their services to you. 
 
+The Club's election process also requires us to share your data with a third party, MI-Voice, who manages elections on our behalf. The purpose is solely for the administration of the election and no data is retained once this process is complete.
+
 ### Legal information and how to contact us
 
 The data controller is the organisation responsible for protecting information and, in our case, is The Camping and Caravanning Club, Greenfields House, Westwood Way, Coventry, CV4 8JH.
@@ -117,4 +120,4 @@ If you are not satisfied with the way your complaint was handled, you may be abl
 
 Should we elect to change our Privacy Policy we will post the changes here. Where the changes are significant, we may also choose to email our members/users with the new details. 
 
-Last updated on Friday 19 February 2016 09:43
+Last updated on Monday 31 October 2016 08:10
