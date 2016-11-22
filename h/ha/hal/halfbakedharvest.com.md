@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the halfbakedharvest.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525030939id_/http%3A//www.halfbakedharvest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halfbakedharvest.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122040859id_/http%3A//www.halfbakedharvest.com/privacy-policy) for the most accurate reproduction.*
 
-# Half Baked Harvest - Made with Love
+# Privacy Policy - Half Baked Harvest
 
 This privacy policy sets out how Half Baked Harvest uses and protects any information that you give while using www.halfbakedharvest.com
 
