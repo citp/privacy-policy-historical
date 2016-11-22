@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birchstreetsystems.com privacy policy that was archived on 2016-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160223024825id_/http%3A//www.birchstreet.net/%3Fpage_id%3D2752) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birchstreetsystems.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123000213id_/http%3A//www.birchstreet.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BirchStreet Systems
 
@@ -6,7 +6,7 @@
 
 **Data Privacy at BirchStreet.**   BirchStreet has established a comprehensive privacy program which is designed to help us respect your data and data privacy rights.  This Privacy Policy includes both BirchStreet’s European Union – U.S. Safe Harbor Privacy Statement as well as the BirchStreet Privacy Statement.
 
-**E.U. – U.S. Safe Harbor Privacy Statement.**   For personal information of employees, consumers, healthcare professionals, medical research subjects and investigators, customers, investors, and government officials that BirchStreet receives from the European Economic Area, BirchStreet has committed to handling such personal information with the Safe Harbor Principles.  BirchStreet’s Safe Harbor certification can be found at <https://safeharbor.export.gov/list.aspx>.  For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce website at <http://export.gov/safeharbor/>.
+**E.U. – U.S. Safe Harbor Privacy Statement.**   For personal information of employees, consumers, healthcare professionals, medical research subjects and investigators, customers, investors, and government officials that BirchStreet receives from the European Economic Area, BirchStreet has committed to handling such personal information with the Safe Harbor Principles. BirchStreet’s Safe Harbor certification can be found at <https://safeharbor.export.gov/list.aspx>.  For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce website at <http://export.gov/safeharbor/>.
 
 **BirchStreet Website and Services Privacy Statement.**  BirchStreet respects the privacy of visitors to the BirchStreet website and users of the BirchStreet System.  This Website and Services Privacy Statement applies only to the operations of websites that directly link to this Policy when you click on “privacy policy” on a BirchStreet operated website or product.
 
@@ -44,7 +44,7 @@
 
 **Enforcement.** BirchStreet will regularly review how we are meeting these privacy promises, and will provide an independent way to resolve complaints about our privacy practices.  To access your personal information, ask questions about our privacy practices, or issue a complaint, contact us at: [Privacy@BirchStreetSystems.com](mailto:Privacy@BirchStreetSystems.com).
 
-BirchStreet has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint by BirchStreet, or if your complaint is not satisfactorily addressed by BirchStreet, please visit the BBB EU SAFE HARBOR website at http://www.bbb.org/council/eusafeharbor/bbb-eu-safe-harbor-dispute-resolution-program for more information and to file a complaint.
+BirchStreet has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism.
 
 **Age Requirements and Usage.**   BirchStreet is not intended to be used by children and is a professional business solution.  If you are under the age of 18, please do not use the BirchStreet System or disclose any personal information without involvement, supervision, and permission of a parent or guardian.
 
