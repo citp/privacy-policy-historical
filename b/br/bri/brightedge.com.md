@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightedge.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531061958id_/http%3A//www.brightedge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightedge.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122213821id_/http%3A//www.brightedge.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BrightEdge
 
@@ -148,5 +148,5 @@ If you have questions or suggestions about this Privacy Policy, or to make any r
 
 Privacy Officer  
 BrightEdge Technologies, Inc.  
-999 Baker Way, Suite 500  
+989 E Hillsdale Blvd, Suite 300  
 San Mateo, California 94404
