@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the getjar.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622074554id_/http%3A//www.getjar.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getjar.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122222344id_/http%3A//www.getjar.com/info/privacy) for the most accurate reproduction.*
 
 # GetJar Privacy policy
 
 **Updated: May 9, 2014**
 
-This GetJar privacy policy ("Privacy Policy") is intended to inform you of GetJar Baltic JSC's ("we," "us," or "our") policies and practices regarding the collection, use, and disclosure of your Personal Information through the GetJar Site and GetJar Services. We define Personal Information as information that allows someone to identify or contact you, including for example your name, address, telephone number, and email address. 
+This GetJar privacy policy ("Privacy Policy") is intended to inform you of Spigot Inc. ("we," "us," or "our") policies and practices regarding the collection, use, and disclosure of your Personal Information through the GetJar Site and GetJar Services. We define Personal Information as information that allows someone to identify or contact you, including for example your name, address, telephone number, and email address. 
 
 By registering with us or using our website, you expressly consent to the information handling practices in this privacy policy. If you reside outside the United States, you understand that your personal information may be processed in countries (including the United States) where laws regarding processing personal information may be less stringent than in your country. 
 
@@ -79,13 +79,3 @@ This Privacy Policy may be amended at any time in accordance with the section ti
 If you have any questions about this Privacy Policy, you may contact GetJar in the following ways: 
 
 **Web:** [Contact Us](http://developer.getjar.mobi/contactus/)
-
-**Postal:**
-
-**GetJar Baltic JSC.** Kalvariju St. 300  
-LT-08318   
-Vilnius, Lithuania
-
-Email: [advertise@getjar.mobi](mailto:advertise@getjar.mobi)  
-Tel: +370 655 73047  
-Fax: +370 5 2481674
