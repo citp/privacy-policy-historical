@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveilzone.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325014633id_/http%3A//www.surveilzone.com/help_center/privacy-policy-a-14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveilzone.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123002520id_/http%3A//www.surveilzone.com/help_center/privacy-policy-a-14) for the most accurate reproduction.*
 
 # Privacy Policy
 
