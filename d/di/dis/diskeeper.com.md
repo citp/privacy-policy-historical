@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diskeeper.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614063932id_/http%3A//www.condusiv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diskeeper.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122192003id_/http%3A//www.condusiv.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Condusiv Technologies
 
