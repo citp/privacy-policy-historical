@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hireright.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615003626id_/http%3A//www.hireright.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hireright.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122064204id_/http%3A//www.hireright.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # HireRight Privacy Policy | HireRight
+
+English | [Español](https://web.archive.org/legal/politica-de-privacidad-de-hireright)
 
 As a consumer reporting agency governed by the federal Fair Credit Reporting Act (FCRA) among other applicable state and federal laws, HireRight is committed to protecting your privacy.
 
@@ -71,9 +73,21 @@ HireRight may revise this policy from time to time. If there is a material chang
 
 **Contact Us**
 
-You may request at any time a [ free copy of your background report](http://www.hireright.com/background-check-faq/answers/requesting-a-free-copy-of-your-background-report-file)[(s)](http://www.hireright.com/applicants) (if any) prepared by HireRight and/or your active database files (if any) maintained on you by HireRight; and you may [dispute for free](http://www.hireright.com/background-check-faq/answers/dispute-the-accuracy-or-completeness-of-your-background-report-file) the accuracy of the information in your background report. Go to <http://www.hireright.com/applicants> for links to both of these options.
+_Questions about a current background check:_
 
-If you have any questions regarding our privacy policy, you may contact us at:
+If your background check is currently being performed by HireRight and you have questions or need assistance, please contact our Service Excellence department: 
+
+HireRight Service Excellence Phone: 866-521-6995
+
+HireRight Service Excellence Email: [customerservice@hireright.com](mailto:customerservice@hireright.com).
+
+_Report Requests and Disputes:_
+
+If you would like to request a [copy of your background report(s)](https://web.archive.org/background-check-faq/answers/requesting-a-copy-of-your-background-report-file) (if any) prepared by HireRight and/or your active database files (if any) maintained on you by HireRight; or to [dispute](https://web.archive.org/background-check-faq/answers/dispute-the-accuracy-or-completeness-of-your-background-report-file) the accuracy of the information in your background report, please go to [http://www.hireright.com/applicants](https://web.archive.org/applicants) for links that will provide you with details on all of the options (online, phone, fax and mail) that are available to you.
+
+_Privacy Policy questions:_
+
+If you have any questions specifically regarding our _privacy policy_ , you may contact us at:
 
 Julie Duffner  
 3349 Michelson Dr., Suite 150.  
@@ -84,4 +98,4 @@ Irvine, CA 92612
 In accordance with California Civil Code § 1786.20, the representative named above will be able to assist you with additional information regarding our privacy practices and policies in the event of a compromise of your information.
 
 Effective Date: January 1, 2014  
-(Contact information updated January 2016)
+(Contact information updated August 2016)
