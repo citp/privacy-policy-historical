@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vanitynoapologies.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605034943id_/http%3A//vanitynoapologies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanitynoapologies.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122054020id_/http%3A//vanitynoapologies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy|Vanitynoapologies|Indian Makeup and Beauty Blog
 
