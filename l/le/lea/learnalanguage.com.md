@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnalanguage.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618153224id_/http%3A//www.learnalanguage.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnalanguage.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122043304id_/http%3A//www.learnalanguage.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,13 +8,13 @@ In the following parts, we will show you how your data is collected and used.
 
 ## Where Can Privacy Notice be used?
 
-This privacy notice informs how Learnalanguage deals with the personal identification information and other personal identification information shared by the business companies when visitors visit [www.learnalanguage.com](https://web.archive.org/) and its server.
+This privacy notice informs how Learnalanguage deals with the personal identification information and other personal identification information shared by the business companies when visitors visit [www.learnalanguage.com](http://www.learnalanguage.com/) and its server.
 
 When you are registered to be a member of Learnalanguage, it means that we can use your information according to this privacy notice.
 
 ## User E-mail and Password
 
-You are required to fill in your e-mail addresss and password when you register at Learnalanguage. The only one thing that matters when you log in is your password. Your registered E-mail is your username when you log in at [http://www.learnalanguage.com](https://web.archive.org/). Please use an e-mail address which is effective so we can keep in touch with you.
+You are required to fill in your e-mail addresss and password when you register at Learnalanguage. The only one thing that matters when you log in is your password. Your registered E-mail is your username when you log in at [http://www.learnalanguage.com](http://www.learnalanguage.com/). Please use an e-mail address which is effective so we can keep in touch with you.
 
   * You can change your password once you have logged in Learnalanguage Member's Area.
   * If you forget your password, you may lose your account and your personal identification information.
