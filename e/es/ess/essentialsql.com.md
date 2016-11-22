@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the essentialsql.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614195754id_/http%3A//www.essentialsql.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essentialsql.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122151220id_/http%3A//www.essentialsql.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Essential SQL
 
-## **Last Revised:  April 27th, 2015**
+## **Last Revised:  September 29, 2016**
 
-Thank you for visiting an Easy Computer Academy, LLC web site, including easycomputeracademy.com, essentialsql.com, sql201.com. You arrived at this Privacy Policy from one of the above sites, referred to herein as “this web site”.
+Thank you for visiting an Easy Computer Academy, LLC web site, including www.arekco.com, easycomputeracademy.com, essentialsql.com, sql201.com. You arrived at this Privacy Policy from one of the above sites, referred to herein as “this web site”.
 
 This Privacy Policy is subject to change by Easy Computer Academy, LLC (hereinafter “Company”) at any time and at our discretion without notice by updating this posting.
 
