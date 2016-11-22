@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the frozengames.org privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401103020id_/http%3A//frozengames.org/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frozengames.org privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122042838id_/http%3A//frozengames.org/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Frozen Games
+# Privacy Policy - Frozen Games - Frozen 2 Games
 
 This privacy policy covers how we treat personal information that we collect and receive. We do not intend to collect any personal information from children under 13 unless we believe such collection to be permitted by law. Please see below for our policy with respect to children under 13. 
 
