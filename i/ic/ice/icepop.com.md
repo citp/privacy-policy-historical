@@ -1,45 +1,91 @@
-> *The following text is extracted and transformed from the icepop.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924231911id_/http%3A//www.icepop.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icepop.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122073354id_/http%3A//www.icepop.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for Ice Pop
+# Privacy Policy - IcePop
 
-At Ice Pop, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit Ice Pop, and how we safeguard your information. We never sell your personal information to third parties. The Ice Pop Web site is owned and operated by IcoLogic, Inc.
+Your privacy is important to us. To better protect your privacy, we provide this privacy policy (“ **Privacy Policy** “) explaining our policies and practices regarding the collection, use and disclosure of information we receive and collect on our site and the choices you can make about the way you share your information with us. This Privacy Policy forms an integral part of the terms of use of our website icepop2.wpengine.com (“ **Terms** “). Capitalized terms not otherwise defined herein shall have the meanings assigned to them in the Terms.
 
-If you have any questions regarding our privacy statement, please feel free to contact us though our [Contact Page](https://web.archive.org/Contact.htm)
+**Introduction**
 
-**Gathering of Information  
-**  
-**Voluntary Submission:** Ice Pop does not collect personally identifying information about any individual web site user except when knowingly provided by such individual. For example, when a visitor comes to Ice Pop to read an article, we do not ask for nor do we collect personally identifiable information. 
+We are committed to respecting your online privacy and recognize your need for appropriate protection and management of any Personal Information (as defined hereafter) you share with us.
 
-**Cookies:** A cookie is a data file that certain Web sites write to your computer's hard drive when you visit such sites. A cookie file can contain information, such as a user identification code, that the site uses to track the pages you have visited. Ice Pop uses cookies solely to track user traffic patterns throughout the Ice Pop Web site. We use this data on an anonymous basis and we do not correlate this information with personal data of any user.
+In order to access and use our site, or as part of using our site, you may be asked to provide us with your name, e-mail address, and other information; such unique information, as well as other unique information that we collect and may be used to individually identify you, will be referred to in this Privacy Policy as “ **Personal Information** “.
 
-Most Web site browsers automatically accept cookies, but you can usually change your browser settings to display a warning before accepting a cookie, or to refuse all cookies. However, if you choose to disable the receipt of cookies from our Web site, you may not be able to use certain features of the site. We also use third party advertisements on Ice Pop to help support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and various browser options you may have installed on your web browser. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited.
+By voluntarily providing us with your Personal Information, e.g. in the framework using our site, or by sending us a comment, a request or a question, you are giving your consent to the collection, use and, as the case may be, distribution of your Personal Information by us, under the terms and for the purposes specified in this Privacy Policy and subject to applicable law.
 
-**Log Files & Browser Level Information: **As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP address, your Internet Service Provider, the web browser you used to visit our site, the time you visited our site and which pages you visited throughout our site. If available, we may also record referral information to determine how you were referred to our site from external web sites.
+**The Way We Use Personal Information**
 
-**Use of Information:** Our primary goal in collecting user information is to enhance your experience on our Web site. We achieve this goal by, among other things, providing interactive communications such as our welcome email, and developing future products and services based on your interests. To develop content targeted to your interests, we use aggregated user information to determine which areas of our Web site users prefer based upon traffic to those areas.
+We may use your Personal Information for several purposes: (1) to enable you to use our site or certain features there of; (2) to contact you and to respond to questions and comments you may send us; (3) to save you from re-entering the information when you access our site; (4) to help us to better customize the content, information, website experience,  marketing, or promotional materials provided to you on our site and on other websites across the Internet; (5) to detect and protect against error, fraud or other criminal activity, and cooperate with law enforcement agencies; (6) to enforce our Terms including carrying out security reviews to validate your identity, age, contact details and, if applicable, your financial information; (7) to measure and research the effectiveness of the services features and offerings, advertisements, and e-mail communications, and to improve them when necessary; and (8) in any other way as described to you at the time of collection of your Personal Information, or described in this Privacy Policy (as updated from time to time).
 
-Ice Pop derives the majority of its revenue from advertising. In order to attract and retain advertisers we may use the aggregated, anonymous information that we gather to describe our services to partners and to assist our advertisers and sponsors to better understand our audience. We do not disclose personally identifying information about our users to these parties.
+Subject to applicable law, we may transfer your Personal Information and the information to third-party service providers, across borders, and from your country or jurisdiction to other countries or jurisdictions. We shall use reasonable efforts to limit the use of such information and to ensure that appropriate confidentiality and security measures are in place.
 
-Ice Pop may also disclose information about our users when we believe, in good faith, that the disclosure is required by law. Web Form contact information is monitored on SearchWarp to help detect and deter unwanted email messages.
+Subject to applicable law, we may share and provide Personal Information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We shall require that these persons agree to process such information in compliance with our Privacy Policy, and we shall use reasonable efforts to limit their use of such information and ensure that they use appropriate confidentiality and security measures.
 
-When you are on an area of Ice Pop and are asked for personal information, you are sharing that information with Ice Pop as well as business partners and vendors providing hosting and other services for Ice Pop. If you do not want your information to be shared, you can choose not to allow the transfer of your information by not using that particular service. These parties, as well as advertisers who contract directly with a third-party service to serve their advertisements, may set their own cookies.
+We may also employ third party service providers to perform some of services related to our site (such as hosting and maintenance services, payments clearance services etc.). Such third parties will have limited access to your Personal Information to the extent necessary to perform their tasks, and are obligated not to disclose or use it for any other purpose. We may also use your email address to send you updates, newsletters or news regarding our site or those of our partners whose offers may interest you. You may choose not to receive such emails by sending a single e-mail with the subject unsubscribe to icepop@gmail.com. Please note that this e-mail must be sent from the e-mail account for which you wish to block such emails.
 
-In addition, any personally identifiable information provided by our users as part of an advertiser promotion online may be provided directly to advertisers.
+**Aggregated Information**
 
-Please be aware that Ice Pop sponsors, advertisers or Web sites that have links on our site may collect personally identifiable information about you. The information practices of those parties and Web sites linked to Ice Pop are not covered by this privacy statement. Ice Pop users should also be aware that, when you voluntarily disclose personal information in chat areas or bulletin boards, that information may be collected by others and may result in unsolicited messages from others.
+By using our site, you agree that we collect data and information of users regarding their web activities (such as how they navigate the web sites). Such information may be collected and stored. This information may include the internet protocol ( _i.e._ “IP”) address, browser and platform type, the length of the visit, the date and time of your visit, the pages viewed and the order of those pages, the amount of time spent on particular pages, and the websites visited before and after and Personal Information.
 
-Kids under 13: Do not send any information about yourself to us, including information such as your name, address, or e-mail address. We do not knowingly collect personally identifiable information from children under 13. In the event that we learn we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible.
+We use this information mainly to monitor and analyze the commercial habits of users. We may aggregate such data (alone or with Personal Information) with information collected from other users of our site, in order to better design our site, by analyzing and evaluating the way our site are being used, or for any other purpose.
 
- **Additional Information:** We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+Subject to the provisions of any applicable law, we may disclose and share such aggregated information (from which your Personal Information cannot be isolated) with interested third-parties. We may also provide advertisers with aggregate information and/or non-identifying information about our site and its users.
 
-**How to Contact Us:** If you have any questions regarding our privacy statement, please feel free to contact us though our [Contact Page](https://web.archive.org/Contact.htm)
+**Cookies and Other Tracking Technologies**
 
-This statement may change from time to time, so please check back periodically.
+Some of our site’s pages utilize “cookies” and other tracking technologies to collect information and to tailor our site to the needs and interests of our customers. A “cookie” is a small text file that is transferred from our site’s servers to the computer’s hard drive, and uniquely identifies the user’s browser. Cookies can only be read by the server that sent them, and they cannot read data from the hard drive.
 
-**Definitions:**
+Tracking technologies (including cookies) may record information such as internet domain and host names; IP addresses; browser software and operating system types; clickstream patterns; and dates and times that internet services are accessed. Our use of cookies and other tracking technologies allows us to improve our site and the collection of information.
 
-**IP address:** Every computer connected to the Internet has a numeric address called an “IP address." This may or may not correspond uniquely to a particular computer. In some cases, IP addresses can be resolved to domain names, which may indicate a site visitor's Internet service provider, employer, university, etc. As part of its database analysis Ice Pop resolves IP addresses to domain names.
+Please note that you may set most browsers to either notify when you receive a cookie or to block cookies.
 
-**Browser type:** A user’s browser is a software program running on a computer that allows users to access documents on the World Wide Web. Browsers can be either text or graphic. They read HTML coded pages that reside on a server and interpret the coding into what the user sees as Web pages. Netscape Navigator and Microsoft Internet Explorer are examples of Web browsers. Browser type typically discloses hardware platform, operating system, and browser software and version.
+You should be aware that our site may use the services of third party suppliers for the provision of some of its services. To provide such services, these suppliers may also use cookies, for the reasons outlined above.
 
-**Referrer:** The referrer is the URI of the Internet resource or page that causes a browser to request a page or image from Ice Pop servers.
+**Collaboration with Google**
+
+We may collaborate with Google as a business partner. “[DoubleClick” cookie](https://support.google.com/adsense/answer/2839090) is used by Google in the ads served on the websites of its partners, such as websites displaying AdSense ads or participating in Google certified ad networks. When users visit such partner’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser.
+
+  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to websites.
+  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to users based on users’ visits to our site and/or other sites on the Internet.
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/).
+
+
+
+Please be advised that the cookies of other [third-party vendors or ad networks](https://www.google.com/support/dfp_sb/bin/answer.py?answer=94149) may also be used to serve ads, and therefore, please be informed as follows:
+
+  * Third-party vendors and ad networks may serve ads on our site.
+  * The links to the vendor and ad network websites are as follows: [MohawkMedia](http://mohawkmedia.co.nz/), [AppNexus](http://www.appnexus.com/), [LiveRail](http://www.liverail.com/)
+  * You may visit the foregoing websites to opt out of the use of cookies for interest-based advertising (if the vendor or ad network offers this capability). Alternatively, you can opt out of some third-party vendor’s use of cookies for interest-based advertising by visiting [about ad info](http://www.aboutads.info/).
+
+
+
+**Compliance with Laws and Law enforcement**
+
+We may disclose any and all information, including Personal Information, if we are required to do so by any applicable law or regulation, or an order of a court or other governmental body having jurisdiction.
+
+We may also disclose Personal Information if we, in our good-faith discretion, believe that such disclosure is necessary to: (i) enforce the Terms; (ii) take precautions against possible liability; (iii) investigate and defend ourselves against any claims or allegations; (iv) protect our property and rights (including the security or integrity of our site); (v) protect the property, rights or safety of any third party; and/or (vi) prevent or stop any illegal or unethical activity.
+
+**Links to Other Websites**
+
+Our site may contain links to other websites. Other websites may also reference or link to our site. The fact that such links and advertisements are posted and presented on our site is not an endorsement of, or representation of any kind in respect of those websites or their privacy policies and practices. We are not responsible for the privacy practices or the content of such other websites, and encourage you to review the privacy policies of those linked websites before using them.
+
+**Event of Merger, Sale, or Bankruptcy**
+
+In the event that a third party assumes control over our company, or if we are acquired by or merged with a third party entity, we reserve the right, subject to applicable law, to transfer or assign the Personal Information and any other information we have collected as part of such merger, acquisition, sale, or other change of control.
+
+In the event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors’ rights generally, the Personal Information and any other information may, subject to applicable law, be treated, transferred, or used by third parties.
+
+**Commitment**
+
+We are committed to protecting privacy. Protecting privacy online is an evolving area, and services are constantly evolving to meet these demands. We employ commercially reasonable physical, administrative, and electronic security measures and precautions to protect Personal Information from unauthorized access or use and to ensure the integrity and security of Personal Information and any other information we gather about users.
+
+If the Personal Information or any other information is accessed by an unauthorized third party, we will not be responsible for any direct or indirect damage caused as a result of such unauthorized access. Unfortunately the transmission of information via the internet is not completely secure. Although we use commercially reasonable efforts protect your information, we cannot guarantee the security of any data transmitted to or through our site. You acknowledge and agree that any transmission will be at your own risk.
+
+We recommend that you keep your sensitive information private and secure. For the avoidance of doubt it is clarified (and you hereby agree) that we cannot and will not be liable for any loss or damage that arises as a result of any failure to protect any information.
+
+**Amendments**
+
+We reserve the right, at our discretion, to change, modify, or add to this Privacy Policy at any time without notice. Such amendments, updates and modifications shall be effective immediately upon their posting on our site. Your continued use of our site following the posting of changes to this Privacy Policy means you accept these changes. We recommend that you check our site periodically for any such amendments to this Privacy Policy. We further recommend that you print a copy of this Privacy Policy for future reference.
+
+**Your Content**
+
+By using our site, you consent to the terms of our Privacy Policy, as they are from time to time, and to our processing of Personal Information and any other information for the purposes and using the methods stated above. If you do not agree to this Privacy Policy, please do not use our site.
