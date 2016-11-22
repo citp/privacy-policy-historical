@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the welectronics.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606181808id_/http%3A//www.welectronics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welectronics.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122133318id_/http%3A//www.welectronics.com/privacy.html) for the most accurate reproduction.*
 
 # Overseas Electronics www.welectronics.com Privacy Policy
 
