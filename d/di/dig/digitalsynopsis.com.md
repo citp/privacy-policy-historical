@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalsynopsis.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607203010id_/http%3A//digitalsynopsis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalsynopsis.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122121627id_/http%3A//digitalsynopsis.com/privacy-policy) for the most accurate reproduction.*
 
 # Digital Synopsis - Privacy Policy
 
@@ -25,11 +25,7 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
 
   * Google Adsense
-  * Pulsepoint
-  * Lijit (Sovrn)
-  * Adversal
-  * Media.net
-  * Amazon
+  * RevContent
 
 
 
