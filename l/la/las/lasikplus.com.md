@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the lasikplus.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408205144id_/http%3A//www.lasikplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasikplus.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122222310id_/http%3A//www.lasikplus.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-## Free Download from Lasik _Plus_
-
-Life-changing results from real Lasik _Plus_ patients.
-
-Loading...
+# LasikPlus Website Privacy Policy
 
 This Web site is owned and operated by LCA-Vision, Inc. Our postal address is: 7840 Montgomery Road Cincinnati, OH 45236 Our e-mail address is email@lca.com and our telephone number is 1-800-688-4550. Our Web server automatically recognizes the consumer’s domain name and e-mail address (where possible). We collect the following information from visitors to our Web site: 1) e-mail addresses of those who communicate with us via e-mail 2) aggregate information on what pages consumers access or visit through the use of 1st or 3rd party cookies 3) user-specific information on what pages consumers access or visit, and 4) information volunteered by the consumer, such as survey information and/or site registrations.
 
