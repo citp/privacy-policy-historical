@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralplr.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603085734id_/http%3A//viralplr.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralplr.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122142902id_/http%3A//viralplr.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -8,7 +8,7 @@ In your relationship with Add2it.com Marketing Pty Ltd, you share personal infor
 
 **Collection, maintenance and disclosure of personal information**
 
-A member of Add2it.com Marketing Pty Ltd will collect and hold your personal information for the purpose of:
+Add2it.com Marketing Pty Ltd will collect and hold your personal information for the purpose of:
 
   * assisting it to provide you with the relevant product and/or service;
   * letting you know about other products and/or services which might interest you; or
@@ -18,8 +18,6 @@ A member of Add2it.com Marketing Pty Ltd will collect and hold your personal inf
 
 The personal information we request is optional, but we may not be able to fulfil your request or provide you with our products and services without it. Where reasonably practical, we will collect your personal information only directly from you. For example, if you order a sample or brochure, a member of Add2it.com Marketing Pty Ltd may ask you to provide us with your name, address and contact details in order for us to fulfil the request. We may, however, also collect personal information from other parties such as other members of Add2it.com Marketing Pty Ltd (except where you tell us not to), credit reporting agencies, unrelated third parties (such as our share registry) as well as from your representative (such as your legal or financial adviser) and publicly available sources of information.
 
-^ back to top
-
 **What do we do with the information we collect?**
 
 We may keep and file all personal information you provide when dealing with us to assist us in providing you with our services and information of interest in respect of your business. For example, a member of Add2it.com Marketing Pty Ltd may send publications or other market information on our products and services to you or follow up on your interest in particular products and services. Add2it.com Marketing Pty Ltd discloses your personal information to those employees or advisers who need to know that information to assist us in providing you with our range of products and services. We may also disclose information to affiliates and other third parties necessary to process your transactions or service your account (including our share registry, print service providers, call centres and mail houses, our accountants, auditors and lawyers and credit reporting agencies). We may also disclose your personal information in corporate transactions involving the transfer of all or part of the assets or business of a member of Add2it.com Marketing Pty Ltd or in a corporate restructure. If we do this, we generally require these parties to protect your information in the same way we do. We may also be required or authorised by law to disclose your personal information. For example, we may disclose your personal information to a court in response to a subpoena or to the Australian Taxation Office. We will also disclose information to other persons where you have provided your consent to do so.
@@ -27,8 +25,6 @@ We may keep and file all personal information you provide when dealing with us t
 **What rights do you have in relation to personal information which we collect and hold?**
 
 Add2it.com Marketing Pty Ltd takes all reasonable steps to ensure that the personal information we collect, use and disclose is accurate, complete and up-to-date. If you become aware of any errors in your personal information or you change your personal details such as your name, address or bank account details, we ask you to contact us as soon as possible so that we may update our records. You can contact our Privacy Officer if you would like details of your personal information which we may hold about you or if you would like us to correct it. We will disclose to you such information, subject to certain exceptions allowed by law. We may require you to complete a request form before disclosing information. We also reserve the right to charge a fee. You may also contact our Privacy Officer to request us to stop using your personal information to contact you about our products and services. If you no longer conduct business with us, you can ask us to remove your personal information we hold about you. Subject to our legal obligations and responsibilities, we will take reasonable steps to destroy or de-identify your personal information.
-
-^ back to top
 
 **Protecting your personal information**
 
@@ -46,9 +42,7 @@ When you visit a website of Add2it.com Marketing Pty Ltd, we may collect the fol
 
 **Email Usage**
 
-While we take care that the personal information you give us on our websites is protected, the Internet is not a secure environment. If you send us information, including your email address, it is sent at your own risk. Our websites do not capture email addresses without your permission. If, however, you provide your email address to us, it may be used by Add2it.com Marketing Pty Ltd to send you information relating to our and related products and services. If we send you an email which you do not wish to receive in the future, please use the unsubscribe link or follow the unsubscribe instructions at the bottom of that email or [notify us](http://reply2frank.com/) and your email address will be removed from our system. Also, note that as a free or Gold status ViralPLR.com member you have agreed to receive emails from other members. Those members don't have access to your2 email address, they use our system to send you those emails.
-
-^ back to top
+While we take care that the personal information you give us on our websites is protected, the Internet is not a secure environment. If you send us information, including your email address, it is sent at your own risk. Our websites do not capture email addresses without your permission. If, however, you provide your email address to us, it may be used by Add2it.com Marketing Pty Ltd to send you information relating to our and related products and services. If we send you an email which you do not wish to receive in the future, please use the unsubscribe link or follow the unsubscribe instructions at the bottom of that email or [notify us](http://reply2frank.com/) and your email address will be removed from our system. Also, note that as a ViralPLR.com member you have agreed to receive emails from other members. Free members don't have access to your email address, they use our system to send you those emails.
 
 **Private Information Security**
 
@@ -63,7 +57,7 @@ Customer email addresses, street address, city, zip code, messaging ID's and ABN
 Our Privacy Officer can be contacted at:
 
 **Add2it.com Marketing Pty Ltd**  
-Frank Bauer   
+Frank Bauer, Dept. VP  
 P.O. Box 620  
 Sydney NSW 2001  
 Australia  
@@ -73,5 +67,3 @@ Support: [http://Reply2Frank.com](http://reply2frank.com/)
 **Changes to this privacy statement**
 
 This privacy statement has been adopted by Add2it.com Marketing Pty Ltd to be consistent with the National Privacy Principles (NPPs) as set out in the Privacy Act 1988 (Cth). The NPPs can be found at [www.privacy.gov.au](http://www.privacy.gov.au/). We may change our privacy policies from time to time to comply with new laws or industry codes of practice which are developed. It is your responsibility to refer to our privacy policies from time to time to familiarise yourself with any changes.
-
-^ back to top
