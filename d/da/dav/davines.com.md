@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davines.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602102833id_/https%3A//us.davines.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davines.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122111108id_/https%3A//us.davines.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Davines - Privacy Policy
 
