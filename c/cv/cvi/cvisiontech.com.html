@@ -1,19 +1,17 @@
-<!--The following is the downloaded HTML source of the cvisiontech.com privacy policy that was archived on 2016-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160430223036id_/http%3A//www.cvisiontech.com/legal/general/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cvisiontech.com privacy policy that was archived on 2016-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161122105415id_/http%3A//cvisiontech.com/legal/general/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-  <base href="http://www.cvisiontech.com/">
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="keywords" content="information, site, address, e-mail, telephone, web, time, contact, receive, visitors, number, policy, purposes, provide, page">
-  <meta name="description" content="Privacy Policy StatementThis is the web site of CVISION Technologies.
-Our postal address is 
-118-35 Queens Blvd. 14th Floor
-Forest Hills, NY 11375
-We can be reached via e-mail at info@cvisiontech.com
-or you can reach us by telephone at">
-  <meta name="generator" content="Joomla! - Open Source Content Management">
-  <title>Privacy - CVISION Technologies</title>
-  <style type="text/css">
+<!DOCTYPE html><html lang="en"><head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<base href="http://www.cvisiontech.com/">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="keywords" content="information, site, address, e-mail, telephone, web, time, contact, receive, visitors, number, policy, purposes, provide, page">
+	<meta name="description" content="CVISION Technologies is a leading provider of file compression, OCR text recognition technology, PDF workflow applications, and data extraction technology.">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Privacy - CVISION Technologies</title>
+	<style type="text/css">
 
 #goog-gt-tt {display:none !important;}
 .goog-te-banner-frame {display:none !important;}
@@ -28,20 +26,18 @@ body {top:0 !important;}
         a.alt_flag:hover {background-image:url('/modules/mod_gtranslate/tmpl/lang/alt_flags.png');}
         a.alt_flag img {border:0;}
     
-  </style>
-  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
-  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
-  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
-  <script src="/media/system/js/caption.js" type="text/javascript"></script>
-  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
-  <script type="text/javascript">
+	</style>
+	<script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//marketing.cvisiontech.com/cdnr/68/acton/bn/tracker/1886"></script><script async="" src="//static.ads-twitter.com/uwt.js"></script><script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+	<script type="text/javascript">
 jQuery(window).on('load',  function() {
 				new JCaption('img.caption');
 			});
-jQuery(document).ready(function(){
-	jQuery('.hasTooltip').tooltip({"html": true,"container": "body"});
-});
-  </script>
+jQuery(function($){ $(".hasTooltip").tooltip({"html": true,"container": "body"}); });
+	</script>
 
 
 <!-- index_head.php -->
@@ -56,6 +52,8 @@ jQuery(document).ready(function(){
 <link rel="stylesheet" href="http://www.cvisiontech.com/templates/new_sims/css/products.css" type="text/css" charset="utf-8">
 <link rel="stylesheet" href="http://www.cvisiontech.com/templates/new_sims/css/store_style.css" type="text/css" charset="utf-8">
 <link rel="stylesheet" href="http://www.cvisiontech.com/templates/new_sims/css/demostyle.css" type="text/css" charset="utf-8">
+<link rel="stylesheet" href="http://www.cvisiontech.com/templates/new_sims/css/blockquotes.css" type="text/css" charset="utf-8">
+<link rel="stylesheet" href="http://www.cvisiontech.com/templates/new_sims/css/bigCSS_new_sims.min.css" type="text/css" charset="utf-8">
 
 <!-- ################## IE 7 STYLE SHEETS -->
   <!--[if gte IE 7]>    
@@ -96,13 +94,29 @@ jQuery(document).ready(function(){
 
 	jQuery(document).ready(function() {
 		jQuery('#carousel').jcarousel({scroll:1,wrap:'both',size:3,auto:7,initCallback: mycarousel_initCallback});
-		$('ul.sf-menu').superfish({ 
-		    delay:       300,                             // one second delay on mouseout 
-		    animation:   {opacity:'show',height:'show'},  // fade-in and slide-down animation 
-		    speed:       'fast',                          // faster animation speed 
-		    autoArrows:  false,                           // disable generation of arrow mark-up 
-		    dropShadows: false                            // disable drop shadows 
-		}); 
+		if( jQuery(window).width() < 767 ) {
+			jQuery('.sf-menu ul li').find('ul').remove();
+			jQuery(".sf-menu  > li > a.topdaddy").click(function(e) {
+				if (jQuery(this).parent().find("ul").is(":visible")) {
+//alert(1);
+
+				}else {
+					//alert(2);
+					jQuery(".sf-menu  > li > ul").hide();
+					jQuery(this).parent().find("ul").show();
+					e.preventDefault();
+
+				}
+			});
+		}else {
+			jQuery('ul.sf-menu').superfish({
+				delay:       300,                            // one second delay on mouseout
+				animation:   {opacity:'show',height:'show'},  // fade-in and slide-down animation
+				speed:       'fast',                          // faster animation speed
+				autoArrows:  false,                           // disable generation of arrow mark-up
+				dropShadows: false                            // disable drop shadows
+			});
+		}
 
 	});
 
@@ -111,15 +125,19 @@ jQuery(document).ready(function(){
 <!-- @endof: index_head.php --><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script><script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=59828462"></script></head>
 
 	<body>
-		
+	
 		<div id="header">
 			<div class="container_12">
 				<div id="top_header" class="grid_12 alpha omega">
 					
 					<div id="logo">
 						<a href="http://www.cvisiontech.com/" title="CVision Tech Home">
-							<img src="http://www.cvisiontech.com/templates/new_sims/img/logo.jpg" width="325" height="45" alt="CVision Tech" title="Home">
+							<img src="http://www.cvisiontech.com/templates/new_sims/img/logo.jpg" width="325" height="45" alt="CVision Tech" title="Home" class="logo-img">
+							<img src="http://www.cvisiontech.com/templates/new_sims/img/logo-small.jpg" width="" height="" alt="CVision Tech" title="Home" class="logo-img-mobile">
 						</a>
+						<button class="c-hamburger c-hamburger--htx">
+							<span>toggle menu</span>
+						</button>
 					</div>
 
 					<div id="top_contact">		
@@ -143,7 +161,7 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 <li class="item-612"><a href="/index.php/download.html">Download</a></li><li class="item-184"><a href="/about/general/contact.html">Contact</a></li><li class="item-385"><a href="javascript:void window.open('https://server.iad.liveperson.net/hc/59828462/?cmd=file&amp;file=visitorWantsToChat&amp;site=59828462&amp;SESSIONVAR!skill=Customer Service&amp;byhref=1','LiveChat','width=600,height=500')">Live Chat</a></li><li class="item-427 parent"><a href="/store/general/cvision-store.html">Store</a></li></ul>
 		</div>
 	
-											
+												<span class="store-link"><a href="/store/general/cvision-store.html">Store</a></span>
 						<a href="/about/general/contact.html" title="Contact Us" id="contact_info">
 							<img src="http://www.cvisiontech.com/templates/new_sims/img/contact_info.jpg" width="160" height="15" alt="CVision Tech Contact Info" title="Home">
 						</a>
@@ -163,11 +181,10 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 
 					<ul class="sf-menu">
 <li><a href="/">Home</a></li>
-<li><a class="topdaddy" href="javascript: void(0);">Products</a><ul class="sf-menu">
-<li><a href="/products/pdfcompressor.html">PdfCompressor</a></li>
+<li><a class="topdaddy" href="/products/products.html">Products</a><ul class="sf-menu">
+<li><a class="daddy" href="/products/pdfcompressor.html"> PdfCompressor</a></li>
 <li><a href="/products/trapeze-for-invoice-processing.html">Trapeze for Invoice Processing</a></li>
 <li><a href="/products/trapeze-for-forms-processing.html">Trapeze for Forms Processing</a></li>
-<li><a href="/products/efiler.html">Trapeze eFiler</a></li>
 <li><a href="/products/maestro-recognition-server.html">Maestro Recognition Server</a></li>
 <li><a href="/products/pdfcompressor-developer-sdk.html">PdfCompressor Developer’s SDK</a></li>
 <li><a href="/products/ocr-engine.html">OCR Engine</a></li>
@@ -180,13 +197,16 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 <li><a class="topdaddy" href="/solutions.html">Solutions</a><ul class="sf-menu">
 <li><a href="/solutions/ocr.html">OCR</a></li>
 <li><a href="/solutions/efficient-documents/file-compression-cvision-pdfcompressor.html">File Compression</a></li>
-<li><a href="/solutions/automated-invoice-processing.html">Automated Invoice Processing</a></li>
 <li><a href="/solutions/automated-forms-processing.html">Automated Forms Processing</a></li>
+<li><a href="/solutions/automated-invoice-processing.html">Automated Invoice Processing</a></li>
 <li><a href="/solutions/automated-mortgage-processing.html">Automated Mortgage Processing</a></li>
 <li><a href="/solutions/automated-transcript-processing.html">Automated Transcript Processing</a></li>
 <li><a href="/solutions/automated-eob-processing.html">Automated EOB Processing</a></li>
+<li><a href="/solutions/trapeze-acord-module.html">Automated ACORD Form Processing</a></li>
+<li><a href="/solutions/sales-tax-ocr.html">Sales Tax OCR</a></li>
+<li><a href="/solutions/automated-document-classification.html">Automated Document Classification</a></li>
 <li><a href="/solutions/redaction.html">Redaction</a></li>
-<li><a href="/solutions/electronic-pdf-parsing-ocr.html">Electronic PDF Parsing and OCR</a></li>
+<li><a href="/solutions/electronic-pdf-parsing-ocr.html">Electronic PDF Parsing Module</a></li>
 <li><a href="/solutions/digital-mailroom.html">Digital Mailroom</a></li>
 <li><a class="daddy" href="/solutions/pdfa-compliance-for-archiving.html"> PDF/A Compliance for Archiving</a><ul class="sf-menu">
 <li><a href="/products/general/docarchiver.html">DocArchiver</a></li>
@@ -195,8 +215,7 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 <li><a href="/solutions/handwriting-recognition.html">Handwriting Recognition</a></li>
 </ul></li>
 <li><a class="topdaddy" href="/industries.html">Industries</a><ul class="sf-menu">
-<li><a href="/industries/financial.html">Financial</a></li>
-<li><a href="/industries/banking.html">Banking</a></li>
+<li><a href="/industries/banking-and-financial-services.html">Banking and Financial Services</a></li>
 <li><a href="/industries/tax-accounting.html">Tax and Accounting</a></li>
 <li><a class="daddy" href="/industries/legal.html"> Legal</a><ul class="sf-menu">
 <li><a href="/markets/industries/legal-document-management.html">Legal Document Management</a></li>
@@ -216,9 +235,10 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 <li><a class="topdaddy" href="javascript: void(0);">Resources</a><ul class="sf-menu">
 <li><a href="/resources/blog.html">Resource Library</a></li>
 <li><a href="/document-management/file-compression/pdfcompressor-overview.html">PdfCompressor Overview</a></li>
-<li><a href="http://www.cvisiontech.com/docdoc">Imaging Trends Blog</a></li>
+<li><a href="/blog/">Document Imaging Blog</a></li>
+<li><a href="http://www.cvisiontech.com/blog/subscribe-to-the-visionary/">The Visionary Newsletter</a></li>
 <li><a href="/resources/information/compression.html">Compression</a></li>
-<li><a href="/news/industry-news.html">Industry News</a></li>
+<li><a class="daddy" href="/resources/white-papers.html"> White Papers</a><ul class="sf-menu">
 <li><a class="daddy" href="/resources/automated-invoice-processing-primer/automated-invoice-processing-primer.html"> Automated Invoice Processing Primer</a><ul class="sf-menu">
 <li><a href="/resources/automated-invoice-processing-primer/the-manual-ap-process-and-invoice-automation.html">The Manual AP Process and Invoice Automation</a></li>
 <li><a href="/resources/automated-invoice-processing-primer/examining-internal-process.html">Examining Internal Process</a></li>
@@ -231,6 +251,12 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 <li><a href="/resources/pdf-a-document-archiving-primer/pdf-evolves-into-the-electronic-document-standard.html">PDF Evolves into the Electronic Document Standard</a></li>
 <li><a href="/resources/pdf-a-document-archiving-primer/pdf-as-a-records-management-document-solution.html">PDF as a Records Management Document Solution</a></li>
 <li><a href="/resources/pdf-a-document-archiving-primer/pdf-a-document-solution-for-archiving-and-rm.html">PDF/A: Document Solution for Archiving and RM</a></li>
+</ul></li>
+<li><a class="daddy" href="/resources/mortgage-process-automation-primer/mortgage-process-automation-primer.html"> Mortgage Process Automation Primer</a><ul class="sf-menu">
+<li><a href="/resources/mortgage-process-automation-primer/primary-factor-cost-reduction.html">Primary Factor: Cost Reduction</a></li>
+<li><a href="/resources/mortgage-process-automation-primer/primary-factor-real-time-opportunity.html">Primary Factor: Real-Time Opportunity</a></li>
+<li><a href="/resources/mortgage-process-automation-primer/primary-factor-processing-equilibrium.html">Primary Factor: Processing Equilibrium</a></li>
+<li><a href="/resources/mortgage-process-automation-primer/primary-factor-scalability.html">Primary Factor: Scalability</a></li>
 </ul></li>
 <li><a class="daddy" href="/resources/automated-data-capture-primer/automated-data-capture-primer.html"> Automated Data Capture Primer</a><ul class="sf-menu">
 <li><a href="/resources/automated-data-capture-primer/idr-systems.html">IDR Systems</a></li>
@@ -246,22 +272,6 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 <li><a href="/resources/advanced-imaging-compression-primer/fully-searchable-pdf-files.html">Fully Searchable PDF Files</a></li>
 <li><a href="/resources/advanced-imaging-compression-primer/pdfcompressor-s-adjustable-settings.html">PdfCompressor’s Adjustable Settings</a></li>
 <li><a href="/resources/advanced-imaging-compression-primer/pdfcompressor-complementing-document-management-workflow.html">PdfCompressor - Complementing Document Management Workflow</a></li>
-</ul></li>
-<li><a class="daddy" href="/resources/smarter-document-capture-primer/smarter-document-capture-primer.html"> Smarter Document Capture Primer</a><ul class="sf-menu">
-<li><a href="/resources/smarter-document-capture-primer/what-is-data-capture.html">What is Data Capture?</a></li>
-<li><a href="/resources/smarter-document-capture-primer/data-capture-uses-identifying-the-value.html">Data Capture Uses - Identifying the Value</a></li>
-<li><a href="/resources/smarter-document-capture-primer/data-capture-approaches-best-practices-to-obtain-value.html">Data Capture Approaches - Best Practices to Obtain Value</a></li>
-<li><a href="/resources/smarter-document-capture-primer/semi-automated-the-assisted-capture-approach.html">Semi-Automated: The 'Assisted' Capture Approach</a></li>
-<li><a href="/resources/smarter-document-capture-primer/fully-automated-the-template-approach.html">Fully Automated: The Template Approach</a></li>
-<li><a href="/resources/smarter-document-capture-primer/semi-structured-the-data-keyword-pairs-approach.html">Semi-Structured: The Data Keyword Pairs Approach</a></li>
-<li><a href="/resources/smarter-document-capture-primer/preparing-for-document-automation.html">Preparing for Document Automation</a></li>
-<li><a href="/resources/smarter-document-capture-primer/preparing-sample-sets.html">Preparing Sample Sets</a></li>
-<li><a href="/resources/smarter-document-capture-primer/understanding-data-capture-accuracy.html">Understanding Data Capture Accuracy</a></li>
-<li><a href="/resources/smarter-document-capture-primer/goal-setting-accuracy-speed-exceptions-and-expectations.html">Goal Setting: Accuracy, Speed, Exceptions, and Expectations</a></li>
-<li><a href="/resources/smarter-document-capture-primer/estimating-roi.html">Estimating ROI</a></li>
-<li><a href="/resources/smarter-document-capture-primer/preparing-and-evaluating-a-vendor-list.html">Preparing and Evaluating a Vendor List</a></li>
-<li><a href="/resources/smarter-document-capture-primer/preparing-and-evaluating-a-vendor-list-smarter-document-capture.html">Form Design and Scan Settings - Best Practices</a></li>
-<li><a href="/resources/smarter-document-capture-primer/putting-it-all-together.html">Putting it All Together</a></li>
 </ul></li>
 <li><a class="daddy" href="/resources/ocr-primer/ocr-software-primer.html"> OCR Software Primer</a><ul class="sf-menu">
 <li><a href="/resources/thresholding-within-ocr.html">Thresholding within OCR</a></li>
@@ -285,6 +295,22 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 <li><a href="/resources/ocr-primer/business-process-automation-and-how-it-relates-to-ocr-white-paper.html">Business Process Automation and How it Relates to OCR</a></li>
 <li><a href="/resources/ocr-primer/ocr-based-roi-white-paper.html">OCR-based ROI</a></li>
 <li><a href="/resources/ocr-primer/towards-the-paperless-office-white-paper.html">Towards the Paperless Office</a></li>
+</ul></li>
+<li><a class="daddy" href="/resources/smarter-document-capture-primer/smarter-document-capture-primer.html"> Smarter Document Capture Primer</a><ul class="sf-menu">
+<li><a href="/resources/smarter-document-capture-primer/what-is-data-capture.html">What is Data Capture?</a></li>
+<li><a href="/resources/smarter-document-capture-primer/data-capture-uses-identifying-the-value.html">Data Capture Uses - Identifying the Value</a></li>
+<li><a href="/resources/smarter-document-capture-primer/data-capture-approaches-best-practices-to-obtain-value.html">Data Capture Approaches - Best Practices to Obtain Value</a></li>
+<li><a href="/resources/smarter-document-capture-primer/semi-automated-the-assisted-capture-approach.html">Semi-Automated: The 'Assisted' Capture Approach</a></li>
+<li><a href="/resources/smarter-document-capture-primer/fully-automated-the-template-approach.html">Fully Automated: The Template Approach</a></li>
+<li><a href="/resources/smarter-document-capture-primer/semi-structured-the-data-keyword-pairs-approach.html">Semi-Structured: The Data Keyword Pairs Approach</a></li>
+<li><a href="/resources/smarter-document-capture-primer/preparing-for-document-automation.html">Preparing for Document Automation</a></li>
+<li><a href="/resources/smarter-document-capture-primer/preparing-sample-sets.html">Preparing Sample Sets</a></li>
+<li><a href="/resources/smarter-document-capture-primer/understanding-data-capture-accuracy.html">Understanding Data Capture Accuracy</a></li>
+<li><a href="/resources/smarter-document-capture-primer/goal-setting-accuracy-speed-exceptions-and-expectations.html">Goal Setting: Accuracy, Speed, Exceptions, and Expectations</a></li>
+<li><a href="/resources/smarter-document-capture-primer/estimating-roi.html">Estimating ROI</a></li>
+<li><a href="/resources/smarter-document-capture-primer/preparing-and-evaluating-a-vendor-list.html">Preparing and Evaluating a Vendor List</a></li>
+<li><a href="/resources/smarter-document-capture-primer/preparing-and-evaluating-a-vendor-list-smarter-document-capture.html">Form Design and Scan Settings - Best Practices</a></li>
+<li><a href="/resources/smarter-document-capture-primer/putting-it-all-together.html">Putting it All Together</a></li>
 </ul></li>
 <li><a class="daddy" href="/resources/jbig2-compression-primer/jbig2-compression-primer-white-paper.html"> JBIG2 Compression Primer</a><ul class="sf-menu">
 <li><a href="/resources/jbig2-compression-primer/pdfcompressor-a-complementary-technology.html">The Business Case for JBIG2 Compression</a></li>
@@ -313,26 +339,27 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 <li><a href="/resources/jbig2-compression-primer/overview-benefits-of-pdf-compression-and-pdf-conversion.html">Overview: Benefits of PDF Compression and PDF Conversion</a></li>
 <li><a href="/resources/jbig2-compression-primer/jbig2-compression-summary.html">JBIG2 Compression Summary</a></li>
 </ul></li>
-<li><a href="/index.php/resources-mainmenu-152/white-paper-downloads.html">White Paper Downloads</a></li>
+</ul></li>
 </ul></li>
 <li><a class="topdaddy" href="javascript: void(0);">News &amp; Events</a><ul class="sf-menu">
 <li><a class="daddy" href="/news/general.html"> Recent News and Events</a><ul class="sf-menu">
 <li><a href="/news/general/cvision-releases-pdfcompressor-6-5.html">CVISION Releases PdfCompressor 6.5</a></li>
 <li><a href="/news/general/cvision-technologies-will-exhibit-at-prophet-21-wwug-conference-in-new-orleans.html">CVISION Technologies will exhibit at Prophet 21 WWUG Conference in New Orleans</a></li>
 </ul></li>
+<li><a href="/news/industry-news.html">Industry News</a></li>
 </ul></li>
 <li><a class="topdaddy" href="javascript: void(0);">Support</a><ul class="sf-menu">
 <li><a href="/product-download-login.html">Support Login</a></li>
 <li><a href="/support/professional-services.html">Professional Services</a></li>
 <li><a class="daddy" href="/support/product-video-tutorials.html"> Product Video Tutorials</a><ul class="sf-menu">
 <li><a href="/support/general/trapeze-forms-video-tutorial.html">Trapeze For Forms Video Tutorial</a></li>
-<li><a href="/support/general/trapeze-efiler-video-tutorial.html">Trapeze eFiler Video Tutorial</a></li>
 <li><a href="/support/general/trapeze-for-invoice-processing-video-tutorial.html">Trapeze for Invoice Processing Video Tutorial</a></li>
 <li><a href="/support/general/pdfcompressor-demo-video.html">PdfCompressor Demo Video</a></li>
 <li><a href="/support/general/maestro-demo-video.html">Maestro Demo Video</a></li>
 <li><a href="/support/general/trapeze-invoice-demo-video.html">Trapeze for Invoice Processing Demo Video</a></li>
+<li><a href="/support/general/trapeze-invoice-4-0-demo-video.html">Trapeze for Invoice Processing 4.0 Demo Video</a></li>
+<li><a href="/support/general/trapeze-forms-demo-video.html">Trapeze for Forms Processing Demo Video</a></li>
 </ul></li>
-<li><a href="/blog/">Document Imaging Blog</a></li>
 <li><a href="/support/system-requirements.html">System Requirements</a></li>
 <li><a href="/index.php/support-mainmenu-150/documentation.html">Documentation</a></li>
 <li><a class="daddy" href="/faqs/faqs/blog.html"> FAQs</a><ul class="sf-menu">
@@ -357,12 +384,6 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 <li><a href="/about/case-studies/leading-hospital-optimizes-documents-with-compression-and-ocr.html">Leading hospital optimizes documents with compression and OCR</a></li>
 <li><a href="/about/case-studies/technology-provider-benefits-from-automated-processing-solution.html">Technology provider benefits from automated processing solution</a></li>
 <li><a href="/about/case-studies/global-financial-company-utilizes-digital-mailroom.html">Global financial company utilizes digital mailroom </a></li>
-<li><a href="/about/general/file-compression-and-dept-of-homeland-security.html">File Compression and Dept. of Homeland Security</a></li>
-<li><a href="/about/general/law-firm-benefits-from-auto-routing-a-filing-of-image-documents.html">Law Firm benefits from Auto-Routing &amp; Filing of Image Documents</a></li>
-<li><a href="/about/general/media-organization-enjoys-benefits-of-ocr-compression-conversion.html">Media Organization enjoys benefits of OCR, compression, conversion</a></li>
-<li><a href="/about/general/university-benefits-from-improved-document-capture.html">University benefits from Improved Document Capture</a></li>
-<li><a href="/about/general/improved-efficiency-for-the-legal-industry.html">Improved Efficiency for the Legal Industry</a></li>
-<li><a href="/about/general/legal-industry-enjoys-freedom-from-paper.html">Legal Industry Enjoys Freedom from Paper</a></li>
 <li><a href="/about/case-studies/law-firm-protects-client-information-with-automated-redaction-solution.html">Law Firm Protects Client Information With Automated Redaction Solution </a></li>
 <li><a href="/about/case-studies/energy-consulting-and-construction-company-improves-document-accessibility.html">Energy Consulting and Construction Company Improves Document Accessibility</a></li>
 <li><a href="/about/case-studies/distribution-company-reduces-accounts-payable-costs-with-advanced-solution.html">Manufacturing Company Reduces Accounts Payable Costs with Advanced Solution</a></li>
@@ -380,6 +401,10 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 <li><a href="/about/case-studies/large-government-agency-uses-compression-to-accelerate-transmission.html">Large Government Agency Uses Compression to Accelerate File Transmission and Retrieval</a></li>
 <li><a href="/about/case-studies/major-financial-institution-reduces-mortgage-document-processing-time-with-automation-solution.html">Major Financial Institution Reduces Mortgage Document Processing Time with Automation Solution</a></li>
 <li><a href="/about/case-studies/global-credit-card-company-accelerates-merchant-statement-processing-speed.html">Global Credit Card Company Accelerates Merchant Statement Processing Speed</a></li>
+<li><a href="/about/case-studies/invoice-processing-salesforce-edi-export-case-study.html">Furniture Distributor Improves Invoice Processing with Automated EDI Export into Salesforce CRM</a></li>
+<li><a href="/about/case-studies/global-power-industry-increase-document-handling-efficiency.html">Global Power Industry Leader Increases Document Handling Efficiency by More Than 50% with PdfCompressor</a></li>
+<li><a href="/about/case-studies/automated-sales-tax-extraction.html">International Accounting Firm Automate Sales Tax Extraction</a></li>
+<li><a href="/about/case-studies/argus-der-presse.html">Argus der Presse Case Study</a></li>
 </ul></li>
 <li><a href="/about/client-testimonials.html">Client Testimonials</a></li>
 <li><a href="/about/careers.html">Careers</a></li>
@@ -449,6 +474,7 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 
 		<div id="content">
 			<div class="container_16">
+				<div class="boderradius">
 				<div class="top_corners">
 					<div class="left_corner"></div>
 					<div class="mid"></div>
@@ -473,7 +499,7 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 
 
 
-<div class="grid_10 feature">
+<div class="grid_10 feature full-xs">
 	<!--
 	#
 	# Box w/ rounded headers
@@ -498,17 +524,14 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 <p>Our postal address is <br>
 <b>118-35 Queens Blvd. 14th Floor<br>
 Forest Hills, NY 11375</b></p>
-We can be reached via e-mail at <span id="cloak73700"><a href="mailto:info@cvisiontech.com">info@cvisiontech.com</a></span><script type="text/javascript">
- //<!--
- document.getElementById('cloak73700').innerHTML = '';
- var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
- var path = 'hr' + 'ef' + '=';
- var addy73700 = '&#105;nf&#111;' + '&#64;';
- addy73700 = addy73700 + 'cv&#105;s&#105;&#111;nt&#101;ch' + '&#46;' + 'c&#111;m';
- var addy_text73700 = '&#105;nf&#111;' + '&#64;' + 'cv&#105;s&#105;&#111;nt&#101;ch' + '&#46;' + 'c&#111;m';
- document.getElementById('cloak73700').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy73700 + '\'>'+addy_text73700+'<\/a>';
- //-->
- </script><br>
+We can be reached via e-mail at <span id="cloake43fe2264e23df634b541edb3d4a96d8"><a href="mailto:info@cvisiontech.com">info@cvisiontech.com</a></span><script type="text/javascript">
+				document.getElementById('cloake43fe2264e23df634b541edb3d4a96d8').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addye43fe2264e23df634b541edb3d4a96d8 = '&#105;nf&#111;' + '&#64;';
+				addye43fe2264e23df634b541edb3d4a96d8 = addye43fe2264e23df634b541edb3d4a96d8 + 'cv&#105;s&#105;&#111;nt&#101;ch' + '&#46;' + 'c&#111;m';
+				var addy_texte43fe2264e23df634b541edb3d4a96d8 = '&#105;nf&#111;' + '&#64;' + 'cv&#105;s&#105;&#111;nt&#101;ch' + '&#46;' + 'c&#111;m';document.getElementById('cloake43fe2264e23df634b541edb3d4a96d8').innerHTML += '<a ' + path + '\'' + prefix + ':' + addye43fe2264e23df634b541edb3d4a96d8 + '\'>'+addy_texte43fe2264e23df634b541edb3d4a96d8+'<\/a>';
+		</script><br>
 or you can reach us by telephone at 718-793-5572<br>
 <p>For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).</p>
 <p>We collect the domain name and e-mail address (where possible) of visitors to our Web page, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number.</p>
@@ -563,7 +586,7 @@ Consumers can have this information corrected by calling us at the above telepho
 		<div class="split_block first">
 			<ul class="sidebar">
 				<li><a href="/online-conversion/general/main.html" title="Online Conversion" class="option">Online Conversion</a></li>
-				<li><a href="/index.php/resources-mainmenu-152/white-paper-downloads.html" title="White Paper" class="option">White Paper</a></li>
+				<li><a href="/index.php/cvision-employees-mainmenu-292/white-paper-downloads.html" title="White Paper" class="option">White Paper</a></li>
 				<li><a href="/solutions/general/demo-request.html" title="Request Demo" class="option">Request Demo</a></li>
 			</ul>
 		</div>
@@ -600,7 +623,8 @@ Consumers can have this information corrected by calling us at the above telepho
 					<div class="right_corner"></div>
 					<div class="clear"></div>
 				</div>
-				
+				</div>
+
 			</div> <!-- div#.container_16 -->
 
 		</div> <!-- div#content. -->
@@ -634,6 +658,19 @@ var pageTracker = _gat._getTracker("UA-370254-4");
 pageTracker._trackPageview();
 } catch(err) {}
 </script>
+
+<!-- Twitter universal website tag code -->
+<script>
+!function(e,n,u,a){e.twq||(a=e.twq=function(){a.exe?a.exe.apply(a,arguments):
+a.queue.push(arguments);},a.version='1',a.queue=[],t=n.createElement(u),
+t.async=!0,t.src='//static.ads-twitter.com/uwt.js',s=n.getElementsByTagName(u)[0],
+s.parentNode.insertBefore(t,s))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','nv9cg');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+
 <!-- -->
 <!-- -->
 <!-- Google Code for CVision Home Page Remarketing List -->
@@ -654,18 +691,36 @@ var google_conversion_value = 0;
 <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1072531057/?label=1OHlCKydlwIQ8Yy2_wM&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
+
 <!-- -->
 <!-- -->
 <!-- ActON Visitor Tracking Code -->
+<script>/*<![CDATA[*/(function(w,a,b,d,s){w[a]=w[a]||{};w[a][b]=w[a][b]||{q:[],track:function(r,e,t){this.q.push({r:r,e:e,t:t||+new Date});}};var e=d.createElement(s);var f=d.getElementsByTagName(s)[0];e.async=1;e.src='//marketing.cvisiontech.com/cdnr/68/acton/bn/tracker/1886';f.parentNode.insertBefore(e,f);})(window,'ActOn','Beacon',document,'script');ActOn.Beacon.track();/*]]>*/</script>
+
+<!-- ActOn Form Submission Tracking -->
+
 <script type="text/javascript">
-/* <![CDATA[ */
-document.write (
-'<img src="http://marketing.cvisiontech.com/acton/bn/1886/visitor.gif?ts='+
-new Date().getTime()+
-'&ref='+escape(document.referrer) + '">'
-);
-/* ]]> */
-</script><img src="http://marketing.cvisiontech.com/acton/bn/1886/visitor.gif?ts=1580471391135&amp;ref=">
+if($("form[method='post']").attr("name") != "signup"){
+var aoExternalPostURL= "http://marketing.cvisiontech.com/acton/eform/1886/003c/d-ext-0001";
+document.querySelector("form[method='post']").addEventListener("submit", function createAoFrame(event) {
+  var aoIfrm = document.createElement("iframe");
+  aoIfrm.setAttribute("id", "ifrm");
+  aoIfrm.style.backgroundColor = "transparent";
+  aoIfrm.style.border = "none";
+  aoIfrm.style.width = "1px";
+  aoIfrm.style.height = "1px";
+  aoFormData = $("form[method='post']").serialize();
+  aoIfrm.src = aoExternalPostURL + "?" + aoFormData;
+  document.body.appendChild(aoIfrm);
+});
+};
+</script>
+
+<!-- -->
+<!-- -->
+<!-- Bing Ads Code -->
+
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5201240"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5201240&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
 
 <!-- -->
 <!-- -->
@@ -690,41 +745,43 @@ window.onload = function(){
 
 
 <div class="custom">
-	<!-- BEGIN LivePerson Monitor. LIVE -->
-<script type="text/javascript">
-window.lpTag=window.lpTag||{};if(typeof window.lpTag._tagCount==='undefined'){window.lpTag={site:'59828462',section:lpTag.section||'',autoStart:lpTag.autoStart||true,ovr:lpTag.ovr||{},_v:'1.4',_tagCount:1,protocol:location.protocol,events:{bind:function(app,ev,fn){lpTag.defer(function(){lpTag.events.bind(app,ev,fn)},0)},trigger:function(app,ev,json){lpTag.defer(function(){lpTag.events.trigger(app,ev,json)},1)}},defer:function(fn,fnType){if(fnType==0){this._defB=this._defB||[];this._defB.push(fn)}else if(fnType==1){this._defT=this._defT||[];this._defT.push(fn)}else{this._defL=this._defL||[];this._defL.push(fn)}},load:function(src,chr,id){var t=this;setTimeout(function(){t._load(src,chr,id)},0)},_load:function(src,chr,id){var url=src;if(!src){url=this.protocol+'//'+((this.ovr&&this.ovr.domain)?this.ovr.domain:'lptag.liveperson.net')+'/tag/tag.js?site='+this.site}var s=document.createElement('script');s.setAttribute('charset',chr?chr:'UTF-8');if(id){s.setAttribute('id',id)}s.setAttribute('src',url);document.getElementsByTagName('head').item(0).appendChild(s)},init:function(){this._timing=this._timing||{};this._timing.start=(new Date()).getTime();var that=this;if(window.attachEvent){window.attachEvent('onload',function(){that._domReady('domReady')})}else{window.addEventListener('DOMContentLoaded',function(){that._domReady('contReady')},false);window.addEventListener('load',function(){that._domReady('domReady')},false)}if(typeof(window._lptStop)=='undefined'){this.load()}},_domReady:function(n){if(!this.isDom){this.isDom=true;this.events.trigger('LPT','DOM_READY',{t:n})}this._timing[n]=(new Date()).getTime()}};lpTag.init()}else{window.lpTag._tagCount+=1}
-</script>
-<!-- END LivePerson Monitor. -->
-<!-- BEGIN Monitor Tracking Variables  -->
-<script type="text/javascript">
-if (typeof(lpMTagConfig) == "undefined"){ lpMTagConfig = {};}
-if (typeof(lpMTagConfig.sessionVar) == "undefined"){ lpMTagConfig.sessionVar = [];}
-lpMTagConfig.sessionVar[lpMTagConfig.sessionVar.length] = 'VIPCustomer=True';
-</script>
-<!-- End Monitor Tracking Variables  -->
-</div>
+	<script type="text/javascript" src="https://cdn.ywxi.net/js/1.js" async=""></script></div>
+
+
+<div class="custom">
+	<!-- BEGIN LivePerson Monitor. -->
+<script type="text/javascript"> window.lpTag=window.lpTag||{};if(typeof window.lpTag._tagCount==='undefined'){window.lpTag={site:'59828462'||'',section:lpTag.section||'',autoStart:lpTag.autoStart===false?false:true,ovr:lpTag.ovr||{},_v:'1.6.0',_tagCount:1,protocol:'https:',events:{bind:function(app,ev,fn){lpTag.defer(function(){lpTag.events.bind(app,ev,fn);},0);},trigger:function(app,ev,json){lpTag.defer(function(){lpTag.events.trigger(app,ev,json);},1);}},defer:function(fn,fnType){if(fnType==0){this._defB=this._defB||[];this._defB.push(fn);}else if(fnType==1){this._defT=this._defT||[];this._defT.push(fn);}else{this._defL=this._defL||[];this._defL.push(fn);}},load:function(src,chr,id){var t=this;setTimeout(function(){t._load(src,chr,id);},0);},_load:function(src,chr,id){var url=src;if(!src){url=this.protocol+'//'+((this.ovr&&this.ovr.domain)?this.ovr.domain:'lptag.liveperson.net')+'/tag/tag.js?site='+this.site;}var s=document.createElement('script');s.setAttribute('charset',chr?chr:'UTF-8');if(id){s.setAttribute('id',id);}s.setAttribute('src',url);document.getElementsByTagName('head').item(0).appendChild(s);},init:function(){this._timing=this._timing||{};this._timing.start=(new Date()).getTime();var that=this;if(window.attachEvent){window.attachEvent('onload',function(){that._domReady('domReady');});}else{window.addEventListener('DOMContentLoaded',function(){that._domReady('contReady');},false);window.addEventListener('load',function(){that._domReady('domReady');},false);}if(typeof(window._lptStop)=='undefined'){this.load();}},start:function(){this.autoStart=true;},_domReady:function(n){if(!this.isDom){this.isDom=true;this.events.trigger('LPT','DOM_READY',{t:n});}this._timing[n]=(new Date()).getTime();},vars:lpTag.vars||[],dbs:lpTag.dbs||[],ctn:lpTag.ctn||[],sdes:lpTag.sdes||[],ev:lpTag.ev||[]};lpTag.init();}else{window.lpTag._tagCount+=1;} </script>
+<!-- END LivePerson Monitor. --></div>
 <ul class="nav menu">
 <li class="item-308 current active"><a href="/legal/general/privacy-policy.html">Privacy</a></li><li class="item-767"><a href="/index.php/sitemap.html">Sitemap</a></li><li class="item-325"><a href="/reference.html">Reference</a></li><li class="item-756"><a href="/library.html">Library</a></li><li class="item-324"><a href="/about/general/contact.html">Contact Us</a></li></ul>
 
 
 <div class="custom">
 	<div style="text-align: center; margin-top: 10px">
-
-<a href="http://www.facebook.com/pages/CVISION-Technologies/198484273519666" title="CVISION Technologies Facebook Page" style="margin: 0px 10px" target="_blank">
-<img src="/images/facebook.png" border="0" alt="CVISION Technologies Facebook Page"></a>
+<a href="https://www.facebook.com/cvisiontech/" title="CVISION Technologies Facebook Page" style="margin: 0px 10px" target="_blank">
+<img src="/images/social_media_icons/icons_facebook-25x25.png" border="0" alt="CVISION Technologies Facebook Page" onmouseover="this.src='/images/social_media_icons/icons_facebook_hover-25x25.png'" onmouseout="this.src='/images/social_media_icons/icons_facebook-25x25.png'"></a>
 
 <a href="https://www.linkedin.com/company/cvision-technologies" title="CVISION Technologies LinkedIn Company Page" style="margin: 0px 10px" target="_blank">
-<img src="/images/linkedin.png" alt="CVISION Technologies LinkedIn Company Page"></a>
-<a href="http://www.youtube.com/user/CVISIONTech" title="CVISIONTech YouTube Channel" style="margin: 0px 10px" target="_blank">
-<img src="/images/youtube.png" border="0" alt="CVISION Technologies YouTube Channel"></a>
+<img src="/images/social_media_icons/icons_linkedin-25x25.png" border="0" alt="CVISION Technologies LinkedIn Company Page" onmouseover="this.src='/images/social_media_icons/icons_linkedin_hover-25x25.png'" onmouseout="this.src='/images/social_media_icons/icons_linkedin-25x25.png'"></a>
+
 <a href="https://twitter.com/CVISIONTech" title="@CVISIONTech Twitter Page" style="margin: 0px 10px" target="_blank">
-<img src="/images/twitter.png" border="0" alt="CVISION Technologies Twitter Page"></a>
-</div>
-<div style="text-align: center; margin-top: 10px">
-&nbsp;
-</div>
+<img src="/images/social_media_icons/icons_twitter-25x25.png" border="0" alt="CVISION Technologies Twitter Page" onmouseover="this.src='/images/social_media_icons/icons_twitter_hover-25x25.png'" onmouseout="this.src='/images/social_media_icons/icons_twitter-25x25.png'"></a>
+
+<a href="https://www.cvisiontech.com/blog/subscribe-to-the-visionary/" title="Subscribe to The Visionary Newsletter" style="margin: 0px 10px" target="_blank">
+<img src="/images/social_media_icons/icons_the-visionary-newsletter-25x25.png" border="0" alt="Subscribe to The Visionary Newsletter" onmouseover="this.src='/images/social_media_icons/icons_the-visionary-newsletter_hover-25x25.png'" onmouseout="this.src='/images/social_media_icons/icons_the-visionary-newsletter-25x25.png'"></a>
+
+<a href="https://www.cvisiontech.com/blog/" title="CVISION Technologies Blog" style="margin: 0px 10px" target="_blank">
+<img src="/images/social_media_icons/icons_blog-25x25.png" border="0" alt="CVISION Technologies Blog" onmouseover="this.src='/images/social_media_icons/icons_blog_hover-25x25.png'" onmouseout="this.src='/images/social_media_icons/icons_blog-25x25.png'"></a>
+
+<a href="https://www.youtube.com/user/CVISIONTech" title="CVISIONTech YouTube Channel" style="margin: 0px 10px" target="_blank">
+<img src="/images/social_media_icons/icons_youtube-25x25.png" border="0" alt="CVISION Technologies YouTube Channel" onmouseover="this.src='/images/social_media_icons/icons_youtube_hover-25x25.png'" onmouseout="this.src='/images/social_media_icons/icons_youtube-25x25.png'"></a>
+
 
 </div>
+
+<div style="text-align: center; margin-top: 10px">
+&nbsp;
+</div></div>
 
 				
 				</div>
@@ -746,7 +803,34 @@ lpMTagConfig.sessionVar[lpMTagConfig.sessionVar.length] = 'VIPCustomer=True';
 		</div>
 		<div class="spacer-25"></div>
 		
-				
+					<script>
+				(function() {
+
+					"use strict";
+
+					var toggles = document.querySelectorAll(".c-hamburger");
+
+					for (var i = toggles.length - 1; i >= 0; i--) {
+						var toggle = toggles[i];
+						toggleHandler(toggle);
+					};
+
+					function toggleHandler(toggle) {
+						toggle.addEventListener( "click", function(e) {
+							jQuery('body').toggleClass('menuOpen');
+							e.preventDefault();
+							(this.classList.contains("is-active") === true) ? this.classList.remove("is-active") : this.classList.add("is-active");
+						});
+					}
+
+				})();
+
+				jQuery('.c-hamburger').click(function(){
+
+					jQuery('#navigation').slideToggle();
+
+				});
+			</script>
 		
 
 
