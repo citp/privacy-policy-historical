@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thewhoot.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603205135id_/http%3A//thewhoot.com.au/advertising/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewhoot.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122062309id_/http%3A//thewhoot.com.au/advertising/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The WHOot
-
-**PRIVACY POLICY**
 
 Who Australia Pty Ltd A.C.N. 141 199 868 ( **we** , **us** , **our** , or **Who Australia** ) recognises and values the protection of your personal information. We are aware of our obligations under the _Privacy Act 1988_ (Cth) and we will ensure that we fulfil our obligations under that Act.
 
@@ -98,4 +96,4 @@ If you have any concerns or questions about our Privacy Policy, please contact u
 
 We reserve our right to modify or amend this Privacy Policy at any time. Should any significant amendments occur, notification would be provided by publication on the Website. For further information about privacy, please refer to the Australian Privacy Commissioner’s website [www.privacy.gov.au](http://www.privacy.gov.au/).
 
- _Privacy Policy last updated on 11 September 2012._
+ _Privacy Policy last updated on 15 November 2016._
