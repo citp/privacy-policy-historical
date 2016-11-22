@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deandeluca.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530101218id_/http%3A//www.deandeluca.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deandeluca.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122155656id_/http%3A//www.deandeluca.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -39,7 +39,7 @@ We may also share personally identifiable information with unaffiliated third pa
 
 At times, we partner with third parties to provide specific services, such as the mailing of our newsletters. When you sign up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. We have informed these parties that they are not allowed to use Personally Identifiable Information except for the purpose of providing these services.
 
-We occasionally make our list of customer names and street addresses available to carefully screened companies and organizations whose product and activities might be of interest to you.To be removed from the list of persons whose information is shared with third parties, please send an e-mail to [customercare@deandeluca.com](https://web.archive.org/web/20160530101218id_/http%3A//www.deandeluca.com/Feedback.aspx) or call 800.221.7714. You may also write to:
+We occasionally make our list of customer names and street addresses available to carefully screened companies and organizations whose product and activities might be of interest to you.To be removed from the list of persons whose information is shared with third parties, please send an e-mail to [customercare@deandeluca.com](https://web.archive.org/web/20161122155656id_/http%3A//www.deandeluca.com/Feedback.aspx) or call 800.221.7714. You may also write to:
 
 DEAN & DELUCA  
 Attn: Customer Care  
@@ -72,7 +72,7 @@ At times, we partner with third parties to provide specific services, such as th
 
 We may also share personally identifiable information with unaffiliated third parties if (1) you request or authorize it, (2) the information is provided to help complete a transaction for you as described above, (3) the information is provided to comply with the law, applicable regulations, court orders or subpoenas, to enforce our terms of use or other agreements, or to protect our rights, property or safety, or the rights, property or safety of our users or others, (4) the disclosure is done as part of a purchase, transfer or sale of the company or any of its services or assets (e.g., in the event that we sell assets to another party, customer information may be one of the transferred assets), or (5) the information is provided to such third parties as otherwise described in this privacy policy.
 
-We occasionally make our list of customer names and street addresses available to carefully screened companies and organizations whose product and activities might be of interest to you. To be removed from the list of persons whose information is shared with third parties, please send an e-mail to [customercare@deandeluca.com](https://web.archive.org/web/20160530101218id_/http%3A//www.deandeluca.com/Feedback.aspx) or call 800.221.7714. You may also write to:
+We occasionally make our list of customer names and street addresses available to carefully screened companies and organizations whose product and activities might be of interest to you. To be removed from the list of persons whose information is shared with third parties, please send an e-mail to [customercare@deandeluca.com](https://web.archive.org/web/20161122155656id_/http%3A//www.deandeluca.com/Feedback.aspx) or call 800.221.7714. You may also write to:
 
 DEAN & DELUCA  
 Attn: Customer Care  
@@ -85,7 +85,7 @@ Effective date of this privacy policy is April 10, 2012
 
 ## Updating Your Information
 
-At any time you may review, update, correct, or change the Personally Identifiable Information you have provided to us. You may also choose to no longer receive any communication from DEAN & DELUCA, however you may continue to receive communications from those companies we shared your information with prior to your notification to us. You may use our Web site, through the My Account pages, to change your information. Alternatively, you can e-mail us at [customercare@deandeluca.com](https://web.archive.org/web/20160530101218id_/http%3A//www.deandeluca.com/Feedback.aspx), or call us 800.221.7714.
+At any time you may review, update, correct, or change the Personally Identifiable Information you have provided to us. You may also choose to no longer receive any communication from DEAN & DELUCA, however you may continue to receive communications from those companies we shared your information with prior to your notification to us. You may use our Web site, through the My Account pages, to change your information. Alternatively, you can e-mail us at [customercare@deandeluca.com](https://web.archive.org/web/20161122155656id_/http%3A//www.deandeluca.com/Feedback.aspx), or call us 800.221.7714.
 
 You may also write to us at:  
 DEAN & DELUCA  
@@ -109,7 +109,7 @@ In order to set up an account with DEAN & DELUCA, you must first complete the re
 
 ## Catalog Mailing List
 
-If you wish to subscribe to our catalog mailing list, we ask for contact information such as name and street address. We occasionally make our list of customer names and street addresses available to carefully screened companies and organizations whose product and activities might be of interest to you.To be removed from the list of persons whose information is shared with third parties, please send an e-mail to [customercare@deandeluca.com](https://web.archive.org/web/20160530101218id_/http%3A//www.deandeluca.com/Feedback.aspx) or call 800.221.7714. You may also write to:
+If you wish to subscribe to our catalog mailing list, we ask for contact information such as name and street address. We occasionally make our list of customer names and street addresses available to carefully screened companies and organizations whose product and activities might be of interest to you.To be removed from the list of persons whose information is shared with third parties, please send an e-mail to [customercare@deandeluca.com](https://web.archive.org/web/20161122155656id_/http%3A//www.deandeluca.com/Feedback.aspx) or call 800.221.7714. You may also write to:
 
 DEAN & DELUCA  
 Attn: Customer Care  
@@ -120,7 +120,7 @@ You may continue to receive communications from those companies we shared your i
 
 ## Email List
 
-If you wish to receive e-mail notifications from us about products, services and promotions, we ask for contact information such as name and e-mail address. To be removed from our e-mail list, please click [opt-out](http://links.mkt265.com/ui/modules/display/optOut.jsp?f=38103&m=739794&r=OTEzNDI3NDQ1S0&j=NDI2MjE2MzMS1&mt=1)or send an e-mail to [customercare@deandeluca.com](https://web.archive.org/web/20160530101218id_/http%3A//www.deandeluca.com/Feedback.aspx) or call 800.221.7714. You may also write to:
+If you wish to receive e-mail notifications from us about products, services and promotions, we ask for contact information such as name and e-mail address. To be removed from our e-mail list, please click [opt-out](http://links.mkt265.com/ui/modules/display/optOut.jsp?f=38103&m=739794&r=OTEzNDI3NDQ1S0&j=NDI2MjE2MzMS1&mt=1)or send an e-mail to [customercare@deandeluca.com](https://web.archive.org/web/20161122155656id_/http%3A//www.deandeluca.com/Feedback.aspx) or call 800.221.7714. You may also write to:
 
 DEAN & DELUCA  
 Attn: Email Opt-Out  
@@ -133,7 +133,7 @@ From time-to-time our site requests information from you via surveys. Participat
 
 We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
 
-We occasionally make our list of customer names and street addresses available to carefully screened companies and organizations whose product and activities might be of interest to you.To be removed from the list of persons whose information is shared with third parties, please send an e-mail to [customercare@deandeluca.com](https://web.archive.org/web/20160530101218id_/http%3A//www.deandeluca.com/Feedback.aspx) or call 800.221.7714. You may also write to:
+We occasionally make our list of customer names and street addresses available to carefully screened companies and organizations whose product and activities might be of interest to you.To be removed from the list of persons whose information is shared with third parties, please send an e-mail to [customercare@deandeluca.com](https://web.archive.org/web/20161122155656id_/http%3A//www.deandeluca.com/Feedback.aspx) or call 800.221.7714. You may also write to:
 
 DEAN & DELUCA  
 Attn: Marketing  
@@ -142,7 +142,7 @@ Wichita, KS 67219
 
 Special Offers 
 
-We send all new members a welcoming e-mail to verify password and username. Established members will occasionally receive information on products, services, special offers, and a newsletter. Out of respect for your privacy, we present the option to not receive these types of communications in every e-mail. You may also email [customercare@deandeluca.com](https://web.archive.org/web/20160530101218id_/http%3A//www.deandeluca.com/Feedback.aspx) or call 800.221.7714 at any time. 
+We send all new members a welcoming e-mail to verify password and username. Established members will occasionally receive information on products, services, special offers, and a newsletter. Out of respect for your privacy, we present the option to not receive these types of communications in every e-mail. You may also email [customercare@deandeluca.com](https://web.archive.org/web/20161122155656id_/http%3A//www.deandeluca.com/Feedback.aspx) or call 800.221.7714 at any time. 
 
 ## Security
 
