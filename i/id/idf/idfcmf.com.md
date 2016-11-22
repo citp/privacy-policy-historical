@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idfcmf.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607061607id_/http%3A//www.idfcmf.com/uploads/privacy-policy_11182014050129.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idfcmf.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122192545id_/http%3A//www.idfcmf.com/uploads/privacy-policy_11182014050129.pdf) for the most accurate reproduction.*
 
 # 
 
