@@ -1,22 +1,30 @@
-> *The following text is extracted and transformed from the peanutlabs.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604153641id_/http%3A//web.peanutlabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peanutlabs.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122064834id_/http%3A//web.peanutlabs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Peanut Labs – DIY Sample and Surveys
 
 [](http://privacy.truste.com/privacy-seal/Peanut-Labs-Inc-/validation?rid=cd3ec329-985a-4c1b-814c-92ea1151a745 "Validate TRUSTe privacy certification")
 
-**Effective Date:**  12/31/2015
+**Effective Date:**  09/26/2016
 
 Peanut Labs Inc. (“Peanut Labs”) is committed to protecting the privacy and confidentiality of your information on our Website  **[www.peanutlabs.com](http://www.peanutlabs.com/)**  and on the Peanut Labs platform. As a data collection company, we provide accurate and dependable data to the market research industry. Our services offer respondents the opportunity to take part in market research and express opinions and attitudes regarding a broad range of subjects. Our clients depend on this information to make many decisions that affect the products and services in the marketplace. Any data that we collect for a study is reported only in aggregate, and specific information regarding individuals is never viewed or published. All information gathered either during registration or in supplemental demographic surveys is provided the highest level of security.
-
-The TRUSTe program covers only information that is collected through this Web site, http://www.peanutlabs.com and through the Peanut Labs platform. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Peanut Labs.
-
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
 ### Trans-National Data Flow
 
 Peanut Labs adheres to the Organization for Economic Co-operation and Development (OECD) guidelines, specifically the Fair Information Practices governing the protection of privacy. This involves the trans-border data flows of personal data. International Data Transfers are defined as the transmission of personal information from one jurisdiction to another. Many jurisdictions, most notably the European Union (EU), place significant restrictions on such transfers. The EU requires that the receiving jurisdiction be judged to have “adequate” data protection practices.
 
 Peanut Labs transfers data between the EU and the U.S. in accordance with standard contractual clauses for the transfer of personal data to processors established in third countries (“Model Contract”) pursuant to the Commission Decision 2010/87/EU of 5th February, 2010.
+
+### EU-U.S. Privacy Shield
+
+Peanut Labs(and its parent company Research Now Group, Inc.) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  Peanut Labs is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list).
+
+Peanut Labs is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  Peanut Labs complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+
+With respect to personal data receivedortransferred pursuant to the Privacy Shield Framework, Peanut Labs is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, [Participant] may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 ### What We Gather
 
@@ -34,7 +42,7 @@ We collect aggregated information for our clients and partners, if you are a cus
 
 ### Access to and Retention of Data Controlled by our Clients
 
-Peanut Labs has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Peanut Lab’s Client (the data controller). If requested to remove data we will respond within a reasonable timeframe.
+We acknowledge that you have the right to access your personal information. Peanut Labs has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Peanut Lab’s Client (the data controller). If requested to remove data we will respond within a reasonable timeframe.
 
 Peanut Labs will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. Peanut Labs will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -55,6 +63,8 @@ We may also provide your personal information to companies that provide services
 Peanut Labs’ surveys and website are not designed nor intended for use by children under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If we discover that we have inadvertently gathered any such information for a child under 13, we will take appropriate steps to delete it. If your child has submitted personal information, and you wish to delete such information, as well as refuse to allow any further collection or use of your child’s information, please contact us at the address provided below. Peanut Labs adheres to the Children’s Online Privacy Protection Act.
 
 ### Access and Choice
+
+Upon request Peanut Labs will provide you with information about whether we hold any of your personal information.
 
 If your personal information changes, you may correct, update, amend, delete/remove it by emailing us at [support@peanutlabs.com](mailto:support@peanutlabs.com).  We will respond to your request to access within a reasonable time frame.
 
@@ -86,6 +96,8 @@ Due to the technological world we live in and the constant threat to Internet se
 
 ### Legal Disclaimer
 
+In certain situations, Peanut Labs may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
 Peanut Labs may be required by law to disclose personal information in order to comply with a subpoena, current judicial proceeding, court order, or similar legal process served on our Company or website and when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. In such an event we will notify individuals that such an action has been taken and at the same time divulge such information as has been subpoenaed after conferring with our attorney.
 
 ### Business Transfer
@@ -108,7 +120,7 @@ Our Web site offers publicly accessible blogs. You should be aware that any info
 
 Our Web site includes social media features, such as the Facebook and Twitter buttons and widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with these features are governed by the privacy policy of the company providing it.
 
-### iFrame Disclosure
+### Disclosure
 
 Please note that we supply content to other websites who promote surveys. You will always know when Peanut Labs is collecting your information as our privacy policy will be linked from that page. Only aggregated de-identified information is shared with our partners.
 
