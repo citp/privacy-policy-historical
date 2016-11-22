@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the innocentive.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513051258id_/http%3A//www.innocentive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innocentive.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122140848id_/https%3A//www.innocentive.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Innocentive
+# Privacy Policy | InnoCentive
 
 **InnoCentive respects and protects your data privacy rights.** This statement includes InnoCentive’s European Union – U.S. Safe Harbor Privacy Statement and our Website Privacy and Cookie Statements.
 
