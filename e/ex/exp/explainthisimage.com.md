@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the explainthisimage.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607155320id_/http%3A//explainthisimage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explainthisimage.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122030139id_/http%3A//www.explainthisimage.com/privacy-policy) for the most accurate reproduction.*
 
-# Explain This Image - Privacy Policy
+# Policy of the Privacy - Explain This Image
 
 ## Privacy Policy for the HORSE HEAD HUFFER network
 
