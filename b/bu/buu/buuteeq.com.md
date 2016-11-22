@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buuteeq.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317040953id_/http%3A//suite.booking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buuteeq.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122120643id_/http%3A//suite.booking.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement » BookingSuite
 
@@ -6,9 +6,10 @@
 
 This privacy statement applies to the services provided by BookingSuite B.V., Herengracht 597, 1017 CE Amsterdam, the Netherlands, (“ **BookingSuite** “) and describes how BookingSuite collects and uses the personal information you provide on our website [http://suite.booking.com](http://suite.booking.com/) (“ **Site** ”) or via the online registration and an account facility (the “ **Backoffice** ”). The Site and the Backoffice are jointly referred to as the “ **Services** “. An accommodation website provided through BookingSuite is referred to as an “ **Accommodation Site** ”. It also describes the rights and choices you have regarding our processing of your personal information.
 
-We may amend this privacy statement from time to time, we will notify you by email (sent to the email address specified in the Backoffice) or by means of a notice on this website prior to the change becoming effective so please visit this page regularly to keep abreast of the updates.
-
+We may amend this privacy statement from time to time, we will notify you by email (sent to the email address specified in the Backoffice) or by means of a notice on this website prior to the change becoming effective so please visit this page regularly to keep abreast of the updates.  
 The TRUSTe program covers only information that is collected through this website, [http://suite.booking.com](http://suite.booking.com/), and the Backoffice. The use of information collected through our Services shall be limited to the purpose of providing the Services for which you have engaged BookingSuite. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=915451a4-ddeb-42b3-b9b9-5f36494dc37e "TRUSTe Privacy Certification")
 
 **Information Related to Data Collected through an accommodation site**
 
