@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kwintessential.co.uk privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601195743id_/http%3A//www.kwintessential.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwintessential.co.uk privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122093632id_/http%3A//www.kwintessential.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy: Cookies and Personal Information
 
