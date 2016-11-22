@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lookatwhatimade.net privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608135412id_/http%3A//www.lookatwhatimade.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookatwhatimade.net privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122074221id_/http%3A//www.lookatwhatimade.net/privacy-policy) for the most accurate reproduction.*
 
 # Disclosure and Privacy Policy – Look At What I Made
 
