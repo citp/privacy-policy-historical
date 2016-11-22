@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gogoro.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509173914id_/http%3A//www.gogoro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogoro.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122160409id_/http%3A//www.gogoro.com/privacy-policy) for the most accurate reproduction.*
 
 # Gogoro - Introducing the world's first and only Smartscooter™
 
