@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jegsworks.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606001124id_/http%3A//www.jegsworks.com/aboutsite/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jegsworks.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122103220id_/http%3A//jegsworks.com/aboutsite/privacypolicy.htm) for the most accurate reproduction.*
 
 # Jegsworks: Privacy Policy
 
@@ -50,7 +50,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our [Terms of Service](https://web.archive.org/web/20160606001124id_/http%3A//www.jegsworks.com/aboutsite/termsofservice.htm) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms of Service](https://web.archive.org/web/20161122103220id_/http%3A//jegsworks.com/aboutsite/termsofservice.htm) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your Consent**
 
