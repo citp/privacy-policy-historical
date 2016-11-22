@@ -1,14 +1,7 @@
-> *The following text is extracted and transformed from the 50statesclassifieds.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404134835id_/http%3A//www.50statesclassifieds.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50statesclassifieds.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122022807id_/http%3A//www.50statesclassifieds.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # USA Free Classifieds - Online newspaper classified ads serving all 50 States Free Classifieds
 
-|  |  [**Front  
-Page**](http://www.50statesclassifieds.com/) |   |  [**Classifieds  
-by Category**](http://www.50statesclassifieds.com/category.php) |   |  [**Featured  
-Members **](http://www.50statesclassifieds.com/FeaturedMembers.php) |   |  [**Log  
-In**](http://www.50statesclassifieds.com/signinform.php)  
----|---|---|---|---|---|---  
-  
 |   
 ---  
 |  |  |   **Policies**  
@@ -16,29 +9,24 @@ In**](http://www.50statesclassifieds.com/signinform.php)
 [Terms of Use](http://www.50statesclassifieds.com/TermsOfUse.php)  
 [Privacy Policy](http://www.50statesclassifieds.com/PrivacyPolicy.php)  
 [Refund Policy](http://www.50statesclassifieds.com/RefundPolicy.php)  
-  **[Featured](https://web.archive.org/web/20160404134835id_/http%3A//www.50statesclassifieds.com/FeaturedMembers.php)**  
+  **[Featured](https://web.archive.org/web/20161122022807id_/http%3A//www.50statesclassifieds.com/FeaturedMembers.php)**  
   
-[ WomensPlusSize  
-](https://web.archive.org/web/20160404134835id_/http%3A//www.50statesclassifieds.com/store.php?id=29315)  
+[ UptoYou  
+](https://web.archive.org/web/20161122022807id_/http%3A//www.50statesclassifieds.com/store.php?id=51444)  
   
 |   **Latest Ads**  
 ---  
-| [ my music ](http://www.50statesclassifieds.com/ad.php?id=193419)  
+| [ MAKE MONEY EVEN ON VACATION. IT'S TIME TO PUT THE POWER OF INCOME ALL YEAR TO WORK FOR YOU! ](http://www.50statesclassifieds.com/ad.php?id=196656)  
 ---  
-[ WANTED: Sell used and damaged cars and get money in return ](http://www.50statesclassifieds.com/ad.php?id=193415)  
-[ Romero Miller Wine ](http://www.50statesclassifieds.com/ad.php?id=193413)  
-[ Etalon Russian Vodka ](http://www.50statesclassifieds.com/ad.php?id=193412)  
-[ Sequin Bras, DD, Queen Size ](http://www.50statesclassifieds.com/ad.php?id=193408)  
-[ Orange County Caregivers ](http://www.50statesclassifieds.com/ad.php?id=193407)  
-[ Sequin Bras ](http://www.50statesclassifieds.com/ad.php?id=193406)  
-[ Sign up to become an Avon Independent Sales Representative ](http://www.50statesclassifieds.com/ad.php?id=193405)  
-[ 2005 Peterbilt 379EXHD for sale in Mina, SD. ](http://www.50statesclassifieds.com/ad.php?id=193401)  
-[ 2004 Hesston 4760 for sale in Goshen, IN. ](http://www.50statesclassifieds.com/ad.php?id=193399)  
-[ Pacific Headwear Custom Caps ](http://www.50statesclassifieds.com/ad.php?id=193394)  
-[ Vinyl Exam Gloves ](http://www.50statesclassifieds.com/ad.php?id=193389)  
-[ Macrosoft's Address Forever App lets you port your current address wherever you move ](http://www.50statesclassifieds.com/ad.php?id=193386)  
-[ Sublimated Wrestling Singlets ](http://www.50statesclassifieds.com/ad.php?id=193376)  
-[ Affordable Marble Cleaning & Restoration Services in Boca Raton ](http://www.50statesclassifieds.com/ad.php?id=193373)  
+[ Weather Balloons ](http://www.50statesclassifieds.com/ad.php?id=196619)  
+[ Estate Sale & Shabby Chic / Nov 18 & 19 / 8:30am-1:00pm / Andover, MA ](http://www.50statesclassifieds.com/ad.php?id=196618)  
+[ Wooden Wonders Living Large! Modern Doll House ](http://www.50statesclassifieds.com/ad.php?id=196596)  
+[ Asian Fin: Best Sushi and Japanese Restaurant in Palm Beach ](http://www.50statesclassifieds.com/ad.php?id=196595)  
+[ The Dancing Dandelion Flower Shop ](http://www.50statesclassifieds.com/ad.php?id=196588)  
+[ 2005, 36' MERIDIAN 368 MOTOR YACHT with Twin Cummins Diesels ](http://www.50statesclassifieds.com/ad.php?id=196583)  
+[ FlexFit Fitness Mats ](http://www.50statesclassifieds.com/ad.php?id=196565)  
+[ Notice of impound car to be auctioned off ](http://www.50statesclassifieds.com/ad.php?id=196554)  
+[ impound notice for auction ](http://www.50statesclassifieds.com/ad.php?id=196553)  
    
 |  Privacy Policy for 50StatesClassifieds.com  
 ---  
