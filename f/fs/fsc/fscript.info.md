@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fscript.info privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615173433id_/http%3A//fscript.info/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fscript.info privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122100238id_/http%3A//fscript.info/%3Fpage_id%3D2) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Food Script
 
