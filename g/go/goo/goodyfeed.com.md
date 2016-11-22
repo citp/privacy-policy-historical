@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodyfeed.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621193335id_/http%3A//www.goodyfeed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodyfeed.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122161333id_/http%3A//goodyfeed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Goody Feed
 
@@ -17,7 +17,7 @@ goodyfeed.com does use cookies to store information about visitors preferences, 
 – Google’s use of the DART cookie enables it to serve ads to users based on their visit to goodyfeed.com and other sites on the Internet.  
 – Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: http://www.google.com/privacy_ads.html
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Outbrain and Goody Books Pte. Ltd.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Outbrain, Smaato, Geniee Internationa, Facebook and Innity.
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on goodyfeed.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
@@ -26,3 +26,5 @@ goodyfeed.com has no access to or control over these cookies that are used by th
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. goodyfeed.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+For information about Facebook Audience Network ads, please visit <https://m.facebook.com/ads/audience_network/?_rdr>
