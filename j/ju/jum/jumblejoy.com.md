@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumblejoy.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313210241id_/http%3A//www.jumblejoy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumblejoy.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122143909id_/http%3A//www.jumblejoy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - JumbleJoy
 
