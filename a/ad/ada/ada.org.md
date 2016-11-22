@@ -1,74 +1,133 @@
-> *The following text is extracted and transformed from the ada.org privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228191149id_/http%3A//www.ada.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ada.org privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122024932id_/http%3A//www.ada.org/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Notice
 
   * ADA Contact Information
-  * Information We May Collect About You
-  * How We May Use Information We Collect
-  * Your Rights
+  * How We May Use and Disclose Information We Collect About You  
+
+  * Your Rights and Responsibilities
   * Children’s Privacy
   * More About Our Privacy Practices
   * Changes, Comments and Questions
 
 
 
+**Last Updated:   June 28, 2016**
+
+This Privacy Notice explains how the American Dental Association (“ADA”) and its subsidiary and affiliated entities (collectively, "ADA," "we," "us" or "our") collect information about you through our website and how this information is then used or disclosed. This Privacy Notice does not apply to websites that do not display or link to this notice or that have their own privacy notices or to information we may collect from you or about you in other ways, including through emails you may send to us.
+
 ### ADA Contact Information
 
-[ADA.org](http://ada.org/) is the website of the American Dental Association (ADA). The ADA respects the privacy of our members and other users of our website. This Privacy Policy addresses our use of information about you collected by virtue of your use of [ADA.org](http://ada.org/).
+You may contact us about this Privacy Notice:
 
-You may contact us about this Privacy Policy:
+Via postal address:  
+American Dental Association  
+211 E. Chicago Ave.  
+Chicago, IL 60611 
 
-Via postal address 211 E. Chicago Ave.  
-Chicago, IL 60611 By email [online@ada.org](mailto:online@ada.org)
+By email [MSC@ada.org](mailto:MSC@ada.org)
 
-### Information We May Collect About You
+### How We May Use and Disclose Information We Collect About You
 
-The information we collect via our Website is used to improve the content of [ADA.org](http://ada.org/) and advance the ADA's mission.
+The information we collect via our website may be used and disclosed to improve the content of ADA.org and advance the ADA’s mission. For example, the ADA may use this information for purposes such as:
 
-For each visitor to our Website, our Web server automatically recognizes only the user's domain name, but not the email address (where possible).
+  * Registering you for, or providing you with, programs and services you have requested
 
-We collect the domain name and internet protocol (IP) address of visitors to our Website, aggregate information on what pages users access or visit, user-specific information on what pages users access or visit, and information volunteered by users, including from surveys, purchases and/or registrations. We also may collect the email addresses of those who communicate with us via email.
 
-With respect to cookies: We use cookies for a number of purposes, including to administer our website and to record session information, such as items that users add to their shopping cart and user-specific information on what pages users access or visit, and to ensure that visitors are not repeatedly sent the same banner ads.
+  * Processing, fulfilling and following up on your orders or membership application
 
-### How We May Use Information We Collect 
 
-The ADA, its subsidiaries and affiliates may use your contact information to alert you to new information, products and services, events and other opportunities. From time to time, we may also make your contact information (but not your email address) available to other reputable organizations whose products or services we think you might find interesting.
+  * Providing access to publications
 
-The ADA maintains a directory of dentists that may include information you submit via our website. This directory is shared with state and local dental societies. A subset of this directory, containing information about ADA members, is publicly accessible on [ADA.org](http://ada.org/).
 
-With respect to your email address: We have instituted stringent reviews and opt-out capabilities to ensure that you do not receive unwanted email from the ADA. We will not give or sell your email address to any entity outside the ADA, its subsidiaries and affiliated entities (such as state and local dental societies).
+  * Responding to your emails or online requests
 
-A particular ADA subsidiary or affiliate may have certain privacy policies even more stringent than noted here, which will be indicated on its specific portion of [ADA.org](http://ada.org/) or its own site.
 
-### Your Rights
+  * Sending you information you request
 
-To help us keep our promise to respect your privacy, it is important when you wish to exercise your rights that you contact us via any of the means listed in the first section of this Privacy Policy. 
 
-If you do not want to receive email, postal mail, telephone calls or faxes from us in the future, or if you do not want us to share your contact information in the manner described above, please provide us with your exact name, email and postal addresses, phone and fax numbers and, if appropriate, ADA membership number. We will no longer use information you so identify and secured via [ADA.org](http://ada.org/) , if that is your wish. While we will continue to share information we maintain about you with state and local dental societies, we will do our best to be sure any other specific contact information you so identify is removed from any list we share with other organizations.
+  * Sending and processing surveys and continuing education quizzes
 
-On request we provide site visitors with access to all information that we may maintain about them, including financial information (e.g., credit card account information), unique identifier information (e.g., user/member number or password), transaction information (e.g., dates on which users made purchases, amounts and types of purchases), communications that the visitor has directed to our site (e.g., emails, user inquiries), and contact information (e.g., name, address, phone number).
 
-On request we also offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information and communications that the visitor has directed to the site.
+  * Publishing membership directories and registration lists
 
-You may also contact us if you believe your information is being used for purposes other than those for which it was originally collected.
+
+  * Sharing with companies to offer you products and services that may be of interest to you 
+
+
+  * Sharing your email address with companies to deliver communications on our behalf
+
+
+  * Sharing your email address as described below
+
+
+  * Sharing information about you with members and state and local dental societies
+
+
+  * Sharing information about you with service providers 
+
+
+  * Sharing with third parties as required by law
+
+
+  * Sharing demographic information for research purposes
+
+
+
+For each visitor to our website, where reasonably possible, our web server automatically recognizes only the user’s internet protocol (IP) address, but not the email address. Our system can recognize the identity of individuals who sign in using their usernames and passwords.
+
+We collect information such as the internet protocol (IP) address of visitors to our website, aggregate information on what pages users access or visit, user-specific information on what pages users access or visit, and information volunteered by users, including from surveys, purchases and/or registrations. We also may collect the email addresses of those who communicate with us via email.
+
+With respect to cookies: We use cookies for a number of purposes, including to administer our website and to record session information, such as items that users add to their shopping carts and user-specific information on what pages users access or visit. 
+
+Advertising on ADA.org may be served through a vendor that uses IP addresses for purposes such as controlling ad frequency.
+
+The ADA, its subsidiary and affiliates may use or disclose your contact information and other information about you, such as your occupation, specialty, member status, graduation date and dental school, to alert you to new information, products and services, events and other opportunities. From time to time, we may also make your contact information and other information about you available to other organizations we believe to be reputable, such as companies whose products or services we think you might find interesting. If you register on ADA.org to attend an event, the ADA may provide an attendee list to other attendees and to entities that collaborate with the ADA on the event.
+
+With respect to your email address: We generally do not knowingly disclose your e-mail address without your express or implied consent.  We may disclose your e-mail address if you serve in a leadership capacity or if you provide your e-mail address in connection with an event or an attendee list. We have instituted opt-out capabilities to help you avoid receiving unwanted commercial email messages from the ADA. We will not knowingly give or sell your email address to any unrelated entity outside the ADA, its service providers, subsidiaries and affiliated entities, ADA members, and state and local dental societies. 
+
+The ADA maintains directories of dentists that may include information you submit via our website. These directories are shared with ADA members and state and local dental societies. A directory containing information about ADA members is publicly accessible on MouthHealthy.org; members may elect to provide additional information, such as email address and photo, through the expanded profile option. 
+
+The ADA may provide delegates’ names and mailing addresses in response to a request from a dental specialty organization. The Journal of the American Dental Association (JADA) publishes delegates’ names, districts, cities and states, as well as information, including ADA.org email addresses, about officers and trustees. 
+
+The ADA may share or license information about you to a third party if, in our sole discretion, we believe that it is  (1) reasonably necessary to perform a service or deliver a product or publication; (2) authorized by you or as set forth in any applicable agreement (whether express or implied) between you and ADA, or with your consent; (3) permitted under this Privacy Notice; (4) required by statute or regulation; (5) of interest to dentists, dental students, members of the dental team, or consumers of dental services, or (6) in the good-faith belief that such action is appropriate for reasons of security or legal compliance.
+
+If you participate in an activity such as attending or speaking at a program or authoring a publication, information such as your name and photo may be shared via ADA.org or ADA publications.
+
+The ADA also occasionally hires other companies to provide services on our behalf, including, but not limited to, hosting of online resources, processing credit card transactions, packaging, order fulfillment, answering customer questions about products or services, consulting services, data modeling, printing, sending postal mail and processing membership and event registration. We will provide those companies with information they need to deliver the service. Third parties may collect information such as your IP address that may indicate your online activities over time or across different websites when you use our websites. At this time, this website does not respond to do-not-track signals.
+
+If you use the ADA Credentialing Service the ADA transfers certain information about you into the ADA Credentialing Service, and you enter certain other information into the ADA Credentialing Service. The payors, hospitals and employers that you designate can access the information about you in the ADA Credentialing Service and can use it from time to time for credentials verification. The ADA and its service providers can access the information about you in the ADA Credentialing Service and can use it from time to time to make the service available. Security measures that include computer safeguards and secured files and buildings are in place to protect your personal information from unauthorized access and use. If information about you is disposed of, it will done securely. 
+
+### Your Rights and Responsibilities
+
+It is important when you wish to exercise your rights that you contact us via any of the means listed in the first section of this Privacy Notice. 
+
+While the ADA takes measures to protect your personal information, no security measure or network is entirely secure. Your password to access ADA.org should be complex and should never be shared with anyone, and should be changed from time to time. After you access ADA.org, you should log off and exit your browser so unauthorized persons cannot access the site. 
+
+If you do not want to receive email, postal mail, telephone calls from us in the future, or if you do not want us to share your contact information in the manner described above, please provide us with your exact name, email and postal addresses, phone and fax numbers and, if appropriate, ADA membership number to msc@ada.org. It may take up to four weeks for your opt out to become effective. While we will continue to share information we maintain about you with our service providers, subsidiary and affiliates, and with state and local dental societies, we will take reasonable steps to ensure that any other specific contact information you so identify is removed from lists we share with other organizations. 
+
+On request we may provide site visitors with access to information that they submitted via ADA.org, such as certain transaction information (e.g., dates on which users made purchases, amounts and types of purchases), communications that the visitor has directed to our site (e.g., emails, user inquiries), and contact information (e.g., name, address, phone number). 
+
+On request we may also offer the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information and certain other data.
+
+  You may also contact us at msc.ada.org if you believe your information is being used improperly.
+
+You may provide consent to additional uses and disclosures; for example, in connection with a product or service offered by the ADA, an affiliated entity, or a third party.
 
 ### Children's Privacy
 
-We are concerned about protecting children's privacy. We do not offer or sell products or services for purchase by children. If you are under 18 years of age, you may not purchase products or services from, and you should not provide information to, [ADA.org](http://ada.org/). without the involvement of a parent or guardian. We do not collect online contact information without prior parental consent or parental notification, including an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will be used only to respond directly to the child's request and will not be used for other purposes. Nor without prior parental consent do we collect personally identifiable offline contact information, distribute to third parties any personally identifiable information or give the ability to publicly post or otherwise distribute personally identifiable contact information. We do not entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity.
+We do not knowingly solicit data online from, or market online to children under the age of 13.
 
 ### More About Our Privacy Practices 
 
-With respect to other websites and servers: [ADA.org](http://ada.org/) contains links to other websites. We have no control over and take no responsibility for the privacy practices or content of those sites. 
+With respect to other websites and servers: ADA.org contains links to other websites. We have no control over and take no responsibility for the privacy practices or content of those sites.
 
-The ADA does not partner with or have special relationships with ad server companies. However, we are running an advertising campaign pertaining to Direct Reimbursement on outside Websites that link to [ADA.org](http://ada.org/). The ADA utilizes transparent 1x1 pixel GIF files, provided by DoubleClick to help manage this online advertising. The information collected is anonymous and not personally identifiable. For more information about DoubleClick, including information about how to opt out of these technologies, go to [http://www.doubleclick.net/us/corporate/privacy/](http://www.doubleclick.net/us/corporate/privacy).
+  We use Doubleclick for Publishers (DPF) Small Business to serve ads on our site.
 
-With respect to security: We use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. When users choose to make payments via credit cards, we submit the information needed to obtain payment to the appropriate clearinghouses. We do not store or reuse this credit card information, unless you have given your authorization for us to do so.
-
-Note: Health information you may share via [ADA.org](http://ada.org/) is neither private nor confidential and should be shared, if at all, only in accordance with applicable laws.
+When users choose to make payments via credit cards, they do so on the website of a third party service provider. We do not store or reuse credit card information unless you have given us your credit card information directly and authorized us to do so. 
 
 ### Changes, Comments and Questions 
 
-If our information practices change at some time in the future we will post the policy changes to our Website to notify you and allow you to opt out of new uses. The latest version of our Privacy Policy will always be available at [ADA.org](http://ada.org/). If you are concerned about how your information may be used, please check back at our Website periodically. 
+If our Privacy Notice changes at some time in the future we will post the revised Privacy Notice to our website to notify you and the changes will be effective on the day that we post the revised privacy notice. The latest version of our Privacy Notice will always be available at ADA.org. If you are concerned about how your information may be used, please check back at our website periodically.
 
-We welcome your comments or questions about our Privacy Policy and privacy practices. If you feel that this site is not following its stated policy, please let us know.
+We welcome your comments or questions about our Privacy Notice and privacy practices. If you feel that this site is not following its stated policy, please let us know.
