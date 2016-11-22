@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starmakerstudios.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325184521id_/http%3A//starmakerstudios.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starmakerstudios.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122102633id_/http%3A//starmakerstudios.com/privacy) for the most accurate reproduction.*
 
 # StarMaker
 
@@ -61,6 +61,10 @@ Like many online services, Starmaker uses "cookies" on our Services to collect i
 
 You can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Services or all functionality of the Services. We may engage third-party service providers (including third-party advertisers) that may also place their own cookies on your browser. Note that this Privacy Policy covers only our use of cookies and does not include use of cookies by such third parties.
 
+### Google Analytics
+
+We use Google Analytics' Demographics and Interest Reporting feature to collect information about use of the Site. Google Analytics collects information such as how often users visit the Site, what pages they visit when they do so, and what other sites they used prior to coming to the Site. We will not facilitate the merging of your Personal Data with non-personally identifiable information collected through Google Analytics unless we have given you notice of that merger. You may opt-out of Google Analytics tracking with the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
+
 ### Sharing of your information
 
 #### Starmaker Audio and Video Recordings and Account Information:
@@ -69,7 +73,7 @@ When you register through the Services and submit Personal Information to create
 
 #### Information Shared with Third Parties:
 
-We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information. We may also provide your Personal Information to our business partners or other trusted entities for the purpose of providing you with information on goods or services we believe will be of interest to you. You can, at any time, opt out of receiving such communications. 
+We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information. We may also provide your Personal Information to our business partners or other trusted entities for the purpose of providing you with information on goods or services we believe will be of interest to you. Please see our Special Notice to California Residents below.
 
 #### Service Providers:
 
@@ -129,9 +133,13 @@ We will make any legally required disclosures of any breach of the security, con
 
 Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Starmaker transfers Personal Information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-### California Do Not Track Disclosures
+### Do Not Track Disclosures
 
 Our Services are not set up to respond to Do Not Track ("DNT") signals. We use third party service providers like Google Analytics for tracking purposes.
+
+### Special Notice to California Residents
+
+California residents may request a list of all third parties to which we have disclosed certain Personal Information about you for marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at: [info@starmakerstudios.com](mailto:info@starmakerstudios.com). Please allow up to thirty (30) days for a response.
 
 ### Links to Other Sites
 
