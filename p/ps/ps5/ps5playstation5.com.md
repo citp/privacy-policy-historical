@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ps5playstation5.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602060545id_/http%3A//www.ps5playstation5.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ps5playstation5.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122203020id_/http%3A//www.ps5playstation5.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer
 
