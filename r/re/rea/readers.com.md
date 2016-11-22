@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readers.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405045223id_/http%3A//www.readers.com/privacypolicy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readers.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122093548id_/http%3A//www.readers.com/privacypolicy1.html) for the most accurate reproduction.*
 
 # Privacy Policy | Readers.com
 
@@ -14,11 +14,15 @@ This site does not sell or rent personally identifying information. This site do
 
 This site reserves the right to release information on Internet Users if compelled to do so by proper judicial or governmental authorities. Disclosure shall be limited to only those we are compelled to disclose to. At present, all information processing occurs in the United States.
 
-This Site uses cookies to keep track of session IDs. A cookie is a small piece of information stored by a web server on your computer's hard drive. Any cookie in use by our server is temporary and will be removed when the user logs out or is timed-out by the server. Additionally, we record IP addresses to analyze trends and administer the site. An IP address is a number that is automatically assigned to your computer by your Internet Service Provider when you connect to the Internet. IP addresses are NOT linked to any personally identifiable information.
+This Site uses cookies to keep track of session IDs. A cookie is a small piece of information stored by a web server on your computer's hard drive. Any cookie in use by our server is temporary and will be removed when the user logs out or is timed-out by the server. Additionally, we record IP addresses to analyze trends and administer the site. An IP address is a number that is automatically assigned to your computer by your Internet Service Provider when you connect to the Internet. IP addresses are NOT linked to any personally identifiable information. We reserve the right to also place or use tags, pixels, SDKs and other tracking technologies in connection with our marketing, behavioral advertising and mailing practices. By visiting this website, trusted third parties or their service providers, may place tracking technologies on your browsers, data may be collected for targeted advertising, and data collected may be shared with or used by third parties to target advertising based on your online or mobile activity.
 
 ### Information Other Websites Collect From You
 
 On the Site, we place links to other Websites operated by other parties. Some of these other Websites contain our brand names and trademarks and other intellectual property that we own; others do not. When you click on these links and visit these other Websites, regardless of whether or not they contain our brand names, trademarks and other intellectual property, you need to be aware that we do not control these other Websites or these other Websites' business practices, and that this privacy policy does not apply to these other Websites. Consequently, the operators of these other Websites may collect different kinds of information about you, and may use and disclose that information in different ways than we would if it were collected on the Site. We encourage you to review their privacy policies and remind you that we will not be responsible for their actions.
+
+### Promotional Communications
+
+We send out regular email newsletters with special discounts and offers, as well as information on product features and new product arrivals. If you are opted in to receiving promotional emails from us, you can expect to receive several emails per month. You can opt out of receiving promotional emails from us at any time by following the instructions provided in those emails or [contact us](http://www.readers.com/help.php?section=contactus&mode=update). Please note that even if you opt out of receiving promotional emails, we may continue to send you non-promotional emails, such as those about your account or our ongoing business relations.
 
 ### Updating this Policy
 
