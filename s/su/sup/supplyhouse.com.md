@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the supplyhouse.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510100329id_/http%3A//www.supplyhouse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supplyhouse.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122044707id_/http%3A//www.supplyhouse.com/privacy) for the most accurate reproduction.*
 
-# At SupplyHouse.com, we are strongly committed to protecting privacy of our customers and our customer's businesses. We know that you may have concerns about privacy while shopping on the Internet and like to ensure you understand the security, protection, and privacy of information we guarantee. - SupplyHouse.com
+# Privacy Policy - SupplyHouse.com
 
 At SupplyHouse.com, we are strongly committed to protecting the privacy of our customers and our customers' businesses. We understand that you may have concerns about privacy while shopping on the Internet and would like to ensure that you understand the security, protection, and privacy of information we guarantee.
 
@@ -14,7 +14,7 @@ You may create an account through SupplyHouse.com at any time by providing your 
 
 ### How will my information be used?
 
-Information collected on SupplyHouse.com may be used in the following ways:
+We do not sell or give your information to other companies to use in their marketing strategies, but it may be used in the following ways:
 
   * Schedule deliveries of merchandise that you purchase online
   * Create an online account for you at SupplyHouse.com
@@ -22,17 +22,16 @@ Information collected on SupplyHouse.com may be used in the following ways:
   * Confirm and track your orders
   * Respond to your customer service inquiries
   * E-mail newsletters and specials that you have requested
+  * To aid our data partner and advertising platforms in increasing the relevancy of our ads to you
 
 
+
+Our website may also use a website recording service which may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. Data collected by this service is used to improve our website usability. The information collected is stored and is used for and statistical reporting and is not shared with anybody else.
 
 ### How do you protect my personal and account information?
 
 All of the transactions on SupplyHouse.com are subject to VeriSign's security system, which makes use of 128 bit encryption via digital IDs. These IDs allow us to handle customer's credit card and personal information without the threat of identity theft or hacking. When you do business with us you can be certain you are dealing with a VeriSign, Inc. certified company. SupplyHouse.com is also tested and certified daily to pass the "McAfee Secure" Security Scan.
 
-### Is information shared with third parties?
-
-When you buy something from us we send your credit card information, name and the amount of your purchase to your credit card company to verify and authorize the purchase. Your name, telephone number and shipping information must be provided to third party shippers such as UPS and Yellow to deliver your purchase. We do not share any other information with any other third party.
-
 ### Third Party Cookies & Advertising
 
-Third party vendors, including Google, use cookies to serve the Google Trusted Seller badge on SupplyHouse.com and to serve ads based on a your prior visits to SupplyHouse.com. You may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/policies/privacy/ads/). Similarly, you can opt out of other third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp). SupplyHouse.com uses remarketing to reach users who have visited SupplyHouse.com in the past, with the objective of matching the right people to the right message. Some SupplyHouse.com ads are dynamic; these ads use a [Teracent cookie](http://www.teracent.com/about-us/privacy-policy/) and although we believe you will find these ads relevant, if you wish to, you can opt out of this Teracent cookie by visiting the [Teracent opt-out page](http://www.teracent.com/about-us/opt-out/).
+Third party vendors, including Google, use cookies to serve the Google Trusted Seller badge on SupplyHouse.com and to serve ads based on a your prior visits to SupplyHouse.com. You may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/policies/privacy/ads/). Similarly, you can opt out of other third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp). SupplyHouse.com uses remarketing to reach users who have visited SupplyHouse.com in the past, with the objective of matching the right people to the right message.
