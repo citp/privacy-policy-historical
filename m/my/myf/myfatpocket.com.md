@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the myfatpocket.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608053218id_/http%3A//www.myfatpocket.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfatpocket.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122075116id_/http%3A//www.myfatpocket.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy
-
+  
 To My Fat Pocket Pte Ltd, your privacy is of utmost importance. Hence, My Fat Pocket Pte Ltd wishes to let you know what information My Fat Pocket Pte Ltd collect when you visit the Website, how My Fat Pocket Pte Ltd collect such information, and how My Fat Pocket Pte Ltd use such information. By accessing the Website, you consent to the data practices described below. Please note that My Fat Pocket Pte Ltd may periodically make changes to the privacy. As such, please remember that it is your responsibility to remain informed about any changes.
 
   * (a) Information My Fat Pocket Pte Ltd may collect from you and how does My Fat Pocket Pte Ltd collect such information
@@ -20,15 +19,15 @@ Some of the information collected by My Fat Pocket Pte Ltd may not be explicitly
 
 In general, My Fat Pocket Pte Ltd may use information from you for the following purposes:
 
-  1.     * • perform research and analysis about your use of the Website, types of products you may be interested in or your shopping patterns. Such research and analysis may be disclosed to the Sellers or to any third parties which in My Fat Pocket Pte Ltd’s sole discretion may deem fit for the purpose of upgrading the Sellers’ services, contents or products which may be offered from time to time;
-    * • manage your account and provide you with customer support;
-    * • communicate with you by e-mail about products or services that may be of interest to you either from us or other third parties;
-    * • develop and display content tailored to your interests on the Website;
-    * • verify your eligibility and deliver prizes in connection with any contests and giveaways that the Website may have;
-    * • enforce the Terms and Conditions;
-    * • give away product samples to Buyers who are willing to have their personal information shared with the Sellers from time to time;
-    * • manage our business; and
-    * • perform functions as otherwise described to you at the time of collection. 
+  * • perform research and analysis about your use of the Website, types of products you may be interested in or your shopping patterns. Such research and analysis may be disclosed to the Sellers or to any third parties which in My Fat Pocket Pte Ltd’s sole discretion may deem fit for the purpose of upgrading the Sellers’ services, contents or products which may be offered from time to time;
+  * • manage your account and provide you with customer support;
+  * • communicate with you by e-mail about products or services that may be of interest to you either from us or other third parties;
+  * • develop and display content tailored to your interests on the Website;
+  * • verify your eligibility and deliver prizes in connection with any contests and giveaways that the Website may have;
+  * • enforce the Terms and Conditions;
+  * • give away product samples to Buyers who are willing to have their personal information shared with the Sellers from time to time;
+  * • manage our business; and
+  * • perform functions as otherwise described to you at the time of collection.
 
 
 
