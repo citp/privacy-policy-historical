@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apkpro.net privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616030157id_/http%3A//apkpro.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apkpro.net privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122105136id_/http%3A//apkpro.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Apkpro.net - Android Tutorial and Apk Apps Download
 
@@ -25,3 +25,8 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 ## Contact Information
 
 Concerns or questions about this privacy policy can be directed to apkpronet[at]gmail.com for further clarification.
+
+Incoming search terms:
+
+apkpronet , Net privacy apk
+
