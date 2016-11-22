@@ -1,33 +1,35 @@
-> *The following text is extracted and transformed from the theworkathomewife.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604153755id_/http%3A//theworkathomewife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theworkathomewife.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122110018id_/http%3A//theworkathomewife.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – The Work at Home Wife
+# Privacy Policy
 
-**Privacy Policy for www.theworkathomewife.com**
+TheWorkAtHomeWife.com (“Website”) is governed by the following privacy policy.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at angie@theworkathomewife.com.
+We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what information we may collect and how it may be used. This statement only applies to this Website. This Website may contain third-party links to other websites which are not governed by this policy.
 
-At www.theworkathomewife.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.theworkathomewife.com and how it is used.
+**_What Information Do We Collect and How Is This Information Used?_**
 
- **Log Files**  
-Like many other Web sites, www.theworkathomewife.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+  1. We may receive and store information that you voluntarily submit through the Website for the purpose of subscribing to the Website to receive newsletters, for the purpose of leaving comments on blog posts, or administering sweepstakes, contests or promotions. Examples of information collected for this purpose are your name, email address and website URL. This information is only captured when you voluntarily enter or opt-in and enter this information for collection.
+  2. We may receive and store certain types of usage-related information when you interact with the Website, including but not limited to, your computer’s IP address and browser information. The information we collect is used to customize the content and/or layout of our page for each individual visitor.
+  3. We use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies. No personal information is shared with the Website’s ad providers.
+  4. The Website uses Google Analytics to track statistics regarding our audience and Website traffic. No personally identifiable information is transferred from the Website to Google Analytics. [For more information on Google’s Analytics privacy policies, please visit this site](https://support.google.com/analytics/answer/6004245).
+  5. This Website engages in sponsored campaigns with various influencer networks, brands, and agencies. All sponsored content is duly disclosed in accordance with the FTC’s requirements. From time to time, these sponsored campaigns utilize tracking pixels (aka web beacons), which may contain cookies to collect data regarding usage and audience. This information is collected by the sponsoring company to track the results of the campaign. No personally identifiable information collected by the Website is used in conjunction with these tracking pixels.
+  6. The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described above.
+  7. TheWorkAtHomeWife.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com. As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
 
- **Cookies and Web Beacons**  
-www.theworkathomewife.com does not use cookies.
 
- **DoubleClick DART Cookie**  
-.:: Google, as a third party vendor, uses cookies to serve ads on www.theworkathomewife.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.theworkathomewife.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google Adsense  
-Commission Junction  
-Amazon
+**_Third-Party Use of Personal Information_**
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.theworkathomewife.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+The Website may provide personal information to an applicable third party in order to provide services. Currently, the Website uses the services of ConvertKit for delivery of email updates and newsletters. ConvertKit’s use of your personal information is subject to ConvertKit’s privacy policy.
 
-www.theworkathomewife.com has no access to or control over these cookies that are used by third-party advertisers.
+Your personal information is not shared with any other third-party applications.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.theworkathomewife.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+Information that does not identify you personally may be provided to other parties for marketing, advertising, or other uses.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+**_Will We Share the Personal Information It Collects?_**
+
+We will not sell, distribute, or reveal users’ email addresses or other personal information without their consent. This does not include third-party partners, such as those listed above.
+
+**_Modification or Deletion of Personal Information_**
+
+You can decline to submit personal information at any time. If you decline, we may not be able to continue to provide service to you. You may request deletion of your personal information by sending an email to angie@theworkathomewife.com, but in some cases, we may be required to keep your information by law. In such a case, it would no longer be active and would be kept separately in an archive.
