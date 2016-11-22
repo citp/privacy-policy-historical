@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kyanisocial.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627061447id_/http%3A//www.kyanisocial.com/privacy.php%3Flang%3DUS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kyanisocial.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122022552id_/http%3A//www.kyanisocial.com/privacy.php%3Flang%3DUS) for the most accurate reproduction.*
 
 # Kyani Social -
 
@@ -18,7 +18,7 @@ Our site asks you to use your cell phone so we may call, or text, you with infor
 
 ## Use of Cookies:
 
-Our site uses cookies to keep track of your session at kyanisocial.com. Cookies are an essential part of our tracking system and serve to ensure accurate placement of new members. Customer service is enhanced with use of cookies. 
+Our site uses cookies to keep track of your session at . Cookies are an essential part of our tracking system and serve to ensure accurate placement of new members. Customer service is enhanced with use of cookies. 
 
   
 
@@ -27,4 +27,4 @@ Our site uses cookies to keep track of your session at kyanisocial.com. Cookies 
 
 This site gives visitors the option for removing their information from our database, to not receive future communications, or to no longer receive our service. If you are not a current member, request to remove yourself from our database, 
 
-[here](mailto:visitor-removal@kyanisocial.com). 
+[here](mailto:visitor-removal@.com). 
