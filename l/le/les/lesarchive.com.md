@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lesarchive.com privacy policy that was archived on 2016-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160224083356id_/http%3A//purewebpower.net/dream_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lesarchive.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122092918id_/http%3A//purewebpower.net/dream_privacy.html) for the most accurate reproduction.*
 
 # Terms & Conditions
 
