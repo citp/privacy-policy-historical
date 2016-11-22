@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sport-fitness-advisor.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624044900id_/http%3A//www.sport-fitness-advisor.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sport-fitness-advisor.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122161149id_/http%3A//www.sport-fitness-advisor.com/privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -65,5 +65,8 @@ You may choose to restrict the collection or use of your personal information in
   * You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Kemp House | 160 City Road | London | EC1V 2NX | England.
   * If you believe that any information we are holding on you is incorrect or incomplete, please write to or [email us](http://www.sport-fitness-advisor.com/contact.html) as soon as possible. We will promptly correct any information found to be incorrect.
 
+  
+  
+  
   
 
