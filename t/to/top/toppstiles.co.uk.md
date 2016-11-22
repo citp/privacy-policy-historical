@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the toppstiles.co.uk privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608185226id_/http%3A//www.toppstiles.co.uk/page62/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toppstiles.co.uk privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122213410id_/http%3A//www.toppstiles.co.uk/page62/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Topps Tiles
 
-Topps Tiles (UK) ("We") are committed to protecting and respecting your privacy.
+Topps Tiles (UK) Ltd. (company number 4781209) ("We") are committed to protecting and respecting your privacy.
 
 This policy (together with our [terms of website use](https://web.archive.org/page63/terms-of-website-use.html) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.toppstiles.co.uk you are accepting and consenting to the practices described in this policy.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Topps Tiles (UK) of Grove Park, Thorpe Way, Enderby, Leicestershire, LE19 1SU.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Topps Tiles (UK) Ltd. (company number 4781209) of Grove Park, Thorpe Way, Enderby, Leicestershire, LE19 1SU.
 
 **INFORMATION WE MAY COLLECT FROM YOU**
 
