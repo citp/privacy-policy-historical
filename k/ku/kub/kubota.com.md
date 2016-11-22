@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the kubota.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623220101id_/http%3A//kubota.com/policy/KTCPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kubota.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122163330id_/http%3A//m.kubota.com/Home/Privacy) for the most accurate reproduction.*
 
-# Kubota Tractor USA - KTC Policy
-
-**KUBOTA TRACTOR CORPORATION, KUBOTA CREDIT CORPORATION AND KUBOTA TRACTOR  
-ACCEPTANCE CORPORATION AND AFFILIATES ONLINE PRIVACY POLICY**  
-Effective Date: **01/01/2016**
+# Kubota Tractor Privacy Policy
 
 **OUR APPROACH TO PRIVACY**  
 Kubota Tractor Corporation (“KTC”), Kubota Credit Corporation, U.S.A (“KCC”), Kubota Tractor Acceptance Corporation (“KTAC”) and their affiliates (collectively, “Kubota”) take your privacy seriously. Kubota understands transparency and respect are foundational aspects of longstanding relationships and, therefore, takes every reasonable effort to protect the information you provide to us.
@@ -140,7 +136,7 @@ Kubota does not share your personal information with other unaffiliated third-pa
 Kubota may also share or transfer your information to third parties: (a) when necessary to comply with federal or state law, a court order or other legal or regulatory process; (b) to protect our rights or property; or (c) in connection with the sale of assets and/or the company.
 
 **NOTICE, CHOICE AND CONSENT**  
-Where allowed by state and federal law, you may opt out of our use of your personal information collected through the Kubota websites to market Kubota services, by using our [Contact Us](https://web.archive.org/contactus/ContactKubotaForm.aspx?s=cs) form and selecting "KTC Marketing Opt Out" in the subject line drop down menu. If you financed your equipment through KCC, call (888) 465-8268 to opt out. Please note that even if you opt-out of receiving marketing material, we may still need to contact you with important information about your account or your equipment. For example, even if you opt-out of marketing e-mails, we will still send you a confirmation when you purchase something from our website, as well as product safety communications. 
+Where allowed by state and federal law, you may opt out of our use of your personal information collected through the Kubota websites to market Kubota services, by using our [Contact Us](https://web.archive.org/Home/Contact) form and selecting "KTC Marketing Opt Out" in the subject line drop down menu. If you financed your equipment through KCC, call (888) 465-8268 to opt out. Please note that even if you opt-out of receiving marketing material, we may still need to contact you with important information about your account or your equipment. For example, even if you opt-out of marketing e-mails, we will still send you a confirmation when you purchase something from our website, as well as product safety communications. 
 
 If you would like to minimize the information collected on your browsing of our websites, you may choose not to use all features on our websites. This may limit your online experience and available functionality on the websites. You may also manage the information we collect through our websites by adjusting the cookie and privacy settings in your web browser or your mobile device.
 
