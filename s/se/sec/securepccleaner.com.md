@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securepccleaner.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620145819id_/http%3A//securepccleaner.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securepccleaner.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122020133id_/http%3A//securepccleaner.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy- Secure PC Cleaner
 
