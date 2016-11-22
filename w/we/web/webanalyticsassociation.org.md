@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webanalyticsassociation.org privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325011809id_/http%3A//www.digitalanalyticsassociation.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webanalyticsassociation.org privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122173510id_/http%3A//www.digitalanalyticsassociation.org/privacypolicy) for the most accurate reproduction.*
 
 # Digital Analytics Association
 
