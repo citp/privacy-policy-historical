@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the everest.edu privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418011836id_/http%3A//www.everest.edu/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everest.edu privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122132435id_/http%3A//www.everest.edu/legal/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Everest Privacy Policy
 
 Everest, a member of the Zenith Education Group family (we", "us"), is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings.
 
