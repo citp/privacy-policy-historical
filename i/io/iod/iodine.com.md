@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iodine.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405044949id_/http%3A//www.iodine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iodine.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122054919id_/http%3A//www.iodine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Iodine.com
 
@@ -6,38 +6,33 @@
 
 ##### When you share information about your real-life health experiences on Iodine, you help others understand their options. You also help us in our mission to build a powerful resource for medical research that we hope can help make health information and products safer and more effective for everyone, including you.
 
-###### Your Shared Data may be shared with our Partners.
+Your Shared Data may be shared with our Partners.
 
-Opt out of sharing with Iodine Partners
-
-###### Private Data [ __]
+Private Data [ __]
 
 On Iodine, we’ll sometimes ask you for information that identifies you personally (such as your name or email address). We mark this Private Data with a lock symbol [ __]. We only share Private Data with your permission, or in some standard ways that we tell you about very clearly in our Privacy Policy.
 
-For example
-
+  * For example
   * Your name, your email address
 
 
 
-###### Shared Data [ __]
+Shared Data [ __]
 
 Shared Data is any information you provide on Iodine that’s not Private Data. This includes any demographic info or real-life experience that you choose to submit (such as your age, gender, medications, conditions, or drug ratings and reviews). If you don’t see a lock symbol [ __] next to the field you’re completing, the information you enter is Shared Data. It’s shared publicly on Iodine to help other users. Also, unless you opt out, we share it with trusted Iodine partners, such as medical researchers and collaborators.
 
-For example
-
+  * For example
   * Female, 61
   * Takes **lisinopril** for high **blood pressure.**
   * 'I started having a dry cough after taking this medication, and I’m thinking about switching.'
 
 
 
-###### Statistical Data
+Statistical Data
 
 We share statistics about our users publicly on Iodine and with trusted Iodine partners, such as medical researchers and collaborators.
 
-For example
-
+  * For example
   * '53% of women aged 35-54 thought this medication was worth it.'
 
 
@@ -96,9 +91,9 @@ We collect and store the information you choose to submit on Iodine. Certain inf
 
 ###### Information we collect automatically
 
-Like most websites and apps, we automatically collect certain information about how visitors use our services. We do this with automated data collection tools such as [server logs](https://web.archive.org/web/20160415173154/http://en.wikipedia.org/wiki/Server_log), [analytics](https://web.archive.org/web/20160415173154/http://en.wikipedia.org/wiki/Web_analytics), [cookies](https://web.archive.org/web/20160415173154/http://en.wikipedia.org/wiki/HTTP_cookie), and [web beacons](https://web.archive.org/web/20160415173154/http://en.wikipedia.org/wiki/Web_beacon).
+Like most websites and apps, we automatically collect certain information about how visitors use our services. We do this with automated data collection tools such as [server logs](http://en.wikipedia.org/wiki/Server_log), [analytics](http://en.wikipedia.org/wiki/Web_analytics), [cookies](http://en.wikipedia.org/wiki/HTTP_cookie), and [web beacons](http://en.wikipedia.org/wiki/Web_beacon).
 
-Through the Site: For example, when you use the Site, our server logs store your [IP address](https://web.archive.org/web/20160415173154/http://en.wikipedia.org/wiki/IP_address), browser type, operating system, and the pages you visited on Iodine. Here’s another example: we put a cookie (a marker) on your browser so our website knows that you already completed a survey about a drug and doesn’t ask you to do it again. Cookies are stored on your hard drive. On the other hand, web beacons are usually embedded on webpages or in e-mails. Like server logs, web beacons can also tell us what pages you visited on the Site.
+Through the Site: For example, when you use the Site, our server logs store your [IP address](http://en.wikipedia.org/wiki/IP_address), browser type, operating system, and the pages you visited on Iodine. Here’s another example: we put a cookie (a marker) on your browser so our website knows that you already completed a survey about a drug and doesn’t ask you to do it again. Cookies are stored on your hard drive. On the other hand, web beacons are usually embedded on webpages or in e-mails. Like server logs, web beacons can also tell us what pages you visited on the Site.
 
 Through the Iodine Apps: When you use an Iodine App, we collect certain information that your mobile device sends when you use the Iodine App, like a device identifier, user settings and the operating system of your device, as well as information about your use of Iodine.
 
@@ -133,7 +128,7 @@ We use this information to provide and improve our services.
 If we ask you for personally identifying information, you’ll see the [ __]. This lets you know that the information you are submitting is Private Data.
 
   * Examples of Private Data we may ask you for: Your name or email address
-  * Example of Private Data we collect automatically: Your [IP address](https://web.archive.org/web/20160415173154/http://en.wikipedia.org/wiki/IP_address) (which can identify your computer’s location)
+  * Example of Private Data we collect automatically: Your [IP address](http://en.wikipedia.org/wiki/IP_address) (which can identify your computer’s location)
 
 
 
@@ -219,7 +214,11 @@ You can:
 
 
 
-You choose what to submit and share on Iodine. You can opt out of sharing your Shared Data with our Partners.
+You choose what to submit and share on Iodine. You can 
+
+opt out
+
+of sharing your Shared Data with our Partners.
 
 ###### The security of your information
 
@@ -259,13 +258,15 @@ If you use Iodine outside of the United States, any information you give us will
 
 ###### Child privacy
 
-Our services are not intended or designed for children under 13, and we do not knowingly collect personally identifiable information from anyone under 13. If you find out that your child has provided us with personal information without your consent, contact us at [privacy@iodine.com](mailto:privacy@iodine.com). If we find out that a child under 13 has provided us with personal information, we’ll take steps to delete that information from our files as soon as possible.
+Our services are not intended or designed for children under 13, and we do not knowingly collect personally identifiable information from anyone under 13. If you find out that your child has provided us with personal information without your consent, contact us at 
+
+[privacy@iodine.com](mailto:privacy@iodine.com)
+
+. If we find out that a child under 13 has provided us with personal information, we’ll take steps to delete that information from our files as soon as possible.
 
 We’re committed to protecting the privacy of children and complying with privacy laws.
 
 ###### Questions?
-
-Contact us at [privacy@iodine.com](mailto:privacy@iodine.com) if you have any questions about our Privacy Policy.
 
 ###### Opt-out
 
@@ -289,6 +290,4 @@ Opt out of sharing your Shared Data to:
 
 Remember: Since we track your opt-out with a cookie, if you delete your cookies you’ll need to opt out again via the Site. You can look next to the [ __] on the Site any time to check your opt-out status.
 
-###### Your Shared Data may be shared with our Partners.
-
-Opt out of sharing with Iodine Partners
+Your Shared Data may be shared with our Partners.
