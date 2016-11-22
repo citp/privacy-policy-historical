@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamescop.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508054730id_/http%3A//www.gamescop.com/index.php%3Fa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamescop.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122200410id_/http%3A//www.gamescop.com/index.php%3Fa%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy policy
 
