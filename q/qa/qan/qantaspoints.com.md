@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qantaspoints.com privacy policy that was archived on 2015-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151128073120id_/https%3A//www.qantas.com.au/travel/airlines/privacy/global/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qantaspoints.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122154135id_/https%3A//www.qantas.com.au/travel/airlines/privacy/global/en) for the most accurate reproduction.*
 
 # Privacy Statement | Qantas
 
@@ -8,7 +8,7 @@
 
 Back to list
 
-This Privacy Statement explains in general terms how Qantas* collects, holds, uses and discloses your personal information under the Australian Privacy Principles. 
+This Privacy Statement explains in general terms how Qantas* collects, holds, uses and discloses your personal information under the Australian Privacy Principles.
 
 Specific information about how we collect, use and disclose the personal information of members of our Loyalty Programs*** is contained in the section titled '[Loyalty Programs](https://web.archive.org/travel/airlines/privacy/global/en#jump5)'.
 
@@ -25,12 +25,13 @@ The types of personal information that we collect about you will depend on our r
   * Your name, gender, date of birth, contact details, passport details, image and answer to a security question (for example, mother's maiden name);
   * Details related to your flights and other travel details, including your preferences with respect to your travel on our flights;
   * Your dietary requirements and health issues which you provide to us in connection with your use of our products and services;
-  * Payment details (such as credit/debit card number and expiry date) provided in connection with the purchase of our products and services; and
+  * Payment details (such as credit/debit card number and expiry date) provided in connection with the purchase of our products and services;
+  * If you use our website or mobile applications, your geo-location, IP address, mobile telephone number or ID and details of any third party sites that you may have accessed; and
   * Loyalty Program membership number and membership details of any other loyalty programs.
 
 
 
-If you are an employee travelling or obtaining other products or services in relation to one of our corporate, business or government clients, we may also collect information about your role with the client, your employment type, your employee number, your start date with the client and details of any employer paid travel arrangements. 
+If you are an employee travelling or obtaining other products or services in relation to one of our corporate, business or government clients, we may also collect information about your role with the client, your employment type, your employee number, your start date with the client and details of any employer paid travel arrangements.
 
 If you are a shareholder we (or our agent) will collect certain details about you for registration purposes, such as your name, address, number of shares held, tax file number and bank account details. We are required to maintain a register of shareholders under the Corporations Act 2001 (Cth).
 
@@ -38,15 +39,16 @@ If you are a shareholder we (or our agent) will collect certain details about yo
 
 Back to list
 
-We may collect personal information about you when you use our services or purchase our goods, make or update a booking to use our services, register to receive our newsletters or other communications, register to be part of one of our programs, tell us about your preferences when flying with us, fill out medical and other forms associated with your travel, enter into one of our competitions, visit our websites, complete one of our surveys or otherwise interact with us. As well as collecting information directly from you, there may be occasions when we collect information about you from a third party. These third parties may include:
+We may collect personal information about you when you use our products and services or purchase our goods, make or update a booking to use our services, register to receive our newsletters or other communications, register to be part of one of our programs, tell us about your preferences when flying with us, fill out medical and other forms associated with your travel, enter into one of our competitions, visit our websites, complete one of our surveys or otherwise interact with us. As well as collecting information directly from you, there may be occasions when we collect information about you from a third party. These third parties may include:
 
   * Travel agents and other people who make or update travel or freight bookings on your behalf, or otherwise interact with us on your behalf, including when you make an inquiry with a travel agent but do not proceed to a booking;
   * Our Service providers such as operators of our corporate travel functions or call centres and organisations that issue a Qantas Air Waybill for the carriage of your freight;
   * Third parties that run competitions and other promotions for us or for which we are the sponsor;
   * Third parties that provide us with marketing leads;
   * Immigration, customs, border security and other regulatory authorities;
-  * Other companies within Qantas and companies in the Jetstar Group; and
-  * Your share broker when you purchase shares in Qantas Airways Limited.
+  * Other companies within Qantas and companies in the Jetstar Group;
+  * Your share broker when you purchase shares in Qantas Airways Limited; and
+  * Third parties for, with or from whom we provide or receive marketing and data analysis services.
 
 
 
@@ -56,13 +58,13 @@ Back to list
 
 We may use your personal information for the following purposes:
 
-  * To provide and administer our goods and services, including verifying your identify; contacting you about your orders and bookings and travel, freight and other arrangements; processing payments; training our staff; testing our systems; and managing your interaction with our suppliers;
+  * To provide and administer our goods and services, including verifying your identity; contacting you about your orders and bookings and travel, freight and other arrangements; processing payments; training our staff; testing our systems; and managing your interaction with our suppliers;
   * To provide and operate our competitions, promotions and events;
   * To distribute our newsletters and other communications either ourselves or with the assistance of third party services providers;
   * For customer support, including resolving and providing assistance for mishandled or missing baggage claims or responding to other enquiries or requests;
   * To ensure the safety and security of all passengers when travelling with us, including investigating security and screening issues;
   * To facilitate your participation in the Loyalty Programs and loyalty programs of other program partners;
-  * To conduct marketing activities for our products and services, or products and services of third parties, and to conduct market and other research to improve our products, services and marketing activities;
+  * To conduct marketing activities, for our products and services, or products and services of third parties, and to conduct market and other research to improve our products, services and marketing activities and generating consumer insights which may include combining personal information from third parties or public sources (eg Census data);
   * To register any shareholding you may have in Qantas Airways Limited and to contact you in relation to that shareholding; and
   * To maintain records and comply with our legal obligations, including laws relating to immigration, customs and border security.
 
@@ -114,7 +116,7 @@ In addition to the disclosures outlined in the section 'Disclosure of Informatio
 
 If you are an employee travelling or obtaining other products or services in relation to one of our Aquire Loyalty members, we may also collect information about your role with the member, your employment type, your employee number, your start date with the member and details of any employer paid travel arrangements. If you are travelling for work purposes on a ticket purchased by your employer, we may disclose your travel details and any information associated with your travel (such as incident reports) to your employer. 
 
-When you are logged into your Loyalty Program account or toolbar, Qantas may also keep logs of your use of qantas.com. When you are logged into a Loyalty Program toolbar Qantas may also keep logs of other non-Qantas webpages you visit. This information may include date and time of visit, Loyalty Program membership number, membership status, surname, location and actions, for example, pages viewed and pages submitted. We may use this information to monitor the use of, and improve, the information and functions on qantas.com, award you points for eligible browsing activities, understand your preferences and provide you with information about our products and services and our partners' products and services which we think may interest you. 
+When you are logged into your Loyalty Program account, Qantas may also keep logs of your use of qantas.com. This information may include date and time of visit, Loyalty Program membership number, membership status, surname, location and actions, for example, pages viewed and pages submitted. We may use this information to monitor the use of, and improve, the information and functions on qantas.com, understand your preferences and provide you with information about our products and services and our partners' products and services which we think may interest you. If you are a Loyalty Program member and are logged into your account, the information we collect may be linked with your personal information.
 
 When you apply for and use a Qantas Frequent Flyer linked credit card or Qantas Cash card, we may also collect your personal information from, and disclose your personal information to:
 
@@ -134,21 +136,7 @@ Back to list
 
 Cookies are small pieces of data stored on the web browser on your computer. This website and associated websites (including those you reach by clicking on advertising) may store cookies on your web browser.
 
-The main reasons we store cookies are to:
-
-  * Improve your website browsing experience. For example, to remember your search criteria so you don't have to re-enter them to do multiple searches and to remember your site preferences for your next visit to the site;
-  * Gather statistics on site usage. For example, page views and drop off points so we can monitor site usage and make improvements to site usability; and
-  * Enable us to present customised and appropriate messages from Qantas and third parties.
-
-
-
-If you are a Loyalty Program member and are logged into your account or the Loyalty Program toolbar, the information we collect via cookies may be linked with your personal information.
-
-You can set up most web browsers so you are notified of when a cookie is received, so you can then either accept or reject it. You can also check the cookies stored by your web browser and remove any that you do not want.
-
-If you disable the use of cookies on your web browser or remove or reject specific cookies from this website or linked sites, then you may not be able to gain access to all the content and facilities of our website or linked sites.
-
-You can visit our viewing tips page to see if you have cookies enabled in your browser. You can also check our cookies page to see how to enable or disable cookies in your browser.
+You can visit our [viewing tips page](https://web.archive.org/travel/airlines/viewing/global/en) to see if you have cookies enabled in your browser. You can also check [this page](https://web.archive.org/travel/airlines/how-to-clear-cookies/global/en) to see how we use cookies and to enable or disable cookies in your browser.
 
 ## How We Hold Information and Keep it Secure
 
@@ -164,9 +152,9 @@ When you book flights or access your Loyalty Program membership information, a s
 
 Back to list
 
-In the course of providing our services, we may disclose your personal information (including personal information of our Loyalty Programs' members) to companies within Qantas, subsidiaries of Jetstar Airways Pty Ltd and third parties located overseas who assist us in providing our travel (including transit) and freight services and associated services, and law enforcement agencies, regulatory authorities and governments for security, customs and immigration purposes. These parties may be located in any country to which you send freight or travel to or through with us or our partner airlines. 
+In the course of providing our services, we may disclose your personal information (including personal information of our Loyalty Programs' members) to companies within Qantas, subsidiaries of Jetstar Airways Pty Ltd and third parties located overseas who assist us in providing our travel (including transit) and freight services and associated services, and law enforcement agencies, regulatory authorities and governments for security, customs and immigration purposes. These parties may be located in any country to which you send freight or travel to or through with us or our partner airlines.
 
-We may also disclose your personal information to data processors (including operators of global travel distribution systems), customer service providers and managers of our financial products located overseas. The countries in which these third parties are located include the United Kingdom, the United States, the Philippines (only in respect of the Qantas Frequent Flyer toolbar) and Germany.
+We may also disclose your personal information to data processors (including operators of global travel distribution systems), customer service providers and managers of our financial products located overseas. The countries in which these third parties are located include the United Kingdom, the United States and Germany.
 
 ## Access & Correction of Information About You
 
@@ -210,4 +198,4 @@ Australia
 
 * Qantas means Qantas Airways Limited and its related bodies corporate, excluding companies in the Jetstar Group**, Wishlist Holdings Limited and Qantas Superannuation Limited.  
 ** Jetstar Group means Jetstar Airways Pty Ltd and its subsidiaries, and all Jetstar branded entities.  
-*** Loyalty Programs means the Qantas Frequent Flyer Program (including Frequent Flyer linked credit cards and Qantas Cash cards), Aquire Loyalty and the Qantas Club. 
+*** Loyalty Programs means the Qantas Frequent Flyer Program (including Frequent Flyer linked credit cards and Qantas Cash cards), Aquire Loyalty, Qantas Assure and the Qantas Club. 
