@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crea.ca privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629102149id_/http%3A//www.crea.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crea.ca privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122110126id_/http%3A//www.crea.ca/privacy) for the most accurate reproduction.*
 
 # CREA’s Privacy Policy – CREA
 
