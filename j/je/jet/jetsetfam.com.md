@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jetsetfam.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626195049id_/http%3A//jetsetfam.com/the-jet-set-family-travel-and-lifestyle/the-jet-set-family-media-kit/the-jetset-family-disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetsetfam.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122091023id_/http%3A//jetsetfam.com/the-jet-set-family-travel-and-lifestyle/the-jet-set-family-media-kit/the-jetset-family-disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure + Privacy Policy | The JetSet Family
 
