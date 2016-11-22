@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobida.in privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419191542id_/http%3A//mobida.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobida.in privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122021946id_/http%3A//mobida.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mobida.In -Find your Pin Code
+# Privacy Policy | Mobida.In
 
 We are committed in respecting the privacy of every person who accesses / avails our Service either though the website – www.mobida.in or WAP or SMS through Mobile phones or telephone search by calling us or any other medium through which www.mobida.in may provide its service (“Service”). You may share your personal information upon you accessing / availing our Service. Your privacy is important to us and we strive to take reasonable care and protection of the information we receive from you.
 
@@ -54,5 +54,5 @@ The listing of an external site does not imply endorsement of such site by us. W
 To the extent that you provide us with Your Personal Information, we wish to maintain your Personal Information accurate at all times. If you need to update or correct Your Personal Information for any reason, you may send updates and corrections to us at admin@mobida.in and we may take all reasonable efforts to incorporate the changes in your Personal Information within a reasonable period of time.  
 **Contacting Us**
 
-We will address any questions, comments and concerns about our online privacy practice and policy. Please write to us at admin@mobida.in.  
-Date Updated: 06 November 2014
+We will address any questions, comments and concerns about our online privacy practice and policy. Please write to us at Email: [panchamithracreators@gmail.com](mailto:panchamithracreators@gmail.com).  
+Date Updated: 18 July 2016
