@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the platform161.com privacy policy that was archived on 2015-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151204234725id_/http%3A//platform161.com/cookie-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platform161.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122134822id_/http%3A//platform161.com/cookie-and-privacy-policy) for the most accurate reproduction.*
 
-# Cookie and Privacy Policy | Platform161
+# Cookie and Privacy Policy - Platform161
 
 ### **We take privacy seriously and so should you!**
 
@@ -68,9 +68,9 @@ Next to the data that are being gathered by Platform161 through dropping our own
 
 Platform161’s cookies will be stored for 2 years after being dropped on a device.
 
-* **Ad tags**. Platform161’s technology responds to requests from ‘ad tags’ placed on the website you are visiting. Ad tags provide Platform161 with information and enable Platform161 to determine the correct size and location of an ad.
+*  **Ad tags**. Platform161’s technology responds to requests from ‘ad tags’ placed on the website you are visiting. Ad tags provide Platform161 with information and enable Platform161 to determine the correct size and location of an ad.
 
-* **Pixel tags**. Platform161 also uses pixel tags (also known as javascript or 1×1 pixels) to drop cookies. A pixel tag is a tiny graphic or script placed on a website that is not visible to the user. These pixel tags communicate with the technology of Platform161 and enable Platform161 to recognize a user by means of its UUID, or in the event that no UUID has been assigned to a user, to drop a cookie on the user’s equipment and assign a UUID to the user. The use of pixel tags allows Platform161 to measure campaign effectiveness, to optimize campaign performance and to provide more relevant advertising.  Pixel tags furthermore allow Platform161 to create and identify consumer segments and to select the appropriate ad based on the consumer segment.
+*  **Pixel tags**. Platform161 also uses pixel tags (also known as javascript or 1×1 pixels) to drop cookies. A pixel tag is a tiny graphic or script placed on a website that is not visible to the user. These pixel tags communicate with the technology of Platform161 and enable Platform161 to recognize a user by means of its UUID, or in the event that no UUID has been assigned to a user, to drop a cookie on the user’s equipment and assign a UUID to the user. The use of pixel tags allows Platform161 to measure campaign effectiveness, to optimize campaign performance and to provide more relevant advertising.  Pixel tags furthermore allow Platform161 to create and identify consumer segments and to select the appropriate ad based on the consumer segment.
 
 **Transparency, Choice and Opt-In:**
 
@@ -93,15 +93,25 @@ Besides the data collected when a cookie is dropped, the Platform161 technology 
 
 Platform161’s technology collects and stores aggregated ad delivery reporting data. This data is used to provide our clients with campaign reporting and used for billing purposes. A typical report includes information about the ads delivered, including the date and time of ad delivery, the websites on which the ads were shown, and statistics on user response. A report also includes statistics about browser types, date and time of ad delivery, and inferred geography.
 
-Finally, the information collected (by means of cookies and/or other tracking methods) is processed for internal purposes _only_ : i.e. to possibly build user profiles that enable Platform161 to optimize and personalize advertiser campaigns.
+Finally, the information collected (by means of cookies and/or other tracking methods) is processed for internal purposes  _only_ : i.e. to possibly build user profiles that enable Platform161 to optimize and personalize advertiser campaigns.
 
 To the extent that the data referred to above constitutes personal data within the meaning of the Dutch Data Protection Act, Platform161 will act as a data controller within the meaning of the Dutch Data Protection Act with respect to the processing of such data.
+
+#### **3rd party syncing** **:**
+
+* * *
+
+Platform161 performs cookie syncing (aka: user synching, user matching or cookie matching) which is one of the generic methods used in the online advertising space to recognize user IDs across technology vendors like DSP’s, SSP’s and DMP’s.
+
+In some countries Platform161 clients are obliged by regulation to inform users about the cookies on their site and the data that is collected, with which means and with what purpose.
+
+When working with Platform161, it is only necessary to inform and get approval for Platform161 technology. In approving usage of Platform161 technology, a user also approves any other technology that is used in the Platform161 space that is needed to perform their technical operations.
+
+Still, it is advised to mention in the privacy policy or ad notice that other technologies’ cookies are potentially used through Platform161. You can refer to this Privacy page to give users the possibility to see which technologies are used.
 
 #### **Information Sharing and Disclosure:**
 
 * * *
-
-Your data is not being transferred to other parties than Platform161, including the advertisers, ad networks, and media agencies Platform161 works with.
 
 Platform161 may provide copies of log files to advertisers, clients and certain partners relating to the specific transactions they are a party to. These files contain information that allows clients to analyse the effectiveness and performance of their advertising campaign. Our clients also have the ability to use any or all of the information collected in connection with our services for their own purposes. The information provided to our clients does not contain personally identifiable information about you. In cases where Platform161 provides information to our clients, our clients are obliged to use the information they receive in compliance with applicable laws and regulations.
 
@@ -115,6 +125,16 @@ Platform161 may also share information in the event that we are asked to respond
 
 Platform161 maintains safeguards to protect the security, integrity and privacy of the personally identifiable information in our control. Platform161 safeguards ensure that personally identifiable information is protected against loss and unlawful processing. They also aim at preventing unnecessary processing.
 
+#### **Seals of Approval:**
+
+* * *
+
+**_ePrivacy seal_**  
+The ePrivacy seal of approval confirms compliance with their criteria catalog, which includes the high standards of the German data protection law. Privacy is in Germany an expression of the most important principle of the Constitution – the fundamental right to protect the own personality.
+
+**_BVDW Mitglied seal_**  
+The BVDW has an interdisciplinary foundation, and thus has a holistic overview of the issues facing the digital economy. BVDW is engaged in continuous dialogue with politicians, the media and other interest groups, and supports the dynamic development of the sector in a results-oriented, practical and effective way.
+
 #### **Updates & Questions:**
 
 * * *
@@ -127,6 +147,6 @@ If you have any questions about our Cookie & Privacy Policy or would like to obt
 
 **Attention: Privacy Questions**
 
-**Email us: privacy@platform161.com**
+**Email us: support@platform161.com**
 
-**Jacob Obrechtplein 1B | 1071 KS | Amsterdam | The Netherlands | www.platform161.com**
+**Johan Huizingalaan 763a 4th floor | 1066 VH | Amsterdam | The Netherlands | www.platform161.com**
