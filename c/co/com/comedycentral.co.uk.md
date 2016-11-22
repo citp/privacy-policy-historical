@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the comedycentral.co.uk privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326213754id_/http%3A//www.comedycentral.co.uk/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comedycentral.co.uk privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122152341id_/http%3A//www.comedycentral.co.uk/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CCUK
+
+Last Modified 30 September 2016. We have replaced the document linked to in Section 4 below which describes our privacy practices with respect to personal information transferred to the U.S. with our Privacy Shield Privacy Policy.  
 
 This privacy policy sets out how we and our related companies use any personal information that you give to us or we collect from you, such as your name, address, telephone number or email address. Personal information also includes anything else that can identify you as an individual, such as photos or videos of you and any information regarding your interests, hobbies, preferences or other similar information which we link to your personal information. We refer to this as “your information” in this privacy policy. 
 
@@ -10,7 +12,7 @@ You can print this page by clicking [here](http://www.comedycentral.co.uk/legal
 
 **1.      OUR DETAILS**
 
-"We", "us" and "our" means MTV Networks Europe which is a Delaware partnership between MTV Networks Europe LLC and Viacom Networks Europe Inc. Our principal place of business is at 17-29 Hawley Crescent, London NW1 8TT. Our VAT number is GB466509032. If you have any questions or concerns please refer to our [frequently answered questions (“FAQs”](http://www.comedycentral.co.uk/legal/terms-and-conditions-of-use)).  If the FAQs do not adequately address your questions or concerns you may contact us using our email [contact form](http://www.comedycentral.co.uk/contact). 
+"We", "us" and "our" means the Paramount UK Partnership ("Comedy Central") which is a partnership between Paramount British Pictures Limited and BSkyB Comedy Limited. Our principal place of business is 117-29 Hawley Crescent, London, NW1 8TT. If you have any questions or concerns please refer to our [frequently answered questions (“FAQs”](http://www.comedycentral.co.uk/legal/terms-and-conditions-of-use)).  If the FAQs do not adequately address your questions or concerns you may contact us using our email [contact form](http://www.comedycentral.co.uk/contact). 
 
 **2.      CHANGES TO THIS POLICY**
 
@@ -76,7 +78,7 @@ We also reserve the right to access and disclose your personal information in or
 
 Some of the partners and third parties with whom we share your information for the purposes set out above may be outside of the European Union and in countries which may provide a lower standard of protection for personal data, by using our online services you consent to the transfer of your personal information outside of the EU.
 
-Please be advised that your personal information may be transferred to and processed by our affiliates in the United States.  Please see the Viacom policy [http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harb... ](http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harb...)for detailed information on these affiliates' privacy practices.
+Please be advised that your personal information may be transferred to and processed by our affiliates in the United States.  Please see the [Viacom policy](http://origin.www.viacom.com/privacypolicy/Documents/Privacy_Shield_Privacy_Policy_Viacom.pdf) which includes detailed information on these affiliates’ privacy practices and note that we may take additional measures to protect your personal data.
 
 **5.      OUR ONLINE COMMUNITIES AND SOCIAL PROJECT**
 
@@ -120,4 +122,4 @@ We have taken steps to ensure that your personal information is secure, includin
 
 In the unlikely event that we sell or otherwise dispose of some or all of our business to another party, we reserve the right to transfer your information as part of any assets sold or disposed of and you consent to such transfer.
 
-_This policy was last updated January 2016._
+_This policy was last updated  30th September 2016._
