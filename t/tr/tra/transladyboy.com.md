@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transladyboy.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611092254id_/http%3A//www.transladyboy.com/general/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transladyboy.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122065316id_/http%3A//www.transladyboy.com/general/privacy-policy.html) for the most accurate reproduction.*
 
 # Trans Ladyboy
 
