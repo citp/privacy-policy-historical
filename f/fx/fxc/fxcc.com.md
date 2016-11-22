@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxcc.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314144648id_/http%3A//www.fxcc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcc.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122135530id_/http%3A//www.fxcc.com/privacy-policy) for the most accurate reproduction.*
 
 # FXCC Privacy Policy | How we use information we may collect
 
