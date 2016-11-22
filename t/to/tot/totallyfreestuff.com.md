@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the totallyfreestuff.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604035323id_/http%3A//www.totallyfreestuff.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallyfreestuff.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122040955id_/http%3A//www.totallyfreestuff.com/privacy.asp) for the most accurate reproduction.*
 
-# Totally Free Stuff - the place for coupons, deals, samples, bargain, and free stuff.Totally Free Stuff
+# Totally Free Stuff - new freebies, deals, coupons, & bargains every dayTotally Free Stuff
 
 TotallyFreeStuff.com is committed to protecting your privacy when you visit our Web site. You can access TotallyFreeStuff.com and browse our site without disclosing any of your personal data. TotallyFreeStuff.com does not collect personal information about individuals, such as names and mailing or e-mail addresses, unless it is knowingly provided by the individual and he or she has agreed to the terms under which TotallyFreeStuff.com will use it. 
 
@@ -16,6 +16,6 @@ Protecting the privacy of the very young is important to us. For that reason, we
 
 External Web Sites 
 
-Please note that TotallyFreeStuff.com contains links to other web sites. Please be aware that we are not responsible for the privacy practices of these other sites. We encourage our users to be aware that when they leave our site that you read the privacy statements of each web site that might collect personally identifying information. 
+Please note that TotallyFreeStuff.com contains links to other web sites. Please be aware that we are not responsible for the privacy practices of these other sites. We encourage our users to be aware that when they leave our site that you read the privacy statements of each web site that might collect personally identifying information.
 
 This privacy statement applies solely to information collected by TotallyFreeStuff.com . If you have any questions or concerns about our privacy policy, please contact: PRIVACY@TotallyFreeStuff.com
