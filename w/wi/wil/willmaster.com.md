@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the willmaster.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514210138id_/http%3A//www.willmaster.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the willmaster.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122055426id_/http%3A//www.willmaster.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Will Bontrager Software LLC Privacy Policy
 
@@ -45,3 +45,7 @@ If you wish to unsubscribe, choose to opt-out, or wish to be removed from any We
 **Questions**
 
 If you have any questions about this privacy policy, the practices of any of the Websites, or your dealings with any of the Websites, use a contact link at the [WillMaster.com](https://www.willmaster.com/) Website and provide us with all information we may require to understand your questions or concerns and to respond to you. 
+
+© 1998-2001 William and Mari Bontrager   
+© 2001-2011 Bontrager Connection, LLC   
+© 2011-2016 Will Bontrager Software LLC 
