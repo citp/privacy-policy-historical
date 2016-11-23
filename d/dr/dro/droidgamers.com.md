@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the droidgamers.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328164117id_/http%3A//droidgamers.com/index.php/component/content/article/189) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the droidgamers.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123053624id_/http%3A//droidgamers.com/index.php/component/content/article/189) for the most accurate reproduction.*
 
 # DroidGamers
 
