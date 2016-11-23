@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the outbreaknewstoday.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607091905id_/http%3A//outbreaknewstoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outbreaknewstoday.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123104600id_/http%3A//outbreaknewstoday.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Outbreak News Today
+# Privacy Policy - Outbreak News Today | Outbreak News Today
 
 **Content on Outbreak New Today is copyrighted material and cannot be reused, posted or published without the consent of The Global Dispatch/Outbreak News Today. Please email us to discuss the use of cotent elsewhere: theglobaldispatch@gmail.com**
 
