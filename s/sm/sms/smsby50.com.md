@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the smsby50.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513095317id_/http%3A//smsaudio.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsby50.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124003559id_/http%3A//smsaudio.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – SMS Audio, LLC
 
 #### SMS AUDIO PRIVACY POLICY
 
-This Privacy Policy (the “Policy”) applies to all information learned about or obtained from you when you visit the [SMSAudio.com](https://web.archive.org/web/20160513095317id_/http%3A//smsaudio.com/pages/SMSAudio.com) website (the “Site”), whether you access the Site through a personal computer, mobile device or any other technology.  The Site is provided by SMS Audio, LLC (“SMS Audio”).  If you visit or shop at the Site, you accept this Policy and the SMS Audio Terms of Use, so please read it carefully.  We may modify the Policy from time to time, effective upon posting to the Site.  Your access to or use of the Site at any time constitutes acceptance of the Policy in effect at that time.  This Policy does not apply to information collected offline or other than through the Site.
+This Privacy Policy (the “Policy”) applies to all information learned about or obtained from you when you visit the [SMSAudio.com](https://web.archive.org/web/20161124003559id_/http%3A//smsaudio.com/pages/SMSAudio.com) website (the “Site”), whether you access the Site through a personal computer, mobile device or any other technology.  The Site is provided by SMS Audio, LLC (“SMS Audio”).  If you visit or shop at the Site, you accept this Policy and the SMS Audio Terms of Use, so please read it carefully.  We may modify the Policy from time to time, effective upon posting to the Site.  Your access to or use of the Site at any time constitutes acceptance of the Policy in effect at that time.  This Policy does not apply to information collected offline or other than through the Site.
 
 #### Children
 
@@ -52,7 +52,7 @@ Subpoenas:  SMS Audio may respond to any subpoena received from a government ag
 
 If you want to view, delete or modify your personal information, you may do so by:
 
-• Sending an email to: [info@SMSAudio.com](https://web.archive.org/web/20160513095317id_/http%3A//smsaudio.com/pages/info@SMSAudio.com); or
+• Sending an email to: [info@SMSAudio.com](https://web.archive.org/web/20161124003559id_/http%3A//smsaudio.com/pages/info@SMSAudio.com); or
 
 • By mail to the following address:
 
@@ -70,13 +70,13 @@ SMS Audio has reasonable security measures in place to protect against the loss,
 
 #### Conditions of Use
 
-Your access and use of the Site is subject to this Policy and the Terms [SMSAudio.com/privacy-policy](https://web.archive.org/web/20160513095317id_/http%3A//smsaudio.com/pages/privacy-policy), including limitations on damages and the applicability of the law of the State of New York and resolution of disputes through binding arbitration.
+Your access and use of the Site is subject to this Policy and the Terms [SMSAudio.com/privacy-policy](https://web.archive.org/web/20161124003559id_/http%3A//smsaudio.com/pages/privacy-policy), including limitations on damages and the applicability of the law of the State of New York and resolution of disputes through binding arbitration.
 
 #### Contacting SMS Audio
 
 If you have questions about this Policy, the Terms or the Site or its content, please contact us:
 
-**SMS Audio, LLC / 2885 South Congress Ave., Suite D / Delray Beach, FL, 33445 / Phone:  (561) 278-2323 / [info@SMSAudio.com](https://web.archive.org/web/20160513095317id_/http%3A//smsaudio.com/pages/info@SMSAudio.com)**
+**SMS Audio, LLC / 2885 South Congress Ave., Suite D / Delray Beach, FL, 33445 / Phone:  (561) 278-2323 / [info@SMSAudio.com](https://web.archive.org/web/20161124003559id_/http%3A//smsaudio.com/pages/info@SMSAudio.com)**
 
 * * *
 
@@ -84,4 +84,4 @@ If you have questions about this Policy, the Terms or the Site or its content, p
 
 for special offers
 
-Copyright© 2020 **SMS Audio, LLC**
+Copyright© 2020 **G-Unit Brands, Inc.** SMS Audio is a **G-Unit Brands** Trademark. 
