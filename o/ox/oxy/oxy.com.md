@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxy.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607163547id_/http%3A//www.oxy.com/Information/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxy.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123012513id_/http%3A//www.oxy.com/Information/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ At points throughout the site, Occidental allows its users to submit personal in
 
 Users who wish to review the personally identifiable information submitted on the Occidental site can do so by contacting Occidental.
 
-At your request, Occidental will remove or modify any information submitted by you, as appropriate, from its database. If you wish to opt out, please contact the Occidental [Webmaster](mailto:information@oxy.com "Webmaster").
+At your request, Occidental will remove or modify any information submitted by you, as appropriate, from its database. If you wish to opt out, please [contact us](https://web.archive.org/Information/Pages/Contact-Us.aspx).
 
 As mentioned above, Occidental does not sell or share personally identifiable information from its users to third parties.
 
@@ -20,4 +20,4 @@ For your convenience, this site contains links to other websites, including some
 
 This Privacy Statement is effective as of July 1, 2004. The Privacy Statement is subject to change by Occidental at any time. Please check our Privacy Statement regularly.
 
-**Unfortunately, identity theft and other financial scams are prevalent. It is unlikely that Occidental or any of its subsidiaries or agents would solicit you for personal financial information. If you suspect that an e-mail, phone call or letter asking you for personal information, money or temporary employment may be fraudulent and Occidental's name is used in connection with that solicitation, or if you believe that your personal information has been compromised by Occidental or any of its subsidiaries or agents, please contact the Occidental  **[ **Webmaster**](mailto:information@oxy.com "Webmaster") **or call (713) 215-7000.**
+**Unfortunately, identity theft and other financial scams are prevalent. It is unlikely that Occidental or any of its subsidiaries or agents would solicit you for personal financial information. If you suspect that an e-mail, phone call or letter asking you for personal information, money or temporary employment may be fraudulent and Occidental's name is used in connection with that solicitation, or if you believe that your personal information has been compromised by Occidental or any of its subsidiaries or agents, please[contact us](https://web.archive.org/Information/Pages/Contact-Us.aspx)** **.**
