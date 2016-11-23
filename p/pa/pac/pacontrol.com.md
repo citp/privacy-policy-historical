@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pacontrol.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607101944id_/http%3A//www.pacontrol.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacontrol.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123223832id_/http%3A//www.pacontrol.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.pacontrol.com
 
