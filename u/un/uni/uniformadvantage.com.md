@@ -1,26 +1,16 @@
-> *The following text is extracted and transformed from the uniformadvantage.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619202012id_/http%3A//www.uniformadvantage.com/pages/misc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniformadvantage.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124004414id_/http%3A//www.uniformadvantage.com/pages/misc/privacy.asp) for the most accurate reproduction.*
 
 # At times Uniform Advantage may be required by law or litigation to disclose your personal information. Uniform Advantage may also disclose information about you if it determines that for national security, law enforcement, or other issues of public importance, disclosure is necessary.
 
-| 
-
 Uniform Advantage values our customers. We are committed to protecting your privacy and the information you give us. The purpose of this Privacy Policy is to explain how Uniform Advantage and its affiliates, contractors and partners (collectively, "Contributors") collect, retain and use personal information that may be collected by Uniform Advantage when you visit our web site. We use the information you give us to process your order and make your shopping experience with us as enjoyable as possible. Except in the case of a purchase of all or substantially all of the business or assets of Uniform Advantage, Uniform Advantage does not and will not sell, trade or rent your e-mail address to third parties who are not Contributors except as expressly stated herein. Certain Contributors may share information collected by Uniform Advantage among affiliates of the Company.
-
-What information do we collect?
 
 When you order, we ask only for the information needed to process and ship your order. We need to know your name, e-mail address, phone number, billing and shipping address(es), credit card number and expiration date. This allows us to fill and ship your order and provide you with information on your order status. Your address and e-mail address may be collected for marketing purposes. When placing your order by phone or online, you may opt out of use of your information for marketing programs. For security reasons, your credit card information will not be stored under your Uniform Advantage Account.
 
 Like most web sites, this site gathers certain information automatically and stores it in log files. This information includes internet protocol ("IP") addresses, browser types, operating system, internet service provider ("ISP"), referring/exit pages, date/time stamp of access, and clickstream data. When you visit the site, the servers automatically log your IP address, the time and duration of your visit, and the time and duration spent on the pages of the site which you view. If you arrive at the site by clicking a paid advertisement or a link in an e-mail, the server will capture information that tracks your visit from that link. If you arrive at the site by clicking on a non-paid source, such as search engine result or link on another web site, the server may capture information that tracks your visit from that source, to the extent available. Uniform Advantage uses this information to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about Uniform Advantage users as a whole.
 
-How can you update or change your information?
-
 We want your personal information accurate and up-to-date. You may update your personal information, such as billing address and other account information, by logging into your account. Once you have logged into your account, you can update or change your account information by accessing the [My Account](https://www.uniformadvantage.com/pages/misc/secure/login-lb.asp) link at the top of every page. The system will prompt you for your password. Your password should be a combination of letters and numbers to ensure the highest form of online security. Please keep your password in a safe, secure place and do not tell anyone your password. You can update or change your personal information after logging in.
 
-Use of Cookies
-
 A cookie is a unique alphanumeric identifier that web sites use to help identify the number of unique visitors to a web site, whether or not those visitors are repeat visitors, and the source of the visits. Cookies cannot be executed as code or used to deliver a virus and thus pose no threat to use, although third party sites may have access to the cookies on your machine depending on your browser settings. We use cookies to recognize you when you return to our website and to keep information you have set on our website accurate, such as your shopping cart. If you have items in your shopping basket and then leave our site and come back, the cookies will keep your items in the shopping basket. You can still change them or delete them. The cookies keep your information so you won't have to start over. Please note that certain important features of the site, such as the shopping cart, may not function correctly if you have cookies disabled.
-
-When we disclose your information
 
 To help Uniform Advantage provide superior service to its customers, your personal information may be shared with legal entities related to Uniform Advantage who will safeguard it in accordance with this Privacy Policy. Uniform Advantage may make certain personal information about you available to Contributors that Uniform Advantage has a strategic relationship with or that perform work for Uniform Advantage to provide products and services to you on Uniform Advantage’s behalf. These Contributors may help Uniform Advantage process information, fulfill customer orders, deliver products to you, manage and enhance your experience, provide customer service, or conduct customer research or satisfaction surveys. These Contributors are also obligated to protect your personal information in accordance with this Privacy Policy. Without such information being made available, it would be difficult for you to purchase Uniform Advantage products, have such products delivered and installed, receive customer service, provide Uniform Advantage with feedback to improve its products and services, or access the services and other services and content on the site.
 
@@ -28,12 +18,6 @@ At times Uniform Advantage may be required by law or litigation to disclose your
 
 Uniform Advantage may release the information it collects to third parties, where the information is provided to enable such third party to provide services to Uniform Advantage, provided that the third party has agreed to use at least the same level of privacy protections described in this Privacy Policy, and is permitted to use the information only for the purpose of providing services to Uniform Advantage. As part of our standard marketing practices, we may share your name, postal address, and summary purchase information with our affiliates.
 
-Links to Third Party Websites
-
 Uniform Advantage may provide links to third party web sites for your convenience and information. The privacy practices of those sites may differ from our practices and are not controlled by us nor covered by this Privacy Policy. Uniform Advantage does not make any representations about third party websites. Uniform Advantage encourages you to review the privacy policy of any third party site before submitting any personal data.
 
-Tell us what you think
-
 Uniform Advantage welcomes your questions and comments about privacy. Please send us an email via our [online contact us form](https://www.uniformadvantage.com/pages/misc/secure/customer-service.asp).
-
-| 
