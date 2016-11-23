@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycustomer.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610005807id_/http%3A//www.mycustomer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycustomer.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123221727id_/http%3A//www.mycustomer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | MyCustomer
 
@@ -84,7 +84,7 @@ We may also share your information (including personal data) with selected third
 
 \- Third parties on whose behalf we have conducted surveys, competitions, promotions and other activities which you have chosen to take part in.
 
-\- Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others.  We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target. We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
+- Advertising networks that require the data to select and serve relevant adverts to you and others.  We do not disclose information about identifiable individuals to our Advertising networks, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help Advertising networks reach the kind of audience they want to target. We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
 
 \- Analytics and search engine providers that assist us in the improvement and optimisation of our site.
 
