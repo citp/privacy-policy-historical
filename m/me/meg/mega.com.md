@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mega.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624021348id_/http%3A//www.mega.com/en/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mega.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124002208id_/http%3A//www.mega.com/en/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MEGA
 
@@ -36,6 +36,7 @@ We also use session cookies, which are temporary files to identify and track use
     2. Select “Settings”.
     3. Click on “Advanced settings”.
     4. In the “Privacy” section, click on “Content settings” to select your configuration.
+    5.  
   2. Internet Explorer  
 
     1. Click on “Tools”, then on “Internet options”.
@@ -51,7 +52,7 @@ We also use session cookies, which are temporary files to identify and track use
 
     1. In the toolbar, choose “Preferences”.
     2. Go to the “Privacy” section.
-    3. Choose your configuration and close the window to confirm.
+    3. Choose your configuration and close the window to confirm  
 
 
 
@@ -79,7 +80,7 @@ At any time, you are entitled to know whether we hold personal information about
 Moreover, you are entitled to revoke your consent to our use of your personal information in the future, in whole or in part. Should you desire this, we will delete or store your data. You can do this by sending us an [email](mailto:info@mega.com?subject=Privacy%20Policy%20Information).  
 MEGA will make every effort to ensure the protection of your personal information on our servers, and will respond to any suspected abuse that you report to us.
 
-If you have any further questions about our privacy policy, please contact [us](mailto:info@mega.com?subject=Privacy%20Policy%20Information).  
+If you have any further questions about our privacy policy, [please contact us](mailto:info@mega.com?subject=Privacy%20Policy%20Information).  
 MEGA may update his privacy policy from time to time. When we update the policy, a notice will be posted on our web site.
 
  _Last updated: June 8, 2016_
