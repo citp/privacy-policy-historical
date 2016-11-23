@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialsense.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609141841id_/http%3A//www.financialsense.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialsense.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123013709id_/http%3A//www.financialsense.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FINANCIAL SENSE
 
@@ -8,11 +8,11 @@ This document was last updated on 5 June 2012.
 
 ### 1\. Acknowledgment and acceptance of terms
 
-Financial Sense® and its parent company, Puplava Financial Services, Inc. (collectively, "FS"), are committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing [www.financialsense.com](https://web.archive.org/home "Financial Sense") and/or [www.financialsensenewshour.com](http://www.financialsensenewshour.com/ "Financial Sense Newshour"), [www.financialsensebeta.com](http://www.financialsensearchive.com/ "Financial Sense Archive Site>www.financialsensearchive.com</a>, <a href="), [www.peakoilchronicles.com](http://www.peakoilchronicles.com/), [www.financialsensenewshour.tv](http://www.financialsensenewshour.tv/), [www.netcastdaily.com](http://www.netcastdaily.com/ "Financial Sense Newshour")  (collectively, "Websites"), you acknowledge and fully understand FS's Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+Financial Sense® and its parent company, Puplava Financial Services, Inc. (collectively, "FS"), are committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing [www.financialsense.com](https://web.archive.org/home "Financial Sense") ("Website"), you acknowledge and fully understand FS's Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
 ### 2\. Participating Merchant Policies/Outside or Third-Party Links
 
-Related services and offerings linked to from these Websites, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in FS's services are encouraged to participate in industry privacy initiatives and to take a responsible attitude toward consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we have no responsibility or liability for the content, privacy practices, or activities of these linked sites and/or vendors. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
+Related services and offerings linked to from these website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in FS's services are encouraged to participate in industry privacy initiatives and to take a responsible attitude toward consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we have no responsibility or liability for the content, privacy practices, or activities of these linked sites and/or vendors. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
 
 ### 3\. Information We Collect and How We Use It
 
@@ -20,19 +20,19 @@ FS collects certain information from and about its users four ways: directly fro
 
 #### a.      Web Server Logs
 
-When you visit our Websites, we may track information to administer the site and analyze its usage. FS may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+When you visit our website, we may track information to administer the site and analyze its usage. FS may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
 Examples of non-personally identifiable information we may track include, but are not limited to:
 
-  * Your Internet protocol address. 
+  * Your Internet protocol address.
   * Your Internet connection type or speed.
   * The kind of browser or computer you use.
-  * The size of monitor you use. 
-  * Number of links you click within the site. 
-  * State or country from which you accessed the site. 
-  * Date and time of your visit. 
-  * Name of your Internet service provider. 
-  * Web page you linked to our site from. 
+  * The size of monitor you use.
+  * Number of links you click within the site.
+  * State or country from which you accessed the site.
+  * Date and time of your visit.
+  * Name of your Internet service provider.
+  * Web page you linked to our site from.
   * Web page you went to upon leaving our site.
   * Pages you viewed on the site.
   * Time spent on the site.
@@ -49,13 +49,13 @@ A cookie is a small text file that is placed on your hard disk by a Web page ser
 
 One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Websites.
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our website.
 
-FS reserves the right to share aggregated site statistics with partner companies, but, with the below exceptions, does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into the Websites a site that relies on third-party cookies).
+FS reserves the right to share aggregated site statistics with partner companies, but, with the below exceptions, does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into the website a site that relies on third-party cookies).
 
 ##### b.1. GoogleAd Cookies
 
-Google™, as a third party vendor, uses cookies to serve ads on the Websites. Google's use of the DART cookie enables it to serve ads to FS users based on their visits to the FS site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Privacy Policy for Google Ads](http://www.google.com/privacy_cookies.html) and the Google content network.
+Google™, as a third-party vendor, uses cookies to serve ads on the website. Google's use of the DART cookie enables it to serve ads to FS users based on their visits to the FS site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Privacy Policy for Google Ads](http://www.google.com/privacy_cookies.html) and the Google content network.
 
 ##### b.2. Other Advertiser/Aggregator Cookies
 
@@ -63,9 +63,9 @@ FS's advertiser, aggregator, or affiliate relationships may involve the use of c
 
 #### c. Personal Information Users
 
-You may be asked to disclose personal information to us so that we can provide services, assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting, or to respond to comments on the Websites' content or features.
+You may be asked to disclose personal information to us so that we can provide services, assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting, or to respond to comments on the website' content or features.
 
-Visitors to our website can also register to contribute Content ("Contributors"). When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, credentials, and other relevant information. At the time of registration, Contributors will determine how much of their contact information they would like to be visible to the Websites' visitors. FS assumes no liability for any Contributor's decision to make certain personal information public. Although we encourage Contributors to use their real names, this public information may include an "alias" rather than a contributor's real name. Regardless of what contact or personal information a Contributor chooses to make public, or whether or not a Contributor chooses to use an alias, FS must be provided with accurate and up-to-date contact information, which may include, but is not limited to, the Contributor's real name, legal address, phone number, and email address.
+Visitors to our website can also register to contribute Content ("Contributors"). When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, credentials, and other relevant information. At the time of registration, Contributors will determine how much of their contact information they would like to be visible to the website' visitors. FS assumes no liability for any Contributor's decision to make certain personal information public. Although we encourage Contributors to use their real names, this public information may include an "alias" rather than a contributor's real name. Regardless of what contact or personal information a Contributor chooses to make public, or whether or not a Contributor chooses to use an alias, FS must be provided with accurate and up-to-date contact information, which may include, but is not limited to, the Contributor's real name, legal address, phone number, and email address.
 
 Visitors and Contributors should be aware that communications received by FS that are directed to a specific Contributor will be forwarded to that contributor by FS.
 
@@ -77,8 +77,8 @@ We will not disclose personally identifiable information we collect from you to 
 
   * To fulfill your service requests for services,
   * To protect ourselves from liability,
-  * To respond to legal process or comply with law, 
-  * To enforce and investigate possible violations of our Websites' policies, including [Contribution Guidelines](https://web.archive.org/web/20160609141841id_/http%3A//www.financialsense.com/about-us/about-us/contributors/guidelines "FSO Contribution Guidelines") and [Terms of Use](http://www.financialsense.com/about-us/terms-of-use "FSO Terms of Use"), 
+  * To respond to legal process or comply with law,
+  * To enforce and investigate possible violations of our website' policies, including [Contribution Guidelines](https://web.archive.org/web/20161123013709id_/http%3A//www.financialsense.com/about-us/about-us/contributors/guidelines "FSO Contribution Guidelines") and [Terms of Use](http://www.financialsense.com/about-us/terms-of-use "FSO Terms of Use"),
   * To investigate, protect against, and prevent technical issues, security issues, and/or fraud, or
   * In connection with a merger, acquisition, or liquidation of the company.
 
@@ -104,7 +104,7 @@ Some of these Web beacons may be placed by third party service providers to help
 
 ### 5\. Accessing/Updating Web Account Information (for Contributors)
 
-Contributors who wish to update their contact information with FS may do so by contacting the Websites' [webmaster](mailto:fswebmaster@financialsense.com "Cristofer Sheridan, Webmaster") directly. FS reserves the right to review and approve any updates to Contributor information before posting it to the Websites, and to refuse and/or deny to update information that does not comply with the terms of its [Privacy Statement](http://www.financialsense.com/about-us/privacy-policy "FSO Privacy Statement") or [Terms of Use ](http://www.financialsense.com/about-us/terms-of-use "FSO Terms of Use")Statement.
+Contributors who wish to update their contact information with FS may do so by contacting the website' [webmaster](mailto:fswebmaster@financialsense.com "Cristofer Sheridan, Webmaster") directly. FS reserves the right to review and approve any updates to Contributor information before posting it to the website, and to refuse and/or deny to update information that does not comply with the terms of its [Privacy Statement](http://www.financialsense.com/about-us/privacy-policy "FSO Privacy Statement") or [Terms of Use ](http://www.financialsense.com/about-us/terms-of-use "FSO Terms of Use")Statement.
 
 ### 6.California Online Privacy Protection Act Compliance
 
@@ -120,11 +120,11 @@ Please also visit our [Terms of Use](http://www.financialsense.com/about-us/term
 
 ### 9\. Changes to this Statement
 
-FS has the discretion to occasionally update this privacy statement at any time and without prior notification. When we do, we will also revise the "updated" date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of our websites constitutes your agreement to this privacy statement and any updates.
+FS has the discretion to occasionally update this privacy statement at any time and without prior notification. When we do, we will also revise the "updated" date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of our website constitutes your agreement to this privacy statement and any updates.
 
 ### 10\. Contacting Us
 
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please [contact us](http://www.financialsense.com/about-us/contact-us "FS Contact Us") or send your comments to:
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please [contact us](http://www.financialsense.com/contact-page "FS Contact Us") or send your comments to:
 
 Financial Sense   
 **Attention:   Privacy Statement Personnel  
