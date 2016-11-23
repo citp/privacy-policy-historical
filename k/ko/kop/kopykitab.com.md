@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kopykitab.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625113704id_/http%3A//www.kopykitab.com/Kopykitab-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kopykitab.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123041328id_/http%3A//www.kopykitab.com/Kopykitab-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -186,16 +186,4 @@ We have commercially reasonable security measures in place to help protect again
 
 **Contacting KopyKitab**
 
-We welcome your comments or questions regarding this KopyKitab Privacy Policy. Please e-mail us at [info@kopykitab.com](mailto:info@kopykitab.com)  or contact us at the following address:
-
-Kopy Kitab Pvt Ltd.
-
-**Attn: KopyKitab**
-
-**F-10, Kakda Abhinav Homes,**
-
-**Near SIRT, Ayodha Bypass Road,**
-
-**Bhopal – 462021**
-
-**Call - + 91 73545 73545**
+We welcome your comments or questions regarding this KopyKitab Privacy Policy. Please e-mail us at [info@kopykitab.com](mailto:info@kopykitab.com)  or call us on 080-42049530
