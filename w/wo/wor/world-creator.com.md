@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the world-creator.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525202413id_/http%3A//www.world-creator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the world-creator.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123101159id_/http%3A//www.world-creator.com/privacy-policy) for the most accurate reproduction.*
 
-# World Creator
+# World Creator - A Procedural Terrain and Landscape Generator
+
+[ ](https://web.archive.org/)
 
 OUR COMMITMENT TO PRIVACY
 
