@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voipfone.co.uk privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607082104id_/http%3A//www.voipfone.co.uk/cookie_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voipfone.co.uk privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123170853id_/http%3A//www.voipfone.co.uk/cookie_policy.php) for the most accurate reproduction.*
 
 # Voipfone - Cookie Policy
 
