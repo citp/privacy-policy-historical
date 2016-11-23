@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the owners.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316160722id_/http%3A//www.owners.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owners.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123054816id_/http%3A//www.owners.com/about/privacy) for the most accurate reproduction.*
 
-# Homes For Sale By Owner - Search, Buy, Sell - Owners.com Real Estate
+# Privacy Policy | Owners.com
 
 **ALTISOURCE U.S. CONSUMER PRIVACY NOTICE / YOUR PRIVACY RIGHTS  
 WHAT DOES ALTISOURCE DO WITH YOUR PERSONAL INFORMATION?**  
@@ -123,4 +123,4 @@ We and our third-party service providers, if any, may record, collect and use Ot
  **Choice / Opt Out:** From time to time, we may send you e-mail, e-mail newsletters or Site news updates alerting you to new features, products, promotions or services pertaining to the Site. If you no longer wish to receive these materials from us you may opt-out of receiving them. We will gladly comply with your requests for removal. Opt Out Procedure: In compliance with the Can-Spam Act of 2003, on each marketing email transmitted by the Site, there are instructions for opting out of receiving future emails. Such instructions may include, without limitation: (a) clicking a link on the email which sends a reply to the sender’s server instructing the server of the sender’s desire to opt out of future emails, or (b) instructions for mailing a written request to be removed from future emails. All requests to opt out of future emails will be respected.
 
  **UPDATES TO THIS PRIVACY NOTICE**  
-In the future, we may need to change this Notice or the Altisource Privacy Notice. Please review it periodically. All changes will be made here so that you will always know what information we gather, how we might use that information and whether we may share it with anyone. Any changes to this Notice will become effective when we post the revised Notice on the Site. Your use of the Site following these revisions acknowledges your receipt of the revision and your agreement to and acceptance of the revised Notice. This statement was last updated March 12, 2012.
+In the future, we may need to change this Notice or the Altisource Privacy Notice. Please review it periodically. All changes will be made here so that you will always know what information we gather, how we might use that information and whether we may share it with anyone. Any changes to this Notice will become effective when we post the revised Notice on the Site. Your use of the Site following these revisions acknowledges your receipt of the revision and your agreement to and acceptance of the revised Notice. This statement was last updated June 25, 2015.
