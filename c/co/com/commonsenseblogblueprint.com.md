@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the commonsenseblogblueprint.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608020021id_/http%3A//charliepage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonsenseblogblueprint.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124005921id_/http%3A//charliepage.com/privacy) for the most accurate reproduction.*
 
-# Privacy - CHARLIE PAGE
+# 
 
 Common Sense Publishing, L.L.C. is committed to protecting the privacy of our online visitors.  When you visit our website, you may be providing information to Common Sense Publishing, L.L.C. on two different levels:
 
