@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pinchingyourpennies.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613082001id_/http%3A//www.pinchingyourpennies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinchingyourpennies.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123070245id_/http%3A//www.pinchingyourpennies.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Pinching Your PenniesPinching Your Pennies
+# Privacy Policy - Pinching Your Pennies
 
 We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. Our Privacy Policy is as follows:
 
