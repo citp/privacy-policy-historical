@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lkbennett.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429102756id_/http%3A//www.lkbennett.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lkbennett.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123165036id_/http%3A//www.lkbennett.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LKBennett-UK
 
