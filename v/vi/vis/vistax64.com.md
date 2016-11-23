@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vistax64.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625062114id_/http%3A//www.vistax64.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistax64.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123131719id_/http%3A//www.vistax64.com/privacy) for the most accurate reproduction.*
 
 # Vista Support Forums - Privacy Policy
 
