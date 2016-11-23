@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the onlinecmag.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509213528id_/http%3A//onlinecmag.com/privacy-policy-company) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinecmag.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123183026id_/http%3A//onlinecmag.com/privacy-policy-company) for the most accurate reproduction.*
 
 # .. Privacy Policy .. | OnlineCmag
-
-### .. Privacy Policy ..
 
 We here at OnlineCmag have designed this Privacy Policy page to help you understand what information we collect and use from you and thus helping you choose what you want to share with us.
 
@@ -12,7 +10,7 @@ If you have any queries over the above statement, feel  free to contact us at :
 
 ## **Privacy Policy** :
 
-[](http://onlinecmag.com/wp-content/uploads/2014/12/8626792267_f6354ea881_b-1.jpg?3ff65a)
+[](http://onlinecmag.com/wp-content/uploads/2014/12/8626792267_f6354ea881_b-1.jpg?x59574)
 
 ### **What We Collect From You:**
 
