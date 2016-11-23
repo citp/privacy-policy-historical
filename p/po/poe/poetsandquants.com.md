@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the poetsandquants.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606201726id_/http%3A//poetsandquants.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poetsandquants.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123114458id_/http%3A//poetsandquants.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Poets and Quants Poets and Quants
+# Privacy Policy
 
 This Privacy Policy governs your use of this web site and all sites controlled or hosted by C-Change Media, including but not limited to [www.poetsandquants.com](http://www.poetsandquants.com/), [www.poetsandquantsforexecs.com](http://www.poetsandquantsforexecs.com/), [www.poetsandquantsforundergrads.com](http://www.poetsandquantsforundergrads.com/), [www.tippingthescales.com](http://www.tippingthescales.com/), and [www.weseegenius.com](http://www.weseegenius.com/) (collectively the “Site” or “Sites”), which is made available by C-Change Media. This Privacy Policy also applies to all mobile applications controlled or operated by C-Change Media.
 
