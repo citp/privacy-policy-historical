@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talend.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622235825id_/http%3A//www.talend.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talend.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123015050id_/http%3A//www.talend.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policy - Talend
 
