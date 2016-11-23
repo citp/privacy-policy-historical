@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the joe.ie privacy policy that was archived on 2016-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160627120655id_/http%3A//www.joe.ie/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the joe.ie privacy policy that was archived on 2016-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161123151159id_/http%3A//www.joe.ie/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="noscroll"><head>
 <title>Privacy Statement | JOE.ie</title>
@@ -11,15 +11,15 @@
 <meta name="news_keywords" content="JOE.ie, Man Stuff, Ireland, Irish, News, Entertainment, Games, Gadgets, Sports, Music, Movies, Motors, Travel, Girls, Fitness">
 <meta property="fb:pages" content="111400652227723">
 <meta name="theme-color" content="#000">
-<link rel="icon" sizes="192x192" href="http://www.joe.ie/assets/images/joe/icon-highres.png?v=2">
+<link rel="icon" sizes="192x192" href="https://www.joe.ie/assets/images/joe/icon-highres.png?v=3">
 <meta property="og:title" content="Privacy Statement | JOE.ie">
 <meta property="og:description" content="Privacy Statement">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://www.joe.ie/privacy-statement">
+<meta property="og:url" content="https://www.joe.ie/privacy-statement">
 <meta property="og:site_name" content="JOE.ie">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@joedotie">
-<meta name="twitter:url" content="http://www.joe.ie/privacy-statement">
+<meta name="twitter:url" content="https://www.joe.ie/privacy-statement">
 <meta name="twitter:title" content="Privacy Statement | JOE.ie">
 <meta name="twitter:description" content="Privacy Statement">
 <meta name="twitter:app:country" content="IE">
@@ -36,14 +36,43 @@
         "@context": "http://schema.org",
         "@type": "NewsArticle",
         "headline": "Privacy Statement",
-        "url": "http://www.joe.ie/privacy-statement",
-                "dateCreated": "2013-06-04T16:13:11+01:00",
-                    }
+        "url": "https://www.joe.ie/privacy-statement",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.joe.ie/privacy-statement"
+        },
+        "dateCreated": "2013-06-04T16:13:11+01:00",
+        "datePublished": "2013-06-04T16:13:11+01:00",
+        "dateModified": "2014-12-09T12:33:03+00:00",
+                    "thumbnailUrl": "https://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6OTI6ImE6Mzp7czozOiJ1cmwiO3M6MzE6Ii9hc3NldHMvaW1hZ2VzL2pvZS9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6NjQ3O3M6NjoiaGVpZ2h0IjtpOjM0MDt9IjtzOjQ6Imhhc2giO3M6NDA6IjAzOGQzNDgyNjBjNWZlZDI0ZmE5MmQ5ZGVlYjQ2OTZjNzNhNjMxYTEiO30=/no-image.png",
+            "image": {
+                "@type": "ImageObject",
+                "url": "https://www.joe.ie/assets/images/joe/no-image.png",
+                "width": 700,
+                "height": 370
+            },
+                        "author": [
+            {
+                "@type": "Person",
+                "name": "JOE"
+            }
+        ],
+        "publisher" : {
+            "@type" : "Organization",
+            "name" : "JOE",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.joe.ie/assets/images/joe/wide-logo.png",
+                "width": 600,
+                "height": 60
+            }
+        }
+    }
 </script>
-<link rel="canonical" href="http://www.joe.ie/privacy-statement">
-<link rel="shortcut icon" type="image/x-icon" href="http://www.joe.ie/assets/joe.favicon.ico?v=10">
-<link rel="apple-touch-icon" href="http://www.joe.ie/assets/joe.appletouchicon.png?v=3">
-<link media="all" type="text/css" rel="stylesheet" href="http://www.joe.ie/assets/css/joe/main.min-09d1a148.css">
+<link rel="canonical" href="https://www.joe.ie/privacy-statement">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.joe.ie/assets/joe.favicon.ico?v=10">
+<link rel="apple-touch-icon" href="https://www.joe.ie/assets/joe.appletouchicon.png?v=3">
+<link media="all" type="text/css" rel="stylesheet" href="https://www.joe.ie/assets/css/joe/main.min-fc107683.css">
  
  
 <!--[if lt IE 9]>
@@ -55,7 +84,6 @@
     _maximummedia.sitemode = 'joe';
     _maximummedia.title = 'JOE.ie';
     _maximummedia.dfp = '247211819';
-    _maximummedia.numbate = '650868';
 
     var _comscore = _comscore || [];
     _comscore.push({ c1: "2", c2: "9608406" });
@@ -86,11 +114,20 @@
         var node = document.getElementsByTagName('script')[0];
         node.parentNode.insertBefore(gads, node);
     })();
+
+    var dfp_targets = new Object();
+    var dfp_mappings = new Object();
+    var dfp_placements = new Object();
+
+                
     var socref = '';
         if (document.referrer.match(/^https?:\/\/([^\/]+\.)?t\.co(\/|$)/i)) {
         socref = 'twitter';
     } else if (document.referrer.match(/^https?:\/\/([^\/]+\.)?facebook\.com(\/|$)/i)) {
         socref = 'facebook';
+    }
+    if (socref) {
+        dfp_targets.socref = socref;
     }
 
     googletag.cmd.push(function () {
@@ -112,6 +149,21 @@
         .addSize([980, 200], [[728, 90], [970, 250], [970, 90]])
         .build();
 
+
+    //Post Top Mapping
+    var mapPostTop = googletag.sizeMapping()
+        .addSize([980, 200], [300, 250])
+        .build();
+
+    googletag.placement.article_top = googletag.defineSlot('/247211819/joe_article_top', [1, 1], 'div-gpt-article_top')
+        .defineSizeMapping(mapPostTop)
+        .addService(googletag.pubads());
+
+        
+            googletag.placement.article_inline_video = googletag.defineOutOfPageSlot('/247211819/joe_article_inline_video', 'div-gpt-article_inline_video')
+            .addService(googletag.pubads());
+    
+        
                     googletag.placement.top_page = googletag.defineSlot('/247211819/joe_top_page', [1, 1], 'div-gpt-top_page')
                 .defineSizeMapping(mapTopPage)
                 .addService(googletag.pubads());
@@ -124,43 +176,32 @@
             .addService(googletag.pubads());
 
                 
-                
-        if (socref) {
-            googletag.pubads().setTargeting('socref', socref);
+                                                        dfp_targets.article = '331717';
+                                                                dfp_targets.page = 'article';
+                                    
+        for (var key in dfp_targets) {
+            if (dfp_targets.hasOwnProperty(key)) {
+                googletag.pubads().setTargeting(key, dfp_targets[key]);
+            }
         }
 
-                
-//Post Top Mapping
-var mapPostTop = googletag.sizeMapping()
-    .addSize([758, 200], [728, 90])
-    .addSize([980, 200], [300, 250])
-    .build();
-
-googletag.placement.article_top = googletag.defineSlot('/247211819/joe_article_top', [1, 1], 'div-gpt-article_top')
-    .defineSizeMapping(mapPostTop)
-    .addService(googletag.pubads());
-
-
-
-googletag.pubads().setTargeting('page', 'article');
-    googletag.pubads().setTargeting('article', '331717');
-
-
-
-
         googletag.pubads().enableSingleRequest();
-        googletag.pubads().disableInitialLoad();
         // This will unlock the scroll for the doc once the top banner is rendered
-        googletag.pubads().addEventListener('slotRenderEnded', function(event) {unlockScroll(event);});
+        googletag.pubads().addEventListener('slotRenderEnded', function(event) {renderCallback(event);});
         googletag.enableServices();
 
-                var unlockScroll = function(event) {
+                var renderCallback = function(event) {
             if(googletag.placement.top_page == event.slot) {
                 setTimeout(function(){
                     if ($('html, body').hasClass('noscroll')) {
                         $('body,html').removeClass('noscroll');
                     }
                 }, 1700);
+            } else if (typeof event.slot.l !== "undefined"
+                && typeof event.slot.l._qqid_ !== "undefined"
+                && event.isEmpty) {
+                // Lazy loaded slot. If it's an empty banner, hide the ad strapline
+                $('.div-gpt-article-middle-holder[data-google-query-id="'+event.slot.l._qqid_+'"]').parent().remove();
             }
         }
     });
@@ -181,7 +222,7 @@ googletag.pubads().setTargeting('page', 'article');
 <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=453001074905905&ev=PageView&noscript=1"/></noscript>
  
 </head>
-<body class=" article-page  noscroll  ">
+<body class=" article-page  noscroll   maximummedia">
 <div class="navbar navbar-inverse navbar-fixed-top " role="navigation">
 <div class="container">
 <div class="col-md-12">
@@ -211,7 +252,7 @@ googletag.pubads().setTargeting('page', 'article');
 <i id="mobile_search_icon" class="fa fa-search"></i>
 </button>
 <div class="text-center">
-<a href="http://www.joe.ie?ref=logo">
+<a href="https://www.joe.ie?ref=logo">
 <span class="navbar-logo"></span>
 </a>
 </div>
@@ -219,89 +260,89 @@ googletag.pubads().setTargeting('page', 'article');
 <div class="collapse navbar-collapse">
 <ul class="nav navbar-nav">
 <li class="visible-xs
-                                "><a href="http://www.joe.ie?ref=link">Home</a></li>
+                                "><a href="https://www.joe.ie?ref=link">Home</a></li>
 <li class="visible-xs
-                                "><a href="http://www.joe.ie/news">News</a></li>
+                                "><a href="https://www.joe.ie/news">News</a></li>
 <li class="visible-xs
-                                "><a href="http://www.joe.ie/sport">Sport</a></li>
+                                "><a href="https://www.joe.ie/sport">Sport</a></li>
 <li class="visible-xs
-                                "><a href="http://www.joe.ie/music">Music</a></li>
+                                "><a href="https://www.joe.ie/music">Music</a></li>
 <li class="visible-xs
-                                "><a href="http://www.joe.ie/movies-tv">Movies &amp; TV</a></li>
+                                "><a href="https://www.joe.ie/movies-tv">Movies &amp; TV</a></li>
 <li class="visible-xs
-                                "><a href="http://www.joe.ie/life-style">Life</a></li>
+                                "><a href="https://www.joe.ie/life-style">Life</a></li>
 <li class="visible-xs
-                                "><a href="http://www.joe.ie/fitness-health">Fitness</a></li>
+                                "><a href="https://www.joe.ie/fitness-health">Fitness</a></li>
 <li class="visible-xs
-                                "><a href="http://www.joe.ie/tech">Tech</a></li>
+                                "><a href="https://www.joe.ie/tech">Tech</a></li>
 <li class="visible-xs
-                                "><a href="http://www.joe.ie/motors">Motors</a></li>
+                                "><a href="https://www.joe.ie/motors">Motors</a></li>
 <li class="visible-xs
-                                "><a href="http://www.joe.ie/start-ups">Start-ups</a></li>
+                                "><a href="https://www.joe.ie/start-ups">Start-ups</a></li>
 <li class="visible-xs
-                                "><a href="http://www.joe.ie/joe/joe-lists">Lists</a></li>
+                                "><a href="https://www.joe.ie/joe/joe-lists">Lists</a></li>
 <li class="visible-xs
-                                "><a href="http://www.joe.ie/joe/viral">Viral</a></li>
+                                "><a href="https://www.joe.ie/joe/viral">Viral</a></li>
 <li class="visible-xs
-                                "><a href="http://www.joe.ie/galleries">Galleries</a></li>
+                                "><a href="https://www.joe.ie/galleries">Galleries</a></li>
 <li class="visible-xs
-                                "><a href="http://www.joe.ie/joe-competitions">Competitions</a></li>
+                                "><a href="https://www.joe.ie/joe-competitions">Competitions</a></li>
 <li class="visible-xs
-                                "><a href="http://www.joe.ie/about">About Us</a></li>
+                                "><a href="https://www.joe.ie/about">About Us</a></li>
 <li class="visible-xs
                                     active
-                                "><a href="http://www.joe.ie/privacy-statement">Privacy Statement</a></li>
+                                "><a href="https://www.joe.ie/privacy-statement">Privacy Statement</a></li>
 <li class="visible-xs
-                                "><a href="http://www.joe.ie/terms-conditions">Terms &amp; Conditions</a></li>
+                                "><a href="https://www.joe.ie/terms-conditions">Terms &amp; Conditions</a></li>
 <li class="visible-xs
-                                "><a href="http://www.joe.ie/contact">Contact Us</a></li>
+                                "><a href="https://www.joe.ie/contact">Contact Us</a></li>
 <li class="hidden-xs
-                            "><a href="http://www.joe.ie?ref=link">Home</a></li>
+                            "><a href="https://www.joe.ie?ref=link">Home</a></li>
 <li class="hidden-xs
-                            "><a href="http://www.joe.ie/news">News</a></li>
+                            "><a href="https://www.joe.ie/news">News</a></li>
 <li class="hidden-xs
-                            "><a href="http://www.joe.ie/sport">Sport</a></li>
+                            "><a href="https://www.joe.ie/sport">Sport</a></li>
 <li class="hidden-xs
-                            "><a href="http://www.joe.ie/music">Music</a></li>
+                            "><a href="https://www.joe.ie/music">Music</a></li>
 <li class="hidden-xs
-                            "><a href="http://www.joe.ie/movies-tv">Movies &amp; TV</a></li>
+                            "><a href="https://www.joe.ie/movies-tv">Movies &amp; TV</a></li>
 <li class="hidden-xs
-                            "><a href="http://www.joe.ie/life-style">Life</a></li>
+                            "><a href="https://www.joe.ie/life-style">Life</a></li>
 <li class="hidden-xs
-                            "><a href="http://www.joe.ie/fitness-health">Fitness</a></li>
+                            "><a href="https://www.joe.ie/fitness-health">Fitness</a></li>
 <li class="hidden-sm hidden-xs
-                            "><a href="http://www.joe.ie/tech">Tech</a></li>
+                            "><a href="https://www.joe.ie/tech">Tech</a></li>
 <li class="hidden-sm hidden-xs
-                            "><a href="http://www.joe.ie/motors">Motors</a></li>
+                            "><a href="https://www.joe.ie/motors">Motors</a></li>
 <li class="hidden-sm hidden-xs
-                            "><a href="http://www.joe.ie/start-ups">Start-ups</a></li>
+                            "><a href="https://www.joe.ie/start-ups">Start-ups</a></li>
 <li class="dropdown visible-sm">
 <a href="#" class="dropdown-toggle " data-toggle="dropdown">More <span class="caret"></span></a>
 <ul class="dropdown-menu " role="menu">
-<li class=""><a href="http://www.joe.ie/tech">Tech</a></li>
-<li class=""><a href="http://www.joe.ie/motors">Motors</a></li>
-<li class=""><a href="http://www.joe.ie/start-ups">Start-ups</a></li>
-<li class=""><a href="http://www.joe.ie/joe/joe-lists">Lists</a></li>
-<li class=""><a href="http://www.joe.ie/joe/viral">Viral</a></li>
-<li class=""><a href="http://www.joe.ie/galleries">Galleries</a></li>
-<li class=""><a href="http://www.joe.ie/joe-competitions">Competitions</a></li>
-<li class=""><a href="http://www.joe.ie/about">About Us</a></li>
-<li class="active"><a href="http://www.joe.ie/privacy-statement">Privacy Statement</a></li>
-<li class=""><a href="http://www.joe.ie/terms-conditions">Terms &amp; Conditions</a></li>
-<li class=""><a href="http://www.joe.ie/contact">Contact Us</a></li>
+<li class=""><a href="https://www.joe.ie/tech">Tech</a></li>
+<li class=""><a href="https://www.joe.ie/motors">Motors</a></li>
+<li class=""><a href="https://www.joe.ie/start-ups">Start-ups</a></li>
+<li class=""><a href="https://www.joe.ie/joe/joe-lists">Lists</a></li>
+<li class=""><a href="https://www.joe.ie/joe/viral">Viral</a></li>
+<li class=""><a href="https://www.joe.ie/galleries">Galleries</a></li>
+<li class=""><a href="https://www.joe.ie/joe-competitions">Competitions</a></li>
+<li class=""><a href="https://www.joe.ie/about">About Us</a></li>
+<li class="active"><a href="https://www.joe.ie/privacy-statement">Privacy Statement</a></li>
+<li class=""><a href="https://www.joe.ie/terms-conditions">Terms &amp; Conditions</a></li>
+<li class=""><a href="https://www.joe.ie/contact">Contact Us</a></li>
 </ul>
 </li>
 <li class="dropdown hidden-sm hidden-xs">
 <a href="#" class="dropdown-toggle" data-toggle="dropdown">More <span class="caret"></span></a>
 <ul class="dropdown-menu" role="menu">
-<li class=""><a href="http://www.joe.ie/joe/joe-lists">Lists</a></li>
-<li class=""><a href="http://www.joe.ie/joe/viral">Viral</a></li>
-<li class=""><a href="http://www.joe.ie/galleries">Galleries</a></li>
-<li class=""><a href="http://www.joe.ie/joe-competitions">Competitions</a></li>
-<li class=""><a href="http://www.joe.ie/about">About Us</a></li>
-<li class="active"><a href="http://www.joe.ie/privacy-statement">Privacy Statement</a></li>
-<li class=""><a href="http://www.joe.ie/terms-conditions">Terms &amp; Conditions</a></li>
-<li class=""><a href="http://www.joe.ie/contact">Contact Us</a></li>
+<li class=""><a href="https://www.joe.ie/joe/joe-lists">Lists</a></li>
+<li class=""><a href="https://www.joe.ie/joe/viral">Viral</a></li>
+<li class=""><a href="https://www.joe.ie/galleries">Galleries</a></li>
+<li class=""><a href="https://www.joe.ie/joe-competitions">Competitions</a></li>
+<li class=""><a href="https://www.joe.ie/about">About Us</a></li>
+<li class="active"><a href="https://www.joe.ie/privacy-statement">Privacy Statement</a></li>
+<li class=""><a href="https://www.joe.ie/terms-conditions">Terms &amp; Conditions</a></li>
+<li class=""><a href="https://www.joe.ie/contact">Contact Us</a></li>
 </ul>
 </li>
 </ul>
@@ -311,65 +352,59 @@ googletag.pubads().setTargeting('page', 'article');
 <div class="container">
 <div class="col-md-12" id="navbar-tag-holder">
 <ul class="list-inline">
-<li>Trending:</li>
+<li>Trending: </li>
 <li>
-<span class="tag-icon tag-icon-fansingreen"></span>
-<a href="http://www.joe.ie/joe/fansingreen" class="analytics tag-fansingreen" data-category="Nav clicks" data-label="Trending Tags" data-value="#FansInGreen">
-#FansInGreen
+<span class="tag-icon tag-icon-quiz"></span>
+<a href="https://www.joe.ie/joe/quiz" class="analytics tag-quiz" data-category="Nav clicks" data-label="Trending Tags" data-value="Quiz">
+Quiz
 </a>
 </li>
 <li>
-<span class="tag-icon tag-icon-euro-2016"></span>
-<a href="http://www.joe.ie/joe/euro-2016" class="analytics tag-euro-2016" data-category="Nav clicks" data-label="Trending Tags" data-value="Euro 2016">
-Euro 2016
+<span class="tag-icon tag-icon-home-news"></span>
+<a href="https://www.joe.ie/joe/home-news" class="analytics tag-home-news" data-category="Nav clicks" data-label="Trending Tags" data-value="Home News">
+Home News
 </a>
 </li>
 <li>
 <span class="tag-icon tag-icon-ireland"></span>
-<a href="http://www.joe.ie/joe/ireland" class="analytics tag-ireland" data-category="Nav clicks" data-label="Trending Tags" data-value="Ireland">
+<a href="https://www.joe.ie/joe/ireland" class="analytics tag-ireland" data-category="Nav clicks" data-label="Trending Tags" data-value="Ireland">
 Ireland
 </a>
 </li>
 <li>
-<span class="tag-icon tag-icon-football"></span>
-<a href="http://www.joe.ie/joe/football" class="analytics tag-football" data-category="Nav clicks" data-label="Trending Tags" data-value="Football">
-Football
+<span class="tag-icon tag-icon-tv"></span>
+<a href="https://www.joe.ie/joe/tv" class="analytics tag-tv" data-category="Nav clicks" data-label="Trending Tags" data-value="TV">
+TV
 </a>
 </li>
 <li>
-<span class="tag-icon tag-icon-brexit"></span>
-<a href="http://www.joe.ie/joe/brexit" class="analytics tag-brexit" data-category="Nav clicks" data-label="Trending Tags" data-value="Brexit">
-Brexit
+<span class="tag-icon tag-icon-music"></span>
+<a href="https://www.joe.ie/joe/music" class="analytics tag-music" data-category="Nav clicks" data-label="Trending Tags" data-value="Music">
+Music
 </a>
 </li>
 <li>
-<span class="tag-icon tag-icon-funny"></span>
-<a href="http://www.joe.ie/joe/funny" class="analytics tag-funny" data-category="Nav clicks" data-label="Trending Tags" data-value="Funny">
-Funny
+<span class="tag-icon tag-icon-weather"></span>
+<a href="https://www.joe.ie/joe/weather" class="analytics tag-weather" data-category="Nav clicks" data-label="Trending Tags" data-value="Weather">
+Weather
 </a>
 </li>
 <li>
-<span class="tag-icon tag-icon-game-of-thrones"></span>
-<a href="http://www.joe.ie/joe/game-of-thrones" class="analytics tag-game-of-thrones" data-category="Nav clicks" data-label="Trending Tags" data-value="Game of Thrones">
-Game of Thrones
+<span class="tag-icon tag-icon-world-news"></span>
+<a href="https://www.joe.ie/joe/world-news" class="analytics tag-world-news" data-category="Nav clicks" data-label="Trending Tags" data-value="World News">
+World News
 </a>
 </li>
 <li>
-<span class="tag-icon tag-icon-politics"></span>
-<a href="http://www.joe.ie/joe/politics" class="analytics tag-politics" data-category="Nav clicks" data-label="Trending Tags" data-value="Politics">
-Politics
+<span class="tag-icon tag-icon-dublin"></span>
+<a href="https://www.joe.ie/joe/dublin" class="analytics tag-dublin" data-category="Nav clicks" data-label="Trending Tags" data-value="Dublin">
+Dublin
 </a>
 </li>
 <li>
-<span class="tag-icon tag-icon-gaa"></span>
-<a href="http://www.joe.ie/joe/gaa" class="analytics tag-gaa" data-category="Nav clicks" data-label="Trending Tags" data-value="GAA">
-GAA
-</a>
-</li>
-<li>
-<span class="tag-icon tag-icon-galway"></span>
-<a href="http://www.joe.ie/joe/galway" class="analytics tag-galway" data-category="Nav clicks" data-label="Trending Tags" data-value="Galway">
-Galway
+<span class="tag-icon tag-icon-rugby"></span>
+<a href="https://www.joe.ie/joe/rugby" class="analytics tag-rugby" data-category="Nav clicks" data-label="Trending Tags" data-value="Rugby">
+Rugby
 </a>
 </li>
 </ul>
@@ -377,7 +412,7 @@ Galway
 </div>
 </div>
 </div>
-<div class="skin-wrapper   hidden-sm hidden-xs">
+<div class="skin-wrapper hidden-sm hidden-xs">
 <div id="div-gpt-background_skin">
 <script type="text/javascript">
                     googletag.cmd.push(function () {
@@ -386,8 +421,14 @@ Galway
                 </script>
 </div>
 </div>
-<div class="sticky-footer-container visible-xs">
-<div id="div-gpt-mobile-sticky-footer" class="text-center visible-xs" data-article="331717" data-route="" data-tag="" data-section="" data-search="" data-page="river">
+<div class="sticky-footer-container">
+<div id="div-gpt-mobile-sticky-footer" class="text-center visible-xs"></div>
+<div id="cookie-notice">
+<div class="message">
+<i id="cookie-close" class="fa fa-close"></i>
+We use cookies to ensure that we give you the best experience on our website.
+<a href="https://www.joe.ie/privacy-statement">Read more »</a>
+</div>
 </div>
 </div>
 <div class="modal fade modal-large" id="shareModal" tabindex="-1" role="dialog" aria-hidden="true">
@@ -406,7 +447,7 @@ Share this article
 Share "<span id="share-modal-article-title"></span>"
 <div class="actions top-space text-center">
 <a id="share-modal-twitter" data-category="Sharing Button Modal" data-label="Twitter" data-via="joedotie" rel="external" class="analytics"><i class="fa fa-twitter"></i></a>
-<a id="share-modal-facebook" data-category="Sharing Button Modal" data-label="Facebook" rel="external" class="analytics"><i class="fa fa-facebook-square"></i></a>
+<a id="share-modal-facebook" data-app-id="1701897120133643" data-category="Sharing Button Modal" data-label="Facebook" rel="external" class="analytics"><i class="fa fa-facebook-square"></i></a>
 <a id="share-modal-whatsapp" data-category="Sharing Button Modal" data-label="Whatsapp" rel="external" class="whatsapp-share hide analytics"><i class="fa fa-whatsapp"></i></a>
 <a id="share-modal-email" data-category="Sharing Button Modal" data-label="Email" data-site="JOE.ie" class="analytics"><i class="fa fa-envelope"></i></a>
 </div>
@@ -428,7 +469,7 @@ Search
 </strong>
 </div>
 <div class="modal-body">
-<form class="search-form navbar" action="http://www.joe.ie/search">
+<form class="search-form navbar" action="https://www.joe.ie/search">
 <div class="input-group">
 <input type="text" placeholder="Search" class="form-control search-input" id="search-modal-input">
 <span class="input-group-addon search-button">
@@ -442,16 +483,16 @@ Search
 </div>
 </div>
 <div class="main-wrapper container  ">
-<div class="text-center top-space top-ad hidden-xs">
+<div class="text-center top-ad-fix top-space tablet top-ad hidden-xs">
 <div id="div-gpt-top_page" class="text-center">
 <script type="text/javascript">
                             googletag.cmd.push(function () {
                                 googletag.display('div-gpt-top_page');
-                                googletag.pubads().refresh();
                             });
                         </script>
 </div>
 </div>
+<div class="top-ad-fake visible-sm"></div>
 <div class="content-container">
 <div class="main-content container">
 <div class="col-lg-8 col-md-8 top-space article-content no-trending-on-mobile-top-margin">
@@ -480,11 +521,6 @@ Like many websites, we gather statistical and other analytical information colle
 <h3>Section 3. Purposes for which we hold your Information</h3>
 <p><em>"Non-Personal Data"</em><br>
 We use the Non-Personal Data gathered from visitors to our website in an aggregate form to get a better understanding of where our visitors come from and to help us better design and organise our website.</p>
-<div class="article-standard  visible-xs mid-article-unit">
-<h6>Advertisement</h6>
-<div id="div-gpt-article-middle-136513283" class="div-gpt-article-middle-holder mpu-others" data-page="article" data-article="331717">
-</div>
-</div>
 <p><em>"Cookies"</em><br>
 This website uses "cookie" technology. A cookie is a little piece of text stored by the browser on your computer, at the request of our server. We may use cookies to deliver content specific to your interests and to save your personal preferences so you do not have to re-enter them each time you connect to our website - our cookies are not available to other websites. Our cookies will record the number of user sessions on the site and to track the number of users who return to the site. You are always free to decline our cookies, if your browser permits, or to ask your browser to indicate when a cookie is being sent. You can also delete cookie files from your computer at your discretion. Note that if you decline our cookies or ask for notification each time a cookie is being sent, this may affect your ease of use of this website.</p>
 <p><em>"Personal Data"</em><br>
@@ -507,6 +543,11 @@ We will process any Personal Data you provide to us for the following purposes:<
 <p>Any changes to this Website Privacy Statement will be posted on this website so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any time we decide to use Personal Data in a manner significantly different from that stated in this Website Privacy Statement, or otherwise disclosed to you at the time it was collected, we will notify you by email, and you will have a choice as to whether or not we use your information in the new manner.</p>
 <p><strong>Any queries or comments about this policy should be sent to <a title="Email JOE.ie" href="mailto:info@joe.ie">info@joe.ie</a></strong></p>
 <p>Please note that any site that you may connect to from here is not covered by this Privacy Policy.</p>
+<div id="div-gpt-article_inline_video">
+<script type="text/javascript">
+                            googletag.cmd.push(function () { googletag.display('div-gpt-article_inline_video'); });
+                        </script>
+</div>
 </div>
 </div>
 <div class="clearfix"></div>
@@ -526,14 +567,14 @@ Join the JOE.ie mailing list!
 Enter your email for the latest news, offers and prizes.
 </div>
 <div class="col-md-12 col-sm-12 col-xs-12">
-<form method="post" action="http://www.joe.ie/list-sub" class="mailing-list-form">
+<form method="post" action="https://www.joe.ie/list-sub" class="mailing-list-form">
 <div class="form-group">
 <input type="email" class="form-control input-sm" placeholder="name@example.com" required="required">
 <button class="">Sign up!</button>
 </div>
 </form>
 <div class="mailing-list-message">
-One moment please.. <img src="http://www.joe.ie/assets/images/joe/loading.gif">
+One moment please.. <img src="https://www.joe.ie/assets/images/joe/loading.gif">
 </div>
 </div>
 <div class="clearfix"></div>
@@ -549,7 +590,7 @@ One moment please.. <img src="http://www.joe.ie/assets/images/joe/loading.gif">
 </div>
 <div class="clearfix"></div>
 <div class="sticky_container top-space hidden-sm">
-<div id="div-gpt-article_bottom" class="text-center lazy-ad article-ad" data-placement="article_bottom" data-page="article" data-article="331717">
+<div id="div-gpt-article_bottom" class="text-center lazy-ad article-ad" data-placement="article_bottom">
 </div>
 </div>
 </div>
@@ -567,33 +608,103 @@ More from JOE.ie
 <div class="standard-post-holder col-xs-6 col-md-4">
 <div class="standard-post no-hp top-space ">
 <div class="no-hp image-holder">
-<a href="http://www.joe.ie/joe-competitions/win-tickets-jameson-cult-film-club-screening-undefeatable-classic/550565">
+<a href="https://www.joe.ie/movies-tv/bad-santa/568351">
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY2OiJhOjM6e3M6MzoidXJsIjtzOjEwNDoiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNC8xMzA5MjkwMy9yb2NreS0xMDI0eDU3Ni5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjZkN2YyOTA4OWIzYTcxNmJhNDJhN2M0N2JlOTVhZDYwMTg1MzQ0OTQiO30=/rocky-1024x576.jpg" media="(min-width: 970px)">
-<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY2OiJhOjM6e3M6MzoidXJsIjtzOjEwNDoiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNC8xMzA5MjkwMy9yb2NreS0xMDI0eDU3Ni5qcGciO3M6NToid2lkdGgiO2k6MzUwO3M6NjoiaGVpZ2h0IjtpOjE3Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjZhNjg3Nzg4MDVhYTFmYWU3YjEyYmI3OTI3OTMxOWZmY2EwMjg0N2EiO30=/rocky-1024x576.jpg" media="(min-width: 640px)">
-<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY1OiJhOjM6e3M6MzoidXJsIjtzOjEwNDoiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNC8xMzA5MjkwMy9yb2NreS0xMDI0eDU3Ni5qcGciO3M6NToid2lkdGgiO2k6MTYyO3M6NjoiaGVpZ2h0IjtpOjgyO30iO3M6NDoiaGFzaCI7czo0MDoiZDJlNGYyZTNhOWE2NDA0YWRkYTc5ZTFmYWU2MjQ1MjMwMzM2ZjcyNiI7fQ==/rocky-1024x576.jpg" media="(max-width: 639px)">
+<source data-srcset="https://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU4OiJhOjM6e3M6MzoidXJsIjtzOjk3OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzExLzIzMTUwNzEyL0JTQ292ZXIuanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiI1NjdkNmIzNDQ3MDI3MzYzZTdjZWUxZTU4OTBlYzg5ZTgyYTQwNDA3Ijt9/bscover.jpg" media="(min-width: 970px)">
+<source data-srcset="https://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU4OiJhOjM6e3M6MzoidXJsIjtzOjk3OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzExLzIzMTUwNzEyL0JTQ292ZXIuanBnIjtzOjU6IndpZHRoIjtpOjM1MDtzOjY6ImhlaWdodCI7aToxNzc7fSI7czo0OiJoYXNoIjtzOjQwOiIzNDkyY2M2NDI2ZWNmYzQ0ZGM4MjgzNGQzN2RjZTdmNTkwODIzMTNiIjt9/bscover.jpg" media="(min-width: 640px)">
+<source data-srcset="https://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU3OiJhOjM6e3M6MzoidXJsIjtzOjk3OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzExLzIzMTUwNzEyL0JTQ292ZXIuanBnIjtzOjU6IndpZHRoIjtpOjE2MjtzOjY6ImhlaWdodCI7aTo4Mjt9IjtzOjQ6Imhhc2giO3M6NDA6ImY4ZGQ4MWIzZDkyZWQ4Nzc4MDI5YmZlZjYzZWIwMTI1Yzc4MzYyMGYiO30=/bscover.jpg" media="(max-width: 639px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA4OiJhOjM6e3M6MzoidXJsIjtzOjQ4OiJodHRwOi8vd3d3LmpvZS5pZS9hc3NldHMvaW1hZ2VzL2pvZS9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MTYyO3M6NjoiaGVpZ2h0IjtpOjgyO30iO3M6NDoiaGFzaCI7czo0MDoiOTI2MDU5NTUzZTYyMGViZWI3YThkZmVjMGViZjA0ZmFlOWIxNWYwNyI7fQ==/no-image.png" data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTY2OiJhOjM6e3M6MzoidXJsIjtzOjEwNDoiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNC8xMzA5MjkwMy9yb2NreS0xMDI0eDU3Ni5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjZkN2YyOTA4OWIzYTcxNmJhNDJhN2M0N2JlOTVhZDYwMTg1MzQ0OTQiO30=/rocky-1024x576.jpg" alt="Win tickets to the Jameson Cult Film Club screening of the undefeatable classic" class="river-post-image lazyload">
+<img src="https://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA5OiJhOjM6e3M6MzoidXJsIjtzOjQ5OiJodHRwczovL3d3dy5qb2UuaWUvYXNzZXRzL2ltYWdlcy9qb2Uvbm8taW1hZ2UucG5nIjtzOjU6IndpZHRoIjtpOjE2MjtzOjY6ImhlaWdodCI7aTo4Mjt9IjtzOjQ6Imhhc2giO3M6NDA6Ijg1NzEzMTdmYzMxYjk5MTc1NDMwN2UyY2EzMTM5MjdiYWQyZGQ2ODUiO30=/no-image.png" data-srcset="https://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU4OiJhOjM6e3M6MzoidXJsIjtzOjk3OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzExLzIzMTUwNzEyL0JTQ292ZXIuanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiI1NjdkNmIzNDQ3MDI3MzYzZTdjZWUxZTU4OTBlYzg5ZTgyYTQwNDA3Ijt9/bscover.jpg" alt="11 brilliant Bad Santa quotes that will put you on the naughty list" class="river-post-image lazyload">
 </picture>
 </a>
 </div>
 <div class="detail">
 <div class="headline hidden-xs">
-<a href="http://www.joe.ie/joe-competitions/win-tickets-jameson-cult-film-club-screening-undefeatable-classic/550565">Win tickets to the Jameson Cult Film Club screening of the undefeatable classic</a>
+<a href="https://www.joe.ie/movies-tv/bad-santa/568351">11 brilliant Bad Santa quotes that will put you on the naughty list</a>
 </div>
 <div class="headline visible-xs">
-<a href="http://www.joe.ie/joe-competitions/win-tickets-jameson-cult-film-club-screening-undefeatable-classic/550565">Win tickets to the Jameson Cult Film Club screening of the undefeatable classic</a>
+<a href="https://www.joe.ie/movies-tv/bad-santa/568351">11 brilliant Bad Santa quotes that will put you on the naughty list</a>
 </div>
 <div class="sub-text">
 <div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.joe.ie/joe-competitions/win-tickets-jameson-cult-film-club-screening-undefeatable-classic/550565" data-title="Win tickets to the Jameson Cult Film Club screening of the undefeatable classic">
-<img src="http://www.joe.ie/assets/images/joe/share.png?v=2" alt="share icon" class="hidden-xs">
+<span class="share-trigger" data-url="https://www.joe.ie/movies-tv/bad-santa/568351" data-title="11 brilliant Bad Santa quotes that will put you on the naughty list">
+<img src="https://www.joe.ie/assets/images/joe/share.png?v=2" alt="share icon" class="">
+<strong>6</strong> shares
+</span>
+</div>
+<div class="pull-left tag-link uppercase tag-holder tag-holder-movies-tv"><a href="https://www.joe.ie/movies-tv">Movies &amp; TV</a></div>
+<span class="time uppercase">2 minutes ago</span>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="standard-post-holder col-xs-6 col-md-4">
+<div class="standard-post no-hp top-space ">
+<div class="no-hp image-holder">
+<a href="https://www.joe.ie/news/a-new-all-in-australia-working-holiday-visa-package-has-been-launched-for-a-very-attractive-price/568359">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYwOiJhOjM6e3M6MzoidXJsIjtzOjk5OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzExLzIzMTQ1ODIwL3N5ZG5leXN1bi5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6Ijg5ZjA1Y2MxOTRhZjYwMjA1ZGZlNDgwMjI2NzNmYjMyNmJmMDRjMTUiO30=/sydneysun.jpg" media="(min-width: 970px)">
+<source data-srcset="https://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYwOiJhOjM6e3M6MzoidXJsIjtzOjk5OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzExLzIzMTQ1ODIwL3N5ZG5leXN1bi5qcGciO3M6NToid2lkdGgiO2k6MzUwO3M6NjoiaGVpZ2h0IjtpOjE3Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImMzZDVjYjk3ZDIwNTUzN2I5YjY3MmE3YWIzYWY4M2I1YWQyOTRlZWEiO30=/sydneysun.jpg" media="(min-width: 640px)">
+<source data-srcset="https://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU5OiJhOjM6e3M6MzoidXJsIjtzOjk5OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzExLzIzMTQ1ODIwL3N5ZG5leXN1bi5qcGciO3M6NToid2lkdGgiO2k6MTYyO3M6NjoiaGVpZ2h0IjtpOjgyO30iO3M6NDoiaGFzaCI7czo0MDoiNTA5NDdmNGUyYTJiMjQ5NzE0NzZmM2I4MTkwNWI0N2ZjNjVmNWM4MCI7fQ==/sydneysun.jpg" media="(max-width: 639px)">
+<!--[if IE 9]></video><![endif]-->
+<img src="https://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA5OiJhOjM6e3M6MzoidXJsIjtzOjQ5OiJodHRwczovL3d3dy5qb2UuaWUvYXNzZXRzL2ltYWdlcy9qb2Uvbm8taW1hZ2UucG5nIjtzOjU6IndpZHRoIjtpOjE2MjtzOjY6ImhlaWdodCI7aTo4Mjt9IjtzOjQ6Imhhc2giO3M6NDA6Ijg1NzEzMTdmYzMxYjk5MTc1NDMwN2UyY2EzMTM5MjdiYWQyZGQ2ODUiO30=/no-image.png" data-srcset="https://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYwOiJhOjM6e3M6MzoidXJsIjtzOjk5OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzExLzIzMTQ1ODIwL3N5ZG5leXN1bi5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6Ijg5ZjA1Y2MxOTRhZjYwMjA1ZGZlNDgwMjI2NzNmYjMyNmJmMDRjMTUiO30=/sydneysun.jpg" alt="A new ‘All In’ Australia Working Holiday Visa package has been launched in Ireland for a very attractive price" class="river-post-image lazyload">
+</picture>
+</a>
+</div>
+<div class="detail">
+<div class="headline hidden-xs">
+<a href="https://www.joe.ie/news/a-new-all-in-australia-working-holiday-visa-package-has-been-launched-for-a-very-attractive-price/568359">A new ‘All In’ Australia Working Holiday Visa package has been launched in Ireland for a very attractive price</a>
+</div>
+<div class="headline visible-xs">
+<a href="https://www.joe.ie/news/a-new-all-in-australia-working-holiday-visa-package-has-been-launched-for-a-very-attractive-price/568359">A new ‘All In’ Australia Working Holiday Visa package has been launched in Ireland for a very attractive price</a>
+</div>
+<div class="sub-text">
+<div class="pull-right inverted-shares uppercase">
+<span class="share-trigger" data-url="https://www.joe.ie/news/a-new-all-in-australia-working-holiday-visa-package-has-been-launched-for-a-very-attractive-price/568359" data-title="A new ‘All In’ Australia Working Holiday Visa package has been launched in Ireland for a very attractive price">
+<img src="https://www.joe.ie/assets/images/joe/share.png?v=2" alt="share icon" class="">
+<strong>9</strong> shares
+</span>
+</div>
+<div class="pull-left tag-link uppercase tag-holder tag-holder-news"><a href="https://www.joe.ie/news">News</a></div>
+<span class="time uppercase">10 minutes ago</span>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="standard-post-holder col-xs-6 col-md-4">
+<div class="standard-post no-hp top-space ">
+<div class="no-hp image-holder">
+<a href="https://www.joe.ie/news/nazi-inspired-thomas-mair-jailed-life-murder-mp-jo-cox/568355">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source data-srcset="https://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTgyOiJhOjM6e3M6MzoidXJsIjtzOjEyMDoiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8xMS8yMzE0Mjk0Ny9HZXR0eUltYWdlcy01NDA5MjYyNjQtMTAyNHg2ODIuanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiJlZjQ5Yzk4ZWRhOGIxZWZiMmMwYTZjMDc2Y2JiYzE2Njk3OGE5OWNiIjt9/gettyimages-540926264-1024x682.jpg" media="(min-width: 970px)">
+<source data-srcset="https://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTgyOiJhOjM6e3M6MzoidXJsIjtzOjEyMDoiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8xMS8yMzE0Mjk0Ny9HZXR0eUltYWdlcy01NDA5MjYyNjQtMTAyNHg2ODIuanBnIjtzOjU6IndpZHRoIjtpOjM1MDtzOjY6ImhlaWdodCI7aToxNzc7fSI7czo0OiJoYXNoIjtzOjQwOiI5MzZmNGMwYzM0NmQ4Y2FmNzY2ZmI2MjJhOTViM2YxYmQ4NWVlNWIzIjt9/gettyimages-540926264-1024x682.jpg" media="(min-width: 640px)">
+<source data-srcset="https://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTgxOiJhOjM6e3M6MzoidXJsIjtzOjEyMDoiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8xMS8yMzE0Mjk0Ny9HZXR0eUltYWdlcy01NDA5MjYyNjQtMTAyNHg2ODIuanBnIjtzOjU6IndpZHRoIjtpOjE2MjtzOjY6ImhlaWdodCI7aTo4Mjt9IjtzOjQ6Imhhc2giO3M6NDA6ImE1ODc2ZDM5YzliMDgwMjdjM2VmNDdlMTlkMWE5MTVjZjM3ZGEzN2UiO30=/gettyimages-540926264-1024x682.jpg" media="(max-width: 639px)">
+<!--[if IE 9]></video><![endif]-->
+<img src="https://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA5OiJhOjM6e3M6MzoidXJsIjtzOjQ5OiJodHRwczovL3d3dy5qb2UuaWUvYXNzZXRzL2ltYWdlcy9qb2Uvbm8taW1hZ2UucG5nIjtzOjU6IndpZHRoIjtpOjE2MjtzOjY6ImhlaWdodCI7aTo4Mjt9IjtzOjQ6Imhhc2giO3M6NDA6Ijg1NzEzMTdmYzMxYjk5MTc1NDMwN2UyY2EzMTM5MjdiYWQyZGQ2ODUiO30=/no-image.png" data-srcset="https://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTgyOiJhOjM6e3M6MzoidXJsIjtzOjEyMDoiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8xMS8yMzE0Mjk0Ny9HZXR0eUltYWdlcy01NDA5MjYyNjQtMTAyNHg2ODIuanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiJlZjQ5Yzk4ZWRhOGIxZWZiMmMwYTZjMDc2Y2JiYzE2Njk3OGE5OWNiIjt9/gettyimages-540926264-1024x682.jpg" alt="'Nazi-inspired' Thomas Mair jailed for life for murder of MP Jo Cox" class="river-post-image lazyload">
+</picture>
+</a>
+</div>
+<div class="detail">
+<div class="headline hidden-xs">
+<a href="https://www.joe.ie/news/nazi-inspired-thomas-mair-jailed-life-murder-mp-jo-cox/568355">'Nazi-inspired' Thomas Mair jailed for life for murder of MP Jo Cox</a>
+</div>
+<div class="headline visible-xs">
+<a href="https://www.joe.ie/news/nazi-inspired-thomas-mair-jailed-life-murder-mp-jo-cox/568355">'Nazi-inspired' Thomas Mair jailed for life for murder of MP Jo Cox</a>
+</div>
+<div class="sub-text">
+<div class="pull-right inverted-shares uppercase">
+<span class="share-trigger" data-url="https://www.joe.ie/news/nazi-inspired-thomas-mair-jailed-life-murder-mp-jo-cox/568355" data-title="'Nazi-inspired' Thomas Mair jailed for life for murder of MP Jo Cox">
+<img src="https://www.joe.ie/assets/images/joe/share.png?v=2" alt="share icon" class="">
 <strong>5</strong> shares
 </span>
 </div>
-<div class="pull-left tag-link uppercase tag-holder tag-holder-joe-competitions"><a href="http://www.joe.ie/joe-competitions">JOE Competitions</a></div>
-<span class="time uppercase">4 minutes ago</span>
+<div class="pull-left tag-link uppercase tag-holder tag-holder-news"><a href="https://www.joe.ie/news">News</a></div>
+<span class="time uppercase">33 minutes ago</span>
 </div>
 </div>
 <div class="clearfix"></div>
@@ -602,33 +713,33 @@ More from JOE.ie
 <div class="standard-post-holder col-xs-6 col-md-4">
 <div class="standard-post no-hp top-space ">
 <div class="no-hp image-holder">
-<a href="http://www.joe.ie/news/these-points-that-are-made-by-a-northern-irish-man-on-brexit-are-a-must-read/550831">
+<a href="https://www.joe.ie/news/clinton-urged-challenge-election-results-strong-evidence-suggests-voting-rigged/568298">
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU5OiJhOjM6e3M6MzoidXJsIjtzOjk4OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzA2LzI3MTI1NjQ2L1N0b3Jtb250LmpwZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiYjY1ZjQ1ZWUxYmVkNzM2MTFjZTBmZmExNTdkN2Y0MGYwODk1ODcyYyI7fQ==/stormont.jpg" media="(min-width: 970px)">
-<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU5OiJhOjM6e3M6MzoidXJsIjtzOjk4OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzA2LzI3MTI1NjQ2L1N0b3Jtb250LmpwZyI7czo1OiJ3aWR0aCI7aTozNTA7czo2OiJoZWlnaHQiO2k6MTc3O30iO3M6NDoiaGFzaCI7czo0MDoiMjQ3M2IyYmJkNGRiZmFlZjU4YTg5YjYzOGUwNGIzN2U4Mzk0OWE5ZCI7fQ==/stormont.jpg" media="(min-width: 640px)">
-<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU4OiJhOjM6e3M6MzoidXJsIjtzOjk4OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzA2LzI3MTI1NjQ2L1N0b3Jtb250LmpwZyI7czo1OiJ3aWR0aCI7aToxNjI7czo2OiJoZWlnaHQiO2k6ODI7fSI7czo0OiJoYXNoIjtzOjQwOiJjNDU2OWU2Nzk3YjYxNzEzOTA3M2M4YzBiYmZmY2E4N2QyYTk2YTY5Ijt9/stormont.jpg" media="(max-width: 639px)">
+<source data-srcset="https://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYwOiJhOjM6e3M6MzoidXJsIjtzOjk5OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzExLzIzMTAwNjQ4LzYxOTQzMjM3OC5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6Ijg4MGI0ZGRiMjcyODA4Nzk1YjgwZDNiZTIxYjk0YjBlNTViNmViZDUiO30=/619432378.jpg" media="(min-width: 970px)">
+<source data-srcset="https://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYwOiJhOjM6e3M6MzoidXJsIjtzOjk5OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzExLzIzMTAwNjQ4LzYxOTQzMjM3OC5qcGciO3M6NToid2lkdGgiO2k6MzUwO3M6NjoiaGVpZ2h0IjtpOjE3Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImQzYmFkOTkyZDQ3YmE1NWZmM2RiYjk3Y2QzZDM5NmM0M2IyMzI3ODMiO30=/619432378.jpg" media="(min-width: 640px)">
+<source data-srcset="https://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU5OiJhOjM6e3M6MzoidXJsIjtzOjk5OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzExLzIzMTAwNjQ4LzYxOTQzMjM3OC5qcGciO3M6NToid2lkdGgiO2k6MTYyO3M6NjoiaGVpZ2h0IjtpOjgyO30iO3M6NDoiaGFzaCI7czo0MDoiZjk4YzdjNTJhZTQ1YjM2NmU5MTUyYjk1NDE3YzA3YjQxYTk5YjhlYyI7fQ==/619432378.jpg" media="(max-width: 639px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA4OiJhOjM6e3M6MzoidXJsIjtzOjQ4OiJodHRwOi8vd3d3LmpvZS5pZS9hc3NldHMvaW1hZ2VzL2pvZS9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MTYyO3M6NjoiaGVpZ2h0IjtpOjgyO30iO3M6NDoiaGFzaCI7czo0MDoiOTI2MDU5NTUzZTYyMGViZWI3YThkZmVjMGViZjA0ZmFlOWIxNWYwNyI7fQ==/no-image.png" data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU5OiJhOjM6e3M6MzoidXJsIjtzOjk4OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzA2LzI3MTI1NjQ2L1N0b3Jtb250LmpwZyI7czo1OiJ3aWR0aCI7aTozMTM7czo2OiJoZWlnaHQiO2k6MTU3O30iO3M6NDoiaGFzaCI7czo0MDoiYjY1ZjQ1ZWUxYmVkNzM2MTFjZTBmZmExNTdkN2Y0MGYwODk1ODcyYyI7fQ==/stormont.jpg" alt="These points that are made by a Northern Irish man on Brexit raises some vital questions" class="river-post-image lazyload">
+<img src="https://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA5OiJhOjM6e3M6MzoidXJsIjtzOjQ5OiJodHRwczovL3d3dy5qb2UuaWUvYXNzZXRzL2ltYWdlcy9qb2Uvbm8taW1hZ2UucG5nIjtzOjU6IndpZHRoIjtpOjE2MjtzOjY6ImhlaWdodCI7aTo4Mjt9IjtzOjQ6Imhhc2giO3M6NDA6Ijg1NzEzMTdmYzMxYjk5MTc1NDMwN2UyY2EzMTM5MjdiYWQyZGQ2ODUiO30=/no-image.png" data-srcset="https://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTYwOiJhOjM6e3M6MzoidXJsIjtzOjk5OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzExLzIzMTAwNjQ4LzYxOTQzMjM3OC5qcGciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6Ijg4MGI0ZGRiMjcyODA4Nzk1YjgwZDNiZTIxYjk0YjBlNTViNmViZDUiO30=/619432378.jpg" alt="Clinton urged to challenge election results as ‘strong evidence’ suggests voting was rigged" class="river-post-image lazyload">
 </picture>
 </a>
 </div>
 <div class="detail">
 <div class="headline hidden-xs">
-<a href="http://www.joe.ie/news/these-points-that-are-made-by-a-northern-irish-man-on-brexit-are-a-must-read/550831">These points that are made by a Northern Irish man on Brexit raises some vital questions</a>
+<a href="https://www.joe.ie/news/clinton-urged-challenge-election-results-strong-evidence-suggests-voting-rigged/568298">Clinton urged to challenge election results as ‘strong evidence’ suggests voting was rigged</a>
 </div>
 <div class="headline visible-xs">
-<a href="http://www.joe.ie/news/these-points-that-are-made-by-a-northern-irish-man-on-brexit-are-a-must-read/550831">These points that are made by a Northern Irish man on Brexit raises some vital questions</a>
+<a href="https://www.joe.ie/news/clinton-urged-challenge-election-results-strong-evidence-suggests-voting-rigged/568298">Clinton urged to challenge election results as ‘strong evidence’ suggests voting was rigged</a>
 </div>
 <div class="sub-text">
 <div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.joe.ie/news/these-points-that-are-made-by-a-northern-irish-man-on-brexit-are-a-must-read/550831" data-title="These points that are made by a Northern Irish man on Brexit raises some vital questions">
-<img src="http://www.joe.ie/assets/images/joe/share.png?v=2" alt="share icon" class="hidden-xs">
-<strong>6</strong> shares
+<span class="share-trigger" data-url="https://www.joe.ie/news/clinton-urged-challenge-election-results-strong-evidence-suggests-voting-rigged/568298" data-title="Clinton urged to challenge election results as ‘strong evidence’ suggests voting was rigged">
+<img src="https://www.joe.ie/assets/images/joe/share.png?v=2" alt="share icon" class="">
+<strong>59</strong> shares
 </span>
 </div>
-<div class="pull-left tag-link uppercase tag-holder tag-holder-news"><a href="http://www.joe.ie/news">News</a></div>
-<span class="time uppercase">4 minutes ago</span>
+<div class="pull-left tag-link uppercase tag-holder tag-holder-news"><a href="https://www.joe.ie/news">News</a></div>
+<span class="time uppercase">47 minutes ago</span>
 </div>
 </div>
 <div class="clearfix"></div>
@@ -637,33 +748,33 @@ More from JOE.ie
 <div class="standard-post-holder col-xs-6 col-md-4">
 <div class="standard-post no-hp top-space ">
 <div class="no-hp image-holder">
-<a href="http://www.joe.ie/sport/watch-fan-footage-of-robbie-bradys-penalty-is-both-euphoric-and-heartbreaking/550832">
+<a href="https://www.joe.ie/news/odds-have-been-cut-on-a-white-christmas-across-ireland/568352">
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc1OiJhOjM6e3M6MzoidXJsIjtzOjExMzoiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNi8yNzEyNDYxMi9jYXB0dXJlLTIwMTYwNjI3LTEyNDQ0Mi5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6Ijg0NTM4YjE1Y2QyOTJkYTkwNWU4ZmNmZTZhZWI4ZDQyZTEwOTJkOTciO30=/capture-20160627-124442.png" media="(min-width: 970px)">
-<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc1OiJhOjM6e3M6MzoidXJsIjtzOjExMzoiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNi8yNzEyNDYxMi9jYXB0dXJlLTIwMTYwNjI3LTEyNDQ0Mi5wbmciO3M6NToid2lkdGgiO2k6MzUwO3M6NjoiaGVpZ2h0IjtpOjE3Nzt9IjtzOjQ6Imhhc2giO3M6NDA6Ijk1Mzk2YmEwZDc5ODhiYzI3NDA5MGFjOTRlN2NiN2JlNTg4NTk5OTkiO30=/capture-20160627-124442.png" media="(min-width: 640px)">
-<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc0OiJhOjM6e3M6MzoidXJsIjtzOjExMzoiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNi8yNzEyNDYxMi9jYXB0dXJlLTIwMTYwNjI3LTEyNDQ0Mi5wbmciO3M6NToid2lkdGgiO2k6MTYyO3M6NjoiaGVpZ2h0IjtpOjgyO30iO3M6NDoiaGFzaCI7czo0MDoiMTRmNmEzNDUyYTk1Yjk1ZWYwYTliNjBiOTc4MjRlNjBkZjIxNGJkMCI7fQ==/capture-20160627-124442.png" media="(max-width: 639px)">
+<source data-srcset="https://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU1OiJhOjM6e3M6MzoidXJsIjtzOjk0OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzExLzE2MTU1OTE5L1Nub3cuanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiJhYTliMDQxNjAyYmZiYTAyOGZhMmRhMzhmZDRhMmExZDg5ZDU5ZDUwIjt9/snow.jpg" media="(min-width: 970px)">
+<source data-srcset="https://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU1OiJhOjM6e3M6MzoidXJsIjtzOjk0OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzExLzE2MTU1OTE5L1Nub3cuanBnIjtzOjU6IndpZHRoIjtpOjM1MDtzOjY6ImhlaWdodCI7aToxNzc7fSI7czo0OiJoYXNoIjtzOjQwOiJlOWYxM2Y4ZjAyMDM0MGM2MDY4ZDAxMWI4NmQ0NjFhMGMzYWQ2ZDQ2Ijt9/snow.jpg" media="(min-width: 640px)">
+<source data-srcset="https://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU0OiJhOjM6e3M6MzoidXJsIjtzOjk0OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzExLzE2MTU1OTE5L1Nub3cuanBnIjtzOjU6IndpZHRoIjtpOjE2MjtzOjY6ImhlaWdodCI7aTo4Mjt9IjtzOjQ6Imhhc2giO3M6NDA6Ijg3N2NmYTk3MzE3ODRkNDgxMTEzZGZjYmE3MjBmM2ZmNmI1MjBjYjYiO30=/snow.jpg" media="(max-width: 639px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA4OiJhOjM6e3M6MzoidXJsIjtzOjQ4OiJodHRwOi8vd3d3LmpvZS5pZS9hc3NldHMvaW1hZ2VzL2pvZS9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MTYyO3M6NjoiaGVpZ2h0IjtpOjgyO30iO3M6NDoiaGFzaCI7czo0MDoiOTI2MDU5NTUzZTYyMGViZWI3YThkZmVjMGViZjA0ZmFlOWIxNWYwNyI7fQ==/no-image.png" data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc1OiJhOjM6e3M6MzoidXJsIjtzOjExMzoiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNi8yNzEyNDYxMi9jYXB0dXJlLTIwMTYwNjI3LTEyNDQ0Mi5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6Ijg0NTM4YjE1Y2QyOTJkYTkwNWU4ZmNmZTZhZWI4ZDQyZTEwOTJkOTciO30=/capture-20160627-124442.png" alt="WATCH: Fan footage of Robbie Brady's penalty is both euphoric and heartbreaking" class="river-post-image lazyload">
+<img src="https://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA5OiJhOjM6e3M6MzoidXJsIjtzOjQ5OiJodHRwczovL3d3dy5qb2UuaWUvYXNzZXRzL2ltYWdlcy9qb2Uvbm8taW1hZ2UucG5nIjtzOjU6IndpZHRoIjtpOjE2MjtzOjY6ImhlaWdodCI7aTo4Mjt9IjtzOjQ6Imhhc2giO3M6NDA6Ijg1NzEzMTdmYzMxYjk5MTc1NDMwN2UyY2EzMTM5MjdiYWQyZGQ2ODUiO30=/no-image.png" data-srcset="https://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU1OiJhOjM6e3M6MzoidXJsIjtzOjk0OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzExLzE2MTU1OTE5L1Nub3cuanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiJhYTliMDQxNjAyYmZiYTAyOGZhMmRhMzhmZDRhMmExZDg5ZDU5ZDUwIjt9/snow.jpg" alt="Odds have been cut on a White Christmas across Ireland" class="river-post-image lazyload">
 </picture>
 </a>
 </div>
 <div class="detail">
 <div class="headline hidden-xs">
-<a href="http://www.joe.ie/sport/watch-fan-footage-of-robbie-bradys-penalty-is-both-euphoric-and-heartbreaking/550832">WATCH: Fan footage of Robbie Brady's penalty is both euphoric and heartbreaking</a>
+<a href="https://www.joe.ie/news/odds-have-been-cut-on-a-white-christmas-across-ireland/568352">Odds have been cut on a White Christmas across Ireland</a>
 </div>
 <div class="headline visible-xs">
-<a href="http://www.joe.ie/sport/watch-fan-footage-of-robbie-bradys-penalty-is-both-euphoric-and-heartbreaking/550832">WATCH: Fan footage of Robbie Brady's penalty is both euphoric and heartbreaking</a>
+<a href="https://www.joe.ie/news/odds-have-been-cut-on-a-white-christmas-across-ireland/568352">Odds have been cut on a White Christmas across Ireland</a>
 </div>
 <div class="sub-text">
 <div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.joe.ie/sport/watch-fan-footage-of-robbie-bradys-penalty-is-both-euphoric-and-heartbreaking/550832" data-title="WATCH: Fan footage of Robbie Brady's penalty is both euphoric and heartbreaking">
-<img src="http://www.joe.ie/assets/images/joe/share.png?v=2" alt="share icon" class="hidden-xs">
+<span class="share-trigger" data-url="https://www.joe.ie/news/odds-have-been-cut-on-a-white-christmas-across-ireland/568352" data-title="Odds have been cut on a White Christmas across Ireland">
+<img src="https://www.joe.ie/assets/images/joe/share.png?v=2" alt="share icon" class="">
 <strong>7</strong> shares
 </span>
 </div>
-<div class="pull-left tag-link uppercase tag-holder tag-holder-sport"><a href="http://www.joe.ie/sport">Sport</a></div>
-<span class="time uppercase">5 minutes ago</span>
+<div class="pull-left tag-link uppercase tag-holder tag-holder-news"><a href="https://www.joe.ie/news">News</a></div>
+<span class="time uppercase">57 minutes ago</span>
 </div>
 </div>
 <div class="clearfix"></div>
@@ -672,103 +783,33 @@ More from JOE.ie
 <div class="standard-post-holder col-xs-6 col-md-4">
 <div class="standard-post no-hp top-space ">
 <div class="no-hp image-holder">
-<a href="http://www.joe.ie/movies-tv/video-how-did-we-miss-this-mistake-in-last-weeks-episode-of-game-of-thrones/550826">
+<a href="https://www.joe.ie/news/e220000-cap-to-be-removed-for-first-time-buyers/568348">
 <picture>
 <!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc2OiJhOjM6e3M6MzoidXJsIjtzOjExNDoiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNi8yNzEyMDgxMS9jYXB0dXJlLTIwMTYwNjIxLTE3MDAyODEucG5nIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiI3MDJmNTUyMzYzY2Q4MDI1ZTJhZmZjY2FlMmUxOTQyMWE5N2NmY2RjIjt9/capture-20160621-1700281.png" media="(min-width: 970px)">
-<source data-srcset="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc2OiJhOjM6e3M6MzoidXJsIjtzOjExNDoiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNi8yNzEyMDgxMS9jYXB0dXJlLTIwMTYwNjIxLTE3MDAyODEucG5nIjtzOjU6IndpZHRoIjtpOjM1MDtzOjY6ImhlaWdodCI7aToxNzc7fSI7czo0OiJoYXNoIjtzOjQwOiIzOTRkOWI1NjBiNjEwOGZjZDc1MzI5MDM3OTY5MjAyY2NkMDIwZjAwIjt9/capture-20160621-1700281.png" media="(min-width: 640px)">
-<source data-srcset="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc1OiJhOjM6e3M6MzoidXJsIjtzOjExNDoiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNi8yNzEyMDgxMS9jYXB0dXJlLTIwMTYwNjIxLTE3MDAyODEucG5nIjtzOjU6IndpZHRoIjtpOjE2MjtzOjY6ImhlaWdodCI7aTo4Mjt9IjtzOjQ6Imhhc2giO3M6NDA6IjRjN2JiMTkwMjViYjAzMzAwZTNiNjM0NmQ1NTQ4MjZlYTZmMjg5ZjUiO30=/capture-20160621-1700281.png" media="(max-width: 639px)">
+<source data-srcset="https://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU4OiJhOjM6e3M6MzoidXJsIjtzOjk3OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzEwLzExMTM1NDI2L25vb25hbjEuanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiI1YmE2MGEwNDQ0Nzc5MzMxZjVhZDZhOGNiZDBmOTdhODlhMzY0OGU0Ijt9/noonan1.jpg" media="(min-width: 970px)">
+<source data-srcset="https://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU4OiJhOjM6e3M6MzoidXJsIjtzOjk3OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzEwLzExMTM1NDI2L25vb25hbjEuanBnIjtzOjU6IndpZHRoIjtpOjM1MDtzOjY6ImhlaWdodCI7aToxNzc7fSI7czo0OiJoYXNoIjtzOjQwOiI4OWRlYzI2YTg1ZGFiM2U1YjQyZjc1ZjRjYzdiMDNiYTBlMDMwMWQ0Ijt9/noonan1.jpg" media="(min-width: 640px)">
+<source data-srcset="https://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU3OiJhOjM6e3M6MzoidXJsIjtzOjk3OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzEwLzExMTM1NDI2L25vb25hbjEuanBnIjtzOjU6IndpZHRoIjtpOjE2MjtzOjY6ImhlaWdodCI7aTo4Mjt9IjtzOjQ6Imhhc2giO3M6NDA6Ijk1NzBiYzQ1ZDY1M2Q1OGEyZDI5MTMwYWMzMThkZDg2MWNmOTMxYzIiO30=/noonan1.jpg" media="(max-width: 639px)">
 <!--[if IE 9]></video><![endif]-->
-<img src="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA4OiJhOjM6e3M6MzoidXJsIjtzOjQ4OiJodHRwOi8vd3d3LmpvZS5pZS9hc3NldHMvaW1hZ2VzL2pvZS9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MTYyO3M6NjoiaGVpZ2h0IjtpOjgyO30iO3M6NDoiaGFzaCI7czo0MDoiOTI2MDU5NTUzZTYyMGViZWI3YThkZmVjMGViZjA0ZmFlOWIxNWYwNyI7fQ==/no-image.png" data-srcset="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc2OiJhOjM6e3M6MzoidXJsIjtzOjExNDoiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNi8yNzEyMDgxMS9jYXB0dXJlLTIwMTYwNjIxLTE3MDAyODEucG5nIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiI3MDJmNTUyMzYzY2Q4MDI1ZTJhZmZjY2FlMmUxOTQyMWE5N2NmY2RjIjt9/capture-20160621-1700281.png" alt="VIDEO: How did we miss this mistake in last week's episode of Game of Thrones" class="river-post-image lazyload">
+<img src="https://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA5OiJhOjM6e3M6MzoidXJsIjtzOjQ5OiJodHRwczovL3d3dy5qb2UuaWUvYXNzZXRzL2ltYWdlcy9qb2Uvbm8taW1hZ2UucG5nIjtzOjU6IndpZHRoIjtpOjE2MjtzOjY6ImhlaWdodCI7aTo4Mjt9IjtzOjQ6Imhhc2giO3M6NDA6Ijg1NzEzMTdmYzMxYjk5MTc1NDMwN2UyY2EzMTM5MjdiYWQyZGQ2ODUiO30=/no-image.png" data-srcset="https://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU4OiJhOjM6e3M6MzoidXJsIjtzOjk3OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzEwLzExMTM1NDI2L25vb25hbjEuanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiI1YmE2MGEwNDQ0Nzc5MzMxZjVhZDZhOGNiZDBmOTdhODlhMzY0OGU0Ijt9/noonan1.jpg" alt="€220,000 cap for first-time buyers to be removed" class="river-post-image lazyload">
 </picture>
 </a>
 </div>
 <div class="detail">
 <div class="headline hidden-xs">
-<a href="http://www.joe.ie/movies-tv/video-how-did-we-miss-this-mistake-in-last-weeks-episode-of-game-of-thrones/550826">VIDEO: How did we miss this mistake in last week's episode of Game of Thrones</a>
+<a href="https://www.joe.ie/news/e220000-cap-to-be-removed-for-first-time-buyers/568348">€220,000 cap for first-time buyers to be removed</a>
 </div>
 <div class="headline visible-xs">
-<a href="http://www.joe.ie/movies-tv/video-how-did-we-miss-this-mistake-in-last-weeks-episode-of-game-of-thrones/550826">VIDEO: How did we miss this mistake in last week's episode of Game of Thrones</a>
+<a href="https://www.joe.ie/news/e220000-cap-to-be-removed-for-first-time-buyers/568348">€220,000 cap for first-time buyers to be removed</a>
 </div>
 <div class="sub-text">
 <div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.joe.ie/movies-tv/video-how-did-we-miss-this-mistake-in-last-weeks-episode-of-game-of-thrones/550826" data-title="VIDEO: How did we miss this mistake in last week's episode of Game of Thrones">
-<img src="http://www.joe.ie/assets/images/joe/share.png?v=2" alt="share icon" class="hidden-xs">
-<strong>6</strong> shares
+<span class="share-trigger" data-url="https://www.joe.ie/news/e220000-cap-to-be-removed-for-first-time-buyers/568348" data-title="€220,000 cap for first-time buyers to be removed">
+<img src="https://www.joe.ie/assets/images/joe/share.png?v=2" alt="share icon" class="">
+<strong>147</strong> shares
 </span>
 </div>
-<div class="pull-left tag-link uppercase tag-holder tag-holder-movies-tv"><a href="http://www.joe.ie/movies-tv">Movies &amp; TV</a></div>
-<span class="time uppercase">53 minutes ago</span>
-</div>
-</div>
-<div class="clearfix"></div>
-</div>
-</div>
-<div class="standard-post-holder col-xs-6 col-md-4">
-<div class="standard-post no-hp top-space ">
-<div class="no-hp image-holder">
-<a href="http://www.joe.ie/sport/video-irish-fans-really-dont-want-to-go-home-from-france/550802">
-<picture>
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc1OiJhOjM6e3M6MzoidXJsIjtzOjExMzoiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNi8yNzExMDYwOC9jYXB0dXJlLTIwMTYwNjI3LTExMDUxMS5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImU3ZjU2OTFkZGM2NTc4N2IzNTkwNWU4MDBiYTA2OGQzM2E1NTc1YWIiO30=/capture-20160627-110511.png" media="(min-width: 970px)">
-<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc1OiJhOjM6e3M6MzoidXJsIjtzOjExMzoiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNi8yNzExMDYwOC9jYXB0dXJlLTIwMTYwNjI3LTExMDUxMS5wbmciO3M6NToid2lkdGgiO2k6MzUwO3M6NjoiaGVpZ2h0IjtpOjE3Nzt9IjtzOjQ6Imhhc2giO3M6NDA6IjJiYWIzZDU1NDRhY2FiM2MwMzM0ZWFhMTY1NmM3M2NhNmI0NmMyYjciO30=/capture-20160627-110511.png" media="(min-width: 640px)">
-<source data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc0OiJhOjM6e3M6MzoidXJsIjtzOjExMzoiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNi8yNzExMDYwOC9jYXB0dXJlLTIwMTYwNjI3LTExMDUxMS5wbmciO3M6NToid2lkdGgiO2k6MTYyO3M6NjoiaGVpZ2h0IjtpOjgyO30iO3M6NDoiaGFzaCI7czo0MDoiZTY0MWQ1NTViNzQxNjQ3OTdiOTg2YjMwYmY2MjdmMmExYTJkOTg2ZSI7fQ==/capture-20160627-110511.png" media="(max-width: 639px)">
-<!--[if IE 9]></video><![endif]-->
-<img src="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA4OiJhOjM6e3M6MzoidXJsIjtzOjQ4OiJodHRwOi8vd3d3LmpvZS5pZS9hc3NldHMvaW1hZ2VzL2pvZS9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MTYyO3M6NjoiaGVpZ2h0IjtpOjgyO30iO3M6NDoiaGFzaCI7czo0MDoiOTI2MDU5NTUzZTYyMGViZWI3YThkZmVjMGViZjA0ZmFlOWIxNWYwNyI7fQ==/no-image.png" data-srcset="http://m2.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTc1OiJhOjM6e3M6MzoidXJsIjtzOjExMzoiaHR0cDovL21lZGlhLWpvZS5tYXhpbXVtbWVkaWEuaWUuczMuYW1hem9uYXdzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNi8yNzExMDYwOC9jYXB0dXJlLTIwMTYwNjI3LTExMDUxMS5wbmciO3M6NToid2lkdGgiO2k6MzEzO3M6NjoiaGVpZ2h0IjtpOjE1Nzt9IjtzOjQ6Imhhc2giO3M6NDA6ImU3ZjU2OTFkZGM2NTc4N2IzNTkwNWU4MDBiYTA2OGQzM2E1NTc1YWIiO30=/capture-20160627-110511.png" alt="VIDEO: Irish fans really don't want to go home from France" class="river-post-image lazyload">
-</picture>
-</a>
-</div>
-<div class="detail">
-<div class="headline hidden-xs">
-<a href="http://www.joe.ie/sport/video-irish-fans-really-dont-want-to-go-home-from-france/550802">VIDEO: Irish fans really don't want to go home from France</a>
-</div>
-<div class="headline visible-xs">
-<a href="http://www.joe.ie/sport/video-irish-fans-really-dont-want-to-go-home-from-france/550802">VIDEO: Irish fans really don't want to go home from France</a>
-</div>
-<div class="sub-text">
-<div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.joe.ie/sport/video-irish-fans-really-dont-want-to-go-home-from-france/550802" data-title="VIDEO: Irish fans really don't want to go home from France">
-<img src="http://www.joe.ie/assets/images/joe/share.png?v=2" alt="share icon" class="hidden-xs">
-<strong>193</strong> shares
-</span>
-</div>
-<div class="pull-left tag-link uppercase tag-holder tag-holder-sport"><a href="http://www.joe.ie/sport">Sport</a></div>
+<div class="pull-left tag-link uppercase tag-holder tag-holder-news"><a href="https://www.joe.ie/news">News</a></div>
 <span class="time uppercase">1 hour ago</span>
-</div>
-</div>
-<div class="clearfix"></div>
-</div>
-</div>
-<div class="standard-post-holder col-xs-6 col-md-4">
-<div class="standard-post no-hp top-space ">
-<div class="no-hp image-holder">
-<a href="http://www.joe.ie/life-style/pic-there-will-be-no-shifting-in-this-galway-pub/550818">
-<picture>
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source data-srcset="http://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU4OiJhOjM6e3M6MzoidXJsIjtzOjk3OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzA2LzI3MTA0OTU2L0tpc3NpbmcuanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiIzMTgzMGFmM2JmZmEwZDc5OWRkODY3ZTJkMmYyMjY1YTI5YzBkY2ZhIjt9/kissing.jpg" media="(min-width: 970px)">
-<source data-srcset="http://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU4OiJhOjM6e3M6MzoidXJsIjtzOjk3OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzA2LzI3MTA0OTU2L0tpc3NpbmcuanBnIjtzOjU6IndpZHRoIjtpOjM1MDtzOjY6ImhlaWdodCI7aToxNzc7fSI7czo0OiJoYXNoIjtzOjQwOiIzODk4ZjVmOGQyMDAxOWRkZTgzZmQwNzRkMTJlNzAxNWYwYjAwOTdkIjt9/kissing.jpg" media="(min-width: 640px)">
-<source data-srcset="http://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU3OiJhOjM6e3M6MzoidXJsIjtzOjk3OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzA2LzI3MTA0OTU2L0tpc3NpbmcuanBnIjtzOjU6IndpZHRoIjtpOjE2MjtzOjY6ImhlaWdodCI7aTo4Mjt9IjtzOjQ6Imhhc2giO3M6NDA6IjIxMDI2ZDgzZGE1ZTNmNTBkMjMwYWQzOGY4ZjBhYzZjOGYxOTA1ZTgiO30=/kissing.jpg" media="(max-width: 639px)">
-<!--[if IE 9]></video><![endif]-->
-<img src="http://m0.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTA4OiJhOjM6e3M6MzoidXJsIjtzOjQ4OiJodHRwOi8vd3d3LmpvZS5pZS9hc3NldHMvaW1hZ2VzL2pvZS9uby1pbWFnZS5wbmciO3M6NToid2lkdGgiO2k6MTYyO3M6NjoiaGVpZ2h0IjtpOjgyO30iO3M6NDoiaGFzaCI7czo0MDoiOTI2MDU5NTUzZTYyMGViZWI3YThkZmVjMGViZjA0ZmFlOWIxNWYwNyI7fQ==/no-image.png" data-srcset="http://m1.joe.ie/YToyOntzOjQ6ImRhdGEiO3M6MTU4OiJhOjM6e3M6MzoidXJsIjtzOjk3OiJodHRwOi8vbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzA2LzI3MTA0OTU2L0tpc3NpbmcuanBnIjtzOjU6IndpZHRoIjtpOjMxMztzOjY6ImhlaWdodCI7aToxNTc7fSI7czo0OiJoYXNoIjtzOjQwOiIzMTgzMGFmM2JmZmEwZDc5OWRkODY3ZTJkMmYyMjY1YTI5YzBkY2ZhIjt9/kissing.jpg" alt="PIC: There will be no shifting in this Galway pub" class="river-post-image lazyload">
-</picture>
-</a>
-</div>
-<div class="detail">
-<div class="headline hidden-xs">
-<a href="http://www.joe.ie/life-style/pic-there-will-be-no-shifting-in-this-galway-pub/550818">PIC: There will be no shifting in this Galway pub</a>
-</div>
-<div class="headline visible-xs">
-<a href="http://www.joe.ie/life-style/pic-there-will-be-no-shifting-in-this-galway-pub/550818">PIC: There will be no shifting in this Galway pub</a>
-</div>
-<div class="sub-text">
-<div class="pull-right inverted-shares uppercase">
-<span class="share-trigger" data-url="http://www.joe.ie/life-style/pic-there-will-be-no-shifting-in-this-galway-pub/550818" data-title="PIC: There will be no shifting in this Galway pub">
-<img src="http://www.joe.ie/assets/images/joe/share.png?v=2" alt="share icon" class="hidden-xs">
-<strong>403</strong> shares
-</span>
-</div>
-<div class="pull-left tag-link uppercase tag-holder tag-holder-life-style"><a href="http://www.joe.ie/life-style">Life</a></div>
-<span class="time uppercase">2 hours ago</span>
 </div>
 </div>
 <div class="clearfix"></div>
@@ -785,27 +826,17 @@ More from JOE.ie
 Load More Articles
 <div class="loading-icon"></div>
 </button>
-<div class="nav-selector" data-pages="7251">
-<a href="http://www.joe.ie/page/2" class="next">Next Page</a>
+<div class="nav-selector" data-pages="7664">
+<a href="https://www.joe.ie/page/2" class="next">Next Page</a>
 </div>
 </div>
 <div class="clearfix"></div>
 </div>
 </div>
-<div id="cookie-notice">
-<div class="message">
-<i id="cookie-close" class="fa fa-close"></i>
-We use cookies to ensure that we give you the best experience on our website.
-<a href="http://www.joe.ie/privacy-statement">Read more »</a>
-</div>
-</div>
-<div id="div-gpt-out_of_page" data-article="331717" data-route="" data-tag="" data-section="" data-search="" <="" div="">
-
-                
-        <img id="comscore" height="1" width="1">
-
+<div id="div-gpt-out_of_page"></div>
+<img id="comscore" height="1" width="1">
 <div id="parsely-root" style="display: none">
-    <span id="parsely-cfg" data-parsely-site="joe.ie"></span>
+<span id="parsely-cfg" data-parsely-site="joe.ie"></span>
 <script id="parsely-script" async="" src="https://d1z2jf7jlzjs58.cloudfront.net/p.js"></script></div>
 <script>
     (function(s, p, d) {
@@ -818,26 +849,20 @@ We use cookies to ensure that we give you the best experience on our website.
       e.src = h+"//"+u+"/p.js"; r.appendChild(e);
     })("script", "parsely", document);
 </script>
-
 <script>
     var realtime = {
         'app': 'liveadplus',
-        'channel': '1/1',
-        'hash': '2abe088df0efd33631850ccb778084d77a48633bf4ba52e54f0b447ea2a536e8'
+        'channel': '1/3',
+        'hash': 'c2411259b4f8819f2fe37bd2f9362b06a21fdc4a75053c841661089d32b2dcd2'
     };
 </script>
-
-
 <div id="div-gpt-oop">
-    <script type="text/javascript">
+<script type="text/javascript">
         googletag.cmd.push(function () { googletag.display('div-gpt-oop'); });
     </script>
 </div>
-
-        <script src="http://www.joe.ie/assets/js/app-d431d50e.js"></script>
-
-
-                <script type="text/javascript">
+<script src="https://www.joe.ie/assets/js/app-58d86123.js"></script>
+<script type="text/javascript">
             (function() {
                 function async_load(script_url){
                     var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
@@ -849,7 +874,6 @@ We use cookies to ensure that we give you the best experience on our website.
                 jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
             })();
         </script>
-        
-                    
 
-</div></body></html>
+
+</body></html>
