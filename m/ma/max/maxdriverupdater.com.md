@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxdriverupdater.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317013555id_/http%3A//maxdriverupdater.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxdriverupdater.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123113743id_/http%3A//www.maxdriverupdater.com/pp.html) for the most accurate reproduction.*
 
 # Max Driver Updater
 
