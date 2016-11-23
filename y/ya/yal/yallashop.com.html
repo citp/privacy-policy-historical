@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yallashop.com privacy policy that was archived on 2016-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160621233405id_/http%3A//www.yallashop.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yallashop.com privacy policy that was archived on 2016-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161123134438id_/http%3A//www.yallashop.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" data-add_this_id=""><head>
         
@@ -24,7 +24,7 @@
 
     
 
-    <link rel="shortcut icon" href="http://a02-tata.buildabazaar.com/img/lookandfeel/0816866/da39a3ee5e6b4b0d3255b_favicon.ico.999x16x16.ico">
+    <link rel="shortcut icon" href="http://a02-tata.buildabazaar.com/img/lookandfeel/0816866/da39a3ee5e6b4b0d3255b_favicon.ico.989x16x16.ico">
 
     
       
@@ -35,18 +35,26 @@
       
     
 
-    <!--[if (!IE)|(gte IE 8)]><!-->
-<link href="http://cdn-a2.buildabazaar.com/packages/bootstrap-datauri.css?1466142718" media="all" rel="stylesheet" type="text/css">
+    
+    
+    
+      
+      <!--[if (!IE)|(gte IE 8)]><!-->
+<link href="http://cdn-a2.buildabazaar.com/packages/bootstrap-datauri.css?1476393274" media="all" rel="stylesheet" type="text/css">
 <!--<![endif]-->
 <!--[if lte IE 7]>
-<link href="http://cdn-a2.buildabazaar.com/packages/bootstrap.css?1466142718" media="all" rel="stylesheet" type="text/css" />
+<link href="http://cdn-a2.buildabazaar.com/packages/bootstrap.css?1476393274" media="all" rel="stylesheet" type="text/css" />
 <![endif]-->
-    <!--[if (!IE)|(gte IE 8)]><!-->
-      <link href="http://cdn-a2.buildabazaar.com/exthemes/08/16/866/theme-0816866-1/stylesheets/site-datauri.css?1464693031" media="all" rel="stylesheet" type="text/css">
-    <!--<![endif]-->
-    <!--[if lte IE 7]>
-      <link href="http://cdn-a2.buildabazaar.com/exthemes/08/16/866/theme-0816866-1/stylesheets/site-.css?1464693031" media="screen" rel="stylesheet" type="text/css" />
-    <![endif]-->
+      <!--[if (!IE)|(gte IE 8)]><!-->
+        <link href="http://cdn-a2.buildabazaar.com/exthemes/08/16/866/theme-0816866-1/stylesheets/site-datauri.css?1474957094" media="all" rel="stylesheet" type="text/css">
+      <!--<![endif]-->
+      <!--[if lte IE 7]>
+        <link href="http://cdn-a2.buildabazaar.com/exthemes/08/16/866/theme-0816866-1/stylesheets/site-.css?1474957094" media="screen" rel="stylesheet" type="text/css" />
+      <![endif]-->
+    
+    
+
+
     
     <!--[if lt IE 10]>
       <script type="text/javascript" src="/javascripts/respondIE/respondmore.min.js"></script>
@@ -66,10 +74,10 @@
       !window.jQuery.ui && document.write(unescape("%3Cscript src='/javascripts/jquery-ui-1.8.16.custom.min.js' type='text/javascript'%3E%3C/script%3E"));
     </script><script src="/javascripts/jquery-ui-1.8.16.custom.min.js" type="text/javascript"></script>
 
-    <script src="http://cdn-a2.buildabazaar.com/packages/bootstrap.js?1466142718" type="text/javascript"></script>
+    <script src="http://cdn-a2.buildabazaar.com/packages/bootstrap.js?1476393274" type="text/javascript"></script>
 
-    <script src="http://cdn-a2.buildabazaar.com/javascripts/site-javascripts/0816866/global.js?1464953773" type="text/javascript"></script>
-    <script src="http://cdn-a2.buildabazaar.com/exthemes/08/16/866/theme-0816866-1/javascripts/site.js?1464693031" type="text/javascript"></script>
+    <script src="http://cdn-a2.buildabazaar.com/javascripts/site-javascripts/0816866/global.js?1478533811" type="text/javascript"></script>
+    <script src="http://cdn-a2.buildabazaar.com/exthemes/08/16/866/theme-0816866-1/javascripts/site.js?1474957094" type="text/javascript"></script>
     <script type="text/javascript">
       !window.JSON && document.write(unescape('%3Cscript src="http://cdn-a2.buildabazaar.com/javascripts/json2.js?1429854677" type="text/javascript"%3E%3C/script%3E'));
     </script>
@@ -81,11 +89,11 @@
 
         
 
-        // TRIGGER EVENT TO SHOW ADD TO CART AS POPUP        
-          search_page_product_view_options = {"popup_enabled":false,"product_view_options":{"share_links":false,"notify_me_when_available":false,"add_to_cart":true,"variant_sku":false,"buy_now":false,"product_bundle_banner":false,"you_save":false},"effect_options":{"timeout_for_add_to_cart_popup":"","add_to_cart_popup":false}}
-          if (search_page_product_view_options.popup_enabled)
+        // TRIGGER EVENT TO SHOW ADD TO CART AS POPUP
+          effect_options = {"add_to_cart_popup":false,"timeout_for_add_to_cart_popup":""}
+          if (effect_options && effect_options.add_to_cart_popup)
           {
-            $(document).trigger('add_to_cart_popup_effect',search_page_product_view_options.effect_options);
+            $(document).trigger('add_to_cart_popup_effect',effect_options);
           }
         // END
 
@@ -112,7 +120,7 @@
         
 
         
-          $(document).trigger("show-cart-details",{"total_quantity":true,"total_amount":true,"show_on_hover":{"carousel":{"enabled":true,"options":{"vertical":false,"visible":"","scroll":""}},"enabled":false,"item_count_limit":2,"item_details":{"quantity":true,"image":true,"delete_item":true,"price":true,"title":true,"delete_confirmation":true}}});
+          $(document).trigger("show-cart-details",{"total_amount":true,"show_on_hover":{"item_count_limit":2,"enabled":false,"carousel":{"enabled":true,"options":{"vertical":false,"scroll":"","visible":""}},"item_details":{"delete_confirmation":true,"price":true,"quantity":true,"image":true,"title":true,"delete_item":true}},"total_quantity":true});
         
 
         
@@ -171,7 +179,7 @@
         a Javascript enabled browser.</span></noscript>
 
       
-      <div id="page" class="f-cod f-relateditems f-internationalshipping f-fb_con f-layout_change_enabled f-additional_layouts_for_selection f-carousel_type f-fb_connect f-fb_send f-accounts_tab f-translation f-cart_details_in_header f-allow_bing_bot f-product_list_widget f-addon_shipping_calculators f-google_connect f-twitter_connect f-infibeam_listing f-search_view_type f-new_browse_node_urls_in_sdp_and_search f-search_hint f-login_popup f-reset_facets f-reviews f-related_items_customize f-static_bundle_purchase f-disable_gift_wrap f-customize_checkout f-enable_checkout_product_image f-conversion_tracking_code_snippet f-one_page_checkout f-search_page_products_view_options f-xsell_customize f-contact_us_form f-shopping_cart_reminder f-money_format f-persist_db_locations f-external_order f-notify_me_when_available_active f-app_specific_catalog f-fulfiller_override f-axiom_price_only_feed f-webstore_feeds_catalog_update_downloads f-disable_gift_message f-accept_tc_checkout_url f-email f-invoice_options f-axiom_shipping_calculator f-case_sensitive_variant_title f-email_template_multilanguage f-not_user_scalable f-gtm f-analytics f-reseller_footer_text f-related_items f-international_shipping f-upload_variant_config_through_feed f-asset_lookup_enabled f-manage_customer_accounts f-catalog f-pdp_max_qty_selectable f-cart_restrictions f-infinite_scroll f-autocomplete f-crazysort f-support_custom_url f-payment_gateway_restriction f-enable_external_shipment_id f-seo_canonical_url f-social_plugins_metatags f-image_indexing f-promotion_details f-promotion_tags f-login_popup">
+      <div id="page" class="f-cod f-relateditems f-internationalshipping f-fb_con f-layout_change_enabled f-additional_layouts_for_selection f-carousel_type f-fb_connect f-fb_send f-accounts_tab f-translation f-cart_details_in_header f-allow_bing_bot f-product_list_widget f-addon_shipping_calculators f-google_connect f-twitter_connect f-infibeam_listing f-search_view_type f-new_browse_node_urls_in_sdp_and_search f-search_hint f-login_popup f-reset_facets f-reviews f-related_items_customize f-static_bundle_purchase f-disable_gift_wrap f-customize_checkout f-enable_checkout_product_image f-conversion_tracking_code_snippet f-one_page_checkout f-search_page_products_view_options f-xsell_customize f-contact_us_form f-shopping_cart_reminder f-money_format f-persist_db_locations f-external_order f-notify_me_when_available_active f-app_specific_catalog f-fulfiller_override f-axiom_price_only_feed f-webstore_feeds_catalog_update_downloads f-disable_gift_message f-accept_tc_checkout_url f-email f-invoice_options f-axiom_shipping_calculator f-case_sensitive_variant_title f-email_template_multilanguage f-not_user_scalable f-gtm f-analytics f-reseller_footer_text f-related_items f-international_shipping f-upload_variant_config_through_feed f-asset_lookup_enabled f-manage_customer_accounts f-catalog f-pdp_max_qty_selectable f-cart_restrictions f-infinite_scroll f-autocomplete f-crazysort f-support_custom_url f-payment_gateway_restriction f-enable_external_shipment_id f-seo_canonical_url f-social_plugins_metatags f-image_indexing f-promotion_details f-promotion_tags f-shopping_cart f-offer_description f-pagespeed f-browsenode_level_seo f-login_popup">
       
       
       
@@ -292,7 +300,7 @@ float:right;
   <div class="row">
     <div class="col-md-3 col-sm-3">
       <div class="logo">
-        <a href="/" title="home"><img src="http://cdn-a2.buildabazaar.com/img/lookandfeel/0816866/da39a3ee5e6b4b0d3255b_yallalogo.png.999xx.png" alt="yallashop"></a>
+        <a href="/" title="home"><img src="http://cdn-a2.buildabazaar.com/img/lookandfeel/0816866/5009e9b4967c7_yallashopweblogo.png.989xx.png" alt="yallashop"></a>
       </div>
     </div>
     <div class="col-md-9 col-sm-9">
@@ -358,47 +366,47 @@ float:right;
 <div class="col-md-4 col-xs-6">
 <h6>brands</h6>
 <ul class="ui-sortable">
-<li><a href="/mobiles/search?q=apple">Apple</a></li>
-<li><a href="/mobiles/search?q=blackberry">Blackberry</a></li>
-<li><a href="/mobiles/search?q=htc">HTC</a></li>
-<li><a href="/mobiles/search?q=huawei">Huawei</a></li>
-<li><a href="/mobiles/search?q=lenovo">Lenovo</a></li>
-<li><a href="/mobiles/search?q=lg">LG</a></li>
-<li><a href="/mobiles/search?q=nokia">Nokia</a></li>
-<li><a href="/mobile-phones#/?make[]=oneplus">One Plus</a></li>
-<li><a href="/mobile-phones#/?make[]=samsung">Samsung</a></li>
-<li><a href="/mobiles/search?q=sony">Sony</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones/search?q=apple">Apple</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones/search?q=blackberry">Blackberry</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones/search?q=htc">HTC</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones/search?q=huawei">Huawei</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones/search?q=lenovo">Lenovo</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones/search?q=lg">LG</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones/smartphones#/?make[]=xiaomi&amp;_xhr=1">Xiaomi</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones#/?make[]=motorola">Motorola</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones#/?make[]=samsung">Samsung</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones/search?q=sony">Sony</a></li>
 </ul>
-<a class="button" style="display: inline-block; margin-top: 5px;" href="/mobiles">view all</a></div>
+<a class="button" style="display: inline-block; margin-top: 5px;" href="http://www.yallashop.com/mobile-phones">view all</a></div>
 <div class="col-md-4 col-xs-6">
 <h6>categories</h6>
 <ul class="ui-sortable">
-<li><a href="/mobiles-smartphones">Smart Phones</a></li>
-<li><a href="/mobiles-featurephones">Feature Phones</a></li>
-<li><a href="/mobiles-dualsim">Dual Sim</a></li>
-<li><a href="/mobiles-4g">4G Phones</a></li>
-<li><a href="/mobiles-mobile-accessories">Mobile Accessories</a></li>
-<li><a href="/mobile-phones/accessories#/?br_nodes[]=ho68477486_mobi_mobi_mobi&amp;br_nodes[]=ho68477486_mobi_mobi_head&amp;_xhr=1">Headsets &amp; Audio Accessories</a></li>
-<li><a href="/mobile-phones/accessories/search?br_nodes[]=ho68477486_mobi_mobi_usbc#/?br_nodes[]=ho68477486_mobi_mobi_phon&amp;br_nodes[]=ho68477486_mobi_mobi_scre&amp;_xhr=1">Covers &amp; Screen Protectors</a></li>
-<li><a href="/mobile-phones/accessories#/?br_nodes[]=ho68477486_mobi_mobi_batt&amp;br_nodes[]=ho68477486_mobi_mobi_char&amp;br_nodes[]=ho68477486_mobi_mobi_powe&amp;_xhr=1">Batteries &amp; Power Accessories</a></li>
-<li><a href="/gadgets-docking-stations">Docking Stations</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones/smartphones">Smart Phones</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones/featurephones">Feature Phones</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones/smartphones#/?br_nodes[]=ho68477486_mobi_smar_dual&amp;_xhr=1">Dual Sim</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones/smartphones#/?br_nodes[]=ho68477486_mobi_smar_4g&amp;_xhr=1">4G Phones</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones/accessories">Mobile Accessories</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones/accessories#/?br_nodes[]=ho68477486_mobi_mobi_mobi&amp;br_nodes[]=ho68477486_mobi_mobi_head&amp;_xhr=1">Headsets &amp; Audio Accessories</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones/accessories/search?br_nodes[]=ho68477486_mobi_mobi_usbc#/?br_nodes[]=ho68477486_mobi_mobi_phon&amp;br_nodes[]=ho68477486_mobi_mobi_scre&amp;_xhr=1">Covers &amp; Screen Protectors</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones/accessories#/?br_nodes[]=ho68477486_mobi_mobi_batt&amp;br_nodes[]=ho68477486_mobi_mobi_char&amp;br_nodes[]=ho68477486_mobi_mobi_powe&amp;_xhr=1">Batteries &amp; Power Accessories</a></li>
+<li><a href="http://www.yallashop.com/mobiles-mobile-accessories-skins">Skins</a></li>
 </ul>
-<a class="button" style="display: inline-block; margin-top: 5px;" href="/mobiles">view all</a></div>
+<a class="button" style="display: inline-block; margin-top: 5px;" href="http://www.yallashop.com/mobile-phones">view all</a></div>
 <div class="col-md-4 col-xs-6">
 <h6>top sellers</h6>
 <ul class="ui-sortable">
+<li><a href="http://www.yallashop.com/mobile-phones/apple/apple-iphone-7-p-0816866-2587669450-cat.html">Apple iPhone 7</a></li>
 <li><a href="http://www.yallashop.com/mobile-phones/apple/apple-iphone-6s-with-facetime-0816866-21493349246-cat">Apple iPhone 6S</a></li>
-<li><a href="/mobile-phones/samsung/samsung-galaxy-s7-edge-dual-sim/p-0816866-62403924588-cat.html">Samsung S7 Edge</a></li>
-<li><a href="/mobile-phones/samsung/samsung-galaxy-note5-n920c-32gb/p-0816866-7167510733-cat.html#variant_id=0816866-31047967385">Samsung Galaxy Note 5</a></li>
-<li><a href="/mobile-phones/blackberry/blackberry-priv/p-0816866-91678250182-cat.html#variant_id=0816866-96223226513">Blackberry Priv</a></li>
-<li><a href="/mobile-phones/apple/apple-iphone-5s/p-0816866-62477671881-cat.html#variant_id=0816866-10111285790">Apple iPhone 5S</a></li>
-<li><a href="/mobile-phones/samsung/samsung-galaxy-s7-dual-sim/p-0816866-13217785104-cat.html#variant_id=0816866-10760319157">Samsung S7</a></li>
-<li><a href="/mobile-phones/asus/asus-zenfone2-ze551ml-4gb-ram-dual-sim/p-0816866-68442881459-cat.html#variant_id=0816866-10845592577">Asus ZenFone2 64 GB</a></li>
-<li><a href="/mobile-phones/lg/lg-g4-dual/p-0816866-43771953778-cat.html#variant_id=0816866-14627861368">LG G4</a></li>
-<li><a href="/mobile-phones/huawei/huawei-p8-lite-dual-sim/p-0816866-54511230915-cat.html#variant_id=0816866-47033227503">Huawei P8 Lite</a></li>
-<li><a href="/mobile-phones/blackberry/blackberry-q10/p-0816866-57289192078-cat.html#variant_id=0816866-74871084630">Blackberry Q10</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones/samsung/samsung-galaxy-s7-edge-dual-sim/p-0816866-62403924588-cat.html">Samsung S7 Edge</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones/samsung/samsung-galaxy-note5-n920c-32gb/p-0816866-7167510733-cat.html#variant_id=0816866-31047967385">Samsung Galaxy Note 5</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones/blackberry/blackberry-priv/p-0816866-91678250182-cat.html#variant_id=0816866-96223226513">Blackberry Priv</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones/apple/apple-iphone-5s/p-0816866-62477671881-cat.html#variant_id=0816866-10111285790">Apple iPhone 5S</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones/samsung/samsung-galaxy-s7-dual-sim/p-0816866-13217785104-cat.html#variant_id=0816866-10760319157">Samsung S7</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones/asus/asus-zenfone2-ze551ml-4gb-ram-dual-sim/p-0816866-68442881459-cat.html#variant_id=0816866-10845592577">Asus ZenFone2 64 GB</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones/lg/lg-g4-dual/p-0816866-43771953778-cat.html#variant_id=0816866-14627861368">LG G4</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones/blackberry/blackberry-dtek50-16gb-4g/p-0816866-93494717464-cat.html#variant_id=0816866-10008507366">Blackberry DTEK50</a></li>
 </ul>
-<a class="button" style="display: inline-block; margin-top: 5px;" href="/mobiles">view all</a></div>
+<a class="button" style="display: inline-block; margin-top: 5px;" href="http://www.yallashop.com/mobile-phones">view all</a></div>
 <div class="clearfix visible-lg" style="float: right; width: 610px; position: absolute; right: 0; top: 0;">
 <div style="float: left; margin-right: 10px; width: 300px;"><a href="http://www.yallashop.com/mobile-phones#/?make[]=apple&amp;_xhr=1"><img style="margin-right: 10px;" src="http://cdn-a2.buildabazaar.com/img/html_widget_images/0816866/158550c840deb_iphones.jpg.999xx.jpg" alt=""></a></div>
 <div style="float: right; width: 300px;"><a href="http://www.yallashop.com/mobile-phones/smartphones"><img src="http://cdn-a2.buildabazaar.com/img/html_widget_images/0816866/60c408b7f8fb6_getexcitingdiscounts.jpg.999xx.jpg" alt=""></a></div>
@@ -414,7 +422,7 @@ float:right;
 
   
   
-    <li class="dropdown"><a href="/tablets" class="dropdown-toggle " data-toggle="dropdown">tablets<b class="caret"></b></a>
+    <li class="dropdown"><a href="/tablets" class="dropdown-toggle " data-toggle="dropdown">Tablets<b class="caret"></b></a>
       
       <ul class="dropdown-menu ">
         
@@ -427,27 +435,28 @@ float:right;
 <div class="col-md-4 col-xs-6">
 <h6>brands</h6>
 <ul class="ui-sortable"><!-- max 10 items per ul-->
-<li><a href="/tablets/search?q=apple">Apple</a></li>
-<li><a href="/tablets/search?q=huawei">Huawei</a></li>
-<li><a href="/tablets/search?q=microsoft">Microsoft</a></li>
-<li><a href="/tablets/search?q=samsung">Samsung</a></li>
+<li><a href="http://www.yallashop.com/tablets/search?q=apple">Apple</a></li>
+<li><a href="http://www.yallashop.com/tablets/search?q=huawei">Huawei</a></li>
+<li><a href="http://www.yallashop.com/tablets/search?q=microsoft">Microsoft</a></li>
+<li><a href="http://www.yallashop.com/tablets/search?q=samsung">Samsung</a></li>
 </ul>
 <a class="button" style="display: inline-block; margin-top: 5px;" href="/tablets">view all</a></div>
 <div class="col-md-4 col-xs-6">
 <h6>categories</h6>
 <ul class="ui-sortable"><!-- max 10 items per ul-->
-<li><a href="/tablets">Tablets</a></li>
-<li><a href="/tablets-ios">iPads</a></li>
-<li><a href="/tablets-tablet-accessories">Tablet Accessories</a></li>
+<li><a href="http://www.yallashop.com/tablets">Tablets</a></li>
+<li><a href="http://www.yallashop.com/tablet-phones/ios">iPads</a></li>
+<li><a href="http://www.yallashop.com/tablet-phones/tablet_accessories">Tablet Accessories</a></li>
 </ul>
 <a class="button" style="display: inline-block; margin-top: 5px;" href="/tablets">view all</a></div>
 <div class="col-md-4 col-xs-6">
 <h6>top sellers</h6>
 <ul class="ui-sortable">
-<li><a href="/tablets/search?q=Apple+iPad+Pro+4G+LTE">Apple iPad Pro 4G LTE</a></li>
-<li><a href="/tablets/search?q=Apple+Ipad+Mini+3">Apple Ipad Mini 3</a></li>
-<li><a href="/tablets/search?q=Samsung+Galaxy+Tab+4">Samsung Galaxy Tab 4</a></li>
-<li><a href="/tablets/search?q=+Huawei+Mediapad+T1">Huawei Mediapad T1</a></li>
+<li><a href="http://www.yallashop.com/tablets/search?q=Apple+iPad+Pro+4G+LTE">Apple iPad Pro 4G LTE</a></li>
+<li><a href="http://www.yallashop.com/tablets/search?q=Apple+Ipad+Mini+3">Apple Ipad Mini 3</a></li>
+<li><a href="http://www.yallashop.com/tablets/search?q=Samsung+Galaxy+Tab+4">Samsung Galaxy Tab 4</a></li>
+<li><a href="http://www.yallashop.com/tablets/search?q=+Huawei+Mediapad+T1">Huawei Mediapad T1</a></li>
+<li><a href="http://www.yallashop.com/tablets#/?make[]=microsoft&amp;br_nodes[]=ho68477486_tabl_wind&amp;_xhr=1">Microsoft Surface Pro</a></li>
 </ul>
 <a class="button" style="display: inline-block; margin-top: 5px;" href="/tablets">view all</a></div>
 <div class="clearfix visible-lg" style="float: right; width: 610px; position: absolute; right: 0; top: 0;">
@@ -478,40 +487,39 @@ float:right;
 <div class="col-md-4 col-xs-6">
 <h6>brands</h6>
 <ul class="ui-sortable"><!-- max 10 items per ul-->
-<li><a href="/computers/search?q=acer">Acer</a></li>
-<li><a href="/computers/search?q=apple">Apple</a></li>
-<li><a href="/computers/search?q=asus">Asus</a></li>
-<li><a href="/computers/search?q=dell">Dell</a></li>
-<li><a href="/computers/search?q=epson">Epson</a></li>
-<li><a href="/computers/search?q=hp">HP</a></li>
-<li><a href="/computers/search?q=lenovo">Lenovo</a></li>
-<li><a href="/computers/search?q=sony">Sony</a></li>
-<li><a href="/computers/search?q=toshiba">Toshiba</a></li>
+<li><a href="http://www.yallashop.com/computers/search?q=acer">Acer</a></li>
+<li><a href="http://www.yallashop.com/computers/search?q=apple">Apple</a></li>
+<li><a href="http://www.yallashop.com/computers/search?q=asus">Asus</a></li>
+<li><a href="http://www.yallashop.com/computers/search?q=dell">Dell</a></li>
+<li><a href="http://www.yallashop.com/computers/search?q=epson">Epson</a></li>
+<li><a href="http://www.yallashop.com/computers/search?q=hp">HP</a></li>
+<li><a href="http://www.yallashop.com/computers/search?q=lenovo">Lenovo</a></li>
+<li><a href="http://www.yallashop.com/computers/search?q=sony">Sony</a></li>
+<li><a href="http://www.yallashop.com/computers/search?q=toshiba">Toshiba</a></li>
 </ul>
 <a class="button" style="display: inline-block; margin-top: 5px;" href="/computers">view all</a></div>
 <div class="col-md-4 col-xs-6">
 <h6>categories</h6>
 <ul class="ui-sortable"><!-- max 10 items per ul-->
-<li><a href="/computers-laptops">Laptops</a></li>
-<li><a href="/computers-desktops">Desktops</a></li>
-<li><a href="/computers/search?q=apple">Macbooks<br></a></li>
-<li><a href="/computers-computer-accessories">Computer&nbsp;Accessories</a></li>
-<li><a href="/computers-computer-accessories-printers">Printers</a></li>
-<li><a href="/computers-computer-accessories-monitors">Monitors</a></li>
-<li><a href="/computers-networking">Networking</a></li>
-<li><a href="/gadgets-portable-hard-drives">Portable Hard Drives</a></li>
+<li><a href="http://www.yallashop.com/computers/laptops">Laptops</a></li>
+<li><a href="http://www.yallashop.com/computers/desktops">Desktops</a></li>
+<li><a href="http://www.yallashop.com/computers/search?q=apple">Macbooks<br></a></li>
+<li><a href="http://www.yallashop.com/computers/computer-accessories">Computer&nbsp;Accessories</a></li>
+<li><a href="http://www.yallashop.com/computers/computer-accessories/printers">Printers</a></li>
+<li><a href="http://www.yallashop.com/computers/computer-accessories/monitors">Monitors</a></li>
+<li><a href="http://www.yallashop.com/computers/networking">Networking</a></li>
+<li><a href="http://www.yallashop.com/gadgets/portable-hard-drives">Portable Hard Drives</a></li>
 </ul>
 <a class="button" style="display: inline-block; margin-top: 5px;" href="/computers">view all</a></div>
 <div class="col-md-4 col-xs-6">
 <h6>top sellers</h6>
 <ul class="ui-sortable"><!-- max 10 items per ul-->
-<li><a href="/computers/laptops/lenovo-ideapad-305-5th-gen-core-i5-15/p-0816866-58547204266-cat.html#variant_id=0816866-58547204266">Lenovo Ideapad 305</a></li>
-<li><a href="/i5/apple-macbook-air-mmgf2-latest-version-2016-intel/p-0816866-1731861511-cat.html#variant_id=0816866-1731861511">Macbook Air MMGF2</a></li>
-<li><a href="/i5/dell-inspiron-3543-intel-core-i5-4gb-ram/p-0816866-42882346171-cat.html#variant_id=0816866-42882346171">Dell Inspiron 3543</a></li>
-<li><a href="/computers/laptops/hp/hp-15ac132-laptop-intel-core-i3-4-gb/p-0816866-14774632405-cat.html#variant_id=0816866-90670675337">HP 15AC132 Laptop</a></li>
-<li><a href="/computers/laptops/toshiba/toshiba-satellite-c55-c-laptop-intel-core-i3/p-0816866-94813630705-cat.html#variant_id=0816866-94813630705">Toshiba Satellite C55-C Laptop</a></li>
-<li><a href="/celeron/lenovo-ideapad-300-intel-celeron-2-gb-ram/p-0816866-15526480833-cat.html#variant_id=0816866-15526480833">Lenovo Ideapad 300</a></li>
-<li><a href="/computers/desktops/apple/apple-imac-21-inch-mk142-i5-1-6/p-0816866-68501027620-cat.html#variant_id=0816866-55067517398">Apple iMac M142</a></li>
+<li><a href="http://www.yallashop.com/i5/apple-macbook-air-mmgf2-latest-version-2016-intel/p-0816866-1731861511-cat.html#variant_id=0816866-1731861511">Macbook Air MMGF2</a></li>
+<li><a href="http://www.yallashop.com/i5/dell-inspiron-3543-intel-core-i5-4gb-ram/p-0816866-42882346171-cat.html#variant_id=0816866-42882346171">Dell Inspiron 3543</a></li>
+<li><a href="http://www.yallashop.com/i5/hp-15-ay-laptop-intel-core-i5-4/p-0816866-25205098416-cat.html#variant_id=0816866-25205098416">HP 15-AY Laptop</a></li>
+<li><a href="http://www.yallashop.com/computers/laptops/microsoft-surface-book-i7-13-5inch-256gb-8gb/p-0816866-20646410078-cat.html#variant_id=0816866-20646410078">Microsoft SurfaceBook i7 Laptop</a></li>
+<li><a href="http://www.yallashop.com/laptops/acer-switch10-mini-detachable-notebook-intel-atom-10/p-0816866-55094145812-cat.html#variant_id=0816866-55094145812">Acer Switch10</a></li>
+<li><a href="http://www.yallashop.com/computers/desktops/apple/apple-imac-21-inch-mk142-i5-1-6/p-0816866-68501027620-cat.html#variant_id=0816866-55067517398">Apple iMac M142</a></li>
 </ul>
 <a class="button" style="display: inline-block; margin-top: 5px;" href="/computers">view all</a></div>
 <div class="clearfix visible-lg" style="float: right; width: 610px; position: absolute; right: 0; top: 0;">
@@ -542,43 +550,44 @@ float:right;
 <div class="col-md-4 col-xs-6">
 <h6>brands</h6>
 <ul class="ui-sortable"><!-- max 10 items per ul-->
-<li><a href="/cameras/search?q=canon">Canon</a></li>
-<li><a href="/cameras/search?q=easycover">EasyCover</a></li>
-<li><a href="/cameras#/?make[]=gopro">Go Pro</a></li>
-<li><a href="/cameras/search?q=kenko">Kenko</a></li>
-<li><a href="/cameras/search?q=lenspen">Lenspen</a></li>
-<li><a href="/cameras/search?q=nikon">Nikon</a></li>
-<li><a href="/cameras/search?q=nissin">Nissin</a></li>
-<li><a href="/cameras/search?q=sony">Sony</a></li>
-<li><a href="/cameras/search?q=vanguard">Vanguard</a></li>
+<li><a href="http://www.yallashop.com/cameras/search?q=canon">Canon</a></li>
+<li><a href="http://www.yallashop.com/cameras/search?q=easycover">EasyCover</a></li>
+<li><a href="http://www.yallashop.com/cameras#/?make[]=gopro">Go Pro</a></li>
+<li><a href="http://www.yallashop.com/cameras/search?q=kenko">Kenko</a></li>
+<li><a href="http://www.yallashop.com/cameras/search?q=lenspen">Lenspen</a></li>
+<li><a href="http://www.yallashop.com/cameras/search?q=nikon">Nikon</a></li>
+<li><a href="http://www.yallashop.com/cameras/search?q=nissin">Nissin</a></li>
+<li><a href="http://www.yallashop.com/cameras/search?q=sony">Sony</a></li>
+<li><a href="http://www.yallashop.com/cameras/search?q=vanguard">Vanguard</a></li>
 </ul>
 <a class="button" style="display: inline-block; margin-top: 5px;" href="/cameras">view all</a></div>
 <div class="col-md-4 col-xs-6">
 <h6>categories</h6>
 <ul class="ui-sortable"><!-- max 10 items per ul-->
-<li><a href="/cameras-dslr-camera">DSLR Cameras</a></li>
-<li><a href="/cameras-dslr-bundles">DSLR Bundles</a></li>
-<li><a href="/cameras-compact-cameras">Compact Cameras</a></li>
-<li><a href="/cameras-action-cameras">Action Cameras</a></li>
-<li><a href="/cameras-polaroid-camera">Polaroid Cameras</a></li>
-<li><a href="/cameras-mirrorless-camera">Mirrorless Cameras</a></li>
-<li><a href="/cameras-camera-lenses">Camera Lenses</a></li>
-<li><a href="/cameras-camera-accessories">Camera Accessories</a></li>
+<li><a href="http://www.yallashop.com/cameras/dslr-camera">DSLR Cameras</a></li>
+<li><a href="http://www.yallashop.com/cameras/dslr-bundles">DSLR Bundles</a></li>
+<li><a href="http://www.yallashop.com/cameras/compact-cameras">Compact Cameras</a></li>
+<li><a href="http://www.yallashop.com/cameras/action-cameras">Action Cameras</a></li>
+<li><a href="http://www.yallashop.com/cameras/polaroid-camera">Polaroid Cameras</a></li>
+<li><a href="http://www.yallashop.com/cameras/mirrorless-camera">Mirrorless Cameras</a></li>
+<li><a href="http://www.yallashop.com/cameras/camcoders">Camcorders</a></li>
+<li><a href="http://www.yallashop.com/cameras/camera-lenses">Camera Lenses</a></li>
+<li><a href="http://www.yallashop.com/cameras/accessories">Camera Accessories</a></li>
 </ul>
 <a class="button" style="display: inline-block; margin-top: 5px;" href="/cameras">view all</a></div>
 <div class="col-md-4 col-xs-6">
 <h6>top sellers</h6>
 <ul class="ui-sortable">
-<li><a href="/cameras/dslr-camera/canon-eos-1200d-18-55mm-lens/p-0816866-62295915558-cat.html#variant_id=0816866-60894140010">Canon 1200D</a></li>
-<li><a href="/cameras/dslr-camera/canon-eos-6d-body-20-2-mp/p-0816866-89053987903-cat.html#variant_id=0816866-36098600619">Canon 6D</a></li>
-<li><a href="/cameras/dslr-camera/canon-eos-5ds/p-0816866-60125196790-cat.html#variant_id=0816866-60125196790">Canon 5DS</a></li>
-<li><a href="/cameras/dslr-bundles#/?make[]=nikon&amp;_xhr=1">Nikon DSLR Camera Bundles</a></li>
-<li><a href="/cameras/dslr-camera/nikon-d3200-18-55mm-lens/p-0816866-89502902338-cat.html#variant_id=0816866-5797697159">Nikon D3200</a></li>
-<li><a href="/cameras/action-cameras/gopro-hero4-12mp-1080p-video-wifi-bluetooth-black/p-0816866-508731662-cat.html#variant_id=0816866-17812813077">Go Pro Hero4 </a></li>
-<li><a href="/cameras/dslr-camera/nikon-d5500-18-55mm-lens/p-0816866-37026821217-cat.html#variant_id=0816866-14862950111">Nikon D5200</a></li>
-<li><a href="/cameras/dslr-bundles#/?make[]=canon&amp;_xhr=1">Canon DSLR Camera Bundles</a></li>
-<li><a href="/cameras/compact-cameras/canon-powershot-sx530-hs-digital-camera/p-0816866-16355639604-cat.html#variant_id=0816866-56524304279">Canon PowerShot SX710</a></li>
-<li><a href="/cameras/compact-cameras/sony-cyber-shot-rx100-ii-20-2-megapixel/p-0816866-92330202981-cat.html#variant_id=0816866-62556039487">Sony RX100</a></li>
+<li><a href="http://www.yallashop.com/cameras/dslr-camera/canon-eos-1200d-18-55mm-lens/p-0816866-62295915558-cat.html#variant_id=0816866-60894140010">Canon 1200D</a></li>
+<li><a href="http://www.yallashop.com/cameras/dslr-camera/canon-eos-6d-body-20-2-mp/p-0816866-89053987903-cat.html#variant_id=0816866-36098600619">Canon 6D</a></li>
+<li><a href="http://www.yallashop.com/cameras/dslr-camera/canon-eos-5ds/p-0816866-60125196790-cat.html#variant_id=0816866-60125196790">Canon 5DS</a></li>
+<li><a href="http://www.yallashop.com/cameras/dslr-bundles#/?make[]=nikon&amp;_xhr=1">Nikon DSLR Camera Bundles</a></li>
+<li><a href="http://www.yallashop.com/cameras/dslr-camera/nikon-d3200-18-55mm-lens/p-0816866-89502902338-cat.html#variant_id=0816866-5797697159">Nikon D3200</a></li>
+<li><a href="http://www.yallashop.com/cameras/action-cameras/gopro-hero4-12mp-1080p-video-wifi-bluetooth-black/p-0816866-508731662-cat.html#variant_id=0816866-17812813077">Go Pro Hero4 </a></li>
+<li><a href="http://www.yallashop.com/cameras/dslr-camera/nikon-d5500-18-55mm-lens/p-0816866-37026821217-cat.html#variant_id=0816866-14862950111">Nikon D5200</a></li>
+<li><a href="http://www.yallashop.com/cameras/dslr-bundles#/?make[]=canon&amp;_xhr=1">Canon DSLR Camera Bundles</a></li>
+<li><a href="http://www.yallashop.com/cameras/compact-cameras/canon-powershot-sx530-hs-digital-camera/p-0816866-16355639604-cat.html#variant_id=0816866-56524304279">Canon PowerShot SX710</a></li>
+<li><a href="http://www.yallashop.com/cameras/compact-cameras/sony-cyber-shot-rx100-ii-20-2-megapixel/p-0816866-92330202981-cat.html#variant_id=0816866-62556039487">Sony RX100</a></li>
 </ul>
 <a class="button" style="display: inline-block; margin-top: 5px;" href="/cameras">view all</a></div>
 <div class="clearfix visible-lg" style="width: 610px; position: absolute; right: 0; top: 0;">
@@ -609,46 +618,46 @@ float:right;
 <div class="col-md-4 col-xs-6">
 <h6>brands</h6>
 <ul class="ui-sortable">
-<li><a href="/home/search?q=bose">Bose</a></li>
-<li><a href="/home/search?q=beats">Beats</a></li>
-<li><a href="/tvs-avs#/?make[]=harmankardon">Harman Kardon</a></li>
-<li><a href="/tvs-audio-and-videos/search?q=hisense">Hisense</a></li>
-<li><a href="/tvs-audio-and-videos/search?q=jabra">Jabra</a></li>
-<li><a href="/tvs-audio-and-videos/search?q=lg">LG</a></li>
-<li><a href="/tvs-audio-and-videos/search?q=yamaha">Yamaha</a></li>
-<li><a href="/tvs-audio-and-videos/search?q=samsung">Samsung</a></li>
-<li><a href="/tvs-audio-and-videos/search?q=sharp">Sharp</a></li>
-<li><a href="/tvs-audio-and-videos/search?q=sony">Sony</a></li>
+<li><a href="http://www.yallashop.com/home/search?q=bose">Bose</a></li>
+<li><a href="http://www.yallashop.com/home/search?q=beats">Beats</a></li>
+<li><a href="http://www.yallashop.com/tvs-avs#/?make[]=harmankardon">Harman Kardon</a></li>
+<li><a href="http://www.yallashop.com/tvs-avs/search?q=hisense">Hisense</a></li>
+<li><a href="http://www.yallashop.com/tvs-avs/search?q=jabra">Jabra</a></li>
+<li><a href="http://www.yallashop.com/tvs-avs/search?q=lg">LG</a></li>
+<li><a href="http://www.yallashop.com/tvs-avs/search?q=yamaha">Yamaha</a></li>
+<li><a href="http://www.yallashop.com/tvs-avs/search?q=samsung">Samsung</a></li>
+<li><a href="http://www.yallashop.com/tvs-avs/search?q=sharp">Sharp</a></li>
+<li><a href="http://www.yallashop.com/tvs-avs/search?q=sony">Sony</a></li>
 </ul>
 <a class="button" style="display: inline-block; margin-top: 5px;" href="/tvs-avs">view all</a></div>
 <div class="col-md-4 col-xs-6">
 <h6>categories</h6>
 <ul class="ui-sortable">
-<li><a href="/tvs-audio-and-videos-televisions">Televisions</a></li>
-<li><a href="/tvs-audio-and-videos-home-theatre-systems">Home Theatre Systems</a></li>
-<li><a href="/tvs-audio-and-videos-receivers-amplifiers">Receivers &amp; Amplifiers</a></li>
-<li><a href="/tvs-audio-and-videos-blu-ray-dvd-and-cd-players">Blu-ray, DVD &amp; CD Players</a></li>
-<li><a href="/tvs-audio-and-videos-speakers">Speakers</a></li>
-<li><a href="/tvs-audio-and-videos-home-audio">Home Audio</a></li>
-<li><a href="/gadgets-ipods-media-players">iPods &amp; Media Players</a></li>
-<li><a href="/games">Video Games<br></a></li>
-<li><a href="/games-gaming-consoles">Gaming Consoles<br></a></li>
-<li><a href="/gadgets-headphones">Headphones</a></li>
+<li><a href="http://www.yallashop.com/tvs-avs/televisions">Televisions</a></li>
+<li><a href="http://www.yallashop.com/tvs-avs/home-theatre-systems">Home Theatre Systems</a></li>
+<li><a href="http://www.yallashop.com/tvs-avs/receivers-amplifiers">Receivers &amp; Amplifiers</a></li>
+<li><a href="http://www.yallashop.com/tvs-avs/blu-ray-dvd-cd-players">Blu-ray, DVD &amp; CD Players</a></li>
+<li><a href="http://www.yallashop.com/tvs-avs/speakers">Speakers</a></li>
+<li><a href="http://www.yallashop.com/tvs-avs/home-audio">Home Audio</a></li>
+<li><a href="http://www.yallashop.com/gadgets/ipods-media-players">iPods &amp; Media Players</a></li>
+<li><a href="http://www.yallashop.com/games">Video Games<br></a></li>
+<li><a href="http://www.yallashop.com/gaming-consoles">Gaming Consoles<br></a></li>
+<li><a href="http://www.yallashop.com/gadgets/headphones">Headphones</a></li>
 </ul>
 <a class="button" style="display: inline-block; margin-top: 5px;" href="/tvs-avs">view all</a></div>
 <div class="col-md-4 col-xs-6">
 <h6>top sellers</h6>
 <ul class="ui-sortable">
-<li><a href="/tvs-avs/televisions#/?make[]=samsung&amp;br_nodes[]=ho68477486_tvsa_tele_55in&amp;sort_type=price_in_asc&amp;_xhr=1">Samsung 55" TVs</a></li>
-<li><a href="/tvs-avs/televisions#/?make[]=lg&amp;br_nodes[]=ho68477486_tvsa_tele_55in&amp;sort_type=price_in_asc&amp;_xhr=1">LG 55" TVs</a></li>
-<li><a href="/tvs-avs/televisions#/?br_nodes[]=ho68477486_tvsa_tele_70in&amp;br_nodes[]=ho68477486_tvsa_tele_65in&amp;br_nodes[]=ho68477486_tvsa_tele_60in&amp;br_nodes[]=ho68477486_tvsa_tele_80in&amp;br_nodes[]=ho68477486_tvsa_tele_90in&amp;make[]=sharp&amp;sort_type=price_in_asc&amp;_xhr=1">Sharp Large Screen TVs</a></li>
-<li><a href="/tvs-avs/receivers-amplifiers#/?make[]=yamaha&amp;_xhr=1">Yamaha Receivers &amp; Amplifiers</a></li>
-<li><a href="/tvs-avs/home-theatres#/?sort_type=price_in_asc&amp;_xhr=1">Affordable Home Theater Systems</a></li>
-<li><a href="/tvs-avs/televisions#/?br_nodes[]=ho68477486_tvsa_tele_32in&amp;sort_type=price_in_asc&amp;_xhr=1">Popular 32" TVs</a></li>
-<li><a href="/tvs-avs/televisions#/?br_nodes[]=ho68477486_tvsa_tele_40in&amp;sort_type=price_in_asc&amp;_xhr=1">Hot Selling 40" TVs</a></li>
-<li><a href="/gadgets/bluetooth-speakers">Wireless Speakers</a></li>
+<li><a href="http://www.yallashop.com/tvs-avs/televisions#/?make[]=samsung&amp;br_nodes[]=ho68477486_tvsa_tele_55in&amp;sort_type=price_in_asc&amp;_xhr=1">Samsung 55" TVs</a></li>
+<li><a href="http://www.yallashop.com/tvs-avs/televisions#/?make[]=lg&amp;br_nodes[]=ho68477486_tvsa_tele_55in&amp;sort_type=price_in_asc&amp;_xhr=1">LG 55" TVs</a></li>
+<li><a href="http://www.yallashop.com/tvs-avs/televisions#/?br_nodes[]=ho68477486_tvsa_tele_70in&amp;br_nodes[]=ho68477486_tvsa_tele_65in&amp;br_nodes[]=ho68477486_tvsa_tele_60in&amp;br_nodes[]=ho68477486_tvsa_tele_80in&amp;br_nodes[]=ho68477486_tvsa_tele_90in&amp;make[]=sharp&amp;sort_type=price_in_asc&amp;_xhr=1">Sharp Large Screen TVs</a></li>
+<li><a href="http://www.yallashop.com/tvs-avs/receivers-amplifiers#/?make[]=yamaha&amp;_xhr=1">Yamaha Receivers &amp; Amplifiers</a></li>
+<li><a href="http://www.yallashop.com/tvs-avs/home-theatre-systems#/?sort_type=price_in_asc&amp;_xhr=1">Affordable Home Theater Systems</a></li>
+<li><a href="http://www.yallashop.com/tvs-avs/televisions#/?br_nodes[]=ho68477486_tvsa_tele_32in&amp;sort_type=price_in_asc&amp;_xhr=1">Popular 32" TVs</a></li>
+<li><a href="http://www.yallashop.com/tvs-avs/televisions#/?br_nodes[]=ho68477486_tvsa_tele_40in&amp;sort_type=price_in_asc&amp;_xhr=1">Hot Selling 40" TVs</a></li>
+<li><a href="http://www.yallashop.com/gadgets/bluetooth-speakers">Wireless Speakers</a></li>
 <li><a href="/gadgets/headphones#/?make[]=sony&amp;sort_type=price_in_asc&amp;_xhr=1">Sony Headphones</a></li>
-<li><a href="/tvs-avs/search?q=curved">Curved TVs</a></li>
+<li><a href="http://www.yallashop.com/tvs-avs/search?q=curved">Curved TVs</a></li>
 </ul>
 <a class="button" style="display: inline-block; margin-top: 5px;" href="/tvs-avs">view all</a></div>
 <div class="clearfix visible-lg" style="width: 610px; position: absolute; right: 0; top: 0;">
@@ -679,46 +688,46 @@ float:right;
 <div class="col-md-4 col-xs-6">
 <h6>brands</h6>
 <ul class="ui-sortable">
-<li><a href="/gadgets/search?q=ambest">Ambest</a></li>
-<li><a href="/gadgets/search?q=apple">Apple</a></li>
-<li><a href="/gadgets/search?q=beats">Beats</a></li>
-<li><a href="/gadgets/search?q=bose">Bose</a></li>
-<li><a href="/gadgets/search?q=fitbit">FitBit</a></li>
-<li><a href="/gadgets/search?q=google">Google</a></li>
-<li><a href="/gadgets#/?make[]=harmankardon">Harman Kardon</a></li>
-<li><a href="/gadgets/search?q=ihome">iHome</a></li>
-<li><a href="/gadgets#/?make[]=jbl">JBL</a></li>
-<li><a href="/gadgets#/?make[]=skullcandy">Skullcandy</a></li>
+<li><a href="http://www.yallashop.com/gadgets/search?q=ambest">Ambest</a></li>
+<li><a href="http://www.yallashop.com/gadgets/search?q=apple">Apple</a></li>
+<li><a href="http://www.yallashop.com/gadgets/search?q=beats">Beats</a></li>
+<li><a href="http://www.yallashop.com/gadgets/search?q=bose">Bose</a></li>
+<li><a href="http://www.yallashop.com/gadgets/search?q=fitbit">FitBit</a></li>
+<li><a href="http://www.yallashop.com/gadgets/search?q=google">Google</a></li>
+<li><a href="http://www.yallashop.com/gadgets#/?make[]=harmankardon">Harman Kardon</a></li>
+<li><a href="http://www.yallashop.com/gadgets/search?q=ihome">iHome</a></li>
+<li><a href="http://www.yallashop.com/gadgets#/?make[]=jbl">JBL</a></li>
+<li><a href="http://www.yallashop.com/gadgets#/?make[]=skullcandy">Skullcandy</a></li>
 </ul>
 <a class="button" style="display: inline-block; margin-top: 5px;" href="/gadgets">view all</a></div>
 <div class="col-md-4 col-xs-6">
 <h6>categories</h6>
 <ul class="ui-sortable">
-<li><a href="/gadgets-car-audio">Car Audio</a></li>
-<li><a href="/gadgets-bluetooth-speaker">Bluetooth Speakers</a></li>
-<li><a href="/gadgets-drones">Drones</a></li>
-<li><a href="/gadgets-health-and-fitness">Health &amp; Fitness</a></li>
-<li><a href="/gadgets-media-gateways">Media Gateways</a></li>
-<li><a href="/gadgets-security-and-surveillance-systems">Security &amp; Surveillance Systems</a></li>
-<li><a href="/gadgets-smartwatches">Smart Watches</a></li>
-<li><a href="/gadgets-telephones">Telephones</a></li>
-<li><a href="/gadgets-luggage">Luggage</a></li>
-<li><a href="/gadgets-camping-and-outdoor-equipment">Camping &amp; Outdoor Gear</a></li>
+<li><a href="http://www.yallashop.com/gadgets/car-audio">Car Audio</a></li>
+<li><a href="http://www.yallashop.com/gadgets/bluetooth-speakers">Bluetooth Speakers</a></li>
+<li><a href="http://www.yallashop.com/gadgets/drones">Drones</a></li>
+<li><a href="http://www.yallashop.com/gadgets-health-and-fitness">Health &amp; Fitness</a></li>
+<li><a href="http://www.yallashop.com/gadgets/media-gateways">Media Gateways</a></li>
+<li><a href="http://www.yallashop.com/gadgets/security-and-surveillance-systems">Security &amp; Surveillance Systems</a></li>
+<li><a href="http://www.yallashop.com/gadgets/smartwatches">Smart Watches</a></li>
+<li><a href="http://www.yallashop.com/gadgets/telephones">Telephones</a></li>
+<li><a href="http://www.yallashop.com/travel-luggage">Luggage</a></li>
+<li><a href="http://www.yallashop.com/gadgets/camping-and-outdoor-equipment">Camping &amp; Outdoor Gear</a></li>
 </ul>
 <a class="button" style="display: inline-block; margin-top: 5px;" href="/gadgets">view all</a></div>
 <div class="col-md-4 col-xs-6">
 <h6>top sellers</h6>
 <ul class="ui-sortable">
-<li><a href="/gadgets/media-gateways/google-chromecast-2-2015-streaming-media-player/p-0816866-27819608770-cat.html#variant_id=0816866-1573854093">Google ChromeCast 2</a></li>
-<li><a href="/gadgets/smartwatches#/?make[]=apple&amp;sort_type=price_in_asc&amp;_xhr=1">Apple Watches</a></li>
-<li><a href="/travel-luggage#/?make[]=vangather&amp;_xhr=1">Vangather Hard Luggage</a></li>
-<li><a href="/gadgets/telephones#/?make[]=panasonic&amp;_xhr=1">Panasonic Telephones</a></li>
-<li><a href="/gadgets/virtual-reality-headsets">Virtual Reality Headsets</a></li>
-<li><a href="/gadgets/self-balancing-electric-scooters">HoverBoard</a></li>
-<li><a href="/gaming-consoles#/?br_nodes[]=ho68477486_game_ga38035476_sony&amp;_xhr=1">PlayStation 4 Bundles</a></li>
-<li><a href="/gadgets-binoculars-and-telescopes#/?make[]=steiner&amp;_xhr=1">Steiner Binoculars</a></li>
-<li><a href="/gadgets/security-and-surveillance-systems#/?make[]=foscam&amp;_xhr=1">Foscam Surveillance Systems</a></li>
-<li><a href="/gadgets-health-and-fitness#/?make[]=fitbit&amp;_xhr=1">Fitbit Health &amp; Fitness</a></li>
+<li><a href="http://www.yallashop.com/gadgets/media-gateways/google-chromecast-2-2015-streaming-media-player/p-0816866-27819608770-cat.html#variant_id=0816866-1573854093">Google ChromeCast 2</a></li>
+<li><a href="http://www.yallashop.com/gadgets/smartwatches#/?make[]=apple&amp;sort_type=price_in_asc&amp;_xhr=1">Apple Watches</a></li>
+<li><a href="http://www.yallashop.com/travel-luggage#/?make[]=vangather&amp;_xhr=1">Vangather Hard Luggage</a></li>
+<li><a href="http://www.yallashop.com/gadgets/telephones#/?make[]=panasonic&amp;_xhr=1">Panasonic Telephones</a></li>
+<li><a href="http://www.yallashop.com/gadgets/virtual-reality-headsets">Virtual Reality Headsets</a></li>
+<li><a href="http://www.yallashop.com/gadgets/self-balancing-electric-scooters">HoverBoard</a></li>
+<li><a href="http://www.yallashop.com/gaming-consoles#/?br_nodes[]=ho68477486_game_ga38035476_sony&amp;_xhr=1">PlayStation 4 Bundles</a></li>
+<li><a href="http://www.yallashop.com/gadgets-binoculars-and-telescopes#/?make[]=steiner&amp;_xhr=1">Steiner Binoculars</a></li>
+<li><a href="http://www.yallashop.com/gadgets/security-and-surveillance-systems#/?make[]=foscam&amp;_xhr=1">Foscam Surveillance Systems</a></li>
+<li><a href="http://www.yallashop.com/gadgets-health-and-fitness#/?make[]=fitbit&amp;_xhr=1">Fitbit Health &amp; Fitness</a></li>
 </ul>
 <a class="button" style="display: inline-block; margin-top: 5px;" href="/gadgets">view all</a></div>
 <div class="clearfix visible-lg" style="width: 610px; position: absolute; right: 0; top: 0;">
@@ -749,39 +758,40 @@ float:right;
 <div class="col-md-4 col-xs-6">
 <h6>brands</h6>
 <ul class="ui-sortable">
-<li><a href="/home-appliances#/?make[]=blackanddecker">Black &amp; Decker</a></li>
-<li><a href="/home-appliances/search?q=braun">Braun</a></li>
-<li><a href="/home-appliances/search?q=geepas">Geepas</a></li>
-<li><a href="/home-appliances/search?q=LG">LG</a></li>
-<li><a href="/home-appliances/search?q=Moulinex">Moulinex</a></li>
-<li><a href="/home-appliances/search?q=panasonic">Panasonic</a></li>
-<li><a href="/home-appliances/search?q=Preethi">Preethi</a></li>
-<li><a href="/home-appliances/search?q=samsung">Samsung</a></li>
-<li><a href="/home-appliances/search?q=sanford">Sanford</a></li>
-<li><a href="/home-appliances/search?q=tefal">Tefal</a></li>
+<li><a href="http://www.yallashop.com/home-appliances/search?q=black%20and%20Decker">Black &amp; Decker</a></li>
+<li><a href="http://www.yallashop.com/home-appliances/search?q=braun">Braun</a></li>
+<li><a href="http://www.yallashop.com/home-appliances/search?q=geepas">Geepas</a></li>
+<li><a href="http://www.yallashop.com/home-appliances/search?q=LG">LG</a></li>
+<li><a href="http://www.yallashop.com/home-appliances/search?q=Moulinex">Moulinex</a></li>
+<li><a href="http://www.yallashop.com/home-appliances/search?q=panasonic">Panasonic</a></li>
+<li><a href="http://www.yallashop.com/home-appliances/search?q=Preethi">Preethi</a></li>
+<li><a href="http://www.yallashop.com/home-appliances/search?q=samsung">Samsung</a></li>
+<li><a href="http://www.yallashop.com/home-appliances/search?q=sanford">Sanford</a></li>
+<li><a href="http://www.yallashop.com/home-appliances/search?q=tefal">Tefal</a></li>
 </ul>
 <a class="button" style="display: inline-block; margin-top: 5px;" href="/home-appliances">view all</a></div>
 <div class="col-md-4 col-xs-6">
 <h6>categories</h6>
 <ul class="ui-sortable">
-<li><a href="/home-appliances-irons">Irons</a></li>
-<li><a href="/home-appliances-kitchen-appliances">Kitchen Appliances</a></li>
-<li><a href="/home-appliances-microwave-ovens">Microwave Ovens</a></li>
-<li><a href="/home-appliances-refrigerators-freezers">Refrigerators &amp; Freezers</a></li>
-<li><a href="/home-appliances-vacuum-cleaners">Vacuum Cleaners</a></li>
-<li><a href="/home-appliances-washing-machine">Washing Machines</a></li>
+<li><a href="http://www.yallashop.com/home-appliances-irons">Irons</a></li>
+<li><a href="http://www.yallashop.com/home-appliances-kitchen-appliances">Kitchen Appliances</a></li>
+<li><a href="http://www.yallashop.com/home-appliances/personal-care">Personal Care</a></li>
+<li><a href="http://www.yallashop.com/home-appliances/microwave-ovens">Microwave Ovens</a></li>
+<li><a href="http://www.yallashop.com/home-appliances-refrigerators-freezers">Refrigerators &amp; Freezers</a></li>
+<li><a href="http://www.yallashop.com/home-appliances-vacuum-cleaners">Vacuum Cleaners</a></li>
+<li><a href="http://www.yallashop.com/home-appliances-washing-machine">Washing Machines</a></li>
 </ul>
 <a class="button" style="display: inline-block; margin-top: 5px;" href="/home-appliances">view all</a></div>
 <div class="col-md-4 col-xs-6">
 <h6>top sellers</h6>
 <ul class="ui-sortable">
-<li><a href="/home-appliances#/?br_nodes[]=ho68477486_home_kitc&amp;make[]=panasonic&amp;_xhr=1">Panasonic Kitchen Appliances</a></li>
-<li><a href="/home-appliances#/?br_nodes[]=ho68477486_home_iron&amp;make[]=panasonic&amp;_xhr=1">Panasonic Steam Irons</a></li>
-<li><a href="/home-appliances#/?make[]=lg&amp;_xhr=1">LG Microwave</a></li>
-<li><a href="/home-appliances#/?br_nodes[]=ho68477486_home_vacu&amp;make[]=panasonic&amp;_xhr=1">Panasonic Vaccuum Cleaners</a></li>
-<li><a href="/home-appliances#/?make[]=geepas">Geepas Appliances</a></li>
-<li><a href="/home-appliances#/?make[]=moulinex">Moulinex Blenders</a></li>
-<li><a href="/home-appliances#/?make[]=preethi">Preethi Mixer Grinder</a></li>
+<li><a href="http://www.yallashop.com/home-appliances#/?br_nodes[]=ho68477486_home_kitc&amp;make[]=panasonic&amp;_xhr=1">Panasonic Kitchen Appliances</a></li>
+<li><a href="http://www.yallashop.com/home-appliances#/?br_nodes[]=ho68477486_home_iron&amp;make[]=panasonic&amp;_xhr=1">Panasonic Steam Irons</a></li>
+<li><a href="http://www.yallashop.com/home-appliances#/?make[]=lg&amp;_xhr=1">LG Microwave</a></li>
+<li><a href="http://www.yallashop.com/home-appliances#/?br_nodes[]=ho68477486_home_vacu&amp;make[]=panasonic&amp;_xhr=1">Panasonic Vaccuum Cleaners</a></li>
+<li><a href="http://www.yallashop.com/home-appliances#/?make[]=geepas">Geepas Appliances</a></li>
+<li><a href="http://www.yallashop.com/home-appliances#/?make[]=moulinex">Moulinex Blenders</a></li>
+<li><a href="http://www.yallashop.com/home-appliances#/?make[]=preethi">Preethi Mixer Grinder</a></li>
 </ul>
 <a class="button" style="display: inline-block; margin-top: 5px;" href="/home-appliances">view all</a></div>
 <div class="clearfix visible-lg" style="width: 610px; position: absolute; right: 0; top: 0;">
@@ -934,7 +944,7 @@ $(document).bind('logged-in', function(event, user) {
 <p>YallaShop.com is committed to your right to privacy and we recognize the importance of privacy to our customers and website visitors. By reading this statement you consent to the processing of your data in accordance with this Privacy Policy. We will keep this policy under revie<a href="/privacy_policy">w and any c</a>hanges made from time to time will be posted on this page. This Privacy Policy sets out details of the personal information we collect about you and the ways in which we may use that information.</p>
 <p>&nbsp;</p>
 <p><span style="font-size: medium;"><strong>Personal information</strong></span></p>
-<p>YallaShop.comendeavors to collect and use your personal information only with your knowledge and consent. We may gather your information from a purchase through your customer enquiries via email or through our customer services team, when you request product information or, when you register online or enter any promotions or competitions through any channel. For web visitors, a user must first complete a registration form. During registration, the user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. YallaShop.com does not share any personal or private customer information submitted online with third parties. Demographic information may also be requested (such as region or PO Box). This information will be stored, analyzed and used to assist Yallashop.com to improve our services.</p>
+<p>YallaShop.com endeavors to collect and use your personal information only with your knowledge and consent. We may gather your information from a purchase through your customer enquiries via email or through our customer services team, when you request product information or, when you register online or enter any promotions or competitions through any channel. For web visitors, a user must first complete a registration form. During registration, the user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. YallaShop.com does not share any personal or private customer information submitted online with third parties. Demographic information may also be requested (such as region or PO Box). This information will be stored, analyzed and used to assist Yallashop.com to improve our services.</p>
 <p>The information you provide on the YallaShop.com website and/or other communication channels will be held only by YallaShop.com and its duly authorized agents. Your information will not be given or sold to any outside organization for marketing purposes without your consent.</p>
 <p>&nbsp;</p>
 <p><span style="font-size: medium;"><strong>Data Collection</strong></span></p>
@@ -1258,17 +1268,17 @@ window.dataLayer.push({'event' : 'subscription complete', 'subscription source' 
 <div class="col-md-2 col-xs-6">
 <h3>Shop Electronics</h3>
 <ul>
-<li><a href="/mobiles">Mobile Phones</a></li>
-<li><a href="/tablets">Tablets</a></li>
-<li><a href="/computers">Computers</a></li>
-<li><a href="/cameras">Cameras</a></li>
-<li><a href="/tvs-audio-and-videos">Televisions</a></li>
-<li><a href="/tvs-audio-and-videos-home-theatre-systems">Home Theatres</a></li>
-<li><a href="/gadgets">Gadgets</a></li>
-<li><a href="/games">Games</a></li>
-<li><a href="/gadgets-smartwatches">Smart Watches</a></li>
-<li><a href="/gadgets-drones">Drones</a></li>
-<li><a href="/home-appliances">Home Appliances</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones">Mobile Phones</a></li>
+<li><a href="http://www.yallashop.com/tablets">Tablets</a></li>
+<li><a href="http://www.yallashop.com/computers">Computers</a></li>
+<li><a href="http://www.yallashop.com/cameras">Cameras</a></li>
+<li><a href="http://www.yallashop.com/tvs-avs">Televisions</a></li>
+<li><a href="http://www.yallashop.com/tvs-avs/home-theatre-systems">Home Theatres</a></li>
+<li><a href="http://www.yallashop.com/gadgets">Gadgets</a></li>
+<li><a href="http://www.yallashop.com/games">Games</a></li>
+<li><a href="http://www.yallashop.com/gadgets/smartwatches">Smart Watches</a></li>
+<li><a href="http://www.yallashop.com/gadgets/drones">Drones</a></li>
+<li><a href="http://www.yallashop.com/home-appliances">Home Appliances</a></li>
 </ul>
 </div>
 <div class="col-md-2 col-xs-6">
@@ -1292,9 +1302,9 @@ window.dataLayer.push({'event' : 'subscription complete', 'subscription source' 
 <div class="col-md-12 col-xs-6">
 <h3>Featured Products</h3>
 <ul>
-<li><a href="/mobile-phones/apple/apple-iphone-6s-with-facetime/p-0816866-70275270887-cat.html">iPhone 6S</a></li>
-<li><a href="/mobile-phones/samsung/samsung-galaxy-s7-edge/p-0816866-83985110810-cat.html">Galaxy S7 Edge</a></li>
-<li><a href="/mobile-phones/samsung/samsung-galaxy-note5-n920c-32gb/p-0816866-7167510733-cat.html">Galaxy Note 5</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones/apple/apple-iphone-7-p-0816866-2587669450-cat.html">iPhone 7</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones/apple/apple-iphone-6s-with-facetime-0816866-21493349246-cat">iPhone 6S</a></li>
+<li><a href="http://www.yallashop.com/mobile-phones/samsung/samsung-galaxy-s7-edge/p-0816866-83985110810-cat.html">Galaxy S7 Edge</a></li>
 </ul>
 </div>
 <div class="col-md-12 col-xs-6">
@@ -1304,6 +1314,7 @@ window.dataLayer.push({'event' : 'subscription complete', 'subscription source' 
 <li><a href="/payment-options">Payment Options</a></li>
 <li><a href="/warranty_policy">Warranty Policy</a></li>
 <li><a href="/returns_and_exchange_policy">Return &amp; Exchange Policy</a></li>
+<li><a href="/value-added-services">YallaShop XTRA</a></li>
 <li><a href="/careers">Careers</a></li>
 </ul>
 </div>
@@ -1380,7 +1391,9 @@ var google_remarketing_only = true;
 
     </div>
     
+    
   
+    
   
 
 
