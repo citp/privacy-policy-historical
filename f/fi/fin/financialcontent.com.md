@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialcontent.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315012408id_/http%3A//financialcontent.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialcontent.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124003005id_/http%3A//www.financialcontent.com/privacy.php) for the most accurate reproduction.*
 
 # Stock Quote Widgets, Web Services, and XML Data API's for websites
 
