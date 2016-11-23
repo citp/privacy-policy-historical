@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyeopening.info privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610192632id_/http%3A//www.eyeopening.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeopening.info privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123031626id_/http%3A//www.eyeopening.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Eye Opening Info | Eye Opening Info
 
