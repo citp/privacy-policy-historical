@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dragonnest.eu privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609055945id_/http%3A//www.dragonnest.eu/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragonnest.eu privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123174632id_/http%3A//www.dragonnest.eu/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Dragon Nest Europe: Free-to-Play Online Action RPG
 
