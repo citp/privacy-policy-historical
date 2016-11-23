@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nysun.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607163433id_/http%3A//www.nysun.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysun.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123174946id_/http%3A//www.nysun.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - The New York Sun
 
@@ -70,5 +70,3 @@ We may amend our privacy policy, but if we decide to change our privacy policy, 
 **Contacting Us**
 
 If you have any questions about this privacy policy, the practices of this Site, or your dealings with this Site, you can contact us at: [admin@nysun.net](mailto:admin@nysun.net).
-
-Back to top of page
