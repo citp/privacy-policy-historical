@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tspgecet.org privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503044511id_/http%3A//tspgecet.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tspgecet.org privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123090522id_/http%3A//tspgecet.org/privacy.aspx) for the most accurate reproduction.*
 
 # TSPGECET-2016
 
