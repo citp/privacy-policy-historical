@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shadersmods.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315222003id_/http%3A//shadersmods.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadersmods.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123020141id_/http%3A//shadersmods.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ShadersMods
+# Privacy Policy | Shaders Mods
 
 This privacy policy sets out how shadersmods.com uses and protects any information that you give shadersmods.com when you use this website.
 
