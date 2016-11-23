@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thefedoralounge.com privacy policy that was archived on 2016-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160620104908id_/http%3A//www.thefedoralounge.com/threads/rules-and-privacy-and-copyright-policies.83853/%23post-2005260) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thefedoralounge.com privacy policy that was archived on 2016-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161123014854id_/http%3A//www.thefedoralounge.com/threads/rules-and-privacy-and-copyright-policies.83853/%23post-2005260) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html id="XenForo" lang="en-US" dir="LTR" class="Public NoJs GalleryLazyLoader XenBase LoggedOut NoSidebar RightSidebar  Responsive" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
@@ -20,8 +20,8 @@
 	
 	
 	<noscript><style>.JsOnly, .jsOnly { display: none !important; }</style></noscript>
-	<link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=6&amp;dir=LTR&amp;d=1466411871">
-	<link rel="stylesheet" href="css.php?css=bb_code,cta_featuredthreads,facebook,login_bar,message,message_user_info,share_page,siropu_ads_manager_ad_common,siropu_ads_manager_ad_type_code,thread_view,xb,xb_footer_layouts,xb_message,xb_offcanvas_menu,xb_scroll_buttons,xb_social_links,xb_top_bar,xb_welcome_bar,xengallery_tab_links&amp;style=6&amp;dir=LTR&amp;d=1466411871">
+	<link rel="stylesheet" href="css.php?css=xenforo,form,public&amp;style=6&amp;dir=LTR&amp;d=1479685750">
+	<link rel="stylesheet" href="css.php?css=bb_code,cta_featuredthreads,facebook,login_bar,message,message_user_info,share_page,siropu_ads_manager_ad_common,siropu_ads_manager_ad_type_code,thread_view,xb,xb_footer_layouts,xb_message,xb_offcanvas_menu,xb_scroll_buttons,xb_social_links,xb_top_bar,xb_welcome_bar,xengallery_tab_links&amp;style=6&amp;dir=LTR&amp;d=1479685750">
 
 
 	
@@ -30,10 +30,12 @@
 	
 	
 	
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
 	
 	
 	
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
+
 
 	
 	<script>
@@ -55,98 +57,6 @@ var samViewCountMethod = "view";
 </script>
 	<script src="js/Siropu/AM/display.js?_v=95"></script>
 
-
-
-	<!-- <script src="js/pixelexit/xenbase.js"></script> -->
-	<script>
- /**
- * Create the XenBase namespace
- * @package XenBase
- */
-var XenBase = {};
-
-!function($, window, document, _undefined)
-{
-	jQuery.extend(true,
-	{
-		/**
-		 * Sets a cookie.
-		 *
-		 * @param string cookie name (escaped)
-		 * @param mixed cookie value
-		 * @param string cookie expiry date
-		 *
-		 * @return mixed cookie value
-		 */
-		setXBCookie: function(name, value, expires)
-		{
-			console.log('Set cookie %s = %s', name, value);
-
-			document.cookie = XenBase._cookieXBConfig.prefix + name + '=' + encodeURIComponent(value)
-				+ (expires === undefined ? '' : ';expires=' + expires.toUTCString())
-				+ (XenBase._cookieXBConfig.path  ? ';path=' + XenBase._cookieXBConfig.path : '')
-				+ (XenBase._cookieXBConfig.domain ? ';domain=' + XenBase._cookieXBConfig.domain : '');
-
-			return value;
-		},
-
-		/**
-		 * Fetches the value of a named cookie.
-		 *
-		 * @param string Cookie name (escaped)
-		 *
-		 * @return string Cookie value
-		 */
-		getXBCookie: function(name)
-		{
-			var expr, cookie;
-
-			expr = new RegExp('(^| )' + XenBase._cookieXBConfig.prefix + name + '=([^;]+)(;|$)');
-			cookie = expr.exec(document.cookie);
-
-			if (cookie)
-			{
-				return decodeURIComponent(cookie[2]);
-			}
-			else
-			{
-				return null;
-			}
-		},
-
-		/**
-		 * Deletes a cookie.
-		 *
-		 * @param string Cookie name (escaped)
-		 *
-		 * @return null
-		 */
-		deleteXBCookie: function(name)
-		{
-			console.info('Delete cookie %s', name);
-
-			document.cookie = XenBase._cookieXBConfig.prefix + name + '='
-				+ (XenBase._cookieXBConfig.path  ? '; path=' + XenBase._cookieXBConfig.path : '')
-				+ (XenBase._cookieXBConfig.domain ? '; domain=' + XenBase._cookieXBConfig.domain : '')
-				+ '; expires=Thu, 01-Jan-70 00:00:01 GMT';
-
-			return null;
-		}
-	});
-		
-	$.extend(XenBase,
-	{
-		
-		/**
-		 * Configuration for cookies
-		 *
-		 * @var object
-		 */
-		_cookieXBConfig: { path: '/', domain: '', 'prefix': 'xb_'}
-	});
-}
-(jQuery, this, document)
-</script>
 
 
 <script type="text/javascript">
@@ -187,7 +97,7 @@ $(function () {
             if (target.length) {
                 $('html,body').animate({
                     scrollTop: target.offset().top - 90 //offsets for fixed header
-                }, 1000);
+                }, 1);
                 return false;
             }
         }
@@ -198,7 +108,7 @@ $(function () {
         if (target.length) {
             $('html,body').animate({
                 scrollTop: target.offset().top - 90 //offset height of header here too.
-            }, 1000);
+            }, 1);
             return false;
         }
     }
@@ -217,8 +127,6 @@ $(document).ready(function () {
 	$('.xbWelcomeBar').fadeIn('slow').delay(15000).fadeOut('slow');
 }); 
 </script>
-
-
 
 
 
@@ -333,43 +241,19 @@ top:auto;
 
 <script type="text/javascript">
   googletag.cmd.push(function() {
-    googletag.defineSlot('/122651154/Test_HomePage_728x90_ATF', [[970, 90], [728, 90], [320, 50], [468, 60]], 'div-gpt-ad-1461875545664-0').addService(googletag.pubads());
+    googletag.defineSlot('/122651154/Fedora_300_afterfirstpost', [300, 250], 'div-gpt-ad-1467766544284-0').addService(googletag.pubads());
+    googletag.defineSlot('/122651154/Fedora_300_ATF_Header', [300, 250], 'div-gpt-ad-1467766628561-0').addService(googletag.pubads());
+    googletag.defineSlot('/122651154/Fedora_300_Belowsticky', [300, 250], 'div-gpt-ad-1467766745080-0').addService(googletag.pubads());
+    googletag.defineSlot('/122651154/Fedora_300_BTF_Homepage', [300, 250], 'div-gpt-ad-1467766881080-0').addService(googletag.pubads());
+    googletag.defineSlot('/122651154/Fedora_728_Afterfirstpost', [728, 90], 'div-gpt-ad-1467767151636-0').addService(googletag.pubads());
+    googletag.defineSlot('/122651154/Fedora_728_ATF_Leaderboard', [728, 90], 'div-gpt-ad-1467767306263-0').addService(googletag.pubads());
+    googletag.defineSlot('/122651154/Fedora_728_Belowsticky', [728, 90], 'div-gpt-ad-1467767383419-0').addService(googletag.pubads());
+    googletag.defineSlot('/122651154/Fedora_728_BTF_Homepage', [728, 90], 'div-gpt-ad-1467767514891-0').addService(googletag.pubads());
     googletag.pubads().enableSingleRequest();
     googletag.enableServices();
   });
 </script>
 
-
-<script type="text/javascript">
-  googletag.cmd.push(function() {
-    googletag.defineSlot('/122651154/Lounge_Skyscraper_home', [[120, 600], [250, 250], [120, 240], [200, 200]], 'div-gpt-ad-1461876619500-0').addService(googletag.pubads());
-    googletag.pubads().enableSingleRequest();
-    googletag.enableServices();
-  });
-</script>
-
-
-<script type="text/javascript">
-  googletag.cmd.push(function() {
-    googletag.defineSlot('/122651154/Lounge_after_Suits', [[320, 50], [468, 60], [728, 90]], 'div-gpt-ad-1461877495116-0').addService(googletag.pubads());
-    googletag.pubads().enableSingleRequest();
-    googletag.enableServices();
-  });
-</script>
-<script type="text/javascript">
-  googletag.cmd.push(function() {
-    googletag.defineSlot('/122651154/Lounge_Below_Sticky', [[320, 50], [468, 60], [970, 90], [728, 90]], 'div-gpt-ad-1461877632232-0').addService(googletag.pubads());
-    googletag.pubads().enableSingleRequest();
-    googletag.enableServices();
-  });
-</script>
-<script type="text/javascript">
-  googletag.cmd.push(function() {
-    googletag.defineSlot('/122651154/lounge_after_first_post', [[320, 50], [728, 90], [468, 60], [970, 90]], 'div-gpt-ad-1461877741612-0').addService(googletag.pubads());
-    googletag.pubads().enableSingleRequest();
-    googletag.enableServices();
-  });
-</script>
 </head>
 
 <body class="node20 SelectQuotable">
@@ -379,7 +263,7 @@ top:auto;
 
 
 <div class="xbOffCanvas slideLeft publicTabs">
-	<ul>
+	<ul class="xbOffCanvasList">
 		
 		
 		<!-- home -->
@@ -389,7 +273,7 @@ top:auto;
 		
 		
 			
-				<li class="navTab ctaFt PopupClosed">
+				<li class="navTab ctaFt ">
 					<a href="http://www.thefedoralounge.com/" class="navLink">Home</a>
 				</li>
 			
@@ -399,7 +283,7 @@ top:auto;
 		
 		<!-- forums -->
 		
-			<li class="navTab forums selected Popup PopupControl PopupClosed">
+			<li class="navTab forums selected">
 				<a href="http://www.thefedoralounge.com/forums/" class="navLink">Forums</a>
 					<div class="xbOffCanvasSubMenu">
 					<ul>
@@ -419,7 +303,7 @@ top:auto;
 		
 		
 			
-			<li class="navTab xengallery  Popup PopupControl PopupClosed">
+			<li class="navTab xengallery ">
 				<a href="http://www.thefedoralounge.com/media/" class="navLink">Media</a>
 					<div class="xbOffCanvasSubMenu">
 						
@@ -439,7 +323,7 @@ top:auto;
 			
 		
 			
-			<li class="navTab resources  Popup PopupControl PopupClosed">
+			<li class="navTab resources ">
 				<a href="http://www.thefedoralounge.com/resources/" class="navLink">Resources</a>
 					<div class="xbOffCanvasSubMenu">
 						<ul class="secondaryContent blockLinksList">
@@ -459,7 +343,7 @@ top:auto;
 		
 		<!-- members -->
 		
-			<li class="navTab members  Popup PopupControl PopupClosed">
+			<li class="navTab members ">
 				<a href="http://www.thefedoralounge.com/members/" class="navLink">Members</a>
 					<div class="xbOffCanvasSubMenu">
 					<ul>
@@ -476,6 +360,8 @@ top:auto;
 						
 
 		<!-- extra tabs: end -->
+		
+
 		
 
 		<li class="navTab xbOffCanvasExtraLink">		
@@ -518,9 +404,11 @@ top:auto;
 <div class="xbTopBar">
 	<div class="pageWidth">
 		
+		
 			<ul class="xbLeftside">
 				<li>Welcome to The Fedora Lounge!</li>
 			</ul>
+		
 		
 		
 		<ul class="xbRightside">
@@ -536,8 +424,9 @@ top:auto;
 			
 			
 			<li class="mainTopLink"><label for="LoginControl"><a href="login/" class=" navLink">Log in or Sign up</a></label>
-		</li></ul>
-		
+			
+			
+		</li></ul>		
 	</div>
 </div>
 
@@ -570,12 +459,11 @@ top:auto;
 
 <ul class="samCodeUnit samAlignCenterAuto aboveTopBreadcrumb" data-pos="ad_above_top_breadcrumb">
 	
-		<li class="SamLink" data-id="4" data-cv="1" data-cc="1" data-ga="1">
-			<center>Advertisements</center>
-<!-- /122651154/Test_HomePage_728x90_ATF -->
-<div id="div-gpt-ad-1461875545664-0">
+		<li class="SamLink" data-id="15" data-cv="1" data-cc="1" data-ga="1">
+			<!-- /122651154/Fedora_728_ATF_Leaderboard -->
+<div id="div-gpt-ad-1467767306263-0" style="height:90px; width:728px;">
 <script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1461875545664-0'); });
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1467767306263-0'); });
 </script>
 </div>
 		</li>
@@ -761,6 +649,13 @@ Rules and Privacy and Copyright Policies
 		
 	</div>
 
+
+			
+			
+			
+
+	<div class="xbMessageHelper">
+	
 	
 
 <div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
@@ -789,11 +684,14 @@ Rules and Privacy and Copyright Policies
 	
 		<div class="extraUserInfo xbBoxedFA">
 			
-					
+				
+			
+				<div class="xbMainUserInfo">	
+				
 				
 					<dl class="pairsJustified xbMessages">
 						<dt><i class="fa fa-comments fa-fw Tooltip" title="Messages" data-offsetx="-6" data-offsety="0"></i></dt>
-						<dd><a href="search/member?user_id=1" class="concealed" rel="nofollow">3,536</a></dd>
+						<dd><a href="search/member?user_id=1" class="concealed" rel="nofollow">3,540</a></dd>
 					</dl>
 				
 				
@@ -802,17 +700,11 @@ Rules and Privacy and Copyright Policies
 
 				
 
-					<dl class="pairsJustified xbLikes">
-						<dt><i class="fa fa-thumbs-up fa-fw Tooltip" title="Likes Received" data-offsetx="-6" data-offsety="0"></i></dt>
-						<dd>44</dd>
-					</dl>
 				
 				
 				
-					<dl class="pairsJustified xbTrophyPoints">
-						<dt><i class="fa fa-trophy fa-fw Tooltip" title="Trophy Points" data-offsetx="-6" data-offsety="0"></i></dt>
-						<dd><a href="members/nathan-flowers.1/trophies" class="OverlayTrigger concealed">48</a></dd>
-					</dl>
+				
+				</div>
 				
 			
 				
@@ -828,26 +720,6 @@ Rules and Privacy and Copyright Policies
 						
 			
 			
-			
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-				
-			
-			
-			
 		</div>
 	
 		
@@ -857,15 +729,11 @@ Rules and Privacy and Copyright Policies
 </div>
 </div>
 
-	<div class="messageInfo primaryContent">
+	<div class="messageInfo primaryContent">		
 		
 		
 		
-		
-		
-		
-		
-		<div class="messageContent">		
+		<div class="messageContent">
 			<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
@@ -916,6 +784,8 @@ We use VigLink to monetize links and clicks. More information on how this is don
 	
 	
 	
+	</div>
+	
 	
 		
 				
@@ -954,6 +824,7 @@ We use VigLink to monetize links and clicks. More information on how this is don
 	
 	
 	
+	
 </li>
 
 
@@ -962,12 +833,11 @@ We use VigLink to monetize links and clicks. More information on how this is don
 
 <ul class="samCodeUnit samAlignCenterAuto samThreadPostContainerAfter" data-pos="sam_thread_post_container_after_1">
 	
-		<li class="SamLink" data-id="3" data-cv="1" data-cc="1">
-			<center>Advertisements</center>
-<!-- /122651154/lounge_after_first_post -->
-<div id="div-gpt-ad-1461877741612-0">
+		<li class="SamLink" data-id="14" data-cv="1" data-cc="1">
+			<!-- /122651154/Fedora_728_Afterfirstpost -->
+<div id="div-gpt-ad-1467767151636-0" style="height:90px; width:728px;">
 <script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1461877741612-0'); });
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1467767151636-0'); });
 </script>
 </div>
 		</li>
@@ -997,6 +867,13 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1461877741612-0');
 		
 	</div>
 
+
+			
+			
+			
+
+	<div class="xbMessageHelper">
+	
 	
 
 <div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
@@ -1025,11 +902,14 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1461877741612-0');
 	
 		<div class="extraUserInfo xbBoxedFA">
 			
-					
+				
+			
+				<div class="xbMainUserInfo">	
+				
 				
 					<dl class="pairsJustified xbMessages">
 						<dt><i class="fa fa-comments fa-fw Tooltip" title="Messages" data-offsetx="-6" data-offsety="0"></i></dt>
-						<dd><a href="search/member?user_id=1" class="concealed" rel="nofollow">3,536</a></dd>
+						<dd><a href="search/member?user_id=1" class="concealed" rel="nofollow">3,540</a></dd>
 					</dl>
 				
 				
@@ -1038,17 +918,11 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1461877741612-0');
 
 				
 
-					<dl class="pairsJustified xbLikes">
-						<dt><i class="fa fa-thumbs-up fa-fw Tooltip" title="Likes Received" data-offsetx="-6" data-offsety="0"></i></dt>
-						<dd>44</dd>
-					</dl>
 				
 				
 				
-					<dl class="pairsJustified xbTrophyPoints">
-						<dt><i class="fa fa-trophy fa-fw Tooltip" title="Trophy Points" data-offsetx="-6" data-offsety="0"></i></dt>
-						<dd><a href="members/nathan-flowers.1/trophies" class="OverlayTrigger concealed">48</a></dd>
-					</dl>
+				
+				</div>
 				
 			
 				
@@ -1064,26 +938,6 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1461877741612-0');
 						
 			
 			
-			
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-				
-			
-			
-			
 		</div>
 	
 		
@@ -1093,15 +947,11 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1461877741612-0');
 </div>
 </div>
 
-	<div class="messageInfo primaryContent">
+	<div class="messageInfo primaryContent">		
 		
 		
 		
-		
-		
-		
-		
-		<div class="messageContent">		
+		<div class="messageContent">
 			<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
@@ -1194,6 +1044,8 @@ As part of the Services, Members may communicate with other Members and with unr
 	
 	
 	
+	</div>
+	
 	
 		
 				
@@ -1232,6 +1084,7 @@ As part of the Services, Members may communicate with other Members and with unr
 	
 	
 	
+	
 </li>
 
 			
@@ -1257,6 +1110,13 @@ As part of the Services, Members may communicate with other Members and with unr
 		
 	</div>
 
+
+			
+			
+			
+
+	<div class="xbMessageHelper">
+	
 	
 
 <div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
@@ -1285,11 +1145,14 @@ As part of the Services, Members may communicate with other Members and with unr
 	
 		<div class="extraUserInfo xbBoxedFA">
 			
-					
+				
+			
+				<div class="xbMainUserInfo">	
+				
 				
 					<dl class="pairsJustified xbMessages">
 						<dt><i class="fa fa-comments fa-fw Tooltip" title="Messages" data-offsetx="-6" data-offsety="0"></i></dt>
-						<dd><a href="search/member?user_id=1" class="concealed" rel="nofollow">3,536</a></dd>
+						<dd><a href="search/member?user_id=1" class="concealed" rel="nofollow">3,540</a></dd>
 					</dl>
 				
 				
@@ -1298,17 +1161,11 @@ As part of the Services, Members may communicate with other Members and with unr
 
 				
 
-					<dl class="pairsJustified xbLikes">
-						<dt><i class="fa fa-thumbs-up fa-fw Tooltip" title="Likes Received" data-offsetx="-6" data-offsety="0"></i></dt>
-						<dd>44</dd>
-					</dl>
 				
 				
 				
-					<dl class="pairsJustified xbTrophyPoints">
-						<dt><i class="fa fa-trophy fa-fw Tooltip" title="Trophy Points" data-offsetx="-6" data-offsety="0"></i></dt>
-						<dd><a href="members/nathan-flowers.1/trophies" class="OverlayTrigger concealed">48</a></dd>
-					</dl>
+				
+				</div>
 				
 			
 				
@@ -1324,26 +1181,6 @@ As part of the Services, Members may communicate with other Members and with unr
 						
 			
 			
-			
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-				
-			
-			
-			
 		</div>
 	
 		
@@ -1353,15 +1190,11 @@ As part of the Services, Members may communicate with other Members and with unr
 </div>
 </div>
 
-	<div class="messageInfo primaryContent">
+	<div class="messageInfo primaryContent">		
 		
 		
 		
-		
-		
-		
-		
-		<div class="messageContent">		
+		<div class="messageContent">
 			<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
@@ -1479,6 +1312,8 @@ If you have any questions about this Policy, please contact us by clicking on <a
 	
 	
 	
+	</div>
+	
 	
 		
 				
@@ -1517,6 +1352,7 @@ If you have any questions about this Policy, please contact us by clicking on <a
 	
 	
 	
+	
 </li>
 
 			
@@ -1542,6 +1378,13 @@ If you have any questions about this Policy, please contact us by clicking on <a
 		
 	</div>
 
+
+			
+			
+			
+
+	<div class="xbMessageHelper">
+	
 	
 
 <div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
@@ -1570,11 +1413,14 @@ If you have any questions about this Policy, please contact us by clicking on <a
 	
 		<div class="extraUserInfo xbBoxedFA">
 			
-					
+				
+			
+				<div class="xbMainUserInfo">	
+				
 				
 					<dl class="pairsJustified xbMessages">
 						<dt><i class="fa fa-comments fa-fw Tooltip" title="Messages" data-offsetx="-6" data-offsety="0"></i></dt>
-						<dd><a href="search/member?user_id=1" class="concealed" rel="nofollow">3,536</a></dd>
+						<dd><a href="search/member?user_id=1" class="concealed" rel="nofollow">3,540</a></dd>
 					</dl>
 				
 				
@@ -1583,17 +1429,11 @@ If you have any questions about this Policy, please contact us by clicking on <a
 
 				
 
-					<dl class="pairsJustified xbLikes">
-						<dt><i class="fa fa-thumbs-up fa-fw Tooltip" title="Likes Received" data-offsetx="-6" data-offsety="0"></i></dt>
-						<dd>44</dd>
-					</dl>
 				
 				
 				
-					<dl class="pairsJustified xbTrophyPoints">
-						<dt><i class="fa fa-trophy fa-fw Tooltip" title="Trophy Points" data-offsetx="-6" data-offsety="0"></i></dt>
-						<dd><a href="members/nathan-flowers.1/trophies" class="OverlayTrigger concealed">48</a></dd>
-					</dl>
+				
+				</div>
 				
 			
 				
@@ -1609,26 +1449,6 @@ If you have any questions about this Policy, please contact us by clicking on <a
 						
 			
 			
-			
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-					
-				
-				
-			
-			
-			
 		</div>
 	
 		
@@ -1638,15 +1458,11 @@ If you have any questions about this Policy, please contact us by clicking on <a
 </div>
 </div>
 
-	<div class="messageInfo primaryContent">
+	<div class="messageInfo primaryContent">		
 		
 		
 		
-		
-		
-		
-		
-		<div class="messageContent">		
+		<div class="messageContent">
 			<article>
 				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
 					
@@ -1704,6 +1520,8 @@ You may also email us at <a href="mailto:admin@thefedoralounge.com">admin@thefed
 	
 	
 	
+	</div>
+	
 	
 		
 				
@@ -1739,6 +1557,7 @@ You may also email us at <a href="mailto:admin@thefedoralounge.com">admin@thefed
 				
 			</div>
 		</div>
+	
 	
 	
 	
@@ -1827,23 +1646,6 @@ You may also email us at <a href="mailto:admin@thefedoralounge.com">admin@thefed
 
 						
 						
-
-
-
-
-<ul class="samCodeUnit samAlignCenterAuto belowContent" data-pos="ad_below_content">
-	
-		<li class="SamLink" data-id="13" data-cv="1" data-cc="1" data-ga="1">
-			<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Lounge Matched Content - After First Post -->
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-3154053003953475" data-ad-slot="1753643349" data-ad-format="autorelaxed"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-		</li>
-	
-</ul>
-
 						
 						
 							<!-- login form, to be moved to the upper drop-down -->
@@ -1999,7 +1801,7 @@ You may also email us at <a href="mailto:admin@thefedoralounge.com">admin@thefed
 					<span></span>
 					
 					<img src="/old/images/The_fedora_Lounge5.jpg" class="desktopLogo" alt="The Fedora Lounge">
-					<img src="styles/blackend-pro/xenforo/logo_sm.png" class="mobileLogo" alt="The Fedora Lounge">
+					
 					
 				</a>
 			</div>
@@ -2019,17 +1821,21 @@ You may also email us at <a href="mailto:admin@thefedoralounge.com">admin@thefed
 		<nav>
 
 <div class="navTabs">
-
-	
 	
 	
 	<div class="xbOffCanvasControls">
 		<a id="xbOffCanvasToggle" onclick="return false;" class="slideLeft" href="#"><i class="fa fa-bars fa-fw"></i> <span class="menuText">Menu</span></a>
 		<a href="find-new/posts" rel="nofollow" class="xbOffCanvasNew Tooltip" title="Recent Posts"> <i class="fa fa-commenting fa-fw"></i><span>Recent Posts</span></a>
 	</div>
-	
-	
+		
+				
 	<ul class="publicTabs">
+	
+	
+
+	
+
+		
 	
 		<!-- home -->
 		
@@ -2208,6 +2014,8 @@ You may also email us at <a href="mailto:admin@thefedoralounge.com">admin@thefed
 		
 
 		
+		
+		
 
 		<!-- responsive popup -->
 		<li class="navTab navigationHiddenTabs Popup PopupControl PopupClosed" style="display:none">	
@@ -2216,30 +2024,25 @@ You may also email us at <a href="mailto:admin@thefedoralounge.com">admin@thefed
 			
 			<div class="Menu JsOnly blockLinksList primaryContent" id="NavigationHiddenMenu"></div>
 		</li>
+		
+		
 			
 		<!-- no selection -->
 		
 		
 	</ul>
 	
+
+	
 		
 		
 		
 		
 		
+				
 		
-		
-		
-		
-		
-		<ul class="visitorTabs">
-	<li class="navTab PopupClosed">
-		<h3 id="loginBarHandle">
-			<label for="LoginControl"><a href="login/" class=" navLink">Log in or Sign up</a></label>
-		</h3>
-	</li>
-</ul>
-		
+					
+				
 </div>
 
 <span class="helper"></span>
@@ -2248,8 +2051,6 @@ You may also email us at <a href="mailto:admin@thefedoralounge.com">admin@thefed
 	</div>
 </div>
 
-	
-		
 	
 
 
@@ -2384,6 +2185,10 @@ You may also email us at <a href="mailto:admin@thefedoralounge.com">admin@thefed
 				<li><a href="help/"><i class="fa fa-life-ring fa-fw"></i> <span>Help</span></a></li>
 				<li><a href="http://www.thefedoralounge.com/" class="homeLink"><i class="fa fa-home fa-fw"></i> <span>Home</span></a></li>
 				
+			
+				<li><a href="help/terms"><i class="fa fa-gavel fa-fw"></i> <span>Terms and Rules</span></a></li>
+				<li><a href="http://www.thefedoralounge.com/threads/rules-and-privacy-and-copyright-policies.83853/#post-2005260"><i class="fa fa-user-secret fa-fw"></i> <span>Privacy Policy</span></a></li>
+			
 				<li><a href="forums/-/index.rss" rel="alternate" class="globalFeed" target="_blank" title="RSS feed for The Fedora Lounge"><i class="fa fa-rss fa-fw"></i></a></li>
 			
 			</ul>
@@ -2402,7 +2207,7 @@ You may also email us at <a href="mailto:admin@thefedoralounge.com">admin@thefed
 		
 			<li class="footerBlock footerBlockOne">
 				<h3><i class="fa fa-map-marker"></i> About us</h3>
-<p>A community dedicated to the clothing and lifestyle accessories of the Golden Era</p>
+<p>A community dedicated to the vintage clothing and accessories of the Golden Era</p>
 				
 
 
@@ -2485,17 +2290,9 @@ You may also email us at <a href="mailto:admin@thefedoralounge.com">admin@thefed
 
 <div class="footerLegal">
 	<div class="pageWidth">
-		<div class="pageContent">
-			<ul id="legal">
+		<div class="pageContent">			
+			<div id="copyright"> <span>|</span>  </div>
 			
-				<li><a href="help/terms">Terms and Rules</a></li>
-				<li><a href="http://www.thefedoralounge.com/threads/rules-and-privacy-and-copyright-policies.83853/#post-2005260">Privacy Policy</a></li>
-			
-			</ul>
-			
-			<div id="copyright">   </div>
-			
-		
 			
 			
 			<span class="helper"></span>
@@ -2519,9 +2316,9 @@ jQuery.extend(true, XenForo,
 	visitor: { user_id: 0 },
 	serverTimeInfo:
 	{
-		now: 1466419748,
-		today: 1466377200,
-		todayDow: 1
+		now: 1479865734,
+		today: 1479859200,
+		todayDow: 3
 	},
 	_lightBoxUniversal: "0",
 	_enableOverlays: "1",
@@ -2545,6 +2342,7 @@ jQuery.extend(true, XenForo,
 	_csrfToken: "",
 	_csrfRefreshUrl: "login/csrf-token-refresh",
 	_jsVersion: "dad7a1db",
+	_noRtnProtect: false,
 	_noSocialLogin: false
 });
 jQuery.extend(XenForo.phrases,
@@ -2609,13 +2407,13 @@ $(function() {
         // clicking the "down" button will make the page scroll to the $elem's height
     $('#xb_ScrollDown').click(
         function (e) {
-            $('html, body').animate({scrollTop: $elem.height()}, 800);
+            $('html, body').animate({scrollTop: $elem.height()}, 700);
         }
     );
         // clicking the "up" button will make the page scroll to the top of the page
     $('#xb_ScrollUp').click(
         function (e) {
-            $('html, body').animate({scrollTop: '0px'}, 800);
+            $('html, body').animate({scrollTop: '0px'}, 700);
         }
     );
  });
@@ -2699,9 +2497,8 @@ $(function() {
 
 
 
-
-<!--XenBase Current Version : 1.5.1 -->
-<!--Style Version : 1.5.1 -->
+<!--XenBase Current Version : 1.5.7 -->
+<!--Style Version : 1.5.7 -->
 
 
 
