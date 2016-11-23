@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promodirect.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612100600id_/http%3A//www.promodirect.com/info/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promodirect.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123220238id_/http%3A//www.promodirect.com/info/privacy.jsp) for the most accurate reproduction.*
 
 # Promo Direct Privacy Policy
 
