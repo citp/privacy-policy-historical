@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the elevationchurch.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617124845id_/http%3A//elevationchurch.org/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elevationchurch.org privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123122115id_/http%3A//elevationchurch.org/legal) for the most accurate reproduction.*
 
-# Legal - Elevation Church
+# – Legal
 
 ## PRIVACY POLICY
 
