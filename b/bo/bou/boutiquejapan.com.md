@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boutiquejapan.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608124007id_/http%3A//boutiquejapan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boutiquejapan.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123234127id_/http%3A//boutiquejapan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,7 +65,7 @@ Boutique Japan has the discretion to update this privacy policy at any time. Whe
 
 **Applicable law and choice of forum**
 
-This privacy policy is governed by the laws of the State of California _,_ USA. All matters arising out of these terms shall be resolved exclusively by the state and federal courts located in San Diego County, California. For this purpose, each party consents to personal jurisdiction in such state or federal court and waives any right to dismiss or transfer such action or proceeding because of the inconvenience of the forum. Nothing in this section shall prevent enforcement in another forum of any judgment obtained in a court identified in this paragraph.
+This privacy policy is governed by the laws of the State of Texas, USA. All matters arising out of these terms shall be resolved exclusively by the state and federal courts located in Austin, Texas. For this purpose, each party consents to personal jurisdiction in such state or federal court and waives any right to dismiss or transfer such action or proceeding because of the inconvenience of the forum. Nothing in this section shall prevent enforcement in another forum of any judgment obtained in a court identified in this paragraph.
 
 **Your acceptance of these terms**
 
