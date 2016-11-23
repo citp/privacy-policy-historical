@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 13deals.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506221724id_/http%3A//www.13deals.com/store/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 13deals.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123011315id_/http%3A//www.13deals.com/store/privacy.php) for the most accurate reproduction.*
 
-# 13 Deals - Privacy Policy
+# Privacy Policy - 13 Deals
 
 ### Privacy Policy
 
@@ -14,17 +14,17 @@ When you submit information to 13 Deals by creating an account, purchasing one o
 
 We shall only disclose your personal information to third parties where the disclosure is necessary and directly related to the purposes set out above - such as our financial institution to process your order. _**We shall not give our customer lists to third parties for promotions independent of 13 Deals. You do not have to provide us with the information requested; however, we will be unable to process your order should you be unwilling to do so.**_. 
 
-13 Deals relies on word-of-mouth of customers and friends to let it be known about our total awesomeness. To keep you up-to-date on new products and special deals/promotions, we do send occasional emails about promotions and newly listed items. In accordance with the CAN-SPAM Act 2003, we shall only send you emails with your prior consent and shall be happy to remove you from our mailing list should you no longer wish to receive our promotional information. To remove yourself, please go [here](https://web.archive.org/web/20160506221724id_/http%3A//www.13deals.com/store/newsletter.php?unsubscribe=1) and enter in your email address.
+13 Deals relies on word-of-mouth of customers and friends to let it be known about our total awesomeness. To keep you up-to-date on new products and special deals/promotions, we do send occasional emails about promotions and newly listed items. In accordance with the CAN-SPAM Act 2003, we shall only send you emails with your prior consent and shall be happy to remove you from our mailing list should you no longer wish to receive our promotional information. To remove yourself, please go [here](https://web.archive.org/web/20161123011315id_/http%3A//www.13deals.com/store/newsletter.php?unsubscribe=1) and enter in your email address.
 
 [Back to top]
 
-All products listed on www.13Deals.com are described to the best of our abilities, and the specifications reflect the information that has been provided to us. All care is taken to ensure this information is correct, but we cannot eliminate the possibility of human error. Should such an error occur, please let us know (that way we can make all things right with the world). You can do so [here](https://web.archive.org/web/20160506221724id_/http%3A//www.13deals.com/store/about.php). [Back to top]
+All products listed on www.13Deals.com are described to the best of our abilities, and the specifications reflect the information that has been provided to us. All care is taken to ensure this information is correct, but we cannot eliminate the possibility of human error. Should such an error occur, please let us know (that way we can make all things right with the world). You can do so [here](https://web.archive.org/web/20161123011315id_/http%3A//www.13deals.com/store/about.php). [Back to top]
 
 The descriptions of our products are the copyright property of 13 Deals, and specifically you may not use that description as the description of the product should you choose to re-sell the items elsewhere (we know you guys are clever and are more than capable of coming up with your own material). [Back to top]
 
 All orders are prepaid. It is our policy to bill at the point of sale. If your order becomes backordered for longer than 30 days, we will credit your original payment method in full. All orders must be paid for in US Dollars (and are priced as such). Please note that we do not store your credit card information on our server, unless you choose otherwise. [Back to top]
 
-The cost of shipping is clearly indicated for each product ordered, and is included in the invoice total. Orders are generally processed within 72 hours and shipped within 10 days of purchase (unless otherwise stated). We cannot be held responsible for delays brought about by the Postal System, Courier Service Delays, the weather, etc. For more information regarding our shipping policies, please feel free to view our shipping policy in full [here](https://web.archive.org/web/20160506221724id_/http%3A//www.13deals.com/store/shipping.php). [Back to top]
+The cost of shipping is clearly indicated for each product ordered, and is included in the invoice total. Orders are generally processed within 72 hours and shipped within 10 days of purchase (unless otherwise stated). We cannot be held responsible for delays brought about by the Postal System, Courier Service Delays, the weather, etc. For more information regarding our shipping policies, please feel free to view our shipping policy in full [here](https://web.archive.org/web/20161123011315id_/http%3A//www.13deals.com/store/shipping.php). [Back to top]
 
 To enter our sweepstakes or giveaway, please mail postcard to:
 
