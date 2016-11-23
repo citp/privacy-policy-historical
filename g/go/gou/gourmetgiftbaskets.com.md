@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gourmetgiftbaskets.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616222511id_/http%3A//www.gourmetgiftbaskets.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gourmetgiftbaskets.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123205323id_/http%3A//www.gourmetgiftbaskets.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
