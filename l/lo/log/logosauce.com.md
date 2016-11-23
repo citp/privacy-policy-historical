@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logosauce.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605192712id_/http%3A//e-see.com/help/logosauce/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logosauce.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124000847id_/http%3A//e-see.com/help/logosauce/privacy.html) for the most accurate reproduction.*
 
 # Logosauce Privacy Policy
 
