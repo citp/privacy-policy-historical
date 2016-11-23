@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefunnybeaver.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604152117id_/http%3A//thefunnybeaver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefunnybeaver.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123170817id_/http%3A//thefunnybeaver.com/privacy-policy) for the most accurate reproduction.*
 
 # TheFunnyBeaver – Privacy Policy
 
@@ -74,6 +74,8 @@ For revisions to this Privacy Notice that may be materially less restrictive on 
   * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
 
 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
 Contact Information:  
 Please contact TheFunnyBeaver with any questions or comments about this Privacy Notice
