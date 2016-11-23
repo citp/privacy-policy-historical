@@ -1,45 +1,41 @@
-> *The following text is extracted and transformed from the gamestrue.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430153154id_/http%3A//www.gamestrue.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamestrue.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123104739id_/http%3A//gamestrue.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Pogg
+# Privacy Policy – Gamestrue.com
 
-By using any of the features or services you find on GameSTrue.com you are agreeing to all of the below.
+## Introduction
 
-**General Policy**
+This privacy policy (“Policy”) and this site’s Terms of Service (together the “Terms”) govern all use of [http://gamestrue.com](http://gamestrue.com/) and that site’s services (together the “Site” or “Services”). The owners and contributors to the Site will be referred to as “we,” “us,” or “our” in this Policy. By using the Site or its Services, and/or by clicking anywhere on this Site to agree to the Terms and this Policy, you are deemed to be a “user” for purposes of this Policy. You and every other user (“you” or “User” as applicable) are subject to this Policy. You and each user also agree to the Terms by using the Services. In these Terms, the word “Site” includes the site referenced above, its owner(s), contributors, suppliers, licensors, and other related parties.
 
-  1. GameSTrue.com does collect personal information as you engage with our site.
-  2. This information is used for several purposes; contacting you, researching visitor trends and improving our service.
-  3. Collected information will not be shared with any 3rd parties –including online casinos – without your prior consent.
-  4. Please be aware that by utilising our dispute mediation process you are giving us permission to share your personal information with the involved casino.
-  5. To use the services at GameSTrue.com you must be 18 years of age or older.
-  6. If you no longer wish to be contacted by GameSTrue.com, please contact us at accounts@gamestrue.com to deactivate your account.
-  7. Once an account is deactivated you will no longer receive communications from us, however we will hold your account information in out archives.
+We provide this privacy statement explaining our online information practices, so that you can decide whether and how to interact with the Site and the Services.
 
+We may release your information when we deem it appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
 
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-**Disclosure of your details**
+Please also review our Terms of Use section that governs the use and the users of the Site.
 
-  1. GameSTrue.com will not disclose your personal details (i.e. name, email address, contact details) to any 3rd party except for the following exceptions; Legal proceedings that require this information or during the dispute resolution process when engaging with a casino.
-  2. In the event that GameSTrue.com is taken over by another company user information will be transferred to the new owners. Prior to this happening, an email will be sent informing you of the take over and offering you the option to remove your details from our database.
+By using our site, you consent to our privacy policy.
 
+If we decide to change our privacy policy, we will post those changes on this page. If we have your email address, we may also send an email notifying you of any changes.
 
+## Mobile Device Privacy
 
-**Confidentiality**
+The following applies to our site, when viewed on a mobile device:  
+When accessed with a mobile deivce, our site may collect information automatically, such as the type of mobile device you have, device identifiers, and information about your use of the site. Regardless of the device you use to access the site, it will also collect information you provide, as well as information about your interaction with the site and its content.  
+If location services are activated on your mobile device, our site may collect information about the location of your device. Your mobile network service providers may collect device-specific information, such as a device identifier, when you use our website or one of our mobile applications. This information collected by your mobile network service will not be associated with your user account with us, or with your personally identifiable information.
 
-  1. Only employees of GameSTrue.com who have a reasonable need to access your personal information to adequately fulfil their employment obligations will be allowed access to said details.
-  2. All account information is password protected at both the user end and the administrative end.
+## Disputes
 
+We are based in Brooklyn, NY 11206, United States and you are contracting to use our Site. This Policy and all matters arising from your use of the Site are governed by and will be construed according to the laws of Brooklyn, NY 11206, United States, without regard to any choice of laws rules of any jurisdiction. The federal courts and state courts that have geographical jurisdiction over disputes arising at our office location in Brooklyn, NY 11206, United States will be the only permissible venues for any and all disputes arising out of or in connection with this Policy or the Site and Service.
 
+## No Users Under the Age of 13
 
-**Content Integrity**
+The Site is not intended for children under the age of 13. Children under the age of 13 should not use the Site at any time. We do not knowingly collect personal information from children under the age of 13. If we obtain actual knowledge that we have collected information from anyone under the age of 13, we will erase that information from our servers. It is a violation of our Terms of Service for children under the age of 13 to use the Site.
 
-  1. GameSTrue.com cannot guarantee the accuracy of the information found on this site and it is considered the obligation of the user to ensure all relevant details are still accurate before they act upon them.
+## Terms Contact
 
+If you have any questions about these Terms, please address them to eliz@gamestrue.com.
 
+## Last Updated
 
-**Dispute Mediation**
-
-  1. GameSTrue.com Dispute Mediation service is free to use for player and casinos. 
-  2. GameSTrue.com will not under any circumstance engage in financial transactions – or any other transaction that may otherwise be seen to have unduly influenced the outcome – with either party in any dispute.
-  3. It is our aim to resolve all dispute and do so in a timely a fashion as possible. However due to the back and forward nature of dispute mediation it is impossible to provide an exact time frame and if one of the parties becomes non-responsive a resolution is unlikely to be reached.
-
-
+These terms were last updated on _September 20, 2016_
