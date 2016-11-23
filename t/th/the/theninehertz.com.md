@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theninehertz.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506152839id_/http%3A//theninehertz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theninehertz.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123022018id_/http%3A//theninehertz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
