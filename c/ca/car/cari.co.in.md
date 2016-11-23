@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cari.co.in privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316050231id_/http%3A//www.cari.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cari.co.in privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123091841id_/http%3A//www.cari.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Find used cars, used bikes, homes, jobs and vacancies in India
 
