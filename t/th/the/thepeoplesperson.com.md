@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepeoplesperson.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608191010id_/http%3A//thepeoplesperson.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepeoplesperson.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123121718id_/http%3A//thepeoplesperson.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,7 +47,7 @@ Users may find advertising or other content on our Site that link to the sites a
 
 **Advertising**
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers. [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/) to allow users to opt-out of cookie tracking for sortable’s demand partners (Note: this doesn’t cover all our partners)
 
 **Google Adsense**
 
@@ -69,7 +69,8 @@ If you have any questions about this Privacy Policy, the practices of this site,
 info@thepeoplesperson.com
 
 The Peoples Person  
-25 Eccleston Place  
+Floor 1 Minster House  
+272-274 Vauxhall Bridge Road  
 Victoria  
 London  
-SW1W 9NF
+SW1V 1BB
