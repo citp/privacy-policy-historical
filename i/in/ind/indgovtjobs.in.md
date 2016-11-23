@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indgovtjobs.in privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614054619id_/http%3A//www.indgovtjobs.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indgovtjobs.in privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123070859id_/http%3A//www.indgovtjobs.in/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,13 +44,15 @@ We take reasonable steps to secure your personally identifiable information agai
 
   * Indian National candidates / Students, who have holding 10th and 12th Qualification get Government Jobs recent recruitment notification. 10t...
 
-  * Union Public Service Commission (UPSC) invites Online Recruitment Applications (ORA) for Recruitment by selection to the post of Enforcement...
-
-  * Indian Army, Government of India is the largest land-based branch of the Indian Armed Forces. Various Career Opportunities available in Indi...
-
-  * Railway Recruitment Boards (RRBs) offers Railway Jobs 2016 List published in this page. RRBs calls eligible Indian Citizens through Employme...
-
   * Government Jobs Seekers, who Looking for Govt Jobs in India to get Latest Government Jobs Recruitment / Vacancies completely published in th...
+
+  * Railway Recruitment Boards (RRBs) offers Railway Jobs 2016 - 2017 List published in this page. RRBs calls eligible Indian Citizens through E...
+
+  * [ ](http://www.indgovtjobs.in/2013/08/bank-jobs-openings-august-2013.html)
+
+Indian Citizens who are looking for Latest Banking Jobs in Government public sector (Nationalized) banks, Govt undertaking Banks, Scheduled ...
+
+  * Engineering Graduates, who pursing final year or recently completed engineering degree holders get your discipline wise suitable Government ...
 
 
 
