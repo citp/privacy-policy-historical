@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvf.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501120333id_/http%3A//www.dvf.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvf.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124004836id_/http%3A//www.dvf.com/privacy-policy.html) for the most accurate reproduction.*
 
 # DVF | Privacy Policy
 
@@ -137,7 +137,7 @@ DvF takes steps consistent with commercially reasonable industry standards to se
 
 ### Does DvF Use Third Party Advertisers? 
 
-We may use advertisers, third party ad networks, and other advertising companies to serve advertisements on the Website. Please be advised that such advertising companies may gather information about your visit to the Website or other sites (such as through cookies, web beacons and other technologies) to enable such advertising companies to market products or services to you, to monitor which ads have been served to your browser and which webpages you were viewing when such ads were delivered. If you would like more information about this practice and to know your choices please [click here](http://www.dvf.com/on/demandware.store/Sites-DvF_US-Site/default/CustomerServiceNew-ContactUsNew). PLEASE NOTE THAT THIS POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH ADVERTISING COMPANIES. 
+We may use advertisers, third party ad networks, and other advertising companies to serve advertisements on the Website. Please be advised that such advertising companies may gather information about your visit to the Website or other sites (such as through cookies, web beacons and other technologies) to enable such advertising companies to market products or services to you, to monitor which ads have been served to your browser and which webpages you were viewing when such ads were delivered. If you would like more information about this practice and to know your choices please [click here](http://www.dvf.com/contactus/). PLEASE NOTE THAT THIS POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH ADVERTISING COMPANIES. 
 
   
 
@@ -158,7 +158,7 @@ The Website is intended for general use of persons who have reached the age of c
 
 ### Do we have Mechanisms in Place to Permit Access, Removal, and Complaints Regarding Information That We Collect? 
 
-You may access and update your PII by logging into your account on the Website or by contacting DvF. If you wish to remove PII that you have submitted to DvF, please send us an email requesting such removal to [cseshop@dvf.com](http://www.dvf.com/on/demandware.store/Sites-DvF_US-Site/default/CustomerServiceNew-ContactUsNew). If you have questions or concerns about any of our information collection or handling practices, please contact us at [cseshop@dvf.com](http://www.dvf.com/on/demandware.store/Sites-DvF_US-Site/default/CustomerServiceNew-ContactUsNew) or write to us at DVF Studio, LLC, Attn: Customer service for DVF.COM, 440 West 14th Street, New York, NY 10014. 
+You may access and update your PII by logging into your account on the Website or by contacting DvF. If you wish to remove PII that you have submitted to DvF, please send us an email requesting such removal to [cseshop@dvf.com](http://www.dvf.com/contactus/). If you have questions or concerns about any of our information collection or handling practices, please contact us at [cseshop@dvf.com](http://www.dvf.com/contactus/) or write to us at DVF Studio, LLC, Attn: Customer service for DVF.COM, 440 West 14th Street, New York, NY 10014. 
 
   
 
@@ -181,7 +181,7 @@ California Civil Code Section 1798.83 permits our Visitors who are California re
 
 If you would like to contact DvF regarding your PII or any of the content in this Privacy Policy, please reach out to us using the following information: 
 
-By email: [cseshop@dvf.com](http://www.dvf.com/on/demandware.store/Sites-DvF_US-Site/default/CustomerServiceNew-ContactUsNew)   
+By email: [cseshop@dvf.com](http://www.dvf.com/contactus/)   
 By mail:   
 DVF Studio, LLC   
 Attn: Customer service for DVF.COM   
