@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the porncor.com privacy policy that was archived on 2016-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160611235715id_/http%3A//www.porncor.com/pages/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the porncor.com privacy policy that was archived on 2016-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161123133515id_/http%3A//www.porncor.com/pages/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -158,24 +158,27 @@ PornCor.com is the ultimate sex tube porno, porn movie sharing site. It's 100% f
 
 </tbody></table>
 <br>
-<div id="bottomAd" style="font-size: 2px;">&nbsp;</div>
+<script type="text/javascript" src="http://www.porncor.com/js/blockadblock.js"></script>
 <script type="text/javascript">
-$(document).ready( function() {
-window.setTimeout( function() {
-    var bottomad = $('#bottomAd');
-    if (bottomad.length == 1) {
-      if (bottomad.height() == 0) {
-        // adblocker active
+blockAdBlock = new BlockAdBlock({
+	checkOnLoad: true,
+	resetOnEnd: true
+});
+function adBlockDetected() {
+			$(".adblockdivwrap").show();
+			$("#fade").show();
+		}
+		function adBlockNotDetected() {
+			$(".adblockdivwrap").hide();
+			$("#fade").hide();
+		}
 		
-		$(".adblockdivwrap").show();
-		$("#fade").show();
-		
-      } else {
-        // no adblocker
-      }
-    }      
-  }, 1);
-});  
+		if(typeof blockAdBlock === 'undefined') {
+			adBlockDetected();
+		} else {
+			blockAdBlock.onDetected(adBlockDetected);
+			blockAdBlock.onNotDetected(adBlockNotDetected);
+		}  
 </script>
 <!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">
