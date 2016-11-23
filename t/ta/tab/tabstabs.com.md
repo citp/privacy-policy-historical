@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tabstabs.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612112149id_/http%3A//tabstabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabstabs.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123060444id_/http%3A//tabstabs.com/privacy) for the most accurate reproduction.*
 
 # Tabstabs.com // Privacy Policy
 
