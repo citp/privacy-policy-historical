@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koehlerhomedecor.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605203307id_/http%3A//www.koehlerhomedecor.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koehlerhomedecor.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124004635id_/http%3A//www.koehlerhomedecor.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Koehler Home Decor Privacy & Security Policies
 
@@ -23,7 +23,7 @@ Advertising partners and other third parties may also use cookies, scripts and/o
 
 Third-Party Web Beacons: We use third-party web beacons from Yahoo to help analyze where visitors go and what they do while visiting our website. Yahoo may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo, [click here](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html).
 
-If you have any questions about our Privacy Policy, please do not hesitate to [contact us](https://web.archive.org/web/20160605203307id_/http%3A//www.koehlerhomedecor.com/contact.html).
+If you have any questions about our Privacy Policy, please do not hesitate to [contact us](https://web.archive.org/web/20161124004635id_/http%3A//www.koehlerhomedecor.com/contact.html).
 
 We want you to be aware of how we handle this information.
 
@@ -37,7 +37,7 @@ Koehler Home Décor would like to assure you that we do **not** :
 Koehler Home Décor does: 
   * Safeguard customers' information from unauthorized access. 
   * Collect, maintain and use customer information as necessary to provide the most helpful and targeted products and services to meet customers' needs (e.g. customer care or new products or services.) 
-  * Honor customers' requests to remove their names from our e-mail solicitation lists. (Just [contact us](https://web.archive.org/web/20160605203307id_/http%3A//www.koehlerhomedecor.com/contact.html).) 
+  * Honor customers' requests to remove their names from our e-mail solicitation lists. (Just [contact us](https://web.archive.org/web/20161124004635id_/http%3A//www.koehlerhomedecor.com/contact.html).) 
   * Maintain confidentiality of customer information when undertaking projects with other companies. 
 
 
