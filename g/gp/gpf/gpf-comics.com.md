@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gpf-comics.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608022016id_/http%3A//www.gpf-comics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpf-comics.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123045653id_/http%3A//www.gpf-comics.com/privacy.php) for the most accurate reproduction.*
 
 # GPF: Privacy Statement and Ad Info
+
+We are currently experiencing problems sending e-mail to users with Microsoft-owned addresses (Hotmail, Outlook.com, Live.com, etc.). Despite the fact that we have numerous anti-spam countermeasures in place that seem to be working fine with other services, Microsoft is branding everything from our ISP as spam. If you have a [Premium](https://web.archive.org/premium/) or [Forum](https://web.archive.org/forum/) account attached to a Microsoft-provided address, please check your spam or junk folders and mark any expected messages from us as "ham". (Of course, please continue to mark legitimate spam as such.) Otherwise, we suggest switching mail providers for your GPF accounts. We apologize for the inconvenience.
 
 ### Privacy Statement
 
