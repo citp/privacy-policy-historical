@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savethechildren.org.uk privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629234513id_/http%3A//www.savethechildren.org.uk/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savethechildren.org.uk privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123134323id_/http%3A//www.savethechildren.org.uk/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Save the Children UK
 
