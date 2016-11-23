@@ -1,1543 +1,564 @@
-<!--The following is the downloaded HTML source of the redgiant.com privacy policy that was archived on 2014-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141202081615id_/http%3A//www.redgiant.com/support/buyers-guide/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the redgiant.com privacy policy that was archived on 2016-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161123031701id_/http%3A//www.redgiant.com/store-terms-and-conditions/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgcBV1JQGwAGUFBbDwE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
-<meta name="description" content="Production-proven special effects tools for digital video &amp; film professionals. Plug-ins for Adobe After Effects, Premiere, Avid, Final Cut Pro and more.">
-<meta name="keywords" content="plugin, plug-in, plug in, magic bullet, redgiant, colorista, adobe premiere, stardust, knoll, sapphire, hd, pinnacle, after effects, trapcode, final cut, image lounge, avid">
-<meta name="allow-search" content="yes">
-<meta name="audience" content="all">
-<meta name="robots" content="all, index, follow">
-<meta name="Rating" content="General">
-<meta name="Language" content="en">
-<meta name="distribution" content="Global">
- 
-<title>Red Giant - Support - Buyers Guide - Privacy Policy</title>
- 
-<link rel="shortcut icon" href="http://cache.redgiantsoftware.com/favicon.ico" type="image/x-icon">
-<!-- For iPhone 4 with high-resolution Retina display: -->
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://cache.redgiantsoftware.com/_assets_interface/images/global/apple-touch-icon-114x114-precomposed.png">
-<!-- For first-generation iPad: -->
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://cache.redgiantsoftware.com/_assets_interface/images/global/apple-touch-icon-72x72-precomposed.png">
-<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
-<link rel="apple-touch-icon-precomposed" href="http://cache.redgiantsoftware.com/_assets_interface/images/global/apple-touch-icon-precomposed.png">
-<link rel="apple-touch-icon" href="http://cache.redgiantsoftware.com/_assets_interface/images/global/apple-touch-icon.png">
-<!-- Bootstrap btn and icon base CSS -->
-<link href="http://cache.redgiantsoftware.com/_assets_interface/css/bootstrapBtnsIcons.css" rel="stylesheet">
-<link href="http://cache.redgiantsoftware.com/_assets_interface/css/global-new.css" rel="stylesheet" type="text/css">
-<link href="http://cache.redgiantsoftware.com/_assets_interface/css/colorbox3.css" rel="stylesheet" type="text/css">
-<!--[if IE]>
-<link href="http://cache.redgiantsoftware.com/_assets_interface/css/all-ie-only.css" rel="stylesheet" type="text/css" />
-<![endif]-->
-<link href="http://cache.redgiantsoftware.com/_assets_interface/css/jquery.qtip.css" rel="stylesheet" type="text/css">
-<!-- Optimizely JS -->
-<script src="//cdn.optimizely.com/js/347241439.js"></script>
-<script src="http://cache.redgiantsoftware.com/_assets_interface/js/jquery-1.4.3.min.js" type="text/javascript"></script>
-<script src="http://cache.redgiantsoftware.com/_assets_interface/js/jquery.rgcrossfader-1.0.js" type="text/javascript"></script>
-<script src="http://cache.redgiantsoftware.com/_assets_interface/js/jquery.color.js" type="text/javascript"></script>
-<script src="http://cache.redgiantsoftware.com/_assets_interface/js/jquery.cookie.js" type="text/javascript"></script>
-<script src="http://cache.redgiantsoftware.com/_assets_interface/js/jquery.colorbox-min.js" type="text/javascript"></script>
-<script src="http://cache.redgiantsoftware.com/_assets_interface/js/jquery.cycle.all.js" type="text/javascript"></script>
-<script src="http://cache.redgiantsoftware.com/_assets_interface/js/jquery.login.js" type="text/javascript"></script>
+<!DOCTYPE html><html><head><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script src="https://script.crazyegg.com/pages/scripts/0047/0162.js" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgcBV1JQGwIAVlhbBwUA"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
+    <meta charset="UTF-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgcBV1JQGwIAVlhbBwUA"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),s.on(m,function(){this.bstStart=Date.now()}),s.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(17)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;c<s;c++)a[c].apply(i,r);var u=f[w[n]];return u&&u.push([v,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",w[n]=e,e in f||(f[e]=[])})}var m={},w={},v={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return v}function i(){return new r}var a="nr@context",s=t("gos"),c=t(15),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!g++){var t=y.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(w,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(15),f=window,u=f.document,d="addEventListener",l="attachEvent",p=f.XMLHttpRequest,h=p&&p.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:p,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var m=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-974.min.js"},v=p&&h&&h[d]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:m,features:{},xhrWrappable:v};u[d]?(u[d]("DOMContentLoaded",i,!1),f[d]("load",r,!1)):(u[l]("onreadystatechange",o),f[l]("onload",r)),s("mark",["firstbyte",a()],null,"api");var g=0},{}]},{},["loader",2,10,4,3]);</script>
+    <title>Red Giant | Privacy Policy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+<!-- This site is optimized with the Yoast SEO plugin v2.3.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.redgiant.com/store-terms-and-conditions/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Red Giant | Privacy Policy">
+<meta property="og:description" content="…">
+<meta property="og:url" content="http://www.redgiant.com/store-terms-and-conditions/privacy-policy/">
+<meta property="og:site_name" content="Red Giant">
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+<link rel="dns-prefetch" href="//cache.redgiant.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Red Giant » Privacy Policy Comments Feed" href="http://www.redgiant.com/store-terms-and-conditions/privacy-policy/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.redgiant.com\/wp-base\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.redgiant.com/wp-base/wp-includes/js/wp-emoji-release.min.js?ver=4.6.1" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="redgiant_plugin-style-css" href="http://cache.redgiant.com/wp-base/wp-content/plugins/redgiant/components/css/redgiant.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="rga-videocss-css" href="//cache.redgiant.com/_/js/video-js/video-js.min.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="rga-base-css" href="//cache.redgiant.com/_/stylesheets/base.css?ver=2" type="text/css" media="all">
+<link rel="stylesheet" id="rga-hover-css" href="//cache.redgiant.com/_/stylesheets/hover-min.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="rga-fonts-css" href="//cache.redgiant.com/_/stylesheets/fonts.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="rga-fontello-css" href="//cache.redgiant.com/_/fonts/fontello/css/fontello.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="rga-fontellAnimation-css" href="//cache.redgiant.com/_/fonts/fontello/css/animation.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="rg-responsiveCarouselStyle-css" href="//cache.redgiant.com/_/lib/owl-carousel/owl.carousel.css?ver=4.6.1" type="text/css" media="all">
+<script type="text/javascript" src="http://cache.redgiant.com/wp-base/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://cache.redgiant.com/wp-base/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/js/bootstrap-select.min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="//cache.redgiant.com/_/js/video-js/video.js?ver=2.0"></script>
+<script type="text/javascript" src="//cache.redgiant.com/_/js/video-js/Youtube.js?ver=2.0"></script>
+<link rel="https://api.w.org/" href="http://www.redgiant.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.redgiant.com/wp-base/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://cache.redgiant.com/wp-base/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.6.1">
+<link rel="shortlink" href="http://www.redgiant.com/?p=9511">
+<link rel="alternate" type="application/json+oembed" href="http://www.redgiant.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.redgiant.com%2Fstore-terms-and-conditions%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://www.redgiant.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.redgiant.com%2Fstore-terms-and-conditions%2Fprivacy-policy%2F&amp;format=xml">
+        <script type="text/javascript">
+            var banner_deadline = '2016, 7, 17, 9, 1, 0';
+        </script><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="language" content="en">
+    <!-- Optimizely JS -->
+    <script src="//cdn.optimizely.com/js/347241439.js"></script>
+
+
+    <script type="text/javascript" src="//www.google.com/jsapi"></script>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <!-- For iPhone 4 with high-resolution Retina display: -->
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="//cache.redgiant.com/_/../_assets_interface/images/global/apple-touch-icon-114x114-precomposed.png">
+    <!-- For first-generation iPad: -->
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//cache.redgiant.com/_/../_assets_interface/images/global/apple-touch-icon-72x72-precomposed.png">
+    <!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+    <link rel="apple-touch-icon-precomposed" href="//cache.redgiant.com/_/../_assets_interface/images/global/apple-touch-icon-precomposed.png">
+    <link rel="apple-touch-icon" href="//cache.redgiant.com/_/../_assets_interface/images/global/apple-touch-icon.png">
+
+
+    <!--[if IE]>
+      <link href="//cache.redgiant.com/_/../_assets_interface/css/all-ie-only.css" rel="stylesheet" type="text/css"/>
+      <![endif]-->
+      <!--[if gte IE 9]>
+        <link href="//cache.redgiant.com/_/../_assets_interface/css/IE9.css" rel="stylesheet" type="text/css"/>
+        <![endif]-->
+        <!--[if gte IE 9]>
+          <style type="text/css">
+            .gradient {
+              filter: none;
+            }
+          </style>
+          <![endif]--><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.redgiant.com/wp-base/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://www.redgiant.com/wp-base/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-4328035-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+<!-- Start Visual Website Optimizer Asynchronous Code -->
 <script type="text/javascript">
-JQ = $;
-</script>
-<link href="http://cache.redgiantsoftware.com/_assets_interface/css/redgiant-global-style2.css" rel="stylesheet">
-<link href="http://cache.redgiantsoftware.com/_assets_interface/css/fonts.css" rel="stylesheet">
-<link href="http://cache.redgiantsoftware.com/_assets_interface/css/products/fonts2.css" rel="stylesheet">
-<!-- Bootstrap jQuery Plugins, compiled and minified -->
-<link href="http://cache.redgiantsoftware.com/_assets_interface/css/topnav-footer.css" rel="stylesheet">
-<!--[if gte IE 9]>
-  <style type="text/css">
-    .gradient {
-       filter: none;
+var _vwo_code=(function(){
+var account_id=196688,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+// DO NOT EDIT BELOW THIS LINE
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=196688&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20161123031701id_%2Fhttp%253A%2F%2Fwww.redgiant.com%2Fstore-terms-and-conditions%2Fprivacy-policy&amp;r=0.05618359165650699" type="text/javascript"></script>
+<!-- End Visual Website Optimizer Asynchronous Code -->
+<script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": "http://www.redgiant.com",
+      "logo": "http://cache.redgiant.com/wp-assets/2016/04/21194417/RG_web_on_white.png"
     }
-  </style>
-<![endif]-->
-<script src="http://cache.redgiantsoftware.com/_assets_interface/js/jwplayer.min.js" type="text/javascript"></script>
-<script type="text/javascript">
-  var __lc = {};
-  __lc.license = 1053031;
-
-  (function() {
-    var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
-    lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
-  })();
+</script>
+<script type="application/ld+json"> 
+{ 
+  "@context" : "http://schema.org", 
+  "@type" : "Organization", 
+  "name" : "Red Giant", 
+  "url" : "http://www.redgiant.com", 
+  "sameAs" : [ 
+    "https://www.facebook.com/RedGiantSoftware", 
+    "https://twitter.com/RedGiantNews", 
+    "https://www.youtube.com/user/watchredgiantfilms 
+  ] 
+} 
+</script>
+<script type="application/ld+json">
+{
+ "@context": "http://schema.org",
+ "@type": "WebSite",
+ "url": "https://www.redgiant.com/",
+ "potentialAction": {
+   "@type": "SearchAction",
+   "target": "https://www.redgiant.com/?s={search_term_string}",
+   "query-input": "required name=search_term_string"
+ }
+}
 </script>
 </head>
-<body class="bgTwo">
- <script type="text/javascript">
-  var _gaq = _gaq || [];
-  var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-  _gaq.push(['_setAccount', 'UA-4328035-1']);
-  _gaq.push(['_setDomainName', 'none']);
-  _gaq.push(['_setAllowLinker', true]);
-  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-  _gaq.push(['_trackPageview']);
-  
-  // Set to the same value as the web property used on the site
-  var gaProperty = 'UA-4328035-1';
-  
-  // Disable tracking if the opt-out cookie exists.
-  var disableStr = 'ga-disable-' + gaProperty;
-  if (document.cookie.indexOf(disableStr + '=true') > -1) {
-    window[disableStr] = true;
-  }
-  
-  // Opt-out function
-  function gaOptout() {
-    document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
-    window[disableStr] = true;
-  }
-  
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+<body class="page page-id-9511 page-child parent-pageid-9514 page-template page-template-templates page-template-tpl-page-legal page-template-templatestpl-page-legal-php wpb-js-composer js-comp-ver-4.12 vc_responsive">
+<div class="navbar navbar-inverse " role="navigation" id="header-main">
+      <div class="container">
 
-</script>
- <div class="menupop clearfix hidden" id="popup_overlay"></div>
+          <!-- Nav Icons - the ul items don't collapse -->
+          <div class="navbar-header pull-right nav-icons">
+            <ul class="nav pull-right">
+    <li class="pull-right dropdown" id="utility_cart" date-mini-cart="container">
+        <!-- <a href="/store/cart" data-toggle="dropdown" class="dropdown-toggle"> !-->
+        <a href="/store/cart" class="dropdown-toggle">
+            <i class="icon-basket"></i><div id="cartCount-number"></div>
+        </a>
+            </li>
 
- <div class="sendnow hidden">
- 	<div class="sncont">
-		<div class="sntop">
-			<div class="sntopright">
-				<div class="sntopmiddle">
-					<span>SEND TO FRIEND</span>
-				</div>
-			</div>
-			<div class="snclose"></div>
-		</div>
-        <form id="sendtofriendform" name="sendtofriendform" class="sendtofriendform" method="post">
-		<div class="sninfact">
-			<div class="snform">
-				<label for="">Your Name:</label>
-				<input type="input" id="stf_your_name" name="stf_your_name">
-			</div>
-			<div class="snform">
-				<label for="">Your Email:</label>
-				<input type="input" id="stf_your_email" name="stf_your_email">
-			</div>
-			<div class="snform when">
-				<label for=""></label>
-				<input type="checkbox" id="stf_cc_me" name="stf_cc_me" value="1">
-				<span class="getsend">Get CC'd on email</span>
-			</div>
-			<div class="snform">
-				<label for="">Friend's Name:</label>
-				<input type="input" id="stf_friend_name" name="stf_friend_name">
-			</div>
-			<div class="snform">
-				<label for="">Friend's Email:</label>
-				<input type="input" id="stf_friend_email" name="stf_friend_email">
-			</div>
-			<div class="snmessage">
-				<label for="">Message:</label>
-				<div class="messcont">
-					<p>Hi,</p>
-					<p>You should check out the filmmaking products and free
-training on this website, <a href="javascript:void(0);">http://www.redgiant.com/</a></p>
-					<p>Red Giant provides software for motion design, photography and color correction that is used for everything from major motion pictures to worldwide television programming to web production.</p>
-				</div>
-			</div>
-			<span id="stf_send_now" class="snbutton">SEND NOW</span>
-            <span id="load-sendtofriend" class="loadsendtofriend"></span>
-		</div>
-        </form>
-		<div class="snbottom">
-			<div class="snboright">
-				<div class="snbomiddle"></div>
-			</div>
-		</div>
-	</div>
+    <li class="dropdown pull-right" id="utility_user">
+        <a href="#" data-toggle="dropdown" class="dropdown-toggle">
+            <i class="icon-user" data-auth="logged-in"></i>
+        </a>
+        <ul class="dropdown-menu">
+            <li>
+                <a href="/store/session/loginOrRegister" data-auth="login">Sign In</a>
+                <a href="/store/session/logout" class="hidden" data-auth="logout">Sign Out</a>
+            </li>
+            <li><a href="/store/customer/products">Your Products</a></li>
+            <li><a href="/store/customer/orders">Order History</a></li>
+            <li><a href="/store/customer/address">Customer Info</a></li>
+            <li><a href="/store/customer/payment">Payment Info</a></li>
+            <li><a href="/store/customer/settings">Account Settings</a></li>
+        </ul>
+    </li>
+
+    <li class="pull-right dropdown" id="utility_search">
+        <a href="#" data-toggle="dropdown" class="dropdown-toggle">
+            <i class="icon-search"></i>
+        </a>
+        <ul class="dropdown-menu">
+            <div class="container">
+                <form role="search" method="get" class="search-form" action="http://www.redgiant.com/">
+  <!--
+  <div class="input-group">
+    <div class="input-group-btn">
+
+      <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Products <span class="caret"></span></button>
+      <ul class="dropdown-menu" role="menu">
+        <li><a data-filter='product'>Products</a></li>
+      </ul>
+  </div>
+
+    <input type="text" class="search-field form-control" placeholder="Search …" value="" name="s" title="Search for:" />
+  </div>
+  !-->
+  <input type="text" class="search-field full-width" placeholder="Search …" value="" name="s" title="Search for:">
+</form>
+            </div>
+        </ul>
+    </li>
+</ul>
+
+
+           </div><!-- /.nav-icons -->
+           <!-- Non-collapsing Menu Items -->
+           <button type="button" class="navbar-toggle collapsed pull-left" data-toggle="collapse" data-target=".navbar-collapse">
+             <span class="sr-only">Toggle navigation</span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </button>
+
+        <!-- Red Giant -->
+        <div class="navbar-header pull-left">
+          <!-- Logo -->
+           <a href="http://www.redgiant.com" rel="home" class="pull-left">
+             <img class="navbar-brand" src="//cache.redgiant.com/_/img/Red-Giant-Logo.png" style="max-width:none;">
+           </a>
+        </div>
+
+       <span class="tagline hidden-xs hidden-sm hidden-md pull-left">Filmmaking &amp; Motion Graphics Software</span>
+
+        <!-- Primary site Nav - collapsing items -->
+
+            <div class="collapse navbar-collapse navbar-right">
+              <a href="https://www.redgiant.com/products/" class="visible-phone btn btn-default viewAll">view all products</a><ul id="menu-main-nav" class="nav navbar-nav pull-left"><li id="menu-item-1027" class="storeMenu storeLink dropdown menu-item menu-item-type-post_type menu-item-object-page menu-item-1027"><a class="storeLink" href="https://www.redgiant.com/products/">Products</a><div class="storeDropdown icon-down-open"></div><ul class="dropdown-menu shopMenu hidden-xs hidden-sm">
+							<li>
+								<!-- TOP SELLING MENU -->
+								<div class="row topRowMenu">
+                  <ul id="topSellingMenu" class="list-inline col-md-12">
+	                  <li id="allProducts">
+	                      <a href="/products/">View All Products</a>
+	                  </li>
+	                  <li id="featuredProducts">
+	                      <a href="/products/?focus=featured-products">Featured Products</a>
+	                  </li>
+	                  <li id="volumeProducts">
+	                      <a href="/volume">Businesses<span class="hidden-md"> &amp; Organizations</span></a>
+	                  </li>
+	                  <li id="academicProducts">
+	                      <a href="/academic-pricing">Students &amp; Teachers</a>
+	                  </li>
+                  </ul>
+								</div>
+								<hr>
+
+								<!-- SUITES MENU -->
+								<div id="suitesRow" class="row">
+									<ul id="suiteMenu" class="list-inline col-md-12 suite-menu"><li id="menu-item-285" class="TrapcodeC suiteCol menu-item menu-item-type-post_type menu-item-object-product menu-item-has-children menu-item-285"><a href="https://www.redgiant.com/products/trapcode-suite/">Trapcode Suite</a>
+<ul class="prodList list-unstyled">
+	<li id="menu-item-228" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-228"><a href="https://www.redgiant.com/products/trapcode-particular/">Particular</a>	</li><li id="menu-item-224" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-224"><a href="https://www.redgiant.com/products/trapcode-form/">Form</a>	</li><li id="menu-item-10082" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-10082"><a href="https://www.redgiant.com/products/trapcode-tao/">Tao</a>	</li><li id="menu-item-227" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-227"><a href="https://www.redgiant.com/products/trapcode-mir/">Mir</a>	</li><li id="menu-item-229" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-229"><a href="https://www.redgiant.com/products/trapcode-shine/">Shine</a>	</li><li id="menu-item-226" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-226"><a href="https://www.redgiant.com/products/trapcode-lux/">Lux</a>	</li><li id="menu-item-222" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-222"><a href="https://www.redgiant.com/products/trapcode-3d-stroke/">3D Stroke</a>	</li><li id="menu-item-223" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-223"><a href="https://www.redgiant.com/products/trapcode-echospace/">Echospace</a>	</li><li id="menu-item-231" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-231"><a href="https://www.redgiant.com/products/trapcode-starglow/">Starglow</a>	</li><li id="menu-item-230" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-230"><a href="https://www.redgiant.com/products/trapcode-sound-keys/">Sound Keys</a>	</li><li id="menu-item-225" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-225"><a href="https://www.redgiant.com/products/trapcode-horizon/">Horizon</a></li></ul>
+<div class="storeDropdown icon-down-open"></div></li><li id="menu-item-1791" class="MagicC suiteCol menu-item menu-item-type-post_type menu-item-object-product menu-item-has-children menu-item-1791"><a href="https://www.redgiant.com/products/magic-bullet-suite/">Magic Bullet Suite</a>
+<ul class="prodList list-unstyled">
+	<li id="menu-item-14440" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-14440"><a href="https://www.redgiant.com/products/magic-bullet-looks/">Looks</a>	</li><li id="menu-item-14441" class="menu-item menu-item-type-post_type menu-item-object-product current-product-ancestor menu-item-14441"><a href="https://www.redgiant.com/products/magic-bullet-colorista/">Colorista</a>	</li><li id="menu-item-14442" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-14442"><a href="https://www.redgiant.com/products/magic-bullet-denoiser/">Denoiser</a>	</li><li id="menu-item-14443" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-14443"><a href="https://www.redgiant.com/products/magic-bullet-mojo/">Mojo</a>	</li><li id="menu-item-14444" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-14444"><a href="https://www.redgiant.com/products/magic-bullet-cosmo/">Cosmo</a>	</li><li id="menu-item-14445" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-14445"><a href="https://www.redgiant.com/products/magic-bullet-renoiser/">Renoiser</a>	</li><li id="menu-item-14446" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-14446"><a href="https://www.redgiant.com/products/magic-bullet-film/">Film</a></li></ul>
+<div class="storeDropdown icon-down-open"></div></li><li id="menu-item-283" class="ShooterC suiteCol menu-item menu-item-type-post_type menu-item-object-product menu-item-has-children menu-item-283"><a href="https://www.redgiant.com/products/shooter-suite/">Shooter Suite</a>
+<ul class="prodList list-unstyled">
+	<li id="menu-item-731" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-731"><a href="https://www.redgiant.com/products/pluraleyes/">Pluraleyes</a>	</li><li id="menu-item-217" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-217"><a href="https://www.redgiant.com/products/offload/">Offload</a>	</li><li id="menu-item-216" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-216"><a href="https://www.redgiant.com/products/instant-4k/">Instant 4K</a>	</li><li id="menu-item-215" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-215"><a href="https://www.redgiant.com/products/frames/">Frames</a></li></ul>
+<div class="storeDropdown icon-down-open"></div></li><li id="menu-item-282" class="EffectsC suiteCol menu-item menu-item-type-post_type menu-item-object-product menu-item-has-children menu-item-282"><a href="https://www.redgiant.com/products/effects-suite/">Effects Suite</a>
+<ul class="prodList list-unstyled">
+	<li id="menu-item-196" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-196"><a href="https://www.redgiant.com/products/knoll-light-factory/">Knoll Light Factory</a>	</li><li id="menu-item-193" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-193"><a href="https://www.redgiant.com/products/composite-wizard/">Composite Wizard</a>	</li><li id="menu-item-797" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-797"><a href="https://www.redgiant.com/products/toonit/">ToonIt</a>	</li><li id="menu-item-194" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-194"><a href="https://www.redgiant.com/products/holomatrix/">Holomatrix</a>	</li><li id="menu-item-195" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-195"><a href="https://www.redgiant.com/products/image-lounge/">Image Lounge</a>	</li><li id="menu-item-198" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-198"><a href="https://www.redgiant.com/products/psunami/">Psunami</a>	</li><li id="menu-item-947" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-947"><a href="https://www.redgiant.com/products/warp-effects/">Warp</a>	</li><li id="menu-item-199" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-199"><a href="https://www.redgiant.com/products/text-anarchy/">Text Anarchy</a>	</li><li id="menu-item-197" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-197"><a href="https://www.redgiant.com/products/planespace/">Planespace</a></li></ul>
+<div class="storeDropdown icon-down-open"></div></li><li id="menu-item-281" class="KeyingC suiteCol menu-item menu-item-type-post_type menu-item-object-product menu-item-has-children menu-item-281"><a href="https://www.redgiant.com/products/keying-suite/">Keying Suite</a>
+<ul class="prodList list-unstyled">
+	<li id="menu-item-205" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-205"><a href="https://www.redgiant.com/products/primatte-keyer/">Primatte Keyer</a>	</li><li id="menu-item-204" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-204"><a href="https://www.redgiant.com/products/key-correct/">Key Correct</a>	</li><li id="menu-item-948" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-948"><a href="https://www.redgiant.com/products/warp-keying/">Warp</a></li></ul>
+<div class="storeDropdown icon-down-open"></div></li><li id="menu-item-8528" class="UniverseC suiteCol ppr-rewrite menu-item menu-item-type-post_type menu-item-object-product menu-item-has-children menu-item-8528"><a href="/universe/">Universe</a>
+<ul class="prodList list-unstyled">
+	<li id="menu-item-12956" class="menu-item menu-item-type-post_type menu-item-object-universe_tool menu-item-12956"><a href="https://www.redgiant.com/universe-tools/vhs/">VHS</a>	</li><li id="menu-item-12959" class="menu-item menu-item-type-post_type menu-item-object-universe_tool menu-item-12959"><a href="https://www.redgiant.com/universe-tools/glitch/">Glitch</a>	</li><li id="menu-item-12957" class="menu-item menu-item-type-post_type menu-item-object-universe_tool menu-item-12957"><a href="https://www.redgiant.com/universe-tools/retrograde/">Retrograde</a>	</li><li id="menu-item-12951" class="menu-item menu-item-type-post_type menu-item-object-universe_tool menu-item-12951"><a href="https://www.redgiant.com/universe-tools/holomatrix/">Holomatrix II</a>	</li><li id="menu-item-12960" class="menu-item menu-item-type-post_type menu-item-object-universe_tool menu-item-12960"><a href="https://www.redgiant.com/universe-tools/knoll-light-factory-ez/">Knoll Light Factory EZ</a>	</li><li id="menu-item-12961" class="menu-item menu-item-type-post_type menu-item-object-universe_tool menu-item-12961"><a href="https://www.redgiant.com/universe-tools/overlight/">Overlight</a>	</li><li id="menu-item-12958" class="menu-item menu-item-type-post_type menu-item-object-universe_tool menu-item-12958"><a href="https://www.redgiant.com/universe-tools/carousel/">Carousel</a>	</li><li id="menu-item-12948" class="menu-item menu-item-type-post_type menu-item-object-universe_tool menu-item-12948"><a href="https://www.redgiant.com/universe-tools/hud-components/">HUD Components</a>	</li><li id="menu-item-12949" class="menu-item menu-item-type-post_type menu-item-object-universe_tool menu-item-12949"><a href="https://www.redgiant.com/universe-tools/logo-motion/">Logo Motion</a>	</li><li id="menu-item-12950" class="menu-item menu-item-type-post_type menu-item-object-universe_tool menu-item-12950"><a href="https://www.redgiant.com/universe-tools/line/">Line</a>	</li><li id="menu-item-13200" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13200"><a href="https://www.redgiant.com/universe/universe-tools/">More Tools</a></li></ul>
+<div class="storeDropdown icon-down-open"></div></li><li id="menu-item-9613" class="AutomaticC suiteCol menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9613"><a href="/products/automatic-duck/">Automatic Duck</a>
+<ul class="prodList list-unstyled">
+	<li id="menu-item-9615" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-9615"><a href="https://www.redgiant.com/products/automatic-duck-ximport-ae/">Ximport AE</a>	</li><li id="menu-item-9614" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-9614"><a href="https://www.redgiant.com/products/automatic-duck-media-copy/">Media Copy</a></li></ul>
+<div class="storeDropdown icon-down-open"></div></li></ul>
+								</div>
+								<hr>
+
+								<!-- HOST MENU -->
+								<div class="row">
+									<ul id="hostMenu" class="list-inline col-md-12">
+										<li class="sectCat">By Host:</li><li>
+													<a href="/products/?hostapp=after-effects"><img src="//cache.redgiant.com/_/img/host-icons/after-effects.png" width="20" height="20" alt="After Effects">After Effects
+													</a>
+												</li><li>
+													<a href="/products/?hostapp=premiere-pro"><img src="//cache.redgiant.com/_/img/host-icons/premiere-pro.png" width="20" height="20" alt="Premiere Pro">Premiere Pro
+													</a>
+												</li><li>
+													<a href="/products/?hostapp=final-cut-pro-x"><img src="//cache.redgiant.com/_/img/host-icons/final-cut-pro-x.png" width="20" height="20" alt="Final Cut Pro X">Final Cut Pro X
+													</a>
+												</li><li>
+													<a href="/products/?hostapp=avid"><img src="//cache.redgiant.com/_/img/host-icons/avid.png" width="20" height="20" alt="Avid">Avid
+													</a>
+												</li><li>
+													<a href="/products/?hostapp=final-cut-pro-7"><img src="//cache.redgiant.com/_/img/host-icons/final-cut-pro-7.png" width="20" height="20" alt="Final Cut Pro 7">Final Cut Pro 7
+													</a>
+												</li><li>
+											<a href="https://www.redgiant.com/wp-base/products/?hostapp=stand-alone">
+												Stand-Alone
+											</a>
+										</li><li><a href="/products">More</a></li>
+									</ul>
+								</div>
+								<hr>
+
+								<!-- PROFESSION MENU -->
+								<div class="row">
+									<ul id="professionMenu" class="list-inline col-md-12">
+										<li class="sectCat">Products For:</li><li><a href="/products/?focus=motion-graphics">Motion Graphics</a></li><li><a href="/products/?focus=editing">Editing</a></li><li><a href="/products/?focus=vfx-artists">VFX Artist</a></li><li><a href="/products/?focus=filmmaker">Filmmaker</a></li><li><a href="/products/?focus=color-correction">Color Correction</a></li><li><a href="/products/?focus=compositing">Compositing</a></li><li><a href="/products/?focus=featured-products">Featured Products</a></li></ul>
+									</div>
+									<hr>
+
+									<!-- OTHER MENU
+										<div class="row">
+											<ul id="otherMenu" class="list-inline col-md-12">
+												<li class="sectCat">Other:</li>
+												<li><a href="/store/guru-presets/">Guru Presets</a></li>
+												<li><a href="/store/academic/">Academic</a></li>
+												<li><a href="/store/free/">Free</a></li>
+												<li><a href="/store/other/">More <i class="icon-right-open"></i></a></li>
+											</ul>
+										</div>!-->
+
+									</li>
+								</ul></li>
+<li id="menu-item-237" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-237"><a href="/tutorials/">Tutorials</a></li>
+<li id="menu-item-238" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-238"><a href="/films/">Films</a></li>
+<li id="menu-item-239" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-239"><a href="/blog/">Blog</a></li>
+<li id="menu-item-240" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-240"><a href="/support/">Support</a></li>
+</ul>            </div><!-- /.nav-collapse -->
+        </div><!-- /.container -->
+    </div>
+
+    <div id="videoPlayer_container">
+  <div id="videoPlayer_wrapper">
+    <div class="videoPlayer_close">
+      <i class="icon-cancel-circled"></i>
+    </div>
+    <div class="videoPlayer_embed">
+
+    </div>
+  </div>
 </div>
- <div id="wrp">
 
-   <div class="bootstrap">
+<div class="greybg">
+  <div class="container company-panel">
+    <div class="row">
 
- <div class="navbar navbar-fixed-top navbar-inverse">
-   
-      
-   <div class="navbar-inner">
-     <div id="masthead">
-       <div class="container">
-        <div id="RGlogo"><a href="/"><img src="http://cache.redgiantsoftware.com/_assets_interface/images/navfooter/Red-Giant.gif" width="128" height="21" alt="Red Giant"></a></div>
-        <div id="tagline">Filmmaking &amp; Motion Graphics Software</div>
-        <div id="cartAccount">       
-          
-          <div id="cart_icon" class="log_buy log_click">
-                      <div id="cart_icon_count" class="cartIconCount"><span style="color:#666;">CART </span><span id="cartitemcount" class="number" style="color:#fff; float:none;">0 ITEMS</span><span style="float:right;padding-left:5px;"><img class="choose" src="http://cache.redgiantsoftware.com/_assets_interface/images/global/log_choose.png"></span></div>
-                      <div class="popNewDiv clearfix hidden" id="cart_popup"></div>
-           </div><!-- /cart_icon -->
-          
-          <div id="yourAccount" class="dropdown"> <a id="accountDrop" class="dropdown-toggle" href="/store/customer/products" data-toggle="dropdown" role="button">Your Account</a>
+      <!-- content !-->
+      <div class="col-xs-12 col-sm-8" id="company-content">
+        <div class="col-xs-12">
+          <h2 id="company-title">Legal</h2>
+          <ul id="company_menu"><li><a href="http://www.redgiant.com/store-terms-and-conditions/">Terms and Conditions</a></li>  <li><a href="http://www.redgiant.com/store-terms-and-conditions/copyright/">Copyright</a></li>
+  <li><a href="http://www.redgiant.com/store-terms-and-conditions/end-user-license-agreement/">End User License Agreement</a></li>
+  <li class="active"><a href="http://www.redgiant.com/store-terms-and-conditions/privacy-policy/">Privacy Policy</a></li>
+</ul>        </div>
+        <div class="col-xs-12" id="wysiwyg">
+                    <p class="p1">Red Giant collects both certain personal information and certain non-personal information. To the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information.&nbsp; Similarly, to the extent non-personal information is combined with personal information, we treat the combined information as personal information for purposes of the Red Giant Privacy Policy.</p>
+<p class="p3"><b>Collection of personal information</b></p>
+<p class="p1">&nbsp;As a visitor to this Site, you can engage in many activities without providing any personal information. In connection with other activities, such as placing orders or downloading software, Red Giant may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, Red Giant may ask that you provide us personal information, such as your first and last name, mailing address (including postal code), e-mail address, telephone and facsimile numbers, and other personal information. When ordering products on the Site, you will be asked to provide a credit card number. Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity.</p>
+<p class="p1">&nbsp;When you submit personal information to Red Giant through the Site, you understand and agree that this information may be transferred and stored across national boundaries.</p>
+<p class="p3"><b>&nbsp;How your personal information is used&nbsp;</b></p>
+<p class="p1">&nbsp;Red Giant collects your information in order to record and support your participation in the activities you select. &nbsp;When you register a product, for example, the information is used to register your rights, if any, to technical support or other benefits that may be made available to registered users. &nbsp;As another example, if you enter a contest, information is collected to qualify the entry and to contact you regarding the contest or prize awards. Your personal information is also used to track customer preferences and keep you informed about product upgrades, special offers, and other products and services of Red Giant as part of our newsletter service.</p>
+<p class="p1">&nbsp;Red Giant recognizes and appreciates the importance of responsible use of information collected on the Site. Red Giant may communicate information to you regarding products, services, and special offers available from Red Giant or selected third parties. &nbsp;Except in the particular circumstances described in this Privacy Policy, Red Giant will not provide your name to other companies or organizations without your consent.</p>
+<p class="p1">There are other instances in which Red Giant may divulge your personal information, such as where required by law, regulation, or litigation. We may also disclose information about you if we determine that such disclosure should be made for reasons of national security, law enforcement, or other issues of public importance.</p>
+<p class="p3"><b>Collection of non-personal information</b></p>
+<p class="p4"><span class="s2">The non-personal information that Red Giant collects consists of usage statistics and other analytics collected anonymously through our software applications and products</span>.&nbsp; For example, Red Giant may gather anonymous statistics about how particular products are being used through usage statistics features. Our purpose is to understand which parts of a product are used most, and which parts aren’t working as expected. The statistics collection <span class="s3">does not collect any personal information, or look at anything that isn’t related to that product.&nbsp;</span></p>
+<p class="p4"><span class="s3">Usage statistics collection </span>happens in the background and doesn’t require you to do a thing. Without any extra effort, you are helping us to build features and define what a product will do in future versions.</p>
+<p class="p6"><b>International Users</b></p>
+<p class="p4">Information you provide may be transferred or accessed by entities in the United States of America as described in this Privacy Policy. &nbsp; Red Giant abides by the “safe harbor” framework set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information collected by organizations of the European Economic Area and Switzerland.&nbsp; Learn more about the U.S. Department of Commerce Safe Harbor Program at http://export.gov/safeharbor/eu/eg_main_018476.asp.]</p>
+<p class="p4">Last Updated: April 19, 2013</p>
+<p class="p7"><b>Google Display Advertising</b></p>
+
+<ul class="ul1">
+	<li class="li9">Red Giant has implemented&nbsp;Google Analytics features&nbsp;based on Display Advertising including, Remarketing and&nbsp;Google Display Network Impression Reporting.</li>
+	<li class="li9">Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the&nbsp;<a href="https://www.google.com/settings/ads">Ads Settings</a>.</li>
+	<li class="li9">Red Giant uses Remarketing with Google Analytics to advertise online.</li>
+	<li class="li9">Third-party vendors, including Google, show Red Giant ads on sites across the Internet.</li>
+	<li class="li9">Red Giant and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone’s past visits to Red Giant’s website.</li>
+	<li class="li9">Red Giant and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to Red Giant’s site.</li>
+</ul>
+<p class="p3"><b>Protection of your personal information</b></p>
+<p class="p1">&nbsp;The personal information that you provide in connection with registering yourself as a user of Red Giant software products or services, testing a demonstration version of Red Giant&nbsp; products, or registering a Red Giant&nbsp; product is classified as Registration Information. Registration Information is only available to authorized Red Giant employees or contractors and are not publicly distributed.</p>
+<p class="p1">&nbsp;Please note that any information you post to a public bulletin board or chat room, such as the Red Giant Self Help Forum, is available to all persons accessing that site. The Red Giant forums hosted by Toolfarm.com&nbsp; or any other 3<sup>rd</sup> party have their own privacy policies which you should read before participating on those forums.</p>
+<p class="p3"><b>Privacy complaints</b></p>
+<p class="p1">&nbsp;Red Giant takes its users’ privacy concerns seriously. If you believe that Red Giant has not complied with this Online Privacy Policy with respect to your personal information, you may write the Red Giant corporate officers at our <a href="http://www.redgiantsoftware.com/company/contact-us/">company address</a>.</p>
+<p class="p1">&nbsp;In your letter, please describe in as much detail as possible the ways in which you believe that the Red Giant Online Privacy Policy has not been complied with. We will investigate your complaint promptly.</p>
+<p class="p1">&nbsp;Also, please note that Red Giant is not responsible for the content or privacy practices of non Red Giant websites to which this Site or any other Red Giant website may link. You should review the privacy policy of such sites before using the Red Giant sites or any of the Red Giant software.</p>
+<p class="p4">Last Updated: June 30, 2014</p>
+&nbsp;        </div>
+      </div>
+
+      <!-- sidebar !-->
+      <div class="col-xs-12 col-sm-4" id="company-sidebar">
+        
+
+<!-- Newsletter Signup !-->
+<div id="sidebar-newsletter" class="blog-panel">
+  <h1>Product updates &amp; special offers</h1>
+        <h4>Enter your email address to join our newsletter and keep up to date.</h4>
+        <form class="form-inline newlsetter-signup-form" role="form" id="newlsetter-signup-form">
+          <div class="form-group">            
+            <input type="email" class="form-control" id="signup-email" placeholder="email address">
+            <button type="submit" class="btn btn-default">
+<span class="hidden-lg hidden-md visible-sm-inline-block hidden-xs">Sign Up</span>
+<i class="icon-right-open"></i></button>
           </div>
-          
+          <div class="row">
+            <div class="col-xs-12" id="newsletter-email-result">
+            </div>
+          </div>
+        </form>
+<!--        <p class="qualifying">*Offer valid on full-price items only.<br>
+          Must be a new email subscriber.</p>--></div>
+
+<!-- Ad !-->
+
+      <a href="/products">
+    <figure class="ad  ">
+        <picture>
+             <!--[if IE 9]><video style="display: none;"><![endif]-->
+             <source srcset="http://cache.redgiant.com/wp-assets/2016/11/22160353/YES2016-Teaser-General.gif" media="(max-width: 1199px)">
+             <source srcset="http://cache.redgiant.com/wp-assets/2016/11/22160353/YES2016-Teaser-General.gif" media="(max-width: 991px)">
+             <source srcset="http://cache.redgiant.com/wp-assets/2016/11/22160353/YES2016-Teaser-General.gif" media="(max-width: 767px)">
+             <!--[if IE 9]></video><![endif]-->
+             <img class="img-responsive" srcset="http://cache.redgiant.com/wp-assets/2016/11/22160353/YES2016-Teaser-General.gif" alt="Red Giant Year End Sale 2016 - 40 Percent Off Everything">
+        </picture>
+        <figcaption>
+            <span class="sr-only">Red Giant Year End Sale 2016 - 40 Percent Off Everything</span>
+        
+    </figcaption></figure></a>    
+</div>
+      </div>
+    </div>
+  </div>
+
+
+<div class="container-fluid" id="footer-new">
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 col-md-push-6 col-sm-12">
+          <div id="socialSignup">
+            <ul class="social" style="font-size:32px; list-style:none; margin:0; padding: 0 8px 0 0;">
+              <li style="display:inline-block; padding:0 !important; margin:0 !important; width:32px;"><a style="color:#fff;" title="" data-toggle="tooltip" href="https://twitter.com/RedGiantNews" data-original-title="Twitter" target="_blank"><i class="icon-twitter"></i></a></li>
+              <li style="display:inline-block; padding:0 !important; margin:0 !important; width:32px;"><a style="color:#fff;" title="" data-toggle="tooltip" href="https://www.facebook.com/RedGiantSoftware" data-original-title="Facebook" target="_blank"><i class="icon-facebook"></i> </a></li>
+              <li style="display:inline-block; padding:0 !important; margin:0 !important; width:32px;"><a style="color:#fff;" title="" data-toggle="tooltip" href="https://www.youtube.com/user/watchredgiantfilms" data-original-title="Youtube" target="_blank"><i class="icon-youtube"></i></a></li>
+              <li style="display:inline-block; padding:0 !important; margin:0 !important; width:32px;"><a href="https://instagram.com/redgiantnews" style="color:#fff;" data-toggle="tooltip" title="" data-original-title="Instagram"><i class="icon-instagram"></i></a></li>
+            </ul>
+            <form class="form-inline newlsetter-signup-form" role="form" id="newlsetter-signup-form">
+              <div class="form-group" style="width:200px; margin:auto;">
+                <input spellcheck="false" type="email" class="form-control" id="signup-email" placeholder="GET EMAIL UPDATES">
+                <button type="submit" class="btn btn-default">
+                  <i class="icon-right-open"></i>
+                </button>
+              </div>
+              <div>
+                <div class="col-xs-12" id="newsletter-email-result">
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+        <div class="col-md-6 col-md-pull-6 col-sm-12">
+          <ul id="footer_nav" class="list-inline footerNav">
+            <li id="menu-item-1388" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1388"><a href="/products/">Products</a></li>
+            <li id="menu-item-1389" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1389"><a href="/tutorials/">Tutorials</a></li>
+            <li id="menu-item-1390" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1390"><a href="/films/">Films</a></li>
+            <li id="menu-item-1391" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1391"><a href="/blog/">Blog</a></li>
+            <li id="menu-item-1392" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1392"><a href="/support/">Support</a></li>
+            <li id="menu-item-1393" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1393"><a href="/store/session/loginOrRegister">Sign In</a></li>
+            <li id="menu-item-1394" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1394"><a href="/company/">Company</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="row">
+       <div class="col-lg-12">
+        <div class="copyright">
+          <span>© 2002-2016 Red Giant LLC. All rights reserved.</span>
+          <ul class="list-inline">
+            <li><a href="/store-terms-and-conditions/">Legal</a></li>
+            <li><a href="/store-terms-and-conditions/privacy-policy/">Privacy Policy</a></li>
+          </ul>
+        </div>
         </div>
       </div>
     </div>
-    <div class="container">
-      <div class="nav-collapse">
-        <ul class="nav">
-          <li class="dropdown" id="suitesMenu"> <a href="/products/suites/#list" class="dropdown-toggle topNav topNav1 disabled" data-toggle="dropdown">Suites</a>
-            <ul class="dropdown-menu">
-                  <li>
-                    <div class="row-fluid-5" style="width: 940px;">
-                    <div id="filmSet1"><!--<a href="http://www.redgiant.com/filmmaking">-->FILMMAKING<!--</a>--></div>
-                    <div id="motionSet1"><!--<a href="http://www.redgiant.com/motiongraphics">-->MOTION GRAPHICS<!--</a>--></div>
-                      <ul class="unstyled span2 suiteCol">
-                        <a href="/products/all/color-suite/"> <img src="http://cache.redgiantsoftware.com/_assets_interface/images/navfooter/Color-Suite2.jpg" width="140" height="186" alt="Color Suite"> <span class="navTitle">Color
-                        Suite</span><br>
-                        <span class="navDesc">Essential tools for color correction, finishing &amp; looks</span> </a>
-                      </ul>
-                      <ul class="unstyled span2 suiteCol">
-                        <a href="/products/all/shooter-suite/"> <img src="http://cache.redgiantsoftware.com/_assets_interface/images/navfooter/Shooter-Suite2.jpg" width="140" height="186" alt="Shooter Suite"> <span class="navTitle">Shooter
-                        Suite</span><br>
-                        <span class="navDesc">Footage prep &amp; delivery tools for the shoot and the timeline</span> </a>
-                      </ul>
-                      <ul class="unstyled span2 suiteCol suiteDivider">
-                        <a href="/products/all/keying-suite/"> <img src="http://cache.redgiantsoftware.com/_assets_interface/images/navfooter/Keying-Suite2.jpg" width="140" height="186" alt="Keying Suite"> <span class="navTitle">Keying
-                        Suite</span><br>
-                        <span class="navDesc">The complete, seamless solution from key to composite</span> </a>
-                      </ul>
-                      <ul class="unstyled span2 suiteCol">
-                        <a href="/products/all/trapcode-suite/"> <img src="http://cache.redgiantsoftware.com/_assets_interface/images/navfooter/Trapcode-Suite2.jpg" width="140" height="186" alt="Trapcode Suite"> <span class="navTitle">Trapcode
-                        Suite</span><br>
-                        <span class="navDesc">The industry standard package for broadcast &amp; 3D design</span> </a>
-                      </ul>
-                      <ul class="unstyled span2 suiteCol">
-                        <a href="/products/all/effects-suite/" class="suiteCol"> <img src="http://cache.redgiantsoftware.com/_assets_interface/images/navfooter/Effects-Suite2.jpg" width="140" height="186" alt="Effects Suite"> <span class="navTitle">Effects
-                        Suite</span><br>
-                        <span class="navDesc">Creative effects &amp; flares with a truly professional appeal</span> </a>
-                      </ul>
-                  </div></li>
-                </ul>
-            </li>
-        <li class="dropdown" id="productsMenu"> <a href="/products/" class="dropdown-toggle topNav disabled" data-toggle="dropdown">Products</a>
-          <ul class="dropdown-menu">
-        <li>
-          <div class="row-fluid-5" style="width: 940px;">
-            <div id="filmSet"><!--<a href="http://www.redgiant.com/filmmaking">-->FILMMAKING<!--</a>--></div>
-            <div id="motionSet"><!--<a href="http://www.redgiant.com/motiongraphics">-->MOTION GRAPHICS<!--</a>--></div>
-            <div id="otherSet">&nbsp;<!--<a href="#">SEARCH OPTIONS</a>--></div>
-            <ul class="unstyled pC1 suiteCol">
-              <span class="navTitle"><a href="/products/all/color-suite/">Color Suite</a></span><br>
-              <span class="navDesc">
-              <ul>
-                <li><a href="/products/all/magic-bullet-looks/">Magic Bullet Looks</a></li>
-                <li><a href="/products/all/colorista-II/">Colorista II</a></li>
-                <li><a href="/products/all/denoiser-II/">Denoiser II</a></li>
-                <li><a href="/products/all/mojo/">Mojo</a></li>
-                <li><a href="/products/all/cosmo/">Cosmo</a></li>
-                <li><a href="/products/all/lut-buddy/">LUT Buddy</a></li>
-              </ul>
-              </span>
-            </ul>
-            <ul class="unstyled pC2 suiteCol">
-              <span class="navTitle"><a href="/products/all/shooter-suite/">Shooter Suite</a></span><br>
-              <span class="navDesc">
-              <ul>
-                <li><a href="/products/all/pluraleyes/">PluralEyes</a></li>
-                <li><a href="/products/all/offload/">Offload</a></li>
-                <li><a href="/products/all/denoiser-II/">Denoiser II</a></li>
-                <li><a href="/products/all/instant-4k/">Instant 4K</a></li>
-                <li><a href="/products/all/bulletproof/">BulletProof</a></li>
-                <li><a href="/products/all/frames/">Frames</a></li>
-                <li><a href="/products/all/lut-buddy/">LUT Buddy</a></li>
-              </ul>
-              </span>
-            </ul>
-            <ul class="unstyled pC3 suiteCol">
-              <span class="navTitle"><a href="/products/all/keying-suite/">Keying Suite</a></span><br>
-              <span class="navDesc">
-              <ul>
-                <li><a href="/products/all/primatte-keyer/">Primatte Keyer</a></li>
-                <li><a href="/products/all/key-correct/">Key Correct</a></li>
-                <li><a href="/products/all/rgwarp/">Warp</a></li>
-              </ul>
-              </span>
-            </ul>
-            <ul class="unstyled pC4 suiteCol">
-              <span class="navTitle"><a href="/products/all/trapcode-suite/">Trapcode Suite</a></span><br>
-              <span class="navDesc">
-              <ul>
-                <li><a href="/products/all/trapcode-particular/">Particular</a></li>
-                <li><a href="/products/all/trapcode-form/">Form</a></li>
-                <li><a href="/products/all/trapcode-shine/">Shine</a></li>
-                <li><a href="/products/all/trapcode-3d-stroke/">3D Stroke</a></li>
-                <li><a href="/products/all/trapcode-starglow/">Starglow</a></li>
-                <li><a href="/products/all/trapcode-mir/">Mir</a></li>
-                <li><a href="/products/all/trapcode-lux/">Lux</a></li>
-                <li><a href="/products/all/trapcode-sound-keys/">Sound Keys</a></li>
-                <li><a href="/products/all/trapcode-horizon/">Horizon</a></li>
-                <li><a href="/products/all/trapcode-echospace/">Echospace</a></li>
-              </ul>
-              </span>
-            </ul>
-            <ul class="unstyled pC5 suiteCol">
-              <span class="navTitle"><a href="/products/all/effects-suite/">Effects Suite</a></span><br>
-              <span class="navDesc">
-              <ul>
-                <li><a href="/products/all/knoll-light-factory/">Knoll Light Factory</a></li>
-                <li><a href="/products/all/composite-wizard/">Composite Wizard</a></li>
-                <li><a href="/products/all/toonit/">ToonIt</a></li>
-                <li><a href="/products/all/holomatrix/">Holomatrix</a></li>
-                <li><a href="/products/all/image-lounge/">Image Lounge</a></li>
-                <li><a href="/products/all/psunami/">Psunami</a></li>
-                <li><a href="/products/all/rgwarp/">Warp</a></li>
-                <li><a href="/products/all/text-anarchy/">Text Anarchy</a></li>
-                <li><a href="/products/all/planespace/">PlaneSpace</a></li>
-              </ul>
-              </span>
-            </ul>
-            <ul class="unstyled pC6 suiteCol">
-              <span class="navTitle"><!--<a href="#">-->Other Products<!--</a>--></span><br>
-              <span class="navDesc">
-              <ul>
-                <li><a href="/products/all/knoll-light-factory-ps/">Knoll Light Factory for Photoshop</a></li>
-                <li><a href="/products/all/magic-bullet-photo-looks/">Magic Bullet PhotoLooks</a></li>
-                <li><a href="/products/all/quicklooks/">Magic Bullet Quick Looks</a></li>
-                <li><a href="/products/all/presto/">Presto</a></li>
-                <!--<li class="navParent navSection"><a href="#">Most Popular</a></li>-->
-                <li class="navParent navSection"><a href="/products/guru-presets/#list">Guru Presets</a></li>
-                <li class="navParent"><a href="/products/academic/#list">Academic</a></li>
-                <li class="navParent"><a href="/products/mobile/#list">iOS Apps</a></li>
-                <li class="navParent"><a href="/products/free/#list">Free Products</a></li>
-                <li class="navParent">&nbsp;</li>
-                <li class="navParent"><a href="/products/landing/">All Products</a></li>
-              </ul>
-              </span>
-            </ul>
-            <ul class="unstyled pC7 suiteCol">
-              <span class="navTitle"><!--<a href="#">-->Categories<!--</a>--></span><br>
-              <span class="navDesc">
-              <ul>
-                <li><a href="/products/host/adobe-after-effects/#list">After Effects</a></li>
-                <li><a href="/products/host/adobe-premiere-pro/#list">Premiere Pro</a></li>
-                <li><a href="/products/host/apple-final-cut/#list">Final Cut Pro</a></li>
-                <li><a href="/products/host/avid-systems/#list">Avid</a></li>
-                <li><a href="/products/cat/filmmaking/#list">Filmmaking</a></li>
-                <li><a href="/products/cat/color-correction/#list">Color Correction</a></li>
-                <li><a href="/products/cat/motion-graphics/#list">Motion Graphics</a></li>
-                <li><a href="/products/cat/special-effects/#list">Special Effects</a></li>
-                <li><a href="/products/cat/keying/#list">Keying</a></li>
-              </ul>
-              </span>
-            </ul>
-          </div>
-        </li>
-        </ul>
-        </li>
-        <li class="dropdown univMenu" id="universeMenu"> 
-            <a href="/store/universe/" class="dropdown-toggle topNav disabled" data-toggle="dropdown">Universe</a>
-           <ul class="dropdown-menu">
-              <li>
-                <div id="uMenuInner" class="row-fluid">
-                    <ul class="unstyled uC1 suiteCol">
-                      <span class="navDesc">
-                      <ul>
-                        <li>A community with access to an ever-expanding library of new FREE tools for filmmakers, editors, VFX artists, &amp; motion designers.</li>
-                      </ul>
-                      </span>
-                    </ul>
-                    <ul class="unstyled uC2 suiteCol">
-                      <span class="navDesc">
-                      <ul>
-                        <li><a href="/store/universe/">Overview</a></li>
-                        <li><a href="/store/universe/whatsNew">What's New</a></li>
-                        <li><a href="/store/universe/gallery">Tools</a></li>
-                        <li><a href="/store/universe/labs">Labs</a></li>
-                        <li><a href="/store/universe/pricing#FAQ">FAQ</a></li>
-                        <li><a href="/store/universe/pricing">Pricing</a></li>
-                      </ul>
-                      </span>
-                    </ul>
-                </div>
-                </li>
-            </ul>
-        </li>
-        <li id="tutorialsMenu"><a href="/videos/" class="topNav">Tutorials</a></li>
-        <li id="filmsMenu"><a href="http://www.youtube.com/watchredgiantfilms" target="_blank" class="topNav">Films</a></li>
-        <li id="blogMenu"><a href="/blog/" class="topNav">Blog</a></li>
-        <li id="supportMenu" class="dropdown supportDD"> <a href="/support/" class="dropdown-toggle topNav disabled" data-toggle="dropdown">Support</a>
-          <ul class="dropdown-menu">
-            <li id="supportHome"><a href="/support/">Product FAQs</a></li>
-            <li><a href="https://support.redgiant.com/forums">Forums</a></li>
-            <li><a href="/support/compatibility/host-applications/">Tech Specs</a></li>
-            <li><a href="/product-downloads/">Downloads</a></li>
-            <li><a href="/support/general/documentation/">User Guides</a></li>
-            <li><a href="/videos/">Tutorials</a></li>
-            <li><a href="/store/support/submitTicket">Open a Support Ticket</a></li>
-            <li><a href="/store/support/tickets">Your Support Tickets</a></li>
-            <li><a href="/company/contact-us/">Contact Us</a></li>
-          </ul>
-        </li>
-        </ul>
-        <form class="navbar-search pull-right" action="/results.php" id="cse-search-box">
-          <input type="hidden" name="cx" value="015942088189752218274:xfchbiuznso">
-          <input type="hidden" name="cof" value="FORID:11;NB:1">
-          <input type="hidden" name="ie" value="UTF-8">
-          <input type="text" name="q" class="search-query span2" placeholder="Search">
-        </form>
-      </div>
-      <!-- /.nav-collapse -->
-    </div>
-    <!-- /.container -->
-  </div>
-  <!-- /.navbar-inner -->
-</div>
-<!-- /.navbar -->
-</div> <!-- /.bootstrap -->
-   <div id="container" class="productNew">
-     <!--START: RG Search Crawler-->
-     <div class="content proCon">
-	   <div class="skin">
-	     <div class="hd secondHd clearfix">
-		   <ul class="clearfix">
-			 <li class="faqTit">Buyers Guide</li>
-			 <li class="lastRight"><a href="/support/">Back to Support</a></li>
-		   </ul>
-		 </div><!-- /hd -->
-		 <div class="bd">
-		   <div class="bgTop"></div><!-- /bgTop -->
-		   <div class="hd textConTit faqTitle">
-             <ul class="hd textConTit faqTitle clearfix">
-			   <li>Privacy Policy</li>
-			   <li class="lastRightTwo"><a href="/support/buyers-guide/">Back to Buyers Guide</a></li>
-		     </ul>
-		   </div><!-- /hd -->
-		    <div class="moreInfoTextNew">
-			 <p>&nbsp;</p>
-<p class="p1">Red Giant collects both certain personal information and certain non-personal information. To the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information.&nbsp; Similarly, to the extent non-personal information is combined with personal information, we treat the combined information as personal information for purposes of the Red Giant Privacy Policy.</p>
-<p class="p2">&nbsp;</p>
-<p class="p3"><span id="redtextlarge">Collection of personal information</span></p>
-<p class="p3">&nbsp;</p>
-<p class="p1">&nbsp;As a visitor to this Site, you can engage in many activities without providing any personal information. In connection with other activities, such as placing orders or downloading software, Red Giant may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, Red Giant may ask that you provide us personal information, such as your first and last name, mailing address (including postal code), e-mail address, telephone and facsimile numbers, and other personal information. When ordering products on the Site, you will be asked to provide a credit card number. Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity.</p>
-<p class="p1">&nbsp;</p>
-<p class="p1">&nbsp;When you submit personal information to Red Giant through the Site, you understand and agree that this information may be transferred and stored across national boundaries.</p>
-<p class="p2">&nbsp;</p>
-<p class="p3"><span id="redtextlarge">&nbsp;How your personal information is used&nbsp;</span></p>
-<p class="p3">&nbsp;</p>
-<p class="p1">&nbsp;Red Giant collects your information in order to record and support your participation in the activities you select. &nbsp;When you register a product, for example, the information is used to register your rights, if any, to technical support or other benefits that may be made available to registered users. &nbsp;As another example, if you enter a contest, information is collected to qualify the entry and to contact you regarding the contest or prize awards. Your personal information is also used to track customer preferences and keep you informed about product upgrades, special offers, and other products and services of Red Giant as part of our newsletter service.</p>
-<p class="p1">&nbsp;</p>
-<p class="p1">&nbsp;Red Giant recognizes and appreciates the importance of responsible use of information collected on the Site. Red Giant may communicate information to you regarding products, services, and special offers available from Red Giant or selected third parties. &nbsp;Except in the particular circumstances described in this Privacy Policy, Red Giant will not provide your name to other companies or organizations without your consent.</p>
-<p class="p1">&nbsp;</p>
-<p class="p1">There are other instances in which Red Giant may divulge your personal information, such as where required by law, regulation, or litigation. We may also disclose information about you if we determine that such disclosure should be made for reasons of national security, law enforcement, or other issues of public importance.</p>
-<p class="p2">&nbsp;</p>
-<p class="p3"><span id="redtextlarge">Collection of non-personal information</span></p>
-<p class="p3">&nbsp;</p>
-<p class="p4"><span class="s2">The non-personal information that Red Giant collects consists of usage statistics and other analytics collected anonymously through our software applications and products</span>.&nbsp; For example, Red Giant may gather anonymous statistics about how particular products are being used through usage statistics features. Our purpose is to understand which parts of a product are used most, and which parts aren’t working as expected. The statistics collection <span class="s3">does not collect any personal information, or look at anything that isn’t related to that product.&nbsp;</span></p>
-<p class="p4"><br>
-<span class="s3">Usage statistics collection </span>happens in the background and doesn’t require you to do a thing. Without any extra effort, you are helping us to build features and define what a product will do in future versions.</p>
-<p class="p5">&nbsp;</p>
-<p class="p5">&nbsp;</p>
-<p class="p6"><span id="redtextlarge">International Users</span></p>
-<p class="p5">&nbsp;</p>
-<p class="p4">Information you provide may be transferred or accessed by entities in the United States of America as described in this Privacy Policy. &nbsp; Red Giant abides by the “safe harbor” framework set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information collected by organizations of the European Economic Area and Switzerland.&nbsp; Learn more about the U.S. Department of Commerce Safe Harbor Program at http://export.gov/safeharbor/eu/eg_main_018476.asp.]</p>
-<p class="p5">&nbsp;</p>
-<p class="p4">Last Updated: April 19, 2013</p>
-<p class="p5">&nbsp;</p>
-<p class="p5">&nbsp;</p>
-<p class="p7"><span id="redtextlarge">Google Display Advertising</span></p>
-<p class="p8">&nbsp;</p>
-<ul class="ul1">
-    <li class="li9">Red Giant has implemented&nbsp;Google Analytics features&nbsp;based on Display Advertising including, Remarketing and&nbsp;Google Display Network Impression Reporting.</li>
-    <li class="li9">Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the&nbsp;<a href="https://www.google.com/settings/ads">Ads Settings</a>.</li>
-    <li class="li9">Red Giant uses Remarketing with Google Analytics to advertise online.</li>
-    <li class="li9">Third-party vendors, including Google, show Red Giant ads on sites across the Internet.</li>
-    <li class="li9">Red Giant and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to Red Giant's website.</li>
-    <li class="li9">Red Giant and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to Red Giant's site.</li>
-</ul>
-<p class="p10">&nbsp;</p>
-<p class="p3"><span id="redtextlarge">Protection of your personal information</span></p>
-<p class="p3">&nbsp;</p>
-<p class="p1">&nbsp;The personal information that you provide in connection with registering yourself as a user of Red Giant software products or services, testing a demonstration version of Red Giant&nbsp; products, or registering a Red Giant&nbsp; product is classified as Registration Information. Registration Information is only available to authorized Red Giant employees or contractors and are not publicly distributed.</p>
-<p class="p1">&nbsp;</p>
-<p class="p1">&nbsp;Please note that any information you post to a public bulletin board or chat room, such as the Red Giant Self Help Forum, is available to all persons accessing that site. The Red Giant forums hosted by Toolfarm.com&nbsp; or any other 3<sup>rd</sup> party have their own privacy policies which you should read before participating on those forums.</p>
-<p class="p2">&nbsp;</p>
-<p class="p3"><span id="redtextlarge">Privacy complaints</span></p>
-<p class="p3">&nbsp;</p>
-<p class="p1">&nbsp;Red Giant takes its users' privacy concerns seriously. If you believe that Red Giant has not complied with this Online Privacy Policy with respect to your personal information, you may write the Red Giant corporate officers at our <a href="http://www.redgiantsoftware.com/company/contact-us/">company address</a>.</p>
-<p class="p1">&nbsp;</p>
-<p class="p1">&nbsp;In your letter, please describe in as much detail as possible the ways in which you believe that the Red Giant Online Privacy Policy has not been complied with. We will investigate your complaint promptly.</p>
-<p class="p1">&nbsp;</p>
-<p class="p1">&nbsp;Also, please note that Red Giant is not responsible for the content or privacy practices of non Red Giant websites to which this Site or any other Red Giant website may link. You should review the privacy policy of such sites before using the Red Giant sites or any of the Red Giant software.</p>
-<p class="p1">&nbsp;</p>
-<p class="p4">Last Updated: June 30, 2014</p>             <p>&nbsp;</p>
-		   </div>
-		   <div class="bgBottom"></div><!-- /bgBottom -->
-		 </div><!-- /bd -->
-	   </div><!-- /skin -->
-	 </div><!-- /content -->
-	 <!--END: RG Search Crawler-->
-	 <div class="sideR sideSu">
-
-	          <div class="skin">
-	     <div class="hd">
-		   <h2>Contact Us</h2>
-		 </div><!-- /hd -->
-		 <div class="cUs">
-		   <p>To reach us, please click any of the department links below.</p>
-           <ul>
-		     <li><a href="/company/contact-us/sales/">Sales</a></li> 
-			 <li><a href="/company/contact-us/support/">Support</a></li> 
-			 <li><a href="/company/contact-us/billing-invoices/">Billing &amp; Invoices</a></li> 
-		   </ul>
-		 </div><!-- /cUs -->
-		 <div class="bgBottom"></div><!-- /bgBottom -->
-	   </div><!-- /skin -->              <div class="skin">
-	     <div class="hd">
-		   <h2><a href="/support/buyers-guide/">Buyers Guide</a></h2>
-		 </div><!-- /hd -->
-		 <div class="cUs">
-		   <ul>
-		    <li><a href="/support/buyers-guide/academic-pricing/">Academic Pricing</a></li><li><a href="/support/buyers-guide/copyright/">Copyright</a></li><li><a href="/support/buyers-guide/eula/">End User License Agreement</a></li><li><a href="/support/buyers-guide/pre-sales-faqs/">Pre-Sales FAQs</a></li><li><a href="/support/buyers-guide/pricing-purchasing/">Pricing &amp; Purchasing</a></li><li><a href="/support/buyers-guide/privacy-policy/">Privacy Policy</a></li><li><a href="/support/buyers-guide/renderfarm-policy/">Render Only Policy</a></li><li><a href="/support/buyers-guide/reseller-programs/">Reseller Programs</a></li><li><a href="/support/buyers-guide/return-policy/">Return Policy</a></li><li><a href="/support/buyers-guide/store-terms-and-conditions/">Store Terms and Conditions</a></li><li><a href="/support/buyers-guide/upgrading/">Upgrades &amp; Updates</a></li><li><a href="/support/buyers-guide/volume-license-program/">Volume License Program</a></li>		   </ul>
-		 </div><!-- /cUs -->
-		 <div class="bgBottom"></div><!-- /bgBottom -->
-	   </div><!-- /skin -->
-	 </div><!-- /sideR -->
-   </div><!-- /container -->
-
-   <div class="crumb">
-     <ul>
-	   <li class="home"><a href="/index.php">Home</a></li>
-	   <li class="block1"><a href="/support/">Support</a></li>
-       <li class="block"><a href="/support/buyers-guide/">Buyers Guide</a></li>
-	   <li class="crumbNow"><a href="javascript:void(0);">Privacy Policy</a></li>
-	 </ul>
-   </div><!-- /crumb -->
-
-   <div class="bootstrap"> 
- <div id="footerNew" class="container">
-  <div class="row-fluid">
-    <div id="fC1">
-      <h2>Connect</h2>
-      <ul>
-        <li><a id="footerfacebooklink" href="http://www.facebook.com/RedGiantSoftware" target="_blank">Facebook</a></li>
-        <li><a id="footertwitterlink" href="http://twitter.com/RedGiantNews" target="_blank">Twitter</a></li>
-        <li><a id="footerredroombloglink" href="http://www.redgiant.com/blog/feed/">Red Room Blog</a></li>
-        <li><a id="footerrgtvrsslink" href="http://www.redgiant.com/videos/redgianttv/feed/">Red Giant TV</a></li>
-        <li><a id="sendtofriendlink" href="javascript:void(0);">Share</a></li>
-      </ul>
-    </div>
-    <div id="fC2">
-      <h2>Downloads</h2>
-      <ul>
-        <li><a id="footerdownloadsfreelink" href="/downloads/free-products/">Free</a></li>
-        <li><a id="footerdownloadstriallink" href="/downloads/trial-versions/">Trial</a></li>
-        <li><a id="footerdownloadsupdateslink" href="/downloads/updates/">Updates</a></li>
-        <li><a id="footerdownloadslegacylink" href="/downloads/legacy-versions/">Legacy</a></li>
-      </ul>
-    </div>
-    <div id="fC3">
-      <h2>Support</h2>
-      <ul>
-        <li><a id="footersupportfaqslink" href="/support">Product FAQs</a></li>
-        <li><a id="footersupportforumslink" href="https://support.redgiant.com/forums">Forums</a></li>
-        <li><a id="footersupportcontactlink" href="/company/contact-us/support/">Contact</a></li>
-      </ul>
-    </div>
-    <div id="fC4">
-      <h2>About</h2>
-      <ul>
-        <li><a id="footeraboutredgiantlink" href="/company/">Red Giant</a></li>
-        <li><a id="footeraboutsaleslink" href="/company/contact-us/sales/">Contact Sales</a></li>
-        <li><a id="footeraboutbillinglink" href="/company/contact-us/billing-invoices/">Contact Billing</a></li>
-      </ul>
-    </div>
-    <div id="fC5">
-      <h2>News</h2>
-      <ul>
-        <li><a id="footernewsstorieslink" href="/news/stories/">User Stories</a></li>
-        <li><a id="footernewspresslink" href="/news/press-releases/">Press Releases</a></li>
-        <li><a id="footernewsreviewslink" href="/news/reviews-awards/">Reviews</a></li>
-        <li><a id="footernewsfeaturedlink" href="/news/">Featured News</a></li>
-      </ul>
-    </div>
-    <div id="fC6">
-      <h2>Join</h2>
-      <p>Subscribe to our newletter and special offers.</p>
-      <form id="subscription">
-        <input type="text" style="display: none;">
-        <input type="text" placeholder="Your Email" id="footer-email" name="footer-email">
-        <button type="button" class="btn" id="footer-subscribe-signup">Subscribe</button>
-      </form>
-      <p><span id="footer-email-result"></span></p>
-          </div>
-  </div>
-  <hr>
-  <footer>
-    <p>© 2002-2014 Red Giant LLC. All rights reserved. | <a id="footercopyrightlink" href="/support/buyers-guide/copyright/">Copyright</a> | <a id="footerprivacylink" href="/support/buyers-guide/privacy-policy/">Privacy</a> | <a id="footertermslink" href="/support/buyers-guide/store-terms-and-conditions/">Terms &amp; Conditions</a></p>
   </footer>
 </div>
-</div>
-
-<div id="grabBag" class="hidden">
-   	<div class="loadingMessage">
-    	  <div class="loginOverlay loadingOverlay"><img style="padding-bottom:2px;" alt="" src="http://cache.redgiantsoftware.com/_assets_interface/images/products/loading.gif" id="load_popup_image"><span id="load_popup_copy">LOADING</span></div>
+<!-- Login Modal -->
+<div class="modal modal-md fade" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="loginModal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="myModalLabel">Login to RedGiant.com</h4>
+            </div>
+            <div class="modal-body"></div>
         </div>
+    </div>
 </div>
- </div><!-- /wrp -->
-<script type="text/javascript">
- 
-//JQ(document).ready(function() {
-$(function() {
 
-// ----------------------------------------------------------
-// A short snippet for detecting versions of IE in JavaScript
-// without resorting to user-agent sniffing
-// ----------------------------------------------------------
-// If you're not in IE (or IE version is less than 5) then:
-//     ie === undefined
-// If you're in IE (>=5) then you can determine which version:
-//     ie === 7; // IE7
-// Thus, to detect IE:
-//     if (ie) {}
-// And to detect the version:
-//     ie === 6 // IE6
-//     ie > 7 // IE8, IE9 ...
-//     ie < 9 // Anything less than IE9
-// ----------------------------------------------------------
-var ie = (function(){
-    var undef,
-        v = 3,
-        div = document.createElement('div'),
-        all = div.getElementsByTagName('i');
-    while (
-        div.innerHTML = '<!--[if gt IE ' + (++v) + ']><i></i><![endif]-->',
-        all[0]
-    );
-    return v > 4 ? v : undef;
-}());
-
-	JQ('#cart_icon').hover(
-		function() {
-    		JQ('#cart_popup').removeClass("hidden");
-    		//alert('show');
-		},
- 		function(){
-    		JQ('#cart_popup').addClass("hidden");
- 		}
-	);
-	
-
-JQ("#footer-subscribe-signup").click(function() {
-    
-    JQ("#footer-subscribe-signup").attr('disabled','disabled');
-    JQ("#footer-email-result").show();
-    JQ("#footer-email-result").html('Submitting. Please wait...');
-    
-    JQ.ajax({
-      async: false,
-      url: "/newsletter-subscribe.php?footeremail="+JQ('#footer-email').val(),
-      success: function(result){
-          JQ("#footer-subscribe-signup").removeAttr('disabled');
-          JQ('#footer-email-result').html(result);
-          if(result!='Email is invalid or blank. Please complete and try again.'){
-          	JQ('#footer-email').val('');
-          	_gaq.push(['_trackEvent', 'Footer', 'Subscribe Button Click (Success)', pageURL]);
-          } else {
-         	_gaq.push(['_trackEvent', 'Footer', 'Subscribe Button Click (Error)', pageURL]);
-         } 
-      },
-      error:function(){
-          JQ("#footer-subscribe-signup").removeAttr('disabled');
-          JQ('#footer-email-result').html('Email is invalid or blank. Please complete and try again.');
-          _gaq.push(['_trackEvent', 'Footer', 'Subscribe Button Click (Error)', pageURL]);
-      }   
-    }); 
-    
-});
-
-JQ('#footer-email').bind("enterKey",function(e){
-		JQ("#footer-subscribe-signup").attr('disabled','disabled');
-    		JQ("#footer-email-result").show();
-    		JQ("#footer-email-result").html('Submitting. Please wait...');
-    
-    		JQ.ajax({
-      			async: false,
-      			url: "/newsletter-subscribe.php?footeremail="+JQ('#footer-email').val(),
-      			success: function(result){
-          			JQ("#footer-subscribe-signup").removeAttr('disabled');
-          			JQ('#footer-email-result').html(result);
-          			if(result!='Email is invalid or blank. Please complete and try again.'){
-          				JQ('#footer-email').val('');
-          				_gaq.push(['_trackEvent', 'Footer', 'Subscribe Button Click (Success)', pageURL]);
-         			} else {
-         				_gaq.push(['_trackEvent', 'Footer', 'Subscribe Button Click (Error)', pageURL]);
-         			}
-      			},
-      			error:function(){
-          			JQ("#footer-subscribe-signup").removeAttr('disabled');
-          			JQ('#footer-email-result').html('Email is invalid or blank. Please complete and try again.');
-          			_gaq.push(['_trackEvent', 'Footer', 'Subscribe Button Click (Error)', pageURL]);
-      			}   
-    		});
-    		return false;
-});
-
-JQ("#subscription").keypress(function(e){
-		if(e.keyCode == 13){ JQ('#footer-email').trigger("enterKey"); }
-});
-
-	JQ('#sendtofriendlink').click(
-		function() {
-			JQ('#popup_overlay').show();
-						JQ('.sendnow').removeClass("hidden");
-			//JQ('body').css('overflow','hidden');
-			//JQ('#wrp').css('overflow','hidden');
-			//JQ('#wrp').css('height','auto');
-			JQ('.sendnow').css('overflow','visible');
-			JQ('input#stf_your_name').focus();
-		}
-	);
-	JQ('.snclose').click(
-		function() {
-			JQ('#load-sendtofriend').html('');
-			JQ('#popup_overlay').hide();
-			JQ('.sendnow').addClass("hidden");
-			//JQ('body').css('overflow','auto');
-			//JQ('#wrp').css('height','auto');
-			//JQ('#wrp').css('overflow','auto');
-		}
-	);
-	
-	
-				
-	
-	function listActiveProductFilters() {
-		activeFilterList = '';
-		JQ('input.dynamicFilterInputShow:checked').each(function (index) {
-			activeFilterList += JQ(this).parent().text() + ', ';
-		});
-		activeFilterList = activeFilterList.substr(0, activeFilterList.length - 2);
-		
-		if (activeFilterList.length > 39) {
-			activeFilterList = activeFilterList.substr(0, 39);
-			activeFilterList += '&hellip;'
-		}
-		if (activeFilterList.length > 0) {
-			activeFilterList = '(' + activeFilterList + ')';
-		}
-		JQ('#active-filter-display').html(activeFilterList);				
-	}
-	
-		
-		
-		
-		
-		
-	    
-    	
-		
-		
-		
-		
-		
-	    
-		
-		
-			
-			
-});
+<script>
+    // for resolvng jquery conflicts 9.17.15 18:49:09EST
+    var $jqnc = jQuery.noConflict();
 </script>
-
-
-
 <script type="text/javascript">
-
-
-JQ(document).ready(function() {
-
-	
-});
-
-JQ(document).ready(function() {
-  if(JQ('.host_compatibility #compatibility_os').length > 0) {
-    JQ.ajax({
-      url: '/_includes/ajax-product-compatibility.php',
-      type: "POST",
-      data: {'type': 'os'},
-      dataType: "html",
-      async: false,
-      success: function(data) {
-        if (data) {
-          JQ('.host_compatibility #compatibility_os').html(data);
-          JQ('.host_compatibility #compatibility_os').removeAttr('disabled');
-        }
-      }
-    });
-    JQ.ajax({
-      url: '/_includes/ajax-product-compatibility.php',
-      type: "POST",
-      data: {'type': 'product'},
-      dataType: "html",
-      async: false,
-      success: function(data) {
-        if (data) {
-          JQ('.host_compatibility #compatibility_product').html(data);
-        }
-      }
-    });
-    JQ.ajax({
-      url: '/_includes/ajax-product-compatibility.php',
-      type: "POST",
-      data: {'type': 'host'},
-      dataType: "html",
-      async: false,
-      success: function(data) {
-        if (data) {
-          JQ('.host_compatibility #compatibility_host').html(data);
-        }
-      }
-    });
-
-    JQ(".host_compatibility #compatibility_os").change(function() {
-      var temp_os = JQ(this).val();
-      var temp_product = JQ('.host_compatibility #compatibility_product option:selected').val();
-      var temp_host = JQ('.host_compatibility #compatibility_host option:selected').val();
-      if(temp_os != '') {
-        JQ('.host_compatibility #compatibility_product').removeAttr('disabled');
-      } else {
-        JQ('.host_compatibility #compatibility_product option')[0].selected = true;
-        JQ('.host_compatibility #compatibility_host option')[0].selected = true;
-        JQ('.host_compatibility #compatibility_product').attr('disabled', 'disabled');
-        JQ('.host_compatibility #compatibility_host').attr('disabled', 'disabled');
-      }
-      if((temp_os != '') && (temp_product != '') && (temp_host != '')) {
-        JQ('.host_compatibility #host_apps_table').html();
-        JQ.ajax({
-          url: '/_includes/ajax-product-compatibility.php',
-          type: "POST",
-          data: {
-            'type': 'gather',
-            'os': temp_os,
-            'product': temp_product,
-            'host': temp_host
-          },
-          dataType: "html",
-          async: false,
-          success: function(data) {
-            if (data) {
-              JQ('.host_compatibility #host_apps_table').html(data);
-            }
-          }
-        });
-      } else {
-        JQ('.host_compatibility #host_apps_table').html();
-      }
-    });
-
-    JQ(".host_compatibility #compatibility_product").change(function() {
-      var temp_os = JQ('.host_compatibility #compatibility_os option:selected').val();
-      var temp_product = JQ(this).val();
-      var temp_host = JQ('.host_compatibility #compatibility_host option:selected').val();
-      if(temp_product != ''){
-        JQ('.host_compatibility #compatibility_host').removeAttr('disabled');
-      } else {
-        JQ('.host_compatibility #compatibility_host option')[0].selected = true;
-        JQ('.host_compatibility #compatibility_host').attr('disabled', 'disabled');
-      }
-      if((temp_os != '') && (temp_product != '') && (temp_host != '')) {
-        JQ('.host_compatibility #host_apps_table').html();
-        JQ.ajax({
-          url: '/_includes/ajax-product-compatibility.php',
-          type: "POST",
-          data: {
-            'type': 'gather',
-            'os': temp_os,
-            'product': temp_product,
-            'host': temp_host
-          },
-          dataType: "html",
-          async: false,
-          success: function(data) {
-            if (data) {
-              JQ('.host_compatibility #host_apps_table').html(data);
-            }
-          }
-        });
-      } else {
-        JQ('.host_compatibility #host_apps_table').html();
-      }
-    });
-
-    JQ(".host_compatibility #compatibility_host").change(function() {
-      var temp_os = JQ('.host_compatibility #compatibility_os option:selected').val();
-      var temp_product = JQ('.host_compatibility #compatibility_product option:selected').val();
-      var temp_host = JQ(this).val();
-      if(temp_host != ''){
-        JQ('.host_compatibility #host_apps_table').html();
-        JQ.ajax({
-          url: '/_includes/ajax-product-compatibility.php',
-          type: "POST",
-          data: {
-            'type': 'gather',
-            'os': temp_os,
-            'product': temp_product,
-            'host': temp_host
-          },
-          dataType: "html",
-          async: false,
-          success: function(data) {
-            if (data) {
-              JQ('.host_compatibility #host_apps_table').html(data);
-            }
-          }
-        });
-      } else {
-        JQ('.host_compatibility #host_apps_table').html();
-      }
-    });
-  }
-});
-
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName('script')[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0047/0162.js";
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </script>
-
-
-
-
-
-
-
-
-
-<script type="text/javascript">
-/* @biko STORE, LOGIN, DROPDOWN JAVASCRIPT */
-JQ(document).ready(function(){
-   JQ(".loginOverlay").click(function(){
-      JQ('#nav_support').removeClass("curr");
-      JQ('#nav_support_submenu').addClass("hidden");
-      JQ("#cboxOverlay").fadeTo("fast", 0.5);
-      JQ("#colorbox").show();
-      JQ("body").prepend('<div id="loginOverlay" class="loginOverlay"><img style="padding-bottom:2px;" alt="" src="http://cache.redgiantsoftware.com/_assets_interface/images/products/loading.gif?1319058723498" id="load_popup_image"><span id="load_popup_copy">LOADING</span></div>');
-      JQ("#cboxWrapper").show();
-      JQ.ajax({
-          url: '/store/session/loginOrRegister?return='+document.URL,
-          success: function(data){
-              JQ("#loginOverlay").empty().append(data);
-          }
-      });
-      return false;
-   });
-   JQ(".overlayClose").live("click", function(){
-      JQ(this).parent("div").hide().empty();
-      JQ("#cboxOverlay").fadeOut("fast");
-      JQ("#colorbox").hide();
-   });
-});
-
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-JQ(document).ready(function(){
-   JQ(".js-show").show();
-   formCheck();
-   /* Country VS State Dropdown */
-       if(JQ("#BillingAddressForm_state")){
-            if(JQ("#international-billing").length > 0){
-                originalBillingStateDropdown = JQ("#international-billing").find("#BillingAddressForm_state");
-                JQ("#international-billing").find("#BillingAddressForm_state").remove();
-                change = true;
-            }else{
-                originalBillingStateDropdown = JQ("#BillingAddressForm_state");
-                change = false;
-            }
-
-            if(JQ("#international-shipping").length > 0){
-                originalShippingStateDropdown = JQ("#international-shipping").find("#ShippingAddressForm_state");
-                JQ("#international-shipping").find("#ShippingAddressForm_state").remove();
-                changeS = true;
-            }else{
-                originalShippingStateDropdown = JQ("#ShippingAddressForm_state");
-                changeS = false;
-            }
-
-            if(JQ("#international-licensee").length > 0){
-                originalLicenseeStateDropdown = JQ("#international-licensee").find("#LicenseeAddressForm_state");
-                JQ("#licensee-shipping").find("#LicenseeAddressForm_state").remove();
-                changeL = true;
-            }else{
-                originalLicenseeStateDropdown = JQ("#LicenseeAddressForm_state");
-                changeL = false;
-            }
-    }
-   JQ(".country-dropdown").bind("change", function(){
-
-        if(change){
-            JQ("#BillingAddressForm_state").remove();
-            JQ("#state-option-wrap").append(originalBillingStateDropdown);
-        }
-
-        if(JQ(this).val() != 'US'){
-            JQ("#BillingAddressForm_state").remove();
-            JQ("#state-option-wrap").append('<input type="text" id="BillingAddressForm_state" name="BillingAddressForm[state]" class="text-input" />');
-            change = true;
-        }else{
-            change = false;
-        }
-    });
-
-    // Print Order Complete Page //
-    JQ(".printPage").click(function(){
-        JQ(".printMe").printElement();
-        return false;
-    });
-
-    JQ(".testClick").click(function(){
-       JQ.ajax({
-           url: '/store/cart/cartDropDown',
-           success: function(data) {
-               JQ(".testClick").empty().append(data);
-           }
-       });
-    });
-
-    /* Coupon Sumbit Check */
-    JQ(".store-coupon-submit").click(function(){
-       if($(".coupon-input").val()==''){
-           return false;
-       }
-    });
-});
-
-function formCheck(){
-    var process = true;
-    var errors = new Array();
-    var num = 0;
-    JQ(".btnSubmit").live("click", function(){
-       JQ(this).closest("form").find("input").each(function(){
-          num = num + 1;
-          if(JQ(this).hasClass("required")){
-              if(JQ(this).val()==''){
-                  JQ(this).addClass("error").fadeTo("fast", 0.4).fadeTo("fast", 1).fadeTo("fast", 0.4).fadeTo("fast", 1);
-                  JQ("."+JQ(this).attr("name")+"").fadeTo("fast", 0.4).fadeTo("fast", 1).fadeTo("fast", 0.4).fadeTo("fast", 1);
-                  errors[num] = JQ(this).attr("name");
-                  if(process){
-                      process = false;
-                  }
-              }else{
-                  JQ(this).removeClass("error");
-              }
-          }
-       });
-       if(!process){
-           return false;
-       }
-    });
-
-    JQ("input").live("focusin", function(){
-        if(JQ(this).hasClass("error")){
-           JQ(this).removeClass("error");
-        }
-    });
-}
-function cartUpdateProcess(d){
-    JQ.ajax({
-        url: '/store/cart/updatequantity/',
-        type: 'POST',
-        data: d,
-        success: function(){
-            JQ(".hdNewOverlay").fadeOut("fast");
-        }
-    });
-}
-
-JQ(document).ready(function() 
-{
-   // By suppling no content attribute, the library uses each elements title attribute by default
-   JQ('#univNav a[href][title], .uC2 a[href][title]').qtip({
-      content: {
-         text: false // Use each elements title attribute
-      },
-      style: 'dark', 
-      margin: 15,
-      position: {
-      adjust: { x: 0, y: -10 },
-      corner: {
-         target: 'topMiddle',
-         tooltip: 'bottomMiddle'
-      }
-   }
-   });
-});
-</script>
-<script type="text/javascript" src="http://cache.redgiantsoftware.com/_assets_interface/js/jquery.qtip-1.0.0-rc3.min.js"></script>
-<script type="text/javascript" src="http://cache.redgiantsoftware.com/_assets_interface/js/sendtofriend.js"></script>
-<!--<script src="http://cache.redgiantsoftware.com/_assets_interface/js/jquery.ga-track-downloads.js" type="text/javascript"></script>-->
-<script type="text/javascript">
-
-/*
- * GA sub-page event tracking
- */
-$(function() {
-
-	// Logged In custom var (Custom Var 3)
-	//
-	pageURL = window.location.pathname;
-	 
-	/*
-	 *  Support Page tracking
-	 */	 
-	if (pageURL.search("/support/") == 0) {
-		
-		var productName = $('.secondHd .faqTit').text();		
-		productName = productName.replace(/ /g,'-');
-		productName = productName.replace(/'/g, "\'");
-
-		$('#container-1 li a, #container-general li a').click(function() {
-			var tabName = $(this).children('span').text();
-			tabName = tabName.replace(/ /g,'-');
-			tabName = tabName.replace(/'/g, "\'");
-			_gaq.push(['_trackPageview', '/support/' + productName + '/' + tabName]);
-		});		
-	}
-	 
-	/*
-	 * Event Tracking
-	 */ 
-	 
-	// Home page main hero banners
-	$('.indexBanner .slide a').click(function() {
-		var tempStr = $(this).children('img').attr('alt');
-		tempStr = tempStr.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'Homepage', 'Hero Click', ($(this).parent().index() + 1) + ' - ' + tempStr]);
-	});
-	
-	// Home page secondary featured banners
-	$('a.home-featured-link-one').click(function() {
-		var tempStr = $(this).children('img').attr('alt');
-		tempStr = tempStr.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'Homepage', 'Featured Click', tempStr + ' (Image Left)']);
-	});
-	$('a.home-featured-link-two').click(function() {
-		var tempStr = $(this).children('img').attr('alt');
-		tempStr = tempStr.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'Homepage', 'Featured Click', tempStr + ' (Image Right)']);
-	});
-	$('a.home-prod-link-one').click(function() {
-		var tempStr = $(this).text();
-		tempStr = tempStr.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'Homepage', 'Featured Click', tempStr + ' (Text Left)']);
-	});
-	$('a.home-prod-link-two').click(function() {
-		var tempStr = $(this).text();
-		tempStr = tempStr.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'Homepage', 'Featured Click', tempStr + ' (Text Right)']);
-	});
-
-	// Featured Episodes from RGTV
-	$('a.rg-tv-feature-frontpage-link').click(function() {
-		var tempStr = $(this).attr('title');
-		tempStr = tempStr.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'Homepage', 'Red Giant TV Episodes Click', tempStr]);
-	});
-	$('a.home-more-videos').click(function() {
-		var tempStr = $(this).text();
-		tempStr = tempStr.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'Homepage', 'Red Giant TV Episodes Click', tempStr + ' (Text)']);
-	});
-	
-	// Featured Presets from RG People
-	$('a.rg-frontpage-featured-preset-link').click(function() {
-		var tempStr = $(this).attr('title');
-		tempStr = tempStr.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'Homepage', 'Red Giant People Presets Click', tempStr]);
-	});
-	$('a.home-more-presets').click(function() {
-		var tempStr = $(this).text();
-		tempStr = tempStr.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'Homepage', 'Red Giant People Presets Click', tempStr + ' (Text)']);
-	});
-	
-	// Red Giant Logo header link
-	$('#RGlogo a').click(function() {
-		_gaq.push(['_trackEvent', 'Header', 'Red Giant Logo Click', pageURL]);
-	});
-	
-	// Top nav header links
-	$('.nav #suitesMenu a.topNav').click(function() {
-		_gaq.push(['_trackEvent', 'Header', 'Suites Click (Nav)', pageURL]);
-	});
-	$('.nav #suitesMenu .dropdown-menu li .suiteCol a').click(function() {
-		var tempStr = $(this).children('span.navTitle').text();
-		tempStr = tempStr.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'Header', 'Suites - ' + tempStr + ' Click (Nav)', pageURL]);
-	});
-	$('.nav #productsMenu a.topNav').click(function() {
-		_gaq.push(['_trackEvent', 'Header', 'Products Click (Nav)', pageURL]);
-	});
-	$('.nav #productsMenu .dropdown-menu li a').click(function() {
-		var tempStr = $(this).text();
-		tempStr = tempStr.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'Header', 'Products - ' + tempStr + ' Click (Nav)', pageURL]);
-	});
-	$('.nav #tutorialsMenu a').click(function() {
-		_gaq.push(['_trackEvent', 'Header', 'Tutorials Click (Nav)', pageURL]);
-	});
-	$('.nav #filmsMenu a').click(function() {
-		_gaq.push(['_trackEvent', 'Header', 'Films Click (Nav)', pageURL]);
-	});
-	$('.nav #blogMenu a').click(function() {
-		_gaq.push(['_trackEvent', 'Header', 'Blog Click (Nav)', pageURL]);
-	});
-	$('.nav #supportMenu a.topNav').click(function() {
-		_gaq.push(['_trackEvent', 'Header', 'Support Click (Nav)', pageURL]);
-	});
-	$('.nav #supportMenu .dropdown-menu li a').click(function() {
-		var tempStr = $(this).text();
-		tempStr = tempStr.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'Header', 'Support - ' + tempStr + ' Click (Nav)', pageURL]);
-	});
-	$('#cartAccount #yourAccount .dropdown-menu li a').click(function() {
-		var tempStr = $(this).text();
-		tempStr = tempStr.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'Header', 'Your Account - ' + tempStr + ' Click (Nav)', pageURL]);
-	});
-	$('#cart_popup .popNewDiv .skinPop .fdPop .dropDownCartNav').click(function() {
-		var tempStr = $(this).text();
-		tempStr = tempStr.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'Header', 'Your Cart - ' + tempStr + ' Click', pageURL]);
-	});
-	
-	// Footer nav links
-	$('#footerfacebooklink').click(function() {
-		_gaq.push(['_trackEvent', 'Footer', 'Connect - Facebook Click', pageURL]);
-	});
-	$('#footertwitterlink').click(function() {
-		_gaq.push(['_trackEvent', 'Footer', 'Connect - Twitter Click', pageURL]);
-	});
-	$('#footerredroombloglink').click(function() {
-		_gaq.push(['_trackEvent', 'Footer', 'Connect - Red Room Blog Click', pageURL]);
-	});
-	$('#footerrgtvrsslink').click(function() {
-		_gaq.push(['_trackEvent', 'Footer', 'Connect - Red Giant TV Click', pageURL]);
-	});
-	$('#footerdownloadsfreelink').click(function() {
-		_gaq.push(['_trackEvent', 'Footer', 'Downloads - Free Click', pageURL]);
-	});
-	$('#footerdownloadstriallink').click(function() {
-		_gaq.push(['_trackEvent', 'Footer', 'Downloads - Trial Click', pageURL]);
-	});
-	$('#footerdownloadsupdateslink').click(function() {
-		_gaq.push(['_trackEvent', 'Footer', 'Downloads - Updates Click', pageURL]);
-	});
-	$('#footerdownloadslegacylink').click(function() {
-		_gaq.push(['_trackEvent', 'Footer', 'Downloads - Legacy Click', pageURL]);
-	});
-	$('#footersupportfaqslink').click(function() {
-		_gaq.push(['_trackEvent', 'Footer', 'Support - Product FAQs Click', pageURL]);
-	});
-	$('#footersupportforumslink').click(function() {
-		_gaq.push(['_trackEvent', 'Footer', 'Support - Forums Click', pageURL]);
-	});
-	$('#footersupportcontactlink').click(function() {
-		_gaq.push(['_trackEvent', 'Footer', 'Support - Contact Click', pageURL]);
-	});
-	$('#footeraboutredgiantlink').click(function() {
-		_gaq.push(['_trackEvent', 'Footer', 'About - Red Giant Click', pageURL]);
-	});
-        $('#footeraboutsaleslink').click(function() {
-		_gaq.push(['_trackEvent', 'Footer', 'About - Contact Sales Click', pageURL]);
-	});
-	$('#footeraboutbillinglink').click(function() {
-		_gaq.push(['_trackEvent', 'Footer', 'About - Contact Billing Click', pageURL]);
-	});
-	$('#footeraboutceolink').click(function() {
-		_gaq.push(['_trackEvent', 'Footer', 'About - Contact CEO Click', pageURL]);
-	});
-        $('#footernewsstorieslink').click(function() {
-		_gaq.push(['_trackEvent', 'Footer', 'News - User Stories Click', pageURL]);
-	});
-	$('#footernewspresslink').click(function() {
-		_gaq.push(['_trackEvent', 'Footer', 'News - Press Releases Click', pageURL]);
-	});
-	$('#footernewsreviewslink').click(function() {
-		_gaq.push(['_trackEvent', 'Footer', 'News - Reviews Click', pageURL]);
-	});
-	$('#footernewsfeaturedlink').click(function() {
-		_gaq.push(['_trackEvent', 'Footer', 'News - Featured News Click', pageURL]);
-	});
-	
-	$('#footercopyrightlink').click(function() {
-		_gaq.push(['_trackEvent', 'Footer', 'Copyright Click', pageURL]);
-	});
-	$('#footerprivacylink').click(function() {
-		_gaq.push(['_trackEvent', 'Footer', 'Privacy Click', pageURL]);
-	});
-	$('#footertermslink').click(function() {
-		_gaq.push(['_trackEvent', 'Footer', 'Terms & Conditions Click', pageURL]);
-	});
-	
-	// Send to friend	 
-	$('a#sendtofriendlink').click(function() {
-		_gaq.push(['_trackEvent', 'Footer', 'Share (Send to a Friend) Click', pageURL]);
-	});
-	$('#stf_send_now').click(function() {
-		_gaq.push(['_trackEvent', 'Footer', 'Share (Send to a Friend) Send Now', pageURL]);
-	});
-
-	// Product buy buttons
-	$('.suiteBuyButton a.buy_button_popup, #store-item-list a.buy_button_popup, .prices a.buy_button_popup').click(function() {
-		var productName = $(this).attr('title');
-		productName = productName.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'Product Wall', 'Buy', productName]);	
-	});
-
-	// Trial buttons
-	$('a.product-wall-try-link').click(function() {
-		var tempStr = $(this).attr('title');
-		tempStr = tempStr.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'Product Wall', 'Try', tempStr]);	
-	});
-	$('a.pdp-trial-button').click(function() {
-		var tempStr = $(this).attr('title');
-		tempStr = tempStr.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'PDP', 'Free Trial', $(this).attr('title')]);
-	});
-
-	// Submit Trial downloads submit
-	$('#trialform .triBtn a').click(function() {
-		var downloadList = '';
-		$('#trialform input.trial-download-checkbox:checked').each(function() {
-			downloadList += $(this).parent().children('.trial-product-name').text() + ",";
-		});
-		downloadList = downloadList.substr(0, downloadList.length - 2);
-		downloadList = downloadList.replace(/'/g,'');
-		downloadListNoSpaces = downloadList.replace(/ /g,'-');
-		_gaq.push(['_setCustomVar', 2, 'Free-Trial', downloadListNoSpaces, 1]);
-		_gaq.push(['_trackEvent', 'Free Trial', 'Submit', downloadList]);
-	});
-	
-	// Product downloads
-	$('.product_list .product_cont ul .dlsub a').click(function() {
-		var tempStr = $(this).attr('title');
-		tempStr = tempStr.replace(/'/g, "\'");
-		var tempStrTwo = $(this).attr('href');
-		tempStrTwo = tempStrTwo.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'Product Downloads', tempStr, tempStrTwo]);		
-	});
-	
-	// Legacy downloads
-	$('.download_product_item_copy a').click(function() {
-		var tempStr = $(this).attr('title');
-		tempStr = tempStr.replace(/'/g, "\'");
-		var tempStrTwo = $(this).attr('href');
-		tempStrTwo = tempStrTwo.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'Legacy Downloads', tempStr, tempStrTwo]);		
-	});
-	
-	// Free Download
-	$('.free-download-link').click(function() {
-		var tempStr = $(this).attr('title');
-		tempStr = tempStr.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'Free Products', 'Download', tempStr]);
-	});
-	
-	// Free downloads submit
-	$('#freeform .triBtn a').click(function() {
-		var downloadList = '';
-		$('#freeform input.free-dl-product-checkbox:checked').each(function() {
-			downloadList += $(this).parent().children('.free-dl-product-name').text() + ", ";
-		});
-		downloadList = downloadList.substr(0, downloadList.length - 2);
-		downloadList = downloadList.replace(/'/g,'');
-		_gaq.push(['_trackEvent', 'Free Products', 'Submit', downloadList]);
-	});
-
-	// Upgrade button
-	$('a.upgrade_button_popup').click(function() {
-		var tempStr = $(this).attr('title');
-		tempStr = tempStr.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'PDP', 'Upgrade', tempStr]);
-	});
-	
-	// Review read more
-	$('a.review-read-more-link').click(function() {
-		var tempStr = $('#product-title-bar').text();
-		tempStr = tempStr.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'PDP', 'Reviews', tempStr + ' - ' + $(this).attr('href')]);
-	});
-
-	// Suite callouts
-	$('.suite-purchase-callout a').click(function() {
-		var tempStr = $('.suite-purchase-callout .suite-purchase-callout-name').text();
-		tempStr = tempStr.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'PDP', 'Product Suite Callout', tempStr]);
-	});
-
-	// Related guru presets	
-	$('.related-guru-presets a').click(function() {
-		var tempStr = $(this).text();
-		tempStr = tempStr.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'PDP', 'Related Presets', tempStr]);
-	});
-	
-	/*
-	 *  Support Pages
-	 */
-	 
-	// Email Article
-	$('a.support-email-article').click(function() {
-		var tempStr = $('.faqTit').text();
-		tempStr = tempStr.replace(/'/g, "\'");
-		var tempStrTwo = $('.faqTitle li:first').text();
-		tempStrTwo = tempStrTwo.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'Support', 'Email Article', tempStr + ' - ' + tempStrTwo]);
-	});
-
-	// Print Article
-	$('a.support-print-article').click(function() {
-		var tempStr = $('.faqTit').text();
-		tempStr = tempStr.replace(/'/g, "\'");
-		var tempStrTwo = $('.faqTitle li:first').text();
-		tempStrTwo = tempStrTwo.replace(/'/g, "\'");
-		//alert($('.faqTit').text() + ' - ' + $('.faqTitle li:first').text() );
-		_gaq.push(['_trackEvent', 'Support', 'Print Article', tempStr + ' - ' + tempStrTwo]);
-	});
-
-	/*
-	 * Company Pages
-	 */
-
-	// Social Media & Email links
-	$('.companyContent a').click(function() {
-		var linkDest = $(this).attr('href');
-	
-		if (linkDest.indexOf("facebook.com") > -1) {
-			_gaq.push(['_trackEvent', 'Company - About', 'Outbound Social Link', 'Facebook']);
-		}
-		if (linkDest.indexOf("twitter.com") > -1) {
-			_gaq.push(['_trackEvent', 'Company - About', 'Outbound Social Link', 'Twitter']);
-		}
-		if (linkDest.indexOf("mailto:") > -1) {
-			linkDest = linkDest.replace('mailto:', '');
-			_gaq.push(['_trackEvent', 'Company - Contact', 'Email Link', linkDest]);
-		}
-		
-		// Support Forums
-		if (linkDest == "http://toolfarm.com/phorumNew5/list.php?14") {
-			_gaq.push(['_trackEvent', 'Company - Forums', 'View Forum', 'Magic Bullet Forum']);
-		}
-		if (linkDest == "http://toolfarm.com/phorumNew5/list.php?16") {
-			_gaq.push(['_trackEvent', 'Company - Forums', 'View Forum', 'Red Giant Forum']);
-		}
-		if (linkDest == "http://toolfarm.com/phorumNew5/list.php?15") {
-			_gaq.push(['_trackEvent', 'Company - Forums', 'View Forum', 'Trapcode Forum']);
-		}
-	});
-
-	// Refund request link
-	$('.open-refund-request-link').click(function() {
-		 _gaq.push(['_trackEvent', 'Company - Contact', 'Refund Request', 'Open a Refund Request']);
-	});
-
-	// Contact Us Links
-	$('.contact-us-links-list a').click(function() {
-		_gaq.push(['_trackEvent', 'Company - Links', 'Outbound Links', $(this).attr('href')]);
-	});
-
-	// Open support case
-	$('.open-support-case-link').click(function() {
-		_gaq.push(['_trackEvent', 'Company - Contact', 'Support Case', 'Open a Support Case']);
-	});
-
-	/*
-	 * RGTV
-	 */
-
-	// Most Popular Videos
-	$('.bdPopVideos a').click(function() {
-		var tempStr = $(this).text();
-		tempStr = tempStr.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'RGTV', 'Most Popular Videos Link', tempStr]);
-	});
-	
-	// Blog
-	$('.prolost-blog-link').click(function() {
-		_gaq.push(['_trackEvent', 'RGTV', 'Tout Click', 'Prolost Blog']);
-	});
-
-	// Posted Comment
-	$('.submit-rgtv-comment').click(function() {
-		var tempStr = $('.vidTitle').text();
-		tempStr = tempStr.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'Red Giant TV', 'Submit Comment', tempStr]);
-	});
-	
-	// Podcast Feeds
-	$('.rgtv-tutorial-rss-feed-link').click(function() {
-		_gaq.push(['_trackEvent', 'Red Giant TV', 'Subscribe', 'Tutorial RSS Feed']);
-	});
-	$('.rgtv-podcast-rss-feed-link').click(function() {
-		_gaq.push(['_trackEvent', 'Red Giant TV', 'Subscribe', 'Podcast RSS Feed']);
-	});
-	$('.rgtv-podcast-itunes-link').click(function() {
-		_gaq.push(['_trackEvent', 'Red Giant TV', 'Subscribe', 'Podcast in iTunes']);
-	});
-
-	// Video Project and Example Links	
-	$('.project-files-dl-link').click(function() {
-		var tempStr = $('.vidTitle').text();
-		tempStr = tempStr.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'Red Giant TV', 'Download Project Files', tempStr]);
-	});
-	$('.example-video-view-link').click(function() {
-		var tempStr = $('.vidTitle').text();
-		tempStr = tempStr.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'Red Giant TV', 'Example Video', tempStr]);
-	});	
-	
-	// Video Filter
-	$('#find_episode_filter_submenu #filterbytype, #find_episode_filter_submenu #filterbyproduct, #find_episode_filter_submenu #filterbyhost, #find_episode_filter_submenu #filterbycategory, #find_episode_filter_submenu input[name=sortSelect]').change(function() {
-		
-		var filType = $('#find_episode_filter_submenu #filterbytype option:selected').text();
-		var filShow = $('#find_episode_filter_submenu #filterbyproduct option:selected').text();
-		var filHost = $('#find_episode_filter_submenu #filterbyhost option:selected').text();
-		var filCate = $('#find_episode_filter_submenu #filterbycategory option:selected').text();
-		var filSort = $('#find_episode_filter_submenu input[name=sortSelect]:checked').parent().text();
-		
-		_gaq.push(['_trackEvent', 'Red Giant TV', 'Video Filter', "Type - " + filType + ', Products - ' + filShow + ', Hosts - ' + filHost + ', Categories - ' + filCate + ', Sort - ' + filSort]);
-	});
-	
-	// RGTV item pages - Products Used in this Video - Buy button
-	$('.setBuyRGTV a.buy_button_popup').click(function() {
-		var tempStr = $(this).attr('title');
-		tempStr = tempStr.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'Red Giant TV', 'Buy', tempStr]);
-	});
-	
-	// RGTV item pages - Products Used in this Video - Try button
-	$('a.rgtv-productsused-try').click(function() {
-		var tempStr = $(this).attr('title');
-		tempStr = tempStr.replace(/'/g, "\'");
-		_gaq.push(['_trackEvent', 'Red Giant TV', 'Try', tempStr]);
-	});
-
-});
-</script>
-
-<!-- Google Code for Remarketing Tag -->
-<!--------------------------------------------------
-Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
+<script type="text/javascript" src="http://cache.redgiant.com/wp-base/wp-content/plugins/redgiant/components/js/redgiant.js?ver=1.0.0"></script>
+<script type="text/javascript" src="//cache.redgiant.com/_/js/lib.min.js?ver=2.0"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var google_conversion_id = 1010250706;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
+var redgiant = {"ajax_url":"https:\/\/www.redgiant.com\/wp-base\/wp-admin\/admin-ajax.php","home_url":"http:\/\/www.redgiant.com","blog_url":"http:\/\/www.redgiant.com\/blog\/","template_url":"http:\/\/www.redgiant.com\/wp-base\/wp-content\/themes\/redgiant","current_id":"9511","block_live_chat":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+<script type="text/javascript" src="//cache.redgiant.com/_/js/redgiant.min.js?ver=2.0"></script>
+<script type="text/javascript" src="//cache.redgiant.com/_/lib/owl-carousel/owl.carousel.min.js?ver=1.0.0"></script>
+<script type="text/javascript" src="http://cache.redgiant.com/wp-base/wp-includes/js/wp-embed.min.js?ver=4.6.1"></script>
+    <script type="text/javascript">
+        jQuery.ajax({
+          url: '//munchkin.marketo.net/munchkin.js',
+          dataType: 'script',
+          cache: true,
+          success: function() {
+            Munchkin.init('185-OBK-801', {"cookieAnon":false});
+          }
+        });
+    </script>
+    <script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '709562175796803']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
 </script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=709562175796803&amp;ev=PixelInitialized" /></noscript>
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">
+twttr.conversion.trackPid('l5lfi', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
 <noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1010250706/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l5lfi&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l5lfi&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" /></noscript>
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"c2a77e935f","applicationID":"10299047","transactionName":"ZFFWMEsCWUpZAUNaCl0bdQdNClhXFxZHX0hDVVMBFA9SXlkO","queueTime":0,"applicationTime":1215,"atts":"SBZVRgMYSkQ=","errorBeacon":"bam.nr-data.net","agent":""}</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"c2a77e935f","applicationID":"10299047","transactionName":"ZFFWMEsCWUpZAUNaCl0bYRZQTEBJFQBWQAAcXVoAXBsZSVAS","queueTime":0,"applicationTime":3,"atts":"SBZVRgMYSkQ=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"c2a77e935f","applicationID":"3641980","transactionName":"ZFFWMEsCWUpZAUNaCl0bYRZQTERMSBJYQREcVkEdXBFEXk0LU1YMR1FZSkkLRw==","queueTime":0,"applicationTime":19,"ttGuid":"","agentToken":"","atts":"SBZVRgMYSkQ=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using memcached
+Database Caching 10/18 queries in 0.143 seconds using memcached
+Object Caching 1154/1172 objects using memcached
+Content Delivery Network via cache.redgiant.com
+Application Monitoring using New Relic
+
+ Served from: www.redgiant.com @ 2016-11-23 02:36:51 by W3 Total Cache --></body></html>
