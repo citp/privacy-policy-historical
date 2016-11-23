@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the silvaco.com privacy policy that was archived on 2016-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160614183241id_/http%3A//www.silvaco.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the silvaco.com privacy policy that was archived on 2016-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161123161722id_/http%3A//www.silvaco.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" style="" class=" js no-touch csstransforms3d csstransitions webkit chrome linux js"><!-- InstanceBegin template="/Templates/silvacoHomeWide.dwt" codeOutsideHTMLIsLocked="false" --><head>
 	
@@ -40,9 +40,13 @@
 		<link rel="stylesheet" href="/css/skins/default.css">
 
 		<!-- Theme Custom CSS -->
-		<link rel="stylesheet" href="/css/custom.css">
+		<link rel="stylesheet" href="/css/custom.css?20161011">
         <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 		<!-- Head Libs -->
+        
+        <!--Print css -->
+        <link rel="stylesheet" type="text/css" media="print" href="/vendor/bootstrap/bootstrap.min.css">
+        
 		<!--[if IE]>
 			<link rel="stylesheet" href="css/ie.css">
 		<![endif]-->
@@ -58,9 +62,10 @@
 <script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20130123170311/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20130123170311/https://ssl.google-analytics.com/ga.js"></script><script src="/vendor/modernizr/modernizr.js"></script> 
 
 
+
     <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
 </head>
-	<body class="sticky-menu-active always-sticky" style="padding-top: 40px;">
+	<body class="sticky-menu-active always-sticky" style="padding-top: 148px;">
   <div class="body">
 <!--<header id="header" class="clean-top" >-->
 <header id="header" class="clean-top" data-plugin-options="{&quot;alwaysStickyEnabled&quot;: true}">
@@ -210,6 +215,7 @@ function getCurrentNodeByUrlPath(url){
 
 var home = new NavigationNode(null,'Home','/index.html','Home');
 var product = new NavigationNode(home,'PRODUCTS','/products/index.html','Products');
+var ip = new NavigationNode(home,'IP','/products/IP/index.html','IP');
 var solutions = new NavigationNode(home,'SOLUTIONS','/solutions/solutions.html','Solutions');
 var service = new NavigationNode(home,'SERVICES','/services/index.html','Services');
 var download = new NavigationNode(home,'DOWNLOAD & SUPPORT','https://dynamic.silvaco.com/dynamicweb/silen/','DOWNLOAD & SUPPORT');
@@ -310,7 +316,7 @@ var nod_c_g = new NavigationNode(nod_c,'Schematic Editor','/products/analog_mixe
 var nod_c_e = new NavigationNode(nod_c,'Layout Editor','/products/custom_ic_cad/layout_editing/expert.html','Layout Editor');
 var nod_c_g = new NavigationNode(nod_c,'DRC/LVS/NET Physical Verification','/products/custom_ic_cad/drc_lvs_net_physical_verification/guardian.html','DRC/LVS/NET Physical Verification');
 var nod_c_h = new NavigationNode(nod_c,'Full-Chip Parasitic Extraction','/products/custom_ic_cad/full_chip_parasitic_extraction/hipex.html','Full-Chip Parasitic Extraction');
-var nod_c_c = new NavigationNode(nod_c,'RLC Netlist Reduction','/products/custom_ic_cad/rlc_netlist_reduction/clarity_rlc.html','RLC Netlist Reduction');
+//var nod_c_c = new NavigationNode(nod_c,'RLC Netlist Reduction','/products/custom_ic_cad/rlc_netlist_reduction/clarity_rlc.html','RLC Netlist Reduction');
 
 /* begin PDK Design Flow */
 var nod_pdk = new NavigationNode(product,'PDKs ','/design_flows/pdk.html','PDKs', true);
@@ -326,7 +332,7 @@ var nod_pdk_mi = new NavigationNode(nod_pdk,'Migration to Silvaco PDKs','/design
 
 /* begin Power Integrity */
 var nod_pow = new NavigationNode(product,'Power Integrity Signoff','/products/analog_mixed_signal/inVar/invar.html','Power Integrity Signoff');
-var nod_pow_o = new NavigationNode(nod_pow,'InVar Power-EM/IR-Thermal','/products/analog_mixed_signal/inVar/invar.html','InVar Power-EM/IR-Thermal');
+var nod_pow_o = new NavigationNode(nod_pow,'Power-EM/IR-Thermal','/products/analog_mixed_signal/inVar/invar.html','Power-EM/IR-Thermal');
 
 
 /* begin Variation Analysis */
@@ -344,6 +350,13 @@ var nod_d_h = new NavigationNode(nod_d,'Mixed-Level Fault Simulator','/products/
 var nod_d_ad = new NavigationNode(nod_d,'SPICE Netlist to Verilog Gates Converter','/products/digital_cad/spice_netlist_verilog_gates_conversion/catalyst_ad.html','SPICE Netlist to Verilog Gates Converter');
 var nod_d_da = new NavigationNode(nod_d,'Verilog Netlist to SPICE Netlist Converter','/products/digital_cad/verilog_netlist_spice_netlist_converter/catalyst_da.html','Verilog Netlist to SPICE Netlist Converter');
 var nod_d_sp = new NavigationNode(nod_d,'Place and Route Design Flow','/products/digital_cad/place_route_design_flow/spider.html','Place and Route Design Flow');
+
+/* begin Netlist Analysis & Optimization */
+var nod_net = new NavigationNode(product,'Extracted Netlist Analysis & Reduction','/products/netlist_analysis.html','Extracted Netlist Analysis & Reduction');
+var nod_net_o = new NavigationNode(nod_net,'Overview','/products/netlist_analysis.html','Overview');
+var nod_net_a = new NavigationNode(nod_net,'Netlist Reducer','/products/netlist/jivaro/jivaro.html','Netlist Reducer');
+var nod_net_b = new NavigationNode(nod_net,'LPE Comparison','/products/netlist/belledonne/belledonne.html','LPE Comparison');
+var nod_net_c = new NavigationNode(nod_net,'Netlist Analysis','/products/netlist/viso/viso.html','Netlist Analysis');
 
 /* begin Library/Memory */
 var nod_lib = new NavigationNode(product,'Library/Memory Charactarization','/products/digital_cad/cell_characterization_modeling/accucell.html','LIBRARY/Memory Characterization');
@@ -423,7 +436,7 @@ var nod_co_p_ip = new NavigationNode(nod_co_p,'University Partners','/company/pa
 var nod_co_p_ep = new NavigationNode(nod_co_p,'EDA Partners','/company/partners/EDAPartners.html','EDA Partners');
 var nod_co_p_op = new NavigationNode(nod_co_p,'IP Partners','/company/partners/ipPartners.html','IP Partners');
 var nod_co_c = new NavigationNode(corporate,'Careers','/company/openings/openings.html','Careers',true);
-var nod_co_cc = new NavigationNode(corporate,'Events','/company/events/dac_2016.html','Events',true);
+var nod_co_cc = new NavigationNode(corporate,'Events','/company/events/JEDAS_2016.html','Events',true);
 var nod_co_f = new NavigationNode(corporate,'Conferences','/company/events/conferences.html','Conferences');
 var nod_co_g = new NavigationNode(corporate,'Goverment Program','/government/index.html','Goverment Program');
 var nod_co_u = new NavigationNode(corporate,'University Program','/company/university_program.html','University Program');
@@ -441,11 +454,101 @@ var nod_co_t_k = new NavigationNode(nod_co_t,'Silvaco Korea','/company/offices/k
 var nod_co_t_t = new NavigationNode(nod_co_t,'Silvaco Taiwan','/company/offices/taiwan.html','Silvaco Taiwan');
 var nod_co_t_s = new NavigationNode(nod_co_t,'Silvaco Singapore','/company/offices/singapore.html','Silvaco Singapore');
 var nod_co_t_c = new NavigationNode(nod_co_t,'Silvaco China','/company/offices/china.html','Silvaco China');
-//var nod_co_t_cc = new NavigationNode(nod_co_t_s,'China Distributors','/company/offices/distributorsChina07.html','Certified China Distributors');
+var nod_co_t_au = new NavigationNode(nod_co_t,'Silvaco Austria','/company/offices/vienna.html','Silvaco Austria');
+var nod_co_t_cc = new NavigationNode(nod_co_t,'Silvaco India','/company/offices/india.html','Silvaco India');
 var nod_co_t_ff = new NavigationNode(nod_co_t_s,'M/S Micro Chitronix Systems','/company/offices/distributorsIndia04.html','Certified Distributors');
 var nod_co_t_hh = new NavigationNode(nod_co_t_s,'Cognitive Design Technology Pvt. Ltd.','/company/offices/distributorsIndia05.html','Certified Distributors');
 var nod_co_t_gg = new NavigationNode(nod_co_t_s,'IC Microsystems','/company/offices/distributorsMalasia01.html','Certified Distributors');
 var nod_co_b = new NavigationNode(corporate,'30 Years in Business','/company/30th-year.html','30 Years in Business');
+
+
+var nod_ip1 = new NavigationNode(ip,'Overview','/products/IP/index.html','Overview');
+
+/* begin IP COLDFIRE MICROPROCESSORS */
+var nod_ip = new NavigationNode(ip,'ColdFire Microprocessors','/products/IP/coldFire_microprocessors.html','ColdFire Microprocessors');
+var nod_ip_a = new NavigationNode(nod_ip,'ColdFire V1 Core','/products/IP/coldfire-v1-core/index.html','ColdFire V1 Core');
+var nod_ip_b = new NavigationNode(nod_ip,'ColdFire V1 Altera FPGA','/products/IP/coldfire-v1-altera-fpga/index.html','ColdFire V1 Altera FPGA ');
+var nod_ip_c = new NavigationNode(nod_ip,'ColdFire+ V1 Platform','/products/IP/coldfire--v1-platform/index.html','ColdFire+ V1 Platform');
+var nod_ip_d = new NavigationNode(nod_ip,'ColdFire V2 Core','/products/IP/coldfire-v2-core/index.html','ColdFire V2 Core');
+var nod_ip_e = new NavigationNode(nod_ip,'ColdFire V2 SPP','/products/IP/coldfire-v2-spp/index.html','ColdFire V2 SPP');
+var nod_ip_f = new NavigationNode(nod_ip,'ColdFire V4 Core','/products/IP/coldfire-v4-core/index.html','ColdFire V4 Core');
+var nod_ip_g = new NavigationNode(nod_ip,'ColdFire V4 SPP','/products/IP/coldfire-v4-spp/index.html','ColdFire V4 SPP');
+
+
+/* begin IP Power Architecture Microprocessors */
+var nod_ip_pow = new NavigationNode(ip,'Power Architecture Microprocessors ','/products/IP/power_architecture_microprocessors.html','Power Architecture Microprocessors');
+var nod_ip_pow_a = new NavigationNode(nod_ip_pow,'Power Architecture e200 Z0 ','/products/IP/power-architecture-e200-z0/index.html','Power Architecture e200 Z0');
+var nod_ip_pow_b = new NavigationNode(nod_ip_pow,'Power Architecture e200 Z1','/products/IP/power-architecture-e200-z0/index.html','Power Architecture e200 Z1');
+var nod_ip_pow_c = new NavigationNode(nod_ip_pow,'Power Architecture e200 Z3','/products/IP/power-architecture-e200-z0/index.html','Power Architecture e200 Z3');
+var nod_ip_pow_d = new NavigationNode(nod_ip_pow,'Power Architecture e200 Z6','/products/IP/power-architecture-e200-z0/index.html','Power Architecture e200 Z6');
+
+
+/* begin 16-bit Microprocessors */
+var nod_ip_16bm = new NavigationNode(ip,'16-bit Microprocessors ','/products/IP/16bit_microprocessors.html','16-bit Microprocessors');
+var nod_ip_16bm_a = new NavigationNode(nod_ip_16bm,'C166S','/products/IP/c166s/index.html','C166S');
+var nod_ip_16bm_b = new NavigationNode(nod_ip_16bm,'CR16','/products/IP/cr16/index.html','CR16');
+
+
+/* begin 8-bit Microprocessors */
+var nod_ip_8bm = new NavigationNode(ip,'8-bit Microprocessors ','/products/IP/8bit_microprocessors.html','8-bit Microprocessors');
+var nod_ip_8bm_a = new NavigationNode(nod_ip_8bm,'HCS08','/products/IP/hcs08/index.html','HCS08');
+var nod_ip_8bm_b = new NavigationNode(nod_ip_8bm,'M8051EW/M8051W','/products/IP/m8051ew-m8051w/index.html','M8051EW/M8051W');
+
+
+/* begin USB Solutions */
+var nod_usb = new NavigationNode(ip,'USB Solutions','/products/IP/usb_solutions.html','USB Solutions');
+var nod_usb_a = new NavigationNode(nod_usb,'USB 2.0 HS/FS Device Controller','/products/IP/usb-2.0-hs-fs-device-controller/index.html','USB 2.0 HS/FS Device Controller');
+var nod_usb_b = new NavigationNode(nod_usb,'USB 2.0 HS/FS Host/Device Controller','/products/IP/usb-2.0-hs-fs-host-device-controller/index.html','USB 2.0 HS/FS Host/Device Controller ');
+var nod_usb_c = new NavigationNode(nod_usb,'USB 2.0 HS/FS PHY','/products/IP/usb-2.0-hs-fs-phy/index.html','USB 2.0 HS/FS PHY');
+var nod_usb_d = new NavigationNode(nod_usb,'USB 2.0 FS Device Controller','/products/IP/usb-2.0-fs-device-controller/index.html','USB 2.0 FS Device Controller');
+var nod_usb_e = new NavigationNode(nod_usb,'USB 2.0 FS Host/Device Controller','/products/IP/usb-2.0-fs-host-device-controller/index.html','USB 2.0 FS Host/Device Controller');
+var nod_usb_f = new NavigationNode(nod_usb,'USB 2.0 FS I/O Transceiver','/products/IP/usb-2.0-fs-i-o-transceiver/index.html','USB 2.0 FS I/O Transceiver');
+
+
+/* begin Test and Debug */
+var nod_tst = new NavigationNode(ip,'Test and Debug','/products/IP/test_and_debug.html','Test and Debug');
+var nod_tst_a = new NavigationNode(nod_tst,'IEEE 1149.7 Compact JTAG','/products/IP/ieee-1149.7-compact-jtag/index.html','IEEE 1149.7 Compact JTAG');
+var nod_tst_b = new NavigationNode(nod_tst,'IEEE 1149.7 DTS Adapter','/products/IP/ieee-1149.7-dts-adapter/index.html','IEEE 1149.7 DTS Adapter ');
+
+
+/* begin AMBA Bus Fabric */
+var nod_amba = new NavigationNode(ip,' AMBA Bus Fabric','/products/IP/amba_bus.html',' AMBA Bus Fabric');
+var nod_amba_a = new NavigationNode(nod_amba,'AHB Backbone','/products/IP/ahb-backbone/index.html','AHB Backbone');
+var nod_amba_b = new NavigationNode(nod_amba,'AHB-APB Bridge','/products/IP/ahb-bridge/index.html','AHB-APB Bridge ');
+
+
+/* begin AMBA AHB SYSTEM FUNCTIONS */
+var nod_amba2 = new NavigationNode(ip,'AMBA AHB System Functions','/products/IP/amba_ahb.html','AMBA AHB System Functions');
+var nod_amba2_a = new NavigationNode(nod_amba2,'DMA Controller','/products/IP/dma-controller/index.html','DMA Controller');
+//var nod_amba2_b = new NavigationNode(nod_amba2,'RAM Controller','/products/IP/ram-controller/index.html','RAM Controller ');
+
+
+/* begin AMBA AHB SYSTEM FUNCTIONS */
+var nod_amba3 = new NavigationNode(ip,'AMBA APB System Functions','/products/IP/amba_apb.html','AMBA APB System Functions');
+var nod_amba3_a = new NavigationNode(nod_amba3,'Interrupt Controller','/products/IP/interrupt_controller/index.html','Interrupt Controller');
+var nod_amba3_b = new NavigationNode(nod_amba3,'Timer and Watchdog','/products/IP/timer-and-watchdog/index.html','Timer and Watchdog ');
+var nod_amba3_c = new NavigationNode(nod_amba3,'Multifunction Timer','/products/IP/multifunction-timer/index.html','Multifunction Timer');
+var nod_amba3_d = new NavigationNode(nod_amba3,'Versatile Timer','/products/IP/versatile-timer/index.html','Versatile Timer');
+var nod_amba3_e = new NavigationNode(nod_amba3,'Real Time Clock','/products/IP/real-time-clock/index.html','Real Time Clock');
+
+
+/* begin AMBA Interfaces */
+var nod_amba4 = new NavigationNode(ip,'AMBA Interfaces','/products/IP/amba_interface.html','AMBA Interfaces');
+var nod_amba4_a = new NavigationNode(nod_amba4,'USART','/products/IP/usart/index.html','USART');
+var nod_amba4_b = new NavigationNode(nod_amba4,'I2S Audio Interface','/products/IP/i2s-audio-interface/index.html','I2S Audio Interface ');
+var nod_amba4_c = new NavigationNode(nod_amba4,'I2C Interface','/products/IP/i2c-interface/index.html','I2C Interface');
+var nod_amba4_d = new NavigationNode(nod_amba4,'Advanced Audio Interface','/products/IP/advanced-audio-interface/index.html','Advanced Audio Interface');
+var nod_amba4_e = new NavigationNode(nod_amba4,'CAN Controller','/products/IP/can-controller/index.html','CAN Controller');
+var nod_amba4_f = new NavigationNode(nod_amba4,'MICROWIRE/SPI Controller','/products/IP/microwire-spi-controller/index.html','MICROWIRE/SPI Controller');
+var nod_amba4_g = new NavigationNode(nod_amba4,'Smart Card Interface','/products/IP/smart-card-interface/index.html','Smart Card Interface');
+var nod_amba4_h = new NavigationNode(nod_amba4,'Gen. Purpose I/O Controller','/products/IP/gen.-purpose-i-o-controller/index.html','Gen. Purpose I/O Controller');
+
+
+/* begin Automotive */
+var nod_auto = new NavigationNode(ip,'Automotive','/products/IP/automotive.html','Automotive');
+var nod_auto_a = new NavigationNode(nod_auto,'FlexRay Comm. Controller ','/products/IP/flexray-comm.-controller/index.html','FlexRay Comm. Controller ');
+var nod_auto_b = new NavigationNode(nod_auto,'MultiCAN Controller','/products/IP/multican-controller/index.html','MultiCAN Controller ');
+
 
 /* begin Services */
 var nod_sv_o = new NavigationNode(service,'Overview','/services/index.html','Overview');
@@ -465,7 +568,8 @@ var techlib_w = new NavigationNode(techlib,'Webinars','/webinar/index.html','Web
  */
 
  var support = new NavigationNode(home,'Home',null,'Supported');
- var supportp = new NavigationNode(support,'Supported Platform','/support/platforms.html','Supported Platform');
+ var supportp = new NavigationNode(support,'Latest Baseline Supported Platform','/support/supported_platforms.html','Latest Baseline Supported Platform');
+ var supporta = new NavigationNode(support,'Archive Supported Platform','/support/platforms.html','Archive Supported Platform');
 
  
 </script>
@@ -490,6 +594,8 @@ if(curNode!=null){
 document.addEventListener("DOMContentLoaded", function(event) { 
   if(curHead==product){
   	document.getElementById('top_product').className += ' active';
+  }else if(curHead==ip){
+  	document.getElementById('top_ip').className += ' active';
   }else if(curHead==solutions){
   	document.getElementById('top_solutions').className += ' active';
   }else if(curHead==service){
@@ -508,7 +614,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		<nav class="nav-main mega-menu">
 			<ul class="nav nav-pills nav-main" id="mainMenu">
 				<li id="top_product" class="dropdown mega-menu-item mega-menu-fullwidth">
-					<a class="dropdown-toggle" href="#">Products <i class="fa fa-angle-down"></i></a>
+					<a class="dropdown-toggle" href="#">Tools <i class="fa fa-angle-down"></i></a>
 					<ul class="dropdown-menu">
 						<li>
 							<div class="mega-menu-content">
@@ -562,6 +668,11 @@ document.addEventListener("DOMContentLoaded", function(event) {
 												chds = nod_c.getChildenNodes()[i];
 												strHtml +='<li><a href="'+hostUrl + chds.getURL()+'">'+chds.getTitle()+'</a></li>';
 											}
+
+											strHtml +='<span class="mega-menu-sub-title">Extracted Netlist Analysis & Reduction</span>';
+											strHtml +='<li><a href="'+hostUrl + nod_net_o.getURL()+'">'+nod_net_o.getTitle()+'</a></li>';
+											
+											
 											strHtml +='<span class="mega-menu-sub-title">DIGITAL DESIGN</span>';
 											for(var i=0;nod_d.getChildenNodes()!=null && i<nod_d.getChildenNodes().length;i++){
 												chds = nod_d.getChildenNodes()[i];
@@ -570,7 +681,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 											
 											
 											document.write(strHtml);
-											</script><span class="mega-menu-sub-title">ANALOG/CUSTOM DESIGN</span><li><a href="/products/custom_ic_cad.html">Overview</a></li><li><a href="/products/analog_mixed_signal/schematic_editing/gateway.html">Schematic Editor</a></li><li><a href="/products/custom_ic_cad/layout_editing/expert.html">Layout Editor</a></li><li><a href="/products/custom_ic_cad/drc_lvs_net_physical_verification/guardian.html">DRC/LVS/NET Physical Verification</a></li><li><a href="/products/custom_ic_cad/full_chip_parasitic_extraction/hipex.html">Full-Chip Parasitic Extraction</a></li><li><a href="/products/custom_ic_cad/rlc_netlist_reduction/clarity_rlc.html">RLC Netlist Reduction</a></li><span class="mega-menu-sub-title">DIGITAL DESIGN</span><li><a href="/products/digital_cad.html">Overview</a></li><li><a href="/products/digital_cad/verilog_simulation/silos.html">Verilog Simulator</a></li><li><a href="/products/digital_cad/mixed_level_fault_simulator/hyperfault.html">Mixed-Level Fault Simulator</a></li><li><a href="/products/digital_cad/spice_netlist_verilog_gates_conversion/catalyst_ad.html">SPICE Netlist to Verilog Gates Converter</a></li><li><a href="/products/digital_cad/verilog_netlist_spice_netlist_converter/catalyst_da.html">Verilog Netlist to SPICE Netlist Converter</a></li><li><a href="/products/digital_cad/place_route_design_flow/spider.html">Place and Route Design Flow</a></li>
+											</script><span class="mega-menu-sub-title">ANALOG/CUSTOM DESIGN</span><li><a href="/products/custom_ic_cad.html">Overview</a></li><li><a href="/products/analog_mixed_signal/schematic_editing/gateway.html">Schematic Editor</a></li><li><a href="/products/custom_ic_cad/layout_editing/expert.html">Layout Editor</a></li><li><a href="/products/custom_ic_cad/drc_lvs_net_physical_verification/guardian.html">DRC/LVS/NET Physical Verification</a></li><li><a href="/products/custom_ic_cad/full_chip_parasitic_extraction/hipex.html">Full-Chip Parasitic Extraction</a></li><span class="mega-menu-sub-title">Extracted Netlist Analysis &amp; Reduction</span><li><a href="/products/netlist_analysis.html">Overview</a></li><span class="mega-menu-sub-title">DIGITAL DESIGN</span><li><a href="/products/digital_cad.html">Overview</a></li><li><a href="/products/digital_cad/verilog_simulation/silos.html">Verilog Simulator</a></li><li><a href="/products/digital_cad/mixed_level_fault_simulator/hyperfault.html">Mixed-Level Fault Simulator</a></li><li><a href="/products/digital_cad/spice_netlist_verilog_gates_conversion/catalyst_ad.html">SPICE Netlist to Verilog Gates Converter</a></li><li><a href="/products/digital_cad/verilog_netlist_spice_netlist_converter/catalyst_da.html">Verilog Netlist to SPICE Netlist Converter</a></li><li><a href="/products/digital_cad/place_route_design_flow/spider.html">Place and Route Design Flow</a></li>
 											
 										</ul>
 									</div>
@@ -598,7 +709,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
 											
 											document.write(strHtml);
-											</script><span class="mega-menu-sub-title">POWER INTEGRITY SIGNOFF</span><li><a href="/products/analog_mixed_signal/inVar/invar.html">InVar Power-EM/IR-Thermal</a></li><span class="mega-menu-sub-title">VARIATION-AWARE DESIGN</span><li><a href="/products/variation_analysis/variation_analysis.html">Overview</a></li><span class="mega-menu-sub-title">PDKs</span><li><a href="/design_flows/pdk.html">Overview</a></li><li><a class="mega-menu-sub-title" href="/products/2016BaselineFeatures.html"><span class="mega-menu-sub-title">Latest Baseline</span></a></li><span class="mega-menu-sub-title">PRODUCT EXAMPLES</span><li><a href="/examples/index.html">Overview</a></li><span class="mega-menu-sub-title">LICENSING</span><li><a href="/licensing/licensing.html">Overview</a></li>
+											</script><span class="mega-menu-sub-title">POWER INTEGRITY SIGNOFF</span><li><a href="/products/analog_mixed_signal/inVar/invar.html">Power-EM/IR-Thermal</a></li><span class="mega-menu-sub-title">VARIATION-AWARE DESIGN</span><li><a href="/products/variation_analysis/variation_analysis.html">Overview</a></li><span class="mega-menu-sub-title">PDKs</span><li><a href="/design_flows/pdk.html">Overview</a></li><li><a class="mega-menu-sub-title" href="/products/2016BaselineFeatures.html"><span class="mega-menu-sub-title">Latest Baseline</span></a></li><span class="mega-menu-sub-title">PRODUCT EXAMPLES</span><li><a href="/examples/index.html">Overview</a></li><span class="mega-menu-sub-title">LICENSING</span><li><a href="/licensing/licensing.html">Overview</a></li>
 											
 										</ul>
 									</div>
@@ -607,6 +718,110 @@ document.addEventListener("DOMContentLoaded", function(event) {
 						</li>
 					</ul>
 				</li>
+
+                <!--Begin IP Menu-->
+                <li id="top_product" class="dropdown mega-menu-item mega-menu-fullwidth">
+					<a class="dropdown-toggle" href="#">IP <i class="fa fa-angle-down"></i></a>
+					<ul class="dropdown-menu">
+						<li>
+							<div class="mega-menu-content">
+								<div class="row">
+                                    <div class="col-md-3">
+                                    <ul class="sub-menu">
+                                        <li><a class="mega-menu-sub-title" href="javascript:window.location.href=hostUrl + nod_ip.getURL();"><span class="mega-menu-sub-title"><script>document.write(nod_ip.getTitle());</script>ColdFire Microprocessors</span></a></li>
+                                        <script>
+                                        strHtml = '<span class="mega-menu-sub-title">ColdFire Microprocessors</span>';
+                                        for(var i=0;nod_ip.getChildenNodes()!=null && i<nod_ip.getChildenNodes().length;i++){
+                                        	chds = nod_ip.getChildenNodes()[i];
+                                        	strHtml +='<li><a href="'+hostUrl + chds.getURL()+'">'+chds.getTitle()+'</a></li>';
+                                        }
+                                         strHtml +='<span class="mega-menu-sub-title">Power Architecture Microprocessors</span>';
+                                        for(var i=0;nod_ip_pow.getChildenNodes()!=null && i<nod_ip_pow.getChildenNodes().length;i++){
+                                        	chds = nod_ip_pow.getChildenNodes()[i];
+                                        	strHtml +='<li><a href="'+hostUrl + chds.getURL()+'">'+chds.getTitle()+'</a></li>';
+                                        }
+                                       document.write(strHtml);
+                                        </script><span class="mega-menu-sub-title">ColdFire Microprocessors</span><li><a href="/products/IP/coldfire-v1-core/index.html">ColdFire V1 Core</a></li><li><a href="/products/IP/coldfire-v1-altera-fpga/index.html">ColdFire V1 Altera FPGA</a></li><li><a href="/products/IP/coldfire--v1-platform/index.html">ColdFire+ V1 Platform</a></li><li><a href="/products/IP/coldfire-v2-core/index.html">ColdFire V2 Core</a></li><li><a href="/products/IP/coldfire-v2-spp/index.html">ColdFire V2 SPP</a></li><li><a href="/products/IP/coldfire-v4-core/index.html">ColdFire V4 Core</a></li><li><a href="/products/IP/coldfire-v4-spp/index.html">ColdFire V4 SPP</a></li><span class="mega-menu-sub-title">Power Architecture Microprocessors</span><li><a href="/products/IP/power-architecture-e200-z0/index.html">Power Architecture e200 Z0 </a></li><li><a href="/products/IP/power-architecture-e200-z0/index.html">Power Architecture e200 Z1</a></li><li><a href="/products/IP/power-architecture-e200-z0/index.html">Power Architecture e200 Z3</a></li><li><a href="/products/IP/power-architecture-e200-z0/index.html">Power Architecture e200 Z6</a></li>
+                                    </ul>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <ul class="sub-menu">
+                                    	<script>
+                                         strHtml ='<span class="mega-menu-sub-title">16-bit Microprocessors</span>';
+                                        for(var i=0;nod_ip_16bm.getChildenNodes()!=null && i<nod_ip_16bm.getChildenNodes().length;i++){
+                                        	chds = nod_ip_16bm.getChildenNodes()[i];
+                                        	strHtml +='<li><a href="'+hostUrl + chds.getURL()+'">'+chds.getTitle()+'</a></li>';
+                                        }
+                                         strHtml +='<span class="mega-menu-sub-title">8-bit Microprocessors</span>';
+                                        for(var i=0;nod_ip_8bm.getChildenNodes()!=null && i<nod_ip_8bm.getChildenNodes().length;i++){
+                                        	chds = nod_ip_8bm.getChildenNodes()[i];
+                                        	strHtml +='<li><a href="'+hostUrl + chds.getURL()+'">'+chds.getTitle()+'</a></li>';
+                                        }
+                                         strHtml +='<span class="mega-menu-sub-title">USB Solutions</span>';
+                                        for(var i=0;nod_usb.getChildenNodes()!=null && i<nod_usb.getChildenNodes().length;i++){
+                                        	chds = nod_usb.getChildenNodes()[i];
+                                        	strHtml +='<li><a href="'+hostUrl + chds.getURL()+'">'+chds.getTitle()+'</a></li>';
+                                        }
+                                        document.write(strHtml);
+                                        </script><span class="mega-menu-sub-title">16-bit Microprocessors</span><li><a href="/products/IP/c166s/index.html">C166S</a></li><li><a href="/products/IP/cr16/index.html">CR16</a></li><span class="mega-menu-sub-title">8-bit Microprocessors</span><li><a href="/products/IP/hcs08/index.html">HCS08</a></li><li><a href="/products/IP/m8051ew-m8051w/index.html">M8051EW/M8051W</a></li><span class="mega-menu-sub-title">USB Solutions</span><li><a href="/products/IP/usb-2.0-hs-fs-device-controller/index.html">USB 2.0 HS/FS Device Controller</a></li><li><a href="/products/IP/usb-2.0-hs-fs-host-device-controller/index.html">USB 2.0 HS/FS Host/Device Controller</a></li><li><a href="/products/IP/usb-2.0-hs-fs-phy/index.html">USB 2.0 HS/FS PHY</a></li><li><a href="/products/IP/usb-2.0-fs-device-controller/index.html">USB 2.0 FS Device Controller</a></li><li><a href="/products/IP/usb-2.0-fs-host-device-controller/index.html">USB 2.0 FS Host/Device Controller</a></li><li><a href="/products/IP/usb-2.0-fs-i-o-transceiver/index.html">USB 2.0 FS I/O Transceiver</a></li>
+                                        
+                                    </ul>
+                                    </div>
+									<div class="col-md-3">
+										<ul class="sub-menu">
+											<script>
+                                       	strHtml = '<span class="mega-menu-sub-title">Test and Debug</span>';
+                                        for(var i=0;nod_tst.getChildenNodes()!=null && i<nod_tst.getChildenNodes().length;i++){
+                                        	chds = nod_tst.getChildenNodes()[i];
+                                        	strHtml +='<li><a href="'+hostUrl + chds.getURL()+'">'+chds.getTitle()+'</a></li>';
+                                        }
+                                        strHtml +='<span class="mega-menu-sub-title">Automotive</span>';
+                                        for(var i=0;nod_auto.getChildenNodes()!=null && i<nod_auto.getChildenNodes().length;i++){
+                                        	chds = nod_auto.getChildenNodes()[i];
+                                        	strHtml +='<li><a href="'+hostUrl + chds.getURL()+'">'+chds.getTitle()+'</a></li>';
+                                        }
+                                        strHtml +='<span class="mega-menu-sub-title">AMBA Bus Fabric</span>';
+                                        for(var i=0;nod_amba.getChildenNodes()!=null && i<nod_amba.getChildenNodes().length;i++){
+                                        	chds = nod_amba.getChildenNodes()[i];
+                                        	strHtml +='<li><a href="'+hostUrl + chds.getURL()+'">'+chds.getTitle()+'</a></li>';
+                                        }
+                                        strHtml +='<span class="mega-menu-sub-title">AMBA AHB SYSTEM FUNCTIONS</span>';
+                                        for(var i=0;nod_amba2.getChildenNodes()!=null && i<nod_amba2.getChildenNodes().length;i++){
+                                        	chds = nod_amba2.getChildenNodes()[i];
+                                        	strHtml +='<li><a href="'+hostUrl + chds.getURL()+'">'+chds.getTitle()+'</a></li>';
+                                        }
+											document.write(strHtml);
+											</script><span class="mega-menu-sub-title">Test and Debug</span><li><a href="/products/IP/ieee-1149.7-compact-jtag/index.html">IEEE 1149.7 Compact JTAG</a></li><li><a href="/products/IP/ieee-1149.7-dts-adapter/index.html">IEEE 1149.7 DTS Adapter</a></li><span class="mega-menu-sub-title">Automotive</span><li><a href="/products/IP/flexray-comm.-controller/index.html">FlexRay Comm. Controller </a></li><li><a href="/products/IP/multican-controller/index.html">MultiCAN Controller</a></li><span class="mega-menu-sub-title">AMBA Bus Fabric</span><li><a href="/products/IP/ahb-backbone/index.html">AHB Backbone</a></li><li><a href="/products/IP/ahb-bridge/index.html">AHB-APB Bridge</a></li><span class="mega-menu-sub-title">AMBA AHB SYSTEM FUNCTIONS</span><li><a href="/products/IP/dma-controller/index.html">DMA Controller</a></li>
+											
+										</ul>
+									</div>
+									<div class="col-md-3">
+										<ul class="sub-menu">
+											<script>
+                                        strHtml ='<span class="mega-menu-sub-title">AMBA APB System Functions</span>';
+                                        for(var i=0;nod_amba3.getChildenNodes()!=null && i<nod_amba3.getChildenNodes().length;i++){
+                                        	chds = nod_amba3.getChildenNodes()[i];
+                                        	strHtml +='<li><a href="'+hostUrl + chds.getURL()+'">'+chds.getTitle()+'</a></li>';
+                                        }
+										strHtml += '<span class="mega-menu-sub-title">AMBA Interfaces</span>';
+										for(var i=0;nod_amba4.getChildenNodes()!=null && i<nod_amba4.getChildenNodes().length;i++){
+											chds = nod_amba4.getChildenNodes()[i];
+											strHtml +='<li><a href="'+hostUrl + chds.getURL()+'">'+chds.getTitle()+'</a></li>';
+										}
+											
+											document.write(strHtml);
+											</script><span class="mega-menu-sub-title">AMBA APB System Functions</span><li><a href="/products/IP/interrupt_controller/index.html">Interrupt Controller</a></li><li><a href="/products/IP/timer-and-watchdog/index.html">Timer and Watchdog</a></li><li><a href="/products/IP/multifunction-timer/index.html">Multifunction Timer</a></li><li><a href="/products/IP/versatile-timer/index.html">Versatile Timer</a></li><li><a href="/products/IP/real-time-clock/index.html">Real Time Clock</a></li><span class="mega-menu-sub-title">AMBA Interfaces</span><li><a href="/products/IP/usart/index.html">USART</a></li><li><a href="/products/IP/i2s-audio-interface/index.html">I2S Audio Interface</a></li><li><a href="/products/IP/i2c-interface/index.html">I2C Interface</a></li><li><a href="/products/IP/advanced-audio-interface/index.html">Advanced Audio Interface</a></li><li><a href="/products/IP/can-controller/index.html">CAN Controller</a></li><li><a href="/products/IP/microwire-spi-controller/index.html">MICROWIRE/SPI Controller</a></li><li><a href="/products/IP/smart-card-interface/index.html">Smart Card Interface</a></li><li><a href="/products/IP/gen.-purpose-i-o-controller/index.html">Gen. Purpose I/O Controller</a></li>
+											
+										</ul>
+									</div>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</li>
+
+                <!--End IP Menu-->
+
 				<li id="top_solutions" class="dropdown ">
 					<a class="dropdown-toggle" href="#">Solutions <i class="fa fa-angle-down"></i></a>
 					<ul class="dropdown-menu">
@@ -650,7 +865,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 							strHtml +='<li><a href="'+hostUrl + chds.getURL()+'">'+chds.getTitle()+'</a></li>';
 						}
 						document.write(strHtml);
-						</script><li><a href="/company/profile/profile.html">About Us</a></li><li><a href="/news/pressreleases/index.html">News</a></li><li><a href="/company/management/index.html">Management</a></li><li><a href="/company/partners/partners.html">Partners</a></li><li><a href="/company/openings/openings.html">Careers</a></li><li><a href="/company/events/dac_2016.html">Events</a></li><li><a href="/company/events/conferences.html">Conferences</a></li><li><a href="/government/index.html">Goverment Program</a></li><li><a href="/company/university_program.html">University Program</a></li><li><a href="/company/offices/offices.html">Contact Us</a></li><li><a href="/company/30th-year.html">30 Years in Business</a></li>
+						</script><li><a href="/company/profile/profile.html">About Us</a></li><li><a href="/news/pressreleases/index.html">News</a></li><li><a href="/company/management/index.html">Management</a></li><li><a href="/company/partners/partners.html">Partners</a></li><li><a href="/company/openings/openings.html">Careers</a></li><li><a href="/company/events/JEDAS_2016.html">Events</a></li><li><a href="/company/events/conferences.html">Conferences</a></li><li><a href="/government/index.html">Goverment Program</a></li><li><a href="/company/university_program.html">University Program</a></li><li><a href="/company/offices/offices.html">Contact Us</a></li><li><a href="/company/30th-year.html">30 Years in Business</a></li>
 					</ul>
 				</li>
 			</ul>
@@ -915,7 +1130,7 @@ document.write(""+year+"")
 		<script src="/vendor/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>-->
 		<script src="/vendor/circle-flip-slideshow/js/jquery.flipshow.js"></script>
 		<script src="/vendor/nivo-slider/jquery.nivo.slider.js"></script>
-		<script src="/js/views/view.home.js"></script>
+		<script src="/js/views/view.home.js?20161011"></script>
 		
 		<!-- Theme Custom -->
 		<script src="/js/custom.js"></script>
