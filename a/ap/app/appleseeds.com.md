@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appleseeds.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515184604id_/http%3A//appleseeds.blair.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appleseeds.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123034447id_/http%3A//appleseeds.blair.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy Policy | Appleseeds
 
