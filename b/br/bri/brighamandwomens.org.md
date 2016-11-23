@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brighamandwomens.org privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609121341id_/http%3A//www.brighamandwomens.org/about_BWH/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighamandwomens.org privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123045446id_/http%3A//www.brighamandwomens.org/about_BWH/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,7 +22,7 @@ Sometimes we do need information to provide services that you request.  For exa
 
 Please do not provide personal information via email to the hospital unless it is through a secure channel (these will be marked, as secure on-line forms, for example). Remember that e-mail messages, while in transit, can be viewed by other Internet users. If you have individualized information to communicate, please use the appropriate secure on-line form or contact the necessary party using traditional means such as phone or mail.
 
-If you wish to subscribe to our Health E-Newsletter, we collect and store first and last name and email address. This information is used for distribution purposes. You can unsubscribe to the e-newsletter at any time by clicking [here to unsubscribe.](https://www.brighamandwomens.org/forms/newsletter/unsubscribe.aspx)
+If you wish to [subscribe to our Health E-Newsletter](http://www.brighamandwomens.org/newsletter/default.aspx), we collect and store first and last name and email address. This information is used for distribution purposes. If you would like to unsubscribe from our email newsletters, please email your request to [BWHweb@partners.org](mailto:BWHweb@partners.org).
 
 As explained below (see #3), we also collect and log the IP address (and identification number associated with your computer) when you visit the hospital’s web site.
 
@@ -88,4 +88,4 @@ If you have any questions or concerns about our Privacy Policy, please contact u
   
 
 
-This page was last modified on 11/17/2015 
+This page was last modified on 9/20/2016 
