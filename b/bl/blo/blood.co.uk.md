@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blood.co.uk privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315023905id_/https%3A//www.blood.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blood.co.uk privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123090852id_/https%3A//www.blood.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Blood Donation
 
@@ -51,7 +51,7 @@ If you are requesting access to your personal data, please ensure that your appl
 
 NHS Blood and Transplant (NHSBT) is a Special Health Authority within the NHS, responsible for managing NHS Blood and Transplant.
 
-This website (excluding linked sites) is controlled by NHS Blood and Transplant. The site can be accessed from countries around the World. As each of these places has laws that may differ from those of England & Wales by accessing the site both you and we agree that the laws of England shall apply to all matters arising from or relating to the use and contents of this site. You also agree and hereby submit to the non-exclusive jurisdiction of the courts of England and Wales with respect to such matters.
+This website (excluding linked sites) is controlled by NHS Blood and Transplant. The site can be accessed from countries around the World. As each of these places has laws that may differ from those of England by accessing the site both you and we agree that the laws of England shall apply to all matters arising from or relating to the use and contents of this site. You also agree and hereby submit to the non-exclusive jurisdiction of the courts of England with respect to such matters.
 
 By accessing and using this website in any way, including, without limitation, browsing the website, registering as a donor, using any information, using any content, using any services, downloading any materials, you agree to and are bound by these Legal Notices. If you do not accept these Legal Notices in full, please cease using this website immediately.
 
