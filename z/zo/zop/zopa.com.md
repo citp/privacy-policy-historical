@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zopa.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522213046id_/https%3A//www.zopa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zopa.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123112614id_/https%3A//www.zopa.com/privacy-policy) for the most accurate reproduction.*
 
 # Zopa's privacy policy
 
@@ -22,7 +22,7 @@
 
 ### General Operational Purposes
 
-  3. We as Information controller may use your Personal Information for: statistical analysis; to develop and improve our products; to update your records; to identify which of our, or others', products might interest you; to assess lending and insurance risks; to arrange, underwrite and administer insurance and handle claims; to identify, prevent, detect or tackle fraud, money laundering and other crime; to carry out regulatory checks; keeping you informed about your lending or borrowing and for market research. In addition: 
+  3. We as Information controller may collect and use your Personal Information for: statistical analysis; to develop and improve our products; to update your records; to identify which of our, or others', products might interest you; to assess lending and insurance risks; to arrange, underwrite and administer insurance and handle claims; to identify, prevent, detect or tackle fraud, money laundering and other crime; to carry out regulatory checks; keeping you informed about your lending or borrowing and for market research. In addition: 
     1. If false or inaccurate Information is provided and fraud is identified, details will be passed to fraud prevention agencies.
     2. Law enforcement agencies may access and use this Information.
     3. We and other organisations may also access and use this Information to prevent fraud and money laundering, for example, when: 
