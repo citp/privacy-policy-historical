@@ -1,63 +1,45 @@
-> *The following text is extracted and transformed from the nashvillescene.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608004519id_/http%3A//www.nashvillescene.com/nashville/PrivacyPolicy/Page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nashvillescene.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123204831id_/http%3A//www.nashvillescene.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Nashville Scene
+# Nashville Scene
 
-RE: Nashville Scene and nashvillescene.com 
+### Nashville Scene Privacy Policy
 
-Nashville Scene respects your privacy. Our privacy policy for this site follows, but the bottom line is this: Nashville Scene will not sell or share any of your personal information to a third party unless you say it's okay. Nashville Scene will gather personally identifiable information about you only when you provide it voluntarily for specific purposes such as posting an ad or signing up for an e-mail newsletter. 
+Nashville Scene recognizes the importance of protecting the privacy of information provided to us by those who use our products and services. This policy describes how personally identifiable and anonymous information about our publication subscribers, online media product users and event registrants may be collected and shared.
 
-_Policy effective as of September 25, 2006_
+Please be sure to read this Privacy Policy before using any Nashville Scene Web Site or submitting information through a Site. By using any of our Web Sites, you consent to our use of your information as outlined in this Privacy Policy and accept the terms and conditions herein.
 
-## Personally Identifiable Information
+This Privacy Policy is current as of March 4, 2011. If we change our privacy practices, we will also update this Privacy Policy. Users should review this policy periodically to monitor any changes. Your continued use of our sites and services constitutes your acceptance of this entire Privacy Policy, as updated from time to time. Nashville Scene reserves the right to access and disclose personally identifiable information to comply with applicable laws, lawful government requests and any orders of the court.
 
-We do track how our visitors use this site so that we can see what people like and don't like. We also analyze and aggregate information about use patterns and share the aggregated data with our advertisers (for example, we keep track of how many users see and click on particular advertisements). We may also collect personal information about you via registration for contests, surveys and newsletters, which may include contests, surveys and newsletters for certain third parties. We will not, however, release your name, e-mail address or any other personal information to anyone else outside Nashville Scene unless we have your consent, we are under a legal order to do so, or there is an emergency involving danger to a person or property. This means that we will not provide our advertisers or anyone else outside Nashville Scene with any information specific to you unless we have your consent. If you chose to provide your personally identifiable information for the purposes of a third-party contest, survey, or newsletter, you consent shall be deemed to be given for the release of your personally identifiable information with regard to that third party only, in addition to Nashville Scene. The only Nashville Scene employees or consultants allowed access to personal information about you are those who need to have access. Any employee or consultant who violates our privacy and security policies is subject to disciplinary action, including possible termination or prosecution. 
+### How does Nashville Scene collect your information?
 
-We occasionally have third party agents, subsidiaries, affiliates, and joint ventures that perform functions on our behalf, such as credit card processing, shipping or stocking orders, providing customer service, etc. They have access to personal information needed to perform their functions, and are contractually obligated to maintain the confidentiality and security of the data. They are restricted from using or altering this data in anyway other than to provide the requested services to the Site. 
+Nashville Scene uses cookies and other internet technologies in the management of our Web Site and email programs in an effort to enrich your online experience. We may also use IP addresses to gather broad geographic information for aggregate use. Our cookies do not contain any information that is personally identifiable. Like many Web Sites, Nashville Scene may use pixel tags, also known as web beacons, clear gifs, or web bugs. Pixel tags help us improve our understanding of our web traffic and visitor behavior, as well as gauge the response to our promotional efforts. If you wish, you may disable pixel tags by setting your browser to omit images and disable JavaScript.
 
-Please remember that any information you share in public area, such as message boards becomes public, and therefore this Privacy Policy does not apply to any information you choose to make public. Please be careful about what you disclose and do not post any personal information that you expect to keep private. 
+We use industry-standard, third party advertising service companies to serve advertisements when you visit our sites or open our emails. These companies may use cookies, pixel tags, and other methods to collect information about your visit to our Web Site, and others, in order to provide you with relevant advertisements about products, services, and events. These collection methods do not typically include your name, address, or telephone number. These elements also provide us with aggregate pictures of traffic patterns, which help us to improve your site experience and monitor advertising effort
 
-## Cookies
+### When is personally identifiable information collected? How is your information used?
 
-"Cookies" are small text files that allow Web sites to store and retrieve information about you from your computer system. Nashville Scene does serve cookies to track individual site usage for later aggregation. But we do not use cookies in order to retrieve any information from your computer other than information originally sent in a Nashville Scene cookie, such as a user code. We have no control over whether and how our advertisers use cookies **that originate from their website**. You are always free to decline our cookies if your browser permits, but you may not be able to take full advantage of our site's features, and we recommend that you leave them turned on. 
+Nashville Scene collects personally identifiable information that you choose to provide us when you subscribe to our magazines, sign up for e-newsletters, enter a contest, participate in surveys, login into our Web Sites using a third party login system (including, but not limited to, Facebook Connect, Twitter, etc.), register for a Web Site, webcast, or trade show, or otherwise communicate with us. When you provide this information to us, you are no longer anonymous. Nashville Scene does not take any steps to protect the privacy of information you volunteer about yourself in forums or other publicly accessible sections of our Web Sites.
 
-_IP address tracking_ : All computers and servers on the Internet use IP addresses to recognize and communicate with each other. We collect IP addresses to administer and analyze our site and report aggregate, non-personal information (such as how many visitors we have). When you call up our site on your computer, our servers enter the IP address of that computer into a log. To maintain our users' anonymity, we do not associate IP addresses with records containing personal information. 
+We may use your contact information to send notices for subscription renewal or provide you with information about products or services you have ordered with us. We may also use your contact information to send you e-newsletters or other promotional e-mails that contain targeted, relevant content that may be useful to your business. All promotional e-mails you receive from us will include an option to opt out of similar e-mail communications in the future.
 
-We do not and cannot use cookies or IP address tracking to retrieve personal information from your computer. 
+### With whom does Nashville Scene share your information?
 
-## Your Letter to the Editor Contributions
+Nashville Scene may share information with our affiliates and business partners whom we believe share our commitment to privacy and information security. We may share identifiable information or anonymized aggregate information with advertisers and other third parties. In some cases you may receive relevant, carefully-screened offers from reputable third party business organizations with which we have shared your information. Many of our customers appreciate receiving these offers because they are relevant and useful to their business or occupation. Each such communication will provide you with an opportunity to opt out of similar future communications.
 
-As with our print editions, we insist that you supply your real name, daytime telephone number or e-mail address. That is because we may need to contact you, and because your identity may be important to understand your point of view. If you send us such commentary, we reserve the right to publish it in print or display it on this site in full or in edited form. To protect your privacy, however, we will withhold your name and address upon request, both in print and on-line. 
+From time to time, you may receive information from or on behalf of advertisers who wish to contact you as a result of your viewing habits, such as where you have clicked on a link in a Nashville Scene e-newsletter, interacted with particular content, or indicated an interest in certain products, services or events. Each such form of contact will provide you with an opportunity to opt out of sharing your information with our advertisers. We may also use your information to send you e-mail and other communications on behalf of third parties. Each such communication will provide you with an opportunity to opt out of similar future communications.
 
-## Communication from Nashville Scene
+In compliance with privacy laws, we provide our opt-out lists to third parties so that any communications sent on Nashville Scene's behalf are not sent to those who have opted out of receiving such communications.
 
-From time to time, we may send you information with announcements and updates about the site and Nashville Scene and our partners. Any ongoing communication you may receive from Nashville Scene via e-mail, such as newsletters, subscriptions, contest results, survey inquiries, etc. may be terminated via a simple "opt out" procedure. You need only reply to the communication with the word "unsubscribe" (without the quotation marks) in the body of your e-mail response and your name will be removed from that mailing list. 
+### How does Nashville Scene protect your information?
 
-## Giveaways and Contests
+We use reasonable precautions, including appropriate technical, administrative, and physical procedures, to try to protect collected personal information from loss, misuse, or alteration.
 
-If you sign up to be eligible for a giveaway or contest on our Site, your information will be shared with the advertiser or sponsor of that giveaway or contest for one-time use to notify you if you have won. To the extent the giveaway or contest has its own terms that conflict with the terms of this Privacy Policy, the terms of the giveaway or contest shall govern. Personally identifiable information will be collected only if you voluntarily submit it to our sponsors or us. We will not use your personally identifiable information for any purpose other than the administration of the giveaway or contest without your permission. 
+Many of our Web Sites contain links to Web Sites owned and operated by unaffiliated third parties. These links are provided as a service to you, and do not constitute Nashville Scene's endorsement or support of those third parties or their Web Sites. Each third party Web Site has its own information collection and use practices, and we advise you to review their policies.
 
-## Children
+Nashville Scene is not responsible or liable for third party privacy practices or the content of third party sites. We are not responsible or liable for any breach of security or for the actions of these parties.
 
-Nashville Scene does not orient this site toward children under the age of 13 or target them as an audience, nor does it screen them from using the site. Some of the material on this site is for mature audiences, and parents and guardians should take responsibility for monitoring their children's use. Children under the age of 13 should not use this site. Nashville Scene does not collect or distribute information indicating whether a user is a child. 
+Due to the design of the Internet and other factors outside our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties. Any information you provide may be stored and maintained in a Nashville Scene database, either housed at Nashville Scene or with a third party vendor. In the case of a sale, change of ownership or merger involving Nashville Scene or any parent, subsidiary or affiliated company, your information may be transferred to a third party.
 
-## Links to Other Sites
+### What are your options for how Nashville Scene uses or shares your information?
 
-This site provides links and pointers to Web sites maintained by other organizations. Nashville Scene provides these links as a convenience to users, but it does not operate, control or endorse such sites. Nashville Scene also disclaims any responsibility for the information on those sites and any products or services offered there, and cannot vouch for the privacy policies of such sites. Nashville Scene does not make any warranties or representations that any linked sites (or even this site) will function without error or interruption, that defects will be corrected, or that the sites and their servers are free of viruses and other problems that can harm your computer. 
-
-## E-Commerce and Our Secure Server
-
-All commerce transactions that take place on this site are processed through our secure server in order to make every reasonable effort to insure that your personal information is protected. Any transactions that take place on other sites that have link from our site are not necessarily handled in this fashion. Nashville Scene disclaims any responsibility for transactions conducted on those sites and cannot vouch for the security of the information submitted in those transactions. (This section posted and effective as of October 25, 2001) 
-
-## Policy Changes
-
-The privacy policy is effective as of September 25, 2006. We may need to change it from time to time as technology and the nature of the Web keep evolving. We will endeavor to post any changes to this policy as soon as they go into effect. By visiting the Site, you are accepting the practices describe in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site and exit immediately. We reserve the right to modify or amend the terms of this Privacy Policy from time to time without notice at any time. Your continued use of the Site following the posting of changes to these terms will mean that you accept those changes. 
-
-## Governing Law/Sale of Company
-
-Our Site is published in the United States. U.S. law shall govern in any and all disputes, including privacy or defamation issues or otherwise. 
-
-In the event of a sale of or a sale of substantially all 's assets, the email database and all user information shall accrue to the new owners. Your personally identifiable information will continue to be governed by this Privacy Policy, as it may be amended from time to time. 
-
-## More Questions? Updates and Changes to Your Information.
-
-If you have any questions about this privacy policy, use our [Contact form ](https://web.archive.org/nashville/contact/page), and be sure to indicate the specific nature of your question or concern. 
+If you wish to opt out of receiving postal, email, fax or phone calls from Nashville Scene please send an email to: [PrivacyManager@southcomm.com](mailto:PrivacyManager@southcomm.com) . You may also call 800-547-7377 and ask for the Privacy Manager, or mail your request to the attention of the Privacy Manager at 210 12th Ave. South, Nashville, TN 37203. Specifically who this privacy manager is and how contacting them will work is subject to change. We will attempt to process any such requests within 10 business days or as soon as reasonably possible thereafter.
