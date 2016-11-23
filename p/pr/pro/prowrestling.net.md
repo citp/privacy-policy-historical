@@ -1,11 +1,25 @@
-> *The following text is extracted and transformed from the prowrestling.net privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905070050id_/http%3A//www.prowrestling.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prowrestling.net privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123201839id_/http%3A//prowrestling.net/site/our-privacy-policy-at-prowrestling-net) for the most accurate reproduction.*
 
-# PRO WRESTLING dot NET
+# Our Privacy Policy at ProWrestling.net – Pro Wrestling Dot Net
 
-ProWrestling.net respect your preferences concerning the treatment of personal information that we may collect from your use of prowrestling.net and your interactions with our company. This policy lets you know how we collect and use your personal information, and how you can control its use. This policy describes the broadest potential use of personal information throughout the prowrestling.net website and in off-line transactions. 
+**Last updated: May 1, 2016**
 
-Any personal information gathered in any manner will not be used for any purpose outside of serving you the pages you click on with the expected results of receiving information and entertainment from our site. We do not collect any information that is outside of the standard tracking of traffic from established traffic managers. We do not know, ask for, or obtain personal information of any kind as part of our operating procedure.
+Last Row Media LLC operates http://www.prowrestling.net (“ProWrestling.net”). This page informs you of our policies regarding the collection, use, and disclosure of Personal Information we receive from users of ProWrestling.net.
 
-Prowrestling.net provide links to non-prowrestling.net sites we believe may be of interest to you or that advertise with us. Those sites are beyond our control. You are advised to check the privacy policies and terms of use of any non-prowrestling.net sites before providing your personal information to them.
+We use your Personal Information only for providing and improving ProWrestling.net. By usingProWrestling.net, you agree to the collection and use of information in accordance with this policy.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>
+**Information Collection And Use**
+
+While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name (“Personal Information”).
+
+**Log Data**
+
+Like many site operators, we collect information that your browser sends whenever you visit our Site (“Log Data”).
+
+This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages, and other statistics.
+
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this information.
+
+**Communications**
+
+We may use your Personal Information to contact you with newsletters, marketing, or promotional materials and other information that you provide to us.
