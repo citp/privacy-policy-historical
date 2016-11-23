@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 14news.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628090228id_/http%3A//www.14news.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 14news.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123222510id_/http%3A//www.14news.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tri-State News, Weather & Sports
 
