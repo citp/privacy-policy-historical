@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vacationidea.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609081733id_/http%3A//vacationidea.com/about/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationidea.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123010902id_/http%3A//vacationidea.com/about/privacypolicy.cfm) for the most accurate reproduction.*
 
 # VacationIdea.com Privacy Policy
 
-This section explains our Privacy Policy so that you can have an understanding about the way information is collected and used by VacationIdea.com, a division of Chrema Inc.
+This section explains our Privacy Policy so that you can have an understanding about the way information is collected and used by VacationIdea.com, Chrema Inc.
 
 **The Information We Collect**  
 Chrema Inc provides a range of interactive user services, including but not limited to electronic greeting cards, e-mail this page to a friend, screensavers download, electronic newsletters, contests you can enter, voting in polls, online forums. Certain offerings, activities and parts of our network are only accessible and can only be used by persons who provide us with the requested personally identifiable information. The types of personally identifiable information that may be collected include name and e-mail address. We do not collect personally identifying information about visitors except when knowingly provided by our visitors. 
