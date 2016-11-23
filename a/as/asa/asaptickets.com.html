@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the asaptickets.com privacy policy that was archived on 2016-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160612140129id_/http%3A//www.asaptickets.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the asaptickets.com privacy policy that was archived on 2016-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161124002322id_/http%3A//www.asaptickets.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
     <!--[if lt IE 9]> <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
@@ -11,127 +11,24 @@
     <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
     <meta name="msapplication-config" content="none">
 
+    
+    
 
-        
-<script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script src="//p.smartertravel.com/ext/lib/partner-ad-sdk.min.js" async=""></script><script>
-    window.SmarterTravelNetwork_ready = window.SmarterTravelNetwork_ready || [];
-    window.SmarterTravelNetwork_ready.push(function (STNetwork) {
-        var $ = STNetwork.$;
-        $(document).ready(function(){
-            var	apiKey = 'qNEu1QZNQnaS6ebpazdKyw',
-                mainSearchFormPlacementId = 'SnIBK6WJTpSF-OdNw8i1uQ',
-                footerSearchFormPlacementId = 'J23Ts3EERPCZnaSZ8G88jw',
-                adVertical = 'air',
-                searchData = {},
-                options = {},
-                frontDoor;
+<!--Google Analytics-->
+<script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+	ga('create', 'UA-161175-1', 'auto');
+	ga('send', 'pageview');
 
-            STNetwork.init(apiKey, searchData, options);
-            // Create frontDoor based on which search form is using
-            frontDoor = document.getElementById('searchForm') ?
-                    createMainFrontDoor(frontDoor) : createFooterFrontDoor(frontDoor);
+	document.addEventListener('GA.send', function(event){
+	    ga('send', 'event', event.detail.category, event.detail.action, event.detail.label, event.detail.value);
+	});
+</script>
 
-            STNetwork.loadPlacements([frontDoor]);
-
-            function createMainFrontDoor(frontDoor) {
-                frontDoor = STNetwork.createFrontDoor({
-                    placementId: mainSearchFormPlacementId,
-                    adVertical: adVertical,
-                    containerSelector: '#stnFrontDoorContainer',
-                    formSelector: '#searchForm',
-                    redirectPageUrl: '/stn/redirect',
-                    prePopOnJQueryDatePicker: true
-                });
-
-                frontDoor.setDateInputFormat('MM/DD/YYYY');
-                frontDoor.setFormInput('origin_name', '#search_words_from1');
-                frontDoor.setFormInput('destination_name', '#search_words_to1');
-                frontDoor.setFormInput('date1', '#date1');
-                frontDoor.setFormInput('date2', '#date2');
-                frontDoor.setFormInput('num_travelers', '#adult');
-
-                frontDoor.setFlightTypeInputMapping({
-                    'roundtrip': 'roundtrip',
-                    'oneway': 'oneway'
-                });
-
-                frontDoor.setFormInput('flight_type', '[name="tripType"]');
-
-                frontDoor.setFormInput('flight_service_class', '#flight-class', function () {
-                    var flightValue = $('#flight-class').val();
-                    var flightClass;
-
-                    if(flightValue === 'business') {
-                        flightClass = 'business';
-                    } else if (flightValue === 'first') {
-                        flightClass = 'first_class';
-                    } else {
-                        flightClass = 'economy_coach';
-                    }
-                    return flightClass;
-                });
-
-                $('#perform-search').click(frontDoor.handleFormSubmitted);
-
-                return frontDoor;
-            }
-
-            function createFooterFrontDoor(frontDoor) {
-                frontDoor = STNetwork.createFrontDoor({
-                    placementId: footerSearchFormPlacementId,
-                    adVertical: adVertical,
-                    containerSelector: '#stnFrontDoorContainer',
-                    formSelector: '#big_search_form_2',
-                    redirectPageUrl: '/stn/redirect',
-                    prePopOnJQueryDatePicker: true
-                });
-
-                frontDoor.setDateInputFormat('MM/DD/YYYY');
-                frontDoor.setFormInput('origin_name', '#search_words_from2');
-                frontDoor.setFormInput('destination_name', '#search_words_to2');
-                frontDoor.setFormInput('date1', '#date3');
-                frontDoor.setFormInput('date2', '#date4');
-                frontDoor.setFormInput('num_travelers', '#adult');
-
-                frontDoor.setFormInput('flight_type', '#ftr-rt', function () {
-                    return $('#oneway', '#big_search_form_2').prop('checked') ? 'oneway' : 'roundtrip';
-                });
-
-                frontDoor.setFormInput('flight_service_class', '#cabin_class', function () {
-                    var flightValue = $('#cabin_class').val();
-                    var flightClass = null;
-
-                    if(flightValue === 'business') {
-                        flightClass = 'business';
-                    } else if (flightValue === 'first') {
-                        flightClass = 'first_class';
-                    } else {
-                        flightClass = 'economy_coach';
-                    }
-                    return flightClass;
-                });
-
-                $('input[type="button"], .js-inner-ftr-srch').click(function() {
-                    if($('#from2').val() !== '' && $('#to2').val() !== '') {
-                        $('#big_search_form_2').removeClass('no-stnFrontDoor');
-                    }
-                }).click(frontDoor.handleFormSubmitted);
-
-                return frontDoor;
-            }
-        });
-    });
-
-    // load the library
-    (function () {
-        var js = document.createElement('script');
-        js.src = '//p.smartertravel.com/ext/lib/partner-ad-sdk.min.js';
-        js.async = true;
-        var entry = document.getElementsByTagName('script')[0];
-        entry.parentNode.insertBefore(js, entry);
-    })();
-</script>    
     <title>Asaptickets.com Privacy Policy</title>
 
 	<meta name="Keywords" content="asaptickets privacy policy, our privacy policy rules, Privacy policy, personal information, privacy protection, secure information, personal data collection policy">
@@ -150,8 +47,8 @@
 
 
         
-    <link rel="image_src" type="image/png" href="https://d35tenmx28drri.cloudfront.net/app/Asaptickets/img/asap_logo_1.png">
-    <link rel="SHORTCUT ICON" href="https://d35tenmx28drri.cloudfront.net/app/Asaptickets/img/favicon.ico">
+    <link rel="image_src" type="image/png" href="http://www.asaptickets.com/app/Asaptickets/img/asap_logo_1.png">
+    <link rel="SHORTCUT ICON" href="http://www.asaptickets.com/app/Asaptickets/img/favicon.ico">
     <link href="https://plus.google.com/101273188344270491600" rel="publisher">
     
     <meta name="format-detection" content="telephone=no">
@@ -161,17 +58,17 @@
     <meta name="geo.position" content="37.793099, -122.394806">
     <meta name="geo.region" content="US-CA">
     <meta name="ICBM" content="37.793099, -122.394806">
-    <meta name="viewport" content="width=device-width, initial-scale=1, height=device-height">
+    <meta name="viewport" content="width=device-width, height=device-height">
     <base href="http://www.asaptickets.com/">
     
-		    <link rel="apple-touch-icon-precomposed" href="https://d35tenmx28drri.cloudfront.net/app/Asaptickets/img/apple-touch-icon-precomposed.png">
-		    <link rel="apple-touch-icon" href="https://d35tenmx28drri.cloudfront.net/app/Asaptickets/img/apple-touch-icon.png">
-		    <link rel="apple-touch-icon-precomposed" href="https://d35tenmx28drri.cloudfront.net/app/Asaptickets/img/apple-touch-icon-76x76-precomposed.png" sizes="76x76">
-		    <link rel="apple-touch-icon" href="https://d35tenmx28drri.cloudfront.net/app/Asaptickets/img/apple-touch-icon-76x76.png" sizes="76x76">
-		    <link rel="apple-touch-icon-precomposed" href="https://d35tenmx28drri.cloudfront.net/app/Asaptickets/img/apple-touch-icon-120x120-precomposed.png" sizes="120x120">
-		    <link rel="apple-touch-icon" href="https://d35tenmx28drri.cloudfront.net/app/Asaptickets/img/apple-touch-icon-120x120.png" sizes="120x120">
-		    <link rel="apple-touch-icon-precomposed" href="https://d35tenmx28drri.cloudfront.net/app/Asaptickets/img/apple-touch-icon-152x152-precomposed.png" sizes="152x152">
-		    <link rel="apple-touch-icon" href="https://d35tenmx28drri.cloudfront.net/app/Asaptickets/img/apple-touch-icon-152x152.png" sizes="152x152">        
+		    <link rel="apple-touch-icon-precomposed" href="http://www.asaptickets.com/app/Asaptickets/img/apple-touch-icon-precomposed.png">
+		    <link rel="apple-touch-icon" href="http://www.asaptickets.com/app/Asaptickets/img/apple-touch-icon.png">
+		    <link rel="apple-touch-icon-precomposed" href="http://www.asaptickets.com/app/Asaptickets/img/apple-touch-icon-76x76-precomposed.png" sizes="76x76">
+		    <link rel="apple-touch-icon" href="http://www.asaptickets.com/app/Asaptickets/img/apple-touch-icon-76x76.png" sizes="76x76">
+		    <link rel="apple-touch-icon-precomposed" href="http://www.asaptickets.com/app/Asaptickets/img/apple-touch-icon-120x120-precomposed.png" sizes="120x120">
+		    <link rel="apple-touch-icon" href="http://www.asaptickets.com/app/Asaptickets/img/apple-touch-icon-120x120.png" sizes="120x120">
+		    <link rel="apple-touch-icon-precomposed" href="http://www.asaptickets.com/app/Asaptickets/img/apple-touch-icon-152x152-precomposed.png" sizes="152x152">
+		    <link rel="apple-touch-icon" href="http://www.asaptickets.com/app/Asaptickets/img/apple-touch-icon-152x152.png" sizes="152x152">        
     <script>
         var isMobile = false;
         window.flightClass = "economic";
@@ -179,22 +76,37 @@
         window.international = "0";
         window.workTime = "d";
         window.from_dev = 0;
-        window.searchDomesticFlights = "off";
-        window.searchUsaCanadaFlights = "off";
+        window.searchDomesticFlights = "on";
+        window.searchUsaCanadaFlights = "on";
         var showReturnCalendar = true ;
-        var selected_date = 12 ;
+        var selected_date = 23 ;
         var phone = "";
         var wwwFullDir = "http://www.asaptickets.com/";
         var baseClassUrl = "http://www.asaptickets.com/";
-        window.serverToday = new Date( 2016 , 5 , 12 , 23, 59, 59);
+        window.serverToday = new Date( 2016 , 10 , 23 , 23, 59, 59);
         var isResultPage = false ;
         var checkSearchAjaxMethodName = "main/search/priceService/validator/checkSearchAjax";
         var mfsName = "Bot: ia_archiver";
     </script>
 
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "Product",
+            "name": "Your privacy is protected! ASAPtickets.com is committed to protecting your privacy while you are visiting our website",
+            "image": "http://www.asaptickets.com/image?id=243158",
+            "description": "Your privacy is protected! ASAPtickets.com is committed to protecting your privacy while you are visiting our website",
+			"offers":{
+				"@type": "Offer",
+				"priceCurrency": "USD",
+				"price": ""
+			}
+        }
+    </script>
     
-<link rel="stylesheet" type="text/css" href="http://www.asaptickets.com/combo/stylesBNFMTQM.1465374366.css">
-<script type="text/javascript" src="http://www.asaptickets.com/combo/scriptsBNFMTQM.1465374366.js"></script>
+    
+<link rel="stylesheet" type="text/css" href="http://www.asaptickets.com/combo/stylesBXIVRyF.1479301249.css">
+<script type="text/javascript" src="http://www.asaptickets.com/combo/scriptsBXIVRyF.1479301249.js"></script>
 
     
     
@@ -202,22 +114,44 @@
     
     <meta name="rating" content="general">
 
-    <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script>
+    
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script>
 <script>
-    $(document).on('requestsubmit', function(){
-	if(typeof window.google_trackConversion !== 'undefined'){
-	    window.google_trackConversion({
-		google_conversion_id: 1070782576,
-		google_conversion_language: "en",
-		google_conversion_format: "3",
-		google_conversion_color: "ffffff",
-		google_conversion_label: "OrdeCK6l1l8Q8LDL_gM",
-		google_remarketing_only: false
-	    });
-	}
+    $(document).on('ready', function () {
+        $(document).on('requestsubmit', function () {
+            if (typeof window.google_trackConversion !== 'undefined') {
+                window.google_trackConversion({
+                    google_conversion_id: 1070782576,
+                    google_conversion_language: "en",
+                    google_conversion_format: "3",
+                    google_conversion_color: "ffffff",
+                    google_conversion_label: "OrdeCK6l1l8Q8LDL_gM",
+                    google_remarketing_only: false
+                });
+            }
+        });
     });
 </script>
-    <script> 
+    
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script>
+<script>
+    $(document).on('ready', function () {
+        $(document).on('requestsubmit', function () {
+            if (typeof window.google_trackConversion !== 'undefined') {
+                window.google_trackConversion({
+                    google_conversion_id: 869856325,
+                    google_conversion_language: "en",
+                    google_conversion_format: "3",
+                    google_conversion_color: "ffffff",
+                    google_conversion_label: "UwDFCIbPj2wQxejjngM",
+                    google_remarketing_only: false
+                });
+            }
+        });
+    });
+</script>
+    
+<script> 
     (function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"4077908"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");
     $(document).on('requestsubmit', function(){
         window.uetq = window.uetq || []; 
@@ -253,14 +187,80 @@
                         />
                     </noscript>
                 <!-- End Facebook Pixel Code -->
-                <script async="" src="//static.hotjar.com/c/hotjar-39843.js?sv=5"></script></head>
+                
+    
+    <script async="" type="text/javascript" src="http://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js"></script>
+    
+<!-- Hotjar Tracking Code -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:39843,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script><script async="" src="//static.hotjar.com/c/hotjar-39843.js?sv=5"></script>
+    
+
+		    <!-- Yandex.Metrika informer 
+		    <a href="https://metrica.yandex.com/stat/?id=13384900&amp;from=informer"
+		    target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/13384900/3_1_FFFFFFFF_EFEFEFFF_0_pageviews"
+		    style="width:88px; height:31px; border:0;" alt="Yandex.Metrica" title="Yandex.Metrica: data for today (page views, visits and unique users)" onclick="try{Ya.Metrika.informer({i:this,id:30924686,lang:'en'});return false}catch(e){}"/></a>
+		    /Yandex.Metrika informer -->
+
+		    <!-- Yandex.Metrika counter -->
+		    <script type="text/javascript">
+		    (function (d, w, c) {
+			(w[c] = w[c] || []).push(function() {
+			    try {
+				w.yaCounter13384900 = new Ya.Metrika({id:13384900,
+					webvisor:true,
+					clickmap:true,
+					trackLinks:true,
+					accurateTrackBounce:true});
+			    } catch(e) { }
+			});
+
+			var n = d.getElementsByTagName("script")[0],
+			    s = d.createElement("script"),
+			    f = function () { n.parentNode.insertBefore(s, n); };
+			s.type = "text/javascript";
+			s.async = true;
+			s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+			if (w.opera == "[object Opera]") {
+			    d.addEventListener("DOMContentLoaded", f, false);
+			} else { f(); }
+		    })(document, window, "yandex_metrika_callbacks");
+		    </script>
+		    <noscript><div><img src="//mc.yandex.ru/watch/13384900" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+		    <!-- /Yandex.Metrika counter -->
+		    
+
+</head>
 <body>
+
+
+<div class="datepicker-layer js-datepicker-layer">
+    <div class="sidebar-wrap js-sidebar-wrap">
+        <div class="sidebar js-sidebar"></div>
+        <div class="sidebar-close">
+            <button type="button" class="btn-sidebar-close js-btn-close">Close</button>
+        </div>
+    </div>
+</div>
+
+
+
+
 	
         <section class="b-top-reasons hidden js-top-reasons" id="js-top-reasons">
 
         <ul class="b-top-reasons-list">
             <li class="b-top-reasons-list__item">
-                <b>Top 3 Reasons<a href="#" class="b-top-reasons-link js-slide-reasons-info"> Why Use a Travel Agent?</a></b>             </li>
+                <b>Top 3 Reasons<a href="#" class="b-top-reasons-link js-slide-reasons-info"> Why Use a Travel Agent?</a></b>            </li>
             <li class="b-top-reasons-list__item"><b>1.</b> Best-priced Deals &amp; Customized Itineraries</li>
             <li class="b-top-reasons-list__item"><b>2.</b> Personalized Care &amp; Brilliant Service</li>
             <li class="b-top-reasons-list__item"><b>3.</b> Airfare Market Expertise &amp; Your Time Saving</li>
@@ -298,7 +298,7 @@
                 </ul>
                 <div class="top-reasons-info__extra">
                     <b>Each time you contact us you’ll reach a real “live” person and your requests will be handled quickly and professionally.</b><br>
-                     Over 1500 Live travel agents are standing by ready to provide you with excellent service! Lowest price guaranteed                 </div>
+                     Over 650 Live travel agents are standing by ready to provide you with excellent service! Lowest price guaranteed                 </div>
             </div>
 
         </div>
@@ -312,57 +312,47 @@
                 <header class="main">
                                             <div class="head">
                                 <a class="h-logo " href="http://www.asaptickets.com/">
-                                                                            <img src="https://d35tenmx28drri.cloudfront.net/app/Asaptickets/img/economic/logo.png" width="215px" height="41px" alt="ASAPtickets logo">
+                                                                            <img src="http://www.asaptickets.com/app/Asaptickets/img/economic/logo2.png" alt="ASAPtickets logo">
                                                                     </a>
-                            <a target="_blank" href="http://www.bbb.org/greater-san-francisco/business-reviews/travel-agencies-and-bureaus/international-travel-network-in-san-francisco-ca-72752" class="h-bbb"></a>
-                            <a target="_blank" href="http://www.bbb.org/greater-san-francisco/business-reviews/travel-agencies-and-bureaus/international-travel-network-in-san-francisco-ca-72752" class="h-bbb__resp"></a>
+
+                         <!-- 15 years  -->
+                         <div class="years15"></div>
+
+                            <a target="_blank" href="http://www.bbb.org/greater-san-francisco/business-reviews/travel-agencies-and-bureaus/international-travel-network-in-san-francisco-ca-72752/Customer-Reviews" class="h-bbb"></a>
+                            <a target="_blank" href="http://www.bbb.org/greater-san-francisco/business-reviews/travel-agencies-and-bureaus/international-travel-network-in-san-francisco-ca-72752/Customer-Reviews" class="h-bbb__resp"></a>
+
                             
 <div class="h-number ">
 	<div class="horiz-title">Our Agents Are Ready for Your Call 24/7 </div>
 	<span class="h-call-number"><a href="tel:"></a></span>
 </div>
 
-<div class="h-call-me js-h-call-me">
+<div class="h-call-me js-h-call-me js-search-form">
 	<input class="js-callback-phone js-tooltip-hover" data-tooltip-id="info-tooltip-header" type="text" placeholder="Leave your number">
 	<a class="js-callback-control" href="#">Call Me</a>
 	<div class="h-tooltip info-tooltip-header" id="info-tooltip-header">
-		<p><span class="dark-gray">By submitting your contact information you agree to be contacted for travel booking services via phone, text messages and email. No purchase necessary. We respect your <a href="http://www.asaptickets.com/privacy" target="_blank">privacy</a>.</span></p>
+		<p><span class="dark-gray">By submitting your contact information you agree to be contacted for travel booking services via phone, text messages and email. No purchase necessary. We respect your <a href="http://www.asaptickets.com/privacy" target="_blank">privacy</a>.</span>
+     
+     <br><br></p>
 	</div>
 	<div class="call-me-form js-call-me-form" style="display: none;">
 		<input class="input-md input-phone js-input-phone js-init-tel" type="text" placeholder="Leave your number">
 		Please, let us know your travel plans:
-		<div class="input-container">
-			<input id="search_words_from15" value="" onclick="this.focus();this.select();clearDefaultValue(this.id);" onfocus="clearFieldAfterErr(this.id);clearDefaultValue(this.id);" onkeyup="this.value = this.value" onblur="this.value = this.value" class="input-sm input-departure js-input-from" type="text" placeholder="From">
-			<input type="hidden" name="from15" id="from15" value="" class="js-call-me-from-val">
-			<input id="search_words_to15" value="" onclick="this.focus();this.select();clearDefaultValue(this.id);" onfocus="clearFieldAfterErr(this.id);clearDefaultValue(this.id);" onkeyup="this.value = this.value" onblur="this.value = this.value" class="input-sm input-destination js-input-to" type="text" placeholder="To">
-			<input type="hidden" name="to15" id="to15" value="" class="js-call-me-to-val">
+        <form action="" method="" name="request">
+
+        <div class="input-container">
+			<input id="search_words_from15" value="" onkeyup="this.value = this.value" onblur="this.value = this.value" class="input-sm input-departure js-input-from js-autocomplete-from" type="text" placeholder="From">
+			<input type="hidden" name="from15" id="from15" value="" class="js-call-me-from-val js-hidden-from">
+			<input id="search_words_to15" value="" onkeyup="this.value = this.value" onblur="this.value = this.value" class="input-sm input-destination js-input-to js-autocomplete-to" type="text" placeholder="To">
+			<input type="hidden" name="to15" id="to15" value="" class="js-call-me-to-val js-hidden-to">
 		</div>
 
                 <div class="call-me-btn__call-wrap">
-			<a class="call-me-btn call-me-btn__call js-call-me-btn " href="#">Call me</a>
+			<a class="call-me-btn call-me-btn__call js-call-me-btn js-activate-popup" href="#">Call me</a>
 		</div>
-		<div class="loading"><img class="srch-load js-loading-p" src="https://d35tenmx28drri.cloudfront.net/image?id=200050" alt="loading" height="24" width="24" style="display:none"></div>
-	</div>
-	<div class="call-me-form js-success-form" style="display: none;">
-		<h3 class="success">Thank You!</h3>
-		<p>
-			Call Back Request submitted successfully,
-			<br>
-			you will be contacted shortly!
-		</p>
-                <div class="call-me-btn__call-wrap">
-                    <a class="call-me-btn close js-call-me-btn-close" href="#">close</a>
-                </div>
-	</div>
-	<!--<div class="call-me-form js-error-form" style="display: none;">
-		<h3 class="error">Error!</h3>
-		<p>
-			Please check the phone number
-			<br>
-			and try again!
-		</p>
-		<a class="call-me-btn js-call-me-btn-error" href="#">try again</a>
-	</div>-->
+		<div class="loading"><img class="srch-load js-loading-p" src="http://www.asaptickets.com/image?id=200050" alt="loading" height="24" width="24" style="display:none"></div>
+	</form>
+    </div>
 </div>
 
 <div class="h-pcode">
@@ -389,7 +379,8 @@
                 <ul>
                     <li><a href="http://www.asaptickets.com/cheap-flights">Top Destination Deals</a></li>
                     <li><a href="http://www.asaptickets.com/flights-to-usa">Cheap Flights to USA</a></li>
-                    <li><a href="http://www.asaptickets.com/group-travel">Group Travel</a></li>
+                    <li><a href="http://www.asaptickets.com/grouptravel">Group Travel</a></li>
+                    <li><a href="http://www.asaptickets.com/multi-city">Multi-city Flights</a></li> 
                     <li><a href="http://www.asaptickets.com/airlines">Top Airlines Deals</a></li>
                     <li><a href="http://www.asaptickets.com/one-way/flights">One-Way Flights</a></li>
                     <li><a href="http://www.asaptickets.com/premium-economy">Premium Economy Class</a></li>
@@ -427,53 +418,32 @@
                     <li><a href="http://www.asaptickets.com/customer-service/payment-methods">Payment Methods</a></li>
                     <li><a href="http://www.asaptickets.com/customer-service/delivery-tracking">Delivery &amp; Tracking</a></li>
                     <li><a href="http://www.asaptickets.com/customer-service/special-travel-needs">Special Travel Needs</a></li>
+                    <li><a href="http://www.asaptickets.com/customer-service/warsaw-convention">Warsaw Convention</a></li>
                 </ul>
             </li>
             <li class="current">
                 <a href="http://www.asaptickets.com/about">About Us</a>
                 <ul>
                     <li><a href="http://www.asaptickets.com/about">About Company</a></li>
+                    <li><a href="http://www.asaptickets.com/customer-stories">Customer Stories</a></li>
                     <li><a href="http://www.asaptickets.com/contact-us">Contact Us</a></li>
                     <li><a href="http://www.asaptickets.com/reviews">Reviews</a></li>
                     <li><a href="http://www.asaptickets.com/privacy">Privacy Policy</a></li>
                 </ul>
             </li>
         </ul>
-
-        <div class="header-social">
-            <div class="header-social__item">
-                <div class="fb-like" data-send="false" data-href="https://www.facebook.com/ASAPtickets" data-layout="button_count" data-width="450" data-show-faces="false" data-font="segoe ui"></div>
-            </div>
-            <div class="header-social__item">
-                <div class="trustpilot-widget header-social-trustpilot" data-locale="en-US" data-template-id="5419b757fa0340045cd0c938" data-businessunit-id="48fbe895000064000503d2ca" data-style-height="25" data-style-width="66"></div>
-            </div>
-            <div class="header-social__item trip"><a href="https://secure.itncorp.com/support/login" class="my-trip-link" target="_blank">My trip</a></div>
-        </div>
+        <a href="http://blog.asaptickets.com/" class="travel-blog" target="_blank">Travel Blog</a>
     </nav>
                     </div>
     </section>
 
     <div class="head-fix"></div>
 
-
 			<div class="m-container">
 	
 <script>/*<![CDATA[*/
     window.show_calendars = false;
     /*]]>*/</script>
-
-    <input type="hidden" id="hidden_leave_y13" value="-">
-    <input type="hidden" id="hidden_leave_d13" value="">
-    <input type="hidden" id="hidden_return_y14" value="-">
-    <input type="hidden" id="hidden_return_d14" value="">
-    
-    <div class="xmulti-popup js-mc-form-container-popup" id="mc-popup-container" data-type="popup">
-        <div class="xmulti-close js-mc-popup-close"></div>
-        <img src="https://d35tenmx28drri.cloudfront.net/image?id=200050" width="24" height="24" alt="loading" class="ajax-loading js-ajax-loading-image">
-    </div>
-       
- 
-    
 <form class="ftr-srch no-stnFrontDoor" id="big_search_form_2">
 
 	<!-- for multiple form on page capabilities -->
@@ -490,12 +460,12 @@
 		<div class="find-fare-btn" id="js-footer-search-toggle">find fare</div>
 	</div>
 	<div class="js-inner-ftr-srch">
-		<div class="inner t-rel no-padding">
+		<div class="inner t-rel no-padding ac_container">
 			<input class="ftr-srch-rt t-vmid" type="checkbox" id="ftr-rt" onclick="if ($(this).is(':checked')) {$('#oneway').prop('checked', false);$('#date4').prop('disabled', false).stop().fadeTo(200, 1);} else {$('#oneway').prop('checked', true);$('#date4').prop('disabled', true).stop().fadeTo(200, 0.3); }" checked="checked"><!---->
 			<input type="checkbox" style="display: none" id="oneway">
 			<div class="ftr-srch-lbl t-vmid">
-                            <label for="ftr-rt">Round-Trip</label> | <a class="js-mc-popup-show" href="">Multi-City</a>
-			</div><!---->
+                 <label for="ftr-rt">Round-Trip</label> | <a href="http://www.asaptickets.com/multi-city">Multi-City</a>
+			</div>
 
 
 			<ul class="searchForm2__popup" id="sameCity" style="display:none">
@@ -503,16 +473,16 @@
 			</ul>
 			<input class="f-footer-search-btn t-fr" type="button" value="Search" onclick="_travel.search.make({'form_id':'2', 'from_id':'3', 'to_id':'4'});">
 
-			<input type="hidden" name="from2" id="from2" value="">
-			<input class="input ftr-srch-input t-vmid" position="top" placeholder="From" id="search_words_from2" value="" onclick="this.focus();this.select();clearDefaultValue(this.id);" onfocus="clearFieldAfterErr(this.id);clearDefaultValue(this.id);$('#sameCity').fadeOut()"><!---->
 
-			<input type="hidden" name="to2" id="to2" value="">
-			<input class="input ftr-srch-input t-vmid" position="top" placeholder="To" id="search_words_to2" value="" onclick="this.focus();this.select();clearDefaultValue(this.id);" onfocus="clearFieldAfterErr(this.id);clearDefaultValue(this.id);$('#sameCity').fadeOut()"><!---->
+			<input type="hidden" name="from2" id="from2" value="" class="js-hidden-from">
+			<input class="input ftr-srch-input t-vmid js-autocomplete-from js-input-from" position="top" placeholder="From" id="search_words_from2" value="">
+
+			<input type="hidden" name="to2" id="to2" value="" class="js-hidden-to">
+			<input class="input ftr-srch-input t-vmid js-autocomplete-to js-input-to" position="top" placeholder="To" id="search_words_to2" value="">
 
 
-
-			<input class="input input-date ftr-srch-input ftr-srch-date t-vmid js-input-departure_date" placeholder="Departure" id="date3" value=""><!---->
-			<input class="input input-date ftr-srch-input ftr-srch-date t-vmid js-input-return_date" placeholder="Return" id="date4" value="" style="opacity: 1"><!---->
+			<input class="input input-date ftr-srch-input ftr-srch-date t-vmid js-input-departure_date js-datepicker-from" placeholder="Departure" id="date3" value="">
+			<input class="input input-date ftr-srch-input ftr-srch-date t-vmid js-input-return_date js-datepicker-to" placeholder="Return" id="date4" value="" style="opacity: 1">
 
 			<select class="input ftr-srch-input t-vmid" id="cabin_class">
 				<option id="cabin_class_economy" value="economy" selected="selected">Economy</option>
@@ -670,23 +640,23 @@
     <section class="m-section">
         <div class="header-box">
             <h2 class="hot-title">Our <span class="light-orange">Featured</span> Partner<br> Airlines Offers</h2>
-                        <p class="hot-claims">Discount wholesale airfares <br> at up to <span class="light-orange">50% OFF Retail</span></p>
+                        <p class="hot-claims">Discount wholesale airfares <br> at up to <span class="light-orange">50%* OFF Retail</span></p>
                         <a href="http://www.asaptickets.com/airlines">View All Airline Deals </a>
         </div>
         <div id="loading-line">
-            <img src="https://d35tenmx28drri.cloudfront.net/image?id=200050">
-            <img src="https://d35tenmx28drri.cloudfront.net/image?id=200050">
-            <img src="https://d35tenmx28drri.cloudfront.net/image?id=200050">
-            <img src="https://d35tenmx28drri.cloudfront.net/image?id=200050">
-            <img src="https://d35tenmx28drri.cloudfront.net/image?id=200050">
+            <img src="http://www.asaptickets.com/image?id=200050">
+            <img src="http://www.asaptickets.com/image?id=200050">
+            <img src="http://www.asaptickets.com/image?id=200050">
+            <img src="http://www.asaptickets.com/image?id=200050">
+            <img src="http://www.asaptickets.com/image?id=200050">
         </div>
                 <div class="logoes-asia" style="display:none;">
                                     <div class="logo-box first">
                 <div class="logo-text">
-                    <p>Save up to 50% Off to your Destination!</p>
+                    <p>Save up to 50%* Off to your Destination!</p>
                     <a href="http://www.asaptickets.com/airlines/eva-air" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=BR&amp;path=result_no_bg&amp;client_name=asaptickets: id(BR) path(result_no_bg) case(5) private()" alt="EVA Air">
+                                <img data-src="http://www.asaptickets.com/showLogo?id=br&amp;path=result_no_bg&amp;client_name=asaptickets: id(BR) path(result_no_bg) case(3) private()" alt="EVA Air">
                 <p class="edit_dot_cont">TOP Asian Destinations on Sale!</p>
                             </div>
                                     <div class="logo-box ">
@@ -694,15 +664,15 @@
                     <p>Fly to Major Asian Cities for Less!</p>
                     <a href="http://www.asaptickets.com/airlines/china-airlines" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=CI&amp;path=result_no_bg&amp;client_name=asaptickets: id(CI) path(result_no_bg) case(5) private()" alt="China Airlines">
-                <p class="edit_dot_cont">Save 30% OFF with 4-Star Airline!</p>
+                                <img data-src="http://www.asaptickets.com/showLogo?id=ci&amp;path=result_no_bg&amp;client_name=asaptickets: id(CI) path(result_no_bg) case(3) private()" alt="China Airlines">
+                <p class="edit_dot_cont">Save 30%* OFF with 4-Star Airline!</p>
                             </div>
                                     <div class="logo-box ">
                 <div class="logo-text">
                     <p>Fly to China, Philippines, Singapore, Thailand and more!</p>
                     <a href="http://www.asaptickets.com/airlines/asiana-airlines" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=OZ&amp;path=result_no_bg&amp;client_name=asaptickets: id(OZ) path(result_no_bg) case(5) private()" alt="Asiana Airlines">
+                                <img data-src="http://www.asaptickets.com/showLogo?id=oz&amp;path=result_no_bg&amp;client_name=asaptickets: id(OZ) path(result_no_bg) case(3) private()" alt="Asiana Airlines">
                 <p class="edit_dot_cont">Fly with 5-Star Airline starting at $589*!</p>
                             </div>
                                     <div class="logo-box ">
@@ -710,15 +680,15 @@
                     <p>Non-Stop Flights with National Airline of the Philippines and Asia's First Airline!</p>
                     <a href="http://www.asaptickets.com/airlines/philippine-airlines" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=PR&amp;path=result_no_bg&amp;client_name=asaptickets: id(PR) path(result_no_bg) case(5) private()" alt="Philippine Airlines">
-                <p class="edit_dot_cont">Non-Stop Flights to Manila from $855*!</p>
+                                <img data-src="http://www.asaptickets.com/showLogo?id=pr&amp;path=result_no_bg&amp;client_name=asaptickets: id(PR) path(result_no_bg) case(3) private()" alt="Philippine Airlines">
+                <p class="edit_dot_cont">Non-Stop Flights to Cebu from $720*!</p>
                             </div>
                                     <div class="logo-box ">
                 <div class="logo-text">
-                    <p>Fly with the Best Airline in Europe in 2014!</p>
+                    <p>Fly with the Best Airline in Europe in 2015!</p>
                     <a href="http://www.asaptickets.com/airlines/turkish-airlines" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=TK&amp;path=result_no_bg&amp;client_name=asaptickets: id(TK) path(result_no_bg) case(5) private()" alt="Turkish Airlines">
+                                <img data-src="http://www.asaptickets.com/showLogo?id=tk&amp;path=result_no_bg&amp;client_name=asaptickets: id(TK) path(result_no_bg) case(3) private()" alt="Turkish Airlines">
                 <p class="edit_dot_cont">Explore 4-Star Service for Less!</p>
                             </div>
                                 </div>
@@ -728,7 +698,7 @@
                     <p>Up to $30 Off on Round Trip &amp; Up To $15 on One-Way.</p>
                     <a href="http://www.asaptickets.com/airlines/emirates-airlines" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=EK&amp;path=result_no_bg&amp;client_name=asaptickets: id(EK) path(result_no_bg) case(5) private()" alt="Emirates Airlines">
+                                <img data-src="http://www.asaptickets.com/showLogo?id=ek&amp;path=result_no_bg&amp;client_name=asaptickets: id(EK) path(result_no_bg) case(3) private()" alt="Emirates Airlines">
                 <p class="edit_dot_cont">Fly to Africa with World's 4-Star Airline!</p>
                             </div>
                                     <div class="logo-box ">
@@ -736,7 +706,7 @@
                     <p>Experience The Best Staff Service in Africa!</p>
                     <a href="http://www.asaptickets.com/airlines/ethiopian-airlines" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=ET&amp;path=result_no_bg&amp;client_name=asaptickets: id(ET) path(result_no_bg) case(5) private()" alt="Ethiopian Airlines">
+                                <img data-src="http://www.asaptickets.com/showLogo?id=et&amp;path=result_no_bg&amp;client_name=asaptickets: id(ET) path(result_no_bg) case(3) private()" alt="Ethiopian Airlines">
                 <p class="edit_dot_cont">Fly to Over 35 Major Destinations in Africa!</p>
                             </div>
                                     <div class="logo-box ">
@@ -744,23 +714,23 @@
                     <p>Flight Deals to Middle East, Africa, Indian Subcontinent for Less!</p>
                     <a href="http://www.asaptickets.com/airlines/qatar-airways" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=QR&amp;path=result_no_bg&amp;client_name=asaptickets: id(QR) path(result_no_bg) case(5) private()" alt="Qatar Airways">
-                <p class="edit_dot_cont">Fly with 5-Star Airline to Africa from $705*!</p>
+                                <img data-src="http://www.asaptickets.com/showLogo?id=qr&amp;path=result_no_bg&amp;client_name=asaptickets: id(QR) path(result_no_bg) case(3) private()" alt="Qatar Airways">
+                <p class="edit_dot_cont">Fly with 5-Star Airline to Africa from $755*!</p>
                             </div>
                                     <div class="logo-box ">
                 <div class="logo-text">
-                    <p>Enjoy Flights with The Best Airline in Africa 2012!</p>
+                    <p>Enjoy Flights with The Best Airline in Africa 2015!</p>
                     <a href="http://www.asaptickets.com/airlines/south-african-airways" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=SA&amp;path=result_no_bg&amp;client_name=asaptickets: id(SA) path(result_no_bg) case(5) private()" alt="South African Airways">
-                <p class="edit_dot_cont">4-Star Airline from $795*!</p>
+                                <img data-src="http://www.asaptickets.com/showLogo?id=sa&amp;path=result_no_bg&amp;client_name=asaptickets: id(SA) path(result_no_bg) case(3) private()" alt="South African Airways">
+                <p class="edit_dot_cont">4-Star Airline from $889*!</p>
                             </div>
                                     <div class="logo-box ">
                 <div class="logo-text">
                     <p>Fly with Nigeria's National Carrier for Less!</p>
                     <a href="http://www.asaptickets.com/airlines/arik-air" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=W3&amp;path=result_no_bg&amp;client_name=asaptickets: id(W3) path(result_no_bg) case(5) private()" alt="Arik Air">
+                                <img data-src="http://www.asaptickets.com/showLogo?id=w3&amp;path=result_no_bg&amp;client_name=asaptickets: id(W3) path(result_no_bg) case(3) private()" alt="Arik Air">
                 <p class="edit_dot_cont">Non-Stop Flights from New York to Lagos!</p>
                             </div>
                                 </div>
@@ -770,15 +740,15 @@
                     <p>Enjoy Flights with Member of OneWorld!</p>
                     <a href="http://www.asaptickets.com/airlines/american-airlines" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=AA&amp;path=result_no_bg&amp;client_name=asaptickets: id(AA) path(result_no_bg) case(5) private()" alt="American Airlines">
-                <p class="edit_dot_cont">Fly to Over 273 Destinations from $765*!</p>
+                                <img data-src="http://www.asaptickets.com/showLogo?id=aa&amp;path=result_no_bg&amp;client_name=asaptickets: id(AA) path(result_no_bg) case(3) private()" alt="American Airlines">
+                <p class="edit_dot_cont">Fly to Over 344 Destinations from $465*!</p>
                             </div>
                                     <div class="logo-box ">
                 <div class="logo-text">
-                    <p>Fly to Over 92 Destinations from $495*!</p>
+                    <p>Fly to Over 60 Destinations from $495*!</p>
                     <a href="http://www.asaptickets.com/airlines/lot-polish-airlines" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=LO&amp;path=result_no_bg&amp;client_name=asaptickets: id(LO) path(result_no_bg) case(5) private()" alt="LOT Polish Airlines">
+                                <img data-src="http://www.asaptickets.com/showLogo?id=lo&amp;path=result_no_bg&amp;client_name=asaptickets: id(LO) path(result_no_bg) case(3) private()" alt="LOT Polish Airlines">
                 <p class="edit_dot_cont">Enjoy Flights with Member of Star Alliance!</p>
                             </div>
                                     <div class="logo-box ">
@@ -786,15 +756,15 @@
                     <p>Explore Over 199 Destinations with Member of Star Alliance!</p>
                     <a href="http://www.asaptickets.com/airlines/turkish-airlines" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=TK&amp;path=result_no_bg&amp;client_name=asaptickets: id(TK) path(result_no_bg) case(5) private()" alt="Turkish Airlines">
+                                <img data-src="http://www.asaptickets.com/showLogo?id=tk&amp;path=result_no_bg&amp;client_name=asaptickets: id(TK) path(result_no_bg) case(3) private()" alt="Turkish Airlines">
                 <p class="edit_dot_cont">Fly with Best Airline in Europe 2015!</p>
                             </div>
                                     <div class="logo-box ">
                 <div class="logo-text">
-                    <p>Fly to Over 39 Destinations with Member of SkyTeam!</p>
+                    <p>Fly to Over 44 Destinations with Member of SkyTeam!</p>
                     <a href="http://www.asaptickets.com/airlines/air-europa" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=UX&amp;path=result_no_bg&amp;client_name=asaptickets: id(UX) path(result_no_bg) case(5) private()" alt="Air Europa">
+                                <img data-src="http://www.asaptickets.com/showLogo?id=ux&amp;path=result_no_bg&amp;client_name=asaptickets: id(UX) path(result_no_bg) case(3) private()" alt="Air Europa">
                 <p class="edit_dot_cont">Save up to 50%* OFF to Europe!</p>
                             </div>
                                     <div class="logo-box ">
@@ -802,17 +772,17 @@
                     <p>Enjoy Leading Inflight Entertainment!</p>
                     <a href="http://www.asaptickets.com/airlines/virgin-atlantic" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=VS&amp;path=result_no_bg&amp;client_name=asaptickets: id(VS) path(result_no_bg) case(5) private()" alt="Virgin Atlantic">
+                                <img data-src="http://www.asaptickets.com/showLogo?id=vs&amp;path=result_no_bg&amp;client_name=asaptickets: id(VS) path(result_no_bg) case(3) private()" alt="Virgin Atlantic">
                 <p class="edit_dot_cont">Europe in World's 4-Star Comfort!</p>
                             </div>
                                 </div>
                 <div class="logoes-meast" style="display:none;">
                                     <div class="logo-box first">
                 <div class="logo-text">
-                    <p>Fly to Ovet 130 Destinations with World's Best Airline 2013!</p>
+                    <p>Fly to Over 160 Destinations with World's Best Airline 2016!</p>
                     <a href="http://www.asaptickets.com/airlines/emirates-airlines" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=EK&amp;path=result_no_bg&amp;client_name=asaptickets: id(EK) path(result_no_bg) case(5) private()" alt="Emirates Airlines">
+                                <img data-src="http://www.asaptickets.com/showLogo?id=ek&amp;path=result_no_bg&amp;client_name=asaptickets: id(EK) path(result_no_bg) case(3) private()" alt="Emirates Airlines">
                 <p class="edit_dot_cont">Explore Middle East in 4-Star Comfort!</p>
                             </div>
                                     <div class="logo-box ">
@@ -820,7 +790,7 @@
                     <p>Great Flight Deals to Africa and Middle East at 50%* OFF!</p>
                     <a href="http://www.asaptickets.com/airlines/egyptair" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=MS&amp;path=result_no_bg&amp;client_name=asaptickets: id(MS) path(result_no_bg) case(5) private()" alt="Egyptair">
+                                <img data-src="http://www.asaptickets.com/showLogo?id=ms&amp;path=result_no_bg&amp;client_name=asaptickets: id(MS) path(result_no_bg) case(3) private()" alt="Egyptair">
                 <p class="edit_dot_cont">Enjoy Non-stop flights to Cairo!</p>
                             </div>
                                     <div class="logo-box ">
@@ -828,15 +798,15 @@
                     <p>Flight Deals to Middle East, Africa, Indian Subcontinent with the 5-Star Airline!</p>
                     <a href="http://www.asaptickets.com/airlines/qatar-airways" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=QR&amp;path=result_no_bg&amp;client_name=asaptickets: id(QR) path(result_no_bg) case(5) private()" alt="Qatar Airways">
-                <p class="edit_dot_cont">Flight Deals to Middle East from $665*!</p>
+                                <img data-src="http://www.asaptickets.com/showLogo?id=qr&amp;path=result_no_bg&amp;client_name=asaptickets: id(QR) path(result_no_bg) case(3) private()" alt="Qatar Airways">
+                <p class="edit_dot_cont">Flight Deals to Middle East from $649*!</p>
                             </div>
                                     <div class="logo-box ">
                 <div class="logo-text">
                     <p>Discover Middle East, Africa &amp; Asia at 50%* OFF!</p>
                     <a href="http://www.asaptickets.com/airlines/saudia-airlines" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=SV&amp;path=result_no_bg&amp;client_name=asaptickets: id(SV) path(result_no_bg) case(5) private()" alt="Saudia Airlines">
+                                <img data-src="http://www.asaptickets.com/showLogo?id=sv&amp;path=result_no_bg&amp;client_name=asaptickets: id(SV) path(result_no_bg) case(3) private()" alt="Saudia Airlines">
                 <p class="edit_dot_cont">Fly to Middle East with Member of SkyTeam!</p>
                             </div>
                                     <div class="logo-box ">
@@ -844,17 +814,17 @@
                     <p>Fly to Major Cities in Middle East with 4-Star Airline!</p>
                     <a href="http://www.asaptickets.com/airlines/turkish-airlines" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=TK&amp;path=result_no_bg&amp;client_name=asaptickets: id(TK) path(result_no_bg) case(5) private()" alt="Turkish Airlines">
+                                <img data-src="http://www.asaptickets.com/showLogo?id=tk&amp;path=result_no_bg&amp;client_name=asaptickets: id(TK) path(result_no_bg) case(3) private()" alt="Turkish Airlines">
                 <p class="edit_dot_cont">Discover Middle East with Member of Star Alliance!</p>
                             </div>
                                 </div>
                 <div class="logoes-lamerica" style="display:none;">
                                     <div class="logo-box first">
                 <div class="logo-text">
-                    <p>Fly to Over 250 Destinations with Member of OneWorld!</p>
+                    <p>Fly to Over 344 Destinations with Member of OneWorld!</p>
                     <a href="http://www.asaptickets.com/airlines/american-airlines" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=AA&amp;path=result_no_bg&amp;client_name=asaptickets: id(AA) path(result_no_bg) case(5) private()" alt="American Airlines">
+                                <img data-src="http://www.asaptickets.com/showLogo?id=aa&amp;path=result_no_bg&amp;client_name=asaptickets: id(AA) path(result_no_bg) case(3) private()" alt="American Airlines">
                 <p class="edit_dot_cont">Experience High Standards of Service!</p>
                             </div>
                                     <div class="logo-box ">
@@ -862,7 +832,7 @@
                     <p>Fly to over 334 destinations with Member of SkyTeam!</p>
                     <a href="http://www.asaptickets.com/airlines/delta-air-lines" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=DL&amp;path=result_no_bg&amp;client_name=asaptickets: id(DL) path(result_no_bg) case(5) private()" alt="Delta Air Lines">
+                                <img data-src="http://www.asaptickets.com/showLogo?id=11&amp;path=result_no_bg&amp;client_name=asaptickets: id(11) path(result_no_bg) case(1) private()" alt="Delta Air Lines">
                 <p class="edit_dot_cont">Save up to 50%* OFF to Latin America!</p>
                             </div>
                                     <div class="logo-box ">
@@ -870,8 +840,8 @@
                     <p>Discover Latin America with Member of Star Alliance!</p>
                     <a href="http://www.asaptickets.com/airlines/united-airlines" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=UA&amp;path=result_no_bg&amp;client_name=asaptickets: id(UA) path(result_no_bg) case(5) private()" alt="United Airlines">
-                <p class="edit_dot_cont">Fly to Latin America from only $329 total</p>
+                                <img data-src="http://www.asaptickets.com/showLogo?id=ua&amp;path=result_no_bg&amp;client_name=asaptickets: id(UA) path(result_no_bg) case(3) private()" alt="United Airlines">
+                <p class="edit_dot_cont">Fly to Latin America from only $329* total</p>
                             </div>
                                 </div>
                 <div class="logoes-india" style="display:none;">
@@ -880,23 +850,23 @@
                     <p>World-Class Product and Services to India &amp; ISC</p>
                     <a href="http://www.asaptickets.com/airlines/jet-airways" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=9W&amp;path=result_no_bg&amp;client_name=asaptickets: id(9W) path(result_no_bg) case(5) private()" alt="Jet Airways">
-                <p class="edit_dot_cont">Fly to Over 69 Destinations at 50% OFF</p>
+                                <img data-src="http://www.asaptickets.com/showLogo?id=9w&amp;path=result_no_bg&amp;client_name=asaptickets: id(9W) path(result_no_bg) case(3) private()" alt="Jet Airways">
+                <p class="edit_dot_cont">Fly to Over 69 Destinations at 50%* OFF</p>
                             </div>
                                     <div class="logo-box ">
                 <div class="logo-text">
                     <p>Experience World's Best Inflight Entertaiment</p>
                     <a href="http://www.asaptickets.com/airlines/emirates-airlines" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=EK&amp;path=result_no_bg&amp;client_name=asaptickets: id(EK) path(result_no_bg) case(5) private()" alt="Emirates Airlines">
+                                <img data-src="http://www.asaptickets.com/showLogo?id=ek&amp;path=result_no_bg&amp;client_name=asaptickets: id(EK) path(result_no_bg) case(3) private()" alt="Emirates Airlines">
                 <p class="edit_dot_cont">4-Star Comfort to Top Cities in India &amp; ISC</p>
                             </div>
                                     <div class="logo-box ">
                 <div class="logo-text">
-                    <p>4-Star Flights from $779</p>
+                    <p>5-Star Flights from $725*</p>
                     <a href="http://www.asaptickets.com/airlines/etihad-airways" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=EY&amp;path=result_no_bg&amp;client_name=asaptickets: id(EY) path(result_no_bg) case(5) private()" alt="Etihad Airways">
+                                <img data-src="http://www.asaptickets.com/showLogo?id=ey&amp;path=result_no_bg&amp;client_name=asaptickets: id(EY) path(result_no_bg) case(3) private()" alt="Etihad Airways">
                 <p class="edit_dot_cont">Fly with Leading Airline in Middle East</p>
                             </div>
                                     <div class="logo-box ">
@@ -904,25 +874,25 @@
                     <p>Enjoy Flights with World's Best Airline 2015!</p>
                     <a href="http://www.asaptickets.com/airlines/qatar-airways" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=QR&amp;path=result_no_bg&amp;client_name=asaptickets: id(QR) path(result_no_bg) case(5) private()" alt="Qatar Airways">
-                <p class="edit_dot_cont">Fly to India &amp; ISC from only $725 total</p>
+                                <img data-src="http://www.asaptickets.com/showLogo?id=qr&amp;path=result_no_bg&amp;client_name=asaptickets: id(QR) path(result_no_bg) case(3) private()" alt="Qatar Airways">
+                <p class="edit_dot_cont">Fly to India &amp; ISC from only $669* total</p>
                             </div>
                                     <div class="logo-box ">
                 <div class="logo-text">
                     <p>Member of Star Alliance &amp; World's 4-Star Airline</p>
                     <a href="http://www.asaptickets.com/airlines/turkish-airlines" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=TK&amp;path=result_no_bg&amp;client_name=asaptickets: id(TK) path(result_no_bg) case(5) private()" alt="Turkish Airlines">
-                <p class="edit_dot_cont">Fly to Mumbai from only $845 round-trip, total</p>
+                                <img data-src="http://www.asaptickets.com/showLogo?id=tk&amp;path=result_no_bg&amp;client_name=asaptickets: id(TK) path(result_no_bg) case(3) private()" alt="Turkish Airlines">
+                <p class="edit_dot_cont">Fly to Mumbai from only $709* round-trip, total</p>
                             </div>
                                 </div>
                 <div class="logoes-russia" style="display:none;">
                                     <div class="logo-box first">
                 <div class="logo-text">
-                    <p>Fly to Over 92 Destinations from $495*!</p>
+                    <p>Fly to Over 60 Destinations from $495*!</p>
                     <a href="http://www.asaptickets.com/airlines/lot-polish-airlines" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=LO&amp;path=result_no_bg&amp;client_name=asaptickets: id(LO) path(result_no_bg) case(5) private()" alt="LOT Polish Airlines">
+                                <img data-src="http://www.asaptickets.com/showLogo?id=lo&amp;path=result_no_bg&amp;client_name=asaptickets: id(LO) path(result_no_bg) case(3) private()" alt="LOT Polish Airlines">
                 <p class="edit_dot_cont">Enjoy Flights with Member of Star Alliance!</p>
                             </div>
                                     <div class="logo-box ">
@@ -930,7 +900,7 @@
                     <p>Fly to Over 69 Destinations!</p>
                     <a href="http://www.asaptickets.com/airlines/czech-airlines" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=OK&amp;path=result_no_bg&amp;client_name=asaptickets: id(OK) path(result_no_bg) case(5) private()" alt="Czech Airlines">
+                                <img data-src="http://www.asaptickets.com/showLogo?id=ok&amp;path=result_no_bg&amp;client_name=asaptickets: id(OK) path(result_no_bg) case(3) private()" alt="Czech Airlines">
                 <p class="edit_dot_cont">Enjoy Service by SkyTeam Alliance Member!</p>
                             </div>
                                     <div class="logo-box ">
@@ -938,33 +908,33 @@
                     <p>Explore Over 199 Destinations with Member of Star Alliance!</p>
                     <a href="http://www.asaptickets.com/airlines/turkish-airlines" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=TK&amp;path=result_no_bg&amp;client_name=asaptickets: id(TK) path(result_no_bg) case(5) private()" alt="Turkish Airlines">
-                <p class="edit_dot_cont">Fly with Best Airline in Europe 2014!</p>
+                                <img data-src="http://www.asaptickets.com/showLogo?id=tk&amp;path=result_no_bg&amp;client_name=asaptickets: id(TK) path(result_no_bg) case(3) private()" alt="Turkish Airlines">
+                <p class="edit_dot_cont">Fly with Best Airline in Europe 2015!</p>
                             </div>
                                     <div class="logo-box ">
                 <div class="logo-text">
-                    <p>Fly to Over 39 Destinations with Member of SkyTeam!</p>
+                    <p>Fly to Over 44 Destinations with Member of SkyTeam!</p>
                     <a href="http://www.asaptickets.com/airlines/air-europa" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=UX&amp;path=result_no_bg&amp;client_name=asaptickets: id(UX) path(result_no_bg) case(5) private()" alt="Air Europa">
+                                <img data-src="http://www.asaptickets.com/showLogo?id=ux&amp;path=result_no_bg&amp;client_name=asaptickets: id(UX) path(result_no_bg) case(3) private()" alt="Air Europa">
                 <p class="edit_dot_cont">Save up to 50%* OFF to Europe!</p>
                             </div>
                                 </div>
                 <div class="logoes-oceania" style="display:none;">
                                     <div class="logo-box first">
                 <div class="logo-text">
-                    <p>Fly to Over 250 Destinations at 50%* OFF!</p>
+                    <p>Fly to Over 344 Destinations at 50%* OFF!</p>
                     <a href="http://www.asaptickets.com/airlines/american-airlines" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=AA&amp;path=result_no_bg&amp;client_name=asaptickets: id(AA) path(result_no_bg) case(5) private()" alt="American Airlines">
+                                <img data-src="http://www.asaptickets.com/showLogo?id=aa&amp;path=result_no_bg&amp;client_name=asaptickets: id(AA) path(result_no_bg) case(3) private()" alt="American Airlines">
                 <p class="edit_dot_cont">Fly with Member of OneWorld!</p>
                             </div>
                                     <div class="logo-box ">
                 <div class="logo-text">
-                    <p>Major Oceanian Destinations starting at $1179* round-trip!</p>
+                    <p>Major Oceanian Destinations starting at $909* round-trip!</p>
                     <a href="http://www.asaptickets.com/airlines/china-southern-airlines" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=CZ&amp;path=result_no_bg&amp;client_name=asaptickets: id(CZ) path(result_no_bg) case(5) private()" alt="China Southern Airlines">
+                                <img data-src="http://www.asaptickets.com/showLogo?id=cz&amp;path=result_no_bg&amp;client_name=asaptickets: id(CZ) path(result_no_bg) case(3) private()" alt="China Southern Airlines">
                 <p class="edit_dot_cont">Fly with 4-Star Airline</p>
                             </div>
                                     <div class="logo-box ">
@@ -972,23 +942,23 @@
                     <p>Fly with Australia's Largest Domestic &amp; International Airline!</p>
                     <a href="http://www.asaptickets.com/airlines/qantas-airways" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=QF&amp;path=result_no_bg&amp;client_name=asaptickets: id(QF) path(result_no_bg) case(5) private()" alt="Qantas Airways">
+                                <img data-src="http://www.asaptickets.com/showLogo?id=qf&amp;path=result_no_bg&amp;client_name=asaptickets: id(QF) path(result_no_bg) case(3) private()" alt="Qantas Airways">
                 <p class="edit_dot_cont">Fly with Best Airline Australia in Pacific 2014!</p>
                             </div>
                                     <div class="logo-box ">
                 <div class="logo-text">
-                    <p>Fly to Over 140 Destinations in 5-Star Comfort!</p>
+                    <p>Fly to Over 150 Destinations in 5-Star Comfort!</p>
                     <a href="http://www.asaptickets.com/airlines/qatar-airways" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=QR&amp;path=result_no_bg&amp;client_name=asaptickets: id(QR) path(result_no_bg) case(5) private()" alt="Qatar Airways">
-                <p class="edit_dot_cont">Fly with Member of One World Alliance from $1159*!</p>
+                                <img data-src="http://www.asaptickets.com/showLogo?id=qr&amp;path=result_no_bg&amp;client_name=asaptickets: id(QR) path(result_no_bg) case(3) private()" alt="Qatar Airways">
+                <p class="edit_dot_cont">Fly with Member of One World Alliance from $1219*!</p>
                             </div>
                                     <div class="logo-box ">
                 <div class="logo-text">
                     <p>Experience Best Staff Service During the Flight!</p>
                     <a href="http://www.asaptickets.com/airlines/virgin-australia" class="btn-blue" ontouchstart="window.location.href='http://www.asaptickets.com/airlines/'">View Deal</a>
                 </div>
-                                <img data-src="https://d35tenmx28drri.cloudfront.net/showLogo?id=VA&amp;path=result_no_bg&amp;client_name=asaptickets: id(VA) path(result_no_bg) case(5) private()" alt="Virgin Australia">
+                                <img data-src="http://www.asaptickets.com/showLogo?id=va&amp;path=result_no_bg&amp;client_name=asaptickets: id(VA) path(result_no_bg) case(3) private()" alt="Virgin Australia">
                 <p class="edit_dot_cont">Enjoy Best Redemption Ability &amp; Elite Program</p>
                             </div>
                                 </div>
@@ -1001,6 +971,34 @@
 
 <div class="wrapper clear footer-wrapper">
     <footer>
+        
+<div class="popup-wrap js-messages-popup">
+    <!-- This need to unfocus keyboad -->
+    <input type="checkbox" class="unfocus-keyboad js-unfocus-keyboad">
+
+    <h3 class="message-header js-message-header">Thank You For The Request!</h3>
+    <div class="message-content">
+        <p class="js-message-text">You will get a reply from a Travel Agent shortly. </p>
+        <a class="message-email" href="mailto:customerservice@asaptickets.com">customerservice@asaptickets.com</a>
+    </div>
+    <button class="close-popup-btn js-close-message-popup"></button>
+    <button class="close-popup-btn-lg js-close-message-popup">Close</button>
+    <button class="close-popup-btn-lg js-close-message-popup form-overlay-close">OK</button>
+
+    <div class="soc-icons">
+        <div>Follow us:</div>
+        <ul>
+        <li><a class="facebook" target="_blank" href="https://www.facebook.com/ASAPtickets?ref=ts" title="Follow us on Facebook"></a></li>
+            <li><a class="twitter" target="_blank" href="https://twitter.com/#!/ASAPtickets" title="Follow us on Twitter"></a></li>
+            <li><a class="google" target="_blank" href="https://plus.google.com/101273188344270491600" rel="publisher" title="Follow us on Google+"></a></li>
+            <li><a class="linkedin" target="_blank" href="https://www.linkedin.com/company/asaptickets" rel="publisher" title="Follow us on LinkedIn"></a></li>
+            <li><a class="youtube" target="_blank" href="https://www.youtube.com/ASAPtickets" rel="publisher" title="Youtube"></a></li>
+            <li><a class="instagram" target="_blank" href="https://www.instagram.com/asaptickets/" rel="publisher" title="Instagram"></a></li>
+            </ul>
+    </div>
+
+</div>
+
         <section class="m-section">
 
     <div class="a-mail-subscribe clear">
@@ -1009,15 +1007,19 @@
                 <div class="a-mail-subscribe__title">Don't Miss a Great Travel Deal Again!</div>
                 <p>Subscribe to Our Email and SMS Promo to See Our Great Deals First</p>
             </div>
-            <div class="a-mail-subscribe__form js-subscribe-form">
-                    <div class="ab-input-group clearfix">
-                        <div class="ab-input-field field-width-184"><input type="tel" name="phone" id="f-tel" placeholder="Enter Your Phone" onfocus="$(this).removeClass('input_messages_error')" class="ab-input js-input-phone js-init-tel"></div>
-                        <div class="ab-input-field field-width-174"><input type="text" id="f-email" class="ab-input js-input-email" onfocus="$(this).removeClass('input_messages_error')" placeholder="E-mail"></div>
-                        <button class="ab-button about-mail-subscribe__ab-button js-subscribe-button">Subscribe</button>
-                        <img src="https://d35tenmx28drri.cloudfront.net/image?id=200050" id="loading" alt="loading" class="loading-subs-img" height="24" width="24">
-                        <!--<span id="subscribe-success" class="newsltr-thx" style="display:none">Thank you for joining!<br/>Please check your email to complete subscription.</span>*}
-                    --></div>
-            </div>
+            <form class="a-mail-subscribe__form js-subscribe-form" name="subscribe">
+                <div class="ab-input-group clearfix">
+                    <div class="ab-input-field field-width-184">
+                        <input type="tel" name="phone" id="f-tel" placeholder="Enter Your Phone" class="ab-input js-input-phone js-init-tel" data-type="phone">
+                    </div>
+                    <div class="ab-input-field field-width-174">
+                        <input type="text" id="f-email" class="ab-input js-input-email" placeholder="E-mail" data-type="email">
+                    </div>
+                    <button class="ab-button about-mail-subscribe__ab-button js-subscribe-button js-activate-popup">Subscribe</button>
+                    <img src="http://www.asaptickets.com/image?id=200050" id="loading" alt="loading" class="loading-subs-img" height="24" width="24">
+                    <!--<span id="subscribe-success" class="newsltr-thx" style="display:none">Thank you for joining!<br/>Please check your email to complete subscription.</span>*}
+                --></div>
+            </form>
         </div>
     </div>
 
@@ -1204,7 +1206,7 @@
 
     </div>
     </section>
-        <section class="m-section">
+        <section class="m-section one-stop-shopping">
 
     <h2 class="hot-title">
         One Stop Shopping        <a href="http://www.asaptickets.com/travel-services">Learn More About Services</a>
@@ -1212,31 +1214,30 @@
     
     <ul class="offer-box">
       <li>
-        <div class="offer-icons offer-ico01"></div>
+        <a href="http://www.asaptickets.com/special-offers" target="_blank"><div class="offer-icons offer-ico01"></div></a>
         <p>Exclusive Airfare Contracts and Insider Consolidator Deals</p>
       </li>
       <li>
-        <div class="offer-icons offer-ico02"></div>
+        <a href="http://www.asaptickets.com/travel-extras" target="_blank"><div class="offer-icons offer-ico02"></div></a>
         <p>Discount Hotels, Rental Cars and Transfer Bookings</p>
       </li>
       <li>
-        <div class="offer-icons offer-ico03"></div>
+        <a href="http://www.asaptickets.com/ticket-protection" target="_blank"><div class="offer-icons offer-ico03"></div></a>
         <p>Ticket Protection for Your Peace of Mind With Worldwide Coverage</p>
       </li>
       <li>
-        <div class="offer-icons offer-ico04"></div>
-        <p>Excellent Service Provided by All of Our 650 Live Travel Agents</p>
+        <a href="http://www.asaptickets.com/about" target="_blank"><div class="offer-icons offer-ico05"></div></a>
+        <p>24/7/365 Excellent Service Provided by 650 Live Travel Agents</p>
       </li>
       <li>
-        <div class="offer-icons offer-ico05"></div>
-        <p>24/7/365 Service to Help You Every Step of the Way</p>
+        <a href="http://www.asaptickets.com/concierge-service" target="_blank"><div class="offer-icons offer-ico04"></div></a>
+        <p>Concierge Service Helps to Save Time, Money and Simplify Flight</p>
       </li>
     </ul>
 </section>
-
         <div class="foot">
             <a class="f-logo" href="http://www.asaptickets.com/">
-                <img src="https://d35tenmx28drri.cloudfront.net/app/Asaptickets/img/economic/logo-foot.png" width="140" height="23" alt="AsapTickets Logo">
+                <img src="http://www.asaptickets.com/app/Asaptickets/img/economic/logo-foot2.png" width="140" alt="AsapTickets Logo">
             </a>
             <div class="f-itn-logo">
                 <span class="f-itn-logo-img"></span>
@@ -1250,59 +1251,47 @@
                 <li><a href="http://www.asaptickets.com/links">Links</a></li>
             </ul>
             <div class="f-soc">
-                <a class="fb" target="_blank" href="https://www.facebook.com/ASAPtickets?ref=ts" title="Follow us on Facebook"></a>
-                <a class="tw" target="_blank" href="https://twitter.com/#!/ASAPtickets" title="Follow us on Twitter"></a>
-                <a class="g" target="_blank" href="https://plus.google.com/101273188344270491600" rel="publisher" title="Follow us on Google+"></a>
-                <a class="l" target="_blank" href="https://www.linkedin.com/company/asaptickets" rel="publisher" title="Follow us on LinkedIn"></a>
-                <a class="youtube" target="_blank" href="https://www.youtube.com/ASAPtickets" rel="publisher" title="Youtube"></a>
+                <a class="fb" target="_blank" href="https://www.facebook.com/ASAPtickets?ref=ts" name="facebook" title="Follow us on Facebook"></a>
+                <a class="tw" target="_blank" href="https://twitter.com/#!/ASAPtickets" name="twitter" title="Follow us on Twitter"></a>
+                <a class="g" target="_blank" href="https://plus.google.com/101273188344270491600" rel="publisher" name="googleplus" title="Follow us on Google+"></a>
+                <a class="l" target="_blank" href="https://www.linkedin.com/company/asaptickets" rel="publisher" name="linkedin" title="Follow us on LinkedIn"></a>
+                <a class="youtube" target="_blank" href="https://www.youtube.com/ASAPtickets" rel="publisher" name="youtube" title="Youtube"></a>
             </div>
         </div>
 
         <p class="copyright">
             ASAP Tickets is part of International Travel Network, major international consolidator for travel and related services.  <br>© 2016 International Travel Network. All rights reserved. CST 2077868-40;
-            Last modified: Sun, 12 Jun 2016 07:01                    </p>
+            Last modified: Wed, 23 Nov 2016 17:23                    </p>
 
         <div class="t-par"> <blank></blank></div>
         <div class="footer-partners">
-            <a href="http://www.asta.org/" target="_blank" class="footer-partners-1"></a>
-            <a href="http://www.iatan.org/Pages/default.aspx" target="_blank" class="footer-partners-2"></a>
-            <div class="footer-bbb">
-                <a id="bbb-link" class="" target="_blank" href="http://www.bbb.org/greater-san-francisco/business-reviews/travel-agencies-and-bureaus/international-travel-network-in-san-francisco-ca-72752" title="International Travel Network 100 Pine St Ste 1925, San Francisco, CA 94111-5136">
-                </a>
-            </div>
-            <a href="http://www.arccorp.com/support/arc-check.jsp?checkNumber=05578602" target="_blank" class="footer-partners-3"></a>
-            <a href="https://www.trustpilot.com/review/www.asaptickets.com" target="_blank" class="footer-partners-4"></a>
-            <a class="footer-partners-5">
+            <a class="footer-partners-1"></a>
+            <a class="footer-partners-2"></a>
+            <a class="footer-partners-3"></a>
+            <a class="footer-partners-4"></a>
+            <a class="footer-partners-5"></a>
+            <a class="footer-partners-6">
                 <div class="h-tooltip">
                     <p>*Lowest Fare Guarantee - We are so sure that our bulk private fares are unbeatable that we will give you a Low Fare Guarantee! As long as you call us within 24 hours from the purchase of your ticket and you provide us with a copy of the itinerary from any of our competitors which will include identical itinerary, including the fare basis and fare calculation information, we will match the price and send you $50 voucher to use towards your next purchase of any bulk private fares.</p>
                 </div>
             </a>
-            <a href="http://www.reviewcentre.com/reviews262075.html" target="_blank" class="footer-partners-18"></a>
-            <a class="footer-partners-6"></a>
             <a class="footer-partners-7"></a>
             <a class="footer-partners-8"></a>
             <a class="footer-partners-9"></a>
             <a class="footer-partners-10"></a>
+            <a class="footer-partners-11"></a>
             <a class="footer-partners-12"></a>
             <a class="footer-partners-13"></a>
             <a class="footer-partners-14"></a>
             <a class="footer-partners-15"></a>
             <a class="footer-partners-16"></a>
             <a class="footer-partners-17"></a>
+            <a class="footer-partners-18"></a>
         </div>
     </footer>
 </div>
 
-<form class="feedback-popup hidden">
-   <h3 class="popup-hdr">Help Us Improve</h3>
-    <img src="https://d35tenmx28drri.cloudfront.net/app/Asaptickets/img/close-ugly.png" class="popup-close" height="34" width="34" alt="X" onclick="mainPagePopUp.fadeOut();">
 
-    <img src="https://d35tenmx28drri.cloudfront.net/image?id=200050" class="ajax-loading js-ajax-loading-image" alt="loading">
-    <section class="hidden js-feedback-popup-container">
-    
-    </section>
-</form>
-<span class="feedback-lnk js-fadein-link" title="Help us improve - leave your feedback"></span>
 
 
 
@@ -1339,8 +1328,7 @@
                     </ul>
                 </div>
                 <div class="window-request-alert-advertising">
-                    Over 1500 Live travel agents are standing by ready to provide you with excellent service! Lowest price guaranteed
-                </div>
+                    Over 650 Live travel agents are standing by ready to provide you with excellent service! Lowest price guaranteed                </div>
 
                 <div class="window-request__wrapper js-window-request-main-form">
                     <div class="js-form-wrap">
@@ -1355,21 +1343,21 @@
 
                             <div class="window-request-slide-block js-window-request-slide-block">
                                 
-<form action="post">
+<form action="post" name="request">
     <div class="window-request-form-group clearfix">
-        <input type="text" name="name" placeholder="Your name" class="r-window-input r-window-input_w166 js-input-name">
-        <input type="tel" name="f-tel" id="f-tel" placeholder="Phone  Number" class="r-window-input js-input-phone js-init-tel">
-        <input id="search_words_from21" type="text" placeholder="From" class="r-window-input r-window-input_w166 js-input-from">
-        <input id="search_words_to21" type="text" placeholder="To" class="r-window-input r-window-input_w166 js-input-to">
-        <input type="hidden" name="from21" id="from21" value="" class="js-region-input-from-hidden">
-        <input type="hidden" name="to21" id="to21" value="" class="js-region-input-to-hidden">
+        <input type="text" name="name" placeholder="Your name" class="r-window-input r-window-input_w166 js-input-name" data-type="name">
+        <input type="tel" name="f-tel" id="f-tel" placeholder="Phone  Number" class="r-window-input js-input-phone js-init-tel" data-type="phone">
+        <input id="search_words_from21" type="text" placeholder="From" class="r-window-input r-window-input_w166 js-input-from js-autocomplete-from" data-type="city">
+        <input id="search_words_to21" type="text" placeholder="To" class="r-window-input r-window-input_w166 js-input-to js-autocomplete-to" data-type="city">
+        <input type="hidden" name="from21" id="from21" value="" class="js-region-input-from-hidden js-hidden-from">
+        <input type="hidden" name="to21" id="to21" value="" class="js-region-input-to-hidden js-hidden-to">
     </div>
 
     <div class="window-request__bottom-nigh clearfix">
         <div class="window-alert-important">By submitting Your contact information You agree to be contacted for travel booking services via phone, text messages and email. No purchase necessary. We respect your
             <a href="privacy">privacy</a>.
         </div>
-        <input type="submit" value="Call Me" class="call-me-button js-send-request-button">
+        <input type="submit" value="Call Me" class="call-me-button js-send-request-button js-activate-popup" readonly="">
     </div>
 </form>
 
@@ -1461,63 +1449,76 @@
 
 
 
+<span class="subscribe-lnk js-open-subscribe-popup js-sidebar-letter"></span>
+
 <!-- New popup system -->
 
 
 <div id="dial_subscribe" class="popup-dial-letter js-subscribe-form js-popup-dial-letter">
-    <div class="popup-dial-letter__close js-close-popup-dial-letter"></div>
+    <div class="scrollable">
+    <div class="popup-dial-letter__close js-close-popup-dial-letter hide-sm"></div>
+    <div class="popup-dial-letter__close-mobile js-close-popup-dial-letter show-sm"></div>
     <div class="popup-dial-letter__container">
         <div class="popup-dial-letter__header">
-            <div class="popup-dial-letter__title">Don't Miss a Great Travel Deal Again</div>
+            <div class="popup-dial-letter__title hide-sm">Don't Miss a Great Travel Deal Again</div>
+            <div class="popup-dial-letter__title show-sm">Don't Miss<br>a Great Deal Again!</div>
         </div>
         <div class="popup-dial-letter__content">
-            <div>
+            <div class="hide-sm">
                 Subscribe to our deals and receive secret promos by Email or SMS
+            </div>
+            <div class="popup-dial-letter__subtitle show-sm">
+                Subscribe to Our Email and SMS Promo<br>
+                to See Great Deals First
             </div>
             <div class="clearfix">
                 <div class="popup-dial-letter__form-box">
-                    <form action="?" class="pdl-form">
+                    <form action="?" class="pdl-form" name="subscribe">
                         <div class="pdl-field">
-                            <input type="tel" name="phone" id="f-tel" placeholder="Enter Your Phone" class="pdl-input js-input-phone js-init-tel">
+                            <input type="tel" name="phone" id="f-tel" placeholder="Phone number" class="pdl-input js-input-phone js-init-tel" data-type="phone">
                         </div>
                         <div class="pdl-field">
-                            <input type="email" name="phone" placeholder="E-mail" class="pdl-input js-input-email">
+                            <input type="email" name="phone" placeholder="E-mail" class="pdl-input js-input-email" data-type="email">
                         </div>
                         <div class="pdl-field">
-                            <button class="pdl-button js-subscribe-button">Subscribe</button>
+                            <button class="pdl-button js-subscribe-button js-activate-popup">Subscribe</button>
                         </div>
                     </form>
                 </div>
+
                 <div class="popup-dial-letter__list-avail">
                     <ul class="pdl-list-avail">
                         <li>Exclusive Airfare Promos to Top Destinations</li>
                         <li>Price Drop Alerts on Major Airlines</li>
-                        <li>Up to $500 Off on Season Deals</li>
+                        <li>Up to 50%* Off on Season Deals</li>
                         <li>Group and Family Discounts</li>
                     </ul>
                 </div>
             </div>
         </div>
     </div>
+    </div>
 </div>
 
 <div id="newsltr-popup-main" class="popup-dial-letter dial-letter-success js-popup-dial-letter-dest js-popup-dial-letter">
-    <div id="newsltr-popup-close" class="popup-dial-letter__close js-close-popup-dial-letter"></div>
+    <div id="newsltr-popup-close" class="popup-dial-letter__close js-close-popup-dial-letter hide-sm"></div>
+    <div class="popup-dial-letter__close-mobile js-close-popup-dial-letter show-sm"></div>
     <div class="popup-dial-letter__container">
         <div id="subscribe-success" class="success-msg">
             <div class="popup-dial-letter__header">
-                <div class="popup-dial-letter__title">Thank You!</div>
+                <div class="popup-dial-letter__title">Thank You For Subscribing!</div>
             </div>
             <div class="pdl-success-alert clearfix">
                 <div class="pdl-success-alert__icon"></div>
                 <div class="pdl-success-alert__text">
-                    We have just sent You an email to confirm Your subscription. Please, make sure email hasn't been delivered to the “spam” folder.
+                    We have sent You an e-mail to address You have provided, please follow the instructions in the e-mail to confirm Your subscription. In case if you didn't receive e-mail please write us
+                    <a href="mailto:customerservice@asaptickets.com">customerservice@asaptickets.com</a>
                 </div>
             </div>
             <a href="#" class="pdl-button js-accept-button">Close</a>
         </div>
         <div id="destinations" class="popup-dial-letter__content">
-            <div>
+            <div class="dial-popup-letter__subtitle">
                 <b>Help us to make deals Special for You. Choose Your Travel Destinations:</b>
             </div>
             <div class="popup-dial-letter__check-list">
@@ -1584,10 +1585,9 @@
                             </div>
                         </li>
                     </ul>
+                    <button class="pdl-button js-accept-button">Subscribe</button>
                 </form>
             </div>
-            <a href="#" class="pdl-button js-accept-button">Subscribe</a>
-	    <span class="error error-text js-error-text">Please Choose Your Travel Destinations</span>
         </div>
     </div>
 </div>
@@ -1596,129 +1596,11 @@
 <!-- Metrix, pixels, other -->
 
 
-<script type="text/javascript" src="http://www.asaptickets.com/combo/scriptsCKQwvUR.1465462601.js"></script>
-
-
-<script async="" type="text/javascript" src="http://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js"></script>
-
-
-<!--Google Analytics-->
-<script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-	ga('create', 'UA-161175-1', 'auto');
-	ga('send', 'pageview');
-
-	document.addEventListener('GA.send', function(event){
-	    ga('send', 'event', event.detail.category, event.detail.action, event.detail.label, event.detail.value);
-	});
-</script>
-
-<!-- Hotjar Tracking Code -->
-<script>
-    (function(h,o,t,j,a,r){
-        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-        h._hjSettings={hjid:39843,hjsv:5};
-        a=o.getElementsByTagName('head')[0];
-        r=o.createElement('script');r.async=1;
-        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-        a.appendChild(r);
-    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
-</script>
+<script type="text/javascript" src="http://www.asaptickets.com/combo/scriptsDGwQOHO.1479908459.js"></script>
 
 
 
-<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script>
-<script>
-    $(document).on('requestsubmit', function(){
-	if(typeof window.google_trackConversion !== 'undefined'){
-	    window.google_trackConversion({
-		google_conversion_id: 1070782576,
-		google_conversion_language: "en",
-		google_conversion_format: "3",
-		google_conversion_color: "ffffff",
-		google_conversion_label: "OrdeCK6l1l8Q8LDL_gM",
-		google_remarketing_only: false
-	    });
-	}
-    });
-</script>
 
-<script> 
-    (function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"4077908"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");
-    $(document).on('requestsubmit', function(){
-        window.uetq = window.uetq || []; 
-        window.uetq.push({ 'ea':'request'}); 
-    });
-</script>
- 
-                <!-- Facebook Pixel Code -->
-                    <script>
-                        !function(f,b,e,v,n,t,s){
-                            if(f.fbq)return;
-                            n=f.fbq=function(){
-                                n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)
-                            };
-                            if(!f._fbq)f._fbq=n;
-                            n.push=n;
-                            n.loaded=!0;
-                            n.version='2.0';
-                            n.queue=[];
-                            t=b.createElement(e);
-                            t.async=!0;
-                            t.src=v;
-                            s=b.getElementsByTagName(e)[0];
-                            s.parentNode.insertBefore(t,s)
-                        }(window,document,'script','//connect.facebook.net/en_US/fbevents.js');
-
-                        fbq('init', '854999304580355');
-                        fbq('track', 'PageView');
-                    </script>
-                    <noscript>
-                        <img height='1' width='1' style='display:none'
-                        src='https://www.facebook.com/tr?id=854999304580355&ev=PageView&noscript=1'
-                        />
-                    </noscript>
-                <!-- End Facebook Pixel Code -->
-                
-
-		    <!-- Yandex.Metrika informer 
-		    <a href="https://metrica.yandex.com/stat/?id=13384900&amp;from=informer"
-		    target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/13384900/3_1_FFFFFFFF_EFEFEFFF_0_pageviews"
-		    style="width:88px; height:31px; border:0;" alt="Yandex.Metrica" title="Yandex.Metrica: data for today (page views, visits and unique users)" onclick="try{Ya.Metrika.informer({i:this,id:30924686,lang:'en'});return false}catch(e){}"/></a>
-		    /Yandex.Metrika informer -->
-
-		    <!-- Yandex.Metrika counter -->
-		    <script type="text/javascript">
-		    (function (d, w, c) {
-			(w[c] = w[c] || []).push(function() {
-			    try {
-				w.yaCounter13384900 = new Ya.Metrika({id:13384900,
-					webvisor:true,
-					clickmap:true,
-					trackLinks:true,
-					accurateTrackBounce:true});
-			    } catch(e) { }
-			});
-
-			var n = d.getElementsByTagName("script")[0],
-			    s = d.createElement("script"),
-			    f = function () { n.parentNode.insertBefore(s, n); };
-			s.type = "text/javascript";
-			s.async = true;
-			s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
-
-			if (w.opera == "[object Opera]") {
-			    d.addEventListener("DOMContentLoaded", f, false);
-			} else { f(); }
-		    })(document, window, "yandex_metrika_callbacks");
-		    </script>
-		    <noscript><div><img src="//mc.yandex.ru/watch/13384900" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-		    <!-- /Yandex.Metrika counter -->
-		
 
 
 </body></html>
