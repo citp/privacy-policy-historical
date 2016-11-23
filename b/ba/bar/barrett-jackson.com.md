@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barrett-jackson.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608231423id_/http%3A//www.barrett-jackson.com/Policies/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barrett-jackson.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123132700id_/http%3A//barrett-jackson.com/Policies/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ If, at any time, you are receiving information from Barrett-Jackson or its Selec
 
 2\. Third Party Links and Use of Information 
 
-The Barrett-Jackson site contains links to sites operated by third parties. These sites may collect personally identifiable information about you. For example, Barrett-Jackson participates in the Google AdSense program and the interest-based advertising program offered by Google. Google, as a third party vendor, uses cookies to service visitors to the Barrett-Jackson site. In particular, Google’s use of the DART cookie enables it to serve ads to Barrett-Jackson’s site visitors based on their visits to our site and other sites on the Internet. Information transmitted does not include your name, address, email address, or telephone number. Visitors to Barrett-Jackson’s site may opt out of the DART cookie by visiting the Google ad and content network privacy policy page at this [link](http://www.google.com/privacy/ads/). 
+The Barrett-Jackson site contains links to sites operated by third parties. These sites may collect personally identifiable information about you. For example, Barrett-Jackson participates in the Google AdSense program and the interest-based advertising program offered by Google. Google, as a third party vendor, uses cookies to service visitors to the Barrett-Jackson site. In particular, Google’s use of the DART cookie enables it to serve ads to Barrett-Jackson’s site visitors based on their visits to our site and other sites on the Internet. Information transmitted does not include your name, address, email address, or telephone number. Visitors to Barrett-Jackson’s site may opt out of the DART cookie by visiting the Google ad and content network privacy policy page at this [link](https://www.google.com/settings/ads/). 
 
 Unless otherwise specifically stated herein, this Privacy Policy does not cover third-party data collection practices and Barrett-Jackson does not assume any responsibility for third parties, even if you are linked to those sites through the Barrett-Jackson website. Please check the privacy policy at each site you visit. 
 
@@ -54,7 +54,5 @@ Barrett-Jackson has security measures in place to protect against the loss, misu
 If we are going to use your personally identifiable information in a manner which materially differs from the standards set forth in this Privacy Policy, we will notify you by promptly updating the posted Privacy Policy and you will have an opportunity to opt out from further communications In addition, if we make any material changes to our Privacy Policy, we will post a notice on our site notifying users that our Privacy Policy has changed. In some cases when we post such a notice, we will also send an email to users who have provided their information notifying them of the changes in our Privacy Policy. 
 
 **Choice/Opt-out** \--Barrett-Jackson users are asked to give information to be put on Barrett-Jackson's Email News Service list or to receive commercial email regarding upcoming Barrett-Jackson promotions and events. If you receive Barrett-Jackson's commercial email and would like to avoid receiving such email in the future, you may opt-out of receiving it by clicking on the opt-out (unsubscribe) area within that email. Barrett-Jackson will only communicate with you according to your instructions. Your privacy is important to Barrett-Jackson. If you have questions about any of the provisions described above, please contact us via the contact information listed above.
-
-Rev. 04/09
 
 __Back to Top
