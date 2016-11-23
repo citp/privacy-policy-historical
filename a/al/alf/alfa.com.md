@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the alfa.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006194058id_/http%3A//www.alfa.com/en/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfa.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123100110id_/https%3A//www.alfa.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Alfa Aesar
+# Privacy Policy - Alfa Aesar
 
 ## Our Commitment To Privacy
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
 ## The Information We Collect:
 
-This notice applies to personally identifiable information collected or submitted on the Alfa Aesar website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages may include: 
+This notice applies to personally identifiable information collected or submitted on the Alfa Aesar website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages may include:
 
   * Name
   * Company
@@ -16,7 +16,7 @@ This notice applies to personally identifiable information collected or submitte
   * Country
   * Email address
   * Phone number
-  * Credit/Debit Card Information 
+  * Credit/Debit Card Information
 
 
 
@@ -26,7 +26,7 @@ This notice applies to personally identifiable information collected or submitte
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to provide the appropriate product information for your location. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-## Cookies 
+## Cookies
 
 For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. Some of the cookies we use are essential for the site to operate.
 
@@ -42,101 +42,101 @@ Cookies are widely used in order to make websites work, or work more efficiently
 
 | 
 
- **More information**  
+**More information**  
   
 ---|---|---  
   
-__utma 
+__utma
 
 | 
 
-A Google Analytics cookie which helps us understand how visitors are using our website, so we can make it more useful. 
+A Google Analytics cookie which helps us understand how visitors are using our website, so we can make it more useful.
 
-Lifespan: Persistent 
+Lifespan: Persistent
 
 | 
 
-Tracks the number of times a visitor has been to our website, when their first visit was, and when their last visit occurred.   
+Tracks the number of times a visitor has been to our website, when their first visit was, and when their last visit occurred.  
   
-__utmb 
+__utmb
 
 | 
 
-A Google Analytics cookie which helps us understand how visitors are using our website, so we can make it more useful. 
+A Google Analytics cookie which helps us understand how visitors are using our website, so we can make it more useful.
 
-Lifespan: 30 minutes 
+Lifespan: 30 minutes
 
 | 
 
-Tracks approximately how long a visitor stays on our website.   
+Tracks approximately how long a visitor stays on our website.  
   
-__utmc 
+__utmc
 
 | 
 
-A Google Analytics cookie which helps us understand how visitors are using our website, so we can make it more useful. 
+A Google Analytics cookie which helps us understand how visitors are using our website, so we can make it more useful.
 
-Lifespan: At end of session 
+Lifespan: At end of session
 
 | 
 
-Tracks approximately how long a visitor stays on our website.   
+Tracks approximately how long a visitor stays on our website.  
   
-__utmz 
+__utmz
 
 | 
 
-A Google Analytics cookie which helps us understand how visitors are using our website, so we can make it more useful. 
+A Google Analytics cookie which helps us understand how visitors are using our website, so we can make it more useful.
 
-Lifespan: 6 months 
+Lifespan: 6 months
 
 | 
 
-Tracks where a visitor came from, for example which search engine, search keyword or link they used.   
+Tracks where a visitor came from, for example which search engine, search keyword or link they used.  
   
-menu 
+menu
 
 | 
 
 A cookie used to control the menus.
 
-Lifespan: 1 year 
+Lifespan: 1 year
 
 | 
 
 Tracks which section of the site the user is on and displays the appropriate menus.  
   
-searchtype 
+searchtype
 
 | 
 
 A cookie used to control the menus.
 
-Lifespan: 1 day 
+Lifespan: 1 day
 
 | 
 
 Tracks search type the user last used to set the menu accordingly.  
   
-SmurfID 
+SmurfID
 
 | 
 
 A cookie used to control the search and shopping cart.
 
-Lifespan: Expires 12/31/2050 
+Lifespan: Expires 12/31/2050
 
 | 
 
 Tracks the user session to assist with product search and shopping cart functions.  
   
-alfa 
+alfa
 
 | 
 
 A cookie used to control the search and shopping cart.
 
-Lifespan: Expires 12/31/2037 
+Lifespan: Expires 12/31/2037
 
 | 
 
@@ -150,24 +150,37 @@ We use the personally identifiable information you provide about yourself when p
 
 We use return email addresses to answer the email we receive and to send out email notifications. We do not share email addresses with outside parties, and you may opt out of email communication at any time.
 
-You can register with our website if you would like to receive our catalog as well as updates on our new products and services. 
+You can register with our website if you would like to receive our catalog as well as updates on our new products and services.
 
-Finally, we are not in the business of selling information about our customers and we will not use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+Finally, we are not in the business of selling information about our customers and we will not use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
 Notwithstanding the foregoing, we may cooperate with certain federal, state, local or other governmental officials and in connection with the legal process, court orders, subpoenas and in certain other cases.
 
-## Our Commitment To Data Security 
+## Freedom of Choice
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+You can furthermore prevent the collection of your data (including your IP-address) by Google as well as the processing of that data by Google by downloading and installing the following browser-plugin: http://tools.google.com/dlpage/gaoptout?hl=eng.  
 
-##  How You Can Access Or Correct Your Information 
+## Use of Plug-ins
 
-You can access your personally identifiable information that we collect online and maintain by logging in to the website and selecting My Details from the My Account menu. We use this procedure to better safeguard your information. 
+  
+The like-buttons installed on our Website in connection with Facebook, Twitter, YouTube and Google Plus enable an exchange of data with the corresponding online platforms of providers. They enable Facebook users, Twitter users or YouTube users to simply and directly undertake a linking of their profile with our online offer. Data stated in each profile or other data of Facebook, Twitter or YouTube users will under no circumstances be transferred to us.
 
-You can correct factual errors in your personally identifiable information through the My Details menu or by sending us a request that credibly shows error. 
+A use of the data generated/transferred by you through the use of the function of the like-buttons is affected solely by the operators of the online offers connected via the like-buttons in each case. We offer these functionalities exclusively as a special service for the users of Facebook, Twitter and YouTube.
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+Please inform yourself on the Website of each Website operator about the data protection standards and instructions for the use of the corresponding offers (developers.facebook.com/docs/plugins/; twitter.com/privacy; www.youtube.com; www.xing.de; http://www.google.com/intl/de/+/policy/+1button.html).
 
-## How To Contact Us 
+## Our Commitment To Data Security
 
-Should you have other questions or concerns about these privacy policies, please call us at 800-343-0660 or send us an email at [info@alfa.com.](mailto:info@alfa.com)
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+
+## How You Can Access Or Correct Your Information
+
+You can access your personally identifiable information that we collect online and maintain by logging in to the website and selecting My Details from the My Account menu. We use this procedure to better safeguard your information.
+
+You can correct factual errors in your personally identifiable information through the My Details menu or by sending us a request that credibly shows error.
+
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+
+## How To Contact Us
+
+Should you have other questions or concerns about these privacy policies, please call us at 1-800-343-0660 or send us an email at [info@alfa.com.](mailto:info@alfa.com)
