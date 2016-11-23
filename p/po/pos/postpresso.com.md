@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postpresso.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327003250id_/http%3A//www.postpresso.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postpresso.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123105730id_/http%3A//www.postpresso.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Postpresso
 
