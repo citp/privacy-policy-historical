@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freshdbz.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501164307id_/http%3A//freshdbz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshdbz.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123175748id_/http%3A//freshdbz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Watch dragon ball super
+# Privacy policy
 
 Cookies & 3rd Party Advertisements
 
