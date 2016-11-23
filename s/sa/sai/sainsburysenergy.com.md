@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sainsburysenergy.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606174943id_/http%3A//www.sainsburysenergy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sainsburysenergy.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123224309id_/http%3A//www.sainsburysenergy.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Info About Our Privacy Policy - Sainsbury's Energy
 
