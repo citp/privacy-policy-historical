@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listablaze.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604150128id_/http%3A//listablaze.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listablaze.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123031806id_/http%3A//listablaze.com/privacy.php) for the most accurate reproduction.*
 
 # List Ablaze
 
