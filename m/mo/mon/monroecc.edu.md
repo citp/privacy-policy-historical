@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monroecc.edu privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603035321id_/http%3A//www.monroecc.edu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monroecc.edu privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123034855id_/http%3A//www.monroecc.edu/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Monroe Community College
 
@@ -77,7 +77,7 @@ For questions regarding this Internet privacy policy, please contact our privacy
 **Definitions**  
 The following definitions apply to those terms, which appear in italics in this policy:
 
-  * **Personal information:** For purposes of this policy, " _personal information_ " means any information concerning a natural person, which because of name, number, symbol, mark or other identifier, can be used to identify that natural person.
+  *  **Personal information:** For purposes of this policy, " _personal information_ " means any information concerning a natural person, which because of name, number, symbol, mark or other identifier, can be used to identify that natural person.
   * **User:** “ _User_ ” shall have the meaning set forth in subdivision 8 of section 202 of the State Technology Law.
 
 
