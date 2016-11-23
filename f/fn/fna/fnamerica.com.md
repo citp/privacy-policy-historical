@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fnamerica.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519202327id_/http%3A//www.fnamerica.com/pl/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fnamerica.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123131653id_/http%3A//www.fnamerica.com/pl/privacy-statement) for the most accurate reproduction.*
 
 # FN - The World's Most Battle-Proven Firearms™ :: Privacy Policy
 
