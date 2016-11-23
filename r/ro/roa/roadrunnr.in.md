@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadrunnr.in privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323190611id_/http%3A//roadrunnr.in/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadrunnr.in privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123045835id_/http%3A//www.roadrunnr.in/privacypolicy.php) for the most accurate reproduction.*
 
 # Runnr Delivery | Bangalore
 
@@ -20,7 +20,7 @@ If we ask for your personal information for a secondary reason, like marketing, 
 
 **How do I withdraw my consent?**
 
-f after you opt­in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at **support@roadrunnr.in** ​or mailing us at: **Salarpuria Business centre, 4th block, Koramangla, Bangalore ­ 560095, Karnataka**
+f after you opt­in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at **support@runnr.in** ​or mailing us at: **Salarpuria Business centre, 4th block, Koramangla, Bangalore ­ 560095, Karnataka**
 
 **DISCLOSURE**
 
@@ -71,7 +71,7 @@ If our store is acquired or merged with another company, your information may be
 
 **QUESTIONS AND CONTACT INFORMATION**
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at **support@roadrunnr.in** ​or by mail at **Salarpuria Business centre, 4th block, Koramangla, Bangalore ­ 560095, Karnataka**
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at **support@runnr.in** ​or by mail at **Salarpuria Business centre, 4th block, Koramangla, Bangalore ­ 560095, Karnataka**
 
   
 
