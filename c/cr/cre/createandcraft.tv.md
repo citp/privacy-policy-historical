@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the createandcraft.tv privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514220626id_/http%3A//www.createandcraft.tv/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the createandcraft.tv privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123182200id_/http%3A//www.createandcraft.tv/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - CreateAndCraft
 
