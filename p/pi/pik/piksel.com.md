@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piksel.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617022204id_/http%3A//www.piksel.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piksel.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123034914id_/http%3A//www.piksel.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Privacy - Innovative Streaming Video Solutions - Piksel - Piksel
 
