@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the centralnic.com privacy policy that was archived on 2016-04-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160417100057id_/https%3A//www.centralnic.com/support/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the centralnic.com privacy policy that was archived on 2016-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161123212621id_/https%3A//www.centralnic.com/support/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	<title>Privacy Policy  | Support | CentralNic</title>
@@ -24,12 +24,34 @@
 	<script type="text/javascript" src="/js/jquery-1.8.2.min.js"></script>
 	<script src="/js/jquery.hoverIntent.js" type="text/javascript"></script>
 	<script src="/js/bootstrap.min.js" type="text/javascript"></script>
-	<script src="/js/main.js" type="text/javascript"></script>
 
 	<!-- 	easy box lightbox plugin -->
 	<script type="text/javascript" src="/js/easybox-distrib.min.js"></script>
 
 	
+	<script type="text/javascript">
+		$(document).ready( function() {
+
+			function mainmenu() {
+				//$(" #nav ul ").css({display: "none"}); // Opera Fix
+
+				var nav_hover = {
+					over: function () {
+						$(this).find('ul:first').addClass('active');
+						$(this).addClass("hoveractive");
+					},
+					timeout: 150,
+					out: function () {
+						$(this).find('ul:first').removeClass('active');
+						$(this).removeClass("hoveractive");
+					}
+				};
+
+				$("#nav li").hoverIntent( nav_hover );
+			}
+			mainmenu();
+		});
+	</script>
 	<script type="text/javascript" src="https://use.typekit.com/ebb8pqp.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 	
@@ -44,7 +66,7 @@
 															<li>
 					<a>Domain Portfolio</a>
 					<ul class="unstyled">
-																																															<li>
+																																																																																						<li>
 																			<a href="/portfolio/cctlds">ccTLDs</a>
 																	</li>
 																												<li>
@@ -153,7 +175,9 @@
 																																																																																													<li>
 																			<a class="nav_arrow">Press</a>
 										<ul class="unstyled">
-																																																											<li><a href="/company/news/2015">Press from 2015</a>
+																																																											<li><a href="/company/news/2016">Press from 2016</a>
+																											</li>
+						  																																										<li><a href="/company/news/2015">Press from 2015</a>
 																											</li>
 						  																																										<li><a href="/company/news/2014">Press from 2014</a>
 																											</li>
@@ -313,7 +337,7 @@
 																												<li>
 																			<a href="/contact/careers">Careers</a>
 																	</li>
-																		</ul>
+																																												</ul>
 				</li>
 																					</ul>
 
@@ -326,8 +350,8 @@
 			  <ul>
 				<li><a href="/">Home</a></li>
 								  <li>&nbsp;/&nbsp;<a href="/support">Support</a></li>
-								<li>&nbsp;/&nbsp;<a href="/support/privacy">Privacy Policy</a></li>
-			  </ul>
+													<li>&nbsp;/&nbsp;<a href="/support/privacy">Privacy Policy</a></li>
+							  </ul>
 			</div><!-- path -->
 		  </div><!-- crumbs -->
 		
@@ -411,10 +435,10 @@
 
 	<div id="footer">
 	  <p>
-				  <a rel="nofollow" href="/support/privacy?_PRINTABLE=1" id="printable">Printable Version</a> <span class="pipe">|</span>
+				  <a rel="nofollow" href="https://www.centralnic.com/support/privacy?_PRINTABLE=1" id="printable">Printable Version</a> <span class="pipe">|</span>
 				<a href="/sitemap">Site Map</a> <span class="pipe">|</span>
 		<a href="/support/privacy">Privacy Policy</a> <span class="pipe">|</span>
-		<span id="copyright"><a href="/support/intellectual-property">© 2016</a> <a href="/company/profile">CentralNic Ltd</a>. All Rights Reserved</span> <span class="pipe">|</span> Sunday, April 17th, 2016.
+		<span id="copyright"><a href="/support/intellectual-property">© 2016</a> <a href="/company/profile">CentralNic Ltd</a>. All Rights Reserved</span> <span class="pipe">|</span> Wednesday, November 23rd, 2016.
 	  </p>
 	</div><!-- footer -->
 
