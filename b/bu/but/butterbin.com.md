@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the butterbin.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408091625id_/http%3A//www.butterbin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the butterbin.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123114643id_/http%3A//www.butterbin.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Butterbin
+# Privacy Policy | Butterbin
 
 This privacy policy sets out how ButterBin uses and protects any information that you give us when you use this website. ButterBin is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. ButterBin may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from May 18, 2013.
 
