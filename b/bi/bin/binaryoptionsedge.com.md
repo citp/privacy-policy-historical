@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binaryoptionsedge.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327061336id_/http%3A//www.binaryoptionsedge.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binaryoptionsedge.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123105119id_/http%3A//www.binaryoptionsedge.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Binary Options Edge
 
