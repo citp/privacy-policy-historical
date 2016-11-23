@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the q3host.com privacy policy that was archived on 2015-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150222171428id_/http%3A//q3host.com/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the q3host.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123115238id_/http%3A//q3host.com/support/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-At Q3Host.Com we recognize that privacy is important. This Privacy Policy applies to all products and services provided by us.
 
 #### Collection of Information
 
