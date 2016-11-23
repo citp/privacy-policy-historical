@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yallashop.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621233405id_/http%3A//www.yallashop.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yallashop.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123134438id_/http%3A//www.yallashop.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | YallaShop UAE
 
@@ -8,7 +8,7 @@ YallaShop.com is committed to your right to privacy and we recognize the importa
 
 **Personal information**
 
-YallaShop.comendeavors to collect and use your personal information only with your knowledge and consent. We may gather your information from a purchase through your customer enquiries via email or through our customer services team, when you request product information or, when you register online or enter any promotions or competitions through any channel. For web visitors, a user must first complete a registration form. During registration, the user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. YallaShop.com does not share any personal or private customer information submitted online with third parties. Demographic information may also be requested (such as region or PO Box). This information will be stored, analyzed and used to assist Yallashop.com to improve our services.
+YallaShop.com endeavors to collect and use your personal information only with your knowledge and consent. We may gather your information from a purchase through your customer enquiries via email or through our customer services team, when you request product information or, when you register online or enter any promotions or competitions through any channel. For web visitors, a user must first complete a registration form. During registration, the user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. YallaShop.com does not share any personal or private customer information submitted online with third parties. Demographic information may also be requested (such as region or PO Box). This information will be stored, analyzed and used to assist Yallashop.com to improve our services.
 
 The information you provide on the YallaShop.com website and/or other communication channels will be held only by YallaShop.com and its duly authorized agents. Your information will not be given or sold to any outside organization for marketing purposes without your consent.
 
