@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outerplaces.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609170708id_/http%3A//www.outerplaces.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outerplaces.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123163048id_/https%3A//www.outerplaces.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Outer Places
 
@@ -150,7 +150,7 @@ We reserve the right to transfer your usage information and personal information
 
   * Except where otherwise indicated we do not knowingly collect or store any personal information from children under the age of 13. We encourage parents and guardians to spend time with their children online and to be fully familiar with the online services used by their children. If a parent or guardian becomes aware that his or her child under 13 has provided us with information without his or her consent, he or she should contact us at [info@outerplaces.com](mailto:info@outerplaces.com) As required by law, we will delete such information from our files within a reasonable time.
 
-  * For certain websites covered by this Privacy Policy and involved in e-commerce (for example, [https://supplypod.outerplaces.com](https://supplypod.outerplaces.com/) you may only be able to use that site and any related services if you are 18 years of age or older, or the age of majority in your jurisdiction of residence, whichever is older. If you are under the age of 18 or the age of majority in your jurisdiction of residence, you may only use that site and any related services with the involvement of a parent or legal guardian.
+  * For certain websites covered by this Privacy Policy and involved in e-commerce (for example, [http://www.getsupplypod.com](http://www.getsupplypod.com/) you may only be able to use that site and any related services if you are 18 years of age or older, or the age of majority in your jurisdiction of residence, whichever is older. If you are under the age of 18 or the age of majority in your jurisdiction of residence, you may only use that site and any related services with the involvement of a parent or legal guardian.
 
 
 
@@ -242,7 +242,7 @@ The advertising networks and / or content providers that deliver ads on our onli
 
 Some of these companies may combine information they collect from our online services with other information they have independently collected relating to your web browser’s activities across their network of websites. These companies collect and use this information under their own privacy policies.
 
-You may also opt out of additional third-party advertising networks by going to the Network Advertising Initiative’s Website at <http://www.networkadvertising.org/choices> and following the directions there. The effect of opting out of third-party advertising networks is explained on each opt out page. Note that for some sites, the effect of opting out of third-party advertising means that customized advertising will not be delivered to you. Information regarding your usage of the online services may still be collected for research, analytics or internal operations purposes.
+You may also opt out of additional third-party advertising networks by going to the Network Advertising Initiative’s Website at [http://www.networkadvertising.org/choices](https://www.networkadvertising.org/choices) and following the directions there. The effect of opting out of third-party advertising networks is explained on each opt out page. Note that for some sites, the effect of opting out of third-party advertising means that customized advertising will not be delivered to you. Information regarding your usage of the online services may still be collected for research, analytics or internal operations purposes.
 
 We are not responsible for the effectiveness of any such opt-out options.
 
