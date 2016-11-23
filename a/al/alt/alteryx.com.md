@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alteryx.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612144529id_/http%3A//www.alteryx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alteryx.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123174910id_/http%3A//www.alteryx.com/privacy-policy) for the most accurate reproduction.*
 
 # Alteryx Privacy Policy | Alteryx
 
@@ -72,4 +72,4 @@ From time to time, we may use PII for new, unanticipated uses not previously dis
 
 ### How to Contact Us
 
-If you have questions or suggestions, please email Alteryx at [legal@alteryx.com](mailto:legal@alteryx.com), or fax to 714. 602.3798. Written communication should be sent to Alteryx, Inc., Attn: General Counsel, 230 Commerce, suite 250, Irvine, CA 92602.
+If you have questions or suggestions, please email Alteryx at [legal@alteryx.com](mailto:legal@alteryx.com), or fax to 714.602.3798. Written communication should be sent to Alteryx, Inc., Attn: General Counsel, 3345 Michelson, Suite 400, Irvine, CA 92612.
