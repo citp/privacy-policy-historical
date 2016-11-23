@@ -1,0 +1,18 @@
+> *The following text is extracted and transformed from the classicalconversations.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123231035id_/https%3A//www.classicalconversations.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | Classical Conversations
+
+_**Classical Conversations Privacy Policy**_  
+Your privacy is very important to us and we want you to understand the type of information we may collect, how we use it, and your options regarding your information.  This Privacy Policy is a part of our Terms of Use, which can be accessed by clicking HERE.  Any term used but not defined herein, shall have the meaning set forth in the Terms of Use. CC may change this policy and any changes will be posted to the website.  
+
+_**Information That Is Collected**_  
+When you register an account with Classical Conversations, Inc. ("CC") for using and accessing the Classical Conversations Connected Community (the “CC Connected Community”), you will provide your full name, address, email, telephone number, and gender.  If you register your child for any of CC's related academic offerings such as its educational camps, you will also provide the name and age of all minors participating in the camp and any special considerations affecting the minor such as any required learning assistance or allergies.  Except as noted in this Privacy Policy, your information is NOT shared with third parties.  You should not provide or submit any information to CC unless you would like that information to be used in accordance with this Policy.  
+CC may use "cookies" for various purposes, such as to save your preferences so you don't have to set them each time.  "Cookies" are commonly used pieces of information in the form of small files that are placed on a computer hard drive to enable you to more easily communicate and interact with websites.  A cookie does not collect or keep your information; however, CC may link the information obtained through cookies to your information to give CC a better understanding of your preferences, so that CC can provide a more meaningful experience to you.  
+While information is collected from parents at the time a minor is registered for an academic offering, the CC Connected Community is not directed to children under 13 and does not obtain information from children under 13.  If you learn that a minor has provided us with any information, please contact us immediately.    
+ _ **Use of Collected Information**_    
+CC will not share any collected information with companies not related to CC.  This also means that CC does not share or sell collected information with advertisers and other third parties.  CC will only use the collected information to better serve you and improve and enhance your experience and use of the Services and the CC Connected Community.  We may use your collected information to customize your content and make suggestions for you.  CC will use the information submitted for academic classes and camps for child placement and educational purposes during the class or camp.  We also use the collected information to send you updates, including materials for new CC services and products, and to respond to any comments or submissions you make to CC.
+
+_**Contact Classical Conversations**_  
+CC takes reasonable steps to ensure that the information we hold is accurate.  You may contact CC at any time to ask for its removal from CC's records or for correction if you feel the information is inaccurate or otherwise incomplete.  
+
+This Privacy Policy was last updated on October 19, 2015 / ND: 4821-9225-2969
