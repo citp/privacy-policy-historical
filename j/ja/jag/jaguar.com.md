@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jaguar.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610235030id_/http%3A//www.jaguar.com/privacy-legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaguar.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123100117id_/http%3A//www.jaguar.com/privacy-legal.html) for the most accurate reproduction.*
 
-# Jaguar - Privacy Policy
+# Privacy Policy | Jaguar | Respecting website visitor privacy
 
 Jaguar Land Rover Limited respects the privacy of every individual who visits its Web Sites and whose data it processes. Any information collected about you will be used to first fulfil any service you might request and secondly improve how as a Company we serve you. We do this by making appropriate use of the information. 
 
