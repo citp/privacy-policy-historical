@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pop-games.net privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612065202id_/http%3A//pop-games.net/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pop-games.net privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123125849id_/http%3A//pop-games.net/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Pop-games.net - Free Online Games
 
