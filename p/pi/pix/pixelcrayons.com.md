@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixelcrayons.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606025216id_/http%3A//www.pixelcrayons.com/talk-to-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixelcrayons.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123182954id_/http%3A//www.pixelcrayons.com/talk-to-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / PixelCrayons™
 
@@ -25,10 +25,10 @@ Why Choose PixelCrayons
 
 ### Some of Our Key Facts
 
-####   **_4000_ +** Happy Clients
+####   **_4800_ +** Happy Clients
 
-####   **_10000_ +**Projects Done
+####   **_11,500_ +**Projects Done
 
 ####   **_38_ +**countries
 
-####   **_11_ +**Years Experience
+####   **_12_ +**Years Experience
