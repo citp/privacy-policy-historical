@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paulaschoice.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628004903id_/http%3A//www.paulaschoice.com/who-we-are/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paulaschoice.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123171124id_/http%3A//www.paulaschoice.com/who-we-are/privacy) for the most accurate reproduction.*
 
 # Privacy & Security: Paula's Choice Skincare & Cosmetics
 
