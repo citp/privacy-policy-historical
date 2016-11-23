@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ijrte.org privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523130329id_/http%3A//www.ijrte.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijrte.org privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123200243id_/http%3A//ijrte.org/privacy.php) for the most accurate reproduction.*
 
 # International Journal of Recent Technology and Engineering(TM) - Privacy Policy
 
