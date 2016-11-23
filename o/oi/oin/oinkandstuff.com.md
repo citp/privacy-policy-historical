@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oinkandstuff.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620202202id_/http%3A//www.oinkandstuff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oinkandstuff.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123035805id_/http%3A//www.oinkandstuff.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - OinkAndStuff
+# Privacy Policy | OinkAndStuff
 
 ## **Privacy Policy & Terms of Service**
 
@@ -18,11 +18,11 @@ We don’t store or access any private information or payment information or any
 
 We don’t inject Ads or analyse user Web Browsing activity or have any scheme with malicious behaviors of any type in any of our extensions.
 
-The extensions may collect anonymous non-personal information regarding usage on Facebook™ in order to help improve the extensions. It’s not user data or user related/personal information related (only publicity/Ads analysis).
+The extensions may collect anonymous non-personal information regarding usage in order to help improve the extensions. It’s not user data or user related/personal information.
 
-Our extensions are connected to Google™ Analytics only for statistics about the number of users that use our extensions. 
+Our extensions are connected to Google™ Analytics only for statistics about the number of users that use our extensions.
 
-The extensions with in-app, upfront or subscription payments implement the Google™ Apis and Google™ Payments to interact with the Chrome™ Webstore and Google™ Wallet. 
+The extensions with in-app, upfront or subscription payments implement the Google™ Apis and Google™ Payments to interact with the Chrome™ Webstore and Google™ Wallet.
 
 Any of our extensions block Ads or Inject Ads or interfere with provider Ads.
 
@@ -136,7 +136,4 @@ and we will promptly remove you from ALL correspondence.**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-Estrada de Eiras, Nº63. 1º esq.  
-Coimbra, 3020-199  
-Portugal  
 oinkandstuff@gmail.com
