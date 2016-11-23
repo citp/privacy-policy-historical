@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twenga.co.uk privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507003335id_/http%3A//www.twenga.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twenga.co.uk privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123070733id_/http%3A//www.twenga.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
