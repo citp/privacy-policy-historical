@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldieblox.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316141016id_/http%3A//www.goldieblox.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldieblox.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123163246id_/http%3A//www.goldieblox.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – GoldieBlox
 
@@ -86,8 +86,6 @@ From time to time with your consent, we may disclose information with carefully 
 
 We may transfer any information we have about you in connection with a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of GoldieBlox or as part of a corporate reorganization, merger, or stock sale or other change in corporate control.
 
-****Your Choices****
-
 ****Data Collection, Use, or Disclosure****
 
 GoldieBlox collects, uses, or discloses your personal information consistent with this policy. The method of obtaining consent is appropriate for the type of personal information being collected, used, or disclosed. For example, we will obtain your express consent (verbal, written, or electronic agreement) to collect, use, or disclose personal information in accordance with law. In other situations, we consider consent to be implied, such as to use your email for marketing purposes, unless you opt out of these communications such as by unsubscribing.
@@ -104,7 +102,9 @@ If you contact us by email or mail, please be sure to include your full name, th
 
 Please be aware that, even if you have opted out of receiving marketing communications from us, we may still contact you for transactional purposes. Some examples are contacts for customer service, product information, service or reminder notices, or recalls. We may also need to contact you with questions or information regarding your order, such as regarding order status, shipment, or refunds.
 
-****Third Party Tracking and Online Advertising.**** We may permit third party ad networks, social media companies, and other third party services to collect information about browsing behavior from visitors to our websites through cookies, social plug-ins, or other tracking technology. We may permit third party online advertising networks to collect information about your use of our websites over time so that they may play or display ads that may be relevant to your interests on our Service as well as on other websites or services. Typically, the information is collected through cookies or similar tracking technologies. The only way to completely “opt out” of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device. Please refer to your browser’s or mobile device’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. (To learn more about cookies, clear gifs/web beacons and related technologies and how you may opt-out of some of this tracking, you may wish to visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) and/or the Network Advertising Initiative’s online resources, at [http://www.networkadvertising.org](http://www.networkadvertising.org/)). Depending on your mobile device, you may not be able to control tracking technologies through settings. If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at [service@goldieblox.com](mailto:service@goldieblox.com).
+****Third Party Tracking and Online Advertising****
+
+We may permit third party ad networks, social media companies, and other third party services to collect information about browsing behavior from visitors to our websites through cookies, social plug-ins, or other tracking technology. We may permit third party online advertising networks to collect information about your use of our websites over time so that they may play or display ads that may be relevant to your interests on our Service as well as on other websites or services. Typically, the information is collected through cookies or similar tracking technologies. The only way to completely “opt out” of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device. Please refer to your browser’s or mobile device’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. (To learn more about cookies, clear gifs/web beacons and related technologies and how you may opt-out of some of this tracking, you may wish to visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) and/or the Network Advertising Initiative’s online resources, at [http://www.networkadvertising.org](http://www.networkadvertising.org/)). Depending on your mobile device, you may not be able to control tracking technologies through settings. If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at [service@goldieblox.com](mailto:service@goldieblox.com).
 
 ****How to Access and Update Your Information****
 
@@ -122,9 +122,22 @@ Securing your information is a company priority. Whether you are shopping on our
 
 Your account information is protected by the password you use to access your online account. Please keep this password confidential.
 
-****Privacy of Children Online****
+##### ****Privacy of Children Online****
 
 We are committed to protecting children's online privacy. Our websites are for a general audience and are not geared towards children. In order to protect the privacy of children, GoldieBlox websites and mobile applications do not knowingly collect personal information from children under the age of 13 without prior parental consent. Please contact us via the "Contact Us" section of this Policy if you believe we may have collected information from your child and we will work to delete it.
+
+##### ****Goldie's Birthday Club Terms and Conditions****
+
+  1. You may enroll a child in Goldie’s Birthday Club at http://www.goldieblox.com/pages/birthday-club. To enroll a child (each such child the “Recipient”), you must be at least 18 years old and must provide your valid email address, Recipient’s name, Recipient’s date of birth, and Recipient’s mailing address. By providing your information to GoldieBlox you agree that such information may be added to our customer file and may be used to, among other things, contact you with information about our products, offers, special promotions and upcoming events that may interest you.  GoldieBlox will not use the Recipient’s information for any other purpose other than to administer Goldie’s Birthday Club.  Recipient’s participation in Goldie’s Birthday Club and our use of your information shall at all times be subject to these Terms and Conditions.  If you have any questions regarding these policies or the manner in which we use your information, please contact us at [service@goldieblox.com](mailto:service@goldieblox.com).
+
+  2. Goldie’s Birthday Club is available to Recipients with physical mailing addresses residing within the U.S. or Canada. GoldieBlox reserves the right to limit the number of Recipients per household.
+
+  3. You are responsible for keeping Recipient’s information up to date. You may update Recipient’s address or cancel Recipient’s enrollment in Goldie’s Birthday Club at any time by reaching out to our customer service team at [service@goldieblox.com](mailto:service@goldieblox.com).
+
+  4. We may modify these Terms and Conditions at any time by posting such modifications on our website. If you object to a modification, your sole recourse will be to terminate Recipient’s enrollment and request the removal of your information from our database by emailing us at [service@goldieblox.com](mailto:service@goldieblox.com). We also reserve the right to discontinue the Goldie’s Birthday Club at any time without notice.
+
+
+
 
 ****Changes to the GoldieBlox Privacy Policy****
 
