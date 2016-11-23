@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the short-haircut.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602113400id_/http%3A//www.short-haircut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the short-haircut.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124002103id_/http%3A//www.short-haircut.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Short Hairstyles 2015 - 2016 | Most Popular Short Hairstyles for 2016
 
