@@ -1,94 +1,150 @@
-> *The following text is extracted and transformed from the bottomlinestore.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629224122id_/http%3A//bottomlinestore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bottomlinestore.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123174739id_/http%3A//bottomlineinc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Bottom Line Inc
 
-This privacy policy sets out how The Bottom Line Store uses and protects any information that you give The Bottom Line Store when you use this website. The Bottom Line Store is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. The Bottom Line Store may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
+Updated As of July 2016.
 
-## What we collect
+Boardroom, Inc. d/b/a Bottom Line Inc. (“ _BLI_ “) provides this privacy policy (this “ _Policy_ “) to inform you of: (1) the types of information we collect; (2) your choices surrounding such information; and (3) how we collect, use, share, update and secure such information. This Policy applies to information obtained in connection with BLI operations at or through our websites, our mobile/tablet sites, our social media presence, our applications, our stores and other BLI controlled digital properties that link to this Policy. For purposes of this Policy, our websites:  [www.bottomlineinc.com](http://www.bottomlineinc.com/), [www.bottomlinestore.com](http://www.bottomlinestore.com/), and www.blmoneymasters.com, our mobile/tablet sites, our social media presence, our applications, and our other digital properties are referred to collectively as, our “ _Websites._ ” Emails, social media, marketing campaigns and online advertising are referred to collectively as, our “ _Internet Marketing Channels._ ”
 
-We may collect the following information:
+Please read this Policy carefully. By visiting and using the Websites, you agree that your use of our Websites, and any dispute over privacy, is governed by this Policy. Because the Web is an evolving medium, we may need to change our Policy at some point in the future, in which case we’ll post the changes to this Policy on this website and update the Effective Date of the Policy to reflect the date of the changes. By continuing to use the Websites after we post any such changes, you accept the Policy as modified.
 
-  * name
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+This Policy does not create a contractual obligation between you and BLI, and it is subject to our [ **Terms of Use**](http://bottomlineinc.com/Terms-And-Conditions). If you have questions about this Policy, please contact us by using the “Contact Customer Service” link below or email customerservice [at] bottomlineinc [dot] com.
+
+**_Information Collected_**
+
+We receive information you voluntarily provide to us when you: (1) open an account with us; (2) utilize our services; (3) make a purchase; (4) apply for employment opportunities with BLI; (5) contact us via any customer service method; (6) submit user-generated content (via our Websites, Internet Marketing Channels or otherwise); (7) participate in customer research, surveys, sweepstakes or promotions; or (8) otherwise communicate information to us.
+
+Some of the information collected during online registration and online purchasing is considered “ _Personal Information._ ” Personal Information includes your name, mailing address, e-mail address, driver’s license number, credit/debit card information (and related payment information) and/or telephone number. We may also collect other information such as demographic/lifestyle information (including date of birth, personal interests and product/buying preferences).  All of this information is provided to us by you.
+
+Additionally, we may receive Personal Information and other information you provide on behalf of third parties, or third parties provide on behalf of you, including gift recipients, online registrations/purchases or registries. We may also receive Personal Information and other information from sources assisting us with updating, improving and/or analyzing our records or with detecting fraud or theft. Additionally, we may receive information from various consumer reporting agencies and related service providers.
+
+We may collect “ _Automated Information_ ” through Cookies (as defined below), Web Beacons (as defined below) and other related automated means (collectively, “ _Information Technologies_ “). Automated Information we collect via Information Technologies includes internet protocol address(es), operating system(s) and browser specifics of your device, device characteristics, geographic information, user ID(s), and specifics regarding your interactions with (i.e., the path you take through) our Websites and our Internet Marketing Channels.
+
+We use Information Technologies to recognize you and your preferences as you return to our Websites or utilize our Internet Marketing Channels. “ _Cookies_ ” are small text files sent to your device as you visit our Websites or utilize our Internet Marketing Channels and saved on your device via your browser or hard drive. “ _Web Beacons_ ” (also known as pixel tags) are a form of technology placed within our Websites and our Internet Marketing Channels to monitor visits to certain pages within, interactions with, and the effectiveness of, our Websites and our Internet Marketing Channels.
+
+Automated Information enables the tailoring of advertisements and offers specifically for you. In addition to such tailoring, we use Automated Information to ensure that our online presence operates properly and efficiently for you and for your individual customer experience, to evaluate the use and benefit of such presence, and to support our Websites and our Internet Marketing Channels.
+
+The browser on your device may offer you preferences regarding a website’s collection of your personal information or your online activities over time and/or across different websites or online services. At this time, our Websites do not respond to these preferences, and our Websites may continue to collect information in the manner described in this Policy.
+
+We may enable third parties to collect information in connection with our Websites. This Policy does not apply to, and we are not responsible for, any collection of information by third parties on our Websites.
+
+**_Your Choices_**
+
+We use, collect and disclose your information consistent with this Policy, as updated from time to time, and you consent to such use, collection and disclosure by your use of our: (1) Websites; (2) Internet Marketing Channels; and (3) marketing programs (e.g., loyalty programs).
+
+You may unsubscribe to future e-mail communications by clicking on the unsubscribe link provided in our e-mail communications. Regardless of your decision to opt-out of future e-mail communications, we may still contact you to respond to an inquiry, regarding transactions and for transactional purposes (e.g., product recalls, subscription product renewals, product information and service/reminder notices). In addition, you may use the methods set forth in the “Contact Customer Service” link below to opt-out or update certain preferences.
+
+Based upon your visit(s) to our Websites and elsewhere on the Internet and your interaction with our Internet Marketing Channels, we may personalize your experience via our Websites and via our Internet Marketing Channels. However, you have choices relating to how your device interacts with our Websites and our Internet Marketing Channels. You may choose to access our Websites and our Internet Marketing Channels without accepting certain Information Technologies on your device(s), and you may opt-out or modify certain elements that are tailored specifically to you and served to you based upon your browsing history. If you choose to restrict Information Technologies, you may access our Websites and Internet Marketing Channels, but you will NOT be able to take full advantage of certain features. Please note, even if you choose to restrict, opt-out or modify, you may still see or receive BLI advertisements on our Websites, on our Internet Marketing Channels and on other sites, but such advertisements will not be based upon your browsing history.
+
+Additionally, we work with advertising networks that utilize the browsing history of your visits to our Websites, Internet Marketing Channels and across other sites to serve you BLI advertisements across the Internet and through other channels. We do not permit such networks to provide your browsing history on any of our Websites to any other site. Some of these networks may participate in the Digital Advertising Alliance’s (“ _DAA_ “) Self-Regulatory Program. To learn more about your choices relating to networks that participate in the DAA Program, please [click here](http://www.aboutads.info/).
+
+**_How We Use Your Information_**
+
+We do not sell, rent or trade your Personal Information to third parties. We use your information in ways consistent with this Policy, as disclosed at the time of collection, and in the following ways:
+
+  * Fulfilling, delivering and communicating with you regarding requests for information and orders for products and/or services.
+  * Maintaining our loyalty program.
+  * Processing credit card applications and payments.
+  * Evaluating your application for employment.
+  * Administering surveys, sweepstakes, contests or promotions.
+  * Registering and servicing your account(s).
+  * Providing customer service.
+  * Conducting research and analysis.
+  * Alerting you to product, service and promotional information, including product recalls.
+  * Helping us to improve and customize our products and services, Websites and Internet Marketing Channels.
+  * To advertise our products and services to you and those of our partners that we think may be of an interest to you.
+  * Protecting the security and integrity of our stores, Websites, Internet Marketing Channels and overall business practices.
 
 
 
-For the exhaustive list of cookies we collect see the List of cookies we collect section.
+In doing so, we:
 
-## What we do with the information we gather
-
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
-
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+  * May combine certain Personal Information, customer information and Automated Information collected online and offline, including information collected from third parties;
+  * May transfer or disclose such information within our websites, including affiliates and subsidiaries; and
+  * Will retain such information as needed to provide you products/services, comply with our legal obligations, resolve disputes, and enforce our agreements as we deem reasonably necessary.
 
 
 
-## Security
+**_How We Share Your Information_**
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+We may share your information in ways consistent with this Policy, as disclosed at the time of collection, and in the following ways:
 
-## How we use cookies
-
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
-
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-## Links to other websites
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-## Controlling your personal information
-
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [CustomerService@BottomLineStore.com](mailto:CustomerService@BottomLineStore.com)
+  * With third party businesses and service providers that assist with our business operations, such as shipping vendors, billing vendors, payment card processors, marketing and research vendors and various companies that work with us to improve or provide our products and services and our data integrity. While we are not involved in the day-to-day operations of such businesses and providers, our agreements generally obligate them to use reasonable methods to keep your Personal Information safe and secure, and not use your Personal Information for purposes other than providing their applicable services.
+  * As we deem necessary, in the event (or partial event) of a corporate sale (asset or stock), merger, reorganization, change in corporate control, acquisition, insolvency, bankruptcy or similar event.
+  * Specifically, certain Personal Information, in connection with various co-branded, warranty, delivery/assembly and/or financial products or services.
+  * To comply with applicable law or reasonable request based upon governmental regulation, court order, subpoena or similar related action.
+  * As we deem necessary to protect the rights, property or safety of BLI, our customers, our associates or others, to prevent harm or loss, or in connection with an investigation or suspected or actual unlawful activity.
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+**_Update Your Information_**
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 281 Tresser Boulevard, 8th Flr Stamford, CT 06901-3246 .
+For certain types of information, we offer you several ways to access or update such information:
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+  * If you have a BLI account, log-in to such account via one of our Websites. After securely entering your account, you can update your name, e-mail address, password, billing/shipping address, etc. by entering or revising the information as reflected therein, or you may close your account(s) and request that we no longer use your information to provide you services or products.
+  * Click on the “Contact Customer Service” link at the bottom of any of our Websites. This link will provide you the opportunity to contact BLI via phone, e-mail or U.S. postal mail. Please provide your current and complete contact information with these requests.
 
-## 
 
-## List of cookies we collect
 
-The table below lists the cookies we collect and what information they store.
+Please note:
 
-COOKIE name| COOKIE Description  
----|---  
-CART | The association with your shopping cart.  
-CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
-COMPARE | The items that you have in the Compare Products list.  
-CURRENCY | Your preferred currency  
-CUSTOMER | An encrypted version of your customer id with the store.  
-CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
-CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
-CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
-EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
-FRONTEND | You sesssion ID on the server.  
-GUEST-VIEW | Allows guests to edit their orders.  
-LAST_CATEGORY | The last category you visited.  
-LAST_PRODUCT | The most recent product you have viewed.  
-NEWMESSAGE | Indicates whether a new message has been received.  
-NO_CACHE | Indicates whether it is allowed to use cache.  
-PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
-POLL | The ID of any polls you have recently voted in.  
-POLLN | Information on what polls you have voted on.  
-RECENTLYCOMPARED | The items that you have recently compared.  
-STF | Information on products you have emailed to friends.  
-STORE | The store view or language you have selected.  
-USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
-VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
-WISHLIST | An encrypted list of products added to your Wishlist.  
-WISHLIST_CNT | The number of items in your Wishlist.
+  * We may refuse requests that are unreasonably repetitive, require disproportionate technical efforts, risk the privacy of others or are impractical.
+  * After closing your account(s), or updating or revising any information within your account(s) or any Information Technologies associated with your device(s), we may not delete residual copies from our servers and may not remove information from our back-up system(s).
+  * Closing or updating information relating to one BLI account (e.g., a BLI online Store account) does not guarantee the closing or updating of a separate and different BLI account (e.g., a BL Money Masters shopping account or a BLI subscription account). If you desire to close or update multiple BLI accounts, please log-in to each specific account to do so, or please contact the correct and applicable Customer Service department associated with each such account.
+
+
+
+In our efforts to maintain accurate and complete information, we utilize third party entities to assist us with updating and maintaining current contact information (e.g., National Change of Address or NCOA).
+
+**_Security_**
+
+We use a variety of security measures to help protect your information and online transactions with us. Our Websites utilize encryption technology, including Secure Sockets Layer, to protect your information that we transport across the internet. Your personal online and mobile account(s) with us are password protected with restricted online access.
+
+Additionally, we use a variety of security measures to help protect your information that we maintain at our facilities. While no company can guarantee your information will not be accessible by unauthorized individuals, we use physical, administrative and technical controls that are consistent with retail practices in an attempt to mitigate such risks.
+
+**Google Analytics**
+
+We also use Google Analytics Advertiser Features to optimize our business. Advertiser features include:
+
+  * Remarketing with Google Analytics
+  * Google Display Network Impression Reporting
+  * DoubleClick Platform integrations
+  * Google Analytics Demographics and Interest Reporting
+
+
+
+By enabling these Google Analytics Display features, we are required to notify our visitors by disclosing the use of these features and that we and third-party vendors use first-party cookies (such as the Google Analytics cookie) or other first-party identifiers, and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to gather data about your activities on our Site.  Among other uses, this allows us to contact you if you begin to fill out our check-out form but abandon it before completion with an email reminding you to complete your order.  The “Remarketing” feature allows us to reach people who previously visited our Websites, and match the right audience with the right advertising message.
+
+You can opt out of Google’s use of cookies by visiting Google’s ad settings and/or you may opt out of a third-party vendor’s use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+
+**Facebook**
+
+As advertisers on Facebook and through our Facebook page, we, (not Facebook) may collect content or information from a Facebook user and such information may be used in the same manner specified in this Policy. You consent to our collection of such information.
+
+We abide by Facebook’s Data Use Restrictions.
+
+  * Any ad data collected, received or derived from our Facebook ad (“Facebook advertising data”) is only shared with someone acting on our behalf, such as our service provider. We are responsible for ensuring that our service providers protect any Facebook advertising data or any other information obtained from us, limit our use of all of that information, and keep it confidential and secure.
+  * We do not use Facebook advertising data for any purpose (including retargeting, commingling data across multiple advertisers’ campaigns, or allowing piggybacking or redirecting with tags), except on an aggregate and anonymous basis (unless authorized by Facebook) and only to assess the performance and effectiveness of our Facebook advertising campaigns.
+  * We do not use Facebook advertising data, including the targeting criteria for a Facebook ad, to build, append to, edit, influence, or augment user profiles, including profiles associated with any mobile device identifier or other unique identifier that identifies any particular user, browser, computer or device.
+  * We do not transfer any Facebook advertising data (including anonymous, aggregate, or derived data) to any ad network, ad exchange, data broker or other advertising or monetization related service.
+
+
+
+**Children’s Privacy Statement**
+
+This children’s privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.
+
+  * The Websites are not directed to children under the age of thirteen and we do NOT knowingly collect personally identifiable information from children under the age of thirteen as part of the Websites. We screen users who wish to provide personal information in order to prevent users under the age of thirteen from providing such information. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Websites, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Websites.
+  * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Websites, we also do NOT knowingly distribute such information to third parties.
+  * We do NOT knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information through the Websites.
+  * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Websites, we do NOT condition the participation of a child under thirteen in the Website’s online activities on providing personally identifiable information.
+
+
+
+**_Third Party Links_**
+
+In addition to the foregoing, our Websites and our Internet Marketing Channels may link to other sites that we do not control. These other sites are governed by their own privacy policies. Be sure to review these privacy policies when visiting such sites. We are not responsible for the content of privacy practices of such third parties’ sites.
+
+**_Privacy Policy Updates_**
+
+We may, from time to time, update and revise this Policy. Please periodically check this Policy for any updates or revisions. In the event we make a material change to how we use your information, we will provide you with advance notice and the opportunity to opt-out of such use.
