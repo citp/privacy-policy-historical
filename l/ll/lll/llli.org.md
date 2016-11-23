@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the llli.org privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514102736id_/http%3A//www.llli.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the llli.org privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123163239id_/http%3A//www.llli.org/privacy) for the most accurate reproduction.*
 
 # LLLI | Privacy Policy
 
@@ -15,11 +15,11 @@ Non-personally Identifiable Information:  When you visit www.llli.org, we colle
 #### **  
 How is Your Information Used?**
 
-Personally Identifiable Information:  LLLI considers the personally identifiable information contained in our business records to be confidential.  LLLI may use your personally identifiable information to: (i) process and fulfill your orders, which includes sending you emails to confirm your order status and shipment; (ii) process a request for LLLI membership; (iii) process a donation you make to LLLI using the online form at www.LLLI.org, which includes sending you a donation receipt and Donor Newsletter; (iv) conduct a transaction you have requested; (v) create an LLLID upon your request; (vi) communicate with you in response to your online question or comment through the “Contact Us” link or your submission of a “Help Form” through www.llli.org; (vii) provide you with information about LLLI and its products and services, unless you direct us not to contact you with such communications; and (viii) any other purpose that LLLI deems appropriate. 
+Personally Identifiable Information:  LLLI considers the personally identifiable information contained in our business records to be confidential.  LLLI may use your personally identifiable information to: (i) process and fulfill your orders, which includes sending you emails to confirm your order status and shipment; (ii) process a donation you make to LLLI using the online form at www.LLLI.org, which includes sending you a donation receipt and Donor Newsletter; (iii) conduct a transaction you have requested; (iv) create an LLLID upon your request; (vi) communicate with you in response to your online question or comment through the “Contact Us” link or your submission of a “Help Form” through www.llli.org; (v) provide you with information about LLLI and its products and services, unless you direct us not to contact you with such communications; and (vi) any other purpose that LLLI deems appropriate. 
 
 In addition, LLLI may hire other companies to perform services on our behalf such as operating certain aspects of the Website, processing certain transactions, or sending you email.  These other companies may be supplied with or have access to your personally identifiable information for the sole purpose of providing these services to us or on our behalf. 
 
-We may also on occasion provide your personal information to other reputable nonprofit and/or commercial organizations that do not violate LLLI standards to enhance our ability to market to you those products that may be of interest to you.  If you do not want us to share this information you may call us at (847) 519-7730 x240, mail your request to La Leche League International, 957 N. Plum Grove Road Schaumburg, IL 60173 USA, or email us at fdassociate@llli.org, to have your name removed. 
+We may also on occasion provide your personal information to other reputable nonprofit and/or commercial organizations that do not violate LLLI standards to enhance our ability to market to you those products that may be of interest to you.  If you do not want us to share this information you may call us at (312) 646-6260, mail your request to La Leche League International, 35 E. Wacker Dr., 850, Chicago, IL, USA, or email us at fdassociate@llli.org, to have your name removed. 
 
 Non-personally Identifiable Information:  Non-personal information collected about your Website visits will be used to allow us to better understand the entire audience that is visiting our Website.  This information is used for the operation of the Website, to maintain quality of the Website, and to provide general statistics regarding use of the Website.  This information allows us to see which areas of our Website are most visited and helps us improve the quality of your online experience.  We may further use this information to help diagnose problems with our servers, gather broad demographic information, and administer our Website. 
 
@@ -70,7 +70,7 @@ LLLI prefers to keep the personal information it collects as accurate and up-to-
 ####   
 How Can You Opt Out of Communications From Us or Remove Your Information From Our Database?
 
-If you do not wish to receive communications or information from us or our affiliates, or if you wish to have your personal information removed from our database, you may call us at (847) 519-7730 x240, mail your request to La Leche League International, 957 N. Plum Grove Road Schaumburg, IL 60173 USA, or email us at fdassociate@llli.org and provide us with your request.
+If you do not wish to receive communications or information from us or our affiliates, or if you wish to have your personal information removed from our database, you may call us at (312) 646-6260, mail your request to La Leche League International, 35 E. Wacker Dr., Suite 850, Chicago, IL 60601 USA, or email us at fdassociate@llli.org and provide us with your request.
 
 ####   
 What Websites Does This Policy Cover?
@@ -85,19 +85,19 @@ In the event of a corporate change in control resulting from, for example, a mer
 ####   
 How can You Contact LLLI?
 
-If you have any questions or concerns about our privacy policies or data use, wish to change your options or your personal information, wish to place an order, make a donation or become a member, or wish to obtain information about how LLLI uses or shares your personal information, please contact us at the following email address, telephone number, facsimile number or mailing address.
+If you have any questions or concerns about our privacy policies or data use, wish to change your options or your personal information, wish to place an order, make a donation, or wish to obtain information about how LLLI uses or shares your personal information, please contact us at the following email address, telephone number, facsimile number or mailing address.
 
  _For personal information changes, deletions, etc._
 
 email:  fdassociate@llli.org
 
-telephone (office administration): 1+312-646-6260
+telephone (office administration): 1+919-459-2167
 
-facsimile: 1+312-644-8557
+facsimile: 1+919-459-2167
 
 La Leche League International  
-35 E. Wacker Dr., Suite 850   
-Chicago, IL 60601  
+2501 Aerial Center Parkway., Suite 103   
+Morrisville, NC 27560  
 USA
 
 ####   
