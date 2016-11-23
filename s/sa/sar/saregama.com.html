@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the saregama.com privacy policy that was archived on 2016-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160613114901id_/http%3A//www.saregama.com/static/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the saregama.com privacy policy that was archived on 2016-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161123045520id_/http%3A//www.saregama.com/static/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" prefix="og: http://ogp.me/ns#" class="no-js"><head>
         <title>
@@ -31,8 +31,8 @@
         <meta name="apple-mobile-web-app-status-bar-style" content="black">
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 		
-                    <link rel="stylesheet" type="text/css" href="http://r.saregama.com/resources/all_v150.css">
-                <link rel="stylesheet" href="http://r.saregama.com/resources/css/fonts.css?v=4" type="text/css">
+                    <link rel="stylesheet" type="text/css" href="http://r.saregama.com/resources/all_v240.css">
+                <link rel="stylesheet" href="http://r.saregama.com/resources/css/fonts.css?v=7" type="text/css">
         <script src="https://script.crazyegg.com/pages/scripts/0048/9592.js?439025" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" src="http://r.saregama.com/resources/js/jquery.min.js"></script>
         <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://r.saregama.com/resources/images/apple-saregama-touch-icon-96x96.png">
         <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://r.saregama.com/resources/images/apple-saregama-touch-icon-72x72.png">
@@ -61,11 +61,12 @@
     <img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=845925498800376&amp;ev=PixelInitialized" />
     </noscript>
     <!-- facebook tracker End -->
+	<script type="application/ld+json">{"@context": "http://schema.org","@type":"WebSite","url":"http://www.saregama.com/","potentialAction":{"@type":"SearchAction","target":"http://www.saregama.com/search/song?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
     <script>
 						(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 						(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 						m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-						})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-3291457-2', 'auto');ga('require', 'ecommerce');  ga('send', 'pageview');</script></head>
+						})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-3291457-2', 'auto');ga('require', 'ecommerce');  ga('send', 'pageview');</script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body class="appPageList">
     <div class="container-fluid">
@@ -83,29 +84,47 @@
                                 <li><a href="http://www.saregama.com/apps" class="">Apps</a></li>
                                 <li><a href="http://www.saregama.com/video" class="">Videos</a></li>
                                 <li><a href="http://www.saregama.com/musiccard.html" class="">Music Cards</a></li>
+								<li><a href="http://www.saregama.com/gift" title="Buy/Gift Music" class="giftLink"><span>Buy/Gift</span><em class="blink_text">NEW</em></a></li>
+								<li><a href="http://www.saregama.com/static/trade_enquire" class="">Trade Enquiries</a></li>
                                 <li><a href="http://business.saregama.com/" target="_blank" class="">License Songs</a></li>
                             </ul>
                             <ul class="nav navbar-nav pull-right rightHeadLinks">
-                                <li class="headCart headCartDnld" style="display:none">
-                                    <a href="http://www.saregama.com/download" title="Download Manager" data-pjax="" class="downloadIcn">
+                                <li class="headCart headCartDnld">
+                                    <a href="javascript:void(0);" onclick="web.viewDownloadManager();" title="Download Manager" class="downloadIcn download_a_js inactiveDwnCrt">
                                         <span class="icon-downloadicon" aria-hidden="true">
-                                            <span class="dwnlCount dwnlCount_js">0</span>
+                                            <span class="dwnlCount dwnlCount_js" style="display:none;">0</span>
                                         </span>
                                         <em class="txtCrt"><span class="txtUnder">Downloads</span></em>
                                     </a>
+									<!-- downloadAlert -->
+									<div class="downloadAlert" style=" display:none;">
+										<p class="downloadMsg"> Hey! You have purchased  <br>
+											but not downloaded  the song(s).  <br>
+											Download the songs from here.</p>
+											<a class="downloadBtn" onclick="web.viewDownloadManager();" href="javascript:void(0);"><span class="icon-downloadicon"></span><span class="dwnTxt">Download Now</span></a>
+											<a class="downloadLater"><span class="dwnTxt"> later</span></a>
+											<div class="dwnVal">
+												<input type="checkbox" name="downloadit" id="downloadit" class="dwnChkBox sr-only" onclick="web.checkDoNOtShowDownloadPopup();">
+												<label for="downloadit">Do not show this again</label>
+											</div>
+											<a href="javascript:void(0);" class="close">x</a>
+									</div>
+									<!-- downloadAlert ends -->
                                 </li>
                                 <li class="headCart"> 
 
                                     <a class="cart_a_js inactiveDwnCrt" href="http://www.saregama.com/cart" data-pjax="" title="View Cart">
-                                        <span class="icon-cart-icon" aria-hidden="true">
-                                            <span class="crtCount countItems" style="display:none;">0</span>
-                                        </span>
+                                        <span class="icon-cart-icon" aria-hidden="true"></span>
+										<span class="crtCount countItems" style="display:none;">0</span>
                                         <em class="txtCrt"><span class="txtUnder">Cart</span></em>
                                     </a>
                                 </li>
-                                <li class="" id="loginLI"><a href="javascript:void(0);" title="Login" data-toggle="modal" data-target=".newSgPopup" data-showpopup="signInContainer" class="signInBtn"><span class="txtUnderAlgn">Login</span></a></li>
-                                <li class="lstNobrdr" id="signupLI"><a href="javascript:void(0);" title="Register" data-toggle="modal" data-target=".newSgPopup" data-showpopup="signUpContainer"><span class="txtUnderAlgn">Register</span></a></li>
-                            </ul>
+                                <li class="" id="loginLI"><a href="javascript:void(0);" class="signInBtn" data-toggle="modal" data-target=".newSgPopup" data-showpopup="signInContainer">Sign in</a></li>
+                                <!--<li class="lstNobrdr" id="loginLI"><a href="javascript:void(0);" title="Login" data-toggle="modal" data-target=".newSgPopup" data-showPopup="signInContainer" class="signInBtn"><span class="txtUnderAlgn">Login</span></a></li>-->
+								<li id="signupLI"></li>
+                                                                   
+                                <!--<li class="lstNobrdr"><a href="javascript:void(0);" class="registerMobBtn" data-toggle="modal" data-target=".newSgPopup" data-showPopup="registerMob">Register Mobile</a></li>-->                               
+                                                            </ul>
                             <div class="pull-right searchBox">
                                 <form class="navbar-form" role="search" id="srcForm" method="GET" action="http://www.saregama.com/search/song" data-pjax="">
                                     <input type="hidden" name="_pjax" value="#pjax-container">
@@ -274,198 +293,278 @@ web.removeDataPjax();
 
 <!-- footer starts here -->
 <div class="footer">
-	<div class="container">
-		<div class="col-md-12">
-			<div class="row">
-				<div class="col-md-8 col-sm-12">
-					<div class="row botFootLinks">
-						<ul class="col-md-3 col-sm-3">
-							<li><a href="http://www.saregama.com/static/about_us" target="_blank">About Us</a></li>
-							<li><a href="http://www.saregama.com/static/contact_us" target="_blank">Contact Us</a></li>
-							<li><a href="http://www.saregama.com/static/partners" target="_blank">Partners</a></li>
-							<li><a href="http://www.saregama.com/static/terms_of_use" target="_blank">Terms of use</a></li>
-							<li><a href="http://www.saregama.com/static/privacy_policy" target="_blank">Privacy Policy</a></li>
-						</ul>
-						<ul class="col-md-3 col-sm-3">
-							<li><a href="http://www.saregama.com/static/disclaimer" target="_blank">Disclaimer</a></li>
-							<li><a href="http://www.saregama.com/static/investors" target="_blank">For Investors FAQ</a></li>
-							<li><a href="http://business.saregama.com/" target="_blank">License Songs</a></li>
-							<li><a href="http://www.saregama.com/static/faq" target="_blank">FAQs</a></li>
-						</ul>
-						<ul class="col-md-3 col-sm-3">
-							<li><a href="http://www.saregama.com/bollywood" data-pjax="" title="Hindi Films">Hindi Films</a></li>
-							<li><a href="http://www.saregama.com/regional" data-pjax="" title="Regional Films">Regional Films</a></li>
-							<li><a href="http://www.saregama.com/devotional" data-pjax="" title="Devotional">Devotional</a></li>
-							<li><a href="http://www.saregama.com/classical" data-pjax="" title="Classical">Classical</a></li>
-							<li><a href="http://www.saregama.com/ghazals-sufi" data-pjax="" title="Ghazals &amp; Sufi">Ghazals &amp; Sufi</a></li>
-						</ul>
-						<ul class="col-md-3 col-sm-3">
-							<li><a href="http://www.saregama.com/rabindra-sangeet" data-pjax="" title="Rabindra Sangeet">Rabindra Sangeet</a></li>
-							<li><a href="http://www.saregama.com/nazrul-geet" data-pjax="" title="Nazrul Geet">Nazrul Geet</a></li>
-							<li><a href="http://www.saregama.com/remix/song" data-pjax="" title="Remix">Remix</a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-xs-12 col-md-4 col-sm-12 styInTchFoot">
-					Stay in touch with us on
-					<div class="socialIcons">
-						<a href="https://www.youtube.com/user/saregamaindia" title="Youtube" target="_blank" class="icon-youtube"></a>
-						<a href="https://plus.google.com/+SaregamaGenY" title="Google Plus" target="_blank" class="icon-gplusIcon"></a>
-						<a href="https://twitter.com/saregamaglobal" title="Twitter" target="_blank" class="icon-twitterIcon"></a>
-						<a href="https://www.facebook.com/saregama" title="Facebook" target="_blank" class="icon-fbicon"></a>
-					</div>
-				</div>
-			</div>
-			<div class="row footCopyRgt">
-				<div class="col-md-8 col-sm-6"> Copyright © 2000-2016, Saregama India Ltd. All rights reserved. </div>
-				<div class="col-md-4 col-sm-6"> <img alt="Bootstrap Image Preview" src="http://r.saregama.com/resources/images/payment_ico.jpg" class="imgBlk"> </div>
-			</div>
-		</div>
-	</div>
+    <div class="container">
+        <div class="col-md-12">
+            <div class="row">
+                <div class="col-md-9 col-sm-12">
+                    <div class="row botFootLinks">
+                        <ul class="col-md-2 col-sm-2">
+                            <li><a href="http://www.saregama.com/static/about_us" target="_blank">About Us</a></li>
+                            <li><a href="http://www.saregama.com/static/contact_us" target="_blank">Contact Us</a></li>
+                            <li><a href="http://www.saregama.com/static/partners" target="_blank">Partners</a></li>
+                            <li><a href="http://www.saregama.com/static/terms_of_use" target="_blank">Terms of use</a></li>
+                            <li><a href="http://www.saregama.com/static/privacy_policy" target="_blank">Privacy Policy</a></li>
+                        </ul>
+                        <ul class="col-md-2 col-sm-2">
+                            <li><a href="http://www.saregama.com/static/disclaimer" target="_blank">Disclaimer</a></li>
+                            <li><a href="http://www.saregama.com/static/investors" target="_blank">For Investors FAQ</a></li>
+                            <li><a href="http://business.saregama.com/" target="_blank">License Songs</a></li>
+							 <li><a href="http://www.saregama.com/static/trade_enquire" target="_blank">Trade Enquires</a></li>
+                            <li><a href="http://www.saregama.com/static/faq" target="_blank">FAQs</a></li>
+                        </ul>
+						<ul class="col-md-2 col-sm-2">
+                            <li><a href="http://www.saregama.com/" title="Music Store">Music Store</a></li>
+                            <li><a href="http://www.saregama.com/apps" title="Mobile Apps">Apps</a></li>
+                            <li><a href="http://www.saregama.com/video" title="Videos">Videos</a></li>
+                            <li><a href="http://www.saregama.com/musiccard.html" title="Music Cards">Music Cards</a></li>
+                            <li><a href="http://www.saregama.com/gift" title="Gift Music">Gift Music</a></li>
+                        </ul>
+						
+                        <ul class="col-md-2 col-sm-2">
+                            <li><a href="http://www.saregama.com/bollywood" data-pjax="" title="Hindi Films">Hindi Films</a></li>
+                            <li><a href="http://www.saregama.com/regional" data-pjax="" title="Regional Films">Regional Films</a></li>
+                            <li><a href="http://www.saregama.com/devotional" data-pjax="" title="Devotional">Devotional</a></li>
+                            <li><a href="http://www.saregama.com/classical" data-pjax="" title="Classical">Classical</a></li>
+                            <li><a href="http://www.saregama.com/ghazals-sufi" data-pjax="" title="Ghazals &amp; Sufi">Ghazals &amp; Sufi</a></li>
+                        </ul>
+                        <ul class="col-md-2 col-sm-2">
+                            <li><a href="http://www.saregama.com/rabindra-sangeet" data-pjax="" title="Rabindra Sangeet">Rabindra Sangeet</a></li>
+                            <li><a href="http://www.saregama.com/nazrul-geet" data-pjax="" title="Nazrul Geet">Nazrul Geet</a></li>
+                            <li><a href="http://www.saregama.com/remix/song" data-pjax="" title="Remix">Remix</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-md-3 col-sm-12 styInTchFoot">
+                    Stay in touch with us on
+                    <div class="socialIcons">
+                        <a href="https://www.youtube.com/user/saregamaindia" title="Youtube" target="_blank" class="icon-youtube"></a>
+                        <a href="https://plus.google.com/+SaregamaGenY" title="Google Plus" target="_blank" class="icon-gplusIcon"></a>
+                        <a href="https://twitter.com/saregamaglobal" title="Twitter" target="_blank" class="icon-twitterIcon"></a>
+                        <a href="https://www.facebook.com/saregama" title="Facebook" target="_blank" class="icon-fbicon"></a>
+                    </div>
+                </div>
+            </div>
+            <div class="row footCopyRgt">
+                <div class="col-md-8 col-sm-6"> Copyright © 2000-2016, Saregama India Ltd. All rights reserved. </div>
+                <div class="col-md-4 col-sm-6"> <img alt="Bootstrap Image Preview" src="http://r.saregama.com/resources/images/payment_ico.jpg" class="imgBlk"> </div>
+            </div>
+        </div>
+    </div>
 </div>
 <!-- footer ends here -->
 
 <!-- floatingPlayer -->
 <div class="floatingPlayer">
-<div class="pauseBtnF">
-	<div id="floatingPlayer"></div>
-	<a href="javascript:void(0);" class="icon-playicon"></a>
-	<a href="javascript:void(0);" class="icon-media-pause"></a>
-	<div id="sngCounter"></div>
-</div>	
-<div class="floatingCont">
-	<div class="playerSongData">
-		<span class="previewInfo previewInfo_js">90 sec preview</span>
-		<h1 class="songName songName_js">Mere Khwabon Mein</h1>
-		<h2 class="albumName albumName_js">Dilwale Dulhania Le Jayenge</h2>
-	</div>
-	<div class="buyAddCont">
-	  <div class="alertAddedToCart alertAddedToCart_fl_js">
-		<span> <b class="icon-cart-icon"></b> Added to Cart</span>
-	  </div>
-	  <a href="" class="buyAddBtn dropdown-toggle" data-toggle="dropdown">
-	  <span class="icon-cart-icon"></span> Add <b class="glyphicon glyphicon-menu-down"></b></a>
-		<ul class="dropdown-menu price_js" role="menu">
-			<li><a href="#">MP3 <span class="webRupee">`</span>9</a></li>
-			<li><a href="#">HD <span class="webRupee">`</span>50</a></li>
-		 </ul>
-	</div>
-</div>
-<button class="close hidePlayer" type="button">×</button>
+    <div class="pauseBtnF">
+        <div id="floatingPlayer"></div>
+        <a href="javascript:void(0);" class="icon-playicon"></a>
+        <a href="javascript:void(0);" class="icon-media-pause"></a>
+        <div id="sngCounter"></div>
+    </div>	
+    <div class="floatingCont">
+        <div class="playerSongData">
+            <span class="previewInfo previewInfo_js">90 sec preview</span>
+            <h1 class="songName songName_js">Mere Khwabon Mein</h1>
+            <h2 class="albumName albumName_js">Dilwale Dulhania Le Jayenge</h2>
+        </div>
+        <div class="buyAddCont">
+            <div class="alertAddedToCart alertAddedToCart_fl_js">
+                <span> <b class="icon-cart-icon"></b> Added to Cart</span>
+            </div>
+            <a href="" class="buyAddBtn dropdown-toggle" data-toggle="dropdown">
+                <span class="icon-cart-icon"></span> Add <b class="glyphicon glyphicon-menu-down"></b></a>
+            <ul class="dropdown-menu price_js" role="menu">
+                <li><a href="#">MP3 <span class="webRupee">`</span>9</a></li>
+                <li><a href="#">HD <span class="webRupee">`</span>50</a></li>
+            </ul>
+        </div>
+    </div>
+    <button class="close hidePlayer" type="button">×</button>
 </div>
 <!-- floatingPlayer ends -->
 
 <!-- PopUp Starts-->
 <div class="modal modalScroll fade newSgPopup" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-	<div class="modal-content row">
-		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-		<div class="popupContainer">
-			
-		</div>
-	</div>
+    <div class="modal-content row">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        <div class="popupContainer">
+
+        </div>
+    </div>
 </div>
 <!-- PopUp Ends-->
-<div id="ajax_loader" class="ajaxLoader" style="z-index: 9999;display:none">
-	<div class="loader clearfix">
-		<div class="bar"></div>
-		<div class="bar"></div>
-		<div class="bar"></div>
-		<div class="bar"></div>
-		<div class="bar"></div>
-		<div class="bar"></div>
-	</div>
+<!-- floatingRecommendation start-->
+<div class="floatingRecommendation">
+    
 </div>
-<div id="the_player"></div>
+<!-- floatingRecommendation end-->
+<!-- huwaeii starts-->
+<!-- huwaeii ends -->
+	<!-- common auto popup starts-->
+	<div class="modal modalScroll comAutoPop fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+	  <div class="modal-dialog modal-sm">
+		<div class="modal-content">
+			<button type="button" class="close closePop" data-dismiss="modal" aria-hidden="true">×</button>
+			<div class="modalcomAutoPopCnt">
+					<a href="http://www.saregama.com/gift?type=card&amp;srgm_tracker=popup_banner" class="comAutoPopLnk" title="Music Card"><img src="http://r.saregama.com/resources/images/promo/Perfect-Accessory-for-your-car_600.jpg" alt="Music Card" class="imgBlk"></a>
+			</div>
+		</div>
+	  </div>
+	</div>
+	<!-- ommon auto popup ends -->
+	<script type="text/javascript">
+	$(window).load(function(){
+		if($.cookie("srgm_pop")=='' || $.cookie("srgm_pop")=='undefined' || $.cookie("srgm_pop")==null){
+				$(".comAutoPop").modal('show');
+				$.cookie("srgm_pop", 'special');
+				$(".comAutoPop").show();
+		}	
+	})
+	</script>
+<div id="ajax_loader" class="ajaxLoader" style="z-index: 9999;display:none">
+    <div class="loader clearfix">
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+    </div>
+</div>
+<div id="the_player" style="display:none;"></div>
 <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
 <script type="text/javascript">
-	//<![CDATA[
-	window.fbAsyncInit = function() {
-		FB.init({
-			appId      : '307708642715179', // App ID
-			channelURL : '', // Channel File, not required so leave empty
-			status     : true, // check login status
-			cookie     : true, // enable cookies to allow the server to access the session
-			oauth      : true, // enable OAuth 2.0
-			xfbml      : true  // parse XFBML
-		});
-	};
+    //<![CDATA[
+    window.fbAsyncInit = function () {
+        FB.init({
+            appId: '307708642715179', // App ID
+            channelURL: '', // Channel File, not required so leave empty
+            status: true, // check login status
+            cookie: true, // enable cookies to allow the server to access the session
+            oauth: true, // enable OAuth 2.0
+            xfbml: true  // parse XFBML
+        });
+    };
 </script>
 <!--[if lt IE 9]>
-	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-	<script src="http://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <script src="http://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
-	<script type="text/javascript" src="http://r.saregama.com/resources/all_v231.js"></script>
+    <script type="text/javascript" src="http://r.saregama.com/resources/all_v553.js"></script>
 <script type="text/javascript" src="https://apis.google.com/js/client.js?onload=web.GP_clientLoad"></script>
 <!--[if lte IE 9]>
-	<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js"></script>
-	<script src="//s3.amazonaws.com/nwapi/nwmatcher/nwmatcher-1.2.5-min.js"></script>
-	<script src="//html5base.googlecode.com/svn-history/r38/trunk/js/selectivizr-1.0.3b.js"></script>
-	<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js"></script>
+        <script src="//s3.amazonaws.com/nwapi/nwmatcher/nwmatcher-1.2.5-min.js"></script>
+        <script src="//html5base.googlecode.com/svn-history/r38/trunk/js/selectivizr-1.0.3b.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js"></script>
 <![endif]-->
+<script src="https://sdk.accountkit.com/en_US/sdk.js"></script>
 <script>
-	// Load the SDK Asynchronously
-	(function() {
-		var e = document.createElement('script'); e.async = true;
-		e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-		document.getElementById('fb-root').appendChild(e);
-	}());
-	//]]>
+    // initialize Account Kit with CSRF protection
+    AccountKit_OnInteractive = function () {
+        AccountKit.init(
+                {
+                    appId: "307708642715179",
+                    state: "amit",
+                  version: "v1.0"
+                }
+        );
+    };
+    
+</script>
+<script>
+    // Load the SDK Asynchronously
+    (function () {
+        var e = document.createElement('script');
+        e.async = true;
+        e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+        document.getElementById('fb-root').appendChild(e);
+    }());
+    //]]>
 </script>
 <script type="text/javascript" charset="utf-8">
-	var LOADBACK=0;
-	$(document).ready(function(){
-		$(document).pjax('a[data-pjax]', '#pjax-container')
-		$(document).on('pjax:start', function() {
-			$("#ajax_loader").show();
-			isOnLoadCall=false;
-		})
-		$(document).on('pjax:end', function() {
-			if(LOADBACK==1){
-			  	web.pjaxRedirect({"url":window.location.href});
-				LOADBACK=0;
-			}
-			$("#ajax_loader").hide();
-			//web.onloadStartups();
-		})
-		$(document).on('pjax:complete', function(){
-			$("#ajax_loader").hide();
-			web.onloadStartups();			
-		})
-		$('#pjax-container').on('pjax:popstate ', function(event) {
-			if(event.direction == "back") {
-				LOADBACK=1;
-			}
-		});
-		isGACall = false;
-		web.onloadStartups();
-		/*CHECK USER LOGGED IN OR NOT*/
-		web.checkLogin();
-	});
-	var COUNTRYCODE = 'US';
+    var LOADBACK = 0;
+    $(document).ready(function () {
+        $(document).pjax('a[data-pjax]', '#pjax-container')
+        $(document).on('pjax:start', function () {
+            $("#ajax_loader").show();
+            isOnLoadCall = false;
+        })
+        $(document).on('pjax:end', function () {
+            if (LOADBACK == 1) {
+                web.pjaxRedirect({"url": window.location.href});
+                LOADBACK = 0;
+            }
+            $("#ajax_loader").hide();
+            //web.onloadStartups();
+        })
+        $(document).on('pjax:complete', function () {
+            $("#ajax_loader").hide();
+            web.onloadStartups();
+        })
+        $('#pjax-container').on('pjax:popstate ', function (event) {
+            if (event.direction == "back") {
+                LOADBACK = 1;
+            }
+        });
+        isGACall = false;
+        web.onloadStartups();
+        /*CHECK USER LOGGED IN OR NOT*/
+        web.checkLogin();
+    });
+    var COUNTRYCODE = 'US';
 </script>
 <script type="text/javascript">
-	setTimeout(function(){
-	var a=document.createElement("script");
-		var b=document.getElementsByTagName("script")[0];
-		a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0048/9592.js?"+Math.floor(new Date().getTime()/3600000);
-	a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+    setTimeout(function () {
+        var a = document.createElement("script");
+        var b = document.getElementsByTagName("script")[0];
+        a.src = document.location.protocol + "//script.crazyegg.com/pages/scripts/0048/9592.js?" + Math.floor(new Date().getTime() / 3600000);
+        a.async = true;
+        a.type = "text/javascript";
+        b.parentNode.insertBefore(a, b)
+    }, 1);
 </script>
 <script type="text/javascript">
-	var _sf_async_config = { uid: 63144, domain: 'saregama.com', useCanonical: true };
-	(function() {
-		function loadChartbeat() {
-			window._sf_endpt = (new Date()).getTime();
-			var e = document.createElement('script');
-			e.setAttribute('language', 'javascript');
-			e.setAttribute('type', 'text/javascript');
-			e.setAttribute('src','//static.chartbeat.com/js/chartbeat.js');
-			document.body.appendChild(e);
-		};
-		var oldonload = window.onload;
-		window.onload = (typeof window.onload != 'function') ?
-		loadChartbeat : function() { oldonload(); loadChartbeat(); };
-	})();
+    var _sf_async_config = {uid: 63144, domain: 'saregama.com', useCanonical: true};
+    (function () {
+        function loadChartbeat() {
+            window._sf_endpt = (new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+            document.body.appendChild(e);
+        }
+        ;
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+                loadChartbeat : function () {
+                    oldonload();
+                    loadChartbeat();
+                };
+    })();
 </script>
-<!-- AMIT  session >> US server >>  -->
-
+<!-- AMIT  session >> US server >> ROW -->
+						<script type="text/javascript">
+							adroll_adv_id = "DGVKK36Q6JGBDFIIMEUKAY";
+							adroll_pix_id = "X4X76RQN6VE4FGWWKEAFMJ";
+							/* OPTIONAL: provide email to improve user identification */
+							/* adroll_email = "username@example.com"; */
+							(function () {
+								var _onload = function(){
+									if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+									if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+									var scr = document.createElement("script");
+									var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+									scr.setAttribute('async', 'true');
+									scr.type = "text/javascript";
+									scr.src = host + "/j/roundtrip.js";
+									((document.getElementsByTagName('head') || [null])[0] ||
+										document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+								};
+								if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+								else {window.attachEvent('onload', _onload)}
+							}());
+						</script>	
+					
 <script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
