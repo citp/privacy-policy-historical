@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landrover.co.uk privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624140903id_/http%3A//www.landrover.co.uk/cookie-and-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landrover.co.uk privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123141614id_/http%3A//www.landrover.co.uk/cookie-and-privacy-policy.html) for the most accurate reproduction.*
 
 # Cookies & Privacy Policy - Land Rover UK
 
@@ -126,7 +126,7 @@ Persistent Cookies are used:
 
 Here's a list of the main cookies we use, and what we use them for. You'll find information about 3rd party cookies on the next tab.
 
- **Cookie Name**|  **Cookie Purpose  
+**Cookie Name** | **Cookie Purpose  
 **  
 ---|---  
 JLR_cookies   
@@ -152,6 +152,8 @@ gs_u_GSN-065099-V, gs_u_GSN-657216-Q
   
 psyma_participation   
 | Stores users preference in participation of the Psyma research survey  
+Media Innovation Group Appnexus   
+| These various online ad tracking cookies help us show you online adverts relevant to you. They track the adverts you have seen, those you have clicked on, and the pages you have visited on our site afterwards.  
   
 ### Third Party Cookies
 
@@ -169,16 +171,16 @@ These are used for the following purposes:
 
 
 
- **Cookie  
-**|  **Cookie Name  
-**|  **Cookie Purpose  
+**Cookie  
+** | **Cookie Name  
+** | **Cookie Purpose  
 **  
 ---|---|---  
 Psyma   
 | psyma_participation   
 | Stores users preference in participation of the Psyma research survey.   
   
-Addthis | __atuvc   
+Addthis  | __atuvc   
 __atuvs   
 bt   
 um   
@@ -187,7 +189,7 @@ uid
 loc   
 dt   
 bt2   
-di2| These cookies are used in recording user sharing and social activity and to help publishers know approximately where people sharing information are located.   
+di2 | These cookies are used in recording user sharing and social activity and to help publishers know approximately where people sharing information are located.   
 For more information you can visit:[www.addthis.com/](http://www.addthis.com/)  
   
 ### Web Beacons
