@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emagine-entertainment.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503021955id_/http%3A//www.emagine-entertainment.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emagine-entertainment.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123210408id_/http%3A//www.emagine-entertainment.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Emagine Entertainment
 
