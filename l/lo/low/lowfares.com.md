@@ -1,88 +1,87 @@
-> *The following text is extracted and transformed from the lowfares.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413141642id_/http%3A//www.lowfares.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowfares.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123221154id_/http%3A//www.lowfares.com/privacy-policy.html) for the most accurate reproduction.*
 
-# LowFares.com
+# Privacy Policy
 
-Lowfares.com is committed to protecting the privacy of your information. We recognize that privacy is of the utmost importance, and operate our website (the "Site") with the goal of protecting your sensitive personal information in mind. As a user of the Site or the services provided at the Site (the "Services"), this Privacy Policy is intended to describe for you: 
+April 13, 2016
 
-  * The information we collect about you, 
-  * How that information may be used, 
-  * With whom it may be shared, 
-  * How you may access the information you provide us, and
-  * Your choices about such uses and disclosures.
+At MediaAlpha, privacy is a top priority, and we are committed to protecting the personal information of our customers. This Privacy Policy provides details on how we treat any personal information you may submit to us.
 
+This Privacy Policy applies to this website, lowfares.com (the “Site”), which is made available by QuoteLab, LLC, which does business as MediaAlpha ("we" or “us”). Please note that this Privacy Policy applies only to information collected through the Site and not to websites maintained by other companies or organizations to which we link.
 
+**Information We Collect and Use**
 
-We encourage you to read this Privacy Policy carefully before using the Site o Services or transacting business with us. By using the Site, you are accepting the practices described in this Privacy Policy. If you have questions or concerns regarding this Privacy Policy, please contact us via email or mail using the contact information provided below.
+We will collect and use personal information about you to respond to your request for products and services offered through the Site. Specifically, we collect information provided by you in connection with providing price quotes for travel related products and services. We may also collect your email address if you wish to sign up for our newsletter or deal alerts.
 
-**Information Collection**
+We also collect demographic information. Demographic information is all other information such as gender, zip code, or any information that is not tied to your personal information. In addition, we might receive information about you from other online or offline sources and may add that information to your existing account.
 
-We may collect personal information that can identify you such as your name and e-mail address, as well as other information that does not identify you. When you provide personal information through the Site, the information may be sent to our servers located in the United States and other countries around the world. 
+**Information Sharing and Disclosure**
 
-_User Provided Information_. We may collect and store any personal information that you enter into the Site or provide to us in some other manner. This includes identifying information (such as your name, address, e-mail address, and telephone number), and any other personal information you choose to provide while using the Site or the Services.
+We share personal information about you under the following circumstances:
 
-_Third Party List Information_. We may also obtain both personal and non-personal information about you from third party data gathering sources. We may match this third-party collected information with the personally identifying information that you provide to us. When obtaining this information from third parties, we seek assurances from such third parties that they have the right to provide the information to us.
+Price Quote Requests. If you submit a request on the Site for price quotes for travel related products or services, we will use the information contained in your request form (such as dates of travel and destinations) with third parties, which include carriers, hotels, travel agents and other providers (“Service Providers”) in our network to provide relevant information. In some circumstances, we may obtain additional information about you and/or share that information with Service Providers in our network.
 
-_Cookies, Web Beacons, and Other Information Collection Technology._ We and our business partners, such as advertisers, may use various technologies to collect information from your computer and about your activities on the Site. For example, we and our business partners may collect and store non-personally identifying information through technologies such as cookies, log files, clear gifs (also known as web beacons), and other tracking pixels and third parties to help determine user viewing preferences for advertising and other purposes. 
+All Service Providers in our network have entered into agreements with us which require them to secure any personal information provided through the Site and limit how they can use such information. These Service Providers are also required to comply with federal and state privacy regulations. By submitting your request to us, you understand that Service Providers. If one of the Service Providers contacts you and you wish not to be contacted again by that Service Provider with respect to your inquiry, then you should specifically make a request to that Service Provider. Please note that the Service Providers may maintain the information you provide to them whether or not you elect to use their services.
 
-  * _Log Files._ Technical information from your browser is automatically collected when you visit the Site. This information includes your IP address, your browser type, operating system, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address.
-  * _Cookies._ A cookie is a piece of data stored on a user's computer that tracks non-personal information about the user. When using the Site, we may assign your computer one or more cookies which enable us to improve the quality of our Service and to customize your experience. Cookies allow us to automatically collect information about your browser or device activity on the Site, such as the web pages you visit, the links or advertisements you click, or the other actions you conduct while using the Site. Most browsers automatically accept cookies, but you can usually modify your browser setting to disable cookies. If you choose to disable cookies, you will still be able to access the Site, but you may not be able to use all of the interactive features we offer. Additional information on cookies can be found at: <http://www.microsoft.com/info/cookies.htm>.
-  * _Web Beacons._ We, or our advertisers, may use standard Internet technology such as web beacons or clear gifs and other similar technologies, to gather aggregate information about your browser or device activity on the Site. We also may include web beacons in promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon. This allows us to gauge the effectiveness of our marketing efforts and the quality of the Site.
-  * _Information collected by third-parties._ We and our business partners, such as advertisers, may use technologies, such as cookies and tracking pixels, to collect information about users who view or interact with these advertisements and connect to other websites. This information allows us and our business partners to deliver customized advertisements and gauge their effectiveness. Please note that we do not have access to or control over third parties' cookies used on the Site, and this policy does not govern the use of cookies by these third parties. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative (NAI) and/or participants of the Digital Advertising Alliance (DAA), which offer a single location to opt out of ad customization from their respective participating companies at <http://www.networkadvertising.org/managing/opt_out.asp> and <http://www.aboutads.info/choices/>.
+Aggregate, Non-Personal, or De-identified Information. We may share aggregated information (i.e., information about you and other users collectively, but not specifically identifiable to you) and other non-personal, de-identified, or anonymous information we collect with third parties, including our affiliates, to develop and deliver targeted advertising on our Site and on the websites of third parties and our affiliates.
 
+As Required by Law. We may be required to share your personal information with law enforcement or government agencies in response to subpoenas, court orders, federal/state audits or similar circumstances whenever we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Use, or as otherwise required by law.
 
+Business Transfer. As with any other business, it is possible that we could in the future enter into a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale. If such a transaction occurs, the successor company would have access to the information maintained by us, including your personal information, but would continue to be bound by this Privacy Policy unless you consent otherwise as provided herein.
 
-One of our third-party cookie partners is Datran Media (for Datran Media's privacy policy, please visit <http://www.datranmedia.com/privacy/>). To opt out of Datran Media's cookie-based marketing program, _[click here](http://rt.displaymarketplace.com/optout.html)_.
+**Information Collection Technologies**
 
-_Sponsor or Link Websites_. Links or sponsor websites may be presented in a manner that allows us to keep track of whether the links or sponsor sites have been used. We use this information to improve the quality of the Site, to keep track of advertising, and to customize your online experience. We are not responsible for the privacy practices of other websites.
+To better serve our users and Service Providers and enhance the response time of the Site, we use various technologies to collect information about our users, such as:
 
-**Information Use and Sharing**
+_Cookies._ Cookies are small bits of code, usually stored on a user's computer hard drive, which enable a Website to "personalize" itself for each user. We generally use cookies to reduce the time it takes for pages to load on your computer and to assist with customer tracking. Customer tracking (or "click-stream") data collected by us is used to optimize your experience by learning whether or not you successfully used the Site. Additionally, we may capture click-stream data on some of our partner's websites, limited to the activity involved with the completion of offers listed on our website. This information is used to monitor the performance of our partners. We also may use cookies to deliver targeted advertising (or allow third parties to deliver targeted advertising) on our website and the websites of our affiliates and third parties.
 
-PLEASE NOTE THAT WE MAY USE INDIVIDUAL INFORMATION FOR ANY PURPOSE IN OUR SOLE DISCRETION. We may match any of the technical information we gather to any personally identifying information or other information we have obtained from or about you to improve the content of the Site and Services for you. Examples of some of the ways we use or share information that we collect about you include, but are not limited to, the following:
+Please visit [http://www.google.com/policies/technologies/ads/](http://www.google.com/policies/technologies/ads/) to find additional information and options to remove or disable cookies, and to opt out of certain targeted advertisements.
 
-  * providing you with products or services, including the display of customized content, advertising, and services;
-  * providing technical or customer support;
-  * performing research and analysis to gauge use of or interest in products, services, or content offered on the Site, and to develop new services;
-  * communicating with you by e-mail about products or services that may be of interest to you;
-  * enforcing our terms and conditions, or otherwise managing our business; and
-  * performing functions as otherwise described to you at the time of collection.
+_Log Files._ We also keep track of Internet Protocol (IP) addresses. An IP Address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.
 
+_Clear Gifs._ We employ a software technology called clear gifs (a.k.a. Web Beacons) that help us better manage content on our site and in our HTML emails by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movement of Web users. Clear gifs are not tied to users' personally identifiable information. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
 
+**Emails**
 
-_Communications from the Site_. Unless you have opted out of these features where available, we may use your information in a variety of ways to communicate with you, such as through email, newsletters, RSS feeds, service announcements, or for customer service. 
+By providing your contact information to us through the Site, you are registering to receive communications from us directly, on our website or through a third party. We will periodically send you newsletters and other e-mails with offers and promotions. If you no longer wish to receive these communications, please let us know by sending an email to Customer Care at info@lowfares.com You may also opt-out by clicking on the unsubscribe link in our emails.
 
-_Personal Information_. Unless you have opted out where available, we may rent, sell, or share any of your information, personal or otherwise, with third parties, including without limitation for the following purposes:
+**Third Party Advertisers**
 
-  * Service providers: We may share your personal information, alone or in combination with non-personal information, with third party service providers in connection with the Services we provide or your request for customer service on the Site. These service providers may include entities such as credit bureaus, financial institutions, marketing and customer services firms, credit card payment processors, as well as companies that support contests, sweepstakes, surveys, or other features offered through the Site, or that provide business analysis or website support. These service providers may have access to personal information needed to perform their functions, which may include using the information to contact you.
-  * Business partners: When you express interest in promotions offered through the Site or our Services, we may share your personal information, alone or in combination with non-personal information, with the relevant business partners or affiliates to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular offer or program, you authorize us to provide your personal information address and other information to that business so that they may contact you
-  * Third parties for business reasons: In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. If a change in ownership occurs that will result in your personal information being used in a manner different from that stated in the then-existing privacy policy, notification will be provided consistent with the terms of this Privacy Policy.
-  * Third parties for legal process: In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from any law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us in our sole discretion. In addition, we may disclose your information when we believe it is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce the Site terms of use or other agreements or policies.
+Please note that we can only control our own mailing list and policies. Third party advertisers that maintain their own mailing lists may send communications that advertise our services. In addition, if you provide your personal information to a Service Provider in our network, any use of your information by that Service Provider will be subject to their privacy policies and procedures. You would need to contact these parties directly in order to stop receiving their email communications.
 
+**Confidentiality and Security**
 
+The security of your personal information is very important, and we take a number of steps to safeguard it. For example, we limit access to personal information to those employees or agents who assist us in providing requested products and services to you and maintain physical, electronic, and procedural safeguards that comply with or exceed federal standards to guard personal information about you.
 
-_Aggregated and Non-Personal Information_. We may rent, sell, or share aggregated demographic information not specifically identifiable to you, and other non-personal information we collect, with any third parties for any reason, including to develop and deliver customized advertising, and to conduct general business analysis. We may combine non-personal information we collect with additional non-personal information collected from other sources. For example, we may tell our advertisers the number of visitors to the Site and the most popular features or Services accessed.
+**Third Party Links**
 
-Please note that our Privacy Policy does not cover any third party's use or handling of your information once it is shared. Rather, the privacy policies of the various third parties will govern. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties. These entities or their servers may be located either inside or outside the United States.
+This Privacy Policy applies to all information that you provide on the Site. However, when you visit websites to which lowfares.com links, keep in mind you will be interacting with a third party that operates under its own privacy and security policy. If you choose to obtain certain services through a third party site, the data collected by the third party is governed by that third party's privacy policy. A third party site will also have its own policy regarding the use of cookies and clear gifs. We encourage you to review the privacy policies of any other service provider from whom you request services.
 
-_Links_. This Site contains links to other websites, including through advertisements. We are not responsible for the privacy practices of third party linked websites, even if this Site frames the linked third party website. We encourage you to be aware of when you leave the Site and to review the privacy statements of each and every website that you visit that collects personally identifiable information. This Privacy Policy applies solely to information we collect.
+**A Special Note about Children's Privacy**
 
-**Choice/Opt Out**
+You must be at least 14 years old to use this website. We do not knowingly collect, use or disclose personal information about visitors under 14 years of age. If you are under 14 years of age, you can use the services offered on our website only in conjunction with your parents or guardians. Please see our Terms of Use for more information.
 
-We give our users the opportunity to "opt-out" of having their information used for purposes not directly related to the Site at the point where we ask for the information, including the sharing of personal information with third parties for their own marketing purposes. Please be aware that this may result in our not being able to provide certain services to you that require us to share information with third parties. If you choose to receive communications from us but later wish to discontinue receiving communications or our Services, you can opt-out by contacting us via email or mail using the contact information provided below.
+**Updating, Obtaining or Removing Your Information**
 
-Please note that opting out of receipt of promotional e-mail communications will only affect future activities or communications from us. If we have already provided your information to a third party before you have changed your preferences or updated your information, you will have to change your preferences directly with that third party. To opt-out of communications from our third party business partners, please contact them directly. 
+Upon request via email or mail, we will provide you a summary of personal information retained by us. We will only send your personal records to your email address or postal address that we have on file for you. To modify, correct, change, update or remove your personal record from our database, please send your request via email to info@lowfares.com. 
 
-**Visitors Outside the United States**
+**Special Notice to California Residents**
 
-This Privacy Policy is intended to cover collection of information on the Site from residents of the United States. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. If you are visiting the Site from outside the United States, you acknowledge and agree that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. By using our Services, you acknowledge and agree that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy. 
+We will not share any personal information about you with other companies to the extent prohibited by applicable California law or to the extent your prior consent to share is required by applicable California law. California residents may, no more than once per calendar year, request information about our disclosures of certain categories of personal information to third parties for direct marketing purposes. To be valid, requests must be submitted to us at info@lowfares.com. Within thirty days of receiving this request, we will provide a list of the categories of personal information disclosed for direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of the third parties.
 
-**Privacy Policy Changes**
+**Visitors outside the United States**
 
-This Privacy Policy may be updated from time to time to reflect changes in our practices and Services. We reserve the right to modify it at any time, so please review it frequently. When changes are made to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. If we make any material changes in the way we collect, use, and/or share personal information that may impact you, we will also prominently post a notice of the changes on the Site and/or notify you by sending an e-mail to the e-mail address you most recently provided us in your account, profile or registration (unless we do not have such an e-mail address or you have opted-out of such communication). Your continued use of the Site or Services after we have posted any Privacy Policy changes indicates your agreement to the changes unless you notify us otherwise. 
+This Privacy Policy is intended to cover collection of information on our Site from residents of the United States. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. By visiting our site or using our Services, you acknowledge and agree that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy, regardless of the laws of your residence country.
 
-**General Contact:**
+**Questions and Suggestions**
 
-LowFares.com  
-550 S. Hope Street  
-Suite 200  
-Los Angeles, CA 90071  
-[privacy@lowfares.com](mailto:privacy@lowfares.com)
+If you have any questions, concerns or suggestions about our Privacy Policy, you may contact us by sending an email to: [info@lowfares.com](mailto:info@lowfares.com).
+
+**Changes to this Privacy Policy**
+
+We reserve the right to make changes to this Privacy Policy at any time. If there are material changes to this Privacy Policy or in how we will use your personal information, we will prominently post notice such changes on the Site. However, you should check this Privacy Policy each time you use the Site to ensure you are aware of any changes in our privacy practices. Our Privacy Policy will indicate the date it was last updated. Your continued use of our Site after we have posted any Privacy Policy changes indicates your agreement to the changes unless you notify us otherwise.
+
+**Your Agreement**
+
+By using the Site, you signify your assent to this Privacy Policy. If you do not agree to this policy, please do not use any portion of the Site. When you request insurance quotes or other information through the Site, you are authorizing us to share information with our business partners, who may contact you by phone, email, or mail. If you do not want further communication from them, please notify the partner directly.
+
+700 South Flower Street, Suite 640 | Los Angeles, CA 90017
