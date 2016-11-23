@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightermonday.co.tz privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628044208id_/https%3A//www.brightermonday.co.tz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightermonday.co.tz privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123111215id_/https%3A//www.brightermonday.co.tz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tanzania | BrighterMonday
 
