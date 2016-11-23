@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tp.edu.sg privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604072312id_/http%3A//www.tp.edu.sg/about-tp/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tp.edu.sg privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123154909id_/http%3A//www.tp.edu.sg/about-tp/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement | Temasek Polytechnic
 
