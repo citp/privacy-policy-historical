@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salsify.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317111542id_/http%3A//www.salsify.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salsify.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124005231id_/https%3A//www.salsify.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
