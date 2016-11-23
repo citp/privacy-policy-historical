@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thinkspain.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630111108id_/http%3A//www.thinkspain.com/info/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkspain.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123163333id_/http%3A//www.thinkspain.com/info/privacypolicy.asp) for the most accurate reproduction.*
 
-# Thinkspain - Privacy Policy
+# Privacy Policy & Cookies
 
   
 TWC is committed to maintaining your personal details confidential, and has taken the appropriate technical, security and administrative measures to avoid unauthorised access, removal or modification of these details in accordance with the data protection law 15/1999 of December 13 of Spain. 
