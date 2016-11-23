@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesurvivalistblog.net privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616231617id_/http%3A//www.thesurvivalistblog.net/about3/my-disclosure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesurvivalistblog.net privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123074429id_/http%3A//www.thesurvivalistblog.net/about3/my-disclosure-policy) for the most accurate reproduction.*
 
 # ***Disclaimer and Privacy Policy*** - TheSurvivalistBlog.net
 
