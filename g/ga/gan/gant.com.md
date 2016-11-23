@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gant.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626230245id_/http%3A//www.gant.com/privacy-cookies-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gant.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123230936id_/http%3A//www.gant.com/privacy-cookies-information) for the most accurate reproduction.*
 
 # Privacy and Cookies Information for Gant Official Site
 
@@ -6,7 +6,7 @@
 
 ### Privacy Policy
 
-Gant USA Corporation ("we", "us" or the "Company") collects customer information to improve our customers' shopping experience and to share with our customers, our products, services and promotions. This Privacy Policy describes the types of information we may collect from you when you visit our website, http://gant.com (the " **Website** "), and our practices for collecting, using, maintaining, protecting and disclosing that information. This policy also applies to information we collect from you in e-mail or by other electronic means, such as text messages, and to information we collect through your use of mobile applications. This policy does not apply to information you send to us or that we collect through other means, such as via telephone, or through the use of the mail, and it does not apply to information collected by third parties. The Website is operated by Gant USA Corporation.
+GANT USA Corporation ("we", "us" or the "Company") collects customer information to improve our customers' shopping experience and to share with our customers, our products, services and promotions. This Privacy Policy describes the types of information we may collect from you when you visit our website, http://gant.com (the **"Website** "), and our practices for collecting, using, maintaining, protecting and disclosing that information. This policy also applies to information we collect from you in e-mail or by other electronic means, such as text messages, and to information we collect through your use of mobile applications. This policy does not apply to information you send to us or that we collect through other means, such as via telephone, or through the use of the mail, and it does not apply to information collected by third parties. The Website is operated by GANT USA Corporation.
 
 #### What information do we collect?
 
