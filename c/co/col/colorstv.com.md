@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorstv.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505094048id_/http%3A//www.colorstv.com/mena/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorstv.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123182823id_/http%3A//www.aapkacolors.com/us/privacy.html) for the most accurate reproduction.*
 
 # www.colorstv.com
 
