@@ -1,14 +1,27 @@
-> *The following text is extracted and transformed from the mastimag.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409061654id_/http%3A//www.mastimag.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastimag.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123103822id_/http%3A//www.mastimag.io/privacy) for the most accurate reproduction.*
 
-# MastiMag.com - Privacy Policy
+# Privacy ― Download and Play Hindi Bollywood MP3 Songs Music - MastiMag.io
 
-**MastiMag.com - PRIVACY POLICY**
+## Privacy Policy
 
-  
-Privacy is becoming a major concern on the Internet now, because of the popularity of the Internet some businesses have taken advantage of the huge amounts of data they have collected through their web sites by 'spamming' or by adding you to annoying mailing lists which you don't even remember signing up to. MastiMag.com does NOT require you to disclose personal information anywhere on the site, so it's not a major problem. However in the event that we do adopt features to the site which require you to fill out forms requiring your personal information we will make it OPTIONAL and we will NEVER, EVER make the information accessible to the public, sell it to anyone or use it for any purposes except for our own research. In addition when using our website your IP address is not stored or logged in any way!
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
-**Cookies & 3rd Party Advertisements**
+  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
+  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
+  * We will only retain personal information as long as necessary for the fulfillment of those purposes.
+  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
+  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
+  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+  * We will make readily available to customers information about our policies and practices relating to the management of personal information.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+
+#### Create new
+
+Playlist title
+
+#### Someting went wrong, try later
+
+[]()
