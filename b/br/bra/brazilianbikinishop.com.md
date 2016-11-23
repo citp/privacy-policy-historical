@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the brazilianbikinishop.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613084518id_/http%3A//www.brazilianbikinishop.com/en/viewpage/terms-and-conditions-41.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brazilianbikinishop.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123230018id_/http%3A//www.brazilianbikinishop.com/en/viewpage/terms-and-conditions-41.html) for the most accurate reproduction.*
 
 # Terms and Conditions
 
 ### **1\. INFORMATION ABOUT US**
 
 This site is operated by and the goods you purchase will be supplied by Brazilian Bikini Shop S.a.r.l. ("we").  
-We are registered in Antibes, France under company number RCS 509778270 and with our registered office at 75 Chemin des Collettes, 06800 Cagnes sur mer, Côte D’Azur, France. Our main trading address is Brazilian Bikini Shop S.a.r.l, 75 Chemin des Collettes, 06800 Cagnes sur mer, Côte D’Azur, France. Our VAT number is FR 36 509778270.
+We are registered in Antibes, France under company number RCS 509778270 and with our registered office at 75 Chemin des Collettes, 06800 Cagnes sur mer, C�te D�Azur, France. Our main trading address is Brazilian Bikini Shop S.a.r.l, 75 Chemin des Collettes, 06800 Cagnes sur mer, C�te D�Azur, France. Our VAT number is FR 36 509778270.
 
 **Customer Service** :  
 You can contact us by email at info@brazilianbikinishop.com,   
@@ -13,7 +13,7 @@ by telephone on (786) 224-0188 - Monday to Friday from 2 PM to 23h PM (Paris Tim
 
 ### **2\. YOUR PERSONAL INFORMATION**
 
-We will use your personal information in accordance with our Privacy Policy (Read our “[Privacy Policy](http://www.brazilianbikinishop.com/en/viewpage/terms-and-conditions-41.html#privacy "Privacy information")” page), which forms part of these terms.
+We will use your personal information in accordance with our Privacy Policy (Read our �[Privacy Policy](http://www.brazilianbikinishop.com/en/viewpage/terms-and-conditions-41.html#privacy "Privacy information")� page), which forms part of these terms.
 
 ### **3\. CONTRACT CONCLUSION**
 
@@ -22,7 +22,7 @@ We will acknowledge receipt of your order by sending you an automatically genera
 The contract will relate only to those specific goods which are referred to in our email confirming our acceptance of your order. You should read and check the details in this email to ensure that they are correct.  
 If the details in the email confirming your order are not correct, or if you are not satisfied with the details in the email, please contact us at info@brazilianbikinishop.com.  
 The contractual language is English.  
-We store the contract’s content and will send you the details of your order as well as the our general terms via e-mail. The general terms you can find at page “General terms” at all times.  
+We store the contract�s content and will send you the details of your order as well as the our general terms via e-mail. The general terms you can find at page �General terms� at all times.  
 The details about your recent orders you will find in your customer login.
 
 ### **4\. PRICE AND DELIVERY COSTS**
@@ -52,14 +52,14 @@ Payment for goods can be made by one of the following payment methods
 \- PayPal  
 \- Credit card through Paypal  
 \- Debit card through Paypal  
-Payment for goods will be made in accordance with the procedure explained in the information page “payment methods”.  
+Payment for goods will be made in accordance with the procedure explained in the information page �payment methods�.  
 Please note that if your credit card or bank account is in a different currency than Euros, your credit card company or bank may apply currency conversion costs.
 
 ### **7\. RIGHT TO CANCEL**
 
 Exchanges are possible until **100 days** , beginning from the purchase date.
 
-You have the right to cancel the purchase of a good without having to give a reason at any time within the “cooling off period” of 30 days from the purchase date (Or within 14 days after you receive the goods, if your order is delivered later than 16 days after the purchase date).  
+You have the right to cancel the purchase of a good without having to give a reason at any time within the �cooling off period� of 30�days�from the purchase date (Or�within 14 days after you receive the goods, if your order is delivered�later than 16 days�after the purchase date).  
 You must notify us of your cancellation in writing or in another durable medium to our contact address.   
 Cancellation consequences  
 If you are in possession of the goods you are under the duty to retain them and take reasonable care of them.
@@ -137,13 +137,13 @@ including information about our products and services, provided you have indicat
 
 We may also monitor who accesses our website, for example we may automatically collect access information about you, such as the type of internet browser you use, the website from which you have come to the our website and your IP address (the unique address which identifies your computer on the internet) which is automatically recognised by our web server such information enables us to assess our users, to build a profile. We also use cookies on various pages on our website. Cookies are small text files that are saved on your computer. This information does not directly identify you and for more information please also read or section entitled cookies.
 
-This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses cookies, which are text files placed on your computer, to help the website analyse how users use the site.
+This website uses Google Analytics, a web analytics service provided by Google, Inc. (�Google�). Google Analytics uses cookies, which are text files placed on your computer, to help the website analyse how users use the site.
 
 ### **Marketing purposes:**
 
-Subject to obtaining your consent we may contact you by by email If you prefer not to receive any marketing communications from us, you can opt out at any time. See further ‘Your rights’ below.  
+Subject to obtaining your consent we may contact you by by email If you prefer not to receive any marketing communications from us, you can opt out at any time. See further �Your rights� below.  
 Use of cookies  
-We may also obtain information about your online movements and use of the internet. We do this by placing a ‘cookie’, which is a small file, on your computer’s hard disk. Cookies are used for several reasons, for example to recognise you whenever you visit this website ensuring you do not have to enter all your details and thereby speeding up the process so you do not have to log on each time. It will also enable us to store your personal preferences, build a profile about you and target our marketing and advertising campaigns. We cannot provide a full service to you if you disable the cookie function on your web browser so we advise you to maintain the same.  
+We may also obtain information about your online movements and use of the internet. We do this by placing a �cookie�, which is a small file, on your computer�s hard disk. Cookies are used for several reasons, for example to recognise you whenever you visit this website ensuring you do not have to enter all your details and thereby speeding up the process so you do not have to log on each time. It will also enable us to store your personal preferences, build a profile about you and target our marketing and advertising campaigns. We cannot provide a full service to you if you disable the cookie function on your web browser so we advise you to maintain the same.  
 For further information about cookies and how to disable them please go to: aboutcookies.org  
 If applicable: Disclosure of your personal data  
 [choose appropriate]  
@@ -151,7 +151,7 @@ We may disclose your personal data:
 \- to other companies within our group;  
 \- if we sell our business to a third party;  
 \- to our agents and service providers (eg providers of web hosting or maintenance services);  
-\- credit reference agents — see ‘Credit Reference Agencies above;  
+\- credit reference agents � see �Credit Reference Agencies above;  
 \- in any other case where we are required to do so by law or if we believe that such action is necessary to prevent fraud or cyber crime or to protect the website or the rights, property or personal safety of any person.  
 We may also disclose aggregate statistics about visitors to our website, in order to describe our services to prospective partners, advertisers, sponsors and other reputable third parties and for other lawful purposes, but these statistics will include no personally identifiable information.
 
