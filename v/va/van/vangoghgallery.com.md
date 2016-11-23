@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vangoghgallery.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617162626id_/http%3A//www.vangoghgallery.com/misc/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vangoghgallery.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123161651id_/http%3A//www.vangoghgallery.com/misc/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Vincent van Gogh Gallery
 
@@ -18,6 +18,6 @@ If you give us information about yourself in an e-mail, or through our contact f
 
 If you receive email newsletters, we will not give, sell or transfer your email address to a third party. If you do not wish to receive promotional emails from the Van Gogh Gallery or the Van Gogh Gallery Art Store, simply use the unsubscribe link at the bottom of the email, or please send an email requesting to unsubscribe from all future mailings to newsletters@vangoghgallery.com . 
 
-"There is but one Paris and however hard living may be here, and if it became worse and harder even-the French air clears up the brain and does good-a world of good." 
+"To do good work one must eat well, be well housed, have one's fling from time to time, smoke one's pipe, and drink one's coffee in peace." 
 
 [More Van Gogh Quotes](https://web.archive.org/misc/quotes.html)
