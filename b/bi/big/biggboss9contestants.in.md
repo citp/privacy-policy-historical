@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the biggboss9contestants.in privacy policy that was archived on 2016-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160120174011id_/http%3A//www.biggboss9contestants.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggboss9contestants.in privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123125606id_/http%3A//www.contestants.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Bigg Boss 9
-
-Updated: 17th September, 2015
+# Privacy Policy - Contestants
 
   
 This privacy policy has been compiled to serve our users, who are concerned with how their data is used in our site. You have put your trust in us, and the data that we make available for you and hence, we also value your privacy. We, at Bollynasha.com, take privacy issues seriously. We do use advertising from third party servers and we also collect user information. The following sections provide in details how Bollynasha.com collects and uses the user information.
