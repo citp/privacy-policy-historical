@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thedudes.club privacy policy that was archived on 2016-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160225063127id_/http%3A//thedudes.club/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedudes.club privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123164943id_/http%3A//thedudes.club/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Dudes Club
 
 **Privacy Policy**
 
-We at File Creator LTD. (“ **The Company** “, “ **we** ” or “ **our** “) put great efforts into making sure that your personal information is safe and used properly.
+We at Bullseye Ventures LTD (“ **The Company** “, “ **we** ” or “ **our** “) put great efforts into making sure that your personal information is safe and used properly.
 
 This policy explains our privacy practices for processing personal information on The Company’s online websites (the “ **Service** “). This policy applies to the use of The Company’s websites and it is an integral part of The Company’s [Terms of Service](http://thedudes.club/terms-use.html "Terms").
 
