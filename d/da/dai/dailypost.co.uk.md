@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dailypost.co.uk privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627065136id_/http%3A//www.dailypost.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailypost.co.uk privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123153555id_/http%3A//www.dailypost.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Daily Post: Latest North Wales news, sport, what's on and business
-
-## Privacy Policy
 
 **IN RELATION TO ALL WEB SITE SERVICES OFFERED BY TRINITY MIRROR NORTH WALES HERE ON THIS WEB SITE**
 
