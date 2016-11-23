@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candywarehouse.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610032653id_/http%3A//www.candywarehouse.com/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candywarehouse.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123114955id_/http%3A//www.candywarehouse.com/service/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CandyWarehouse.com Online Candy Store
 
@@ -83,14 +83,14 @@ We are hosted by American Eagle, which uses cookies and log files to track non-p
 
 **Tracking Technologies**
 
- We use cookies for __ our shopping cart, to remember users’ settings (e.g. mobile browsing preference), and for authentication _._ Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.   
+ We use cookies for __ our shopping cart, to remember users’ settings (e.g. mobile browsing preference), and for authentication _._ Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.  
 
 
 Technologies such as: cookies, beacons, tags and scripts are used by CandyWarehouse.com and our partners, affiliates, or analytics or service providers, e.g. online customer support provider. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.  
 
 
-We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. **  
-**
+We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs.  
+****
 
 **Behavioral Targeting/ Re-Targeting**  
 
@@ -162,6 +162,6 @@ If you have any questions or suggestions regarding our privacy policy, please co
 
 
 CandyWarehouse.com  
-215 S. Douglas Street  
-El Segundo, CA 90245  
+2520 Mira Mar Ave.  
+Long Beach, CA 90815  
 U.S.A.
