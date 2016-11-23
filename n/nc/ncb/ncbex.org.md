@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ncbex.org privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611125350id_/http%3A//www.ncbex.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncbex.org privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123101836id_/http%3A//www.ncbex.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NCBE
 
-Date Updated: June 3, 2015
+Date Updated: August 16, 2016
 
 The National Conference of Bar Examiners (NCBE) is committed to protecting your privacy. This Privacy Policy (“Policy”) describes our practices and procedures as they relate to information we collect through our website (the “Site”) located at [www.ncbex.org](http://www.ncbex.org/ "NCBE web site Home page"). NCBE owns the information collected. By providing personal information online, you consent to allow NCBE to use that information in accordance with this Policy.
 
@@ -10,7 +10,7 @@ The National Conference of Bar Examiners (NCBE) is committed to protecting your 
 
 ###### Personal Information
 
-You are not required to provide any personal information to browse or access the public area of the Site. However, to access or use certain services at the Site, you are required to provide personal information. “Personal information” is information that is unique to you, and includes, but is not limited to, your email address, telephone number, name, date of birth, Social Security or national identification number, and information regarding your legal education, background, credentials, and related matters. Information you supply when requesting ADA accommodations for the MPRE is subject to an [additional privacy policy](http://www.ncbex.org/exams/mpre/ada-accommodations/).
+You are not required to provide any personal information to browse or access the public area of the Site. However, to access or use certain services at the Site, you are required to provide personal information. “Personal information” is information that is unique to you, and includes, but is not limited to, your email address, telephone number, name (and any formerly used names), date of birth, Social Security or national identification number, and information regarding your legal education, background, credentials, and related matters. Information you supply when requesting ADA accommodations for the MPRE is subject to an [additional privacy policy](http://www.ncbex.org/exams/mpre/ada-accommodations/).
 
 Personal information is collected on the Site when you create an NCBE Account, register online for the MPRE, complete the NCBE Character and Fitness Application, request score services, send a message using the Contact Us form, purchase products through the NCBE Study Aids Store, or complete an optional survey related to the purchase of an Online Practice Exam. NCBE also collects information about changes made to your NCBE Account profile.
 
@@ -18,17 +18,17 @@ NCBE uses your personal information for the purposes described where it is colle
 
 ###### Cookies and Tracking Technologies
 
-Cookies are used by NCBE to keep track of your login information while you are logged in to the Site. Information transferred through cookies does not contain any personally identifying information, nor is it shared with any other parties. We use non-persistent cookies to make it easier for you to navigate the Site. These non-persistent cookies are deleted when you close your browser. If you reject cookies, you may still use the Site but your ability to use some areas of the Site will be limited.
+Cookies are used by NCBE to keep track of your login information while you are logged in to the Site. Information transferred through cookies does not contain any personally identifying information, nor is it shared with any other parties. We use persistent and non-persistent cookies to make it easier for you to navigate the Site. If you reject cookies, you may still use the Site but your ability to use some areas of the Site will be limited.
 
 NCBE's web server monitors traffic by automatically recording every visitor's host, domain name, pages visited, length of user sessions, browser type, and/or IP address. We use Google Analytics to track interaction with specific features of our website. We do not (and do not allow any third party to) use this service to track, collect, or upload any data that personally identifies an individual, or other data which can be reasonably linked to such information by Google. For information on how Google Analytics collects and processes data, please review “How Google uses data when you use our partners' sites or apps” located at [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/).
 
 ###### Credit Card Information
 
-All credit card transactions are processed through iTransact or Authorize.Net via SSL. (View [iTransact’s privacy policy](http://itransact.com/about/privacy-policy/) and [Authorize.Net's privacy policy](http://www.authorize.net/company/privacy/).) Your credit card information is used to bill you for services. NCBE does not use credit card information for any other purpose. NCBE does not store or disclose credit card information.
+All credit card transactions are processed through Authorize.Net via TLS. (View [Authorize.Net's privacy policy](http://www.authorize.net/company/privacy/).) Your credit card information is used to bill you for services. NCBE does not use credit card information for any other purpose. NCBE does not store or disclose credit card information.
 
 ##### Security
 
-NCBE has physical, technical, and administrative safeguards in place to protect your personal information. We use industry-standard secure socket layer technology (SSL) to encrypt data transmissions. To learn more about SSL, view <http://www.webopedia.com/TERM/S/SSL.htm>. Despite our security measures, no data transmission over the Internet or electronic storage is 100% secure. As a result, we cannot and do not warrant the security of your personal information.
+NCBE has physical, technical, and administrative safeguards in place to protect your personal information. We use industry-standard Transport Layer Security technology (TLS) to encrypt data transmissions. To learn more about TLS, view [http://www.webopedia.com/TERM/T/TLS.html](http://www.webopedia.com/TERM/T/TLS.html). Despite our security measures, no data transmission over the Internet or electronic storage is 100% secure. As a result, we cannot and do not warrant the security of your personal information.
 
 Messages that you send to us by email, including by use of the [Contact Us form](http://www.ncbex.org/contact/) on the Site, may not be secure, and use of email is not recommended for sending confidential or sensitive information to us.
 
@@ -36,7 +36,7 @@ Messages that you send to us by email, including by use of the [Contact Us form]
 
 NCBE may disclose your personal information to bar admission agencies, or to other third parties with whom we have a direct or indirect business or contractual relationship, in order to deliver and support the products and services that NCBE provides. For example, we may disclose your personal information, such as name, date of birth, Social Security number, and NCBE Number, to third parties that use and/or administer our examinations for purposes of accurately reporting your exam scores and ensuring exam integrity and security.
 
-NCBE may disclose your personal information to bar admission agencies for purposes of character and fitness investigations, including, but not limited to, disclosure of the jurisdictions to which you have previously applied and the dates of any such applications.
+NCBE may disclose your personal information to bar admission agencies for purposes of character and fitness investigations, including, but not limited to, disclosure of the jurisdictions to which you have previously applied and the dates of any such applications. When conducting a character and fitness investigation, NCBE may disclose your personal information to third parties we contact during the investigation, including but not limited to your name (and any formerly used names) and date of birth. 
 
 NCBE reserves the right to use or disclose your personal information when NCBE reasonably believes it is needed to (i) respond to information requests by law enforcement or other governmental authorities; (ii) comply with any law, regulation, subpoena or other legal process, or court order; (iii) investigate and help prevent security threats, fraud, malicious activity, or inappropriate, unauthorized, or illegal activity involving our examinations, services, or networks; or (iv) enforce or protect our rights and property, including intellectual property. In these four circumstances, NCBE may disclose your personal information without notice to such third parties as we deem reasonably necessary.
 
