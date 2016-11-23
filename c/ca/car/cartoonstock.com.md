@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoonstock.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622040647id_/http%3A//www.cartoonstock.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonstock.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123214200id_/http%3A//www.cartoonstock.com/privacy.asp) for the most accurate reproduction.*
 
 # CartoonStock - Privacy Policy
 
