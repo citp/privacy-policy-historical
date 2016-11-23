@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transport.qld.gov.au privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607165306id_/http%3A//www.tmr.qld.gov.au/Help/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transport.qld.gov.au privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123025553id_/http%3A//tmr.qld.gov.au/Help/Privacy) for the most accurate reproduction.*
 
 # Privacy (Department of Transport and Main Roads)
 
@@ -35,7 +35,7 @@ When you use an online service in relation to your driver licence the department
 
 #### Registration
 
-When you use an online service in relation to vehicle registration the department collects the information you provide to maintain the vehicle/vessel registration register as required under the _Transport Operations (Road Use Management) Act 1995_. The department or its agents/contractors may use this information in its communications with you and may disclose some of the information to vehicle insurers, statutory entities, insolvency entities, lawyers, person's involved in vehicle incidents/accidents, vehicle manufacturers, third parties who are involved in or intend to commence legal proceedings, tolling entities, law enforcement agencies and interstate registering authorities. Your information will not be disclosed to any other third party without your consent unless authorised or required by law.
+When you use an online service in relation to your registration the department collects the information you provide under the provisions of the _Transport Operations (Road Use Management) Act 1995_ and the _Transport Operations (Marine Safety) Act 1994_. The department or its agents/contractors may use your information in its communications with you and may disclose some of this information to vehicle/vessel insurers, statutory entities, insolvency entities, lawyers, persons involved in vehicle or vessel accidents and incidents , vehicle/vessel manufacturers, third parties who are involved in or intend to commence legal proceedings, tolling entities, law enforcement agencies and interstate registering authorities. Your personal information will not be disclosed to any other third party without your consent, unless authorised or required to do so by law.
 
 #### Accreditations
 
@@ -84,6 +84,8 @@ If you choose to supply an email address and/or mobile phone/SMS device number, 
   * sending you information, notices, reminders or updates on Transport and Main Roads products and services. 
 
 
+
+Transport and Main Roads may disclose this information to the Queensland Police Service (see Online Services above).
 
 Email correspondence sent to this site will be treated as a public record and will be retained as required by relevant legislation.
 
