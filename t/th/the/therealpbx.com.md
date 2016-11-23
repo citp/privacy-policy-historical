@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therealpbx.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502103104id_/http%3A//www.therealpbx.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therealpbx.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123013828id_/http%3A//www.therealpbx.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,10 +8,10 @@ Through your e-mail address you are mailed from time to time about various offer
 
 All the information that we collect from you is stored safely in our data centers. Your credit card and account number details are encrypted using the SSL (Secure Socket Layer) connection. No information collected is shared with third parties, except as may be necessary for processing various transactions.
 
-If you wish to subscribe or unsubscribe to your newsletters, or for any related query you can contact our Customer Support anytime.
-
-If at any point of time you feel this privacy policy has been violated please feel free to contact us at:
+If you wish to subscribe or unsubscribe to your newsletters, or for any related query you can contact our Customer Support anytime. If at any point of time you feel this privacy policy has been violated please feel free to contact us at:
 
 **The Real PBX**  
 [http://www.therealpbx.com](http://www.therealpbx.com/)  
 **+1-888-892-9646**
+
+Call Now : +1-888-892-9646
