@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eversmoke.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620102330id_/http%3A//www.eversmoke.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eversmoke.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123185028id_/https%3A//www.eversmoke.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | EverSmoke Electronic Cigarettes
 
@@ -6,7 +6,7 @@ Effective June 1, 2011
 
 #### Website Privacy Policy & Terms of Use
 
-Click here for our [Terms of Use](http://www.eversmoke.com/terms/)
+Click here for our [Terms of Use](https://www.eversmoke.com/terms/)
 
 The EverSmoke Electronic Cigarette is intended for use by adult smokers and not intended for pregnant women or those who are sensitive to nicotine. Nicotine is highly addictive and may be dangerous to your health. EverSmoke E Cigarette is not intended as a smoking cessation device. The EverSmoke Electronic Cigarette offers smokers a tar-free way to enjoy smoking.
 
