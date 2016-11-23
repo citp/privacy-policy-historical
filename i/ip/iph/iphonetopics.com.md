@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the iphonetopics.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616134025id_/http%3A//www.iphonetopics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphonetopics.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123122313id_/http%3A//www.iphonetopics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iPhone Topics
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+
+**Disclaimer:**  This website is not owned by, is not licensed by nor is a subsidiary of Apple Inc. This site is unrelated to Apple Inc. All articles, logo, images and trademarks in this site are property of their respective owners.
 
 **What personal information do we collect from the people that visit our blog, website or app?**
 
