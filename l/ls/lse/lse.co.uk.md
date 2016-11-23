@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lse.co.uk privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403124554id_/http%3A//www.lse.co.uk/privacy-statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lse.co.uk privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123181107id_/http%3A//www.lse.co.uk/privacy-statement.asp) for the most accurate reproduction.*
 
 # London South East - Data Protection and Privacy Statement
 
@@ -63,7 +63,7 @@ If you are from outside the EEA, we will transfer your information to your home 
 
 ## Finding out more
 
-If you have any questions about our privacy statement or the information we hold about you, please contact our Data Protection Compliance Officer. You have a legal right to see a copy of the information we hold about you on payment of a fee, which is currently £10.
+If you have any questions about our privacy statement or the information we hold about you, please contact our Data Protection Compliance Officer. You have a legal right to see a copy of the information we hold about you on payment of a fee, which is currently �10.
 
 Further information about data protection issues can be found at the Information Commissioners Office.
 
