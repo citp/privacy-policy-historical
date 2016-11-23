@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the adhoards.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602060354id_/http%3A//www.adhoards.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adhoards.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123122810id_/http%3A//www.adhoards.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Adhoards : Free Classified Site to Post Advertisements Online
+# Privacy Policy Adhoards
 
 ##  Website Privacy Policy 
+
+ADHOARDS , whose registered office is at 69X, Chanditala Branch Road, Kolkata- 700053, India, knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes our privacy policy and forms part of our website terms and conditions ("Website Privacy Policy"). 
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our Privacy Policy. 
 
