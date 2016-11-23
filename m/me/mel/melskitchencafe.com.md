@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the melskitchencafe.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608080907id_/http%3A//www.melskitchencafe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melskitchencafe.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123095949id_/http%3A//www.melskitchencafe.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Mel's Kitchen Cafe
 
 The privacy of visitors to Mel’s Kitchen Cafe is very important. This privacy policy outlines the type of personal information that is received and collected and how it is used. Mel’s Kitchen Cafe will not share your personal information with any third party, nor will your personal information be ever sold to a third party. Promise.
 
