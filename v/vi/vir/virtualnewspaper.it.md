@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the virtualnewspaper.it privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611132840id_/http%3A//www.miles33.com/news/privacy-cookies/5607/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualnewspaper.it privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123235342id_/http%3A//www.miles33.com/news/privacy-cookies/5607/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Miles33 - Privacy&Cookies - Miles33
+# Privacy Policy - Miles33 - Miles33
 
 This privacy policy discloses the privacy practices for [www.miles33.com](http://www.miles33.com/). This privacy policy applies solely to information collected by this web site. It will notify you of the following:
 
