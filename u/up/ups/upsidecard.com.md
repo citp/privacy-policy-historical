@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upsidecard.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608220905id_/http%3A//www.upsidecard.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upsidecard.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123103018id_/http%3A//www.upsidecard.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy: Privacy Policy for UPside Visa Prepaid Cards
 
