@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallis.co.uk privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607224446id_/http%3A//www.wallis.co.uk/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd%3FcatalogId%3D33058%26storeId%3D12557%26langId%3D-1%26viewAllFlag%3Dfalse%26categoryId%3D281007%26interstitial%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallis.co.uk privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123162446id_/http%3A//www.wallis.co.uk/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd%3FcatalogId%3D33058%26storeId%3D12557%26langId%3D-1%26viewAllFlag%3Dfalse%26categoryId%3D281007%26interstitial%3Dtrue) for the most accurate reproduction.*
 
 # Privacy Policy - Wallis
 
@@ -28,6 +28,12 @@ In assessing your request for goods or services, we may use your information for
 
   
 We may contract with other companies to provide certain services, including credit card processing, shipping, name and address verification, email distribution, market research, marketing and advertising services (including advertising on third party websites, social media networks and profiling) and promotions management. We provide these companies with only the information they need to perform their services and work closely with them to ensure that your privacy is respected and protected. These companies are prohibited by contract from using this information for their own marketing purposes or from sharing this information with anyone other than Wallis. We may share your information with other Arcadia Group companies for internal business purposes (for example administering e-receipts or responding to customer queries). We may transfer personal data that we collect from you to third party data processors located in countries that are outside of the European Economic Area and to other Arcadia group companies in connection with the above purposes. Any such transfer of your personal data will be carried out in compliance with applicable laws and we will treat the information in a manner consistent with this Privacy Policy Statement. However, we will not pass your information on to any other Arcadia Group companies or other third parties for their own marketing purposes unless you have agreed for us to do so.
+
+## **KLARNA**
+
+We work with Klarna AB to offer our customers more convenient methods of payment. Klarna AB (“Klarna”) is a provider of financial services. Klarna's principal place of business is at Sveavägen 46, 111 34 Stockholm, Sweden. Klarna is registered with the Swedish companies register under the registration number 556737-0431 and licensed by and under the supervision of the Swedish Financial Supervisory Authority (www.fi.se), Box 7821, 10397 Stockholm, Sweden, and the Swedish Data Protection Authority (http://www.datainspektionen.se/in-english/), Box 8114, 10420 Stockholm, Sweden.
+
+We need to provide Klarna with certain information about you and the order to enable Klarna to assess whether you qualify for their credit products. We need to transfer to Klarna account details such as your name, address, email address, phone number, and payment history, as well as your order details, such as payment method, shipping details, what was ordered, and similar. This will not be done if you do not select Klarna as your payment method. The further use of this data will be governed by Klarna’s Privacy Policy LINK: http://cdn.klarna.com/1.0/shared/content/legal/terms/Klarna/en_gb/privacy
 
 ## COOKIES
 
