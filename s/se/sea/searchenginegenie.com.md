@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchenginegenie.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316010443id_/https%3A//www.searchenginegenie.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchenginegenie.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123202620id_/https%3A//www.searchenginegenie.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy policy search engine optimization SEO marketing search engine genie
 
@@ -33,5 +33,19 @@ In order to maximize the protection of your information, **Search Engine Genie**
 5\. General 
 
 This Privacy Policy is incorporated into and subject to the terms of the **Search Engine Genie** Member Agreement.
+
+6\. Cookie Usage and EU cookie concent policy: 
+
+Search Engine Genie may sometimes use cookies to personalize your experience. Cookies are used to recognize you through your web browser. You have the right to accept or reject a cookie. This option is available in all browsers.  
+
+
+Search engine genie serves third party advertisements like Google adsense to serve ads. Google adsense uses cookies to serve best and relevant ads to you. Google uses DART cookie which will serve personalized ads. Google also serves ads based on your interests and searches online by using a cookie. 
+
+Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions should not cause a problem with our site. 
+
+European union cookie consent policy:  
+
+
+Search Engine Genie complies with EU cookie consent policy. 
 
 For more information on Search Engine Genie’s services, contact us at ****[webpromotions@gmail.com](mailto:webpromotions@gmail.com)****
