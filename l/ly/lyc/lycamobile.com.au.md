@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lycamobile.com.au privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223052809id_/http%3A//www.lycamobile.com.au/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lycamobile.com.au privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123130704id_/http%3A//www.lycamobile.com.au/en/privacy) for the most accurate reproduction.*
 
-# Lycamobile | Privacy Policy
+# Lycamobile Privacy Policy | Lycamobile Australia
 
 Lycamobile Privacy Policy
 
@@ -8,7 +8,7 @@ Lycamobile Privacy Policy
 
 At Lycamobile Pty Limited ("Lycamobile"), we look after your Personal Data carefully. We adhere strictly to the requirements of the Privacy Act including the National Privacy Principles (the "Act") and other data privacy and data retention regulations.
 
-This Privacy Policy (together with our general terms and conditions which may be found at [http://www.lycamobile.com.au](http://www.lycamobile.com.au/) describes how we generate, collect, use, process and store the Personal Data that you provide to us or that is generated or collected when you use our online services and when you use our mobile telephone services. Please take a moment to read our Privacy Policy so you know what choices you have about your Personal Data. This Privacy Policy may change occasionally so it's a good idea to come back and read through it again, from time to time.
+This Privacy Policy (together with our general terms and conditions which may be found at [http://www.lycamobile.com.au](http://www.lycamobile.com.au/en/) describes how we generate, collect, use, process and store the Personal Data that you provide to us or that is generated or collected when you use our online services and when you use our mobile telephone services. Please take a moment to read our Privacy Policy so you know what choices you have about your Personal Data. This Privacy Policy may change occasionally so it's a good idea to come back and read through it again, from time to time.
 
 For the purpose of the Act, the data controller is Lycamobile Pty Limited (Company Number 139 717 212) with its registered office located at Suite 305, Level 3, 66 Berry Street, North Sydney, NSW 2060.
 
@@ -20,7 +20,7 @@ Your name, address, date of birth, mobile telephone number, call data records in
 
 If you contact our Customer Services Department, we may keep a record of that correspondence, including copies of e-mails and your e-mail address. We may also monitor or record any telephone calls made to our Customer Services Department for quality assurance.
 
-Information that you provide by filling in forms on our website [www.lycamobile.com.au](http://www.lycamobile.com.au/). This includes information provided at the time of registering to use our website, subscribing to our products and services, posting material or requesting further products or services. We may also ask you for information when you report a problem with our website or our mobile telephone services and products.
+Information that you provide by filling in forms on our website [www.lycamobile.com.au](http://www.lycamobile.com.au/en/). This includes information provided at the time of registering to use our website, subscribing to our products and services, posting material or requesting further products or services. We may also ask you for information when you report a problem with our website or our mobile telephone services and products.
 
 Details of your visits to our website including, but not limited to, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
