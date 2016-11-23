@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the thefedoralounge.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620104908id_/http%3A//www.thefedoralounge.com/threads/rules-and-privacy-and-copyright-policies.83853/%23post-2005260) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefedoralounge.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123014854id_/http%3A//www.thefedoralounge.com/threads/rules-and-privacy-and-copyright-policies.83853/%23post-2005260) for the most accurate reproduction.*
 
 # Rules and Privacy and Copyright Policies | The Fedora Lounge
 
-  * Advertisements
-
+  * 
 
 
 Thread Status:
@@ -25,8 +24,7 @@ Thread Status:
 > 
 > We use VigLink to monetize links and clicks. More information on how this is done can be found at <http://www.viglink.com/legal/disclosures/for-users/>
 
-    * Advertisements
-  2. > **Privacy Policy**
+    *   2. > **Privacy Policy**
 > 
 > TheFedoraLounge.com (“ **TheFedoraLounge.com** ”, “ **our** ”, “ **us** ” or “ **we** ”) provides this Privacy Policy to inform you of the policies and procedures that govern the collection, use and disclosure of personal information from users of our website, accessible at [www.thefedoralounge.com](http://www.thefedoralounge.com/) (the “ **Site** ”). This Privacy Policy applies only to information that you provide to us through the Site. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our TheFedoraLounge.com Terms and Rules <http://www.thefedoralounge.com/forums/help/terms>.
 > 
@@ -128,5 +126,4 @@ Thread Status:
 Thread Status:
      __Not open for further replies.
 
-  * 
-
+[ ](http://www.thefedoralounge.com/)
