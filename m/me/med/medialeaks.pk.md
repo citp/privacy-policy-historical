@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medialeaks.pk privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324030854id_/http%3A//medialeaks.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medialeaks.pk privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123144235id_/http%3A//medialeaks.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Medialeaks - Pakistan Alternate Media News
 
