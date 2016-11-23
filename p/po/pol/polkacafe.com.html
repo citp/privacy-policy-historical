@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the polkacafe.com privacy policy that was archived on 2016-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160509200101id_/http%3A//www.polkacafe.com/company/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the polkacafe.com privacy policy that was archived on 2016-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161123183052id_/http%3A//www.polkacafe.com/company/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no,width=device-width">
 <meta property="fb:app_id" content="264390737098283">
+<meta name="google-site-verification" content="IL2nPawrLjZKSvK1Sx9gUTTs4bVJnbJya-hwQP-3jY8">
 <meta name="p:domain_verify" content="66b1904e69e348ba1d104a57a7f8ef1d">
 <title>Polka Cafe - Privacy Policy</title>
 <link rel="icon" href="http://www.polkacafe.com/webroot/images/favicon.ico">
@@ -26,56 +27,64 @@
 <script type="text/javascript" src="http://www.polkacafe.com/webroot/js/libs/backbone/backbone-min.js"></script>
 <script type="text/javascript" src="http://www.polkacafe.com/webroot/js/facebox.js?1.12"></script>
 <script type="text/javascript" src="http://www.polkacafe.com/webroot/js/libs/jquery.jscroll.min.js"></script>
-<script type="text/javascript" src="http://www.polkacafe.com/base/menu?5730ec4fa8e10"></script>
+<script type="text/javascript" src="http://www.polkacafe.com/base/menu?5835e00b58d6d"></script>
 <script type="text/javascript" src="http://www.polkacafe.com/webroot/js/libs/jquery.endless-scroll.js"></script>
  
 <script type="text/javascript" src="http://www.polkacafe.com/webroot/js/libs/legacy.min.js"></script>
 <script type="text/javascript" src="http://www.polkacafe.com/webroot/js/libs/jquery.Jcrop.js"></script>
 <script type="text/javascript" src="http://www.polkacafe.com/webroot/js/libs/jquery.cookie.js"></script>
 <script type="text/javascript" src="http://www.polkacafe.com/webroot/js/libs/jquery-ui.js"></script>
-<script type="text/template" id="promo_mobile_template">
-<div class="promotion">
-	<h1  >Polka Cafe works best if you switch to our {0}-friendly app</h1>
-	<div class="app"  >
-		<div class="logo"  ></div>
-		<div class="info" >
-			<h3 >Polka Cafe for {0}</h3>
-			<p  >900,000+ five-star reviews</p>
-		</div>
-	</div>
-</div>
+<script type="text/javascript">
+        var noPromo = [2765,2799,2823,2813,2919,2946,2985,2910,3022,2970,3033,3041,3076,3104,3131,3145,3150,3161,3135,3165,3177,3191,3195,3215,3223,3233];
+	// console.log(noPromo);
 </script>
-
-
 <script type="text/template" id="promo_mobile_template_fixed">
 <div class="fixedpromotion"  ><a class="close" >✕</a>
 	<div class="logo"  ></div>
 	<div class="payload-container"  >
 		<h3 >Polka Cafe for {0}</h3>
-		<p  >900,000+ five-star reviews</p>
+			<p>Get it now !</p>
 	</div>
 	<a class="link" href="{1}"  >FREE</a>
 </div>
 </script>
-
-
 <script type="text/template" id="promo_desktop_template">
-<div class="story-large pad10top">
+<a href="{1}" >
+<div class="story-large pad10top " >
+		<div class="heading headtwo">Polka Social - Be part of the most interesting conversations.</div>
 
 		<div class="articleimage">
 			<img src="{0}" class="picture">
 		</div>
-</div>
+		<div class="description pad10top pad10bottom"><p>Join the most interesting conversations on a host of topics raging across Women&#39s Issue, Beauty, Fashion, Moms, Working Women, Fitness. Nutrition etc.</p></div>
+</div> </a>
+</script>
+
+<script type="text/template" id="promo_mobile_template">
+<a href="{1}" >
+<div class="story-large pad10top " >
+		<div class="heading headtwo"> Polka Social - Be part of the most interesting conversations.</div>
+
+		<div class="articleimage">
+			<img src="{0}" class="picture">
+		</div>
+		<div class="description pad10top pad10bottom"><p> Join the most interesting conversations on a host of topics raging across Women&#39s Issue, Beauty, Fashion, Moms, Working Women, Fitness. Nutrition etc.<</p></div>
+</div></a>
 </script>
 
 <style>
+.boxshadow {  
+	box-shadow: 10px 10px 5px #888888;
+    	-moz-box-shadow: 10px 10px 5px #888888;
+    	-webkit-box-shadow: 10px 10px 5px #888888;
+}
 .promotion {
     padding: 16px;
     background-color: #fff;
     border-bottom:1px  dotted #BEB5B5;
    }
 .promotion h1 {
-    font-size: 20px;
+    font-size: 18px;
     line-height: 29px;
     font-weight: 700;
 }
@@ -178,7 +187,16 @@
 	text-decoration: none;
     margin-bottom: 8px;
 }
-
+.promotion_header 
+{
+	width: 300px;
+    	height: 55px;
+    	margin-top: 20px;
+    	float: right;
+   	 margin-right: 150px;
+    	background-image: url("/webroot/images/socialpromo/socialheader2.png");
+    	background-size: 300px 55px;
+}
 
 </style>
 <script>
@@ -191,68 +209,59 @@
 		});
 	};
 	
-	$.fn.promoteDesktop = function() {
+	$.fn.promoteMobile= function() {
+	
+	var articlePage = $("#articlepage");
+	if(articlePage.length > 0 && typeof articlePage.data('id') != 'undefined' && ( $.inArray(articlePage.data('id'),noPromo) > -1 ) ) return;
+	
+        
 
-        var isAndroid = /android|opera-mini/i.test(navigator.userAgent);
+	var isAndroid = /android|opera-mini/i.test(navigator.userAgent);
         var isIphone = /iphone|ipad/i.test(navigator.userAgent);
 
-        if( !isAndroid && !isIphone ) {
+        if( isAndroid || isIphone )
+        {
+            
+                var url ="/c/F/Polka-Social-mBHcb69J3W"; //isAndroid ? "https://play.google.com/store/apps/details?id=com.group.polka": "https://itunes.apple.com/app/polka-cafe/id1097309490";
 
-                        var t = ((new Date() ).getTime() ) % 6;
-                        var img = "/webroot/images/promo/promo-"+t;
-                        var template = $("#promo_desktop_template").html();
-                        var content = template.formatTemplate(img);
-                        this.find(".story-large").eq("3").after(content);
+       		var img = "/webroot/images/socialpromo/articlelogo_1.png";
+          	var template = $("#promo_mobile_template").html();
+          	var content = template.formatTemplate(img,url);
+         	this.find(".story-large").eq("1").after(content);
 
-        }
+       }else{
+		var url ="/c/F/Polka-Social-mBHcb69J3W"; //"/social";
+		var img = "/webroot/images/socialpromo/articlelogo_1.png"
+          	var template = $("#promo_desktop_template").html();
+          	var content = template.formatTemplate(img,url);
+         	this.find(".story-large").eq("1").after(content);
+	
+
+	}
 
         return this;
 
     };
 
 
- $.fn.promoteMobile = function() {
+ $.fn.promoteFixed = function() {
 
-        var isAndroid = /android|opera-mini/i.test(navigator.userAgent);
-        var isIphone = /iphone|ipad/i.test(navigator.userAgent);
-
-        if( isAndroid || isIphone )
-        {
-                        var label = isAndroid ? "Android" :"Iphone";
-                        var url = "http://google.com";
-                        var hasFixedPromo = $.cookie('promo_mobile_fixed');
-                        var hasPromo = $.cookie('promo_mobile');
-                        if(typeof hasPromo == 'undefined'){
-
-                                var date = new Date();
-                                var minutes = 10;
-                                date.setTime(date.getTime() + (minutes * 60 * 1000));
-                                $.cookie("promo_mobile", "true", { expires: date });
-                                var template = $("#promo_mobile_template").html();
-                                var content = template.formatTemplate(label);
-                                //if(location.pathname == "/" || location.pathname == "")
-                                //this.find(".header").after(content);
-                                this.find(".story-large").after(content);
-
-                        }
-
-
+	var articlePage = $("#articlepage");
+ 	if(articlePage.length > 0 && typeof articlePage.data('id') != 'undefined' && ( $.inArray(articlePage.data('id'),noPromo) > -1 )) {
+		
+		//console.log(articlePage.data('id'));
+		return;
         }
 
-        return this;
-
- };
-
- $.fn.promoteMobileFixed = function() {
-
-        var isAndroid = /android|opera-mini/i.test(navigator.userAgent);
+	var isAndroid = /android|opera-mini/i.test(navigator.userAgent);
         var isIphone = /iphone|ipad/i.test(navigator.userAgent);
 
         if( isAndroid || isIphone )
         {
                         var label = isAndroid ? "Android" :"Iphone";
-                        var url = "http://google.com";
-                        var hasFixedPromo = $.cookie('promo_mobile_fixed');
+                         var url = "/c/F/Polka-Social-mBHcb69J3W";//"http://google.com";
+                        // var url = isAndroid ? "https://play.google.com/store/apps/details?id=com.group.polka": "https://itunes.apple.com/app/polka-cafe/id1097309490";
+			var hasFixedPromo = $.cookie('promo_mobile_fixed');
                         var hasPromo = $.cookie('promo_mobile');
                         if(typeof hasFixedPromo == 'undefined')
                         {
@@ -265,7 +274,7 @@
                                         {
                                                 evt.stopPropagation();
                                                 var date = new Date();
-                                                var minutes = 10;
+                                                var minutes = 1440;
                                                 date.setTime(date.getTime() + (minutes * 60 * 1000));
                                                 $.cookie("promo_mobile_fixed", "true", { expires: date });
                                                 this.find(".fixedpromotion").remove();
@@ -277,6 +286,10 @@
                         }
 
         }
+	else
+	{
+		$(".desktopheader").append($("<a href='/c/F/Polka-Social-mBHcb69J3W' class='promotion_header' >&nbsp;</a>"));
+	}
 
         return this;
 
@@ -287,7 +300,7 @@
 $(document).ready(
 	function(){
 
-	//	$("body").promoteMobileFixed();
+		$("body").promoteFixed();
 	}
 );
 
@@ -543,6 +556,7 @@ var channel	=	false
 												<li><a href="http://www.polkacafe.com/channels/3/13/food/bars-restaurants.html">Bars &amp; Restaurants</a></li>
 												<li><a href="http://www.polkacafe.com/channels/3/46/food/baking.html">Baking</a></li>
 												<li><a href="http://www.polkacafe.com/channels/3/47/food/food-bulletin.html">Food Bulletin</a></li>
+												<li><a href="http://www.polkacafe.com/channels/3/48/food/chef-talk.html">Chef Talk</a></li>
 											</ul>
 									</li>
 								<li>
