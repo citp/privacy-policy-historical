@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tddirectinvesting.co.uk privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607163332id_/http%3A//www.tddirectinvesting.co.uk/special-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tddirectinvesting.co.uk privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123060530id_/http%3A//www.tddirectinvesting.co.uk/special-pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TD Direct Investing
 
-TD Direct Investing (Europe) Limited and TD Bank N.V. are committed to providing you with the highest quality service. This includes maintaining your privacy and protecting your personal data. In addition to the Customer Terms of Service the following policy explains what we and our associated companies in the TD Bank Group do with the personal data we collect about you. We will tell you which companies are in the TD Bank Group upon request. Our contact details are at the end of this privacy policy. To get the best from our services, please keep your personal data (including your email address) accurate and up to date. You can do this by choosing; Account Administration, Personal Details after logging into our secure website or by contacting us at the address or telephone number given at the end of this policy.
+We are committed to providing you with the highest quality service. This includes maintaining your privacy and protecting your personal data. In addition to the Customer Terms of Service the following policy explains what we and our associated companies in the TD Bank Group do with the personal data we collect about you. We will tell you which companies are in the TD Bank Group upon request. Our contact details are at the end of this privacy policy. To get the best from our services, please keep your personal data (including your email address) accurate and up to date. You can do this by choosing; Account Administration, Personal Details after logging into our secure website or by contacting us at the address or telephone number given at the end of this policy.
 
 Please take the time to read this privacy policy carefully. In opening an account with us you consent to our use of your personal data in accordance with the Customer Terms of Service and the TD Privacy Policy. We hope that by implementing and operating this policy, we will make your online experience a more secure and enjoyable one.
 
@@ -98,6 +98,14 @@ Exchange Court
 Duncombe Street  
 Leeds  
 LS1 4AX
+
+Or, if your query is about your TD Bank N.V. Savings account you may write to:
+
+Compliance Officer   
+TD Bank N.V.  
+Strawinskylaan 1103,  
+1077 XX Amsterdam,  
+Netherlands
 
 If you have any queries about this privacy policy, any of the Customer Terms of Service or the website in general, do not hesitate to contact us:
 
