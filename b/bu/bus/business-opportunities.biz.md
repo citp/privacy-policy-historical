@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the business-opportunities.biz privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628012811id_/http%3A//www.business-opportunities.biz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business-opportunities.biz privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123161713id_/http%3A//www.business-opportunities.biz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Business Opportunities
 
 ## Privacy Policy
 
-Effective on June 20th 2015
+Effective on June 15, 2016
 
-This privacy policy describes how Business-Opportunities.biz owned and operated by Trend Partners LLC collects and uses the personal information you provide on our Web site: Business-Opportunities.biz. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy describes how Business-Opportunities.biz owned and operated by Dig Deep Investments, LLC collects and uses the personal information you provide on our Web site: Business-Opportunities.biz. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 Business-Opportunities.biz has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through these websites Business-Opportunities.biz. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@ Business-Opportunities.biz.
 
@@ -98,7 +98,7 @@ Our Web site offers publicly accessible blogs or community forums. You should be
 
 We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at info@Business-Opportunities.biz.
 
- **Data Retention:** We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at info@Business-Opportunities.biz. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+**Data Retention:** We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at info@Business-Opportunities.biz. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ### Updating Your Personal Information
 
@@ -109,7 +109,7 @@ Please note that users can not update or delete previously submitted information
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 **Business-Opportunities.biz**  
-582 Donofrio Drive Suite 212  
-Madison, WI 53575  
-Email: info@Business-Opportunities.biz  
-Phone: (608)492-1835
+1627 W. Main #298  
+Bozeman, MT 59715  
+Email: laurie@BusinessOpportunities.biz  
+Phone: (406)581-2015
