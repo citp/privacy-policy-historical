@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nafsa.org privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513215846id_/http%3A//www.nafsa.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nafsa.org privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123225019id_/http%3A//www.nafsa.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | NAFSA
 
