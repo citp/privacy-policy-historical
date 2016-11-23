@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inchcalculator.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510175744id_/http%3A//www.inchcalculator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inchcalculator.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123172846id_/http%3A//www.inchcalculator.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Inch Calculator
 
@@ -10,7 +10,7 @@ Like many other Web sites, inchcalculator.com makes use of log files. These file
 
 ## Cookies and Web Beacons
 
-inchcalculator.com does not use cookies. 
+Technologies such as: cookies, beacons, tags and scripts are used by Inchcalculator and our partners (such as advertising, marketing and analytics), affiliates or analytics or service providers. These technologies may be used in analyzing trends, administering the Sites, tracking users’ movements around the Sites and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by such companies on an individual as well as aggregated basis. Our partners may also use such technologies to deliver advertisements to you as described below. While we respect the privacy of our users, we are not able to respond to Do Not Track signals set by your browser at this time. 
 
 ## DoubleClick DART Cookie
 
@@ -40,7 +40,7 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 ## Children’s Information
 
-We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. inchcalculator.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that inchcalculator.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records. 
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. inchcalculator.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that inchcalculator.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the final paragraph) and we will use our best efforts to promptly remove such information from our records. 
 
 ## Online Privacy Policy Only
 
@@ -52,5 +52,9 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 
 ## Update
 
-This Privacy Policy was last updated on: Sunday, December 6th, 2015.  
-Should we update, amend or make any changes to our privacy policy, those changes will be posted here.
+This Privacy Policy was last updated on: Sunday, November 20th, 2016.  
+Should we update, amend or make any changes to our privacy policy, those changes will be posted here. 
+
+## Contact
+
+Contact us via email at joe@josephmsexton.com.
