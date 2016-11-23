@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swedish.org privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315142343id_/http%3A//www.swedish.org/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swedish.org privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123010952id_/http%3A//www.swedish.org/policy) for the most accurate reproduction.*
 
 # Swedish Web Privacy Policy | Swedish Medical Center Seattle and Issaquah
 
@@ -45,4 +45,4 @@ This site contains links to other Web sites. Please be aware that this Privacy P
 
 ### Adherence to Principles
 
-If at any time you believe this site has not adhered to these principles, please notify us by email to tracy.tardiff@swedish.org and we will use all commercially reasonable efforts to promptly determine and correct the problem.
+If at any time you believe this site has not adhered to these principles, please notify us [by email](mailto:tracy.tardiff@swedish.org) and we will use all commercially reasonable efforts to promptly determine and correct the problem.
