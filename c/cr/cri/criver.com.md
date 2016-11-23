@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the criver.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612141245id_/http%3A//www.criver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the criver.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123103139id_/http%3A//www.criver.com/privacy-policy) for the most accurate reproduction.*
 
 # Charles River Website Privacy Policy
 
@@ -72,7 +72,7 @@ If one of our websites has particular provisions relating to privacy that differ
 
 ##  Notification of Policy Change
 
-This policy may be amended from time to time. If we decide to change our Website Privacy Policy, we will post those changes to this policy on our website so visitors to our websites are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information is collected. Any such changes will comply with the EU Safe Harbor Program.
+This policy may be amended from time to time. If we decide to change our Website Privacy Policy, we will post those changes to this policy on our website so visitors to our websites are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information is collected.
 
 ##  WEBSITE TERMS AND CONDITIONS
 
