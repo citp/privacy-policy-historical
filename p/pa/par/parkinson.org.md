@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkinson.org privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508010407id_/http%3A//www.parkinson.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkinson.org privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123203614id_/http%3A//www.parkinson.org/privacy) for the most accurate reproduction.*
 
 # Privacy & Terms of Use | National Parkinson Foundation
 
@@ -12,7 +12,7 @@ NPF does not require that you provide personally identifiable information in ord
 
 In contrast to the information that we collect in order deliver services, we also offer forums where site visitors can exchange ideas and discuss issues with healthcare providers and allied professionals.  If you provide personally identifiable information in one of our online forums, you do so **at your own risk**.  NPF cannot be held responsible for personal information posted in the online forums.  There is a disclaimer on the forum page that also warns of this risk.
 
-Personally identifiable information will never be sold, rented or exchanged outside of NPF and its vendors bound by non-disclosure agreements unless the user is first notified and expressly consents to such transfer.
+Personally identifiable information will never be sold, rented or exchanged outside of NPF, its successors or assigns, and its vendors bound by non-disclosure agreements unless the user is first notified and expressly consents to such transfer.
 
 ### Use of Cookies
 
