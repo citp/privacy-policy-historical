@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the bdtips.com privacy policy that was archived on 2016-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160208041935id_/http%3A//www.bdtips.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdtips.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123212132id_/http%3A//www.bdtips.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # PRIVACY NOTICE | BdTips
 
+  
 This privacy notice discloses the privacy practices for [www.bdtips.com](http://www.bdtips.com/). This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
 1\. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.  
