@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webtechelp.net privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606154359id_/http%3A//www.webtechelp.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtechelp.net privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123233503id_/http%3A//www.webtechelp.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WebTecHelp - Design Blog for Developers, Designers and Bloggers.
 
