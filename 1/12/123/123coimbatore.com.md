@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123coimbatore.com privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423194001id_/http%3A//www.123coimbatore.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123coimbatore.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123224118id_/http%3A//www.123coimbatore.com/privacy-policy.php) for the most accurate reproduction.*
 
 # 123coimbatore contact details,address,phone number,map,mail id,covai,kovai,city
 
