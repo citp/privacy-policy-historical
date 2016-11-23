@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the byrdie.co.uk privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528162602id_/http%3A//www.byrdie.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byrdie.co.uk privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123171123id_/http%3A//www.byrdie.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Byrdie UK
 
