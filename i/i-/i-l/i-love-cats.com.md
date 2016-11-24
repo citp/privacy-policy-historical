@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-love-cats.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624155943id_/http%3A//www.i-love-cats.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-love-cats.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124161622id_/http%3A//www.i-love-cats.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - I Love Cats! Cute Cat & Kitten Pictures
 
