@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unwomen.org privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401051553id_/http%3A//www.unwomen.org/en/about-the-website/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unwomen.org privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124132852id_/http%3A//www.unwomen.org/en/about-the-website/privacy-notice) for the most accurate reproduction.*
 
 # About the website: Privacy notice | UN Women – Headquarters
 
