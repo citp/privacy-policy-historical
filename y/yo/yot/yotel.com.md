@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yotel.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602050909id_/http%3A//www.yotel.com/en/information/privacy-policy-data) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yotel.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124081345id_/http%3A//www.yotel.com/en/information/privacy-policy-data) for the most accurate reproduction.*
 
-# Affordable Luxury Hotels | YOTEL - YOTEL
+# Affordable Luxury Hotels | YOTEL
 
 This website is owned and run by Yotel Limited (trading as) YOTEL. YOTEL is committed to protecting your privacy in accordance with its obligations under the Data Protection Act 1998. This privacy policy explains what information we collect about you and how it will be used. When you access and use this website you agree to be legally bound by our terms and conditions as well as our privacy policy outlined below. We respect your privacy and will continue to do so in the online world.
 
@@ -33,6 +33,8 @@ We will use the information you enter at the website for administration purposes
 The data you give us about yourself will enable us to give you updates other than through our website, using the contact details you provide, on promotions and services we think may interest you or to involve you in market research. To improve our picture of your interests we may link the data you give us with any data we have gathered (via cookies) about your use of the website. If you start a booking and volunteer your email address but then fail to complete the booking, then we may use this to send you emails to help you complete your booking at a later time.
 
 Whenever we ask you for information about yourself you may, by ticking the relevant box, opt out of receiving these marketing communications. In addition, whenever you are contacted by email you will be told how to opt out of being updated by email in the future. If you choose to opt out of being updated as described above we will cease all such future disclosure of data.
+
+We do not give or sell guest data to third parties for marketing purposes. This includes emails and telephones numbers collected via our website, our app and our kiosks.
 
 ##### 5\. Links to other websites
 
