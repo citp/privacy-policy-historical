@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bnpparibasopen.org privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207114811id_/http%3A//www.bnpparibasopen.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bnpparibasopen.org privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124233021id_/http%3A//www.bnpparibasopen.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BNP Paribas Open
 
@@ -18,7 +18,7 @@ We are committed to protecting the information we collect so this Website users 
 
 **Right to Opt In and Opt Out**
 
-You may have the right to “opt in” and “opt out” of certain of our uses of your Personal Information. For example, at the time you are requested to provide Personal Information on this Website, you may have the opportunity to elect to, or not to receive correspondence from us. You may opt out of any communication with us by clicking the opt-out link in our communications, or by sending an email to webmaster@bnpparibasopen.com stating that you would like to be removed from a specific list, or all communications. However, please understand that you may still be contacted by us in connection with your client relationship or as follow up from an event, activity, or purchase.
+You may have the right to “opt in” and “opt out” of certain of our uses of your Personal Information. For example, at the time you are requested to provide Personal Information on this Website, you may have the opportunity to elect to, or not to receive correspondence from us. You may opt out of any communication with us by clicking the opt-out link in our communications, or by sending an email to website@iwtg.net stating that you would like to be removed from a specific list, or all communications. However, please understand that you may still be contacted by us in connection with your client relationship or as follow up from an event, activity, or purchase.
 
 **The Following Information is Collected by Us**
 
@@ -91,9 +91,9 @@ If you have any questions or comments regarding our privacy policies and practic
 Desert Champions LLC  
 78-200 Miles Avenue  
 Indian Wells, CA 92210  
-Attention:  Webmaster  
-(760) 200-8400
+Attention: Webmaster  
+Facsimile: (760) 200-8441
 
-_Last updated: 15 September 2015_
+_Last updated: 19 April 2016_
 
-© 2015 Desert Champions LLC. All rights reserved.
+© 2016 Desert Champions LLC. All rights reserved.
