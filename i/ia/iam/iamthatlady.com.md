@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iamthatlady.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314143629id_/http%3A//www.iamthatlady.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamthatlady.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124074820id_/http%3A//www.laurengreutman.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - I am THAT Lady
+# Privacy Policy - Lauren Greutman
 
 Privacy Policy for iamthatlady.com
 
