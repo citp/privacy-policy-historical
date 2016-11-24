@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parentingnation.in privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502050125id_/http%3A//www.parentingnation.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentingnation.in privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124024949id_/http%3A//www.parentingnation.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policies of Parenting Portal Parenting Nation India - Parenting Nation India
 
@@ -14,9 +14,25 @@ Once users utilize this site, user accept all terms of our privacy policy. The i
 
 Our site is developed and is intended to create baby photo contest just for fun. Any personal information provided by age group under 13 can be used unknowingly. we want our members, users and visitors to provide any information or data regarding kids or children after the consent of their parents. We ask parents to talk to their kids about the use of any personal information on internet.
 
+**Your Content in our Services  **
+
+For content that is covered by intellectual property rights, like photos and videos (IP content), you specifically give us the following permission, subject to your privacy and application settings: you grant us a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any IP content that you post on or in connection with our products (IP License). This IP License ends when you delete your IP content or your account unless your content has been shared with others, and they have not deleted it.
+
+When you delete IP content, it is deleted in a manner similar to emptying the recycle bin on a computer. However, you understand that removed content may persist in backup copies for a reasonable period of time (but will not be available to others). 
+
+When you use an application, your content and information is shared with the application. We require applications to respect your privacy, and your agreement with that application will control how the application can use, store, and transfer that content and information.
+
+When you publish content or information using the Public setting, it means that you are allowing everyone, including people outside of our services, to access and use that information, and to associate it with you (i.e. your name and profile picture).
+
+We always appreciate your feedback or other suggestions about our Services, but you understand that we may use them without any obligation to compensate you for them (just as you have no obligation to offer them).
+
+We are not liable for loss of any data caused by unforeseen circumstances.
+
+Should you wish to move your data from our site, we are not liable to provide this data to you in any format.
+
 **This site is for India so gift can be sent to addresses of India only.**
 
-**Use of Parentination Articles & Information **
+**Use of Parentination Articles & Information **
 
 Different kind of Content, Advices, Articles, Comments, text, Post, Photographs and other data is available on the Parenting nation. This all content is provided by Writers hired by parentination and people who is visiting our site. Parenting nation is not responsible for any inaccurate or unauthenticated content. Any advice or opinion made by any kind of user on the website is not endorsed by parenting nation and we don’t take any responsibility for the same. This all Content is provided in consideration that neither parentingnation nor it suppliers are part of any Medical, Legal or any kind of Counseling. And all content is to be used as just general informative content and not to be used for any Medical or Health Related problems. We would suggest for any Medical or Health Related problems please consult your physician or qualified doctor.
 
