@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cqc.org.uk privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629164350id_/http%3A//www.cqc.org.uk/content/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cqc.org.uk privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124024435id_/http%3A//www.cqc.org.uk/content/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | Care Quality Commission
 
@@ -18,11 +18,11 @@ CQC will only collect personal information volunteered by you, such as:
 
 
 
-All personal information about you will be used to exercise our functions, and to improve the quality and safety of care. 
+All personal information about you will be used to exercise our functions, and to improve the quality and safety of care.
 
-We will never include your personal information in survey reports.
+We will never include your personal information in survey reports.
 
-This privacy statement covers the CQC site. This does not cover links within this site to other websites. 
+This privacy statement covers the CQC site. This does not cover links within this site to other websites.
 
 ## Online services – 'Your CQC account'
 
@@ -55,9 +55,11 @@ If we can, we will contact you first to tell you how we plan to share your infor
 
 Our code of practice details how we obtain, handle and use your personal information.
 
-[Code of practice PDF | 468.69 KB](https://www.cqc.org.uk/sites/default/files/documents/20121105_code_of_practice_on_cpi.pdf)
+[Code of practice on confidential personal information (2016) PDF | 709.96 KB](http://www.cqc.org.uk/sites/default/files/20160906%20Code%20of%20practice%20on%20CPI%202016%20FINAL.pdf)
 
-[Code of practice (Easy to read) PDF | 1.33 MB](https://www.cqc.org.uk/sites/default/files/documents/isl337_10_easyread_cqc_codes_of_practice_draft2_12jan11.pdf)
+[Guide: Protecting your privacy when using your information PDF | 146.2 KB](http://www.cqc.org.uk/sites/default/files/20151029_CPI_leaflet.pdf)
+
+[Guide: Protecting your privacy when using your information (Easy read) PDF | 2.51 MB](http://www.cqc.org.uk/sites/default/files/20161102_Visiting-someone-in-a-care-home_easy_to_read_v1.pdf)
 
 ## Looking at care records
 
@@ -67,19 +69,19 @@ If you don’t want us to look at your records, please tell the manager of the o
 
 This guidance explains what our powers to look at records are, and how we use them.
 
-[Guidance on accessing medical and care records using powers under the Health and Social Care Act 2008 PDF | 104.81 KB](https://www.cqc.org.uk/sites/default/files/accessing_medical_and_care_records_900092.pdf)
+[Guidance on accessing medical and care records using powers under the Health and Social Care Act 2008 PDF | 289.05 KB](http://www.cqc.org.uk/sites/default/files/Accessing%20medical%20and%20care%20records%20900092.pdf)
 
 ## Personal information
 
 We do not hold personal information about the majority of people who use care services, but we sometimes take copies of some information, and in rare cases, we may need to share that information with other public bodies.
 
-If you think that we may hold your personal information and you want to make a request to see it, please visit [Freedom of information](https://www.cqc.org.uk/content/freedom-information) for more details. We may ask you for proof of identity and to pay a small fee before responding to your request.
+If you think that we may hold your personal information and you want to make a request to see it, please visit [Freedom of information](http://www.cqc.org.uk/content/freedom-information) for more details. We may ask you for proof of identity and to pay a small fee before responding to your request.
 
 ## Data and statistics
 
 CQC may receive data about an organisation's quality of care from the Health and Social Care Information Centre (HSCIC), the trusted national provider of high-quality information, data and IT systems for health and social care.
 
-We use two particular sources, Hospital Episode Statistics (HES) and Mental Health and Learning Difficulties Data-Set (MHLDDS) that contain information about care in hospitals and mental health units. You can find more information about these sources on the HSCIC website, [www.hscic.gov.uk](http://www.hscic.gov.uk/).
+We use two particular sources, [Hospital Episode Statistics (HES)](http://www.hscic.gov.uk/hes) and [Mental Health and Learning Difficulties Data-Set (MHLDDS)](http://www.hscic.gov.uk/mhsds) that contain information about care in hospitals and mental health units. You can find more specific information about what we hold and how we use these sources on the [HSCIC registers of approved data releases](http://www.hscic.gov.uk/dataregister).
 
 We need this information to help meet our purpose of ensuring safe, effective and compassionate, high-quality care. For example, we may compare death rates at different hospitals, look for unusually high rates of infection in women who have recently given birth, and check for appropriate use of the Mental Health Act (the law that can detain someone for treatment).
 
