@@ -1,15 +1,11 @@
-<!--The following is the downloaded HTML source of the myanmaryp.com privacy policy that was archived on 2016-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608014427id_/http%3A//www.myanmaryp.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myanmaryp.com privacy policy that was archived on 2016-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161124232918id_/http%3A//www.myanmaryp.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head><meta charset="utf-8"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Language" content="en">
 <meta name="viewport" content="initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=0, width=device-width"><title>Privacy policy</title>
-<meta name="keywords" content="companies in Myanmar, Business in Myanmar, Myanmar business, Myanmar companies">
-<meta name="description" content="Privacy policy. Search for Myanmar Companies in Myanmar Business Directory. Add your free Business Listing on Myanmar Business Directory.">
-<meta name="copyright" content="MyanmarYP.com">
-<meta name="ROBOTS" content="index,follow">
-<meta name="GOOGLEBOT" content="index,follow"><link rel="stylesheet" type="text/css" href="/css/site/main.min.css?v=35">
-<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.6&amp;appId=207398209303117"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script><link href="/mmfavicon.ico" type="image/x-icon" rel="icon"><link href="/mmfavicon.ico" type="image/x-icon" rel="shortcut icon">
+<meta name="keywords" content="companies in Myanmar, Business in Myanmar, Myanmar business, Myanmar companies"><meta name="description" content="Privacy policy. Search for Myanmar Companies in Myanmar Business Directory. Add your free Business Listing on Myanmar Business Directory."><link rel="stylesheet" type="text/css" href="/css/site/main.min.css?v=51">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet" type="text/css"><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script><link href="/mmfavicon.ico" type="image/x-icon" rel="icon"><link href="/mmfavicon.ico" type="image/x-icon" rel="shortcut icon">
 <meta name="DC.title" content="Business Myanmar">
 <meta name="geo.region" content="MM">
 <meta name="geo.position" content="21.913965, 95.956223">
@@ -20,6 +16,7 @@
 <script src="/js/html5.js"></script>
 <![endif]-->
 
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -35,6 +32,7 @@
 
 
 
+
 <script>
 url_ln = "http://www.myanmaryp.com/";
 	
@@ -43,16 +41,10 @@ $(document).ready(function() {
 	$("#CompanySearchQuery").autocomplete(url_ln+'autocomplete/query', {       delay: 300, minChars: 3, max: 40, sortResults: false, selectFirst : false, autoFill: false});     
 	$("#CompanySearchLocation").autocomplete(url_ln+'autocomplete/location', { delay: 300, minChars: 3, max: 40, sortResults: false, selectFirst : false, autoFill: false});     
 
-	$('.search_box input').on('focus', function() {
-		resetCollapse();
-		$('#search_drop').hide();
+	$('.search_box input').on('focus blur', function() {
+		closeSearchDrop();
 	});
 	
-	$('.search_box input').on('blur', function() {
-		resetCollapse();
-		$('#search_drop').hide();
-	});
-
 	$(".target").attr('target', '_blank');   
 	
 	$('.search_box input').focus(function() {
@@ -66,32 +58,47 @@ $(document).ready(function() {
 	    input.val(input.attr('rel'));
 	  }
 	}).blur();
-	
 }); 
 
 function showBrowse(t) {
-	
 	if($('#search_drop_content').attr('rel') == t) {
 		$('#search_drop').hide().html('');
-		resetCollapse();
+		closeSearchDrop();
 		
 		return false;
 	}
-	
+
+	if( $('#search-screen-block').length ) {
+		$('#search-screen-block').show();
+	}
+	else {  
+		$('#top').after(function() {
+			return $('<div class="screen-block-below" id="search-screen-block" style="display: block;"></div>').click(function(e) {
+				closeSearchDrop();
+			});
+		});
+	}
+
 	$('#search_drop').load('/ajax/browse/'+t, function() {
 		$('#search_drop').show();
-
 		resetCollapse();
-	
-		$('#'+t+'_browse').css({'background-position': '-597px -215px'});
+		$('#'+t+'_browse').html('<i class="fa fa-angle-double-up" aria-hidden="true"></i>');
+		//$('html, body').css({'overflow': 'hidden', 'height': '100%'});		
 	});
 }
 
 function resetCollapse() {
-	$('#what_browse').css({'background-position': '-396px -215px'});
-	$('#where_browse').css({'background-position': '-396px -215px'});
+	$('#what_browse').html('<i class="fa fa-angle-double-down" aria-hidden="true"></i>');
+	$('#where_browse').html('<i class="fa fa-angle-double-down" aria-hidden="true"></i>');
 }
 
+function closeSearchDrop() {
+	$('#search-screen-block').hide();
+	$('#search_drop').hide().html('');
+	resetCollapse();
+
+	$('html, body').css({'overflow': 'auto', 'height': 'auto'});		
+}
 
 function saveClick(el_id) {
 	$.post(url_ln+'/ajax/save_click/'+el_id);
@@ -116,84 +123,64 @@ function showLogin(extra_url) {
 }
 </script>
 
-
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-3351151485848212",
-    enable_page_level_ads: true
-  });
-</script>
+<script>(adsbygoogle = window.adsbygoogle || []).push({google_ad_client: "ca-pub-3351151485848212",enable_page_level_ads: true});</script>
+
 </head>
 <body>
 
 
 <header>
 	<nav>
-		<a href="http://www.myanmaryp.com" title="Myanmar Business Directory - MyanmarYP.com" class="logo_link logo_mm" style="background-image: url(/img/site/logos/logo_mm.png);">Myanmar Business Directory - MyanmarYP.com</a>			
+		<a href="http://www.myanmaryp.com" title="Myanmar Business Directory - MyanmarYP.com" class="logo_link" style="background-image: url(/img/site/logos/logo_mm.png);">Myanmar Business Directory - MyanmarYP.com</a>			
 		<div class="search_box">
 	<form id="search_form" method="post" action="/myanmar-business-search"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST"></fieldset>	
-	<fieldset>
-		<div class="input text"><input name="data[CompanySearch][query]" type="text" rel="Search for Companies or Services" autocapitalize="off" autocorrect="off" autocomplete="off" maxlength="40" class="highlight" value="" id="CompanySearchQuery"><a href="#" id="what_browse" onclick="showBrowse('what'); return false;"></a></div>		
+		<div class="input text"><input name="data[CompanySearch][query]" type="text" rel="Search for Companies or Services" autocorrect="off" autocomplete="off" maxlength="40" class="highlight" value="" id="CompanySearchQuery"><a href="#" id="what_browse" onclick="showBrowse('what'); return false;"><i class="fa fa-angle-double-down" aria-hidden="true"></i></a></div>		
 				
-		<div class="input text"><input name="data[CompanySearch][location]" type="text" rel="Location" maxlength="40" value="" id="CompanySearchLocation"><a href="#" id="where_browse" onclick="showBrowse('where'); return false;"></a></div>		
-		<div class="submit">
-			<a href="#" onclick="$('#search_form').submit(); $('#loading').fadeIn(); return false;" class="search_submit">Search</a>					</div>
-
-		<a href="/browse-business-directory" class="browse_submit"> </a>
+		<div class="input text"><input name="data[CompanySearch][location]" type="text" rel="Location" maxlength="40" value="" id="CompanySearchLocation"><a href="#" id="where_browse" onclick="showBrowse('where'); return false;"><i class="fa fa-angle-double-down" aria-hidden="true"></i></a></div>		
+		<a href="#" onclick="$('#search_form').submit(); $('#loading').fadeIn(); return false;" class="search_submit"><i class="fa fa-search" aria-hidden="true"></i></a>
+		<a href="/browse-business-directory" class="browse_submit"><i class="fa fa-ellipsis-h" aria-hidden="true"></i></a>
 	    <input type="submit" class="hidden" value="Search">
-	</fieldset>
 	</form>	 
 	
-	<a href="/browse-business-directory" class="fleft m_link">Browse categories</a>	<a href="/browse-business-cities" class="fright m_link">Browse locations</a>
-		
-	<div class="clear"></div>
-</div>
-<a href="#" id="m_search_link"></a>
-<a href="#" id="search_close" class="skinny_close"></a>
+	<a href="/browse-business-directory" class="fleft m_link">Browse categories</a>	<a href="/browse-business-cities" class="fright m_link">Browse locations</a></div>
+<a href="#" id="m_search_link" class="m_header_link"><i class="fa fa-search" aria-hidden="true"></i></a>
+<a href="#" id="search_close" class="skinny_close"><i class="fa fa-window-close" aria-hidden="true"></i></a>
+<div id="search_drop"></div>
 
 <script>
 $(function() {
 	$('#m_search_link').click(function(e) {
-		$('.screen-paint').show();
-		$('.search_box').show();
-		$('#search_close').fadeIn('slow');
+		$('.screen-paint, .search_box, #search_close').show();
+		$('html, body').css({'overflow': 'hidden', 'height': '100%'});	
 		e.preventDefault();
 	});
 
 	$('#search_close').click(function(e) {
-		$('.screen-paint').hide();
-		$('.search_box').hide();
-		$('#search_close').hide();
+		$('.screen-paint, .search_box, #search_close').hide();
+		$('html, body').css({'overflow': 'auto', 'height': 'auto'});		
 		e.preventDefault();
 	});
 });	
 </script>	
 		<div class="userbox userbox_en">
-		  	<a href="/sign-in">Sign in</a>	  	<a href="/create-business-listing" title="Add business" class="add_business">Add business</a>	
-				
-</div>
+		  	<a href="/sign-in" class="user_top_links">Sign in</a>	  	<a href="/create-business-listing" title="Add Business" class="add_business rounded_2px user_top_links">Add Business</a>	
+			</div>
 
 <div class="hidden_menu hidden">
-		  	<a href="/sign-in" title="Sign in" class="user_signin">Sign in</a>	  	<a href="/create-business-listing" title="Add business" class="add_business">Add business</a>		
+		  	<a href="/sign-in" title="Sign in" class="user_signin">Sign in</a>	  	<a href="/create-business-listing" title="Add Business" class="add_business">Add Business</a>		
 	<a href="/browse-business-directory">Browse categories</a>	<a href="/browse-business-cities">Browse locations</a>	</div>
 
-<a href="#" title="Menu" class="m_menu_link"></a><a href="#" id="userbox_close" class="skinny_close"></a>
+<a href="#" class="m_menu_link m_header_link"><i class="fa fa-bars" aria-hidden="true"></i></a><a href="#" id="userbox_close" class="skinny_close"><i class="fa fa-window-close" aria-hidden="true"></i></a>
 <script>
 	$('.m_menu_link').click(function(e) {
-		$('.screen-paint').show();
-		$('.hidden_menu').show();
-		$('#userbox_close').fadeIn('slow');
+		$('.screen-paint, .hidden_menu, #userbox_close').show();
 		$('html, body').css({'overflow': 'hidden', 'height': '100%'});		
-		
 		e.preventDefault();
 	});
 
 	$('#userbox_close').click(function(e) {
-		$('.screen-paint').hide();
-		$('.userbox').hide();
-		$('.hidden_menu').hide();
-		$('#userbox_close').hide();
+		$('.screen-paint, .userbox, .hidden_menu, #userbox_close').hide();
 		$('html, body').css({'overflow': 'auto', 'height': 'auto'});		
 
 		e.preventDefault();
@@ -210,9 +197,7 @@ $(function() {
 		</div>
 
 			</section>
-</div>
-
-<div id="search_drop"></div>   
+</div>   
 
 <div id="wrapper"> 
 	<section>
@@ -294,7 +279,7 @@ $(function() {
 		<div class="footer_box">
 			<h6>Users</h6>
 			<ul>
-				<li><a href="/create-business-listing">Add business</a></li>
+				<li><a href="/create-business-listing">Add Business</a></li>
 				<li><a href="/contact-us/remove:yes" rel="nofollow">Remove company</a></li>
 				<li><a href="/sign-in">Sign in</a></li>
 			</ul>	
@@ -312,52 +297,28 @@ $(function() {
 				
 		<div class="footer_box" id="site_stats">
 			<h6>Statistics</h6>
-			85,217 Companies<br>
-			84,712 Phones<br>
-			226 Faxes<br>
-			10,062 Emails<br>
-			3,237 Websites<br>
-			455 Products<br>
-			108 Reviews		</div>
+			85,280 Companies<br>
+			84,774 Phones<br>
+			238 Faxes<br>
+			10,138 Emails<br>
+			3,296 Websites<br>
+			530 Products<br>
+			127 Reviews		</div>
 
 		<div class="clear"></div>
 
 					<div class="social">
 				<h6>Follow Us</h6>
-				<a href="https://www.facebook.com/pages/Myanmarypcom-directory/603771113020033" class="facebook" rel="nofollow" target="_blank">Facebook</a><a href="https://plus.google.com/u/0/115667172986461054479" class="google" rel="nofollow" target="_blank">Google+</a>			</div>
+				<a href="https://www.facebook.com/pages/Myanmarypcom-directory/603771113020033" rel="nofollow" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a><a href="https://plus.google.com/u/0/115667172986461054479" rel="nofollow" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>			</div>
 				
 				
-			<div id="international"><h6>International Directories</h6><ul><li><a href="http://www.businesslist.my" class="target" rel="nofollow" title="Malaysia Business Directory">Malaysia</a></li><li><a href="http://www.businesslist.ph" class="target" rel="nofollow" title="Philippines Business Directory">Philippines</a></li><li><a href="http://www.yelu.sg" class="target" rel="nofollow" title="Singapore Business Directory">Singapore</a></li><li><a href="http://www.yello.vn" class="target" rel="nofollow" title="Vietnam Business Directory">Vietnam</a></li><li><a href="http://www.yello.hk" class="target" rel="nofollow" title="Hong Kong Business Directory">Hong Kong</a></li><li><a href="http://www.thaiyello.com" class="target" rel="nofollow" title="Thailand Business Directory">Thailand</a></li><li><a href="http://www.yello.ae" class="target" rel="nofollow" title="Emirates Business Directory">Emirates</a></li><li><a href="http://www.yello.tw" class="target" rel="nofollow" title="Taiwan Business Directory">Taiwan</a></li><li><a href="http://www.indonesiayp.com" class="target" rel="nofollow" title="Indonesia Business Directory">Indonesia</a></li><li><a href="http://www.yelu.in" class="target" rel="nofollow" title="India Business Directory">India</a></li><li><a href="http://www.businesslist.pk" class="target" rel="nofollow" title="Pakistan Business Directory">Pakistan</a></li><li><a href="/international-business-directories-map" rel="nofollow" style="background: none; margin-left: 0;">See All</a></li></ul></div>	
+			<div id="international"><h6>Our Global Network</h6><ul><li><a href="http://www.businesslist.my" class="target" rel="nofollow" title="Malaysia Business Directory">Malaysia</a></li><li><a href="http://www.businesslist.ph" class="target" rel="nofollow" title="Philippines Business Directory">Philippines</a></li><li><a href="http://www.yelu.sg" class="target" rel="nofollow" title="Singapore Business Directory">Singapore</a></li><li><a href="http://www.yello.vn" class="target" rel="nofollow" title="Vietnam Business Directory">Vietnam</a></li><li><a href="http://www.yelo.hk" class="target" rel="nofollow" title="Hong Kong Business Directory">Hong Kong</a></li><li><a href="http://www.thaiyello.com" class="target" rel="nofollow" title="Thailand Business Directory">Thailand</a></li><li><a href="http://www.yello.ae" class="target" rel="nofollow" title="Emirates Business Directory">Emirates</a></li><li><a href="http://www.yello.tw" class="target" rel="nofollow" title="Taiwan Business Directory">Taiwan</a></li><li><a href="http://www.indonesiayp.com" class="target" rel="nofollow" title="Indonesia Business Directory">Indonesia</a></li><li><a href="http://www.yelu.in" class="target" rel="nofollow" title="India Business Directory">India</a></li><li><a href="http://www.businesslist.pk" class="target" rel="nofollow" title="Pakistan Business Directory">Pakistan</a></li><li><a href="/international-business-directories-map" rel="nofollow" style="background: none; margin-left: 0;">See All <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></li></ul></div>	
+
 	<div id="copyright">© 2009 - 2016 <a href="http://www.myanmaryp.com">MyanmarYP.com</a> </div>
-</section></footer>
+	</section>
+</footer>
 
 
 <script type="text/javascript" src="/js/jquery/jquery.autocomplete.min.js?v=24"></script>
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6&appId=207398209303117";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
-
-
-
-
-  
-
- 
-
 
 </body></html>
