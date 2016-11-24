@@ -1,268 +1,83 @@
-<!--The following is the downloaded HTML source of the printableworksheets.in privacy policy that was archived on 2016-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160603193447id_/http%3A//printableworksheets.in/43-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the printableworksheets.in privacy policy that was archived on 2016-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161124132705id_/http%3A//printableworksheets.in/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
+<!DOCTYPE html><html lang="en"><head><title>Privacy Policy - Printable Worksheets</title><base href="http://printableworksheets.in"><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta name="keywords" content="Privacy Policy"><meta name="author" content="PCP"><meta name="description" content="Privacy Policy"><link href="favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"><meta charset="utf-8"><meta name="format-detection" content="telephone=no"><link rel="icon" href="favicon.ico"><link rel="shortcut icon" href="favicon.ico"><link rel="stylesheet" href="css/pandalocker.2.1.0.min.css"><link rel="stylesheet" href="/css/style.css"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/jquery.js"></script><script src="/js/jquery-migrate-1.1.1.js"></script><script src="/js/script.js"></script><script src="/js/jquery.ui.totop.js"></script><script src="/js/superfish.js"></script><script src="/js/jquery.equalheights.js"></script><script src="/js/jquery.mobilemenu.js"></script><script src="/js/jquery.easing.1.3.js"></script><script src="/js/owl.carousel.js"></script><script src="/js/jquery.flexslider-min.js"></script><script src="/js/kwiks.js"></script><script>$(document).ready(function(){
+				$().UItoTop({ easingType: 'easeOutQuart' });
+				var owl = $("#owl");
+				owl.owlCarousel({
+					items : 4, //10 items above 1000px browser width
+					itemsDesktop : [995,3], //5 items between 1000px and 901px
+					itemsDesktopSmall : [767, 2], // betweem 900px and 601px
+					itemsTablet: [700, 2], //2 items between 600 and 0
+					itemsMobile : [479, 1], // itemsMobile disabled - inherit from itemsTablet option
+					navigation : true,
+				});
+			})
+			var Main = Main || {};
+			jQuery(window).load(function() {
+				window.responsiveFlag = jQuery('#responsiveFlag').css('display');
+				Main.gallery = new Gallery();
+				jQuery(window).resize(function() {
+					Main.gallery.update();
+				});
+			});
+			function Gallery(){
+				var self = this,
+					container = jQuery('.flexslider'),
+					clone = container.clone( false );
+					this.init = function (){
+						if( responsiveFlag == 'block' ){
+						var slides = container.find('.slides');
+						slides.kwicks({
+							max : 500,
+							spacing : 0
+						}).find('li > a').click(function (){
+							return false;
+						});
+						} else {
+							container.flexslider();
+						}
+					}
+					this.update = function () {
+						var currentState = jQuery('#responsiveFlag').css('display');
+						if(responsiveFlag != currentState) {
+							responsiveFlag = currentState;
+							container.replaceWith(clone);
+							container = clone;
+							clone = container.clone( false );
+							this.init();
+						}
+					}
+				this.init();
+			}</script><!--[if lt IE 8]><div style='clear:both;text-align:center;position:relative;'><a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode"><img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."/></a></div><![endif]--><!--[if lt IE 9]><script src="js/html5shiv.js"></script><link rel="stylesheet" media="screen" href="css/ie.css"><![endif]--><script type="text/javascript"> var _gaq = _gaq || [];
+                                          _gaq.push(['_setAccount', 'UA-28207986-1']);
+                                          _gaq.push(['_trackPageview']);
 
-
-  <base href="http://printableworksheets.in/43-privacy-policy">
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="keywords" content="Kids Worksheets, School Worksheets, Teacher worksheets, Worksheets for Kids, Free Printable Worksheets, Math Worksheets, Science Workshet, Free Download Worksheets, Kindergarten Worksheets, Composition Worksheets, Grammar Worksheets, Reading Worksheets, Writing Worksheets, Phonics Worksheeets, Quiz Worksheets, 1st Grade, 2nd Grade, 3rd Grade, 4th Grade, 5th Grade, Social Studies">
-  <meta name="rights" content="www.printableworksheets.in">
-  <meta name="description" content="Free Worksheets in Printable Format for Math (Addition, Algebra, Decimal, Division, Fraction, Graph, Geometry, Greater Than-Less Than, Hundreds, In-Out, Integers, Measurement, Multiplication, Place Value, Subtraction, Time) Science (Weather, Insects, Human Body, Plant, Animal, Matter, Space), Phonics (Vowels, Consonants), Kindergarten (Alphabets, Numbers, Shapes) , Pre-school, Grammar (Puctuation, Pronouns, Adverbs, Adjectives, Verbs, Nouns), Reading-Writing (1st Grade Reading, 2nd Grade Reading, 3rd Grade Reading, Cursive Writing), Hindi, Sanskrit, Urdu, CBSE, ICSE, Common Core.">
-  <title>Privacy Policy - Free Printable Worksheets</title>
-  <link href="/templates/school/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-  <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
-  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
-  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
-  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
-
-
-
-
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-<link href="/templates/school/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-<link rel="stylesheet" href="/templates/school/css/styles.css" type="text/css">
-<link rel="stylesheet" href="/templates/school/css/bootstrap.min.css" type="text/css">
-<link rel="stylesheet" href="/templates/school/css/font-awesome.min.css" type="text/css">
-<!-- Custom CSS For IE -->
-<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]-->
-<!-- Custom CSS -->
-<link href="http://fonts.googleapis.com/css?family=Kavoon" rel="stylesheet" type="text/css">
-	<script type="text/javascript" src="/templates/school/js/scroll.js"></script>
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-28207986-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-6997161217503277",
-    enable_page_level_ads: true
-  });
-</script>
-
-</head>
-<body class="background">
-<div id="header-wrap" class="clr">
-    	<div id="header" class="container row clr">   
-            <div id="logo" class="col span_12">
-				 
-                                	<div style="text-align: left;">
-            			<a href="/">Printable Worksheets</a>
-            			<div style="float:right;">
-					<script src="http://connect.facebook.net/en_US/all.js#xfbml=1" type="text/javascript"></script>					
-					<fb:like href="http://printableworksheets.in" send="false" layout="box_count" width="50" show_faces="false" action="like" font="arial">
-					</fb:like>
-					<!-- Place this tag where you want the +1 button to render -->
-					<g:plusone size="tall" href="http://printableworksheets.in"></g:plusone>
-					<!-- Place this render call where appropriate -->
-					<script type="text/javascript">
-					  (function() {
-					    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-					    po.src = 'https://apis.google.com/js/plusone.js';
-					    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-					  })();
-					</script>
-				</div>
-			</div>	
-                                                <div id="site-description"></div>
-                  
-            </div><!-- /logo -->
-        	            
-            
-<div id="social">
-		</div>
-           
-    	</div>  
-			            <div id="navbar-wrap">
-                <nav id="navbar">
-                    <div id="navigation" class="container row clr"> 
-                        <script type="text/javascript">
-	jQuery(document).ready(function($){
-		$('#navbar-wrap').prepend('<a id="menu-icon"><span class="menu-icon-title">Main Menu</span> <i class="icon-double-angle-down"></i> </a>');
-		$("#menu-icon").on("click", function(){
-			$("#navbar").slideToggle(500,"linear");
-			$(this).toggleClass("active");
-		});
-	});
-</script>
-    
-<ul class="menu ">
-<li class="item-110 current active"><a href="/"><span class="menutitle">Home</span> <span class="menudesc"></span></a></li><li class="item-154"><a class="color3" href="/math-worksheets"><span class="menutitle">Math</span> <span class="menudesc"></span></a></li><li class="item-155"><a class="color2" href="/science-worksheets"><span class="menutitle">Science</span> <span class="menudesc"></span></a></li><li class="item-156"><a class="color1" href="/grammar-worksheet"><span class="menutitle">Grammar</span> <span class="menudesc"></span></a></li><li class="item-157"><a class="color5" href="/phonics-worksheets"><span class="menutitle">Phonics</span> <span class="menudesc"></span></a></li><li class="item-158"><a class="color3" href="/reading-writing-worksheets"><span class="menutitle">Reading-Writing</span> <span class="menudesc"></span></a></li><li class="item-159"><a class="color2" href="/kindergarten-worksheets"><span class="menutitle">Kindrgarten</span> <span class="menudesc"></span></a></li></ul>
-
-                     </div>            
-                </nav>
-            </div>
-                      
-</div>
-		            <div id="user1-wrap"><div id="user1" class="container row clr">
-            
-            	<div class="module normal  span_6 col clr">
-	    	<h3 class="module-title">Search</h3>
-        <div class="module-body">
-    	<p></p>
-<form id="fdsearch" method="get" action="/">
-	 	
- 		<input type="text" name="dq" value="" maxlength="100" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
- 		<input type="submit" id="dcolorpagesubmit" value="Search">
- 	</form>
-
-<script type="text/javascript" language="JavaScript">
-   document.forms['fdsearch'].elements['dq'].focus();
-</script>	
-<p></p><h3 class="module-title">Recent Searches</h3><p></p>
-
-    </div>
-</div>
-<div class="module normal  span_6 col clr">
-	    	<h3 class="module-title">Search - Download - Print</h3>
-        <div class="module-body">
-    	<p></p>
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- PW_RES_TOP -->
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6997161217503277" data-ad-slot="4970754420" data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>    </div>
-</div>
-
-            	
-            </div></div>
-        <div id="wrapper"><div id="wrapper-inner" class="container row clr">
-                            
-<div id="box-wrap" class="container row clr">
-	<div id="main-content" class="row span_12">
-			                                <div id="post" class="col span_9 clr">
-                                    <div id="comp-wrap">                  
-                                        <div id="system-message-container">
-	</div>
-
-                                        <div class="item-page">
-	<h1 class="item-page-title"><a href="/43-privacy-policy">Privacy Policy</a></h1>
-
-
-        
-
-
-
-
-	        
-
-<p style="height: 100%; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; background-image: initial; background-attachment: initial; min-width: 90%; outline-width: 0px; outline-style: initial; outline-color: initial; padding: 5px; margin: 8px;">&nbsp;</p>
-<h2 style="font-size: medium; margin-top: 2ex; margin-bottom: 1.5ex;">Personally-Identifiable Information</h2>
-<p style="line-height: 1.3; margin: 1ex 0px 1ex 0px;">printableworksheets.in does not collect any personally-identifiable information about you — such as your name and email address — unless you provide it voluntarily, e.g. when you contact the author of printableworksheets.in. printableworksheets.in does not sell or disclose this information to third parties.</p>
-<h2 style="font-size: medium; margin-top: 2ex; margin-bottom: 1.5ex;">Information Collected Automatically</h2>
-<p style="line-height: 1.3; margin: 1ex 0px 1ex 0px;">printableworksheets.in may automatically collect non-personally-identifiable information about your use of the site, such as the date and time you access this site, the Internet address of the website from which you linked directly to this site, or the IP address from which you accessed this site. This information is not linked to personally-identifiable information. printableworksheets.in may aggregate this information to analyse the usage of the site.</p>
-<h2 style="font-size: medium; margin-top: 2ex; margin-bottom: 1.5ex;">Third-Party Companies’ Advertising</h2>
-<p style="line-height: 1.3; margin: 1ex 0px 1ex 0px;">printableworksheets.in website uses third-party companies’ advertising provided by Google Inc. to serve ads when you visit this website. These companies may be placing and reading cookies on your browser, which allows them to use information (not including your private information like your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.</p>
-<p style="line-height: 1.3; margin: 1ex 0px 1ex 0px;">If you would like to find more information about this practice and to know your choices about not having this information used by these companies, visit .</p>
-<p style="line-height: 1.3; margin: 1ex 0px 1ex 0px;">You can find additional information in Appendix A of the <a href="http://www.networkadvertising.org/pdfs/NAI_principles.pdf" target="_blank" rel="nofollow">NAI Self-Regulatory principles for publishers (PDF)</a>. Please note that the NAI may change this sample language at any time.</p>
-<h2 style="font-size: medium; margin-top: 2ex; margin-bottom: 1.5ex;">Your Acceptance of these Terms and Changes</h2>
-<p style="line-height: 1.3; margin: 1ex 0px 1ex 0px;">By using this site, you signify your assent to the printableworksheets.in Privacy Policy. If you do not agree to this Policy, please do not use the site.</p>
-<p style="line-height: 1.3; margin: 1ex 0px 1ex 0px;">This Privacy Policy may be changed at any time without notice. Your continued use of the site following the posting of changes to these terms will mean you accept those changes.</p> 
-	    
-
-	
-
-</div>
-                    
-                                    </div>
-                                </div>
-			                            <div id="rightbar-w" class="col span_3 clr">
-                            	<div id="sidebar">
-                                	<div class="module  ">
-	    <div class="module-body">
-    	<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- PW_RES_RIGHT -->
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6997161217503277" data-ad-slot="4785624424" data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>    </div>
-</div>
-
-                            	</div>
-                            </div>
-                        	</div>
-</div></div>
-</div>   
-	            <div id="user2-wrap"><div id="user2" class="container row clr">
-            	<div class="module _menu  span_3 col clr">
-	    	<h3 class="module-title">Math</h3>
-        <div class="module-body">
-    	
-<ul class="menu ">
-<li class="item-112"><a href="/addition-worksheets"><span class="menutitle">Addition</span> <span class="menudesc"></span></a></li><li class="item-116"><a href="/algebra-worksheets"><span class="menutitle">Algebra</span> <span class="menudesc"></span></a></li><li class="item-113"><a href="/decimal-worksheets"><span class="menutitle">Decimal</span> <span class="menudesc"></span></a></li><li class="item-115"><a href="/division-worksheets"><span class="menutitle">Division</span> <span class="menudesc"></span></a></li><li class="item-111"><a href="/fraction-worksheets"><span class="menutitle">Fraction</span> <span class="menudesc"></span></a></li><li class="item-118"><a href="/graph-worksheets"><span class="menutitle">Graph</span> <span class="menudesc"></span></a></li><li class="item-117"><a href="/geometry-worksheets"><span class="menutitle">Geometry</span> <span class="menudesc"></span></a></li><li class="item-119"><a href="/greater-than-less-than-worksheets"><span class="menutitle">Greater-Less</span> <span class="menudesc"></span></a></li><li class="item-120"><a href="/hundreds-worksheets"><span class="menutitle">Hundreds</span> <span class="menudesc"></span></a></li><li class="item-121"><a href="/in-out-worksheets"><span class="menutitle">In-Out</span> <span class="menudesc"></span></a></li><li class="item-122"><a href="/integers-worksheets"><span class="menutitle">Integers</span> <span class="menudesc"></span></a></li><li class="item-123"><a href="/measurement-worksheets"><span class="menutitle">Measurement</span> <span class="menudesc"></span></a></li><li class="item-127"><a href="/multiplication-worksheets"><span class="menutitle">Multiplication</span> <span class="menudesc"></span></a></li><li class="item-114"><a href="/place-value-worksheets"><span class="menutitle">Place Value</span> <span class="menudesc"></span></a></li><li class="item-124"><a href="/subtraction-worksheets"><span class="menutitle">Subtraction</span> <span class="menudesc"></span></a></li><li class="item-125"><a href="/time-worksheets"><span class="menutitle">Time</span> <span class="menudesc"></span></a></li></ul>
-    </div>
-</div>
-<div class="module _menu  span_3 col clr">
-	    	<h3 class="module-title">Science</h3>
-        <div class="module-body">
-    	
-<ul class="menu ">
-<li class="item-147"><a href="/weather-worksheets"><span class="menutitle">Weather</span> <span class="menudesc"></span></a></li><li class="item-148"><a href="/insects-worksheets"><span class="menutitle">Insects</span> <span class="menudesc"></span></a></li><li class="item-149"><a href="/human-body-worksheets"><span class="menutitle">Human Body</span> <span class="menudesc"></span></a></li><li class="item-150"><a href="/plant-worksheets"><span class="menutitle">Plant</span> <span class="menudesc"></span></a></li><li class="item-151"><a href="/animal-worksheets"><span class="menutitle">Animal</span> <span class="menudesc"></span></a></li><li class="item-152"><a href="/matter-worksheets"><span class="menutitle">Matter</span> <span class="menudesc"></span></a></li><li class="item-153"><a href="/space-worksheets"><span class="menutitle">Space</span> <span class="menudesc"></span></a></li></ul>
-    </div>
-</div>
-<div class="module   span_3 col clr">
-	    	<h3 class="module-title">Grammar</h3>
-        <div class="module-body">
-    	
-<ul class="menu ">
-<li class="item-135"><a href="/grammar-worksheets"><span class="menutitle">Grammar</span> <span class="menudesc"></span></a></li><li class="item-136"><a href="/punctuation-worksheets"><span class="menutitle">Punctuation</span> <span class="menudesc"></span></a></li><li class="item-137"><a href="/pronouns-worksheets"><span class="menutitle">Pronouns</span> <span class="menudesc"></span></a></li><li class="item-138"><a href="/adverbs-worksheets"><span class="menutitle">Adverbs</span> <span class="menudesc"></span></a></li><li class="item-139"><a href="/adjectives-worksheets"><span class="menutitle">Adjectives</span> <span class="menudesc"></span></a></li><li class="item-140"><a href="/verbs-worksheets"><span class="menutitle">Verbs</span> <span class="menudesc"></span></a></li><li class="item-141"><a href="/nouns-worksheets"><span class="menutitle">Nouns</span> <span class="menudesc"></span></a></li></ul>
-    </div>
-</div>
-<div class="module   span_3 col clr">
-	    	<h3 class="module-title">Reading-Writing</h3>
-        <div class="module-body">
-    	
-<ul class="menu ">
-<li class="item-126"><a href="/1st-grade-reading"><span class="menutitle">1st Grade Reading</span> <span class="menudesc"></span></a></li><li class="item-131"><a href="/2nd-grade-reading"><span class="menutitle">2nd Grade Reading</span> <span class="menudesc"></span></a></li><li class="item-132"><a href="/3rd-grade-reading"><span class="menutitle">3rd Grade Reading</span> <span class="menudesc"></span></a></li><li class="item-133"><a href="/cursive-writing"><span class="menutitle">Cursive Writing</span> <span class="menudesc"></span></a></li><li class="item-134"><a href="/writing"><span class="menutitle">Writing</span> <span class="menudesc"></span></a></li></ul>
-    </div>
-</div>
-<div class="module   span_3 col clr">
-	    	<h3 class="module-title">Phonics</h3>
-        <div class="module-body">
-    	
-<ul class="menu ">
-<li class="item-142"><a href="/vowels-worksheets"><span class="menutitle">Vowels</span> <span class="menudesc"></span></a></li><li class="item-143"><a href="/consonants-worksheets"><span class="menutitle">Consonants</span> <span class="menudesc"></span></a></li></ul>
-    </div>
-</div>
-<div class="module   span_3 col clr">
-	    	<h3 class="module-title">Kindergarten</h3>
-        <div class="module-body">
-    	
-<ul class="menu ">
-<li class="item-144"><a href="/alphabets-worksheets"><span class="menutitle">Alphabets</span> <span class="menudesc"></span></a></li><li class="item-145"><a href="/numbers-worksheets"><span class="menutitle">Numbers</span> <span class="menudesc"></span></a></li><li class="item-146"><a href="/shapes-worksheets"><span class="menutitle">Shapes</span> <span class="menudesc"></span></a></li></ul>
-    </div>
-</div>
-
-            </div></div>
-                
-<div id="footer-wrap" class="container row clr">        
-                                    <div class="copyright">
-                Copyright © 2015&nbsp;<a href="http://www.printableworksheets.in" target="_blank">www.printableworksheets.in</a>&nbsp;|&nbsp;<a href="/43-privacy-policy">Privacy Policy</a>
-            </div>
-                    
-
-                
-
-	        <div class="school"></div>
-    <div>
-<p align="center"><span style="color: black; font-size: small;">&nbsp;&nbsp;Disclaimer: This site does not host any of the documents displayed in the search results. Webmasters may remove links to your webpages by adjusting bing/yahoo crawler settings for your website. Search result documents are copyrights of the respective website owners.</span></p>
-<img src="http://l.yimg.com/a/i/us/sch/boss2/createdwith1.png">
-</div>
-
-</div>
-
-</body></html>
+                                          (function() {
+                                              var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                                              ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                                              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                                          })();</script><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script>(adsbygoogle = window.adsbygoogle || []).push({
+                                                google_ad_client: "ca-pub-6997161217503277",
+                                                enable_page_level_ads: true
+                                              });</script><script type="text/javascript" src="js/pandalocker.2.1.0.min.js"></script><script>jQuery(document).ready(function ($) {
+				$('.to-lock').sociallocker({
+					theme: 'dandyish',
+					overlap:{
+						mode: 'blurring',
+						intensity: '5'
+					},
+					buttons:{
+						order: ["facebook-like","google-plus"],
+						counters: true,
+						lazy: false
+					},
+					facebook: { like: { url: "http://printableworksheets.in" } },
+					google: { plus: { url: "http://printableworksheets.in" } },
+					url: 'http://printableworksheets.in',
+					text: {
+						header: 'Like us to view worksheets',
+						message: 'Like us once on facebook or google plus to access free worksheets..thank you.<br/>*In case you don\'t see some worksheets after liking us, please refresh the page.<br/>'
+					}
+				});
+			});</script></head><body class="page1" id="top"><header><div class="clear"></div><div class="container_12"><div class="grid_12" style="text-align:center;"><a href="/" style="width:160px;align-self:center"><img src="logo.png" alt="Printable Worksheets" style="height:60px;"></a></div><div class="grid_12"><div class="menu_block"><nav class="horizontal-nav full-width horizontalNav-notprocessed"><ul class="sf-menu"><li><a href="/">Home</a></li><li><a href="/math-worksheets">Math</a></li><li><a href="/science-worksheets">Science</a></li><li><a href="/grammar-worksheets">Grammar</a></li><li><a href="/phonics-worksheets">Phonics</a></li><li><a href="/read-write-worksheets">Read / Write</a></li><li><a href="/kindergarten-worksheets">Kindergarten</a></li></ul></nav></div></div><div class="grid_12" style="text-align:center;"><p style="margin-top:10px;margin-bottom:0;"></p></div><div class="clear"></div></div><div class="container_12"><div class="grid_6"><div class="block_header"><div class="title">Search</div><div class="pad"><div id="search-form"><form class="form-container" method="post" action="/client/search"><input type="text" class="search-field" name="s" maxlength="50" value="" placeholder="Enter worksheet name..."><div class="submit-container"><input type="submit" value="" class="submit"></div></form></div><div class="text3" style="align-content:center;"><b><p>Search History</p></b></div><div><p><a href="http://printableworksheets.in/worksheet/nsw-foundation-cursive-writing">Nsw Foundation Cursive Writing</a> | <a href="http://printableworksheets.in/worksheet/hunter-s-card">Hunter S Card</a> | <a href="http://printableworksheets.in/worksheet/cut-and-paste-about-water-pollution-for-kids">Cut And Paste About Water Pollution For Kids</a> | <a href="http://printableworksheets.in/worksheet/snowmen-at-night">Snowmen At Night</a> | <a href="http://printableworksheets.in/worksheet/regrouping-place-value">Regrouping Place Value</a> | <a href="http://printableworksheets.in/worksheet/ling-badlow-of-bhaga">Ling Badlow Of Bhaga</a> | <a href="http://printableworksheets.in/worksheet/contraction-words">Contraction Words</a> | <a href="http://printableworksheets.in/worksheet/female-pelvis">Female Pelvis</a> | <a href="http://printableworksheets.in/worksheet/properties-of-number">Properties Of Number</a> | <a href="http://printableworksheets.in/worksheet/cell-reproduction-for-7-th-grade">Cell Reproduction For 7 Th Grade</a> | <a href="http://printableworksheets.in/worksheet/parabolas">Parabolas</a> | <a href="http://printableworksheets.in/worksheet/find-the-picture">Find The Picture</a> | <a href="http://printableworksheets.in/worksheet/onomatopea">Onomatopea</a> | <a href="http://printableworksheets.in/worksheet/free-on-the-ecosystems">Free On The Ecosystems</a> | <a href="http://printableworksheets.in/worksheet/isabellas-writing-practice">Isabellas Writing Practice</a> | <a href="http://printableworksheets.in/worksheet/six-digit-division">Six Digit Division</a> |</p></div></div></div><span id="responsiveFlag"></span></div><div class="grid_6"><div class="block_header"><div class="title">Sponsored Links</div><div class="pad"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6997161217503277" data-ad-slot="4970754420" data-ad-format="auto"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div></div></div></header><div class="main"><div class="content"><div class="container_12"><div class="clear"></div><div class="grid_8"><div class="block2 maxheight" style="height:263px;"><div class="box_inner"><div class="title">Privacy Policy</div><div class="pad"><div class="text3">Personally Identifiable Information</div><p>PrintableWorksheets.in does not collect any personally identifiable information about you - such as your name and email address - unless you provide it voluntarily, e.g. when you contact the author of PrintableWorksheets.in. PrintableWorksheets.in does not sell or disclose this information to third parties.</p><div class="text3">Information Collected Automatically</div><p>PrintableWorksheets.in may automatically collect non-personally-identifiable information about your use of the site, such as the date and time you access this site, the Internet address of the website from which you linked directly to this site, or the IP address from which you accessed this site. This information is not linked to personally identifiable information. PrintableWorksheets.in may aggregate this information to analyse the usage of the site.</p><div class="text3">Third Party Companies Advertising</div><p>PrintableWorksheets.in website uses third-party companies advertising provided by Google Inc. to serve ads when you visit this website. These companies may be placing and reading cookies on your browser, which allows them to use information (not including your private information like your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.</p><p>If you would like to find more information about this practice and to know your choices about not having this information used by these companies, visit&nbsp;<a href="http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html</a>.</p><p>You can find additional information in Appendix A of the&nbsp;<a style="text-decoration:underline;color:#000;" href="http://www.networkadvertising.org/pdfs/NAI_principles.pdf" target="_blank" rel="nofollow">NAI Self-Regulatory principles for publishers (PDF)</a>. Please note that the NAI may change this sample language at any time.</p><div class="text3">Your Acceptance of these Terms and Changes</div><p>By using this site, you signify your assent to the PrintableWorksheets.in Privacy Policy. If you do not agree to this Policy, please do not use the site.</p><p>This Privacy Policy may be changed at any time without notice. Your continued use of the site following the posting of changes to these terms will mean you accept those changes.</p><p></p></div></div></div><div class="clear"></div></div><div class="grid_4"><div class="block2 maxheight" style="height:263px;"><div class="box_inner"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6997161217503277" data-ad-slot="4785624424" data-ad-format="auto"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div></div></div></div><footer xmlns="http://www.w3.org/1999/html"><div class="hor bg3"></div><div class="container_12"><div class="clear"></div><div class="grid_4"><div class="block2 maxheight"><div class="title">Science</div><div class="pad"><ul class="list"><li><a href="/animal-worksheets">Animal Worksheets</a></li><li><a href="/human-body-worksheets">Human Body Worksheets</a></li><li><a href="/insects-worksheets">Insects Worksheets</a></li><li><a href="/matter-worksheets">Matter Worksheets</a></li><li><a href="/plant-worksheets">Plant Worksheets</a></li><li><a href="/space-worksheets">Space Worksheets</a></li><li><a href="/weather-worksheets">Weather Worksheets</a></li></ul></div><div class="title">Grammar</div><div class="pad"><ul class="list"><li><a href="/adjectives-worksheets">Adjectives Worksheets</a></li><li><a href="/adverbs-worksheets">Adverbs Worksheets</a></li><li><a href="/grammar-worksheets">Grammar Worksheets</a></li><li><a href="/nouns-worksheets">Nouns Worksheets</a></li><li><a href="/pronouns-worksheets">Pronouns Worksheets</a></li><li><a href="/punctuation-worksheets">Punctuation Worksheets</a></li><li><a href="/verbs-worksheets">Verbs Worksheets</a></li></ul></div></div></div><div class="grid_4"><div class="block2 maxheight"><div class="title">Math</div><div class="pad"><ul class="list"><li><a href="/addition-worksheets">Addition Worksheets</a></li><li><a href="/algebra-worksheets">Algebra Worksheets</a></li><li><a href="/decimal-worksheets">Decimal Worksheets</a></li><li><a href="/division-worksheets">Division Worksheets</a></li><li><a href="/fraction-worksheets">Fraction Worksheets</a></li><li><a href="/geometry-worksheets">Geometry Worksheets</a></li><li><a href="/graph-worksheets">Graph Worksheets</a></li><li><a href="/greater-than-less-than-worksheets">Greater Than - Less Than Worksheets</a></li><li><a href="/hundreds-worksheets">Hundreds Worksheets</a></li><li><a href="/in-out-worksheets">In-Out Worksheets</a></li><li><a href="/integers-worksheets">Integers Worksheets</a></li><li><a href="/measurement-worksheets">Measurement Worksheets</a></li><li><a href="/multiplication-worksheets">Multiplication Worksheets</a></li><li><a href="/place-value-worksheets">Place Value Worksheets</a></li><li><a href="/subtraction-worksheets">Subtraction Worksheets</a></li><li><a href="/time-worksheets">Time Worksheets</a></li></ul></div><div class="title">Common Core</div><div class="pad"><ul class="list"><li><a href="/common-core">Math</a></li><li><a href="/common-core">Ela</a></li></ul></div></div></div><div class="grid_4"><div class="block2 maxheight"><div class="title">Read / Write</div><div class="pad"><ul class="list"><li><a href="/1st-grade-reading-worksheets">1st Grade Reading Worksheets</a></li><li><a href="/2nd-grade-reading-worksheets">2nd Grade Reading Worksheets</a></li><li><a href="/3rd-grade-reading-worksheets">3rd Grade Reading Worksheets</a></li><li><a href="/cursive-writing-worksheets">Cursive Writing Worksheets</a></li><li><a href="/writing-worksheets">Writing Worksheets</a></li></ul></div><div class="title">Kindergarten</div><div class="pad"><ul class="list"><li><a href="/alphabets-worksheets">Alphabets Worksheets</a></li><li><a href="/numbers-worksheets">Numbers Worksheets</a></li><li><a href="/shapes-worksheets">Shapes Worksheets</a></li></ul></div><div class="title">Phonics</div><div class="pad"><ul class="list"><li><a href="/consonants-worksheets">Consonants Worksheets</a></li><li><a href="/vowels-worksheets">Vowels Worksheets</a></li></ul></div></div></div><div class="clear"></div></div><div class="container_12"><div class="grid_12"><div class="socials"><script src="http://connect.facebook.net/en_US/all.js#xfbml=1" type="text/javascript"></script><fb:like href="http://printableworksheets.in" send="false" layout="box_count" width="60" show_faces="false" action="like" font="arial" class=" fb_iframe_widget" fb-xfbml-state="rendered" fb-iframe-plugin-query="action=like&amp;app_id=&amp;container_width=0&amp;font=arial&amp;href=http%3A%2F%2Fprintableworksheets.in%2F&amp;layout=box_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=false&amp;width=60"><span style="vertical-align:bottom;width:51px;height:40px;margin-right:10px;"><iframe name="fb5a9594b133c" width="60px" height="1000px" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" title="fb:like Facebook Social Plugin" src="https://www.facebook.com/plugins/like.php?action=like&amp;app_id=&amp;channel=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D42%23cb%3Df3c5516a19c2ac%26domain%3Dprintableworksheets.in%26origin%3Dhttp%253A%252F%252Fprintableworksheets.in%252Ff163d02640407c%26relation%3Dparent.parent&amp;container_width=0&amp;font=arial&amp;href=http%3A%2F%2Fprintableworksheets.in%2F&amp;layout=box_count&amp;locale=en_US&amp;sdk=joey&amp;send=false&amp;show_faces=false&amp;width=60" style="border:none;visibility:visible;width:51px;height:40px;" class=""></iframe></span></fb:like><div id="___plusone_0" style="text-indent:0;margin-left:10px;padding:0;border-style:none;float:none;line-height:normal;font-size:1px;vertical-align:bottom;display:inline-block;width:50px;height:60px;background:transparent;"><span style="vertical-align:bottom;width:51px;height:40px;"><iframe frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position:static;top:0;width:50px;margin:0;border-style:none;left:0;visibility:visible;height:60px;" tabindex="0" vspace="0" width="100%" id="I0_1468388233789" name="I0_1468388233789" src="https://apis.google.com/u/0/se/0/_/+1/fastbutton?usegapi=1&amp;size=tall&amp;origin=http%3A%2F%2Fprintableworksheets.in&amp;url=http%3A%2F%2Fprintableworksheets.in%2F&amp;gsrc=3p&amp;ic=1&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en.8prJs7b3ioc.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCNheFUefZfBy5AmIBZzwodH2wxJ3g#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh&amp;id=I0_1468388233789&amp;parent=http%3A%2F%2Fprintableworksheets.in&amp;pfname=&amp;rpctoken=38974319" data-gapiattached="true" title="+1"></iframe></span></div><div class="clear"></div></div><div class="copy"><strong>Printable Worksheets</strong> © <span id="copyright-year"></span> | <a href="/privacy-policy">Privacy Policy</a></div></div></div></footer></div></body></html>
