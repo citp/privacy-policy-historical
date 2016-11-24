@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the craniumfitteds.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325095059id_/http%3A//www.craniumfitteds.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craniumfitteds.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124223149id_/http%3A//www.craniumfitteds.com/privacy.html) for the most accurate reproduction.*
 
-# Snapbacks, Custom Fitted Hats & Streetwear Clothing Online - CraniumFitteds.com
+# Fitted hats and Snapbacks Online | CraniumFitteds.com
 
 **What information do we collect?**
 
