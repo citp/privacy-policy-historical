@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashrevelations.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623235204id_/http%3A//www.freeprivacypolicy.org/generic.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashrevelations.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125002909id_/http%3A//www.freeprivacypolicy.org/generic.php) for the most accurate reproduction.*
 
 # None
 
