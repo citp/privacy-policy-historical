@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelsone.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620114338id_/http%3A//www.hotelsone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelsone.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124143133id_/http%3A//www.hotelsone.com/privacy.html) for the most accurate reproduction.*
 
 # HotelsOne.com - Privacy statement
 
@@ -127,7 +127,7 @@ In order for this website to properly fulfill its obligation to users, it is nec
 
 **Correcting / Updating /Deleting / Deactivating Personal Information**
 
-If a user's personally identifiable information (such as zip code, phone, email or postal address) changes or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate user's personally identifiable information. Members can change their personal information on the member profile page of our website. Members and users can all email our Customer Support at [Customer Care](mailto:customerservice@eurobookings.com) or by contact us by telephone or postal mail at the contact information listed below.
+If a user's personally identifiable information (such as zip code, phone, email or postal address) changes or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate user's personally identifiable information. Members can change their personal information on the member profile page of our website. Members and users can all email our Customer Support at [Customer Care](mailto:customerservice@eurobookings.com) or contact us by telephone or postal mail at the contact information listed below.
 
 **Notification of Material Changes**
 
