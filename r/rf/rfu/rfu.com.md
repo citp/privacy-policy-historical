@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rfu.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618070634id_/http%3A//www.englandrugby.com/about-the-rfu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rfu.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124072945id_/http%3A//www.englandrugby.com/about-the-rfu/privacy-policy) for the most accurate reproduction.*
 
 # RFU - About the RFU
 
