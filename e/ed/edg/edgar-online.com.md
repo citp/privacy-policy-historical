@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the edgar-online.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608144722id_/http%3A//www.edgar-online.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgar-online.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124055755id_/http%3A//edgar-online.com/Privacy.aspx) for the most accurate reproduction.*
 
 # 
 
-EDGAR Online, a division of R. R. Donnelley & Sons Company, respects your right to privacy while using our web sites. Our privacy policy detailed below explains what information we may gather from your visit to our web sites and how such information may be used.
+EDGAR Online, a division of Donnelley Financial LLC, respects your right to privacy while using our web sites. Our privacy policy detailed below explains what information we may gather from your visit to our web sites and how such information may be used.
 
 1\. COLLECTION AND USE OF INFORMATION.
 
