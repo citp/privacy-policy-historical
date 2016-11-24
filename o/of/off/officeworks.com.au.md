@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officeworks.com.au privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619142252id_/http%3A//www.officeworks.com.au/information/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officeworks.com.au privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124235011id_/http%3A//www.officeworks.com.au/information/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -96,21 +96,22 @@
   17. We collect such personal information so that we can provide you with a great service. We also need this information to deliver products and services to you, to complete transactions on your behalf and to better understand your requirements and preferences. Personal information collected will be used for the following primary purposes:
     1. For the purposes stated on a particular Collection Channel;
     2. To maintain the functionality of a Website, including the provision of information to you relating to the content available on the Website and e-commerce transactions conducted via the Website;
-    3. To fulfil obligations in respect of any upload terms of use, sale and purchase contract and/or any other contract between you and Officeworks;
-    4. To send you any technical, administrative or legal notices important to our Websites or Applications;
-    5. To provide you with information about your transactions (including uploading of, access to, and receipt of, content on a Website or Application and purchase transactions undertaken on a Website or Application) and about content, services and products;
-    6. To provide marketing materials, events, special offers, competitions and promotions via any medium including mail, telephone, email, SMS or any other form of electronic, emerging, digital or conventional communications channel;
-    7. To maintain our relationship with you;
-    8. To respond to enquiries;
-    9. To manage your employment with Officeworks;
-    10. To obtain opinions or comments about products and/or services and to conduct other market research and development (including to record statistical data for marketing analysis);
-    11. to enter you into and administer promotions;
-    12. to combine with other personal information we hold about you and to assess which of our products and services are most likely to be of interest to you;
-    13. to provide you with relevant advertising materials when you browse our Websites or third party websites;
-    14. to provide, maintain and improve our products and services;
-    15. to customise a Website or Application based on your preferences; and
-    16. to share with trusted third parties including professional service providers and promotional partners and other trusted third parties in the manner described in this Privacy Policy; and
-    17. to share with your social media communities, to the extent allowed by you.
+    3. For testing purposes;
+    4. To fulfil obligations in respect of any upload terms of use, sale and purchase contract and/or any other contract between you and Officeworks;
+    5. To send you any technical, administrative or legal notices important to our Websites or Applications;
+    6. To provide you with information about your transactions (including uploading of, access to, and receipt of, content on a Website or Application and purchase transactions undertaken on a Website or Application) and about content, services and products;
+    7. To provide marketing materials, events, special offers, competitions and promotions via any medium including mail, telephone, email, SMS or any other form of electronic, emerging, digital or conventional communications channel;
+    8. To maintain our relationship with you;
+    9. To respond to enquiries;
+    10. To manage your employment with Officeworks;
+    11. To obtain opinions or comments about products and/or services and to conduct other market research and development (including to record statistical data for marketing analysis);
+    12. to enter you into and administer promotions;
+    13. to combine with other personal information we hold about you and to assess which of our products and services are most likely to be of interest to you;
+    14. to provide you with relevant advertising materials when you browse our Websites or third party websites;
+    15. to provide, maintain and improve our products and services;
+    16. to customise a Website or Application based on your preferences; and
+    17. to share with trusted third parties including professional service providers and promotional partners and other trusted third parties in the manner described in this Privacy Policy; and
+    18. to share with your social media communities, to the extent allowed by you.
   18. For the purposes described above, personal information may be shared with our group companies, promotional partners and other trusted third parties (and their directors, servants and agents) either in Australia or overseas including the United States of America, Singapore, and Japan.
   19. Failure to provide personal information may result in Officeworks being unable to provide you with the products or services requested by you, provide you with certain content, information, upcoming promotion, event or product information and/or accept promotion entries (where applicable).
   20. In order to operate a Website or Application or deliver a product or service (including for example, processing of credit card payments), personal information may also be shared with our group companies, selected service providers and/or other trusted third parties. Our group companies, selected service providers and/or other trusted third parties may be engaged to perform a variety of functions, such as data storage, fulfilling orders, conducting market research, processing credit card payments, assisting with promotions and providing technical services for our Websites. These companies may have access to personal information if needed to perform such functions. However, these companies may only use such personal information for the purpose of performing that function and may not use it for any other purpose.
@@ -221,3 +222,20 @@ Email: [Click here](http://www.officeworks.com.au/contact-us "Contact Officework
   47. You accept that your use of this site includes your acceptance of this Privacy Policy and the Terms of Use.
 
 
+
+At or before the time the personal information is collected by us via a particular Collection Channel, we will take reasonable steps to provide you with a collection statement to ensure that you are made aware of who we are, the fact that you are able to gain access to the information held about you, the purpose of the collection, the type(s) of organisations to which we usually disclose the information collected about you, any laws requiring the collection of the information and the main consequences for you if all or part of the information is not collected. We will not collect or monitor any personal information about you without your consent, included as provided in this privacy policy.
+
+We take your privacy seriously at Officeworks. Read our[Privacy Policy](http://www.officeworks.com.au/information/policies/privacy-policy) for details, including why we collect your personal information and how we use it.
+
+We collect personal information that you provide directly to us, such as when you make a purchase, register for an account or enter a competition or promotion. This may include:
+
+  * your name;
+  * your contact details including your email address, delivery address, phone number and social media handles;
+  * more detailed contact preferences;
+  * information regarding your experiences with our products and services;
+  * employment and company information such as the name of your employer; and
+  * financial information including credit card and payment details.
+
+
+
+Financial information that is collected via the website is used by Officeworks to bill you for products and services. Any financial information that is collected is for the purpose of transaction approval and funds transfer. The financial information we collect from you is kept securely and held on secure servers in controlled facilities.
