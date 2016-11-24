@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eglobalcentral.co.uk privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624210023id_/http%3A//www.eglobalcentral.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eglobalcentral.co.uk privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124222350id_/http%3A//www.eglobalcentral.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
-# PRIVACY POLICY - eGlobal Central UK Reward Scheme
+# PRIVACY POLICY -
 
 Your privacy is important to us. This privacy statement provides information about the personal information that eglobal central collects, and the ways in which eglobal central uses that personal information. 
 
@@ -54,10 +54,14 @@ eglobal central may update this privacy policy by posting a new version on this 
 
 https://www.eglobalcentral.co.uk
 
-Privacy Policy Supervisor  
-eglobal central  
-P.O. Box 80800  
-Cheung Sha Wan Post Office  
+Privacy Policy Supervisor
+
+27/F., E - Trade Plaza,
+
+24 Lee Chung Street,
+
+Chai Wan,
+
 Hong Kong
 
 e-mail: support@eglobalcentral.co.uk
