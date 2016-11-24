@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesalefreeclassifiedads.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530190009id_/http%3A//www.wholesalefreeclassifiedads.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesalefreeclassifiedads.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124153757id_/http%3A//www.wholesalefreeclassifiedads.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
 # Wholesale Free Ads | Free Classified Ads | Wholesale Classifiedads | Post Classified Ads | Global Traders | B2B | Fashion
 
