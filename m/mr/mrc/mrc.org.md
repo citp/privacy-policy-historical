@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the mrc.org privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623061510id_/http%3A//www.mrc.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrc.org privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124164609id_/http%3A//www.mrc.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Media Research Center
 
-### Privacy Policy
-
-Effective Date: January 1, 2013.
+Effective Date: August 15, 2016.
 
 The Media Research Center (THE MRC or we) is the owner and operator of MRC.org (the Website), a multimedia news and commentary website.
 
@@ -60,10 +58,10 @@ Information We Collect Directly From You: THE MRC may collect certain types of p
 We may collect some or all of this information if you:
 
   * visit the Website, make inquiries through the Website or offline
-  * purchase products or services on the Website 
+  * purchase products or services on the Website
   * use our Website
   * share your e-mail address to subscribe to email newsletters
-  * post comments, messages, letters and the like on the Website 
+  * post comments, messages, letters and the like on the Website
   * participate in any surveys, contests, or sweepstakes sponsored by THE MRC
   * register for our Services
   * provide tips, comments or questions to us
@@ -76,7 +74,7 @@ We may collect some or all of this information if you:
 
 **B. Information Collected Automatically When Using Our Services**
 
-THE MRC and our third party service providers collect information automatically through the use of electronic tools such as web beacons, “cookies,” Flash, clickstream data, and other automated devices that are deployed on the Website. We and our third party service providers may collect the following information about your use of our Website via these technologies: your IP address; your browser type and operating system; web pages you view; links you click; your interaction with our Website; length of time you are logged into our Website; and websites visited before our Website. 
+THE MRC and our third party service providers collect information automatically through the use of electronic tools such as web beacons, “cookies,” Flash, clickstream data, and other automated devices that are deployed on the Website. We and our third party service providers may collect the following information about your use of our Website via these technologies: your IP address; your browser type and operating system; web pages you view; links you click; your interaction with our Website; length of time you are logged into our Website; and websites visited before our Website.
 
 **Web Beacons** – A web beacon is a type of picture file used on the Internet. Web beacons are used in combination with cookies to help monitor traffic at MRC.org and understand the ways in which users interact with content on the Website. Among other uses, we may use web beacons to count visitors to our Website or to monitor how our users navigate our Website. We may include web beacons in email messages to count how many of the messages that we sent were opened, acted upon, and forwarded. We use web beacons to compile aggregate statistics about our Services and our marketing campaigns.
 
@@ -95,7 +93,7 @@ THE MRC and our third party service providers collect information automatically 
 
 **Local Storage Objects** – We and our third party service providers may use Flash Local Storage Objects (“Flash LSOs”) to store your Website and Application preferences, to personalize your visit or to display content based upon what you view on our Website and Application. Flash LSOs are different from browser cookies because of the amount and type of data stored. In addition, you cannot control, delete or disable the acceptance of Flash LSOs through your browser. For more information on Flash LSOs, or to learn how to manage your settings for Flash cookies, go to the Adobe Flash Player Help Page, choose “Global Storage Settings Panel” and follow the instructions. To see the Flash LSOs currently on your computer, choose “Website Storage Settings Panel” and follow the instructions to review and, if you choose, to delete any specific Flash LSO.
 
-**Analytics**. We and our third party service providers conduct analytics of our Services to help us track and understand how visitors use our Services, using the technologies described in this section. For example, we use a variety of third party web analytics, to help us improve the performance and user experience of our Website and Application.
+**Analytics**. We and our third party service providers conduct analytics of our Services to help us track and understand how visitors use our Services, using the technologies described in this section. For example, we use a variety of third party web analytics, to help us improve the performance and user experience of our Website and Application.  Our primary service provider for web analytics is Google Analytics.  The MRC does not respond to "do not track" signals or other mechanisms that provide consumers with the ability to exercise choice regarding the collection of personally identifiable information and about the individuals consumer's on-line activities over time.
 
 **II. HOW DO WE USE YOUR INFORMATION?**
 
@@ -114,7 +112,7 @@ We use your information, including the personally identifiable information that 
 THE MRC may share personally identifiable information with others, such as:
 
   * Third Party Service Providers that provide services on our behalf. Examples of these services include, but are not limited to: technical support for the operation of our Services; Website evaluation and statistics; and fulfilling your orders for products and services made available through our Site;
-  * Law enforcement authorities, government agencies, courts, or other entities, when:
+  * Law enforcement authorities, government agencies, courts, or other entities, when: 
     * we believe in good faith that the law requires it
     * we deem it necessary or appropriate to provide such information
     * to otherwise protect our rights, other persons, or other users of our Services
@@ -162,10 +160,10 @@ Material – that is, really important – changes to the way we use or disclose
 
 **X. SPECIAL NOTICE TO CALIFORNIA CONSUMERS**
 
-California residents may request a list of all third parties to which The MRC has disclosed certain personally identifiable information about you for marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at: administrator @mrc.org or Privacy Request, The Media Research Center, 325 South Patrick Street, Alexandria, Virginia 22314.
+California residents may request a list of all third parties to which The MRC has disclosed certain personally identifiable information about you for marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at: administrator @mrc.org or Privacy Request, The Media Research Center, 1900 Campus Commons Drive, Reston, Virginia 20191.
 
 **XI. HOW TO CONTACT US**
 
 Questions and comments regarding this Privacy Policy, or to review and/or correct your personal information gathered by MRC, or to inform MRC that you do not want your information shared, should be directed to [administrator@mrc.org](mailto:administrator@mrc.org).
 
-Copyright (c) 2013, The Media Research Center
+Copyright (c) 2016, The Media Research Center
