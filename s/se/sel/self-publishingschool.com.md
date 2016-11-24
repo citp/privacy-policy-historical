@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the self-publishingschool.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618165055id_/http%3A//www.self-publishingschool.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the self-publishingschool.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124011558id_/http%3A//www.self-publishingschool.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Self-Publishing School Blog
 
@@ -61,7 +61,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 Self-PublishingSchool.com is dedicated to ensuring compliance with the Can-Spam Act, which took effect January 1, 2004. You may receive email from Self-PublishingSchool.com in the following circumstances:
 
-  * Acknowledging your application has been received and requesting additional action 
+  * Acknowledging your application has been received and requesting additional action
   * Requests for additional information to support your current application
   * Response to your inquiries regarding the status of your transactional requests
   * Thanking you for your valued business
