@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vendio.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618005932id_/http%3A//www.vendio.com/ecommerce/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vendio.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124202316id_/http%3A//www.vendio.com/ecommerce/terms/privacy) for the most accurate reproduction.*
 
 # Vendio Privacy Statement
 
