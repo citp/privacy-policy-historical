@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efile.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606195421id_/http%3A//www.efile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efile.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124045031id_/http%3A//www.efile.com/privacy-policy) for the most accurate reproduction.*
 
 # efile.com Privacy Policy, Tax Information Security, Tax Law
 
@@ -93,7 +93,7 @@ In addition to our Basic Service, we may send to you, via your e-mail address, i
 
 ## Consent to Use Information
 
-By using this web site, you consent to the terms of this Policy.
+**By using this web site (efile.com), you consent to the terms of this Policy.**
 
 Should the Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
 
@@ -127,10 +127,8 @@ eFile reserves the right to disclose your personally identifiable information as
 
 ## How to Contact Us
 
-Should you have other questions or concerns about this Privacy Policy, please submit your questions using our Customer Support Page or one of the methods below.
+Should you have other questions or concerns about this Privacy Policy, please submit your questions using our Customer Support website below.
 
 eFile LLC
 
-Email: [support@efile.com](mailto:support@efile.com) 
-
-Web site: [http://www.efile.com/contact/](http://www.efile.com/tax-service/contact/efile-contact/)
+Website: [http://www.efile.com/contact/](http://www.efile.com/tax-service/contact/efile-contact/)
