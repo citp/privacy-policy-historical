@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lebara-mobile.co.uk privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624151112id_/http%3A//www.lebara.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lebara-mobile.co.uk privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124193128id_/http%3A//www.lebara.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Free SIM cards | Free pay as you go SIM cards & deals | Lebara
 
