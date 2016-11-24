@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the oklahoman.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515091617id_/http%3A//www.oklahoman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oklahoman.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124123340id_/http%3A//www.oklahoman.com/privacy-policy) for the most accurate reproduction.*
 
 # The Oklahoman - Privacy Policy
 
-## General Overview
+## **General Overview**
 
 This website (" **Site** ") or mobile application (" **App** ") is one of several Sites and Apps operated by The Oklahoma Publishing Company, its subsidiaries, affiliates and related companies ("OPUBCO" or "we"). The purpose of this privacy policy ("Privacy Policy") is to disclose what information we may collect from you when you use the Sites and Apps listed in our [Terms of Use](https://web.archive.org/terms-of-use) (collectively, the "Digital Services"), how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
@@ -106,4 +106,4 @@ If your personally-identifiable information changes, some of our Digital Service
 
 If you have any questions about this Privacy Policy, the practices of this Digital Service, your experience with this Digital Service, or if you wish to make changes or delete the personal information we have on file for you, please contact: OPUBCO, Attn: Legal, P.O. Box 25125, Oklahoma City, OK 73125 or email at [legal@OPUBCO.com](mailto:legal@OPUBCO.com). 
 
-Effective Date of this Privacy Policy: October 27 2014.
+_Effective Date of this Privacy Policy: October 27, 2014._
