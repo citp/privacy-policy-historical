@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corporateinformation.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408002453id_/http%3A//www.corporateinformation.com/About-Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corporateinformation.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124031557id_/http%3A//corporateinformation.com/About-Privacy.aspx) for the most accurate reproduction.*
 
 # CorporateInformation.com - Privacy Policy
 
@@ -32,4 +32,4 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 Changes
 
-From time to time, CorporateInformation.com may change this privacy policy.  To keep up-to-date on any changes, please check this site periodically.  If at any time you have a question about this privacy policy, please [ Contact Us](https://web.archive.org/web/20160408002453id_/http%3A//www.corporateinformation.com/Contact-Feedback.aspx) with your request.
+From time to time, CorporateInformation.com may change this privacy policy.  To keep up-to-date on any changes, please check this site periodically.  If at any time you have a question about this privacy policy, please [ Contact Us](https://web.archive.org/web/20161124031557id_/http%3A//corporateinformation.com/Contact-Feedback.aspx) with your request.
