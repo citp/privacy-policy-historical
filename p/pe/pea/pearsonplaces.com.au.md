@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearsonplaces.com.au privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603032143id_/http%3A//www.pearson.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonplaces.com.au privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124024903id_/http%3A//www.pearson.com.au/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -57,13 +57,13 @@ We may collect your personal information when you request, acquire or use a prod
 
 If, at any time, you provide personal or other information about someone other than yourself, you must have that person's consent to provide such information for the purpose for which you provide it to us.
 
-### Why we collect it
+###  Why we collect it
 
 The primary purpose for which we collect information about you is to conduct our business, provide and market our products and services to you, meet our legal or regulatory obligations, and also for the management of business transactions entered into with us and the administration of any accounts you have with us, and for the purposes of our research projects in which you participate or wish to participate (including data analysis purposes under our research projects and assessment of your eligibility to participate in our research projects). We may state a more specific purpose at the point we collect your information (including but not limited to any law that requires or authorises the particular information to be collected).
 
 If you do not provide us with all or some of the information that we request, we may not be able to provide you with our products or services or include you as a participant in our research projects. For example, if you do not register as a member of a website, you will not be able to access features or services that are reserved for members or subscribers only.
 
-### How we use it
+###  How we use it
 
 In addition to the primary purpose outlined above, we may use the personal information we collect, and you consent to us using your personal information:
 
@@ -102,7 +102,7 @@ Some of these third parties to which we may disclose your personal information m
 
 We hereby expressly inform you that if you consent to the disclosure of personal information about you by us to a third party who is not in Australia or an external Territory, subclause 8.1 of the Privacy Act 1988 (Cth) will not apply to the disclosure. After being so informed, you hereby consent to the disclosure.
 
-### Opting in or out
+###  Opting in or out
 
 At the point we collect information from you, you may be asked to "opt in" to consent to us using or disclosing your personal information for purposes other than those that are expressly stated in this Privacy Policy. For example, you may be asked to opt-in to receive further information or communications from our advertisers or supporters.
 
@@ -110,7 +110,7 @@ You will be given the opportunity to "opt out" from receiving communications fro
 
 You may also opt-out of Google Analytics and customise your Google Display Network ads by using the Ads Settings. You can also access Google Analytics' currently available opt-outs for the web.
 
-### How we hold it \- management and security
+###  How we hold it - management and security
 
 We have appointed a Privacy Officer to oversee the management of personal information in accordance with this Privacy Policy, the Privacy Act and other applicable privacy laws.
 
@@ -120,7 +120,7 @@ However, you acknowledge that the security of online transactions and the securi
 
 If you suspect any misuse, interference or loss, or unauthorised access, modification or disclosure in respect of your personal information, or any other privacy breach please let us know immediately.
 
-### Accessing and updating or correcting your information and how to submit a complaint
+###  Accessing and updating or correcting your information and how to submit a complaint
 
 Subject to the exceptions set out in the Privacy Act and other applicable privacy laws, you may request to access, update or correct the personal information we hold about you. We will require you to verify your identity and to specify the information that you wish to access, update or correct. A fee may be charged for providing access however we will advise you of the likely cost in advance.
 
