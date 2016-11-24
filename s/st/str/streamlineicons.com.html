@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the streamlineicons.com privacy policy that was archived on 2016-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160607164421id_/http%3A//www.streamlineicons.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the streamlineicons.com privacy policy that was archived on 2016-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161124095637id_/http%3A//www.streamlineicons.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <title>Privacy Policy - Streamline Icons</title>
     <meta name="description" content="Privacy Policy">
-    <meta name="viewport" content="initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" href="https://plus.google.com/107110380596437473496/posts">
     <meta charset="utf-8">
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
@@ -12,23 +12,27 @@
     <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//use.typekit.net/cwe4rtg.js"></script>
     <script>try{Typekit.load();}catch(e){}</script>
     <!-- Styles -->
-    <link rel="stylesheet" href="css/style.css"><script src="js/lazysizes.min.js" async=""></script>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/bootstrap-responsive.min.css"><script src="js/lazysizes.min.js" async=""></script>
   </head>
   <body>
     <div class="container-menu-webalys">
       <div class="container">
         <div class="row menu">
-          <div class="span10"><a href="http://www.streamlineicons.com">IOS Icons</a><a href="http://www.webalys.com/nova">
-               
-              Material Design Icons <span class="new">NEW</span></a><a href="http://www.kameleon.pics">Flat Icons 		</a><a href="http://www.nastyicons.com">Nasty Icons</a><a href="http://www.ego-icons.com">Angular Icons </a><a href="http://www.webalys.com/freebies.html">Freebies</a></div>
-          <div class="span2"><a href="http://www.webalys.com"> <img src="http://www.webalys.com/img/logo-webalys-subtle.svg" width="80" height="14"></a></div>
+          <div class="span10"><a href="http://www.streamlineicons.com">IOS Icons</a><a href="http://www.webalys.com/nova">Material Design Icons<span class="new">NEW</span></a><a href="http://www.kameleon.pics">Flat Icons</a><a href="http://www.ego-icons.com">Angular Icons</a><a href="http://www.webalys.com/freebies.html">Freebies</a>
+          </div>
+          <div class="span2"><a href="http://www.webalys.com"><img src="http://www.webalys.com/img/logo-webalys-subtle.svg" width="80" height="14"></a></div>
+          <!-- Hamburger menu is visible if viewport is less than orequal to 767px - added by TK-->
+          <div class="hamburger"><a>☰</a></div>
         </div>
       </div>
     </div>
-    <div class="menu-pages"> 
+    <!-- Hamburger menu is visible if viewport is less than orequal to 767px - added by TK-->
+    <div id="menu">
+      <div class="hamburger clearfix"><a href="index.html" class="logo"><img src="img/logo-streamline.svg" alt="Logo"></a><a class="button">☰</a></div>
       <div class="container">
-        <div class="row">  
-          <div class="span12"><a href="index.html">Home</a><a href="free-icons.html"> Download Free Pack              </a><a href="index.html#download">  Buy Full Pack</a><a href="preview.html">Essential Pack                                       </a><a href="preview-ultimate.html">Ultimate Pack                                       </a><a href="license.html">License</a><a href="license-extended.html">Extended License    </a></div>
+        <div class="row">       
+          <div class="span12"><a href="index.html">Home</a><a href="free-icons.html">Download Free Pack              </a><a href="index.html#download">Buy Full Pack</a><a href="preview.html">Essential Pack                                       </a><a href="preview-ultimate.html">Ultimate Pack                                       </a><a href="license.html">License</a><a href="license-extended.html">Extended License</a></div>
         </div>
       </div>
     </div>
@@ -85,63 +89,60 @@
             <p class="tiny uppercase"> <a href="refund-policy.html">Refund Policy  </a>&nbsp; - &nbsp; <a href="privacy-policy.html">Privacy Policy</a>&nbsp; - &nbsp; <a href="affiliates.html">Affiliates </a>&nbsp; - &nbsp; <a href="contact.html">Contact Us</a></p><br><br>
             <p class="tiny uppercase">
                
-              © Webalys 2016. Webalys Limited - Langham Place Office Tower. 8, Argyle Street. Kowloon. Hong Kong
+              © Webalys 2016. Webalys LLC - EXETER, NEW HAMPSHIRE. USA
             </p>
           </div>
         </div>
       </div>
-    </div>
-
-
-<!-- JQuery -->
+    </div><!-- jQuery -->
 <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 
 
-
-
-
-
-<!-- Smooth Scroll -->
 <script type="text/javascript">
-$(function() {
-  $('a[href*=#]:not([href=#])').click(function() {
-    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
-      var target = $(this.hash);
-      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-      if (target.length) {
-        $('html,body').animate({
-          scrollTop: target.offset().top
-        }, 800);
-        return false;
-      }
-    }
-  });
-});
-</script>   
+    (function($) {
+        $(function() {
 
+            // Smooth Scrol
+            $('a[href*=#]:not([href=#])').click(function() {
+                if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+                    var target = $(this.hash);
+                    target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+                    if (target.length) {
+                        $('html,body').animate({
+                            scrollTop: target.offset().top
+                        }, 800);
+                        return false;
+                    }
+                }
+            });
 
+            // Toggle menus when click & close menus when start scrolling -- added by TK
+            $('.hamburger').on('click', function() {
+                $(this).parent().toggleClass('is-active');
+            });
 
-
-<!-- Google Analytics -->    
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-15651803-15', 'auto', {'allowLinker': true});
-  ga('require', 'linker');
-  ga('linker:autoLink', ['dpdcart.com']);
-  ga('require', 'displayfeatures');
-  ga('send', 'pageview');
+            $(window).on('scroll', function() {
+                $('#menu, .menu').removeClass('is-active');
+            });
+            
+        });
+    }(jQuery));
 </script>
 
 
+<!-- Google Analytics -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-
-
-
-
+    ga('create', 'UA-15651803-15', 'auto', {'allowLinker': true});
+    ga('require', 'linker');
+    ga('linker:autoLink', ['dpdcart.com']);
+    ga('require', 'displayfeatures');
+    ga('send', 'pageview');
+</script>
 
   
 </body></html>
