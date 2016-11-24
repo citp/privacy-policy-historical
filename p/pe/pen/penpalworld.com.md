@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penpalworld.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601172755id_/http%3A//www.penpalworld.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penpalworld.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124142719id_/http%3A//www.penpalworld.com/privacy.asp) for the most accurate reproduction.*
 
 # Our Privacy Policy - PenPal World
 
@@ -95,6 +95,6 @@ This action will cancel your membership and delete your details from the system,
 
  **How do I contact you?** top
 
-If you have any questions about PenPal World's privacy statement, the practices of this website or your dealings with this website, you can contact PenPal World via the [support page](https://web.archive.org/web/20160601172755id_/http%3A//www.penpalworld.com/support.asp).
+If you have any questions about PenPal World's privacy statement, the practices of this website or your dealings with this website, you can contact PenPal World via the [support page](https://web.archive.org/web/20161124142719id_/http%3A//www.penpalworld.com/support.asp).
 
 This document was last modified on February 2, 2012
