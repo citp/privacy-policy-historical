@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freesiteworth.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418192605id_/http%3A//www.freesiteworth.com/website-worth/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesiteworth.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124064911id_/http%3A//www.freesiteworth.com/website-worth/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,7 +54,7 @@ We may also use your data to inform you and provide information on goods and ser
 
 If you do not want your data used in this way or passed onto third parties for marketing purposes please tick the relevant box on the form in which we collect your data.
 
-[We do not disclose information which will identify individuals to our advertisers.  We may however provide them with collective information about our users.  We may also use collective data to help our advertisers reach their target audience.  The data collected may also be used by us in order to comply with our advertiserâ€™s wishes in displaying their advertisement to their target audience.
+[We do not disclose information which will identify individuals to our advertisers.  We may however provide them with collective information about our users.  We may also use collective data to help our advertisers reach their target audience.  The data collected may also be used by us in order to comply with our advertiserÃ¢â‚¬â„¢s wishes in displaying their advertisement to their target audience.
 
 DISCLOSURE OF YOUR INFORMATION
 
