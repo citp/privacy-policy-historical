@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cruisingworld.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614044159id_/http%3A//www.cruisingworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisingworld.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124045843id_/http%3A//www.cruisingworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cruising World
-
-**Bonnier Corporation Privacy Policy**
 
 _This policy was last updated on April 13, 2015._
 
@@ -35,7 +33,7 @@ At some Bonnier sites and through certain promotions, you can submit personall
 
 In some circumstances, we also collect non-personally-identifying information.  When you visit a Bonnier website, we may collect information such as the type of browser you use, your operating system, your IP address, and the domain name of your Internet Service Provider.  This information, by itself, does not permit individual identification, meaning that you will remain anonymous.  However, if you elect to provide us with personally-identifying information during your visit, that information may be linked to your IP address.
 
-When you visit our websites, we may send one or more cookies ¿ small, removable data files ¿ to your computer.  We use cookies to uniquely identify your browser, which allows us to enhance and personalize your online experience at Bonnier websites.  For example, cookies allow us to recognize you when you return to a website and present relevant content to you when you visit.  Most browsers are initially set up to accept cookies, but you can configure your browser to warn you when cookies are sent, or to refuse all cookies.  Some of the features and services of Bonnier websites may not operate properly if your cookies are disabled.  Cookies, by themselves, do not provide us with any personally-identifying information.
+When you visit our websites, we may send one or more cookies (small, removable data files) to your computer.  We use cookies to uniquely identify your browser, which allows us to enhance and personalize your online experience at Bonnier websites.  For example, cookies allow us to recognize you when you return to a website and present relevant content to you when you visit.  Most browsers are initially set up to accept cookies, but you can configure your browser to warn you when cookies are sent, or to refuse all cookies.  Some of the features and services of Bonnier websites may not operate properly if your cookies are disabled.  Cookies, by themselves, do not provide us with any personally-identifying information.
 
 On our websites, we may also use tiny graphic images called pixel tags, web beacons, or clear gifs.  These tiny images help us to analyze our users’ online behavior and collect other data, such as page views or advertising responses.  Pixel tags also allow us to send you e-mail in a format that you can read, and let us know when you have opened an e-mail message from us.  Pixel tags may also be used to deliver cookies.  Some of our websites also use third-party advertising companies to serve ads when you visit. These companies may use non-personally-identifying information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
