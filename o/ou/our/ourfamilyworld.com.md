@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourfamilyworld.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519034733id_/http%3A//www.ourfamilyworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourfamilyworld.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124064311id_/http%3A//www.ourfamilyworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Our Family World
 
