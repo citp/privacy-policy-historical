@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixsenses.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324093009id_/http%3A//www.sixsenses.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixsenses.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124081600id_/http%3A//www.sixsenses.com/privacy) for the most accurate reproduction.*
 
 # Luxury Spa Hotels, Five Star Resort - Six Senses Privacy Policy
 
