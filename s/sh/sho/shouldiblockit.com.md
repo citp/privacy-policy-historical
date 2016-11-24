@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shouldiblockit.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608013218id_/http%3A//shouldiblockit.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shouldiblockit.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124053836id_/http%3A//shouldiblockit.com/privacy.aspx) for the most accurate reproduction.*
 
 # Should I Block It?
 
@@ -14,7 +14,7 @@ This Policy describes the information that is collected in relation to your use 
 
 ### 1\. Applicability and Acceptance of Policy
 
-This Policy shall apply to your use of the Site and/or the Services as of the moment you first access the Site and commence use of any of the Services. By accessing, browsing or using the Site and/or any of the Services you irrevocably and unconditionally accept and adhere to provisions of this Policy without any exemptions, limitations and exclusions. For the avoidance of any doubts, this Policy shall apply to Services specifically identified in Terms ([www.shouldiblockit.com/terms.aspx](https://web.archive.org/web/20160608013218id_/http%3A//shouldiblockit.com/www.shouldiblockit.com/terms.aspx)).
+This Policy shall apply to your use of the Site and/or the Services as of the moment you first access the Site and commence use of any of the Services. By accessing, browsing or using the Site and/or any of the Services you irrevocably and unconditionally accept and adhere to provisions of this Policy without any exemptions, limitations and exclusions. For the avoidance of any doubts, this Policy shall apply to Services specifically identified in Terms ([www.shouldiblockit.com/terms.aspx](https://web.archive.org/web/20161124053836id_/http%3A//shouldiblockit.com/www.shouldiblockit.com/terms.aspx)).
 
 In the event you disagree with any provision of the Policy or would not like to provide your consent for collection of Data please cease use the Site or any of the Services immediately.
 
