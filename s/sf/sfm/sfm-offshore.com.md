@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the sfm-offshore.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402012343id_/http%3A//www.sfm-offshore.com/confidentiality.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfm-offshore.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124142913id_/http%3A//www.sfm-offshore.com/confidentiality.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Effective Date : 15/04/2015 
 
-This privacy policy applies to [http://www.sfm-offshore.com](http://www.sfm-offshore.com/index.html), owned and operated by SFM Corporate Services (“SFM”, “We”, “Us”) This privacy policy describes how SFM collects and uses the personal information you provide on our website. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
-
-SFM Corporate Services has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this website [http://www.sfm-offshore.com](http://www.sfm-offshore.com/index.html). It does not cover information collected on the foreign-language domains owned and operated by SFM Corporate Services. It also does not cover information that may be collected offline. 
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. 
+This privacy policy applies to [http://www.sfm-offshore.com](https://web.archive.org/), owned and operated by SFM Corporate Services (“SFM”, “We”, “Us”) This privacy policy describes how SFM collects and uses the personal information you provide on our website. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 ## 1\. Information Collection and Use
 
@@ -18,7 +14,9 @@ We collect the following personal information from you:
   * Billing Information, such as credit card number and billing address.
   * Information about your business, such as company name, address, business type.
 
-We may collect the personal information of third parties when you add the names of shareholders or beneficiaries on our order forms. Collection of third party personally identifiable information may be necessary to process and register your order for certain products or services. We will not use this information for any other commercial purpose. These third parties may contact us at [ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy7736%20=%20'info'%20+%20'@';%20addy7736%20=%20addy7736%20+%20'sfm-offshore'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy7736%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy7736%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[info@sfm-offshore.com](mailto:info@sfm-offshore.com) to request that we remove this information from our database. 
+
+
+We may collect the personal information of third parties when you add the names of shareholders or beneficiaries on our order forms. Collection of third party personally identifiable information may be necessary to process and register your order for certain products or services. We will not use this information for any other commercial purpose. These third parties may contact us at [info@sfm-offshore.com ](mailto:info@sfm-offshore.com)to request that we remove this information from our database. 
 
 We use this information to: 
 
@@ -43,7 +41,7 @@ We may provide your personal information to companies that provide services to h
 
 ### Frames
 
-Some of our pages utilise framing techniques to serve content to from our service providers (such as a payment processor) while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to [http://www.sfm-offshore.com](http://www.sfm-offshore.com/index.html). 
+Some of our pages utilise framing techniques to serve content to from our service providers (such as a payment processor) while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to [http://www.sfm-offshore.com](https://web.archive.org/). 
 
 ### Legal Disclaimer
 
@@ -58,13 +56,13 @@ We may also disclose your personal information:
 
 ## 3\. User Access and Choice
 
-If your personal information changes, you may correct, update, amend or delete it by emailing our Customer Support at [ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy94520%20=%20'info'%20+%20'@';%20addy94520%20=%20addy94520%20+%20'sfm-offshore'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy94520%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy94520%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[info@sfm-offshore.com](mailto:info@sfm-offshore.com) or by contacting us by telephone or postal mail at the contact information listed below or on the [Contact Us](http://www.sfm-offshore.com/contact-offshorecompanymanagementspecialists.html) page. We will respond to your request within 30 days. If you have a Corporate Service Officer assigned, please contact him/her in priority. 
+If your personal information changes, you may correct, update, amend or delete it by emailing our Customer Support at [ info@sfm-offshore.com ](mailto:info@sfm-offshore.com)or by contacting us by telephone or postal mail at the contact information listed below or on the [Contact Us](https://web.archive.org/web/20161124142913id_/http%3A//www.sfm-offshore.com/contact-offshorecompanymanagementspecialists.html) page. We will respond to your request within 30 days. If you have a Corporate Service Officer assigned, please contact him/her in priority. 
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will also retain and use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements. If you request that we delete your personal information, we will notify you if we are unable to do so and why. 
 
 ### Opt-out Preferences
 
-If you wish to subscribe to our newsletter on the main site or when you become an SFM customer, we will use your name and email address to send you non-transactional, promotional emails from time to time. Out of respect for your privacy, you may choose to stop receiving these emails by following the unsubscribe instructions included in these emails or you can [contact us](http://www.sfm-offshore.com/contact-offshorecompanymanagementspecialists.html). 
+If you wish to subscribe to our newsletter on the main site or when you become an SFM customer, we will use your name and email address to send you non-transactional, promotional emails from time to time. Out of respect for your privacy, you may choose to stop receiving these emails by following the unsubscribe instructions included in these emails or you can [contact us](https://web.archive.org/web/20161124142913id_/http%3A//www.sfm-offshore.com/contact-offshorecompanymanagementspecialists.html). 
 
 ## 4\. Tracking Technologies / Cookies
 
@@ -87,7 +85,7 @@ Please note this does not opt you out of being served ads.  You will continue t
 ## 5\. Security
 
 The security of your personal information is important to us. When you enter sensitive information (such as credit card, bank account or proprietary business information) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).   
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at [ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy64981%20=%20'info'%20+%20'@';%20addy64981%20=%20addy64981%20+%20'sfm-offshore'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy64981%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy64981%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[info@sfm-offshore.com](mailto:info@sfm-offshore.com). 
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at [info@sfm-offshore.com](mailto:info@sfm-offshore.com). 
 
 ## 6\. Additional Information
 
@@ -114,4 +112,4 @@ SFM Corporate Services SA
 1201 Geneva 
 
 +41 22 311 03 83   
-[ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy32710%20=%20'info'%20+%20'@';%20addy32710%20=%20addy32710%20+%20'sfm-offshore'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy32710%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy32710%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[info@sfm-offshore.com](mailto:info@sfm-offshore.com)
+[info@sfm-offshore.com ](mailto:info@sfm-offshore.com)
