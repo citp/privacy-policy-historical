@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homesandproperty.co.uk privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514103647id_/http%3A//www.homesandproperty.co.uk/Service/privacy-policy-a93341.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesandproperty.co.uk privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124094553id_/http%3A//www.homesandproperty.co.uk/Service/privacy-policy-a93341.html) for the most accurate reproduction.*
 
-# Privacy Policy | Service | Homes and Property
+# Privacy Policy | Homes and Property
 
 **Please read this carefully**
 
@@ -115,7 +115,7 @@ You can email [homesandproperty@standard.co.uk](http://homesandproperty@standar
 
 **Message boards, blogs and other public forums**
 
-The Website makes videos, blogs and other such user generated content facilities, such as comments, available to users of the Website and registered users can provide content for and participate in these facilities. Any information that is disclosed in these areas of our Website becomes public information and you should always be careful when deciding to disclose your personal information. For more information, please click on the Website’s terms of use and community guidelines. 
+The Website makes videos, blogs and other such user generated content facilities, such as comments, available to users of the Website and registered users can provide content for and participate in these facilities. Any information that is disclosed in these areas of our Website becomes public information and you should always be careful when deciding to disclose your personal information. For more information, please click on the Website’s terms of use and [community guidelines](https://web.archive.org/Service/community-guidelines-a103066.html). 
 
 **Email a friend and share this article facilities**
 
@@ -131,17 +131,21 @@ If you want further information, or wish to communicate with us about this priva
 
 **More HomesandProperty.co.uk policies:**
 
-  * **[Community guidelines](http://www.homesandproperty.co.uk/content/community-guidelines)**
+  * **[Community guidelines](https://web.archive.org/Service/community-guidelines-a103066.html)**
   * **[Terms of use](http://www.homesandproperty.co.uk/content/terms-use)**
   * **[Cookie policy](http://www.homesandproperty.co.uk/content/cookie-policy)**
   * **[Privacy policy](http://www.homesandproperty.co.uk/content/privacy-policy)**
-  * **[Promotions rules](http://www.homesandproperty.co.uk/content/promotions-rules)**
+  * **[Promotions rules](https://web.archive.org/Service/promotion-rules-a103071.html)**
   * **[User commitment](http://www.homesandproperty.co.uk/content/homesandpropertycouk-user-commitment)**
   * **[Contact us](http://www.homesandproperty.co.uk/contact-us)**
 
 
+  *  
 
-[](https://web.archive.org/profile?property) Get the latest property news with our [weekly newsletter](https://web.archive.org/profile?property)  
+
+
+[](https://web.archive.org/profile?icn=_HNP_UAS)
+
 Follow us on Twitter [@HomesProperty](https://twitter.com/HomesProperty) and [Facebook](https://www.facebook.com/ESHomesAndProperty/)
 
   * More about: 
