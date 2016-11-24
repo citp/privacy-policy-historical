@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ourstage.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618170237id_/http%3A//ourstage.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourstage.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124140856id_/http%3A//ourstage.com/about/privacy) for the most accurate reproduction.*
 
-# OurStage Cookies and Privacy Policy
+# OurStage | OurStage Cookies and Privacy Policy
 
 This Privacy Policy describes the information collection and use procedures at this website, located at OurStage.com ("Site"), operated on behalf of the Amazing Media Group Ltd. This notice describes our online information collection and use practices at this Site.
 
