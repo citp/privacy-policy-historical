@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the vitaminworld.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607171324id_/http%3A//www.vitaminworld.com/privacy-policy/privacy-policy.html%3Ficid%3Dros-_-footer-_-privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitaminworld.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124035216id_/http%3A//www.vitaminworld.com/privacy-policy.html%3Ficid%3Dros-_-footer-_-privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Vitamin World
 
-Last Updated: August 2015
+Last Updated: June 2016
 
 Your Privacy Rights
 
-This privacy policy describes how Vitamin World, a wholly owned subsidiary of NBTY, Inc. (the “Company”, “we”, “us”, “Vitamin World”) collects and uses the personal information you provide on web sites and services which link to this privacy policy (“Services”). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. Please take a moment to review the terms of our Privacy Policy. Unless we indicate otherwise, this Privacy Policy applies only to information that we collect through the Services. It does not apply to information that we collect by other means.
-
-Vitamin World has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. Please click [here](http://www.truste.com/about-TRUSTe/contact-us) for fax and postal mail information.
-
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
-
-NBTY, Inc. complies with the U.S. – E.U. and U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland.  NBTY, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view NBTY, Inc.’s certification, please visit http://www.export.gov/safeharbor.
+This privacy policy describes how Vitamin World, collects and uses the personal information you provide on web sites and services which link to this privacy policy (“Services”). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. Please take a moment to review the terms of our Privacy Policy. Unless we indicate otherwise, this Privacy Policy applies only to information that we collect through the Services. By visiting Our Site or using the Services, you accept the terms of this Privacy Policy. 
 
 **_Personal Information We Collect From You Directly_**
 
@@ -34,7 +28,7 @@ We also may collect information about you from other sources, including from soc
 
 **__Log Files__**
 
-We also may collect certain information by automated means when you use our Services, including your internet protocol ("IP") address; information about your web browser software and version; if you arrived at the Services through a link from a third-party website, the uniform resource locater ("URL") of the linking page; your mobile device identifier and other information about devices you use to access the Services; and information about your activity while using the Services, such as which pages you choose to view, queries you make using our "search" function, and other information about your account usage.
+We also may collect certain information by automated means when you visit Our Site use our Services, including your internet protocol ("IP") address; information about your web browser software and version; if you arrived at Our Site the Services through a link from a third-party website, the uniform resource locater ("URL") of the linking page; your mobile device identifier and other information about devices you use to access Our Site or the Services; and information about your activity while visiting Our Site and using the Services, such as which pages you choose to view, queries you make using our "search" function, and other information about your account usage.
 
 We do not link this automatically collected data to other information we collect about you.
 
@@ -48,9 +42,7 @@ We use Local Storage Objects (LSOs) such as HTML5 to store content information a
 
 **Advertising**
 
-We partner with third party ad networks to either display advertising on our web site or to manage our advertising on other sites. Our ad network partners use cookies and web beacons to collect non-personally identifiable information about your activities on this and other web sites to provide you targeted advertising based upon your interests.
-
-If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://www.aboutads.info/choices/). You may also use TRUSTe’s preferences manager located [here](http://preferences-mgr.truste.com/). Customers from the European Union may alter their advertising preferences [here](http://www.youronlinechoices.com/uk/your-ad-choices). Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+California law requires Our Site to disclose whether or not you recognize and honor user browsers signals to not be tracked. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://www.aboutads.info/choices/). Customers from the European Union may alter their advertising preferences [here](http://www.youronlinechoices.com/uk/your-ad-choices). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 **__How We Use the Information We Collect About You__**
 
@@ -123,7 +115,7 @@ We reserve the right to modify the Privacy Policy at any time. If we do this, we
 
 **_Children's Privacy_**
 
-Our Services are not directed to persons under the age of 18. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us via the contact details listed below. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+Our Services are not directed to and not intended for persons under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us via the contact details listed below. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
 
 **_How to Contact Us  _**
 
@@ -133,5 +125,5 @@ Email: [privacy@vitaminworld.com](mailto:privacy@vitaminworld.com)
 
 Mail: Vitamin World, Inc.  
 Legal Department   
-2100 Smithtown Avenue   
-Ronkonkoma, New York 11779 
+4320 Veterans Memorial Hwy   
+Holbrook, New York 11741 
