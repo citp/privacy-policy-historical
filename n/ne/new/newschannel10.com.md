@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newschannel10.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603044754id_/http%3A//www.newschannel10.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newschannel10.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124054539id_/http%3A//www.newschannel10.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KFDA - NewsChannel 10 / Amarillo News, Weather, Sports
 
