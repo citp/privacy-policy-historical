@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mutualofomahabank.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610151131id_/http%3A//www.mutualofomahabank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mutualofomahabank.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124195445id_/http%3A//mutualofomahabank.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mutual of Omaha Bank
 
@@ -7,7 +7,7 @@ On-Line Privacy Policy**
 
 Mutual of Omaha Bank (“Mutual of Omaha”) respects the privacy of visitors of mutualofomahabank.com, mutualofomahaebank.com and all sites linking to this On-Line Privacy Policy (“Policy”) (collectively “sites”). This Policy explains how Mutual of Omaha collects, uses and shares information about you from our sites and the choices that you can make about the way your information is collected, used and shared. Mutual of Omaha encourages you to read this Policy and those of all web sites you visit.In addition to this Policy, Mutual of Omaha’s written Consumer Privacy Notice further describes how we handle your personal information (defined below) shared with us, such as when you apply for or purchase our services. If you would like to view this Privacy Notice, please click on the link below: 
 
-  * [](https://web.archive.org/~/media/files/master%20privacy%20notice_%2010-23-14.pdf)[](https://web.archive.org/~/media/files/master%20privacy%20notice%20_10-23-14.htm)[](https://web.archive.org/~/media/files/master%20privacy%20notice_%2010-23-14.pdf)[Consumer Privacy Notice ](https://web.archive.org/~/media/files/master%20privacy%20notice_%203-4-16.pdf)
+  * [Consumer Privacy Notice ](https://web.archive.org/~/media/files/master%20privacy%20notice_%203-4-16.pdf)
 
 
 
