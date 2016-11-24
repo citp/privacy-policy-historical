@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 8051projects.info privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613083545id_/http%3A//www.8051projects.info/pages/Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8051projects.info privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124012748id_/http%3A//www.8051projects.info/pages/Privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy of 8051projects.info | Free Microcontroller Projects - 8051-AVR-PIC
 
-[](https://web.archive.org/web/20160613083545id_/http://www.8051projects.info/pages/Privacy_policy/misc/quick-navigation-menu?selected=node-48 "Open quick navigation")
+[](https://web.archive.org/web/20161124012748id_/http://www.8051projects.info/pages/Privacy_policy/misc/quick-navigation-menu?selected=node-48 "Open quick navigation")
 
 **Free Microcontroller Projects - 8051-AVR-PIC**
 
@@ -60,7 +60,7 @@ The search box on this website (Search Box) is powered by Google Inc (Google). Y
 If you do not agree to 8051projects.info Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.  
 Your use of this site indicates acceptance of this privacy policy.
 
-[](https://web.archive.org/web/20160613083545id_/http://www.8051projects.info/pages/Privacy_policy/misc/quick-navigation-menu?selected=node-48 "Open quick navigation")
+[](https://web.archive.org/web/20161124012748id_/http://www.8051projects.info/pages/Privacy_policy/misc/quick-navigation-menu?selected=node-48 "Open quick navigation")
 
 **Free Microcontroller Projects - 8051-AVR-PIC**
 
