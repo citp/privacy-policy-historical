@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codetounlock.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601002628id_/http%3A//www.codetounlock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codetounlock.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124034125id_/http%3A//codetounlock.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CodeToUnlock
 
