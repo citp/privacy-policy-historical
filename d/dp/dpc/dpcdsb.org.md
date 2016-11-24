@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the dpcdsb.org privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415152007id_/http%3A//www.dpcdsb.org/CEC/Admin/Contact/Privacy%2BPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dpcdsb.org privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124150609id_/http%3A//www3.dpcdsb.org/admin/privacy-policy) for the most accurate reproduction.*
 
-# Dufferin-Peel Catholic District School Board - Contact - Privacy Policy
-
-[Skip navigation](http://www.dpcdsb.org/DufferinPeelWeb/Templates/Board%20Level/General%20Postings/GeneralASPX.aspx?NRMODE=Published&NRNODEGUID=%7b36028FC4-D729-43A9-A4CF-722EF271F113%7d&NRORIGINALURL=%2fCEC%2fAdmin%2fContact%2fPrivacy%2bPolicy%2ehtm&NRCACHEHINT=Guest#skip-content)
-
-[](http://www.dpcdsb.org/cec)
-
-
-
-
-Extraordinary Lives Start With a Great Catholic Education
+# Privacy Policy
 
 * * *
 
@@ -23,3 +14,5 @@ If you choose not to use the Internet to provide personal information to the Boa
 
 Some of our Web sites link to other sites created and maintained by other public and/or private sector organizations. We provide these links solely for your information and convenience. When you link to an outside Web site, you are leaving the Dufferin-Peel Catholic District School Board web site and our information management policies no longer apply.  
 
+
+[](http://www.addthis.com/bookmark.php)
