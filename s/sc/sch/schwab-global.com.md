@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the schwab-global.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630053546id_/http%3A//international.schwab.com/public/international/nn/legal_compliance/privacy_and_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schwab-global.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124165547id_/http%3A//international.schwab.com/public/international/nn/legal_compliance/privacy_and_security.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
 #### A commitment to your privacy
 
-[View this notice in PDF format](http://international.schwab.com/public/file?cmsid=P-8708267&cv3)
+[View this notice in PDF format](http://international.schwab.com/public/file?cmsid=P-8708267&cv4)
 
-Rev. July 2015
+Rev. July 2016
 
 ### FACTS
 
@@ -67,7 +67,7 @@ Definitions
 **Affiliates** | Companies related by common ownership or control. They can be financial and nonfinancial companies.   
 
 
-  * _Our affiliates include companies with a Charles Schwab name; financial companies such as: Charles Schwab & Co., Inc., Charles Schwab Bank, optionsXpress, Inc., ThomasPartners, Inc.,  Windhaven Investment Management, Inc., and nonfinancial companies such as Schwab Performance Technologies, and Compliance11, Inc._
+  * _Our affiliates include companies with a Charles Schwab name; financial companies such as: Charles Schwab & Co., Inc., Charles Schwab Bank, optionsXpress, Inc., ThomasPartners, Inc.,  Windhaven Investment Management, Inc., and Charles Schwab Trust Company; and nonfinancial companies such as Schwab Performance Technologies, and Compliance11, Inc._
 
   
 **Nonaffiliates** | Companies not related by common ownership or control. They can be financial and nonfinancial companies.   
@@ -93,4 +93,4 @@ Charles Schwab, Hong Kong, Limited ("Schwab H.K.") has contracted with Charles S
 
 To learn more about our online privacy practices (e.g. "tracking"), please go to [www.schwab.com/privacy](http://www.schwab.com/privacy).  
   
-© 2015 The Charles Schwab Corporation. All rights reserved. CC001457 REG60835FM-05 (07/15)
+©2016 The Charles Schwab Corporation. All rights reserved. CC0494006 REG60835FM-06 (07/16)
