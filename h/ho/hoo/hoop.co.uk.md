@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoop.co.uk privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403043652id_/http%3A//hoop.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoop.co.uk privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124085213id_/http%3A//hoop.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Hoop
 
