@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submitprowith.us privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505214655id_/http%3A//submitprowith.us/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitprowith.us privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124050241id_/http%3A//submitprowith.us/privacy-policy.php) for the most accurate reproduction.*
 
 # SubmitPRO - Privacy Policy
 
@@ -14,4 +14,4 @@ The information used to analyze trends is saved along with the IP adress, dates 
 
 ## As for this Privacy Statement
 
-The content of this privacy statement can be altered at any given time, we advice user discretion. If you have any doubts regarding our privacy policy please contact us [here](https://web.archive.org/web/20160505214655id_/http%3A//submitprowith.us/contact.php).
+The content of this privacy statement can be altered at any given time, we advice user discretion. If you have any doubts regarding our privacy policy please contact us [here](https://web.archive.org/web/20161124050241id_/http%3A//submitprowith.us/contact.php).
