@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accountingweb.co.uk privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407121052id_/http%3A//www.accountingweb.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accountingweb.co.uk privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124163250id_/http%3A//www.accountingweb.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | AccountingWEB
 
@@ -102,7 +102,7 @@ We may also share your information (including personal data) with selected third
 
   * Third parties on whose behalf we have conducted surveys, competitions, promotions and other activities which you have chosen to take part in.
 
-  * Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others.  We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target. We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
+  * Advertising networks that require the data to select and serve relevant adverts to you and others.  We do not disclose information about identifiable individuals to our Advertising networks, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help Advertising networks reach the kind of audience they want to target. We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
 
   * Analytics and search engine providers that assist us in the improvement and optimisation of our site.
 
@@ -158,7 +158,7 @@ For Mollom’s full terms and conditions, please[ **click here**](https://mollom
   * **Cxense**  
 We use this service to offer personalisation of content and advertising 
 
-  * The service:
+  * The service: 
 
     * This service runs in the background on our sites and sends one or more cookies to your computer, or handheld device to collect non-identifiable information. These cookies are used to help improve the quality of our service, including for storing user preferences, improving ad selection, content recommendations, and search results, as well as tracking user trends, such as what content people consume. We also use cookies in our advertising services to help advertisers and publishers serve and manage ads across the web.
 
