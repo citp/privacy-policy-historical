@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the napavalleyregister.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608185638id_/http%3A//napavalleyregister.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napavalleyregister.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124072123id_/http%3A//napavalleyregister.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | napavalleyregister.com
 
@@ -99,7 +99,7 @@ We may disclose personal information if we or one of our affiliated companies is
 
  **Your California Privacy Rights**
 
-California Civil Code Section 1798.83 allows our California customers to request certain information regarding our disclosures in the prior calendar year, if any, of personally identifiable information to third parties for their own direct marketing purposes. To make such a request, please contact us at either online@napanews.com or Napa Valley Publishing, 1615 Second St., Napa, CA 94559, Attn: Marketing Department, and include your name and the address to which you would like us to respond. We will attempt to provide you with the requested information within thirty days of receipt.
+California Civil Code Section 1798.83 allows our California customers to request certain information regarding our disclosures in the prior calendar year, if any, of personally identifiable information to third parties for their own direct marketing purposes. To make such a request, please contact us at either online@napanews.com or Napa Valley Publishing, 1615 Soscol Ave., Napa, CA 94559, Attn: Marketing Department, and include your name and the address to which you would like us to respond. We will attempt to provide you with the requested information within thirty days of receipt.
 
  **A Final Note:**
 
