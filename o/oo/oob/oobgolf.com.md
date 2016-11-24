@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oobgolf.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320141132id_/http%3A//oobgolf.com/golfers/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oobgolf.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124220041id_/http%3A//oobgolf.com/golfers/privacy.php) for the most accurate reproduction.*
 
 # oobgolf
 
