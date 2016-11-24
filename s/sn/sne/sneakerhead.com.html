@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sneakerhead.com privacy policy that was archived on 2016-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160605031818id_/http%3A//www.sneakerhead.com/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sneakerhead.com privacy policy that was archived on 2016-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161124083052id_/http%3A//www.sneakerhead.com/policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en_US"><head>
 		<title>
@@ -25,7 +25,7 @@
 <script type="text/javascript">
 //<![CDATA[
 Mage.Cookies.path     = '/';
-Mage.Cookies.domain   = '.www.sneakerhead.com';
+Mage.Cookies.domain   = '.sneakerhead.com';
 //]]>
 </script>
 
@@ -49,12 +49,25 @@ optionalZipCountries = ["AF","AX","AL","DZ","AS","AD","AO","AI","AQ","AG","AR","
 
 
 	var currencySymbol = '<span class="price">$</span>';
+
+	/* Set baseDomain for setCookie() */
+	var baseDomain = '.sneakerhead.com';
+	var storeUrl = 'http://www.sneakerhead.com/';
+
+	var mobilePreference = getCookie('mobilePreference');
+
+	// Already set to mobile for this session. Redirect automatically.
+	if (typeof mobilePreference !== 'undefined' && mobilePreference === "2") {
+		location.href = finalUrl;
+	}
+
 </script>
 
     </head>
 	    <body class=" catalog-category-view categorypath-cs-policy-html category-">
 
-		<!-- Google Tag Manager -->
+		
+<!-- Google Tag Manager -->
 <script type="text/javascript">
 //<![CDATA[
 if (typeof mobilePreference === 'undefined' || mobilePreference === "1") {
@@ -71,26 +84,13 @@ if (typeof mobilePreference === 'undefined' || mobilePreference === "1") {
 //]]>
 </script>
 <!-- End Google Tag Manager -->
+
 		    <noscript>
 	<p class="orangeText boldText" id="nojsmsg">
         JavaScript seems to be disabled in your browser.<br />
         You must have JavaScript enabled in your browser to utilize the functionality of this website.	</p>
     </noscript>
 		
-<script type="text/javascript">
-
-// Detect if mobile device
-var baseDomain = 'sneakerhead.com';
-
-var mobilePreference = getCookie('mobilePreference');
-
-// Already set to mobile for this session. Redirect automatically.
-if (typeof mobilePreference !== 'undefined' && mobilePreference === "2") {
-	location.href = finalUrl;
-}
-
-</script>
-
 <header id="header-master" class="">
 	<div id="header-master-fixed" class="all-width responsive-wide">
 		<nav class="clearfix">
@@ -134,7 +134,7 @@ if (typeof mobilePreference !== 'undefined' && mobilePreference === "2") {
 						<div class="header-freeshipping"></div>
 					</a>
 				</li>
-				<li><a title="Switch to Mobile View" href="javascript: window.location=finalUrl" onclick="setCookie('mobilePreference', 2);" id="header-master-fixed-mobile" class="icon-mobile"></a></li>
+				<li><a title="Switch to Mobile View" href="javascript: window.location=finalUrl" onclick="setCookie('mobilePreference', 2, 0);" id="header-master-fixed-mobile" class="icon-mobile"></a></li>
 				<li><a href="http://www.sneakerhead.com/search.html" id="header-master-fixed-search" class="icon-search" data-id="search"></a></li>
 				<li><a href="https://www.sneakerhead.com/customer/account/" id="header-master-fixed-account" class="icon-account" data-id="account"></a></li>
 				<li><a href="http://www.sneakerhead.com/cs-customer-service.html" id="header-master-fixed-help" class="icon-help" data-id="help"></a></li>
@@ -169,8 +169,8 @@ if (typeof mobilePreference !== 'undefined' && mobilePreference === "2") {
 	<p class="dropdown-title">SNEAKER SPOTLIGHT</p>
 	<ul>
 		<li>
-			<a id="header-master-featured" href="http://www.sneakerhead.com/adidas-equipment-running-cushion-s79123.html">
-				<img src="http://www.sneakerhead.com/skin/frontend/default/sneakerhead2/images/cms/wss-20160523.jpg" width="400" height="240" alt="">
+			<a id="header-master-featured" href="http://www.sneakerhead.com/nike-air-huarache-utility-806807004.html">
+				<img src="http://www.sneakerhead.com/skin/frontend/default/sneakerhead2/images/cms/wss-20161108.jpg" width="400" height="240" alt="">
 			</a>
 		</li>
 	</ul>
@@ -218,10 +218,6 @@ if (typeof mobilePreference !== 'undefined' && mobilePreference === "2") {
 
 					
 									
-					<li><a href="http://www.sneakerhead.com/bucketfeet-shoes.html">BucketFeet</a></li>
-
-					
-									
 					<li><a href="http://www.sneakerhead.com/clarks-shoes.html">Clarks</a></li>
 
 					
@@ -236,14 +232,14 @@ if (typeof mobilePreference !== 'undefined' && mobilePreference === "2") {
 									
 					<li><a href="http://www.sneakerhead.com/diadora-shoes.html">Diadora</a></li>
 
+					
+									
+					<li><a href="http://www.sneakerhead.com/native-shoes-men.html">Native</a></li>
+
 										</ul>
 					
 														<ul class="brand-list">
 					
-					<li><a href="http://www.sneakerhead.com/native-shoes-men.html">Native</a></li>
-
-					
-									
 					<li><a href="http://www.sneakerhead.com/new-balance-shoes.html">New Balance</a></li>
 
 					
@@ -278,14 +274,14 @@ if (typeof mobilePreference !== 'undefined' && mobilePreference === "2") {
 									
 					<li><a href="http://www.sneakerhead.com/saucony-running-shoes.html">Saucony</a></li>
 
+					
+									
+					<li><a href="http://www.sneakerhead.com/supra-shoes-sneakers.html">Supra</a></li>
+
 										</ul>
 					
 														<ul class="brand-list">
 					
-					<li><a href="http://www.sneakerhead.com/supra-shoes-sneakers.html">Supra</a></li>
-
-					
-									
 					<li><a href="http://www.sneakerhead.com/swims-shoes.html">SWIMS</a></li>
 
 					
@@ -353,8 +349,8 @@ if (typeof mobilePreference !== 'undefined' && mobilePreference === "2") {
 	<p class="dropdown-title">SNEAKER SPOTLIGHT</p>
 	<ul>
 		<li>
-			<a id="header-master-featured" href="http://www.sneakerhead.com/adidas-equipment-running-cushion-s79123.html">
-				<img src="http://www.sneakerhead.com/skin/frontend/default/sneakerhead2/images/cms/wss-20160523.jpg" width="400" height="240" alt="">
+			<a id="header-master-featured" href="http://www.sneakerhead.com/nike-air-huarache-utility-806807004.html">
+				<img src="http://www.sneakerhead.com/skin/frontend/default/sneakerhead2/images/cms/wss-20161108.jpg" width="400" height="240" alt="">
 			</a>
 		</li>
 	</ul>
@@ -425,10 +421,6 @@ if (typeof mobilePreference !== 'undefined' && mobilePreference === "2") {
 					
 														<ul class="brand-list">
 					
-					<li><a href="http://www.sneakerhead.com/supra-womens-shoes.html">Supra</a></li>
-
-					
-									
 					<li><a href="http://www.sneakerhead.com/timberland-women-p1.html">Timberland</a></li>
 
 					
@@ -484,8 +476,8 @@ if (typeof mobilePreference !== 'undefined' && mobilePreference === "2") {
 	<p class="dropdown-title">SNEAKER SPOTLIGHT</p>
 	<ul>
 		<li>
-			<a id="header-master-featured" href="http://www.sneakerhead.com/adidas-equipment-running-cushion-s79123.html">
-				<img src="http://www.sneakerhead.com/skin/frontend/default/sneakerhead2/images/cms/wss-20160523.jpg" width="400" height="240" alt="">
+			<a id="header-master-featured" href="http://www.sneakerhead.com/nike-air-huarache-utility-806807004.html">
+				<img src="http://www.sneakerhead.com/skin/frontend/default/sneakerhead2/images/cms/wss-20161108.jpg" width="400" height="240" alt="">
 			</a>
 		</li>
 	</ul>
@@ -811,7 +803,7 @@ if (typeof mobilePreference !== 'undefined' && mobilePreference === "2") {
 
 					
 									
-					<li><a href="http://www.sneakerhead.com/puma-bags.html">Puma</a></li>
+					<li><a href="http://www.sneakerhead.com/jordan-bags.html">Jordan</a></li>
 
 					
 				
@@ -836,6 +828,10 @@ if (typeof mobilePreference !== 'undefined' && mobilePreference === "2") {
 					
 									
 					<li><a href="http://www.sneakerhead.com/publish-hats.html">Publish</a></li>
+
+					
+									
+					<li><a href="http://www.sneakerhead.com/hats-sneakerhead.html">SNEAKERHEAD</a></li>
 
 					
 				
@@ -1119,7 +1115,7 @@ if (typeof mobilePreference !== 'undefined' && mobilePreference === "2") {
 			{{PRODUCT_OPTIONS}}
 			<li><span class="dropdown-icon-info-title">Price: </span>{{PRODUCT_PRICE}}</li>
 			<li><span class="dropdown-icon-info-title">Qty: </span>{{PRODUCT_QTY}}</li>
-			<li class="dropdown-icon-product-remove"><a href="javascript:void(0);" onClick="ajaxRemoveFromCart(false, 'http://www.sneakerhead.com/checkout/cart/delete/form_key/TX0jdkhr33GePara/', {{PRODUCT_ITEM_ID}})">Remove</a></li>
+			<li class="dropdown-icon-product-remove"><a href="javascript:void(0);" onClick="ajaxRemoveFromCart(false, 'http://www.sneakerhead.com/checkout/cart/delete/form_key/aA28uJ56hbVxLOfj/', {{PRODUCT_ITEM_ID}})">Remove</a></li>
 		</ul>
 	</div>
 -->
@@ -1177,6 +1173,7 @@ if (typeof mobilePreference !== 'undefined' && mobilePreference === "2") {
 	Translator.add('Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.','Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.')
 
 </script>
+
 						<div class="content-wrap-top-padding clearfix responsive">
 
 			
