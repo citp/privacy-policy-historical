@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theshabbycreekcottage.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608120900id_/http%3A//www.theshabbycreekcottage.com/2009/01/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theshabbycreekcottage.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124132502id_/http%3A//www.theshabbycreekcottage.com/2009/01/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Shabby Creek Cottage
 
