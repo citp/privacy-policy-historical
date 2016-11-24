@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dasort.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518170529id_/http%3A//dasort.com/privacy-and-return-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dasort.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124150542id_/http%3A//dasort.com/privacy-and-return-policy) for the most accurate reproduction.*
 
 # Privacy and Return Policy - DaSort
 
