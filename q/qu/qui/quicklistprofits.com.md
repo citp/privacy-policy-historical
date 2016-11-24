@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the quicklistprofits.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604114301id_/http%3A//quicklistprofits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quicklistprofits.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124171233id_/http%3A//quicklistprofits.com/privacy.php) for the most accurate reproduction.*
 
 # Free Viral List Builder
 
-[](http://quicklistprofits.com/bannerclick.php?id=23122)  
+[](http://quicklistprofits.com/bannerclick.php?id=23824)  
 
 
 Quick List Profits Privacy Policy
