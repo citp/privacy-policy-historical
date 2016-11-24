@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelblogsuccess.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601152317id_/https%3A//travelblogsuccess.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelblogsuccess.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124065740id_/https%3A//travelblogsuccess.com/privacy-policy) for the most accurate reproduction.*
 
 # Travelblogsuccess.com Privacy Policy
 
@@ -181,7 +181,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[travelblogsuccess.com](https://travelblogsuccess.com/)  
+[travelblogsuccess.com](http://travelblogsuccess.com/)  
 16263 Diamond Bay Drive  
 Wimauma, Florida 33598, United States  
 support@travelblogsuccess.com
