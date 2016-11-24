@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houstonpublicmedia.org privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529072819id_/http%3A//www.houstonpublicmedia.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houstonpublicmedia.org privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124155100id_/http%3A//www.houstonpublicmedia.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Houston Public Media
 
@@ -16,13 +16,27 @@ The registration process for Houston Public Media requires you to provide person
 
 If you choose to make an on-line donation to Houston Public Media, you may be asked for account or credit card billing information, including the name on the donor’s card, billing address and expiration date. All of this information is encrypted using SSL, industry standard secure technology encryption that is designed to protect sensitive information. Your communication is authenticated using Verisign certificates. The account and credit card information that you provide at the time of donation is stored only for the duration of the transaction, typically a few minutes. Once the transaction is processed, the information is overwritten in order to ensure that it will be inaccessible. The account and credit card information that you provide at the time of donation is used only to process donations and will not be disclosed, sold, traded, rented or otherwise revealed to the personnel of Houston Public Media or any other third party without your consent.
 
+### THANK YOU GIFT RETURN POLICY
+
+Houston Public Media is a non-profit organization, not a retailer. Houston Public Media spends a significant amount of money on thank you gifts, and we want you to be happy with your support of Houston Public Media and your gift(s). However, please remember that every item includes a donation in support of Houston Public Media programming. The item(s) you have requested are our way of thanking you for giving. It is our strong preference that you do not request a refund of your charitable gift.
+
+### RETURNS AND DEFECTIVE ITEMS
+
+**Unopened items** returned within 45 days of the original shipment are eligible for a full donation refund less shipping.
+
+**Opened items** returned within 45 days of the original shipment will be replaced if defective.
+
+Items returned to Houston Public Media beyond 45 days from original shipment are not eligible for a donation refund.
+
+Donation refunds are made in the same payment type as the original transaction. Questions or concerns may be directed to Houston Public Media Donor Services at [membership@houstonpublicmedia.org](mailto:membership@houstonpublicmedia.org) or 713.743.8483.
+
 ### REFUND POLICY
 
-If you have made an error in making your donation or change your mind about contributing to Houston Public Media, we will honor your request for a refund made within 15 days of your donation. To request a refund, please call 713-743-5843. Refunds for donations using the online process are returned using the original method of payment; therefore your refund will be credited to that same credit card.
+Outright gifts of cash and cash equivalents are voluntary, irrevocable contributions to a 501(c)(3) non-profit organization. Automated, ongoing contributions can be stopped after a written request, either by mail or email, is received and we are given ample time to act upon that request.
 
 ### DONOR INFORMATION EXCHANGE
 
-Visitors to houstonpublicmedia.org may voluntarily supply personal information for the purposes of entering contests, when sending email, signing up for email newsletter, e-commerce transactions, donation transactions and conducting surveys or polls. The Stations may use this information for its own internal use solely to conduct the stated activities. In the instance when certain information is required for a particular activity it will be explicitly stated and explained at the time of submission. It is station policy never to sell or rent any information we gather from you. From time to time we exchange “member” name and addresses with local Houston non-profit partners. We will respect the privacy of all “members” and if you choose to opt out of having your name and addressed exchanged you may contact Member Services at (713) 743-5843 or [membership@houstonpublicmedia.org](mailto:membership@houstonpublicmedia.org).
+Visitors to houstonpublicmedia.org may voluntarily supply personal information for the purposes of entering contests, when sending email, signing up for email newsletter, e-commerce transactions, donation transactions and conducting surveys or polls. The Stations may use this information for its own internal use solely to conduct the stated activities. In the instance when certain information is required for a particular activity it will be explicitly stated and explained at the time of submission. It is station policy never to sell or rent any information we gather from you. From time to time we exchange “member” name and addresses with local Houston non-profit partners. We will respect the privacy of all “members” and if you choose to opt out of having your name and addressed exchanged you may contact Member Services at 713.743.8483 or [membership@houstonpublicmedia.org](mailto:membership@houstonpublicmedia.org).
 
 ### TECHNICAL INFORMATION
 
