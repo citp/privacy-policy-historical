@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpsworld.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525000347id_/http%3A//northcoastmedia.net/ncmprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpsworld.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124035232id_/http%3A//northcoastmedia.net/ncmprivacy.html) for the most accurate reproduction.*
 
 # North Coast Media Privacy Policy
 
