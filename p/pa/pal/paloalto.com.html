@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the paloalto.com privacy policy that was archived on 2016-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160513203805id_/http%3A//www.paloalto.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the paloalto.com privacy policy that was archived on 2016-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161124132614id_/http%3A//www.paloalto.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 		<meta charset="utf-8"> 
@@ -17,6 +17,8 @@
 				
 				
 		
+
+			<link rel="stylesheet" href="/assets/css/paloalto/welcome-mats.css">
 			<link rel="stylesheet" href="/assets/css/paloalto/universal.css">
 			<link rel="stylesheet" href="/assets/css/paloalto/site.css">
 			<link rel="stylesheet" href="/assets/css/paloalto/tack-modal.css">
@@ -32,12 +34,90 @@
 		
 	<link rel="canonical" href="http://www.paloalto.com/privacy">
 
+		<!--Functionality to close the welcome mats-->
+		<script type="text/javascript" async="" src="//s3.amazonaws.com/ki.js/59503/eZg.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WDPF"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+		<script>
+			$(document).ready(function(c) {
+				// Is this a first time visitor?
+				// What page are they on?
+				// Shows proper welcome mat on page if first time visitor
+				$(function() {
+					function setTheCookie(key, value) {
+
+						// Expire date for cookie
+						var expires = new Date();
+
+						// Set expire date for cookie
+						expires.setTime(expires.getTime() + (1 * 24 * 60 * 60 * 1000));
+
+						// Set cookie key and value which is passed in by parameters
+						document.cookie = key + '=' + value + '; path=/; expires=' + expires.toUTCString();
+					}
+					function getTheCookie(key) {
+
+						// Check to see if there is a cookie matching the value passed in by parameter
+						var keyValue = document.cookie.match('(^|;) ?' + key + '=([^;]*)(;|$)');
+						return keyValue ? keyValue[2] : null;
+					}
+
+					var hasSeenWelcomeMat = getTheCookie('hasSeenWelcomeMat');
+
+					// this (if) statement should be TRUE, if they qualify for the mat
+					if(hasSeenWelcomeMat !== "true"){
+
+						var mat = null;
+
+						// welcome mat: Features
+						if (document.location.href.indexOf('/business_plan_software/') > -1) {
+							mat = 'features';
+						}
+
+						// welcome mat: Future
+						if (document.location.href.indexOf('/business_plan_software/features/expert_guidance') > -1) {
+							mat = 'future';
+						}
+
+						// welcome mat: Easy
+						if (document.location.href.indexOf('/business_plan_software/sample_business_plans/bakery_business_plan.php') > -1 || document.location.href.indexOf('/business_plan_software/sample_business_plans/event_planning_business_plan.php') > -1  || document.location.href.indexOf('/business_plan_software/sample_business_plans/index.php' ) > -1) {
+							mat = 'easy';
+						}
+
+						// welcome mat: Cheaper
+						if (document.location.href.indexOf('/business_plan_software/reviews') > -1 || document.location.href.indexOf('/business_plan_software/features/premier') > -1 || document.location.href.indexOf('/business_plan_software/compare') > -1) {
+							mat = 'cheaper';
+						}
+
+						if(mat !== null) {
+							var matHTML = $('<div class="' + mat + '"></div>');
+							matHTML.html($('.templates').find('.' +mat));
+
+							$('.show-mat').html(matHTML);
+							setTheCookie('hasSeenWelcomeMat', 'true');
+						}
+					}
+				});
+				// click function to close the wrapper and slides the full site
+				$('#welcome-wrapper .close-trigger').on('click', function(c) {$('#welcome-wrapper').stop().slideUp(800);});
+			});
+		</script>
 
 		
 	</head> 
 	<body class="privacy guest">
+	<!-- Qualaroo for paloalto.com -->
+	<!-- Paste this code right after the <body> tag on every page of your site. -->
+		<script type="text/javascript">
+			var _kiq = _kiq || [];
+			(function(){
+				setTimeout(function(){
+					var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script'); s.type = 'text/javascript';
+					s.async = true; s.src = '//s3.amazonaws.com/ki.js/59503/eZg.js'; f.parentNode.insertBefore(s, f);
+				}, 1);
+			})();
+		</script>
+
 		<!-- Google Tag Manager -->
-		<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WDPF"></script><script src="http://www.bplans.com/assets/js/gtmm.js"></script>
+		<script src="http://www.bplans.com/assets/js/gtmm.js"></script>
 		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDPF"
 		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -46,7 +126,109 @@
 		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 		})(window,document,'script','dataLayer','GTM-WDPF');</script>
 		<!-- End Google Tag Manager -->
-		
+
+		<!-- Conditionals for WELCOME MATS &amp; ONLY SHOWN TO FIRST TIME VISITORS PER EACH PAGE -->
+		<div class="show-mat">
+
+		</div>
+		<div class="templates" style="display: none;">
+			<div id="welcome-wrapper" class="features">
+				<div class="close">
+					<img class="close-trigger" src="https://pas-webdev.s3.amazonaws.com/paloalto.com/welcomeMats/closeX.png">
+				</div>
+				<div class="container">
+					<div class="content">
+						<h5>Meet:</h5>
+						<img src="https://pas-webdev.s3.amazonaws.com/paloalto.com/welcomeMats/liveplan_logoWhite.png" alt="LivePlan" title="LivePlan">
+						<p class="info-box">From the makers of Business Plan Pro comes the easiest way to Pitch, Plan and Track your business' success.</p>
+						<div class="button-holder ">
+							<a href="https://www.liveplan.com/pricing?&amp;pasc=pas-welcomemat-features" class="btn btn-plan">Start your plan now</a>
+							<h6 class="close-trigger">No, thanks</h6>
+						</div>
+						<div class="clearfix">
+							<div class="badge">
+								<img src="https://pas-webdev.s3.amazonaws.com/paloalto.com/welcomeMats/badge_60day_white.png" alt="60 day money back guarantee" title="60 day money back guarantee">
+							</div>
+							<div class="info">
+								<p>Try it for 60 days, or your money back.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div id="welcome-wrapper" class="future">
+				<div class="close">
+					<img class="close-trigger" src="https://pas-webdev.s3.amazonaws.com/paloalto.com/welcomeMats/closeX.png">
+				</div>
+				<div class="container">
+					<div class="content">
+						<img src="https://pas-webdev.s3.amazonaws.com/paloalto.com/welcomeMats/liveplan_logoWhite.png" alt="LivePlan" title="LivePlan">
+						<p class="info-box">All the features of Business Plan Pro, in an easy to use online app!</p>
+						<p class="sub-line">Take your business planning on the go – with LivePlan.</p>
+						<div class="button-holder ">
+							<a href="https://www.liveplan.com/pricing?&amp;pasc=pas-welcomemat-future" class="btn btn-plan">Sign Up</a>
+							<h6 class="close-trigger">No, thanks</h6>
+						</div>
+						<div class="clearfix">
+							<div class="badge">
+								<img src="https://pas-webdev.s3.amazonaws.com/paloalto.com/welcomeMats/badge_60day_white.png" alt="60 day money back guarantee" title="60 day money back guarantee">
+							</div>
+							<div class="info">
+								<p>Try it for 60 days, or your money back.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div id="welcome-wrapper" class="easy">
+				<div class="close">
+					<img class="close-trigger" src="https://pas-webdev.s3.amazonaws.com/paloalto.com/welcomeMats/closeX.png">
+				</div>
+				<div class="container">
+					<div class="content">
+						<img src="https://pas-webdev.s3.amazonaws.com/paloalto.com/welcomeMats/liveplan_logoWhite.png" alt="LivePlan" title="LivePlan">
+						<p class="info-box">Write Your Business Plan in Half the Time with Twice the Impact</p>
+						<p class="sub-line">LivePlan asks you questions about your business, you fill in the answers. It's really that simple.</p>
+						<div class="button-holder ">
+							<a href="https://www.liveplan.com/pricing?&amp;pasc=pas-welcomemat-easy" class="btn btn-try">Let's Do This</a>
+							<h6 class="close-trigger">No, thanks</h6>
+						</div>
+						<div class="clearfix">
+							<div class="badge">
+								<img src="https://pas-webdev.s3.amazonaws.com/paloalto.com/welcomeMats/badge_60day_white.png" alt="60 day money back guarantee" title="60 day money back guarantee">
+							</div>
+							<div class="info">
+								<p>Try it for 60 days,<br> or your money back.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div id="welcome-wrapper" class="cheaper">
+				<div class="close">
+					<img class="close-trigger" src="https://pas-webdev.s3.amazonaws.com/paloalto.com/welcomeMats/closeX.png">
+				</div>
+				<div class="container">
+					<div class="content">
+						<img src="https://pas-webdev.s3.amazonaws.com/paloalto.com/welcomeMats/liveplan_logoBlack.png" alt="LivePlan" title="LivePlan">
+						<p class="info-box">Meet LivePlan – an online, updated version of Business Plan Pro.</p>
+						<p class="sub-line">Take control of your business for as low as $11.66 a month</p>
+						<div class="button-holder ">
+							<a href="https://www.liveplan.com/pricing?&amp;pasc=pas-welcomemat-cheaper" class="btn btn-try">Try it risk free</a>
+							<h6 class="close-trigger">No, thanks</h6>
+						</div>
+						<div class="clearfix">
+							<div class="badge">
+								<img src="https://pas-webdev.s3.amazonaws.com/paloalto.com/welcomeMats/badge_60day_gray.png" alt="60 day money back guarantee" title="60 day money back guarantee">
+							</div>
+							<div class="info">
+								<p>Try it for 60 days,<br> or your money back.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 		<div id="body" class="pngBg">
 							
 
@@ -334,14 +516,16 @@
 
 
 	<figure id="page-content-banner" class="pngBg banner-560x113">
-					<a id="page-content-banner-a" href="/sales_marketing_software">
+					<a id="page-content-banner-a" href="/business_plan_software">
 							
-				<img src="http://pas-paloalto.s3.amazonaws.com/sized/images/sized/remote/pas-paloalto-s3-amazonaws-com--1297811949-smp_left-reflect-59x93.png" alt="" width="59" height="93">
+				<img src="http://pas-paloalto.s3.amazonaws.com/sized/images/sized/remote/pas-paloalto-s3-amazonaws-com--1312308982-bpp12_complete_left-66x93.png" alt="" width="65" height="93">
 			
-							<h2>Sales and Marketing Pro</h2>
-							<h3>Starting at $179.95</h3>
+							<h2>Business Plan Pro</h2>
+							<h3>Starting at just $99.95</h3>
 							<p>
-	Includes the best-selling Marketing Plan Pro, a $179 value, tools to boost sales and grow your business, plus exclusive offers not available anywhere else.</p>
+	With over 500 sample business plans, built-in formulas and tons of step-by-step guidance, Business Plan Pro creates lender-ready documents in no time.</p>
+<p>
+	&nbsp;</p>
 
 							</a>
 			</figure>
@@ -718,14 +902,11 @@ _GUARANTEE.WriteSeal("_GUARANTEE_SealSpan", "GuaranteedSeal");
 
 	
 	
-		
-<style type="text/css">
+		<style type="text/css">
     .hide {
         display: none;
     }
 </style>
-
-
 
 
 		
@@ -758,7 +939,8 @@ _GUARANTEE.WriteSeal("_GUARANTEE_SealSpan", "GuaranteedSeal");
 		<script src="/assets/js/paloalto/script.js"></script>
 		<script src="/assets/js/paloalto/fan-slider.js"></script>
         <script src="/assets/js/paloalto/slides.jquery.js"></script>
-        
+        <script src="//assets.pcrl.co/js/jstracker.js"></script>
+
         <script src="/assets/js/paloalto/chat.js"></script>
 		<script type="text/javascript" src="/assets/js/paloalto/liveplan_footer_overlay.js"></script>
 
@@ -771,9 +953,6 @@ _GUARANTEE.WriteSeal("_GUARANTEE_SealSpan", "GuaranteedSeal");
 	<script> 		
 		
 		$(window).load(function() {
-			//tynt
-			$.getScript('http://tcr.tynt.com/javascripts/Tracer.js?user=cIep3qtnGr34IeadbiUzgI&amp;s=131');
-			
 			//twitter
 			$.getScript('http://platform.twitter.com/widgets.js');
 			
