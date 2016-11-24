@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agric.wa.gov.au privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611055148id_/https%3A//www.agric.wa.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agric.wa.gov.au privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124140147id_/https%3A//www.agric.wa.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Department of Agriculture and Food
 
