@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edhardyshop.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529010252id_/http%3A//www.edhardyoriginals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edhardyshop.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124145401id_/http%3A//www.edhardyoriginals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Ed Hardy | The official website of the Ed Hardy
 
@@ -53,7 +53,7 @@ Our Site may contain “links” to other websites, and we cannot and are not re
 
 **Iv. Information From Persons Under The Age Of 13**
 
-NOTICE: Visit [www.OnGuardOnline.gov](http://www.onguardonline.gov/ "http://www.OnGuardOnline.gov/") for tips from the Federal Trade Commission on protecting kids’ privacy online.  
+NOTICE: Visit [www.OnGuardOnline.gov](https://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online "http://www.OnGuardOnline.gov/") for tips from the Federal Trade Commission on protecting kids’ privacy online.  
 We do not seek to collect personally identifiable information from persons under the age of 13 without prior verifiable parental consent. If we become aware that we have inadvertently received such information online from a child under the age of 13, we will delete it from our records. If you are under the age of 13, please do not submit any personally identifiable information to us. If you are the parent or guardian of a person under the age of 13 who has provided personally identifiable information to us, please inform us by contacting us at info@iconixbrand.com and we will remove such information from our database. If you are concerned about your children’s use of the Site, you may use web filtering technology to supervise or limit access to the Site.
 
 **V. Your California Privacy Rights (As Provided By California Civil Code Section 1798.83)**
