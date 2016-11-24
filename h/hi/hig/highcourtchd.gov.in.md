@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highcourtchd.gov.in privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215113528id_/http%3A//www.highcourtchd.gov.in/%3Ftrs%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highcourtchd.gov.in privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124011005id_/http%3A//www.highcourtchd.gov.in/%3Ftrs%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy of Website: High Court of Punjab and Haryana
 
