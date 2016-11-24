@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the flukenetworks.com privacy policy that was archived on 2016-04-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160428181939id_/http%3A//www.flukenetworks.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flukenetworks.com privacy policy that was archived on 2016-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161124021220id_/http%3A//www.flukenetworks.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" dir="ltr"><!--<![endif]--><head>
-  <meta charset="utf-8">
+  <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
 <link rel="shortcut icon" href="http://www.flukenetworks.com/sites/flukenetworks.com/files/favicon_0_0.ico" type="image/vnd.microsoft.icon">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript">(function() {
+<script type="text/javascript">(function() {
 var _fbq = window._fbq || (window._fbq = []);
 if (!_fbq.loaded) {
 var fbds = document.createElement('script');
@@ -35,25 +35,41 @@ twttr.conversion.trackPid('l60es', { tw_sale_amount: 0, tw_order_quantity: 0 });
 <link rel="canonical" href="http://www.flukenetworks.com/about/privacy">
 <link rel="shortlink" href="http://www.flukenetworks.com/node/216860">
   <title>Privacy Policy | www.flukenetworks.com</title>
-  <link type="text/css" rel="stylesheet" href="http://www.flukenetworks.com/sites/flukenetworks.com/files/css/css_fMQas9NUms5pnVE7ziA7wdPOFao_tfrSprFaNghu71c.css" media="all">
+  <link type="text/css" rel="stylesheet" href="http://www.flukenetworks.com/sites/flukenetworks.com/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all">
 <link type="text/css" rel="stylesheet" href="http://www.flukenetworks.com/sites/flukenetworks.com/files/css/css_xXTPxQHlAuXE1nBsifN9c77bWhZ1VrquybKQXdA0cx0.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.flukenetworks.com/sites/flukenetworks.com/files/css/css_o9nManyb7NRfehXMVcN5091hLogvhyXSzU9xFIAZPSM.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.flukenetworks.com/sites/flukenetworks.com/files/css/css_ag7BF74_kOvSC-b1FM29hTlOWsaR2i4S93y86-UflJ0.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.flukenetworks.com/sites/flukenetworks.com/files/css/css_82of7fHizb-4lcBePLFDVwFD2Rc7EFON6HEykQBxhhw.css" media="screen">
-  <script src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.10.2.min.js"></script>
-<script>window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")</script><script src="/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js"></script>
-<script src="http://www.flukenetworks.com/sites/flukenetworks.com/files/js/js_2V5yerZCkrkBPBN08LUohGI8MuZTpKPl6i4UE35Dt2A.js"></script>
-<script src="//ajax.aspnetcdn.com/ajax/jquery.ui/1.10.2/jquery-ui.min.js"></script>
-<script>window.jQuery.ui || document.write("<script src='/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery-ui.min.js'>\x3C/script>")</script>
-<script src="http://www.flukenetworks.com/sites/flukenetworks.com/files/js/js_zInzcNPpZdp4003c50VL78MN6zb6-J-QwWFtixrgShk.js"></script>
-<script src="http://www.flukenetworks.com/sites/flukenetworks.com/files/js/js_2KlXA4Z5El1IQFVPxDN1aX5mIoMSFWGv3vwsP77K9yk.js"></script>
-<script src="http://www.flukenetworks.com/sites/flukenetworks.com/files/js/js_MlbAAvmQxdmp6I2KPERrhU_sKKk_7IjxY641MFEBKeo.js"></script>
-<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-2516024-1", {"cookieDomain":".flukenetworks.com"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
-<script src="http://www.flukenetworks.com/sites/flukenetworks.com/files/js/js_fNhsQdy4cSjfYuEiWAQFjHKT4SpSwBJNXww_JaRhU9M.js"></script>
-<script src="http://www.flukenetworks.com/sites/flukenetworks.com/files/js/js_Pm5XydlCmz5YShOlQk1QAMR7c92FbFFagjs7PYIK5oU.js"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"adaptivetheme_subtheme_fnet","theme_token":"0dq7JaEO0lLWge6u0uJY-fY04AbE9CsDNlHjgWcZqBc","js":{"0":1,"\/\/ajax.aspnetcdn.com\/ajax\/jQuery\/jquery-1.10.2.min.js":1,"1":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/ajax.aspnetcdn.com\/ajax\/jquery.ui\/1.10.2\/jquery-ui.min.js":1,"2":1,"modules\/locale\/locale.datepicker.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/flukenetworks.com\/modules\/custom\/fextranet\/js\/scripts.js":1,"sites\/flukenetworks.com\/modules\/custom\/fnet_helper\/js\/jquery-migrate-1.2.1.js":1,"sites\/flukenetworks.com\/modules\/custom\/fnet_helper\/js\/jquery.noconflict.js":1,"sites\/flukenetworks.com\/modules\/custom\/fnet_ma\/js\/fnet_ma.js":1,"sites\/flukenetworks.com\/modules\/custom\/fnet_ma\/js\/fnet_ma_downloads_updates.js":1,"sites\/all\/modules\/themekey\/themekey_redirect\/themekey_redirect.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"3":1,"misc\/autocomplete.js":1,"sites\/all\/modules\/responsive_dropdown_menus\/theme\/responsive-dropdown-menus.js":1,"sites\/flukenetworks.com\/modules\/features\/cio_brief\/javascript\/cio_brief.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/scripts\/regions.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/fancybox\/jquery.fancybox-1.3.4.pack.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/fancybox\/jquery.mousewheel-3.0.4.pack.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/fancybox\/jquery.easing-1.3.pack.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/scripts\/jcarousellite_1.0.1.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/scripts\/jquery.jcarousel.min.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/scripts\/cookie-handling.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/scripts\/google-analytics-event-binding.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/scripts\/flukenetworks.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"sites\/all\/modules\/ldap\/ldap_user\/ldap_user.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/flukenetworks.com\/modules\/custom\/fextranet\/css\/fextranet.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/flukenetworks.com\/modules\/custom\/promotions\/promotions.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/flukenetworks.com\/modules\/custom\/digital_asset\/digital_asset.css":1,"sites\/flukenetworks.com\/modules\/custom\/ems\/styles\/event.css":1,"sites\/flukenetworks.com\/modules\/custom\/ems\/styles\/event_occurrence.css":1,"sites\/flukenetworks.com\/modules\/custom\/fnet_ma\/css\/fnet_ma.css":1,"sites\/all\/modules\/ldap\/ldap_servers\/ldap_servers.admin.css":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/styles\/admin_toolbar_top_postion_fix.css":1,"sites\/flukenetworks.com\/modules\/custom\/promotion_fulfillment\/promotion_fulfillment.css":1,"sites\/flukenetworks.com\/modules\/custom\/doc_links\/doc_links.css":1,"sites\/all\/modules\/print\/print_ui\/css\/print_ui.theme.css":1,"sites\/all\/modules\/responsive_dropdown_menus\/theme\/responsive-dropdown-menus.css":1,"sites\/flukenetworks.com\/modules\/features\/cio_brief\/css\/cio_brief.css":1,"sites\/flukenetworks.com\/modules\/custom\/fnet_header_footer\/css\/fnet_header_footer.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.layout.css":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/css\/global.base.css":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/css\/global.styles.css":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/css\/homepage.view.css":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/css\/solutions.css":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/css\/marketo.forms.css":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/fancybox\/jquery.fancybox-1.3.4.css":1,"public:\/\/adaptivetheme\/adaptivetheme_subtheme_fnet_files\/adaptivetheme_subtheme_fnet.default.layout.css":1}},"jquery":{"ui":{"datepicker":{"isRTL":false,"firstDay":"0"}}},"ThemeKeyRedirect":{"checkOnce":false,"redirectOnce":false},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"urlIsAjaxTrusted":{"\/search\/node":true,"\/about\/privacy?regLang=EN-US":true},"responsive_dropdown_menus":{"devel":"Development","menu-extranet":"Extranet","features":"Features","menu-microsite-linkware-live-top":"LinkWare Live Main Menu","main-menu":"Main menu","management":"Management","menu-msite-fnet-logo":"Microsite: Fluke Networks Logo","menu-msite-linksolutions-front":"Microsite: LinkSolutions Front","menu-msite-linksolutions-pagenav":"Microsite: LinkSolutions Homepage Sections","menu-msite-linksolutions-mobile":"Microsite: LinkSolutions Mobile","menu-msite-linksolutions-topbtns":"Microsite: LinkSolutions Top Buttons","menu-msite-truview-buttons":"Microsite: TruView Live Buttons","menu-msite-truviewlive-sections":"Microsite: TruView Live Homepage Sections","menu-msite-truviewlive-mobile":"Microsite: TruView Live Mobile","menu-msite-truview-topnav":"Microsite: TruView Live Topnav","navigation":"Navigation","extranet":"Sales Insider Extranet","secondary-menu":"Secondary menu","menu-social-media":"Social Media","user-menu":"User Menu"},"adaptivetheme":{"adaptivetheme_subtheme_fnet":{"layout_settings":{"bigscreen":"three-col-grail","tablet_landscape":"three-col-grail","tablet_portrait":"one-col-vert","smalltouch_landscape":"one-col-vert","smalltouch_portrait":"one-col-stack"},"media_query_settings":{"bigscreen":"only screen and (min-width:1025px)","tablet_landscape":"only screen and (min-width:769px) and (max-width:1024px)","tablet_portrait":"only screen and (min-width:581px) and (max-width:768px)","smalltouch_landscape":"only screen and (min-width:321px) and (max-width:580px)","smalltouch_portrait":"only screen and (max-width:320px)"}}}});</script>
+<link type="text/css" rel="stylesheet" href="http://www.flukenetworks.com/sites/flukenetworks.com/files/css/css_mvDzrvEkv9d4AxYeYf0I0mv86Yx1Bq7FFu0k-OefGxQ.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.flukenetworks.com/sites/flukenetworks.com/files/css/css_TF10X8b-oiDg7bL-OMvDn-thtNiuGLQZgrVtiGNt1-c.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.flukenetworks.com/sites/flukenetworks.com/files/css/css_p8TJq3NtlItZChWn_o1oVMcpS0_A0JfWFXVyiifHbXg.css" media="screen">
+  <script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.10.2.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script><script src="/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.flukenetworks.com/sites/flukenetworks.com/files/js/js_BGjOCcH1oLfeJTzqIwfqhDyhUETQc5ObM0J7guv1lLs.js"></script>
+<script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.ui/1.10.2/jquery-ui.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery.ui || document.write("<script src='/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery-ui.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.flukenetworks.com/sites/flukenetworks.com/files/js/js_zInzcNPpZdp4003c50VL78MN6zb6-J-QwWFtixrgShk.js"></script>
+<script type="text/javascript" src="http://www.flukenetworks.com/sites/flukenetworks.com/files/js/js_gUrTpTAskLCcytUqryD8NdzilvsqvDQY-CkZGT3-gOQ.js"></script>
+<script type="text/javascript" src="http://www.flukenetworks.com/sites/flukenetworks.com/files/js/js_4aITJvrnEVmDH-N-G2VXFgBW9bxUNdoUrSTG5Rz_CZQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-2516024-1", {"cookieDomain":".flukenetworks.com"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.flukenetworks.com/sites/flukenetworks.com/files/js/js_E7aezUrEggopCHjELRn8PFGz3zTj4Lf5ofSbnwkEDF0.js"></script>
+<script type="text/javascript" src="http://www.flukenetworks.com/sites/flukenetworks.com/files/js/js_kUwLrE3etUWQPL9ntdPp04qkkKaD105F0nYR-Lph2gY.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"adaptivetheme_subtheme_fnet","theme_token":"EDLRWKP-1O0oOTTmN6n1lIgUxER1JPU8URaKGYP8XNo","js":{"0":1,"\/\/ajax.aspnetcdn.com\/ajax\/jQuery\/jquery-1.10.2.min.js":1,"1":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/ajax.aspnetcdn.com\/ajax\/jquery.ui\/1.10.2\/jquery-ui.min.js":1,"2":1,"modules\/locale\/locale.datepicker.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/flukenetworks.com\/modules\/custom\/fextranet\/js\/scripts.js":1,"sites\/flukenetworks.com\/modules\/custom\/fnet_ma\/js\/fnet_ma.js":1,"sites\/flukenetworks.com\/modules\/custom\/fnet_ma\/js\/fnet_ma_downloads_updates.js":1,"sites\/flukenetworks.com\/modules\/custom\/fnet_ma\/js\/fnet_ma_helper.js":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/javascripts\/distributor_group_form.js":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/javascripts\/tabs.js":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/javascripts\/views_filters_reset.js":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/javascripts\/where2buy_page_1.js":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/javascripts\/wtb_countries_form.js":1,"sites\/flukenetworks.com\/modules\/custom\/fnet_helper\/js\/jquery-migrate-1.2.1.js":1,"sites\/flukenetworks.com\/modules\/custom\/fnet_helper\/js\/jquery.noconflict.js":1,"sites\/all\/modules\/themekey\/themekey_redirect\/themekey_redirect.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"3":1,"sites\/all\/modules\/responsive_dropdown_menus\/theme\/responsive-dropdown-menus.js":1,"sites\/flukenetworks.com\/modules\/features\/cio_brief\/javascript\/cio_brief.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/scripts\/regions.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/fancybox\/jquery.fancybox-1.3.4.pack.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/fancybox\/jquery.mousewheel-3.0.4.pack.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/fancybox\/jquery.easing-1.3.pack.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/scripts\/jcarousellite_1.0.1.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/scripts\/jquery.jcarousel.min.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/scripts\/cookie-handling.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/scripts\/google-analytics-event-binding.js":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/scripts\/flukenetworks.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/flukenetworks.com\/modules\/custom\/fextranet\/css\/fextranet.css":1,"modules\/field\/theme\/field.css":1,"sites\/flukenetworks.com\/modules\/custom\/fnet_ma\/css\/fnet_ma.css":1,"modules\/node\/node.css":1,"sites\/flukenetworks.com\/modules\/custom\/product_assets\/product_assets.css":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/styles\/admin_toolbar_top_position_fix.css":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/styles\/distributor_form.css":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/styles\/distributor_group_form.css":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/styles\/product_form.css":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/styles\/tabs.css":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/styles\/where2buy_page.css":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/styles\/wtb_countries_form.css":1,"sites\/flukenetworks.com\/modules\/custom\/promotions\/promotions.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/flukenetworks.com\/modules\/custom\/digital_asset\/digital_asset.css":1,"sites\/flukenetworks.com\/modules\/custom\/ems\/styles\/event.css":1,"sites\/flukenetworks.com\/modules\/custom\/ems\/styles\/event_occurrence.css":1,"sites\/flukenetworks.com\/modules\/custom\/product_distributor\/styles\/admin_toolbar_top_postion_fix.css":1,"sites\/flukenetworks.com\/modules\/custom\/promotion_fulfillment\/promotion_fulfillment.css":1,"sites\/flukenetworks.com\/modules\/custom\/doc_links\/doc_links.css":1,"sites\/all\/modules\/print\/print_ui\/css\/print_ui.theme.css":1,"sites\/all\/modules\/responsive_dropdown_menus\/theme\/responsive-dropdown-menus.css":1,"sites\/flukenetworks.com\/modules\/features\/cio_brief\/css\/cio_brief.css":1,"sites\/flukenetworks.com\/modules\/custom\/fnet_header_footer\/css\/fnet_header_footer.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.layout.css":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/css\/global.base.css":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/css\/global.styles.css":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/css\/homepage.view.css":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/css\/solutions.css":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/css\/marketo.forms.css":1,"sites\/flukenetworks.com\/themes\/adaptivetheme_subtheme_fnet\/fancybox\/jquery.fancybox-1.3.4.css":1,"public:\/\/adaptivetheme\/adaptivetheme_subtheme_fnet_files\/adaptivetheme_subtheme_fnet.default.layout.css":1}},"jquery":{"ui":{"datepicker":{"isRTL":false,"firstDay":"0"}}},"ThemeKeyRedirect":{"checkOnce":false,"redirectOnce":false},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"urlIsAjaxTrusted":{"\/search\/node":true,"\/about\/privacy?regLang=EN-US":true},"responsive_dropdown_menus":{"menu-extranet":"Extranet","features":"Features","menu-microsite-linkware-live-top":"LinkWare Live Main Menu","main-menu":"Main menu","management":"Management","menu-msite-fnet-logo":"Microsite: Fluke Networks Logo","menu-msite-linksolutions-front":"Microsite: LinkSolutions Front","menu-msite-linksolutions-pagenav":"Microsite: LinkSolutions Homepage Sections","menu-msite-linksolutions-mobile":"Microsite: LinkSolutions Mobile","menu-msite-linksolutions-topbtns":"Microsite: LinkSolutions Top Buttons","menu-msite-truview-buttons":"Microsite: TruView Live Buttons","menu-msite-truviewlive-sections":"Microsite: TruView Live Homepage Sections","menu-msite-truviewlive-mobile":"Microsite: TruView Live Mobile","menu-msite-truview-topnav":"Microsite: TruView Live Topnav","navigation":"Navigation","extranet":"Sales Insider Extranet","secondary-menu":"Secondary menu","menu-social-media":"Social Media","user-menu":"User Menu"},"adaptivetheme":{"adaptivetheme_subtheme_fnet":{"layout_settings":{"bigscreen":"three-col-grail","tablet_landscape":"three-col-grail","tablet_portrait":"one-col-vert","smalltouch_landscape":"one-col-vert","smalltouch_portrait":"one-col-stack"},"media_query_settings":{"bigscreen":"only screen and (min-width:1025px)","tablet_landscape":"only screen and (min-width:769px) and (max-width:1024px)","tablet_portrait":"only screen and (min-width:581px) and (max-width:768px)","smalltouch_landscape":"only screen and (min-width:321px) and (max-width:580px)","smalltouch_portrait":"only screen and (max-width:320px)"}}}});
+//--><!]]>
+</script>
   <!--[if lt IE 9]>
-<script src="http://www.flukenetworks.com/sites/all/themes/adaptivetheme/at_core/scripts/html5.js?o61xbx"></script>
+<script src="http://www.flukenetworks.com/sites/all/themes/adaptivetheme/at_core/scripts/html5.js?oh0gul"></script>
 <![endif]-->
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-216860 node-type-page-reg region-us language-en i18n-en site-name-hidden atr-7.x-3.x atv-7.x-3.2">
@@ -86,7 +102,7 @@ twttr.conversion.trackPid('l60es', { tw_sale_amount: 0, tw_order_quantity: 0 });
 
             </div><!-- /end #branding -->
           
-                      <div class="region region-header"><div class="region-inner clearfix"><div id="block-fnet-header-footer-fnet-header-footer-top-menu" class="block block-fnet-header-footer no-title"><div class="block-inner clearfix">  
+                      <div class="region region-header"><div class="region-inner clearfix"><div id="block-fnet-header-footer-fnet-header-footer-top-menu" class="block block-fnet-header-footer no-title odd first block-count-1 block-region-header block-fnet-header-footer-top-menu"><div class="block-inner clearfix">  
   
   <div class="block-content content">
 <div id="utility_nav">
@@ -98,7 +114,7 @@ twttr.conversion.trackPid('l60es', { tw_sale_amount: 0, tw_order_quantity: 0 });
       </ul>
 </div>
 </div>
-  </div></div><div id="block-search-form" class="block block-search no-title" role="search"><div class="block-inner clearfix">  
+  </div></div><div id="block-search-form" class="block block-search no-title even last block-count-2 block-region-header block-form" role="search"><div class="block-inner clearfix">  
   
   <div class="block-content content"><form action="/about/privacy?regLang=EN-US" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
       <h2 class="element-invisible">Search form</h2>
@@ -106,7 +122,7 @@ twttr.conversion.trackPid('l60es', { tw_sale_amount: 0, tw_order_quantity: 0 });
   <label class="element-invisible" for="edit-search-block-form--2">Search </label>
  <input title="Enter the terms you wish to search for." type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text">
 </div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-oCV9-_Hf8NcuL95dgeNVyOV29pYhecu4F2dolCMe6M0">
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-Z_XIAX6hpVuP772V5kONFQv2YFWXVyOmKoA0WjvxA_M">
 <input type="hidden" name="form_id" value="search_block_form">
 </div>
 </div></form></div>
@@ -117,12 +133,11 @@ twttr.conversion.trackPid('l60es', { tw_sale_amount: 0, tw_order_quantity: 0 });
 
           <div id="nav-wrapper">
         <div class="container clearfix">
-          <div id="menu-bar" class="nav clearfix"><div id="block-fnet-header-footer-fnet-header-footer-main-menu" class="block block-fnet-header-footer no-title menu-wrapper menu-bar-wrapper clearfix">  
+          <div id="menu-bar" class="nav clearfix"><div id="block-fnet-header-footer-fnet-header-footer-main-menu" class="block block-fnet-header-footer no-title menu-wrapper menu-bar-wrapper clearfix odd first last block-count-3 block-region-menu-bar block-fnet-header-footer-main-menu">  
   
   <div id="topnav" style="margin-left:9px;">
   <ul>
-    <li id="topnav_solutions" onmouseover="javascript:hideProductNav();"><a class="topnav_link" href="/solutions">SOLUTIONS
-        <span id="down-arrow"></span></a>
+    <li id="topnav_solutions" onmouseover="javascript:hideProductNav();"><a class="topnav_link" href="/solutions">Solutions        <span id="down-arrow"></span></a>
       <!-- Drop Menu - Solutions - Begin -->
       <div class="topnav_std_sub">
         <div>
@@ -130,12 +145,7 @@ twttr.conversion.trackPid('l60es', { tw_sale_amount: 0, tw_order_quantity: 0 });
           <div class="mega_nav_std_middle">
             <div class="mega_nav_std_outer">
               <div class="mega_nav_std_inner">
-                <div class="topnav_submenu_item"><a href="/solutions/topics">Topics</a>
-                </div>
-                <div class="topnav_submenu_item"><a href="/solutions/roles">Roles</a>
-                </div>
-                <div class="topnav_submenu_item"><a href="/solutions/industries">Industries</a>
-                </div>
+                <div class="topnav_submenu_item"><a href="/solutions/roles">Roles</a></div>
                 <div class="topnav_submenu_item"><a href="/solutions/learn-about">Learn About</a>
                 </div>
                 <div class="topnav_submenu_item"><a href="/solutions/case-studies">Case Studies</a>
@@ -150,8 +160,7 @@ twttr.conversion.trackPid('l60es', { tw_sale_amount: 0, tw_order_quantity: 0 });
       <!-- Drop Menu - Solutions - End -->
     </li>
     <li class="topnav_sep"></li>
-    <li id="topnav_products"><a class="topnav_link" href="/products">PRODUCTS
-        <span id="down-arrow"></span></a>
+    <li id="topnav_products"><a class="topnav_link" href="/products">Products        <span id="down-arrow"></span></a>
       <!-- Drop Menu - Products - Begin -->
       <div id="topnav_products_sub">
         <div>
@@ -160,77 +169,51 @@ twttr.conversion.trackPid('l60es', { tw_sale_amount: 0, tw_order_quantity: 0 });
 
             <div class="mega_nav_outer_sep">
               <div class="mega_nav_inner">
-                <div class="topnav_submenu_title"><a href="/datacom-cabling">DATACOM
-                    CABLING</a></div>
+                <div class="topnav_submenu_title"><a href="/cabling-certification">Cabling Certification</a></div>
                 <div class="topnav_submenu_item">
-                  <a href="/content/cabling-certification-versiv#family-product-list-14719">Cabling
-                    Certification - Versiv</a>
+                  <a href="/cabling-certification#family-product-list-14719">Versiv Cabling Certification System</a>
                 </div>
                 <div class="topnav_submenu_item">
-                  <a href="/datacom-cabling#family-product-list-9">Copper
-                    Certification and Testing</a>
+                  <a href="/cabling-certification#family-product-list-9">Copper
+                    Certification</a>
                 </div>
                 <div class="topnav_submenu_item">
-                  <a href="/datacom-cabling#family-product-list-10">Fiber
-                    Certification and <br> Testing</a>
-                </div>
-                <div class="topnav_submenu_item">
-                  <a href="/datacom-cabling#family-product-list-11">Datacom
-                    Installation Tools</a>
+                  <a href="/cabling-certification#family-product-list-10">Fiber
+                    Certification</a>
                 </div>
               </div>
             </div>
 
             <div class="mega_nav_outer_sep">
               <div class="mega_nav_inner">
-                <div class="topnav_submenu_title"><a href="/enterprise-network">IT
-                    NETWORKING</a></div>
+                <div class="topnav_submenu_title"><a href="/installation-and-test">Installation and Test</a></div>
                 <div class="topnav_submenu_item">
-                  <a href="/content/application-aware-network-performance-management#family-product-list-13680">Application
-                    Aware Network Performance Management</a>
+                  <a href="/installation-and-test#family-product-list-13680">Fiber Inspection and Cleaning</a>
                 </div>
                 <div class="topnav_submenu_item">
-                  <a href="/enterprise-network#family-product-list-13881">Centralized
-                    Network Troubleshooting</a>
+                  <a href="/installation-and-test#family-product-list-12">Fiber Optic Power Meters and Fault Locators</a>
                 </div>
                 <div class="topnav_submenu_item">
-                  <a href="/enterprise-network?#family-product-list-12">Portable
-                    Network Analysis and Troubleshooting</a>
+                  <a href="/installation-and-test#family-product-list-13">Copper Cable Testers and Tone Generators</a>
                 </div>
                 <div class="topnav_submenu_item">
-                  <a href="/enterprise-network#family-product-list-13">Portable
-                    Troubleshooting Tools</a>
-                </div>
-                <div class="topnav_submenu_item">
-                  <a href="/enterprise-network/wireless-design-analysis-and-security#family-product-list-14">Wireless
-                    Design, Analysis and Security</a>
+                  <a href="/installation-and-test#family-product-list-13881">Punch Down Tools and Termination Tools</a>
                 </div>
               </div>
             </div>
 
             <div class="mega_nav_outer">
               <div class="mega_nav_inner">
-                <div class="topnav_submenu_title"><a href="/telecom">TELECOM</a>
+                <div class="topnav_submenu_title"><a href="/telecom-test">Telecom Test</a>
                 </div>
                 <div class="topnav_submenu_item">
-                  <a href="/telecom#family-product-list-144963">LTE
-                    Solutions</a>
+                  <a href="/telecom-test#family-product-list-17">Telephone Test Sets</a>
                 </div>
                 <div class="topnav_submenu_item">
-                  <a href="/telecom#family-product-list-15">Access
-                    Network Conditioning</a>
+                  <a href="/telecom-test#family-product-list-144963">Fault Locators and Tone Generators</a>
                 </div>
                 <div class="topnav_submenu_item">
-                  <a href="/telecom#family-product-list-16">Broadband
-                    Service Assurance &amp; OSS</a>
-                </div>
-                <div class="topnav_submenu_item">
-                  <a href="/telecom#family-product-list-17">Field
-                    Technician Tools and Test Sets</a>
-                </div>
-                <div class="topnav_submenu_item">
-                  <a href="/telecom#family-product-list-18">Network
-                    &amp; Service Analysis</a>
+                  <a href="/telecom-test#family-product-list-11">Termination Tools</a>
                 </div>
               </div>
             </div>
@@ -240,7 +223,7 @@ twttr.conversion.trackPid('l60es', { tw_sale_amount: 0, tw_order_quantity: 0 });
             <div style="width:219px;height:88px;">
               <div style="padding:16px 15px 0px 20px;height:72px;text-align:left;">
                 <div style="font-family:Arial, Helvetica, sans-serif; font-size:13px;line-height:13px;font-weight:normal;">
-                  <div style="padding:0px 0px 10px 0px;">Need Help?</div>
+                  <div style="padding:0px 0px 10px 0px;" id="need-help">Need Help?</div>
                   <div id="btn_product_finder">
                     <a href="/product_finder">Product Finder</a>
                   </div>
@@ -251,8 +234,7 @@ twttr.conversion.trackPid('l60es', { tw_sale_amount: 0, tw_order_quantity: 0 });
             <div style="width:219px;height:75px;">
               <div style="padding:14px 15px 0px 20px;text-align:left;">
                 <div style="font-family:Arial, Helvetica, sans-serif; font-size:13px;line-height:13px;font-weight:normal;">
-                  <div style="padding:0px 0px 10px 0px;">Search for Products
-                  </div>
+                  <div style="padding:0px 0px 10px 0px;">Search for Products</div>
                   <div>
                     <form style="margin:0px;padding:0px;" name="productSearchForm" onsubmit="return globalSearch('products');">
                       <div id="product_search_box_div">
@@ -287,7 +269,7 @@ twttr.conversion.trackPid('l60es', { tw_sale_amount: 0, tw_order_quantity: 0 });
     </li>
     <li class="topnav_sep"></li>
     <li id="topnav_support" onmouseover="javascript:hideProductNav();">
-      <a class="topnav_link" href="/support">SUPPORT<span id="down-arrow"></span></a>
+      <a class="topnav_link" href="/support">Support<span id="down-arrow"></span></a>
       <!-- Drop Menu - Support - Begin -->
       <div class="topnav_std_sub">
         <div>
@@ -299,11 +281,7 @@ twttr.conversion.trackPid('l60es', { tw_sale_amount: 0, tw_order_quantity: 0 });
                   <a href="/gold">Gold Product Support</a>
                 </div>
                 <div class="topnav_submenu_item">
-                  <a href="/content/professional-services-overview">Professional
-                    Services</a>
-                </div>
-                <div class="topnav_submenu_item">
-                  <a href="/support/downloads">Downloads &amp; Updates</a>
+                  <a href="/support/downloads">Downloads &amp; Updates </a>
                 </div>
                 <div class="topnav_submenu_item">
                   <a href="/kb">Knowledge Base</a>
@@ -328,15 +306,15 @@ twttr.conversion.trackPid('l60es', { tw_sale_amount: 0, tw_order_quantity: 0 });
     </li>
     <li class="topnav_sep"></li>
     <li id="topnav_community" onmouseover="javascript:hideProductNav();">
-      <a class="topnav_link" href="/community">COMMUNITY</a>
+      <a class="topnav_link" href="/community">Community</a>
     </li>
     <li class="topnav_sep"></li>
     <li id="topnav_news_and_events" onmouseover="javascript:hideProductNav();">
-      <a class="topnav_link" href="/news">NEWS &amp; EVENTS</a>
+      <a class="topnav_link" href="/news">News &amp; Events</a>
     </li>
     <li class="topnav_sep"></li>
     <li id="topnav_where_to_buy" onmouseover="javascript:hideProductNav();">
-      <a class="topnav_link" href="/wheretobuy">WHERE TO BUY</a>
+      <a class="topnav_link" href="/wheretobuy">Where to Buy</a>
     </li>
   </ul>
 </div>
@@ -366,9 +344,9 @@ twttr.conversion.trackPid('l60es', { tw_sale_amount: 0, tw_order_quantity: 0 });
                   </header>
                 
                                   <div id="content">
-                    <div id="block-system-main" class="block block-system no-title">  
+                    <div id="block-system-main" class="block block-system no-title odd first last block-count-4 block-region-content block-main">  
   
-  <article id="node-216860" class="node node-page-reg article clearfix" role="article">
+  <article id="node-216860" class="node node-page-reg article odd node-lang-en node-full clearfix" role="article">
   
   
   
@@ -683,7 +661,85 @@ twttr.conversion.trackPid('l60es', { tw_sale_amount: 0, tw_order_quantity: 0 });
       <div id="footer-wrapper">
       <div class="container clearfix">
         <footer id="footer" class="clearfix" role="contentinfo">
-          <div class="region region-footer"><div class="region-inner clearfix"><div id="block-fnet-header-footer-fnet-header-footer-bottom-menu" class="block block-fnet-header-footer no-title"><div class="block-inner clearfix">  
+          <div class="region region-footer"><div class="region-inner clearfix"><div id="block-fnet-header-footer-fnet-header-footer-footer-menu" class="block block-fnet-header-footer no-title odd first block-count-5 block-region-footer block-fnet-header-footer-footer-menu"><div class="block-inner clearfix">  
+  
+  <div class="block-content content">
+<!-- Footer - Begin -->
+<div id="footer_main">
+  <div id="footer_wrapper">
+    <div id="footer_inner">
+
+      <div class="footer_box">
+        <div class="footer_title"><a href="/solutions">SOLUTIONS</a></div>
+        <div class="footer_link"><a href="/solutions/roles">Roles</a></div>
+        <div class="footer_link"><a href="/learn-about">Learn About</a></div>
+        <div class="footer_link"><a href="/case-studies">Case Studies</a></div>
+        <div class="clear_15px">&nbsp;</div>
+        <div class="footer_subtitle"><a href="/blog">Blog:</a></div>
+        <div class="footer_link"><a href="/blog/cabling-chronicles">Cabling
+            Chronicles</a></div>
+      </div>
+
+      <div class="footer_box">
+        <div class="footer_title"><a href="/products">PRODUCTS</a></div>
+        <div class="footer_link"><a href="/cabling-certification">Cabling Certification</a>
+        </div>
+        <div class="footer_link"><a href="/installation-and-test">Installation and Test</a>
+        </div>
+        <div class="footer_link"><a href="/telecom-test">Telecom Test</a></div>
+        <div class="footer_link"><a href="/product_finder">Product Finder</a>
+        </div>
+        <div class="footer_link"><a href="/products">See All Products</a></div>
+        <div class="footer_link"><a href="/promotions-home">Promotions</a></div>
+      </div>
+
+      <div class="footer_box">
+        <div class="footer_title"><a href="/support">SUPPORT</a></div>
+        <div class="footer_link"><a href="/gold">Gold Product Support</a></div>
+        <div class="footer_link"><a href="/support/downloads">Downloads &amp; Updates</a></div>
+        <div class="footer_link"><a href="/kb">Knowledge Base</a></div>
+        <div class="footer_link"><a href="/support/service-centers">Service
+            Centers</a></div>
+        <div class="footer_link"><a href="/content/standard-warranty">Warranty
+            Information</a></div>
+        <div class="footer_link"><a href="/support/application-notes">Application
+            Notes</a></div>
+        <div class="footer_link"><a href="/support/datasheets">Data Sheets</a>
+        </div>
+        <div class="footer_link"><a href="/support/manuals">Manuals</a></div>
+      </div>
+
+      <div class="footer_box">
+        <div class="footer_title"><a href="/community">COMMUNITY</a></div>
+        <div class="clear_20px">&nbsp;</div>
+        <div class="footer_title"><a href="/about-us">ABOUT US</a></div>
+        <div class="footer_link"><a href="https://fortive.taleo.net/careersection/fluke/jobsearch.ftl?lang=en&amp;radiusType=K&amp;searchExpanded=true&amp;organization=3100100284&amp;radius=1" target="_blank">Careers</a></div>
+      </div>
+
+      <div class="footer_box">
+        <div class="footer_title"><a href="/news">NEWS &amp; EVENTS</a></div>
+        <div class="footer_link"><a href="/news">News Articles</a></div>
+        <div class="footer_link"><a href="/news">Upcoming Events</a></div>
+        <div class="footer_link"><a href="/news">Training</a></div>
+        <div class="footer_link"><a href="/news">Workshops</a></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!--Google -->
+<meta name="google-site-verification" content="yH4QxKQIuhIR0gYw8o50ubbthoG-v6TadOK02RbmuWQ">
+
+<!--Bing -->
+<meta name="msvalidate.01" content="3641B35956F1B33717802D1D96205243">
+
+
+
+
+
+</div>
+  </div></div><div id="block-fnet-header-footer-fnet-header-footer-bottom-menu" class="block block-fnet-header-footer no-title even last block-count-6 block-region-footer block-fnet-header-footer-bottom-menu"><div class="block-inner clearfix">  
   
   <div class="block-content content">
 <div class="clear_20px">&nbsp;</div>
@@ -713,88 +769,6 @@ twttr.conversion.trackPid('l60es', { tw_sale_amount: 0, tw_order_quantity: 0 });
 </div>
 
 <div class="clear_1px">&nbsp;</div>
-</div>
-  </div></div><div id="block-fnet-header-footer-fnet-header-footer-footer-menu" class="block block-fnet-header-footer no-title"><div class="block-inner clearfix">  
-  
-  <div class="block-content content">
-<!-- Footer - Begin -->
-<div id="footer_main">
-  <div id="footer_wrapper">
-    <div id="footer_inner">
-
-      <div class="footer_box">
-        <div class="footer_title"><a href="/solutions">SOLUTIONS</a></div>
-        <div class="footer_link"><a href="/solutions/topics">Topics</a></div>
-        <div class="footer_link"><a href="/solutions/roles">Roles</a></div>
-        <div class="footer_link"><a href="/solutions/industries">Industries</a>
-        </div>
-        <div class="footer_link"><a href="/learn-about">Learn About</a></div>
-        <div class="footer_link"><a href="/case-studies">Case Studies</a></div>
-        <div class="clear_15px">&nbsp;</div>
-        <div class="footer_subtitle"><a href="/blog">Blog:</a></div>
-        <div class="footer_link"><a href="/blog/cabling-chronicles">Cabling
-            Chronicles</a></div>
-      </div>
-
-      <div class="footer_box">
-        <div class="footer_title"><a href="/products">PRODUCTS</a></div>
-        <div class="footer_link"><a href="/datacom-cabling">Datacom Cabling</a>
-        </div>
-        <div class="footer_link"><a href="/enterprise-network">IT Networking</a>
-        </div>
-        <div class="footer_link"><a href="/telecom">Telecom</a></div>
-        <div class="footer_link"><a href="/product_finder">Product Finder</a>
-        </div>
-        <div class="footer_link"><a href="/products">See All Products</a></div>
-        <div class="footer_link"><a href="/promotions-home">Promotions</a></div>
-      </div>
-
-      <div class="footer_box">
-        <div class="footer_title"><a href="/support">SUPPORT</a></div>
-        <div class="footer_link"><a href="/gold">Gold Product Support</a></div>
-        <div class="footer_link"><a href="/support/downloads">Downloads &amp;
-            Updates</a></div>
-        <div class="footer_link"><a href="/kb">Knowledge Base</a></div>
-        <div class="footer_link"><a href="/support/service-centers">Service
-            Centers</a></div>
-        <div class="footer_link"><a href="/content/standard-warranty">Warranty
-            Information</a></div>
-        <div class="footer_link"><a href="/support/application-notes">Application
-            Notes</a></div>
-        <div class="footer_link"><a href="/support/datasheets">Data Sheets</a>
-        </div>
-        <div class="footer_link"><a href="/support/manuals">Manuals</a></div>
-      </div>
-
-      <div class="footer_box">
-        <div class="footer_title"><a href="/community">COMMUNITY</a></div>
-        <div class="clear_20px">&nbsp;</div>
-        <div class="footer_title"><a href="/about-us">ABOUT US</a></div>
-        <div class="footer_link"><a href="https://danaher.taleo.net/careersection/flukeint/jobsearch.ftl?lang=en&amp;radiusType=K&amp;radius=1&amp;organization=1701382850&amp;portal=201430233" target="_blank">Careers</a></div>
-      </div>
-
-      <div class="footer_box">
-        <div class="footer_title"><a href="/news">NEWS &amp; EVENTS</a></div>
-        <div class="footer_link"><a href="/news">News Articles</a></div>
-        <div class="footer_link"><a href="/news">Upcoming Events</a></div>
-        <div class="footer_link"><a href="/news">Training</a></div>
-        <div class="footer_link"><a href="/news">Workshops</a></div>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-<!--Google -->
-<meta name="google-site-verification" content="yH4QxKQIuhIR0gYw8o50ubbthoG-v6TadOK02RbmuWQ">
-
-<!--Bing -->
-<meta name="msvalidate.01" content="3641B35956F1B33717802D1D96205243">
-
-
-
-
-
 </div>
   </div></div></div></div>                  </footer>
       </div>
@@ -829,9 +803,7 @@ twttr.conversion.trackPid('l60es', { tw_sale_amount: 0, tw_order_quantity: 0 });
   <div class="clear">&nbsp;</div>
 </div>
 <!-- END: Region Menu -->
-<div class="region region-page-bottom"><div class="region-inner clearfix"><!-- LeadLander -->
-<script type="text/javascript" language="javascript">llactid = 12103</script>
-<script type="text/javascript" language="javascript" src="https://trackalyzer.com/trackalyze_secure.js"></script><!-- Marketo - Begin -->
+<div class="region region-page-bottom"><div class="region-inner clearfix"><!-- Marketo - Begin -->
 <script type="text/javascript">
   (function ($) {
     $.ajax({
@@ -847,7 +819,11 @@ twttr.conversion.trackPid('l60es', { tw_sale_amount: 0, tw_order_quantity: 0 });
 <!-- Marketo - End -->
 <!-- Pop.to Widget Loader Script - Begin -->
 <script type="text/javascript" src="//b2c-mlm.marketo.com/jsloader/efa80e1e-483c-4600-874d-bfef6db9cb8f/loader.php.js"></script>
-<!-- Pop.to Widget Loader Script - End --><!-- Use of this pixel is subject to the Amazon ad specs and policies at http://www.amazon.com/b/?&node=7253015011 --><img height="1" width="1" border="0" alt="" src="https://s.amazon-adsystem.com/iui3?d=forester-did&amp;ex-fargs=%3Fid%3Da86e92f6-23b1-666a-b76b-3d1e7fb7cdfc%26type%3D55%26m%3D1&amp;ex-fch=416613&amp;ex-src=flukenetworks.com&amp;ex-hargs=v%3D1.0%3Bc%3DFLUKE%3Bp%3DH"></div></div><script>(function($) {$( "input.datepicker" ).datepicker({dateFormat: 'mm/dd/yy'});})(jQuery);</script>
-
+<!-- Pop.to Widget Loader Script - End --><!-- Use of this pixel is subject to the Amazon ad specs and policies at http://www.amazon.com/b/?&node=7253015011 --><img height="1" width="1" border="0" alt="" src="https://s.amazon-adsystem.com/iui3?d=forester-did&amp;ex-fargs=%3Fid%3Da86e92f6-23b1-666a-b76b-3d1e7fb7cdfc%26type%3D55%26m%3D1&amp;ex-fch=416613&amp;ex-src=flukenetworks.com&amp;ex-hargs=v%3D1.0%3Bc%3DFLUKE%3Bp%3DH"></div></div><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function($) {$( "input.datepicker" ).datepicker({dateFormat: 'mm/dd/yy'});})(jQuery);
+//--><!]]>
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"512b64a6dc","applicationID":"25787403","transactionName":"M1wHZksFD0EFVkdZDAoWJFFNDQ5cS1tcVAY7SQRVXDsXWwFC","queueTime":0,"applicationTime":204,"atts":"HxsEEAMfHE8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
