@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the covestor.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608004617id_/http%3A//site.covestor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covestor.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124010222id_/http%3A//site.covestor.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Covestor
 
@@ -9,7 +9,7 @@ This policy outlines the types of information we collect about you and how we us
   
 
 
-#### 1\. What Information We Collect
+#### 1\. What information we collect
 
   1. When you sign up to become a member of Covestor, we collect certain non-public personal information about you (such as your name, address, social security number, email addresses, telephone numbers and personal, financial and investment status etc.) from information that you provide on applications or other forms as well as communications (electronic, telephone, written or in person) with you or your authorized representatives (such as your attorney, accountant, etc.).
 
@@ -19,14 +19,14 @@ This policy outlines the types of information we collect about you and how we us
   
 
 
-#### 2\. Information Collected From All Visitors
+#### 2\. Information collected from all visitors
 
 We collect two types of information from our users. The first is information that users provide through optional, voluntary submissions such as opening an account or requests to receive information from Covestor. The second is information that we gather through aggregated tracking information derived while you are browsing the covestor.com website. Anonymous information will be gathered in our computer system log files to allow us to better tailor our content to readers´ needs, help us better understand the demographics of our audience and improve our products. Under no circumstances do we divulge any information about an individual user to a third party. 
 
   
 
 
-#### 3\. What Information We Disclose
+#### 3\. What information we disclose
 
   1. We do not disclose the non-public personal information we collect about our clients and portfolio managers to anyone except:
 
@@ -44,7 +44,7 @@ We collect two types of information from our users. The first is information tha
   
 
 
-#### 4\. Security of Your Information
+#### 4\. Security of your information
 
   1. We restrict access to your non-public personal information to those employees who need to know that information to service your account.
 
@@ -70,7 +70,7 @@ We collect two types of information from our users. The first is information tha
   
 
 
-#### 6\. Web Site Usage
+#### 6\. Website usage
 
   1. When you visit our website we use “cookies” or other similar web tools to enhance the user experience. These tools enable us to maintain your web session while you browse the site as well as helping us provide you with a better, more personalized experience. Our cookies do not contain any personally identifiable information.
 
@@ -80,7 +80,7 @@ We collect two types of information from our users. The first is information tha
   
 
 
-#### 7\. Amending Your Account Information
+#### 7\. Amending your account information
 
   1. We are committed to keeping accurate and up-to-date records to help ensure the integrity of the services we offer. If you identify an inaccuracy in, or need to make a change to your account information, please either update the information if you are able to do so directly on our website or alternatively contact Client Services by phone at 1 (866) 825-3005 or by email at clientrelations@covestor.com.
 
@@ -90,7 +90,7 @@ We collect two types of information from our users. The first is information tha
   
 
 
-#### 8\. Changes to our Privacy Policy or Relationship with You
+#### 8\. Changes to our Privacy Policy or relationship with you
 
   1. Our policy about obtaining and disclosing information may change from time to time.
 
@@ -102,5 +102,8 @@ We collect two types of information from our users. The first is information tha
 
 #### Date
 
-04 April 2016  
+April 04, 2016  
 Copyright © 2016 Covestor Ltd. All rights reserved.
+
+  
+
