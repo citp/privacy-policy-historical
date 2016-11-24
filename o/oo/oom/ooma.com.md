@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ooma.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622025415id_/http%3A//www.ooma.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ooma.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124040631id_/http%3A//www.ooma.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Home Phone Service | Ooma – Ranked # 1 Internet Home Phone Service
 
