@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tuffclassified.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629005023id_/http%3A//tuffclassified.com/privacy-p24) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuffclassified.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124034653id_/https%3A//tuffclassified.com/privacy-p24) for the most accurate reproduction.*
 
-# Privacy- Tuffclassified
+# Privacy - TuffClassified
 
-We can be contacted via e-mail at [Contact Us](http://tuffclassified.com/contact/).[](http://st1.tuffclassified.in/wp-content/uploads/2009/08/PagePicsPrivacy.png)
+**We can be contacted via e-mail at  [Contact Us](http://tuffclassified.com/contact/).**
 
 For each visitor to our Web page, our Web server automatically recognizes information of your browser, IP address, City/State/Country.
 
@@ -20,6 +20,6 @@ We use third-party companies to serve ads and collect non-personally identifiabl
 
 If you feel that this site is not following its stated information policy, you may contact us via our contact page.
 
-Disclaimer:
+#### Disclaimer:
 
 The information contained in this website is for reference only. While every reasonable care has been taken in the preparation of this site, the owner or its representative and agents shall not be held responsible for any inaccuracies. Nothing contained herein shall constitute or be construed as an offer, representation or warranty whether expressly or implicitly on the pact of the owner or its representatives or agents. Interested person are advised to make their own inquiries and satisfy themselves in all respects.
