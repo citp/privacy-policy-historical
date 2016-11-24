@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the findatopdoc.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604214259id_/http%3A//findatopdoc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findatopdoc.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124221742id_/https%3A//www.findatopdoc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy FindATopDoc | Best Local Doctor Reviews | Search and Book Appointments
 
 **FindaTopDoc Inc.**
 
-FindaTopDoc (“us”, “our” or “we”) respects the privacy of the visitors to its Website, the home page of which is located at http://www.findatopdoc.com/ (the “Site”). This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of Personal Information and Anonymous Information you submit to us through our Site. Please note that the type of information we collect and hold about you will depend on whether or not you are a registered user of our Website.
+FindaTopDoc (“us”, “our” or “we”) respects the privacy of the visitors to its Website, the home page of which is located at https://www.findatopdoc.com/ (the “Site”). This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of Personal Information and Anonymous Information you submit to us through our Site. Please note that the type of information we collect and hold about you will depend on whether or not you are a registered user of our Website.
 
 This Privacy Policy has been developed in accordance with our legal obligations. This Privacy Policy applies to all Personal Information and Anonymous Information, excluding our employee information and information in the public domain that has been and will be collected, used and disclosed by FindaTopDoc. 
 
