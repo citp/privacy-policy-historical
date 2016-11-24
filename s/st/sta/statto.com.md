@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statto.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619185458id_/http%3A//www.statto.com/home/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statto.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124070656id_/http%3A//www.statto.com/home/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy - Statto.com
 
