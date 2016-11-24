@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tagul.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326090526id_/https%3A//tagul.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tagul.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124130508id_/https%3A//tagul.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tagul
 
@@ -18,7 +18,7 @@ Tagul.com does use cookies to store information about visitors preferences, reco
 
 .:: Google, as a third party vendor, uses cookies to serve ads on Tagul.com.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to Tagul.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: http://www.google.com/privacy_ads.html
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network settings at the following URL: https://www.google.com/settings/ads
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
 
