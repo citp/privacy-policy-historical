@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywoodmoviesfull.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402083201id_/http%3A//bollywoodmoviesfull.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodmoviesfull.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124183928id_/http%3A//www.bollywoodmoviesfull.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Watch online hindi movies hd
 
@@ -61,5 +61,5 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://bollywoodmoviesfull.net/  
+http://www.bollywoodmoviesfull.org/  
 webmaster@bollywoodmoviesfull.net
