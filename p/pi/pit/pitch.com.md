@@ -1,83 +1,45 @@
-> *The following text is extracted and transformed from the pitch.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329140447id_/http%3A//www.pitch.com/kansascity/PrivacyPolicy/Page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitch.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124125504id_/http%3A//www.pitch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Pitch
+# Kansas City Pitch
 
-### Kansas City Pitch, LLC
+### The Pitch Privacy Policy
 
-This Privacy Policy is effective as of June 28, 2010.
+The Pitch recognizes the importance of protecting the privacy of information provided to us by those who use our products and services. This policy describes how personally identifiable and anonymous information about our publication subscribers, online media product users and event registrants may be collected and shared.
 
-This Privacy Policy describes the practices that Kansas City Pitch, LLC ("The Pitch") follows with respect to the collection, maintenance and use of information submitted on pitch.com (the "Site"). This Privacy Policy applies only to information we collect from this Site, and does not apply to any other website or business activity of The Pitch. By using our Site, and/or providing information to us, you consent to the collection, maintenance and use of this information by us. 
+Please be sure to read this Privacy Policy before using any The Pitch Web Site or submitting information through a Site. By using any of our Web Sites, you consent to our use of your information as outlined in this Privacy Policy and accept the terms and conditions herein.
 
-If you do not agree to the terms of this Privacy Policy, please do not use the Site and exit immediately. We reserve the right to modify or amend the terms of this Privacy Policy from time to time. Your continued use of the Site following the posting of changes to these terms means that you accept those changes. We will give you notice of the revised Privacy Policy by posting the revised policy on the Site and by revising the "effective date" set forth above.
+This Privacy Policy is current as of March 4, 2011. If we change our privacy practices, we will also update this Privacy Policy. Users should review this policy periodically to monitor any changes. Your continued use of our sites and services constitutes your acceptance of this entire Privacy Policy, as updated from time to time. The Pitch reserves the right to access and disclose personally identifiable information to comply with applicable laws, lawful government requests and any orders of the court.
 
-### Information We Collect
+### How does The Pitch collect your information?
 
-We collect and maintain personally identifiable information and automatic information.
+The Pitch uses cookies and other internet technologies in the management of our Web Site and email programs in an effort to enrich your online experience. We may also use IP addresses to gather broad geographic information for aggregate use. Our cookies do not contain any information that is personally identifiable. Like many Web Sites, The Pitch may use pixel tags, also known as web beacons, clear gifs, or web bugs. Pixel tags help us improve our understanding of our web traffic and visitor behavior, as well as gauge the response to our promotional efforts. If you wish, you may disable pixel tags by setting your browser to omit images and disable JavaScript.
 
-#### Personally Identifiable Information
+We use industry-standard, third party advertising service companies to serve advertisements when you visit our sites or open our emails. These companies may use cookies, pixel tags, and other methods to collect information about your visit to our Web Site, and others, in order to provide you with relevant advertisements about products, services, and events. These collection methods do not typically include your name, address, or telephone number. These elements also provide us with aggregate pictures of traffic patterns, which help us to improve your site experience and monitor advertising effort
 
-"Personally identifiable information" is information that tells us who you are, such as your name, screen name, email address, postal address, phone number, credit card information, birth date/year and gender. 
+### When is personally identifiable information collected? How is your information used?
 
-The Pitch collects and maintains personally identifiable information about you only when you provide it to us. For example, we may collect and maintain personally identifiable information about you when you register for or participate in contests, sweepstakes, promotions, polls, surveys, newsletters and text messages (including contests, sweepstakes, promotions, polls, surveys, newsletters and text messages of certain third parties). We may also collect and maintain personally identifiable information when you post an ad, submit comments to the Site or letters to the editor, submit events for inclusion on our Site, purchase event tickets from us, or otherwise provide it to us when you contact us.
+The Pitch collects personally identifiable information that you choose to provide us when you subscribe to our magazines, sign up for e-newsletters, enter a contest, participate in surveys, login into our Web Sites using a third party login system (including, but not limited to, Facebook Connect, Twitter, etc.), register for a Web Site, webcast, or trade show, or otherwise communicate with us. When you provide this information to us, you are no longer anonymous. The Pitch does not take any steps to protect the privacy of information you volunteer about yourself in forums or other publicly accessible sections of our Web Sites.
 
-If you do not provide information to us, you may be unable to use certain features of the Site. For example, you cannot post comments in connection with certain articles or register for the Site, contests, surveys or newsletters unless you provide certain information. Also, you will not be able to submit events for inclusion on our Site or purchase event tickets if you do not provide certain information.
+We may use your contact information to send notices for subscription renewal or provide you with information about products or services you have ordered with us. We may also use your contact information to send you e-newsletters or other promotional e-mails that contain targeted, relevant content that may be useful to your business. All promotional e-mails you receive from us will include an option to opt out of similar e-mail communications in the future.
 
-### Automatic Information and Cookies
+### With whom does The Pitch share your information?
 
-"Automatic information" is information automatically collected by our web server (which may be hosted by a third party) that your web browser makes available whenever you visit our Site, such as your browser type and capabilities, network properties, the site that you visited before viewing our Site, content viewed on the Site, and your geographic location. We maintain such data in aggregated form; it is not associated with your IP address or personally identifiable information.
+The Pitch may share information with our affiliates and business partners whom we believe share our commitment to privacy and information security. We may share identifiable information or anonymized aggregate information with advertisers and other third parties. In some cases you may receive relevant, carefully-screened offers from reputable third party business organizations with which we have shared your information. Many of our customers appreciate receiving these offers because they are relevant and useful to their business or occupation. Each such communication will provide you with an opportunity to opt out of similar future communications.
 
-IP address tracking: All computers and servers on the Internet use IP addresses to recognize and communicate with each other. We collect and maintain IP addresses to administer and analyze our Site and report aggregate information (such as how many visitors we have and how many visitors see and click on particular advertisements).
+From time to time, you may receive information from or on behalf of advertisers who wish to contact you as a result of your viewing habits, such as where you have clicked on a link in a The Pitch e-newsletter, interacted with particular content, or indicated an interest in certain products, services or events. Each such form of contact will provide you with an opportunity to opt out of sharing your information with our advertisers. We may also use your information to send you e-mail and other communications on behalf of third parties. Each such communication will provide you with an opportunity to opt out of similar future communications.
 
-We may associate your IP address with your personally identifiable information and may maintain, use and disclose such information in accordance with the terms of this Privacy Policy below.
+In compliance with privacy laws, we provide our opt-out lists to third parties so that any communications sent on The Pitch's behalf are not sent to those who have opted out of receiving such communications.
 
-Cookies: This Site also uses "cookies." "Cookies" are small text files that allow websites to store and retrieve information about you from your computer system. The Pitch does serve cookies to track individual site usage for later aggregation, but does not use cookies in order to retrieve any information from your computer other than information originally sent in a The Pitch cookie, such as a user code. We have no control over whether and how our advertisers use cookies that originate from their website or other websites. You are always free to decline our cookies if your browser permits, but you may not be able to take full advantage of our Site's features if you do.
+### How does The Pitch protect your information?
 
-We do not and cannot use cookies or IP address tracking to retrieve personally identifiable information from your computer.
+We use reasonable precautions, including appropriate technical, administrative, and physical procedures, to try to protect collected personal information from loss, misuse, or alteration.
 
-### Use and Disclosure of Information
+Many of our Web Sites contain links to Web Sites owned and operated by unaffiliated third parties. These links are provided as a service to you, and do not constitute The Pitch's endorsement or support of those third parties or their Web Sites. Each third party Web Site has its own information collection and use practices, and we advise you to review their policies.
 
-We maintain and use personally identifiable information for the purpose or purposes for which it is provided. For example, we may maintain and use personally identifiable information to send newsletters and text messages that you have opted to receive; to establish your online account and recognize you when you return to the Site; to contact you regarding contests, promotions, polls, and surveys; to complete the sale of event tickets; to provide customer support; or to otherwise communicate with you regarding our Site, an ad you posted, an event you submitted to the Site, or your comments or letters to the editor.
+The Pitch is not responsible or liable for third party privacy practices or the content of third party sites. We are not responsible or liable for any breach of security or for the actions of these parties.
 
-We may also maintain and use your personally identifiable information to attribute your comments, letters to the editor and/or other submissions to the Site to you. As has traditionally been the case with our print editions, we may require that you supply certain information to us (such as your real name, daytime telephone number and/or e-mail address) in connection with comments and other submissions to the Site. That is because we may need to contact you, and because your identity may be important to understand your point of view. If you send us comments or other submissions, we reserve the right to publish them in print or display them on this Site in full or in edited form. We normally honor requests to withhold your name and address when provided in connection with comments and other submissions, both in print and on-line, but we reserve the right to use, discuss and report facts that we consider newsworthy relating to submissions even if it might reveal or tend to reveal the poster's identity.
+Due to the design of the Internet and other factors outside our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties. Any information you provide may be stored and maintained in a The Pitch database, either housed at The Pitch or with a third party vendor. In the case of a sale, change of ownership or merger involving The Pitch or any parent, subsidiary or affiliated company, your information may be transferred to a third party.
 
-From time to time, we may send you information with announcements and updates about the Site and The Pitch and our partners. 
+### What are your options for how The Pitch uses or shares your information?
 
-We may disclose personally identifiable information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may have breached our Terms of Use or who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other users of our Site, or anyone else who could be harmed by such activities. We may also disclose personally identifiable information when we reasonably believe that the law requires it. 
-
-If you chose to provide your personally identifiable information for the purposes of a third-party contest, promotion, poll, survey or newsletter, your personally identifiable information will be given to The Pitch and to the third-party advertiser/sponsor involved with the relevant contest, promotion, poll, survey or newsletter and/or its agents and affiliates. To the extent the contest, promotion, poll, survey or newsletter has its own terms that conflict with the terms of this Privacy Policy, the terms of the contest, promotion, poll, survey, or newsletter govern. 
-
-We occasionally have third party agents, subsidiaries, affiliates and joint ventures that perform functions on our behalf, such as credit card processing, shipping or stocking orders, providing customer service, etc. They are provided access to personal information needed to perform their functions. 
-
-In the event of a sale of The Pitch or a sale of substantially all The Pitch' assets, personally identifiable information may be one of the business assets transferred or sold. 
-
-We may maintain and use automatic information to track how our visitors use the Site, study traffic patterns, and run and maintain the site, and may provide targeted advertisements to you based on such data. 
-
-Although we do not currently engage in such practices, The Pitch may in the future disclose automatic information to advertising networks that may use such information in connection with erecting and displaying targeted advertisements both on our website and on unaffiliated websites.
-
-We may share aggregated data with our advertisers.
-
-This Privacy Policy does not apply to any information you choose to make public. 
-
-### Opt-Out
-
-You may terminate any ongoing communications you receive from The Pitch via e-mail (such as newsletters, subscriptions, contest results, survey inquiries, etc.) by (1) clicking the "unsubscribe" link that is available within the communication received, or (2) through your online profile.
-
-### Children
-
-Some of the material on this Site is for mature audiences, and parents and guardians should take responsibility for monitoring their children's use of the Site. Children under the age of 13 should not use this Site. We do not intentionally collect personally identifiable information from users of the Site who are under the age of thirteen.
-
-### Links to Other Sites
-
-This Site provides links to websites maintained by other organizations. The Pitch provides these links as a convenience to users, but it does not operate, control or endorse such sites. The Pitch also disclaims any responsibility for the information on those sites and any products or services offered on such sites. Please review the privacy policies of these sites. The Pitch is not responsible for any actions or policies of such third parties, and does not make any warranties or representations that any linked sites (or even this Site) will function without error or interruption, that defects will be corrected, or that the sites and their servers are free of viruses and other problems that can harm your computer. The Pitch disclaims any responsibility for transactions conducted on those sites and cannot vouch for the security of the information submitted in those transactions. 
-
-### E-Commerce and Our Secure Server
-
-We use reasonable efforts to protect your personally identifiable information from unauthorized use or disclosure. Unfortunately, information transmitted on the Internet and/or stored on systems attached to the Internet are not 100% secure. As a result, we do not ensure, warrant or guarantee the security or integrity of such information. We will not be responsible for disclosure of any information due to errors in transmission or the unauthorized acts of third parties. 
-
-### Updates and Changes to Your Information.
-
-If your personally identifiable information changes, you may correct and/or update it by sending us an email at [community@pitch.com](mailto:community@pitch.com). You may also view, correct and/or update your personally identifiable information by accessing your profile on the Site. 
-
-### More Questions? 
-
-If you have any questions about this privacy policy, please e-mail them to [joel.hornbostel@pitch.com](mailto:joel.hornbostel@pitch.com), and be sure to indicate the specific site you are visiting and the nature of your question or concern.
+If you wish to opt out of receiving postal, email, fax or phone calls from The Pitch please send an email to: [PrivacyManager@southcomm.com](mailto:PrivacyManager@southcomm.com) . You may also call 800-547-7377 and ask for the Privacy Manager, or mail your request to the attention of the Privacy Manager at 210 12th Ave. South, Nashville, TN 37203. Specifically who this privacy manager is and how contacting them will work is subject to change. We will attempt to process any such requests within 10 business days or as soon as reasonably possible thereafter.
