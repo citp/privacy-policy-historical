@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iamwire.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609195515id_/http%3A//www.iamwire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamwire.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124103017id_/http%3A//www.iamwire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iamwire
 
@@ -135,7 +135,6 @@ iamwire welcomes any questions or comments you may have regarding this Privacy P
 
 **Corporate Office**
 
-Wirefoot India Technology Private Limited  
 SCO – 18, 2nd Floor, Housing Board Complex  
 Saraswati Vihar, Near MG Road  
 Gurgaon – 122002, Haryana, India  
