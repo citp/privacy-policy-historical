@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cambridgesatchel.co.uk privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609075118id_/http%3A//www.cambridgesatchel.com/en-gb/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cambridgesatchel.co.uk privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124165807id_/http%3A//www.cambridgesatchel.com/en-gb/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # Cambridge Satchel Privacy Policy
 
