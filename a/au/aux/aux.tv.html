@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aux.tv privacy policy that was archived on 2016-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160408131301id_/http%3A//www.aux.tv/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aux.tv privacy policy that was archived on 2016-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161124101649id_/http%3A//www.aux.tv/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head prefix="og: http://ogp.me/ns#">
 		<meta charset="utf-8">
@@ -9,10 +9,14 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width,user-scalable=no,maximum-scale=1.0">
         		<link rel="canonical" href="http://www.aux.tv/privacy-policy/">
-				<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/www.aux.tv\/wp-includes\/js\/wp-emoji.js?ver=4.3.2","twemoji":"http:\/\/www.aux.tv\/wp-includes\/js\/twemoji.js?ver=4.3.2"}};
+		<link rel="dns-prefetch" href="//cdn.optimizely.com">
+<link rel="dns-prefetch" href="//static.freeskreen.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+		<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/www.aux.tv\/wp-includes\/js\/wp-emoji.js?ver=4.6.1","twemoji":"http:\/\/www.aux.tv\/wp-includes\/js\/twemoji.js?ver=4.6.1"}};
 			( function( window, document, settings ) {
-	var src, ready;
+	var src, ready, ii, tests;
 
 	/**
 	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
@@ -20,12 +24,14 @@
 	 *
 	 * @since 4.2.0
 	 *
-	 * @param type {String} Whether to test for support of "simple" or "flag" emoji.
+	 * @param type {String} Whether to test for support of "simple", "flag", "diversity" or "unicode8" emoji.
 	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
 	 */
 	function browserSupportsEmoji( type ) {
 		var canvas = document.createElement( 'canvas' ),
-			context = canvas.getContext && canvas.getContext( '2d' );
+			context = canvas.getContext && canvas.getContext( '2d' ),
+			stringFromCharCode = String.fromCharCode,
+			flag, flag2, tonedata, tone, tone2;
 
 		if ( ! context || ! context.fillText ) {
 			return false;
@@ -39,27 +45,83 @@
 		context.textBaseline = 'top';
 		context.font = '600 32px Arial';
 
-		if ( type === 'flag' ) {
-			/*
-			 * This works because the image will be one of three things:
-			 * - Two empty squares, if the browser doesn't render emoji
-			 * - Two squares with 'G' and 'B' in them, if the browser doesn't render flag emoji
-			 * - The British flag
-			 *
-			 * The first two will encode to small images (1-2KB data URLs), the third will encode
-			 * to a larger image (4-5KB data URL).
-			 */
-			context.fillText( String.fromCharCode( 55356, 56812, 55356, 56807 ), 0, 0 );
-			return canvas.toDataURL().length > 3000;
-		} else {
-			/*
-			 * This creates a smiling emoji, and checks to see if there is any image data in the
-			 * center pixel. In browsers that don't support emoji, the character will be rendered
-			 * as an empty square, so the center pixel will be blank.
-			 */
-			context.fillText( String.fromCharCode( 55357, 56835 ), 0, 0 );
-			return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+		switch ( type ) {
+			case 'flag':
+				/*
+				 * This works because the image will be one of three things:
+				 * - Two empty squares, if the browser doesn't render emoji
+				 * - Two squares with 'A' and 'U' in them, if the browser doesn't render flag emoji
+				 * - The Australian flag
+				 *
+				 * The first two will encode to small images (1-2KB data URLs), the third will encode
+				 * to a larger image (4-5KB data URL).
+				 */
+				context.fillText( stringFromCharCode( 55356, 56806, 55356, 56826 ), 0, 0 );
+				if ( canvas.toDataURL().length < 3000 ) {
+					return false;
+				}
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				/*
+				 * Test for rainbow flag compatibility. As the rainbow flag was added out of sequence with
+				 * the usual Unicode release cycle, some browsers support it, and some don't, even if their
+				 * Unicode support is up to date.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (white flag emoji + rainbow emoji).
+				 */
+				context.fillText( stringFromCharCode( 55356, 57331, 65039, 8205, 55356, 57096 ), 0, 0 );
+				flag = canvas.toDataURL();
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				context.fillText( stringFromCharCode( 55356, 57331, 55356, 57096 ), 0, 0 );
+				flag2 = canvas.toDataURL();
+
+				return flag !== flag2;
+			case 'diversity':
+				/*
+				 * This tests if the browser supports the Emoji Diversity specification, by rendering an
+				 * emoji with no skin tone specified (in this case, Santa). It then adds a skin tone, and
+				 * compares if the emoji rendering has changed.
+				 */
+				context.fillText( stringFromCharCode( 55356, 57221 ), 0, 0 );
+				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
+				tone = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
+
+				context.fillText( stringFromCharCode( 55356, 57221, 55356, 57343 ), 0, 0 );
+				// Chrome has issues comparing arrays, and Safari has issues converting arrays to strings.
+				// So, we create our own string and compare that, instead.
+				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
+				tone2 = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
+
+				return tone !== tone2;
+			case 'simple':
+				/*
+				 * This creates a smiling emoji, and checks to see if there is any image data in the
+				 * center pixel. In browsers that don't support emoji, the character will be rendered
+				 * as an empty square, so the center pixel will be blank.
+				 */
+				context.fillText( stringFromCharCode( 55357, 56835 ), 0, 0 );
+				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+			case 'unicode8':
+				/*
+				 * To check for Unicode 8 support, let's try rendering the most important advancement
+				 * that the Unicode Consortium have made in years: the burrito.
+				 */
+				context.fillText( stringFromCharCode( 55356, 57135 ), 0, 0 );
+				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+			case 'unicode9':
+				/*
+				 * Do Unicode 9 emoji render?
+				 * ¯\_(ツ)_/¯
+				 */
+				context.fillText( stringFromCharCode( 55358, 56631 ), 0, 0 );
+				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
 		}
+
+		return false;
 	}
 
 	function addScript( src ) {
@@ -70,17 +132,31 @@
 		document.getElementsByTagName( 'head' )[0].appendChild( script );
 	}
 
+	tests = Array( 'simple', 'flag', 'unicode8', 'diversity', 'unicode9' );
+
 	settings.supports = {
-		simple: browserSupportsEmoji( 'simple' ),
-		flag:   browserSupportsEmoji( 'flag' )
+		everything: true,
+		everythingExceptFlag: true
 	};
+
+	for( ii = 0; ii < tests.length; ii++ ) {
+		settings.supports[ tests[ ii ] ] = browserSupportsEmoji( tests[ ii ] );
+
+		settings.supports.everything = settings.supports.everything && settings.supports[ tests[ ii ] ];
+
+		if ( 'flag' !== tests[ ii ] ) {
+			settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && settings.supports[ tests[ ii ] ];
+		}
+	}
+
+	settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && ! settings.supports.flag;
 
 	settings.DOMReady = false;
 	settings.readyCallback = function() {
 		settings.DOMReady = true;
 	};
 
-	if ( ! settings.supports.simple || ! settings.supports.flag ) {
+	if ( ! settings.supports.everything ) {
 		ready = function() {
 			settings.readyCallback();
 		};
@@ -108,7 +184,7 @@
 	}
 
 } )( window, document, window._wpemojiSettings );
-		</script><script src="http://www.aux.tv/wp-includes/js/twemoji.js?ver=4.3.2" type="text/javascript"></script><script src="http://www.aux.tv/wp-includes/js/wp-emoji.js?ver=4.3.2" type="text/javascript"></script>
+		</script><script src="http://www.aux.tv/wp-includes/js/twemoji.js?ver=4.6.1" type="text/javascript"></script><script src="http://www.aux.tv/wp-includes/js/wp-emoji.js?ver=4.6.1" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -123,41 +199,55 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="aux-main-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/main.css?ver=4.3.2" type="text/css" media="all">
-<link rel="stylesheet" id="oswald-css" href="http://fonts.googleapis.com/css?family=Oswald%3A700%2C400%2C300&amp;ver=4.3.2" type="text/css" media="all">
-<link rel="stylesheet" id="aux-header-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/header.css?ver=4.3.2" type="text/css" media="all">
-<link rel="stylesheet" id="aux-body-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/body.css?ver=4.3.2" type="text/css" media="all">
-<link rel="stylesheet" id="aux-footer-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/footer.css?ver=4.3.2" type="text/css" media="all">
-<link rel="stylesheet" id="aux-posts-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/posts.css?ver=4.3.2" type="text/css" media="all">
-<link rel="stylesheet" id="aux-previous-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/previous.css?ver=4.3.2" type="text/css" media="all">
-<link rel="stylesheet" id="aux-related-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/related.css?ver=4.3.2" type="text/css" media="all">
-<link rel="stylesheet" id="aux-gallery-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/gallery.css?ver=4.3.2" type="text/css" media="all">
-<link rel="stylesheet" id="aux-magazine-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/magazine.css?ver=4.3.2" type="text/css" media="all">
-<link rel="stylesheet" id="aux-television-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/television.css?ver=4.3.2" type="text/css" media="all">
-<link rel="stylesheet" id="aux-contributors-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/contributors.css?ver=4.3.2" type="text/css" media="all">
-<link rel="stylesheet" id="aux-search-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/search.css?ver=4.3.2" type="text/css" media="all">
-<link rel="stylesheet" id="aux-social-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/social.css?ver=4.3.2" type="text/css" media="all">
-<link rel="stylesheet" id="aux-comments-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/comments.css?ver=4.3.2" type="text/css" media="all">
-<link rel="stylesheet" id="aux-contact-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/contact.css?ver=4.3.2" type="text/css" media="all">
-<link rel="stylesheet" id="aux-404-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/not-found.css?ver=4.3.2" type="text/css" media="all">
-<link rel="stylesheet" id="aux-ribbon-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/video-ribbon.css?ver=4.3.2" type="text/css" media="all">
-<link rel="stylesheet" id="aux-forms-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/forms.css?ver=4.3.2" type="text/css" media="all">
-<link rel="stylesheet" id="aux-widgets-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/widgets.css?ver=4.3.2" type="text/css" media="all">
-<link rel="stylesheet" id="aux-queries-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/media-queries.css?ver=4.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="aux-main-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/main.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="oswald-css" href="http://fonts.googleapis.com/css?family=Oswald%3A700%2C400%2C300&amp;ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="aux-header-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/header.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="aux-body-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/body.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="aux-footer-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/footer.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="aux-posts-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/posts.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="aux-previous-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/previous.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="aux-related-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/related.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="aux-gallery-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/gallery.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="aux-magazine-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/magazine.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="aux-television-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/television.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="aux-contributors-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/contributors.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="aux-search-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/search.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="aux-social-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/social.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="aux-comments-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/comments.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="aux-contact-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/contact.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="aux-404-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/not-found.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="aux-ribbon-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/video-ribbon.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="aux-forms-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/forms.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="aux-widgets-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/widgets.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="aux-queries-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/media-queries.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="aux-quiz-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/wpvq-custom.css?ver=4.6.1" type="text/css" media="all">
+<link rel="https://api.w.org/" href="http://www.aux.tv/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.aux.tv/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.aux.tv/wp-includes/wlwmanifest.xml"> 
 <link rel="canonical" href="http://www.aux.tv/privacy-policy/">
 <link rel="shortlink" href="http://www.aux.tv/?p=420440">
-<link rel="alternate" type="application/rss+xml" title="AUX.TV" href="http://www.aux.tv/feed/">
+<link rel="alternate" type="application/json+oembed" href="http://www.aux.tv/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.aux.tv%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://www.aux.tv/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.aux.tv%2Fprivacy-policy%2F&amp;format=xml">
+			<meta property="fb:pages" content="78780136186">
+			<link rel="alternate" type="application/rss+xml" title="AUX.TV" href="http://www.aux.tv/feed/">
 
 			<meta property="og:image" content="">
 		<meta property="og:title" content="Privacy Policy">
 		<meta property="og:url" content="http://www.aux.tv/privacy-policy/">
 		<meta property="og:site_name" content="AUX.TV">
-		<meta property="og:description" content="Blue Ant Media Inc. respects the privacy of all of its users and customers and is committed to protecting such privacy in accordance with this Privacy Policy. This policy explains Blue Ant Media Inc.'s and its subsidiaries' and affiliates’ (collectively, " blue="" ant="" media")="" treatment="" of="" your="" personally="" identifiable="" information="" collected="" in="" connection="" with="" activities="" on="" or="" related="" to="" all="" media="" websites="" referencing="" this="" policy="" (the="" "blue="" sites")="" and="" any="" services="" made="" available="" the="" sites="" (collectively,="" unless="" noted="" otherwise,="" services").="" we="" urge="" you="" read="" carefully="" check="" back="" periodically="" for="" changes,="" which="" will="" indicate="" latest="" revision="" date.="" does="" not="" apply="" practices="" companies="" that="" are="" owned="" controlled="" by="" access="" use="" site="" indicates="" understanding="" of,="" agreement="" be="" bound="" by,="" website="" terms="" conditions.="" what="" personal="" do="" collect?="" course="" operating="" services,="" may="" collect="" two="" types="" about="" our="" users="" customers:="" non-personal="" information.="" "personal="" information"="" is="" information,="" such="" as="" name,="" address,="" email="" birth="" date="" gender.="" us="" when="" choose="" provide="" it="" registering="" a="" service,="" subscribe="" service="" newsletter,="" enter="" promotion.="" addition,="" if="" contact="" customer="" representative="" ours="" feedback,="" keep="" record="" correspondence="" so="" fully="" address="" subject="" matter.="" also="" receive="" from="" business="" partners="" other="" third="" parties,="" provided="" parties="" confirm="" have="" permitted="" them="" share="" title,="" telephone="" number="" professional="" person="" an="" employee="" organization="" considered="" "non-personal="" linked="" specific="" person.="" includes="" technical="" internet="" protocol="" domain="" used="" type="" version="" browser="" system="" using,="" come="" visit="" next.="" aggregate="" demographic="" statistics="" customers="" (e.g.="" average="" age="" geographical="" allocation="" users),="" visitors="" time="" spent="" derived="" service.="" example,="" web="" servers="" automatically="" through="" stored="" cookie="" beacon="" how="" information?="" following="" purposes;="" a)="" providing="" requested="" us,="" including="" site.="" enhancements="" similar="" notices="" service;="" b)="" opted-into="" receiving="" offers="" certain="" selected="" sponsors="" advertisers,="" send="" materials="" mailings="" products="" feel="" interest="" you.="" at="" would="" like="" end="" subscription="" materials,="" follow="" directions="" posted="" bottom="" relevant="" website;="" c)="" contest="" promotion="" offered="" site,="" may,="" under="" rules="" promotion,="" name="" administer="" contacting,="" announcing="" promoting="" winners="" promotion;="" d)="" reasonable="" grounds="" believe="" could="" useful="" investigating="" contravention="" federal,="" provincial,="" foreign="" law="" order="" protect="" defend="" legal="" interest.="" disclosure="" sell="" rent="" party.="" only="" disclose="" circumstances:="" where="" specifically="" given="" consent="" designated="" purpose;="" persons="" acting="" behalf="" agents,="" suppliers="" providers,="" solely="" enable="" more="" efficiently="" entities="" act="" strict="" contractual="" controls,="" requiring="" maintain="" confidentiality="" purposes="" provision="" services;="" set="" out="" conditions="" applicable="" facilitate="" fulfilling="" requirements;="" required="" law,="" court,="" institution="" body="" jurisdiction="" authority="" compel="" production="" interest;="" e)="" corporate="" re-organization,="" merger,="" amalgamation="" transaction="" another="" entity,="" sale="" substantial="" portion="" assets="" media,="" disclosed="" continues="" entity="" acquiring="" services.="" addition="" ip="" addresses,="" cookies="" beacons,="" generally="" monitor="" improve="" operation="" perform="" statistical="" analyses="" collective="" characteristics="" behavior="" customers,="" measure="" user="" demographics="" interests="" regarding="" describe="" prospective="" analyze="" best="" resources.="" no="" during="" these="" activities.="" inform="" advertisers="" performance="" particular="" sponsorship="" (such="" contest)="" advertisement.="" case,="" those="" party="" overall="" regarding,="" who="" participated="" saw="" "clicked"="" part="" process;="" anonymous,="" form="" disclosed.="" beacons?="" small="" text="" file="" containing="" unique="" identification="" transferred="" (through="" browser)="" hard="" drive="" computer.="" identifies="" let="" know="" you,="" address.="" since="" files,="" they="" cannot="" run="" computer,="" search="" computer="" transmit="" anyone.="" many="" major="" sites.="" most="" browsers="" initially="" up="" accept="" cookies.="" prefer,="" can="" reset="" either="" notify="" received="" cookie,="" refuse="" should="" understand="" while="" require="" cookies,="" function="" properly="" to:="" usage="" make="" easier="" convenient="" use.="" help="" remember="" settings="" offer="" personalized="" language="" preference).="" allow="" save="" passwords="" preferences="" re-enter="" next="" traffic="" advertisements="" users,="" spent,="" statistics).="" helps="" better="" update,="" change="" new="" provides="" details="" content.="" reported,="" only,="" current="" sponsors,="" partners.="" reports;="" displaying="" advertisements.="" advertising="" providers="" serving="" contain="" electronic="" images="" known="" beacons="" -="" sometimes="" called="" single-pixel="" gifs="" count="" visited="" pages="" deliver="" co-branded="" information;="" technique="" compile="" aggregated="" usage.="" limited="" number,="" page="" view,="" description="" resides.="" placed="" there="" determine="" effectiveness="" campaigns.="" used?="" assigned="" every="" direct="" point.="" addresses="" associated="" large="" organizations.="" browser,="" request="" internet,="" whenever="" content,="" computers="" each="" logged="" needed="" described="" policy. ="" display="" appropriate="" advertising,="" based="" geographic="" area.="" reported="" report="" estimated="" total="" accessing="" province.="" diagnoses="" remedy="" problem="" team.="" privacy="" applies="" forums="" site?="" feature="" chat="" board="" (collectively="" "forums")="" communicate="" other.="" moderate="" responsible="" posts="" forum.="" post="" forum="" becomes="" public="" viewed,="" visitor="" expose="" unsolicited="" messages.="" strongly="" recommends="" private="" yourself="" individuals.="" partners'="" sites?="" contains="" links="" operated="" independent="" parties.="" once="" leave="" see="" url="" location="" bar.="" please="" review="" site's="" provider's="" policies,="" agree="" policies="" governing="" provider="" terminate="" influence="" control,="" contents="" subsequent="" secure="" unauthorized="" result="" criminal="" civil="" prosecution.="" procedures="" place="" maintain,="" contracts="" manage="" secured="" servers,="" behind="" firewall="" data="" centre="" strictly="" controlled.="" individuals="" involved="" analysis="" functions="" herein="" been="" requisite="" training="" practices.="" ensure="" password="" anyone="" recommend="" frequently="" store="" safe="" place.="" asked="" create="" password,="" select="" words="" identify="" "auto="" login"="" allows="" member="" areas="" without="" re-entering="" want="" disable="" auto="" login="" "set="" up"="" using="" contacted="" practices?="" concerns="" wish="" find="" further="" used,="" update="" write="" at:="" inc.="" 130="" merton="" street="" suite="" 200="" toronto,="" ontario="" m4s="" 1a4="" feedback@blueantmedia.ca="" "="">
+		<meta property="og:description" content="Last Updated: May 19, 2016
+
+&nbsp;
+
+Introduction
+
+&nbsp;
+
+Blue Ant Media Inc. respects the privacy of all of its users and customers and is committed to protecting such privacy in accordance with this Privacy Policy. This policy explains Blue Ant Media Inc.'s and its subsidiaries' and affiliates’ (collectively, " blue="" ant="" media")="" treatment="" of="" your="" personally="" identifiable="" information="" collected="" in="" connection="" with="" activities="" on="" or="" related="" to="" all="" media="" websites="" referencing="" this="" policy="" (the="" "blue="" sites")="" and="" any="" services="" made="" available="" the="" sites="" (collectively,="" unless="" noted="" otherwise,="" services").="" we="" urge="" you="" read="" carefully="" check="" back="" periodically="" for="" changes,="" which="" will="" indicate="" latest="" revision="" date.="" does="" not="" apply="" practices="" companies="" that="" are="" owned="" controlled="" by="" access="" use="" site="" indicates="" understanding="" of,="" agreement="" be="" bound="" by,="" website="" terms="" conditions.="" what="" personal="" do="" collect?="" course="" operating="" services,="" may="" collect="" two="" types="" about="" our="" users="" customers:="" non-personal="" information.="" "personal="" information"="" is="" information,="" such="" as="" name,="" address,="" email="" birth="" date="" gender.="" us="" when="" choose="" provide="" it="" registering="" a="" service,="" subscribe="" service="" newsletter,="" enter="" promotion.="" addition,="" if="" contact="" customer="" representative="" ours="" feedback,="" keep="" record="" correspondence="" so="" fully="" address="" subject="" matter.="" also="" receive="" from="" business="" partners="" other="" third="" parties,="" provided="" parties="" confirm="" have="" permitted="" them="" share="" title,="" telephone="" number="" professional="" person="" an="" employee="" organization="" considered="" “account="" information”="" required="" set="" up="" account="" (as="" more="" described="" conditions).="" purposes="" privacy="" policy,="" "non-personal="" linked="" specific="" person.="" includes="" technical="" internet="" protocol="" domain="" used="" type="" version="" browser="" system="" using,="" come="" visit="" next.="" aggregate="" demographic="" statistics="" customers="" (e.g.="" average="" age="" geographical="" allocation="" users),="" visitors="" time="" spent="" derived="" service.="" example,="" web="" servers="" automatically="" through="" stored="" cookie="" beacon="" how="" information?="" following="" purposes;="" a)="" providing="" requested="" us,="" including="" site.="" enhancements="" similar="" notices="" service;="" b)="" opted-into="" receiving="" offers="" certain="" selected="" sponsors="" advertisers,="" send="" materials="" mailings="" products="" feel="" interest="" you.="" at="" would="" like="" end="" subscription="" materials,="" follow="" directions="" posted="" bottom="" relevant="" website;="" c)="" contest="" promotion="" offered="" site,="" may,="" under="" rules="" promotion,="" name="" administer="" contacting,="" announcing="" promoting="" winners="" promotion;="" d)="" reasonable="" grounds="" believe="" could="" useful="" investigating="" contravention="" federal,="" provincial,="" foreign="" law="" order="" protect="" defend="" legal="" interest;="" e)="" manage="" account,="" verify="" credentials="" logging-in="" associated="" communicate="" necessary.="" disclosure="" sell="" rent="" party.="" only="" disclose="" circumstances:="" where="" specifically="" given="" consent="" designated="" purpose;="" persons="" acting="" behalf="" agents,="" suppliers="" providers,="" solely="" enable="" efficiently="" entities="" act="" strict="" contractual="" controls,="" requiring="" maintain="" confidentiality="" provision="" services;="" out="" conditions="" applicable="" facilitate="" fulfilling="" requirements;="" law,="" court,="" institution="" body="" jurisdiction="" authority="" compel="" production="" corporate="" re-organization,="" merger,="" amalgamation="" transaction="" another="" entity,="" sale="" substantial="" portion="" assets="" media,="" disclosed="" continues="" entity="" acquiring="" services.="" addition="" ip="" addresses,="" cookies="" beacons,="" generally="" monitor="" improve="" operation="" perform="" statistical="" analyses="" collective="" characteristics="" behavior="" customers,="" measure="" user="" demographics="" interests="" regarding="" describe="" prospective="" analyze="" best="" resources.="" no="" during="" these="" activities.="" inform="" advertisers="" performance="" particular="" sponsorship="" (such="" contest)="" advertisement.="" case,="" those="" party="" overall="" regarding,="" who="" participated="" saw="" "clicked"="" part="" process;="" anonymous,="" form="" disclosed.="" beacons?="" small="" text="" file="" containing="" unique="" identification="" transferred="" (through="" browser)="" hard="" drive="" computer.="" identifies="" let="" know="" you,="" address.="" since="" files,="" they="" cannot="" run="" computer,="" search="" computer="" transmit="" anyone.="" many="" major="" sites.="" most="" browsers="" initially="" accept="" cookies.="" prefer,="" can="" reset="" either="" notify="" received="" cookie,="" refuse="" should="" understand="" while="" require="" cookies,="" function="" properly="" to:="" usage="" make="" easier="" convenient="" use.="" help="" remember="" settings="" offer="" personalized="" language="" preference).="" allow="" save="" passwords="" preferences="" login="" re-enter="" next="" sign="" into="" account;="" traffic="" advertisements="" users,="" spent,="" statistics).="" helps="" better="" update,="" change="" new="" provides="" details="" content.="" reported,="" only,="" current="" sponsors,="" partners.="" reports;="" displaying="" advertisements.="" advertising="" providers="" serving="" contain="" electronic="" images="" known="" beacons="" -="" sometimes="" called="" single-pixel="" gifs="" count="" visited="" pages="" deliver="" co-branded="" information;="" technique="" compile="" aggregated="" usage.="" limited="" number,="" page="" view,="" description="" resides.="" placed="" there="" determine="" effectiveness="" campaigns.="" used?="" assigned="" every="" direct="" point.="" addresses="" large="" organizations.="" browser,="" request="" internet,="" whenever="" content,="" computers="" each="" logged="" needed="" policy.="" display="" appropriate="" advertising,="" based="" geographic="" area.="" reported="" report="" estimated="" total="" accessing="" province.="" diagnoses="" remedy="" problem="" team.="" applies="" forums="" site?="" &nbsp;="" feature="" chat="" board="" (collectively="" "forums")="" other.="" moderate="" responsible="" posts="" forum.="" post="" forum="" becomes="" public="" viewed,="" visitor="" expose="" unsolicited="" messages.="" strongly="" recommends="" private="" yourself="" individuals.="" content?="" some="" upload="" outlined="" defined="" edit,="" curate,="" otherwise="" uploaded="" (depending="" site),="" uploads="" posted.="" individuals="" conditions,="" username="" attached="" distribute="" parties.="" thus="" encourage="" consider="" limiting="" amount="" revealed="" username.="" furthermore,="" attach="" real="" services),="" manner.="" partners'="" sites?=""  ="" contains="" links="" operated="" independent="" once="" leave="" see="" url="" location="" bar.="" please="" review="" site's="" provider's="" policies,="" agree="" policies="" governing="" provider="" terminate="" influence="" control,="" contents="" subsequent="" secure="" unauthorized="" result="" criminal="" civil="" prosecution.="" procedures="" place="" maintain,="" contracts="" secured="" servers,="" behind="" firewall="" data="" centre="" strictly="" controlled.="" involved="" analysis="" functions="" herein="" been="" requisite="" training="" practices.="" ensure="" password="" anyone="" recommend="" frequently="" store="" safe="" place.="" asked="" create="" password,="" select="" words="" identify="" "auto="" login"="" allows="" member="" areas="" without="" re-entering="" want="" disable="" auto="" "set="" up"="" using="" contacted="" practices?="" concerns="" wish="" find="" further="" used,="" update="" write="" at:="" inc.="" 130="" merton="" street="" suite="" 200="" toronto,="" ontario="" m4s="" 1a4="" feedback@blueantmedia.ca"="">
 		<meta property="og:type" content="article">
 	
 	
+	<meta property="fb:pages" content="78780136186">
 	<meta property="twitter:account_id" content="23607802">
 	<meta property="apple-itunes-app" content="app-id=528705727">
 
@@ -187,16 +277,6 @@ img.emoji {
 	</script>
 
     <script type="text/javascript" src="//wurfl.io/wurfl.js"></script>
-
-	<script type="text/javascript">
-	    (function() {
-	    	var useSSL = 'https:' == document.location.protocol;
-	    	var src = (useSSL ? 'https:' : 'http:') +
-	    	'//www.googletagservices.com/tag/js/gpt.js';
-	    	document.write('<scr' + 'ipt src="' + src + '"></scr' +
-	    		'ipt>');
-	    })();
-    </script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 
     <script>
 
@@ -247,46 +327,68 @@ img.emoji {
 			   <script type="text/javascript" lang="javascript" src="js/responsiveJS/respond.min.js"></script>
 		<![endif]-->
 		
-		<script>
+		<!-- Start: GPT Async -->
+		<script type="text/javascript">
+			var gpt_ad_slots = [];
+			var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			(function(){ var gads = document.createElement('script');
+				gads.async = true; gads.type = 'text/javascript';
+				var useSSL = 'https:' == document.location.protocol;
+				gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+				var node = document.getElementsByTagName('script')[0];
+				node.parentNode.insertBefore(gads, node);
+			})();
+		</script>
 
-			// Special ad units
-			googletag.defineSlot('/2873268/AUX_1x1', [1, 1], 'div-gpt-ad-1362780296972-0').addService(googletag.pubads()); // Header Expression
-			googletag.defineSlot('/2873268/AUX_1x1_VideoRibbon', [1, 1], 'div-gpt-ad-1402518171813-0').addService(googletag.pubads()); // Video Mutation
-			googletag.defineSlot('/2873268/AUX_1x1_Feature', [1, 1], 'div-gpt-ad-1402520131582-0').addService(googletag.pubads()); // Triple Helix
-			googletag.defineSlot('/2873268/AUX_728x90', [728, 90], 'div-gpt-ad-1362780296972-2').addService(googletag.pubads()); // Traditional leaderboard
+		<!-- Initialize DFP ad units -->
+		<script type="text/javascript">
+			googletag.cmd.push(function() {
+				var gpt_ad_path = '/19905802/www.Aux.tv';
+				var gpt_ad_id = 'div-gpt-ads-19905802-';
 
-			// Homepage (page 1)
-			googletag.defineSlot('/2873268/AUX_300x250', [[300, 250], [300, 400]], 'div-gpt-ad-1410189182646-0').addService(googletag.pubads()); // AUX-Home-top-slot
-			googletag.defineSlot('/2873268/AUX_300x400_5', [[300, 250], [300, 400]], 'div-gpt-ad-1410189349326-0').addService(googletag.pubads()); // AUX-Home-bottom-top-slot
+				// Header Banners
+				var leaderboard_mapping = googletag.sizeMapping().addSize([728,0],[[728,90]]).addSize([0,0],[[320,50]]).build();
+				gpt_ad_slots[gpt_ad_id + 'leaderboard'] = googletag.defineSlot( gpt_ad_path, [[728,90]], gpt_ad_id + 'leaderboard' ).addService(googletag.pubads()).defineSizeMapping(leaderboard_mapping);
 
-			// Post pages (sidebar)
-			googletag.defineSlot('/2873268/AUX-Post-side-top-slot', [[300, 250], [300, 400]], 'div-gpt-ad-1410190045070-0').addService(googletag.pubads()); // AUX-Post-side-top-slot
-			googletag.defineSlot('/2873268/AUX_300x250_3', [[300, 250], [300, 400]], 'div-gpt-ad-1410189416552-0').addService(googletag.pubads()); // AUX-Post-side-bottom-slot
+				// Infinite scroll
+				gpt_ad_slots[gpt_ad_id + '300250-1'] = googletag.defineSlot( gpt_ad_path, [[300,250],[300,400]], gpt_ad_id + '300250-1' ).addService(googletag.pubads()).setTargeting('position','1');
+				gpt_ad_slots[gpt_ad_id + '300250-2'] = googletag.defineSlot( gpt_ad_path, [[300,250],[300,400]], gpt_ad_id + '300250-2' ).addService(googletag.pubads()).setTargeting('position','2');
+				gpt_ad_slots[gpt_ad_id + '300250-3'] = googletag.defineSlot( gpt_ad_path, [[300,250],[300,400]], gpt_ad_id + '300250-3' ).addService(googletag.pubads()).setTargeting('position','3');
+				gpt_ad_slots[gpt_ad_id + '300250-4'] = googletag.defineSlot( gpt_ad_path, [[300,250],[300,400]], gpt_ad_id + '300250-4' ).addService(googletag.pubads()).setTargeting('position','4');
+				gpt_ad_slots[gpt_ad_id + '300250-5'] = googletag.defineSlot( gpt_ad_path, [[300,250],[300,400]], gpt_ad_id + '300250-5' ).addService(googletag.pubads()).setTargeting('position','5');
+				gpt_ad_slots[gpt_ad_id + '300250-6'] = googletag.defineSlot( gpt_ad_path, [[300,250],[300,400]], gpt_ad_id + '300250-6' ).addService(googletag.pubads()).setTargeting('position','6');
+				gpt_ad_slots[gpt_ad_id + '300250-7'] = googletag.defineSlot( gpt_ad_path, [[300,250],[300,400]], gpt_ad_id + '300250-7' ).addService(googletag.pubads()).setTargeting('position','7');
+				gpt_ad_slots[gpt_ad_id + '300250-8'] = googletag.defineSlot( gpt_ad_path, [[300,250],[300,400]], gpt_ad_id + '300250-8' ).addService(googletag.pubads()).setTargeting('position','8');
+				gpt_ad_slots[gpt_ad_id + '300250-9'] = googletag.defineSlot( gpt_ad_path, [[300,250],[300,400]], gpt_ad_id + '300250-9' ).addService(googletag.pubads()).setTargeting('position','9');
+				gpt_ad_slots[gpt_ad_id + '300250-10'] = googletag.defineSlot( gpt_ad_path, [[300,250],[300,400]], gpt_ad_id + '300250-10' ).addService(googletag.pubads()).setTargeting('position','10');
 
-			// Infinite scroll
-			googletag.defineSlot('/2873268/AUX_300x250_2', [[300, 250], [300, 400]], 'div-gpt-ad-1410189493831-0').addService(googletag.pubads()); // AUX-Scroll-slot-1
-			googletag.defineSlot('/2873268/AUX_300x400_2', [[300, 250], [300, 400]], 'div-gpt-ad-1410189558543-0').addService(googletag.pubads()); // AUX-Scroll-slot-2
-			googletag.defineSlot('/2873268/AUX-Scroll-slot-3', [[300, 250], [300, 400]], 'div-gpt-ad-1410189992054-0').addService(googletag.pubads()); // AUX-Scroll-slot-3
-			googletag.defineSlot('/2873268/AUX_300x400_3', [[300, 250], [300, 400]], 'div-gpt-ad-1410189615895-0').addService(googletag.pubads()); // AUX-Scroll-slot-4
-			googletag.defineSlot('/2873268/AUX_300x250_4', [[300, 250], [300, 400]], 'div-gpt-ad-1410189663603-0').addService(googletag.pubads()); // AUX-Scroll-slot-5
-			googletag.defineSlot('/2873268/AUX_300x400_4', [[300, 250], [300, 400]], 'div-gpt-ad-1410189727540-0').addService(googletag.pubads()); // AUX-Scroll-slot-6
-			googletag.defineSlot('/2873268/AUX_300x250_5', [[300, 250], [300, 400]], 'div-gpt-ad-1410189782698-0').addService(googletag.pubads()); // AUX-Scroll-slot-7
-			googletag.defineSlot('/2873268/AUX_300x400', [[300, 250], [300, 400]], 'div-gpt-ad-1410189845502-0').addService(googletag.pubads()); // AUX-Scroll-slot-8
+				// Post Sidebar
+				gpt_ad_slots[gpt_ad_id + 'sidebar-1'] = googletag.defineSlot( gpt_ad_path, [[300,250],[300,400]], gpt_ad_id + 'sidebar-1' ).addService(googletag.pubads()).setTargeting('position','side-1');
+				gpt_ad_slots[gpt_ad_id + 'sidebar-2'] = googletag.defineSlot( gpt_ad_path, [[300,250],[300,400]], gpt_ad_id + 'sidebar-2' ).addService(googletag.pubads()).setTargeting('position','side-2');
 
-			// Gallery ad unit
-			gallery_slot = googletag.defineSlot('/2873268/AUX-Gallery-slot', [300, 250], 'div-gpt-ad-1410378856244-0').addService(googletag.pubads()); // AUX-Gallery-slot
+				// Gallery
+				gpt_ad_slots[gpt_ad_id + 'gallery'] = googletag.defineSlot( gpt_ad_path, [[300,250],[300,400]], gpt_ad_id + 'gallery' ).addService(googletag.pubads()).setTargeting('position','gallery');
 
-			// TV page
-			googletag.defineSlot('/2873268/AUX-TV-slot', [300, 250], 'div-gpt-ad-1410378478638-0').addService(googletag.pubads());
+				// Television
+				gpt_ad_slots[gpt_ad_id + 'tv'] = googletag.defineSlot( gpt_ad_path, [[300,250],[300,400]], gpt_ad_id + 'tv' ).addService(googletag.pubads()).setTargeting('position','tv');
 
-			//mobile
-			googletag.defineSlot('/2873268/aux_mob_320x50', [320, 50], 'div-gpt-ad-1459963010245-0').addService(googletag.pubads());
+				// Mobile Sticky Footer
+				gpt_ad_slots[gpt_ad_id + '30050'] = googletag.defineSlot( gpt_ad_path, [[300,50]], gpt_ad_id + '30050' ).addService(googletag.pubads());
 
-			// Initialization
-			googletag.pubads().setTargeting("aux_cat","ros");
-			googletag.pubads().collapseEmptyDivs();
-			googletag.enableServices();
+				// Custom Units
+				gpt_ad_slots[gpt_ad_id + 'header'] = googletag.defineSlot( gpt_ad_path, [[1,1]], gpt_ad_id + 'header' ).addService(googletag.pubads()).setTargeting('position','header');
+				gpt_ad_slots[gpt_ad_id + 'video'] = googletag.defineSlot( gpt_ad_path, [[1,1]], gpt_ad_id + 'video' ).addService(googletag.pubads()).setTargeting('position','video');
+				gpt_ad_slots[gpt_ad_id + 'feature'] = googletag.defineSlot( gpt_ad_path, [[1,1]], gpt_ad_id + 'feature' ).addService(googletag.pubads()).setTargeting('position','feature');
 
+				googletag.pubads().setTargeting('section', '');
+				googletag.pubads().setTargeting('page', 'privacy-policy');
+
+				googletag.pubads().enableAsyncRendering();
+				googletag.pubads().disableInitialLoad();
+				googletag.pubads().collapseEmptyDivs();
+				googletag.enableServices();
+			});
 		</script>
 	</head>
 
@@ -444,29 +546,29 @@ img.emoji {
 					<div class="header-featured-wrap">
 						<div class="header-table header-featured-cellwrap">
 																														<div class="header-cell">
-									 <span>Popular Now</span> <div class="header-featured-box"> 																	<a href="http://www.aux.tv/2016/04/rolling-stone-keeps-trolling-us-with-its-40-greatest-punk-albums-list/">
-										<img width="300" height="150" src="http://www.aux.tv/wp-content/uploads/2016/04/ramones-300x150.jpg" class="attachment-post wp-post-image" alt="American punk rock group The Ramones. Left to right: Johnny Ramone (1948 - 2004) Tommy Ramone, Joey Ramone (1951 - 2001) and Dee Dee Ramone (1952 - 2002).   (Photo by Roberta Bayley/Evening Standard/Hulton Archive/Getty Images)" data-retina="http://www.aux.tv/wp-content/uploads/2016/04/ramones-614x307.jpg">									</a>
-									<div class="header-featured-tag music">Music</div>
-									<a class="header-featured-link music-link" href="http://www.aux.tv/2016/04/rolling-stone-keeps-trolling-us-with-its-40-greatest-punk-albums-list/">
-										Rolling Stone keeps trolling us with its 40 greatest punk albums list									</a>
+									 <span>Popular Now</span> <div class="header-featured-box"> 																	<a href="http://www.aux.tv/2016/11/pen-pineapple-apple-pen-singer-says-he-hasnt-made-a-dime/">
+										<img width="300" height="150" src="http://www.aux.tv/wp-content/uploads/2016/11/PenApple-300x150.jpg" class="attachment-post size-post wp-post-image" alt="penapple" srcset="http://www.aux.tv/wp-content/uploads/2016/11/PenApple-300x150.jpg 300w, http://www.aux.tv/wp-content/uploads/2016/11/PenApple-768x384.jpg 768w, http://www.aux.tv/wp-content/uploads/2016/11/PenApple-1024x512.jpg 1024w, http://www.aux.tv/wp-content/uploads/2016/11/PenApple-614x307.jpg 614w, http://www.aux.tv/wp-content/uploads/2016/11/PenApple-1200x600.jpg 1200w, http://www.aux.tv/wp-content/uploads/2016/11/PenApple.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" data-retina="http://www.aux.tv/wp-content/uploads/2016/11/PenApple-614x307.jpg">									</a>
+									<div class="header-featured-tag news">News</div>
+									<a class="header-featured-link news-link" href="http://www.aux.tv/2016/11/pen-pineapple-apple-pen-singer-says-he-hasnt-made-a-dime/">
+										"Pen-Pineapple-Apple-Pen" singer says he hasn't made a dime									</a>
 								</div>
 							</div>
 																														<div class="header-cell">
 																			<div class="header-featured-box" style="margin-top:25px;">
-																										<a href="http://www.aux.tv/2016/04/jennifer-lopezs-new-feminist-anthem-aint-your-mama-is-produced-by-dr-luke/">
-										<img width="300" height="150" src="http://www.aux.tv/wp-content/uploads/2016/04/Aint-Your-Mama-300x150.jpg" class="attachment-post wp-post-image" alt="Ain't Your Mama" data-retina="http://www.aux.tv/wp-content/uploads/2016/04/Aint-Your-Mama.jpg">									</a>
-									<div class="header-featured-tag news">News</div>
-									<a class="header-featured-link news-link" href="http://www.aux.tv/2016/04/jennifer-lopezs-new-feminist-anthem-aint-your-mama-is-produced-by-dr-luke/">
-										Jennifer Lopez's new feminist anthem "Ain't Your Mama" is produced by Dr. Luke									</a>
+																										<a href="http://www.aux.tv/2016/11/marcus-stroman-is-a-rapper-now/">
+										<img width="300" height="150" src="http://www.aux.tv/wp-content/uploads/2016/11/215986e0-b991-11e5-95ae-b942318e664d_Screen-Shot-2016-01-12-at-5-00-41-PM-300x150.png" class="attachment-post size-post wp-post-image" alt="215986e0-b991-11e5-95ae-b942318e664d_screen-shot-2016-01-12-at-5-00-41-pm" srcset="http://www.aux.tv/wp-content/uploads/2016/11/215986e0-b991-11e5-95ae-b942318e664d_Screen-Shot-2016-01-12-at-5-00-41-PM-300x150.png 300w, http://www.aux.tv/wp-content/uploads/2016/11/215986e0-b991-11e5-95ae-b942318e664d_Screen-Shot-2016-01-12-at-5-00-41-PM-614x307.png 614w" sizes="(max-width: 300px) 100vw, 300px" data-retina="http://www.aux.tv/wp-content/uploads/2016/11/215986e0-b991-11e5-95ae-b942318e664d_Screen-Shot-2016-01-12-at-5-00-41-PM-614x307.png">									</a>
+									<div class="header-featured-tag sports">Sports</div>
+									<a class="header-featured-link sports-link" href="http://www.aux.tv/2016/11/marcus-stroman-is-a-rapper-now/">
+										Marcus Stroman is a rapper now									</a>
 								</div>
 							</div>
 																												<div class="header-cell tablet-pinch">
 								<div class="header-featured-box" style="margin-top:25px;">
-																	<a href="http://www.aux.tv/2016/04/blood-ceremony-want-to-soundtrack-your-pagan-metal-party/">
-										<img width="300" height="150" src="http://www.aux.tv/wp-content/uploads/2016/04/Blood-Ceremony-300x150.jpg" class="attachment-post wp-post-image" alt="Ester Segarra" data-retina="http://www.aux.tv/wp-content/uploads/2016/04/Blood-Ceremony-614x307.jpg">									</a>
-									<div class="header-featured-tag music">Music</div>
-									<a class="header-featured-link music-link" href="http://www.aux.tv/2016/04/blood-ceremony-want-to-soundtrack-your-pagan-metal-party/">
-										Blood Ceremony want to soundtrack your pagan metal party									</a>
+																	<a href="http://www.aux.tv/2016/11/mykki-blanco-collaborates-with-pornhub/">
+										<img width="300" height="150" src="http://www.aux.tv/wp-content/uploads/2016/11/mykki-blanco-loner-2-1000x558-300x150.jpg" class="attachment-post size-post wp-post-image" alt="mykki-blanco-loner-2-1000x558" srcset="http://www.aux.tv/wp-content/uploads/2016/11/mykki-blanco-loner-2-1000x558-300x150.jpg 300w, http://www.aux.tv/wp-content/uploads/2016/11/mykki-blanco-loner-2-1000x558-614x307.jpg 614w" sizes="(max-width: 300px) 100vw, 300px" data-retina="http://www.aux.tv/wp-content/uploads/2016/11/mykki-blanco-loner-2-1000x558-614x307.jpg">									</a>
+									<div class="header-featured-tag news">News</div>
+									<a class="header-featured-link news-link" href="http://www.aux.tv/2016/11/mykki-blanco-collaborates-with-pornhub/">
+										Mykki Blanco collaborates with Pornhub									</a>
 								</div>
 							</div>
 													</div>
@@ -478,19 +580,28 @@ img.emoji {
 </div>
 
 
-<div id="div-gpt-ad-1402518171813-0" style="width:1px; height:1px; position:absolute;">
+<div id="div-gpt-ads-19905802-video" style="width:1px; height:1px; position:absolute;">
 	<script type="text/javascript">
-		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1402518171813-0'); });
+		googletag.cmd.push(function() { 
+			googletag.display('div-gpt-ads-19905802-video'); 
+			googletag.pubads().refresh([gpt_ad_slots['div-gpt-ads-19905802-video']]);
+		});
 	</script>
 </div>
-<div id="div-gpt-ad-1402520131582-0" style="width:1px; height:1px; position:absolute;">
+<div id="div-gpt-ads-19905802-feature" style="width:1px; height:1px; position:absolute;">
 	<script type="text/javascript">
-		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1402520131582-0'); });
+		googletag.cmd.push(function() { 
+			googletag.display('div-gpt-ads-19905802-feature'); 
+			googletag.pubads().refresh([gpt_ad_slots['div-gpt-ads-19905802-feature']]);
+		});
 	</script>
 </div>
-<div id="div-gpt-ad-1362780296972-0" style="width:1px; height:1px; position:absolute;">
+<div id="div-gpt-ads-19905802-header" style="width:1px; height:1px; position:absolute;">
 	<script type="text/javascript">
-		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1362780296972-0'); });
+		googletag.cmd.push(function() { 
+			googletag.display('div-gpt-ads-19905802-header'); 
+			googletag.pubads().refresh([gpt_ad_slots['div-gpt-ads-19905802-header']]);
+		});
 	</script>
 </div>
 
@@ -498,54 +609,82 @@ img.emoji {
 			<div class="main">
 													<div class="article-full" style="padding-top:5px;">
 						<h1>Privacy Policy</h1>
-						<p>Blue Ant Media Inc. respects the privacy of all of its users and customers and is committed to protecting such privacy in accordance with this Privacy Policy. This policy explains Blue Ant Media Inc.’s and its subsidiaries’ and affiliates’ (collectively, “Blue Ant Media”) treatment of your personally identifiable information collected in connection with your activities on or related to all Blue Ant Media websites referencing this policy (the “Blue Ant Media Sites”) and any services made available on the Blue Ant Media Sites (collectively, unless noted otherwise, the “Blue Ant Media Services”). We urge you to read this policy carefully and to check back periodically for changes, which will indicate the latest revision date. This policy does not apply to the practices of companies or websites that are not owned or controlled by Blue Ant Media Your access or use of any Blue Ant Media Site indicates your understanding of, and agreement to be bound by, this policy and the Blue Ant Media website Terms and Conditions.</p>
-<p>What Personal Information Do We Collect?</p>
-<p>In the course of operating any Blue Ant Media Services, we may collect two types of information about our users and customers: Personal Information and Non-Personal Information. </p>
-<p>“Personal Information” is personally identifiable information, such as your name, address, email address, birth date and gender. Personal Information is collected by us when you choose to provide it to us when registering for a Blue Ant Media Service, such as when you choose to subscribe to a Blue Ant Media Service or newsletter, or enter a Blue Ant Media promotion. In addition, if you choose to contact a customer service representative of ours or provide us with feedback, we may keep a record of that correspondence so that we may fully address the subject matter. We may also receive Personal Information from our business partners and other third parties, provided that such third parties confirm to us that you have permitted them to share such information. Business contact information such as the name, title, business address, email address or telephone number of a business or professional person or an employee of an organization is not considered Personal Information. </p>
-<p>“Non-Personal Information” is information that is not linked to a specific person. This includes technical information such as your Internet Protocol Address, the domain you may have used to access a Blue Ant Media Service, the type and version of browser or operating system you may be using, and the website you may have come from and visit next. Aggregate information, such as the demographic statistics of our users and customers (e.g. average age or geographical allocation of our users), number of visitors and average time spent on a Blue Ant Media Service, is also considered Non-Personal Information. Non-Personal Information is collected or derived by us in the course of operating a Blue Ant Media Service. For example, our web servers may automatically collect Non-Personal Information that is provided through your browser or stored on a Cookie or through a Web Beacon when you choose to visit a Blue Ant Media Service.</p>
-<p>How Do We Use Your Personal Information?</p>
+						<p><strong>Last Updated: May 19, 2016</strong></p>
+<p>&nbsp;</p>
+<p><strong><u>Introduction</u></strong></p>
+<p>&nbsp;</p>
+<p>Blue Ant Media Inc. respects the privacy of all of its users and customers and is committed to protecting such privacy in accordance with this Privacy Policy. This policy explains Blue Ant Media Inc.’s and its subsidiaries’ and affiliates’ (collectively, “<strong>Blue Ant Media</strong>“) treatment of your personally identifiable information collected in connection with your activities on or related to all Blue Ant Media websites referencing this policy (the “<strong>Blue Ant Media Sites</strong>“) and any services made available on the Blue Ant Media Sites (collectively, unless noted otherwise, the “<strong>Blue Ant Media Services</strong>“). We urge you to read this policy carefully and to check back periodically for changes, which will indicate the latest revision date. This policy does not apply to the practices of companies or websites that are not owned or controlled by Blue Ant Media Your access or use of any Blue Ant Media Site indicates your understanding of, and agreement to be bound by, this policy and the Blue Ant Media website Terms and Conditions.</p>
+<p><strong><u>What Personal Information Do We Collect?</u></strong></p>
+<p>In the course of operating any Blue Ant Media Services, we may collect two types of information about our users and customers: Personal Information and Non-Personal Information.</p>
+<p>“<strong>Personal Information</strong>” is personally identifiable information, such as your name, address, email address, birth date and gender. Personal Information is collected by us when you choose to provide it to us when registering for a Blue Ant Media Service, such as when you choose to subscribe to a Blue Ant Media Service or newsletter, or enter a Blue Ant Media promotion. In addition, if you choose to contact a customer service representative of ours or provide us with feedback, we may keep a record of that correspondence so that we may fully address the subject matter. We may also receive Personal Information from our business partners and other third parties, provided that such third parties confirm to us that you have permitted them to share such information. Business contact information such as the name, title, business address, email address or telephone number of a business or professional person or an employee of an organization is not considered Personal Information.</p>
+<p>“<strong>Account Information</strong>” is information that may be required to set up an Account on a Blue Ant Media Site (as more fully described in the Terms and Conditions). For the purposes of this Privacy Policy, Account Information is also Personal Information.</p>
+<p>“<strong>Non-Personal Information</strong>” is information that is not linked to a specific person. This includes technical information such as your Internet Protocol Address, the domain you may have used to access a Blue Ant Media Service, the type and version of browser or operating system you may be using, and the website you may have come from and visit next. Aggregate information, such as the demographic statistics of our users and customers (e.g. average age or geographical allocation of our users), number of visitors and average time spent on a Blue Ant Media Service, is also considered Non-Personal Information. Non-Personal Information is collected or derived by us in the course of operating a Blue Ant Media Service. For example, our web servers may automatically collect Non-Personal Information that is provided through your browser or stored on a Cookie or through a Web Beacon when you choose to visit a Blue Ant Media Service.</p>
+<p><strong><u>How Do We Use Your Personal Information?</u></strong></p>
 <p>We may use Personal Information for the following purposes;</p>
-<p>a) Providing you with a Blue Ant Media Service and information you have requested from us, including your use of a Blue Ant Media Site. We may from time to time use your Personal Information to contact you about changes, enhancements or similar notices related to a Blue Ant Media Service;</p>
-<p>b) If you opted-into receiving offers or information from us or certain of our selected sponsors or advertisers, we may send you email materials and other mailings about products and services that we feel may be of interest to you. If at any time you would like to end your subscription to any such email materials, follow the directions posted at the bottom of the email or the relevant website;</p>
-<p>c) If you enter a contest or other promotion offered on a Blue Ant Media Site, we may, under the rules of the promotion, use your name and certain other information to administer the promotion, such as contacting, announcing and promoting the winners of the promotion; and</p>
-<p>d) We may also use Personal Information if we have reasonable grounds to believe the information could be useful when investigating a contravention of a federal, provincial, foreign or other law or in order to protect or defend a legal interest.</p>
-<p>Disclosure of Your Personal Information</p>
-<p>We will not sell or rent your Personal Information to any third party. </p>
+<ol>
+<li>a) Providing you with a Blue Ant Media Service and information you have requested from us, including your use of a Blue Ant Media Site. We may from time to time use your Personal Information to contact you about changes, enhancements or similar notices related to a Blue Ant Media Service;</li>
+<li>b) If you opted-into receiving offers or information from us or certain of our selected sponsors or advertisers, we may send you email materials and other mailings about products and services that we feel may be of interest to you. If at any time you would like to end your subscription to any such email materials, follow the directions posted at the bottom of the email or the relevant website;</li>
+<li>c) If you enter a contest or other promotion offered on a Blue Ant Media Site, we may, under the rules of the promotion, use your name and certain other information to administer the promotion, such as contacting, announcing and promoting the winners of the promotion;</li>
+<li>d) We may also use Personal Information if we have reasonable grounds to believe the information could be useful when investigating a contravention of a federal, provincial, foreign or other law or in order to protect or defend a legal interest; and</li>
+<li>e) Account Information is used to manage your Account, to verify your credentials for logging-in to the Blue Ant Media Site or Blue Ant Media Service associated with the Account, and to communicate with you information about your Account when necessary.</li>
+</ol>
+<p><strong><u>Disclosure of Your Personal Information</u></strong></p>
+<p>We will not sell or rent your Personal Information to any third party.</p>
 <p>We will only disclose your Personal Information to third parties under the following circumstances:</p>
-<p>a) Where you have specifically given us your consent to disclose your Personal Information for a designated purpose;</p>
-<p>b) To persons acting on our behalf as our agents, suppliers or service providers, solely to enable us to more efficiently provide you with a Blue Ant Media Service. Such entities act under strict contractual controls, requiring them to maintain the confidentiality of all such Personal Information and to use such information solely for purposes related to the provision of the Blue Ant Media Services;</p>
-<p>c) As may be set out in the Terms and Conditions applicable to Blue Ant Media Service to facilitate the provision of such service, such as fulfilling legal requirements;</p>
-<p>d) As required by law, including by an order of any court, institution or body with jurisdiction or authority to compel the production of information, or in order to protect or defend a legal interest; or</p>
-<p>e) In connection with a Blue Ant Media corporate re-organization, merger, amalgamation or similar transaction with another entity, or a sale of all or a substantial portion of the assets of Blue Ant Media, provided that the Personal Information disclosed continues to be used for the purposes permitted by this policy by the entity acquiring the information.</p>
-<p>How Do We Use Non-Personal Information?</p>
-<p>Non-Personal Information is collected or derived by us in the course of operating the Blue Ant Media Services. In addition to our practices related to IP addresses, Cookies or Web Beacons, Non-Personal Information is used generally by us to monitor and improve the operation of our services, to perform statistical analyses of the collective characteristics and behavior of our users and customers, to measure user demographics and interests regarding specific Blue Ant Media Services, to describe our services to third parties such as prospective business partners and advertisers, and to analyze how and where best to use our resources. No Personal Information will be disclosed during these activities. </p>
+<ol>
+<li>a) Where you have specifically given us your consent to disclose your Personal Information for a designated purpose;</li>
+<li>b) To persons acting on our behalf as our agents, suppliers or service providers, solely to enable us to more efficiently provide you with a Blue Ant Media Service. Such entities act under strict contractual controls, requiring them to maintain the confidentiality of all such Personal Information and to use such information solely for purposes related to the provision of the Blue Ant Media Services;</li>
+<li>c) As may be set out in the Terms and Conditions applicable to Blue Ant Media Service to facilitate the provision of such service, such as fulfilling legal requirements;</li>
+<li>d) As required by law, including by an order of any court, institution or body with jurisdiction or authority to compel the production of information, or in order to protect or defend a legal interest; or</li>
+<li>e) In connection with a Blue Ant Media corporate re-organization, merger, amalgamation or similar transaction with another entity, or a sale of all or a substantial portion of the assets of Blue Ant Media, provided that the Personal Information disclosed continues to be used for the purposes permitted by this policy by the entity acquiring the information.</li>
+</ol>
+<p><strong><u>How Do We Use Non-Personal Information?</u></strong></p>
+<p>Non-Personal Information is collected or derived by us in the course of operating the Blue Ant Media Services. In addition to our practices related to IP addresses, Cookies or Web Beacons, Non-Personal Information is used generally by us to monitor and improve the operation of our services, to perform statistical analyses of the collective characteristics and behavior of our users and customers, to measure user demographics and interests regarding specific Blue Ant Media Services, to describe our services to third parties such as prospective business partners and advertisers, and to analyze how and where best to use our resources. No Personal Information will be disclosed during these activities.</p>
 <p>We may also use Non-Personal Information to inform our sponsors and advertisers as to the performance of a particular sponsorship (such as a contest) or advertisement. In any such case, we may disclose to those third party sponsors and advertisers the overall aggregate demographics available regarding, for example, who participated in a contest or who saw and “clicked” on an advertisement. No Personal Information will be disclosed to these sponsors and advertisers as part of this process; only information in an anonymous, aggregate form will be disclosed.</p>
-<p>How Do We Use Cookies and Web Beacons?</p>
+<p><strong><u>How Do We Use Cookies and Web Beacons?</u></strong></p>
 <p>A cookie is a small text file containing a unique identification number that is transferred (through your browser) from a web site to the hard drive of your computer. The cookie identifies your browser and will not let a web site know any personal information about you, such as your name and address. Since cookies are only text files, they cannot run on your computer, search your computer for other information, or transmit any information to anyone. Cookies are used on many major web sites. Most browsers are initially set up to accept cookies. If you prefer, you can reset your browser either to notify you when you have received a cookie, or to refuse to accept cookies. You should understand that while we do not require you to use cookies, certain of our services will not function properly if you set your browser to not accept cookies.</p>
 <p>Blue Ant Media may use cookies to:</p>
-<p>a) Monitor website usage and improve the operation and performance of our and to make our services easier and more convenient to use. For example, cookies help us to remember who you are through your browser settings so that we can offer and provide more personalized services (e.g. language preference). Cookies also allow us to save passwords and preferences for you so that you will not have to re-enter them the next time you visit a Blue Ant Media Service;</p>
-<p>b) Measure aggregate user traffic and demographic statistics related to the Blue Ant Media Services and advertisements (e.g. number of users, average time spent, average age and similar statistics). This information helps us to better understand when to update, change or offer new services and provides us with details as to the performance of third party advertisements and content. This information may be reported, in aggregate form only, to our current and prospective sponsors, advertisers and business partners. No Personal Information will be disclosed in such reports; and</p>
-<p>c) Displaying advertisements. Blue Ant Media and third party advertising providers used by us may use cookies when serving advertisements.</p>
+<ol>
+<li>a) Monitor website usage and improve the operation and performance of our and to make our services easier and more convenient to use. For example, cookies help us to remember who you are through your browser settings so that we can offer and provide more personalized services (e.g. language preference). Cookies also allow us to save passwords and preferences and other login information for you so that you will not have to re-enter them the next time you visit a Blue Ant Media Service to sign into your Account;</li>
+<li>b) Measure aggregate user traffic and demographic statistics related to the Blue Ant Media Services and advertisements (e.g. number of users, average time spent, average age and similar statistics). This information helps us to better understand when to update, change or offer new services and provides us with details as to the performance of third party advertisements and content. This information may be reported, in aggregate form only, to our current and prospective sponsors, advertisers and business partners. No Personal Information will be disclosed in such reports; and</li>
+<li>c) Displaying advertisements. Blue Ant Media and third party advertising providers used by us may use cookies when serving advertisements.</li>
+</ol>
 <p>Certain Blue Ant Media Services may contain electronic images known as Web Beacons – sometimes called single-pixel gifs – that allow us to count users and customers who have visited those pages and to deliver co-branded services. Web Beacons are not used to access your Personal Information; they are a technique used to compile aggregated statistics about Blue Ant Media Service usage. Web Beacons collect only a limited set of information, including a cookie number, time and date of a page view, and a description of the page on which the Web Beacon resides. Certain Blue Ant Media Service web pages may also contain Web Beacons placed there by our advertising partners to help us determine the effectiveness of our Internet advertising campaigns.</p>
-<p>What IP Address Information is Collected and How is It Used?</p>
-<p>An IP address is the unique number that is assigned to every direct Internet access point. Many IP addresses can generally be associated with certain Internet service providers or large organizations. When you, through your browser, request a web page or similar Internet information from another computer on the Internet, your browser automatically provides that computer with an IP address to which it will send the requested information. </p>
-<p>Whenever you request a Blue Ant Media Service web page or certain other similar Blue Ant Media content, your browser automatically provides our computers with your IP address, to which our computers will send the requested information. Each such request is logged by our computers with information including the IP address of the computer that requested the page and is stored by our computers as needed for the purposes described in this policy. </p>
+<p><strong><u>What IP Address Information is Collected and How is It Used?</u></strong></p>
+<p>An IP address is the unique number that is assigned to every direct Internet access point. Many IP addresses can generally be associated with certain Internet service providers or large organizations. When you, through your browser, request a web page or similar Internet information from another computer on the Internet, your browser automatically provides that computer with an IP address to which it will send the requested information.</p>
+<p>Whenever you request a Blue Ant Media Service web page or certain other similar Blue Ant Media content, your browser automatically provides our computers with your IP address, to which our computers will send the requested information. Each such request is logged by our computers with information including the IP address of the computer that requested the page and is stored by our computers as needed for the purposes described in this policy.</p>
 <p>We may use your IP address to display more appropriate and relevant content and advertising, such as content and advertising based on your geographic area. Aggregate information derived from IP addresses may be reported by us to our advertisers and partners. For example, we may report to our advertisers the estimated total number of users accessing a particular Blue Ant Media Site from a specific province. We may also use your IP address to facilitate the diagnoses and remedy of a technical problem reported by you or our technical team.</p>
-<p>What Privacy Applies to the Forums on the Site?</p>
-<p>Blue Ant Media Sites may feature chat board or forums (collectively “Forums”) that enable our users to communicate with each other. Blue Ant Media does not moderate and is not responsible for the content that you or any user posts on any forum. All Personal Information you post in a forum becomes public information and may be viewed, collected and used by any visitor to the Site, and may expose you to unsolicited messages. Blue Ant Media strongly recommends that you do not post on any forum private information about yourself or other individuals. </p>
-<p>What Privacy Applies to Business Partners’ and Third Party Web Sites? </p>
-<p>The Blue Ant Media Site contains links from and to sites operated by our business partners and other independent third parties. Once you leave the Site, you may or may not see a new URL in the location bar. Please review the linked site’s and third party content provider’s privacy policies, and if you do not agree to be bound by the terms of the policies governing that provider/site, terminate your use of that service or your visit to the site. The linked sites are not under our influence or control, and we are not responsible for the privacy policies and practices or the content of the sites operated by our business partners or other third parties or the privacy policies and practices or contents of any linked site or subsequent links from that site. </p>
-<p>How Do We Secure Your Information? </p>
-<p>Any unauthorized use of the Blue Ant Media Site may result in criminal and/or civil prosecution. We have policies and procedures in place to protect the privacy and confidentiality of your information that we collect and maintain, including contracts with third parties that manage the information provided by you. All Personal Information is stored on secured servers, behind a firewall at a data centre with access to data strictly controlled. Only individuals specifically involved in the analysis and other functions set out herein have access to your Personal Information. These individuals have been provided the requisite training on our privacy policies and practices. </p>
+<p><strong><u>What Privacy Applies to the Forums on the Site?</u></strong></p>
+<p>&nbsp;</p>
+<p>Blue Ant Media Sites may feature chat board or forums (collectively “<strong>Forums</strong>“) that enable our users to communicate with each other. Blue Ant Media does not moderate and is not responsible for the content that you or any user posts on any Forum. All Personal Information you post in a Forum becomes public information and may be viewed, collected and used by any visitor to the Site, and may expose you to unsolicited messages. Blue Ant Media strongly recommends that you do not post on any Forum private information about yourself or other individuals.</p>
+<p>&nbsp;</p>
+<p><strong><u>What Privacy Applies to User Content?</u></strong></p>
+<p>&nbsp;</p>
+<p>Some Blue Ant Media Sites may allow for users to post or upload User Content, as more specifically outlined and defined in the Terms and Conditions. Blue Ant Media may or may not edit, curate, moderate or otherwise check posted or uploaded User Content (depending on the Blue Ant Media Site), and is not responsible for the User Content that you or any user posts or uploads on any Blue Ant Media Site. All Personal Information you post or upload as part of your User Content becomes public information and may be viewed, collected and used by any visitor to the Blue Ant Media Site on which the User Content is posted. Blue Ant Media strongly recommends that you do not post or upload private information about yourself or other individuals in your User Content.</p>
+<p>&nbsp;</p>
+<p>As outlined in the Terms and Conditions, your username may be attached to your User Content which Blue Ant Media may distribute and display through third parties. We thus encourage you to consider limiting the amount of Personal Information revealed in your username. Furthermore, if you choose to attach your real name to your posted User Content (as may be permitted by some of the Blue Ant Media Services), this will be available for all Blue Ant Media Site visitors and third parties to view, and you consent to the use of your name in this manner.</p>
+<p>&nbsp;</p>
+<p><strong><u>What Privacy Applies to Business Partners’ and Third Party Web Sites? </u></strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>The Blue Ant Media Site contains links from and to sites operated by our business partners and other independent third parties. Once you leave the Site, you may or may not see a new URL in the location bar. Please review the linked site’s and third party content provider’s privacy policies, and if you do not agree to be bound by the terms of the policies governing that provider/site, terminate your use of that service or your visit to the site. The linked sites are not under our influence or control, and we are not responsible for the privacy policies and practices or the content of the sites operated by our business partners or other third parties or the privacy policies and practices or contents of any linked site or subsequent links from that site.</p>
+<p>&nbsp;</p>
+<p><strong><u>How Do We Secure Your Information? </u></strong></p>
+<p>&nbsp;</p>
+<p>Any unauthorized use of the Blue Ant Media Site may result in criminal and/or civil prosecution. We have policies and procedures in place to protect the privacy and confidentiality of your information that we collect and maintain, including contracts with third parties that manage the information provided by you. All Personal Information is stored on secured servers, behind a firewall at a data centre with access to data strictly controlled. Only individuals specifically involved in the analysis and other functions set out herein have access to your Personal Information. These individuals have been provided the requisite training on our privacy policies and practices.</p>
+<p>&nbsp;</p>
 <p>To help ensure the privacy of your Personal Information, we urge you not to share your user name and password with anyone and recommend that you change your password frequently and store it in a safe place. If you are asked to create a user name or password, please select words that do not personally identify you. We may offer “auto login” which allows users to enter member areas of our site without re-entering password information. You may want to disable auto login on your “Set Up” page if you are not the only person using your computer.</p>
-<p>How Can We Be Contacted About Our Privacy Policy and Practices?</p>
-<p>If you have any concerns about privacy procedures at our Site, wish to find out further details about how your Personal Information may be used, or want to update your Personal Information, write us at: </p>
-<p>Blue Ant Media Inc.<br>
-130 Merton Street<br>
-Suite 200<br>
-Toronto, Ontario<br>
-M4S 1A4</p>
-<p>Or you may email us at feedback@blueantmedia.ca </p>
+<p>&nbsp;</p>
+<p><strong><u>How Can We Be Contacted About Our Privacy Policy and Practices?</u></strong></p>
+<p>&nbsp;</p>
+<p>If you have any concerns about privacy procedures at our Site, wish to find out further details about how your Personal Information may be used, or want to update your Personal Information, write us at:</p>
+<p>&nbsp;</p>
+<p>Blue Ant Media Inc.</p>
+<p>130 Merton Street</p>
+<p>Suite 200</p>
+<p>Toronto, Ontario</p>
+<p>M4S 1A4</p>
+<p>&nbsp;</p>
+<p>Or you may email us at feedback@blueantmedia.ca</p>
 					</div>
 							</div>
 					</div>
@@ -625,7 +764,7 @@ M4S 1A4</p>
 					<div class="table">
 						<div class="cell-hf">
 							<ul>
-								<li>AUX.TV is part of the AUX Music Network</li>
+								<li>AUX.TV is part of the OMNIA Media Music Network, a Division of Blue Ant Media © 2016 Blue Ant Media</li>
 							</ul>
 						</div>
 						<div class="cell-hf align-right">
@@ -638,13 +777,14 @@ M4S 1A4</p>
 				</div>
 			</div>
 		</div>
-		<script type="text/javascript" src="http://www.aux.tv/wp-content/themes/aux_2014/js/jquery_min.js?ver=4.3.2"></script>
-<script type="text/javascript" src="http://www.aux.tv/wp-content/themes/aux_2014/js/auxis.js?ver=4.3.2"></script>
-<script type="text/javascript" src="http://www.aux.tv/wp-content/themes/aux_2014/js/auxjs.js?ver=4.3.2"></script>
-<script type="text/javascript" src="http://www.aux.tv/wp-content/themes/aux_2014/js/htmlParser.js?ver=4.3.2"></script>
-<script type="text/javascript" src="http://www.aux.tv/wp-content/themes/aux_2014/js/postscribe.js?ver=4.3.2"></script>
-<script type="text/javascript" src="//cdn.optimizely.com/js/1454880068.js?ver=4.3.2"></script>
-<script type="text/javascript" src="//static.freeskreen.com/publisher/73/freeskreen.min.js?ver=4.3.2"></script>
+		<script type="text/javascript" src="http://www.aux.tv/wp-content/themes/aux_2014/js/jquery_min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.aux.tv/wp-content/themes/aux_2014/js/auxis.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.aux.tv/wp-content/themes/aux_2014/js/auxjs.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.aux.tv/wp-content/themes/aux_2014/js/htmlParser.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.aux.tv/wp-content/themes/aux_2014/js/postscribe.js?ver=4.6.1"></script>
+<script type="text/javascript" src="//cdn.optimizely.com/js/1454880068.js?ver=4.6.1"></script>
+<script type="text/javascript" src="//static.freeskreen.com/publisher/73/freeskreen.min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.aux.tv/wp-includes/js/wp-embed.js?ver=4.6.1"></script>
 
 	<script>
 		var ppp = 14;
@@ -676,8 +816,8 @@ M4S 1A4</p>
 			/* Must fetch FB share counts client-side to avoid rate limiting. This function is called in FB's init callback. */
 			function aux_social_init() {
 				FB.api('/?id=' + document.location.href, function(response) {
-					if (typeof response.shares !== 'undefined') {
-						$("#social-counts").data("facebook", response.shares);
+					if (typeof response.share.share_count !== 'undefined') {
+						$("#social-counts").data("facebook", response.share.share_count);
 					}
 					social_count_up();
 				});
