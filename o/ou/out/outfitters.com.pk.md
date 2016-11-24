@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outfitters.com.pk privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514104239id_/http%3A//www.outfitters.com.pk/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outfitters.com.pk privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124225811id_/http%3A//outfitters.com.pk/PrivacyPolicy) for the most accurate reproduction.*
 
 # Outfitters
 
