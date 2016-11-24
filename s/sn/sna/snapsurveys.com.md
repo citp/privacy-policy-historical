@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapsurveys.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616035249id_/http%3A//www.snapsurveys.com/privacy-policy-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapsurveys.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124114711id_/http%3A//www.snapsurveys.com/privacy-policy-us) for the most accurate reproduction.*
 
 # Privacy Policy » Snap Surveys
 
@@ -8,7 +8,7 @@ This privacy policy applies to [www.snapsurveys.com](http://www.snapsurveys.com/
 
 Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting [www.snapsurveys.com](http://www.snapsurveys.com/) you are accepting and consenting to the practices described in this policy.
 
-For the purposes of the Data Protection Act 1988, the data controller is Snap Surveys Limited (company number 01672722) of 5 Mead Court, Cooper Road, Thornbury, Bristol BS35 3UW in relation to all data (e.g. registration, billing and account information) other than data provided in a client survey. The data controller for client surveys is the client who has commissioned the survey, who determines how their survey questions and responses are to be used and disclosed to others. We will only process such client survey data in accordance with our client’s instructions and permissions.
+For the purposes of the Data Protection Act 1998, the data controller is Snap Surveys Limited (company number 01672722) of 5 Mead Court, Cooper Road, Thornbury, Bristol BS35 3UW in relation to all data (e.g. registration, billing and account information) other than data provided in a client survey. The data controller for client surveys is the client who has commissioned the survey, who determines how their survey questions and responses are to be used and disclosed to others. We will only process such client survey data in accordance with our client’s instructions and permissions.
 
 If you have questions, comments or complaints regarding our privacy policy or practices, please  
 contact us at one of the following addresses;
