@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the case.org privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507073203id_/http%3A//www.case.org/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the case.org privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124172904id_/http%3A//www.case.org/Privacy_Statement.html) for the most accurate reproduction.*
 
 # CASE - CASE Privacy Statement & Policy
 
@@ -7,6 +7,8 @@
 [CASE Privacy Statement](http://www.case.org/Privacy_Statement.html#statement "CASE Privacy Statement")
 
 [Current CASE Member Privacy Policy](http://www.case.org/Privacy_Statement.html#policy "Current CASE Member Privacy Policy")
+
+* * *
 
 ##### CASE Privacy Statement
 
@@ -56,13 +58,13 @@
 ** (a) This site contains links to other sites. As stated above, CASE is not responsible for the privacy practices or the content of such Web sites.
 
 **10\. How you can contact CASE  
-** (a) You can send an email to [MemberSupportCenter@case.org](mailto:MemberSupportCenter@case.org).
+** (a) You can send a ticket to [member support](http://support.case.org/).
 
 (b) You can send mail to the following postal address: CASE, 1307 New York Ave., NW, Suite 1000, Washington, DC 20005-Attention Member Service Center.
 
 (c) You can call the following telephone number: 202-328-CASE, and ask for the Member Support Center.
 
-In conclusion, should you have other questions or concerns about these privacy policies or other aspects of our user agreement, please send us an email at [MemberSupportCenter@case.org](http://mce_host/case/xml/MemberSupportCenter@case.org).
+In conclusion, should you have other questions or concerns about these privacy policies or other aspects of our user agreement, please contact the [member support center](http://support.case.org/).
 
 This privacy statement is subject to change. Changes may be made by posting to the Web site and are effective upon posting or upon such other date stated in the posting.
 
@@ -82,19 +84,19 @@ CASE may contract with a third party list processor to sell controlled, preappro
 
 **Pre- and Post-Conference Information for Exhibitors**
 
-  * Districts are free to share registrant mailing address information to conference exhibitors and sponsors, either prior to or after the district conference. This information can be provided in label or spreadsheet format. 
-  * Districts are asked not to share registrant e-mail addresses or phone numbers with exhibitors or sponsors. 
+  * Districts are free to share registrant mailing address information to conference exhibitors and sponsors, either prior to or after the district conference. This information can be provided in label or spreadsheet format.
+  * Districts are asked not to share registrant e-mail addresses or phone numbers with exhibitors or sponsors.
 
 
 
 **Conference Registration Lists**
 
-  * The following verbiage should be included on all conference registration lists to protect member privacy: 
+  * The following verbiage should be included on all conference registration lists to protect member privacy:
 
 
 
 "Registration lists for CASE conferences are provided for the convenience of our members. They may not be used for commercial or solicitation purposes and may not be duplicated, reproduced, or transferred in whole or in part without written permission from CASE."
 
-  * Registrant email addresses and phone numbers can appear on the conference registration list for networking purposes. 
+  * Registrant email addresses and phone numbers can appear on the conference registration list for networking purposes.
 
 
