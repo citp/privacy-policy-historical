@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsbeatsocial.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606000645id_/http%3A//newsbeatsocial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsbeatsocial.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124042829id_/http%3A//newsbeatsocial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NewsBeat Social
 
@@ -15,7 +15,3 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
-
-**LEGAL LEGEND:** An offering statement relating to securities of NBS has been filed with the Securities and Exchange Commission but has not yet become qualified. These securities may not be sold nor may offers be accepted prior to the time the offering statement becomes qualified. You may obtain a copy of the most recent version of the preliminary offering circular by clicking on the following link: <https://www.sec.gov/Archives/edgar/data/1661424/000114420416085843/v432385_partiiandiii.htm>
-
-No money or other consideration is being solicited in connection with this information, and if sent in response, will not be accepted. No offer to buy securities can be accepted and no part of the purchase price can be received until an offering statement on Form 1-A is qualified pursuant to Regulation A of the Securities Act of 1933, as amended, and any such offer may be withdrawn or revoked, without obligation or commitment of any kind, at any time before notice of its acceptance given after the qualification date. Any person's indication of interest involves no obligation or commitment of any kind. No offer to sell any securities, and no solicitation of an offer to buy any securities, is being made in any jurisdiction in which such offer, sale or solicitation would not be permitted by law.
