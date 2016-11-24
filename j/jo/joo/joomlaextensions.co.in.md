@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the joomlaextensions.co.in privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622152135id_/http%3A//www.joomlaextensions.co.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlaextensions.co.in privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124102713id_/http%3A//joomlaextensions.co.in/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D7%26Itemid%3D1162) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Details
+     Written by ajw 
+     Category: [Uncategorised](https://web.archive.org/index.php?option=com_content&view=category&id=2&Itemid=1162)
+     Published: 30 June 2016 
+     Hits: 747 
 
 **What information do we collect?**  
 Collect your information when you register on our site or place an order.  
@@ -19,7 +25,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 **Third party links**  
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.  
 **Terms and Conditions**  
-Please also visit our [Terms and Conditions](http://joomlaextensions.co.in/terms-and-condition.html) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20161124102713id_/http%3A//joomlaextensions.co.in/terms-and-condition.html) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 ### Your Consent
 
