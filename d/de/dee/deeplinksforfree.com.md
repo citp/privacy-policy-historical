@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deeplinksforfree.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420053536id_/http%3A//www.deeplinksforfree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deeplinksforfree.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124053516id_/http%3A//www.deeplinksforfree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Deep Links
 
