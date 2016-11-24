@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the friv-games.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609070534id_/http%3A//friv-games.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friv-games.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124021429id_/http%3A//friv-games.com/privacy-policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY - FRIV GAMES ONLINE
+
+## Cookies
+
+Like many websites, our Service uses "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We do not link the information we store in cookies to any Personal Information you submit while using our Services. We use cookies for two purposes. First, we utilize persistent cookies to save your registration ID and login password for future logins. Second, we utilize session ID cookies to enable certain features of the Services in order to better understand how you interact with the Services and to monitor aggregate usage by Friv-Games.com. Users and web traffic routing. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Services and then close your browser. Third party advertisers on the Service may also place or read cookies on your browser. Prior to the actual usage of cookies, you have the opportunity to either accept or decline such usage by us. If you do not accept cookies, however, you may not be able to use all portions of the website or all functionality of our Services. 
 
 ## Privacy Policy
 
