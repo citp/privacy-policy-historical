@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spacetimestudios.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604145455id_/http%3A//www.spacetimestudios.com/content.php%3F384-Spacetime-Studios-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spacetimestudios.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124130739id_/http%3A//www.spacetimestudios.com/content.php%3F384-Spacetime-Studios-Privacy-Policy) for the most accurate reproduction.*
 
 # Spacetime Studios - Spacetime Studios Privacy Policy
 
