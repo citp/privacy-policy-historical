@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littlefox.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424141055id_/http%3A//www.littlefox.com/en/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlefox.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125003627id_/http%3A//www.littlefox.com/en/help/privacy) for the most accurate reproduction.*
 
 # Little Fox
 
@@ -10,7 +10,7 @@ At Little Fox the privacy of our users is very important to us. In accordance wi
 
 Personal Information and Aggregate Information 
 
-  * Little Fox defines "personal information" as information such as a name, address, telephone number, or email address that specifically identifies individual users. Please note that if you choose to subscribe Little Fox in order to gain full access to our Content and Service, you will need to provide us with some personal information during the registration process. In accordance with our privacy policy, we will ask for the least amount of information necessary. However, if you opt to omit some of the required personal information, you may not be able to register as a subscriber.
+  * Little Fox defines \"personal information\" as information such as a name, address, telephone number, or email address that specifically identifies individual users. Please note that if you choose to subscribe to Little Fox in order to gain full access to our Content and Service, you will need to provide us with some personal information during the registration process. In accordance with our privacy policy, we will ask for the least amount of information necessary. However, if you opt to omit some of the required personal information, you may not be able to register as a subscriber.
   *   
 "Aggregate information" is information collected about a category or group that does not personally identify individual users. Little Fox may collect aggregate information in order to improve our website and Service for you and other users.
 
