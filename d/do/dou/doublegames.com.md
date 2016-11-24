@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doublegames.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207135756id_/http%3A//www.doublegames.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doublegames.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124024534id_/http%3A//www.doublegames.com/privacy-policy.html) for the most accurate reproduction.*
 
 # DoubleGames: Free download games, Play online games, Free games
 
