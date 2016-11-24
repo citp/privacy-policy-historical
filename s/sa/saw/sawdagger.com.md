@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sawdagger.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611144446id_/http%3A//www.sawdagger.com/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sawdagger.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124193617id_/http%3A//www.sawdagger.com/privacystatement.html) for the most accurate reproduction.*
 
 # Sawdagger.com - Privacy Statement
 
