@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arla.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208054115id_/http%3A//www.arla.com/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arla.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124115643id_/http%3A//www.arla.com/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Arla
 
@@ -6,7 +6,7 @@ Arla Foods knows that you care how information about you is used and shared and 
 
 This Privacy Policy sets out the steps that we take to ensure that any information provided to us is kept secure and confidential and is used only for the purposes for which it is provided.
 
-## Personal Information
+### Personal Information
 
 The only personal information that we will collect is the personal information that you provide to us when you register with us or when you communicate with us through our website. We will at any time, at your request, provide you with a copy of any personal information that we are holding about you.
 
@@ -14,7 +14,7 @@ Our website does not store or capture personal information automatically, but me
 
 This website employs cookies for collecting technical information for statistical purposes of a non-personal nature, from which you cannot be identified and which is required for system administration. A cookie is a message given to a web browser by a web server. It is used f.ex. to identify a user's computer in order to register visit patterns on the website.
 
-## Purposes for which Personal Information may be used
+### Purposes for which Personal Information may be used
 
 Any personal information that you provide to us will only be used for the following purposes:
 
@@ -29,10 +29,19 @@ Any personal information that you provide to us will only be used for the follow
 
 However, these statistics are anonymous and do not identify individual users.
 
-## Disclosure
+### Disclosure
 
 We will not pass any of your personal information to any third party, other than members of the Arla Foods Group, without your consent, which shall be deemed to be given in the circumstances set out below unless you indicate otherwise.
 
-## Changes to our Privacy Policy
+### Changes to our Privacy Policy
 
 If we decide to change our Privacy Policy we will post the changes here. However, if we make material changes to the way we use your personal information we will ask for your consent before we do so.
+
+### Legal information
+
+  * [Privacy Policy](https://web.archive.org/legal-information/privacy-policy/)
+  * [Terms of use](https://web.archive.org/legal-information/standard-terms-of-website-use/)
+  * [Cookie Policy](https://web.archive.org/legal-information/cookie-policy/)
+  * [Payment Policy](https://web.archive.org/legal-information/payment-policy/)
+
+
