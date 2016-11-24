@@ -1,121 +1,85 @@
-> *The following text is extracted and transformed from the inthestyle.com privacy policy that was archived on 2003-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031221120231id_/http%3A//privacy.yahoo.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inthestyle.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124132205id_/http%3A//www.inthestyle.com/privacy-policy) for the most accurate reproduction.*
 
-# Yahoo! Privacy
+# Privacy Policy
 
-| **More about Yahoo! Privacy**  
----  
-|  We have detailed reference links describing our privacy practices for a wide range of Yahoo! products and services.   
-[Find them here](https://web.archive.org/privacy/us/all.html).   
-**Assistance**  
-· | [Printer-friendly format](https://web.archive.org/privacy/us/print.html)  
-· | [Help](http://help.yahoo.com/help/us/privacy/)  
-· | [Contact us](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback)  
-· | [Edit Account Information](http://edit.yahoo.com/config/eval_profile?.src=&.done=privacy.yahoo.com/privacy/us/)  
-· | [Marketing Preferences](http://subscribe.yahoo.com/showaccount)  
-**Special Topics**  
-· | [Security at Yahoo!](https://web.archive.org/privacy/us/security/details.html)  
-· | [Cookies](https://web.archive.org/privacy/us/cookies/details.html)  
-· | [Third Party Ad Servers](https://web.archive.org/privacy/us/adservers/details.html)  
-· | [more...](https://web.archive.org/privacy/us/all.html)  
-**Privacy Links**  
-· | [Full Coverage: Privacy](http://fullcoverage.yahoo.com/Full_Coverage/Tech/Internet_Privacy)  
-· | [Yahoo! Category: Privacy](http://dir.yahoo.com/Computers_and_Internet/Internet/Issues/Privacy/)  
-· | [Yahoo! Search: Privacy](http://search.yahoo.com/bin/search?p=privacy)  
-· | [Yahoo! Category: Security](http://dir.yahoo.com/Computers_and_Internet/Security_and_Encryption/)  
-· | [Federal Trade Commission](http://www.ftc.gov/)  
-  
-* * *  
-  
-  | 
+This policy sets out the basis on which personal information about you may be collected and used when you use (whether browsing or making a purchase) [http://www.inthestyle.com/](https://web.archive.org/) and on our mobile application, register an account with us, and interact with us on In The Styles official Facebook, Instagram, Twitter and Youtube accounts (“Social Media”). By using the site and applications, registering an In The Style Account and interacting with our Social Media you are accepting and consenting to the terms of this policy.  
+We are committed to maintaining your privacy. We are registered as a data controller for the purposes of the Data Protection Act 1998 (“DPA”).
 
-[](https://www.truste.org/ivalidate.php?url=www.yahoo.com) Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy.
+We reserve the right to amend these Terms from time to time. The Terms were most recently updated on 1 August 2016.
 
-**NOTICE:[Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm) for important information about safe surfing from the Federal Trade Commission. **
+ **What We Collect  
+**
 
-**What This Privacy Policy Covers**  
+  * Information you give to us: Your name, date of birth, telephone number, home address, delivery address, email address and credit card and other payment details when you purchase items from the Sites. We will also ask for this information when you register an In The Style account. We will generate an order number which will be linked to your details when you place an order on the Site.
+  * Information about you when you fill in forms on the site or when you correspond with us on the Social Media for example when you register to subscribe to our newsletters and emails, when you enter into our prize draws, competitions and other promotions, when you complete forms to receive particular offers or when you participate in our Social Media activities or surveys. In such circumstances you may provide additional information about you such as your photograph and other images and identifying information, your interests and hobbies, details of your Social Media accounts, posts and preferences;
+  * Information about you when you submit reviews, profiles, images, videos, instructions, comments, feedback, ideas, suggestions or other information or materials via the Sites or the Social Media, whether relating to our site, products, promotions or other matters upon which you wish to comment.
+  * You must ensure in all instances that the information you provide is personal to you and no one else (for example you must only provide an email address that only accessible by you and not any other person. You should not use another person’s email address or a generic email address). You must also ensure that the information you provide is accurate and up to date. By providing information about you to us you warrant that the information you provide is personal to you and is accurate and up to date, and that you will keep us informed of any changes.
 
 
-  * This policy covers how Yahoo! treats personal information that Yahoo! collects and receives, including information related to your past use of Yahoo! products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
-  * This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. In addition, certain Yahoo! associated companies such as [Inktomi](http://www.inktomi.com/info/privacy.html), [Overture](http://www.content.overture.com/d/USm/about/company/privacypolicy.jhtml), [Altavista](http://www.altavista.com/web/legal/privacy), and [AlltheWeb](http://www.alltheweb.com/info/about/privacy_policy) have their own privacy statements which can be viewed by clicking on the links. 
 
-**Information Collection and Use**
+Information we collect about you: 
 
-      **General**  
-
-
-  * Yahoo! collects personal information when you register with Yahoo!, when you use [Yahoo! products or services](https://web.archive.org/privacy/us/all.html), when you visit Yahoo! pages or the pages of certain Yahoo! partners, and when you enter [promotions or sweepstakes](https://web.archive.org/privacy/us/promo/details.html). Yahoo! may combine information about you that we have with information we obtain from business partners or other companies. 
-  * When you register we ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. For some financial products and services we may also ask for your address, Social Security number, and information about your assets. Once you register with Yahoo! and sign in to our services, you are not anonymous to us. 
-  * Yahoo! collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer. 
-  * Yahoo! automatically receives and records information on our server logs from your browser, including your [ IP address](https://web.archive.org/privacy/us/ip/details.html), Yahoo! [ cookie](https://web.archive.org/privacy/us/cookies/details.html) information, and the page you request. 
-  * Yahoo! uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
-
-      **Children**  
+  * Technical information, including the Internet protocol (IP) address used to connect your computer to the internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
+  * Information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from the site (including date and time), products you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number;
+  * How many times you have been on the Site and information about your Order including the Items you have purchased and details you inputted when placing your order including your name, email address delivery address and telephone number (this will be linked to the email address you use when you place an Order on your In The Style Account) 
+  * Further information on the technology we use to collect some of this information is available on our Cookies Policy.
 
 
-  * When a child under age 13 attempts to register with Yahoo!, we ask that he or she have a parent or guardian create a [ Yahoo! Family Account](https://web.archive.org/privacy/us/family/details.html) to obtain parental permission. 
-  * Yahoo! will not contact children under age 13 about special offers or for marketing purposes without a parent's permission. 
-  * Yahoo! does not ask a child under age 13 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion. 
 
-**Information Sharing and Disclosure**  
+Information we receive from other sources: 
 
-
-  * Yahoo! does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
-    * We provide the information to trusted partners who work on behalf of or with Yahoo! under confidentiality agreements. These companies may use your personal information to help Yahoo! communicate with you about offers from Yahoo! and our marketing partners. However, these companies do not have any independent right to share this information. 
-    * We have a parent's permission to share the information if the user is a child under age 13. Parents have the option of allowing Yahoo! to collect and use their child's information without consenting to Yahoo! sharing of this information with people and companies who may use this information for their own purposes; 
-    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; 
-    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!'s terms of use, or as otherwise required by law. 
-    * We transfer information about you if Yahoo! is acquired by or merged with another company. In this event, Yahoo! will notify you before information about you is transferred and becomes subject to a different privacy policy. 
-  * Yahoo! displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area. 
-    * Yahoo! does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
-    * Yahoo! advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
-
-**Cookies**  
+  * We work closely with third parties (including, for example, carriers who deliver Items to you, card protection and payment processing companies that process your payments for Items, business partners (including without limitation third parties that provide promotions and prizes on the Sites and/or Social Media and third parties that we consider you may be interested in based on your preferences and use of our Sites), sub-contractors of warehouse management, customer service and in technical, advertising market research and promotions management functions, analytics providers, search information providers and credit reference agencies) and may receive information about you from them.
 
 
-  * Yahoo! may set and access Yahoo! [ cookies](https://web.archive.org/privacy/us/cookies/details.html) on your computer. 
-  * Yahoo! lets [ other companies](https://web.archive.org/privacy/us/adservers/details.html) that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo!'s cookies. 
-  * Yahoo! uses [ web beacons](https://web.archive.org/privacy/us/pixels/details.html) to access Yahoo! cookies inside and outside our network of web sites and in connection with Yahoo! products and services. 
 
-**Your Ability to Edit and Delete Your Account Information and Preferences**
+**What we do with information collected**
 
-      **General**  
+Information you give to us. We will use this information:
 
-
-  * You can edit your [ Yahoo! Account Information](http://edit.yahoo.com/config/eval_profile?.src=&.intl=us&.done=privacy.yahoo.com/privacy/us), including your [ marketing preferences](http://subscribe.yahoo.com/showaccount), at any time. 
-  * New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
-  * We reserve the right to send you certain communications relating to the Yahoo! service, such as service announcements, administrative messages and the Yahoo! Newsletter, that are considered part of your Yahoo! account, without offering you the opportunity to opt-out of receiving them. 
-  * You can delete your Yahoo! account by visiting our [ Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [ click here](https://web.archive.org/privacy/us/archives/details.html) to read about information that might possibly remain in our archived records after your account has been deleted. 
-
-      **Children**  
+  * To carry out our obligations arising from any contracts entered into between you and us for example to process and fulfil your Order, to enter you into a prize draw, competition or other promotion (where requested) or to provide you with the information, products and services that you request from us. This may require disclosure to third parties for example card processing agencies, banks, shipping providers and carriers, fraud protection agencies and suppliers of gifts and prizes for our competitions, prize draws and other promotions;
+  * To tailor or service to you and ensure that we can process your Order in the most efficient manner for you, and to overall improve your experience on the Sites;
+  * To involve you in our promotions (at your request). We may want to use the information that you provide in this context for additional purposes.
+  * To interact with you using the Social Media. Features such as the “like”, “retweet”, “repost” and “share” on the Social Media may allow us to enable integration and/or access to your accounts on the Social Media. Please note we do not control Twitter, Facebook, Instagram or Youtube (“Social Media Sites”), your profile/account on the Social Media Sites, we do not modify your account or your privacy settings on the Social Media Sites and we do not establish rules about how your personal information will be used when you use the Social Media Sites. You and the relevant provider of the Social Media Sites will be in control of those issues and not us. You are encouraged to read all policies and information on the applicable Social Media Sites to learn more about how they handle your information before using the Social Media Sites and any features on the Social Media Sites;
+  * To provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about and to notify you of our offers and promotions, by telephone, email, SMS and post. You can unsubscribe from our mailing list by following the link in the emails.
+  * To allow our carefully selected third parties to provide you, with information about goods or services that may interest you.;
+  * To notify you about changes to the Sites, your Order, our terms and conditions and our service;
+  * To ensure that content on the Sites is presented in the most effective manner for you and for your computer.
 
 
-  * Parents can review, edit, and delete information relating to their child's Yahoo! account using tools offered by [Yahoo! Family Accounts](http://family.yahoo.com/). 
-  * If a parent chooses not to allow us to further collect or use a child's information, parents enrolled in Yahoo! Family Accounts can delete their child's account by signing into that child's account and then visiting our [ Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [ click here](https://web.archive.org/privacy/us/archives/details.html) to read about information that might possibly remain in our archived records after your account has been deleted. 
 
-**Confidentiality and Security**  
+Information we collect about you. We will use this information: 
 
-
-  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
-  * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
-  * To learn more about security, including the security steps we have taken and security steps you can take, please read [Security at Yahoo!](http://privacy.yahoo.com/privacy/us/security/details.html). 
-
-**Changes to this Privacy Policy**  
-
-
-  * Yahoo! may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Yahoo! account or by placing a prominent notice on our site. 
-
-**Questions and Suggestions**  
+  * To administer the site and the Social Media and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
+  * To process, fulfil and keep a record of Orders placed;
+  * To tailor our service to you and to ensure that we can process your Order in the most efficient manner for you, and to overall improve your experience on the Sites;
+  * To promote and advertise In The Style and its goods and services, and its promotional activity (see below for further details);
+  * To improve the Sites and Social Media to ensure that content is presented in the most effective manner for you and for your computer;
+  * To allow you to participate in interactive features of our service, when you choose to do so;
+  * as part of our efforts to keep the Site safe and secure;
+  * To make suggestions and recommendations to you and other users of the Site about goods or services that may interest you or them.
 
 
-  * [Yahoo! is TRUSTe-certified](https://www.truste.org/validate/361). This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/users/users_watchdog.html), an independent privacy organization. TRUSTe serves as a liaison with Yahoo! to resolve your concern. 
-  * If you have questions or suggestions, please complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback?radio30=radio305) or you can contact us at: 
 
-Yahoo! Inc.  
-Customer Care - Privacy Policy Issues  
-701 First Avenue  
-Sunnyvale, CA 94089  
-(408) 349-5070  
+Information we receive from other sources. We may combine this information with information you give to us and information we collect about you. We may us this information and the combined information for the purposes set out above (depending on the types of information we receive).
 
+ **Security**
 
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+ **Cookies**
+
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.  
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.  
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+ **Your Rights**
+
+You may choose to restrict the collection or use of your personal information in the following ways: 
+
+  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at customerservices@inthestyle.com
+  * We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+  * You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email customerservices@inthestyle.com
+  * If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
 
