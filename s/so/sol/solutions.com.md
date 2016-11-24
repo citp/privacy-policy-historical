@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solutions.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515181726id_/http%3A//solutions.blair.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solutions.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124163614id_/http%3A//solutions.blair.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy and Security | Solutions
 
@@ -6,8 +6,6 @@ Solutions.com Privacy Policy | Customer Service
 
 **SOLUTIONS.COM  
 Online Privacy Policy**
-
-**Effective Date: May 1, 2016**
 
 Welcome to Solutions.com (this "Site").
 
