@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontpointsecurity.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325234043id_/http%3A//www.frontpointsecurity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontpointsecurity.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124091428id_/http%3A//frontpointsecurity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Frontpoint Security
 
@@ -9,8 +9,6 @@
 Effective on August 27, 2015
 
 This privacy policy describes how FrontPoint Security Solutions, LLC (“FrontPoint Security”) collects and uses the personal information you provide on our website: [http://www.frontpointsecurity.com](http://www.frontpointsecurity.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
-
-On an annual basis, FrontPoint Security’s privacy policies and practices are reviewed by TRUSTe for compliance with TRUSTe’s program requirements.  TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions.  In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.  The TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through our mobile application.
 
 This privacy policy addresses the following topics:
 
