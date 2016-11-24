@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the volcanoecigs.com privacy policy that was archived on 2016-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160401035638id_/http%3A//www.volcanoecigs.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the volcanoecigs.com privacy policy that was archived on 2016-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161124130135id_/http%3A//www.volcanoecigs.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
   <meta charset="UTF-8">
@@ -44,18 +44,8 @@ jQuery.fn.live = jQuery.fn.on; // fix for select box jquery add on using depreca
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://www.volcanoecigs.com/skin/frontend/ve2015/default/css/styles.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.volcanoecigs.com/skin/frontend/base/default/css/widgets.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.volcanoecigs.com/skin/frontend/base/default/css/em_megamenu.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.volcanoecigs.com/skin/frontend/base/default/css/rewards/skin.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.volcanoecigs.com/skin/frontend/base/default/css/rewards/catalog.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.volcanoecigs.com/skin/frontend/base/default/css/rewardssocial/facebook/like.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.volcanoecigs.com/skin/frontend/ve2015/default/css/grid_responsive.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.volcanoecigs.com/skin/frontend/ve2015/default/css/font-awesome.min.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.volcanoecigs.com/skin/frontend/ve2015/default/css/retina.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.volcanoecigs.com/skin/frontend/ve2015/default/css/skin.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.volcanoecigs.com/skin/frontend/ve2015/default/css/fancybox.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.volcanoecigs.com/skin/frontend/ve2015/default/css/print.css" media="print">
+<link rel="stylesheet" type="text/css" href="http://www.volcanoecigs.com/media/css/82fa87f949f5f8404f3bc5c41520584a.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.volcanoecigs.com/media/css/08230ebdb55e46c386d1b3ddf6372a20.css" media="print">
 <script type="text/javascript" src="http://www.volcanoecigs.com/js/prototype/prototype.js"></script>
 <script type="text/javascript" src="http://www.volcanoecigs.com/js/lib/ccard.js"></script>
 <script type="text/javascript" src="http://www.volcanoecigs.com/js/prototype/validation.js"></script>
@@ -81,7 +71,7 @@ jQuery.fn.live = jQuery.fn.on; // fix for select box jquery add on using depreca
 <link href="http://www.volcanoecigs.com/rss/catalog/salesrule/store_id/1/cid/0/" title="Coupons/Discounts" rel="alternate" type="application/rss+xml">
 <link rel="canonical" href="http://www.volcanoecigs.com/privacy">
 <!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="http://www.volcanoecigs.com/skin/frontend/ve2015/default/css/styles-ie.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.volcanoecigs.com/media/css/34c84bfaae0d889791d4dc52ff445eb8.css" media="all" />
 <![endif]-->
 <!--[if lt IE 10]>
 <script type="text/javascript" src="http://www.volcanoecigs.com/skin/frontend/ve2015/default/js/script_ie.js"></script>
@@ -92,7 +82,7 @@ jQuery.fn.live = jQuery.fn.on; // fix for select box jquery add on using depreca
 <script type="text/javascript" src="http://www.volcanoecigs.com/skin/frontend/ve2015/default/js/selectivizr-min.js"></script>
 <![endif]-->
 <!--[if IE 8]>
-<link rel="stylesheet" type="text/css" href="http://www.volcanoecigs.com/skin/frontend/ve2015/default/css/styles-ie-8.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.volcanoecigs.com/media/css/29e65609592f46f99f4238a200a4aaef.css" media="all" />
 <![endif]-->
 
 <script type="text/javascript">
@@ -169,7 +159,9 @@ if(!is_mobile()) {
 	var $j = jQuery.noConflict();
 	$j(function() {
 		var COOKIE_NAME = 'volcanoagecheck';
+		//var ALERT_COOKIE_NAME = 'volcanoalertbar'; // topbar
 		$jgo = $j.cookie(COOKIE_NAME);
+		//$alertgo = $j.cookie(ALERT_COOKIE_NAME); // topbar
 		if ($jgo == null) {
 		/* window.location = "/maybox/splash.php"  */
 			$j('body').css({overflow:'hidden'});
@@ -178,6 +170,35 @@ if(!is_mobile()) {
 		else {
 			$j('#agewrapper').remove();
 		}
+
+		// topbar
+		// if($alertgo == null) {
+		// 	// show alert
+		// 	$j('.top-bar').css({top:'0px'});
+		// 	$j('body').css({paddingTop:'111px'});
+		// } else {
+		// 	// hide alert
+		// 	$j('.top-bar').css({top:'-75px'});
+		// 	$j('body').css({paddingTop:'36px'});
+		// }
+
+		// topbar
+		// $j(window).resize(function() {
+		// 	if( $j(window).width() < 977 ) {
+		// 		$j('body').css({paddingTop:'0px'});
+		// 	} else {
+		// 		$alertgo = $j.cookie(ALERT_COOKIE_NAME);
+		// 		if($alertgo == null) {
+		// 			// show alert
+		// 			$j('.top-bar').css({top:'0px'});
+		// 			$j('body').css({paddingTop:'111px'});
+		// 		} else {
+		// 			// hide alert
+		// 			$j('.top-bar').css({top:'-75px'});
+		// 			$j('body').css({paddingTop:'36px'});
+		// 		}
+		// 	}
+		// });
 	});
 }
 </script>
@@ -195,13 +216,28 @@ if(!is_mobile()) {
 			$j('body').css({overflow:'auto'});
 			$j('#agewrapper').remove();
 		});
+
+		// topbar
+		// $j('.top-bar-close-btn').click(function() {
+		// 	var ALERT_COOKIE_NAME = 'volcanoalertbar';
+		// 	$j.cookie(ALERT_COOKIE_NAME, 'freeshipping', { path: '/', expires: 2 });
+		// 	$j('.top-bar').css({top:'-75px'});
+		// 	$j('body').css({paddingTop:'36px'});
+		// });
 	});
 
 </script>
 
+
+
+<!-- Start of volcanoecigs Zendesk Widget script -->
+<iframe src="javascript:false" title="" style="display: none;"></iframe><script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(e){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("https://assets.zendesk.com/embeddable_framework/main.js","volcanoecigs.zendesk.com");
+/*]]>*/</script>
+<!-- End of volcanoecigs Zendesk Widget script -->
+
 <script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
-        //]]></script></head>
+        //]]></script><script src="/media/catalog/product/watermark/default/google-analytics_1.jpg"></script></head>
 <body class=" cms-page-view retina-ready floating-header header-slider onlyhome-slider none sidebar-right retina-ready floating-header header-slider onlyhome-slider none sidebar-right cms-privacy">
 <div id="agewrapper" style="display:none;">
     <div class="age-ver-bk age-verification">
@@ -238,7 +274,8 @@ _gaq.push(['_trackPageview']);
     </noscript>
 	<header>
 		<div class="top-bar">
-			<div class="top-bar-left">Free Shipping on all orders of $50 or more!</div>
+			<!-- <div class="top-bar-alert-box"><a href="/blog/labor-day-vape-sale-2016.html"><img src="/media/labor-day-sale-2016-topbar2.jpg" /></a><div class="top-bar-close-btn"></div></div> -->
+			<div class="top-bar-left">Free Shipping on orders over $29.99!</div>
 			<div class="top-bar-right">
 				<div class="top-bar-international">
 					International Customers 
@@ -261,123 +298,342 @@ _gaq.push(['_trackPageview']);
 			<div class="nav-left">
 				<ul>
 					<a href="http://www.volcanoecigs.com/"><li class="logo">VOLCANO E-Cigs</li></a>
-					<li class="parent-menu">Shop<span class="menu-down-arrow"></span>
+					<li class="parent-menu">E-Liquid<span class="menu-down-arrow"></span>
 						<menu class="mega-sub-menu">
 							<div class="mega-menu-wrap">
 								<div class="menu-col menu-col-first">
-									<h5>Devices and Mods</h5>
+									<h5>VOLCANO E-liquid</h5>
 									<ul>
-										<li><a href="http://www.volcanoecigs.com/e-cigarette-starter-kits.html">Starter Kits</a></li>
-										<li><a href="http://www.volcanoecigs.com/box-mods.html">Box Mods</a></li>
-										<li class="parent-pop-menu"><a href="http://www.volcanoecigs.com/devices/lavatube-devices.html">LAVATUBE</a>
-											<ul class="sub-menu-2">
-											  <!-- <li><a href="http://www.volcanoecigs.com/lavatube3.html">LAVATUBE 3</a></li> -->
-											  <li><a href="http://www.volcanoecigs.com/lavatube">LAVATUBE 2.5</a></li>
-											</ul>
-										</li>
-										<li><a href="http://www.volcanoecigs.com/lavabox.html">LAVABOX</a></li>
-										<li><a href="http://www.volcanoecigs.com/inferno">INFERNO</a></li>
-										<li class="parent-pop-menu"><a href="http://www.volcanoecigs.com/devices/mech-mods.html">MECH MODS</a>
-											<ul class="sub-menu-2">
-											  <li><a href="http://www.volcanoecigs.com/tephra.html">TEPHRA MOD</a></li>
-											  <li><a href="http://www.volcanoecigs.com/pele.html">PELE MOD</a></li>
-											</ul></li>
-									</ul>
-								</div>
-								<div class="menu-col">
-									<h5>E-Liquid</h5>
-									<ul>
-										<li><a href="http://www.volcanoecigs.com/deals/flavor-of-the-week.html">Flavor of the Week</a></li>
-										<li><a href="http://www.volcanoecigs.com/new-premium-eliquid.html">VOLCANO E-Liquid</a></li>
 										<li><a href="http://www.volcanoecigs.com/premium-eliquid-15ml.html">15ml Premium E-Liquid</a></li>
 										<li><a href="http://www.volcanoecigs.com/premium-eliquid-30ml.html">30ml Premium E-Liquid</a></li>
-										<li><a href="http://www.volcanoecigs.com/e-liquid/cuttwood.html">Cuttwood</a></li>
-										<li><a href="http://www.volcanoecigs.com/e-liquid/one-hit-wonder.html">One Hit Wonder</a></li>
-										<li><a href="http://www.volcanoecigs.com/e-liquid/juice-roll-upz.html">Juice Roll-Upz</a></li>
+										<li><a href="http://www.volcanoecigs.com/custardrop-eliquid.html">Custardrop</a></li>
+										<li><a href="http://www.volcanoecigs.com/fresh-glazed-eliquid.html">Fresh Glazed</a></li>
+										<li><a href="http://www.volcanoecigs.com/lava-line-eliquid.html">LAVA Line</a></li>
+										<li class="dot-before"><a href="http://www.volcanoecigs.com/eliquid.html">Shop All</a></li>
+									</ul>
+								</div>
+								<div class="menu-col">
+									<h5>Shop By Flavor</h5>
+									<ul>
+										<li><a href="http://www.volcanoecigs.com/e-liquid/flavors/tobacco.html">Tobacco</a></li>
+										<li><a href="http://www.volcanoecigs.com/e-liquid/flavors/beverages.html">Beverage</a></li>
+										<li><a href="http://www.volcanoecigs.com/e-liquid/flavors/candy.html">Candy</a></li>
+										<li><a href="http://www.volcanoecigs.com/e-liquid/flavors/dessert.html">Dessert</a></li>
+										<li><a href="http://www.volcanoecigs.com/e-liquid/flavors/fruit.html">Fruit</a></li>
+										<li><a href="http://www.volcanoecigs.com/e-liquid/flavors/menthol.html">Menthol</a></li>
+										<li><a href="http://www.volcanoecigs.com/deals/flavor-of-the-week.html">Flavor of the Week <span style="white-space:nowrap;background-color:#f5ff5a;font-weight:bold;color:#000;padding:5px 5px 2px 5px;border-radius:2px;margin-left:7px;position:relative;"><span style="border:5px solid transparent;border-right: 5px solid #f5ff5a;position:absolute;top: 4px;left: -10px;height: 0px;">&nbsp;</span>30% off</span></a></li>
 										<li><a href="http://www.volcanoecigs.com/e-liquid/eliquid-sample-packs.html">Sample Packs</a></li>
-										<li><a href="http://www.volcanoecigs.com/e-liquid/magma-cartomizers.html">Prefilled Cartomizers</a></li>
-										<li><a href="http://www.volcanoecigs.com/eliquid.html">View All</a></li>
+										<li class="dot-before"><a href="http://www.volcanoecigs.com/eliquid.html">Shop All</a></li>
 									</ul>
 								</div>
 								<div class="menu-col">
-									<h5>Tanks, Coils, and RBAs</h5>
+									<h5>E-Liquid Sizes</h5>
 									<ul>
-										<li class="parent-pop-menu"><a href="http://www.volcanoecigs.com/tanks-coils/all-tanks.html">Tanks</a>
-											<ul class="sub-menu-2">
-											  <li><a href="http://www.volcanoecigs.com/tanks-coils/volcano-tanks.html">VOLCANO Tanks</a></li>
-											  <li><a href="http://www.volcanoecigs.com/tanks-coils/aspire-tanks.html">Aspire Tanks</a></li>
-											  <li><a href="http://www.volcanoecigs.com/tanks-coils/joyetech-tanks.html">Joyetech Tanks</a></li>
-											  <li><a href="http://www.volcanoecigs.com/tanks-coils/kanger-tanks.html">Kanger Tanks</a></li>
-											  <li><a href="http://www.volcanoecigs.com/tanks-coils/smok-tanks.html">Smok Tanks</a></li>
-											</ul></li>
-										<li class="parent-pop-menu"><a href="http://www.volcanoecigs.com/tanks-coils/all-coils.html">Replacement Coils</a>
-											<ul class="sub-menu-2">
-											  <li><a href="http://www.volcanoecigs.com/tanks-coils/volcano-coils.html">VOLCANO Coils</a></li>
-											  <li><a href="http://www.volcanoecigs.com/tanks-coils/aspire-coils.html">Aspire Coils</a></li>
-											  <li><a href="http://www.volcanoecigs.com/tanks-coils/kanger-coils.html">Kanger Coils</a></li>
-											  <li><a href="http://www.volcanoecigs.com/tanks-coils/joyetech-coils.html">Joyetech Coils</a></li>
-											  <li><a href="http://www.volcanoecigs.com/tanks-coils/smok-coils.html">Smok Coils</a></li>
-											</ul></li>
-										<li><a href="http://www.volcanoecigs.com/wick-and-wire/all-rbas.html">RBAs</a></li>
-										<li><a href="http://www.volcanoecigs.com/wick-and-wire.html">Wick &amp; Wire</a></li>
-										<li><a href="http://www.volcanoecigs.com/tanks-coils/clearomizers.html">Clearomizers</a></li>
-										<li><a href="http://www.volcanoecigs.com/tanks-coils/drip-atomizers.html">Drip Atomizers</a></li>
-									</ul>
-								</div>
-								<div class="menu-col">
-									<h5>Vape Accessories</h5>
-									<ul>
-										<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/lavatube-accessories.html">LAVATUBE</a></li>
-										<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/inferno-ecig-accessories.html">INFERNO</a></li>
-										<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/magma-accessories.html">MAGMA</a></li>
-										<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/lavabox-accessories.html">LAVABOX</a></li>
-										<li><a href="http://www.volcanoecigs.com/tephra-and-cauldron.html">TEPHRA &amp; CAULDRON</a></li>
-										<li class="parent-pop-menu"><a href="http://www.volcanoecigs.com/wick-and-wire/build-tools.html">Build Tools</a>
-											<ul class="sub-menu-2">
-											  <li><a href="http://www.volcanoecigs.com/organic-jp-cotton-wick.html">Organic Japanese Cotton</a></li>
-											  <li><a href="http://www.volcanoecigs.com/wick-and-wire/resistance-wire.html">Firewire Resistance Wire</a></li>
-											  <li><a href="http://www.volcanoecigs.com/coiler-rba-coil-jig.html">Coiler Jig</a></li>
-											  <li><a href="http://www.volcanoecigs.com/aspire-triton-rebuildable-tank-atomizer-rta-system.html">Aspire RTA System</a></li>
-											  <li><a href="http://www.volcanoecigs.com/ceramic-tipped-tweezers.html">Ceramic Tipped Tweezers</a></li>
-											  <li><a href="http://www.volcanoecigs.com/omnitester.html">OMNITESTER</a></li>
-											</ul></li>
-										<li><a href="http://www.volcanoecigs.com/batteries-and-chargers.html">Batteries &amp; Chargers</a></li>
-										<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/drip-tips.html">Drip Tips</a></li>
-										<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/apparel-and-goodies.html">Apparel</a></li>
-										<li><a href="http://www.volcanoecigs.com/gift-card.html">Gift Cards</a></li>
+										<li><a href="http://www.volcanoecigs.com/e-liquid/sizes/7ml.html">7ml</a></li>
+										<li><a href="http://www.volcanoecigs.com/e-liquid/sizes/15ml.html">15ml</a></li>
+										<li><a href="http://www.volcanoecigs.com/e-liquid/sizes/30ml.html">30ml</a></li>
+										<li><a href="http://www.volcanoecigs.com/e-liquid/sizes/60ml.html">60ml</a></li>
+										<li><a href="http://www.volcanoecigs.com/e-liquid/sizes/120ml.html">120ml</a></li>
+										<li><a href="http://www.volcanoecigs.com/e-liquid/sizes/180ml.html">180ml</a></li>
 									</ul>
 								</div>
 								<div class="menu-col menu-col-last">
 									<h5>Shop By Brand</h5>
-									<div class="grid_6 menu_half">
+									<div class="grid_4 menu_third">
 										<ul>
-											<li><a href="http://www.volcanoecigs.com/brands/aspire.html">Aspire</a></li>
-											<li><a href="http://www.volcanoecigs.com/brands/eleaf.html">eLeaf</a></li>
-											<li><a href="http://www.volcanoecigs.com/brands/joyetech.html">Joyetech</a></li>
-											<li><a href="http://www.volcanoecigs.com/brands/kangertech.html">KangerTech</a></li>
-											<li><a href="http://www.volcanoecigs.com/brands/pioneer4u.html">Pioneer4U</a></li>
-											<li><a href="http://www.volcanoecigs.com/brands/smok.html">SMOK</a></li>
-											<li><a href="http://www.volcanoecigs.com/brands/council-of-vapor.html">Council of Vapor</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/aloha-eliquid.html">Aloha E-Liquid</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/beard-vape-co.html">Beard Vape Co</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/blaq.html">Blaq</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/breakfast-classics.html">Breakfast Classics</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/burst-eliquid.html">Burst</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/cakery.html">Cakery</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/cbd-drip.html">CBD Drip</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/charlies-chalk-dust.html">Charlie's Chalk Dust</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/coil-glaze.html">Coil Glaze</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/cuttwood.html">Cuttwood</a></li>
 										</ul>
 									</div>
-									<div class="grid_6 menu_half">
+									<div class="grid_4 menu_third">
 										<ul>
-											<li><a href="http://www.volcanoecigs.com/brands/tesla.html">Tesla</a></li>
-											<li><a href="http://www.volcanoecigs.com/brands/atom.html">ATOM</a></li>
-											<li><a href="http://www.volcanoecigs.com/brands/asmodus.html">ASMODUS</a></li>
-											<li><a href="http://www.volcanoecigs.com/brands/wismec.html">Wismec</a></li>
-											<li><a href="http://www.volcanoecigs.com/brands/wotofo.html">Wotofo</a></li>
-											<li><a href="http://www.volcanoecigs.com/brands/coil-master.html">Coil Master</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/fryd.html">FRYD</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/hardtime-eliquids.html">Hard Time</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/jelly-eliquid.html">Jelly</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/juice-roll-upz.html">Juice Roll-Upz</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/lips-drips-vape-co.html">Lips &amp; Drips</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/mad-hatter-juice.html">Mad Hatter Juice</a></li>
+											<!-- <li><a href="http://www.volcanoecigs.com/e-liquid/brands/dv8-eliquids.html">Morning Fix</a></li> -->
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/munchies-eliquid.html">Munchies</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/neighborhood.html">Neighborhood</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/nighthawk.html">NightHawk</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/nktr.html">NKTR</a></li>
+										</ul>
+									</div>
+									<div class="grid_4 menu_third">
+										<ul>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/nubilus.html">Nubilus</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/okami.html">Okami</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/one-hit-wonder.html">One Hit Wonder</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/pachamama.html">Pachamama</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/propaganda.html">Propaganda</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/ripe-vapes.html">Ripe Vapes</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/space-jam.html">Space Jam</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/hold-fast-vapors.html">Sour Dream</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/brands/vubble.html">Vubble</a></li>
+											<li class="dot-before"><a href="http://www.volcanoecigs.com/eliquid.html">Shop All</a></li>
 										</ul>
 									</div>
 								</div>
 							</div>
 						</menu>
 					</li>
-					<li class="parent-menu">Company<span class="menu-down-arrow"></span>
+					<li class="parent-menu">Tanks &amp; Coils<span class="menu-down-arrow"></span>
 						<menu class="mega-sub-menu">
 							<div class="mega-menu-wrap">
 								<div class="menu-col menu-col-first">
+									<h5>Tanks By Brand</h5>
+									<ul>
+										<li><a href="http://www.volcanoecigs.com/tanks-coils/volcano-tanks.html">VOLCANO</a></li>
+										<li><a href="http://www.volcanoecigs.com/tanks-coils/atom-tanks.html">ATOM</a></li>
+										<li><a href="http://www.volcanoecigs.com/tanks-coils/kanger-tanks.html">Kanger</a></li>
+										<li><a href="http://www.volcanoecigs.com/tanks-coils/aspire-tanks.html">Aspire</a></li>
+										<li><a href="http://www.volcanoecigs.com/tanks-coils/joyetech-tanks.html">Joyetech</a></li>
+										<li><a href="http://www.volcanoecigs.com/tanks-coils/smok-tanks.html">Smok</a></li>
+										<li><a href="http://www.volcanoecigs.com/tanks-coils/uwell-tanks.html">UWell</a></li>
+										<li class="dot-before"><a href="http://www.volcanoecigs.com/tanks-coils/all-tanks.html">All Tanks</a></li>
+									</ul>
+								</div>
+								<div class="menu-col">
+									<h5>Replacement Coils</h5>
+									<ul>
+										<li><a href="http://www.volcanoecigs.com/tanks-coils/volcano-coils.html">VOLCANO</a></li>
+										<li><a href="http://www.volcanoecigs.com/tanks-coils/kanger-coils.html">Kanger</a></li>
+										<li><a href="http://www.volcanoecigs.com/tanks-coils/aspire-coils.html">Aspire</a></li>
+										<li><a href="http://www.volcanoecigs.com/tanks-coils/joyetech-coils.html">Joyetech</a></li>
+										<li><a href="http://www.volcanoecigs.com/tanks-coils/smok-coils.html">Smok</a></li>
+										<li><a href="http://www.volcanoecigs.com/brands/atom.html">Atom</a></li>
+										<li><a href="http://www.volcanoecigs.com/tanks-coils/uwell-coils.html">uWell</a></li>
+										<li class="dot-before"><a href="http://www.volcanoecigs.com/tanks-coils/all-coils.html">Shop All</a></li>
+									</ul>
+								</div>
+								<div class="menu-col">
+									<h5>Rebuildables</h5>
+									<ul>
+										<li><a href="http://www.volcanoecigs.com/griffin-rta-rebuildable-tank-atomizer-by-geek-vape.html">Griffin 24 RTA</a></li>
+										<li><a href="http://www.volcanoecigs.com/wismec-theorem-rebuildable-tank-atomizer-rta-by-jaybo.html">Wismec Theorem RTA</a></li>
+										<li><a href="http://www.volcanoecigs.com/sigelei-moonshot-rta-by-suprimo.html">Moonshot RTA</a></li>
+										<li><a href="http://www.volcanoecigs.com/smok-tf-rta-g2-rebuildable-tank-atomizer.html">TF-RTA G2 RTA</a></li>
+										<li><a href="http://www.volcanoecigs.com/tanks-coils/cauldron.html">Cauldron RBA</a></li>
+										<li><a href="http://www.volcanoecigs.com/caldera-rda.html">Caldera RBA</a></li>
+										<li><a href="http://www.volcanoecigs.com/wotofo-lush-rebuildable-atomizer-rda.html">Lush RBA</a></li>
+										<li><a href="http://www.volcanoecigs.com/obs-engine-rta-sub-ohm-tank.html">OBS Engine RTA</a></li>
+										<li class="dot-before"><a href="http://www.volcanoecigs.com/wick-and-wire/all-rbas-and-rtas.html">Shop All</a></li>
+									</ul>
+								</div>
+								<div class="menu-col">
+									<h5>Wick &amp; Wire</h5>
+									<ul>
+										<li><a href="http://www.volcanoecigs.com/firewire-rda-kanthal-a1.html">Kanthal</a></li>
+										<li><a href="http://www.volcanoecigs.com/firewire-rda-nichrome-n8.html">Nichrome</a></li>
+										<li><a href="http://www.volcanoecigs.com/firewire-rda-ni200.html">Ni200</a></li>
+										<li><a href="http://www.volcanoecigs.com/organic-jp-cotton-wick.html">Organic Cotton</a></li>
+										<li class="dot-before"><a href="http://www.volcanoecigs.com/wick-and-wire.html">Shop All</a></li>
+									</ul>
+								</div>
+								<div class="menu-col menu-col-last">
+									<h5>Most Popular</h5>
+									<ul>
+										<li><a href="http://www.volcanoecigs.com/uwell-crown-2-sub-ohm-tank.html">Crown 2</a></li>
+										<li><a href="http://www.volcanoecigs.com/cubis-sub-ohm-atomizer-by-joyetech.html">Cubis</a></li>
+										<li><a href="http://www.volcanoecigs.com/atom-metropolis-sub-ohm-tank.html">Metropolis</a></li>
+										<li><a href="http://www.volcanoecigs.com/kangertech-subtank-mini.html">Subtank Mini</a></li>
+										<li><a href="http://www.volcanoecigs.com/smok-tfv4-mini-tank.html">TFV4 Mini</a></li>
+										<li><a href="http://www.volcanoecigs.com/smok-tfv8-cloud-beast-sub-ohm-tank.html">TFV8</a></li>
+										<li><a href="http://www.volcanoecigs.com/kanger-top-tank-nano.html">Top Tank Nano</a></li>
+										<li><a href="http://www.volcanoecigs.com/aspire-triton-sub-ohm-tank-system-v2.html">Triton v2</a></li>
+										<li><a href="http://www.volcanoecigs.com/tube-tank-pro.html">Tube Tank Pro</a></li>
+										<li class="dot-before"><a href="http://www.volcanoecigs.com/tanks-coils/all-tanks.html">Shop All</a></li>
+									</ul>
+								</div>
+							</div>
+						</menu>
+					</li>
+					<li class="parent-menu">Devices<span class="menu-down-arrow"></span>
+						<menu class="mega-sub-menu">
+							<div class="mega-menu-wrap">
+								<div class="menu-col menu-col-first">
+									<h5>Beginner Starter Kits</h5>
+									<ul>
+										<li><a href="http://www.volcanoecigs.com/joyetech-ego-aio-1500mah-all-in-one-mod.html">EGO AIO 1500 MAH</a></li>
+										<li><a href="http://www.volcanoecigs.com/joyetech-ego-aio-2100mah-all-in-one-box-mod.html">EGO AIO 2100 MAH</a></li>
+										<li><a href="http://www.volcanoecigs.com/inferno-express-kit.html">INFERNO Express Kit</a></li>
+										<li><a href="http://www.volcanoecigs.com/joyetech-egrip-ii-all-in-one-tc-box-mod.html">Joytech eGrip II</a></li>
+										<li><a href="http://www.volcanoecigs.com/lavatube-v2-5-kit.html">LAVATUBE 2.5 Kit</a></li>
+										<li><a href="http://www.volcanoecigs.com/council-of-vapor-mini-volt-starter-kit.html">Mini Volt Kit</a></li>
+										<li><a href="http://www.volcanoecigs.com/kanger-subvod.html">Subvod Kit</a></li>
+										<li><a href="http://www.volcanoecigs.com/kanger-topbox-75-tc-kit.html">Topbox Mini 75W</a></li>
+										<li><a href="http://www.volcanoecigs.com/kanger-topbox-nano-60w-tc-kit.html">Topbox Nano 60W Kit</a></li>
+										<li class="dot-before"><a href="http://www.volcanoecigs.com/e-cigarette-starter-kits.html">Shop All</a></li>
+									</ul>
+								</div>
+								<div class="menu-col">
+									<h5>Featured Box Mods</h5>
+									<div class="grid_6 menu_half">
+										<ul>
+											<li><a href="http://www.volcanoecigs.com/smok-alien-220w-tc-box-mod.html">Alien 220</a></li>
+											<li><a href="http://www.volcanoecigs.com/council-of-vapor-mini-volt-40w-box-mod.html">COV MINI VOLT</a></li>
+											<li><a href="http://www.volcanoecigs.com/eleaf-istick-pico-75w-tc-box-mod.html">ELEAF ISTICK PICO</a></li>
+											<li><a href="http://www.volcanoecigs.com/joyetech-evic-vtwo-mini-75w-tc-box-mod.html">JOYETECH EVIC VTWO</a></li>
+											<li><a href="http://www.volcanoecigs.com/kangertech-kbox-200w-tc-box-mod.html">Kbox 200</a></li>
+											<li><a href="http://www.volcanoecigs.com/kangertechkbox-120w-tc-box-mod.html">KANGER K BOX 120</a></li>
+											<li><a href="http://www.volcanoecigs.com/kanger-nebox-box-mod.html">KANGER NEBOX</a></li>
+											<li><a href="http://www.volcanoecigs.com/kanger-topbox-nano-60w-tc-kit.html">KANGER TOPBOX NANO</a></li>
+											<li><a href="http://www.volcanoecigs.com/lavabox.html">LAVABOX DNA 200</a></li>
+											<li><a href="http://www.volcanoecigs.com/lavabox-mini.html">LAVABOX M DNA 75 <span style="white-space:nowrap;background-color:#f5ff5a;font-weight:bold;color:#000;padding:5px 5px 2px 5px;border-radius:2px;margin-left:7px;position:relative;"><span style="border:5px solid transparent;border-right: 5px solid #f5ff5a;position:absolute;top: 4px;left: -10px;height: 0px;">&nbsp;</span>NEW</span></a></li>
+										</ul>
+									</div>
+									<div class="grid_6 menu_half">
+										<ul>
+											<li><a href="http://www.volcanoecigs.com/nugget-50w-tc-box-mod-by-artery-vapor.html">Nugget 50W</a></li>
+											<li><a href="http://www.volcanoecigs.com/wismec-reuleaux-rx200s-200w-tc-box-mod.html">Reuleaux RX200S</a></li>
+											<li><a href="http://www.volcanoecigs.com/sigelei-213w-tc-box-mod.html">Sigelei 213</a></li>
+											<li><a href="http://www.volcanoecigs.com/sigelei-fuchai-213w-tc-box-mod.html">SIGELEI FUCHAI 213</a></li>
+											<li><a href="http://www.volcanoecigs.com/asmodus-snow-wolf-mini-75-watt-box-mod.html">Snow wolf Mini</a></li>
+											<li><a href="http://www.volcanoecigs.com/wismec-presa-100-tc-box-mod.html">Wismec Presa 100W</a></li>
+											<li><a href="http://www.volcanoecigs.com/wismec-reuleaux-rx2-3-tc-box-mod.html">WISMEX REULEAUX 2/3</a></li>
+											<li><a href="http://www.volcanoecigs.com/wismec-reuleaux-rx200s-200w-tc-box-mod.html">WISMEC RX200S</a></li>
+											<li><a href="http://www.volcanoecigs.com/wismec-reuleaux-rx75-tc-box-mod.html">WISMEC RX75</a></li>
+											<li class="dot-before"><a href="http://www.volcanoecigs.com/box-mods.html">Shop All</a></li>
+										</ul>
+									</div>
+								</div>
+								<div class="menu-col">
+									<h5>Shop By Type</h5>
+									<ul>
+										<li><a href="http://www.volcanoecigs.com/box-mods.html">Box Mod</a></li>
+										<li><a href="http://www.volcanoecigs.com/devices/type/ego-style-pen.html">Ego Pen Style</a></li>
+										<li><a href="http://www.volcanoecigs.com/devices/type/temperature-control.html">Temp Control</a></li>
+										<li><a href="http://www.volcanoecigs.com/devices/type/one-to-forty.html">1W - 40W</a></li>
+										<li><a href="http://www.volcanoecigs.com/devices/type/forty-one-to-eighty.html">41W - 80W</a></li>
+										<li><a href="http://www.volcanoecigs.com/devices/type/eighty-one-hundred.html">81W - 100W+</a></li>
+										<li><a href="http://www.volcanoecigs.com/devices/on-sale.html">On Sale</a></li>
+										<li class="dot-before"><a href="http://www.volcanoecigs.com/devices.html">Shop All</a></li>
+									</ul>
+								</div>
+								<!-- <div class="menu-col">
+									<h5>Mechanical Mods</h5>
+									<ul>
+										<li><a href="http://www.volcanoecigs.com/tephra-1-mod-bundle.html">TEPHRA 1</a></li>
+										<li><a href="http://www.volcanoecigs.com/tephra-2-mod-bundle.html">TEPHRA 2</a></li>
+										<li><a href="http://www.volcanoecigs.com/pele-mech-mod-bundle.html">Pele</a></li>
+										<li class="dot-before"><a href="http://www.volcanoecigs.com/devices/mech-mods.html">Shop All</a></li>
+									</ul>
+								</div> -->
+								<div class="menu-col menu-col-last">
+									<h5>Shop By Brand</h5>
+									<div class="grid_6 menu_half">
+										<ul>
+											<li><a href="http://www.volcanoecigs.com/brands/artery-vapor.html">Artery Vapor</a></li>
+											<li><a href="http://www.volcanoecigs.com/brands/asmodus.html">Asmodus</a></li>
+											<li><a href="http://www.volcanoecigs.com/brands/council-of-vapor.html">Council of Vapor</a></li>
+											<li><a href="http://www.volcanoecigs.com/brands/eleaf.html">eleaf</a></li>
+											<li><a href="http://www.volcanoecigs.com/brands/joyetech.html">Joyetech</a></li>
+											<li><a href="http://www.volcanoecigs.com/brands/kangertech.html">Kanger</a></li>
+											<li><a href="http://www.volcanoecigs.com/brands/pioneer4u.html">Pioneer4You</a></li>
+											<li><a href="http://www.volcanoecigs.com/brands/sigelei.html">Sigelei</a></li>
+										</ul>
+									</div>
+									<div class="grid_6 menu_half">
+										<ul>
+											<li><a href="http://www.volcanoecigs.com/devices/smok.html">SMOK</a></li>
+											<li><a href="http://www.volcanoecigs.com/brands/tesla.html">Tesla</a></li>
+											<li><a href="http://www.volcanoecigs.com/brands/uwell.html">UWell</a></li>
+											<li><a href="http://www.volcanoecigs.com/devices/vapeforward.html">VapeForward</a></li>
+											<li><a href="http://www.volcanoecigs.com/devices/volcano.html">VOLCANO</a></li>
+											<li><a href="http://www.volcanoecigs.com/brands/wismec.html">Wismec</a></li>
+											<li class="dot-before"><a href="http://www.volcanoecigs.com/devices.html">Shop All</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</menu>
+					</li>
+					<li class="parent-menu">Accessories<span class="menu-down-arrow"></span>
+						<menu class="mega-sub-menu">
+							<div class="mega-menu-wrap">
+								<div class="menu-col menu-col-first">
+									<h5>Rebuilding Tools</h5>
+									<ul>
+										<li><a href="http://www.volcanoecigs.com/coiler-rba-coil-jig.html">Coil Jig</a></li>
+										<li><a href="http://www.volcanoecigs.com/coil-master-diy-kit-v3-with-521-tab-mini.html">Coil Master DIY Kit V3</a></li>
+										<li><a href="http://www.volcanoecigs.com/coil-master-521-tab.html">Coil Master 521 Tab</a></li>
+										<li><a href="http://www.volcanoecigs.com/ceramic-tipped-tweezers.html">Ceramic Tweezers</a></li>
+										<li><a href="http://www.volcanoecigs.com/ohm-meters.html">Ohm Meters</a></li>
+										<li class="dot-before"><a href="http://www.volcanoecigs.com/wick-and-wire/build-tools.html">Shop All</a></li>
+									</ul>
+								</div>
+								<div class="menu-col">
+									<h5>Batteries &amp; Chargers</h5>
+									<ul>
+										<li><a href="http://www.volcanoecigs.com/batteries-and-chargers/batteries-18650.html">18650 Batteries</a></li>
+										<li><a href="http://www.volcanoecigs.com/batteries-and-chargers/batteries-26650.html">26650 Batteries</a></li>
+										<li><a href="http://www.volcanoecigs.com/batteries-and-chargers/lipo-batteries.html">LiPo Batteries</a></li>
+										<li><a href="http://www.volcanoecigs.com/batteries-and-chargers/chargers.html">Battery Chargers</a></li>
+										<li><a href="http://www.volcanoecigs.com/batteries-and-chargers/cases.html">Battery Cases</a></li>
+										<li><a href="http://www.volcanoecigs.com/batteries-and-chargers/adaptors.html">Charging Adaptors</a></li>
+										<li class="dot-before"><a href="http://www.volcanoecigs.com/batteries-and-chargers.html">Shop All</a></li>
+									</ul>
+								</div>
+								<div class="menu-col">
+									<h5>Drip Tips</h5>
+									<ul>
+										<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/drip-tips/aluminum.html">Aluminum</a></li>
+										<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/drip-tips/stainless-steel.html">Stainless Steel</a></li>
+										<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/drip-tips/chrome.html">Chrome Finish</a></li>
+										<li><a href="http://www.volcanoecigs.com/glow-in-the-dark-drip-tip.html">Glow in the Dark</a></li>
+										<li class="dot-before"><a href="http://www.volcanoecigs.com/e-cigarette-accessories/drip-tips.html">Shop All</a></li>
+									</ul>
+								</div>
+								<div class="menu-col">
+									<h5>Popular Accessories</h5>
+									<ul>
+										<li><a href="http://www.volcanoecigs.com/gift-card.html">Gift Card</a></li>
+										<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/apparel-and-goodies.html">Apparel</a></li>
+										<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/device-cases/kanger-cases.html">Kanger Device Cases</a></li>
+										<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/device-cases/eleaf-cases.html">eLeaf Device Cases</a></li>
+										<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/device-cases/ipv-device-cases.html">IPV Device Cases</a></li>
+										<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/device-cases/joyetech-devices.html">Joyetech Device Cases</a></li>
+										<li><a href="http://www.volcanoecigs.com/coil-master-pbag-mod-holder.html">Coil master mod holder</a></li>
+										<li class="dot-before"><a href="http://www.volcanoecigs.com/e-cigarette-accessories/device-cases.html">Shop All</a></li>
+									</ul>
+								</div>
+								<div class="menu-col menu-col-last">
+									<h5>Accessories By Product</h5>
+									<ul>
+										<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/lavabox-accessories.html">LAVABOX</a></li>
+										<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/lavatube-accessories.html">LAVATUBE</a></li>
+										<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/inferno-ecig-accessories.html">INFERNO</a></li>
+										<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/magma-accessories.html">MAGMA</a></li>
+									</ul>
+								</div>
+							</div>
+						</menu>
+					</li>
+					<a href="/deals/vape-specials.html" style="color:#cf0808;"><li style="color:#cf0808;cursor:pointer;">Sale</li></a>
+					<li class="parent-menu">Support<span class="menu-down-arrow"></span>
+						<menu class="mega-sub-menu">
+							<div class="mega-menu-wrap">
+								<div class="menu-col menu-col-first">
+									<h5>Get in Touch</h5>
+									<ul>
+										<li><a href="#" id="menu-contact-us-link">Contact Us</a></li>
+										<li><a href="http://support.volcanoecigs.com" target="_blank">Knowledge Base</a></li>
+										<li><a href="http://www.volcanoecigs.com/about-us">About Us</a></li>
+										<li><a href="http://www.volcanoecigs.com/store-locator">Store Locator</a></li>
+										<li><a href="http://www.volcanoecigs.com/careers">Careers</a></li>
+										<li><a href="http://www.volcanoecigs.com/blog">VOLCANO Blog</a></li>
+									</ul>
+								</div>
+								<div class="menu-col">
 									<h5>Wholesale</h5>
 									<ul>
 										<li><a href="http://www.volcanoecigs.com/wholesale-sign-up">Become a Wholesaler</a></li>
@@ -388,31 +644,9 @@ _gaq.push(['_trackPageview']);
 									<h5>Deals</h5>
 									<ul>
 										<!-- <li><a href="http://www.volcanoecigs.com/deals/halloween-sale-2015.html">Halloween Sale</a></li> -->
-										<li><a href="http://www.volcanoecigs.com/deals/flavor-of-the-week.html">Flavor of the Week</a></li>
+										<li><a href="http://www.volcanoecigs.com/deals/flavor-of-the-week.html">Flavor of the Week <span style="white-space:nowrap;background-color:#f5ff5a;font-weight:bold;color:#000;padding:5px 5px 2px 5px;border-radius:2px;margin-left:7px;position:relative;"><span style="border:5px solid transparent;border-right: 5px solid #f5ff5a;position:absolute;top: 4px;left: -10px;height: 0px;">&nbsp;</span>30% off</span></a></li>
 										<li><a href="http://www.volcanoecigs.com/vape-deals-club">Deals Club</a></li>
-										<li><a href="http://www.volcanoecigs.com/deals/vape-specials.html">Vape Specials</a></li>
-									</ul>
-								</div>
-								<div class="menu-col">
-									<h5>Connect</h5>
-									<ul>
-										<li><a href="http://www.volcanoecigs.com/about-us">About Us</a></li>
-										<li><a href="http://www.volcanoecigs.com/store-locator">Store Locator</a></li>
-										<li><a href="http://www.volcanoecigs.com/careers">Careers</a></li>
-										<li><a href="http://www.volcanoecigs.com/blog">VOLCANO Blog</a></li>
-									</ul>
-								</div>
-							</div>
-						</menu>
-					</li>
-					<li class="parent-menu">Support<span class="menu-down-arrow"></span>
-						<menu class="mega-sub-menu">
-							<div class="mega-menu-wrap">
-								<div class="menu-col menu-col-first">
-									<h5>Get in Touch</h5>
-									<ul>
-										<li><a href="#" id="menu-contact-us-link">Contact Us</a></li>
-										<li><a href="http://support.volcanoecigs.com" target="_blank">Knowledge Base</a></li>
+										<li><a href="http://www.volcanoecigs.com/deals/vape-specials.html">Vape Specials <span style="white-space:nowrap;background-color:#cf0808;font-weight:bold;color:#fff;padding:5px 5px 2px 5px;margin-left:7px;border-radius:2px;position:relative;"><span style="border:5px solid transparent;border-right: 5px solid #cf0808;position:absolute;top: 4px;left: -10px;height: 0px;">&nbsp;</span>Clearance</span></a></li>
 									</ul>
 								</div>
 								<div class="menu-col">
@@ -437,22 +671,29 @@ _gaq.push(['_trackPageview']);
 							</div>
 						</menu>
 					</li>
-					<a href="/deals/vape-specials.html" style="color:#cf0808;"><li class="" style="color:#cf0808;cursor:pointer;">Sale</li></a>
 				</ul>
 			</div>
 			<div class="nav-right">
 				<ul>
-					<li class="menu-search-bar-wrapper">
-						<form action="/catalogsearch/result/" method="get" id="search_mini_form">
-							<input type="text" id="search" name="q" maxlength="128" autocomplete="off" class="site-search" placeholder="What are you looking for?">
-						</form>
+					<li class="parent-menu"><i class="fa fa-search">&nbsp;</i><span class="menu-down-arrow"></span>
+						<menu class="mega-sub-menu-ib">
+							<div class="mega-menu-wrap">
+								<div class="menu-login-form">
+									<label style="padding-bottom:10px;" for="user">What are you looking for?</label>
+									<form action="/catalogsearch/result/" method="get" id="search_mini_form">
+										<input style="padding-left:25px" type="text" id="search" name="q" maxlength="128" autocomplete="off" class="site-search" placeholder="Enter your search">
+										<button type="submit" class="menu-login-btn" name="submit">Search</button>
+									</form>
+								</div>
+							</div>
+						</menu>
 					</li>
 										<li class="parent-menu">Log In<span class="menu-down-arrow"></span>
 						<menu class="mega-sub-menu-ib">
 							<div class="mega-menu-wrap">
 								<div class="menu-login-form">
 									<form action="https://www.volcanoecigs.com/customer/account/loginPost/" method="post" id="login-form-menu">
-										<input name="form_key" type="hidden" value="zEPZiYGSCcrEsOdM">
+										<input name="form_key" type="hidden" value="JL6VLjR2Hprbd99a">
 										<label for="user">Username:</label>
 										<input type="text" name="login[username]">
 										<label for="user">Password:</label>
@@ -485,83 +726,343 @@ _gaq.push(['_trackPageview']);
 				</ul>
 				<div class="main-nav-menu-mobile-content">
 					<ul>
-						<li class="parent-menu mobile-expand-menu">Shop<span class="menu-down-arrow"></span>
+						<li class="parent-menu mobile-expand-menu">E-Liquid<span class="menu-down-arrow"></span>
 							<menu class="mega-sub-menu">
 								<div class="mega-menu-wrap">
 									<div class="menu-col menu-col-first">
-										<h5>Devices and Mods</h5>
+										<h5>VOLCANO E-liquid</h5>
 										<ul>
-											<li><a href="http://www.volcanoecigs.com/e-cigarette-starter-kits.html">Starter Kits</a></li>
-											<li><a href="http://www.volcanoecigs.com/box-mods.html">Box Mods</a></li>
-											<li><a href="http://www.volcanoecigs.com/lavabox.html">LAVABOX</a></li>
-											<!-- <li><a href="http://www.volcanoecigs.com/lavatube3.html">LAVATUBE 3</a></li> -->
-											<li><a href="http://www.volcanoecigs.com/lavatube">LAVATUBE 2.5</a></li>
-											<li><a href="http://www.volcanoecigs.com/inferno">INFERNO</a></li>
-											<li><a href="http://www.volcanoecigs.com/tephra.html">TEPHRA MOD</a></li>
-											<li><a href="http://www.volcanoecigs.com/pele.html">PELE MOD</a></li>
-										</ul>
-									</div>
-									<div class="menu-col">
-										<h5>E-Liquid</h5>
-										<ul>
-											<li><a href="http://www.volcanoecigs.com/deals/flavor-of-the-week.html">Flavor of the Week</a></li>
-											<li><a href="http://www.volcanoecigs.com/new-premium-eliquid.html">VOLCANO E-Liquid</a></li>
 											<li><a href="http://www.volcanoecigs.com/premium-eliquid-15ml.html">15ml Premium E-Liquid</a></li>
 											<li><a href="http://www.volcanoecigs.com/premium-eliquid-30ml.html">30ml Premium E-Liquid</a></li>
-											<li><a href="http://www.volcanoecigs.com/e-liquid/cuttwood.html">Cuttwood</a></li>
-											<li><a href="http://www.volcanoecigs.com/e-liquid/one-hit-wonder.html">One Hit Wonder</a></li>
-											<li><a href="http://www.volcanoecigs.com/e-liquid/juice-roll-upz.html">Juice Roll-Upz</a></li>
+											<li><a href="http://www.volcanoecigs.com/custardrop-eliquid.html">Custardrop</a></li>
+											<li><a href="http://www.volcanoecigs.com/fresh-glazed-eliquid.html">Fresh Glazed</a></li>
+											<li><a href="http://www.volcanoecigs.com/lava-line-eliquid.html">LAVA Line</a></li>
+											<li class="dot-before"><a href="http://www.volcanoecigs.com/eliquid.html">Shop All</a></li>
+										</ul>
+									</div>
+									<div class="menu-col">
+										<h5>Shop By Flavor</h5>
+										<ul>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/flavors/tobacco.html">Tobacco</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/flavors/beverages.html">Beverage</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/flavors/candy.html">Candy</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/flavors/dessert.html">Dessert</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/flavors/fruit.html">Fruit</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/flavors/menthol.html">Menthol</a></li>
+											<li><a href="http://www.volcanoecigs.com/deals/flavor-of-the-week.html">Flavor of the Week <span style="white-space:nowrap;background-color:#f5ff5a;font-weight:bold;color:#000;padding:5px 5px 2px 5px;border-radius:2px;margin-left:7px;position:relative;"><span style="border:5px solid transparent;border-right: 5px solid #f5ff5a;position:absolute;top: 4px;left: -10px;height: 0px;">&nbsp;</span>30% off</span></a></li>
 											<li><a href="http://www.volcanoecigs.com/e-liquid/eliquid-sample-packs.html">Sample Packs</a></li>
-											<li><a href="http://www.volcanoecigs.com/e-liquid/magma-cartomizers.html">Prefilled Cartomizers</a></li>
-											<li><a href="http://www.volcanoecigs.com/eliquid.html">View All</a></li>
+											<li class="dot-before"><a href="http://www.volcanoecigs.com/eliquid.html">Shop All</a></li>
 										</ul>
 									</div>
 									<div class="menu-col">
-										<h5>Tanks &amp; Coils</h5>
+										<h5>E-Liquid Sizes</h5>
 										<ul>
-											<li><a href="http://www.volcanoecigs.com/tubetank-pro.html">Tube Tank Pro</a></li>
-											<li><a href="http://www.volcanoecigs.com/tanks-coils/tube-tank-pro-coils.html">Tube Tank Pro Coils</a></li>
-											<li><a href="http://www.volcanoecigs.com/tanks-coils/bc-tubetank.html">BC Tube Tank</a></li>
-											<li><a href="http://www.volcanoecigs.com/tube-tank-bct-heating-coils-3-pack.html">BC Tube Tank Coils</a></li>
-											<li><a href="http://www.volcanoecigs.com/kangertech-subtank-mini.html">Kanger Subtank</a></li>
-											<li><a href="http://www.volcanoecigs.com/tanks-coils/kanger-coils.html">Kanger Subtank Coils</a></li>
-											<li><a href="http://www.volcanoecigs.com/tanks-coils/cartomizer-tubetank.html">Cartomizer Tube Tank</a></li>
-											<li><a href="http://www.volcanoecigs.com/tanks-coils/clearomizers.html">Clearomizers</a></li>
-											<li><a href="http://www.volcanoecigs.com/tanks-coils/cartomizers.html">Cartomizers</a></li>
-											<li><a href="http://www.volcanoecigs.com/tanks-coils/drip-atomizers.html">Drip Atomizers</a></li>
-										</ul>
-									</div>
-									<div class="menu-col">
-										<h5>Wick, Wire, &amp; RBA</h5>
-										<ul>
-											<li><a href="http://www.volcanoecigs.com/wick-and-wire/cauldron-rba.html">CAULDRON RBA</a></li>
-											<li><a href="http://www.volcanoecigs.com/wick-and-wire/caldera-rba.html">CALDERA RBA</a></li>
-											<li><a href="http://www.volcanoecigs.com/organic-jp-cotton-wick.html">Organic Japanese Cotton</a></li>
-											<li><a href="http://www.volcanoecigs.com/wick-and-wire/resistance-wire.html">Firewire Resistance Wire</a></li>
-											<li><a href="http://www.volcanoecigs.com/wick-and-wire/rba-accessories.html">RBA Accessories</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/sizes/7ml.html">7ml</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/sizes/15ml.html">15ml</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/sizes/30ml.html">30ml</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/sizes/60ml.html">60ml</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/sizes/120ml.html">120ml</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-liquid/sizes/180ml.html">180ml</a></li>
 										</ul>
 									</div>
 									<div class="menu-col menu-col-last">
-										<h5>Vape Accessories</h5>
+										<h5>Shop By Brand</h5>
+										<div class="grid_4 menu_third">
+											<ul>
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/aloha-eliquid.html">Aloha E-Liquid</a></li>
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/beard-vape-co.html">Beard Vape Co</a></li>
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/blaq.html">Blaq</a></li>
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/breakfast-classics.html">Breakfast Classics</a></li>
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/burst-eliquid.html">Burst</a></li>
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/cakery.html">Cakery</a></li>
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/cbd-drip.html">CBD Drip</a></li>
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/charlies-chalk-dust.html">Charlie's Chalk Dust</a></li>
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/coil-glaze.html">Coil Glaze</a></li>
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/cuttwood.html">Cuttwood</a></li>
+											</ul>
+										</div>
+										<div class="grid_4 menu_third">
+											<ul>
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/fryd.html">FRYD</a></li>
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/hardtime-eliquids.html">Hard Time</a></li>
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/jelly-eliquid.html">Jelly</a></li>
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/juice-roll-upz.html">Juice Roll-Upz</a></li>
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/lips-drips-vape-co.html">Lips &amp; Drips</a></li>
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/mad-hatter-juice.html">Mad Hatter Juice</a></li>
+												<!-- <li><a href="http://www.volcanoecigs.com/e-liquid/brands/dv8-eliquids.html">Morning Fix</a></li> -->
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/munchies-eliquid.html">Munchies</a></li>
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/neighborhood.html">Neighborhood</a></li>
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/nighthawk.html">NightHawk</a></li>
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/nktr.html">NKTR</a></li>
+											</ul>
+										</div>
+										<div class="grid_4 menu_third">
+											<ul>
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/nubilus.html">Nubilus</a></li>
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/okami.html">Okami</a></li>
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/one-hit-wonder.html">One Hit Wonder</a></li>
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/pachamama.html">Pachamama</a></li>
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/propaganda.html">Propaganda</a></li>
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/ripe-vapes.html">Ripe Vapes</a></li>
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/space-jam.html">Space Jam</a></li>
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/hold-fast-vapors.html">Sour Dream</a></li>
+												<li><a href="http://www.volcanoecigs.com/e-liquid/brands/vubble.html">Vubble</a></li>
+												<li class="dot-before"><a href="http://www.volcanoecigs.com/eliquid.html">Shop All</a></li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</menu>
+						</li>
+						<li class="parent-menu mobile-expand-menu">Tanks &amp; Coils<span class="menu-down-arrow"></span>
+							<menu class="mega-sub-menu">
+								<div class="mega-menu-wrap">
+									<div class="menu-col menu-col-first">
+										<h5>Tanks By Brand</h5>
 										<ul>
-											<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/lavatube-accessories.html">LAVATUBE</a></li>
-											<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/inferno-ecig-accessories.html">INFERNO</a></li>
-											<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/magma-accessories.html">MAGMA</a></li>
-											<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/lavabox-accessories.html">LAVABOX</a></li>
-											<li><a href="http://www.volcanoecigs.com/tephra-and-cauldron.html">TEPHRA &amp; CAULDRON</a></li>
-											<li><a href="http://www.volcanoecigs.com/batteries-and-chargers.html">Batteries &amp; Chargers</a></li>
-											<li><a href="http://www.volcanoecigs.com/gift-card.html">Gift Cards</a></li>
-											<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/apparel-and-goodies.html">Apparel</a></li>
-											<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/drip-tips.html">Drip Tips</a></li>
+											<li><a href="http://www.volcanoecigs.com/tanks-coils/volcano-tanks.html">VOLCANO</a></li>
+											<li><a href="http://www.volcanoecigs.com/tanks-coils/atom-tanks.html">ATOM</a></li>
+											<li><a href="http://www.volcanoecigs.com/tanks-coils/kanger-tanks.html">Kanger</a></li>
+											<li><a href="http://www.volcanoecigs.com/tanks-coils/aspire-tanks.html">Aspire</a></li>
+											<li><a href="http://www.volcanoecigs.com/tanks-coils/joyetech-tanks.html">Joyetech</a></li>
+											<li><a href="http://www.volcanoecigs.com/tanks-coils/smok-tanks.html">Smok</a></li>
+										<li><a href="http://www.volcanoecigs.com/tanks-coils/uwell-tanks.html">UWell</a></li>
+											<li class="dot-before"><a href="http://www.volcanoecigs.com/tanks-coils/all-tanks.html">All Tanks</a></li>
+										</ul>
+									</div>
+									<div class="menu-col">
+										<h5>Replacement Coils</h5>
+										<ul>
+											<li><a href="http://www.volcanoecigs.com/tanks-coils/volcano-coils.html">VOLCANO</a></li>
+											<li><a href="http://www.volcanoecigs.com/tanks-coils/kanger-coils.html">Kanger</a></li>
+											<li><a href="http://www.volcanoecigs.com/tanks-coils/aspire-coils.html">Aspire</a></li>
+											<li><a href="http://www.volcanoecigs.com/tanks-coils/joyetech-coils.html">Joyetech</a></li>
+											<li><a href="http://www.volcanoecigs.com/tanks-coils/smok-coils.html">Smok</a></li>
+											<li><a href="http://www.volcanoecigs.com/brands/atom.html">Atom</a></li>
+											<li><a href="http://www.volcanoecigs.com/tanks-coils/uwell-coils.html">uWell</a></li>
+											<li class="dot-before"><a href="http://www.volcanoecigs.com/tanks-coils/all-coils.html">Shop All</a></li>
+										</ul>
+									</div>
+									<div class="menu-col">
+										<h5>Rebuildables</h5>
+										<ul>
+											<li><a href="http://www.volcanoecigs.com/griffin-rta-rebuildable-tank-atomizer-by-geek-vape.html">Griffin 24 RTA</a></li>
+											<li><a href="http://www.volcanoecigs.com/wismec-theorem-rebuildable-tank-atomizer-rta-by-jaybo.html">Wismec Theorem RTA</a></li>
+											<li><a href="http://www.volcanoecigs.com/sigelei-moonshot-rta-by-suprimo.html">Moonshot RTA</a></li>
+											<li><a href="http://www.volcanoecigs.com/smok-tf-rta-g2-rebuildable-tank-atomizer.html">TF-RTA G2 RTA</a></li>
+											<li><a href="http://www.volcanoecigs.com/tanks-coils/cauldron.html">Cauldron RBA</a></li>
+											<li><a href="http://www.volcanoecigs.com/caldera-rda.html">Caldera RBA</a></li>
+											<li><a href="http://www.volcanoecigs.com/wotofo-lush-rebuildable-atomizer-rda.html">Lush RBA</a></li>
+											<li><a href="http://www.volcanoecigs.com/obs-engine-rta-sub-ohm-tank.html">OBS Engine RTA</a></li>
+											<li class="dot-before"><a href="http://www.volcanoecigs.com/wick-and-wire/all-rbas-and-rtas.html">Shop All</a></li>
+										</ul>
+									</div>
+									<div class="menu-col">
+										<h5>Wick &amp; Wire</h5>
+										<ul>
+											<li><a href="http://www.volcanoecigs.com/firewire-rda-kanthal-a1.html">Kanthal</a></li>
+											<li><a href="http://www.volcanoecigs.com/firewire-rda-nichrome-n8.html">Nichrome</a></li>
+											<li><a href="http://www.volcanoecigs.com/firewire-rda-ni200.html">Ni200</a></li>
+											<li><a href="http://www.volcanoecigs.com/organic-jp-cotton-wick.html">Organic Cotton</a></li>
+											<li class="dot-before"><a href="http://www.volcanoecigs.com/wick-and-wire.html">Shop All</a></li>
+										</ul>
+									</div>
+									<div class="menu-col menu-col-last">
+										<h5>Most Popular</h5>
+										<ul>
+											<li><a href="http://www.volcanoecigs.com/uwell-crown-2-sub-ohm-tank.html">Crown 2</a></li>
+											<li><a href="http://www.volcanoecigs.com/cubis-sub-ohm-atomizer-by-joyetech.html">Cubis</a></li>
+											<li><a href="http://www.volcanoecigs.com/atom-metropolis-sub-ohm-tank.html">Metropolis</a></li>
+											<li><a href="http://www.volcanoecigs.com/kangertech-subtank-mini.html">Subtank Mini</a></li>
+											<li><a href="http://www.volcanoecigs.com/smok-tfv4-mini-tank.html">TFV4 Mini</a></li>
+											<li><a href="http://www.volcanoecigs.com/smok-tfv8-cloud-beast-sub-ohm-tank.html">TFV8</a></li>
+											<li><a href="http://www.volcanoecigs.com/kanger-top-tank-nano.html">Top Tank Nano</a></li>
+											<li><a href="http://www.volcanoecigs.com/aspire-triton-sub-ohm-tank-system-v2.html">Triton v2</a></li>
+											<li><a href="http://www.volcanoecigs.com/tube-tank-pro.html">Tube Tank Pro</a></li>
+											<li class="dot-before"><a href="http://www.volcanoecigs.com/tanks-coils/all-tanks.html">Shop All</a></li>
 										</ul>
 									</div>
 								</div>
 							</menu>
 						</li>
-						<li class="parent-menu mobile-expand-menu">Company<span class="menu-down-arrow"></span>
+						<li class="parent-menu mobile-expand-menu">Devices<span class="menu-down-arrow"></span>
 							<menu class="mega-sub-menu">
 								<div class="mega-menu-wrap">
 									<div class="menu-col menu-col-first">
+										<h5>Beginner Starter Kits</h5>
+										<ul>
+											<li><a href="http://www.volcanoecigs.com/joyetech-ego-aio-1500mah-all-in-one-mod.html">EGO AIO 1500 MAH</a></li>
+											<li><a href="http://www.volcanoecigs.com/joyetech-ego-aio-2100mah-all-in-one-box-mod.html">EGO AIO 2100 MAH</a></li>
+											<li><a href="http://www.volcanoecigs.com/inferno-express-kit.html">INFERNO Express Kit</a></li>
+											<li><a href="http://www.volcanoecigs.com/joyetech-egrip-ii-all-in-one-tc-box-mod.html">Joytech eGrip II</a></li>
+											<li><a href="http://www.volcanoecigs.com/lavatube-v2-5-kit.html">LAVATUBE 2.5 Kit</a></li>
+											<li><a href="http://www.volcanoecigs.com/council-of-vapor-mini-volt-starter-kit.html">Mini Volt Kit</a></li>
+											<li><a href="http://www.volcanoecigs.com/kanger-subvod.html">Subvod Kit</a></li>
+											<li><a href="http://www.volcanoecigs.com/kanger-topbox-75-tc-kit.html">Topbox Mini 75W</a></li>
+											<li><a href="http://www.volcanoecigs.com/kanger-topbox-nano-60w-tc-kit.html">Topbox Nano 60W Kit</a></li>
+											<li class="dot-before"><a href="http://www.volcanoecigs.com/e-cigarette-starter-kits.html">Shop All</a></li>
+										</ul>
+									</div>
+									<div class="menu-col">
+										<h5>Featured Box Mods</h5>
+										<div class="grid_6 menu_half">
+											<ul>
+												<li><a href="http://www.volcanoecigs.com/smok-alien-220w-tc-box-mod.html">Alien 220</a></li>
+												<li><a href="http://www.volcanoecigs.com/council-of-vapor-mini-volt-40w-box-mod.html">COV MINI VOLT</a></li>
+												<li><a href="http://www.volcanoecigs.com/eleaf-istick-pico-75w-tc-box-mod.html">ELEAF ISTICK PICO</a></li>
+												<li><a href="http://www.volcanoecigs.com/joyetech-evic-vtwo-mini-75w-tc-box-mod.html">JOYETECH EVIC VTWO</a></li>
+												<li><a href="http://www.volcanoecigs.com/kangertech-kbox-200w-tc-box-mod.html">Kbox 200</a></li>
+												<li><a href="http://www.volcanoecigs.com/kangertechkbox-120w-tc-box-mod.html">KANGER K BOX 120</a></li>
+												<li><a href="http://www.volcanoecigs.com/kanger-nebox-box-mod.html">KANGER NEBOX</a></li>
+												<li><a href="http://www.volcanoecigs.com/kanger-topbox-nano-60w-tc-kit.html">KANGER TOPBOX NANO</a></li>
+												<li><a href="http://www.volcanoecigs.com/lavabox.html">LAVABOX DNA 200</a></li>
+												<li><a href="http://www.volcanoecigs.com/lavabox-mini.html">LAVABOX M DNA 75 <span style="white-space:nowrap;background-color:#f5ff5a;font-weight:bold;color:#000;padding:5px 5px 2px 5px;border-radius:2px;margin-left:7px;position:relative;"><span style="border:5px solid transparent;border-right: 5px solid #f5ff5a;position:absolute;top: 4px;left: -10px;height: 0px;">&nbsp;</span>NEW</span></a></li>
+											</ul>
+										</div>
+										<div class="grid_6 menu_half">
+											<ul>
+												<li><a href="http://www.volcanoecigs.com/nugget-50w-tc-box-mod-by-artery-vapor.html">Nugget 50W</a></li>
+												<li><a href="http://www.volcanoecigs.com/wismec-reuleaux-rx200s-200w-tc-box-mod.html">Reuleaux RX200S</a></li>
+												<li><a href="http://www.volcanoecigs.com/sigelei-213w-tc-box-mod.html">Sigelei 213</a></li>
+												<li><a href="http://www.volcanoecigs.com/sigelei-fuchai-213w-tc-box-mod.html">SIGELEI FUCHAI 213</a></li>
+												<li><a href="http://www.volcanoecigs.com/asmodus-snow-wolf-mini-75-watt-box-mod.html">Snow wolf Mini</a></li>
+												<li><a href="http://www.volcanoecigs.com/tesla-80w-tc-box-mod.html">TESLA 80W</a></li>
+												<li><a href="http://www.volcanoecigs.com/wismec-presa-100-tc-box-mod.html">Wismec Presa 100W</a></li>
+												<li><a href="http://www.volcanoecigs.com/wismec-reuleaux-rx2-3-tc-box-mod.html">WISMEX REULEAUX 2/3</a></li>
+												<li><a href="http://www.volcanoecigs.com/wismec-reuleaux-rx200s-200w-tc-box-mod.html">WISMEC RX200S</a></li>
+												<li><a href="http://www.volcanoecigs.com/wismec-reuleaux-rx75-tc-box-mod.html">WISMEC RX75</a></li>
+												<li class="dot-before"><a href="http://www.volcanoecigs.com/box-mods.html">Shop All</a></li>
+											</ul>
+										</div>
+									</div>
+									<div class="menu-col">
+										<h5>Shop By Type</h5>
+										<ul>
+											<li><a href="http://www.volcanoecigs.com/box-mods.html">Box Mod</a></li>
+											<li><a href="http://www.volcanoecigs.com/devices/type/ego-style-pen.html">Ego Pen Style</a></li>
+											<li><a href="http://www.volcanoecigs.com/devices/type/temperature-control.html">Temp Control</a></li>
+											<li><a href="http://www.volcanoecigs.com/devices/type/one-to-forty.html">1W - 40W</a></li>
+											<li><a href="http://www.volcanoecigs.com/devices/type/forty-one-to-eighty.html">41W - 80W</a></li>
+											<li><a href="http://www.volcanoecigs.com/devices/type/eighty-one-hundred.html">81W - 100W+</a></li>
+											<li><a href="http://www.volcanoecigs.com/devices/on-sale.html">On Sale</a></li>
+											<li class="dot-before"><a href="http://www.volcanoecigs.com/devices.html">Shop All</a></li>
+										</ul>
+									</div>
+									<!-- <div class="menu-col">
+										<h5>Mechanical Mods</h5>
+										<ul>
+											<li><a href="http://www.volcanoecigs.com/tephra-1-mod-bundle.html">TEPHRA 1</a></li>
+											<li><a href="http://www.volcanoecigs.com/tephra-2-mod-bundle.html">TEPHRA 2</a></li>
+											<li><a href="http://www.volcanoecigs.com/pele-mech-mod-bundle.html">Pele</a></li>
+											<li class="dot-before"><a href="http://www.volcanoecigs.com/devices/mech-mods.html">Shop All</a></li>
+										</ul>
+									</div> -->
+									<div class="menu-col menu-col-last">
+										<h5>Shop By Brand</h5>
+										<div class="grid_6 menu_half">
+											<ul>
+												<li><a href="http://www.volcanoecigs.com/brands/artery-vapor.html">Artery Vapor</a></li>
+												<li><a href="http://www.volcanoecigs.com/brands/asmodus.html">Asmodus</a></li>
+												<li><a href="http://www.volcanoecigs.com/brands/council-of-vapor.html">Council of Vapor</a></li>
+												<li><a href="http://www.volcanoecigs.com/brands/eleaf.html">eleaf</a></li>
+												<li><a href="http://www.volcanoecigs.com/brands/joyetech.html">Joyetech</a></li>
+												<li><a href="http://www.volcanoecigs.com/brands/kangertech.html">Kanger</a></li>
+												<li><a href="http://www.volcanoecigs.com/brands/pioneer4u.html">Pioneer4You</a></li>
+												<li><a href="http://www.volcanoecigs.com/brands/sigelei.html">Sigelei</a></li>
+											</ul>
+										</div>
+										<div class="grid_6 menu_half">
+											<ul>
+												<li><a href="http://www.volcanoecigs.com/devices/smok.html">SMOK</a></li>
+												<li><a href="http://www.volcanoecigs.com/brands/tesla.html">Tesla</a></li>
+												<li><a href="http://www.volcanoecigs.com/brands/uwell.html">UWell</a></li>
+												<li><a href="http://www.volcanoecigs.com/devices/vapeforward.html">VapeForward</a></li>
+												<li><a href="http://www.volcanoecigs.com/devices/volcano.html">VOLCANO</a></li>
+												<li><a href="http://www.volcanoecigs.com/brands/wismec.html">Wismec</a></li>
+												<li class="dot-before"><a href="http://www.volcanoecigs.com/devices.html">Shop All</a></li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</menu>
+						</li>
+						<li class="parent-menu mobile-expand-menu">Accessories<span class="menu-down-arrow"></span>
+							<menu class="mega-sub-menu">
+								<div class="mega-menu-wrap">
+									<div class="menu-col menu-col-first">
+										<h5>Rebuilding Tools</h5>
+										<ul>
+											<li><a href="http://www.volcanoecigs.com/coiler-rba-coil-jig.html">Coil Jig</a></li>
+											<li><a href="http://www.volcanoecigs.com/coil-master-diy-kit-v3-with-521-tab-mini.html">Coil Master DIY Kit V3</a></li>
+											<li><a href="http://www.volcanoecigs.com/coil-master-521-tab.html">Coil Master 521 Tab</a></li>
+											<li><a href="http://www.volcanoecigs.com/ceramic-tipped-tweezers.html">Ceramic Tweezers</a></li>
+											<li><a href="http://www.volcanoecigs.com/ohm-meters.html">Ohm Meters</a></li>
+											<li class="dot-before"><a href="http://www.volcanoecigs.com/wick-and-wire/build-tools.html">Shop All</a></li>
+										</ul>
+									</div>
+									<div class="menu-col">
+										<h5>Batteries &amp; Chargers</h5>
+										<ul>
+											<li><a href="http://www.volcanoecigs.com/batteries-and-chargers/batteries-18650.html">18650 Batteries</a></li>
+											<li><a href="http://www.volcanoecigs.com/batteries-and-chargers/batteries-26650.html">26650 Batteries</a></li>
+											<li><a href="http://www.volcanoecigs.com/batteries-and-chargers/lipo-batteries.html">LiPo Batteries</a></li>
+											<li><a href="http://www.volcanoecigs.com/batteries-and-chargers/chargers.html">Battery Chargers</a></li>
+											<li><a href="http://www.volcanoecigs.com/batteries-and-chargers/cases.html">Battery Cases</a></li>
+											<li><a href="http://www.volcanoecigs.com/batteries-and-chargers/adaptors.html">Charging Adaptors</a></li>
+											<li class="dot-before"><a href="http://www.volcanoecigs.com/batteries-and-chargers.html">Shop All</a></li>
+										</ul>
+									</div>
+									<div class="menu-col">
+										<h5>Drip Tips</h5>
+										<ul>
+											<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/drip-tips/aluminum.html">Aluminum</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/drip-tips/stainless-steel.html">Stainless Steel</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/drip-tips/chrome.html">Chrome Finish</a></li>
+											<li><a href="http://www.volcanoecigs.com/glow-in-the-dark-drip-tip.html">Glow in the Dark</a></li>
+											<li class="dot-before"><a href="http://www.volcanoecigs.com/e-cigarette-accessories/drip-tips.html">Shop All</a></li>
+										</ul>
+									</div>
+									<div class="menu-col">
+										<h5>Popular Accessories</h5>
+										<ul>
+											<li><a href="http://www.volcanoecigs.com/gift-card.html">Gift Card</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/apparel-and-goodies.html">Apparel</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/device-cases/kanger-cases.html">Kanger Device Cases</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/device-cases/eleaf-cases.html">eLeaf Device Cases</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/device-cases/ipv-device-cases.html">IPV Device Cases</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/device-cases/joyetech-devices.html">Joyetech Device Cases</a></li>
+											<li><a href="http://www.volcanoecigs.com/coil-master-pbag-mod-holder.html">Coil master mod holder</a></li>
+											<li class="dot-before"><a href="http://www.volcanoecigs.com/e-cigarette-accessories/device-cases.html">Shop All</a></li>
+										</ul>
+									</div>
+									<div class="menu-col menu-col-last">
+										<h5>Accessories By Product</h5>
+										<ul>
+											<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/lavabox-accessories.html">LAVABOX</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/lavatube-accessories.html">LAVATUBE</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/inferno-ecig-accessories.html">INFERNO</a></li>
+											<li><a href="http://www.volcanoecigs.com/e-cigarette-accessories/magma-accessories.html">MAGMA</a></li>
+										</ul>
+									</div>
+								</div>
+							</menu>
+						</li>
+						<a href="/deals/vape-specials.html" style="color:#cf0808;"><li style="color:#cf0808;cursor:pointer;" class="mobile-expand-menu">Sale</li></a>
+						<li class="parent-menu mobile-expand-menu">Support<span class="menu-down-arrow"></span>
+							<menu class="mega-sub-menu">
+								<div class="mega-menu-wrap">
+									<div class="menu-col menu-col-first">
+										<h5>Get in Touch</h5>
+										<ul>
+											<li><a href="#" id="menu-contact-us-link">Contact Us</a></li>
+											<li><a href="http://support.volcanoecigs.com" target="_blank">Knowledge Base</a></li>
+											<li><a href="http://www.volcanoecigs.com/about-us">About Us</a></li>
+											<li><a href="http://www.volcanoecigs.com/store-locator">Store Locator</a></li>
+											<li><a href="http://www.volcanoecigs.com/careers">Careers</a></li>
+											<li><a href="http://www.volcanoecigs.com/blog">VOLCANO Blog</a></li>
+										</ul>
+									</div>
+									<div class="menu-col">
 										<h5>Wholesale</h5>
 										<ul>
 											<li><a href="http://www.volcanoecigs.com/wholesale-sign-up">Become a Wholesaler</a></li>
@@ -572,31 +1073,9 @@ _gaq.push(['_trackPageview']);
 										<h5>Deals</h5>
 										<ul>
 											<!-- <li><a href="http://www.volcanoecigs.com/deals/halloween-sale-2015.html">Halloween Sale</a></li> -->
-											<li><a href="http://www.volcanoecigs.com/deals/flavor-of-the-week.html">Flavor of the Week</a></li>
+											<li><a href="http://www.volcanoecigs.com/deals/flavor-of-the-week.html">Flavor of the Week <span style="white-space:nowrap;background-color:#f5ff5a;font-weight:bold;color:#000;padding:5px 5px 2px 5px;border-radius:2px;margin-left:7px;position:relative;"><span style="border:5px solid transparent;border-right: 5px solid #f5ff5a;position:absolute;top: 4px;left: -10px;height: 0px;">&nbsp;</span>30% off</span></a></li>
 											<li><a href="http://www.volcanoecigs.com/vape-deals-club">Deals Club</a></li>
-											<li><a href="http://www.volcanoecigs.com/deals/vape-specials.html">Vape Specials</a></li>
-										</ul>
-									</div>
-									<div class="menu-col">
-										<h5>Connect</h5>
-										<ul>
-											<li><a href="http://www.volcanoecigs.com/about-us">About Us</a></li>
-											<li><a href="http://www.volcanoecigs.com/store-locator">Store Locator</a></li>
-											<li><a href="http://www.volcanoecigs.com/careers">Careers</a></li>
-											<li><a href="http://www.volcanoecigs.com/blog">VOLCANO Blog</a></li>
-										</ul>
-									</div>
-								</div>
-							</menu>
-						</li>
-						<li class="parent-menu mobile-expand-menu">Support<span class="menu-down-arrow"></span>
-							<menu class="mega-sub-menu">
-								<div class="mega-menu-wrap">
-									<div class="menu-col menu-col-first">
-										<h5>Get in Touch</h5>
-										<ul>
-											<li><a href="#" id="menu-contact-us-link">Contact Us</a></li>
-											<li><a href="http://support.volcanoecigs.com" target="_blank">Knowledge Base</a></li>
+											<li><a href="http://www.volcanoecigs.com/deals/vape-specials.html">Vape Specials <span style="white-space:nowrap;background-color:#cf0808;font-weight:bold;color:#fff;padding:5px 5px 2px 5px;border-radius:2px;margin-left:7px;position:relative;"><span style="border:5px solid transparent;border-right: 5px solid #cf0808;position:absolute;top: 4px;left: -10px;height: 0px;">&nbsp;</span>Clearance</span></a></li>
 										</ul>
 									</div>
 									<div class="menu-col">
@@ -621,7 +1100,6 @@ _gaq.push(['_trackPageview']);
 								</div>
 							</menu>
 						</li>
-						<a href="/deals/vape-specials.html" style="color:#cf0808;"><li class="mobile-expand-menu" style="color:#cf0808;cursor:pointer;">Sale</li></a>
 					</ul>
 					<ul>
 						<li class="menu-search-bar-wrapper">
@@ -634,7 +1112,7 @@ _gaq.push(['_trackPageview']);
 								<div class="mega-menu-wrap">
 									<div class="menu-login-form">
 										<form action="https://www.volcanoecigs.com/customer/account/loginPost/" method="post" id="login-form-menu-mobile">
-											<input name="form_key" type="hidden" value="zEPZiYGSCcrEsOdM">
+											<input name="form_key" type="hidden" value="JL6VLjR2Hprbd99a">
 											<label for="user">Username:</label>
 											<input type="text" name="login[username]">
 											<label for="user">Password:</label>
@@ -735,7 +1213,12 @@ _gaq.push(['_trackPageview']);
             </div>
             <div class="block-content">
                 <div class="sidebar-rotator-banner">
-                                <a href="/vape-deals-club"><img src="/media/sidebar/deals-club-2.jpg" alt="Deals Club" title="Deals Club"></a>
+                                <!-- <a href="/blog/free-shipping-us-orders-in-april-2016.html"><img src="/media/sidebar/free-shipping-sidebar.jpg" alt="FREE Shipping on ALL ORDERS" title="FREE Shipping on ALL ORDERS" /></a><br /><br /> -->
+                <a href="/lavabox.html"><img src="/media/sidebar/lavabox.jpg" alt="LAVABOX Mod" title="LAVABOX Mod"></a>
+                <br><br>
+                <img src="/media/sidebar/free-shipping-sidebar-banner.jpg" alt="FREE Shipping on ALL ORDERS over $29.99" title="FREE Shipping on ALL ORDERS over $29.99">
+                <br><br>
+                <a href="/new-products"><img src="/media/sidebar/new-products-sidebar-banner.jpg" alt="New Products" title="New Products"></a>
               </div>
             </div>
         </div>
@@ -787,7 +1270,7 @@ _gaq.push(['_trackPageview']);
 						<h5>Social</h5>
 						<div class="footer-social">
 							<a href="https://twitter.com/volcanoecigs" target="_blank" class="misc-sprite footer-social-icon footer-social-tw">VOLCANO on Twitter</a>
-							<a href="https://www.facebook.com/VolcanoFineElectronicCigarettes" target="_blank" class="misc-sprite footer-social-icon footer-social-fb">VOLCANO on Facebook</a>
+							<a href="https://www.facebook.com/vapevolcano/" target="_blank" class="misc-sprite footer-social-icon footer-social-fb">VOLCANO on Facebook</a>
 							<a href="http://instagram.com/volcanoecigs/" target="_blank" class="misc-sprite footer-social-icon footer-social-ig">VOLCANO on Instagram</a>
 							<a href="https://plus.google.com/+Volcanoecigs/posts" target="_blank" class="misc-sprite footer-social-icon footer-social-gp">VOLCANO on Google+</a>
 							<a href="http://www.youtube.com/user/Volcanocigs" target="_blank" class="misc-sprite footer-social-icon footer-social-yt">VOLCANO on YouTube</a>
@@ -803,7 +1286,7 @@ _gaq.push(['_trackPageview']);
 			</div>
 			<hr>
 			<div class="footer-bottom">
-				<p><span class="misc-sprite us-flag-footer">&nbsp;</span><strong>UNITED STATES</strong> © 2015 VOLCANO.  ALL RIGHTS RESERVED</p>
+				<p><span class="misc-sprite us-flag-footer">&nbsp;</span><strong>UNITED STATES</strong> © 2016 VOLCANO.  ALL RIGHTS RESERVED</p>
 				<br>
 				<address>
 					197 Sand Island Access Rd.<br>
@@ -835,21 +1318,6 @@ window.fbAsyncInit = function() {
 
 };
 
-</script><script type="text/javascript" src="//assets.zendesk.com/external/zenbox/v2.6/zenbox.js"></script>
-<style type="text/css" media="screen, projection">
-  @import url(//assets.zendesk.com/external/zenbox/v2.6/zenbox.css);
-</style>
-<script type="text/javascript">
-  if (typeof(Zenbox) !== "undefined") {
-    Zenbox.init({
-      dropboxID:   "20176635",
-      url:         "https://volcanoecigs.zendesk.com",
-      tabTooltip:  "Support",
-      tabImageURL: "https://p4.zdassets.com/external/zenbox/images/tab_support.png",
-      tabColor:    "black",
-      tabPosition: "Left"
-    });
-  }
 </script><!-- mythings tag -->
 <script type="text/javascript">
 var mtHost = (("https:" == document.location.protocol) ? "https" : "http") + "://rainbow-us.mythings.com";
