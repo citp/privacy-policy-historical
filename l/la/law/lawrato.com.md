@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the lawrato.com privacy policy that was archived on 2016-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160223063941id_/http%3A//lawrato.com/cmses/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawrato.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124193132id_/http%3A//lawrato.com/cmses/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LawRato – Advocates Directory Online | LawRato.com
 
-**_If you do not agree to terms of our Privacy Policy we kindly request you to not use this site._**
+**_If you do not agree to terms of our Privacy Policy we kindly request you to not use this site, or associate mobile apps._**
 
 LawRato.com takes your privacy seriously. We have made our policy as clear as possible so that you can rest assured that you are in good hands.
 
 If you have comments, concerns or any questions about this Privacy Policy, please contact us at contact@LawRato.com
 
-**1\. Introduction to Privacy Practices For LawRato.com**
+### **1\. Introduction to Privacy Practices For LawRato.com**
 
 PAPA Consultancy Pvt. Ltd. (“LawRato.com,” “we,” or “us”) is committed to respecting the privacy rights of all users of LawRato.com services provided via LawRato.com (collectively, “site”) and to protecting your personal information. This policy describes how information about you may be used, how it may be disclosed and how you may access this information.
 
@@ -26,7 +26,7 @@ It is advisable to include only relevant de-identifiable Personal Information in
 
 If you do not agree to terms of our Privacy Policy we kindly request you to not use this site.
 
-**2\. Information that may be collected**
+### **2\. Information that may be collected**
 
 In order to use LawRato.com, you are asked to enter an e-mail address and password, which we refer to as your LawRato.com ID. This process will allow you to manage your profile and/or account; upload files (case history and other relevant documents) and ask specific queries.
 
@@ -38,7 +38,7 @@ We automatically track and collect IP addresses, domain servers, type of web bro
 
 We also collect information you provide voluntarily in free-form text boxes on the Site and through responses to surveys, questionnaires and the like.
 
-**3\. Cookies**
+### **3\. Cookies**
 
 Cookies are text information files that your web browser places on your computer when you visit a website. Cookies assist in providing non-personal information from you as an online visitor. It can be used in the customization of your preferences when visiting our website.
 
@@ -50,27 +50,27 @@ We do not link the information stored in these cookies directly to any of your P
 
 We also automatically collect your Internet Protocol (IP) address (which allows us to understand how you use our site and to enable us to make changes to our site in order to improve your user experience); information regarding your computer and your connection to our site (such as your browser type, operating system, and platform); and your user history to, through, and away from our site (such as session information, page loading times, page errors and broken links, the length of your visits to specific pages within our site, and other information related to your experience on our site).
 
-**4\. Web Beacons**
+### **4\. Web Beacons**
 
 In limited circumstances we also may use Web Beacons to collect anonymous, non-personal information about your use of our Site and the sites of selected sponsors and advertisers, and your use of emails, special promotions or newsletters we send to you. “Web Beacons” are tiny graphic image files imbedded in a web page or email that provide a presence on the web page or email and send back to its home server information from the user’s browser. The information collected by web beacons allows us to statistically monitor how many people are using the Site and selected sponsors' and advertisers' sites, or opening our emails, and for what purposes.
 
-**5\. Website Analytics**
+### **5\. Website Analytics**
 
 We may use third party website analytics services in connection with the Site. These website analytics services do not collect Personal Information that you do not voluntarily enter into the Site. These services do not track your browsing habits across websites, which do not use their services. We are using the information collected from these services to find usability problems to make the Site easier to use.
 
 The recordings will never identify you or your account.
 
-**6\. Storage of Information**
+### **6\. Storage of Information**
 
 We store all Traffic Data and review postings indefinitely, even after “deletion,” and may archive such information elsewhere. We store all Personal Information until you request that we modify or delete it, in which case we may still end up retaining some of that information, as it may be impossible to remove your account without some residual information being retained by us.
 
 LawRato.com has no obligation to delete any data or information you provide on a Case History Form following termination of your account or the account of any professional to whom your Case History Form was submitted through the Site. Registered users who wish to close their account should write in at contact@LawRato.com
 
-**7\. Children**
+### **7\. Children**
 
 Our Website is not directed at children, and we do not seek to collect any information from children including those under the age of 18. If we learn that we have received any information from an individual under the age of 18, we will use that information only to respond directly to that child (or a parent or legal guardian) to inform him or her that he or she cannot use the Services and subsequently we will delete that information from our own servers.
 
-**8\. How information about you may be used by LawRato.com**
+### **8\. How information about you may be used by LawRato.com**
 
 Personal information like your case history (optional), gender and age details is collected when you start a new consultation request. These are saved in your account for future reference and future consultation requests.
 
@@ -102,7 +102,7 @@ We have a no-spam policy.
 
 However, in other instances, non-personal information collected may be used for statistical analysis, improvement of services, and customization of web design, content layout and services.
 
-**10\. Sharing of information**
+### **9\. Sharing of information**
 
 We do not sell or rent your personal information to third parties. We do not share your information with third parties for purposes other than that of providing you the services as mentioned in point 8 in this Privacy Policy document.
 
@@ -119,13 +119,13 @@ We do not sell or rent your personal information to third parties. We do not sha
 
 • We may transfer information about you to another company in connection with a merger, sale or acquisition by or of LawRato.com. In this event, we will use reasonable efforts to notify you before information about you is transferred and becomes subject to a different privacy policy.
 
-**11\. User Choice and controlling your Personal Information**
+### **10\. User Choice and controlling your Personal Information**
 
 As a registered user of the Site, you can modify/delete Personal Information you have included in your profile. However, it may be impossible to remove your information without some residual information being retained by LawRato.com.
 
 Please note LawRato.com has no obligation to delete any data or information following termination of your account. We would try our best to remove/mask any unintentional disclosure of personal information by you during consultations, but are not obligated to do so.
 
-**12\. Security**
+### **11\. Security**
 
 You make the choice of making your data available to consulting Lawyers. We follow generally accepted industry standards to protect the Personal Information. For example we use multiple layers of firewall security and different degree of encryption for your sensitive personal data.
 
@@ -141,24 +141,24 @@ We might send notifications, reminders and health information to the email ids p
 
 Although we make good faith efforts to receive, transmit and store Personal Information in a secure operating environment that is not open to the public, you should understand that there is no such thing as complete security, and we do not guarantee that there will be no unintended disclosures of your Personal Information. If we become aware that your Personal Information has been disclosed in a manner not in accordance with this Privacy Policy, we will use reasonable efforts to notify you of the nature and extent of the disclosure (to the extent we know that information) as soon as reasonably possible and as permitted by law.
 
-**13\. Lawyers**
+### **12\. Lawyers**
 
 Lawyers and their employees should be particularly aware of their obligations of client / user confidentiality, both in communicating with LawRato.com and in consulting users via the site. LawRato.com does not have, and will not accept, any obligations of confidentiality with respect to any communications other than those expressly stated in this Privacy Policy and LawRato.com’s Terms of Use.
 
-**14\. Opt-Out Instructions**
+### **13\. Opt-Out Instructions**
 
 You may opt-out by changing the settings at your profile page. This opt-out does not apply to communications we have with you to complete your order or provide the service you requested. Understand, however, that, by electing this option, you may limit the functionality of this Web site and the amount of information and services we can provide to you. You may revoke your opt-out option at any time by contacting us using the information provided above.
 
-**15\. Updates and Changes to this Privacy Policy**
+### **14\. Updates and Changes to this Privacy Policy**
 
 Protecting your privacy online is an evolving area, and LawRato.com is constantly evolving to meet these demands. We therefore reserve the right to modify this Privacy Policy at any time. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes).
 
-**16\. Contact**
+### **15\. Contact**
 
 If you have comments, concerns or any questions about this Privacy Policy, please contact us at contact@LawRato.com
 
 **If you do not agree to terms of our Privacy Policy we kindly request you to not use this site.**
 
-**Last Updated on February 9th, 2015**
+**Last Updated on March 9th, 2016**
 
-Copyright 2012-2015 PAPA Consultancy Pvt. Ltd. All Rights Reserved.
+Copyright 2012-2016 PAPA Consultancy Pvt. Ltd. All Rights Reserved.
