@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the petmountain.com privacy policy that was archived on 2016-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160403053909id_/http%3A//www.petmountain.com/content/4/secure-shopping-privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the petmountain.com privacy policy that was archived on 2016-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161124170416id_/http%3A//www.petmountain.com/content/4/secure-shopping-privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 <title>
@@ -82,6 +82,7 @@ $j(document).ready(function() {
 
 
 
+
 <script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"4047069"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=4047069&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript><script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10001901453009','properties':{'pixelId':'35327'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
 
 
@@ -132,7 +133,7 @@ $j('.reviewM').fancybox({
 });	});
 });
 </script><script type="text/javascript" async="" src="/Public/Scripts/fancybox/fancybox.2.1.5/jquery.fancybox.pack.js"></script>
-<script type="text/javascript" src="https://www.upsellit.com/active/petmountain.jsp"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<script type="text/javascript" src="https://www.upsellit.com/active/petmountain.jsp"></script></head>
 
 <body id="www-petmountain-com">
 <div id="body" class="page-secure-shopping-privacy ">
@@ -140,7 +141,7 @@ $j('.reviewM').fancybox({
 <div class="header_spacer">
 <div id="logo" class="logo">
 <a href="//www.petmountain.com">
-	<img class="tc_rsp" src="/content/logo_20140721.gif" width="157" height="40" border="0" alt="PetMountain Logo">
+	<img class="tc_rsp" src="/content/logo-20161123.gif" width="157" height="40" border="0" alt="PetMountain Logo">
 </a></div>
 
 <form enctype="multipart/form-data" method="get" action="https://www.petmountain.com/search/0/0/1/1/" name="search_site">
@@ -150,7 +151,6 @@ $j('.reviewM').fancybox({
         <li class="header_nav_shopping_cart" id="header_li156"><a href="https://www.petmountain.com/cart" class="content_tab"><span>Shopping Cart</span></a></li>
             <li class="header_nav_1_888_373_8686" id="header_li153"><a href="http://www.petmountain.com/contact" class="content_tab"><span>1-888-373-8686</span></a></li>
             <li class="header_nav_contact_us" id="header_li8"><a href="http://www.petmountain.com/content/8/contact-us.html" class="content_tab"><span>Contact Us</span></a></li>
-            <li class="header_nav_wish_list" id="header_li63"><a href="http://www.petmountain.com/wishlist" class="content_tab"><span>Wish List</span></a></li>
             <li class="header_nav_order_status" id="header_li38"><a href="https://www.petmountain.com/order-status" class="content_tab"><span>Order Status</span></a></li>
             <li class="header_nav_coupons last_item" id="header_li189"><a href="http://www.petmountain.com/content/169/10-off-email-sign-up.html" class="content_tab"><span>Coupons</span></a></li>
         </ul></div><div class="header_marea2"><ul class="menu_header2">    <li class="cart" id="header_li68"><div id="shopping_cart_area"><a href="http://www.petmountain.com/cart" id="shop_cart_link" class="content_tab"><span>Shopping Cart</span></a></div></li>
@@ -305,9 +305,107 @@ var WRInitTime=(new Date()).getTime();
                 <div id="header_banner3" class="">
         	<div class="caption"></div></div></div><div class="tc_ghost"><div><div>
 
-<div class="the-category-banner">
-	<img class="tc_rsp" src="/content/060815BANNER.gif" border="0" width="700" height="100">
-</div></div>        </div>
+<script>
+var timezoneOffsetHours = -8;
+(function() {
+	function pad(n) {
+		if (n < 0)
+			return "-"+pad(-n);
+		return n <= 9 ? "0"+n : n;
+	}
+	function formatWeeklyTime(timezoneOffset) {
+		var day = 86400000;
+		var nowTime = (new Date()).getTime();
+		var nextThursday = Math.floor((nowTime+timezoneOffset)/(7*day)+1)*(7*day)-timezoneOffset;
+		var nextMondayNight;
+		if (nextThursday-nowTime > 2*day) {
+				nextMondayNight = nextThursday-2*day;
+		} else {
+				nextMondayNight = nextThursday+5*day;
+		}
+		var diff = nextMondayNight-nowTime;
+		var days = Math.floor(diff/86400000)
+		diff %= 86400000;
+		var hours = Math.floor(diff/3600000);
+		diff %= 3600000;
+		var minutes = Math.floor(diff/60000);
+		diff %= 60000;
+		var seconds = Math.floor(diff/1000);
+		var format = "";
+		format += pad(days)+":"+pad(hours)+":"+pad(minutes)+":"+pad(seconds);
+		format_days = "";
+		format_days += (days);
+		format_hours = "";
+		format_hours += pad(hours);
+		format_minutes = "";
+		format_minutes += pad(minutes);
+		format_seconds = "";
+		format_seconds += pad(seconds);
+		return format;
+	}
+	function updateElement() {
+		var elt = document.getElementById('countdown');
+		if (elt) elt.innerHTML = formatWeeklyTime(timezoneOffsetHours*3600000);
+		setTimeout(updateElement, 1000);
+		var gc_days = document.getElementById('GC_days');
+		if (gc_days) gc_days.innerHTML = 0;
+		var gc_hours = document.getElementById('GC_hours');
+		if (gc_hours) gc_hours.innerHTML = format_hours;
+		var gc_minutes = document.getElementById('GC_minutes');
+		if (gc_minutes) gc_minutes.innerHTML = format_minutes;
+		var gc_seconds = document.getElementById('GC_seconds');
+		if (gc_seconds) gc_seconds.innerHTML = format_seconds;
+	}
+	updateElement();
+})();
+</script>
+
+<div class="the-category-banner clearfix">
+	<div class="holi-cd-txt">
+		<h3>Special Holiday <span class="wsnw">Daily Deals</span></h3>
+		<div>Up to 70% off sitewide + <span class="wsnw">free shipping at $75</span></div>
+	</div>
+	<div class="holi-cd-cd clearfix">
+		<div class="holi-space clearfix">
+			<div class="tc_ghost" id="countdown">04:16:59:57</div>
+			<div class="tc_ghost" id="GC_days">0</div>
+			<div class="holi-cd-num">
+				<div class="holi-cd-num-num" id="GC_hours">16</div>
+				<div class="holi-cd-what">HRS</div>
+			</div>
+			<div class="holi-cd-num">
+				<div class="holi-cd-num-num" id="GC_minutes">59</div>
+				<div class="holi-cd-what">MINS</div>
+			</div>
+			<div class="holi-cd-num">
+				<div class="holi-cd-num-num" id="GC_seconds">57</div>
+				<div class="holi-cd-what">SECS</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<style>
+.the-category-banner {padding:10px; background:#c50f1e url(http://www.petmountain.com/content/holi-cd-bg.png) center top no-repeat;}
+.holi-cd-txt {float:left; width:45%; padding:10px; color:#fff; text-shadow:0 1px 1px rgba(0,0,0,.2);}
+.holi-cd-txt h3 {color:#fff; font-size:140%; font-weight:bold;}
+.holi-cd-cd {float:right; text-align:center;}
+.holi-space {padding:5px;}
+.holi-cd-num {position:relative; float:left; width:120px; height:142px; width:72px; height:85px; margin:0 5px; color:#000; background:url(http://www.petmountain.com/content/holi-cd-box.png) center center no-repeat; background-size:100%;}
+.holi-cd-num-num {font-size:320%; line-height:80px;}
+.holi-cd-what {position:absolute; left:0; bottom:2px; width:100%; color:#c50f1e; font-weight:bold;}
+
+@media (min-width:960px) {
+.holi-cd-txt {width:55%; font-size:120%;}
+.holi-cd-txt h3 {margin:10px 0 0;}
+}
+
+@media (max-width:767px) {
+.holi-cd-txt {float:none; width:auto; text-align:center;}
+.holi-cd-txt h3 {margin:0;}
+.holi-cd-cd {display:table; float:none; margin:0 auto;}
+}
+</style></div>        </div>
                 <div id="header_banner4" class="">
         	<div class="caption"><script type="text/javascript"> function USI_installCode() { var USI_headID = document.getElementsByTagName("head")[0]; var USI_installID = document.createElement('script'); USI_installID.type = 'text/javascript'; USI_installID.src = 'http'+ (document.location.protocol=='https:'?'s://www':'://www')+ '.upsellit.com/active/petmountain.jsp'; USI_headID.appendChild(USI_installID); } if (window.addEventListener){ window.addEventListener('load', USI_installCode, true); } else if (window.attachEvent) { window.attachEvent('onload', USI_installCode); } else { USI_installCode(); } </script></div>        </div>
                 <div id="header_banner5" class="">
@@ -332,9 +430,6 @@ var WRInitTime=(new Date()).getTime();
 	</form>
 </div>
 
-<style>
-.shippingBar a, .shippingBar h3 a {color:#1ea5de; text-decoration:none;}
-</style>
 
 <div class="shippingBar no-checkout">
 	<h3><a href="/content/37/shipping-policy.html">FREE SHIPPING</a></h3>
@@ -348,7 +443,7 @@ var WRInitTime=(new Date()).getTime();
 		<li><a href="/Shop/Customer/Login?Page=Shop/Customer/Account">My Account</a></li>
 		<li><a href="/contact">Contact Us</a></li>
 		<li><a href="/content/169/10-off-email-sign-up.html">Coupons</a></li>
-		<li><a href="/content/184/refer-a-friend-get-10-.html">Refer A Friend, Get $10</a></li>
+		<li><a href="/content/184/refer-a-friend-program.html">Refer A Friend Program</a></li>
 	</ul>
 </nav></div>        </div>
         </div>
@@ -371,7 +466,7 @@ var WRInitTime=(new Date()).getTime();
 </div>
 </li><li id="tab-id-1357" class="shop_tab"><a href="http://www.petmountain.com/category/1357/1/new.html" class="shop_tab"><span>NEW</span></a><div id="tab_container_1357"><ul id="tab_content_1357"><li id="tab-id-1364"><a href="http://www.petmountain.com/category/1364/1/new-aquarium-supplies.html"><span>New Aquarium Supplies</span></a></li><li id="tab-id-1373"><a href="http://www.petmountain.com/category/1373/1/new-bird-supplies.html"><span>New Bird Supplies</span></a></li><li id="tab-id-1361"><a href="http://www.petmountain.com/category/1361/1/new-cat-supplies.html"><span>New Cat Supplies</span></a></li><li id="tab-id-1360"><a href="http://www.petmountain.com/category/1360/1/new-dog-supplies.html"><span>New Dog Supplies</span></a></li><li id="tab-id-1367"><a href="http://www.petmountain.com/category/1367/1/new-pond-supplies.html"><span>New Pond Supplies</span></a></li><li id="tab-id-1369"><a href="http://www.petmountain.com/category/1369/1/new-reptile-supplies.html"><span>New Reptile Supplies</span></a></li><li id="tab-id-1370"><a href="http://www.petmountain.com/category/1370/1/new-small-pet-supplies.html"><span>New Small Pet Supplies</span></a></li></ul>
 </div>
-</li><li id="tab-id-1339" class="shop_tab"><a href="http://www.petmountain.com/category/1339/1/bulk.html" class="shop_tab"><span>BULK</span></a><div id="tab_container_1339"><ul id="tab_content_1339"><li id="tab-id-1345"><a href="http://www.petmountain.com/category/1345/1/bulk-aquarium-supplies.html"><span>Bulk Aquarium Supplies</span></a></li><li id="tab-id-1355"><a href="http://www.petmountain.com/category/1355/1/bulk-bird-supplies.html"><span>Bulk Bird Supplies</span></a></li><li id="tab-id-1343"><a href="http://www.petmountain.com/category/1343/1/bulk-cat-supplies.html"><span>Bulk Cat Supplies</span></a></li><li id="tab-id-1342"><a href="http://www.petmountain.com/category/1342/1/bulk-dog-supplies.html"><span>Bulk Dog Supplies</span></a></li><li id="tab-id-1348"><a href="http://www.petmountain.com/category/1348/1/bulk-pond-supplies.html"><span>Bulk Pond Supplies</span></a></li><li id="tab-id-1351"><a href="http://www.petmountain.com/category/1351/1/bulk-reptile-supplies.html"><span>Bulk Reptile Supplies</span></a></li><li id="tab-id-1352"><a href="http://www.petmountain.com/category/1352/1/bulk-small-pet-supplies.html"><span>Bulk Small Pet Supplies</span></a></li></ul>
+</li><li id="tab-id-1339" class="shop_tab"><a href="http://www.petmountain.com/category/1339/1/bulk.html" class="shop_tab"><span>BULK</span></a><div id="tab_container_1339"><ul id="tab_content_1339"><li id="tab-id-1342"><a href="http://www.petmountain.com/category/1342/1/bulk-dog-supplies.html"><span>Bulk Dog Supplies</span></a></li><li id="tab-id-1345"><a href="http://www.petmountain.com/category/1345/1/bulk-aquarium-supplies.html"><span>Bulk Aquarium Supplies</span></a></li><li id="tab-id-1348"><a href="http://www.petmountain.com/category/1348/1/bulk-pond-supplies.html"><span>Bulk Pond Supplies</span></a></li><li id="tab-id-1351"><a href="http://www.petmountain.com/category/1351/1/bulk-reptile-supplies.html"><span>Bulk Reptile Supplies</span></a></li><li id="tab-id-1352"><a href="http://www.petmountain.com/category/1352/1/bulk-small-pet-supplies.html"><span>Bulk Small Pet Supplies</span></a></li><li id="tab-id-1355"><a href="http://www.petmountain.com/category/1355/1/bulk-bird-supplies.html"><span>Bulk Bird Supplies</span></a></li><li id="tab-id-1343"><a href="http://www.petmountain.com/category/1343/1/bulk-cat-supplies.html"><span>Bulk Cat Supplies</span></a></li></ul>
 </div>
 </li><li id="tab-id-1099" class="shop_tab"><a href="http://www.petmountain.com//brands" class="shop_tab"><span>BRAND</span></a></li><li id="tab-id-1083" class="shop_tab"><a href="http://www.petmountain.com/category/1083/1/sale.html" class="shop_tab"><span>SALE</span></a><div id="tab_container_1083"><ul id="tab_content_1083"><li id="tab-id-1406"><a href="http://www.petmountain.com/category/1406/1/clearance-pet-supplies.html"><span>Clearance Pet Supplies</span></a></li><li id="tab-id-1382"><a href="http://www.petmountain.com/category/1382/1/top-rated-pet-supplies.html"><span>Top Rated Pet Supplies</span></a></li><li id="tab-id-1462"><a href="http://www.petmountain.com/category/1462/1/secret-price-pet-supplies.html"><span>Secret Price Pet Supplies</span></a></li><li id="tab-id-1058"><a href="http://www.petmountain.com/category/1058/1/pet-gifts.html"><span>Pet Gifts</span></a></li><li id="tab-id-1534"><a href="http://www.petmountain.com/category/1534/1/pet-supplies-by-color.html"><span>Pet Supplies By Color</span></a></li><li id="tab-id-1086"><a href="http://www.petmountain.com/category/1086/1/dog-supplies-sale.html"><span>Dog Supplies Sale</span></a></li><li id="tab-id-1089"><a href="http://www.petmountain.com/category/1089/1/cat-supplies-sale.html"><span>Cat Supplies Sale</span></a></li><li id="tab-id-1090"><a href="http://www.petmountain.com/category/1090/1/aquarium-supplies-sale.html"><span>Aquarium Supplies Sale</span></a></li><li id="tab-id-1092"><a href="http://www.petmountain.com/category/1092/1/pond-supplies-sale.html"><span>Pond Supplies Sale</span></a></li><li id="tab-id-1093"><a href="http://www.petmountain.com/category/1093/1/reptile-supplies-sale.html"><span>Reptile Supplies Sale</span></a></li><li id="tab-id-1095"><a href="http://www.petmountain.com/category/1095/1/small-pet-supplies-sale.html"><span>Small Pet Supplies Sale</span></a></li><li id="tab-id-1098"><a href="http://www.petmountain.com/category/1098/1/bird-supplies-sale.html"><span>Bird Supplies Sale</span></a></li></ul>
 </div>
@@ -380,6 +475,7 @@ var WRInitTime=(new Date()).getTime();
 	</div>
 	</div>
 	
+
 <script src="http://www.petmountain.com/Public/Scripts/jquery-watermark/jquery.watermark.min.js"></script>
 
 <div id="adminmenu" style="display:none"></div>
@@ -424,9 +520,27 @@ QuickCart_checkQuckCart();
 <div id="sub">
 
 <style>
-.global-banner{display:none;margin:0 auto 10px;padding:10px;color:#333;text-align:center;background:#f5faff;background:url(/content/flake_bg2.gif) center 50% repeat-x;/*background:#daf5ff;*/border:1px solid #ccc;border-bottom:2px solid #ccc;}.global-banner .emph{font-weight:bold;}
+.global-banner{display:none;margin:0 auto 10px; padding:10px; color:#333;text-align:center;background:url(/content/flake_bg2.gif); border:1px solid #ccc;border-bottom:2px solid #ccc;}
+.global-banner a {display:block; padding:10px; color:#333; /*background:linear-gradient(to bottom, rgba(197,239,255,.667) 0%, rgba(255, 255, 255, 1) 100%);*/}
+.global-banner .backer {}
+.global-banner .emph{font-weight:bold;}
 </style>
-<div class="global-banner no-checkout"><span class="emph">Up to 70% OFF</span> everything plus <span class="emph">FREE SHIPPING</span> on orders $75+</div><div id="trail">
+
+<div class="global-banner no-checkout"><span class="backer"><span class="emph">Up to 70% OFF</span> everything plus <span class="emph">FREE SHIPPING</span> on orders $75+</span></div>
+
+<style>
+.simple-phone {position:absolute; top:56px; right:0; font-size:125%;}
+.simple-phone span {white-space:nowrap;}
+
+@media (max-width:959px) {
+.simple-phone.spch {float:none; text-align:center; margin:0 0 10px; padding:0 0 10px; border-bottom:1px solid #ddd;}
+}
+
+@media (max-width:767px) {
+.simple-phone {width:100%; text-align:center;}
+.simple-phone.spca {float:none; text-align:center; margin:0 0 10px; padding:0 0 10px; border-bottom:1px solid #ddd;}
+}
+</style><div id="trail">
     <ul>
         <li><a href="http://www.petmountain.com/">Home</a></li>
                 <li>Secure Shopping &amp; Privacy</li>
@@ -459,94 +573,12 @@ QuickCart_checkQuckCart();
         
         </div>
   
+
 <div class="tc_clear"></div>
 
 </div>
 
 <div id="footer">
-<style>
-#welcomeMPM2 {width:360px;}
-.welcome_case {padding:2em;}
-.welcome-head {font-size:250%; font-weight:bold; text-align:center;}
-.wh-piece {display:inline-block; *zoom:1; *display:inline; margin:0 .5em; text-align:center; vertical-align:middle;}
-.whp1 {padding:0 .25em .5em; color:#fff; line-height:1; background:#e93210; border-radius:100%;}
-.whp1 .mini {font-size:40%; font-weight:normal;}
-.whp2 {color:#00aeef; font-family:Arial Black; letter-spacing:-1px;}
-.welcome-why {margin:1em 0 0; line-height:2em;}
-#welcomeMPM2 form {margin:1em 0 0;}
-#welcomeMPM2 .Put.PutEMAIL {width:100%; *width:99%; height:40px; margin:0; padding:0 1em; *padding:0; line-height:1.3; background:#fff; border:1px solid #bbb; box-sizing: border-box;}
-#welcomeMPM2 button {width:100%; height:40px; margin:1em 0 0; padding:0; color:#fff; font-weight:bold; line-height:40px; text-align:center; cursor:pointer; background:#fc9a18; border:none;}
-#welcomeMPM2 button:hover {background:#00aeef;}
-.welcome-no {margin:1em 0 0; text-align:center;}
-.welcome-no a {color:#00aeef;}
-
-#welcometrigPM2 {display:none; position:fixed; bottom:0; right:0; padding:0 10px; color:#fff; font-weight:bold; line-height:32px; text-decoration:none; background:#00aeef;}
-
-@media (max-width:767px) {
-#welcomeMPM2 {width:280px;}
-.welcome_case {padding:1em;}
-.wh-piece {margin:0 .1em;}
-}
-
-.whp1 {margin-left:0;}
-.whp2 {margin-right:0;}
-</style>
-
-<a id="welcometrigPM2" href="#welcomeMPM2">CLICK TO GET 10% OFF</a>
-
-<script>
-function welcomeSignup(){
-	$j('#email_address_24').val($j('#email_address_24_welcome').val());
-	$j('.fancybox-close').click();
-	$j('#email_signup_24').click();
-}
-
-$j('#welcometrigPM2').appendTo('#sub');
-</script>
-
-<div class="tc_ghost">
-
-<div id="welcomeMPM2">
-	<div class="welcome_case">
-		<div class="welcome-head">
-			<div class="wh-piece whp1">
-				<span class="mini">Save</span><br>10%
-			</div><div class="wh-piece whp2">
-				Sign Up<br>+ Save!
-			</div>
-		</div>
-		<div class="welcome-why">Subscribe to our newsletter for an <b>exclusive</b> coupon code for <b>10% off</b> max discount $10!</div>
-		<form name="confirmation_welcome" id="confirmWelcome">
-			<div class="Putter">
-				<input id="email_address_24_welcome" type="email" name="address" placeholder="Email Address" value="" class="Put PutEMAIL" onkeypress="javascript:if(event.keyCode == 13 || event.which == 13) {document.getElementById('email_signup_24_welcome').click(); return false;}">
-			</div>
-			<input class="tc_ghost Submit SubmitEMAIL" type="submit" name="go" value="Go">
-			<button type="button" onclick="welcomeSignup();" name="bootonpop" id="email_signup_24_welcome">GET MY 10% OFF &gt;&gt;</button>
-			<input id="em-pop-sub" name="email_signup" value="Go" type="hidden">
-		</form>
-		<div class="welcome-no">
-			<a href="#" onclick="jQuery.fancybox.close(); return false;">I'd rather pay full price</a>
-		</div>
-	</div>
-</div>
-
-</div><script type="text/javascript">
-adroll_adv_id = "KWTGRBPPVVBKPLRM55NJLZ";
-adroll_pix_id = "3GAQDVFUK5DRRCVXI2L3JS";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-   if(oldonload){oldonload()}};
-}());
-</script>
 
 
 
@@ -652,7 +684,7 @@ if ($j('.fcol1').length) {
 						<tbody><tr>
 							<td>
 								<div class="Putter">
-									<input class="Put PutEMAIL mF-input" id="email_address_24" name="address" type="text" value="" placeholder="Sign up for emails &amp; get 10% off*" onkeypress="javascript:if(event.keyCode == 13 || event.which == 13) {document.getElementById('email_signup_24').click(); return false;}">
+									<input class="Put PutEMAIL mF-input" id="email_address_24" name="address" type="text" value="" placeholder="Sign up for 10% off your first order*" onkeypress="javascript:if(event.keyCode == 13 || event.which == 13) {document.getElementById('email_signup_24').click(); return false;}">
 								</div>
 							</td>
 							<td class="shrink">
@@ -690,7 +722,7 @@ if ($j('.fcol1').length) {
 					<li><a href="/content/4/secure-shopping-privacy.html">Privacy &amp; Security</a></li>
 					<li><a href="/content/187/low-price-guarantee.html">Low Price Guarantee</a></li>
 					<li><a href="/content/130/customer-satisfaction-guarantee.html">Happy Guarantee</a></li>
-                                        <li><a href="/content/184/refer-a-friend-get-10-.html">Refer A Friend, Get $10!</a></li>
+                                        <li><a href="/content/184/refer-a-friend-program.html">Refer A Friend Program</a></li>
 					<li><a target="_blank" href="http://member.impactradius.com/campaign-campaign-info/PetMountaincom-Pet-Supplies.brand?io=JVQw9mWJnq7%2FE5lZZVqdiAFtxqLmHbaCJdDdKvsdDUQnM3QdWvrVfU94SpUPlNTR">Affiliate Program</a></li>
 				</ul>
 			</div>
@@ -699,7 +731,7 @@ if ($j('.fcol1').length) {
 					<li class="title">MY ACCOUNT</li>
 					<li><a href="/Shop/Customer/Login?Page=Shop/Customer/Account">Log In / Sign Up</a></li>
 					<li><a href="/order-status">Order Status</a></li>
-					<li><a href="/Shop/Wishlist/Manager">Wish List</a></li>
+					<!--<li><a href="/Shop/Wishlist/Manager">Wish List</a></li>-->
 					<li><a href="/content/126/email-preferences.html">Email Preferences</a></li>
 					<li><a href="/returns">Easy Returns</a></li>
 					<li><a href="http://www.petmountain.com/contact">Contact Us</a></li>
@@ -786,6 +818,11 @@ $j(document).ready(function(){
 <script>
 $j('.form_Order_cart_order label').css('display','inline-block').css('width','130px');
 $j('.form_Order_cart_order .form_row').css('padding','0');
+if ($j('#change_password_area #Customer_user_customer_old_password_l').length) {
+var oldtocur = $j('#change_password_area #Customer_user_customer_old_password_l').html();
+oldtocur = oldtocur.replace('Old','Current');
+$j('#change_password_area #Customer_user_customer_old_password_l').html(oldtocur);
+}
 </script>
 
 <script>
@@ -818,6 +855,60 @@ document.write(unescape("%3Cscript%20src='"+
 </script><script src="https://clicktalecdn.sslcs.cdngc.net/www02/ptc/5a67572b-4aeb-4e0b-b437-d9bac13be56e.js" type="text/javascript"></script>
 
 <!-- ClickTale end of Bottom part --></td>
+                <td class="banner "></td></tr></tbody></table></div></div></div><div class="tc_ghost"><div><div><table><tbody><tr><td>
+
+<style>
+#welcomeMPM2 {width:640px; color:#fff; text-align:center; background:#00aeef; border-bottom:12px solid #b4ebff;}
+.welcome_case {padding:30px 90px;}
+.welcome-what {margin:.2em 0 0; color:#fff; font-size:600%; font-weight:bold; font-weight:800; line-height:1;}
+.welcome-why {font-size:180%; font-weight:bold; font-weight:800;}
+#welcomeMPM2 form {margin:1em 0 0;}
+#welcomeMPM2 .Put.PutEMAIL {width:100%; *width:99%; height:48px; margin:0; padding:0 1em; *padding:0; font-size:18px; line-height:1.3; background:#fff; border:1px solid #fff; box-sizing:border-box;}
+#welcomeMPM2 button {width:100%; height:48px; margin:1em 0 0; padding:0 1em; color:#fff; font-size:18px; line-height:48px; text-align:center; cursor:pointer; white-space:nowrap; background:#fc9a18; border:none;}
+#welcomeMPM2 .welcome-foot {margin:1.5em 0 0; color:#005d81; font-size:87.5%;}
+
+#welcometrigPM2 {display:none; position:fixed; bottom:0; right:0; padding:0 10px; color:#fff; font-weight:bold; line-height:32px; text-decoration:none; background:#00aeef;}
+
+@media (max-width:767px) {
+#welcomeMPM2 {width:280px;}
+.welcome_case {padding:10px;}
+.welcome-what {font-size:330%;}
+#welcomeMPM2 .Put.PutEMAIL {font-size:16px;}
+#welcomeMPM2 button {margin:10px 0 0;}
+}
+</style>
+
+<a id="welcometrigPM2" href="#welcomeMPM2">CLICK TO GET 10% OFF</a>
+
+<script>
+function welcomeSignup(){
+	$j('#email_address_24').val($j('#email_address_24_welcome').val());
+	$j('.fancybox-close').click();
+	$j('#email_signup_24').click();
+}
+
+$j('#welcometrigPM2').appendTo('#sub');
+</script>
+
+<div id="welcomeMPM2">
+	<div class="welcome_case">
+		<div class="welcome-head">
+			<div class="welcome-pet"><img src="/content/logo_20160720.png" width="160" height="41" alt=""></div>
+			<div class="welcome-sum">PET SUPPLIES AT <span class="wsnw">ROCK BOTTOM PRICES</span></div>
+			<div class="welcome-what">10% OFF?</div>
+			<div class="welcome-why">YES PLEASE!</div>
+		</div>
+		<form name="confirmation_welcome" id="confirmWelcome">
+			<div class="Putter">
+				<input id="email_address_24_welcome" type="email" name="address" placeholder="ENTER YOUR EMAIL" value="" class="Put PutEMAIL" onkeypress="javascript:if(event.keyCode == 13 || event.which == 13) {document.getElementById('email_signup_24_welcome').click(); return false;}">
+			</div>
+			<button type="button" onclick="welcomeSignup();" name="bootonpop" id="email_signup_24_welcome">GET MY 10% OFF &gt;</button>
+			<input class="tc_ghost Submit SubmitEMAIL" type="submit" name="go" value="Go">
+			<input id="em-pop-sub" name="email_signup" value="Go" type="hidden">
+		</form>
+		<div class="welcome-foot">New customer offer 10% off orders over $25 - max discount $5<span class="wsnw"></span></div>
+	</div>
+</div></td>
             </tr>
     </tbody></table>
     </div>
@@ -885,7 +976,7 @@ $j(window).load(function() {
 </script>
 
 
-<!-- Generated on April 2, 2016, 10:39:09 pm -->
+<!-- Generated on November 24, 2016, 9:04:16 am -->
 <!-- Server web3 -->
 
 
@@ -919,6 +1010,23 @@ var google_remarketing_only = true;
 </div></div>
 
 
+    <script type="text/javascript">
+      maxmind_user_id = "66165";
+      (function() {
+        var loadDeviceJs = function() {
+          var element = document.createElement('script');
+          element.src = ('https:' == document.location.protocol ? 'https:' : 'http:') 
+            + '//device.maxmind.com/js/device.js';
+          document.body.appendChild(element);
+        };
+        if (window.addEventListener) {
+          window.addEventListener('load', loadDeviceJs, false);
+        } else if (window.attachEvent) {
+          window.attachEvent('onload', loadDeviceJs);
+        }
+      })();
+    </script>
+
 <script type="text/javascript">
   window._bcvma = window._bcvma || [];
   _bcvma.push(["setAccountID", "7371496673391179132"]);
@@ -950,4 +1058,4 @@ var google_remarketing_only = true;
 
 
 
-</body></html>
+<script src="https://device.maxmind.com/js/device.js"></script></body></html>
