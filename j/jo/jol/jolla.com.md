@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jolla.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503234612id_/https%3A//jolla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jolla.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124064228id_/https%3A//jolla.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Jolla
 
@@ -6,7 +6,7 @@ Last updated 4 November 2013
 
 ### **1 Foreword**
 
-This Jolla Privacy Policy provides information on what personal data we collect from you and how we process that data. This Privacy Policy applies to all our products, software and services covered by the license terms available at http://www.jolla.com/legal (“ **Terms of Service** ”), as well as our website located at[ http://www.jolla.com](https://web.archive.org/web/20160503234612id_/https%3A//jolla.com/%20http://www.jolla.com) (our products and services and our website are collectively referred to as “ **Jolla Services** ” below).
+This Jolla Privacy Policy provides information on what personal data we collect from you and how we process that data. This Privacy Policy applies to all our products, software and services covered by the license terms available at http://www.jolla.com/legal (“ **Terms of Service** ”), as well as our website located at[ http://www.jolla.com](https://web.archive.org/web/20161124064228id_/https%3A//jolla.com/%20http://www.jolla.com) (our products and services and our website are collectively referred to as “ **Jolla Services** ” below).
 
 Please review this Privacy Policy carefully as we want to make sure you fully understand how your personal data is used. We understand that sometimes understanding the implications of legal documents can be difficult. Therefore, if you have any questions, comments or concerns about this Privacy Policy, please contact us by submitting a query [here ](https://jolla.zendesk.com/hc/en-us/requests/new)
 
