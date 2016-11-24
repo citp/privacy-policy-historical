@@ -1,37 +1,34 @@
-<!--The following is the downloaded HTML source of the stimulsoft.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607162038id_/http%3A//www.stimulsoft.com/en/stimulsoft-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stimulsoft.com privacy policy that was archived on 2016-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161124182839id_/https%3A//www.stimulsoft.com/en/stimulsoft-privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
-  <base href="http://www.stimulsoft.com/en/stimulsoft-privacy-policy">
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+  <base href="https://www.stimulsoft.com/en/stimulsoft-privacy-policy">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="keywords" content="information, stimulsoft, privacy, websites, policy, personal, access, cookies, security, website, time, customer, service, visitor, provide">
   <meta name="author" content="Vladimir Hotchenko">
   <meta name="description" content="This Privacy Statement was last modified on August 30, 2012.Welcome to the Privacy Policy of Stimulsoft.">
   <meta name="generator" content="Joomla! - Open Source Content Management">
   <title>Stimulsoft Privacy Policy. :: Stimulsoft</title>
-  <link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-  <link href="http://www.stimulsoft.com/index.php?option=com_search&amp;catid=2&amp;id=329&amp;lang=en&amp;view=article&amp;Itemid=324&amp;format=opensearch" rel="search" title="Search Stimulsoft" type="application/opensearchdescription+xml">
+  <link href="https://www.stimulsoft.com/index.php?option=com_search&amp;catid=2&amp;id=329&amp;lang=en&amp;view=article&amp;Itemid=324&amp;format=opensearch" rel="search" title="Search Stimulsoft" type="application/opensearchdescription+xml">
   <link rel="stylesheet" href="/plugins/system/slprettyphoto/slprettyphoto/css/prettyPhoto.css" type="text/css">
+  <link rel="stylesheet" href="/components/com_foxcontact/css/install.css" type="text/css">
   <link rel="stylesheet" href="/media/mod_falang/css/template.css" type="text/css">
-  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <link rel="stylesheet" href="/media/mod_userinfo/styles.css?v=2" type="text/css">
+  <style type="text/css">
+#smoothtop{ height:64px; width:64px; background: url(/images/up.png) bottom right no-repeat;}
+  </style>
+  <script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
   <script src="/media/system/js/core.js" type="text/javascript"></script>
   <script src="/media/system/js/caption.js" type="text/javascript"></script>
   <script src="/plugins/system/slprettyphoto/slprettyphoto/js/jquery-1.8.2.min.js" type="text/javascript"></script>
   <script src="/plugins/system/slprettyphoto/slprettyphoto/js/jquery.prettyPhoto.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/media/plg_sys_smoothtop/ScrollSpy-yui-compressed.js" type="text/javascript"></script>
+  <script src="/media/mod_userinfo/scripts.js?v=2" type="text/javascript"></script>
   <script type="text/javascript">
 window.addEvent('load', function() {
 				new JCaption('img.caption');
 			});
- var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-365390-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
 $(document).ready(function(){ 
 								$("body a[rel^='prettyPhoto']").prettyPhoto({
 								theme:'pp_default',
@@ -43,92 +40,138 @@ $(document).ready(function(){
 								counter_separator_label:'/',
 								autoplay:1,social_tools:0});
 							});
+
+window.addEvent('domready',function(){
+	var elem = new Element('a',{'id':'smoothtop','title':'Scroll Up','style':'position:fixed; display:block; visibility:visible; zoom:1; opacity:1; cursor:pointer; right:15px; bottom:45px;','html':''}).inject(document.body);
+	document.id('smoothtop').setStyle('opacity','0');
+	var scroll = new Fx.Scroll(window, {
+		wait: false,
+		duration: 550,
+		transition: Fx.Transitions.Circ.easeInOut
+	});
+	document.id('smoothtop').addEvent('click', function() {
+		scroll.toTop();
+	});
+	var ss = new ScrollSpy({
+		min: 250,
+		onEnter: function() {
+			document.id('smoothtop').fade('in');
+		},
+		onLeave: function() {
+			document.id('smoothtop').fade('out');
+		},
+		container: window
+	});
+});
+//<![CDATA[
+function HideCheckboxes(){inputs=document.getElementsByTagName("input");for(var a=0;a<inputs.length;++a)"checkbox"==inputs[a].getAttribute("type")&&"foxcheckbox"==inputs[a].getAttribute("class")&&HideCheckbox(inputs[a])}function HideCheckbox(a){document.getElementById("s"+a.getAttribute("name")).className=a.checked?"fox_cbspan fox_cbspan_true":"fox_cbspan fox_cbspan_false";a.style.display="none"}
+function HideCheckboxById(a){var b=document.getElementById("c"+a);document.getElementById("s"+a).className=b.checked?"checkbox_true":"checkbox_false";b.style.display="none"}function ChangeCheckboxState(a){var b=document.getElementById("c"+a),a=document.getElementById("s"+a);b.checked?(b.checked="",a.className="fox_cbspan fox_cbspan_false"):(b.checked="checked",a.className="fox_cbspan fox_cbspan_true")};
+//]]>
+
+//<![CDATA[
+function InitializeDropdowns(){dropdowns=document.getElementsByTagName("select");for(var a=0;a<dropdowns.length;++a)!1!==strpos(dropdowns[a].getAttribute("class"),"fox_dropdown",0)&&(DropdownSetStyle(dropdowns[a]),DropdownAlignValue(dropdowns[a]));spans=document.getElementsByTagName("span");for(a=0;a<spans.length;++a)!1!==strpos(spans[a].getAttribute("class"),"outer_dropdown",0)&&SpanSetStyle(spans[a])}
+function DropdownAlignValue(a){var b=document.getElementById("ddi"+a.name),a=a.options[a.selectedIndex].text;document.all?b.innerText=a:b.textContent=a}function DropdownSetStyle(a){a.style.opacity="0";a.style.position="absolute";a.style.height="28px";document.all&&(a.style.filter="alpha(opacity = 0)",a.style.zoom="1")}function SpanSetStyle(a){a.style.display="table"}function strpos(a,b,c){a=(a+"").indexOf(b,c||0);return-1===a?!1:a}function ResetFoxControls(){ResetCheckboxes();ResetDropdowns()}
+function ResetCheckboxes(){inputs=document.getElementsByTagName("input");for(var a=0;a<inputs.length;++a)if("checkbox"==inputs[a].getAttribute("type")&&"foxcheckbox"==inputs[a].getAttribute("class")){var b=inputs[a].getAttribute("name");document.getElementById("s"+b).className="fox_cbspan fox_cbspan_false"}}
+function ResetDropdowns(){dropdowns=document.getElementsByTagName("select");for(var a=0;a<dropdowns.length;++a)if(!1!==strpos(dropdowns[a].getAttribute("class"),"fox_dropdown",0)){var b=document.getElementById("ddi"+dropdowns[a].name);document.all?b.innerText="":b.textContent=""}};
+//]]>
+
   </script>
 
-<link rel="shortcut icon" href="/favicon.ico">
+<link rel="icon" type="image/png" href="/favicon.png">
 <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css">
 <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css">
-<link rel="stylesheet" href="/templates/stimulsoft-v3/css/template.css?v=1" type="text/css">
-<link rel="stylesheet" href="/templates/stimulsoft-v3/css/layout.css?v=8" type="text/css">
-<script src="/templates/stimulsoft-v3/js/links.js?v=1" type="text/javascript"></script>
-<script src="/templates/stimulsoft-v3/js/jquery.scrollTo-1.4.3.1-min.js" type="text/javascript"></script>
-<link rel="alternate" type="application/rss+xml" title="Stimulsoft - News" href="/en/rss">
-	<link href="http://www.stimulsoft.com/plugins/system/jutooltip/assets/css/styles.css" type="text/css" rel="stylesheet">
-	<link href="http://www.stimulsoft.com/plugins/system/jutooltip/assets/themes/default/styles.css" type="text/css" rel="stylesheet">
-	<script src="http://www.stimulsoft.com/plugins/system/jutooltip/assets/js/jquery.easing.1.3.min.js" type="text/javascript"></script>
-	<script src="http://www.stimulsoft.com/plugins/system/jutooltip/assets/js/jutooltip.min.js" type="text/javascript"></script>
-	<script src="http://www.stimulsoft.com/plugins/system/jutooltip/assets/js/jutooltip.effects.min.js" type="text/javascript"></script>
-	<script src="http://www.stimulsoft.com/plugins/system/jutooltip/assets/js/jutooltip.dynamic.min.js" type="text/javascript"></script>
+<link href="https://fonts.googleapis.com/css?family=Raleway:200,400" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400&amp;subset=latin,cyrillic" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Roboto:100,300&amp;subset=latin,cyrillic" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="/templates/stimulsoft-v4/css/layout.css?v=41" type="text/css">
+<link rel="stylesheet" href="/templates/stimulsoft-v4/css/blocks.css?v=10" type="text/css">
+<link rel="stylesheet" href="/templates/stimulsoft-v4/css/tables.css?v=8" type="text/css">
+<link rel="stylesheet" href="/templates/stimulsoft-v4/css/products.css?v=6" type="text/css">
+<script type="text/javascript" src="/templates/stimulsoft-v4/js/functions.js?v=14"></script>
+<link rel="alternate" type="application/rss+xml" title="Stimulsoft News" href="/en/rss">
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-365390-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- Start of stimulsoft Zendesk Widget script -->
+<iframe src="javascript:false" title="" style="display: none;"></iframe><script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("https://assets.zendesk.com/embeddable_framework/main.js","stimulsoft.zendesk.com");
+/*]]>*/</script>
+<!-- End of stimulsoft Zendesk Widget script -->
+	<link href="https://www.stimulsoft.com/plugins/system/jutooltip/assets/css/styles.css" type="text/css" rel="stylesheet">
+	<link href="https://www.stimulsoft.com/plugins/system/jutooltip/assets/themes/default/styles.css" type="text/css" rel="stylesheet">
+	<script src="https://www.stimulsoft.com/plugins/system/jutooltip/assets/js/jquery.easing.1.3.min.js" type="text/javascript"></script>
+	<script src="https://www.stimulsoft.com/plugins/system/jutooltip/assets/js/jutooltip.min.js" type="text/javascript"></script>
+	<script src="https://www.stimulsoft.com/plugins/system/jutooltip/assets/js/jutooltip.effects.min.js" type="text/javascript"></script>
+	<script src="https://www.stimulsoft.com/plugins/system/jutooltip/assets/js/jutooltip.dynamic.min.js" type="text/javascript"></script>
 	<script type="text/javascript">jQuery(document).ready(function($){
-			jutooltip_api = $('.jutooltip').jutooltip({effect: 'slide', showDuration: 200, hideDuration: 200, easing: 'swing', predelay: 0, delay: 30, opacity: 1, tip: '', fadeIE: true, position : ['top','center'], offset: [8, 0], cancelDefault: true, manualCloseTooltip: false, direction: 'up', bounce: false, slideOffset: 10}).jutooltip_dynamic({top: { direction: 'up' } });
+			jutooltip_api = $('.jutooltip').jutooltip({effect: 'slide', showDuration: 200, hideDuration: 200, easing: 'swing', predelay: 400, delay: 30, opacity: 1, tip: '', fadeIE: true, position : ['top','center'], offset: [8, 0], cancelDefault: true, manualCloseTooltip: false, direction: 'up', bounce: false, slideOffset: 10}).jutooltip_dynamic({top: { direction: 'up' } });
 			});</script>
-</head>
-<body id="sitebody" onload="setImages();">
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<body>
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5077844"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5077844&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+<div class="top-header">
+<div class="background"></div>
+<div class="content">
+<div class="user-info">
+	<table class="user-table">
+		<tbody><tr>
+			<td class="user-info">
+				<div class="user-buttons">
+					<a href="https://devs.stimulsoft.com">My Account</a>
+					<a onclick="stiUserInfo.clear()">Logout</a>
+				</div>
+				<div class="user-caption"></div>
+			</td>
+			<td class="user-avatar"></td>
+		</tr>
+	</tbody></table>
+</div>
+<script type="text/javascript">var stiUserInfo = new StiUserInfo();</script>
+<a href="/en"><img class="logo" alt="logo" src="/templates/stimulsoft-v4/images/logo.png"></a>
+<div class="mod-languages" onclick="showFlags();">
 
-<table class="header"><tbody><tr>
-	<td class="logo"><a href="/en"><img src="/images/site/header/logo.png"></a></td>
-	<td class="mainmenu">
-<ul class="menu">
-<li class="item-156"><a href="/en/products">Products</a></li><li class="item-155"><a href="/en/online-store">Purchase</a></li><li class="item-159"><a href="/en/downloads">Downloads</a></li><li class="item-113"><a href="/en/contact-us">Company</a></li></ul>
-</td>
-	<td class="search"><form action="/en" method="post" class="mod-search">
+
+	<div id="site-langs-cont" class="site-langs-cont">
+	<ul id="site-langs" name="site-langs" class="site-langs">
+						<li class="lang-active">
+			<a href="/en/stimulsoft-privacy-policy">
+							<img src="https://www.stimulsoft.com/templates/stimulsoft-v4/images/usa.png" alt="English" title="English">										</a>
+			</li>
+								<li class="">
+			<a href="/de/stimulsoft-privacy-policy">
+							<img src="https://www.stimulsoft.com/templates/stimulsoft-v4/images/de.png" alt="Deutsch" title="Deutsch">										</a>
+			</li>
+								<li class="">
+			<a href="/ru/stimulsoft-privacy-policy">
+							<img src="https://www.stimulsoft.com/templates/stimulsoft-v4/images/ru.png" alt="Русский" title="Русский">										</a>
+			</li>
+				</ul>
+	</div>
+
+<img src="https://www.stimulsoft.com/templates/stimulsoft-v4/images/usa.png" alt="English" title="English">
+</div>
+
+<form action="/en" method="post" class="mod-search">
 	<div class="mod-search">
-		<label for="mod-search-searchword"> </label><input name="searchword" id="mod-search-searchword" maxlength="20" class="inputbox" type="text" size="25" value="Text to search..." onblur="if (this.value=='') this.value='Text to search...';" onfocus="if (this.value=='Text to search...') this.value='';"><input type="image" value="Search" class="button" src="/images/site/header/search.png" onclick="this.form.searchword.focus();">	<input type="hidden" name="task" value="search">
+		<label for="mod-search-searchword"> </label><input name="searchword" id="mod-search-searchword" maxlength="30" class="inputbox" type="text" value="" size="25">	<input type="hidden" name="task" value="search">
 	<input type="hidden" name="limit" value="10">
 	<input type="hidden" name="option" value="com_search">
 	<input type="hidden" name="Itemid" value="101">
 	</div>
 </form>
-</td>
-	<td class="language"><div class="mod-languages" onclick="languagesShow();">
 
-&nbsp;<img src="/media/mod_falang/images/usa.gif" alt="English" title="English"> &nbsp;English
 
-	<ul id="site-langs" name="site-langs" class="site-langs">
-						<li class="lang-active">
-			<a href="/en/stimulsoft-privacy-policy">
-							&nbsp;<img src="/media/mod_falang/images/usa.gif" alt="English" title="English">				&nbsp;English						</a>
-			</li>
-								<li class="">
-			<a href="/de/stimulsoft-privacy-policy">
-							&nbsp;<img src="/media/mod_falang/images/de.gif" alt="Deutsch" title="Deutsch">				&nbsp;Deutsch						</a>
-			</li>
-								<li class="">
-			<a href="/fr/stimulsoft-privacy-policy">
-							&nbsp;<img src="/media/mod_falang/images/fr.gif" alt="Français" title="Français">				&nbsp;Français						</a>
-			</li>
-								<li class="">
-			<a href="/it/stimulsoft-privacy-policy">
-							&nbsp;<img src="/media/mod_falang/images/it.gif" alt="Italiano" title="Italiano">				&nbsp;Italiano						</a>
-			</li>
-								<li class="">
-			<a href="/br/stimulsoft-privacy-policy">
-							&nbsp;<img src="/media/mod_falang/images/br.gif" alt="Português (Br)" title="Português (Br)">				&nbsp;Português (Br)						</a>
-			</li>
-								<li class="">
-			<a href="/ru/stimulsoft-privacy-policy">
-							&nbsp;<img src="/media/mod_falang/images/ru.gif" alt="Русский" title="Русский">				&nbsp;Русский						</a>
-			</li>
-								<li class="">
-			<a href="/es/stimulsoft-privacy-policy">
-							&nbsp;<img src="/media/mod_falang/images/es.gif" alt="Spanish" title="Spanish">				&nbsp;Spanish						</a>
-			</li>
-								<li class="">
-			<a href="/cn/stimulsoft-privacy-policy">
-							&nbsp;<img src="/media/mod_falang/images/cn.gif" alt="中文" title="中文">				&nbsp;中文						</a>
-			</li>
-				</ul>
+<ul class="menu">
+<li class="item-156"><a href="/en/products">Products</a></li><li class="item-159"><a href="/en/downloads">Downloads</a></li><li class="item-155"><a href="/en/online-store">Purchase</a></li><li class="item-113"><a href="/en/contact-us">Company</a></li><li class="item-161"><a class="menu-login" href="https://auth.stimulsoft.com">Log In</a></li></ul>
 
 </div>
-</td>
-	<td class="loginmenu"><span>
-<ul class="menu">
-<li class="item-161"><a href="/en/registered-users">Log In</a></li></ul>
-</span></td>
-</tr></tbody></table>
+</div>
 
-
-
+<div id="content">
 <div class="item-page">
 
 
@@ -139,7 +182,7 @@ $(document).ready(function(){
 
 
 
-<div class="content-header">
+<div class="header">
 	<table>
 		<tbody>
 			<tr>
@@ -151,7 +194,7 @@ $(document).ready(function(){
 		</tbody>
 	</table>
 </div>
-<table class="content">
+<table class="content padding">
 	<tbody>
 		<tr>
 			<td><strong>This Privacy Policy was last modified on August 30, 2012.</strong><br><br>Welcome to the Privacy Policy of Stimulsoft. On this page you will find information about our policies with respect to Personal Information and Anonymous Information that is collected through Stimulsoft's websites and through other communications with us. Please visit this page frequently to learn of any changes to our Privacy Statement.<br><br><strong>Information Collected<br></strong><br>You may visit Stimulsoft's websites without identifying yourself or revealing any personal information. Our Stimulsoft's websites does collect information such as domain names, IP address, browser type, operating system, access times and referring Web site addresses. This information is used by Stimulsoft for the operation of the service, to maintain quality of the service and for site trends and statistics. This information does not personally identify you.<br><br><strong>Use of Personal Information</strong><br><br>Stimulsoft do not sell, rent, or give your personal information to any third party. And we do not use your information for any purpose outside the scope of communicating with you in the most efficient manner. We may use your personal information to deliver services, such as newsletters, events, training or software that you request or purchase. We may also use any information you have provided as reasonably necessary to provide customer support to you.<br><br><strong>Cookies</strong><br><br>A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Stimulsoft uses cookies to help Stimulsoft identify and track visitors, their usage of Stimulsoft's websites, and their website access preferences. Stimulsoft visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Stimulsoft's websites, with the drawback that certain features of Stimulsoft 's websites may not function properly without the aid of cookies.<br><br><strong>Information Security</strong><br><br>We take appropriate security measures to protect your personal information from unauthorized access, use or disclosure. These include a variety of security technologies and procedures, including internal reviews of our data collection, storage and processing practices and security measures and appropriate encryption and physical security measures. Access to your personal information is restricted to those Stimulsoft employees, contractors and agents who need to know that information in order to process it and provide personalized customer support to you. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination, if they fail to meet those obligations.<br><br><strong>Third Party Services</strong><br><br>At these Stimulsoft's websites, there may be links to companies with whom we have a relationship. There companies include service providers (who, in providing services such the hosting and processing mechanisms of our websites have access to the information contained within their own systems) and resellers and affiliate sale partners (who collect customer and transaction information on our behalf). Stimulsoft is not responsible for the privacy practices of our business partners. We encourage you to read their privacy statements, as they may differ from ours.<br><br><strong>Privacy Policy Changes</strong><br><br>Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will attempt to provide a more prominent notice (including, for certain services, email notification of privacy policy changes).<br><br><strong>Contacting Us</strong><br><br>Any questions about this Privacy Policy should be addressed to <a href="mailto:support@stimulsoft.com">support@stimulsoft.com</a>
@@ -162,37 +205,100 @@ $(document).ready(function(){
 	
 </div>
 
+</div>
 
-
-
-
-
-<div class="custom">
-	<div class="contacts">
-<div>&nbsp;</div>
-<a href="http://twitter.com/stimulsoft" target="_blank"><img title="Twitter" src="/images/site/links/s-twitter.png" alt="Twitter" width="75" height="75"></a><a href="http://www.facebook.com/Stimulsoft" target="_blank"><img title="Facebook" src="/images/site/links/s-facebook.png" alt="Facebook" width="75" height="75"></a><a href="/en/rss" target="_blank"><img title="RSS" src="/images/site/links/s-rss.png" alt="RSS" width="75" height="75"></a><a href="http://www.linkedin.com/company/stimulsoft" target="_blank"><img title="Linked in" src="/images/site/links/s-linkedin.png" alt="Linked in" width="75" height="75"></a><a href="http://www.youtube.com/user/StimulsoftVideos" target="_blank"><img title="Youtube" src="/images/site/links/s-youtube.png" alt="Youtube" width="75" height="75"></a><a href="http://blog.stimulsoft.com" target="_blank"><img title="Stimulsoft Blog" src="/images/site/links/s-blog.png" alt="Stimulsoft Blog" width="75" height="75"></a><a href="/en/contact-us"><img title="Viber" src="/images/site/links/s-viber.png" alt="Viber" width="75" height="75"><img title="WhatsApp" src="/images/site/links/s-whatsapp.png" alt="WhatsApp" width="75" height="75"></a><a href="skype:stimulsoft?call"><img title="Skype" src="/images/site/links/s-skype.png" alt="Skype" width="75" height="75"></a></div></div>
-
-
-		<div class="moduletable">
+		<div class="moduletable-contact-buttons">
 					
 
-<div class="custom">
-	<div class="site-footer">
-<table>
-<tbody>
-<tr>
-<td width="27%"><strong>Products</strong><br><br><a href="/en/products/server/overview">Stimulsoft BI</a><br><br><a href="/en/products/reports-ultimate">Stimulsoft Reports.Ultimate</a><br><a href="/en/products/reports-net">Stimulsoft Reports.Net</a><br><a href="/en/products/reports-web">Stimulsoft Reports.Web</a><br><a href="/en/products/reports-wpf">Stimulsoft Reports.Wpf</a><br><a href="/en/products/reports-silverlight">Stimulsoft Reports.Silverlight</a><br><a href="/en/products/reports-winrt">Stimulsoft Reports.WinRT</a><br><br><a href="/en/products/reports-fx-flex">Stimulsoft Reports.Fx for Flex</a><br><a href="/en/products/reports-fx-php">Stimulsoft Reports.Fx for PHP</a><br><a href="/en/products/reports-fx-java">Stimulsoft Reports.Fx for Java</a></td>
-<td><strong>Help Center</strong><br><br><a href="/en/downloads">Downloads</a><br><a href="/en/documentation">Documentation<br></a><a href="/en/faq">FAQ</a><br><a href="/en/support">Support</a><br><a href="http://forum.stimulsoft.com/" target="_blank">Forum</a><br><a href="/en/articles">Articles</a><br><a href="http://blog.stimulsoft.com/" target="_blank">Blog</a><br><a href="http://support.stimulsoft.com/index.php?/Knowledgebase/List" target="_blank">Knowledgebase</a><br><a href="/en/videos">Videos</a></td>
-<td><strong>Purchase</strong><br><br><a href="/en/online-store">Online Store</a><br><a href="/en/subscription">Subscription</a><br><a href="/en/licensing">Licensing</a><br><a href="/en/resellers">Resellers</a><br><a href="/en/faq/purchase">Purchase FAQ</a><br><a href="/en/special-offers">Special Offers<br></a><a href="/en/compare-products">Compare Products</a></td>
-<td><strong>Company</strong><br><br><a href="/en/contact-us">Contact Us</a><br><a href="/en/news">News</a><br><a href="/en/press-releases">Press Releases</a><br><a href="/en/testimonials">Testimonials</a><br><a href="/en/why-stimulsoft">Why Stimulsoft?</a></td>
-<td width="20%"><strong>Contact Information</strong><br><br><img src="/images/site/footer/phone.png" alt="phone" width="14" height="22">&nbsp;<em>Phone:</em><br>+1-314-266-3473<br>+44-20-3287-5081<br>+375-29-2125706<br>+375-212-358273<br><br><em><img src="/images/site/footer/fax.png" alt="fax" width="18" height="20">&nbsp;Fax:</em><br>+375-212-358274<br><br><img style="float: left;" src="/images/site/footer/email.png" alt="email" width="18" height="14">&nbsp;<em>E-mail:</em><br><a href="mailto:info@stimulsoft.com">info@stimulsoft.com</a><br><a href="mailto:sales@stimulsoft.com">sales@stimulsoft.com</a><br><a href="mailto:support@stimulsoft.com">support@stimulsoft.com</a><br><br><img src="/images/site/footer/skype.png" alt="skype" width="18" height="18">&nbsp;<em>Skype:</em><br><a href="skype:stimulsoft?call">stimulsoft</a></td>
-</tr>
-</tbody>
-</table>
-<div><a href="/en/stimulsoft-privacy-policy">Privacy</a> | <a href="mailto:info@stimulsoft.com">Contact</a><br>Copyright (C) 2003-2015 Stimulsoft, All rights reserved</div>
+<div class="custom-contact-buttons">
+	<div class="content"><a href="http://twitter.com/stimulsoft" target="_blank" style="background: url('/images/blocks/contact-buttons/twitter.png');"><img title="Twitter" src="/images/blocks/contact-buttons/circle.png" alt="Twitter" height="32" width="32"><img class="icon left" title="Twitter" src="/images/blocks/contact-buttons/twitter-h.png" alt="Twitter" height="32" width="32"></a><a href="http://www.facebook.com/Stimulsoft" target="_blank" style="background: url('/images/blocks/contact-buttons/facebook.png');"><img title="Facebook" src="/images/blocks/contact-buttons/circle.png" alt="Facebook" height="32" width="32"><img class="icon bottom" title="Facebook" src="/images/blocks/contact-buttons/facebook-h.png" alt="Facebook" height="32" width="32"></a><a href="/en/rss" target="_blank" style="background: url('/images/blocks/contact-buttons/rss.png');"><img title="RSS" src="/images/blocks/contact-buttons/circle.png" alt="RSS" height="32" width="32"><img class="icon top" title="RSS" src="/images/blocks/contact-buttons/rss-h.png" alt="RSS" height="32" width="32"></a><a href="http://www.linkedin.com/company/stimulsoft" target="_blank" style="background: url('/images/blocks/contact-buttons/linkedin.png');"><img title="Linked in" src="/images/blocks/contact-buttons/circle.png" alt="Linked in" height="32" width="32"><img class="icon left" title="Linked in" src="/images/blocks/contact-buttons/linkedin-h.png" alt="Linked in" height="32" width="32"></a><a href="http://www.youtube.com/user/StimulsoftVideos" target="_blank" style="background: url('/images/blocks/contact-buttons/youtube.png');"><img title="Youtube" src="/images/blocks/contact-buttons/circle.png" alt="Youtube" height="32" width="32"><img class="icon top" title="Youtube" src="/images/blocks/contact-buttons/youtube-h.png" alt="Youtube" height="32" width="32"></a><a href="/en/blog" style="background: url('/images/blocks/contact-buttons/blog.png');"><img title="Stimulsoft Blog" src="/images/blocks/contact-buttons/circle.png" alt="Stimulsoft Blog" height="32" width="32"><img class="icon right" title="Stimulsoft Blog" src="/images/blocks/contact-buttons/blog-h.png" alt="Stimulsoft Blog" height="32" width="32"></a><a href="/en/contact-us#contacts" style="background: url('/images/blocks/contact-buttons/viber.png');"><img title="Viber" src="/images/blocks/contact-buttons/circle.png" alt="Viber" height="32" width="32"><img class="icon bottom" title="Viber" src="/images/blocks/contact-buttons/viber-h.png" alt="Viber" height="32" width="32"></a><a href="/en/contact-us#contacts" style="background: url('/images/blocks/contact-buttons/whatsapp.png');"><img title="WhatsApp" src="/images/blocks/contact-buttons/circle.png" alt="WhatsApp" height="32" width="32"><img class="icon left" title="WhatsApp" src="/images/blocks/contact-buttons/whatsapp-h.png" alt="WhatsApp" height="32" width="32"></a><a href="skype:stimulsoft?call" style="background: url('/images/blocks/contact-buttons/skype.png');"><img title="Skype" src="/images/blocks/contact-buttons/circle.png" alt="Skype" height="32" width="32"><img class="icon right" title="Skype" src="/images/blocks/contact-buttons/skype-h.png" alt="Skype" height="32" width="32"></a>
 </div></div>
 		</div>
 	
+		<div class="moduletable-site-footer">
+					
+
+<div class="custom-site-footer">
+	<div class="content">
+<table>
+<tbody>
+<tr>
+<td rowspan="3" width="27%">
+<h3>Products</h3>
+<a href="/en/products/reports-ultimate">Stimulsoft Reports.Ultimate</a><br><br><a href="/en/products/reports-web">Stimulsoft Reports.Web</a><br><a href="/en/products/reports-net">Stimulsoft Reports.Net</a><br><a href="/en/products/reports-wpf">Stimulsoft Reports.Wpf</a><br><a href="/en/products/reports-silverlight">Stimulsoft Reports.Silverlight</a><br><a href="/en/products/reports-winrt">Stimulsoft Reports.WinRT</a><br><br><a href="/en/products/reports-js">Stimulsoft Reports.JS</a><br><a href="/en/products/reports-java">Stimulsoft Reports.Java</a><br><a href="/en/products/reports-php">Stimulsoft Reports.PHP</a><br><a href="/en/products/reports-flex">Stimulsoft Reports.Flex</a><br><br><a href="/en/products/server/overview">Stimulsoft Reports.Server</a></td>
+<td rowspan="3">
+<h3>Help Center</h3>
+<a href="/en/contact-us">Company</a><br><br><a href="/en/downloads">Downloads</a><br><a href="/en/documentation">Documentation</a><br><a href="/en/videos">Videos</a>&nbsp;|&nbsp;<a href="http://www.youtube.com/user/StimulsoftVideos" target="_blank" rel="nofollow">Youtube</a><br><a href="/en/samples">Samples</a><br><a href="/en/support">Support</a><br><a href="http://forum.stimulsoft.com/" target="_blank" rel="nofollow">Forum</a><br><br><a href="/en/blog">Blog</a>&nbsp;|&nbsp;<a href="/en/blog/news">News</a>&nbsp;|&nbsp;<a href="/en/blog/articles">Articles</a></td>
+<td rowspan="3">
+<h3>Purchase</h3>
+<a href="/en/online-store">Online Store</a><br><br><a href="/en/subscription">Subscription</a><br><a href="/en/licensing">Licensing</a><br><a href="/en/resellers">Resellers</a><br><a href="/en/faq/purchase">Purchase FAQ</a><br><a href="/en/special-offers">Special Offers<br></a><a href="/en/compare-products">Compare Products</a></td>
+<td colspan="2" width="36%">
+<h3>Contact Information</h3>
+</td>
+</tr>
+<tr>
+<td><img src="/images/blocks/site-footer/phone.png" alt="Phone"><strong>Phone:</strong><br>+1-314-266-3473<br>+44-20-3287-5081<br>+375-29-2125706<br><br><br><img src="/images/blocks/site-footer/fax.png" alt="Fax"><strong>Fax:</strong><br>+375-212-619783</td>
+<td><img src="/images/blocks/site-footer/email.png" alt="Email"><strong>Email:</strong><br><a href="mailto:info@stimulsoft.com">info@stimulsoft.com</a><br><a href="mailto:sales@stimulsoft.com">sales@stimulsoft.com</a><br><a href="mailto:support@stimulsoft.com">support@stimulsoft.com</a><br><br><br><img src="/images/blocks/site-footer/skype.png" alt="Skype"><strong>Skype:</strong><br><a href="skype:stimulsoft?call">stimulsoft</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<h3>Get Newsletter</h3>
+		<div class="moduletable">
+					
+<a name="mid_151"></a>
+
+<div class="foxcontainer">
+<table><tbody><tr><td>
+
+<br>
+
+<form enctype="multipart/form-data" class="foxform" action="/en/stimulsoft-privacy-policy#mid_151" method="post">
+	<div style="clear:both;"><label style="float:left;width:0px !important;">Please enter your Email here <span class="asterisk"></span></label><input class="foxtext" type="text" value="" title="Please enter your Email here" style="width:240px !important;" name="_de6b6b4fd173050457fdfd183d846f1c"></div>
+<div style="clear:both;">
+<input class="foxbutton" type="submit" style="margin-right:32px;" name="mid_151" value="»">
+</div>
+</form>
+
+</td></tr></tbody></table>
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+HideCheckboxes();
+InitializeDropdowns();
+//]]>
+</script>
+
+		</div>
+	</td>
+</tr>
+</tbody>
+</table>
+<div class="copyright"><a href="/en/stimulsoft-privacy-policy">Privacy</a> | <a href="mailto:info@stimulsoft.com">Contact</a><br>Copyright (C) 2003-2016 Stimulsoft, All rights reserved</div>
+</div></div>
+		</div>
+	
+
+<script type="text/javascript">
+    adroll_adv_id = "VMIVZ52DGRBO3H3FIU6Q7M";
+    adroll_pix_id = "VLNQ3R224ZALPFRQ2DQC5G";
+    adroll_email = "info@stimulsoft.com";
+    (function () {
+        var _onload = function(){
+            if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+            if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+            var scr = document.createElement("script");
+            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+            scr.setAttribute('async', 'true');
+            scr.type = "text/javascript";
+            scr.src = host + "/j/roundtrip.js";
+            ((document.getElementsByTagName('head') || [null])[0] ||
+                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+        };
+        if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+        else {window.attachEvent('onload', _onload)}
+    }());
+</script>
 
 
 
