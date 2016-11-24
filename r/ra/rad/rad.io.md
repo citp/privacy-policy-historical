@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rad.io privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628155022id_/http%3A//www.radio.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rad.io privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124191645id_/https%3A//www.radio.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -100,7 +100,7 @@ A transfer of personal data to third parties will only take place as far as we a
 
 ## Data Security
 
-n order to prevent unauthorized access or unauthorized disclosure, to warrant the correctness of data and to ensure the authorized use of data, we have taken appropriate technical and organizational measures in order to secure and protect the data which we collect online. The transmission of data and information on our server is encrypted by means of TLS 1.2. Despite these measures and efforts, electronic communication itself cannot be completely secure. We cannot take responsibility or be held liable for the disclosure of information due to errors and/or unauthorized access during the data transmission of third parties.
+In order to prevent unauthorized access or unauthorized disclosure, to warrant the correctness of data and to ensure the authorized use of data, we have taken appropriate technical and organizational measures in order to secure and protect the data which we collect online. The transmission of data and information on our server is encrypted by means of TLS 1.2. Despite these measures and efforts, electronic communication itself cannot be completely secure. We cannot take responsibility or be held liable for the disclosure of information due to errors and/or unauthorized access during the data transmission of third parties.
 
 ## Your Rights
 
