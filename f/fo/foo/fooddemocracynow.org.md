@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fooddemocracynow.org privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611043306id_/http%3A//www.fooddemocracynow.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fooddemocracynow.org privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124160721id_/http%3A//www.fooddemocracynow.org/privacy) for the most accurate reproduction.*
 
 # Privacy | Food Democracy Now
 
