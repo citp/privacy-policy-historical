@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disneylandparis.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614005924id_/http%3A//us-holidays.disneylandparis.com/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneylandparis.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125002547id_/http%3A//us-holidays.disneylandparis.com/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Disneyland Paris | Disneyland Paris
 
@@ -31,19 +31,24 @@ Remember, this information is NOT personally identifiable information from which
 
 What we do with Personally Identifiable information 
 
-We will only collect personally identifiable information during the following:   
-1\. When you register to enter into our on-line competitions   
-2\. When you register for on-line 'clubs' that will give you special benefits like exclusive content, access to other competitions and other on-line activities   
-3\. When you book online   
-4\. When you order a brochure   
-5\. When you register for news and offers   
-6\. When you answer to surveys
+We will only collect personally identifiable information during the following:
+
+  1. When you register to enter into our on-line competitions
+  2. When you register for on-line 'clubs' that will give you special benefits like exclusive content, access to other competitions and other on-line activities
+  3. When you book online
+  4. When you order a brochure
+  5. When you register for news and offers
+  6. When you answer to surveys
+
+
 
 This information is then used (i) to inform winners of a competition what prizes they have won, (ii) to fulfill your requests for products and services and notably Park tickets and / or stays at Disneyland Paris, or (iii) should you already made a booking with us, to send you information on products / services similar to those you previously purchased or (iv) depending on your prior consent, for general promotion and marketing purposes., i.e. to inform you about news, to send you special offers etc.
 
 This personal information is ONLY used by Euro Disney and carefully selected third party service providers and is NEVER shared with other third parties, unless otherwise clearly stated at the time of collection or registration. Even then, it would only be shared when we have your permission to do so.When we post information about you on our sites, (for example, if you are a competition winner), we will never disclose personally identifiable information that could let other people know where you live or exactly who you are.
 
 Please note that, your Personal Information will not be transferred outside the European Union unless you are informed otherwise at the time you provide your Personal Information. In any event, Personal Information will be transferred subject to the entity receiving such Personal Information provides appropriate warranties in full compliance with European regulations on data privacy.
+
+In the context of our online assistance tool, personal information you provide us with are processed by Euro Disney Associés SCA for the purposes of managing your request. Such information is transferred to the USA to the Touch Commerce Company that hosts the tool. Such a transfer is subject to the Standard Clauses set by the European Commission (Decision 2010/87/EU).
 
 
 
