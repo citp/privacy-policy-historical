@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldofwonder.net privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623144159id_/http%3A//worldofwonder.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldofwonder.net privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124015354id_/http%3A//worldofwonder.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The WOW Report
 
