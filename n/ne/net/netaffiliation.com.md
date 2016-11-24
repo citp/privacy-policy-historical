@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netaffiliation.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629055807id_/http%3A//en.netaffiliation.com/privacy/netaffiliation-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netaffiliation.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124044135id_/http%3A//en.netaffiliation.com/privacy/netaffiliation-privacy-policy) for the most accurate reproduction.*
 
 # Contact us - Netaffiliation
 
@@ -67,9 +67,8 @@ France Kwanko Belgium
 31 rue Dautzenberg  
 1050 Bruxelles  
 Belgium Kwanko Brasil  
-Av. Brigadeiro Luís Antônio,  
-3005 Casa 02,  
-01401-000 São Paulo  
+Av. Paulista 1274 - Conj 33  
+01310-100 São Paulo  
 Brazil Kwanko Deutschland  
 Hohe Bleichen 17,  
 20354 Hamburg  
@@ -90,11 +89,11 @@ Mexico Kwanko Polska Sp. z o.o.
 Grzybowska 4/144, 00-131  
 Warszawa  
 Poland Kwanko Portugal  
-Lagoas Park - Edificio 11 - Piso 0  
-2740-244 Porto Salvo-Oeiras  
+Av. da Liberdade 225, 6º Esq.  
+1250-142 Lisboa  
 Portugal Kwanko Istanbul Caferağa Mahallesi  
 Sakız Sokak No:2B/4 Kadıköy   
 İstanbul - Turkey
 
 Give us a call  
-+33 (0)1 70 68 97 20 +32 23 18 23 60 +55 11 3791-5223 +49 (0)40 63 86 94 33 +34 910 086 100 +39 02 56 56 64 75 +212 522 219 851 +52 4746 3861 +48 22 241 46 95 +351 214 218 094 +90 0216 349 99 75
++33 (0)1 70 68 97 20 +32 23 18 23 60 +55 11 2362 5041 +49 (0)40 63 86 94 33 +34 910 086 100 +39 02 56 56 64 75 +212 522 219 851 +52 4746 3861 +48 22 241 46 95 +351 214 218 094 +90 0216 349 99 75
