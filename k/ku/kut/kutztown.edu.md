@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kutztown.edu privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603182501id_/http%3A//www.kutztown.edu/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kutztown.edu privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124225432id_/http%3A//kutztown.edu/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Kutztown University
 
