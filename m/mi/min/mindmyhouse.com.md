@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindmyhouse.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629210428id_/http%3A//www.mindmyhouse.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindmyhouse.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124213714id_/http%3A//www.mindmyhouse.com/about/privacy_policy) for the most accurate reproduction.*
 
 # MindMyHouse - Privacy policy
 
@@ -12,24 +12,24 @@ This Privacy Policy should be read in partnership with the Terms and Conditions 
 
 ## Contents
 
-Q. [What information does MindMyHouse require from members?](https://web.archive.org/web/20160629210428id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q1)  
-Q. [How does MindMyHouse use members’ information?](https://web.archive.org/web/20160629210428id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q2)  
-Q. [Who sees home owner members’ personal information?](https://web.archive.org/web/20160629210428id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q3a)  
-Q. [Who sees house sitters members’ personal information?](https://web.archive.org/web/20160629210428id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q3b)  
-Q. [Will MindMyHouse be sending members any unsolicited material?](https://web.archive.org/web/20160629210428id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q4)  
-Q. [What are cookies? Are they required?](https://web.archive.org/web/20160629210428id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q5)  
-Q. [How secure are members’ account areas?](https://web.archive.org/web/20160629210428id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q6)  
-Q. [How can members help safeguard the assurances provided in this Privacy Policy?](https://web.archive.org/web/20160629210428id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q7)  
-Q. [How secure is members’ financial information when they are paying for their MindMyHouse membership by credit or debit card? ](https://web.archive.org/web/20160629210428id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q8)  
-Q. [How can members access, update or delete their information?](https://web.archive.org/web/20160629210428id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q9)  
-Q. [Can someone else link to members’ personal information on MindMyHouse from another website?](https://web.archive.org/web/20160629210428id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q10)  
-Q. [What is the policy regarding links to third party sites?](https://web.archive.org/web/20160629210428id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q11)  
-Q. [When does this Privacy Policy not apply?](https://web.archive.org/web/20160629210428id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q12)  
-Q. [What happens to members’ information after their membership expires?](https://web.archive.org/web/20160629210428id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q13)  
-Q. [What happens to the information members provide when communicating with MindMyHouse?](https://web.archive.org/web/20160629210428id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q14)  
-Q. [What happens to the material members provide when using MindMyHouse's internal contact form system?](https://web.archive.org/web/20160629210428id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q17)  
-Q. [How is members’ information protected under United Kingdom law?](https://web.archive.org/web/20160629210428id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q15)  
-Q. [What are the contact details for MindMyHouse?](https://web.archive.org/web/20160629210428id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q16)
+Q. [What information does MindMyHouse require from members?](https://web.archive.org/web/20161124213714id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q1)  
+Q. [How does MindMyHouse use members’ information?](https://web.archive.org/web/20161124213714id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q2)  
+Q. [Who sees home owner members’ personal information?](https://web.archive.org/web/20161124213714id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q3a)  
+Q. [Who sees house sitters members’ personal information?](https://web.archive.org/web/20161124213714id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q3b)  
+Q. [Will MindMyHouse be sending members any unsolicited material?](https://web.archive.org/web/20161124213714id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q4)  
+Q. [What are cookies? Are they required?](https://web.archive.org/web/20161124213714id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q5)  
+Q. [How secure are members’ account areas?](https://web.archive.org/web/20161124213714id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q6)  
+Q. [How can members help safeguard the assurances provided in this Privacy Policy?](https://web.archive.org/web/20161124213714id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q7)  
+Q. [How secure is members’ financial information when they are paying for their MindMyHouse membership by credit or debit card? ](https://web.archive.org/web/20161124213714id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q8)  
+Q. [How can members access, update or delete their information?](https://web.archive.org/web/20161124213714id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q9)  
+Q. [Can someone else link to members’ personal information on MindMyHouse from another website?](https://web.archive.org/web/20161124213714id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q10)  
+Q. [What is the policy regarding links to third party sites?](https://web.archive.org/web/20161124213714id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q11)  
+Q. [When does this Privacy Policy not apply?](https://web.archive.org/web/20161124213714id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q12)  
+Q. [What happens to members’ information after their membership expires?](https://web.archive.org/web/20161124213714id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q13)  
+Q. [What happens to the information members provide when communicating with MindMyHouse?](https://web.archive.org/web/20161124213714id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q14)  
+Q. [What happens to the material members provide when using MindMyHouse's internal contact form system?](https://web.archive.org/web/20161124213714id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q17)  
+Q. [How is members information protected?](https://web.archive.org/web/20161124213714id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q26)  
+Q. [What are the contact details for MindMyHouse?](https://web.archive.org/web/20161124213714id_/http%3A//www.mindmyhouse.com/advice/privacy_policy.php#q16)
 
 **Q. What information does MindMyHouse require from members?**
 
@@ -43,7 +43,7 @@ House sitter members must provide the following information: an email address, a
 
 Information provided to the site in the course of becoming a member of MindMyHouse will only be used to facilitate members’ full and effective use of the site.
 
-MindMyHouse will not disclose any of its members’ private information to any third party under normal circumstances. Home owner members’ private information includes: first and last names, email address and password. House sitter members’ private information includes: home address, credit and debit card numbers, billing address and password.
+MindMyHouse will not disclose any of its members’ private information to any third party under normal circumstances. Home owner members’ private information includes: email address and password. House sitter members’ private information includes: home address, credit and debit card numbers, billing address and password.
 
 Neither will MindMyHouse individually identify any member to a third party except when required to do so under the law; either in an emergency or to protect the health and safety of its members or the general public.
 
@@ -53,7 +53,7 @@ MindMyHouse reserves the right to collate statistical data from members in order
 
 Only those people working for MindMyHouse will be able to see members' personal information as it is supplied by members and stored in the site's database.
 
-MindMyHouse recognizes that home owner members may like to preserve their anonymity until they are interviewing house sitting candidates directly. For this reason, home owner members' email addresses are completely hidden from view online. Home owner members can only be contacted via a blank email contact form on the site. Only registered house sitter members will be able to contact home owner members in this way. However please note that MindMyHouse cannot safeguard your privacy if you choose to include personal details such as your name, email address or street address in any adverts or listings you create and publish on the site.
+MindMyHouse recognizes that home owner members may like to preserve their anonymity until they are interviewing house sitting candidates directly. For this reason, home owner members' email addresses are completely hidden from view online. Home owner members can only be contacted via a blank email contact form on the site. Only registered house sitter members will be able to contact home owner members in this way. However please note that MindMyHouse cannot safeguard your privacy if you choose to include personal details such as your email address or street address in any adverts or listings you create and publish on the site.
 
 If home owners publish a sitter wanted advert or listing, a map will accompany the advert or listing that will show the city/town/location of the house sitting assignment. Please note that this map is limited in detail - the zoom function has been limited so that users can only see the city/town or area of the assignment. Details such as the street or postcode (zipcode) remain hidden.
 
@@ -133,20 +133,18 @@ However, MindMyHouse would very much like to publish, in part or in whole, selec
 
 MindMyHouse monitors the communication made between members through its internal contact form system. This material remains confidential and is not passed on to any third party for any reason except when required by the police in the interests of public safety. This material is securely stored as per the requirements of the UK's Data Protection Act 1998.
 
-**Q. How is members’ information protected under United Kingdom law?**
+**How is members information protected?**
 
-The core business of MindMyHouse is providing a storage and retrieval system for information provided by registered members from around the world. As ‘data controllers’ MindMyHouse must notify the Information Commissioner about the types of information held and the purposes for which personal data is processed. This information is entered into the public register of data controllers which is maintained by the Information Commissioner. The Information Commissioner is an independent official appointed by the Crown to oversee the Data Protection Act 1998 and the Freedom of Information Act 2000.
+MindMyHouse complies with the following guiding principles:
 
-MindMyHouse complies with the following eight guiding principles of the Data Protection Act 1998.
-
-  1. process personal data fairly and lawfully
-  2. obtain personal data only for one or more specified and lawful purposes and to ensure that such data is not processed in a manner which is incompatible with the purpose or purposes for which it was obtained
-  3. ensure that personal data is adequate, relevant and not excessive for the purpose or purposes for which it is held
-  4. ensure that personal data is accurate and, where necessary, kept up to date
-  5. ensure that personal data is not kept for any longer than is necessary for the purpose for which it was obtained
-  6. process personal data in accordance with the rights of the individuals to whom the information relates
-  7. ensure that personal data is kept secure
-  8. ensure that personal data is not transferred to a country outside the European Economic Area unless the country to which the information is to be sent ensures an adequate level of protection for the rights (in relation to the information) of the individuals to whom the personal data relates.
+  * process personal data fairly and lawfully
+  * obtain personal data only for one or more specified and lawful purposes and to ensure that such data is not processed in a manner which is incompatible with the purpose or purposes for which it was obtained
+  * ensure that personal data is adequate, relevant and not excessive for the purpose or purposes for which it is held
+  * ensure that personal data is accurate and, where necessary, kept up to date
+  * ensure that personal data is not kept for any longer than is necessary for the purpose for which it was obtained
+  * process personal data in accordance with the rights of the individuals to whom the information relates
+  * ensure that personal data is kept secure
+  * ensure that personal data is not transferred to a third party
 
 
 
