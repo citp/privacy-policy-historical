@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the palacecinemas.com.au privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607163921id_/http%3A//www.palacecinemas.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palacecinemas.com.au privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124175453id_/http%3A//www.palacecinemas.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Palace Cinemas | Share our passion.
+# Privacy Policy | Palace Cinemas
 
-THE PALACE GROUP OF COMPANIES - PRIVACY POLICY
+THE PALACE GROUP OF COMPANIES – PRIVACY POLICY
 
 **1\. INTRODUCTION**
 
@@ -56,7 +56,7 @@ When Personal Information is collected from a Customer, they are advised at the 
 
 (c) the key consequences if all or some of the information cannot be collected.
 
-**2.4 'sensitive information'**
+**2.4 ‘sensitive information’**
 
 Palace will not ask a Customer for information revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, or details of health, disability or sexual activity or orientation, unless:
 
@@ -98,7 +98,7 @@ Customers can update their Personal Information at any time by contacting Palace
 
 **4\. MINORS**
 
-Palace has adopted the position proposed by the Privacy Commissioner that a young person is able to give their consent when he or she has a sufficient understanding and maturity to understand what is being proposed. 
+Palace has adopted the position proposed by the Privacy Commissioner that a young person is able to give their consent when he or she has a sufficient understanding and maturity to understand what is being proposed.
 
 **5\. COMPETITIONS**
 
@@ -106,7 +106,7 @@ Personal information gathered during competitions run by Palace will be governed
 
 **6\. DIRECT MARKETING**
 
-Personal Information collected for direct marketing purposes will only be collected, used or disclosed with the consent of the relevant Customer as provided for in this Privacy Policy. 
+Personal Information collected for direct marketing purposes will only be collected, used or disclosed with the consent of the relevant Customer as provided for in this Privacy Policy.
 
 In circumstances where Palace cannot practically obtain the consent of a Customer, then Palace may still engage in direct marketing to that Customer, but will:
 
@@ -118,7 +118,7 @@ Customers may be taken off any mailing list by contacting Palace’s Privacy Off
 
 **7\. ACCESS TO PERSONAL INFORMATION**
 
-Customers may access their Personal Information. 
+Customers may access their Personal Information.
 
 Palace may impose a reasonable charge for access.
 
@@ -156,7 +156,7 @@ Palace may from time to time employ subcontractors to provide services to it. In
 
 **10\. SECURITY POLICY**
 
-Palace When purchasing from Palace Cinemas your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology. 128-bit SSL encryption is approximated to take at least one trillion years to break, and is the industry standard. If you have any questions regarding our security policy, please contact Palace Cinemas (see 11. WHO TO CONTACT) 
+Palace When purchasing from Palace Cinemas your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology. 128-bit SSL encryption is approximated to take at least one trillion years to break, and is the industry standard. If you have any questions regarding our security policy, please contact Palace Cinemas (see 11. WHO TO CONTACT)
 
 **11\. WHO TO CONTACT**
 
@@ -170,4 +170,4 @@ Further information on privacy can be obtained from the Privacy Commissioner at 
 
 **14\. GOOGLE ANALYTICS**
 
-We use Google Analytics data to helping us improve the offerings on the Palace Cinemas website. As part of that implementation we use _Google Analytics Demographics and Interest Reporting_ so that we know more general information about the users of our website. None of this data is personally identifiable, and we respect your need for privacy. As such, if you wish to opt-out of Google Analytics tracking, you can do so by following this link to Google Analytics' [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/).
+We use Google Analytics data to helping us improve the offerings on the Palace Cinemas website. As part of that implementation we use _Google Analytics Demographics and Interest Reporting_ so that we know more general information about the users of our website. None of this data is personally identifiable, and we respect your need for privacy. As such, if you wish to opt-out of Google Analytics tracking, you can do so by following this link to Google Analytics’ [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/).
