@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raileasy.co.uk privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211135710id_/http%3A//www.raileasy.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raileasy.co.uk privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124182917id_/http%3A//www.raileasy.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy
 
