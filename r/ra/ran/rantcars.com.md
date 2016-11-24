@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rantcars.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520095636id_/http%3A//www.rantcars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rantcars.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124114514id_/http%3A//www.rantcars.com/privacy-policy) for the most accurate reproduction.*
 
-# RantCars
+# – Privacy Policy
 
 PRIVACY POLICY  
 Rant, Inc. (“Rant,” “we,” “us,” or “our”) knows that you care about how your personal information is used and shared, and we take your privacy very seriously. This Privacy Policy addresses Rant’s practices regarding information collected from visitors of [RantCars](https://web.archive.org/). The website is hereinafter referred to as the “Site”.  
