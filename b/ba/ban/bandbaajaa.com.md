@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bandbaajaa.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512210956id_/http%3A//www.bandbaajaa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandbaajaa.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124232201id_/http%3A//www.bandbaajaa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ _ _ **Return & Exchange** in 3 working days
 
 _ _ **FREE SHIPPING** order over ₹1000
 
-_ _ **Need help?** +1 800 987 654 321
+ _ _ **Need help?** +1 800 987 654 321
 
 At Special Occasions, you always come first. As a result, we do not publish, sell or rent any of your personal data to a third party without your consent.
 
