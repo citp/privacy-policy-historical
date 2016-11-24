@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badcock.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416020135id_/https%3A//www.badcock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badcock.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124012646id_/https%3A//www.badcock.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Badcock &more
 
@@ -153,15 +153,15 @@ You may choose to:
 
 **Postal Mail**
 
-If you do not wish to receive catalogs, coupons, and other promotional mail, [contact us](https://web.archive.org/web/20160416020135id_/https%3A//www.badcock.com/contact.aspx) or call 800-223-2625 to opt out. 
+If you do not wish to receive catalogs, coupons, and other promotional mail, [contact us](https://web.archive.org/web/20161124012646id_/https%3A//www.badcock.com/contact.aspx) or call 800-223-2625 to opt out. 
 
 **Telephone**
 
-If you do not wish to receive promotional telephone calls, [contact us](https://web.archive.org/web/20160416020135id_/https%3A//www.badcock.com/contact.aspx) or call 800-223-2625 to opt out. This opt out does not apply to operational phone calls, for example, confirmation of delivery address. 
+If you do not wish to receive promotional telephone calls, [contact us](https://web.archive.org/web/20161124012646id_/https%3A//www.badcock.com/contact.aspx) or call 800-223-2625 to opt out. This opt out does not apply to operational phone calls, for example, confirmation of delivery address. 
 
 **E-mail**
 
-If you do not wish to receive promotional telephone calls, [contact us](https://web.archive.org/web/20160416020135id_/https%3A//www.badcock.com/contact.aspx) or call 800-223-2625 to opt out. This opt out does not apply to operational phone calls, for example, confirmation of delivery address. 
+If you do not wish to receive promotional telephone calls, [contact us](https://web.archive.org/web/20161124012646id_/https%3A//www.badcock.com/contact.aspx) or call 800-223-2625 to opt out. This opt out does not apply to operational phone calls, for example, confirmation of delivery address. 
 
 **Mobile**
 
@@ -210,7 +210,7 @@ In order to keep your personal information accurate and complete, you can access
 
 If you have created a Badcock.com account, you can log in and update your account information, including contact, billing, and shipping information. 
 
-[Contact us](https://web.archive.org/web/20160416020135id_/https%3A//www.badcock.com/contact.aspx) with your current contact information and the personal information you would like to access. We will provide you the personal information requested if reasonably available, or will describe the types of personal information we typically collect. 
+[Contact us](https://web.archive.org/web/20161124012646id_/https%3A//www.badcock.com/contact.aspx) with your current contact information and the personal information you would like to access. We will provide you the personal information requested if reasonably available, or will describe the types of personal information we typically collect. 
 
 **Privacy Policy Scope**
 
