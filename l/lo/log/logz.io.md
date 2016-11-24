@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the logz.io privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606004650id_/http%3A//logz.io/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logz.io privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124105953id_/http%3A//logz.io/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Logz.io
+# Privacy Policy
 
 LogsHero Ltd. (“LogsHero”, “We” or “Us”) provides this Privacy Policy (“Privacy Policy”) to inform you of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from Users of the Services. For the avoidance of doubt, this Privacy Policy only applies to the Website, services and applications included within “Services” and does not apply to any third-party websites, services, or applications, even if they are accessible through our Services. Unless otherwise defined in this Privacy Policy, capitalized terms used in this Privacy Policy shall have the same meaning as in our Terms of Use. Please note that the term “you” also includes the company which is our customer and for which you are accepting the Terms of Use.
 
