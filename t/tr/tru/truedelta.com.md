@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truedelta.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325193910id_/http%3A//www.truedelta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truedelta.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124161014id_/http%3A//www.truedelta.com/privacy-policy) for the most accurate reproduction.*
 
 # TrueDelta | Privacy Policy
 
