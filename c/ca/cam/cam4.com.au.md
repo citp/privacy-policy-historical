@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cam4.com.au privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918165542id_/http%3A//www.cam4.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cam4.com.au privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124181844id_/http%3A//www.cam4.com.au/privacy) for the most accurate reproduction.*
 
 # CAM4 Privacy Policy
 
