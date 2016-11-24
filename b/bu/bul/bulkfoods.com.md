@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulkfoods.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421072411id_/http%3A//www.bulkfoods.com/content/28-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulkfoods.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124235023id_/http%3A//www.bulkfoods.com/content/28-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bulkfoods.com
 
