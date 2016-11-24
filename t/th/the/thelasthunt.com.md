@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelasthunt.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419083415id_/http%3A//www.thelasthunt.com/pages/privacy2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelasthunt.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124145847id_/http%3A//www.thelasthunt.com/pages/privacy2) for the most accurate reproduction.*
 
 # Privacy - The Last Hunt
 
