@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickwebresources.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606103113id_/http%3A//quickwebresources.com/sample-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickwebresources.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124051038id_/http%3A//quickwebresources.com/sample-page) for the most accurate reproduction.*
 
 # Privacy Policy
 
