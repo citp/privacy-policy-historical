@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mkbhavuni.edu.in privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503002213id_/http%3A//www.mkbhavuni.edu.in/privacy-policy-external.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mkbhavuni.edu.in privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124211748id_/http%3A//mkbhavuni.edu.in/privacy-policy-external.php) for the most accurate reproduction.*
 
 # M K Bhavnagar University Official Website
 
