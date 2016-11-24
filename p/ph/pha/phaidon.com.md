@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phaidon.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505075755id_/http%3A//www.phaidon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phaidon.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124112230id_/http%3A//www.phaidon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Phaidon
 
