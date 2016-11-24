@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the poorlydressed.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630211038id_/https%3A//corp.cheezburger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poorlydressed.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124214456id_/https%3A//corp.cheezburger.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice – Cheezburger Company Blog
 
-Last Updated: October 19, 2014
+Last Updated: October 19, 2016
 
-The following privacy notice applies to this website, the sites listed at www.cheezburger.com/sites, and any sites which are operated by Cheezburger, Inc. (collectively, the “Websites”).  We may change or update this policy from time to time, and we will notify you of any changes by changing the “last updated” notice set forth above. Accordingly, you should frequently visit this web page. Any updated policy shall be effective immediately after it is posted.  
-****
+The following privacy notice applies to this website, the sites listed at www.cheezburger.com/sites, and any sites which are operated by Cheezburger, Inc. (collectively, the “Websites”).  We may change or update this policy from time to time, and we will notify you of any changes by changing the “last updated” notice set forth above. Accordingly, you should frequently visit this web page. Any updated policy shall be effective immediately after it is posted.
 
 **Personal Information**  
 1\.     Activity. We may ask for some personal information, including your e-mail address, for certain activities on the Websites, such as for uploading pictures and posting comments.  
@@ -39,4 +38,4 @@ We may share the information we collect from you to third parties in the followi
 4.    Business Transactions.  We may share your information to our partners, contractors, and service providers as necessary to provide services to you or to otherwise improve our services.
 
 **Contact Us**  
-If you have any questions about this notice, email us at contactus@cheezburger.com or write to Cheezburger Inc, Attn: Privacy, 200 W. Thomas St, Suite 200; Seattle, WA 98119.
+If you have any questions about this notice, email us at [info@literally.media](mailto:info@literally.media) or write to Literally.Media, Attn: Privacy, Literally Media Ltd, 146 N Canal Street, Seattle, WA 98103
