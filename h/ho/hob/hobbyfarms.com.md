@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobbyfarms.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624144953id_/http%3A//www.hobbyfarms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbyfarms.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124071308id_/http%3A//www.hobbyfarms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hobby Farms
 
