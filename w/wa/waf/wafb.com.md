@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wafb.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617163614id_/http%3A//www.wafb.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wafb.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124173421id_/http%3A//www.wafb.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WAFB 9 News Baton Rouge, Louisiana News, Weather, Sports
 
