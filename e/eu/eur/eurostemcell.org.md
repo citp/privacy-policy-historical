@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurostemcell.org privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609212018id_/http%3A//www.eurostemcell.org/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurostemcell.org privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124114419id_/http%3A//www.eurostemcell.org/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & cookies | Europe's stem cell hub | EuroStemCell
 
