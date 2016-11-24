@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pearsonassessments.com privacy policy that was archived on 2016-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160630095917id_/http%3A//www.pearsonassessments.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pearsonassessments.com privacy policy that was archived on 2016-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161124084134id_/http%3A//www.pearsonassessments.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en-US" class=" js no-touch svg inlinesvg svgclippaths no-ie8compat dk_fouc" style=""><!--<![endif]--><head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -138,6 +138,25 @@
             
                 <div id="account-navigation">
                     
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+		
+
+
+
+
 
                 
 <div class="securityContext security">
@@ -399,6 +418,9 @@ function orderByProductFormSubmit(){
                     if (/cart.html/.test(window.location.href)) {
                         window.location.replace("cart.html");
                     }
+                    else if (/checkout.forward.html/.test(window.location.href)||/checkout.html/.test(window.location.href)) {
+                        window.location.replace("/cart.html");
+                    }
                     jQuery('#orderByProductNumberPopError').hide();
                     jQuery('#orderPop').hide();
                     retrieveCartCount();
@@ -600,10 +622,10 @@ jQuery(document).ready(function() {
                <!-- END COMPONENT: cartcount -->
             </div>
             <div class="clinicalTopNavButtonWrap">
-               <a href="/account/myaccount.html" class="peBtn btnIcons-account" id="myAccountLink" title="My Account" onclick="myAccountLinkClick('/content/ped/ani/pa/us/en/account/myaccount.html'); return false;">
+               <a href="/account/myaccount.html" class="peBtn btnIcons-account" id="myAccountLink" title="Sign&nbsp;In/Account" onclick="myAccountLinkClick('/content/ped/ani/pa/us/en/account/myaccount.html'); return false;">
                   <span class="buttonLeftIcon">
                      <span class="buttonRightIcon">
-                        <span class="buttonText">Account</span>
+                        <span class="buttonText">Sign&nbsp;In/Account</span>
                      </span>
                   </span>
                </a>
@@ -782,6 +804,7 @@ function myAccountLinkClick(url) {
      }
 }
 </script>
+
                     
                 </div><!-- /account-navigation -->
                 <div id="navigation">
