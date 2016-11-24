@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callutheran.edu privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624042658id_/http%3A//www.callutheran.edu/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callutheran.edu privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124215016id_/http%3A//www.callutheran.edu/about/privacy.html) for the most accurate reproduction.*
 
 # Web Privacy Policy | Cal Lutheran
 
