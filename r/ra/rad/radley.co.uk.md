@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radley.co.uk privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605194415id_/http%3A//www.radley.co.uk/help/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radley.co.uk privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124163024id_/http%3A//www.radley.co.uk/help/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy
 
@@ -42,11 +42,25 @@ You may refuse to accept cookies by indicating that you do not consent to their 
 
 **Persistent cookies** \- This type of cookie is saved on your computer for a fixed period (usually a year or longer) and is not deleted when the browser is closed. Persistent cookies are used where we need to know who you are for more than one browsing session. For example, we use this type of cookie to store your preferences, so that they are remembered for the next visit.
 
+For a full list of the cookies used, please see here.
+
 We will use information held about you to carry out our obligations arising from any contracts entered into between you and us.
 
 We may use your data to provide you, via email, post, telephone or SMS with information, products or services that you request from us or which we feel may be of interest to you, or share your details with selected third parties which we believe may be of interest to you, where you have consented to be contacted for such purposes.We may use the data in accordance with the preferences expressed in your acceptance of the Radley cookie policy and terms and conditions of use of the Radley website.
 
-You may have received an email from a third party in association with Criteo, on behalf of Radley. The purpose of Criteo Email is to find visitors of Criteo advertising clients’ properties (websites, apps and newsletters) and send them personalized emails. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of Criteo Email [Click Here](https://web.archive.org/web/20160605194415id_/http://www.radley.co.uk/help/privacy-cookie-policy/%E2%80%9Dhttp://privacy.criteoemail.com/gb/privacy-policy.html%E2%80%9D).
+We may at times share your information with certain, trusted third parties. These parties currently include:
+
+a third party in association with Criteo - You may have received an email from a third party in association with Criteo, on behalf of Radley. The purpose of Criteo Email is to find visitors of Criteo advertising clients’ properties (websites, apps and newsletters) and send them personalized emails. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of Criteo Email [Click Here](http://privacy.criteoemail.com/gb/privacy-policy.html).
+
+Feefo – Feefo collects some consumer data in order to seek out consumer reviews of products, you can find Feefo’s privacy policy [here](http://www.feefo.com/feefo/page.jsp?page=B3);
+
+MentionMe – MentionMe obtains some consumer data in order to facilitate Radley’s customer referral programme, respond to customer service requests or investigate any misuse of terms. You can find MentionMe’s privacy policy [here](https://mention-me.com/help/tnc_f/privacy_site); and 
+
+Ve Interactive – Ve Interactive obtains some consumer data for the purposes of operating, managing, maintaining and improving its platform and the services it provides to Radley. You can find Ve International’s privacy policy [here](https://www.veinteractive.com/about-us/legal-policies/privacy-policy/).
+
+Chalk Social – Chalk Social is our Social Media Agency which obtains customer information in order to improve our social media marketing. The information obtained will be non-personally identifiable unless a customer affirmatively and deliberately chooses to release that information. The non-personally identifiable information captured by Chalk Social will be used in line with its privacy policy, which you can find [here](http://chalksocial.com/about/).
+
+Mouseflow – Mouseflow allows us to track activity on our site to improve the customer experience. Information about the browser (type, version, screen size, etc.), basic information about the user (IP address, language, time zone), and data containing mouse movements, clicks, scroll events and keystrokes are sent to Mouseflow. No personal data is ever sent or shared between websites. The script does not use third-party cookies and none of the data is shared with third parties except for highly summarized data (i.e. Usage share of browsers, average screen size, etc.) Keystrokes from password fields and fields marked as “sensitive” are never recorded or sent over the network. Users who don’t want to be recorded can opt out [here](https://mouseflow.com/opt-out/). 
 
 ## Security
 
