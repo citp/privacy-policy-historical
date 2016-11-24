@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldpay.us privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610043218id_/http%3A//www.worldpay.com/content/privacy-policy-us-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldpay.us privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124170406id_/http%3A//www.worldpay.com/us/privacy-policy-us) for the most accurate reproduction.*
 
 # Privacy Policy US | Worldpay
 
