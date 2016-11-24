@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thephuketnews.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610192047id_/http%3A//www.thephuketnews.com/pop.privacy-confidentiality.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thephuketnews.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124013805id_/http%3A//www.thephuketnews.com//pop.privacy-confidentiality.php) for the most accurate reproduction.*
 
 # Privacy & Confidentiality Statement | The Phuket News
 
