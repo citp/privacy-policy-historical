@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plandekho.in privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605130221id_/http%3A//plandekho.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plandekho.in privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124153644id_/http%3A//plandekho.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Plan Dekho
 
