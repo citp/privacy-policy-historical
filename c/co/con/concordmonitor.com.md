@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the concordmonitor.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602061719id_/http%3A//www.concordmonitor.com/Reader-Services/Privacy-Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concordmonitor.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124175334id_/http%3A//www.concordmonitor.com/Reader-Services/Privacy-Notice) for the most accurate reproduction.*
 
-# Concord Monitor - NH news, sports, opinion and photos | Concord Monitor
+# NH news, sports, opinion and photos | Concord Monitor
 
 We take seriously your interest in how your information is collected and used. Please read the following to learn about our Privacy Notice.
 
