@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewoodwhisperer.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623113333id_/http%3A//www.thewoodwhisperer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewoodwhisperer.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124193059id_/http%3A//www.thewoodwhisperer.com/privacy) for the most accurate reproduction.*
 
 # Privacy - The Wood Whisperer
 
