@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lnttechservices.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502135915id_/http%3A//www.lnttechservices.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lnttechservices.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124164639id_/http%3A//www.lnttechservices.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | L&T Technology Services | L&T India
 
