@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vitalesecrets.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603213926id_/http%3A//www.vitalesecrets.com/campaigns/tsm3/common/privacy.php%3Foffer%3Dtsm3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitalesecrets.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124233751id_/http%3A//www.vitalesecrets.com/campaigns/tsm3/common/privacy.php%3Foffer%3Dtsm3) for the most accurate reproduction.*
 
 # Joe Vitale - The Secret Mirror Privacy Policy
 
 ## Privacy Policy
 
-Current as of June 2016
+Current as of November 2016
 
 OUR PRIVACY POLICY CHANGES FROM TIME TO TIME. PLEASE CHECK BACK FREQUENTLY
 
