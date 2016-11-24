@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glocalincome.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606041435id_/http%3A//www.clubshop.com/common/privacy.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glocalincome.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124215852id_/http%3A//www.clubshop.com/common/privacy.xml) for the most accurate reproduction.*
 
 # Privacy Policy
 
