@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisdenindia.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318131857id_/http%3A//www.wisdenindia.com/legal%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisdenindia.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125001159id_/http%3A//www.wisdenindia.com/legal%23privacy-policy) for the most accurate reproduction.*
 
 # Legal Notices | Wisden India
 
@@ -75,10 +75,8 @@ Welcome to our website. If you continue to browse and use this website you are a
 
 The term 'FW Sports And Media India Private Limited' or 'Wisden India' or 'us' or 'we' refers to the owner of the website whose registered office is:
 
-Suite 403,  
-Golden Square Business Centre,   
-102, Eden Park, # 20, Vittal Mallya Road,   
-Bangalore - 560001, Karnataka, INDIA 
+Wisden House, 13/A, 1st Cross, Lavelle Road,   
+Bangalore 560 001, India 
 
 **Our Corporate Identity Number is: U92412KA2012PTC062592**
 
