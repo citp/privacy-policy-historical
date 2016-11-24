@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityvoter.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630182412id_/http%3A//cityvoter.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityvoter.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124155455id_/http%3A//cityvoter.com/help/privacy-policy) for the most accurate reproduction.*
 
 # CityVoter :: Privacy Policy
 
