@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wooga.net privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603014909id_/https%3A//www.wooga.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wooga.net privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124234406id_/https%3A//www.wooga.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
