@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecatholicdirectory.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603141115id_/http%3A//www.thecatholicdirectory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecatholicdirectory.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124101338id_/http%3A//www.thecatholicdirectory.com/privacy) for the most accurate reproduction.*
 
 # TheCatholicDirectory.com Privacy Policy
 
