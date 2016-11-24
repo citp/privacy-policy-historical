@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stimulsoft.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607162038id_/http%3A//www.stimulsoft.com/en/stimulsoft-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stimulsoft.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124182839id_/https%3A//www.stimulsoft.com/en/stimulsoft-privacy-policy) for the most accurate reproduction.*
 
 # Stimulsoft Privacy Policy. :: Stimulsoft
 
