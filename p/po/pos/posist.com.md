@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the posist.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602074839id_/http%3A//www.posist.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the posist.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124181044id_/http%3A//www.posist.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Posist Technologies Privacy policy for sale and product (POS)
 
@@ -82,7 +82,7 @@ Your personally identifiable information you choose to provide on our Website is
 
 ######  __Communication and Update
 
-POSist will communicate with you through email and notices posted on the Website or through other means available through the service, including text and other forms of messaging. You can change your e-mail and contact preferences at any time by logging into your “Account” at [ www.POSist.com ](https://web.archive.org/web/20160602074839id_/http%3A//www.posist.com/www.posist.com) and changing the account settings.
+POSist will communicate with you through email and notices posted on the Website or through other means available through the service, including text and other forms of messaging. You can change your e-mail and contact preferences at any time by logging into your “Account” at [ www.POSist.com ](http://www.posist.com/) and changing the account settings.
 
 ######  __Surveys, Contests and Polls
 
