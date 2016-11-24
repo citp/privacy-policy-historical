@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the storypark.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513135417id_/https%3A//www.storypark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storypark.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124055400id_/https%3A//www.storypark.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Storypark
+# Privacy policy | Storypark
 
-Updated: January 2016
+Updated: October 2016
 
-We know how important security and privacy is to you. They are at the heart of Storypark and as such we strive to make things as safe and clear as possible for everyone involved. From time to time we will review our Privacy Policy to keep pace with changes in our service. As a result of our recent review, we've updated our Privacy Policy. We encourage you to read it carefully.
+We know how important security and privacy is to you. They are at the heart of Storypark and as such we strive to make things as safe and clear as possible for everyone involved. From time to time we will review our Privacy Policy to keep pace with changes in our service. This document is our most recently updated Privacy Policy. We encourage you to read it carefully.
 
 This privacy policy sets out how Storypark Limited ("Storypark",”we”) treats the privacy of those who use our website www.storypark.com ("Website") and associated services and others with whom we interact.
 
-We take privacy very seriously and are committed to dealing with personal information in accordance with the requirements of the Privacy Act 1993 (NZ), the Privacy Act 1988 (Cth) and any other applicable privacy legislation. Please take a moment to read this Privacy Policy so you understand how we collect, store, use and disclose personal information.
+We take privacy very seriously and are committed to dealing with personal information in accordance with the requirements of the Privacy Act 1993 (NZ), the Privacy Act 1988 (Cth), the Personal Information Protection and Electronic Documents Act, SC 2000, c5 (federal, Canada), the Personal Information Protection Act (Alberta, Canada), the Personal Information Protection Act (British Columbia, Canada) and any other applicable privacy legislation. Please take a moment to read this Privacy Policy so you understand how we collect, store, use and disclose personal information.
+
+By providing your personal information to Storypark, you agree and consent that we may collect, use and disclose your personal information in accordance with this Privacy Policy. In addition, where appropriate, specific authorizations or consents may be obtained from time to time.
 
 ## **1\. Application**
 
-This Privacy Policy applies to all personal information obtained by Storypark, including, but not limited to when submitted by users of our website and/or the application that Storypark offers through the Website (" **Application** ").
+This Privacy Policy applies to all personal information obtained by Storypark, including, but not limited to when submitted by users of our Website and/or the application(s) that Storypark offers including through the Website (each an **"Application"** ).
 
 ## **2\. Collection and Storage of Personal Information and Data**
 
@@ -36,13 +38,13 @@ We may collect **personal information** (being information about a person from w
 
 ## **3\. Use of Personal Information**
 
-We use personal information about you or your child for the purpose it was provided or￼collected, including in the following ways:
+We use personal information about you or your child for the purpose it was provided or collected, including in the following ways:
 
   1. For the purposes of the collection described in (2) above;
   2. To respond to enquiries received from you;
   3. To perform authorised financial transactions with you and to help us to manage our accounts and administrative services;
   4. To verify your identity;
-  5. To communicate with you and provide you with information (whether by email, post or other means) about our services, where you have requested or consented to receiving this from us or where this provision is otherwise permitted under the relevant legislation including under the Australian Privacy Principles, the Privacy Act 1993 (NZ) and other applicable legislation.
+  5. To communicate with you and provide you (including through functionality provided with an Application) with information (whether by email, post or other means) about our services, where you have requested or consented to receiving this from us or where this provision is otherwise permitted under the relevant legislation including under the Australian Privacy Principles, the Privacy Act 1993 (NZ), the Personal Information Protection and Electronic Documents Act (Canada) and other applicable legislation.
   6. To notify you about changes to our services;
   7. To receive and address feedback or complaints from you;
   8. To protect our legal interests and fulfil our regulatory obligations (if and to the extent necessary); and
@@ -50,11 +52,11 @@ We use personal information about you or your child for the purpose it was provi
 
 
 
-All those with whom we interact have the option to opt-out of receiving marketing communications from us. If you do not wish to continue to receive electronic marketing communications from us and/or selected third parties you should opt-out by clicking on the "unsubscribe" link in any email communications that we might send you.
+All those with whom we interact have the option to opt-out of receiving marketing communications from us. If you do not wish to continue to receive electronic marketing communications from us and/or selected third parties you should opt-out by clicking on the "unsubscribe" link in any email communications that we might send you. You acknowledge that some features of the Application may involve us providing through the Application recommendations or suggestions for goods, services or benefits that we offer.
 
 We may use personal information for the purpose of marketing but only where such use complies with privacy legislation in effect in the relevant territory. We may, subject to legislative requirements, send occasional emails to you in relation to our current or future services. Any such emails will contain an unsubscribe link, enabling you to opt-out of these messages.
 
-We take steps to regularly destroy data (being personal information and sensitive information) that does not need archiving and to de-identify stored data where identification of a person is not reasonably required or necessary.
+We take steps to regularly destroy data (being personal information and sensitive information) that does not need to be archived and to de-identify stored data where identification of a person is not reasonably required or necessary.
 
 ## **4\. Disclosure of Personal Information**
 
@@ -65,6 +67,8 @@ We will not sell your Personal Information to anyone. We share your Personal Inf
   3. Marketing businesses engaged by us to disseminate materials to which recipients have consented.
 
 
+
+Some of the family version of the Application’s features enable Users to label or tag User posts and content in a way as to identify particular interests of a Child or features of a Child’s development or progress (for example, “Swimming” or “Learning to Read”). This information may be provided to a Child’s teacher (if an Authorised Viewer) as those terms are defined in our Terms of Use, to facilitate their understanding of the Child’s progress, development, interests etc.
 
 We may also disclose your personal information to third parties outside our organisation:
 
@@ -86,6 +90,8 @@ Storypark’s head office is located in New Zealand, so some limited information
 
 Some limited personal information may be provided to companies located in the USA who offer software as a service products that process content for inclusion on the Application (for example, conversion of images and videos to make them suitable for viewing online/ through a web browser). Those third parties located overseas are not permitted to (and are contractually obligated to not) access or use the personal information provided except for those limited purposes. We only choose reputable service providers and have agreements with such third parties that prevent them from using or disclosing to others the Personal Information we share with them, other than as is necessary to assist us.
 
+While the information resides outside of the territory where you reside, it may be accessible to the local courts, law enforcement and national security authorities in a foreign jurisdiction.
+
 ****
 
 ****
@@ -99,6 +105,8 @@ Personal information stored in our system is protected by electronic and procedu
 The Application is protected by a secure and encrypted password that each User must choose themselves. Users should never share their passwords. Storypark is not responsible for any loss of data or breach of privacy if a User shares their password with someone else. We do not store your password on our servers.
 
 Storypark takes all reasonable precautions to protect your data. Because internet transmissions cannot be guaranteed to be 100% secure, you acknowledge and agree that you use this service at your own risk.
+
+In case of a breach of security safeguards, such as the loss of, unauthorized access to or unauthorized disclosure of personal information under Storypark’s control, and if the breach poses a real risk of significant harm to you, we will notify you and the appropriate federal or provincial commissioner in Canada, as well as any other organization that may reduce the risk or mitigate the harm from the breach.
 
 ## **6\. Questions and concerns and access to/ correction or updating of your personal information**
 
