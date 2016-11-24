@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invitationhomes.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417200037id_/http%3A//www.invitationhomesforrent.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitationhomes.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124062411id_/http%3A//www.invitationhomesforrent.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Homes | Invitation Homes
 
@@ -73,9 +73,9 @@ Please note that if you give out personal identification information online -- t
 
 Invitation Homes
 
-901 Main Street, Suite 4700
+1717 Main Street, Suite 2000
 
-Dallas, TX  75206
+Dallas, TX  75201
 
 Contact: Customer Service at [CustomerService@IHRent.com](mailto:CustomerService@IHRent.com)
 
@@ -101,9 +101,8 @@ DMCA Complaints
 
 Invitation Homes
 
-901 Main Street, Suite 4700
-
-Dallas, TX  75206
+1717 Main Street, Suite 2000  
+Dallas, TX 75201
 
 Contact: Customer Service at [CustomerService@IHRent.com](mailto:CustomerService@IHRent.com)
 
@@ -127,9 +126,8 @@ DMCA Complaints
 
 Invitation Homes
 
-901 Main Street, Suite 4700
-
-Dallas, TX  75206
+1717 Main Street, Suite 2000  
+Dallas, TX 75201
 
 Contact: Customer Service at [CustomerService@IHRent.com](mailto:CustomerService@IHRent.com)
 
@@ -137,9 +135,12 @@ Please note that under Section 512(f) of the Copyright Act, any person who knowi
 
 Please also be advised that it is our policy to terminate users’ access to and use of this website in appropriate circumstances, where such users are repeat copyright infringers.
 
+   
+Updated: September, 2016
+
 * * *
 
-**_YARDI SYSTEMS, INC. PRIVACY POLICY_**
+ ** _YARDI SYSTEMS, INC. PRIVACY POLICY_**
 
 This privacy policy (the “Privacy Policy”) of Yardi Systems, Inc. (collectively, with its subsidiaries and affiliates, “Yardi,” “we,” “us” or “our”) describes our privacy practices regarding information we collect from persons or entities (“you” or “your”) who access this website or our related downloadable mobile applications that we may make available from time to time (collectively, the “Site”).
 
