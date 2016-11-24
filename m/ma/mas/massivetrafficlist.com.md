@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the massivetrafficlist.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629153135id_/http%3A//massivetrafficlist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massivetrafficlist.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124013100id_/http%3A//massivetrafficlist.com/privacy.php) for the most accurate reproduction.*
 
 # Massive Traffic List
 
-[](http://massivetrafficlist.com/bannerclick.php?id=7421)  
+[](http://massivetrafficlist.com/bannerclick.php?id=8102)  
 
 
 Massive Traffic List Privacy Policy
