@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalfuelgas.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608010508id_/http%3A//www.nationalfuelgas.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalfuelgas.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124174220id_/http%3A//www.nationalfuelgas.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,4 +64,4 @@ For your convenience, some pages of our web site offer you the ability to link t
 
 ## Additional Questions
 
-Please [click here](https://web.archive.org/web/20160608010508id_/http%3A//www.nationalfuelgas.com/email.aspx) to contact us if you have any additional questions or comments regarding this Privacy Policy.
+Please [click here](https://web.archive.org/web/20161124174220id_/http%3A//www.nationalfuelgas.com/email.aspx) to contact us if you have any additional questions or comments regarding this Privacy Policy.
