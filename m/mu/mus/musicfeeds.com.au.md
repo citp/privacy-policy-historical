@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicfeeds.com.au privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515172726id_/http%3A//www.craveonline.com/privacy%3Fsite%3Dmusicfeeds.com.au) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicfeeds.com.au privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124180734id_/http%3A//www.craveonline.com/privacy%3Fsite%3Dmusicfeeds.com.au) for the most accurate reproduction.*
 
 # Privacy Policy - CraveOnline
 
@@ -44,7 +44,7 @@ You are not required to provide information directly to us in order to view the 
 
 When you visit and interact with the Site, certain information may be collected automatically, including:
 
-  * your computer's Internet Protocol (IP) address;
+  * your computer’s Internet Protocol (IP) address;
   * your browser type and operating system;
   * the web pages you were visiting immediately before and after you came to the Site;
   * activities within community discussions;
@@ -73,7 +73,7 @@ Please note that the Site may combine the information that we collect with infor
 
  **Email Communications:**
 
-We may use the information that we collect to send you e-mail communications, such as information about your account or changes to the Site, promotional messages about our own or our marketing partners' products and services, and our email newsletters.
+We may use the information that we collect to send you e-mail communications, such as information about your account or changes to the Site, promotional messages about our own or our marketing partners’ products and services, and our email newsletters.
 
  **Advertising:**
 
@@ -91,11 +91,11 @@ We may use the information that we collect to fulfill your requests for products
 
  **Statistical Analysis:**
 
-In order to learn more about how our Site is used, we aggregate and analyze the data that we collect. We may use this information, for example, to monitor and analyze use of the Site, to increase our Site's functionality, and to better tailor our content and design to suit our visitors' needs.
+In order to learn more about how our Site is used, we aggregate and analyze the data that we collect. We may use this information, for example, to monitor and analyze use of the Site, to increase our Site’s functionality, and to better tailor our content and design to suit our visitors’ needs.
 
  **Enforcement:**
 
-We may use the information that we collect to prevent illegal activities, to enforce the Site's [Terms and Conditions](http://cdn1-www.craveonline.com/termsofuse?site=musicfeeds.com.au), and to otherwise protect our rights and the rights of our users.
+We may use the information that we collect to prevent illegal activities, to enforce the Site’s [Terms and Conditions](http://cdn1-www.craveonline.com/termsofuse?site=musicfeeds.com.au), and to otherwise protect our rights and the rights of our users.
 
 By using the Site, you consent to the uses identified above and any other use of information identified in this privacy policy.  In addition, we may use the information that we collect for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
@@ -107,7 +107,7 @@ The Company values your privacy, and shares information about our users only und
   * We may employ third parties to perform Site-related services, including database management, maintenance services, analytics, marketing, data processing, and email and text message distribution. These third parties have access to your information only to perform these tasks on our behalf.
   * If you choose to engage in public activities on the site, such as posting comments on community message boards, any information you submit can be read, collected, or used by others. Please exercise caution when deciding to disclose any personal information in public activities or submissions.
   * We may share information about you in the event that the Site is acquired by or merged with another company or a similar corporate transaction takes place.
-  * We may share information about you to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety or other rights and interests of any person, violations of the Site's [Terms and Conditions](http://cdn1-www.craveonline.com/termsofuse?site=musicfeeds.com.au), or as otherwise required by law.
+  * We may share information about you to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety or other rights and interests of any person, violations of the Site’s [Terms and Conditions](http://cdn1-www.craveonline.com/termsofuse?site=musicfeeds.com.au), or as otherwise required by law.
   * We may share information about you to respond to subpoenas, search warrants, judicial proceedings, court orders, legal process, or other law enforcement measures, to establish or exercise our legal rights, or to defend against legal claims.
   * In addition to the scenarios identified above, we may share information about you for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
@@ -126,11 +126,11 @@ If the Site functionality permits, you can deactivate your account at any time b
 As discussed in the sections on [cookies and other tracking technologies](http://cdn1-www.craveonline.com/cookies?site=musicfeeds.com.au) and [third-party online advertising](http://cdn1-www.craveonline.com/third-party?site=musicfeeds.com.au), some information is collected about you automatically through cookies and other tracking technologies.
 
   *  _Cookies._ You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set. Please note that you may need to renew these settings if you delete your cookies after these preferences are made. These settings also may not apply if you are using a different computer or Internet browser. To opt out of having information collected by third party ad networks, advertising agencies, advertisers, and audience segment providers used for behavioral advertising, to obtain information about the technologies these third parties might use, and to view information regarding their privacy policies, please visit <http://www.aboutads.info/choices> if you are located in the United States, [www.youronlinechoices.com](http://www.youronlinechoices.com/) if you are located in Europe, youradchoices.ca/choices if you are located in Canada, or [www.youronlinechoices.com.au](http://www.youronlinechoices.com.au/) if you are located in Australia .         
-  *  _Flash Cookies_. You can control how Flash cookies are used by visiting the Adobe Macromedia site, located [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Adobe enables you to allow some Flash cookies from certain websites, limit Flash cookies' storage capacity, and disallow Flash cookies altogether. In addition, if you use Mozilla Firefox for your Internet browser, you can download the [BetterPrivacy add-on](https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/) to automatically delete your Flash cookies every time you close your browser.
+  *  _Flash Cookies_. You can control how Flash cookies are used by visiting the Adobe Macromedia site, located [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Adobe enables you to allow some Flash cookies from certain websites, limit Flash cookies’ storage capacity, and disallow Flash cookies altogether. In addition, if you use Mozilla Firefox for your Internet browser, you can download the [BetterPrivacy add-on](https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/) to automatically delete your Flash cookies every time you close your browser.
 
 
 
-If you opt out of these technologies, you will continue to see advertising displayed on the Site, but the advertising may not be targeted to your interests. Please remember that we do not have access to, or control over, advertisers' or service providers' cookies, and the information practices of third parties are not covered by this privacy policy. For more information on the use of cookies in online advertising, please see the section on [third-party online advertising](http://cdn1-www.craveonline.com/third-party?site=musicfeeds.com.au) and visit the [NAI’s website](http://www.networkadvertising.org/choices/).
+If you opt out of these technologies, you will continue to see advertising displayed on the Site, but the advertising may not be targeted to your interests. Please remember that we do not have access to, or control over, advertisers’ or service providers’ cookies, and the information practices of third parties are not covered by this privacy policy. For more information on the use of cookies in online advertising, please see the section on [third-party online advertising](http://cdn1-www.craveonline.com/third-party?site=musicfeeds.com.au) and visit the [NAI’s website](http://www.networkadvertising.org/choices/).
 
  **Do Not Track**
 
@@ -152,7 +152,7 @@ Please note that no data transmission or storage can be guaranteed to be 100% se
 
  **8\. Visitors from outside the United States**
 
-The Site's offices are located in the United States. If you visit the site from another country, please be aware that information you provide to us or that we obtain as a result of your use of the Site may be processed in and transferred to the United States and will be subject to U.S. law. U.S. privacy and data protection laws may not be equivalent to the laws in your country of residence. By using the Site or providing us with your information, you consent to the collection, transfer, storage, and processing of information to and in the United States.
+The Site’s offices are located in the United States. If you visit the site from another country, please be aware that information you provide to us or that we obtain as a result of your use of the Site may be processed in and transferred to the United States and will be subject to U.S. law. U.S. privacy and data protection laws may not be equivalent to the laws in your country of residence. By using the Site or providing us with your information, you consent to the collection, transfer, storage, and processing of information to and in the United States.
 
  **9\. Children under 13**
 
