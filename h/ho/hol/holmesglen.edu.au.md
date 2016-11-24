@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holmesglen.edu.au privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401045628id_/https%3A//www.holmesglen.edu.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holmesglen.edu.au privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124183107id_/https%3A//www.holmesglen.edu.au/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Melbourne TAFE Courses & Degrees, Victoria
 
