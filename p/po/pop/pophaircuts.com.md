@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pophaircuts.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323111638id_/http%3A//pophaircuts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pophaircuts.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124202439id_/http%3A//pophaircuts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PoPular Haircuts
+# Privacy Policy - PoPular Haircuts
 
 Pop Haircuts values its users on the pophaircuts.com web site, mobile site and apps (“Properties”) and the services offered on our Properties (we will refer to the Properties and all other services collectively as the “Services”). Pop Haircuts has implemented this Privacy Policy to inform users of the information that Pop Haircuts collects from you and what Pop Haircuts does with it after it is collected. By using the Services, you are agreeing to the practices described in this policy.
 
