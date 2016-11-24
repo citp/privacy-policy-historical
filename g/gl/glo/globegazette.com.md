@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globegazette.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611053815id_/http%3A//globegazette.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globegazette.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124233421id_/http%3A//globegazette.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | globegazette.com
 
