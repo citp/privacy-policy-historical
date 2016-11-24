@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamelootnetwork.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627063231id_/http%3A//gamelootnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamelootnetwork.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124103852id_/http%3A//gamelootnetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Game Loot Network
 
