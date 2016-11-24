@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the linkme.com.au privacy policy that was archived on 2014-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141004080123id_/http%3A//linkme.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkme.com.au privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124075823id_/http%3A//linkme.com.au/privacy) for the most accurate reproduction.*
 
 # Jobs - Online Job Search for Jobs, Employment & Careers in Australia
 
-  * [General terms and conditions](http://www.linkme.com.au/terms)
-  * [Member terms and conditions](http://www.linkme.com.au/members/terms)
-  * [Employer terms and conditions](http://www.linkme.com.au/employers/terms)
+  * [General terms and conditions](https://linkme.com.au/terms)
+  * [Member terms and conditions](https://linkme.com.au/members/terms)
+  * [Employer terms and conditions](https://linkme.com.au/employers/terms)
 
 
   1. **Overview**
@@ -52,15 +52,15 @@
       6. for administrative purposes including research, planning, service development, security and risk management.
   5. **How to access and change your account information**
     1. If you have an account with us you can access and change your account information through your account settings. 
-    2. You may seek access to any other information personal information we hold about you by [contacting us](http://www.linkme.com.au/contactus). 
+    2. You may seek access to any other information personal information we hold about you by [contacting us](https://linkme.com.au/contactus). 
   6. **Security**
     1. We take reasonable steps to protect any personal information that we hold from misuse and loss. We also protect that information from unauthorised access, modification and disclosure. 
     2. We maintain physical security, such as locks and security systems, over our electronic data stores and premises. It also maintains computer and network security, for example firewalls (security measures for the Internet), and other security measures, such as identification codes and passwords, to control access to computer systems. 
     3. In order to secure your personal information, all communications between you and the Site are protected through secure socket layer (SSL) encryption. Credit Card details are also secured using 128 bit encryption. 
-    4. If you are a registered user, such as a Member or Recruiter, you are responsible for maintaining the confidentiality and security of your login and password details. We recommend that you change your password periodically. You must not provide your login or password details to any third party. If you believe that they have been stolen or been made known to others, you must [contact us](http://www.linkme.com.au/contactus) immediately, but in any event you should change your password immediately via the Site. 
+    4. If you are a registered user, such as a Member or Recruiter, you are responsible for maintaining the confidentiality and security of your login and password details. We recommend that you change your password periodically. You must not provide your login or password details to any third party. If you believe that they have been stolen or been made known to others, you must [contact us](https://linkme.com.au/contactus) immediately, but in any event you should change your password immediately via the Site. 
     5. We are not responsible if someone else accesses your account through registration information they have obtained from you. 
   7. **Questions or comments**
-    1. If you have any questions regarding this Privacy Statement or would like more information about the way we manage personal information, or if you wish to make a complaint about how we have handled personal information about you, please [contact us](http://www.linkme.com.au/contactus). 
+    1. If you have any questions regarding this Privacy Statement or would like more information about the way we manage personal information, or if you wish to make a complaint about how we have handled personal information about you, please [contact us](https://linkme.com.au/contactus). 
     2. For further information about privacy issues and the protection of privacy visit the Australian Federal Privacy Commissioner's website at [http://www.privacy.gov.au](http://www.privacy.gov.au/). 
   8. **Third party websites**
     1. The Site may, from time to time, contain links to the websites of other organisations which may be of interest to users. Linked websites are responsible for their own privacy practices and you should check those websites for their respective privacy statements. 
