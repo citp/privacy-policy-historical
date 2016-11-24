@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kkr.in privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514060110id_/http%3A//www.kkr.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kkr.in privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124142426id_/http%3A//www.kkr.in/privacy-policy) for the most accurate reproduction.*
 
 # Kolkata Knight Riders - Privacy Policy
 
