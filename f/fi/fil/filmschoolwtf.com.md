@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filmschoolwtf.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613040327id_/http%3A//filmschoolwtf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmschoolwtf.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124190151id_/http%3A//filmschoolwtf.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – FilmSchoolWTF
+# Privacy Policy - FilmSchoolWTF
 
 We respect the Privacy of Our readers. FSWTF is committed to keep your private information private. We have to collect personal data for different uses. Here is detailed information about it. Please note that we update our privacy policy from Time to Time. So Do check it periodically:
 
