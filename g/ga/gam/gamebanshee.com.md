@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamebanshee.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616025106id_/http%3A//www.gamebanshee.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D29386) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamebanshee.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124041013id_/http%3A//www.gamebanshee.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D29386) for the most accurate reproduction.*
 
 # Privacy Policy
 
