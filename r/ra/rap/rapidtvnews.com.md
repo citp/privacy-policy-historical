@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rapidtvnews.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616222654id_/http%3A//www.rapidtvnews.com/20080909110.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidtvnews.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124040026id_/http%3A//www.rapidtvnews.com/20080909110.html) for the most accurate reproduction.*
 
-# Rapid TV News - Privacy Policy
+# Privacy Policy
 
 Statement: Effective from 15 February 2007
 
@@ -22,7 +22,8 @@ List of 3rd party cookies set:
 
 4 - _Rapid TV News_ will not disclose the information supplied to third parties without prior consent. On all pages, where personal data is collected, specific details on the use of this information will be provided. You can also request not to receive marketing information from _Rapid TV News_.
 
-5 - Data Protection. The purpose and principles for collating data is to ensure good use of and allow _Rapid TV News_ to improve the website. The data may be retained for administrative, security and/or legal reasons. You have the right to access your information held by _Rapid TV News_ and, where necessary, to have it amended. For more details, please contact: Administration, Rapid TV News (Data Protection), 17 Summer Oakes, Motcombe, nr. Shaftesbury, Dorset SP7 9NW or email [admin@RapidTVNews.com](mailto:admin@RapidTVNews.com) .
+5 - Data Protection. The purpose and principles for collating data is to ensure good use of and allow _Rapid TV News_ to improve the website. The data may be retained for administrative, security and/or legal reasons. You have the right to access your information held by _Rapid TV News_ and, where necessary, to have it amended. For more details, please contact: Administration, Rapid TV News (Data Protection), Unit 20, The Wincomb Centre, Wincombe Business Park  
+Shaftesbury, Dorset, UK  SP7 9QL or email [admin@RapidTVNews.com](mailto:admin@RapidTVNews.com) .
 
 6 - Chat rooms and Forums: _Rapid TV News_ website provides chat rooms and forums. As such these services are open public arenas available for public discussions. Any personal information supplied by you during these discussions is widely accessible. _Rapid TV News_ is not responsible for the content posted by you when using these services.
 
