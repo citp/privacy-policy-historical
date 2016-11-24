@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptvsportsnetwork.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623202437id_/http%3A//www.ptvsportsnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptvsportsnetwork.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124234957id_/http%3A//www.ptvsportsnetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – PTV Sports
 
@@ -64,3 +64,5 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: ( inam_fui@hotmail.com)
+
+loading...
