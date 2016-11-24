@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the explore.org privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607161410id_/http%3A//explore.org/extra/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explore.org privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124225326id_/http%3A//explore.org/extra/privacy_policy) for the most accurate reproduction.*
 
-# explore
+# 
 
 Effective and revised as of November 4, 2015
 
