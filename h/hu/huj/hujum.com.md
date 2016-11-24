@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hujum.com privacy policy that was archived on 2015-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151001062713id_/http%3A//www.hujum.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hujum.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124122831id_/http%3A//www.hujum.com/About/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Hujum.com
+# Cashback offers, Coupons and Deals App site in India | hujum.com
 
-####  [**Commitment**](https://web.archive.org/web/20151001062713id_/http%3A//www.hujum.com/Privacy-Policy)
+####  [**Commitment**](https://web.archive.org/web/20161124122831id_/http%3A//www.hujum.com/Privacy-Policy)
 
 HUJUM intends to protect the privacy of its users (whether or not registered with HUJUM) on its website being www.HUJUM.com (“our Website”) and the privacy of their data provided by them to HUJUM from time to time. The privacy of our website users, whether you are our former or existing registered user or merely a visitor to our Website, is important to us and we are strongly committed to your right to privacy and to keeping your personal and other information secure. We encourage you to read our privacy statement to understand what types of personally identifiable information we collect and how we use this information.
 
@@ -10,7 +10,7 @@ For the purpose of providing you with quality services, we require you to enrol 
 
 **What type of information does HUJUM.com collect from you?**
 
-####  [**Personal Information**](https://web.archive.org/web/20151001062713id_/http%3A//www.hujum.com/Privacy-Policy)
+####  [**Personal Information**](https://web.archive.org/web/20161124122831id_/http%3A//www.hujum.com/Privacy-Policy)
 
 We only collect personally identifiable information that you choose to provide on our Website on registration for the purpose of registering on our Website. HUJUM may ask for Personal Information from you at the time of registering for the purpose of providing you the content and/or services that you request.
 
@@ -22,7 +22,7 @@ Our Website does not collect information about you except when you specifically 
 
 HUJUM DOES NOT trade, sell or otherwise deal in your Personal Information in any manner, except as specified herein, or unless express consent is sought from you, in that regard. Your Personal Information is collected for the purpose of identifying you (i) on our forum of users (ii) as members of HUJUM (iii) for the purpose of interacting with you, and (iv) keeping you abreast of deals, discounts, products and services which interest you.
 
-####  [ **Non-Personal Information**](https://web.archive.org/web/20151001062713id_/http%3A//www.hujum.com/Privacy-Policy)
+####  [ **Non-Personal Information**](https://web.archive.org/web/20161124122831id_/http%3A//www.hujum.com/Privacy-Policy)
 
 HUJUM also collects certain other information from you on your visit to our Website such as your information about your operating system, browser type, the URL of the previous web site you visited, your internet service provider and your IP Address (“Non-personal Information”). This information cannot be easily used to personally identify you. We use Non-personal Information for the purposes including but not limited to troubleshoot connection problems, administer the Website, analyze trends, gather demographic information, to ascertain how our visitors use our website, including information relating to the frequency of visits to our web site, average length of visits, pages viewed during a visit, ensuring compliance with the applicable law, co-operating with law enforcement activities, etc. 
 
@@ -30,13 +30,13 @@ This information is used to improve the site content and performance. You also a
 
 We may in future also share this information with Third Party Service Providers and Third Party Advertisers to measure the overall effectiveness of our online advertising, content, programming and for other bonafide purpose as we may desire. By usage of our Website you expressly permit HUJUM to access such information for one or more purposes deemed fit by HUJUM.
 
-####  [ **Cookies**](https://web.archive.org/web/20151001062713id_/http%3A//www.hujum.com/Privacy-Policy)
+####  [ **Cookies**](https://web.archive.org/web/20161124122831id_/http%3A//www.hujum.com/Privacy-Policy)
 
 Similar to other commercial web sites, our Website utilizes standard technology called "Cookies" and Web server logs to collect information about how our Website is used. Cookies are small pieces of information that are stored by your browser on your computer's hard drive. Cookies are only read by the server that places them, and are unable to interalia run programs on your computer, plant viruses or harvest your personal information. Cookies allow Web servers to recognize your computer each time you return to our web site including the date and time of visits, the pages viewed, time spent at our Website, and the Websites visited just before and just after our Website, verify your registration or password information (in case of registered users) during a particular session so that you do not have to input your password multiple times as you navigate the site, and suggest products or services that may interest you. This information is collected on an aggregate basis. None of this information is associated with you as an individual.
 
 Most web browsers automatically accept cookies. By changing the options on your web browser or using certain software programs, you can control how and whether cookies will be accepted by your browser. HUJUM understands and supports your right to block any unwanted Internet activity, especially that of unscrupulous websites. However, blocking HUJUM cookies may disable certain features on our Website and may make it impossible for you to use certain services available on our Website. This may also affect your overall shopping experience with us.
 
-[**When and how do we collect the Information?**](https://web.archive.org/web/20151001062713id_/http%3A//www.hujum.com/Privacy-Policy)
+[**When and how do we collect the Information?**](https://web.archive.org/web/20161124122831id_/http%3A//www.hujum.com/Privacy-Policy)
 
 We collect information from you for various purposes including but not limited to the following:
 
@@ -63,7 +63,7 @@ The use of cookies is very common on the Internet and HUJUM’s use of cookies i
 
 We may from time to time add or enhance products/services available on our Website. To the extent these products/services are provided to and used by you, we will use the information you provide in this regard to facilitate the products/service requested. For example, if you email us with a question, we will use your email address, name, nature of the question, etc. to respond to your question. We may also store and publish such information to assist us in making the site the better and easier to use.
 
-####  [ **Promotional Initiatives**](https://web.archive.org/web/20151001062713id_/http%3A//www.hujum.com/Privacy-Policy)
+####  [ **Promotional Initiatives**](https://web.archive.org/web/20161124122831id_/http%3A//www.hujum.com/Privacy-Policy)
 
 HUJUM’s presence on social networking websites viz. LinkedIn, Facebook, Twitter, Youtube, etc. is only a promotional initiative to invite participation and involvement of prospective customers located in different parts of the country. The domain links contained therein may either direct you to our Website or request your participation by way of feedback, suggestions, shopping experiences, discussions, views, etc. about various latest deals, best discounts, technology, trends, and similar topics. HUJUM in this regard fully disclaims any liability(ies) or claim(s) which may arise by use/misuse of your feedback, suggestions, views, etc. on any of the aforementioned networking websites or blogs, by any third party whether or not known to HUJUM.
 
@@ -103,6 +103,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 This policy provides a general statement of the ways in which HUJUM aims to protect your Personal Information. You may, however, in connection with specific products or services offered by HUJUM, be provided with privacy policies or statements that substitute or supplement this policy. The terms and conditions of this policy may be changed from time to time, without your consent (express or implied) to reflect changes in our practices concerning the collection and use of your Personal Information. The revised policy will be effective immediately upon posting to our web site unless otherwise mentioned. You shall be bound by the revised Privacy Policy and it is your sole responsibility to check the same from time to time. You acknowledge that no knowledge of the revised Privacy Policy shall be a defence in any proceedings with regard to the Privacy Policy.
 
-####  [ **Your Consent**](https://web.archive.org/web/20151001062713id_/http%3A//www.hujum.com/Privacy-Policy)
+####  [ **Your Consent**](https://web.archive.org/web/20161124122831id_/http%3A//www.hujum.com/Privacy-Policy)
 
 By accessing our Website and using it on a continued basis, you expressly consent and confirm to HUJUM collecting, maintaining, using, processing and disclosing your Personal and User Information in accordance with this Privacy Policy.
