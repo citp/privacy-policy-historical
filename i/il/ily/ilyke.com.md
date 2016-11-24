@@ -1,30 +1,49 @@
-> *The following text is extracted and transformed from the ilyke.com privacy policy that was archived on 2016-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160122133209id_/http%3A//ilyke.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilyke.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124172320id_/http%3A//ilyke.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Funny Pictures and Funny Videos to make your days awesome!
+# Your daily dose of viral entertainment!
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us at info[@]ilyke.net
+## PRIVACY POLICY
 
-At www.ilyke.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.ilyke.net and how it is used.
+### WHAT INFORMATION DO WE COLLECT?
 
-**Log Files**  
-Like many other Web sites, www.ilyke.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+_Personally Identifiable Information:_  You aren’t required to provide us with any Personally Identifiable information in order to use our Service, however, you may choose to provide Personally Identifiable Information to us such as your first and last name and email address in response to prompts featured on our Service. If you sign up for our email newsletter, we will collect your email address.
 
-**Cookies and Web Beacons**  
-www.ilyke.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+_Non-Personally Identifiable Information:_  We may also collect and use information about your interactions with the Service in a manner and format that does not identify you as an individual (“Non-Personally Identifiable Information”). We may collect, use, and disclose the following types of Non-Personally Identifiable Information:
 
-**DoubleClick DART Cookie**  
-• Google, as a third party vendor, uses cookies to serve ads on www.ilyke.net.  
-• Google’s use of the DART cookie enables it to serve ads to our users based on their visit to www.ilyke.net and other sites on the Internet.  
-• Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL -<http://www.google.com/privacy_ads.html>
+  * Cookies: Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers’ systems to recognize your browser and capture and remember certain information. We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. You can also opt out of cookies using the Network Advertising Initiative [opt-out page.](http://www.networkadvertising.org/choices/)
+  * Google Analytics: We use a tool called “Google Analytics” to collect information about use of the Service. Google Analytics collects information such as how often users visit the Service, what pages they visit when they do so, and other various data points to allow us to improve the Service. We do not combine the information collected through the use of Google Analytics with the Personally Identifiable Information provided by Users. Google’s ability to use and share information collected by Google Analytics about your visits to the Service is restricted by the [Google Analytics Terms of Services](http://www.google.com/analytics/terms/us.html) and the [Google Privacy Policy](http://www.google.com/policies/privacy/).  You can [prevent Google Analytics from recognizing you by updating cookie settings](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCghqZT5fsjkaXHWzWG0pFXyaw_arWCKgHCwA1wmLnKwloj2_U44nTZey7P8HTr1mM79FkLHazx5vK4kLCN9ODwKWwAYIWMJKtJD_obkYqS2EBtaydaTez8FgTmpk5-zYaF5f6JpRks9QwZqMa2c9gnLYxoR5JNsOZaVcbgXak_K_qFrmB8) or permanently using a [browser plugin](https://www.google.com/settings/ads/plugin).
+  * Google AdWords: This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to any of our websites. Of course, any data collected will be used in accordance with our own privacy policy and the [Google Privacy Policy](http://www.google.com/policies/privacy/). You can set preferences for how Google advertises to you using the [Google Ad Preferences page](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TChRnRneki4Okoyna6JyHLpzfKr3CJOMRId5_pcdg4KQBvrY6p1zvBapgaGEeX_y7pj6SP1PktnAHdUxnQRqVgp8nMVqmCKhXdU1z921WwS4IBg4019fR9ZdynnuUSYD9zby22TOHggKkObo1IJr_GvgoIhu4ND1aSMhJ3Fun1nYVF-tJKc), and if you want to you can [opt out of interest-based advertising entirely by cookie settings](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCghqZT5fsjkaXHWzWG0pFXyaw_arWCKgHCwA1wmLnKwloj2_U44nTZey7P8HTr1mM79FkLHazx5vK4kLCN9ODwKWwAYIWMJKtJD_obkYqS2EBtaydaTez8FgTmpk5-zYaF5f6JpRks9QwZqMa2c9gnLYxoR5JNsOZaVcbgXak_K_qFrmB8) or permanently using a [browser plugin](https://www.google.com/settings/ads/plugin).
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
 
-Google Adsense
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.ilyke.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+### THE USE OF THE COLLECTED DATA
 
-www.ilyke.net has no access to or control over these cookies that are used by third-party advertisers.
+The Data concerning the User is collected to allow us to improve our services, as well as for the following purposes: Contacting the User and Analytics.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.ilyke.net’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+We may use the data we collect or receive to communicate directly with you. We may also send you emails containing newsletters, updates or special information. If you do not wish to receive email messages, we will give you a clear option to opt out or update your preferences. We may also combine your Personal Identifiable Information with third-party analytics information to build a broader profile of our Users.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+### DO WE DISCLOSE ANY INFORMATION TO OUTSIDE PARTIES?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+### THIRD PARTY LINKS
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+### CALIFORNIA ONLINE PRIVACY PROTECTION ACT COMPLIANCE
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+### CHILDREN’S ONLINE PRIVACY PROTECTION ACT COMPLIANCE
+
+We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+### YOUR CONSENT
+
+By using our site, you consent to our website’s privacy policy.
+
+### CHANGES TO OUR PRIVACY POLICY
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+
+This policy was last modified on 7/12/2016
