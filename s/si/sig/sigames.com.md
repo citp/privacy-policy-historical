@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sigames.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907015314id_/http%3A//www.sega.co.uk/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sigames.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125212326id_/http%3A//www.sega.co.uk/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy | SEGA
 
@@ -129,7 +129,7 @@ We reserve the right to change this privacy policy at any time without notice, a
 
 If you have any questions about this privacy statement or the practices of this site, please contact SEGA:
 
-United Kingdom Customer services: 0870 010 8002 (national rate).
+United Kingdom Customer services: +44  870 010 8002 (national rate).
 
 For other, please visit Support section. You may also send mail to the following postal address:
 
