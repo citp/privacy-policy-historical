@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citigroup.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026164914id_/http%3A//www.citigroup.com/citi/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citigroup.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125023132id_/http%3A//www.citigroup.com/citi/privacy.html) for the most accurate reproduction.*
 
 # Citi | Privacy
 
@@ -26,7 +26,7 @@ When you visit our site, we gather non-personal information such as what browser
 
 In addition to the information described in the previous section, we may also gather personal information that you provide to us such as your name, address, phone number, and email address. Collecting this personal information enables us to offer you interactive online experiences, such as commenting on our blog or applying for a job within our company. 
 
-If we have received personal information from you, or have information that is publicly available from other sources, we may use it in combination with the information that Citi collects online. This information may be used as more specifically described on webpages where such combination may occur. Except as otherwise specified on any subsections within this website, such as the Careers and Alumni sections, Citi is the data controller for your personal information and any questions with respect to this privacy statement or how Citi handles personal information can be directed publicaffairs@citi.com.
+If we have received personal information from you, or have information that is publicly available from other sources, we may use it in combination with the information that Citi collects online. This information may be used as more specifically described on webpages where such combination may occur. Except as otherwise specified on any subsections within this website, such as the Careers and Alumni sections, Citi is the data controller for your personal information and any questions with respect to this privacy statement or how Citi handles personal information can be addressed in our [Contact Us](https://www.citigroup.com/citi/contact/privacy/form.htm) form.
 
 ## HOW DO WE USE THE INFORMATION WE COLLECT ON WEBPAGES WHERE YOU SEE THIS PRIVACY STATEMENT? 
 
@@ -53,7 +53,7 @@ Citi does not track user behavior on this website for the purposes of providing 
 
 ### Contact
 
-Any questions with respect to this privacy statement or how Citi handles personal information can be directed to publicaffairs@citi.com. 
+Any questions with respect to this privacy statement or how Citi handles personal information can be addressed in our [Contact Us](https://www.citigroup.com/citi/contact/privacy/form.htm) form. 
 
 ### Notice of Changes
 
