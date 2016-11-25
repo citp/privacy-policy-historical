@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qs.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417062510id_/http%3A//www.qs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qs.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125144844id_/http%3A//www.qs.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy | QS Quacquarelli Symonds Ltd
 
