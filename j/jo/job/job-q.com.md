@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the job-q.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325112020id_/https%3A//singapore.job-q.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job-q.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125144849id_/https%3A//singapore.job-q.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy Of Job-Q.com Singapore
 
@@ -15,4 +15,4 @@ Job-Q.com ("WEBSITE") takes privacy very seriously.
   4. We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, [click here](http://www.google.co.uk/privacy_ads.html). 
 
   
-Job-Q.com responsibilities and liabilities in safeguarding this privacy policy is stated in [Terms and Conditions](https://web.archive.org/web/20160325112020id_/https%3A//singapore.job-q.com/terms.php)
+Job-Q.com responsibilities and liabilities in safeguarding this privacy policy is stated in [Terms and Conditions](https://web.archive.org/web/20161125144849id_/https%3A//singapore.job-q.com/terms.php)
