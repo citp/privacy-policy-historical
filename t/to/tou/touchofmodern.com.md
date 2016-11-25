@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the touchofmodern.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410052413id_/https%3A//www.touchofmodern.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touchofmodern.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125110907id_/https%3A//www.touchofmodern.com/privacy) for the most accurate reproduction.*
 
-# Touch of Modern
+# Touch of Modern | Modern Products & Styles
 
 TouchOfModern, Inc. d/b/a Touch Of Modern (“we,” “us,” “our,” or “Company”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about how we use your personal information. By visiting, accessing or using the TouchOfModern.com website and domain name, and any other linked pages, features, content, or application services offered from time to time by Company in connection therewith (collectively, the “Website”), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
 
