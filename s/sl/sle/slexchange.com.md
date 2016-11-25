@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slexchange.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206000242id_/http%3A//secondlife.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slexchange.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125173908id_/http%3A//secondlife.com/corporate/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Linden Lab
 
