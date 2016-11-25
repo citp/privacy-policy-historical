@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the walesonline.co.uk privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503064701id_/http%3A//www.walesonline.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walesonline.co.uk privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125202410id_/http%3A//www.walesonline.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # WalesOnline: News, sport, weather and events from across Wales
-
-## Privacy Policy
 
 **IN RELATION TO ALL WEB SITE SERVICES OFFERED BY MEDIA WALES LIMITED HERE ON THIS WEB SITE**
 
