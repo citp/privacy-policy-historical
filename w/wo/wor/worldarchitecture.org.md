@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldarchitecture.org privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514060208id_/http%3A//worldarchitecture.org/svs/html/WA_Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldarchitecture.org privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125061357id_/http%3A//worldarchitecture.org/svs/html/WA_Privacy_Policy.htm) for the most accurate reproduction.*
 
 # 
 
