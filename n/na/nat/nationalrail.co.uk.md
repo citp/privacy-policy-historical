@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalrail.co.uk privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616051816id_/http%3A//www.nationalrail.co.uk/46389.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalrail.co.uk privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125234221id_/http%3A//www.nationalrail.co.uk/46389.aspx) for the most accurate reproduction.*
 
 # National Rail Enquiries - Privacy policy
 
