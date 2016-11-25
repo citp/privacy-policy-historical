@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the canadianoutages.com privacy policy that was archived on 2016-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160518092333id_/http%3A//canadianoutages.com/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the canadianoutages.com privacy policy that was archived on 2016-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161125125218id_/http%3A//canadianoutages.com/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
@@ -7,7 +7,7 @@
     <meta content="Realtime overview of issues and outages with all kinds of services. Having issues? We help you find out what is wrong." name="description">
     <meta content="523422240,700526189" property="fb:admins">
     <meta content="116781521799556" property="fb:app_id">
-    <meta content="2016-05-18T05:23:13.153045-04:00" name="generated">
+    <meta content="2016-11-25T07:52:19.667805-05:00" name="generated">
     <meta content="app-id=816223770" name="apple-itunes-app">
     <link href="/static/images/favicon.gif" type="image/gif" rel="shortcut icon">
     
@@ -26,19 +26,22 @@
       Canadian Outages
 
     </title>
-    <script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?v=3&amp;sensor=false&amp;libraries=visualization,adsense&amp;key=AIzaSyAAy4rJkjjMrrpMdIJ229PjWeNDC_5Idn8&amp;sensor=false"></script>
+    <script type="text/javascript" src="https://creatives.ancoraplatform.com/showad_7719a1c7.js" async=""></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.0.0/bootstrap.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
     <script src="https://cdn.downdetector.com/static/javascript/morris.min.js"></script>
     <script src="https://cdn.downdetector.com/static/javascript/jquery.infinitescroll.min.js"></script>
     <script src="https://cdn.downdetector.com/static/javascript/jquery.lazyload.min.js"></script>
+    <script src="https://cdn.downdetector.com/static/javascript/leaflet.min.js"></script>
+    <script src="https://cdn.downdetector.com/static/javascript/heatmap.min.js"></script>
+    <script src="https://cdn.downdetector.com/static/javascript/leaflet-heatmap.js"></script>
     
         <link href="https://cdn.downdetector.com/static/css/bootstrap.min.css" rel="stylesheet">
         <link href="https://cdn.downdetector.com/static/css/bootstrap-responsive.min.css" rel="stylesheet">
     
     <link href="https://cdn.downdetector.com/static/css/morris.css" rel="stylesheet">
     <link href="https://cdn.downdetector.com/static/css/default.css?rev=39" rel="stylesheet">
+    <link href="https://cdn.downdetector.com/static/css/leaflet.css" rel="stylesheet">
 
     
 <script type="text/javascript">
@@ -85,26 +88,37 @@
         var rectangle_size_bottom = [300,250];
         var ancora_site_id = '';
         var activate_ancora = false;
+        var activate_ancora_hb = false;
         var ancora_banner = '';
         var ancora_sidebar_top = '';
         var ancora_sidebar_bottom = '';
         var inline_top = '';
         var inline_bottom = '';
-
+        var rubicon_account_id = '12042';
+        var rubicon_site_id = '';
+        var rubicon_zone_id_top = '';
+        var rubicon_zone_id_bottom = '';
 
 // ]]>
 </script>
     <script type="text/javascript">// <![CDATA[
 
-console.log("adsense_only")
+console.log("ancora")
 console.log("ads CA")
-activate_ancora = false;
+activate_ancora = true;
+activate_ancora_hb = false;
 
 if (width <= 468){
     size = [[320, 50], [320, 100]];
     rectangle_size = [100,100];
-    inline_size = [[290,250],[300,251],[300,428],[290,428]];
-    inline_size_second = [[290,250]];
+    inline_size = [[290,250],[290,428],[300,251]];
+    inline_size_second = [[290,250],[290,428]];
+    var ancora_site_id = 414;
+    var ancora_banner = 27;
+    var ancora_sidebar_top = '';
+    var ancora_sidebar_bottom = '';
+    var inline_top = 43;
+    var inline_bottom = 44;
 }
 
 if (width <= 767 && width >= 468){
@@ -113,6 +127,12 @@ if (width <= 767 && width >= 468){
     rectangle_size_bottom = [[200,600],[200,200],[160,600],[120,600]];
     inline_size = [[468,250], [468,276]];
     inline_size_second = [[468,250]];
+    var ancora_site_id = 415;
+    var ancora_banner = 28;
+    var ancora_sidebar_top = 39;
+    var ancora_sidebar_bottom = 40;
+    var inline_top = 45;
+    var inline_bottom = 46;
 }
 
 if (width > 767 && width < 979) {
@@ -121,6 +141,12 @@ if (width > 767 && width < 979) {
     rectangle_size_bottom = [[200,600],[200,200],[160,600],[120,600]];
     inline_size = [[468,250], [468,276]];
     inline_size_second = [[468,250]];
+    var ancora_site_id = 416;
+    var ancora_banner = 30;
+    var ancora_sidebar_top = 31;
+    var ancora_sidebar_bottom = 32;
+    var inline_top = 47;
+    var inline_bottom = 48;
 }
 
 if (width > 979 && width < 1170) {
@@ -129,6 +155,12 @@ if (width > 979 && width < 1170) {
     rectangle_size_bottom = [[300,250],[300,600]];
     inline_size = [[620,250]];
     inline_size_second = [[620,250]];
+    var ancora_site_id = 417;
+    var ancora_banner = 33;
+    var ancora_sidebar_top = 34;
+    var ancora_sidebar_bottom = 35;
+    var inline_top = 49;
+    var inline_bottom = 50;
 }
 
 if (width >= 1200) {
@@ -137,13 +169,100 @@ if (width >= 1200) {
     rectangle_size_bottom = [[336,280],[300,250],[300,600]];
     inline_size = [[622,250], [770,250]];
     inline_size_second = [[622,250],[770,250]];
+    var ancora_site_id = 418;
+    var ancora_banner = 36;
+    var ancora_sidebar_top = 37;
+    var ancora_sidebar_bottom = 38;
+    var inline_top = 51;
+    var inline_bottom = 52;
 }
 // ]]></script>
 
 <script type="text/javascript">
 // <![CDATA[
+
+// ]]>
+</script>
+<script type="text/javascript">
+// <![CDATA[
+        ancora_banner_id = 'Ancora' + ancora_banner + '_' + ancora_site_id;
+        ancora_top_id = 'Ancora' + ancora_sidebar_top + '_' + ancora_site_id;
+        ancora_bottom_id = 'Ancora' + ancora_sidebar_bottom + '_' + ancora_site_id;
+
+        if (activate_ancora_hb){
+            src='http://creatives.ancoraplatform.com/ptphb_7719a1c7.js';
+
+            var adUnits = [{
+                code: ancora_banner_id,
+                sizes: size,
+                bids: [{
+                    bidder: 'rubicon',
+                    params: {
+                        accountId: rubicon_account_id,
+                        siteId: rubicon_site_id,
+                        zoneId: rubicon_zone_id_top
+                    }
+                }],
+            },
+            {
+                code: ancora_top_id,
+                sizes: rectangle_size,
+                bids: [{
+                    bidder: 'rubicon',
+                    params: {
+                        accountId: rubicon_account_id,
+                        siteId: rubicon_site_id,
+                        zoneId: rubicon_zone_id_top
+                    }
+                }],
+            },
+            {
+                code: ancora_bottom_id,
+                sizes: rectangle_size_bottom,
+                bids: [{
+                    bidder: 'rubicon',
+                    params: {
+                        accountId: rubicon_account_id,
+                        siteId: rubicon_site_id,
+                        zoneId: rubicon_zone_id_bottom
+                    }
+                }]
+            }];
+
+            (function(b){function f(){var d=this;d.stack={};d.displayAd=function(){};d.requestAds=function(a){var c=b[b.a];if(0===(a||{}).sectionId||(a||{})
+            .sectionId)try{c.requestAds.call(c,a)}catch(e){d.stack[a.sectionId+(a.instance?"_"+a.instance:"")]=a}};d.setGlobalCustomParams=function(a)
+            {var c=b[b.a];try{c.setGlobalCustomParams.call(c,a)}catch(e){d.globalCustomParams=a||{}}}}function g(b){var a=e.createElement("script")
+            ,c=e.getElementsByTagName("script")[0];a.type="text/javascript";a.src=b;a.async=!0;-1!==
+            navigator.userAgent.indexOf("Opera")?setTimeout(function(){c.parentNode.insertBefore(a,c)},0):c.parentNode.insertBefore(a,c)}var e=b
+            .document;try{b.__putPixel(200100)}catch(k){}b.a="__ASL__";var h=("https:"===e.location.protocol?"https:":"http:")+"//creatives.ancoraplatform.com/showad_7719a1c7.js";if("undefined"===typeof b.__ASL_LIB_LOADED){g(h);try{b.__putPixel(200200)}catch
+            (l){}}b.__ASL_LIB_LOADED=1;b["AncoraTagProvider"]=b["AncoraTagProvider"]||new f})(window);
+
+            try{
+              function sendAdserverRequest() {
+                 if (pbjs.adserverRequestSent) return;
+                 pbjs.adserverRequestSent = true;
+                 pbjs.que.push(function() {
+                    AncoraTagProvider.requestAds({sectionId: ancora_site_id, dmp: false, sync: false, prebidTargeting: pbjs.getAdserverTargeting()});
+                 });
+              }
+              pbjs.que.push(function() {
+                 pbjs.addAdUnits(adUnits);
+                 pbjs.requestBids({
+                    bidsBackHandler: sendAdserverRequest
+                 });
+              });
+              setTimeout(function() {
+                 sendAdserverRequest();
+              }, 700);
+            }catch(err){}
+        }
+
+// ]]>
+</script>
+<script type="text/javascript">
+// <![CDATA[
         googletag.cmd.push(function() {
-            if (!activate_ancora)
+            if (!activate_ancora && !activate_ancora_hb)
             {
                 googletag.defineSlot('/11637228/canadianoutages.ca-leaderboard', size, 'ad-leaderboard').addService(googletag.pubads().setTargeting('company', '').setTargeting('category', '')).setTargeting('width',size[0][0]).setTargeting('source', 'firstpass');
                  googletag.defineSlot('/11637228/canadianoutages.ca-rectangle-top', rectangle_size, 'mpu-ad-top').addService(googletag.pubads().setTargeting('company', '').setTargeting('category', '')).setTargeting('width',size[0][0]).setTargeting('source', 'firstpass');
@@ -418,10 +537,6 @@ if (width >= 1200) {
               |
 
             
-              <a href="http://nl.gameserveralert.com">nl.gameserveralert.com</a>
-              |
-
-            
               <a href="http://servizioallerta.it">servizioallerta.it</a>
               |
 
@@ -450,9 +565,11 @@ if (width >= 1200) {
 </script>
 <script type="text/javascript">
 // <![CDATA[
-        try{
-            AncoraTagProvider.requestAds({sectionId: ancora_site_id, dmp: false, sync: false});
-        }catch(err){};
+        if (activate_ancora){
+          try{
+              AncoraTagProvider.requestAds({sectionId: ancora_site_id, dmp: false, sync: false});
+          }catch(err){};
+        }
 
 // ]]>
 </script>
