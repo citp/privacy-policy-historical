@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prospectiv.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630105135id_/http%3A//www.prospectiv.com/Prospectiv_Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prospectiv.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125181103id_/http%3A//www.prospectiv.com/Prospectiv_Privacy.jsp) for the most accurate reproduction.*
 
 # Prospectiv - Online Marketing Services for Advertisers and Publishers
 
