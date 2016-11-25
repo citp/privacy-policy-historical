@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emeraldcitycomicon.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115232135id_/http%3A//www.emeraldcitycomicon.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emeraldcitycomicon.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125104359id_/http%3A//www.emeraldcitycomicon.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Emerald City Comicon
 
@@ -93,6 +93,10 @@ f_hash  | Feathr  | 2 Years  | Feathr is an analytics and digital marketing solu
 f_id  | Feathr  | 2 Years  | This is another Feathr cookie. It establishes a unique identification per user. It helps Feathr determine number of unique visitors to an RX site as well as to tailor marketing behavior by user.   
 f_opt_out  | Feathr  | 5 Years  | This is another Feathr cookie. It is set when you enable or disable a global opt-out of Feathr's behavioral tracking at <https://feathr.co/opt-out/>. If this cookie exists in the affirmative, all other Feathr cookies are either erased or ignored.   
   
+## Children’s Privacy
+
+We do not knowingly collect, use or disclose personal information from children under the age of 13 or target our site or services to children under 13.
+
 ## Policy Changes
 
 RX-US reserves the right to review and change this Policy. Policy changes may be made without prior notice to existing customers. Policy revisions only apply to information gathered as of the effective date of the revised policy, unless we give you notice and choice as to the changes in use, in which case all information is subject to the new policy.
