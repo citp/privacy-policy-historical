@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpsc.gov privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627200002id_/http%3A//www.cpsc.gov/en/About-CPSC/Policies-Statements-and-Directives/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpsc.gov privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125092310id_/https%3A//www.cpsc.gov/en/About-CPSC/Policies-Statements-and-Directives/Privacy-Policy) for the most accurate reproduction.*
 
 # CPSC Privacy and Security Notice | CPSC.gov
 
@@ -10,7 +10,7 @@ Images on this website may have been licensed for use by CPSC from a stock photo
 
 You may freely copy and distribute recall notices, including photographs of recalled items, without permission. Any other use of photographs found in recall notices and elsewhere on CPSC websites may require permission from a copyright holder.
 
-Submit further questions about the use of specific images or other materials using this [Contact Us](http://www.cpsc.gov/cgibin/info.aspx) form.
+Submit further questions about the use of specific images or other materials using this [Contact Us](https://web.archive.org/About-CPSC/Contact-Information/Contact-Specific-Offices-and-Public-Information/Information-Center/) form.
 
 ### Information Collected and Stored Automatically
 
@@ -138,4 +138,4 @@ Unauthorized attempts to upload information or change information on this servic
 
 ### Questions
 
-For any questions about this policy, please use this [Contact Form](http://www.cpsc.gov/cgibin/info.aspx).
+For any questions about this policy, please use this [Contact Form](https://web.archive.org/About-CPSC/Contact-Information/Contact-Specific-Offices-and-Public-Information/Information-Center/).
