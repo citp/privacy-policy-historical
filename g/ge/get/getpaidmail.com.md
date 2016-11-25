@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getpaidmail.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629192843id_/http%3A//www.getpaidmail.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpaidmail.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125100148id_/http%3A//www.getpaidmail.com/pages/privacy.php) for the most accurate reproduction.*
 
 # GetPaidMail.com
 
