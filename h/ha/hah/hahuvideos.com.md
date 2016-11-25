@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hahuvideos.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523012518id_/http%3A//www.hahuvideos.com/page.php%3Fp%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hahuvideos.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125043359id_/http%3A//www.hahuvideos.com/page.php%3Fp%3D4) for the most accurate reproduction.*
 
 # HahuVideos Privacy Policy
 
