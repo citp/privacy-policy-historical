@@ -1,65 +1,48 @@
-> *The following text is extracted and transformed from the removeem.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328110859id_/https%3A//www.removeem.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the removeem.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125165016id_/http%3A//www.removeem.com/privacy-policy) for the most accurate reproduction.*
 
-# Remove'em Privacy Policy
+# Privacy Policy - Remove'em | Professional Backlink Removal Tool
 
-### Privacy Policy
+### Our Commitment to Privacy…
 
-**_What information do we collect?_**
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information privacy policy practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-We collect information from you when you register on our site, place an order or fill out a form. 
+### The Information We Collect:
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or credit card information. You may, however, visit our site anonymously.
+This notice applies to all information collected or submitted on the Angular website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
-**_What do we use your information for?_**
+Your Name  
+Company Name  
+Email address  
+Phone number  
+Website URL  
+(etc.)
 
-Any of the information we collect from you may be used in one of the following ways: 
+### The Way We Use Information:
 
-To improve customer service: Your information helps us to more effectively respond to your customer service requests and support needs.
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
 
-To process transactions: Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-To send periodic emails: The email address you provide for order processing may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+We use non-identifying and aggregate information to better design our website. For example, we may discover that X number of individuals visited a certain area on our website, but we would not disclose or track anything that could be used to identify these individuals.
 
-**_How do we protect your information?_**
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+### Our Commitment To Data Security
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
+Our Commitment To Children’s Privacy:
 
-**_Do we use cookies?_**
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser, if you allow, that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to help us remember and process the items in your shopping cart.
+### How You Can Access Or Correct Your Information
 
-**_Do we disclose any information to outside parties?_**
+You can access all your personally identifiable information that we collect online and maintain by contacting us directly via phone or email. We use this procedure to better safeguard your information.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
 
-**_Third party links_**
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+### How To Contact Us
 
-**_California Online Privacy Protection Act Compliance_**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. Once logged into the service, you will be able to change your email address and name.
-
-**_Childrens Online Privacy Protection Act Compliance_**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-**_Online Privacy Policy Only_**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-**_Your Consent_**
-
-By using our site, you consent to this privacy policy.
-
-**_Changes to our Privacy Policy_**
-
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below.
-
-This policy was last modified on 05/24/2012
-
-This policy was powered by Trust Guard
+Should you have other questions or concerns about these privacy policies, please call us at 1-800-650-0820, send us an email at sales@removeem.com, or fill out our [contact form](https://web.archive.org/contact-us).
