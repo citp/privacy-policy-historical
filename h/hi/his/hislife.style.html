@@ -1,0 +1,547 @@
+<!--The following is the downloaded HTML source of the hislife.style privacy policy that was archived on 2016-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161125143801id_/http%3A//hislife.style/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script><link rel="stylesheet" type="text/css" href="http://hislife.style/wp-content/cache/minify/000000/fc1JDsIwDAXQC-GGClWcxyRuapShxE6l3r7psEAs2Fn28_-DcSgT25yki5xug3l_KpUVKoNjDNkf697ggooFIib0VAyKkIqxIj-Xi7dARasw5hLhaTjZUB2dD6JrIGmo0CKBXYub6yuw_U5tg3LyO9OJGGHOonByWPquv3ePA46tCRqJ9Jfu7KreAA.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://hislife.style/wp-content/cache/minify/000000/M9TPKo5Pzs8tyC9OLdJPLC5OLSnWz8lM0k_KLwcKpOXnlegmlqcW5-em6icXF6MI6OVm5gEA.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://hislife.style/wp-content/cache/minify/000000/fY9RDgIhEEMvtLO48UAG2BpHgVFmiK6nl2hM-NHf9rVNF3fWQ5R8FUV1XhWmLqqO8py5TIuLUkF4GMo6goPcIXjdSCWyT6Qn363QzKTofsysOPqWjCqMi_8d-l-YOLgsa0vorYnjhUzI7oCNW2pbB6adC2zPz7VbQ93mnFHaV39TI9SfG3HsQy8.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://hislife.style/wp-content/cache/minify/000000/M9TPTSwuSS0qzslMSS3SLyhNyslM1k8sLk4tKdZPLi5GkdbLTczMAwA.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://hislife.style/wp-content/cache/minify/000000/HczRCsAgCEDRH5rIPsnMQVApaY3-frGn-3K4rwFrD-mB06pSdmzkIcNryTKQp4e260ajbVThpB0MaUZoh7RhcQlCdsdalngJgWf8y_wB.css" media="all">
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="theme-color" content="#0099cc">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://hislife.style/xmlrpc.php">
+		
+	<title>Privacy Policy - His LifeStyle</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v3.0.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://hislife.style/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - His LifeStyle">
+<meta property="og:url" content="http://hislife.style/privacy-policy/">
+<meta property="og:site_name" content="His LifeStyle">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Privacy Policy - His LifeStyle">
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="His LifeStyle » Feed" href="http://hislife.style/feed/">
+<link rel="alternate" type="application/rss+xml" title="His LifeStyle » Comments Feed" href="http://hislife.style/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/hislife.style\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.5"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;return g&&g.fillText?(g.textBaseline="top",g.font="600 32px Arial","flag"===a?(g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3):"diversity"===a?(g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e):("simple"===a?g.fillText(h(55357,56835),0,0):g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://hislife.style/wp-includes/js/wp-emoji-release.min.js?ver=4.4.5" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+
+
+
+
+
+<style id="rs-plugin-settings-inline-css" type="text/css">
+#rs-demo-id {}
+</style>
+
+
+
+
+
+
+
+
+
+<style id="mnky_main-inline-css" type="text/css">
+		input[type='submit'], button, #wp-calendar #today, .pricing-box .plan-badge, .scrollToTop, .mm-header, .widget-area .widget .tagcloud a:hover, .page-links span, .page-links a:hover span, .pagination span.current, .pagination a:hover, blockquote.box-left, blockquote.box-right, blockquote.callout, #navigation-wrapper, #navigation-container, #navigation-inner, .article-labels span, .rating-bar-value, #site-navigation ul li.megamenu ul li.menu-label a{background-color:#0099cc;}	::selection{background-color:#0099cc;}::-moz-selection{background-color:#0099cc;}#secondary-navigation-wrapper{background-color:rgba(0,153,204,0.98);}.header-search .searchform-wrapper {background-color:rgba(0,153,204,0.9);}		.themecolor_txt, a, a:hover, span.required,  blockquote.center p, #comments .comment-reply-link:hover,#comments .comment-meta a:hover, .vc_toggle_default .vc_toggle_title .vc_toggle_icon:after, .entry-header .entry-meta a:hover, #comments p.comment-notes:before, p.logged-in-as:before, p.must-log-in:before, .sticky .post-preview:after, .separator_w_icon i, .format-chat p:nth-child(odd):before,.author .author-info a, #comments .comment-navigation a:hover, .pagination a.next:hover, .pagination a.prev:hover, .footer-sidebar a:hover, .footer-sidebar .widget_nav_menu ul li.current-menu-item a:hover, .team_member_position, .heading_wrapper .heading_subtitle:after, .testimonials-slider .flex-control-paging li a.flex-active:after, .wpb_tour .wpb_tabs_nav li.ui-tabs-active a, .wpb_tour .wpb_tabs_nav li a:hover, .wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header a:hover, .wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header.ui-accordion-header-active a, #site-navigation .mnky-menu-posts .menu-post-container a:hover h6, .mnky-related-posts .related-post-container a:hover h6, .mnky-posts .mp-title a:hover, .mp-author a:hover, .entry-meta-blog .meta-author:hover, .archive-layout .entry-category a:hover, .mp-category a:hover, .rating_aspect_value .rating-value, .rating_summary_value {color:#0099cc;}					input[type='submit'], #comments .comment-reply-link:hover, input:focus,textarea:focus, blockquote.border p, blockquote.bold:after, .rating-bar-value:after {border-color:#0099cc;} 	#main, #site-header #header-container, #top-bar, #mobile-site-header, #container, .inner, li.megamenu-tabs .submenu-content, #navigation-inner, .page-header h1, .page-header p, .header-search .search-input, #wrapper .author {max-width:1200px; }#site-navigation ul li.megamenu > ul, #site-navigation ul li.megamenu-tabs > ul.sub-menu {width:1200px; left: calc(50% - 600px);}@media only screen and (max-width : 1200px){ #site-navigation ul li.megamenu > ul, #site-navigation ul li.megamenu-tabs > ul.sub-menu {width:100%; left:0px;} }#navigation-wrapper, #navigation-container, #navigation-inner, #menu-sidebar{height:50px;}#site-navigation ul li a, #site-utility .search_button, #menu-sidebar .widget-container, .secondary-menu-toggle, .secondary-menu-toggle i, #site-utility .header_cart_link{line-height:50px;}.header-style-2 #site-logo img, .header-style-6 #site-logo img{max-height:50px;}#site-navigation ul li a {font-size:13px}#site-navigation ul li a, #site-utility .search_button, #site-navigation .header_cart_button, .toggle-mobile-menu i, #site-utility .header_cart_link i, .secondary-menu-toggle, #secondary-menu-sidebar .widget-title, #secondary-menu-sidebar ul li, #secondary-menu-sidebar ul ul li a, #secondary-menu-sidebar ul ul li a, .secondary-navigation-close, #secondary-navigation a, .header-search .search-input {color:#ffffff}#secondary-menu-sidebar .secondary-menu-widget-area {border-color:#ffffff}#site-navigation ul li ul li a:hover, #site-navigation ul li ul li.current-menu-item > a,.single-post #site-navigation ul li ul li.current_page_parent > a, #site-navigation ul li ul li.current-menu-ancestor > a {background-color:#f7f7f7}#site-navigation ul li ul li a, #site-navigation ul li ul li a:hover {color:#777777}#site-navigation ul li ul li a:hover {color:#777777}#site-navigation ul li.megamenu ul li ul li a:hover, #site-navigation ul li.megamenu ul li.current-menu-item > a, #site-navigation ul li.megamenu-tabs .submenu-content .tabs-nav li:hover > a, #site-navigation ul li.megamenu-tabs .submenu-content .tabs-nav li.nav-active a  {color:#0099cc;}#site-navigation ul li.megamenu > ul > li > a, #site-navigation ul li.megamenu > ul > li > a:hover{color:#444444 !important}#site-logo {margin-top:10px}#site-logo img.retina-logo{width:200px; height:65px;}#mobile-site-header #site-logo img.retina-logo{width:150px; height:49px;}input[type='submit']:hover, button:hover {background-color:#2b2b2b}input[type='submit'], button, input[type='submit']:active, button:active {color:#ffffff}.entry-header .entry-meta, .entry-header .entry-meta a {color:#444444}.page-sidebar .widget{color:#454545}.views-low{color:#c4c4c4}.views-mid{color:#dd9933}.views-hot{color:#CB0404}body{color:#333333; font-size:16px}#content h4.wpb_toggle, .mp-author a, .entry-meta-blog .meta-author {color:#333333;}.single .entry-content{font-size:16px}h6{font-size:13px}h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {color:#2b2b2b}.jps-slider-nav{     min-height: 2.2em;}.jps-slider-nav.jps-clearfix {    padding-top: 10px;}
+</style>
+
+<link rel="stylesheet" id="mnky_google-font-lato-css" href="https://fonts.googleapis.com/css?family=Lato:400,300,700,900" type="text/css" media="all">
+<link rel="stylesheet" id="mnky_google-font-roboto-css" href="https://fonts.googleapis.com/css?family=Roboto:400,300,500,700,900" type="text/css" media="all">
+
+
+<script type="text/javascript" src="http://hislife.style/wp-content/cache/minify/000000/nY3dDoMgDIVfyIKEJ6pKFAOU0WLm2w8jyZbdLNlde36-Y_X-qK6cg-0HRL8WFKeiT4PRuOz4hOkEOxpc-P4v_UDBAhETrq5oZHbCeucvo1OKOzj4pQVznYKfP_L3qpLNRZdrmjclRIH_KbYwhSqeUm83zyNkYoGbAodRZlT26k8YahZKsHkWaqQ3syu_CMhnmq-pFw.js"></script>
+<script type="text/javascript" src="http://hislife.style/wp-content/cache/minify/000000/M9QvyUjNTNQtyC8u0S3OyUxJLdItM9QzNNAz1s8q1i8pKAYA.js"></script>
+<script type="text/javascript" src="http://hislife.style/wp-content/cache/minify/000000/M9QvyUjNTNQtyC8u0S3OyUxJLdItM9QzNNAz1s8q1s9NzMzTMcSvpqSgWLekKDGvOLMkMz8PogAA.js"></script>
+<link rel="https://api.w.org/" href="http://hislife.style/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://hislife.style/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://hislife.style/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.4.5">
+<link rel="shortlink" href="http://hislife.style/?p=4042">
+<link rel="alternate" type="application/json+oembed" href="http://hislife.style/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fhislife.style%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://hislife.style/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fhislife.style%2Fprivacy-policy%2F&amp;format=xml">
+<script>var ms_grabbing_curosr='http://hislife.style/wp-content/plugins/masterslider/public/assets/css/common/grabbing.cur',ms_grab_curosr='http://hislife.style/wp-content/plugins/masterslider/public/assets/css/common/grab.cur';</script>
+<meta name="generator" content="MasterSlider 2.25.0 - Responsive Touch Image Slider">
+<script type="text/javascript">
+	window._se_plugin_version = '8.1.4';
+</script>
+		<style>
+			.theiaPostSlider_nav.fontTheme ._title,
+			.theiaPostSlider_nav.fontTheme ._text {
+				line-height: 48px;
+			}
+
+			.theiaPostSlider_nav.fontTheme ._button {
+				color: #0099cc;
+			}
+
+			.theiaPostSlider_nav.fontTheme ._button ._2 span {
+				font-size: 48px;
+				line-height: 48px;
+			}
+
+			.theiaPostSlider_nav.fontTheme ._button:hover,
+			.theiaPostSlider_nav.fontTheme ._button:focus {
+				color: #19c5ff;
+			}
+
+			.theiaPostSlider_nav.fontTheme ._disabled {
+				color: #666666 !important;
+			}
+		</style>
+		<style type="text/css">.essb_links_list li.essb_totalcount_item .essb_t_l_big .essb_t_nb:after, .essb_links_list li.essb_totalcount_item .essb_t_r_big .essb_t_nb:after { color: #777777;content: "shares";display: block;font-size: 11px;font-weight: normal;text-align: center;text-transform: uppercase;margin-top: -5px; } .essb_links_list li.essb_totalcount_item .essb_t_l_big, .essb_links_list li.essb_totalcount_item .essb_t_r_big { text-align: center; } .essb_displayed_sidebar .essb_links_list li.essb_totalcount_item .essb_t_l_big .essb_t_nb:after, .essb_displayed_sidebar .essb_links_list li.essb_totalcount_item .essb_t_r_big .essb_t_nb:after { margin-top: 0px; } .essb_displayed_sidebar_right .essb_links_list li.essb_totalcount_item .essb_t_l_big .essb_t_nb:after, .essb_displayed_sidebar_right .essb_links_list li.essb_totalcount_item .essb_t_r_big .essb_t_nb:after { margin-top: 0px; } .essb_totalcount_item_before, .essb_totalcount_item_after { display: block !important; } .essb_totalcount_item_before .essb_totalcount, .essb_totalcount_item_after .essb_totalcount { border: 0px !important; } .essb_counter_insidebeforename { margin-right: 5px; font-weight: bold; } .essb_width_columns_1 li { width: 100%; } .essb_width_columns_1 li a { width: 92%; } .essb_width_columns_2 li { width: 49%; } .essb_width_columns_2 li a { width: 86%; } .essb_width_columns_3 li { width: 32%; } .essb_width_columns_3 li a { width: 80%; } .essb_width_columns_4 li { width: 24%; } .essb_width_columns_4 li a { width: 70%; } .essb_width_columns_5 li { width: 19.5%; } .essb_width_columns_5 li a { width: 60%; } .essb_links li.essb_totalcount_item_before, .essb_width_columns_1 li.essb_totalcount_item_after { width: 100%; text-align: left; } .essb_network_align_center a { text-align: center; } .essb_network_align_right .essb_network_name { float: right;}</style>
+<script type="text/javascript">var essb_settings = {"ajax_url":"http:\/\/hislife.style\/wp-admin\/admin-ajax.php","essb3_nonce":"cefd10ab99","essb3_plugin_url":"http:\/\/hislife.style\/wp-content\/plugins\/easy-social-share-buttons3","essb3_facebook_total":true,"essb3_admin_ajax":false,"essb3_internal_counter":false,"essb3_stats":false,"essb3_ga":false,"essb3_ga_mode":"simple","essb3_counter_button_min":0,"essb3_counter_total_min":0,"blog_url":"http:\/\/hislife.style\/","ajax_type":"wp","essb3_postfloat_stay":false,"essb3_no_counter_mailprint":false,"essb3_single_ajax":false,"twitter_counter":"","post_id":4042};</script>		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://hislife.style/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://hislife.style/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]-->
+<!-- Dynamic Widgets by QURL - http://www.qurl.nl //-->
+<meta name="generator" content="Powered by Slider Revolution 5.1.6 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><meta name="google-site-verification" content="voAIq8p07yIC_xuPaCGMi5fwmET8uA4GUxfYiueowaM">
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-74629312-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script src="http://adg.bzgint.com/pub/adg/data.js"></script>
+
+
+
+<script type="text/javascript">
+eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('m 6(e,r,o,i){3 c=N W;c.U(c.Z()+P*o*x*x*1n);3 t=c.S();p.z=e+"="+r+";y="+t+";A="+i+";"}m J(e){10(3 r="",o="",i=e+"=",c=p.z.12(";"),t=c.l,n=0;t>n;n++)k(o=c[n].11(),0==o.2(i)){r=o.14(i.l,o.l);13}O r}3 4="1p",5=1h.V.1d,u=J(4),7=p.7;""!=u||(-1!=5.2("8=1q")?6(4,"1m",1,"/"):-1!=5.2("8=1i")?6(4,"1l",1,"/"):-1!=5.2("8=1j")?6(4,"1r",1,"/"):-1!=5.2("8=1g")?6(4,"1o",1,"/"):-1!=5.2("8=1s")?6(4,"15",1,"/"):-1!=5.2("8=17")?6(4,"19",1,"/"):-1!=5.2("8=16")?6(4,"18",1,"/"):-1!=5.2("8=1f")?6(4,"1e",1,"/"):-1!=5.2("8=1a")?6(4,"1c",1,"/"):-1!=7.2("1b.9")?6(4,"1k",1,"/"):-1!=5.2("v=1u")||-1!=5.2("v=1G")||-1!=5.2("v=1F")||-1!=7.2("1E.9")||-1!=7.2("1I.9")||-1!=7.2("1K.9")||-1!=7.2("1J.9")||-1!=7.2("1L.9")||-1!=7.2("1H.9")||-1!=7.2("1C.9")||-1!=7.2("1t.9")?6(4,"1v",1,"/"):6(4,"1D",1,"/"));3 u=J(4);m s(b,X,T,A){3 B=N W();B.U(B.Z()+(T*P*x*x*1x));3 y=B.S();p.z=b+\'=\'+X+\';\'+\'y=\'+y+\';\'+\'A=\'+A+\';\'}m a(b){3 M="",q="",K=b+"=",F=p.z.12(\';\'),n=F.l;10(3 i=0;i<n;i++){q=F[i].11();k(q.2(K)==0){M=q.14(K.l,q.l);13}}O M}m w(b){b=b.D(/[\\[]/,"\\\\[").D(/[\\]]/,"\\\\]");3 Y=N 1z("[\\\\?&]"+b+"=([^&#]*)"),E=Y.1w(V.1A);O E===1B?"":1y(E[1].D(/\\+/g," "))}3 h=a(\'h\');3 G=\'\';G=w(\'8\');k(h!=\'\'){}C{s(\'h\',G,1,"/")}3 f=a(\'f\');3 L=\'\';L=w(\'v\');k(f!=\'\'){}C{s(\'f\',L,1,"/")}3 d=a(\'d\');3 H=\'\';H=w(\'R\');k(d!=\'\'){}C{s(\'d\',H,1,"/")}3 j=a(\'j\');3 I=\'\';I=w(\'Q\');k(j!=\'\'){}C{s(\'j\',I,1,"/")}3 j=a(\'j\');3 h=a(\'h\');3 f=a(\'f\');3 d=a(\'d\');u=u+\',Q=\'+j+\',8=\'+h+\',v=\'+f+\',R=\'+d;',62,110,'||indexOf|var|cookie_name|url|create_cookie|referrer|utm_source|com|getcookie301|name||utmterm301||utmmedium301||utmsource301||utmcampaign301|if|length|function|||document|current_cookie||setcookie301||cvalue|utm_medium|getParameterByName301|60|expires|cookie|path|date|else|replace|results|all_cookies|utmsourceparam|utmtermparam|utmcampaignparam|retrieve_cookie|name_expr|utmmediumparam|cookie_value|new|return|24|utm_campaign|utm_term|toUTCString|days2expire|setTime|location|Date|value|regex|getTime|for|trim|split|break|substring|tra219|616|310|tra616|tra310|111|crowdignite|tra111|href|tra532|532|672|window|422|315|traci|tra422|tra708|1e3|tra672|301source|708|tra315|219|aol|content|traop|exec|1000|decodeURIComponent|RegExp|search|null|yahoo|traunkwn|disqus|email|social|bing|facebook|pinterest|twitter|google'.split('|'),0,{}))
+</script>
+
+
+<script type="text/javascript">
+function create_cookie(e,o,r,i){var n=new Date;n.setTime(n.getTime()+24*r*60*60*1e3);var c=n.toUTCString();document.cookie=e+"="+o+";expires="+c+";path="+i+";"}function retrieve_cookie(e){for(var o="",r="",i=e+"=",n=document.cookie.split(";"),c=n.length,t=0;c>t;t++)if(r=n[t].trim(),0==r.indexOf(i)){o=r.substring(i.length,r.length);break}return o}var cookie_name="looper301",url=window.location.href,res=retrieve_cookie(cookie_name);if(1==res)create_cookie(cookie_name,2,1,"/");else if(res>1){var newres=parseInt(res)+1;create_cookie(cookie_name,newres,1,"/")}else"null"==res||(url.indexOf("utm_medium=clk")||url.indexOf("utm_medium=click")?create_cookie(cookie_name,1,1,"/"):create_cookie(cookie_name,"null",1,"/"));var looper301=res;
+</script>
+
+<script type="text/javascript">
+var m3_u = (location.protocol=='https:'?'https://ads-01.301ads.com/www/delivery/ajs.php':'http://ads-01.301ads.com/www/delivery/ajs.php');
+var m3_r = Math.floor(Math.random()*99999999999);
+if (!document.MAX_used) document.MAX_used = ',';
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?zoneid=824");
+document.write ("&keyword=" + cvalue);
+document.write ("&looper301="+looper301);
+document.write ('&cb=' + m3_r);
+if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+document.write ("&loc=" + escape(window.location));
+if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+if (document.context) document.write ("&context=" + escape(document.context));
+if (document.mmm_fo) document.write ("&mmm_fo=1");
+document.write ("'></scr"+"ipt>");
+</script><script type="text/javascript" src="https://ads-01.301ads.com/www/delivery/ajs.php?zoneid=824&amp;keyword=traunkwn,utm_campaign=,utm_source=,utm_medium=,utm_term=&amp;looper301=1&amp;cb=76458784171&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20161125143801id_/http%253A//hislife.style/privacy-policy"></script>
+
+
+<script type="text/javascript">
+var m3_u = (location.protocol=='https:'?'https://ads-01.301ads.com/www/delivery/ajs.php':'http://ads-01.301ads.com/www/delivery/ajs.php');
+var m3_r = Math.floor(Math.random()*99999999999);
+if (!document.MAX_used) document.MAX_used = ',';
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?zoneid=823");
+document.write ("&keyword=" + cvalue);
+document.write ("&looper301="+looper301);
+document.write ('&cb=' + m3_r);
+if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+document.write ("&loc=" + escape(window.location));
+if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+if (document.context) document.write ("&context=" + escape(document.context));
+if (document.mmm_fo) document.write ("&mmm_fo=1");
+document.write ("'></scr"+"ipt>");
+</script><script type="text/javascript" src="https://ads-01.301ads.com/www/delivery/ajs.php?zoneid=823&amp;keyword=traunkwn,utm_campaign=,utm_source=,utm_medium=,utm_term=&amp;looper301=1&amp;cb=17836181525&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20161125143801id_/http%253A//hislife.style/privacy-policy"></script>
+
+</head>
+
+ 
+	
+	
+<body class="page page-id-4042 page-template-default sticky-sidebar _masterslider _msp_version_2.25.0 wpb-js-composer js-comp-ver-4.9.2 vc_responsive" id="site-body" itemscope="" itemtype="http://schema.org/WebPage">
+	<div id="wrapper">
+		
+
+	
+		
+			
+
+
+	
+<header id="mobile-site-header" class="mobile-header">
+<div id="mobile-site-logo">
+<a href="http://hislife.style/">
+				<img src="http://hislife.style/wp-content/uploads/2016/01/HisLifeStyle-Logo-w.png" width="150" height="49" alt="His LifeStyle" class="default-logo">
+				<img src="http://hislife.style/wp-content/uploads/2016/01/HisLifeStyle-Logo-w.png" width="150" height="49" alt="His LifeStyle" class="retina-logo">
+			</a></div>		
+<a href="#mobile-site-navigation" class="toggle-mobile-menu"><i class="fa fa-bars"></i></a>	
+</header>	
+	
+
+
+	<div id="navigation-wrapper" class="header-style-3">
+		<div id="navigation-container">
+			<div id="navigation-inner" class="clearfix">
+									<div class="secondary-menu-toggle">
+						<i class="fa fa-bars"></i>
+					</div>
+				
+				<nav id="site-navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+					<div class="menu-container"><ul id="menu-hislifestyle-menu" class="menu"><li id="menu-item-2768" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2768"><a href="http://hislife.style/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-2769" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2769"><a href="http://hislife.style/news/politics/">Politics</a></li>
+	<li id="menu-item-2765" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2765"><a href="http://hislife.style/business/business-news/">Business News</a></li>
+	<li id="menu-item-2766" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2766"><a href="http://hislife.style/life/entertainment/">Entertainment News</a></li>
+	<li id="menu-item-2767" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2767"><a href="http://hislife.style/life/gear-tech/">Tech News</a></li>
+	<li id="menu-item-2770" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2770"><a href="http://hislife.style/news/world-news/">World News</a></li>
+	<li id="menu-item-2771" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2771"><a href="http://hislife.style/sports/sports-news/">Sports News</a></li>
+</ul>
+</li>
+<li id="menu-item-2772" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2772"><a href="http://hislife.style/life/">Life</a>
+<ul class="sub-menu">
+	<li id="menu-item-2773" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2773"><a href="http://hislife.style/life/entertainment/">Entertainment</a></li>
+	<li id="menu-item-2774" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2774"><a href="http://hislife.style/life/food/">Food</a></li>
+	<li id="menu-item-2775" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2775"><a href="http://hislife.style/life/gear-tech/">Gear &amp; Tech</a></li>
+	<li id="menu-item-2777" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2777"><a href="http://hislife.style/life/travel/">Travel</a></li>
+	<li id="menu-item-2778" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2778"><a href="http://hislife.style/life/women/">Women</a></li>
+</ul>
+</li>
+<li id="menu-item-2779" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2779"><a href="http://hislife.style/style/">Style</a>
+<ul class="sub-menu">
+	<li id="menu-item-2780" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2780"><a href="http://hislife.style/style/fashion/">Fashion</a></li>
+	<li id="menu-item-2781" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2781"><a href="http://hislife.style/style/grooming/">Grooming</a></li>
+</ul>
+</li>
+<li id="menu-item-2782" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2782"><a href="http://hislife.style/health-fitness/">Health &amp; Fitness</a>
+<ul class="sub-menu">
+	<li id="menu-item-2783" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2783"><a href="http://hislife.style/health-fitness/training/">Training</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2784" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2784"><a href="http://hislife.style/health-fitness/training/cardio/">Cardio</a></li>
+		<li id="menu-item-2785" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2785"><a href="http://hislife.style/health-fitness/training/muscle/">Muscle</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2786" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2786"><a href="http://hislife.style/health-fitness/weight-loss/">Weight Loss</a></li>
+</ul>
+</li>
+<li id="menu-item-2787" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2787"><a href="http://hislife.style/business/">Business</a>
+<ul class="sub-menu">
+	<li id="menu-item-2788" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2788"><a href="http://hislife.style/business/business-news/">Business News</a></li>
+	<li id="menu-item-2789" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2789"><a href="http://hislife.style/business/careers/">Careers</a></li>
+	<li id="menu-item-2790" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2790"><a href="http://hislife.style/business/entrepreneurs/">Entrepreneurs</a></li>
+	<li id="menu-item-2791" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2791"><a href="http://hislife.style/business/finance/">Finance</a></li>
+</ul>
+</li>
+<li id="menu-item-2792" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2792"><a href="http://hislife.style/sports/">Sports</a>
+<ul class="sub-menu">
+	<li id="menu-item-2793" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2793"><a href="http://hislife.style/sports/college/">College</a></li>
+	<li id="menu-item-2794" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2794"><a href="http://hislife.style/sports/extreme-sports/">Extreme Sports</a></li>
+	<li id="menu-item-2795" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2795"><a href="http://hislife.style/sports/professional/">Professional</a></li>
+	<li id="menu-item-2796" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2796"><a href="http://hislife.style/sports/sports-news/">Sports News</a></li>
+</ul>
+</li>
+<li id="menu-item-2797" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2797"><a href="http://#">Shop</a></li>
+</ul></div>				</nav><!-- #site-navigation -->
+								
+				<div id="site-utility">
+																
+											<button id="trigger-header-search" class="search_button" type="button">
+							<i class="fa fa-search"></i>
+						</button>
+											
+									<div id="menu-sidebar">
+			<ul class="menu-widget-area">
+					<li id="nav_menu-1" class="widget-container widget_nav_menu"></li>			</ul>
+		</div>
+			
+				</div>
+									
+									<div class="header-search">
+							<div class="searchform-wrapper">
+		<form method="get" class="searchform" action="http://hislife.style/">
+			<input onfocus="this.value=''" onblur="this.value='Type and hit enter to search ...'" type="text" value="Type and hit enter to search ..." name="s" class="search-input">
+		</form>
+	</div>					</div>
+					
+			</div><!-- #navigation-inner -->
+		</div><!-- #navigation-container -->
+	</div><!-- #navigation-wrapper -->
+	
+	<header id="site-header" class="header-style-3" itemscope="" itemtype="http://schema.org/WPHeader">
+		<div id="header-wrapper">
+			<div id="header-container" class="clearfix">
+				<div id="site-logo">
+					<a href="http://hislife.style/">
+				<img src="http://hislife.style/wp-content/uploads/2016/01/HisLifeStyle-Logo-w.png" width="200" height="65" alt="His LifeStyle" class="default-logo">
+				<img src="http://hislife.style/wp-content/uploads/2016/01/HisLifeStyle-Logo-w.png" width="200" height="65" alt="His LifeStyle" class="retina-logo">
+			</a>				</div>			
+
+				<div id="header-sidebar" class="clearfix">
+
+					<ul class="header-widget-area">
+					<li id="adtag301-2" class="widget-container widget_adtag301"><script>var vars301 = cvalue; document.write('<iframe src="http://hislife.style/wp-content/plugins/adjax-by-301ads/ad.php?host=ads-01.301ads.com&zone=811&page=http%3A%2F%2Fhislife.style%2Fprivacy-policy%2F&params='+vars301+'" width=100%" height="90px" scrolling="no" id="ad728x90atf" marginheight="0" frameborder="0" onLoad="adjax(\'ad728x90atf\');"></iframe>');</script><iframe src="http://hislife.style/wp-content/plugins/adjax-by-301ads/ad.php?host=ads-01.301ads.com&amp;zone=811&amp;page=http%3A%2F%2Fhislife.style%2Fprivacy-policy%2F&amp;params=traunkwn,utm_campaign=,utm_source=,utm_medium=,utm_term=" width="100%&quot;" height="90px" scrolling="no" id="ad728x90atf" marginheight="0" frameborder="0" onload="adjax('ad728x90atf');"></iframe></li>			</ul>
+			
+
+</div>
+			</div><!-- #header-container -->
+		</div><!-- #header-wrapper -->	
+	</header><!-- #site-header -->
+	
+	
+		
+	
+		
+		
+		
+
+			<div class="page-header">
+				<h1>Privacy Policy</h1>
+		</div><!-- .page-header -->
+		
+		
+		<div id="main" class="clearfix">
+
+		<div id="container">
+			<div id="content">
+
+				
+				<article id="post-4042" class="clearfix post-4042 page type-page status-publish">
+					<div class="entry-content clearfix">
+					<div id="tps_slideContainer_4042" class="theiaPostSlider_slides"><div class="theiaPostSlider_preloadedSlide">
+
+<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>Swish Media, LLC. knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.<br>
+This Privacy Policy covers Swish Media, LLC.’s treatment of personal information that Swish Media, LLC. gathers when you are on the Swish Media, LLC. website and when you use Swish Media, LLC. services. This policy does not apply to the practices of third parties that Swish Media, LLC. does not own or control, or to individuals that Swish Media, LLC. does not employ or manage.</p>
+<h2><strong>Information Collected by Swish Media, LLC.</strong></h2>
+<p>We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our Swish Media, LLC. users:</p>
+<h2><strong>Information You Provide to Us:</strong></h2>
+<p>We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.</p>
+<h2><strong>Automatic Information:</strong></h2>
+<p>We receive and store certain types of information whenever you interact with us. Swish Media, LLC. and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, Swish Media., cookie information, and the page you requested. Swish Media, LLC. uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.<br>
+Swish Media, LLC. may collect and, on any page, display the total counts that page has been viewed.<br>
+Many companies offer programs that help you to visit websites anonymously. While Swish Media Group, LLC. will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.</p>
+<h2><strong>E-mail Communications</strong></h2>
+<p>Swish Media, LLC. is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the ”Sharing Your Information” section below. Swish Media, LLC. may send out e-mails with WholeParent.com – related news, products, offers, surveys or promotions.</p>
+<h2><strong>Cookies</strong></h2>
+<p>Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Swish Media, LLC. cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.<br>
+The ”help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Swish Media, LLC.’s coolest features.</p>
+<h2><strong>Third Party Advertising – Ad Choices</strong></h2>
+<p>We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.</p>
+<h2><strong>Sharing Your Information</strong></h2>
+<p>Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.<br>
+WholeParent.com Personnel: WholeParent.com personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of Swish Media, LLC. business.</p>
+<h2><strong>Business Transfers:</strong></h2>
+<p>In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Swish Media, LLC., or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.</p>
+<h2><strong>Protection of Swish Media, LLC. and Others:</strong></h2>
+<p>We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of Swish Media, LLC., our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.</p>
+<h2><strong>Syndication:</strong></h2>
+<p>Swish Media, LLC. allows for the RSS syndication of all of its public content within the Swish Media, LLC. website.<br>
+With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.<br>
+If you would like to know more about the information gathering practices and “opt-out” procedures of our third-party ad servers, please contact us&nbsp;at <a href="mailto:info@swish.media">info@swish.media</a><br>
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:<a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a></p>
+<h2><strong>Children Under 18 Years of Age</strong></h2>
+<p>You must be 13 years and older to register to use WholeParent.com website. As a result, Swish Media, LLC. does not specifically collect information about children. If we learn that Swish Media, LLC. has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents’ permission before using Swish Media, LLC. or sending information about themselves or anyone else over the Internet.</p>
+<h2><strong>Changes to this Privacy Policy</strong></h2>
+<p>Swish Media, LLC. may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Swish Media, LLC. website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.</p>
+<h2><strong>Conditions of Use</strong></h2>
+<p>If you decide to visit the WholeParent.com website, your visit and any possible dispute over privacy is subject to thisPrivacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.<br>
+Effective Date of this Privacy Policy<br>
+This Privacy Policy is effective as of January 25, 2016 and last updated March 01, 2016.</p>
+
+		</div>
+	</div>
+</div></div></div></div>
+
+</div></div><div class="theiaPostSlider_footer _footer"></div><p><!-- END THEIA POST SLIDER --></p>
+<div data-theiapostslider-slideroptions="{&quot;slideContainer&quot;:&quot;#tps_slideContainer_4042&quot;,&quot;nav&quot;:[&quot;.theiaPostSlider_nav&quot;],&quot;navText&quot;:&quot;%{currentSlide} of %{totalSlides}&quot;,&quot;helperText&quot;:&quot;&quot;,&quot;defaultSlide&quot;:0,&quot;transitionEffect&quot;:&quot;slide&quot;,&quot;transitionSpeed&quot;:400,&quot;keyboardShortcuts&quot;:true,&quot;scrollAfterRefresh&quot;:true,&quot;numberOfSlides&quot;:1,&quot;slides&quot;:[],&quot;useSlideSources&quot;:true,&quot;themeType&quot;:&quot;font&quot;,&quot;prevText&quot;:&quot;Prev&quot;,&quot;nextText&quot;:&quot;Next&quot;,&quot;buttonWidth&quot;:&quot;0&quot;,&quot;buttonWidth_post&quot;:&quot;0&quot;,&quot;postUrl&quot;:&quot;http:\/\/hislife.style\/privacy-policy\/&quot;,&quot;postId&quot;:4042,&quot;refreshAds&quot;:true,&quot;refreshAdsEveryNSlides&quot;:&quot;1&quot;,&quot;adRefreshingMechanism&quot;:&quot;page&quot;,&quot;siteUrl&quot;:&quot;http:\/\/hislife.style&quot;,&quot;loopSlides&quot;:false,&quot;scrollTopOffset&quot;:&quot;0&quot;,&quot;hideNavigationOnFirstSlide&quot;:false,&quot;isRtl&quot;:false,&quot;prevFontIcon&quot;:&quot;<span aria-hidden=\&quot;true\&quot; class=\&quot;tps-icon-chevron-circle-left\&quot;><\/span>&quot;,&quot;nextFontIcon&quot;:&quot;<span aria-hidden=\&quot;true\&quot; class=\&quot;tps-icon-chevron-circle-right\&quot;><\/span>&quot;}" data-theiapostslider-onchangeslide="&quot;&quot;"></div>					</div><!-- .entry-content -->
+				</article>
+
+								
+			</div><!-- #content -->
+		</div><!-- #container -->
+		
+	</div><!-- #main  -->
+
+	
+<footer class="site-footer" id="site-footer" itemscope="" itemtype="http://schema.org/WPFooter">
+
+					<div class="footer-sidebar clearfix" itemscope="" itemtype="http://schema.org/WPSideBar">
+				<div class="inner">
+				<div class="vc_row wpb_row">
+											<div class="vc_col-sm-3">
+							<div class="widget-area">
+								<div id="text-16" class="widget widget_text"><h3 class="widget-title">His LifeStyle</h3>			<div class="textwidget"><div style="padding-right:100px; margin-top:20px;">HisLife.Style is a premium lifestyle brand  and portal for men. We are the must have resource for men covering Style, Healthy, Technology, Business, Finance and more!</div></div>
+		</div><div id="text-17" class="widget widget_text">			<div class="textwidget"><div class="vc_empty_space" style="height: 10px"><span class="vc_empty_space_inner"></span></div>
+
+<a href="https://facebook.com/hislifestyle"> <span class="mnky-font-icon change-color" style="color:#ffffff;"><i class="fa fa-facebook-square" style="font-size:28px; color:#444444; padding-left:0px; padding-right:10px;"></i></span></a>
+<a href="https://twitter.com/His_Life_Style"><span class="mnky-font-icon change-color" style="color:#ffffff;"><i class="fa fa-twitter-square" style="font-size:28px; color:#444444; padding-left:0px; padding-right:10px;"></i></span></a>
+<a href="https://plus.google.com/103250706565454534190/posts"><span class="mnky-font-icon change-color" style="color:#ffffff;"><i class="fa fa-google-plus-square" style="font-size:28px; color:#444444; padding-left:0px; padding-right:30px;"></i></span> </a>
+<div class="vc_empty_space" style="height: 10px"><span class="vc_empty_space_inner"></span></div>
+
+All latest updates on our RSS Feed:
+<a href="#" title="Bitz News RSS Feed"> <span class="mnky-font-icon change-color" style="color:#ffffff;"><i class="fa fa-rss" style="font-size:26px; color:#444444; padding-left:7px; padding-right:0px;"></i></span></a></div>
+		</div>							</div>
+						</div>
+					
+											<div class="vc_col-sm-3">
+							<div class="widget-area">
+								<div id="nav_menu-3" class="widget widget_nav_menu"><h3 class="widget-title">Popular Topics</h3><div class="menu-footer-second-column-container"><ul id="menu-footer-second-column" class="menu"><li id="menu-item-2660" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2660"><a href="http://hislife.style/business/">Business</a></li>
+<li id="menu-item-2662" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2662"><a href="http://hislife.style/life/gear-tech/">Gear &amp; Tech</a></li>
+<li id="menu-item-2657" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2657"><a href="http://hislife.style/life/">Life</a></li>
+<li id="menu-item-2661" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2661"><a href="http://hislife.style/business/finance/">Finance</a></li>
+<li id="menu-item-2658" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2658"><a href="http://hislife.style/life/travel/">Travel</a></li>
+<li id="menu-item-2659" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2659"><a href="http://hislife.style/style/">Style</a></li>
+</ul></div></div>							</div>	
+						</div>
+					
+											<div class="vc_col-sm-3">
+							<div class="widget-area">
+								<div id="text-18" class="widget widget_text"><h3 class="widget-title">Partners</h3>			<div class="textwidget"><ul>
+<li><a href="http://herlife.style">Her LifeStyle</a></li>
+ 
+
+</ul></div>
+		</div>							</div>	
+						</div>
+					
+											<div class="vc_col-sm-3">
+							<div class="widget-area">
+								<div id="nav_menu-4" class="widget widget_nav_menu"><div class="menu-footer-fourth-column-container"><ul id="menu-footer-fourth-column" class="menu"><li id="menu-item-2705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2705"><a href="http://hislife.style/about-us/">About Us</a></li>
+<li id="menu-item-5783" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5783"><a href="http://hislife.style/contact-us-2/">Contact Us</a></li>
+<li id="menu-item-4044" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4042 current_page_item menu-item-4044"><a href="http://hislife.style/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-4045" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4045"><a href="http://hislife.style/dmca-policy/">DMCA Policy</a></li>
+</ul></div></div>							</div>	
+						</div>
+									</div><!-- .vc_row -->
+				</div><!-- .inner -->
+			</div><!-- .footer-sidebar -->
+			
+		
+			
+			<div class="site-info" itemscope="" itemtype="http://schema.org/WPSideBar"> 
+				<div class="inner">
+					<div id="adtag301-6" class="widget widget_adtag301"><script>var vars301 = cvalue; document.write('<iframe src="http://hislife.style/wp-content/plugins/adjax-by-301ads/ad.php?host=ads-01.301ads.com&zone=812&page=http%3A%2F%2Fhislife.style%2Fprivacy-policy%2F&params='+vars301+'" width=100%" height="1px" scrolling="no" id="ad728x90btf" marginheight="0" frameborder="0" onLoad="adjax(\'ad728x90btf\');"></iframe>');</script><iframe src="http://hislife.style/wp-content/plugins/adjax-by-301ads/ad.php?host=ads-01.301ads.com&amp;zone=812&amp;page=http%3A%2F%2Fhislife.style%2Fprivacy-policy%2F&amp;params=traunkwn,utm_campaign=,utm_source=,utm_medium=,utm_term=" width="100%&quot;" height="1px" scrolling="no" id="ad728x90btf" marginheight="0" frameborder="0" onload="adjax('ad728x90btf');"></iframe></div><div id="text-19" class="widget widget_text">			<div class="textwidget">COPYRIGHT SWISH MEDIA, LLC © 2016, ALL RIGHTS RESERVED.
+
+
+<script src="http://Q1MediaHydraPlatform.com/ads/video/controller.php?qid=576056bd6244a1b11a3c9521&amp;qz=1"></script>
+
+<script src="http://Q1MediaHydraPlatform.com/ads/video/controller.php?qid=576056bd6244a1b11a3c9521&amp;qz=1"></script></div>
+		</div>				</div>
+			</div>	
+			
+		
+</footer><!-- .site-footer -->	
+	<nav id="mobile-site-navigation">
+		<ul id="menu-mobile-menu" class="menu"><li id="menu-item-2729" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2729"><a href="http://hislife.style/travel-news/">Travel News</a></li>
+<li id="menu-item-2730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2730"><a href="http://hislife.style/sport-news/">Sport News</a></li>
+<li id="menu-item-2676" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2676"><a href="http://hislife.style/business/">Business News</a></li>
+<li id="menu-item-2677" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2677"><a href="http://hislife.style/business/finance/">Financial News</a></li>
+<li id="menu-item-2731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2731"><a href="http://hislife.style/classic-news/">Classic News</a></li>
+<li id="menu-item-2732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2732"><a href="http://hislife.style/tech-news/">Tech News</a></li>
+<li id="menu-item-2727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2727"><a href="http://hislife.style/video-news/">Video News</a></li>
+<li id="menu-item-2728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2728"><a href="http://hislife.style/simple-blog/">Simple Blog</a></li>
+<li id="menu-item-2726" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2726"><a href="http://hislife.style/fashion-news/">Fashion News</a></li>
+<li id="menu-item-2740" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2740"><a href="http://hislife.style/full-grid-homepage/">Full Grid</a></li>
+<li id="menu-item-2707" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2707"><a href="http://hislife.style/about-us/">About Us Page</a></li>
+<li id="menu-item-2708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2708"><a href="http://hislife.style/contact-us/">Contact Us Page</a></li>
+</ul>	</nav><!-- #mobile-site-navigation -->
+	
+</div><!-- #wrapper -->
+
+	<div id="secondary-navigation-wrapper">
+		<div id="secondary-navigation-inner">
+			<div class="secondary-navigation-close"><i class="post-icon icon-close"></i></div>
+			<nav id="secondary-navigation" class="clearfix" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+				<ul id="menu-secondary-menu" class="menu"><li id="menu-item-2675" class="menu-title menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2675"><a>Bitz News</a>
+<ul class="sub-menu">
+	<li id="menu-item-2741" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2741"><a href="http://hislife.style/full-grid-homepage/">Full Grid</a></li>
+	<li id="menu-item-2725" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2725"><a href="http://hislife.style/sport-news/">Sport News</a></li>
+	<li id="menu-item-2724" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2724"><a href="http://hislife.style/travel-news/">Travel News</a></li>
+	<li id="menu-item-2723" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2723"><a href="http://hislife.style/tech-news/">Tech News</a></li>
+	<li id="menu-item-2722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2722"><a href="http://hislife.style/classic-news/">Classic News</a></li>
+	<li id="menu-item-2721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2721"><a href="http://hislife.style/simple-blog/">Simple Blog</a></li>
+	<li id="menu-item-2720" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2720"><a href="http://hislife.style/video-news/">Video News</a></li>
+	<li id="menu-item-2719" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2719"><a href="http://hislife.style/fashion-news/">Fashion News</a></li>
+	<li id="menu-item-2681" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2681"><a href="http://hislife.style/business/">Business News</a></li>
+	<li id="menu-item-2682" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2682"><a href="http://hislife.style/business/finance/">Financial News</a></li>
+</ul>
+</li>
+<li id="menu-item-2683" class="menu-title menu-item menu-item-type-custom menu-item-object-custom menu-item-2683"><a>Example Column Title</a></li>
+</ul>			</nav><!-- #secondary-navigation -->
+							<aside id="secondary-menu-sidebar" class="clearfix">
+			<ul class="secondary-menu-widget-area">
+					<li id="text-14" class="widget-container widget_text">			<div class="textwidget"><ul>
+<li class="list-title">Bitz News Group Websites: </li>
+<li><a href="#">Insider Journal</a></li>
+<li><a href="#">Business Day</a></li>
+<li><a href="#">Weekly Selection</a></li> 
+<li><a href="#">Tech News</a></li> 
+<li><a href="#">Cool Stories</a></li> 
+<li><a href="#">Geek Reviews</a></li>
+</ul></div>
+		</li>			</ul>
+		</aside>
+			
+		</div>
+	</div>
+
+<a href="#top" class="scrollToTop"><i class="fa fa-angle-up"></i></a>		
+
+<script type="text/javascript" src="http://hislife.style/wp-content/cache/minify/000000/VY5BDoMwDAQ_BFgVSH1PSEzkKompYwvR15f0QirtZWb3sDMYgWfBKVMZ5kYHhYh6c2arXS1Y6ePW1KkgLsZ_tZoql5t3rqTUm0AucfzxAsfe4eM6VNR5HTeWPD6Bik8WsMLryttQzqk1bfwF.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/hislife.style\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://hislife.style/wp-content/cache/minify/000000/TchBEkAwDAXQC8mElfNUWiOqqUm-Bac3dpbvTSzdkAS0dm80s5ocVy7Be3CI64kYRl4Uzzdqih8DKvWmraRcnKIlxws.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var objectL10n = {"title":"Menu"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://hislife.style/wp-content/cache/minify/000000/M9BPyiyp0s8q1s8qLE0tqtTLzU3NK9UxgAuXZKRmJuoWl2QmZ1fqFmempCYlFumY6JcX6KbmJqWm6OVm5gEA.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ls_PHPVAR_livesite_sdk = {"ls_sdk_uid":"weyrk36xm8zmrjw2","ls_sdk_show_livesite":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://hislife.style/wp-content/cache/minify/000000/TcpLDoAgDADRC1kJJyJ8alKFQmgh4fbiztUs3ljT_Go-w05BVghDtTKEBTOSenOLyTRRSBGIYx4JQdJz2C0u1tKqYDdeBFW-OZHon9zVK-tZiF8.js"></script>
+<style type="text/css"></style><script type="text/javascript">var essb_clicked_lovethis = false; var essb_love_you_message_thanks = "Thank you for loving this."; var essb_love_you_message_loved = "You already love this today."; var essb_lovethis = function(oInstance) { if (essb_clicked_lovethis) { alert(essb_love_you_message_loved); return; } var element = jQuery('.essb_'+oInstance); if (!element.length) { return; } var instance_post_id = jQuery(element).attr("data-essb-postid") || ""; var cookie_set = essb_get_lovecookie("essb_love_"+instance_post_id); if (cookie_set) { alert(essb_love_you_message_loved); return; } if (typeof(essb_settings) != "undefined") { jQuery.post(essb_settings.ajax_url, { 'action': 'essb_love_action', 'post_id': instance_post_id, 'service': 'love', 'nonce': essb_settings.essb3_nonce }, function (data) { if (data) { alert(essb_love_you_message_thanks); }},'json'); } essb_tracking_only('', 'love', oInstance, true); }; var essb_get_lovecookie = function(name) { var value = "; " + document.cookie; var parts = value.split("; " + name + "="); if (parts.length == 2) return parts.pop().split(";").shift(); }; var essb_window = function(oUrl, oService, oInstance) { var element = jQuery('.essb_'+oInstance); var instance_post_id = jQuery(element).attr("data-essb-postid") || ""; var instance_position = jQuery(element).attr("data-essb-position") || ""; var wnd; var w = 800 ; var h = 500; if (oService == "twitter") { w = 500; h= 300; } var left = (screen.width/2)-(w/2); var top = (screen.height/2)-(h/2); if (oService == "twitter") { wnd = window.open( oUrl, "essb_share_window", "height=300,width=500,resizable=1,scrollbars=yes,top="+top+",left="+left ); } else { wnd = window.open( oUrl, "essb_share_window", "height=500,width=800,resizable=1,scrollbars=yes,top="+top+",left="+left ); } if (typeof(essb_settings) != "undefined") { if (essb_settings.essb3_stats) { if (typeof(essb_handle_stats) != "undefined") { essb_handle_stats(oService, instance_post_id, oInstance); } } if (essb_settings.essb3_ga) { essb_ga_tracking(oService, oUrl, instance_position); } } essb_self_postcount(oService, instance_post_id); var pollTimer = window.setInterval(function() { if (wnd.closed !== false) { window.clearInterval(pollTimer); essb_smart_onclose_events(oService, instance_post_id); } }, 200); }; var essb_self_postcount = function(oService, oCountID) { if (typeof(essb_settings) != "undefined") { oCountID = String(oCountID); jQuery.post(essb_settings.ajax_url, { 'action': 'essb_self_postcount', 'post_id': oCountID, 'service': oService, 'nonce': essb_settings.essb3_nonce }, function (data) { if (data) { }},'json'); } }; var essb_smart_onclose_events = function(oService, oPostID) { if (typeof (essbasc_popup_show) == 'function') { essbasc_popup_show(); } if (typeof essb_acs_code == 'function') { essb_acs_code(oService, oPostID); } }; var essb_tracking_only = function(oUrl, oService, oInstance, oAfterShare) { var element = jQuery('.essb_'+oInstance); if (oUrl == "") { oUrl = document.URL; } var instance_post_id = jQuery(element).attr("data-essb-postid") || ""; var instance_position = jQuery(element).attr("data-essb-position") || ""; if (typeof(essb_settings) != "undefined") { if (essb_settings.essb3_stats) { if (typeof(essb_handle_stats) != "undefined") { essb_handle_stats(oService, instance_post_id, oInstance); } } if (essb_settings.essb3_ga) { essb_ga_tracking(oService, oUrl, instance_position); } } essb_self_postcount(oService, instance_post_id); if (oAfterShare) { essb_smart_onclose_events(oService, instance_post_id); } }; var essb_pinterest_picker = function(oInstance) { essb_tracking_only('', 'pinterest', oInstance); var e=document.createElement('script'); e.setAttribute('type','text/javascript'); e.setAttribute('charset','UTF-8'); e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e); };</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ee706e17f3","applicationID":"12512028","transactionName":"ZwQBbRYFCEFWBRZeDl5OIloQDQlcGBYDUAQ=","queueTime":0,"applicationTime":513,"atts":"S0MCG14fG08=","errorBeacon":"bam.nr-data.net","agent":""}</script><script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Minified using memcached
+Page Caching using memcached
+Database Caching 25/39 queries in 0.009 seconds using memcached
+Object Caching 3641/3656 objects using memcached
+Application Monitoring using New Relic
+
+ Served from: hislife.style @ 2016-11-25 14:37:19 by W3 Total Cache --></body></html>
