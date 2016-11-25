@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sogosurvey.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527225621id_/http%3A//www.sogosurvey.com/survey-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sogosurvey.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125175938id_/http%3A//www.sogosurvey.com/survey-privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | SoGoSurvey
+# Privacy Policy - SoGoSurvey
 
 SoGoSurvey is an application service provider that provides you, our customer, tools to conduct two-way communications with your customers, employees, suppliers and constituents. Like the postal service, we understand that the Information we deliver belongs to you and your survey participants, not us. At SoGoSurvey, it is a core business principle that we must protect the privacy of our customers and survey participants or we will not have either. With this principle in mind, SoGoSurvey created this privacy policy to demonstrate our commitment to your privacy.
 
@@ -10,7 +10,7 @@ This Privacy Policy applies only to information collected on our web site and do
 
 If you have questions about this privacy policy please email, [privacy@sogosurvey.com](mailto:privacy@sogosurvey.com)
 
-##### 1\. What Information do we collect?
+**1\. What Information do we collect?**
 
 SoGoSurvey collects information about both you, our customers ("Customers", "Client" or "you") and the individuals who participate in, or are invited to participate in, any of your surveys ("Survey Participants"). Collectively, the information collected about you ("Customer Information") and Survey Participants ("Participant Information") are referred to as "Information".
 
@@ -24,7 +24,7 @@ Our Web site includes a Social Media Features such as the Facebook button. This 
 
 If you choose to use our referral service on SoGoSurvey to share an article from our site, we will ask you for your email address and your friend’s email address. We will automatically send your friend a one-time email in your name inviting him or her to visit the site to review the article. SoGoSurvey does not store this information and uses it for the sole purpose of sending this one-time email.
 
-##### 2\. SoGoSurvey Platform Policy 
+**2\. SoGoSurvey Platform Policy**
 
 The use of Information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged SoGoSurvey.
 
@@ -72,7 +72,7 @@ Import Contacts
 
 You can import contacts from your Gmail or other address books to invite other individuals to become members of our website. We do not collect the username and password for the email account from which you wish to import your contacts, and we only collect the contact email address for contacts that your select for that purpose.
 
-##### 3\. How Do We Use Information?
+**3\. How Do We Use Information?**
 
 We use your Customer Information in the normal course of our business, including to contact you regarding technical support, discuss billing issues, or to bring to your attention any aspect of our mutual business. We may also use your contact information to provide you with policy or product updates or to introduce new products and services. If you do not wish to receive promotional emails from us, please follow the unsubscribe instructions included in each promotional email.
 
@@ -90,7 +90,7 @@ Links to Other Sites
 
 This site contains links to other sites that are not owned or controlled by SoGoSurvey. Please be aware that we, SoGoSurvey, are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information.
 
-##### 4\. With Whom Do We Share Information?
+**4\. With Whom Do We Share Information?**
 
 We do not share the Information with any third parties except under the following very limited circumstances:
 
@@ -102,25 +102,25 @@ We do not share the Information with any third parties except under the followin
 
 
 
-##### 5\. Can the Information be Changed?
+**5\. Can the Information be Changed?**
 
 Your Customer Information may be viewed and modified in our active database in real-time at any time. If you wish to request deletion of data from our site, please contact us at [support1@sogosurvey.com](mailto:support1@sogosurvey.com). The changed Information may remain in archives and records for some period of time. Once a Survey Participant has submitted a survey, the Survey Participant will not be able to access his Information through the Site. Survey Participants may contact you and you, in turn, will be able to view the Survey Participant's collected Information and, where appropriate, work with us in modifying such Information. If the client requests SoGoSurvey to remove the Survey Participant’s data or the Client’s data, SoGoSurvey will respond to their Client’s request within 30 business days.
 
-##### 6\. How Is Information Protected?
+**6\. How Is Information Protected?**
 
 Our Site has substantial and elaborate security measures in place to protect your Information. Unique user names and passwords must be entered each time a person logs on. The Site is hosted in a secure server environment that uses a firewall and other technology to reasonably prevent access from outside intruders. Internally, we use security-logs, train our employees and limit access to only essential personnel. When transmitting sensitive Information, we use encryption technology. All our technology and processes are not, however, guarantees of security. Please keep your user name and password secret and let us know at [privacy@sogosurvey.com](mailto:privacy@sogosurvey.com) if you learn or suspect that our security has been breached.
 
-##### 7\. Changes in the Privacy Policy:
+**7\. Changes in the Privacy Policy:**
 
 As we are constantly improving our services and expanding our business, we retain the right to modify this privacy policy at any time. In the event we make such changes, we will announce the changes and post the new policy on the Site. Information collected after the new policy is posted will be used in conformance with the new policy. Information gathered under the old policy will continue to be used in conformance with that policy unless we, in conjunction with Customer, notify Survey Participants of the changes and the Survey Participant does not prohibit the use of the Information in conformance with the new policy. If we make any material changes we will notify you or our Client by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-##### TRUSTe Scope
+**TRUSTe Scope**
 
 The TRUSTe program covers only information that is collected through this domain, [www.sogosurvey.com](http://www.sogosurvey.com/) and our service platform. It does not cover information that may be collected through software downloaded from the website.
 
 In order to view our relationship with TRUSTe, please visit the validation page visible by clicking on the TRUSTe seal. If you have unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [https://feedback-form.truste.com/watchdog/request.](https://feedback-form.truste.com/watchdog/request)
 
-##### EU-US and Swiss-US Safe Harbor
+**EU-US and Swiss-US Safe Harbor**
 
 SoGoSurvey complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. SoGoSurvey has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view SoGo Survey’s certification, please visit [http://www.export.gov/safeharbor/.](http://www.export.gov/safeharbor/)
 
