@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tessituranetwork.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604150300id_/http%3A//www.tessituranetwork.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tessituranetwork.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125062153id_/http%3A//www.tessituranetwork.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -14,8 +14,7 @@ Passwords are issued on a per person basis and may be used only by the individua
 
 Licensees are responsible for maintaining the security of any passwords issued by Tessitura to their employees and agree to promptly notify Tessitura in the event of a misappropriation or unauthorized disclosure of a password to a third party.
 
-## Email Subscription Management  
-
+## Email Subscription Management
 
 As a member of Tessitura Network, you will automatically be signed up to receive Tessitura Network business and education email communications.  If you choose to opt out of these lists, you may do so at any time by managing the “Subscriptions” area on this website’s logged in My Account page, or from the “unsubscribe” mechanism at the bottom of all Tessitura Network email.
 
@@ -41,9 +40,13 @@ Tessitura assumes no responsibility for any content, information collected, term
 
 Tessitura’s website is not directed at children under the age of thirteen, and accordingly, Tessitura does not intentionally collect any personal information from anyone under age thirteen. 
 
-##  Safe Harbor
+## U.S. Department of Commerce Privacy Shield
 
-Tessitura Network complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Tessitura Network has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Tessitura Network’s certification, please visit <http://www.export.gov/safeharbor/>
+Tessitura Network complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Tessitura Network has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
+
+##  U.S. - Swiss Safe Harbor
+
+Tessitura Network complies with the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. Tessitura Network has certified that it adheres to the U.S.-Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Tessitura Network’s certification, please visit <http://www.export.gov/safeharbor/>
 
 _PRIVACY PRINCIPLES_ :  The privacy principles listed below are based on the Safe Harbor Principles.
 
@@ -73,5 +76,4 @@ Tessitura Network, Inc.
 P.O. Box 670245  
 Dallas, TX  75367-0245
 
-Version updated November 2009  
-
+Version updated November 2009
