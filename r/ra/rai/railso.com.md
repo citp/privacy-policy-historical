@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the railso.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517213541id_/http%3A//www.railso.com/en/content/8-privacy-e-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the railso.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125072218id_/http%3A//www.railso.com/en/content/8-privacy-e-cookies-policy) for the most accurate reproduction.*
 
 # Privacy e Cookies Policy - Railso.com
 
