@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sbc.edu privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617051647id_/http%3A//sbc.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbc.edu privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125024949id_/http%3A//sbc.edu/privacy-policy) for the most accurate reproduction.*
 
 # Sweet Briar College | Privacy Policy
 
 ## Privacy Policy
 
-Sweet Briar College operates [http://sbc.edu](http://sbc.edu/) and [http://discover.sbc.edu](http://discover.sbc.edu/). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
+Sweet Briar College operates [sbc.edu](http://sbc.edu/) and [discover.sbc.edu](http://discover.sbc.edu/). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
 We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.
 
