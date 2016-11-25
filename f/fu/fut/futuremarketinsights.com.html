@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the futuremarketinsights.com privacy policy that was archived on 2016-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160622224257id_/http%3A//www.futuremarketinsights.com/page/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the futuremarketinsights.com privacy policy that was archived on 2016-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161125134226id_/http%3A//www.futuremarketinsights.com/page/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	
@@ -236,7 +236,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<li><a href="http://www.futuremarketinsights.com/page/workhere">Work Here</a></li>
 				<li><a href="http://www.futuremarketinsights.com/page/funatfmi">Fun @ FMI</a></li>
 				<li><a href="http://www.futuremarketinsights.com/page/careers-selection-process">Selection Process</a></li>
-				<li><a href="http://www.futuremarketinsights.com/page/careers">Current Openings</a></li>
+				<li><a href="http://www.futuremarketinsights.com/page/careers" rel="nofollow">Current Openings</a></li>
 				<li><a href="http://www.futuremarketinsights.com/page/postyourresume">Post Your Resume</a></li>
 				</ul>
 				</li>
@@ -697,10 +697,10 @@ $('#topSearchBox').keydown(function(event){
 		
 		<li><a href="http://www.futuremarketinsights.com/expert-talk" rel="nofollow">Expert Talk</a></li>
 		<li><a href="http://www.futuremarketinsights.com/events" rel="nofollow">Events</a></li>
-					<li><a href="http://www.futuremarketinsights.com/blogs" rel="nofollow">Blogs</a></li>
+		<!-- 			<li><a href="http://www.futuremarketinsights.com/blogs" rel="nofollow">Blogs</a></li>
 	    	    		
 			<li><a href="http://www.futuremarketinsights.com/articles" rel="nofollow">Articles</a></li>
-				
+			 -->	
 		<li><a href="http://www.futuremarketinsights.com/casestudy" rel="nofollow">Case Studies</a></li>
 		<li><a href="http://www.futuremarketinsights.com/newsletters" rel="nofollow">Newsletters</a></li>
 		<li><a href="http://www.futuremarketinsights.com/page/press-kit" rel="nofollow">Press Kit</a></li>
@@ -756,7 +756,7 @@ $('#topSearchBox').keydown(function(event){
 </div>
 <script type="text/javascript">
 function testCaptach () {
-	var sc = '221';
+	var sc = '';
 	
 	if(  $('#idCaptcha').val() != sc ){
 		alert('Please type valid captcha!');
@@ -765,6 +765,19 @@ function testCaptach () {
 		
 		
 	}
+	
+	
+	var cname = $("#idFmiContactNo").val();
+	if(cname.trim() === '' )
+		{
+			alert('Please provide your Contact no');
+			$("#idFmiContactNo").val('');
+			$("#idFmiContactNo").focus();
+			return false;
+		}else 
+		{
+			return true;
+		}
 	
 	
 }
