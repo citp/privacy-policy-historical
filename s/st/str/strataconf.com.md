@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the strataconf.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609232114id_/http%3A//oreilly.com/oreilly/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strataconf.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125044218id_/http%3A//oreilly.com/oreilly/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy as of 11/10/16
 
-This version (Version 2.0) of O'Reilly Media, Inc.'s Privacy Policy is effective as of December 2, 2014.
+This version (Version 2.1) of O'Reilly Media, Inc.'s Privacy Policy is effective as of November 9, 2016.
 
-This Policy ("Policy") describes the privacy practices of O'Reilly Media, Inc. ("O'Reilly," "we," "us," "our") and governs how we collect, store, process, transfer, use, and protect personal information collected from and about you. This Policy applies to the websites that we own and that display or link to this Policy, including the websites located at oreilly.com, but does not apply to oreillyschool.com. Specific information relating to the O'Reilly School of Technology's privacy practices may be found [here](http://www.oreillyschool.com/privacy-policy/). This Policy also applies to your access to these websites via mobile devices. This Policy does not apply to any O'Reilly websites, products or services that display or link to their own privacy policies, or that do not link to or display this Policy.
+This Policy ("Policy") describes the privacy practices of O'Reilly Media, Inc. ("O'Reilly," "we," "us," "our") and governs how we collect, store, process, transfer, use, and protect personal information collected from and about you. This Policy applies to the websites that we own and that display or link to this Policy, including the websites located at oreilly.com. This Policy also applies to your access to these websites via mobile devices. This Policy does not apply to any O'Reilly websites, products or services that display or link to their own privacy policies, or that do not link to or display this Policy.
 
-[](https://privacy.truste.com/privacy-seal/O-Reilly-Media/validation?rid=4fa50451-ce42-4ebd-a676-88070a94fc0e "TRUSTe European Safe Harbor certification")
+Please contact us at [privacy@oreilly.com](mailto:privacy@oreilly.com?subject=) if you have questions or concerns about this Policy. If we do not resolve your question or concern satisfactorily, then please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-O'Reilly Media, Inc. has received TRUSTe's Privacy Seal certifying that this Policy and our practices comply with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification only covers information collected on the O'Reilly websites listed on the validation page, and to our conference specific mobile applications that link to this Policy.
-
-Please contact us at [privacy@oreilly.com](mailto:privacy@oreilly.com?subject=) if you have questions or concerns about this Policy. If we do not resolve your question or concern satisfactorily, then please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
-
-O'Reilly Media, Inc. complies with the U.S. — EU Safe Harbor Framework and the U.S. — Swiss Safe Harbor Framework set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Economic Area and from Switzerland. You can learn more about the Safe Harbor program, and view our Safe Harbor certification at <http://www.export.gov/safeharbor>.
+[](https://privacy.truste.com/privacy-seal/validation?rid=b1a9b95e-186e-4498-aaa0-2a7b98c52af0)
 
   * Information We Collect
   * How We Use Information We Collect
@@ -32,7 +28,7 @@ O'Reilly Media, Inc. complies with the U.S. — EU Safe Harbor Framework and the
 
 ### 1\. Information We Collect
 
-As used in this Policy, personal Information ("PI") means information that can be directly associated with you (such as your name, email address, telephone number or billing information), or information about activities directly linked to you (such as products, services, or conference admissions that you have purchased). You agree that you will not provide us with the PI of anyone other than yourself unless you first obtain the consent of the person on whose behalf you will be providing PI to us. 
+As used in this Policy, personal Information ("PI") means information that can be directly associated with you (such as your name, email address, telephone number or billing information), or information about activities directly linked to you (such as products, services, or conference admissions that you have purchased). You agree that you will not provide us with the PI of anyone other than yourself unless you first obtain the consent of the person on whose behalf you will be providing PI to us.
 
 We collect PI in the following ways:
 
@@ -46,7 +42,7 @@ When you register for an online account, make a purchase, subscribe to a newslet
 
 Our website offers publicly accessible areas where users may contribute content and other information. Any PI that you provide in these areas may be read, collected and used by others.
 
-We may provide you the opportunity to participate surveys on our website. If you participate, we will request certain personally identifiable information from you. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). As participation in these surveys is voluntary, you need not provide this information if you do not participate.
+We may provide you the opportunity to participate in surveys on our website. If you participate, we will request certain personally identifiable information from you. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). As participation in these surveys is voluntary, you need not provide this information if you do not participate.
 
 You can log in to our website using third party sign-in services such as Facebook, LinkedIn, Twitter or an Open ID provider. These services will authenticate your identity and provide you with the option to share certain personal information with us such as your name and email address to pre-populate our sign up form(s). Third party services like Facebook Connect give you the option to post information about your activities on our website to your profile page on third party services to share with others within your network on those services.
 
@@ -60,7 +56,7 @@ When using our mobile applications we may collect your geo-location data in orde
 
 **1.3 Information we collect through other online technology**
 
-When you visit our websites, we collect information about the pages you view. In addition, some pages of our website use cookies, web beacons and similar technologies to automatically collect information from you. We send one or more cookies (small text files containing a string of characters) to your computer to uniquely identify your browser. We use "web beacons" (electronic images also known as pixel tags or clear gifs) to recognize a O'Reilly cookie on your computer when you view or take actions on an O'Reilly web page, an O'Reilly advertisement posted on a third party web page, or open an email from us. For these purposes, some of our tracking technologies may be tied to personally identifiable information. 
+When you visit our websites, we collect information about the pages you view. In addition, some pages of our website use cookies, web beacons and similar technologies to automatically collect information from you. We send one or more cookies (small text files containing a string of characters) to your computer to uniquely identify your browser. We use "web beacons" (electronic images also known as pixel tags or clear gifs) to recognize a O'Reilly cookie on your computer when you view or take actions on an O'Reilly web page, an O'Reilly advertisement posted on a third party web page, or open an email from us. For these purposes, some of our tracking technologies may be tied to personally identifiable information.
 
 Cookies, web beacons and similar technologies enable us to collect information about your visits to our websites, such as:
 
@@ -119,28 +115,6 @@ We use PI to conduct business, provide information and support for products and 
 
 We use information collected directly from you in order to monitor website traffic, personalize our website, and to improve our website and mobile applications.
 
-### 3\. How We Share and Disclose PI
-
-We will not sell your information to third party companies for their promotional use, however we may share with or disclose your PI to:
-
-  * Companies related to O'Reilly, in order to support business and marketing processes.
-  * Service providers and suppliers, who are authorized to use PI only as necessary to provide services to us. For example, we use a third party payment processor to bill you for purchases of goods and services, and an email service provider to send communications to you on our behalf.
-  * Sponsors of events, products, or services that we make available to you, and organizations with whom we make co-branded events, products or services available (the sponsors and co-branding participants are identified when you provide PI to us in the course of registering for the event including participant listings, purchasing or signing up to receive the product or service, or when you otherwise indicate to us that you are going to participate in, purchase, or take advantage of the co-branded offering).
-  * Government agencies, law enforcement agencies and others, based on a good faith belief that disclosure is necessary to respond to judicial process, valid government inquiry, or is otherwise required by law.
-  * The buyer or other transferee, if O'Reilly or portion of our business is sold or transferred (in which case you will be notified via a notice on our website of the sale or transfer, any related changes regarding uses of your PI, and any choices that you may have regarding your PI).
-  * Other third parties for purposes to which you have consented
-  * Other users of and participants in of our wikis, forums, blogs, message boards, chat rooms, profile pages, comment fields and other social network environments, to the extent of any PI that is posted there by you or by someone else whom you have authorized to do so.
-
-
-
-Our website includes links to other websites whose privacy practices may differ from those of O'Reilly. If you submit PI to any of those websites, your information is governed by their privacy policies, which we encourage you to review carefully.
-
-We may share with or disclose your PI as necessary, if we suspect a violation of our policies or to protect the rights or safety of any person or entity.
-
-We display personal testimonials of satisfied customers on our website in addition to other endorsements. With your consent we may post your testimonial along with your name.
-
-Information, such as your public profile and information or material (including images) that you in the course of your participation in public or community events and activities make available via our sites, and aggregated or anonymized information, may be shared by us without restriction. You acknowledge that when you make information or material public in the course of participating in public or community activities, we are not responsible for its collection by others, or their subsequent use of it.
-
 ### 4\. Notice and Choice
 
 We provide notice about our use of PI in this Policy, in our web pages, and in other locations where we collect PI. You can choose whether or not to provide PI to us. If you choose not to provide PI, you may not be able to take advantage of certain offers, options, website features, events and services that depend upon accurate PI.
@@ -198,7 +172,7 @@ O'Reilly transacts business throughout the world and has operations, processes a
 
 ### 10\. Questions or Concerns: Contact Us
 
-O'Reilly regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or O'Reilly's treatment of PI by emailing us at [privacy@oreilly.com](mailto:privacy@oreilly.com?subject=) or by writing to us at: 
+O'Reilly regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or O'Reilly's treatment of PI by emailing us at [privacy@oreilly.com](mailto:privacy@oreilly.com?subject=) or by writing to us at:
 
 O'Reilly Media, Inc.  
 Attn: Online Marketing  
@@ -219,6 +193,8 @@ If you no longer wish your information to be shared, or if you have questions re
 
 ### 13\. Previous Versions
 
-For the previous version please [click here](http://www.oreilly.com/privacy-091415.html).
+This is version 2.1.
 
-This is version 2.0.
+For version 2.0 please [click here](http://www.oreilly.com/privacy-120214.html).
+
+For version 1.1 please [click here](http://www.oreilly.com/privacy-091415.html).
