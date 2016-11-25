@@ -1,71 +1,76 @@
-> *The following text is extracted and transformed from the remita.net privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603014133id_/http%3A//remita.net/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remita.net privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125185712id_/http%3A//www.remita.net/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Remita :: Funds & Schedules Remittance
+# Privacy Policy
 
-This website [www.remita.net](http://www.remita.net/) is owned and operated by SystemSpecs Limited (hereinafter referred to as “SystemSpecs”).
+## 1.0 Your Privacy Rights
 
-**Commitment to Privacy**
+This Privacy Policy describes your privacy rights regarding our collection, use, storage, sharing and protection of your personal information. It applies to the REMITA website and all its applications, services, tools and content regardless of how you access or use them. 
 
-SystemSpecs is committed to respecting and protecting the privacy of its customers and website visitors. 
+## 2.0 Consent
 
-This privacy policy discloses how we collect, use, and protect the information you provide to us.
+You accept this Privacy Policy when you sign up for, access, or use our products, services, content, features, technologies or functions offered on our website and all related sites, applications, and services (collectively “Remita services”). This Policy governs the use of Remita by our users unless otherwise agreed through a written contract. We may amend this Privacy Policy at any time by posting a revised version on our website. The revised version will be effective seven (7) days after posting. 
 
-We maintain all information as private to the best of our ability. However, personal information may be disclosed under the limited circumstances described in this policy. 
+## 3.0 Your Personal Information
 
-**Types of Information Collected**
+When you use Remita Services, we collect information sent to us by your computer, mobile phone, POS or other electronic access devices. The automatically collected information includes but is not limited to data about the pages you access, computer IP address, device ID or unique identifier, device type, geo-location information, computer and connection information, mobile network information, statistics on page views, traffic to and from the sites, referral URL, ad data, and standard web log data. 
 
-The types of information we collect will depend on the type of solution or service requested by you. Generally, we keep a record of one or more of the following types of information about you:
+We may also collect information you provide us including but not limited to- information on web forms, account update information and correspondence with Remita support services. We also collect information about your transactions and your activities. In addition, we collect your contact information such as- name, address, phone number, email, etc. We also collect your bank account name and numbers and link it up to your Remita account. Information obtained through survey responses, telephone conversations, customer enquiries and other means may also be collected and used by us. 
 
-  1. Information that identifies you, such as your name and address and other information provided by you (personal information).
-  2. Information about any transactions carried out through our solutions, including information relating to any use of our services.    ** **
+We may also use information provided by third parties like social media sites and verification agencies. Information about you provided by other sites are not controlled by Remita and we are therefore not liable for how they use it. 
 
+## 4.0 What we do with your personal information
 
+The purpose of our collecting your personal information is to give you an efficient, enjoyable and secure customer experience. We may use your information to: 
 
-**Use of Information**
-
-We collect information when you make online requests or access and use our solutions and services.
-
-The information submitted on our website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
-
-Generally, we use the information for the following purposes:
-
-  1. to effectively manage and administer all the services provided by us.
-  2. to ensure our internal business operations are running smoothly which may include fulfilling legal requirements.
-  3. for assessment and analysis; for instance, market, customer and service analysis, to enable us to review, develop and improve the services we offer.
-  4. we may also use the information to contact customers and prospects to further discuss their interest in us, the services and solutions we provide and ways we can improve them, and to send information such as announcements of promotions and events regarding us. 
-
-
-
-**Circumstances of Disclosure**
-
-We do not disclose your information to any third party without your consent except in the following limited circumstances:
-
-  1. **Partners:** By the nature of our services **,** we necessarily share information with Banks, Pension Fund Administrators or Custodians, our hosting service providers, your internet service provider and other partners who either perform specific services related to our services or administer information offered at our website or do both. ****
+4.1 Provide REMITA services and support;  
+4.2 Process transactions and send notices about your transactions to requisite parties;  
+4.3 Verify your identity;  
+4.4 Resolve disputes, collect fees, and troubleshoot problems;  
+4.5 Manage risk, or detect, prevent, and/or remediate fraud or other potentially prohibited or illegal activities;  
+4.6 Detect, prevent or remediate violations of policies or applicable user agreements;  
+4.7 Improve our Services by implementing aggregate customer preferences;  
+4.8 Measure performance of Remita Services and improve content, technology and layout;  
+4.9 Manage and protect our information technology infrastructure;   
+4.10Contact you at any time through your provided telephone number, email address or other contact details;  
+4.11Notify you about your account, troubleshoot problems with your account, resolve a dispute, collect fees or monies owed, poll your opinions through surveys or questionnaires, enforce our policy, or as otherwise necessary to service your account, we may contact you through information provided.  
 
 
-  1.   **Legal Requirements and Investigations** : We will disclose your information to a third party if required to do so by law or if, in good faith, we believe that such action is necessary to: 
-    1. comply with the law or with legal process; or 
-    2. protect and defend the company's rights and property or prevent or investigate fraud; or 
-    3. protect against abuse, misuse or unauthorized use of our solutions or  services. 
+SystemSpecs will not request for your Personal Identification Number (PIN), Account Identification Number (AIN) or Dynamic Authentication Number (DAN) from you. We do not use information that has been made personal to a specific user.
 
+## 5.0 Cookies
 
+Cookies are small files placed on your computer's hard drive that enables the website to identify your computer as you view different pages. Cookies allow websites and applications to store your preferences in order to present contents, options or functions that are specific to you. Like most interactive websites, and online platforms, Remita uses cookies to enable the tracking of your activity for the duration of a session. Our platform uses only encrypted session cookies which are erased either after a predefined timeout period or once the user logs out of the platform and closes the browser. Session cookies do not collect information from the user's computer. They will typically store information in the form of a session identification that does not personally identify the user. 
 
-** ** **Cookies and IP Addresses**   
-We monitor site traffic patterns and site usage to better understand our customers and markets and improve the layout and design of the website, and for other legitimate business purposes. In connection with monitoring our website activities we may use cookies or IP addresses _._ If you wish, you can adjust your browser setting so that your computer does not accept cookies. Cookies and IP addresses do not contain personally identifiable information.
+We do not have access or control over the cookies of our partners, affiliates, and service providers. We are therefore not responsible for their use of cookies.
 
-#### Security of Information
+## 6.0 How we protect your personal information
 
-We will treat all your information in strict confidence and will take reasonable precautions to prevent the loss, misuse or alteration of your personal information by using physical, electronic and procedural safeguards. However, SystemSpecs cannot guarantee the security of data transmission over the internet. You accept the inherent security risks of providing information and dealing online over the internet and will not hold SystemSpecs responsible for any breach of security unless this is due to SystemSpecs’ negligence or willful default.
+We store and process your personal information on our computers in Nigeria, Africa and elsewhere in the world where our facilities are located. We protect your information using physical, technical, and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure and alteration. Some of the safeguards we use are firewalls and data encryption, physical access controls to our data centers, and information access authorization controls.
 
-#### Third Party Websites
+## 7.0 How We Share your information with other Relevant Parties
 
-This privacy policy does not apply to parties that may be linked or associated with our website. Those website owners are responsible for the privacy of the information they collect and should be contacted directly for details of their privacy policies.
+During your transaction, we may provide the corresponding party with information such as your name, account identification details, contact details, shipping and billing address, or other information needed to promote the integrity and security of the transaction. We may also provide details of unsuccessful transactions. 
 
-#### Notification of Policy Amendments
+We work with third parties, including merchants, to enable them to accept or send payments from or to you, using Remita. In doing so, a third party may share information about you with us, such as your email address or mobile phone number, to inform you that a payment has been sent to you or when you attempt to pay a merchant or third party. We use this information to confirm that you are a Remita customer and that Remita as a payment and collection platform can be enabled. We also validate your status as a Remita customer to third parties on your instruction. 
 
-We reserve the right to amend, alter, or change this policy without any prior notice. In the event of such a change, SystemSpecs will post the revised policy on its website. Kindly review this policy periodically to be aware of current terms.
+You accept that your pictures and testimonials on all social media platforms about Remita can be used for limited promotional purposes by SystemSpecs or its agents. This does not include your trademark or copyright protected materials.
 
-**Transition of Business**   
-In the event  SystemSpecs  goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, or files for bankruptcy, or otherwise, we may transfer our database, including information contained therein, as part of the assets transferred.   
-**Authorisation and Consent to Use Information**   
-By applying for the use of any of our solutions and services, you authorise and consent to us collecting, maintaining, using and disclosing personal information about you and provided by you in accordance with the terms of this privacy policy and any updates.
+Where your employee, as part of the process of application for a service from SystemSpecs or a third party, requires his/her data to be provided in support of such an application to SystemSpecs or a third party, SystemSpecs is obligated to avail such request, upon the employee giving the requisite authorisation as the Data Owner, in the form prescribed by SystemSpecs or the third party. 
+
+From time to time we may send you relevant information such as product updates, new functionalities, tips on how to use the platform and new service offerings.
+
+We may also share your personal information in compliance with local or international regulatory requirements, with fraud prevention and risk management agencies with our service providers or in compliance with a court order. 
+
+## 8.0 Security
+
+We will always hold your information securely. To prevent unauthorized access to your information, we have implemented controls and security safeguards at technical and operational levels. This site uses Secure Sockets Layer/Transport Layer Security (SSL/TLS) to ensure secure transmission of your personal data. You should see the padlock symbol in your URL address bar once you are successfully logged into the platform. The URL address will also start with https:// depicting a secure webpage. SSL applies encryption between two points such as your PC and the connecting server. Any data transmitted during the session will be encrypted before transmission and decrypted at the receiving end. This is to ensure that data cannot be read during transmission.
+
+## 9.0 Data Confidentiality Rights
+
+Client information is regarded as confidential and will not be divulged to any third party except under legal and/or regulatory conditions. You have the right to request for copies of all information we keep on you, provided that you give us reasonable notice of such a request. While SystemSpecs is responsible for safeguarding the information entrusted to us, your role in fulfilling confidentiality duties includes but is not limited to adopting and enforcing appropriate security measures such as non-sharing of passwords and other platform login details.
+
+## 10.0 Links to Other Websites
+
+Certain transaction processing channels may require links to other websites. Please note that SystemSpecs is not responsible for and has no control over third party websites. We do not monitor or review the content of other party's websites which are linked from this website. Opinions expressed or materials appearing on such websites are not necessarily shared or endorsed by us, and SystemSpecs should not be regarded as the publisher of such opinions or materials. Please be aware that we are not responsible for the privacy practices, or content of any third party sites and we encourage our users to read the privacy statements of these sites. You should evaluate the security and trustworthiness of any other site connected to this site or accessed through this site yourself, before disclosing any personal information to it. SystemSpecs will not accept any responsibility for any loss or damage in whatever manner, howsoever caused, resulting from your disclosure to third parties of personal information.
+
+We reserve the right to modify our Policy at any time and without any prior notice to you. Ensure you check this Policy regularly to stay updated with any amendment and understand how we use your information.
