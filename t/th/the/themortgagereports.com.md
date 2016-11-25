@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themortgagereports.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421002129id_/http%3A//themortgagereports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themortgagereports.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125154701id_/http%3A//themortgagereports.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mortgage Rates, Mortgage News and Strategy : The Mortgage Reports
 
@@ -57,7 +57,7 @@ We may disclose your personal information if required to do so by law or subpoen
 
 **THIRD PARTY SITES**
 
-Please remember that when you use a link to go from the Site to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including websites which have a link on the Site, is subject to that website’s own rules and policies. Please read those rules and policies before proceeding. The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates. 
+Please remember that when you use a link to go from the Site to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including websites which have a link on the Site, is subject to that website’s own rules and policies. Please read those rules and policies before proceeding. The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates.
 
 **SECURITY**
 
@@ -77,8 +77,8 @@ The Site is not structured to attract children. Accordingly, we do not intend to
 
 **CONTACTING US**
 
-If you have any questions or concerns about this Privacy Policy, you may [contact us](http://themortgagereports.com/contact-us/) via email or you can call us at the following number: 1-888-987-6607
+If you have any questions or concerns about this Privacy Policy, you may [contact us](http://themortgagereports.com/contact-us/) via email or you can call us at the following number: (866) 240-7180
 
-  **UPDATES TO THIS PRIVACY POLICY**
+**UPDATES TO THIS PRIVACY POLICY**
 
 By using the Site you consent to our collection and use of your personal information as described in this Privacy Policy. We may update or modify this Privacy Policy from time to time. If there are material changes to this Privacy Policy or in how we will use your personal information, we will post such changes to the Site. If you do not agree with the changes to how your information will be used, please do not continue to use this website.
