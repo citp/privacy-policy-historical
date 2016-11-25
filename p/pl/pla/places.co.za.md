@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the places.co.za privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607042620id_/http%3A//www.places.co.za/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the places.co.za privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125072150id_/http%3A//www.places.co.za/privacy.html) for the most accurate reproduction.*
 
-# SA Places - Privacy Policy
+# Privacy Policy
 
-[](http://www.places.co.za/html/contact.html)[Customer Support](https://web.archive.org/customer_support.html) | [Safe Shopping](https://web.archive.org/security.html) | [Web Site User Agreement](https://web.archive.org/html/user_agreement.html) | [Booking Terms & Conditions](https://web.archive.org/html/conditions.html) | [Payment/Cancellations](https://web.archive.org/cancellations.html) | [Contact Us](https://web.archive.org/html/contact.html) | [About Us](https://web.archive.org/html/about.html)
+[Safe Shopping](https://web.archive.org/security.html) | [Web Site User Agreement](https://web.archive.org/html/user_agreement.html) | [Booking Terms & Conditions](https://web.archive.org/html/conditions.html) | [Payment/Cancellations](https://web.archive.org/cancellations.html) | [Contact Us](https://web.archive.org/html/contact.html) | [About Us](https://web.archive.org/html/about.html)
 
 * * *
 
@@ -16,4 +16,4 @@ Our web sites use cookies to customise the site and make your visit more user-fr
 Clients will only receive email concerning bookings and payment status. Your data and privacy will be protected along the above guidelines.
 
 This site complies to [Section 51](http://www.places.co.za/html/section_51_compliance.html) of the Promotion of Access to Information Act 2 / 2000.   
- 
+
