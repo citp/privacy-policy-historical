@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the wildcatforums.net privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616163758id_/http%3A//www.wildcatforums.net/forum/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildcatforums.net privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125091721id_/http%3A//www.wildcatforums.net/forum/privacy-policy.php) for the most accurate reproduction.*
 
 # Arctic Cat Wildcat SXS Forum Privacy Policy
-
-  * [](http://www.wildcatforums.net/forum/forum.php)
-  * Privacy Policy
-
-
-
-* * *
 
 VerticalScope Inc. (hereafter referred to as VerticalScope) has created this privacy statement to demonstrate our firm commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
@@ -89,9 +82,3 @@ If you have questions or suggestions about this privacy statement, or your own p
   * If you want to prevent a third-party ad server from sending and reading cookies on your computer, we recommend you block cookies using your browser privacy setting. 
 
 
-
-Powered by [vBulletin®](https://www.vbulletin.com/) Version 4.2.0   
-Copyright © 2016 vBulletin Solutions, Inc. All rights reserved.   
-SEO by vBSEO ©2011, Crawlability, Inc.
-
-All times are GMT -6. The time now is 10:37 AM.
