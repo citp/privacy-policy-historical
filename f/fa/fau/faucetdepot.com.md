@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the faucetdepot.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610004342id_/http%3A//www.faucetdepot.com/faucetdepot/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faucetdepot.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125142420id_/http%3A//www.faucetdepot.com/faucetdepot/privacypolicy.asp) for the most accurate reproduction.*
 
-# FaucetDepot.com
-
-Privacy Policy
+# Privacy Policy Faucet Depot
 
 The Faucet Depot has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: faucetdepot.com.
 
