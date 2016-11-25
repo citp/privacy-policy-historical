@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the anydesk.com privacy policy that was archived on 2016-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160627133658id_/http%3A//anydesk.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the anydesk.com privacy policy that was archived on 2016-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161125125937id_/http%3A//anydesk.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 		<title>AnyDesk - Privacy Statement</title>
@@ -34,7 +34,7 @@
 		
 
 		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-		<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/_static/scripts/curry.js"></script>
+		<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/_static/scripts/curry.js"></script>
 		<script type="text/javascript" src="/_static/scripts/jquery-2.1.0.min.js"></script>
 		<script type="text/javascript" src="/_static/scripts/jquery.selectric.min.js"></script>
 		<script type="text/javascript" src="/_static/scripts/jquery.sharre.min.js"></script>
@@ -44,6 +44,8 @@
 		
 		
 		<script type="text/javascript">
+			// Google Analytics
+		
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 			(i[r].q=i[r].q||[]).push(arguments);},i[r].l=1*new Date();a=s.createElement(o),
 			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m);
@@ -58,8 +60,19 @@
 			ga(function(t) {tracker = t;});
 			
 			ga('send', 'pageview');
-		</script>
+			
+			// Facebook
+			
+			!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+			n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+			document,'script','https://connect.facebook.net/en_US/fbevents.js');
 
+			fbq('init', '1063819750400447');
+			fbq('track', "PageView");
+		</script>
+		<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1063819750400447&ev=PageView&noscript=1"/></noscript>
 		<script type="text/javascript">
 			var changeLanguage = function() {				
 				var href = $( this ).find( "option:selected" ).attr( "value" );
@@ -320,7 +333,7 @@
 					<ul id="footer-contact">
 						<li><a href="http://support.anydesk.com/">Help &amp; Support</a></li>
 						<li><a href="./jobs">Jobs</a></li>
-						
+						<li><a href="http://blog.anydesk.com/">Blog</a></li>
 						<li><a href="./press">Press</a></li>
 						<li><a href="./contact">Contact</a></li>
 						<li><a href="./terms">Terms / EULA</a></li>
