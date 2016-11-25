@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mhhe.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629000450id_/http%3A//www.mheducation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhhe.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125130439id_/http%3A//www.mheducation.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Center
 
@@ -155,7 +155,7 @@ At your request, in some instances, we may delete or de-identify your informatio
 
 McGraw-Hill Education is a global organization headquartered in the United States. Depending on your location and the product or service, your information may be stored and processed within secure data centers in the U.S., where U.S. law applies. If your data is stored locally, then your local laws prevail. 
 
-We recognize and acknowledge current data protection laws in the European Union, Switzerland, and around the world. We follow the U.S.-EU Safe Harbor Framework and the U.S.-Switzerland Safe Harbor Framework administered by the U.S. Department of Commerce. For more information about the Safe Harbor Privacy Principles, please visit the U.S. Department of Commerce's website at <http://www.export.gov/safeharbor>. 
+We recognize and acknowledge current data protection laws in the European Union, Switzerland, and around the world. We follow the U.S.-EU Safe Harbor Framework and the U.S.-Switzerland Safe Harbor Framework administered by the U.S. Department of Commerce. For more information about the Safe Harbor Privacy Principles, please visit the U.S. Department of Commerce's website at http://www.export.gov/safeharbor. 
 
 Any questions or complaints regarding this Policy or the collection, use, disclosure, or transfer of Personal Data covered by this Policy should be directed to [privacy@mheducation.com](mailto:privacy@mheducation.com). 
 
@@ -295,7 +295,7 @@ At the request of your educational institution, in some instances, we may delete
 
 McGraw-Hill Education is a global organization headquartered in the United States. Depending on your location and the product or service, your information may be stored and processed within secure data centers in the U.S., where U.S. law applies. If your data is stored locally, then your local laws prevail. 
 
-We recognize and acknowledge current data protection laws in the European Union, Switzerland, and around the world. We follow the U.S.-EU Safe Harbor Framework and the U.S.-Switzerland Safe Harbor Framework administered by the U.S. Department of Commerce. For more information about the Safe Harbor Privacy Principles, please visit the U.S. Department of Commerce's website at <http://www.export.gov/safeharbor>. 
+We recognize and acknowledge current data protection laws in the European Union, Switzerland, and around the world. We follow the U.S.-EU Safe Harbor Framework and the U.S.-Switzerland Safe Harbor Framework administered by the U.S. Department of Commerce. For more information about the Safe Harbor Privacy Principles, please visit the U.S. Department of Commerce's website at http://www.export.gov/safeharbor. 
 
 Any questions or complaints regarding this Policy or the collection, use, disclosure, or transfer of Personal Data covered by this Policy should be directed to [privacy@mheducation.com](mailto:privacy@mheducation.com). 
 
@@ -426,7 +426,7 @@ We can delete your information at the request of your school. Since your school 
 
 McGraw-Hill Education is a global organization headquartered in the United States. Depending on your location and the product or service, your information may be stored and processed within secure data centers in the U.S., where U.S. law applies. If your data is stored locally, then your local laws prevail. 
 
-We recognize and acknowledge current data protection laws in the European Union, Switzerland, and around the world. We follow the U.S.-EU Safe Harbor Framework and the U.S.-Switzerland Safe Harbor Framework administered by the U.S. Department of Commerce. For more information about the Safe Harbor Privacy Principles, please visit the U.S. Department of Commerce's website at <http://www.export.gov/safeharbor>. 
+We recognize and acknowledge current data protection laws in the European Union, Switzerland, and around the world. We follow the U.S.-EU Safe Harbor Framework and the U.S.-Switzerland Safe Harbor Framework administered by the U.S. Department of Commerce. For more information about the Safe Harbor Privacy Principles, please visit the U.S. Department of Commerce's website at http://www.export.gov/safeharbor. 
 
 Any questions or complaints regarding this Policy or the collection, use, disclosure, or transfer of Personal Data covered by this Policy should be directed to [privacy@mheducation.com](mailto:privacy@mheducation.com). 
 
@@ -537,7 +537,7 @@ We can delete your information at the request of your school. Since your school 
 
 McGraw-Hill Education is a global organization headquartered in the United States. Depending on your location and the product or service, your information may be stored and processed within secure data centers in the U.S., where U.S. law applies. If your data is stored locally, then your local laws prevail. 
 
-We recognize and acknowledge current data protection laws in the European Union, Switzerland, and around the world. We follow the U.S.-EU Safe Harbor Framework and the U.S.-Switzerland Safe Harbor Framework administered by the U.S. Department of Commerce. For more information about the Safe Harbor Privacy Principles, please visit the U.S. Department of Commerce's website at <http://www.export.gov/safeharbor>. 
+We recognize and acknowledge current data protection laws in the European Union, Switzerland, and around the world. We follow the U.S.-EU Safe Harbor Framework and the U.S.-Switzerland Safe Harbor Framework administered by the U.S. Department of Commerce. For more information about the Safe Harbor Privacy Principles, please visit the U.S. Department of Commerce's website at http://www.export.gov/safeharbor. 
 
 Any questions or complaints regarding this Policy or the collection, use, disclosure, or transfer of Personal Data covered by this Policy should be directed to [privacy@mheducation.com](mailto:privacy@mheducation.com). 
 
