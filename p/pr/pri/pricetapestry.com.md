@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricetapestry.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325212910id_/http%3A//www.pricetapestry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricetapestry.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125073332id_/http%3A//www.pricetapestry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Price Comparison and Affiliate Data Feed Script Price Tapestry
 
