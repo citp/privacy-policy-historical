@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mywifesmom.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504032637id_/http%3A//www.mywifesmom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywifesmom.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125160447id_/http%3A//www.mywifesmom.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
