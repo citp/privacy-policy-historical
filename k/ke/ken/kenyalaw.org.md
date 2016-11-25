@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kenyalaw.org privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608125345id_/http%3A//kenyalaw.org/kl/index.php%3Fid%3D390) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenyalaw.org privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125102956id_/http%3A//kenyalaw.org/kl/index.php%3Fid%3D390) for the most accurate reproduction.*
 
 # Kenya Law: Privacy Policy and Disclaimer
 
