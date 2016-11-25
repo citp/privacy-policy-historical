@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fx-exchange.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610213259id_/http%3A//www.fx-exchange.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fx-exchange.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125152451id_/http%3A//www.fx-exchange.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Foreign Currency Exchange Rates and Currency Converter Calculator
 
@@ -10,5 +10,3 @@ All personal information held or collected by the <http://www.fx-exchange.com/> 
 
 **Cookies**  
 We do not regularly use "cookies" to record information about you or your usage of this site. We will notify you before any cookies are used. (A "cookie" is a file that may be placed on your hard drive without your knowledge by a web site to allow it to monitor your use of the site.
-
-Link to this page - if you would like to link to **Privacy Policy** please copy and paste the HTML from below into your page:
