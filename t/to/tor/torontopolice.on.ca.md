@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torontopolice.on.ca privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608002738id_/http%3A//www.torontopolice.on.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torontopolice.on.ca privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125232604id_/http%3A//www.torontopolice.on.ca/privacy.php) for the most accurate reproduction.*
 
 # Toronto Police Service :: To Serve and Protect
 
