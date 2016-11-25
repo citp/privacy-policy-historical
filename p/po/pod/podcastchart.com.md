@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the podcastchart.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329072928id_/http%3A//support.podcastchart.com/article/25-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podcastchart.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125072149id_/http%3A//support.podcastchart.com/article/25-privacy) for the most accurate reproduction.*
 
 # Privacy - Podcast Chart
 
@@ -12,7 +12,7 @@ Data means collectively all information that you submit to Project Fantastic Ltd
 
 Cookie means a small text file placed on your computer by this Website when you visit certain parts of the Website and/or when you use certain features of the Website. Details of the cookies used by this Website are set out in Clause 12; 
 
-Project Fantastic Ltd means Project Fantastic Ltd, owners of Podcast Chart, of International House, Southampton International Business Park, Southampton, SO50 2RZ; 
+Project Fantastic Ltd means Project Fantastic Ltd, owners of Podcast Chart, of 86-90 Paul Street, London, EC2A 4NE; 
 
 UK and EU Cookie Law means the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended by the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011; 
 
