@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pehub.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403001013id_/https%3A//www.pehub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pehub.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125223139id_/https%3A//www.pehub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PE HUB
+# Privacy Policy - PE Hub
 
 Effective Date: October 3, 2014.
 
