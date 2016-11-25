@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flirtyaprons.com privacy policy that was archived on 2016-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160524021230id_/http%3A//www.flirtyaprons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flirtyaprons.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125203316id_/http%3A//www.flirtyaprons.com/privacy-policy) for the most accurate reproduction.*
 
 # Flirty Aprons Privacy Policy
 
