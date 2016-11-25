@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesofcorsa.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503041737id_/http%3A//yesofcorsa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesofcorsa.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125130547id_/http%3A//yesofcorsa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
