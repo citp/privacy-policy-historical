@@ -1,78 +1,43 @@
-> *The following text is extracted and transformed from the freemakemoneyadvice.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212010655id_/http%3A//www.freemakemoneyadvice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemakemoneyadvice.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125102033id_/http%3A//www.freemakemoneyadvice.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Disclosure Policy
+# Privacy Policy
 
-### Privacy Policy
+**FreeMakeMoneyAdvice**  takes your privacy seriously.
 
-Protecting your privacy is important to us.  
-We hope that the following information will help you understand how we collect, use and safeguard the personal information you provide to us on our site. ** **
+This privacy policy describes what personal information we collect and how we use it.
 
-**Person** **al** **Information**
+## Routine Information Collection
 
-The definition of “personal information” in context to this privacy notice refers to any information that you give out that may disclose part or your whole identity. We will only gather personal information that you decide to offer us, such as e-mail addresses. We are committed to our no spam policy and will not sell any information collected from our visitors.
+All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages.
 
-We only apply the personal information that you submit to us for their intended purposes. We do not share personally identifiable information with third party websites, organizations or other persons without your consent unless it is:
+None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
 
-1\. Necessary to provide you with a requested service;  
-2\. Lawfully authorized or required;  
-3\. Or utilized in the prevention or minimization of a serious and immediate threat to a party’s health. ** **
+## Cookies and Web Beacons
 
-**Legal Disclaimer**
+Where necessary, SmallBizTricks uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site. ** **
+Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information.
 
-**Collection of Information**
+Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
 
-As is true of most websites, we gather certain information automatically and store it in log files. This information Includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp and click Stream data. This Information collected will be used to research, analyze and evaluate trends and content featured on the website, to order to improve the services to our consumers. Website traffic, that is non-identifiable by person, is used in our data collection. We may use your IP address to assist in the diagnosis and administration of our website operations. It may also be utilized in the gathering of demographic data. Occasionally, we and other websites referred to may uses cookies. ** **
+## Controlling Your Privacy
 
-**Cookies**
+Note that you can change your browser settings to disable cookies if you have privacy concerns.
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
+Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis.
 
-Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. See “Third Party Advertisers & Links.” This privacy statement covers the use of cookies by this website only and does not cover the use of cookies by any advertisers.  ** **
+Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
 
-**Third Party Advertisers Links**
+## Special Note About Google Advertising
 
-Our websites contain links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each website to which we may link that may collect personally identifiable information. While we may use cookies in some parts of our website, cookies received with advertisements on our website are collected by the respective advertising companies, and we do not possess access to or control of such information gathered.
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.google.com/privacy_ads.html "Google Privacy Ads")
+These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](https://www.google.com/policies/technologies/cookies/).
 
-**Specific Parties**
+As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
 
-  * Google, as a third party vendor, uses cookies to serve ads on this site.
-  * Google’s use of the DART cookie enables it and its partners to serve ads to users based on their visit to this site and/or other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. ** **
+## Contact Information
 
+Concerns or questions about this privacy policy can be directed to erik@freemakemoneyadvice.com for further clarification.
 
-
-**Your Rights**
-
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by emailing us at the contact information listed in the contact page of this site. In protection of the privacy of yourself and others, we may have to acquire identification evidence before we can allow you to access to information regarding you in order to retrieve or change it. ** **
-
-**Change in customer internet privacy statement**
-
-From time to time we may revise its Privacy Policy if we make material changes to this policy, we will notify you here, either by email, or by means of a notice on our home page. Please check back periodically for any updates.
-
-Read more.
-
-### Disclosure policy
-
-Owner and publisher of this site made a lot of work and effort in order to give you proper, actual and reliable information. But there is no guaranty and warranty, that data, information, tricks or tutorials published or connected with this site are valid, up to date or correct.
-
-**Affiliates**
-
-Every link on this site is (or may be in the future) affiliate link, that means I earn (or would earn) money if you buy or order something using this link. Some products or reviews of products which are presented on this site may be paid products or paid reviews. We didn’t get any free product or service from another company in exchange for review or post about it. If there is no clear information, that presented product or service is free of costs, please assume that this is paid.
-
-Ads presented on this site may redirect you to another site or place in Internet. We aren’t responsible for the content, offered product(s) or another things related to advertised page.
-
-**Earnings policy**
-
-If there is no clear information, that presented earnings or numbers are true and real, they are only assumptions or estimates.
-
-All examples presented on this site should be treated only as examples, and may not work in your case and (or) with your site. All information, tips, tricks, tutorials and data on this site are placed here only for entertainment purposes and can’t be used in professional purposes.<
-
-**Summarizing**
-
-You and only you are responsible for your decisions and choices. If you don’t accept our policies, you are not allowed to use this site.
-
-We reserve rights for changing, updating or modifying  our policies in any time, without any reasons.
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Accept [Read More](http://www.freemakemoneyadvice.com/privacy-policy/)
