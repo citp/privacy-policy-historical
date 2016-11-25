@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the coventrytelegraph.net privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615115220id_/http%3A//www.coventrytelegraph.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coventrytelegraph.net privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125014947id_/http%3A//www.coventrytelegraph.net/privacy-policy) for the most accurate reproduction.*
 
 # Coventry Telegraph: Coventry news, sport, lifestyle and events
-
-## Privacy Statement
 
 **IN RELATION TO ALL WEB SITE SERVICES OFFERED BY TRINITY MIRROR NORTH WEST HERE ON THIS WEB SITE**
 
