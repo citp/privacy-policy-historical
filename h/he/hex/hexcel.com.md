@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hexcel.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605234943id_/http%3A//www.hexcel.com/notices/pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hexcel.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125060625id_/http%3A//hexcel.com/notices/pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
