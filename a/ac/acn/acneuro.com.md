@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acneuro.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410070230id_/http%3A//reps.acneuro.com/ACN-Europe_files/policy_terms/policy_EN.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acneuro.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125232618id_/http%3A//reps.acneuro.com/ACN-Europe_files/policy_terms/policy_EN.html) for the most accurate reproduction.*
 
 # ACN Europe Privacy Policy
 
