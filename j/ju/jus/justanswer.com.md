@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the justanswer.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618232137id_/http%3A//ww2.justanswer.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justanswer.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125060625id_/http%3A//ww2.justanswer.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security | JustAnswer
 
 [](http://privacy.truste.com/privacy-seal/JustAnswer-LLC/validation?rid=ea4c4347-7e60-4f0c-89e2-e145831cd449)
 
-Updated: October 20, 2015
+Updated: July 7, 2016
 
 Inherent to transacting on the Internet is the collection of some personal information. JustAnswer LLC ("JustAnswer") is committed to protecting your personal information and privacy. This Privacy Statement applies exclusively to the Site [www.JustAnswer.com](http://www.justanswer.com/), which includes the Site ww2.justanswer.com and the Site [http://my.justanswer.com](http://my.justanswer.com/), which is owned and operated by JustAnswer (collectively, "Sites"). This policy describes the personal information we collect from you and how we use and secure it. "Personal Information" defines information such as name and email that can identify an individual.
 
@@ -46,7 +46,7 @@ We partner with a third party to either display advertising on our Web site or t
 
 JustAnswer posts testimonials on the Site; we obtain permission prior to posting to include the user's name and state of residence, or their initials. If you wish to update or delete your testimonial, you can contact us by clicking [HERE](http://ww2.justanswer.com/contact-us).
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at[HERE](http://ww2.justanswer.com/contact-us).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us [HERE](http://ww2.justanswer.com/contact-us).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 JustAnswer will share your personal information with third parties only in the ways that are described in this privacy policy. JustAnswer will not otherwise disclose your PII (unless you voluntarily provide it in your Posts), without your consent, unless acting under a good faith belief that such action:
 
@@ -74,7 +74,7 @@ JustAnswer® will not send you any unsolicited information, including e-mail, ex
 
 **Principle 4: Updating and Deleting PII**
 
-If at any time you would like to update your PII, please log into your account and access your Edit Profile page. If at any time you would like your PII to be removed from our Site and/or database, or believe that JustAnswer® has not adhered to these privacy principles, please notify us by email by clicking [HERE](http://www.justanswer.com/help/contact.aspx). We will use commercially reasonable efforts to delete your PII and/or promptly detect and remedy any problems.
+If at any time you would like to update your PII, please log into your account and access your Edit Profile page. If at any time you would like your PII to be removed from our Site and/or database, or believe that JustAnswer® has not adhered to these privacy principles, please notify us by email by clicking [HERE](http://www.justanswer.com/help/contact.aspx). We will respond to your request within ten business days. We will use commercially reasonable efforts to delete your PII and/or promptly detect and remedy any problems.
 
 **Principle 5: Links to Third-Party Sites and Use of Third Party Tools**
 
