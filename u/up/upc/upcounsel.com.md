@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upcounsel.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410173254id_/https%3A//www.upcounsel.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upcounsel.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125183839id_/https%3A//www.upcounsel.com/privacypolicy) for the most accurate reproduction.*
 
 # UpCounsel, Inc. Privacy Policy
 
