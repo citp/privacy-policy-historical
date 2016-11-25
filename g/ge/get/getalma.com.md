@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getalma.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515223803id_/http%3A//www.getalma.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getalma.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125214051id_/http%3A//www.getalma.com/privacy.html) for the most accurate reproduction.*
 
-# About Alma | The world's first truly integrated SIS + LMS
+# About Alma | Transforming K-12 Data into Insight
 
 ## Privacy Policy
 
