@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the wbshop.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608040443id_/http%3A//www.wbshop.com/text/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbshop.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125211742id_/http%3A//www.wbshop.com/text/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last Updated: April 2, 2015
+Last Updated: October 26, 2016
 
 * * *
 
-Welcome to our online shop! This shop is owned and operated by Bolder Road LLC. Like you, everyone at Bolder Road is a huge fan of entertainment. We specialize in creating online shops that help fans pursue their passion for collecting. Thank you for visiting and have a great time! 
+Welcome to our online shop! This shop is owned and operated by Araca Merchandise L.P.. Like you, everyone at Araca is a huge fan of entertainment. We specialize in creating online shops that help fans pursue their passion for collecting. Thank you for visiting and have a great time! 
 
-Your privacy is important to us. Bolder Road LLC and its affiliates (“Bolder Road,” “we,” “us,” or “our”) provide this notice explaining our information practices and the choices you can make about the collection and use of the information while shopping in our online shops, including via mobile sites (collectively, the “Services”). For certain offerings of our Services, there may be additional notices about information practices and choices. Please read those additional privacy disclosures to understand how they apply to you. 
+Your privacy is important to us. Araca Merchandise L.P. and its affiliates (“Araca,” “we,” “us,” or “our”) provide this notice explaining our information practices and the choices you can make about the collection and use of the information while shopping in our online shops, including via mobile sites (collectively, the “Services”). For certain offerings of our Services, there may be additional notices about information practices and choices. Please read those additional privacy disclosures to understand how they apply to you. 
 
 By visiting our shop, you are accepting and consenting to the practices described in this Privacy Policy. Please read them carefully.
 
@@ -65,9 +65,9 @@ Contact us
 
 If you have any questions about this Privacy Policy, please contact us at [privacy@bolderroad.com](mailto:privacy-%20@bolderroad.com) or at:
 
-Bolder Road LLC  
-115 West 30th Street, Suite 1111  
-New York, NY 10001   
+Araca Merchandise L.P.  
+545 West 45th Street, Floor 10  
+New York, NY 10036   
   
   
 
@@ -189,6 +189,10 @@ Technology Providers and Ad Servers.
 
 While using the Service, third parties may present or serve advertisements, provide us with data collection, reporting, ad response measurement, and site analytics, and assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit, or set their own cookies. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this Privacy Policy. They may also obtain information about other applications that you have downloaded to your mobile device, the mobile websites you visit, and other information about you or your device in order to help analyze and serve anonymous targeted advertising on the Services and elsewhere. For more information about third party ad servers and your ability to opt-out of targeted advertising from such third parties, please visit the [Network Advertising Initiative](http://www.networkadvertising.org/) and/or the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices) or [Your Online Choices](http://youronlinechoices.com/). Please note that opting-out through these programs will stop certain targeted advertising, but will still allow the collection of usage data for some purposes, including research, analytics and internal operations. 
 
+Video Purchasing Information.
+
+We may share the titles of the films or TV shows that you have purchased through our Services (e.g., DVDs or Blu-rays) with third party services, including our Product Licensors or business partners, in order to fulfill your order, create and track wish lists and order histories, to recommend products to you based on your interests, for research purposes, and to improve our Services. 
+
 Linked Sites.
 
 Some of our Sites contain links to other sites whose information practices may be different from ours. Visitors should consult the other sites’ privacy policies before submitting any information, as we have no control over information that is submitted to, or collected by, these third parties. 
@@ -210,11 +214,15 @@ You may update or correct your profile information through our [Account Settings
 
 Marketing Communications.
 
-We provide you with an opportunity to express your preferences with respect to receiving certain marketing communications from us or from unaffiliated third parties. If you ever decide in the future that you would like to update these preferences, click the Update Your Preferences link included in our marketing where you may choose how often you would like to receive certain communications from us or where you may choose to unsubscribe from receiving certain communications from us. Additionally, you may follow the “unsubscribe” instructions provided in any marketing email you receive from us. You may also send us an email at [privacy@bolderroad.com](mailto:privacy@bolderroad.com) with your request, and we will edit your preferences accordingly. Please note, if you unsubscribe or opt out of communications, we may still send you non-promotional e-mails, such as e-mails about your account, order and shipping confirmations, notifications that you left something in your shopping cart, or in regards to our ongoing business relations. 
+We provide you with an opportunity to express your preferences with respect to receiving certain marketing communications from us or from unaffiliated third parties. If you ever decide in the future that you would like to update these preferences, you can visit our Marketing Preference page where you may choose how often you would like to receive certain communications from us or where you may choose to unsubscribe from receiving certain communications from us. Additionally, you may follow the “unsubscribe” instructions provided in any marketing email you receive from us. You may also send us an email at [privacy@bolderroad.com](mailto:privacy@bolderroad.com) with your request, and we will edit your preferences accordingly. Please note, if you unsubscribe or opt out of communications, we may still send you non-promotional e-mails, such as e-mails about your account, order and shipping confirmations, notifications that you left something in your shopping cart, or in regards to our ongoing business relations. 
 
 Cookies.
 
-Many web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies from our servers. If you wish to reject cookies from our site, but wish to accept those from other sites, you may choose the option in your browser settings to receive a notice before a cookie is stored on your device. Please consult the “Help” section of your browser for more information. To find out more, please consult [All About Cookies](http://www.allaboutcookies.org/). If you choose to remove cookies or reject cookies, this could affect certain features of our Services and can remove opt-out cookies used to express your choice about online tracking and personalized ads. You can choose to opt-out of use of cookies by many of our advertisers, advertising technology vendors and other advertising-related services who help deliver ads tailored to your profile and preferences at the following: [Network Advertising Initiative](http://www.networkadvertising.org/) and/or the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices) or [Your Online Choices](http://youronlinechoices.com/). If you remove your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choices. You can avoid the use of cookies by Google Analytics relating to your use of our shop by downloading and installing the Browser Plugin available here. 
+Many web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies from our servers. If you wish to reject cookies from our site, but wish to accept those from other sites, you may choose the option in your browser settings to receive a notice before a cookie is stored on your device. Please consult the “Help” section of your browser for more information. To find out more, please consult [All About Cookies](http://www.allaboutcookies.org/). If you choose to remove cookies or reject cookies, this could affect certain features of our Services and can remove opt-out cookies used to express your choice about online tracking and personalized ads. You can choose to opt-out of use of cookies by many of our advertisers, advertising technology vendors and other advertising-related services who help deliver ads tailored to your profile and preferences at the following: [Network Advertising Initiative](http://www.networkadvertising.org/) and/or the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices) or [Your Online Choices](http://youronlinechoices.com/). If you remove your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choices. You can avoid the use of cookies by Google Analytics relating to your use of our shop by downloading and installing the Browser Plugin available [here](https://tools.google.com/dlpage/gaoptout?hl=en-GB). 
+
+Video Purchasing Information.
+
+If you reside in the U.S., you may withdraw your consent for us to use and share your video purchasing information with certain third parties that are not incident to our ordinary course of business, on a specific title by title basis, or from any ongoing disclosures with such third parties, by emailing us at [privacy@bolderroad.com](mailto:privacy@bolderroad.com). 
 
 Device Settings.
 
@@ -240,7 +248,7 @@ We do not sell products for purchase by children. We sell products for purchase 
 
 ### International Transfers.
 
-We operate internationally, however our computer systems are currently based in the United States. Your personal information will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you use our Services from outside the U.S., you consent to the collection and/or processing in the U.S. of your personal information, which includes the use of cookies as described above. 
+We operate internationally, however our computer systems are currently based in the United States. Your personal information will be processed by us in the U.S. where data protection and privacy regulations may be different from those of your country of residence . If you use our Services from outside the U.S., you consent to the collection and/or processing in the U.S. of your personal information, which includes the use of cookies as described above. 
 
 ### Changes to this Policy.
 
@@ -253,7 +261,7 @@ From time to time, we may update this Privacy Policy. We will notify you about m
 
 Thank you so much for your interest in our online shops and for reading this policy. We hope you enjoy our Services. If you have any questions about this Privacy Policy, please contact us at [privacy@boldderroad.com](mailto:privacy@bolderroad.com) or at: 
 
-Bolder Road LLC  
-115 West 30th Street, Suite 1111  
-New York, NY 10001  
+Araca Merchandise L.P.  
+545 West 45th Street, Floor 10  
+New York, NY 10036  
 Attn: Privacy 
