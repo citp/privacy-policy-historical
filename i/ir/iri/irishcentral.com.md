@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the irishcentral.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627121650id_/http%3A//www.irishcentral.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishcentral.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125162734id_/http%3A//www.irishcentral.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - IrishCentral.com
+# Privacy Policy | IrishCentral.com
 
 **Privacy Policy**
 
-**Revised December 31,** ******2013** ** **
+**Revised December 31,** **2013** ** **
 
 IrishCentral.com is committed to safeguarding your privacy online. Please read the following information to understand how your personal information will be treated by us and our third party providers. The IrishCentral.com website is operated by IrishCentral LLC.
 
@@ -66,7 +66,8 @@ Personally identifying information may be shared with third-parties to the exten
 
 We may use information collected from cookies and other tracking technology to recognize your browser when you visit the Website and to facilitate easy login to the Website, to attempt to personalize the Website for each user, to ensure that your browser does or does not see the same ad over and over again, to sequence ads and offers in a series and to track page usage and paths.  We may also use collected information to allow editorial content and/or advertising on the Website to be targeted to groups of users for whom it is most pertinent.  This means that users see editorial content and/or advertising most likely to interest themIn connection with these uses, we may disclose information to third parties, but only in aggregate form.
 
-We also use third party companies to serve advertisements on the Website. These companies may use cookies and other tracking information to collect information about your visits to the Website and other websites, so that they can measure the effectiveness of ads, to track page usage and paths followed during visits, and to provide advertisements about goods and services they think will be of interest to you based on your usage. These companies may provide this data to us.
+We also use third party companies to serve advertisements on the Website. These companies may use cookies and other tracking information to collect information about your visits to the Website and other websites, so that they can measure the effectiveness of ads, to track page usage and paths followed during visits, and to provide advertisements about goods and services they think will be of interest to you based on your usage. These companies may provide this data to us.  
+
 
 **C. Administrative Use and Communications Related to Your Use of the Website**
 
