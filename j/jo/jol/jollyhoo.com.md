@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jollyhoo.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408073149id_/http%3A//jollyhoo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jollyhoo.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125064903id_/http%3A//jollyhoo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
