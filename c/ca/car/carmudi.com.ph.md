@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carmudi.com.ph privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607161645id_/http%3A//www.carmudi.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carmudi.com.ph privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125170541id_/http%3A//www.carmudi.com.ph/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY Carmudi Philippines
 
