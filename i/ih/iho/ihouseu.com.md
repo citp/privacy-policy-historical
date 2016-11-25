@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihouseu.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627212319id_/http%3A//www.ihouseu.com/privacy-statements.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihouseu.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125092645id_/http%3A//www.ihouseu.com/privacy-statements.html) for the most accurate reproduction.*
 
 # Privacy Statements | I H O U S E U
 
@@ -18,6 +18,6 @@ Correspondence from our partners is subject to their relevant Privacy Policy.
 
 We do not sell, rent or exchange mailing lists.
 
-  * 25724 reads
+  * 38814 reads
 
 
