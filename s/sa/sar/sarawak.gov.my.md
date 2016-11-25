@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sarawak.gov.my privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504122219id_/http%3A//www.sarawak.gov.my/web/home/article_view/251/262) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarawak.gov.my privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125065106id_/http%3A//www.sarawak.gov.my/web/home/article_view/251/262) for the most accurate reproduction.*
 
 # The Official Portal of the Sarawak Government
 
