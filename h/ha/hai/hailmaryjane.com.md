@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hailmaryjane.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616042551id_/http%3A//www.hailmaryjane.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hailmaryjane.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125035136id_/http%3A//www.hailmaryjane.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Hail Mary Jane
 
@@ -44,4 +44,4 @@ Upon request we offer visitors no ability to have factual inaccuracies corrected
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
 
-If you feel that this site is not following its stated information policy, you may [contact us](http://www.hailmaryjane.com/about/) at the above addresses or phone number.
+If you feel that this site is not following its stated information policy, you may [contact us](http://www.hailmaryjane.com/about/) at the above addresses or phone number. 
