@@ -1,40 +1,18 @@
-> *The following text is extracted and transformed from the eventsking.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520103419id_/http%3A//eventsking.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventsking.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125125824id_/http%3A//eventsking.com/privacy.php) for the most accurate reproduction.*
 
-# Events King - The Right Place For Success
-
-**Events King Privacy Policy**
+# 
 
 This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the Events King website (“Events King”) work and to keep it safe (details below). This policy is effective January 1, 2015. 
 
 **Collection.** Information posted on Events King is obviously publicly available. Our servers are located in the United States and in the European Union. Therefore, if you choose to provide us with personal information, you are consenting to the transfer and storage of that information on our servers in the United States and Europe. We collect and store the following personal information: 
 
-  * email address, physical contact information, and (depending on the service used) sometimes financial information;
-  * computer sign-on data, statistics on page views, traffic to and from Events King and ad data (all through cookies – you can take steps to disable the cookies on your browser although this is likely to affect your ability to use the site);
-  * other information, including users' IP address and standard web log information.
-
-
-
 **Use.** We use users’ personal information to:
 
-  * provide our services
-  * resolve disputes, collect fees, and troubleshoot problems;
-  * encourage safe trading and enforce our policies;
-  * customize users’ experience, measure interest in our services, improve our services and inform users about services and updates;
-  * communicate marketing and promotional offers to you according to your preferences;
-  * do other things for users as described when we collect the information.
+ **Disclosure.** We don’t sell or rent users’ personal information to third parties for their marketing purposes without users' explicit consent. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a posting or other content violates other’s rights, or protect anyone’s rights, property, or safety. We may also share personal information with:
 
+**Communication and email tools.** You agree to receive marketing communications from us unless you tell us that you prefer not to receive such communications. If you don't wish to receive marketing communications from us, simply indicate your preference by following directions provided with the communication. You may not use our site or communication tools to harvest addresses, send spam or otherwise breach our Terms of Use or Privacy Policy. We may automatically scan and manually filter email messages sent via our communication tools for malicious activity or prohibited content, but we do not permanently store such messages. If you use our tools to send content to a friend, we don't permanently store your friends' addresses or use or disclose them for marketing purposes. To report spam from other users, please contact customer support, [Contact Us](https://web.archive.org/web/20161125125824id_/http%3A//eventsking.com/Contact).
 
-
-**Disclosure.** We don’t sell or rent users’ personal information to third parties for their marketing purposes without users' explicit consent. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a posting or other content violates other’s rights, or protect anyone’s rights, property, or safety. We may also share personal information with:
-
-  * corporate affiliates who help detect and prevent potentially illegal acts and provide joint services. (Our corporate affiliates will market only to users who ask them to). 
-  * service providers who help with our business operations. 
-
-
-
-**Communication and email tools.** You agree to receive marketing communications from us unless you tell us that you prefer not to receive such communications. If you don't wish to receive marketing communications from us, simply indicate your preference by following directions provided with the communication. You may not use our site or communication tools to harvest addresses, send spam or otherwise breach our Terms of Use or Privacy Policy. We may automatically scan and manually filter email messages sent via our communication tools for malicious activity or prohibited content, but we do not permanently store such messages. If you use our tools to send content to a friend, we don't permanently store your friends' addresses or use or disclose them for marketing purposes. To report spam from other users, please contact customer support, [Contact Us](http://eventsking.com/Contact).
-
- **Access, Modification, and Deletion.** You can see, modify or erase most of your personal information by reviewing and modifying your posting or account status page, by signing on to "My Events King," or by contacting customer support ([privacy@EventsKing.com](mailto:eventsking@gmail.com)) to review any personal information we store that is not available on Events King. There may be a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies, and prevent bad guys from coming back. If you have further questions, you may contact Customer Support, [Contact Us](http://eventsking.com/Contact).
+ **Access, Modification, and Deletion.** You can see, modify or erase most of your personal information by reviewing and modifying your posting or account status page, by signing on to "My Events King," or by contacting customer support ([privacy@EventsKing.com](mailto:eventsking@gmail.com)) to review any personal information we store that is not available on Events King. There may be a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies, and prevent bad guys from coming back. If you have further questions, you may contact Customer Support, [Contact Us](https://web.archive.org/web/20161125125824id_/http%3A//eventsking.com/Contact).
 
 **Transfer of Personal Data to Other Countries..** We may share your information with members of the eBay Inc. corporate family - like eBay or PayPal - to provide joint content and services (like registration, transactions and customer support), to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services and communications. Members of our corporate family will use this information to send you marketing communications only if you've requested their services.
 
