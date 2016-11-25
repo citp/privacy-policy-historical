@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxuryhotelsguides.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627003557id_/http%3A//www.luxuryhotelsguides.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxuryhotelsguides.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125200109id_/http%3A//luxuryhotelsguides.com/default.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Luxury Hotels Guides | Manage Booking & About Us
 
