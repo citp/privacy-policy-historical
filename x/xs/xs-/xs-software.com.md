@@ -1,23 +1,19 @@
-> *The following text is extracted and transformed from the xs-software.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421204018id_/http%3A//www.xs-software.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xs-software.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125215109id_/http%3A//www.xs-software.com/privacypolicy.php) for the most accurate reproduction.*
 
 # XS Software | Welcome
 
 Partnership
 
-Our team
+What we do
 
-    100+ employees
-    International team
-    Young and creative professionals
-    Located in Sofia Bulgaria
+    Development, publishing, and distribution of browser based online games
+    Operate in 80+ countries
 
 Featured game
 
-[ ](http://www.xs-software.com/viewproduct.php?id=10&go=browser)
+[ ](http://www.xs-software.com/viewproduct.php?id=4&go=browser)
 
-Tropicalla is a Free to Play social survival game featuring humorous and engaging story line set in unique funny environment on deserted tropical island.
-
-You are placed in a situation where you have to survive on your own after a plane crash without the luxuries of the modern ...
+Nemexia is a web-based online space strategy game. Each player starts with single planet and a small amount of resources and ships. Then you can develop your own personal empire. Do not misss to develop your economic and military structure. Play with thousands other players from all over the ...
 
 ## Privacy And Policy
 
