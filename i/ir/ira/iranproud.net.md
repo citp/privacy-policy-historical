@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iranproud.net privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619103221id_/http%3A//www.iranproud.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iranproud.net privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125204653id_/http%3A//www.iranproud.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IranProud.net
 
