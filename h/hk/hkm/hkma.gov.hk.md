@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hkma.gov.hk privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621190003id_/http%3A//www.hkma.gov.hk/eng/other-information/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hkma.gov.hk privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125232845id_/http%3A//www.hkma.gov.hk/eng/other-information/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Hong Kong Monetary Authority - Privacy Policy Statement
 
