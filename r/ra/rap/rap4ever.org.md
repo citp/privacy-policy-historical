@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rap4ever.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617104107id_/https%3A//www.hover.com/privacy%3Fsource%3Dparked) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rap4ever.org privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125162313id_/https%3A//www.hover.com/privacy%3Fsource%3Dparked) for the most accurate reproduction.*
 
 # Domains and domain email made simple - Hover
 
