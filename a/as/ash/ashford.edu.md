@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashford.edu privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404081427id_/http%3A//www.ashford.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashford.edu privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125045722id_/http%3A//www.ashford.edu/privacy.htm) for the most accurate reproduction.*
 
 # UPDATED Privacy Policy | Ashford University
 
