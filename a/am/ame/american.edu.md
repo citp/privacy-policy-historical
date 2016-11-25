@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the american.edu privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630025654id_/http%3A//www.american.edu/oit/policies/Web-Copyright.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the american.edu privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125111936id_/http%3A//www.american.edu/oit/policies/Web-Copyright.cfm) for the most accurate reproduction.*
 
 # American University's Web Copyright Policy
 
@@ -51,11 +51,9 @@ If you do not want to be contacted by us in the future, please let us know.
 Our postal address is :
 
     American University  
-4400 Massachusetts Avenue, NW  
-
+4400 Massachusetts Avenue, NW 
     WWW Operations 
     Office of Information Technology 
-
-Washington, D.C. 20016
+    Washington, D.C. 20016
 
 We can be reached via e-mail at: [helpdesk@american.edu](mailto:helpdesk@american.edu)
