@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralcraze.net privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630215318id_/http%3A//viralcraze.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralcraze.net privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125130504id_/http%3A//viralcraze.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Viral Craze
 
