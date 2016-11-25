@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zenphoto.org privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601234552id_/http%3A//www.zenphoto.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenphoto.org privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125180242id_/http%3A//www.zenphoto.org/pages/privacy) for the most accurate reproduction.*
 
 # Privacy | Legal stuff | Zenphoto - The simpler media website CMS
 
