@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rmsothebys.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424222225id_/http%3A//www.rmsothebys.com/about/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rmsothebys.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125234613id_/http%3A//rmsothebys.com/about/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy | Classic Car Auctions | RM Sotheby's
 
