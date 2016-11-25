@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the phoca.cz privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612083153id_/http%3A//phoca.cz/cookiepolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoca.cz privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125102359id_/http%3A//www.phoca.cz/cookiepolicy) for the most accurate reproduction.*
 
 # Cookie Policy
-
-##  [ Cookie Policy](http://www.phoca.cz/cookiepolicy)
 
 Introduction
 
