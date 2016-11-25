@@ -1,186 +1,38 @@
-> *The following text is extracted and transformed from the durex.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315092149id_/http%3A//legal.rb.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the durex.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125105225id_/http%3A//legal.reckittbenckiser.com/UK/PrivacyStatement.htm) for the most accurate reproduction.*
 
-# 
+# Privacy Statement
 
-This privacy policy applies only to the websites controlled by Reckitt Benckiser LLC ("RB") where this privacy policy is posted or referenced and through information collected via customer services communications (e.g. calls, emails) to the RB or an RB affiliate customer service center (collectively, the "Sites"). This privacy policy does not pertain to other information that is collected offline or to information that is posted or provided by third parties. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES. 
+**General**  
+RB UK Commercial Limited and its affiliated companies (“Reckitt Benckiser”) respects the privacy of every individual who visits our sites or responds to our interactive advertisements and other communications. This Privacy Statement outlines the information Reckitt Benckiser will collect and how we will use that information. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit Reckitt Benckiser sites or respond to our advertisements and other communications. 
 
-##  Sections 
+We may modify this Privacy Statement and you should therefore periodically visit this page to be sure that you have read and agree with our most current privacy statement. 
 
-  * A. Information Collected
-  * B. Use of Information Collected Via the Sites
-  * C. Sharing and Disclosure of Information
-  * D. Collection and Use of Information from Children Under the Age of 13
-  * E. International Transfer of Information
-  * F. Opt-Out
-  * G. Forums, Chat Rooms and Other Public Posting Areas
-  * H. Third Party Web Sites
-  * I. Assignment
-  * J. Changes to this Privacy Policy
-  * K. Security
-  * L. Governing Law / Venue / Forum
-  * M. Contacting RB
-  * EU AND SWISS SAFE HARBOR PRIVACY STATEMENT
-  * YOUR CALIFORNIA PRIVACY RIGHTS
-  * Dates
+**Personally Identifiable Information**  
+Reckitt Benckiser will not collect any personally identifiable information about you (that is, your name, address, telephone number, or email address) unless you provide it to us voluntarily. ****
 
+When you provide personally identifiable information to us, we may ask if you want to receive future communication from us, such as newsletters, email or other information. You can choose not to receive this communication, if you wish.
 
+If you do not want your personally identifiable information collected, please do not submit it to us. If you have already submitted this information and would like us to remove it from our records, please visit the "contact us" page on the brand web site. 
 
-##  A. Information Collected 
+Personal information collected on the site may be stored or processed in your country of residence or any other country in which Reckitt Benckiser or its subcontractors or agents maintain facilities and by using the site, you consent to any transfer of information outside your country of residence. Reckitt Benckiser will ensure that if information is transferred outside your country of residence it will be treated in accordance with applicable data protection laws.
 
-This privacy policy applies only to information collected on the Sites and does not apply to information collected by RB through any other means.
+In addition to providing you with the service or information you request, your personally identifiable information may also be used to help us track the way you use our site and our products. We may also combine the information you provide with information that we collect separately, including information you have provided to other organisations (with consent that it can be shared) as well as public information. All of this information will help us, for example, better design our products, web sites and advertisements. In order to do this, we may also share your information with companies who carry out work for us. These companies have agreed to only use your information in the way we tell them and to have procedures in place to protect the information. 
 
-We collect two types of information from visitors to the Sites: (1) Personally Identifiable Information; and (2) Non- Personally Identifiable Information, such as your IP address or cookies.
+If we share your information with a company, other than as set out above, we will contact you first and give you the opportunity to remove your information from our database unless you have already given your consent to this.
 
-**(1) Personally Identifiable Information**  
-"Personally Identifiable Information" is information that identifies you personally, such as your name, address, telephone number, email address, or company name. RB collects and stores the personally identifiable information that you have provided to us. Here are some examples of manners in which we may collect your personally identifiable information on the Sites:
+We will retain your information for a reasonable period or as long as the law requires.
 
-We may collect your first and last name and product or service details if you contact us with a question related to our products or services;   
-We may collect your first and last name, mailing address and billing information if you purchase a product or service on the Sites;   
-We may collect registration details about a product that you purchase from RB and this information may be tied to your name and mailing address;   
-We may collect your first and last name, mailing information, email address and billing information if you download information from a Site;   
-We may collect your name, email address or phone number if you contact us with a question;   
-We may collect your first and last name, date of birth and email address if you choose to participate in a contest or sweepstakes; and/or   
-We may collect your name and mobile phone number if you consent to receive autodialed and/or pre-recorded telemarketing messages from or on behalf of us at your mobile number.   
-The above list is only an example of the types of personally identifiable information that may be collected on the Sites. If you do not want RB to collect your personally identifiable information, please do not provide it to us.
+**Children**  
+Reckitt Benckiser has no intention of collecting any personally identifiable information (that is, name, address, telephone number, or email address) from individuals under the age of thirteen years. Where appropriate, Reckitt Benckiser will specifically instruct children not to submit such information. If a child has provided us with personally identifiable information, a parent or guardian of that child should visit the "contact us" page on the brand web site if they would like this information deleted from our records. 
 
-**(2) Non-Personally Identifiable Information**  
-"Non-Personally Identifiable Information" can be technical information or it can be demographic information, such as your age, location, gender or interests. Non-personally identifiable information does NOT identify you personally. Here are some examples of the non-personally identifiable information that is collected via the Sites:
+**Non-Personally Identifiable Information Collected Automatically**  
+In some cases, we may collect information about you that is not personally identifiable. Examples of this type of information include the type of Internet Browser you are using, the type of computer operating system you are using, and the domain name of the site from which you linked to our site or advertisement. We use this information for the purposes of better understanding our customers’ interests and to help improve our business and sites.
 
-Internet Protocol (IP) address -- Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the webpages you view.
+**Information We May Place Automatically On Your Computer's Hard Drive**   
+When you view one of our sites or advertisements, we may store some information on your computer. For example, this information may be in the form of a "Cookie" or similar file that will allow us to tailor a site or advertisement to better match your interests and preferences. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions. Please note that removing or blocking Cookies may interfere with your full use of our site.
 
-Cookie -- A "cookie" is a small text file that may be used to collect information about your activity on the Sites. For example, when someone visits a page within the Sites, a cookie is placed on the user's machine (if the user accepts cookies) or is read if the user has visited the Sites previously. Cookies may also be used to track users across the Web. We use the information we collect from cookies for marketing and product planning purposes. Collected data may also be shared, in aggregate form, with third-parties (e.g., dealers, marketers, and distributors). We do not currently honor any “do-not-track” signal sent by browsers. However, you may opt-out of targeted advertising from National Advertising Initiative members by visiting [http://www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/). You may also set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but if you do, you may not be able to take advantage of the personalized features enjoyed by other users to our Sites. Additionally, some of the cookies we use may be flash cookies or Adobe cookies. While they are harmless, they may contain non-personally identifiable information and depending on your browser these cookies may not normally be deleted when your cookies are deleted. Please check your browser to determine where these types of cookies are stored and how they may be deleted.
+**Whom to Contact**   
+If you have submitted personally identifiable information through a Reckitt Benckiser site or interactive advertisement or other communication, and would like that information deleted from our records, please visit the "contact us" page on the brand web site. 
 
-Web Beacons (also known as "clear gifs," "web bugs" or "pixel tags") -- "Web Beacons" are tiny graphics with a unique identifier, similar in function to cookies, and are used to allow us to count users who have visited certain pages of the Sites and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted email messages, web beacons can tell the sender whether and when the email has been opened. In contrast to cookies, which are stored on a user's computer hard drive, web beacons are embedded invisibly on web pages.
-
-Product Information -- We may collect registration information or other details about your product or service. Unless this information is tied to your name or address, it is not considered personally identifiable.
-
-We may collect the above non-personally identifiable information from all visitors to our Sites. If you do not want RB to have access to this information, please do not visit our Sites. 
-
-##  B. Use of Information Collected Via the Sites 
-
-**(1) Personally Identifiable Information**  
-We use your personally identifiable information that is collected on these Sites primarily for the following purposes:
-
-To deliver services;
-
-To alert you to special offers, updated information and other new products or services from RB, or other third parties, or to forward promotional materials to you;
-
-To complete a transaction or service requested by you;
-
-To fulfill the terms of a promotion;
-
-To ensure the Sites are relevant to your needs;
-
-To help us create and publish content most relevant to you;
-
-To notify you about a material change to this privacy policy or our Terms of Use, if necessary;
-
-To allow you access to limited-entry areas of the Sites; and
-
-To contact you in response to sign up forms such as Contact Us or other inquiry.
-
-**(2) Non-Personally Identifiable Information**  
-Non-personally identifiable information is used as described above and in other ways as permitted by applicable laws, including combining non-personally identifiable information with personally identifiable information. 
-
-##  C. Sharing and Disclosure of Information 
-
-**(1) Personally Identifiable Information**  
-We may share or disclose your personally identifiable information in the following instances:
-
-To fulfill a service to you. For example, if you purchase or download an item from a site, we may share your personally identifiable information in order to provide the item to you. In addition, if you email us a question, we may use your email address to process your request and respond to your question. In addition, if you purchase a product via the Sites, we may need to share your data with third parties in order to have that product delivered to you and installed as you requested. Also, if you are entering a sweepstakes or contest, we may use your personally identifiable information in order to fulfill the terms of that promotion.
-
-To our parent company, subsidiaries and affiliates in order to better serve you. RB may have to share your data with these parties in order to provide you with services that have been requested by you, or so that we can ensure our services and products are meeting your needs.
-
-To strategic partners, agents, third party marketers or other unaffiliated parties who are offering products or services that we believe may be of interest to you. These parties may use your personally identifiable information to contact you with an offer or advertisement related to a product or service. If you do not want us to share your personally identifiable information in this manner, please do not provide us with this information.
-
-To unaffiliated third-party service providers, agents or independent contractors who help us maintain our Sites and provide other administrative services to us (including, but not limited to, order processing and fulfillment, providing customer service, maintaining and analyzing data, sending customer communications on RB's behalf, and entry collection, winner selection and prize fulfillment for contests, sweepstakes and other promotions). We seek to ensure that these unaffiliated third parties will not use the personally identifiable information for any other purpose than to provide the administrative services for which they are responsible. Because such unaffiliated third-party service providers that help us administer our Sites will have access to users' personally identifiable information, if you do not wish for our unaffiliated third-party service providers to have access to your information, please do not register or submit any personally identifiable information to us.
-
-To complete your purchase. If you choose to make a purchase on the Sites, we may collect from you your credit card number, billing address and other information related to such purchase, and we may use such collected information in order to fulfill your purchase. We may also provide such information, or other personally identifiable information provided by you, to unaffiliated third parties as necessary to complete your purchase (for example, to process your credit card).
-
-To comply with the law or in the good faith belief that such action is necessary in order to conform to the requirements of law or comply with legal process served on us, protect and defend our rights or property, including the rights and property of RB or act in urgent circumstances to protect the personal safety of our end users.
-
-To third parties as part of any corporate reorganization process including, but not limited to, mergers, acquisitions, and sales of all or substantially all of our assets.
-
-To track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties.
-
-To protect against potential fraud, we may verify with third parties the information collected from these Sites. In the course of such verification, we may receive personally identifiable information about you from such services. In particular, if you use a credit card or debit card to purchase services with us, we may use card authorization and fraud screening services to verify that your card information and address matches the information that you supplied to us, and that the card has not been reported as lost or stolen.
-
-Except as described in this Privacy Policy or at the time we request the information, we do not otherwise use, share or otherwise disclose your personally identifiable information to any third parties.
-
-**(2) Non-Personally Identifiable Information**  
-We use non-personally identifiable information collected on the Sites in the manner disclosed above, in the Section A (2). We may share this non-personal information with third parties. 
-
-##  D. Collection and Use of Information from Children Under the Age of 13 
-
-RB does not knowingly collect or solicit Personal Information from anyone under the age of 13 or knowingly allow such persons to use the Sites. If you are under 13 please do not attempt to register on the Sites or send us any Personal Information. 
-
-##  E. International Transfer of Information 
-
-If you choose to provide us with personally identifiable information, RB may transfer that information to its affiliates and subsidiaries or to other third parties, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. 
-
-##  F. Opt-Out 
-
-From time to time, we communicate with users who subscribe to our services via email. For example, we may use your email address to confirm your request, to send you notice of payments, to send you information about changes to our products and services, and to send notices and other disclosures as required by law. Generally, users cannot opt-out of these communications, but they will be primarily informational in nature rather than promotional and you have consented to receiving such e-mails by providing your email address.
-
-However, we provide you the opportunity to exercise an opt-out choice if you do not want to receive other types of communication from us, such as emails or updates from us regarding new services and products offered on the Sites or if you do not want us to share your personally identifiable information with third parties. For e-mails, the opt-out choice may be exercised by ticking or un-ticking the appropriate box if such checkbox is available at the points where personally identifiable information is collected or by contacting us. We will process your unsubscribe as soon as possible, but please be aware that in some circumstances you may receive a few more messages until the unsubscribe is processed. You also may opt-out of receiving such emails by clicking on the "unsubscribe" link within the text of the email. For text messages, should you choose to “unsubscribe” or stop receiving such messages, you can contact us directly at  [consumer.relations@rb.com](mailto:consumer.relations@rb.com) or reply with the message “STOP” to a message after it is received. Further, you hereby confirm consent to receiving a confirmatory message in response to your STOP request. Message and data rates may apply. 
-
-##  G. Forums, Chat Rooms and Other Public Posting Areas 
-
-Please note that any information you include in a message you post to any product review board, chat room, forum or other public posting area is available to anyone with Internet access. If you don't want people to know your e-mail address, for example, don't include it in any message you post publicly. 
-
-##  H. Third Party Web Sites 
-
-This statement applies solely to information collected on the Sites. The Sites may contain links to other web sites. We are not responsible for the privacy practices or the content of these other web sites.
-
-With respect to purchase transactions through the commerce solution which is accessible through the Sites, end users may be required to provide personally identifiable information (including credit card information) directly to a third party retailer in connection with the sale of products through the Sites, and any information so disclosed to such third party shall be governed by such third party’s privacy policy. 
-
-##  I. Assignment 
-
-In the event that all or part of our assets are sold or acquired by another party, or in the event of a merger, you grant us the right to assign the personally identifiable and non-personally identifiable information collected via the Sites. 
-
-##  J. Changes to this Privacy Policy 
-
-We reserve the right to change this privacy policy from time to time in our sole discretion. When we do, we will also revise the "last update" date at the bottom of this privacy policy. 
-
-##  K. Security 
-
-No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you understand that any information that you transfer to RB is done at your own risk.
-
-Once we receive your transmission, we make reasonable efforts to ensure security on our systems. We use firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software.
-
-If we learn of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using these Sites or providing personally identifiable information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of these Sites. We may post a notice on our Sites if a security breach occurs. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. 
-
-##  L. Governing Law / Venue / Forum 
-
-This Agreement shall be governed by the laws of the State of New Jersey and by the federal laws of the United States, excluding their conflicts of laws provisions. All disputes, controversies and disagreements between the parties arising out of or related to this privacy policy shall be exclusively submitted for, resolved and finally settled by, binding arbitration. The arbitration shall be conducted by three (3) arbitrators exclusively in Morris County, NJ, in accordance with the Commercial Arbitration Rules of the American Arbitration Association. The Parties waive any objection that might be made on the ground that such venue may be in an inconvenient forum. 
-
-##  M. Contacting RB 
-
-If you have any questions about this privacy policy or our privacy practices, please contact us at [consumer.relations@rb.com](mailto:consumer.relations@rb.com).   All information you provide in any written communication will also be covered by this policy. 
-
-##  EU AND SWISS SAFE HARBOR PRIVACY STATEMENT 
-
-RB complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. RB has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view RB’s certification, please visit [http://www.export.gov/safeharbor](http://www.export.gov/safeharbor).
-
-Should any EU or Swiss citizen have any questions or concerns regarding the use or disclosure of personal information they should direct inquiries to [consumer.relations@rb.com](mailto:consumer.relations@rb.com). RB will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information by reference to the principles contained in this Policy. For complaints that cannot be resolved between RB and the complainant, complainant should contact the data protection authority in their home country.  For a list of data protection authorties please visit: [http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm)
-
-##  YOUR CALIFORNIA PRIVACY RIGHTS 
-
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding RB's disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us:
-
-Reckitt Benckiser LLC
-
-399 Interpace Parkway
-
-PO Box 225
-
-Parsippany, NJ 07054-0225
-
-Attn: Consumer Relations
-
-##  Dates 
-
-Effective Date: 23rd Mar. 2015  
-Last Updated On: 23rd Mar. 2015
-
-Back to Top
+This Privacy Statement is effective as of 1 April 2014  
+Ӡ 2014 RB UK Commercial Limited. All rights reserved. 
