@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anydesk.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627133658id_/http%3A//anydesk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anydesk.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125125937id_/http%3A//anydesk.com/privacy) for the most accurate reproduction.*
 
 # AnyDesk - Privacy Statement
 
@@ -89,4 +89,4 @@ We reserve the right at any time to modify this privacy statement in compliance 
 
 ### Contact
 
-For questions about this privacy policy, please contact us via the means specified in the [imprint](https://web.archive.org/web/20160627133658id_/http%3A//anydesk.com/contact). You can inquire at any time whether and which of your data is stored by us. In addition, you can send us inquiries, deletion and correction requests. Feel free to send suggestions. 
+For questions about this privacy policy, please contact us via the means specified in the [imprint](https://web.archive.org/web/20161125125937id_/http%3A//anydesk.com/contact). You can inquire at any time whether and which of your data is stored by us. In addition, you can send us inquiries, deletion and correction requests. Feel free to send suggestions. 
