@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmcc.edu privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606195736id_/http%3A//www.tmcc.edu/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmcc.edu privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125025106id_/http%3A//www.tmcc.edu/disclaimer) for the most accurate reproduction.*
 
 # Disclaimer - Truckee Meadows Community College
 
@@ -18,19 +18,35 @@ If, after due consideration, you wish to restrict the release of directory infor
 
 ### Network Traffic Logs
 
-In the course of ensuring network security and consistent service for all users, TMCC employs software programs to do such things as monitor network traffic, identify unauthorized access or access to nonpublic information, detect computer viruses and other software that might damage TMCC's computers or the network, and monitor and tune the performance of the TMCC network. In the course of such monitoring, these programs may detect such information as email headers, addresses from network packets, and other information. Information from these activities is used only for the purpose of maintaining the security and performance of the TMCC's networks and computer systems. Personally identifiable information from these activities is not released to external parties without your consent unless authorized by the TMCC President or required by law.
+In the course of ensuring network security and consistent service for all users, TMCC employs software programs to do such things as monitor network traffic, identify unauthorized access or access to nonpublic information, detect computer viruses and other software that might damage TMCC's computers or the network, and monitor and tune the performance of the TMCC network.
+
+In the course of such monitoring, these programs may detect such information as email headers, addresses from network packets, and other information. Information from these activities is used only for the purpose of maintaining the security and performance of the TMCC's networks and computer systems.
+
+Personally identifiable information from these activities is not released to external parties without your consent unless authorized by the TMCC President or required by law.
 
 ### Web Logs
 
-The Truckee Meadows Community College website routinely collects and stores information from online visitors to help manage and improve service. This information includes the pages visited on the site; the date and time of the visit; the Internet address (URL or IP address) of the referring site; the domain name and IP address from which the access occurred; the version of browser used; the capabilities of the browser; and search terms used on our search engines. This site makes no attempt to identify individual visitors from this information; personally identifiable information is not released to external parties without your consent unless authorized by the TMCC President or required by law.
+The Truckee Meadows Community College website routinely collects and stores information from online visitors to help manage and improve service. This information includes the pages visited on the site; the date and time of the visit; the Internet address (URL or IP address) of the referring site; the domain name and IP address from which the access occurred; the version of browser used; the capabilities of the browser; and search terms used on our search engines.
+
+This site makes no attempt to identify individual visitors from this information; personally identifiable information is not released to external parties without your consent unless authorized by the TMCC President or required by law.
 
 ### Cookies
 
-Cookies are pieces of information stored by your Web browser on behalf of a website and returned to the website on request. This site may use cookies for two purposes: to carry data about your current session at the site from one Web page to the next, and to identify you to the site between visits. If you prefer not to receive cookies, you may turn them off in your browser, or may set your browser to ask you before accepting a new cookie. Some pages may not function properly if the cookies are turned off. Unless otherwise notified on this site, we will not store data other than for these two purposes in cookies. Cookies remain on your computer, and accordingly we neither store cookies on our computers nor forward them to any external parties. Unless otherwise notified on this site, we do not use cookies to track your movement among different websites and do not exchange cookies with other entities.
+Cookies are pieces of information stored by your Web browser on behalf of a website and returned to the website on request. This site may use cookies for two purposes: to carry data about your current session at the site from one Web page to the next, and to identify you to the site between visits.
+
+If you prefer not to receive cookies, you may turn them off in your browser, or may set your browser to ask you before accepting a new cookie. Some pages may not function properly if the cookies are turned off.
+
+Unless otherwise notified on this site, we will not store data other than for these two purposes in cookies. Cookies remain on your computer, and accordingly we neither store cookies on our computers nor forward them to any external parties.
+
+Unless otherwise notified on this site, we do not use cookies to track your movement among different websites and do not exchange cookies with other entities.
 
 ### Information Voluntarily Provided by You
 
-In the course of using this website, you may choose to provide us with information to help us serve your needs. For example, you may send us electronic mail (through a mailer or a Web form) to request information, you may sign up for a mailing list, or you may send us your address so that we may send you an application or other material. Any personally identifiable information you send us will be used only for the purpose indicated. Requests for information will be directed to the appropriate staff to respond to the request and may be recorded to help us update our site to better respond to similar requests. We will not sell, exchange or otherwise distribute your personally identifiable information without your consent, except to the extent required by law. We do not retain the information longer than necessary for normal operations. Each Web page requesting information discloses the purpose of that information. If you do not wish to have the information used in that manner, you are not required to provide it. Please contact the person listed on the specific page, or listed below, with questions or concerns on the use of personally identifiable information.
+In the course of using this website, you may choose to provide us with information to help us serve your needs. For example, you may send us electronic mail (through a mailer or a Web form) to request information, you may sign up for a mailing list, or you may send us your address so that we may send you an application or other material.
+
+Any personally identifiable information you send us will be used only for the purpose indicated. Requests for information will be directed to the appropriate staff to respond to the request and may be recorded to help us update our site to better respond to similar requests. We will not sell, exchange or otherwise distribute your personally identifiable information without your consent, except to the extent required by law. We do not retain the information longer than necessary for normal operations. Each Web page requesting information discloses the purpose of that information.
+
+If you do not wish to have the information used in that manner, you are not required to provide it. Please contact the person listed on the specific page, or listed below, with questions or concerns on the use of personally identifiable information.
 
 ### External Links
 
