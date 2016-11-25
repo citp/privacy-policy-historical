@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the allotment.org.uk privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313143321id_/http%3A//www.allotment-garden.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allotment.org.uk privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125170822id_/http%3A//www.allotment-garden.org/privacy) for the most accurate reproduction.*
 
-# Your Privacy
+# Your Privacy - Allotment & Gardens
 
 Allotment & Gardens is managed by WebOneUK Ltd.
 
 ### General
 
-This privacy policy explains what information WebOneUK Limited who manage the Allotment Growing web sites under the domain allotment.org.uk collects and what that information is used for. If you have any questions or concerns regarding this policy please contact us via the contact page for Allotment Growing.
+This privacy policy explains what information WebOneUK Limited who manage the Allotment Garden web sites under the domains allotment.org.uk, allotment.org, allotment-garden.org etc collects and what that information is used for. If you have any questions or concerns regarding this policy please contact us via the contact page for Allotment Garden
 
-### What information is used by WebOneUK Ltd for Allotment Growing?
+### What information is used by WebOneUK Ltd for Allotment Garden?
 
 We use the personal data, which you have provided, to supply you with the information, reference material, regulations, notes, guidelines or advice, which you have requested. The information and personal data is only collected and used for the purpose(s) for which it was provided. It is never sold or shared with any third parties except as defined in **Use and disclosure of personal information** below.
 
@@ -16,9 +16,9 @@ Your details are collected when you complete forms, request reference material, 
 
 ### What is a cookie?
 
-A cookie is a small amount of information recording details of your visit to our web site but which does not identify you. The cookie is created by our web server and is saved on your PC's hard drive. The next time you visit our web site, the web server will check to see if you have a cookie. If you have, the web server will be able to check the last time you visited the site.
+A cookie is a small amount of information recording details of your visit to our web site but which does not identify you. The cookie is created by our web server and is saved on your PC’s hard drive. The next time you visit our web site, the web server will check to see if you have a cookie. If you have, the web server will be able to check the last time you visited the site.
 
-If you do not want to receive cookies or, if you would prefer to be prompted first, you should check the settings in the "Internet Options" of your web browser. If you are not sure how to check or alter these settings, you should contact your software provider or support line.
+If you do not want to receive cookies or, if you would prefer to be prompted first, you should check the settings in the “Internet Options” of your web browser. If you are not sure how to check or alter these settings, you should contact your software provider or support line.
 
 Please be aware that disabling cookies will have a detrimental effect on your ability to contribute to the forums and to utilise some other facilities on the site.
 
@@ -44,4 +44,4 @@ We follow generally accepted industry standards to protect the personal informat
 
 ### Contact Us
 
-If you have any questions regarding use of your data you can contact us via the contact page located [here](https://web.archive.org/contact.php)
+If you have any questions regarding use of your data you can contact us via the contact page
