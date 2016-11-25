@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chestpubs.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617143216id_/http%3A//publications.chestnet.org/ss/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chestpubs.org privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125232147id_/http%3A//publications.chestnet.org/ss/privacypolicy.aspx) for the most accurate reproduction.*
 
-# CHEST Publications | Privacy Policy
+# Privacy Policy | CHEST Publications
 
 Tracking Activity  
 Personal Information  
