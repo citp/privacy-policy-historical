@@ -1,23 +1,29 @@
-<!--The following is the downloaded HTML source of the rider.edu privacy policy that was archived on 2016-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160614204622id_/http%3A//www.rider.edu/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rider.edu privacy policy that was archived on 2016-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161125152500id_/http%3A//www.rider.edu/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#"><!--<![endif]--><head>
 
 
-  <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script src="https://script.crazyegg.com/pages/scripts/0047/4780.js?439588" async="" type="text/javascript"></script><script type="text/javascript" async="" src="http://static.addtoany.com/menu/page.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="http://www.rider.edu/sites/default/files/googleanalytics/analytics.js?o8pveg"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwAPVldSGwcJUVhXAwU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(11),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(12),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(13)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(13)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(13)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(13)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(8),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(10),m=window.XMLHttpRequest;s.features.xhr=!0,t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(11),a=t(12);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],11:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],12:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],13:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(12),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",s=t("gos"),c=t(11),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(11),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,7]);</script>
+  <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-974.min.js"></script><script type="text/javascript" async="" src="http://static.addtoany.com/menu/page.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script src="https://script.crazyegg.com/pages/scripts/0047/4780.js?439595" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="http://www.rider.edu/sites/default/files/googleanalytics/analytics.js?oh01mr"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwAPVldSGwcJUVhXAwU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(14)(a),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=s(n,"nr@wrapped",function(){return c(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&c.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(14)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(14)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(w=-w,x.data=w)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(14)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,g),g.prototype=p.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var w=1,x=document.createTextNode(w);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],c])}f(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],c),l}finally{f(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<n.length;s++)c=n[s],a=t[c],r(a)||(t[c]=e(a,f?c+o:o,i,c))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){s(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",c=t("gos"),s=t(12),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!w++){var t=g.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(v,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;g.proto=n?"https://":"http://",c("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=g.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(12),f=window,u=f.document,d="addEventListener",l="attachEvent",p=f.XMLHttpRequest,h=p&&p.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:p,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var m=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-974.min.js"},y=p&&h&&h[d]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:m,features:{},xhrWrappable:y};u[d]?(u[d]("DOMContentLoaded",i,!1),f[d]("load",r,!1)):(u[l]("onreadystatechange",o),f[l]("onload",r)),c("mark",["firstbyte",a()],null,"api");var w=0},{}]},{},["loader",2,7]);</script>
 <link rel="shortcut icon" href="http://www.rider.edu/sites/default/files/rider-favicon.ico" type="image/vnd.microsoft.icon">
-<meta name="description" content="Rider University is committed to protecting your privacy.The Rider.edu Web site is provided to support Rider University’s mission and to be of service to students, parents, faculty, staff, alumni, friends, supporters, and the public. Use of this site for any purposes other than that for which it is intended is unauthorized and prohibited.Data Collection and Use of Cookies">
+<meta name="description" content="Rider University is committed to protecting your privacy. The Rider.edu Web site is provided to support Rider University’s mission and to be of service to students, parents, faculty, staff, alumni, friends, supporters, and the public. Use of this site for any purposes other than that for which it is intended is unauthorized and prohibited. Data Collection and Use of Cookies">
 <meta name="generator" content="Rider University">
 <link rel="canonical" href="http://www.rider.edu/privacy-policy">
 <link rel="shortlink" href="http://www.rider.edu/node/83176">
 <meta property="og:site_name" content="Rider University">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://www.rider.edu/privacy-policy">
 <meta property="og:title" content="Privacy Policy">
-<meta property="og:description" content="Rider University is committed to protecting your privacy.The Rider.edu Web site is provided to support Rider University’s mission and to be of service to students, parents, faculty, staff, alumni, friends, supporters, and the public. Use of this site for any purposes other than that for which it is intended is unauthorized and prohibited.Data Collection and Use of Cookies">
-<meta property="og:updated_time" content="2013-11-13T13:17:01-05:00">
+<meta property="og:url" content="http://www.rider.edu/privacy-policy">
+<meta property="og:description" content="Rider University is committed to protecting your privacy. The Rider.edu Web site is provided to support Rider University’s mission and to be of service to students, parents, faculty, staff, alumni, friends, supporters, and the public. Use of this site for any purposes other than that for which it is intended is unauthorized and prohibited. Data Collection and Use of Cookies">
+<meta property="og:updated_time" content="2016-10-27T15:48:57-04:00">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:creator" content="@RiderUniversity">
+<meta name="twitter:creator:id" content="530842130">
+<meta name="twitter:url" content="http://www.rider.edu/privacy-policy">
+<meta name="twitter:title" content="Privacy Policy | Rider University">
+<meta name="twitter:description" content="Rider University is committed to protecting your privacy. The Rider.edu Web site is provided to support Rider University’s mission and to be of service to students, parents, faculty, staff, alumni, friends, supporters, and the public. Use of this site for any purposes other than that for which it is intended is unauthorized and prohibited. Data Collection and Use of Cookies">
 <meta property="article:published_time" content="2010-10-06T09:21:30-04:00">
-<meta property="article:modified_time" content="2013-11-13T13:17:01-05:00">
+<meta property="article:modified_time" content="2016-10-27T15:48:57-04:00">
     <title>Privacy Policy | Rider University</title>
 
       <meta name="MobileOptimized" content="width">
@@ -26,59 +32,33 @@
     <meta http-equiv="cleartype" content="on">
 
   <link type="text/css" rel="stylesheet" href="http://www.rider.edu/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.rider.edu/sites/default/files/css/css_Gbf97EXA9ghdg1uoO3bO7bEoQMMuhkizKgbp-6yQdts.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.rider.edu/sites/default/files/css/css_vjVCf2re_miWnXmtRMHO5NzQiqI-5pqt69G8N-LptXg.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.rider.edu/sites/default/files/css/css_hTLrwzbU9bZhjvzx-j5entbJFEHkjJyd6RgHEla8FhA.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.rider.edu/sites/default/files/css/css_jEr80cvbd8NzPRNMAV1kUbOMI5dMBednROHqTp6v3R8.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.rider.edu/sites/default/files/css/css_1pXpSEMBcb6gcqVzo5WmTVGq2OAuFx5nIIydVtuXn98.css" media="all">
 <link type="text/css" rel="stylesheet" href="http://www.rider.edu/sites/default/files/css/css_V1PyaC1u0bMjX5gD1jQynBTh_luYmCsYnS71M_AMZ0I.css" media="print">
-<link type="text/css" rel="stylesheet" href="http://www.rider.edu/sites/default/files/css/css_AtYsB0caCSsyurDP3rdRuyQAr3aa8GKwjdzYGIKlgCI.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.rider.edu/sites/default/files/css/css_ZHrkWkc8Rv-YoXEtknTvG8JercAnYAHFuucmBvkvMhU.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.rider.edu/sites/default/files/css/css_C5eQLJjN8KFV-2ravxM65stSR7lxFP0hs_j5zYqA6dU.css" media="all">
+<style>.group-textheader .caption,.group-textheader .caption a{color:#ffffff !important;}
+.group-textheader .subcaption{color:#ffffff !important;}
+</style>
+<link type="text/css" rel="stylesheet" href="http://www.rider.edu/sites/default/files/css/css_9ksD_x2m-mIcRWvJsGAL3eayh_5cxH1R-JwChfrLXVg.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.rider.edu/sites/default/files/css/css_WYI7hOZnWfogbYLn3DaVj4-nM4YGRlVdC1rDXO_pH_0.css" media="all">
   <script>window.google_analytics_uacct = "UA-10880414-1";</script>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")</script><script src="/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js"></script>
 <script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
-<script src="http://www.rider.edu/sites/all/modules/contrib/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
-<script src="http://www.rider.edu/misc/jquery.once.js?v=1.2"></script>
-<script src="http://www.rider.edu/misc/drupal.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/libraries/fitvids/jquery.fitvids.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/modules/contrib/autoupload/js/autoupload.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/modules/contrib/fitvids/fitvids.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/modules/contrib/menu_attach_block/menu_attach_block.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/modules/custom/rider_core/js/outliner.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/modules/custom/rider_core/js/jquery.equal.heights.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/modules/custom/rider_core/js/jquery.color.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/modules/custom/rider_core/js/ajax.content.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/modules/custom/rider_core/js/custom.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/modules/custom/rider_core/js/jquery.content.columns.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/modules/custom/rider_core/js/iframe-resizer/js/iframeResizer.min.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/modules/custom/rider_datatables/js/rider.datatables.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/modules/custom/rider_eventsubmissions/js/jquery.highlight.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/modules/custom/rider_eventsubmissions/js/rider.unique.id.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/modules/custom/rider_eventsubmissions/js/rider.dialog.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/modules/custom/rider_eventsubmissions/js/rider.event.calendar.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/modules/custom/rider_eventsubmissions/js/rider.event.picker.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/modules/custom/rider_eventsubmissions/js/rider.eventsubmissions.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/modules/contrib/extlink/extlink.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/modules/contrib/apachesolr_autocomplete/apachesolr_autocomplete.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/modules/contrib/apachesolr_autocomplete/jquery-autocomplete/jquery.autocomplete.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/libraries/audio-player/audio-player.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/libraries/blockui/jquery.blockUI.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/libraries/bootstrap/js/bootstrap.min.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/libraries/tablesaw/tablesaw.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/libraries/moment/moment-with-locales.min.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/libraries/fullcalendar/fullcalendar.min.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/modules/contrib/google_analytics/googleanalytics.js?o8pveg"></script>
-<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","http://www.rider.edu/sites/default/files/googleanalytics/analytics.js?o8pveg","ga");ga("create", "UA-10880414-1", {"cookieDomain":"auto"});ga("require", "displayfeatures");ga("send", "pageview");</script>
-<script src="http://www.rider.edu/sites/all/modules/contrib/field_group/field_group.js?o8pveg"></script>
+<script src="http://www.rider.edu/sites/default/files/js/js_zVZr7p-lB6zaFE-2yKVNitwFopir-A64_7gOJefP7uM.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+<script>window.jQuery.ui || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery-ui.min.js'>\x3C/script>")</script><script src="/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery-ui.min.js"></script>
+<script src="http://www.rider.edu/sites/default/files/js/js_FzCiGWbJSO8DnydpmYyWRaLiw8en4xDfcG5S8BjpNc0.js"></script>
+<script src="http://www.rider.edu/sites/default/files/js/js_By-GtAB9X9dNtzr4t38km8gA-lDScZDWH7CBCW0mbLI.js"></script>
+<script>jQuery( document ).ready(function() {jQuery('.vbo-views-form #edit-select').remove();});</script>
+<script src="http://www.rider.edu/sites/default/files/js/js_s9RwSMJVzqIvG8GzDxJL0epmZfA0dKZzqWsUAU9_cZY.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","http://www.rider.edu/sites/default/files/googleanalytics/analytics.js?oh01mr","ga");ga("create", "UA-10880414-1", {"cookieDomain":"auto"});ga("require", "displayfeatures");ga("send", "pageview");</script>
 <script>var a2a_config=a2a_config||{},da2a={done:false,html_done:false,script_ready:false,script_load:function(){var a=document.createElement('script'),s=document.getElementsByTagName('script')[0];a.type='text/javascript';a.async=true;a.src='http://static.addtoany.com/menu/page.js';s.parentNode.insertBefore(a,s);da2a.script_load=function(){};},script_onready:function(){if(a2a.type=='page'){da2a.script_ready=true;if(da2a.html_done)da2a.init();}},init:function(){for(var i=0,el,target,targets=da2a.targets,length=targets.length;i<length;i++){el=document.getElementById('da2a_'+(i+1));target=targets[i];a2a_config.linkname=target.title;a2a_config.linkurl=target.url;if(el){a2a.init('page',{target:el});el.id='';}da2a.done=true;}da2a.targets=[];}};a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.callbacks.push({ready:da2a.script_onready});a2a_config.icon_color = "#96221e";
 a2a_config.track_links = 'ga';</script>
-<script src="http://www.rider.edu/sites/all/themes/rider_zen/js/superfish/latest/superfish.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/themes/rider_zen/js/jquery.mmenu/jquery.mmenu.min.all.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/themes/rider_zen/js/rider-mobile-menu.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/themes/rider_zen/js/rider-desktop-menus.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/themes/rider_zen/js/script.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/themes/rider_zen/js/jquery.mousewheel.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/themes/rider_zen/js/mwheelIntent.js?o8pveg"></script>
-<script src="http://www.rider.edu/sites/all/themes/rider_zen/js/jquery.jscrollpane.min.js?o8pveg"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"rider_zen","theme_token":"VHJNbJBAUd4YIdadeycDU-J3D4yo8fLRkBv27C73RwY","js":{"0":1,"1":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.min.js":1,"2":1,"3":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/fitvids\/jquery.fitvids.js":1,"sites\/all\/modules\/contrib\/autoupload\/js\/autoupload.js":1,"sites\/all\/modules\/contrib\/fitvids\/fitvids.js":1,"sites\/all\/modules\/contrib\/menu_attach_block\/menu_attach_block.js":1,"sites\/all\/modules\/custom\/rider_core\/js\/outliner.js":1,"sites\/all\/modules\/custom\/rider_core\/js\/jquery.equal.heights.js":1,"sites\/all\/modules\/custom\/rider_core\/js\/jquery.color.js":1,"sites\/all\/modules\/custom\/rider_core\/js\/ajax.content.js":1,"sites\/all\/modules\/custom\/rider_core\/js\/custom.js":1,"sites\/all\/modules\/custom\/rider_core\/js\/jquery.content.columns.js":1,"sites\/all\/modules\/custom\/rider_core\/js\/iframe-resizer\/js\/iframeResizer.min.js":1,"sites\/all\/modules\/custom\/rider_datatables\/js\/rider.datatables.js":1,"sites\/all\/modules\/custom\/rider_eventsubmissions\/js\/jquery.highlight.js":1,"sites\/all\/modules\/custom\/rider_eventsubmissions\/js\/rider.unique.id.js":1,"sites\/all\/modules\/custom\/rider_eventsubmissions\/js\/rider.dialog.js":1,"sites\/all\/modules\/custom\/rider_eventsubmissions\/js\/rider.event.calendar.js":1,"sites\/all\/modules\/custom\/rider_eventsubmissions\/js\/rider.event.picker.js":1,"sites\/all\/modules\/custom\/rider_eventsubmissions\/js\/rider.eventsubmissions.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/modules\/contrib\/apachesolr_autocomplete\/apachesolr_autocomplete.js":1,"sites\/all\/modules\/contrib\/apachesolr_autocomplete\/jquery-autocomplete\/jquery.autocomplete.js":1,"sites\/all\/libraries\/audio-player\/audio-player.js":1,"sites\/all\/libraries\/blockui\/jquery.blockUI.js":1,"sites\/all\/libraries\/bootstrap\/js\/bootstrap.min.js":1,"sites\/all\/libraries\/tablesaw\/tablesaw.js":1,"sites\/all\/libraries\/moment\/moment-with-locales.min.js":1,"sites\/all\/libraries\/fullcalendar\/fullcalendar.min.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"4":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"5":1,"sites\/all\/themes\/rider_zen\/js\/superfish\/latest\/superfish.js":1,"sites\/all\/themes\/rider_zen\/js\/jquery.mmenu\/jquery.mmenu.min.all.js":1,"sites\/all\/themes\/rider_zen\/js\/rider-mobile-menu.js":1,"sites\/all\/themes\/rider_zen\/js\/rider-desktop-menus.js":1,"sites\/all\/themes\/rider_zen\/js\/script.js":1,"sites\/all\/themes\/rider_zen\/js\/jquery.mousewheel.js":1,"sites\/all\/themes\/rider_zen\/js\/mwheelIntent.js":1,"sites\/all\/themes\/rider_zen\/js\/jquery.jscrollpane.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/fitvids\/fitvids.css":1,"sites\/all\/modules\/contrib\/menu_attach_block\/menu_attach_block.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/rider_core\/css\/reset.css":1,"sites\/all\/modules\/custom\/rider_core\/css\/font-awesome-4.3.0\/css\/font-awesome.min.css":1,"sites\/all\/modules\/custom\/rider_core\/css\/global.css":1,"sites\/all\/modules\/custom\/rider_core\/css\/ajax.content.css":1,"sites\/all\/modules\/custom\/rider_core\/css\/globalfooter.css":1,"sites\/all\/modules\/custom\/rider_core\/css\/jquery.content.columns.css":1,"sites\/all\/modules\/custom\/rider_datatables\/css\/rider.datatables.css":1,"sites\/all\/modules\/custom\/rider_eventsubmissions\/css\/rider.event.calendar.css":1,"sites\/all\/modules\/custom\/rider_eventsubmissions\/css\/rider.event.picker.css":1,"sites\/all\/modules\/custom\/rider_eventsubmissions\/css\/rider.event.submission.form.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/apachesolr_autocomplete\/apachesolr_autocomplete.css":1,"sites\/all\/modules\/contrib\/apachesolr_autocomplete\/jquery-autocomplete\/jquery.autocomplete.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/bootstrap\/css\/bootstrap-scoped.css":1,"sites\/all\/libraries\/tablesaw\/bare\/tablesaw.bare.css":1,"sites\/all\/libraries\/fullcalendar\/fullcalendar.print.css":1,"sites\/all\/libraries\/fullcalendar\/fullcalendar.css":1,"sites\/all\/modules\/contrib\/addtoany\/addtoany.css":1,"sites\/all\/themes\/rider_zen\/system.menus.css":1,"sites\/all\/themes\/rider_zen\/system.messages.css":1,"sites\/all\/themes\/rider_zen\/system.theme.css":1,"sites\/all\/themes\/rider_zen\/css\/superfish\/latest\/superfish.css":1,"sites\/all\/themes\/rider_zen\/css\/styles.css":1,"sites\/all\/themes\/rider_zen\/css\/top_menu.css":1,"sites\/all\/themes\/rider_zen\/css\/navigation.css":1,"sites\/all\/themes\/rider_zen\/css\/jquery.mmenu\/jquery.mmenu.all.css":1}},"apachesolr_autocomplete":{"path":"\/apachesolr_autocomplete"},"fitvids":{"custom_domains":["iframe[src^=\u0027http:\/\/api.smugmug.com\u0027]","iframe[src^=\u0027http:\/\/smugmug.com\u0027]","iframe[src^=\u0027http:\/\/www.smugmug.com\u0027]","iframe[src^=\u0027https:\/\/visuals.zoomph.com\u0027]","iframe[src^=\u0027https:\/\/www.njvid.net\u0027]"],"selectors":["body"],"simplifymarkup":1},"extlink":{"extTarget":0,"extClass":0,"extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":".noextlink, .event-featured-left","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/privacy-policy":true},"field_group":{"div":"full"}});</script>
+<script src="http://www.rider.edu/sites/default/files/js/js_zsU7pE_En9PuEzx00IjN_iCxIwgABAiEwJNkh1iTG9k.js"></script>
+<script src="http://www.rider.edu/sites/default/files/js/js_rVoSJ6HAMqBxdPTcPgkc3L9_NhRBqI8EYYFZrJkVWe0.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"rider_zen","theme_token":"7fFKVFMKTJk1jwEn60TDMafgC2xc_TfLkRx_GAUx4Og","js":{"0":1,"1":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.min.js":1,"2":1,"3":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/fitvids\/jquery.fitvids.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.10.2\/jquery-ui.min.js":1,"4":1,"sites\/all\/modules\/contrib\/autoupload\/js\/autoupload.js":1,"sites\/all\/modules\/contrib\/fb_instant_articles\/modules\/fb_instant_articles_display\/js\/admin.js":1,"sites\/all\/modules\/contrib\/fitvids\/fitvids.js":1,"sites\/all\/modules\/contrib\/menu_attach_block\/menu_attach_block.js":1,"sites\/all\/modules\/custom\/rider_core\/js\/outliner.js":1,"sites\/all\/modules\/custom\/rider_core\/js\/jquery.equal.heights.js":1,"sites\/all\/modules\/custom\/rider_core\/js\/jquery.color.js":1,"sites\/all\/modules\/custom\/rider_core\/js\/ajax.content.js":1,"sites\/all\/modules\/custom\/rider_core\/js\/custom.js":1,"sites\/all\/modules\/custom\/rider_core\/js\/jquery.content.columns.js":1,"sites\/all\/modules\/custom\/rider_core\/js\/iframe-resizer\/js\/iframeResizer.min.js":1,"sites\/all\/modules\/custom\/rider_core\/js\/jquery.watch.js":1,"sites\/all\/modules\/custom\/rider_datatables\/js\/rider.datatables.js":1,"sites\/all\/modules\/custom\/rider_eventsubmissions\/js\/jquery.highlight.js":1,"sites\/all\/modules\/custom\/rider_eventsubmissions\/js\/rider.unique.id.js":1,"sites\/all\/modules\/custom\/rider_eventsubmissions\/js\/rider.dialog.js":1,"sites\/all\/modules\/custom\/rider_eventsubmissions\/js\/rider.event.calendar.js":1,"sites\/all\/modules\/custom\/rider_eventsubmissions\/js\/rider.event.picker.js":1,"sites\/all\/modules\/custom\/rider_eventsubmissions\/js\/rider.eventsubmissions.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/modules\/contrib\/apachesolr_autocomplete\/apachesolr_autocomplete_jqueryui.js":1,"sites\/all\/libraries\/audio-player\/audio-player.js":1,"5":1,"sites\/all\/libraries\/blockui\/jquery.blockUI.js":1,"sites\/all\/libraries\/bootstrap\/js\/bootstrap.min.js":1,"sites\/all\/libraries\/tablesaw\/tablesaw.js":1,"sites\/all\/libraries\/moment\/moment-with-locales.min.js":1,"sites\/all\/libraries\/fullcalendar\/fullcalendar.min.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"6":1,"7":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/themes\/rider_zen\/js\/superfish\/latest\/superfish.js":1,"sites\/all\/themes\/rider_zen\/js\/jquery.mmenu\/jquery.mmenu.min.all.js":1,"sites\/all\/themes\/rider_zen\/js\/rider-mobile-menu.js":1,"sites\/all\/themes\/rider_zen\/js\/rider-desktop-menus.js":1,"sites\/all\/themes\/rider_zen\/js\/script.js":1,"sites\/all\/themes\/rider_zen\/js\/jquery.mousewheel.js":1,"sites\/all\/themes\/rider_zen\/js\/mwheelIntent.js":1,"sites\/all\/themes\/rider_zen\/js\/jquery.jscrollpane.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.menu.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/fitvids\/fitvids.css":1,"sites\/all\/modules\/contrib\/menu_attach_block\/menu_attach_block.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/rider_core\/css\/reset.css":1,"sites\/all\/modules\/custom\/rider_core\/css\/font-awesome-4.3.0\/css\/font-awesome.min.css":1,"sites\/all\/modules\/custom\/rider_core\/css\/global.css":1,"sites\/all\/modules\/custom\/rider_core\/css\/ajax.content.css":1,"sites\/all\/modules\/custom\/rider_core\/css\/globalfooter.css":1,"sites\/all\/modules\/custom\/rider_core\/css\/jquery.content.columns.css":1,"sites\/all\/modules\/custom\/rider_datatables\/css\/tablesaw-custom.css":1,"sites\/all\/modules\/custom\/rider_datatables\/css\/rider.datatables.css":1,"sites\/all\/modules\/custom\/rider_eventsubmissions\/css\/rider.event.calendar.css":1,"sites\/all\/modules\/custom\/rider_eventsubmissions\/css\/rider.event.picker.css":1,"sites\/all\/modules\/custom\/rider_eventsubmissions\/css\/rider.event.submission.form.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/apachesolr_autocomplete\/apachesolr_autocomplete.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/bootstrap\/css\/bootstrap-scoped.css":1,"sites\/all\/libraries\/fullcalendar\/fullcalendar.print.css":1,"sites\/all\/libraries\/fullcalendar\/fullcalendar.css":1,"0":1,"1":1,"sites\/all\/modules\/contrib\/field_collection\/field_collection.theme.css":1,"sites\/all\/modules\/contrib\/addtoany\/addtoany.css":1,"sites\/all\/themes\/rider_zen\/system.menus.css":1,"sites\/all\/themes\/rider_zen\/system.messages.css":1,"sites\/all\/themes\/rider_zen\/system.theme.css":1,"sites\/all\/themes\/rider_zen\/css\/superfish\/latest\/superfish.css":1,"sites\/all\/themes\/rider_zen\/css\/styles.css":1,"sites\/all\/themes\/rider_zen\/css\/top_menu.css":1,"sites\/all\/themes\/rider_zen\/css\/navigation.css":1,"sites\/all\/themes\/rider_zen\/css\/jquery.mmenu\/jquery.mmenu.all.css":1}},"apachesolr_autocomplete":{"forms":{"search-block-form":{"id":"search-block-form","path":"\/apachesolr_autocomplete_callback\/apachesolr_search_page%3Acore_search"}}},"fitvids":{"custom_domains":["iframe[src^=\u0027http:\/\/api.smugmug.com\u0027]","iframe[src^=\u0027http:\/\/smugmug.com\u0027]","iframe[src^=\u0027http:\/\/www.smugmug.com\u0027]","iframe[src^=\u0027https:\/\/visuals.zoomph.com\u0027]","iframe[src^=\u0027https:\/\/www.njvid.net\u0027]","iframe[src^=\u0027http:\/\/www.arewethere.yt\u0027]"],"selectors":["body"],"simplifymarkup":1},"extlink":{"extTarget":0,"extClass":0,"extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":".noextlink, .event-featured-left","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/privacy-policy":true},"field_group":{"div":"full"}});</script>
       <!--[if lt IE 9]>
     <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
     <![endif]-->
@@ -92,6 +72,7 @@ t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 document,'script','//connect.facebook.net/en_US/fbevents.js');
 
 fbq('init', '997459333637506');
+fbq('addPixelId', '1124050187655200');
 fbq('track', "PageView");
 </script>
 <noscript>
@@ -110,6 +91,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-83176 node-type-page not-wcc section-privacy-policy alias-privacy-policy js document-ready window-loaded" style="">
   <!-- Facebook Pixel Code -->
 <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=997459333637506&ev=PageView&noscript=1" alt="" /></noscript>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1124050187655200&ev=PageView&noscript=1" alt="" /></noscript>
 <!-- End Facebook Pixel Code -->
 <script> 
 /*
@@ -167,9 +149,9 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
       <h2 class="element-invisible">Search form</h2>
     <div class="form-item form-type-textfield form-item-search-block-form">
  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
- <input title="Enter the terms you wish to search for." class="apachesolr-autocomplete unprocessed form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128">
+ <input title="Enter the terms you wish to search for." class="apachesolr-autocomplete form-text" data-apachesolr-autocomplete-id="search-block-form" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128">
 </div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-UxaDH6n2DrH_4DIBhXqUAZLgGeTqlcUJeSVUN0Jeh2I">
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-zrRE1p4u9LLOsr9gFGrhl0YMBUXrIB9DK4tTGA7AgF8">
 <input type="hidden" name="form_id" value="search_block_form">
 </div>
 </div></form>    </div>
@@ -177,14 +159,14 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </div>
   </div>
 					<div id="top-menu-links" class="plain-menu-wrapper">
-				<ul class="links sf-menu"><li class="menu-10699 first haschildren"><a href="/prospects">Prospects</a>
+				<ul class="links sf-menu"><li id="" class=" menu-10699 first haschildren" style=""><a href="/prospects">Prospective Students</a>
 <ul class="links"><li class="menu-12065 first"><a href="/prospects">Overview page</a></li>
 <li class="menu-12201"><a href="/admissions/apply-now">Apply Now</a></li>
 <li class="menu-12578"><a href="http://myrider.rider.edu">myRider - Application Status &amp; Deposits</a></li>
 <li class="menu-13010"><a href="/virtual-tour">Virtual Tour</a></li>
 <li class="menu-12861"><a href="/outcomes">Outcomes of a Rider Education: Success Stories</a></li>
 <li class="menu-11822"><a href="/offices/admissions" title="">Admissions</a></li>
-<li class="menu-11829"><a href="/about-rider/contact-us/lawrenceviile-campus-map">Campus Maps</a></li>
+<li class="menu-11829"><a href="/about-rider/contact-us/lawrenceville-campus-map">Campus Maps</a></li>
 <li class="menu-12710"><a href="/offices-services/public-safety">Campus Safety</a></li>
 <li class="menu-12408"><a href="/admissions/visit" title="">Visit Options</a></li>
 <li class="menu-11830"><a href="/about-rider/contact-us">Contact Us</a></li>
@@ -202,11 +184,11 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <li class="menu-11594"><a href="/offices-services/bookstores">Bookstores</a></li>
 <li class="menu-11589"><a href="http://directory.rider.edu">Campus Directory</a></li>
 <li class="menu-12864"><a href="http://canvas.rider.edu">Canvas</a></li>
-<li class="menu-12896"><a href="/careerservices">Career Services</a></li>
+<li id="" class=" menu-34506" style=""><a href="/careers">Career Development &amp; Success</a></li>
 <li class="menu-12608"><a href="/offices-services/commencement">Commencement</a></li>
 <li class="menu-12358"><a href="/offices-services/technology/additional-student-services/computer-labs">Computer Labs</a></li>
-<li class="menu-11592"><a href="http://www.rider.edu/calendar" target="_blank">25Live Calendar</a></li>
-<li class="menu-12288"><a href="http://www.rider.edu/25live" target="_blank">Event Request Form - Reservations </a></li>
+<li id="" class=" menu-11592" style=""><a href="http://www.rider.edu/calendar" target="_blank">25Live Calendar</a></li>
+<li id="" class=" menu-12288" style=""><a href="http://www.rider.edu/25live" target="_blank">Event Request Form - Reservations </a></li>
 <li class="menu-12485"><a href="http://facilities.rider.edu/">Facilities Work Orders</a></li>
 <li class="menu-12362"><a href="/academics/faculty-directory">Faculty Directory</a></li>
 <li class="menu-11588"><a href="/academics/libraries">Libraries</a></li>
@@ -226,8 +208,8 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <li class="menu-21121"><a href="http://catalog.rider.edu" title="">Academic Catalog</a></li>
 <li class="menu-11835"><a href="http://directory.rider.edu">Campus Directory</a></li>
 <li class="menu-12865"><a href="http://canvas.rider.edu">Canvas</a></li>
-<li class="menu-12252"><a href="http://www.rider.edu/25live" target="_blank">Event Request Form - Reservations </a></li>
-<li class="menu-19426"><a href="http://www.rider.edu/calendar" target="_blank">25Live Calendar</a></li>
+<li id="" class=" menu-12252" style=""><a href="http://www.rider.edu/25live" target="_blank">Event Request Form - Reservations </a></li>
+<li id="" class=" menu-19426" style=""><a href="http://www.rider.edu/calendar" target="_blank">25Live Calendar</a></li>
 <li class="menu-11837"><a href="http://facilities.rider.edu/">Facilities Work Orders</a></li>
 <li class="menu-12363"><a href="/academics/faculty-directory">Faculty Directory</a></li>
 <li class="menu-11841"><a href="/offices-services/human-resources">Human Resources</a></li>
@@ -278,16 +260,16 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
   </div>
 	  		<div id="navigation" class="">
 		  						<div id="navigation-links" class="plain-menu-wrapper ">
-			<ul class="links sf-menu"><li class="menu-13395 first haschildren"><a href="/about-rider">About</a>
+			<ul class="links sf-menu"><li id="" class=" menu-13395 first haschildren" style=""><a href="/about-rider">About</a>
 <ul class="links"><li class="menu-29016 first"><a href="/about-rider/vision-and-mission-rider-university">Vision and Mission</a></li>
-<li class="menu-13404 haschildren"><a href="/about-rider/administration">Administration</a>
-<ul class="links"><li class="menu-28931 first"><a href="/about-rider/administration/office-president" title="">Office of the President</a></li>
-<li class="menu-28936"><a href="/about-rider/administration/board-trustees">Board of Trustees</a></li>
-<li class="menu-28941 last"><a href="/about-rider/administration/community-values-statement" title="">Community Values Statement</a></li>
+<li id="" class=" menu-13404 haschildren" style=""><a href="/about-rider/administration">Administration</a>
+<ul class="links"><li id="" class=" menu-28931 first" style=""><a href="/about-rider/administration/office-president">Office of the President</a></li>
+<li id="" class=" menu-34461" style=""><a href="/about-rider/administration/cabinet">Cabinet</a></li>
+<li id="" class=" menu-28936" style=""><a href="/about-rider/administration/board-trustees">Board of Trustees</a></li>
+<li class="menu-28941 last"><a href="/about-rider/administration/community-values-statement">Community Values Statement</a></li>
 </ul></li>
-<li class="menu-28916 haschildren"><a href="/about-rider/strategic-plan">Strategic Planning</a>
-<ul class="links"><li class="menu-28926 first"><a href="/about-rider/strategic-plan/update-feb12">Update from the President</a></li>
-<li class="menu-28921 last"><a href="/about-rider/strategic-plan/committee-working-groups">Steering Committee and Working Groups</a></li>
+<li id="" class=" menu-28916 haschildren" style=""><a href="/about-rider/strategic-plan">Strategic Planning</a>
+<ul class="links"><li id="" class=" menu-28921 first last" style=""><a href="/about-rider/strategic-plan/committee-working-groups">Steering Committee and Working Groups</a></li>
 </ul></li>
 <li class="menu-13402"><a href="/about-rider/facts-figures">Facts &amp; Figures</a></li>
 <li class="menu-13403 haschildren"><a href="/about-rider/historic-rider">Historic Rider</a>
@@ -295,19 +277,20 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <li class="menu-11320"><a href="/about-rider/historic-rider/past-presidents">Past Presidents</a></li>
 <li class="menu-12278 last"><a href="/about-rider/historic-rider/awards-and-honors">Awards and Honors</a></li>
 </ul></li>
-<li class="menu-13405 haschildren"><a href="/about-rider/sustainability-rider">Sustainability at Rider</a>
+<li id="" class=" menu-13405 haschildren" style=""><a href="/about-rider/sustainability-rider">Sustainability at Rider</a>
 <ul class="links"><li class="menu-10701 first"><a href="/about-rider/sustainability-rider/vision-and-goals">Vision and Goals</a></li>
 <li class="menu-12323"><a href="/about-rider/sustainability-rider/sustainable-campus">Sustainable Campus</a></li>
 <li class="menu-16851"><a href="/about-rider/sustainability-rider/projects-and-events">Projects and Events</a></li>
 <li class="menu-17831"><a href="/about-rider/sustainability-rider/recyclemania">Recyclemania</a></li>
 <li class="menu-10704"><a href="/about-rider/sustainability-rider/external-project-and-links">External Project and Links</a></li>
 <li class="menu-10706"><a href="/about-rider/sustainability-rider/steering-committee">Steering Committee</a></li>
-<li class="menu-17836"><a href="/about-rider/sustainability-rider/eco-representatives">Eco-Representatives</a></li>
+<li id="" class=" menu-17836" style=""><a href="/about-rider/sustainability-rider/eco-representatives">Eco-Representatives</a></li>
 <li class="menu-12627 last"><a href="/about-rider/sustainability-rider/green-partners">Green Partners</a></li>
 </ul></li>
-<li class="menu-13209"><a href="/about-rider/consumer-information">Consumer Information</a></li>
-<li class="menu-12198 haschildren"><a href="/about-rider/local-information">Local Information</a>
-<ul class="links"><li class="menu-12346 first"><a href="/about-rider/contact-us/local-information/restaurants">Restaurants</a></li>
+<li id="" class=" menu-13209" style=""><a href="/about-rider/consumer-information">Consumer Information</a></li>
+<li id="" class=" menu-12198 haschildren" style=""><a href="/about-rider/local-information">Local Information</a>
+<ul class="links"><li id="" class=" menu-38696 first" style=""><a href="/about-rider/local-information/hotels-motels">Hotels &amp; Motels</a></li>
+<li class="menu-12346"><a href="/about-rider/contact-us/local-information/restaurants">Restaurants</a></li>
 <li class="menu-12345"><a href="/about-rider/contact-us/local-information/coffee-ice-cream">Coffee &amp; Ice Cream</a></li>
 <li class="menu-12344"><a href="/about-rider/contact-us/local-information/theaters">Theaters</a></li>
 <li class="menu-12343"><a href="/about-rider/contact-us/local-information/recreation/areas-interest">Recreation / Areas of Interest</a></li>
@@ -317,9 +300,9 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </ul></li>
 <li class="menu-30651"><a href="/offices-services" title="">Offices and Services</a></li>
 <li class="menu-13407 last haschildren"><a href="/about-rider/contact-us">Contact Us</a>
-<ul class="links"><li class="menu-15666 first"><a href="/about-rider/contact-us/important-campus-contacts">Important Campus Contacts</a></li>
+<ul class="links"><li id="" class=" menu-15666 first" style=""><a href="/about-rider/contact-us/important-campus-contacts">Important Campus Contacts</a></li>
 <li class="menu-13887"><a href="/about-rider/contact-us/request-information-about-rider">Request for Information</a></li>
-<li class="menu-15661"><a href="/about-rider/contact-us/lawrenceviile-campus-map">Lawrenceville Campus Map</a></li>
+<li id="" class=" menu-15661" style=""><a href="/about-rider/contact-us/lawrenceville-campus-map">Lawrenceville Campus Map</a></li>
 <li class="menu-11581"><a href="/about-rider/contact-us/lawrenceviile-directions">Lawrenceville Campus Directions</a></li>
 <li class="menu-11582"><a href="/about-rider/buildings-facilities">Lawrenceville Campus Buildings &amp; Facilities</a></li>
 <li class="menu-11948"><a href="/about-rider/contact-us/princeton-campus-map">Princeton Campus Map</a></li>
@@ -327,35 +310,35 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <li class="menu-11949 last"><a href="/about-rider/contact-us/princeton-campus-buildings-resources">Princeton Campus Buildings &amp; Resources</a></li>
 </ul></li>
 </ul></li>
-<li class="menu-13396 haschildren"><a href="/academics">Academics</a>
+<li id="" class=" menu-13396 haschildren" style=""><a href="/academics">Academics</a>
 <ul class="links"><li class="menu-13422 first"><a href="/academics/majors-minors-programs">Majors, Minors, Certificates, and Programs</a></li>
-<li class="menu-13822 haschildren"><a href="/academics/colleges-schools">Colleges and Schools</a>
+<li id="" class=" menu-13822 haschildren" style=""><a href="/academics/colleges-schools">Colleges and Schools</a>
 <ul class="links"><li class="menu-13397 first"><a href="/academics/colleges-schools/college-business-administration">College of Business Administration</a></li>
-<li class="menu-13419"><a href="/academics/colleges-schools/college-liberal-arts-education-sciences">College of Liberal Arts, Education, and Sciences</a></li>
+<li id="" class=" menu-13419" style=""><a href="/academics/colleges-schools/college-liberal-arts-education-sciences">College of Liberal Arts and Sciences</a></li>
 <li class="menu-16916"><a href="/academics/colleges-schools/college-liberal-arts-education-sciences/school-of-education" title="">School of Education</a></li>
-<li class="menu-13420"><a href="/academics/colleges-schools/college-continuing-studies">College of Continuing Studies</a></li>
+<li id="" class=" menu-13420" style=""><a href="/academics/colleges-schools/college-continuing-studies">College of Continuing Studies</a></li>
 <li class="menu-13421 last"><a href="/academics/colleges-schools/westminster-college-of-the-arts">Westminster College of the Arts</a></li>
 </ul></li>
-<li class="menu-16091 haschildren"><a href="/academics/online-programs-and-courses">Online Programs and Courses</a>
+<li id="" class=" menu-16091 haschildren" style=""><a href="/academics/online-programs-and-courses">Online Programs and Courses</a>
 <ul class="links"><li class="menu-21031 first last"><a href="/academics/online-programs-and-courses/online-programs-orientation">Online Programs: Orientation</a></li>
 </ul></li>
 <li class="menu-13424 haschildren"><a href="/academics/academic-programs">Academic Programs and Opportunities</a>
-<ul class="links"><li class="menu-13425 first"><a href="/academics/academic-programs/honors-programs">Honors Programs</a></li>
+<ul class="links"><li id="" class=" menu-13425 first" style=""><a href="/academics/academic-programs/honors-programs">Honors Programs</a></li>
 <li class="menu-13426"><a href="/academics/academic-programs/study-abroad" title="Study Abroad Opportunities">Study Abroad</a></li>
 <li class="menu-13427"><a href="/academics/academic-programs/internships-co-ops">Internships &amp; Co-Ops</a></li>
 <li class="menu-13428 last"><a href="/academics/academic-programs/research-opportunities">Research Opportunities</a></li>
 </ul></li>
 <li class="menu-13423"><a href="/outcomes" title="">Outcomes of a Rider Education</a></li>
 <li class="menu-13430"><a href="/academics/academic-calendars" title="">Academic Calendars</a></li>
-<li class="menu-13431"><a href="/academics/catalog">Academic Catalogs</a></li>
-<li class="menu-13433"><a href="/academics/libraries">Libraries</a></li>
-<li class="menu-10827 haschildren"><a href="/academics/academic-support-services">Academic Support Services</a>
-<ul class="links"><li class="menu-13432 first"><a href="/careerservices" title="">Career Services</a></li>
-<li class="menu-12184"><a href="/academics/academic-support-services/registrar">Registrar</a></li>
+<li id="" class=" menu-13431" style=""><a href="/academics/catalog">Academic Catalogs</a></li>
+<li id="" class=" menu-13433" style=""><a href="/academics/libraries">Libraries</a></li>
+<li id="" class=" menu-10827 haschildren" style=""><a href="/academics/academic-support-services">Academic Support Services</a>
+<ul class="links"><li id="" class=" menu-12184 first" style=""><a href="/academics/academic-support-services/registrar">Registrar</a></li>
+<li id="" class=" menu-35681" style=""><a href="/careers">Career Development &amp; Success</a></li>
 <li class="menu-11094"><a href="/academics/academic-support-services/student-support-services">Student Support Services</a></li>
-<li class="menu-11092"><a href="/academics/academic-support-services/student-success-center">Student Success Center</a></li>
-<li class="menu-16086"><a href="/academics/academic-support-services/services-students-disabilities">Services for Students with Disabilities</a></li>
-<li class="menu-11276"><a href="/academics/academic-support-services/math-skills-lab">Math Skills Lab</a></li>
+<li id="" class=" menu-11092" style=""><a href="/academics/academic-support-services/student-success-center">Student Success Center</a></li>
+<li id="" class=" menu-16086" style=""><a href="/academics/academic-support-services/services-students-disabilities">Services for Students with Disabilities</a></li>
+<li id="" class=" menu-11276" style=""><a href="/academics/academic-support-services/math-skills-lab">Math Skills Lab</a></li>
 <li class="menu-11277"><a href="/academics/academic-support-services/reading-courses">Reading Courses</a></li>
 <li class="menu-11093 last"><a href="/academics/academic-support-services/academic-support-wcc">Academic Support at WCC</a></li>
 </ul></li>
@@ -364,28 +347,28 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <li class="menu-13398 haschildren"><a href="/admissions">Admissions</a>
 <ul class="links"><li class="menu-13408 first haschildren"><a href="/admissions/undergraduate">Undergraduate</a>
 <ul class="links"><li class="menu-13113 first"><a href="/admissions/undergraduate/request-more-information" title="">Request More Information</a></li>
-<li class="menu-10942"><a href="/admissions/undergraduate/how-to-apply">How to Apply</a></li>
+<li id="" class=" menu-10942" style=""><a href="/admissions/undergraduate/how-to-apply">How to Apply</a></li>
 <li class="menu-16116"><a href="/admissions/undergraduate/apply">Apply to Rider</a></li>
-<li class="menu-15331"><a href="/admissions/undergraduate/visits">Visit Options</a></li>
-<li class="menu-16251"><a href="/admissions/undergraduate/admitted-students">Admitted Students</a></li>
-<li class="menu-16941 last"><a href="/admissions/undergraduate/contact-counselor">Contact a Counselor</a></li>
+<li id="" class=" menu-15331" style=""><a href="/admissions/undergraduate/visits">Visit Options</a></li>
+<li id="" class=" menu-16251" style=""><a href="/admissions/undergraduate/admitted-students">Admitted Students</a></li>
+<li id="" class=" menu-16941 last" style=""><a href="/admissions/undergraduate/contact-counselor">Contact a Counselor</a></li>
 </ul></li>
 <li class="menu-13438 haschildren"><a href="/admissions/transfer">Transfer</a>
-<ul class="links"><li class="menu-14646 first"><a href="/admissions/transfer/how-to-apply">How to Apply</a></li>
-<li class="menu-16541"><a href="/admissions/transfer/apply">Apply to Rider</a></li>
+<ul class="links"><li id="" class=" menu-14646 first" style=""><a href="/admissions/transfer/how-to-apply">How to Apply</a></li>
+<li id="" class=" menu-16541" style=""><a href="/admissions/transfer/apply">Apply to Rider</a></li>
 <li class="menu-14651"><a href="/admissions/transfer/transfer-your-credits">Transfer Your Credits</a></li>
 <li class="menu-15326"><a href="/admissions/transfer/visits">Visit Options</a></li>
-<li class="menu-16561 last"><a href="/admissions/transfer/visit-your-campus">Rider's Visiting Your Campus</a></li>
+<li id="" class=" menu-16561 last" style=""><a href="/admissions/transfer/visit-your-campus">Rider's Visiting Your Campus</a></li>
 </ul></li>
-<li class="menu-13409 haschildren"><a href="/admissions/graduate">Graduate</a>
+<li id="" class=" menu-13409 haschildren" style=""><a href="/admissions/graduate">Graduate</a>
 <ul class="links"><li class="menu-13326 first"><a href="/admissions/graduate/request-more-information" title="">Request More Information</a></li>
 <li class="menu-11652"><a href="/admissions/graduate/how-apply">How to Apply</a></li>
 <li class="menu-11667"><a href="/admissions/graduate/apply">Apply to Rider</a></li>
-<li class="menu-15321"><a href="/admissions/graduate/visits">Visit Options</a></li>
-<li class="menu-16306"><a href="/admissions/graduate/admitted-students">Admitted Students</a></li>
+<li id="" class=" menu-15321" style=""><a href="/admissions/graduate/visits">Visit Options</a></li>
+<li id="" class=" menu-16306" style=""><a href="/admissions/graduate/admitted-students">Admitted Students</a></li>
 <li class="menu-17726 last"><a href="/admissions/graduate/contact">Contact Us</a></li>
 </ul></li>
-<li class="menu-13410 haschildren"><a href="/admissions/adult-learners">Adult Learners</a>
+<li id="" class=" menu-13410 haschildren" style=""><a href="/admissions/adult-learners">Adult Learners</a>
 <ul class="links"><li class="menu-12899 first"><a href="/admissions/adult-learners/request-information" title="">Request Information</a></li>
 <li class="menu-16361"><a href="/admissions/adult-learners/how-to-apply">How to Apply</a></li>
 <li class="menu-16386"><a href="/admissions/adult-learners/apply">Apply to Rider</a></li>
@@ -401,12 +384,12 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </ul></li>
 <li class="menu-28896"><a href="/offices-services/financial-aid-scholarships" title="">Financial Aid and Scholarships</a></li>
 <li class="menu-16111"><a href="/admissions/apply-now">Apply Now</a></li>
-<li class="menu-15336"><a href="/admissions/visit">Visit Options</a></li>
+<li id="" class=" menu-15336" style=""><a href="/admissions/visit">Visit Options</a></li>
 <li class="menu-25081"><a href="/virtual-tour" title="">Virtual Tour</a></li>
 <li class="menu-16121 last"><a href="/admissions/contact">Contact Admissions</a></li>
 </ul></li>
-<li class="menu-13399 haschildren"><a href="/student-life">Student Life</a>
-<ul class="links"><li class="menu-20326 first"><a href="/student-life/housing-dining">Housing and Dining</a></li>
+<li id="" class=" menu-13399 haschildren" style=""><a href="/student-life">Student Life</a>
+<ul class="links"><li id="" class=" menu-20326 first" style=""><a href="/student-life/housing-dining">Housing and Dining</a></li>
 <li class="menu-20331"><a href="/student-life/activities-organizations" title="">Activities and Organizations</a></li>
 <li class="menu-20336"><a href="/student-life/arts-culture" title="">Arts and Culture</a></li>
 <li class="menu-13413"><a href="/student-life/recreational-sports" title="">Recreational Sports</a></li>
@@ -415,30 +398,30 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <li class="menu-20351"><a href="/student-life/student-engagement">Student Engagement</a></li>
 <li class="menu-20356 last"><a href="/student-life/campus-life-office" title="">Campus Life Office</a></li>
 </ul></li>
-<li class="menu-18021"><a href="/athletics">Athletics</a></li>
-<li class="menu-13401 last haschildren"><a href="/support-rider">Support Rider</a>
+<li id="" class=" menu-18021" style=""><a href="/athletics">Athletics</a></li>
+<li id="" class=" menu-13401 last haschildren" style=""><a href="/support-rider">Support Rider</a>
 <ul class="links"><li class="menu-23451 first"><a href="https://alumni.rider.edu/give" title="">Donate</a></li>
 <li class="menu-10682"><a href="/support-rider/ways-give">Ways to Give</a></li>
-<li class="menu-28856"><a href="/support-rider/science-building-renovation">Science Building Renovation</a></li>
+<li id="" class=" menu-28856" style=""><a href="/support-rider/science-building-renovation">Science Building Renovation</a></li>
 <li class="menu-15591 haschildren"><a href="/support-rider/annual-giving">Annual Giving</a>
-<ul class="links"><li class="menu-10678 first"><a href="/support-rider/annual-giving/faculty-staff-campaign">Faculty &amp; Staff Campaign</a></li>
+<ul class="links"><li id="" class=" menu-10678 first" style=""><a href="/support-rider/annual-giving/faculty-staff-campaign">Faculty &amp; Staff Campaign</a></li>
 <li class="menu-17841"><a href="/support-rider/annual-giving/graduating-class-gift">Graduating Class Gifts</a></li>
 <li class="menu-17846"><a href="/support-rider/annual-giving/parents-council">Parents Council</a></li>
 <li class="menu-17851 last"><a href="/support-rider/annual-giving/phonathon">Phonathon</a></li>
 </ul></li>
-<li class="menu-12693"><a href="/support-rider/recurring-gift-program">Recurring Gift Program</a></li>
-<li class="menu-10679 haschildren"><a href="/support-rider/corporate-foundation-relations">Corporate and Foundation Relations</a>
-<ul class="links"><li class="menu-15596 first"><a href="/support-rider/corporate-foundation-relations/partners">Corporate and Foundation Partners</a></li>
-<li class="menu-12985 last"><a href="/support-rider/corporate-foundation-relations/grants-research">Grants and Research at Rider University</a></li>
+<li id="" class=" menu-12693" style=""><a href="/support-rider/recurring-gift-program">Recurring Gift Program</a></li>
+<li id="" class=" menu-10679 haschildren" style=""><a href="/support-rider/corporate-foundation-relations">Corporate and Foundation Relations</a>
+<ul class="links"><li id="" class=" menu-15596 first" style=""><a href="/support-rider/corporate-foundation-relations/partners">Corporate and Foundation Partners</a></li>
+<li id="" class=" menu-12985 last" style=""><a href="/support-rider/corporate-foundation-relations/grants-research">Grants and Research at Rider University</a></li>
 </ul></li>
-<li class="menu-15601 haschildren"><a href="/support-rider/donor-recognition-societies">Donor Recognition Societies</a>
+<li id="" class=" menu-15601 haschildren" style=""><a href="/support-rider/donor-recognition-societies">Donor Recognition Societies</a>
 <ul class="links"><li class="menu-15606 first"><a href="/support-rider/donor-recognition-societies/1865-society">The 1865 Society</a></li>
 <li class="menu-15611"><a href="/support-rider/donor-recognition-societies/presidents-society-of-donors">The President’s Society of Donors</a></li>
 <li class="menu-15616 last"><a href="/support-rider/donor-recognition-societies/leonard-olsen-legacy-society">Leonard Olsen Legacy Society</a></li>
 </ul></li>
 <li class="menu-10681"><a href="/support-rider/leadership-giving">Leadership Giving</a></li>
 <li class="menu-26656"><a href="http://www.rider.edu/giftplanning" title="">Planned Giving</a></li>
-<li class="menu-15621 haschildren"><a href="/support-rider/womens-leadership-council">Rider Women's Leadership Council</a>
+<li id="" class=" menu-15621 haschildren" style=""><a href="/support-rider/womens-leadership-council">Rider Women's Leadership Council</a>
 <ul class="links"><li class="menu-12920 first"><a href="/support-rider/womens-leadership-council/application" title="">Rider Women’s Leadership Council Associate Membership Application</a></li>
 <li class="menu-15626"><a href="/support-rider/womens-leadership-council/mentoring-program">Mentoring Program</a></li>
 <li class="menu-15631 last"><a href="/support-rider/womens-leadership-council/scholarship-challenge">Scholarship Challenge</a></li>
@@ -449,9 +432,9 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </ul></li>
 <li class="menu-15646 last haschildren"><a href="/support-rider/contact-university-advancement">Contact University Advancement</a>
 <ul class="links"><li class="menu-14591 first"><a href="/support-rider/contact-university-advancement/advancement-services-staff">Advancement Services Staff</a></li>
-<li class="menu-14596"><a href="/support-rider/contact-university-advancement/development-staff">Development Staff</a></li>
-<li class="menu-10686"><a href="/support-rider/contact-university-advancement/alumni-relations-staff">Alumni Relations Staff</a></li>
-<li class="menu-14601"><a href="/support-rider/contact-university-advancement/development-staff-at-princeton">Development Staff, Princeton Campus</a></li>
+<li id="" class=" menu-14596" style=""><a href="/support-rider/contact-university-advancement/development-staff">Development Staff</a></li>
+<li id="" class=" menu-10686" style=""><a href="/support-rider/contact-university-advancement/alumni-relations-staff">Alumni Relations Staff</a></li>
+<li id="" class=" menu-14601" style=""><a href="/support-rider/contact-university-advancement/development-staff-at-princeton">Development Staff, Princeton Campus</a></li>
 <li class="menu-12435 last"><a href="/support-rider/contact-university-advancement/university-communications-staff">University Communications Staff</a></li>
 </ul></li>
 </ul></li>
@@ -462,7 +445,29 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 	</div><!-- end .rider-sticky-header -->
 		<div id="highlighted">
 		  <div id="highlighted_inner" class="clearfix wrap">
-		  		  </div>
+		    <div class="region region-highlighted">
+    <div class="field-collection-container clearfix"><div id="block-fieldblock-node-page-full-field-hero-fields" class="block block-fieldblock first last odd">
+
+    
+
+  <div class="content">
+    <div class="rider-block-content">
+      <div class="field field-name-field-hero-fields field-type-field-collection field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="ds-1col entity entity-field-collection-item field-collection-item-field-hero-fields view-mode-full clearfix">
+
+  
+  <div class="group-textheader field-group-div"><div class="caption">
+</div><div class="subcaption">&nbsp;</div></div></div>
+
+</div></div>
+      </div>
+</div>
+    </div>
+  </div>
+</div>
+</div>  </div>
+		  </div>
 		</div>
   </div>
 
@@ -495,18 +500,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
                         <span class="st_email_button" displaytext="E-mail"></span>
                 </div>
 
-	  <div class="region region-title-bottom">
-    <div id="block-easy-breadcrumb-easy-breadcrumb" class="block block-easy-breadcrumb first last odd">
-
-    
-
-  <div class="content">
-    <div class="rider-block-content">
-      <div class="easy-breadcrumb"><a href="/" class="easy-breadcrumb_segment easy-breadcrumb_segment-front">Home</a><span class="easy-breadcrumb_segment-separator"> / </span><span class="easy-breadcrumb_segment easy-breadcrumb_segment-title">Privacy Policy</span></div>    </div>
-  </div>
-</div>
-  </div>
-    <div id="content" class="column clearfix" role="main">
+	    <div id="content" class="column clearfix" role="main">
       <a id="main-content"></a>
 	  <div id="messages-wrapper">
 			  </div>
@@ -520,9 +514,49 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <div class="ds-1col node node-page view-mode-full clearfix">
 
   
-  <div class="field field-name-body field-type-text-with-summary field-label-hidden">
+  <div class="field-collection-container clearfix"><div class="field field-name-field-slideshow field-type-field-collection field-label-hidden">
     <div class="field-items">
-          <div class="field-item even"><h3>Rider University is committed to protecting your privacy.</h3><p>The <a href="/">Rider.edu</a> Web site is provided to support Rider University’s mission and to be of service to students, parents, faculty, staff, alumni, friends, supporters, and the public. Use of this site for any purposes other than that for which it is intended is unauthorized and prohibited.</p><p><strong>Data Collection and Use of Cookies</strong></p><p>We collect general, statistical information about visitors to our site for the purpose of facilitating communication and conducting business between the college and users of the site. &nbsp;Rider University also makes use of cookies to improve our visitor’s Web experience. A cookie is a piece of data stored by a Web site on a user's hard drive, which contains information about the user. Rider University employs cookies to keep track of user names and passwords, as well as to personalize your experience at Rider.edu. While Rider may use data to provide information about its     programs, no information will be used to permit targeting of any     website visitor for contact or marketing by any person or entity     other than Rider. &nbsp;You can set your browser to decline or accept cookies, though if you choose not to accept cookies, some parts of the Rider.edu site may function less efficiently.</p><p><strong>Security</strong></p><p>Rider University provides a secure server to protect your information from being viewed by an outside user. The technology transmits and receives scrambled data, which is decoded on the server side.</p><p><strong>Surveys and E-mail</strong></p><p>Rider University may request information through surveys, which users may choose to participate in on a voluntary basis. Information gathered may be used for marketing and promotional purposes or to notify you of new content, among other uses. If you e-mail us with questions or comments, we may use your personal information in order to respond to you. We may also share your information with a third party to assist in our response. We may file your comments for future reference, or we may discard the information after we have reviewed it. Under no circumstances do we share information about visitors with external organizations.</p><p><strong>Interactive Features</strong></p><p>While Rider University and Rider.edu strive to protect users' personal information and privacy, we cannot guarantee the security of any information you disclose online through interactive features such as forums, message boards, chat rooms, or similar services. Please keep in mind that you disclose information at your own risk.</p><p><strong>Links to third-party sites</strong></p><p>This site may contain links to sites owned or operated by parties other than Rider University. Rider University does not control outside sites and is not responsible for their content. Inclusion of links to an outside site does not imply any endorsement of the material on the site or, unless expressly stated otherwise, any sponsorship, affiliation, or association with its owner, operator, or sponsor.</p><p><strong>Exceptions</strong></p><p>In certain circumstances we will release specific information about you or your account to comply with any valid legal process such as a search warrant, subpoena, statute, or court order, or in other special cases, such as an attempted breach of the Rider.edu security, without notice to you.</p><p><strong>Copyright</strong></p><p>This site and all information and images within it are copyright Rider University, unless otherwise noted. U.S. copyright law protects all materials on this site. All rights reserved. Anyone wishing to obtain permission to reproduce any materials appearing on this site should contact <a href="mailto:webcontent@rider.edu">webcontent@rider.edu</a>.</p><p><strong>Disclaimer</strong></p><p>The information on this site is provided "as is," and no representations or warranties of any kind are made regarding it. Our policy is not to be applied in any manner contrary to applicable law or governmental regulation. Rider University reserves the right to make changes to this policy at any time. Please check this page periodically for updates.</p></div>
+          <div class="field-item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div style="display:none;">This slideshow is not enabled</div></div></div>
+      </div>
+</div>
+</div><div class="field field-name-body field-type-text-with-summary field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><h3>Rider University is committed to protecting your privacy.</h3>
+
+<p>The <a href="/">Rider.edu</a> Web site is provided to support Rider University’s mission and to be of service to students, parents, faculty, staff, alumni, friends, supporters, and the public. Use of this site for any purposes other than that for which it is intended is unauthorized and prohibited.</p>
+
+<p><strong>Data Collection and Use of Cookies</strong></p>
+
+<p>We collect general, statistical information about visitors to our site for the purpose of facilitating communication and conducting business between the college and users of the site. &nbsp;Rider University also makes use of cookies to improve our visitor’s Web experience. A cookie is a piece of data stored by a Web site on a user's hard drive, which contains information about the user. Rider University employs cookies to keep track of user names and passwords, as well as to personalize your experience at Rider.edu. While Rider may use data to provide information about its programs, no information will be used to permit targeting of any website visitor for contact or marketing by any person or entity other than Rider. &nbsp;You can set your browser to decline or accept cookies, though if you choose not to accept cookies, some parts of the Rider.edu site may function less efficiently.</p>
+
+<p><strong>Security</strong></p>
+
+<p>Rider University provides a secure server to protect your information from being viewed by an outside user. The technology transmits and receives scrambled data, which is decoded on the server side.</p>
+
+<p><strong>Surveys and E-mail</strong></p>
+
+<p>Rider University may request information through surveys, which users may choose to participate in on a voluntary basis. Information gathered may be used for marketing and promotional purposes or to notify you of new content, among other uses. If you e-mail us with questions or comments, we may use your personal information in order to respond to you. We may also share your information with a third party to assist in our response. We may file your comments for future reference, or we may discard the information after we have reviewed it. Under no circumstances do we share information about visitors with external organizations.</p>
+
+<p><strong>Interactive Features</strong></p>
+
+<p>While Rider University and Rider.edu strive to protect users' personal information and privacy, we cannot guarantee the security of any information you disclose online through interactive features such as forums, message boards, chat rooms, or similar services. Please keep in mind that you disclose information at your own risk.</p>
+
+<p><strong>Links to third-party sites</strong></p>
+
+<p>This site may contain links to sites owned or operated by parties other than Rider University. Rider University does not control outside sites and is not responsible for their content. Inclusion of links to an outside site does not imply any endorsement of the material on the site or, unless expressly stated otherwise, any sponsorship, affiliation, or association with its owner, operator, or sponsor.</p>
+
+<p><strong>Exceptions</strong></p>
+
+<p>In certain circumstances we will release specific information about you or your account to comply with any valid legal process such as a search warrant, subpoena, statute, or court order, or in other special cases, such as an attempted breach of the Rider.edu security, without notice to you.</p>
+
+<p><strong>Copyright</strong></p>
+
+<p>This site and all information and images within it are copyright Rider University, unless otherwise noted. U.S. copyright law protects all materials on this site. All rights reserved. Anyone wishing to obtain permission to reproduce any materials appearing on this site should contact <a href="mailto:webmaster@rider.edu?subject=Privacy%20Policy%20Question">webmaster@rider.edu</a>.</p>
+
+<p><strong>Disclaimer</strong></p>
+
+<p>The information on this site is provided "as is," and no representations or warranties of any kind are made regarding it. Our policy is not to be applied in any manner contrary to applicable law or governmental regulation. Rider University reserves the right to make changes to this policy at any time. Please check this page periodically for updates.</p>
+</div>
       </div>
 </div>
 </div>
@@ -573,7 +607,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
     <div class="rider-block-content">
       <ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/admissions/visit" class="menu__link">Campus Visits &amp; Events</a></li>
 <li class="menu__item is-leaf leaf"><a href="/about-rider/contact-us" class="menu__link">Directions</a></li>
-<li class="menu__item is-leaf leaf"><a href="/about-rider/contact-us/lawrenceviile-campus-map" class="menu__link">Maps</a></li>
+<li class="menu__item is-leaf leaf"><a href="/about-rider/contact-us/lawrenceville-campus-map" class="menu__link">Maps</a></li>
 <li class="menu__item is-leaf leaf"><a href="/about-rider/buildings-facilities" class="menu__link">Buildings &amp; Facilities</a></li>
 <li class="menu__item is-leaf last leaf"><a href="/virtual-tour" class="menu__link">Virtual Tour</a></li>
 </ul>    </div>
@@ -652,6 +686,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 					<li><a id="footer-smugmug" href="http://riderphotos.smugmug.com/" target="_blank">SmugMug</a></li>
 					<li><a id="footer-linkedin" href="http://www.linkedin.com/edu/school?id=18870" target="_blank">LinkedIn</a></li>
 					<li><a id="footer-instagram" href="http://instagram.com/rider_university" target="_blank">Instagram</a></li>
+					<li><a id="footer-snapchat" href="https://www.snapchat.com/add/rideruniversity" target="_blank">Snapchat</a></li>
 					</ul>
 			</div>
 		</div>
@@ -675,7 +710,7 @@ window.onload = function(){
 </script>
  
 <!--Bing ad tag-->
-<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5223771"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5223771&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5223771"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img alt="" src="//bat.bing.com/action/0?ti=5223771&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
 <!-- end Bing ad tag -->
 
         <a id="totop" href="#top">Back to Top</a>
@@ -725,6 +760,6 @@ da2a.html_done=true;if(da2a.script_ready&&!da2a.done)da2a.init();da2a.script_loa
 		</script>
 		<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
 		<noscript><div style="display:inline"><img height="1" width="1" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1062670749/?value=0&amp;guid=ON&amp;script=0"/></div></noscript>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5764d3277c","applicationID":"4959544","transactionName":"MQFUN0sCChFWB0BdCwhLdwBNCgsMGApbUAE5FFcEXDwSC1IT","queueTime":0,"applicationTime":857,"atts":"HUZXQQMYGR8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5764d3277c","applicationID":"4959544","transactionName":"MQFUN0sCChFWB0BdCwhLdwBNCgsMGApbUAE5FFcEXDwSC1IT","queueTime":0,"applicationTime":815,"atts":"HUZXQQMYGR8=","errorBeacon":"bam.nr-data.net","agent":""}</script><script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 
 </body></html>
