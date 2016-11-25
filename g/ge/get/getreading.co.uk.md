@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the getreading.co.uk privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615050429id_/http%3A//www.getreading.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getreading.co.uk privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125202555id_/http%3A//www.getreading.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Get Reading: Latest Reading and Berkshire News, Sport and What's On
-
-## Privacy Policy
 
 **IN RELATION TO ALL WEBSITES AND WEBSITE SERVICES OFFERED BY TRINITY MIRROR PLC**
 
