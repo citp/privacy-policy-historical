@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cahoot.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512012801id_/http%3A//www.cahoot.com/cookie_policy/cookie_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cahoot.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125023401id_/http%3A//www.cahoot.com/cookie_policy/cookie_policy.html) for the most accurate reproduction.*
 
 # cahoot cookie policy
 
@@ -10,7 +10,7 @@ This website, along with most other major websites, uses cookies. Cookies let us
 
 ## at cahoot we use cookies in the following ways:
 
-  * We use cookies within our online banking site to protect our customers and prevent fraudulent activity. Without cookies enabled you will not be able to access cahoot online banking. 
+  * We use cookies within our online banking site to protect our customers and prevent fraudulent activity. Without cookies enabled you'll not be able to access cahoot online banking. 
   
 
   * We use cookies within our online application forms. Without cookies enabled you will not be able to apply for our products. 
@@ -45,8 +45,8 @@ Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcook
 
 ## Related links:
 
-[security and privacy](https://web.archive.org/web/20160512012801id_/http%3A//www.cahoot.com/security/security_and_privacy.html)
+[security and privacy](https://web.archive.org/web/20161125023401id_/http%3A//www.cahoot.com/security/security_and_privacy.html)
 
-[online banking commitment](https://web.archive.org/web/20160512012801id_/http%3A//www.cahoot.com/online_banking_commitment/online_banking_commitment.html)
+[online banking commitment](https://web.archive.org/web/20161125023401id_/http%3A//www.cahoot.com/online_banking_commitment/online_banking_commitment.html)
 
-[data protection](https://web.archive.org/web/20160512012801id_/http%3A//www.cahoot.com/terms/pdf/data_protection_statement.pdf)
+[data protection](https://web.archive.org/web/20161125023401id_/http%3A//www.cahoot.com/terms/pdf/data_protection_statement.pdf)
