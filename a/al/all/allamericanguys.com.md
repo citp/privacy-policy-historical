@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the allamericanguys.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521051902id_/http%3A//www.allamericanguys.com/allamericanguys/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allamericanguys.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125012400id_/http%3A//www.allamericanguys.com/allamericanguys/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | All American Guys
+
+**Share This...**
 
 AllAmericanGuys.com and its subsidiaries and corporate affiliates (collectively, “AAG,” “our,” “us,” or “we”) operate websites, provide products and services through mobile and other applications, and develops software. We refer to these as “site(s),” “service(s),” or “our sites and services.”
 
@@ -189,3 +191,5 @@ If you have any questions or concerns about this privacy policy or our practices
 **14\. Changes to This Privacy Policy**
 
 We may revise this privacy policy from time to time and, if we do, we will update it on this page and modify the “Last Updated” date. If our information practices change in a significant way, we will provide a more prominent notice. Because our privacy policy can change at any time, we encourage you to reread it periodically to see if there have been any changes that affect you. If you disagree with any changes to this privacy policy and do not wish your information to be subject to the revised privacy policy, you will need to deactivate your account or terminate your services. Your use of our sites and services following any such change constitutes your agreement that all information collected from or about you through our sites and services after the revised privacy policy is posted will be subject to the terms of the revised privacy policy.
+
+**Share This...**
