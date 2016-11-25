@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avalanchesafelist.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610100900id_/http%3A//avalanchesafelist.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avalanchesafelist.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125130649id_/http%3A//avalanchesafelist.com/legal.php%3Fpageid%3Dprivacy) for the most accurate reproduction.*
 
 # AvalancheSafelist.com
 
