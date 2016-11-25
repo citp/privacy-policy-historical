@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runningtothekitchen.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528024837id_/http%3A//www.runningtothekitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runningtothekitchen.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125070340id_/http%3A//www.runningtothekitchen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Running to the Kitchen
 
@@ -25,6 +25,6 @@ We may share information with governmental agencies, law enforcement agencies, o
 Your personally identifiable information is kept secure. All emails and newsletters from this site allow you to opt out of further mailings.
 
 **Contact Information  
-**If you have any questions, concerns, or comments about our privacy policy you may contact me using the contact form in the top navigation.
+**If you have any questions, concerns, or comments about this privacy policy you may [contact me](http://www.runningtothekitchen.com/contact/).
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
