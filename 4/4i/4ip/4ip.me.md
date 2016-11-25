@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4ip.me privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620072706id_/http%3A//4ip.me/reader/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4ip.me privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125223823id_/http%3A//4ip.me/reader/privacy) for the most accurate reproduction.*
 
 # Privacy
 
