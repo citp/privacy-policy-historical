@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmog.org privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629151305id_/http%3A//www.cmog.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmog.org privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125140920id_/http%3A//www.cmog.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Corning Museum of Glass
 
@@ -57,7 +57,7 @@ We may notify you by email about events or activities at or related to the Museu
 
 ## Security
 
-The Corning Museum of Glass uses industry-standard Secure Socket Layer (SSL) encryption technology to secure its sites (Verisign for the main website and ticketing system and Thawte for the GlassMarket site). SSL encodes your personal information, including credit card number, name, and address, as it travels over the Internet. If you prefer, you may also purchase tickets onsite or purchase GlassMarket items over the phone at (800) 723-9156.
+The Corning Museum of Glass uses industry-standard Secure Socket Layer (SSL) encryption technology to secure its sites (Verisign for the main website and ticketing system and Thawte for the Museum Shops site). SSL encodes your personal information, including credit card number, name, and address, as it travels over the Internet. If you prefer, you may also purchase tickets onsite or purchase Museum Shops items over the phone at +1 (800) 723-9156.
 
 ## Revisions to our Privacy Policy
 
