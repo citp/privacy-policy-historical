@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mailermailer.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607083931id_/http%3A//www.mailermailer.com/privacy-policy.rwp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailermailer.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125170712id_/http%3A//www.mailermailer.com/privacy-policy.rwp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-MailerMailer.com is an email list management service provided by **MailerMailer LLC.**
+This privacy policy covers all services provided by **MailerMailer LLC** , including MailerMailer.com, Presstacular.com, and MailerMailer Curated Newsletters. 
 
-To report any abuse or violations of the MailerMailer email list service, please send email to [abuse@mailermailer.com](mailto:abuse@mailermailer.com) and attach an unedited copy of the email message that you feel was sent to you in error or without your permission. Include all header information so that we can trace origin of the message. Also include any notes or other information that you feel are pertinent. Any questions or concerns regarding this privacy policy may be directed to [privacy@mailermailer.com](mailto:privacy@mailermailer.com). 
+To report any abuse or violations of the MailerMailer services, please send email to [abuse@mailermailer.com](mailto:abuse@mailermailer.com) and attach an unedited copy of the email message that you feel was sent to you in error or without your permission. Include all header information so that we can trace origin of the message. Also include any notes or other information that you feel are pertinent. Any questions or concerns regarding this privacy policy may be directed to [privacy@mailermailer.com](mailto:privacy@mailermailer.com). 
 
 ### Web Site Information Collection
 
@@ -38,9 +38,32 @@ If you supply us with your postal address on-line, we will use it to send you th
 
 We, and some of our partners who provide some of the services and products on our site, use cookies to record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site, customize Web page content based on visitors' browser type or other information that the visitor sends, and to enable access to specific areas on the web site. 
 
+#### Do Not Track
+
+We do not change our site's or service's behavior or tracking upon seeing a web browser's do not track signal. 
+
 ### Ad Servers and Other Partners
 
-To try and bring you offers that may be of interest to you, we have relationships with other companies that we allow to place ads or provide other services or products on our Web pages, our email newsletter(s), the free version of the MailerMailer service, and other services. As a result of your visit to our site, these companies may collect non-personally-identifiable information such as your domain type, your IP address and clickstream information. 
+To try and bring you offers that may be of interest to you, we have relationships with other companies that we allow to place ads or provide other services or products on our Web pages, our email newsletter(s), the free version of the MailerMailer service, and other services. As a result of your visit to our site, these companies may collect non-personally-identifiable information such as your domain type, your IP address and clickstream information. We may also use advertising services that enable tracking based on your name, email or other information to present you with information about or opportunities related to our tools and services. 
+
+Services with which we share non-PII information: 
+
+  * [Aviary](https://www.aviary.com/)
+  * [CBL](http://www.abuseat.org/)
+  * [CleanTalk](https://cleantalk.org/blacklists)
+  * [250OK](https://250ok.com/)
+
+
+
+Services with which we share PII information: 
+
+  * [MaxMind minFraud](https://www.maxmind.com/en/minfraud-services) for credit card fraud detection
+  * [Facebook](https://www.facebook.com/)
+  * [Twitter](https://www.twitter.com/)
+  * [Google](https://www.google.com/)
+  * [LinkedIn](https://www.linkedin.com/)
+
+
 
 ### Children's Guidelines
 
@@ -48,8 +71,12 @@ This website is directed at adults, not children, and we do not seek to collect 
 
 ### Security
 
-When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server. We strive to maintain appropriate security measures in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. Although we take reasonable measures to secure our data, we cannot guarantee that the measures we take are or will remain adequate. Some portions of our sites and services link to other companies' web sites. Please refer to the privacy policies of those sites for information on how they handle security for information they collect. 
+When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server. We strive to maintain appropriate security measures in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. Although we take reasonable measures to secure our data, we cannot guarantee that the measures we take are or will remain adequate. Some portions of our sites and services link to other companies' web sites (listed above). Please refer to the privacy policies of those sites for information on how they handle security for information they collect. 
 
 ### Changes to Privacy Policy
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in this Privacy Policy notice. If our information practices change at some time in the future, we will post the policy changes to our Web site's Privacy Policy page to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site's Privacy Policy page periodically. 
+
+If you would like to be notified of any changes to this Privacy Policy, you may subscribe to our [change notification email list](https://www.mailermailer.com/u/signup/1065185r), which will only be used to send you notices about our Privacy Policy updates. 
+
+This policy was last updated on October 11, 2016. 
