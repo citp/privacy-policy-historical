@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the thefw.com privacy policy that was archived on 2016-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160617154442id_/http%3A//thefw.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thefw.com privacy policy that was archived on 2016-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161125134240id_/http%3A//thefw.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head>
-<meta charset="UTF-8">
+<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-974.min.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgQDWFZXGwEJUFNUAgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),s.on(m,function(){this.bstStart=Date.now()}),s.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(17)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;c<s;c++)a[c].apply(i,r);var u=f[w[n]];return u&&u.push([v,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",w[n]=e,e in f||(f[e]=[])})}var m={},w={},v={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return v}function i(){return new r}var a="nr@context",s=t("gos"),c=t(15),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!g++){var t=y.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(w,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(15),f=window,u=f.document,d="addEventListener",l="attachEvent",p=f.XMLHttpRequest,h=p&&p.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:p,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var m=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-974.min.js"},v=p&&h&&h[d]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:m,features:{},xhrWrappable:v};u[d]?(u[d]("DOMContentLoaded",i,!1),f[d]("load",r,!1)):(u[l]("onreadystatechange",o),f[l]("onload",r)),s("mark",["firstbyte",a()],null,"api");var g=0},{}]},{},["loader",2,10,4,3]);</script>
 <meta name="viewport" content="width=1020">
 <title>Privacy Policy - TheFW</title>
 
@@ -10,7 +10,7 @@
 <link rel="alternate" type="application/rss+xml" title="TheFW » Feed" href="http://thefw.com/feed/">
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="stylesheet" type="text/css" media="all" href="http://thefw.com/wp-content/themes/townsquare3-music/style.css">
-<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">
+<script type="text/javascript">
 			window.TSM = window.TSM || {};
 			window.TSM.ga = {"accounts":["UA-19109753-9","UA-19109753-35"]};
 		</script><script type="text/javascript">(function(w){w.TSM.sitetype="national";})(window);</script><link rel="alternate" type="application/rss+xml" title="TheFW » Privacy Policy Comments Feed" href="http://thefw.com/privacy-policy/feed/">
@@ -34,36 +34,20 @@ img.emoji {
 </style>
 <link rel="stylesheet" id="weather-widget-css-css" href="http://thefw.com/wp-content/plugins/weather-widget/resources/style.css" type="text/css" media="all">
 <link rel="stylesheet" id="sp-gallery-css" href="http://thefw.com/wp-content/plugins/gallery/resources/sp-gallery.css" type="text/css" media="all">
-<link rel="stylesheet" id="jquery-fancybox-css" href="http://thefw.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.css?ver=c629e148872cf9c9df075246d80f3db63023bfd3" type="text/css" media="all">
-<link rel="stylesheet" id="ts3-css" href="http://thefw.com/css/ts3.css?ver=1446567311c629e14887" type="text/css" media="all">
-<link rel="stylesheet" id="facebook_auth-css" href="http://thefw.com/wp-content/plugins/facebook-apps/css/facebook-auth.css?ver=c629e148872cf9c9df075246d80f3db63023bfd3" type="text/css" media="all">
-<link rel="stylesheet" id="radio-players-css" href="http://thefw.com/wp-content/plugins/radio-players/resources/css/radio-players.css?ver=c629e148872cf9c9df075246d80f3db63023bfd3" type="text/css" media="screen">
+<link rel="stylesheet" id="jquery-fancybox-css" href="http://thefw.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.css?ver=b8fad6f848619de2e6aaeef042f4b626624476fc" type="text/css" media="all">
+<link rel="stylesheet" id="ts3-css" href="http://thefw.com/css/ts3.css?ver=1474318261b8fad6f848" type="text/css" media="all">
+<link rel="stylesheet" id="facebook_auth-css" href="http://thefw.com/wp-content/plugins/facebook-apps/css/facebook-auth.css?ver=b8fad6f848619de2e6aaeef042f4b626624476fc" type="text/css" media="all">
+<link rel="stylesheet" id="radio-players-css" href="http://thefw.com/wp-content/plugins/radio-players/resources/css/radio-players.css?ver=b8fad6f848619de2e6aaeef042f4b626624476fc" type="text/css" media="screen">
 <script type="text/javascript" src="http://thefw.com/wp-content/plugins/jquery-updater/js/jquery-1.7.2.min.js?ver=1.7.2"></script>
-<script type="text/javascript" src="http://thefw.com/wp-content/mu-plugins/handlebarsjs/resources/js/handlebars.min.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://thefw.com/wp-content/plugins/radio-players/resources/js/radio-players.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://thefw.com/wp-content/themes/townsquare3/resources/js/html5.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
+<script type="text/javascript" src="http://thefw.com/wp-content/mu-plugins/handlebarsjs/resources/js/handlebars.min.js?ver=b8fad6f848619de2e6aaeef042f4b626624476fc"></script>
+<script type="text/javascript" src="http://thefw.com/wp-content/plugins/radio-players/resources/js/radio-players.js?ver=b8fad6f848619de2e6aaeef042f4b626624476fc"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=explicit&amp;ver=b8fad6f848619de2e6aaeef042f4b626624476fc"></script>
+<script type="text/javascript" src="http://thefw.com/wp-content/themes/townsquare3/resources/js/html5.js?ver=b8fad6f848619de2e6aaeef042f4b626624476fc"></script>
 <script type="text/javascript" src="http://thefw.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.1.1.d"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://thefw.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://thefw.com/wp-includes/wlwmanifest.xml"> 
 <link rel="shortlink" href="http://thefw.com/?p=168">
-		<script type="text/javascript">
-			var crtg_nid = '3480';
-			var crtg_cookiename = 'crtg_townsquare';
-			var crtg_varname = 'crtg_content';
-			function crtg_getCookie(c_name){ var i,x,y,ARRCookies=document.cookie.split(";");for(i=0;i<ARRCookies.length;i++){x=ARRCookies[i].substr(0,ARRCookies[i].indexOf("="));y=ARRCookies[i].substr(ARRCookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);} }return'';}
-			var crtg_content = crtg_getCookie(crtg_cookiename);
-			var crtg_rnd=Math.floor(Math.random()*99999999999);
-			(function(){
-				var crtg_url='http://rtax.criteo.com/delivery/rta/rta.js?netId='+escape(crtg_nid);
-				crtg_url +='&cookieName='+escape(crtg_cookiename);
-				crtg_url +='&rnd='+crtg_rnd;
-				crtg_url +='&varName=' + escape(crtg_varname);
-				var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true;
-				if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);
-				else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);
-			})();
-		</script><script type="text/javascript" src="http://rtax.criteo.com/delivery/rta/rta.js?netId=3480&amp;cookieName=crtg_townsquare&amp;rnd=12289495165&amp;varName=crtg_content" async=""></script>
-			<script type="text/javascript" src="http://c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
+		<script type="text/javascript" src="http://c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
 		<script type="text/javascript">
 		var googletag = googletag || {};
 		var TSMAdHelperSettings = {};
@@ -72,20 +56,12 @@ img.emoji {
 		googletag.cmd = googletag.cmd || [];
 	</script>
 	<script id="tsm-googletag-init" type="text/javascript">
-	window.TSMAdSettings = {"activeSlots":["tsm-out-of-page","top-right-300x250","middle-right-300x250","bottom-right-300x250","top-728x90","bottom-728x90","top-right-noflex-300x250"],"adPageSettings":{"pageSettings":{"sitetype":"National","market":"National","callletters":"TheFW","pagetype":"post","amazonAds":true,"enableCriteo":true,"enableViewability":true,"enableViewabilityBR":true,"enableSharethrough":false,"sharethroughKey":"","enableYieldbot":"101f","enableSonobi":"{\"top-right-300x250\":{\"key\":\"thefw_top-right\",\"val\":\"82230aa135188cf6a69a\"},\"middle-right-300x250\":{\"key\":\"thefw_middle-right\",\"val\":\"7b45fec05940cd434749\"},\"bottom-right-300x250\":{\"key\":\"thefw_bottom-right\",\"val\":\"15e83a71b897c6331d10\"},\"top-728x90\":{\"key\":\"thefw_top\",\"val\":\"cbcc32cc74a1eb8e36c8\"},\"bottom-728x90\":{\"key\":\"thefw_bottom\",\"val\":\"eabe9ae35969ad82f951\"},\"top-right-noflex-300x250\":{\"key\":\"thefw_top-right\",\"val\":\"82230aa135188cf6a69a\"},\"ads-top-leaderboard\":{\"key\":\"thefw_mobile_ads-top-leaderboard\",\"val\":\"9e8101d27fb6144b829f\"},\"ads-top-right\":{\"key\":\"thefw_mobile_ads-top-right\",\"val\":\"21083c5444649e3d45f9\"},\"ads-bottom-right\":{\"key\":\"thefw_mobile_ads-bottom-right\",\"val\":\"2f455a1fd6534c16231f\"},\"ads-bottom-leaderboard\":{\"key\":\"thefw_mobile_ads-bottom-leaderboard\",\"val\":\"001b458bc09b2ac96dcc\"},\"ads-mid-top\":{\"key\":\"thefw_mobile_ads-mid-top\",\"val\":\"ce4e2c3e1d65e7f37592\"},\"ads-mid-bottom\":{\"key\":\"thefw_mobile_ads-mid-bottom\",\"val\":\"83c45da18ba773d2c0ff\"}}"},"attrs":{"catid":"","id":"privacy-policy","author":"mass-market","kw":["mass-market","privacy-policy","pagetype-post"],"genre":["misc"],"device":"web","kv":[]}}};
-			var crtg_split = crtg_content.split( ';' );
-		for (var i=1;i<crtg_split.length;i++){
-			var keyvals = crtg_split[ i-1 ].split( '=' );
-			if( window.TSMAdSettings.adPageSettings.attrs[ keyvals[ 0 ] ] === undefined ){
-				window.TSMAdSettings.adPageSettings.attrs[ keyvals[ 0 ] ] = [];
-			}
-			window.TSMAdSettings.adPageSettings.attrs[ keyvals[ 0 ] ].push( keyvals[ 1 ] );
-		}
+	window.TSMAdSettings = {"activeSlots":["tsm-out-of-page","top-right-300x250","middle-right-300x250","bottom-right-300x250","top-728x90","bottom-728x90","top-right-noflex-300x250"],"adPageSettings":{"pageSettings":{"sitetype":"National","market":"National","callletters":"TheFW","pagetype":"post","amazonAds":true,"enableCriteo":false,"enableViewability":true,"enableViewabilityBR":true,"enableSharethrough":false,"sharethroughKey":"","enableYieldbot":"101f","enableSonobi":"{\"top-right-300x250\":{\"key\":\"thefw_top-right\",\"val\":\"82230aa135188cf6a69a\"},\"middle-right-300x250\":{\"key\":\"thefw_middle-right\",\"val\":\"7b45fec05940cd434749\"},\"bottom-right-300x250\":{\"key\":\"thefw_bottom-right\",\"val\":\"15e83a71b897c6331d10\"},\"top-728x90\":{\"key\":\"thefw_top\",\"val\":\"cbcc32cc74a1eb8e36c8\"},\"bottom-728x90\":{\"key\":\"thefw_bottom\",\"val\":\"eabe9ae35969ad82f951\"},\"top-right-noflex-300x250\":{\"key\":\"thefw_top-right\",\"val\":\"82230aa135188cf6a69a\"},\"ads-top-leaderboard\":{\"key\":\"thefw_mobile_ads-top-leaderboard\",\"val\":\"9e8101d27fb6144b829f\"},\"ads-top-right\":{\"key\":\"thefw_mobile_ads-top-right\",\"val\":\"21083c5444649e3d45f9\"},\"ads-bottom-right\":{\"key\":\"thefw_mobile_ads-bottom-right\",\"val\":\"2f455a1fd6534c16231f\"},\"ads-bottom-leaderboard\":{\"key\":\"thefw_mobile_ads-bottom-leaderboard\",\"val\":\"001b458bc09b2ac96dcc\"},\"ads-mid-top\":{\"key\":\"thefw_mobile_ads-mid-top\",\"val\":\"ce4e2c3e1d65e7f37592\"},\"ads-mid-bottom\":{\"key\":\"thefw_mobile_ads-mid-bottom\",\"val\":\"83c45da18ba773d2c0ff\"}}","enableOpenx":true,"enableKiosked":true,"enableKioskedMobile":false},"attrs":{"catid":"","id":"privacy-policy","author":"mass-market","kw":["mass-market","privacy-policy","pagetype-post"],"genre":["misc"],"device":"web","kv":[]}}};
 	</script>
-<script type="text/javascript" src="/wp-content/mu-plugins/google-ads/js/tsmadhelper.min.js?v=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
+<script type="text/javascript" src="/wp-content/mu-plugins/google-ads/js/tsmadhelper.min.js?v=b8fad6f848619de2e6aaeef042f4b626624476fc"></script>
 <script type="text/javascript">
 			(function(w){
-				w.TSMAnalytics = {"info":{"title":"privacy-policy","ip":"66.155.35.40","referer":"http:\/\/thefw.com\/","callsign":"TheFW","sitetype":"National","siteClassification":null,"state":"NY","genre":["misc"],"tags":[],"categories":[]}};
+				w.TSMAnalytics = {"info":{"title":"privacy-policy","ip":"66.155.35.41","referer":null,"callsign":"TheFW","sitetype":"National","siteClassification":"","state":"NY","genre":["misc"],"tags":[],"categories":[]}};
 			})(window);
 		</script>
 <!-- All in One SEO Pack - Pro Version 1.72 by Michael Torbert of Semper Fi Web Design[591,628] -->
@@ -143,7 +119,7 @@ var _gaq_categories = '';
 var _gaq_uid = 'UA-19109753-9';
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-19109753-9']);
-_gaq.push(['_setCustomVar', 3, 'Pagetype', window.TSMAdSettings&&TSMAdSettings.adPageSettings&&TSMAdSettings.adPageSettings.pageSettings&&TSMAdSettings.adPageSettings.pageSettings.pagetype?TSMAdSettings.adPageSettings.pageSettings.pagetype:'', 3]);_gaq.push(['_setCampaignCookieTimeout', 0]);
+var adObj=window.TSMAdSettings||window.TSM.dfp;_gaq.push(['_setCustomVar', 3, 'Pagetype', 'post', 3]);_gaq.push(['_setCampaignCookieTimeout', 0]);
 _gaq.push(['_setAllowHash', false]);
 _gaq.push(['_setCustomVar', 1, 'Author', _gaq_author, 3]);
 _gaq.push(['_setCustomVar', 2, 'Categories', _gaq_categories, 3]);
@@ -342,178 +318,178 @@ _gaq.push(['_trackPageview']);
 <aside id="content_sidebar" class="sidebar clearfix">
     <div id="google-ads-widget-10" class="widget google-ads-widget clearfix"><div id="top-right-300x250" class="tsm-google-ad"></div></div><div id="ts_blogroll_pinned ts_blogroll-2" class="widget ts_blogroll_pinned ts_blogroll  clearfix"><div class="widget_header clearfix"><h4>Latest Articles</h4></div>	<article class="small_thumb_title_date  clearfix">
 	    	    <figure>
-	        <a href="http://thefw.com/dads-walking-80-miles-to-be-reunited-with-his-daughter/?trackback=blogroll_widget-latest-articles">
-	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Francisco Tafoya" datasrc="http://thefw.com/files/2016/06/Francisco.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
+	        <a href="http://thefw.com/backpack-challenge/">
+	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Backpack" datasrc="http://thefw.com/files/2016/11/Backpack.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
 	        	    </figure>
 	    	    <div class="excerpt clearfix">
-	        <a href="http://thefw.com/dads-walking-80-miles-to-be-reunited-with-his-daughter/?trackback=blogroll_widget-latest-articles">Dad’s Walking 80 Miles to Be Reunited With His Daughter</a>
-	        <em>June 17, 2016 10:24 AM</em>
+	        <a href="http://thefw.com/backpack-challenge/">Backpack Challenge Ups the Ante for Crazy</a>
+	        <em>November 23, 2016 11:22 AM</em>
 	    </div>
 	</article>
     	<article class="small_thumb_title_date  clearfix">
 	    	    <figure>
-	        <a href="http://thefw.com/grandmother-polite-google-search/?trackback=blogroll_widget-latest-articles">
-	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Google" datasrc="http://thefw.com/files/2016/06/Google1.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
+	        <a href="http://thefw.com/gravy-candy-canes/">
+	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Gravy Candy Cane" datasrc="http://thefw.com/files/2016/11/Gravy.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
 	        	    </figure>
 	    	    <div class="excerpt clearfix">
-	        <a href="http://thefw.com/grandmother-polite-google-search/?trackback=blogroll_widget-latest-articles">Grandmother’s Super Duper Polite Google Search Is a Manners Lesson for the Entire Internet</a>
-	        <em>June 17, 2016 9:32 AM</em>
+	        <a href="http://thefw.com/gravy-candy-canes/">Gravy Candy Canes Are Here. We Don’t Know If That’s a Good Thing.</a>
+	        <em>November 23, 2016 10:28 AM</em>
 	    </div>
 	</article>
     	<article class="small_thumb_title_date  clearfix">
 	    	    <figure>
-	        <a href="http://thefw.com/dog-pool-party-features-one-pretty-peculiar-pup/?trackback=blogroll_widget-latest-articles">
-	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Pool Dog" datasrc="http://thefw.com/files/2016/06/Pool.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
+	        <a href="http://thefw.com/what-is-the-best-thing-about-thanksgiving-poll/">
+	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Thanksgiving" datasrc="http://thefw.com/files/2016/11/Thanksgiving2.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
 	        	    </figure>
 	    	    <div class="excerpt clearfix">
-	        <a href="http://thefw.com/dog-pool-party-features-one-pretty-peculiar-pup/?trackback=blogroll_widget-latest-articles">Dog Pool Party Features One Pretty Peculiar Pup</a>
-	        <em>June 16, 2016 2:33 PM</em>
+	        <a href="http://thefw.com/what-is-the-best-thing-about-thanksgiving-poll/">What Is the Best Thing About Thanksgiving? [POLL]</a>
+	        <em>November 23, 2016 9:50 AM</em>
 	    </div>
 	</article>
     	<article class="small_thumb_title_date  clearfix">
 	    	    <figure>
-	        <a href="http://thefw.com/harry-potter-tribute-orlando/?trackback=blogroll_widget-latest-articles">
-	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Luis Vielma Tribute" datasrc="http://thefw.com/files/2016/06/Luis.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
+	        <a href="http://thefw.com/dog-haircut/">
+	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Dog" datasrc="http://thefw.com/files/2016/11/Dog2.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
 	        	    </figure>
 	    	    <div class="excerpt clearfix">
-	        <a href="http://thefw.com/harry-potter-tribute-orlando/?trackback=blogroll_widget-latest-articles">‘Harry Potter’ Ride Raises Wands in Emotional Tribute to Orlando Shooting Victim</a>
-	        <em>June 16, 2016 1:24 PM</em>
+	        <a href="http://thefw.com/dog-haircut/">Dog’s Atrocious Haircut Sends Internet Into Hilarious Tailspin</a>
+	        <em>November 22, 2016 2:52 PM</em>
 	    </div>
 	</article>
     	<article class="small_thumb_title_date  clearfix">
 	    	    <figure>
-	        <a href="http://thefw.com/adorable-toddler-will-bust-a-move-right-into-your-heart/?trackback=blogroll_widget-latest-articles">
-	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Dancing" datasrc="http://thefw.com/files/2016/06/Dancing.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
+	        <a href="http://thefw.com/gummy-turkey-thanksgiving/">
+	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Gummy Turkey" datasrc="http://thefw.com/files/2016/11/Turkey2.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
 	        	    </figure>
 	    	    <div class="excerpt clearfix">
-	        <a href="http://thefw.com/adorable-toddler-will-bust-a-move-right-into-your-heart/?trackback=blogroll_widget-latest-articles">Adorable Toddler Will Bust a Move Right Into Your Heart</a>
-	        <em>June 15, 2016 1:16 PM</em>
+	        <a href="http://thefw.com/gummy-turkey-thanksgiving/">Gummy Turkey Thanksgiving Feast Is a Cavity-Forming, Gut-Busting Culinary Feat</a>
+	        <em>November 22, 2016 2:02 PM</em>
 	    </div>
 	</article>
     	<article class="small_thumb_title_date  clearfix">
 	    	    <figure>
-	        <a href="http://thefw.com/three-men-save-total-stranger-who-fell-on-subway-tracks/?trackback=blogroll_widget-latest-articles">
-	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Subway Rescue" datasrc="http://thefw.com/files/2016/06/Subway.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
+	        <a href="http://thefw.com/baby-monkey-goat/">
+	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Monkey and Goat" datasrc="http://thefw.com/files/2016/11/Monkey.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
 	        	    </figure>
 	    	    <div class="excerpt clearfix">
-	        <a href="http://thefw.com/three-men-save-total-stranger-who-fell-on-subway-tracks/?trackback=blogroll_widget-latest-articles">Three Men Save Total Stranger Who Fell on Subway Tracks</a>
-	        <em>June 15, 2016 9:56 AM</em>
+	        <a href="http://thefw.com/baby-monkey-goat/">Baby Monkey and Goat Become Best Buddies</a>
+	        <em>November 22, 2016 12:47 PM</em>
 	    </div>
 	</article>
     	<article class="small_thumb_title_date  clearfix">
 	    	    <figure>
-	        <a href="http://thefw.com/comfort-dogs-orlando/?trackback=blogroll_widget-latest-articles">
-	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Comfort Dogs" datasrc="http://thefw.com/files/2016/06/Dogs.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
+	        <a href="http://thefw.com/canadian-parliament-fart/">
+	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Michelle Rempel" datasrc="http://thefw.com/files/2016/11/Fart.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
 	        	    </figure>
 	    	    <div class="excerpt clearfix">
-	        <a href="http://thefw.com/comfort-dogs-orlando/?trackback=blogroll_widget-latest-articles">Comfort Dogs Converge on Orlando to Help Shooting Victims</a>
-	        <em>June 14, 2016 1:56 PM</em>
+	        <a href="http://thefw.com/canadian-parliament-fart/">Watch Canadian Parliament Get Into a Heated Argument About the Word ‘Fart’</a>
+	        <em>November 22, 2016 10:01 AM</em>
 	    </div>
 	</article>
     	<article class="small_thumb_title_date  clearfix">
 	    	    <figure>
-	        <a href="http://thefw.com/disney-princesses-adoption/?trackback=blogroll_widget-latest-articles">
-	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Disney Princesses" datasrc="http://thefw.com/files/2016/06/Disney.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
+	        <a href="http://thefw.com/man-no-idea-won-presidential-election/">
+	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Joe Chandler" datasrc="http://thefw.com/files/2016/11/Joe.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
 	        	    </figure>
 	    	    <div class="excerpt clearfix">
-	        <a href="http://thefw.com/disney-princesses-adoption/?trackback=blogroll_widget-latest-articles">Disney Princesses Make Girl’s Adoption Hearing a Hit</a>
-	        <em>June 13, 2016 1:31 PM</em>
+	        <a href="http://thefw.com/man-no-idea-won-presidential-election/">‘Blissful’ Man Has No Idea (Or Desire to Know) Who Won Presidential Election</a>
+	        <em>November 21, 2016 3:53 PM</em>
 	    </div>
 	</article>
     	<article class="small_thumb_title_date  clearfix">
 	    	    <figure>
-	        <a href="http://thefw.com/fox-climb-slide/?trackback=blogroll_widget-latest-articles">
-	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Fox" datasrc="http://thefw.com/files/2016/06/Fox.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
+	        <a href="http://thefw.com/2016-black-friday-hours/">
+	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Shopping" datasrc="http://thefw.com/files/2016/11/Shopping.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
 	        	    </figure>
 	    	    <div class="excerpt clearfix">
-	        <a href="http://thefw.com/fox-climb-slide/?trackback=blogroll_widget-latest-articles">Watch Baby Fox Fail (And Fail And Fail Some More) to Climb a Slide</a>
-	        <em>June 13, 2016 1:00 PM</em>
+	        <a href="http://thefw.com/2016-black-friday-hours/">Check Out All the 2016 Black Friday Hours for Your Holiday Shopping Needs</a>
+	        <em>November 21, 2016 2:24 PM</em>
 	    </div>
 	</article>
     	<article class="small_thumb_title_date last clearfix">
 	    	    <figure>
-	        <a href="http://thefw.com/bendable-cell-phone/?trackback=blogroll_widget-latest-articles">
-	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Lenovo" datasrc="http://thefw.com/files/2016/06/Lenovo.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
+	        <a href="http://thefw.com/boy-propose-girl-mom-diamond-ring/">
+	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Diamond Ring" datasrc="http://thefw.com/files/2016/11/Ring2.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
 	        	    </figure>
 	    	    <div class="excerpt clearfix">
-	        <a href="http://thefw.com/bendable-cell-phone/?trackback=blogroll_widget-latest-articles">Bendable Cell Phone Is a Techno Game-Changer</a>
-	        <em>June 13, 2016 12:17 PM</em>
+	        <a href="http://thefw.com/boy-propose-girl-mom-diamond-ring/">Smitten Boy Proposes to Schoolgirl With His Mom’s Diamond Ring</a>
+	        <em>November 21, 2016 1:24 PM</em>
 	    </div>
 	</article>
     </div><div id="google-ads-widget-20" class="widget google-ads-widget clearfix"><div id="middle-right-300x250" class="tsm-google-ad"></div></div><div id="rss-feed-24" class="widget rss-feed  clearfix"><div class="widget_header clearfix"><h4><span class="rssfeed-title">Movie Trivia</span></h4></div><ul class="image-rss-feed"><li>
 						<span class="rssfeed-image">
-							<a href="http://screencrush.com/gremlins-facts/" title="The majority of the creatures in Gremlins, like Gizmo and Stripe, were all puppets created for the movie. But, before they decided on puppets, they actually tried to get monkeys to play the Gremlins, but the monkeys started freaking out when they put the masks on them. This is just one of the Gremlins facts in the latest installment of You Think You Know Mov […]" target="_blank">
-								<img class="rssfeed-item-image" src="http://screencrush.com/files/2015/12/gremlins-ytyk-pic.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" width="80" height="60" alt="">
+							<a href="http://screencrush.com/brad-pitt-facts-trivia/" title="By now, Se7en has become one of the most beloved thrillers of the 1990s. But did you know that in the big chase scene in the rain, Brad Pitt really fell and severely hurt his arm? The injury was so serious Pitt required surgery, and he had to spend the rest of production with his hand in a cast. The broken arm was written into the script, but you might notic […]" target="_blank">
+								<img class="rssfeed-item-image" src="http://screencrush.com/files/2016/11/unnamed4.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" width="80" height="60" alt="">
 							</a>
 						</span><span class="rssfeed-copy">
-							<a class="rsswidget" href="http://screencrush.com/gremlins-facts/" title="Celebrate Christmas With These 10 ‘Gremlins’ Facts" target="_blank">Celebrate Christmas With These 10 ‘Gremlins’ Facts</a>
-							<span class="rss-date">December 24, 2015</span>
+							<a class="rsswidget" href="http://screencrush.com/brad-pitt-facts-trivia/" title="The First Rule of These Brad Pitt Facts: Don’t Talk About These Brad Pitt Facts" target="_blank">The First Rule of These Brad Pitt Facts: Don’t Talk About These Brad Pitt Facts</a>
+							<span class="rss-date">November 23, 2016</span>
 							
 							
 						</span>
 					</li><li>
 						<span class="rssfeed-image">
-							<a href="http://screencrush.com/die-hard-facts/" title="Before he was cast in Die Hard, Bruce Willis was known primarily as the star of ABC’s TV comedy Moonlighting, so he wasn’t the first person Hollywood thought of to star in their big action movie. In fact, before they offered Willis the role, they actually approached Arnold Schwarzenegger hoping to turn Die Hard into a Commando sequel. This is just one of the […]" target="_blank">
-								<img class="rssfeed-item-image" src="http://screencrush.com/files/2015/12/die-hard-ytyk.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" width="80" height="60" alt="">
+							<a href="http://screencrush.com/doctor-strange-facts/" title="By now, you know (and have probably seen) Doctor Strange, the 14th entry in the Marvel Cinematic Universe. But did you know that attempts to make a movie about Doctor Strange date back decades before Iron Man? In 1978, they even made a Doctor Strange TV movie, in an attempt to recreate the successful formula behind the popular Incredible Hulk TV show. That’s […]" target="_blank">
+								<img class="rssfeed-item-image" src="http://screencrush.com/files/2016/11/unnamed3.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" width="80" height="60" alt="">
 							</a>
 						</span><span class="rssfeed-copy">
-							<a class="rsswidget" href="http://screencrush.com/die-hard-facts/" title="Yippie-Ki-Yay, Here Are 10 ‘Die Hard’ Facts" target="_blank">Yippie-Ki-Yay, Here Are 10 ‘Die Hard’ Facts</a>
-							<span class="rss-date">December 17, 2015</span>
+							<a class="rsswidget" href="http://screencrush.com/doctor-strange-facts/" title="Watch These ‘Doctor Strange’ Facts With Your Eye of Agamotto" target="_blank">Watch These ‘Doctor Strange’ Facts With Your Eye of Agamotto</a>
+							<span class="rss-date">November 22, 2016</span>
 							
 							
 						</span>
 					</li><li>
 						<span class="rssfeed-image">
-							<a href="http://screencrush.com/a-christmas-story-facts/" title="The beloved holiday classic A Christmas Story is actually based on several stories, from famous author Jean Shepherd, including his novel, In God We Trust: All Others Pay Cash. It’s Shepherd who provides the voice of the narrator in the film version of A Christmas Story. That’s just one of the Christmas Story facts in the latest installment of You Think You […]" target="_blank">
-								<img class="rssfeed-item-image" src="http://screencrush.com/files/2015/12/YTYK_Movies-A-Christmas-Story.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" width="80" height="60" alt="">
+							<a href="http://screencrush.com/harry-potter-deathly-hallows-movie-facts/" title="Everyone knows Harry Potter’s most famous distinguishing mark: The lightning bolt scar on his forehead. But do you know how many times Harry Potter himself, Daniel Radcliffe, had that scar applied to his forehead over the course of making the eight Harry Potter movies? All told, it was over 2,000 times. That works out to about 250 applications per movie. Tha […]" target="_blank">
+								<img class="rssfeed-item-image" src="http://screencrush.com/files/2016/11/YTYK_Movies-Deathly-Hallows.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" width="80" height="60" alt="">
 							</a>
 						</span><span class="rssfeed-copy">
-							<a class="rsswidget" href="http://screencrush.com/a-christmas-story-facts/" title="We Double-Dog Dare You to Check Out These ‘A Christmas Story’ Facts" target="_blank">We Double-Dog Dare You to Check Out These ‘A Christmas Story’ Facts</a>
-							<span class="rss-date">December 3, 2015</span>
+							<a class="rsswidget" href="http://screencrush.com/harry-potter-deathly-hallows-movie-facts/" title="Get to the Horcrux of the Matter With These ‘Deathly Hallows’ Facts" target="_blank">Get to the Horcrux of the Matter With These ‘Deathly Hallows’ Facts</a>
+							<span class="rss-date">November 18, 2016</span>
 							
 							
 						</span>
 					</li><li>
 						<span class="rssfeed-image">
-							<a href="http://screencrush.com/home-alone-facts/" title="Home Alone was released in theaters on November 16, 1990. It was the #1 movie at the box office for an incredible 12 straight weeks. It stayed in the Top 10 until April. It played in theaters for nine months and earned over $477 million making it the highest grossing live-action comedy of all-time. (At least until The Hangover Part 2 came along). This is jus […]" target="_blank">
-								<img class="rssfeed-item-image" src="http://screencrush.com/files/2015/11/ytykha.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" width="80" height="60" alt="">
+							<a href="http://screencrush.com/harry-potter-3-facts-trivia/" title="Harry Potter and the Prisoner of Azkaban is the third movie in the beloved magical franchise, but in many ways, it was a film of firsts. It was the first Potter not directed by Chris Columbus (Alfonso Cuaron served as his replacement) and it was also the first Potter released in IMAX. Those are just a couple of the facts featured in the newest episode of You […]" target="_blank">
+								<img class="rssfeed-item-image" src="http://screencrush.com/files/2016/11/unnamed2.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" width="80" height="60" alt="">
 							</a>
 						</span><span class="rssfeed-copy">
-							<a class="rsswidget" href="http://screencrush.com/home-alone-facts/" title="Alright Ya Filthy Animal, Here’s 10 ‘Home Alone’ Facts" target="_blank">Alright Ya Filthy Animal, Here’s 10 ‘Home Alone’ Facts</a>
-							<span class="rss-date">November 30, 2015</span>
+							<a class="rsswidget" href="http://screencrush.com/harry-potter-3-facts-trivia/" title="Head Back to Hogwarts With These ‘Prisoner of Azkaban’ Facts" target="_blank">Head Back to Hogwarts With These ‘Prisoner of Azkaban’ Facts</a>
+							<span class="rss-date">November 16, 2016</span>
 							
 							
 						</span>
 					</li><li>
 						<span class="rssfeed-image">
-							<a href="http://screencrush.com/rocky-trivia-facts/" title="Sylvester Stallone became a star playing Rocky Balboa, but did you know that United Artists wanted to buy Stallone’s script for Rocky and cast another actor in the title role? Before they finally agreed to let Stallone have the part, they tried to cast actors like Robert Redford, Burt Reynolds, and James Caan. That’s just one of the facts crammed into the la […]" target="_blank">
-								<img class="rssfeed-item-image" src="http://screencrush.com/files/2015/11/hqdefault20.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" width="80" height="60" alt="">
+							<a href="http://screencrush.com/28-days-later-facts/" title="28 Days Later is famous for those incredible shots of an abandoned London, as one of the last surviving uninfected men in the city, played by Cillian Murphy, wanders around in a daze. To achieve these scenes, director Danny Boyle worked with the police to close off small stretches of streets and roads for about an hour at a time. The shot of Murphy wandering […]" target="_blank">
+								<img class="rssfeed-item-image" src="http://screencrush.com/files/2016/11/unnamed1.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" width="80" height="60" alt="">
 							</a>
 						</span><span class="rssfeed-copy">
-							<a class="rsswidget" href="http://screencrush.com/rocky-trivia-facts/" title="Don’t Be a Bum, Check Out These 10 ‘Rocky’ Facts" target="_blank">Don’t Be a Bum, Check Out These 10 ‘Rocky’ Facts</a>
-							<span class="rss-date">November 23, 2015</span>
+							<a class="rsswidget" href="http://screencrush.com/28-days-later-facts/" title="Get Ready to Rage With These ‘28 Days Later’ Facts" target="_blank">Get Ready to Rage With These ‘28 Days Later’ Facts</a>
+							<span class="rss-date">November 14, 2016</span>
 							
 							
 						</span>
 					</li><li>
 						<span class="rssfeed-image">
-							<a href="http://screencrush.com/batman-the-dark-knight-returns-trivia-facts/" title="What good would a superhero movie be without some fun easter eggs to find? Batman: The Dark Knight Returns is no exception and if you look closely, you can find nods to other DC titles like Swamp Thing, V For Vendetta, The Watchmen and Crisis on Infinite Earths. These are just some of the facts packed into the latest episode of You Think You Know Movies, whi […]" target="_blank">
-								<img class="rssfeed-item-image" src="http://screencrush.com/files/2015/11/batmantdkr.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" width="80" height="60" alt="">
+							<a href="http://screencrush.com/alfred-hitchcock-facts-trivia/" title="Decades after his death, Alfred Hitchcock is still considered one of the greatest directors of all time. But did you know that in addition to his reputation as the “Master of Suspense,” Hitchcock was also a notorious (no pun intended) prankster? He once bet someone they couldn’t spend the night in a darkened movie studio, chained to a camera. Once the man ag […]" target="_blank">
+								<img class="rssfeed-item-image" src="http://screencrush.com/files/2016/11/hqdefault.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" width="80" height="60" alt="">
 							</a>
 						</span><span class="rssfeed-copy">
-							<a class="rsswidget" href="http://screencrush.com/batman-the-dark-knight-returns-trivia-facts/" title="7 Things You Might Not Know About ‘The Dark Knight Returns’" target="_blank">7 Things You Might Not Know About ‘The Dark Knight Returns’</a>
-							<span class="rss-date">November 20, 2015</span>
+							<a class="rsswidget" href="http://screencrush.com/alfred-hitchcock-facts-trivia/" title="You’ll Be Left Spellbound By These Alfred Hitchcock Facts" target="_blank">You’ll Be Left Spellbound By These Alfred Hitchcock Facts</a>
+							<span class="rss-date">November 3, 2016</span>
 							
 							
 						</span>
 					</li><li>
 						<span class="rssfeed-image">
-							<a href="http://screencrush.com/django-unchained-trivia-facts/" title="Quentin Tarantino originally wanted Kevin Costner to square off with his hero, but when his schedule wouldn’t let him appear in the film he was replaced by Kurt Russell. When Kurt Russell’s schedule wouldn’t let him appear in the film, the character, named Ace Woody, was completely written out of the script. That’s just one of the surprising facts packed int […]" target="_blank">
-								<img class="rssfeed-item-image" src="http://screencrush.com/files/2015/11/YTYK_Movies-Django-Unchained.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" width="80" height="60" alt="">
+							<a href="http://screencrush.com/psycho-movie-facts-trivia/" title="Everyone knows Psycho, and the character of Marion Crane, who steals $40,000 from her boss, goes on the road, and winds up at the Bates Motel, where she encounters a very unhappy old lady and her very sharp knife in her room’s shower. But did you know that Anthony Perkins, who played the motel manager Norman Bates, was paid $40,000 for his performance — the […]" target="_blank">
+								<img class="rssfeed-item-image" src="http://screencrush.com/files/2016/11/unnamed.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" width="80" height="60" alt="">
 							</a>
 						</span><span class="rssfeed-copy">
-							<a class="rsswidget" href="http://screencrush.com/django-unchained-trivia-facts/" title="10 Things You Might Not Know About ‘Django Unchained’" target="_blank">10 Things You Might Not Know About ‘Django Unchained’</a>
-							<span class="rss-date">November 16, 2015</span>
+							<a class="rsswidget" href="http://screencrush.com/psycho-movie-facts-trivia/" title="You’ll Go Nuts Over These ‘Psycho’ Facts" target="_blank">You’ll Go Nuts Over These ‘Psycho’ Facts</a>
+							<span class="rss-date">November 2, 2016</span>
 							
 							
 						</span>
@@ -534,7 +510,7 @@ _gaq.push(['_trackPageview']);
 
 <script type="text/javascript" src="http://loadus.exelator.com/load/?p=656&amp;g=002&amp;ctg=misc"></script>
 <div style="display:none;">
-	<div id="fb-auth-form-nonce"><input type="hidden" id="fb_auth_form_nonce" name="fb_auth_form_nonce" value="0df504ff06"><input type="hidden" name="_wp_http_referer" value="/privacy-policy/"></div>
+	<div id="fb-auth-form-nonce"><input type="hidden" id="fb_auth_form_nonce" name="fb_auth_form_nonce" value="d1475c5b57"><input type="hidden" name="_wp_http_referer" value="/privacy-policy/"></div>
 	<div id="fb-auth-account-activation" class="fb-auth-form">
 		<h3 class="generic-link-color">Welcome back to TheFW</h3>
 		<p>
@@ -612,6 +588,15 @@ _gaq.push(['_trackPageview']);
 			<div class="facebook-connect-button"></div>
 			<p class="meta">Sign up for TheFW quickly by connecting your Facebook account.  It's just as secure and no password to remember!</p>
 		</div>
+
+		<div class="clear"></div>
+			<div class="loyalty-global-sponsor">
+				<div class="overlay_fancybox">
+					<div class="hidden overlay_sponsor_wrap">
+						<div><p class="meta">TheFW brought to you by:</p></div>
+					</div>
+				</div>
+			</div>
 	</div>
 </div>
 <div style="display:none;">
@@ -637,44 +622,45 @@ _gaq.push(['_trackPageview']);
 				<a class="request-submit" href="#">Submit</a>
 			</div>
 
-			<input type="hidden" id="request_song" name="request_song" value="e80c5d4bae"><input type="hidden" name="_wp_http_referer" value="/privacy-policy/">
+			<input type="hidden" id="request_song" name="request_song" value="5962a9fa4a"><input type="hidden" name="_wp_http_referer" value="/privacy-policy/">
 		</form>
 
 		<h3 class="sent-message" style="display:none;">Thank you for your request.</h3>
 
 	</div>
 </div>
-<!-- Page rendered at 11:44:43 am 06/17/16 --><link rel="stylesheet" id="local_experts-css" href="http://thefw.com/wp-content/plugins/local-experts/resources/css/local_experts.css?ver=1.4" type="text/css" media="all">
-<script type="text/javascript" src="http://thefw.com/wp-content/plugins/graceful-email-obfuscation/geo-spam-prevention.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://thefw.com/wp-content/plugins/tsmanalyticsbluekai/assets/front/js/bluekai.min.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
+<!-- Page rendered at 1:06:08 am 11/25/16 --><link rel="stylesheet" id="local_experts-css" href="http://thefw.com/wp-content/plugins/local-experts/resources/css/local_experts.css?ver=1.4" type="text/css" media="all">
+<script type="text/javascript" src="http://thefw.com/wp-content/plugins/graceful-email-obfuscation/geo-spam-prevention.js?ver=b8fad6f848619de2e6aaeef042f4b626624476fc"></script>
+<script type="text/javascript" src="http://thefw.com/wp-content/plugins/tsmanalyticsbluekai/assets/front/js/bluekai.min.js?ver=b8fad6f848619de2e6aaeef042f4b626624476fc"></script>
 <script type="text/javascript" src="http://thefw.com/wp-content/plugins/gallery/resources/jquery.cycle.min.js?ver=2.86"></script>
-<script type="text/javascript" src="http://thefw.com/wp-content/plugins/gallery/resources/sp-gallery.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://thefw.com/wp-content/plugins/tsmclip/js/tsmclip.min.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://thefw.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.pack.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://thefw.com/wp-content/mu-plugins/fancybox/vendor/jquery.easing-1.3.pack.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://tsm-js.s3.amazonaws.com/jquery.sonar.min.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://thefw.com/wp-content/mu-plugins/sonar-load/js/sonar.load.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://thefw.com/wp-content/mu-plugins/townsquare/resources/js/make_homepage.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://thefw.com/wp-content/mu-plugins/internaladapi/assets/internaladapi.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://thefw.com/wp-content/mu-plugins/internaladapi/apis/sponsors/assets/front/townsquaresponsors.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://thefw.com/wp-content/mu-plugins/internaladapi/apis/header/assets/front/townsquareheaders.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://thefw.com/wp-content/mu-plugins/internaladapi/apis/overlaylogo/assets/front/overlaylogo.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://thefw.com/wp-content/mu-plugins/internaladapi/assets/internaladapiajax.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://thefw.com/wp-content/plugins/facebook-apps/js/facebook-auth.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://content.jwplatform.com/libraries/RAvk1rfG.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://thefw.com/wp-content/plugins/social-sharing/resources/social-tracking.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://thefw.com/wp-content/plugins/social-sharing/resources/more-button.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://thefw.com/wp-content/themes/townsquare3/resources/js/jquery.template.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://thefw.com/wp-content/widgets/request-song/js/request_song.js?ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
-<script type="text/javascript" src="http://wms.assoc-amazon.com/20070822/US/js/auto-tagger.js?tag=tsmnetwork-20&amp;locale=US&amp;overwrite=1&amp;ver=c629e148872cf9c9df075246d80f3db63023bfd3"></script>
+<script type="text/javascript" src="http://thefw.com/wp-content/plugins/gallery/resources/sp-gallery.js?ver=b8fad6f848619de2e6aaeef042f4b626624476fc"></script>
+<script type="text/javascript" src="http://thefw.com/wp-content/plugins/tsmclip/js/tsmclip.min.js?ver=b8fad6f848619de2e6aaeef042f4b626624476fc"></script>
+<script type="text/javascript" src="http://thefw.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.pack.js?ver=b8fad6f848619de2e6aaeef042f4b626624476fc"></script>
+<script type="text/javascript" src="http://thefw.com/wp-content/mu-plugins/fancybox/vendor/jquery.easing-1.3.pack.js?ver=b8fad6f848619de2e6aaeef042f4b626624476fc"></script>
+<script type="text/javascript" src="http://tsm-js.s3.amazonaws.com/jquery.sonar.min.js?ver=b8fad6f848619de2e6aaeef042f4b626624476fc"></script>
+<script type="text/javascript" src="http://thefw.com/wp-content/mu-plugins/sonar-load/js/sonar.load.js?ver=b8fad6f848619de2e6aaeef042f4b626624476fc"></script>
+<script type="text/javascript" src="http://thefw.com/wp-content/mu-plugins/townsquare/resources/js/make_homepage.js?ver=b8fad6f848619de2e6aaeef042f4b626624476fc"></script>
+<script type="text/javascript" src="http://thefw.com/wp-content/mu-plugins/internaladapi/assets/internaladapi.js?ver=b8fad6f848619de2e6aaeef042f4b626624476fc"></script>
+<script type="text/javascript" src="http://thefw.com/wp-content/mu-plugins/internaladapi/apis/sponsors/assets/front/townsquaresponsors.js?ver=b8fad6f848619de2e6aaeef042f4b626624476fc"></script>
+<script type="text/javascript" src="http://thefw.com/wp-content/mu-plugins/internaladapi/apis/header/assets/front/townsquareheaders.js?ver=b8fad6f848619de2e6aaeef042f4b626624476fc"></script>
+<script type="text/javascript" src="http://thefw.com/wp-content/mu-plugins/internaladapi/apis/overlaylogo/assets/front/overlaylogo.js?ver=b8fad6f848619de2e6aaeef042f4b626624476fc"></script>
+<script type="text/javascript" src="http://thefw.com/wp-content/mu-plugins/internaladapi/assets/internaladapiajax.js?ver=b8fad6f848619de2e6aaeef042f4b626624476fc"></script>
+<script type="text/javascript" src="http://thefw.com/wp-content/plugins/facebook-apps/js/facebook-auth.js?ver=b8fad6f848619de2e6aaeef042f4b626624476fc"></script>
+<script type="text/javascript" src="http://content.jwplatform.com/libraries/4clPvIkb.js?ver=b8fad6f848619de2e6aaeef042f4b626624476fc"></script>
+<script type="text/javascript" src="http://thefw.com/wp-content/plugins/social-sharing/resources/social-tracking.js?ver=b8fad6f848619de2e6aaeef042f4b626624476fc"></script>
+<script type="text/javascript" src="http://thefw.com/wp-content/plugins/social-sharing/resources/more-button.js?ver=b8fad6f848619de2e6aaeef042f4b626624476fc"></script>
+<script type="text/javascript" src="http://thefw.com/wp-content/plugins/tsq-sailthru-newsletter/resources/js/widget.js?ver=b8fad6f848619de2e6aaeef042f4b626624476fc"></script>
+<script type="text/javascript" src="http://thefw.com/wp-content/themes/townsquare3/resources/js/jquery.template.js?ver=b8fad6f848619de2e6aaeef042f4b626624476fc"></script>
+<script type="text/javascript" src="http://thefw.com/wp-content/widgets/request-song/js/request_song.js?ver=b8fad6f848619de2e6aaeef042f4b626624476fc"></script>
+<script type="text/javascript" src="http://wms.assoc-amazon.com/20070822/US/js/auto-tagger.js?tag=tsmnetwork-20&amp;locale=US&amp;overwrite=1&amp;ver=b8fad6f848619de2e6aaeef042f4b626624476fc"></script>
 <!-- ip: 72.21.86.248 -->
 </div><!-- // #takeover_wrap.body_child  -->
-
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a007ead414","applicationID":"2942652","transactionName":"MlQBNUdTWEBWURZcVgseIgJBW1ldGEIDUlw=","queueTime":0,"applicationTime":648,"atts":"HhMCQw9JS04=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
-Database Caching 34/43 queries in 0.020 seconds using memcached
+Database Caching 36/47 queries in 0.026 seconds using memcached
 Database cluster enabled 
-Object Caching 2057/2306 objects using memcached
+Object Caching 2067/2322 objects using memcached
 
- Served from: thefw.com @ 2016-06-17 11:44:43 by W3 Total Cache --></body></html>
+ Served from: thefw.com @ 2016-11-25 01:06:08 by W3 Total Cache --></body></html>
