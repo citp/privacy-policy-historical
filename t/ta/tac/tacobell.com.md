@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tacobell.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617014641id_/https%3A//www.tacobell.com/legal-notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tacobell.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125091121id_/https%3A//www.tacobell.com/legal-notices/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Taco Bell
 
-Our Policy describes how we treat personal information on the websites where it is located. This includes [fourthmeal.com](http://www.fourthmeal.com/), [tacobellforteens.org](http://www.tacobellforteens.org/), and [feedthebeat.com](http://www.feedthebeat.com/), [indiegamegarage.com](http://www.indiegamegarage.com/). This includes mobile versions of our websites. It also applies to our mobile and social media apps.
+Our Policy describes how we treat personal information on the websites where it is located. This includes [tacobellforteens.org](http://www.tacobellforteens.org/), [feedthebeat.com](http://www.feedthebeat.com/) and [feedthebeta.com. ](http://www.feedthebeta.com./)This includes mobile versions of our websites. It also applies to our mobile and social media apps.
 
 This policy does not apply to the websites and practices of Yum! Brands, Inc. or other members of Yum! Brands like Pizza Hut or KFC. It also does not apply to the practices of Yum Brands subsidiaries or other affiliates. This policy also does not describe the activities of any Taco Bell franchisees.
 
@@ -161,6 +161,6 @@ Phone: (949) 863-4000
 
 From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
 
-© 2015 Taco Bell Corp. All rights reserved.
+© 2016 Taco Bell Corp. All rights reserved.
 
-Effective as of 7/11/2006, last updated September 21, 2015
+Effective as of 7/11/2006, last updated September 23, 2016
