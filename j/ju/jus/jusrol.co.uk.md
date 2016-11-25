@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jusrol.co.uk privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616191346id_/http%3A//generalmills.com/company/privacy-policies/privacy-policy-uk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jusrol.co.uk privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125142025id_/http%3A//generalmills.com/company/privacy-policies/privacy-policy-UK) for the most accurate reproduction.*
 
 # General Mills: Privacy policy, UK
 
@@ -212,7 +212,7 @@ We may change or replace this Privacy Policy at our sole discretion at any time.
 
 ### YourConsent To The Terms Of This Privacy Policy
 
-By using this Site, you signify your assent to all the terms of this Privacy Policy and this Site’s [Terms of Use](http://generalmills.co.uk/Gmi/TermsOfUse.aspx). If you do not agree with any term of this Privacy Policy or our Terms of Use, please do not use this Site or submit any information.
+By using this Site, you signify your assent to all the terms of this Privacy Policy and this Site’s [Terms of Use](http://www.generalmills.co.uk/Gmi/TermsOfUse.aspx). If you do not agree with any term of this Privacy Policy or our Terms of Use, please do not use this Site or submit any information.
 
 ### How To Contact Us
 
