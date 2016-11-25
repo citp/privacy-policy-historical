@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tanda.co privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421220040id_/https%3A//www.tanda.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tanda.co privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125172420id_/https%3A//www.tanda.co/privacy) for the most accurate reproduction.*
 
 # Privacy | Tanda
 
-### 1\. Introduction
+## 1\. Introduction
 
-  1. If you have any questions or comments about this policy please email [info@tanda.co](mailto:info@tanda.co) and we will attend to your query promptly.
+  1. If you have any questions or comments about this policy please email info@tanda.co and we will attend to your query promptly.
   2. Some of the personal information that Tanda holds may be the same information as that which you enter in your Tanda financial database, however our information is not collected only from that source.
   3. Only you and your nominated representatives (which explicitly includes some Tanda system administrative and support employees) have access to your financial database under normal operational circumstances with the exception of summarised anonymous data.
   4. You agree that we may use your data as a part of summarised anonymous data for benchmarking, financial trends and economic analysis and reporting by our research team’s products and services.
@@ -12,9 +12,7 @@
 
 
 
-* * *
-
-### 2\. Collection Statement
+## 2\. Collection Statement
 
 Why and how we collect and use data about you:
 
@@ -26,9 +24,7 @@ Why and how we collect and use data about you:
 
 
 
-* * *
-
-### 3\. How We Collect Your Personal Information
+## 3\. How We Collect Your Personal Information
 
 We may collect personal information:
 
@@ -41,9 +37,7 @@ We may collect personal information:
 
 
 
-* * *
-
-### 4\. How We Use Your Personal Information
+## 4\. How We Use Your Personal Information
 
 Your personal information may be used to:
 
@@ -58,9 +52,7 @@ Your personal information may be used to:
 
 
 
-* * *
-
-### 5\. Disclosing Your Personal Information
+## 5\. Disclosing Your Personal Information
 
 In providing our products and services, or collecting and using your personal information, we will always keep your data private to the maximum extent commercially and practically possible. In the normal course of business and in order to provide your service we may be required to disclose some of your personal information to organisations outside Tanda. Such organisations may include:
 
@@ -77,26 +69,18 @@ In providing our products and services, or collecting and using your personal in
 
 
 
-* * *
-
-### 6\. Accuracy of Your Personal Information
+## 6\. Accuracy of Your Personal Information
 
 We take reasonable precautions to make sure that the personal information we hold is accurate and up-to-date. We appreciate notification of errors, omissions or changes in your personal information. This is especially important for information required for us to communicate with you, such as a change in name, email, phone number or address.
 
-* * *
-
-### 7\. Security of Your Personal Information
+## 7\. Security of Your Personal Information
 
 Tanda takes reasonable steps that your personal information is protected from misuse, loss, unauthorised access, modification or disclosure. Some notable measures to ensure the security of your personal information include: encryption and regular backups of the database. The security of this information is also dependent on your own measures to protect your Tanda email addresses and passwords from disclosure and unauthorised use.
 
-* * *
-
-### 8\. Access to Your Personal Information
+## 8\. Access to Your Personal Information
 
 You have the right to access any of your personal information that we hold, with some exceptions as allowed by law. To obtain a copy of this information, contact us requesting the information and we will provide it to you. Tanda reserves the right to charge a reasonable fee for the provision of this information.
 
-* * *
-
-### 9\. Your Authority
+## 9\. Your Authority
 
 By continuing to use our products or services or website you consent to Tanda maintaining, using and disclosing your personal information as described in this document for a period of no less than seven years from the date of your last use of the system (or the date of the last use of the system by any user under your subscription, whichever is the latest).
