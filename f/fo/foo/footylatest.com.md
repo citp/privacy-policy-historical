@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the footylatest.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529000735id_/http%3A//footylatest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footylatest.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125152733id_/http%3A//footylatest.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | footylatest.com
+# Privacy Policy | Footylatest.com
 
 **What information do we collect?**
 
@@ -57,7 +57,3 @@ By using our site, you consent to our websites privacy policy.
 If we decide to change our privacy policy, we will post those changes on this page.
 
 http://footylatest.com/privacy
-
-_**Have an opinion on this story? leave your comment at the bottom**_   
-  
-[](http://politicslatest.com/)
