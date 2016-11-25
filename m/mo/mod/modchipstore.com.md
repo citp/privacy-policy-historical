@@ -1,29 +1,117 @@
-> *The following text is extracted and transformed from the modchipstore.com privacy policy that was archived on 2012-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120515143743id_/http%3A//www.modchipstore.com/customer/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modchipstore.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125162313id_/https%3A//www.hover.com/privacy%3Fsource%3Dparked) for the most accurate reproduction.*
 
-# ModChipStore.com - Help section/ ModChipStore.com
+# Domains and domain email made simple - Hover
 
-ModChipStore.com believes strongly that all personal information of users and customers must be kept private and deserves protection. You can navigate and visit the website without registering or providing any personal information. However, we do require certain personal information and shipping address information for the processing of orders. ModChipStore.com respects your privacy. ModChipStore.com does not sell, rent or loan any personal information that is identifiable to any unrelated third parties. Any personal information given to us will be held with the utmost care and security and will not be used in ways to which you have not consented. 
+## Our Privacy and Data Collection Practices
 
-ModChipStore.com requires certain name information as well as email addresses for submitting online comments and participating in discussion forums. Discussion Forum and Chat Room comments will be accessible by all site visitors. Therefore, if you don't want your comments or concerns to be viewed by any or all visitors, be advised not to submit them. ModChipStore.com reserves the right to edit or remove anything posted to the website that in our sole discretion is deemed to be offensive, illegal or inappropriate in any way whatsoever.
+Like most online businesses, Hover collects a lot of information on behalf of, and about our customers. We want to help our clients understand what data we collect, how we use the data we collect, who we share this data with, and how we secure and protect this data.
 
-We may use any personal information obtained and data collected to generate certain statistics and compile reports for internal use as well as for sharing with affiliates, licensees, subsidiaries and advertisers. Although this type of information will be used, none of the statistical data will include any information that will identify you personally. In short, your identity will always be kept anonymous unless used internally. 
+The purpose of this document is to share these details with our customers and any else that is interested in these details.
 
-How Do I Know My Credit Card and Personal Information is Secure?
+Whenever we refer to "Hover" in this document, we are referring to the domain registration services provided by Tucows.com Co. via the website hover.com. Tucows is a corporation, accredited by ICANN and under contract with the various domain registries to facilitate the registration and management of your domain names.
+
+We've tried really hard to keep this document simple and readable and if you have any suggestions concerning how we can improve it, please let us know.
+
+## Account Information
+
+When you purchase services from Hover, we create an account for you. This makes it easier for you to track and manage your purchases with us. For the purpose of creating your account, we collect what we call "account data" and "registration contact data".
+
+Account data includes:
 
   
-All personal information and credit card information in the order process is completed using a secure server. ModChipStore.com makes use of Secure Socket Layers (SSL) to encrypt all data provided by the customer. We make every possible effort, given today's technology, to ensure your personal and credit card information is kept safe and private. 
 
-Does ModChipStore.com use 'Cookies'?
+
+• the name of the account holder;
+
+• the mailing address of the account holder;
+
+• a primary and secondary email address associated with the account holder and any other individual that the account holder wishes to designate;
+
+• a credit card number, expiry and verification code;
+
+Registration contact data includes:
 
   
-When you shop at ModChipStore.com and depending on how you have your browser configured, a small file called a 'cookie' may be stored on your computer. This 'cookie' essentially contains a unique personal identification code that is used in order to save your Shopping Bag and review its contents the next time you bring it up. If you have 'cookies' turned off within your browser settings, your Shopping Cart contents will not be remembered each time you visit the site. 
 
-Will Personal Information Be Disclosed To Any Other Parties?
 
-Under current ModChipStore.com policy, no personal information is currently sold or made available to any other person or party outside of the ModChipStore.com team. However, this policy may change in the future. If this policy does change, ModChipStore.com will announce any plans to do so and will ask you if you choose to opt in. We will make the assumption that you do not want to opt in, and if you do you would have to respond to our request. If no response is made, none of your personal information will be shared with any other person or party other than the ModChipStore.com team.
+• the name of the owner and administrative contact(s)
 
-ModChipStore.com reserves the right to cooperate with any local, provincial or federal officials in any investigation where personal information of customers or users is required. As well, we will provide personal information of customers and users for any reports about lawful or unlawful users activities that may be required by any authoritative body.
+• the address of the owner and administrative contact(s)
 
-We reserve the right to change, modify and update this Privacy Policy at any point in time. We reserve the right to disclose any personal information in full or in part in order to satisfy any law, regulation or government request. Or if this information exchange is essential to successful website operation or if it involves the protection of the rights or property of ModChipStore.com and its users, sponsors or merchants.
+• the phone number of the owner and administrative contact(s)
 
-Throughout this Privacy Policy and the ModChipStore.com in its entirety, 'ModChipStore.com' except where stated otherwise, shall be deemed to ModChipStore and ModChipStore.com. 
+• the email address for the owner and administrative contact(s)
+
+## Our use of your account data
+
+Hover only uses account data for the purpose of facilitating the management of your account and billing for your purchases.
+
+We share this data programmatically with Mailchimp for the purpose of sending your notifications and updates about our services and Paypal, for the purpose of billing your credit card.
+
+Hover relies on tokens generated by Paypal to trigger billable events. Hover retains the last 4 digits of the credit card, the type of credit card and the name associated with the credit card for internal tracking and audit purposes. The data is stored securely and is not useable for any billing or charging purposes.
+
+Hover shares your name, email address and demographic information with Mailchimp for the purpose of sending you various notifications related to your account. You may choose which notifications you receive under the Settings link in your Hover account management tools. Neither Paypal nor Mailchimp may ever use your data for their own purposes without our explicit consent or notice to us.
+
+Hover may share your account data with law enforcement agencies on a case-by-case basis. We may or may not notify you if this happens, depending on the circumstances. Hover may also share your account data with a third party under order from a court of competent jurisdiction related to a lawsuit or investigation. Again, we evaluate these requests on a case-by-case basis and we may or may not notify you if this happens.
+
+We may use your account data to contact you concerning a dispute related to your account, or for verification purposes to make sure no one else is accessing your account.
+
+Hover does not share your account data with any other parties for any other reasons.
+
+## Our use of your registration data
+
+Hover only ever uses your registration data for the purpose of facilitating the registration, management and transfer of the domain names you register with Hover. Hover shares your registration data with the registry that manages the TLD you are registering in, for example, Verisign, CIRA, Nominet and others. Hover is also required by ICANN to escrow your registration data with Iron Mountain. They are not permitted to use this data, except to disclose it to ICANN in the event that Hover ceases to be a domain registrar.
+
+ICANN requires that we verify the accuracy of the registration data you provide us on at least an annual basis. We use the email address associated with the Administrative Contact for the domain registration in question for this purpose. Hover sends this email to the Administrative Contact directly and does not use a third party service to facilitate this mailing.
+
+We may use your registration data to contact you concerning a dispute related to your domain name, or for verification purposes to make sure no one else is accessing your domain.
+
+We never sell this information.
+
+## WHOIS
+
+Hover is required by most domain registries and ICANN to publish your registration data in a publicly accessible database called "Whois".
+
+Whois is a publicly accessible database that publishes the contact information associated with domain name registrants. In most cases you may choose not to have your contact information published in the WHOIS. Some top-level domains, like .US and others, may not allow you to opt-out of publication.
+
+Many Registries allow for the use of WHOIS Privacy services, but many others do not. Support (or lack of support for) WHOIS Privacy is noted during the checkout process, and also noted in the Hover dashboard when viewing the details for each domain you own.
+
+[This tutorial](https://help.hover.com/entries/21196313) can help you with controlling the publication of your information in WHOIS.
+
+It may be useful to note that the term "Whois Privacy" is a term common in the domain industry to denote services that help you keep your personal information out of the Whois database. It is also important to know that Hover doesn't guarantee any level of privacy associated with the use of this feature.
+
+Your personal information is still known to the registries and the people who work here and to anyone who may view your Whois information should you ever disable this function on your domain name(s). It should not be viewed as an "Registration Anonymizing" service in any way.
+
+## Domain Search Information
+
+When you search for a domain name to register, you provide us with search terms and phrases that we compare to the lists of domain names that are available for registration and display the results to you.
+
+We never sell the search information you provide to us.
+
+We use this information solely to help you find a suitable domain name to register and to improve the relevancy of our search results. We do not use it for any other purposes. We may provide it to law enforcement agencies if they request it pursuant to appropriate due process.
+
+## Customer Service Information
+
+We use a third party service, Zendesk, to help us manage all of our customer service interactions. Any information you send to use via email is usually stored and tracked in our Zendesk system. We also use Zendesk to log information when you call us for assistance. None of this information is accessible by any third party other than Zendesk.
+
+When you call Hover Support via telephone, we will likely record and archive the conversation. If you don’t agree to this, please contact Hover Support through our online chat, email or other means as may be available at [help.hover.com](https://help.hover.com/).
+
+## Electronic Newsletters and Unsubscribe Policy
+
+When you signed up with Hover, you may have given us permission to send you news and announcements about our services. If you change your mind, you can unsubscribe from our mailing list at any time through the link we provide at the top and bottom of every mailer. You can also remove yourself from our mailing list by sending an email request to [help@hover.com](mailto:help@hover.com) or by giving us a phone call at 1.866.731.6556 (Monday to Friday between 8am and 11pm ET and weekends from 8am to 8pm ).
+
+## Data Analytics
+
+We collect and aggregate data concerning how people use the website at [www.hover.com](http://www.hover.com/). Some of the data is associated with your Hover account and the domains you register with us, but is not personally identifiable to our analytics vendors. Data collected helps us understand how people use our website so that we can improve it. We use a variety of third party services to help us collect and analyze this data, including Google Analytics and Mouseflow.
+
+From time to time, we may use other services in addition to these, either to evaluate their effectiveness for long-term use, or to gather information about a very specific question we have. If you ever have any questions about which third party services we are currently using, please don't hesitate to ask us. Any services we have made a long-term commitment to will always be listed here.
+
+## Surveys
+
+Occasionally, we send out surveys intended to help us better understand how you use our services and how we can improve them. We never sell the information collected through these surveys.
+
+Hover uses Delighted, a third-party service, to facilitate sending and collection of customer satisfaction surveys. Data collected by Delighted is used only by Hover, and not shared with any other third-parties.
+
+## How to contact us
+
+Phone: 1.866.731.6556 (Monday to Friday between 8am and 11pm ET and weekends from 8am to 8pm)
