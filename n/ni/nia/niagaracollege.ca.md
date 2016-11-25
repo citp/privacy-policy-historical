@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niagaracollege.ca privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529214045id_/http%3A//www.niagaracollege.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niagaracollege.ca privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125225939id_/http%3A//www.niagaracollege.ca/privacy) for the most accurate reproduction.*
 
 # Privacy | Niagara College
 
