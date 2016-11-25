@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the africagag.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620071151id_/http%3A//www.africagag.com/pages/priv-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the africagag.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125051450id_/http%3A//www.africagag.com/pages/priv-policy) for the most accurate reproduction.*
 
 # Africa gag - Funniest african gags, images and videos
 
