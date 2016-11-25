@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the outdoorphotographer.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412175448id_/http%3A//www.outdoorphotographer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorphotographer.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125145721id_/http%3A//www.outdoorphotographer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | OutdoorPhotographer.com
+# Privacy Policy - Outdoor Photographer
 
-  
-
+## Outdoor Photographer Website Privacy Policy
 
 This is the privacy policy (”Privacy Policy”) for the Outdoor Photographer website (the “Site”). The Site is made available by Madavor Media, LLC (the “Site Proprietor” or “we” or “us”). This Privacy Policy sets forth our policies regarding the collection, use, and disclosure of certain information relating to you and your use of the Site. Your use of this Site signifies your understanding and acceptance of the terms of this Privacy Policy.
 
-This Privacy Policy is incorporated into, and part of, the Terms of Use, which govern your use of the Site in general.
+This Privacy Policy is incorporated into, and part of, the [Terms of Use](http://www.outdoorphotographer.com/terms-use/), which govern your use of the Site in general.
 
 This Privacy Policy does not apply to information that you may provide to us, or that we may obtain, other than through our Site, such as by phone, through postal mail and through other live or print media.
 
@@ -41,7 +40,7 @@ We also may use “clear GIFs” (aka, web bugs, email bugs, “web beacons” o
 
 Our server may automatically collect data about your server’s Internet address when you visit us. This information, known as an Internet Protocol address, or IP Address, is a number that’s automatically assigned to your computer by your Internet service provider whenever you’re on the Internet. When you request pages from our Site, our servers may log your IP Address and sometimes your domain name. Our server may also record the referring page that linked you to us (e.g., another web site or a search engine); the pages you visit on this Site; the website you visit after this Site; the ads you see and/or click on; other information about the type of web browser, computer, platform, related software and settings you are using; any search terms you have entered on this Site or a referral site; and other web usage activity and data logged by our web servers. We use this information for internal system administration, to help diagnose problems with our server, administer our Site, and identify our users. We may also use such technologies to remember user preferences or minimize the need for you to re-enter information. Such information may also be used to gather broad demographic information, such as country of origin and Internet Service Provider. We may also link this information with your Personal Information.
 
-Any or all of these activities with regard to webite Usage Information may be performed on our behalf by our service providers.
+Any or all of these activities with regard to website Usage Information may be performed on our behalf by our service providers.
 
 Third parties (including, but not limited to, software vendors, advertisers, content providers, and fulfillment companies) may also use certain “tracking” technologies by or through the Site. We have no control over what information such third parties track or collect, and we have no responsibility or liability for any tracking, data collection, or other activities of such third parties.
 
@@ -61,7 +60,7 @@ We may provide visitors an opportunity to receive offers from other entities (as
 
 Some of our contests, sweepstakes, and other offerings may be co-sponsored by another company. In those situations, the information we obtain from you in connection with such contest, sweepstakes, or offering may be shared with our co-sponsor, unless you instruct us not to by following the instructions in the  **Right to Opt Out**  section below. In those situations, our co-sponsors will have the right to use your information for their own purposes, in accordance with their own policies. We are not responsible for how our co-sponsors may use your information.
 
-We may use third-party advertising companies to serve ads when you visit our Site. These companies may use information (generally not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear gifs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear gifs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or email message). We encourage you to read these businesses’ privacy policies if you should have any concerns about how they will care for your Personal Information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative’s consumer website at http://www.networkadvertising.org/consumer/.
+We may use third-party advertising companies to serve ads when you visit our Site. These companies may use information (generally not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear gifs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear gifs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or email message). We encourage you to read these businesses’ privacy policies if you should have any concerns about how they will care for your Personal Information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative’s consumer website at <http://www.networkadvertising.org/consumer/>.
 
 3.  **Wireless Addresses:**
 
@@ -89,13 +88,13 @@ You may be able to create an account on our Site with a username and password. I
 
 We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission.
 
-In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your email address, we may notify you by email. **You consent to our use of email as a means of such notification. If you prefer for us to use another method to notify you in this situation, please email us at  accounts@outdoorphotographer.com with the alternative contact information you wish to be used.**
+In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your email address, we may notify you by email. **You consent to our use of email as a means of such notification. If you prefer for us to use another method to notify you in this situation, please email us at  [accounts@outdoorphotographer.com](mailto:accounts@outdoorphotographer.com) with the alternative contact information you wish to be used.**
 
 7.  **Phishing:**
 
 With identity theft a continuing problem, it has become increasingly common for unauthorized individuals to send email messages to consumers, purporting to represent a legitimate company such as a bank or online merchant, requesting that the consumer provide personal, often sensitive information. Sometimes, the domain name of the email address from which the email appears to have been sent, and the domain name of the website requesting such information, appears to be the domain name of a legitimate, trusted company. In reality, such sensitive information is received by an unauthorized individual to be used for purposes of identity theft. This illegal activity has come to be known as “phishing.”
 
-If you receive an email or other correspondence requesting that you provide any sensitive information (including your Site password or credit card information) via email or to a website that does not seem to be affiliated with our Site, or that otherwise seems suspicious to you, please do not provide such information, and report such request to us at accounts@outdoorphotographer.com.
+If you receive an email or other correspondence requesting that you provide any sensitive information (including your Site password or credit card information) via email or to a website that does not seem to be affiliated with our Site, or that otherwise seems suspicious to you, please do not provide such information, and report such request to us at [accounts@outdoorphotographer.com](mailto:accounts@outdoorphotographer.com).
 
 8.  **Consent to Processing:**
 
@@ -111,17 +110,4 @@ By using this Site, you signify your acceptance of our Privacy Policy. If you do
 
 11.  **Contact Us**
 
-If you have any questions or comments regarding our privacy practices, you may contact us at accounts@outdoorphotographer.com.
-
-### Popular OP Articles
-
-  * | [](http://www.outdoorphotographer.com/gear/more-gear/lighten-up.html "Lighten Up!")| [Lighten Up!](http://www.outdoorphotographer.com/gear/more-gear/lighten-up.html)  
-How to choose and use light-hiking equipment and philosophy to make your photography forays more enjoyable, comfortable and productive [More »](http://www.outdoorphotographer.com/gear/more-gear/lighten-up.html "Lighten Up!")  
----|---  
-  *   * 
-
-
-| 
-
-Get 11 Issues of Outdoor Photographer for only $14.97!  
-That's 77% off the cover price!
+If you have any questions or comments regarding our privacy practices, you may contact us at [accounts@outdoorphotographer.com](mailto:accounts@outdoorphotographer.com).
