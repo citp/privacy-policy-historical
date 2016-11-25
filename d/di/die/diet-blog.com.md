@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diet-blog.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506202256id_/http%3A//www.diet-blog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diet-blog.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125085323id_/http%3A//www.diet-blog.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
