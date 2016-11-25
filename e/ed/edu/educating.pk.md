@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educating.pk privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615180457id_/http%3A//educating.pk/u/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educating.pk privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126005034id_/http%3A//educating.pk/u/privacy-policy) for the most accurate reproduction.*
 
 # Education In Pakistan: Privacy Policy
 
