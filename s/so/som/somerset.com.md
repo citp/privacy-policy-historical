@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the somerset.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515022300id_/http%3A//www2.somerset.com/en/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somerset.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125142652id_/http%3A//www.somerset.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Somerset Serviced Residence
 
 **Revised and posted as of 23 December 2015**
 
@@ -182,7 +182,7 @@ These cookies do not collect personally identifiable information on you. The inf
 
 5.6  In addition to the cookies described above, we may also use other cookies on our website in future. These additional cookies will generally be used for the purposes described above. If the additional cookies are used for other purposes, or to collect other types of data, or provide new functionality, this section on cookies will be updated accordingly.
 
-5.7  As we use Google Analytics on the website, a service provided by Google Inc, you should also review the Google Analytics security and privacy principles available at [](https://support.google.com/analytics/answer/6004245?hl=en)<https://support.google.com/analytics/answer/6004245?hl=en>. We use Google Analytics cookies to collect information about how visitors use our websites and the total number of times a visitor has been into our website. We use the information to improve the website and enhance the experience of our online visitors. You can, at any time, opt-out from the use of Google Analytics by either changing the settings on your browser accordingly or by clicking at the following link: [](https://tools.google.com/dlpage/gaoptout?hl=en)<https://tools.google.com/dlpage/gaoptout?hl=en>
+5.7  As we use Google Analytics on the website, a service provided by Google Inc, you should also review the Google Analytics security and privacy principles available at <https://support.google.com/analytics/answer/6004245?hl=en>. We use Google Analytics cookies to collect information about how visitors use our websites and the total number of times a visitor has been into our website. We use the information to improve the website and enhance the experience of our online visitors. You can, at any time, opt-out from the use of Google Analytics by either changing the settings on your browser accordingly or by clicking at the following link: <https://tools.google.com/dlpage/gaoptout?hl=en>
 
 5.8  We use the cookies of third party social networking platforms and websites to enable you to interact with these platforms and websites to share information about our websites through them (e.g. through "Like" or "Share" buttons or through comment boxes, etc.). The social networking platforms in question will have access and use the information in these cookies for their own purposes and we invite you to consult their respective privacy and cookie policies.
 
