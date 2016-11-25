@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laredoute.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318203809id_/http%3A//www.laredoute.com/privacy-policy.aspx%23footerlink%3Ddonneespersonnelles) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laredoute.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125183216id_/http%3A//www.laredoute.com/privacy-policy.aspx%23footerlink%3Ddonneespersonnelles) for the most accurate reproduction.*
 
 # | La Redoute
 
