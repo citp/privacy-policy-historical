@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allmanbrothersband.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615121205id_/http%3A//www.allmanbrothersband.com/modules.php%3Fop%3Dmodload%26name%3Duserpage%26file%3Dcontent%26page_id%3D63) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmanbrothersband.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125040948id_/http%3A//allmanbrothersband.com/modules.php%3Fop%3Dmodload%26name%3Duserpage%26file%3Dcontent%26page_id%3D63) for the most accurate reproduction.*
 
 # Privacy Policy
 
