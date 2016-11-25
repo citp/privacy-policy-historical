@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yrdsb.ca privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617025252id_/http%3A//www.yrdsb.ca/Pages/Disclaimer.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yrdsb.ca privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125164842id_/http%3A//www.yrdsb.ca/Pages/Disclaimer.aspx) for the most accurate reproduction.*
 
 # Pages - Legal Statements
 
