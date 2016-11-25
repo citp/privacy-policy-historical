@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offerx.co.uk privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626192920id_/http%3A//www.offerx.co.uk/documents/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerx.co.uk privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125031659id_/http%3A//www.offerx.co.uk/documents/privacy) for the most accurate reproduction.*
 
 # Win free prizes and competitions online | OfferX
 
@@ -25,6 +25,7 @@ Retail  |  • Online retail
 Finance  |  • Pensions   
 • Loans, credit cards and mortgages   
 • Investments & savings   
+• Claims Companies ( Ascend )   
 Insurance  |  • Home  
 • Car  
 • Travel  
@@ -42,6 +43,7 @@ Lifestyle  |  • Health & Well-being
 • Media & publishing companies  
 • Leisure  
 • Gaming  
+• Gambling  
 • Legal Services  
 • Educational institutions  
   
@@ -60,7 +62,7 @@ Once you have given your consent, you can however still control whether or not y
 
 ## Post
 
-You can also withdraw your consent for **postal marketing** from anyone by adding your details to the **Mail Preference Service.** For more details please go to [www.mpsonline.org.uk](https://web.archive.org/web/20160626192920id_/http%3A//www.offerx.co.uk/documents/www.mpsonline.org.uk). 
+You can also withdraw your consent for **postal marketing** from anyone by adding your details to the **Mail Preference Service.** For more details please go to [www.mpsonline.org.uk](https://web.archive.org/web/20161125031659id_/http%3A//www.offerx.co.uk/documents/www.mpsonline.org.uk). 
 
 ## E-mail or SMS (text message) 
 
@@ -68,7 +70,7 @@ You can unsubscribe from receiving **e-mail or SMS marketing communications** fr
 
 ## Telephone calls 
 
-To withdraw your consent for **live or automated calls** from anyone you can add your name to the **Telephone Preference Service** which is maintained at this website address: [ www.tpsonline.org.uk](https://web.archive.org/web/20160626192920id_/http%3A//www.offerx.co.uk/documents/www.tpsonline.org.uk). 
+To withdraw your consent for **live or automated calls** from anyone you can add your name to the **Telephone Preference Service** which is maintained at this website address: [ www.tpsonline.org.uk](https://web.archive.org/web/20161125031659id_/http%3A//www.offerx.co.uk/documents/www.tpsonline.org.uk). 
 
 You can also opt out at any time from communications via any of the methods described above by e-mailing us at **Contact@offerx.co.uk** Please note that such opt-out will only apply to communications from those third parties with whom we have a business relationship. If you opt out this way, you may still receive communications from third parties with whom we have no relationship. 
 
@@ -118,12 +120,6 @@ We use your personal information collected via the OfferX website to:
 
 
 
-## Data Collection Notice
-
-Click here to see our list of valued, third party partners, who could send you marketing messages. From time to time we may add or remove businesses from this list and we will update this web page accordingly. 
-
-You should always read their terms and conditions and/or disclosure statement. 
-
 ##  Security and storage of your personal information 
 
 Marketing Punch is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities. 
@@ -171,7 +167,7 @@ qb:nnnn  |
 
 These cookies are essential for the operation of the OfferX website.   
   
-In addition, the below cookies may be placed on your computer in order to identify web site visitors that have agreed to the use of their data for 3rd party online advertising, insight, analytics and content personalisation. This cookie is anonymous and is encrypted and only contains a code that identifies segments to VisualDNA, Criteo, Acxiom, Lotame and its preferred partners who may use the cookie for the purposes of targeted advertising by tracking your online activity. Information provided by cookies are only used for advertising purposes. Information is collected, stored and used separately for each advertising partner. These partners have their own privacy policies and the procedure to opt-out of these cookies is listed in the table below. Further information on online behavioral advertising can be found at [www.youronlinechoices.com/uk/](https://web.archive.org/web/20160626192920id_/http%3A//www.offerx.co.uk/documents/www.youronlinechoices.com/uk/). 
+In addition, the below cookies may be placed on your computer in order to identify web site visitors that have agreed to the use of their data for 3rd party online advertising, insight, analytics and content personalisation. This cookie is anonymous and is encrypted and only contains a code that identifies segments to VisualDNA, Criteo, Acxiom, Lotame and its preferred partners who may use the cookie for the purposes of targeted advertising by tracking your online activity. Information provided by cookies are only used for advertising purposes. Information is collected, stored and used separately for each advertising partner. These partners have their own privacy policies and the procedure to opt-out of these cookies is listed in the table below. Further information on online behavioral advertising can be found at [www.youronlinechoices.com/uk/](https://web.archive.org/web/20161125031659id_/http%3A//www.offerx.co.uk/documents/www.youronlinechoices.com/uk/). 
 
 Cookie  |  Name  |  Purpose   
 ---|---|---  
@@ -254,40 +250,32 @@ Tel: 0870 4460031
 
 The next prize will be won in: 
 
-####  Win £25 cash today! 
+####  Win a Sony MP3 Player! 
 
 [ Enter Prize Draw](https://web.archive.org/daily-prize)
 
 ###  Free Prize Draws
 
-#### Home & Lifestyle Prize Draws
+#### Money Prize Draws
 
-##### Win £150 B&Q or Homebase
+##### Win £1000 cash
 
-How would you like to make some home improvements? 
+Imagine what you could do with &pound;1000 cash? 
 
-[Enter Prize Draw](https://web.archive.org/in/registration/150-bq-or-homebase)
+[Enter Prize Draw](https://web.archive.org/in/registration/1000-cash)
 
 #### Electronic & Gadgets Prize Draws
 
-##### Win a Samsung Galaxy S6 Smartphone
+##### Win GoPro Camera + accessories bundle
 
-Offerx are giving away&nbsp;a brand new Samsung Galaxy S6 Smartphone. 
+How would you like to win a GoPro Session Camera plus a bundle of accessories? 
 
-[Enter Prize Draw](https://web.archive.org/in/registration/samsung-galaxy-s6-smartphone)
+[Enter Prize Draw](https://web.archive.org/in/registration/gopro-camera--accessories-bundle)
 
-#### Money Prize Draws
+#### Home & Lifestyle Prize Draws
 
-##### Win £999 cash
+##### Win a M&S Christmas Hamper
 
-Imagine what you could do with &pound;999 cash? 
+<span id="docs-internal-guid-17cfd9f5-ce49-0338-fc29-3109a833983e"><span style="font-size: 14. 
 
-[Enter Prize Draw](https://web.archive.org/in/registration/999-cash)
-
-#### Motor & Travel Prize Draws
-
-##### Win £300 cash to spend at Onthebeach or Icelolly
-
-Fancy some holiday sun for free? 
-
-[Enter Prize Draw](https://web.archive.org/in/registration/300-cash---onthebeach-or-icelolly)
+[Enter Prize Draw](https://web.archive.org/in/registration/ms-christmas-hamper)
