@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ses-astra.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527155529id_/http%3A//www.ses.com/4353601/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ses-astra.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125192150id_/http%3A//www.ses.com/4353601/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Satellite Services - SES.com
 
