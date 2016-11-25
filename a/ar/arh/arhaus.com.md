@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arhaus.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629075633id_/http%3A//www.arhaus.com/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arhaus.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125042223id_/http%3A//www.arhaus.com/corp/privacy) for the most accurate reproduction.*
 
 # Privacy | Arhaus Furniture
 
@@ -40,7 +40,7 @@ To send to you information by email, postal mail, telephone and other means abou
 
 To administer and fulfill our contests and other promotions (please note that certain contests or other promotions may have additional rules or policies, which could contain different or additional information about how we use and disclose your personally identifiable information; we suggest that you read any such rules or policies carefully in the event of a conflict between such rules or policies and this Privacy Policy, such rules or policies will govern);
 
-To help us improve the customer experience by learning more about your preferences to help personalize your experience with us;
+To help us improve the guest experience by learning more about your preferences to help personalize your experience with us;
 
 To allow you to send messages to a friend through the ARHAUS website (please note that by using such functionality, you are agreeing that you have the right to provide to us your friend’s name and email address for such purpose);
 
@@ -52,13 +52,13 @@ As we believe to be necessary or appropriate: (a) under applicable law, includin
 
 ## Usage and Website Activity Information:
 
-When you visit our website, we may collect more information: your internet service provider's address, the name of the website directing you, as well as your clicks and activity on our website. This anonymous usage information generally is not associated with your personal information. This tracking data helps us understand how to make our website more available and user-friendly to our customers.
+When you visit our website, we may collect more information: your internet service provider's address, the name of the website directing you, as well as your clicks and activity on our website. This anonymous usage information generally is not associated with your personal information. This tracking data helps us understand how to make our website more available and user-friendly to our guests.
 
-We also gather customer information by taking note of the purchases you make with us. By looking at your purchases in context with marketing demographics or with information from companies whose products and services you may be interested in, it helps our buyers and product developers continue to seek out products and designs from around the world that you may find unique and inspiring.
+We also gather guest information by taking note of the purchases you make with us. By looking at your purchases in context with marketing demographics or with information from companies whose products and services you may be interested in, it helps our buyers and product developers continue to seek out products and designs from around the world that you may find unique and inspiring.
 
 ## Third-Party Service Providers:
 
-In order to serve you better, we may, at times, contract with other companies (“Service Provider(s)”) to help us process information. For instance, their assistance can help us better fulfill customer orders, manage, store and enhance customer data, and comply with postal regulations. For your security, these companies are bound by our nondisclosure agreements or other contractual arrangements to provide privacy protection for your information.
+In order to serve you better, we may, at times, contract with other companies (“Service Provider(s)”) to help us process information. For instance, their assistance can help us better fulfill guest orders, manage, store and enhance guest data, and comply with postal regulations. For your security, these companies are bound by our nondisclosure agreements or other contractual arrangements to provide privacy protection for your information.
 
 We use a Service Provider to send emails that you have agreed to receive. Web cookies are used in those email messages and at our website to help us measure the effectiveness of those emails and for other analytical purposes. You can "opt out" of this email cookie at any time by deleting your name from the ARHAUS email mailing list, as detailed below.
 
@@ -68,13 +68,13 @@ We contract with Service Providers to place our banner advertising on other webs
 
 ## Information Sharing:
 
-Information sharing can provide a valuable type of consumer networking. By helping to make new connections and introduce new resources, you may discover new opportunities and products to fit your interests and needs. With that in mind, your customer information may be shared with other select companies whose products and services we think you may find useful.
+Information sharing can provide a valuable type of consumer networking. By helping to make new connections and introduce new resources, you may discover new opportunities and products to fit your interests and needs. With that in mind, your guest information may be shared with other select companies whose products and services we think you may find useful.
 
-Information sharing also helps us to guard against potential fraud and other wrongdoing. We review transactions internally on a regular basis to identify potential concerns, and we work with select outside companies to further enhance our ability to ensure that fraudulent orders and/or potentially damaging worms, viruses, and other types of malware do not interfere with our ability to provide the best possible products, value and services to you, and to our other valued customers.
+Information sharing also helps us to guard against potential fraud and other wrongdoing. We review transactions internally on a regular basis to identify potential concerns, and we work with select outside companies to further enhance our ability to ensure that fraudulent orders and/or potentially damaging worms, viruses, and other types of malware do not interfere with our ability to provide the best possible products, value and services to you, and to our other valued guests.
 
 ## Your Information Sharing Choices:
 
-We respect and appreciate that not all customers may want to share information with other select companies. If you do not want ARHAUS to share your personal information for marketing purposes, please click [_here_](https://web.archive.org/subscriptions/DoNotShareMyInformation/) and we will remove your name from lists we share with other companies. After we process your request, your personal information will no longer be shared for marketing purposes.
+We respect and appreciate that not all guests may want to share information with other select companies. If you do not want ARHAUS to share your personal information for marketing purposes, please click[ _here_](https://web.archive.org/subscriptions/DoNotShareMyInformation/) and we will remove your name from lists we share with other companies. After we process your request, your personal information will no longer be shared for marketing purposes.
 
 It is important to understand that with some companies or online partners, your information must be shared in order to receive their services.
 
@@ -88,7 +88,7 @@ Updating your contact information is quick and easy. Just contact us, include yo
 
 ## Notice to California Residents/Your California Privacy Rights:
 
-As set forth in this Privacy Policy, we offer our customers the ability to opt out of sharing your personally identifiable information with third parties for their direct marketing purposes. To make such a request, [_click here_](https://web.archive.org/subscriptions/UnsubscribeFromCatalog/) and follow the email and/or catalogue opt-out instructions, and clearly state your request, including your name, mailing address, email address and phone number.
+As set forth in this Privacy Policy, we offer our guests the ability to opt out of sharing your personally identifiable information with third parties for their direct marketing purposes. To make such a request, [_click here_](https://web.archive.org/subscriptions/UnsubscribeFromCatalog/) and follow the email and/or catalogue opt-out instructions, and clearly state your request, including your name, mailing address, email address and phone number.
 
 ## Protecting Children's Privacy:
 
@@ -100,7 +100,7 @@ Please be aware that whenever you share information on a publicly available area
 
 ## Links to Sites and Services:
 
-At times, we provide links our customers may be interested in, including links to social media sites such as Facebook, Twitter, or Pinterest. ARHAUS is not responsible for these websites, which have their own privacy policies and privacy practices to which you may be subject. When visiting our space on social media or other apps or tools, you will be subject to those websites’ privacy policies. If you visit our website through a link from another website, you may be subject to that website’s privacy policy as well. If you choose to explore these websites and services, we suggest that you carefully review their individual privacy policies.
+At times, we provide links our guests may be interested in, including links to social media sites such as Facebook, Twitter, or Pinterest. ARHAUS is not responsible for these websites, which have their own privacy policies and privacy practices to which you may be subject. When visiting our space on social media or other apps or tools, you will be subject to those websites’ privacy policies. If you visit our website through a link from another website, you may be subject to that website’s privacy policy as well. If you choose to explore these websites and services, we suggest that you carefully review their individual privacy policies.
 
 ## Compliance with Laws and Law Enforcement:
 
@@ -108,11 +108,11 @@ ARHAUS will cooperate with government and law-enforcement officials and private 
 
 ## Information Security:
 
-We take our customers’ personal information seriously and take steps to protect your personal information against loss, misuse, alteration, and unauthorized access. We use encryption technology whenever receiving and transferring your payment information on our website.
+We take our guests’ personal information seriously and take steps to protect your personal information against loss, misuse, alteration, and unauthorized access. We use encryption technology whenever receiving and transferring your payment information on our website.
 
 ## About SSL Certificates:
 
-When you make a purchase online, either a solid key or a locked padlock icon will appear in the lower right of your browser window. This icon indicates that your transaction session is secured through Secure Sockets Layer (SSL). If one of these icons does not appear, please contact Client Services at ARHAUS at 866-427-4287 to complete your purchase.
+When you make a purchase online, either a solid key or a locked padlock icon will appear in the lower right of your browser window. This icon indicates that your transaction session is secured through Secure Sockets Layer (SSL). If one of these icons does not appear, please contact our Concierge Team at ARHAUS at 866-427-4287 to complete your purchase.
 
 ## Your Responsibilities:
 
@@ -120,7 +120,7 @@ You are responsible for maintaining the confidentiality of your account and pass
 
 ## Our Privacy Promise:
 
-ARHAUS supports and adheres to the guidelines and practices adopted by the Direct Marketing Association's Privacy Promise and the Digital Advertising Alliance Self-Regulatory Principles for Online Behavioral Advertising. In doing so, we agree to comply with a customer's requests to not share their information with other companies or to contact them for marketing purposes by postal mail, telephone, email or through online behavioral advertising. If at any time, as a customer, you believe ARHAUS is not committed to its Privacy Policy, please contact us.
+ARHAUS supports and adheres to the guidelines and practices adopted by the Direct Marketing Association's Privacy Promise and the Digital Advertising Alliance Self-Regulatory Principles for Online Behavioral Advertising. In doing so, we agree to comply with a guest's requests to not share their information with other companies or to contact them for marketing purposes by postal mail, telephone, email or through online behavioral advertising. If at any time, as a guest, you believe ARHAUS is not committed to its Privacy Policy, please contact us.
 
 ## Processing in the United States:
 
@@ -194,10 +194,10 @@ If we decide to change our privacy policy in whole or in part, we will inform yo
 
 ## Contact Us:
 
-To contact us with a question, problem, or concern, please call 866.427.4287 or send us an email at shop@arhaus.com. Outside of the United States, you can call us at 440.439.7700 or send us an email at shop@arhaus.com.
+To contact us with a question, problem, or concern, please call 866.427.4287 or send us an email at at concierge@arhaus.com. Outside of the United States, you can call us at 440.439.7700 or send us an email at concierge@arhaus.com.
 
 ## We Welcome Your Feedback:
 
-To help us improve our privacy policy and practices, please give us your feedback. In the United States, you can call us at 866.427.4287 or send us an email at shop@arhaus.com. Outside of the United States, you can call us at 440.439.7700 or send us an email at shop@arhaus.com.
+To help us improve our privacy policy and practices, please give us your feedback. In the United States, you can call us at 866.427.4287 or send us an email at concierge@arhaus.com. Outside of the United States, you can call us at 440.439.7700 or send us an email at concierge@arhaus.com.
 
-PRIVACY POLICY EFFECTIVE DATE: February 8, 2016
+PRIVACY POLICY EFFECTIVE DATE: September 10, 2016
