@@ -1,81 +1,267 @@
-> *The following text is extracted and transformed from the warnervideo.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307112359id_/http%3A//www.wbshop.com/Privacy/PRIVACY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warnervideo.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125211742id_/http%3A//www.wbshop.com/text/legal/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
-## Privacy Policy
+Last Updated: October 26, 2016
 
-  * The Information We Collect
-  * How We Use the Information
-  * Third-Party Sites and Sponsors
-  * Cookies
-  * Our Commitment to Security
-  * How You Can Access or Correct Information
-  * Special Note for Parents
-  * Notification of Updates
-  * How to Contact Us
+* * *
+
+Welcome to our online shop! This shop is owned and operated by Araca Merchandise L.P.. Like you, everyone at Araca is a huge fan of entertainment. We specialize in creating online shops that help fans pursue their passion for collecting. Thank you for visiting and have a great time! 
+
+Your privacy is important to us. Araca Merchandise L.P. and its affiliates (“Araca,” “we,” “us,” or “our”) provide this notice explaining our information practices and the choices you can make about the collection and use of the information while shopping in our online shops, including via mobile sites (collectively, the “Services”). For certain offerings of our Services, there may be additional notices about information practices and choices. Please read those additional privacy disclosures to understand how they apply to you. 
+
+By visiting our shop, you are accepting and consenting to the practices described in this Privacy Policy. Please read them carefully.
+
+The following is a summary of the highlights of our Privacy Policy that we thought you would be most interested in: 
+
+Information Collection
+
+  * When you register for an account or engage with our Services, you provide personal information (e.g., name, address, e-mail, phone number, credit card information), and information about your interests in our products and services.
+  * You may also provide us with information when interacting with our Services through or linking to third party social media sites, plug-ins, or applications.
+  * The information we collect may be combined with information from outside records.
+  * Our Services use cookies and other similar technology for site functionality and to improve your user experience.
+
+| 
+
+Your Choices
+
+  * You may update or correct your profile information through our [Account Settings page](https://web.archive.org/account/login.do?method=view) or by sending us an email to [privacy@bolderroad.com](mailto:privacy-%20@bolderroad.com)
+  * If you want to unsubscribe or receive fewer promotional e-mails, click the Update Your Preferences link included in our marketing emails, or simply follow the unsubscribe instructions in our marketing e-mails.
+  * To reject certain cookies, choose the option in your browser settings to receive a notice before a cookie is stored on your device.
+  * To opt-out of use of cookies by certain of our advertisers or technology vendors who help deliver ads tailored to your profile and preferences, visit [Network Advertising Initiative](http://www.networkadvertising.org/) and/or the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices) or [Your Online Choices](http://youronlinechoices.com/).
+  * Your devices provide certain opt-out choices that you can control. Consult your device settings for more information.
+
+  
+---|---  
+  
+Use of Information
+
+  * The information collected is used to fulfill your requests, track and ship orders, communicate with you, protect, maintain, improve, and provide our products and services, and to operate our business. This includes displaying personalized content and advertising to provide you with the products and messages we think you will find most interesting.
+  * We and our affiliates and business partners may also use this information to inform you of other products or services that may interest you.
+
+| 
+
+Disclosure of Information
+
+We may share your information:
+
+  * Where we have your consent.
+  * With third party service providers and other companies that work on our behalf or with our affiliates.
+  * With business partners, such as those who sponsor a sweepstakes, contest or promotion.
+  * In the event of a corporate transaction.
+  * When required by law.
+
+  
+  
+Additional Information
+
+  * We take appropriate security measures designed to safeguard the information we collect.
+  * We do not sell products for purchase by children. We sell products for purchase by adults. 
+  * We operate internationally, but our computer systems are based in the U.S., so your information will be processed in the U.S. that may have different data laws than your country. 
+
+| 
+
+Contact us
+
+If you have any questions about this Privacy Policy, please contact us at [privacy@bolderroad.com](mailto:privacy-%20@bolderroad.com) or at:
+
+Araca Merchandise L.P.  
+545 West 45th Street, Floor 10  
+New York, NY 10036   
+  
+  
+
+
+### INFORMATION WE COLLECT
+
+We collect information about you in a few different ways, including when you provide it to us directly through the Services and from your interaction with our Services. Certain third parties may also collect information about you, either directly or from your interaction with our Services. 
+
+Information You Provide to Us. 
+
+We collect information that you voluntary give to us. When you create an account to browse and purchase products in the shop, you provide us information like your name, address, email address, telephone number, credit card and billing information. We may also collect content you choose to post to our Services, like comments, product reviews and ratings, and videos and photos. For example, you may upload a photo to the shop in order to customize merchandize you would like to purchase. We also collect information that you voluntarily give to us about other people. For example, you might submit a person's name and email address to share content or product recommendations through our “tell-a-friend” feature, or if you order a gift and want it sent directly to the recipient, you might submit the recipient's name, address, and telephone number. By submitting information to us about other people, you confirm that you have obtained permission from each of those people to share their information. 
+
+Information We Collect from Your Interaction with the Service.
+
+We also collect certain information when you use our Services such as the type of browser you are using (e.g., Chrome, Firefox, Internet Explorer, Safari) and the version of your browser, the type of operating system you are using (e.g., Windows, Mac OS, iOS, Android), the domain name of your Internet service provider or mobile carrier, IP address, mobile device IP address (e.g., MAC address), unique device identifier, your precise location information, and certain usage information. 
+
+Information Provided or Collected Through Social Media.
+
+You can also engage with our Services through third party social media plug-ins and applications, such as those offered by Facebook, Twitter, Pinterest and others. You may also choose to link your account with us to third party social media sites, for example, through Facebook Connect. When you link your account or engage with such plug-ins or applications, you may allow us to have ongoing access to certain information from your social media account (e.g., name, e-mail address, profile photo, gender, birthday, location, your list of friends and their contact information, people you follow and/or who follow you, the posts or the 'likes' you make). 
+
+When you provide information to us from your social media account, it can help enable us to do things like personalize your online experience with us, and enable us to contact you through the social media sites or directly with the latest news, special offerings, and rewards. By providing such information, you consent to the use of the information in accordance with this Privacy Policy. 
+
+If you post information or content, such as by posting photos, commenting or reviewing products, or when you interact with our Services through social media plug-ins or other applications, depending on your privacy settings, this information may become public on the Internet. Therefore, we cannot prevent further use of this information. You can control what data you share through privacy settings available on some social media sites. For more information about how you can customize your privacy settings and how third party social media sites handle your personal information, please refer to their privacy help guides, privacy policies and terms of use. 
+
+Information From Other Sources.
+
+We may, on occasion, combine information we receive online with outside records and use such information in accordance with this Privacy Policy, such as to enhance our ability to market to you products or services that may be of interest to you and to personalize your experience. 
+
+Cookies and Other Technical Information.
+
+Our Services use “cookies” and other similar technology such as “Web beacons.” Cookies are text files containing small amounts of information which are downloaded to your device when you visit a site. Cookies are then sent back to the originating site on each subsequent visit, or to another site that recognizes that cookie. Cookies do a lot of different jobs, like remembering your preferences, and generally improve the user experience. You can find more information about cookies at [All About Cookies](http://www.allaboutcookies.org/). Web beacons are electronic images that often work in conjunction with cookies. 
+
+Our Services use cookies for the following purposes: 
+
+  * To identify you when you return to one of our shops or sign-in to your account. This allows us to provide you with product recommendations and display personalized content. For example, if we notice that you are a fan of action and adventure movies, you will be less likely to see products related to comedies on future visits. And if you purchase a phone case from us or browse pages of phone cases in one of our shops, you will be more likely to see phone cases in the emails you receive from us and on our web sites when you return.
+  * To keep track of items stored in your shopping cart.
+  * To keep track of your specified preferences.
+  * To track your orders and process your transactions.
+  * To deliver content, including advertisements, relevant to your interests. Our interest-based ads are subject to your preferences as further described here.
+  * To conduct research and diagnostics to improve our content, products and Services. Google Analytics is one provider we use for site analytics. You can find out more about Google Analytics cookies here.
+  * To share information you choose on social media platforms by using social media sharing buttons or “like” buttons, or linking your social media account.
+  * To prevent fraudulent activity.
+  * To improve security.
 
 
 
-Thank you for visiting WBShop.com, a property of Warner Bros. Entertainment Group. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the collection and use of the personal information you submit on Web pages where this policy is posted and through the use of our service. 
+Cookies allow you to take advantage of some of our shop’s essential features. For instance, if you block or otherwise reject some of our cookies, you will not be able to add items to your shopping cart. For information on how to opt-out of certain cookies, please review the section below entitled Your Choices: Cookies.
 
-As we operate internationally, and many of our computer systems are currently based in the United States, your personal data will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account as a visitor from outside the United States, you consent to the collection and/or processing in the United States of your personally identifiable information, which includes the use of cookies as described below. 
+By accepting this Privacy Policy, you specifically agree to our use of cookies and Web beacons as described herein.
 
-THE INFORMATION WE COLLECT  In your interactions with us, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected include: name, address, e-mail address, telephone number, fax number, credit card information, date of birth, and information about your interests in and use of various products, programs, and services (e.g., other movies you have watched) 
+We do not currently alter our practices when we receive Do Not Track signals because there is no consensus among industry participants as to what "Do Not Track" means in this context. To find out more about "Do Not Track," you may wish to visit [All About Do Not Track](http://allaboutdnt.com/). 
 
-In some instances, you can submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number. 
+  
 
-At certain parts of some of our site or through certain features, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services, or otherwise participate in the activities and offerings. We also collect certain non-personally identifiable information when you visit many of our Web pages such as the type of browser you are using (e.g., Firefox, Internet Explorer), the type of operating system you are using (e.g., Windows XP or Mac OS), the domain name of your Internet service provider (e.g., America Online, Earthlink) or other information about your computer(s) and software to facilitate the management of movies downloaded or rented over the Internet through this site. 
 
-HOW WE USE THE INFORMATION  We use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you. 
+### HOW WE USE THE INFORMATION
 
-We use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us. 
+We use information we, or our third party service providers, collect about you for a few different purposes, either as described in this policy or as we otherwise disclose to you when you interact with our Services. For example, we may use your information as follows: 
 
-We use the information that you provide about others to enable us to send them your gifts or cards. From time to time, we also may use this information to offer our products, programs, or services to them. 
+Providing Products and Services.
 
-The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services. 
+We use the information we collect about you to: 
 
-If you choose to submit content for publication (e.g., a "letter to our editors"), we may publish your screen name and other information you have provided to us. We use the non-personally identifiable information that we collect to improve the design and content of our site or service and to enable us to personalize your experience. We also may use this information in the aggregate to analyze site or service usage, as well as to offer you products, programs, or services. 
+  * provide you with our products, programs, and services;
+  * process your transactions, track and ship orders;
+  * administer surveys, sweepstakes or contests;
+  * respond to your inquiries about our offerings; 
+  * provide, personalize, and improve our offerings and Services; and
+  * offer you other products, programs or services from us and our affiliates, business partners, and selected third parties that we believe may be of interest to you.
 
-We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by or consistent with law or legal requirements. In addition, we may transfer information about you if we or one of our business units are acquired by, sold to, or merged with another entity. 
 
-We may also contract with other companies to perform certain functions on our behalf. These companies may perform functions such as fulfilling orders, to facilitate the management of movies downloaded or rented over the Internet through this site, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
 
-Agents and contractors of Warner Bros. Entertainment Group who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for Warner Bros. Entertainment Group. 
+Communicating with You.
 
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. 
+We use the information we collect about you to communicate with you, including via email, phone, sms text message or push notifications, as you decide, for reasons such as: 
 
-We may, from time to time, ask your permission to disclose personally identifiable information about you to third parties whose practices are not covered by this Privacy Policy (e.g., other marketers, magazine publishers, retailers, participatory databases and non-profit organizations) that want to market products or services to you. If at some point you grant us permission to transfer your information for these purposes and later decide that you no longer want us to do so, simply log into your profile or send us an email at [privacy@wb.com](mailto:privacy@wb.com), and we will edit your preferences accordingly. 
+  * confirm purchases you have made through our Services;
+  * confirm that your purchases have shipped;
+  * invite you to review purchases made via the Services;
+  * notify you of items left in your shopping cart;
+  * notify you when you have won a contest or sweepstakes;
+  * notify you when we make changes to our user agreements;
+  * fulfill a request by you for an online newsletter;
+  * provide you with product recommendations;
+  * provide you with access to personalized information based on your location;
+  * contact you about your account with us; and
+  * offer you other products, programs or services from us and our affiliates, business partners, and selected third parties that we believe may be of interest to you. 
 
-We may, on occasion, combine information we receive with outside records to enhance our ability to market to you those products or services that may be of interest to you. As you interact with us, we provide you with an opportunity to express your preferences with respect to receiving details about other products and services from Warner Bros. Entertainment Group and other Time Warner businesses and about products and services from selected third parties. If you ever decide in the future that you would like to update these preferences, you may log into your account if you have created one with us or you may send us an email at [privacy@wb.com](mailto:privacy@wb.com) and we will edit your preferences accordingly. 
 
-Finally, we will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
 
-COLLECTION OF INFORMATION BY THIRD PARTY SITES AND SPONSORS Some of our pages or content contain links to other sites or providers whose information practices may be different than ours. Visitors should consult the other sites' privacy policies before submitting any personally identifiable information, as we have no control over information that is submitted to, or collected by, these third parties. 
+We use the information that you provide about others to enable us to send them invitations, gifts, cards, or other content on your behalf or through our Services. From time to time, we also may use this information to offer products, programs, or services to them. 
 
-We sometimes may offer content or programs (e.g., contests, sweepstakes, or promotions) that are sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the activity. We have no control over these third parties' use of this information. You will be notified at the time of requesting personally identifiable information if these third parties will obtain such information. 
+Improving and Personalizing the Service.
 
-On our service, reputable third parties may present or serve the advertisements, provide us with data collection, reporting and ad response measurement, as well as assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit or set their own cookies. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this privacy statement. For more information about third party ad servers, and your ability to opt-out of targeted advertising from such third parties, please [click here](http://www.adtechus.com/cookie_opt-out/) and also visit the [Network Advertising Initiative](http://www.adtechus.com/cookie_opt-out/)
+We use aggregate information about you and non-personal information that we collect to improve the design, functionality and content of our Services, and to enable us to personalize your experience with our Services and offerings. We use this information to (i) provide, maintain, personalize, protect, improve, and develop our products, programs, and services and to operate our business, (ii) to analyze usage and performance of our Services, and (iii) for us and our affiliates, business partners, and selected third parties to offer you products, programs, or services. 
 
-COOKIES AND OTHER TECHNICAL INFORMATION We, our third party service providers, and our partners may send "cookies" to your computer or use similar technologies primarily to enhance your online experience. "Cookies" are files that can identify you as a unique customer and store your personal preferences as well as technical information (including click through and click stream data). Cookies manage and measure the performance of advertisements displayed on or delivered by or through Warner Bros. Entertainment Group and/or other networks or site. Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser). We may also use "Web beacons" that monitor your use of our sites. Web beacons (or Web bugs) are small strings of code that provide a method for delivering a graphic image on a Web page for the purpose of transferring data, such as the IP (Internet Protocol) address of the computer that downloaded the page on which the Web beacon appears, the URL (Uniform Resource Locator) of the page on which the Web beacon appears, the time the page containing the Web beacon was viewed, the types of browser that fetched the Web beacon and the identification number of any cookie on the computer previously placed by that server. 
+  
 
-When corresponding with you via HTML capable e-mail, Web beacons let us know whether you received and opened our e-mail. 
 
-On their own, cookies or Web beacons do not contain or reveal any personally identifiable information. However, if you choose to furnish personally identifiable information, this information can be linked to the data stored in the cookies/Web beacons. 
+### INFORMATION SHARING AND DISCLOSURE
 
-By accepting this Privacy Policy, you specifically agree to our use of cookies and Web beacons as described herein. You may adjust your browser to reject cookies from us or from any other Web site. Additionally, by setting your Web browser to display HTML e-mails as text only, you may be able to prevent the use of some Web beacons. Please consult the "Help" section of your browser for more information. However, certain areas can only be accessed in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices might prevent you from accessing some of our content. 
+Legal and Law Enforcement Purposes.
 
-OUR COMMITMENT TO SECURITY We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. For more information, please see our Security page 
+We may disclose personal information in response to legal process, for example in response to a court order or a subpoena, or in response to a law enforcement agency's request. We also may disclose such information to third parties in connection with fraud-scoring, detection, and prevention activities or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Use](https://web.archive.org/text/legal/terms.html), to protect our rights and the rights of others, and as otherwise required by law. 
 
-HOW YOU CAN ACCESS OR CORRECT INFORMATION To access the personally identifiable information that we have collected about you that we maintain, to correct factual errors in such information, or to update your interests, preferences or other portions of your user profile, please log into your profile if you have created one with us and edit accordingly or send an email to [privacy@wb.com](mailto:privacy@wb.com).
+Business Transactions.
 
-To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
+We may transfer information about you in the event of or negotiation of a business transaction, such as if we are acquired by, sold to, or merged with another company, or in connection with financing, bankruptcy, or dissolution proceedings. 
 
-ADDITIONAL INFORMATION REGARDING CHILDREN'S PRIVACY Visitors may participate in many activities without providing any personally identifiable information. However, if a user wants to participate in certain of our interactive features, we ask the user to register and provide us with the following information: the user's e-mail address and age information. When the person who registers indicates that he or she is under 13 years old, we will either (i) collect no personally identifiable information from that individual or (ii) inform the child that a parent's verifiable consent is required, or (iii) we will collect the e-mail address of the user's parent in addition to the user's e-mail address. We use the parent's e-mail address to seek the parent's verifiable consent or notify the parent of his/her child's online activities and enable the parent to unsubscribe his/her child from a newsletter or other similar activity. If a user is under 13, we will not condition his/her participation in an online activity on the disclosure of more information than is reasonably necessary to participate in the activity. We do not share children's information with outside third parties not bound by this Privacy Policy. If you would like to review any personally identifiable information that we have collected online from your child, have this information deleted, and/or request that there be no further collection or use of your child's information or if you have questions about these information practices, you may contact us at [privacy@wb.com](mailto:privacy@wb.com), or at Warner Bros. Advanced Digital Services, Attn. Chief Privacy Officer, 4000 Warner Blvd., Bldg. 168, Burbank, CA 91522, (818) 977-0018. 
+Service Providers.
 
-Please note that these methods of registration will not be used if particular services or features offered by our site require the user be 13 or older. 
+Our agents and contractors, such as our shipping partners, order management system and fraud prevention providers, may have access to personal information to help carry out the services they are performing for us, such as shipping orders, to facilitate the processing of orders, to host product reviews, and to prevent fraud. 
 
-NOTIFICATION REGARDING UPDATES From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. 
+Product Licensors and Other Third Parties.
 
-HOW TO CONTACT US If you have any questions or concerns about this Privacy Policy or its implementation you may contact us at: [privacy@wb.com](mailto:privacy@wb.com) or at Warner Bros. Advanced Digital Services, a division of Warner Bros. Technical Operations Inc., Attention: Chief Privacy Officer, 4000 Warner Blvd., Bldg. 168, Burbank, CA 91522. .
+We may disclose aggregate information and non-personal information about you to certain of our product Licensors and business partners to improve our Services, and we may disclose personal information about you to certain product Licensors to communicate with you about their own products and services if you choose to receive such communications. 
 
-Back to Top
+Technology Providers and Ad Servers.
+
+While using the Service, third parties may present or serve advertisements, provide us with data collection, reporting, ad response measurement, and site analytics, and assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit, or set their own cookies. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this Privacy Policy. They may also obtain information about other applications that you have downloaded to your mobile device, the mobile websites you visit, and other information about you or your device in order to help analyze and serve anonymous targeted advertising on the Services and elsewhere. For more information about third party ad servers and your ability to opt-out of targeted advertising from such third parties, please visit the [Network Advertising Initiative](http://www.networkadvertising.org/) and/or the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices) or [Your Online Choices](http://youronlinechoices.com/). Please note that opting-out through these programs will stop certain targeted advertising, but will still allow the collection of usage data for some purposes, including research, analytics and internal operations. 
+
+Video Purchasing Information.
+
+We may share the titles of the films or TV shows that you have purchased through our Services (e.g., DVDs or Blu-rays) with third party services, including our Product Licensors or business partners, in order to fulfill your order, create and track wish lists and order histories, to recommend products to you based on your interests, for research purposes, and to improve our Services. 
+
+Linked Sites.
+
+Some of our Sites contain links to other sites whose information practices may be different from ours. Visitors should consult the other sites’ privacy policies before submitting any information, as we have no control over information that is submitted to, or collected by, these third parties. 
+
+Sponsors and Co-Promotions.
+
+We sometimes may offer contests, sweepstakes, promotions, games, applications or social network integrations that are sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personal information that you voluntarily submit to participate in the activity. We have no control over these third parties' use of this information. 
+
+  
+
+
+### YOUR CHOICES
+
+There are a number of ways you can learn about, control and make changes to how we and third parties collect, use and share your information. 
+
+Profile Information.
+
+You may update or correct your profile information through our [Account Settings page](https://web.archive.org/account/login.do?method=view) or by sending us an email to [privacy@bolderroad.com](mailto:privacy@bolderroad.com)
+
+Marketing Communications.
+
+We provide you with an opportunity to express your preferences with respect to receiving certain marketing communications from us or from unaffiliated third parties. If you ever decide in the future that you would like to update these preferences, you can visit our Marketing Preference page where you may choose how often you would like to receive certain communications from us or where you may choose to unsubscribe from receiving certain communications from us. Additionally, you may follow the “unsubscribe” instructions provided in any marketing email you receive from us. You may also send us an email at [privacy@bolderroad.com](mailto:privacy@bolderroad.com) with your request, and we will edit your preferences accordingly. Please note, if you unsubscribe or opt out of communications, we may still send you non-promotional e-mails, such as e-mails about your account, order and shipping confirmations, notifications that you left something in your shopping cart, or in regards to our ongoing business relations. 
+
+Cookies.
+
+Many web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies from our servers. If you wish to reject cookies from our site, but wish to accept those from other sites, you may choose the option in your browser settings to receive a notice before a cookie is stored on your device. Please consult the “Help” section of your browser for more information. To find out more, please consult [All About Cookies](http://www.allaboutcookies.org/). If you choose to remove cookies or reject cookies, this could affect certain features of our Services and can remove opt-out cookies used to express your choice about online tracking and personalized ads. You can choose to opt-out of use of cookies by many of our advertisers, advertising technology vendors and other advertising-related services who help deliver ads tailored to your profile and preferences at the following: [Network Advertising Initiative](http://www.networkadvertising.org/) and/or the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/choices) or [Your Online Choices](http://youronlinechoices.com/). If you remove your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choices. You can avoid the use of cookies by Google Analytics relating to your use of our shop by downloading and installing the Browser Plugin available [here](https://tools.google.com/dlpage/gaoptout?hl=en-GB). 
+
+Video Purchasing Information.
+
+If you reside in the U.S., you may withdraw your consent for us to use and share your video purchasing information with certain third parties that are not incident to our ordinary course of business, on a specific title by title basis, or from any ongoing disclosures with such third parties, by emailing us at [privacy@bolderroad.com](mailto:privacy@bolderroad.com). 
+
+Device Settings.
+
+Devices and device system software provide certain opt-out choices that you can control. For example, Apple iOS and Google Play Services provide an opt-out choice that you can use to control in-app advertisements, and mobile device operating systems provide opt-out choices for push notifications or alerts and collection of location information. If you previously chose to receive push notifications on your mobile device from us but no longer wish to receive them, you can manage your preferences either through your device or app settings, depending on the type of device. Please consult your device settings for more information or to opt out using these mechanisms. 
+
+  
+
+
+### California Residents.
+
+If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your information with unaffiliated third parties for the third parties’ direct marketing purposes. Please send your request (along with your full name, e-mail address, postal address, and the subject line labeled “Your California Privacy Rights”) by e-mail to [privacy@bolderroad.com](mailto:privacy@bolderroad.com). 
+
+  
+
+
+### Security.
+
+Your security is important to us and we have put in place appropriate technical and organizational procedures designed to safeguard the information we collect through the Services. Unfortunately, no security system can be guaranteed to be 100% secure, so we cannot guarantee the security of the information you provide to us. To help protect your information, you should not share your account information or password, reuse your password on other websites, or use a password you have used on other websites. For more information on password protection practices click [here](http://oag.ca.gov/privacy/safe-password-practices). If you share your account information or password with others or allow others to access your account, you will be responsible for their actions. While you are responsible for maintaining the confidentiality and security of your account information, if you become aware of a security issue affecting our Services or any authorized use of your account, please let us know immediately by contacting us at [privacy@bolderroad.com](mailto:privacy@bolderroad.com). 
+
+### General Audience Service.
+
+We do not sell products for purchase by children. We sell products for purchase by adults. Therefore, we do not knowingly collect personal information from children under the age of 13. 
+
+### International Transfers.
+
+We operate internationally, however our computer systems are currently based in the United States. Your personal information will be processed by us in the U.S. where data protection and privacy regulations may be different from those of your country of residence . If you use our Services from outside the U.S., you consent to the collection and/or processing in the U.S. of your personal information, which includes the use of cookies as described above. 
+
+### Changes to this Policy.
+
+From time to time, we may update this Privacy Policy. We will notify you about material changes in the way we treat personal information by placing a notice on this website or by sending you an email message. We encourage you to periodically check back and review this policy so that you always will know our current privacy practices. 
+
+  
+
+
+### How to Contact Us.
+
+Thank you so much for your interest in our online shops and for reading this policy. We hope you enjoy our Services. If you have any questions about this Privacy Policy, please contact us at [privacy@boldderroad.com](mailto:privacy@bolderroad.com) or at: 
+
+Araca Merchandise L.P.  
+545 West 45th Street, Floor 10  
+New York, NY 10036  
+Attn: Privacy 
