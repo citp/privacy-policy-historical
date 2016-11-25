@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the family.ca privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511235228id_/http%3A//www.family.ca/privacy-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the family.ca privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125201327id_/http%3A//www.family.ca/privacy-cookies-policy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy - Family.ca
 
