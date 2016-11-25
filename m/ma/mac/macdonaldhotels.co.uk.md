@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macdonaldhotels.co.uk privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623204119id_/http%3A//www.macdonaldhotels.co.uk/privacy-policycookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macdonaldhotels.co.uk privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125150820id_/http%3A//www.macdonaldhotels.co.uk/privacy-policycookies) for the most accurate reproduction.*
 
 # Privacy policy - Macdonald Hotels UK
 
