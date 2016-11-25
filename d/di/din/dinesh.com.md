@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the dinesh.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507132156id_/http%3A//dinesh.com/about_me/about_this_site/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinesh.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125232531id_/http%3A//www.dinesh.com/about_me/about_this_site/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-##  [ Privacy Policy](http://www.dinesh.com/about_me/about_this_site/privacy_policy.html)
-
-Details
-     Parent Category: [About Me](http://www.dinesh.com/about_me.html)
-     Category: [About This Site](http://www.dinesh.com/about_me/about_this_site.html)
+##  [ Privacy Policy](http://www.dinesh.com/about_me/about_this_site/privacy_policy/)
 
 **Privacy Policy for http://www.dinesh.com**
 
@@ -18,7 +14,7 @@ At http://www.dinesh.com, the privacy of our visitors is of extreme importance t
 Dinesh.com allows users to register on this site. We do not share this information with any 3rd parties. This information is only used by the site to communicate with you in case we have any information to share. 
 
 **Log Files**  
-Like many other Web sites, http://www.dinesh.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Like many other Web sites, http://www.dinesh.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user€™s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
 **Cookies and Web Beacons**   
 http://www.dinesh.com does not use cookies. 
