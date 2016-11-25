@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wavebroadband.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618105522id_/http%3A//www.wavebroadband.com/resources/docs/Wave-Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wavebroadband.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125221917id_/http%3A//www.wavebroadband.com/resources/docs/Wave-Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # 1-866-WAVE-123 | wavebroadband.com
 
