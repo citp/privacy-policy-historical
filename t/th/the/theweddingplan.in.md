@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theweddingplan.in privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606041551id_/http%3A//www.theweddingplan.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theweddingplan.in privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125105951id_/http%3A//www.theweddingplan.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TheWeddingPlan
 
