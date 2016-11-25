@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ontariohockeyleague.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529195133id_/http%3A//www.chl.ca/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontariohockeyleague.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125095941id_/http%3A//www.chl.ca/privacy_policy) for the most accurate reproduction.*
 
-# CHL Network - Privacy Policy
+# Privacy Policy – CHL
 
 **CHL Privacy Policy**
 
@@ -65,9 +65,9 @@ We believe that none of the CHL properties appeal directly to children 13 years 
 
 Non-personal information is collected or derived by us in the course of operating the CHL Network.  For example, our web servers may automatically collect non-personal information which is provided through your browser or stored on a cookie or through a web beacon when you choose to visit the CHL Network.
 
-In addition to CHL's practices related to IP addresses, cookies or web beacons, non-personal information is used generally by the CHL to monitor and improve the operation of the CHL Network, to perform statistical analyses of the collective characteristics and behaviour of our users, to measure user demographics and interests regarding specific CHL Properties, to describe our services to third parties such as prospective business partners and advertisers and to analyze how and where best to use our resources. No personal information will be disclosed during these activities.
+In addition to CHL’s practices related to IP addresses, cookies or web beacons, non-personal information is used generally by the CHL to monitor and improve the operation of the CHL Network, to perform statistical analyses of the collective characteristics and behaviour of our users, to measure user demographics and interests regarding specific CHL Properties, to describe our services to third parties such as prospective business partners and advertisers and to analyze how and where best to use our resources. No personal information will be disclosed during these activities.
 
-The CHL may also use non-personal information to inform our sponsors and advertisers as to the performance of a particular sponsorship (such as a contest) or advertisement. In such case we may disclose to those third-party sponsors and advertisers the overall aggregate demographics available regarding, for example, who participated in a contest or who saw and "clicked" on an advertisement. No personal information will be disclosed to these sponsors and advertisers as part of this process; only information in an anonymous, aggregate form will be disclosed.
+The CHL may also use non-personal information to inform our sponsors and advertisers as to the performance of a particular sponsorship (such as a contest) or advertisement. In such case we may disclose to those third-party sponsors and advertisers the overall aggregate demographics available regarding, for example, who participated in a contest or who saw and “clicked” on an advertisement. No personal information will be disclosed to these sponsors and advertisers as part of this process; only information in an anonymous, aggregate form will be disclosed.
 
 **_IP Addresses_**
 
@@ -83,7 +83,7 @@ _The CHL and IP Addresses:_
 
 **_Cookies and Web Beacons_**
 
-The CHL uses "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs, deliver viruses to your computer, search your computer for other information or transmit any information to anyone. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. The cookie identifies your browser and will NOT let a web site know any personal information about you, such as your name and address.
+The CHL uses “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs, deliver viruses to your computer, search your computer for other information or transmit any information to anyone. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. The cookie identifies your browser and will NOT let a web site know any personal information about you, such as your name and address.
 
 _The CHL may use cookies to:_
 
@@ -95,11 +95,11 @@ _The CHL may use cookies to:_
 
 Cookies are used on many major web sites. Most browsers are initially setup to accept cookies. If you prefer, you can reset your browser either to notify you when you have received a cookie, or to refuse to accept cookies. You should understand that while the CHL does not require you to use cookies, certain CHL properties may not function properly if you set your browser to not accept cookies.
 
-Certain CHL properties may contain electronic images or tagging code known as web beacons - sometimes called single-pixel gifs or JavaScript tags - that allow the CHL to count users who have visited those pages and to deliver co-branded services. Web beacons are not used to access your personal information; they are a technique used to compile aggregated statistics about CHL network usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. Certain CHL Network web pages may also contain web beacons placed there by our advertising partners to help the CHL determine the effectiveness of our internet advertising campaigns.
+Certain CHL properties may contain electronic images or tagging code known as web beacons – sometimes called single-pixel gifs or JavaScript tags – that allow the CHL to count users who have visited those pages and to deliver co-branded services. Web beacons are not used to access your personal information; they are a technique used to compile aggregated statistics about CHL network usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. Certain CHL Network web pages may also contain web beacons placed there by our advertising partners to help the CHL determine the effectiveness of our internet advertising campaigns.
 
 **Links**
 
-The CHL Network contains hyperlinks to internet sites managed by third parties. These links are only suggested for your convenience. Activating these links may cause you to leave the CHL Network.  Please note that the CHL does not have any control over third party internet sites and the fact that such sites have links to the CHL Network does not incur the CHL's liability in any way whatsoever.  Consequently, any personal information you provide on third party sites will be subject to these other sites’ policies and procedures. The CHL cannot be held liable at any time for any abuses, which may result. We recommend that you read carefully the policies and procedures related to personal information on these other sites.
+The CHL Network contains hyperlinks to internet sites managed by third parties. These links are only suggested for your convenience. Activating these links may cause you to leave the CHL Network.  Please note that the CHL does not have any control over third party internet sites and the fact that such sites have links to the CHL Network does not incur the CHL’s liability in any way whatsoever.  Consequently, any personal information you provide on third party sites will be subject to these other sites’ policies and procedures. The CHL cannot be held liable at any time for any abuses, which may result. We recommend that you read carefully the policies and procedures related to personal information on these other sites.
 
 **Limitation of the Collection of Personal Information**
 
