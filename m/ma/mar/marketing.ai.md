@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marketing.ai privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606171919id_/http%3A//marketing.ai/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketing.ai privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125043408id_/http%3A//www.marketing.ai/privacy.html) for the most accurate reproduction.*
 
-# Marketing.AI Privacy Policy
+# Privacy Policy
 
 Effective Date: 01 November, 2012
 
@@ -34,7 +34,6 @@ From time to time, we may make changes to this privacy policy. In order to ensur
 
 Contacting Experts.AI Software Corp.  
 If you have any questions about this privacy statement, the practices of the Marketing.AI Website, or your dealings with Experts.AI, please contact us at: support@experts.ai or by mail at:  
-Experts.AI Software Corp.  
-422 Richards Street, #170  
-Vancouver, BC V6B 2Z4  
+Sun Tower, 403 - 128 West Pender Street  
+Vancouver, BC V6B 1R8  
 
