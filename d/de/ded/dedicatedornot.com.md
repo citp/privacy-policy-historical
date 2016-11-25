@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dedicatedornot.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615194746id_/http%3A//dedicatedornot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dedicatedornot.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125061047id_/http%3A//dedicatedornot.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Dedicated Webserver or Not
 
@@ -49,11 +49,11 @@ Shared web hosting, sometimes called a virtual host, multi-host, or self-serve w
 
 ## Updated Queries
 
-  1. [2wr585.com](http://2wr585.com.dedicatedornot.com/)
-  2. [talgov.com](http://talgov.com.dedicatedornot.com/)
-  3. [0556th.jjjaaa.com](http://0556th.jjjaaa.com.dedicatedornot.com/)
-  4. [tautmilesgloba.lt](http://tautmilesgloba.lt.dedicatedornot.com/)
-  5. [365mcu.com](http://365mcu.com.dedicatedornot.com/)
-  6. [bmediaasia.com](http://bmediaasia.com.dedicatedornot.com/)
+  1. [doctorbillwood.net](http://doctorbillwood.net.dedicatedornot.com/)
+  2. [www.hyysa.com](http://www.hyysa.com.dedicatedornot.com/)
+  3. [www.librariahomeopata.ro](http://www.librariahomeopata.ro.dedicatedornot.com/)
+  4. [greatdarkhorde.org](http://greatdarkhorde.org.dedicatedornot.com/)
+  5. [mingxue.cn](http://mingxue.cn.dedicatedornot.com/)
+  6. [www.reitverein-holtensen.de](http://www.reitverein-holtensen.de.dedicatedornot.com/)
 
 
