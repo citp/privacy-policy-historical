@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxadda.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624142849id_/http%3A//taxadda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxadda.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125191121id_/http%3A//taxadda.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TaxAdda
 
@@ -22,7 +22,7 @@ Your privacy is very important to TaxAdda. So, this is a bit more detail to help
 
 ### Cookie/Tracking Technology
 
-TaxAdda may use cookies and tracking technology which are useful for gathering information such as browser type and operating system, tracking the number of visitors to the site, and understanding how visitors use the Site. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Third parties such as our advertisers may also use cookies to collect information in the course of serving ads to you. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. Google, in particular, as a third party vendor, uses cookies to serve ads on this site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+TaxAdda may use cookies and tracking technology which are useful for gathering information such as browser type and operating system, tracking the number of visitors to the site, and understanding how visitors use the Site. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Third parties such as our advertisers may also use cookies to collect information in the course of serving ads to you. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. Google, in particular, as a third party vendor, uses cookies to serve ads on this site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 **Information collected by third-parties.**
 
