@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the porkbun.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426122613id_/http%3A//www.porkbun.com/legal/agreement/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porkbun.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125124019id_/https%3A//porkbun.com/legal/agreement/privacy_policy) for the most accurate reproduction.*
 
-# stage.porkbun.com | Oink!
+# porkbun.com | privacy policy
 
 Privacy Policy
 
@@ -56,9 +56,9 @@ C. Advertisers and Others.
 
 We share non-personally identifiable information with advertisers, site providers, and other persons with whom we conduct business. Conversely, these advertisers, site providers, and other persons may share with us information about you that they have independently developed or acquired.
 
-D. Site Third Parties.
+D. Third Parties.
 
-We contract with affiliated and non-affiliated third parties to provide sites to us or to you on our behalf. Examples include providing marketing assistance and analyzing data. These third parties have access to personal information needed to perform their functions.
+We contract with affiliated and non-affiliated third parties to provide services to us or to you on our behalf. Examples include providing marketing assistance and analyzing data. These third parties have access to personal information needed to perform their functions.
 
 E. Business Transfer.
 
