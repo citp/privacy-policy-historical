@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mapcruzin.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619024202id_/http%3A//www.mapcruzin.com/fairuse.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapcruzin.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125185851id_/http%3A//www.mapcruzin.com/fairuse.htm) for the most accurate reproduction.*
 
 # Cookies, Privacy, Disclaimer and fair use notice
 
 January 30, 2020 
 
-[](https://web.archive.org/canada-fsa-postal-code-shapefiles/)
+[](https://web.archive.org/toxic-release-inventory-tri-shapefiles-2013/)
 
 [](http://twitter.com/pollutionmaps) [Follow on Twitter](http://twitter.com/pollutionmaps)
 
