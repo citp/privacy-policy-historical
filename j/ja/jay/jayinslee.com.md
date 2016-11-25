@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jayinslee.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207150446id_/http%3A//wfc2.wiredforchange.com/o/8846/p/salsa/web/common/public/content%3Fcontent_item_KEY%3D10979) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jayinslee.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125014418id_/http%3A//www.jayinslee.com/privacy) for the most accurate reproduction.*
 
-# - Jay Inslee - Building a Working Washington
+# Privacy Policy | Jay Inslee for Governor
 
 The Jay Inslee for Washington campaign is committed to protecting your privacy. While using our website, you do not have to identify yourself or divulge personal information. If you should choose to give us your personal information, you decide the amount of information you provide. This Privacy Statement applies to data collection and usage on JayInslee.com; it does not apply to other websites.
 
@@ -12,7 +12,7 @@ When you sign up on JayInslee.com, we may ask for your name, address, telephone 
 
 When you sign one of our petitions: We treat your name, city, state, and any comments as public information. We may, for example, provide compilations of petitions, with your comments, to national leaders, without disclosing email addresses. We may also make comments along with your city and state available to the press and public online.
 
-When you contribute money, under state election law, we are required to make periodic filings that provide the Public Disclosure Commission with the following information on each contributor: name, address, amount of contribution, date of contribution, employer and occupation. For more information on the PDC, visit their website at [www.pdc.wa.gov](http://www.pdc.wa.gov/).
+When you contribute money: Under state election law, we are required to make periodic filings that provide the Public Disclosure Commission with the following information on each contributor: name, address, amount of contribution, date of contribution, employer and occupation. For more information on the PDC, visit their website at www.pdc.wa.gov.
 
 ## Use of your Personal Information
 
