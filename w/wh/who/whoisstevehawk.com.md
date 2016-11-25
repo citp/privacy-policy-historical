@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whoisstevehawk.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601065858id_/http%3A//whoisstevehawk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoisstevehawk.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125223314id_/http%3A//whoisstevehawk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Steve Hawk
 
@@ -35,4 +35,4 @@ The categories of Personally Identifiable Information we collect are your first 
 
 10\. Changes to Privacy Policy. If our Privacy Policy or procedures change, we will immediately post those changes to our website. Any such changes will be effective immediately upon being posted, unless otherwise stated in the change.
 
-11\. Effective Date. This Privacy Policy is effective as of January 1,2013
+11\. Effective Date. This Privacy Policy is effective as of January 1, 2013
