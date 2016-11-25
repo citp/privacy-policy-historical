@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the math-only-math.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325131858id_/http%3A//www.math-only-math.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the math-only-math.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125165012id_/http%3A//www.math-only-math.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Personal Information | Use of Cookies and Web Beacons
 
@@ -27,7 +27,7 @@ A web beacon is a transparent image file used to monitor your journey around a s
 
 We may serve third-party advertisements that use cookies and web beacons in the course of ads being served on our web site to ascertain how many times you've seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site. 
 
-Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the [ Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the ﻿﻿[Google ad and content network privacy policy](https://www.google.com/policies/technologies/ads/)﻿﻿.
 
 Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose.
 
