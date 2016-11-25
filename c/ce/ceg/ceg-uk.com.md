@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceg-uk.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527184614id_/http%3A//www.cambridgeeducationgroup.com/about-us/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceg-uk.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125053648id_/http%3A//www.cambridgeeducationgroup.com/about-us/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Cambridge Education Group
 
