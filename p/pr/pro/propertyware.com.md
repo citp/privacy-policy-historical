@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyware.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611133950id_/http%3A//www.propertyware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyware.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125020856id_/http%3A//www.propertyware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy by Propertyware
 
@@ -82,7 +82,7 @@ If you have any questions or concerns about the RealPage Privacy Policy or its i
 
 RealPage, Inc.  
 Attn: Privacy (Legal)  
-4000 International Parkway  
-Carrollton, Texas 75007-1913
+2201 Lakeside Blvd.  
+Richardson, TX 75082
 
 [Prior Versions Archive](https://web.archive.org/privacy-policy/archive/)
