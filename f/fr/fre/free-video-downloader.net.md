@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-video-downloader.net privacy policy that was archived on 2016-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160121145328id_/http%3A//free-video-downloader.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-video-downloader.net privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126005807id_/http%3A//www.free-video-downloader.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | iLivid.com
 
