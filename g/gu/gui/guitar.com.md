@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitar.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412033240id_/https%3A//www.guitar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitar.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125042227id_/https%3A//www.guitar.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Guitar.com
 
