@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the infopop.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413131339id_/http%3A//assets.socialstrata.com/docs/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infopop.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125103810id_/http%3A//assets.socialstrata.com/docs/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy For Social Strata
 
-Effective September 24, 2015 
+Effective September 20, 2016 
 
 This Privacy Policy ("Policy") applies to all products, services, and websites operated by Social Strata, Inc. ("Social Strata"). 
 
-​Social Strata complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Social Strata has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Social Strata’s certification, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor). 
+​Social Strata complies with the **EU-U.S. Privacy Shield Framework** , as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Social Strata has certified that it adheres to all applicable provisions of the Privacy Shield Framework, including the Privacy Principles, the Supplemental Principles, and Annex 1 of the Framework. To learn more about the Privacy Shield program, and to view Social Strata’s certification, please visit <https://www.privacyshield.gov/list>. 
+
+Social Strata also complies with the **U.S.-Swiss Safe Harbor Framework** as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. Social Strata has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor Program, and to view Social Strata’s certification, please visit <https://www.export.gov/safeharbor>. 
+
+Collectively, we refer to the EU-U.S Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as the "Principles". 
 
 Information That We Collect
 
@@ -33,12 +37,14 @@ Information Sharing
 Social Strata does not share personal information with other individuals, organizations, or companies outside of Social Strata, unless we have your consent or unless: 
 
   * We are working with trusted partners who agree to abide by the rules of this Policy or have signed a confidentiality agreement.
-  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+  * We respond to subpoenas, court orders, or legal process, in response to a lawful request by public authorities (including to meet national security or law enforcement requirements), or to establish or exercise our legal rights or defend against legal claims.
   * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, or potential threats to the physical safety of any person.
   * If Social Strata is involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
-  * We are transmitting data in order to fulfill a service. For instance, credit card transactions are routed through transaction partners like [Recurly](http://recurly.com/) and other financial transaction processing firms. This information is only conveyed in order to render service, however, and is not shared for any other purpose. 
+  * We are transmitting data in order to fulfill a service. For instance, credit card transactions are routed through transaction partners like [Recurly](http://recurly.com/) and other financial transaction processing firms. Also, we may use [Akismet](https://akismet.com/) to detect spam, and provide information such as your display name, email address and and IP address, but only for sites using our Comment Spam features. This information is only conveyed in order to render service, however, and is not shared for any other purpose. 
 
 
+
+We are not responsible for the processing of your personal information by any third party, other than those third parties acting as our subcontractors to process data on our behalf. We remain liable and responsible for the data processing undertaken by our subcontractors on our behalf.
 
 Note that we may share certain aggregated, non-personal information, such as demographic information, browser type, and usage statistics. In such cases, the information does not identify you personally. 
 
@@ -48,11 +54,11 @@ While Social Strata does not provide any personal information to advertisers, it
 
 Data Integrity
 
-Social Strata processes personal information only for the purposes for which it was collected, and in accordance with the Policy. We review our data collection, storage, and processing practices to ensure that we only collect, store, and process the personal information needed to provide our services. We depend on our users to update or correct their own personal information. 
+Social Strata processes personal information only for the purposes for which it was collected, and in accordance with the Principles. We review our data collection, storage, and processing practices to ensure that we only collect, store, and process the personal information needed to provide our services. We depend on our users to update or correct their own personal information. 
 
 Enforcement
 
-Social Strata periodically reviews its compliance with the Policy. If you have questions or concerns, please contact us at: Social Strata, Inc., ATTN: Social Strata Privacy Administrator, 1985 Riviera Drive, Suite 103-114, Mount Pleasant, SC 29464, USA. If you contact us at this address with your concerns/questions, we will respond. Social Strata will also cooperate with the appropriate regulatory authorities to resolve any complaints regarding the transfer of personal information that cannot be resolved between Social Strata and you. 
+Social Strata periodically reviews its compliance with the Principles. If you have questions or concerns, please contact us at: Social Strata, Inc., ATTN: Social Strata Privacy Administrator, 1985 Riviera Drive, Suite 103-114, Mount Pleasant, SC 29464, USA. If you contact us at this address with your concerns/questions, we will respond. Social Strata will also cooperate with the appropriate regulatory authorities to resolve any complaints regarding the transfer of personal information that cannot be resolved between Social Strata and you. 
 
 Confidentiality and Security
 
@@ -60,7 +66,19 @@ Social Strata restricts access to personal information to Social Strata employee
 
 Updating Your Personal Information
 
-If you have a hoo.do account, you can edit your account information at any time online. You will need to sign in to edit your account information. You may also request to have your account deleted entirely. Please note, however, that requests for account deletion may take up to 30 days to process and archived versions of your information may remain in our system after deletion. 
+If you have a hoo.do account, you can edit your account information at any time online. You will need to sign in to edit your account information. You may also request to have your account deleted entirely. Please note, however, that requests for account deletion may take up to 30 days to process and archived versions of your information may remain in our system after deletion. To request to have your account deleted, you may email us at [privacy@socialstrata.com](mailto:privacy@socialstrata.com). 
+
+Dispute Resolution Under the EU-U.S. Privacy Shield and U.S.-Swiss Safe Harbor Frameworks
+
+If your dispute or complaint cannot be resolved through Social Strata’s internal process, Social Strata has agreed to cooperate with the EU Data Protection Authorities and the Swiss Federal Data Protection and Information Commission, and to participate in the dispute resolution procedures of the panel established by the EU Data Protection Authorities. You may contact the relevant EU Data Protection Authority here: <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>
+
+Binding Arbitration
+
+If your dispute or complaint cannot be resolved by Social Strata, nor by the panel established by the EU Data Protection authorities or through the U. S. Department of Commerce, you may have the right to require that Social Strata enter into binding arbitration with you pursuant to the Privacy Shield’s Recourse, Enforcement and Liability Principle and Annex I of the Privacy Shield. 
+
+REGULATORY OVERSIGHT
+
+Social Strata is subject to the investigatory and enforcement powers of the United States Federal Trade Commission. 
 
 Changes to This Policy
 
@@ -68,7 +86,7 @@ Social Strata may revise this Policy in the future. We will notify you about sig
 
 Questions/Comments
 
-If you have any questions or comments regarding Social Strata's Privacy Policy, please contact us at: 
+If you have any questions or comments, or wish to file a complaint regarding Social Strata's Privacy Policy, please contact us at: 
 
 Social Strata, Inc.  
 Social Strata Privacy Administrator  
