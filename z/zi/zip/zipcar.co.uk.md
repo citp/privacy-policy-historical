@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zipcar.co.uk privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626203136id_/http%3A//www.zipcar.co.uk/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipcar.co.uk privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125143540id_/http%3A//www.zipcar.co.uk/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Zipcar
 
@@ -29,6 +29,8 @@ The principle purposes for which we collect and store your personal and financia
 **Zipcars may be equipped with telematics data tracking technology** (this section applies only to Members who accepted the Privacy Policy on or after 13 April 2016). The use of vehicle telematics is becoming increasingly common in the automotive sector and it enables companies like Zipcar to better understand how vehicles are being used, ultimately leading to better service availability for members. The telematics data tracking technology allows us to monitor driver behaviour of members, which encourages responsible and safe driving and will assist reducing fleet and operational costs. This is extremely useful if vehicles are stolen or involved in an accident, as the vehicles can be recovered swiftly, accidents can be prevented and insurance claims settled based on facts. In addition, at an anonymous and aggregated level, insight can be obtained about Zipcar usage overall.
 
 **Refer a Friend.** If you choose to use our referral service to tell a friend about Zipcar, we will ask you for your friend's name and email address or telephone number. We may send your friend one or more messages inviting your friend to join Zipcar. Zipcar stores this information for the sole purpose of sending these communications and tracking the success of our referral program. Your friend may contact us at [privacy@zipcar.com](mailto:privacy@zipcar.com) to request that we remove this information from our database; however, if someone else subsequently refers the same friend, the friend's contact information may be stored again.
+
+Zipcar work with Mention Me, a 3rd party referral provider, to ensure the best referral process possible. In order to facilitate Mention Me referrals we share some basic data with them in order that they can identify and reward the correct participants. This data will in no way be used for other purposes besides the fulfilment of your referral.
 
 ## children's privacy
 
