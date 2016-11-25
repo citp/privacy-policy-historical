@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etcconnect.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410131202id_/http%3A//www.etcconnect.com/Privacy-Policy-and-terms-of-use.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etcconnect.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125155644id_/http%3A//www.etcconnect.com/Privacy-Policy-and-terms-of-use.aspx) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use | ETC
 
@@ -8,17 +8,17 @@ ETC respects the privacy of all visitors to our website. You control whatever pe
 
 We respect your privacy and are committed to protecting it through our compliance with this privacy policy (this “Privacy Policy”). For purposes of this Privacy Policy, each of the terms “we,” “us,” or “our” means Electronic Theatre Controls, Inc., a Wisconsin corporation ("ETC"), and the term this “Site,” means, collectively, this website, portions of other Web pages and Web content, and/or a mobile device application through which you have accessed this Privacy Policy.
 
-This Privacy Policy (together with our Terms of Use [www.etcconnect.com/Privacy-Policy-and-terms-of-use.aspx](http://www.etcconnect.com/Privacy-Policy-and-terms-of-use.aspx) and any other documents referred to in this Privacy Policy and the Terms of Use) describes information that we collect from you or that you provide on this Site and how that information may be used and disclosed by us. 
+This Privacy Policy (together with our Terms of Use and any other documents referred to in this Privacy Policy and the Terms of Use) describes information that we collect from you or that you provide on this Site and how that information may be used and disclosed by us. 
 
 This Privacy Policy does not apply to information collected through any other medium, collected offline, or collected by any person or entity other than us (such as a third-party website or a third-party application).
 
-Please read this Privacy Policy and the Terms of Use carefully to understand our policies and practices regarding your personal information and how we will treat it. By accessing, using or submitting information to this Site, you agree to this Privacy Policy and our Terms of Use [www.etcconnect.com/Privacy-Policy-and-terms-of-use.aspx](http://www.etcconnect.com/Privacy-Policy-and-terms-of-use.aspx). This Privacy Policy may change from time to time and your continued use of this Site is deemed to be acceptance of such changes, so please check periodically for updates.
+Please read this Privacy Policy and the Terms of Use carefully to understand our policies and practices regarding your personal information and how we will treat it. By accessing, using or submitting information to this Site, you agree to this Privacy Policy and our Terms of Use. This Privacy Policy may change from time to time and your continued use of this Site is deemed to be acceptance of such changes, so please check periodically for updates.
 
-**Information About ETC’s Participation in the US-EU Safe Harbor**
+**Information About ETC’s Participation in the Privacy Shield**
 
-ETC complies with the US-EU Safe Harbor Framework established by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries. ETC has certified that it follows the US-EU Safe Harbor principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Policies, the Safe Harbor Privacy Principles shall govern. To learn more about the US-EU Safe Harbor Framework, and to review ETC’s certification page, please visit the following link:
+ETC complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. ETC has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield Program, and to view our certification page, please visit [https://www.privacyshield.gov/ ](https://www.privacyshield.gov/)
 
-In compliance with the US-EU Safe Harbor principles, ETC commits to resolve complaints about your privacy and our collection or use of your personal information. EU citizens with inquiries or complaints regarding this Privacy Notice should first contact ETC at:
+In compliance with the EU-US Privacy Shield Principles, ETC commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact ETC at:
 
 ETC – General Counsel 
 
@@ -30,7 +30,11 @@ USA
 
 Email: [privacy@etcconnect.com](mailto:privacy@etcconnect.com)
 
-ETC has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not timely receive acknowledgment of your complaint, or if your complaint has not been satisfactorily resolved by ETC, please visit the BBB EU Safe Harbor web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+ETC has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to the BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
+
+Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
+
+ETC is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
 
 **Children’s Information**
 
@@ -88,13 +92,13 @@ We may use your information, including any personally identifiable information, 
   * Ensure this Site is of interest to you (including, customization of advertising and content) and help us better understand your use of this Site;
   * Protect the security and integrity of this Site;
   * Conduct internal reviews of this Site and administer this Site’s systems;
-  * Comply with, monitor compliance with and enforce this Privacy Policy, our Terms of Use <http://www.etcconnect.com/Privacy-Policy-and-terms-of-use.aspx> and any other applicable agreements and policies;
+  * Comply with, monitor compliance with and enforce this Privacy Policy, our Terms of Use and any other applicable agreements and policies;
   * Develop, enhance, and market our products and services or the products and services of third parties;
   * Provide you with promotional materials, offers, and personalized information;
   * Manage our business and operations;
   * Meet legal and regulatory requirements;
   * Provide administrative communications to you;
-  * Use User Generated Content as permitted in our Terms of Use <http://www.etcconnect.com/Privacy-Policy-and-terms-of-use.aspx>; and
+  * Use User Generated Content as permitted in our Terms of Use
   * For other purposes as may be disclosed when you provide personally identifiable information or in this Privacy Policy.
 
 
@@ -136,15 +140,15 @@ From time to time, we may participate in or use advertising networks, such as th
 
 **User Generated Content**
 
-You are responsible for any content, including personal information, that you contribute to be published or displayed (“posted”) on this Site, or that you transmit to other users of this Site (collectively, “User Generated Content”). Your User Generated Content is posted on and transmitted to other users of this Site at your own risk. We cannot control the actions of other users of this Site with whom you may choose to share your User Generated Content. We can also not responsible for circumvention of any privacy settings or security measures contained on this Site. As a result, we cannot and do not guarantee that your User Generated Content will not be viewed by unauthorized persons. You understand and acknowledge that, even after removal, copies of your User Generated Content may remain viewable in cached and archived pages, or might have been copied or stored by other Site users. Proper access and use of information provided on this Site, including User Generated Content, is governed by our Terms of Use <http://www.etcconnect.com/Privacy-Policy-and-terms-of-use.aspx.>
+You are responsible for any content, including personal information, that you contribute to be published or displayed (“posted”) on this Site, or that you transmit to other users of this Site (collectively, “User Generated Content”). Your User Generated Content is posted on and transmitted to other users of this Site at your own risk. We cannot control the actions of other users of this Site with whom you may choose to share your User Generated Content. We can also not responsible for circumvention of any privacy settings or security measures contained on this Site. As a result, we cannot and do not guarantee that your User Generated Content will not be viewed by unauthorized persons. You understand and acknowledge that, even after removal, copies of your User Generated Content may remain viewable in cached and archived pages, or might have been copied or stored by other Site users. Proper access and use of information provided on this Site, including User Generated Content, is governed by our Terms of Use.
 
 **Choices About How We Use and Disclose Your Information**
 
 We strive to provide you with choices regarding the personal information you provide to us. Below are some mechanisms that provide you with control over certain information:
 
   * _Cookies_. If you do not wish us to collect cookies, you may set your browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of this Site may then be inaccessible or may not function properly.
-  * _Offers from Us._ If you do not wish to receive promotional materials, marketing materials email offers or newsletters from us, you can opt-out of receiving such information from us (other than emails related to the completion of your registration, correction of user data, change of password and other similar communications essential to your transactions on this Site) by using the unsubscribe process at the bottom of the email, by checking the relevant box located on the form on which we collected your data, adjusting your user preferences in your account profile, if applicable, or by sending us an email stating your request to [privacy@etcconnect.com](mailto:privacy@etcconnect.com).
-  * _Accessing and Correcting Personal Information_. If this Site allows you to create an account with us, then you can review and update your personal information by logging into this Site, visiting your account profile page and making changes.
+  * _Offers from Us._ If you do not wish to receive promotional materials, marketing materials email offers or newsletters from us, you can opt-out of receiving such information from us (other than emails related to the completion of your registration, correction of user data, change of password and other similar communications essential to your transactions on this Site) by using the unsubscribe process at the bottom of the email, by checking the relevant box located on the form on which we collected your data, adjusting your user preferences in your account profile, if applicable, or by sending us an email stating your request to [webmaster@etcconnect.com](mailto:webmaster@etcconnect.com).
+  * _Accessing, Correcting and/or Deleting Personal Information_. If this Site allows you to create an account with us, then you can review and update your personal information by logging into this Site, visiting your account profile page and making changes, including submitting a request to delete your account information by sending us an email stating your request to [webmaster@etcconnect.com](mailto:webmaster@etcconnect.com).
   * _Online Behavioral Advertising_. Certain third-party advertising networks that deliver behavioral advertising are members of the Network Advertising Initiative (“NAI”). You can prevent NAI member companies from collecting preference data about you by visiting <http://www.networkadvertising.org/choices/>and following the NAI’s directions. _Note that if you opt out through the NAI, you will still receive advertising. In addition, if you opt out through the NAI and later delete your cookies, use a different browser or buy a new computer, you will need to renew your opt-out choice._
 
 
@@ -165,7 +169,7 @@ This Site is operated in the United States. If you are located in the European U
 
 We may amend this Privacy Policy at any time. Amendments will take effect immediately upon us posting the updated Privacy Policy on this Site. You are encouraged to revisit this Privacy Policy from time to time in order to review any changes that have been made. The date on which this Privacy Policy was last updated will be noted immediately above this Privacy Policy.
 
-**Contacting Us**
+**Right to Access Your Information**
 
 If you have questions or concerns about our privacy practices or wish to make a request regarding your personally identifiable information, please contact us at any of the following:
 
@@ -189,10 +193,6 @@ Electronic Theatre Controls, Inc.
 Middleton, WI 53562, United States of America   
 Fax Number: (608) 836-1736
 
-California privacy rights requests must include the reference “Request for California Privacy Information” on the subject line and in the body of the message and must include the e-mail address or mailing address, as applicable, for us to send our response. This request may be made no more than once per calendar year. We reserve the right not to respond to requests submitted other than to the address specified in this paragraph. 
+California privacy rights requests must include the reference “Request for California Privacy Information” on the subject line and in the body of the message and must include the e-mail address or mailing address, as applicable, for us to send our response. This request may be made no more than once per calendar year. We reserve the right not to respond to requests submitted other than to the address specified in this paragraph.
 
 11770721.1
-
-Share the ETC love! Do you think this information would be helpful to a friend? Fill out the form below to send the page to other recipients, or send it to yourself to save for future use.
-
-https://www.etcconnect.com/Privacy-Policy-and-Terms-of-Use.aspx 
