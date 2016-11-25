@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glow.net.pk privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331052145id_/http%3A//glow.net.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glow.net.pk privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125140315id_/http%3A//glow.net.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
