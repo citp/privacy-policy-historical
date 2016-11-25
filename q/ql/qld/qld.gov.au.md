@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qld.gov.au privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618114721id_/https%3A//www.qld.gov.au/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qld.gov.au privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125140815id_/http%3A//www.qld.gov.au/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | Queensland Government
 
@@ -8,10 +8,10 @@ We collect and manage your personal information as described on this page, unles
 
 ## Information we may request
 
-We may ask you to provide personal information if you submit feedback to this site. We will only do this:
+We may ask you to provide personal information through this site. We will only do this:
 
-  * to meet your needs (e.g. answer a question)
-  * to meet our needs (e.g. demographic analysis) 
+  * to meet your needs (e.g. answer a question, provide a service)
+  * to meet our needs (e.g. demographic analysis)
   * if required by law.
 
 
