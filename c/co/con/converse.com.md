@@ -1,34 +1,126 @@
-> *The following text is extracted and transformed from the converse.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603192215id_/http%3A//converse.com/zprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the converse.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125050702id_/http%3A//www.nike.com/us/en_us/c/help/privacy-policy) for the most accurate reproduction.*
 
-# Converse - Privacy Policy
+# Privacy Policy. Nike.com
 
-General  
-We understand that your trust in us is our most important asset online. In order to preserve that trust we want you to understand what information we collect and how we use it. 
+_Effective January 1, 2014_
 
-In order to provide an enjoyable and first-rate experience online, we use technology to create personal experiences on our website and to manage and maintain customer information. 
+This NIKE Digital Privacy Policy (USA) ("Privacy Policy") describes how we collect and use your information through a variety of digital means. By accessing or using this website, mobile application or other NIKE product or service on any computer, mobile phone, tablet, console or other device (collectively, "Device"), you consent to our Privacy Policy. NIKE may modify this Privacy Policy at any time effective upon its posting. Your continued use of our products and services constitutes your acceptance to this Privacy Policy and any updates. This Privacy Policy is incorporated into, and is subject to, the [Terms of Use](http://www.nike.com/us/en_us/c/help/terms-conditions).
 
-This notice describes the Converse.com Privacy Policy and the practices we follow. It also explains what types of information we collect and under what circumstances we may share it. Please note that this Privacy Policy supersedes any prior policy that we have issued. 
+While this Privacy Policy is intended to generally describe our privacy practices, our goal is to also provide more detailed information at times when it's most meaningful to you. Please look for these notices within our NIKE services.  
 
-From time to time we may change our Privacy Policy. Your use of our Site following such changes means that you agree to the new Privacy Rules as changed. 
 
-These rules --specifically including the "Customer Information Policy", "Use of Cookies", "Use of IP Addresses", and "Security" paragraphs below --apply to this website only and not to any other website or business activity of Converse Inc. 
+**COLLECTING INFORMATION**
 
-Customer Information Policy  
-At the present time the Converse site is designed for audiences 13 years of age and above. Converse does collect customer information on those users who are 13 years of age or older in an effort to improve our customers' shopping experience. Converse recognizes that it must maintain and use customer information responsibly. The information collected is used to help us respond to customer inquiries, send emails about sales, events and surveys, contact contest winners and/or ship and bill orders. The information also helps us in determining what products appeal to our customers so we can better merchandise our site. 
+**WHAT YOU GIVE US**
 
-We may use customer information for marketing and promotional purposes. Each promotional email we send comes with a link that enables our customers to unsubscribe or remove themselves from our mailing list. We do not currently sell online customer information to any outside company or third party. 
+We collect information you give us or permit us to access. Information may include, but is not limited to, your name, image, birth date, email and physical address, telephone number, gender, contact lists, social media information and profile, location (GPS) information, activity and performance information, and when necessary, credit card information.
 
-We maintain strict policies and security controls to assure that customer information in our computer systems and files is protected. Our employees and affiliates are permitted access only to customer information that they may need to perform their jobs and to provide service to you. All employees and affiliates are required to respect customer privacy. 
+**WHAT WE COLLECT FROM YOU**
 
-Use Of Cookies  
-What is a cookie? A cookie is a piece of information that is sent to your computer's hard drive to help our site recognize you when you return to our site. Cookies are used as a standard practice by many sites. An example of how we use this function could be if you started to place items in your shopping cart, but then for some reason had to leave our site or shut off your computer. When you return to our site, the cookie would enable our site to recognize that you have returned and all the items you placed in your cart during an earlier session would still be in your shopping cart. 
+We may automatically collect information regarding your interaction with, and use of, our products and services. Information we may collect includes, but is not limited to, your telephone number, Device identifier and hardware information, IP address, browser type and language, cookie information, system type, whether you have enabling software to access certain features, access times, referring website URLs, information about your purchases and other information about your interactions with us.
 
-We also use cookies to determine the number of people that come to our site. It is important for us to understand the number of new customers using our site. When your computer accepts the cookie, we are able to record that session as a new visitor to our site. 
+**WHAT WE COLLECT FROM OTHER NIKE INTERACTIONS AND THIRD PARTIES**
 
-As important as cookies are to our site, we understand that this might make you uncomfortable. If you would prefer to not accept cookies from ours or any other site, you can modify the setting on your specific web browser to not accept them. Please refer to your browser's online help feature or the user's manual for instructions on how to do this. 
+We may combine information you give us with other information from NIKE sources, transactions and communications. This may include, but is not limited to, information from NIKE stores, direct mail, catalogs, events, products and applications, or other NIKE interactions. We may also combine that information with data that is publicly available and data from third parties. We also collect information about gift recipients provided by the giver.
 
-Use Of IP Addresses  
-An IP address is a number automatically assigned to your computer whenever you get on to the internet. Your computer's IP address is used by our site for administration purposes and to report aggregate traffic information to our affiliates and advertisers. Our site does not tie personal information to an IP address. 
+**CHILDREN'S PRIVACY**
 
-Security  
-While no online transaction is 100% secure, Converse strives to protect your personal information to the best of our ability. Users have the option of using a Secure Checkout feature when placing an order on our site. This option uses the industry standard, SSL (secure socket layer) encryption to protect any personal information including your credit card number. 
+We do not knowingly collect or solicit personal information from children under 13.
+
+**USING INFORMATION**
+
+We may use your information to do the following:
+
+**ENABLE YOUR USE**
+
+  * Enhance, customize and personalize your NIKE experiences and communications
+  * Use NIKE features, such as running routes, race registrations, placing an order and other activities
+
+
+
+**OPERATE, IMPROVE AND ANALYZE**
+
+  * Operate, provide, improve and maintain NIKE's products and services, including analyzing user behavior and trends
+  * Send you administrative messages and other information about NIKE. Communicate with you about your purchase, account information or customer service
+
+
+
+**PROVIDE AND CONDUCT MARKETING AND PROMOTIONS**
+
+\- Communicate with you about our products, services and events, and for other promotional purposes
+
+\- Administer contests, promotions, events, surveys or other features
+
+\- Display relevant marketing to you
+
+**SHARING INFORMATION**
+
+NIKE FamilyWe may provide your information to NIKE, Inc. companies and affiliates, including Converse and Hurley ("NIKE Family"), some of which may be outside the U.S.
+
+**SERVICE PROVIDERS**
+
+We may transfer your information to NIKE Family service providers to conduct our business. For example, they may handle credit card processing, shipping, data management, email distribution, market research, information analysis, and promotions management. We may also share your information to administer features (e.g. music download, race registration, or workout routine).
+
+**BY LAW OR TO PROTECT RIGHTS**
+
+We may disclose information upon governmental request, in response to a court order, when required by law, to enforce our policies, or to protect our or others' rights, property or safety. We may share information to prevent illegal uses of NIKE's products and services or violations of the Terms of Use, or to defend ourselves against third-party claims. We may also share information with companies assisting in fraud protection or investigation.
+
+**BUSINESS TRANSFERS**
+
+Your information may be transferred to a third party as a part of our business assets in a sale of a part or all of NIKE. If this should happen, notice will be provided by posting to the website or other form of communication.
+
+**PUBLIC SHARING**
+
+**DEFAULT SHARING**
+
+When you join or use certain services, you agree to publicly share a basic amount of information, which may include your username, city location, and profile picture.
+
+**SHARING YOU CHOOSE**
+
+You may choose to share certain information. In order to participate in certain features, you may have to adjust your privacy settings and share more information. You may also choose to share your activity on other platforms, such as Facebook and Twitter. Please read the privacy policies of those platforms, because your NIKE activity published on those platforms will no longer be governed by NIKE's Privacy Policy.
+
+**NIKE SHARING**
+
+Information that is publicly shared may be used by Nike for promotional purposes.
+
+**PROTECTING INFORMATION**
+
+Security Measures: We use a variety of security measures, including encryption and authentication tools, to help protect your information. We use secure servers when you place orders. All credit card information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted within our databases.
+
+**NO GUARANTEE**
+
+However, like other companies, NIKE cannot guarantee 100% the security or confidentiality of the information you provide to us.
+
+**COLLECTION TOOLS**
+
+**HOW WE COLLECT INFORMATION**
+
+NIKE automatically collects information within our products and services or stored by your browser or Device. We use a variety of methods to collect this information, including, but not limited to, cookies and pixel tags/web beacons ("Collection Tools").
+
+**TURNING OFF COLLECTION TOOLS**
+
+If you turn off certain Collection Tools, you may not have access to many features that make your experience more efficient and some of our services and features may not function properly. However, you can still place product orders over the telephone by contacting our customer service number at 1-800-806-6453. Note that our websites may not recognize or respond to Do Not Track (DNT) headers from web browsers.
+
+**THIRD PARTY TRACKING**
+
+We also work with other companies who use tracking technologies to serve ads on our behalf across the Internet. These companies may collect information about your interaction with us, including advertising. These companies may not recognize or respond to DNT headers from web browsers. If you would like to opt-out of receiving ads tailored by 3rd party tracking technologies associated with our website, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). Note that if you opt-out from these third party tracking technologies, you may still see our ads at other websites, but the ads will not be tailored using third party tracking technologies associated with our website.
+
+**CHOICES**
+
+**MODIFYING OR DELETING YOUR INFORMATION**
+
+You can modify or delete your profile within certain NIKE services, through your account. Your information previously posted may still be publicly viewable. NIKE may keep information and content in our backup files and archives.
+
+**COMMUNICATION/UNSUBSCRIBE/OPT-OUT**
+
+Regardless of the settings you select, NIKE may send you service-related communications. To unsubscribe and stop receiving messages, please change your settings or follow the instructions in the email, text message, notification or other message type. If you have unsubscribed from any NIKE communications, due to production schedules, you may receive communications already in production.
+
+**INTERNATIONAL USERS**
+
+Our digital operations are conducted, in whole or in part, in the United States. Regardless of where you live, you consent to have your personal data transferred, processed and stored in the United States, and allow NIKE to use and collect your personal information in accordance with this Privacy Policy.
+
+**TERMS OF USE**
+
+Your use of our products and services, and any disputes arising from them, is subject to this Privacy Policy as well as our [Terms of Use](http://www.nike.com/us/en_us/c/help/terms-conditions). Please visit our [Terms of Use](http://www.nike.com/us/en_us/c/help/terms-conditions), which explains other terms governing the use of our products and services.
+
+For questions or concerns, please contact Consumer Services/Privacy at: 1-800-806-6453 or NIKE Consumer Services/Privacy, One Bowerman Drive, Beaverton, OR 97005.
