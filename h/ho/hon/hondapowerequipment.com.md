@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hondapowerequipment.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611160747id_/http%3A//m.powerequipment.honda.com%3A80/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hondapowerequipment.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125142804id_/http%3A//m.powerequipment.honda.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Honda Power Equipment - Privacy Policy
 
