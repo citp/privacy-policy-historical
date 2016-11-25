@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the realtourvision.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218135110id_/http%3A//www.realtourvision.com/support/policies/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtourvision.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125145128id_/http%3A//www.realtourvision.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | RTV 360 Software
-
-**Updated: 2/12/2008**
+# Privacy Policy RTV Inc
 
 Tour Vision Inc, is a Michigan corporation with its principal office at 400 E Eighth Street, Suite 2, Traverse City, MI 49686 (d.b.a. RTV) and hereinafter referred to as “RTV”, or “Company”.
 
@@ -16,7 +14,7 @@ When you visit our Web site you may provide us with two types of information: pe
 
 **Registration Information/Purchase Information**
 
-You will provide us information about yourself, your firm or company, and your practices when you (1) place an order for one our products or services; or (2) register to be a member of RTV Dealer Network, register for certain services, or register for email newsletters and alerts, or purchase items through our site. This data collection can include such personally identifiable information as name, company name, address, phone number, email address, and credit card information. You may also provide additional comments on how you see RTV servicing your needs and interests.
+You will provide us information about yourself, your firm or company, and your practices when you (1) place an order for one our products or services; or (2) register to be a member of RTV provider Network, register for certain services, or register for email newsletters and alerts, or purchase items through our site. This data collection can include such personally identifiable information as name, company name, address, phone number, email address, and credit card information. You may also provide additional comments on how you see RTV servicing your needs and interests.
 
 **Email Information.**
 
@@ -32,7 +30,7 @@ Broadly speaking, we use personal information for purposes of administering and 
 
 **Communications from our Site/Choice-Opt Out**
 
-If you register on our site or purchase any products from the site you can expect to receive a welcome email and /or an order confirmation email. If you have registered with our site, you will also receive any of the communications (newsletters, updates, product information, alerts) that the Company sends to its Dealer network. At any time you wish to change your preferences for receiving communications from our site, please edit your records in the Tour Management System or contact Customer Support.
+If you register on our site or purchase any products from the site you can expect to receive a welcome email and /or an order confirmation email. If you have registered with our site, you will also receive any of the communications (newsletters, updates, product information, alerts) that the Company sends to its provider network. At any time you wish to change your preferences for receiving communications from our site, please edit your records in the Tour Management System or contact Customer Support.
 
 **Blogs**
 
