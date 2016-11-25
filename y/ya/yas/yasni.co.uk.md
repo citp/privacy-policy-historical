@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yasni.co.uk privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623145427id_/http%3A//www.yasni.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yasni.co.uk privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125095521id_/http%3A//www.yasni.co.uk/privacy) for the most accurate reproduction.*
 
 # No.1 Free People Search - Yasni.co.uk
 
