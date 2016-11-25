@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the ird.govt.nz privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608150340id_/http%3A//www.ird.govt.nz/about-this-site/privacy%3Fid%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ird.govt.nz privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125143831id_/http%3A//www.ird.govt.nz/about-this-site/privacy%3Fid%3Dfooter) for the most accurate reproduction.*
 
 # Your privacy (About this site)
 
 Inland Revenue is committed to ensuring that your privacy is protected. Any personal information you do provide to us will be kept for as long as necessary to achieve the purpose we collected it for. If your personal information becomes part of your Inland Revenue records, we will retain the information in accordance with Inland Revenue policy on retention of Inland Revenue records.
 
-##### [Phishing and other scams](https://web.archive.org/about-this-site/privacy/phishing-other-scams.html)
-
-Learn about how scams work so you can reduce your chances of becoming a victim of them.
-
 ##### [Privacy policy](https://web.archive.org/about-this-site/privacy/privacy-policy.html)
 
 Our privacy policy explains what personal information we collect, your rights in relation to the personal information we hold, who can access your personal information, how long we will keep it, and how you can contact us if you have queries or concerns about our privacy policy.
+
+##### [Phishing and other scams](https://web.archive.org/about-this-site/privacy/phishing-other-scams.html)
+
+Learn about how scams work so you can reduce your chances of becoming a victim of them.
 
 ##### [Call recording privacy statement](https://web.archive.org/about-this-site/privacy/privacy-callrecording.html)
 
