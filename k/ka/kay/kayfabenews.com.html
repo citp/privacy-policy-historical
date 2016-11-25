@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kayfabenews.com privacy policy that was archived on 2016-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160608020800id_/http%3A//www.kayfabenews.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kayfabenews.com privacy policy that was archived on 2016-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161125165223id_/http%3A//www.kayfabenews.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#"><head>
 	
@@ -12,7 +12,7 @@
 
 
 <!-- Facebook Pixel Code -->
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script>
+<script async="" type="text/javascript" src="//www.googletagservices.com/tag/js/gpt.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" type="text/javascript" src="/wp-content/themes/rmsTheme/prebidQSN.js?v=1114b"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
 n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
@@ -191,6 +191,11 @@ var shutterSettings = {"msgLoading":"L O A D I N G","msgClose":"Click to Close",
 			}
 			return "";
 		}
+
+	function isPaid()
+	{
+		return source=='outbrain'||source=='taboola'||source=='yg'||source=='gemini'||source=='fb'||source=='facebook';
+	}
 		
 		source = getParameterByName("utm_source")
 		if (source){
@@ -222,22 +227,53 @@ var shutterSettings = {"msgLoading":"L O A D I N G","msgClose":"Click to Close",
 		}else{
 			campaign = getObject("entry_campaign");
 		}
-		
-		
-		
-		
-			var googletag = googletag || {};
-			googletag.cmd = googletag.cmd || [];
-			(function() {
-			var gads = document.createElement('script');
-			gads.async = true;
-			gads.type = 'text/javascript';
-			var useSSL = 'https:' == document.location.protocol;
-			gads.src = (useSSL ? 'https:' : 'http:') + 
-			'//www.googletagservices.com/tag/js/gpt.js';
-			var node = document.getElementsByTagName('script')[0];
-			node.parentNode.insertBefore(gads, node);
-			})();
+
+
+function loadScript(scriptSrc) {
+  var script = document.createElement('script');
+  script.async=true;
+  script.type = 'text/javascript';
+  script.src = scriptSrc;
+  var node = document.getElementsByTagName('script')[0];
+  node.parentNode.insertBefore(script, node);
+ }
+ 
+	
+var PREBID_TIMEOUT = 1300;
+
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   
+function initAdserver() {
+  if (pbjs.initAdserverSet) return;
+  //load GPT library here
+  loadScript('//www.googletagservices.com/tag/js/gpt.js');
+  pbjs.initAdserverSet = true;
+};
+// Load GPT when timeout is reached if bidders haven't responded.
+setTimeout(initAdserver, PREBID_TIMEOUT);
+var pbjs = pbjs || {};
+pbjs.que = pbjs.que || [];
+
+console.log('prebidQSN');
+loadScript('/wp-content/themes/rmsTheme/prebidQSN.js?v=1114b'); 	
+    
+    
+
+    sovrnBeacon = 'http://gslbeacon.lijit.com/beacon?viewId=qoolmedia_auction_api&rand='+Math.floor(9e3*Math.random()) + '&informer=230055&type=fpads&loc='+window.location.host+'&v=1.2'
+		var sbimg = document.createElement('img');
+		sbimg.src = sovrnBeacon;
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
 
 
@@ -257,52 +293,374 @@ var shutterSettings = {"msgLoading":"L O A D I N G","msgClose":"Click to Close",
 
 
 
-			googletag.cmd.push(function() {
-	
-				googletag.defineSlot('/91514635/KF_Article1_Top', [728, 90], '336d9c5a84d707fb6767bd625480e88c').addService(googletag.pubads());
-	
-				googletag.defineSlot('/91514635/KF_Sidebar1_Top', [300, 250], 'bee16b371e72257d9e6b91ffec69eca0').addService(googletag.pubads());
-	
-				googletag.defineSlot('/91514635/KF_Sidebar2_Mid', [300, 600], 'deb0a0b822ff8bc11b7b784afa0c1225').addService(googletag.pubads());
-	
-				googletag.defineSlot('/91514635/KF_Article3_bot', [728, 90], '1e0b425a84b176f49cd353d8e1c4e38d').addService(googletag.pubads());
-				
-				
-			if(source != null){
-				googletag.pubads().setTargeting("source", source);
-			}
-			if(content != null){
-				googletag.pubads().setTargeting("content", content);
-			}
-			if(medium != null){
-				googletag.pubads().setTargeting("medium", medium);
-			}
-			if(campaign != null){
-				googletag.pubads().setTargeting("campaign", campaign);
-			}
-			googletag.pubads().setTargeting("entry_url", entry_url);
-			googletag.pubads().setTargeting("entry_id", entry_postid);
-			googletag.pubads().setTargeting("cur_url", current_url);
-			googletag.pubads().setTargeting("cur_id", current_postid);
-			googletag.pubads().setTargeting("page_num", page_number);
-			googletag.pubads().setTargeting("art_tags", article_tags);
-			googletag.pubads().setTargeting("page_type", page_type);
-			
-			googletag.pubads().setTargeting("domain", "kayfabenews.com");
-			googletag.pubads().setTargeting("hostdomain", "www.kayfabenews.com");
-			
-			
-			
-			
-				googletag.pubads().setTargeting("postid",["kayfabenews2704","2704"]);
-				googletag.pubads().setTargeting("category",[]);
 
-				googletag.pubads().collapseEmptyDivs();
-				googletag.pubads().setTargeting("pagetype","page")
-				googletag.pubads().setTargeting("ismedia","false")
-				googletag.pubads().enableSingleRequest();
-				googletag.enableServices();
-			});
+
+
+
+
+    pbjs.que.push(function(){
+
+
+        pbjs.enableAnalytics({
+            provider: 'ga',
+            options: {
+                global: 'ga', // <string> name of GA global. Default is 'ga'
+                enableDistribution: false, // <bool> enable/disable distribution. Recommend disable to save bandwidth/calls
+            }
+        });
+        
+
+var device_w = $(window).width();
+var device_h = $(window).height();
+    
+	console.log ( 'w=' + device_w  );
+	console.log ( 'h=' + device_h );
+
+
+
+    if(parseInt(device_w) > 740){ // load desktop units
+    	console.log ("loaded desktop units");			     
+	var adUnits = [{
+        code: '/91514635/KF_Article1_Top',   
+        sizes: [[728, 90]],
+        bids: [	
+        	{bidder: 'districtm',params: {'placementId': '128546'}},
+        	{bidder: 'sovrn',params: {'tagid': '319783','bidfloor': 0.00}}]
+    	},{
+        code: '/91514635/KF_Article2_mid',	
+        sizes: [[728, 90]],
+        bids: [
+        	{bidder: 'districtm',params: {'placementId': '128547'}},
+        	{bidder: 'sovrn',params: {'tagid': '323212','bidfloor': 0.00}}]
+    	},{
+        code: '/91514635/KF_Article3_bot',	
+        sizes: [[728,90]],
+        bids: [
+        	{bidder: 'districtm',params: {'placementId': '128548'}},
+        	{bidder: 'sovrn',params: {'tagid': '319758','bidfloor': 0.00}}]
+    	},{
+        code: '/91514635/KF_Sidebar1_Top',
+        sizes: [[300,250]],
+        bids: [
+		{bidder: 'audienceNetwork', params: { placementId: '2136087069949915_2140732686152020', testMode: false }},
+        	{bidder: 'districtm',params: {'placementId': '128549'}},
+        	{bidder: 'sovrn',params: {'tagid': '319779','bidfloor': 0.00}}]
+    	},{
+        code: '/91514635/KF_Sidebar2_Mid',	
+        sizes: [[300,250]],
+        bids: [
+		{bidder: 'audienceNetwork', params: { placementId: '2136087069949915_2140732929485329', testMode: false }},
+        	{bidder: 'districtm',params: {'placementId': '128550'}},
+        	{bidder: 'sovrn',params: {'tagid': '323213','bidfloor': 0.00}}]	//250
+    	},{
+        code: '/91514635/KF_Sidebar2_Mid',	
+        sizes: [[300,600]],
+        bids: [
+        	{bidder: 'districtm',params: {'placementId': '128550'}},
+        	{bidder: 'sovrn',params: {'tagid': '319775','bidfloor': 0.00}}]	//600
+    	},{
+        code: '/91514635/KF_Sidebar2_Mid',	
+        sizes: [[160,600]],
+        bids: [
+        	{bidder: 'districtm',params: {'placementId': '128550'}},
+        	{bidder: 'sovrn',params: {'tagid': '323214','bidfloor': 0.00}}]	//160
+    	}];
+
+    }else{ // load mobile units
+    	console.log ("loaded mobile units");         
+	var adUnits = [{
+        code: '/91514635/KF_Article1_Top',   
+        sizes: [[300,250]],
+        bids: [
+		{bidder: 'audienceNetwork', params: { placementId: '2136087069949915_2136087279949894', testMode: false }},
+        	{bidder: 'districtm',params: {'placementId': '128551'}},
+        	{bidder: 'sovrn',params: {'tagid': '319784','bidfloor': 0.00}}]	//250
+    	},{
+        code: '/91514635/KF_Article1_Top',   
+        sizes: [[320,100]],
+        bids: [
+        	{bidder: 'districtm',params: {'placementId': '128551'}},
+        	{bidder: 'sovrn',params: {'tagid': '319785','bidfloor': 0.00}}]	//100
+    	},{
+        code: '/91514635/KF_Article1_Top',   
+        sizes: [[320,50]],
+        bids: [
+		{bidder: 'audienceNetwork', params: { placementId: '2136087069949915_2136087279949894', testMode: false }},
+        	{bidder: 'districtm',params: {'placementId': '128551'}},
+        	{bidder: 'sovrn',params: {'tagid': '319786','bidfloor': 0.00}}]	//50
+    	},{
+        code: '/91514635/KF_Article2_mid',	
+        sizes: [[300,250]],
+        bids: [
+		{bidder: 'audienceNetwork', params: { placementId: '2136087069949915_2140732146152074', testMode: false }},
+        	{bidder: 'districtm',params: {'placementId': '128552'}},
+        	{bidder: 'sovrn',params: {'tagid': '319769','bidfloor': 0.00}}]	//250
+    	},{
+        code: '/91514635/KF_Article2_mid',	
+        sizes: [[320,100]],
+        bids: [
+        	{bidder: 'districtm',params: {'placementId': '128552'}},
+        	{bidder: 'sovrn',params: {'tagid': '323215','bidfloor': 0.00}}]	//100
+    	},{
+        code: '/91514635/KF_Article2_mid',	
+        sizes: [[320,50]],
+        bids: [
+		{bidder: 'audienceNetwork', params: { placementId: '2136087069949915_2140732146152074', testMode: false }},
+        	{bidder: 'districtm',params: {'placementId': '128552'}},
+        	{bidder: 'sovrn',params: {'tagid': '319773','bidfloor': 0.00}}]	//50
+    	},{
+        code: '/91514635/KF_Article3_bot',	
+        sizes: [[300,250]],
+        bids: [
+		{bidder: 'audienceNetwork', params: { placementId: '2136087069949915_2140732259485396', testMode: false }},
+        	{bidder: 'districtm',params: {'placementId': '128553'}},
+        	{bidder: 'sovrn',params: {'tagid': '319764','bidfloor': 0.00}}]	//250
+    	},{
+        code: '/91514635/KF_Article3_bot',	
+        sizes: [[320,100]],
+        bids: [
+        	{bidder: 'districtm',params: {'placementId': '128553'}},
+        	{bidder: 'sovrn',params: {'tagid': '319765','bidfloor': 0.00}}]	//100
+    	},{
+        code: '/91514635/KF_Article3_bot',	
+        sizes: [[320,50]],
+        bids: [
+		{bidder: 'audienceNetwork', params: { placementId: '2136087069949915_2140732259485396', testMode: false }},
+        	{bidder: 'districtm',params: {'placementId': '128553'}},
+        	{bidder: 'sovrn',params: {'tagid': '319766','bidfloor': 0.00}}]	//50
+    	},{
+        code: '/91514635/KF_Article4_bot',	
+        sizes: [[300,250]],
+        bids: [
+		{bidder: 'audienceNetwork', params: { placementId: '2136087069949915_2140737932818162', testMode: false }},
+        	{bidder: 'sovrn',params: {'tagid': '409580','bidfloor': 0.00}}]	//250
+    	},{
+        code: '/91514635/KF_Article4_bot',	
+        sizes: [[320,50]],
+        bids: [
+		{bidder: 'audienceNetwork', params: { placementId: '2136087069949915_2140737932818162', testMode: false }},
+        	{bidder: 'sovrn',params: {'tagid': '409579','bidfloor': 0.00}}]	//50
+    	},{
+        code: '/91514635/KF_Sidebar1_Top',
+        sizes: [[300,250]],
+        bids: [
+		{bidder: 'audienceNetwork', params: { placementId: '2136087069949915_2140732686152020', testMode: false }},
+        	{bidder: 'districtm',params: {'placementId': '128554'}},
+        	{bidder: 'sovrn',params: {'tagid': '319780','bidfloor': 0.00}}]	//250
+    	},{
+        code: '/91514635/KF_Sidebar1_Top',
+        sizes: [[320,100]],
+        bids: [
+        	{bidder: 'districtm',params: {'placementId': '128554'}},
+        	{bidder: 'sovrn',params: {'tagid': '323216','bidfloor': 0.00}}]	//100
+    	},{
+        code: '/91514635/KF_Sidebar1_Top',
+        sizes: [[320,50]],
+        bids: [
+		{bidder: 'audienceNetwork', params: { placementId: '2136087069949915_2140732686152020', testMode: false }},
+        	{bidder: 'districtm',params: {'placementId': '128554'}},
+        	{bidder: 'sovrn',params: {'tagid': '319782','bidfloor': 0.00}}]	//50
+    	},{
+        code: '/91514635/KF_Sidebar2_Mid',
+        sizes: [[300,250]],
+        bids: [
+		{bidder: 'audienceNetwork', params: { placementId: '2136087069949915_2140732929485329', testMode: false }},
+        	{bidder: 'districtm',params: {'placementId': '128514'}},
+        	{bidder: 'sovrn',params: {'tagid': '319777','bidfloor': 0.00}}]	//250
+    	},{
+        code: '/91514635/KF_Sidebar2_Mid',
+        sizes: [[320,100]],
+        bids: [
+        	{bidder: 'districtm',params: {'placementId': '128514'}},
+        	{bidder: 'sovrn',params: {'tagid': '323217','bidfloor': 0.00}}]	//100
+    	},{
+        code: '/91514635/KF_Sidebar2_Mid',
+        sizes: [[320,50]],
+        bids: [
+		{bidder: 'audienceNetwork', params: { placementId: '2136087069949915_2140732929485329', testMode: false }},
+        	{bidder: 'districtm',params: {'placementId': '128514'}},
+        	{bidder: 'sovrn',params: {'tagid': '319778','bidfloor': 0.00}}]	//50
+    	}];
+    }
+    	
+
+      
+      
+      	
+    	
+    	
+
+		//add the adUnits
+	pbjs.addAdUnits(adUnits);
+	pbjs.aliasBidder('appnexus', 'districtm');
+	pbjs.setPriceGranularity("high");
+		
+	pbjs.requestBids({
+		bidsBackHandler: function(bidResponses) {
+			initAdserver();
+		},
+		timeout : PREBID_TIMEOUT
+	});
+
+				//will inherit from "standard" adserverTargeting keys below
+	pbjs.bidderSettings = {
+		standard: {
+			adserverTargeting: [{
+					key: "hb_bidder",
+					val: function(bidResponse) {
+						return bidResponse.bidderCode;
+					}}, {
+					key: "hb_adid",
+					val: function(bidResponse) {
+						return bidResponse.adId;
+					}}, {
+					key: "hb_pb",
+					val: function(bidResponse) {
+						return bidResponse.pbHg;
+					}}, {
+					key: "hb_size",
+					val: function(bidResponse) {
+						return bidResponse.size;
+					}}, {
+					key: "hb_cpm",
+					val: function(bidResponse) {
+						return bidResponse.cpm;
+					}
+				}]
+		},
+		districtm: {
+			bidCpmAdjustment : function(bidCpm){
+			    return bidCpm * 1.18;
+			}				  
+		},
+		sovrn: {
+			bidCpmAdjustment : function(bidCpm){
+			    return bidCpm * 1.18;
+			}				  
+		},
+		audienceNetwork: {
+			bidCpmAdjustment : function(bidCpm){ 
+			    return bidCpm * 1.18;
+			}				  
+		}
+
+	}; 
+});  //end push command
+
+		googletag.cmd.push(function() {
+			
+
+				
+				
+				
+				
+
+				
+				
+				 
+				
+				
+				
+				
+				
+
+      var mapping_leaderboards = googletag.sizeMapping().
+      //all leaderboards should avoid 600x tall ads in mobile.
+      addSize([980, 480], [[728, 90],[468,60]]).
+      addSize([640, 480], [[300,250],[336,280],[320,100],[320,50]]).
+      addSize([320,480], [[300,250],[320,100],[320,50]]).
+      addSize([0,0],[88,31]).
+      build();
+
+      var mapping_leaderboards_topad = googletag.sizeMapping().	
+      //top ad leaderboards shouldnt have 250x tall ads that could push content down 
+      addSize([980, 480], [[728, 90],[468,60]]).
+      addSize([640, 480], [[300,250],[336,280],[320,100],[320,50]]).
+      addSize([320,480], [[320,100],[320,50]]).
+      addSize([0,0],[88,31]).
+      build();
+
+      var mapping_sidebar = googletag.sizeMapping().
+      //sidebar ads will primarily resort to square ads
+      addSize([980, 480], [[300,250],[336,280]]).
+      addSize([640, 480], [[300,250],[336,280],[320,100],[320,50]]).
+      addSize([320,480], [[300,250],[320,100],[320,50]]).
+      addSize([0,0],[88,31]).
+      build();
+      
+      var mapping_sidebar_botad = googletag.sizeMapping().
+      //bottom sidebar ads can show 600x tall ads
+      addSize([980, 480], [[300,600],[160,600],[300,250],[336,280]]).
+      addSize([640, 480], [[300,600],[160,600],[300,250],[336,280],[320,100],[320,50]]).
+      addSize([320,480], [[300,600],[300,250],[320,100],[320,50]]).
+      addSize([0,0],[88,31]).
+      build();
+      
+
+
+    googletag.defineSlot('/91514635/KF_Article1_Top', [[468, 60], [728, 90], [320, 50], [320, 100]], '336d9c5a84d707fb6767bd625480e88c').defineSizeMapping(mapping_leaderboards_topad).addService(googletag.pubads());
+    googletag.defineSlot('/91514635/KF_Article2_mid', [[300, 250], [728, 90], [320, 50], [320, 100]], 'ae312b0aac88cb5a874b3ee1ba4ddc6c').defineSizeMapping(mapping_leaderboards).addService(googletag.pubads());
+    googletag.defineSlot('/91514635/KF_Article3_bot', [[468, 60], [728, 90], [320, 50], [320, 100]], '1e0b425a84b176f49cd353d8e1c4e38d').defineSizeMapping(mapping_leaderboards).addService(googletag.pubads());
+    googletag.defineSlot('/91514635/KF_Sidebar1_Top', [[336, 280], [300, 250]], 'deb0a0b822ff8bc11b7b784afa0c1225').defineSizeMapping(mapping_sidebar).addService(googletag.pubads());
+    googletag.defineSlot('/91514635/KF_Sidebar2_Mid', [[300, 250], [300, 600]], 'bee16b371e72257d9e6b91ffec69eca0').defineSizeMapping(mapping_sidebar_botad).addService(googletag.pubads());
+    googletag.defineSlot('/91514635/KF_Article4_bot', [[468, 60], [728, 90], [320, 50], [320, 100]], 'KF_Article4_bot').defineSizeMapping(mapping_leaderboards).addService(googletag.pubads());
+
+
+
+
+					
+	
+
+				
+      pbjs.que.push(function() {
+          pbjs.setTargetingForGPTAsync();
+      });
+      
+      
+      
+      
+	if(source != null){
+		googletag.pubads().setTargeting("source", source);
+	}
+	if(content != null){
+		googletag.pubads().setTargeting("content", content);
+	}
+	if(medium != null){
+		googletag.pubads().setTargeting("medium", medium);
+	}
+	if(campaign != null){
+		googletag.pubads().setTargeting("campaign", campaign);
+	}
+	googletag.pubads().setTargeting("entry_url", entry_url);
+	googletag.pubads().setTargeting("entry_id", entry_postid);
+	googletag.pubads().setTargeting("cur_url", current_url);
+	googletag.pubads().setTargeting("cur_id", current_postid);
+	googletag.pubads().setTargeting("page_num", page_number);
+	googletag.pubads().setTargeting("art_tags", article_tags); 
+	googletag.pubads().setTargeting("page_type", page_type);
+	
+	googletag.pubads().setTargeting("domain", "kayfabenews.com");
+	googletag.pubads().setTargeting("hostdomain", "www.kayfabenews.com");
+
+	googletag.pubads().setTargeting("postid",["kayfabenews2704","2704"]);
+	googletag.pubads().setTargeting("category",[]);
+
+	//googletag.pubads().collapseEmptyDivs();
+	googletag.pubads().setTargeting("pagetype","page")
+	googletag.pubads().setTargeting("ismedia","false")
+			
+			
+			
+			
+       googletag.pubads().setCentering(true);
+      googletag.pubads().enableSingleRequest();
+      //googletag.pubads().collapseEmptyDivs();
+      googletag.enableServices();
+				
+		});
+		
+
+
 		</script>
 				<!-- include after wp_head() so respond.js can grab CSS files for <=IE8 -->
 		<script src="http://www.kayfabenews.com/wp-content/themes/rmsTheme/js/lib/respond.min.js"></script>	
@@ -425,7 +783,7 @@ var shutterSettings = {"msgLoading":"L O A D I N G","msgClose":"Click to Close",
 
 						<div id="ad-block-top">
 				<div style="min-height:90px">				<!-- /91514635/KF_Article1_Top -->
-					<div class="RMAdUnit" id="336d9c5a84d707fb6767bd625480e88c" style="width:728px; height:90px;">
+					<div class="RMAdUnit" id="336d9c5a84d707fb6767bd625480e88c">
 						<script type="text/javascript">
 							googletag.cmd.push(function(){googletag.display('336d9c5a84d707fb6767bd625480e88c');});
 						</script>
@@ -524,14 +882,14 @@ From time to time we may make changes to our Privacy Policy. If we make changes,
 </div>
 
 </div><div class="block-sidebar-parent">			<div class="textwidget">				<!-- /91514635/KF_Sidebar1_Top -->
-					<div class="RMAdUnit" id="bee16b371e72257d9e6b91ffec69eca0" style="width:300px; height:250px;">
+					<div class="RMAdUnit" id="bee16b371e72257d9e6b91ffec69eca0">
 						<script type="text/javascript">
 							googletag.cmd.push(function(){googletag.display('bee16b371e72257d9e6b91ffec69eca0');});
 						</script>
 					</div>	
 				
 </div>
-		</div><div class="block-sidebar-parent">			<div class="textwidget"><div id="rcjsload_ad4588"><script id="rc_330" type="text/javascript" src="http://trends.revcontent.com/serve.js.php?w=8892&amp;t=rc_330&amp;c=1580370302334&amp;width=800" async=""></script></div>
+		</div><div class="block-sidebar-parent">			<div class="textwidget"><div id="rcjsload_ad4588"><script id="rc_767" type="text/javascript" src="http://trends.revcontent.com/serve.js.php?w=8892&amp;t=rc_767&amp;c=1580370302350&amp;width=800" async=""></script></div>
 <script type="text/javascript">
 (function() {
 var rcel = document.createElement("script");
@@ -544,7 +902,7 @@ var rcds = document.getElementById("rcjsload_ad4588"); rcds.appendChild(rcel);
 </script></div>
 		</div><div class="block-sidebar-parent"><h1>Follow Kayfabe News</h1><div class="socialmedia-buttons smw_center"><a href="http://www.kayfabenews.com/feed/" rel="nofollow" target="_blank"><img width="24" height="24" src="http://www.kayfabenews.com/wp-content/plugins/social-media-widget/images/default/32/rss.png" alt="Follow Kayfabe News on RSS" title="Follow Kayfabe News on RSS" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade"></a><a href="https://twitter.com/kayfabenews" rel="nofollow" target="_blank"><img width="24" height="24" src="http://www.kayfabenews.com/wp-content/plugins/social-media-widget/images/default/32/twitter.png" alt="Follow Kayfabe News on Twitter" title="Follow Kayfabe News on Twitter" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade"></a><a href="https://www.facebook.com/KayfabeNews" rel="nofollow" target="_blank"><img width="24" height="24" src="http://www.kayfabenews.com/wp-content/plugins/social-media-widget/images/default/32/facebook.png" alt="Follow Kayfabe News on Facebook" title="Follow Kayfabe News on Facebook" style="opacity: 0.8; -moz-opacity: 0.8;" class="fade"></a></div></div><div class="block-sidebar-parent"><h1>Archives</h1>
 		<ul class="compact-archives">
-			<li><strong><a href="http://www.kayfabenews.com/2016/">2016</a>: </strong> <a href="http://www.kayfabenews.com/2016/01/" title="January 2016">Jan</a> <a href="http://www.kayfabenews.com/2016/02/" title="February 2016">Feb</a> <a href="http://www.kayfabenews.com/2016/03/" title="March 2016">Mar</a> <a href="http://www.kayfabenews.com/2016/04/" title="April 2016">Apr</a> <a href="http://www.kayfabenews.com/2016/05/" title="May 2016">May</a> <a href="http://www.kayfabenews.com/2016/06/" title="June 2016">Jun</a> <span class="emptymonth">Jul</span> <span class="emptymonth">Aug</span> <span class="emptymonth">Sep</span> <span class="emptymonth">Oct</span> <span class="emptymonth">Nov</span> <span class="emptymonth">Dec</span> </li>
+			<li><strong><a href="http://www.kayfabenews.com/2016/">2016</a>: </strong> <a href="http://www.kayfabenews.com/2016/01/" title="January 2016">Jan</a> <a href="http://www.kayfabenews.com/2016/02/" title="February 2016">Feb</a> <a href="http://www.kayfabenews.com/2016/03/" title="March 2016">Mar</a> <a href="http://www.kayfabenews.com/2016/04/" title="April 2016">Apr</a> <a href="http://www.kayfabenews.com/2016/05/" title="May 2016">May</a> <a href="http://www.kayfabenews.com/2016/06/" title="June 2016">Jun</a> <a href="http://www.kayfabenews.com/2016/07/" title="July 2016">Jul</a> <a href="http://www.kayfabenews.com/2016/08/" title="August 2016">Aug</a> <a href="http://www.kayfabenews.com/2016/09/" title="September 2016">Sep</a> <a href="http://www.kayfabenews.com/2016/10/" title="October 2016">Oct</a> <a href="http://www.kayfabenews.com/2016/11/" title="November 2016">Nov</a> <span class="emptymonth">Dec</span> </li>
 <li><strong><a href="http://www.kayfabenews.com/2015/">2015</a>: </strong> <a href="http://www.kayfabenews.com/2015/01/" title="January 2015">Jan</a> <a href="http://www.kayfabenews.com/2015/02/" title="February 2015">Feb</a> <a href="http://www.kayfabenews.com/2015/03/" title="March 2015">Mar</a> <a href="http://www.kayfabenews.com/2015/04/" title="April 2015">Apr</a> <a href="http://www.kayfabenews.com/2015/05/" title="May 2015">May</a> <a href="http://www.kayfabenews.com/2015/06/" title="June 2015">Jun</a> <a href="http://www.kayfabenews.com/2015/07/" title="July 2015">Jul</a> <a href="http://www.kayfabenews.com/2015/08/" title="August 2015">Aug</a> <a href="http://www.kayfabenews.com/2015/09/" title="September 2015">Sep</a> <a href="http://www.kayfabenews.com/2015/10/" title="October 2015">Oct</a> <a href="http://www.kayfabenews.com/2015/11/" title="November 2015">Nov</a> <a href="http://www.kayfabenews.com/2015/12/" title="December 2015">Dec</a> </li>
 <li><strong><a href="http://www.kayfabenews.com/2014/">2014</a>: </strong> <a href="http://www.kayfabenews.com/2014/01/" title="January 2014">Jan</a> <a href="http://www.kayfabenews.com/2014/02/" title="February 2014">Feb</a> <a href="http://www.kayfabenews.com/2014/03/" title="March 2014">Mar</a> <a href="http://www.kayfabenews.com/2014/04/" title="April 2014">Apr</a> <a href="http://www.kayfabenews.com/2014/05/" title="May 2014">May</a> <a href="http://www.kayfabenews.com/2014/06/" title="June 2014">Jun</a> <a href="http://www.kayfabenews.com/2014/07/" title="July 2014">Jul</a> <a href="http://www.kayfabenews.com/2014/08/" title="August 2014">Aug</a> <a href="http://www.kayfabenews.com/2014/09/" title="September 2014">Sep</a> <a href="http://www.kayfabenews.com/2014/10/" title="October 2014">Oct</a> <a href="http://www.kayfabenews.com/2014/11/" title="November 2014">Nov</a> <a href="http://www.kayfabenews.com/2014/12/" title="December 2014">Dec</a> </li>
 <li><strong><a href="http://www.kayfabenews.com/2013/">2013</a>: </strong> <a href="http://www.kayfabenews.com/2013/01/" title="January 2013">Jan</a> <a href="http://www.kayfabenews.com/2013/02/" title="February 2013">Feb</a> <a href="http://www.kayfabenews.com/2013/03/" title="March 2013">Mar</a> <a href="http://www.kayfabenews.com/2013/04/" title="April 2013">Apr</a> <a href="http://www.kayfabenews.com/2013/05/" title="May 2013">May</a> <a href="http://www.kayfabenews.com/2013/06/" title="June 2013">Jun</a> <a href="http://www.kayfabenews.com/2013/07/" title="July 2013">Jul</a> <a href="http://www.kayfabenews.com/2013/08/" title="August 2013">Aug</a> <a href="http://www.kayfabenews.com/2013/09/" title="September 2013">Sep</a> <a href="http://www.kayfabenews.com/2013/10/" title="October 2013">Oct</a> <a href="http://www.kayfabenews.com/2013/11/" title="November 2013">Nov</a> <a href="http://www.kayfabenews.com/2013/12/" title="December 2013">Dec</a> </li>
@@ -552,7 +910,7 @@ var rcds = document.getElementById("rcjsload_ad4588"); rcds.appendChild(rcel);
 		</ul>
 
 		</div><div class="block-sidebar-parent">			<div class="textwidget">				<!-- /91514635/KF_Sidebar2_Mid -->
-					<div class="RMAdUnit" id="deb0a0b822ff8bc11b7b784afa0c1225" style="width:300px; height:600px;">
+					<div class="RMAdUnit" id="deb0a0b822ff8bc11b7b784afa0c1225">
 						<script type="text/javascript">
 							googletag.cmd.push(function(){googletag.display('deb0a0b822ff8bc11b7b784afa0c1225');});
 						</script>
@@ -560,44 +918,6 @@ var rcds = document.getElementById("rcjsload_ad4588"); rcds.appendChild(rcel);
 				
 </div>
 		</div></div><!-- end #col-right -->
-
-<!--Advertise.com to be pop under after 6 page views-->
-<script type="text/javascript" id="advertise">
-	function checkLocalStorage() {
-		var cookieValue=localStorage.getItem("clickCountTOD");
-		if (cookieValue != "" && cookieValue != null) {
-			if(cookieValue == 5){
-				localStorage.setItem("clickCountTOD", 99);			
-			}else{
-				var newVal = parseInt(cookieValue, 10); 
-				localStorage.setItem("clickCountTOD", newVal +1);
-			}
-		} else {
-		   cookieValue = 1;
-		   if (cookieValue != "" && cookieValue != null) {
-			   localStorage.setItem("clickCountTOD", cookieValue);
-		   }
-		}
-	}	
-	var val=localStorage.getItem("clickCountTOD");
-
-	var nwVal = parseInt(val, 10); 
-		if(nwVal == 99)
-		{
-			var subid = "kayfabenews_popunder";
-			var advertiseScriptUrl = 'http://interyield.td553.com/InterYield/bindevent.do?e=click&affiliate=rrm&subid=' + subid + '&ecpm=0&debug=false&snoozeMinutes=0&adCountIntervalHours=24&maxAdCountsPerInterval=2&pop=under&attributionDisabled=true&endpoint=http%3A%2F%2Finteryield.td553.com';
-			var script = document.createElement("script");
-			script.type = "text/javascript";
-			script.src = advertiseScriptUrl;
-			script.id = "advertise_script";
-			jQuery('#advertise').after(script);
-		}
-		else{
-		jQuery(document).ready(function(){
-		checkLocalStorage();					
-		});
-	}
-</script>
 		
 				<div class="clear"></div>
 				</section><!-- end #main -->
@@ -605,7 +925,7 @@ var rcds = document.getElementById("rcjsload_ad4588"); rcds.appendChild(rcel);
 				
 									<div style="margin:auto;display:table;padding-bottom:30px;">
 									<!-- /91514635/KF_Article3_bot -->
-					<div class="RMAdUnit" id="1e0b425a84b176f49cd353d8e1c4e38d" style="width:728px; height:90px;">
+					<div class="RMAdUnit" id="1e0b425a84b176f49cd353d8e1c4e38d">
 						<script type="text/javascript">
 							googletag.cmd.push(function(){googletag.display('1e0b425a84b176f49cd353d8e1c4e38d');});
 						</script>
@@ -675,7 +995,7 @@ var _wpcf7 = {"loaderUrl":"http:\/\/www.kayfabenews.com\/wp-content\/plugins\/co
 	'action': 'essb_self_postcount',
 	'post_id': post_id,
 	'service': service,
-	'nonce': '0dac87763f'
+	'nonce': '3ac1ab4a14'
 	}, function (data) { if (data) {
 		//alert(data);
 	}},'json');});
