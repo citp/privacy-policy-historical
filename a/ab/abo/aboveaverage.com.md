@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the aboveaverage.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616224933id_/https%3A//aboveaverage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboveaverage.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125093852id_/https%3A//aboveaverage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](https://www.aboveaverage.com/)
-
-The Internet’s Last Hope For Comedy
 
 ## Privacy Policy
 
@@ -62,7 +58,7 @@ Third Party Advertising and Do Not Track
 
 We will not share your Personal Data with other, third-party companies for their commercial or marketing use without your consent, and/or without providing you with the ability to opt-out. However, we may use your email address without further consent for non-marketing or administrative purposes.
 
-If at any time you wish to opt-out, you can let us know by following the “unsubscribe” link found in every Above Average email, or by contacting us at [legal@aboveaverage.com](mailto:legal@aboveaverage.com). To learn more about behavioral advertising or to opt-out of this type of advertising, visit networkadvertising.org.
+If at any time you wish to opt-out, you can let us know by following the “unsubscribe” link found in every Above Average email, or by contacting us at [legal@aboveaverage.com](mailto:legal@aboveaverage.com). To learn more about behavioral advertising or to opt-out of this type of advertising, visit [networkadvertising.org/choices](http://www.networkadvertising.org/choices/).
 
 Digital Millennium Copyright Act
 
