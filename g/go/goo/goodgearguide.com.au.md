@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodgearguide.com.au privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624093433id_/http%3A//www.goodgearguide.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodgearguide.com.au privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125011830id_/http%3A//www.goodgearguide.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Good Gear Guide Australia
 
@@ -136,19 +136,17 @@ For more information about privacy issues in Australia and protecting your priva
 
 **LAST UPDATED** : March 3, 2014
 
-  * 1 [​2016 Ford Mustang EcoBoost review](https://web.archive.org/review/ford_motor_company_of_australia/2016-mustang-ecoboost/601777/)
-  * 2 [​Review: TCL C1 series 4K TV](https://web.archive.org/review/tcl/c1-series/598533/)
-  * 3 [Sony 75-inch UHD TV (X9400C) review: Sony and Android are a winning duo](https://web.archive.org/review/sony/x9400c/581761/)
-  * 4 [LG 55EG960T OLED UHD TV](https://web.archive.org/review/lg/55eg960t/580005/)
-  * 5 [Panasonic Viera UHD TV review: good hardware, fragmented software ](https://web.archive.org/review/panasonic/viera-60xc700a/579810/)
+  * 1 [​Finally! LG OLED TV 2016 range review](https://web.archive.org/review/lg/2016-oled-tv-range/610655/)
+  * 2 [​Fetch TV Mighty review: Better than Foxtel](https://web.archive.org/review/fetch_tv/mighty/608390/)
+  * 3 [​Fetch TV Mini review: Make your TV a smart TV](https://web.archive.org/review/fetch_tv/mini/608098/)
+  * 4 [​Panasonic DX900U UHD 4K smart TV review: Best all-round TV ever?](https://web.archive.org/review/panasonic/th-65dx900u-4k-smart-tv/608017/)
+  * 5 [​Parrot Mambo Drone review](https://web.archive.org/review/parrot/mambo-drone/607548/)
 
 
 
 ### Join the Good Gear Guide newsletter!
 
 Error: Please check your email address.
-
-[ ](http://www.shopping.com/)
 
 ### [Business Centre](https://web.archive.org/section/pc_world_business/)
 
