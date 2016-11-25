@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momarewethereyet.net privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604111446id_/http%3A//momarewethereyet.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momarewethereyet.net privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125083131id_/http%3A//momarewethereyet.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mom, Are We There Yet?
 
@@ -17,3 +17,5 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+
+**Short URL:** []()
