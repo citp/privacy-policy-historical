@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the villabertolli.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618092854id_/http%3A//www.villabertolli.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villabertolli.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125120750id_/http%3A//www.villabertolli.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-To view this page in Spanish, please [click here](https://web.archive.org/web/20160618092854id_/http%3A//www.villabertolli.com/privacy-policy-spanish "Spanish Version")  
-Para ver esta página en español, por favor haga [clic aquí](https://web.archive.org/web/20160618092854id_/http%3A//www.villabertolli.com/privacy-policy-spanish "Spanish Version")
+To view this page in Spanish, please [click here](https://web.archive.org/web/20161125120750id_/http%3A//www.villabertolli.com/privacy-policy-spanish "Spanish Version")  
+Para ver esta página en español, por favor haga [clic aquí](https://web.archive.org/web/20161125120750id_/http%3A//www.villabertolli.com/privacy-policy-spanish "Spanish Version")
 
 ## Mizkan America, INC. PRIVACY PRINCIPLES
 
