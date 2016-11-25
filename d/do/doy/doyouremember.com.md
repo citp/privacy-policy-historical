@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the doyouremember.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512211328id_/http%3A//www.doyouremember.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyouremember.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125215339id_/http%3A//www.doyouremember.com/privacy) for the most accurate reproduction.*
 
-# PRIVACY – Do You Remember?
+# PRIVACY - Do You Remember?
+
+DoYouRemember.com Privacy Policy
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -16,11 +18,11 @@ We collect information from you when you register on our site, place an order, s
 
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-**•** To improve our website in order to better serve you.
+  * To improve our website in order to better serve you.
+  * To allow us to better service you in responding to your customer service requests.
+  * To quickly process your transactions.
 
-**•** To allow us to better service you in responding to your customer service requests.
 
-**•** To quickly process your transactions.
 
 **How do we protect visitor information?**
 
@@ -40,13 +42,12 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
 **We use cookies to:**
 
-**•** Help remember and process the items in the shopping cart.
+  * Help remember and process the items in the shopping cart.
+  * Understand and save user’s preferences for future visits.
+  * Keep track of advertisements.
+  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
 
-**•** Understand and save user’s preferences for future visits.
 
-**•** Keep track of advertisements.
-
-**•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
 
@@ -74,13 +75,12 @@ Google, as a third party vendor, uses cookies to serve ads on our site. Google�
 
 **We have implemented the following:**
 
-**•** Remarketing with Google AdSense
+  * Remarketing with Google AdSense
+  * Google Display Network Impression Reporting
+  * Demographics and Interests Reporting
+  * DoubleClick Platform Integration
 
-**•** Google Display Network Impression Reporting
 
-**•** Demographics and Interests Reporting
-
-**•** DoubleClick Platform Integration
 
 We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
 
@@ -101,11 +101,15 @@ Our Privacy Policy link includes the word ‘Privacy’, and can be easily be fo
 
 Users will be notified of any privacy policy changes:
 
-**•** On our Privacy Policy Page
+  * On our Privacy Policy Page
+
+
 
 Users are able to change their personal information:
 
-**•** By logging in to their account
+  * By logging in to their account
+
+
 
 **How does our site handle do not track signals?**
 
@@ -129,7 +133,9 @@ The Fair Information Practices Principles form the backbone of privacy law in th
 
 We will notify the users via email
 
-**•** Within 7 business days
+  * Within 7 business days
+
+
 
 We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
 
@@ -144,6 +150,18 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 **  
 If at any time you would like to unsubscribe from receiving future emails, you can email us at**
 
-and we will promptly remove you from **ALL** correspondence.
+and we will promptly remove you from  **ALL**  correspondence.
+
+**Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
+
+DoYouRemember.com
+
+P.O. BOX 8067
+
+New York, NY 10150
+
+info@doyouremember.com
+
+Last Edited on 2016-01-27
