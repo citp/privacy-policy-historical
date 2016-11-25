@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeveda.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603224345id_/http%3A//www.homeveda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeveda.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125233832id_/http%3A//www.homeveda.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Homeveda
 
