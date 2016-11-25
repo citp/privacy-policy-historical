@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuteflashgames.com privacy policy that was archived on 2016-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160213090235id_/http%3A//www.cuteflashgames.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuteflashgames.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125131333id_/http%3A//www.cuteflashgames.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Free Flash Games - Privacy Policy
 
@@ -16,6 +16,9 @@ CUTE account holders may be given the option to provide the same or additional p
 
 **Last Played Games**  
 In order to accomodate the 'last played' games tab, this website makes a local cookie on your harddisk containing the URL of any page visited on this website. The ID-tag stored inside this cookie is 'document.URL'. The stored URL's are solely used by cuteflashgames.com to view and sort the last played games, as a free service on this website. 
+
+**Sharing Of Information**  
+There are no scripts or programs running on our server that store your information. We allow our third party advertisers to host scripts on our webpages. Third party advertisers might collect, store and use your information. These scripts are not property of our game portal website and are subject to the privacy policy of the third party. Find the links to the third party privacy policies in the sections below to learn more. 
 
 **Third Party Advertising**  
 We use third-party advertising companies to serve ads when you visit cuteflashgames.com. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. Learn more about the privacy policy of our third parties at cpmstar.com and google.com/adsense.
