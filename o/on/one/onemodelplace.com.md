@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onemodelplace.com privacy policy that was archived on 2016-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160305155925id_/http%3A//www.onemodelplace.com/content/omp-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onemodelplace.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125030603id_/http%3A//www.onemodelplace.com/content/omp-privacy-statement.html) for the most accurate reproduction.*
 
 # One Model Place - Privacy Statement
 
@@ -64,4 +64,4 @@ OMP provides the ability to request further information or ask questions to the 
 
 OneModelPlace.com™ Ltd. (OMP) is a Portfolio Hosting Site. The images and materials, claims and statements, expressed, implied or guaranteed by members and non-members on this site, are the sole responsibility of those individuals. All information accuracy, copyright credits, image copyrights and usage, and other forms of information are the sole responsibility of each member or poster. OneModelPlace.com™ Ltd. (OMP) does not guarantee, warrant, or confirm information posted to profile display pages or to the messages boards.
 
-© 1996-2014 - OneModelPlace.com™ Ltd. (OMP) - All Rights Reserved - Reproduction in part or whole without written permission is prohibited. [Sitemap](https://web.archive.org/sitemap.html)
+© 1996-2016 - OneModelPlace.com™ Ltd. (OMP) - All Rights Reserved - Reproduction in part or whole without written permission is prohibited. [Sitemap](https://web.archive.org/sitemap.html)
