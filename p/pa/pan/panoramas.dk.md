@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panoramas.dk privacy policy that was archived on 2015-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150730090303id_/http%3A//www.panoramas.dk/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panoramas.dk privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125141615id_/http%3A//www.panoramas.dk/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
