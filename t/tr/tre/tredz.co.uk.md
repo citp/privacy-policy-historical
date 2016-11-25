@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tredz.co.uk privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512143555id_/http%3A//www.tredz.co.uk/cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tredz.co.uk privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125124401id_/http%3A//www.tredz.co.uk/cookies) for the most accurate reproduction.*
 
 # Cookie & Privacy Policy | Tredz
 
