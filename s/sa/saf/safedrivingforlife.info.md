@@ -1,18 +1,23 @@
-> *The following text is extracted and transformed from the safedrivingforlife.info privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510163350id_/https%3A//www.safedrivingforlife.info/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safedrivingforlife.info privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125101812id_/http%3A//www.safedrivingforlife.info/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies | DVSA - Safe Driving for Life
 
-  
-  
-
-
 ## Introduction
 
-The purpose of this Privacy Policy is to set out the manner and purposes for which we will obtain and process your personal information. By using this website, you are consenting to the collection and use of your personal information in the way we describe in this Policy and to our Terms and Conditions.
+The information presented on this page is to help you to understand how TSO will obtain and process your personal information. By using this website, you are consenting to the collection and use of your personal information in the way described in the Driver and Vehicle Standards Agency (DVSA’s) Privacy Policy and TSO’s Safe Driving for Life website’s [Terms and Conditions](http://www.safedrivingforlife.info/help/stationery-office-limited-terms-and-conditions-sale).
 
-## Who We Are
+## Who are TSO and DVSA
 
-This website is hosted and managed by TSO (The Stationery Office Limited). Registered address: 29 St John's Lane, London, EC1M 4NA. TSO is a registered Data Controller as defined by the UK Data Protection Act 1998 (Act). We obtain, process and store personal information in accordance with the Act and all other applicable UK privacy legislation.
+This website is hosted and managed by [TSO](http://www.tso.co.uk/) on behalf of the [Driver and Vehicle Standards Agency (DVSA)](https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency).  
+TSO is the official publisher for DVSA.  
+The data controller for the purposes of this website is The Driver and Vehicle Standards Agency (DVSA), Berkeley House, Croydon Street, Bristol, BS5 0DA.  
+The data processor for the purposes of this website is The Stationery Office Limited (TSO), Aldgate Tower, 2 Leman Street, London, E1 8FA.
+
+## Privacy Policy
+
+DVSA’s privacy policy <https://www.gov.uk/government/publications/driving-standards-agency-privacy-policy>   
+DVSA’s personal information charter <https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency/about/personal-information-charter>  
+GOV.UK privacy policy <https://www.gov.uk/help/privacy-policy>
 
 ## Obtaining Your Personal Information
 
@@ -32,19 +37,11 @@ In order to source the product that you require and ensure that it is delivered 
 
 ## Direct Marketing Material
 
-We will use your personal information to keep you informed of products, services and events that we feel may be of interest to you or your business. We may also use your personal information to keep you informed of new and/or existing products that are similar to those which you have previously purchased.
+We may use your personal information to keep you informed of our products, services and events that we feel may be of interest to you or your business. We may also use your personal information to keep you informed of new and/or existing products that are similar to those which you have previously purchased.  All recipients of the newsletter have consented to receiving such material.
 
 You may at any time ask us to cease or not commence sending you direct marketing material by contacting our customer services division on Tel: +44 (0)333 202 5070 or by sending an email to [tsoproductupdates@tso.co.uk](mailto:tsoproductupdates@tso.co.uk).
 
 Upon receipt of notification that you do not wish to receive marketing material from us, we will action your request within a reasonable time period.
-
-## Email Marketing Communications
-
-TSO offers a free email newsletter subscription service to keep you informed of our products and services. All recipients of our newsletter have either consented to receiving such material or have placed an order with us for similar products or services.
-
-We incorporate a tracking system in our email marketing communications which allows us to monitor whether the email has been opened and which links are the most popular. This allows us to tailor and refine our service to ensure that the emails you receive are relevant to your interests.
-
-Where you have consented to receiving email marketing material from us or are currently receiving material relating to similar products or services, you may at any time ask us to cease sending you such material by sending an email to [tsoproductupdates@tso.co.uk](mailto:tsoproductupdates@tso.co.uk) with the heading unsubscribe or you can go to your [**free updates page**](http://10.254.170.61/webshop/bookstore.asp?ACTION=PRODUCTUPDATES&TRACKID=000578) (you will need to login if you have not already done so) and click the 'unsubscribe' link at the foot of the page. Unsubscribe instructions are also clearly outlined at the bottom of every direct marketing email that we send you.
 
 ## Cookies
 
@@ -63,20 +60,22 @@ Type of Cookie | Cookie name | Expires after | Purpose
 Site performance | Web Trends | 10 years | Performance cookies collect anonymous information about how visitors use our website, for example how many visitors came to our website and when, what browsers visitors use and how long visitors stay on the site. This data does not contain any information that is personal to you.  
 Google Analytics: __utma | 2 years from set/update  
 Google Analytics: __utmb | 30 minutes from set/update  
-Google Analytics: __utmc | not set  
+Google Analytics: __utmc | end of browser session  
 Google Analytics: __utmz | 6 months from set/update  
 SiteStat: c1 | 5 years  
 SiteStat: s1  
 BIG-IP | same day  
+accepted-cookie-policy | 1 year  
 Session | has_js | browser is closed | 
 
 These cookies are necessary to enable the website to perform essential functionality such as browsing web pages.  
   
 Drupal session | 23 days  
+logout-notification | 30 seconds  
   
 ### Enabling and disabling cookies
 
-This website uses cookies to remember your site preferences. If you decline cookies you may lose some of the beneficial website functions of cookies. No personally identifiable information is stored within cookies. Therefore, we recommend you leave these turned on. To check if cookies are enabled on your device, please follow the steps below. Alternatively, view your browser's help pages or information on how to manage cookies at [www.allaboutcookies.org .](http://www.allaboutcookies.org/)
+This website uses cookies to remember your site preferences. If you decline cookies you may lose some of the beneficial website functions of cookies. No personally identifiable information is stored within cookies. Therefore, we recommend you leave these turned on. To check if cookies are enabled on your device, please follow the steps below. Alternatively, view your browser's help pages or information on how to manage cookies at [www.allaboutcookies.org.](http://www.allaboutcookies.org/)
 
 ### Internet Explorer
 
@@ -141,7 +140,7 @@ Cookies that are already on your computer can be read by the websites that creat
   
 ### Google Chrome
 
-  1. Click the spanner icon in the top right hand corner of the browser and select Settings from the drop-down menu
+  1. Click the menu icon in the top right hand corner of the browser and select Settings from the drop-down menu
   2. Click on Show advanced settings at the bottom of the page
   3. Select Content Settings under the Privacy heading
   4. Manage your preferred cookies settings from this page.
@@ -161,17 +160,19 @@ For further information regarding cookies, please visit [www.allaboutcookies.org
 
 ## Data Protection & Information Security
 
-Our e-commerce activities are certified to the best practice information security standard ISO 27001 and we follow strict security procedures for obtaining, processing and storing the personal information with which we have been entrusted.
-
-We will not disclose or make your personal information available to a third party (otherwise than where indicated within this Privacy Policy) without your consent.
+TSO’s e-commerce activities are certified to the best practice information security standard ISO 27001 and we follow strict security procedures for obtaining, processing and storing the personal information with which we have been entrusted.
 
 You can help to protect your personal information by ensuring that you keep your login password secure. We also recommend that you log out of your account once you have completed your transaction or enquiry, especially if you are using a shared computer.
 
-We will at your request, provide you with a copy of any personal information that we are holding about you. We will charge an administration fee of £10 on each occasion that such a request is made and we will require you to prove that you are the person who is the subject of the information that we are holding before disclosing it to you.
+To make a Freedom of Information request:
 
-We will also correct or delete any inaccurate information that we are holding about you that is brought to our attention.
-
-To request a copy of any personal information that we are holding about you please email [foirequest@tso.co.uk](mailto:foirequest@tso.co.uk).
+Read about the Freedom of Information (FOI) Act and [how to make a request](https://www.gov.uk/make-a-freedom-of-information-request/the-freedom-of-information-act).  
+Check [DVSA’s previous releases ](https://www.gov.uk/government/publications?departments%5B%5D=driver-and-vehicle-standards-agency&publication_type=foi-releases)to see if they’ve already answered your question.  
+Make a new request by contacting DVSA at:  
+Email: [inform@vosa.gov.uk](mailto:inform@vosa.gov.uk)  
+Contact form: <https://forms.dft.gov.uk/foi-dft-and-dft-agencies>  
+Post: Information Access Team, DVSA , Second Floor , Berkeley House , Croydon Street, Bristol, BS5 0DA  
+Telephone: 0300 123 9000
 
 ## Links to Other Websites
 
