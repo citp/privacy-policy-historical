@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressassociation.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621141718id_/https%3A//www.pressassociation.com/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressassociation.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125062549id_/https%3A//www.pressassociation.com/Privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -497,12 +497,3 @@ Unfortunately, the transmission of information via the internet is not completel
 If you have any queries with regard to our data processing practices or you wish to correct or update or request a copy of any of the personal details we hold about you, please contact your usual PA Group contact or send us an email or write to us at: The Data Protection Officer, Legal Department, The Press Association Limited, 292 Vauxhall Bridge Road, London SW1V 1AE. 
 
 Any request for a copy of information may be subject to a fee (currently £10) to meet our costs in providing you with details of the information we may hold about you.
-
- **  
-**.
-
-* * *
-
-[1] These headings should be hyperlinks to the relevant sections
-
-[2] Make this an active link to the ‘contacting us’ section
