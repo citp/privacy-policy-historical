@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the easybreathe.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609195315id_/http%3A//www.easybreathe.com/Privacy-Policy-2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easybreathe.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125161842id_/http%3A//www.easybreathe.com/Privacy-Policy-2.html) for the most accurate reproduction.*
 
 # Privacy Policy - CPAP Supplies, CPAP Machines, CPAP Masks, Sleep Apnea – easybreathe.com
 
-## Privacy Policy
+##  **Privacy Policy**
 
 Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. 
 
 Note, the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites.
-
-Easy Breathe, Inc. is a Covered Entity, as defined by HIPAA, and is subject to HIPAA.
 
 We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
 
@@ -24,4 +22,4 @@ Your personally identifiable information is kept secure. Only authorized employe
 
 • By Phone: (866) 564-2252 
 
-We reserve the right to make changes to this policy. Any changes to this policy will be posted. Last update: 4/18/2016.
+We reserve the right to make changes to this policy. Any changes to this policy will be posted.
