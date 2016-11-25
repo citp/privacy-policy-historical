@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stylishwife.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325182059id_/http%3A//www.stylishwife.com/our-privacy-policy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylishwife.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125024547id_/http%3A//www.stylishwife.com/our-privacy-policy-and-terms-of-use) for the most accurate reproduction.*
 
-# Privacy Policy - Fashion 2016
+# Privacy Policy - Stylishwife
 
 [Ekstrax.com](http://www.ekstrax.com/) uses features of latest web technology, to secure the data supplied by you, the visitor to our site.
 
@@ -16,13 +16,13 @@ The data and particulars given to us will be utilized keeping in mind the terms 
 
 By visiting this site and making use of this site you will be giving us you acceptance that you are in line with the privacy policy.
 
-**Cookies &amp; 3rd Party Advertisements**
+ **Cookies &amp; 3rd Party Advertisements**
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/managing/opt_out.asp.
 
-**What data do we gather?**
+ **What data do we gather?**
 
 Particulars that are specific to the visitor is gathered by the site
 
@@ -56,7 +56,7 @@ This data is recorded in the form of a Log file.
 
 A log file keeps tabs on all the information being transmitted from your browser.
 
-**How is the gathered data utilized?**
+ **How is the gathered data utilized?**
 
 The gathered data will be utilized for a particular reason.
 
@@ -72,7 +72,7 @@ You will be informed of such dispensing of information to third parties, beforeh
 
 If you want to offer your details, you can agree to the stipulation on that service.
 
-**  
+ **  
 ****What if I give my details to a marketing affiliate of the site?**
 
 When you click on the link of a marketing affiliate’s website; you will get redirected to our partner’s website.
@@ -87,7 +87,7 @@ Browse through the privacy policy provided on the website prior to offering pers
 
 This policy is exclusively kept up for the EkstraX website and does not have any connection with any third party links given on the website.
 
-**Is the vital data given by me kept safely?**
+ **Is the vital data given by me kept safely?**
 
 We seek to employ the finest security devices as a means of preserving information supplied by our users safely.
 
@@ -103,7 +103,7 @@ We will make sure that the finest security precaution are implemented to circumv
 
 We would like to emphasize that such occurrences have been very rare in the past and the details given over to us, are always protected with utmost diligence.
 
-**What if I get subscription letters/emails from the site seeking current details?**
+ **What if I get subscription letters/emails from the site seeking current details?**
 
 Newsletters are sent from the official site, just keep members in the loop about the current happenings.
 
@@ -113,7 +113,7 @@ Keep us informed about such fraudulent activities.
 
 Do not give out any data to such subscriptions from the affiliated/non-affiliated links.
 
-**What if I do not give out particular  data because I consider it confidential?**
+ **What if I do not give out particular  data because I consider it confidential?**
 
 When you utilize this site, the implication is you concede to the privacy policy.
 
@@ -121,7 +121,7 @@ In any case you may refrain from providing certain information if you consider i
 
 If you do not fill out all the mandatory fields you may not be able to take full advantage of all that the site provides.
 
-**Notice Regarding Online Behavioral Advertising**
+ **Notice Regarding Online Behavioral Advertising**
 
 We allow third-party companies to serve ads and/or collect certain anonymous data when you visit our Web site.
 
@@ -131,7 +131,7 @@ These companies normally use a cookie or third party web beacon to gather this
 
 To find out details regarding behavioral advertising practice or to avoid of this form of advertising, you can visit www.networkadvertising.org.
 
-**Privacy Policy for Children**
+ **Privacy Policy for Children**
 
 We agree that young children are vulnerable to giving out private information easily.
 
@@ -139,11 +139,11 @@ The site has an age limit of 13 years and above.
 
 People, who fall in this specified age group are allowed to give us the data.
 
-**Google DART Cookies**
+ **Google DART Cookies**
 
 Google as a third party vender uses a special DART cookie to serve ads on our website and other websites. If you don’t want to have this DART cookie on your computer, you can opt out .
 
-**Images on our website**
+ **Images on our website**
 
 Many of the images used in our website are from different sources.
 
@@ -157,7 +157,7 @@ We do not say that we own the copyright to any image on this website unless owne
 
 If you copy, use or download any image from our website, we ask that you please credit the image to [Ekstrax.com](http://www.ekstrax.com/)
 
-**Right to make changes in the privacy policy**
+ **Right to make changes in the privacy policy**
 
 The right to change the privacy policy is exclusively reserved by the website. If we make some alterations in the original privacy policy, we will keep you updated. If you persist with the site after the revised policy has been implemented, it implies that you agree with the new privacy policy.
 
