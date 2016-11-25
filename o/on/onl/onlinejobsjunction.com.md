@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinejobsjunction.com privacy policy that was archived on 2016-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160223121249id_/http%3A//www.onlinejobsjunction.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinejobsjunction.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125215230id_/http%3A//www.onlinejobsjunction.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Online Jobs from Home, Online Survey Jobs, Part time online jobs
 
