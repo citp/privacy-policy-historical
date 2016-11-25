@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telescope.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608004606id_/http%3A//www.telescope.com/content.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telescope.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125205523id_/http%3A//www.telescope.com/content.jsp%3FpageName%3DPrivacy%26src%3Dfooter2) for the most accurate reproduction.*
 
 # Privacy | Orion Telescopes & Binoculars
 
