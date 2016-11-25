@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oboads.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623065035id_/http%3A//oboads.com/privacy.php%3Fuid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oboads.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125133749id_/http%3A//oboads.com/privacy.php%3Fuid%3D) for the most accurate reproduction.*
 
 # 
 
@@ -27,7 +27,7 @@ Any OBOads users may opt-out of receiving regular e-mails by one of the followin
   1. Responding to the email using the unsubscribe option provided;
   2. Responding to the email;
   3. Unchecking the appropriate box on the "Prefs / Options" page in the members area; 
-  4. Terminating your membership - [Contact support](https://web.archive.org/web/20160623065035id_/http%3A//oboads.com/contact.php)
+  4. Terminating your membership - [Contact support](https://web.archive.org/web/20161125133749id_/http%3A//oboads.com/contact.php)
 
 
 
