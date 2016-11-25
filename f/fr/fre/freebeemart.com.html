@@ -1,0 +1,815 @@
+<!--The following is the downloaded HTML source of the freebeemart.com privacy policy that was archived on 2016-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161126001423id_/http%3A//www.freebeemart.com/policy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
+
+</title><meta name="OMG-Verify-V1" content="890055-7697028b-1fd8-4e94-9aad-726b12fac642"><meta charset="utf-8"><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="description"><meta name="author"><link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" type="text/css"><link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css"><link href="css/home.css" rel="stylesheet" type="text/css"><link href="css/main.css" rel="stylesheet"><link href="css/responsive.css" rel="stylesheet"><link href="css/main1.css" rel="stylesheet" type="text/css"><link href="css/responsive1.css" rel="stylesheet" type="text/css">
+
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="js/jquery-1.10.2.js" type="text/javascript"></script>
+
+    <script src="js/jquery.min.js" type="text/javascript"></script>
+
+    <script src="js/jquery-ui.js" type="text/javascript"></script>
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <script src="js/bootstrap.min.js" type="text/javascript"></script>
+
+    <script src="js/gistfile1.js"></script>
+
+    <script src="js/main.js"></script>
+
+    <script src="js/stopExecutionOnTimeout.js" type="text/javascript"></script>
+
+    <script src="js/jquery.marquee.min.js" type="text/javascript"></script>
+
+    <link href="css/jquery-ui.css" rel="stylesheet" type="text/css"><link href="css/googleapis.css" rel="stylesheet" type="text/css">
+
+    <script src="js/bootstrap-dropdownhover.js"></script>
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-76414997-1', 'auto');
+  ga('send', 'pageview');
+          </script>
+    
+
+    <script type="text/javascript">
+
+        $(function () {
+            $("#ctl00_txtSearch").autocomplete({
+                source: function (request, response)
+                {
+                    $.ajax({
+                        url: '/Default.aspx/GetCustomers',
+                        data: "{ 'prefix': '" + request.term + "'}",
+                        dataType: "json",
+                        type: "POST",
+                        contentType: "application/json; charset=utf-8",
+                        success: function (data) {
+                            response($.map(data.d, function (item) {
+                                return {
+                                    label: item                                                                                                           
+                                }
+                            }))
+                        },
+                        error: function (response) {
+
+                            //alert(response.responseText);
+                        },
+                        failure: function (response) {
+                            //alert(response.responseText);
+                        }
+                    });
+                },
+                select: function (e, i) { 
+                  
+                    $("[id$=hfCustomerId]").val(i.item.label);
+                    window.location="search.aspx?id=" + i.item.label ; 
+                                    
+                },
+                minLength: 1
+            });
+        });   
+    </script>
+<script type="text/javascript">
+
+        $(function () {
+            $("#ctl00_txtsearchnew").autocomplete({
+                source: function (request, response)
+                {
+                    $.ajax({
+                        url: '/Default.aspx/GetCustomers',
+                        data: "{ 'prefix': '" + request.term + "'}",
+                        dataType: "json",
+                        type: "POST",
+                        contentType: "application/json; charset=utf-8",
+                        success: function (data) {
+                            response($.map(data.d, function (item) {
+                                return {
+                                    label: item                                                                                                           
+                                }
+                            }))
+                        },
+                        error: function (response) {
+
+                            //alert(response.responseText);
+                        },
+                        failure: function (response) {
+                            //alert(response.responseText);
+                        }
+                    });
+                },
+                select: function (e, i) { 
+                  
+                    $("[id$=hfCustomerId]").val(i.item.label);
+                    window.location="search.aspx?id=" + i.item.label ; 
+                                    
+                },
+                minLength: 1
+            });
+        });   
+    </script>
+    
+     <script type="text/javascript">
+         function passreg(id, e) {
+             var key;
+             if (window.event)
+                 key = window.event.keyCode;     //IE
+             else
+                 key = e.which;     //firefox
+
+             if (key == 13) {
+
+                 var btn = document.getElementById('ctl00_btnregup');
+                 if (btn != null) {
+                     btn.click();
+                     event.keyCode = 0
+
+                 }
+             }
+         }
+
+    </script>
+
+     <script type="text/javascript">
+         function passsingnup(id, e) {             
+             var key;
+             if (window.event)
+                 key = window.event.keyCode;     //IE
+             else
+                 key = e.which;     //firefox
+
+             if (key == 13) {
+
+                 var btn = document.getElementById('ctl00_btnsingup');
+                 if (btn != null) {
+                     btn.click();
+                     event.keyCode = 0
+
+                 }
+             }
+         }
+
+    </script>
+
+
+
+    <script type="text/javascript">
+    function doClick(id,e)
+    {
+        $("#myModal").modal('hide');
+        var key;
+         if(window.event)
+              key = window.event.keyCode;     //IE
+         else
+              key = e.which;     //firefox
+   
+        if (key == 13)
+        {   
+      
+            var btn = document.getElementById(id);            
+            var searchdata = document.getElementById('ctl00_txtSearch').value;
+            window.location = "search.aspx?id=" + searchdata;
+            if (btn != null)
+            {             
+                //btn.click();
+                //event.keyCode = 0
+                
+            }
+        }
+    }
+
+    </script>
+
+<script type="text/javascript">
+    function doClicknew(id,e)
+    {
+        $("#myModal").modal('hide');
+        var key;
+         if(window.event)
+              key = window.event.keyCode;     //IE
+         else
+              key = e.which;     //firefox
+   
+        if (key == 13)
+        {   
+      
+            var btn = document.getElementById(id);            
+            var searchdata = document.getElementById('ctl00_txtsearchnew').value;
+            window.location = "search.aspx?id=" + searchdata;
+            if (btn != null)
+            {             
+                //btn.click();
+                //event.keyCode = 0
+                
+            }
+        }
+    }
+
+    </script>
+    
+</head>
+<body style="">
+    
+    <form name="aspnetForm" method="post" action="policy.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIDD2QWGgIDD2QWAgIBDxYCHgdPbkNsaWNrBSJqYXZhc2NyaXB0OnJldHVybiBteWFjY291bnRvcGVuKCk7ZAIFDw9kFgIeB29uY2xpY2sFHmphdmFzY3JpcHQ6cmV0dXJuIHBvcHVwb3BlbigpO2QCCQ9kFgYCAw8WAh4JaW5uZXJodG1sBc5NPHVsIGNsYXNzPSJuYXYgbmF2YmFyLW5hdiBoZWFkZXJfbmF2MSI+PGxpIGNsYXNzPSJkcm9wZG93biI+PGEgY2xhc3M9ImRyb3Bkb3duLXRvZ2dsZSIgZGF0YS10b2dnbGU9ImRyb3Bkb3duIiBkYXRhLWhvdmVyPSJkcm9wZG93biIgaHJlZj0iIyIgPkJlYXV0eSAmIEhlYWx0aDxzcGFuIGNsYXNzPSJjYXJldCI+PC9zcGFuPiA8L2E+PHNwYW4gY2xhc3M9ImRpdmlkZXIxIGhpZGRlbi14cyI+PC9zcGFuPjx1bCBjbGFzcz0iZHJvcGRvd24tbWVudSI+PGxpPjxhIHN0eWxlPSJ3aWR0aDoxMDAlIiBocmVmID0icHJvZHVjdGRldGFpbC5hc3B4P2JpZD1OZXRtZWRzIj48dT5OZXRtZWRzPC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9U2hvcGNsdWVzIj48dT5TaG9wY2x1ZXM8L3U+PC9hPjwvbGk+PGxpPjxhIHN0eWxlPSJ3aWR0aDoxMDAlIiBocmVmID0icHJvZHVjdGRldGFpbC5hc3B4P2JpZD1MZW5zS2FydCI+PHU+TGVuc0thcnQ8L3U+PC9hPjwvbGk+PGxpPjxhIHN0eWxlPSJ3aWR0aDoxMDAlIiBocmVmID0icHJvZHVjdGRldGFpbC5hc3B4P2JpZD1BbWF6b24iPjx1PkFtYXpvbjwvdT48L2E+PC9saT48bGk+PGEgc3R5bGU9IndpZHRoOjEwMCUiIGhyZWYgPSJwcm9kdWN0ZGV0YWlsLmFzcHg/YmlkPUZhYmluZGlhIj48dT5GYWJpbmRpYTwvdT48L2E+PC9saT48bGk+PGEgc3R5bGU9IndpZHRoOjEwMCUiIGhyZWYgPSJwcm9kdWN0ZGV0YWlsLmFzcHg/YmlkPWVCYXkiPjx1PmVCYXk8L3U+PC9hPjwvbGk+PGxpPjxhIHN0eWxlPSJ3aWR0aDoxMDAlIiBocmVmID0icHJvZHVjdGRldGFpbC5hc3B4P2JpZD0xbWciPjx1PjFtZzwvdT48L2E+PC9saT48bGk+PGEgc3R5bGU9IndpZHRoOjEwMCUiIGhyZWYgPSJwcm9kdWN0ZGV0YWlsLmFzcHg/YmlkPUhvbWVzaG9wMTgiPjx1PkhvbWVzaG9wMTg8L3U+PC9hPjwvbGk+PGxpPjxhIHN0eWxlPSJ3aWR0aDoxMDAlIiBocmVmID0icHJvZHVjdGRldGFpbC5hc3B4P2JpZD1GbGlwa2FydCI+PHU+RmxpcGthcnQ8L3U+PC9hPjwvbGk+PGxpPjxhIHN0eWxlPSJ3aWR0aDoxMDAlIiBocmVmID0icHJvZHVjdGRldGFpbC5hc3B4P2JpZD1KYWJvbmciPjx1PkphYm9uZzwvdT48L2E+PC9saT48L3VsPjwvbGk+PGxpIGNsYXNzPSJkcm9wZG93biI+PGEgY2xhc3M9ImRyb3Bkb3duLXRvZ2dsZSIgZGF0YS10b2dnbGU9ImRyb3Bkb3duIiBkYXRhLWhvdmVyPSJkcm9wZG93biIgaHJlZj0iIyIgPkRpbmluZzxzcGFuIGNsYXNzPSJjYXJldCI+PC9zcGFuPiA8L2E+PHNwYW4gY2xhc3M9ImRpdmlkZXIxIGhpZGRlbi14cyI+PC9zcGFuPjx1bCBjbGFzcz0iZHJvcGRvd24tbWVudSI+PGxpPjxhIHN0eWxlPSJ3aWR0aDoxMDAlIiBocmVmID0icHJvZHVjdGRldGFpbC5hc3B4P2JpZD1uZWFyYnV5Ij48dT5uZWFyYnV5PC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9U25hcERlYWwiPjx1PlNuYXBEZWFsPC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9TmF0dXJlc0Jhc2tldCI+PHU+TmF0dXJlc0Jhc2tldDwvdT48L2E+PC9saT48bGk+PGEgc3R5bGU9IndpZHRoOjEwMCUiIGhyZWYgPSJwcm9kdWN0ZGV0YWlsLmFzcHg/YmlkPUFtYXpvbiI+PHU+QW1hem9uPC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9RG9taW5vcyI+PHU+RG9taW5vczwvdT48L2E+PC9saT48bGk+PGEgc3R5bGU9IndpZHRoOjEwMCUiIGhyZWYgPSJwcm9kdWN0ZGV0YWlsLmFzcHg/YmlkPWJpZ2Jhc2tldCI+PHU+YmlnYmFza2V0PC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9U2hvcHBpbmciPjx1PlNob3BwaW5nPC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9RE4iPjx1PkROPC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9Q29sYXZpdGEiPjx1PkNvbGF2aXRhPC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9Q29rZTJob21lIj48dT5Db2tlMmhvbWU8L3U+PC9hPjwvbGk+PC91bD48L2xpPjxsaSBjbGFzcz0iZHJvcGRvd24iPjxhIGNsYXNzPSJkcm9wZG93bi10b2dnbGUiIGRhdGEtdG9nZ2xlPSJkcm9wZG93biIgZGF0YS1ob3Zlcj0iZHJvcGRvd24iIGhyZWY9IiMiID5FLUNvbW1lcmNlPHNwYW4gY2xhc3M9ImNhcmV0Ij48L3NwYW4+IDwvYT48c3BhbiBjbGFzcz0iZGl2aWRlcjEgaGlkZGVuLXhzIj48L3NwYW4+PHVsIGNsYXNzPSJkcm9wZG93bi1tZW51Ij48bGk+PGEgc3R5bGU9IndpZHRoOjEwMCUiIGhyZWYgPSJwcm9kdWN0ZGV0YWlsLmFzcHg/YmlkPUZsaXBrYXJ0Ij48dT5GbGlwa2FydDwvdT48L2E+PC9saT48bGk+PGEgc3R5bGU9IndpZHRoOjEwMCUiIGhyZWYgPSJwcm9kdWN0ZGV0YWlsLmFzcHg/YmlkPVNob3BjbHVlcyI+PHU+U2hvcGNsdWVzPC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9U25hcERlYWwiPjx1PlNuYXBEZWFsPC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9QW1hem9uIj48dT5BbWF6b248L3U+PC9hPjwvbGk+PGxpPjxhIHN0eWxlPSJ3aWR0aDoxMDAlIiBocmVmID0icHJvZHVjdGRldGFpbC5hc3B4P2JpZD1lQmF5Ij48dT5lQmF5PC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9TGVuc0thcnQiPjx1PkxlbnNLYXJ0PC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9QWNlciI+PHU+QWNlcjwvdT48L2E+PC9saT48bGk+PGEgc3R5bGU9IndpZHRoOjEwMCUiIGhyZWYgPSJwcm9kdWN0ZGV0YWlsLmFzcHg/YmlkPUFCUk8iPjx1PkFCUk88L3U+PC9hPjwvbGk+PGxpPjxhIHN0eWxlPSJ3aWR0aDoxMDAlIiBocmVmID0icHJvZHVjdGRldGFpbC5hc3B4P2JpZD1BYm9mIj48dT5BYm9mPC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9QWJkdWxsYWgiPjx1PkFiZHVsbGFoPC91PjwvYT48L2xpPjwvdWw+PC9saT48bGkgY2xhc3M9ImRyb3Bkb3duIj48YSBjbGFzcz0iZHJvcGRvd24tdG9nZ2xlIiBkYXRhLXRvZ2dsZT0iZHJvcGRvd24iIGRhdGEtaG92ZXI9ImRyb3Bkb3duIiBocmVmPSIjIiA+RmFzaGlvbjxzcGFuIGNsYXNzPSJjYXJldCI+PC9zcGFuPiA8L2E+PHNwYW4gY2xhc3M9ImRpdmlkZXIxIGhpZGRlbi14cyI+PC9zcGFuPjx1bCBjbGFzcz0iZHJvcGRvd24tbWVudSI+PGxpPjxhIHN0eWxlPSJ3aWR0aDoxMDAlIiBocmVmID0icHJvZHVjdGRldGFpbC5hc3B4P2JpZD0tLVNlbGVjdCBCcmFuZC0tIj48dT4tLVNlbGVjdCBCcmFuZC0tPC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9RmxpcGthcnQiPjx1PkZsaXBrYXJ0PC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9TXludHJhIj48dT5NeW50cmE8L3U+PC9hPjwvbGk+PGxpPjxhIHN0eWxlPSJ3aWR0aDoxMDAlIiBocmVmID0icHJvZHVjdGRldGFpbC5hc3B4P2JpZD1GYWJhbGxleSI+PHU+RmFiYWxsZXk8L3U+PC9hPjwvbGk+PGxpPjxhIHN0eWxlPSJ3aWR0aDoxMDAlIiBocmVmID0icHJvZHVjdGRldGFpbC5hc3B4P2JpZD1TbmFwRGVhbCI+PHU+U25hcERlYWw8L3U+PC9hPjwvbGk+PGxpPjxhIHN0eWxlPSJ3aWR0aDoxMDAlIiBocmVmID0icHJvZHVjdGRldGFpbC5hc3B4P2JpZD1TaG9wY2x1ZXMiPjx1PlNob3BjbHVlczwvdT48L2E+PC9saT48bGk+PGEgc3R5bGU9IndpZHRoOjEwMCUiIGhyZWYgPSJwcm9kdWN0ZGV0YWlsLmFzcHg/YmlkPUphYm9uZyI+PHU+SmFib25nPC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9WWVwbWUiPjx1PlllcG1lPC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9QW1hem9uIj48dT5BbWF6b248L3U+PC9hPjwvbGk+PGxpPjxhIHN0eWxlPSJ3aWR0aDoxMDAlIiBocmVmID0icHJvZHVjdGRldGFpbC5hc3B4P2JpZD1MaW1lcm9hZCI+PHU+TGltZXJvYWQ8L3U+PC9hPjwvbGk+PC91bD48L2xpPjxsaSBjbGFzcz0iZHJvcGRvd24iPjxhIGNsYXNzPSJkcm9wZG93bi10b2dnbGUiIGRhdGEtdG9nZ2xlPSJkcm9wZG93biIgZGF0YS1ob3Zlcj0iZHJvcGRvd24iIGhyZWY9IiMiID5Ib21lIEZ1cm5pc2hpbmcgJiBEZWNvcjxzcGFuIGNsYXNzPSJjYXJldCI+PC9zcGFuPiA8L2E+PHNwYW4gY2xhc3M9ImRpdmlkZXIxIGhpZGRlbi14cyI+PC9zcGFuPjx1bCBjbGFzcz0iZHJvcGRvd24tbWVudSI+PGxpPjxhIHN0eWxlPSJ3aWR0aDoxMDAlIiBocmVmID0icHJvZHVjdGRldGFpbC5hc3B4P2JpZD1BbmphbGlrYSI+PHU+QW5qYWxpa2E8L3U+PC9hPjwvbGk+PGxpPjxhIHN0eWxlPSJ3aWR0aDoxMDAlIiBocmVmID0icHJvZHVjdGRldGFpbC5hc3B4P2JpZD1GYWJmdXJuaXNoIj48dT5GYWJmdXJuaXNoPC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9RmxpcGthcnQiPjx1PkZsaXBrYXJ0PC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9QW1hem9uIj48dT5BbWF6b248L3U+PC9hPjwvbGk+PGxpPjxhIHN0eWxlPSJ3aWR0aDoxMDAlIiBocmVmID0icHJvZHVjdGRldGFpbC5hc3B4P2JpZD1TaG9wY2x1ZXMiPjx1PlNob3BjbHVlczwvdT48L2E+PC9saT48bGk+PGEgc3R5bGU9IndpZHRoOjEwMCUiIGhyZWYgPSJwcm9kdWN0ZGV0YWlsLmFzcHg/YmlkPVNuYXBEZWFsIj48dT5TbmFwRGVhbDwvdT48L2E+PC9saT48bGk+PGEgc3R5bGU9IndpZHRoOjEwMCUiIGhyZWYgPSJwcm9kdWN0ZGV0YWlsLmFzcHg/YmlkPUZhYmluZGlhIj48dT5GYWJpbmRpYTwvdT48L2E+PC9saT48bGk+PGEgc3R5bGU9IndpZHRoOjEwMCUiIGhyZWYgPSJwcm9kdWN0ZGV0YWlsLmFzcHg/YmlkPVNob3BwaW5nIj48dT5TaG9wcGluZzwvdT48L2E+PC9saT48bGk+PGEgc3R5bGU9IndpZHRoOjEwMCUiIGhyZWYgPSJwcm9kdWN0ZGV0YWlsLmFzcHg/YmlkPVBlcHBlcmZyeSI+PHU+UGVwcGVyZnJ5PC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9QWlyYW4iPjx1PkFpcmFuPC91PjwvYT48L2xpPjwvdWw+PC9saT48bGkgY2xhc3M9ImRyb3Bkb3duIj48YSBjbGFzcz0iZHJvcGRvd24tdG9nZ2xlIiBkYXRhLXRvZ2dsZT0iZHJvcGRvd24iIGRhdGEtaG92ZXI9ImRyb3Bkb3duIiBocmVmPSIjIiA+TGFwdG9wICYgR2FtaW5nPHNwYW4gY2xhc3M9ImNhcmV0Ij48L3NwYW4+IDwvYT48c3BhbiBjbGFzcz0iZGl2aWRlcjEgaGlkZGVuLXhzIj48L3NwYW4+PHVsIGNsYXNzPSJkcm9wZG93bi1tZW51Ij48bGk+PGEgc3R5bGU9IndpZHRoOjEwMCUiIGhyZWYgPSJwcm9kdWN0ZGV0YWlsLmFzcHg/YmlkPUFtYXpvbiI+PHU+QW1hem9uPC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9RmxpcGthcnQiPjx1PkZsaXBrYXJ0PC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9U2hvcGNsdWVzIj48dT5TaG9wY2x1ZXM8L3U+PC9hPjwvbGk+PGxpPjxhIHN0eWxlPSJ3aWR0aDoxMDAlIiBocmVmID0icHJvZHVjdGRldGFpbC5hc3B4P2JpZD1lQmF5Ij48dT5lQmF5PC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9U2hvcHBpbmciPjx1PlNob3BwaW5nPC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9U25hcERlYWwiPjx1PlNuYXBEZWFsPC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9QXBwbGUiPjx1PkFwcGxlPC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9QW1wbGUgSW5kaWEiPjx1PkFtcGxlIEluZGlhPC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9QWlyVmlzdGFyYSI+PHU+QWlyVmlzdGFyYTwvdT48L2E+PC9saT48bGk+PGEgc3R5bGU9IndpZHRoOjEwMCUiIGhyZWYgPSJwcm9kdWN0ZGV0YWlsLmFzcHg/YmlkPUFnYXRlIj48dT5BZ2F0ZTwvdT48L2E+PC9saT48L3VsPjwvbGk+PGxpIGNsYXNzPSJkcm9wZG93biI+PGEgY2xhc3M9ImRyb3Bkb3duLXRvZ2dsZSIgZGF0YS10b2dnbGU9ImRyb3Bkb3duIiBkYXRhLWhvdmVyPSJkcm9wZG93biIgaHJlZj0iIyIgPk1vYmlsZSAmIFRhYnM8c3BhbiBjbGFzcz0iY2FyZXQiPjwvc3Bhbj4gPC9hPjxzcGFuIGNsYXNzPSJkaXZpZGVyMSBoaWRkZW4teHMiPjwvc3Bhbj48dWwgY2xhc3M9ImRyb3Bkb3duLW1lbnUiPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9RmxpcGthcnQiPjx1PkZsaXBrYXJ0PC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9U2hvcGNsdWVzIj48dT5TaG9wY2x1ZXM8L3U+PC9hPjwvbGk+PGxpPjxhIHN0eWxlPSJ3aWR0aDoxMDAlIiBocmVmID0icHJvZHVjdGRldGFpbC5hc3B4P2JpZD1BbWF6b24iPjx1PkFtYXpvbjwvdT48L2E+PC9saT48bGk+PGEgc3R5bGU9IndpZHRoOjEwMCUiIGhyZWYgPSJwcm9kdWN0ZGV0YWlsLmFzcHg/YmlkPVNuYXBEZWFsIj48dT5TbmFwRGVhbDwvdT48L2E+PC9saT48bGk+PGEgc3R5bGU9IndpZHRoOjEwMCUiIGhyZWYgPSJwcm9kdWN0ZGV0YWlsLmFzcHg/YmlkPWVCYXkiPjx1PmVCYXk8L3U+PC9hPjwvbGk+PGxpPjxhIHN0eWxlPSJ3aWR0aDoxMDAlIiBocmVmID0icHJvZHVjdGRldGFpbC5hc3B4P2JpZD1Ib21lc2hvcDE4Ij48dT5Ib21lc2hvcDE4PC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9QWxkaW5lIj48dT5BbGRpbmU8L3U+PC9hPjwvbGk+PGxpPjxhIHN0eWxlPSJ3aWR0aDoxMDAlIiBocmVmID0icHJvZHVjdGRldGFpbC5hc3B4P2JpZD1BbGNhdGVsIj48dT5BbGNhdGVsPC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9QUtBSSI+PHU+QUtBSTwvdT48L2E+PC9saT48bGk+PGEgc3R5bGU9IndpZHRoOjEwMCUiIGhyZWYgPSJwcm9kdWN0ZGV0YWlsLmFzcHg/YmlkPWFpcnRlbCI+PHU+YWlydGVsPC91PjwvYT48L2xpPjwvdWw+PC9saT48bGkgY2xhc3M9ImRyb3Bkb3duIj48YSBjbGFzcz0iZHJvcGRvd24tdG9nZ2xlIiBkYXRhLXRvZ2dsZT0iZHJvcGRvd24iIGRhdGEtaG92ZXI9ImRyb3Bkb3duIiBocmVmPSIjIiA+T3RoZXJzPHNwYW4gY2xhc3M9ImNhcmV0Ij48L3NwYW4+IDwvYT48c3BhbiBjbGFzcz0iZGl2aWRlcjEgaGlkZGVuLXhzIj48L3NwYW4+PHVsIGNsYXNzPSJkcm9wZG93bi1tZW51Ij48bGk+PGEgc3R5bGU9IndpZHRoOjEwMCUiIGhyZWYgPSJwcm9kdWN0ZGV0YWlsLmFzcHg/YmlkPUZsaXBrYXJ0Ij48dT5GbGlwa2FydDwvdT48L2E+PC9saT48bGk+PGEgc3R5bGU9IndpZHRoOjEwMCUiIGhyZWYgPSJwcm9kdWN0ZGV0YWlsLmFzcHg/YmlkPVNob3BjbHVlcyI+PHU+U2hvcGNsdWVzPC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9QWNlMnRocmVlIj48dT5BY2UydGhyZWU8L3U+PC9hPjwvbGk+PGxpPjxhIHN0eWxlPSJ3aWR0aDoxMDAlIiBocmVmID0icHJvZHVjdGRldGFpbC5hc3B4P2JpZD1BYm9mIj48dT5BYm9mPC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9QWFkaHlhIENyZWF0aW9ucyI+PHU+QWFkaHlhIENyZWF0aW9uczwvdT48L2E+PC9saT48bGk+PGEgc3R5bGU9IndpZHRoOjEwMCUiIGhyZWYgPSJwcm9kdWN0ZGV0YWlsLmFzcHg/YmlkPTg4OGNhc2lubyI+PHU+ODg4Y2FzaW5vPC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9ODg4Ij48dT44ODg8L3U+PC9hPjwvbGk+PGxpPjxhIHN0eWxlPSJ3aWR0aDoxMDAlIiBocmVmID0icHJvZHVjdGRldGFpbC5hc3B4P2JpZD03N0phY2twb3QiPjx1Pjc3SmFja3BvdDwvdT48L2E+PC9saT48bGk+PGEgc3R5bGU9IndpZHRoOjEwMCUiIGhyZWYgPSJwcm9kdWN0ZGV0YWlsLmFzcHg/YmlkPTc3N2Nhc2lubyI+PHU+Nzc3Y2FzaW5vPC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9Nzc3Ij48dT43Nzc8L3U+PC9hPjwvbGk+PC91bD48L2xpPjxsaSBjbGFzcz0iZHJvcGRvd24iPjxhIGNsYXNzPSJkcm9wZG93bi10b2dnbGUiIGRhdGEtdG9nZ2xlPSJkcm9wZG93biIgZGF0YS1ob3Zlcj0iZHJvcGRvd24iIGhyZWY9IiMiID5UcmF2ZWw8c3BhbiBjbGFzcz0iY2FyZXQiPjwvc3Bhbj4gPC9hPjx1bCBjbGFzcz0iZHJvcGRvd24tbWVudSI+PGxpPjxhIHN0eWxlPSJ3aWR0aDoxMDAlIiBocmVmID0icHJvZHVjdGRldGFpbC5hc3B4P2JpZD1NYWtlbXl0cmlwIj48dT5NYWtlbXl0cmlwPC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9T3lvUm9vbXMiPjx1Pk95b1Jvb21zPC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9VGlja2V0Z29vc2UiPjx1PlRpY2tldGdvb3NlPC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9UWF0YXJBaXJ3YXlzIj48dT5RYXRhckFpcndheXM8L3U+PC9hPjwvbGk+PGxpPjxhIHN0eWxlPSJ3aWR0aDoxMDAlIiBocmVmID0icHJvZHVjdGRldGFpbC5hc3B4P2JpZD1NeWJ1c3RpY2tldHMiPjx1Pk15YnVzdGlja2V0czwvdT48L2E+PC9saT48bGk+PGEgc3R5bGU9IndpZHRoOjEwMCUiIGhyZWYgPSJwcm9kdWN0ZGV0YWlsLmFzcHg/YmlkPUhvdGVscyI+PHU+SG90ZWxzPC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9RmluZE15U3RheSI+PHU+RmluZE15U3RheTwvdT48L2E+PC9saT48bGk+PGEgc3R5bGU9IndpZHRoOjEwMCUiIGhyZWYgPSJwcm9kdWN0ZGV0YWlsLmFzcHg/YmlkPUZhYkhvdGVscyI+PHU+RmFiSG90ZWxzPC91PjwvYT48L2xpPjxsaT48YSBzdHlsZT0id2lkdGg6MTAwJSIgaHJlZiA9InByb2R1Y3RkZXRhaWwuYXNweD9iaWQ9QWdvZGEiPjx1PkFnb2RhPC91PjwvYT48L2xpPjwvdWw+PC9saT48L3VsPmQCBw8WAh4Kb25LZXlQcmVzcwUmZG9DbGlja25ldygnY3RsMDBfdHh0c2VhcmNobmV3JyxldmVudClkAgkPZBYCAgEPFgIfAwUgZG9DbGljaygnY3RsMDBfdHh0U2VhcmNoJyxldmVudClkAg0PD2QWAh8ABR9qYXZhc2NyaXB0OnJldHVybiBmb3Jnb3RwYXNzKCk7ZAITD2QWCgIBDxYCHwMFI3Bhc3NzaW5nbnVwKCdjdGwwMF9kaWNlbWFpbCcsZXZlbnQpZAIDDxYCHwMFInBhc3NzaW5nbnVwKCdjdGwwMF9kaWNwYXNzJyxldmVudClkAgUPFgIfAAUeamF2YXNjcmlwdDpyZXR1cm4gZGljZm9yZ2V0KCk7ZAIHDw9kFgIfAAUjamF2YXNjcmlwdDpyZXR1cm4gYnRuc2luZ3VwY2xpY2soKTtkAgkPFgIfAAUiamF2YXNjcmlwdDpyZXR1cm4gYnRuZ3Vlc3RjbGljaygpO2QCFQ8WAh8DBR9wYXNzcmVnKCdjdGwwMF9uZXdtb2JubycsZXZlbnQpZAIXDxYCHwMFH3Bhc3NyZWcoJ2N0bDAwX25ld21vYm5vJyxldmVudClkAhkPFgIfAwUfcGFzc3JlZygnY3RsMDBfbmV3bW9ibm8nLGV2ZW50KWQCGw8WAh8DBR9wYXNzcmVnKCdjdGwwMF9uZXdtb2JubycsZXZlbnQpZAIdDxYCHwMFH3Bhc3NyZWcoJ2N0bDAwX25ld21vYm5vJyxldmVudClkAh8PFgIfAwUfcGFzc3JlZygnY3RsMDBfbmV3bW9ibm8nLGV2ZW50KWQCIw8PZBYCHwAFImphdmFzY3JpcHQ6cmV0dXJuIGJ0bnJlZ3VwY2xpY2soKTtkAicPFgIfAAUfamF2YXNjcmlwdDpyZXR1cm4gcHVycHJvZHVjdCgpO2QYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFDGN0bDAwJG5ld2NoayoSDG9uACtOgZV4s0w6WTixDthl">
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="3BEE8E0F">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWGwL/isH5CQKuy9GaCwKy2ZL+BAKSlsHFBgLE5ML0AgL0rKMbAtfwiZQEApDG+pkOAujIr4QHAv7607MNAtjpnawNAqSW/ZEEAq/IqZQFAvaX5sIKAuyalbUPAp6sk7ALAu2j1p8DAvD1if8GAtOS9PwPAvnI6c8EAtjnphIC2eemEgL+8rHCDgLL8sOOBAKMkdDjBAKl4emaBQKDiZHYAfhRlmwDVCRnSQi0NN4bKT2nt+Ua">
+</div>
+   <div class="header-middle">
+        <!--header-middle-->
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-4">
+                    <div class="logo pull-left xs_logo">
+                        <a href="default.aspx">
+                            <img src="images/home/logo.png" alt=""></a>
+                        <span id="ctl00_lblJavaScript"></span>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-8 xs_account" style="margin-top: 4px;">
+                    <div class="shop-menu pull-right">
+                        <ul class="nav navbar-nav">
+                            <li><a href="javascript:void(0);" id="ctl00_myaccountid1" style="display: none;">
+                                <span id="ctl00_myaccountid" class="btn btn-default login_btn2" text="MY ACCOUNT" onclick="javascript:return myaccountopen();">
+                                    MY ACCOUNT</span> </a></li>
+                            <li><a id="modal_trigger" class="btn" data-toggle="modal" data-target="#myModal">
+                                <input type="submit" name="ctl00$loginid" value="Log In / Sign Up" onclick="javascript:return popupopen();" id="ctl00_loginid" class="btn btn-default login_btn1">
+                            </a></li>
+                            <li><a href="javascript:void(0);" id="ctl00_logoutid1" style="display: none;">
+                                <input type="submit" name="ctl00$logoutid" value="Logout" id="ctl00_logoutid" class="btn btn-default login_btn1"></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="ctl00_pannel1">
+	
+        <nav class="navbar_new navbar_new-default">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle nav_button" data-toggle="collapse" data-target="#divcat">
+                <span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar">
+                </span>
+            </button>    
+            <div class="cls_cat">
+                <span class="cls_cat1">Category</span>
+            </div>                 
+        </div>
+        <div id="divcat" class="collapse navbar-collapse">     
+        <div id="ctl00_ddtopmenubar"><ul class="nav navbar-nav header_nav1"><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">Beauty &amp; Health<span class="caret"></span> </a><span class="divider1 hidden-xs"></span><ul class="dropdown-menu"><li><a style="width:100%" href="productdetail.aspx?bid=Netmeds"><u>Netmeds</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Shopclues"><u>Shopclues</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=LensKart"><u>LensKart</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Amazon"><u>Amazon</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Fabindia"><u>Fabindia</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=eBay"><u>eBay</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=1mg"><u>1mg</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Homeshop18"><u>Homeshop18</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Flipkart"><u>Flipkart</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Jabong"><u>Jabong</u></a></li></ul></li><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">Dining<span class="caret"></span> </a><span class="divider1 hidden-xs"></span><ul class="dropdown-menu"><li><a style="width:100%" href="productdetail.aspx?bid=nearbuy"><u>nearbuy</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=SnapDeal"><u>SnapDeal</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=NaturesBasket"><u>NaturesBasket</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Amazon"><u>Amazon</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Dominos"><u>Dominos</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=bigbasket"><u>bigbasket</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Shopping"><u>Shopping</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=DN"><u>DN</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Colavita"><u>Colavita</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Coke2home"><u>Coke2home</u></a></li></ul></li><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">E-Commerce<span class="caret"></span> </a><span class="divider1 hidden-xs"></span><ul class="dropdown-menu"><li><a style="width:100%" href="productdetail.aspx?bid=Flipkart"><u>Flipkart</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Shopclues"><u>Shopclues</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=SnapDeal"><u>SnapDeal</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Amazon"><u>Amazon</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=eBay"><u>eBay</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=LensKart"><u>LensKart</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Acer"><u>Acer</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=ABRO"><u>ABRO</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Abof"><u>Abof</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Abdullah"><u>Abdullah</u></a></li></ul></li><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">Fashion<span class="caret"></span> </a><span class="divider1 hidden-xs"></span><ul class="dropdown-menu"><li><a style="width:100%" href="productdetail.aspx?bid=--Select Brand--"><u>--Select Brand--</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Flipkart"><u>Flipkart</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Myntra"><u>Myntra</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Faballey"><u>Faballey</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=SnapDeal"><u>SnapDeal</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Shopclues"><u>Shopclues</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Jabong"><u>Jabong</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Yepme"><u>Yepme</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Amazon"><u>Amazon</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Limeroad"><u>Limeroad</u></a></li></ul></li><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">Home Furnishing &amp; Decor<span class="caret"></span> </a><span class="divider1 hidden-xs"></span><ul class="dropdown-menu"><li><a style="width:100%" href="productdetail.aspx?bid=Anjalika"><u>Anjalika</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Fabfurnish"><u>Fabfurnish</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Flipkart"><u>Flipkart</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Amazon"><u>Amazon</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Shopclues"><u>Shopclues</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=SnapDeal"><u>SnapDeal</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Fabindia"><u>Fabindia</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Shopping"><u>Shopping</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Pepperfry"><u>Pepperfry</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Airan"><u>Airan</u></a></li></ul></li><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">Laptop &amp; Gaming<span class="caret"></span> </a><span class="divider1 hidden-xs"></span><ul class="dropdown-menu"><li><a style="width:100%" href="productdetail.aspx?bid=Amazon"><u>Amazon</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Flipkart"><u>Flipkart</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Shopclues"><u>Shopclues</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=eBay"><u>eBay</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Shopping"><u>Shopping</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=SnapDeal"><u>SnapDeal</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Apple"><u>Apple</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Ample India"><u>Ample India</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=AirVistara"><u>AirVistara</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Agate"><u>Agate</u></a></li></ul></li><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">Mobile &amp; Tabs<span class="caret"></span> </a><span class="divider1 hidden-xs"></span><ul class="dropdown-menu"><li><a style="width:100%" href="productdetail.aspx?bid=Flipkart"><u>Flipkart</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Shopclues"><u>Shopclues</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Amazon"><u>Amazon</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=SnapDeal"><u>SnapDeal</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=eBay"><u>eBay</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Homeshop18"><u>Homeshop18</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Aldine"><u>Aldine</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Alcatel"><u>Alcatel</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=AKAI"><u>AKAI</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=airtel"><u>airtel</u></a></li></ul></li><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">Others<span class="caret"></span> </a><span class="divider1 hidden-xs"></span><ul class="dropdown-menu"><li><a style="width:100%" href="productdetail.aspx?bid=Flipkart"><u>Flipkart</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Shopclues"><u>Shopclues</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Ace2three"><u>Ace2three</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Abof"><u>Abof</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Aadhya Creations"><u>Aadhya Creations</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=888casino"><u>888casino</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=888"><u>888</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=77Jackpot"><u>77Jackpot</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=777casino"><u>777casino</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=777"><u>777</u></a></li></ul></li><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" href="#">Travel<span class="caret"></span> </a><ul class="dropdown-menu"><li><a style="width:100%" href="productdetail.aspx?bid=Makemytrip"><u>Makemytrip</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=OyoRooms"><u>OyoRooms</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Ticketgoose"><u>Ticketgoose</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=QatarAirways"><u>QatarAirways</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Mybustickets"><u>Mybustickets</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Hotels"><u>Hotels</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=FindMyStay"><u>FindMyStay</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=FabHotels"><u>FabHotels</u></a></li><li><a style="width:100%" href="productdetail.aspx?bid=Agoda"><u>Agoda</u></a></li></ul></li></ul></div>
+        </div>
+       </nav>
+        <table cellspacing="0" cellpadding="0" width="100%" border="0">
+            <tbody>
+                <tr>
+                    <td id="NewMenu1_Td1" valign="middle" align="center" width="100%" bgcolor="lightgrey" height="1">
+                    </td>
+                </tr>
+                <tr>
+                    <td id="NewMenu1_Td2" valign="middle" align="center" style="display: none;" width="100%" bgcolor="lightgrey" height="1">
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="middle" align="center" width="100%" bgcolor="lightgrey">
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <nav class="navbar navbar-default">
+
+	 <div class="navbar-header">
+            <button type="button" class="navbar-toggle nav_button" data-toggle="collapse" data-target="#myNavbar">
+       			<span class="icon-bar"></span>
+       		 	<span class="icon-bar"></span>
+        		<span class="icon-bar"></span>
+      		</button>
+  <div class="cls_cat">
+                <span id="ctl00_Label6" class="cls_cat2">HOW IT WORKS</span>
+         </div> 
+			<div class="col-xs-5 nav_icons1 visible-xs search_bar">
+				<div class="input-group stylish-input-group txtsearchbutton123" style="">
+                     <img style="cursor: pointer;margin-top: 2.5%;" alt="Search" src="images/search.png">
+					<input name="ctl00$txtsearchnew" type="text" id="ctl00_txtsearchnew" class="form-control search_input txtbutton txtsearchbutton ui-autocomplete-input" placeholder="Search" onkeypress="doClicknew('ctl00_txtsearchnew',event)" autocomplete="off">
+				
+                    
+	
+						<button type="submit">							
+						</button>
+				
+					
+				</div>
+			</div>
+        </div>
+        <div class="collapse navbar-collapse" id="myNavbar">
+
+            <ul class="nav navbar-nav header_nav">
+                <li><a href="default.aspx">Home</a> <span class="divider1 hidden-xs"></span></li>
+                <li><a href="earnrewardspoints.aspx">Earn Reward Points</a> <span class="divider1 hidden-xs"></span></li>
+                <li><a href="redeempoints.aspx">Redeem Reward Points</a> <span class="divider1 hidden-xs"></span></li>
+                <li><a href="faq.aspx">FAQ</a> <span class="divider1 hidden-xs"></span></li>               
+                <li><a href="contactus.aspx">Contact Us</a></li>
+            </ul>
+<div id="ctl00_Panel2">
+		
+
+			<div class="col-xs-3 col_xs3 pull-right hidden-xs" style="margin-top: 3px;">
+				<div class="input-group stylish-input-group" style="width: 75%;background-color: white;border-radius: 10px;">
+                     <img style="cursor: pointer;margin-top: 2.5%;" alt="Search" src="images/search.png">
+					<input name="ctl00$txtSearch" type="text" id="ctl00_txtSearch" class="form-control search_input ui-autocomplete-input" style="border-radius:10px; width: 84%;" placeholder="Search For Merchant / Store" onkeypress="doClick('ctl00_txtSearch',event)" autocomplete="off">
+                   
+                
+                   
+					<span class="input-group-addon">
+						<button type="submit">
+							 
+						</button>
+						 <input type="hidden" name="ctl00$hfCustomerId" id="ctl00_hfCustomerId">
+					</span>
+				</div>
+			</div>
+
+	</div>
+
+        </div>
+    </nav>
+    
+</div>
+    <div style="float: right; width: 215px; position: absolute; right: -36px; top: 26px;">
+        <link href="css/style.css" rel="stylesheet" type="text/css">
+
+        <script language="javascript">
+    function search() {
+        if (event.keyCode == 13 || event.which == 13) {
+            document.getElementById("Searchone1_ImageButton2").click();
+            return false;
+        }
+    } 
+        </script>
+
+        <table cellspacing="0" cellpadding="0" width="60%" border="0">
+            <tbody>
+                <tr style="display: none;">
+                    <td id="Searchone1_Td1" valign="top" colspan="4">
+                        <table cellspacing="0" cellpadding="0" width="100%" border="0">
+                            <tbody>
+                                <tr>
+                                    <td width="90%" valign="top">
+                                        <input name="Searchone1$TextBox1" type="text" id="Searchone1_TextBox1" class="textboxsmall" onkeypress="javascript:return search();">
+                                    </td>
+                                    <td width="10%" valign="top">
+                                        <input type="image" name="Searchone1$ImageButton2" id="Searchone1_ImageButton2" src="images/go_button.jpg" style="border-width: 0px;">
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div>
+        
+    <div style="background: #fff; font-size: 14px; font-family: Arial; margin: 3% 2% 0% 3%; text-align: justify;">
+
+        <div style=" margin-top: 1%;">
+            "Freebeemart" is one of the largest loyalty program in India. To offer best services to our members, we may  seek information from the members time to time. This is solely for the purpose of making the program more meaningful. We are committed to protecting the privacy of our members and their transactions. This section explains how we protect and use your information in safe, secure and responsible manner because we value your privacy.
+
+        </div>
+        <div style=" margin-top: 1%;">
+            <h4>1.Protection of customer data is our priority:
+            </h4>
+        </div>
+        <div style=" margin-top: 1%;">
+            Setting policies and procedures for carefully handling members' information
+Protection against unauthorized access to customer data
+High quality authentication and virus detection technology
+Our service providers comply with privacy laws
+        </div>
+        <div style=" margin-top: 1%;">
+            <h4>2.Information collected
+            </h4>
+        </div>
+
+        <div style=" margin-top: 1%;">We collect and use various types of information from members to service them better. Customer information shall be collected under the following categories.</div>
+        <div style=" margin-top: 1%;">
+            <h4>3.Personally Identifiable Information or (PII):</h4>
+        </div>
+        <div style=" margin-top: 1%;">
+            PII refers to any information that can be used to identify you as an individual in any way. Enrolment in the Freebeemart Program is contingent upon your agreeing to the terms of service and providing basic registration information, including: name, email address, mobilwe number, among others. Members will need to provide freebeemart with the basic personal identification information, wherever required, to avail of all the benefits associated with the program.
+        </div>
+        <div style=" margin-top: 1%;">
+            <h4>4.Profiling Information:
+            </h4>
+        </div>
+        <div style=" margin-top: 1%;">
+            Apart from the above we shall also solicit and collect from the members, time to time details on their preferences, subscription to particular news segments or offers and other promotional activities we do. The decision to participate in such activities is at the sole discretion of the member.
+        </div>
+        <div style=" margin-top: 1%;">
+            <h4>5.Transaction history within the program:
+            </h4>
+        </div>
+        <div style=" margin-top: 1%;">Freebeemart is capable of and will collect information on transactions linked to the Freebeemart account and required for processing of Freebeemart Points, credits and debits to member's accounts. By definition this shall include all transactions on the Website, at the Freebeemart.</div>
+        <div style=" margin-top: 1%;">Partners, all promotional campaigns through emails, SMS or any other communication channel, at any other participating affiliates, subsidiary, program partners, surveys and more.</div>
+        <div style=" margin-top: 1%;">
+            <h4>In some situations, however, we are required to or we may provide all information we collect about you to third parties outside our group companies, as permitted by law, such as, with your consent:
+            </h4>
+        </div>
+        <div style=" margin-top: 1%;">To respond to judicial process, or</div>
+        <div style=" margin-top: 1%;">To consumer reporting agencies; or</div>
+        <div style=" margin-top: 1%;">
+            In connection with a proposed or actual sale, merger, or transfer of all or portion of business; or
+        </div>
+        <div style=" margin-top: 1%;">
+            To protect against fraud, money laundering or other risks
+        </div>
+
+        <div style=" margin-top: 1%;">
+            Some of the data may have to be provided to third party services for the sole purpose of implementing marketing services and for providing customer support services like sending statements.
+        </div>
+        <div style=" margin-top: 1%;">
+            <h4>6.Information Storage
+            </h4>
+        </div>
+        <div style=" margin-top: 1%;">
+            If we use a trusted third party data processors to organise, process, clean &amp; analyse our data to help us better understand the trends and segments within our member base, all such third parties shall be bound by a non-disclosure agreement to maintain the confidentiality of the information shared and will not share the personal information any further or for purposes beyond our specific authorization.
+        </div>
+        <div style=" margin-top: 1%;">
+            In case of redemption offers requiring mailing of vouchers or gift items or rewards to your mailing address, we shall have to part with your personally identifiable information to the extent required, with the redemption fulfilment vendor for delivery of orders and gift certificates. As stated before, strict compliance with a non-disclosure agreement will be sought. Such redemption vendor will not share the personally identifiable information any further or for purposes beyond our specific authorization.
+        </div>
+        <div style=" margin-top: 1%;">
+            We offer you the choice to participate in offers from our partners. It is your decision whether or not to share your personally identifiable information with them. We recommend you to carefully read privacy policy of our partners before divulging your personally identifiable information, as we will not be held liable for the information practices of third-parties. Members may receive promotional offers and campaign details by email among other means. If you have opted to receive promotional offers there will be unsubscribe options with all such category of offers and members can choose to unsubscribe from such offers at any time by following the mentioned procedures.
+        </div>
+        <div style=" margin-top: 1%;">
+            Selectively, members may also receive program offers via your landline or postal mail. Such contacts may result in rewards being issued to the member. We also contact you via email for administrative purposes, such as program change notifications or if we update our privacy promise. While you can elect to stop receiving email for promotional offers (as described above), you cannot unsubscribe from these administrative messages while enrolled in the program. Our member care department may contact you in response to an enquiry you submit. Member care may also contact you in regard to a particular problem that may have occurred with your account or with an offer in which you might have participated. We might use this information to learn further about your participation in the program and make it more relevant to your interests.
+        </div>
+        <div style=" margin-top: 1%;">
+            <h4>7.Information access by member</h4>
+        </div>
+
+        <div style=" margin-top: 1%;">
+            We respect your privacy and are committed to ensuring the confidentiality of your information with us. We may contact you with useful information on products and services through our telemarketing / tele calling activities, which may be beneficial for you. We may also send you newsletters regularly.
+        </div>
+
+        <div style=" margin-top: 1%;">
+            However, if you do not wish to be contacted through our telemarketing calls or messages, newsletters, we request you to kindly register at our contact centre and give details of the telephone on which you do not wish to be contacted.
+        </div>
+        <div style=" margin-top: 1%;">
+            Freebeemart is committed to follow the laws laid out with regards to tele calling and telemarketing and, does follow the guidelines set by any regulatory authority like TRAI in cases of DND policy or any such similar rule which may be in force.
+        </div>
+        <div style=" margin-top: 1%;">
+            Once you have registered for any such DND policy:
+        </div>
+        <div style=" margin-top: 1%;">
+            Your telephone number(s) will be removed from all our telemarketing calling lists within 30 working days.
+        </div>
+        <div style=" margin-top: 1%;">We will ensure that you do not get any further telemarketing calls on the telephone number(s) that you have registered</div>
+        <div style=" margin-top: 1%;">
+            <h4>8.Aggregate Data: We do not provide any of your personally identifiable information to our advertisers.
+            </h4>
+        </div>
+        <div style=" margin-top: 1%;">
+            Because we contact you on their behalf, they do not have access to your personally identifiable information unless you make the choice to share it with them. We may share non-personally identifiable information collected via the program in aggregate (or grouped), anonymous form with advertisers or other third parties so that they may better evaluate what products and services are most appealing to different segments of our member base, but we do not disclose your personally identifiable information to these third parties without your consent.
+        </div>
+        <div style=" margin-top: 1%;">
+            <h4>9.Anti-Spam Policy:
+            </h4>
+        </div>
+
+        <div style=" margin-top: 1%;">
+            Because email is an integral part of the program, your sharing of email contact with us allows us to share the program information, offers and promotions via email with you. If you later decide you wish to cease participation in this portion of the program, you may do so at any time by unsubscribing to our communication. Please note that opting not to receive email does not exempt you from receiving administrative emails that include but are not limited to, notices about vital program and membership status changes or alterations to our terms of service or any other service requests, redemption orders placed with us.
+        </div>
+
+        <div style=" margin-top: 1%;">
+            <h4>10.Security of Information</h4>
+        </div>
+
+        <div style=" margin-top: 1%;">
+            We maintain physical, electronic and procedural safeguards to protect customer information. Specific employees are authorized to access customer information on a need to know basis for business purposes only. Our employees are bound by code of ethics that requires confidential treatment of customer information and are subject to disciplinary action if they fail to follow this code.
+        </div>
+
+        <div style=" margin-top: 1%;">
+            <h4>11.Please provide accurate information:</h4>
+        </div>
+        <div style=" margin-top: 1%;">It is in your interest and it is our objective, to have accurate, current and complete information concerning you and your account. We have strict procedures that our employees abide by to meet this objective. While some procedures are required by Central, State or RBI regulations, we have implemented additional procedures to maintain accurate, correct and complete financial information, including processes to update information and remove outdated information. If you believe that we have incorrect information about you or your accounts, please intimate us. We will correct any erroneous information as soon as possible</div>
+
+        <div style=" margin-top: 1%;">
+            <h4>12.Grievance cell:</h4>
+        </div>
+        <div style=" margin-top: 1%;">In the event you have any queries or issues in relation to collection or usage of your personal information, please contact support@freebeemart.com</div>
+
+    </div>
+
+    </div>
+    <div id="forgot_pass" class="for_container" style="background-color: White; display: none">
+        <div class="forgot_dv">
+            Forgot Password..
+            <input type="submit" name="ctl00$closeforget" value="X" onclick="javascript:return forgotpass();" id="ctl00_closeforget" class="closeforgot btn-small btn-info" style="font-weight:bold;">
+        </div>
+        <div class="forgot_dv1">
+            <input name="ctl00$for_password" type="text" id="ctl00_for_password" placeholder="Enter your email" style="border-radius: 0px; font-weight: bold; margin: 0px;
+                width: 65%;">
+        </div>
+        <div class="forgot_dv2">
+            <input type="submit" name="ctl00$forget_submit" value="Submit" onclick="javascript:return reset_password();" id="ctl00_forget_submit" class="btn btn-medium btn-info bt_pd">
+        </div>
+    </div>
+    
+    <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog modal-md">
+            <!-- Modal content-->
+            <div id="ctl00_LOGIN_DIVLOGIN" class="modal-content r_modal">
+                <div class="modal-header">
+                
+                    <button type="button" id="myBtn" class="close" data-dismiss="modal">
+                        ×</button>
+                    <h4 class="modal-title">
+                        <strong>LOGIN</strong></h4>
+                </div>
+                <div class="modal-body r_body">
+                    <div class="container r_login_container">
+                        <div class="col-xs-12 r_padding_LR_0">
+                            <button type="button" class="btn btn-default r_action_btns" data-toggle="modal" data-dismiss="modal" data-target="#r_register">
+                                <strong>New User Register Here</strong></button>
+                        </div>
+                        <div class="col-xs-12 row-eq-height r_login_body r_margin_top_20 r_padding_LR_0">
+                            <div class="col-xs-12 col-sm-6 r_user_login">
+                                <h5>
+                                    <strong>EXISTING USERS, LOGIN:</strong></h5>
+                                <input name="ctl00$dicemail" type="text" id="ctl00_dicemail" placeholder="E-mail or mobile no." onkeypress="passsingnup('ctl00_dicemail',event)">
+                                <input name="ctl00$dicpass" type="password" id="ctl00_dicpass" placeholder="password" onkeypress="passsingnup('ctl00_dicpass',event)">
+                                <a href="javascript:void(0);" id="ctl00_dicforget" class="r_forgot_password" onclick="javascript:return dicforget();">
+                                    Forgot password?</a>
+                                <div class="r_checkbox_1">
+                                    <label class="r_span_1">
+                                        <input id="remember" type="checkbox">
+                                        <span for="remember" class="r_txt_remember">Keep me signed in</span>
+                                    </label>
+                                    <a href="javascript:void(0);">
+                                        <input type="submit" name="ctl00$btnsingup" value="Sign In" onclick="javascript:return btnsingupclick();" id="ctl00_btnsingup" class="r_sign_in">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-6 text-center r_user_guest">
+                                <div class="r_inner_div" style="display: none;" id="div_points">
+                                    <h3 class="r_h3_shadow">
+                                        NOT REGISTERED?</h3>
+                                    <br>
+                                    <div class="r_div1">
+                                        <a href="#" id="ctl00_btnguest" class="r_new_guest" onclick="javascript:return btnguestclick();">Continue as Guest</a>
+                                    </div>
+                                </div>
+                                <div class="r_inner_div" id="div_direct" style="display: block;">
+                                    <div class="r_div1">
+                                        <img src="img/BSNLLogo2.png">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 hidden-xs r_user_info1">
+                            <div class="r_user_info2">
+                                <p>
+                                    <span class="glyphicon glyphicon-play"></span>EARN REWARDS WHEN YOU SHOP THROUGH US</p>
+                                <p>
+                                    <span class="glyphicon glyphicon-play"></span>REDEEM REWARDS AGAINST CASH GIFT VOUCHERS</p>
+                                <p>
+                                    <span class="glyphicon glyphicon-play"></span>NO SHOPPING REWARD POINTS AT AMAZON</p>
+                                <p>
+                                    <span class="glyphicon glyphicon-play"></span>1000+ PARTNER SITES</p>                               
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="r_register" role="dialog">
+        <div class="modal-dialog modal-md">
+            <!-- Modal content-->
+            <div class="modal-content r_modal">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">
+                        ×</button>
+                    <h4 class="modal-title">
+                        <strong>REGISTER</strong></h4>
+                </div>
+                <div class="modal-body r_body">
+                    <div class="container r_login_container">
+                        <div class="col-xs-12 r_padding_LR_0">
+                            <button type="button" class="btn btn-default r_action_btns" data-toggle="modal" data-dismiss="modal" data-target="#myModal">
+                                <strong><span class="glyphicon glyphicon-arrow-left"></span>&nbsp;LOGIN</strong></button>
+                        </div>
+                        <div class="col-xs-12 r_register_body r_margin_top_20">
+                            <div class="col-xs-12 r_register_login">
+                                <input name="ctl00$newmobno" type="text" id="ctl00_newmobno" placeholder=" BSNL MOBILE NUMBER OR LANDLINE NUMBER" onkeypress="passreg('ctl00_newmobno',event)">
+                                <input name="ctl00$newfullname" type="text" id="ctl00_newfullname" placeholder="FULL NAME" onkeypress="passreg('ctl00_newmobno',event)">
+                                <input name="ctl00$newemail" type="text" id="ctl00_newemail" placeholder="EMAIL ID" onkeypress="passreg('ctl00_newmobno',event)">
+                                <input name="ctl00$newpass" type="password" id="ctl00_newpass" placeholder="PASSWORD(MIN. 8 CHARACTERS)" onkeypress="passreg('ctl00_newmobno',event)">
+                                <input name="ctl00$newconfirm" type="password" id="ctl00_newconfirm" placeholder="CONFIRM PASSWORD" onkeypress="passreg('ctl00_newmobno',event)">
+                                <input name="ctl00$newcity" type="text" id="ctl00_newcity" placeholder="CITY" onkeypress="passreg('ctl00_newmobno',event)">
+                                <div class="r_checkbox_2">
+                                    <label class="r_span_1">
+                                        <input name="ctl00$newchk" type="checkbox" id="ctl00_newchk">
+                                        <span for="remember" class="r_txt_remember">I Agree with the terms and conditions.</span>
+                                    </label>
+                                    <label class="r_span_2">
+                                        <a href="javascript:void(0);">
+                                            <input type="submit" name="ctl00$btnregup" value="Register Me !!" onclick="javascript:return btnregupclick();" id="ctl00_btnregup" class="r_register_1">
+                                        </a>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
+    <div class="modal fade" id="r_coupon" role="dialog">
+        <div class="modal-dialog modal-md">
+            <!-- Modal content-->
+            <div class="modal-content r_modal">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">
+                        ×</button>
+                    <h4 class="modal-title">
+                        <strong>Coupon</strong></h4>
+                </div>
+                <div class="modal-body r_body">
+                    <div class="container r_login_container">
+
+                        <div class="col-xs-12 r_register_body r_margin_top_20">
+                            <div class="col-xs-12 r_register_login">
+                               
+                                <div class="r_checkbox_2">
+                                <span id="ctl00_lblcoptitle"></span>
+                                 </div>
+                                <div class="r_checkbox_2">
+                                <input id="url" class="couponcd" type="text" disabled="" value="ABCDEF">
+                                  <a href="javascript:void(0);" onclick="copyfieldvalue(event, 'url');return false"><u>COPY CODE</u></a>
+                                </div>
+                                <div class="r_checkbox_2">
+                                    <label class="r_span_2">
+                                    <a href="javascript:void(0);" id="ctl00_A2" class="new_guest" onclick="javascript:return purproduct();">I UNDERSTAND, VISIT RETAILER</a>                                        
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                          <div class="col-xs-12 hidden-xs r_user_info1">
+                            <div class="r_user_info2">
+                                <p>
+                                    <span class="glyphicon glyphicon-play"></span>EARN REWARDS WHEN YOU SHOP THROUGH US</p>
+                                <p>
+                                    <span class="glyphicon glyphicon-play"></span>REDEEM REWARDS AGAINST CASH GIFT VOUCHERS</p>
+                                <p>
+                                    <span class="glyphicon glyphicon-play"></span>EXCLUSIVE DEALS AND DISCOUNTED COUPONS</p>                             
+                                <p>
+                                    <span class="glyphicon glyphicon-play"></span>1000+ PARTNER SITES</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+
+
+          <div class="textrow">
+                
+                    <h4>About Freebeemart.com:</h4>
+                    
+<span class="textrowfont"> Freebeemart is one of the largest loyalty programs in India. Under this program, BSNL customers collect loyalty Points when they pay their bills and recharge talktime. The customers earn more Points when they do their regular shopping.                
+                 <br>
+                 <br>
+                 
+All you have to do is to go to your favourite store through Freebeemart. Then do your regular shopping. You get best deals and earn reward points from Freebeemart.
+                 <br>
+                 <br>
+                 
+For example, if you want to shop for a shirt, go to <a href="http://www.freebeemart.com"><u>www.freebeemart.com</u></a> first and access your favorite store (say, Flipkart) from <a href="http://www.freebeemart.com"><u>www.freebeemart.com</u></a>. Do your regular shopping and we will give you Reward points.
+                 <br>
+                 <br>
+                 
+Once you add up reward points, you can redeem the points against Gift Vouchers of 140 stores. You can shop at these 140 stores using the gift vouchers.
+          <br>
+                 <br>
+                 
+</span>
+
+                
+           <h4 style="display:none;">Our Partner Stores:</h4>  
+            <span id="ctl00_brandcat" style="width:100%;">
+               
+            </span> 
+                 <br>
+                 <br>
+                 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+    <table cellspacing="0" cellpadding="0" align="center">
+        <tbody><tr>
+            <td>
+                <hr>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                    <tbody><tr>
+                        <td align="center" height="20" width="100%" class="matterblue2">
+                            <a href="earnrewardspoints.aspx" style="font-size: 12px; color: #003366; text-decoration: none">
+                                Earn Reward Points</a> &nbsp;&nbsp;<font class="matterblue2">|</font>&nbsp;&nbsp;<a href="redeempoints.aspx" style="font-size: 12px; color: #003366; text-decoration: none">Redeem
+                                    Reward Points</a>&nbsp;&nbsp;<font class="matterblue2">|</font>&nbsp;&nbsp;<a href="faq.aspx" style="font-size: 12px; color: #003366; text-decoration: none">FAQ</a>&nbsp;&nbsp;<font class="matterblue2">|</font>&nbsp;&nbsp;<a href="termsconditions.aspx" style="font-size: 12px;
+                                                color: #003366; text-decoration: none">Terms and Conditions</a>&nbsp;&nbsp;<font class="matterblue2">|</font>&nbsp;&nbsp;<a href="policy.aspx" style="font-size: 12px;
+                                                color: #003366; text-decoration: none">Privacy Policy</a>&nbsp;&nbsp;<font class="matterblue2">|</font>&nbsp;&nbsp;<a href="contactus.aspx" style="font-size: 12px;
+                                                color: #003366; text-decoration: none">Contact Us</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" height="20" width="100%" class="matterblack">
+                            <span class="Apple-style-span" style="word-spacing: 0px; font: 16px 'Times New Roman';
+                                text-transform: none; color: rgb(0,0,0); text-indent: 0px; white-space: normal;
+                                letter-spacing: normal; border-collapse: separate; orphans: 2; widows: 2; webkit-border-horizontal-spacing: 0px;
+                                webkit-border-vertical-spacing: 0px; webkit-text-decorations-in-effect: none;
+                                webkit-text-size-adjust: auto; webkit-text-stroke-width: 0px"><span class="Apple-style-span" style="font-size: 12px; font-family: Arial">@ Copyright 2016, AT Data Process Pvt.
+                                    Ltd. All rights reserved.</span>&nbsp;&nbsp;<span style="font-size: 12px; font-family: Arial"></span>&nbsp;&nbsp;<a style="font-size: 12px; font-family: Arial;" target="_blank" href="http://www.4cplus.com"><u></u></a></span>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody></table>
+    <input name="ctl00$Hidden2" type="hidden" id="ctl00_Hidden2">
+    <input name="ctl00$Hidden1" type="hidden" id="ctl00_Hidden1">
+    <input name="ctl00$hdnusername" type="hidden" id="ctl00_hdnusername">
+    <input name="ctl00$hdntype" type="hidden" id="ctl00_hdntype">
+    <input name="ctl00$hdnuserid" type="hidden" id="ctl00_hdnuserid">
+    <input name="ctl00$hdnguest" type="hidden" id="ctl00_hdnguest">
+    <input name="ctl00$hdnbtnchk" type="hidden" id="ctl00_hdnbtnchk">
+    </form>
+
+    <script type="text/javascript">
+function copyfieldvalue(e, id){
+
+	var field = document.getElementById(id)
+	field.focus()
+	field.setSelectionRange(0, field.value.length)
+	var copysuccess = copySelectionText()
+	
+	if (copysuccess){
+		showtooltip(e)
+	}
+	
+}
+
+function copySelectionText(){
+	var copysuccess // var to check whether execCommand successfully executed
+	try{
+		copysuccess = document.execCommand("copy") // run command to copy selected text to clipboard
+	} catch(e){
+		copysuccess = false
+	}
+return copysuccess
+}
+
+
+    </script>
+
+
+
+    <script>
+        //$('ul.nav li.dropdown').hover(function () {
+        //    $(this).find('.dropdown-menu').stop(true, true).delay(200).fadeIn(500);
+        //}, function () {
+        //    $(this).find('.dropdown-menu').stop(true, true).delay(200).fadeOut(500);
+        //});
+    </script>
+
+
+
+<ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-1" tabindex="0" style="display: none;"></ul><span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-2" tabindex="0" style="display: none;"></ul><span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span></body></html>
