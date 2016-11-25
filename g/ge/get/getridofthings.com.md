@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the getridofthings.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605234745id_/http%3A//www.getridofthings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getridofthings.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125215624id_/http%3A//www.getridofthings.com/privacy) for the most accurate reproduction.*
 
-# Privacy - GETRIDOFTHINGS.com
+# Privacy - GETRIDOFTHiNGS.COM
+
+  * ARTICLES
+
+
+
+## A do-it-yourself guide for getting rid of just about anything.
 
 Saint Paul Media, Inc. (SPM) websites, including GetRidofThings.com (GROT), are governed by the following privacy policy.
 
