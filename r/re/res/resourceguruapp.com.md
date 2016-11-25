@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resourceguruapp.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416173227id_/http%3A//resourceguruapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resourceguruapp.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125201247id_/http%3A//resourceguruapp.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | resource scheduling software | Resource Guru
 
@@ -49,7 +49,7 @@ We may use clear GIFs (also known as web beacons) in emails sent to our users to
 
 We take the security of your data extremely seriously
 
-  * **Transmission** \- the information you submit to us via our website is always sent over a secure connection using 256-bit SSL encryption (the same level of encryption used by leading banks).
+  * **Transmission** \- the information you submit to us via our website is always sent over a secure connection using 128-bit SSL encryption ([the same level of encryption used by leading websites](https://help.resourceguruapp.com/customer/portal/articles/2376591-why-does-resource-guru-use-a-128-bit-ssl-connection-instead-of-a-256-bit-one-)).
   * **A secure platform** \- we utilize a highly scalable cloud computing platform supplied by an ISO 27001 certified provider with extremely high levels of availability and reliability. The services and data centers have multiple layers of operational and physical security to help ensure the integrity and safety of your data. The actual location of the data centers is only known to those who have a legitimate business reason to know. Our application has been designed to protect against common web attacks and our systems are kept up to date with the latest software versions and security patches.
   * **Permissions** \- we know that you need to control who has access to your data. That's why we built in some advanced user permissions which allow you to control who has access to the different sections of your account.
   * **Storage and backups** – in order to prevent unauthorized access or disclosure there are physical, managerial and technical safeguards to preserve the integrity and security of your personal information. For example, we regularly back up your data to help prevent data loss and aid in data recovery
