@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the legaladvantage.net privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402083010id_/http%3A//legaladvantage.net/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legaladvantage.net privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125045201id_/http%3A//legaladvantage.net/Privacy) for the most accurate reproduction.*
 
-# Legal Advantage - Patent Search, Patent Illustrations & Language Translation Services
+# Patent Search, Patent Illustrations & Translation Services
 
 Legal Advantage is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Legal Advantage Web site and governs data collection and usage. By using the Legal Advantage website, you consent to the data practices described in this statement.
 
