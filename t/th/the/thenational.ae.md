@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the thenational.ae privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619185916id_/http%3A//www.thenational.ae/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenational.ae privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125185103id_/http%3A//www.thenational.ae/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | The National
 
-**Website Privacy Statement**
+Privacy
+
+## Website Privacy Statement
 
 This privacy statement has been created in order to demonstrate The Abu Dhabi Media commitment to privacy. Due to the sensitive nature of the information we collect from our users, including address and phone numbers, we believe it is important to satisfy strict privacy requirements. The following discloses our information gathering and dissemination practices for this website:
 
