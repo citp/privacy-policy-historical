@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gomediazine.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603024454id_/http%3A//gomedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomediazine.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126151241id_/http%3A//gomedia.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Go Media™ · Creativity at work!
+# Privacy - Go Media - Creativity at Work
 
 Protecting your private information is a steadfast & ongoing priority at Go Media Inc. This Statement of Privacy applies to the gomedia.com and Go Media Inc. and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Go Media Inc. include gomedia.com, My Go Media and my.gomedia.us and The Go Media Arsenal, arsenal.gomedia.us. Go Media websites provide hosted solutions, professional services & digital resources. By using a Go Media website, you consent to the data practices described in this statement.
 
@@ -20,7 +20,7 @@ Go Media collects and uses your personal information to operate its website(s) a
 
 Go Media may also use your personally identifiable information to inform you of other products or services available from Go Media. Go Media may contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-**Go Media does not sell, rent or lease its customer lists to third parties.**
+ **Go Media does not sell, rent or lease its customer lists to third parties.**
 
 Go Media may share general data with trusted vendors to help perform analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Go Media, and they are required to maintain the confidentiality of your information.
 
