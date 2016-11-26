@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startuphire.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604153415id_/http%3A//www.startuphire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startuphire.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126233949id_/http%3A//www.startuphire.com/privacy) for the most accurate reproduction.*
 
 # StartUpHire - Privacy Policy
 
