@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hostingdecisions.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608005828id_/http%3A//hostingdecisions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostingdecisions.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126223427id_/http%3A//hostingdecisions.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - HostingDecisions
+# Privacy Policy | HostingDecisions
 
 Wherein the privacy of data shared by the clients is of valuable concern in the Internet world, we hold a great significance for the privacy of our readers and visitors. The way the visitor’s data is used and managed by **[HostingDecisions](http://hostingdecisions.com/) **is mentioned in this document and these statements are applied to all the services associated with our site.
 
