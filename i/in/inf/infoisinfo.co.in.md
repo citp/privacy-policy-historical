@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoisinfo.co.in privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314162943id_/http%3A//www.infoisinfo.co.in/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoisinfo.co.in privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126142510id_/http%3A//www.infoisinfo.co.in/policy) for the most accurate reproduction.*
 
 # Privacy policy Infoisinfo
 
@@ -35,7 +35,7 @@ The user has the right to access this information, to modify it if the data is i
 In the case of problems in the online effective performance, or for any kind of inquiry or controversy related to our data privacy policy, you may contact us directly: 
 
 By e-mail: users@infoisinfo.co.in   
-By phone: (+34) 910149822  
+By phone: (+61) 290373805  
 By mail:COMERLEADS, S.L.  
 Calle Alejandro González, 5 – 6º B  
 28028 Madrid (Spain) 
