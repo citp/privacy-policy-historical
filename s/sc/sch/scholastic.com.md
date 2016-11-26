@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scholastic.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623185930id_/http%3A//www.scholastic.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholastic.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126013822id_/http%3A//www.scholastic.com/privacy.htm) for the most accurate reproduction.*
 
-# Terms of Use | Scholastic Inc.
+# Privacy Policy | Scholastic Inc.
 
 Scholastic knows that your privacy is important to you, and we want you to know that it is important to us too. Unless otherwise specified in connection with a particular activity, this Policy explains the types of information we collect through our Web sites, online services or applications on which this Policy is posted (each, a "Site"), how we will use, disclose and protect this information once it is collected, and how you can opt out of some of our uses and disclosures of your information. By visiting our Site, you agree to the terms of this Privacy Policy.
 
