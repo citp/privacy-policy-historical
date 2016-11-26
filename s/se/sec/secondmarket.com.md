@@ -1,106 +1,94 @@
-> *The following text is extracted and transformed from the secondmarket.com privacy policy that was archived on 2016-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160311165233id_/https%3A//www.secondmarket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secondmarket.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126110601id_/http%3A//www.nasdaqprivatemarket.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SecondMarket
+# Privacy Policy | Nasdaq Private Market
 
-## Privacy Policy
+###### DATE LAST REVISED: JULY 29, 2014
 
-Effective Date: September 25, 2015
+This Privacy Policy is incorporated by reference into the NASDAQ Private Market [User Agreement](https://www.nasdaqprivatemarket.com/legal/user-agreement) and the ExactEquity [Terms of Service agreement](https://www.nasdaqprivatemarket.com/site/terms.php) (“ **Terms** ”). The term “ **NASDAQ Private Market,** ” “ **we,** ” and “ **us** ” includes The NASDAQ Private Market, LLC and our affiliates and subsidiaries. The Privacy Policy explains how NASDAQ Private Market may:
 
-This Privacy Policy or “Policy” explains how SecondMarket Solutions, Inc. and its subsidiaries and affiliates, including SMTX, LLC (collectively, “SecondMarket”, “we”, “our”, and “us”) collect and protect Personal Information (as defined below). If you have any questions that this Policy does not address, please contact us at [legal@secondmarket.com](mailto:legal@secondmarket.com). By creating an account on or participating in any program or transaction conducted through any SecondMarket site (a “SecondMarket Site”) or by otherwise submitting Personal Information to us through a SecondMarket Site, you give your consent to the collection and use of your Personal Information as explained in this Policy. This Policy is part of our Terms of Service and all capitalized terms used but not defined in this Policy have the meaning given to them in the [Terms of Service](https://web.archive.org/terms/).
-
-SecondMarket’s Policy applies to current and former SecondMarket clients and any other users of any SecondMarket Site. The term “Personal Information” refers to non-public information that personally relates to or identifies you as an individual or entity.
-
-#### Updates and Changes to Our Privacy Policy
-
-Please note that, in the event of a change in policy, a revised Policy will promptly be posted to this SecondMarket Site. You agree to accept posting of a revised Policy electronically on this SecondMarket Site as actual notice to you. Any dispute over our Policy is subject to this notice.
-
-#### How and Why We Gather Information
-
-When you sign up to participate on a SecondMarket Site, you may be asked to provide information such as your full legal name, address and date of birth, along with other personal information that is required to verify your identity and fulfill our legal and regulatory requirements. This information will also be used to transact your business and communicate with you. From time to time, we may request additional information to help us further assess your needs and preferences.
-
-#### Types of Information We Collect
-
-The information we collect and maintain about you is provided during the course of your entering into transactions with private issuers who have engaged SecondMarket to provide certain services in the context of a private securities transaction facilitated through SecondMarket. This Personal Information, not available publicly, comes from the following sources:
-
-  * Information you provide to us when you fill out account opening documents, complete a form or make a request for services, including your name, address, age, Social Security number and/or taxpayer identification number, investment objectives, investment experience, assets and liabilities and/or income details and confidential documentation used to verify those details, telephone number, e-mail address and similar information; and
-  * Information from your transactions through us, such as your sale proceeds or investment amount.
+  * collect,
+  * use, and
+  * disclose information we obtain through the “ **Site** ,” as defined in the [User Agreement.](https://www.nasdaqprivatemarket.com/legal/user-agreement)
 
 
 
-#### How We Protect Your Information
+An “ **RBD** ” means a sponsoring registered broker-dealer, and its affiliates.
 
-**Keeping Information Safe**
+“ **You** ” and “ **Users** ” means all users who have registered to use the Site. Users may include issuers, issuers’ administrators or representatives, RBDs, clients of RBDs, and investors.
 
-We limit access to the Personal Information you provide us to those employees who need access to that information in order to provide you with services related to the transactions you are entering into through the SecondMarket Sites. In keeping with industry standards and practices, we maintain appropriate physical, electronic and procedural safeguards, and controls designed to protect your Personal Information.
+##### THE SITE COLLECTS INFORMATION
 
-We have invested in software, systems and procedures aimed at offering you a safe and secure transaction environment and protect your personal, financial and historical transaction information. While no security system is absolutely impenetrable, we plan to constantly review, refine and upgrade our security technology as new tools become available.
+**Profile Information.**  You may need to create an account to use parts of the Site. For basic registration, you may need to provide personal information, such as your name, email address, and password. To access and use certain additional information and functionality you may need to provide additional personal information. For example, if you are a potential investor, you may need to submit an investor questionnaire to ensure that you are eligible under securities laws to invest in the securities offered through the Site (the “ **Investor Questionnaire** ”). The Investor Questionnaire may request your address, date of birth, driver’s license number, social security number, employer information, citizenship, income, net worth, investment experience, and other bank or financial information.
 
-**The Importance of Being Accurate**
+**Using the Site.**  We collect the information that you post through the Site, including personal information. For example, when you complete transactions or communicate through the Site, the Site will collect the information provided as part of such submissions, including any personal information.
 
-We have security standards and procedures in place designed to prevent unauthorized access to your Personal Information. A key part of this process helps ensure that the Personal Information we have about you is accurate and up-to-date. If you ever discover inaccuracies in our data or if your Personal Information changes, we urge you to notify us immediately. We only use your Personal Information as appropriate to provide you with quality services and to ensure security. For example, we may use the information collected from you to verify your identity and contact information. We may also use this information to establish and set up your trading account and maintain your trading information. This information helps us improve our services to you.
+**Financial and Equity Holding Information.**  The Site may collect certain financial information from you, such as bank account information, to properly facilitate transactions and in connection with your Investor Questionnaire. If a company in which you hold equity is using ExactEquity for equity plan management, that company and you may provide us personal and financial information, records, instructions and documents relating to your equity holdings and related transactions.
 
-**An Ongoing Commitment to Your Privacy**
+**Collection with RBDs.**  When we collect information from and about a client of a RBD through the Site, we jointly collect such information for our purposes as well as for the RBD’s purposes. Please see the privacy policy for the RBD with which you have a business relationship to learn about such RBD’s privacy practices.
 
-We are just as committed to protecting the privacy of our former clients as we are our current clients. If you choose to become an inactive client, your Personal Information will continue to be protected by the privacy policies and principles described in the then-current version of this Policy. Should you close your account with us, SecondMarket will retain your information for regulatory compliance, internal record-keeping and other legal purposes.
+**Customer Support.**  We may collect personal information through your communications with our customer-support team.
 
-#### How Information Helps Both You and Us
+**Cookies, Automatic Data Collection, and Related Technologies.**  The Site collects and stores information recording interaction with the Site and applications available via the Site (such as system logs and IP addresses) that is generated automatically as you use it, including preferences and anonymous usage statistics.
 
-Our mission is clear: to simplify private issuer financial transactions. Information about you and your accounts plays a key role in our ability to succeed in this mission. It also helps us service our private issuer clients and administer our business. For example, we use information about you to:
+By using the Site, you are authorizing us to gather, parse, and retain data related to the provision of the Site.
 
-  * Respond more accurately and efficiently to your requests for assistance; and
-  * Secure your accounts and help protect you and SecondMarket from fraud.
+##### HOW THE NASDAQ PRIVATE MARKET USES INFORMATION
 
+**Internal and Service-Related Usage.**  We use information, including personal information, for internal and service-related purposes and may provide it to third parties to allow us to facilitate transactions pursuant to your request/instructions and functionalities on the Site. We may use and retain any data we collect to provide and improve our services, and as described in the Terms.
 
+**Marketing.**  At the request of RBDs, we may use information, including personal information, about you to provide a RBD’s marketing and advertising to you.
 
-#### Sharing Your Information with Unaffiliated Third Parties
+**Communications.**  We may send emails to you to verify your account and for informational and operational purposes, such as account management, customer service, or system maintenance.
 
-We Limit the Sharing of Information
+**Aggregate Data.**  We may anonymize and aggregate data collected through the Site and use that anonymized and aggregated data for any purpose.
 
-To protect your privacy, we limit the sharing of your Personal Information outside of SecondMarket. We conduct our business with great respect for the confidential nature of the information being provided. We will not share Personal Information about you except as outlined below:
+##### THE NASDAQ PRIVATE MARKET MAY DISCLOSE INFORMATION
 
-  * To help us provide our services to our private issuer clients, you and/or to improve our services, we engage qualified and reputable third parties to help us to carry out certain functions such as account processing, client services and/or data collection relevant to our business. For example, in each case where you enter into a financial transaction through a SecondMarket Site, we share your Personal Information with third party service providers in order to perform regulatory-required background checks and with certain technology providers to facilitate document execution. Pursuant to our agreements with these service providers, their ability to use your Personal Information is specifically limited to the service being provided.
-  * To the extent that you upload Personal Information and sign transactional documentation via a SecondMarket Site in connection with an investment, sale of equity or other transaction, we may share your Personal Information and the documentation that you execute with the parties with which you are transacting.
-  * As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Information may be part of the transferred assets.
-  * SecondMarket may share information with our affiliates if the information is required to provide the services you request. An affiliate is a company that we own or control, or with which there is common ownership with us.
-  * SecondMarket also reserves the right to disclose your personal information where required by law to regulatory, law enforcement or other government authorities, including during routine regulatory examinations. We may also disclose your information as necessary to credit reporting or collection agencies, or when necessary to protect our rights or property.
+**We Use Vendors and Service Providers.**  We may share any information we receive with vendors and service providers retained in connection with the provision of the Site.
 
+**Share with Users.**  The information collected by the Site may be displayed on the Site. For example, we may display information on an “account” page describing your transaction history. We are not responsible for the privacy practices of those who will view and use the posted information.
 
+**Provide to transaction counterparties.**  If a company in which you hold equity is using ExactEquity for equity plan management, either that company or you may provide us information, records, instructions and documents relating to your equity holdings and related transactions. We may communicate about and provide such information, records, instructions and documents to the company or to your financial institution in order for us to provide such equity plan management services to the company and you.
 
-#### Reviewing, Changing or Correcting Information
+**Provide to RBDs.**  As described above, we collect information for RBDs from and about their clients when they use the Site. If you are using the Site as a client of a RBD, we may provide the information, records, and documents collected from or about you through the Site to the RBD with which you have a business relationship so they can provide services to you. For example, if you are an investor, we may provide your profile information, including any submitted Investor Questionnaire, to the RBD with which you are doing business so the RBD can confirm whether such investor meets securities law qualifications for the offering of a particular security. We may provide Users with controls to determine how we provide information to third parties. We are not responsible for the privacy practices of RBDs who receive information about you. Please see the privacy policy for the RBD with which you have a business relationship to learn about such RBD’s privacy practices.
 
-You are responsible for helping us to maintain the accuracy and completeness of your Personal Information and other data. We urge you to review your information regularly to ensure that it is correct and complete. If you would like to review your Personal Information or if you believe that any of your Personal Information is incorrect, or if you have any questions regarding your Personal Information, or this Privacy Policy, please contact us at [legal@secondmarket.com](mailto:legal@secondmarket.com).
+**Marketing.**  We do not rent, sell, or share personal information about you with other people or nonaffiliated companies for their direct marketing purposes. We process information on behalf of RBDs. At the direction of a RBD with whom you have a business relationship, we may allow the RBD and its vendors access to information about you. They may use such information to enable the delivery of online advertising on this platform, or to otherwise facilitate transmittal of information the RBD thinks may be useful or relevant to you.
 
-#### Third Party Sites
+**As Required By Law and Similar Disclosures.**  We may access, preserve, and disclose personal information, other account information, and content if we believe doing so is required or appropriate to: comply with law enforcement or regulatory requests and legal process, such as a court order or subpoena; to comply with regulatory requests and internal policies; respond to requests; or protect your, our, or others’ rights, property, or safety.
 
-If at any time you choose to purchase a product or service offered by another company, any Personal Information you share with that company will be subject to the privacy policies of that company and will not be controlled by our Privacy Policy. Other than as described above, we are not responsible for the privacy policies or the content of third party sites and/or services (each, a “Third Party Service”) we link to, and have no control of the use or protection of information provided by you or collected by those Third Party Services. Whenever you elect to hyperlink to a Third Party Service, you may be asked to provide registration or other information. Please note that the information you are providing is going to a third-party, and you should familiarize yourself with the privacy policy provided by that party.
+**Merger, Sale, or Other Asset Transfers.**  If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of NASDAQ Private Market assets, or transition of service to another provider, your information may be sold or transferred as part of such a transaction as permitted by law and/or contract. We cannot control how such entities may use or disclose such information.
 
-#### Privacy and the Internet
+**Sharing with Permission.**  We may also disclose your information with your permission.
 
-The following additional information will be of interest to you if you access a SecondMarket Site and/or one of its subsidiaries’ products or services through one or more of our websites:
+##### INFORMATION RETENTION
 
-  * Users of any SecondMarket Site are required to identify and authenticate themselves prior to accessing our services. Generally, identification and authentication take place through the use of your user name and a password and/or while logging in with one of our technical support staff.
+We may be required to keep different types of information for varying periods of time according to contractual requirements, government regulations and regulatory obligations. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements. We may keep some information longer to meet our data retention policies, our needs and those of our customers, even after you close your account.
 
-  * The SecondMarket Sites are built upon an infrastructure with multiple layers of protection, including physical security of our equipment to system intrusion detection capabilities. Within such our sites, we use industry standard encryption technologies to help safeguard your information.
+##### INFORMATION SECURITY
 
-  * Security is a cooperative effort between us and the users of the SecondMarket Sites. Please remember that your user identification and password are personal to you and should not be made available to any other person. Also, you should discontinue their use and notify us if you have any reason to suspect that someone else may be using them.
+We take reasonable precautions to protect your personal information. The security of your personal information is important to us. When you enter sensitive information (such as credit card or bank account information) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
 
-  * “Cookies” are small text files that may be placed on your web browser when you visit our websites. Cookies make it easier for you to navigate our website by, among other things, “remembering” your identity so that you do not have to input your password multiple times as you navigate between our website pages and/or access our services. Authentication (i.e., verifying that you are who you say you are) is an essential component of site security. You can set your web browser to inform you when cookies are set, or to prevent cookies from being set. Please note that if you decline to use cookies, you may experience reduced functionality, slower site response times, and declining to use our authentication-related cookies may prevent you from using our website altogether.
+We follow generally accepted industry standards to protect the personal information submitted to us, both in transit and at rest. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security and we do not accept liability for unintentional disclosure.
 
-  * Web surfing data (e.g., information regarding which of our web pages you access, the frequency of such access, and your product and service preferences) may be collected by SecondMarket, or by our service providers. This may be accomplished by using cookies, Web beacons, page tags or similar tools that are set when you visit our website. Web surfing data and similar information may be shared internally within SecondMarket and used: for administrative purposes; to assess the usage, value and performance of our online products and services; to improve your experience with our websites; and as otherwise permitted by applicable law or regulation. If you are a SecondMarket client, this information helps us suggest products or service offerings that may be of interest to you. This information may be processed by us for the purposes described above, or on our behalf by Third Party Services, solely in accordance with our instructions.
+##### CHILDREN’S PRIVACY
 
-  * SecondMarket Sites may include social media features (“Features”), such as the Facebook Like button and widgets, such as the “Share This” button or interactive mini-programs that run on this Site (“Widgets”). These Features and Widgets may collect your IP address, which page you are visiting on a SecondMarket Site, and may set a cookie to enable the Feature or Widget to function properly. Social media Features and Widgets are either hosted by a third party or hosted directly on a SecondMarket Site. Your interactions with these Features and Widgets are governed by the privacy policy of the company providing it.
+We do not knowingly collect, maintain, or use personal information from children under 13 years of age, and no part of the Site is directed to children under the age of 13. If we learn that we have collected any personal information from children under 13, we will promptly take steps to delete or destroy such information and terminate the child’s account.
 
+##### INTERNATIONAL USERS
 
+You are agreeing to the transfer of your information to the United States. By providing information to us, you consent to any transfer and processing in accordance with this Privacy Policy.
 
+##### UPDATE INFORMATION OR POSE A QUESTION OR SUGGESTION
 
-#### CalOPPA Disclosures
+If you would like to update or correct any information that you have provided to us through the Site or otherwise, or if you have suggestions for improving this Privacy Policy, please send an email to [info@npm.com](mailto:info@npm.com) .
 
-**Do Not Track Signals**
+##### CHANGES TO OUR PRIVACY POLICY AND PRACTICES
 
-We do not currently respond to web browsers’ “Do Not Track” signals that provide a method to opt out of the collection information about visitors’ activities on the SecondMarket Sites, and across other websites. If we do so in the future, we will provide all relevant information in this Privacy Policy.
+**Posting of Revised Privacy Policy.**  We will post any adjustments to the Privacy Policy on this web page, and the revised version will be effective when it is posted.
 
-#### Third Party Data Collection
+Contact Information
 
-We may authorize certain third parties, including, without limitation, Google Analytics, to track usage and collect information about users and their activities on the SecondMarket Sites.
-
-* * *
+**The NASDAQ Private Market, LLC.**    
+150 Spear Street, Suite 350   
+San Francisco, CA 94105   
+[info@npm.com](mailto:info@npm.com)
