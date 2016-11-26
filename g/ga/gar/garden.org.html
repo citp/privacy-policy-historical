@@ -1,74 +1,269 @@
-<!--The following is the downloaded HTML source of the garden.org privacy policy that was archived on 2016-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160621201031id_/http%3A//www.garden.org/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the garden.org privacy policy that was archived on 2016-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161126221314id_/http%3A//garden.org/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-<link rel="search" href="http://garden.org/i/search/opensearch_plants.xml" type="application/opensearchdescription+xml" title="NGA Database search">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!--[if lt IE 9]>
-	  <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
-          <![endif]-->
-    
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/themes/smoothness/jquery-ui.css">
+   <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js" defer="defer"></script>
+
+
+  <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+  <!--[if lt IE 9]>
+    <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+
+  <link href="/i/c/bs_20161116-1.css" rel="stylesheet">
+  <link href="/i/c/bsrwd_20161111-1.css" rel="stylesheet">
+  <link href="/i/c/colorbox.css" rel="stylesheet">
+  <script type="text/javascript" src="/i/js/colorbox-min.js" defer="defer"></script>
+  <script type="text/javascript" src="/i/js/colorbox-nga.js" defer="defer"></script>
+
+  <link rel="search" href="http://garden.org/i/search/opensearch_plants.xml" type="application/opensearchdescription+xml" title="NGA Database search">
+
     <meta name="msapplication-TileImage" content="/i/p/nga/nga_144.png">
     <link rel="apple-touch-icon" href="/i/p/nga/nga_57.png">  
     <link rel="apple-touch-icon" sizes="72x72" href="/i/p/nga/nga_72.png">  
     <link rel="apple-touch-icon" sizes="114x114" href="/i/p/nga/nga_114.png">  
-  <script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/i/jquery/jquery-1.7.2.min.js"></script><script type="text/javascript" src="/i/jquery/jquery-ui-1.11.3.min.js"></script><script type="text/javascript" src="/i/js/colorbox-min.js"></script><script type="text/javascript" src="/i/js/atp_20151211.js"></script><title>Privacy Policy (National Gardening Association)</title><link rel="stylesheet" href="/i/c/nga_20160617.css" type="text/css"><link rel="stylesheet" href="/i/c/rwd_20160615.css" type="text/css"><link rel="stylesheet" href="/i/jquery/css/ui-lightness/jquery-ui-1.10.4-1.custom.css" type="text/css">
-<style type="text/css"><!--
-  #atptop {
-    background-image: url("/pics/2015-04-27/Skiekitty/778cc1.jpg");
-  }
+  <title>Privacy Policy (National Gardening Association)</title>
+  <script>
 
---></style>
-
-  <script type="text/javascript">
-    $(document).ready(function() {
-
-    var div = document.getElementById('atpbody');
-    if (div.scrollWidth <= div.clientWidth) {
-      var nav_buttons = $('#nav_buttons');
-      var customlinks = $('#customlinks');
-      $(window).scroll(function () {
-        if ($(this).scrollTop() > 1500) {
-          customlinks.addClass("customlinks_fixed");
-          nav_buttons.addClass("nav_buttons_fixed");
-        } else {
-          customlinks.removeClass("customlinks_fixed");
-          nav_buttons.removeClass("nav_buttons_fixed");
-        }
-      });
-    };
-   });
-  </script>
-<script type="text/javascript">
   $(document).ready(function() {
 
-    if (! winW) {
-      var winW = $(window).width() - 100;
-      var winH = $(window).height() - 100;
+    // Make my boxes all the same height:
+    var heights = $(".matchheight").map(function() { return $(this).height(); }).get(),
+      maxHeight = Math.max.apply(null, heights);
+    $(".matchheight").height(maxHeight);
+
+
+    // ////////////////////////////////////////////
+    // The below forces the footer to stick to the bottom, if the page isn't tall enough.
+    var docHeight = $(window).height();
+    var footerHeight = $("#atpfooter").height();
+    var footerTop = $("#atpfooter").position().top + footerHeight;
+ 
+    if (footerTop < docHeight) {
+      $("#atpfooter").css("margin-top", -22+ (docHeight - footerTop) + "px");
     }
+    // ////////////////////////////////////////////
 
-    var $userlink = $("<div></div>").html('<center>You need to login or register to do that.<P><table border="0" cellspacing="20"><tr valign="top"><td><B>Create an account below:</B><P><form method="post" action="/a_signup.php" name="CreateForm"><table class="pretty-table"><tr><td><B>Username:</B> [<acronym title="What username would you like to use on the site?  The username may contain only letters, numbers, and underscores. No spaces or other special characters are allowed.">?</acronym>]</td><td><input type="text" id="q" name="form[name]" value="" size="20" maxlength="20"></td></tr><tr class="alt"><td><B>Password:</B></td><td><input type="text" name="form[pass]" size="20"></td></tr><tr><td><B>Password (again):</B></td><td><input type="text" name="form[pass_confirm]" size="20"></td></tr><tr class="alt"><td><B>Your email address:</B></td><td><input type="text" name="form[email]" value="" size="20"></td></tr></table><P><input type="submit" name="action" value="Register" class="gs"></form></td><td style="border-left: 1px solid black;"></td><td><B>Already have an account? Login below:</B><P><form method="post" action="/login.php"><table class="pretty-table"><tr><td><B>Username:</B></td><td><input type="text" name="u" value="" size="20" maxlength="20"></td></tr><tr class="alt"><td><B>Password:</B></td><td><input type="text" name="p" size="20"></td></tr><tr></table><P><input type="submit" name="action" value="Login" class="gs"></form></td></tr></table></center>').dialog({
-    autoOpen: false,modal: true,width:winW,height:winH,title:"User account needed"
+    // ////////////////////////////////////////////
+    // The below loads the system messages, mail, etc. into the modal.
+
+    var trigger = $("body").find('[data-toggle="modal"]');
+    trigger.click(function(e) {
+      e.preventDefault();
+      var theModal = $(this).attr("data-target");
+      var ngaview = $(this).attr("data-ngaview"); 
+      var thetitle = $(this).attr("title");
+
+      $(theModal).find(".modal-title").html(thetitle);
+
+      var uri = theModal.replace("#", "");
+
+      if (uri == "ModalNGAView") {
+        $.get("/apps/atpview/show/"+ngaview+"/", function(data) {
+          var modal = $(this);
+          $(theModal).find(".modal-body").html(data);
+        });
+          // $(theModal).find(".modal-footer").html("Hello");
+          // <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+
+      } else {
+        $.get("/i/ajax/modal/"+uri+".php", function(data) {
+          var modal = $(this);
+          $(theModal).find(".modal-body").html(data);
+        });
+      };
+
     });
-    $(".userlink").click(function(a) {
-      a.preventDefault();
-      $userlink.dialog("open");
-    });
+
+    // ////////////////////////////////////////////
+
+
   });
-</script></head><body><div class="page-wrapper"><div id="atptop"><a href="/"><img id="atp_logo" src="/i/p/banner_ngabs.png" alt="National Gardening Association"></a></div><div id="atpleft"><div id="nav_buttons"><ul><li><a href="" class="menu_rwdmenu" onclick="rwdmenu();return false;"> </a></li><li><a class="menu_noicon" href="/users/join/">Signup</a></li><li><a class="menu_noicon" href="/login.php">Login</a></li></ul></div><div id="nav_everythingelse"><div id="nav_search"><center><form method="get" action="/search/index.php"><div class="Search"><input type="search" placeholder="Search..." name="q" class="searchInput"><button type="submit" name="button" title="Search the site" class="searchButton"><img src="/i/p/search.png" alt="Search"></button></div></form></center></div><div class="topnavlinks"><ul><li><a href="/plants/">Plant Database</a></li><li><a href="/learn/">Learning Library</a></li><li><a href="/ideas/">Ideas</a></li><li><a href="/greenpages/">Green Pages</a></li><li><a href="/forums/">Forums</a></li><li><a href="/lists/">Plant Lists</a></li><li><a href="/articles/">NGA Articles</a></li><li><a href="/learn/library/plantguide/">Plant Care Guides</a></li><li><a href="/learn/library/pests/">Pests Library</a></li><li><a href="/learn/library/weeds/">Weeds Library</a></li><li><a href="/learn/library/foodguide/">Food Guide</a></li><li><a href="/nga/searchqa/">Search Q&amp;A</a></li><li><a href="/courseweb/">Garden Curricula</a></li><li><a href="/nga/dictionary/">Dictionary</a></li><li><a href="/howtos/">How-to Projects</a></li><li><a href="/howtovideos/">How-to Videos</a></li><li><a href="/ideas/podcast/">Podcast</a></li><li><a href="/ediblelandscaping/">Edible Landscaping</a></li><li><a href="/urbangardening/">Urban Gardening</a></li><li><a href="/zipzone/">Zone Lookup</a></li><li><a href="/blogs/">Blogs</a></li><li><a href="/apps/swap//">Seed Swaps</a></li><li><a href="/apps/">Other Tools</a></li></ul></div>
+
+ </script></head>
 
 
 
-<div class="right-box"><b>Member Login:</b><p>
-</p><form method="POST" action="/login.php">
-    Username:<br>
-    <input type="text" name="u" style="width:120px;"><p>
-    Password:<br>
-    <input type="password" name="p" style="width:120px;"></p><p>
-    <input type="submit" name="submit" value="Login" class="gs">
-  </p></form><p>[ <a href="/users/join/">Join now</a> ]
-</p></div></div></div><div id="atpbody"><div id="atpcontent"><h1>Privacy Policy</h1>Your privacy is critically important to us. At Garden.org we have a few fundamental principles:
+  <body>
+  <div class="modal fade" id="ModalMail" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+          <h4 class="modal-title" id="myModalLabel">New and Unread Tree-Mails</h4>
+        </div>
+        <div class="modal-body">
+          <img src="/i/icon/loading.gif">
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="modal fade" id="ModalNGAView" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog modal-lg" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+          <h4 class="modal-title" id="myModalLabel"></h4>
+        </div>
+        <div class="modal-body">
+          <img src="/i/icon/loading.gif">
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="modal fade" id="ModalSysMsg" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+          <h4 class="modal-title" id="myModalLabel">New Messages from Garden.org</h4>
+        </div>
+        <div class="modal-body">
+          <img src="/i/icon/loading.gif">
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+
+
+<nav role="navigation" class="navbar navbar-default navbar-fixed-top" id="nganav1">
+  <div class="fluid-container">
+    <div class="navbar-header navbar-left pull-left">
+      <a href="/"><i class="fa fa-home fa-fw fa-1x fahomeicon"></i></a>
+    </div>
+    <div class="navbar-header navbar-right pull-right">
+      <ul class="nav pull-left">
+        
+      <li class="navbar-text pull-left"><a href="/users/join/">Signup</a></li>
+      <li class="navbar-text pull-left"><a href="/login.php">Login</a></li>
+
+      </ul>
+      <button type="button" data-toggle="collapse" data-target=".navbar-collapse" class="navbar-toggle">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+    <div class="visible-xs-block clearfix"></div>
+    <div class="collapse navbar-collapse">
+      <ul class="nav navbar-nav navbar-left">
+      
+      <ul class="nav navbar-nav" id="nga_dropdowns">
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Learning Library <i class="fa fa-caret-down "></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="/learn/">Learning Library Homepage</a></li>
+            <li><a href="/learn/library/plantguide/">Plant Care Guides</a></li>
+            <li><a href="/learn/library/foodguide/">Food Gardening Guides</a></li>
+            <li><a href="/learn/library/weeds/">Weed Library</a></li>
+            <li><a href="/learn/library/pests/">Pest Control Library</a></li>
+            <li><a href="/courseweb/">Garden Curricula</a></li>
+            <li><a href="/ideas/podcast/">Podcast</a></li>
+            <li><a href="/learn/videos/">Videos</a></li>
+            <li><a href="/nga/searchqa/">Questions and Answers</a></li>
+            <li><a href="/nga/dictionary/">Garden Dictionary</a></li>
+            <li><a href="/ediblelandscaping/">Edible Landscaping</a></li>
+            <li><a href="/urbangardening/">Urban Gardening</a></li>
+            <li><a href="/learn/articles/">Browse all articles</a></li>
+          </ul>
+        </li>
+
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Plants Database <i class="fa fa-caret-down "></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="/plants/">Plants Database</a></li>
+            <li><a href="/plants/search/text.php">Search by name</a></li>
+            <li><a href="/plants/search/advanced.php">Search by characteristics</a></li>
+            <li class="divider"></li>
+            <li><a href="/plants/multi/">Landscape Photos</a></li>
+            <li><a href="/apps/plant_photos/view/">See All New Database Photos</a></li>
+            <li class="divider"></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tools &amp; Apps <i class="fa fa-caret-down "></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="/apps/">View All Apps</a></li>
+            <li><a href="/apps/calendar/">Vegetable Planting Calendar</a></li>
+            <li><a href="/apps/swap/">Seed Swaps</a></li>
+            <li><a href="/lists/">Plant Lists</a></li>
+            <li><a href="/apps/photocontest/">Photo Contests</a></li>
+            <li><a href="/nga/calculators/">Gardening Calculators</a></li>
+            <li><a href="/greenpages/">Green Pages</a></li>
+            <li><a href="/nga/zipzone/">Zone Lookup</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Community <i class="fa fa-caret-down "></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="/ideas/">Community Ideas</a></li>
+            <li><a href="/forums/">Forums</a></li>
+            <li><a href="/blogs/">Blogs</a></li>
+            <li><a href="/apps/events/">Gardening Calendar of Events</a></li>
+            <li><a href="/apps/ask/">Ask a Question</a></li>
+          </ul>
+        </li>
+      </ul>
+  
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+
+  <div class="fluid-container">
+    <div class="col-md-12" id="row_ngalogo">
+     <a href="/"><img src="/i/p/nga/header/logo.png" width="154" height="150" alt="National Gardening Association Logo" class="nga_nav150"></a><a href="/"><img src="/i/p/nga/header/nga.png" width="250" height="150" id="row_text" class="nga_nav150"></a>
+    </div>
+  </div>
+<p>
+</p><p>
+</p><div class="container-fluid" id="ngabody"><div class="row" style="border-bottom: 1px solid #eee; margin-bottom:10px;">
+          <div class="col-sm-8">
+            <h1 class="page-header">Privacy Policy</h1>
+          </div>
+          <div class="col-sm-4 text-right">
+            <h2 class="page-header">
+<form class="form-inline" action="/search/index.php" method="get">
+  <div class="input-group">
+    <input type="text" class="form-control" name="q" placeholder="Search Garden.org...">
+    <span class="input-group-btn">
+      <button class="btn btn-default" type="submit"><i class="fa fa-search"></i></button>
+    </span>
+  </div>
+</form>
+</h2>
+          </div>
+          </div><div class="row"><div class="col-sm-12">
+<div class="row">
+  <div class="col-sm-8"><div class="panel panel-default ">
+<div class="panel-body">
+Your privacy is critically important to us. At Garden.org we have a few fundamental principles:
 <ul>
 <li>We don’t ask you for personal information unless we truly need it.</li>
 <li>We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.</li>
@@ -93,19 +288,33 @@
 <p>Ads appearing on our website may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Garden.org and does not cover the use of cookies by any advertisers.</p>
 <h3>Privacy Policy Changes</h3>
 <p>	Although most changes are likely to be minor, Garden.org may change its Privacy Policy from time to time, and in Garden.org's sole discretion. Garden.org encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
-
-</p></div><center></center><p></p><div id="atpfooter"><a href="/" style="font-size:2em;">National Gardening Association</a><p>© 2016 <a href="http://www.dashworksllc.com/">Dash Works, LLC</a><br>Times are presented in US Central Standard Time<br>Today's site banner is by <a href="/users/profile/Skiekitty/">Skiekitty</a> and is called "<a href="/thread/go/52084/">Pink Azaleas</a>"
-          </p><p>
-          <a href="/about/">About</a> -
-          <a href="/about/contact/">Contact</a> -
-          <a href="/about/tos/">Terms of Service</a> -
-          <a href="/about/privacy/">Privacy</a> - 
-          <a href="/users/memberlist/">Memberlist</a> -
-          <a href="/special/acorns/">Acorns</a> - 
-          <a href="/about/links/">Links</a> - 
-          <a href="/apps/ask/">Ask a Question</a> - 
-          <a href="/newsletter/">Newsletter</a>
-        </p><p><a href="https://twitter.com/NatlGardening"><img src="/i/p/twitter.png" width="125" height="38" border="0" alt="Follow us on Twitter"></a><a href="https://www.facebook.com/Garden.Org/"><img src="/i/p/facebook.png" width="125" height="38" border="0" alt="We are on Facebook."></a><a href="https://www.pinterest.com/ngagrows/"><img src="/i/p/pinterest.png" width="125" height="38" border="0" alt="We Pin at Pinterest."></a><a href="https://www.youtube.com/user/nationalgardening"><img src="/i/p/youtube.png" width="125" height="38" border="0" alt="Subscribe to our Youtube Channel"></a><a href="https://www.instagram.com/nationalgardeningassoc/"><img src="/i/p/instagram.png" width="125" height="38" border="0" alt="View our instagram"></a></p></div></div>
+</p></div>
+</div></div><div class="col-sm-4"><div class="list-group"><div class="panel panel-default ">
+<div class="panel-heading">More about NGA</div>
+<div class="panel-body"><a class="list-group-item" href="/about/intro/"><i class="fa fa-fw fa-1x fa-info-circle"></i> About the National Gardening Association</a><p><a class="list-group-item" href="/about/staff/"><i class="fa fa-fw fa-1x fa-users"></i> Our Staff</a></p><p><a class="list-group-item" href="/about/tos/"><i class="fa fa-fw fa-1x fa-shield"></i> Terms of Service</a></p><p><a class="list-group-item" href="/about/privacy/"><i class="fa fa-fw fa-1x fa-user-secret"></i> Privacy Policy</a></p><p><a class="list-group-item" href="/about/contact/"><i class="fa fa-fw fa-1x fa-envelope"></i> Contact us</a></p><p><a class="list-group-item" href="/about/links/"><i class="fa fa-fw fa-1x fa-external-link"></i> Friends of Garden.org</a></p><p><a class="list-group-item" href="/about/dmca/"><i class="fa fa-fw fa-1x fa-copyright"></i> Digital Millennium Copyright Act Notice</a></p><p></p></div>
+</div></div></div></div></div></div></div><div id="atpfooter"><div class="container-fluid">
+          <div class="col-sm-4">
+            <a href="/">Garden.org Homepage</a><br>
+            <a href="/about/">About</a><br>
+            <a href="/about/contact/">Contact</a><br>
+            <a href="/about/tos/">Terms of Service</a><br>
+            <a href="/about/privacy/">Privacy</a><br>
+            <a href="/users/memberlist/">Memberlist</a><br>
+            <a href="/special/acorns/">Acorns</a><br>
+            <a href="/about/links/">Links</a><br>
+            <a href="/apps/ask/">Ask a Question</a><br>
+            <a href="/newsletter/">Newsletter</a><br>
+            
+    <p>© 1972 - 2016 <a href="/">National Gardening Association</a></p><p>
+    Times are presented in US Central Standard Time</p><p>
+          </p></div>
+     <div class="col-sm-2 text-left">
+      <a href="https://www.pinterest.com/ngagrows/"><i class="fa fa-pinterest-square fa-fw fa-2x"></i>Pinterest</a><br>
+      <a href="https://www.facebook.com/Garden.Org/"><i class="fa fa-facebook-square fa-fw fa-2x"></i>Facebook</a><br>
+      <a href="https://www.youtube.com/user/nationalgardening"><i class="fa fa-youtube-square fa-fw fa-2x"></i>Youtube</a><br>
+      <a href="https://twitter.com/NatlGardening"><i class="fa fa-twitter-square fa-fw fa-2x"></i>Twitter</a><br>
+      <a href="https://www.instagram.com/nationalgardeningassoc/"><i class="fa fa-instagram fa-fw fa-2x"></i>Instagram</a><br>
+    </div><div class="col-sm-6 text-right"><img src="/i/p/nga/nga_300.png" style="width:300px"><p>Today's site banner is by <a href="/users/profile/mcash70/">mcash70</a> and is called "<a href="/thread/go/59350/">Mardi Gras Parade</a>"</p><p></p></div></div></div>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -115,4 +324,35 @@
   
   ga('send', 'pageview');
 </script>
-    </div><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-front ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-describedby="ui-id-1" aria-labelledby="ui-id-2" style="display: none; position: absolute;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix ui-draggable-handle"><span id="ui-id-2" class="ui-dialog-title">User account needed</span><button type="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ui-dialog-titlebar-close" role="button" title="Close"><span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span><span class="ui-button-text">Close</span></button></div><div id="ui-id-1" class="ui-dialog-content ui-widget-content" style="display: block;"><center>You need to login or register to do that.<p></p><table border="0" cellspacing="20"><tbody><tr valign="top"><td><b>Create an account below:</b><p></p><form method="post" action="/a_signup.php" name="CreateForm"><table class="pretty-table"><tbody><tr><td><b>Username:</b> [<acronym title="What username would you like to use on the site?  The username may contain only letters, numbers, and underscores. No spaces or other special characters are allowed.">?</acronym>]</td><td><input type="text" id="q" name="form[name]" value="" size="20" maxlength="20"></td></tr><tr class="alt"><td><b>Password:</b></td><td><input type="text" name="form[pass]" size="20"></td></tr><tr><td><b>Password (again):</b></td><td><input type="text" name="form[pass_confirm]" size="20"></td></tr><tr class="alt"><td><b>Your email address:</b></td><td><input type="text" name="form[email]" value="" size="20"></td></tr></tbody></table><p><input type="submit" name="action" value="Register" class="gs"></p></form></td><td style="border-left: 1px solid black;"></td><td><b>Already have an account? Login below:</b><p></p><form method="post" action="/login.php"><table class="pretty-table"><tbody><tr><td><b>Username:</b></td><td><input type="text" name="u" value="" size="20" maxlength="20"></td></tr><tr class="alt"><td><b>Password:</b></td><td><input type="text" name="p" size="20"></td></tr><tr></tr></tbody></table><p><input type="submit" name="action" value="Login" class="gs"></p></form></td></tr></tbody></table></center></div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 90;"></div></div></body></html>
+    
+
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="/i/js/nga_20160909.js"></script>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-tUCKCKWuAuJkW"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-tUCKCKWuAuJkW.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+    
+    </body></html>
