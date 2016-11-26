@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altontowers.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610023537id_/https%3A//www.altontowers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altontowers.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126033050id_/http%3A//altontowers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
