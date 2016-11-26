@@ -1,42 +1,40 @@
-> *The following text is extracted and transformed from the radioio.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401145648id_/http%3A//www.radioio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioio.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126201528id_/http%3A//www.bubbaarmyradio.com/privacy-policy) for the most accurate reproduction.*
 
-# radioio (( privacy policy ))
+# Privacy Policy | Bubba Army Radio®
 
-radioio is strongly committed to protecting the privacy of its listeners. 
+The Bubba the Love Sponge® Show & BTLS.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the Bubba the Love Sponge® Show & BTLS.com.
 
-the purpose of this privacy policy is to inform you, as a user of the radioio service, what kinds of information we may gather about you when you use our service, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of the information. the radioio service consists of the radioio.com website and the radioio audio programming (internet-only "radio" service). questions regarding this statement should be directed [here](mailto:contact@radioio.com). 
+The Bubba the Love Sponge® Show & BTLS.com is committed to protecting your personal privacy. Our Five Principles of Privacy summarize and clarify that commitment–how we safeguard your privacy, how we treat personal information, and what choices you have. We understand that for you to take full advantage of the benefits of this interactive medium, we must do what we can to ensure that your privacy is secure.
 
-information about all users of radioio 
+  * We do not disclose your private online communications.
+  * We do not use any information about where you personally navigate on BTLS.com or the Web, and we do not give it out to others.
+  * We use secure technology, privacy protection controls, and restrictions on employee access in order to safeguard your personal information.
+  * We will advise you if and when changes to this policy are made.
 
-our service automatically gathers certain usage information, like the numbers and frequency of visitors to radioio.com and listeners of the radioio programming, very much like television ratings that tell the networks how many people tuned in to a program (measurecast and arbitron webcasting services). although this data may be stored along with your personal information, we only use such data anonymously and in the aggregate. this collective data helps us determine how much our customers use parts of the service, so we can provide the best possible user experience. 
 
-for example, our site uses a technology nicknamed "cookies" that tells us how and when pages in our site and content in our service are used, and by how many people. this data is used only in an aggregate and anonymous form and allows us to know what features of our service are most popular with listeners, so we can maximize the benefits of our service for users. we also use cookies to provide you with a personalized and convenient music listening experience. we also may provide broad statistical "ratings" information about groups of users, but never information about you personally, to our partners about how our consumers collectively use radioio. we do this so they can understand how people use their areas and our service in order for them to provide you with the best possible experience as well. you may disable cookies by modifying your browser preferences. if your browser is configured to reject cookies, you will need to log in every time you access customized features of the radioio.com website. 
 
-cookies may also be used when you click on advertisements that appear either on the site or the player. radioio does not have access to, nor do we control, the data stored in these cookies. these advertisements are placed through a third party on behalf of the companies that advertise on radioio. 
+**How Does the Bubba the Love Sponge® Show & BTLS.com Use Registration Information?**
 
-we gather ip addresses in order to identify the domain from which you originate, as well as your geographic area. this data may be used, in aggregate and anonymous form, for targeting advertisements and domain usage analysis. we also collect ip addresses in aggregate and anonymous form, for internal usage statistics. 
+The Bubba the Love Sponge® Show & BTLS.com’s registration forms may require users to give us contact information (i.e., name and e-mail address) and demographic information (i.e., ZIP code, gender or age). We use this information from the registration form to send our users information about our website. The user’s contact information is also used to contact the user when necessary. Demographic and profile data is also collected during registration. We use this data to tailor the user’s experience at BTLS.com, showing people content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis.
 
-information about you  
-we may specifically ask for information about you when you visit the radioio.com website or use the radioio listener community. we need certain information \- such as first name, username, password, email address and favorite genre of music - in order to provide some features of our service to you. for example, on the radioio.com website, registration is needed to take advantage of personalized content, such as the listener community. we may also use this information to update you, via email, on existing products and services as well as additional products and services in which you might be interested. you may opt out of these updates during the registration process or via the methods listed below under "unsubscribe". 
+**How does the Bubba the Love Sponge® Show & BTLS.com use cookies and the IP address information?**
 
-disclosure  
-we do not use information about your individual visits to the radioio website or listeners of the radioio audio streams or information that you may give us, such as your name, address or email address. nor do we disclose that information to any outside companies. but as we mention above, we may share with our partners aggregated and anonymous statistical "ratings" information about the use of the radioio service. additionally, if during registration, you have opted to receive information from our trusted third party partners, we may supply your email address to these partners as part of specific promotions they sponsor. 
+We use your IP address to help diagnose problems with our server and to administer our website. Your IP address is used to gather broad demographic information. We use cookies to deliver content specific to your interests and to save your password so you don’t have to reenter it each time you visit our site. The cookie does not track any personal information about you, provide us with any way to contact you, or extract any information from your computer. When you visit the store area on this site, cookies are simply the best way for us to offer you the most enjoyable and hassle-free online shopping experience by retaining information about your visit and use of our store. We hope you will want the better service that cookies provide, but you may set your browser to refuse cookies. However, by doing so, you will not be eligible for any online discounts/specials/promotions/or coupons.
 
-forms  
-radioio now uses several forms to allow you to send us feedback, ask questions or enter into contests. if you use the feedback form, we ask for your first name, last name and email address. this information is not stored and is used only to reply to your feedback using your full name. when writing to technical support for help, you will be asked to give your first name, last name and email along with information on the computer's configuration and connection to the internet. this information is used to help the technical support engineer diagnose, solve and answer your technical problem. this information is not stored or used for any other purpose than answering your question. if you choose to enter a contest, we will ask for your email address to enter you into the drawing. we use this information in our drawing to select the winner of the contest. we may send a onetime email confirming that you are entered into the contest. we will also send an email to the winner notifying them that they won. 
+**How does the Bubba the Love Sponge® Show & BTLS.com work with other companies and how do these relationships affect user privacy?**
 
-opt-in via email  
-in the near future, the radioio site will provide you with the opportunity to opt to receive e-mail communications from us or our trusted third party partners about special offers. 
+The Bubba the Love Sponge® Show & BTLS.com contains links to other sites. We are not responsible for the privacy practices or the content of such websites.
 
-outside links  
-this site contains links to other sites. radioio.com is not responsible for the privacy practices or the content of such web sites. other sites also link to us, and radioio.com is not responsible for the privacy policies of these sites or their content. 
+Occasionally we may share information with our sponsors and partners. We will share such information on an aggregate basis and will never reveal information about individual users of the site without consent.
 
-radioio privacy policy changes  
-if we decide to change our privacy policy for the radioio service, we will post those changes on the radioio.com site under the help menu so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. we will also notify you about material changes to our privacy practices or if we change how we use your personally identifiable information via e-mail. 
+**What is the Bubba the Love Sponge® Show & BTLS.com’s policy regarding posts on message boards?**
 
-legal disclosure  
-we would only disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process service on our website. 
+The Bubba the Love Sponge® Show & BTLS.com makes message boards available to its users. Please remember that any information that is disclosed in public message boards becomes public information and you should exercise caution when deciding to disclose your personal information. Messages posted on private message boards are only revealed to members of the private groups.
 
-contacting the website  
-if you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can   
-» [contact us](https://web.archive.org/web/20040401145648id_/http%3A//www.radioio.com/contact.php?PHPSESSID=8f29859c7244db4e237bcb6c3868b8fe).
+**How does the Bubba the Love Sponge® Show & BTLS.com secure information entered by visitors?**
+
+We use industry-standard technology to keep your personal information and information you have entered into our site as secure as possible. We also have put in place privacy protection control systems designed to ensure that your personal data remain safe and private.
+
+Each and every Bubba the Love Sponge® Show employee servicing the website is obligated to abide by this privacy policy. Employees who violate our privacy policies are subject to disciplinary action, up to and including termination. Only authorized Bubba the Love Sponge® employees servicing the website are permitted to have access to your personal information, and such access is limited by need.
+
+Changes to this Privacy Policy the Bubba the Love Sponge® Show & BTLS.com may amend this policy from time to time.
