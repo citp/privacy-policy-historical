@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deepbox.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318065705id_/http%3A//www.deepbox.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepbox.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126152349id_/http%3A//www.deepbox.com/privacy.php) for the most accurate reproduction.*
 
 # 2.0 Layouts, Myspace 2.0 Layouts, Myspace Layouts, Myspace Comments, Funny Myspace Comments, Myspace 3.0 Layouts
 
