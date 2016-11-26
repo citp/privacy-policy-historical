@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prodesigntools.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426101810id_/http%3A//prodesigntools.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prodesigntools.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126145010id_/http%3A//prodesigntools.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ProDesignTools
 
@@ -24,7 +24,7 @@ Our site’s content, including comments, is regularly indexed by search bots an
 
 ## Partners
 
-As official partners of Adobe, Amazon.com, Lynda.com, Kelby Training, and other companies, we may display affiliated links or receive revenues from product or service commissions. As members of the Google AdSense network, we may receive revenues from the display of banner advertising. 10% of any net earnings from these will be donated to Charity. However, we do not share any site data or any personally-identifying infor­mation with these partners or any other entities.
+As official partners of Adobe, Amazon.com, Lynda.com, Kelby Training, and other companies, we may receive revenues from the display of affiliated links or banner advertising. For example, to help support the hosting and maintenance of this site, ProDesignTools.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [amazon.com](http://www.amazon.com/?tag=amzn-save-20). 10% of any net earnings from these efforts will be donated to Charity. However, we do not share any site data or any personally-identifying infor­mation with these partners or with any other entities.
 
 ## Sharing Information with Third Parties
 
