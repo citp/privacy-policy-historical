@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthandhomeremedies.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610201841id_/http%3A//www.healthandhomeremedies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthandhomeremedies.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126014118id_/http%3A//www.healthandhomeremedies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Health and Home Remedies
 
