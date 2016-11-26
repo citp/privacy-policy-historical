@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bayer.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424040331id_/http%3A//www.bayer.com/en/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayer.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126102511id_/http%3A//www.bayer.com/en/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Bayer
 
@@ -139,11 +139,12 @@ If you have any problems, questions or ideas, please contact one of the followin
 Data Privacy Manager of Bayer AG:  
 
 
-Andreas Euler  
+Fatih Ataoglu  
 Bayer AG  
-Corporate Office  
-Building W 11  
+Law, Patents & Compliance  
+Building Q26  
 51368 Leverkusen, Germany  
+Phone: +49 (0) 214 30 450 95  
 [E-mail](https://secure.bayer.com/bayer/data-protection-officer.aspx?lang=en)
 
 Head of Data Privacy  
