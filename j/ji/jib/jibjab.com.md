@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jibjab.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616195453id_/http%3A//www.jibjab.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jibjab.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126065614id_/http%3A//www.jibjab.com/about/privacy) for the most accurate reproduction.*
 
 # JibJab.com - Holiday eCards, Christmas eCards, Birthdays, Music Videos, and more
 
-**The following Privacy Policy applies to your use of all websites, mobile applications, and other products and services owned, controlled, operated or hosted (whether now or in the future) by JibJab Media Inc. dba JibJab Bros. Studios and/or its corporate affiliates, including but not limited to JibJab.com, StoryBots.com, HelloSanta.com, and all related applications and services (collectively the “JibJab Sites”).**
+**The following Privacy Policy applies to your use of all websites, mobile applications, and other products and services owned, controlled, operated or hosted (whether now or in the future) by JibJab Media Inc. dba JibJab Bros. Studios and/or its corporate affiliates, including but not limited to JibJab.com, StoryBots.com, HelloSanta.com, getgomoji.com, getslickerstickers.com, and all related applications and services (collectively the “JibJab Sites”).**
 
-**Last Updated: April 26th, 2016**
+**Last Updated: September 2nd, 2016**
 
 This Privacy Policy sets forth certain terms and conditions of the legal contract between you and JibJab with respect to your use of the JibJab Sites and JibJab Services, whether you are a Visitor, Registered Member, Live Video Call Purchaser, or Paid Subscriber. The other integral parts of this agreement are the JibJab **Terms of Service** ([click here](http://www.jibjab.com/about/terms_of_service)), the JibJab **Terms of Sale** ([click here](http://www.jibjab.com/about/terms_of_sale)) and the **Legal Notices** ([click here](http://www.jibjab.com/about/legal)). All capitalized terms used herein that are not otherwise defined in this Privacy Policy shall be as defined in the JibJab **Terms of Service** ([click here](http://www.jibjab.com/about/terms_of_service)).
 
