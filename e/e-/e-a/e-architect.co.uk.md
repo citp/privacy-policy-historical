@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the e-architect.co.uk privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428220536id_/http%3A//www.e-architect.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-architect.co.uk privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126154134id_/http%3A//www.e-architect.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - e-architect
+
+Published by updated on December 28, 2015
 
 _World Buildings across the Globe, Cookies_
 
