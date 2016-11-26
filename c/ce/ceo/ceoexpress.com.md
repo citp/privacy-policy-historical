@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ceoexpress.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502095420id_/http%3A//www.ceoexpress.com/html/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceoexpress.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126211116id_/http%3A//www.ceoexpress.com/html/privacy.aspx) for the most accurate reproduction.*
 
-# CEOExpress Company LLC Privacy Policy
+# CEOExpress: Business portal for executives created by a busy executive
 
 We collect information from our members during the registration process. This information is used to develop relationships with our members and to continually enhance the CEOExpress Web site. We hold our users and your privacy concerns in the highest regard. Maintaining your privacy is critical to us. Please take a moment to read our Privacy Policy for a better understanding of the measures we take to protect you.
 
@@ -108,9 +108,10 @@ Submission of Subpoenas: CEOExpress Company LLC is located in Cambridge MA, and 
 
 CEOExpress Company LLC  
 Attn: Client Services  
-1 Broadway, 14th Floor  
-Cambridge, MA 02142  
-Fax: 617-225-4440 
+1 Boston Place  
+Suite 2600  
+Boston, MA 02108  
+fax: 617-299-8649 
 
 Fees for Subpoena Compliance: CEOExpress Company LLC will charge the person or entity submitting the civil subpoena for costs associated with subpoena compliance. Payment must be made within thirty (30) days from the date of receipt of the CEOExpress invoice. Checks should be made out to CEOExpress Company LLC
 
