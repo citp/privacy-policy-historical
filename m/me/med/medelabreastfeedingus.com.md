@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medelabreastfeedingus.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612070838id_/http%3A//www.medelabreastfeedingus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medelabreastfeedingus.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126014336id_/http%3A//www.medelabreastfeedingus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Medela
 
@@ -104,8 +104,7 @@ You have some choices in the way that we use and share information as we:
 
 
 
-**_Our Uses and Disclosures  
-_**We may use and share your information as we: 
+**_Our Uses and Disclosures_** We may use and share your information as we: 
 
   * Help manage the health care treatment you receive
   * Run our organization
@@ -242,7 +241,7 @@ We can change the terms of this notice, and the changes will apply to all inform
 
 **Links to other sites**
 
-We may create links to other web sites that we think may be of interest to you. These links are provided solely as a convenience to users and should not be construed as an affiliation with such sites.  We do not endorse or review any of the content, items or services on any other web sites, and our Privacy Policy applies only to your use of our Site.  You access and use such other sites, including the content, items and services on those sites, solely at your own risk.  These linked sites may collect personally identifiable information from you. Medela, Inc. has no control over and is not responsible for these other sites, their collection of information or their privacy policies.  We have not reviewed the privacy policies of any web sites we link to our Site, and you should read the privacy policies of each site you visit to determine what information that site may collect about you.  If you would like information on any other party’s privacy policy, you should contact that party directly.  Medela, Inc. makes no representations or warranties with respect to the content, ownership or legality of any such linked site.  You acknowledge and agree that Medela, Inc. has no responsibility or liability for the availability of such external sites, or for the content, advertising, products or other materials available through such sites.
+We may create links to other web sites that we think may be of interest to you. These links are provided solely as a convenience to users and should not be construed as an affiliation with such sites.  We do not endorse or review any of the content, items or services on any other web sites including any website we link to, or any website that may link to our website, and our Privacy Policy applies only to your use of our Site.  You access and use such other sites, including the content, items and services on those sites, solely at your own risk.  These linked sites may collect personally identifiable information from you. Medela, Inc. has not reviewed, has no control over and is not responsible for these other sites, their content (including any references to or statements regarding Medela or its products), collection of information or their privacy policies.  We have not reviewed the privacy policies of any web sites we link to our Site, and you should read the privacy policies of each site you visit to determine what information that site may collect about you.  If you would like information on any other party’s privacy policy, you should contact that party directly.  Medela, Inc. makes no representations or warranties with respect to the content, ownership or legality of any such linked site.  You acknowledge and agree that Medela, Inc. has no responsibility or liability for the availability of such external sites, or for the content, advertising, products or other materials available through such sites. 
 
 **Social Media sites**
 
@@ -279,5 +278,3 @@ This Site is not intended for children under the age of 13.  We will not knowin
 ****Questions About Our Privacy Policy**
 
 If you have questions about our Site and our Privacy Policy or [Terms and Conditions of Use](https://web.archive.org/terms-and-conditions), please feel free to contact us by filling out our [Privacy Email Submission Form](https://www.medelabreastfeedingus.com/privacy-policy-email).  The revised Privacy Policy will be posted on this Site If the Privacy Policy changes.  Please check back periodically, and especially before you provide any Personally Identifiable Information.  Changes will not apply retroactively to personal information that was collected before the changes to the Privacy Policy, except as may be required by law.
-
-DP 64.01.0502, Privacy Policy & Notice of Privacy Practices, Rev. D, May 1, 2015
