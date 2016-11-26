@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myzimbabwe.co.zw privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402221525id_/http%3A//www.myzimbabwe.co.zw/home/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myzimbabwe.co.zw privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126183654id_/http%3A//www.myzimbabwe.co.zw/home/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - My Zimbabwe News
 
@@ -33,7 +33,8 @@ You may opt out of any future contacts from us at any time. You can do the follo
 
 
 
-**Security**  
+**Security**
+
 We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
 
 Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.
