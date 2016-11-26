@@ -1,110 +1,99 @@
-> *The following text is extracted and transformed from the foodbuzz.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626061139id_/http%3A//www.dailybuzz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodbuzz.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126221107id_/http%3A//www.federatedmedia.net/privacy-policy.html) for the most accurate reproduction.*
 
-# DailyBuzz - The Best of the Independent Web
+# Federated Media
 
-This Privacy Policy covers the Federated Media Publishing, Inc. ("Federated Media") family of websites, including [dailybuzz.com](http://www.dailybuzz.com/) (the "Sites"). Federated Media and any and all of the entities that control, are controlled by, or are affiliated with or under common control with Federated Media are referred to herein as "Federated Media" "We", "Us" or "Our." Federated Media will maintain your data in connection with the Sites as described in this Privacy Policy.
+This Privacy Policy is effective as of March 05, 2012.
 
-Your privacy is important to Us. To demonstrate Our commitment to Our users' privacy, We provide the following Privacy Policy to inform you of Our policies regarding the collection, use and disclosure of personally-identifiable information collected from you during your use of the Sites.
+At Federated Media Publishing ("FM"), we own and operate certain websites (the "FM Properties"); we represent online publishers ("Publishers") and their properties ("Publisher Properties") to advertisers; and we support other properties sponsored by advertiser clients ("Client-Sponsored Properties"). Because we understand the importance of your privacy, we take safeguarding your personal information very seriously. We are providing the following Privacy Policy to inform you of our policies and procedures regarding the collection, use, and disclosure of the personally identifiable and anonymous information collected from you during your use of any FM website or service whether from (i) an FM Property; (ii) a Client-Sponsored Property or other website on federatedmedia.net (the "FM Domain") or (iii) a Client-Sponsored Property on a different domain (each of the above is, individually, a "Site" and, collectively, our "Sites"). You’ll know you’re on one of our Sites because a version of this Privacy Policy will be posted. This Privacy Policy does not apply to Publisher Properties. You should review the Privacy Policy at any Publisher Property site to understand that site's practices with regards to the collection and use of personally identifiable information.
 
-This Privacy Policy is an integral part of the Sites and cannot, in any way, be separated from the Terms of Service or from the usage or transaction process. If you do not agree to Our Privacy Policy in whole, you must not use the Sites.
+Federated Media reserves the right to update or change this Privacy Policy from time to time for any reason, and such changes will be effectively immediately upon posting to this or another Site. We will notify you of any material changes by posting the new policy on each Site and highlighting the changes. We suggest that you consult the Sites regularly to check for any changes to this Privacy Policy. Under certain circumstances (for example, in connection with certain material changes, including changes to our online behavioral data collection and use policies), we may also elect to notify you of changes or updates to our Privacy Policy, or request your consent for such changes, by additional means, such as posting a notice on the Web site to sending you an email. If you have any questions about this Privacy Policy or our privacy practices, please contact us at [privacypolicy@federatedmedia.net](mailto:privacypolicy@federatedmedia.net).
 
-This Privacy Policy may be updated from time to time for any reason. We will notify you of any material changes by posting the new policy on the Sites and highlighting the changes. We suggest that you consult the Sites regularly to check for any changes to this Privacy Policy. If you have any questions about this Privacy Policy or Our privacy practices, please contact Us at [privacy@federatedmedia.net](mailto:privacy@federatedmedia.net).
+_Information We Collect_
 
-## Information We Collect
+We collect information in connection with our Sites and Services in the following circumstances, though not every one of our Sites offers each of these four: (i) registering for an account, (ii) participation in surveys, sweepstakes, contests, and promotions ("Surveys and Promotions"), (iii) contacting FM, and (iv) visiting and browsing any of our Sites and our Publisher Properties. You may choose not to provide us with certain information, but this may limit the services we are able to provide you.
 
-We collect information in the following circumstances: (i) registering for an account, (ii) participation in surveys, sweepstakes, contests, and promotions ("Surveys and Promotions"), (iii) contacting Us, and (iv) visiting and browsing the Sites.
+_Personally Identifiable Information_
 
-**Registration**
+We call information you provide that can be used to locate or identify you "Personally Identifiable Information." We use Personally Identifiable Information to provide our Services to you and to communicate with you regarding such Services.
 
-Some of the Sites require you to register with Federated Media or a third party partner in order to use the Site or access certain features of the Site. Information collected during the registration process may include, but is not limited to, your name, company name, company address, phone number, username, email address, date of birth, account password. We may also collect your IP address when you register and use a Site. From time to time in the future, We may offer additional features, services, and promotional opportunities that may require you to submit additional information to participate.
+We collect Personally Identifiable Information in the following ways:
 
-**Surveys and Promotions**
+_a. Registration_
 
-We also collect certain information about you and your web browsing sessions if you participate in Surveys and Promotions, which allows Us to coordinate the marketing support that allows Us to continue to share Our knowledge, insights, and opinions. Participation in Surveys and Promotions is optional. Should you choose to participate, the information We collect for Surveys and Promotions may include your name, phone number, address, e-mail address, IP address, the website that referred you to the applicable Site, and other data.
+If you register for FM services as an Advertiser or Reader, we collect information during the registration process. That may include your name, company name, company address, phone number, username, email address, date of birth, and account password. We may also collect your IP address when you register and use the Site. Note that, as an Advertiser, you must register on the FM Domain in order to become an FM advertiser for the Publisher Properties. Readers: From time to time we may offer additional features, services, and promotional opportunities that may require you to submit additional information to participate.
 
-**Contacting Us**
+_b. Surveys and Promotions_
 
-You may also contact Us by filling out and submitting a form through a Site, or by submitting feedback when you are logged in to a Site. When you contact Us through a Site, your full name and email address are transmitted to Us. Any other information you choose to include in the form you submit would also be transferred to and stored on Our servers.
+Readers: We collect certain information about you and your web browsing sessions if you participate in Surveys and Promotions, which allows FM to coordinate the marketing support that allows FM and its Publishers to continue to share their knowledge, insights, and opinions. Participation in Surveys and Promotions is optional. Should you choose to participate, the information we collect for Surveys and Promotions may include your name, phone number, address, e-mail address, IP address, the website from which you came to the applicable Site, travel preferences, favorite websites, family profile, age, whether you are a U.S. resident, and employment profile.
 
-**Anonymous Information**
+_c. Contacting FM_
 
-We also collect "Anonymous Information," such as traffic statistics and general usage patterns regarding page views, dates and times you use a Sites, the website that referred you to the Site, and the method by which you accessed the Site, files accessed through the Site, responses sent to the browser, the length of data sent to the browser, and other data used in the communication between browser and Sites.
+You may contact FM by filling out and submitting a form through a Site, or by submitting feedback when you are logged in to a Site. When you contact FM through a Site, your full name and email address are transmitted to FM. Any other information you choose to include in the form you submit would also be transferred to and stored on FM’s servers.
 
-**Cookies**
+_Anonymous Information_
 
-Cookies are small pieces of information stored on your computer with information about your visit to a particular site. We use both session ID cookies and persistent cookies. Session ID cookies are erased when you close your browser and do not last beyond one visit to Our Sites. Session cookies help Us keep track of information such as what service or product you are searching for. A persistent cookie is a small file stored on your hard drive for an extended period of time. These cookies are used to remember items like your login information if you have elected to have it remembered on your computer, and are used to target you for our other Sites.
+We collect Anonymous Information on our Sites and our Publisher Properties through small text files called "cookies." We use both session Cookies (which expire when you close your web browser) and persistent Cookies (which stay on your computer until you delete them). These cookies track usage patterns and browsing patterns on FM Sites and our Publisher Properties. We also collect information such as traffic statistics, general usage patterns regarding page views, dates and times Readers use the Site, the website that referred Readers to the Site, the method by which Readers access the Site, files accessed through the Site, responses sent to the browser, the length of data sent to the browser, and other data used in the communication between browser and Sites.
 
-Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. If you reject the cookie, you may not be able to fully use all of the functionality of the Site. In particular, session ID cookies are required to store relevant information as a user moves from page to page. Persistent cookies enable Us to track and target the interests of Our users to enhance the experience on Our Sites.
+_How We Use the Information We Collect_
 
-## How We Use the Information We Collect
+We may use your Personally Identifiable Information to provide information you have requested or products you have purchased (e.g., membership updates, e-mail newsletters, advertising insertion orders), to resolve disputes, collect fees, and troubleshoot problems. We also may use your Personally Identifiable Information to respond to specific inquiries made by you; to prevent potentially prohibited or illegal activities; to enforce our Terms of Use; and to customize, measure, and improve our Services, content, and layout. In addition, the FM Network may analyze and use your Personally Identifiable Information — and supplement it with other information we obtain — to notify you and target advertising to you regarding special offers, products, services, and information that we think may be of interest to you, and to measure the advertising effectiveness of advertisements on our Sites and Publisher Properties.
 
-The information you provide that can be used to locate or identify you is referred to as "Personally Identifiable Information." We use it to provide Our Services and to communicate with you regarding such Services. We may also use your Personally Identifiable Information to provide information you have requested or products you have purchased (e.g., membership dues, event tickets), to resolve disputes, collect fees, and troubleshoot problems. We also may use your Personally Identifiable Information: to respond to specific inquiries made by you; to prevent potentially prohibited or illegal activities, and enforce Our Terms of Use; and to customize, measure, and improve Our Services, content, and layout. In addition, We analyze and use your Personally Identifiable Information — and supplement it with other information We obtain — to notify you and target advertising to you regarding special offers, products, services, and information that We think may be of interest to you, and to measure the advertising effectiveness of advertisements on Our Sites.
+We use Anonymous Information to provide aggregate information across FM Sites and our Publisher Properties to improve our services. For Publishers, we collect information about content and traffic patterns on your pages to provide more relevant advertising. For Readers, we use your Anonymous Information for the purposes of system administration, providing certain site functionality and content, targeted advertising, site tracking, and collecting and reporting aggregate usage information. We use Cookies to collect information about the pages you view and the searches you make, to send targeted advertising to you. We may combine Anonymous Information with your personally identifiable information to notify you of special offers and target advertising and other content to you.
 
-We use your Anonymous Information for the purposes of system administration, providing certain site functionality and content, targeted advertising, site tracking, and collecting and reporting aggregate usage information. We may combine Anonymous Information with your Personally Identifiable information to notify you of special offers and target advertising and other content to you.
+We also enable advertisers and ad servers to promote third party products and/or services by placing advertisements on the FM Sites and the Publisher Properties. These advertisers and ad servers may use Cookies and/or "web beacons" (which are small, transparent graphic images) to monitor information related to served advertisements. Clicking on such advertisements will direct you to the website of a third party and the advertiser. The FM Privacy Policy does not cover the privacy practices of any advertisers or ad servers.
 
-## Phishing
+Our collection of Anonymous Information is to help target and send advertisements relevant to you. In addition, third parties may send Cookie information through FM to further allow us to segment our audience and provide further services to you. We also may share Cookie information with parties that provide us with data and information (our "Trusted Third Parties") to provide further targeted services to you.
 
-We do not and will not, at any time, request your credit card information, your username, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. Identity theft and the practice currently known as "phishing" are of great concern to Us. Safeguarding information to help protect you from identity theft is Our top priority. For more information about phishing, you may want to visit the Federal Trade Commission's website at <http://www.ftc.gov/bcp/conline/pubs/alertsphishingalrt.htm> .
+_Behavioral Advertising Compliance Disclosure and Opting Out_
 
-## Opt-in Emails, Text Messages and Offers
+Federated Media and/or our partners may use data collected on the FM Sites and our Publisher Properties to customize ads to you as you browse the Web. If you do not want your browsing behavior used for online behavioral advertising purposes, OPT-OUT of the collection of anonymous information from Federated Media and/or OPT-OUT of the collection of anonymous information from our Trusted Third Party partners.
 
-You may elect to receive updates from Us about special offers, new services, and other noteworthy news items. However, you must opt-in to these emails and text messages, and you may always choose to decline to receive these email messages and text messages at any time. Please see Our Opt-out policy described below. We will never sell, rent or share your personal information, including your email or phone number with and third parties for marketing purposes without your express permission. We may share your personal information with Our service delivery providers for the purpose of delivering Our email and text messages to your or as required by law.
+_DAA Compliance Disclosure_
 
-## Choice/Opt-out
+Federated Media uses the Evidon assurance service to comply with the cross-industry Self-Regulatory Program for Online Behavioral Advertising managed by the Digital Advertising Alliance (DAA) (http://www.aboutads.info). As part of this service Federated Media’s online advertisements and Web sites are sometimes delivered with icons that help consumers understand how their data is being used and provide choice options to consumers that want more control.
 
-Our users are given the opportunity to opt-out of emails and text messages to which they have previously opted-in. This does not apply to emails that relate to Site information, Terms of Service, or that are automatically generated by the system (registration confirmation emails). Users who no longer wish to receive Our promotional communications may opt-out of receiving these communications by clicking on the Unsubscribe link provided in emails.
+_Data Retention_
 
-## Information Sharing
+Unless you contact us to request the deletion of your Advertiser or Reader account, we will retain data for as long as it is necessary to fulfill a legitimate business purpose or as required by law.
 
-Except as set forth in this Privacy Policy, We will not share your Personally Identifiable Information with third parties.
+_Phishing_
 
-## Posting
+We do not and will not, at any time, request your credit card information, your username, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. Identity theft and the practice currently known as "phishing" are of great concern to FM. Safeguarding information to help protect you from identity theft is our top priority. For more information about phishing, you may want to visit the Federal Trade Commission’s website at http://www.ftc.gov/bcp/edu/pubs/consumer/alerts/alt127.shtm
 
-Any information voluntarily disclosed by users and posted on the Sites (on message boards, web logs, and/or in chat areas) may be viewed and used by others. Except as set forth in this Privacy Policy, We do not sell, rent, trade or give away any of your personal information including your last name and your email address. HWe reserve the right to sell, rent, share or trade your User Submissions (as defined in the Terms of Service posted on the relevant Sites) including your first name and initial of last name to third parties. If you post personal information that is accessible to the public online, you do so at your own risk. Be aware that you may receive unsolicited messages from other parties as a result.
+_Information Sharing_
 
-## Third Party Service Providers
+Except as set forth in this Privacy Policy, we will not share your Personally Identifiable Information with third parties.
 
-We engage certain third parties to perform various functions and provide services to Us (for example, web hosting services and maintenance services). These third parties may have access to some of your Personally Identifiable Information, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your Personally Identifiable Information.
+_Posting_
 
-## Compliance with Laws and Law Enforcement
+Any information voluntarily disclosed by users and posted on our site (on message boards, web logs, and/or in chat areas) may be viewed and used by others. If you post personal information that is accessible to the public online, you do so at your own risk. Be aware that you may receive unsolicited messages from other parties in return.
 
-We may choose to disclose some or all of your Personally Identifiable Information to the government, law enforcement officials, or private parties if We, in Our sole discretion, believe it necessary or appropriate to comply with the law, to respond to legal complaints, to comply with legal process (including subpoenas), to protect the rights of Our company or a third party, to ensure the safety of the public or any person, or to prevent or stop any illegal, unethical, or legally questionable activity. Although We make every effort to preserve your privacy, We may be required by law to disclose information you have provided in obtaining Our services. We may also disclose information against someone who poses a threat to Our interests (such as customer fraud) or whose activities could bring harm to others.
+_Third Party Service Providers_
 
-## Changes in Corporate Ownership
+We engage certain trusted third parties to perform various functions and provide services to us (for example, web hosting services and maintenance services). These third parties may have access to some of your Personally Identifiable Information, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your Personally Identifiable Information.
 
-If any or all of Our assets are acquired by, or merged with, another entity We will share some or all of your Personally Identifiable Information with that entity.
+_Compliance with Laws and Law Enforcement_
 
-## Accessing and Changing Your Information
+We may choose to disclose some or all of your Personally Identifiable Information to the government, law enforcement officials, or private parties if we, in our sole discretion, believe it necessary or appropriate to comply with the law, to respond to legal complaints, to comply with legal process (including subpoenas), to protect the rights of FM or a third party, to ensure the safety of the public or any person, or to prevent or stop any illegal, unethical, or legally questionable activity.
 
-You may always access and modify certain of your Personally Identifiable Information you provide through Our self-service e-commerce platform by visiting the "sign in" area at the home page. You may or may not be able to modify the Personally Identifiable Information you provide through other parts of the Sites.
+_Changes in Corporate Ownership_
 
-## Security
+If any or all of the assets of FM are acquired by, or merged with, another entity we will share some or all of your Personally Identifiable Information with that entity.
 
-We place great importance on the safety and security of your Personally Identifiable Information. We employ certain physical, procedural, and technological measures in an attempt to protect your Personally Identifiable Information from unauthorized access and use. Our servers that contain Personally Identifiable Information are stored in an off-site facility. We also use hashed passwords, which allow an algorithmic version of your password to be stored instead of your actual password. When receiving financial information (e.g., PayPal account IDs) for completing certain online transactions, including those in connection with the Federated Media and individual Sites' self-service platforms, We use SSL or "Secure Sockets Layer," an industry standard security protocol, though other communications through the Sites are not encrypted. Although We do attempt to keep your Personally Identifiable Information secure, no security measures are perfect; there is always a possibility that a security breach could occur, resulting in the release of Personally Identifiable Information.
+_Accessing and Changing Your Information_
 
-## Links to Other Sites
+You may always access and modify certain of your Personally Identifiable Information you provide through FM’s self-service e-commerce platform by visiting the "sign in" area at the FM Domain. You may or may not be able to modify the Personally Identifiable Information you provide through other parts of the FM Domain or other Sites. If this causes concern, please contact us at the e-mail address provided below and we will provide information for the specific Site you reference.
 
-Our Sites may contain links to other websites, in several places. You should pay particular attention to which website you are visiting when submitting any Personally Identifiable Information to these websites. This Privacy Policy addresses the use and disclosure of only that information that We collect from you through the Sites. Different rules may apply to information you submit to other websites, and We encourage you to review the privacy policies of these websites.
+_Security_
 
-## Our Policy Toward Children
+We place great importance on the safety and security of your Personally Identifiable Information. We employ certain physical, procedural, and technological measures in an attempt to protect your Personally Identifiable Information from unauthorized access and use. FM’s servers that contain Personally Identifiable Information are stored in an off-site facility. FM also uses hashed passwords, which allows an algorithmic version of your password to be stored instead of you actual password. When receiving financial information (e.g., PayPal account IDs) for completing certain online transactions, including those in connection with the FM self-service platform, our site uses SSL or "Secure Sockets Layer," an industry standard security protocol, though other communications through the Sites are not encrypted. Although we do attempt to keep your Personally Identifiable Information secure, no security measures are perfect; there is always a possibility that a security breach could occur, resulting in the release of Personally Identifiable Information.
 
-Our Sites are not directed toward persons under thirteen years of age. If a parent or guardian becomes aware that his or her child has provided Us with personally identifiable information without their consent, he or she should contact Us at [privacy@federatedmedia.net](mailto:privacy@federatedmedia.net). If We become aware that a child under thirteen has provided Us with Personally Identifiable Information, We will remove such information from Our files.
+_Links to Other Sites_
 
-## Notification of Changes
+Each FM Site may contain links to other websites, including but not limited to Publisher Properties, in several places. You should pay particular attention to which website you are visiting when submitting any personally identifiable information to these websites. This Privacy Policy addresses the use and disclosure of only that information that we collect from you through our various Sites. Different rules may apply to information you submit to other websites including Publisher Properties, and we encourage you to review the privacy policies of these websites.
 
-If We decide to change Our policies, We will add those changes to this Privacy Policy and other places on the Sites We deem appropriate so you are always aware of what information We collect, how We use it, and under what circumstances, if any, We disclose it. We will use information in accordance with the Privacy Policy under which the information was collected.
+_Our Policy Toward Children_
 
-If, however, We are going to use your Personally Identifiable Information in a manner different from that stated at the time of collection, We will notify you via email. Users will have a choice as to whether or not We use their information in this different manner.
+None of our Sites are directed toward persons under eighteen years of age. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at privacypolicy@federatedmedia.net . If we become aware that a child under thirteen has provided us with personally identifiable information, we will remove such information from our files.
 
-## California Privacy Rights
-
-Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (1) a list of the categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information, please e-mail us at: [privacy@federatedmedia.net](mailto:privacy@federatedmedia.net), or write to Us at: Customer Service, Federated Media Publishing, Inc., 72 Townsend Street, San Francisco, CA 94107 with a reference to California Disclosure Information.
-
-We will respond to such written requests within 30 days following receipt at the e-mail or mailing address stated above. If We receive your request at a different e-mail or mailing address, We will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that We are only required to respond to each customer once per calendar year.
-
-## Contact Information
-
-If you have any questions or suggestions regarding Our Privacy Policy, please contact Us at: [privacy@federatedmedia.net](mailto:privacy@federatedmedia.net).
-
-  
-
+back to top
