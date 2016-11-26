@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the quizsocial.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315033233id_/http%3A//quizsocial.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizsocial.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126122637id_/http%3A//quizsocial.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Quiz Social
 
 ## Information that is gathered from visitors
 
-In common with other websites, log files are stored on the web server saving details such as the visitor's IP address, browser type, referring page and time of visit.
+In common with other websites, Quiz Social stores log files on our web server, saving details such as the visitor's IP address, browser type, referring page and time of visit. This information is for business analytical purposes only, not for the purposes of identifying individual visitors in any way.
 
 Cookies may be used to remember visitor preferences when interacting with the website.
 
-Where registration is required, the visitor's email and a username will be stored on the server.
+Quizzes which require a login with Facebook gather data from your Facebook profile, including your public profile and your timeline posts. Information is gathered and stored in compliance with Facebook Platform Policies.
+
+Where registration is required (in the case of subscription), the visitor's email and a username will be stored on our server.
 
 ## How the Information is used
 
