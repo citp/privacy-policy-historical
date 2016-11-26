@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ladyandpups.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614191527id_/http%3A//ladyandpups.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladyandpups.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126140614id_/http%3A//ladyandpups.com/privacypolicy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Lady and Pups – an angry food blog
+# PRIVACY POLICY – Lady and Pups – an angry food blog
 
 This privacy policy sets out how Lady and Pups uses and protects any information that you give while using www.ladyandpups.com
 
