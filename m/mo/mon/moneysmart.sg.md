@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneysmart.sg privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610022417id_/http%3A//www.moneysmart.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysmart.sg privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126181731id_/http%3A//www.moneysmart.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MoneySmart.sg
 
