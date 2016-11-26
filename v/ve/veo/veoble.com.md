@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veoble.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616203400id_/http%3A//www.veoble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veoble.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126164807id_/http%3A//veoble.com/privacy) for the most accurate reproduction.*
 
 # Veoble - Black Google Search
 
