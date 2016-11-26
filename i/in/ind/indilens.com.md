@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indilens.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614151613id_/http%3A//indilens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indilens.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126183428id_/http%3A//indilens.com/privacy-policy) for the most accurate reproduction.*
 
 # Indilens ! Live Daily News on India | Privacy Policy of Indilens ! Insights of India
 
