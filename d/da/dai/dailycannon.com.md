@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailycannon.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531064723id_/http%3A//dailycannon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycannon.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126140414id_/http%3A//dailycannon.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Daily Cannon
+# Privacy Policy - Daily Cannon
 
 At Daily Cannon we are committed to safeguarding and preserving the privacy of our visitors. This Privacy Policy document (the “Policy”) has been provided by the legal resource DIY Legals and reviewed and approved by their solicitors.
 
