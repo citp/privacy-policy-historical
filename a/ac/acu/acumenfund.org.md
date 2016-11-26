@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acumenfund.org privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231071000id_/http%3A//acumen.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acumenfund.org privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126213113id_/http%3A//acumen.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Acumen
 
@@ -83,9 +83,9 @@ Lynn Roland, General Counsel
 
 Acumen Fund, Inc.
 
-76 Ninth Avenue, Suite 315
+40 Worth Street, Suite 303
 
-New York, NY 10011
+New York, NY 10013
 
 You may also send an email to [lroland@acumen.org](mailto:lroland@acumen.org)
 
