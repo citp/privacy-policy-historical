@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the heraldlive.co.za privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607161824id_/http%3A//www.heraldlive.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heraldlive.co.za privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126184513id_/http%3A//www.heraldlive.co.za/privacy-policy) for the most accurate reproduction.*
 
-# HeraldLIVE | Privacy Policy - HeraldLIVE
+# Privacy Policy - HeraldLIVE
 
-Please read the [Privacy Policy](http://www.heraldlive.co.za/privacy-policy/) and our notices regarding [Terms of Use](http://www.heraldlive.co.za/terms-and-conditions/) and Forums. By continuing to use the Herald Live, you agree to abide by the terms of these documents.1. Introduction1.1 This privacy policy (“this Privacy Policy”) must be read together with the Terms and Condition. Unless defined elsewhere, terms in this Privacy Policy shall bear the meaning ascribed to them in the Terms and Conditions.
+Please read the [Privacy Policy](http://herald2.timesmedia.co.zaprivacy-policy/) and our notices regarding [Terms of Use](http://herald2.timesmedia.co.zaterms-and-conditions/) and Forums. By continuing to use the Herald Live, you agree to abide by the terms of these documents.1. Introduction1.1 This privacy policy (“this Privacy Policy”) must be read together with the Terms and Condition. Unless defined elsewhere, terms in this Privacy Policy shall bear the meaning ascribed to them in the Terms and Conditions.
 
 1.2 The Owner is committed to bringing You information tailored to Your individual needs and recognises the importance of protecting the privacy of personally identifiable information collected about our users.
 
