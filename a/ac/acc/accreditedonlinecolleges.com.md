@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accreditedonlinecolleges.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629133155id_/http%3A//www.accreditedonlinecolleges.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accreditedonlinecolleges.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126141926id_/http%3A//www.accreditedonlinecolleges.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AccreditedOnlineColleges.com
 
@@ -14,7 +14,7 @@ We may revise our Terms of Use and Privacy Policy in the future. Therefore, it i
 
 ## Cookies
 
-We use cookies, and by using this website, you acknowledge and consent to our use of cookies. What are cookies? Cookies are small pieces of data sent from a website and stored in the user’s web browser, commonly for technical purposes such as web analytics. We perform our web analytics using Google Analytics, a Google, Inc. tool ([Learn more](https://web.archive.org/web/20160629133155id_/http://www.accreditedonlinecolleges.com/privacy-policy/%E2%80%9Dhttp://www.google.com/intl/en/analytics/privacyoverview.html%E2%80%9D) about Google Analytics).
+We use cookies, and by using this website, you acknowledge and consent to our use of cookies. What are cookies? Cookies are small pieces of data sent from a website and stored in the user’s web browser, commonly for technical purposes such as web analytics. We perform our web analytics using Google Analytics, a Google, Inc. tool ([Learn more](https://web.archive.org/web/20161126141926id_/http://www.accreditedonlinecolleges.com/privacy-policy/%E2%80%9Dhttp://www.google.com/intl/en/analytics/privacyoverview.html%E2%80%9D) about Google Analytics).
 
 Advertising cookies do not contain personally identifiable information, so users are still anonymous. Their purpose is to allow advertisers to make ads more relevant to the user’s interests. Advertising cookies — sometimes referred to as third-party cookies — track navigation and publish ads on behalf of third parties.
 
