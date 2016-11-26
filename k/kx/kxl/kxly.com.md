@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kxly.com privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214084249id_/http%3A//www.kxly.com/kxly/about-kxly/KXLY-com-Privacy-Policy/1084650) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kxly.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126171233id_/http%3A//www.kxly.com/kxly/about-kxly/KXLY-com-Privacy-Policy/1084650) for the most accurate reproduction.*
 
-# KXLY.com Privacy Policy | KXLY 4 TV - KXLY.com
+# KXLY.com Privacy Policy | About Us - KXLY.com
 
 Welcome to KXLY.com. KXLY Broadcast Group. (KXLY), operator of KXLY.com, respects your privacy and takes it very seriously. This statement is provided to help you learn about our privacy policy and to help you understand what information we gather and what we do with that information.  For purposes of this privacy policy, we or our applies to KXLY and to all of the products, services and websites offered by KXLY and/or its subsidiaries or companies under common ownership.  This privacy policy does not cover the information practices of companies collecting data on our site or Web sites linked to our site.  
 What Information We Collect  
