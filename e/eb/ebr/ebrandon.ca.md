@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebrandon.ca privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502062839id_/http%3A//www.ebrandon.ca/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebrandon.ca privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126185509id_/http%3A//ebrandon.ca/privacy.aspx) for the most accurate reproduction.*
 
 # eBrandon.ca - Brandon, Manitoba's Online Community
 
@@ -18,7 +18,7 @@ Google, as a third party vendor, uses cookies to serve ads on this site. Google'
 
 We have integrated the Twitter widget of the company Twitter Inc. in the News section of this website. When you visit the news section you automatically load the Widget for display, and Twitter receives certain information such as your IP address, browser type, operating system, and the address of the website where the Widget is integrated, and places a cookie that recognizes your browser. In connection with the cookie, Twitter can theoretically recognize which pages you have visited across various websites, provided that the Widget has been implemented there. On Twitter’s own account, Twitter uses the data to tailor content for you based on your visits to third-party websites, and may give suggestions for people to follow on Twitter, if you have a Twitter account. 
 
-If at any time you wish to have your member account removed, please login to that account, click on the "Profile Settings" link in the left-hand column of your profile page and initiate remove from the link titled "Click for account removal form" under the subsequent settings tab. Should you have any difficulty with this process do not hesitate to send a request through the [contact us](https://web.archive.org/web/20160502062839id_/http%3A//www.ebrandon.ca/contact.aspx) page. 
+If at any time you wish to have your member account removed, please login to that account, click on the "Profile Settings" link in the left-hand column of your profile page and initiate remove from the link titled "Click for account removal form" under the subsequent settings tab. Should you have any difficulty with this process do not hesitate to send a request through the [contact us](https://web.archive.org/web/20161126185509id_/http%3A//ebrandon.ca/contact.aspx) page. 
 
 We track and store user IP addresses each time a forum message, photo, video, classified ad, classified ad web form submission or private message are posted/sent. Combined with information from your internet provider, this information may personally identify you. This information will **only** be used in the event of a dispute between yourself and eBrandon or another third party in which the law is perceived to have been violated. 
 
