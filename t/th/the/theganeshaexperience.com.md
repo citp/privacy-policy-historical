@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theganeshaexperience.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607023044id_/http%3A//theganeshaexperience.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theganeshaexperience.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126034158id_/http%3A//theganeshaexperience.com/privacy-policy) for the most accurate reproduction.*
 
 # : Privacy Policy
 
@@ -65,7 +65,7 @@ It is mandatory for our tech team to wear these nerd glasses. This ensures 100% 
 For more on data security, click here »
 
 Got more questions? You can get a hold of our customer happiness manager at admin@theganeshaexperience.com  
-For the full and ever so much fun legalese, just read below 
+For the full and ever so much fun legalese, just read below 🙂
 
 ## Your privacy is very important to us.
 
