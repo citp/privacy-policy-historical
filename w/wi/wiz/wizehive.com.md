@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wizehive.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611131454id_/http%3A//www.wizehive.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizehive.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126120659id_/http%3A//www.wizehive.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy policy | WizeHive
+# Privacy Policy | WizeHive
 
 Your privacy is important to WizeHive, Inc. ("WizeHive", "we", "us" or "our"). This privacy policy provides details about how your personal information is collected and used by us. Personal information is any information that identifies you or would enable someone to contact you, such as your name, email address, phone number and other non-public information associated with your individual identity. This privacy policy explains our commitment to protecting the privacy of personal information about users of WizeHive websites, software, products and services (collectively, the "Site"). We reserve the right to change this Policy from time to time and will notify you of any changes via email or on our web site.
 
