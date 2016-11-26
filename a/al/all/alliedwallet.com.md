@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alliedwallet.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316022428id_/https%3A//www.alliedwallet.com/protecting-your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliedwallet.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126071900id_/https%3A//www.alliedwallet.com/protecting-your-privacy) for the most accurate reproduction.*
 
 # Privacy Policy: We Are Dedicated to Protecting Your Privacy
 
