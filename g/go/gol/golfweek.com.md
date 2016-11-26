@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the golfweek.com privacy policy that was archived on 2014-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141112002332id_/http%3A//golfweek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfweek.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126123851id_/http%3A//golfweek.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Golfweek
 
 **SUMMARY**  
 This website is owned by Turnstile Publishing Company (“Turnstile” or “Turnstile Media Group”). As the parent corporation of such affinity brands and niche publications as Golfweek, Golfweek Custom Media, Professional Artist, TurfNet Media Network, Turnstile Connect, Seminole Voice and Winter Park/Maitland Observer, Turnstile specializes in developing diverse media platforms that engage and strengthen the communities they serve. Our dedication to providing our customers and communities with the highest quality products and services is paramount. The same holds for how we communicate with you and how we handle your personal data. It’s important to us that you understand what information we collect, how we protect it and how we use it — and to provide clear instructions if you choose to request changes in how we communicate with you.
