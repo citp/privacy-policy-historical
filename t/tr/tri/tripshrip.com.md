@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripshrip.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507094514id_/http%3A//www.tripshrip.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripshrip.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126212138id_/http%3A//tripshrip.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - TripShrip
 
