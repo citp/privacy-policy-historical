@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miracletutorials.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627064008id_/http%3A//www.miracletutorials.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miracletutorials.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127003355id_/http%3A//www.miracletutorials.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Miracle Tutorials Privacy Policy | Miracle Tutorials
 
