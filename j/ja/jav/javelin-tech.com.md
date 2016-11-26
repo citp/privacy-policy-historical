@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the javelin-tech.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606214510id_/http%3A//www.javelin-tech.com/main/company/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javelin-tech.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126050210id_/http%3A//www.javelin-tech.com/main/company/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Privacy Practices for Javelin Website & Electronic Communications
 
@@ -6,7 +6,7 @@
 
 Welcome to this website, a service of Javelin Technologies Inc. This statement discloses the privacy practices for this website, including an explanation of which personally identifiable information of yours is collected; the organization collecting the information; how the information is used; with whom the information may be shared; which choices are available to you regarding collection, use and distribution of the information; the kind of security procedures that are in place to protect the loss, misuse or alteration of information; and how you can correct any inaccuracies in the information. 
 
-Questions regarding this statement should be directed to Javelin through one of the [feedback forms](https://web.archive.org/web/20160606214510id_/http%3A//www.javelin-tech.com/main/company/call_me.htm) you will find on the website, or by sending a notice by mail to Javelin Inc., 3457 Superior Court, Unit #1, Oakville, Ontario, Canada, L6L 0C4.
+Questions regarding this statement should be directed to Javelin through one of the [feedback forms](https://web.archive.org/web/20161126050210id_/http%3A//www.javelin-tech.com/main/company/call_me.htm) you will find on the website, or by sending a notice by mail to Javelin Inc., 3457 Superior Court, Unit #1, Oakville, Ontario, Canada, L6L 0C4.
 
 ### **Information Collection and Use**
 
