@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the needfreerecharge.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517104148id_/http%3A//www.needfreerecharge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the needfreerecharge.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126152825id_/http%3A//www.needfreerecharge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Need Free Recharge
 
@@ -16,7 +16,7 @@ Here, The word “We” Refer to the website www.needfreerecharge.com
 
 We may collect personal identification information from visitors/Users when they register at needfreerecharge.com Users may be asked for, as appropriate, name, email address. We will collect personal identification information from Users only if they submit such information to us by their choice. In addition, users can always ignore/refuse to provide us personal information.  
 We also collect email addresses for communication purposes only.  
-Jonomus does not trade, sell, deal your Personal Information with anyone.
+Needfreerecharge.com does not trade, sell, deal your Personal Information with anyone.
 
 ### Non-Personal Information
 
