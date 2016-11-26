@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the notalwaysromantic.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207203937id_/http%3A//notalwaysromantic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notalwaysromantic.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126203049id_/https%3A//notalwaysromantic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Funny & Unusual Romantic & Love Stories – Not Always Romantic
+# Privacy Policy Funny & Unusual Romantic & Love Stories – Not Always Romantic
 
-### [Privacy Policy](http://notalwaysromantic.com/privacy-policy)
+### [Privacy Policy](https://notalwaysromantic.com/privacy-policy)
 
 Not Always Romantic is dedicated to maintaining visitor privacy, and therefore we generally do not collect email addresses or names in our submissions, except in the case of special giveaways and contests. In such cases, email addresses are collected only to contact winners. Under no circumstances will we reveal or sell individual visitor information unless required to do so by law.
 
