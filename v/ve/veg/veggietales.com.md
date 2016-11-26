@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veggietales.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630150257id_/http%3A//veggietales.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veggietales.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126011122id_/http%3A//veggietales.com/privacy) for the most accurate reproduction.*
 
 # VeggieTales.com | Official Home of VeggieTales
 
@@ -142,11 +142,11 @@ All the Sites are part of the Classic Media, LLC family of companies. We reserve
 
 At all times, you remain in control of your personally identifiable information. We will not share the personally identifiable information we collect from you in ways other than as set forth in this Privacy Policy, without first obtaining your consent. At the time you provide this information, you can choose whether you want to receive further communications about special offers, product information or other marketing messages. At the same time, we will also provide you the opportunity to opt-out of any further promotional and marketing communications from us, or from specific types of communications. However, your option not to receive promotional and marketing material shall not preclude us (including our employees, contractors, agents and other representatives) from (a) using this information to complete any purchase orders made through the Sites, (b) corresponding with you, by e-mail or otherwise, regarding your existing or past relationship with us, and otherwise exercising our rights under applicable law, (c) from accessing and viewing your personally identifiable information in the course of maintaining and improving the Sites, or (d) from notifying you if you win a contest or sweepstakes. If you do opt-in to receive promotional and marketing communications from us, you can opt-out at any time.
 
-Every e-mail communication we send you will contain a clearly worded “Opt-Out” or “Unsubscribe” link allowing you to withdraw your permission for future mailings. Alternatively, you can send a blank e-mail from the e-mail address associated with the account to [customerservice@bigidea.com](https://web.archive.org/web/20160630150257id_/http%3A//veggietales.com/customerservice@bigidea.com) and type “Unsubscribe” in the subject field. This system is automated and must be contacted from the e-mail address you wish to have removed. Permission changes will be honored as soon as possible after receipt. Please allow five to ten business days for processing. Permission changes will not affect any information which you provided to us and which we previously shared with our Business Partners.
+Every e-mail communication we send you will contain a clearly worded “Opt-Out” or “Unsubscribe” link allowing you to withdraw your permission for future mailings. Alternatively, you can send a blank e-mail from the e-mail address associated with the account to [customerservice@bigidea.com](https://web.archive.org/web/20161126011122id_/http://veggietales.com/privacy/customerservice@bigidea.com) and type “Unsubscribe” in the subject field. This system is automated and must be contacted from the e-mail address you wish to have removed. Permission changes will be honored as soon as possible after receipt. Please allow five to ten business days for processing. Permission changes will not affect any information which you provided to us and which we previously shared with our Business Partners.
 
 **Disabling Your Account**
 
-If you wish to disable your account, please send a blank email from the email address associated with the account to [customerservice@bigidea.com](https://web.archive.org/web/20160630150257id_/http%3A//veggietales.com/customerservice@bigidea.com) and type “Disable Account” in the subject field. If you choose to do so, we will delete all of your personal information from our system. Once your account has been closed, it will not be accessible in the future. Please note that you may access limited features on the website without an account. Please allow approximately ten business days for us to disable the account.
+If you wish to disable your account, please send a blank email from the email address associated with the account to [customerservice@bigidea.com](https://web.archive.org/web/20161126011122id_/http://veggietales.com/privacy/customerservice@bigidea.com) and type “Disable Account” in the subject field. If you choose to do so, we will delete all of your personal information from our system. Once your account has been closed, it will not be accessible in the future. Please note that you may access limited features on the website without an account. Please allow approximately ten business days for us to disable the account.
 
 **Disclosure Exceptions**
 
@@ -172,7 +172,7 @@ We value the security and confidentiality of your personally identifiable inform
 
 Please be aware, however, that despite our best efforts to protect your information, we cannot guarantee that your information will be used solely in ways consistent with this Privacy Policy. Please be careful whenever sending personally identifiable information to us via e-mail. E-mail is commonly not a secure means of transferring information. Even though we have taken steps to ensure that the personally identifiable information we collect from you is secure, due to the open nature of the Internet, we cannot guarantee that any information stored on our servers, or transmitted to or from you will be free from unauthorized access. By using the Sites, you acknowledge that you understand and agree to assume these risks.
 
-In the unlikely event that we believe that the security of your personally identifiable information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail. If you do not consent to this, please contact us by e-mail at [customerservice@bigidea.com](https://web.archive.org/web/20160630150257id_/http%3A//veggietales.com/customerservice@bigidea.com). If you wish to provide a particular e-mail address to receive such notifications, please contact use by e-mail at [customerservice@bigidea.com](https://web.archive.org/web/20160630150257id_/http%3A//veggietales.com/customerservice@bigidea.com).
+In the unlikely event that we believe that the security of your personally identifiable information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail. If you do not consent to this, please contact us by e-mail at [customerservice@bigidea.com](https://web.archive.org/web/20161126011122id_/http://veggietales.com/privacy/customerservice@bigidea.com). If you wish to provide a particular e-mail address to receive such notifications, please contact use by e-mail at [customerservice@bigidea.com](https://web.archive.org/web/20161126011122id_/http://veggietales.com/privacy/customerservice@bigidea.com).
 
 **DOMICILE REQUIREMENT FOR USE OF THE SITES**
 
@@ -180,7 +180,7 @@ You represent and warrant that you are domiciled in the United States.
 
 **WHO CAN YOU CONTACT IF YOU HAVE QUESTIONS OR CONCERNS?**
 
-Big Idea pledges to work with users to resolve any complaints about our Privacy Policy and with parents who wish to review their child’s personal information that they authorized us to collect and use. Please contact us by e-mail at [customerservice@bigidea.com](https://web.archive.org/web/20160630150257id_/http%3A//veggietales.com/customerservice@bigidea.com) to report any known or suspected privacy or security breaches or to submit privacy-related questions or complaints. If you have a complaint about our Privacy Policy, you can write to as at 320 Billingsly Court, Suite 30, Franklin, TN 37067 or e-mail us at [customerservice@bigidea.com](https://web.archive.org/web/20160630150257id_/http%3A//veggietales.com/customerservice@bigidea.com). You may also call us at (888) 244-4332. We will try to resolve any problems that arise in a fair and prompt manner.
+Big Idea pledges to work with users to resolve any complaints about our Privacy Policy and with parents who wish to review their child’s personal information that they authorized us to collect and use. Please contact us by e-mail at [customerservice@bigidea.com](https://web.archive.org/web/20161126011122id_/http://veggietales.com/privacy/customerservice@bigidea.com) to report any known or suspected privacy or security breaches or to submit privacy-related questions or complaints. If you have a complaint about our Privacy Policy, you can write to as at 320 Billingsly Court, Suite 30, Franklin, TN 37067 or e-mail us at [customerservice@bigidea.com](https://web.archive.org/web/20161126011122id_/http://veggietales.com/privacy/customerservice@bigidea.com). You may also call us at (888) 244-4332. We will try to resolve any problems that arise in a fair and prompt manner.
 
 **MIGHT THIS PRIVACY POLICY CHANGE?**
 
@@ -188,13 +188,13 @@ We will occasionally update this Privacy Policy in response to changing business
 
 **Legal**
 
-The Sites are operated and maintained by Big Idea Entertainment, LLC located at 320 Billingsly Court, Suite 30, Franklin, TN 37067, [customerservice@bigidea.com](https://web.archive.org/web/20160630150257id_/http%3A//veggietales.com/customerservice@bigidea.com) (888) 244-4332.
+The Sites are operated and maintained by Big Idea Entertainment, LLC located at 320 Billingsly Court, Suite 30, Franklin, TN 37067, [customerservice@bigidea.com](https://web.archive.org/web/20161126011122id_/http://veggietales.com/privacy/customerservice@bigidea.com) (888) 244-4332.
 
 TM & © Big Idea Entertainment, LLC. All rights reserved.
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
-As of January 1, 2005, California Civil Code Section 1798.83 allows California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To request such information, please send an e-mail to [customerservice@bigidea.com](https://web.archive.org/web/20160630150257id_/http%3A//veggietales.com/customerservice@bigidea.com) or write to us at:
+As of January 1, 2005, California Civil Code Section 1798.83 allows California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To request such information, please send an e-mail to [customerservice@bigidea.com](https://web.archive.org/web/20161126011122id_/http://veggietales.com/privacy/customerservice@bigidea.com) or write to us at:
 
 Big Idea Entertainment, LLC
 
@@ -216,6 +216,6 @@ Beware of scams in which persons unknown to you request your e-mail, password or
 
 Always monitor your children’s on-line activities and educate them as to the rules for safe Internet use. For more information, go to <http://kids.getnetwise.org/safetyguide/> for the Internet Education Foundation’s Online Safety Guide for Kids.
 
-As always, if you have any questions, please feel free to contact us at [customerservice@bigidea.com](https://web.archive.org/web/20160630150257id_/http%3A//veggietales.com/customerservice@bigidea.com).
+As always, if you have any questions, please feel free to contact us at [customerservice@bigidea.com](https://web.archive.org/web/20161126011122id_/http://veggietales.com/privacy/customerservice@bigidea.com).
 
 © 2013 Big Idea Entertainment, LLC. VEGGIETALES®, character names, likenesses and other indicia are trademarks of and copyrighted by Big Idea Entertainment, LLC. All rights reserved.
