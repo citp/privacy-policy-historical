@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notimeforflashcards.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526233206id_/http%3A//www.notimeforflashcards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notimeforflashcards.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126201910id_/http%3A//www.notimeforflashcards.com/privacy) for the most accurate reproduction.*
 
 # Privacy - No Time For Flash Cards
 
