@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the deadstock.ca privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407013640id_/http%3A//www.deadstock.ca/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deadstock.ca privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126193208id_/http%3A//deadstock.ca/pages/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Deadstock.ca
 
 At Livestock we are committed to your right to privacy.  We collect personal information from our customers in the regular course of doing business. We have developed this Privacy Policy to explain our practices for the collection, use, and disclosure of your personal information.
 
-This Policy applies only to our websites. It does not apply to our retail stores, Livestock maintains a separate privacy policy for personal information collected with respect to its retail store operations. All references to “websites” in this Privacy Policy mean [www.deadstock.ca](http://deadstock.ca/www.deadstock.ca).
+This Policy applies only to our websites. It does not apply to our retail stores, Livestock maintains a separate privacy policy for personal information collected with respect to its retail store operations. All references to “websites” in this Privacy Policy mean [www.deadstock.ca](http://www.deadstock.ca/).
 
 ### How Do We Obtain Your Consent to the Collection of Your Personal Information?
 
