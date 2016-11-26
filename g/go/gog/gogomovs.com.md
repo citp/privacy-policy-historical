@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gogomovs.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612095321id_/http%3A//www.gogomovs.com/i/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogomovs.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126120442id_/http%3A//www.gogomovs.com/i/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GoGoMovs.com
 
-Updated: June 12, 2016  
+Updated: November 26, 2016  
 Site: GoGoMovs.com 
 
 Pursuant to our [Terms of Use](http://www.gogomovs.com/i/terms/), , this document describes how we treat personal information related to your use of GoGoMovs.com (the “Website”), including information you provide when using it.
