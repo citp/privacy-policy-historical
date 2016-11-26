@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnfun.in privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605203743id_/http%3A//www.funnfun.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnfun.in privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126044957id_/http%3A//www.funnfun.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Funny Pictures, Jokes, Cute & Love Pictures & Indian Pictures, Photos, Images
 
