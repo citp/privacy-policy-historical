@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtnews24.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520074416id_/http%3A//www.mtnews24.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtnews24.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126104631id_/http%3A//mtnews24.com/privacy.php) for the most accurate reproduction.*
 
 # None
 
@@ -48,6 +48,6 @@ MTnews24 has the discretion to update this privacy policy at any time. When we d
 By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
 
 **Contacting us**  
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://web.archive.org/web/20160520074416id_/http%3A//www.mtnews24.com/contact_us.php).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://web.archive.org/web/20161126104631id_/http%3A//mtnews24.com/contact_us.php).
 
 **This document was last updated on June 22, 2014**
