@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theshiftnetwork.com privacy policy that was archived on 2012-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120602040334id_/http%3A//theshiftnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theshiftnetwork.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126082126id_/http%3A//theshiftnetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Shift Network
 
@@ -62,6 +62,10 @@ We are not responsible for the privacy practices or the content of other website
 
 Click on the “unsubscribe” link on the bottom of the e-mail.
 
+You may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](http://www.google.com/policies/privacy/ads/).
+
+Or you may opt out of Google Analytics by visiting the [Google Analytics Opt-out page](http://tools.google.com/dlpage/gaoptout).
+
 ###  Updating Your Information
 
 The Shift Network provides users the following options for changing and modifying information previously submitted.
@@ -81,6 +85,3 @@ Your use of our websites, including any dispute concerning privacy, is subject t
 If we decide to change our privacy policy, we will post those changes to this privacy statement page and any other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by other means, such as e-mail, at our discretion.
 
 Your continued use of any portion of our website following posting of the updated privacy statement will constitute your acceptance of the changes.
-
-Effective Date   
-This privacy statement was last revised on March 30, 2010.
