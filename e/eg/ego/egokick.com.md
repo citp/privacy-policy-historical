@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egokick.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606114743id_/http%3A//www.egokick.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egokick.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126200631id_/http%3A//www.egokick.com/about/privacy) for the most accurate reproduction.*
 
 # Egokick.com
 
