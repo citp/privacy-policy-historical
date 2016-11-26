@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hongkongdisneyland.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410045041id_/https%3A//www.hongkongdisneyland.com/privacy-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hongkongdisneyland.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126192140id_/https%3A//www.hongkongdisneyland.com/privacy-legal) for the most accurate reproduction.*
 
-# Privacy Policy | Hong Kong Disneyland Resort | Hong Kong Disneyland
+# Privacy Policy | Hong Kong Disneyland Resort
 
 #### Privacy Policy
 
@@ -320,7 +320,7 @@ Parties to whom personal data collected by us may be transferred:
   2. Governments, law enforcement authorities, courts and tribunals. 
   3. Legal and other professional advisors, insurers, loss adjustors, rehabilitation service providers. 
   4. Any third party whom you have authorized to obtain your personal information from The Walt Disney Family of Companies. 
-  5. Our agents, contractors or third party service providers who provide the following goods or services: 
+  5. Agents, contractors or third party service providers who provide the following goods or services to us and/or The Walt Disney Family of Companies: 
 
 **Products**
 
@@ -387,7 +387,8 @@ Parties to whom personal data collected by us may be transferred:
     * Publishing Service 
     * Quality Inspection and Testing 
     * Real Estate Services 
-    * Research services 
+    * Research Services 
+    * Social Media
     * Storage Services 
     * Surveying 
     * Technology 
