@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildjunket.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606002744id_/http%3A//www.wildjunket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildjunket.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126125921id_/http%3A//www.wildjunket.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Wild Junket Adventure Travel Blog
 
@@ -65,11 +65,13 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
 WildJunket Ltd.  
 [wildjunket.com](http://wildjunket.com/)  
-163 Jalan Loyang Besar, Singapore  
-34615967877  
+_4285 Express Lane  
+Suite C6410 Sarasota  
+FL 34238 _  
 contact@wildjunket.com
 
 This document was last updated on June 10, 2013
