@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dell.co.in privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605015600id_/http%3A//www.dell.com/learn/in/en/incorp1/policies-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.co.in privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126093640id_/http%3A//www.dell.com/learn/in/en/incorp1/policies-privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Dell India
 
@@ -62,7 +62,7 @@ These storage mechanisms may be managed in a number of ways. These may be manage
 
 
 
-For further details on how Dell protects your personal information, please visit our [Security](https://web.archive.org/web/20160605015600id_/http%3A//www.dell.com/learn/in/en/incorp1/spredir.ashx/solutions/cat-intro-policies-security-in?catid=policies-security) page 
+For further details on how Dell protects your personal information, please visit our [Security](https://web.archive.org/web/20161126093640id_/http%3A//www.dell.com/learn/in/en/incorp1/spredir.ashx/terms-conditions/cat-intro-policies-security-in) page 
 
 **Dell uses your personal information for specific purposes**
 
@@ -91,7 +91,7 @@ We (or another Dell entity or an agent working on behalf of Dell) will send you 
 
 
 
-Email: Please click [here](https://ecomm.apj.dell.com/GSC/ListRemoval/Index?returnPath=www.dell.com&c=in&l=en) to unsubscribe 
+Email: Please click [here](http://www.dell.com/content/public/xdbredirect.aspx?link=global:external:pmc-list-removal) to unsubscribe 
 
 Please allow up to 10 business days for your communication preferences to take effect. Because some communications, such as direct mail catalogues, are developed and queued for distribution well in advance, you may receive additional information after we receive your request. 
 
@@ -109,11 +109,11 @@ To request access to, or correction of, your personal information, please contac
 
 **Internet Commerce**
 
-The [online store](http://www1.ap.dell.com/in/en/gen/df.aspx?refid=df&s=gen) offers you options for how your credit card information, name, address, e-mail, and any other information you provide us may be processed. Dell is committed to keeping the information collected on our site secure. We offer the industry standard security measures, called SSL encryption. These are available through your browser, (please see Dell's Store [Security](https://web.archive.org/web/20160605015600id_/http%3A//www.dell.com/learn/in/en/incorp1/spredir.ashx/solutions/cat-intro-policies-security-in?catid=policies-security) page for details on these security measures). If you would like to make a purchase, but do not want to provide your credit card information online, you may place an order without credit card information and a representative will contact you. Alternatively, you may contact a sales representative by telephone. We will usually try to contact you in the event of a potential problem with your purchase or for any normal business communication regarding your purchase. 
+The [online store](http://www1.ap.dell.com/in/en/gen/df.aspx?refid=df&s=gen) offers you options for how your credit card information, name, address, e-mail, and any other information you provide us may be processed. Dell is committed to keeping the information collected on our site secure. We offer the industry standard security measures, called SSL encryption. These are available through your browser, (please see Dell's Store [Security](https://web.archive.org/web/20161126093640id_/http%3A//www.dell.com/learn/in/en/incorp1/spredir.ashx/terms-conditions/cat-intro-policies-security-in) page for details on these security measures). If you would like to make a purchase, but do not want to provide your credit card information online, you may place an order without credit card information and a representative will contact you. Alternatively, you may contact a sales representative by telephone. We will usually try to contact you in the event of a potential problem with your purchase or for any normal business communication regarding your purchase. 
 
 **Customised Experience**
 
-We use technology to help us deliver customised visitor experiences. At Dell, we use Dell and third party "cookies" to help us determine which information is appropriate to you and to enhance your experience when you interact with us. Our use of cookies aims to provide you with a better experience when using <http://www.dell.co.in/> and to serve you customised messages about Dell products and services when you visit the Dell website and other third party websites. For more information about our use of cookies (including how to delete or refuse cookies), please click [here](https://web.archive.org/web/20160605015600id_/http%3A//www.dell.com/learn/in/en/incorp1/spredir.ashx/solutions/cat-intro-policies-cookies-in?catid=policies-cookies). 
+We use technology to help us deliver customised visitor experiences. At Dell, we use Dell and third party "cookies" to help us determine which information is appropriate to you and to enhance your experience when you interact with us. Our use of cookies aims to provide you with a better experience when using <http://www.dell.co.in/> and to serve you customised messages about Dell products and services when you visit the Dell website and other third party websites. For more information about our use of cookies (including how to delete or refuse cookies), please click [here](https://web.archive.org/web/20161126093640id_/http%3A//www.dell.com/learn/in/en/incorp1/spredir.ashx/terms-conditions/cat-intro-policies-cookies-in). 
 
 **Web Beacons**
 
