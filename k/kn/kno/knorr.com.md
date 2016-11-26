@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knorr.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410113338id_/http%3A//www.unileverprivacypolicy.com/en_us/policy.aspx%3Fsite%3Dwww.knorr.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knorr.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126060750id_/http%3A//www.unileverprivacypolicy.com/en_us/policy.aspx%3Fsite%3Dwww.knorr.com) for the most accurate reproduction.*
 
 # Privacy Policy
 
