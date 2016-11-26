@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adidasoutdoor.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630230252id_/http%3A//www.adidasoutdoor.com/about--privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adidasoutdoor.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126141737id_/http%3A//adidasoutdoor.com/about--privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,7 +50,7 @@ We provide you with an opportunity to opt-out of receiving our promotional commu
 
 ### How do I contact you about privacy-related questions?
 
-If you have questions or comments about our privacy practices, please contact us by e-mail [privacy.policy@adidasoutdoorusa.com](https://web.archive.org/web/20160630230252id_/http%3A//www.adidasoutdoor.com/%7Bmailto:privacy.policy@adidasoutdoorusa.com%7D) or by mail at the following address:  
+If you have questions or comments about our privacy practices, please contact us by e-mail [privacy.policy@adidasoutdoorusa.com](https://web.archive.org/web/20161126141737id_/http%3A//adidasoutdoor.com/%7Bmailto:privacy.policy@adidasoutdoorusa.com%7D) or by mail at the following address:  
 adidas outdoor  
 Attn: Legal Privacy Policy  
 2440 S. Sepulveda Blvd. #201  
@@ -60,7 +60,7 @@ If you have a question regarding a product or service, please contact Customer S
 
 ### What is the Secure Shopping Guarantee?
 
-We use the industry standard encryption protocol known as Secure Socket Layer (SSL) to keep your order information secure. We've established a Secure Shopping Guarantee for every transaction that you make with www.adidas.com. Should any unauthorized charges appear on your credit card as a result of shopping with www.adidas.com, you must notify your credit card provider in accordance with its reporting rules and procedures. If you have more questions regarding our policy, you can call one of our Customer Service representatives at 1-866.639.7916. Or send us an e-mail at: [customerservice@adidasoutdoor.com](https://web.archive.org/web/20160630230252id_/http%3A//www.adidasoutdoor.com/%7Bmailto:customerservice@adidasoutdoor.com%7D).
+We use the industry standard encryption protocol known as Secure Socket Layer (SSL) to keep your order information secure. We've established a Secure Shopping Guarantee for every transaction that you make with www.adidas.com. Should any unauthorized charges appear on your credit card as a result of shopping with www.adidas.com, you must notify your credit card provider in accordance with its reporting rules and procedures. If you have more questions regarding our policy, you can call one of our Customer Service representatives at 1-866.639.7916. Or send us an e-mail at: [customerservice@adidasoutdoor.com](https://web.archive.org/web/20161126141737id_/http%3A//adidasoutdoor.com/%7Bmailto:customerservice@adidasoutdoor.com%7D).
 
 ### Applicable Law and Jurisdiction
 
