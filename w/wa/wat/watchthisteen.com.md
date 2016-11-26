@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchthisteen.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624212811id_/http%3A//www.psmhelp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchthisteen.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126112912id_/http%3A//www.psmhelp.com/privacy) for the most accurate reproduction.*
 
 # PSM-Help :: Privacy Policy
 
