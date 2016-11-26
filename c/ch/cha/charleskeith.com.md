@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charleskeith.com privacy policy that was archived on 2015-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151026041536id_/http%3A//www.charleskeith.com/sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charleskeith.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126140725id_/http%3A//www.charleskeith.com/sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
