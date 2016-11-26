@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the russia-insider.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508185705id_/http%3A//russia-insider.com/russia-insider-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russia-insider.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126052919id_/http%3A//russia-insider.com/russia-insider-privacy-policy) for the most accurate reproduction.*
 
 # Russia Insider Privacy Policy
 
