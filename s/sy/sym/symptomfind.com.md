@@ -1,50 +1,148 @@
-> *The following text is extracted and transformed from the symptomfind.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506123715id_/http%3A//www.symptomfind.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symptomfind.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126234444id_/http%3A//www.symptomfind.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Symptom Find
 
-Last Updated: January 15, 2015
+Effective Date: July, 2016
 
-Generally SymptomFind.com ("Site," “SymptomFind.com,” "we", "our" or "us") does not collect, store, use or disclose any data collected with an intention to identify and/or contact a person such as: name, address, telephone number or e-mail address (hereinafter "PII").
+This Privacy Policy describes our practices concerning the information collected by IAC Publishing, LLC (“IACP”, “we”, “us”, “our”) through the use of the symptomfind.com websites (the “Website”). Below we describe what information we collect when you use our Services, how we protect that information, how long we retain it, with whom we share it, and what your privacy options are. By using the Services, you consent to our collection and use of your information as described in this Privacy Policy. 
 
-SymptomFind.com is an affiliate of About.com Health and operated by IAC Search & Media Brands, Inc. (“IACSAM Brands”). For SymptomFind.com, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us.
+We will continue to evaluate this Privacy Policy against new technologies, business practices, and our users’ needs, and may make changes to the Privacy Policy accordingly. Please check this page periodically for updates. If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here, along with its effective date, and notify you by email or by means of a notice on our Website. Your continued use of the Services after our posting of changes to this Privacy Policy means that you agree to be bound by such changes. 
 
-###### What does this Privacy Policy cover?
+######  What information does SymptomFind.com collect? 
 
-This Privacy Policy applies to collection, use, storage and disclosure of information by us.
+_Information you Provide to Us_
 
-Please be aware that, as part of the service provided by this Site, we may provide links to websites operated by third parties. We are not responsible for the information collection or privacy practices or the content of those third party Web sites or applications. You should check the applicable privacy policies of such third-party Web sites or applications to determine how they handle any information they collect from you.
+Your use of the Services may require registration, in which case we will ask you to provide certain personal information, including an email address, username, and password. You may also decide to provide us with some optional demographic information to enhance your profile, such as your country of residence, home address, education, interests, and communications preferences. 
 
-###### What information does SymptomFind.com collect and how is it used? Does SymptomFind.com disclose information to third parties?
+You may also provide personal information to us, if you choose to: 
 
-We may collect any or all of the following three types of information: (i) traffic or clickstream data, or (ii) non-personally identifiable information (for example: IP address, browser types, operating systems, domain names, access dates and times, referring website addresses, online transactions and browsing and search activity) ("Non-PII"). Our collection and use of each type of data is described below, as well as the ways (if any) in which the data may be shared with subsidiaries or affiliates of IACSAM Brands (“IACSAM Brands Entities”) and with third parties.
-
-**(a) Traffic or Clickstream Data ("Clickstream Data").** Clickstream Data consists of traffic and usage data that is not personally identifiable. We do not supplement or combine Clickstream Data with any PII. We may share Clickstream Data we collect with certain selected third parties and IACSAM Brands Entities, but only in anonymous form. Notwithstanding the foregoing, such third parties and IACSAM Brands Entities may combine such Clickstream Data with any PII that you choose to give to such third parties or IACSAM Brands Entities when registering with their websites. We collect Clickstream Data regarding use of our services by observing browser functions and the files (pages) you access. For example, our servers collect information about the site to which you may redirect to in order to enable us to calculate and receive payments from our business partners. In addition, we may use Clickstream Data to better design our services.
-
-**(b) Non-Personally Identifiable Information.** As part of our on-going efforts to ensure the best possible experience for all users of the Site, we may use log files, web beacons and cookies to collect Non-PII from the Site, browsers, advertisers and third-party sites. "Log files" track actions occurring on the Site and collect data including: your IP address, browser type, Internet service provider, referring/exit pages, platform type, date/time stamp, click data and types of advertisements viewed. "Web beacons" are electronic files used to track your navigation of a website or collection of sites, the completion of transactions, submittal of applications and browsing behavior. "Cookies" are files (e.g. flash browser objects) that are stored on your Internet enabled device (which includes your computer, BlackBerry or other PDA). Cookies are used to improve the experience web users have when they see web advertisements and ensure that when a web user clicks on an advertisement, they are sent to the correct click-through destination. We may use Cookies for purposes which may include, without limitation, to estimate the total reach of any of our advertisers, how frequently you return to the Site, as well as to streamline experiences of users of our Site. Cookies are also an anonymous way to survey how we are doing and to look for ways to improve our services. All information collected by Cookies, Web beacons and Log files are Non-PII.
-
-There are two classes of Cookies based on how long they remain on your system: (i) "Session Cookies" may be used only during your visit to the Site and are erased once you close your browser, and (ii) "Persistent Cookies" (if applicable) remain on your browser for one (1) year from your last visit to the Site and enable us to remember you on subsequent visits to the Site and provide more relevant content to you on such Site.
-
-There are many misconceptions about Cookies, some of which we will try to address in this policy. Cookies cannot erase your hard drive or otherwise damage your computer and do not tell us an e-mail address or any other PII. We do not and cannot use Cookies or web beacons to retrieve PII from your computer. Most internet browsers and browser add-ons allow you to adjust their settings to allow you to automatically refuse Cookies either generally or from specific sites. To adjust these settings, we suggest that you contact the supplier of your browser and browser add-ons for more information.
-
-A useful resource on understanding Cookies may be found at [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
-
-**(c) Third Party Advertising.** We have relationships with third-party advertising companies to drive traffic to and to serve ads on our Site. We share Clickstream Data and Non-PII with such advertising companies. Such companies may also collect non-personally identifiable information through the use of Cookies and other technology and any personally identifiable information you may choose to give in registering and transacting with any website linked to such ads. Although we choose our business partners and clients carefully, we are not responsible for the privacy practices of such third parties. You should check the applicable privacy policies of these third-party advertisers to determine how they handle any information they collect from you.
-
-###### Is data stored by SymptomFind.com secure?
-
-We employ reasonable measures to ensure the security of all information and we routinely evaluate our practices to identify security threats or opportunities for the improvement of our services. No transmission of information is guaranteed to be completely secure. Unauthorized entry or use, hardware or software failure, and other factors may compromise data security. You acknowledge and agree to assume this risk when communicating with us.
-
-###### How can I learn about changes to this privacy policy?
-
-We may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post the revised Privacy Policy and the date the Privacy Policy was last updated on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. We encourage you to review the Privacy Policy whenever you use this Site to make sure you understand how your information will be used. It is the express will of the parties that this agreement and all related documents have been drawn up in English. C'est la volonté expresse des parties que la présente convention ainsi que les documents qui s'y rattachent soient rédigés en anglais.
-
-###### How do I find out more about SymptomFind.com information practices?
-
-If you have any questions about anything in this Privacy Policy or about collection of personally identifiable information, or information generally, please contact us as follows:
-
-  * IAC Search & Media Brands, Inc.
-  * 555 12th Street, Suite 500
-  * Oakland, CA 94607
-  * E-Mail: [contact us](https://web.archive.org/web/20160506123715id_/http%3A//www.symptomfind.com/contact.html)
+  * submit a help request, a customer services inquiry or other inquiry to us, or fill in any other forms for the purposes of receiving our Services; 
+  * otherwise use the Services in a manner that you have requested. 
 
 
+
+_Information we Automatically collect:_
+
+When you use the Services, we automatically collect and store certain information about your computer or device and your activities, including: 
+
+  * (1) IP address of your computer
+  * (2) Unique mobile device identifier
+  * (3) Technical information about your computer or mobile device such as type of device, mobile device ID number, web browser (Internet Explorer 8, etc.), other browser information (e.g. size, connection speed and connection type), and operating system or platform (Mac, Windows XP, etc.)
+  * (4) Your preferences and settings (time zone, language, etc.)
+  * (5) Internet provider or mobile carrier name
+  * (6) The URL of the last webpage you visited before visiting the Website
+  * (7) Information about your activity on the Services (e.g., your search queries, mis-formatted DNS entries, search results selected, clicks, pages viewed, search history, comments)
+  * (8) If you are using a mobile device, your mobile device’s geographic location (specific geographic location if you’ve enabled collection of that information, or general geographic location automatically). Please see the section “Mobile Device Location Information” below for further information.
+  * (9) Clickstream Data consists of traffic and usage data that is not personally identifiable. We do not supplement or combine Clickstream Data with any PII.
+
+
+
+###### How do we use the information we collect?
+
+We use the information we collect from and about you for a variety of purposes, including to: 
+
+  * verify your eligibility for our Services; 
+  * respond to your queries with the best possible answers and search results; 
+  * understand our users (their demographics, what they do on our Services, what features they like, how they use them etc.) and improve our Services, such as by personalizing content to your interests and process and complete your transactions; 
+  * administer our Services, diagnose technical problems and otherwise manage our business; 
+  * send you communications that you have requested or that may be of interest to you in accordance with your preferences. Please see the section “Reviewing, changing or deleting information” for further information about how you can control these communications; 
+  * send you questions from other users that you may be able to answer if you have registered with our Services; 
+  * deliver prizes in connection with contests and sweepstakes or otherwise facilitate the use of our Services; 
+  * provide you with customer support; 
+  * enable us to show you ads that are more relevant to you; 
+  * perform functions as otherwise described at the time of collection; and. 
+
+
+
+· enable us to calculate and receive payments from our business partners. In addition, we may use Clickstream Data to better design our services. 
+
+We may also generate, use and disclose aggregated and/or anonymized information and statistics about your use of the Services to third parties for marketing, analytical and strategic purposes. However, no user of our Services will be individually identifiable from the aggregated and/or anonymized information and statistics. 
+
+###### Cookies and Online Advertising
+
+"Web beacons" are electronic files used to track your navigation of a website or collection of sites, the completion of transactions, submittal of applications and browsing behavior. "Cookies" are files (e.g. flash browser objects) that are stored on your Internet enabled device (which includes your computer, BlackBerry or other PDA). Cookies are used to improve the experience web users have when they see web advertisements and ensure that when a web user clicks on an advertisement, they are sent to the correct click-through destination. We may use Cookies for purposes which may include, without limitation, to estimate the total reach of any of our advertisers, how frequently you return to the Site, as well as to streamline experiences of users of our Site. Cookies are also an anonymous way to survey how we are doing and to look for ways to improve our services. All information collected by Cookies, Web beacons and Log files are Non-PII. 
+
+There are two classes of Cookies based on how long they remain on your system: (i) "Session Cookies" may be used only during your visit to the Site and are erased once you close your browser, and (ii) "Persistent Cookies" (if applicable) remain on your browser for one (1) year from your last visit to the Site and enable us to remember you on subsequent visits to the Site and provide more relevant content to you on such Site. 
+
+**How To Control Or Delete Cookies:  
+** Most browsers allow you to change your cookie settings. Users can usually set their browsers to block all third-party cookies (which are those set by third-party companies collecting information on websites operated by other companies), block all cookies (including first-party cookies such as the ones IACP uses to collect search activity information about its users), or block specific cookies. These settings will typically be found in the “options” or “preferences” menu of your browser. In order to understand these settings, the following links may be helpful, otherwise you should use the “Help” option in your browser for more details. 
+
+  * [Cookie settings in Internet Explorer](http://support.microsoft.com/kb/196955)
+  * [Cookie settings in Firefox](http://support.mozilla.com/en-US/kb/Cookies)
+  * [Cookie settings in Chrome](http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647)
+  * [Cookie settings in Safari web](http://support.apple.com/kb/PH5042) and [iOS](http://support.apple.com/kb/HT1677). 
+
+
+
+Please note that if you choose to block cookies, this may interfere with certain functionality on our website. Also, if you have disabled one or more cookies, we may still use information collected from cookies prior to your disabled preference being set; however, we will stop using the disabled cookie to collect any further information. 
+
+Third parties whose products or services are accessible or advertised through the Services, including social networking services, may also use cookies or similar tools, and we advise you to check their privacy policies for information about their cookies and other practices. We do not control the practices of such partners and their privacy policies govern their interactions with you. We encourage you to read their privacy policies. 
+
+Online Behavioral Advertising and Mobile. Advertisers and advertising networks place ads (including sponsored links in search results) on our website and in our mobile applications. These companies, as well as data analytics companies who service them, may use cookies, pixel tags, mobile device IDs and other similar technologies to collect data about you when you visit our site. They use the data to enable them to track your activity across various sites where they display ads and record your activities, so they can show ads that they consider relevant to you. You may opt-out of receiving targeted online advertising from advertising networks that is delivered on the Website and other websites by visiting the following websites: 
+
+  * Network Advertising Initiative (<http://www.networkadvertising.org/>) 
+  * Digital Advertising Alliance (<http://www.aboutads.info/consumers>) 
+
+
+
+Please bear in mind that there are many more companies listed on these sites than those that drop cookies on our website. 
+
+If you are using an IACP mobile application, we use your unique mobile device ID number to recognize you when you use the application and to store your preferences and settings. Advertising companies may also use and store your mobile device ID to show ads that they consider relevant to you in various mobile services that you use. 
+
+If you are using an iOS device and you do not want to receive tailored in-application ads that relate to your interests, you may opt-out by accessing the following link on your device: [http://oo.apple.com](http://oo.apple.com/). If you are using an iOS6 device, you also may limit the delivery of tailored ads by: Open Settings and tap “General” then tap “About”; Scroll to the bottom of About and tap “Advertising”; Flip “Limit Ad Tracking” to ON. If you are using an Android device and you do not wish to receive tailored in-application ads, you can visit Google’s [Ads Preferences](http://www.google.com/ads/preferences/) page from a browser on your device and make your choices there. We do not control how the applicable platform operator allows you to control receiving tailored in-application ads; thus, you should contact the platform provider if the above options are no longer available. 
+
+Mobile Device Location Information. When you use one of our location-enabled services (for example, when you access Services from a mobile device), we may need to collect and process information about your actual GPS location (including the latitude, longitude or altitude of your mobile device) and the time the location information was recorded. Some of these services require your personal data for the feature to work and we may associate location data with your device ID and other information we hold about you. We keep this data for no longer than is reasonably necessary for providing our services. If you wish to use the particular feature, you will be asked to consent to your data being used for this purpose. You can withdraw your consent at any time by disabling the relevant feature. If you do not want your location information collected when you use the Services from a mobile device, please follow these instructions: 
+
+  * If you are using an Apple device, click on “General,” then “Reset,” then “Reset Location and Privacy.” This will turn off location functionality for all of your apps so that the next time you download or use an app, you will be asked again to provide your consent for us and others to access your location information. 
+  * If you are using an Android device, visit device settings, click “Location,” and then click the boxes for the particular applications for which you would like to disable location services. 
+  * If your device changes the above methods of disabling the collection of mobile device location, please contact your device manufacturer or platform provider to determine how to disable the collection of this information. 
+
+
+
+**(c) Third Party Advertising.** We have relationships with third-party advertising companies to drive traffic to and to serve ads on our Site. We share Clickstream Data and Non-PII with such advertising companies. Such companies may also collect non-personally identifiable information through the use of Cookies and other technology and any personally identifiable information you may choose to give in registering and transacting with any website linked to such ads. Although we choose our business partners and clients carefully, we are not responsible for the privacy practices of such third parties. You should check the applicable privacy policies of these third-party advertisers to determine how they handle any information they collect from you. 
+
+######  How We Share your Information 
+
+We will not share the personal information we collect about you with any third party for their own marketing purposes without your consent. We will share your information in the following ways: 
+
+  * **_Our suppliers, subcontractors and business partners (“service providers”):_** We may share your data with our services providers who process your personal information to provide services to us or on our behalf. We have contracts with our service providers that prohibit them from sharing the information about you that they collect or that we provide to them with anyone else, or using it for other purposes. 
+  * **_ClickStream Data:_** We may share Clickstream Data we collect with certain selected third parties or IACP subsidiaries or affiliates (“IACP Entities”), but only in anonymous form. Notwithstanding the foregoing, such third parties and IACP Entities may combine such Clickstream Data with any personal identifiable information that you choose to give to such third parties or IACP Entities when registering with their websites. 
+  * **_Companies within the IAC Group of Companies:_** We may share your information with our affiliates, which are entities under common ownership or control of our ultimate parent company, IAC/InterActive Corp. 
+  * **_Fraud prevention:_** We may disclose the personal information we collect about our users when we believe disclosure is necessary to investigate, prevent, or respond to suspected illegal or fraudulent activity or to protect the safety, rights, or property of us, our users, or others. 
+  * **_Law enforcement purposes:_** If requested or required by government authorities, such as law enforcement authorities, courts, or regulators, or otherwise to comply with the law, we may disclose any information we have about our users. We also may disclose information collected about you in order to exercise or protect legal rights or defend against legal claims. 
+  * **_Sale or merger of our business:_** __ We may transfer your personal information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets). 
+  * **_Advertisers and advertising networks:_** Advertisers and advertising networks place ads (including sponsored links in search results) on our site and in our mobile applications. These companies may collect information, such as your computer’s IP address, browser information, mobile device ID, and search queries, as you use our Website and Services. They also may use cookies and other technologies to collect this information when you visit our site as described below. 
+
+
+
+###### How do we keep the information we collect secure? 
+
+We use appropriate technical and organizational measures to protect your personal information against unauthorized or unlawful processing and against accidental loss, destruction or damage. We also limit access to personal information about you to employees who reasonably need access to it to provide products or services to you, or in order to do their jobs. However, because no security system can be 100% effective, we cannot completely guarantee the security of any information we may have collected from or about you. 
+
+###### Reviewing, changing or deleting information
+
+If you would like to review, change or delete personal information we have collected from you, please contact the IACP Privacy Officer: 
+
+SymptomFind.com   
+Attn: Privacy Officer   
+555 12th Street, Suite 400   
+Oakland, CA 94607   
+[Privacyhelp@ask.com](mailto:Privacyhelp@ask.com)
+
+###### Do Not Track
+
+Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services. 
+
+We are committed to providing you with meaningful choices about the information collected on our website for third party purposes, and that is why we provide the Network Advertising Initiative and the Digital Advertising Alliance opt-out links above. However, we do not recognize or respond to browser-initiated DNT signals, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT. 
+
+###### How long do we keep the information we collect?
+
+We retain the information we collect about and from you for as long as necessary to fulfill a business purpose or comply with a legal request. We may also choose to anonymize certain of the information you provide to us so that it can no longer be attributed to you if we would like to retain it for longer periods of time. 
+
+###### Children under 13
+
+The Services are not intended for users under the age of 13. We do not knowingly collect any personal information from children under 13. If we become aware that a person submitting information is under 13, we will attempt to delete the information as soon as possible. You hereby represent that you are at least 13. 
+
+###### Consent to Transfer of Information 
+
+If you are visiting the Services from outside the United States, your data will be transferred to and stored in our servers in the U.S. By using the Services, you consent to our collection and use of your data as described in this Privacy Policy. 
