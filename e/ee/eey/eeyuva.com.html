@@ -1,0 +1,2515 @@
+<!--The following is the downloaded HTML source of the eeyuva.com privacy policy that was archived on 2016-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161126104846id_/http%3A//www.eeyuva.com/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:type" content="website"> 
+
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+
+<title> 
+  EeYuva | Privacy Policy 
+</title>
+
+
+
+
+
+ 
+
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.js&#10;"></script>
+<!--script type="text/javascript" src="/static/js/bootstrap-min.js"></script--> 
+<!--script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script-->
+<script type="text/javascript" src="/static/js/jquery.min.js"></script>
+<link rel="stylesheet" href="/static/css/automobiles_paginatoion.css" type="text/css" media="screen">
+<link rel="icon" href="/static/images/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/static/images/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="/static/css/foundation.css" type="text/css" media="screen">
+
+<link rel="stylesheet" href="/static/css/style.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/static/css/responsive.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/static/css/forums.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/static/css/liveRepositoryArtical.css" type="text/css" media="screen">
+<link rel="stylesheet" type="text/css" media="screen" href="/static/css/jquery.ad-gallery.css">
+<link rel="stylesheet" href="/static/css/progressbar.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/static/css1/contents.css" type="text/css" media="screen">
+<!--link rel="stylesheet" href="/static/css1/bootstrap-min.css" type="text/css" media="screen"-->
+<script type="text/javascript" src="/static/js/jquery.ad-gallery.js"></script> 
+<script type="text/javascript" src="/static/js/cycle.js"></script> 
+<script type="text/javascript" src="/static/js/jquery.lbslider.js"></script> 
+<script type="text/javascript" src="/static/js/jquery.classysocial.js"></script> 
+<script type="text/javascript" src="/static/js/jquery.classysocial.min.js"></script> 
+<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+<!-- alert --> 
+<link rel="stylesheet" href="/static/css/jAlert-v3.css">
+<script src="jquery-1.7.1.min.js"></script>
+<script src="/static/js/jAlert-v3.min.js"></script>
+<script src="/static/js/jAlert-functions.min.js"></script>
+<!--gallery--> 
+<script type="text/javascript" src="/static/js/jquery.cm-overlay.js"></script> 
+<script type="text/javascript" src="/static/js/jquery.mobile.custom.min.js"></script> 
+<script type="text/javascript" src="/static/js/jquery.tools.min.js"></script> 
+<script>
+    $(document).ready(function(){
+        $('.cm-overlay').cmOverlay();
+    });
+</script> 
+
+<!--glaeery end-->
+<link href="/static/css/jqueryalert.css" rel="stylesheet" type="text/css">
+<script src="/static/js/jquery.confirm.js"></script>
+<link href="/static/css/jquery.classysocial.css" rel="stylesheet" type="text/css">
+<link href="/static/css/jquery.classysocial.min.css" rel="stylesheet" type="text/css">
+<!-------- end ---->
+
+<link rel="stylesheet" href="/static/css/uitabs.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/static/css/latest.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/static/css/gallery_pop.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/static/css1/bootstrap.css" type="text/css" media="screen">
+<script type="text/javascript" src="/static/js/bootstrap.js"></script> 
+<script type="text/javascript" src="/static/js/user_athentication.js"></script> 
+<!--script type="text/javascript" src="/static/js/floating-1.12.js">  </script--> 
+ 
+
+<script type="text/javascript" src="/static/js/jquery-ui.js"></script> 
+
+
+
+
+<script type="text/javascript">
+    $(document).ready(function(){
+       //alert(1);
+       $('.ad-gallery').adGallery({
+	   update_window_hash: false,
+           display_back_and_forward: false,
+	slideshow: {
+	    enable: true,
+	    autostart: true,
+	    speed: 5000,
+	    
+	  },
+          cycle:true,
+          description_wrapper: $('#descriptions')
+           
+       });
+ $( "#tabs" ).tabs();
+	 $('#wall_content').click(function(e){
+		     e.preventDefault();
+		     //alert('hi');
+		     $('#slideit').slideToggle();
+		     });
+	$(".r_tab_content").hide(); //Hide all content
+	$("ul.tabs-r li:first").addClass("active").show(); //Activate first tab
+	$(".r_tab_content:first").show(); //Show first tab content
+
+	//On Click Event
+	$("ul.tabs-r li").click(function() {
+		$("ul.tabs-r li").removeClass("active"); //Remove any "active" class
+		$(this).addClass("active"); //Add "active" class to selected tab
+		$(".r_tab_content").hide(); //Hide all tab content
+		var activeTab = $(this).find("a").attr("href"); //Find the rel attribute value to identify the active tab + content
+		$(activeTab).fadeIn(); //Fade in the active content
+		return false;
+	});
+
+	$('#email').click(function(e){
+		e.preventDefault();
+		//var EmptyAnswer = "";
+		$('#email_form input').each(function(){
+                    //console.log($(this).val());
+			if($('#email_address').val() == '' || $('#email_address').val() == 'Enter your email address'){
+				//EmptyAnswer = '<p style="font-size:14px; color:red; ">Invalid Email</p>';
+                                $("#email_form input:text").css({ border:"2px red solid"});
+			}
+		});
+		//$("#error").html(EmptyAnswer);
+	});
+});
+</script> 
+<script type="text/javascript" src="/static/js/poll.js"></script> 
+<script type="text/javascript" src="/static/js/common.js"></script> 
+<script type="text/javascript">
+	$(document).ready(function(){
+    var proportion = 1;    // width / height
+    $('.two').each(function(){
+       $(this).css('height', (parseInt($(this).width())/proportion)+'px'); 
+    });    
+
+});
+</script> 
+<script>
+	 $(document).ready(function() {
+	$('.classysocial').ClassySocial();
+	});
+
+
+</script> 
+<script type="text/javascript">
+$(document).ready(function(){
+$("#wall_main").click(function(){
+     
+    $(".wall-main-div").slideDown("slow",function()
+    {
+      document.add_dept.hidtoggle.value=1;   
+    });
+  });
+});
+
+
+$(document).ready(function(){
+
+  $("body").on('click',function() {
+ 
+var a=document.add_dept.hidtoggle.value;
+
+if (a == 1)
+{     
+    $(".wall-main-div").slideUp("linear",function()
+    {
+       document.add_dept.hidtoggle.value=0;
+    });
+ 
+}
+});
+}); 
+</script> 
+<script type="text/javascript">
+$(document).ready(function(){
+
+	// hide #back-top first
+	$("#back-top").hide();
+	
+	// fade in #back-top
+	$(function () {
+		$(window).scroll(function () {
+			if ($(this).scrollTop() > 100) {
+				$('#back-top').fadeIn();
+			} else {
+				$('#back-top').fadeOut();
+			}
+		});
+
+		// scroll body to 0px on click
+		$('#back-top a').click(function () {
+			$('body,html').animate({
+				scrollTop: 0
+			}, 800);
+			return false;
+		});
+	});
+
+});
+
+
+$(document).ready(function() {	
+
+		var id = '#dialog';
+		//Get the window height and width
+		var winH = $(window).height();
+		var winW = $(window).width();
+              
+		//Set the popup window to center
+		$(id).css('top',  winH/2-$(id).height()/2);
+		$(id).css('left', winW/2-$(id).width()/2);
+	
+		//transition effect
+		$(id).fadeIn(2000); 	
+	
+	//if close button is clicked
+	$('.window .close').click(function (e) {
+		//Cancel the link behavior
+		e.preventDefault();
+		
+		$('.window').hide();
+	});		
+			
+	
+});
+
+</script> 
+<script src="/static/js/classie.js"></script> 
+
+<script type="text/javascript">
+  $('body').on('keydown', '#pwd', function(e) {
+
+
+    console.log(this.value);
+
+    if (e.which === 32 &&  e.target.selectionStart === 0) {
+      return false;
+    }  
+  });
+
+
+
+
+</script>
+
+<script type="text/javascript">
+    $("#fleshdiv").innerHTML="";
+
+$(document).ready(function(){
+$("blockquote.twitter-tweet").addClass("tw-align-center");
+
+
+$("blockquote.instagram-media").wrap("<div align='center'></div>");
+});
+</script>
+
+</head><body onload="initialize()"><div id="loading_image">
+  <div class="yiconbenand"></div>
+</div>
+<div id="fade" class="black_overlay"></div>
+<div id="popup"></div>
+ 
+
+
+
+     
+<input type="checkbox" id="drawer-toggle">
+<label for="drawer-toggle" id="drawer-toggle-label"></label>     
+<div id="header">
+<header class="clearfix header-main" style="position:fixed; width:100%; z-index:9; top:0px;"> 
+  <!-- Top Menu -->
+  <nav class="navbar navbar-default mbnone " role="navigation">
+    <div class="container" id="main-menu">
+    	<div class="row" style="background:none">
+        <div class="pull-right text-right mt10 myres_head">
+          <nav id="top-menu" class="clearfix">
+            <ul class="no-bullet inline-list m0 pull-right">
+              <li>
+                <ul class="tp_m">
+                  <li> <a href="javascript:void(0)" id="signupForm"> Sign Up </a>  </li>
+              <li>  <a href="javascript:void(0)" id="signinForm">Sign in</a>  </li>
+               
+            </ul>
+            
+            <ul class="nav navbar-nav label-nav navbar-right serch1m" style="margin:4px 0 0 0;">
+          <li>
+   			<form class="form-inline" role="form" action="/searchcontent/" method="post">
+                <input type="text" class="search_top" id="pwd" name="ser_key" style=" float:left;" required="">
+                <button type="submit" class="btn btn-danger brlnone" style=" float:right; display:inline-block; font-size: 12px;padding: 4px 10px;"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
+            </form>
+          </li>
+          </ul>
+          </li></ul></nav> 
+          
+        </div>
+        
+        <div class="pull-left menu-right-icons"> 
+       
+        <a href="/videomain?id=home&amp;modid=0" title="Videos" class="mt10"><!--span class="glyphicon glyphicon-facetime-video ba-blue1" aria-hidden="true"></span--> Videos</a> <a href="/photos?id=home&amp;modid=0" title="Photos" class="mt10"><!--span class="glyphicon glyphicon-camera ba-blue" aria-hidden="true"></span--> Photos</a><a class="navbar-brand" style="margin-left:0px;" href="/"> <img alt="Brand" class="brand1" src="/static/images/logo.png" width="70%" height="70%"> </a> </div>
+       <!-- <div><img src="/static/images/beta/beta_top.png" style="margin:5px 0 0 180px !important;"></div>-->
+    </div>
+   
+    </div>
+  </nav>
+  <nav id="top-menu" class="clearfix"> 
+    <!--  <ul class="no-bullet inline-list m0">
+     	<li class="pull-right">
+        
+      <a href="javascript:void(0)" id="signinForm">Sign in</a>
+     
+     </li>
+   
+      <li class="pull-right">
+      
+	<a href="javascript:void(0)" id="signupForm">
+		Sign up
+	</a>
+	
+	</li>
+
+      <li class="pull-right"><a href="#" id="wall_content">Wall</a></li>
+  <li class="pull-right">
+      
+     </li>
+    
+    </ul> --> 
+    
+  </nav>
+</header>
+<nav class="navbar navbar-inverse mbnone my-responsive " style="margin-top:58px;">
+  <div class="container padl20" style="width:1260px; padding:0px;">
+    <div class="slider-wrap">
+      <div class="slider" style="overflow: hidden;">
+        <ul style="position: relative; left: -1364px; width: 15686px;"><li style="float: left; width: 341px;"> 
+             <a href="/movies/details/watch-telugu-trailer-of-dangal-here-Mov_4120164a8"><span class=""><img src="http://pics.eeyuva.com/uploads/module4/photos/75x75/thumbnail_1479912162_9021124.jpg"></span>
+            </a><p class="headers_strip"><a href="/movies/details/watch-telugu-trailer-of-dangal-here-Mov_4120164a8"> Watch Telugu Trailer Of 'Dangal' Here</a></p>
+            <p class="tag_color">Box Office</p>
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li><li style="float: left; width: 341px;">  <a href="/sports/sports_details/top-4-world-class-batsmen-in-modern-day-cricket-who-can-set-the-stage-ablaze-Spo_3d499e07f"><span class=""><img src="http://pics.eeyuva.com/uploads/module10/photos/75x75/thumbnail_1474005466_9023869.png"></span></a>
+            <p class="headers_strip"><a href="/sports/sports_details/top-4-world-class-batsmen-in-modern-day-cricket-who-can-set-the-stage-ablaze-Spo_3d499e07f">Top 4 World Class Batsmen In Modern Day Cricket Who Can Set The Stage...</a> </p>
+            <p class="tag_color">Sports &amp; Games</p>
+            
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li><li style="float: left; width: 341px;"> 
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             <a href="/tourism/tourism_detail/jatayu-adventure-park-will-now-enthral-the-adventure-seekers-Tnt_2833d575c"><span class=""><img src="http://pics.eeyuva.com/uploads/module26/photos/75x75/thumbnail_1479903347_9023953.jpg"></span>
+            </a><p class="headers_strip"><a href="/tourism/tourism_detail/jatayu-adventure-park-will-now-enthral-the-adventure-seekers-Tnt_2833d575c"> Jatayu Adventure Park Will Now Enthral The Adventure Seekers</a></p>
+            <p class="tag_color">Travel &amp; Tourism</p>
+             
+             </li><li style="float: left; width: 341px;">  <a href="/sports/sports_details/happy-birthday-amit-mishra-the-leggie-turns-34-today-Spo_01d422ee1"><span class=""><img src="http://pics.eeyuva.com/uploads/module10/photos/75x75/thumbnail_1479911796_8920499.jpg"></span></a>
+            <p class="headers_strip"><a href="/sports/sports_details/happy-birthday-amit-mishra-the-leggie-turns-34-today-Spo_01d422ee1">Happy Birthday Amit Mishra: The Leggie turns 34 Today</a> </p>
+            <p class="tag_color">Sports &amp; Games</p>
+            
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li> 
+            
+          
+          
+          <li style="float: left; width: 341px;"> 
+            
+            
+            
+            
+             <a href="/jokes/jokes_detail/want-to-get-smarter-just-have-ice-cream-in-the-morning-Jok_20599356f"><span class=""><img src="http://pics.eeyuva.com/uploads/module19/photos/75x75/thumbnail_1480151298_8920378.jpg"></span>
+            </a><p class="headers_strip"><a href="/jokes/jokes_detail/want-to-get-smarter-just-have-ice-cream-in-the-morning-Jok_20599356f">Want To Get Smarter! Just Have Ice-Cream In The Morning</a></p>
+            <p class="tag_color">Humour Unlimited</p>
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             <a href="/lifestyle/lifestyle_details/who-carried-it-out-pretty-well-diana-or-tamannaah-Lst_c0194ed58"><span class="">
+            <img src="http://pics.eeyuva.com/uploads/module13/photos/75x75/thumbnail_1480069314_9020999.jpg">
+            </span></a><p class="headers_strip"><a href="/lifestyle/lifestyle_details/who-carried-it-out-pretty-well-diana-or-tamannaah-Lst_c0194ed58">Who Carried It Out Pretty Well?? Diana Or Tamannaah...</a></p>
+            <p class="tag_color">Fashion &amp; Styles</p>
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             <a href="/health/health_detail/world-anti-obesity-day-wake-up-and-get-aware-of-obesity-Hlt_84d2a132b"><span class=""><img src="http://pics.eeyuva.com/uploads/module18/photos/75x75/thumbnail_1480079574_9023385.jpg"></span>
+            </a><p class="headers_strip"><a href="/health/health_detail/world-anti-obesity-day-wake-up-and-get-aware-of-obesity-Hlt_84d2a132b">'World Anti-Obesity Day', Wake Up And Get Aware Of Obesity...</a></p>
+            <p class="tag_color">Health &amp; Fitness</p>
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             <a href="/food/food_detail/the-luscious-choco-flavoured-carrot-orange-cake-Fod_21ebb9245"><span class=""><img src="http://pics.eeyuva.com/uploads/module12/photos/75x75/thumbnail_1480078987_9023158.jpg"></span>
+            </a><p class="headers_strip"><a href="/food/food_detail/the-luscious-choco-flavoured-carrot-orange-cake-Fod_21ebb9245">The Luscious Choco Flavoured Carrot-Orange Cake</a></p>
+            <p class="tag_color">Just Food</p>
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+             <a href="/movies/details/dhruva-theatrical-trailer-racy-and-thrilling-Mov_00cf41fb9"><span class=""><img src="http://pics.eeyuva.com/uploads/module4/photos/75x75/thumbnail_1480084583_9021124.jpg"></span>
+            </a><p class="headers_strip"><a href="/movies/details/dhruva-theatrical-trailer-racy-and-thrilling-Mov_00cf41fb9"> 'Dhruva' Theatrical Trailer: Racy And Thrilling</a></p>
+            <p class="tag_color">Box Office</p>
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+            
+            
+            
+            
+             <a href="/jokes/jokes_detail/watch-how-the-working-style-of-bankers-has-drastically-changed-after-demonetisation-Jok_48da603fa"><span class=""><img src="http://pics.eeyuva.com/uploads/module19/photos/75x75/thumbnail_1480085416_8920378.jpg"></span>
+            </a><p class="headers_strip"><a href="/jokes/jokes_detail/watch-how-the-working-style-of-bankers-has-drastically-changed-after-demonetisation-Jok_48da603fa">Watch How The Working Style Of Bankers Has Drastically Changed After Demonetisation</a></p>
+            <p class="tag_color">Humour Unlimited</p>
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;">  <a href="/sports/sports_details/ecc-cup-like-never-before-Spo_3474e9f8b"><span class=""><img src="http://pics.eeyuva.com/uploads/module10/photos/75x75/thumbnail_1480086510_8920499.jpeg"></span></a>
+            <p class="headers_strip"><a href="/sports/sports_details/ecc-cup-like-never-before-Spo_3474e9f8b">ECC CUP - Like Never Before</a> </p>
+            <p class="tag_color">Sports &amp; Games</p>
+            
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             <a href="/news/news_details/modi-calls-on-pakistanis-to-ask-their-rulers-to-fight-against-corruption-not-india-New_92f3fe0d8"><span class=""><img src="http://pics.eeyuva.com/uploads/module24/photos/75x75/thumbnail_1480086428_8920643.jpg"></span>
+            </a><p class="headers_strip"><a href="/news/news_details/modi-calls-on-pakistanis-to-ask-their-rulers-to-fight-against-corruption-not-india-New_92f3fe0d8"> Modi Calls On Pakistanis To Ask Their 'Rulers' To Fight Against...</a></p>
+            <p class="tag_color">News Room</p>
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             <a href="/finance/finance_detail/mahatma-gandhi-new-series-rs-500-notes-with-printing-errors-are-valid-rbi-Fim_ab197b9c9"><span class=""><img src="http://pics.eeyuva.com/uploads/module15/photos/75x75/thumbnail_1480081747_9023886.jpg"></span>
+            </a><p class="headers_strip"><a href="/finance/finance_detail/mahatma-gandhi-new-series-rs-500-notes-with-printing-errors-are-valid-rbi-Fim_ab197b9c9">Mahatma Gandhi (New) Series Rs 500 Notes With Printing Errors Are...</a></p>
+           
+            <p class="tag_color">Money &amp; Business</p>
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             <a href="/lifestyle/lifestyle_details/vishnu-raj-menon-bagged-mr-india-2016-title-Lst_4934f430f"><span class="">
+            <img src="http://pics.eeyuva.com/uploads/module13/photos/75x75/thumbnail_1480073164_9020999.jpg">
+            </span></a><p class="headers_strip"><a href="/lifestyle/lifestyle_details/vishnu-raj-menon-bagged-mr-india-2016-title-Lst_4934f430f">Vishnu Raj Menon Bagged Mr India, 2016 Title</a></p>
+            <p class="tag_color">Fashion &amp; Styles</p>
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             <a href="/tourism/tourism_detail/take-a-selfie-with-love-hyderabad-symbol-at-tank-bund-Tnt_905d0dc84"><span class=""><img src="http://pics.eeyuva.com/uploads/module26/photos/75x75/thumbnail_1480138816_9020968.jpg"></span>
+            </a><p class="headers_strip"><a href="/tourism/tourism_detail/take-a-selfie-with-love-hyderabad-symbol-at-tank-bund-Tnt_905d0dc84"> Take A Selfie With 'Love Hyderabad' Symbol At Tank Bund</a></p>
+            <p class="tag_color">Travel &amp; Tourism</p>
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+            
+            
+             <a href="/music/music_details/pawan-kalyan-might-attend-the-audio-launch-of-chiranjeevis-khaidi-no-150-Alb_c757770c3"><span class=""><img src="http://pics.eeyuva.com/uploads/module1/photos/75x75/thumbnail_1480079294_9020968.jpg"></span>
+            </a><p class="headers_strip"><a href="/music/music_details/pawan-kalyan-might-attend-the-audio-launch-of-chiranjeevis-khaidi-no-150-Alb_c757770c3">Pawan Kalyan Might Attend The Audio Launch Of Chiranjeevi's 'Khaidi No...</a></p>
+            <p class="tag_color">Elements Of Music</p>
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;">  <a href="/sports/sports_details/confident-india-aim-to-extend-lead-against-england-in-3rd-test-Spo_e1e3fd2fa"><span class=""><img src="http://pics.eeyuva.com/uploads/module10/photos/75x75/thumbnail_1480076547_8920499.jpg"></span></a>
+            <p class="headers_strip"><a href="/sports/sports_details/confident-india-aim-to-extend-lead-against-england-in-3rd-test-Spo_e1e3fd2fa">Confident India Aim To Extend Lead Against England In 3rd Test</a> </p>
+            <p class="tag_color">Sports &amp; Games</p>
+            
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+             <a href="/movies/details/the-official-trailer-of-kadhal-kan-kattuthe-is-out-and-it-looks-like-a-romantic-drama-Mov_914063fc7"><span class=""><img src="http://pics.eeyuva.com/uploads/module4/photos/75x75/thumbnail_1480072839_9021124.jpg"></span>
+            </a><p class="headers_strip"><a href="/movies/details/the-official-trailer-of-kadhal-kan-kattuthe-is-out-and-it-looks-like-a-romantic-drama-Mov_914063fc7"> The Official Trailer Of 'Kadhal Kan Kattuthe' Is Out And It Looks Like...</a></p>
+            <p class="tag_color">Box Office</p>
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+             <a href="/movies/details/arrival-review-breathtaking-and-a-monumental-work-of-brilliance-Mov_924793291"><span class=""><img src="http://pics.eeyuva.com/uploads/module4/photos/75x75/thumbnail_1480060390_9021124.jpg"></span>
+            </a><p class="headers_strip"><a href="/movies/details/arrival-review-breathtaking-and-a-monumental-work-of-brilliance-Mov_924793291"> 'Arrival' Review: Breathtaking And A Monumental Work Of Brilliance</a></p>
+            <p class="tag_color">Box Office</p>
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             <a href="/finance/finance_detail/start-up-hurdles-that-every-entrepreneur-will-encounter-and-need-to-overcome-Fim_b3cabbaf1"><span class=""><img src="http://pics.eeyuva.com/uploads/module15/photos/75x75/thumbnail_1480058792_9021026.jpg"></span>
+            </a><p class="headers_strip"><a href="/finance/finance_detail/start-up-hurdles-that-every-entrepreneur-will-encounter-and-need-to-overcome-Fim_b3cabbaf1">Start-Up Hurdles That Every Entrepreneur Will Encounter And Need To...</a></p>
+           
+            <p class="tag_color">Money &amp; Business</p>
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             <a href="/lifestyle/lifestyle_details/wear-chunky-jewellery-and-make-a-statement-like-our-tinsel-town-divas-Lst_35fb246e5"><span class="">
+            <img src="http://pics.eeyuva.com/uploads/module13/photos/75x75/thumbnail_1479994765_8918342.jpg">
+            </span></a><p class="headers_strip"><a href="/lifestyle/lifestyle_details/wear-chunky-jewellery-and-make-a-statement-like-our-tinsel-town-divas-Lst_35fb246e5">Wear Chunky Jewellery And Make A Statement Like Our Tinsel Town Divas</a></p>
+            <p class="tag_color">Fashion &amp; Styles</p>
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             <a href="/food/food_detail/glossy-look-and-delectable-taste-dates-pudding-Fod_3a1e70ecc"><span class=""><img src="http://pics.eeyuva.com/uploads/module12/photos/75x75/thumbnail_1479992634_9023158.jpg"></span>
+            </a><p class="headers_strip"><a href="/food/food_detail/glossy-look-and-delectable-taste-dates-pudding-Fod_3a1e70ecc">Glossy Look And Delectable Taste - Dates Pudding</a></p>
+            <p class="tag_color">Just Food</p>
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+             <a href="/gadgets_inner/htc-puts-its-new-handset-desire-10-pro-on-the-indian-market-Gdt_5d8307ccb"><span class=""><img src="http://pics.eeyuva.com/uploads/module32/photos/75x75/thumbnail_1480065730_8919602.png"></span>
+            </a><p class="headers_strip"><a href="/gadgets_inner/htc-puts-its-new-handset-desire-10-pro-on-the-indian-market-Gdt_5d8307ccb">HTC Puts Its New Handset, Desire 10 Pro, On The Indian Market</a></p>
+            <p class="tag_color">Gadgets</p>
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+             <a href="/movies/details/adhm-is-a-huge-hit-at-overseas-bo-Mov_901125a86"><span class=""><img src="http://pics.eeyuva.com/uploads/module4/photos/75x75/thumbnail_1480060229_9021138.jpg"></span>
+            </a><p class="headers_strip"><a href="/movies/details/adhm-is-a-huge-hit-at-overseas-bo-Mov_901125a86"> 'ADHM' Is A Huge Hit At Overseas BO!</a></p>
+            <p class="tag_color">Box Office</p>
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+            
+            
+            
+            
+             <a href="/jokes/jokes_detail/7-hard-experiences-after-a-break-up-in-the-form-of-gifs-Jok_f1dc34b9c"><span class=""><img src="http://pics.eeyuva.com/uploads/module19/photos/75x75/thumbnail_1480055843_8920378.png"></span>
+            </a><p class="headers_strip"><a href="/jokes/jokes_detail/7-hard-experiences-after-a-break-up-in-the-form-of-gifs-Jok_f1dc34b9c">7 Hard Experiences After A Break-Up In The Form Of GIFs</a></p>
+            <p class="tag_color">Humour Unlimited</p>
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             <a href="/finance/finance_detail/key-indian-equity-indices-trade-higher-during-early-session-Fim_2480e1652"><span class=""><img src="http://pics.eeyuva.com/uploads/module15/photos/75x75/thumbnail_1480048223_9021026.jpg"></span>
+            </a><p class="headers_strip"><a href="/finance/finance_detail/key-indian-equity-indices-trade-higher-during-early-session-Fim_2480e1652">Key Indian Equity Indices Trade Higher During Early Session</a></p>
+           
+            <p class="tag_color">Money &amp; Business</p>
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             <a href="/food/food_detail/a-toothsome-delight-banana-burfi-Fod_2a1d7873f"><span class=""><img src="http://pics.eeyuva.com/uploads/module12/photos/75x75/thumbnail_1479980224_9023158.jpg"></span>
+            </a><p class="headers_strip"><a href="/food/food_detail/a-toothsome-delight-banana-burfi-Fod_2a1d7873f">A Toothsome Delight 'Banana Burfi'</a></p>
+            <p class="tag_color">Just Food</p>
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             <a href="/youthtrends/youth_details/report-claims-pcs-and-laptops-are-the-most-hackable-gifts-Ytr_f6b5c36b6"><span class=""><img src="http://pics.eeyuva.com/uploads/module34/photos/75x75/thumbnail_1479993745_9023189.jpg"></span>
+            </a><p class="headers_strip"><a href="/youthtrends/youth_details/report-claims-pcs-and-laptops-are-the-most-hackable-gifts-Ytr_f6b5c36b6"> Report Claims PCs And Laptops Are The Most Hackable Gifts</a></p>
+            <p class="tag_color">Youth Trends</p>
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+             <a href="/movies/details/these-3-unique-films-are-here-to-entertain-us-this-friday-Mov_d150d12b1"><span class=""><img src="http://pics.eeyuva.com/uploads/module4/photos/75x75/thumbnail_1479993898_9021138.jpg"></span>
+            </a><p class="headers_strip"><a href="/movies/details/these-3-unique-films-are-here-to-entertain-us-this-friday-Mov_d150d12b1"> These 3 Unique Films Are Here To Entertain Us This Friday!</a></p>
+            <p class="tag_color">Box Office</p>
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             <a href="/lifestyle/lifestyle_details/winning-looks-of-dear-zindagi-actress-alia-bhatt-Lst_da2191c1b"><span class="">
+            <img src="http://pics.eeyuva.com/uploads/module13/photos/75x75/thumbnail_1479812907_9020999.jpg">
+            </span></a><p class="headers_strip"><a href="/lifestyle/lifestyle_details/winning-looks-of-dear-zindagi-actress-alia-bhatt-Lst_da2191c1b">Winning Looks Of 'Dear Zindagi' Actress Alia Bhatt...</a></p>
+            <p class="tag_color">Fashion &amp; Styles</p>
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+             <a href="/movies/details/the-stories-behind-celebrity-screen-names-Mov_c8106ef1f"><span class=""><img src="http://pics.eeyuva.com/uploads/module4/photos/75x75/thumbnail_1479019839_9021124.jpg"></span>
+            </a><p class="headers_strip"><a href="/movies/details/the-stories-behind-celebrity-screen-names-Mov_c8106ef1f"> The Stories Behind Celebrity Screen Names</a></p>
+            <p class="tag_color">Box Office</p>
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+             <a href="/movies/details/the-first-look-from-the-alien-covenant-will-haunt-you-big-time-Mov_ac88964c2"><span class=""><img src="http://pics.eeyuva.com/uploads/module4/photos/75x75/thumbnail_1479984666_9021138.jpg"></span>
+            </a><p class="headers_strip"><a href="/movies/details/the-first-look-from-the-alien-covenant-will-haunt-you-big-time-Mov_ac88964c2"> The First Look From The 'Alien: Covenant' Will Haunt You Big Time!</a></p>
+            <p class="tag_color">Box Office</p>
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             <a href="/youthtrends/youth_details/instagram-introduced-two-new-features-to-take-on-rivals-Ytr_78927a343"><span class=""><img src="http://pics.eeyuva.com/uploads/module34/photos/75x75/thumbnail_1479984412_9023189.png"></span>
+            </a><p class="headers_strip"><a href="/youthtrends/youth_details/instagram-introduced-two-new-features-to-take-on-rivals-Ytr_78927a343"> Instagram Introduced Two New Features To Take On Rivals</a></p>
+            <p class="tag_color">Youth Trends</p>
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+            
+            
+             <a href="/music/music_details/dhaakad-new-song-from-dangal-released-and-it-celebrates-women-empowerment-Alb_6e9465509"><span class=""><img src="http://pics.eeyuva.com/uploads/module1/photos/75x75/thumbnail_1479982529_9020968.jpeg"></span>
+            </a><p class="headers_strip"><a href="/music/music_details/dhaakad-new-song-from-dangal-released-and-it-celebrates-women-empowerment-Alb_6e9465509">'Dhaakad', New Song From 'Dangal' Released And It Celebrates Women...</a></p>
+            <p class="tag_color">Elements Of Music</p>
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+             <a href="/movies/details/dhoom2-completes-10-years-and-hrithik-says-it-will-always-be-a-milestone-Mov_87a31bb8a"><span class=""><img src="http://pics.eeyuva.com/uploads/module4/photos/75x75/thumbnail_1479981204_9021124.jpg"></span>
+            </a><p class="headers_strip"><a href="/movies/details/dhoom2-completes-10-years-and-hrithik-says-it-will-always-be-a-milestone-Mov_87a31bb8a"> 'Dhoom:2' Completes 10 Years And Hrithik Says It Will Always Be A...</a></p>
+            <p class="tag_color">Box Office</p>
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             <a href="/beautycosemetic/beauty_detail/rejuvenate-your-oily-skin-with-these-home-made-face-packs-Bct_383044192">
+            <span class=""><img src="http://pics.eeyuva.com/uploads/module25/photos/75x75/thumbnail_1479733960_9020985.jpg"></span>
+            </a><p class="headers_strip"><a href="/beautycosemetic/beauty_detail/rejuvenate-your-oily-skin-with-these-home-made-face-packs-Bct_383044192">Rejuvenate Your Oily Skin With These Home-made Face Packs...</a></p>
+            <p class="tag_color">Beauty &amp; Glamour</p>
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             <a href="/news/news_details/telangana-cm-kcr-moves-into-new-house-equipped-with-bullet-proof-windows-New_c8e61ceec"><span class=""><img src="http://pics.eeyuva.com/uploads/module24/photos/75x75/thumbnail_1479967580_8920643.jpg"></span>
+            </a><p class="headers_strip"><a href="/news/news_details/telangana-cm-kcr-moves-into-new-house-equipped-with-bullet-proof-windows-New_c8e61ceec"> Telangana CM KCR Moves Into New House Equipped With Bullet-Proof Windows</a></p>
+            <p class="tag_color">News Room</p>
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;">  <a href="/sports/sports_details/james-anderson-fourth-england-player-to-complete-a-king-pair-Spo_ed65e042c"><span class=""><img src="http://pics.eeyuva.com/uploads/module10/photos/75x75/thumbnail_1479897425_8920499.jpg"></span></a>
+            <p class="headers_strip"><a href="/sports/sports_details/james-anderson-fourth-england-player-to-complete-a-king-pair-Spo_ed65e042c">James Anderson - Fourth England Player To Complete a 'King Pair'</a> </p>
+            <p class="tag_color">Sports &amp; Games</p>
+            
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+             <a href="/movies/details/watch-telugu-trailer-of-dangal-here-Mov_4120164a8"><span class=""><img src="http://pics.eeyuva.com/uploads/module4/photos/75x75/thumbnail_1479912162_9021124.jpg"></span>
+            </a><p class="headers_strip"><a href="/movies/details/watch-telugu-trailer-of-dangal-here-Mov_4120164a8"> Watch Telugu Trailer Of 'Dangal' Here</a></p>
+            <p class="tag_color">Box Office</p>
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;">  <a href="/sports/sports_details/top-4-world-class-batsmen-in-modern-day-cricket-who-can-set-the-stage-ablaze-Spo_3d499e07f"><span class=""><img src="http://pics.eeyuva.com/uploads/module10/photos/75x75/thumbnail_1474005466_9023869.png"></span></a>
+            <p class="headers_strip"><a href="/sports/sports_details/top-4-world-class-batsmen-in-modern-day-cricket-who-can-set-the-stage-ablaze-Spo_3d499e07f">Top 4 World Class Batsmen In Modern Day Cricket Who Can Set The Stage...</a> </p>
+            <p class="tag_color">Sports &amp; Games</p>
+            
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;"> 
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             <a href="/tourism/tourism_detail/jatayu-adventure-park-will-now-enthral-the-adventure-seekers-Tnt_2833d575c"><span class=""><img src="http://pics.eeyuva.com/uploads/module26/photos/75x75/thumbnail_1479903347_9023953.jpg"></span>
+            </a><p class="headers_strip"><a href="/tourism/tourism_detail/jatayu-adventure-park-will-now-enthral-the-adventure-seekers-Tnt_2833d575c"> Jatayu Adventure Park Will Now Enthral The Adventure Seekers</a></p>
+            <p class="tag_color">Travel &amp; Tourism</p>
+             
+             </li>
+        
+          
+          
+          <li style="float: left; width: 341px;">  <a href="/sports/sports_details/happy-birthday-amit-mishra-the-leggie-turns-34-today-Spo_01d422ee1"><span class=""><img src="http://pics.eeyuva.com/uploads/module10/photos/75x75/thumbnail_1479911796_8920499.jpg"></span></a>
+            <p class="headers_strip"><a href="/sports/sports_details/happy-birthday-amit-mishra-the-leggie-turns-34-today-Spo_01d422ee1">Happy Birthday Amit Mishra: The Leggie turns 34 Today</a> </p>
+            <p class="tag_color">Sports &amp; Games</p>
+            
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li>
+        
+          
+           <li style="float: left; width: 341px;"> 
+            
+            
+            
+            
+             <a href="/jokes/jokes_detail/want-to-get-smarter-just-have-ice-cream-in-the-morning-Jok_20599356f"><span class=""><img src="http://pics.eeyuva.com/uploads/module19/photos/75x75/thumbnail_1480151298_8920378.jpg"></span>
+            </a><p class="headers_strip"><a href="/jokes/jokes_detail/want-to-get-smarter-just-have-ice-cream-in-the-morning-Jok_20599356f">Want To Get Smarter! Just Have Ice-Cream In The Morning</a></p>
+            <p class="tag_color">Humour Unlimited</p>
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li><li style="float: left; width: 341px;"> 
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             <a href="/lifestyle/lifestyle_details/who-carried-it-out-pretty-well-diana-or-tamannaah-Lst_c0194ed58"><span class="">
+            <img src="http://pics.eeyuva.com/uploads/module13/photos/75x75/thumbnail_1480069314_9020999.jpg">
+            </span></a><p class="headers_strip"><a href="/lifestyle/lifestyle_details/who-carried-it-out-pretty-well-diana-or-tamannaah-Lst_c0194ed58">Who Carried It Out Pretty Well?? Diana Or Tamannaah...</a></p>
+            <p class="tag_color">Fashion &amp; Styles</p>
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li><li style="float: left; width: 341px;"> 
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             <a href="/health/health_detail/world-anti-obesity-day-wake-up-and-get-aware-of-obesity-Hlt_84d2a132b"><span class=""><img src="http://pics.eeyuva.com/uploads/module18/photos/75x75/thumbnail_1480079574_9023385.jpg"></span>
+            </a><p class="headers_strip"><a href="/health/health_detail/world-anti-obesity-day-wake-up-and-get-aware-of-obesity-Hlt_84d2a132b">'World Anti-Obesity Day', Wake Up And Get Aware Of Obesity...</a></p>
+            <p class="tag_color">Health &amp; Fitness</p>
+             
+            
+             
+            
+             
+            
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li><li style="float: left; width: 341px;"> 
+            
+            
+            
+            
+                     
+            
+                 
+             
+                 
+            
+                 
+            
+             
+            
+             
+            
+             
+            
+             <a href="/food/food_detail/the-luscious-choco-flavoured-carrot-orange-cake-Fod_21ebb9245"><span class=""><img src="http://pics.eeyuva.com/uploads/module12/photos/75x75/thumbnail_1480078987_9023158.jpg"></span>
+            </a><p class="headers_strip"><a href="/food/food_detail/the-luscious-choco-flavoured-carrot-orange-cake-Fod_21ebb9245">The Luscious Choco Flavoured Carrot-Orange Cake</a></p>
+            <p class="tag_color">Just Food</p>
+             
+            
+            <!--                                                       --> 
+            
+             
+            
+             
+            
+             
+            
+            
+             
+            
+             
+             </li></ul></div>
+      <a href="#" class="slider-arrow sa-left"><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> </a> <a href="#" class="slider-arrow sa-right"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span></a> </div>
+  </div>
+</nav>
+</div>
+<form name="add_dept" id="add_dept">
+<input type="hidden" name="hidtoggle" id="hidtoggle" value="0">
+</form>
+<script type="text/javascript">
+    	jQuery('.slider').lbSlider({
+			leftBtn: '.sa-left',
+			rightBtn: '.sa-right',
+			visible: 4,
+			autoPlay: true,
+			autoPlayDelay: 5
+		});
+    </script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-71756551-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+ 
+
+	
+			
+
+<!---- Header END ---->
+<link rel="stylesheet" href="/static/css/news.css" type="text/css" media="screen">
+<style>
+ div.advertise_us li {
+    font-size: 15px;
+    font-family: times new roman;
+    color:#000000;
+}
+div.advertise_us p {
+    font-size: 15px;
+   font-family: times new roman;
+    color:#000000;
+}
+</style>
+
+<section class="container white">
+    <!-- Content -->
+    <section id="content ">
+	 
+     <div class="testimonial_adv mt20">
+	 <h4 class="cat-title">Privacy Policy</h4>
+     </div>
+     <div class="advertise_us" style="padding:10px; border:#ccc solid 1px; margin-bottom:10px;">
+<p style="line-height: 100%;">	
+EeYuva.com... a portal owned and operated by Eenadu Digital, a unit of Ushodaya Enterprises Private Limited (UEPL) has a privacy policy for all visitors/registered users/guests of the portal with regard to the information we collect from them and other concerns of privacy of the visitors/registered users/guests. For all online transactions we use third party services. If you have questions or concerns regarding this policy, please email to us on “privacypolicy”.<br><br>
+All EeYuva.com visitors will be able to browse the portal, view any articles or features posted on EeYuva.com, without entering any personal information.<br><br>
+Some of the essential information gathered from visitors/registered users/guests who visit EeYuva.com includes, but may not be limited to, email address, first name, last name, a user-specified password, mailing address, pin code, mobile number, telephone number or fax number.<br><br>
+
+Subscribers of EeYuva.com irrevocably consent to provide leads to vendors to push ads of products that the subscriber is interested in. If visitors/registered users/guests wish to buy any online products from EeYuva.com, we may collect some additional information from them, including a billing address, a credit card number and a credit card expiration date and tracking information. The information collected from visitors/registered users/guests is NOT shared with anyone.<br><br>
+Except where visitors/registered users/guests are expressly informed, EeYuva.com does not sell, rent, or loan any identifiable information at the individual level regarding its customers to any third party. All information provided by visitors/registered users/guests is held with the utmost care and security. However, EeYuva.com is also bound to cooperate fully should a situation arise where we are required by law or legal process to provide information about a customer.<br><br>
+
+<b>All Visitors Need NOT Pay:</b><br>
+Visitors of EeYuva.com may browse the portal, search the ads and view any articles or features EeYuva.com offer without entering any personal information or paying money.
+<br><br>
+<b>Links To External Websites:</b><br>
+EeYuva.com may contain links to external websites. EeYuva.com shall not be responsible for the privacy practices of external websites and visitors/registered users/guests are advised to check the privacy policy of such third party websites. We request you to be fully aware of this when you leave EeYuva.com. Do read the privacy statements of each and every website that collects personally identifiable information.<br>
+This privacy statement applies solely to information collected by EeYuva.com<br><br>
+<b>Cookies on EeYuva.com:</b><br>
+Cookies on EeYuva.com are used to deliver various services and keep track of your personal preferences. If you do not want cookies to collect information on EeYuva.com, most browsers contain a function that allows a user to deny cookies on websites. Alternatively you can also delete all cookie files on your computer. Please note that disabling the cookie feature on your browser or deleting cookie files from your computer will render you unable to access certain features on EeYuva.com, as the use of cookies is a necessary part of the EeYuva.com technology. EeYuva.com uses cookies only to:<br> </p>
+<ul style="padding-left:20px; ">
+    <li type="disc">Provide its services</li>
+    <li type="disc">Deliver content specific to your interests</li>
+    <li type="disc">Save your password (so you do not have to re-enter it each time you visit different pages on EeYuva.com) and for other purposes.</li>
+</ul>
+
+<p style="line-height: 100%;">
+Please note: Cookies are used only to recollect information sent to your computer from EeYuva.com. We CANNOT access any information not sent by EeYuva.com. Some of EeYuva.com partners may use cookies on EeYuva.com (for example, advertisers). However, we have no access to or control over these cookies.<br><br>
+
+Changes in EeYuva.com privacy policy: UEPL reserves right to amend the privacy policy of EeYuva.com. Visitors/registered users/guests are advised to periodically check EeYuva.com privacy policy for any amends.<br><br>
+
+Any sensitive information (such as a credit card number) provided during registration/order process information, is encrypted and is protected with the standard encryption software in the industry – SSL as practiced by respective payment gateway.<br><br>
+
+Apart from using SSL encryption, EeYuva.com takes every measure in its power to protect sensitive information. Some of the staff at EeYuva.com are granted access to such personally identifiable information, needed for performing specific tasks (for example, a billing clerk or a customer service representative).<br><br>
+
+EeYuva.com uses email extensively to communicate with visitors/registered users/guests and visitors/registered users/guests may receive emails for the following services:<br></p>
+
+<ul style="padding-left: 20px; ">
+   <li type="disc"> Newsletters with updates on the latest features on EeYuva.com.</li>
+   <li type="disc"> Announcements of special events</li>
+</ul>
+<p style="line-height: 100%;"><b>Contact EeYuva.com:</b><br>
+If you have any queries about this privacy statement, the practices of EeYuva.com, or your dealings with this portal, please email us to <a class="mailto" href="mailto:admin@eeyuva.com" target="_blank">admin@eeyuva.com</a> or contact us at...<br>
+EeYuva.com<br>
+Eenadu Digital, a unit of Ushodaya Enterprises Private Limited,<br>
+Eenadu Complex,<br>
+Somajiguda,<br>
+Hyderabad.<br>
+Phone: 040-23318181.<br>
+You are also advised to peruse <a href="/terms" target="_blank">Terms and Conditions.</a><br>
+</p>
+
+
+
+     </div>
+    </section>
+       
+ 
+
+<script type="text/javascript" src="/static/js/jquery.tinyscrollbar.min.js"></script> 
+<!--<script>
+ $(function(){
+
+      $(".grp").click(function(){
+	   var user_id = '';
+            if(user_id){
+                window.location.href=$(this).attr('href');
+            }else{
+                alert('Please Login');
+                return false;
+            }
+        });
+
+   });
+</script>--> 
+
+<script>
+      $(document).ready(function(){
+         $('#scrollbar5').tinyscrollbar();
+      });
+      
+</script>
+<div class="foot" id="footer">
+  <footer class="foot clearfix"> 
+    <!-- Footer widgets -->
+    <ul class="no-bullet clearfix">
+      <li class="widget col-md-4">
+        <h3 class="widget-title">About Us</h3>
+        <div class="textwidget">
+          <p>EeYuva<br> Learn. Share. Grow <br>It’s the idealism and unrestrained exuberance that characterize youthfulness. It’s also time for the efflorescence of spirit and exploration of new turfs. Considering today’s youth are so driven and digitally empowered, Eenadu launches an exclusive portal which is trendy and appealing with an exciting blend of information and entertainment......
+
+            
+<a href="/aboutus" class="readmore-footer" align="right">Read More</a></p>
+        </div>
+      </li>
+      <li class="widget col-md-4 col-sm-6">
+        <h3 class="widget-title">Links</h3>
+        <!--<h3 class="widget-title"><a href="http://forums.eeyuva.com" target="_blank()">Discussion</a></h3>-->
+        <h3 class="widget-title"><a href="http://blog.eeyuva.com" class="grp" target="_blank()">blog</a></h3>
+        <!--<h3 class="widget-title"><a href="/groups/?mid=90">Groups</a></h3>
+       <!-- <h3 class="widget-title"><a href="/groups/">Groups</a></h3>-->
+     <!--   <h3 class="widget-title"><a href="/advertisement">Advertise with us</a></h3>-->
+ <!-- <h3 class="widget-title"><a href="#">Advertise with us</a></h3>-->
+        <h3 class="widget-title"><a href="/privacy_policy">Privacy Policy</a></h3>
+         <h3 class="widget-title"><a href="/terms">Terms And Conditions</a></h3>
+        <h3 class="widget-title"><a href="/feedback">Contact</a></h3> 
+        <!-- <h3 class="widget-title"><a href="/testimonials">testimonials</a></h3>
+          <h3 class="widget-title"><a href="/management">Management team</a></h3>--> 
+      </li>
+      <li class="widget col-md-4 col-sm-6">
+        <h3 class="widget-title">Testimonials <a href="/testimonials" class="pull-right testmoni_btn">Write</a></h3>
+        <div class="textwidget">
+          <div id="" style="clear:both"><!-- scrollbar5 -->
+            <div class="scrollbar">
+              <div class="track">
+                <div class="thumb">
+                  <div class="end"> </div>
+                </div>
+              </div>
+            </div>
+            <div class="viewport" style="height: 142px; top:-20px;">
+              <div class="overview"> 
+                <div class="footer-test"> 
+                  <!--<span style="text-align: justify;">
+				    Venkatanaresh
+				</span>
+				<br/>--> 
+                  <span class="date-username"> The asthetic apperance is awesome and integration of different events related to youth is a very good idea.
+All THE BEST EEYUVA TEAM </span><br>
+                  <span class="pull-right" style=" font-size:11px; font-style:italic; color:#fc7100; right:2px; position:relative"> <b> Venkatanaresh</b> </span> <br>
+                </div>
+                
+                <div class="footer-test"> 
+                  <!--<span style="text-align: justify;">
+				    Vallireddy
+				</span>
+				<br/>--> 
+                  <span class="date-username"> Fabulous website for all the entertainment stuff.thanks to eeyuva team.
+</span><br>
+                  <span class="pull-right" style=" font-size:11px; font-style:italic; color:#fc7100; right:2px; position:relative"> <b> Vallireddy</b> </span> <br>
+                </div>
+                 </div>
+            </div>
+          </div>
+        </div>
+        <div class="text-right"><a href="/testimonials" style="color:#fff">View More</a></div>
+      </li>
+    </ul>
+    <!-- End Footer widgets -->
+    <div class="copyright clearfix"> Copyright Eenadu Digital 2016 </div>
+    <!--div id="back-to-top" class="right"> <a href="#top">Back to Top</a> </div--> 
+  </footer>
+</div>
+<!-- End Footer -->
+
+</section>
+
+<!-- End Inner Container --> 
+<!-- End Container -->
+<!--<!DOCTYPE html> 
+<html> 
+<head> 
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no"/> 
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/> 
+<title>Reverse Geocoding</title> 
+
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script> 
+
+<script type="text/javascript"> 
+ 
+  var geocoder = new google.maps.Geocoder();
+
+  if (navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(trackingData_successFunction, trackingData_errorFunction);
+} 
+//Get the latitude and the longitude;
+function trackingData_successFunction(position) {
+    var lat = position.coords.latitude;
+    var lng = position.coords.longitude;
+    trackingData_codeLatLng(lat, lng)
+}
+
+function trackingData_errorFunction(){
+    alert("Geocoder failed");
+}
+
+  function initialize() {
+    geocoder = new google.maps.Geocoder();
+  }
+
+  function trackingData_codeLatLng(lat, lng) {
+
+    var latlng = new google.maps.LatLng(lat, lng);
+    geocoder.geocode({'latLng': latlng}, function(results, status) {
+      if (status == google.maps.GeocoderStatus.OK) {
+      // console.log(results);
+        if (results[1]) {
+        var indice=0;
+        for (var j=0; j<results.length; j++)
+        {
+            if (results[j].types[0]=='locality')
+                {
+                    indice=j;
+                    break;
+                }
+            }
+        // alert('The good number is: '+j);
+        console.log(results[j]);
+        for (var i=0; i<results[j].address_components.length; i++)
+            {
+                if (results[j].address_components[i].types[0] == "locality") {
+                        //this is the object you are looking for
+                        city = results[j].address_components[i];
+                    }
+                if (results[j].address_components[i].types[0] == "administrative_area_level_1") {
+                        //this is the object you are looking for
+                        region = results[j].address_components[i];
+                    }
+                if (results[j].address_components[i].types[0] == "country") {
+                        //this is the object you are looking for
+                        country = results[j].address_components[i];
+                    }
+            }
+          var title = document.title;
+          //alert(title);
+            var city = city.long_name;
+            var region = region.long_name;
+            var country = country.short_name;
+         datastring = 'city='+city+'&region='+region+'&country='+country+'&title='+title;
+            //alert(city + region + country);
+            console.log(city + " || " + region + " || " + country);
+        $.ajax({
+			      type: "GET",
+			      url: '/dumpinfo/',
+			      data: datastring,
+
+			      success: function(response) {
+
+			      }
+                              
+			      })
+
+            } else {
+              alert("No results found");
+              console.log('No results found');
+            }
+        //}
+
+
+
+        city = request.POST.get('city')
+	region = request.POST.get('region')
+        country = request.POST.get('country')
+	title = request.POST.get('title')	
+
+
+
+      } else {
+        alert("Geocoder failed due to: " + status);
+        console.log("Geocoder failed due to: " + status);
+      }
+    });
+  }
+
+</script> 
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head> 
+<body onload="initialize()"> 
+
+</body> 
+</html> 
+-->
+<p id="back-top" class="top_up" style="display: none;"> <a href="#top"><span></span></a> </p>
+<!-- Content --> 
+<script type="text/javascript">
+$(function() {
+  $('body').on('keydown', '#pwd', function(e) {
+    console.log(this.value);
+    if (e.which === 32 &&  e.target.selectionStart === 0) {
+      return false;
+    }  
+  });
+});
+
+</script>
+<script type="text/javascript" src="/static/js/tabs.js"></script> 
+<script type="text/javascript" src="/static/js/jquery.superfish.js"></script> 
+<script type="text/javascript" src="/static/js/jquery.fancybox.js"></script> 
+<script type="text/javascript" src="/static/js/jcarousel.js"></script> 
+<script type="text/javascript" src="/static/js/jquery.masonry.min.js"></script> 
+<script type="text/javascript" src="/static/js/script.js"></script> 
+
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","bam.nr-data.net","9bdc8cfca4","37093197","ZFxRYEBVXBIFBxFeW10WdUFcV0YICwpKVkRDF1ZRXFVWFEoXDENRQBdAQFNAWwJeFBdeQlJaSmtCW14IBx0=",0,523,new Date().getTime(),"","","","",""]);</script>
+
+	
+	
+
+</body></html>
