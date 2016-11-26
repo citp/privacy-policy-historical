@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smsgatewayhub.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504212715id_/https%3A//www.smsgatewayhub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsgatewayhub.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126212926id_/https%3A//www.smsgatewayhub.com/privacy-policy) for the most accurate reproduction.*
 
 # Bulk sms Policy, Bulk sms Privacy Policy, Bulk sms India
 
@@ -7,14 +7,14 @@
 #### Privacy Policy
 
 This Privacy Policy applies to all of the Services offered by the Company through the Site. Company may from time to time modify this Privacy Policy to reflect the current practices and policies employed by the Company for your data.  
-If you have any questions about this Privacy Policy, please feel free to contact us at:  
-**SMSGATEWAYHUB Technologies Resourses Pvt Ltd.  
-109, Royal Ratan Building  
-7 MG Road, Indore  
-Madhya Pradesh- 452001, India**  
+If you have any questions about this Privacy Policy, please feel free to contact us at:
+
+### SMSGATEWAYHUB Technologies Resourses Pvt Ltd.
+
+**Add.:** 201, Royal Ratan Building (Opp. Kasliwal honda) 7, MG Road. Indore (M.P.) Pin : 452001  
 **Tel:** +91.731.6450666  
-**Mobile:** +919009402256  
-**Email:** [support@smsgatewayhub.com](https://web.archive.org/web/20160504212715id_/https%3A//www.smsgatewayhub.com/support@smsgatewayhub.com)
+**Mobile:** +919907922122  
+**Email:** [support@smsgatewayhub.com](https://web.archive.org/web/20161126212926id_/https%3A//www.smsgatewayhub.com/support@smsgatewayhub.com)
 
 #### Information we collect:
 
