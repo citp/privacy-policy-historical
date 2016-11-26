@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mstarz.com privacy policy that was archived on 2016-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160305012253id_/http%3A//www.mstarz.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mstarz.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126042309id_/http%3A//mstarsnews.musictimes.com/privacypolicy) for the most accurate reproduction.*
 
-# Mstarz
+# MStarsNews
 
 Home›privacy policy
 
@@ -211,7 +211,7 @@ You are solely responsible for maintaining the strict confidentiality of your Us
 
 Further, if you use any of the Communities features and functions made available on or through the Site, please remember that any Information disclosed in these venues is automatically made public and please use caution when disclosing any Personal Information in the Communities, as you do not know who will access and use your Personal Information or for what purposes. Mstarz is in no way responsible for the accuracy, use, or misuse of any information, including Personal Information, that you disclose or receive through these venues and you should assume that any disclosure you do make in these venues will be available publicly, even without your knowledge or authorization.
 
-**b. Questions.** If you have questions about this Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your Personal Information or Other Information, you may contact us directly by sending an email to privacy-admin@mstarsnews.com or please contact our Privacy Administrator at Mstarz, 33 Whitehall St., 7th Floor, New York, New York 10004, c/o Privacy Administrator.
+**b. Questions.** If you have questions about this Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your Personal Information or Other Information, you may contact us directly by sending an email to privacy-admin@mstarsnews.com or please contact our Privacy Administrator at Mstarz, 305 Broadway Fl 7, New York, NY 10007, c/o Privacy Administrator.
 
 **c. Sole Statement:** This document is the sole statement of the Site's Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, but not limited to, machine-generated, is valid.
 
