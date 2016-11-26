@@ -1,33 +1,53 @@
-> *The following text is extracted and transformed from the networkpanda.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607122327id_/http%3A//www.networkpanda.com/page/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkpanda.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126112120id_/https%3A//www.networkpanda.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy and Cookies - Network Panda Web Hosting, cPanel, SSD disks, Softaculous, VPS, Dedicated Servers
+# Customer Privacy Policy - NetworkPanda.com
 
-## Privacy Policy and Cookies
+  
+Customer Privacy Policy
 
-## Privacy Policy and Cookies
+This privacy notice discloses the privacy practices for www.networkpanda.com and services provided from this web site. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
-We use a number of different cookies on our site. If you do not know what cookies are, or how to control or delete them, then we recommend you visit http://www.aboutcookies.org for detailed guidance
+What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.  
+What choices are available to you regarding the use of your data.  
+The security procedures in place to protect the misuse of your information.  
+How you can correct any inaccuracies in the information.  
+Information Collection, Use, and Sharing
 
-The list below describe the cookies we use on this site and what we use them for. Currently we operate an 'implied consent' policy which means that we assume you are happy with this usage. If you are not happy, then you should either not use this site, or you should delete the cookies having visited the site, or you should browse the site using your browser's anonymous usage setting (called "Incognito" in Chrome, "InPrivate" for Internet Explorer, "Private Browsing" in Firefox and Safari etc.)
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
-First Party Cookies
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request.
 
-These are cookies that are set by this website directly.
+Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
-Shopping cart and customer area: We use a session cookie to remember your log-in for you and what you've put in the shopping basket. These we deem strictly necessary to the working of the website. If these are disabled then various functionality on the site will be broken.
+Your Access to and Control Over Information
 
-WordPress: Our news section runs the popular WordPress CMS and cookies are used to store basic data on your interactions with WordPress, and whether you have logged into WordPress. We use a session cookie to remember your log-in for you if you are a registered user and we deem these as being strictly necessary to the working of the website. If these are disabled then various functionality on the site will be broken.
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
 
-IP.Board: Our forum runs the popular IP.Board platform and cookies are used to store basic data on your interactions with IP.Board, and whether you have logged into IP.Board. We use a session cookie to remember your log-in for you if you are a registered user and we deem these as being strictly necessary to the working of the website. If these are disabled then various functionality on the site will be broken.
+See what data we have about you, if any.  
+Change/correct any data we have about you.  
+Have us delete any data we have about you.  
+Express any concern you have about our use of your data.
 
-More information on session cookies and what they are used for at http://www.allaboutcookies.org/cookies/session-cookies-used-for.html
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
 
-Google Analytics: We use Google Analytics to collect information about visitor behaviour on our website. Google Analytics stores information about what pages you visit, how long you are on the site, how you got here and what you click on. This Analytics data is collected via a JavaScript tag in the pages of our site and is not tied to personally identifiable information.We therefore do not collect or store your personal information (e.g. your name or address) so this information cannot be used to identify who you are.
+Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.
 
-You can find out more about Google's position on privacy as regards its analytics service at http://www.google.com/intl/en_uk/analytics/privacyoverview.html
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
-Third Party Cookies
+Cookies
 
-These are cookies set on your machine by external websites whose services are used on this site. Cookies of this type are the sharing buttons across the site allow visitors to share content onto social networks. Cookies are currently set by Twitter, Facebook, Google+ and Pinterest. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of our website. You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on this website.
+We use "cookies" on this site. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site.
 
-You should check the respective policies of each of these sites to see how exactly they use your information and to find out how to opt out, or delete, such information.
+Links
+
+This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
+
+Disclosure to Law Enforcement
+
+We may disclose any subscriber information to law enforcement agencies without further consent or notification to the subscriber upon lawful request from such agencies, in case of illegal activities found on your account. We will cooperate fully with law enforcement agencies.
+
+Changes
+
+Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, we suggest that you read this document each time you use the website to ensure that it still meets with your approval.
+
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at +1-646-883-3010 or via email at support@networkpanda.com
