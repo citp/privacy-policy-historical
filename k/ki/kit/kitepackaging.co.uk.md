@@ -1,25 +1,41 @@
-> *The following text is extracted and transformed from the kitepackaging.co.uk privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606110936id_/http%3A//www.kitepackaging.co.uk/scp/help-and-guides/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitepackaging.co.uk privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126125503id_/http%3A//www.kitepackaging.co.uk/scp/help-and-guides/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kite Packaging
 
+[Help and Guides](https://web.archive.org/mcp/help-and-guides/) > Privacy & Cookie Policy
+
 Based in England, our principal activity is online packaging distribution, through our website at [www.kitepackaging.co.uk](http://www.kitepackaging.co.uk/). This privacy policy sets out how Kite Packaging uses and protects any information that you give Kite Packaging when you use our website. 
 
-Organisation Name:  | Kite Packaging Limited  
----|---  
-  
-Web Site: 
+**Organisation Name:**
 
-|  [www.kitepackaging.co.uk](http://www.kitepackaging.co.uk/)  
-Address:  | 186 Torrington Avenue,   
-Tile Hill,   
-Coventry,   
-West Midlands   
-England   
-CV4 9AJ  
-  
-registered in England & Wales:  | 04680835  
-VAT registration No:   | 765 3496 93  
-  
+Kite Packaging Limited 
+
+**Web Site:**
+
+www.kitepackaging.co.uk 
+
+**Address:**
+
+186 Torrington Avenue,
+
+Tile Hill,
+
+Coventry,
+
+West Midlands
+
+England
+
+CV4 9AJ
+
+**Registered in England & Wales: **
+
+04680835
+
+**VAT registration No:**
+
+765 3496 93
+
 [For the purposes of the Data Protection Act 1998, the data controller is Kite Packaging Limited.] 
 
 Kite Packaging is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy policy. 
@@ -91,4 +107,4 @@ You may request details of personal information which we hold about you under th
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible. We will promptly correct any information found to be incorrect. 
 
-Should you have any further questions which are not covered here then please send them to [service@kitepackaging.co.uk](mailto:service@kitepackaging.co.uk). 
+Should you have any further questions which are not covered here then please send them to [sales@kitepackaging.co.uk](mailto:sales@kitepackaging.co.uk). 
