@@ -1,168 +1,50 @@
-> *The following text is extracted and transformed from the myadvertisingpays.com privacy policy that was archived on 2015-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150217203155id_/https%3A//www.myadvertisingpays.com/Privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myadvertisingpays.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126233111id_/http%3A//myadvertisingpays.com/privacy.html) for the most accurate reproduction.*
 
-# This refers to information that lets us know specifically about you i.e. profile information.
+# Privacy Policy | My Advertising Pays | Tomorrows Advertising Today
 
-                            MyAdvertisingPays Privacy Policy
-Our Commitment to Privacy
-Our Privacy Policy has been developed as an extension of our commitment to combine
-quality products and services with integrity in dealing with users. The Policy is designed
-to assist you in the understanding of how we collect, use and protect the personal
-information provided to us.
-What Information Do We Collect?
-When you visit our site, we collect two types of information: personal information you
-actively choose to disclose (“Active Information”) and Use information collected, in a
-way not visible to you, on an aggregate anonymous basis as you and other users
-browse our site (“Passive Information”).
-1. Personally Identifiable Information
-This refers to information that lets us know specifically about you i.e. profile information.
-A. Registration
-When you register to become an authorized reseller of our products or services, we will
-collect Personally Identifiable Information (such as name, address, email address, and
-telephone number). This Personally Identifiable Information is securely stored and may
-be accessed on our website. You are assigned an identification number and select your
-own password – both are needed to enter the Site and to access your Contact
-Information. Please safeguard your password in a secure location as we are not
-responsible for breaches into the system when access is willingly provided.
-B. Ordering
-When you place an order for products or services, we collect Personally Identifiable
-Information (such as name, contact and billing information, credit card, and other
-transactional information). We use this information to deliver your order, process
-payment, and to communicate the status of your order.
-C. Credit Card Storage
-Credit card information collected at registration or for product orders is used only to
-process payment for the transaction and, generally, is not retained on our Site.
-However, you may voluntarily elect to securely store multiple credit cards to be used for
-product orders.
-D. Surveys and Promotions
-Occasionally, you may voluntarily provide Personally Identifiable Information to
-complete surveys and questionnaires or to participate in user polls. We use this
+**Introduction:**  MyAdvertisingPays.com (“MAP”) has a strong commitment to providing excellent service to all of our affiliates and customers, including respecting their concerns about privacy. We understand that visitors to our website may have questions about how this website collects and uses information. We have prepared this statement to inform you of the privacy principles that govern MyAdvertisingPays.com.
+
+This statement contains numerous general and technical details about the steps we take to respect your privacy concerns. The bottom line is that meeting your needs and expectations form the foundation of everything we do - including protecting your privacy.
+
+**Browsing:**  This website does not collect personally identifiable information from your computer when you browse the site. This means that, unless you voluntarily and knowingly provide us with personally identifiable information, we will not know your name, your e-mail address, or any other personally identifiable information.
+
+**Internet Protocol (IP) Address:**  An IP address is a number that is automatically assigned to your computer when you browse the Internet. When users request a page from our site, our servers log the user's current IP address. We use IP addresses to help diagnose problems. We do not link IP addresses to any personally identifiable information about you.
+
+**Cookies:**  Our website uses cookie technology. Cookies are strings of text that a website may store on a user's computer. Our website uses cookies but only requires them in the online reservation process. Cookies enable our website to keep track of your preferences and activities relating to the website. Our website creates session cookies for each visit in order to facilitate your visit. The session cookie expires at the end of the session.
+
+  * Use of Cookies and E-Mails - We use a third party service provider to send marketing e-mails on behalf of MAP. There are no cookies in the e-mail. However, when an e-mail recipient clicks on a link to The MAP website included in the e-mail, a persistent cookie is placed on the user's computer. This cookie is used to measure the effectiveness of our e-mail marketing efforts and better understand how our users navigate through the site. The cookie set by our service provider will remain on your hard drive 30 days after the last time you clicked on the coded link in the e-mail, or until you delete it.
 
 
-information to improve our products and services and to ensure that we’re providing
-accurate disclosures. We may also use your Personally Identifiable Information to
-provide you newsletters and other marketing information that coincide with your
-preferences. You may customize your marketing preferences, or let us know if you do
-not wish to receive any promotional materials, by adjusting your Subscriptions & Email
-options on the Site.
-2. Aggregate Information
-This refers to information that does not, by itself, identify you as a specific individual.
-Such information would include the Uniform Resource Locator (“URL”) of the website
-that referred you to our Site, your Internet Protocol (“IP”) address (a number
-automatically assigned to your computer whenever you surf the web), your operating
-system and browser type, and any search terms that you enter on our Site. Our web
-server aggregates this information in order to monitor the level of activity on our Site,
-evaluate its effectiveness, and improve the content or our Site in order to make your
-visit an easy and enjoyable experience.
-We may collect, compile, store, publish, promote, report, or otherwise disclose or use
-any Aggregate Information, provided that such information does not personally identify
-you. We do not correlate any Personally Identifiable Information with the Aggregate
-Information that we collect on our Site. If we do correlate any Aggregate Information to
-you, it will be protected like any other Personally Identifiable Information under this
-Privacy Statement.
-Active Information You Choose to Provide
-In order to gain use of the site (become a “user”), we require you to disclose the
-following information: Name, Address and Phone Number
-We use secure socket layer (SSL) encryption to protect the transmission of the
-information you submit to us when you use our secure online forms. The information
-you provide to us is stored securely.
-Passive Information Collected
-What is a Cookie?
-Cookies are a feature of web browser software that allows web servers to recognize the
-computer used to access a site. They are small pieces of data stored by a user’s
-browser to simplify subsequent interactions with the site. This makes it easier for a user
-to move from site to site and to complete transactions over the Internet. Cookies should
-make your online experience easier and more personalized.
-Our site utilizes cookies to collect information about how our site is used. Passive
-Information gathered may include the date and time of visits, the site pages viewed,
-time spent at our site, the sites visited just before and just after visiting our site. If you do
-not wish to transmit “cookie” information about yourself, you may turn off the cookie
-function in your web browser.
+
+  * Use of Cookies for Advertising - We use third party service providers to serve and host our advertisements. These third parties use persistent cookies to track the number of times our site is accessed and whether the site was accessed from the advertisement. The cookies generated from the advertisements do not contain personally identifiable information and may remain on your hard drive three or more years unless deleted by you.
 
 
-Our site’s servers also automatically identify you computer by its Internet Protocol
-address, which is a unique string of numbers that are assigned to your computer by
-your Internet Service Provider. The IP address may be used to address problems with
-our server or to gather broad demographic information about our users. We passively
-collect your IP Address.
-How Do We Use the Information Collected?
-Broadly speaking, persons we employ directly, or as contractors or agents at our
-direction use Active Information for purposes of administering our business activities,
-providing customer support and making available other products or services we think
-might be of interest to our users. We may use the Active Information or Passive
-Information you provide to contact you about various changes to our site, new services,
-features or products we offer. If at any time you do not wish to receive such information,
-you may “opt-out” of doing so by adjusting your email settings in the back office of the
-website.
-We use Passive Information to gather information about our users and to enhance our
-site to make it easier, faster and friendlier for users. Additionally, cookies help us better
-understand the usage pattern of the people that visit our site, which helps us improve
-our services. Passive Information may result in your viewing of particular advertising
-based on your user habits.
-Your Information In Relation to Others We Link To
-You might be able to access other websites through our site via hyperlinks. When you
-do so, you are subjecting yourself to their privacy policies and data collection. Please
-read the privacy policies of those sites to ensure you agree with the terms before using
-such sites.
-Sharing Information with Advertisers or Other Third Parties
-We may disclose anonymous information about user habits to advertisers on our site.
-The parties who perform services for us (credit card processors, merchant bank,
-Internet Service Provider) may also have access to your information in performing such
-services. Should we buy or sell assets of our company, another company may need to
-review our company’s assets, which might include your information, to make business
-decisions as to whether to acquire such assets.
-Sharing Information with the Government or As Otherwise Required by Law
-We may be required by subpoena, law or government agency to disclose both Active
-and Passive Information you have provided to us.
-How Do We Secure Active Information and Passive Information?
-We secure your personal information submitted by you by using reasonable efforts to
-prevent unauthorized access or disclosure, or accidental loss of Active and Passive
-Information. Individual postings on this site and other communications to our office via
 
 
-email or standard mail may not be secure unless we advise you that security measures
-are in place prior to your submission of information. Therefore, if you choose to
-communicate with us through these means, you are assuming the risk of doing so and
-we respectfully request that you do not send or post sensitive information through these
-means.
-Accessing and Correcting Your Information
-We take reasonable measures to ensure that any Personally Identifiable Information we
-collect on our Site is accurate, current, complete, and reliable for its intended use. If you
-wish to update or otherwise correct Personally Identifiable Information provided to us,
-you may edit your information online.
-Protecting Your Information
-We acknowledge your trust and are committed to take reasonable steps to protect
-Personally Identifiable Information provided from loss, misuse, and unauthorized
-access. We employ physical, electronic, and managerial processes to safeguard and
-secure your information.
-It is your responsibility to safeguard the password you use to access our Site and to
-promptly advise us if you ever suspect that your password has been compromised. We
-strongly encourage you to change your password regularly to prevent unauthorized
-access. Because your identification number and password are specific to you, you
-acknowledge sole responsibility for any and all use of our Site conducted with your
-identification number and password.
-Links to Other Websites
-Links to third-party websites may be provided solely for your information and
-convenience or to provide additional shopping for various other goods and services
-through our Merchant and Services Partners. If you use these links, you will leave our
-Site. This Privacy Statement does not cover the information practices of those websites
-nor do we control their content or privacy policies. We suggest that you carefully review
-the privacy policies of each site you visit.
-Children’s Privacy Protection
-We take special care to protect the privacy needs of children and encourage parents to
-be an active participant in their child’s online activities. Our Site does not target and is
-not intended for children under the age of 18, and we will not knowingly collect
-Personally Identifiable Information from them. If we discover personal data from a child
-through our site, we will eliminate that data. You may learn more about protecting
-children’s privacy online by visiting:
-http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm.
-Changes to This Statement
+The third party service providers mentioned above are contractually bound not to use any information they gather for any purpose other than providing services to us. Cookies do not corrupt or damage your computer or computer files. In addition, we do not use cookies to gather information concerning your visits to non-MAP websites. If you do not wish to receive these cookies, you may set your browser to reject the cookies (consult the instructions for your particular browser on how to do this), although doing so may affect your ability to perform certain transactions on our website.
 
+**Pixel Tags:**  The third party service providers mentioned above serve and host MAP advertisements on other sites. To track the effectiveness of MAP advertisements on other sites, MyAdvertisingPays.com uses pixel tags (also known as clear gifs, beacon gifs, 1-by-1 gifs, or web bugs). Pixel tags are not visible to the user of the site and consist of a few lines of computer coding. If you are visiting MyAdvertisingPays.com from an advertisement on another site, the pixel tag references the cookie you received when you clicked on the advertisement. The pixel tag then registers this activity with the third party advertising company to allow us to count the number of times an advertisement is accessed. In addition, we also measure the reservations generated from a particular ad. At no time is personally identifiable information about you or your reservation collected by the third party advertising company, nor is any tracking information generated from the pixel tag allowed to be used by them for any other purpose other than to report website activity to us or allow us to better target future interactive advertising.
 
-Any updates or changes to the terms of this Privacy Statement will be posted on our
-Site and the date of the newest version posted below. Please check back frequently,
-especially before you submit any Personally Identifiable Information at our Site, to see if
-this Privacy Statement has changed. By using our Site, you acknowledge acceptance of
-this Privacy Statement in effect at the time of use.
-YOUR USE OF OUR SITE MEANS THAT YOU ACCEPT THE PRACTICES SET
-FORTH IN THIS POLICY. YOUR CONTINUED USE INDICATES YOUR AGREEMENT
-TO THE CHANGES.
+Our third party service providers may use pixel tags in MAP marketing e-mails that help us send the e-mail in a format you can read, to allow us to know which e-mails you act upon and to better target the content of future e-mails. In addition, we track the aggregate number of e-mails read and whether any of the links in the e-mail were accessed. No other information is collected or used from pixel tags.
+
+**Information We Collect:**  When we need to collect personally identifiable information from you, we will ask you to voluntarily supply us with the information we need. For example, if you would like to create a MAP account or receive information regarding upcoming MAP technological advances, we will ask you for information such as name, address, telephone number, e-mail address, and quite possibly credit card number. We will use your e-mail address to send a confirmation and, if necessary, might use the other information to contact you for help to process the reservation. The same types of information may would be requested to complete any other membership related activity. As indicated below (see E-Mail section), we may also use your e-mail address to notify you about special offers and promotions.
+
+**Securing the Transmission and Storage of Information:**  When we ask you for credit card data when making a reservation or purchasing a gift certificate, it is transferred over a Secured Sockets Layer (SSL) line provided you are using a SSL enabled browser such as Safari, Google Chrome, Microsoft Internet Explorer, or the like. We also use SSL on other select pages where you would enter personally identifiable information. This ensures that your information is encrypted as it travels over the Internet. This secure mode is enabled before any such information is transmitted from your computer. You will know you are in secure mode when the padlock or key icon in the lower right-hand or left-hand corner of the computer screen appears in the locked position. In addition, when accessing a secure server, the first characters of the site address will change from http to https. After information reaches MAP it is stored on a secure server that resides behind firewalls designed to block unauthorized access from outside the Company.
+
+**E-Mail:**  It is our intention to only send you e-mail communications that will be useful to you and that you want to receive. When you make a reservation and provide your e-mail address, we will occasionally contact you via e-mail and provide information about special offers and promotions that may be of interest to you. These communications will relate to MAP offers and/or the promotions of select, reputable third parties with whom MAP has a strategic marketing relationship because they offer products or services that we believe would of interest to you. We use a third party e-mail service provider to send e-mails. This service provider is prohibited from using your e-mail address for any purpose other than to send MAP related e-mail. Every time you receive e-mail you will be provided the choice to opt-out of future e-mails by following the instructions provided in the e-mail, or you may opt-out by updating your online profile.
+
+**MAP Use of Information:**  We treat the information you provide to us as confidential information; it is, accordingly, subject to our company's security procedures and strict corporate policies regarding protection and use of confidential information. Because laws applicable to personal information vary by country, our business operations may put in place additional measures that vary depending on the applicable legal requirements. Information collected on the sites covered by this privacy statement, which are listed in the first paragraph, is generally processed and stored in the European Union (“EU”).
+
+The personally identifiable information you provide to us for making a reservation is made available to the applicable hotel for the purpose of meeting your reservation request. If you cancel your account, the information is stored for recordkeeping purposes only and is not accessed again. After creating your account, unless you specifically tell us otherwise, the information you provide may be used by us for direct marketing of MAP, the products of affiliates or select, reputable third parties with whom MAP has a strategic marketing relationship because they offer products or services that we believe would of interest to you. MAP may use the services of a third party mail house for the sole purpose of mailing materials.
+
+**Disclosure of Information to Third Parties:**  MAP prohibits the sale or transfer of personal information to unaffiliated third parties outside of MAP for their use without your approval.
+
+**Links to Other Sites:**  If you choose to leave this MAP site via links to other non-MAP websites, including those of advertisers, MAP is not responsible for the privacy policies or content of those sites, nor is MAP responsible for the cookies those sites use.
+
+**Legal Issues:**  This is an internationally based website and is subject to the law of the EU. MAP will disclose personally identifiable information without your permission when required by law, or in good faith belief that such action is necessary to investigate or protect against harmful activities to MAP guests, visitors, associates, or property (including this site), or to others when entities performing business activities on MAP's behalf necessitate such information (e.g., credit card processing or customer support services) or in the event that MAP is merged, acquired by or acquires another company. As mentioned above, laws related to personal identifiable information vary by country. For example, personally identifiable information collected in the European Union is subject to the EU Data Protection Directive.
+
+**Privacy Policy Effective Date:**  The privacy policy is in effect at the time of each visit to our site. Please check our privacy policy each time you visit our website if you are concerned about how your information will be used.
+
+**MyAdvertisingPays.com Privacy Statement Changes:**  In the future, we may need to change the privacy statement for MyAdvertisingPays.com. All changes will be made here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.
+
+For questions or comments regarding the Privacy Policy please email us at legal@myadvertisingpays.com
