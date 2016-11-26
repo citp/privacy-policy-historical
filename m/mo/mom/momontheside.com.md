@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momontheside.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428044150id_/http%3A//momontheside.com/about/product-review-and-ad-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momontheside.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126123844id_/http%3A//momontheside.com/about/product-review-and-ad-policies) for the most accurate reproduction.*
 
 # Product Review and Ad Policies - Mom on the Side
 
@@ -15,7 +15,7 @@ If there are any images listed on this site you would like removed, please email
 
 **Commitment to Online Security**
 
-Personal information submitted to Mom on the Side is only accessible only the owner of this site.
+Personal information submitted to Mom on the Side is only accessible by the owner of this site.
 
 **Personal Information Collected by Mom on the Side**
 
@@ -47,7 +47,7 @@ Our site is not set up to track, collect or distribute personal information not 
 
 **Third Party Ads**
 
-We may use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+We may use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
 
 **Disclaimer Policy**
 
@@ -61,7 +61,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following [www.google.com/privacy_ads](http://www.google.com/privacy_ads.html) Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following www.google.com/privacy_ads Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
 Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Mom on the Side has no access or control over these cookies that may be used by third party advertisers.
 
