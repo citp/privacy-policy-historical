@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ripleys.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624040156id_/http%3A//www.ripleys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripleys.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126103157id_/http%3A//www.ripleys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ripley's Believe It or Not!
 
@@ -49,7 +49,7 @@ Attention: Webmaster
 
 Our Site is not intended for children under the age of 13 years of age.  No one under age 13 may provide any personal information to or on the Site.  We do not knowingly collect personal information from children under 13.  If you are under 13, do not use or provide any information on this Site or on or through any of its features, register on the Site, make any purchases through the Site, use any of the interactive or public comment features of this Site or provide any information about yourself to Ripley, including your name, address, telephone number, e-mail address or any screen name or user name you may use.  If Ripley’s learns that it has collected or received personal information from a child under 13 without verification of parental consent, Ripley will delete that information. If you believe Ripley might have any information from or about a child under 13, please contact us by e-mail to [legal@ripleys.com](mailto:legal@ripleys.com) or write us:
 
-**Ripley Entertainment Inc.**  
+ **Ripley Entertainment Inc.**  
 7576 Kingspointe Parkway, Suite 188  
 Orlando, Florida 32819  
 Attention: Webmaster
