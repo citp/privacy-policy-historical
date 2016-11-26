@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hscic.gov.uk privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627174020id_/http%3A//www.hscic.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hscic.gov.uk privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126061843id_/http%3A//www.hscic.gov.uk/privacy) for the most accurate reproduction.*
 
-# Privacy and cookies - Health & Social Care Information Centre
+# Privacy and cookies - NHS Digital
 
 This Privacy Notice tells you what to expect when the Health and Social Care Information Centre (HSCIC) collects personal information.
 
@@ -32,13 +32,13 @@ If you do nothing other than read pages or download information, we will capture
 
 We use this information to make each visit more rewarding and to provide us with information to help improve our service. We do not know (and do not wish to know) the identities of the individuals who visit our website.
 
- [Read detailed information about cookies used by this website [113kb]](http://www.hscic.gov.uk/media/1563/Read-detailed-information-about-cookies-used-by-this-website/pdf/Detailed_cookie_info.pdf "This document contains detailed information about cookies used by this website")
+ [Read detailed information about cookies used by this website [113kb]](http://content.digital.nhs.uk/media/1563/Read-detailed-information-about-cookies-used-by-this-website/pdf/Detailed_cookie_info.pdf "This document contains detailed information about cookies used by this website")
 
 ## Receiving communications from the HSCIC
 
-If you do not wish to receive any information from us please let us know at the point you first contact us or by emailing [enquiries@hscic.gov.uk](mailto:enquiries@hscic.gov.uk). 
+If you do not wish to receive any information from us please let us know at the point you first contact us or by emailing [enquiries@nhsdigital.nhs.uk](mailto:enquiries@nhsdigital.nhs.uk). 
 
-If you already receive correspondence from the HSCIC and no longer want to, please email [enquiries@hscic.gov.uk](mailto:enquiries@hscic.gov.uk) and **let us know what you want to unsubscribe from.** We will remove your details from any tools or products that you tell us you are registered for, and will stop any communications updates.
+If you already receive correspondence from the HSCIC and no longer want to, please email [enquiries@nhsdigital.nhs.uk](mailto:enquiries@nhsdigital.nhs.uk) and **let us know what you want to unsubscribe from.** We will remove your details from any tools or products that you tell us you are registered for, and will stop any communications updates.
 
 In messages to some of our mailing lists, we automatically add a piece of code that requests a small image from our web servers. When a reader opens the email, the image is downloaded. The download is recorded as an "open" for that specific message to your email address.
 
@@ -67,7 +67,7 @@ In order to meet our public task as the national source of health and social car
 
 
 
-In addition to the above, the HSCIC collects and processes information relating to its customers and stakeholders for business purposes. All personal information is handled with the utmost care and attention - whether on paper, electronically, or other means - and safeguards are in place to ensure the Data Protection Act 1998 is adhered to. You can read more about [how we look after personal information](http://www.hscic.gov.uk/patientconf "How we look after information").
+In addition to the above, the HSCIC collects and processes information relating to its customers and stakeholders for business purposes. All personal information is handled with the utmost care and attention - whether on paper, electronically, or other means - and safeguards are in place to ensure the Data Protection Act 1998 is adhered to. You can read more about [how we look after personal information](http://content.digital.nhs.uk/patientconf "How we look after information").
 
 The HSCIC regards the fair and lawful processing of personal information as essential in order to successfully achieve its objectives and ensure the support and confidence of the general public and stakeholders. 
 
@@ -97,7 +97,7 @@ The Principles of The Data Protection Act 1998, as set out below are fully endor
 
 You are entitled to obtain a copy of the personal information held about you by the HSCIC. Any request to access or obtain a copy of this information will be considered under Section 7 of the Data Protection Act.
 
-To make a request for personal information, email [enquiries@hscic.gov.uk](mailto:enquiries@hscic.gov.uk)
+To make a request for personal information, email [enquiries@nhsdigital.nhs.uk](mailto:enquiries@nhsdigital.nhs.uk)
 
 or write to:
 
@@ -116,7 +116,7 @@ There are robust security measures in place for all personal information held by
 
 ## Privacy Impact Assessment
 
-We have completed a  [Privacy Impact Assessment [527kb]](http://www.hscic.gov.uk/media/12931/Privacy-Impact-Assessment/pdf/privacy_impact_assessment_2013.pdf "Privacy Impact Assessment") which tells you what the HSCIC does with personal information and what effect that might have on privacy. It also explains what steps the HSCIC takes to protect privacy. The Privacy Impact Assessment will be looked at every year to see if it needs to be updated.
+We have completed a  [Privacy Impact Assessment [527kb]](http://content.digital.nhs.uk/media/12931/Privacy-Impact-Assessment/pdf/privacy_impact_assessment_2013.pdf "Privacy Impact Assessment") which tells you what the HSCIC does with personal information and what effect that might have on privacy. It also explains what steps the HSCIC takes to protect privacy. The Privacy Impact Assessment will be looked at every year to see if it needs to be updated.
 
 ## Other websites
 
