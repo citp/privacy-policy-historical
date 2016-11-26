@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghar360.com privacy policy that was archived on 2016-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160130003215id_/http%3A//ghar360.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghar360.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126062937id_/http%3A//ghar360.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Ghar360 - Design and Visualize Your Dream Home For Free
 
