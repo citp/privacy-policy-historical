@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ighoot.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529022242id_/http%3A//ighoot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ighoot.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126195729id_/http%3A//ighoot.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — IG Hoot
 
