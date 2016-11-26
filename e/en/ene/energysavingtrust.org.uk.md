@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energysavingtrust.org.uk privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629182856id_/http%3A//www.energysavingtrust.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energysavingtrust.org.uk privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126194450id_/http%3A//www.energysavingtrust.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Energy Saving Trust
 
@@ -89,7 +89,7 @@ We will also share information about you when we are required to so by law or if
 
 **7\. Direct Marketing**
 
-If the Energy Saving Trust will only send you direct marketing information if you have not opted-out to receive this information when you provided your contact details, or when you have specifically asked us to send you direct marketing.
+The Energy Saving Trust will only send you direct marketing information if you have not opted-out to receive this information when you provided your contact details, or when you have specifically asked us to send you direct marketing.
 
 We may occasionally present a promotion that is sponsored by a third-party company or organisation. To qualify for entry, we may ask you to provide personal information – if we intend to share that information with the sponsors, we will make this clear.
 
@@ -107,7 +107,7 @@ Energy Saving Trust has implemented the following Google Analytics Advertising f
 
 **9\. Targeting**
 
-If you have agreed that we can send you direct marketing we may make us of social media to target advertising to you. This will take the form of adverts about Energy Saving Trust services that appear in your newsfeed etc. This is done by ‘hashing’ your email address. A process which converts your email address to a line of numbers which is then matched against the social media provider’s records. Any hashed addresses which do not match to their records will be destroyed. No personal data is shared. You can adjust your setting within your social media:
+If you have agreed that we can send you direct marketing we may make use of social media to target advertising to you. This will take the form of adverts about Energy Saving Trust services that appear in your newsfeed etc. This is done by ‘hashing’ your email address. A process which converts your email address to a line of numbers which is then matched against the social media provider’s records. Any hashed addresses which do not match to their records will be destroyed. No personal data is shared. You can adjust your setting within your social media:
 
 [Facebook ad settings information >](https://www.facebook.com/settings?tab=ads)
 
@@ -119,7 +119,7 @@ If you have agreed that we can send you direct marketing we may make us of socia
 
 When you download any of our apps (either Android or Apple):
 
-  * we may use GPS to track your position (for example within the FuelGood App)
+  * we may use GPS to track your position
   * we will use to check if you already have an account with us
   * receive data from Internet
   * full network access
