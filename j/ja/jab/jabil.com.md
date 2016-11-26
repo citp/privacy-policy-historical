@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jabil.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315065704id_/http%3A//www.jabil.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jabil.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126143049id_/http%3A//www.jabil.com/privacy) for the most accurate reproduction.*
 
-# Jabil | Safe Harbor and Online Users Privacy Policy Jabil Circuit, Inc.
+# Jabil | Privacy
 
 ## 1\. Purpose
 
@@ -206,13 +206,20 @@ This Privacy Policy shall be construed in accordance with the laws of the State 
 
 Safe Harbor and Online Privacy Policy Data Subjects may contact Jabil US and US Affiliates (i) with complaints concerning this Privacy Policy or its implementation, (ii) with questions concerning this Policy, and (iii) with requests under Section 14 (Right to Access, Change, or Delete Personal Data), at the following address:
 
-Jabil Circuit, Inc.  
-US Safe Harbor Compliance  
-C/O Marilyn Martin  
-10560 Dr. Martin Luther King Street North  
-St. Petersburg, FL 33716  
-Phone: 727-803-7356  
-Fax: 727-231-3204  
+Jabil Circuit, Inc.
+
+US Safe Harbor Compliance
+
+C/O Marilyn Martin
+
+10560 Dr. Martin Luther King Street North
+
+St. Petersburg, FL 33716
+
+Phone: 727-803-7356
+
+Fax: 727-231-3204
+
 e-mail: [us_safeharborcompliance@jabil.com](mailto:us_safeharborcompliance@jabil.com)
 
 ## 21\. Defined Terms
@@ -311,20 +318,28 @@ Capitalized terms in this Notice are defined in Jabil US's Privacy Policy for Sa
 
 Jabil US and US Affiliates periodically may wish to use Personal Data to send Direct Marketing Information to a Safe Harbor and Online Privacy Policy Data Subject. Such Data Subjects have the right to opt out of receiving such Direct Marketing Information, in accordance with Section 11 of Jabil US's Privacy Policy for Safe Harbor and Online Users. If you are a Safe Harbor and Online Privacy Policy Data Subject, and you choose to exercise this opt out right, please complete and execute this form and mail it to Jabil US at the following address:
 
-Jabil Circuit, Inc.  
-US Safe Harbor Compliance  
-C/O Marilyn Martin  
-10560 Dr. Martin Luther King Street North  
+Jabil Circuit, Inc.
+
+US Safe Harbor Compliance
+
+C/O Marilyn Martin
+
+10560 Dr. Martin Luther King Street North
+
 St. Petersburg, FL 33716
 
 __________________________________________
 
 I HAVE READ AND UNDERSTAND JABIL CIRCUIT, INC.'S. PRIVACY POLICY FOR SAFE HARBOR AND ONLINE USERS AND HEREBY EXERCISE MY RIGHT UNDER APPLICABLE PRIVACY LAWS AND PRINCIPLES TO OPT OUT OF JABIL CIRCUIT, INC.'S USE OF MY PERSONAL DATA FOR ITS DIRECT MARKETING PURPOSES (AS THOSE TERMS ARE DEFINED IN THE JABIL PRIVACY POLICY FOR SAFE HARBOR AND ONLINE USERS, LOCATED AT WWW.JABIL.COM) BY DOING SO, I, AS THE DATA SUBJECT, UNDERSTAND THAT JABIL CIRCUIT, INC. WILL NOT SEND ME DIRECT MARKETING INFORMATION, BUT MAY STILL USE MY PERSONAL DATA FOR THE PURPOSE IT WAS ORIGINALLY COLLECTED OR FOR WHICH I SUBSEQUENTLY AUTHORIZE AND MAY STILL DISCLOSE MY PERSONAL DATA, AS DESCRIBED ELSEWHERE IN THE PRIVACY POLICY AND AS PERMITTED UNDER OR REQUIRED BY APPLICABLE LAW.
 
-Signed:____________________________________  
-Print Name:_________________________________  
-Date:______________________________________  
-Mailing Address:_____________________________  
+Signed:____________________________________
+
+Print Name:_________________________________
+
+Date:______________________________________
+
+Mailing Address:_____________________________
+
 Telephone No.:______________________________
 
 FCH1 #79169 v1
