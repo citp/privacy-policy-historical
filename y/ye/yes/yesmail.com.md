@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesmail.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509185127id_/http%3A//www.yesmail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesmail.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126174535id_/http%3A//www.yesmail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yesmail
 
@@ -94,20 +94,30 @@ For more consumer choice resources, please see our [**Infogroup Consumer Choice 
 **8\. Security and Data Integrity**  
 Infogroup takes steps to ensure that the data we possess is housed and transmitted securely.  These steps may include various methods of physical and electronic security, firewall protections, encryption and hashing of data, and access controls to PI.  However, neither we nor any platform can guarantee 100 percent safety from hacks or illegal intrusion, so this Privacy Policy does not guarantee against that possibility.
 
-**9\. International Users, U.S. Safe Harbor and Dispute Resolution**
+**9\. International Users, EU-U.S. Privacy Shield Policy and U.S.-Swiss Safe Harbor Framework**
 
-Infogroup complies with the principles of the U.S./EU and U.S./Swiss Safe Harbor Frameworks regarding Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement with respect to the personal information we receive from the relevant European countries, effective as of the date our certification is posted to the U.S Department of Commerce website at <http://safeharbor.export.gov/list.aspx>.  To exercise their rights under Safe Harbor or file a complaint, residents of those countries may contact us as described below.  Some business owners may also be able to use the self-serve options at [http://www.expressupdate.com](http://www.expressupdate.com/)  to access and correct certain information we hold.
+Infogroup and its Covered Entities participate in, and have certified their compliance with, the EU-U.S. Privacy Shield Framework (“Privacy Shield Framework”). As part of its self-certification to the Privacy Shield Framework, Infogroup has adopted a **EU-US Privacy Shield Policy** in regards to human resource (“HR”) and NON-HR EU personal data, which policy with dispute resolution is incorporated into this Privacy Policy via the following link: [http://www.yesmail.com/privacy-shield-policy](https://web.archive.org/privacy-shield-policy).
 
- In the event we are unable to resolve a disagreement with a covered European resident regarding Safe Harbor, we agree to resolve the matter through the appropriate EU Data Protection Authorities or the Swiss Federal Data Protection and Information Commissioner.  To learn more about the Safe Harbor Frameworks, please visit <http://www.export.gov/safeharbor>.
+Infogroup complies with the principles of the U.S.-Swiss Safe Harbor Framework regarding Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement with respect to the personal information we receive from Switzerland, effective as of the date our certification is posted to the U.S Department of Commerce website at <http://safeharbor.export.gov/list.aspx>. To exercise their rights under Safe Harbor or file a complaint, residents of Switzerland may contact us as described below.
 
-**10\. Questions or Concerns**  
-If you have questions or concerns about Infogroup’s privacy efforts or data products, please contact us at:  
-Privacy Officer  
-Infogroup  
-1020 East 1st Street
+In the event we are unable to resolve a disagreement with a Switzerland resident regarding Safe Harbor, we agree to resolve the matter through the appropriate Swiss Federal Data Protection and Information Commissioner.  To learn more about the U.S.-Swiss Safe Harbor Framework, please visit <http://www.export.gov/safeharbor>.
+
+**10\. Questions or Concerns**
+
+If you have questions or concerns about Infogroup’s privacy efforts or data products, please contact us at:
+
+Privacy and Data Security Officer
+
+Infogroup Inc.
+
+1020 E 1st Street
 
 Papillion, NE 68046
 
-EMAIL: PrivacyCouncil@infogroup.com
+[privacyteam@infogroup.com](mailto:privacyteam@infogroup.com)
 
-Last Updated:  4.22.16
+Phone: (402) 836-3377
+
+Fax: (402) 836-7055
+
+Last Updated:  9.30.16
