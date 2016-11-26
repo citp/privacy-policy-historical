@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nflstreaming.net privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623040355id_/http%3A//www.nflstreaming.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nflstreaming.net privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126173741id_/http%3A//www.nflstreaming.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy/ Terms & Conditions
 
@@ -66,7 +66,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[NFLStreaming.net](https://web.archive.org/web/20160623040355id_/http://www.nflstreaming.net/)  
+[NFLStreaming.net](https://web.archive.org/web/20161126173741id_/http://www.nflstreaming.net/)  
 <http://www.nflstreaming.net/>  
 New York, USA  
 pronflnet@gmail.com
