@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solutioninn.com privacy policy that was archived on 2015-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151020072630id_/http%3A//www.solutioninn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solutioninn.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126121545id_/http%3A//www.solutioninn.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Solution Inn
 
