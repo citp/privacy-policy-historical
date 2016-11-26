@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the sporter.com privacy policy that was archived on 2016-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160105125025id_/http%3A//www.sporter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sporter.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126145410id_/http%3A//www.sporter.com/privacy-policy) for the most accurate reproduction.*
 
 # Sporter.com - Privacy Policy
 
-Sporter.com is an online company; operating its business through the internet. Our team is based in Canada with offices located in Dubai - UAE.
+Sporter.com is an online company; operating its business through the internet.
 
 Please refer to the article listed below to review our privacy and ethical policy. Kindly note that whenever referred to “us, we, our” or any other references from the like, this means that we are talking about “Sporter” and whenever “you, your, customer” is stated, then we are talking about “you as a customer” and as the second party. By visiting our website, you accept the practices conducted as described in the Privacy Policy section here in.
 
 Availing yourself to our products will always be safe and secure.  Our privacy policy is stringently enforced so your information is always kept completely confidential.  We use different safeguards techniques to assist us in preventing unauthorized access and maintaining data accuracy; including your personal information. Except that, we use some of the contact information such as; name, physical address, telephone number, email address, and information volunteered by the consumer, such as survey information and/or site registrations for the business need. In fact, the information we collect is used to improve the service of our Web page, to notify consumers about updates to our Web site, and for keeping a record for the promotions and the company’s announcements. If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the Contact Us section.
 
-With respect to security; we have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. In fact, Sporter.com is SSL certified that it promises secure and safe financial and information transactions. Additionally, we might collect information about your pattern of use to our website through the application of “cookies” - which are pieces of data assigned by our web server that uniquely identify the browser on your machine-.  However, you have the option to disable the cookies anytime through your browser, but then you may not be able to access certain features on our website.
+With respect to security; we have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. In fact, Sporter.com is SSL certified that it promises secure and safe financial and information transactions. Additionally, we might collect information about your pattern of use to our website through the application of “cookies” - which are pieces of data assigned by our web server that uniquely identify the browser on your machine.  However, you have the option to disable the cookies anytime through your browser, but then you may not be able to access certain features on our website.
 
 Sorpter is committed to protecting your privacy. Any information collected from your side is for pure business enhancement and customer service; in order to achieve a great online shopping experience, and to help us understand our market even better.
 
 **Personal Information**
 
- This policy covers the following personal information that Sporter.com collects through your use of Sporter.com and in connection with off-line communications. Specifically, Sporter.com may collect this information from offline and online registrations, forms and communications and interactions, and sales inquiries and transactions.
+This policy covers the following personal information that Sporter.com collects through your use of Sporter.com and in connection with off-line communications. Specifically, Sporter.com may collect this information from offline and online registrations, forms and communications and interactions, and sales inquiries and transactions.
 
 Contact information, such as name, physical address, telephone number, email address, and company. The majority of the information collected under this category is business contact information.
 
@@ -52,7 +52,7 @@ Sporter.com uses (and, where specified, shares) your personal information for th
 
 \- To power joint sales or product promotions. Sporter.com and its partners may engage in joint sales or product promotions. Such promotions will always reference the partners involved. Both Sporter.com and the partner(s) will have access to that information, and either Sporter.com or our partners may provide you the sales or product promotion information. We recommend you review the privacy policies of these partners to address your particular needs and concerns.
 
-\- To contact a referral/"tell a friend". If you elect to use our referral service to inform a friend about our site, we will ask you for the friend's name and email address. Sporter.com will automatically send the friend a one-time email inviting them to visit the site. Sporter.com uses this personal information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact Sporter.com at [info@Sporter.com](mailto:info@sporter.com) to be removed from the referral program.
+\- To contact a referral/"tell a friend". If you elect to use our referral service to inform a friend about our site, we will ask you for the friend's name and email address. Sporter.com will automatically send the friend a one-time email inviting them to visit the site. Sporter.com uses this personal information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact Sporter.com at [info@Sporter.com](mailto:info@sporter.com) to be removed from the referral program.
 
 \- To communicate with you about a conference or event. We or our partners may communicate with you about a conference or event hosted or co-sponsored by Sporter.com or one of our partners. This may include information about the event's content, event logistics, payment, updates, and any additional meetings, special demonstrations or other customer facilitation that we may provide related to the event. Sporter.com may contact you after the event about the event and related products and services. Sporter.com will also permit designated partners or conference sponsors to send you up to two communications through the services of a third party bonded warehouse. Please note that our partners or conference sponsors may directly request your personal information at their conference booths or presentations; however, providing your information is optional, and you should review their privacy policies to address your particular needs and concerns.
 
@@ -62,9 +62,9 @@ Please note that your personal information may be transferred, accessed and stor
 
 **REGISTRATION, CUSTOMIZATION, PREFERENCES AND OPT-OUT**
 
-Sporter.com allows you to establish an online registration profile for marketing communications at Sporter. You may use the profile to customize and control your preferences for receiving electronic information, including opting into (or out of) communities. You can return to the registration profile to customize it at any time to change your elections or modify your profile at http://www.Sporter.com. Please login as usual and follow the prompts to "update my profile."
+Sporter.com allows you to establish an online registration profile for marketing communications at Sporter. You may use the profile to customize and control your preferences for receiving electronic information, including opting into (or out of) communities. You can return to the registration profile to customize it at any time to change your elections or modify your profile at [http://www.Sporter.com](http://www.sporter.com/). Please login as usual and follow the prompts to "update my profile."
 
-**Opting Out.** Sporter.com enables you to opt out of some or all email marketing through an unsubscribe link. A link to this will be available in marketing emails. You can also unsubscribe to all email marketing by sending an email through our Contact Us page.
+**Opting Out.**  Sporter.com enables you to opt out of some or all email marketing through an unsubscribe link. A link to this will be available in marketing emails. You can also unsubscribe to all email marketing by sending an email through our Contact Us page.
 
 **Information-Sharing Choices**. Sporter.com only shares personal information with selected companies after providing users the ability to either opt out of or opt into the sharing. There are limitations to opting out of such sharing in the case of (1) joint sale or joint events where the data goes to both Sporter.com and the other party at the same time; (2) where the customer has requested follow up which involves Sporter.com partners; and (3) where third parties are required to accomplish the transaction or perform the service, including delivery and credit card clearing services.
 
@@ -74,11 +74,11 @@ On occasion, Sporter.com may use a third party permission-based list to send com
 
 **Advertising**
 
-Sporter.com uses some third parties to administer a limited set of Sporter.com advertisements on its Web sites. **No personal information is provided to the advertisers** as part of this process, but aggregate profile information, such as user community, may be used in the selection of advertising to make sure that it has relevance to the user. On some banner ads, an embedded pixel may be present, and while it does not associate with a cookie or other personal profile information, it may return session connection information that allows advertisers to better determine how many individual users have clicked on the ad banner.
+Sporter.com uses some third parties to administer a limited set of Sporter.com advertisements on its Web sites.  **No personal information is provided to the advertisers**  as part of this process, but aggregate profile information, such as user community, may be used in the selection of advertising to make sure that it has relevance to the user. On some banner ads, an embedded pixel may be present, and while it does not associate with a cookie or other personal profile information, it may return session connection information that allows advertisers to better determine how many individual users have clicked on the ad banner.
 
 **Security**
 
-The security of your personal information is very important to Sporter.com. We have in place physical, administrative and technical safeguards designed to protect your personal information from unauthorized access. In addition, **Sporter.com uses the highest security protocols and mechanisms to exchange the transmission of sensitive data such as credit card details.**
+The security of your personal information is very important to Sporter.com. We have in place physical, administrative and technical safeguards designed to protect your personal information from unauthorized access. In addition,  **Sporter.com uses the highest security protocols and mechanisms to exchange the transmission of sensitive data such as credit card details.**
 
 **Compliance Issues**
 
