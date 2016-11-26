@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websaver.ca privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516040437id_/https%3A//websaver.ca/en_ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websaver.ca privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126074438id_/https%3A//websaver.ca/en_ca/privacy-policy) for the most accurate reproduction.*
 
 # webSaver.ca - Canadian Coupons and Printable Coupons
 
@@ -98,7 +98,7 @@ webSaver.ca
 Suite 203, Montréal, Québec,  
 Canada H4P 2N5  
 [privacy@websaver.ca](mailto:privacy@websaver.ca)  
-Date of Last Revision: May 16, 2016  
+Date of Last Revision: November 26, 2016  
 
 
 ×
