@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freemoviesonline.me privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624225217id_/http%3A//freemoviesonline.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemoviesonline.me privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126144102id_/http%3A//freemoviesonline.me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | freemoviesonline.me
+# Privacy Policy - freemoviesonline.me freemoviesonline.me
 
 This Privacy Policy governs the manner in which Online Free Movie collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://freemoviesonline.me/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Online Free Movie.
 
