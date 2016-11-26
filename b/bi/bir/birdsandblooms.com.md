@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birdsandblooms.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609232548id_/http%3A//www.birdsandblooms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birdsandblooms.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126065043id_/http%3A//www.birdsandblooms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TMB
 
@@ -58,7 +58,7 @@ Company may save your credit card information for use when you log in to make fu
 
 Company may share your PII for the following purposes and under the following circumstances.
 
-  * We may share your PII with our affiliates our technical consultants, auditors and other third parties who act on our behalf, for example, to make Company Sites available, enhance their functionality, or provide associated services and/or who deal with you in delivering content, samples, products, and gifts and prizes, have access to and may use this information to provide us with services.
+  * We may share your PII with our affiliates, our technical consultants, auditors and other third parties who act on our behalf, for example, to make Company Sites available, enhance their functionality, or provide associated services, and/or who deal with you in delivering content, samples, products, and gifts and prizes.
   * Occasionally, we may make names and postal addresses we collect through the Company Sites along with certain other information about you such as your interest in particular health or lifestyle topics available to reputable companies whose products and/or services may interest you, unless you opt out of being included in our postal mailing list. (See the section below on opting out of postal mailings).
   * We may transfer your personally identifiable information and other information in connection with or during negotiation of any merger, financing, acquisition or dissolution, transaction or proceeding involving sale, transfer, divestiture or disclosure of all or a portion of our business or assets to another company.
   * We will consider, and may release, personal information to third parties: to (i) comply with laws or to respond to lawful requests and legal process, (ii) to protect the rights and property of Company, our agents, customers, members, and others, including to enforce our agreements, policies and terms of use or (iii) in an emergency to protect the personal safety of Company employees, customers, or any person.
