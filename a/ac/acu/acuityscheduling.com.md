@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the acuityscheduling.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616170143id_/https%3A//acuityscheduling.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acuityscheduling.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126083521id_/https%3A//acuityscheduling.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Acuity Online Appointment Scheduling Software
 
 Last Update: September 17, 2015 (adding Safe Harbor information)
 
-This is the Privacy Policy governing your use of the Acuity Scheduling websites (the "Site") and the collection, use, transfer and processing of your Collected Information by Acuity Scheduling, Inc.and our affiliates (collectively referred to as "Acuity Scheduling", "we" or "us"). By using this Site, you consent to our Privacy Policy set out below. All terms not defined in this document have the meanings ascribed to them in the [Terms of Service Agreement](https://web.archive.org/web/20160616170143id_/https%3A//acuityscheduling.com/tos.php) between you and Acuity Scheduling which by use of this Site you agree to accept. 
+This is the Privacy Policy governing your use of the Acuity Scheduling websites (the "Site") and the collection, use, transfer and processing of your Collected Information by Acuity Scheduling, Inc.and our affiliates (collectively referred to as "Acuity Scheduling", "we" or "us"). By using this Site, you consent to our Privacy Policy set out below. All terms not defined in this document have the meanings ascribed to them in the [Terms of Service Agreement](https://web.archive.org/web/20161126083521id_/https%3A//acuityscheduling.com/tos.php) between you and Acuity Scheduling which by use of this Site you agree to accept. 
 
 ## The Information We Collect
 
