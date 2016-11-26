@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the qples.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408070950id_/http%3A//www.qples.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qples.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126203549id_/http%3A//qples.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Qples, Inc. (Qples) and your Privacy**
 
-This privacy statement covers the site [www.Qples.com](http://www.qples.com/) and its related websites, services, software applications and products (“Sites”), as well as our clients, advertisers and affiliates (collectively, “Affiliates”). Qples is committed to our users' privacy.  This Privacy Policy is intended to help you understand what personal and non-personal information we collect, how it is protected and used, and how you can control it.
+This privacy statement covers the site www.Qples.com and its related websites, services, software applications and products (“Sites”), as well as our clients, advertisers and affiliates (collectively, “Affiliates”). Qples is committed to our users' privacy.  This Privacy Policy is intended to help you understand what personal and non-personal information we collect, how it is protected and used, and how you can control it.
 
 If users have questions or concerns regarding this statement, you should first contact privacy (at) Qples.com.  Changes to this Privacy Policy will be made on this web page, with an updated “Updated” date, above.
 
@@ -17,13 +17,11 @@ At Qples we respect your right to privacy and we understand that, as a visitor t
   * Chat or communicate with customer service
   * Request information
   * Download Qples software, applications, mobile applications, etc.
-  * Register for events
-  * Register for products / new products, programs or promotions
+  * • Register for products / new products, programs or promotions
   * Purchase Products or Services
   * Subscribe to newsletters
   * Share our service or offers, etc., with your friends
   * Interact with some ads or offers
-  * Register or interact with us via Facebook Connect or other social media provider.
 
 
 
@@ -31,7 +29,7 @@ Note:  Using Qples software or applications, including mobile applications, may
 
 Our Sites may contain links to third-party websites, products and services.  This Privacy Policy only applies to our Sites and our collection and use of your information. The linked third party websites, products and services, and their collection and use of your information, are governed by the privacy policies of such third parties. We encourage you to learn about the privacy practices of those third parties.
 
-We will guard the personal information you share with us to ensure the content and services we provide on our website are always tailored to your current, designated preferences. Your privacy is extremely important to us, and your information is kept strictly confidential and will never be given to anyone outside our company.
+We will guard the personal information you share with us to ensure the content and services we provide on our website are always tailored to your current, designated preferences. Your privacy is extremely important to us, and your information is strictly confidential and used for purposes that relate to savings, coupons, loyalty and content customization. Qples may share that data with the brands whose coupons you are engaging with.
 
 Qples respects the rights users give us when opting to receive e-mail or other forms of communication and enforces internal policies to preserve those rights. It is our objective to retain the long-term ability to continue to communicate with our customers and interested parties.
 
@@ -49,8 +47,7 @@ When you use a Qples site or application, certain technologies may be used to co
 
   * Coupon requests
   * Coupon prints
-  * Coupon redemptions
-  * Web browser type and/or operating system and/or platform
+  * • Web browser type and/or operating system and/or platform
   * Referral website
   * Pages viewed
   * Ads viewed and interacted with
@@ -69,8 +66,6 @@ Qples may use tools such as Google Analytics to better understand who is using o
 
 ##### **Promotions, Sweepstakes, & Contests**:
 
-From time to time, Qples may sponsor sweepstakes, contests, other promotions or surveys. Personal information may be required as a condition of participation for purposes of fraud prevention and verifying entrants' identities, notifying winners and fulfilling prizes. Qples will not use or disclose any such information unless Qples receives your consent to do so. If Qples engage a third party to assist us in administering a promotion or fulfilling prizes, this information will be disclosed to that third party.
-
 ##### **Data Retention** :
 
 Qples retain all information collected about you for the period necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.
@@ -78,9 +73,9 @@ Qples retain all information collected about you for the period necessary to ful
 Here are some examples of how we use the information we collect:
 
   * To operate our service, including the offering, delivery and redemption of coupons and other services and products
-  * To operate our offers and advertisements and promotions and similar activities
+  * T• To operate our offers and advertisements and promotions and similar activities
   * Measure and adjust the effectiveness of offers and campaigns
-  * Collect information so we can analyze it and improve our service by understanding trends and preferences and other measures and metrics
+  * • Collect information so we can analyze it and improve our service by understanding trends and preferences and other measures and metrics
   * Improve the look and feel of our Sites
   * Assist you (users) in the operation of the Sites and services
   * Create new products, functions and features
@@ -95,7 +90,7 @@ Qples will always protect the personal information that you share with us. Qples
 
 We do not share personally identifiable information with our Affiliates or other third-parties for their marketing or promotional uses except as part of a specific program or feature that you have actively chosen to participate in.
 
-We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
+The Sites incorporate physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information. Additional security measures, such as Secure Sockets Layer (“SSL”) or other technology, will be used if you engage in financial transactions on our Sites. However, as no security measures are perfect or impenetrable, we cannot guarantee the security of any information you transmit to us.
 
 If Qples requests general demographic information, this information is limited to reporting purposes only; users remain anonymous. Phone numbers, e-mail addresses, and postal addresses are never shared for demographic reports with outside entities.
 
@@ -106,25 +101,6 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 ##### **Our Commitment To Children’s Privacy**
 
 Protecting the privacy of young children is especially important. For that reason, we do not knowingly collect or maintain information from persons under 13 years of age, and no part of our Sites is structured to attract anyone under 13. If you are under 13 years of age, then please do not use or access the Sites at any time or in any manner. If we learn that personally identifiable information of persons under 13 years of age has been collected on the Sites without verified parental consent, then we will take the appropriate steps to delete this information.
-
-##### **How to update your personal information:**
-
-You can help Qples maintain the accuracy of your personal information by notifying us when you change your name, address, title, phone number, e-mail address, or your content preferences. If at any time you wish to update your information or preferences, or you prefer to stop receiving communication from Qples, feel free to contact us at any time.
-
-Qples Privacy Contacts
-
-E-MAIL: [privacy@Qples.com](mailto:privacy@Qples.com)  
-POSTAL MAIL:  
-Qples, INC..  
-Attn: Privacy  
-5930 Royal Lane, Suite 381  
-Dallas, TX  75230
-
-If you change your e-mail or postal address, please contact Qples. In order to make the appropriate corrections, please include both your old and new address.
-
-##### **Our company wide commitment to privacy: **
-
-To make sure your personal information remains confidential, we communicate these privacy guidelines to every Qples employee.
 
 ##### **Links:**
 
@@ -138,4 +114,4 @@ If, however, we are going to use users' personally identifiable information in a
 
 ##### **Business Transitions:**
 
-In the event Qples goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users'; personal information will, in most instances, be part of the assets transferred. Users will be notified via a prominent notice on our Web site for 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection, they will be given choice consistent with our notification of changes section.
+In the event Qples goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users'; personal information will, in most instances, be part of the assets transferred. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection, they will be given choice consistent with our notification of changes section.
