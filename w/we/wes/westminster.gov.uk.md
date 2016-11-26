@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westminster.gov.uk privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318090146id_/https%3A//www.westminster.gov.uk/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westminster.gov.uk privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126183204id_/https%3A//www.westminster.gov.uk/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Westminster City Council
 
@@ -40,12 +40,7 @@ Other Cookies - we use Google Analytics on our site in order to know what is of 
 
 ### Cookies - Further Information
 
-Some independent information about cookies is available below: 
-
-  * [All about cookies](http://www.allaboutcookies.org/)
-  * [_About cookies_](http://www.aboutcookies.org/)
-
-
+Further information about cookies is available at [All about cookies](http://www.allaboutcookies.org/).
 
 ### Access to Information - Data Protection and You
 
@@ -60,13 +55,11 @@ Under the Data Protection Act 1998, you can make a formal request for the follow
 
 ### Forms
 
-If you wish to access information held by the Council about you, please complete and return the form to the address below. Should you wish to access CCTV footage captured by the Council, please complete and return the CCTV request form.
+If you wish to access information held by the Council about you, please complete and return the form to the address below. 
 
 Remember to provide proof of identification with all applications otherwise we cannot process your request. 
 
 [Data Protection Subject Access Request Form (Word Version)](http://transact.westminster.gov.uk/publications/publications_detail.cfm?ID=4193 "Data Protection Subject Access Request form")
-
-[CCTV Data Protection Request Form (Word Version)](http://transact.westminster.gov.uk/publications/publications_detail.cfm?ID=4194 "CCTV Footage Request form")
 
 You may view the Council's Data Protection Notification (registration number: Z5674504) by visiting the [Information Commissioner's web site](http://ico.org.uk/esdwebpages/search).
 
@@ -76,4 +69,4 @@ You may view the Council's Data Protection Notification (registration number: Z5
 
 ### Contact
 
-If you have any concerns regarding data protection contact the [Data Protection/FOI Team](http://transact.westminster.gov.uk/forms/form_detail.cfm?id=186) online or in writing.
+If you have any concerns regarding data protection contact the [Data Protection/FOI Team](https://westminsterportal.icasework.com/servlet/ep.app?type=InformationRequest&db=F44LsgZHDZGysdEzelwzFQ%3D%3D&Login=false&csrfhash=OL%2F1nyhJMdPMxRurFRPKJ0BkG1MhcorhXUKruopanI5cxPyci5uR8bgEu%2BApnbvcOXe7a4KHqzO9Xwu6sQuJn2s%2Fdmcj0OFnz%2Bvos8af5y6cpFjsnqJ9r2JZtmGihHDtpN6nhx%2BFBE4B5nOiJVcl2Q%3D%3D%C2%ABnMjKL9gI4tEGEx9oAlZeTA%3D%3D~%21).
