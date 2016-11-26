@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eatnow.com.au privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601121230id_/https%3A//www.eatnow.com.au/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatnow.com.au privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126173535id_/https%3A//www.eatnow.com.au/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | eatnow.com.au
 
 #### 1\. Privacy Statement
 
-**1.1** Eat Now Services Pty Ltd (Eat Now) respects your privacy and is committed to protecting your personal information. Our privacy policy outlines our approach to privacy and how we collect, use and protect your personal information. It also sets out your rights in relation to accessing the personal information we collect and hold about you. We are bound by the Australian Privacy Principles (or APP’s) in the Privacy Act 1988 (Cth). 
+**1.1** Eat Now Services Pty Ltd (Eat Now) respects your privacy and is committed to protecting your personal information. Our privacy policy outlines our approach to privacy and how we collect, use and protect your personal information. It also sets out your rights in relation to accessing the personal information we collect and hold about you. We are bound by the Australian Privacy Principles (or APPs) in the Privacy Act 1988 (Cth). 
 
 **1.2** Personal information is defined in the Privacy Act 1988 (Cth) and means information or an opinion about an identified individual, or an individual who is reasonably identifiable. 
 
@@ -20,7 +20,7 @@
 
 (c) contact us.
 
-**2.2** The personal information that we collect on individuals may include, but is not limited to:
+**2.2** The personal information that we collect on individuals may include, but is not limited to: 
 
 (a) your name;
 
@@ -94,4 +94,4 @@ Arrow
 
  **Best Price Guaranteed**
 
-EatNow does not markup menus or charge customers any service fees. If you order from us and subsequently find the same item advertised by the restaurant within 24 hours for less, we will credit you the difference plus $5 for that order. 
+EatNow does not markup menus or charge customers any service fees. If you order from us and subsequently find the same item advertised by the restaurant within 24 hours for less, we will credit you the difference plus $10 for that order. 
