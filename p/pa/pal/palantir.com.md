@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the palantir.com privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511155129id_/http%3A//www.palantir.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palantir.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126034549id_/https%3A//www.palantir.com/privacy-and-security) for the most accurate reproduction.*
 
 # Palantir's Privacy and Security Statement | Palantir
 
-> Last modified: September 2014
+> Last modified: June 2016
 
 ### The Highlights:
 
@@ -22,11 +22,11 @@ Please read this Privacy and Security Statement carefully to understand our poli
 
 We collect several types of information for our business operations, including but not limited to:
 
-_Information you provide to us._ When you navigate our websites or contact us, we may request or you may choose to provide us with certain information. This may include information by which you may be personally identified (“personal information”), such as name, employer, e-mail address or telephone number, and records and copies of your correspondence with us. For security purposes, we may also collect personal information from you if you visit one of our offices.
+_Information you provide to us_. When you navigate our websites or contact us, we may request or you may choose to provide us with certain information. This may include information by which you may be personally identified (“personal information”), such as name, employer, e-mail address or telephone number, and records and copies of your correspondence with us. For security purposes, we may also collect personal information from you if you visit one of our offices.
 
-_Information collected from forms on our websites._ This includes information provided at the time of registering to use portions of our websites, posting material, or requesting further services. We may ask you for information when you report a problem with our websites, products or services.
+_Information collected from forms on our websites_. This includes information provided at the time of registering to use portions of our websites, posting material, or requesting further services. We may ask you for information when you report a problem with our websites, products or services.
 
-_Usage details, IP addresses and cookies._ As you navigate through and interact with our websites, we may automatically collect certain information about your equipment, browsing actions and patterns using common internet technologies, such as cookies and Web beacons. This may include details of your visits to our websites, including information about your connectivity, such as your IP address and browser information, location data, logs and other communication data, and the resources that you access and use on the websites. The information we collect automatically helps us to improve our websites and to deliver better and more personalized content and services by enabling us to estimate our audience size and usage patterns and recognize you when you return to our websites.
+_Usage details, IP addresses and cookies_. As you navigate through and interact with our websites, we may automatically collect certain information about your equipment, browsing actions and patterns using common internet technologies, such as cookies and Web beacons. This may include details of your visits to our websites, including information about your connectivity, such as your IP address and browser information, location data, logs and other communication data, and the resources that you access and use on the websites. This information helps us to improve our websites and to deliver better and more personalized content and services by enabling us to estimate our audience size and usage patterns and recognize you when you return to our websites.
 
 _General business-related information._ We may also receive other personal information from or about you in the ordinary course of our business.
 
@@ -56,7 +56,7 @@ Except as set forth in this statement, we will not share your personal informati
 
 #### Onward Transfer of Your Information
 
-To facilitate our global operations, we may transfer your personal information to, and access your personal information from, our corporate offices, subsidiaries, and affiliates in the various countries in which we operate, including the United States. We’ll take appropriate measures to protect the personal information we transfer.
+To facilitate our global operations, and in accordance with applicable laws, we may transfer your personal information to, and access your personal information from, our corporate offices, subsidiaries, and affiliates in the various countries in which we operate, including the United States. We will take appropriate measures to protect the personal information we transfer.
 
 #### Choices About How We Use and Disclose Your Information
 
@@ -83,15 +83,7 @@ Although we take reasonable security measures to protect your personal informati
 
 #### Changes to Our Privacy and Security Statement
 
-We may amend this Privacy and Security Statement from time to time. We encourage you to revisit this page periodically to read the current version of this Statement in effect.
-
-#### Enforcement
-
-We use a periodic self-assessment approach to assure compliance with this Statement. If you have any concerns or questions about this Statement or if you would like to lodge a complaint, please contact privacy@palantir.com and we will investigate and attempt to resolve any complaints through our internal process. If we are unable to resolve the complaint through our internal process, you may submit your dispute to JAMS for mediation pursuant to the JAMS International Mediation Rules, accessible at <http://www.jamsadr.com/rules-international-rules/>.
-
-#### Safe Harbor Compliance
-
-We comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Palantir has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Palantir’s certification and safe harbor policy, please visit: <http://www.export.gov/safeharbor/>.
+We may amend this Privacy and Security Statement from time to time. We encourage you to revisit this page periodically to read the current version of this Statement in effect. If you have any concerns or questions about this Statement or if you would like to lodge a complaint, please contact [privacy@palantir.com](mailto:privacy@palantir.com).
 
 #### Children Under the Age of 13
 
