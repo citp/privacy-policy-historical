@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the chacos.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615033403id_/http%3A//www.chacos.com/US/en/content%3Fcaid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chacos.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126045150id_/http%3A//www.chacos.com/US/en/content%3Fcaid%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Chaco Privacy Policy
 
-## Effective Date: September 14, 2015
+## EFFECTIVE DATE: APRIL 27, 2016
 
 Chaco, a division of Wolverine World Wide, Inc. (referred to collectively with its affiliates as “Wolverine,” “we,” “us,” or “our”), collects information about you when you take advantage of our online services or visit or interact with any of our websites, including www.chacos.com (the “Site”). This privacy policy (the “Policy”) describes: (1) the types of information we may collect about you and your use of the Site; (2) how we may use and share that information; and (3) the choices you may make with respect to your personal information. This Policy does not apply to information you may provide or make available to us in other ways, such as when you shop in our stores or contact us by email or telephone.
 
-## Personal Information We Collect Directly From You
+## PERSONAL INFORMATION WE COLLECT DIRECTLY FROM YOU
 
 You provide us with your personal information when you communicate with us through the Site, including when you:
 
@@ -20,7 +20,7 @@ You provide us with your personal information when you communicate with us throu
 
 We collect non-public personal information you choose to provide, which may include your name, email address, gender, date of birth, billing and shipping addresses, telephone number, or credit card information. We also may maintain your responses to surveys and questionnaires that you may complete from time to time. Please do not submit information that you do not want us to have.
 
-## How We May Use Your Personal Information
+## HOW WE MAY USE YOUR PERSONAL INFORMATION
 
 We generally use your personal information to serve you, to improve our products and services, and to improve your consumer experience.
 
@@ -30,7 +30,7 @@ In addition, we may combine your personal information with information that we r
 
 We may use the personal information you provide us to send you emails to invite you to participate in various programs, like surveys or focus groups. We may also email promotions and coupons to you to thank you for your feedback or participation in programs.
 
-## How We May Share Personal Information
+## HOW WE MAY SHARE PERSONAL INFORMATION
 
 Wolverine may share your personal information with others for a number of different reasons. We may share your personal information to fulfill your requests, to provide you with information regarding products and services of ours or those of others, to comply with law, and to enforce our rights. We also may share personal information among our affiliated companies and to our successors or any of our brands or businesses.
 
@@ -44,37 +44,41 @@ Examples of how we may share your personal information include:
 
 **In Connection with Business Transfers:** If we sell or transfer a company business unit (such as a product line or one or more affiliated companies) to a third party, or enter into discussions regarding such a transaction, we may share your personal information with that party.
 
-## Children
+## CHILDREN
 
 The Site is not designed to collect personal information from children who are under 13 years of age, and we do not intend to or knowingly collect such information.
 
-## Security
+## SECURITY
 
 No security program is impenetrable, and criminals have proven adept at circumventing widely adopted security safeguards, so we cannot guarantee the security of personal information. Accordingly, you acknowledge that you provide personal information to us at your own risk.
 
 Any user or third party accessing our website or services is responsible for its own use of the website and the services. We are not responsible for any third party’s actions or its security controls with respect to information that third parties may collect or process via the website, services, or otherwise.
 
-## Cookies and Other Tools That May Collect Information About You
+## COOKIES AND OTHER TOOLS THAT MAY COLLECT INFORMATION ABOUT YOU
 
 In addition to personal information you may provide directly to us, Wolverine and its business partners may collect and store information about you and your use of the Site through cookies, tracking pixels, and other technologies (collectively, “Tools”). Cookies are small text files that are stored by your browser on your computer’s hard drive. We collect, use, and modify this information to better understand, customize, and improve your experience with the Site and other websites, services, and offerings as well as to manage our advertising. For example, we use web analytics services that leverage these Tools to help us understand how visitors engage with and navigate our Site, e.g., how and when pages on the Site are visited and by how many visitors. We are also able to offer our visitors a more customized and relevant experience on the Site by delivering, through the use of these Tools, content and functionality based on your preferences and interests. If you have provided us with personal information, e.g., through a registration or a request for certain materials, we may associate that personal information with information gathered through the Tools. This allows us to offer increased personalization and functionality.
 
-## Do Not Track Disclosures
+### OPT-OUT.
+
+Although it is our hope that you find the display of advertising to you based on your anonymous interests valuable, if you would prefer not to participate in the services offered through these solutions, you can always opt-out of this activity by visiting the Network Advertising Initiative (NAI) website by clicking <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+## DO NOT TRACK DISCLOSURES
 
 Do Not Track (“DNT”) is a privacy preference that users can set in their web browsers. When a user turns on DNT, the browser sends a message to websites requesting that they don’t track the user. At this time, we ignore these signals. We do not change our practices, described elsewhere in this Policy, in response to DNT browser settings or signals. In particular, even if you have turned on DNT, we and others will continue to collect information about you and your activity through the use of cookies, tracking pixels, and other Tools. For information about DNT, visit [www.allaboutdnt.org](http://www.allaboutdnt.org/).
 
-## Notice to California Residents
+## NOTICE TO CALIFORNIA RESIDENTS
 
 Under California law, California residents may request a list of all third parties to whom we have disclosed certain personal information (as defined by California law) during the preceding year for those third parties’ direct marketing purposes. If you are a California resident and would like to receive such a list, please contact us at the address listed in the “Accessing Personal Information” section below. For any such request, include the statement “Your California Privacy Rights” in the body of your request, as well as your name, street address, city, state, and zip code. Please provide enough information for us to determine if this applies to you. You must also attest to the fact that you are a California resident and provide a current California address for our response. Please note that we will not accept requests via the telephone, email, or by facsimile, and we are not responsible for notices that are not labeled or sent properly or that do not have complete information.
 
-## Other Websites
+## OTHER WEBSITES
 
 The Site may contain links to websites of third parties who: (1) are not affiliated with us; (2) are outside our control; or (3) are not covered by this Policy (“Third-Party Websites”). Links provided to Third-Party Websites on the Site are provided to you only as a convenience, and the inclusion of any link does not imply reliability or endorsement by us of the content of any such Third-Party Websites. We are not responsible for the privacy practices of Third-Party Websites, which may collect and use information from you in a manner different than how we do so; accordingly, the use of such Third-Party Websites is entirely at your own risk. For relevant information, you should review the privacy statements or policies of any Third-Party Websites before using them. Other parties may collect information about your online activities over time and across different websites when you use our Site or services.
 
-## Accessing Personal Information
+## ACCESSING PERSONAL INFORMATION
 
 Please contact us if you have any questions or concerns about your personal information or require assistance in managing your choices.
 
-To access, change, or delete your personal information, choose not to receive marketing or other promotional communications from us, or otherwise change your choices about how we use your personal information, or for any questions regarding this Policy, please: (1) update your account details online; (2) follow the unsubscribe instructions located at the end of any marketing communication from us; (3) email us at [consumerprivacy@wwwinc.com](mailto:consumerprivacy@wwwinc.com); (4) call us at (616) 866-5500; or (5) write us at the following address with your message:
+To access, change, or delete your personal information, choose not to receive marketing or other promotional communications from us, or otherwise change your choices about how we use your personal information, or for any questions regarding this Policy, please: (1) update your account details online; (2) follow the unsubscribe instructions located at the end of any marketing communication from us; (3) email us at [consumerprivacy@wwwinc.com](https://web.archive.org/web/20161126045150id_/http%3A//www.chacos.com/US/en/consumerprivacy@wwwinc.com); (4) call us at (616) 866-5500; or (5) write us at the following address with your message:
 
 Wolverine World Wide, Inc.  
 Attn: Senior Director of Information Technology and Security  
@@ -83,21 +87,21 @@ Rockford, MI 49351
 
 Please be sure to include in any email or postal mail your full name, email address, postal address, and any message. Please note that such requests may take up to thirty (30) days to become effective.
 
-## Transfer of Data to Other Countries
+## TRANSFER OF DATA TO OTHER COUNTRIES
 
 Any information you provide to Wolverine through the use of the Site may be stored, processed, transferred among, and accessed from the United States and other countries which may not guarantee the same level of protection of personal information as the one in which you reside. However, Wolverine will handle your personal information in accordance with this Policy regardless of where your personal information is kept.
 
 We adhere to the Safe Harbor Principles of the United States Department of Commerce in our handling of personal information transferred from the European Union to the United States. To learn more about the Safe Harbor Program, and to view Wolverine’s certification of adherence to these Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
 
-## Be Aware of "Phishing"
+## BE AWARE OF "PHISHING"
 
 "Phishing" is a scam designed to steal your personal information. If you receive an email that looks like it is us asking you for your personal information, do not reply to it. We will not request your password, user name, credit card information, or other personal information through email.
 
-## Updates to Our Privacy Policy
+## UPDATES TO OUR PRIVACY POLICY
 
 From time to time, we may post updates to this Policy. Any changes will be effective upon the posting of the revised Policy. We may also make, without notice, minor changes to the Policy that will not significantly affect our use of personal information. We encourage you to periodically review this page for the latest information on our privacy practices. This Policy was updated as of the effective date listed above.
 
-## Additional Information/Questions
+## ADDITIONAL INFORMATION/QUESTIONS
 
 If you have questions or concerns about our privacy policy or practices, please contact us at: 
 
