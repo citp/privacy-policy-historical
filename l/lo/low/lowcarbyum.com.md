@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the lowcarbyum.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619072356id_/http%3A//lowcarbyum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowcarbyum.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126123329id_/http%3A//lowcarbyum.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Low Carb Yum
-
-Sharing is caring...  
-300000
 
 This privacy policy sets out how Low Carb Yum uses and protects any information that you give while using lowcarbyum.com
 
@@ -14,6 +11,12 @@ Low Carb Yum may change this policy from time to time by updating this page. You
 **What we collect**
 
 We may collect the following information:
+
+##  FREE eBook!
+
+​LOW CARB TIPS and TRICKS
+
+Subscribe now to receive your free copy of Low Carb Tips and Tricks which includes 20 easy to prepare recipes. Plus, get access to the weekly newsletter and special offers only for subscribers!
 
   * contact information including email address
   * demographic information such as postcode, preferences and interests
@@ -78,6 +81,3 @@ For information about opting out of Gourmet Ads and ad serving partners please v
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
 If you believe that any information we are holding on you is incorrect or incomplete, please [contact us](http://lowcarbyum.com/contact/ "Contact").
-
-Sharing is caring...  
-300000
