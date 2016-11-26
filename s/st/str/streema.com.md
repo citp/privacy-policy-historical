@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streema.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604151107id_/http%3A//streema.com/users/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streema.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127002840id_/http%3A//streema.com/users/policy) for the most accurate reproduction.*
 
 # Streema Radio - Privacy Policy
 
