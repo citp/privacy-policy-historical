@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlynaturalpet.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313152551id_/http%3A//www.onlynaturalpet.com/help/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlynaturalpet.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126020635id_/http%3A//www.onlynaturalpet.com/help/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Only Natural Pet
 
@@ -82,7 +82,7 @@ We partner with a third party to either display advertising on our Web site or t
 
 **Children**
 
-Our site is not intended for children under 13 years of age. No one under age 13 may provide any personal information to the site. We do not knowingly collect personal information from children under 13. If you are under 13, do not provide any information on this site or on or through any of its features/register on the site, make any purchases through the site, use any of the interactive or public comment features of this site or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [service@onlynaturalpet.com ](mailto:service@onlynaturalpet.com) or write us at Only Natural Pet Store, 5541 Central Ave, Suite 201, Boulder, CO, 80301.
+Our site is not intended for children under 13 years of age. No one under age 13 may provide any personal information to the site. We do not knowingly collect personal information from children under 13. If you are under 13, do not provide any information on this site or on or through any of its features/register on the site, make any purchases through the site, use any of the interactive or public comment features of this site or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [service@onlynaturalpet.com ](mailto:service@onlynaturalpet.com) or write us at Only Natural Pet Store, 5744 Central Ave, Suite 200, Boulder, CO, 80301.
 
 **California Residents**
 
@@ -94,7 +94,7 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 **Questions and Feedback**
 
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue, to [service@onlynaturalpet.com](mailto:service@onlynaturalpet.com). You may also call us at toll-free at 888-937-6677, or outside the United States and Canada at 720-406-7475, or write us at Only Natural Pet Store, 5541 Central Ave, Suite 201, Boulder, CO, 80301.
+We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue, to [service@onlynaturalpet.com](mailto:service@onlynaturalpet.com). You may also call us at toll-free at 888-937-6677, or write us at Only Natural Pet Store, 5744 Central Ave, Suite 200, Boulder, CO, 80301.
 
 **Online Policy Only**
 
