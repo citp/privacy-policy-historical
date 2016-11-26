@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the al-monitor.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404131123id_/http%3A//www.al-monitor.com/pulse/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the al-monitor.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126183340id_/http%3A//www.al-monitor.com/pulse/privacy) for the most accurate reproduction.*
 
 # Al-Monitor Privacy Statement
 
 Effective Date: **August 6, 2014**
 
-Welcome to Al-Monitor.com (the “Website”), a service of Al-Monitor, LLC (“Al-Monitor”, “our”, “us”, or “we”).  Al-Monitor respects the privacy of visitors to the Website.  Please read this Privacy Statement carefully so that you understand what information we collect through the Website and what we do with that information.  This Privacy Statement applies only to information collected online through the Website and does not apply to any information you may provide to us, or that we may collect, offline or through other means (for example, via telephone, through the mail, or at live events).  If you have any questions about this Privacy Statement, we can be reached via email at [privacy@al-monitor.com](mailto:privacy@al-monitor.com?subject=Al-Monitor%20Privacy%20Statement%20Question).
+Welcome to Al-Monitor.com (the “Website”), a service of Al-Monitor, LLC (“Al-Monitor”, “our”, “us”, or “we”).  Al-Monitor respects the privacy of visitors to the Website.  Please read this Privacy Statement carefully so that you understand what information we collect through the Website and what we do with that information.  This Privacy Statement applies only to information collected online through the Website and does not apply to any information you may provide to us, or that we may collect, offline or through other means (for example, via telephone, through the mail, or at live events).  If you have any questions about this Privacy Statement, we can be reached via email at ​.
 
 PROTECTING THE PRIVACY OF CHILDREN
 
