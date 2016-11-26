@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crystalknows.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612193828id_/https%3A//www.crystalknows.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystalknows.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126152352id_/https%3A//www.crystalknows.com/privacy) for the most accurate reproduction.*
 
-# Crystal | Communicate with anyone, based on personality
+# Crystal | The world's largest personality platform | Free personality test
 
 Your privacy and security are important to Crystal. As a result, we have developed strict internal processes developed to maintain your data in a secure environment.
 
