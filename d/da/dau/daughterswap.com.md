@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daughterswap.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607163858id_/http%3A//www.psmhelp.com/%3Fmenu%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daughterswap.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126112912id_/http%3A//www.psmhelp.com/privacy) for the most accurate reproduction.*
 
 # PSM-Help :: Privacy Policy
 
