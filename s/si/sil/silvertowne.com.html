@@ -1,212 +1,105 @@
-<!--The following is the downloaded HTML source of the silvertowne.com privacy policy that was archived on 2016-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160601134028id_/http%3A//www.silvertowne.com/t-privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the silvertowne.com privacy policy that was archived on 2016-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161127002736id_/http%3A//www.silvertowne.com/t-privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head id="ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=9"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Content-Language" content="en-US"><link rel="icon" href="/favicon.ico"><link rel="shortcut icon" href="/favicon.ico"><title>
-	Privacy &amp; Security Policy | SilverTowne
-</title><meta name="description" content="SilverTowne's Privacy and Security Policy is there to help both the customer and SilverTowne alike."><meta name="keywords" content="SilverTowne, privacy, security, policies, links, policy changes, coin dealer, numismatics, precious metals">
-	
-	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//integration.nfusionsolutions.biz/client/silvertowne/widget/module/quotebanner/nfquotebanner"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://cdn.ywxi.net/js/1.js"></script><script type="text/javascript" src="jscripts/jquery1.9.1.js"></script>
-    <script type="text/javascript" src="jscripts/core.js"></script>
-	<!-- MiniCart References -->
-    <script type="text/javascript" language="javascript" src="App_Themes/Skin_1/js/newminicart.js"></script>
-    <!-- End MiniCart Javascript Reference -->
-	<script src="jscripts/vibe/vibe.trib.cookie.js" type="text/javascript"></script>
-	<script src="jscripts/vibe/Vibe.trib.js" type="text/javascript"></script>	
-	<script type="text/javascript" src="jscripts/jquery.hoverIntent.minified.js"></script>
-	<script type="text/javascript" language="javascript" src="jscripts/jquery.dotdotdot.min.js"></script>
-	<script type="text/javascript">
-	
-	$(function(){
-    	//global vars
-    	var searchBoxes = $(".text");
-    	//var searchBox2 = $("#ctl00_ctrlSearch_SearchText");
-		//var searchBox3 = $("#searchBox_text");
-    	//var searchBox2Default = "Product Search";
-		//var searchBox3Default = "Product Search";
-		var bswitch;
-			
-	//Silvertowne Specific code to force mini cart add and animate message.
-		$(document).on('click', '.addToCartAction',function () {
-				var productID = $(this).attr('productID');
-				var variantID = $(this).attr('variantID');
-				var quantity = $(this).attr('quantity');
-				productimagid = "prodimage" + productID
-
-				try
-				{
-					//MoveElementToElement(document.getElementById(productimageid), document.getElementById('vMiniCart'));
-					var params = "";
-					if(quantity > 0) {
-						InsertAjax("addtocart.aspx?productid=" + productID + "&variantid=" + variantID, updateMiniCart, params, document.getElementById("vMiniCart"));
-					
-						//Center Div
-						$('.addCartDialog').css("position","absolute");
-						$('.addCartDialog').css("top", (($(window).height() - $('.addCartDialog').outerHeight()) / 2) + $(window).scrollTop() + "px");
-						$('.addCartDialog').css("left", (($(window).width() - $('.addCartDialog').outerWidth()) / 2) + $(window).scrollLeft() + "px");
-						$('.addCartDialog').fadeIn(500);
-						//Hide after 3 seconds
-						setTimeout("$('.addCartDialog').fadeOut(500);", 3000);
-					}
-					
-					//if (CollapseMiniCartTimeout)
-						//clearTimeout(CollapseMiniCartTimeout);
-					//CollapseMiniCartTimeout = setTimeout('CollapseMiniCart()', 3500);
-				}
-				catch (Error)
-				{
-					window.location.href = "addtocart.aspx?productid=" + productID + "&variantid=" + variantID;
-				}
-				
-				
-	}); 
-    /*$('#searchBox_text').focus(function() { $('#searchBox_text').val(''); $('#searchBox_text').css('color','black'); });
-
-	$('#searchBox_text').blur(function() { $('#searchBox_text').val('Product Search'); });
-
-   	//Effects for both searchbox
-    	searchBoxes.focus(function(e){
-        	$(this).addClass("active");
-    	});
-    	searchBoxes.blur(function(e){
-        	$(this).removeClass("active");
-    	});
-    
-	searchBox2.val('Product Search');
-	var str = 'Product Search';
-		
-	searchBox3.val(str);
-		
-	searchBox3.blur(function(){
-		var inputStr = searchBox3.val();
-		if(inputStr == ''){
-			$(this).removeClass("SearchTextAfter").addClass("SearchTextBefore");
-			if($(this).attr("value") == "") $(this).attr("value", searchBox3Default);
-		}
-	});
-		
-	searchBox3.focus(function(){
-		$(this).removeClass("SearchTextBefore").addClass("SearchTextAfter");
-		if($(this).attr("value") == searchBox3Default) $(this).attr("value", "");
-	});
-	
-    
-    	//Searchbox2 show/hide dffefault text if needed
-    	searchBox2.focus(function(){
-        	if($(this).attr("value") == searchBox2Default) $(this).attr("value", "");
-    	});
-    	searchBox2.blur(function(){
-        	if($(this).attr("value") == "") $(this).attr("value", searchBox2Default);
-    	});*/
-		
-	$(".addToCartLinkNew:contains('Out')").hide();
-	$(".addToCartLinkVibe:contains('Out')").hide();
-	$(".addToCartLinkVibeList:contains('Out')").hide();
-		
-		$(document).on('mouseenter', '#miniCartArrowLink', function(){
-			ExpandMiniCart();
-		}).on('mouseleave', function(e){
-			if($(e.relatedTarget).closest('#dropdown').attr('id') !== undefined) return false;
-			setTimeout(function(){CollapseMiniCart();}, 500);
-		});
-		
-		$(document).on('mouseleave', '#dropdown', function(e){
-			if(e.relatedTarget.id === 'miniCartArrowLink') return false;
-			setTimeout(function(){CollapseMiniCart();}, 500);
-		});
-	});
-	</script>
-	<script type="text/javascript">
-	var PDOPTS = PDOPTS || [];
-	PDOPTS['disablefloat'] = 1;
-	  (function() {
-		var sa = document.createElement('script'); sa.type = 'text/javascript'; sa.async = true;
-		sa.src = ('https:' == document.location.protocol ? 'https://cdn' : 'http://cdn') + '.ywxi.net/js/1.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sa, s);
-	  })();
-	</script>
-	<script type="text/javascript">
-	$(function() {
-		// cache scroll to top button
-		var b = $('#back-top');
-		// Hide scroll top button
-		b.hide();
-		// FadeIn or FadeOut scroll to top button on scroll
-		$(window).on('scroll', function(){
-			// if you scroll more then 400px then fadein goto top button
-			if ($(this).scrollTop() > 400) {
-				b.fadeIn();
-			// otherwise fadeout button
-			} else {
-				b.fadeOut();
-			}
-		});
-		// Animated smooth go to top
-		b.on('click', function(){
-			$('html,body').animate({
-				scrollTop: 0
-			}, 500 );
-			return false;
-		});
-	});
-	
-	function showTooltip(el){
-		$(el).addClass('tooltip-active');
-	}
-	
-	function hideTooltip(el){
-		$(el).removeClass('tooltip-active');
-	}
-	</script>
-	<script type="text/javascript">
-
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" class="m-pikabu-transitions m-pikabu-translate3d"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
-		adnsf$ = jQuery; 
-	</script>
-	<script>
-					  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-					  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-					  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-					  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+<title>Privacy &amp; Security Policy | SilverTowne</title>
+<meta name="description" content="SilverTowne's Privacy and Security Policy is there to help both the customer and SilverTowne alike.">
+<meta name="keywords" content="SilverTowne, privacy, security, policies, links, policy changes, coin dealer, numismatics, precious metals">
 
-					  ga('create', 'UA-6397213-1', 'auto');
-					  ga('send', 'pageview');
 
-					</script><link href="App_Themes/Skin_1/ALP_notifyme_style.css" type="text/css" rel="stylesheet"><link href="App_Themes/Skin_1/minicart-style.css" type="text/css" rel="stylesheet"><link href="App_Themes/Skin_1/mtech20160114.css" type="text/css" rel="stylesheet"><link href="App_Themes/Skin_1/STBodyUnminified20160111.css" type="text/css" rel="stylesheet"><link href="App_Themes/Skin_1/style-vibe.trib.css" type="text/css" rel="stylesheet"></head>
-<body id="toppage">
-	<!--[if lte IE 8]>
-<div class="IE7Cond" style="display:block;"><p>Caution: Web Browsers IE8 and older are not supported by this website. <a href="/t-browser-compatibility.aspx">Click Here</a> for more information.</p></div>
-	<![endif]-->
-	<!--
-PAGE INVOCATION: /t-privacy.aspx
-PAGE REFERRER: 
-STORE LOCALE: en-US
-STORE CURRENCY: USD
-CUSTOMER ID: 0
-AFFILIATE ID: 0
-CUSTOMER LOCALE: en-US
-CURRENCY SETTING: USD
-CACHE MENUS: True
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,200italic,300italic,300,400italic,600,600italic,900,900italic,700,700italic" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Oswald:300" rel="stylesheet" type="text/css">
+<!-- Facebook Pixel Code -->
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="//integration.nfusionsolutions.biz/client/silvertowne/widget/module/quotebanner/nfquotebanner"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '349585155374060');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=349585155374060&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+
+<link href="/skins/Skin_1/css/bundledd572a99079fb79c1ffd4b3caea90f1b2?v=xwLJyAG0L6T2GcHEWTa6kIwl31qhtX9Tr51tJ9vJuhM1" rel="stylesheet">
+
+
+
+<script src="/scripts/jquery1c59cc318f73f9da98e18cd20acd1e0f?v=e4MtpzVmorfgerfwEcotw17NEKdiFLmuKHhqb_SpbUs1"></script>
+
+
+
+<style>
+.m-pikabu-sidebar, 
+.m-pikabu-container {
+-webkit-transition: -webkit-transform 0.2s ease-in;
+-moz-transition: -moz-transform 0.2s ease-in;
+-ms-transition: -ms-transform 0.2s ease-in;
+-o-transition: -o-transform 0.2s ease-in;
+transition: transform 0.2s ease-in;
+}
+.m-pikabu-left-visible .m-pikabu-left {
+	width: 80%;
+}
+.m-pikabu-right-visible .m-pikabu-right {
+	width: 80%;
+}</style></head>
+<body id="bodyTag">
+	<!-- Respond.js IE8 support of media queries -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+<![endif]-->
+
+				<!--
+					PAGE INVOCATION: /t-privacy.aspx
+					PAGE REFERRER: 
+					STORE LOCALE: en-US
+					STORE CURRENCY: USD
+					CUSTOMER ID: 0
+					AFFILIATE ID: 0
+					CUSTOMER LOCALE: en-US
+					CURRENCY SETTING: USD
+					CACHE MENUS: True
+				-->
+
+
+
+
+<!--Xmlpackage 'script.bodyopen' -->
+<script type="text/javascript" src="/Skins/Skin_1/Scripts/tsearch.js"></script><link href="/Skins/Skin_1/Css/tsearch.css" rel="stylesheet">
+<!--End of xmlpackage 'script.bodyopen' -->
+	<main class="cd-container">
+		<div class="m-pikabu-viewport" style="width: auto;">
+			<div class="m-pikabu-sidebar m-pikabu-left m-pikabu-hidden"></div>
+			<div class="m-pikabu-sidebar m-pikabu-right m-pikabu-hidden"></div>
+			<div class="m-pikabu-container">
+				<div class="m-pikabu-overlay"></div>
+				<div class="site-top-bar">
+					<div class="container">
+						<div class="row">
+<div class="col-xs-12 col-sm-10">
+<!--<div id="nfspottable"></div>
+    <script>
+    (function(){
+            var t = document.getElementsByTagName("script")[0];
+            var s = document.createElement("script"); s.async = true;
+            s.src = "//integration.nfusionsolutions.biz/client/silvertowne/widget/module/spottable/nfspottable";
+            t.parentNode.insertBefore(s, t);
+    })();
+    </script>
 -->
-
-	<form name="aspnetForm" method="post" action="t-privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMzc2Mjc3NjQPZBYCZg9kFgYCAQ9kFgYCBg8WAh4HY29udGVudAVjU2lsdmVyVG93bmUncyBQcml2YWN5IGFuZCBTZWN1cml0eSBQb2xpY3kgaXMgdGhlcmUgdG8gaGVscCBib3RoIHRoZSBjdXN0b21lciBhbmQgU2lsdmVyVG93bmUgYWxpa2UuZAIHDxYCHwAFalNpbHZlclRvd25lLCBwcml2YWN5LCBzZWN1cml0eSwgcG9saWNpZXMsIGxpbmtzLCBwb2xpY3kgY2hhbmdlcywgY29pbiBkZWFsZXIsIG51bWlzbWF0aWNzLCBwcmVjaW91cyBtZXRhbHNkAgsPZBYCAgEPDxYCHgdWaXNpYmxlaGRkAgUPZBYCAgUPFgIeBFRleHQFGVByaXZhY3kgJiBTZWN1cml0eSBQb2xpY3lkAgkPZBYCAgEPDxYCHwFoZGRkB8MHQxERDYgMYzaNtTXC2ljqaIM=">
-
-
-<script src="jscripts/formvalidate.js" type="text/javascript"></script>
-<script src="jscripts/core.js" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=huYz7IY4AOBIZZX1enV5L1kx7f-BbqwbKMJ6visGqm1G_a9MzAQhF0Bj_A_59f6lsFpAidi5etfYnzO5VdicYTZx9lGnQavyN0s0aVTg5RE2C80u9DvpCnFmWtbDEDN1wp36NcylxdlOflQS0wWiV7UYwCU1&amp;t=2e2045e2" type="text/javascript"></script>
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="6B6687F9">
-		
-	<div class="WhiteContainer">
-		<div id="STMarketsCont">
-			<div id="STMarkets">
-				<div id="nfquotebanner" style="min-height:37px;width:682px;float:left;"></div>
-				<script>
+<div id="nfquotebanner"></div>
+<script>
 					(function(){
 					var t = document.getElementsByTagName("script")[0];
 					var s = document.createElement("script"); s.async = true;
@@ -214,364 +107,449 @@ CACHE MENUS: True
 					t.parentNode.insertBefore(s, t);
 					})();
 				</script>
-				<div class="MktDataHP floatleft"><a href="http://www.silvertowne.com/t-silvertowne-market-detail.aspx" target="_blank" title="View Market Detail Charts"><img class="floatleft" alt="View Market Detail Charts" title="View Market Detail Charts" src="/App_Themes/Skin_1/images/Ticker/Market-Data-Graph.jpg"><span class="floatleft">Market Details</span></a></div>
-				<div id="SocialIconsTop1" class="floatright">
-					<a href="http://www.facebook.com/silvertowne" target="_blank" class="Facebook_Icon_Link Social-All" alt="Follow us on Facebook" title="Like SilverTowne on Facebook"></a>
-					<a href="http://www.twitter.com/silvertownelp" target="_blank" class="Twitter_Icon_Link Social-All" alt="Follow SilverTowne on Twitter" title="Follow SilverTowne on Twitter"></a>
-					<a href="http://www.youtube.com/SilverTowneLP" target="_blank" class="YouTube_Icon_Link Social-All" alt="Check SilverTowne Out on YouTube" title="Subscribe to SilverTowne's YouTube Channel"></a>
-					<a href="http://pinterest.com/silvertowne/" target="_blank" class="Pinterist_Icon_Link Social-All" alt="Follow SilverTowne on Pinterest" title="Follow SilverTowne on Pinterest"></a>
-					<a href="http://plus.google.com/105576009883309422941?prsrc=3" style="text-decoration:none;" target="_blank" class="Google_Icon_Link Social-All" alt="Follow SilverTowne on Google+" title="Follow SilverTowne on Google+"></a>
-					<a href="http://www.linkedin.com/company/silvertowne-lp" target="_blank" class="Linkedin_Icon_Link Social-All" alt="Follow SilverTowne on LinkedIn" title="Follow SilverTowne on LinkedIn"></a>
-					<a href="http://www.flickr.com/photos/silvertowne" target="_blank" class="Flickr_Icon_Link Social-All" alt="See SilverTowne Pictures at Flickr" title="See SilverTowne Pictures at Flickr"></a>
-					<a href="http://silvertowne.tumblr.com/" target="_blank" class="Tumblr_Icon_Link Social-All" alt="Join SilverTowne on Tumblr" title="Join SilverTowne on Tumblr"></a>
-					<a href="http://instagram.com/silvertowne" target="_blank" class="Instagram_Icon_Link Social-All" alt="Follow SilverTowne on Instagram" title="Follow SilverTowne on Instagram"></a>
-					<a href="http://www.silvertowne.com/x-rss.blog.aspx?sectionid=1&amp;storeid=1&amp;filterproduct=False" target="_blank" class="RSS_Icon_Link Social-All" alt="SilverTowne Vault Blog" title="SilverTowne Vault Blog"></a>
-				</div>
-			</div>
-		</div>
-	<div class="container">		
-		<div class="header">
-			<div class="clearfix">
-				<div id="HeaderST">
-					<div id="HeaderLeft" class="floatleft">
-						<div id="STHome" class="floatleft">
-							<a href="/">
-							<img src="images/SilverTowneLP-Logo.jpg" alt="Silvertowne LP" title="Home">
-							</a>
-						</div>
-					</div>
-					<div id="LogINOut" class="floatright">
-					<div class="floatright"><a href="/signin.aspx">
-						<span id="UsrLogIn">LOG IN&nbsp;/&nbsp;REGISTER</span></a>
-					</div>
-						<div id="userName" class="floatright">
-							
-						</div>
-					</div>
-					<div id="HeaderCenter" class="floatleft">
-						<a href="/c-925-gifts-for-grads.aspx">
-						<img src="app_themes/Skin_1/images/headerbanner/2016-05-09-GraduationGifting.jpg" alt="Great Gifts for Grads!" title="Great Gifts for Grads!">
-						</a>
-					</div>
-					<div id="HeaderRight" class="floatright">
-						<div id="HeaderRightEm" class="floatright">
-							<a id="FtrEmail" href="http://eepurl.com/gyJhT" target="_blank" title="Win Free Silver - Signup for SilverTowne Emails" alt="Win Free Silver - Signup for SilverTowne Emails"></a>
-						</div>
-						<div id="search" class="floatright">
-							<div id="SearchMagn" class="floatleft"><img alt="Search Magnifier" src="/images/mag2.jpg"></div>
-							<div id="SearchBoxInput" class="floatleft"><label for="searchBox_text" style="display:none;">Product Search Box Input</label><input type="text" name="searchBox_text" id="searchBox_text" class="SearchTextBefore" autocomplete="off" value="Product Search..." onfocus="if(this.value == 'Product Search...'){this.value=''; this.style.color = '#000';}" style="color:#BBB;"></div>
-							<div id="SearchGO" class="floatleft"><input type="button" id="searchBox_button" class="SearchBtn"></div>
-						</div>
-					</div>
-				</div>
-			</div>
-				<div class="nav-container">
-		<div class="wrap2">
-		  <ul class="sf-menu">
-			<li>
-			  <a class="navBrk" href="javascript:;">Silver Bullion</a>
-			  <div class="sf-mega">
-				<div class="sf-mega-section NavDotRgt" style="height:350px;">
-				  <span class="FirLvl"><a href="c-864-silver-bullion-core.aspx">Silver Bars</a></span>
-				  <ul>
-					<li class="SecLvl">BY WEIGHT</li>
-						<li class="ThdLvl"><a href="c-867-1-ounce-silver-bars.aspx">1 Ounce Silver</a></li>
-						<li class="ThdLvl"><a href="c-868-5-ounce-silver-bars.aspx">5 Ounce Silver</a></li>
-						<li class="ThdLvl"><a href="c-869-10-ounce-silver-bars.aspx">10 Ounce Silver</a></li>
-						<li class="ThdLvl"><a href="c-870-100-ounce-silver-bars.aspx">100oz Silver</a></li>
-					<li class="SecLvl"><a href="c-446-poured-silver-bars.aspx">POURED SILVER</a></li>
-					<li class="SecLvl">BY BRAND</li>
-						<li class="ThdLvl"><a href="c-468-custom-minted.aspx#Filter=[EntityIDs=@(277)@*Pagesize=60*Sort=5*ava=0]">SilverTowne</a></li>
-						<li class="ThdLvl"><a href="c-756-holy-land-mint-jerusalem-bullion.aspx">Holy Land Mint</a></li>		
-					<li class="SecLvl"><a href="c-767-silvertowne-bulk-silver-deals.aspx">BULK DEALS</a></li>
-					<li class="SecLvl"><a href="c-255-specialty-silver-bullion-bars.aspx">THEMED BARS</a></li>						
-					<li class="SecLvl"><a href="c-841-special-order-designs.aspx#Filter=[EntityIDs=@(277)@*Pagesize=60*Sort=5*ava=0]">SPECIAL ORDER BARS</a></li>	
-				  </ul>
-				</div>
-				<div class="sf-mega-section NavDotRgt" style="height:310px;">
-				  <span class="FirLvl"><a href="c-866-silver-rounds-core.aspx">Silver Rounds</a></span>
-				  <ul>
-					<li class="SecLvl">BY WEIGHT</li>
-						<li class="ThdLvl"><a href="c-872-1-ounce-silver-rounds.aspx">1 Ounce Silver</a></li>
-						<li class="ThdLvl"><a href="c-873-5-ounce-silver-rounds.aspx">5 Ounce Silver</a></li>
-						<li class="ThdLvl"><a href="c-871-half-ounce-silver-rounds.aspx">1/2 Ounce Silver</a></li>
-					<li class="SecLvl">BY BRAND</li>
-						<li class="ThdLvl"><a href="c-468-custom-minted.aspx#Filter=[EntityIDs=@(278)@*Pagesize=60*Sort=5*ava=0]">SilverTowne</a></li>
-						<li class="ThdLvl"><a href="c-756-holy-land-mint-jerusalem-bullion.aspx">Holy Land Mint</a></li>
-						<!--<li class="ThdLvl"><a href="c-768-lydian-mint-products.aspx">Lydian Mint</a></li>	-->
-						<!--<li class="ThdLvl"><a href="#">Engelhard</a></li>
-						<li class="ThdLvl"><a href="#">Other</a></li>-->
-					<li class="SecLvl"><a href="c-767-silvertowne-bulk-silver-deals.aspx">BULK DEALS</a></li>
-					<li class="SecLvl"><a href="c-257-specialty-silver-bullion-medallions.aspx">THEMED ROUNDS</a></li>						
-					<li class="SecLvl"><a href="c-841-special-order-designs.aspx#Filter=[EntityIDs=@(278)@*Pagesize=60*Sort=5*ava=0]">SPECIAL ORDER ROUNDS</a></li>		
-				  </ul>			  
-				</div>
-				<div class="sf-mega-section NavDotRgt" style="height:310px;">
-				  <span class="FirLvl"><a href="c-256-silver-bullion-coins.aspx">US Mint Silver Coins</a></span>
-				  <ul>
-					<li class="FouLvl"><a href="c-881-silver-american-eagle-bullion.aspx">Silver American Eagles</a></li>
-					<li class="FouLvl"><a href="c-337-silver-dollar-commemoratives.aspx">Commemoratives</a></li>
-					<li class="FouLvl"><a href="c-645-90-percent-silver-dollars.aspx">90% Silver Dollars</a></li>
-					<li class="FouLvl"><a href="c-644-90-silver-half-dollars.aspx">90% Silver Half Dollars</a></li>
-					<li class="FouLvl"><a href="c-643-90-percent-silver-quarters.aspx">90% Silver Quarters</a></li>
-					<li class="FouLvl"><a href="c-642-90-percent-silver-dimes.aspx">90% Silver Dimes</a></li>
-					<li class="FouLvl"><a href="c-641-35-percent-silver-war-nickels.aspx">35% Silver Nickels (War)</a></li>
-				  </ul>
-				</div>
-				<div class="sf-mega-section NavDotRgt" style="height:310px;">
-				  <span class="FirLvl"><a href="c-338-world-silver-bullion.aspx">Foreign Silver Coins</a></span>
-				  <ul>
-					<li class="FouLvl"><a href="c-294-silver-canada-world-coins.aspx">Canada</a></li>
-					<li class="FouLvl"><a href="c-293-silver-australia-world-coins.aspx">Australia</a></li>
-					<li class="FouLvl"><a href="c-295-silver-china-world-coins.aspx">China</a></li>
-					<li class="FouLvl"><a href="c-897-silver-austria-world-coins.aspx">Austria</a></li>
-					<li class="FouLvl"><a href="c-623-silver-mexico-world-coins.aspx">Mexico</a></li>
-					<li class="FouLvl"><a href="c-899-silver-great-britain-world-coins.aspx">Great Britain</a></li>
-					<li class="FouLvl"><a href="c-312-silver-niue-world-coins.aspx">Niue</a></li>
-					<li class="FouLvl"><a href="c-862-silver-tuvalu-world-coins.aspx">Tuvalu</a></li>					
-				  </ul>
-				</div>
-				<div class="sf-mega-section" style="height:310px;">
-				  <span class="FirLvl"><a href="c-468-custom-minted.aspx">Themed Silver Designs</a></span>
-				  <ul>
-					<li class="FouLvl"><a href="c-366-silvertowne-minted-christmas-designs.aspx">Christmas</a></li>
-					<li class="FouLvl"><a href="c-647-silvertowne-minted-coin-replica-designs.aspx">Coin Replicas</a></li>
-					<li class="FouLvl"><a href="c-681-silvertowne-minted-military-and-service-designs.aspx">Military &amp; Service</a></li>
-					<li class="FouLvl"><a href="c-650-silvertowne-minted-religious-designs.aspx">Religious</a></li>
-					<li class="FouLvl"><a href="c-648-silvertowne-minted-special-occasion-designs.aspx">Special Occasions</a></li>
-					<li class="FouLvl"><a href="c-649-silvertowne-minted-garfield-copypaws-designs.aspx">Garfield™</a></li>
-					<li class="FouLvl"><a href="c-651-silvertowne-minted-sports-designs.aspx">Sports</a></li>
-					<li class="FouLvl"><a href="c-652-other-silvertowne-minted-designs.aspx">Other</a></li>					
-				  </ul>
-				</div>			
-			  </div>
-			</li>
-			<li>
-			  <a class="navBrk" href="javascript:;">Gold Bullion</a>
-			  <div class="sf-mega">
-				<div class="sf-mega-section NavDotRgt" style="height:270px;">
-				  <span class="FirLvl"><a href="c-646-gold-bullion-bars.aspx">Gold Bars</a></span>
-				  <ul>
-					<li class="SecLvl">BY WEIGHT</li>
-						<li class="ThdLvl"><a href="c-901-25-gram-gold-bullion-bars.aspx">2.5 Gram Gold</a></li>
-						<li class="ThdLvl"><a href="c-902-5-gram-gold-bullion-bars.aspx">5 Gram Gold</a></li>
-						<li class="ThdLvl"><a href="c-903-10-gram-gold-bullion-bars.aspx">10 Gram Gold</a></li>
-						<li class="ThdLvl"><a href="c-904-1-ounce-gold-bullion-bars.aspx">1 Ounce Gold</a></li>
-					<li class="SecLvl">BY BRAND</li>
-						<li class="ThdLvl"><a href="c-874-silvertowne-gold.aspx">SilverTowne</a></li>
-						<li class="ThdLvl"><a href="c-876-scotiabank-gold.aspx#Filter=[EntityIDs=@(277)@*Pagesize=60*Sort=5*ava=0]">Scotiabank</a></li>
-						<li class="ThdLvl"><a href="c-877-perth-mint-gold.aspx">Perth Mint</a></li>		
-						<li class="ThdLvl"><a href="c-875-pamp-sussie-gold.aspx">Pamp Suisse</a></li>	
-						<li class="ThdLvl"><a href="c-878-argor-heraeus-gold.aspx">Argor Heraeus</a></li>
-				  </ul>
-				</div>
-				<div class="sf-mega-section NavDotRgt" style="height:130px;">
-				  <span class="FirLvl"><a href="c-829-gold-bullion-rounds.aspx">Gold Rounds</a></span>
-				  <ul>
-					<li class="SecLvl">BY WEIGHT</li>
-						<li class="ThdLvl"><a href="c-829-gold-bullion-rounds.aspx">1 Ounce Gold</a></li>
-					<li class="SecLvl">BY BRAND</li>
-						<li class="ThdLvl"><a href="c-829-gold-bullion-rounds.aspx">Scotiabank</a></li>	
-				  </ul>			  
-				</div>
-				<div class="sf-mega-section NavDotRgt" style="height:130px;">
-				  <span class="FirLvl"><a href="c-896-us-mint-gold-coins.aspx">US Mint Gold Coins</a></span>
-				  <ul>
-					<li class="FouLvl"><a href="c-251-gold-american-eagles.aspx">Gold American Eagles</a></li>
-					<li class="FouLvl"><a href="c-250-gold-buffalos.aspx">Gold Buffaloes</a></li>
-					<li class="FouLvl"><a href="c-334-gold-commemoratives.aspx">Commemoratives</a></li>
-				  </ul>
-				</div>
-				<div class="sf-mega-section NavDotRgt" style="height:130px;">
-				  <span class="FirLvl"><a href="c-252-world-gold-bullion.aspx">Foreign Gold Coins</a></span>
-				  <ul>
-					<li class="FouLvl"><a href="c-296-gold-canada-world-coins.aspx">Canada</a></li>
-					<li class="FouLvl"><a href="c-311-gold-australia-world-coins.aspx">Australia</a></li>
-					<li class="FouLvl"><a href="c-297-gold-china-world-coins.aspx">China</a></li>
-					<li class="FouLvl"><a href="c-898-gold-austria-world-coins.aspx">Austria</a></li>
-					<li class="FouLvl"><a href="c-309-gold-south-africa-world-coins.aspx">South Africa</a></li>	
-					<li class="FouLvl"><a href="c-900-gold-great-britain-world-coins.aspx">Great Britain</a></li>							
-				  </ul>
-				</div>
-				<div class="sf-mega-section" style="height:130px;">
-				  <span class="FirLvl"><a href="c-885-assay-card-certfied.aspx">Gold Bullion in Assay</a></span>
-				</div>			
-			  </div>
-			</li>
-			<li>
-			  <a class="navBrk" href="javascript:;">Other Bullion</a>
-			  <div class="sf-mega">
-				<div class="sf-mega-section NavDotRgt" style="height:30px;">
-				  <span class="FirLvl"><a href="c-254-platinum-bullion.aspx">Platinum Bullion</a></span>
-				</div>
-				<div class="sf-mega-section" style="height:30px;">
-				  <span class="FirLvl"><a href="c-654-palladium-bullion.aspx">Palladium Bullion</a></span>		  
-				</div>
-			</div></li>			
-			<li>
-			  <a class="navBrk" href="javascript:;">Numismatics</a>
-			  <div class="sf-mega">
-				<div class="sf-mega-section NavDotRgt" style="height:350px;">
-				  <span class="FirLvl">Modern Coins U.S.</span>
-					<ul>
-					<li class="SecLvl"><a href="c-336-silver-american-eagles.aspx">Silver American Eagles</a></li>
-					<li class="ThdLvl"><a href="c-284-non-certified-silver-american-eagles.aspx">Non-Certified/Raw</a></li>
-					<li class="ThdLvl"><a href="c-278-certified-silver-american-eagles.aspx">Certified</a></li>
-					<li class="SecLvl"><a href="c-251-gold-american-eagles.aspx">Gold American Eagles</a></li>
-					<li class="ThdLvl"><a href="c-282-non-certified-gold-american-eagles.aspx">Non-Certified/Raw</a></li>
-					<li class="ThdLvl"><a href="c-275-certified-gold-american-eagles.aspx">Certified</a></li>
-					<li class="SecLvl"><a href="c-250-gold-buffalos.aspx">Gold Buffaloes</a></li>
-					<li class="ThdLvl"><a href="c-283-non-certified-gold-buffalos.aspx">Non-Certified/Raw</a></li>
-					<li class="ThdLvl"><a href="c-276-certified-gold-buffalos.aspx">Certified</a></li>
-					<li class="SecLvl"><a href="c-335-gold-first-spouse.aspx">Gold First Spouse</a></li>
-					<li class="SecLvl"><a href="c-633-us-mint-commemorative-coins.aspx">Commemoratives</a></li>
-					<li class="ThdLvl"><a href="c-337-silver-dollar-commemoratives.aspx">Silver Dollar Commems</a></li>
-					<li class="ThdLvl"><a href="c-399-half-dollar-commems.aspx">Half Dollar Commems</a></li>	
-					<li class="ThdLvl"><a href="c-334-gold-commemoratives.aspx">Gold Commems</a></li>	
-					<li class="SecLvl"><a href="c-637-platinum-american-eagles.aspx">Platinum American Eagles</a></li>					
-					</ul>	
-				</div>
-				<div class="sf-mega-section NavDotRgt" style="height:145px;">
-				  <span class="FirLvl">U.S. Coin Currency</span>
-					<ul>
-					<li class="FouLvl"><a href="c-261-dollars.aspx">Dollars</a></li>
-					<li class="FouLvl"><a href="c-262-half-dollars.aspx">Half Dollars</a></li>
-					<li class="FouLvl"><a href="c-266-quarters.aspx">Quarters</a></li>
-					<li class="FouLvl"><a href="c-260-dimes.aspx">Dimes</a></li>					
-					<li class="FouLvl"><a href="c-264-nickels.aspx">Nickels</a></li>
-					<li class="FouLvl"><a href="c-259-us-cents-coins.aspx">Cents</a></li>
-					</ul>	
-				</div>				
-				<div class="sf-mega-section NavDotRgt" style="height:145px;">
-				  <span class="FirLvl"><a href="c-534-coin-bags-sets.aspx">Coin Bags &amp; Sets</a></span>
-					<ul>
-					<li class="FouLvl"><a href="c-640-90-percent-silver-bags.aspx">90% (Junk) Silver</a></li>
-					<li class="FouLvl"><a href="c-660-40-silver-bags.aspx">40% Silver</a></li>
-					<li class="FouLvl"><a href="c-661-other-grab-bags.aspx">Other Grab Bags</a></li>
-					<li class="FouLvl"><a href="c-639-foreign-coins-mixed-bags.aspx">Foreign Coins Mixed Bags</a></li>
-					<li class="FouLvl"><a href="c-662-gift-other-coin-sets.aspx">Gift &amp; Other Coin Sets</a></li>					
-					</ul>	
-				</div>					
-				<div class="sf-mega-section" style="height:145px;">
-				  <span class="FirLvl"><a href="c-267-supplies.aspx">Supplies</a></span>
-					<ul>
-					<li class="FouLvl"><a href="c-524-ogp.aspx">OGP Boxes</a></li>
-					<li class="FouLvl"><a href="c-469-albums-folders.aspx">Albums &amp; Folders</a></li>
-					<li class="FouLvl"><a href="c-470-books.aspx">Books</a></li>
-					<li class="FouLvl"><a href="c-471-collector-tools.aspx">Collector Tools</a></li>					
-					<li class="FouLvl"><a href="c-472-storage-display.aspx">Storage &amp; Display</a></li>
-					<li class="FouLvl"><a href="c-473-other.aspx">Other</a></li>
-					</ul>	
-				</div>	
-			  </div>
-			</li>
-			<li>
-			  <a class="navBrk" href="t-The-Vault.aspx">Media Vault</a>
-			  <div class="sf-mega MedVault">
-				<div class="sf-mega-section">
-				  <span class="FirLvl">SilverTowne Connections</span>
-				  <ul>
-					<li class="FouLvl"><a href="http://www.silvertowne.com/t-silvertowne-market-detail.aspx">Interactive Market Details</a></li>
-					<li class="FouLvl"><a href="s-1-the-vault-blog.aspx">The Vault Blog</a></li>
-					<li class="FouLvl"><a href="t-social-media.aspx">Social Media</a></li>
-					<li class="FouLvl"><a href="t-MobileApp.aspx">Silver Now Mobile App</a></li>
-					<li class="FouLvl"><a href="t-About-Leon.aspx">About Leon</a></li>
-					<li class="FouLvl"><a href="t-Coin-Shows.aspx">Coin Shows</a></li>
-					<li class="FouLvl"><a href="t-Coin-Grades.aspx">Coin Grades</a></li>
-					<li class="FouLvl"><a href="t-Glossary.aspx">Glossary</a></li>
-					<li class="FouLvl"><a href="p-16786-rare-coins-rare-people-biography-of-leon-and-ruhama.aspx.aspx">Biography</a></li>
-					<li class="FouLvl"><a href="t-press-releases.aspx">Press Releases</a></li>				
-				  </ul>
-				</div>				
-			  </div>
-			</li>
-			<li>
-			  <a class="navBrk" href="t-about.aspx">About Us</a>
-			  <div class="sf-mega AboutUs">
-				<div class="sf-mega-section">
-				  <span class="FirLvl">Learn More About Us</span>
-				  <ul>
-					<li class="FouLvl"><a href="t-SilverTowne-History.aspx">Our History</a></li>
-					<li class="FouLvl"><a href="t-Showroom.aspx">Our Showroom</a></li>
-					<li class="FouLvl"><a href="t-testimonials.aspx">Testimonials</a></li>
-					<li class="FouLvl"><a href="t-SilverTowne-Exclusives.aspx">SilverTowne Exclusives</a></li>
-					<li class="FouLvl"><a href="t-Grading-Service.aspx">Grading Service</a></li>
-					<li class="FouLvl"><a href="t-Assay-Service.aspx">Assay Service</a></li>
-					<li class="FouLvl"><a href="t-Career-Opportunities.aspx">Careers</a></li>
-					<li class="FouLvl"><a href="t-Guarantee.aspx">Guarantee</a></li>			
-				  </ul>
-				</div>
-			  </div>
-			</li>
-			<li>
-			  <a class="navBrk" href="t-customer-service.aspx">Customer Service</a>
-			  <div class="sf-mega CustSvcM">
-				<div class="sf-mega-section">
-				  <span class="FirLvl">How Can We Help You?</span>
-				  <ul>
-					<li class="FouLvl"><a href="t-how-to-place-your-order.aspx">How to Place Your Order</a></li>
-					<li class="FouLvl"><a href="t-silvertowne-precious-metal-ira.aspx">Precious Metals IRA</a></li>					
-					<li class="FouLvl"><a href="t-wire-transfer-terms.aspx">Wire Transfer Terms</a></li>
-					<li class="FouLvl"><a href="t-Check-and-Money-Order-Terms.aspx">Physical Check/Money Order Terms</a></li>
-					<li class="FouLvl"><a href="t-faq.aspx">FAQs</a></li>
-					<li class="FouLvl"><a href="t-policies.aspx">Policies</a></li>
-					<li class="FouLvl"><a href="t-privacy.aspx">Privacy</a></li>
-					<li class="FouLvl"><a href="t-shipping.aspx">Shipping Info</a></li>
-					<li class="FouLvl"><a href="t-Contact.aspx">Contact Us</a></li>
-					<div class="Call_Icon" alt="Call Toll-Free 1-877-477-COIN (2646)" title="Call Toll-Free 1-877-477-COIN (2646)"></div>
-					<li class="SalesEm">Sales@SilverTowne.com</li>			
-				  </ul>
-				</div>
-			  </div>
-			</li>		
-		  </ul>
-		</div>
-		<div id="MiniCartCont">
-			<div id="MiniCartPosition">
-				<div id="miniCartWrap" class="withdropdown minicartwrap">
-  <div id="miniAbsWrap" class="hideitems">
-    <div class="minicartboxwrap">
-      <div id="vMiniCart">
-            	            <div>
-  <table id="miniCartSummary1" class="minicartsummary" cellspacing="0" cellpadding="0" width="100%">
-    <tbody><tr id="miniCartTotalRow">
-      <td id="miniCartTotalCell1">
-        <div id="miniCartDrop">
-          <div id="miniCartArrowLink" class="miniCartCollapsed"><span id="miniCartItemCount1">0</span></div>
-          <div id="SCartLink1"><span><a href="/shoppingcart.aspx" title="Go To Shopping Cart">My Cart</a></span></div>
-        </div>
-      </td>
-    </tr>
-  </tbody></table>
 </div>
-<div id="dropdown">
-  <div class="minicartcontents">
-    <div id="miniCartItemsRow" class="minicartitemsrow">
-      <div id="Pete_IconSC" alt="Empty Shopping Cart Pete" title="Empty Shopping Cart Pete"></div><span id="EmptyCart">Your shopping cart is currently empty...<a href="/">Let's Go Shopping!</a></span></div>
-  </div>
+<div class="col-sm-2 hidden-xs">
+<a href="/t-silvertowne-market-detail.aspx"><em class="fa fa-area-chart" aria-hidden="true"></em><span class="mktdet">Market Details</span></a>
 </div>
-            	        </div>
-      <div style="clear:both;"></div>
-    </div>
-  </div>
+<div class="clearfix"></div>
 </div>
-<div id="miniCartHeader" class="minicartheader"></div>
-			</div>
-		</div>		
+					</div>
+				</div>
+				<div class="main-header">
+					<div class="container">
+						<div class="row header-row">
+							<div class="col-xs-12 col-sm-5 col-md-4 col-lg-3 storelogo-wrap">
+								<a id="storelogo" class="storelogo" href="/" title="SilverTowne.com">
+<img alt="" src="/Skins/Skin_1/images/logo.jpg" class="img-responsive storelogo-image-wrapper">
+</a>
+							</div>
+							<div class="clearfix visible-xs-block"></div>
+							<div class="col-xs-12 col-sm-7 col-md-8 col-lg-9 header-right-info">
+								<div class="row">
+									<div class="hidden-xs hidden-sm col-md-7 col-lg-7">
+										<a href="/c-366-silvertowne-minted-christmas-designs.aspx"><img alt="2016 Silver Christmas Bullion!" title="2016 Silver Christmas Bullion!" src="/images/stbanners/HeaderBanner/Christmas2016Header.jpg" style="margin-top: 4px;" class="img-responsive visible-lg">
+<img alt="2016 Silver Christmas Bullion!" title="2016 Silver Christmas Bullion!" src="/images/stbanners/HeaderBanner/Christmas2016Header_md.jpg" style="margin-top: 6px;" class="img-responsive visible-md"></a>
+									</div>
+									<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5 top-right-header">
+										<div class="clearfix"></div>
+										<div class="col-xs-12 header-right-phone">
+											
+<a class="customerS" href="/signin.aspx">
+&nbsp;Login
+</a><br>
+<div class="PHST">
+<strong><span class="glyphicon glyphicon-earphone"></span> 1-877-477-COIN (2646)</strong>
+</div>
+										</div>
+										<div class="col-xs-12 search-wrapper">
+											<div class="search-static">
+												<form action="/xsearch" method="get">	<div class="form-group search-form-group">
+		<input name="searchterm" class="form-control form-control-inline search-box" placeholder="Search..." type="text" autocomplete="off"><input value="Go" class="btn btn-default search-go" type="submit">
 	</div>
+</form>										
+												<br class="visible-xs">
+											</div>
+										</div>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+							</div>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+
+					<div class="top-navigation-wrap">
+						<div class="container">
+							<div class="navbar navbar-default topnav megamenu" role="navigation">							
+								<div class="navbar-header">
+									<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#top-nav-collapse">
+										<span class="sr-only">Toggle navigation</span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+									</button>
+									<div class="cart-header pull-right visible-xs">
+										<div class="user-links">
+        <div class="minicart-wrap-link checkout-link">
+            <a id="js-header-checkout-link" class="user-link checkout-link" disabled="disabled">
+                <i class="fa fa-check-square-o"></i>
+                Checkout
+            </a>
+        </div>
+			<div class="minicart-wrap-link view-cart-link">
+			<a id="js-show-cart" href="#" data-toggle="modal" data-target="#minicart-modal" class="user-link">
+	<i class="fa fa-shopping-cart"></i>
+	View Cart (<span class="minicart-count js-minicart-count">0</span>)
+</a>
+
 		</div>
-		<div id="breadcrumb">
-			
-			Privacy &amp; Security Policy
+		
+</div>
+									</div>									
+								</div>
+								<div class="navbar-collapse collapse" id="top-nav-collapse">
+									<ul class="nav navbar-nav">
+									<li class="dropdown mega-menu">
+<a data-toggle="dropdown" class="dropdown-toggle" href="#">
+Silver Bullion <strong class="caret"> </strong>
+</a>
+<ul class="dropdown-menu mega-menu-dropdown">
+    <li class="megamenu-content">
+    <div class="row">
+    <ul class="col-lg-2  col-sm-2 col-md-2 unstyled">
+        <li class="cat-lvl">
+        <a href="/c-865-silver-bullion.aspx">Silver Bars</a>
+        </li>
+        <li class="first-lvl">BY WEIGHT</li>
+        <li class="second-lvl"><a href="/c-867-1-ounce-silver-bars.aspx"> 1 Ounce Silver </a></li>
+        <li class="second-lvl"><a href="/c-868-5-ounce-silver-bars.aspx"> 5 Ounce Silver </a></li>
+        <li class="second-lvl"><a href="/c-869-10-ounce-silver-bars.aspx"> 10 Ounce Silver </a></li>
+        <li class="second-lvl"><a href="/c-870-100-ounce-silver-bars.aspx"> 100oz Silver </a></li>
+        <li class="first-lvl"><a href="/c-446-poured-silver-bars.aspx"> POURED SILVER </a></li>
+        <li class="first-lvl">BY BRAND</li>
+        <li class="second-lvl"><a href="/c-468-custom-minted.aspx?section=-277-"> SilverTowne </a></li>
+        <li class="second-lvl"><a href="/c-934-other-silver-bars.aspx"> Other </a></li>
+        <li class="first-lvl"><a href="/c-767-silvertowne-bulk-silver-deals.aspx?section=-277-"> BULK SILVER DEALS </a></li>
+        <li class="first-lvl"><a href="/c-255-specialty-silver-bullion-bars.aspx"> THEMED SILVER BARS </a></li>
+        <li class="first-lvl"><a href="/c-841-special-order-designs.aspx?section=-277-"> SPECIAL ORDER SILVER BARS </a></li>
+    </ul>
+    <ul class="col-lg-2  col-sm-2 col-md-2 unstyled">
+        <li class="cat-lvl">
+        <a href="/c-866-silver-rounds.aspx">Silver Rounds</a>
+        </li>
+        <li class="first-lvl">BY WEIGHT</li>
+        <li class="second-lvl"><a href="/c-872-1-ounce-silver-rounds.aspx"> 1 Ounce Silver </a></li>
+        <li class="second-lvl"><a href="/c-873-5-ounce-silver-rounds.aspx"> 5 Ounce Silver </a></li>
+        <li class="second-lvl"><a href="/c-871-half-ounce-silver-rounds.aspx"> 1/2 Ounce Silver </a></li>
+        <li class="first-lvl">BY BRAND</li>
+        <li class="second-lvl"><a href="/c-468-custom-minted.aspx?section=-278-"> SilverTowne </a></li>
+        <li class="first-lvl"><a href="/c-767-silvertowne-bulk-silver-deals.aspx?section=-278-"> BULK SILVER DEALS </a></li>
+        <li class="first-lvl"><a href="/c-257-specialty-silver-bullion-medallions.aspx"> THEMED SILVER ROUNDS </a></li>
+        <li class="first-lvl"><a href="/c-841-special-order-designs.aspx#Filter=[EntityIDs=@(278)@*Pagesize=60*Sort=5*ava=0]"> SPECIAL ORDER SILVER ROUNDS </a></li>
+    </ul>
+    <ul class="col-lg-2  col-sm-2 col-md-2 unstyled">
+        <li class="cat-lvl">
+        <a href="/c-256-silver-bullion-coins.aspx">US Mint Silver Coins</a>
+        </li>
+        <li><a href="/c-881-silver-american-eagle-bullion.aspx"> Silver American Eagles </a></li>
+        <li><a href="/c-337-silver-dollar-commemoratives.aspx"> Commemoratives </a></li>
+        <li><a href="/c-645-90-percent-silver-dollars.aspx"> 90% Silver Dollars </a></li>
+        <li><a href="/c-644-90-silver-half-dollars.aspx"> 90% Silver Half Dollars </a></li>
+        <li><a href="/c-643-90-percent-silver-quarters.aspx"> 90% Silver Quarters </a></li>
+        <li><a href="/c-642-90-percent-silver-dimes.aspx"> 90% Silver Dimes </a></li>
+        <li><a href="/c-640-90-percent-silver-bags.aspx"> 90% Silver Bags </a></li>
+        <li><a href="/c-641-35-percent-silver-war-nickels.aspx"> 35% Silver Nickels (War) </a></li>
+    </ul>
+    <ul class="col-lg-2  col-sm-2 col-md-2 unstyled">
+        <li class="cat-lvl">
+        <a href="/c-338-world-silver-bullion.aspx">Foreign Silver Coins</a>
+        </li>
+        <li><a href="/c-294-silver-canada-world-coins.aspx"> Canada </a></li>
+        <li><a href="/c-293-silver-australia-world-coins.aspx"> Australia </a></li>
+        <li><a href="/c-295-silver-china-world-coins.aspx"> China </a></li>
+        <li><a href="/c-897-silver-austria-world-coins.aspx"> Austria </a></li>
+        <li><a href="/c-623-silver-mexico-world-coins.aspx"> Mexico </a></li>
+        <li><a href="/c-899-silver-great-britain-world-coins.aspx"> Great Britain </a></li>
+        <li><a href="/c-312-silver-niue-world-coins.aspx"> Niue </a></li>
+        <li><a href="/c-862-silver-tuvalu-world-coins.aspx"> Tuvalu </a></li>
+    </ul>
+    <ul class="col-lg-2  col-sm-2 col-md-2 unstyled">
+        <li class="cat-lvl">
+        <a href="/c-468-custom-minted.aspx">Themed Silver Designs</a>
+        </li>
+        <li><a href="/c-366-silvertowne-minted-christmas-designs.aspx"> Christmas </a></li>
+        <li><a href="/c-719-halloween.aspx"> Halloween </a></li>
+        <li><a href="/c-528-thanksgiving.aspx"> Thanksgiving </a></li>
+        <li><a href="/c-647-silvertowne-minted-coin-replica-designs.aspx"> Coin Replicas </a></li>
+        <li><a href="/c-681-silvertowne-minted-military-and-service-designs.aspx"> Military &amp; Service </a></li>
+        <li><a href="/c-650-silvertowne-minted-religious-designs.aspx"> Religious </a></li>
+        <li><a href="/c-648-silvertowne-minted-special-occasion-designs.aspx"> Special Occasions </a></li>
+        <li><a href="/c-649-silvertowne-minted-garfield-copypaws-designs.aspx"> Garfield™ </a></li>
+        <li><a href="/c-651-silvertowne-minted-sports-designs.aspx"> Sports </a></li>
+        <li><a href="/c-652-other-silvertowne-minted-designs.aspx"> Other </a></li>
+    </ul>
+    <ul class="col-lg-2  col-sm-2 col-md-2 unstyled">
+        <li class="cat-lvl">
+        <a href="/c-864-silver-bullion.aspx">Shop All Silver Bullion</a>
+        </li>
+    </ul>
+    </div>
+    </li>
+</ul>
+</li>
+<li class="dropdown mega-menu">
+<a data-toggle="dropdown" class="dropdown-toggle" href="#">
+Gold Bullion <strong class="caret"> </strong>
+</a>
+<ul class="dropdown-menu mega-menu-dropdown">
+    <li class="megamenu-content">
+    <div class="row">
+    <ul class="col-lg-2  col-sm-2 col-md-2 unstyled">
+        <li class="cat-lvl">
+        <a href="/c-646-gold-bullion-bars.aspx">Gold Bars</a>
+        </li>
+        <li class="first-lvl">BY WEIGHT</li>
+        <li class="second-lvl"><a href="/c-901-25-gram-gold-bullion-bars.aspx"> 2.5 Gram </a></li>
+        <li class="second-lvl"><a href="/c-902-5-gram-gold-bullion-bars.aspx"> 5 Gram </a></li>
+        <li class="second-lvl"><a href="/c-903-10-gram-gold-bullion-bars.aspx"> 10 Gram </a></li>
+        <li class="second-lvl"><a href="/c-904-1-ounce-gold-bullion-bars.aspx"> 1 Ounce </a></li>
+        <li class="first-lvl">BY BRAND</li>
+        <li class="second-lvl"><a href="/c-877-perth-mint-gold.aspx"> Perth Mint </a></li>
+        <li class="second-lvl"><a href="/c-875-pamp-sussie-gold.aspx"> Pamp Suisse </a></li>
+    </ul>
+    <ul class="col-lg-2  col-sm-2 col-md-2 unstyled">
+        <li class="cat-lvl">
+        <a href="/c-896-us-mint-gold-coins.aspx">US Mint Gold Coins</a>
+        </li>
+        <li class="second-lvl"><a href="/c-251-gold-american-eagles.aspx"> Gold American Eagles </a></li>
+        <li class="second-lvl"><a href="/c-250-gold-buffalos.aspx"> Gold Buffaloes </a></li>
+        <li class="second-lvl"><a href="/c-334-gold-commemoratives.aspx"> Commemoratives </a></li>
+    </ul>
+    <ul class="col-lg-2  col-sm-2 col-md-2 unstyled">
+        <li class="cat-lvl">
+        <a href="/c-252-world-gold-bullion.aspx">Foreign Gold Coins</a>
+        </li>
+        <li class="second-lvl"><a href="/c-296-gold-canada-world-coins.aspx"> Canada </a></li>
+        <li class="second-lvl"><a href="/c-311-gold-australia-world-coins.aspx"> Australia </a></li>
+        <li class="second-lvl"><a href="/c-297-gold-china-world-coins.aspx"> China </a></li>
+        <li class="second-lvl"><a href="/c-898-gold-austria-world-coins.aspx"> Austria </a></li>
+        <li class="second-lvl"><a href="/c-309-gold-south-africa-world-coins.aspx"> South Africa </a></li>
+    </ul>
+    <ul class="col-lg-2  col-sm-2 col-md-2 unstyled">
+        <li class="cat-lvl">
+        <a href="/c-885-assay-card-certfied.aspx">Gold Bullion in Assay</a>
+        </li>
+    </ul>
+    <ul class="col-lg-2  col-sm-2 col-md-2 unstyled">
+        <li class="cat-lvl">
+        <a href="/c-249-gold-bullion.aspx">Shop All Gold Bullion</a>
+        </li>
+    </ul>
+    </div>
+    </li>
+</ul>
+</li>
+<li class="dropdown mega-menu">
+<a data-toggle="dropdown" class="dropdown-toggle" href="#">
+Other Bullion <strong class="caret"> </strong>
+</a>
+<ul class="dropdown-menu mega-menu-dropdown">
+    <li class="megamenu-content">
+    <div class="row">
+    <ul class="col-lg-2  col-sm-2 col-md-2 unstyled">
+        <li class="cat-lvl"><a href="/c-254-platinum-bullion.aspx"> PLATINUM BULLION </a></li>
+        <li class="cat-lvl"><a href="/c-654-palladium-bullion.aspx"> PALLADIUM BULLION </a></li>
+    </ul>
+    </div>
+    </li>
+</ul>
+</li>
+<li class="dropdown mega-menu">
+<a data-toggle="dropdown" class="dropdown-toggle" href="#">
+Numismatics <strong class="caret"> </strong>
+</a>
+<ul class="dropdown-menu mega-menu-dropdown">
+    <li class="megamenu-content">
+    <div class="row">
+    <ul class="col-lg-2  col-sm-2 col-md-2 unstyled">
+        <li class="cat-lvl">
+        Modern Coins U.S.
+        </li>
+        <li class="first-lvl"><a href="/c-336-silver-american-eagles.aspx"> SILVER AMERICAN EAGLES </a></li>
+        <li class="second-lvl"><a href="/c-284-non-certified-silver-american-eagles.aspx"> Non-Certified/Raw </a></li>
+        <li class="second-lvl"><a href="/c-278-certified-silver-american-eagles.aspx"> Certified </a></li>
+        <li class="first-lvl"><a href="/c-251-gold-american-eagles.aspx"> GOLD AMERICAN EAGLES </a></li>
+        <li class="second-lvl"><a href="/c-282-non-certified-gold-american-eagles.aspx"> Non-Certified/Raw </a></li>
+        <li class="second-lvl"><a href="/c-275-certified-gold-american-eagles.aspx"> Certified </a></li>
+        <li class="first-lvl"><a href="/c-250-gold-buffalos.aspx"> GOLD BUFFALOES </a></li>
+        <li class="second-lvl"><a href="/c-283-non-certified-gold-buffalos.aspx"> Non-Certified </a></li>
+        <li class="second-lvl"><a href="/c-276-certified-gold-buffalos.aspx"> Certified </a></li>
+        <li class="first-lvl"><a href="/c-335-gold-first-spouse.aspx"> GOLD FIRST SPOUSE </a></li>
+        <li class="first-lvl"><a href="/c-633-us-mint-commemorative-coins.aspx"> COMMEMORATIVES </a></li>
+        <li class="second-lvl"><a href="/c-337-silver-dollar-commemoratives.aspx"> Silver Half Dollar </a></li>
+        <li class="second-lvl"><a href="/c-399-half-dollar-commems.aspx"> Half Dollar </a></li>
+        <li class="second-lvl"><a href="/c-334-gold-commemoratives.aspx"> Gold </a></li>
+        <li class="first-lvl"><a href="/c-637-platinum-american-eagles.aspx"> PLATINUM AMERICAN EAGLES </a></li>
+    </ul>
+    <ul class="col-lg-2  col-sm-2 col-md-2 unstyled">
+        <li class="cat-lvl">
+        <a href="/c-534-coin-bags-sets.aspx">Coin Bags &amp; Sets</a>
+        </li>
+        <li class="second-lvl"><a href="/c-640-90-percent-silver-bags.aspx"> 90% (Junk) Silver </a></li>
+        <li class="second-lvl"><a href="/c-660-40-silver-bags.aspx"> 40% Silver </a></li>
+        <li class="second-lvl"><a href="/c-661-other-grab-bags.aspx"> Other Grab Bags </a></li>
+        <li class="second-lvl"><a href="/c-639-foreign-coins-mixed-bags.aspx"> Foreign Coins Mixed Bags </a></li>
+        <li class="second-lvl"><a href="/c-662-gift-other-coin-sets.aspx"> Gift &amp; Other Coin Sets </a></li>
+    </ul>
+    <ul class="col-lg-2  col-sm-2 col-md-2 unstyled">
+        <li class="cat-lvl">
+        US Money/Coins
+        </li>
+        <li><a href="/c-261-dollars.aspx"> Dollars </a></li>
+        <li><a href="/c-262-half-dollars.aspx"> Half Dollars </a></li>
+        <li><a href="/c-266-quarters.aspx"> Quarters </a></li>
+        <li><a href="/c-260-dimes.aspx"> Dimes </a></li>
+        <li><a href="/c-264-nickels.aspx"> Nickels </a></li>
+        <li><a href="/c-259-us-cents-coins.aspx"> Cents </a></li>
+    </ul>
+    <ul class="col-lg-2  col-sm-2 col-md-2 unstyled">
+        <li class="cat-lvl">
+        <a href="/c-267-supplies.aspx">Supplies</a>
+        </li>
+        <li><a href="/c-524-ogp.aspx"> OGP </a></li>
+        <li><a href="/c-469-albums-folders.aspx"> Albums &amp; Folders </a></li>
+        <li><a href="/c-470-books.aspx"> Books </a></li>
+        <li><a href="/c-471-collector-tools.aspx"> Collector Tools </a></li>
+        <li><a href="/c-472-storage-display.aspx"> Storage &amp; Display </a></li>
+        <li><a href="/c-473-other.aspx"> Other </a></li>
+    </ul>
+    <ul class="col-lg-2  col-sm-2 col-md-2 unstyled">
+        <li class="cat-lvl">
+        <a href="/c-258-numismatics.aspx">Shop All Numismatics</a>
+        </li>
+    </ul>
+    </div>
+    </li>
+</ul>
+</li>
+<li class="dropdown mediav">
+<a data-toggle="dropdown" class="dropdown-toggle" href="#">
+Media Vault <strong class="caret"> </strong>
+</a>
+<ul class="dropdown-menu">
+    <li><a href="/t-silvertowne-market-detail.aspx">Interactive Market Details</a></li>
+    <li><a href="/s-1-the-vault-blog.aspx">The Vault Blog</a></li>
+    <li><a href="/t-social-media.aspx">Social Media</a></li>
+    <li><a href="/t-mobileapp.aspx">Silver Now Mobile App</a></li>
+    <li><a href="/t-about-leon.aspx">About Leon</a></li>
+    <li><a href="/t-coin-shows.aspx">Coin Shows</a></li>
+    <li><a href="/t-coin-grades.aspx">Coin Grades</a></li>
+    <li><a href="/t-glossary.aspx">Glossary</a></li>
+    <li><a href="/p-16786-rare-coins-rare-people-biography-of-leon-and-ruhama.aspx">Biography</a></li>
+    <li><a href="/t-press-releases.aspx">Press Releases</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a data-toggle="dropdown" class="dropdown-toggle" href="#">
+About Us <strong class="caret"> </strong>
+</a>
+<ul class="dropdown-menu">
+    <li>
+    <a href="/t-silvertowne-history.aspx">Our History</a>
+    </li>
+    <li>
+    <a href="/t-showroom.aspx">Our Showroom</a>
+    </li>
+    <li>
+    <a href="/t-testimonials.aspx">Testimonials</a>
+    </li>
+    <li>
+    <a href="/t-silvertowne-exclusives.aspx">SilverTowne Exclusives</a>
+    </li>
+    <li>
+    <a href="/t-grading-service.aspx">Grading Service</a>
+    </li>
+    <li>
+    <a href="/t-assay-service.aspx">Assay Service</a>
+    </li>
+    <li>
+    <a href="/t-career-opportunities.aspx">Careers</a>
+    </li>
+    <li>
+    <a href="/t-guarantee.aspx">Guarantee</a>
+    </li>
+</ul>
+</li>
+<li class="dropdown">
+<a data-toggle="dropdown" class="dropdown-toggle" href="#">
+Customer Service <strong class="caret"> </strong>
+</a>
+<ul class="dropdown-menu">
+    <li>
+    <a href="/t-how-to-place-your-order.aspx">How to Place Your Order</a>
+    </li>
+    <li>
+    <a href="/t-silvertowne-precious-metal-ira.aspx">Precious Metals IRA</a>
+    </li>
+    <li>
+    <a href="/t-wire-transfer-terms.aspx">Wire Transfer Terms</a>
+    </li>
+    <li>
+    <a href="/t-check-and-money-order-terms.aspx">Physical Check/Money Order Terms</a>
+    </li>
+    <li>
+    <a href="/t-faq.aspx">FAQs</a>
+    </li>
+    <li>
+    <a href="/t-policies.aspx">Policies</a>
+    </li>
+    <li>
+    <a href="/t-privacy.aspx">Privacy</a>
+    </li>
+    <li>
+    <a href="/t-shipping.aspx">Shipping Info</a>
+    </li>
+    <li>
+    <a href="/t-contact.aspx">Contact Us</a>
+    </li>
+    <li>
+    <a href="/account.aspx#OrderHistory">
+    My Orders
+    </a>
+    </li>
+    <li>
+    <a data-toggle="modal" href="#miniwish-modal">
+    My Wishlist
+    </a>
+    </li>
+    <li>
+    <a href="/signin.aspx">
+    Login
+    </a>
+    </li>
+</ul>
+</li>
+										<div class="cart-header pull-right hidden-xs">
+											<div class="user-links">
+        <div class="minicart-wrap-link checkout-link">
+            <a id="js-header-checkout-link" class="user-link checkout-link" disabled="disabled">
+                <i class="fa fa-check-square-o"></i>
+                Checkout
+            </a>
+        </div>
+			<div class="minicart-wrap-link view-cart-link">
+			<a id="js-show-cart" href="#" data-toggle="modal" data-target="#minicart-modal" class="user-link">
+	<i class="fa fa-shopping-cart"></i>
+	View Cart (<span class="minicart-count js-minicart-count">0</span>)
+</a>
+
 		</div>
-		<div id="topbreak">
-		</div>
-		<!-- CONTENTS START -->
-		<div id="ContentPlaceHolder">
-			
-    <div id="ctl00_PageContent_pnlContent">
-	
-        <!-- READ FROM DB --><div id="MMarg">
+		
+</div>
+										</div>	
+									</ul>								
+								</div>
+
+								<!--/.nav-collapse -->
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="main-content-wrapper">
+					
+					<div class="main-background">
+						<div class="container main-body">
+							
+							<div class="notices">
+								
+							</div>
+							<!-- CONTENTS START -->
+							
+
+
+<div class="page-wrap topic-page">
+	<!--Topic 'privacy' from database -->
+	<div id="MMarg">
 <h1>SilverTowne Privacy &amp; Security Policy</h1>
 <p>This is the website of SilverTowne, L.P.</p>
 <p>Our postal address is:<br>
@@ -606,192 +584,491 @@ Winchester, IN 47394</p>
 <p><strong>Policy Changes</strong></p>
 <p>From time to time, it may become necessary for us to change our privacy policy in whole or in part. If we do so, the new policy will be posted on our website. Those changes will go into effect on the date posted in the notice. The new policy will apply to all current and past users of our website and will replace any prior policies that may be inconsistent. This policy was posted in September 2011.</p>
 <br>
-</div><!-- END OF DB -->
+</div>
+	<!--End of topic 'privacy' from database -->
+</div>
 
-
+							<!-- CONTENTS END -->
+						<div class="row footer-row">
+							<div class="clearfix"></div>
+<div class="row">
+<div class="col-lg-12">
+<hr class="hr3">
+</div>
+</div>
+<div class="row stQuickLinks">
+<div class="col-md-3 col-xs-6 stFootTile">
+<a href="/c-441-new-at-silvertowne.aspx"><img src="/images/Tile/New_At_SilverTowne.jpg" alt="New Items At SilverTowne!" title="New Items At SilverTowne!" class="img-responsive"></a>
+</div>
+<div class="col-md-3 col-xs-6 stFootTile">
+<a href="/c-466-free-shipping-items.aspx"><img src="/images/Tile/Items_That_Always_Ship_Free.jpg" alt="Items That ALWAYS Ship Free - No Minimum Purchase Amount Required!" title="Items That ALWAYS Ship Free - No Minimum Purchase Amount Required!" class="img-responsive"></a>
+</div>
+<div class="col-md-3 col-xs-6 stFootTile">
+<a href="/c-344-best-sellers.aspx"><img src="/images/Tile/SilverTowne_Best_Sellers.jpg" alt="SilverTowne Best Sellers!" title="SilverTowne Best Sellers!" class="img-responsive"></a>
+</div>
+<div class="col-md-3 col-xs-6 stFootTile">
+<a href="/c-366-silvertowne-minted-christmas-designs.aspx"><img src="/images/Tile/2016_Silver_Christmas.jpg" alt="2016 SilverTowne Minted Silver Christmas Pieces!" title="2016 SilverTowne Minted Silver Christmas Pieces!" class="img-responsive"></a>
+</div>
+</div>
+<div class="width100 section-block aff">
+<h3 class="section-title"><span>Member/Affiliations</span>
+<a class="link pull-right carousel-nav" id="nextBrand"> <em class="fa fa-angle-right"></em></a>
+<a class="link pull-right carousel-nav" id="prevBrand"> <em class="fa fa-angle-left"></em> </a>
+</h3>
+<div class="row">
+<div class="col-lg-12">
+<ul class="no-margin brand-carousel owl-carousel owl-theme" style="opacity: 1; display: block;">
+    <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 3608px; left: 0px; display: block;"><div class="owl-item" style="width: 164px;"><li><img title="Numismatic Guaranty Corporation (NGC)" alt="Numismatic Guaranty Corporation (NGC)" src="/images/footer/NGC.jpg"></li></div><div class="owl-item" style="width: 164px;"><li><img title="Paper Money Guarantee (PMG)" alt="Paper Money Guarantee (PMG)" src="/images/footer/PMG.jpg"></li></div><div class="owl-item" style="width: 164px;"><li><img title="Numismatic Conservation Services Member (NCS)" alt="Numismatic Conservation Services Member (NCS)" src="/images/footer/NCS.jpg"></li></div><div class="owl-item" style="width: 164px;"><li><img title="Professional Coin Grading Service (PCGS)" alt="Professional Coin Grading Service (PCGS)" src="/images/footer/PCGS.jpg"></li></div><div class="owl-item" style="width: 164px;"><li><img title="Professional Numismatists Guild Member (PNG)" alt="Professional Numismatists Guild Member (PNG)" src="/images/footer/PNG.jpg"></li></div><div class="owl-item" style="width: 164px;"><li><img title="American Numismatics Association Member (ANA)" alt="American Numismatics Association Member (ANA)" src="/images/footer/ANA.jpg"></li></div><div class="owl-item" style="width: 164px;"><li><img title="Certified Coin Exchange Member Number C35" alt="Certified Coin Exchange Member Number C35" src="/images/footer/CCE.jpg"></li></div><div class="owl-item" style="width: 164px;"><li><img title="CoinNet Member Number IN41" alt="CoinNet Member Number IN41" src="/images/footer/CoinNet.jpg"></li></div><div class="owl-item" style="width: 164px;"><li><img title="We Support Industry Council For Tangible Assets (ICTA)" alt="We Support Industry Council For Tangible Assets (ICTA)" src="/images/footer/ICTA.jpg"></li></div><div class="owl-item" style="width: 164px;"><li><img title="Florida United Numismatists Inc. Member" alt="Florida United Numismatists Inc. Member" src="/images/footer/FUN_Show.jpg"></li></div><div class="owl-item" style="width: 164px;"><li><img title="Central States Numismatics Society Member" alt="Central States Numismatics Society Member" src="/images/footer/CSNS.jpg"></li></div></div></div>
     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</ul>
 </div>
-
-		</div>
-		<!-- CONTENTS END -->
-		<div id="back-top" style="display: none;">
-				<a href="#toppage"><span></span>Back to Top</a>
-				</div>
-	</div>
-			<div id="footercontainer">
-				<!-- READ FROM DB --><div id="StickLinks">
-<a alt="Save on these products now!" title="Save on these products now!" class="PeteFtr" id="Pete_OnSaleNow" href="http://www.silvertowne.com/c-343-on-sale-now.aspx"></a>
-<a alt="Shop products new to SilverTowne." title="Shop products new to SilverTowne." class="PeteFtr" id="Pete_NewArrivals" href="http://www.silvertowne.com/c-441-new-at-silvertowne.aspx"></a>
-<a alt="Shop all products that ship free." title="Shop all products that ship free." class="PeteFtr" id="Pete_FreeShipping" href="http://www.silvertowne.com/c-466-free-shipping-items.aspx"></a>
-<a alt="Shop SilverTowne best sellers." title="Shop SilverTowne best sellers." class="PeteFtr" id="Pete_BestSellers" href="http://www.silvertowne.com/c-344-best-sellers.aspx"></a>
 </div>
-<div id="Foot2Lvl">
-<div class="floatleft" id="Affiliates">
-<div title="Numismatic Guaranty Corporation (NGC)" alt="Numismatic Guaranty Corporation (NGC)" class="ftAffAll" id="NGC_Icon"></div>
-<div title="Paper Money Guarantee (PMG)" alt="Paper Money Guaranty (PMG)" class="ftAffAll" id="PMG_Icon"></div>
-<div title="Numismatic Conservation Services (NCS)" alt="Numismatic Conservation Services (NCS)" class="ftAffAll" id="NCS_Icon"></div>
-<div title="Professional Coin Grading Service (PCGS)" alt="Professional Coin Grading Service (PCGS)" class="ftAffAll" id="PCGS_Icon"></div>
-<div title="Professional Numismatists Guild Member" alt="Professional Numismatists Guild Member" class="ftAffAll" id="PNG_Icon"></div>
-<div title="American Numismatics Association Member" alt="American Numismatics Association Member" class="ftAffAll" id="ANA_Icon"></div>
-<div title="Certified Coin Exchange Dealer Member #C35" alt="Certified Coin Exchange Dealer Member #C35" class="ftAffAll" id="CCE_Icon"></div>
-<div title="Coin Net Member #IN41" alt="Coin Net Member #IN41" class="ftAffAll" id="CoinNet_Icon"></div>
-<div title="We Support Industry Council for Tangible Assets" alt="We Support Industry Council for Tangible Assets" class="ftAffAll" id="ICTA_Icon"></div>
-<div title="Florida United Numismatists Inc. Member" alt="Florida United Numismatists Inc. Member" class="ftAffAll" id="FUN_Icon"></div>
-<div title="Central States Numismatics Society Member" alt="Central States Numismatics Society Member" class="ftAffAll" id="CentralStates_Icon"></div>
+<!--/.row-->
 </div>
-<div id="AboutStFt">
-<div class="floatleft" id="STSFT"></div>
-<div class="floatleft" id="AboutStFtIn">
-<span><a href="t-SilverTowne-History.aspx">About SilverTowne</a></span><br>
-<span><a href="t-Contact.aspx">Contact Us</a></span><br>
-<span><a href="t-faq.aspx">FAQ</a></span><br>
+<div class="col-lg-2  col-md-2 col-sm-6 col-xs-6">
+<h3>ST Showroom</h3>
+<ul>
+    <li><strong>Address:</strong></li>
+    <li>120 East Union City Pike<br>
+    Winchester, IN 47394</li>
+    <li><strong>Showroom Hours:</strong><br>
+    M-F 9am-5pm | Sat 9am-2pm (All Eastern Standard Time)</li>
+    <li><strong>CLOSED Thanksgiving Day 11/23/16<br>
+    </strong></li>
+    <!-- <li><strong>CLOSED Until 10AM 11/01/16 for Inventory<br />
+    </strong></li>-->
+    <li>
+    <div class="loginportals text-center">
+    <a href="http://silvertownedealers.com/Account/LogOn?ReturnUrl=%2f" target="_blank" class="btn  bg-gray" role="button">Dealer Login  <em class="fa fa-long-arrow-right"> </em></a>
+    </div>
+    </li>
+    <li>
+    <div class="loginportals text-center">
+    <a href="http://retail.silvertownedealers.com/" target="_blank" class="btn  bg-gray" role="button"> Retail Indicators  <em class="fa fa-long-arrow-right"> </em></a>
+    </div>
+    </li>
+</ul>
 </div>
-<div class="floatleft" id="AboutStFtIn2">
-<span><a href="t-Showroom.aspx">SilverTowne Showroom</a></span><br>
-<span class="AboutStFtIn2Sp1">120 East Union City Pike | Winchester, IN 47394</span><br>
-<span class="AboutStFtIn2Sp1">Hours: Mon-Fri 9am-5pm | Sat: 9am-2pm<br>
-<strong>
-CLOSED Monday May 30th Memorial Day</strong><br>
-<span class="AboutStFtIn2Sp1">
+<div class="col-lg-3  col-md-3 col-sm-6 col-xs-6">
+<h3>Customer Service</h3>
+<ul>
+    <li class="supportLi">
+    <strong>Call-Center Hours:</strong><br>
+    M-F 9am-5pm E.S.T. | Sat/Sun Closed
+    <h4><a href="callto:+18774772646" class="inline"> <strong> <em class="fa fa-phone"> </em> 1-877-477-COIN (2646)</strong> </a></h4>
+    <h4><a href="mailto:sales@silvertowne.com" class="inline"> <em class="fa fa-envelope-o"> </em>
+    sales@silvertowne.com </a></h4>
+    </li>
+    <li><a href="/t-faq.aspx">FAQs</a></li>
+    <li><a href="/t-shipping.aspx">Shipping Info</a></li>
+    <li><a href="/t-how-to-place-your-order.aspx">How To Place An Order</a></li>
+    <li><a href="/t-silvertowne-precious-metal-ira.aspx">Precious Metals IRA</a></li>
+    <li><a href="/t-wire-transfer-terms.aspx">Wire Transfer Terms</a></li>
+    <li><a href="/t-Check-and-Money-Order-Terms.aspx">Physical Check/Money Order Terms</a></li>
+    <li><a href="/t-policies.aspx">Policies</a></li>
+    <li><a href="/t-privacy.aspx">Privacy</a></li>
+    <li><a href="/t-Contact.aspx">Contact Us</a></li>
+</ul>
+</div>
+<div class="hide visible-xs" style="clear: both;"></div>
+<div class="col-lg-2  col-md-2 col-sm-6 col-xs-6">
+<h3>Information</h3>
+<ul>
+    <li><a href="/s-1-the-vault-blog.aspx">The Vault Blog</a></li>
+    <li><a href="/t-SilverTowne-History.aspx">SilverTowne History</a></li>
+    <li><a href="/t-About-Leon.aspx">About Leon Hendrickson</a></li>
+    <li><a href="/t-Coin-Shows.aspx">Coin Shows</a></li>
+    <li><a href="/t-Showroom.aspx">SilverTowne Showroom</a></li>
+    <li><a href="/t-testimonials.aspx">Testimonials</a></li>
+    <li><a href="/t-SilverTowne-Exclusives.aspx">SilverTowne Exclusives</a></li>
+    <li><a href="/t-Grading-Service.aspx">Grading Service</a></li>
+    <li><a href="/t-Assay-Service.aspx">Assay Service</a></li>
+    <li><a href="/t-Career-Opportunities.aspx">Careers</a></li>
+    <li><a href="/t-Guarantee.aspx">Guarantee</a></li>
+</ul>
+</div>
+<div class="col-lg-2  col-md-2 col-sm-6 col-xs-6">
+<h3>My Account</h3>
+<ul>
+    <li><a href="/signing.aspx"> Account Login/Log Out </a></li>
+    <li><a href="/account.aspx"> My Account </a></li>
+    <li><a data-target="#minicart-modal" data-toggle="modal" href="#" id="js-show-cart"> My Cart </a></li>
+    <li><a href="/shoppingcart.aspx"> Checkout Now </a></li>
+    <li><a href="/address"> My Address Book </a></li>
+    <li><a href="/account.aspx"> My Order History </a></li>
+</ul>
+</div>
+<div class="hide visible-xs" style="clear: both;"></div>
+<div class="col-lg-3  col-md-3 col-sm-12 col-xs-12 ">
+<h3> Stay in touch </h3>
+<ul>
+    <li>
+    <!-- Begin MailChimp Signup Form -->
+    <div id="mc_embed_signup">
+    <form target="_blank" class="validate" name="mc-embedded-subscribe-form" id="mc-embedded-subscribe-form" method="post" action="//silvertowne.us2.list-manage.com/subscribe/post?u=d48b83f803fafd5b84e82216f&amp;id=31591be20b">
+        <div id="mc_embed_signup_scroll">
+        <h2>Win Free Silver!*</h2>
+        <div class="mc-field-group">
+        <label for="mce-EMAIL">Email Address </label>
+        <input id="mce-EMAIL" class="required email" name="EMAIL" type="email">
+        </div>
+        <div class="mc-field-group">
+        <label for="mce-FNAME">First Name </label>
+        <input id="mce-FNAME" name="FNAME" type="text">
+        </div>
+        <div class="mc-field-group">
+        <label for="mce-LNAME">Last Name </label>
+        <input id="mce-LNAME" name="LNAME" type="text">
+        </div>
+        <div class="clear" id="mce-responses">
+        <div style="display: none;" id="mce-error-response" class="response"></div>
+        <div style="display: none;" id="mce-success-response" class="response"></div>
+        </div>
+        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+        <div aria-hidden="true" style="position: absolute; left: -5000px;"><input tabindex="-1" name="b_d48b83f803fafd5b84e82216f_31591be20b" type="text"></div>
+        <div class="clear"><input class="button" id="mc-embedded-subscribe" name="subscribe" value="Subscribe" type="submit"></div>
+        <p>*By signing up for the SilverTowne Email list and being an active member, you are automatically entered for the monthly drawing for a free ounce of SilverTowne Silver! Winners are notified via email/phone.</p>
+        </div>
+    </form>
+    </div>
+    <!--End mc_embed_signup-->
+    </li>
+</ul>
+</div>
+							<div class="clearfix"></div>
+						</div>
+						<div class="copyright-row">
+							<div class="copyright">
+								<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+<div class="godaddy floatleft">
+<span id="siteseal">
+<script async="" type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=vW0APRmoZNcNXcyZVYha0qMLT0xOvzaYtpqbaLkN0YR4bg6hXvXjN6AbbfcO"></script>
 </span>
-<span class="AboutStFtIn2Sp2">1-877-477-COIN (2646)</span>
-</span></div>
+<!-- McAfee Secure Trustmark for silvertowne.com -->
+<a href="https://www.mcafeesecure.com/verify?host=silvertowne.com" target="_blank"><img width="125" height="55" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" title="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" src="//cdn.ywxi.net/meter/silvertowne.com/101.gif" class="mfes-trustmark mfes-trustmark-hover" style="border-width: 0px; border-style: solid;"></a>
+<!-- End McAfee Secure Trustmark -->
 </div>
-<div class="floatleft" id="EmailandLogin">
-<div class="EmailandLoginD2 floatright">
-<span class="DlrRetFootr"><a target="_blank" href="http://silvertownedealers.com" class="floatleft">Dealer Login</a></span>
-<span class="DlrRetFootr"><a target="_blank" href="http://retail.silvertownedealers.com/" class="floatleft">Retail Indicators</a></span>
-</div>
-</div>
-</div>
-<div id="VisitFollow">
-<div class="floatleft">
-<span id="VisitFoot">Also Visit:
-<a target="_blank" href="http://www.silvertownemint.com/">The SilverTowne Mint</a>&nbsp;&nbsp;|&nbsp;
-<a target="_blank" href="http://www.silvertownefarms.com/">SilverTowne Farms</a>
-<!--<a href="https://s3.amazonaws.com/com.alexa.toolbar/atbp/GU7M4C/download/index.htm" target="_blank">Install the FREE SilverTowne Toolbar!</a>-->
-<!--<a style="margin-left: 60px;" href="/mobilego.aspx">View Mobile Site</a>-->
-</span>
-<span class="EmailandLoginD1 floatright">
-<a alt="Win Free Silver - Signup for SilverTowne Emails" title="Win Free Silver - Signup for SilverTowne Emails" target="_blank" href="http://eepurl.com/gyJhT" id="FtrEmail"></a>
-</span>
-</div>
-<div class="floatright" id="SocialIconsFoot"><!--<span>Follow us:</span>-->
-<a title="Like SilverTowne on Facebook" alt="Follow us on Facebook" class="Facebook_Icon_Link Social-All" target="_blank" href="http://www.facebook.com/silvertowne"></a>
-<a title="Follow SilverTowne on Twitter" alt="Follow SilverTowne on Twitter" class="Twitter_Icon_Link Social-All" target="_blank" href="http://www.twitter.com/silvertownelp"></a>
-<a title="Subscribe to SilverTowne's YouTube Channel" alt="Check SilverTowne Out on YouTube" class="YouTube_Icon_Link Social-All" target="_blank" href="http://www.youtube.com/SilverTowneLP"></a>
-<a title="Follow SilverTowne on Pinterest" alt="Follow SilverTowne on Pinterest" class="Pinterist_Icon_Link Social-All" target="_blank" href="http://pinterest.com/silvertowne/"></a>
-<a title="Follow SilverTowne on Google+" alt="Follow SilverTowne on Google+" class="Google_Icon_Link Social-All" target="_blank" style="text-decoration: none;" href="http://plus.google.com/105576009883309422941?prsrc=3"><img style="display: none; width: 16px; height: 16px; padding-top: 29px;" src="https://ssl.gstatic.com/images/icons/gplus-16.png" alt="Google Plus Logo"></a>
-<a title="Follow SilverTowne on LinkedIn" alt="Follow SilverTowne on LinkedIn" class="Linkedin_Icon_Link Social-All" target="_blank" href="http://www.linkedin.com/company/silvertowne-lp"></a>
-<a title="See SilverTowne Pictures at Flickr" alt="See SilverTowne Pictures at Flickr" class="Flickr_Icon_Link Social-All" target="_blank" href="http://www.flickr.com/photos/silvertowne"></a>
-<a title="Join SilverTowne on Tumblr" alt="Join SilverTowne on Tumblr" class="Tumblr_Icon_Link Social-All" target="_blank" href="http://silvertowne.tumblr.com/"></a>
-<a title="Follow SilverTowne on Instagram" alt="Follow SilverTowne on Instagram" class="Instagram_Icon_Link Social-All" target="_blank" href="http://instagram.com/silvertowne"></a>
-<!--<a href="http://itunes.apple.com/us/podcast/the-silvertowne-vault-cast/id554681496?mt=2&amp;ign-mpt=uo%3D4" target="_blank" class="Podcast_Icon_Link Social-All" alt="SilverTowne Vault Cast" title="SilverTowne Vault Cast"></a>-->
-<a title="SilverTowne Vault Blog" alt="SilverTowne Vault Blog" class="RSS_Icon_Link Social-All" target="_blank" href="http://www.silvertowne.com/x-rss.blog.aspx?sectionid=1&amp;storeid=1&amp;filterproduct=False"></a>
+<div class="SilverApp floatleft">
+<span>Download the Free Silver Now App Today!</span><br>
+<a href="https://itunes.apple.com/us/app/silver-now/id717303027?mt=8"><img alt="Apple App Download" id="AppApple" src="/images/Footer/AppleApp.jpg"></a>
+<a href="https://play.google.com/store/apps/details?id=com.silvertowne.silvernow"><img alt="Android App Download" id="AppAndroid" src="/images/Footer/AndroidApp.jpg"></a>
 </div>
 </div>
-<div id="Security">
-<div style="width: 300px; float: left;">
-<table width="135" cellspacing="0" cellpadding="2" border="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
-    <tbody>
-        <tr>
-            <td valign="top" align="center" style="width: 135px;">
-            <span id="siteseal">
-            <script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=vW0APRmoZNcNXcyZVYha0qMLT0xOvzaYtpqbaLkN0YR4bg6hXvXjN6AbbfcO"></script>
-            </span>
-            <br>
-            </td>
-            <td>
-            <!-- McAfee Secure Trustmark for silvertowne.com -->
-            <a target="_blank" href="https://www.mcafeesecure.com/verify?host=silvertowne.com"><img width="125" height="55" style="border-width: 0px; border-style: solid;" class="mfes-trustmark mfes-trustmark-hover" src="//cdn.ywxi.net/meter/silvertowne.com/101.gif" title="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
-            <!-- End McAfee Secure Trustmark -->
-            </td>
-        </tr>
-    </tbody>
-</table>
+<div class="visible-xs visible-sm clearboth"><br>
 </div>
-<div class="floatleft" id="MobileApp">
-<div class="MFootT">Download the Free Silver Now App Today!</div>
-<a href="https://itunes.apple.com/us/app/silver-now/id717303027?mt=8" class="floatleft"><img src="App_Themes/Skin_1/images/Footer/AppleApp.jpg" id="AppApple" alt="Apple App Download"></a>
-<a href="https://play.google.com/store/apps/details?id=com.silvertowne.silvernow" class="floatright"><img src="App_Themes/Skin_1/images/Footer/AndroidApp.jpg" id="AppAndroid" alt="Android App Download"></a>
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+<ul class="social floatright">
+    <li><a target="_blank" href="https://www.facebook.com/SilverTowne/"> <em class=" fa fa-facebook"> &nbsp; </em> </a></li>
+    <li><a target="_blank" href="https://www.instagram.com/silvertowne/"> <em class="fa fa-instagram"> &nbsp; </em> </a></li>
+    <li><a target="_blank" href="https://twitter.com/silvertownelp"> <em class="fa fa-twitter"> &nbsp; </em> </a></li>
+    <li><a target="_blank" href="https://www.youtube.com/user/SilverTowneLP"> <em class="fa fa-youtube"> &nbsp; </em> </a></li>
+    <li><a target="_blank" href="https://www.pinterest.com/silvertowne/"> <em class="fa fa-pinterest"> &nbsp; </em> </a></li>
+    <li><a target="_blank" href="https://plus.google.com/105576009883309422941"> <em class="fa fa-google-plus"> &nbsp; </em> </a></li>
+    <li><a target="_blank" href="https://www.linkedin.com/company/silvertowne-lp"> <em class="fa fa-linkedin"> &nbsp; </em> </a></li>
+    <li><a target="_blank" href="https://www.silvertowne.com/x-rss.blog.aspx?sectionid=1&amp;storeid=1&amp;filterproduct=False"> <em class="fa fa-rss"> &nbsp; </em> </a></li>
+</ul>
 </div>
-<div class="floatright">
-<div class="floatleft">
-<a title="SilverTowne Guarantee" alt="SilverTowne Guarantee" class="STGuarantee_Link floatleft" href="/t-Guarantee.aspx"></a>
 </div>
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 payment">
+<!-- (c) 2005, 2016. Authorize.Net is a registered trademark of CyberSource Corporation -->
 <div class="AuthorizeNetSeal floatleft">
 <script type="text/javascript" language="javascript">var ANS_customer_id="074970c1-bb43-418f-9be5-3bec992bd2bd";</script>
-<script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script>
-<a target="_blank" id="AuthorizeNetText" href="https://www.authorize.net/">Online Payments</a>
+<script type="text/javascript" language="javascript" src="https://verify.authorize.net/anetseal/seal.js"></script>
+<a target="_blank" id="AuthorizeNetText" href="https://www.authorize.net/">Accept Credit Cards Online</a>
 </div>
-<div class="floatleft" id="Payments">
-<div alt="We Proudly Accept Visa, Mastercard, Discover &amp; American Express" class="ProudlyAccept floatleft"></div>
-<div alt="We Proudly Accept Paypal" class="AcceptingPaypal floatleft"></div>
-<div class="AcceptingCheck floatleft" alt="We Proudly Accept Person Checks and Money Orders"></div>
-<div class="AcceptingWire floatleft" alt="We Proudly Accept Wire Transfers"></div>
+<div class="paymentMethodImg floatleft">
+<span>We Proudly Accept:</span><br>
+<img alt="Visa" src="/images/Footer/payment/visa_card.png">
+<img alt="Master Card" src="/images/Footer/payment/master_card.png">
+<img alt="Discover Network Card" src="/images/Footer/payment/discover_network_card.png">
+<img alt="American Express | AMEX" src="/images/Footer/payment/american_express_card.png">
+<img alt="PayPal" src="/images/Footer/payment/paypal.png">
+<img alt="Physical Check Payment" src="/images/Footer/payment/check.png">
+<img alt="Bank Wire Transfer" src="/images/Footer/payment/wire.png">
+</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 copyseal">
+<div class="floatright">
+<p>
+© 2016 SilverTowne. All Rights Reserved.
+</p>
+</div>
+<div class="floatright">
+<a href="/t-Guarantee.aspx" class="STGuarantee_Link floatleft" alt="SilverTowne Guarantee" title="SilverTowne Guarantee"><img alt="Satisfaction Guaranteed Seal" id="Satisfaction Guaranteed Seal" src="/images/Footer/guarantee.jpg"></a>
 </div>
 </div>
 </div>
-<div class="floatright" id="CopyWrite">
-<span>© 2016 SilverTowne, L.P. All rights reserved.&nbsp;&nbsp;<a href="t-privacy.aspx">Privacy Policy</a></span>
-</div><!-- END OF DB -->
-
-
+							</div>
+						</div>	
+						</div>				
+					</div>
+				</div>
 			</div>
+		</div>
+	</main>	
+	<a title="Back To Top" href="#0" class="cd-top">Top</a>	
+            <!-- Minicart modal -->
+            <div class="minicart-wrap">
+    <div id="minicart-modal" class="modal  minicart-modal" data-keyboard="true" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <i class="fa fa-times-circle-o"></i>
+                    </button>
+                    <h4 class="minicart-title modal-title">
+                        <i class="fa fa-check" aria-hidden="true"></i> YOUR CART:
+						<span class="minicart-title-count js-cart-title-count">0</span>
+                        <span class="minicart-items-label js-cart-count-label">
+Items                        </span>
+                    </h4>
+                </div>
+                <div class="modal-body">
+                    <div class="minicart-content-wrap">
+                        <div class="minicart-message-area js-minicart-message-area">
+                            
+                        </div>
+                        <div class="minicart-contents js-minicart-contents">
+                            	<div class="empty-mini-cart-text">
+        <div id="EmptyCartPete"><a href="/"><img class="img-responsive" src="/skins/skin_1/CustomImages/PeteShoppingCart.jpg" alt="Let's Go Shopping!" title="Let's Go Shopping!"></a></div>
+    </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer minicart-footer">
+                    <div class="row">
+                        <div class="col-sm-12 text-left-sm">
+                            <div class="minicart-discount off">
+                                Discounts:
+								<span class="minicart-discount js-minicart-discount"></span>
+                            </div>
+						</div>
+                        <div class="col-sm-2 text-left-sm">						
+							<div class="minicart-total-wrap">
+								<div>
+									<div>SUBTOTAL</div>
+								</div>
+							</div>
+                        </div>
+						<div class="visible-xs"><br></div>
+                        <div class="col-sm-5">						
+							<div class="minicart-total-wrap">
+								<div>
+									<div><span class="ch-wr-sp">Check/Wire Payment:</span><br><span class="minicart-total js-minicart-wiretotal">$0.00</span></div>
+								</div>
+							</div>
+                        </div>
+						<div class="visible-xs"><br></div>						
+                        <div class="col-sm-5">						
+							<div class="minicart-total-wrap">
+								<div>
+									<div><span class="ch-wr-sp">CC/PayPal Payment:</span><br><span class="minicart-total js-minicart-total">$0.00</span></div>
+								</div>
+							</div>
+                        </div>						
+					</div>
+					<div class="row">	
+						<div class="col-xs-12 mini-note">
+							<span>You will choose your payment method at checkout which will reflect your pricing accordingly.</span>
+						</div>	
+					</div>						
+					<!--<div class="row">
+					    <div class="col-sm-12">
+						</div>
+					</div>-->					
+					<div class="row">
+						<div class="col-xs-12 col-sm-6">
+						</div>							
+                        <div class="col-xs-12 col-sm-6">
+                            <button type="button" id="minicart-close-button" class="btn btn-default close-minicart-button">Continue Shopping</button>
+                            <button type="button" id="minicart-checkout-button" class="btn btn-primary minicart-checkout-button"><i class="fa fa-check-square-o" aria-hidden="true"></i>Checkout</button>
+                        </div>
+                    </div>		
+					<div class="row">
+						<div class="col-sm-12">
+							<img src="images/stbanners/headerbanner/over99shipfree_cartbanner.jpg" class="img-responsive cart99" alt="Orders over $99 Ship FREE Inside the Domestic US" title="Orders over $99 Ship FREE Inside the Domestic US">
+						</div>
+					</div>					
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+            <!-- Miniwish modal -->
+            
+
+            <!-- Minicart and miniwish resources (javascript and overlay html) -->
+            	<div class="minicart-loading-overlay js-minicart-loading-overlay off">
+		<div class="minicart-overlay"></div>
+		<div class="minicart-loading">
+			<div class="minicart-loading-message js-minicart-loading-message">Loading...</div>
+			<div class="loading-animation loading-style-dark"></div>
+		</div>
 	</div>
-	</form>
-	<div style="display:none;" class="addCartDialog">Thank You!<br>This product has been added to your cart.</div>
+	<script type="text/javascript" src="/scripts/minicart.min.js"></script>
+	<script type="text/javascript">
+		adnsf$.minicart.initialize(
+		{
+			minicart_DeleteWaitMessage: "Deleting...",
+			miniwish_MoveSingleMessage: "Moving item to cart.",
+			miniwish_MoveAllMessage: "Moving all items to cart.",
+			minicart_UpdateFailureMessage: "Sorry, there was an error updating your cart.",
+			miniwish_UpdateFailureMessage: "Sorry, there was an error updating your wishlist.",
+			minicart_CountLabel: "Items",
+			minicart_CountLabelSingular: "Item",
+			checkoutUrl: "/shoppingcart.aspx",
+			loginUrl: "/signin.aspx"
+		});
+		adnsf$.minicart.cartEnabled = true;
+		adnsf$.minicart.wishEnabled = false;
+		adnsf$.minicart.onCheckoutPage = false;
+	</script>
+
+            <div class="live-chat-wrapper">
+                <div class="live-chat">
+                    
+	<div class="live-chat-wrapper">
+		<div class="live-chat">
+		</div>
+	</div>
+	
+                </div>
+            </div>
+            
+
+<!--Xmlpackage 'skin.trustedstores' -->
+
+<!--End of xmlpackage 'skin.trustedstores' -->
+
+
 <script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-6397213-1");
-pageTracker._initData();
-pageTracker._trackPageview();
+	window.postalCodeRegexConfiguration = {
+		postalCodeRegexMapUrl: "/country/postalcoderegexmap",
+	};
 </script>
 
-		<!-- Google Code for SilverTowne site visitors Remarketing List -->
-		<script type="text/javascript">
-		/* <![CDATA[ */
-		var google_conversion_id = 958705853;
-		var google_conversion_language = "en";
-		var google_conversion_format = "3";
-		var google_conversion_color = "ffffff";
-		var google_conversion_label = "w4lUCOPd6wMQveGSyQM";
-		var google_conversion_value = 0;
-		/* ]]> */
-		</script>
-		<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
-		</script>
-		<noscript>
-		<div style="display:inline;">
-		<img height="1" width="1" style="border-style:none;" alt="Google Ad Services" src="http://www.googleadservices.com/pagead/conversion/958705853/?label=w4lUCOPd6wMQveGSyQM&amp;guid=ON&amp;script=0"/>
-		</div>
-		</noscript>
-	<!-- Google Code for SilverTowne site visitors Remarketing List END -->
-	<!-- Start Quantcast Tag -->
-	<script type="text/javascript"> 
-		var _qevents = _qevents || [];
 
-		(function() {
-		var elem = document.createElement('script');
-		elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-		elem.async = true;
-		elem.type = "text/javascript";
-		var scpt = document.getElementsByTagName('script')[0];
-		scpt.parentNode.insertBefore(elem, scpt);
-		})();
+<script src="/scripts/bundled904596821e90a849be453b4fed363f87?v=iFUl_Tc2mI4uoTQ0tTBWBgncfXDQ4X_DRd4gkCl5kjg1"></script>
 
-		_qevents.push(
-		{qacct:"p-DjY8aAMDUQXJQ",labels:"_fp.event.homepage"}
-		);
-	</script>
-	<script>
-		$('[id*="fediv_price_"]').addClass('tooltip');
-		$('[id*="rediv_price_"]').addClass('tooltip');
-	</script>	
-	<noscript>
-		<img src="//pixel.quantserve.com/pixel/p-DjY8aAMDUQXJQ.gif?labels=_fp.event.homepage" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-	</noscript>
-	<!-- End Quantcast tag -->
-	
+<script src="//cdnjs.cloudflare.com/ajax/libs/picturefill/2.3.1/picturefill.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+	adnsf$.initializeAddToCartForms(
+	{
+		ajaxAddToCartUrl: "/minicart/ajaxaddtocart",
+		ajaxAddKitToCartUrl: "/minicart/ajaxaddkittocart",
+		addToCartMessage: "Adding to cart",
+		addToWishMessage: "Adding to wishlist",
+		invalidQuatityMessage: "Please enter a valid quantity",
+		addToCartFailureMessage: "Your item was not added to the cart because of an error",
+		addToWishFailureMessage: "Your item was not added to the wishlist because of an error",
+		checkoutUrl: "/shoppingcart.aspx",
+		loginUrl: "/signin.aspx"
+	});
+
+	adnsf$.validator.unobtrusive.adapters.addSingleVal('min', 'val');
+</script>
+
+
+<!--Xmlpackage 'script.bodyclose' -->
+<script>
+						(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+						(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+						m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+						})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+						ga('create', 'UA-6397213-1', 'www.silvertowne.com');
+						
+						ga('send', 'pageview');
+					</script><script type="text/javascript">
+					$('input[name=searchterm]').keyup(function () { tSearch(this, '/'); });
+				</script>
+<!--End of xmlpackage 'script.bodyclose' -->
+            <!--Xmlpackage 'promo-window' -->
+
+<!--End of xmlpackage 'promo-window' -->
+    <script type="text/javascript">
+        //**Pikabu
+        $(document).ready(function () {
+            var pikabu = new Pikabu({
+                widths: {
+                    left: '80%',
+                    right: '80%'
+                }
+            });
+        });
+    </script>
+    <script>
+    $(document).ready(function() {
+
+      $("#owl-demo").owlCarousel({
+        items : 4,
+        lazyLoad : true,
+		navigation:true,
+		afterInit : function(elem){
+		var that = this
+		that.owlControls.prependTo(elem)
+		}
+      });
+	  
+    var owl = $(".brand-carousel");
+
+    owl.owlCarousel({
+        //navigation : true, // Show next and prev buttons
+        navigation: false,
+        pagination: false,
+        items: 8,
+        itemsTablet: [768, 4],
+        itemsMobile: [400, 2]
+
+
+    });	  
+    // Custom Navigation Events
+    $("#nextBrand").click(function () {
+        owl.trigger('owl.next');
+    })
+    $("#prevBrand").click(function () {
+        owl.trigger('owl.prev');
+    })	
+
+    });
+    </script>	
+		<script type="text/javascript" language="javascript">
+			$(function() {
+				$('.grid-item-name-wrap').dotdotdot();
+
+			});
+		</script>	
+<!-- Google Code for Remarketing Tag -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 958705853;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/958705853/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+<!-- END Google Code for Remarketing Tag -->
+</noscript>
+		
 
 
 </body></html>
