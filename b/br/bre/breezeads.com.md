@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the breezeads.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614204830id_/http%3A//www.breezeads.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breezeads.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126055817id_/http%3A//www.breezeads.com/privacy.html) for the most accurate reproduction.*
 
-# BreezeAds.com - Privacy Policy
+# Privacy Policy - BreezeAds.com
 
 We can be reached via e-mail at Admin(at)BreezeAds.com. For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name but not the e-mail address (where possible).
 
