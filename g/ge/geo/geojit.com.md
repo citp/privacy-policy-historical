@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the geojit.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102123849id_/http%3A//geojitbnpparibas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geojit.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126080707id_/http%3A//www.geojitbnpparibas.com/privacy-policy) for the most accurate reproduction.*
 
-# Best online share trading site, Equity Derivatives, Share broking company.
+# 
 
-## 1. INTRODUCTION
+##  1. INTRODUCTION
 
 We at Geojit BNP Paribas Financial Services Ltd and its affiliates (hereinafter referred to as ‘Geojit BNP Paribas’) are committed to protect our customers’ personal information and/or sensitive personal data and strive to maintain the privacy of your personal information. We have created this Privacy Policy to help you understand how we collect, use and protect your information when you visit our web and WAP sites and use our products and services. 
 
@@ -11,7 +11,7 @@ For the purpose of this Policy, “Personal information” is any information th
   
 
 
-## 2. COLLECTION OF PERSONAL INFORMATION
+##  2. COLLECTION OF PERSONAL INFORMATION
 
 Geojit BNP Paribas may collect and hold personal information relating to you and your identity that you have provided to us, such as on an application or Know Your Client (KYC) and member-client forms. We may also collect your personal information when you use our services or websites or otherwise interact with us during the course of our relationship. 
 
@@ -20,7 +20,7 @@ Personal information collected and held by us may include, amongst other things,
   
 
 
-## 3. PURPOSE & USAGE OF PERSONAL INFORMATION
+##  3. PURPOSE & USAGE OF PERSONAL INFORMATION
 
 Geojit BNP Paribas does use your personal information for a variety of regulatory and business purposes. These include, but are not limited to: 
 
@@ -29,7 +29,7 @@ In case you do not provide your information or consent for usage of personal inf
   
 
 
-## 4. DISCLOSURE AND TRANSFER OF PERSONAL INFORMATION
+##  4. DISCLOSURE AND TRANSFER OF PERSONAL INFORMATION
 
 There may be certain circumstances, when Geojit BNP Paribas may be required to share the information given by you with the third parties. We may transfer your personal information or sensitive personal information collected, stored, processed by us to any other entity or organization located in India or outside India only in case it is necessary for providing services to you or for assisting in protecting the operation of Geojit BNP Paribas networks and systems or if you have consented (at the time of collection of information) to the same. 
 
@@ -40,7 +40,7 @@ We will also impart your personal information wherever it is required to be disc
   
 
 
-## 5. SECURITY PRACTICES AND PROCEDURES
+##  5. SECURITY PRACTICES AND PROCEDURES
 
 Geojit BNP Paribas adopt reasonable security practices and procedures to protect your personal information from unauthorized access, or disclosure while it is under our control. Our security practices and procedures limit access to personal information on need-only basis. Further, our employees are bound by Internal Code of Conduct and Confidentiality Policies which obligate them to protect the confidentiality of personal information. 
 
@@ -55,18 +55,18 @@ Please note that Geojit BNP Paribas website may contain links to third party lin
   
 
 
-## 6. GRIEVANCE REDRESSAL (ONLY PERSONAL INFORMATION RELATED AND NOT RELATED TO TRADING ACTIVITIES)
+##  6. GRIEVANCE REDRESSAL (ONLY PERSONAL INFORMATION RELATED AND NOT RELATED TO TRADING ACTIVITIES) 
 
-We are committed to safeguard your personal information collected and handled by us and look forward to your continued support for the same. In case of any feedback or concern regarding protection of your personal information, you can contact us at mathew_pv@geojit.com. Alternatively, you may also direct your privacy-related feedback or concerns to the Privacy Grievance Officer whose details are as mentioned below: 
+We are committed to safeguard your personal information collected and handled by us and look forward to your continued support for the same. In case of any feedback or concern regarding protection of your personal information, you can contact us at jojy@geojit.com. Alternatively, you may also direct your privacy-related feedback or concerns to the Privacy Grievance Officer whose details are as mentioned below: 
 
-  * **Name:** Mathew P.V
-  * **Designation:** Territory Information Security Officer
-  * **Details:**[mathew_pv@geojit.com](mailto:mathew_pv@geojit.com)
-  * **Contact no:** 0484-2405501
+  * **Name:** Jojy Joy 
+  * **Designation:** General Manager, Information Systems Security 
+  * **Email:**[ jojy@geojit.com ](mailto:%20jojy@geojit.com)
+  * **Contact no:** 0484-2901000
 
   
 
 
-## 7. CHANGES TO THIS PRIVACY POLICY
+##  7. CHANGES TO THIS PRIVACY POLICY
 
 Geojit BNP Paribas reserves the right to amend or modify this Privacy Policy at any time, as and when the need arises. We request you to visit our website www.geojitbnpparibas.com periodically for contemporary information and changes. 
