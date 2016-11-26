@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fizzdot.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622214311id_/http%3A//www.fizzdot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fizzdot.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126153652id_/http%3A//www.fizzdot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | fizzdot.com
 
@@ -44,10 +44,10 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
   * You may learn about our advertizing partners here: 
     * [Google AdSense](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCgQFjAA&url=http%3A%2F%2Fwww.google.com%2Fadsense%2Fstart%2F&ei=HLRDVYuDAZHmaIWwgcgJ&usg=AFQjCNFbD4977pRyFbOtH_EiEZ8ai7TWNg&bvm=bv.92189499,d.d2s)
-    * [content.ad](https://web.archive.org/web/20160622214311id_/http%3A//www.fizzdot.com/content.ad)
-    * [Taboola](https://web.archive.org/web/20160622214311id_/http%3A//www.fizzdot.com/taboola.com)
-    * [Kiosked](https://web.archive.org/web/20160622214311id_/http%3A//www.fizzdot.com/kiosked.com)
-    * [infolinks](https://web.archive.org/web/20160622214311id_/http%3A//www.fizzdot.com/infolinks.com)
+    * [content.ad](https://web.archive.org/web/20161126153652id_/http://www.fizzdot.com/privacy-policy/content.ad)
+    * [Taboola](https://web.archive.org/web/20161126153652id_/http://www.fizzdot.com/privacy-policy/taboola.com)
+    * [Kiosked](https://web.archive.org/web/20161126153652id_/http://www.fizzdot.com/privacy-policy/kiosked.com)
+    * [infolinks](https://web.archive.org/web/20161126153652id_/http://www.fizzdot.com/privacy-policy/infolinks.com)
 
 
   * You may opt out of these third-party vendors’ use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/).
