@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chatrandom.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605202831id_/http%3A//chatrandom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatrandom.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126022547id_/http%3A//chatrandom.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - ChatRandom.com
+# Privacy Policy - Chatrandom
 
 **PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY AND THE TERMS OF USE AGREEMENT ON THIS WEBSITE. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE DO NOT USE THIS WEBSITE. YOU SHOULD CHECK THIS POLICY REGULARLY TO SEE IF ANY CHANGES HAVE BEEN MADE.**
 
@@ -42,7 +42,7 @@ Webcam images may be captured from Chatrandom video chats, uploaded to Chatrando
 
 The records Chatrandom keeps about your chats may be shared with third parties for the purpose of law enforcement; to monitor and enforce compliance with Chatrandom's terms of service; or to improve Chatrandom's monitoring and enforcement processes.
 
-Chatrandom uses Google Analytics to track non-personally-identifying statistical information about site usage. Google provides a [browser add-on to opt out of Google Analytics](http://tools.google.com/dlpage/gaoptout?hl=en).
+Chatrandom uses Google Analytics to track non-personally-identifying statistical information about site usage. Google provides a [browser add-on to opt out of Google Analytics](https://tools.google.com/dlpage/gaoptout?hl=en).
 
 4.How You Can Access or Change Your Information
 
@@ -80,7 +80,7 @@ You agree to comply with all local laws, rules and regulations regarding online 
 
 9.Children.
 
-This Site is directed to persons 18 years of age or older (or for jurisdictions in which 18 years old is not the age of majority, at least the age of majority for such jurisdiction). This Site and ChatRandom do not knowingly collect Personal Information from persons under age 18 (or for jurisdictions in which 18 years old is not the age of majority, at least the age of majority for such jurisdiction) or children under age 13. Any person who provides their information to ChatRandom through the Site or any other part of the Site represents to ChatRandom that they are 18 years of age or older (or for jurisdictions in which 18 years old is not the age of majority, at least the age of majority for your jurisdiction). If you are under the age of 18 (or for jurisdictions in which 18 years old is not the age of majority, under the age of majority for your jurisdiction) you may not use, view, or access this Site and you must leave this Web site immediately by clicking [here](http://yahoo.com/). If you are under age 13, you are not permitted to use this Site or to submit any Personal Information to the Site and you must leave this Web site immediately by clicking [here](http://yahoo.com/).
+This Site is directed to persons 18 years of age or older (or for jurisdictions in which 18 years old is not the age of majority, at least the age of majority for such jurisdiction). This Site and ChatRandom do not knowingly collect Personal Information from persons under age 18 (or for jurisdictions in which 18 years old is not the age of majority, at least the age of majority for such jurisdiction) or children under age 13. Any person who provides their information to ChatRandom through the Site or any other part of the Site represents to ChatRandom that they are 18 years of age or older (or for jurisdictions in which 18 years old is not the age of majority, at least the age of majority for your jurisdiction). If you are under the age of 18 (or for jurisdictions in which 18 years old is not the age of majority, under the age of majority for your jurisdiction) you may not use, view, or access this Site and you must leave this Web site immediately by clicking [here](https://www.yahoo.com/). If you are under age 13, you are not permitted to use this Site or to submit any Personal Information to the Site and you must leave this Web site immediately by clicking [here](https://www.yahoo.com/).
 
 10.Your Consent To This Privacy Policy and Updates.
 
