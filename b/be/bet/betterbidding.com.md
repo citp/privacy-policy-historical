@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterbidding.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612033032id_/http%3A//www.betterbidding.com/index.php%3Fapp%3Dccs%26module%3Dpages%26section%3Dpages%26id%3D47) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterbidding.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126111233id_/http%3A//www.betterbidding.com/index.php%3Fapp%3Dccs%26module%3Dpages%26section%3Dpages%26id%3D47) for the most accurate reproduction.*
 
 # Privacy Policy - Priceline and Hotwire Hotels, Bidding Help, Hotel Lists, Forum
 
