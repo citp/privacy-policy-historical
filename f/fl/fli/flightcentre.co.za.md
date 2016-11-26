@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flightcentre.co.za privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420010157id_/http%3A//www.flightcentre.co.za/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightcentre.co.za privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126063552id_/http%3A//www.flightcentre.co.za/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Flight Centre
+# Privacy Policy | Flight Centre South Africa
 
 This Privacy Policy ("Policy") explains in general terms how Flight Centre (South Africa) (Pty) Ltd (Reg No 1994/000253/07) and its subsidiaries, related bodies corporate and franchisees, including but not limited to Flight Centre, Student Flights, Travel Associates and Discount Cruises (collectively referred to in this document as "Flight Centre”, "we" "our" or "us") protects the privacy of your personal information.  We are firmly committed to protecting the privacy and confidentiality of personal information and maintain various physical, electronic and procedural safeguards to protect personal information in our care. 
 
@@ -10,7 +10,7 @@ In this Policy, where we say “disclose”, this includes to transfer, share, s
 
 ### What is personal information?
 
-Personal information is information which relates to a living individual who can be identified from that information, or from that information and other information in a person’s possession, including any expression of opinion, whether true or not, and whether recorded in material form or not, about an identified or reasonably identified individual, and any indication of intention in respect of an individual. 
+Personal information is information which relates to a living individual who can be identified from that information, or from that information and other information in a person’s possession, including any expression of opinion, whether true or not, and whether recorded in material form or not, about an identified or reasonably identified individual, and any indication of intention in respect of an individual.
 
 ### How do we collect personal information?
 
@@ -20,9 +20,9 @@ In some circumstances, it may be necessary for us to collect personal informatio
 
 ### What personal information do we collect?
 
-Generally, the type of personal information we collect about you is the information that is needed to facilitate your travel arrangements and bookings and to arrange travel-related services and products on your behalf. For example, we may collect details such as your name, residential address, mailing address, telephone number, email address, credit/debit card details (including card type, card number, security number and expiry date), passport details, frequent flyer details, and information about your dietary requirements and other details relevant to your travel arrangements or required by the relevant travel service providers (e.g. airlines, accommodation or tour providers). When you make contact with us for other purposes, we may also collect personal information about you in relation to those purposes.  For example, we may collect your personal information so we can contact you about a competition you have entered (e.g. if you win) or to respond to an enquiry or feedback form you have sent to us. We also collect information that is required for use in the business activities of Flight Centre and our related entities, including for example, financial details necessary in order to process various transactions, and any other relevant personal information you may elect to provide to us. 
+Generally, the type of personal information we collect about you is the information that is needed to facilitate your travel arrangements and bookings and to arrange travel-related services and products on your behalf. For example, we may collect details such as your name, residential address, mailing address, telephone number, email address, credit/debit card details (including card type, card number, security number and expiry date), passport details, frequent flyer details, and information about your dietary requirements and other details relevant to your travel arrangements or required by the relevant travel service providers (e.g. airlines, accommodation or tour providers). When you make contact with us for other purposes, we may also collect personal information about you in relation to those purposes.  For example, we may collect your personal information so we can contact you about a competition you have entered (e.g. if you win) or to respond to an enquiry or feedback form you have sent to us. We also collect information that is required for use in the business activities of Flight Centre and our related entities, including for example, financial details necessary in order to process various transactions, and any other relevant personal information you may elect to provide to us.
 
-We will not, in any circumstance collect personal information from you pertaining to your religious or philosophical beliefs, race or ethnic origin, trade union membership, political opinions, health or criminal behavior. 
+We will not, in any circumstance collect personal information from you pertaining to your religious or philosophical beliefs, race or ethnic origin, trade union membership, political opinions, health or criminal behavior.
 
 ### When we act as agent
 
@@ -32,7 +32,7 @@ We act as agent for or on behalf of many thousands of travel service providers, 
 
 ### How do we use personal information?
 
-Where you contact us in relation to a travel booking or query, the primary purpose for which we collect your personal information is generally to provide you with travel advice and/or to assist you with booking travel and/or travel related products and services. However, the purpose for collection may differ depending on the particular circumstances as disclosed in this Policy. 
+Where you contact us in relation to a travel booking or query, the primary purpose for which we collect your personal information is generally to provide you with travel advice and/or to assist you with booking travel and/or travel related products and services. However, the purpose for collection may differ depending on the particular circumstances as disclosed in this Policy.
 
 By providing us, or otherwise allowing us to collect, your personal information, you consent to us using and disclosing your personal information for the purposes for which it was collected, and for related or ancillary purposes, such as any one or more of the following purposes:
 
@@ -43,7 +43,7 @@ By providing us, or otherwise allowing us to collect, your personal information,
   * involving you in market research, gauging customer satisfaction and seeking feedback regarding our relationship with you;    
   * to facilitate your participation in loyalty programs;    
   * to analyse trends in sales and travel destinations;    
-  * for marketing activities including but not limited to mail-outs, emails, e-newsletters, SMS notifications and telephone calls; 
+  * for marketing activities including but not limited to mail-outs, emails, e-newsletters, SMS notifications and telephone calls;
   * internal accounting and administration; and
   * other purposes as permitted or required by law (e.g. to prevent a threat to life, health or safety).  
 
@@ -59,7 +59,7 @@ Yes.  You also consent to the personal information about you which we collect o
   * in each of the circumstances set out in the previous section “How do we use personal information?”;
   * as permitted or required by law;
   * to various regulatory bodies and law enforcement officials and agencies, including to protect against fraud and for related security purposes;
-  * to third party suppliers of IT based solutions that assist us in providing products and services to you; 
+  * to third party suppliers of IT based solutions that assist us in providing products and services to you;
   * to our related entities and brands (including companies based overseas);
   * to travel service providers such as travel wholesalers, tour operators, airlines, hotels, car rental companies and other service providers for the purpose for which the information was collected or for a related purpose (for example to facilitate and process your travel arrangements);
   * to comply with our legal obligations and any applicable customs/immigration requirements relating to your travel;
@@ -71,7 +71,7 @@ Yes.  You also consent to the personal information about you which we collect o
 
 
 The third parties to whom we disclose your personal information may also be taken to have collected your personal information in their own right, for their internal use. For more information in relation to collection by travel service providers, see the heading above titled "When we act as agent".  
-Where we engage travel service providers to perform services for us, those travel service providers may be required to handle your personal information. Where we disclose your personal information to such travel service providers, you agree that we will not be required to ensure their compliance with applicable privacy laws or otherwise be liable or accountable for how they handle your personal information. 
+Where we engage travel service providers to perform services for us, those travel service providers may be required to handle your personal information. Where we disclose your personal information to such travel service providers, you agree that we will not be required to ensure their compliance with applicable privacy laws or otherwise be liable or accountable for how they handle your personal information.
 
 Other than the above, we will not disclose your personal information without your consent unless we reasonably believe that disclosure is necessary to lessen or prevent a threat to life, health or safety or for certain action to be undertaken by an enforcement body (e.g. prevention, detection, investigation, prosecution or punishment of criminal offences), disclosure is authorised or required by law or disclosure is otherwise permitted by applicable privacy laws.
 
@@ -83,7 +83,7 @@ When you provide, or otherwise allow us to collect, your personal information, y
 
 In providing our services to you, it may be necessary for us to disclose personal information to relevant overseas travel service providers.  For instance, where you request travel to be booked with an overseas travel service provider, we will usually need to disclose your personal information to that provider for the purposes of arranging your booking with them.  These travel service providers will in most cases receive your personal information in the country in which they will provide the services to you or in which their business is based.  
 
-We may also disclose your personal information to our overseas related entities and to travel service providers and other third parties who perform services for us overseas.  Generally, we will only disclose your personal information to these overseas recipients in connection with facilitation of your travel booking and/or to enable the performance of administrative and technical services by them on our behalf. 
+We may also disclose your personal information to our overseas related entities and to travel service providers and other third parties who perform services for us overseas.  Generally, we will only disclose your personal information to these overseas recipients in connection with facilitation of your travel booking and/or to enable the performance of administrative and technical services by them on our behalf.
 
 We deal with many different service providers all over the world, so it is not possible for us to set out in this Policy all of the different countries to which we may send your personal information.  However, if you have any specific questions about where or to whom your personal information will be sent, please refer to the “Feedback / Complaints / Contact” section below. 
 
@@ -101,43 +101,43 @@ You must always provide accurate information and you agree to update it whenever
 
 ### Opt-out
 
-Should you no longer wish to receive e-newsletters or other promotional material, participate in market research or receive other types of communication from us, please refer to the “Feedback / Complaints / Contact” section below. 
+Should you no longer wish to receive e-newsletters or other promotional material, participate in market research or receive other types of communication from us, please refer to the “Feedback / Complaints / Contact” section below.
 
 ### Tracking Technologies / Cookies
 
-_Cookies_
+ _Cookies_
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes.    We may link the information we store in cookies to any personal information you submit while on our website.  Cookies save data about individual visitors to the website, such as the visitor's name, password, username, screen preferences, the pages of a site viewed by the visitor, and the advertisements viewed or clicked by the visitor.  At Flight Centre we use cookies to identify a visitor’s browser, to anonymously track visits or to enhance the experience of the website. 
 
-We use both session ID cookies and persistent cookies.  A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time.  When the visitor revisits the website, we may recognize the visitor by the cookie and customise the visitor's experience accordingly.  You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. 
+We use both session ID cookies and persistent cookies.  A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time.  When the visitor revisits the website, we may recognize the visitor by the cookie and customise the visitor's experience accordingly.  You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
 
-If you reject cookies, you may still have access to our website, but your ability to use some areas of our website, such as contests or surveys, will be limited. 
+If you reject cookies, you may still have access to our website, but your ability to use some areas of our website, such as contests or surveys, will be limited.
 
-_Google Analytics_
+ _Google Analytics_
 
 When you visit certain sections of the website, Google Analytics, a website analytics service provided by Google, Inc (“Google”), will place cookies on your computer’s browser.  The information generated by the cookies about your use of the website is transmitted to Google.  This information is then used for the purpose of compiling statistical reports to enable us to measure and analyse the number of visits to the site and its pages, the average time spent on the site and the pages viewed.  We will not (and will not allow any third party to) use Google Analytics to track or to collect any personal data of visitors to our website.  We will not associate any data gathered via use of cookies with any personal data from any source as part of our use of Google Analytics.  For further information about Google Analytics please visit [www.google.com/analytics](http://www.google.com/analytics) and for details of Google Analytics’ Privacy Policy, please visit <http://www.google.com/intl/en)ALL/privacypolicy.html>
 
 _._
 
-You may choose to opt-out of Google Analytics using the Google Analytics Opt-out Browser Add-on which you may access at <https://tools.google.com/dlpage/gaoptout/>. 
+You may choose to opt-out of Google Analytics using the Google Analytics Opt-out Browser Add-on which you may access at <https://tools.google.com/dlpage/gaoptout/>.
 
-_Web Beacons / Gifs_
+ _Web Beacons / Gifs_
 
-We employ a software technology called clear gifs (a.k.a. Web Beacons), that help us better manage content on our website by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personal identifiable information. 
+We employ a software technology called clear gifs (a.k.a. Web Beacons), that help us better manage content on our website by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personal identifiable information.
 
-_3rd Party Tracking_
+ _3rd Party Tracking_
 
 The use of cookies by our partners, affiliates, tracking utility company or service providers is not covered by our Privacy Policy.  We do not have access or control over these cookies.  Our Third Party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our website. We do not tie the information gathered to our customers’ or users’ personal identifiable information.
 
-_Behavioural Targeting / Re-Targeting_
+ _Behavioural Targeting / Re-Targeting_
 
-We partner with Third Party ad networks to either display advertising on Our Site or to manage Our advertising on other sites.  Our ad network partners use cookies, Web beacons and other technologies to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here ](http://preferences.truste.com/) and <[Here ](http://www.networkadvertising.org/managing/opt_out.asp) .  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads or targeted ads where third parties do not honour opt-out capabilities. 
+We partner with Third Party ad networks to either display advertising on Our Site or to manage Our advertising on other sites.  Our ad network partners use cookies, Web beacons and other technologies to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here ](http://preferences.truste.com/) and <[Here ](http://www.networkadvertising.org/managing/opt_out.asp) .  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads or targeted ads where third parties do not honour opt-out capabilities.
 
 ### Linked Sites
 
-Our website may contain links to third party sites over which we have no control. We are not responsible for the privacy practices or the content of such web sites. We encourage you to read the privacy policies of any linked sites you visit as their privacy policy and practices may differ from ours. 
+Our website may contain links to third party sites over which we have no control. We are not responsible for the privacy practices or the content of such web sites. We encourage you to read the privacy policies of any linked sites you visit as their privacy policy and practices may differ from ours.
 
-### Feedback / Complaints / Contact 
+### Feedback / Complaints / Contact
 
 If you have any enquiries, comments or complaints about this Policy or our handling of your personal information, please contact your consultant or email us [customer.relations@flightcentre.co.za](mailto:customer.relations@flightcentre.co.za).  We will respond to any complaints received as soon as practicable. 
 
