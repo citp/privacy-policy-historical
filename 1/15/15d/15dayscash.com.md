@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 15dayscash.com privacy policy that was archived on 2016-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160113233002id_/http%3A//15dayscash.com/index.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 15dayscash.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127002934id_/http%3A//15dayscash.com/index.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Affiliate Programs Network - Privacy Policy
 
