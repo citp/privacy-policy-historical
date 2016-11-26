@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celeb6free.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525191221id_/http%3A//www.celebmatrix.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celeb6free.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126174051id_/http%3A//www.celebmatrix.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Matrix Cash LTD
 
