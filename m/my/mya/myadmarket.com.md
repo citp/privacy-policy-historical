@@ -1,40 +1,47 @@
-> *The following text is extracted and transformed from the myadmarket.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145245id_/http%3A//www.myadmarket.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myadmarket.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126070850id_/http%3A//www.myadmarket.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | MyAdMarket - White Label Contextual Display & XML Ad Serving System for Advertisers, Agencies, Publishers and Networks. | MyAdMarket
+# Ad Serving Platform – MyAdMarket.com
 
-At MyAdMarket.com, we are committed to protecting your privacy. Any information we collect, such as email addresses, is submitted at the visitor’s will. We do not and will not share any personal information with any third parties unless by governmental order.
+### Personal Information
 
-#### Cookies
+At YesUp, we are committed to protecting your privacy. Any information we collect, such as email addresses, is submitted at the visitors’ will. We do not and will not share any personal information with any third parties unless by governmental order. Other information is collected by our Payment Services provider but we have no access to this information. You may direct further inquiries to the Payment Services provider here:
 
-All browsers offer “cookies” and if you permit their use, they will store small amounts of data on your computer about your visit to the site that placed the cookie. A cookie is a small text file. It is not a program, or a plug-in. It could not be used as a virus, and it cannot access your hard drive. Cookies simply assist in tracking which features you like the most and allow content to be customized upon your return, according to prior preferences at that site. They would not gather or hold any personal information.
+PayPal.com:http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside
 
-At MyAdMarket.com, We may use cookies to:
+### Cookies
 
-Store your password so you don’t have to re-enter it each time you visit our sites.
-We will not use cookies to identify, monitor or track any personally identifiable information.
-Our cookies do not contain any personally identifiable information about you.
-We do not merge or associate our cookie information with any other visitor’s confidential identifiable data obtained by us or from the 3rd parties.
+Your browser offers so-called “cookies”, which – if you allow their use – store small amounts of data on your computer about your visit to any of our sites. Cookies assist us in tracking which of our features you like best. And when you re-visit our sites, cookies can enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally.
 
-You also have flexible choices in respect to cookies. By simply modifying your browser preferences, you have the right to choose whether:
+### We may use cookies to:
 
-To accept all cookies,
-To be notified when a cookie is set,
-To reject all cookies. For more information on how to modify your browser settings in order to block or filter cookies, please visit <http://www.cookiecentral.com/faq/>.
+::Save your password so you don’t have to re-enter it each time you visit our sites.
 
-However, please note that if you reject some or all cookies, your experience at our sites and on other sites throughout the web may not be completed. Some sites require cookies to function, such as those with e-commerce features. In addition, if you disable cookies, you will not be eligible to take advantage of personalized content delivery offered by us or other Internet sites.
+We do not use cookies to identify, monitor or track any personally identifiable information. Our cookies in and of themselves do not contain any personally identifiable information about you. We do not merge or associate our cookie information with any personally identifiable information obtained by us or from third parties. You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. For more information on how to modify your browser settings to block or filter cookies, see http://www.cookiecentral.com/faq/.
 
-#### Third Party Cookies at Our Sites
+However, note that if you reject some or all cookies, your experience at our sites and on other sites throughout the World Wide Web may not be complete. Some sites require cookies to function, such as those with e-commerce features. In addition, if you do not allow cookies, you will not be able to take advantage of personalized content delivery offered by us or other Internet sites.
 
-While we use cookies in other parts of our website, cookies received with the payment processes are placed by our Payment Services provider. We do not have access to these cookies or any information that they may contain. Please contact the Payment Services provider for more information as noted above.
+### Third Party Cookies At Our Sites
 
-#### Registration Forms
+While we use cookies in other parts of our Web site, cookies received with the payment processes are placed by our Payment Services provider. We do not have access to these cookies or any information that they may contain; please contact the Payment Services provider for more information on these cookies.
 
-Our site’s registration form requires users to provide contact information (such as their name, email, and postal address). This contact information is only used to get in touch with the customer when necessary and is never sold or shared.
+PayPal.com:http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside
 
-#### External Links
+### Registration Forms
 
-This site contains links to other sites. MyAdMarket.com is not responsible for the privacy practices or the content of such websites once you leave our site. We only link to general audience sites but cannot be responsible for any redirection or content changes over which we have no control. Please contact us immediately at [webmaster@MyAdMarket.com](mailto:'webmaster@MyAdMarket.com') if there is a problem with any of our links.
+Our site’s registration form requires users to give us contact information (like their name, email, and postal address).
 
-#### Contacting the Website
+Contact information from the registration forms is used to get in touch with the customer when necessary.
 
-If you have any questions about this privacy statement, the practices of this site, or concerns about this website, please contact: [webmaster@MyAdMarket.com](mailto:'webmaster@MyAdMarket.com')
+### External Links
+
+This site contains links to other sites. YesUp is not responsible for the privacy practices or the content of such Web sites.
+
+### Sending Emails to Our Members
+
+Please note that we send all new members a verification email to verify password and username. By submitting your email to us when you create an account, your email will be added within our opt-in email contact list. Members will receive periodic emails with information such as newsletters, email promotions on products or services, or special deals, from MyAdMarket, as well as any companies affiliated with MyAdMarket as well. If you wish to stop receiving these emails, you can click on the unsubscribe link that’s included with every email or contact us directly.
+
+### Contacting the Web Site
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [info@MyAdMarket.com](mailto:info@MyAdMarket.com)
+
+﻿ 
