@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aec.gov.au privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618040933id_/http%3A//www.aec.gov.au/footer/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aec.gov.au privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126101352id_/http%3A//aec.gov.au/footer/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Australian Electoral Commission
 
@@ -247,7 +247,7 @@ These other sites may use web measurement tools, customisation technologies and 
 
 The AEC will only record your email address in the event that you send a message by email, you register requesting notifications, you provide your email address when completing a claim for enrolment, or your email address is provided by a third party. Registration for notifications may be made initially by email, postal mail or facsimile. Your email address will only be used for the purpose for which you have provided it and will not be added to any mailing lists without your consent by way of a specific request in writing. The AEC will not use or disclose your email address for any other purpose, without your prior written consent.
 
-If you are listed on one or more of our media or subscriber email lists you can opt out at any time. You can [unsubscribe](http://apps.aec.gov.au/subscribe/Unsubscribe.aspx) online or by using the ‘unsubscribe’ option noted in our subscriber emails .
+If you are listed on one or more of our media or subscriber email lists you can opt out at any time. You can [unsubscribe](http://subscribe.aec.gov.au/Unsubscribe.aspx) online or by using the ‘unsubscribe’ option noted in our subscriber emails .
 
 ### 3.8 Security of information
 
@@ -288,7 +288,7 @@ Personal information
 Privacy Act
     means the [_Privacy Act 1988_](http://www.comlaw.gov.au/Series/C2004A03712)
 Privacy Contact Officer
-    refers to the officer whose contact details are listed under [Contact Details](https://web.archive.org/web/20160618040933id_/http%3A//www.aec.gov.au/footer/privacy.htm#contact)
+    refers to the officer whose contact details are listed under [Contact Details](https://web.archive.org/web/20161126101352id_/http%3A//aec.gov.au/footer/privacy.htm#contact)
 Sensitive information
     is defined by the [Privacy Act](http://www.comlaw.gov.au/Series/C2004A03712) (see section 6). It means information or an opinion about an individual’s:  
 
