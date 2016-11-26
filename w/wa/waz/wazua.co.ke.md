@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wazua.co.ke privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606155429id_/http%3A//wazua.co.ke/inner.aspx%3Fclm%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wazua.co.ke privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126042936id_/http%3A//wazua.co.ke/inner.aspx%3Fclm%3D8) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Home | Wazua
 
