@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chrisc.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314204320id_/http%3A//chrisc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrisc.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126225512id_/http%3A//chrisc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Chris Carpenter Blog
+# Privacy Policy
 
 Your privacy is very important …
 
