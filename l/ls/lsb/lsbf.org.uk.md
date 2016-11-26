@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lsbf.org.uk privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402150435id_/http%3A//www.lsbf.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsbf.org.uk privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126094758id_/http%3A//www.lsbf.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # LSBF - London School of Business and Finance Privacy Policy
 
@@ -127,6 +127,101 @@ We may disclose your personal information to third parties:
 **Higher Education Statistics Agency (HESA)**
 
 Your personal data (including sensitive personal data) will be provided to HESA. Further information about the data which will be shared with HESA can found in the HESA collection notice on the HESA website (<http://www.hesa.ac.uk/fpn>)
+
+**Destinations of Leavers from HE (DLHE) Collection Notice**
+
+We will send information from this survey to the Higher Education Statistics Agency. HESA is the official source of data about UK universities and higher education colleges [www.hesa.ac.uk](http://www.hesa.ac.uk/). This survey information will be linked to other information held about you as a student, including information you gave when you enrolled, and details of the qualification you gained. Together this forms your HESA Record. More information about how the HESA Record is used can be found in the Student Collection Notice at: [www.hesa.ac.uk/fpn](http://www.hesa.ac.uk/fpn).
+
+**Your DLHE survey responses will not be used to make decisions about you.**
+
+HESA collects, and is responsible for, the database in which your HESA Record is stored. HESA is a registered charity and operates on a not-for-profit basis. HESA uses the HESA Record, including the DLHE survey responses, itself for its own purposes. HESA also shares information from the HESA Record with third parties. It may charge other organisations to whom it provides services and data. HESA's use of the HESA Record may include linking information from it to other data, as described further below. All uses of the HESA Record must comply with the Data Protection Act 1998 [www.legislation.gov.uk/ukpga/1998/29/contents](http://www.legislation.gov.uk/ukpga/1998/29/contents).
+
+The HESA Record including DLHE survey responses are used for three broad purposes:
+
+**Purpose 1 - Public functions**
+
+Information from the HESA Record is used by some organisations to help carry out public functions connected with education in the UK. These organisations are data controllers in common under the terms of the Data Protection Act (this link explains what this means [ico.org.uk/for-organisations/guide-to-data-protection/key-definitions/](https://ico.org.uk/for-organisations/guide-to-data-protection/key-definitions/)). Such organisations may include:
+
+  * Department for Business, Innovation and Skills
+  * Welsh Government
+  * Scottish Government
+  * Department for Employment and Learning, Northern Ireland
+  * Higher Education Funding Council for England
+  * Higher Education Funding Council for Wales
+  * Scottish Further and Higher Education Funding Council
+  * Department for Education
+  * Research Councils
+  * Education Funding Agency
+  * National College for Teaching and Leadership
+  * National Health Service, including Health Education England
+  * General Medical Council
+  * Office For Fair Access
+  * Quality Assurance Agency for Higher Education
+
+
+
+and any successor bodies.
+
+The HESA Record may also be used by other organisations who are also data controllers in common to help carry out public functions that are not connected with education. Such users include the Office for National Statistics and the National Audit Office who may use the information to fulfil their statutory functions of measuring population levels and monitoring public expenditure.
+
+The use of data by organisations under this Purpose 1 may include linking information in the HESA Record to other data as described further below.
+
+**Purpose 2 - HESA publications**
+
+The HESA Record is used by HESA to produce and publish information and statistics. This includes some National Statistics publications ([www.statisticsauthority.gov.uk/national-statistician/types-of-official-statistics](http://www.statisticsauthority.gov.uk/national-statistician/types-of-official-statistics)) and online business intelligence and research services. HESA will take precautions to ensure that individuals are not identified from any information which is processed for Purpose 2.
+
+**Purpose 3 - Equal opportunity, research, journalism and other processing in which there is a legitimate interest**
+
+HESA and the other data controllers in common (see Purpose 1) may also supply information to third parties where there is a legitimate interest in doing so. Examples of use for this purpose include:
+
+  * Equal opportunities monitoring
+  * Research - This may be academic research, commercial research or other statistical research where this is in the public interest
+  * Journalism - Where the relevant publication would be in the public interest e.g. league tables
+  * Provision of information to students and prospective students
+
+
+
+Users to whom information may be supplied for Purpose 3 include:
+
+  * Higher education sector bodies
+  * Higher education providers
+  * Academic researchers and students
+  * Commercial organisations (e.g. recruitment firms, housing providers, graduate employers)
+  * Unions
+  * Non-governmental organisations and charities
+  * Local, regional and national government bodies
+  * Journalists
+
+
+
+Information supplied by HESA to third parties within Purpose 3 is supplied under contracts which require that individuals shall not be identified from the supplied information. A copy of HESA's current agreement for the supply of information is available at [www.hesa.ac.uk/bds-details#e](http://www.hesa.ac.uk/bds-details#e) . Information from the HESA Record, may be linked to school and/or further education college information and supplied to researchers. A copy of the Agreement for the supply of linked data about pupils from schools in England is available at [www.gov.uk/government/collections/national-pupil-database](http://www.gov.uk/government/collections/national-pupil-database)
+
+**Linking of information in the HESA Record**
+
+As indicated above, where HESA and organisations covered by Purpose 1 above use information from the HESA Record this use may include linking the HESA Record information to other information for example:
+
+  * UCAS data
+  * National Student Survey data
+  * School and Further Education data
+  * Student Loans Company data
+  * Qualification Awarding Bodies data
+  * Tax, Benefits, and Employment data.
+
+
+
+**About the HESA DLHE Collection Notice**
+
+The HESA DLHE Collection Notice is regularly reviewed. The most up to date version can be found via [www.hesa.ac.uk/fpn](https://www.hesa.ac.uk/fpn). Minor updates to the DLHE Collection Notice (including organisation name changes and clarification of previously specified purposes) may be made at any time. Major updates (such as a new purpose) will be made no more than once per year.
+
+**Further contact**
+
+You may be contacted as part of an audit to check that we have undertaken this survey properly.
+
+You may be included in further surveys of leavers from higher education. If so, we will pass your contact details to the organisation that has been contracted to carry out each survey. Your details will only be used by that organisation for the survey and will then be deleted by them. If you do not want to take part in any of these surveys, please let us know.
+
+**Your rights**
+
+Under the Data Protection Act 1998 you have rights of access to the information HESA holds about you. You will have to pay a small fee for this. For further information about data protection and the HESA Record please see [www.hesa.ac.uk/dataprot](https://www.hesa.ac.uk/dataprot) or email [data.protection@hesa.ac.uk](mailto:data.protection@hesa.ac.uk)
 
 ## Your rights
 
