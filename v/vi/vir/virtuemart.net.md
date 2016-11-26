@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtuemart.net privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602050553id_/http%3A//virtuemart.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtuemart.net privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126023213id_/http%3A//virtuemart.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,15 +20,15 @@ We may use Data to customize and improve your user experience on this site. We w
 #### **3\. Cookies.**
 
 Like many web sites, we set and use cookies to enhance your user experience, such as retaining your personal settings. Advertisements may appear on our web site and, if so, may set and access cookies on your computer and is subject to the privacy policy of those parties providing the advertisement. However, the companies serving the advertising do not have access to our cookies. These companies usually use non-personally identifiable or anonymous codes to obtain information about your visits to our site.  
-[More information about the EU cookie law](http://virtuemart.net/component/content/162-uncategorised/444-eu-cookie-law?Itemid=100142)
+[More information about the EU cookie law](https://virtuemart.net/component/content/162-uncategorised/444-eu-cookie-law?Itemid=100142)
 
 #### 4\. Children.
 
-We do not allow persons who are ages thirteen or younger to become members of this site. For more information, please contact [our webmaster](http://virtuemart.net/contact-us/139-contacts/1-soeren).
+We do not allow persons who are ages thirteen or younger to become members of this site. For more information, please contact [our webmaster](https://virtuemart.net/contact-us/139-contacts/1-soeren).
 
 #### **5\. Editing or Deleting Your Account Information.**
 
-We provide you with the ability to edit the information in your user account information that you provided to us in registration by using [your personal page configuration area](http://virtuemart.net/component/user/?task=UserDetails). You may request deletion of your user account by contacting [our webmaster](http://virtuemart.net/contact-us/139-contacts/1-soeren). Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted. Please see our [Terms of Use](http://virtuemart.net/imprint?task=view&id=310) for more information.
+We provide you with the ability to edit the information in your user account information that you provided to us in registration by using [your personal page configuration area](https://virtuemart.net/component/user/?task=UserDetails). You may request deletion of your user account by contacting [our webmaster](https://virtuemart.net/contact-us/139-contacts/1-soeren). Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted. Please see our [Terms of Use](https://virtuemart.net/imprint?task=view&id=310) for more information.
 
 #### 6\. Changes to this Privacy Policy.
 
@@ -40,4 +40,4 @@ While this Privacy Policy states our standards for maintenance of Data and we wi
 
 #### **8\. Contact Information.**
 
-If you have any questions about this Policy or our web site, please feel free to contact [our webmaster](http://virtuemart.net/contact-us/139-contacts/1-soeren).
+If you have any questions about this Policy or our web site, please feel free to contact [our webmaster](https://virtuemart.net/contact-us/139-contacts/1-soeren).
