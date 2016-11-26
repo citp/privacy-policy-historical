@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtsu.edu privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330185659id_/http%3A//www.mtsu.edu/policies/general-policies/I-03-05.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtsu.edu privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126135648id_/http%3A//www.mtsu.edu/policies/general-policies/I-03-05.php) for the most accurate reproduction.*
 
 # I:03:05 Privacy of Information | Middle Tennessee State University
 
