@@ -1,50 +1,75 @@
-> *The following text is extracted and transformed from the kellycodetectors.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610220953id_/http%3A//www.kellycodetectors.com/catalog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellycodetectors.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126114813id_/http%3A//www.kellycodetectors.com/catalog/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy
 
-**What information do we collect?**
+**Privacy Policy**
 
-  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.
-  * When making a purchase we will ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
-  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
+Protecting your private information is our priority. This Statement of Privacy applies to the [www.kellycodetectors.com ](http://www.metaldetectors.com/)and Kellycodetectors.com and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Kellycodetectors.com include [www.kellycodetectors.com ](http://www.metaldetectors.com./)The Kellycodetectors.com website is a retail ecommerce site. By using the Kellycodetectors.com website, you consent to the data practices described in this statement.
 
+**Collection of your Personal Information**
 
+Kellycodetectors.com may collect personally identifiable information, such as your name. If you purchase Kellycodetectors.com's products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. Kellycodetectors.com may also collect anonymous demographic information, which is not unique to you, such as your gender and Technology, Interests, Location. We may gather additional personal or non-personal information in the future.
 
-**How do we use your information?**  
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+Information about your computer hardware and software may be automatically collected by Kellycodetectors.com. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Kellycodetectors.com website.
 
-  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-  * To allow us to better service you in responding to your customer service requests.
-  * To quickly process your transactions.
-  * To administer a contest, promotion, survey or other site feature.
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Kellycodetectors.com's public message boards, this information may be collected and used by others.
 
+Kellycodetectors.com encourages you to review the privacy statements of websites you choose to link to from Kellycodetectors.com so that you can understand how those websites collect, use and share your information. Kellycodetectors.com is not responsible for the privacy statements or other content on websites outside of the Kellycodetectors.com website.
 
+**Use of your Personal Information**
 
-**How do we protect visitor information?**  
-We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
+Kellycodetectors.com collects and uses your personal information to operate its website(s) and deliver the services you have requested.
 
-**Do we use "cookies"?**  
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Kellycodetectors.com may also use your personally identifiable information to inform you of other products or services available from Kellycodetectors.com and its affiliates. Kellycodetectors.com may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+Kellycodetectors.com does not sell, rent or lease its customer lists to third parties.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
+Kellycodetectors.com may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Kellycodetectors.com, and they are required to maintain the confidentiality of your information.
 
-**Do we disclose the information we collect to outside parties?**  
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information, except as described below. The term "outside parties" does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+Kellycodetectors.com may keep track of the websites and pages our users visit within Kellycodetectors.com, in order to determine what Kellycodetectors.com services are the most popular. This data is used to deliver customized content and advertising within Kellycodetectors.com to customers whose behavior indicates that they are interested in a particular subject area.
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Kellycodetectors.com will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Kellycodetectors.com or the site; (b) protect and defend the rights or property of Kellycodetectors.com; and, (c) act under exigent circumstances to protect the personal safety of users of Kellycodetectors.com, or the public.
 
-**Third party links**  
-In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
+**Security of your Personal Information**
 
-**Changes to our policy**  
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on May 16, 2008.
+To secure your personal information from unauthorized access, use or disclosure, Kellycodetectors.com uses the following:
 
-**Questions and feedback**  
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
+• Trustguard  
+• Symantec SSL  
+• McAfee Secure  
+• Godaddy Secure SSL
 
-**All words and photographs are © 1998 - 2013 Kellyco Metal Detector Distributors unless otherwise noted.** All rights reserved. Any use or retransmission of text or images on this website without written consent of the copyright owner constitutes copyright infringement and is prohibited. Published SAVE, SAVE UP TO and SAVING Percentages are based on Manufactures MSRP Manufacturers Suggested Retail Price) list price or (compared to price) or/and total combined savings of metal detector and its bundled accessories. Kellyco is not responsible for typographical errors, mistakes or manufacturers inability to ship a product.
+When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol.
 
-**Your consent**  
-By using our site, you consent to our Privacy Policy and Legal Notices.
+**Children Under Thirteen**
+
+Kellycodetectors.com does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
+
+**Opt-Out & Unsubscribe**
+
+We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Kellycodetectors.com by contacting us here:
+
+• Web page: [www.kellycodetectors.com  
+](http://www.metaldetectors.com/)• Email: [support@kellycodetectors.com  
+](mailto:support@kellycodetectors.com)• Phone: 1-888-535-5926
+
+**Changes to this Statement**
+
+Kellycodetectors.com will occasionally update this Statement of Privacy to reflect company and customer feedback. Kellycodetectors.com encourages you to periodically review this Statement to be informed of how Kellycodetectors.com is protecting your information.
+
+**Contact Information**
+
+Kellycodetectors.com welcomes your questions or comments regarding this Statement of Privacy. If you believe that Kellycodetectors.com has not adhered to this Statement, please contact Kellycodetectors.com at:
+
+Kellycodetectors.com  
+1085 Belle Ave
+
+Winter Springs, Florida 32708
+
+Email Address:  
+[support@kellycodetectors.com](mailto:support@kellycodetectors.com)
+
+Telephone number:  
+1-888-535-5926
+
+Effective as of November 01, 2001
