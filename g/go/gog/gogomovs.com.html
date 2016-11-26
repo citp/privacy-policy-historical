@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gogomovs.com privacy policy that was archived on 2016-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160612095321id_/http%3A//www.gogomovs.com/i/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gogomovs.com privacy policy that was archived on 2016-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161126120442id_/http%3A//www.gogomovs.com/i/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -30,9 +30,7 @@
   ga('create', 'UA-76112243-1', 'auto');
   ga('send', 'pageview');
 	</script>
-		
-	
-</head>
+		</head>
 <body>
 
 <main class="main">
@@ -63,9 +61,9 @@
 <li><span>|<span></span></span></li>
 <li><a class="up-nav" href="http://www.gogomovs.com/i/tags/">Tags</a></li>
 <li><span>|<span></span></span></li>
-<li><a class="up-nav" href="http://www.gogomovs.com/i/models/">Models</a></li>
+<li><a class="up-nav" href="http://models.gogomovs.com/">Models</a></li>
 <li><span>|<span></span></span></li>
-<li><a class="up-nav" href="http://www.gogomovs.com/live-sex/">Live Sex</a></li>
+<li><a class="up-nav" href="http://cams.gogomovs.com/">Live Sex</a></li>
 <li><span>|<span></span></span></li>
 <li><a class="up-nav" href="http://www.gogomovs.com/hd/">HD</a></li>
 
@@ -102,7 +100,7 @@
 
 		<p style="text-align:center; font-size:12px; font-weight:bold;">
 			Updated:
-			June 12, 2016<br>
+			November 26, 2016<br>
 			Site: GoGoMovs.com		</p>
 
 
@@ -150,6 +148,7 @@
 	</div>
 <br>
 <div class="footer">
+<div class="adspots" style="display: table; margin: 0 auto; text-align: center;"></div> 
 	<div class="inner">
 
 
@@ -169,6 +168,7 @@
 	<script type="text/javascript" src="http://gogomovs.woxcdn.com/static/js/collapse.js"></script>
 	<script type="text/javascript" src="http://gogomovs.woxcdn.com/static/js/main.js"></script>
 	<script type="text/javascript" src="http://gogomovs.woxcdn.com/static/js/go.js"></script>
+	<script type="text/javascript" src="http://gogomovs.woxcdn.com/static/js/rt.js"></script>
 	<script src="http://gogomovs.woxcdn.com/static/js/base.js" type="text/javascript"></script> 
 		<!--[if lt IE 10]>
 			<script type="text/javascript" src="http://gogomovs.woxcdn.com/static/js/jquery.placeholder.js"></script>
@@ -185,11 +185,68 @@
 
 
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-570379b07cb05771"></script>
+<script>
+		$(function () {
+		var adClass = 'adspots';
+        var bannClass = 'banner';
+        var spots = [
+            [0, 'http://c.smartclick.net/ads?key=b0596da15cd40ff21456d9d962f671fa&ch='],
+            [855, 'http://c.smartclick.net/ads?key=7018952d0c3ca0e36f6bc8baa2c5eb96&ch='],
+            [995, 'http://c.smartclick.net/ads?key=f2bae67a23e5aeb24314032ad71adc27&ch=']
+        ];
+
+        function isScrolledIntoView(elem) {
+            var $elem = $(elem);
+            var $window = $(window);
+
+            var docViewTop = $window.scrollTop();
+            var docViewBottom = docViewTop + $window.height();
+
+            var elemTop = $elem.offset().top;
+            var elemBottom = elemTop + $elem.height();
+
+            return ((elemBottom <= docViewBottom) && (elemTop >= docViewTop));
+        }
+
+        if (window.location.pathname == '/') {
+            var interval = setInterval(function () {
+                if (isScrolledIntoView('.' + adClass)) {
+                    $(window).resize(function () {
+                        autoloadOnResize();
+                    });
+                    autoloadOnResize();
+                    clearInterval(interval);
+                }
+            }, 200);
+        } else {
+            $(window).resize(function () {
+                autoloadOnResize();
+            });
+            autoloadOnResize();
+        }
+
+        function autoloadOnResize() {
+            var w = $(window).width();
+            spots.forEach(function (v, k) {
+                var obj = $('.' + adClass + ' > .' + bannClass + ':eq(' + k + ')');
+                if ($(window).width() > v[0]) {
+                    if (!obj.length)
+                        $('.' + adClass).append('<div class="' + bannClass + '"><iframe src="' + v[1] + '" width="300" height="250" frameborder="0" scrolling="no"></iframe></div>');
+                    else
+                        obj.show();
+                } else
+                    obj.hide();
+            });
+        }
+		}) 
+	</script>
+
 
 		<a href="#" class="goUp">Back to Top</a>
-		
+
 		
 </main>
 
+0.0064778327941895 
 
 </body></html>
