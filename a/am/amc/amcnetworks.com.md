@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amcnetworks.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503181303id_/http%3A//www.amcnetworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amcnetworks.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126022844id_/http%3A//www.amcnetworks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AMC Networks Inc.
 
