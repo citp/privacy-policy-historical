@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthstatus.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410061714id_/https%3A//www.healthstatus.com/privacy-data-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthstatus.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126113456id_/https%3A//www.healthstatus.com/privacy-data-policy) for the most accurate reproduction.*
 
 # Privacy and Data Policy
 
@@ -40,7 +40,7 @@ We run contests on our site in which we ask visitors for contact and demographic
 
 #### Choice/Opt-In:::
 
-Our site gives users the opportunity to opt-in to receive communications from us and our partners at the point where we request information about the visitor. This site also gives users the following options for removing their information from our database in order to stop receiving communications or our service. You can send e-mail to privacy@HealthStatus.com You can send mail to the following postal address: Privacy Department HealthStatus.com, Inc. 9801 Fall Creek Road Box 112 Indianapolis, IN 46256 You can call the following telephone number: 317.823.2687
+Our site gives users the opportunity to opt-in to receive communications from us and our partners at the point where we request information about the visitor. This site also gives users the following options for removing their information from our database in order to stop receiving communications or our service. You can send e-mail to privacy@HealthStatus.com You can send mail to the following postal address: Privacy Department HealthStatus LLC, 9801 Fall Creek Road Box 112, Indianapolis, IN 46256 You can call the following telephone number: 317.823.2687
 
 #### Correct/Update:::
 
