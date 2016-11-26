@@ -1,48 +1,45 @@
-> *The following text is extracted and transformed from the icebreaker.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521183946id_/http%3A//www.icebreaker.com/en/customer-service/privacy-policy/service-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icebreaker.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126152810id_/http%3A//www.icebreaker.com/en/privacy-policy/service-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**  Last Updated:  MArch 16, 2016**
+**  Last Updated:  30 September, 2016**
 
-This Privacy Policy ("Policy") describes how personal information about you is collected, used and disclosed by Icebreaker Merino Clothing Inc, operated by Merino Retail, Inc. and our subsidiaries and affiliates (collectively, "Icebreaker") with respect to your use of our websites where this Policy is posted.  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This Privacy Policy ("Policy") describes how personal information about you is collected, used and disclosed by Icebreaker Nature Clothing Inc and our subsidiaries and affiliates (collectively, "Icebreaker") with respect to your use of our websites where this Policy is posted.  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-The TRUSTe program covers only information that is collected through this website, www.icebreaker.com and does not cover information that may be collected through software downloaded from the website.
+Icebreaker Nature Clothing Inc and other companies in its group, such as Merino Retail Inc and Portland Design Exchange participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Icebreaker is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>
 
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request> or if you have questions or complaints regarding this Policy or Icebreaker's privacy practices, please contact us at:
+Icebreaker is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Icebreaker is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>, or if you have questions or complaints regarding this Policy or Icebreaker's privacy practices, please contact us at:
 
 Icebreaker.com  
 1330 NW 14th Avenue  
 Portland, OR 97209  
-1-866-385-1888  
+1-866-403-0576  
 [privacy@icebreaker.com](mailto:privacy@icebreaker.com)
 
-**Safe Harbor**
+**U.S. – Swiss Safe Harbor**
 
-Icebreaker complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Icebreaker has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Icebreaker's certification, please visit <http://www.export.gov/safeharbor/>
-
-**Information We Collect**
+Icebreaker complies with the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. Icebreaker has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Icebreaker's certification, please visit <https://safeharbor.export.gov/swisslist.aspx>
 
 We collect personal information about you in various ways, such as when you create an account or online profile, use the interactive areas and features on our websites, make a purchase, participate in our contests or surveys or when you email, call or otherwise communicate with us.  Such information may include your name, address, email address, phone number, fax number, photographs, credit card information and other contact or demographic information you choose to provide.  We may also obtain information about you from other sources and link or combine that with information we collect on our websites.
 
-We collect your location based information for the purpose of locating a place that you may be searching for in your area. We will only share this information with our mapping provider for the sole purpose of providing you this service. You may opt-out of location based services at any time by emailing us at [cs@icebreaker.com](mailto:CS@Icebreaker.com).
+We collect your location based information for the purpose of locating a place that you may be searching for in your area. We will only share this information with our mapping provider for the sole purpose of providing you this service. You may opt-out of location based services at any time by emailing us at [cs@icebreaker.com](mailto:CS@Icebreaker.com).
 
 We also automatically collect information about you when you access or use our websites.  For example, we automatically log your computer's operating system, Internet Protocol ("IP") address, access times, browser type and language and the website you visited before navigating to our websites.  We may also collect information about your usage and activity on our websites. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
 
 **Cookies and other Tracking Technologies**
 
-We collect certain information using "cookies”, tags and scripts.  Cookies are small data files stored on your hard drive by a website.  Among other things, cookies help us improve our websites and your experience.  We use cookies to see which areas and features are popular and to count visits to our websites. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. We use session cookies to make it easier for you to navigate. A persistent cookie remains on your hard drive for an extended period of time. We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. Most Web browsers are set to accept cookies by default.  If you prefer, you can usually choose to set your browser to remove and/or reject cookies.  Please note that if you choose to remove or reject cookies, this could affect certain features of our websites. 
+We and our marketing partners use cookies or similar tracking technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole.
 
-**Web Beacons**  
-We also collect information using Web beacons.  Web beacons are electronic images that may be used on our websites or in our emails.  We use Web beacons to deliver cookies, count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon.
-
-**Third Party Cookies**  
-We may also allow third parties [marketing partners], to use cookies, web beacons or other devices (such as tags and scripts) to collect non-personal information about visitors to our websites.  Such information may be used, among other things, to analyze data, to determine the popularity of certain content, to make it easier to navigate around our websites and to better understand the usage and visitation of our websites.
+Cookies are small data files stored on your hard drive by a website.  Among other things, cookies help us improve our websites and your experience.  We use cookies to see which areas and features are popular and to count visits to our websites. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. We use session cookies to make it easier for you to navigate. A persistent cookie remains on your hard drive for an extended period of time. We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. Most Web browsers are set to accept cookies by default.  If you prefer, you can usually choose to set your browser to remove and/or reject cookies.  Please note that if you choose to remove or reject cookies, this could affect certain features of our websites. 
 
 **Behavioral Targeting / Re-Targeting**  
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/) (or if located in the European Union [click here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
-
-**Flash & HTML5 **  
-We use Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity use Flash cookies and HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click [here.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/) (or if located in the European Union [click here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 **How We Use Your Information**
 
@@ -87,7 +84,7 @@ We take reasonable measures to protect your personal information in an effort to
 
 You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or emailing us at [CS@Icebreaker.com](mailto:CS@Icebreaker.com).  If you opt out of receiving such communications, we may still send you non-promotional emails, such as emails about your account, purchases or our ongoing business relations.
 
-If your personal information changes, or if you no longer desire our service, you may correct, update, ~~or~~ delete or ask to have it removed from our blog by making the change on our member information page, emailing our Customer Support at [CS@Icebreaker.com](mailto:CS@icebreaker.com) or contacting us by telephone or postal mail at the contact information listed below.  We will respond to your request within 30 days or within a reasonable timeframe.
+Upon request we will provide you with information about whether we hold any of your personal information. If your personal information changes, or if you no longer desire our service, you may correct, update,  ~~or~~  delete or ask to have it removed from our blog by making the change on our member information page, emailing our Customer Support at [CS@Icebreaker.com](mailto:CS@icebreaker.com) or contacting us by telephone or postal mail at the contact information listed below.  We will respond to your request within 30 days or within a reasonable timeframe.
 
 **Data Retention**
 
@@ -99,7 +96,7 @@ Our Web site includes Social Media Features, such as the Facebook Like button an
 
 **Frames**
 
-Some of our pages utilize framing techniques to serve content to/from our partners while preserving the look and feel of our website. Please be aware that you are providing your personal information to these third parties and not to [www.icebreaker.com](http://www.icebreaker.com/).
+Some of our pages utilize framing techniques to serve content to/from our partners while preserving the look and feel of our website. Please be aware that you are providing your personal information to these third parties and not to [www.icebreaker.com](http://www.icebreaker.com/).
 
 **User Generated Content**
 
@@ -125,7 +122,7 @@ Icebreaker may, with or without any notice to you, at its sole discretion and fo
 
 **Licence granted to Icebreaker**
 
-You grant Icebreaker a non-exclusive, perpetual, worldwide, irrevocable, royalty free, transferrable and sublicensable right to use, modify, edit and display the User Content, including copyright in the User Content, in any media known now or in the future..
+You grant Icebreaker a non-exclusive, perpetual, worldwide, irrevocable, royalty free, transferrable and sublicensable right to use, modify, edit and display the User Content, including copyright in the User Content, in any media known now or in the future.
 
 **No liability for User Content**
 
@@ -142,5 +139,5 @@ If you have a question about this Policy, please contact us at:
 Icebreaker.com  
 1330 NW 14th Avenue  
 Portland, OR 97209  
-1-866-385-1888  
+1-866-403-0576  
 [privacy@icebreaker.com](mailto:privacy@icebreaker.com)
