@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thrivethemes.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616223642id_/https%3A//thrivethemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrivethemes.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126184731id_/https%3A//thrivethemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Thrive Themes
 
@@ -20,7 +20,7 @@ IP addresses are used by your computer every time you are connected to the Inter
 
 If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail and telephone.
 
-Refer to our [disclaimer page](http://hybrid-connect.com/disclaimer/) for more information about our emailing and anti-spam policies.
+Refer to our [disclaimer page](https://thrivethemes.com/disclaimer/) for more information about our emailing and anti-spam policies.
 
 ## How Do We Use the Information That You Provide to Us?
 
