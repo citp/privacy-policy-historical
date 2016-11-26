@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flextronics.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410101540id_/https%3A//www.flextronics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flextronics.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126123808id_/https%3A//www.flextronics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Flex
 
@@ -6,7 +6,7 @@ Flex takes its obligations to protect privacy and personal information very seri
 
 ### Who are we?
 
-In this Privacy Policy, references to “we” or “us” are to Flex International USA, Inc. of 818 West 7th Street, Los Angeles, California, USA, and all other Flex group companies. A list of the Flex group companies can be viewed using request by contacting us using the details provided below. 
+In this Privacy Policy, references to “we” or “us” are to Flex International USA, Inc. of 6201 America Center, San Jose, CA, USA, and all other Flex group companies. A list of the Flex group companies can be viewed using request by contacting us using the details provided below. 
 
 ### The information we collect
 
@@ -56,4 +56,8 @@ We may update or amend this Privacy Policy from time to time to comply with law 
 
 Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to our Global Business Services team or our Global Data Privacy Officer through the following means:  
 
-This Privacy Policy was last updated on 6/1/2015.
+This Privacy Policy was last updated on 04/27/2016.
+
+### Data Privacy Standards
+
+In addition to the responsibilities set out in this privacy policy, we have created a set of data privacy standards which apply to the processing of personal information. These standards are available [here](https://web.archive.org/sites/default/files/flex-data-privacy-standards.pdf). 
