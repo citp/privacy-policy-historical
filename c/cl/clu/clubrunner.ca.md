@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clubrunner.ca privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617190143id_/http%3A//site.clubrunner.ca/Page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubrunner.ca privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126101939id_/http%3A//site.clubrunner.ca/Page/privacy-policy) for the most accurate reproduction.*
 
-# ClubRunner - Privacy Policy
+# Privacy Policy | ClubRunner
 
 **At ClubRunner, we're committed to protecting your privacy. Your privacy and the integrity of any information you provide are important to us. We have developed the following policy pursuant to the Personal Information Protection and Electronic Documents Act, 2000 c.5. (the "Privacy Act").**
 
@@ -21,6 +21,12 @@ You may also receive emails from other club members. ClubRunner does not control
 ### **Does Your Site Use "Cookies"?**
 
 Our site uses "cookies" which are small files containing pieces of information that are stored by your browser on your computer's hard drive. Most Web browsers automatically accept cookies, but if you prefer, you can set your browser to block them. Our cookies can contain information such as your user ID that our website uses to recognize you. Our cookies can't read data off your hard disk or read cookie files created by other sites. The only personal information our cookies contain is the information you provide yourself. When you enter personal information on our website, your personal information will be linked to the cookie we save on your computer. If you do choose to delete your cookie, you may not be able to use the administrative features of the website.
+
+We use Google Analytics to track how visitors interact with our website, analyze where traffic is generated from and collect information related to general site engagement.
+
+Third party advertising management services such as Google and Facebook may display tailored messages upon you interacting with our website through the use of cookies. You can opt of these ads at any time when displayed. For more information on Google Ads, [click here](https://support.google.com/ads/answer/2662922?hl=en). For more information on opting out of ads on Facebook, [click here](https://www.facebook.com/help/146952742043748). Should you delete your cookies, please note, you will need to opt out of seeing these messages again. These cookies cannot personally identify you and expire after 180 days or until you clear your cookies.
+
+On customer websites, where you engage with social share buttons (ex: Facebook Like Button or the share content buttons), the services that manage the social platform you get directed to may use cookies. ClubRunner is not affiliated with any of these services and all legalities surrounding the use of cookies are thus under the policies set by the social media platforms.
 
 ### **How Is My Personal Information Protected?**
 
