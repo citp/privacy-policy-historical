@@ -1,44 +1,87 @@
-> *The following text is extracted and transformed from the hauteliving.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216090512id_/http%3A//www.hauteliving.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hauteliving.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126173307id_/http%3A//hauteliving.com/disclaimer) for the most accurate reproduction.*
 
-# Privacy Policy | Haute Living Magazine
+# Disclaimer
 
-We are committed to protecting your privacy! This policy provides you with details on the information we collect from you and the uses we make of your personal information. If you have any questions, please email us at admin@hauteliving.com. Each time you visit www.hauteliving.com (“Website”), through the use of cookies (more fully described in paragraph 1(b) below), our Web server automatically recognizes your domain name and email address (where possible). You have the option of disabling cookies by accessing the tools provided to you in your Internet options. However, please note that you may not have full access to the Website if you change your cookie settings to disable them.
+All images on [www.hauteliving.com](http://www.hauteliving.com/ "Haute Living") and its extensions are posted in good-faith and under the belief the images are posted in compliance with the U.S. Copyright Fair Use Act (Title 17, U.S. Code). All images on [www.hauteliving.com](http://www.hauteliving.com/ "Haute Living") and its extensions are believed to be readily available in other places on the Internet, in the public domain, or used pursuant to ownership, license, or fair use.
 
-This policy may be updated from time to time without prior notice, so please check back periodically. If you continue to visit this Website and use the services made available to you after such changes have been made, you hereby provide your consent to the changes.
+ **Claims of Infringement**  
+If you believe your copyright has been infringed by the content appearing on [www.hauteliving.com](http://www.hauteliving.com/ "Haute Living"), or its extensions, please send an email to [contactus@hauteliving.com](mailto:contactus@hauteliving.com "contactus@hauteliving.com") with the following information:
 
-We encourage you to read this policy to learn more about:
+  1. Your name, address, phone number, and e-mail address
+  2. A short, specific description of the copyrighted work that you claim has been infringed upon; for multiple items, a list will suffice
+  3. The exact URL, a link to, or a reasonably sufficient description of the places where the alleged infringing material is located; for multiple items, a list will suffice
+  4. A statement that you have a good faith belief that the use of the material has not been authorized by you, your agent, or the law
+  5. Your electronic or physical signature or the electronic or physical signature of the agent or person authorized to act on your behalf
+  6. A statement by you that the information in your notice is accurate and that you are the copyright owner or you are the agent authorized to act on the copyright owner’s behalf
 
-1\. What information of yours is collected by this Website.  
-2\. How you can opt-out of receiving communications from us.  
-3\. The security of your information.  
-4\. Links to other websites made available to you by this Website.  
-5\. How to contact us with any comments or questions about this Privacy Policy.
 
-1\. Information Collected
 
-a. Personally Identifiable Information  
-If you contact us, we may keep a record of that correspondence. We do not intend to collect personal information from you, however, we ask you to keep in mind that if you voluntarily disclose personal information online – for example, in a forum or chat room made available through the Website – that information can be viewed and used by others. We are not responsible for unsolicited messages you receive from other users. We encourage you to exercise caution when making decisions about what information you disclose in such public areas. Furthermore, except as otherwise described in this Privacy Policy, any information you transmit or post may be used by us for any purpose. You may also be asked to provide your name, address or credit card information in connection with your use of the Website (including, without limitation, by your submission of purchase orders).
+##  **Privacy Policy**
 
-You may have certain rights under the Communications Act, Federal Trade Commission Act, and other state and federal statutes that may apply, and by accepting these terms and using the Website, you are waiving all of these rights as to collection, use, disclosure and storage of your personally identifiable and non-personally identifiable information collected by us.
+ _Last updated: November 9, 2015_
 
-b. Non-Personally Identifiable Information  
-Certain non-personally identifiable information about our visitors is collected by the standard operation of our Internet servers and through the use of “cookies” (small amounts of data that are sent to your browser from a web server and stored on your computer’s hard drive for the purpose of facilitating and enhancing your communication and interaction with the Website technology, such as the type of Internet browser you are using and the domain name of your internet service provider, where you go within the website and how much time you spend in any particular area, search queries, impressions and other data). The information we collect is (1) used to improve the content of our Website and enhance your experience, and (2) for us to contact our customers. All information that is collected is on an ‘opt-in’ basis and users are given the opportunity to ‘opt-out’ at any time.
+Haute Living, Inc. (“Haute” or “We” or “Us”) operates [www.hauteliving.com](http://hauteliving.com/) (the “Site”). This page informs you of our policies regarding the collection, use, and disclosure of Personal Information We receive from users of the Site. We are committed to providing our users with an experience that protects their privacy concerns.
 
-2\. Opt-Out. If you do not want to receive email from us in the future, please let us know by sending email to us at the above address requesting to be removed from our mailing list. In addition to this, all email correspondence that we send you will include a link, which when accessed by you, will enable you to remove yourself from our mailing lists. Please note that there might be a brief delay between when you submit your request to opt-out and when it is processed and reflected in our systems; accordingly you might continue to receive communications from us for a limited time after you unsubscribe.
+We use your Personal Information only in connection to providing you the Site and improving your use of the Site.
 
-From time to time, we may send out email on behalf of reputable organizations whose products or services are complementary to what is sold at www.hauteliving.com. Haute Living does not share or sell your email address with these reputable organizations or any third-party.
+By visiting [www.hauteliving.com](http://hauteliving.com/), you acknowledge and accept the practices, terms, ￼￼￼￼￼￼￼conditions, and collection and use of information by [www.hauteliving.com](http://hauteliving.com/) in accordance with this policy. Please read this privacy policy carefully as any and all disputes, including without limitation those disputes that arise over privacy between you and [www.hauteliving.com](http://hauteliving.com/), its parent company(ies), subsidiaries(ies), affiliated companies, principals, owners, board members, employees, contributors, advertisers, sponsors, affiliates, partners, and any of their licensees, successors, and assignees, will be subject to terms and conditions of this Privacy Notice.
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending email to us at the above address. [Also you may receive mailings from other reputable companies.] You can, however, have your name put on our do-not-share list by sending email to us at the above address or opting out at the time of your order.
+In the event you visit [www.hauteliving.com](http://hauteliving.com/) after We post any changes to this Privacy Notice, by visiting [www.hauteliving.com](http://hauteliving.com/), you accept the Privacy Notice as modified.
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending email to us at the above address or calling us at the above telephone number. You can, however, have your name put on our do-not-share list by sending email to us at the above address or calling us at the above telephone number. Please provide us with your correct phone number. We will be sure your name is removed from our list [and the list we share with other organizations] as soon as possible after we provide your request.
+##  **Coverage**
 
-3\. Security. We are committed to using our best efforts to maintaining the security of your Personal Information. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we adhere to industry standard practices and procedures to help safeguard and secure the information we collect. Although we use our best efforts to protect the security of your Personal Information and our system, due to the inherent open nature of the Internet, no transmission via the Internet can be guaranteed to be 100% secure. As a result of this and other factors beyond our control, we cannot guarantee the security of the information that you transmit to or through our Website. Therefore, you assume that risk by using the Website.
+This policy applies to [www.hauteliving.com](http://hauteliving.com/) and its affiliated city-specific websites only. We are not responsible for the practices employed by any other web sites linked to or from our web site, nor the information or content contained therein. Any other sites or links contained in this website that are not operated by [www.hauteliving.com](http://hauteliving.com/) may or may not have their own privacy statements that We encourage you to read as well. No third party sites are covered by this privacy policy.
 
-4\. Links to Other Websites. This Website may contain links to other websites. Please be aware that we are not responsible for the privacy practices of other websites.  
-We encourage you to be aware when you access any such third party links and to read the privacy policies of each website that you access. This Privacy Policy only applies to information collected by us.
+##  **Information Collection and Use**
 
-5\. Contact Us. If you have any questions, comments or concerns regarding this Privacy Policy and/or the practices described herein, please email us at admin@hauteliving.com or write us at 3301 NE 1st Ave, PH5, Miami, FL 33137. Using the same contact information, you may also contact us to view (and/or edit or delete) your personal information at any time.
+While using our Site, We may collect or ask you to provide us with certain personally identifiable information or data (“Personal Information”) that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, e-mail, and other demographic and/or profile data. This data may be used to enhance your experience at our website. We may use this Personal Information to ￼￼￼￼￼￼￼￼￼suggest additional content that you may be interested in, and We may share it with advertisers and sponsors of our website.
 
-This Privacy Policy and our legal obligations hereunder are subject to the laws of [Florida] and the U.S.A., regardless of the location of any user. You hereby consent to the exclusive jurisdiction of and venue in the federal and state courts located in [Miami-Dade County, Florida] U.S.A. in all disputes arising out of or relating to the Services.
+Other situations where [www.hauteliving.com](http://hauteliving.com/) may request or use your personal information includes, but is not limited to, registration with [www.hauteliving.com](http://hauteliving.com/), e-mail communications with [www.hauteliving.com](http://hauteliving.com/), any information you enter on our website or give us in any other way, your subscription to any Haute Living publication or newsletter, and your interaction with our site via using your identity from third-party ￼￼￼ ￼social networks, including, but not limited to, Facebook, Instagram, and Twitter. Please note that under Florida Law, e-mail addresses are public records.
 
-Your use of this Website is governed by, and subject to, the legal notices and disclaimers located at http://www.hauteliving.com and is subject at all times to all such legal notices and disclaimers. Furthermore, your use and access of the Website constitutes your agreement to be bound by the provisions contained in the Terms of Use and in this Privacy Policy.
+In certain special cases, we may disclose information we have collected if disclosure is necessary to identify, contact, or bring legal action against a party who may be interfering with [www.hauteliving.com](http://hauteliving.com/)’s rights, property, operations, or if We believe the law otherwise requires it. [www.hauteliving.com](http://hauteliving.com/) may also disclose Personal Information if We are required to respond to a demand from a law enforcement authority in connection with a criminal investigation.
+
+Upon notice from you that you wish to opt-out of future services and communications, We will remove your Personal Information from our files as soon as possible. Please contact [contactus@hauteliving.com](http://hauteliving.com/contact/) with opt-out requests or to remove yourself from ￼￼￼￼mailing lists controlled by [www.hauteliving.com](http://hauteliving.com/).
+
+##  **Log Data**
+
+Like many sites and operators, We collect information that your browser sends whenever you visit our Site (“Log Data”).
+
+This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+
+An IP address is an identifiable set of numbers assigned to your computer whenever you log into the internet through your network. It is how web pages identify your computer when you use their services. We may collect IP addresses for purposes of maintenance, system administration, user statistics, and to audit the use of [www.hauteliving.com](http://hauteliving.com/). Your IP address does not normally link to anything that is personally identifiable to you, which means that while we may use the IP address to track traffic on our site, your personal identity will remain anonymous.
+
+In addition, We may use third party services such as Google Analytics that collect, monitor, and analyze any of the aforementioned data.
+
+If we feel it is necessary, We may use Log Data to identify users of [www.hauteliving.com](http://hauteliving.com/) to enforce compliance with our terms of use or terms of service or to protect our service, site, or other users. ￼￼￼￼￼￼￼
+
+##  **Communications**
+
+We may use your Personal Information to contact you with newsletters, marketing, or promotional materials from [www.hauteliving.com](http://hauteliving.com/). These communications may or may not include offers tailored to your specific interests by our advertisers and sponsors as well. ￼
+
+￼There are times when we may share Personal Information with selected companies with which we have a relationship. We will only share this information if you have not opted- out of receiving further communications from us and our advertisers.
+
+If you receive these communications, you may always opt-out of receiving further communications by contacting us or un-registering in the communication that is sent to you.
+
+##  **Cookies**
+
+Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site or server and stored on your computer’s hard drive. ￼
+
+Like many sites, We use “cookies” to collect information. They allow us to provide customizable services and content our [www.hauteliving.com](http://hauteliving.com/). Cookies make your experience on our website more streamlined and enjoyable by saving your preferences while you are on our website. Cookies can also be collected on affiliated sites or sites that are linked to or from our website (“Third Party Companies”), so please be aware of the policies of any other sites you may find via our website, as these Third Party Companies may collect information about you when you view or click an advertisement at our site.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent by changing the settings in your internet browser. However, if you do not accept cookies, you may not be able to use some portions and features of our Site and/or your user experience may be diminished.
+
+##  **Security**
+
+[www.hauteliving.com](http://hauteliving.com/) operates secure data networks and functions in compliance with industry standard firewall and password protection. Only select authorized employees have access to information we collect.
+
+We also have procedures in place in order to protect against the loss, misuse, and alteration of data We collect. The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is completely secure. We cannot guarantee the absolute security of this information, but we strive to use the latest and most secure commercially acceptable means to protect your Personal Information and any other data we collect from you on [www.hauteliving.com](http://hauteliving.com/).
+
+##  **￼￼￼￼￼￼￼Changes to this Privacy Policy**
+
+This Privacy Policy is effective as of November 9, 2015 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page. We reserve the right to update or change our Privacy Policy without notice at any time and you should check this Privacy Policy periodically as all changes will be posted to this page.
+
+Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+
+##  **Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us ([contactus@hauteliving.com](http://hauteliving.com/contact/)). Please type “Privacy Policy” into the subject line of your message. ￼
