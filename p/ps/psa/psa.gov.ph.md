@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psa.gov.ph privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606124213id_/http%3A//psa.gov.ph/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psa.gov.ph privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126032435id_/http%3A//www.psa.gov.ph/article/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Philippine Statistics Authority
 
