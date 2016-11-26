@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the solidsmack.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607001153id_/http%3A//www.solidsmack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solidsmack.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126053115id_/http%3A//www.solidsmack.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SolidSmack
+# Privacy Policy - SolidSmack -
 
 **PRIVACY**  
 SolidSmack dearly respects your privacy and is committed to safeguarding your privacy while online at SolidSmack.com The following discloses how we go about gather and disseminate information for this site.
