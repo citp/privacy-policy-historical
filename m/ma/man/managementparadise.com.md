@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the managementparadise.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425144927id_/http%3A//www.managementparadise.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managementparadise.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126212629id_/http%3A//www.managementparadise.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy on ManagementParadise.com
 
