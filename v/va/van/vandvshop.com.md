@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vandvshop.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401194851id_/http%3A//www.vandvshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vandvshop.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126121009id_/http%3A//www.vandvshop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ We will not e-mail you in the future unless you have given us your consent.
 
 We will give you the chance to refuse any marketing email from us or from another trader in the future.
 
-**The type of information we will collect about you includes:**
+ **The type of information we will collect about you includes:**
 
   * Your Name
   * Address
@@ -33,4 +33,4 @@ We may use technology to track the patterns of behavior of visitors to our site.
 
 The information collected in this way can be used to identify you unless you modify your browser settings.
 
-If you have any questions about our Privacy Policy, please e-mail your questions to us at **  vandvshops@gmail.com**.
+If you have any questions about our Privacy Policy, please e-mail your questions to us at **  support@vandvshop.com**.
