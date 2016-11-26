@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tudordressing.com privacy policy that was archived on 2016-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160531182244id_/http%3A//www.tudordressing.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tudordressing.com privacy policy that was archived on 2016-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161126151514id_/http%3A//www.tudordressing.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en"><head>
 <title>Privacy Notice : Medieval Clothing &amp; Costumes, Medieval Dresses, Clothes - TudorDressing</title>
@@ -65,17 +65,33 @@ function riAjaxSearchNavigate(direction) {
 function riAjaxSearchSetSelected(menuitem) {
 	jQuery("#ajaxSearchData .ajaxSearchItems").removeClass("current");
 	jQuery("#ajaxSearchData .ajaxSearchItems").eq(menuitem).addClass("current");
-	ri_as_currentUrl = jQuery("#ajaxSearchData .ajaxSearchItems.current a").attr("href");
+	ri_as_currentUrl = jQuery("#ajaxSearchData .ajaxSearchItems.current a").attr("href");	
 }
 
+var suggestions_clas = '.rmm-main-list ';
+
 function riAjaxSearchUpdateResult(result){
-	jQuery('#suggestions').fadeIn();
-        jQuery('#menutop').css({'position':'relative'});
-        jQuery('#suggestions').css({'display':'inline','position':'absolute','left':'620px','top':'70%'});
-        jQuery('#suggestions').html(result);
+	jQuery(suggestions_clas+'#suggestions').fadeIn();
+	jQuery('#menutop').css({'position':'relative'});
+	jQuery(suggestions_clas+'#suggestions').css({'display':'inline','position':'absolute','left':'620px','top':'70%'});
+	jQuery(suggestions_clas+'#suggestions').html(result);
+		
+		
 }
+
+
 jQuery(document).ready(function() {
-	
+	jQuery('.rmm').each(function() {
+		var $width = jQuery(this).css('max-width');
+		width = $width.replace('px', ''); 
+		if ( jQuery(this).parent().width() < $width*1.05 ) {
+			suggestions_clas = '.rmm-toggled ';
+		}
+		else {
+			suggestions_clas = '.rmm-main-list ';
+		}
+	});
+
 	// Simulate the "hover" effect with the mouse
 	jQuery("#ajaxSearchData .ajaxSearchItems").live('hover', 
 		function () {
@@ -117,19 +133,26 @@ jQuery(document).ready(function() {
 				default:
 					var val = str = jQuery.trim(jQuery(this).val());
 					if(val.length == 0) {
-						jQuery('#suggestions').fadeOut(); // Hide the suggestions box
+						jQuery(suggestions_clas+'#suggestions').fadeOut(); // Hide the suggestions box						
 					} else if(val.length >= 3 && val != ri_as_currentVal) {
 						ri_as_currentVal = val;
 						if (ri_as_timeout) clearTimeout(ri_as_timeout);
 					  	ri_as_timeout = setTimeout(function() {
-					
-												jQuery('#ajaxSearchForm').ajaxSubmit({
+												
+						jQuery.get("ajax/ajax_search.php", {keyword: ""+val+""}, function(data) { // Do an AJAX call
+							riAjaxSearchUpdateResult(data);
+							
+						});
+						
+						/*
+						jQuery('#ajaxSearchForm').ajaxSubmit({
 							url:	"ajax/ajax_search.php",
 							type: "get",
 							success: function(responseText, statusText){
 								riAjaxSearchUpdateResult(responseText);
 							}
 						});
+						*/
 											  	}, 400);
 					}
 				break;
@@ -139,7 +162,7 @@ jQuery(document).ready(function() {
 	var cssObj = { 'box-shadow' : '#888 5px 10px 10px', // Added when CSS3 is standard
 		'-webkit-box-shadow' : '#888 5px 10px 10px', // Safari
 		'-moz-box-shadow' : '#888 5px 10px 10px'}; // Firefox 3.5+
-	jQuery("#suggestions").css(cssObj);
+	jQuery(suggestions_clas+"#suggestions").css(cssObj);
 
 })
 </script><link href="includes/templates/classic/css/stylesplash.css" rel="stylesheet" type="text/css">
