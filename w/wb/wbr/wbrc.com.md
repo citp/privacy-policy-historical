@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbrc.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515081219id_/http%3A//www.wbrc.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbrc.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126182251id_/http%3A//www.wbrc.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WBRC FOX6 News - Birmingham, AL
 
