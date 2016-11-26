@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shaunthesheep.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604120827id_/http%3A//shaunthesheep.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaunthesheep.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126140159id_/http%3A//www.shaunthesheep.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shaun the Sheep
 
