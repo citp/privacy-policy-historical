@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adperfect.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612021430id_/http%3A//www.adperfect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adperfect.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126063929id_/http%3A//www.adperfect.com/privacy-policy) for the most accurate reproduction.*
 
 # AdPerfect - Privacy Policy
 
