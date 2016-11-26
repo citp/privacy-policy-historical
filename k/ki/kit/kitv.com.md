@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kitv.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605125829id_/http%3A//www.kitv.com/story/30241739/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitv.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126043025id_/http%3A//www.kitv.com/story/30241739/privacy) for the most accurate reproduction.*
 
-# Privacy - Honolulu, Hawaii News and Weather - KITV Channel 4
+# Privacy - Honolulu, Hawaii news, sports & weather - KITV Channel 4
 
 **Lilly Broadcasting PRIVACY POLICY**
 
@@ -88,7 +88,7 @@ One of our Service Providers, World Now/Frankly, is integral to the operation an
 
  ** _California & Canadian Users: Your California Privacy Rights._** California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternatively, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information sharing. We have such a policy in place. The heading  **Third-Party Advertisers**  below explains our practices and how you can opt-out of having your information shared with third parties for the third parties’ direct or indirect marketing purposes, in accordance with such laws. In addition to reviewing  **Third-Party Advertisers** , if you wish to find out about any rights you may have under California Civil Code section 1798.83, you may notify us in writing at Lilly Broadcasting, C/O Wade O’Hagan, 801 South King St. , Honolulu, HI 96813 or contact 
 
-_[cmead@wicu12.com](https://web.archive.org/web/20160605125829id_/http%3A//www.kitv.com/story/30241739/cmead@wicu12.com)_. Canadian residents also have certain rights to know how their information may be shared with third parties who engage in direct marketing activities. Again, the section  **Third-Party Advertisers**  explain our practices and how you can opt-out of having your information shared for such purposes, in accordance with such laws. For the avoidance of doubt, these opt-out options are available for all users and are not limited to Californian and Canadian users. 
+_[cmead@wicu12.com](https://web.archive.org/web/20161126043025id_/http%3A//www.kitv.com/story/30241739/cmead@wicu12.com)_. Canadian residents also have certain rights to know how their information may be shared with third parties who engage in direct marketing activities. Again, the section  **Third-Party Advertisers**  explain our practices and how you can opt-out of having your information shared for such purposes, in accordance with such laws. For the avoidance of doubt, these opt-out options are available for all users and are not limited to Californian and Canadian users. 
 
  **What about messages sent to me at my wireless email address or short message service?**
 
