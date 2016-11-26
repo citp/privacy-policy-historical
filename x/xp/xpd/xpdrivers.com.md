@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the xpdrivers.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604194014id_/http%3A//xpdrivers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpdrivers.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126205448id_/http%3A//www.xpdrivers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | XP Drivers
-
-[](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=200&sealid=112)DRIVER TOOL is certifed as a Trusted Download Program by TRUSTe signifying that the DRIVER TOOL application has been tested TRUSTe for compliance with TRUSTe’s TDP program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding the DRIVER TOOL application, please contact us at DriverTool 535 S. Main Street Cedar City, UT 84720 or by email at info@xpdrivers.com or by phone at (877) 592-4597. If you are not satisfied with our response you can contact TRUSTe [here](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=200&sealid=112).
-
-* * *
 
 **Effective Date: 05/21/2012**
 
