@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incrediblesmoothies.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607052715id_/http%3A//www.incrediblesmoothies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incrediblesmoothies.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126040653id_/http%3A//www.incrediblesmoothies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Incredible Smoothies
 
@@ -54,6 +54,6 @@ If you do not agree to Incredible Smoothies (http://www.incrediblesmoothies.com)
 
 Your use of this site indicates acceptance of this privacy policy.
 
-**P.S.** Have a look at [Reset 28](https://www.e-junkie.com/ecom/gb.php?ii=1411988&cl=103288&c=ib&aff=103288), my 28-day program for boosting energy and losing weight.
+**P.S.** My [Reset 28 program](https://www.e-junkie.com/ecom/gb.php?ii=1411988&cl=103288&c=ib&aff=103288) for boosting energy and losing weight is now 55% off during my pre-Black Friday sale!
 
 About Tracy:
