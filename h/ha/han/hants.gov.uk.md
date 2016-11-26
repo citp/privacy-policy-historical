@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hants.gov.uk privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327001158id_/http%3A//www.hants.gov.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hants.gov.uk privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126170107id_/http%3A//www.hants.gov.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -34,6 +34,8 @@ We use your information in the following ways:
 
   * to help investigate any concerns or complaints you have may have about the services you receive
 
+  * to improve the health of the population we serve. To help with this, we use data and information from a range of sources including hospitals to understand more about the nature and causes of disease and ill-health in the area.
+
   * where otherwise allowed under the Data Protection Act 1998 (DPA). For further information on the DPA refer to the [Information Commissioner’s website](https://ico.org.uk/)
 
 
@@ -63,9 +65,7 @@ We will only share your personal information when we are permitted to or are req
 
 The County Council does not pass personal data to other organisations for marketing purposes without your consent.
 
-Your personal information may be processed by 
-
-an external service provider acting on our behalf to provide services.
+Your personal information may be processed by an external service provider acting on our behalf to provide services.
 
 ## Email
 
@@ -75,9 +75,9 @@ Emails that we send to you or you send to us may be kept as a record of contact.
 
 You can ask us to stop processing your personal data in relation to any County Council service. This may delay or prevent us delivering a service to you. We will try to meet your request but we may be required to hold or process information to meet our legal duties.
 
-You are entitled to request access to and a copy of any information we hold about you. You also have the right to see CCTV images of yourself and be provided with a copy.
+You also have the right to see CCTV images of yourself and be provided with a copy by making a Subject Access Request.
 
-[Request access to your information or CCTV images of yourself](http://www3.hants.gov.uk/dataprotection/subject-access-request-info.htm)
+[Request access to your information or CCTV images of yourself](https://www.hants.gov.uk/abouttheouncil/contact)
 
 If you find that the information that the County Council holds about you is no longer accurate, you have the right to ask to have this corrected. We may not always be able to change or remove the information. However, we will correct factual inaccuracies and may include your comments in the records.
 
@@ -91,7 +91,7 @@ Write to The Information Compliance Team, Hampshire County Council, The Castle, 
 
 Phone 01962 847374
 
-Further information can be found on the [Hampshire County Council Data Protection pages](http://www3.hants.gov.uk/service826).
+Further information can be found on the [Hampshire County Council Data Protection pages](https://www.hants.gov.uk/aboutthecouncil/strategiesplansandpolicies/dataprotection).
 
 ## External links
 
@@ -132,4 +132,4 @@ Hantsweb is a Registered® Trademark. Please read our [Copyright Statement](http
 
 ## Further information
 
-[Hampshire County Council Data Protection pages](http://www3.hants.gov.uk/service826).
+[Hampshire County Council Data Protection pages](https://www.hants.gov.uk/aboutthecouncil/strategiesplansandpolicies/dataprotection).
