@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catalogs.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611130919id_/http%3A//www.catalogs.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catalogs.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126230429id_/http%3A//www.catalogs.com/privacy.asp) for the most accurate reproduction.*
 
 # Catalogs.com Privacy Policy
 
