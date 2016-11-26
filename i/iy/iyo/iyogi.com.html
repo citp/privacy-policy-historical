@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the iyogi.com privacy policy that was archived on 2016-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160601090948id_/http%3A//www.iyogi.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iyogi.com privacy policy that was archived on 2016-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161126200936id_/http%3A//www.iyogi.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" style=""><!--<![endif]--><head>
 <meta charset="UTF-8">
@@ -253,17 +253,34 @@ if (visit==null){
 jQuery(document).ready(function(){ 
        jQuery.ajaxSetup({ cache: false });
               jQuery.get("/.IPLigenceServlet.sjson?dpc=true",function(data,status){
+                  document.getElementById("chatNow").style.display='none';
             var CountryCode = data.CountryCode;
             var screenWidth = jQuery(window).width();
-             document.getElementById("pk_pop_up").style.display='';  
-                  createCookie('iyogi-com','1','1');
-                //alert(CountryCode);
+                  //document.getElementById("chatNow").style.display='none';
+                  //document.getElementById("pk_pop_up").style.display='';  
+                  //createCookie('iyogi-com','1','1');
+                  //alert(CountryCode);
+
+                  //alert(h);  
                   if(screenWidth>768){
+                      //document.getElementById("pk_pop_up").style.display=''; 
+                      //document.getElementById("chatNow").style.display='none';	
+                      document.getElementById("call_now").style.display=''
+                      //document.getElementById("pk_pop_up").style.display='';
+                      jQuery("#call_now").html("<span><strong> Call Now</strong> <strong>1 877-770-0329</strong>  </span><br>");
+                      //
+                    //createCookie('iyogi-com','1','1');
+
 
                 if(CountryCode=="US")
                 {
-                    document.getElementById("pk_pop_up").style.display='';
-                    createCookie('iyogi-com','1','1');
+                    //document.getElementById("pk_pop_up").style.display=''; 
+
+                    //document.getElementById("call_now").style.display=''
+                    //document.getElementById("pk_pop_up").style.display='';
+                    //jQuery("#call_now").html("<span>For Great Tech Support Call Now 1 877-770-0329  </span><br>");
+                    //document.getElementById("chatNow").style.display='none';
+                    //createCookie('iyogi-com','1','1');
                 }
                 else
                 {
@@ -284,6 +301,7 @@ jQuery(document).ready(function(){
 .pop_areas .read_mor a:hover { background: #0089d0; }
 .pop_areas h2 { font-size: 18px; color: #000; padding-bottom: 20px; line-height: 26px; }
 .pop_areas .skip_cont { color: #000; position: relative; float: right; top: 10px; }
+    #call_now a{font-size:50px;}
 </style>
 
 
@@ -302,11 +320,27 @@ jQuery(document).ready(function(){
                   <div class="read_mor"><a href="http://www.iyogi.com/news/statement-from-vishal-dhar-iyogi.html" target="_blank">Read more</a></div>
                   <p class="lightboxcosed2 skip_cont" style="color:#000;"><a href="javascript:void(0);">skip and continue to the website</a></p>
               </div>--> 
-    
+
    <!-- </a> </div>
 </div>
 </span>-->
-<div class="mboxDefault"></div>
+<span id="pk_pop_up" style="display:none">
+<div class="lightboxpanel" style="display: block;">
+  <div class="popimg" style="top: 173.5px;">
+    <div class="lightboxcosed"> <img src="/content/dam/iyogimainsite/iyogicom/light_box_clsoe.gif" alt="closed" border="0"> </div>
+    <a rel="nofollow" href="#" target="_blank" onclick="_gaq.push(['_trackEvent', 'Techgenie Pc Optimizer Pro', 'Techgenie Pc Optimizer Pro','http://www.iyogi.com/']);"> <img class="poppic" src="http://www.iyogi.net/popup/Tollfree-banner.png" alt="" border="0"> 
+    <!--       <div class="pop_areas">
+                  <p>December 17th, 2015</p>
+                  <h2>Statement from Vishal Dhar, Co-founder and president marketing for iYogi regarding Washington State complaint against iYogi. </h2>
+
+                  <div class="read_mor"><a href="http://www.iyogi.com/news/statement-from-vishal-dhar-iyogi.html" target="_blank">Read more</a></div>
+                  <p class="lightboxcosed2 skip_cont" style="color:#000;"><a href="javascript:void(0);">skip and continue to the website</a></p>
+              </div>--> 
+
+   </a> </div>
+</div>
+</span>
+    <div class="mboxDefault"></div>
 <script language="javascript1.2">
         //mboxCreate('global_iyogi_com');
     </script>
@@ -539,7 +573,10 @@ jQuery(document).ready(function(){
                         </div>
                        </div>
                       <div style="border-left: 1px solid rgb(224, 222, 222);" class="col_two_thirds">
-                        <h3>Services available in 11 countries.</h3>
+                        <h3>Services available in <div class="title_row_right">
+  <div class="bbb_container"><a title="iYogi, Inc. BBB Business Review" href="http://www.bbb.org/new-york-city/business-reviews/computers-hardware-software-and-services/iyogi-inc-in-new-york-ny-99062/" onclick="ga('send', 'event', 'BBB', 'BBB reviews', 'iyogicom BBB customer reviews', 1);" target="_blank"><img alt="iYogi, Inc. BBB Business Review" style="border: 0pt none;" src="http://seal-newyork.bbb.org/seals/blue-seal-96-50-iyogi-inc-99062.png"></a></div>
+  <span class="l_spacing"><img src="/content/dam/iyogimainsite/iyogicom/2million.png" alt="two million"></span> <span class="sitejabber"><a href="http://www.sitejabber.com/reviews/www.iyogi.com" onclick="ga('send', 'event', 'sitejabber', 'sitejabber reviews', 'iyogicom sitejabber customer reviews', 1);" target="_blank"> <img src="/content/dam/iyogimainsite/iyogicom/badge_5stars.png" alt="iYogi Reviews - SiteJabber" style="bottom: 10px;width: 100px;"> </a></span> </div>
+.</h3>
                           
                         <img src="/content/dam/iyogimainsite/iyogicom/uploads/2013/10/map31.png" alt="Map"> </div>
                     </div>
@@ -761,7 +798,10 @@ jQuery(document).ready(function(){
 
  </ul></ul></div>
     </div>
-    <div style="border-left: 1px solid rgb(224, 222, 222);" class="col_two_thirds"> <h3>Services available in 11 countries.</h3>
+    <div style="border-left: 1px solid rgb(224, 222, 222);" class="col_two_thirds"> <h3>Services available in <div class="title_row_right">
+  <div class="bbb_container"><a title="iYogi, Inc. BBB Business Review" href="http://www.bbb.org/new-york-city/business-reviews/computers-hardware-software-and-services/iyogi-inc-in-new-york-ny-99062/" onclick="ga('send', 'event', 'BBB', 'BBB reviews', 'iyogicom BBB customer reviews', 1);" target="_blank"><img alt="iYogi, Inc. BBB Business Review" style="border: 0pt none;" src="http://seal-newyork.bbb.org/seals/blue-seal-96-50-iyogi-inc-99062.png"></a></div>
+  <span class="l_spacing"><img src="/content/dam/iyogimainsite/iyogicom/2million.png" alt="two million"></span> <span class="sitejabber"><a href="http://www.sitejabber.com/reviews/www.iyogi.com" onclick="ga('send', 'event', 'sitejabber', 'sitejabber reviews', 'iyogicom sitejabber customer reviews', 1);" target="_blank"> <img src="/content/dam/iyogimainsite/iyogicom/badge_5stars.png" alt="iYogi Reviews - SiteJabber" style="bottom: 10px;width: 100px;"> </a></span> </div>
+.</h3>
 <p> 					
                         <img src="/content/dam/iyogimainsite/iyogicom/uploads/2013/10/map31.png" alt="Map">  </p></div>
 
@@ -791,14 +831,17 @@ jQuery(document).ready(function(){
         <!-- END HEADER MENU-->
       <section class="inside_top_slide_panel clearfix">
         <div class="tagline">
-          <h1> <span class="float_lft">Call</span>
-            <label class="flt_home">
-              <tfn class="iyogicom_global_tfn"> <span class="mid_bracket1">{</span> <span class="float_pad"> <span class="res_brd" style="display:block;">1 877 770 9247</span> 1 877 700 5208</span> <span class="mid_bracket2">}</span> </tfn>
-            </label>
-            <span class="float_lft">for Great Tech Support</span> </h1>
+          <h1>
+    <p id="call_now"></p>
+
+    <span id="chatNow"><span class="chat bomgar_chat" style="line-height: 25px;float:none; text-decoration:underline"><a href="javascript:void(0);" style="color: #fff; font-size: .7em; font-family: 'Raleway', sans-serif; font-weight: 300; display: inline-block; background: #008000; transition: all 0.25s ease-in 0s; -webkit-transition: all 0.25s ease-in 0s; padding: 6px 20px; border-radius: 4px;">Chat Now</a></span> For Tech Support </span>    
+      <!--<div style="font-size:17px; line-height:31px; width:100%; font-weight:200;">Support Hour: 0800 PST Monday to 2200 PST Friday<div> --></h1>
+          <br>
           <div class="title_row_right">
-  <div class="bbb_container"><a title="iYogi, Inc. BBB Business Review" href="http://www.bbb.org/new-york-city/business-reviews/computers-hardware-software-and-services/iyogi-inc-in-new-york-ny-99062/" onclick="ga('send', 'event', 'BBB', 'BBB reviews', 'iyogicom BBB customer reviews', 1);" target="_blank"><img alt="iYogi, Inc. BBB Business Review" style="border: 0pt none;" src="http://seal-newyork.bbb.org/seals/blue-seal-96-50-iyogi-inc-99062.png"></a></div>
-  <span class="l_spacing"><img src="/content/dam/iyogimainsite/iyogicom/2million.png" alt="two million"></span> <span class="sitejabber"><a href="http://www.sitejabber.com/reviews/www.iyogi.com" onclick="ga('send', 'event', 'sitejabber', 'sitejabber reviews', 'iyogicom sitejabber customer reviews', 1);" target="_blank"> <img src="/content/dam/iyogimainsite/iyogicom/badge_5stars.png" alt="iYogi Reviews - SiteJabber" style="bottom: 10px;width: 100px;"> </a></span> </div>
+ <!-- <div class="bbb_container"><a title="iYogi, Inc. BBB Business Review" href="http://www.bbb.org/new-york-city/business-reviews/computers-hardware-software-and-services/iyogi-inc-in-new-york-ny-99062/" onClick="ga('send', 'event', 'BBB', 'BBB reviews', 'iyogicom BBB customer reviews', 1);" target="_blank"><img alt="iYogi, Inc. BBB Business Review" style="border: 0pt none;" src="http://seal-newyork.bbb.org/seals/blue-seal-96-50-iyogi-inc-99062.png"></a></div> -->
+  <span class="l_spacing"><img src="/content/dam/iyogimainsite/iyogicom/2million.png" alt="two million"></span> 
+<!--<span class="sitejabber"><a href="http://www.sitejabber.com/reviews/www.iyogi.com" onClick="ga('send', 'event', 'sitejabber', 'sitejabber reviews', 'iyogicom sitejabber customer reviews', 1);" target="_blank"> <img src="/content/dam/iyogimainsite/iyogicom/badge_5stars.png" alt="iYogi Reviews - SiteJabber" style="bottom: 10px;width: 100px;" /> </a></span> -->
+</div>
 </div>
       </section>
     </section>
@@ -1010,7 +1053,7 @@ jQuery(document).ready(function(){
 			</p>
 			
             <div class="day_ago_box">
-			4 months ago    
+			10 months ago    
 			       <!--  <div class="day_ago_box2"> <a href="javascript:void(0);">
 			        <span class="icon1"></span></a> <a href="javascript:void(0);">
 			        <span class="icon2"></span></a>
@@ -1052,14 +1095,14 @@ jQuery(document).ready(function(){
                <span></span> </div>
               <div class="blog_box_inner_right">
 			
-		        <h2>Google Hangouts: The Best Way to Communicate with Friends Online</h2>
-                <p id="blogdesc">If you’ve been a Gmail user for a very long<a rel="nofollow" href="http://www.iyogiblog.com/technology-today/google-hangouts-the-best-way-to-communicate-with-friends-online.html" style="font-size:15px; color:#fff"> Read More</a></p>
+		        <h2>24 Ways IFTTT Can Automate IoT in the Home and Office</h2>
+                <p id="blogdesc">If you love technologies that make your life easier (who<a rel="nofollow" href="http://www.iyogiblog.com/enterprise-solutions/24-ways-ifttt-automate-iot-home-office.html" style="font-size:15px; color:#fff"> Read More</a></p>
 				
                 <script>
 
                     jQuery(document).ready(function(){ 
-                        var descblog1 = '<img width="750" height="375" src="http://www.iyogiblog.com/wp-content/uploads/2015/11/google-hangouts.png" class="attachment- wp-post-image" alt="google-hangouts" style="float:left; margin:0 15px 15px 0;" />If you’ve been a Gmail user for a very long';
-                        var descblogurl1 = 'http://www.iyogiblog.com/technology-today/google-hangouts-the-best-way-to-communicate-with-friends-online.html';
+                        var descblog1 = '<img width="400" height="390" src="http://www.iyogiblog.com/wp-content/uploads/2015/04/Smart-home-control.jpg" class="attachment- wp-post-image" alt="" style="float:left; margin:0 15px 15px 0;" />If you love technologies that make your life easier (who';
+                        var descblogurl1 = 'http://www.iyogiblog.com/enterprise-solutions/24-ways-ifttt-automate-iot-home-office.html';
                         descblog1 = descblog1.replace(/(<([^>]+)>)/ig,"");
                         jQuery("#blogdesc").html(descblog1+'<a rel="nofollow" href="'+descblogurl1+'" style="font-size:15px; color:#fff"> Read More</a>');
 
@@ -1068,15 +1111,19 @@ jQuery(document).ready(function(){
                 </script>    
                 
                 <div class="aug_box">
-                  <div class="aug_box_left">Nov 25th, 2015</div>
+                  <div class="aug_box_left">Apr 26th, 2016</div>
                   <div class="aug_box_right">
                    <!--  <div class="aug_box2"> <a href="javascript:void(0);"><span class="icon1"></span></a> <a href="javascript:void(0);"><span class="icon2"></span></a>
                      </div>
-                 -->    <span style="float:right; display:block; padding-top:3px;">by Trishna</span> </div>
+                 -->    <span style="float:right; display:block; padding-top:3px;">by mohit.gupta</span> </div>
                 </div>
 				   <ul>
 			
 			
+		   
+		   
+		   	   <li><a target="_blank" href="http://www.iyogiblog.com/technology-today/google-hangouts-the-best-way-to-communicate-with-friends-online.html">Google Hangouts: The Best Way to Communicate with Friends Online</a></li>
+				               					  
 		   
 		   
 		   	   <li><a target="_blank" href="http://www.iyogiblog.com/alerts/iyogi-security-alert-ransomware-gets-nastier-than-ever.html">iYogi Security Alert: Ransomware Gets Nastier than Ever!</a></li>
@@ -1084,10 +1131,6 @@ jQuery(document).ready(function(){
 		   
 		   
 		   	   <li><a target="_blank" href="http://www.iyogiblog.com/alerts/iyogi-scam-alert-government-grant-scams-are-the-newest-type-of-phone-scam.html">iYogi Scam Alert: Government Grant Scams Are the Newest Type of Phone Scam</a></li>
-				               					  
-		   
-		   
-		   	   <li><a target="_blank" href="http://www.iyogiblog.com/technology-today/unroll-me-free-ios-app-to-de-clutter-your-mailbox.html">Unroll.me – Free iOS App to De-Clutter your Mailbox!</a></li>
 				               					  
 		   
 		  </ul></div></div>
@@ -1249,6 +1292,12 @@ Read more : <a href="http://t.co/1cEGbVyjlU" target="_blank" title="http://bit.l
 		<span class="pro_bg_contianer"><span class="pro_bg"></span></span> </div>
           <ul>
 	
+			<li><a href="http://www.iyogi.com/editors-pick/slow-pc-restore-speed.html">Why Is My Computer So Slow? Si ... <span>more</span></a></li>        
+	
+			<li><a href="http://www.iyogi.com/editors-pick/mobile-apps-business-leaders.html">Mobile Apps for Business Leade ... <span>more</span></a></li>        
+	
+			<li><a href="http://www.iyogi.com/editors-pick/got-a-new-computer-4-ways-to-keep-data-safe.html">Got a New Computer! 4 Ways to  ... <span>more</span></a></li>        
+	
 			<li><a href="http://www.iyogi.com/editors-pick/2016-iphone-review.html">The 2016 iPhone Version is Set ... <span>more</span></a></li>        
 	
 			<li><a href="http://www.iyogi.com/editors-pick/technology-sleep-wake.html">Technology helps you sleep wel ... <span>more</span></a></li>        
@@ -1257,13 +1306,7 @@ Read more : <a href="http://t.co/1cEGbVyjlU" target="_blank" title="http://bit.l
 	
 			<li><a href="http://www.iyogi.com/editors-pick/12-secrets-that-double-your-efficiency-on-iphone6.html">12 Secrets that Double Your Ef ... <span>more</span></a></li>        
 	
-			<li><a href="http://www.iyogi.com/editors-pick/slow-pc-restore-speed.html">Why Is My Computer So Slow? Si ... <span>more</span></a></li>        
-	
 			<li><a href="http://www.iyogi.com/editors-pick/home-automation-systems.html">Top Home Automation Systems fo ... <span>more</span></a></li>        
-	
-			<li><a href="http://www.iyogi.com/editors-pick/wait-before-you-go-gaga-over-google-photos.html">Wait Before You Go Gaga Over t ... <span>more</span></a></li>        
-	
-			<li><a href="http://www.iyogi.com/editors-pick/el-capitan-improvements.html">5 Latest Mac OS X – El Capitan ... <span>more</span></a></li>        
 	
 		</ul>            
       
@@ -1280,13 +1323,20 @@ Read more : <a href="http://t.co/1cEGbVyjlU" target="_blank" title="http://bit.l
         <section style="width: 1366px; margin: 0px;" class="wrapper">
             <div>
 				
+                <!--<span class="footer_ph_no">
+                    <img src="/content/dam/iyogimainsite/iyogicom/customer_icon_footer.png" alt="" />
+                    <span>
+                        Support: <strong><tfn class="iyogicom_global_tfn"> 1 877 770 9194</tfn></strong>
+                    </span>
+                </span>-->
+                
                 <!--<span class="footer_ph_no opt">
                     <img src="/content/dam/iyogimainsite/iyogicom/icon-dolor.png" alt="" />
                     <span>Billing: <strong><tfn class="iyogicom_global_tfn">  1 866 914 9049</tfn></strong></span>
                 </span> -->
-                <span class="footer_ph_no chat_care chat bomgar_chat">
+                <!--<span class="footer_ph_no chat_care chat bomgar_chat">
 				<img src="/content/dam/iyogimainsite/iyogicom/chat_icon_footer.png" alt="">
-                    Billing &amp; Feedback <a href="javascript:void(0);">Chat Now</a></span>
+                    Billing & Feedback <a href="javascript:void(0);">Chat Now</a></span>-->
 
 
 
@@ -1341,7 +1391,7 @@ Read more : <a href="http://t.co/1cEGbVyjlU" target="_blank" title="http://bit.l
                                 }
                             </style>
                         </li>
-                        <li><div class="twitter_like"><div><iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" class="twitter-follow-button twitter-follow-button-rendered" style="position: absolute; visibility: hidden; width: 0px; height: 0px;" title="Twitter Follow Button" src="https://platform.twitter.com/widgets/follow_button.3476cd70032ff6b94ecc9ea63ab78a8b.en.html#_=1580470011676&amp;dnt=false&amp;id=twitter-widget-0&amp;lang=en&amp;screen_name=iYogi&amp;show_count=true&amp;show_screen_name=true&amp;size=m" data-screen-name="iYogi"></iframe></div></div></li>
+                        <li><div class="twitter_like"><div><iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" class="twitter-follow-button twitter-follow-button-rendered" style="position: absolute; visibility: hidden; width: 0px; height: 0px;" title="Twitter Follow Button" src="https://platform.twitter.com/widgets/follow_button.3476cd70032ff6b94ecc9ea63ab78a8b.en.html#_=1580470027707&amp;dnt=false&amp;id=twitter-widget-0&amp;lang=en&amp;screen_name=iYogi&amp;show_count=true&amp;show_screen_name=true&amp;size=m" data-screen-name="iYogi"></iframe></div></div></li>
                         <li><div class="google_like"></div></li>
                         <li>
                             <!--<div class="g-plusone" data-size="medium" width="100px"></div>-->
@@ -1365,9 +1415,7 @@ Read more : <a href="http://t.co/1cEGbVyjlU" target="_blank" title="http://bit.l
       
 
     <div class="links">
-        <span class="trust_pilot">
-<a href="javascript:void(0);" onclick="ga('send', 'event', 'trustpilot', 'trustpilot reviews', 'iyogicom trustpilot customer reviews', 1);"><div class="trustpilot-widget" data-locale="en-US" data-template-id="5419b732fbfb950b10de65e5" data-businessunit-id="4f87a7980000640005145f80" data-style-height="20px" data-style-width="100%" data-theme="light"></div></a>
-</span>
+        
         
         			<a href="https://www.linkedin.com/company/iyogi" target="_blank" title="iYogi @ Linkedin" class="onlinkedin"></a>
                     <a href="mailto:customerservice@iyogi.com" onclick="CQ_Analytics.record({event:'emailus', 
@@ -1790,11 +1838,11 @@ CQ_Analytics.CCM.addListener("storesinitialize", function(e) {
 
 
 <script type="text/javascript">
-<!--
+    //<!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //-->
 </script>
-<noscript><img src="http://somni.iyogi.com/b/ss/iyogi.comiyogiprod/1/H.25--NS/1461143865621?cdp=2&amp;gn=content%3Aiyogi-com%3Aen%3Aprivacy" height="1" width="1" border="0" alt=""/></noscript>
+<noscript><img src="http://somni.iyogi.com/b/ss/iyogi.comiyogiprod/1/H.25--NS/1479140203520?cdp=2&amp;gn=content%3Aiyogi-com%3Aen%3Aprivacy" height="1" width="1" border="0" alt=""/></noscript>
 <span data-tracking="{event:'pageView', values:{}, componentPath:'foundation/components/page'}"></span>
 
 
