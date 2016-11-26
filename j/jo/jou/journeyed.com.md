@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journeyed.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405230421id_/http%3A//www.journeyed.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journeyed.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126144849id_/http%3A//www.journeyed.com/page/privacy) for the most accurate reproduction.*
 
 # JourneyEd.com: Academic software discounts, Education software discounts
 
@@ -8,7 +8,7 @@ BY USING THIS WEBSITE OR SUBMITTING PERSONAL INFORMATION TO JOURENYED.COM THROUG
 
 **Scope of this Privacy Statement**
 
-_In General._ This Privacy Statement applies to each website operated by JourneyEd.com,Inc., with headquarters at 5212 Tennyson Pkwy. Ste. 130, Plano, Texas 75024, United States of America, where this Privacy Statement can be accessed from a hyperlink on that website. JourneyEd.com, Inc. also does business as JourneyEd, Academic Superstore, Gradware, and JourneyEd Canada.
+_In General._ This Privacy Statement applies to each website operated by JourneyEd.com,Inc., with headquarters at 5212 Tennyson Pkwy. Ste. 150, Plano, Texas 75024, United States of America, where this Privacy Statement can be accessed from a hyperlink on that website. JourneyEd.com, Inc. also does business as JourneyEd, Academic Superstore, Gradware, and JourneyEd Canada.
 
 JourneyEd respects the privacy of our customers, partners and suppliers of products or services and clients. The purpose of this Privacy Statement is to provide you with information concerning how we collect personal information when you use this website, and how we collect other information regarding your interaction with this website without identifying you as an individual; how we use, handle and disclose collected information; and choices you may have about the ways we collect and use that information. Our goal in handling personal information provided to us is to comply with applicable data protection and privacy laws and to offer users of our website notice, choice and consent regarding processing for direct marketing purposes, security, data integrity, access, and enforcement with regard to personal information.
 
@@ -106,7 +106,7 @@ JourneyEd respects your right to make choices about the ways we collect, use and
 
 At any time you can have your name removed from our email marketing lists. If you wish to opt out of receiving information please click the â€œunsubscribeâ€ link found at the bottom of every email. 
 
-If you decide you do not wish to receive further postal mailings or telephone calls from us, please let us know by mailing or faxing a letter containing your name and address to: JourneyEd.com, Inc., ATTN: Do Not Mail, 5212 Tennyson Pkwy. Ste. 130, Plano, TX 75024. To ensure your request is handled accurately, please include a copy of your catalog label with your request. Please make sure to contact us for each address you have provided to us. You may also use the above address to eliminate duplicate catalogs by mailing or faxing a letter containing your name and address and this request, ATTN: Catalog De-Duplication. 
+If you decide you do not wish to receive further postal mailings or telephone calls from us, please let us know by mailing or faxing a letter containing your name and address to: JourneyEd.com, Inc., ATTN: Do Not Mail, 5212 Tennyson Pkwy. Ste. 150, Plano, TX 75024. To ensure your request is handled accurately, please include a copy of your catalog label with your request. Please make sure to contact us for each address you have provided to us. You may also use the above address to eliminate duplicate catalogs by mailing or faxing a letter containing your name and address and this request, ATTN: Catalog De-Duplication. 
 
 If you accept a session or persistent cookie, you can delete it at any time through your web browser (e.g., as soon as you leave our website). If you do not wish to receive cookies or wish to manage when you accept cookies in general, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. Although you are not required to accept our cookies, if you set your browser to reject cookies, you may not be able to use all of the features and functionality of this website. 
 
@@ -122,7 +122,7 @@ Different countries have different privacy laws and requirements. Please know, h
 
 We strive to maintain the accuracy and integrity of the personal information in our databases and to keep that information up-to-date. We provide ways for you to access your personal information as required by applicable law, so that you can correct inaccuracies or update your personal information. 
 
-If you would like to review, correct or challenge your personal information, please contact us by postal mail or fax addressed to us at JourneyEd.com, Inc., ATTN: Information Update, 5212 Tennyson Pkwy. Ste. 130, Plano, TX 75024 or by e-mail at privacy@JourneyEd.com. You may write to us in your own language.
+If you would like to review, correct or challenge your personal information, please contact us by postal mail or fax addressed to us at JourneyEd.com, Inc., ATTN: Information Update, 5212 Tennyson Pkwy. Ste. 150, Plano, TX 75024 or by e-mail at privacy@JourneyEd.com. You may write to us in your own language.
 
 If you contact us we may, for your protection, ask you for additional information to verify your identity. In most cases, we will provide the access you request and correct or delete any inaccurate personal information you discover. We reserve the right, however, to limit or deny your request to the extent permitted by applicable law if the disclosure may lead to a breach of applicable law and regulation, e.g. in case of any legal obligation to retain certain data, or if you have failed to provide sufficient evidence to verify your identity.
 
@@ -132,9 +132,9 @@ This Privacy Statement is only applicable to the use and disclosure of informati
 
 **Children's Privacy**
 
-If you have not reached the age of majority or are not able to enter into legally binding agreements in your country, you may not use this website unless supervised by an adult. Our goal is to comply with applicable laws and regulations relating to collection and use of information from children as such term is defined by applicable laws. If you believe that we have received information from a child or other person protected under such laws, please notify us immediately by postal mail addressed to JourneyEd.com's Privacy Department, 5512 Tenyson Pkwy. Ste. 130, Plano, Texas 75024, United States of America or by e-mail at privacy@JourneyEd.com, and we wiles, or have privacy-related questions not answered online, you may contact us by any of the following means:
+If you have not reached the age of majority or are not able to enter into legally binding agreements in your country, you may not use this website unless supervised by an adult. Our goal is to comply with applicable laws and regulations relating to collection and use of information from children as such term is defined by applicable laws. If you believe that we have received information from a child or other person protected under such laws, please notify us immediately by postal mail addressed to JourneyEd.com's Privacy Department, 5212 Tennyson Pkwy. Ste. 150, Plano, Texas 75024, United States of America or by e-mail at privacy@JourneyEd.com, and we wiles, or have privacy-related questions not answered online, you may contact us by any of the following means:
 
-  * _By Mail:_ You may contact us by postal mail addressed to JourneyEd.com, Inc., ATTN: Privacy Department, 5212 Tennyson Pkwy. Ste. 130, Plano, Texas 75024, United States of America. 
+  * _By Mail:_ You may contact us by postal mail addressed to JourneyEd.com, Inc., ATTN: Privacy Department, 5212 Tennyson Pkwy. Ste. 150, Plano, Texas 75024, United States of America. 
   * _By Email:_ You may contact us by e-mail at privacy@JourneyEd.com. Please specify "Global Privacy Question" in the subject line to help us to expedite our review of your e-mail.  
 
 
