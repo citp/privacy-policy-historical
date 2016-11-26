@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giphhy.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620133603id_/http%3A//giphhy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giphhy.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126041742id_/http%3A//giphhy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Giphhy
 
